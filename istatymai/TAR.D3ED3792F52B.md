@@ -2530,10 +2530,10 @@ VALSTYBĖS TARNAUTOJŲ SOCIALINĖS IR KITOS GARANTIJOS
 35 straipsnis. Valstybės tarnautojų atostogos
 1. Valstybės tarnautojai turi teisę į šio Įstatymo
 nustatytų rūšių ir trukmės kasmetines atostogas.
-2. Valstybės tarnautojai turi teisę į šio Įstatymo
-nustatytas atostogas. Valstybės tarnautojai taip pat turi teisę į Darbo kodekso
-nustatytas nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui
-prižiūrėti, iki jam sueis treji metai, ir mokymosi atostogas.
+2. Valstybės tarnautojai turi teisę į šio Įstatymo nustatytas
+atostogas. Valstybės tarnautojai taip pat turi teisę į Darbo kodekso nustatytas
+nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti,
+iki jam sueis treji metai, ir mokymosi atostogas.
 Straipsnio pakeitimai:
 Nr. X-464, 2005-12-22,
 Žin., 2006, Nr. 4-97 (2006-01-12)
@@ -2572,11 +2572,11 @@ Nr. XI-53, 2008-12-09,
 38
 straipsnis. Atostogos kvalifikacijai tobulinti
 1. Valstybės
-tarnautojui, turinčiam ne trumpesnį kaip 3 mėnesių tarnybos stažą toje valstybės
-ar savivaldybės institucijoje ar įstaigoje, jo ir į pareigas jį priėmusio
-asmens susitarimu gali būti suteiktos iki vienerių metų trukmės atostogos
-kvalifikacijai tobulinti. Šiuo atveju valstybės tarnautojui paliekamos jo eitos
-pareigos, tačiau jam nustatytas darbo užmokestis nemokamas.
+tarnautojui, turinčiam ne trumpesnį kaip 3 mėnesių tarnybos stažą toje
+valstybės ar savivaldybės institucijoje ar įstaigoje, jo ir į pareigas jį
+priėmusio asmens susitarimu gali būti suteiktos iki vienerių metų trukmės
+atostogos kvalifikacijai tobulinti. Šiuo atveju valstybės tarnautojui
+paliekamos jo eitos pareigos, tačiau jam nustatytas darbo užmokestis nemokamas.
 2.
 Pasinaudoti šiame straipsnyje nurodytomis atostogomis valstybės tarnautojas
 gali ne dažniau kaip vieną kartą per penkerius metus.
@@ -2628,8 +2628,8 @@ Nr. IX-1747,
 Nr. X-464, 2005-12-22,
 Žin., 2006, Nr. 4-97 (2006-01-12)
  
-40 straipsnis. Valstybinis socialinis
-draudimas, sveikatos draudimas ir pensijos 
+40 straipsnis. Valstybinis
+socialinis draudimas, sveikatos draudimas ir pensijos 
 1. Valstybės tarnautojai privalomai draudžiami valstybiniu
 socialiniu draudimu ir privalomuoju sveikatos draudimu Valstybinio socialinio
 draudimo ir kitų atskiras valstybinio socialinio draudimo rūšis reglamentuojančių
@@ -2824,8 +2824,8 @@ pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš 2 m�
 iki pareigybės panaikinimo. Neįgaliajam, nėščiai moteriai (kai valstybės ar
 savivaldybės institucija ar įstaiga likviduojama), moteriai ir (ar) vyrui,
 auginantiems vaikus (vaiką) iki 14 metų, asmeniui, kuriam iki teisės gauti visą
-senatvės pensiją liko ne daugiau kaip penkeri metai, apie pareigybės panaikinimą
-turi būti pranešta raštu prieš 4 mėnesius.
+senatvės pensiją liko ne daugiau kaip penkeri metai, apie pareigybės
+panaikinimą turi būti pranešta raštu prieš 4 mėnesius.
 2. Buvusiam
 karjeros valstybės tarnautojui (išskyrus karjeros valstybės tarnautojus,
 kuriems suėjo 65 metai), atleistam iš pareigų dėl pareigybės panaikinimo ar
@@ -2839,24 +2839,23 @@ negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo arba atlei
 siūlomos tos pačios ar žemesnės kategorijos karjeros valstybės tarnautojo
 pareigos. Šis asmuo priimamas į šias pareigas, jeigu jis atitinka bendruosius
 reikalavimus, keliamus į valstybės tarnautojo pareigas priimamam asmeniui, ir
-jam siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus
-valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos
-pareigos, Vyriausybės nustatyta tvarka patikrinus jo gebėjimus atlikti
-pareigybės aprašyme nustatytas funkcijas. Šie asmenys nėra tikrinami dėl
-atitikimo šio Įstatymo 9 straipsnio 1 dalies 5 punkte nustatytiems
-reikalavimams.
+jam siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus valstybės
+ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos,
+Vyriausybės nustatyta tvarka patikrinus jo gebėjimus atlikti pareigybės
+aprašyme nustatytas funkcijas. Šie asmenys nėra tikrinami dėl atitikimo šio
+Įstatymo 9 straipsnio 1 dalies 5 punkte nustatytiems reikalavimams.
 3. Buvusiam
 įstaigos vadovui (išskyrus įstaigos vadovą, priimtą į pareigas politinio
 (asmeninio) pasitikėjimo pagrindu, taip pat įstaigos vadovą, kuriam suėjo 65
 metai), atleistam iš pareigų pagal šio Įstatymo 44 straipsnio 1 dalies 5
 punktą, dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl valstybės
 tarnautojo atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6
-dalies 2 punkte nustatytu būdu), 6 mėnesius nuo atleidimo iš pareigų dienos Vyriausybės
-nustatyta tvarka siūlomos tos pačios ar žemesnės kategorijos įstaigos vadovo
-(išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio)
-pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigos, jeigu asmuo
-atitinka bendruosius reikalavimus, keliamus į valstybės tarnautojo pareigas
-priimamam asmeniui, ir jam siūlomos pareigybės aprašyme nustatytus
+dalies 2 punkte nustatytu būdu), 6 mėnesius nuo atleidimo iš pareigų dienos
+Vyriausybės nustatyta tvarka siūlomos tos pačios ar žemesnės kategorijos
+įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio
+(asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigos,
+jeigu asmuo atitinka bendruosius reikalavimus, keliamus į valstybės tarnautojo
+pareigas priimamam asmeniui, ir jam siūlomos pareigybės aprašyme nustatytus
 specialiuosius reikalavimus. Asmuo į įstaigos vadovo pareigas priimamas
 Vyriausybės nustatyta tvarka patikrinus jo gebėjimus atlikti pareigybės
 aprašyme nustatytas funkcijas. Jeigu nėra galimybės šioje dalyje nurodytu
@@ -2868,8 +2867,8 @@ keliamus į valstybės tarnautojo pareigas priimamam asmeniui, ir jam siūlomos
 pareigybės aprašyme nustatytus specialiuosius reikalavimus valstybės ar
 savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos, Vyriausybės
 nustatyta tvarka patikrinus jo gebėjimus atlikti pareigybės aprašyme nustatytas
-funkcijas. Šis asmuo nėra tikrinamas dėl atitikimo šio Įstatymo 9
-straipsnio 1 dalies 5 punkte nustatytiems reikalavimams.
+funkcijas. Šis asmuo nėra tikrinamas dėl atitikimo šio Įstatymo 9 straipsnio
+1 dalies 5 punkte nustatytiems reikalavimams.
 4. Žuvęs atlikdamas tarnybines pareigas arba miręs dėl
 priežasčių, susijusių su tarnybinių pareigų atlikimu, valstybės tarnautojas
 laidojamas valstybės lėšomis. Valstybės tarnautojas pripažįstamas žuvusiu
@@ -2911,11 +2910,11 @@ valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje
 jo gauto vidutinio darbo užmokesčio dydžio kompensacija. Valstybės tarnautojui, kuris buvo
 sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl
 priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje,
-kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro
-akto, atsižvelgiant į jo sveikatos sutrikimo laipsnį Vyriausybės nustatyta
-tvarka išmokama vienkartinė nuo 30 iki 50 mėnesių jo vidutinio darbo užmokesčio
-dydžio kompensacija. Visais
-atvejais bendra valstybės tarnautojui žuvus atliekant tarnybines pareigas arba mirus dėl
+kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto
+teroro akto, atsižvelgiant į jo sveikatos sutrikimo laipsnį Vyriausybės
+nustatyta tvarka išmokama vienkartinė nuo 30 iki 50 mėnesių jo vidutinio darbo
+užmokesčio dydžio kompensacija. Visais atvejais bendra valstybės
+tarnautojui žuvus atliekant tarnybines pareigas arba mirus dėl
 priežasčių, susijusių su tarnybinių pareigų atlikimu, išmokamos
 kompensacijos suma negali viršyti 350 000 litų. Kompensacija gali būti
 išmokama dalimis, bet ne ilgiau kaip per 3 metus. Išmokėjusi
@@ -3130,9 +3129,9 @@ tarnybos tvarkymo funkcijas atliekančios įstaigos pateiktos informacijos apie
 asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį
 nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems
 turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš kitų duomenų
-valstybės tarnautoją į pareigas priėmęs asmuo padaro išvadą, kad valstybės
-tarnautojas neatitinka nepriekaištingos reputacijos reikalavimų ir dėl to
-negali toliau eiti valstybės tarnautojo pareigų;
+valstybės tarnautoją į pareigas priėmęs asmuo padaro išvadą, kad valstybės tarnautojas
+neatitinka nepriekaištingos reputacijos reikalavimų ir dėl to negali toliau
+eiti valstybės tarnautojo pareigų;
 20) valstybės
 tarnautoją į pareigas priėmęs asmuo nevykdo šio Įstatymo 31
 straipsnio 2 ir 3 dalyse nustatytų pareigų;
@@ -3228,8 +3227,8 @@ VALSTYBĖS TARNAUTOJŲ MOKYMAS
 1) įvadinis mokymas – priimtų į karjeros valstybės
 tarnautojo pareigas valstybės tarnautojų profesinių žinių įgijimas ir įgūdžių
 formavimas. Pradėję eiti pareigas karjeros valstybės tarnautojai, kurie prieš
-tai nėra išklausę įvadinio mokymo programų, per metus nuo priėmimo į pareigas
-dienos privalo jas išklausyti;
+tai nėra išklausę įvadinio mokymo programų, per metus nuo priėmimo į pareigas dienos
+privalo jas išklausyti;
 2) kvalifikacijos tobulinimas – tęstinės studijos,
 specialių profesinių žinių plėtimas, valstybės valdymo ir administravimo
 įgūdžių bei gebėjimų tobulinimas paties valstybės tarnautojo arba valstybės ar
@@ -3315,8 +3314,8 @@ VALSTYBĖS TARNYBOS VALDYMAS
 1. Valstybės
 tarnybos bendrąjį valdymą atlieka:
 1) Vyriausybė;
-2) vidaus reikalų
-ministras ir Vidaus reikalų ministerija;
+2) vidaus
+reikalų ministras ir Vidaus reikalų ministerija;
 3) Valstybės
 tarnybos departamentas.
 2. Vyriausybė:
@@ -3388,9 +3387,9 @@ kaip įgyvendinami šis Įstatymas ir su juo susiję teisės aktai, teisės aktu
 nustatytais atvejais ir tvarka atlieka patikrinimus valstybės ar savivaldybių
 institucijose ar įstaigose, taip pat tiria asmenų pranešimus, skundus ir
 prašymus dėl šio Įstatymo ir kitų su juo susijusių teisės aktų įgyvendinimo,
-seka visuomenės informavimo priemonių skelbiamą informaciją valstybės tarnybos ir
-personalo valdymo valstybės tarnyboje ir, jeigu yra pagrįstų duomenų, kad yra
-galimas pažeidimas, ištiria šią informaciją;
+seka visuomenės informavimo priemonių skelbiamą informaciją valstybės tarnybos
+ir personalo valdymo valstybės tarnyboje ir, jeigu yra pagrįstų duomenų, kad
+yra galimas pažeidimas, ištiria šią informaciją;
 2) atlieka su
 valstybės tarnyba ir personalo valdymu valstybės tarnyboje susijusių teisės
 aktų projektų nagrinėjimą, derinimą, tikslinimą ir su jais susijusią tikslinę
@@ -3433,9 +3432,9 @@ juridinius asmenis, siekiančius mokyti valstybės tarnautojus, tvirtina ir regi
 programas, atlieka jų įgyvendinimo kokybės priežiūrą;
 10) analizuoja
 valstybės tarnautojų mokymo ir karjeros poreikius ir teikia valstybės ir
-savivaldybių institucijoms ir įstaigoms pasiūlymus dėl įgyvendinimo, imasi
-priemonių pritraukti gabius asmenis į valstybės tarnybą ir skatinti jų
-veiksmingą panaudojimą valstybės tarnyboje;
+savivaldybių institucijoms ir įstaigoms pasiūlymus dėl įgyvendinimo, imasi priemonių
+pritraukti gabius asmenis į valstybės tarnybą ir skatinti jų veiksmingą
+panaudojimą valstybės tarnyboje;
 11) vykdo
 valstybės tarnybos valdymo gerosios patirties sklaidą;
 12) teikia
@@ -3521,8 +3520,8 @@ XI-2041,
 Nr. XII-27,
 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11)
  
-50(1) straipsnis. Valstybės tarnybos valdymo informacinė sistema
-
+50(1) straipsnis. Valstybės tarnybos valdymo informacinė
+sistema 
 1. Valstybės
 tarnybos valdymo informacinė sistema skirta valstybės tarnybos, valstybės ir savivaldybių institucijų
 ir įstaigų personalo valdymo sprendimams priimti, kitoms šiame Įstatyme ir su
@@ -3752,8 +3751,8 @@ Pareiginių
 Priedo
 pakeitimai:
 Nr.
-X-789, 2006-07-19,
-Žin., 2006, Nr. 87-3400 (2006-08-08)
+X-789,
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 Nr. X-1175,
 2007-06-07, Žin., 2007, Nr. 69-2723 (2007-06-23)
 Nr. X-1349,
@@ -3783,6 +3782,7 @@ Nr. XII-517,
  
 
 
+Redakcija iki 2014-02-28:
 Lietuvos
 Respublikos
 valstybės
@@ -4301,8 +4301,8 @@ valstybės
 4.
 
 
-Valstybės ir savivaldybių institucijų ir
-  įstaigų surinktų balų santykis su valstybės ir savivaldybių institucijų ir
+Valstybės ir savivaldybių institucijų
+  ir įstaigų surinktų balų santykis su valstybės ir savivaldybių institucijų ir
   įstaigų grupe 
 
 
@@ -4399,9 +4399,9 @@ specializuota valstybės institucijų ir įstaigų veikla, vykdoma pagal konkret
 linijinį, funkcinį, programinį pavedimą arba pagal konkrečią instrukciją su
 aiškiu siekiamu materialiu rezultatu, kurį identifikuoja ir vertina pavedimą
 davęs subjektas (medžiagos kaupimo, registravimo, sisteminimo, informacinio
-aprūpinimo ar kiti techninio pobūdžio darbai, seminarų, diskusijų
-organizavimas, ekspertizių organizavimas ir įforminimas, taip pat kitų
-aptarnavimo funkcijų atlikimas).
+aprūpinimo ar kiti techninio pobūdžio darbai, seminarų, diskusijų organizavimas,
+ekspertizių organizavimas ir įforminimas, taip pat kitų aptarnavimo funkcijų
+atlikimas).
 5.
 Vertikalusis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų
 veikla, kurią vykdant daromas poveikis pavaldiems subjektams (valstybės
@@ -4418,24 +4418,644 @@ atžvilgiu tam tikroje valdymo srityje, apimanti bent vieną iš šių funkcijų
 nepavaldžių valstybės institucijų ir įstaigų veiklos planavimą, metodinę
 pagalbą, koordinavimą ar kontrolę (priežiūrą).
 8.
-Viena įstaigų sistema suprantama kaip ministerijos arba kitos valstybės
-institucijos ar įstaigos valdymo srityje esančių įstaigų visuma.
+Viena įstaigų sistema suprantama kaip ministerijos arba kitos valstybės institucijos
+ar įstaigos valdymo srityje esančių įstaigų visuma.
+Redakcija nuo 2014-03-01:
+                                                                                                Lietuvos
+Respublikos 
+                                                                                                valstybės
+tarnybos įstatymo
+                                                                                                2
+priedas
+VALSTYBĖS
+IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITERIJAI
+
+
+
+
+ Eil. Nr.
+
+
+Seimą, Respublikos
+   Prezidentą, Vyriausybę, teismų savivaldos institucijas aptarnaujančios
+   įstaigos
+
+
+Seimui ir (ar)
+   Respublikos Prezidentui atskaitingos institucijos
+
+
+Teismai ir
+   prokuratūra
+
+
+Kitos valstybės
+   institucijos ir įstaigos
+
+
+Savivaldybių
+   institucijos ir įstaigos
+
+
+Balai
+
+
+
+
+
+1.
+
+
+Valstybės ar savivaldybių institucijos ar įstaigos veiklos
+  pobūdis:
+
+
+ 
+
+
+
+
+1.1.
+
+
+Seimo aptarnavimo funkcijų vykdymas
+arba
+pagalba vykdant Respublikos Prezidento funkcijas
+arba
+teismų savivaldos institucijų aptarnavimas
+arba
+pagalba vykdant Vyriausybės ir Ministro Pirmininko funkcijas
+
+
+valstybinio audito funkcijų vykdymas
+arba
+dalyvavimas formuojant valstybės politiką nacionalinio saugumo
+  srityje ir jos įgyvendinimas
+
+
+–
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse
+ 
+ 
+ 
+ 
+ 
+
+
+–
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+100
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+1.2.
+
+
+–
+
+
+skundų nagrinėjimas dėl pareigūnų ir kitų asmenų veiksmų ar
+  neveikimo, dėl kurių gali būti pažeistos asmens teisės, laisvės ar teisėti
+  interesai
+arba
+dalyvavimas formuojant daugiau kaip vienos valdymo srities
+  valstybės politiką ir jos įgyvendinimas
+
+
+–
+
+
+dalyvavimas formuojant daugiau kaip vienos valdymo srities
+  valstybės politiką ir jos įgyvendinimas 
+arba 
+valstybės politikos formavimas ir įgyvendinimas vienoje valdymo
+  srityje 
+arba 
+Europos Sąjungos struktūrinių fondų administravimo ir kontrolės
+  funkcijų vykdymas
+
+
+–
+
+
+80
+
+
+
+
+1.3.
+
+
+–
+
+
+dalyvavimas formuojant vienos valdymo srities valstybės politiką
+  ir jos įgyvendinimas
+arba
+valstybės politikos įslaptintos informacijos apsaugos srityje
+  įgyvendinimas
+
+
+–
+
+
+dalyvavimas formuojant vienos valdymo srities valstybės politiką
+  ir jos įgyvendinimas
+arba
+valstybės politikos įgyvendinimas daugiau kaip vienoje valdymo
+  srityje
+arba
+neteisminės ginčų nagrinėjimo institucijos funkcijų vykdymas
+arba
+savivaldybių administracinės priežiūros funkcijų vykdymas
+
+
+–
+
+
+60
+
+
+
+
+1.4.
+
+
+–
+
+
+valstybės politikos įgyvendinimas vienoje valdymo srityje
+
+
+–
+
+
+valstybės politikos įgyvendinimas vienoje valdymo srityje
+
+
+–
+
+
+40
+
+
+
+
+1.5.
+
+
+–
+
+
+valstybės politikos formavimo arba įgyvendinimo aptarnavimas
+
+
+–
+
+
+valstybės politikos formavimo arba įgyvendinimo aptarnavimas
+
+
+–
+
+
+20
+
+
+
+
+2.
+
+
+Valstybės ar savivaldybių institucijos ar įstaigos veiklos ir
+  sprendimų galiojimo ribos:
+
+
+ 
+
+
+
+
+2.1.
+
+
+–
+
+
+visa Lietuvos teritorija
+
+
+visa Lietuvos teritorija
+
+
+visa Lietuvos teritorija
+
+
+–
+
+
+100
+
+
+
+
+2.2.
+
+
+–
+
+
+teritorija, kurioje yra daugiau kaip 500 000 gyventojų
+
+
+apygarda
+
+
+teritorija, kurioje yra daugiau kaip 500 000 gyventojų
+
+
+teritorija, kurioje yra daugiau kaip 500 000 gyventojų
+
+
+80
+
+
+
+
+2.3.
+
+
+–
+
+
+teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų
+
+
+apylinkė
+
+
+teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų
+
+
+teritorija, kurioje yra nuo 100 000 iki 500 000 gyventojų
+
+
+60
+
+
+
+
+2.4.
+
+
+–
+
+
+teritorija, kurioje yra nuo 50 000 iki 
+  100 000 gyventojų
+
+
+–
+
+
+teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų
+
+
+teritorija, kurioje yra nuo 50 000 iki 100 000 gyventojų
+
+
+40
+ 
+ 
+
+
+
+
+2.5.
+
+
+–
+
+
+teritorija, kurioje yra
+  mažiau kaip 
+50 000 gyventojų,
+arba
+viena įstaigų sistema
+
+
+–
+
+
+teritorija, kurioje yra mažiau kaip 50 000 gyventojų,
+arba
+viena įstaigų sistema
+
+
+teritorija, kurioje yra mažiau kaip 50 000 gyventojų
+
+
+20
+
+
+
+
+3.
+
+
+Valstybės ar savivaldybių institucijos ar įstaigos santykis su
+  pavaldžiais ir nepavaldžiais subjektais:
+
+
+ 
+
+
+
+
+3.1.
+
+
+–
+
+
+–
+
+
+–
+
+
+vertikalusis vadovavimas, kai valstybės institucija ar įstaiga
+  vadovauja ne mažiau kaip 3 pakopų pavaldžių subjektų sistemai,
+arba
+ 
+funkcinis vadovavimas keliose
+  valdymo srityse
+
+
+–
+
+
+100
+
+
+
+
+3.2.
+
+
+–
+
+
+–
+
+
+–
+
+
+vertikalusis vadovavimas, kai valstybės institucija ar įstaiga
+  vadovauja 2 pakopų pavaldžių subjektų sistemai
+
+
+–
+
+
+80
+
+
+
+
+3.3.
+
+
+–
+
+
+–
+
+
+–
+
+
+vertikalusis vadovavimas, kai valstybės institucija ar įstaiga
+  vadovauja 1 pakopos pavaldžių subjektų sistemai,
+arba
+funkcinis vadovavimas vienoje valdymo srityje
+
+
+–
+
+
+60
+
+
+
+
+3.4.
+
+
+–
+
+
+–
+
+
+–
+
+
+dalinis funkcinis vadovavimas
+
+
+–
+
+
+40
+
+
+
+
+3.5.
+
+
+–
+
+
+–
+
+
+–
+
+
+valstybės institucija ar įstaiga neturi pavaldžių subjektų
+
+
+–
+
+
+20
+
+
+
+
+4.
+
+
+Valstybės ir savivaldybių institucijų ir įstaigų surinktų balų
+  santykis su valstybės ir savivaldybių institucijų ir įstaigų grupe
+
+
+ 
+
+
+
+
+ 
+
+
+I grupė, jeigu įstaiga įvertinta 100 balų
+
+
+I grupė, jeigu įstaiga
+  įvertinta 200 balų;
+ 
+II grupė, jeigu įstaiga įvertinta 180 balų;
+III grupė, jeigu įstaiga įvertinta 160 balų;
+IV grupė, jeigu įstaiga įvertinta 140 balų;
+V grupė, jeigu įstaiga įvertinta 120 arba mažiau balų (120≥x)
+
+
+I grupė, jeigu įstaiga įvertinta 100 balų;
+II grupė, jeigu įstaiga įvertinta 80 balų;
+III grupė, jeigu įstaiga įvertinta 60 balų
+
+
+I grupė, jeigu įstaiga įvertinta 260 arba daugiau balų (x≥260);
+II grupė, jeigu įstaiga įvertinta nuo 200 iki 260 balų
+  (260>x≥200);
+III grupė, jeigu įstaiga įvertinta nuo 150 iki 200 balų
+  (200>x≥150);
+IV grupė, jeigu įstaiga įvertinta nuo 100 iki 150 balų
+  (150>x≥100);
+V grupė, jeigu įstaiga įvertinta mažiau negu 100 balų (100>x)
+
+
+III grupė, jeigu įstaiga įvertinta nuo 60 iki 80 balų;
+IV grupė, jeigu įstaiga įvertinta nuo 20 iki 40 balų
+
+
+ 
+
+
+
+ 
+Pastaba. Gyventojų skaičius
+savivaldybės teritorijoje nustatomas pagal kalendorinių metų, einančių prieš
+kalendorinius metus, kuriais turi vykti eiliniai savivaldybių tarybų rinkimai,
+sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios
+vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro
+tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir
+terminais. Nustatytu konkrečios savivaldybės gyventojų skaičiumi vadovaujamasi
+iki kalendorinių metų, kuriais turi vykti kiti eiliniai savivaldybių tarybų
+rinkimai, sausio 1 dienos.
+ 
+Šiame priede vartojamų
+formuluočių reikšmės
+ 
+1. Valstybės politikos
+formavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, apimanti
+tiesioginį Seimo ir Vyriausybės sprendimų projektų (įstatymų projektų, Seimo
+nutarimų projektų, Vyriausybės nutarimų projektų), nustatančių valstybinio
+administravimo subjektus ir jų struktūras, viešojo administravimo procesus,
+reglamentuojančių visuomeninius santykius atskirose valdymo srityse, rengimą ir
+teikimą Seimui ar Vyriausybei.
+2. Valstybės politikos
+įgyvendinimas suprantamas kaip valstybės institucijų ir įstaigų vykdomoji
+veikla (planavimas, organizavimas, koordinavimas, reguliavimas, vertinimas ir
+kontrolė (priežiūra), vykdoma įgyvendinant teisės aktais nustatytą valstybės
+politiką atskirose valdymo srityse.
+3. Dalyvavimas formuojant
+valstybės politiką suprantamas kaip valstybės institucijų ir įstaigų veikla,
+vykdoma darant poveikį rengiamų sprendimų projektų kokybei, vykdant vieną ar
+kelias aiškiai apibrėžtas funkcijas, susijusias su sprendimų projektų rengimu:
+1) siūlymų dėl sprendimų
+projektų rengimo (ar atskirų procesų reglamentavimo) teikimas;
+2) sprendimų projektų
+derinimas (koregavimas ir (ar) papildymas);
+3) kompleksinis ar dalinis
+parengtų sprendimų projektų nagrinėjimas;
+4) išvadų dėl parengtų
+sprendimų projektų formulavimas;
+5) tikslinių analizių
+atlikimas apibendrinant gautus rezultatus.
+4. Valstybės politikos
+formavimo ar įgyvendinimo aptarnavimas suprantamas kaip specializuota valstybės
+institucijų ir įstaigų veikla, vykdoma pagal konkretų linijinį, funkcinį,
+programinį pavedimą arba pagal konkrečią instrukciją su aiškiu siekiamu
+materialiu rezultatu, kurį identifikuoja ir vertina pavedimą davęs subjektas
+(medžiagos kaupimo, registravimo, sisteminimo, informacinio aprūpinimo ar kiti
+techninio pobūdžio darbai, seminarų, diskusijų organizavimas, ekspertizių
+organizavimas ir įforminimas, taip pat kitų aptarnavimo funkcijų atlikimas).
+5. Vertikalusis vadovavimas
+suprantamas kaip valstybės institucijų ir įstaigų veikla, kurią vykdant daromas
+poveikis pavaldiems subjektams (valstybės institucijoms ar įstaigoms).
+6. Funkcinis vadovavimas
+suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių
+subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje,
+apimanti nepavaldžių valstybės institucijų ar įstaigų veiklos planavimą,
+metodinę pagalbą, koordinavimą ir kontrolę (priežiūrą).
+7. Dalinis funkcinis
+vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma
+nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje
+valdymo srityje, apimanti bent vieną iš šių funkcijų – nepavaldžių valstybės
+institucijų ir įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ar
+kontrolę (priežiūrą).
+8. Viena įstaigų sistema
+suprantama kaip ministerijos arba kitos valstybės institucijos ar įstaigos
+valdymo srityje esančių įstaigų visuma.
 Įstatymas
 papildytas 2 priedu:
 Nr. X-1349,
 2007-12-04, Žin., 2007, Nr. 135-5453 (2007-12-21)
+Priedo pakeitimai:
+Nr.
+XII-687,
+2013-12-17, Žin., 2013, Nr. 140-7064 (2013-12-30)
  
  
-Lietuvos Respublikos
-valstybės tarnybos įstatymo 
-3 priedas
+                                                                                    Lietuvos
+Respublikos
+                                                                                    valstybės
+tarnybos įstatymo 
+                                                                                    3
+priedas
  
 VALSTYBĖS
-TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ
-SĄRAŠAS
- 
-I. 2010–2013 METŲ
-VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  
 
 
@@ -4444,27 +5064,24 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 Eil. Nr.
 
 
-Valstybės
-   tarnautojų pareigybių pavadinimai
+Valstybės tarnautojų
+   pareigybių pavadinimai
 
 
-Pareigybės
-   lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų
-   grupes
+Pareigybės lygis ir kategorija
+   pagal valstybės ir savivaldybių institucijų ir įstaigų grupes
 
 
 
 
-politinio
-   (asmeninio) pasitikėjimo
+politinio (asmeninio)
+   pasitikėjimo
 
 
-įstaigų
-   vadovų ir karjeros
+įstaigų vadovų ir karjeros
 
 
-statutinių,
-   reglamentuojamų:
+statutinių, reglamentuojamų:
 
 
 I
@@ -4484,12 +5101,10 @@ V
 
 
 
-Diplomatinės
-   tarnybos įstatymo
+Diplomatinės tarnybos įstatymo
 
 
-įstatymu
-   patvirtintų statutų
+įstatymu patvirtintų statutų
 
 
 
@@ -4500,8 +5115,12 @@ Diplomatinės
 
  
 
+
  
+
+
  
+
 
 generalinis
   direktorius
@@ -4527,16 +5146,6 @@ A 20
 
 
 2.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 Respublikos
@@ -4567,10 +5176,13 @@ vadas
 A
   19–20
 
-A 18–19
 
 A
-  17–18
+  18–19
+
+
+ A
+17–18
 
 
 A 14–17
@@ -4613,7 +5225,9 @@ A 19
 
 
 
+
 4.
+
 
 Respublikos
   Prezidento atstovas ypatingiems pavedimams,
@@ -4630,10 +5244,11 @@ direktoriaus
   pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
   Vyriausybės atstovas Europos Žmogaus Teisių Teisme,
   teismo kancleris,
-  prokuratūros kancleris
+  prokuratūros kancleris, ministerijos gynybos politikos direktorius
 
 
-ambasadorius
+ambasadorius,
+  politikos direktorius
 
 
 direktoriaus
@@ -4664,7 +5279,9 @@ A
 
 
 
+
 5.
+
 
 Seimo
   Pirmininko sekretoriato vadovo pavaduotojas,
@@ -4682,7 +5299,6 @@ gynybos
   patarėjas, 
   vyriausiasis patarėjas,
   teismo pirmininko patarėjas
- 
 
 
 ambasadorius
@@ -4695,13 +5311,19 @@ generalinis
   konsulas
 
 
-valdybos viršininkas, 
-eskadrilės vadas,
-dalinio vadas,
+valdybos
+  viršininkas, 
+eskadrilės
+  vadas,
+dalinio
+  vadas,
 patarėjas,
-generalinio direktoriaus patarėjas,
-departamento viršininkas,
-štabo viršininko pavaduotojas
+generalinio
+  direktoriaus patarėjas,
+departamento
+  viršininkas,
+štabo
+  viršininko pavaduotojas
 
 
 A
@@ -4723,7 +5345,9 @@ A
 
 
 
+
 6.
+
 
 Seimo
   Pirmininko pavaduotojo patarėjas,
@@ -4736,8 +5360,8 @@ departamento
   komisijos ar tarybos sekretoriato vadovas, Seimo
   posėdžių sekretoriato vedėjas, 
 skyriaus vedėjas (taikoma
-  struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), Seimo
-  kanceliarijos biuro vedėjas, 
+  struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), biuro
+  vedėjas (Seimo kanceliarijoje), 
   vyresnysis patarėjas,
   Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo
   pavaduotojas,
@@ -4749,7 +5373,7 @@ ministras
 departamento
   direktoriaus pavaduotojas, 
 skyriaus
-  vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
+  vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me
   padalinyje)
 
 
@@ -4765,11 +5389,12 @@ dalinio
   struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), 
 komisariato
   viršininkas (taikoma ne įstaigos vadovui), 
-biuro viršininkas (taikoma struktūriniam padaliniui,
-  nesančiam kitame struktūriniame padalinyje),
-posto viršininkas,
-Valstybės saugumo departamento
-patarėjas
+biuro
+  viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame
+  struktūriniame padalinyje),
+posto
+  viršininkas
+ 
 
 
 A 15–17
@@ -4791,7 +5416,9 @@ A
 
 
 
+
 7.
+
 
 Respublikos
   Prezidento atstovas spaudai,
@@ -4806,13 +5433,13 @@ skyriaus
   skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
   kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
   pavaduotojas,
-   patarėjas,
-  seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
+  patarėjas,
+  seniūnas (savivaldybė-je), teismo pirmininko padėjėjas,
   teisėjo padėjėjas,
   vyriausiojo prokuroro padėjėjas
 
 
- patarėjas,
+patarėjas,
   
   departamento patarėjas,
 skyriaus
@@ -4866,16 +5493,22 @@ A
   11–14
 
 
-A
-  9–13
+ 
+A 
+9–13
+ 
 
 
+ 
 A
-  8–12
+ 8–12
+ 
+
 
 
 
 8.
+
 
  
 
@@ -4896,12 +5529,10 @@ seniūnas
  
 
 
-B
-  9–13
+B  9–13
 
 
-B
-  8–12
+B 8 –12
 
 
  
@@ -4925,7 +5556,7 @@ poskyrio
   (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
   padalinyje), 
   specialusis atašė, 
-  seniūno pavaduotojas (savivaldybėje), 
+  seniūno pavaduotojas (savivaldybė-je), 
 vyriausiasis valstybinis auditorius,
 teismo
   konsultantas
@@ -4971,28 +5602,29 @@ vyriausiasis
   lakūnas
 
 
-A
-  11–15
+A 
+11–15
+
+
+A 10–
+  14
 
 
 A
-  10–14
+ 9–  13
+
+
+A 7–12
 
 
 A
-  9–13
+ 6–11
 
-
-A
-  7–12
-
-
-A
-  6–11
 
 
 
 10.
+
 
 Respublikos
   Prezidento referentas, 
@@ -5017,33 +5649,30 @@ nuovados
   viršininkas,
 kuopos
   vado pavaduotojas, 
-  poskyrio viršininko pavaduotojas,
-  vyriausiasis specialistas,
+  poskyrio viršininko pavaduotojas, vyriausiasis specialistas,
 vyriausiasis
   inspektorius,
 vyriausiasis
-  budėtojas,
-  vyresnysis lakūnas
+  budėtojas, vyresnysis lakūnas
 
 
 A
   10–14
 
 
-A
-  9–13
+A 9–13
 
 
-A
-  8–12
+A 
+8–
+12
 
 
-A
-  6–11
+A 
+6 –11
 
 
-A
-  5–10
+A 6–10
 
 
 
@@ -5072,19 +5701,19 @@ B 9–13
 
 
 B
-  8–12
+ 8–12
 
 
-B
-  6–11
+B 6–11
 
 
-B
-  5–10
+B 6–10
+
 
 
 
 12.
+
 
  
 
@@ -5102,36 +5731,71 @@ būrio
 
 
 B
-  9–13
+ 9–13
 
 
-B
-  8–12
+B 8–12
 
 
-B
-  7–11
+B 
+7–
+11
 
 
-B
-  5–10
+B  6
+  –10
 
 
-B
-  4–9
+B 5–9
+
 
 
 
 13.
-Respublikos Prezidento patarėjo padėjėjas,
-Respublikos Prezidento atstovo spaudai padėjėjas, 
-Seimo frakcijos referentas, 
-ministro padėjėjas,
-Seimo nario padėjėjas-sekretorius
+
+
+Seimo
+  frakcijos referentas, Seimo nario padėjėjas- sekretorius
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+A
+12
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+14.
+
+
+Respublikos
+  Prezidento patarėjo padėjėjas, Respublikos Prezidento atstovo spaudai
+  padėjėjas, ministro padėjėjas
+
 
 vyresnysis
   specialistas,
-  kanceliarijos padėjėjas,
+  padėjėjas (Seimo kanceliarijoje),
   valstybinis auditorius
 
 
@@ -5149,70 +5813,100 @@ vyresnysis
   vyresnysis tyrėjas
 
 
-A
-  8–12
+A 
+8–
+12
 
 
-A
-  7–11
+A 7–11
 
 
-A
-  6–10
+A 7–10
 
 
-A
-  5–9
+A 6–9
 
 
-A
-  4–8
+A 5–8
 
 
 
-14.
+
+15.
+
 
 Seimo
-  nario padėjėjas-sekretorius,
-  mero padėjėjas
-
-
-vyresnysis specialistas,
-  prokuroro padėjėjas
+  nario padėjėjas-sekretorius
 
 
  
 
 
-būrio vadas,
+ 
+
+
+ 
+
+
+B
+11
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+16.
+
+
+Mero
+padėjėjas
+
+
+vyresnysis
+  specialistas, prokuroro padėjėjas
+
+
+ 
+
+
+būrio
+  vadas,
 vyresnysis
   specialistas, 
 vyresnysis
   inspektorius
 
 
-B
-  6–11
+ 
 
 
-B
-  5–10
+B 7–10
 
 
-B
-  5–9
+B 6–9
 
 
-B
-  4–8
+B 5–8
 
 
-B
-  3–8
+B 4–8
 
 
 
-15.
+
+17.
+
 
  
 
@@ -5227,35 +5921,35 @@ specialistas,
 atašė
 
 
-specialistas, 
+specialistas,
+  
 inspektorius,
   tyrėjas
  
 
 
-A
-  5–10
+A 6–10
 
 
-A
-  4–9
+A 5–9
 
 
-A
-  4–8
+A 5–8
 
 
-A
-  3–7
+A 4–7
 
 
-A
-  3–7
+A 4–7
 
 
 
-16.
+
+18.
+
+
  
+
 
 specialistas
 
@@ -5266,7 +5960,8 @@ specialistas
 specialistas,
 inspektorius,
 tyrėjas,
-būrininkas, 
+būrininkas,
+  
   pamainos vadas,
 sargybos
   viršininkas, 
@@ -5277,28 +5972,45 @@ vyresnysis
   instruktorius
 
 
-B
-  4–9
+ 
+ 
+ 
+ 
+B 5–9
 
 
-B
-  3–8
+ 
+ 
+ 
+ 
+B 4–8
 
 
-B
-  2–7
+ 
+ 
+ 
+ 
+B 3–7
 
 
-B
-  2–6
+ 
+ 
+ 
+ 
+B 3–6
 
 
-B
-  2–6
+ 
+ 
+ 
+ 
+B 3–6
 
 
 
-17.
+
+19.
+
 
  
 
@@ -5320,28 +6032,25 @@ punkto
 instruktorius
 
 
-B
-  3–8
+B 4–8
 
 
-B
-  3–7
+B 4–7
 
 
-B
-  2–7
+B 3–7
 
 
-B
-  2–5
+B 3–5
 
 
-B
-  2–5
+B 2–5
 
 
 
-18.
+
+20.
+
 
  
 
@@ -5378,29 +6087,28 @@ vyriausiasis
   ugniagesys gelbėtojas
 
 
-C
-  2–7
+C 3–7
 
 
-C
-  2–6
+C 3–6
 
 
-C
-  2–5
+C 3–5
 
 
-C
-  2–5
+C 2–5
 
 
-C
-  2–4
+C 2–4
 
 
 
-19.
+
+21.
+
+
  
+
 
  
 
@@ -5423,28 +6131,25 @@ vyresnysis
   ugniagesys gelbėtojas
 
 
-C
-  2–6
+C 3–6
 
 
-C
-  2–5
+C 3–5
 
 
-C
-  2–4 
+C 2–4 
 
 
-C
-  2–4 
+C 2–4 
 
 
-C
-  2–3 
+C 2–3 
 
 
 
-20.
+
+22.
+
 
  
 
@@ -5465,64 +6170,60 @@ kovotojas,
   ugniagesys gelbėtojas
 
 
-C
-  1–5
+C 2–5
 
 
-C
-  1–4
+C 2–4
 
 
-C
-  1–4
+C 1–4
 
 
-C
-  1–4
+C 1–4
 
 
-C
-  1–3
+C 1–3
 
 
 
  
 
-
+Redakcija
+nuo 2015-01-01:
+Lietuvos
+Respublikos
+valstybės
+tarnybos įstatymo 
+3 priedas
  
-2014 metų valstybės tarnautojų suvienodintų
-pareigybių sąrašas įsigalioja 2014 m. sausio 1 d.
+VALSTYBĖS
+TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
  
-II.
-2014 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
 
 
 
 
- Eil. Nr.
+Eil. Nr.
 
 
-Valstybės
-   tarnautojų pareigybių pavadinimai
+Valstybės tarnautojų
+   pareigybių pavadinimai
 
 
-Pareigybės
-   lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų
-   grupes
+Pareigybės lygis ir kategorija
+   pagal valstybės ir savivaldybių institucijų ir įstaigų grupes
 
 
 
 
-politinio
-   (asmeninio) pasitikėjimo
+politinio (asmeninio)
+   pasitikėjimo
 
 
-įstaigų
-   vadovų ir karjeros
+įstaigų vadovų ir karjeros
 
 
-statutinių,
-   reglamentuojamų:
+statutinių, reglamentuojamų:
 
 
 I
@@ -5542,12 +6243,10 @@ V
 
 
 
-Diplomatinės
-   tarnybos įstatymo
+Diplomatinės tarnybos įstatymo
 
 
-įstatymu
-   patvirtintų statutų
+įstatymu patvirtintų statutų
 
 
 
@@ -5589,40 +6288,48 @@ A 20
 2.
 
 
-Respublikos Prezidento vyriausiasis
-  patarėjas,
+Respublikos
+  Prezidento vyriausiasis patarėjas,
 viceministras,
   savivaldybės administracijos direktorius, 
-Vyriausybės kancleris
+Vyriausybės
+kancleris
 
 
-direktorius (taikoma įstaigos
-  vadovui),
+direktorius
+  (taikoma įstaigos vadovui),
   ministerijos kancleris
 
 
-ministerijos kancleris
+ministerijos
+  kancleris
 
 
 direktorius,
 viršininkas,
 vadas
-(taikoma įstaigos vadovui)
+(taikoma
+  įstaigos vadovui)
 
 
-A 19–20
+A
+  19–20
 
 
-A 18–19
+A
+  18–19
 
 
-A 17–18
+A
+  17–18
 
 
-A 15–17
+A
+  15–17
 
 
-A 14–16
+A
+  14–16
 
 
 
@@ -5663,47 +6370,56 @@ A 19
 4.
 
 
-Respublikos Prezidento atstovas
-  ypatingiems pavedimams,
+Respublikos
+  Prezidento atstovas ypatingiems pavedimams,
   Respublikos Prezidento patarėjas, 
   Seimo Pirmininko sekretoriato vadovas,
   Seimo Pirmininko vyresnysis patarėjas,
   Ministro Pirmininko sekretoriato vadovas, 
   Ministro Pirmininko patarėjas,
   savivaldybės administracijos direktoriaus pavaduotojas, Vyriausybės
-kanclerio pirmasis pavaduotojas
+kanclerio
+  pirmasis pavaduotojas
 
 
 direktoriaus
-  pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
+  pavaduotojas (taikoma įstaigos vadovo pavaduoto-jui),
   Vyriausybės atstovas Europos Žmogaus Teisių Teisme,
   teismo kancleris,
-  prokuratūros kancleris
+  prokuratūros kancleris, ministerijos gynybos politikos direktorius
 
 
-ambasadorius
+ambasadorius,
+  politikos direktorius
 
 
-direktoriaus pavaduotojas,
-viršininko pavaduotojas,
-vado pavaduotojas (taikoma įstaigos
-  vadovo pavaduotojui),
+direktoriaus
+  pavaduotojas,
+viršininko
+  pavaduotojas,
+vado
+  pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
   štabo viršininkas, direktorato direktorius
 
 
-AA 18–19
+A
+  18–19
 
 
-AA 17–18
+A
+  17–18
 
 
-AA 16–17
+A
+  16–17
 
 
-AA 14–16
+A
+  14–16
 
 
-AA 13–15
+A
+  13–15
 
 
 
@@ -5784,8 +6500,8 @@ departamento
   komisijos ar tarybos sekretoriato vadovas, Seimo
   posėdžių sekretoriato vedėjas, 
 skyriaus vedėjas (taikoma
-  struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), Seimo
-  kanceliarijos biuro vedėjas, 
+  struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), biuro
+  vedėjas (Seimo kanceliarijo-je), 
   vyresnysis patarėjas,
   Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo
   pavaduotojas,
@@ -5797,7 +6513,7 @@ ministras
 departamento
   direktoriaus pavaduotojas, 
 skyriaus
-  vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
+  vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me
   padalinyje)
 
 
@@ -5813,25 +6529,92 @@ dalinio
   struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), 
 komisariato
   viršininkas (taikoma ne įstaigos vadovui), 
-biuro viršininkas (taikoma struktūriniam padaliniui,
-  nesančiam kitame struktūriniame padalinyje),
-posto viršininkas
+biuro
+  viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame
+  struktūriniame padalinyje),
+posto
+  viršininkas
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 A 15–17
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 A 14–16
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 A
   13–15
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 A
   12–14
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 A
   11–13
 
@@ -5847,26 +6630,26 @@ Respublikos
 
 
 skyriaus
-  vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
+  vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
   padalinyje), 
   skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
-  kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
-  pavaduotojas,
-   patarėjas,
-  seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
+  kitame struktūrinia-me padalinyje), Seimo nuolatinio atstovo Europos
+  Sąjungoje pavaduotojas,
+  patarėjas,
+  seniūnas (savivaldybė-je), teismo pirmininko padėjėjas,
   teisėjo padėjėjas,
   vyriausiojo prokuroro padėjėjas
 
 
- patarėjas,
+patarėjas,
   
   departamento patarėjas,
 skyriaus
-  vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
+  vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
   padalinyje),
 skyriaus
   vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
-  struktūriniame padalinyje)
+  struktūrinia-me padalinyje)
  
 
 
@@ -5913,8 +6696,8 @@ A
   12–14
 
 
-                A
-  11–13    
+            A
+  11–13  
 
 
 A
@@ -5928,7 +6711,7 @@ A
 
 
 seniūnas
-  (savivaldybėje)
+  (savivaldybė-je)
 
 
  
@@ -5969,12 +6752,13 @@ Respublikos
 poskyrio
   vedėjas, 
   skyriaus vedėjo pavaduotojas
-  (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
+  (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
   padalinyje), 
   specialusis atašė, 
-   seniūno pavaduotojas (savivaldybėje), 
+   seniūno pavaduotojas (savivaldybė-je), 
 vyriausiasis valstybinis auditorius,
-teismo konsultantas
+teismo
+  konsultantas
 
 
 konsulas,
@@ -5983,7 +6767,7 @@ konsulas,
   skyriaus patarėjas,
 skyriaus
   vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame
-  struktūriniame padalinyje)
+  struktūrinia-me padalinyje)
 
 
 poskyrio
@@ -6017,30 +6801,45 @@ vyriausiasis
   lakūnas
 
 
+ 
+ 
+ 
 A
   13–15
 
 
+ 
+ 
+ 
 A
   12–14
 
 
+ 
+ 
+ 
 A
   11–13
 
 
+ 
+ 
+ 
 A
   10–12
 
 
-A
-  9–11
+ 
+ 
+ 
+A 9–11
 
 
 
 10.
 
-Respublikos Prezidento referentas, 
+Respublikos
+  Prezidento referentas, 
   Ministro Pirmininko padėjėjas,
   mero padėjėjas
 
@@ -6071,24 +6870,37 @@ vyriausiasis
   vyresnysis lakūnas
 
 
+ 
+ 
+ 
 A
   12–14
 
 
+ 
+ 
+ 
 A
   11–13
 
 
+ 
+ 
+ 
 A
   10–12
 
 
-A
-  9–11
+ 
+ 
+ 
+A 9–11
 
 
-A
-  8–10
+ 
+ 
+ 
+A 8–10
 
 
 
@@ -6098,7 +6910,7 @@ A
 
 
 seniūno
-  pavaduotojas (savivaldybėje)
+  pavaduotojas (savivaldybė-je)
 
 
  
@@ -6108,8 +6920,7 @@ direktoriaus
   budintysis padėjėjas
 
 
-B
-  12–14
+B 12–14
 
 
 B
@@ -6120,12 +6931,10 @@ B
   10–12
 
 
-B
-  9–11
+B 9–11
 
 
-B
-  8–10
+B 8–10
 
 
 
@@ -6154,16 +6963,13 @@ B
   10–12
 
 
-B
-  9–11
+B 9–11
 
 
-B
-  8–10
+B 8–10
 
 
-B
-  7–9
+B 7–9
 
 
 
@@ -6181,8 +6987,7 @@ Seimo nario padėjėjas-sekretorius
  
 
 
-A
-  12
+A 12
 
 
  
@@ -6201,14 +7006,16 @@ A
 14.
 
 Respublikos
-  Prezidento patarėjo padėjėjas,
-  Respublikos Prezidento atstovo spaudai padėjėjas
+  Prezidento patarėjo padėjėjas, Respublikos Prezidento atstovo spaudai
+  padėjėjas,
+ministro
+  padėjėjas
 
 
 vyresnysis
-  specialistas,
-  kanceliarijos padėjėjas,
-  valstybinis auditorius
+  specialistas, padėjėjas (Seimo kanceliarijo-je),
+valstybinis
+  auditorius
 
 
 trečiasis
@@ -6229,20 +7036,16 @@ A
   10–12
 
 
-A
-  9–11
+A 9–11
 
 
-A
-  8–10
+A 8–10
 
 
-A
-  7–9
+A 7–9
 
 
-A
-  6–8
+A 6–8
 
 
 
@@ -6258,8 +7061,7 @@ Seimo nario padėjėjas-sekretorius
  
 
 
-B
-  11
+B 11
 
 
  
@@ -6281,8 +7083,7 @@ Mero
   padėjėjas
 
 
-vyresnysis
-  specialistas,
+vyresnysis specialistas,
   prokuroro padėjėjas
 
 
@@ -6290,29 +7091,24 @@ vyresnysis
 
 
 būrio vadas,
-vyresnysis
-  specialistas,
-vyresnysis
-  inspektorius
+vyresnysis specialistas,
+vyresnysis inspektorius
+ 
 
 
  
 
 
-B
-  8–10
+B 8–10
 
 
-B
-  7–9
+B 7–9
 
 
-B
-  6–8
+B 6–8
 
 
-B
-  6–8
+B 6–8
 
 
 
@@ -6324,7 +7120,7 @@ B
 specialistas,
   
   teismo posėdžių sekretorius,
-  teismo administracijos sekretorius,
+  teismo administraci-jos sekretorius,
   valstybinio auditoriaus padėjėjas
 
 
@@ -6337,24 +7133,19 @@ inspektorius,
  
 
 
-A
-  8–10
+A 8–10
 
 
-A
-  7–9
+A 7–9
 
 
-A
-  6–8
+A 6–8
 
 
-A
-  5–7
+A 5–7
 
 
-A
-  5–7
+A 5–7
 
 
 
@@ -6374,33 +7165,25 @@ inspektorius,
 tyrėjas,
 būrininkas, 
   pamainos vadas,
-sargybos
-  viršininkas, 
+sargybos viršininkas, 
   vyresnysis budėtojas,
-vyresnysis
-  dispečeris,
-vyresnysis
-  instruktorius
+vyresnysis dispečeris,
+vyresnysis instruktorius
 
 
-B
-  7–9
+B 7–9
 
 
-B
-  6–8
+B 6–8
 
 
-B
-  5–7
+B 5–7
 
 
-B
-  4–6
+B 4–6
 
 
-B
-  4–6
+B 4–6
 
 
 
@@ -6426,24 +7209,19 @@ punkto
 instruktorius
 
 
-B
-  6–8
+B 6–8
 
 
-B
-  5–7
+B 5–7
 
 
-B
-  4–7
+B 4–7
 
 
-B
-  3–5
+B 3–5
 
 
-B
-  2–5
+B 2–5
 
 
 
@@ -6484,24 +7262,49 @@ vyriausiasis
   ugniagesys gelbėtojas
 
 
-C
-  4–7
+ 
+ 
+ 
+ 
+ 
+ 
+C 4–7
 
 
-C
-  4–6
+ 
+ 
+ 
+ 
+ 
+ 
+C 4–6
 
 
-C
-  3–5
+ 
+ 
+ 
+ 
+ 
+ 
+C 3–5
 
 
-C
-  2–5
+ 
+ 
+ 
+ 
+ 
+ 
+C 2–5
 
 
-C
-  2–4
+ 
+ 
+ 
+ 
+ 
+ 
+C 2–4
 
 
 
@@ -6531,24 +7334,19 @@ vyresnysis
   ugniagesys gelbėtojas
 
 
-C
-  3–6
+C 3–6
 
 
-C
-  3–5
+C 3–5
 
 
-C
-  2–4 
+C 2–4 
 
 
-C
-  2–4 
+C 2–4 
 
 
-C
-  2–3 
+C 2–3 
 
 
 
@@ -6573,34 +7371,45 @@ kovotojas,
   ugniagesys gelbėtojas
 
 
-C
-  2–5
-
-
-C
-  2–4
-
-
-C
-  1–4
-
-
-C
-  1–4
-
-
-C
-  1–3
-
+ 
+ 
+C 2–5
 
 
  
  
-2015 metų valstybės tarnautojų
-suvienodintų pareigybių sąrašas įsigalioja 2015 m. sausio 1 d.
+C 2–4
+
+
  
-III.
-NUO 2015 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
+ 
+C 1–4
+
+
+ 
+ 
+C 1–4
+
+
+ 
+ 
+C 1–3
+
+
+
+ 
+
+
+Redakcija
+nuo 2016-01-01:
+Lietuvos Respublikos
+valstybės
+tarnybos įstatymo 
+3 priedas
+ 
+VALSTYBĖS
+TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
+ 
 
 
 
@@ -6608,27 +7417,24 @@ NUO 2015 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 Eil. Nr.
 
 
-Valstybės
-   tarnautojų pareigybių pavadinimai
+Valstybės tarnautojų
+   pareigybių pavadinimai
 
 
-Pareigybės
-   lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų
-   grupes
+Pareigybės lygis ir kategorija
+   pagal valstybės ir savivaldybių institucijų ir įstaigų grupes
 
 
 
 
-politinio
-   (asmeninio) pasitikėjimo
+politinio (asmeninio)
+   pasitikėjimo
 
 
-įstaigų
-   vadovų ir karjeros
+įstaigų vadovų ir karjeros
 
 
-statutinių,
-   reglamentuojamų:
+statutinių, reglamentuojamų:
 
 
 I
@@ -6648,12 +7454,10 @@ V
 
 
 
-Diplomatinės
-   tarnybos įstatymo
+Diplomatinės tarnybos įstatymo
 
 
-įstatymu
-   patvirtintų statutų
+įstatymu patvirtintų statutų
 
 
 
@@ -6771,8 +7575,8 @@ A 19
 4.
 
 
-Respublikos Prezidento atstovas
-  ypatingiems pavedimams,
+Respublikos
+  Prezidento atstovas ypatingiems pavedimams,
   Respublikos Prezidento patarėjas, 
   Seimo Pirmininko sekretoriato vadovas,
   Seimo Pirmininko vyresnysis patarėjas,
@@ -6780,41 +7584,51 @@ Respublikos Prezidento atstovas
   Ministro Pirmininko patarėjas,
   savivaldybės administracijos direktoriaus pavaduotojas, 
 Vyriausybės
-kanclerio pirmasis pavaduotojas
+kanclerio
+  pirmasis pavaduotojas
 
 
-direktoriaus pavaduotojas (taikoma
-  įstaigos vadovo pavaduotojui),
-Vyriausybės atstovas Europos Žmogaus
-  Teisių Teisme,
+direktoriaus
+  pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
+Vyriausybės
+  atstovas Europos Žmogaus Teisių Teisme,
   teismo kancleris,
-  prokuratūros kancleris
+  prokuratūros kancleris, ministerijos gynybos politikos direktorius
 
 
-ambasadorius
+ambasadorius,
+  politikos direktorius
 
 
-direktoriaus pavaduotojas,
-viršininko pavaduotojas,
-vado pavaduotojas (taikoma įstaigos
-  vadovo pavaduotojui),
+direktoriaus
+  pavaduotojas,
+viršininko
+  pavaduotojas,
+vado
+  pavaduotojas (taikoma įstaigos vadovo pavaduoto-jui),
   štabo viršininkas, 
-direktorato direktorius
+direktorato
+  direktorius
 
 
-AA 18–19
+A
+  18–19
 
 
-AA 17–18
+A
+  17–18
 
 
-AA 16–17
+A
+  16–17
 
 
-AA 15–16
+A
+  15–16
 
 
-AA 14–15
+A
+  14–15
 
 
 
@@ -6893,9 +7707,9 @@ departamento
   direktoriaus pavaduotojas, valdybos direktoriaus pavaduotojas, 
   komisijos ar tarybos sekretoriato vadovas, Seimo
   posėdžių sekretoriato vedėjas, 
-skyriaus vedėjas (taikoma struktūriniam
-  padaliniui, nesančiam kitame struktūriniame padalinyje), Seimo kanceliarijos
-  biuro vedėjas, 
+skyriaus vedėjas (taikoma
+  struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), biuro
+  vedėjas (Seimo kanceliarijoje), 
   vyresnysis patarėjas,
   Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo
   pavaduotojas,
@@ -6920,12 +7734,14 @@ eskadrilės
 dalinio
   vado pavaduotojas, skyriaus viršininkas
 (taikoma
-  struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), 
+  struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), 
 komisariato
   viršininkas (taikoma ne įstaigos vadovui), 
-biuro viršininkas (taikoma struktūriniam padaliniui,
-  nesančiam kitame struktūriniame padalinyje),
-posto viršininkas 
+biuro
+  viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me
+  padalinyje),
+posto
+  viršininkas 
 
 
 A 16–17
@@ -6962,7 +7778,7 @@ skyriaus
   skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
   kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
   pavaduotojas,
-   patarėjas,
+  patarėjas,
   seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
   teisėjo padėjėjas,
   vyriausiojo prokuroro padėjėjas
@@ -6981,7 +7797,7 @@ skyriaus
 
 
 skyriaus
-  viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
+  viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
   padalinyje),
 tarnybos
   viršininkas,
@@ -7001,12 +7817,12 @@ užkardos
   vadas,
 skyriaus
   viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
-  struktūriniame padalinyje),
+  struktūrinia-me padalinyje),
 komisariato
-  viršininko pavaduotojas (taikoma ne įstaigos vadovo pavaduotojui),
+  viršininko pavaduotojas (taikoma ne įstaigos vadovo pavaduoto-jui),
 biuro
   viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
-  struktūriniame padalinyje),
+  struktūrinia-me padalinyje),
 posto
   viršininko pavaduotojas
 
@@ -7026,8 +7842,10 @@ A
   13–14
 
 
-                A
-  12–13    
+ 
+ 
+A
+  12–13            
 
 
  
@@ -7108,7 +7926,7 @@ kuopos
   vadas,
 skyriaus
   viršininko pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame
-  struktūriniame padalinyje),
+  struktūrinia-me padalinyje),
 tarnybos
   viršininko pavaduotojas,
 komandos
@@ -7154,7 +7972,8 @@ A
 
 10.
 
-Respublikos Prezidento referentas, 
+Respublikos
+  Prezidento referentas, 
   Ministro Pirmininko padėjėjas,
   mero padėjėjas
 
@@ -7201,8 +8020,7 @@ A
   10–11
 
 
-A
-  9–10
+A 9–10
 
 
 
@@ -7238,8 +8056,7 @@ B
   10–11
 
 
-B
-  9–10
+B 9–10
 
 
 
@@ -7272,12 +8089,10 @@ B
   10–11
 
 
-B
-  9–10
+B 9–10
 
 
-B
-  8–9
+B 8–9
 
 
 
@@ -7298,8 +8113,7 @@ Seimo nario padėjėjas-sekretorius
  
 
 
-A
-  12
+A 12
 
 
  
@@ -7319,13 +8133,12 @@ A
 
 Respublikos
   Prezidento patarėjo padėjėjas,
-  Respublikos Prezidento atstovo spaudai padėjėjas, 
-ministro padėjėjas
+  Respublikos Prezidento atstovo spaudai padėjėjas, ministro padėjėjas
 
 
 vyresnysis
   specialistas,
-  kanceliarijos padėjėjas,
+  padėjėjas (Seimo kanceliarijoje),
   valstybinis auditorius
 
 
@@ -7351,16 +8164,13 @@ A
   10–11
 
 
-A
-  9–10
+A 9–10
 
 
-A
-  8–9
+A 8–9
 
 
-A
-  7–8
+A 7–8
 
 
 
@@ -7376,8 +8186,7 @@ Seimo nario padėjėjas-sekretorius
  
 
 
-B
-  11
+B 11
 
 
  
@@ -7399,38 +8208,29 @@ Mero
   padėjėjas
 
 
-vyresnysis
-  specialistas,
+vyresnysis specialistas,
   prokuroro padėjėjas
 
 
  
 
 
-būrio vadas,
-vyresnysis
-  specialistas,
-vyresnysis
-  inspektorius
+ 
 
 
  
 
 
-B
-  9–10
+B 9–10
 
 
-B
-  8–9
+B 8–9
 
 
-B
-  7–8
+B 7–8
 
 
-B
-  7–8
+B 7–8
 
 
 
@@ -7455,24 +8255,19 @@ inspektorius,
  
 
 
-A
-  9–10
+A 9–10
 
 
-A
-  8–9
+A 8–9
 
 
-A
-  7–8
+A 7–8
 
 
-A
-  6–7
+A 6–7
 
 
-A
-  6–7
+A 6–7
 
 
 
@@ -7492,33 +8287,25 @@ inspektorius,
 tyrėjas,
 būrininkas, 
   pamainos vadas,
-sargybos
-  viršininkas, 
+sargybos viršininkas, 
   vyresnysis budėtojas,
-vyresnysis
-  dispečeris,
-vyresnysis
-  instruktorius
+vyresnysis dispečeris,
+vyresnysis instruktorius
 
 
-B
-  8–9
+B 8–9
 
 
-B
-  7–8
+B 7–8
 
 
-B
-  6–7
+B 6–7
 
 
-B
-  5–6
+B 5–6
 
 
-B
-  5–6
+B 5–6
 
 
 
@@ -7545,24 +8332,19 @@ punkto
   pamainos viršininkas, instruktorius
 
 
-B
-  7–8
+B 7–8
 
 
-B
-  6–7
+B 6–7
 
 
-B
-  5–7
+B 5–7
 
 
-B
-  4–5
+B 4–5
 
 
-B
-  3–5
+B 3–5
 
 
 
@@ -7601,24 +8383,19 @@ vyriausiasis
   ugniagesys gelbėtojas
 
 
-C
-  6–7
+C 6–7
 
 
-C
-  5–6
+C 5–6
 
 
-C
-  3–5
+C 3–5
 
 
-C
-  3–5
+C 3–5
 
 
-C
-  2–4
+C 2–4
 
 
 
@@ -7646,24 +8423,39 @@ vyresnysis
   šaulys,
 vyresnysis ugniagesys gelbėtojas
 
-C
-  5–6
+ 
+ 
+ 
+ 
+C 5–6
 
 
-C
-  4–5
+ 
+ 
+ 
+ 
+C 4–5
 
 
-C
-  3–4 
+ 
+ 
+ 
+ 
+C 3–4 
 
 
-C
-  2–4 
+ 
+ 
+ 
+ 
+C 2–4 
 
 
-C
-  2–3 
+ 
+ 
+ 
+ 
+C 2–3 
 
 
 
@@ -7690,20 +8482,16 @@ kovotojas,
   ugniagesys gelbėtojas
 
 
-C
-  4–5
+C 4–5
 
 
-C
-  3–4
+C 3–4
 
 
-C
-  2–4
+C 2–4
 
 
-C
-  2–4
+C 2–4
 
 
  C 1–3
@@ -7732,8 +8520,8 @@ Nr. XI-320,
 Nr. XI-512,
 2009-12-02, Žin., 2009, Nr. 147-6555 (2009-12-12)
 Nr.
-XI-851,
-2010-05-25, Žin., 2010, Nr. 67-3347 (2010-06-10)
+XI-851, 2010-05-25,
+Žin., 2010, Nr. 67-3347 (2010-06-10)
 Nr. XI-979,
 2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
 Nr. XI-1555,
@@ -7744,8 +8532,8 @@ Nr. XII-116,
 2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
 Nr. XII-155,
 2013-01-17, Žin., 2013, Nr. 11-499 (2013-01-30)
-Nr. XI-849, 2010-05-25,
-Žin., 2010, Nr. 67-3346 (2010-06-10)
+Nr. XI-849,
+2010-05-25, Žin., 2010, Nr. 67-3346 (2010-06-10)
 Nr. XI-1554,
 2011-06-28, Žin., 2011, Nr. 91-4329 (2011-07-19)
 Nr.
@@ -7760,6 +8548,8 @@ XII-154,
 Nr.
 XII-281,
 2013-05-09, Žin., 2013, Nr. 54-2686 (2013-05-25)
+Nr. XII-681,
+2013-12-17, Žin., 2013, Nr. 140-7058 (2013-12-30)
  
  
 Pakeitimai:
@@ -7885,8 +8675,8 @@ VALSTYBĖS TARNYBOS
 15.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-856,
-2002-04-23, Žin., 2002, Nr. 45-1709 (2002-05-04)
+Nr. IX-856, 2002-04-23,
+Žin., 2002, Nr. 45-1709 (2002-05-04)
 VALSTYBĖS TARNYBOS ĮSTATYMO
 PAKEITIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
  
@@ -8063,8 +8853,10 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 2, 4,
 PAPILDYMO 16(1) IR 31(1) STRAIPSNIAIS ĮSTATYMAS
 Šio
 įstatymo 5 straipsnio 3, 4, 5 ir 6 dalys, 9 straipsnis, 10 straipsnio 1 dalis,
-10 straipsnio 2 ir 3 dalys, kiek tai susiję su įstaigos vadovo statuso atkūrimu,
-10 straipsnio 4 dalis, 11, 12, 14, 17, 20 straipsniai ir 30 straipsnio 2 ir 3 dalys įsigalioja nuo 2006 m. liepos 1 d. 
+10 straipsnio 2 ir 3 dalys, kiek tai susiję su įstaigos vadovo statuso
+atkūrimu, 10 straipsnio 4 dalis, 11, 12, 14, 17, 20 straipsniai ir 30
+straipsnio 2 ir 3 dalys
+įsigalioja nuo 2006 m. liepos 1 d. 
  
 34.
 Lietuvos
@@ -8115,9 +8907,9 @@ Nr. X-1349,
 VALSTYBĖS TARNYBOS ĮSTATYMO 7, 8,
 24 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2, 3 PRIEDAIS
 ĮSTATYMAS
-Šis įstatymas,
-išskyrus 2 straipsnio 5 ir 10 dalis, 7 straipsnį, 2009 metų valstybės
-tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų
+Šis įstatymas, išskyrus
+2 straipsnio 5 ir 10 dalis, 7 straipsnį, 2009 metų valstybės tarnautojų
+suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų
 suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d.
 Šio įstatymo 2
 straipsnio 10 dalis įsigalioja 2008 m. balandžio 1 d.
@@ -8127,10 +8919,11 @@ nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsiga
 2010 m. sausio 1 d.
 Šio įstatymo
 pakeitimas:
+37.1.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-120, 2008-12-23,
-Žin., 2008, Nr. 149-6040 (2008-12-30)
+Nr. XI-120,
+2008-12-23, Žin., 2008, Nr. 149-6040 (2008-12-30)
 VALSTYBĖS TARNYBOS
 ĮSTATYMO 7, 8, 24 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2, 3
 PRIEDAIS ĮSTATYMO 7, 8 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -8161,7 +8954,7 @@ straipsnio 3 ir 4 dalys įsigalioja 2009 m.
 vasario 1 d.
 Šio įstatymo
 įsigaliojimas keistas:
-1.
+39.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-588,
@@ -8169,7 +8962,7 @@ Nr. XI-588,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
-2.
+39.2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-1755,
@@ -8229,15 +9022,16 @@ XI-119,
 2008-12-23, Žin., 2008, Nr. 149-6039 (2008-12-30)
 VALSTYBĖS TARNYBOS ĮSTATYMO 3
 PRIEDO PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus 2010 metų valstybės
-tarnautojų suvienodintų pareigybių sąrašą ir nuo 2011 metų valstybės tarnautojų
-suvienodintų pareigybių sąrašą, įsigalioja 2009 m. sausio 1 d.
+Šis įstatymas, išskyrus 2010 metų
+valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2011 metų valstybės
+tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2009 m. sausio 1 d.
 2010
 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2010 m.
 sausio 1 d., o nuo 2011 metų valstybės tarnautojų suvienodintų pareigybių
 sąrašas įsigalioja 2011 m. sausio 1 d.
 Šis įstatymas neteko galios nuo
 2010 m. sausio 1 d.:
+43.1.
 Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. XI-513,
@@ -8256,8 +9050,9 @@ PAKEITIMO ĮSTATYMAS
 Šio įstatymo 3 straipsnis įsigalioja 2011 m. sausio 1 d.
 Šio įstatymo
 pakeitimas:
-                Lietuvos Respublikos
-Seimas, Įstatymas
+                44.1.
+Lietuvos
+Respublikos Seimas, Įstatymas
                 Nr. XI-321,
 2009-07-07, Žin., 2009, Nr.85-3578 (2009-07-18)
 VALSTYBĖS
@@ -8265,10 +9060,11 @@ TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2009 liepos 18 d.
- 
+44.2.
 Įstatymas Nr. XI-186 neteko galios nuo 2010 m. sausio
 1 d.:
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. XI-514,
 2009-12-02, Žin., 2009, Nr. 147-6557 (2009-12-12)
 VALSTYBĖS TARNYBOS
@@ -8285,36 +9081,37 @@ PAKEITIMO ĮSTATYMAS
 2014 m. sausio 1 d.
 Šio įstatymo įsigaliojimas
 keistas:
-1)
+45.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-943,
 2010-06-30, Žin., 2010, Nr. 82-4297 (2010-07-13)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-2)
+45.2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-1723,
 2011-11-22, Žin., 2011, Nr. 150-7038 (2011-12-08)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-3)
+45.3.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XII-115,
 2012-12-20, Žin., 2012, Nr. 155-7993 (2012-12-31)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Įstatymas
-(Nr. XI-227) ir jo pakeitimai
+Įstatymas (Nr. XI-227) ir jo pakeitimai
 neteko galios nuo 2013-10-01:
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-517,
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-517,
 2013-09-19, Žin., 2013, Nr. 102-5026 (2013-09-28)
-VALSTYBĖS TARNYBOS ĮSTATYMO 25
-STRAIPSNIO, 1 PRIEDO PAKEITIMO IR KAI KURIŲ SU JAIS SUSIJUSIŲ ĮSTATYMŲ
-PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 25 STRAIPSNIO, 1 PRIEDO PAKEITIMO IR KAI KURIŲ SU JAIS
+SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. spalio 1 d.
  
 46.
@@ -8327,8 +9124,8 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 47.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-320,
-2009-07-07, Žin., 2009, Nr. 85-3577 (2009-07-18)
+Nr. XI-320, 2009-07-07,
+Žin., 2009, Nr. 85-3577 (2009-07-18)
 VALSTYBĖS TARNYBOS ĮSTATYMO 8, 10
 STRAIPSNIŲ IR ĮSTATYMO 3 PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
@@ -8351,7 +9148,7 @@ straipsnis įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2013 m. gruodžio
 d. 
 Šio įstatymo įsigaliojimas
 keistas:
-1)
+48.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-944,
@@ -8359,7 +9156,7 @@ Nr. XI-944,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
-2)
+48.2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-1721,
@@ -8367,22 +9164,24 @@ Nr. XI-1721,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
-3)
+48.3.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XII-114,
 2012-12-20, Žin., 2012, Nr. 155-7992 (2012-12-31)
-VALSTYBĖS TARNYBOS
-ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
-Įstatymas
-(Nr. XI-363) ir jo pakeitimai neteko galios nuo 2013-10-01:
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-517,
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Įstatymas (Nr.
+XI-363) ir jo pakeitimai neteko galios nuo 2013-10-01:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-517,
 2013-09-19, Žin., 2013, Nr. 102-5026 (2013-09-28)
-VALSTYBĖS TARNYBOS ĮSTATYMO 25
-STRAIPSNIO, 1 PRIEDO PAKEITIMO IR KAI KURIŲ SU JAIS SUSIJUSIŲ ĮSTATYMŲ
-PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 25 STRAIPSNIO, 1 PRIEDO PAKEITIMO IR KAI KURIŲ SU JAIS
+SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. spalio 1 d.
  
 49.
@@ -8404,9 +9203,10 @@ metų valstybės tarnautojų suvienodintų pareigybių sąrašą turi būti nust
 aukštesnė valstybės tarnautojo pareigybės kategorija, sprendimas dėl aukštesnės
 valstybės tarnautojo pareigybės kategorijos nustatymo turi įsigalioti kartu su
 atitinkamų metų valstybės tarnautojų suvienodintų pareigybių sąrašu.
+Įstatymas neteko galios nuo 2014-01-01.
 Šis įstatymas ir jo
 galiojimas keistas:
-1)
+49.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-851,
@@ -8414,7 +9214,10 @@ Nr. XI-851,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.
-2)
+Įstatymas neteko
+galios nuo 2014-01-01.
+ 
+49.2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-979,
@@ -8422,18 +9225,24 @@ Nr. XI-979,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
-3)
+Įstatymas neteko
+galios nuo 2014-01-01.
+ 
+49.3.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1555,
-2011-06-28, Žin., 2011, Nr. 91-4330 (2011-07-19)
+Nr. XI-1555, 2011-06-28,
+Žin., 2011, Nr. 91-4330 (2011-07-19)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 1 straipsnio 1 dalis įsigalioja 2012 m. sausio 1 d.
 Šio įstatymo 1
 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d.
-4)
+Įstatymas neteko
+galios nuo 2014-01-01.
+ 
+49.4.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-1722,
@@ -8441,21 +9250,42 @@ Nr. XI-1722,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
-5)
-Lietuvos Respublikos
-Seimas, Įstatymas
+Įstatymas neteko
+galios nuo 2014-01-01.
+ 
+49.5.
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XII-116,
 2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
-6)
+Įstatymas neteko
+galios nuo 2014-01-01.
+ 
+49.6.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XII-155,
 2013-01-17, Žin., 2013, Nr. 11-499 (2013-01-30)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas neteko
+galios nuo 2014-01-01.
+Įstatymas
+Nr. XI-512 ir
+pakeitimai neteko galios nuo 2014-01-01:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-681,
+2013-12-17, Žin., 2013, Nr. 140-7058 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO IR KAI KURIŲ SU JUO
+SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+Šio
+įstatymo 1 ir 5 straipsniai įsigalioja 2014 m. sausio 1 d. 
  
 50.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8574,17 +9404,18 @@ VALSTYBĖS
 TARNYBOS ĮSTATYMO 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1),
 32, 34, 41, 43, 44, 46, 47, 48, 49, 50, 51 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
-1. Šis įstatymas, išskyrus 21, 22, 23,
-26 straipsnius, šio straipsnio 2, 3, 4 ir 5 dalis, įsigalioja 2013 m. birželio
-1 d.
+Šis įstatymas, išskyrus 21, 22, 23, 26
+straipsnius, šio straipsnio 2, 3, 4 ir 5 dalis, įsigalioja 2013 m. birželio 1
+d.
 Šio įstatymo 4 straipsnio 1 dalis, 5
 straipsnio 1 dalis, 12 straipsnis, 16 straipsnis įsigalioja 2012 m. rugpjūčio 1
 d.
-Šio įstatymo 4 straipsnio 3 dalis, 5 straipsnio
-3 dalis, 6 straipsnio 1 dalis, 7 straipsnis, 8 straipsnio 1, 2 ir 3 dalys, 9
-straipsnis, 10 straipsnis, 11 straipsnis, 14 straipsnis, 15 straipsnis, 17
-straipsnis, 18 straipsnio 1 ir 3 dalys, 19 straipsnio 2, 3, 4, 5 ir 6 dalys, 20
-straipsnis, 25 straipsnio 2 dalis įsigalioja 2012 m. rugsėjo 1 d.
+Šio įstatymo 4 straipsnio 3 dalis, 5
+straipsnio 3 dalis, 6 straipsnio 1 dalis, 7 straipsnis, 8 straipsnio 1, 2 ir 3
+dalys, 9 straipsnis, 10 straipsnis, 11 straipsnis, 14 straipsnis, 15
+straipsnis, 17 straipsnis, 18 straipsnio 1 ir 3 dalys, 19 straipsnio 2, 3, 4, 5
+ir 6 dalys, 20 straipsnis, 25 straipsnio 2 dalis įsigalioja 2012 m. rugsėjo 1
+d.
 Šio įstatymo 1 straipsnis, 2 straipsnis,
 3 straipsnio 3 dalis, 13 straipsnis, 19 straipsnio 1 dalis, 24 straipsnio 1 ir
 2 dalys įsigalioja 2012 m. lapkričio 1 d.
@@ -8592,6 +9423,7 @@ straipsnis, 25 straipsnio 2 dalis įsigalioja 2012 m. rugsėjo 1 d.
 įsigalioja 2013 m. sausio 1 d.
 Šis įstatymas ir
 jo įsigaliojimas keistas:
+61.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XII-27,
@@ -8696,6 +9528,37 @@ Nr. XII-692,
 LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS
 ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+72.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-681, 2013-12-17,
+Žin., 2013, Nr. 140-7058 (2013-12-30)
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS
+ĮSTATYMO 3 PRIEDO PAKEITIMO IR KAI KURIŲ SU JUO SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO
+NETEKUSIAIS GALIOS ĮSTATYMAS
+Šio įstatymo 1 ir 5 straipsniai
+įsigalioja 2014 m. sausio 1 d. 
+Šio įstatymo 2 straipsnis įsigalioja
+2015 m. sausio 1 d. 
+Šio įstatymo 3 straipsnis įsigalioja
+2016 m. sausio 1 d.
+Jeigu pagal šio įstatymo 1, 2 ar 3
+straipsnyje išdėstytą Valstybės tarnautojų suvienodintų pareigybių sąrašą turi
+būti nustatyta aukštesnė valstybės tarnautojo pareigybės kategorija, sprendimas
+dėl aukštesnės valstybės tarnautojo pareigybės kategorijos nustatymo turi
+įsigalioti kartu su atitinkamame šio įstatymo straipsnyje išdėstytu Valstybės
+tarnautojų suvienodintų pareigybių sąrašu.
+ 
+73.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-687,
+2013-12-17, Žin., 2013, Nr. 140-7064 (2013-12-30)
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS
+ĮSTATYMO 2 PRIEDO PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+ir 3 dalis, įsigalioja 2014 m. kovo 1 d.
+ 
  
 ***
 Pabaiga ***
@@ -8718,7 +9581,6 @@ skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
  
 ***
 Pabaiga ***
- 
  
 Redagavo
 Aušrinė Trapinskienė (2014-01-06)
