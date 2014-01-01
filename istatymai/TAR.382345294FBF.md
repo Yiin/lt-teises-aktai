@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF"
 
 # Lietuvos Respublikos elektroninio parašo įstatymas
 
-Suvestinė redakcija nuo 2013-07-13 iki 2013-12-31
+Įstatymas netenka galios 2018-05-09:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1120, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07474
+Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymas
+ 
+Suvestinė redakcija nuo 2014-01-01 iki 2018-05-08
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 61-1827, i. k. 1001010ISTAIII-1822
  
@@ -90,7 +95,10 @@ BENDROSIOS NUOSTATOS
 
 3) pasirašančio asmens vardas ir pavardė arba slapyvardis;
 
-4) pasirašančio asmens specialūs atributai, jei tai reikalinga atsižvelgiant į numatomus sertifikato naudojimo tikslus; 
+4) pasirašančio asmens specialūs atributai, įskaitant asmens kodą, kai tai reikalinga atsižvelgiant į numatomus sertifikato naudojimo tikslus. 
+Straipsnio punkto pakeitimai:
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
+ 
 
 5) parašo tikrinimo duomenys, atitinkantys pasirašančio asmens turimus parašo formavimo duomenis;
 
@@ -182,6 +190,11 @@ Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 
 9. Žalą, padarytą neteisėtu sertifikato galiojimo sustabdymu ar nutraukimu, privalo atlyginti dėl to kalti asmenys Lietuvos Respublikos įstatymų nustatyta tvarka. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+ 
+
+10. Asmens duomenys sertifikate tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+Papildyta straipsnio dalimi:
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
  
 
 5 straipsnis. Užsienio valstybių sertifikatų galiojimas
@@ -276,11 +289,25 @@ Kvalifikuotus sertifikatus sudarantys Lietuvos Respublikos sertifikavimo paslaug
 
 1. Sertifikatui sudaryti pasirašantis asmuo sudaro sutartį su sertifikavimo paslaugų teikėju. Sertifikavimo paslaugų teikėjas sudarant sutartį privalo:
 
-1) informuoti pasirašantį asmenį apie sertifikato naudojimo tvarką, apribojimus, savanorišką sertifikavimo paslaugų teikėjo akreditavimąsi; 
+1) informuoti pasirašantį asmenį apie jo vardo, pavardės, asmens kodo ir kitų asmens duomenų tvarkymą sertifikate; 
+Papildyta straipsnio punktu:
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
+ 
 
-2) sudarydamas pasirašančio asmens sertifikatą, reikalauti iš asmens pateikti jo tapatybę patvirtinančius dokumentus; 
+2) informuoti pasirašantį asmenį apie sertifikato naudojimo tvarką, apribojimus, savanorišką sertifikavimo paslaugų teikėjo akreditavimąsi; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
+ 
 
-3) užtikrinti asmens duomenų apsaugą, reglamentuojamą Asmens duomenų teisinės apsaugos ir kitų Lietuvos Respublikos įstatymų.
+3) sudarydamas pasirašančio asmens sertifikatą, reikalauti iš asmens pateikti jo tapatybę patvirtinančius dokumentus; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
+ 
+
+4) užtikrinti asmens duomenų apsaugą, reglamentuojamą Asmens duomenų teisinės apsaugos ir kitų Lietuvos Respublikos įstatymų.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
+ 
 
 2. Sertifikavimo paslaugų teikėjas privalo:
 
@@ -344,7 +371,10 @@ ELEKTRONINIO PARAŠO PRIEŽIŪRA
 
 5) akredituoja sertifikavimo paslaugų teikėjus; 
 
-6) rengia kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų registravimo tvarką, juos registruoja ir viešai skelbia jų sąrašą leidinyje „Valstybės žinios“; 
+6) rengia kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų registravimo tvarką, juos registruoja ir viešai skelbia jų sąrašą savo interneto svetainėje; 
+Straipsnio punkto pakeitimai:
+Nr. XI-2321, 2012-11-06, Žin., 2012, Nr. 132-6649 (2012-11-15), i. k. 1121010ISTA0XI-2321
+ 
 
 7) prižiūri, kaip tvarkoma sertifikavimo paslaugų teikėjo surinkta informacija, susijusi su kvalifikuotų sertifikatų tvarkymu ir parašo naudotojų užklausomis; 
 
@@ -413,4 +443,9 @@ Lietuvos Respublikos elektroninio parašo įstatymo 14 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-508, 2013-07-02, Žin., 2013, Nr. 75-3779 (2013-07-13), i. k. 1131010ISTA0XII-508
 Lietuvos Respublikos elektroninio parašo įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-686, 2013-12-17, Žin., 2013, Nr. 140-7063 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00364
+Lietuvos Respublikos elektroninio parašo įstatymo 2, 4, 12 straipsnių pakeitimo ir papildymo ĮSTATYMAS
 
