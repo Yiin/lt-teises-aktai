@@ -127,15 +127,20 @@ prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departament
 jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems
 muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę
 žvalgybą ir (arba) ikiteisminį tyrimą) 5 ir daugiau metų.
-2. Pareigūnams
-ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, valstybės saugumo,
-krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų
-departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos
-(dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems
-kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), valstybinė pensija skiriama
-tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą
-išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos
-amžių).
+2. Pareigūnams ir kariams, dėl pačių kaltės
+pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos,
+prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam
+pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės
+mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę
+žvalgybą ir (arba) ikiteisminį tyrimą), valstybinė pensija skiriama tik
+tada, kai jie yra ištarnavę 20 ar daugiau metų ir po atleidimo iš tarnybos
+dienos yra praėję 3 metai arba kai jie
+yra ištarnavę 20 ar daugiau metų ir yra sukakę įstatymų nustatytą išleidimo į atsargą amžių
+(jei toks amžius nenustatytas, – senatvės pensijos amžių).
+Pastaba. 2
+dalies nuostatos taikomos ir tiems pareigūnams bei kariams, kurie buvo pašalinti
+iš tarnybos dėl jų pačių kaltės iki įstatymo (Nr. XII-709)
+įsigaliojimo.
 Straipsnio pakeitimai:
 Nr. X-927, 2006-11-28,
 Žin., 2006, Nr. 134-5064 (2006-12-09)
@@ -143,6 +148,8 @@ Nr. X-1027,
 2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
 Nr. XI-2254,
 2012-10-02, Žin., 2012, Nr. 122-6113 (2012-10-20)
+Nr. XII-709,
+2013-12-19, Žin., 2013, Nr. 140-7076 (2013-12-30)
  
 4 straipsnis.
 Pareigūnų ir karių valstybinių pensijų rūšys 
@@ -155,14 +162,14 @@ pareigūnų ir karių valstybinės pensijos:
 5 straipsnis.
 Teisė pasirinkti pensijos rūšį 
 1. Pareigūnai ir kariai, kurie įgyja
-teisę į pareigūnų ir karių valstybinę pensiją, nepraranda teisės į kitas
-valstybines pensijas, jei įstatymai nenumato kitaip.
+teisę į pareigūnų ir karių valstybinę pensiją, nepraranda teisės į kitas valstybines
+pensijas, jei įstatymai nenumato kitaip.
 2.
 Pareigūnams ir kariams, tuo pat metu įgijusiems teisę į pareigūnų ir karių
-valstybinę pensiją už tarnybą ir pareigūnų ir karių valstybinę netekto darbingumo
-pensiją, skiriama didesnioji arba jų pasirinkimu viena iš šių pensijų.
-Pareigūnų ir karių valstybinė našlių ar našlaičių pensija mokama kartu su
-pensija už tarnybą ar netekto darbingumo pensija.
+valstybinę pensiją už tarnybą ir pareigūnų ir karių valstybinę netekto
+darbingumo pensiją, skiriama didesnioji arba jų pasirinkimu viena iš šių
+pensijų. Pareigūnų ir karių valstybinė našlių ar našlaičių pensija mokama kartu
+su pensija už tarnybą ar netekto darbingumo pensija.
  
 6 straipsnis. Pareigūnų ir
 karių tarnybos laikas pensijai skirti
@@ -229,8 +236,9 @@ darbo užmokesčio.
 punktas) pareigūnams ir kariams, ištarnavusiems nuo 5 iki 10 metų, už
 kiekvienus tarnybos metus, įskaitytus į tarnybos laiką pensijai skirti,
 skiriama po 2 procentus šio straipsnio 1 dalyje nurodyto darbo užmokesčio,
-ištarnavusiems nuo 10 iki 20 metų – 20 procentų šio darbo užmokesčio, o ištarnavusiems
-daugiau kaip 20 metų skiriama šio straipsnio 2 dalyje nurodyto dydžio pensija. 
+ištarnavusiems nuo 10 iki 20 metų – 20 procentų šio darbo užmokesčio, o
+ištarnavusiems daugiau kaip 20 metų skiriama šio straipsnio 2 dalyje nurodyto
+dydžio pensija. 
 Straipsnio
 pakeitimai:
 Nr. XI-229,
@@ -305,10 +313,10 @@ ir karių valstybinė našlių ir našlaičių pensija skiriama pagal mirusiojo 
 pensijos dydį Valstybinių pensijų įstatymo 9 straipsnio 5 ir 8 dalyse
 nustatytomis dalimis.
 4. Vaikams, netekusiems abiejų tėvų, pareigūnų ir
-karių valstybinės našlaičių pensijos dydį sudaro suma, gauta apskaičiavus
-našlaičių pensiją už kiekvieną iš mirusių tėvų atskirai, jei abu tėvai buvo
-įgiję teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba netekto
-darbingumo pensiją.
+karių valstybinės našlaičių pensijos dydį sudaro suma, gauta apskaičiavus našlaičių
+pensiją už kiekvieną iš mirusių tėvų atskirai, jei abu tėvai buvo įgiję teisę
+gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba netekto darbingumo
+pensiją.
 5. Privalomosios karo tarnybos kariui mirus tarnybos,
 mokymų, pratybų ar užduočių vykdymo metu dėl priežasčių, susijusių su tarnyba,
 mokymais, pratybomis ar užduočių vykdymu, skiriama našlių ir našlaičių pensija
@@ -356,11 +364,10 @@ ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliot
 Valstybinio socialinio draudimo fondo administravimo įstaigos.
 2. Skirdamos ir mokėdamos karių ir
 pareigūnų valstybines pensijas šio straipsnio 1 dalyje nurodytos institucijos
-vadovaujasi šiuo įstatymu bei Vyriausybės patvirtintais Vidaus reikalų,
-Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos bei
-prokuratūros sistemų, Kalėjimų departamento ir jam pavaldžių įstaigų ir
-valstybės įmonių pareigūnų ir karių valstybinių pensijų skyrimo bei mokėjimo
-nuostatais (toliau - Nuostatai).
+vadovaujasi šiuo įstatymu bei Vyriausybės patvirtintais Vidaus reikalų, Specialiųjų
+tyrimų tarnybos, valstybės saugumo, krašto apsaugos bei prokuratūros sistemų,
+Kalėjimų departamento ir jam pavaldžių įstaigų ir valstybės įmonių pareigūnų ir
+karių valstybinių pensijų skyrimo bei mokėjimo nuostatais (toliau - Nuostatai).
 3. Kreiptis dėl pensijos paskyrimo
 galima prieš tris mėnesius iki teisės gauti pareigūno ar kario valstybinę
 pensiją atsiradimo arba bet kuriuo metu po teisės gauti pareigūno ar kario
@@ -369,9 +376,8 @@ valstybinę pensiją atsiradimo.
 pateikti visus Nuostatuose nurodytus dokumentus, būtinus pensijai paskirti.
 5. Šio straipsnio 1 dalyje nurodytos
 institucijos per Nuostatuose nustatytą laiką privalo priimti sprendimą dėl
-pensijos paskyrimo arba dėl atsisakymo ją paskirti ir apie sprendimą pranešti
-pareiškėjui. Jei atsisakoma skirti pensiją, privaloma nurodyti atsisakymo
-priežastį.
+pensijos paskyrimo arba dėl atsisakymo ją paskirti ir apie sprendimą pranešti pareiškėjui.
+Jei atsisakoma skirti pensiją, privaloma nurodyti atsisakymo priežastį.
 6. Jei pareiškėjas nesutinka su šio
 straipsnio 1 dalyje nurodytos institucijos sprendimu, jis turi teisę šį
 sprendimą apskųsti šios institucijos vadovui, o jei nesutinkama ir su vadovo
@@ -935,7 +941,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
-28.
+27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2301,
 2012-10-17, Žin., 2012, Nr. 129-6475 (2012-11-08)
@@ -944,7 +950,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
-29.
+28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-86,
 2012-12-20, Žin., 2012, Nr. 155-7984 (2012-12-31)
@@ -953,7 +959,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO
 Šis įstatymas,
 išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
  
-30.
+29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-636,
 2013-12-03, Žin., 2013, Nr. 128-6522 (2013-12-14)
@@ -970,6 +976,18 @@ skirtumas mokamas už laikotarpį nuo 2013 m. vasario 28 d., bet ne daugiau kaip
 atitinkamoje institucijoje ar įstaigoje dienos. Perskaičiuojant pensijos dydį,
 taikomi darbo užmokesčio dydžiai, pagal kuriuos buvo apskaičiuojama pareigūnų
 ir karių valstybinė pensija.
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-709,
+2013-12-19, Žin., 2013, Nr. 140-7076 (2013-12-30)
+LIETUVOS RESPUBLIKOS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ
+PENSIJŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m.
+sausio 1 d.
+Šio įstatymo nuostatos taikomos
+ir tiems pareigūnams bei kariams, kurie buvo pašalinti iš tarnybos dėl jų pačių
+kaltės iki šio įstatymo įsigaliojimo.
  
  
 *** Pabaiga ***
@@ -1024,5 +1042,5 @@ REDAKCIJA) 1 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2013-12-17)
+Redagavo Aušrinė Trapinskienė (2014-01-07)
                   ausrine.trapinskiene@lrs.lt
