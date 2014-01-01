@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.991FE146EBE7"
 
 # Lietuvos Respublikos vaikų išlaikymo išmokų įstatymas
 
+Suvestinė redakcija nuo 2014-01-01 iki 2017-12-31
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 144-5464, i. k. 1061010ISTA000X-987
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VAIKŲ IŠLAIKYMO FONDO
 Į S T A T Y M A S
@@ -88,8 +93,6 @@ BENDROSIOS NUOSTATOS
 
 
 8. Vaikų išlaikymo fondo išmokos (toliau – Fondo išmokos) – piniginės lėšos, išmokamos iš Fondo lėšų įgyvendinant šio įstatymo nustatytą Lietuvos Respublikos įsipareigojimą šio įstatymo nustatytais pagrindais ir tvarka mokėti vaiko išlaikymo lėšas. Fondo išmoka vienam vaikui per mėnesį yra ne didesnė negu 1,5 MGL dydžio.
- 
- 
  
 
 
@@ -430,7 +433,10 @@ Fondo išmokėtoms išmokoms išieškoti taikomos tos pačios Lietuvos Respublik
 
 
 
-2. Tuo atveju, kai skolininko gyvenamoji vieta yra nežinoma, informacija apie Fondo administratoriaus sprendimą mokėti Fondo išmokas ir šio straipsnio 1 dalyje nurodytas pasekmes skolininkui ne vėliau kaip per 20 darbo dienų nuo tokio sprendimo priėmimo paskelbiama „Valstybės žiniose“.
+2. Tuo atveju, kai skolininko gyvenamoji vieta yra nežinoma, informacija apie Fondo administratoriaus sprendimą mokėti Fondo išmokas ir šio straipsnio 1 dalyje nurodytas pasekmes skolininkui ne vėliau kaip per 20 darbo dienų nuo tokio sprendimo priėmimo paskelbiama Fondo administratoriaus interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2350, 2012-11-06, Žin., 2012, Nr. 132-6678 (2012-11-15), i. k. 1121010ISTA0XI-2350
+ 
 
 
 
@@ -579,3 +585,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2350, 2012-11-06, Žin., 2012, Nr. 132-6678 (2012-11-15), i. k. 1121010ISTA0XI-2350
+Lietuvos Respublikos vaikų išlaikymo fondo įstatymo 14 straipsnio pakeitimo įstatymas
