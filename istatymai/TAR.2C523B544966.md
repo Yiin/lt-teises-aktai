@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2012-09-22 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-05-08
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -253,7 +253,10 @@ Nr. XI-2216, 2012-09-12, Žin., 2012, Nr. 110-5563 (2012-09-22), i. k. 1121010IS
 
 1. Grupės įregistravimo Vyriausiojoje rinkimų komisijoje diena ar Seimo narių grupės siūlymo paskelbti referendumą pateikimo Seimui diena yra laikoma referendumo agitacijos kampanijos pradžia.
 
-2. Įsigaliojus Seimo nutarimui paskelbti referendumą, Vyriausioji rinkimų komisija visuomenės informavimo priemonėse ir interneto tinklapyje skelbia referendumui teikiamo sprendimo tekstą.
+2. Įsigaliojus Seimo nutarimui paskelbti referendumą, Vyriausioji rinkimų komisija visuomenės informavimo priemonėse ir savo interneto svetainėje skelbia referendumui teikiamo sprendimo tekstą.
+Straipsnio dalies pakeitimai:
+Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
+ 
 
 3. Šio Įstatymo nuostatos dėl referendumo agitacijos taikomos nuo tos dienos, kurią prasideda referendumo agitacijos kampanija. Referendumo iniciatorių ir jo priešininkų išlaidos referendumo agitacijai ir politinės reklamos išlaidos, turėtos iki referendumo agitacijos kampanijos pradžios, turi būti įstatymų nustatyta tvarka deklaruojamos ir negali viršyti pagal įstatymus nustatyto didžiausio leistino referendumo agitacijos išlaidų dydžio. 
 Straipsnio dalies pakeitimai:
@@ -326,7 +329,10 @@ Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA
 
 2. Apie referendumo komisijos posėdžius visuomenei skelbiama pastate, kuriame yra šios komisijos būstinė, įrengtoje skelbimų lentoje, o referendumo komisijos nariams pranešama asmeniškai ne vėliau kaip likus 24 valandoms iki posėdžio pradžios.
 
-3. Vyriausioji rinkimų komisija interneto tinklapyje papildomai praneša visuomenės informavimo priemonėms apie savo posėdžius, kuriuose sprendžiami klausimai: dėl grupės įregistravimo ir nustatymo, ar grupės pateikti parašai atitinka šio Įstatymo reikalavimus; dėl miestų, rajonų referendumo komisijų sudarymo ir sudėties keitimo; dėl sprendimų burtais; dėl referendumo rezultatų, galutinių referendumo rezultatų nustatymo; taip pat praneša apie posėdžius, kuriuose nagrinėjami ginčai dėl referendumo agitacijos bei šio Įstatymo pažeidimų. Interneto tinklapyje Vyriausioji rinkimų komisija taip pat skelbia referendumo organizavimo ir vykdymo metu savo priimtus sprendimus bei išankstinius balsavimo referendume rezultatus. Išankstiniai balsavimo referendume rezultatai paskelbiami interneto tinklapyje, kai tik yra gauti Vyriausiojoje rinkimų komisijoje.
+3. Vyriausioji rinkimų komisija savo interneto svetainėje papildomai praneša visuomenės informavimo priemonėms apie savo posėdžius, kuriuose sprendžiami klausimai: dėl grupės įregistravimo ir nustatymo, ar grupės pateikti parašai atitinka šio Įstatymo reikalavimus; dėl miestų, rajonų referendumo komisijų sudarymo ir sudėties keitimo; dėl sprendimų burtais; dėl referendumo rezultatų, galutinių referendumo rezultatų nustatymo; taip pat praneša apie posėdžius, kuriuose nagrinėjami ginčai dėl referendumo agitacijos bei šio Įstatymo pažeidimų. Savo interneto svetainėje Vyriausioji rinkimų komisija taip pat skelbia referendumo organizavimo ir vykdymo metu savo priimtus sprendimus bei išankstinius balsavimo referendume rezultatus. Išankstiniai balsavimo referendume rezultatai paskelbiami Vyriausiosios rinkimų komisijos interneto svetainėje, kai tik yra gauti Vyriausiojoje rinkimų komisijoje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
+ 
 
 4. Vyriausiosios rinkimų komisijos ir miestų, rajonų referendumo komisijų posėdžiai ir balsavimai, taip pat apylinkių referendumo komisijų veikla balsavimo metu ir skaičiuojant balsus yra vieši. Juos gali stebėti: grupės nariai, jos atstovai ir stebėtojai, partijų atstovai ir stebėtojai, pateikę nustatytos formos pažymėjimus, visuomenės informavimo priemonių atstovai, pateikę tarnybinius ar darbo pažymėjimus.
 
@@ -444,7 +450,10 @@ Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA
 
 1. Atsižvelgiant į patogumą piliečiui atvykti į balsavimo patalpas ir piliečių skaičių, miestų, rajonų teritorijos dalijamos į rinkimų apylinkes, o šios organizuojant ir vykdant referendumą tampa referendumo apylinkėmis. 
 
-2. Miesto, rajono teritorijos suskirstymą, kuris yra pastovus organizuojant ir vykdant referendumus, prireikus į referendumo apylinkes mero teikimu keičia Vyriausioji rinkimų komisija. Patvirtintų referendumo apylinkių sąrašą, jo pakeitimus Vyriausioji rinkimų komisija skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+2. Miesto, rajono teritorijos suskirstymą, kuris yra pastovus organizuojant ir vykdant referendumus, prireikus į referendumo apylinkes mero teikimu keičia Vyriausioji rinkimų komisija. Patvirtintų referendumo apylinkių sąrašą, jo pakeitimus Vyriausioji rinkimų komisija skelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
+ 
 
 3. Referendumo apylinkės teritorijoje turi gyventi ne daugiau kaip 5 tūkstančiai rinkimų teisę turinčių piliečių.
 
@@ -1209,7 +1218,10 @@ Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA
 
 73 straipsnis. Referendumo rezultatų paskelbimas
 
-1. Galutinius referendumo rezultatus ne vėliau kaip per 4 dienas po balsavimo referendume dienos oficialiai „Valstybės žiniose“ skelbia Vyriausioji rinkimų komisija.
+1. Galutinius referendumo rezultatus ne vėliau kaip per 4 dienas po balsavimo referendume dienos oficialiai savo interneto svetainėje skelbia Vyriausioji rinkimų komisija.
+Straipsnio dalies pakeitimai:
+Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
+ 
 
 2. Vyriausioji rinkimų komisija ne vėliau kaip kitą dieną po galutinių referendumo rezultatų oficialaus paskelbimo dienos perduoda Respublikos Prezidentui referendumu priimto sprendimo tekstą.
  
@@ -1259,7 +1271,9 @@ Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA
 
 4. Referendumu priimtas įstatymas dėl Konstitucijos keitimo įsigalioja ne anksčiau kaip po 1 mėnesio nuo jo priėmimo referendume dienos.
 
-5. Referendumu priimtas įstatymas, išskyrus Konstitucijos pataisas, kitas aktas ar sprendimas įsigalioja jų oficialaus paskelbimo „Valstybės žiniose“ dieną, jeigu juose pačiuose nenustatyta vėlesnė įsigaliojimo diena.
+5. Referendumu priimtas įstatymas, išskyrus Konstitucijos pataisas, kitas aktas ar sprendimas įsigalioja kitą dieną po jų oficialaus paskelbimo Teisės aktų registre, jeigu juose pačiuose nenustatyta vėlesnė įsigaliojimo diena.
+Straipsnio dalies pakeitimai:
+Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
  
 
 781 straipsnis. Terminų skaičiavimas
@@ -1317,4 +1331,9 @@ Lietuvos Respublikos referendumo įstatymo 60-1 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2216, 2012-09-12, Žin., 2012, Nr. 110-5563 (2012-09-22), i. k. 1121010ISTA0XI-2216
 Lietuvos Respublikos referendumo įstatymo papildymo 15-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2336, 2012-11-06, Žin., 2012, Nr. 132-6664 (2012-11-15), i. k. 1121010ISTA0XI-2336
+Lietuvos Respublikos referendumo įstatymo 16, 18, 23, 73 ir 78 straipsnių pakeitimo įstatymas
 
