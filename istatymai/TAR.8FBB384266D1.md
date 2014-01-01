@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2013-08-20 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
  
@@ -335,7 +335,9 @@ SAUGIOS LAIVYBOS VALSTYBINIO ADMINISTRAVIMO ORGANIZAVIMAS
 
 
 
-4. Administracija atlieka įgaliotų klasifikacinių bendrovių veiklos priežiūrą, skelbia „Valstybės žiniose“ informaciją apie naujas įgaliotas klasifikacines bendroves ir apie įgaliotas klasifikacines bendroves, kurių teisė Lietuvos Respublikos vardu vykdyti techninę priežiūrą sustabdyta susisiekimo ministro nustatyta tvarka.
+4. Administracija atlieka įgaliotų klasifikacinių bendrovių veiklos priežiūrą, skelbia interneto svetainėje informaciją apie naujas įgaliotas klasifikacines bendroves ir apie įgaliotas klasifikacines bendroves, kurių teisė Lietuvos Respublikos vardu vykdyti techninę priežiūrą sustabdyta susisiekimo ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-2337, 2012-11-06, Žin., 2012, Nr. 132-6665 (2012-11-15), i. k. 1121010ISTA0XI-2337
  
 
 
