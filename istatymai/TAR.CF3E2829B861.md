@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2010-11-11 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -34,7 +34,7 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 
 1. Šis įstatymas nustato narkotinių ir psichotropinių medžiagų klasifikavimo pagrindus, šių medžiagų, kai jos vartojamos sveikatos priežiūros, veterinarijos bei mokslo tikslams, teisėtą apyvartą ir apyvartos kontrolę pagal tarptautinių susitarimų reikalavimus.
@@ -42,11 +42,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
+2. Šis įstatymas netaikomas Lietuvos Respublikos pluoštinių kanapių įstatymu reglamentuojamoms pluoštinėms kanapėms. 
+
+
+
+
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
 
 Straipsnio pakeitimai:
 Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+Nr. XII-335, 2013-05-23, Žin., 2013, Nr. 61-3024 (2013-06-08), i. k. 1131010ISTA0XII-335
  
 
 
@@ -739,7 +745,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
+Lietuvos Respublikos 
 narkotinių ir psichotropinių
 medžiagų kontrolės įstatymo
 priedas
@@ -748,17 +754,31 @@ priedas
  
 
 
-1. 1994 m. gruodžio 22 d. Vykdomojo komiteto sprendimas dėl 75 straipsnyje numatytos pažymos narkotinėms ir psichotropinėms medžiagoms vežtis (SCH/Com-ex (94) 28 rev.), OL 2004 m. specialusis leidimas, 19 skyrius, 2 tomas, p. 416.
+1. 1994 m. gruodžio 22 d. Vykdomojo komiteto sprendimas dėl 75 straipsnyje numatytos pažymos narkotinėms ir psichotropinėms medžiagoms vežtis (SCH/Com-ex (94) 28 rev.) (OL 2004 m. specialusis leidimas, 19 skyrius, 2 tomas, p. 416).
 
 
 
 
-2. 2001 m. gegužės 28 d. Tarybos sprendimas Nr. 2001/419/TVR dėl kontroliuojamų medžiagų pavyzdžių perdavimo, OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 110.
- 
+2. 2001 m. gegužės 28 d. Tarybos sprendimas Nr. 2001/419/TVR dėl kontroliuojamų medžiagų pavyzdžių perdavimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 110).
 
 
-Papildyta priedu:
-Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+
+
+3. 2008 m. birželio 6 d. Komisijos reglamentas (EB) Nr. 507/2008, nustatantis išsamias Tarybos reglamento (EB) Nr. 1673/2000 dėl bendro pluoštinių linų ir kanapių rinkų organizavimo taikymo taisykles (OL 2008 L 149, p. 38).
+
+
+
+
+4. 2009 m. sausio 19 d. Tarybos reglamentas (EB) Nr. 73/2009, nustatantis bendrąsias tiesioginės paramos schemų ūkininkams pagal bendrą žemės ūkio politiką taisykles ir nustatantis tam tikras paramos schemas ūkininkams, iš dalies keičiantis reglamentus (EB) Nr. 1290/2005, (EB) Nr. 247/2006, (EB) Nr. 378/2007 ir panaikinantis Reglamentą (EB) Nr. 1782/2003 (OL 2009 L 30, p. 16), su paskutiniais pakeitimais, padarytais 2011 m. kovo 29 d. Komisijos reglamentu (ES) Nr. 307/2011 (OL 2011 L 82, p. 1).
+
+
+
+
+5. 2009 m. lapkričio 30 d. Komisijos reglamentas (EB) Nr. 1122/2009, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 73/2009 įgyvendinimo taisyklės, susijusios su kompleksiniu paramos susiejimu, moduliavimu ir integruota administravimo ir kontrolės sistema pagal tame reglamente numatytas ūkininkams skirtas tiesioginės paramos schemas, ir Tarybos reglamento (EB) Nr. 1234/2007 įgyvendinimo taisyklės, susijusios su kompleksiniu paramos susiejimu pagal vyno sektoriui numatytą paramos schemą (OL 2009 L 316, p. 65), su paskutiniais pakeitimais, padarytais 2011 m. gruodžio 21 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1368/2011 (OL 2011 L 341, p. 33).
+
+
+Priedo pakeitimai:
+Nr. XII-335, 2013-05-23, Žin., 2013, Nr. 61-3024 (2013-06-08), i. k. 1131010ISTA0XII-335
  
 
 
@@ -785,3 +805,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 2, 3, 10 straipsnių, penktojo skirsnio pavadinimo pakeitimo ir papildymo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-335, 2013-05-23, Žin., 2013, Nr. 61-3024 (2013-06-08), i. k. 1131010ISTA0XII-335
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 1 straipsnio ir priedo pakeitimo ir papildymo įstatymas
