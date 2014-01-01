@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D00D08A48D5D"
 
 # Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymas
 
-Suvestinė redakcija nuo 2006-11-07 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2696, i. k. 0961010ISTA00I-1626
  
-Nauja redakcija nuo 2004-04-16:
-Nr. IX-2078, 2004-03-25, Žin. 2004, Nr. 55-1886 (2004-04-16), i. k. 1041010ISTA0IX-2078
+Nauja redakcija nuo 2014-01-01:
+Nr. XII-593, 2013-11-14, Žin. 2013, Nr. 120-6057 (2013-11-23), i. k. 1131010ISTA0XII-593
  
-LIETUVOS RESPUBLIKOS ŽMOGAUS AUDINIŲ, LĄSTELIŲ IR ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS  ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŽMOGAUS AUDINIŲ, LĄSTELIŲ, ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS ĮSTATYMAS
  
 1996 m. lapkričio 19 d. Nr. I-1626
 Vilnius
@@ -32,204 +32,30 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis Įstatymas nustato žmogaus audinių, ląstelių ir organų bei iš žmogaus gautų audinių ir ląstelių pagamintų produktų, skirtų naudoti žmogui, donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo, paskirstymo ir transplantacijos sąlygas bei tvarką.
+1. Šio įstatymo paskirtis – užtikrinti ir plėtoti žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso saugą ir kokybę.
 
 
 
 
-2. Šio Įstatymo normos, nustatančios žmogaus audinių, ląstelių ir organų bei iš žmogaus gautų audinių ir ląstelių pagamintų produktų, skirtų naudoti žmogui, donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo, paskirstymo ir transplantacijos sąlygas bei tvarką, taikomos tiek, kiek šių santykių nereglamentuoja kiti įstatymai.
+2. Šis įstatymas nustato žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso sąlygas ir tvarką.
 
 
 
 
-3. Šis Įstatymas nereglamentuoja audinių, ląstelių ir organų paėmimo ar ištyrimo žmogaus patologoanatominio ar teismo medicininio tyrimo metu.
+3. Žmogaus audiniams ir ląstelėms, kurie naudojami žmonėms skirtiems preparatams gaminti, taikomos žmogaus audinių ir ląstelių donorystę, paėmimą ir ištyrimą reglamentuojančios šio įstatymo nuostatos, o tokių žmogaus audinių ir ląstelių apdorojimą, konservavimą, laikymą, paskirstymą reglamentuoja Lietuvos Respublikos farmacijos įstatymo ir 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamento Nr. 1394/2007 dėl pažangiosios terapijos vaistinių preparatų, iš dalies keičiančio Direktyvą 2001/83/EB ir Reglamentą Nr. 726/2004 (OL 2007 L 324, p.121), nuostatos.
 
 
 
 
-4. Šis Įstatymas nereglamentuoja audinių, ląstelių, kurie yra naudojami kaip autologiniai transplantantai tos pačios chirurginės procedūros metu, spermos, kiaušialąstės, embriono ar embriono ląstelių, vaisiaus ląstelių ar audinių, kraujo ar kraujo komponentų (išskyrus kraujodaros kamienines ląsteles, išgaunamas iš žmogaus arba placentos ar placentinio kraujo po vaiko gimimo) transplantacijos.
+4. Šis įstatymas nereglamentuoja žmogaus audinių, ląstelių, organų paėmimo ar ištyrimo žmogaus patologinės anatomijos, teismo medicininių ir biomedicininių tyrimų atvejais; žmogaus audinių, ląstelių, kurie yra naudojami kaip autologiniai transplantatai tos pačios chirurginės procedūros metu ir kurių nebuvo audinių banke; spermos, kiaušialąsčių, embrionų ar embriono ląstelių, vaisiaus ląstelių ar audinių (išskyrus amniono membraną po gimdymo) donorystės; kraujo ar kraujo komponentų (išskyrus kraujodaros kamienines ląsteles, išgaunamas iš žmogaus periferinio kraujo, kaulų čiulpų arba virkštelės kraujo gimus vaikui) donorystės ir transplantacijos proceso.
 
 
 
 
-5. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės akto, nurodyto Įstatymo priede, nuostatomis.
-
-
-Straipsnio pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
- 
-
-
-
-
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
-
-
-1. Apdorojimas – visos operacijos, atliekamos ruošiant, tvarkant, konservuojant ir pakuojant audinius, ląsteles ir (ar) organus, skirtus naudoti žmogui.
-
-
-
-
-2. Audinys – iš ląstelių susidedanti žmogaus organizmo dalis.
-
-
-
-
-3. Audinių bankas – asmens sveikatos priežiūros įstaiga, atliekanti audinių ir (ar) ląstelių apdorojimo, konservavimo, laikymo ir paskirstymo, kitas teisės aktų nustatytas funkcijas.
-
-
-
-
-4. Donoras – kiekvienas žmogus, gyvas arba miręs, iš kurio paimami audiniai, ląstelės ir (ar) organai.
-
-
-
-
-5. Donorystė – žmogaus audinių, ląstelių ir (ar) organų, skirtų naudoti žmogui, savanoriškas ir neatlygintinas davimas.
-
-
-
-
-6. Įsigijimas – procesas, kurio metu galima įsigyti audinių, ląstelių ir (ar) organų.
-
-
-
-
-7. Konservavimas – cheminių medžiagų panaudojimas, aplinkos sąlygų arba kitų priemonių pakeitimas apdorojimo metu, norint sustabdyti arba sulėtinti biologinį arba fizinį audinių, ląstelių ar organų irimą.
-
-
-
-
-8. Laikymas – produkto išlaikymas tinkamomis kontroliuojamomis sąlygomis iki jo paskirstymo.
-
-
-
-
-9. Ląstelės – individualios žmogaus ląstelės arba žmogaus ląstelių rinkinys, nesujungtas jokiu jungiamuoju audiniu.
-
-
-
-
-10. Naudojimas žmogui – išorinis arba vidinis audinių, ląstelių arba organų naudojimas recipientui ir ekstrakorporinis jų panaudojimas.
-
-
-
-
-11. Nepageidaujama reakcija – nenumatytas donoro arba recipiento organizmo atsakas, įskaitant užkrečiamąją ligą, susijęs su audinių, ląstelių ir organų įsigijimu arba naudojimu žmogui, kai šis atsakas sukelia pavojų gyvybei, neįgalumą, paciento mirtį arba lemia ar pailgina ligos ar hospitalizavimo trukmę.
-
-
-
-
-12. Nepageidaujamas reiškinys – bet koks atvejis, susijęs su audinių, ląstelių ir organų įsigijimu, ištyrimu, apdorojimu, laikymu arba paskirstymu, kuris gali sukelti užkrečiamąją ligą, pavojų gyvybei, neįgalumą, paciento mirtį arba pailginti ligos ar hospitalizavimo trukmę.
-
-
-
-
-13. Organai – atskiros žmogaus kūno dalys, sudarytos iš įvairių audinių, kurie išlaiko savo struktūrą, vaskuliariškumą ir galimybę atlikti fiziologines funkcijas.
-
-
-
-
-14. Paskirstymas – audinių, ląstelių ir (ar) organų, skirtų naudoti žmogui, transportavimas ir pristatymas.
-
-
-
-
-15. Recipientas – kiekvienas žmogus, kuriam gydymo tikslu persodinami audiniai, ląstelės ir (ar) organai.
-
-
-
-
-16. Regeneruojantis audinys – gyvo žmogaus audinys, kuris, jį sužeidus ar dalį jo paėmus, savaime atsinaujina.
-
-
-
-
-17. Transplantacija – iš vieno asmens paimtų audinių, ląstelių ir (ar) organų persodinimas kitam arba tam pačiam asmeniui gydymo tikslu.
-
-
-Straipsnio pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
- 
-
-
-
-
-21 straipsnis. Nacionalinis transplantacijos biuras
-
-
-1. Nacionalinį transplantacijos biurą prie Sveikatos apsaugos ministerijos steigia ir jo nuostatus tvirtina Sveikatos apsaugos ministerija. Šis biuras yra juridinis asmuo. Jo veikla finansuojama iš valstybės biudžeto.
-
-
-
-
-2. Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos:
-
-
-1) kontroliuoja donorystę ir kaip įsigyjami, tiriami, apdorojami, konservuojami, laikomi ir paskirstomi žmogaus audiniai, ląstelės ir organai bei iš žmogaus gautų audinių ir ląstelių pagaminti produktai, skirti naudoti žmogui;
-
-
-
-
-2) koordinuoja žmogaus audinių, ląstelių ir organų bei iš žmogaus gautų audinių ir ląstelių pagamintų produktų, skirtų naudoti žmogui, donorystę, įsigijimą, ištyrimą, paskirstymą;
-
-
-
-
-3) tvarko Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą;
-
-
-
-
-4) teikia 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyvos 2004/23/EB, nustatančios žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus, reikalavimų įgyvendinimo ataskaitas;
-
-
-
-
-5) atlieka kitas jam pavestas funkcijas.
-
-
-
-
-Papildyta straipsniu:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
- 
-
-
-
-
-3 straipsnis. Žmogaus audinių, ląstelių ir organų donorų bei recipientų registras 
-Pakeistas straipsnio pavadinimas:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
- 
-
-
-1. Transplantacijos atvejai ir duomenys apie donorus ir recipientus atskirais sąrašais turi būti įrašomi į Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą.
-
-
-
-
-2. Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
-
-
-
-
-3. Kad būtų išsaugotas donorų bei recipientų konfidencialumas, naudojimosi Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro duomenimis tvarką nustato Sveikatos apsaugos ministerija.
-
-
-
-
-4. Už Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro duomenų konfidencialumą atsako visi fiziniai ir juridiniai asmenys, kurie naudojasi šio registro duomenimis.
-
-
-
-
-5. Duomenys apie donorus ir recipientus turi būti prieinami (nuo donoro iki recipiento ir atvirkščiai) bet kokiame donorystės ir transplantacijos etape.
-Papildyta straipsnio dalimi:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+5. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
  
 
 
@@ -237,39 +63,133 @@ Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA
 
 
 
-4 straipsnis. Audinių bankų veikla
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-Audinių bankai gali teikti žmogaus audinių ir ląstelių apdorojimo, konservavimo, laikymo ir paskirstymo paslaugas tik teisės aktų nustatyta tvarka gavę šios veiklos ir asmens sveikatos priežiūros veiklos licenciją.
+1. Atsekamumas – galimybė bet kuriame donorystės ir transplantacijos proceso etape rasti ir identifikuoti donoro audinį, ląsteles, organą, donorą, recipientą bei visą svarbią informaciją apie medžiagas, turėjusias ryšį su donoro audiniu, ląstelėmis, organu.
 
 
-Straipsnio pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+
+
+2. Audinys – žmogaus organizmo sudėtinė dalis, susidedanti iš ląstelių.
+
+
+
+
+3. Audinių bankas – asmens sveikatos priežiūros įstaiga, teikianti žmogaus audinių, ląstelių paėmimo, apdorojimo, konservavimo, laikymo ir paskirstymo paslaugas, atliekanti kitas teisės aktų nustatytas funkcijas.
+
+
+
+
+4. Audinių, ląstelių, organų apdorojimas (toliau – apdorojimas) – donorų audinių, ląstelių, organų paruošimas, tvarkymas ir pakavimas.
+
+
+
+
+5. Audinių, ląstelių, organų donorystė (toliau – donorystė) – žmogaus audinių, ląstelių, organų savanoriškas ir neatlyginamas atidavimas transplantuoti.
+
+
+
+
+6. Audinių, ląstelių, organų ištyrimas (toliau – ištyrimas) – žmogaus audinių, ląstelių, organų tinkamumo transplantuoti įvertinimas.
+
+
+
+
+7. Audinių, ląstelių, organų konservavimas (toliau – konservavimas) – cheminių medžiagų naudojimas, terpės sąlygų pakeitimas ar kiti veiksmai, kuriais siekiama sustabdyti ar sulėtinti biologinį ar fizinį donorų audinių, ląstelių, organų irimą.
+
+
+
+
+8. Audinių, ląstelių, organų naudojimas žmogui – išorinis arba vidinis donorų audinių, ląstelių arba vidinis organų naudojimas recipientui.
+
+
+
+
+9. Audinių, ląstelių, organų paėmimas (toliau – paėmimas) – donorų audinių, ląstelių, organų paėmimas nustatyta tvarka atliekant operacijas.
+
+
+
+
+10. Audinių, ląstelių, organų parinkimas (toliau – parinkimas) – donorų audinių, ląstelių, organų tinkamas paskyrimas recipientams, vadovaujantis donoro ir recipiento poros atrankos medicininiais bei kitais kriterijais ir reikalavimais, kuriuos nustato sveikatos apsaugos ministras.
+
+
+
+
+11. Audinių, ląstelių, organų paskirstymas (toliau – paskirstymas) – donorų audinių, ląstelių, organų, skirtų naudoti žmonėms, transportavimas ir pristatymas į paskirtą asmens sveikatos priežiūros įstaigą.
+
+
+
+
+12. Audinių, ląstelių, organų šalinimas (toliau – šalinimas) – transplantuoti nepanaudotų (arba dėl atmetimo reakcijos neprigijusių) audinių, ląstelių, organų sunaikinimas.
+
+
+
+
+13. Audinių, ląstelių, organų transplantacija (toliau – transplantacija) – donorų audinių, ląstelių, organų persodinimas recipientams gydymo tikslu.
+
+
+
+
+14. Donoras – gyvas žmogus, atiduodantis transplantuoti audinius, ląsteles, organus, arba miręs žmogus, iš kurio jie imami.
+
+
+
+
+15. Donorystės ir transplantacijos procesas – procesas, kuriuo siekiama užtikrinti tinkamą žmogaus audinių, ląstelių, organų paėmimą ir persodinimą žmogui ir kurį sudaro tarpusavyje susiję donorystės, paėmimo, ištyrimo, apdorojimo, konservavimo, laikymo, parinkimo, paskirstymo ir transplantacijos etapai.
+
+
+
+
+16. Donoro charakteristika – svarbių duomenų apie donoro savybes rinkinys, reikalingas tinkamumui būti donoru įvertinti siekiant atlikti tinkamą rizikos vertinimą, sumažinti riziką recipientui ir optimizuoti audinių, ląstelių, organų paskirstymą.
+
+
+
+
+17. Ląstelė – pagrindinis gyvo žmogaus organizmo struktūrinis elementas, nesujungtas jokiu jungiamuoju audiniu.
+
+
+
+
+18. Organas – gana autonomiška žmogaus kūno dalis, sudaryta iš skirtingų audinių, turinti savo struktūrą, kraujagyslių sistemą, atliekanti fiziologines funkcijas. Organu taip pat vadinama organo dalis, jeigu ji atlieka viso organo funkciją ir atitinka jo struktūrą ir kraujagyslių sistemą.
+
+
+
+
+19. Organo charakteristika – svarbios informacijos apie reikiamas donoro organo savybes rinkinys, reikalingas tinkamumui transplantuoti įvertinti siekiant atlikti tinkamą rizikos vertinimą, sumažinti riziką recipientui ir optimizuoti organų parinkimą.
+
+
+
+
+20. Pavojinga nepageidaujama reakcija – nenumatytas gyvo donoro arba recipiento organizmo atsakas, įskaitant užkrečiamąsias ligas, susijęs su audinių, ląstelių, organų paėmimu arba naudojimu žmogui, kai šis atsakas sukelia pavojų gyvybei, neįgalumą, darbingumo praradimą, mirtį, lemia arba pailgina ligos ar hospitalizavimo trukmę.
+
+
+
+
+21. Pavojingas nepageidaujamas reiškinys – bet koks nenumatytas nepalankus reiškinys, susijęs su audinių, ląstelių, organų paėmimu, ištyrimu, apdorojimu, laikymu, parinkimu, paskirstymu ir transplantacija, kuris gali sukelti užkrečiamąją ligą, pavojų gyvybei, neįgalumą, darbingumo praradimą, mirtį, lemti arba pailginti ligos ar hospitalizavimo trukmę.
+
+
+
+
+22. Porinė donorystė – dviejų porų pasikeitimas donoriniais organais, kai vienos tarpusavyje nesuderinamos poros, susijusios santuokiniu ar artimos giminystės ryšiu, donoro organas tinka kitos tarpusavyje nesuderinamos poros, susijusios santuokiniu ar artimos giminystės ryšiu, recipientui, o antrosios poros donoro organas tinka pirmosios poros recipientui.
+
+
+
+
+23. Recipientas – pacientas, kuriam reikia transplantuoti audinį (audinius), ląsteles ar organą (organus) ir kuris teisės aktų nustatyta tvarka užregistruotas Žmogaus audinių, ląstelių ir organų donorų bei recipientų registre.
+
+
+
+
+24. Regeneruojantis audinys – gyvo žmogaus audinys, kuris, jį sužeidus ar dalį jo paėmus, savaime atsinaujina.
+
+
+
+
+25. Užsienio subjektas – užsienio valstybėje pagal jos teisės aktus registruotas ir veiklą su žmogaus audiniais, ląstelėmis, organais vykdantis juridinis asmuo ar jo padalinys.
  
 
 
-
-
-5 straipsnis. Donoro, recipiento duomenų konfidencialumas
-
-
-Informacija apie donoro ir recipiento sveikatos būklę, taip pat visa kita asmeninio pobūdžio informacija, tarp jų ir duomenys apie asmenų tapatybę, yra konfidenciali ir suteikiama tik Pacientų teisių ir žalos sveikatai atlyginimo įstatymo  ir kitų teisės aktų nustatyta tvarka.
- 
-
-
-
-
-
-
-51 straipsnis. Pranešimas apie nepageidaujamus reiškinius ir reakcijas
-
-
-Asmens sveikatos priežiūros įstaigos Sveikatos apsaugos ministerijos nustatyta tvarka privalo registruoti, tirti ir pranešti Nacionaliniam transplantacijos biurui apie kiekvieną nepageidaujamą reiškinį ir (ar) reakciją.
-
-
-Papildyta straipsniu:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
- 
 
 
 
@@ -277,40 +197,14 @@ Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA
 
 
 II SKYRIUS
-TRANSPLANTACIJA IŠ MIRUSIO ŽMOGAUS
+ŽMOGAUS AUDINIŲ, LĄSTELIŲ, ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS  PROCESO PRINCIPAI, ĮGYVENDINIMO TVARKA
  
 
 
-6 straipsnis. Mirties konstatavimas
+3 straipsnis. Žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso principai
 
 
-Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo ir kritinių būklių įstatymas, kiti teisės aktai.
- 
-
-
-
-
-
-
-7 straipsnis. Asmens teisė sutikti ir atsisakyti, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai 
-
-
-1. Kiekvienas veiksnus asmuo, ne jaunesnis kaip 18 metų, turi teisę pareikšti apie sutikimą ar nesutikimą, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai. Apie savo sutikimą ar nesutikimą asmuo turi pareikšti raštu sveikatos priežiūros įstaigai Sveikatos apsaugos ministerijos nustatyta tvarka. 
-
-
-
-
-2. Sveikatos priežiūros įstaiga, gavusi asmens raštišką sutikimą ar nesutikimą, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai, privalo tai registruoti Sveikatos apsaugos ministerijos nustatyta tvarka ir nedelsdama perduoti duomenis Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrui. Asmuo turi būti informuotas, kad jis bet kada gali pakeisti nuomonę dėl sutikimo ar nesutikimo ir apie tai turi pranešti sveikatos priežiūros įstaigai.
-
-
-
-
-3. Asmeniui, sutikusiam, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai, sveikatos priežiūros įstaiga turi išduoti Sveikatos apsaugos ministerijos nustatyto pavyzdžio kortelę.
-
-
-
-
-4. Informacija apie asmens sutikimą ar nesutikimą, kad jo audiniai ir (ar) organai po jo mirties būtų panaudoti transplantacijai, yra konfidenciali ir saugoma Pacientų teisių ir žalos sveikatai atlyginimo įstatymo bei kitų teisės aktų nustatyta tvarka.
+Žmogaus audinių, ląstelių, organų donorystės ir transplantacijos procesas vyksta vadovaujantis savanoriškumo, neatlygintinumo, anonimiškumo, konfidencialumo, pagarbos žmogaus orumui, didesnės tikėtinos terapinės naudos už galimą riziką donoro ar recipiento sveikatai principais.
  
 
 
@@ -318,20 +212,30 @@ Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo
 
 
 
-8 straipsnis. Asmens audinių ir (ar) organų paėmimas po jo mirties transplantacijai, jeigu nėra žinoma asmens valia
+4 straipsnis. Žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso įgyvendinimo tvarka
 
 
-1. Mirus žmogui, kuris būdamas gyvas šio Įstatymo 7 straipsnio nustatyta tvarka nepareiškė savo valios, jo audinius ir (ar) organus leidžiama paimti transplantacijai, jei veiksnūs mirusiojo artimieji neprieštarauja. Artimųjų neprieštaravimas įforminamas raštu Sveikatos apsaugos ministerijos nustatyta tvarka. Mirusiojo artimųjų, ar jie neprieštarauja, kad asmens audiniai ir (ar) organai būtų paimti transplantacijai, atsiklausiama tokia pirmumo tvarka: sutuoktinis (-ė), tėvai (globėjai, įtėviai), pilnamečiai vaikai (įvaikiai), broliai (seserys). Atsiklausus šia tvarka, jeigu jie neprieštarauja, kitų artimųjų neatsiklausiama.
-
-
-
-
-2. Jeigu asmuo, būdamas gyvas, šio Įstatymo 7 straipsnyje nustatyta tvarka nepareiškė savo valios dėl audinių ir organų panaudojimo transplantacijai ir nėra kitų galimybių sužinoti jo valios, o mirusiojo artimieji yra nežinomi ir jų atsiklausti nėra galimybės, skubiu atveju sprendimą dėl tokio asmens audinių ir (ar) organų paėmimo transplantacijai gali priimti sveikatos priežiūros įstaigos konsiliumas. Konsiliumą sudaro šios sveikatos priežiūros įstaigos medicinos etikos komisijos atstovas, gydantis gydytojas, skyriaus, kuriame buvo gydomas asmuo, vedėjas ar kitas administracijos atstovas.
+1. Donoru gali būti kiekvienas veiksnus asmuo sveikatos apsaugos ministro nustatyta tvarka išreiškęs sutikimą, kad jo audiniai, ląstelės, organai būtų atiduoti transplantacijai. Regeneruojančių audinių ir ląstelių donorais gali būti nepilnamečiai asmenys šio įstatymo 6 straipsnio 5 dalyje nustatyta tvarka.
 
 
 
 
-3. Priimant sprendimą dėl asmens audinių ar organų paėmimo transplantacijai, kai yra šio straipsnio 2 dalyje išvardytos sąlygos, neturi teisės dalyvauti asmenys, dėl kurios nors priežasties suinteresuoti to asmens audinių ar organų transplantacija.
+2. Kiekvienas veiksnus asmuo sveikatos apsaugos ministro nustatyta tvarka turi teisę pareikšti nesutikimą, kad jo audiniai, organai po mirties būtų atiduoti transplantacijai.
+
+
+
+
+3. Prieš duodamas sutikimą asmuo sveikatos apsaugos ministro nustatyta tvarka turi būti supažindintas su donorystės sąlygomis, tvarka ir informuotas apie galimybę bet kada pakeisti savo sprendimą atiduoti savo audinius, ląsteles, organus.
+
+
+
+
+4. Draudžiama imti audinius, ląsteles ar organus iš pilnamečio neveiksnaus ar ribotai veiksnaus donoro.
+
+
+
+
+5. Draudžiama imti gyvo nepilnamečio asmens neregeneruojančius audinius ir organus.
  
 
 
@@ -339,31 +243,242 @@ Mirties kriterijus ir konstatavimo tvarką nustato Žmogaus mirties registravimo
 
 
 
-9 straipsnis. Mirusio žmogaus audinių ir organų donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo, paskirstymo ir transplantacijos tvarka 
-Pakeistas straipsnio pavadinimas:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+5 straipsnis. Mirusio žmogaus audinių, organų donorystės ir transplantacijos proceso įgyvendinimo tvarka ir sąlygos
+
+
+1. Mirusio žmogaus audiniai, organai gali būti transplantuojami tik recipientui gydyti.
+
+
+
+
+2. Mirusio asmens, kuris būdamas gyvas neišreiškė savo valios šio įstatymo 4 straipsnio 1 ir 2 dalyse nustatyta tvarka, audinius, organus galima paimti ir atiduoti transplantacijai, jeigu jo artimieji sveikatos apsaugos ministro nustatyta tvarka sutinka su mirusio asmens audinių, organų donoryste. Be mirusiojo artimųjų sutikimo mirusio asmens audinius, organus paimti ir panaudoti transplantacijai draudžiama, išskyrus šio straipsnio 4 dalyje numatytą atvejį.
+
+
+
+
+3. Šio straipsnio 2 dalyje numatytu atveju mirusiojo artimųjų atsiklausiama tokia pirmumo tvarka: sutuoktinio, pilnamečių vaikų (įvaikių), tėvų (įtėvių), brolių (seserų). Gavus vieno iš šių asmenų sutikimą nustatyta pirmumo tvarka, kitų mirusiojo artimųjų sutikimo neklausiama. Gavus vieno iš šių asmenų nesutikimą nustatyta pirmumo tvarka, mirusio asmens audinius, organus paimti ir atiduoti transplantacijai draudžiama.
+
+
+
+
+4. Jeigu miręs asmuo būdamas gyvas šio įstatymo 4 straipsnio 1 ir 2 dalyse nustatyta tvarka nepareiškė savo valios dėl audinių, organų donorystės, neturi šio straipsnio 3 dalyje nurodytų artimųjų, sveikatos apsaugos ministro nustatyta tvarka sprendimą atiduoti mirusiojo audinius, organus transplantacijai priima asmens sveikatos priežiūros įstaigos gydytojų konsiliumas praėjus 6 valandoms po šio asmens mirties fakto nustatymo. Gydytojų konsiliumą sudaro šios asmens sveikatos priežiūros įstaigos medicinos etikos komisijos atstovas, mirusį asmenį gydęs gydytojas, skyriaus, kuriame buvo gydomas asmuo, vedėjas ar kitas administracijos atstovas.
+
+
+
+
+5. Priimant sprendimą mirusio asmens audinius, organus paimti ir atiduoti transplantacijai, kai yra tenkinamos šio straipsnio 4 dalyje išvardytos sąlygos, neturi teisės dalyvauti asmenys, dėl kurios nors priežasties suinteresuoti to asmens audinių, organų transplantacija.
+
+
+
+
+6. Mirties momento ir fakto nustatymo tvarka nustatyta Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatyme, kituose teisės aktuose.
+
+
+
+
+7. Prieš paimant mirusio asmens audinius, organus transplantacijai, turi būti surinkta donoro ir jo organų charakteristikoms sudaryti reikalinga informacija sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+8. Žmogaus audinių, ląstelių ir organų donorų bei recipientų registre kaip mirusio donoro audinių, organų recipientai registruojami tik asmenys, apdrausti privalomuoju sveikatos draudimu, ir asmenys, kuriems turi būti taikomas šis įstatymas vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais.
+
+
+
+
+9. Mirusio žmogaus audinių, organų donorystės ir transplantacijos proceso įgyvendinimo asmens sveikatos priežiūros įstaigose tvarką nustato sveikatos apsaugos ministras.
  
 
 
-1. Mirusio žmogaus audinių ir organų donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo, paskirstymo ir transplantacijos sąlygas bei tvarką sveikatos priežiūros įstaigose nustato Sveikatos apsaugos ministerija.
-Straipsnio dalies pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+
+
+
+
+6 straipsnis. Gyvo žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso įgyvendinimo tvarka ir sąlygos
+
+
+1. Gyvo žmogaus audiniai, ląstelės, organai gali būti atiduodami transplantacijai tik recipientui gydyti.
+
+
+
+
+2. Gyvas veiksnus asmuo gali atiduoti neregeneruojančius audinius, organus transplantacijai, kai yra tenkinamos visos šios sąlygos (išskyrus amniono membranos po gimdymo, kaulinių ir raumeninių audinių donorystės atvejus):
+
+
+1) asmuo pasirašo sveikatos apsaugos ministro nustatytos formos sutikimą, kad jo neregeneruojantys audiniai, organai būtų atiduoti transplantacijai;
+
+
+
+
+2) neregeneruojantys audiniai, organai transplantuojami tik donoro sutuoktiniui ar giminystės ryšiu su donoru susijusiam recipientui arba porinės donorystės tvarka.
+
+
+
+
+
+
+3. Gyvas veiksnus asmuo gali atiduoti neregeneruojančius audinius, organus transplantacijai porinės donorystės atveju, kai yra tenkinamos visos šios sąlygos:
+
+
+1) asmuo pasirašo sveikatos apsaugos ministro nustatytos formos sutikimą, kad jo neregeneruojantys audiniai, organai būtų atiduoti transplantacijai;
+
+
+
+
+2) tarpusavyje nesuderinama pora yra sutuoktiniai arba juos sieja artimos giminystės ryšys;
+
+
+
+
+3) vienos tarpusavyje nesuderinamos poros donoro audinys, organas tinka kitos tarpusavyje nesuderinamos poros recipientui ir analogiškai antrosios tarpusavyje nesuderinamos poros donoro audinys, organas tinka pirmosios poros recipientui.
+
+
+
+
+
+
+4. Gyvo veiksnaus asmens amniono membraną po gimdymo, kaulinius ir raumeninius audinius galima paimti ir atiduoti transplantacijai, kai yra tenkinamos visos šios sąlygos:
+
+
+1) asmuo pasirašo sveikatos apsaugos ministro nustatytos formos sutikimą atiduoti šiuos audinius transplantacijai;
+
+
+
+
+2) audiniai paimami šio straipsnio 9 dalyje nustatyta tvarka.
+
+
+
+
+
+
+5. Gyvo nepilnamečio asmens regeneruojančius audinius ir ląsteles galima paimti ir atiduoti transplantacijai, kai yra tenkinamos visos šios sąlygos:
+
+
+1) nėra tinkamo suaugusio regeneruojančių audinių ir ląstelių donoro;
+
+
+
+
+2) nepilnamečio asmens (išskyrus asmenis, kurie dar iki 18 metų yra įgiję visišką veiksnumą) tėvai (įtėviai) arba globėjai, rūpintojai, iki asmeniui sukaks 18 metų, pasirašo sutikimą atiduoti donorystei ir transplantacijai nepilnamečio asmens regeneruojančius audinius ir ląsteles;
+
+
+
+
+3) vyresnis kaip 14 metų nepilnametis asmuo pasirašo sutikimą, kad jo regeneruojantys audiniai ir ląstelės būtų atiduoti transplantacijai;
+
+
+
+
+4) audiniai ir ląstelės transplantuojami donoro artimajam giminaičiui gydyti.
+
+
+
+
+
+
+6. Gyvas veiksnus asmuo regeneruojančius audinius ir ląsteles gali atiduoti transplantacijai tik pasirašęs sutikimą šio straipsnio 9 dalyje nustatyta tvarka.
+
+
+
+
+7. Gyvas donoras (jeigu gyvas donoras yra nepilnametis, – ir jo tėvai (įtėviai) arba globėjai, rūpintojai, iki asmeniui sukaks 18 metų) turi būti informuotas apie galimas jo audinių, ląstelių, organų paėmimo pasekmes sveikatai. Sąlygas, kada draudžiama paimti gyvo asmens audinius, ląsteles, organus, nustato sveikatos apsaugos ministras.
+
+
+
+
+8. Prieš paimant gyvo asmens audinius, ląsteles, organus transplantacijai, turi būti surinkta donoro ir jo organų charakteristikoms parengti reikalinga informacija, nustatyta sveikatos apsaugos ministro patvirtintame Gyvo žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso įgyvendinimo tvarkos apraše.
+
+
+
+
+9. Gyvo žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso vykdymo asmens sveikatos priežiūros įstaigose tvarką nustato sveikatos apsaugos ministras.
  
 
 
 
 
-2. Draudžiama imti audinius ir organus žmogaus, kuris būdamas gyvas raštu pareiškė nesutikimą, kad po mirties jo audiniai ir organai būtų panaudoti transplantacijai.
+
+
+7 straipsnis. Žmogaus audinių, ląstelių ir organų donorų bei recipientų registras
+
+
+1. Žmogaus audinių, ląstelių ir organų donorų bei recipientų registras (toliau – registras) yra valstybės registras, kurį steigia ir kurio nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 
 
 
-3. Jei asmuo būdamas gyvas pareiškė sutikimą, kad jo audiniai bei organai būtų panaudoti transplantacijai, jo artimųjų nėra atsiklausiama dėl organų paėmimo transplantacijai.
+2. Registro objektai yra šie:
+
+
+1) asmenys, pareiškę sutikimą (nesutikimą), kad jų audiniai, organai po jų mirties būtų atiduoti transplantacijai;
 
 
 
 
-4. Gydytojas, konstatavęs asmens mirties faktą arba dalyvavęs konsiliume, priėmusiame sprendimą leisti transplantuoti asmens audinius ir organus, neturi teisės dalyvauti šio asmens audinius ir organus transplantuojant.
+2) gyvi donorai;
+
+
+
+
+3) mirę donorai;
+
+
+
+
+4) recipientai;
+
+
+
+
+5) audinių, ląstelių, organų paėmimo, transplantacijos, šalinimo atvejai.
+
+
+
+
+
+
+3. Registro objektai registruojami Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro nuostatuose (toliau – Registro nuostatai) nustatyta tvarka.
+
+
+
+
+4. Registro valdytoja yra Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija).
+
+
+
+
+5. Registro tvarkytojas yra Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos.
+
+
+
+
+6. Registro duomenų teikėjai ir gavėjai yra Registro nuostatuose nurodyti subjektai, registro tvarkytojui teikiantys ir iš jo gaunantys teisės aktuose nustatytus duomenis, informaciją ir dokumentus Registro nuostatuose nustatyta tvarka.
+
+
+
+
+7. Registro duomenų teikėjų ir gavėjų teisės ir pareigos reglamentuotos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Registro nuostatuose ir kituose teisės aktuose.
+
+
+
+
+8. Teikėjai privalo užtikrinti, kad jų teikiami duomenys, informacija ir dokumentai būtų tinkamai surašyti, pateikti laiku ir atitiktų susijusių registrų duomenis.
+
+
+
+
+9. Registre saugomi duomenys yra konfidencialūs ir teikiami Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme ir kituose teisės aktuose nustatyta tvarka.
+
+
+
+
+10. Registro duomenų konfidencialumą užtikrina visi fiziniai ir juridiniai asmenys, kurie naudojasi šio registro duomenimis.
+
+
+
+
+11. Turi būti užtikrintas registre tvarkomų duomenų atsekamumas.
  
 
 
@@ -374,67 +489,116 @@ Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA
 
 
 III SKYRIUS
-TRANSPLANTACIJA IŠ GYVO DONORO
+ŽMOGAUS AUDINIŲ, LĄSTELIŲ, ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS PROCESO VALSTYBINIS VALDYMAS
  
 
 
-10 straipsnis. Transplantavimo iš gyvo donoro tvarka 
+8 straipsnis. Žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso valstybinio valdymo subjektų kompetencija
 
 
-1. Transplantacijai audiniai, ląstelės ir organai gali būti imami iš gyvo asmens tik recipientui gydyti ir kai nėra mirusio asmens tinkamų audinių, ląstelių ar organo bei kitų efektyvių gydymo alternatyvų. 
-
-
-
-
-2. Imti audinius, ląsteles bei organus iš gyvo veiksnaus donoro leidžiama tik gavus jo raštišką sutikimą. Donoras turi teisę atšaukti savo sutikimą.
+1. Sveikatos apsaugos ministerija formuoja valstybės politiką žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso srityje, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą.
 
 
 
 
-3. Sutikimo formą nustato Sveikatos apsaugos ministerija.
+2. Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos šiame ir kituose įstatymuose bei teisės aktuose nustatyta tvarka įgyvendina valstybės politiką žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso srityje ir prižiūri, kaip formuojama ir įgyvendinama ši politika.
 
 
 
 
-4. Imti audinius, ląsteles  ar organus iš pilnamečio neveiksnaus ar ribotai veiksnaus donoro draudžiama.
+3. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos teisės aktų nustatyta tvarka licencijuoja įstaigas, ketinančias teikti žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso paslaugas, ir vykdo licencijos sąlygų laikymosi priežiūrą.
 
 
 
 
-5. Neregeneruojančias kūno dalis leidžiama imti tik iš suaugusio giminaičio arba sutuoktinio. 
-Straipsnio dalies pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+4. Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos teisės aktų nustatyta tvarka vykdo išlaidų už suteiktas žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso paslaugas kompensavimą ir priežiūrą.
  
 
 
 
 
-6. Regeneruojančius audinius ir ląsteles leidžiama imti iš nepilnamečių tik esant jų tėvų arba globėjų bei savivaldybės vaikų teisių apsaugos tarnybos rašytiniams sutikimams ir jeigu šie audiniai skirti transplantuoti donoro giminaičiui. 
-Straipsnio dalies pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+
+
+9 straipsnis. Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos
+
+
+Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos:
+
+
+1) koordinuoja ir organizuoja žmogaus audinių, ląstelių, organų donorystės ir transplantacijos procesą nuo paėmimo iki paskirstymo;
+
+
+
+
+2) Lietuvos Respublikos viešojo administravimo įstatyme (toliau – Viešojo administravimo įstatymas) nustatyta tvarka atlieka asmens sveikatos priežiūros įstaigų, teikiančių donorystės ir transplantacijos proceso paslaugas, veiklos priežiūrą;
+
+
+
+
+3) formuoja teigiamą visuomenės požiūrį į donorystę;
+
+
+
+
+4) įgyvendina registro tvarkytojo funkcijas teisės aktų nustatyta tvarka;
+
+
+
+
+5) atlieka kitas jam pavestas funkcijas.
  
 
 
 
 
-7. Regeneruojančius audinius ir ląsteles iš vyresnio kaip 14 metų nepilnamečio asmens leidžiama imti laikantis šio straipsnio 6 dalies reikalavimų ir tik gavus šio asmens raštišką sutikimą.
 
 
 
 
-8. Prieš paimant audinius, ląsteles bei organus turi būti patikrinta donoro ir recipiento sveikata Sveikatos apsaugos ministerijos nustatyta tvarka.
+10 straipsnis. Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos pareigūnų teisės ir pareigos
+
+
+1. Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos pareigūnai, atlikdami asmens sveikatos priežiūros įstaigų, teikiančių žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso paslaugas, veiklos priežiūrą, vadovaujasi Viešojo administravimo įstatymu ir turi teisę:
+
+
+1) pateikę tarnybinį pažymėjimą ir Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos vadovo ar jo įgalioto asmens išduotą pavedimą, įeiti į asmens sveikatos priežiūros įstaigų, kurių atžvilgiu atliekami veiklos priežiūros veiksmai, patalpas;
 
 
 
 
-9. Donoras turi būti suprantamai informuojamas apie galimas audinių, ląstelių ir organų donorystės pasekmes sveikatai. Iš asmens draudžiama imti audinių, ląstelių ar organų, jeigu tai labai pablogintų jo sveikatą ar sukeltų grėsmę gyvybei. 
+2) reikalauti parodyti, laikinai iki 30 dienų paimti patikrinimui atlikti reikalingus dokumentus ir gauti padarytas jų kopijas, gauti kitą veiklos priežiūros veiksmams atlikti reikalingą informaciją iš asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama;
 
 
 
 
-10. Gyvo žmogaus audinių, ląstelių ir organų donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo, paskirstymo ir transplantacijos sąlygas bei tvarką sveikatos priežiūros įstaigose nustato Sveikatos apsaugos ministerija.
-Straipsnio dalies pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+3) kviesti sveikatos priežiūros specialistus ir kitus specialistus dalyvauti atliekant veiklos priežiūros veiksmus;
+
+
+
+
+4) duoti asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama, įgaliotiems asmenims privalomus vykdyti nurodymus, kad būtų užtikrintas įstatymų ir kitų teisės aktų, reglamentuojančių žmogaus audinių, ląstelių, organų donorystę, paėmimą, ištyrimą, apdorojimą, konservavimą, laikymą, paskirstymą ir transplantaciją, tinkamas įgyvendinimas, reikalauti iš asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama, įgaliotų asmenų pašalinti aplinkybes ir sąlygas, trukdančias atlikti veiklos priežiūros veiksmus, įspėti asmens sveikatos priežiūros įstaigų, kurių veiklos priežiūra yra atliekama, įgaliotus asmenis dėl nustatytų trūkumų bei pažeidimų ir nustatyti jų pašalinimo terminus iki 60 dienų;
+
+
+
+
+5) teisės aktų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus;
+
+
+
+
+6) naudotis kitomis įstatymų ir kitų teisės aktų nustatytomis teisėmis.
+
+
+
+
+
+
+2. Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos pareigūnai, atlikdami asmens sveikatos priežiūros įstaigų, teikiančių donorystės ir transplantacijos proceso paslaugas, veiklos priežiūros veiksmus ir gavę informacijos apie daromą ar padarytą nusikalstamą veiką ar kitą teisės pažeidimą, privalo apie tai informuoti teisėsaugos ir kitas kompetentingas institucijas.
+
+
+
+
+3. Sveikatos apsaugos ministras nustato Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos atliekamų veiklos priežiūros veiksmų tvarką.
  
 
 
@@ -445,22 +609,60 @@ Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA
 
 
 IV SKYRIUS
-KOMERCINIŲ SANDORIŲ UŽDRAUDIMAS
+ŽMOGAUS AUDINIŲ, LĄSTELIŲ, ORGANŲ DONORYSTĖS IR TRANSPLANTACIJOS PASLAUGŲ  IR (AR) AUDINIŲ BANKO PASLAUGŲ TEIKIMAS
  
 
 
-11 straipsnis. Komercinių sandorių neleistinumas
+11 straipsnis. Veiklos, susijusios su žmogaus audinių, ląstelių, organų donorystės ir transplantacijos paslaugų  ir (ar) audinių banko paslaugų teikimu, licencijavimas
 
 
-1. Gyvo ar mirusio žmogaus audiniai, ląstelės ir organai negali būti civilinių komercinių sandorių objektas. Taip pat draudžiama skelbti apie žmogaus audinių, ląstelių ir organų poreikį arba jų prieinamumą, siekiant finansinės arba panašios naudos. Transplantacijai skirtų audinių, ląstelių ir organų įvežimo į Lietuvos Respubliką ir išvežimo iš Lietuvos Respublikos tvarką nustato Vyriausybė ar jos įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
+1. Žmogaus audinių, ląstelių, organų donorystės ir transplantacijos paslaugas ir (ar) audinių banko paslaugas gali teikti tik juridiniai asmenys, Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme (toliau – Sveikatos priežiūros įstaigų įstatymas) nustatyta tvarka gavę asmens sveikatos priežiūros licenciją šiai veiklai.
+
+
+
+
+2. Juridiniai asmenys, siekiantys gauti asmens sveikatos priežiūros licenciją audinių banko veiklai, privalo atitikti Sveikatos priežiūros įstaigų įstatyme nustatytus reikalavimus asmens sveikatos priežiūros licencijai gauti ir šias sąlygas:
+
+
+1) juridinio asmens nuosavybės teise ar kitais teisėtais pagrindais valdomos įrengtos patalpos, įranga ir medžiagos, naudojamos atliekant audinių banko paslaugų procedūras, atitinka audinių banko paslaugų teikimo reikalavimus, nustatytus sveikatos apsaugos ministro;
+
+
+
+
+2) juridinio asmens darbuotojai, kurie tiesiogiai dalyvauja teikiant audinių banko paslaugas, turi sveikatos apsaugos ministro nustatytą kvalifikaciją ir yra išklausę mokymo kursus, kurių programas ir išklausytų kursų pripažinimo tvarką nustato sveikatos apsaugos ministras;
+
+
+
+
+3) žmogaus audinių, ląstelių paėmimo, apdorojimo, konservavimo, laikymo ir paskirstymo organizavimas ir valdymas atitinka audinių banko paslaugų teikimo reikalavimus, nustatytus sveikatos apsaugos ministro;
+
+
+
+
+4) įdiegta žmogaus audinių, ląstelių paėmimo, apdorojimo, konservavimo, laikymo ir paskirstymo sistema užtikrina atsekamumą.
+
+
+
+
+
+
+3. Žmogaus audinių, ląstelių, organų donorystės ir transplantacijos paslaugų ir (ar) audinių banko paslaugų asmens sveikatos priežiūros licencijos galiojimo sustabdymas, licencijos galiojimo sustabdymo panaikinimas, licencijos galiojimo panaikinimo pagrindai ir terminai nustatyti Sveikatos priežiūros įstaigų įstatyme.
+
+
+
+
+4. Juridinių asmenų, siekiančių gauti asmens sveikatos priežiūros licenciją žmogaus audinių, ląstelių, organų donorystės ir transplantacijos paslaugoms teikti, darbuotojai, tiesiogiai dalyvaujantys donorystės ir transplantacijos procese, turi turėti sveikatos apsaugos ministro nustatytą kvalifikaciją ir turi būti išklausę mokymo kursus, kurių programas ir išklausytų kursų pripažinimo tvarką nustato sveikatos apsaugos ministras.
  
 
 
 
 
-2. Sveikatos priežiūros įstaigų išlaidos dėl žmogaus audinių, ląstelių ir organų paėmimo, paruošimo ir transportavimo apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto ar valstybės biudžeto lėšų teisės aktų nustatyta tvarka. Transplantacijai skirtų žmogaus audinių, ląstelių ir organų, kurie bus įvežami į Lietuvos Respubliką ar iš jos išvežami, paruošimo ir transportavimo išlaidos apmokamos Sveikatos apsaugos ministerijos nustatyta tvarka.
+
+
+12 straipsnis. Pranešimas apie pavojingus nepageidaujamus reiškinius ir pavojingas nepageidaujamas reakcijas
+
+
+Asmens sveikatos priežiūros įstaigos, teikiančios žmogaus audinių, ląstelių, organų donorystės ir transplantacijos paslaugas ir (ar) audinių banko paslaugas, sveikatos apsaugos ministro nustatyta tvarka privalo registruoti, tirti ir pranešti Nacionaliniam transplantacijos biurui prie Sveikatos apsaugos ministerijos apie kiekvieną pavojingą nepageidaujamą reiškinį ir pavojingą nepageidaujamą reakciją.
  
 
 
@@ -471,14 +673,84 @@ Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA
 
 
 V SKYRIUS
+KOMERCINIŲ SANDORIŲ UŽDRAUDIMAS
+ 
+
+
+13 straipsnis. Komercinių sandorių uždraudimas
+
+
+Gyvo ar mirusio žmogaus audiniai, ląstelės, organai negali būti komercinių sandorių objektas. Taip pat draudžiama skelbti apie žmogaus audinių, ląstelių, organų poreikį arba jų prieinamumą, siekiant finansinės arba panašios naudos.
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS
+ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ IŠLAIDŲ KOMPENSAVIMAS
+ 
+
+
+14 straipsnis. Išlaidų kompensavimo tvarka
+
+
+Asmens sveikatos priežiūros įstaigų išlaidos už suteiktas žmogaus audinių, ląstelių, organų donorystės ir transplantacijos proceso paslaugas kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto arba valstybės biudžeto lėšų teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+VII SKYRIUS
+TRANSPLANTACIJAI SKIRTŲ ŽMOGAUS AUDINIŲ, LĄSTELIŲ, ORGANŲ ĮVEŽIMAS  IR IŠVEŽIMAS BEI MAINAI SU UŽSIENIO SUBJEKTAIS
+ 
+
+
+15 straipsnis. Transplantacijai skirtų žmogaus audinių, ląstelių, organų įvežimas ir išvežimas bei mainai su  užsienio subjektais
+
+
+1. Transplantacijai skirtų žmogaus organų įvežimas ir išvežimas vykdomas su užsienio subjektais sudarytų sutarčių ir susitarimų, kurie sudaromi šio straipsnio 4 dalyje nustatyta tvarka, pagrindu.
+
+
+
+
+2. Transplantacijai skirtų žmogaus audinių, ląstelių įvežimas ir išvežimas vykdomas su užsienio subjektais sudarytų sutarčių ir susitarimų, kurie sudaromi šio straipsnio 4 dalyje nustatyta tvarka, pagrindu, išskyrus tam tikrų žmogaus audinių, ląstelių skubaus poreikio tiesiogiai paskirstant recipientams atvejus, kai leidimus įvežti ir išvežti tokius žmogaus audinius, ląsteles tiesiogiai išduoda Nacionalinis transplantacijos biuras prie Sveikatos apsaugos ministerijos. Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos leidimų išdavimo tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+3. Transplantacijai skirtus žmogaus audinius, ląsteles, organus galima įvežti į Lietuvos Respubliką, jeigu juos teikiančio užsienio subjekto kokybės ir saugumo reikalavimai, keliami žmogaus audiniams, ląstelėms, organams įvežti, atitinka galiojančių Europos Sąjungos valstybių narių bei Lietuvos Respublikos teisės aktų reikalavimus ir jeigu garantuojamas įvežamų audinių, ląstelių, organų atsekamumas.
+
+
+
+
+4. Transplantacijai skirtų žmogaus audinių, ląstelių, organų įvežimo ir išvežimo bei leidimų skubaus poreikio tiesiogiai paskirstant recipientams atveju išdavimo tvarką nustato sveikatos apsaugos ministras.
+ 
+
+
+
+
+
+
+
+
+VIII SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-12 straipsnis. Atsakomybė
+16 straipsnis. Atsakomybė
 
 
-Asmenys, pažeidę šio Įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+ 
 
 
 
@@ -503,20 +775,23 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 Lietuvos Respublikos
-žmogaus audinių, ląstelių ir organų donorystės
-ir transplantacijos įstatymo
+žmogaus audinių, ląstelių, organų
+donorystės ir transplantacijos
+įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 L 102, p. 48-58). 
+1. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 L 102, p. 48–58).
 
 
-Papildyta priedu:
-Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
- 
+
+
+2. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/53/ES dėl transplantacijai skirtų žmogaus organų kokybės ir saugos standartų nustatymo (OL 2010 L 207, p. 14).
+
+
  
  
 Pakeitimai:
@@ -540,3 +815,8 @@ Lietuvos Respublikos žmogaus audinių ir organų donorystės ir transplantacijo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-867, 2006-10-19, Žin., 2006, Nr. 119-4545 (2006-11-07), i. k. 1061010ISTA000X-867
 Lietuvos Respublikos žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymo 1, 2, 3, 4, 9, 10, 11 straipsnių pakeitimo ir įstatymo papildymo 21, 51 straipsniais ir priedu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-593, 2013-11-14, Žin., 2013, Nr. 120-6057 (2013-11-23), i. k. 1131010ISTA0XII-593
+Lietuvos Respublikos žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymo pakeitimo įstatymas
