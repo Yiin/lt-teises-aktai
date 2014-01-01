@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2008-11-15 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-03-19
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
  
@@ -472,7 +472,9 @@ VTEK:
 
 
 
-11) informuoja visuomenę apie savo veiklą VTEK interneto tinklalapyje. VTEK sprendimai ir rezoliucijos gali būti skelbiami leidinyje „Valstybės žinios“ ir kituose informacinio pobūdžio leidiniuose.
+11) informuoja visuomenę apie savo veiklą VTEK interneto svetainėje. VTEK sprendimai ir rezoliucijos gali būti skelbiami informacinio pobūdžio leidiniuose.
+Straipsnio punkto pakeitimai:
+Nr. XI-2357, 2012-11-06, Žin., 2012, Nr. 132-6685 (2012-11-15), i. k. 1121010ISTA0XI-2357
  
 
 
@@ -586,7 +588,9 @@ VTEK:
 
 
 
-2. VTEK veiklos ataskaita paskelbiama VTEK interneto tinklalapyje.
+2. VTEK veiklos ataskaita paskelbiama VTEK interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2357, 2012-11-06, Žin., 2012, Nr. 132-6685 (2012-11-15), i. k. 1121010ISTA0XI-2357
  
 
 
@@ -1013,3 +1017,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1777, 2008-11-06, Žin., 2008, Nr. 131-5027 (2008-11-15), i. k. 1081010ISTA00X-1777
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2357, 2012-11-06, Žin., 2012, Nr. 132-6685 (2012-11-15), i. k. 1121010ISTA0XI-2357
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 19 straipsnių pakeitimo įstatymas
