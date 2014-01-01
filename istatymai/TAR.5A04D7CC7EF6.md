@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
  
@@ -57,12 +57,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Bibliotekų veikla – dokumentų kaupimas, tvarkymas, sisteminimas ir saugojimas, galimybės naudotis viešaisiais informacijos šaltiniais užtikrinimas, neatsižvelgiant į jų autorių ar juose užfiksuotų žinių politinę ar ideologinę orientaciją; fizinių ir juridinių asmenų lygių teisių naudotis teisės aktų nustatyta tvarka teikiamomis nemokamomis paslaugomis užtikrinimas teikiant visuomenės švietimui, moksliniams tyrimams bei asmenybės ugdymui reikalingą informaciją ir paslaugas. 
+3. Bibliotekų veikla – dokumentų kaupimas, tvarkymas, sisteminimas, saugojimas, skaitmeninimas, panauda ir viešinimas, bibliografavimas, kultūrinių ir edukacinių programų organizavimas ir kultūros plėtra, galimybės naudotis viešaisiais informacijos šaltiniais, nepaisant informacijos pateikimo būdo, formos ir laikmenos, neatsižvelgiant į autorių ar užfiksuotų žinių politinę ar ideologinę orientaciją, užtikrinimas; fizinių ir juridinių asmenų lygių teisių naudotis teisės aktų nustatyta tvarka teikiamomis nemokamomis visuomenės švietimui, sociokultūrinei edukacijai, moksliniams tyrimams bei asmenybės ugdymui reikalingomis paslaugomis ir informacija užtikrinimas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-4. Dokumentas – naudojama ir saugojama laikmena su joje įrašyta informacija: knyga, periodinis leidinys, rankraštis, natos, mikroformos, garsinis ir (arba) regimasis, kartografinis, vaizdinis, elektroninis, aklųjų (Brailio) raštu išspausdintas ar kitu būdu pateikiantis informaciją dokumentas.
+4. Dokumentas – bet kokiu būdu, forma ir laikmena pateikta saugoma ir naudojama informacija, įskaitant pritaikytą skaityti elektroninėmis priemonėmis: knyga, periodinis leidinys, rankraštis, natos, mikrokopijos, garsinis, regimasis, mišrus (garsinis regimasis), kartografinis, vaizdinis, elektroninis, skaitmeninis, aklųjų (Brailio) raštu išspausdintas ar kitu būdu informaciją pateikiantis dokumentas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -82,7 +88,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Viešoji biblioteka – visiems vartotojams prieinama biblioteka, kaupianti ir sauganti universalų teritorijos (apskrities, savivaldybės), kurioje ji yra, bendruomenės poreikius tenkinantį dokumentų fondą.
+8. Viešoji biblioteka – visiems vartotojams prieinama biblioteka, kaupianti ir sauganti universalų teritorijos (apskrities, savivaldybės), kurioje ji yra, bendruomenės poreikius tenkinantį dokumentų fondą, teikianti gyventojams informacijos ir viešosios interneto prieigos paslaugas, vykdanti kraštotyros, sociokultūrinės edukacijos, skaitymo skatinimo, informacinio raštingumo ir kitas su bibliotekų veikla susijusias neformaliojo švietimo programas ir projektus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
 
 
@@ -105,10 +113,25 @@ BIBLIOTEKŲ VEIKLOS REGLAMENTAVIMAS, VALSTYBINIS VALDYMAS IR FINANSAVIMAS
 
 
 
-2. Kai biblioteka steigiama, pertvarkoma ar pabaigiama arba steigiamas ar uždaromas jos filialas, bibliotekos steigėjas ar jos valdymo organas informuoja Kultūros ministeriją.
+2. Apie šio įstatymo 7 straipsnio 1 dalies 3 punkte ir 3 dalies 2, 3, 4 ir 5 punktuose nurodytų bibliotekų steigimą, pertvarkymą ir pasibaigimą, filialo ar struktūrinio teritorinio padalinio steigimą arba veiklos nutraukimą bibliotekos savininko teises ir pareigas įgyvendinanti arba valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), turtines ir neturtines teises įgyvendinanti institucija ar jos valdymo organas informuoja Lietuvos Respublikos kultūros ministeriją (toliau – Kultūros ministerija). 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
 
 
+
+
+
+
+31 straipsnis. Autorių teisių ir gretutinių teisių apsauga
+
+
+Vadovaudamosi Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymu ir kitais teisės aktais, bibliotekos autorių teisių saugomus elektroninius, skaitmeninius dokumentus naudoja gavusios autorių teisių subjektų sutikimą, išskyrus Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme numatytas išimtis. 
+
+
+Papildyta straipsniu:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -124,12 +147,18 @@ Kultūros ministerija atlieka bibliotekų valstybinio valdymo institucijos funkc
 
 
 
-2) steigia, finansuoja, kontroliuoja, pertvarko ir pabaigia Kultūros ministerijos įsteigtas bibliotekas;
+2) vykdo bibliotekų, kurių savininko teises ir pareigas įgyvendina Kultūros ministerija, viešųjų paslaugų teikimo administravimą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-3) konkurso būdu skiria bibliotekos, kurios steigėja yra Kultūros ministerija, vadovą ir jį atleidžia;
+3) Neteko galios nuo 2014-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-752, 2013-12-23, Žin. 2013, Nr. 141-7113 (2013-12-31) ; paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -167,7 +196,10 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 
 
 
-10) kontroliuoja, kaip laikomasi šio įstatymo ir kitų bibliotekų veiklą reglamentuojančių teisės aktų;
+10) kontroliuoja šio įstatymo ir kitų įstatymų, reglamentuojančių bibliotekų veiklą, administracinių aktų ir sprendimų įgyvendinimą (pavaldžių bibliotekų kontrolė, nepavaldžių bibliotekų priežiūra); 
+Straipsnio punkto pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -211,45 +243,70 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 6 straipsnis. Bibliotekų finansavimas ir lėšos
 
 
-1. Nacionalinei bibliotekai ir valstybinės reikšmės bibliotekoms išlaikyti skiriami asignavimai. Jie Lietuvos valstybės biudžete nurodomi atskira eilute.
+1. Nacionalinei bibliotekai išlaikyti skiriami valstybės biudžeto asignavimai. Jie nurodomi atskira eilute.
 
 
 
 
-2. Apskričių viešosios bibliotekos finansuojamos iš valstybės biudžeto. 
+2. Valstybinės reikšmės bibliotekos ir apskričių viešosios bibliotekos finansuojamos iš valstybės biudžeto.
 
 
 
 
-3. Savivaldybių viešosios bibliotekos finansuojamos iš savivaldybių biudžetų. 
+3. Savivaldybių viešosios bibliotekos finansuojamos iš savivaldybių biudžetų.
 
 
 
 
-4. Lėšos dokumentams įsigyti apskričių ir savivaldybių viešosioms bibliotekoms skiriamos iš valstybės biudžeto ir savivaldybių biudžetų.
+4. Lėšos dokumentams, išskyrus periodinių leidinių prenumeratą, įsigyti savivaldybių viešosioms bibliotekoms skiriamos iš valstybės biudžeto ir savivaldybių biudžetų. Savivaldybių viešųjų bibliotekų periodinių leidinių prenumerata finansuojama iš savivaldybių biudžetų.
 
 
 
 
-5. Mokslo ir studijų institucijoms bei mokykloms bibliotekų veiklai lėšos skiriamos iš steigėjų (ir) ar valstybės biudžeto bei savivaldybių biudžetų lėšų.
+5. Mokslo ir studijų institucijų bei mokyklų bibliotekų veiklai lėšos atitinkamai skiriamos iš savininko, dalininko, savininko teises ir pareigas arba valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), turtines ir neturtines teises įgyvendinančių institucijų arba (ir) valstybės biudžeto bei savivaldybių biudžetų lėšų.
 
 
 
 
-6. Specialiosios bei kitos bibliotekos finansuojamos iš steigėjų lėšų.
+6. Specialiosios ir kitos bibliotekos atitinkamai finansuojamos iš savininko, dalininko, savininko teises ir pareigas arba valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), turtines ir neturtines teises įgyvendinančių institucijų lėšų.
 
 
 
 
-7. Valstybinės bibliotekų plėtojimo bei mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir savivaldybių biudžetų bei rėmėjų lėšų.
+7. Valstybinės bibliotekų plėtojimo ir mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir savivaldybių biudžetų bei paramos teikėjų lėšų.
 
 
 
 
-8. Bibliotekų lėšų šaltiniai gali būti teikiamos mokamos paslaugos bei kitos teisėtais būdais įgytos lėšos.
+8. Bibliotekų lėšų šaltiniai gali būti teikiamos mokamos paslaugos ir kitos teisėtais būdais įgytos lėšos. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
 
 
+
+
+61 straipsnis. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovų skyrimas
+
+
+1. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovai į darbą priimami konkurso būdu.
+
+
+
+
+2. Lietuvos nacionalinės, apskričių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami penkerių metų kadencijai konkurso būdu. Kadencijų skaičius neribojamas.
+
+
+
+
+3. Kvalifikacinius reikalavimus šio straipsnio 1 ir 2 dalyse nurodytų bibliotekų vadovams ir konkurso šioms pareigoms eiti tvarką nustato Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota valstybės valdymo institucija. 
+
+
+Papildyta straipsniu:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -304,7 +361,10 @@ BIBLIOTEKŲ SISTEMA
 
 
 
-2. Bibliotekos, kuriose sukauptas rašto ir kultūros paveldas turi išskirtinę reikšmę mokslui, švietimui, kultūrai ir šalies ūkiui, yra valstybinės reikšmės bibliotekos. Pagal steigėjo patvirtintus nuostatus šios bibliotekos atlieka atitinkamos srities bibliotekų veiklos koordinavimo ir metodinės pagalbos funkcijas. Valstybinės reikšmės bibliotekos statusas suteikiamas ir atšaukiamas šiuo įstatymu.
+2. Bibliotekos, kuriose sukauptas rašto ir kultūros paveldas, turi išskirtinę reikšmę mokslui, švietimui, kultūrai ir šalies ūkiui, yra valstybinės reikšmės bibliotekos. Pagal savininko teises ir pareigas įgyvendinančios institucijos patvirtintus nuostatus šios bibliotekos atlieka atitinkamos srities bibliotekų veiklos koordinavimo ir metodinės pagalbos funkcijas ir vykdo kultūrinės plėtros per mokslinius tyrimus veiklą. Valstybinės reikšmės bibliotekos statusas suteikiamas ir atšaukiamas šiuo įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -350,17 +410,26 @@ BIBLIOTEKŲ SISTEMA
 
 
 
-2. Nacionalinė biblioteka yra valstybės biudžetinė įstaiga. 
+2. Nacionalinė biblioteka yra biudžetinė įstaiga. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-3. Nacionalinės bibliotekos steigėja yra Vyriausybė. Steigėjo funkcijas atlieka Kultūros ministerija. 
+3. Nacionalinės bibliotekos savininkė yra valstybė. Nacionalinę biblioteką teisės aktų nustatyta tvarka steigia Vyriausybė nutarimu, savininko teises ir pareigas įgyvendina Kultūros ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-4. Nacionalinės bibliotekos nuostatus tvirtina Vyriausybė.
+4. Nacionalinės bibliotekos nuostatus tvirtina savininko teises ir pareigas įgyvendinanti institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -444,9 +513,16 @@ BIBLIOTEKŲ SISTEMA
 
 
 16) atlieka kitas nuostatuose apibrėžtas funkcijas.
+
+
+
+
+
+
+6. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad nacionalinė biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą. 
+Papildyta straipsnio dalimi:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
-
-
 
 
 
@@ -456,7 +532,10 @@ BIBLIOTEKŲ SISTEMA
 9 straipsnis. Apskrities viešoji biblioteka
 
 
-1. Apskrities viešoji biblioteka yra biudžetinė įstaiga. Jos steigėja yra Lietuvos Respublikos kultūros ministerija (toliau – Kultūros ministerija). Kultūros ministerija nustato apskričių viešųjų bibliotekų veiklos teritoriją apskrityse (toliau – nustatyta teritorija), suderinusi su į šią teritoriją įeinančių savivaldybių tarybomis. 
+1. Apskrities viešoji biblioteka yra biudžetinė įstaiga. Jos savininkė yra valstybė, jos savininko teises ir pareigas įgyvendina Kultūros ministerija. Kultūros ministerija nustato apskričių viešųjų bibliotekų veiklos teritoriją apskrityse (toliau – nustatyta teritorija), suderinusi su šioje teritorijoje veikiančių savivaldybių tarybomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -466,17 +545,34 @@ BIBLIOTEKŲ SISTEMA
 
 
 
-3. Apskrities viešoji biblioteka kaupia ir saugo nustatytos teritorijos poreikius tenkinantį universalų dokumentų fondą, dalyvauja sudarant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
+3. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad apskrities viešoji biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą. 
+Papildyta straipsnio dalimi:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-4. Apskrities viešoji biblioteka steigėjo ir savivaldybės sutartimi gali atlikti savivaldybės viešosios bibliotekos funkcijas.
+4. Apskrities viešoji biblioteka kaupia ir saugo nustatytos teritorijos poreikius tenkinantį universalų dokumentų fondą, dalyvauja sudarant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-5. Apskrities viešoji biblioteka gali vykdyti Kultūros ministerijos nustatytas nacionalinio lygmens bibliotekų veiklos funkcijas. 
+5. Apskrities viešoji biblioteka, vadovaudamasi savininko teises ir pareigas įgyvendinančios institucijos ir savivaldybės sutartimi, gali atlikti savivaldybės viešosios bibliotekos funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
+
+
+
+
+6. Apskrities viešoji biblioteka gali vykdyti Kultūros ministerijos nustatytas nacionalinio lygmens bibliotekų veiklos funkcijas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 Straipsnio pakeitimai:
@@ -489,7 +585,10 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 10 straipsnis. Savivaldybės viešoji biblioteka
 
 
-1. Savivaldybės viešoji biblioteka yra biudžetinė įstaiga. Jos steigėja yra savivaldybė. 
+1. Savivaldybės viešoji biblioteka yra biudžetinė įstaiga. Jos savininkė yra savivaldybė. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -499,20 +598,35 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 
 
 
-3. Kiekvienoje savivaldybėje turi būti įsteigta savivaldybės viešoji biblioteka, išskyrus šio įstatymo 9 straipsnio 4 dalyje ir šio straipsnio 7 dalyje nustatytus atvejus.
-
-
-
-
-4. Gali būti steigiami savivaldybės viešosios bibliotekos filialai ir įkuriami struktūriniai padaliniai (toliau – filialai) miesto mikrorajonuose, miesteliuose ir (arba) kaimuose, taip pat filialai, aptarnaujantys vaikus ar kitas vartotojų grupes, bei mobiliosios bibliotekos. 
-Straipsnio dalies pakeitimai:
-Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+3. Įstatymų ir kitų teisės aktų nustatyta tvarka gali būti pripažinta, kad savivaldybės viešoji biblioteka atlieka mokslinius tyrimus ir eksperimentinę (socialinę, kultūrinę) plėtrą. 
+Papildyta straipsnio dalimi:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
 
 
 
 
-5. Kad būtų užtikrintas bibliotekos paslaugų prieinamumas savivaldybės teritorijos gyventojams, steigiami savivaldybės viešosios bibliotekos filialai:
+4. Kiekvienoje savivaldybėje turi būti įsteigta savivaldybės viešoji biblioteka, išskyrus šio įstatymo 9 straipsnio 4 dalyje ir šio straipsnio 7 dalyje nustatytus atvejus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
+
+
+
+
+5. Gali būti steigiami savivaldybės viešosios bibliotekos filialai ir įkuriami struktūriniai teritoriniai padaliniai (toliau – teritoriniai padaliniai) miesto mikrorajonuose, miesteliuose ir (arba) kaimuose, taip pat teritoriniai padaliniai, aptarnaujantys vaikus ar kitas vartotojų grupes, ir mobiliosios bibliotekos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
+
+
+
+
+6. Kad būtų užtikrintas bibliotekos paslaugų prieinamumas savivaldybės teritorijos gyventojams, steigiami savivaldybės viešosios bibliotekos filialai:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 1) miestuose (filialai paprastai steigiami vidutiniškai 20–30 tūkst. gyventojų);
@@ -527,22 +641,33 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 
 
 
-6. Savivaldybės viešosios bibliotekos filialų skaičių ir jų išdėstymą, atsižvelgiant į vietos sąlygas, nustato savivaldybės taryba.
+7. Savivaldybės viešosios bibliotekos filialų skaičių ir jų išdėstymą, atsižvelgiant į vietos sąlygas, nustato savivaldybės taryba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-7. Mieste, kuriame yra miesto ir rajono savivaldybių bibliotekos, miesto ir rajono savivaldybių susitarimu gali būti viena biblioteka, aptarnaujanti miesto ir rajono gyventojus. Ši biblioteka finansuojama iš miesto ir rajono savivaldybių biudžetų lėšų.
+8. Mieste, kuriame yra miesto ir rajono savivaldybių bibliotekos, miesto ir rajono savivaldybių susitarimu gali būti viena biblioteka, aptarnaujanti miesto ir rajono gyventojus. Ši biblioteka finansuojama iš miesto ir rajono savivaldybių biudžetų lėšų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-8. Savivaldybės viešoji biblioteka savivaldybės tarybos sprendimu gali aptarnauti kaimo pradinę ar pagrindinę mokyklą. Tokiu atveju savivaldybės viešoji biblioteka ir mokykla sudaro jungtinės veiklos (asociacijos) sutartį.
+9. Savivaldybės viešoji biblioteka savivaldybės tarybos sprendimu gali aptarnauti bendrojo ugdymo mokyklą. Tokiu atveju savivaldybės viešoji biblioteka ir bendrojo ugdymo mokykla sudaro jungtinės veiklos (asociacijos) sutartį. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-9. Savivaldybės viešoji biblioteka savo veiklos nuostatų nustatyta tvarka teikia metodinę pagalbą savivaldybės teritorijoje esančioms bibliotekoms.
+10. Savivaldybės viešoji biblioteka savo veiklos nuostatų nustatyta tvarka teikia metodinę pagalbą savivaldybės teritorijoje esančioms bibliotekoms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
 
 
@@ -553,7 +678,10 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 11 straipsnis. Mokslo ir studijų institucijos biblioteka
 
 
-1. Mokslinių tyrimų įstaigos gali vykdyti bibliotekų veiklą. Jos kaupia ir saugo dokumentų fondą, kuris tenkina mokslinių tyrimų įstaigos poreikius naudotis dokumentais bei informacija, aptarnauja vartotojus ir dalyvauja formuojant Lietuvos bibliotekų fondą bei kuriant bibliotekų informacijos sistemą.
+1. Mokslinių tyrimų institutai gali vykdyti bibliotekų veiklą. Jie kaupia ir saugo dokumentų fondą, kuris tenkina mokslinių tyrimų instituto poreikius naudotis dokumentais ir informacija, aptarnauja vartotojus ir dalyvauja sudarant Lietuvos bibliotekų fondą bei kuriant bibliotekų informacijos sistemą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
@@ -579,12 +707,17 @@ Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA
 
 
 
-2. Valstybinėje aukštesniojoje, profesinėje ir bendrojo lavinimo mokykloje turi veikti mokyklos biblioteka.
+2. Valstybinėje ir savivaldybės mokykloje (išskyrus aukštąsias) turi veikti mokyklos biblioteka arba mokyklos savininkų teises ir pareigas įgyvendinanti institucija bibliotekų veiklos vykdymą užtikrina šio įstatymo 10 straipsnio 9 dalyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+ 
 
 
 
 
-3. Apskričių ir savivaldybių viešosios bibliotekos teikia metodinę pagalbą mokyklų bibliotekoms.
+3. Apskričių ir savivaldybių viešosios bibliotekos teikia metodinę pagalbą mokyklų (išskyrus aukštųjų) bibliotekoms. 
+Straipsnio dalies pakeitimai:
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
  
 
 
@@ -785,3 +918,8 @@ Lietuvos Respublikos bibliotekų įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
 Lietuvos Respublikos bibliotekų įstatymo 4, 9 ir 10 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+Lietuvos Respublikos bibliotekų įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 3-1, 6-1 straipsniais ĮSTATYMAS
