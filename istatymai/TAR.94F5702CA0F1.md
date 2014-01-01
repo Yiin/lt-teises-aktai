@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -227,7 +227,10 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 
 
-5. Lietuvos antstolių sąrašą sudaro ir tvarko Teisingumo ministerija. Teisingumo ministras Lietuvos antstolių sąrašą skelbia „Valstybės žiniose“.
+5. Lietuvos antstolių sąrašą sudaro ir tvarko Teisingumo ministerija. Teisingumo ministras Lietuvos antstolių sąrašą skelbia Teisingumo ministerijos interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
+ 
 
 
 
@@ -1646,7 +1649,10 @@ ANTSTOLIŲ SAVIVALDA
 
 
 
-5) priima Lietuvos antstolių rūmų įstatus, Antstolių profesinės etikos kodeksą; teisingumo ministras juos skelbia „Valstybės žiniose“;
+5) priima Lietuvos antstolių rūmų įstatus, Antstolių profesinės etikos kodeksą; teisingumo ministras juos skelbia Teisės aktų registre; 
+Straipsnio punkto pakeitimai:
+Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
+ 
 
 
 
@@ -1819,3 +1825,8 @@ Lietuvos Respublikos antstolių įstatymo 10, 32 straipsnių pakeitimo ir papild
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1483, 2011-06-21, Žin., 2011, Nr. 85-4129 (2011-07-13), i. k. 1111010ISTA0XI-1483
 Lietuvos Respublikos antstolių įstatymo papildymo 43-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2317, 2012-11-06, Žin., 2012, Nr. 132-6645 (2012-11-15), i. k. 1121010ISTA0XI-2317
+Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatymas
