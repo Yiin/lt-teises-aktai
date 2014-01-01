@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -784,28 +784,30 @@ Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010IST
 
 
 
-14 straipsnis. Oro erdvės tvarkyba ir skrydžių taisyklės
+14 straipsnis. Oro erdvės tvarkyba ir skrydžių taisyklės
 
 
-1. Oro erdvės organizavimas ir skrydžių taisyklės turi kiek įmanoma tiksliau atitikti Tarptautinės civilinės aviacijos organizacijos (toliau – ICAO) standartus ir rekomenduojamą praktiką. Specialūs reikalavimai, taikomi tik karinių orlaivių skrydžiams, turi būti tokie, kad nekeltų grėsmės civilinių orlaivių saugai.
-
-
-
-
-2. Lietuvos Respublikos oro erdvės organizavimą ir skrydžių taisykles kartu rengia CAA ir kariuomenės vadas, o tvirtina Vyriausybė. Specialius reikalavimus, taikomus tik karinių orlaivių skrydžiams, nustato kariuomenės vadas.
+1. Oro erdvės organizavimas turi kiek įmanoma tiksliau atitikti Tarptautinės civilinės aviacijos organizacijos (toliau – ICAO) standartus ir rekomenduojamą praktiką. Lietuvos Respublikos oro erdvės organizavimo taisykles rengia CAA ir kariuomenės vadas, tvirtina Vyriausybė.
 
 
 
 
-3. Oro erdvėje virš jūros dalies, esančios už teritorinių vandenų, kurioje Lietuvos Respublika pagal tarptautines sutartis yra prisiėmusi atsakomybę teikti oro eismo paslaugas, taikomos Lietuvos Respublikos skrydžių taisyklės. 
+2. Skrydžiai Lietuvos Respublikos oro erdve, išskyrus karinių orlaivių skrydžius, vykdomus atliekant karines operacijas ir mokymus, vykdomi laikantis 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, nustatytų sąlygų ir tvarkos. Specialius reikalavimus, taikomus karinių orlaivių skrydžiams, vykdomiems atliekant karines operacijas ir mokymus, nustato kariuomenės vadas. Šie reikalavimai turi būti tokie, kad nekiltų grėsmė civilinių orlaivių saugai.
 
 
 
 
-4. Karinės būtinybės arba visuomenės saugos sumetimais susisiekimo ministras gali paskelbti tam tikras oro erdvės dalis kaip draudžiamas, ribojamas arba pavojingas civilinei aviacijai zonas, kuriose taikomos specialios procedūros. Tokie sprendimai priimami CAA teikimu, suderintu su kariuomenės vadu. Draudimai ir apribojimai neturi būti taikomi ilgiau, negu to reikalauja juos sukėlusios priežastys.
+3. Oro erdvėje virš jūros dalies, esančios už teritorinių vandenų, kurioje Lietuvos Respublika pagal tarptautines sutartis yra prisiėmusi atsakomybę teikti oro eismo paslaugas, taikomos Lietuvos Respublikoje galiojančios skrydžių taisyklės.
+
+
+
+
+4. Karinės būtinybės arba visuomenės saugos sumetimais susisiekimo ministras gali paskelbti tam tikras oro erdvės dalis kaip draudžiamas, ribojamas arba pavojingas civilinei aviacijai zonas, kuriose taikomos specialios procedūros. Tokie sprendimai priimami CAA teikimu, suderintu su kariuomenės vadu. Draudimai ir apribojimai neturi būti taikomi ilgiau, negu to reikalauja juos sukėlusios priežastys. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
  
-
-
 
 
 
@@ -1433,7 +1435,10 @@ CAA turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstaty
 42 straipsnis. Civilinių aerodromų tinkamumas naudoti
 
 
-1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą.
+1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013, ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+ 
 
 
 
@@ -2564,9 +2569,10 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
 
 
 
-5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, 51 tomas). 
+5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013 (OL 2013 L 4, p. 34). 
 Punkto pakeitimai:
 Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA00X-1541
+Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
  
 
 
@@ -2656,6 +2662,14 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
  
 
 
+
+
+19. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1). 
+Papildyta punktu:
+Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+ 
+
+
 Priedo pakeitimai:
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
@@ -2727,3 +2741,8 @@ Lietuvos Respublikos aviacijos įstatymo 13, 14-1 straipsnių ir priedo pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2238, 2012-10-02, Žin., 2012, Nr. 122-6097 (2012-10-20), i. k. 1121010ISTA0XI-2238
 Lietuvos Respublikos aviacijos įstatymo 66 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+Lietuvos Respublikos aviacijos įstatymo 14, 42 straipsnių ir priedo pakeitimo ir papildymo įstatymas
