@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B9B89F840E2"
 
 # Lietuvos Respublikos lobistinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2017-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1644, i. k. 1001010ISTAIII-1749
  
@@ -707,20 +707,22 @@ LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS TEIKIMAS
 14 straipsnis. Informacija apie lobistinę veiklą
 
 
-1. Informacija apie lobistinę veiklą yra vieša. Vyriausioji tarnybinės etikos komisija negali riboti asmenų teisės gauti duomenis ir informaciją apie lobistinę veiklą (lobistus, teisės aktus ar jų projektus, dėl kurių buvo vykdoma lobistinė veikla). 
+1. Informacija apie lobistinę veiklą yra vieša. Vyriausioji tarnybinės etikos komisija negali riboti asmenų teisės gauti duomenis ir informaciją apie lobistinę veiklą (lobistus, teisės aktus ar jų projektus, dėl kurių buvo vykdoma lobistinė veikla).
 
 
 
 
-2. Kartą per ketvirtį oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ Vyriausioji tarnybinės etikos komisija skelbia informaciją apie įrašytus į lobistų sąrašą lobistus, lobistinės veiklos sustabdymą, atnaujinimą, nutraukimą ar pasibaigimą. 
+2. Informacija apie įrašytus į lobistų sąrašą lobistus, lobistinės veiklos sustabdymą, atnaujinimą, nutraukimą ar pasibaigimą skelbiama Vyriausiosios tarnybinės etikos komisijos interneto svetainėje.
 
 
 
 
-3. Informacija apie lobistinę veiklą gali būti skelbiama Vyriausios tarnybinės etikos komisijos interneto puslapyje.
+3. Vyriausiosios tarnybinės etikos komisijos interneto svetainėje gali būti skelbiama ir kita informacija apie lobistinę veiklą. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-2331, 2012-11-06, Žin., 2012, Nr. 132-6659 (2012-11-15), i. k. 1121010ISTA0XI-2331
  
-
-
 
 
 
@@ -773,3 +775,8 @@ Lietuvos Respublikos lobistinės veiklos įstatymo 8 ir 12 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1385, 2003-03-20, Žin., 2003, Nr. 35-1461 (2003-04-11), i. k. 1031010ISTA0IX-1385
 Lietuvos Respublikos lobistinės veiklos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2331, 2012-11-06, Žin., 2012, Nr. 132-6659 (2012-11-15), i. k. 1121010ISTA0XI-2331
+Lietuvos Respublikos lobistinės veiklos įstatymo 14 straipsnio pakeitimo įstatymas
