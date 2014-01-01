@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 
 # Lietuvos Respublikos peticijų įstatymas
 
-Suvestinė redakcija nuo 2008-03-27 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2016-12-20
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
  
@@ -204,9 +204,10 @@ Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010IST
 
 9. Apie peticijos priėmimą nagrinėti arba apie atsisakymą priimti peticiją nagrinėti peticijų komisijos praneša pareiškėjui ar jų atstovui raštu ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos, nepaisydamos pareiškėjo ar pareiškėjo atstovo dalyvavimo priimant sprendimus. Šio įstatymo 9 straipsnio 5 dalyje nurodytu atveju pranešama kiekvienam pareiškėjui. Sprendimas atsisakyti priimti peticiją nagrinėti turi būti motyvuotas.
 
-10. Peticijų komisija, priėmusi sprendimą peticiją nagrinėti, paskiria peticijos nagrinėjimo vietą ir laiką ir apie tai paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir peticiją nagrinėjančios institucijos interneto tinklalapyje. Savivaldybės peticijų komisija apie peticijos nagrinėjimo vietą ir laiką paskelbia vietos spaudoje arba savivaldybės tarybos nustatyta tvarka.
+10. Peticijų komisija, priėmusi sprendimą peticiją nagrinėti, paskiria peticijos nagrinėjimo vietą ir laiką, apie tai raštu praneša pareiškėjui ar jo atstovui ir paskelbia peticiją nagrinėjančios institucijos interneto tinklalapyje. Savivaldybės peticijų komisija apie peticijos nagrinėjimo vietą ir laiką paskelbia vietos spaudoje, savivaldybės interneto tinklalapyje arba savivaldybės tarybos nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. X-1456, 2008-03-13, Žin., 2008, Nr. 35-1244 (2008-03-27), i. k. 1081010ISTA00X-1456
+Nr. XII-559, 2013-10-15, Žin., 2013, Nr. 111-5493 (2013-10-24), i. k. 1131010ISTA0XII-559
  
 
 11. Kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimą peticijų komisija išsprendžia ne vėliau kaip per 20 darbo dienų nuo kreipimosi įregistravimo dienos. Jei kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimui išspręsti reikalingi papildomi dokumentai ar išvados, terminas skaičiuojamas nuo paskutinio reikiamo dokumento gavimo dienos.
@@ -353,4 +354,9 @@ Dėl Lietuvos Respublikos peticijų įstatymo 10 straipsnio 1 dalies 2 punkto, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1456, 2008-03-13, Žin., 2008, Nr. 35-1244 (2008-03-27), i. k. 1081010ISTA00X-1456
 Lietuvos Respublikos peticijų įstatymo 2, 4, 5, 7, 9, 15 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-559, 2013-10-15, Žin., 2013, Nr. 111-5493 (2013-10-24), i. k. 1131010ISTA0XII-559
+Lietuvos Respublikos peticijų įstatymo 9 straipsnio pakeitimo įstatymas
 
