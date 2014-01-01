@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -3230,7 +3230,12 @@ TRYLIKTASIS SKIRSNIS
 
 
 
-10) nuo 18 metų – 4,05.
+10) nuo 18 iki 20 metų – 4,05;
+
+
+
+
+11) nuo 20 metų už kiekvienus paskesnius tarnybos metus papildomai – 0,25.
 
 
 Straipsnio dalies pakeitimai:
@@ -3591,6 +3596,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+ 
+ 
 Lietuvos Respublikos
 žvalgybos įstatymo
 priedas
