@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CDBE4C20D83B"
 
 # Lietuvos Respublikos žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas
 
-Suvestinė redakcija nuo 2001-07-18 iki 2013-12-31
+Įstatymas netenka galios 2019-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1267, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10512
+Lietuvos Respublikos žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymo Nr. I-61 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2014-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 23-0; Žin. 1993, Nr.6-114, i. k. 0931010ISTA0000I-61
  
@@ -50,9 +55,12 @@ LIETUVOS RESPUBLIKOS ŽEMĖS SKLYPŲ PERLEIDIMO IR NUOMOS UŽSIENIO VALSTYBIŲ D
 3. Valstybinės ir privačios žemės sklypo nuomos sutartis baigiasi diplomatinei atstovybei ar konsulinei įstaigai nutraukus savo veiklą ir kitais Lietuvos Respublikos civilinio kodekso numatytais atvejais. Žemės nuomos sutartis nuomotojo reikalavimu gali būti nutraukta prieš terminą, jei diplomatinė atstovybė ar konsulinė įstaiga išnuomotame žemės sklype jai nuosavybės teise priklausančius pastatus perleidžia kitiems asmenims.
  
 
-4 straipsnis. Žemės sklypų perleidimo ir nuomos sąlygos
+4 straipsnis. Žemės sklypų perleidimo ir nuomos sąlygos
 
-Valstybinės ir privačios žemės sklypai perleidžiami ir išnuomojami užsienio valstybėms diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurdinti pagal teritorijų detaliojo planavimo dokumentus.
+Valstybinės ir privačios žemės sklypai perleidžiami ir išnuomojami užsienio valstybėms diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurdinti pagal žemės valdos projektus ar teritorijų planavimo dokumentus.
+
+Straipsnio pakeitimai:
+Nr. XII-422, 2013-06-27, Žin., 2013, Nr. 76-3839 (2013-07-16), i. k. 1131010ISTA0XII-422
  
 
 5 straipsnis. Parduodamų žemės sklypų kaina ir nuomos mokestis
@@ -92,4 +100,9 @@ Lietuvos Respublikos įstatymo "Dėl žemės sklypų pardavimo ir nuomojimo tvar
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-418, 2001-07-03, Žin., 2001, Nr. 62-2227 (2001-07-18), i. k. 1011010ISTA00IX-418
 Lietuvos Respublikos žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-422, 2013-06-27, Žin., 2013, Nr. 76-3839 (2013-07-16), i. k. 1131010ISTA0XII-422
+Lietuvos Respublikos žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymo 4 straipsnio pakeitimo įstatymas
 
