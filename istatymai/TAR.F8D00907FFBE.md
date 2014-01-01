@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F8D00907FFBE"
 
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2010-07-20 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-07-03
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 104-2976, i. k. 0991010ISTAIII-1436
  
@@ -390,7 +390,10 @@ Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010I
 
 
 
-4. Duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis skelbiami „Valstybės žiniose“ tuo atveju, jeigu asmuo, slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, per 6 mėnesius nuo Komisijos paskelbto registravimo ir prisipažinimų priėmimo pradžios neprisipažino slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, taip pat jei pateikė žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpė. Apie Komisijos priimtą sprendimą viešai paskelbti duomenis raštu pranešama asmeniui, slapta bendradarbiavusiam su buvusios SSRS specialiosiomis tarnybomis. Jis šį nutarimą per 15 dienų nuo pranešimo gavimo gali apskųsti administraciniam teismui. Nutarimo viešai paskelbti duomenis vykdymas sustabdomas iki teismo sprendimo įsiteisėjimo. 
+4. Duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis skelbiami Teisės aktų registre tuo atveju, jeigu asmuo, slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, per 6 mėnesius nuo Komisijos paskelbto registravimo ir prisipažinimų priėmimo pradžios neprisipažino slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, taip pat jei pateikė žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpė. Apie Komisijos priimtą sprendimą viešai paskelbti duomenis raštu pranešama asmeniui, slapta bendradarbiavusiam su buvusios SSRS specialiosiomis tarnybomis. Jis šį nutarimą per 15 dienų nuo pranešimo gavimo gali apskųsti administraciniam teismui. Nutarimo viešai paskelbti duomenis vykdymas sustabdomas iki teismo sprendimo įsiteisėjimo.
+Straipsnio dalies pakeitimai:
+Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
+ 
 
 
 
@@ -448,7 +451,10 @@ Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA
 
 
 
-2. Kai Komisijos sprendimu šio įstatymo 8 straipsnio 4 dalyje nustatyta tvarka „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbiami duomenys apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, darbdavys ar valstybės tarnautoją į pareigas priimantis asmuo privalo ne vėliau kaip kitą darbo dieną po šių duomenų paskelbimo nutraukti darbo sutartį arba atleisti iš einamų pareigų įstatymų nustatyta tvarka, nepaisant to, kad toks atleidimo pagrindas nenustatytas šių asmenų atleidimą iš darbo ar pareigų reglamentuojančiuose specialiuose įstatymuose (statutuose).
+2. Kai Komisijos sprendimu šio įstatymo 8 straipsnio 4 dalyje nustatyta tvarka Teisės aktų registre paskelbiami duomenys apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, darbdavys ar valstybės tarnautoją į pareigas priimantis asmuo privalo ne vėliau kaip kitą darbo dieną po šių duomenų paskelbimo nutraukti darbo sutartį arba atleisti iš einamų pareigų įstatymų nustatyta tvarka, nepaisant to, kad toks atleidimo pagrindas nenustatytas šių asmenų atleidimą iš darbo ar pareigų reglamentuojančiuose specialiuose įstatymuose (statutuose). 
+Straipsnio dalies pakeitimai:
+Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
+ 
 
 
 
@@ -458,7 +464,10 @@ Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA
 
 
 
-4. Europos Parlamento ar savivaldybės tarybos nario pareigas einančių asmenų, neprisipažinusių Lietuvos valstybei slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, pateikusių žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpusių, įgaliojimai pripažįstami nutrūkusiais nepasibaigus nustatytam terminui. Vyriausioji rinkimų komisija atitinkamą sprendimą priima per 14 dienų nuo Komisijos sprendimo „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbti duomenis apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, paskelbimo dienos.
+4. Europos Parlamento ar savivaldybės tarybos nario pareigas einančių asmenų, neprisipažinusių Lietuvos valstybei slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, pateikusių žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpusių, įgaliojimai pripažįstami nutrūkusiais nepasibaigus nustatytam terminui. Vyriausioji rinkimų komisija atitinkamą sprendimą priima per 14 dienų nuo Komisijos sprendimo Teisės aktų registre paskelbti duomenis apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, paskelbimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
+ 
 
 
 
@@ -529,3 +538,8 @@ Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS special
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
 Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 3, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2340, 2012-11-06, Žin., 2012, Nr. 132-6668 (2012-11-15), i. k. 1121010ISTA0XI-2340
+Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 8 ir 9 straipsnių pakeitimo įstatymas
