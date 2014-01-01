@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
 
-Suvestinė redakcija nuo 2011-04-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
  
@@ -704,7 +704,9 @@ Nr. XI-1221, 2010-12-14, Žin., 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010IS
 
 
 
-9. Šio straipsnio 4 ir 8 dalyse nurodyti sprendimai turi būti skelbiami leidinyje „Valstybės žinios“.
+9. Šio straipsnio 4 ir 8 dalyse nurodyti sprendimai turi būti skelbiami Teisės aktų registre.
+Straipsnio dalies pakeitimai:
+Nr. XI-2320, 2012-11-06, Žin., 2012, Nr. 132-6648 (2012-11-15), i. k. 1121010ISTA0XI-2320
  
 
 
@@ -854,3 +856,8 @@ Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 19 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1221, 2010-12-14, Žin., 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010ISTA0XI-1221
 Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 1, 2, 4, 5, 6, 7, 8, 9, 11, 14, 15, 16, 17 straipsnių pakeitimo, 13 straipsnio pripažinimo netekusiu galios ir Įstatymo priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2320, 2012-11-06, Žin., 2012, Nr. 132-6648 (2012-11-15), i. k. 1121010ISTA0XI-2320
+Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 17 straipsnio pakeitimo įstatymas
