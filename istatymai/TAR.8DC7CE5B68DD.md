@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŽVALGYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 129-6463, i. k. 1121010ISTA0XI-2289
  
@@ -3258,6 +3258,9 @@ TRYLIKTASIS SKIRSNIS
 11) nuo 20 metų už kiekvienus paskesnius tarnybos metus papildomai – 0,25.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
+ 
 
 
 
@@ -3922,117 +3925,100 @@ ___________________________________________________________________________
 
 
 
-10. Iki įsigalios šio įstatymo 5 straipsnio 2 dalyje nurodyti teisės aktai (toliau – pereinamasis laikotarpis), Vyriausybinių ryšių centro prie Lietuvos Respublikos valstybės saugumo departamento (toliau – Vyriausybinių ryšių centras) statutinių valstybės tarnautojų tarnybos santykiai, atsiradę iki šio įstatymo įsigaliojimo, tęsiasi toliau šio įstatymo ir Vyriausybinių ryšių centro veiklą reglamentuojančių teisės aktų nustatyta tvarka. 
+10. Vyriausybinių ryšių centro prie Lietuvos Respublikos valstybės saugumo departamento (toliau – Vyriausybinių ryšių centras) pavaldumas perduodamas Krašto apsaugos ministerijai. 
 Papildyta straipsnio dalimi:
 Nr. XII-136, 2012-12-20, Žin., 2012, Nr. 155-8002 (2012-12-31), i. k. 1121010ISTA0XII-136
+Straipsnio dalies pakeitimai:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
 
 
-11. Pereinamuoju laikotarpiu Vyriausybinių ryšių centro statutinių valstybės tarnautojų laipsniai ir kvalifikacinės kategorijos prilyginami tarnybiniams rangams taip:
-
-
-1) direktoriaus turimas saugumo pareigūno laipsnis ir kvalifikacinė kategorija – antram tarnybiniam rangui;
-
-
-
-
-2) direktoriaus pavaduotojų turimi saugumo pareigūnų laipsniai ir kvalifikacinės kategorijos – trečiam tarnybiniam rangui;
-
-
-
-
-3) skyrių viršininkų turimi saugumo pareigūnų laipsniai ir kvalifikacinės kategorijos – ketvirtam tarnybiniam rangui;
-
-
-
-
-4) skyrių viršininkų pavaduotojų ir poskyrių viršininkų turimi saugumo pareigūnų laipsniai ir kvalifikacinės kategorijos – penktam tarnybiniam rangui;
-
-
-
-
-5) vyriausiųjų specialistų turimi saugumo majorų laipsniai ir kvalifikacinės kategorijos – šeštam tarnybiniam rangui;
-
-
-
-
-6) vyriausiųjų specialistų turimi saugumo kapitonų laipsniai ir kvalifikacinės kategorijos – septintam tarnybiniam rangui;
-
-
-
-
-7) vyriausiųjų specialistų turimi saugumo vyresniųjų leitenantų laipsniai ir kvalifikacinės kategorijos – aštuntam tarnybiniam rangui;
-
-
-
-
-8) vyriausiųjų specialistų turimi saugumo leitenantų laipsniai ir kvalifikacinės kategorijos – devintam tarnybiniam rangui;
-
-
-
-
-9) vyresniųjų specialistų turimi saugumo vyresniųjų leitenantų laipsniai ir kvalifikacinės kategorijos – dešimtam tarnybiniam rangui;
-
-
-
-
-10) vyresniųjų specialistų turimi saugumo leitenantų laipsniai ir kvalifikacinės kategorijos – vienuoliktam tarnybiniam rangui;
-
-
-
-
-11) specialistų turimi saugumo pareigūnų laipsniai ir kvalifikacinės kategorijos – keturioliktam tarnybiniam rangui; 
-
-
-
-
-12) jaunesniųjų specialistų turimi saugumo pareigūnų laipsniai ir kvalifikacinės kategorijos – šešioliktam tarnybiniam rangui. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XII-136, 2012-12-20, Žin., 2012, Nr. 155-8002 (2012-12-31), i. k. 1121010ISTA0XII-136
+11. Dėl Vyriausybinių ryšių centro struktūrinių pertvarkymų atleidžiamiems statutiniams valstybės tarnautojams (toliau – tarnautojai), atliekantiems funkcijas, tiesiogiai užtikrinančias Vyriausybinių ryšių centrui nustatytų uždavinių įgyvendinimą, siūlomos civilių statutinių valstybės tarnautojų pareigos šio straipsnio 10 dalyje nurodytoje Krašto apsaugos ministerijai pavaldžioje institucijoje. Šie tarnautojai jų sutikimu teisės aktų nustatyta tvarka kitą dieną po tarnybos santykių su Vyriausybinių ryšių centru nutraukimo priimami į civilinę krašto apsaugos tarnybą. Į civilinę krašto apsaugos tarnybą priimami ir Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto (toliau – Statutas) 3 straipsnio 1 dalies 1 ir 4 punktuose nustatytų reikalavimų neatitinkantys tarnautojai, netaikant Lietuvos Respublikos valstybės tarnybos įstatymo 9 straipsnio 1 dalies 5 punkto reikalavimų. Tarnautojai, neatitinkantys Statuto 3 straipsnio 1 dalies 1 ir 4 punktuose nustatytų reikalavimų, privalo per vienus metus nuo priėmimo į civilinę krašto apsaugos tarnybą teisės aktų nustatyta tvarka įvykdyti Statuto 3 straipsnio 1 dalies 1 punkto reikalavimą ir pasitikrinti tinkamumą civilinei krašto apsaugos tarnybai pagal sveikatos būklę. Statuto 3 straipsnio 1 dalies 1 punkto reikalavimo neįvykdę arba pripažinti netinkamais civilinei krašto apsaugos tarnybai pagal sveikatos būklę tarnautojai pasibaigus vienų metų nuo priėmimo į civilinę krašto apsaugos tarnybą terminui atleidžiami iš civilinės krašto apsaugos tarnybos vadovaujantis Statuto 10 straipsnio 1 dalies atitinkamai 11 arba 12 punkte nustatytais pagrindais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
 
 
-12. Iki šio įstatymo įsigaliojimo pradėtos tarnybinių nuobaudų skyrimo procedūros turi būti tęsiamos, kol bus baigtos, iki šio įstatymo įsigaliojimo galiojusia tvarka.
+12. Dėl Vyriausybinių ryšių centro struktūrinių pertvarkymų atleidžiamiems tarnautojams, išskyrus nurodytus šio straipsnio 11 dalyje, atitinkantiems Lietuvos Respublikos valstybės tarnybos įstatymo 9 straipsnyje nustatytus priėmimo į valstybės tarnautojo pareigas reikalavimus, gali būti siūlomos karjeros valstybės tarnautojo pareigos krašto apsaugos sistemos institucijose. Šie tarnautojai jų sutikimu kitą dieną po tarnybos santykių su Vyriausybinių ryšių centru nutraukimo į pasiūlytas karjeros valstybės tarnautojų pareigas priimami be konkurso, netaikant Lietuvos Respublikos valstybės tarnybos įstatymo 9 straipsnio 2 dalies reikalavimų. 
+Papildyta straipsnio dalimi:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
+ 
+
+
+
+
+13. Tarnautojai, nesutikę būti priimti į civilinę krašto apsaugos tarnybą arba pasiūlytas karjeros valstybės tarnautojų pareigas krašto apsaugos sistemos institucijose, netenka teisės pasinaudoti šio straipsnio 11 ir 12 dalyse nustatytomis priėmimo sąlygomis. 
+Papildyta straipsnio dalimi:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
+ 
+
+
+
+
+14. Tarnybos Vyriausybinių ryšių centre stažo tarnybos laikotarpiai įskaitomi į tarnybos krašto apsaugos sistemoje stažą. 
+Papildyta straipsnio dalimi:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
+ 
+
+
+
+
+15. Įstatymų numatytos išeitinės kompensacijos mokamos tik tiems dėl Vyriausybinių ryšių centro struktūrinių pertvarkymų atleidžiamiems tarnautojams, kuriems nebuvo pasiūlytos pareigos krašto apsaugos sistemos institucijose arba kurie nesutiko būti priimti į pasiūlytas pareigas. 
+Papildyta straipsnio dalimi:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
+ 
+
+
+
+
+16. Iki šio įstatymo įsigaliojimo pradėtos tarnybinių nuobaudų skyrimo procedūros turi būti tęsiamos, kol bus baigtos, iki šio įstatymo įsigaliojimo galiojusia tvarka.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-136, 2012-12-20, Žin., 2012, Nr. 155-8002 (2012-12-31), i. k. 1121010ISTA0XII-136
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
 
 
-13. Iki 2012 m. gruodžio 31 d. žvalgybos pareigūnams paskirtas išmokas dėl ligos, motinystės, tėvystės, motinystės (tėvystės) ir dėl nelaimingų atsitikimų darbe toliau moka jas paskyrusios žvalgybos institucijos iš joms skirtų valstybės biudžeto asignavimų. 
+17. Iki 2012 m. gruodžio 31 d. žvalgybos pareigūnams paskirtas išmokas dėl ligos, motinystės, tėvystės, motinystės (tėvystės) ir dėl nelaimingų atsitikimų darbe toliau moka jas paskyrusios žvalgybos institucijos iš joms skirtų valstybės biudžeto asignavimų. 
 Papildyta straipsnio dalimi:
 Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
 
 
-14. Jeigu nuo 2013 m. sausio 1 d. žvalgybos pareigūnams, tapusiems apdraustaisiais pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalį, apskaičiuojant kompensuojamąjį uždarbį ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpoms patenka laikotarpiai, kada jie nebuvo drausti ligos ir motinystės socialiniu draudimu bei nelaimingų atsitikimų darbe socialiniu draudimu, šios socialinio draudimo pašalpos apskaičiuojamos pagal jų faktiškai turėtas draudžiamąsias pajamas. Šioje dalyje numatytais atvejais žvalgybos institucija žvalgybos pareigūnui iš jai skirtų valstybės biudžeto asignavimų skiria ir iki draudiminio įvykio pabaigos moka jo kompensuojamojo užmokesčio dalį. Ši dalis apskaičiuojama kaip mokėtinos ir išmokėtos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos skirtumas. 
+18. Jeigu nuo 2013 m. sausio 1 d. žvalgybos pareigūnams, tapusiems apdraustaisiais pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalį, apskaičiuojant kompensuojamąjį uždarbį ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpoms patenka laikotarpiai, kada jie nebuvo drausti ligos ir motinystės socialiniu draudimu bei nelaimingų atsitikimų darbe socialiniu draudimu, šios socialinio draudimo pašalpos apskaičiuojamos pagal jų faktiškai turėtas draudžiamąsias pajamas. Šioje dalyje numatytais atvejais žvalgybos institucija žvalgybos pareigūnui iš jai skirtų valstybės biudžeto asignavimų skiria ir iki draudiminio įvykio pabaigos moka jo kompensuojamojo užmokesčio dalį. Ši dalis apskaičiuojama kaip mokėtinos ir išmokėtos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos skirtumas. 
 Papildyta straipsnio dalimi:
 Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
 
 
-15. Šio straipsnio 13 dalyje nurodytos išmokos, mokamos nuo 2013 m. sausio 1 d., ir 14 dalyje nurodyta kompensuojamojo uždarbio dalis, žvalgybos institucijos mokama iš jai skirtų valstybės biudžeto asignavimų, prilyginamos socialinio draudimo pašalpoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme arba Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
+19. Šio straipsnio 17 dalyje nurodytos išmokos, mokamos nuo 2013 m. sausio 1 d., ir 18 dalyje nurodyta kompensuojamojo uždarbio dalis, žvalgybos institucijos mokama iš jai skirtų valstybės biudžeto asignavimų, prilyginamos socialinio draudimo pašalpoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme arba Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
+Straipsnio dalies pakeitimai:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
 
 
-16. Šio straipsnio 14 dalyje nurodytų išmokų apskaičiavimo ir mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+20. Šio straipsnio 18 dalyje nurodytų išmokų apskaičiavimo ir mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 Papildyta straipsnio dalimi:
 Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
+Straipsnio dalies pakeitimai:
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
@@ -4273,9 +4259,10 @@ Nr. XII-136, 2012-12-20, Žin., 2012, Nr. 155-8002 (2012-12-31), i. k. 1121010IS
 
 
 
-3. Pereinamuoju laikotarpiu Vyriausybinių ryšių centro statutiniams valstybės tarnautojams mutatis mutandis taikomi žvalgybos pareigūnų statusą reglamentuojantys teisės aktai. 
+3. Iki įsigalios šio straipsnio 2 dalyje nurodyti teisės aktai, Vyriausybinių ryšių centro statutiniams valstybės tarnautojams mutatis mutandis taikomi žvalgybos pareigūnų statusą reglamentuojantys teisės aktai.
 Straipsnio dalies pakeitimai:
 Nr. XII-136, 2012-12-20, Žin., 2012, Nr. 155-8002 (2012-12-31), i. k. 1121010ISTA0XII-136
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
  
 
 
@@ -4304,3 +4291,8 @@ Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 1, 2 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-136, 2012-12-20, Žin., 2012, Nr. 155-8002 (2012-12-31), i. k. 1121010ISTA0XII-136
 Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 2 ir 5 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
+Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 2 ir 5 straipsnių pakeitimo ir papildymo ĮSTATYMAS
