@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
  
@@ -41,12 +41,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taikomas mokiniams, kurie mokosi bendrojo lavinimo mokyklose, profesinėse mokyklose, ikimokyklinio ugdymo mokyklose ar pas kitą švietimo teikėją (išskyrus laisvąjį mokytoją) (toliau – mokykla) pagal bendrojo lavinimo (pradinio, pagrindinio, vidurinio ar specialiojo ugdymo) ar priešmokyklinio ugdymo programas.
+2. Šis įstatymas taikomas mokiniams, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, ikimokyklinio ugdymo mokyklose ar pas kitą švietimo teikėją (išskyrus laisvąjį mokytoją) (toliau – mokykla) pagal bendrojo ugdymo programas, įregistruotas Studijų, mokymo programų ir kvalifikacijų registre, ar priešmokyklinio ugdymo programą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
 
-3. Šis įstatymas netaikomas mokiniams, kurie mokosi pagal suaugusiųjų ugdymo programas, ir mokiniams, kurie mokosi ir pagal bendrojo lavinimo, ir pagal profesinio mokymo programas.
+3. Šis įstatymas netaikomas mokiniams, kurie mokosi pagal suaugusiųjų ugdymo programas, ir mokiniams, kurie mokosi ir pagal bendrojo ugdymo, ir pagal profesinio mokymo programas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
@@ -89,7 +95,10 @@ Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA
 
 
 
-4. Pareiškėjas – vienas iš mokinio tėvų, globėjų (rūpintojų), pilnametis mokinys ar nepilnametis mokinys, kuris yra susituokęs arba emancipuotas. 
+4. Pareiškėjas – vienas iš mokinio tėvų ar kitų bendrai gyvenančių pilnamečių asmenų, globėjų (rūpintojų), pilnametis mokinys ar nepilnametis mokinys, kuris yra susituokęs arba emancipuotas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
@@ -190,7 +199,10 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 
 
-6. Šio straipsnio 2 dalies 4 punkte nustatytoms išlaidoms finansuoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžete skirtų bendrųjų asignavimų Švietimo ir mokslo ministerijai papildomai skiriami 4 procentai šio straipsnio 2 dalies 1 ir 2 punktuose nustatytoms išlaidoms finansuoti skirtų lėšų.
+6. Šio straipsnio 2 dalies 4 punkte nustatytoms išlaidoms finansuoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžete skirtų bendrųjų asignavimų Švietimo ir mokslo ministerijai papildomai skiriami 4 procentai šio straipsnio 2 dalies 1 ir 2 punktuose nustatytoms išlaidoms finansuoti skirtų lėšų. Išlaidoms socialinei paramai mokiniams administruoti per kalendorinius metus panaudojama ne didesnė lėšų suma, negu nustatytas išlaidoms socialinei paramai mokiniams administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų išlaidoms produktams ir mokinio reikmenims (įskaitant prekių pirkimo pridėtinės vertės mokestį) finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
@@ -237,7 +249,10 @@ Nr. XI-1774, 2011-12-01, Žin., 2011, Nr. 155-7355 (2011-12-20), i. k. 1111010IS
 
 
 
-6 straipsnis. Bendrai gyvenančių asmenų ar vieno gyvenančio asmens pajamų socialinei paramai mokiniams gauti apskaičiavimas
+6 straipsnis. Pajamų socialinei paramai mokiniams gauti apskaičiavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 1. Bendrai gyvenančių asmenų ar vieno gyvenančio asmens vidutinės mėnesio pajamos socialinei paramai mokiniams gauti apskaičiuojamos: 
@@ -260,7 +275,10 @@ Nr. XI-1774, 2011-12-01, Žin., 2011, Nr. 155-7355 (2011-12-20), i. k. 1111010IS
 
 
 
-3. Skaičiuojant bendrai gyvenančių asmenų pajamas, neįskaitomos jų globojamų (rūpinamų) vaikų pajamos. Vaikai, kuriems įstatymų nustatyta tvarka yra nustatyta globa ar rūpyba, į bendrai gyvenančių asmenų, kurie paskirti globėjais ar rūpintojais, sudėtį neįskaitomi. Kai vaiko laikinoji globa ar rūpyba nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos, globojamiems ar rūpinamiems vaikams socialinė parama mokiniams skiriama įvertinus tėvų pajamas.
+3. Skaičiuojant bendrai gyvenančių asmenų pajamas, neįskaitomos jų globojamų ar rūpinamų vaikų pajamos. Vaikai, kuriems įstatymų nustatyta tvarka yra nustatyta globa ar rūpyba, į bendrai gyvenančių asmenų, kurie paskirti globėjais ar rūpintojais, sudėtį neįskaitomi. Kai vaiko laikinoji globa ar rūpyba nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos, globojamiems ar rūpinamiems vaikams socialinė parama mokiniams skiriama įvertinus vaiko, jo tėvų ir kitų bendrai gyvenančių asmenų pajamas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
@@ -270,7 +288,10 @@ Nr. XI-1774, 2011-12-01, Žin., 2011, Nr. 155-7355 (2011-12-20), i. k. 1111010IS
 
 
 
-5. Jeigu bendrai gyvenantys asmenys ar vienas gyvenantis asmuo gauna piniginę socialinę paramą pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą, bendrai gyvenančių asmenų ar vieno gyvenančio asmens pajamos socialinei paramai mokiniams gauti apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant piniginę socialinę paramą, įskaitant paskirtos socialinės pašalpos dydį ir neįskaitant būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijų dydžio. 
+5. Jeigu bendrai gyvenantys asmenys ar vienas gyvenantis asmuo gauna piniginę socialinę paramą pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą, bendrai gyvenančių asmenų ar vieno gyvenančio asmens pajamos socialinei paramai mokiniams gauti apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant piniginę socialinę paramą, įskaitant paskirtos socialinės pašalpos dydį, išskyrus papildomai paskirtos socialinės pašalpos dydį, ir neįskaitant būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijų dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 Straipsnio pakeitimai:
@@ -288,7 +309,10 @@ Nr. XI-1774, 2011-12-01, Žin., 2011, Nr. 155-7355 (2011-12-20), i. k. 1111010IS
 
 
 
-2. Nemokamam maitinimui skirtiems produktams įsigyti (įskaitant prekių pirkimo pridėtinės vertės mokestį) skiriama nuo 1,2 iki 7 procentų bazinės socialinės išmokos dydžio suma. 
+2. Nemokamam maitinimui skirtiems produktams įsigyti (įskaitant prekių pirkimo pridėtinės vertės mokestį) skiriama nuo 1,3 iki 7,7 procento bazinės socialinės išmokos dydžio suma. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 Straipsnio pakeitimai:
@@ -361,7 +385,10 @@ Nr. XI-1774, 2011-12-01, Žin., 2011, Nr. 155-7355 (2011-12-20), i. k. 1111010IS
 
 
 
-3. Kad mokinys gautų nemokamą maitinimą nuo mokslo metų pradžios ir paramą mokinio reikmenims įsigyti, pareiškėjas gali kreiptis nuo tų metų liepos 1 dienos. Kad mokinys gautų nemokamą maitinimą vasaros atostogų metu mokykloje organizuojamoje dieninėje vasaros poilsio stovykloje, pareiškėjas gali kreiptis nuo kalendorinių metų gegužės 1 dienos, išskyrus šio įstatymo 11 straipsnio 2 dalies 3 punkte nustatytą atvejį, kai atskiras prašymas nereikalingas.
+3. Kad mokinys gautų nemokamą maitinimą nuo mokslo metų pradžios ir paramą mokinio reikmenims įsigyti, pareiškėjas gali kreiptis nuo tų metų liepos 1 dienos. Kad mokinys gautų nemokamą maitinimą vasaros atostogų metu mokykloje organizuojamoje dieninėje vasaros poilsio stovykloje, pareiškėjas gali kreiptis nuo kalendorinių metų gegužės 1 dienos, išskyrus šio įstatymo 11 straipsnio 2 dalies 3 punkte nustatytą atvejį, kai atskiras prašymas nereikalingas. Dėl paramos mokinio reikmenims įsigyti pareiškėjas gali kreiptis iki kalendorinių metų spalio 5 dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
@@ -557,10 +584,11 @@ Nr. XI-546, 2009-12-10, Žin., 2009, Nr. 153-6886 (2009-12-28), i. k. 1091010IST
 
 
 
-3) nustato atvejus, kuriems esant mokiniai turi teisę į socialinę paramą mokiniams pagal šio įstatymo 5 straipsnio 2 dalį; 
+3) nustato atvejus, kuriems esant mokiniai turi teisę į socialinę paramą mokiniams pagal šio įstatymo 5 straipsnio 2 dalį ir šio straipsnio 4 dalies 4 punktą; 
 Straipsnio punkto pakeitimai:
 Nr. XI-103, 2008-12-22, Žin., 2008, Nr. 149-6027 (2008-12-30), i. k. 1081010ISTA00XI-103
 Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
  
 
 
@@ -596,7 +624,10 @@ Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA
 
 
 
-5) teikia Socialinės apsaugos ir darbo ministerijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi Vyriausybės ar jos įgaliotos institucijos patvirtinta duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarka, ir, jei reikia, kitą informaciją;
+5) teikia Socialinės apsaugos ir darbo ministerijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi Vyriausybės ar jos įgaliotos institucijos patvirtinta duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarka, ir, jei reikia, kitą informaciją. Be to, savivaldybių administracijos duomenis apie socialinės paramos mokiniams gavėjus ir jiems teikiamą socialinę paramą mokiniams teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS); 
+Straipsnio punkto pakeitimai:
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+ 
 
 
 
@@ -793,3 +824,8 @@ Lietuvos Respublikos socialinės paramos mokiniams įstatymo 1, 5, 6, 7, 8, 10, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1774, 2011-12-01, Žin., 2011, Nr. 155-7355 (2011-12-20), i. k. 1111010ISTA0XI-1774
 Lietuvos Respublikos socialinės paramos mokiniams įstatymo 2, 5, 6, 8, 10, 11, 12, 14 ir 16 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-742, 2013-12-23, Žin., 2013, Nr. 140-7090 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00008
+Lietuvos Respublikos socialinės paramos mokiniams įstatymo 1, 2, 4, 6, 7, 10 ir 14 straipsnių pakeitimo ĮSTATYMAS
