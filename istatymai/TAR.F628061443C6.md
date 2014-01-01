@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-05-25 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-11-27
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
  
@@ -1288,15 +1288,12 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal savo kompetenciją p
 36 straipsnis. Sprendimų dėl Lietuvos Respublikos pilietybės skelbimas
 
 
-1. Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo ir Lietuvos Respublikos pilietybės grąžinimo įstatymų nustatyta tvarka skelbiami oficialiame leidinyje „Valstybės žinios“.
+Respublikos Prezidento dekretai dėl Lietuvos Respublikos pilietybės suteikimo ir Lietuvos Respublikos pilietybės grąžinimo, vidaus reikalų ministro įsakymai dėl Lietuvos Respublikos pilietybės atkūrimo ir Lietuvos Respublikos pilietybės netekimo, taip pat galutiniai ir neskundžiami administracinių teismų sprendimai dėl Lietuvos Respublikos pilietybės netekimo įstatymų nustatyta tvarka skelbiami Teisės aktų registre.
 
 
-
-
-2. Vidaus reikalų ministro įsakymai dėl Lietuvos Respublikos pilietybės atkūrimo ir Lietuvos Respublikos pilietybės netekimo, taip pat galutiniai ir neskundžiami administracinių teismų sprendimai dėl Lietuvos Respublikos pilietybės netekimo skelbiami oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+Straipsnio pakeitimai:
+Nr. XI-2333, 2012-11-06, Žin., 2012, Nr. 132-6661 (2012-11-15), i. k. 1121010ISTA0XI-2333
  
-
-
 
 
 
