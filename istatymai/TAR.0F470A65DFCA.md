@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2010-10-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-06-26
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -183,7 +183,10 @@ Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010IST
 
 
 
-3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal šio įstatymo 3 straipsnio 8 punktą;
+3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms; Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje nustatytoms kompensacijoms medžioklės plotų naudotojams ir privačių žemės sklypų savininkams mokėti – įplaukos pagal 3 straipsnio 8 punktą;
+Straipsnio punkto pakeitimai:
+Nr. XII-373, 2013-06-18, Žin., 2013, Nr. 67-3336 (2013-06-26), i. k. 1131010ISTA0XII-373
+ 
 
 
 
@@ -295,3 +298,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 2, 3, 4 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-373, 2013-06-18, Žin., 2013, Nr. 67-3336 (2013-06-26), i. k. 1131010ISTA0XII-373
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas
