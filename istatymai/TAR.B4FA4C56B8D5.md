@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2012-11-15 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-03-18
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -887,7 +887,10 @@ TEISĖS AKTŲ PRIĖMIMAS, PASIRAŠYMAS, REGISTRAVIMAS, SKELBIMAS IR ĮSIGALIOJIM
 
 
 
-3. Teisės akto įregistravimas ir paskelbimas Teisės aktų registre laikomas oficialiu teisės akto paskelbimu.
+3. Teisės akto įregistravimas ir paskelbimas Teisės aktų registre laikomas oficialiu teisės akto paskelbimu. Šio įstatymo 20 straipsnio 12 dalyje numatytų teisės aktų ir jais patvirtintų teritorijų planavimo dokumentų įregistravimas ir paskelbimas Lietuvos Respublikos teritorijų planavimo dokumentų registre laikomas oficialiu jų paskelbimu.
+Straipsnio dalies pakeitimai:
+Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
+ 
 
 
 
@@ -903,7 +906,18 @@ TEISĖS AKTŲ PRIĖMIMAS, PASIRAŠYMAS, REGISTRAVIMAS, SKELBIMAS IR ĮSIGALIOJIM
 20 straipsnis. Teisės aktų įsigaliojimas
 
 
-1. Norminis teisės aktas įsigalioja kitą dieną po oficialaus paskelbimo Teisės aktų registre, jeigu pačiame teisės akte nenumatyta vėlesnė įsigaliojimo data.
+
+
+
+
+1. Norminis teisės aktas įsigalioja kitą dieną po oficialaus paskelbimo Teisės aktų registre, jeigu pačiame teisės akte nenumatyta vėlesnė įsigaliojimo data, išskyrus šio straipsnio 12 dalyje numatytus atvejus.
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
+ 
 
 
 
@@ -954,6 +968,13 @@ TEISĖS AKTŲ PRIĖMIMAS, PASIRAŠYMAS, REGISTRAVIMAS, SKELBIMAS IR ĮSIGALIOJIM
 
 
 11. Respublikos Prezidento dekretas dėl mobilizacijos paskelbimo, karo ar nepaprastosios padėties įvedimo įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse.
+
+
+
+
+12. Teisės aktų ir jais patvirtintų teritorijų planavimo dokumentų skelbimo ir įsigaliojimo tvarka nustatyta Lietuvos Respublikos teritorijų planavimo įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
  
 
 
@@ -1343,3 +1364,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010ISTA0XI-2314
 Lietuvos Respublikos teisėkūros pagrindų įstatymo 25 ir 26 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
+Lietuvos Respublikos teisėkūros pagrindų įstatymo 19, 20 straipsnių pakeitimo ir papildymo įstatymas
