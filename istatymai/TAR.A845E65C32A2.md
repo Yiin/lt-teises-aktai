@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A845E65C32A2"
 
 # Lietuvos Respublikos produktų saugos įstatymas
 
-Suvestinė redakcija nuo 2004-02-14 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1673, i. k. 0991010ISTAIII-1206
  
@@ -250,7 +250,10 @@ Nr. IX-427, 2001-07-05, Žin., 2001, Nr. 64-2324 (2001-07-25), i. k. 1011010ISTA
 
 
 
-3. Produktas yra saugus, kai pavojaus ir pavojaus kategorijų aspektu jis atitinka savanoriškai taikomus kaip nacionalinius standartus perimtus Europos standartus, nuorodos į kuriuos buvo paskelbtos Europos Bendrijų oficialiajame leidinyje, o Lietuvos nuorodos į tokius nacionalinius standartus nustatyta tvarka buvo paskelbtos „Valstybės žiniose“. 
+3. Produktas yra saugus, kai pavojaus ir pavojaus kategorijų aspektu jis atitinka savanoriškai taikomus kaip nacionalinius standartus perimtus Europos standartus, nuorodos į kuriuos buvo paskelbtos Europos Bendrijų oficialiajame leidinyje, o Lietuvos nuorodos į tokius nacionalinius standartus nustatyta tvarka buvo paskelbtos „Valstybės žiniose“ ar Teisės aktų registre.
+Straipsnio dalies pakeitimai:
+Nr. XI-2335, 2012-11-06, Žin., 2012, Nr. 132-6663 (2012-11-15), i. k. 1121010ISTA0XI-2335
+ 
 
 
 
@@ -806,7 +809,10 @@ Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA
 
 
 
-7. Tarybos nutarimai arba kontrolės institucijų sprendimai dėl rinkos ribojimo priemonių taikymo turi būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“ Vyriausybės nustatyta tvarka.
+7. Tarybos nutarimai arba kontrolės institucijų sprendimai dėl rinkos ribojimo priemonių taikymo turi būti skelbiami atitinkamai Tarybos arba kontrolės institucijų interneto svetainėse.
+Straipsnio dalies pakeitimai:
+Nr. XI-2335, 2012-11-06, Žin., 2012, Nr. 132-6663 (2012-11-15), i. k. 1121010ISTA0XI-2335
+ 
 
 
 
