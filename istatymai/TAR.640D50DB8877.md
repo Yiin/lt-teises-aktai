@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -482,7 +482,10 @@ Nr. XI-701, 2010-03-23, Žin., 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA
 8 straipsnis. Lietuvos smulkiojo ir vidutinio verslo taryba
 
 
-1. Lietuvos smulkiojo ir vidutinio verslo taryba (toliau – Taryba) yra visuomeninė patariamoji institucija, sudaroma iš asociacijų, kurių nariai yra verslo subjektai, atstovų, siekiant užtikrinti smulkiojo ir vidutinio verslo atstovų bei valstybės institucijų bendradarbiavimą. Tarybos sudėtį ir nuostatus tvirtina Vyriausybė, remdamasi asociacijų, kurių nariai yra verslo subjektai, teikimu. 
+1. Lietuvos smulkiojo ir vidutinio verslo taryba (toliau – Taryba) yra visuomeninė patariamoji institucija, sudaroma iš asociacijų, kurių nariai yra verslo subjektai, atstovų, siekiant užtikrinti smulkiojo ir vidutinio verslo atstovų bei valstybės institucijų bendradarbiavimą. Tarybos sudėtį ir nuostatus tvirtina Vyriausybė, remdamasi asociacijų, kurių nariai yra verslo subjektai, teikimu. Tarybos veikla finansuojama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-191, 2013-03-14, Žin., 2013, Nr. 30-1455 (2013-03-23), i. k. 1131010ISTA0XII-191
+ 
 
 
 
@@ -557,3 +560,8 @@ Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3, 5 ir 7 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1168, 2010-11-23, Žin., 2010, Nr. 145-7425 (2010-12-11), i. k. 1101010ISTA0XI-1168
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-191, 2013-03-14, Žin., 2013, Nr. 30-1455 (2013-03-23), i. k. 1131010ISTA0XII-191
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsnio pakeitimo įstatymas
