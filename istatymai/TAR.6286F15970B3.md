@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2014-04-29
+Suvestinė redakcija nuo 2014-01-01 iki 2014-04-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -1040,7 +1040,10 @@ Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010IST
 
 
 
-4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Vadovaudamasis Lietuvos statistikos departamento skelbiama informacija, konkretų atlyginimo dydį Valstybinės atominės energetikos saugos inspekcijos viršininkui ir jo pavaduotojams kiekvieniems kalendoriniams metams tvirtina Ministras Pirmininkas. 
+4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Vadovaudamasis Lietuvos statistikos departamento skelbiama informacija, konkretų atlyginimo dydį Valstybinės atominės energetikos saugos inspekcijos viršininkui ir jo pavaduotojams kiekvieniems metams tvirtina Ministras Pirmininkas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
+ 
 
 
 
