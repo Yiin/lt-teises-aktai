@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-07-20 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
  
@@ -799,6 +799,39 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 
 
+
+
+
+
+191 straipsnis. Biokuro, naudojamo šilumos gamybai, įsigijimas
+
+
+1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir šilumą ir elektros energiją bendrame technologiniame cikle gaminantys gamintojai, kurie elektros ir (ar) šilumos energijos gamybai naudoja biokurą, privalo energijos išteklių biržoje įsigyti šią elektros ir (ar) šilumos energijos gamybai reikalingo biokuro kiekio dalį:
+
+
+1) 2014 metais – ne mažiau kaip 10 procentų;
+
+
+
+
+2) 2015 metais – ne mažiau kaip 30 procentų;
+
+
+
+
+3) 2016 metais ir vėlesniais metais – ne mažiau kaip 50 procentų.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje išdėstyti reikalavimai nurodytoms energetikos įmonėms netaikomi, jeigu energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies arba kitais būdais įsigyti biokurą yra ekonomiškai naudingiau. Trūkstamas biokuro kiekis gali būti įsigyjamas kitais teisės aktuose reglamentuotais pirkimo būdais.
+
+
+Papildyta straipsniu:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
