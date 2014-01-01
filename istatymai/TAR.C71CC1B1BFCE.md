@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C71CC1B1BFCE"
 
 # Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas
 
+Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 30-851, i. k. 0991010ISTAIII-1087
+ 
 LIETUVOS RESPUBLIKOS
 ĮSAKOMŲJŲ IR PAPRASTŲJŲ VEKSELIŲ
 Į S T A T Y M A S
@@ -1884,10 +1888,12 @@ Vykdomieji įrašai notarų užprotestuotuose arba neprotestuotinuose vekseliuos
 83 straipsnis. Užprotestuotų vekselių registras
 
 
-Notarai tvarko užprotestuotų dėl neapmokėjimo ar neakceptavimo vekselių viešą registrą. Informaciją apie užprotestuotus dėl neapmokėjimo vekselius (vekselį užprotestavęs notaras, vekselio mokėtojo pavadinimas ar vardas, pavardė, mokėtojo adresas, vekselio suma) notarai kas dvi savaites skelbia „Valstybės žinių“ priede.
+Notarai tvarko užprotestuotų dėl neapmokėjimo ar neakceptavimo vekselių viešą registrą. Informaciją apie užprotestuotus dėl neapmokėjimo vekselius (vekselį užprotestavęs notaras, vekselio mokėtojo pavadinimas ar vardas, pavardė, mokėtojo adresas, vekselio suma) notarai skelbia Lietuvos notarų rūmų interneto svetainėje.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2352, 2012-11-06, Žin., 2012, Nr. 132-6680 (2012-11-15), i. k. 1121010ISTA0XI-2352
  
-
-
 
 
 
@@ -1909,3 +1915,14 @@ Jeigu vekselis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teis�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2352, 2012-11-06, Žin., 2012, Nr. 132-6680 (2012-11-15), i. k. 1121010ISTA0XI-2352
+Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo 83 straipsnio pakeitimo įstatymas
