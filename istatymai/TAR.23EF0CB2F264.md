@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23EF0CB2F264"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymas
 
-Suvestinė redakcija nuo 2012-03-27 iki 2014-01-03
+Suvestinė redakcija nuo 2014-01-04
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2331; Žin. 2001, Nr.65-0, i. k. 1011010ISTA00IX-466
  
@@ -45,11 +45,17 @@ Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA0
 
 1. Fondas yra valstybės išteklių fondas. Fondo lėšas sudaro:
 
-1) Ignalinos AE atskaitymai nuo pajamų, gautų už parduotą elektros energiją;
+1) neteko nuo 2014-01-04;
+Straipsnio punkto pakeitimai:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
 
 2) užsienio šalių, tarptautinių organizacijų bei finansų institucijų ir Lietuvos Respublikos juridinių bei fizinių asmenų savanoriški tiksliniai įnašai;
 
-3) lėšos, gautos pardavus Ignalinos AE eksploatavimo nutraukimo metu realizuojamą turtą;
+3) lėšos, gautos už Ignalinos AE parduotą turtą;
+Straipsnio punkto pakeitimai:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
 
 4) lėšos, gautos už laikinai investuotas Fondo lėšas;
 
@@ -66,37 +72,59 @@ Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010IST
 
 1. Šio įstatymo 3 straipsnio 1 dalyje išvardytos Fondo lėšos kaupiamos atskiroje Lietuvos Respublikos valstybės iždo sąskaitoje (toliau – Fondo sąskaita).
 
-2. Ignalinos AE atskaitymų į Fondo sąskaitą dydį nuo pajamų, gautų už parduotą elektros energiją, tvirtina Vyriausybė.
+2. Neteko nuo 2014-01-04.
+Straipsnio dalies pakeitimai:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
  
 
 5 straipsnis. Fondo lėšų naudojimas
 
-1. Fondo lėšos naudojamos šiems poreikiams finansuoti:
+1. Fondo lėšos, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, naudojamos šiems poreikiams finansuoti:
 
-1) Ignalinos AE eksploatavimo nutraukimo techniniams projektams;
+1) Ignalinos AE eksploatavimo nutraukimo techniniams projektams;
 
-2) Ignalinos AE sustabdytų blokų priežiūrai ir fizinei saugai užtikrinti;
+2) Ignalinos AE sustabdytų blokų priežiūrai ir fizinei saugai užtikrinti;
 
-3) neigiamiems socialiniams ir ekonominiams Ignalinos AE eksploatavimo nutraukimo padariniams Lietuvos Respublikos Ignalinos atominės elektrinės regione sušvelninti;
+3) neigiamiems socialiniams ir ekonominiams Ignalinos AE eksploatavimo nutraukimo padariniams Lietuvos Respublikos Ignalinos atominės elektrinės regione sušvelninti – Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo nuostatoms įgyvendinti, teisės aktų nustatyta tvarka Ignalinos AE regiono gyventojams daliai elektros energijos kainos kompensuoti ir kitoms Vyriausybės patvirtintoms priemonėms;
 
-4) Ignalinos AE radioaktyviosioms atliekoms, įskaitant panaudotą branduolinį kurą, tvarkyti, saugoti, laidoti ir jų kapinynų institucinei priežiūrai vykdyti;
+4) Ignalinos AE radioaktyviosioms atliekoms, įskaitant panaudotą branduolinį kurą, tvarkyti, saugoti, laidoti ir jų kapinynų institucinei priežiūrai vykdyti;
 
-5) branduolinei žalai atlyginti;
+5) branduolinei žalai atlyginti;
 
-6) Fondo administravimo išlaidoms padengti.
+6) Fondo administravimo išlaidoms padengti. 
+
+Straipsnio dalies pakeitimai:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
 
 2. Fondo lėšos Ignalinos AE eksploatavimo nutraukimo programos įgyvendinimo priemonių plane nustatytoms priemonėms finansuoti skiriamos vadovaujantis Lietuvos Respublikos Seimo (toliau – Seimas) patvirtinta atitinkamų metų Fondo lėšų sąmata.
 
-3. Sprendimą dėl Fondo lėšų skyrimo Ignalinos AE eksploatavimo nutraukimo programos įgyvendinimo priemonių plano priemonėms finansuoti priima Fondo valdytojas, atsižvelgdamas į Fondo tarybos rekomendacijas.
+3. Lėšos, gautos už Ignalinos AE parduotą turtą, gali būti naudojamos Ignalinos AE eksploatavimo nutraukimo programos įgyvendinimo priemonių plane nustatytoms Ignalinos AE vykdomoms priemonėms finansuoti ir Fondo administravimo išlaidoms padengti. 
+Papildyta straipsnio dalimi:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
 
-4. Finansų ministerija investuoja laikinai laisvas Fondo lėšas pagal savo patvirtintą tvarką, garantuodama jų, taip pat investavimo metu gautų investavimo pajamų grąžinimą į Fondo sąskaitą.
+4. Sprendimą dėl Fondo lėšų skyrimo Ignalinos AE eksploatavimo nutraukimo programos įgyvendinimo priemonių plano priemonėms finansuoti priima Fondo valdytojas, atsižvelgdamas į Fondo tarybos rekomendacijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
 
-5. Fondo lėšos negali būti naudojamos kitiems tikslams, negu nustatyta šio įstatymo.
+5. Finansų ministerija investuoja laikinai laisvas Fondo lėšas pagal savo patvirtintą tvarką, garantuodama jų, taip pat investavimo metu gautų investavimo pajamų grąžinimą į Fondo sąskaitą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
 
-6. Energetikos ministerija rengia atitinkamų metų Fondo lėšų sąmatos projektą ir teikia jį Vyriausybei. Šį projektą Vyriausybė teikia tvirtinti Seimui.
+6. Fondo lėšos negali būti naudojamos kitiems tikslams, negu nustatyta šio įstatymo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+ 
+
+7. Energetikos ministerija rengia atitinkamų metų Fondo lėšų sąmatos projektą ir teikia jį Vyriausybei. Šį projektą Vyriausybė teikia tvirtinti Seimui.
 Straipsnio dalies pakeitimai:
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
 Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010ISTA0XI-1929
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
  
 
 6 straipsnis. Fondo taryba
@@ -168,4 +196,9 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010ISTA0XI-1929
 Lietuvos Respublikos valstybės įmonės ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 2, 3, 4, 5 straipsnių pakeitimo ir papildymo įstatymas
 
