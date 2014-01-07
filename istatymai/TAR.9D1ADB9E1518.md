@@ -347,8 +347,8 @@ XI-1627,
 Nr. XI-1893,
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
-7
-straipsnis. Gamintojų ir importuotojų teisės ir pareigos
+7 straipsnis. Gamintojų ir importuotojų teisės
+ir pareigos
 1.
 Gamintojų
 ir importuotojų pareigos:
@@ -428,9 +428,9 @@ Nr. XI-1893,
  
 71
 straipsnis. Šio įstatymo 6 ir 7 straipsnių taikymo išimtys
-Gamintojai ir importuotojai, per ataskaitinį
-laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5
-tonos pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos
+Gamintojai ir importuotojai, per ataskaitinį laikotarpį
+Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos
+pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos
 atsiskaityti ir nuo šio įstatymo 7 straipsnio 3 dalyje nustatytos pareigos
 mokėti mokestį už aplinkos teršimą pakuočių atliekomis.
 Įstatymas
@@ -475,8 +475,8 @@ naudojimą, pakartotinį naudojimą ir perdirbimą;
 pakuočių ženklų reikšmes.
 2.
 Aplinkos ministerija savo
-interneto svetainėje turi skelbti Valstybiniame atliekų tvarkymo plane
-nustatytus pakuočių ir pakuočių atliekų tvarkymo reikalavimus ir užduotis.
+interneto svetainėje turi skelbti Valstybiniame atliekų tvarkymo plane nustatytus
+pakuočių ir pakuočių atliekų tvarkymo reikalavimus ir užduotis.
 Įstatymas
 papildytas straipsniu:
 Nr.
@@ -497,8 +497,8 @@ pakeitimai:
 Nr. XI-1893,
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
-10 straipsnis. Kolektyvaus
-pakuočių atliekų tvarkymo organizavimo reikalavimai
+10 straipsnis. Kolektyvaus pakuočių atliekų tvarkymo organizavimo
+reikalavimai
 1. Siekdami kolektyviai
 organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti
 gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti
@@ -513,9 +513,9 @@ veikia, gamintojai ir importuotojai jos veikloje dalyvauja Atliekų tvarkymo
 atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai
 organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos
 dalyviai ar
-sutartiniais pagrindais pavedė ne mažiau kaip 25 procentai visų Lietuvos
-Respublikos vidaus rinkai tiekiamų pakuočių tiekiančių gamintojų ir
-importuotojų.
+sutartiniais pagrindais pavedė ne mažiau kaip 10 procentų visų Lietuvos
+Respublikos vidaus rinkai tiekiamų pakuočių tiekiantys gamintojai ir
+importuotojai.
 4. Siekdama
 įvykdyti šio įstatymo 7 straipsnio 1 dalies 2 punkte gamintojams ir
 importuotojams nustatytą pareigą, organizacija privalo sudaryti sutartis: 
@@ -546,23 +546,23 @@ aplinkos ministro nustatytą tvarką organizacijos išrinktais pakuočių atliek
 surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų
 rūšiuojamojo surinkimo, vežimo, paruošimo naudoti, naudojimo arba su pagal
 aplinkos ministro nustatytą tvarką organizacijos išrinktais pakuočių atliekų
-surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimo,
-vežimo, paruošimo naudoti ir pakuočių atliekų naudotojais (perdirbėjais) ir
-(ar) eksportuotojais dėl surinktų ir paruoštų naudoti pakuočių atliekų
-panaudojimo (taip, kad būtų užtikrintas pakuočių atliekų rūšiuojamasis
-surinkimas, vežimas ir paruošimas naudoti visose Lietuvos Respublikos
-savivaldybėse). Šiose sutartyse turi būti numatyta apmokėjimo už ne komunalinių
-atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį surinkimą, vežimą,
-paruošimą naudoti, naudojimą tvarka, ne komunalinių atliekų sraute susidarančių
-pakuočių atliekų sutvarkymą patvirtinančių dokumentų pateikimo tvarka ir
-sutartinių įsipareigojimų vykdymo kontrolės tvarka.
+surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų
+surinkimo, vežimo, paruošimo naudoti ir pakuočių atliekų naudotojais
+(perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti
+pakuočių atliekų panaudojimo (taip, kad būtų užtikrintas pakuočių atliekų
+rūšiuojamasis surinkimas, vežimas ir paruošimas naudoti visose Lietuvos
+Respublikos savivaldybėse). Šiose sutartyse turi būti numatyta apmokėjimo už ne
+komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį surinkimą,
+vežimą, paruošimą naudoti, naudojimą tvarka, ne komunalinių atliekų sraute
+susidarančių pakuočių atliekų sutvarkymą patvirtinančių dokumentų pateikimo
+tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
 5. Organizacija šio straipsnio 4
-dalies 2 punkte nurodytas išlaidas ir komunalinių atliekų sraute susidarančių pakuočių
-atliekų surinkimo sistemos infrastruktūros plėtrą turi finansuoti proporcingai
-jos dalyvių ir organizuoti pakuočių atliekų tvarkymą sutartiniais pagrindais
-pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės
-įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir
-importuotojų
+dalies 2 punkte nurodytas išlaidas ir komunalinių atliekų sraute susidarančių
+pakuočių atliekų surinkimo sistemos infrastruktūros plėtrą turi finansuoti
+proporcingai jos dalyvių ir organizuoti pakuočių atliekų tvarkymą sutartiniais
+pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri
+Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių
+gamintojų ir importuotojų
 bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus
 rinkai tiektiems gaminiams supakuoti panaudotų pakuočių kiekį.
 6. Siekdama
@@ -604,6 +604,8 @@ Nr. X-286, 2005-06-30,
 Žin., 2005, Nr. 86-3206 (2005-07-16)
 Nr. XI-1893,
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+Nr. XII-714,
+2013-12-19, paskelbta TAR 2014-01-06, i. k. 2014-00038
  
 11 straipsnis. Užstatai už
 pakuotes
@@ -611,9 +613,9 @@ pakuotes
 už kurių pakuotę nustatytas užstatas, privalo imti užstatą ir jį grąžinti
 pardavėjams, kai šie grąžina pakuotes.
 2. Pardavėjai,
-išskyrus šio įstatymo 8 straipsnio 1 dalyje nustatytas išimtis, parduodami gaminius,
-už kurių pakuotę nustatytas užstatas, privalo imti užstatą ir jį grąžinti
-vartotojams ar gaminių naudotojams, kai šie grąžina pakuotes.
+išskyrus šio įstatymo 8 straipsnio 1 dalyje nustatytas išimtis, parduodami
+gaminius, už kurių pakuotę nustatytas užstatas, privalo imti užstatą ir jį
+grąžinti vartotojams ar gaminių naudotojams, kai šie grąžina pakuotes.
 3. Pakartotinio
 naudojimo pakuotė gali būti nepriimama ir užstatas negrąžinamas, jeigu ji
 pažeista ar užteršta tiek, kad nebegali būti naudojama pakartotinai.
@@ -644,8 +646,7 @@ Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS
-ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
  
  
 Lietuvos Respublikos
@@ -790,7 +791,7 @@ papildytas nauju 1 priedu:
 Nr. XII-545,
 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
  
-                                                                                    Lietuvos Respublikos
+                                                                                    Lietuvos Respublikos
                                                                                     pakuočių
 ir pakuočių atliekų
                                                                                     tvarkymo
@@ -826,23 +827,20 @@ Nr. XII-545,
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-X-286,
-2005-06-30, Žin., 2005, Nr. 86-3206 (2005-07-16)
-PAKUOČIŲ
-IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2, 5, 7, 10 STRAIPSNIŲ PAKEITIMO IR
-ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-286, 2005-06-30,
+Žin., 2005, Nr. 86-3206 (2005-07-16)
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ
+TVARKYMO ĮSTATYMO 1, 2, 5, 7, 10 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO
+PRIEDU ĮSTATYMAS
  
 2.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-X-1565,
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-1565,
 2008-06-03, Žin., 2008, Nr. 71-2699 (2008-06-21)
-PAKUOČIŲ
-IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ
+TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 3.
 Lietuvos
@@ -850,23 +848,22 @@ Respublikos Seimas, Įstatymas
 Nr.
 XI-1627,
 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
-PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO
-1, 2, 3, 4, 6, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 4(1),
-4(2), 8(1) STRAIPSNIAIS ĮSTATYMAS
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO
+ĮSTATYMO 1, 2, 3, 4, 6, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO
+4(1), 4(2), 8(1) STRAIPSNIAIS ĮSTATYMAS
 Šio įstatymo 9 straipsnis įsigalioja
 2012 m. sausio 1 d.
  
 4.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XI-1893,
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1893,
 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
-PAKUOČIŲ
-IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2, 6, 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR
-PAPILDYMO BEI ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
-Šio
-įstatymo 3 ir 7 straipsniai įsigalioja 2013 m. sausio 1 d.
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ
+TVARKYMO ĮSTATYMO 2, 6, 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
+ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+Šio įstatymo 3 ir 7 straipsniai
+įsigalioja 2013 m. sausio 1 d.
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -876,11 +873,18 @@ PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO
 ĮSTATYMO 1, 2 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO NAUJU 1
 PRIEDU ĮSTATYMAS
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-714,
+2013-12-19, paskelbta TAR 2014-01-06, i. k. 2014-00038
+LIETUVOS RESPUBLIKOS PAKUOČIŲ IR
+PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-10-21)
+Aušrinė Trapinskienė (2014-01-07)
                  
 ausrine.trapinskiene@lrs.lt
