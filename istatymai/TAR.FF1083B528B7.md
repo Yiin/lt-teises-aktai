@@ -200,18 +200,10 @@ nustatantys specialius saugomų teritorijų apsaugos, projektavimo ir statybų
 šiose teritorijose reikalavimus bei tvarkymo ypatumus ir galiojantys ne ilgiau
 kaip 1 metus.
 35. Saugomų teritorijų
-tipiniai apsaugos reglamentai
-– Vyriausybės patvirtinti kraštovaizdžio tvarkymo zonų, nustatomų rengiant
-saugomų teritorijų tvarkymo planus (planavimo schemas), kraštovaizdžio apsaugos
-naudojimo ir tvarkymo reikalavimai. 
-Dalies
-redakcija nuo 2014-01-01:
-35. Saugomų teritorijų
 tipiniai apsaugos reglamentai – Vyriausybės patvirtinti kraštovaizdžio
 tvarkymo zonų, nustatomų rengiant valstybinių parkų, valstybinių rezervatų ir
 biosferos rezervatų planavimo schemas (ribų ir tvarkymo planus) ir draustinių
 tvarkymo planus, kraštovaizdžio apsaugos, naudojimo ir tvarkymo reikalavimai.
- 
 36. Saugomų teritorijų
 kontrolė – saugomų
 teritorijų apsaugos proceso dalis – kraštovaizdžio ekologinės pusiausvyros,
@@ -223,40 +215,27 @@ priežiūra.
 nuostatai – teisės aktai,
 nustatantys saugomų teritorijų ar jų tipų bendrus apsaugos ir tvarkymo
 ypatumus, valdymo bei veiklos organizavimo principus.
-38. Saugomų teritorijų
-planavimo dokumentai –
-specialieji teritorijų planavimo dokumentai, nustatantys saugomų teritorijų
-sistemą arba jos dalis, saugomų teritorijų ribas, funkcines ir (ar)
-kraštovaizdžio tvarkymo zonas, patikslinantys apribojimus bei nustatantys
-priemones gamtos ir (ar) kultūros paveldo teritoriniams kompleksams ir
-objektams (vertybėms) išsaugoti, atkurti ir racionaliai naudoti, rekreacijai,
-ypač pažintiniam turizmui, organizuoti, taip pat strateginio planavimo
-dokumentai, nustatantys veiksmus bei tvarkymo priemones, jų įgyvendinimo
-eiliškumą, lėšų poreikį ir atsakingas institucijas.
-Dalies
-redakcija nuo 2014-01-01:
 38.
 Saugomų teritorijų planavimo dokumentai
-– saugomų teritorijų specialiojo teritorijų planavimo dokumentai, nustatantys
-saugomų teritorijų sistemą arba jos dalis, saugomų teritorijų ribas, funkcinio
-prioriteto ir (ar) kraštovaizdžio tvarkymo zonas, patikslinantys apribojimus
-bei nustatantys priemones gamtos ir (ar) kultūros paveldo teritoriniams
-kompleksams ir objektams (vertybėms) išsaugoti, atkurti ir racionaliai naudoti,
-rekreacijai, ypač pažintiniam turizmui, organizuoti, gamtos paveldo objektų
-schemos, taip pat strateginio planavimo dokumentai, nustatantys veiksmus bei
-tvarkymo priemones, jų įgyvendinimo eiliškumą, lėšų poreikį ir atsakingas
-institucijas.
- 
+– saugomų teritorijų specialiojo teritorijų planavimo dokumentai,
+nustatantys saugomų teritorijų sistemą arba jos dalis, saugomų teritorijų
+ribas, funkcinio prioriteto ir (ar) kraštovaizdžio tvarkymo zonas,
+patikslinantys apribojimus bei nustatantys priemones gamtos ir (ar) kultūros
+paveldo teritoriniams kompleksams ir objektams (vertybėms) išsaugoti, atkurti
+ir racionaliai naudoti, rekreacijai, ypač pažintiniam turizmui, organizuoti,
+gamtos paveldo objektų schemos, taip pat strateginio planavimo dokumentai,
+nustatantys veiksmus bei tvarkymo priemones, jų įgyvendinimo eiliškumą, lėšų
+poreikį ir atsakingas institucijas.
 39. Saugomų teritorijų
 tvarkymas – veiksmai,
 kuriais siekiama išsaugoti, racionaliai naudoti ir atkurti pažeistus gamtos ir
 kultūros paveldo teritorinius kompleksus bei objektus (vertybes), pritaikyti
 saugomas teritorijas pažintiniam turizmui.
 40. Palanki natūralios buveinės apsaugos būklė
-– būklė, kai natūralus buveinės arealas ir jos užimami plotai tame areale
-nekinta arba didėja, kai yra ir, tikėtina, ateityje neišnyks jos ilgalaikiam
-palaikymui būtina specifinė struktūra ir funkcijos, ir kai šiai buveinei
-būdingų rūšių apsaugos būklė yra palanki.
+– būklė, kai natūralus buveinės arealas ir jos užimami plotai tame areale nekinta
+arba didėja, kai yra ir, tikėtina, ateityje neišnyks jos ilgalaikiam palaikymui
+būtina specifinė struktūra ir funkcijos, ir kai šiai buveinei būdingų rūšių
+apsaugos būklė yra palanki.
 41. Palanki rūšies
 apsaugos būklė – būklė, kai rūšies populiacijos pokyčiai rodo, kad
 populiacija pajėgi ilgą laiką išlikti gyvybinga savo natūralioje buveinėje, o
@@ -328,9 +307,9 @@ pakraščio dalis toje teritorijoje yra nedidelė ir kurioms negresia išnykimas
 kurios nėra pažeidžiamos Vakarų Palearktikos regione) ir kurią Europos bendrija
 priskiria prie prioritetinių kategorijos dėl to, kad didelė jos natūralaus
 arealo dalis patenka į tą teritoriją.
-50. Rūšies buveinė – specifiniais abiotiniais ir
-biotiniais veiksniais pasižyminti aplinka, kurioje rūšis gyvena bet kuriuo savo
-biologinio ciklo etapu.
+50. Rūšies buveinė – specifiniais abiotiniais
+ir biotiniais veiksniais pasižyminti aplinka, kurioje rūšis gyvena bet kuriuo
+savo biologinio ciklo etapu.
 Straipsnio
 pakeitimai:
 Nr. XI-935,
@@ -406,10 +385,10 @@ institucijos.
 3. Apsaugos sutartis dėl veiklos
 apribojimų, konkrečių žemės, miško bei vandens telkinio naudojimo sąlygų su
 žemės, miškų ar vandens telkinių savininkais ir valdytojais, kurių žemė, miškas
-ar vandens telkinys yra saugomoje teritorijoje, gali sudaryti Vyriausybės įgaliotos
-institucijos. Šios sutartys turi būti įregistruotos nekilnojamojo turto
-registre. Jose nustatyti veiklos apribojimai turi atitikti šiame straipsnyje
-nurodytų veiklą saugomose teritorijose reglamentuojančių dokumentų
+ar vandens telkinys yra saugomoje teritorijoje, gali sudaryti Vyriausybės
+įgaliotos institucijos. Šios sutartys turi būti įregistruotos nekilnojamojo
+turto registre. Jose nustatyti veiklos apribojimai turi atitikti šiame
+straipsnyje nurodytų veiklą saugomose teritorijose reglamentuojančių dokumentų
 reikalavimus. Sutarčių sudarymo tvarką ir formas tvirtina Vyriausybė.
  
 TREČIASIS SKIRSNIS
@@ -507,8 +486,8 @@ teritorinius kompleksus (vertybes), vietoves;
 grybų buveines ir rūšis, genetiniu požiūriu vertingas jų populiacijas;
 4) sudaryti sąlygas moksliniams tyrimams;
 5) sudaryti sąlygas pažintiniam turizmui;
-6) propaguoti gamtos ir kultūros paveldo
-teritorinius kompleksus (vertybes), vietoves.
+6) propaguoti gamtos ir kultūros paveldo teritorinius
+kompleksus (vertybes), vietoves.
 2. Pagal saugomų gamtos ir kultūros paveldo teritorinių kompleksų
 (vertybių) pobūdį draustiniai skirstomi į:
 1) gamtinius;
@@ -542,10 +521,9 @@ ekosistemoms saugoti.
 4. Kultūriniai draustiniai yra:
 1) archeologiniai – vietovėms, kurių teritorijos savitumą lemia
 archeologinių objektų sankaupos ar kompleksai, saugoti;
-2) istoriniai – vietovėms, susijusioms su istoriniais įvykiais,
-istoriškai reikšmingomis išlikusiomis ar sunykusiomis gyvenvietėmis, žymiais
-asmenimis ar jų veikla, taip pat tokių vietų sankaupa pasižyminčioms
-teritorijoms saugoti;
+2) istoriniai – vietovėms, susijusioms su istoriniais įvykiais, istoriškai
+reikšmingomis išlikusiomis ar sunykusiomis gyvenvietėmis, žymiais asmenimis ar
+jų veikla, taip pat tokių vietų sankaupa pasižyminčioms teritorijoms saugoti;
 3) etnokultūriniai – vietovėms, kuriose yra tradicinės
 architektūros ar kitais etnokultūriniais ypatumais išsiskiriančių gyvenviečių
 ar jų dalių, sakralinėms ir ritualinėms vietovėms, mitais, legendomis ir
@@ -555,8 +533,8 @@ saugoti;
 išsiskiriančioms istorinėms miestų dalims, miesteliams, vietovėms, kuriose yra
 architektūriškai vertingų pastatų ir statinių ansamblių ar kompleksų, saugoti.
 5. Kompleksiniai draustiniai yra:
-1) kraštovaizdžio – vertingo gamtinio ir (ar) kultūrinio
-kraštovaizdžio vietovėms saugoti;
+1) kraštovaizdžio – vertingo gamtinio ir (ar) kultūrinio kraštovaizdžio
+vietovėms saugoti;
 2) kartografiniai – ypatingas geografines koordinates turinčioms
 vietovėms saugoti.
 6. Pagal steigimo ir veiklos organizavimo ypatumus skiriami:
@@ -569,9 +547,9 @@ stebėsenos (monitoringo) teritorijose.
 Veiklos draustiniuose reglamentavimas
 1. Draustinių apsaugos ir tvarkymo ypatumus nustato šis Įstatymas,
 Vyriausybės patvirtinti Draustinių nuostatai, kiti šio Įstatymo 5 straipsnyje
-nurodyti veiklos saugomose teritorijose reglamentavimo dokumentai. Draustiniuose
-neleidžiama veikla, galinti pakenkti saugomiems kompleksams bei objektams
-(vertybėms).
+nurodyti veiklos saugomose teritorijose reglamentavimo dokumentai.
+Draustiniuose neleidžiama veikla, galinti pakenkti saugomiems kompleksams bei
+objektams (vertybėms).
 2. Gamtiniuose ir kompleksiniuose draustiniuose draudžiama:
 1) naikinti ar žaloti reljefo formas bei
 saugomus objektus;
@@ -601,22 +579,10 @@ naudmenas pelkes ir jų apypelkius;
 nesusijusius statinius, išskyrus pastatus esamose ir buvusiose sodybose (kai
 yra išlikę buvusių statinių ir (ar) sodų liekanų arba kai sodybos yra pažymėtos
 vietovės ar kituose planuose, taip pat nustatant juridinį faktą), taip pat
-vietas, nustatytas draustinių tvarkymo planuose ar projektuose ir bendrojo
-planavimo dokumentuose, statyti pastatus
-ar didinti jų tūrius šlaituose, kurių nuolydis
-didesnis kaip 15 laipsnių, taip pat arčiau kaip 50 metrų nuo šių šlaitų
-viršutinės bei apatinės briaunos;
-Punkto
-redakcija nuo 2014-01-01:
-8) statyti su draustinio steigimo tikslais
-nesusijusius statinius, išskyrus pastatus esamose ir buvusiose sodybose (kai
-yra išlikę buvusių statinių ir (ar) sodų liekanų arba kai sodybos yra pažymėtos
-vietovės ar kituose planuose, taip pat nustatant juridinį faktą), taip pat
 vietas, nustatytas draustinių tvarkymo planuose ir (ar) bendruosiuose planuose,
 statyti pastatus ar didinti jų tūrius šlaituose, kurių nuolydis didesnis kaip
 15 laipsnių, taip pat arčiau kaip 50 metrų nuo šių šlaitų viršutinės bei
 apatinės briaunos;
- 
 9) sodinti želdinius, užstojančius
 istorinę, kultūrinę bei estetinę vertę turinčias panoramas;
 10) įrengti išorinę reklamą, išskyrus miestų ir miestelių teritorijas, nesusijusią
@@ -631,12 +597,13 @@ pakenkti saugomiems kompleksams bei objektams (vertybėms).
 kompleksus ir objektus (vertybes), naikinti jų autentiškumą;
 2) iš esmės pakeisti kultūros paveldo objektų aplinką, mažinant
 kultūros paveldo objektų vertę.
-4. Leistinas ir rekomenduojamas
-statinių formas, dydžius, teritorijos užstatymo procentą, atstumus nuo vandens
-telkinių ir šlaitų nustato saugomų teritorijų apsaugos reglamentai ir (ar)
-statybų saugomose teritorijose regioniniai architektūriniai reglamentai. Juose
-gali būti sugriežtinti šio straipsnio 2 ir 3 dalyse
-išvardyti reikalavimai bei nustatyti papildomi reikalavimai.
+4. Leistinas ir
+rekomenduojamas statinių formas, dydžius, teritorijos užstatymo procentą,
+atstumus nuo vandens telkinių ir šlaitų nustato saugomų teritorijų apsaugos
+reglamentai ir (ar) statybų saugomose teritorijose regioniniai architektūriniai
+reglamentai. Juose gali būti sugriežtinti šio
+straipsnio 2 ir 3 dalyse išvardyti reikalavimai bei nustatyti papildomi
+reikalavimai.
 5. Draustiniuose skatinama veikla, puoselėjanti, išryškinanti ir
 propaguojanti saugomus kompleksus ar objektus (vertybes), atkurianti
 tradicinius gamtinės ar kultūrinės aplinkos elementus, taip pat pažintinis
@@ -644,17 +611,6 @@ turizmas.
 6. Draustiniuose, kuriuos steigiant buvo numatyta atkurti
 pažeistus kraštovaizdžio kompleksus ar jų dalis, išskiriami atkuriamieji
 sklypai.
-7. Valstybiniams ir savivaldybių draustiniams, taip pat valstybiniuose
-parkuose ir biosferos stebėsenos (monitoringo) teritorijose esantiems
-draustiniams taikomas šiame straipsnyje nustatytas veiklos reglamentavimas.
-Atsižvelgiant į draustiniuose saugomų kompleksų ir objektų (vertybių) ypatumus,
-draustinių nuostatai, apsaugos reglamentai, kiti šio Įstatymo 5 straipsnyje
-nurodyti veiklą saugomose teritorijose reglamentuojantys dokumentai, taip pat
-draustinių tvarkymo planai ir projektai gali papildomai riboti kraštovaizdžio
-tvarkymą, gamtos išteklių naudojimą, statinių statybą, teritorijos lankymą ir
-kita.
-Dalies
-redakcija nuo 2014-01-01:
 7.
 Valstybiniams ir savivaldybių draustiniams, taip pat valstybiniuose parkuose ir
 biosferos stebėsenos (monitoringo) teritorijose esantiems draustiniams taikomas
@@ -706,9 +662,9 @@ turintys parkai ir skverai;
 kitos gyvūnų veiklos retenybės.
 4. Kultūros paveldo objektai (nekilnojamosios kultūros
 vertybės) yra:
-1) archeologiniai – piliakalniai, kiti senovės gynybiniai įtvirtinimai
-ar jų liekanos, senovės gyvenimo, gavybos, gamybos ir laidojimo vietos,
-žemgrindos, kūlgrindos ir kitos senovės kelių liekanos, hidrotechniniai
+1) archeologiniai – piliakalniai, kiti senovės gynybiniai
+įtvirtinimai ar jų liekanos, senovės gyvenimo, gavybos, gamybos ir laidojimo
+vietos, žemgrindos, kūlgrindos ir kitos senovės kelių liekanos, hidrotechniniai
 įrenginiai, kiti archeologiniai objektai ar vietos;
 2) mitologiniai (sakraliniai) / istoriniai / memorialiniai –
 alkais vadinamos ir kitos senovės kulto vietos, akmenys su senovės žmogaus
@@ -753,8 +709,8 @@ eksponavimu, naudojimu ar tvarkymu;
 3) statyti statinius, nesusijusius su
 paveldo objektų eksponavimu ar tvarkymu.
 4.
-Gamtos paveldo objektų teritorijose draudžiama
-auginti ir dauginti genetiškai modifikuotus organizmus, augalus ir jų sėklas.
+Gamtos paveldo objektų teritorijose draudžiama auginti
+ir dauginti genetiškai modifikuotus organizmus, augalus ir jų sėklas.
 Šis draudimas taikomas ir teritorijose, esančiose 5 km atstumu
 aplink paveldo objektų teritorijas.
 Straipsnio
@@ -797,17 +753,8 @@ istoriniai nacionaliniai parkai;
 teritorijos, įsteigtos gamtiniu, kultūriniu ir rekreaciniu požiūriais
 regioninės svarbos kraštovaizdžiui ir ekosistemoms saugoti, jų rekreaciniam bei
 ūkiniam naudojimui reglamentuoti. Istoriškai vertingiausiems regioniniams
-kultūriniams kompleksams bei jų gamtinei aplinkai išsaugoti steigiami
-istoriniai regioniniai parkai.
-3. Valstybinių parkų ir jų zonų ribų planuose išskiriamos šios
-funkcinio prioriteto zonos: konservacinio (rezervatai ir draustiniai),
-ekologinės apsaugos, rekreacinio bei ūkinio prioriteto ir kitos paskirties
-zonos. Valstybinių parkų tvarkymo planuose (planavimo schemose) išskiriamos
-kraštovaizdžio tvarkymo zonos, kuriose reguliuojamas teritorijos naudojimas ir
-apsauga. Jos nustatomos pagal tipinius
-apsaugos reglamentus.
-Dalies
-redakcija nuo 2014-01-01:
+kultūriniams kompleksams bei jų gamtinei aplinkai išsaugoti steigiami istoriniai
+regioniniai parkai.
 3.
 Valstybinių parkų planavimo schemose (ribų ir tvarkymo planuose) išskiriamos
 šios funkcinio prioriteto zonos: konservacinio (rezervatai ir draustiniai),
@@ -834,14 +781,14 @@ integruotos prevencijos ir kontrolės leidimai, aerodromus, vėjo jėgaines,
 išskyrus atstatomus vėjo malūnus, tiesti antžeminius tranzitinius
 inžinerinius tinklus, keisti reljefo formas, hidrografinio tinklo natūralius
 elementus, naikinti ir keisti istoriškai susiformavusio kultūrinio
-kraštovaizdžio pobūdžio, urbanistinių ir architektūrinių jo elementų bei kitų
-saugomų kompleksų ir objektų (vertybių) vertės požymius, įrengti naujus
-gręžinius naftos ir dujų žvalgybai bei gavybai, naudingųjų iškasenų šachtas,
-karjerus, išskyrus valstybinio parko žemės ūkio funkcinio prioriteto zonoje,
-suderinus su valstybinio parko direkcija Vyriausybės ar jos įgaliotų
-institucijų nustatyta tvarka, įrengiamą ne daugiau kaip vieną iki 0,2 ha
-ploto smėlio ar žvyro mažąjį karjerą, skirtą žemės savininko ar naudotojo žemės
-sklype esančių naudingųjų iškasenų naudojimui savo ūkio reikmėms;
+kraštovaizdžio pobūdžio, urbanistinių ir architektūrinių jo elementų bei kitų saugomų
+kompleksų ir objektų (vertybių) vertės požymius, įrengti naujus gręžinius
+naftos ir dujų žvalgybai bei gavybai, naudingųjų iškasenų šachtas, karjerus, išskyrus
+valstybinio parko žemės ūkio funkcinio prioriteto zonoje, suderinus su
+valstybinio parko direkcija Vyriausybės ar jos įgaliotų institucijų nustatyta
+tvarka, įrengiamą ne daugiau kaip vieną iki 0,2 ha ploto smėlio ar žvyro mažąjį
+karjerą, skirtą žemės savininko ar naudotojo žemės sklype esančių naudingųjų
+iškasenų naudojimui savo ūkio reikmėms;
 2) mechaniškai ardyti natūralių pelkių
 augalinę dangą, kasti jose durpes, taip pat sausinti ir keisti į žemės ūkio
 naudmenas bei vandenis aukštapelkes, tarpinio tipo pelkes ir jų apypelkius bei
@@ -852,20 +799,15 @@ keisti jų vagas ir natūralų ežerų vandens lygį. Atstatyti buvusias užtvan
 kitus hidrotechninius statinius, tvirtinti krantus, valyti vagas, įrengti
 dirbtinius vandens telkinius, atlikti kitus darbus galima tik tais atvejais,
 kai tai reikalinga draustinyje esantiems kultūros paveldo objektams
-(nekilnojamosioms kultūros vertybėms) atkurti bei tvarkyti ir vykdant prevencines
-priemones miestuose, miesteliuose ir kaimuose stichinėms nelaimėms išvengti;
-4) statyti statinius valstybinių parkų
-tvarkymo planuose (planavimo schemose) ir bendrojo planavimo dokumentuose
-nenustatytose vietose;
-Punkto
-redakcija nuo 2014-01-01:
+(nekilnojamosioms kultūros vertybėms) atkurti bei tvarkyti ir vykdant
+prevencines priemones miestuose, miesteliuose ir kaimuose stichinėms nelaimėms
+išvengti;
 4) statyti statinius valstybinių parkų
 planavimo schemose (ribų ir tvarkymo planuose) ir (ar) bendruosiuose planuose
 nenustatytose vietose, išskyrus pastatus
 esamose ir buvusiose sodybose (kai yra išlikę buvusių statinių ir (ar) sodų
 liekanų arba kai sodybos yra pažymėtos vietovės ar kituose planuose, taip pat
 nustatant juridinį faktą);
- 
 5) statyti naujus gyvenamuosius namus, ūkininko ūkio
 ir kitus pastatus ar didinti jų tūrius šlaituose,
 kurių nuolydis didesnis kaip 15 laipsnių, taip pat arčiau kaip 50 metrų nuo šių
@@ -876,37 +818,20 @@ kultūrinę bei estetinę vertę turinčias panoramas;
 išorinę reklamą, išskyrus miestų ir miestelių teritorijas, nesusijusią su
 valstybiniuose parkuose saugomais kompleksais ir objektais (vertybėmis);
 7) auginti ir dauginti genetiškai
-modifikuotus organizmus, augalus ir jų sėklas. Šis draudimas taikomas ir
-teritorijose, esančiose 5 km atstumu aplink valstybinius parkus.
-3. Statiniai valstybiniuose parkuose projektuojami, statomi ar
-rekonstruojami vadovaujantis teisės aktais, valstybinių parkų tvarkymo planų
-(planavimo schemų) sprendiniais, atsižvelgiant į miestelių ir kaimų
-architektūros, kraštovaizdžio ypatumus, paveldo objektų apsaugos reikalavimus.
-Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo
-procentą, atstumus nuo vandens telkinių ir šlaitų nustato valstybinių parkų
-individualūs apsaugos reglamentai ir (ar) statybų saugomose teritorijose
-regioniniai architektūriniai reglamentai. Juose gali būti sugriežtinti šio
-straipsnio 2 dalyje išvardyti reikalavimai bei nustatyti papildomi
-reikalavimai.
-4. Valstybiniuose parkuose esantys miestai ir miesteliai tvarkomi
-pagal parengtus ir patvirtintus jų bendruosius bei detaliuosius planus, kurių
-sprendiniai neprieštarauja valstybinių parkų tvarkymo planų (planavimo schemų)
-sprendiniams.
-3 ir 4 dalių
-redakcija nuo 2014-01-01:
+modifikuotus organizmus, augalus ir jų sėklas. Šis draudimas taikomas ir teritorijose,
+esančiose 5 km atstumu aplink valstybinius parkus.
 3. Statiniai valstybiniuose parkuose projektuojami, statomi ar
 rekonstruojami vadovaujantis teisės aktais, valstybinių parkų planavimo schemų
 (ribų ir tvarkymo planų) sprendiniais, atsižvelgiant į miestelių ir kaimų
 architektūros, kraštovaizdžio ypatumus, paveldo objektų apsaugos reikalavimus.
 Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo
-tankį, atstumus nuo vandens telkinių ir šlaitų nustato valstybinių parkų
-individualūs apsaugos reglamentai. Juose gali būti sugriežtinti šio straipsnio
-2 dalyje nurodyti reikalavimai ir nustatyti papildomi reikalavimai.
+tankį, atstumus nuo vandens telkinių ir šlaitų nustato valstybinių parkų individualūs
+apsaugos reglamentai. Juose gali būti sugriežtinti šio straipsnio 2 dalyje
+nurodyti reikalavimai ir nustatyti papildomi reikalavimai.
 4. Valstybiniuose parkuose esantys miestai
 ir miesteliai tvarkomi pagal parengtus ir patvirtintus valstybinių parkų planavimo schemų (ribų ir tvarkymo
 planų) ir (ar) kompleksinio
 teritorijų planavimo dokumentų sprendinius.
- 
 5. Valstybiniuose parkuose skatinama veikla, puoselėjanti,
 išryškinanti ir propaguojanti saugomus kraštovaizdžio kompleksus ar objektus
 (vertybes) bei atkurianti tradicinius gamtinės ar kultūrinės aplinkos
@@ -942,15 +867,6 @@ kompleksuose bei juos supančiose teritorijose;
 2) biosferos poligonai – steigiami vykdyti nacionalinę
 ir regioninę aplinkos stebėseną (monitoringą) ypatingą geoekologinę svarbą
 turinčiose teritorijose.
-3. Biosferos rezervatų ir jų zonų ribų planuose
-išskiriamos šios funkcinio prioriteto zonos: konservacinio (gamtiniai
-rezervatai ir draustiniai) ir ekologinės apsaugos prioritetų, taip pat
-eksperimentų, ekosistemų atkūrimo ir šiai teritorijai būdingos ūkinės veiklos
-zonos. Biosferos poligonuose taip pat gali būti išskirtos įvairios funkcinės
-paskirties zonos. Biosferos rezervatų ir jų zonų ribų planus tvirtina Vyriausybė,
-biosferos poligonų – Vyriausybės įgaliota institucija.
-Dalies
-redakcija nuo 2014-01-01:
 3.
 Biosferos rezervatų planavimo schemose (ribų ir
 tvarkymo planuose) išskiriamos šios funkcinio prioriteto zonos:
@@ -1013,8 +929,8 @@ Nr. XI-1993,
  
 18 straipsnis. Ekologinės apsaugos zonos
 1. Ekologinės apsaugos zonų nustatymo tikslai:
-1) užtikrinti bendrąją ekologinę kraštovaizdžio
-pusiausvyrą;
+1) užtikrinti bendrąją ekologinę
+kraštovaizdžio pusiausvyrą;
 2) išsaugoti saugomų bei geoekologiškai
 svarbių gamtinio ir kultūrinio kraštovaizdžio kompleksų ar objektų (vertybių)
 aplinką, izoliuoti juos nuo neigiamo veiklos poveikio;
@@ -1031,9 +947,9 @@ ir valstybinių draustinių, paveldo objektų buferinės apsaugos zonos;
 pagrindo punktų, elektros linijų, dujotiekių ir naftotiekių, ryšių linijų bei
 kitų infrastruktūros objektų fizinės apsaugos zonos;
 4) vizualinės (regimosios) apsaugos – paveldo objektų,
-astronomijos observatorijų, aerodromų bei kitų infrastruktūros objektų vizualinės
-(regimosios) apsaugos zonos; tai plotai, kuriuose aplinkos keitimas gali
-pakenkti šių objektų aplinkai ar trukdyti juos apžvelgti;
+astronomijos observatorijų, aerodromų bei kitų infrastruktūros objektų
+vizualinės (regimosios) apsaugos zonos; tai plotai, kuriuose aplinkos keitimas
+gali pakenkti šių objektų aplinkai ar trukdyti juos apžvelgti;
 5) sanitarinės apsaugos – gamybinių ir komunalinių objektų, žemės
 ūkio įmonių bei kitų ūkio ir infrastruktūros objektų sanitarinės apsaugos
 zonos;
@@ -1047,16 +963,11 @@ jose gali būti išskiriami tokie pazoniai.
 4. Ūkio ir infrastruktūros objektų apsaugos zonų rūšių nustatymo
 tvarką ir jų apsaugos bei naudojimo režimą nustato įstatymai ir kiti teisės
 aktai, reglamentuojantys šių objektų priežiūrą ir naudojimą.
-5. Ekologinės apsaugos zonos ir jų ribos nustatomos Vyriausybės
-įgaliotos institucijos nustatyta tvarka parengtuose specialiuosiuose ir
-bendruosiuose teritorijų planavimo dokumentuose.
-Dalies
-redakcija nuo 2014-01-01:
 5. Ekologinės apsaugos zonos nustatomos atitinkamo lygmens
 teritorijų planavimo dokumentuose arba kituose dokumentuose šio Įstatymo, Žemės
-įstatymo, Visuomenės sveikatos priežiūros įstatymo, Nekilnojamojo kultūros paveldo
-apsaugos įstatymo, Statybos įstatymo, Pajūrio juostos įstatymo nustatyta
-tvarka.
+įstatymo, Visuomenės sveikatos priežiūros įstatymo, Nekilnojamojo kultūros
+paveldo apsaugos įstatymo, Statybos įstatymo, Pajūrio juostos įstatymo
+nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr. XII-413,
@@ -1071,15 +982,10 @@ o valstybiniams draustiniams gali būti nustatomos buferinės apsaugos zonos.
 Valstybiniuose rezervatuose, valstybiniuose parkuose esančiuose rezervatuose,
 taip pat draustiniuose esantiems paveldo objektams buferinės apsaugos zonos
 nenustatomos.
-2. Buferinės apsaugos zonos nustatomos tvirtinant
-saugomų teritorijų specialiojo planavimo dokumentus (ribų planus).
-Dalies
-redakcija nuo 2014-01-01:
 2. Buferinės apsaugos zonos nustatomos
-tvirtinant valstybinių rezervatų, biosferos rezervatų ir valstybinių parkų planavimo
-schemas (ribų ir tvarkymo planus), valstybinių draustinių ribų planus, gamtos
-paveldo objektų schemas.
- 
+tvirtinant valstybinių rezervatų, biosferos rezervatų ir valstybinių parkų
+planavimo schemas (ribų ir tvarkymo planus), valstybinių draustinių ribų
+planus, gamtos paveldo objektų schemas.
 3. Gamtinių rezervatų buferinėse apsaugos zonose
 draudžiama:
 1) įrengti naujus naudingųjų iškasenų karjerus;
@@ -1160,8 +1066,8 @@ vietovės ar kituose planuose, taip pat nustatant juridinį faktą), išskyrus
 atvejus, numatytus teritorijų planavimo dokumentuose;
 5) statyti vagonėlius paežerėse, paupiuose, miškuose,
 kitose vietose;
-6) auginti ir dauginti genetiškai
-modifikuotus organizmus, augalus ir jų sėklas.
+6) auginti ir dauginti genetiškai modifikuotus
+organizmus, augalus ir jų sėklas.
 4. Pakrantės apsaugos juostoje draudžiama:
 1) tverti tvoras, išskyrus atvejus, kai
 aptverti numatyta normatyviniuose dokumentuose dėl eksploatavimo saugumo;
@@ -1176,21 +1082,11 @@ statyti tik hidrotechninius statinius, vandens paėmimo ir išleidimo į vandens
 telkinius įrenginius, vandenvietes, tiltus, prieplaukas, rekreacinėse zonose – 
 paplūdimių įrangą, jachtų ir valčių elingus, kitus rekreacinius įrenginius,
 draustiniuose – su draustinio steigimo tikslais susijusius statinius.
-6. Esamose sodybose už pakrantės apsaugos juostos ribų, teritorijų
-planavimo dokumentuose numatytose vietose, gali būti
-statoma tik po vieną ne didesnio kaip 25 kvadratinių metrų bendrojo ploto su
-priklausiniais ir ne aukštesnę kaip 4 metrų (aukštis skaičiuojamas nuo
-užstatomo sodybos ploto žemės paviršiaus vidurkio)
-asmeninio naudojimo pirtį be rūsio. Kitų statinių dydžiai nustatomi apsaugos
-reglamentuose.
-Dalies
-redakcija nuo 2014-01-01:
 6. Sodybose už pakrantės apsaugos juostos
 ribų gali būti statoma tik po vieną ne didesnio kaip 25 kvadratinių metrų
 bendrojo ploto ir ne aukštesnę kaip 4,5 metro (aukštis skaičiuojamas nuo statiniu
 užstatomo ploto žemės paviršiaus vidutinės altitudės iki pastato stogo kraigo)
 asmeninio naudojimo pirtį be rūsio.
- 
 7. Veiklą kitose šio Įstatymo 18 straipsnyje išvardytose
 ekologinės apsaugos zonose reglamentuoja teisės aktai, pagal kuriuos jos buvo
 nustatytos.
@@ -1242,17 +1138,12 @@ teritorijos kompensuoja neigiamą ekologinę įtaką gamtinėms geosistemoms;
 3) migraciniai koridoriai – slėniai, raguvynai bei dubakloniai,
 kitos teritorijos, kuriomis vyksta intensyvi medžiagų, energijos ir gamtinės
 informacijos srautų apykaita ir augalų bei gyvūnų rūšių migracija.
-3. Pagal svarbą gali būti skiriamos europinės, nacionalinės,
-regioninės ir vietinės reikšmės gamtinio karkaso dalys.
-Dalies
-redakcija nuo 2014-01-01:
 3. Pagal svarbą gali būti skiriamas europinės, nacionalinės,
 regioninės ir vietinės reikšmės gamtinis karkasas, nustatomas teritorijų
 planavimo dokumentuose Vyriausybės įgaliotos institucijos patvirtintų Gamtinio
 karkaso nuostatų nustatyta tvarka. Aukštesnio lygmens teritorijų planavimo
 dokumentuose nustatytas gamtinis karkasas detalizuojamas žemesnio lygmens
 teritorijų planavimo dokumentuose.
- 
 4.
 Biologinės įvairovės apsaugai gamtinio karkaso teritorijose gali būti
 išskiriamas ekologinis tinklas, jungiantis didžiausią bioekologinę svarbą
@@ -1263,11 +1154,8 @@ kurie būtų svarbūs laukinei faunai ir florai. Prie tokių svarbių kraštovai
 elementų priskiriami tie, kurie dėl savo linijinės ar tęstinės struktūros ar
 dėl savo jungiamosios funkcijos yra būtini laukinių rūšių migracijai, plitimui
 ir genetiniams mainams.
-5. Gamtinis karkasas ir į jo sudėtį įeinantys ekologiniai tinklai
-nustatomi tvirtinant bendrojo arba specialiojo teritorijų planavimo dokumentus.
-Patvirtintomis gamtinio karkaso bei ekologinių tinklų ribomis ir teisės aktų
-nustatytais veiklos apribojimais privaloma vadovautis rengiant miškotvarkos ir
-žemėtvarkos projektus, kitus specialiuosius ir detaliuosius planus.
+5. Neteko
+galios nuo 2014-01-01.
 6. Gamtiniame karkase (įskaitant Europos ekologinio tinklo „Natura
 2000“ teritorijas) esančiuose rezervatuose, draustiniuose, valstybiniuose
 parkuose, biosferos stebėsenos (monitoringo) teritorijose, ekologinės apsaugos
@@ -1279,8 +1167,6 @@ statyti pramonės įmones, kurioms reikalingi taršos integruotos prevencijos ir
 kontrolės leidimai, ir gyvenamuosius kvartalus. Leidžiama tokia veikla, kuri
 užtikrina kraštovaizdžio ekologinę pusiausvyrą ir ekosistemų stabilumą, atkuria
 pažeistas ekosistemas, yra vykdoma pagal teritorijų planavimo dokumentus.
-5 dalis
-netenka galios nuo 2014-01-01.
 Straipsnio
 pakeitimai:
 Nr. XI-935,
@@ -1292,74 +1178,8 @@ SEPTINTASIS SKIRSNIS
 SAUGOMŲ TERITORIJŲ STEIGIMAS, APSkaita, apsauga IR
 TVARKYMAS
  
-23 straipsnis. Saugomų teritorijų
-steigimas ir ribų nustatymas
-1. Valstybinius rezervatus
-bei valstybinius parkus steigia ir jų statusą keičia, valstybinių rezervatų ir
-nacionalinių parkų ribas nustato ir keičia Seimas Vyriausybės teikimu.
-Steigiant regioninius parkus, Seimui pateikiami regioninių parkų ribų planų
-projektai.
-2. Rezervatines
-apyrubes, valstybinius draustinius, biosferos rezervatus steigia ir šių saugomų
-teritorijų tipus keičia, jų ribas nustato ir keičia, taip pat regioninių parkų
-ribas nustato ir keičia Vyriausybė savo įgaliotos institucijos teikimu.
-3. Gamtos paveldo objektus (saugomus gamtinio kraštovaizdžio
-objektus) saugomais skelbia Vyriausybės įgaliota institucija. Jų teritorijos
-nustatomos skelbiant juos saugomais ir tvirtinant jų ribų planus.
-4. Kultūros paveldo objektai (nekilnojamosios kultūros vertybės)
-skelbiami saugomais ir jų teritorijos nustatomos Nekilnojamųjų kultūros
-vertybių apsaugos įstatymo nustatyta tvarka.
-5. Biosferos poligonus, atkuriamuosius ir genetinius sklypus bei
-ekologinės apsaugos zonas nustato Vyriausybės įgaliotos institucijos. Jų
-veiksmus nustatant ekologinės apsaugos zonas koordinuoja Aplinkos ministerija.
-6. Savivaldybių tarybos Vyriausybės nustatyta tvarka gali steigti
-savivaldybių draustinius, skelbti savivaldybių paveldo objektus.
-7. Nevalstybinės organizacijos, fiziniai ar juridiniai asmenys
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali inicijuoti
-draustinių ir rezervatų įsteigimą, paveldo objektų paskelbimą bei įstatymų
-nustatyta tvarka organizuoti saugomų teritorijų, esančių jiems priklausančioje
-ar jų naudojamoje žemėje, tvarkymą.
-8. Saugomų teritorijų steigimo kriterijus nustato Vyriausybė arba
-jos įgaliota institucija.
-9. Pasiūlymai steigti rezervatus, valstybinius parkus,
-valstybinius draustinius ir biosferos stebėsenos (monitoringo) teritorijas turi
-atitikti nustatytus kriterijus, būti pagrįsti moksliniais tyrimais, kurių
-pagrindu parengiamas saugomos teritorijos ribų planas, kiti specialiojo
-planavimo dokumentai.
-10. Prieš steigiant rezervatus, valstybinius parkus, valstybinius
-draustinius ir biosferos stebėsenos (monitoringo) teritorijas, įvertinami
-visuomenės poreikiai, atliekamas ekonominis vertinimas, numatomos reikalingos
-nutraukti veiklos (jeigu tai būtina) kompensavimo, žemės išpirkimo, pažeistų
-teritorijų atkūrimo išlaidos bei saugomos teritorijos steigimo ir išlaikymo
-finansavimo šaltiniai. Jei apsaugos negali užtikrinti teisės aktai ar tipiniai
-reglamentai, steigiamo rezervato, valstybinio parko, draustinio ir biosferos
-monitoringo teritorijos ribų plane gali būti nurodyti papildomi reglamentai,
-nustatantys galimas arba ribojamas (draudžiamas) veiklos rūšis, statinių tipus,
-aukštį bei medžiagas, užstatymo tankumą, linijas ar vietas.
-11. Vietovės saugomoms teritorijoms steigti gali būti
-rezervuojamos, paveldo objektų sąrašai sudaromi pagal parengtus teritorijų
-planavimo dokumentus (šalies, apskričių, savivaldybių bendruosius planus,
-saugomų teritorijų tinklų schemas ir kt.), taip pat remiantis mokslinių tyrimų
-nustatytais gamtinių ir kultūrinių kompleksų bei objektų (vertybių) vertės
-požymiais Vyriausybės nustatyta tvarka atlikus ekonominį vertinimą. Laikinais
-reglamentais jose gali būti apribojama arba uždraudžiama veikla, galinti
-sumenkinti nustatytus vertės požymius, kol bus išspręstas saugomų teritorijų
-įsteigimo ar paveldo objektų paskelbimo klausimas.
-12. Apie saugomų teritorijų steigimą ir su tuo susijusius veiklos
-apribojimus žemės savininkai, valdytojai ir naudotojai Teritorijų planavimo
-įstatyme nustatyta teritorijų planavimo dokumentų derinimo ir svarstymo su
-visuomene tvarka informuojami rengiant šių teritorijų ribų planus. Saugomų
-teritorijų ribų planų rengimo tvarką pagal Teritorijų planavimo įstatymą
-nustato Vyriausybės įgaliota institucija.
-13. Kai nustatytiems gamtos ar kultūros paveldo teritoriniams
-kompleksams ir objektams (vertybėms) gresia išnykimas, sunaikinimas arba vertės
-praradimas, valstybinius rezervatus ir valstybinius parkus steigia Seimas,
-valstybinius draustinius, biosferos stebėsenos (monitoringo) teritorijas
-steigia, paveldo objektus skelbia saugomais Vyriausybė savo nustatyta tvarka.
-Straipsnio
-redakcija nuo 2014-01-01:
-23 straipsnis. Saugomų teritorijų
-steigimas ir jų ribų nustatymas
+23
+straipsnis. Saugomų teritorijų steigimas ir jų ribų nustatymas
 1. Valstybinius rezervatus, biosferos
 rezervatus ir valstybinius parkus steigia, jų ribas nustato ir keičia
 Vyriausybė, tvirtindama šių saugomų teritorijų planavimo schemas (ribų ir
@@ -1374,11 +1194,10 @@ teritorijų ribų planus.
 4. Gamtos paveldo objektus (saugomus gamtinio
 kraštovaizdžio objektus) saugomais objektais skelbia Vyriausybės įgaliota
 institucija, tvirtindama šių objektų schemas.
-5. Savivaldybių draustinius Vyriausybės
-nustatyta tvarka steigia savivaldybių tarybos, tvirtindamos savivaldybių
-draustinių ribų planus, o savivaldybės saugomais objektais savivaldybių gamtos
-paveldo objektus savivaldybių tarybos skelbia, tvirtindamos šių objektų
-schemas.
+5. Savivaldybių draustinius Vyriausybės nustatyta
+tvarka steigia savivaldybių tarybos, tvirtindamos savivaldybių draustinių ribų
+planus, o savivaldybės saugomais objektais savivaldybių gamtos paveldo objektus
+savivaldybių tarybos skelbia, tvirtindamos šių objektų schemas.
 6. Šio straipsnio 1, 2, 3, 4 ir 5 dalyse
 nurodytų saugomų teritorijų steigimo kriterijus nustato Vyriausybė arba jos
 įgaliota institucija.
@@ -1388,9 +1207,9 @@ apsaugos zonos nustatomos Nekilnojamojo kultūros paveldo apsaugos įstatymo
 nustatyta tvarka.
 8. Pasiūlymai steigti valstybinius
 rezervatus, valstybinius parkus, valstybinius draustinius, biosferos stebėsenos
-(monitoringo) teritorijas turi būti pagrįsti moksliniais tyrimais, kurių
-pagrindu parengiama atitinkamos saugomos teritorijos planavimo schema (ribų ir
-tvarkymo planas) arba ribų planas.
+(monitoringo) teritorijas turi būti pagrįsti moksliniais tyrimais, kurių pagrindu
+parengiama atitinkamos saugomos teritorijos planavimo schema (ribų ir tvarkymo
+planas) arba ribų planas.
 9. Savivaldybių institucijos, nevyriausybinės
 organizacijos, fiziniai ar juridiniai asmenys Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka gali inicijuoti rezervatų, valstybinių parkų,
@@ -1435,19 +1254,19 @@ reikalavimai. Į tarptautinės svarbos saugomų teritorijų sąrašus patenkanč
 teritorijų apsaugos ypatumus taip pat reglamentuoja Lietuvos Respublikos Vyriausybė.
 Straipsnio
 pakeitimai:
-Nr. XI-935, 2010-06-22,
-Žin., 2010, Nr. 81-4229 (2010-07-10)
+Nr. XI-935,
+2010-06-22, Žin., 2010, Nr. 81-4229 (2010-07-10)
  
 241
 straipsnis. „Natura 2000“ tinklo sudarymas ir „Natura 2000“ tinklo teritorijų
 apsauga
 1. Buveinių apsaugai svarbios teritorijos nustatomos vietovėse,
 kuriose yra Europos bendrijos svarbos natūralių buveinių tipai ir Europos
-bendrijos svarbos rūšių buveinės. Teritorijos atrenkamos šio straipsnio 4
-dalyje nustatyta tvarka atsižvelgiant į tai, kokią Lietuvos Respublikos
-teritorijos dalį užima Europos bendrijos svarbos natūralių buveinių tipai ir
-rūšių, kurioms išsaugoti reikia nustatyti
-buveinių apsaugai svarbias teritorijas, buveinės.
+bendrijos svarbos rūšių buveinės. Teritorijos atrenkamos šio straipsnio 4 dalyje
+nustatyta tvarka atsižvelgiant į tai, kokią Lietuvos Respublikos teritorijos
+dalį užima Europos bendrijos svarbos natūralių buveinių tipai ir rūšių, kurioms
+išsaugoti reikia nustatyti buveinių
+apsaugai svarbias teritorijas, buveinės.
 2. Kiekiu ir dydžiu tinkamiausios paukščių apsaugai svarbios
 teritorijos nustatomos vadovaujantis moksliniais tyrimais ir atsižvelgiant į
 laukinių paukščių apsaugos poreikį geografiniame jūros ir sausumos plote,
@@ -1481,9 +1300,9 @@ buveinių tipai, augalų ir gyvūnų rūšys aptinkami tose vietovėse. Dideliuo
 arealuose paplitusių gyvūnų rūšių atveju tokios vietovės atitinka šių rūšių
 natūralaus arealo vietas, kuriose yra jų gyvenimui ir veisimuisi svarbūs
 fiziniai ar biologiniai veiksniai. Dideliuose arealuose paplitusių vandens
-gyvūnų rūšių atveju tokios vietovės siūlomos tik ten, kur yra aiškiai išskiriamas
-plotas, kuriame yra jų gyvenimui ir veisimuisi būtinų fizinių ir biologinių
-veiksnių;
+gyvūnų rūšių atveju tokios vietovės siūlomos tik ten, kur yra aiškiai
+išskiriamas plotas, kuriame yra jų gyvenimui ir veisimuisi būtinų fizinių ir
+biologinių veiksnių;
 2)
 vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos
 kriterijus, sąrašą pateikia svarstyti Europos Komisijai, kad būtų sudarytas ir
@@ -1493,16 +1312,16 @@ informacija (teritorijos žemėlapis, jos pavadinimas, padėtis, plotas ir
 duomenys, gauti taikant buveinių apsaugai svarbių teritorijų atrankos
 kriterijus) pagal Europos Komisijos nustatytą formą. Kartu su sąrašu pateikiami
 skaičiavimai, koks turi būti Europos bendrijos finansavimas, kad Lietuvos
-Respublika galėtų nustatyti ir įgyvendinti būtinas apsaugos priemones teritorijose,
-kuriose yra aptinkami prioritetiniai natūralių buveinių tipai ir (arba)
-prioritetinės augalų ir gyvūnų rūšys;
+Respublika galėtų nustatyti ir įgyvendinti būtinas apsaugos priemones
+teritorijose, kuriose yra aptinkami prioritetiniai natūralių buveinių tipai ir
+(arba) prioritetinės augalų ir gyvūnų rūšys;
 3)
 prireikus siūlo Europos Komisijai keisti pateiktą vietovių, atitinkančių
 buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą, atsižvelgiant
-į Europos bendrijos svarbos natūralių buveinių ar augalų ir gyvūnų rūšių
-mokslinių tyrimų ir jų apsaugos būklės stebėsenos rezultatus, taip pat siūlo
-panaikinti buveinių apsaugai svarbią teritoriją, jeigu atliekant stebėseną
-nustatyti natūralūs pokyčiai teikia tam pagrindo;
+į Europos bendrijos svarbos natūralių buveinių ar augalų ir gyvūnų rūšių mokslinių
+tyrimų ir jų apsaugos būklės stebėsenos rezultatus, taip pat siūlo panaikinti
+buveinių apsaugai svarbią teritoriją, jeigu atliekant stebėseną nustatyti
+natūralūs pokyčiai teikia tam pagrindo;
 4)
 konsultuojasi su Europos Komisija, kad
 būtų galima palyginti Europos Komisijos ir Lietuvos Respublikos naudojamus
@@ -1525,9 +1344,9 @@ bendrijos svarbos natūralių buveinių tipų arba Europos bendrijos svarbos rū
 palankią apsaugos būklę ir užtikrinant „Natura 2000“ tinklo vientisumą, taip
 pat atsižvelgiant į toms vietovėms gresiantį degradavimą ar sunaikinimą.
 Sprendimas dėl buveinių ir paukščių apsaugai svarbios teritorijos nustatymo
-Europos bendrijos svarbos teritorijoje arba vietovėje, atitinkančioje paukščių apsaugai
-svarbios teritorijos atrankos kriterijus, gali būti priimtas, jeigu yra bent
-viena iš šių sąlygų:
+Europos bendrijos svarbos teritorijoje arba vietovėje, atitinkančioje paukščių
+apsaugai svarbios teritorijos atrankos kriterijus, gali būti priimtas, jeigu
+yra bent viena iš šių sąlygų:
 1) vietovė yra Lietuvos Respublikos saugomoje teritorijoje;
 2) vietovė arba jos dalis nepatenka į Lietuvos Respublikos saugomą
 teritoriją, tačiau Vyriausybės įgaliota institucija, išanalizavusi vietovėje
@@ -1565,12 +1384,12 @@ valdytojais sudaromomis apsaugos sutartimis būtų nustatytos apsaugos
 priemonės, atitinkančios teritorijose esančių Europos bendrijos svarbos
 natūralių buveinių tipų, augalų ir gyvūnų rūšių ekologinius reikalavimus.
 9.
-Vyriausybės įgaliotos institucijos imasi priemonių, kad buveinių apsaugai svarbiose
-teritorijose būtų išvengta natūralių buveinių ir rūšių buveinių blogėjimo ir
-rūšių, kurių apsaugai buvo nustatytos buveinių apsaugai svarbios teritorijos,
-trikdymo, jei toks trikdymas galėtų būti reikšmingas, norint palaikyti ar
-atkurti palankią Europos bendrijos svarbos natūralių buveinių, augalų ir gyvūnų
-rūšių apsaugos būklę.
+Vyriausybės įgaliotos institucijos imasi priemonių, kad buveinių apsaugai
+svarbiose teritorijose būtų išvengta natūralių buveinių ir rūšių buveinių
+blogėjimo ir rūšių, kurių apsaugai buvo nustatytos buveinių apsaugai svarbios
+teritorijos, trikdymo, jei toks trikdymas galėtų būti reikšmingas, norint
+palaikyti ar atkurti palankią Europos bendrijos svarbos natūralių buveinių,
+augalų ir gyvūnų rūšių apsaugos būklę.
 10. Planai ir projektai, neskirti arba nebūtini
 buveinių apsaugai svarbios teritorijos tvarkymui, bet galintys ją reikšmingai
 paveikti individualiai arba kartu su kitais planais ar projektais, turi būti
@@ -1652,8 +1471,8 @@ teritorijų valstybės kadastre.
 1. Saugomų teritorijų ir jų apsaugos zonų ribos Vyriausybės
 įgaliotų institucijų teikimu žymimos Žemės kadastro žemėlapiuose, taip pat
 teritorijų planavimo dokumentuose.
-2. Saugomų teritorijų žymėjimo vietovėje tvarką nustato Vyriausybės
-įgaliotos institucijos.
+2. Saugomų teritorijų žymėjimo vietovėje tvarką nustato
+Vyriausybės įgaliotos institucijos.
  
 27 straipsnis. Saugomų teritorijų
 apsaugos ir tvarkymo organizavimas
@@ -1726,9 +1545,10 @@ biosferos rezervatuose organizuoja valstybinių rezervatų, valstybinių parkų 
 biosferos rezervatų direkcijos – biudžetinės įstaigos. Jos atsako už
 kraštovaizdžio kompleksų ir objektų (vertybių) apsaugą, organizuoja nuolatinę
 jų priežiūrą ir tvarkymą, skatina pažintinį turizmą, racionalų gamtos išteklių
-naudojimą, pagal kompetenciją kontroliuoja, kad fizinių ir juridinių asmenų veikla
-teritorijoje atitiktų nustatytą saugomos teritorijos apsaugos ir naudojimo
-tvarką, turi kitas direkcijos nuostatų nustatytas teises ir pareigas.
+naudojimą, pagal kompetenciją kontroliuoja, kad fizinių ir juridinių asmenų
+veikla teritorijoje atitiktų nustatytą saugomos teritorijos apsaugos ir
+naudojimo tvarką, turi kitas direkcijos nuostatų nustatytas teises ir
+pareigas.
 9. Veiklą valstybiniuose parkuose gali organizuoti bei vykdyti
 valstybinių parkų direkcijos ir jungtinės
 tarybos, koordinuojančios santykius tarp valstybinių parkų direkcijų ir
@@ -1749,82 +1569,7 @@ priežiūrą vykdo institucijos, atsakingos už šių zonų nustatymą. Jų veik
 vykdant atkuriamųjų ir genetinių sklypų bei ekologinės apsaugos zonų priežiūrą
 koordinuoja Vyriausybės įgaliota institucija.
  
-28 straipsnis. Saugomų teritorijų
-planavimas
-1. Saugomos teritorijos tvarkomos ir veikla jose plėtojama pagal
-bendrojo ir specialiojo teritorijų planavimo bei strateginio planavimo
-dokumentus ir jais nustatomus reglamentus, parengtus vadovaujantis Teritorijų
-planavimo bei Statybos įstatymų nuostatomis.
-2. Skiriami šie saugomų teritorijų specialiųjų planų tipai:
-1) saugomų teritorijų tinklų schemos – rengiamos saugomų
-teritorijų sistemos arba jos dalių plėtros bendrajai strategijai nustatyti;
-2) gamtinio karkaso ir (ar) ekologinio tinklo formavimo schemos –
-rengiamos kraštovaizdžio ekologinio stabilumo ir biologinės įvairovės
-išsaugojimo bendrajai teritorinei sistemai nustatyti bei plėtoti;
-3) ekologinės apsaugos zonų tinklų schemos – rengiamos regioninę
-svarbą turinčių ekologinės apsaugos (apsaugančių) teritorijų plėtrai
-reguliuoti;
-4) saugomų teritorijų ir jų zonų ribų planai – rengiami steigiant
-naujus valstybinius rezervatus, valstybinius parkus, draustinius, biosferos
-stebėsenos (monitoringo) teritorijas arba keičiant jų ribas bei nustatant
-funkcinio prioriteto (konservacinio, rekreacinio, ekologinės apsaugos ir kt.)
-zonų ribas;
-5) saugomų teritorijų tvarkymo planai (planavimo schemos) –
-rengiami saugomų teritorijų naudojimą ir apsaugą reguliuojančioms
-kraštovaizdžio tvarkymo zonoms bei jų reglamentams, gamtos ir kultūros paveldo
-teritorinių kompleksų ir objektų (vertybių) apsaugos ir tvarkymo kryptims bei
-priemonėms, taip pat kraštovaizdžio formavimo, rekreacinės infrastruktūros
-kūrimo bei kitoms tvarkymo priemonėms nustatyti;
-6) saugomų teritorijų gamtotvarkos ir (ar) paveldotvarkos
-projektai – rengiami konkrečių tvarkymo priemonių sistemai saugomose
-teritorijose arba jų dalyse nustatyti.
-3. Rengiami šie saugomų teritorijų strateginio planavimo
-dokumentai: gamtotvarkos ir (ar) paveldotvarkos planai, įvairios tikslinės
-programos, veiksmų planai, biosferos rezervatų ir poligonų stebėsenos
-(monitoringo) programos.
-4. Saugomų teritorijų teritorinio planavimo dokumentai rengiami
-pagal Vyriausybės įgaliotos institucijos patvirtintas šių dokumentų rengimo
-taisykles ir (ar) metodiką. Taisyklės nustato saugomų teritorijų planavimo
-dokumentų struktūrą, jų rengimą, tvirtinimą bei galiojimą. Sudėtinės saugomų
-teritorijų specialiojo planavimo proceso dalys yra:
-1) pagrindžiamoji – apima apsaugos ir naudojimo problemų analizę,
-anksčiau parengtų teritorijų planavimo dokumentų, projektų rezultatų bei
-apsaugos plėtros poreikio ir galimybių vertinimą;
-2) projektinė – apima sprendinių parengimą saugomų teritorijų
-plėtros politikos (schemos), apsaugos ir naudojimo koncepcijų bei reglamentų
-(planai) ir tvarkymo priemonių sistemos (projektai) klausimais;
-3) baigiamoji – apima planavimo dokumentų sprendinių pasekmių
-numatymą, svarstymą, derinimą bei tvirtinimą.
-5. Saugomų teritorijų tvarkymo planai (planavimo schemos) rengiami
-naudojantis Vyriausybės patvirtintais tipiniais
-apsaugos reglamentais.
-6. Valstybinių rezervatų ir nacionalinių parkų bei jų zonų ribų
-planus tvirtina Seimas, regioninių parkų ir valstybinių draustinių ir (ar) jų
-zonų ribų planus tvirtina Vyriausybė. Saugomų teritorijų tvarkymo planus
-(planavimo schemas) ir projektus tvirtina Vyriausybė arba jos įgaliotos
-institucijos. Saugomų teritorijų strateginio planavimo dokumentus tvirtina
-Vyriausybė arba jos įgaliotos institucijos. Savivaldybių saugomų teritorijų
-planavimo dokumentus tvirtina savivaldybės institucijos įstatymų nustatyta
-tvarka.
-7. Saugomų teritorijų strateginio planavimo dokumentų rengimo ir
-tvirtinimo tvarką nustato Vyriausybė.
-8. Saugomų teritorijų specialiojo planavimo dokumentus rengia
-atestuoti specialistai ir gali rengti juridiniai asmenys, jeigu jų įstatuose
-numatyta teritorijų planavimo veikla. Atestavimo tvarką nustato Vyriausybės
-įgaliota institucija.
-9. Saugomų teritorijų strateginius gamtotvarkos ir (ar)
-paveldotvarkos planus gali rengti Vyriausybės įgaliotos institucijos,
-valstybinių rezervatų, valstybinių parkų, biosferos rezervatų direkcijos,
-nevalstybinės bei kitos organizacijos, turinčios saugomų teritorijų planavimo
-ir tvarkymo patirties.
-10. Nevalstybinės organizacijos, taip pat fiziniai ir juridiniai
-asmenys gali teikti pasiūlymus rengiant tvarkymo planus (planavimo schemas) bei
-projektus, draustinių ir saugomų objektų bei stebėsenos (monitoringo)
-teritorijų planus bei projektus ir dalyvauti juos įgyvendinant.
-Straipsnio
-redakcija nuo 2014-01-01:
-28
-straipsnis. Saugomų teritorijų planavimas
+28 straipsnis. Saugomų teritorijų planavimas
 1. Saugomos teritorijos tvarkomos ir
 veikla jose plėtojama pagal bendruosius planus ir specialiojo teritorijų
 planavimo dokumentus ir jais nustatomus reglamentus, parengtus vadovaujantis
@@ -1867,9 +1612,10 @@ planavimo įstatymu ir
 Aplinkos ministerijos patvirtintomis Saugomų teritorijų specialiųjų planų
 rengimo taisyklėmis, reglamentuojančiomis saugomų teritorijų specialiųjų planų
 struktūrą, jų rengimą, derinimą, tvirtinimą ir galiojimą.
-5. Rengiant valstybinių rezervatų, biosferos rezervatų ir
-valstybinių parkų planavimo schemas (ribų ir tvarkymo planus), vadovaujamasi
-Vyriausybės patvirtintais saugomų teritorijų tipiniais apsaugos reglamentais.
+5. Rengiant valstybinių rezervatų, biosferos rezervatų ir valstybinių
+parkų planavimo schemas (ribų ir tvarkymo planus), vadovaujamasi Vyriausybės
+patvirtintais saugomų teritorijų tipiniais
+apsaugos reglamentais.
 6. Rengiant planavimo schemas (ribų ir
 tvarkymo planus) naujiems valstybiniams rezervatams, biosferos rezervatams ir
 valstybiniams parkams, ribų planus valstybiniams ir savivaldybių draustiniams
@@ -1910,8 +1656,7 @@ pakeitimai:
 Nr. XII-413,
 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
  
-Įstatymo
-papildomas 281 straipsniu nuo 2015-01-01:
+Papildoma nuo 2015-01-01:
 281 straipsnis. Teritorijų
 planavimo dokumentų, rengiamų saugomų teritorijų sistemai, jos dalims ar
 atskiroms saugomoms teritorijoms, rengėjai
@@ -1930,12 +1675,12 @@ Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos
 institucijos išduotą atestatą arba kitą dokumentą, įrodantį jų teisę vadovauti
 nurodytų dokumentų rengimui.
 2. Saugomų teritorijų specialiojo
-teritorijų planavimo vadovo atestatą gauti siekiančių asmenų atestavimo, atestavimo
-komisijos sudarymo, atestatų išdavimo,
-galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo
-tvarką nustato Aplinkos ministerija. Atestatas ne
-vėliau kaip per mėnesį nuo visų reikiamų atestatui gauti dokumentų pateikimo dienos
-išduodamas asmeniui:
+teritorijų planavimo vadovo atestatą gauti siekiančių asmenų atestavimo,
+atestavimo komisijos sudarymo, atestatų
+išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo
+panaikinimo tvarką nustato Aplinkos ministerija.
+Atestatas ne vėliau kaip per mėnesį nuo visų reikiamų atestatui gauti dokumentų
+pateikimo dienos išduodamas asmeniui:
 1) įgijusiam
 aukštąjį (universitetinį ar koleginį) arba lygiavertį biomedicinos mokslų
 studijų srities biologijos, botanikos, zoologijos, žemės ūkio ar miškininkystės
@@ -2012,16 +1757,17 @@ tvarkymas finansuojami iš savivaldybių biudžetų lėšų.
 turizmui plėtoti, švietėjiškai, kultūrinei ir kitai veiklai taip pat gali būti
 naudojamos specialiųjų programų lėšos, tikslinės juridinių ir fizinių asmenų
 įmokos bei lėšos, kitos teisėtai įgytos lėšos.
-4. Už valstybinių parkų lankymą įstatymų nustatyta tvarka surinktos
-lėšos naudojamos šioms teritorijoms tvarkyti, saugomų kompleksų bei objektų
-(vertybių) apsaugai ir lankymui propaguoti, pažintiniam turizmui organizuoti.
+4. Už valstybinių parkų lankymą įstatymų nustatyta tvarka
+surinktos lėšos naudojamos šioms teritorijoms tvarkyti, saugomų kompleksų bei
+objektų (vertybių) apsaugai ir lankymui propaguoti, pažintiniam turizmui
+organizuoti.
  
 AŠTUNTASIs SKIRSNIS
 VALSTYBINĖ
 SAUGOMŲ TERITORIJŲ KONTROLĖ
  
-30 straipsnis. Saugomų teritorijų kontrolės
-organizavimas
+30 straipsnis. Saugomų teritorijų
+kontrolės organizavimas
 1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų
 veiklos, susijusios su teritorijų planavimo dokumentuose nustatytais
 apribojimais, kontrolę saugomose teritorijose pagal kompetenciją vykdo
@@ -2045,8 +1791,8 @@ pažeidusių šio Įstatymo ir kitų teisės aktų reikalavimus ar teritorijų
 planavimo dokumentų, reglamentuojančių veiklą saugomose teritorijose,
 sprendinius, nutraukti neteisėtus veiksmus;
 4) stabdyti transportą, gabenantį gamtos išteklius,
-įskaitant medieną ar kitą miško produkciją, tikrinti transporto priemonėse esančių
-gamtos išteklių įsigijimo dokumentus, taip pat, įtarus neteisėtą gamtos
+įskaitant medieną ar kitą miško produkciją, tikrinti transporto priemonėse
+esančių gamtos išteklių įsigijimo dokumentus, taip pat, įtarus neteisėtą gamtos
 išteklių įsigijimą, tikrinti juos gabenančių asmenų dokumentus, naudoti
 transporto priemonių priverstinio stabdymo priemones;
 5) pristatyti pažeidėjus į policiją arba į patalpas
@@ -2058,11 +1804,11 @@ organizacijų, esančių saugomose teritorijose, teritorijas. Į pasienio ruožo
 teritorijas ir objektus įeiti (įvažiuoti) galima suderinus su pasienio
 policijos pareigūnais;
 7) Ginklų ir šaudmenų kontrolės bei kitų įstatymų
-nustatyta tvarka saugoti, nešioti ir šio Įstatymo 30 straipsnio 4 dalyje nurodytais
-atvejais naudoti šaunamąjį ginklą bei specialiąsias priemones. Jeigu atsisakoma
-vykdyti teisėtus pareigūno reikalavimus, pareigūnas turi teisę panaudoti
-prievartą, tačiau tik tiek, kiek to reikia vykdant tarnybinę pareigą, ir tik po
-to, kai visos įmanomos ar kitos priemonės nebuvo veiksmingos;
+nustatyta tvarka saugoti, nešioti ir šio Įstatymo 30 straipsnio 4 dalyje
+nurodytais atvejais naudoti šaunamąjį ginklą bei specialiąsias priemones. Jeigu
+atsisakoma vykdyti teisėtus pareigūno reikalavimus, pareigūnas turi teisę
+panaudoti prievartą, tačiau tik tiek, kiek to reikia vykdant tarnybinę pareigą,
+ir tik po to, kai visos įmanomos ar kitos priemonės nebuvo veiksmingos;
 8) valstybiniai saugomų teritorijų pareigūnai turi ir
 kitų įstatymų suteiktų teisių.
 4. Valstybiniai saugomų teritorijų pareigūnai turi teisę panaudoti
@@ -2129,14 +1875,6 @@ direkcijos valdo ir naudoja joms suteiktą valstybinę žemę patikėjimo teise.
 5. Nuosavybės teisių į žemę, miškus ir vandens telkinius atkūrimo
 tvarką ir sąlygas saugomose teritorijose nustato Piliečių nuosavybės teisių į
 išlikusį nekilnojamąjį turtą atkūrimo įstatymas.
-6. Saugomose teritorijose nuosavybės teisės į žemę, miškus ir
-vandens telkinius gali būti atkuriamos, žemės sandoriai sudaromi tik laikantis
-įstatymų nustatytų žemės, miškų ir vandens telkinių naudojimo apribojimų,
-sąlygų ir reikalavimų, saugomų teritorijų nuostatų ir šių teritorijų tvarkymo
-planų (planavimo schemų), kitų šio Įstatymo 5 straipsnyje nurodytų veiklą
-saugomose teritorijose reglamentuojančių dokumentų nustatytų reikalavimų.
-Dalies
-redakcija nuo 2014-01-01:
 6. Saugomose teritorijose nuosavybės
 teisės į žemę, miškus ir vandens telkinius gali būti atkuriamos, žemės
 sandoriai sudaromi tik laikantis įstatymų nustatytų žemės, miškų ir vandens
@@ -2144,19 +1882,19 @@ telkinių naudojimo apribojimų, sąlygų ir reikalavimų, saugomų teritorijų
 nuostatų ir šių teritorijų planavimo schemų (ribų ir tvarkymo planų),
 kitų šio Įstatymo 5 straipsnyje nurodytų veiklą saugomose teritorijose
 reglamentuojančių dokumentų nustatytų reikalavimų.
- 
 7. Valstybinių draustinių, valstybinių parkų ir biosferos
 stebėsenos (monitoringo) teritorijų draustinių, taip pat rekreacinių zonų
 valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita
-nenaudojama žemė neparduodama, išskyrus namų valdų, asmeninio ūkio ir sodininkų
-bendrijų žemę bei iki 5 hektarų ploto sklypus, įsiterpusius į žemės ūkio
-naudmenas ir esančius tarp privačios žemės valdų. 
-8.
-Valstybiniuose rezervatuose draudžiama keisti pagrindinę konservacinę žemės
-naudojimo paskirtį. Valstybiniuose draustiniuose, valstybiniuose parkuose,
-biosferos rezervatuose ir biosferos poligonuose draudžiama keisti pagrindinę
-konservacinę ir miškų ūkio žemės naudojimo paskirtį, taip pat paversti miško
-žemę kitomis naudmenomis, išskyrus atvejus, kai:
+nenaudojama žemė neparduodama, išskyrus namų valdų, asmeninio ūkio ir sodininkų bendrijų žemę
+bei iki 5 hektarų ploto sklypus, įsiterpusius į žemės ūkio naudmenas ir
+esančius tarp privačios žemės valdų. 
+ 
+8. Valstybiniuose
+rezervatuose draudžiama keisti pagrindinę konservacinę žemės naudojimo
+paskirtį. Valstybiniuose draustiniuose, valstybiniuose parkuose, biosferos
+rezervatuose ir biosferos poligonuose draudžiama keisti pagrindinę konservacinę
+ir miškų ūkio žemės naudojimo paskirtį, taip pat paversti miško žemę kitomis
+naudmenomis, išskyrus atvejus, kai:
 1) tai daroma
 reikmėms, susijusioms su šių saugomų teritorijų apsauga, tvarkymu, pritaikymu
 visuomenės poreikiams ir naudojimu rekreacijai, jeigu tai numatyta šių saugomų
@@ -2167,6 +1905,28 @@ miškų ūkio paskirties žemės sklypo dalis, kurioje leidžiama atstatyti buvu
 sodybą arba kurioje yra teisėtai pastatytas gyvenamasis namas ar gyvenamasis
 namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas
 kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas).
+Redakcija nuo 2014-02-01:
+8. Valstybiniuose rezervatuose draudžiama keisti
+pagrindinę konservacinę žemės naudojimo paskirtį. Draustiniuose, valstybiniuose
+parkuose, biosferos rezervatuose ir biosferos poligonuose draudžiama keisti
+pagrindinę konservacinę ir miškų ūkio žemės naudojimo paskirtį, taip pat
+paversti miško žemę kitomis naudmenomis, išskyrus atvejus, kai:
+1) tai daroma reikmėms, susijusioms su šių saugomų
+teritorijų apsauga, tvarkymu, pritaikymu visuomenės poreikiams ir naudojimu
+rekreacijai, jeigu tai numatyta šių saugomų teritorijų planavimo dokumentuose
+ir neprieštarauja šių saugomų teritorijų nuostatams;
+2) atidalijama miškų ūkio paskirties žemės sklypo
+dalis, kurioje leidžiama atstatyti buvusią sodybą arba kurioje yra teisėtai
+pastatytas gyvenamasis namas ar gyvenamasis namas kartu su jo priklausiniais,
+Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto
+objektas (pagrindinis daiktas);
+3) miško žemę kitomis naudmenomis paversti būtina
+įgyvendinant valstybei svarbius projektus;
+4) formuojamos
+šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose ar
+bendruosiuose planuose numatytos visuomeninės paskirties, bendrojo naudojimo ir
+atskirųjų želdynų teritorijos.
+ 
 9. Valstybiniuose
 draustiniuose privačios nuosavybės teise priklausančio žemės sklypo neleidžiama
 dalyti dalimis, jeigu po padalijimo (atidalijimo) bent viena sklypo dalis tampa
@@ -2193,17 +1953,6 @@ sklypų pakrančių ilgis – mažesnis kaip 50 metrų, išskyrus atvejus, kai:
 1)
 žemės sklypo dalis atidalijama visuomenės poreikiams reikalingiems statiniams,
 įskaitant inžinerinius statinius, statyti;
-2)
-žemės sklypai yra gyvenamosios paskirties funkcinio prioriteto zonoje, kurioje
-valstybinių parkų tvarkymo planuose (planavimo schemose) numatyta nauja
-statyba, arba kai nauja statyba numatyta savivaldybių teritorijų ar jų dalių
-(miestų ar miestelių) bendruosiuose planuose, kurių sprendiniai neprieštarauja
-valstybinių parkų tvarkymo planų (planavimo schemų) sprendiniams;
-3) žemės sklypas
-yra skirtingo funkcinio prioriteto zonose ir vienoje iš jų valstybinių parkų
-tvarkymo planuose (planavimo schemose) numatyta statybų galimybė;
-2 ir 3 punktų
-redakcija nuo 2014-01-01:
 2) žemės sklypai yra gyvenamosios paskirties funkcinio
 prioriteto zonoje, kurioje valstybinių parkų planavimo
 schemose (ribų ir tvarkymo planuose) numatyta nauja statyba, arba kai
@@ -2211,7 +1960,6 @@ nauja statyba numatyta savivaldybių teritorijų kompleksiniuose planuose;
 3) žemės sklypas
 yra skirtingo funkcinio prioriteto zonose ir vienoje iš jų valstybinių parkų planavimo schemose
 (ribų ir tvarkymo planuose) numatyta statybų galimybė;
- 
 4) pagal Miškų
 įstatymo nustatytas sąlygas atidalijama miškų ūkio paskirties žemės sklypo
 dalis buvusiai sodybai atstatyti;
@@ -2242,6 +1990,8 @@ Nr. XII-214,
 2013-03-28, Žin., 2013, Nr. 36-1726 (2013-04-06)
 Nr. XII-413,
 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
+Nr. XII-746,
+2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00032
  
 32 straipsnis.
 Žemės savininkų, valdytojų bei naudotojų teisės ir pareigos saugomose
@@ -2262,10 +2012,10 @@ saugomų teritorijų statusą, nustatyti ar keisti veiklos apribojimus Vyriausyb
 pasiūlymus dėl saugomos teritorijos steigimo, objektų skelbimo saugomais,
 esamos saugomos teritorijos statuso arba nustatyto apsaugos ir naudojimo
 reikalavimų pakeitimo.
-4. Žemės savininkams bei valdytojams, kurių žemės valdose
-steigiama nauja saugoma teritorija, keičiamas esamos saugomos teritorijos
-statusas arba nustatyti veiklos apribojimai realiai sumažina gaunamą naudą arba
-uždraudžia anksčiau vykdytą veiklą, išmokamos
+4. Žemės savininkams bei valdytojams, kurių žemės valdose steigiama
+nauja saugoma teritorija, keičiamas esamos saugomos teritorijos statusas arba
+nustatyti veiklos apribojimai realiai sumažina gaunamą naudą arba uždraudžia
+anksčiau vykdytą veiklą, išmokamos
 kompensacijos. Jų apskaičiavimo ir išmokėjimo tvarką
 nustato Vyriausybė.
 5. Jeigu saugomos teritorijos įsteigtos, paveldo objektai
@@ -2301,8 +2051,8 @@ tvarka įrašo nekilnojamojo turto registro tvarkytojas.
 (vertybių) išsaugojimą atsako jų savininkai, valdytojai ir naudotojai. 
 12. Žemės savininkai, naudotojai bei valdytojai negali trukdyti
 įstatymų ar kitų teisės aktų numatytais tikslais lankyti arba tvarkyti saugomų
-kompleksų bei objektų (vertybių), poilsiaviečių, takų, regyklų, kitų
-rekreacinių objektų.
+kompleksų bei objektų (vertybių), poilsiaviečių, takų, regyklų, kitų rekreacinių
+objektų.
 13. Savivaldybių institucijos atsako už savo valdomų gamtos ir
 kultūros paveldo teritorinių kompleksų bei objektų (vertybių) išsaugojimą,
 rūpinasi, kad saugomų vertybių savininkai, naudotojai ir valdytojai galėtų
@@ -2379,8 +2129,8 @@ Nr. XI-935,
  
 Pakeitimai: 
 1.
-Lietuvos Respublikos Seimas,
-Įstatymas 
+Lietuvos Respublikos Seimas, Įstatymas
+
 Nr. I-1013,
 1995.07.04, Žin., 1995, Nr.60-1502 (1995.07.21)
 DĖL LIETUVOS RESPUBLIKOS SAUGOMŲ
@@ -2396,13 +2146,12 @@ PAPILDYMO ĮSTATYMAS
 įsigalioja nuo 2001 m. sausio 1 d.
  
 3.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-IX-628,
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-628,
 2001-12-04, Žin., 2001, Nr. 108-3902 (2001-12-28)
-SAUGOMŲ
-TERITORIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+SAUGOMŲ TERITORIJŲ ĮSTATYMO
+PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
 4.
@@ -2459,9 +2208,17 @@ STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 28(1) STRAIPSNIU ĮSTATYMAS
 Šio
 įstatymo 12 straipsnis įsigalioja 2015 m. sausio 1 d.
  
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-746,
+2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00032
+LIETUVOS RESPUBLIKOS SAUGOMŲ TERITORIJŲ ĮSTATYMO 31 STRAIPSNIO PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m.
+vasario 1 d.
  
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2013-07-25)
+Redagavo Aušrinė Trapinskienė (2014-01-15)
                   ausrine.trapinskiene@lrs.lt
