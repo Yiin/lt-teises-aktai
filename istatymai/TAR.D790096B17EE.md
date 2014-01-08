@@ -144,10 +144,88 @@ sprendimų ir informacijos priėmimo gebėjimams ugdyti, ir apima formalųjį
 švietimą (pradinį, pagrindinį, vidurinį ugdymą, profesinį mokymą, aukštesniąsias
 ir aukštojo mokslo studijas) ir neformalųjį švietimą (ikimokyklinį,
 priešmokyklinį ugdymą ir kitą neformalųjį vaikų ir suaugusiųjų švietimą).
+Redakcija nuo 2014-06-13:
+2 straipsnis.
+Pagrindinės šio įstatymo sąvokos
+1. Gamintojas – teisės aktų nustatyta tvarka
+Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje veikiantis
+(įsteigtas) asmuo, kuris:
+1) pagamino gaminį arba apie tai viešai pareiškė
+pažymėdamas gaminį savo pavadinimu, prekių ženklu ar kitu skiriamuoju žymeniu; 
+2) veikia kaip gamintojo atstovas, kai gamintojas nėra
+įsisteigęs Europos ekonominės erdvės valstybėje, arba gaminį importuoja, kai
+Europos ekonominės erdvės valstybėje įsisteigusio gamintojo atstovo nėra;
+3) kaip gaminio tiekimo dalyvis gali daryti poveikį
+rinkai tiekiamo gaminio kokybei ir saugai. 
+2. Finansinė paslauga – draudimo ir pensijų
+kaupimo paslaugos ir Finansų įstaigų įstatyme nurodytos finansinės paslaugos.
+3. Finansinių paslaugų teikimo sutartis, sudaroma
+ryšio priemonėmis, – vartotojo ir paslaugų teikėjo finansinių paslaugų
+teikimo sutartis, sudaroma naudojant tik ryšio priemones (vieną ar kelias).
+4. Neteko galios nuo 2014-06-13. 
+5. Pardavėjas – verslininkas, kuris siūlo ir
+parduoda prekes vartotojams.
+6. Pardavimo kaina – galutinė prekės, paslaugos
+kaina, nustatoma pinigais, su pridėtinės vertės mokesčiu ir visais kitais
+mokesčiais, o jei negalima nurodyti tikslios kainos, jos apskaičiavimo
+pavyzdys, pagal kurį vartotojas gali kainą patikrinti.
+7. Paslauga – atlygintina veikla arba (ir) jos
+rezultatas, kuriais siūloma tenkinti ar yra tenkinamas konkretus vartotojo
+poreikis.
+8. Paslaugų teikėjas – verslininkas, kuris
+siūlo ir atlygintinai suteikia paslaugas vartotojams.
+9. Patvarioji laikmena – priemonė, kuri leidžia vartotojui ar pardavėjui, paslaugų
+teikėjui saugoti asmeniškai jam skirtą informaciją taip, kad informacija tam
+tikrą laiką būtų prieinama ir kad saugomą informaciją būtų galima atkurti
+nepakitusią (t. y. popieriuje surašyti (spausdinti) dokumentai, USB
+atmintinės, kompaktinių diskų įrenginiai (CD-ROM), skaitmeniniai vaizdo diskai
+(DVD), atminties kortelės arba standieji kompiuterių diskai, elektroniniai
+laiškai ir kitos priemonės).
+10. Pradinė finansinių paslaugų teikimo sutartis
+– vartotojo ir finansinių paslaugų teikėjo sudaryta finansinių paslaugų teikimo
+sutartis, neapimanti ateityje atliekamų to paties pobūdžio viena po kitos
+einančių arba atskirų operacijų.
+11. Prekė – kiekvienas daiktas, siūlomas
+parduoti arba parduodamas vartotojui. Šilumos ir elektros energija,
+vanduo, gamtinės dujos taip pat laikomi prekėmis, jeigu kiti įstatymai
+nenustato kitaip.
+12. Ryšio priemonės – priemonės, kurios
+fiziškai tuo pačiu metu nedalyvaujant pardavėjui ar paslaugų teikėjui ir
+vartotojui gali būti naudojamos pardavėjo ar paslaugų teikėjo ir vartotojo sutarčiai
+sudaryti.
+13. Tinkamumo naudoti terminas – terminas,
+kuriam suėjus laikoma, kad prekė netinka naudoti pagal paskirtį, t. y. prekės
+savybės, kurių vartotojas galėjo tikėtis iki šio termino pabaigos, yra arba
+gali būti blogesnės, negu nustatyta tai prekei taikomame techniniame reglamente
+ir (ar) gamintojo dokumentuose (deklaracijose, pareiškimuose).
+14. Neteko galios nuo 2014-06-13. 
+15. Vartotojas – fizinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais
+tikslais (vartojimo tikslais) siekiantis sudaryti ar sudarantis sutartis.
+16. Vartotojų informavimas – žinių, susijusių
+su vartotojų poreikių tenkinimu ir jų teisių apsauga, suteikimas ir skleidimas.
+17. Vartotojų konsultavimas – patarimai ir
+praktinė pagalba vartotojams vartotojų teisių apsaugos klausimais.
+18. Vartotojų švietimas – vartotojų ugdymas,
+vartotojų informavimas ir vartotojų konsultavimas. 
+19. Vartotojų ugdymas – procesas, kurio metu
+pagrindinis dėmesys skiriamas vartotojų teisių suvokimui, kritinio mąstymo,
+sprendimų ir informacijos priėmimo gebėjimams ugdyti, ir apima formalųjį
+švietimą (pradinį, pagrindinį, vidurinį ugdymą, profesinį mokymą,
+aukštesniąsias ir aukštojo mokslo studijas) ir neformalųjį švietimą
+(ikimokyklinį, priešmokyklinį ugdymą ir kitą neformalųjį vaikų ir suaugusiųjų
+švietimą).
+20. Verslininkas – fizinis
+asmuo arba juridinis asmuo ar kita organizacija, ar jų padalinys, savo
+prekybos, verslo, amato arba profesijos tikslais siekiantys sudaryti ar
+sudarantys sutartis, įskaitant asmenis, veikiančius verslininko vardu arba jo
+naudai. Juridinis asmuo gali būti laikomas verslininku neatsižvelgiant į jo
+dalyvių teisinę formą.
 Straipsnio
 pakeitimai:
 Nr. XI-1620,
 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 ANTRASIS SKIRSNIS
 VARTOTOJŲ TEISĖS IR JŲ APSAUGOS ĮGYVENDINIMAS
@@ -181,6 +259,16 @@ paslaugoms yra taikomi Civilinio kodekso reikalavimai.
 2. Teikiant atlygintinas paslaugas vartotojams mutatis
 mutandis yra taikomi Civilinio kodekso 6.350–6.370 straipsniuose nustatyti
 reikalavimai. 
+Redakcija nuo 2014-06-13:
+4
+straipsnis. Vartojimo
+sutarčių ypatumai
+Vartojimo sutarčių ypatumus nustato Civilinis
+kodeksas.
+Straipsnio
+pakeitimai:
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 5 straipsnis. Informacijos
 apie prekes ir paslaugas pateikimas
@@ -193,10 +281,28 @@ informaciją vartotojams pateikti valstybine ir kita kalba.
 2. Valstybinė kalba privaloma visuose vartotojams
 skirtuose viešuosiuose išoriniuose ir vidiniuose prekybos ir paslaugų teikimo
 vietų užrašuose, įskaitant prekybos ir paslaugų teikimo vietų pavadinimus.
+Redakcija nuo 2014-06-13:
+5
+straipsnis. Informacijos pateikimas vartotojams
+1. Gamintojas, pardavėjas, paslaugos teikėjas
+vartotojams privalo valstybine kalba suteikti Civiliniame kodekse ir kituose
+teisės aktuose nustatytą informaciją ir teisės aktų nustatyta tvarka ženklinti
+prekes. Kituose įstatymuose gali būti nustatyta gamintojo, pardavėjo, paslaugos
+teikėjo pareiga Civiliniame kodekse ir kituose teisės aktuose nustatytą
+informaciją vartotojams pateikti valstybine ir kita kalba.
+2. Valstybinė kalba privaloma visuose vartotojams
+skirtuose viešuosiuose išoriniuose ir vidiniuose prekybos ir paslaugų teikimo
+vietų užrašuose, įskaitant prekybos ir paslaugų teikimo vietų pavadinimus.
+3. Interneto svetainėse, kuriose
+vartotojams siūlomos prekės ar paslaugos, prieš pradedant prekių ar paslaugų
+užsakymą, turi būti aiškiai ir įskaitomai pateikiama informacija apie bet
+kokius pristatymo apribojimus ir galimus mokėjimo būdus.
 Straipsnio
 pakeitimai:
 Nr. XI-1620,
 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 6 straipsnis. Sąžiningos verslo praktikos principas
 Pardavėjai ir paslaugų teikėjai, siūlydami įsigyti ir
@@ -221,14 +327,13 @@ VARTOTOJŲ TEISIŲ APSAUGOS SRITYS IR INSTITUCINĖ
 SISTEMA
  
 8 straipsnis. Vartotojų teisių apsaugos sritys
-Vartotojų teisių apsaugos sritys yra prekių
-pirkimas–pardavimas ir su jomis susijusios paslaugos, visos atlygintinos
-paslaugos, kai prekės įsigyjamos ar paslaugos teikiamos vartotojams. 
+Vartotojų teisių apsaugos sritys yra prekių pirkimas–pardavimas
+ir su jomis susijusios paslaugos, visos atlygintinos paslaugos, kai prekės
+įsigyjamos ar paslaugos teikiamos vartotojams. 
  
 9 straipsnis. Vartotojų
 teisių apsaugos institucinė sistema 
-Vartotojų teisių apsaugą Lietuvos Respublikoje
-užtikrina:
+Vartotojų teisių apsaugą Lietuvos Respublikoje užtikrina:
 1) valstybės ir savivaldybių institucijos;
 2) vartotojų asociacijos.
  
@@ -242,8 +347,8 @@ apsaugos strategiją;
 tarnybą ir tvirtina jos nuostatus;
 3) įstatymų nustatytais atvejais tvirtina sutarčių
 standartines sąlygas;
-4) tvirtina ar įgalioja valstybės institucijas ir
-įstaigas tvirtinti atskirų paslaugų rūšių teikimo taisykles;
+4) tvirtina ar įgalioja valstybės institucijas ir įstaigas
+tvirtinti atskirų paslaugų rūšių teikimo taisykles;
 5) atlieka kitas įstatymų ir kitų teisės aktų
 nustatytas funkcijas.
 2. Teisingumo ministerija vartotojų teisių apsaugos
@@ -258,18 +363,17 @@ funkcijų vartotojų teisių apsaugos srityje įgyvendinimą, sudaroma Vartotoj�
 teisių apsaugos taryba (toliau – Taryba). Ši taryba yra kolegiali patariamoji
 visuomeniniais pagrindais veikianti institucija.
 4. Tarybą sudaro po vieną Teisingumo ministerijos,
-Sveikatos apsaugos ministerijos, Valstybinės vartotojų teisių apsaugos
-tarnybos, Valstybinės maisto ir veterinarijos tarnybos (toliau – Tarnyba),
-Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos (toliau –
-Inspekcija) atstovą, keturi vartotojų asociacijų atstovai ir vienas Lietuvos
-savivaldybių asociacijos atstovas. Tarybos nuostatus ir sudėtį tvirtina
-teisingumo ministras. Tarybai vadovauja Teisingumo ministerijos atstovas.
+Sveikatos apsaugos ministerijos, Valstybinės vartotojų teisių apsaugos tarnybos,
+Valstybinės maisto ir veterinarijos tarnybos (toliau – Tarnyba), Valstybinės ne
+maisto produktų inspekcijos prie Ūkio ministerijos (toliau – Inspekcija)
+atstovą, keturi vartotojų asociacijų atstovai ir vienas Lietuvos savivaldybių
+asociacijos atstovas. Tarybos nuostatus ir sudėtį tvirtina teisingumo
+ministras. Tarybai vadovauja Teisingumo ministerijos atstovas.
 5. Taryba: 
 1) teikia pasiūlymus dėl vartotojų teisių
 apsaugos politikos įgyvendinimo ir tobulinimo;
-2) analizuoja vartotojų teisių apsaugą
-užtikrinančių institucijų informaciją apie jų veiklą ir teikia pasiūlymus dėl
-jų veiklos;
+2) analizuoja vartotojų teisių apsaugą užtikrinančių
+institucijų informaciją apie jų veiklą ir teikia pasiūlymus dėl jų veiklos;
 3) teikia pasiūlymus dėl vartotojų teisių
 apsaugą reglamentuojančių teisės aktų priėmimo ir keitimo.
 6. Švietimo ir mokslo ministerija vartotojų teisių
@@ -316,8 +420,8 @@ darbo reglamentas.
  
 12 straipsnis.
 Valstybinės vartotojų teisių apsaugos tarnybos funkcijos ir teisės
-1. Valstybinė vartotojų teisių apsaugos tarnyba atlieka
-šias funkcijas:
+1. Valstybinė vartotojų teisių apsaugos tarnyba
+atlieka šias funkcijas:
 1) užtikrina vartotojų teisių apsaugą;
 2) koordinuoja vartotojų teisių apsaugos institucijų,
 atsakingų už tam tikros vartojimo srities reguliavimą, veiklą vartotojų teisių
@@ -406,7 +510,8 @@ programas;
 politikos formavimo ir dalyvauti ją įgyvendinant;
 12) šio įstatymo septintojo skirsnio nustatyta tvarka
 ginti vartotojų viešąjį interesą;
-13) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+13) kitas įstatymų ir kitų teisės aktų nustatytas
+teises.
 2. Šio įstatymo 31 straipsnio 1 dalyje nustatytas
 sąlygas atitinkančioms vartotojų asociacijoms, Vyriausybės nustatyta tvarka
 pateikusioms veiklos ataskaitą, teikiama valstybės finansinė parama pagal
@@ -427,6 +532,9 @@ Produktų saugos įstatymas, Maisto įstatymas ir kiti teisės aktai.
 trūkumai, išaiškėję per 6 mėnesius nuo prekės perdavimo ar paslaugos suteikimo,
 laikomi buvusiais perdavimo ar suteikimo vartotojui metu, išskyrus atvejus, kai
 tai yra nesuderinama su prekės, paslaugos ar jos trūkumo pobūdžiu. 
+Dalis netenka galios nuo
+2014-06-13.
+ 
 3. Jeigu prekės pirkimas – pardavimas apima prekės
 instaliavimą, įrengimą ar montavimą ir prekes instaliavo, įrengė ar sumontavo
 pardavėjas arba jo pasitelkti asmenys, bet koks dėl neteisingo vartojimo prekių
@@ -435,6 +543,12 @@ prekių kokybės trūkumui. Ši nuostata taip pat taikoma tuo atveju, kai
 susitariama, kad prekę instaliuos, įrengs ar montuos pats vartotojas, kai jis
 instaliuoja, įrengia ar montuoja, o neteisingo instaliavimo, įrengimo ar
 montavimo priežastis yra instrukcijos trūkumai.
+Dalis netenka galios nuo
+2014-06-13.
+Straipsnio
+pakeitimai:
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 15 straipsnis.
 Draudimas parduoti prekes pasibaigus jų tinkamumo naudoti terminui
@@ -444,12 +558,22 @@ naudoti (vartoti) pagal paskirtį, kai jų savybės yra arba gali būti blogesn�
 negu nustatyta tai prekei taikomame techniniame reglamente ir (ar) gamintojo
 deklaruojamame norminiame dokumente, ir jeigu prekių savybės yra arba gali būti
 blogesnės, negu vartotojas galėjo tikėtis iki šio termino pabaigos.
+Redakcija nuo 2014-06-13:
+15
+straipsnis. Draudimas parduoti prekes pasibaigus jų tinkamumo naudoti terminui
+Draudžiama parduoti prekes, kurių tinkamumo naudoti
+terminas yra pasibaigęs. Gamintojas neatsako už prekių saugą ir tinkamumą
+naudoti pagal paskirtį (prekės savybes) suėjus šiam terminui.
+Straipsnio
+pakeitimai:
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 16 straipsnis. Kokybės
 garantija 
-1. Pardavėjo, paslaugų teikėjo teikiama kokybės garantija
-negali varžyti vartotojų teisių, kurias, įsigijus netinkamos kokybės prekę ar
-paslaugą, jiems nustato teisės aktai. 
+1. Pardavėjo, paslaugų teikėjo teikiama kokybės
+garantija negali varžyti vartotojų teisių, kurias, įsigijus netinkamos kokybės
+prekę ar paslaugą, jiems nustato teisės aktai. 
 2. Kokybės garantija turi būti valstybine kalba. Joje
 turi būti nurodyta, kad kokybės garantija negali varžyti vartotojų teisių
 įsigijus netinkamos kokybės prekę ar paslaugą, taip pat paprasta, aiškia,
@@ -461,10 +585,14 @@ pateikiama vartotojui prieinamoje patvariojoje laikmenoje.
 4. Vartotojas turi teisę reikalauti taikyti kokybės
 garantiją, neatsižvelgiant į tai, kad ji suteikta pažeidžiant šio įstatymo ar
 kitų teisės aktų reikalavimus. 
+Straipsnis netenka galios
+nuo 2014-06-13.
 Straipsnio
 pakeitimai:
-Nr. XI-1620,
-2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XI-1620, 2011-10-13,
+Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 PENKTASIS
 SKIRSNIS
@@ -501,8 +629,8 @@ teismą.
 šiame įstatyme nenumatytais, teisėtais būdais.
 Straipsnio
 pakeitimai:
-Nr. XI-1765,
-2011-12-01, Žin., 2011, Nr. 153-7202 (2011-12-15)
+Nr. XI-1765, 2011-12-01,
+Žin., 2011, Nr. 153-7202 (2011-12-15)
  
 20 straipsnis. Vartotojo
 kreipimasis į pardavėją, paslaugų teikėją
@@ -515,8 +643,8 @@ paslaugų teikėją ir išdėstyti savo reikalavimus.
 2. Pardavėjas, paslaugų teikėjas, nesutikdami su
 vartotojo reikalavimais, privalo ne vėliau kaip per 10 dienų nuo vartotojo
 kreipimosi gavimo dienos, jeigu kiti įstatymai ir
-Europos Sąjungos reglamentai nenustato kitaip, pateikti vartotojui
-išsamų motyvuotą rašytinį atsakymą, pagrįstą dokumentais. Šių dokumentų kopijos
+Europos Sąjungos reglamentai nenustato kitaip, pateikti vartotojui išsamų
+motyvuotą rašytinį atsakymą, pagrįstą dokumentais. Šių dokumentų kopijos
 privalo būti pridėtos prie pardavėjo, paslaugų teikėjo atsakymo vartotojui.
 Vartotojų prašymus pardavėjai, paslaugų teikėjai nagrinėja nemokamai.
 Straipsnio
@@ -529,8 +657,8 @@ Inspekciją ar visuomenės sveikatos centrą apskrityje
 1. Jeigu pardavėjas, paslaugų teikėjas
 nevykdo vartotojo reikalavimo dėl įsigytų nesaugių ir (ar) netinkamos kokybės
 prekių ar paslaugų, dėl prekių grąžinimo, trūkumų pašalinimo, kainos
-sumažinimo, keitimo ir (ar) informacijos suteikimo, vartotojas turi teisę kreiptis
-į Tarnybą, Inspekciją ar visuomenės
+sumažinimo, keitimo ir (ar) informacijos suteikimo, vartotojas turi teisę
+kreiptis į Tarnybą, Inspekciją ar visuomenės
 sveikatos centrą apskrityje. Šios institucijos
 privalo išnagrinėti vartotojo prašymą ne vėliau kaip per 20 darbo dienų nuo
 prašymo gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą vartotojo
@@ -547,8 +675,8 @@ rezultatus.
 paslaugų teikėjas Tarnybos, Inspekcijos ar visuomenės sveikatos centras
 apskrityje pasiūlymo tenkinti vartotojo reikalavimą
 netenkina, šios institucijos patikrinimo akto kopiją pateikia Valstybinei
-vartotojų teisių apsaugos tarnybai, kuri sprendžia klausimą dėl vartotojo
-teisių gynimo.
+vartotojų teisių apsaugos tarnybai, kuri sprendžia klausimą dėl vartotojo teisių
+gynimo.
 4. Jeigu vartotojo prašymui
 išnagrinėti reikia atlikti ekspertizę ar laboratorinius tyrimus, kuriais
 nustatoma prekių ir (ar) su jomis susijusių paslaugų kokybė, tai atliekama iš
@@ -580,8 +708,9 @@ vartotojų ginčų sprendimo ne teisme tvarka nagrinėja šios institucijos (tol
 elektroninių ryšių, pašto ir pasiuntinių paslaugų srityse;
 2) Lietuvos bankas – Lietuvos banko įstatymo
 numatytais atvejais ir tvarka;
-3) Valstybinė energetikos inspekcija prie Ūkio ministerijos
-– Energetikos įstatyme numatytose vartotojų teisių apsaugos srityse;
+3) Valstybinė energetikos inspekcija prie Ūkio
+ministerijos – Energetikos įstatyme numatytose vartotojų teisių apsaugos
+srityse;
 4) Valstybinė kainų ir energetikos kontrolės komisija
 – Energetikos įstatyme numatytose vartotojų teisių apsaugos srityse;
 5) kitos institucijos – įstatymų nustatytais atvejais;
@@ -599,8 +728,7 @@ informaciją, reikalingą ginčui išnagrinėti ir sprendimui priimti;
 3) pareikalauti iš pardavėjo, paslaugų teikėjo,
 kuriems pareikštas reikalavimas, per nurodytą terminą pateikti įrodymus,
 reikalingus vartotojo prašymui ištirti, ir gauti paaiškinimus žodžiu ir raštu;
-4) gauti išvadą iš valstybės ir savivaldybių
-institucijų;
+4) gauti išvadą iš valstybės ir savivaldybių institucijų;
 5) kitas įstatymuose ir kituose teisės aktuose
 numatytas teises.
 4. Šio straipsnio 1 dalyje nurodytos institucijos
@@ -647,9 +775,9 @@ dokumentų kopijas.
 tikrumo, ginčus nagrinėjanti institucija turi teisę pareikalauti, kad
 vartotojas ir (ar) pardavėjas, paslaugų teikėjas pateiktų dokumentų originalus.
 
-4. Gavusi šio straipsnio 2 dalyje nurodytus dokumentus,
-ginčus nagrinėjanti institucija nustato, ar yra pagrindas atsisakyti nagrinėti
-prašymą. 
+4. Gavusi šio straipsnio 2 dalyje nurodytus
+dokumentus, ginčus nagrinėjanti institucija nustato, ar yra pagrindas
+atsisakyti nagrinėti prašymą. 
 5. Ginčus nagrinėjanti institucija atsisako nagrinėti
 vartotojo prašymą: 
 1) jeigu ji neįgaliota priimti sprendimo dėl vartotojo
@@ -707,11 +835,11 @@ prireikus atlieka ekspertizę ar laboratorinius tyrimus. Ekspertizės ir
 laboratoriniai tyrimai apmokami šio įstatymo 21 straipsnio 4 ir 5 dalyse
 numatyta tvarka. 
  4. Valstybės ir savivaldybių institucijos, atsakingos
-už su ginču susijusią vartojimo sritį, išvadas ginčus nagrinėjančiai
-institucijai jos reikalavimu pateikia per šios institucijos nustatytą terminą,
-bet ne vėliau kaip per 20 darbo dienų. Kai dėl objektyvių priežasčių per šį
-terminą išvada negali būti pateikta, šis terminas gali būti pratęstas, bet ne ilgiau
-kaip 10 darbo dienų.
+už su ginču susijusią vartojimo sritį, išvadas ginčus nagrinėjančiai institucijai
+jos reikalavimu pateikia per šios institucijos nustatytą terminą, bet ne vėliau
+kaip per 20 darbo dienų. Kai dėl objektyvių priežasčių per šį terminą išvada
+negali būti pateikta, šis terminas gali būti pratęstas, bet ne ilgiau kaip 10
+darbo dienų.
  
 25 straipsnis. Ginčų
 nagrinėjimas 
@@ -724,11 +852,11 @@ sąlygas ginčą išspręsti taikiai arba kitais reikiamais atvejais. Nagrinėja
 ginčą žodinio proceso tvarka, ginčo šalims ir kitiems suinteresuotiems asmenims
 turi būti pranešta apie ginčo nagrinėjimo posėdžio vietą, datą ir laiką. Jeigu
 vartotojas neatvyksta į ginčą nagrinėjančios institucijos posėdį be
-pateisinamos priežasties arba nepateikia paaiškinimų ir kitų įrodymų, ginčo
-nagrinėjimas nutraukiamas pagal šio įstatymo 26 straipsnį. Jeigu pardavėjas ar
-paslaugos teikėjas neatvyksta į ginčą nagrinėjančios institucijos posėdį arba
-nepateikia paaiškinimų ir kitų įrodymų, ginčus nagrinėjanti institucija turi
-teisę priimti sprendimą atsižvelgdama į turimus įrodymus.
+pateisinamos priežasties arba nepateikia paaiškinimų ir kitų įrodymų, ginčo nagrinėjimas
+nutraukiamas pagal šio įstatymo 26 straipsnį. Jeigu pardavėjas ar paslaugos
+teikėjas neatvyksta į ginčą nagrinėjančios institucijos posėdį arba nepateikia
+paaiškinimų ir kitų įrodymų, ginčus nagrinėjanti institucija turi teisę priimti
+sprendimą atsižvelgdama į turimus įrodymus.
 2. Ginčai nagrinėjami viešai, išskyrus atvejus, kai
 ginčus nagrinėjančios institucijos sprendimu būtina apsaugoti valstybės,
 tarnybos, komercines, banko, profesines paslaptis arba užtikrinti vartotojo
@@ -793,8 +921,8 @@ kreiptis į teismą.
  
 27 straipsnis. Ginčus
 nagrinėjančios institucijos sprendimas 
-1. Ginčus nagrinėjanti institucija, išnagrinėjusi vartotojo
-prašymą, priima vieną iš šių sprendimų:
+1. Ginčus nagrinėjanti institucija, išnagrinėjusi
+vartotojo prašymą, priima vieną iš šių sprendimų:
 1) patenkinti vartotojo reikalavimus;
 2) iš dalies patenkinti vartotojo reikalavimus;
 3) atmesti vartotojo prašymą.
@@ -821,8 +949,8 @@ dalyje nurodytų sprendimų;
 siūloma sprendimą įvykdyti, informacija, kad apie sprendimo neįvykdymą bus
 paskelbta šio įstatymo 28 straipsnio nustatyta tvarka.
 4. Ginčus nagrinėjančios institucijos sprendimo
-nuorašai per 3 darbo dienas išsiunčiami vartotojui ir pardavėjui, paslaugų teikėjui.
-
+nuorašai per 3 darbo dienas išsiunčiami vartotojui ir pardavėjui, paslaugų
+teikėjui. 
  
 28 straipsnis. Viešas
 paskelbimas
@@ -885,9 +1013,9 @@ teisių gynimu nesusijusių interesų.
 pareiškimą (skundą) vartotojų viešajam interesui ginti, privalo teismui
 pateikti įrodymus, kad ji atitinka šio straipsnio 1 dalyje nurodytas sąlygas.
 Kad vartotojų asociacija atitinka šio straipsnio 1 dalies 4 punkte nurodytą
-sąlygą, patvirtina šios vartotojų asociacijos pareiškimas dėl jos
-nepriklausomumo nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių
-interesų, jeigu neįrodoma kitaip. 
+sąlygą, patvirtina šios vartotojų asociacijos pareiškimas dėl jos nepriklausomumo
+nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių interesų, jeigu
+neįrodoma kitaip. 
  
 32 straipsnis. Kreipimasis
 į pardavėją ar paslaugų teikėją
@@ -976,9 +1104,9 @@ apsaugos tarnyba 31 straipsnyje nustatytus reikalavimus atitinkančių vartotoj�
 asociacijų prašymu praneša Europos Komisijai šių asociacijų pavadinimus ir
 tikslus. Jeigu kiti įstatymai numatys
 kreipimosi į kitų Europos Sąjungos valstybių narių teismus ar kitas
-kompetentingas įstaigas teisę kitoms valstybės institucijoms, Lietuvos
-Respublikos valstybinė vartotojų teisių apsaugos tarnyba praneša Europos
-Komisijai šių institucijų pavadinimus ir jų įgaliojimų apimtį.
+kompetentingas įstaigas teisę kitoms valstybės institucijoms, Lietuvos Respublikos
+valstybinė vartotojų teisių apsaugos tarnyba praneša Europos Komisijai šių
+institucijų pavadinimus ir jų įgaliojimų apimtį.
  
 35 straipsnis.
 Viešas paskelbimas apie viešojo intereso gynimą
@@ -1031,8 +1159,8 @@ nurodyta:
 1) paslaugų teikėjo pavadinimas, buveinė (adresas),
 telefono, fakso numeriai, elektroninio pašto, interneto tinklalapio adresai,
 registras, kuriame kaupiami ir saugomi duomenys apie šį juridinį asmenį,
-juridinio asmens kodas, taip pat duomenys apie paslaugų teikėjo pagrindinę
-komercinę veiklą;
+juridinio asmens kodas, taip pat duomenys apie paslaugų teikėjo pagrindinę komercinę
+veiklą;
 2) duomenys, pagal kuriuos galima identifikuoti
 vartotojo gyvenamosios vietos valstybėje veikiantį finansinių paslaugų teikėjo
 atstovą, ir vartotojo santykiams su atstovu, jei jis yra, svarbus adresas; 
@@ -1088,8 +1216,8 @@ taip pat kokia kalba ar kalbomis paslaugos teikėjas, suderinęs su vartotoju,
 9. Apie žalos atlyginimą turi būti nurodyta:
 1) ginčų dėl pažeistų vartotojo teisių sprendimo ne
 teisme tvarka arba kad tokia tvarka nenustatyta;
-2) draudimo (garantiniai) fondai ar kita žalos atlyginimo
-tvarka.
+2) draudimo (garantiniai) fondai ar kita žalos
+atlyginimo tvarka.
 10. Šio straipsnio 6–9 dalyse nurodytos informacijos
 komercinis pobūdis turi būti aiškiai ir suprantamai išdėstytas ir tikti
 naudojamoms ryšio priemonėms atsižvelgiant į sutartiniams santykiams taikomus
@@ -1100,11 +1228,11 @@ informacija apie sutartines prievoles, kurios bus privalomos vartotojui ir
 paslaugos teikėjui pagal sutarčiai, jei ji būtų sudaryta, taikomą teisę.
 12. Jeigu kalbama telefonu, pokalbio su vartotoju
 pradžioje turi būti pateikiama informacija apie finansinės paslaugos teikėją ir
-nurodomas skambučio komercinis tikslas. Kai vartotojas aiškiai pareiškia savo
-sutikimą, taip pat pateikiami duomenys apie skambinantį asmenį, jo ryšį su
-finansinių paslaugų teikėju ir šio straipsnio 7 dalies 1, 2, 5 punktuose ir 8
-dalies 1 punkte nurodyta informacija (išskyrus informaciją apie nepasinaudojimo
-teise atsisakyti sutarties pasekmes).
+nurodomas skambučio komercinis tikslas. Kai vartotojas aiškiai pareiškia savo sutikimą,
+taip pat pateikiami duomenys apie skambinantį asmenį, jo ryšį su finansinių
+paslaugų teikėju ir šio straipsnio 7 dalies 1, 2, 5 punktuose ir 8 dalies 1
+punkte nurodyta informacija (išskyrus informaciją apie nepasinaudojimo teise
+atsisakyti sutarties pasekmes).
 13. Jeigu kalbama telefonu, finansinės paslaugos
 teikėjas praneša vartotojui apie šio teisę gauti kitą, negu nurodyta šio
 straipsnio 12 dalyje, informaciją ir nurodo, kokio pobūdžio ta informacija yra.
@@ -1139,18 +1267,19 @@ laikmenoje pranešdamas paslaugos teikėjui per 14 dienų nuo sutarties sudarymo
 dienos, jeigu šio straipsnio 2 dalyje nenumatyta kitaip.
 2. Vartotojas turi teisę atsisakyti gyvybės draudimo
 arba pensijų kaupimo sutarties, sudarytos ryšio priemonėmis, apie tai
-patvariojoje laikmenoje pranešdamas paslaugos teikėjui per 30 dienų. Pensijų kaupimo
-sutarčių atsisakymo terminas pradedamas skaičiuoti nuo sutarties sudarymo
-dienos. Gyvybės draudimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo
-tos dienos, kurią vartotojas informuojamas, kad sutartis yra sudaryta.
+patvariojoje laikmenoje pranešdamas paslaugos teikėjui per 30 dienų. Pensijų
+kaupimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo sutarties
+sudarymo dienos. Gyvybės draudimo sutarčių atsisakymo terminas pradedamas
+skaičiuoti nuo tos dienos, kurią vartotojas informuojamas, kad sutartis yra
+sudaryta.
 3. Jeigu vartotojas gauna informaciją pagal šio įstatymo 36
 straipsnio 15 ar 16 dalį po sutarties sudarymo arba vėliau negu pranešimą, kad
 sutartis sudaryta, atsisakymo terminas pradedamas skaičiuoti nuo informacijos
 gavimo dienos.
-4. Šiame straipsnyje numatytą vartotojo teisę atsisakyti
-sutarties draudžiama suvaržyti papildomais įpareigojimais, įmokomis arba bet
-kokiu kitu būdu ją apriboti ar panaikinti, išskyrus šiame straipsnyje numatytus
-atvejus. 
+4. Šiame straipsnyje numatytą vartotojo teisę
+atsisakyti sutarties draudžiama suvaržyti papildomais įpareigojimais, įmokomis
+arba bet kokiu kitu būdu ją apriboti ar panaikinti, išskyrus šiame straipsnyje
+numatytus atvejus. 
 5. Vartotojas negali pasinaudoti šiame straipsnyje
 nustatyta teise atsisakyti:
 1) sutarties dėl finansinių paslaugų, kurių kaina
@@ -1180,6 +1309,11 @@ paslaugos teikėjas) išsiunčiamas iki sutarties atsisakymo termino pabaigos.
 7. Šis straipsnis netaikomas vartojimo kredito
 sutartims, nutrauktoms pagal Civilinio kodekso 6.367 straipsnio 6 dalį ir 6.370
 straipsnio 2 dalį. 
+Redakcija nuo 2014-06-13:
+7. Šis straipsnis netaikomas vartojimo kredito
+sutartims, kurios nutraukiamos Civilinio kodekso nustatytais atvejais kaip
+papildomos ar preliminariosios sutartys.
+ 
 8. Kai kartu su finansinės paslaugos sutartimi,
 sudaryta ryšio priemonėmis, sudaroma kita sutartis naudojant ryšio priemones
 dėl paslaugų, kurias pagal trečiosios šalies ir paslaugų teikėjo sutartį teikia
@@ -1212,15 +1346,17 @@ Straipsnio
 pakeitimai:
 Nr. XI-1620,
 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 38 straipsnis. Finansinių paslaugų teikimas be
 vartotojo sutikimo
 1. Draudžiama teikti finansines paslaugas vartotojui
 be jo sutikimo, jeigu už jas reikalaujama mokėti.
 2. Vartotojas, kuriam buvo suteiktos finansinės
-paslaugos be jo sutikimo, gali naudotis tomis paslaugomis savo nuožiūra neatlygintinai.
-Šiuo atveju vartotojas atleidžiamas nuo bet kokios su paslaugų naudojimu
-susijusios atsakomybės.
+paslaugos be jo sutikimo, gali naudotis tomis paslaugomis savo nuožiūra
+neatlygintinai. Šiuo atveju vartotojas atleidžiamas nuo bet kokios su paslaugų
+naudojimu susijusios atsakomybės.
  
 39 straipsnis. Pranešimai, neteiktini be vartotojo
 sutikimo
@@ -1252,19 +1388,35 @@ pardavėjui, paslaugų teikėjui gali skirti
 nuo penkių šimtų iki penkių tūkstančių litų baudą. Jeigu pažeidimas yra
 mažareikšmis, juo nepadaroma esminės žalos vartotojų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, gali
 taikyti įspėjimą, neskirdama
-pardavėjams, paslaugų
-teikėjams
-baudos.
+pardavėjams, paslaugų teikėjams baudos.
+Redakcija nuo 2014-06-13:
+1. Valstybinė vartotojų teisių apsaugos tarnyba už
+Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286
+straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288
+straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810
+straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse,
+6.22812 straipsnio 3, 4 ir 7 dalyse, 6.22816
+straipsnio 1 dalyje, 6.359 straipsnyje, 6.3591 straipsnyje, 6.369
+straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse ir šio įstatymo 5
+straipsnio 3 dalyje, 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse,
+38 straipsnio 1 dalyje, 39 straipsnyje nurodytų reikalavimų (draudimų)
+nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo penkių šimtų iki
+penkių tūkstančių litų baudą. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma
+esminės žalos vartotojų interesams, Valstybinė vartotojų teisių apsaugos
+tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti
+įspėjimą, neskirdama pardavėjams, paslaugų teikėjams baudos.
+ 
 2. Skiriant konkrečią baudą, atsižvelgiama į šio
 straipsnio 3 ir 4 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias
 aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis
 nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į
-atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių
-aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra
-atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki
-maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių,
-bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar
-didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime.
+atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę
+lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus
+dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio
+iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių
+aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos
+mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos
+tarnybos nutarime.
 3. Atsakomybę lengvinančiomis aplinkybėmis laikoma
 tai, kad pardavėjas, paslaugų teikėjas, padarę pažeidimą, savo noru užkirto
 kelią žalingoms pažeidimo pasekmėms, padėjo Valstybinei vartotojų teisių
@@ -1293,6 +1445,8 @@ nustatyta tvarka.
 Straipsnio pakeitimas:
 Nr. XI-1620,
 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
 41 straipsnis. Pagrindas pradėti galimo vartotojų teisių
 pažeidimo nagrinėjimo procedūrą 
@@ -1312,8 +1466,8 @@ Nr. XI-1620,
 42 straipsnis. Skundo pradėti galimo vartotojų teisių
 pažeidimo nagrinėjimo procedūrą pateikimas ir jo nagrinėjimas
 1. Skundas dėl galimo vartotojų teisių pažeidimo
-(toliau – skundas) Valstybinei vartotojų teisių apsaugos tarnybai turi būti pateiktas
-raštu. 
+(toliau – skundas) Valstybinei vartotojų teisių apsaugos tarnybai turi būti
+pateiktas raštu. 
 2. Skunde turi būti nurodyta:
 1) pareiškėjo vardas, pavardė, adresas (jeigu
 kreipiasi fizinis asmuo) arba pavadinimas, kodas, buveinės adresas (jeigu
@@ -1328,16 +1482,16 @@ Valstybinės vartotojų teisių apsaugos tarnybos kompetencijai;
 2) skunde nurodyti faktiniai duomenys jau buvo
 patikrinti ir dėl jų priimtas Valstybinės vartotojų teisių apsaugos tarnybos
 nutarimas;
-3) nėra faktinių duomenų, kurie leistų pagrįstai
-įtarti vartotojų teisių pažeidimą, arba pareiškėjas be pateisinamos priežasties
-per nustatytą terminą nepateikia jo skundą pagrindžiančių dokumentų;
+3) nėra faktinių duomenų, kurie leistų pagrįstai įtarti
+vartotojų teisių pažeidimą, arba pareiškėjas be pateisinamos priežasties per
+nustatytą terminą nepateikia jo skundą pagrindžiančių dokumentų;
 4) nuo galimo šio įstatymo pažeidimo iki skundo
 pateikimo Valstybinei vartotojų teisių apsaugos tarnybai dienos yra praėję
 daugiau kaip treji metai.
 4. Valstybinė vartotojų teisių apsaugos tarnyba per 30
 kalendorinių dienų nuo skundo, atitinkančio šiame straipsnyje nustatytus
-reikalavimus, gavimo dienos praneša pareiškėjui priežastis, dėl kurių atsisakoma
-pradėti vartotojų teisių pažeidimo nagrinėjimo procedūrą.
+reikalavimus, gavimo dienos praneša pareiškėjui priežastis, dėl kurių
+atsisakoma pradėti vartotojų teisių pažeidimo nagrinėjimo procedūrą.
 Įstatymas
 papildytas straipsniu:
 Nr. XI-1620,
@@ -1382,10 +1536,10 @@ procedūros dalyviai nedalyvauja galimo vartotojų teisių pažeidimo nagrinėji
 metu, šis pažeidimas gali būti nagrinėjamas tik tuo atveju, kai yra duomenų,
 kad jiems tinkamai ir laiku buvo pranešta apie vartotojų teisių pažeidimo
 nagrinėjimo vietą ir laiką.
-4. Vartotojų teisių pažeidimo nagrinėjimo metu šios
-procedūros dalyviai turi teisę susipažinti su gautais dokumentais ir kita
-informacija, duoti žodinius ar rašytinius paaiškinimus, teikti prašymus,
-pateikti papildomą informaciją ir kitus dokumentus. 
+4. Vartotojų teisių pažeidimo nagrinėjimo metu šios procedūros
+dalyviai turi teisę susipažinti su gautais dokumentais ir kita informacija,
+duoti žodinius ar rašytinius paaiškinimus, teikti prašymus, pateikti papildomą
+informaciją ir kitus dokumentus. 
 5. Valstybinė vartotojų teisių apsaugos tarnyba galimą
 vartotojų teisių pažeidimą išnagrinėja ir šio
 įstatymo 40 straipsnyje nurodytas sankcijas paskiria per įmanomai trumpesnį
@@ -1410,14 +1564,14 @@ Nr. XI-1620,
  
 46 straipsnis.
 Nutarimas atlikus vartotojų teisių pažeidimo nagrinėjimo procedūrą
-1. Valstybinė vartotojų teisių apsaugos tarnyba,
-atlikusi vartotojų teisių pažeidimo nagrinėjimo procedūrą, priima nutarimą,
-kuriame turi būti nurodyta:
+1. Valstybinė vartotojų teisių apsaugos tarnyba, atlikusi
+vartotojų teisių pažeidimo nagrinėjimo procedūrą, priima nutarimą, kuriame turi
+būti nurodyta:
 1) nutarimą priėmusios institucijos pavadinimas; 
 2) nutarimo priėmimo data ir vieta;
-3) nutarimą priėmusio asmens (kolegialaus organo) duomenys,
-posėdžio sekretorius, vartotojų teisių pažeidimo nagrinėjimo procedūros
-dalyviai ir kiti dalyvavę suinteresuoti asmenys; 
+3) nutarimą priėmusio asmens (kolegialaus organo)
+duomenys, posėdžio sekretorius, vartotojų teisių pažeidimo nagrinėjimo
+procedūros dalyviai ir kiti dalyvavę suinteresuoti asmenys; 
 4) pardavėjo ar paslaugos teikėjo, dėl kurio veiksmų
 (neveikimo) buvo priimtas nutarimas, duomenys;
 5) skundo, pagal kurį
@@ -1537,11 +1691,20 @@ paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB,
 6. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais
 pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi
 sutarčių aspektais (OL 2009 L 33, p. 10).
+Papildoma punktu nuo
+2014-06-13:
+7. 2011 m. spalio 25 d.
+Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria
+iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir
+Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir
+Europos Parlamento ir Tarybos direktyva 97/7/EB (OL 2011 L 304, p. 64).
 Priedo pakeitimai:
 Nr. XI-562,
 2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 Nr. XI-1620,
 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
  
  
 Pakeitimai:
@@ -1552,9 +1715,9 @@ Nr. VIII-1946,
 00.09.19, Žin., 2000, Nr.85-2581 (00.10.11)
 VARTOTOJŲ TEISIŲ GYNIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija 
-Vartotojų teisių gynimo įstatymo pakeitimo
-įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30 straipsnius,
-įsigalioja nuo 2001 m. sausio 1 d.
+Vartotojų teisių gynimo įstatymo
+pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30
+straipsnius, įsigalioja nuo 2001 m. sausio 1 d.
 Iki 2004 m. sausio 1 d. vietoj
 Vartotojų teisių gynimo įstatymo 7 straipsnio 4 ir 6 dalyse nurodyto 2 metų
 termino taikomas 6 mėnesių terminas.
@@ -1647,10 +1810,20 @@ Nr. XII-267,
 VARTOTOJŲ TEISIŲ
 APSAUGOS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-701,
+2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
+LIETUVOS RESPUBLIKOS VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO 2, 4, 5, 14, 15,
+37, 40 STRAIPSNIŲ BEI PRIEDO PAKEITIMO IR PAPILDYMO IR 16 STRAIPSNIO
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m.
+birželio 13 d. 
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė
-Trapinskienė (2013-05-27)
+Trapinskienė (2014-01-17)
                  
 ausrine.trapinskiene@lrs.lt
