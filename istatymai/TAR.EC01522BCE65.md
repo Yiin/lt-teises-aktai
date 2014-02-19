@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-02-18
+Suvestinė redakcija nuo 2014-02-19 iki 2017-06-29
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -70,13 +70,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Seimo kontrolierių veiklos tikslas
+3 straipsnis. Seimo kontrolierių veiklos tikslas
 
 
-Seimo kontrolierių veiklos tikslas – ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms.
+Seimo kontrolierių veiklos tikslas – ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms. Seimo kontrolieriai taip pat vykdo nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
  
-
-
 
 
 
@@ -641,6 +643,134 @@ Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA
 
 
 
+191 straipsnis. Nacionalinė prevencijos institucija
+
+
+1. Seimo kontrolierių įstaiga yra laikoma nacionaline prevencijos institucija pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
+
+
+
+
+2. Siekdami užkirsti kelią kankinimui ir kitokiam žiauriam, nežmoniškam ar žeminančiam elgesiui ar baudimui, Seimo kontrolieriai prevencijos tikslais nuolat lankosi laisvės apribojimo vietose.
+
+
+
+
+3. Laisvės apribojimo vieta yra bet kuri Lietuvos Respublikos jurisdikcijai priklausanti ar jos kontroliuojama vieta, kurioje asmenų laisvė yra arba gali būti apribota, vadovaujantis valdžios įstaigos sprendimu ar jai paraginus arba su jos pritarimu ar sutikimu. Laisvės apribojimo vietomis laikytinos:
+
+
+1) pataisos įstaigos;
+
+
+
+
+2) tardymo izoliatoriai;
+
+
+
+
+3) areštinės;
+
+
+
+
+4) psichiatrijos įstaigos;
+
+
+
+
+5) užkrečiamųjų ligų gydymo įstaigos;
+
+
+
+
+6) globos namai;
+
+
+
+
+7) pasienio kontrolės punktai;
+
+
+
+
+8) Užsieniečių registracijos centras;
+
+
+
+
+9) kitos laisvės apribojimo vietos.
+
+
+
+
+
+
+4. Vykdydami nacionalinę kankinimų prevenciją, Seimo kontrolieriai turi teisę:
+
+
+1) nuolat tikrinti, kaip laisvės apribojimo vietose elgiamasi su asmenimis, kurių laisvė apribota;
+
+
+
+
+2) gauti visą informaciją apie elgesį su asmenimis, kurių laisvė apribota, apie jų laikymo sąlygas, taip pat apie tokių asmenų skaičių, apie laisvės apribojimo vietų skaičių ir jų buvimo vietą;
+
+
+
+
+3) patekti į visas laisvės apribojimo vietas ir visas jose esančias patalpas, susipažinti su jų įrengimu ir infrastruktūra;
+
+
+
+
+4) apklausti be liudininkų asmenis, kurių laisvė apribota, taip pat bet kokius kitus asmenis, kurie galėtų suteikti reikiamos informacijos;
+
+
+
+
+5) pasirinkti, kokias laisvės apribojimo vietas aplankyti ir kokius asmenis apklausti;
+
+
+
+
+6) laisvės apribojimo vietų patikrinimus atlikti kartu su pasirinktais ekspertais;
+
+
+
+
+7) teikti atitinkamoms valdžios įstaigoms siūlymus (rekomendacijas), kaip pagerinti elgesį su asmenimis, kurių laisvė apribota, šių asmenų laikymo sąlygas, taip pat kaip užkirsti kelią kankinimui ir kitokiam žiauriam, nežmoniškam ar žeminančiam elgesiui ar baudimui;
+
+
+
+
+8) teikti išvadas dėl galiojančių teisės aktų ir teisės aktų projektų.
+
+
+
+
+
+
+5. Jokia valdžios įstaiga ar pareigūnas negali nurodyti taikyti, patys taikyti, leisti taikyti ar toleruoti kokių nors nuobaudų asmeniui ar organizacijai, kuri Seimo kontrolieriams pateikė kokios nors informacijos, susijusios su nacionalinės prevencijos institucijos funkcijų atlikimu.
+
+
+
+
+6. Kompetentingos institucijos privalo išnagrinėti Seimo kontrolierių siūlymus (rekomendacijas), konsultuotis su Seimo kontrolieriais dėl siūlymų (rekomendacijų) galimų įgyvendinimo priemonių ir informuoti Seimo kontrolierius apie jų pateiktų siūlymų (rekomendacijų) įgyvendinimo rezultatus.
+
+
+
+
+7. Seimo kontrolieriai palaiko ryšius su Kovos su kankinimais komiteto Kankinimo ir kitokio žiauraus, nežmoniško ar žeminančio elgesio ar baudimo prevencijos pakomitečiu.
+
+
+Papildyta straipsniu:
+Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
+ 
+
+
+
+
 20 straipsnis. Seimo kontrolierių reikalavimų privalomumas
 
 
@@ -971,3 +1101,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2291, 2012-10-17, Žin., 2012, Nr. 129-6465 (2012-11-08), i. k. 1121010ISTA0XI-2291
 Lietuvos Respublikos Seimo kontrolierių įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
+Lietuvos Respublikos Seimo kontrolierių įstatymo 3 straipsnio pakeitimo ir įstatymo papildymo 19-1 straipsniu įstatymas
