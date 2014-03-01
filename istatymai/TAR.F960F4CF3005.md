@@ -26,7 +26,7 @@ Vilnius
  
  
 Nauja įstatymo
-redakcija:
+redakcija nuo 2001-11-09:
 Nr. IX-566,
 2001-10-23, Žin., 2001, Nr. 94-3307 (2001-11-09)
 PIRMASIS SKIRSNIS 
@@ -39,8 +39,8 @@ straipsnis. Įstatymo paskirtis
 šaltinius ir savivaldybių biudžetams skiriamų valstybės biudžeto dotacijų bei
 lėšų apskaičiavimo, tvirtinimo ir pervedimo tvarką.
  
-ANTRASIS SKIRSNIS
-
+ANTRASIS
+SKIRSNIS 
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMOS
  
@@ -74,7 +74,8 @@ Valstybės iždo sąskaitą;
 3) nemokestines
 pajamas, kurias savivaldybės biudžetui pagal įstatymus sumoka fiziniai ir
 juridiniai asmenys.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr.
@@ -122,14 +123,12 @@ ar jos įgaliotos institucijos nustatytą tvarką;
 3) Seimo, Vyriausybės patvirtintoms programoms ar
 priimtiems sprendimams vykdyti.
 3. Valstybės biudžeto bendrosios dotacijos kompensacijos
-(BDK) savivaldybių biudžetams skiriamos dėl Seimo ar Vyriausybės priimtų
-sprendimų atsirandantiems savivaldybių biudžetų pajamų ir išlaidų pokyčiams
-kompensuoti.
+(BDK) savivaldybių biudžetams skiriamos dėl Seimo ar Vyriausybės priimtų sprendimų
+atsirandantiems savivaldybių biudžetų pajamų ir išlaidų pokyčiams kompensuoti.
 4. Dotacijų dydžiai savivaldybėms tvirtinami atitinkamų
 biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymu.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr.
@@ -206,8 +205,8 @@ dalis gyventojų pajamų mokesčiui išlyginti;
 gauti) biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų
 mokesčio vienam gyventojui;
 4) xif – faktinės (arba numatomos faktiškai
-gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų
-pajamų mokesčio vienam savivaldybės gyventojui.
+gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų pajamų
+mokesčio vienam savivaldybės gyventojui.
 5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam
 savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal
 nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.
@@ -257,12 +256,13 @@ išlaidų struktūrų skirtumams išlyginti;
 – koeficientas, nurodantis n-ojo demografinio, socialinio ar kito rodiklio
 įtaką visų savivaldybių išlaidų struktūrai ;
 3) Eni – i-ajai savivaldybei
-tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio
-dalis, apskaičiuojama pagal formulę , čia Rni
+tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis,
+apskaičiuojama pagal formulę , čia Rni
 – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
 imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
 dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
@@ -271,8 +271,8 @@ SKIRSNIS
 RODIKLIŲ
 TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
  
-9 straipsnis. Savivaldybių biudžetų pajamų
-dydį ir išlyginimą lemiantys rodikliai
+9 straipsnis. Savivaldybių biudžetų
+pajamų dydį ir išlyginimą lemiantys rodikliai
 1. Savivaldybių biudžetų pajamų dydį ir
 išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio
 priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui
@@ -302,18 +302,27 @@ bendras plotas, kurio koeficientas K8 lygus 0,035;
 teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurortinės
 teritorijos statusas, bendras plotas, kurio koeficientas K9 lygus
 0,005.
-2. Savivaldybės gyventojų skaičius, demografinių,
-socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys,
-kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių
-gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie
-buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių
-duomenų bazėse.
+2. Savivaldybės gyventojų skaičius ir šio straipsnio 1
+dalies 3, 4 ir 5 punktuose nurodyti rodikliai nustatomi pagal einamųjų
+biudžetinių metų sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir
+neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos
+Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo
+nuostatuose nustatyta tvarka ir terminais. Šio straipsnio 1
+dalies 1, 2, 6, 7, 8 ir 9 punktuose nurodyti rodikliai
+nustatomi pagal duomenis, paskelbtus praėjusių biudžetinių metų statistiką
+tvarkančių institucijų, įstaigų leidinių duomenų bazėse.
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr. X-1683,
 2008-07-03, Žin., 2008, Nr. 81-3184 (2008-07-17)
+Nr. XII-691,
+2013-12-17, Žin., 2013, Nr. 140-7068 (2013-12-30)
+Pastaba. Šio įstatymo
+nuostatos taikomos rengiant Lietuvos Respublikos 2015 metų ir vėlesnių metų
+valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
+įstatymų projektus.
  
 10 straipsnis.
 Finansiniai rodikliai ir pervedimai 
@@ -346,10 +355,10 @@ rėmimo specialiosios programos įstatymą.
 dotacijų sumas, nurodytas šio straipsnio 1 dalyje, perveda atitinkamų metų
 valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 įstatyme nurodytos valstybės institucijos ir įstaigos:
-1) kas ketvirtį, iki einamojo ketvirčio pirmo
-mėnesio 10 dienos, lygiomis dalimis (išskyrus nurodytas šios dalies 2 punkte),
-jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių
-rodiklių patvirtinimo įstatymas nenustato kitaip;
+1) kas ketvirtį, iki einamojo ketvirčio
+pirmo mėnesio 10 dienos, lygiomis dalimis (išskyrus nurodytas šios dalies 2
+punkte), jeigu atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
+finansinių rodiklių patvirtinimo įstatymas nenustato kitaip;
 2) specialią tikslinę dotaciją mokinio
 krepšeliui finansuoti, atsižvelgdamos į lėšų poreikį švietimo įstaigų
 darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.
@@ -379,8 +388,8 @@ savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos
 kompensacijos suma;
 2) jeigu Seimo ar Vyriausybės sprendimai
 turi įtakos tik kai kurioms savivaldybėms, su savivaldybių pajamų ir išlaidų
-pokyčiais susijusios sumos apskaičiuojamos taikant konkrečius valstybės institucijų,
-įstaigų ir savivaldybių suderintus dydžius.
+pokyčiais susijusios sumos apskaičiuojamos taikant konkrečius valstybės
+institucijų, įstaigų ir savivaldybių suderintus dydžius.
 7. Kai Seimas
 priima įstatymus arba Vyriausybė, vykdydama įstatymus, priima nutarimus, dėl
 kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų metų
@@ -1085,7 +1094,6 @@ nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto 
 savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
  
  
- 
 Pakeitimai:
 1.
 Lietuvos
@@ -1093,8 +1101,8 @@ Respublikos Seimas, Įstatymas
 Nr. VIII-544, 97.12.02,
 Žin., 1997, Nr.116-2953 (97.12.19)
 LIETUVOS
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14 STRAIPSNIO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -1264,25 +1272,40 @@ Nr. XII-77,
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo
-nuostatos taikomos rengiant 2013 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių
-biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+nuostatos taikomos rengiant 2013 metų ir vėlesnių metų valstybės biudžeto ir
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
  
 17.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-660,
-2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
-LIETUVOS RESPUBLIKOS
-SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10, 12, 13 STRAIPSNIŲ
-IR PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+Nr. XII-660, 2013-12-12,
+Žin., 2013, Nr. 140-7045 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10, 12,
+13 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo
 nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+ 
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-691,
+2013-12-17, Žin., 2013, Nr. 140-7068 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 9
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas,
+išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. kovo 1 d.
+Šio įstatymo
+nuostatos taikomos rengiant Lietuvos Respublikos 2015 metų ir vėlesnių metų
+valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
+įstatymų projektus.
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė
-Trapinskienė (2013-12-31)
+Trapinskienė (2014-01-11)
                  
 ausrine.trapinskiene@lrs.lt
