@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2014-03-19
+Suvestinė redakcija nuo 2014-03-20 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -131,232 +131,377 @@ BENDROSIOS NUOSTATOS
 
 
 
-15. Pirminis žvejybos produktų pardavimas – sužvejotų, apdorotų ar laive perdirbtų žvejybos produktų, iškrautų uoste, pardavimas arba jų pardavimas iš žvejybos ir kitų žvejybos produktus vežančių laivų.
+15. Perleidžiamoji teisė į žvejybos vidaus vandenyse kvotą – ūkio subjektui suteikta atšaukiama ir perleidžiama teisė gauti tam tikro dydžio verslinės žvejybos vidaus vandenų telkinyje kvotą. 
+Papildyta straipsnio dalimi:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-16. Pirminis žvejybos produktų supirkėjas – ūkio subjektas arba žvejybos produktų gamintojų organizacija, vykdantys pirminį žvejybos produktų supirkimą Lietuvos Respublikos teritorijoje.
+16. Pirminis žvejybos produktų pardavimas – sužvejotų, apdorotų ar laive perdirbtų žvejybos produktų, iškrautų uoste, pardavimas arba jų pardavimas iš žvejybos ir kitų žvejybos produktus vežančių laivų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-17. Pirminis žvejybos produktų supirkimas – sužvejotų, apdorotų ar laive perdirbtų žvejybos produktų, iškrautų uoste, supirkimas arba jų supirkimas iš žvejybos ir kitų žvejybos produktus vežančių laivų.
+17. Pirminis žvejybos produktų supirkėjas – ūkio subjektas arba žvejybos produktų gamintojų organizacija, vykdantys pirminį žvejybos produktų supirkimą Lietuvos Respublikos teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-18. Pramoninis akvakultūros tvenkinių ūkis – teritorija ir joje įrengta įvairių kategorijų akvakultūros tvenkinių (neršto, auginimo, ganyklinių, pirminių, žiemojimo ir karantininių) sistema kartu su akvakultūrai naudojamais statiniais ir įrenginiais.
+18. Pirminis žvejybos produktų supirkimas – sužvejotų, apdorotų ar laive perdirbtų žvejybos produktų, iškrautų uoste, supirkimas arba jų supirkimas iš žvejybos ir kitų žvejybos produktus vežančių laivų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-19. Priekrantės žvejyba – žvejyba Žemės ūkio ministerijos nustatytoje priekrantės žvejybos zonoje ne ilgesniais kaip 12 metrų laivais.
+19. Pramoninis akvakultūros tvenkinių ūkis – teritorija ir joje įrengta įvairių kategorijų akvakultūros tvenkinių (neršto, auginimo, ganyklinių, pirminių, žiemojimo ir karantininių) sistema kartu su akvakultūrai naudojamais statiniais ir įrenginiais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-20. Privalomasis nurodymas – žuvininkystės kontrolės pareigūno įpareigojimas ūkio subjektui per tam tikrą terminą įgyvendinti žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus arba imtis priemonių, kad žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų arba žalos žuvų ištekliams būtų išvengta ar ji sumažinta, arba likviduoti dėl žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimo atsiradusias pasekmes, arba įgyvendinti žuvų išteklių atkūrimo priemones.
+20. Priekrantės žvejyba – žvejyba Žemės ūkio ministerijos nustatytoje priekrantės žvejybos zonoje ne ilgesniais kaip 12 metrų laivais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-21. Specialioji žvejyba – žvejyba mokslinių ar veterinarinių tyrimų, stebėsenos, žuvivaisos, biologinės melioracijos, mokymo tikslais.
+21. Privalomasis nurodymas – žuvininkystės kontrolės pareigūno įpareigojimas ūkio subjektui per tam tikrą terminą įgyvendinti žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus arba imtis priemonių, kad žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų arba žalos žuvų ištekliams būtų išvengta ar ji sumažinta, arba likviduoti dėl žuvų išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimo atsiradusias pasekmes, arba įgyvendinti žuvų išteklių atkūrimo priemones.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-22. Specializuotoji verslinė žvejyba – verslinė žvejyba, kai vienos rūšies žuvų laimikis sudaro daugiau kaip 50 procentų bendro laimikio svorio ir (arba) kurioje naudojami verslinės žvejybos įrankiai tam tikrų rūšių žuvims gaudyti. 
+22. Specialioji žvejyba – žvejyba mokslinių ar veterinarinių tyrimų, stebėsenos, žuvivaisos, biologinės melioracijos, mokymo tikslais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-23. Tarpšakinė žuvininkystės organizacija – Žemės ūkio ministerijos arba jos įgaliotos institucijos pripažinta asociacija, vienijanti ūkio subjektus, užsiimančius žuvininkystės produktų gamyba, prekyba ir (arba) perdirbimu, įsteigta žuvininkystės produktų rinkai plėtoti ir pardavimo sąlygoms gerinti.
+23. Specializuotoji verslinė žvejyba – verslinė žvejyba, kai vienos rūšies žuvų laimikis sudaro daugiau kaip 50 procentų bendro laimikio svorio ir (arba) kurioje naudojami verslinės žvejybos įrankiai tam tikrų rūšių žuvims gaudyti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-24. Tvenkinių akvakultūra – vandens organizmų veisimas, auginimas ir gaudymas akvakultūros tvenkiniuose.
+24. Tarpšakinė žuvininkystės organizacija – Žemės ūkio ministerijos arba jos įgaliotos institucijos pripažinta asociacija, vienijanti ūkio subjektus, užsiimančius žuvininkystės produktų gamyba, prekyba ir (arba) perdirbimu, įsteigta žuvininkystės produktų rinkai plėtoti ir pardavimo sąlygoms gerinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-25. Ūkio subjektas – Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, Lietuvos Respublikoje įsteigtas juridinis asmuo arba kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų filialai.
+25. Tvenkinių akvakultūra – vandens organizmų veisimas, auginimas ir gaudymas akvakultūros tvenkiniuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-26. Uždaroji akvakultūros sistema – uždaros vandens apytakos akvakultūros sistema, kurioje palaikomi reikiami vandens fizikiniai ir cheminiai rodikliai. 
+26. Ūkio subjektas – Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, Lietuvos Respublikoje įsteigtas juridinis asmuo arba kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų filialai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-27. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė. 
+27. Uždaroji akvakultūros sistema – uždaros vandens apytakos akvakultūros sistema, kurioje palaikomi reikiami vandens fizikiniai ir cheminiai rodikliai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-28. Vandens telkinys – jūrų vandenų ar vidaus vandenų telkinys.
+28. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-29. Vandens transporto priemonė – laivas ar kitas plaukiamasis įrenginys arba priemonė.
+29. Vandens telkinys – jūrų vandenų ar vidaus vandenų telkinys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-30. Verslinė žvejyba – žvejyba verslinės žvejybos įrankiais pagal nustatytą tvarką.
+30. Vandens transporto priemonė – laivas ar kitas plaukiamasis įrenginys arba priemonė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-31. Verslinės žvejybos įrankiai – žvejybos įrankiai, išvardyti 2003 m. gruodžio 30 d. Komisijos reglamento (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (toliau – Reglamentas (EB) Nr. 26/2004) (OL 2004 m. specialusis leidimas, 4 skyrius, 7 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2006 m. gruodžio 6 d. Komisijos reglamentu (EB) Nr. 1799/2006 (OL 2006 L 341, p. 26), I priedo 3 lentelėje. 
+31. Verslinė žvejyba – žvejyba verslinės žvejybos įrankiais pagal nustatytą tvarką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-32. Vidaus vandenys – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršiniai vandens telkiniai ir tarpiniai vandenys.
+32. Verslinės žvejybos įrankiai – žvejybos įrankiai, išvardyti 2003 m. gruodžio 30 d. Komisijos reglamento (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (toliau – Reglamentas (EB) Nr. 26/2004) (OL 2004 m. specialusis leidimas, 4 skyrius, 7 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2006 m. gruodžio 6 d. Komisijos reglamentu (EB) Nr. 1799/2006 (OL 2006 L 341, p. 26), I priedo 3 lentelėje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-33. Žuvininkystė – veikla, apimanti žuvų išteklių valdymą, išsaugojimą ir atkūrimą, žvejybą, akvakultūrą, žuvų perdirbimą, pirminį žuvininkystės produktų pardavimą ir supirkimą.
+33. Vidaus vandenys – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršiniai vandens telkiniai ir tarpiniai vandenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-34. Žuvininkystės kontrolė – valstybės įgaliotų institucijų ir pareigūnų veikla, kuria siekiama užtikrinti žuvų išteklių naudojimo teisėtumą ir tvarką ir kuri apima žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevenciją, pažeidimų nutraukimą, dėl padarytų pažeidimų kaltų fizinių asmenų ir ūkio subjektų nustatymą ir jų patraukimą atsakomybėn įstatymų nustatyta tvarka.
+34. Žuvininkystė – veikla, apimanti žuvų išteklių valdymą, išsaugojimą ir atkūrimą, žvejybą, akvakultūrą, žuvų perdirbimą, pirminį žuvininkystės produktų pardavimą ir supirkimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-35. Žuvininkystės produktai – žvejybos ir akvakultūros produktai.
+35. Žuvininkystės kontrolė – valstybės įgaliotų institucijų ir pareigūnų veikla, kuria siekiama užtikrinti žuvų išteklių naudojimo teisėtumą ir tvarką ir kuri apima žuvų išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevenciją, pažeidimų nutraukimą, dėl padarytų pažeidimų kaltų fizinių asmenų ir ūkio subjektų nustatymą ir jų patraukimą atsakomybėn įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-36. Žuvininkystės produktų gamyba – veikla, apimanti pirminę gamybą (žuvininkystės produktų gamyba, įskaitant žuvų auginimą ir gaudymą) ir pirminį perdirbimą (apdorojimas, kurio metu iš žuvininkystės produkto nekeičiant jo cheminės sudėties taip pat gaunamas žuvininkystės produktas).
+36. Žuvininkystės produktai – žvejybos ir akvakultūros produktai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-37. Žuvininkystės produktų perdirbimas – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 21 dalyje.
+37. Žuvininkystės produktų gamyba – veikla, apimanti pirminę gamybą (žuvininkystės produktų gamyba, įskaitant žuvų auginimą ir gaudymą) ir pirminį perdirbimą (apdorojimas, kurio metu iš žuvininkystės produkto nekeičiant jo cheminės sudėties taip pat gaunamas žuvininkystės produktas).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-38. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai.
+38. Žuvininkystės produktų perdirbimas – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 21 dalyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-39. Žuvivaisa – žuvų veisimas, paauginimas ir jų perkėlimas iš vienų vandens telkinių į kitus, taip pat reproduktorių gaudymas ir laikymas žuvų išteklių atkūrimo, palaikymo ir gausinimo tikslais.
+39. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-40. Žuvų augintojas – ūkio subjektas, auginantis žuvis gėlame ar jūros vandenyje, sudarydamas joms dirbtines mitybos ir gyvenimo sąlygas.
+40. Žuvivaisa – žuvų veisimas, paauginimas ir jų perkėlimas iš vienų vandens telkinių į kitus, taip pat reproduktorių gaudymas ir laikymas žuvų išteklių atkūrimo, palaikymo ir gausinimo tikslais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-41. Žuvų gaudyklė – vienos ar kelių kamerų stacionarus žvejybos įrankis, pagamintas taip, kad žuvys į jį neįsipainiotų, o būtų nukreipiamos į kameras, kuriose išliktų gyvybingos.
+41. Žuvų augintojas – ūkio subjektas, auginantis žuvis gėlame ar jūros vandenyje, sudarydamas joms dirbtines mitybos ir gyvenimo sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-42. Žuvų išgaudymo duobė – žuvims išgaudyti skirta speciali duobė, kurioje jos susikaupia nuleidžiant vandenį iš akvakultūros tvenkinio.
+42. Žuvų gaudyklė – vienos ar kelių kamerų stacionarus žvejybos įrankis, pagamintas taip, kad žuvys į jį neįsipainiotų, o būtų nukreipiamos į kameras, kuriose išliktų gyvybingos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-43. Žuvų ištekliai – visos gėlavandenės ir jūrų žuvys, kurias žmogus naudoja arba gali naudoti savo poreikiams, išskyrus dirbtinai auginamas žuvis.
+43. Žuvų išgaudymo duobė – žuvims išgaudyti skirta speciali duobė, kurioje jos susikaupia nuleidžiant vandenį iš akvakultūros tvenkinio.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-44. Žuvų išteklių išsaugojimas ir atkūrimas – teisinės, materialios ir finansinės priemonės, padedančios išlaikyti stabilias natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas.
+44. Žuvų ištekliai – visos gėlavandenės ir jūrų žuvys, kurias žmogus naudoja arba gali naudoti savo poreikiams, išskyrus dirbtinai auginamas žuvis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-45. Žuvų išteklių naudotojas – ūkio subjektas, turintis Žemės ūkio ministerijos arba Lietuvos Respublikos aplinkos ministerijos (toliau – Aplinkos ministerija), arba privataus vidaus vandenų telkinio savininko suteiktą teisę naudoti žuvų išteklius šio įstatymo nustatyta tvarka, arba privataus vidaus vandenų telkinio savininkas.
+45. Žuvų išteklių išsaugojimas ir atkūrimas – teisinės, materialios ir finansinės priemonės, padedančios išlaikyti stabilias natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-46. Žvejyba – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje.
+46. Žuvų išteklių naudotojas – ūkio subjektas, turintis Žemės ūkio ministerijos arba Lietuvos Respublikos aplinkos ministerijos (toliau – Aplinkos ministerija), arba privataus vidaus vandenų telkinio savininko suteiktą teisę naudoti žuvų išteklius šio įstatymo nustatyta tvarka, arba privataus vidaus vandenų telkinio savininkas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-47. Žvejybos ploto naudotojas – kaip apibrėžta Lietuvos Respublikos mėgėjų žvejybos įstatyme (toliau – Mėgėjų žvejybos įstatymas).
+47. Žvejyba – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-48. Žvejybos baras – geografinėmis koordinatėmis apibrėžta vandens telkinio dalis.
+48. Žvejybos ploto naudotojas – kaip apibrėžta Lietuvos Respublikos mėgėjų žvejybos įstatyme (toliau – Mėgėjų žvejybos įstatymas).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-49. Žvejybos galimybės – teisė žvejoti, išreikšta leidžiamu sugauti kiekiu ir (arba) žvejybos pastangomis. 
+49. Žvejybos baras – geografinėmis koordinatėmis apibrėžta vandens telkinio dalis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-50. Žvejybos kvota – ūkio subjektui skiriamas žvejybos limitas ar jo dalis vidaus vandenų telkinyje arba individualios žvejybos galimybės jūrų vandenyse, išreikštos didžiausiu galimu sugauti tam tikros rūšies žuvų kiekiu.
+50. Žvejybos galimybės – teisė žvejoti, išreikšta leidžiamu sugauti kiekiu ir (arba) žvejybos pastangomis. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-51. Žvejybos laivas – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 31 dalyje.
+51. Žvejybos kvota – ūkio subjektui skiriamas žvejybos limitas ar jo dalis vidaus vandenų telkinyje arba individualios žvejybos galimybės jūrų vandenyse, išreikštos didžiausiu galimu sugauti tam tikros rūšies žuvų kiekiu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-52. Žvejybos leidimas – dokumentas, kuriuo suteikiama teisė žvejoti jame nurodytomis sąlygomis.
+52. Žvejybos laivas – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 31 dalyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-53. Žvejybos limitas – vidaus vandenų telkiniui nustatytas arba didžiausias galimas sugauti žuvų kiekis arba žvejybos įrankių arba žvejybos dienų, arba žvejybos vietų skaičius.
+53. Žvejybos leidimas – dokumentas, kuriuo suteikiama teisė žvejoti jame nurodytomis sąlygomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-54. Žvejybos pajėgumas – žvejybos laivo talpa, išreiškiama bendrąja talpa (GT), ir žvejybos laivo galia, išreiškiama kilovatais (kW). Tam tikrų žvejybos rūšių žvejybos pajėgumas gali būti išreiškiamas žvejybos įrankių kiekiu ir (arba) dydžiu.
+54. Žvejybos limitas – vidaus vandenų telkiniui nustatytas arba didžiausias galimas sugauti žuvų kiekis arba žvejybos įrankių arba žvejybos dienų, arba žvejybos vietų skaičius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-55. Žvejybos pastangos – žvejybos laivo pajėgumo ir žvejybos trukmės sandauga. Laivų grupės žvejybos pastangos yra visų grupę sudarančių laivų žvejybos pastangų suma.
+55. Žvejybos pajėgumas – žvejybos laivo talpa, išreiškiama bendrąja talpa (GT), ir žvejybos laivo galia, išreiškiama kilovatais (kW). Tam tikrų žvejybos rūšių žvejybos pajėgumas gali būti išreiškiamas žvejybos įrankių kiekiu ir (arba) dydžiu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-56. Žvejybos priežiūra – žvejybos stebėsena, atliekama žvejybos kontrolei naudojamais laivais arba orlaiviais, palydovine žvejybos laivų stebėjimo sistema, taip pat taikant kitus techninius žvejybos laivų vietos nustatymo ir atpažinties metodus siekiant užtikrinti žuvininkystės kontrolę.
+56. Žvejybos pastangos – žvejybos laivo pajėgumo ir žvejybos trukmės sandauga. Laivų grupės žvejybos pastangos yra visų grupę sudarančių laivų žvejybos pastangų suma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-57. Žvejybos produktai – vandens organizmai, kurie yra žvejybos veiklos rezultatas, taip pat iš šių organizmų gauti produktai. 
+57. Žvejybos priežiūra – žvejybos stebėsena, atliekama žvejybos kontrolei naudojamais laivais arba orlaiviais, palydovine žvejybos laivų stebėjimo sistema, taip pat taikant kitus techninius žvejybos laivų vietos nustatymo ir atpažinties metodus siekiant užtikrinti žuvininkystės kontrolę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-58. Žvejybos produktų gamintojų organizacija – juridinis asmuo, versline žvejyba užsiimančių žuvų išteklių naudotojų įsteigtas žvejybos produktų pardavimo sąlygoms gerinti ir pripažintas Žemės ūkio ministerijos arba jos įgaliotos institucijos.
+58. Žvejybos produktai – vandens organizmai, kurie yra žvejybos veiklos rezultatas, taip pat iš šių organizmų gauti produktai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-59. Žvejybos stebėtojas – fizinis asmuo, Žemės ūkio ministerijos įgaliotos institucijos įgaliotas stebėti, kaip Lietuvos Respublikos žvejybos laivo kapitonas ir kiti įgulos nariai laikosi žvejybos srities teisės aktų.
+59. Žvejybos produktų gamintojų organizacija – juridinis asmuo, versline žvejyba užsiimančių žuvų išteklių naudotojų įsteigtas žvejybos produktų pardavimo sąlygoms gerinti ir pripažintas Žemės ūkio ministerijos arba jos įgaliotos institucijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-60. Žvejybos zona – vandens telkinys arba jo dalis, kuriuose taikomos tam tikros žvejybos taisyklės.
+60. Žvejybos stebėtojas – fizinis asmuo, Žemės ūkio ministerijos įgaliotos institucijos įgaliotas stebėti, kaip Lietuvos Respublikos žvejybos laivo kapitonas ir kiti įgulos nariai laikosi žvejybos srities teisės aktų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+61. Žvejybos zona – vandens telkinys arba jo dalis, kuriuose taikomos tam tikros žvejybos taisyklės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
  
 
 
@@ -495,22 +640,41 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Žvejybos jūrų vandenyse reglamentavimo priemones nustato Europos Sąjungos teisės aktai, o priemones, kurių nereglamentuoja Europos Sąjungos teisės aktai, nustato Žemės ūkio ministerija arba jos įgaliota institucija. Žvejybos vidaus vandenyse reglamentavimo priemones nustato Aplinkos ministerija. 
+3. Žvejybos jūrų vandenyse reglamentavimo priemones nustato Europos Sąjungos teisės aktai, o priemones, kurių nereglamentuoja Europos Sąjungos teisės aktai, nustato Žemės ūkio ministerija arba jos įgaliota institucija. Žvejybos vidaus vandenyse reglamentavimo priemones nustato Aplinkos ministerija. Žvejybos vidaus vandenyse limitus, verslinės žvejybos vidaus vandenyse draudimą ar ribojimą tam tikru laiku (arba tam tikrose vietose) arba tam tikrų rūšių žuvų žvejybos uždraudimą Aplinkos ministerija nustato tik remdamasi šio straipsnio 6 dalyje nustatyta tvarka atliekamų žuvų išteklių tyrimų duomenimis.
+Straipsnio dalies pakeitimai:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-4. Žvejybos vidaus vandenyse kvotų skyrimo tvarką nustato ir žvejybos vidaus vandenyse kvotas ūkio subjektams paskirsto Aplinkos ministerija arba jos įgaliota institucija. Individualių žvejybos galimybių jūrų vandenyse skyrimo tvarką nustato ir individualias žvejybos galimybes jūrų vandenyse paskirsto Žemės ūkio ministerija arba jos įgaliota institucija.
+4. Teisės į žvejybos kvotą suteikimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir atšaukimo tvarką nustato Žemės ūkio ministerija. Teisę į žvejybos kvotą, vadovaudamasi šio įstatymo 142 straipsnio nuostatomis, suteikia Perleidžiamosios teisės į žvejybos vidaus vandenyse kvotą suteikimo komisija, sudaroma iš Žemės ūkio ministerijos, Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės tarnyba) ir Aplinkos ministerijos atstovų.
+Straipsnio dalies pakeitimai:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-5. Žuvų išteklių tyrimai Baltijos jūroje ir Kuršių mariose atliekami kiekvienais metais, kituose, didesniuose kaip 500 ha vidaus vandenų telkiniuose, kuriuose yra leidžiama užsiimti versline žvejyba, – ne rečiau kaip kas 2 metai. Likusiuose didesniuose kaip 100 ha vidaus vandenų telkiniuose žuvų išteklių tyrimai atliekami ne rečiau kaip kas 10 metų. Žuvų išteklių tyrimai vidaus vandenyse atliekami Aplinkos ministerijos nustatyta tvarka, o jūrų vandenyse – Žemės ūkio ministerijos nustatyta tvarka. Žuvų išteklių tyrimus atliekantys ūkio subjektai šių tyrimų duomenis nustatyta tvarka privalo pateikti Aplinkos ministerijai ir Žemės ūkio ministerijai.
+5. Individualių žvejybos galimybių jūrų vandenyse ir verslinės žvejybos vidaus vandenyse kvotų skyrimo tvarką nustato Žemės ūkio ministerija. Individualias žvejybos galimybes ir verslinės žvejybos vidaus vandenyse kvotas pagal suteiktą teisę į žvejybos kvotą skiria Žemės ūkio ministerijos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
 
 
 
 
-6. Žuvų išteklių tyrimai valstybinės reikšmės vandens telkiniuose finansuojami iš Aplinkos apsaugos rėmimo programos ar kitų Aplinkos ministerijos arba Žemės ūkio ministerijos vykdomų programų lėšų arba ūkio subjekto lėšomis Vyriausybės nustatyta tvarka.
+6. Žuvų išteklių tyrimai Baltijos jūroje ir Kuršių mariose atliekami kiekvienais metais, kituose, didesniuose kaip 500 ha vidaus vandenų telkiniuose, kuriuose yra leidžiama užsiimti versline žvejyba, – ne rečiau kaip kas 2 metai. Likusiuose didesniuose kaip 100 ha vidaus vandenų telkiniuose žuvų išteklių tyrimai atliekami ne rečiau kaip kas 10 metų. Žuvų išteklių tyrimai vidaus vandenyse atliekami Aplinkos ministerijos nustatyta tvarka, o jūrų vandenyse – Žemės ūkio ministerijos nustatyta tvarka. Žuvų išteklių tyrimus atliekantys ūkio subjektai šių tyrimų duomenis nustatyta tvarka privalo pateikti Aplinkos ministerijai ir Žemės ūkio ministerijai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+7. Žuvų išteklių tyrimai valstybinės reikšmės vandens telkiniuose finansuojami iš Aplinkos apsaugos rėmimo programos ar kitų Aplinkos ministerijos arba Žemės ūkio ministerijos vykdomų programų lėšų arba ūkio subjekto lėšomis Vyriausybės nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
  
 
 
@@ -932,28 +1096,310 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 
 
 
-15 straipsnis. Verslinės žvejybos vidaus vandenyse leidimų išdavimas ir galiojimo panaikinimas
+141 straipsnis. Teisė į žvejybos kvotą
 
 
-1. Verslinės žvejybos vidaus vandenyse leidimai išduodami ne trumpesniam kaip vienos paros ir ne ilgesniam kaip vienų kalendorinių metų laikotarpiui. Tuo atveju, kai dėl verslinės žvejybos vidaus vandenyse leidimo išdavimo kreipiamasi prasidėjus kalendoriniams metams, verslinės žvejybos vidaus vandenyse leidimas išduodamas ne ilgesniam kaip iki einamųjų kalendorinių metų pabaigos laikotarpiui. 
-
-
-
-
-2. Verslinės žvejybos vidaus vandenyse leidimo galiojimo laikotarpis priklauso nuo žvejybos dienomis nustatyto žvejybos limito arba žvejybos draudimo ar ribojimo laiko.
+1. Teisė į žvejybos kvotą suteikiama ūkio subjektams ne ilgesniam negu 5 metų laikotarpiui.
 
 
 
 
-3. Verslinės žvejybos vidaus vandenyse leidimo galiojimas nustatomas pagal ūkio subjekto prašyme išduoti verslinės žvejybos vidaus vandenyse leidimą nurodytą pageidaujamą galiojimo laiką, atsižvelgiant į šio straipsnio 1 ir 2 dalyse nurodytas sąlygas.
+2. Suteikiant ūkio subjektui teisę į žvejybos kvotą, ūkio subjektui skiriama žvejybos limito dalis procentais, jeigu žvejybos limitas išreikštas didžiausiu galimu sugauti žuvų kiekiu, ir (arba) žvejybos kvota, išreikšta tam tikro tipo (tam tikrų tipų) verslinės žvejybos įrankių ir (arba) žvejybos vietų skaičiumi.
 
 
 
 
-4. Ūkio subjektui išduodamas verslinės žvejybos vidaus vandenyse leidimas pateikus prašymą, jeigu yra visos šios sąlygos:
+3. Kiekvienais metais verslinės žvejybos vidaus vandenyse kvotos, išreikštos didžiausiu galimu sugauti žuvų kiekiu, ūkio subjektui apskaičiuojamos pagal skirtą žvejybos limito dalį procentais. Jeigu suteikiant teisę į žvejybos kvotą ūkio subjektui neskirta žvejybos limito, išreikšto didžiausiu galimu sugauti žuvų kiekiu, dalis procentais, Aplinkos ministerijai nustačius tokį žvejybos limitą, žvejybos kvotos, išreikštos didžiausiu galimu sugauti žuvų kiekiu, ūkio subjektams skiriamos proporcingai pagal žvejybos kvotą skirtų verslinės žvejybos įrankių skaičių ir jų efektyvumą, nustatytą Aplinkos ministerijos. 
 
 
-1) ūkio subjektas turi jam skirtą žvejybos vidaus vandenyse kvotą;
+Papildyta straipsniu:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+142 straipsnis. Teisės į žvejybos kvotą suteikimas
+
+
+1. Teisė į žvejybos kvotą suteikiama aukciono ir ne aukciono būdu. 
+
+
+
+
+2. Teisė į žvejybos kvotą ežeruose, polderiuose ir tvenkiniuose suteikiama aukciono būdu atitinkamam skaičiui ūkio subjektų, atsižvelgiant į didžiausią ūkio subjektų, kuriems gali būti suteikta teisė į žvejybos kvotą, skaičių: ežeruose, polderiuose ir tvenkiniuose, kurių plotas iki 499 ha, – 1; nuo 500 iki 999 ha – 2; nuo 1 000 iki 7 000 ha – 3.
+
+
+
+
+3. Suteikiant teisę į žvejybos kvotą kituose vidaus vandenyse, atsižvelgiama į šiuos apribojimus:
+
+
+1) aukciono ir ne aukciono būdu ūkio subjektui gali būti suteikiama ne daugiau kaip 10 proc. žvejybos limito dalies, skaičiuojant atskirai kiekvieno tipo žvejybos įrankius ir (ar) žuvų sugavimo kvotas; 
+
+
+
+
+2) ūkio subjektams, iki 2013 m. pagal tuo metu galiojusias ungurių įveisimo normas savo lėšomis nustatyta tvarka įveisusiems ungurius, teisė į žvejybos kvotą suteikiama ne aukciono būdu iš tų vidaus vandens telkinių ištekančiuose upeliuose iš eilės penkerius metus po ungurių įveisimo;
+
+
+
+
+3) šio įstatymo įsigaliojimo metu 3 metus teisę į žvejybos kvotas Kuršių mariose turėjusiems ūkio subjektams be aukciono suteikiama teisė į žvejybos kvotą, išreikštą tam tikro tipo ir tam tikru verslinės žvejybos įrankių skaičiumi ar žuvų rūšimis kiekvienam ūkio subjektui skiriant ne daugiau kaip 2 procentus Aplinkos ministerijos nustatyto žvejybos limito. 
+
+
+
+
+
+
+4. Suteikiant teisę į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje, ūkio subjektai, pateikę prašymus suteikti teisę į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje, atrenkami, vertinami ir šiam ūkio subjektui skiriama žvejybos limito dalis ir (arba) žvejybos kvota nustatoma atsižvelgiant į Žemės ūkio ministerijos nustatytus aplinkosauginio, socialinio ir (ar) ekonominio pobūdžio kriterijus (padarytus verslinės žvejybos vidaus vandenyse pažeidimus, siūlomų skirti lėšų žuvų ištekliams vidaus vandenyse atkurti ir išsaugoti dydį, ūkio subjekto priklausomybę vietos bendruomenei ir pan.).
+
+
+
+
+5. Ūkio subjektai, gavę teisę į žvejybos kvotą ne aukciono būdu žuvų ištekliams atkurti ir saugoti, kasmet skiria pradinę Žemės ūkio ministerijos nustatytą kainą. Ūkio subjektai, laimėję teisę į žvejybos kvotą aukciono būdu žuvų ištekliams atkurti ir saugoti skiria aukcione pasiūlytą kainą. 
+
+
+
+
+6. Perleidžiamosios teisės į žvejybos vidaus vandenyse kvotą suteikimo komisijos sudėtį ir jos darbo reglamentą nustato Žemės ūkio ministerija.
+
+
+
+
+7. Šio straipsnio 6 dalyje nurodyta komisija informaciją apie posėdį, kuriame ūkio subjektams bus suteikiamos teisės į žvejybos kvotas, paskelbia Žemės ūkio ministerijos, Žuvininkystės tarnybos ir Aplinkos ministerijos interneto svetainėse likus ne mažiau kaip 15 darbo dienų iki posėdžio.
+
+
+
+
+8. Prašymą suteikti teisę į žvejybos kvotą ir atitikties šio straipsnio 4 dalyje nustatytiems aplinkosauginiams, socialiniams ir (ar) ekonominiams kriterijams patvirtinimo dokumentus ūkio subjektas gali pateikti per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba tiesiogiai kreipdamasis į Žemės ūkio ministerijos įgaliotą instituciją. Žemės ūkio ministerijos įgaliota institucija per 5 darbo dienas nuo nurodytų dokumentų gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautus dokumentus.
+
+
+
+
+9. Jeigu pareiškėjo pateiktas prašymas neišsamus ar netinkamai įformintas arba netinkamai įforminti kiti pateikti dokumentai, Žemės ūkio ministerijos įgaliota institucija per 5 darbo dienas nuo prašymo gavimo dienos apie tai raštu praneša pareiškėjui. Jeigu pareiškėjas nepateikia tinkamai įformintų dokumentų likus 2 darbo dienoms iki šio straipsnio 6 dalyje nurodytos komisijos posėdžio, kuriame bus suteikiamos teisės į žvejybos kvotas, dienos, jo prašymas yra atmetamas.
+
+
+
+
+10. Nustačius naujas žvejybos vietas, limitus naujoms žuvų rūšims, papildomus verslinės žvejybos įrankius ar padidinus jų skaičių, perleidžiant ar atšaukus teisę į žvejybos kvotą, atitinkamos teisės į žvejybos kvotą suteikiamos aukciono būdu Žemės ūkio ministerijos nustatyta tvarka.
+
+
+
+
+11. Teisė į žvejybos kvotą negali būti suteikiama ar perleidžiama ūkio subjektams, kurie pasinaudoję Europos Sąjungos parama perorientavo savo valdomą vidaus vandenų žvejybos laivą į kitą nei žvejybos veiklą, ir su jais susijusiems ūkio subjektams.
+
+
+
+
+12. Susijusiais ūkio subjektais laikomi susiję fiziniai asmenys ir juridiniai asmenys. 
+
+
+
+
+13. Susijusiais fiziniais asmenimis laikomi sutuoktiniai, taip pat tėvai (įtėviai) su jų nepilnamečiais vaikais (įvaikiais). Šiame straipsnyje apibrėžiant fizinio asmens ryšius su juridiniais asmenimis, sutuoktiniai arba tėvai (įtėviai) ir jų nepilnamečiai vaikai (įvaikiai) laikomi susijusiais su juridiniu asmeniu, jeigu bent vienas iš sutuoktinių arba tėvų (įtėvių) ir jų nepilnamečių vaikų (įvaikių) yra susijęs su šiuo juridiniu asmeniu. 
+
+
+
+
+14. Susijusiais ūkio subjektais laikomi ūkio subjektai, kurie tiesiogiai ar netiesiogiai turi balsų daugumą juridiniame asmenyje arba tiesiogiai ar netiesiogiai daro lemiamą įtaką juridiniam asmeniui.
+
+
+
+
+15. Laikoma, kad ūkio subjektas tiesiogiai turi balsų daugumą juridiniame asmenyje, jeigu jis yra juridinio asmens dalyvis, turintis ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. 
+
+
+
+
+16. Laikoma, kad ūkio subjektas netiesiogiai turi balsų daugumą juridiniame asmenyje, jeigu kitas juridinis asmuo, kuriame šis ūkio subjektas turi balsų daugumą, gali įgyvendinti šio straipsnio 5 dalyje išvardytas teises.
+
+
+
+
+17. Laikoma, kad tiesiogiai daryti lemiamą įtaką juridiniam asmeniui gali ūkio subjektas, kuris:
+
+
+1) naudodamasis savo turimomis teisėmis ar sutartimis gali skirti ar atšaukti juridinio asmens ar kito juridinio asmens vienasmenį ar kolegialų organą ar kolegialaus valdymo organo narių daugumą arba
+
+
+
+
+2) yra juridinio asmens dalyvis ir pagal susitarimus dėl balsavimo teisės perleidimo, sudarytus su kitais dalyviais, turi ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime. 
+
+
+
+
+
+
+18. Laikoma, kad ūkio subjektas daro netiesioginę lemiamą įtaką juridiniam asmeniui, jeigu kitas juridinis asmuo, kuriame šis ūkio subjektas daro lemiamą įtaką, gali įgyvendinti šio straipsnio 17 dalyje išvardytas teises.
+
+
+
+
+19. Susijusiais ūkio subjektais taip pat laikomi juridiniai asmenys, kuriuose tas pats fizinis ar juridinis asmuo arba tie patys asmenys turi ne mažiau kaip 1/2 balsų, suteikiančių teisę balsuoti juridinio asmens dalyvių susirinkime, arba tiesiogiai ar netiesiogiai daro lemiamą įtaką juridiniam asmeniui.
+
+
+Papildyta straipsniu:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+143 straipsnis. Teisės į žvejybos kvotą galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir atšaukimas
+
+
+1. Teisės į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje galiojimas sustabdomas, jeigu yra bent viena iš šių sąlygų:
+
+
+1) taikoma žvejybos reglamentavimo priemonė – verslinės žvejybos draudimas arba ribojimas tame vidaus vandenų telkinyje. Verslinės žvejybos ribojimo atveju, kai draudžiama tam tikrų žuvų rūšių verslinė žvejyba ar žvejyba tam tikrais verslinės žvejybos įrankiais, teisės į žvejybos kvotą galiojimas sustabdomas iš dalies;
+
+
+
+
+2) už padarytus verslinės žvejybos vidaus vandenyse tvarkos pažeidimus Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka atimama teisė žvejoti;
+
+
+
+
+3) ūkio subjektas Aplinkos ministerijos nustatyta tvarka neskyrė lėšų žuvų ištekliams atkurti ir išsaugoti. Prieš sustabdant teisės į žvejybos kvotą galiojimą, Aplinkos ministerijos įgaliota institucija ūkio subjektą įspėja ir šiam įsipareigojimui įvykdyti nustato ne trumpesnį kaip 5 darbo dienų terminą, kuris ūkio subjekto prašymu gali būti pratęstas, bet ne ilgiau kaip 15 kalendorinių dienų. Jeigu per nustatytą laikotarpį ūkio subjektas neįvykdo šio įsipareigojimo, jo teisės į žvejybos kvotą galiojimas sustabdomas;
+
+
+
+
+4) ūkio subjektas Aplinkos ministerijos nustatyta tvarka nepateikė duomenų apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą. 
+
+
+
+
+
+
+2. Teisės į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje galiojimo sustabdymas panaikinamas, kai nebelieka aplinkybių, dėl kurių buvo sustabdytas šios teisės galiojimas:
+
+
+1) atšaukiamas verslinės žvejybos draudimas arba ribojimas tame vidaus vandenų telkinyje;
+
+
+
+
+2) pasibaigia teisės žvejoti atėmimo terminas;
+
+
+
+
+3) ūkio subjektas per 5 darbo dienas nuo teisės į žvejybos kvotą galiojimo sustabdymo skyrė lėšų žuvų ištekliams atkurti ir išsaugoti. Šis terminas, atsižvelgiant į objektyvias aplinkybes, pratęsiamas, bet ne daugiau kaip 15 kalendorinių dienų;
+
+
+
+
+4) ūkio subjektas pateikė duomenis apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą.
+
+
+
+
+
+
+3. Atšaukus teisę į žvejybos kvotą, ūkio subjektas netenka žvejybos kvotos ir panaikinamas jo verslinės žvejybos vidaus vandenyse leidimas. Teisė į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje atšaukiama, jeigu yra bent viena iš šių sąlygų:
+
+
+1) rašytiniu ūkio subjekto prašymu;
+
+
+
+
+2) nustatoma, kad ūkio subjektas, suteikiant teisę į žvejybos kvotą verslinei žvejybai tame vidaus vandenų telkinyje, pateikė Žemės ūkio ministerijos įgaliotai institucijai iš esmės neteisingus duomenis, kuriais remiantis buvo neteisingai įvertintas ūkio subjektas;
+
+
+
+
+3) ūkio subjektas padarė šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą;
+
+
+
+
+4) ūkio subjektas neskyrė lėšų žuvų ištekliams atkurti ir išsaugoti per šio straipsnio 2 dalies 3 punkte nustatytą laikotarpį. 
+
+
+
+
+
+
+4. Ūkio subjektui, kurio teisė į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje atšaukta dėl šio straipsnio 3 dalies 2, 3 ir 4 punktuose nustatytų sąlygų, 3 metus nuo šios teisės atšaukimo dienos negali būti suteikta arba perleista teisė į žvejybos kvotą.
+
+
+
+
+5. Teisę į žvejybos kvotą sustabdo, sustabdymą panaikina, atšaukia ir teisės  į žvejybos kvotą perleidimą prižiūri Žemės ūkio ministerijos įgaliota institucija.
+
+
+Papildyta straipsniu:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+144 straipsnis. Teisės į žvejybos kvotą ar žvejybos kvotos perleidimas 
+
+
+1. Ūkio subjektas jam skirtą žvejybos kvotą, išreikštą didžiausiu galimu sugauti žuvų kiekiu, ar jos dalį kartu su įsipareigojimu mokėti atitinkamą lėšų žuvų ištekliams atkurti ir išsaugoti dydį gali Žemės ūkio ministerijos nustatyta tvarka perleisti kitam ūkio subjektui, turinčiam teisę į žvejybos kvotą verslinei žvejybai tame pačiame vidaus vandenų telkinyje. Jeigu žvejybos kvota yra išreikšta žvejybos įrankių ar žvejybos dienų skaičiumi, ūkio subjektas gali ją ar jos dalį išnuomoti iki vienų kalendorinių metų laikotarpiui Žemės ūkio ministerijos nustatyta tvarka kitam ūkio subjektui, turinčiam teisę į žvejybos kvotą verslinei žvejybai tame pačiame vidaus vandenų telkinyje, kartu su įsipareigojimu mokėti atitinkamą lėšų žuvų ištekliams atkurti ir išsaugoti dydį. Pasibaigus teisės į žvejybos kvotą galiojimo laikotarpiui ir iš naujo suteikiant teisę į žvejybos kvotą ūkio subjektui, kuris buvo perleidęs ar išnuomojęs savo žvejybos kvotą, vertinama tik to ūkio subjekto vykdyta verslinė žvejyba.
+
+
+
+
+2. Ūkio subjektas jam suteiktą teisę į žvejybos kvotą kartu su įsipareigojimu mokėti atitinkamą lėšų žuvų ištekliams atkurti ir išsaugoti dydį turi teisę perleisti Žemės ūkio ministerijos nustatyta tvarka aukciono būdu.
+
+
+
+
+3. Ūkio subjektai, siekiantys perleisti teisę į žvejybos kvotą, kreipiasi su prašymu dėl perleidimo į Žemės ūkio ministeriją, nurodydami pageidaujamą teisės perleidimo laikotarpį. Nuo prašymo pateikimo momento, ūkio subjektas praranda teisę į žvejybos kvotą jo prašyme nurodytam laikotarpiui. Gavusi ūkio subjekto prašymą dėl teisės į žvejybos kvotą perleidimo, Žemės ūkio ministerija organizuoja aukcioną dėl perleidžiamos teisės į žvejybos kvotą, kuriame neturi teisės dalyvauti ūkio subjektai, turintys 10 proc. žvejybos limito dalies. 
+
+
+
+
+4. Pasibaigus teisės į žvejybos kvotą galiojimo laikotarpiui, iš naujo suteikiant šią teisę ūkio subjektui, kuriam buvo perleista teisė į žvejybos kvotą, vertinama tiek jo, tiek ir perleidusio teisę į žvejybos kvotą ūkio subjekto anksčiau vykdyta verslinė žvejyba. 
+
+
+
+
+5. Teisės į žvejybos kvotą ir žvejybos kvotos negali perleisti ūkio subjektas, jeigu:
+
+
+1) jam skirtos teisės į žvejybos kvotą galiojimas yra sustabdytas;
+
+
+
+
+2) tais kalendoriniais metais savo žvejybos kvotą yra viršijęs; 
+
+
+
+
+3) ūkio subjektas yra traukiamas administracinėn atsakomybėn už šiurkštų pažeidimą, – iki bus priimtas nutarimas ir sumokėta paskirta bauda.
+
+
+
+
+Papildyta straipsniu:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+15 straipsnis. Verslinės žvejybos vidaus vandenyse leidimų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir leidimų galiojimo panaikinimas
+
+
+1. Verslinės žvejybos vidaus vandenyse leidimai išduodami ne trumpesniam kaip vienos paros ir ne ilgesniam nei 5 metų laikotarpiui, bet leidimo galiojimas negali būti ilgesnis nei tame vidaus vandenų telkinyje nustatyto žvejybos limito galiojimo laikotarpis. 
+
+
+
+
+2. Ūkio subjektui išduodamas verslinės žvejybos vidaus vandenyse leidimas pateikus prašymą, jeigu yra visos šios sąlygos:
+
+
+1) ūkio subjektas turi teisę į žvejybos kvotą ir jam skirtą žvejybos vidaus vandenyse kvotą;
 
 
 
@@ -975,35 +1421,80 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 
 
 
-5. Prašymą išduoti verslinės žvejybos vidaus vandenyse leidimą galima pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į Aplinkos ministerijos įgaliotą instituciją. Aplinkos ministerijos įgaliota institucija per 5 darbo dienas nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautą prašymą.
+3. Prašymą išduoti verslinės žvejybos vidaus vandenyse leidimą galima pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į Aplinkos ministerijos įgaliotą instituciją. Aplinkos ministerijos įgaliota institucija per 5 darbo dienas nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautą prašymą.
 
 
 
 
-6. Aplinkos ministerijos įgaliota institucija ne vėliau kaip per 10 darbo dienų nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išduoda verslinės žvejybos vidaus vandenyse leidimą arba informuoja apie atsisakymą jį išduoti, nurodydama atsisakymo priežastis, tokiu būdu, kokiu buvo gautas prašymas išduoti verslinės žvejybos vidaus vandenyse leidimą, arba kitu prašyme nurodytu būdu. 
+4. Aplinkos ministerijos įgaliota institucija ne vėliau kaip per 10 darbo dienų nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išduoda verslinės žvejybos vidaus vandenyse leidimą arba informuoja apie atsisakymą jį išduoti, nurodydama atsisakymo priežastis, tokiu būdu, kokiu buvo gautas prašymas išduoti verslinės žvejybos vidaus vandenyse leidimą, arba kitu prašyme nurodytu būdu. 
 
 
 
 
-7. Jeigu pareiškėjas prašyme išduoti verslinės žvejybos vidaus vandenyse leidimą pateikia ne visą privalomą pateikti informaciją, verslinės žvejybos vidaus vandenyse leidimą išduodanti institucija per 5 darbo dienas nuo prašymo gavimo dienos apie tai raštu praneša pareiškėjui ir informuoja, kad terminas verslinės žvejybos vidaus vandenyse leidimui išduoti bus pradedamas skaičiuoti gavus trūkstamą informaciją. 
+5. Jeigu pareiškėjas prašyme išduoti verslinės žvejybos vidaus vandenyse leidimą pateikia ne visą privalomą pateikti informaciją, verslinės žvejybos vidaus vandenyse leidimą išduodanti institucija per 5 darbo dienas nuo prašymo gavimo dienos apie tai raštu praneša pareiškėjui ir informuoja, kad terminas verslinės žvejybos vidaus vandenyse leidimui išduoti bus pradedamas skaičiuoti gavus trūkstamą informaciją. 
 
 
 
 
-8. Verslinės žvejybos vidaus vandenyse leidimas yra elektroninės arba ūkio subjekto prašymu popierinės formos.
+6. Verslinės žvejybos vidaus vandenyse leidimas yra elektroninės arba ūkio subjekto prašymu popierinės formos.
 
 
 
 
-9. Verslinės žvejybos vidaus vandenyse leidimo galiojimas panaikinamas, jeigu yra bent viena iš šių sąlygų:
+7. Verslinės žvejybos vidaus vandenyse leidimo galiojimas sustabdomas, jeigu yra bent viena iš šių sąlygų:
 
 
-1) rašytiniu ūkio subjekto prašymu;
+1) sustabdytas teisės į žvejybos kvotą galiojimas;
 
 
 
 
-2) ūkio subjektui teisės aktų nustatyta tvarka atimta teisė žvejoti;
+2) išnaudota ūkio subjektui skirta žvejybos kvota;
+
+
+
+
+3) ūkio subjektas perleidžia kitam ūkio subjektui visą savo žvejybos kvotą. 
+
+
+
+
+
+
+8. Verslinės žvejybos leidimo galiojimo sustabdymas panaikinamas, kai nebelieka aplinkybių, dėl kurių buvo sustabdytas to leidimo galiojimas:
+
+
+1) panaikintas teisės į žvejybos kvotą sustabdymas;
+
+
+
+
+2) ūkio subjektas gavo žvejybos kvotą;
+
+
+
+
+3) pasibaigia žvejybos kvotos perleidimo laikotarpis. 
+
+
+
+
+
+
+9. Iš dalies sustabdžius teisės į žvejybos kvotą galiojimą arba perleidus dalį žvejybos kvotos, verslinės žvejybos vidaus vandenyse leidimas turi būti keičiamas. Atšaukus teisę į žvejybos kvotą arba kai ją ūkio subjektas visam teisės į žvejybos kvotą galiojimo laikotarpiui perleidžia kitam ūkio subjektui, verslinės žvejybos vidaus vandenyse leidimo galiojimas panaikinamas. 
+
+
+
+
+10. Verslinės žvejybos vidaus vandenyse leidimo galiojimas panaikinamas, jeigu yra bent viena iš šių sąlygų:
+
+
+1)  rašytiniu ūkio subjekto prašymu;
+
+
+
+
+2) atšaukiama ūkio subjektui suteikta teisė į žvejybos kvotą;
 
 
 
@@ -1013,22 +1504,29 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 
 
 
-4) išduodant verslinės žvejybos vidaus vandenyse leidimą, buvo pažeistos jo išdavimo sąlygos.
+4) išduodant verslinės žvejybos vidaus vandenyse leidimą, buvo pažeistos jo išdavimo sąlygos;
+
+
+
+
+5) ūkio subjektas visam teisės į žvejybos kvotą galiojimo laikotarpiui ją perleidžia kitam ūkio subjektui.
 
 
 
 
 
 
-10. Vadovaujantis teisingumo ir protingumo kriterijais, verslinės žvejybos vidaus vandenyse leidimo galiojimas gali būti nenaikinamas, o pateikiama žodinė pastaba arba rašytinis nurodymas ir nustatomas protingas terminas pažeidimams pašalinti, kuris, atsižvelgiant į objektyvias aplinkybes, gali būti pratęstas, jeigu šio straipsnio 9 dalies 4 punkte nurodytas teisės aktų pažeidimas yra mažareikšmis, tai yra nepadaryta žalos viešiesiems ar šio įstatymo saugomiems interesams arba padaryta žala labai nežymi. 
+11. Vadovaujantis teisingumo ir protingumo kriterijais, verslinės žvejybos vidaus vandenyse leidimo galiojimas gali būti nenaikinamas, o pateikiama žodinė pastaba arba rašytinis nurodymas ir nustatomas protingas terminas pažeidimams pašalinti, kuris, atsižvelgiant į objektyvias aplinkybes, gali būti pratęstas, jeigu šio straipsnio 10 dalies 4 punkte nurodytas teisės aktų pažeidimas yra mažareikšmis, tai yra nepadaryta žalos viešiesiems ar šio įstatymo saugomiems interesams arba padaryta žala labai nežymi.
 
 
 
 
-11. Verslinės žvejybos vidaus vandenyse leidimų išdavimo ir galiojimo panaikinimo tvarką nustato Aplinkos ministerija.
+12. Verslinės žvejybos vidaus vandenyse leidimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo ir leidimų pakeitimo tvarką nustato Aplinkos ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
  
-
-
 
 
 
@@ -1036,7 +1534,7 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 16 straipsnis. Šiurkštūs verslinės žvejybos vidaus vandenyse tvarkos pažeidimai
 
 
-Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais, už kuriuos taikoma Lietuvos Respublikos administracinių teisės pažeidimų kodekse (toliau – Administracinių teisės pažeidimų kodeksas) numatyta atsakomybė, laikomi:
+1. Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais, už kuriuos taikoma Administracinių teisės pažeidimų kodekse numatyta atsakomybė, laikomi:
 
 
 1) žvejyba be verslinės žvejybos vidaus vandenyse leidimo arba žuvų išteklių naudotojui daugiau kaip 10 procentų viršijus jam skirtą žvejybos vidaus vandenyse kvotą;
@@ -1044,7 +1542,7 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 
 
 
-2) žvejyba naudojant draudžiamus arba tuo metu draudžiamus žvejybos įrankius ar būdus, naudojant didesnį įrankių skaičių arba kitokio tipo įrankius, negu nurodyta verslinės žvejybos vidaus vandenyse leidime;
+2) žvejyba naudojant draudžiamus ar tuo metu draudžiamus žvejybos įrankius ar būdus, naudojant didesnį įrankių skaičių arba kitokio tipo įrankius, negu nurodyta verslinės žvejybos vidaus vandenyse leidime;
 
 
 
@@ -1054,17 +1552,29 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 
 
 
-4) Aplinkos ministerijos nustatytos žvejybos produktų apskaitos (įskaitant žvejybos datą, žvejybos įrankių ir sugautų žuvų rūšis) pažeidimas, nenurodant sugautų žvejybos produktų kiekio ar viršijant leidžiamus žvejybos produktų apskaitos paklaidos dydžius; 
+4) sugautų žuvų ar verslinės žvejybos įrankių apskaitos nevykdymas arba leidžiamų tikslaus žvejybos produktų svorio apskaitos paklaidos dydžių viršijimas daugiau kaip 7 procentais.
 
 
 
 
-5) dėl žuvų išteklių naudotojo pažeidimo atitinkamiems žuvų ištekliams padaryta žala yra didesnė negu 100 bazinio bausmių ir nuobaudų dydžio.
+
+
+2. Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais taip pat laikomi Aplinkos ministerijos nustatytos žvejybos produktų apskaitos pažeidimai, nenurodant žvejybos datos, žvejybos įrankių ir sugautų žuvų rūšių arba nurodant neteisingą žvejybos datą, žvejybos įrankių ir sugautų žuvų rūšis, jų kiekius, jeigu yra bent viena iš šių sąlygų:
+
+
+1) tokio pat pobūdžio pažeidimas padaromas trečią kartą per 3 metų laikotarpį;
+
+
+
+
+2) įtariamas padaręs pažeidimą ūkio subjektas nuslepia, pakeičia ar sunaikina su tyrimu susijusius įrodymus.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
  
-
-
-
-
 
 
 
@@ -3233,3 +3743,8 @@ Lietuvos Respublikos žuvininkystės įstatymo 2, 7, 8, 10 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-397, 2013-06-20, Žin., 2013, Nr. 71-3579 (2013-07-01), i. k. 1131010ISTA0XII-397
 Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 6, 15, 16 straipsnių pakeitimo ir Įstatymo papildymo 14-1, 14-2, 14-3, 14-4 straipsniais įstatymas
