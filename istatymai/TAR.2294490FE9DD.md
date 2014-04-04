@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-04-03
+Suvestinė redakcija nuo 2014-04-04 iki 2014-10-03
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -1571,7 +1571,10 @@ Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010IST
 
 
 KETVIRTASIS SKIRSNIS
-ATLEIDIMAS NUO MUITŲ
+ATLEIDIMAS NUO MUITŲ, SKOLOS MUITINEI TERMINO PRATĘSIMAS 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
@@ -1579,6 +1582,19 @@ ATLEIDIMAS NUO MUITŲ
 
 
 Atleidimo nuo muitų reglamente ir (arba) Atleidimo nuo muitų reglamentą įgyvendinančiuose reglamentuose numatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, atleidimo nuo muitų sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
+ 
+
+
+
+
+401 straipsnis. Bendrijos muitinės kodekso 221 straipsnio 4 dalies taikymas 
+
+
+Jeigu skola muitinei atsirado dėl Bendrijos muitinės kodekso 221 straipsnio 4 dalyje nurodytos priežasties, pranešimas skolininkui apie muito sumą, sudarančią skolą muitinei, ir muito sumos įtraukimą į apskaitą pateikiamas ne vėliau kaip per 10 metų nuo skolos muitinei atsiradimo dienos.
+
+
+Papildyta straipsniu:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
@@ -2542,225 +2558,76 @@ INTELEKTINĖS NUOSAVYBĖS APSAUGA IMPORTUOJANT IR EKSPORTUOJANT PREKES
  
 
 
-80 straipsnis.       Prašymo taikyti muitinės priežiūros priemones intelektinės nuosavybės teisių subjekto teisėms apsaugoti pateikimas
+80 straipsnis. Intelektinės nuosavybės apsaugos reglamento ir jį įgyvendinančių Europos Sąjungos teisės aktų įgyvendinimas
 
 
-1. Intelektinės nuosavybės teisių subjektų, nurodytų Intelektinės nuosavybės apsaugos reglamento 2 straipsnio 2 dalyje ir Intelektinės nuosavybės apsaugos reglamentą įgyvendinančio reglamento 1 straipsnyje, prašymai dėl muitinės priežiūros priemonių taikymo šių asmenų teisėms apsaugoti Intelektinės nuosavybės apsaugos reglamento 5 straipsnio ir Intelektinės nuosavybės apsaugos reglamentą įgyvendinančio reglamento 3 straipsnio nustatyta tvarka teikiami Muitinės departamentui. 
-Straipsnio dalies pakeitimai:
-Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+1. Intelektinės nuosavybės apsaugos reglamente nurodyto kompetentingo muitinės padalinio funkcijas atlieka ir šiame reglamente nurodytą informaciją Europos Komisijai teikia Muitinės departamentas.
+
+
+
+
+2. Kitais Intelektinės nuosavybės apsaugos reglamente ir (arba) jį įgyvendinančiuose Europos Sąjungos teisės aktuose numatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė ir (arba) paskirtos įgyvendinti priemonės, sprendimus priima ir atitinkamų priemonių įgyvendinimą užtikrina Muitinės departamentas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-2. Muitinės departamento generalinio direktoriaus nustatytais atvejais ir tvarka šio straipsnio 1 dalyje nurodytus prašymus ir Intelektinės nuosavybės apsaugos reglamento 6 straipsnyje nurodytas deklaracijas, kurias privaloma pateikti kartu su minėtais prašymais, galima pateikti elektroniniu būdu.
-
-
-
-
-3. Šio straipsnio 1 ir 2 dalių nuostatos mutatis mutandis taikomos ir prašant pratęsti muitinės priežiūros priemonių taikymo laikotarpį. 
-
-
-
-
-4. Jeigu muitinio tikrinimo metu paaiškėja, kad yra pagrindas manyti, jog tikrinamos prekės yra pagamintos pažeidžiant intelektinės nuosavybės teises, be intelektinės nuosavybės teisių subjekto prašymo taikomos Intelektinės nuosavybės apsaugos reglamento 4 straipsnio ir Intelektinės nuosavybės apsaugos reglamentą įgyvendinančio reglamento 5 straipsnio nuostatos. Muitinė, prieš pateikdama intelektinės nuosavybės teisių subjektui pranešimą apie spėjamą jo teisių pažeidimą, Muitinės departamento generalinio direktoriaus nustatyta tvarka gali prašyti intelektinės nuosavybės teisių subjekto pateikti informaciją, reikalingą kilusių įtarimų pagrįstumui įvertinti. Prašydama pateikti tokią informaciją, muitinė intelektinės nuosavybės teisių subjektui gali pateikti tik informaciją apie faktinį arba spėjamą prekių kiekį ir jų rūšį.
-Straipsnio dalies pakeitimai:
-Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+81 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-
-
-81 straipsnis.       Sprendimo patenkinti prašymą taikyti muitinės priežiūros priemones intelektinės nuosavybės teisių subjekto teisėms apsaugoti įgyvendinimas
-
-
-1. Muitinės departamentas, priėmęs sprendimą patenkinti intelektinės nuosavybės teisių subjekto prašymą dėl muitinės priežiūros priemonių taikymo jo teisėms apsaugoti, apie tai nedelsdamas informuoja visas muitinės įstaigas, kurioms gali būti pateiktos prašyme nurodytos prekės. Šio Įstatymo 82 straipsnyje nurodytos muitinės priežiūros priemonės taikomos nuo muitinės įstaigų informavimo apie Muitinės departamento sprendimą dienos.
-
-
-
-
-2. Muitinės departamentui patenkinus prašymą, nurodytą Intelektinės nuosavybės apsaugos reglamento 5 straipsnio 4 dalyje, pareiškėjas turi apie tokį sprendimą informuoti kompetentingas kitų Europos Sąjungos valstybių narių, kuriose pareiškėjas prašė taikyti muitinės priežiūros priemones, muitinės įstaigas.
-
-
-
-
-3. Šio straipsnio 1 ir 2 dalių nuostatos mutatis mutandis taikomos ir sprendimams pratęsti muitinės priežiūros priemonių taikymo laikotarpį.
+82 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-
-
-82 straipsnis.       Muitinės priežiūros priemonių taikymas intelektinės nuosavybės teisių subjekto teisėms apsaugoti
-
-
-1. Jeigu muitinės įstaiga, kuri vadovaujantis šio Įstatymo 81 straipsnio 1 dalimi buvo informuota apie Muitinės departamento sprendimą patenkinti intelektinės nuosavybės teisių subjekto prašymą dėl muitinės priežiūros priemonių taikymo jo teisėms apsaugoti, nustato, kad jai pateiktos prekės turi prekių, dėl kurių šis sprendimas priimtas, požymių, ji Muitinės departamento generalinio direktoriaus nustatyta tvarka tokių prekių neišleidžia arba jas sulaiko. Prekių neišleidusi arba jas sulaikiusi muitinės įstaiga turi teisę reikalauti iš pareiškėjo rašytinio patvirtinimo, kad jis laiko tas prekes pagamintomis pažeidžiant jo intelektinės nuosavybės teises, dėl kurių jis yra pateikęs šio Įstatymo 80 straipsnio 1 dalyje nurodytą prašymą.
-
-
-
-
-2. Teritorinė muitinė, kuriai priklausantis muitinės postas šio straipsnio 1 dalyje nurodytu atveju neišleido prekių arba jas sulaikė, nedelsdama apie tai informuoja Muitinės departamentą, deklarantą arba atitinkamais atvejais asmenį, įvežusį prekes į Lietuvos Respublikos muitų teritoriją, ir pareiškėją, nurodydama faktinį arba spėjamą neišleistų arba sulaikytų prekių kiekį ir jų rūšį.
-
-
-
-
-3. Šio straipsnio 2 dalyje nurodyta teritorinė muitinė pareiškėjo prašymu pateikia jam Intelektinės nuosavybės apsaugos reglamento 9 straipsnio 3 dalyje nurodytą informaciją apie neišleistas arba sulaikytas prekes. Teikdama šią informaciją teritorinė muitinė privalo laikytis įstatymų ir kitų teisės aktų, reglamentuojančių asmens duomenų, valstybės, tarnybos ir komercinių paslapčių apsaugą.
-
-
-
-
-4. Prekes sulaikiusi muitinės įstaiga, atsižvelgdama į jų muitinės priežiūros sąlygas, sudaro galimybes pareiškėjui ir asmenims, turintiems teisę disponuoti prekėmis, apžiūrėti jos neišleistas arba sulaikytas prekes. Muitinės įstaiga taip pat turi teisę imti neišleistų arba sulaikytų prekių pavyzdžius ir, intelektinės nuosavybės teisių subjektui pateikus rašytinį prašymą, perduoti arba išsiųsti tokius pavyzdžius šiam asmeniui paimtų pavyzdžių tyrimui atlikti. Prekės apžiūrimos ir jų pavyzdžiai imami, tiriami ir grąžinami muitinės įstaigai vadovaujantis Intelektinės nuosavybės apsaugos reglamento 9 straipsnio 3 dalimi ir laikantis Muitinės departamento generalinio direktoriaus nustatytos tvarkos.
-
-
-
-
-5. Visas arba dalį šio straipsnio 1–4 dalyse ir šio Įstatymo 80 straipsnio 4 dalyje nurodytų muitinės priežiūros priemonių vietoj teritorinių muitinių ir joms priklausančių muitinės postų Muitinės departamento generalinio direktoriaus nustatyta tvarka gali taikyti specialiosios muitinės įstaigos, jų teritoriniai padaliniai bei muitinės mobiliosios grupės.
+83 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-
-
-83 straipsnis. Kreipimasis į teismą 
-
-
-1. Intelektinės nuosavybės teisių subjektas turi teisę įstatymų nustatyta tvarka kreiptis su ieškinio pareiškimu į teismą dėl intelektinės nuosavybės teisių gynimo ir savo ieškinyje remtis iš muitinės gauta informacija, nurodyta šio Įstatymo 82 straipsnio 3 dalyje, išskyrus atvejus, kai taikomos šio Įstatymo 84 straipsnio nuostatos.
-
-
-
-
-2. Intelektinės nuosavybės teisių subjektas privalo nedelsdamas pateikti teritorinei muitinei, kuriai priklausantis muitinės postas neišleido prekių arba jas sulaikė, arba prekes sulaikiusiai specialiajai muitinės įstaigai dokumentą, liudijantį šio straipsnio 1 dalyje nurodytą kreipimąsi į teismą ir teismo nutartį taikyti ieškinio užtikrinimo priemones, jeigu ji buvo priimta.
+84 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-
-
-84 straipsnis. Neišleistų arba sulaikytų prekių sunaikinimas paprastesne tvarka
-
-
-1. Intelektinės nuosavybės apsaugos reglamento 11 straipsnio 1 dalyje nurodytais atvejais muitinės įstaigos neišleistos arba sulaikytos prekės, dalyvaujant muitinės pareigūnams, sunaikinamos nereikalaujant, kad teismas jas pripažintų pagamintomis pažeidžiant intelektinės nuosavybės teises, ir laikantis Vyriausybės arba jos įgaliotos institucijos nustatytos tvarkos.
-
-
-
-
-2. Taikant šio straipsnio 1 dalį, intelektinės nuosavybės teisių subjektas turi teisę remtis iš muitinės gauta informacija, nurodyta šio Įstatymo 82 straipsnio 3 ir 4 dalyse.
+85 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-
-
-85 straipsnis. Veiksmai su neišleistomis arba sulaikytomis prekėmis
-
-
-1. Muitinės įstaigos neišleistos arba sulaikytos prekės išleidžiamos arba sprendimas jas sulaikyti atšaukiamas:
-
-
-1) Intelektinės nuosavybės apsaugos reglamento 13 straipsnyje nurodytais atvejais – jeigu pasibaigus nustatytam prekių neišleidimo arba sulaikymo laikotarpiui negaunamas šio Įstatymo 83 straipsnio 2 dalyje nurodytas dokumentas;
-
-
-
-
-2) Intelektinės nuosavybės apsaugos reglamento 14 straipsnio 1 dalyje nurodytais atvejais – jeigu teritorinei muitinei, kuriai priklausantis muitinės postas neišleido prekių arba jas sulaikė, arba prekes sulaikiusiai specialiajai muitinės įstaigai per nustatytą prekių neišleidimo arba sulaikymo laikotarpį nepateikiama teismo nutartis taikyti ieškinio užtikrinimo priemones.
-
-
-
-
-
-
-2. Jeigu per Intelektinės nuosavybės apsaugos reglamento 13 straipsnyje nurodytą terminą intelektinės nuosavybės teisių subjektas praneša teritorinei muitinei, kuriai priklausantis muitinės postas neišleido prekių arba jas sulaikė, arba prekes sulaikiusiai specialiajai muitinės įstaigai apie savo sutikimą, kad neišleistos arba sulaikytos prekės gali būti išleistos arba sprendimas jas sulaikyti atšauktas, šio straipsnio 1 dalyje nurodyti veiksmai gali būti atlikti ir toje straipsnio dalyje nurodytam terminui nesibaigus.
-
-
-
-
-3. Jeigu per Intelektinės nuosavybės apsaugos reglamento 13 straipsnyje nurodytą terminą teritorinei muitinei, kuriai priklausantis muitinės postas neišleido prekių arba jas sulaikė, arba prekes sulaikiusiai specialiajai muitinės įstaigai pateikiamas šio Įstatymo 83 straipsnio 2 dalyje nurodytas dokumentas, prekių neišleidimo arba sulaikymo terminas pratęsiamas iki šio Įstatymo 86 straipsnyje nurodyto teismo sprendimo įsiteisėjimo. Neišleistų arba sulaikytų prekių saugojimo iki nurodyto teismo sprendimo įsiteisėjimo tvarką nustato Muitinės departamento generalinis direktorius.
-
-
-
-
-4. Neišleistų arba sulaikytų prekių gabenimo į saugojimo vietą, jų saugojimo ir sunaikinimo išlaidas, išskyrus nurodytas šio Įstatymo 86 straipsnio 1 dalies 3 punkte, atlygina intelektinės nuosavybės teisių subjektas.
-
-
-
-
-5. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos, jeigu muitinės įstaigos neišleistos arba sulaikytos prekės negali būti išleistos arba sprendimas jas sulaikyti negali būti atšauktas dėl to, kad su jų importo, eksporto arba tranzito operacijomis susijusiems asmenims įstatymų nustatyta tvarka taikoma administracinė arba baudžiamoji atsakomybė.
-
-
-
-
-6. Apie prekių išleidimą arba sprendimo jas sulaikyti atšaukimą šio straipsnio 1 ir 2 dalyse nurodytais atvejais teritorinė muitinė, kuriai priklausantis muitinės postas neišleido prekių arba jas sulaikė, arba prekes sulaikiusi specialioji muitinės įstaiga informuoja intelektinės nuosavybės teisių subjektą ir deklarantą arba atitinkamais atvejais asmenį, įvežusį prekes į Lietuvos Respublikos muitų teritoriją.
-
-
-
-
-7. Šio straipsnio 4 dalies nuostatos netaikomos, jeigu Intelektinės nuosavybės apsaugos reglamento 4 straipsnio 1 dalyje nurodytais atvejais prekės neišleidžiamos arba sulaikomos muitinės iniciatyva ir intelektinės nuosavybės teisių subjektas per nustatytą laikotarpį nepateikia Muitinės departamentui prašymo taikyti muitinės priežiūros priemones.
+86 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
 
 
 
 
-
-
-86 straipsnis.       Priemonės, taikomos teismui pripažinus prekes pagamintomis pažeidžiant intelektinės nuosavybės teises arba atmetus ieškinį dėl intelektinės nuosavybės teisių gynimo
-
-
-1. Teismas, pripažinęs, kad muitinės neišleistos arba sulaikytos prekės pagamintos pažeidžiant intelektinės nuosavybės teises, ir atsižvelgdamas į intelektinės nuosavybės teisių subjekto prašymus (jeigu jie buvo pateikti), gali priimti sprendimą:
-
-
-1) leisti naudoti prekes neišleidžiant jų į prekybą (perdirbti į kitas prekes, utilizuoti ir taikyti panašias priemones), su sąlyga, kad būtų užtikrinta intelektinės nuosavybės teisių subjekto teisių apsauga ir valstybė neturėtų atlyginti jokių su tokiu prekių naudojimu susijusių išlaidų;
-
-
-
-
-2) taikyti kitas priemones (intelektinės nuosavybės teisių subjekto prašymu perduoti prekes jam arba kitiems jo prašyme nurodytiems asmenims ir taikyti panašias priemones), kurias taikant suinteresuoti neteisėtu neišleistų arba sulaikytų prekių gabenimu asmenys negautų iš jų sudaryto sandorio jokios ekonominės naudos. Jeigu prekės perduodamos ne intelektinės nuosavybės teisių subjektui, o kitiems jo prašyme nurodytiems asmenims, teismas gali įpareigoti šiuos asmenis pašalinti (nuimti) prekių ženklus, kuriais šios prekės buvo neteisėtai pažymėtos;
-
-
-
-
-3) prekes sunaikinti atsakovo lėšomis;
-
-
-
-
-4) konfiskuoti prekes (jas konfiskavus, taikomos šios dalies 1 ir 3 punktuose nurodytos priemonės).
-
-
-
-
-
-
-2. Įsiteisėjus teismo sprendimui, kuriuo atmestas ieškinys dėl intelektinės nuosavybės teisių gynimo, teisės aktų nustatyta tvarka prekės išleidžiamos arba sprendimas jas sulaikyti atšaukiamas.
+87 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
-
-
-
-
-
-
-87 straipsnis.       Muitinės pareigūnų ir valstybės tarnautojų bei intelektinės nuosavybės teisių subjektų atsakomybė
-
-
-1. Žala, padaryta taikant šio Įstatymo 80–86 straipsnius neteisėtais muitinės pareigūnų ir valstybės tarnautojų veiksmais, taip pat intelektinės nuosavybės teisių subjekto veiksmais arba neveikimu, atlyginama Lietuvos Respublikos civilinio kodekso ir kitų įstatymų nustatyta tvarka.
-
-
-
-
-2. Žala neatlyginama, jeigu Muitinės departamentui priėmus arba patenkinus intelektinės nuosavybės teisių subjekto prašymą dėl muitinės priežiūros priemonių taikymo jo teisėms apsaugoti, muitinės pareigūnai, muitų teisės aktų nustatyta tvarka atlikę prekių muitinį tikrinimą, neaptinka arba neatpažįsta prekių, pagamintų pažeidžiant intelektinės nuosavybės teises, ir neatlieka veiksmų, numatytų Intelektinės nuosavybės apsaugos reglamento 9 straipsnio 1 dalyje.
-
-
-
-
-3. Intelektinės nuosavybės teisių subjektui panaudojus iš muitinės gautą informaciją, nurodytą šio Įstatymo 82 straipsnio 3 ir 4 dalyse, šiame Įstatyme nenumatytiems tikslams, taikomos Intelektinės nuosavybės apsaugos reglamento 12 straipsnio ir šio straipsnio 1 dalies nuostatos.
- 
-
-
 
 
 
@@ -3070,78 +2937,10 @@ Neapmuitinamų parduotuvių veikla tęsiama vadovaujantis Lietuvos Respublikos n
 
 
 
-104 straipsnis. Intelektinės nuosavybės apsaugos reglamento taikymas
-
-
-1. Iki 2004 m. birželio 30 d. šio Įstatymo 80–82, 85 ir 87 straipsniuose pateiktos nuorodos į Intelektinės nuosavybės apsaugos reglamento nuostatas laikomos nuorodomis į šias 1994 m. gruodžio 22 d. Tarybos reglamento (EB) Nr. 3295/94, nustatančio priemones, draudžiančias išleisti laisvai cirkuliuoti, eksportuoti, reeksportuoti ar taikyti sąlyginio neapmokestinimo procedūrą (su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003) (toliau – Reglamentas Nr. 3295/94) nuostatas ir jas įgyvendinančias 1995 m. birželio 16 d. Komisijos reglamento Nr. 1367/95, nustatančio Tarybos reglamento (EB) Nr. 3295/94, nustatančio priemones, skirtas uždrausti suklastotas ir piratines prekes išleisti į laisvą apyvartą, jas eksportuoti, reeksportuoti ar taikyti sąlyginio neapmokestinimo procedūrą, įgyvendinimo nuostatas (su pakeitimais, padarytais 1999 m. gruodžio 2 d. Komisijos reglamentu Nr. 2549/1999):
-
-
-1) šio Įstatymo 80 straipsnio 1 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 2 straipsnio 2 dalį – nuoroda į Reglamento Nr. 3295/94 1 straipsnio 2 dalies b punktą;
-
-
-
-
-2) šio Įstatymo 80 straipsnio 1 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 5 straipsnį – nuoroda į Reglamento Nr. 3295/94 3 straipsnį;
-
-
-
-
-3) šio Įstatymo 80 straipsnio 4 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 4 straipsnį – nuoroda į Reglamento Nr. 3295/94 4 straipsnį;
-
-
-
-
-4) šio Įstatymo 81 straipsnio 2 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 5 straipsnio 4 dalį – nuoroda į Reglamento Nr. 3295/94 3 straipsnio 1 dalies antrąją pastraipą;
-
-
-
-
-5) šio Įstatymo 82 straipsnio 3 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 9 straipsnio 3 dalį – nuoroda į Reglamento Nr. 3295/94 6 straipsnio 1 dalies antrąją pastraipą;
-
-
-
-
-6) šio Įstatymo 82 straipsnio 4 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 9 straipsnio 3 dalį – nuoroda į Reglamento Nr. 3295/94 6 straipsnio 1 dalies trečiąją pastraipą;
-
-
-
-
-7) šio Įstatymo 85 straipsnio 1 dalies 1 punkte, 2 ir 3 dalyse pateiktos nuorodos į Intelektinės nuosavybės apsaugos reglamento 13 straipsnį – nuorodomis į Reglamento Nr. 3295/94 7 straipsnio 1 dalį;
-
-
-
-
-8) šio Įstatymo 85 straipsnio 1 dalies 2 punkte pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 14 straipsnio 1 dalį – nuoroda į Reglamento Nr. 3295/94 7 straipsnio 2 dalį;
-
-
-
-
-9) šio Įstatymo 85 straipsnio 7 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 4 straipsnio 1 dalį – nuoroda į Reglamento Nr. 3295/94 4 straipsnį;
-
-
-
-
-10) šio Įstatymo 87 straipsnio 2 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 9 straipsnio 1 dalį – nuoroda į Reglamento Nr. 3295/94 6 straipsnio 1 dalies pirmąją pastraipą ir antrosios pastraipos pirmąjį sakinį;
-
-
-
-
-11) šio Įstatymo 87 straipsnio 3 dalyje pateikta nuoroda į Intelektinės nuosavybės apsaugos reglamento 12 straipsnį – nuoroda į Reglamento Nr. 3295/94 9 straipsnio 3 dalį.
-
-
-
-
-
-
-2. Muitinės departamento sprendimai taikyti muitinės priežiūros priemones intelektinės nuosavybės teisių subjektų teisėms apsaugoti, priimti vadovaujantis Intelektinės nuosavybės apsaugos importuojant ir eksportuojant prekes įstatymu iki 2004 m. balandžio 30 d., galioja iki jų galiojimo laiko pabaigos arba iki naujų sprendimų taikyti muitinės priežiūros priemones toms pačioms teisėms apsaugoti įsigaliojimo dienos, atsižvelgiant į tai, kuri iš šių datų yra ankstesnė.
-
-
-
-
-3. Garantijų, pateiktų vadovaujantis Intelektinės nuosavybės apsaugos importuojant ir eksportuojant prekes įstatymu iki 2004 m. balandžio 30 d. arba šio straipsnio 2 dalyje nurodytu Tarybos reglamentu nuo 2004 m. gegužės 1 d. iki 2004 m. birželio 30 d., atsisakoma, jeigu intelektinės nuosavybės teisių subjektas, tebegaliojant atitinkamam Muitinės departamento sprendimui, nurodytam šio straipsnio 2 dalyje, pateikia Intelektinės nuosavybės apsaugos reglamento 6 straipsnio 1 dalyje nurodytą deklaraciją.
+104 straipsnis. Neteko galios nuo 2014-04-04
+Straipsnio naikinimas:
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
-
-
 
 
 
@@ -3263,78 +3062,77 @@ ______________
 
 
 
-Lietuvos Respublikos muitinės įstatymo
+ 
+ 
+Lietuvos Respublikos 
+muitinės įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1983 m. kovo 28 d. Tarybos reglamentas (EEB) Nr. 918/83, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419) (su paskutiniais pakeitimais, padarytais 2008 m. kovo 17 d. Tarybos reglamentu (EB) Nr. 274/2008 (OL 2008 L 85, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentas).
+1. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2013 m. spalio 4 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1001/2013 (OL 2013 L 290, p. 1) (Įstatyme – Bendrojo muitų tarifo reglamentas).
 
 
 
 
-2. 1983 m. liepos 29 d. Komisijos reglamentas (EEB) Nr. 2288/83, pateikiantis biologinių ir cheminių medžiagų, numatytų Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 60 straipsnio 1 dalies b punkte, sąrašą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 461) (su paskutiniais pakeitimais, padarytais 1989 m. sausio 27 d. Komisijos reglamentu (EEB) Nr. 213/89 (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 45) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
+2. 1988 m. gruodžio 15 d. Komisijos reglamentas (EEB) Nr. 3915/88, išdėstantis nuostatas dėl Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 63c straipsnio įgyvendinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 37) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
 
 
 
 
-3. 1983 m. liepos 29 d. Komisijos reglamentas (EEB) Nr. 2289/83, išdėstantis Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 70–78 straipsnių įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 463) (su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos reglamentu (EB) Nr. 1792/2006 (OL 2006 L 362, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
+3. 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) Nr. 517/2013 (OL 2013 L 158, p. 1) (Įstatyme – Bendrijos muitinės kodeksas).
 
 
 
 
-4. 1983 m. liepos 29 d. Komisijos reglamentas (EEB) Nr. 2290/83, išdėstantis Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 50–59 straipsnių įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 468) (su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos reglamentu (EB) Nr. 1792/2006 (OL 2006 L 362, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
+4. 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 5 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1099/2013 (OL 2013 L 294, p. 40) (Įstatyme – Bendrijos muitinės kodekso įgyvendinimo nuostatos).
 
 
 
 
-5. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Komisijos reglamentu (EB) Nr. 332/2009 (OL 2009 L 104, p. 3) (Įstatyme – Bendrojo muitų tarifo reglamentas).
+5. 1997 m. kovo 13 d. Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti tinkamą muitinės ir žemės ūkio teisės aktų taikymą (OL 2004 m. specialusis leidimas, 2 skyrius, 8 tomas, p. 217) (su paskutiniais pakeitimais, padarytais 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 766/2008 (OL 2008 L 218, p. 48) (Įstatyme – Tarpusavio pagalbos reglamentas).
 
 
 
 
-6. 1988 m. gruodžio 15 d. Komisijos reglamentas (EEB) Nr. 3915/88, išdėstantis nuostatas dėl Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 63c straipsnio įgyvendinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 37) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
+6. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Tarybos reglamentą (EEB) Nr. 3330/91 (OL 2004 m. specialusis leidimas, 2 skyrius, 16 tomas, p. 64) (su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 4 d. Komisijos reglamentu (ES) Nr. 1093/2013 (OL 2013 L 294, p. 28).
 
 
 
 
-7. 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos reglamentu (EB) Nr. 1791/2006 (OL 2006 L 363, p. 1) (Įstatyme – Bendrijos muitinės kodeksas).
+7. 2004 m. lapkričio 18 d. Komisijos reglamentas (EB) Nr. 1982/2004, įgyvendinantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantį Komisijos reglamentus (EB) Nr. 1901/2000 ir (EEB) Nr. 3590/92 (OL 2004 L 343, p. 3) (su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 4 d. Komisijos reglamentu (ES) Nr. 1093/2013 (OL 2013 L 294, p. 28).
 
 
 
 
-8. 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr.  913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2009 m. balandžio 30 d. Komisijos reglamentu (EB) Nr. 414/2009 (OL 2009 L 125, p. 6) (Įstatyme – Bendrijos muitinės kodekso įgyvendinimo nuostatos).
+8. 2009 m. lapkričio 16 d. Tarybos reglamentas (EB) Nr. 1186/2009, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2009 L 324, p. 23) (Įstatyme – Atleidimo nuo muitų reglamentas).
 
 
 
 
-9. 1997 m. kovo 13 d. Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių valdymo institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti tinkamą muitinės ir žemės ūkio teisės aktų taikymą (OL 2004 m. specialusis leidimas, 2 skyrius, 8 tomas, p. 217) (su paskutiniais pakeitimais, padarytais 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 766/2008 (OL 2008 L 218, p. 48) (Įstatyme – Tarpusavio pagalbos reglamentas).
+9. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1224/2011, išdėstantis Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų taisykles, 66–73 straipsnių taikymo nuostatas (OL 2011 L 314, p. 14) (su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
 
 
 
 
-10. 2003 m. liepos 22 d. Tarybos reglamentas (EB) Nr. 1383/2003 dėl muitinės veiksmų, atliekamų su prekėmis, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises (OL 2004 m. specialusis leidimas, 2 skyrius, 13 tomas, p. 469) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentas).
+10. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1225/2011, išdėstantis Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų sistemą, 42–52, 57 ir 58 straipsnių taikymo nuostatas (OL 2011 L 314, p. 20) (su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
 
 
 
 
-11. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Tarybos reglamentą (EEB) Nr. 3330/91 (OL 2004 m. specialusis leidimas, 2 skyrius, 16 tomas, p. 64).
+11. 2012 m. sausio 31 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 80/2012, išdėstantis biologinių ir cheminių medžiagų, numatytų Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų sistemą, 53 straipsnio 1 dalies b punkte, sąrašą (OL 2012 L 29, p. 33) (su paskutiniais pakeitimais, padarytais 2013 m. kovo 7 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 197/2013 (OL 2013 L 65, p. 15) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
 
 
 
 
-12. 2004 m. spalio 21 d. Komisijos reglamentas (EB) Nr. 1891/2004, nustatantis Tarybos reglamento (EB) Nr. 1383/2003 dėl muitinės priežiūros priemonių, taikomų prekėms, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises, įgyvendinimo nuostatas (OL 2004 L 328, p. 16) (su paskutiniais pakeitimais, padarytais 2007 m. spalio 5 d. Komisijos reglamentu (EB) Nr. 1172/2007 (OL 2007 L 261, p. 12) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentą įgyvendinantis reglamentas).
-
-
-
-
-13. 2004 m. lapkričio 18 d. Komisijos reglamentas (EB) Nr. 1982/2004, įgyvendinantis Europos Parlamento ir Tarybos reglamentą Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantį Komisijos reglamentus (EB) Nr. 1901/2000 ir (EEB) Nr. 3590/92 (OL 2004 L 343, p. 3) (su paskutiniais pakeitimais, padarytais 2005 m. lapkričio 24 d. Komisijos reglamentu (EB) Nr. 1915/2005 (OL 2005 L 307, p. 8). 
+12. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1383/2003 (OL 2013 L 181, p. 15) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentas).
 
 
 Priedo pakeitimai:
 Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010ISTA00XI-575
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
  
  
  
@@ -3364,3 +3162,8 @@ Lietuvos Respublikos muitinės įstatymo 57 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
 Lietuvos Respublikos muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 IV skyriaus ketvirtojo skirsnio pavadinimo, 80 straipsnio ir priedo pakeitimo, Įstatymo papildymo 40-1 straipsniu ir 81, 82, 83, 84, 85, 86, 87, 104 straipsnių pripažinimo netekusiais galios
