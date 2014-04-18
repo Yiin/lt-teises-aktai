@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2014-04-18 iki 2014-09-30
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
+ 
 LIETUVOS RESPUBLIKOS 
 APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE 
 ĮSTATYMAS
@@ -198,7 +202,10 @@ SMURTĄ PATYRUSIO ASMENS APSAUGA
 
 
 
-2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytos priemonės skiriamos iki bylos nagrinėjimo pabaigos, jeigu ikiteisminio tyrimo teisėjas neskiria Lietuvos Respublikos baudžiamojo proceso kodekse nustatytų kardomųjų priemonių – suėmimo ar įpareigojimo gyventi skyrium nuo nukentėjusiojo. Šias priemones skiria ikiteisminio tyrimo teisėjas nutartimi ne vėliau kaip per 48 valandas.
+2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytos priemonės skiriamos iki bylos nagrinėjimo pabaigos, jeigu ikiteisminio tyrimo teisėjas ar teismas neskiria Lietuvos Respublikos baudžiamojo proceso kodekse nustatytų kardomųjų priemonių – suėmimo ar įpareigojimo gyventi skyrium nuo nukentėjusiojo. Šias priemones skiria  teismas ne vėliau kaip per 48 valandas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+ 
 
 
 
@@ -214,6 +221,13 @@ SMURTĄ PATYRUSIO ASMENS APSAUGA
 
 
 5. Skiriant šio straipsnio 1 dalies 1 ir 2 punktuose nustatytas priemones, jeigu smurtą patyręs asmuo ar smurtautojas dėl savo fizinių ar psichinių trūkumų ar savybių negali likti be priežiūros, šių asmenų priežiūros klausimas sprendžiamas kitų Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+
+
+
+6. Ikiteisminiuose tyrimuose, susijusiuose su smurtu artimoje aplinkoje, Valstybinė teismo medicinos tarnyba prie Teisingumo ministerijos užtikrina, kad sveikatos sutrikdymo mastas būtų nustatomas ir specialistų išvados būtų teikiamos skubos tvarka.
+Papildyta straipsnio dalimi:
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
  
 
 
@@ -240,7 +254,10 @@ SMURTĄ PATYRUSIO ASMENS APSAUGA
 7 straipsnis. Policijos pareigūnų funkcijos
 
 
-1. Gavę pranešimą apie smurtą artimoje aplinkoje, policijos pareigūnai, atvykę į įvykio vietą arba patys būdami to įvykio liudininkai, užrašo duomenis apie smurto artimoje aplinkoje faktą ir pradeda ikiteisminį tyrimą. Smurtą patyręs asmuo skundo neteikia.
+1. Gavę pranešimą apie smurtą artimoje aplinkoje, policijos pareigūnai, atvykę į įvykio vietą arba patys būdami to įvykio liudininkai, užrašo duomenis apie smurto artimoje aplinkoje faktą, pradeda ikiteisminį tyrimą ir imasi priemonių, kad per trumpiausią laiką būtų atliktas ikiteisminis tyrimas bei užtikrinta smurtą patyrusio asmens apsauga. Smurtą patyręs asmuo skundo neteikia. 
+Straipsnio dalies pakeitimai:
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+ 
 
 
 
@@ -255,7 +272,10 @@ SMURTĄ PATYRUSIO ASMENS APSAUGA
 
 
 
-4. Policijos pareigūnai apie teismo skirtą įpareigojimą smurtautojui laikinai išsikelti iš gyvenamosios vietos nedelsdami, bet ne vėliau kaip kitą darbo dieną po sprendimo priėmimo, praneša specializuotos pagalbos centrui. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka nepilnametis, policijos pareigūnai apie tai praneša ir vaiko teisių apsaugos skyriui.
+4. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka nepilnametis, policijos pareigūnai apie tai praneša vaiko teisių apsaugos skyriui.
+Straipsnio dalies pakeitimai:
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+ 
 
 
 
@@ -314,7 +334,10 @@ PAGALBOS VALDYMAS IR ORGANIZAVIMAS
 9 straipsnis. Pagalbos organizavimas
 
 
-1. Policijos pareigūnai, atvykę į smurto artimoje aplinkoje įvykio vietą, informuoja smurtą patyrusį asmenį apie galimybes gauti pagalbą ir su jo žinia praneša apie įvykį specializuotos pagalbos centrui.
+1. Policijos pareigūnai, atvykę į smurto artimoje aplinkoje įvykio vietą, informuoja smurtą patyrusį asmenį, kad su juo susisieks specializuotos pagalbos centras, kuris suteiks jam pagalbą, ir nedelsdami apie įvykį praneša specializuotos pagalbos centrui. Specializuotos pagalbos centrui pateikiami būtiniausi susisiekti su smurtą patyrusiu asmeniu duomenys.
+Straipsnio dalies pakeitimai:
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+ 
 
 
 
@@ -481,3 +504,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5, 7, 8 ir 9 straipsnių pakeitimo
