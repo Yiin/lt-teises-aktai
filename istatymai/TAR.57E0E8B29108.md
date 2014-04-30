@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2014-04-29
+Suvestinė redakcija nuo 2014-04-30 iki 2014-10-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -350,6 +350,14 @@ Vilnius
 
 
 7) akcinė bendrovė Giraitės ginkluotės gamykla.
+
+
+
+
+8) akcinė bendrovė AB „Amber Grid.
+Papildyta straipsnio punktu:
+Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
+ 
 
 
 
@@ -754,3 +762,8 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2087, 2012-06-21, Žin., 2012, Nr. 76-3931 (2012-06-30), i. k. 1121010ISTA0XI-2087
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 5 straipsnio pakeitimo įstatymas
