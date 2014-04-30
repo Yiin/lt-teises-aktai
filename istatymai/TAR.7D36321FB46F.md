@@ -63,7 +63,7 @@ naudoja ir juo disponuoja pagal Europos Sąjungos teisės aktus ir šį įstatym
 banką steigia Seimas.“
 Straipsnio pakeitimai:
 Nr. XII-765,
-2014-01-23, paskelbta TAR 2014-01-30, i. k. 2014-00713
+2014-01-23, paskelbtas TAR 2014-01-30, i. k. 2014-00713
  
 2
 straipsnis. 6 straipsnio pavadinimo ir 1 dalies pakeitimas
@@ -218,10 +218,10 @@ apygardos teismui“ ir šią dalį išdėstyti taip:
 sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius nuo sprendimo
 paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuvo
 padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos
-Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos
-teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos
-banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl
-atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“ 
+Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos teisės
+normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko
+valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo
+prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“ 
  
 7 straipsnis. 14
 straipsnio 2 dalies pakeitimas
@@ -305,8 +305,8 @@ valiutomis, taip pat tauriuosius metalus;
 atlikti kredito operacijas su kredito įstaigomis ir kitais rinkos dalyviais
 skolindamas lėšas, adekvačias pakankamam įkaitui.“
 Straipsnio pakeitimai:
-Nr. XI-1667,
-2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+Nr. XI-1667, 2011-11-17,
+Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 12
 straipsnis. 26 straipsnio pripažinimas netekusiu galios
@@ -440,9 +440,9 @@ straipsnio 1 dalį ir ją išdėstyti taip:
 „1.
 Lietuvos bankas finansinę apskaitą tvarko, metinių finansinių ataskaitų rinkinį
 (balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) ir kitas finansines
-ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais,
-gairėmis ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų
-vykdomų operacijų apskaitą ir atskaitomybę.“
+ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais, gairėmis
+ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų vykdomų
+operacijų apskaitą ir atskaitomybę.“
 Straipsnio pakeitimai:
 Nr. XI-1320,
 2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
@@ -474,23 +474,30 @@ užstatu (įkaitu).“
  
 29
 straipsnis. 54 straipsnio pakeitimas
-Pakeisti 54
-straipsnį ir jį išdėstyti taip:
-„54
-straipsnis. Informacijos gavimas ir teikimas
-1. Valstybės ir
-savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui
-informaciją, reikalingą jo funkcijoms atlikti.
-2. Lietuvos
-bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos
-valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms,
-valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms
-atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos
-Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę
-informaciją Europos centriniam bankui -
-šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl
-Europos centrinio banko renkamos statistinės informacijos 8 straipsnyje
-nustatyta konfidencialumo tvarka.“
+Pakeisti 54 straipsnį ir jį
+išdėstyti taip:
+„54 straipsnis. Informacijos
+gavimas ir teikimas
+1. Valstybės ir savivaldybių
+institucijos ir ūkio subjektai privalo teikti Lietuvos bankui informaciją,
+reikalingą jo funkcijoms atlikti.
+2. Lietuvos bankas gali teikti
+informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams
+bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir
+savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei
+tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos
+įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją
+Europos centriniam bankui, – šiuo atveju taikoma 1998 m. lapkričio 23 d.
+Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos
+statistinės informacijos 8 straipsnyje nustatyta konfidencialumo tvarka.
+3. Lietuvos Respublikos juridinių
+asmenų registre įregistruotų juridinių asmenų be valstybės garantijos gaunamos
+paskolos iš fizinių ar juridinių asmenų, kurių nuolatinė gyvenamoji vieta ar
+buveinė yra ne Lietuvos Respublikoje, ir jiems suteikiamos paskolos
+registruojamos Lietuvos banke Lietuvos banko nustatyta tvarka.“
+Straipsnio pakeitimai:
+Nr. XII-829,
+2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04874
  
 30
 straipsnis. 54(1) straipsnio pakeitimas 
@@ -555,10 +562,10 @@ Respublikos Seimas, Įstatymas
 Nr. XI-556,
 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
 LIETUVOS BANKO
-ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50,
-53, 54, 54(1), 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ
-PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
-IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR 25 STRAIPSNIO
+ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53,
+54, 54(1), 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO,
+26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR
+ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR 25 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 2.
@@ -573,8 +580,8 @@ PAPILDYMO ĮSTATYMO 5, 21, 26, 27 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1667, 2011-11-17,
-Žin., 2011, Nr. 145-6813 (2011-12-01)
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
 LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11,
 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), 55
 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28,
@@ -586,16 +593,28 @@ PAPILDYMO ĮSTATYMO 2, 3, 4, 5, 11 IR 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-765,
-2014-01-23, paskelbta TAR 2014-01-30, i. k. 2014-00713
+2014-01-23, paskelbtas TAR 2014-01-30, i. k. 2014-00713
+LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO
+1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54,
+54-1, 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26,
+27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO
+PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-829,
+2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04874
 LIETUVOS RESPUBLIKOS LIETUVOS BANKO
 ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50,
 53, 54, 54-1, 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ
 PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
-IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 1 STRAIPSNIO PAKEITIMO
+IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 29 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2014-02-03)
-                  ausrine.trapinskiene@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2014-05-01)
+                 
+ausrine.trapinskiene@lrs.lt
