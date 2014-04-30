@@ -183,6 +183,27 @@ Nr. IX-1140,
 straipsnis. Įstatymo įsigaliojimas
             Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
  
+Papildyta nuo Lietuvos Respublikos euro
+įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dienos:
+2. Įstatymas
+taikomas tiek, kiek neprieštarauja Lietuvos Respublikos euro įvedimo Lietuvos
+Respublikoje įstatymui.
+Straipsnio pakeitimai:
+Nr.
+XII-831, 2014-04-17,
+paskelbta TAR 2014-04-29,  i. k. 2014-04872
+ 
+Papildyta nuo Lietuvos Respublikos euro
+įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dienos:
+10
+straipsnis. Įstatymo galiojimas
+Įstatymas
+galioja iki euro įvedimo Lietuvos Respublikoje dienos.
+Papildyta straipsniu:
+Nr.
+XII-831,
+2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04872
+ 
             Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
  
@@ -191,7 +212,6 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                     
                         ALGIRDAS BRAZAUSKAS 
  
-_______________________
  
 Pakeitimai:
  
@@ -310,12 +330,25 @@ XI-1878,
 UŽSIENIO
 VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-831,
+2014-04-17, paskelbta TAR 2014-04-29,  i. k. 2014-04872
+LIETUVOS
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO NR. I-202 9
+STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 10 STRAIPSNIU ĮSTATYMAS
+Šis
+įstatymas įsigalioja Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje
+įstatymo įsigaliojimo dieną.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-01-02)
+Aušrinė Trapinskienė (2014-05-05)
                  
 ausrine.trapinskiene@lrs.lt
 
