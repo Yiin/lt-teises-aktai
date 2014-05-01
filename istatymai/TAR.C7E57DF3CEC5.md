@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2014-04-30
+Suvestinė redakcija nuo 2014-05-01 iki 2014-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -466,7 +466,10 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 2. Valstybė remia investicijas 13 straipsnyje nustatytais būdais, kai: 
 
 
-1) šio įstatymo 13 straipsnio 1 dalies 6 punkte nustatyta minimali kapitalo investicijų suma yra investuojama į priemones perspektyvių pramonės šakų įmonių technologijoms atnaujinti ir modernizuoti, šalies ekologinei situacijai gerinti, smulkiam ir vidutiniam verslui plėtoti;
+1) šio įstatymo 13 straipsnio 1 dalies 6 punkte nustatyta minimali investicijų suma yra investuojama į priemones perspektyvių ūkio šakų įmonių technologijoms atnaujinti ir modernizuoti, šalies ekologinei situacijai gerinti, smulkiajam ir vidutiniam verslui plėtoti; 
+Straipsnio punkto pakeitimai:
+Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
+ 
 
 
 
@@ -496,9 +499,11 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 
 
 
-7) investuojama į įsteigimą ne mažiau kaip 20 išlaikomų ne mažiau kaip trejus metus darbo vietų, į kurių kiekvieną įdarbinto asmens atitinkamų metų vidutinis darbo užmokestis būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas tų metų šalies ūkio vidutinis mėnesinis darbo užmokestis. 
+7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis darbo užmokestis būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis darbo užmokestis. 
 Papildyta straipsnio punktu:
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
+Straipsnio punkto pakeitimai:
+Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
  
 
 
@@ -552,10 +557,11 @@ Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010IS
 
 
 
-6) dėl ne mažesnių kaip 5 mln. litų kapitalo investicijų ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
+6) dėl ne mažesnių kaip 5 mln. litų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
 Straipsnio punkto pakeitimai:
 Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
+Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
  
 
 
@@ -985,3 +991,8 @@ Lietuvos Respublikos investicijų įstatymo 12, 13 straipsnių pakeitimo ir pap
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
 Lietuvos Respublikos investicijų įstatymo 2 ir 13 straipsnių papildymo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 ir 13 straipsnių pakeitimo įstatymas
