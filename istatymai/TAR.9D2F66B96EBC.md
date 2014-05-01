@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-04-30
+Suvestinė redakcija nuo 2014-05-01 iki 2014-10-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -2134,7 +2134,7 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 
 
 
-6. Turėti pažymėjimą, kuris leidžia asmeniui nelydimam patekti į oro uosto riboto patekimo zoną ar oro eismo paslaugas teikiančios įmonės kontroliuojamąją zoną, turėti Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimą ar Lietuvos Respublikos aviacijos saugumo instruktoriaus pažymėjimą gali tik nepriekaištingos reputacijos asmenys. Asmuo nelaikomas esąs nepriekaištingos reputacijos, jeigu:
+6. Turėti pažymėjimą, kuris leidžia asmeniui nelydimam patekti į oro uosto riboto patekimo zoną ar oro eismo paslaugas teikiančios įmonės kontroliuojamąją zoną, Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimą ar Lietuvos Respublikos aviacijos saugumo instruktoriaus pažymėjimą, ar Europos Sąjungos aviacijos saugumo tvirtintojo pažymėjimą gali tik nepriekaištingos reputacijos asmenys. Asmuo nelaikomas esąs nepriekaištingos reputacijos, jeigu:
 
 
 1) buvo nuteistas už sunkų ar labai sunkų nusikaltimą, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas;
@@ -2142,37 +2142,37 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 
 
 
-2) buvo nuteistas už nesunkų ar apysunkį tyčinį ar neatsargų nusikaltimą ir teistumas nėra išnykęs arba teistumas nepanaikintas;
+2) buvo nuteistas už nesunkų, apysunkį ar neatsargų nusikaltimą ir teistumas nėra išnykęs ar panaikintas;
 
 
 
 
-3) piktnaudžiauja psichiką veikiančiomis medžiagomis;
+3) per paskutinius vienus metus jam buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
 
 
 
 
-4) buvo atleistas iš valstybės tarnautojo, profesinės karo tarnybos kario pareigų ar vidaus tarnybos paskyrus tarnybinę (drausminę) nuobaudą – atleidimą iš pareigų (tarnybos) ar iš darbo – už šiurkštų tarnybinį nusižengimą ir nuo atleidimo iš pareigų (tarnybos) dienos nepraėjo vieni metai;
+4) jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
 
 
 
 
-5) per paskutinius vienus metus buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
+5) buvo nuteistas už baudžiamąjį nusižengimą ir yra neatlikęs paskirtos bausmės (išskyrus atvejus, kai asmuo atleistas nuo bausmės atlikimo);
 
 
 
 
-6) jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
-Straipsnio punkto pakeitimai:
-Nr. XI-2238, 2012-10-02, Žin., 2012, Nr. 122-6097 (2012-10-20), i. k. 1121010ISTA0XI-2238
+6) piktnaudžiauja alkoholiu, narkotinėmis, toksinėmis, psichotropinėmis arba kitomis psichiką veikiančiomis medžiagomis;
+
+
+
+
+7) nesutinka būti tikrinamas ir (arba) atsisako pildyti ar pateikti reikiamus dokumentus, ir (arba) nesutinka, kad būtų renkama tikrinimui būtina informacija. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
  
-
-
-
-
-7) nesutinka būti tikrinamas ir (arba) atsisako pildyti ar pateikti reikiamus dokumentus, ir (arba) nesutinka, kad būtų renkama tikrinimui būtina informacija.
-
-
 
 
 
@@ -2182,12 +2182,23 @@ Nr. XI-2238, 2012-10-02, Žin., 2012, Nr. 122-6097 (2012-10-20), i. k. 1121010IS
 
 
 
-8. CAA nustato Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimo, CAA skrydžių saugos inspektoriaus pažymėjimo, reguliuojamo subjekto ir žinomo siuntėjo statusą patvirtinančio pažymėjimo, reguliuojamo orlaivio atsargų tiekėjo statusą patvirtinančio pažymėjimo išdavimo, galiojimo sustabdymo ir panaikinimo sąlygas ir tvarką.
+8. CAA nustato Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimo, civilinės aviacijos inspektoriaus pažymėjimo, reguliuojamo subjekto ir žinomo siuntėjo statusą patvirtinančio pažymėjimo, reguliuojamo orlaivio atsargų tiekėjo statusą patvirtinančio pažymėjimo, Europos Sąjungos aviacijos saugumo tvirtintojo pažymėjimo išdavimo, galiojimo sustabdymo ir panaikinimo tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
+ 
 
 
 
 
 9. Nacionalinę civilinės aviacijos saugumo kokybės kontrolės programą rengia ir tvirtina CAA. 
+
+
+
+
+10. CAA, oro uostas, oro eismo paslaugas teikianti įmonė, vežėjas ir subjektas, taikantis aviacijos saugumo priemones ir veikiantis oro uosto teritorijoje ar už jos ribų bei tiekiantis prekes arba teikiantis paslaugas oro uostuose ar per juos, turi teisę kreiptis į Lietuvos Respublikos ir užsienio valstybių atitinkamas institucijas, fizinius ir juridinius asmenis dėl informacijos, reikalingos asmens nepriekaištingai reputacijai nustatyti, pateikimo ir pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingus nepriekaištingai reputacijai įvertinti. 
+Papildyta straipsnio dalimi:
+Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
+ 
 
 
 Straipsnio pakeitimai:
@@ -2656,9 +2667,11 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
 
 
 
-18. 2010 m. kovo 4 d. Komisijos reglamentas (ES) Nr. 185/2010, kuriuo nustatomos išsamios priemonės bendriesiems pagrindiniams aviacijos saugumo standartams įgyvendinti (OL 2010 L 55, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. birželio 30 d. Komisijos reglamentu (ES) Nr. 573/2010 (OL 2010 L 166, p. 1). 
+18. 2010 m. kovo 4 d. Komisijos reglamentas (ES) Nr. 185/2010, kuriuo nustatomos išsamios priemonės bendriesiems pagrindiniams aviacijos saugumo standartams įgyvendinti (OL 2010 L 55, p. 1), su paskutiniais pakeitimais, padarytais 2012 m. lapkričio 9 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1082/2012 (OL 2012 L 324, p. 25). 
 Papildyta punktu:
 Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010ISTA0XI-1215
+Punkto pakeitimai:
+Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
  
 
 
@@ -2746,3 +2759,8 @@ Lietuvos Respublikos aviacijos įstatymo 66 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
 Lietuvos Respublikos aviacijos įstatymo 14, 42 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010ISTA0XII-556
+Lietuvos Respublikos aviacijos įstatymo 66 straipsnio ir priedo pakeitimo ir papildymo įstatymas
