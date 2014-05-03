@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-05-02
+Suvestinė redakcija nuo 2014-05-03 iki 2014-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -83,7 +83,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), kituose mokesčių įstatymuose, Lietuvos Respublikos žemės įstatyme ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys, būdai ir pobūdžiai atitinka registruojamus Nekilnojamojo turto registre.
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), kituose mokesčių įstatymuose, Lietuvos Respublikos žemės įstatyme ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys ir būdai atitinka registruojamus Nekilnojamojo turto registre.
+Straipsnio dalies pakeitimai:
+Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
  
 
 
@@ -150,7 +152,10 @@ Mokesčio bazė yra žemės mokestinė vertė.
 
 
 
-2) žemės sklypo naudojimo būdą ir pobūdį;
+2) žemės sklypo naudojimo būdą;
+Straipsnio punkto pakeitimai:
+Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
+ 
 
 
 
@@ -315,7 +320,10 @@ II SKYRIUS
 
 
 
-2) turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės ir individualiu žemės vertinimu nustatytos žemės vertės skirtumas susidarė ne dėl žemės naudojimo ne pagal numatytą paskirtį, būdą, pobūdį, disponavimo ja suvaržymų dėl hipotekos ar kitų savininko prievolių, ir
+2) turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės ir individualiu žemės vertinimu nustatytos žemės vertės skirtumas susidarė ne dėl žemės naudojimo ne pagal numatytą paskirtį, būdą, disponavimo ja suvaržymų dėl hipotekos ar kitų savininko prievolių, ir
+Straipsnio punkto pakeitimai:
+Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
+ 
 
 
 
@@ -538,3 +546,8 @@ Lietuvos Respublikos žemės mokesčio įstatymo 6 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1829, 2011-12-21, Žin., 2011, Nr. 163-7743 (2011-12-31), i. k. 1111010ISTA0XI-1829
 Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2, 6 ir 9 straipsnių pakeitimo įstatymas
