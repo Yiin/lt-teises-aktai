@@ -264,6 +264,9 @@ Nr. X-1612,
 Nr.
 XI-2106,
 2012-06-21, Žin., 2012, Nr. 78-4028 (2012-07-04)
+Nr.
+XII-848,
+2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04864
  
 6 straipsnis. Važiavimo
 išlaidų kompensavimas mokiniams ir vaikų globos įstaigų gyventojams bei kitais
@@ -283,14 +286,14 @@ ne darbo dienomis; priešmokyklinio ugdymo ir 1–8 klasių mokinių pavėžėji
 kompensuojamas iki artimiausios atitinkamą bendrojo ugdymo programą vykdančios
 mokyklos;
 2) vaikų globos įstaigose, vaikų
-socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo įstaigų
-bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio pažymėjime
-nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
-tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
-reguliaraus susisiekimo laivais ir keltais;
+socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
+įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
+pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
+autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
+traukiniais, reguliaraus susisiekimo laivais ir keltais;
 3) vaikų globos namuose gyvenantiems
-mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio
-(miesto) reguliaraus susisiekimo autobusais ir troleibusais.
+mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio (miesto)
+reguliaraus susisiekimo autobusais ir troleibusais.
 2. Savivaldybių
 tarybos savo nustatyta tvarka gali kompensuoti važiavimo išlaidas ir kitais
 atvejais.
@@ -298,10 +301,10 @@ Straipsnio pakeitimai:
 Nr.
 IX-2581,
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-Nr. X-1312, 2007-11-06,
-Žin., 2007, Nr. 120-4879 (2007-11-22)
-Nr. X-1612,
-2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+Nr. X-1312,
+2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
+Nr. X-1612, 2008-06-17,
+Žin., 2008, Nr. 74-2862 (2008-06-30)
 Nr.
 XI-241,
 2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
@@ -384,6 +387,12 @@ keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų m
 Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus – savivaldybė,
 teritorijas, – iš miesto ir apie jį esančios savivaldybės biudžetų solidariai
 pagal tarpusavio susitarimą.
+Redakcija nuo 2014-07-01:
+5) dėl važiavimo
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais
+keleivius per gretimų savivaldybių (įskaitant miestų
+savivaldybių) teritorijas, – iš šių savivaldybių biudžetų solidariai
+pagal tarpusavio susitarimą.
 Straipsnio pakeitimai:
 Nr. IX-1192,
 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
@@ -438,8 +447,8 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-791, 2002-03-19,
-Žin., 2002, Nr. 37-1343 (2002-04-09)
+Nr. IX-791,
+2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -556,11 +565,22 @@ Nr. XII-512,
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-848,
+2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04864
+LIETUVOS
+RESPUBLIKOS TRANSPORTO LENGVATŲ ĮSTATYMO NR. VIII-1605 8 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m. liepos
+1 d. 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-07-15)
+Aušrinė Trapinskienė (2014-05-06)
                  
 ausrine.trapinskiene@lrs.lt
