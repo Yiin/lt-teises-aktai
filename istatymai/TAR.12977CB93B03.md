@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2011-06-28 iki 2014-05-02
+Suvestinė redakcija nuo 2014-05-03 iki 2014-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -80,7 +80,15 @@ Vilnius
 
 
 
-4) asmeniui, kuriam vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas. 
+4) asmeniui, kuriam vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas; 
+
+
+
+
+5) Lietuvos Respublikoje gyvenančiam užsieniečiui, kuriam išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kuris dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir nustatyta tvarka yra įsiregistravęs teritorinėje darbo biržoje kaip bedarbis. 
+Papildyta straipsnio punktu:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+ 
 
 
 
@@ -196,6 +204,14 @@ priedas
 1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
 
 
+
+
+2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+Papildyta punktu:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+ 
+
+
 Papildyta priedu:
 Nr. XI-1435, 2011-06-09, Žin., 2011, Nr. 77-3722 (2011-06-28), i. k. 1111010ISTA0XI-1435
  
@@ -232,3 +248,8 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1435, 2011-06-09, Žin., 2011, Nr. 77-3722 (2011-06-28), i. k. 1111010ISTA0XI-1435
 Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 3, 5, 6 straipsnių ir priedo pakeitimo įstatymas
