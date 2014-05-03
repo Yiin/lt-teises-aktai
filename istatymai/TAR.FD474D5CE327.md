@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2012-07-13 iki 2014-05-02
+Suvestinė redakcija nuo 2014-05-03 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
- 
-TAR pastaba. Įsigaliojus (2012-07-13)  įstatymui Nr. XI-2182, kituose įstatymuose ir teisės aktuose vartojamos sąvokos „mėgėjiška sodininkystė“, „mėgėjiško sodo sklypas“, „mėgėjiško sodo teritorija“ ir šio įstatymo sąvokos „mėgėjų sodininkystė“, „mėgėjų sodo sklypas“, „mėgėjų sodo teritorija“ yra tapačios.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
-Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 15, 16, 21, 22, 25, 28 straipsnių, antrojo ir trečiojo skirsnių pavadinimų pakeitimo ir 9, 10, 32 straipsnių pripažinimo netekusiais galios įstatymas
  
  
 LIETUVOS RESPUBLIKOS
@@ -62,17 +57,19 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 
 
 
-2. Mėgėjų sodo sklypas (toliau – sodo sklypas) – mėgėjų sodo teritorijoje pagal žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą suformuotas ir pažymėtas riboženkliais žemės sklypas. 
+2. Mėgėjų sodo sklypas (toliau – sodo sklypas) – mėgėjų sodo teritorijoje pagal žemės valdos projektą ar teritorijų planavimo dokumentą suformuotas ir riboženkliais pažymėtas žemės sklypas. 
 Straipsnio dalies pakeitimai:
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
  
 
 
 
 
-3. Mėgėjų sodo teritorija – savivaldybės teritorijos ar jos dalies bendrojo plano sprendiniuose pažymėta, išskyrus atvejus, kol savivaldybės teritorijos ar jos dalies bendrasis planas nėra parengtas, teisės aktu mėgėjų sodininkystei skirta, pagal žemėtvarkos projektą arba kitą teritorijų planavimo dokumentą suformuota teritorija, suskirstyta į sodininkų ir kitų asmenų nuosavybės ar kitomis teisėmis valdomus sodo sklypus ir bendrojo naudojimo žemę (rekreacijai ir kitoms reikmėms). 
+3. Mėgėjų sodo teritorija – savivaldybės ar jos dalies bendrojo plano sprendiniuose pažymėta, išskyrus atvejus, kol savivaldybės ar jos dalies bendrasis planas nėra parengtas, teisės aktu mėgėjų sodininkystei skirta teritorija, suformuota pagal žemės valdos projektą ar teritorijų planavimo dokumentą ir suskirstyta į sodininkų ir kitų asmenų nuosavybės ar kitomis teisėmis valdomus sodo sklypus ir bendrojo naudojimo žemę (rekreacijai ir kitoms reikmėms). 
 Straipsnio dalies pakeitimai:
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
  
 
 
@@ -201,12 +198,12 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 6 straipsnis. Mėgėjiško sodo teritorija ir jos tvarkymo bendrieji reikalavimai
 
 
-1. Mėgėjų sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjų sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjų sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą bendrijos teritorijos žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą. Mėgėjų sodo teritorijoje esanti bendrojo naudojimo žemė žemės nuomos mokesčiu neapmokestinama. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės. Bendrijos prašymu bendrojo naudojimo žemėje esančius vidaus kelius, atlikus jų kadastrinius matavimus ir nerengiant naujo teritorijų planavimo dokumento, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perima, nuosavybės ar patikėjimo teise valdo ir tvarko savivaldybė, išskyrus atvejus, kai sodininkų bendrija šią bendrojo naudojimo teritorijos dalį išsiperka. Kai bendrijos bendrojo naudojimo žemėje esantys vidaus keliai perduodami savivaldybei, už kadastrinių matavimų atlikimą ir jų duomenų įregistravimą Nekilnojamojo turto registre sumoka arba kompensuoja savivaldybė. Už atliktus darbus savivaldybei kompensuojama valstybės biudžeto lėšomis. Bendrijos bendrojo naudojimo žemėje esančių vidaus kelių perdavimo savivaldybėms tvarką nustato Vyriausybė ar jos įgaliota institucija. Bendrijos bendrojo naudojimo žemėje esanti vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra ir valymo sistemos bendrijų iniciatyva įstatymų ir kitų teisės aktų nustatyta tvarka iš bendrijų išperkamos arba perduodamos pagal esamą jų būklę savivaldybių kontroliuojamiems vandens tiekėjams. Bendrojo naudojimo žemėje esantys vidaus keliai ir gatvės nuomos mokesčiu neapmokestinami. 
-TAR pastaba. 1 dalies nuostatos dėl bendrijos bendrojo naudojimo žemėje esančių vidaus kelių perdavimo ir bendrijos bendrojo naudojimo žemėje esančios vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros ir valymo sistemų išpirkimo įsigalioja 2013 m. sausio 1 d.
+1. Mėgėjų sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjų sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjų sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą žemės valdos projektą ar teritorijų planavimo dokumentą. Mėgėjų sodo teritorijoje esanti bendrojo naudojimo žemė žemės nuomos mokesčiu neapmokestinama. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės. Bendrijos prašymu bendrojo naudojimo žemėje esančius vidaus kelius, atlikus jų kadastrinius matavimus ir nerengiant naujo teritorijų planavimo dokumento ar žemės valdos projekto, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perima, nuosavybės ar patikėjimo teise valdo ir tvarko savivaldybė, išskyrus atvejus, kai bendrija šią bendrojo naudojimo teritorijos dalį išsiperka. Kai bendrijos bendrojo naudojimo žemėje esantys vidaus keliai perduodami savivaldybei, už kadastrinių matavimų atlikimą ir jų duomenų įregistravimą Nekilnojamojo turto registre sumoka arba kompensuoja savivaldybė. Už atliktus darbus savivaldybei kompensuojama valstybės biudžeto lėšomis. Bendrijos bendrojo naudojimo žemėje esančių vidaus kelių perdavimo savivaldybėms tvarką nustato Vyriausybė ar jos įgaliota institucija. Bendrijos bendrojo naudojimo žemėje esanti vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra ir valymo sistemos bendrijų iniciatyva įstatymų ir kitų teisės aktų nustatyta tvarka iš bendrijų išperkamos arba perduodamos pagal esamą jų būklę savivaldybių kontroliuojamiems vandens tiekėjams. Bendrojo naudojimo žemėje esantys vidaus keliai ir gatvės nuomos mokesčiu neapmokestinami. 
 Straipsnio dalies pakeitimai:
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
  
 
 
@@ -220,9 +217,10 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 
 
 
-3. Mėgėjų sodo teritorijoje žemės sklypai formuojami ir pertvarkomi pagal žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą Teritorijų planavimo įstatymo nustatyta tvarka. 
+3. Mėgėjų sodo teritorijoje žemės sklypai formuojami ir pertvarkomi pagal žemės valdos projektą ar teritorijų planavimo dokumentą Žemės įstatymo ar Teritorijų planavimo įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
  
 
 
@@ -280,11 +278,12 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 
 
 
-6. Mėgėjų sodo sklype Statybos įstatymo nustatyta tvarka galima statyti ar rekonstruoti vieną vienbutį gyvenamąjį namą ir jo priklausinius arba vieną sodo namą ir jo priklausinius nerengiant teritorijų planavimo dokumentų, nekeičiant pagrindinės žemės naudojimo paskirties ir nepažeidžiant trečiųjų asmenų teisėtų interesų. 
+6. Sodo sklype Statybos įstatymo nustatyta tvarka galima statyti ar rekonstruoti vieną vienbutį gyvenamąjį namą ir jo priklausinius arba vieną sodo namą ir jo priklausinius nerengiant teritorijų planavimo dokumentų ar žemės valdos projektų, nekeičiant pagrindinės žemės naudojimo paskirties ir nepažeidžiant trečiųjų asmenų teisėtų interesų. 
 Straipsnio dalies pakeitimai:
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
  
 
 
@@ -308,7 +307,9 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 
 
 
-9. Šio straipsnio 7 dalyje nurodyti rodikliai gali būti viršyti tik tuo atveju, jeigu yra patvirtinti atitinkami teritorijų planavimo dokumentai. 
+9. Neteko galios nuo 2014-05-03
+Straipsnio dalies naikinimas:
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
 Papildyta straipsnio dalimi:
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
  
@@ -316,7 +317,9 @@ Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA
 
 
 
-10. Mėgėjiško sodo teritorija turi būti tvarkoma taip, kad prireikus į ją galėtų patekti atlikdami pareigas priešgaisrinės saugos, policijos, greitosios pagalbos ir kitų specialiųjų tarnybų darbuotojai.
+10. Neteko galios nuo 2014-05-03
+Straipsnio dalies naikinimas:
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
  
@@ -324,7 +327,9 @@ Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA
 
 
 
-11. Vidaus tvarką mėgėjiško sodo teritorijoje nustato bendrijos vidaus tvarkos taisyklės.
+11. Neteko galios nuo 2014-05-03
+Straipsnio dalies naikinimas:
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
  
@@ -394,7 +399,10 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 8 straipsnis. Sodo sklypo pagrindinės žemės naudojimo paskirties keitimas ir sodo sklypo perleidimo sąlygos
 
 
-1. Žemės įstatymo nustatyta tvarka žemės ūkio pagrindinė žemės naudojimo paskirtis mėgėjų sodo teritorijoje ar jo dalyse keičiama, kai planuojama ir vykdoma bendrijos veikla neatitinka mėgėjų sodininkystės tikslų ar kai sodininkų bendrija likviduojama. Žemės ūkio pagrindinės žemės naudojimo paskirties, mėgėjų sodų žemės sklypų ir bendrijų bendrojo naudojimo būdo ir pobūdžio pakeitimas į kitos paskirties pagrindinę žemės naudojimo paskirtį, žemės sklypų gyvenamųjų teritorijų naudojimo būdą ir vienbučių ir dvibučių gyvenamųjų namų statybos ar daugiabučių gyvenamųjų pastatų ir bendrabučių statybos naudojimo pobūdį numatomas savivaldybės teritorijos ar jos dalies bendrajame plane.
+1. Žemės įstatymo nustatyta tvarka pagrindinė žemės naudojimo paskirtis (žemės ūkio) mėgėjų sodo teritorijoje ar jos dalyse keičiama, kai planuojama ir vykdoma bendrijos veikla neatitinka mėgėjų sodininkystės tikslų ar kai bendrija likviduojama. Pagrindinės žemės naudojimo paskirties pakeitimas iš žemės ūkio į kitą paskirtį numatomas savivaldybės ar jos dalies bendrajame plane. 
+Straipsnio dalies pakeitimai:
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
+ 
 
 
 
@@ -1633,3 +1641,8 @@ Lietuvos Respublikos sodininkų bendrijų įstatymo 6 straipsnio pakeitimo ir pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
 Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 15, 16, 21, 22, 25, 28 straipsnių, antrojo ir trečiojo skirsnių pavadinimų pakeitimo ir 9, 10, 32 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
+Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6 ir 8 straipsnių pakeitimo įstatymas
