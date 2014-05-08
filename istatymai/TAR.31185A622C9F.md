@@ -6084,6 +6084,15 @@ reikalavimų tenkinimas
 Darbuotojui
 priklausančios darbo užmokesčio ir kitos su darbo santykiais susijusios sumos
 priteisiamos ne daugiau kaip už trejus metus.
+Pastaba. Pripažinti, kad
+Lietuvos Respublikos darbo kodekso 301 straipsnis (2012 m. birželio 26 d. redakcija; Žin., 2012, Nr. 80-4138) prieštarauja Lietuvos
+Respublikos Konstitucijos 23 straipsniui, 48 straipsnio 1 dalies nuostatai
+„Kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą
+už darbą“, 109 straipsnio 1 daliai.
+Lietuvos Respublikos Konstitucinis Teismas,
+Nutarimas
+Nr. KT17-N6/2014,
+2014-05-08, paskelbta TAR 2014-05-08, i. k. 2014-05188
  
 302 straipsnis. Skubus sprendimų
 vykdymas
@@ -6113,7 +6122,7 @@ pagal Civilinio proceso kodekso nuostatas.
  
 Lietuvos
 Respublikos 
-                                                                                    darbo
+                                                                                    darbo
 kodekso 
                                                                                                 priedas
  
@@ -6167,8 +6176,8 @@ darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
 Kodeksas
 papildytas priedu:
 Nr.
-IX-2293,
-2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
+IX-2293, 2004-06-22,
+Žin., 2004, Nr. 103-3756 (2004-07-01)
 Priedo
 pakeitimai:
 Nr. X-1534,
@@ -6192,8 +6201,8 @@ KODEKSO 162 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-2293, 2004-06-22,
-Žin., 2004, Nr. 103-3756 (2004-07-01)
+Nr. IX-2293,
+2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
 DARBO
 KODEKSO 5, 109, 146, 180, 220 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -6391,8 +6400,8 @@ IR PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus 1 ir 2
 straipsnius, ir kolektyvinių sutarčių nuostatos, sulygtos pagal šį įstatymą,
 galioja iki 2010 m. gruodžio 31 d. 
-Nuo 2011 m. sausio 1 d. galioja iki šio įstatymo įsigaliojimo buvusios
-šio įstatymo 3, 4, 5, 6, 7, 8, 9, 10 straipsniuose išdėstytų Darbo kodekso 129
+Nuo 2011 m. sausio 1 d. galioja iki šio įstatymo įsigaliojimo buvusios šio
+įstatymo 3, 4, 5, 6, 7, 8, 9, 10 straipsniuose išdėstytų Darbo kodekso 129
 straipsnio 4 ir 5 dalių, 130 straipsnio 1 ir 3 dalių, 141 straipsnio 1 dalies,
 152 straipsnio 1 dalies, 188 straipsnio 1 dalies, 203 straipsnio, 206
 straipsnio 1 dalies 1 punkto ir 256 straipsnio 1 dalies redakcijos.
@@ -6438,13 +6447,13 @@ darbo vietos, kurios po šio įstatymo įsigaliojimo steigiamos tokiam pačiam
 darbui atlikti panaikinant buvusias darbo vietas. 
 Terminuotų darbo sutarčių, sudaromų
 pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms,
-skaičius įmonėje, įstaigoje, organizacijoje negali viršyti 50 procentų visų
-įmonės, įstaigos, organizacijos darbo vietų (pareigybių) skaičiaus. 
+skaičius įmonėje, įstaigoje, organizacijoje negali viršyti 50 procentų visų įmonės,
+įstaigos, organizacijos darbo vietų (pareigybių) skaičiaus. 
 Terminuota darbo sutartis pagal Darbo
 kodekso 109 straipsnio 2 dalį naujai įsteigtai darbo vietai negali būti
-sudaryta su toje pačioje įmonėje, įstaigoje, organizacijoje dirbusiu
-darbuotoju, su kuriuo darbo sutartis buvo nutraukta pagal Darbo kodekso 125 ar
-129 straipsnį įsigaliojus šiam įstatymui.
+sudaryta su toje pačioje įmonėje, įstaigoje, organizacijoje dirbusiu darbuotoju,
+su kuriuo darbo sutartis buvo nutraukta pagal Darbo kodekso 125 ar 129
+straipsnį įsigaliojus šiam įstatymui.
 Terminuotos darbo sutartys pagal Darbo
 kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms gali būti
 sudaromos ne ilgesniam laikui kaip iki 2015 m. liepos 31 d. Darbo santykiams
@@ -6629,8 +6638,8 @@ atitinkamų darbo sutarčių (neterminuotų ar terminuotų) nuostatos.
 Darbuotojai,
 iki 2012 m. gruodžio 1 d. turintys nepanaudotų kasmetinių atostogų daugiau kaip
 už trejus darbo metus, turi teisę jas išnaudoti iki 2015 m. gruodžio 1 d.
-Nutraukiant darbo sutartį iki 2015 m. gruodžio 1 d., piniginė kompensacija išmokama
-už visas nepanaudotas kasmetines atostogas.
+Nutraukiant darbo sutartį iki 2015 m. gruodžio 1 d., piniginė kompensacija
+išmokama už visas nepanaudotas kasmetines atostogas.
  
 41.
 Lietuvos
@@ -6674,13 +6683,31 @@ teismo sprendimas įvaikinti įsiteisėja po šio įstatymo įsigaliojimo (skuba
 vykdymo atveju – kai teismo sprendimas buvo priimtas po šio įstatymo
 įsigaliojimo).
  
+***
+Pabaiga ***
+ 
+ 
+Konstitucinio
+Teismo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+Nr.
+KT17-N6/2014,
+2014-05-08, paskelbta TAR 2014-05-08, i. k. 2014-05188
+DĖL
+LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO (2008 M. LAPKRIČIO 6
+D. REDAKCIJA), LIETUVOS RESPUBLIKOS DARBO KODEKSO 298 STRAIPSNIO (2002 M.
+BIRŽELIO 4 D. REDAKCIJA), 301 STRAIPSNIO (2012 M. BIRŽELIO 26 D.
+REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-05-06)
+Aušrinė Trapinskienė (2014-05-10)
                  
 ausrine.trapinskiene@lrs.lt
 
