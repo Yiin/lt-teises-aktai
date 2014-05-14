@@ -424,8 +424,8 @@ pagal darbo sutartis radijo ir (ar) televizijos stotyse, tarp jų ir LRT.
 Pasibaigus Administracinės komisijos nario kadencijai, jis gali būti skiriamas
 pakartotinai, su sąlyga, jeigu dėl tokio paskyrimo nesusidaro daugiau kaip dvi
 kadencijos iš eilės.
-2. Administracinės komisijos nariai turi būti vadybos ir (ar)
-finansų specialistai.
+2. Administracinės komisijos nariai turi būti vadybos ir
+(ar) finansų specialistai.
 3. Jeigu dėl
 kokių nors priežasčių Administracinės komisijos narys negali atlikti savo
 pareigų arba nedalyvauja Administracinės komisijos posėdžiuose daugiau kaip 4
@@ -452,7 +452,8 @@ teikia išvadas Tarybai dėl bankų kreditų, garantijų suteikimo bei
 4) teikia išvadas Tarybai sudarant
 sutartis dėl investicijų, jei sandorio suma yra ne mažesnė kaip 100 000 litų;
 5)
-teikia išvadas dėl konkursui pateiktų LRT programų projektų finansinio pagrįstumo;
+teikia išvadas dėl konkursui pateiktų LRT programų projektų finansinio
+pagrįstumo;
 6)
 teikia išvadas generaliniam direktoriui dėl lėšų, kurios nėra numatytos
 patvirtintoje LRT sąmatoje, panaudojimo;
@@ -469,9 +470,9 @@ administracijos ir Tarybos informaciją, būtiną savo funkcijoms atlikti.
 8. Administracinė komisija yra
 finansuojama iš LRT lėšų, gaunamų iš valstybės biudžeto, Administracinės
 komisijos nuostatų nustatyta tvarka.
-9. Administracinė komisija ne rečiau
-kaip kartą per metus už savo veiklą atsiskaito Tarybai LRT įstatų nustatyta
-tvarka.
+9. Administracinė komisija ne
+rečiau kaip kartą per metus už savo veiklą atsiskaito Tarybai LRT įstatų
+nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. XI-1047,
 2010-09-30, Žin., 2010, Nr. 123-6261 (2010-10-18)
@@ -569,20 +570,23 @@ eilute. Už LRT radijo ir televizijos programų siuntimą iš valstybės biudže
 skiriamos lėšos nurodomos atskiroje programoje.
 4. LRT netaikomas bankrotas.
  
-Papildyta nuo 2015-01-01:
-5. LRT skiriamų lėšų iš valstybės biudžeto
-dydis kiekvienais metais sudaro 1,5 procento praėjusių metų faktinių
-įplaukų iš gyventojų pajamų mokesčio ir 1,3 procento praėjusių metų faktinių
-įplaukų iš akcizo pajamų. LRT skiriamų lėšų iš valstybės biudžeto dydis pirmą
-kartą skaičiuojamas pagal faktines 2012 metų valstybės biudžeto pajamas iš
-gyventojų pajamų mokesčio ir akcizo pajamų. Kiekvienus paskesnius metus LRT
-skiriamų lėšų iš valstybės biudžeto dydis neturi būti mažesnis už dydį,
-apskaičiuotą pagal faktines 2012 metų valstybės biudžeto pajamas.
+Papildoma nuo 2015-01-01:
+5. LRT
+iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro užpraeitų
+metų faktiškai gautų 1,5 procento valstybės biudžeto ir savivaldybių biudžetų
+pajamų iš gyventojų pajamų mokesčio ir 1,3 procento iš akcizo pajamų. LRT
+skiriamų lėšų dydis pirmą kartą skaičiuojamas pagal 2012 metų faktiškai gautas
+valstybės biudžeto ir savivaldybių biudžetų pajamas iš gyventojų pajamų
+mokesčio ir akcizų. Kiekvienus paskesnius metus LRT skiriamų asignavimų dydis
+neturi būti mažesnis už dydį, apskaičiuotą pagal visas faktines 2012 metų
+įplaukas iš gyventojų pajamų mokesčio ir akcizo pajamų.
 Straipsnio pakeitimai:
 Nr. XI-1047,
 2010-09-30, Žin., 2010, Nr. 123-6261 (2010-10-18)
 Nr. XII-736,
 2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00033
+Nr. XII-874,
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05355
  
 16
 straipsnis. LRT reorganizavimas ir likvidavimas
@@ -685,8 +689,8 @@ LIETUVOS NACIONALINIO
 RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
 4)
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. X-63, 2004-12-22,
 Žin., 2004, Nr. 188-6996 (2004-12-31)
 LIETUVOS
@@ -762,12 +766,6 @@ Nr. XI-1574,
 2011-06-30, Žin., 2011, Nr. 91-4336 (2011-07-19)
 LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 5 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
-LRT per 15 dienų nuo šio įstatymo įsigaliojimo turi kreiptis į Lietuvos
-Respublikos ryšių reguliavimo tarnybą su prašymu išduoti leidimą radijo
-dažniams (kanalams), sudarantiems nacionalinės aprėpties antžeminį skaitmeninės
-televizijos tinklą, kuriame LRT parengtų televizijos programų signalų perdavimo
-paslaugas teiktų LRT konkurso būdu nustatytas elektroninių ryšių paslaugų
-teikėjas.
  
 13.
 Lietuvos
@@ -778,11 +776,18 @@ LIETUVOS
 RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 6, 7, 15
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. sausio 1 d. 
+                Pakeitimas:
+13.1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-874,
+2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05355
+LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO
+IR TELEVIZIJOS ĮSTATYMO 6, 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO NR.
+XII-736 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
- 
 Redagavo Aušrinė
-Trapinskienė (2014-01-18)
+Trapinskienė (2014-05-19)
                  
 ausrine.trapinskiene@lrs.lt
