@@ -30,7 +30,6 @@ Vilnius
 
  
  
- 
 Nauja įstatymo
 redakcija nuo 2008 m. sausio 1 d.:
 Nr.
@@ -194,9 +193,9 @@ sezonas – laikotarpis, kurio pradžia ir pabaiga nustatoma savivaldybės
 vykdomosios institucijos sprendimu pagal statybos techniniais reglamentais
 apibrėžtą lauko oro temperatūrą, kuriai esant privaloma pradėti ir galima
 baigti nustatytos paskirties savivaldybių pastatų šildymą.
-28. Šilumnešis
-– specialiai paruoštas vanduo, karštas vanduo, garas, kondensatas, kitas
-skystis ar dujos, naudojami šilumai pristatyti.
+28.
+Šilumnešis – specialiai paruoštas vanduo, karštas vanduo, garas,
+kondensatas, kitas skystis ar dujos, naudojami šilumai pristatyti.
 29. Šilumos
 bazinė kaina – ilgalaikė šilumos kaina, sudaryta iš pastoviosios ir
 kintamosios šilumos bazinės kainos dedamųjų, apskaičiuotų pagal Valstybinės
@@ -247,9 +246,9 @@ draudžiama perduoti tretiesiems asmenims (kurie nėra šio namo butų ir patalp
 savininkai).
 39. Šilumos tiekėjas – asmuo, turintis šilumos tiekimo licenciją ir
 tiekiantis šilumą vartotojams pagal pirkimo–pardavimo sutartis.
-40. Šilumos
-tiekimas – centralizuotai pagamintos šilumos pristatymas ir pardavimas
-šilumos vartotojams.
+40. Šilumos tiekimas
+– centralizuotai pagamintos šilumos pristatymas ir pardavimas šilumos
+vartotojams.
 41. Šilumos
 tiekimo licencija – dokumentas, suteikiantis licencijos turėtojui teisę
 verstis šilumos tiekimu nustatytoje teritorijoje.
@@ -424,10 +423,10 @@ nustatytą terminą, – atskiru įstatymu turi būti perduotas valstybės nuosa
 siekiant užtikrinti numatytų šilumos ūkio plėtros ir modernizavimo priemonių
 bei sprendinių tinkamą įgyvendinimą;
 7) kitos
-sąlygos, būtinos nustatytų ilgalaikės ir kompleksinės šilumos gamybos, bendros
-šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo
-plėtros ir modernizavimo krypčių bei įgyvendinimo priemonių atitinkamoje
-valstybės teritorijoje užtikrinimui ir įgyvendinimui.
+sąlygos, būtinos nustatytų ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos
+ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir
+modernizavimo krypčių bei įgyvendinimo priemonių atitinkamoje valstybės
+teritorijoje užtikrinimui ir įgyvendinimui.
 2. Nacionalinė
 šilumos ūkio plėtros programa rengiama 7 metų laikotarpiui. Nacionalinė šilumos
 ūkio plėtros programa gali būti atnaujinama, atsižvelgiant į šilumos gamybos ir
@@ -534,7 +533,8 @@ Vyriausybė Energetikos ministerijos siūlymu teikia pasiūlymus savivaldybėms 
 Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių įgyvendinimo,
 įskaitant pasiūlymus dėl papildomo finansavimo užsitikrinimo būdų, arba priima
 sprendimą dėl reikiamų finansinių investicijų, jų paskirstymo tvarkos ir būdo.
-Įstatymas papildytas straipsniu:
+Įstatymas papildytas
+straipsniu:
 Nr.
 XII-492,
 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
@@ -633,13 +633,15 @@ vietoje. Jeigu nėra techninės galimybės atsiskaitomuosius apskaitos prietaisu
 savininkas. Sutartimis tiekimo–vartojimo riba gali būti nustatyta kitoje
 vietoje negu šilumos pirkimo–pardavimo vieta. Tokiu atveju vartotojo nuosavybės
 arba vartotojų bendrosios dalinės nuosavybės teise priklausančiais įrenginiais
-šilumos pristatymo iki tiekimo–vartojimo ribos papildomas sąnaudas apmoka šie vartotojai. Pirmenybė pasirinkti
-tiekimo–vartojimo ribą suteikiama buitiniam šilumos vartotojui. 
+šilumos pristatymo iki tiekimo–vartojimo ribos papildomas sąnaudas apmoka šie
+vartotojai. Pirmenybė
+pasirinkti tiekimo–vartojimo ribą suteikiama buitiniam šilumos vartotojui. 
 3. Jeigu
 į pastatą pristatomas šilumnešis patenka ir į pastato patalpose įrengtus
-šildymo, vėdinimo ir (ar) karšto vandens prietaisus, šilumos tiekėjas turi teisę,
-pateikęs raštišką prašymą patalpų savininkams, patikrinti, ar nėra šilumnešio
-nutekėjimų bet kurioje pastato šildymo ir karšto vandens sistemos vietoje. 
+šildymo, vėdinimo ir (ar) karšto vandens prietaisus, šilumos tiekėjas turi
+teisę, pateikęs raštišką prašymą patalpų savininkams, patikrinti, ar nėra
+šilumnešio nutekėjimų bet kurioje pastato šildymo ir karšto vandens sistemos
+vietoje. 
  
 12
 straipsnis. Atsiskaitymas su šilumos tiekėju 
@@ -692,9 +694,9 @@ savivaldybių institucijų sprendimais.
 2. Jeigu šilumos
 vartotojai, turintys teisę nuspręsti dėl savo pastatų šildymo pradžios ir
 pabaigos, nusprendė pradėti arba baigti savo pastatų šildymą kitu laiku, negu
-savivaldybių institucijų nustatyta šildymo sezono pradžia ar pabaiga, jie apie
-savo sprendimą energetikos ministro patvirtintose Šilumos
-tiekimo ir vartojimo taisyklėse nustatyta tvarka praneša šilumos
+savivaldybių institucijų nustatyta šildymo sezono pradžia ar pabaiga, jie apie savo
+sprendimą energetikos ministro patvirtintose Šilumos tiekimo
+ir vartojimo taisyklėse nustatyta tvarka praneša šilumos
 tiekėjui, o šis ne vėliau kaip per 2 darbo dienas sprendimą įgyvendina.
 3. Šildymo sezono laikotarpiu
 šilumnešis privalo būti tiekiamas daugiabučio namo butams ir kitoms patalpoms
@@ -743,11 +745,11 @@ prietaisų rodmenis. Karšto vandens kaina, pranešimų apie suvartotą karštą
 vandenį pateikimo ir mokesčio už karštą vandenį apmokėjimo tvarka nustatoma
 karšto vandens tiekėjo ir vartotojo sutartyje. Nustatant mokesčius už karštą
 vandenį, su nepaskirstytu karštu vandeniu suvartotas šilumos kiekis gali būti
-priskirtas ir išdalijamas apmokėti vartotojams tik tuo atveju, jeigu tiekėjai
-įvykdė visas savo prievoles sutvarkyti karšto vandens apskaitą tame name. Tuo
-atveju, kai daugiabučio namo vartotojai karšto vandens tiekėju pasirenka
-šilumos tiekėją, šilumos tiekėjas privalo su šio namo vartotojais sudaryti
-karšto vandens pirkimo–pardavimo sutartį.
+priskirtas ir išdalijamas apmokėti vartotojams tik tuo atveju, jeigu tiekėjai įvykdė
+visas savo prievoles sutvarkyti karšto vandens apskaitą tame name. Tuo atveju,
+kai daugiabučio namo vartotojai karšto vandens tiekėju pasirenka šilumos
+tiekėją, šilumos tiekėjas privalo su šio namo vartotojais sudaryti karšto
+vandens pirkimo–pardavimo sutartį.
 2. Kol
 vartotojai pasirenka karšto vandens tiekėją arba apsirūpinimo karštu vandeniu
 būdą, karšto vandens tiekėjas yra šilumos tiekėjas. Karšto vandens apskaitos
@@ -785,8 +787,8 @@ Daugiabučiuose namuose, jeigu yra techninės galimybės ir vartotojai pageidauj
 šilumos tiekėjai įrengia vartotojo bute ar kitose patalpose suvartotos šilumos
 apskaitos prietaisus tiekimo–vartojimo ribos vietoje. Šių apskaitos prietaisų
 įrengimo, priežiūros ir patikros sąnaudos įtraukiamos į šilumos pardavimo
-kainas arba nustatomas atskiras mokestis tik atitinkamos grupės vartotojams.
-Šių apskaitos prietaisų rodmenys naudojami atsiskaitomaisiais šilumos apskaitos
+kainas arba nustatomas atskiras mokestis tik atitinkamos grupės vartotojams. Šių
+apskaitos prietaisų rodmenys naudojami atsiskaitomaisiais šilumos apskaitos
 prietaisais nustatytam šilumos kiekiui paskirstyti buitiniams šilumos
 vartotojams.
 4. Karšto vandens tiekėjas arba šio
@@ -801,8 +803,8 @@ paskirstyti buitiniams šilumos vartotojams.
 5. Atsiskaitomieji šilumos ir
 karšto vandens apskaitos, taip pat pristatomo į pastato šilumos punktą
 šilumnešio parametrus registruojantys prietaisai yra valstybinės metrologinės
-matavimo priemonių kontrolės objektas. Šių prietaisų patikros terminus kontroliuoja
-Lietuvos metrologijos inspekcija.
+matavimo priemonių kontrolės objektas. Šių prietaisų patikros terminus
+kontroliuoja Lietuvos metrologijos inspekcija.
 6. Sutartyse
 nustatomos sąlygos šilumos ir (ar) karšto vandens tiekėjo arba šilumos ir
 karšto vandens sistemos prižiūrėtojo įgaliotiems asmenims įstatymų nustatyta
@@ -875,11 +877,10 @@ pateikimo, nagrinėjimo ir ginčų sprendimo tvarka;
 galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
 4. Šilumos
 pirkimo–pardavimo sutarčių standartines sąlygas tvirtina Vyriausybė arba jos
-įgaliota institucija ir paskelbia Teisės aktų registre. Šilumos
-pirkimo–pardavimo sutarčių su buitiniais šilumos vartotojais standartines
-sąlygas tvirtina Vyriausybė arba jos įgaliota institucija, suderinusi su
-Valstybine vartotojų teisių apsaugos tarnyba (toliau – Tarnyba), ir paskelbia
-Teisės aktų registre.
+įgaliota institucija ir paskelbia Teisės aktų registre. Šilumos pirkimo–pardavimo
+sutarčių su buitiniais šilumos vartotojais standartines sąlygas tvirtina
+Vyriausybė arba jos įgaliota institucija, suderinusi su Valstybine vartotojų
+teisių apsaugos tarnyba (toliau – Tarnyba), ir paskelbia Teisės aktų registre.
 5. Jeigu daugiabučio namo butų savininkai
 nenusprendžia dėl šilumos pirkimo–pardavimo sutarčių sudarymo pagal
 individualiai aptartas sąlygas, laikinai, kol bus sudarytos tokios sutartys,
@@ -925,16 +926,37 @@ atestatu reguliuojama veikla arba perduoti jiems šią teisę pagal sutartį, ar
 kitaip pavesti vykdyti šią veiklą. Kai pastato šildymo ir karšto vandens
 sistemų prižiūrėtojas (eksploatuotojas) yra bendrija, ji gali pirkti atskirus
 darbus ar paslaugas iš subjektų, turinčių atitinkamą kompetenciją, technines
-priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo
-naudojimo objektų administratorius gali būti pastato šildymo ir karšto vandens
-sistemos prižiūrėtojas (eksploatuotojas).
+priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo naudojimo
+objektų administratorius gali būti pastato šildymo ir karšto vandens sistemos
+prižiūrėtojas (eksploatuotojas).
 2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju
-(eksploatuotoju) negali būti šilumos tiekėjas ar asmenys, susiję su šilumos
-tiekėju darbo santykiais, ar šilumai gaminti naudojamo kuro, šilumos tiekimo
-veiklai naudojamų apskaitos prietaisų gamintojai, taip pat asmenys, kurie
-verčiasi šilumai gaminti naudojamo kuro didmenine ar mažmenine prekyba, ar
-asmenys, kartu su išvardytais asmenimis priklausantys susijusių ūkio subjektų
-grupei pagal Konkurencijos įstatymą.
+(eksploatuotoju) negali būti šilumos tiekėjas ar asmenys, susiję su šilumos tiekėju
+darbo santykiais, ar šilumai gaminti naudojamo kuro, šilumos tiekimo veiklai
+naudojamų apskaitos prietaisų gamintojai, taip pat asmenys, kurie verčiasi
+šilumai gaminti naudojamo kuro didmenine ar mažmenine prekyba, ar asmenys,
+kartu su išvardytais asmenimis priklausantys susijusių ūkio subjektų grupei
+pagal Konkurencijos įstatymą.
+Redakcija nuo 2014-06-01:
+2. Pastato
+šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti
+šilumos tiekėjas, tiekiantis šilumą tam namui, ar fiziniai asmenys, susiję su
+šilumos tiekėju darbo santykiais, išskyrus, kai su darbo santykiais susiję
+fiziniai asmenys gyvena tame name ir patys prižiūri savo ar gyvenamo namo
+bendrijai priklausančius kitus namus, taip pat asmenys, kurių ūkinė veikla
+apima kuro ruošą ir (ar) tiekimą, ar asmenys, kartu su šioje dalyje nurodytais
+asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos
+įstatymą. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas
+(eksploatuotojas) pagal faktinį šilumos energijos suvartojimą pastate
+skaičiuoja santykinius šilumos šildymui, cirkuliacijai ir karštam vandeniui
+ruošti sunaudojimo rodiklius, vadovaudamasis Valstybinės kainų ir energetikos
+kontrolės komisijos patvirtinta skaičiavimo metodika, analizuoja gautus
+duomenis, teikia juos pastato savininkui arba daugiabučio namo bendrojo
+naudojimo objektų valdytojui, daugiabučio namo butų ir kitų patalpų savininkų
+bendrijai, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių
+įgaliotam asmeniui arba bendrojo naudojimo objektų administratoriui, pagal
+kompetenciją rengia pasiūlymus dėl šilumos energijos taupymo priemonių
+įgyvendinimo.
+ 
 3. Daugiabučių
 gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija arba pastato
 bendrojo naudojimo objektų administratorius kontroliuoja pastato šildymo ir
@@ -983,6 +1005,8 @@ XI-2143,
 Nr.
 XI-2146,
 2012-06-28, Žin., 2012, Nr. 79-4089 (2012-07-05)
+Nr. XII-880,
+2014-05-13, paskelbta TAR 2014-05-16, i. k. 2014-05481
  
 ŠEŠTASIS SKIRSNIS
 VARTOTOJŲ
@@ -997,9 +1021,9 @@ nagrinėja šios valstybės ir savivaldybės institucijos:
 1) Valstybinė energetikos
 inspekcija prie Energetikos ministerijos – dėl energetikos objektų, įrenginių
 ir apskaitos priemonių gedimų, eksploatavimo, energijos kokybės reikalavimų,
-energijos apskaitos ir apmokėjimo už suvartotą energiją pažeidimų, avarijų,
-energijos tiekimo nutraukimo, sustabdymo ar ribojimo, dėl šilumos
-ir karšto vandens sistemų prižiūrėtojo veiklos ar neveikimo;
+energijos apskaitos ir apmokėjimo už suvartotą energiją pažeidimų, avarijų, energijos
+tiekimo nutraukimo, sustabdymo ar ribojimo, dėl šilumos ir
+karšto vandens sistemų prižiūrėtojo veiklos ar neveikimo;
 2) Valstybinė kainų ir
 energetikos kontrolės komisija – dėl energetikos įmonių veiklos ar neveikimo
 tiekiant, skirstant, perduodant, laikant energiją, dėl teisės joms pasinaudoti
@@ -1032,8 +1056,8 @@ numatomus sutarčių sąlygų pakeitimus.
 2. Šilumos ir (ar) karšto
 vandens tiekėjai bei šio įstatymo 10 straipsnio 3 dalyje numatyti nepriklausomi
 šilumos gamintojai kasmet viešai informuoja vartotojus apie nustatytas šilumos
-bei karšto vandens kainų dedamąsias. Kainų dedamosios įsigalioja nuo kito
-mėnesio pirmos dienos.
+bei karšto vandens kainų dedamąsias. Kainų dedamosios įsigalioja nuo kito mėnesio
+pirmos dienos.
 3. Keičiantis šilumos ir
 (ar) karšto vandens kainoms, šilumos ir (ar) karšto vandens tiekėjai bei šio
 įstatymo 10 straipsnio 3 dalyje numatyti nepriklausomi šilumos gamintojai iki
@@ -1057,6 +1081,15 @@ narių, vadovų, jų pavaduotojų, padalinių vadovų, vyriausiųjų finansinink
 (buhalterių) ir jų pavaduotojų) darbo užmokesčio dydį bei jiems kitais
 pagrindais išmokėtas lėšas yra vieši ir turi būti skelbiami energetikos
 ministro nustatyta tvarka.
+Redakcija nuo 2014-06-01:
+5. Pastato
+šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) informacija
+apie jo veiklos pajamas, sąnaudas, sistemų eksploatavimą, kainas ir tarifus, jų
+struktūrą, paslaugų teikimo sąlygas, taip pat pastato šildymo ir karšto vandens
+sistemų prižiūrėtojo (eksploatuotojo) ketvirtiniai ir metiniai
+finansiniai-balansiniai rodikliai, investicijų dydžiai, duomenys apie
+investuotojus, darbuotojų skaičių yra vieši ir turi būti skelbiami energetikos
+ministro nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. XI-250,
 2009-05-12, Žin., 2009, Nr. 61-2402 (2009-05-26)
@@ -1064,14 +1097,15 @@ Nr. XI-592,
 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
 Nr. XI-1608,
 2011-09-29, Žin., 2011, Nr. 123-5816 (2011-10-13)
+Nr. XII-880,
+2014-05-13, paskelbta TAR 2014-05-16, i. k. 2014-05481
  
 SEPTINTASIS SKIRSNIS
 DAUGIABUČIŲ
 NAMŲ ŠILDYMAS
  
-23
-straipsnis. Daugiabučio namo šildymo ir karšto vandens sistemos privalomieji
-reikalavimai
+23 straipsnis.
+Daugiabučio namo šildymo ir karšto vandens sistemos privalomieji reikalavimai
 1. Vyriausybė arba jos
 įgaliota institucija nustato daugiabučio namo šildymo ir karšto vandens
 sistemos privalomuosius reikalavimus.
@@ -1118,14 +1152,13 @@ vandens tiekimą įsiskolinusiam savininkui.
 2. Jeigu butų ir
 (ar) kitų patalpų savininkai atsisako įleisti šilumos tiekėjo,
 namo šildymo ir karšto vandens sistemos prižiūrėtojo arba karšto vandens
-tiekėjo įgaliotus atstovus pagal jų pateiktą raštišką prašymą į savininkams
-priklausančias patalpas, šilumos tiekėjas, namo šildymo ir
-karšto vandens sistemos prižiūrėtojas arba karšto vandens tiekėjas, pagal
-energetikos ministro patvirtintas Šilumos tiekimo ir vartojimo
-taisykles įforminę savininkų atsisakymą, turi teisę šių patalpų savininkų
-suvartotą šilumos ir karšto vandens kiekį nustatyti pagal
-tokiems atvejams Valstybinės kainų ir energetikos kontrolės komisijos nustatytą
-metodiką.
+tiekėjo įgaliotus atstovus pagal jų pateiktą raštišką prašymą į savininkams priklausančias
+patalpas, šilumos tiekėjas, namo šildymo ir karšto vandens
+sistemos prižiūrėtojas arba karšto vandens tiekėjas, pagal energetikos ministro
+patvirtintas Šilumos tiekimo ir vartojimo taisykles įforminę
+savininkų atsisakymą, turi teisę šių patalpų savininkų suvartotą šilumos
+ir karšto vandens kiekį nustatyti pagal tokiems atvejams Valstybinės kainų ir
+energetikos kontrolės komisijos nustatytą metodiką.
 Straipsnio pakeitimai:
 Nr.
 XI-133,
@@ -1184,14 +1217,13 @@ arba kitu sutartyje nurodytu būdu.
 2. Šilumos ir (ar)
 karšto vandens tiekėjas privalo užtikrinti:
 1) šilumos ir (ar)
-karšto vandens perdavimo tinklų techninę būklę, atitinkančią teisės aktų
-reikalavimus;
+karšto vandens perdavimo tinklų techninę būklę, atitinkančią teisės aktų reikalavimus;
 2) atsiskaitomųjų
 šilumos ir (ar) karšto vandens apskaitos prietaisų techninę būklę, atitinkančią
 teisės aktų reikalavimus;
 3) šilumos ir (ar)
-karšto vandens kokybę, nustatytą sutartimis ir atitinkančią teisės aktų reikalavimus,
-iki tiekimo–vartojimo ribos.
+karšto vandens kokybę, nustatytą sutartimis ir atitinkančią teisės aktų
+reikalavimus, iki tiekimo–vartojimo ribos.
 3. Šilumos ir (ar)
 karšto vandens tiekėjas statinio
 projekte (ar jo dalyje) nurodytoje vietoje įrengia
@@ -1216,9 +1248,9 @@ NUO ŠILUMOS TIEKIMO SISTEMOS
 pirkimo–pardavimo sutarčių nutraukimas vartotojo iniciatyva 
 1. Šilumos
 vartotojas, pakeitęs buto (butų), kitų patalpų šildymo ir apsirūpinimo karštu
-vandeniu būdą, turi teisę nutraukti šilumos ir (ar) karšto vandens
-pirkimo–pardavimo sutartį. Buto (butų) ir kitų patalpų šildymo būdas keičiamas
-Lietuvos Respublikos statybos įstatymo nustatyta tvarka rekonstruojant pastatą
+vandeniu būdą, turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo
+sutartį. Buto (butų) ir kitų patalpų šildymo būdas keičiamas Lietuvos
+Respublikos statybos įstatymo nustatyta tvarka rekonstruojant pastatą
 (inžinerines sistemas). 
 2. Kai
 rekonstravus pastatą (inžinerines sistemas) pakeičiamas viso pastato šildymo ar
@@ -1229,8 +1261,8 @@ statinio pripažinimo tinkamu naudoti momento.
 rekonstravus pastatą (inžinerines sistemas) pakeičiamas ne viso pastato šildymo
 ar apsirūpinimo karštu vandeniu būdas, nuo statinio pripažinimo tinkamu naudoti
 momento laikomos nutrauktomis to pastato butų ir kitų patalpų, kurių šildymo
-būdas pakeistas, savininkų ir šilumos ir (ar) karšto vandens
-tiekėjo sutartys. Šių butų ir kitų patalpų savininkai energetikos ministro
+būdas pakeistas, savininkų ir šilumos ir (ar) karšto vandens tiekėjo
+sutartys. Šių butų ir kitų patalpų savininkai energetikos ministro
 patvirtintose Šilumos tiekimo ir vartojimo taisyklėse
 nustatyta tvarka šilumos ir (ar) karšto vandens tiekėjams
 kiekvieną mėnesį apmoka už jiems tenkančią pastato bendrosioms reikmėms
@@ -1268,16 +1300,16 @@ tikroje nustatytoje teritorijoje.
 5. Licencijos
 šilumos tiekimo veiklai išduodamos asmenims, jeigu jie atitinka šiuos
 reikalavimus:
-1) turi nuosavybės
-teise ar teisėtai valdo šilumos gamybos įrenginius ir (ar) šilumos perdavimo
-tinklus;
+1) turi
+nuosavybės teise ar teisėtai valdo šilumos gamybos įrenginius ir (ar) šilumos
+perdavimo tinklus;
 2) neturi
 mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybės
-biudžetui ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių
-inspekcija (išskyrus atvejus, kai įmonei mokesčių, delspinigių, baudų mokėjimas
-atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių
-mokesčių, delspinigių, baudų vyksta mokestiniai ginčai), ir įmonė nėra skolinga
-Valstybinio socialinio draudimo fondo biudžetui;
+biudžetui ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė
+mokesčių inspekcija (išskyrus atvejus, kai įmonei mokesčių, delspinigių, baudų
+mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl
+šių mokesčių, delspinigių, baudų vyksta mokestiniai ginčai), ir įmonė nėra
+skolinga Valstybinio socialinio draudimo fondo biudžetui;
 3) turi
 pakankamus technologinius, vadybinius ir finansinius pajėgumus, leidžiančius
 vykdyti licencijuojamos veiklos sąlygas.
@@ -1287,28 +1319,28 @@ dienos privalo išduoti ar pakeisti licenciją arba pateikti asmeniui,
 pateikusiam prašymą, motyvuotą rašytinį atsisakymą tai daryti. Jeigu pateikti
 ne visi duomenys ar dokumentai, terminas skaičiuojamas nuo visų duomenų ar
 dokumentų pateikimo dienos.
-7. Licenciją išduodanti
-institucija, nustačiusi licencijuojamos veiklos sąlygų laikymosi pažeidimą arba
-paaiškėjus, kad prašyme išduoti licenciją pateikti klaidingi duomenys, raštu
-per 5 darbo dienas įspėja apie tai licenciją turintį asmenį ir nurodo laiką,
-per kurį jis turi pašalinti nustatytus pažeidimus.
+7. Licenciją
+išduodanti institucija, nustačiusi licencijuojamos veiklos sąlygų laikymosi
+pažeidimą arba paaiškėjus, kad prašyme išduoti licenciją pateikti klaidingi
+duomenys, raštu per 5 darbo dienas įspėja apie tai licenciją turintį asmenį ir
+nurodo laiką, per kurį jis turi pašalinti nustatytus pažeidimus.
 8. Licencijos
 galiojimas Vyriausybės nustatyta tvarka sustabdomas, jeigu per
 licenciją išduodančios institucijos nustatytą terminą licencijos turėtojas
 nepašalina įspėjimo pranešime nurodytų pažeidimų.
-9. Jei asmuo pateikia
-dokumentus, įrodančius, kad trūkumai (pažeidimai), nurodyti šio straipsnio 7
-dalyje, pašalinti, ne vėliau kaip per 30 kalendorinių dienų nuo dokumentų
-pateikimo dienos, licenciją išduodančios institucijos sprendimu licencijos
-galiojimo sustabdymas panaikinamas.
+9. Jei asmuo
+pateikia dokumentus, įrodančius, kad trūkumai (pažeidimai), nurodyti šio
+straipsnio 7 dalyje, pašalinti, ne vėliau kaip per 30 kalendorinių dienų nuo
+dokumentų pateikimo dienos, licenciją išduodančios institucijos sprendimu
+licencijos galiojimo sustabdymas panaikinamas.
 10. Jeigu į
 tinkamai pateiktą prašymą išduoti licenciją ar panaikinti licencijos galiojimo
 sustabdymą neatsakoma per šiame įstatyme nustatytus terminus, laikoma, kad
-sprendimas dėl licencijos išdavimo ar licencijos galiojimo sustabdymo panaikinimo
-priimtas, išskyrus atvejus, kai vyksta teisminiai ginčai su trečiaisiais
-asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) ar kitų priežasčių,
-pateisinamų svarbiais visuomenės interesais, ir pareiškėjas apie tai yra
-informuotas licencijų išdavimo taisyklėse nustatyta tvarka.
+sprendimas dėl licencijos išdavimo ar licencijos galiojimo sustabdymo
+panaikinimo priimtas, išskyrus atvejus, kai vyksta teisminiai ginčai su
+trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) ar kitų
+priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjas apie
+tai yra informuotas licencijų išdavimo taisyklėse nustatyta tvarka.
 11. Licencijos
 galiojimas Vyriausybės nustatyta tvarka panaikinamas licenciją
 išduodančios institucijos sprendimu, jeigu: 
@@ -1369,8 +1401,8 @@ Nr. XI-592,
 31 straipsnis. Pastato šildymo ir karšto vandens sistemų prižiūrėtojų
 (eksploatuotojų) atestavimas
 1. Pastato
-šildymo ir karšto vandens sistemų prižiūrėtojus (eksploatuotojus) energetikos
-ministro nustatyta tvarka atestuoja ir atitinkantiems šio įstatymo reikalavimus
+šildymo ir karšto vandens sistemų prižiūrėtojus (eksploatuotojus) energetikos ministro
+nustatyta tvarka atestuoja ir atitinkantiems šio įstatymo reikalavimus
 atestatus išduoda Valstybinė energetikos inspekcija prie Energetikos
 ministerijos.
 2. Valstybinė
@@ -1414,53 +1446,55 @@ pajamos ar sąnaudos įvertinamos skaičiuojant šilumos kainas Šilumos kainų
 nustatymo metodikoje nustatyta tvarka.
 3. Į šilumos ir (ar) karšto
 vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama,
-ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų.
-Kai kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, įsigijimas buvo
-vykdomas ne per energijos išteklių biržą, pagrįstomis sąnaudomis pripažįstama
-ir į šilumos ir (ar) karšto vandens kainos kintamąją dedamąją gali būti
-įtraukiamos įmonės biokuro įsigijimo sąnaudos, neviršijančios vidutinės biokuro
-kainos arba vidutinės biokuro biržos kainos. Vidutinę biokuro kainą ir
-vidutinę biokuro biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato
-Valstybinė kainų ir energetikos kontrolės komisija.
+ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų
+įpareigojimų. Kai kuro, naudojamo šilumos ir (ar) karšto vandens gamybai,
+įsigijimas buvo vykdomas ne per energijos išteklių biržą, pagrįstomis
+sąnaudomis pripažįstama ir į šilumos ir (ar) karšto vandens kainos kintamąją
+dedamąją gali būti įtraukiamos įmonės biokuro įsigijimo sąnaudos,
+neviršijančios vidutinės biokuro kainos arba vidutinės biokuro biržos
+kainos. Vidutinę biokuro kainą ir vidutinę biokuro biržos kainą, vadovaudamasi
+savo nustatyta tvarka, nustato Valstybinė kainų ir energetikos kontrolės
+komisija.
 4. Šio straipsnio 3 dalyje
 nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų
 įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę
-biokuro biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje
-dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro
-rūšies kiekio ar jo dalies.
+biokuro biržos kainą nėra taikomas tais atvejais, kai energijos išteklių
+biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos
+biokuro rūšies kiekio ar jo dalies.
 Pastaba. 3 ir 4 dalių nuostatos,
 susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d.
 iki 2016 m. sausio 1 d. Nuo 2016 m. sausio 1 d. galioja 3 ir 4
 dalių nuostatos, susijusios su vidutinės biokuro biržos kainos taikymu
-(Įstatymas Nr. XII-492)
+(Įstatymas Nr. XII-492).
  
 5. Šilumos kainos, atsižvelgiant
 į patiriamas sąnaudas, gali būti diferencijuojamos pagal šilumos tiekimo
 sistemas, vartotojų grupes, šilumos pirkimo–pardavimo vietą, tiekimo–vartojimo
 ribą, šilumos vartojimo mastą, šilumnešius ir jų kokybę, tiekimo patikimumą,
-vartojimo sezoniškumą, periodiškumą ir apskaitos būdus. Diferencijuojant
-kainas, kryžminis subsidijavimas tarp vartotojų grupių yra draudžiamas.
+vartojimo sezoniškumą, periodiškumą ir apskaitos būdus. Diferencijuojant kainas,
+kryžminis subsidijavimas tarp vartotojų grupių yra draudžiamas.
 6. Šilumos tiekėjas,
 kuris realizuoja ne mažiau kaip 10 GWh šilumos per metus, vadovaudamasis
-šilumos kainų nustatymo metodikomis ir atsižvelgdamas į savivaldybės institucijos
-ir Valstybinės kainų ir energetikos kontrolės komisijos pastabas, parengia ir
-teikia Valstybinei kainų ir energetikos kontrolės komisijai bei savivaldybės
-institucijai šilumos bazinės kainos projektą. Savivaldybės institucija ne
-vėliau kaip per 30 dienų teikia Komisijai bazinės kainos suderinimo dokumentus
-ir (ar) pagrįstas pastabas. Komisija, išnagrinėjusi savivaldybės institucijos
-pastabas arba per 30 dienų jų negavusi, ne vėliau kaip per 15 dienų nustato
-šilumos bazinę kainą. Dalyvauti nustatant šilumos bazines kainas kviečiamos
-šilumos vartotojų teises ginančios organizacijos. Kartu nustatomi tiekimo
-efektyvumo rodikliai. Valstybinė kainų ir energetikos kontrolės komisija
-nustatytas šilumos bazines kainas skelbia savo interneto svetainėje. Šilumos
-tiekėjas, valdantis skirtingose savivaldybėse esančias šilumos tiekimo
-sistemas, gali teikti Valstybinei kainų ir energetikos kontrolės komisijai
-nustatyti skirtingas šilumos bazines kainas šioms sistemoms. Šilumos tiekėjas,
-teikdamas pasiūlymą dėl skirtingų šilumos bazinių kainų šilumos tiekimo
-sistemoms, esančioms skirtingose savivaldybėse, nustatymo, privalo jį teikti
-dėl visų skirtingose savivaldybėse esančių šilumos tiekimo sistemų. Šilumos
-tiekėjas arba savivaldybė turi teisę teisme apskųsti Valstybinę kainų ir
-energetikos kontrolės komisiją dėl nustatytų šilumos bazinių kainų.
+šilumos kainų nustatymo metodikomis ir atsižvelgdamas į savivaldybės
+institucijos ir Valstybinės kainų ir energetikos kontrolės komisijos pastabas,
+parengia ir teikia Valstybinei kainų ir energetikos kontrolės komisijai bei
+savivaldybės institucijai šilumos bazinės kainos projektą. Savivaldybės
+institucija ne vėliau kaip per 30 dienų teikia Komisijai bazinės kainos
+suderinimo dokumentus ir (ar) pagrįstas pastabas. Komisija, išnagrinėjusi
+savivaldybės institucijos pastabas arba per 30 dienų jų negavusi, ne vėliau
+kaip per 15 dienų nustato šilumos bazinę kainą. Dalyvauti nustatant šilumos
+bazines kainas kviečiamos šilumos vartotojų teises ginančios organizacijos.
+Kartu nustatomi tiekimo efektyvumo rodikliai. Valstybinė kainų ir energetikos
+kontrolės komisija nustatytas šilumos bazines kainas skelbia savo interneto
+svetainėje. Šilumos tiekėjas, valdantis skirtingose savivaldybėse esančias
+šilumos tiekimo sistemas, gali teikti Valstybinei kainų ir energetikos
+kontrolės komisijai nustatyti skirtingas šilumos bazines kainas šioms
+sistemoms. Šilumos tiekėjas, teikdamas pasiūlymą dėl skirtingų šilumos bazinių
+kainų šilumos tiekimo sistemoms, esančioms skirtingose savivaldybėse,
+nustatymo, privalo jį teikti dėl visų skirtingose savivaldybėse esančių šilumos
+tiekimo sistemų. Šilumos tiekėjas arba savivaldybė turi teisę teisme apskųsti
+Valstybinę kainų ir energetikos kontrolės komisiją dėl nustatytų šilumos
+bazinių kainų.
 7. Savivaldybių tarybos nustato:
 1) vadovaudamosi Valstybinės kainų ir
 energetikos kontrolės komisijos nustatytomis šilumos bazinėmis kainomis ir
@@ -1491,38 +1525,38 @@ ir karšto vandens sistemų priežiūros (eksploatavimo) maksimalių tarifų
 nustatymo metodika – daugiabučių namų šildymo ir karšto vandens sistemų
 priežiūros (eksploatavimo) maksimalius tarifus.
 8. Šilumos
-tiekėjai, realizuojantys ne mažiau kaip 10 GWh šilumos per metus, teikia perskaičiuotų
-šilumos kainų dedamųjų projektus ir jų pagrindimą Valstybinei kainų ir
-energetikos kontrolės komisijai bei savivaldybei, kiti šilumos tiekėjai – tik
-savivaldybei. Savivaldybės taryba per 30 dienų nustato šilumos kainų
-dedamąsias.
+tiekėjai, realizuojantys ne mažiau kaip 10 GWh šilumos per metus, teikia
+perskaičiuotų šilumos kainų dedamųjų projektus ir jų pagrindimą Valstybinei
+kainų ir energetikos kontrolės komisijai bei savivaldybei, kiti šilumos
+tiekėjai – tik savivaldybei. Savivaldybės taryba per 30 dienų nustato
+šilumos kainų dedamąsias.
 9. Savivaldybės tarybos nustatytas
 šilumos kainų dedamąsias šilumos tiekėjai, realizuojantys ne mažiau kaip 10 GWh
 šilumos, pateikia Valstybinei kainų ir energetikos kontrolės komisijai per 10
-kalendorinių dienų nuo šilumos kainų dedamųjų nustatymo. Komisija nurodo savivaldybei
-esamus šilumos kainų dedamųjų nustatymo pažeidimus. Savivaldybė privalo juos
-pašalinti ne vėliau kaip per 30 kalendorinių dienų. Savivaldybei nepašalinus
-nurodytų pažeidimų arba laiku nenustačius šilumos kainų dedamųjų, Komisija
-įgyja teisę vienašališkai nustatyti laikinas šilumos kainų dedamąsias. Jos
-galioja, kol pašalinami Komisijos nurodyti pažeidimai, bet ne ilgiau kaip 12
-mėnesių nuo jų įsigaliojimo dienos.
+kalendorinių dienų nuo šilumos kainų dedamųjų nustatymo. Komisija nurodo
+savivaldybei esamus šilumos kainų dedamųjų nustatymo pažeidimus. Savivaldybė
+privalo juos pašalinti ne vėliau kaip per 30 kalendorinių dienų. Savivaldybei
+nepašalinus nurodytų pažeidimų arba laiku nenustačius šilumos kainų dedamųjų,
+Komisija įgyja teisę vienašališkai nustatyti laikinas šilumos kainų dedamąsias.
+Jos galioja, kol pašalinami Komisijos nurodyti pažeidimai, bet ne ilgiau kaip
+12 mėnesių nuo jų įsigaliojimo dienos.
 10. Naujiems šilumos vartotojams,
 prisijungusiems prie šilumos tiekimo sistemos, leidžiama ne ilgiau kaip 3
 metams nustatyti šilumos kainų dedamąsias, grindžiamas tiekėjo būtinomis
 (valstybės normuojamomis) ribinėmis šilumos tiekimo šiems vartotojams
 sąnaudomis.
 11. Karšto vandens
-tiekėjas, vadovaudamasis Valstybinės kainų ir energetikos kontrolės komisijos
-patvirtinta Karšto vandens kainų nustatymo metodika, parengia ir teikia
-Komisijai ir (arba) savivaldybės institucijai karšto vandens kainos dedamųjų
-projektą. Jei karšto vandens tiekėjas yra ir šilumos tiekėjas, realizuojantis
-ne mažiau kaip 10 GWh šilumos per metus, arba tiekia karštą vandenį šio šilumos
-tiekėjo teritorijoje, savivaldybės institucija ne vėliau kaip per 30 dienų
-teikia Komisijai karšto vandens kainos dedamųjų suderinimo dokumentus ir (ar)
-pagrįstas pastabas. Komisija, išnagrinėjusi savivaldybės institucijos pastabas
-arba per 30 dienų jų negavusi, ne vėliau kaip per 15 dienų nustato karšto
-vandens kainos dedamąsias. Kitiems karšto vandens tiekėjams karšto vandens
-kainų dedamąsias nustato savivaldybių tarybos.
+tiekėjas, vadovaudamasis Valstybinės kainų ir energetikos kontrolės komisijos patvirtinta
+Karšto vandens kainų nustatymo metodika, parengia ir teikia Komisijai ir (arba)
+savivaldybės institucijai karšto vandens kainos dedamųjų projektą. Jei karšto
+vandens tiekėjas yra ir šilumos tiekėjas, realizuojantis ne mažiau kaip 10 GWh
+šilumos per metus, arba tiekia karštą vandenį šio šilumos tiekėjo teritorijoje,
+savivaldybės institucija ne vėliau kaip per 30 dienų teikia Komisijai karšto
+vandens kainos dedamųjų suderinimo dokumentus ir (ar) pagrįstas pastabas.
+Komisija, išnagrinėjusi savivaldybės institucijos pastabas arba per 30 dienų jų
+negavusi, ne vėliau kaip per 15 dienų nustato karšto vandens kainos dedamąsias.
+Kitiems karšto vandens tiekėjams karšto vandens kainų dedamąsias nustato
+savivaldybių tarybos.
 12. Konkurenciniams
 šilumos vartotojams nustatoma šilumos kaina,
 kuri turi padengti šilumos gamybos ir individualias perdavimo sąnaudas. Šią šilumos kainą nustato šilumos tiekėjas,
@@ -1542,15 +1576,15 @@ tarybos šioje procedūroje nedalyvauja.
 14. Šio įstatymo 10 straipsnio 3 dalyje
 numatytas nepriklausomas šilumos gamintojas nustato šilumos gamybos kainų
 dedamąsias įmonės įstatuose nustatyta tvarka, apskaičiavęs jas pagal Šilumos
-kainų nustatymo metodiką. Šiuo atveju nustatant šilumos gamybos kainų dedamąsias
-mutatis mutandis taikoma šio straipsnio 4, 5, 6 ir 7 dalyse numatyta
-šilumos kainų dedamųjų nustatymo procedūra, o savivaldybių tarybos šioje
-procedūroje nedalyvauja.
+kainų nustatymo metodiką. Šiuo atveju nustatant šilumos gamybos kainų
+dedamąsias mutatis mutandis taikoma šio straipsnio 4, 5, 6 ir 7 dalyse
+numatyta šilumos kainų dedamųjų nustatymo procedūra, o savivaldybių tarybos
+šioje procedūroje nedalyvauja.
 15. Karšto vandens tiekėjas, kurio
-daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms
-savivaldybėms ir kuris tiekia karštą vandenį skirtingose savivaldybėse, nustato
-karšto vandens kainų dedamąsias įmonės įstatuose nustatyta tvarka, apskaičiavęs
-jas pagal Karšto vandens kainų nustatymo metodiką ir suderinęs su Valstybine kainų
+daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms savivaldybėms
+ir kuris tiekia karštą vandenį skirtingose savivaldybėse, nustato karšto
+vandens kainų dedamąsias įmonės įstatuose nustatyta tvarka, apskaičiavęs jas
+pagal Karšto vandens kainų nustatymo metodiką ir suderinęs su Valstybine kainų
 ir energetikos kontrolės komisija. Šiuo atveju netaikoma šio straipsnio 9
 dalis.
 16. Keičiant šilumos ir (ar) karšto
@@ -1587,8 +1621,8 @@ geriamojo vandens faktinių kainų ir nustatant šilumos ar karšto vandens kain
 Straipsnio pakeitimai:
 Nr. XI-250,
 2009-05-12, Žin., 2009, Nr. 61-2402 (2009-05-26)
-Nr. XI-1608, 2011-09-29,
-Žin., 2011, Nr. 123-5816 (2011-10-13)
+Nr. XI-1608,
+2011-09-29, Žin., 2011, Nr. 123-5816 (2011-10-13)
 Nr.
 XI-2143,
 2012-06-28, Žin., 2012, Nr. 79-4088 (2012-07-05)
@@ -1605,10 +1639,10 @@ XII-492,
 straipsnis. Maksimalios šilumos suvartojimo normos daugiabučiuose namuose 
 1. Valstybinė
 kainų ir energetikos kontrolės komisija nustato ir prireikus pakeičia
-maksimalias šilumos suvartojimo daugiabučių namų butams ir kitoms patalpoms
-šildyti normas. Šios normos skelbiamos viešai. Jos taikomos daugiabučiuose
-namuose, kurie energiją vartoja neefektyviai ir neatitinka privalomųjų energijos
-vartojimo efektyvumo reikalavimų. Vyriausybės įgaliota institucija nustato, ar
+maksimalias šilumos suvartojimo daugiabučių namų butams ir kitoms patalpoms šildyti
+normas. Šios normos skelbiamos viešai. Jos taikomos daugiabučiuose namuose, kurie
+energiją vartoja neefektyviai ir neatitinka privalomųjų energijos vartojimo
+efektyvumo reikalavimų. Vyriausybės įgaliota institucija nustato, ar
 daugiabučiame name energija vartojama efektyviai ir (ar) yra tenkinami
 privalomieji energijos vartojimo efektyvumo reikalavimai. 
 2. Savivaldybės
@@ -1648,14 +1682,14 @@ tiekimo sąnaudų apskaita
 kaip vieną šilumos tiekimo sistemą, kurioje realizuojama ne mažiau kaip 10 GWh
 šilumos per metus, kiekvienos sistemos sąnaudos įtraukiamos į apskaitą
 atskirai.
-Tvarkant buhalterinę apskaitą, pajamų ir sąnaudų ataskaitos parengiamos pagal atskiras
-savivaldybes.
+Tvarkant buhalterinę apskaitą, pajamų ir sąnaudų ataskaitos parengiamos pagal
+atskiras savivaldybes.
 2. Jeigu šilumos tiekimo
 sistemoje, kurioje realizuojama ne mažiau kaip 10 GWh šilumos per metus,
 šilumos tiekėjas dar ir gamina šilumą, jis privalo atskirai tvarkyti šilumos
-gamybos ir šilumos perdavimo sąnaudų apskaitą. Jeigu šilumos tiekėjas prižiūri
-šilumos vartotojų šildymo ir karšto vandens sistemas, šios veiklos sąnaudos
-įtraukiamos į apskaitą atskirai.
+gamybos ir šilumos perdavimo sąnaudų apskaitą. Jeigu šilumos tiekėjas prižiūri šilumos
+vartotojų šildymo ir karšto vandens sistemas, šios veiklos sąnaudos įtraukiamos
+į apskaitą atskirai.
 3. Šilumos tiekėjų informacija,
 susijusi su jų licencijuojama veikla ar veikla, kurios kainos reguliuojamos,
 yra vieša. Valstybės ir savivaldybės institucijos, įstatymų nustatyta tvarka
@@ -1892,12 +1926,20 @@ Nuo 2016 m. sausio 1 d. galioja šio
 straipsnis papildomas naujomis 3 ir 4 dalimis, nuostatos, susijusios su
 vidutinės biokuro biržos kainos taikymu.
  
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-880,
+2014-05-13, paskelbta TAR 2014-05-16, i. k. 2014-05481
+LIETUVOS RESPUBLIKOS ŠILUMOS ŪKIO
+ĮSTATYMO NR. IX-1565 20 IR 22 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2014 m. birželio 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-01-08)
+Aušrinė Trapinskienė (2014-05-19)
                  
 ausrine.trapinskiene@lrs.lt
