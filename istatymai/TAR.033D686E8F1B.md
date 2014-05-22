@@ -35,22 +35,18 @@ straipsnis. Įstatymo paskirtis
 važiavimo keleiviniu transportu lengvatos, kategorijas, lengvatų rūšis, išlaidų
 keleiviniam transportui kompensavimą ir vežėjų išlaidų (negautų pajamų),
 susijusių su lengvatų taikymu, kompensavimo (atlyginimo) tvarką bei šaltinius.
-2. Važiavimo
-keleiviniu transportu lengvatos, numatytos šiame įstatyme, pagal šio įstatymo
-nuostatas teikiamos važiuojantiems tolimojo reguliaraus susisiekimo
-autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo
-autobusais ir troleibusais, keleiviniais traukiniais (2 ir 3 klasės sėdimuose
-vagonuose, kai keleivio kelionės pradinė ir galinė stotys yra Lietuvos
-Respublikos teritorijoje), reguliaraus susisiekimo laivais ir keltais Lietuvos
-Respublikos piliečiams, kitų Europos Sąjungos valstybių narių piliečiams,
-teisėtai gyvenantiems Lietuvos Respublikoje, ir turintiems leidimą laikinai ar
-nuolat gyventi Lietuvos Respublikoje užsienio valstybių piliečiams ar asmenims
-be pilietybės.
-Šios
-lengvatos,
-numatytos šiame įstatyme, netaikomos važiuojantiesiems tarptautinio reguliaraus
-susisiekimo autobusais, lengvaisiais automobiliais taksi ir maršrutiniais
-taksi.
+2. Važiavimo keleiviniu transportu lengvatos, numatytos
+šiame įstatyme, pagal šio įstatymo nuostatas teikiamos važiuojantiems tolimojo
+reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio)
+reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais (2
+ir 3 klasės sėdimuose vagonuose, kai keleivio kelionės pradinė ir galinė stotys
+yra Lietuvos Respublikos teritorijoje), reguliaraus susisiekimo laivais ir
+keltais Lietuvos Respublikos piliečiams, kitų Europos Sąjungos valstybių narių
+piliečiams ir turintiems leidimą laikinai ar nuolat gyventi Lietuvos
+Respublikoje užsienio valstybių piliečiams ar asmenims be pilietybės. Šiame
+įstatyme numatytos lengvatos netaikomos važiuojantiesiems tarptautinio
+reguliaraus susisiekimo autobusais, lengvaisiais automobiliais taksi ir
+maršrutiniais taksi.
 3. Lietuvos
 Respublikos ir kitų Europos Sąjungos valstybių narių piliečiams,
 studijuojantiems Europos Sąjungos valstybių narių aukštųjų mokyklų dieniniuose
@@ -62,6 +58,9 @@ Nr. IX-1192,
 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
 Nr. X-1612,
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+Nr.
+XII-900,
+2014-05-15, paskelbta TAR 2015-04-21, i. k. 2014-05567
  
 2
 straipsnis. Pagrindinės šio įstatymo sąvokos
@@ -204,13 +203,12 @@ Respublikos nepriklausomybės gynėjai, nukentėję nuo 1991 m. sausio 11–13 d
 70 iki 80 metų. 
 3. Teisę įsigyti
 vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais, vienkartinį
-arba terminuotą vardinį važiavimo vietinio (priemiestinio) reguliaraus
-susisiekimo autobusais, keleiviniais traukiniais bilietą su 50 procentų
-nuolaida turi aukštųjų mokyklų dieninių skyrių studentai, Lietuvos
-Respublikos ir kitų Europos Sąjungos valstybių narių piliečiai, studijuojantys
-Europos Sąjungos valstybių narių aukštųjų mokyklų dieniniuose skyriuose, taip
-pat
-profesinio mokymo įstaigų dieninių skyrių mokiniai.
+arba terminuotą vardinį važiavimo vietinio (priemiestinio) reguliaraus susisiekimo
+autobusais, keleiviniais traukiniais bilietą su 50 procentų nuolaida turi
+aukštųjų mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
+Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
+narių aukštųjų mokyklų dieniniuose skyriuose, taip pat profesinio
+mokymo įstaigų dieninių skyrių mokiniai.
 4. Teisė įsigyti
 vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais, vietinio
 (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
@@ -247,13 +245,13 @@ nuolaida ir kitų kategorijų asmenims, taip pat įsigyti važiavimo bilietą su
 nuolaida tam tikromis savaitės dienomis ar paros valandomis. Su šiomis
 lengvatomis susijusias išlaidas savivaldybės kompensuoja iš savo biudžeto lėšų.
 Straipsnio pakeitimai:
-Nr. IX-1192,
-2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
+Nr. IX-1192, 2002-11-12,
+Žin., 2002, Nr. 116-5190 (2002-12-06)
 Nr. IX-1643,
 2003-06-24, Žin., 2003, Nr. 69-3117 (2003-07-10)
 Nr.
-IX-2581,
-2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
+IX-2581, 2004-11-11,
+Žin., 2004, Nr. 171-6324 (2004-11-26)
 Nr.
 X-189,
 2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
@@ -292,8 +290,8 @@ pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
 autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
 traukiniais, reguliaraus susisiekimo laivais ir keltais;
 3) vaikų globos namuose gyvenantiems
-mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio (miesto)
-reguliaraus susisiekimo autobusais ir troleibusais.
+mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio
+(miesto) reguliaraus susisiekimo autobusais ir troleibusais.
 2. Savivaldybių
 tarybos savo nustatyta tvarka gali kompensuoti važiavimo išlaidas ir kitais
 atvejais.
@@ -301,10 +299,10 @@ Straipsnio pakeitimai:
 Nr.
 IX-2581,
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-Nr. X-1312,
-2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
-Nr. X-1612, 2008-06-17,
-Žin., 2008, Nr. 74-2862 (2008-06-30)
+Nr. X-1312, 2007-11-06,
+Žin., 2007, Nr. 120-4879 (2007-11-22)
+Nr. X-1612,
+2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 Nr.
 XI-241,
 2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
@@ -576,11 +574,20 @@ RESPUBLIKOS TRANSPORTO LENGVATŲ ĮSTATYMO NR. VIII-1605 8 STRAIPSNIO PAKEITIMO
 Šis įstatymas įsigalioja 2014 m. liepos
 1 d. 
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-900,
+2014-05-15, paskelbta TAR 2015-04-21, i. k. 2014-05567
+LIETUVOS
+RESPUBLIKOS TRANSPORTO LENGVATŲ ĮSTATYMO NR. VIII-1605 1 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-05-06)
+Aušrinė Trapinskienė (2014-05-22)
                  
 ausrine.trapinskiene@lrs.lt
