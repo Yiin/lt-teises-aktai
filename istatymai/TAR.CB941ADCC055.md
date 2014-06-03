@@ -81,13 +81,45 @@ kitais pagrindais valdoma, naudojama teritorija, išskyrus asmens būstą.
 8. Ūkio
 subjektas – kaip tai apibrėžta Lietuvos Respublikos viešojo administravimo
 įstatyme (toliau – Viešojo administravimo įstatymas).
+Papildyta nauja
+6 dalimi, buvusios 6, 7 ir 8 dalys laikomos
+atitinkamai 7, 8 ir 9 dalimis, papildyta 10 dalimi
+nuo 2014-11-01:
+6. Ekologinis
+įvykis ‒
+aplinkos oro, vandens, dirvožemio, grunto užteršimas cheminėmis, biologinėmis
+ir radioaktyviosiomis medžiagomis arba kitoks aplinkai padarytas poveikis.
+7. Privalomasis
+nurodymas – aplinkos apsaugos valstybinę kontrolę vykdančio pareigūno
+įpareigojimas fiziniam ar juridiniam asmeniui per tam tikrą terminą įgyvendinti
+aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar
+kitų teisės aktų reikalavimus arba imtis priemonių, kad aplinkos apsaugą ir
+gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų
+pažeidimų arba žalos aplinkai būtų išvengta ar ji sumažinta, arba likviduoti
+pasekmes, sukeltas aplinkos apsaugą ir gamtos išteklių naudojimą
+reglamentuojančių įstatymų ar kitų teisės aktų pažeidimu, arba įgyvendinti
+aplinkos atkūrimo priemones.
+8. Privati
+teritorija – fizinių arba privačių juridinių asmenų nuosavybes teise ar
+kitais pagrindais valdoma, naudojama teritorija, išskyrus asmens būstą.
+9. Ūkio
+subjektas – kaip tai apibrėžta Lietuvos Respublikos viešojo administravimo
+įstatyme (toliau – Viešojo administravimo įstatymas).
+10. Kitos šiame
+įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba
+vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos
+Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų
+tvarkymo įstatyme ir Lietuvos Respublikos cheminių medžiagų ir preparatų
+įstatyme.
 Straipsnio
 pakeitimai:
 Nr.
 X-648,
 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
 Nr. XI-1463,
-2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)(papildyta 8 dalimi)
+2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 3 straipsnis. Aplinkos apsaugos valstybinės
 kontrolės turinys
@@ -113,12 +145,12 @@ aplinką;
 5) kontroliuoja, ar fiziniai ir juridiniai asmenys
 laikosi nustatytų teršalų išmetimo ir išleidimo į aplinką bei aplinkos kokybės
 reikalavimų normų;
-6) kontroliuoja,
-ar tinkamai tvarkoma aplinkos komponentų užterštumo, aplinkos komponentų tyrimų
-kokybės, gamtos išteklių naudojimo, atliekų apskaita, ar pateikiami teisingi
-šios apskaitos duomenys; 
-7)
-kontroliuoja, kaip įgyvendinamos aplinkos apsaugos programos ir priemonės; 
+6)
+kontroliuoja, ar tinkamai tvarkoma aplinkos komponentų užterštumo, aplinkos
+komponentų tyrimų kokybės, gamtos išteklių naudojimo, atliekų apskaita, ar
+pateikiami teisingi šios apskaitos duomenys; 
+7) kontroliuoja,
+kaip įgyvendinamos aplinkos apsaugos programos ir priemonės; 
 8) esant
 šiame Įstatyme numatytiems pagrindams, duoda fiziniams ir juridiniams asmenims
 privalomuosius nurodymus;
@@ -151,6 +183,12 @@ eksporto (išvežimo) iš Lietuvos Respublikos teritorijos reikalavimai;
 12)
 kontroliuoja, ar genetiškai modifikuoti organizmai ribotai naudojami,
 išleidžiami į aplinką laikantis teisės aktuose nustatytų reikalavimų;
+Redakcija nuo
+2014-11-01:
+12) kontroliuoja,
+ar genetiškai modifikuoti mikroorganizmai ir organizmai ribotai naudojami,
+išleidžiami į aplinką laikantis teisės aktuose nustatytų reikalavimų;
+ 
 13)
 kontroliuoja, ar teisėtai ir laikantis nustatytų reikalavimų naudojamas
 Bendrijos aplinkosaugos vadybos ir audito sistemos (toliau – EMAS)
@@ -164,6 +202,15 @@ atlieka ūkio subjektų veiklos patikrinimus Viešojo administravimo įstatymo i
 16)
 vertina teisės aktų nustatyta tvarka gautą informaciją apie ūkio subjektų
 veiklą.
+Papildyta nuo
+2014-11-01:
+17)
+prireikus atlieka
+patikrinimus prieš išduodami, pakeisdami, atnaujindami taršos integruotos prevencijos
+ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina
+ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis
+ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą reglamentuojančių
+teisės aktų reikalavimų pažeidimus.
 Straipsnio pakeitimai:
 Nr. IX-2075,
 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
@@ -176,6 +223,8 @@ Nr. XI-1463,
 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 Nr. XII-294,
 2013-05-14, Žin., 2013, Nr. 57-2838 (2013-06-01)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 4 straipsnis. Pagrindiniai aplinkos apsaugos
 valstybinės kontrolės principai
@@ -187,10 +236,10 @@ naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimams, s
 išvengti neigiamo poveikio aplinkai; 
 2)
 minimalios ir proporcingos kontrolės naštos principas – aplinkos apsaugos
-valstybinės kontrolės institucijų ir pareigūnų veiksmai privalo būti proporcingi
-ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir
-administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio
-subjektų, kitų fizinių ir juridinių asmenų veiklą; 
+valstybinės kontrolės institucijų ir pareigūnų veiksmai privalo būti
+proporcingi ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų
+dydžiui ir administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti
+ūkio subjektų, kitų fizinių ir juridinių asmenų veiklą; 
 3)
 sprendimų priėmimo savarankiškumo ir pareigūnų asmeninės atsakomybės už
 priimtus sprendimus principas – aplinkos apsaugos valstybinės kontrolės
@@ -200,9 +249,9 @@ asmeniškai už juos atsako;
 atsakomybės neišvengiamumo principas – aplinkos apsaugos valstybinės kontrolės
 institucijos ir pareigūnai turi siekti, kad kiekvienas asmuo, padaręs aplinkos
 apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės
-aktų pažeidimą, būtų nustatytas, patrauktas atsakomybėn, teisingai ir laiku nubaustas,
-visiškai atlygintų aplinkai padarytą žalą bei pašalintų pažeidimo sukeltas
-neigiamas pasekmes;
+aktų pažeidimą, būtų nustatytas, patrauktas atsakomybėn, teisingai ir laiku
+nubaustas, visiškai atlygintų aplinkai padarytą žalą bei pašalintų pažeidimo
+sukeltas neigiamas pasekmes;
 5)
 objektyvumo principas – sprendimų priėmimas ir kiti aplinkos apsaugos
 valstybinės kontrolės institucijų ir pareigūnų veiksmai turi būti nešališki ir
@@ -251,9 +300,8 @@ KONTROLĖS ORGANIZAVIMAS, VYKDYMAS IR PRIEŽIŪRA
  
 5
 straipsnis. Aplinkos apsaugos valstybinės kontrolės organizavimas
-Aplinkos
-apsaugos valstybinę kontrolę Lietuvos Respublikoje organizuoja Aplinkos
-ministerija. 
+Aplinkos apsaugos
+valstybinę kontrolę Lietuvos Respublikoje organizuoja Aplinkos ministerija. 
  
 6
 straipsnis. Aplinkos apsaugos valstybinės kontrolės vykdymas
@@ -268,13 +316,27 @@ medžiagų ir preparatų tvarkymo ir EMAS logotipo ir Europos Sąjungos ekologin
 įgaliota institucija (toliau – aplinkos apsaugos valstybinę kontrolę
 vykdančios institucijos).
 2. Regionų aplinkos apsaugos departamentų nuostatus tvirtina Vyriausybė arba jos įgaliotas ministras.
+Redakcija nuo
+2014-07-01:
+6 straipsnis. Aplinkos apsaugos valstybinės kontrolės vykdymas
+Aplinkos apsaugos
+valstybinę kontrolę Lietuvos Respublikoje vykdo Valstybinė aplinkos apsaugos
+tarnyba, regionų aplinkos apsaugos departamentai, Aplinkos apsaugos agentūra,
+Valstybinė miškų tarnyba, Valstybinei saugomų teritorijų tarnybai
+prie Aplinkos ministerijos pavaldžios parkų ir rezervatų direkcijos,
+Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau
+– aplinkos apsaugos valstybinę kontrolę
+vykdančios institucijos).
 Straipsnio pakeitimai:
 Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 Nr. XI-1463,
 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
-7 straipsnis. Aplinkos apsaugos valstybinės kontrolės priežiūra
+7 straipsnis. Aplinkos apsaugos valstybinės kontrolės
+priežiūra
 Aplinkos
 apsaugos valstybinės kontrolės priežiūrą, išskyrus aplinkos apsaugos
 valstybinės kontrolės priežiūrą cheminių medžiagų ir preparatų tvarkymo ir EMAS
@@ -286,6 +348,11 @@ Aplinkos ministerija (toliau – aplinkos apsaugos valstybinės kontrolės
 priežiūrą atliekančios institucijos). Kai aplinkos apsaugos valstybinės
 kontrolės priežiūrą atlieka Aplinkos ministerija, ji nevykdo šio Įstatymo 8
 straipsnio 2 ir 4 punktuose nurodytų funkcijų.
+Redakcija nuo
+2014-07-01:
+7
+straipsnis. Aplinkos apsaugos valstybinės kontrolės priežiūra
+Aplinkos apsaugos valstybinės kontrolės Lietuvos Respublikoje priežiūrą atlieka Aplinkos ministerija ir (arba) jos įgaliotos institucijos.
 Straipsnio pakeitimai:
 Nr. IX-2075,
 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
@@ -293,6 +360,8 @@ Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 Nr. XI-1463,
 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 8 straipsnis.
 Aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos
@@ -433,6 +502,14 @@ skirti administracines nuobaudas;
 10)
 įstatymų nustatytais atvejais pristatyti aplinkos apsaugos įstatymų pažeidėjus
 į policijos įstaigas asmenybei nustatyti;
+Redakcija nuo
+2014-07-01:
+10) įstatymų
+nustatytais atvejais pristatyti aplinkos apsaugos įstatymų pažeidėjus į
+policijos, muitinės, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų
+ministerijos ir savivaldybės patalpas asmenybei
+nustatyti;
+ 
 11) šio
 ir kitų įstatymų nustatyta tvarka saugoti, nešioti ir panaudoti šaunamąjį
 ginklą bei specialiąsias priemones – antrankius, asmens savigynai skirtas
@@ -440,8 +517,8 @@ dujas, tarnybinius šunis, transporto priverstinio stabdymo priemones;
 12)
 vykdami į įvykio vietą ar persekiodami transporto priemones, kurias vairuoja
 arba kuriose yra asmenys, įtariami padarę aplinkos apsaugą ir gamtos išteklių
-naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimus, Vyriausybės
-nustatyta tvarka naudoti mėlynos spalvos švyturėlius;
+naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimus,
+Vyriausybės nustatyta tvarka naudoti mėlynos spalvos švyturėlius;
 13)
 gauti iš juridinių ir fizinių asmenų informaciją, reikalingą užkirsti kelią
 aplinkos apsaugos įstatymų pažeidimams, išaiškinti pažeidimus ir nustatyti
@@ -454,8 +531,8 @@ dėvėti nustatyto pavyzdžio uniformą;
 pranešimą apie aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių
 teisės aktų pažeidimus, imtis visų priemonių, kad pažeidimas būtų išaiškintas
 ir nustatyti pažeidėjai, o jei patys to padaryti negali, informuoti
-kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti
-ir pažeidėjui nustatyti;
+kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui
+išaiškinti ir pažeidėjui nustatyti;
 16)
 išaiškinę aplinkos apsaugą reglamentuojančių įstatymų ar kitų teisės aktų
 pažeidimą, kuriuo aplinkai buvo padaryta žala, privalo per 30 dienų pasiūlyti
@@ -464,6 +541,12 @@ valstybinės kontrolės pareigūno nurodytą terminą savanoriškai žalos neatl
 arba ją atlygina nevisiškai, aplinkos apsaugos valstybinės kontrolės pareigūnas
 ne vėliau kaip per 30 dienų nuo šio termino pabaigos privalo pareikšti ieškinį
 teisme dėl padarytos aplinkai žalos atlyginimo.
+Papildyta nuo
+2014-07-01:
+17)
+pateikę teismo nutartį, įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas
+(tarp jų ir nuomojamas ar naudojamas kitu pagrindu).
+ 
 2.
 Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 7
 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių. 
@@ -482,6 +565,50 @@ zonoje Baltijos jūroje.
 5.
 Aplinkos apsaugos valstybinės kontrolės pareigūnams aplinkos ministras išduoda
 jų galias patvirtinančius pažymėjimus.
+Papildyta nuo
+2014-07-01:
+6.
+Aplinkos apsaugos valstybinės kontrolės pareigūnai ne darbo metu turi šio
+straipsnio 1 dalies 2 ir 15 punktuose nustatytas aplinkos apsaugos valstybinės
+kontrolės pareigūnų teises.
+Papildyta nuo
+2014-07-01:
+7. Aplinkos apsaugos valstybinę kontrolę vykdančios
+institucijos, gavusios aplinkos apsaugos valstybinės
+kontrolės pareigūno sutikimą, turi teisę nustatyti laiką, kada pareigūnas turi
+būti  pasirengęs vykdyti aplinkos apsaugos valstybinę
+kontrolę ne darbo metu.
+Papildyta nuo
+2014-07-01:
+8.
+Aplinkos apsaugos
+valstybinės kontrolės pareigūnas turi teisę ne darbo metu aplinkos ministro nustatyta tvarka būti pasirengęs
+bet kuriuo metu pradėti vykdyti aplinkos apsaugos
+valstybinę kontrolę. Pareigūnas, būdamas pasirengęs priimti pranešimus
+ir pradėti vykdyti aplinkos apsaugos valstybinę
+kontrolę bet kuriuo laiku ne darbo metu, privalo priimti pranešimus,
+susijusius su aplinkos apsaugos įstatymų pažeidimais. Laikas, kada pareigūnas
+yra pasirengęs priimti pranešimus ir pradėti vykdyti
+aplinkos apsaugos valstybinę kontrolę ne darbo metu, neįskaitomas į pareigūno darbo
+laiką ir už tai jam mokama 10 proc. pareiginės algos dydžio
+kompensacija.
+Papildyta nuo
+2014-07-01:
+9. Aplinkos
+apsaugos valstybinės kontrolės pareigūnas, ne darbo metu gavęs informacijos
+apie daromą aplinkos apsaugos įstatymų pažeidimą, turi teisę, o tuo laiku, kai
+privalo būti pasirengęs priimti pranešimus ir pradėti vykdyti aplinkos apsaugos valstybinę kontrolę, – pareigą
+pradėti vykdyti aplinkos apsaugos valstybinę kontrolę aplinkos ministro
+nustatyta tvarka. Laikas, kada šioje dalyje nustatytais atvejais pradedama
+ir vykdoma aplinkos apsaugos valstybinė kontrolė,
+įskaitomas į pareigūno darbo laiką ir už jį mokama įstatymų nustatyta tvarka.
+Papildyta nuo
+2014-07-01:
+10. Laiko, kada aplinkos apsaugos valstybinės kontrolės pareigūnas
+turi būti pasirengęs vykdyti aplinkos apsaugos
+valstybinę kontrolę, nustatymo, pranešimų, susijusių su aplinkos
+apsaugos įstatymų pažeidimais, priėmimo, perdavimo ir reagavimo į juos tvarkos
+aprašą tvirtina aplinkos ministras.
 Straipsnio pakeitimai:
 Nr. IX-2075,
 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
@@ -490,6 +617,44 @@ X-648,
 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
 Nr. X-1299,
 2007-10-18, Žin., 2007, Nr. 116-4741 (2007-11-13)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
+ 
+Papildyta nuo
+2014-11-01:
+121 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas
+išdavimo tvarka
+1. Jeigu
+aplinkos apsaugos valstybinę kontrolę vykdanti institucija priima sprendimą
+atlikti patikrinimą fizinio asmens gyvenamosiose patalpose (tarp jų ir
+nuomojamose ar naudojamose kitu pagrindu), administraciniam teismui
+teikiamas prašymas dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias
+patalpas išdavimo.
+2. Prašyme dėl
+teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo turi būti
+nurodytas tikrinamo fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas,
+įtariamų pažeidimų pobūdis. 
+3. Prašymą dėl
+teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo
+išnagrinėja administracinio teismo
+teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. 
+4. Prašymas dėl
+teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo
+turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo
+prašymo priėmimo momento.
+5. Jeigu
+aplinkos apsaugos valstybinę kontrolę vykdanti institucija nesutinka su administracinio teismo
+teisėjo nutartimi, ji turi teisę per 7 kalendorines dienas nuo šios nutarties
+priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui.
+6. Lietuvos
+vyriausiasis administracinis teismas turi išnagrinėti aplinkos apsaugos valstybinę
+kontrolę vykdančios institucijos skundą dėl administracinio teismo teisėjo
+nutarties ne vėliau kaip per 7 kalendorines dienas nuo šio skundo priėmimo
+dienos. 
+7. Lietuvos
+vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
+Papildyta straipsniu“
+Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  13 straipsnis. Aplinkos apsaugos valstybinės kontrolės pareigūnų socialinės garantijos
 1. Aplinkos
 apsaugos valstybinės kontrolės pareigūnų gyvybė ir sveikata valstybės biudžeto
@@ -546,9 +711,9 @@ tikrinamų ūkio subjektų atrankos kriterijus įtvirtinančios taisyklės rengi
 ir tvirtinamos, taip pat patikrinimų planas rengiamas, tvirtinamas, skelbiamas
 ir keičiamas Viešojo administravimo įstatymo ir aplinkos ministro nustatyta
 tvarka.
-3. Ūkio subjekto veiklos
-patikrinimą atlikti ir poveikio priemones jam taikyti gali tas pats aplinkos
-apsaugos valstybinės kontrolės pareigūnas.
+3. Ūkio subjekto veiklos patikrinimą
+atlikti ir poveikio priemones jam taikyti gali tas pats aplinkos apsaugos
+valstybinės kontrolės pareigūnas.
 Straipsnio pakeitimai:
 Nr. XI-1463,
 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
@@ -571,8 +736,8 @@ protokolą, aktą ar kitą dokumentą, fiksuojantį pažeidimą ar patį patikri
 faktą, bei pateikti asmeniui, kurio veikla tikrinama, su juo susipažinti ir jį
 pasirašyti (tais atvejais, kai tikrindamas fizinio asmens veiklą aplinkos
 apsaugos valstybinės kontrolės pareigūnas surašo patikrinimo aktą ir šį
-patikrinimo aktą fizinis asmuo atsisako pasirašyti arba šis patikrinimo aktas
-surašomas jam nedalyvaujant, aplinkos apsaugos valstybinės kontrolės pareigūnas
+patikrinimo aktą fizinis asmuo atsisako pasirašyti arba šis patikrinimo aktas surašomas
+jam nedalyvaujant, aplinkos apsaugos valstybinės kontrolės pareigūnas
 patikrinimo aktą privalo registruotu laišku išsiųsti fiziniam asmeniui, kurio
 veikla tikrinta);
 5)
@@ -588,9 +753,8 @@ Nr. XI-1463,
 16 straipsnis. Aplinkos apsaugos
 valstybinės kontrolės pareigūnų veiksmai atliekant juridinių asmenų veiklos
 patikrinimą
-Tikrindamas
-juridinių asmenų veiklą, aplinkos apsaugos valstybinės kontrolės pareigūnas
-privalo:
+Tikrindamas juridinių
+asmenų veiklą, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo:
 1) prisistatyti
 juridinio asmens savininkui, vadovui ar jų įgaliotam atstovui (toliau –
 juridinio asmens atstovui) ir pateikti galias patvirtinantį dokumentą,
@@ -618,14 +782,21 @@ perduodamas jo atstovui;
 5) tikrinamojo juridinio asmens atstovo prašymus,
 skundus aplinkos apsaugos valstybinės kontrolės pareigūnas privalo įrašyti
 patikrinimo akte ir pateikti savo tiesioginiam vadovui.
+Redakcija nuo
+2014-11-01:
+5) tikrinamo juridinio asmens atstovo prašymus, paaiškinimus aplinkos
+apsaugos valstybinės kontrolės pareigūnas privalo įrašyti į patikrinimo aktą ir
+jį pateikti savo tiesioginiam vadovui.
 Straipsnio pakeitimai:
 Nr. XI-1463,
 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  17 straipsnis. Patekimas į privačias teritorijas
 1. Į
 privačias teritorijas aplinkos apsaugos valstybinės kontrolės pareigūnai turi
-teisę patekti (įeiti ar įvažiuoti) su teritorijos savininku, valdytoju ar jų
-įgaliotu atstovu. 
+teisę patekti (įeiti ar įvažiuoti) su teritorijos savininku, valdytoju ar jų įgaliotu
+atstovu. 
 2. Esant
 būtinybei, kai privačios teritorijos savininko arba valdytojo rasti negalima
 arba jie atsisako dalyvauti patikrinime ir vengia skirti įgaliotą atstovą, arba
@@ -646,6 +817,12 @@ sumažinti;
 2) kai
 aplinkos apsaugos įstatymų ar kitų teisės aktų pažeidimas yra trunkamasis ir
 išaiškinus jį bei nubaudus kaltus asmenis nustatomas terminas jį nutraukti;
+Redakcija nuo
+2014-11-01:
+2) kai aplinkos
+apsaugos įstatymų ar kitų teisės aktų pažeidimas yra trunkamasis ir nustatomas
+terminas jį nutraukti;
+ 
 3) kai
 nustatomas terminas pašalinti aplinkos apsaugos įstatymų ar kitų teisės aktų
 pažeidimo priežastis;
@@ -660,6 +837,8 @@ pakeitimai:
 Nr.
 X-648,
 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 19
 straipsnis. Neteko galios nuo 2004 m. balandžio 6 d.
@@ -691,8 +870,8 @@ privalomasis nurodymas, ir per kokius terminus jis tai turi padaryti;
 privalomojo nurodymo apskundimo tvarka.
 2.
 Privalomasis nurodymas pateikiamas pasirašyti ir įteikiamas juridinio asmens
-atstovui ar fiziniam asmeniui, kuriam šis nurodymas duodamas. Jeigu juridinio asmens
-atstovas ar fizinis asmuo atsisako pasirašyti, tai įrašoma privalomajame
+atstovui ar fiziniam asmeniui, kuriam šis nurodymas duodamas. Jeigu juridinio
+asmens atstovas ar fizinis asmuo atsisako pasirašyti, tai įrašoma privalomajame
 nurodyme ir šis išsiunčiamas jiems registruotu laišku. 
 Straipsnio
 pakeitimai:
@@ -707,6 +886,14 @@ Privalomojo nurodymo įvykdymo terminus, ne ilgesnius kaip 3 mėnesiai, nustato
 privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės
 pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į objektyvias aplinkybes,
 yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
+Redakcija nuo
+2014-11-01:
+1. Privalomojo
+nurodymo įvykdymo terminus, ne ilgesnius kaip 2 mėnesiai, nustato
+privalomąjį nurodymą duodantis aplinkos apsaugos valstybinės kontrolės
+pareigūnas pagal tai, koks laikotarpis, atsižvelgiant į objektyvias aplinkybes,
+yra reikalingas privalomajame nurodyme nustatytiems reikalavimams įgyvendinti.
+ 
 2.
 Ilgesnius privalomojo nurodymo įvykdymo terminus aplinkos apsaugos valstybinės
 kontrolės pareigūnas gali nustatyti suderinęs su savo tiesioginiu vadovu. 
@@ -717,9 +904,18 @@ privalo pranešti institucijos, kurios
 pareigūnas nustatė ilgesnius negu šio straipsnio 1 dalyje numatyti privalomojo
 nurodymo įvykdymo terminai, aplinkos apsaugos valstybinės kontrolės
 priežiūrą atliekančiai institucijai.
+Redakcija nuo
+2014-11-01:
+3. Įvykdęs privalomojo nurodymo reikalavimus, juridinis ar fizinis
+asmuo apie šio nurodymo įvykdymą ne vėliau kaip per 3 darbo dienas nuo įvykdymo
+arba nuo privalomajame nurodyme nustatyto termino pabaigos turi pranešti raštu
+(pateikdamas tiesiogiai, paštu, elektroniniu paštu) aplinkos apsaugos
+valstybinės kontrolės pareigūnui, davusiam privalomąjį nurodymą.
 Straipsnio pakeitimai:
 Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  22 straipsnis. Privalomojo nurodymo terminų pratęsimas
 1.
 Asmens, kuriam duotas privalomasis nurodymas, rašytiniu prašymu, jeigu jis dėl
@@ -728,24 +924,46 @@ terminai gali būti pratęsti.
 2. Kad
 privalomojo nurodymo įvykdymo terminas būtų pratęstas, galima kreiptis ne
 vėliau kaip 7 dienos iki privalomojo nurodymo įvykdymo termino pabaigos.
+Redakcija nuo
+2014-11-01:
+2. Kad
+privalomojo nurodymo įvykdymo terminas būtų pratęstas, rašytinis prašymas
+privalomąjį nurodymą davusiam pareigūnui turi būti pateiktas ne vėliau kaip
+prieš 5 darbo dienas iki privalomojo nurodymo įvykdymo termino pabaigos.
+ 
 3.
 Sprendimą pratęsti privalomojo nurodymo įvykdymo terminą, tačiau ne ilgiau kaip
 dar 2 mėnesiams, priima privalomąjį nurodymą davęs pareigūnas. Apie tokį
 sprendimą jis privalo nedelsdamas informuoti institucijos,
 kurios pareigūnas davė privalomąjį nurodymą, aplinkos apsaugos
 valstybinės kontrolės priežiūrą atliekančią instituciją.
+Redakcija nuo
+2014-11-01:
+3.
+Sprendimą pratęsti privalomojo nurodymo įvykdymo terminą, tačiau ne ilgiau kaip
+dar 2 mėnesiams, priima privalomąjį nurodymą davęs pareigūnas.
+ 
 4.
 Privalomajame nurodyme nustatytus jo įvykdymo terminus pakartotinai gali
 pratęsti aplinkos apsaugos valstybinę
 kontrolę vykdančios institucijos, kurios pareigūnas davė privalomąjį nurodymą, vadovas,
 apie tai raštu pranešęs institucijos,
-kurios pareigūnas davė privalomąjį nurodymą, aplinkos apsaugos
-valstybinės kontrolės priežiūrą atliekančiai institucijai.
+kurios pareigūnas davė privalomąjį nurodymą, aplinkos apsaugos valstybinės
+kontrolės priežiūrą atliekančiai institucijai.
+Redakcija nuo
+2014-11-01:
+4. Privalomajame
+nurodyme nustatytus jo įvykdymo terminus ne ilgesniam kaip vieno mėnesio
+terminui pakartotinai gali pratęsti aplinkos
+apsaugos valstybinę kontrolę vykdančios institucijos, kurios pareigūnas davė
+privalomąjį nurodymą, vadovas.
 Straipsnio pakeitimai:
 Nr. IX-2075,
 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 23
 straipsnis. Privalomojo nurodymo apskundimas
@@ -759,22 +977,36 @@ institucijos, kurios pareigūnas davė privalomąjį nurodymą, vadovui.
 apsaugos departamento vadovas, privalomasis nurodymas per šio straipsnio 2
 dalyje nustatytą terminą skundžiamas regiono aplinkos apsaugos departamento aplinkos
 apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
+Redakcija nuo
+2014-11-01:
+3. Jeigu
+privalomąjį nurodymą davė aplinkos apsaugos valstybinę kontrolę vykdančios
+institucijos vadovas, privalomasis nurodymas per šio straipsnio 2 dalyje
+nustatytą terminą skundžiamas aplinkos apsaugos valstybinę kontrolę vykdančios
+institucijos aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai
+institucijai.
+ 
+4.
+Skundas dėl privalomojo nurodymo turi būti išnagrinėtas per 5 darbo dienas.
+Redakcija nuo
+2014-11-01:
 4. Skundas
-dėl privalomojo nurodymo turi būti išnagrinėtas per 5 darbo dienas.
+dėl privalomojo nurodymo turi būti išnagrinėtas per 10 darbo dienų.
+ 
 5.
 Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovas (aplinkos
 apsaugos valstybinės kontrolės priežiūrą atliekanti institucija), išnagrinėjęs
 (išnagrinėjusi) skundą, priima vieną iš šių sprendimų:
-1)
-privalomąjį nurodymą palieka nepakeistą;
+1) privalomąjį
+nurodymą palieka nepakeistą;
 2)
 privalomąjį nurodymą pakeičia iš dalies, sumažindamas jame nustatytus
 reikalavimus arba pratęsdamas jo įvykdymo terminus;
 3)
 privalomąjį nurodymą panaikina ir perduoda jį priėmusiam pareigūnui pateikti iš
 naujo;
-4)
-privalomąjį nurodymą panaikina.
+4) privalomąjį
+nurodymą panaikina.
 7.
 Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovo (aplinkos
 apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos) sprendimas
@@ -782,11 +1014,17 @@ apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos) sprend
 8. Jeigu privalomąjį nurodymą davė šio Įstatymo 6
 straipsnyje nurodytos Aplinkos ministerijos įgaliotos institucijos vadovas,
 privalomasis nurodymas įstatymų nustatyta tvarka gali būti skundžiamas teismui.
+Papildyta nuo
+2014-11-01:
+9. Skundo
+padavimas nesustabdo privalomojo nurodymo vykdymo.
 Straipsnio pakeitimai:
 Nr. IX-2075,
 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 24
 straipsnis. Aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai, jei
@@ -804,8 +1042,8 @@ padarytos žalos atlyginimo.
 Straipsnio
 pakeitimai:
 Nr.
-X-648,
-2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
+X-648, 2006-06-08,
+Žin., 2006, Nr. 72-2667 (2006-06-28)
  TREČIASIS SKIRSNISAPLINKAI KENKSMINGOS VEIKLOS SUSTABDYMAS
  
 25
@@ -818,12 +1056,22 @@ to paties aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančio
 įstatymo ar kito teisės akto pažeidimo pašalinimo, tačiau jis nurodymo
 neįvykdė, nors yra technologinės galimybės įgyvendinti aplinkosaugos
 reikalavimus; 
+Redakcija nuo
+2014-11-01:
+1) jei fizinis
+ar juridinis asmuo neįvykdė pakartotinai duoto privalomojo nurodymo dėl to
+paties aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančio įstatymo
+ar kito teisės akto pažeidimo pašalinimo;
+ 
 2) jei dėl
 fizinio ar juridinio asmens vykdomo vandens, aplinkos oro, žemės ar kitų
 aplinkos komponentų teršimo masiškai žūsta gyvūnai ar augalai;
 3) jei fizinis
 ar juridinis asmuo teršia aplinkos orą, žemę, vandenį ir tai kelia tiesioginį
 pavojų žmonių sveikatai ar gyvybei.
+ 
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 26 straipsnis. Aplinkos apsaugos
 valstybinės kontrolės pareigūnai, turintys teisę sustabdyti aplinkai kenksmingą
@@ -865,6 +1113,16 @@ kaip 10 dienų iki pasirengimo sustabdyti aplinkai kenksmingą veiklą termino
 pabaigos, pratęsti gali aplinkos apsaugos valstybinę kontrolę vykdančios institucijos, kurios pareigūnas nustatė pasirengimo sustabdyti aplinkai kenksmingą
 veiklą terminą, vadovas, įvertinęs prašymo motyvų pagrįstumą,
 tačiau ne ilgiau kaip dar 3 mėnesiams.
+Redakcija nuo
+2014-11-01:
+1. Pasirengimo sustabdyti aplinkai kenksmingą veiklą terminus fizinio
+ar juridinio asmens motyvuotu prašymu, kuris turi būti pateikiamas ne vėliau
+kaip 10 darbo dienų iki pasirengimo sustabdyti aplinkai kenksmingą veiklą termino
+pabaigos, pratęsti gali aplinkos apsaugos valstybinę kontrolę vykdančios
+institucijos, kurios pareigūnas nustatė pasirengimo sustabdyti aplinkai
+kenksmingą veiklą terminą, vadovas, įvertinęs prašymo motyvų
+pagrįstumą, tačiau ne ilgiau kaip dar vienam mėnesiui.
+ 
 2. Pasibaigus šio straipsnio 1
 dalyje nustatytiems terminams, juos gali pratęsti institucijos, kurios
 pareigūnas pratęsė pasirengimo sustabdyti aplinkai kenksmingą veiklą terminus,
@@ -872,6 +1130,8 @@ aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija.
 Straipsnio pakeitimai:
 Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 30 straipsnis. Aplinkai
 kenksmingos veiklos sustabdymas panaikinant taršos integruotos prevencijos ir
@@ -899,8 +1159,8 @@ Nr. XII-294,
 priimant nutarimą
 Juridinių ar fizinių asmenų vykdoma aplinkai kenksminga veikla sustabdoma priimant aplinkos ministro nustatytos formos nutarimą.
 Straipsnio pakeitimai:
-Nr. IX-2075, 2004-03-23,
-Žin., 2004, Nr. 50-1636 (2004-04-06)
+Nr. IX-2075,
+2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
  
 32
 straipsnis. Nutarimo sustabdyti aplinkai kenksmingą veiklą turinys
@@ -909,11 +1169,11 @@ sustabdyti juridinio ar fizinio asmens vykdomą aplinkai kenksmingą veiklą tur
 būti nurodytas šį nutarimą priėmusio pareigūno vardas, pavardė, pareigos,
 tarnybos vieta, kokios įmonės, įstaigos, organizacijos, jos cecho, skyriaus ar
 kito padalinio ir kokia konkreti aplinkai kenksminga veikla sustabdoma, dėl
-kokių priežasčių bei kokio teisės akto pagrindu ji sustabdoma, pasirengimo sustabdyti
-aplinkai kenksmingą veiklą terminai (jei vadovaujantis šio Įstatymo nuostatomis
-juos galima nustatyti), taip pat reikalavimai, kuriuos įvykdžius nutarimas
-sustabdyti aplinkai kenksmingą veiklą bus panaikintas, nutarimo sustabdyti
-aplinkai kenksmingą veiklą apskundimo tvarka.
+kokių priežasčių bei kokio teisės akto pagrindu ji sustabdoma, pasirengimo
+sustabdyti aplinkai kenksmingą veiklą terminai (jei vadovaujantis šio Įstatymo
+nuostatomis juos galima nustatyti), taip pat reikalavimai, kuriuos įvykdžius
+nutarimas sustabdyti aplinkai kenksmingą veiklą bus panaikintas, nutarimo
+sustabdyti aplinkai kenksmingą veiklą apskundimo tvarka.
  
 33 straipsnis. Nutarimo sustabdyti aplinkai kenksmingą veiklą priėmimas
 nepasibaigus pasirengimo sustabdyti aplinkai kenksmingą veiklą terminui
@@ -946,12 +1206,12 @@ sustabdyti aplinkai kenksmingą veiklą vykdymą, gali Vyriausybės ar jos
 straipsnis. Nutarimo sustabdyti aplinkai kenksmingą veiklą panaikinimas
 1. Fizinis ar juridinis
 asmuo, įvykdęs nutarime sustabdyti aplinkai kenksmingą veiklą nustatytus
-reikalavimus, apie tai raštu praneša šį nutarimą priėmusiam pareigūnui.
-Pastarasis ne ilgiau kaip per 7 dienas nuo tokio pranešimo gavimo dienos
-privalo patikrinti, ar nutarime nustatyti reikalavimai yra įvykdyti, ir jeigu
-taip, – jį panaikinti bei apie tai pranešti aplinkos apsaugos valstybinę
-kontrolę vykdančios institucijos, kurios pareigūnas priėmė nutarimą sustabdyti
-aplinkai kenksmingą veiklą, vadovui.
+reikalavimus, apie tai raštu praneša šį nutarimą priėmusiam pareigūnui. Pastarasis
+ne ilgiau kaip per 7 dienas nuo tokio pranešimo gavimo dienos privalo
+patikrinti, ar nutarime nustatyti reikalavimai yra įvykdyti, ir jeigu taip, –
+jį panaikinti bei apie tai pranešti aplinkos apsaugos valstybinę kontrolę
+vykdančios institucijos, kurios pareigūnas priėmė nutarimą sustabdyti aplinkai
+kenksmingą veiklą, vadovui.
 2. Fizinis ar
 juridinis asmuo, kurio ūkinė veikla sustabdyta, gali ją pradėti tik aplinkos
 apsaugos valstybinės kontrolės pareigūnui panaikinus nutarimą. Sprendimas
@@ -1066,11 +1326,11 @@ pranešimas iš užsienio valstybės kompetentingos institucijos ar tarptautinė
 organizacijos, kad su Lietuvos valstybės vėliava plaukiojantis laivas užteršė
 jūros aplinką atviroje jūroje;
 7) pagrįstai
-įtaria, kad savanoriškai įplaukęs į Lietuvos Respublikos uostą ar terminalą laivas
-pažeidė Europos Sąjungos valstybės narės vidaus vandenyse, teritorinėje jūroje
-ar išskirtinėje ekonominėje zonoje arba atviroje jūroje jūros aplinkos apsaugą
-ir gamtos išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės
-aktus.
+įtaria, kad savanoriškai įplaukęs į Lietuvos Respublikos uostą ar terminalą
+laivas pažeidė Europos Sąjungos valstybės narės vidaus vandenyse, teritorinėje
+jūroje ar išskirtinėje ekonominėje zonoje arba atviroje jūroje jūros aplinkos
+apsaugą ir gamtos išteklių naudojimą reglamentuojančius įstatymus ar kitus
+teisės aktus.
 Straipsnio pakeitimai:
 Nr. XI-856,
 2010-05-28, Žin., 2010, Nr. 70-3470 (2010-06-17)
@@ -1102,8 +1362,8 @@ nustatyta tvarka stabdyti laivą.
 nesustoja, kai to reikalauja aplinkos apsaugos valstybinės kontrolės
 pareigūnai, šie pareigūnai apie tai informuoja Lietuvos Respublikos
 institucijas, įgaliotas prievarta sustabdyti laivus. Šios institucijos privalo
-imtis teisės aktuose numatytų veiksmų, kad nepaklusęs aplinkos apsaugos
-valstybinės kontrolės pareigūno reikalavimui sustoti laivas būtų sustabdytas. 
+imtis teisės aktuose numatytų veiksmų, kad nepaklusęs aplinkos apsaugos valstybinės
+kontrolės pareigūno reikalavimui sustoti laivas būtų sustabdytas. 
 3. Apie laivo
 sustabdymą aplinkos apsaugos valstybinės kontrolės pareigūnai nedelsdami
 informuoja Valstybės sienos apsaugos tarnybą prie Lietuvos Respublikos vidaus
@@ -1128,17 +1388,18 @@ esmę ir pareigą nutraukti pažeidimą;
 patikrinimą, surašyti Vyriausybės ar jos įgaliotos institucijos nustatytos
 formos patikrinimo aktą. Jis surašomas dviem egzemplioriais. Patikrinimo akte
 turi būti nurodomas patikrinimą atlikusio aplinkos apsaugos valstybinės
-kontrolės pareigūno vardas, pavardė ir pareigos, tarnybos vieta, patikrinimo data,
-patikrinimo priežastys, patikrinimo metu nustatyti pažeidimai. Patikrinimo aktą
-pasirašo patikrinimą atlikęs aplinkos apsaugos valstybinės kontrolės pareigūnas
-ir laivo kapitonas ar jo paskirtas įgulos narys (jei laivo kapitonas ar jo
-paskirtas įgulos narys pasirašyti atsisako, apie tai pažymima patikrinimo
-akte). Patikrinimą atlikęs aplinkos apsaugos valstybinės kontrolės pareigūnas
-vieną patikrinimo akto egzempliorių perduoda laivo kapitonui ar jo paskirtam
-įgulos nariui, kitą ne vėliau kaip per 3 darbo dienas užregistruoja patikrinimų
-žurnale. Tokiais atvejais, kai laivo kapitonas ar jo paskirtas įgulos narys
-patikrinime nedalyvauja dėl to, kad negalima jų rasti, arba vengia dalyvauti
-patikrinime, turi dalyvauti liudytojas ir apie tai įrašoma patikrinimo akte;
+kontrolės pareigūno vardas, pavardė ir pareigos, tarnybos vieta, patikrinimo
+data, patikrinimo priežastys, patikrinimo metu nustatyti pažeidimai.
+Patikrinimo aktą pasirašo patikrinimą atlikęs aplinkos apsaugos valstybinės
+kontrolės pareigūnas ir laivo kapitonas ar jo paskirtas įgulos narys (jei laivo
+kapitonas ar jo paskirtas įgulos narys pasirašyti atsisako, apie tai pažymima
+patikrinimo akte). Patikrinimą atlikęs aplinkos apsaugos valstybinės kontrolės
+pareigūnas vieną patikrinimo akto egzempliorių perduoda laivo kapitonui ar jo
+paskirtam įgulos nariui, kitą ne vėliau kaip per 3 darbo dienas užregistruoja
+patikrinimų žurnale. Tokiais atvejais, kai laivo kapitonas ar jo paskirtas
+įgulos narys patikrinime nedalyvauja dėl to, kad negalima jų rasti, arba vengia
+dalyvauti patikrinime, turi dalyvauti liudytojas ir apie tai įrašoma
+patikrinimo akte;
 5) tikrinamo
 laivo kapitono ar jo paskirto įgulos nario prašymus, skundus aplinkos apsaugos
 valstybinės kontrolės pareigūnas privalo įrašyti patikrinimo akte.
@@ -1194,9 +1455,8 @@ apsaugos tarnybą prie Lietuos Respublikos vidaus reikalų ministerijos.
 39(6) straipsnis. Sprendimo sulaikyti
 laivą panaikinimas ir galiojimas
 1. Aplinkos
-apsaugos valstybinės kontrolės pareigūnas priima Vyriausybės įgaliotos
-institucijos nustatytos formos nutarimą panaikinti sprendimą sulaikyti laivą,
-jeigu:
+apsaugos valstybinės kontrolės pareigūnas priima Vyriausybės įgaliotos institucijos
+nustatytos formos nutarimą panaikinti sprendimą sulaikyti laivą, jeigu:
 1)
 nepasitvirtino 39(1) straipsnyje nurodyti įtarimai; arba
 2) atlyginta
@@ -1271,10 +1531,10 @@ reglamentuojančius įstatymus ar kitus teisės aktus pažeidžiančius laivus i
 (ar) su tokia veika susijusias aplinkybes.
  V SKYRIUSŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR KITOKIOS PRIEVARTOS NAUDOJIMAS  40 straipsnis. Aplinkos apsaugos valstybinės kontrolės pareigūnai, turintys teisę panaudoti fizinę prievartą 
 Aplinkos apsaugos valstybinės kontrolės pareigūnai,
-pagal pareigas vykdantys miškų bei jų išteklių, gyvosios gamtos (įskaitant
-žuvis), apsaugos ir naudojimo teisėtumo valstybinę kontrolę, atlikdami
-tarnybines pareigas, šio bei kitų įstatymų nustatytais atvejais ir tvarka turi
-teisę panaudoti fizinę prievartą bei šaunamuosius ginklus.
+pagal pareigas vykdantys miškų bei jų išteklių, gyvosios gamtos (įskaitant žuvis),
+apsaugos ir naudojimo teisėtumo valstybinę kontrolę, atlikdami tarnybines
+pareigas, šio bei kitų įstatymų nustatytais atvejais ir tvarka turi teisę
+panaudoti fizinę prievartą bei šaunamuosius ginklus.
  
 41 straipsnis.
 Prievartos rūšys ir naudojimo sąlygos
@@ -1291,8 +1551,8 @@ teisės pažeidėjo savybes. Naudodami prievartą, aplinkos apsaugos valstybinė
 kontrolės pareigūnai privalo stengtis išvengti sunkių pasekmių. 
 2. Psichinė prievarta šiame Įstatyme suprantama kaip
 įspėjimas apie ketinimą nedelsiant panaudoti fizinę prievartą, specialiąsias
-priemones ar šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo
-ginklo demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės prievartos
+priemones ar šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo ginklo
+demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės prievartos
 priemones galima naudoti tik esant šio Įstatymo 42 straipsnio 1 dalyje
 išvardytoms sąlygoms. 
 3. Fizinė prievarta šiame Įstatyme suprantama kaip: 
@@ -1300,8 +1560,8 @@ išvardytoms sąlygoms.
 imtynių veiksmų panaudojimas; 
 2) specialiųjų priemonių, t. y. ginkluotėje esamų
 lazdų, antrankių bei rišimo priemonių, dujų, tarnybinių šunų, transporto
-priverstinio sustabdymo bei kitų įstatymų leidžiamų aktyvios ir pasyvios gynybos
-priemonių panaudojimas. 
+priverstinio sustabdymo bei kitų įstatymų leidžiamų aktyvios ir pasyvios
+gynybos priemonių panaudojimas. 
 4. Prieš naudodamas fizinę prievartą arba šaunamąjį
 ginklą, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo įspėti apie
 tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus,
@@ -1311,6 +1571,13 @@ sveikatai arba toks įspėjimas yra neįmanomas.
 turi būti specialiai parengti ir periodiškai tikrinami, ar gali veikti
 situacijose, kuriose naudojama fizinė prievarta, specialiosios priemonės ir
 šaunamasis ginklas. 
+Redakcija nuo
+2014-11-01:
+5. Aplinkos apsaugos valstybinės kontrolės pareigūnai rengiami ir apmokomi
+naudoti fizinę prievartą, specialiąsias priemones ir šaunamuosius ginklus,
+tobulinama jų kvalifikacija pagal aplinkos ministro įsakymu patvirtintas mokymo
+programas.
+ 
 6. Aplinkos apsaugos valstybinės kontrolės pareigūnas,
 panaudojęs prievartą nepažeisdamas šio Įstatymo reikalavimų ir padaręs žalą
 įstatymų saugomoms vertybėms, atsakomybėn netraukiamas. 
@@ -1319,6 +1586,9 @@ pareigūno panaudotos prievartos asmuo mirė arba patyrė sveikatos sutrikimą,
 aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos ar
 regiono aplinkos apsaugos departamento vadovas apie tai privalo pranešti
 prokurorui. 
+Straipsnio pakeitimai:
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 42
 straipsnis. Fizinės prievartos naudojimas
@@ -1372,12 +1642,12 @@ Jeigu panaudotos prievartos priemonės yra neveiksmingos arba jų panaudoti
 neįmanoma dėl asmens veiksmų intensyvumo, o delsimas kelia grėsmę aplinkos
 apsaugos valstybinės kontrolės pareigūno gyvybei, aplinkos apsaugos valstybinės
 kontrolės pareigūnas gali panaudoti šaunamąjį ginklą.
-4. Draudžiama
-naudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
-pašaliniai asmenys, prieš nėščias moteris, taip pat prieš invalidus,
-nepilnamečius, jei šie asmenų požymiai pareigūnui yra žinomi arba aiškiai
-matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu
-gyvybei ar sveikatai būdu. 
+4.
+Draudžiama naudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to
+gali nukentėti pašaliniai asmenys, prieš nėščias moteris, taip pat prieš
+invalidus, nepilnamečius, jei šie asmenų požymiai pareigūnui yra žinomi arba
+aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi
+pavojingu gyvybei ar sveikatai būdu. 
 5.
 Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę išimti šaunamąjį
 ginklą iš dėklo ir parengti jį naudoti, jeigu mano, kad konkrečioje situacijoje
@@ -1447,14 +1717,14 @@ suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje
 Lietuvos Respublikos teritorijoje. Regionų aplinkos apsaugos departamentai
 suteikia galias veikti jų kontroliuojamoje teritorijoje.
 Straipsnio pakeitimai:
-Nr. IX-2075,
-2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
+Nr. IX-2075, 2004-03-23,
+Žin., 2004, Nr. 50-1636 (2004-04-06)
  
 49
 straipsnis. Neetatinių aplinkos apsaugos inspektorių pareigos
 1. Neetatiniai aplinkos apsaugos inspektoriai, kontroliuodami, ar
-fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių
-naudojimą reglamentuojančių teisės aktų reikalavimų, privalo: 
+fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą
+reglamentuojančių teisės aktų reikalavimų, privalo: 
 1) nustatę
 aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar
 kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti
@@ -1497,11 +1767,11 @@ tikslu į policiją;
 surašyti administracinių teisės pažeidimų protokolus, aktus, kitus pažeidimą
 fiksuojančius dokumentus ir dalyvauti nagrinėjant jų pagrindu iškeltas
 administracines bylas; 
-4)
-įstatymų nustatyta tvarka paimti iš aplinkos apsaugos įstatymų pažeidėjų
-neteisėtai įgytus gamtos išteklius, produkciją, pažeidimo padarymo įrankius,
-kitus daiktinius pažeidimo padarymo įrodymus, gauti paaiškinimus, dokumentų
-nuorašus; 
+4) įstatymų
+nustatyta tvarka paimti iš aplinkos apsaugos įstatymų pažeidėjų neteisėtai
+įgytus gamtos išteklius, produkciją, pažeidimo padarymo įrankius, kitus
+daiktinius pažeidimo padarymo įrodymus, gauti paaiškinimus, dokumentų nuorašus;
+
 5) kartu
 su aplinkos apsaugos valstybinės kontrolės pareigūnais patekti į ūkinių objektų
 teritorijas ir atlikti jų užduotis aplinkos apsaugą ir gamtos išteklių
@@ -1526,6 +1796,19 @@ grupės invalidu – 50 MGL dydžio;
 grupės invalidu – 40 MGL dydžio;
 3) III
 grupės invalidu – 30 MGL dydžio.
+Redakcija nuo
+2014-11-01:
+1. Neetatiniam
+aplinkos apsaugos inspektoriui valstybė išmoka vienkartinę pašalpą, jeigu jam
+atliekant neetatinio aplinkos apsaugos inspektoriaus funkcijas jam buvo
+sutrikdyta sveikata ir dėl šio sutrikdymo jam nustatytas:
+1) 0–25 procentų
+darbingumo lygis, – 60 bazinių socialinių išmokų dydžio;
+2) 30–40
+procentų darbingumo lygis, – 50 bazinių socialinių išmokų dydžio;
+3) 45–55
+procentų darbingumo lygis, – 40 bazinių socialinių išmokų dydžio.
+ 
 2.
 Neetatiniam aplinkos apsaugos inspektoriui žuvus atliekant neetatinio aplinkos
 apsaugos inspektoriaus funkcijas, jo šeimos nariams (sutuoktiniui,
@@ -1533,9 +1816,23 @@ nepilnamečiams vaikams (įvaikiams), vaikams, gimusiems po žuvusiojo mirties) 
 nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi ar jo žuvimo dieną
 turėjo teisę gauti jo išlaikymą, išmokama lygiomis dalimis 100 MGL dydžio
 vienkartinė pašalpa. 
+Redakcija nuo
+2014-11-01:
+2. Neetatiniam
+aplinkos apsaugos inspektoriui žuvus atliekant neetatinio aplinkos apsaugos
+inspektoriaus funkcijas, jo šeimos nariams (sutuoktiniui, nepilnamečiams
+vaikams (įvaikiams), vaikams, gimusiems po žuvusiojo mirties) ir nedarbingiems
+asmenims, kurie buvo žuvusiojo išlaikomi ar jo žuvimo dieną turėjo teisę gauti
+jo išlaikymą, išmokama lygiomis dalimis  120 bazinių
+socialinių išmokų
+dydžio vienkartinė pašalpa.
+ 
 3. Šio
 straipsnio 1 ir 2 dalyse numatytų pašalpų išmokėjimo atvejus ir tvarką nustato
 Vyriausybė ar jos įgaliota institucija.
+Straipsnio pakeitimai:
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
 53
 straipsnis. Neetatinių aplinkos apsaugos inspektorių atsakomybė
@@ -1543,13 +1840,13 @@ straipsnis. Neetatinių aplinkos apsaugos inspektorių atsakomybė
 Neetatiniams aplinkos apsaugos inspektoriams, nedalyvaujantiems arba neaktyviai
 dalyvaujantiems aplinkos apsaugos kontrolės veikloje, suteiktos galios gali
 būti nepratęsiamos. 
-2. Inspektoriams,
-piktnaudžiaujantiems suteiktomis galiomis, vykdantiems veiklą, nesuderinamą su
-neetatinio aplinkos apsaugos inspektoriaus statusu, suteiktos galios
-atšaukiamos. 
-3.
-Neetatiniai aplinkos apsaugos inspektoriai, viršiję jiems suteiktas galias,
-atsako įstatymų nustatyta tvarka. 
+2.
+Inspektoriams, piktnaudžiaujantiems suteiktomis galiomis, vykdantiems veiklą,
+nesuderinamą su neetatinio aplinkos apsaugos inspektoriaus statusu, suteiktos
+galios atšaukiamos. 
+3. Neetatiniai
+aplinkos apsaugos inspektoriai, viršiję jiems suteiktas galias, atsako įstatymų
+nustatyta tvarka. 
  
 VII SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
@@ -1561,8 +1858,8 @@ juridiniai asmenys įstatymų nustatyta tvarka turi teisę apskųsti aplinkos
 apsaugos valstybinę kontrolę vykdančių institucijų bei pareigūnų veiksmus
 (neveikimą).
 2. Fiziniai ir juridiniai asmenys privalo sudaryti
-visas sąlygas, būtinas aplinkos apsaugos valstybinės kontrolės pareigūnams
-aplinkos apsaugos valstybinei kontrolei vykdyti, ir paklusti aplinkos apsaugos
+visas sąlygas, būtinas aplinkos apsaugos valstybinės kontrolės pareigūnams aplinkos
+apsaugos valstybinei kontrolei vykdyti, ir paklusti aplinkos apsaugos
 valstybinės kontrolės pareigūnų teisėtiems reikalavimams.
  
  
@@ -1617,6 +1914,20 @@ Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1).
 5. 2009
 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 66/2010
 dėl ES ekologinio ženklo (OL 2010 L 27, p. 1).
+Papildyta nuo
+2014-11-01:
+6. 2010 m.
+lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl
+pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL
+2010 L 334, p. 17).
+Papildyta nuo
+2014-11-01:
+7. 2001 m. kovo
+12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai
+modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos
+direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6
+tomas, p. 77), su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d.
+Europos Parlamento ir Tarybos direktyva 2008/27/EB (OL 2008 L 81, p. 45).
 Įstatymas
 papildytas priedu:
 Nr.
@@ -1629,6 +1940,8 @@ Nr. X-1510,
 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 Nr. XI-1463,
 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
+Nr. XII-884,
+2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
  
  
  
@@ -1649,9 +1962,9 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. X-648, 2006-06-08,
 Žin., 2006, Nr. 72-2667 (2006-06-28)
-APLINKOS APSAUGOS VALSTYBINĖS
-KONTROLĖS ĮSTATYMO 1, 2, 3, 12, 18, 20, 24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
-ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+APLINKOS APSAUGOS VALSTYBINĖS KONTROLĖS
+ĮSTATYMO 1, 2, 3, 12, 18, 20, 24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO
+PAPILDYMO PRIEDU ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas,
@@ -1693,16 +2006,31 @@ PIRMOJO SKIRSNIO PAVADINIMO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 7.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XII-294,
-2013-05-14, Žin., 2013, Nr. 57-2838 (2013-06-01)
+Nr. XII-294, 2013-05-14,
+Žin., 2013, Nr. 57-2838 (2013-06-01)
 APLINKOS APSAUGOS VALSTYBINĖS
 KONTROLĖS ĮSTATYMO 3 IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2013 m. birželio 1 d.
  
+8.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XII-884, 2014-05-15, paskelbta
+TAR 2014-06-02, i. k. 2014-06008
+LIETUVOS RESPUBLIKOS APLINKOS
+APSAUGOS VALSTYBĖS KONTROLĖS ĮSTATYMO NR. IX-1005 2, 3, 6, 7, 12, 16, 18, 21,
+22, 23, 25, 29, 41, 52 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO
+12-1 STRAIPSNIU ĮSTATYMAS
+Šis įstatymas, išskyrus 3, 4 ir 5
+straipsnius, įsigalioja 2014 m. lapkričio 1 d. 
+Šio įstatymo 3, 4 ir 5
+straipsniai įsigalioja 2014 m. liepos 1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-06-03)
-                  ausrine.trapinskiene@lrs.lt
+(2014-06-04)
+                 
+ausrine.trapinskiene@lrs.lt
