@@ -21,6 +21,10 @@ BENDRUOMENIŲ NEKILNOJAMĄJĮ TURTĄ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2014-06-12 iki 2014-12-31
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 80-3897, i. k. 1111010ISTA0XI-1470
+ 
 LIETUVOS RESPUBLIKOS 
 GEROS VALIOS KOMPENSACIJOS UŽ ŽYDŲ RELIGINIŲ BENDRUOMENIŲ NEKILNOJAMĄJĮ TURTĄ 
 ĮSTATYMAS
@@ -86,12 +90,18 @@ priima šį Geros valios kompensacijos už žydų religinių bendruomenių nekil
 
 
 
-5. Fondo įstatuose turi būti nustatyta aiški disponavimo kompensacijos lėšomis, Lietuvos Respublikos Vyriausybės skiriamo valstybinio audito ir kasmetinės finansinės atskaitomybės pateikimo Lietuvos Respublikos Vyriausybei ir Seimui tvarka. 
+5. Fondo įstatuose turi būti nustatyta aiški disponavimo kompensacijos lėšomis ir kasmetinės finansinės atskaitomybės pateikimo Lietuvos Respublikos Vyriausybei ir Seimui tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
+ 
 
 
 
 
-6. Valstybinio audito išvadoje konstatavus, kad fondas disponuoja jam perduotomis kompensacijos lėšomis ar naudoja jam perduotą nekilnojamąjį turtą ne pagal  šio įstatymo 3 straipsnyje nustatytą paskirtį arba kitaip pažeidžia šio įstatymo reikalavimus, Lietuvos Respublikos Vyriausybė turi teisę laikinai sustabdyti kompensacijų mokėjimą ir disponavimą jomis ir spręsti dėl kito fondo paskyrimo.
+6. Fondo valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė ir kasmet iki vasario 10 d. pateikia Lietuvos Respublikos Vyriausybei valstybinio audito išvadą ir ataskaitą. Valstybinio audito išvadoje konstatavus, kad fondas disponuoja jam perduotomis kompensacijos lėšomis arba valdo, naudoja jam perduotą nekilnojamąjį turtą ar disponuoja juo ne pagal šio įstatymo 3 straipsnyje nustatytą paskirtį arba kitaip pažeidžia šio įstatymo reikalavimus, Lietuvos Respublikos Vyriausybė turi teisę laikinai sustabdyti kompensacijų mokėjimą ir disponavimą jomis ir spręsti dėl kito fondo paskyrimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
+ 
 
 
 
@@ -138,6 +148,13 @@ priima šį Geros valios kompensacijos už žydų religinių bendruomenių nekil
 
 
 2. Pagal šį įstatymą perduotas nekilnojamasis turtas turi būti naudojamas tik Lietuvos žydų religiniams, kultūros, švietimo ir mokslo tikslams.
+
+
+
+
+3. Fondui išmokėtos piniginės kompensacijos lėšos gali būti laikomos Europos ekonominės erdvės valstybėse įsteigtuose bankuose ir Europos ekonominės erdvės valstybėse įsteigtuose užsienio valstybių bankų filialuose tik tais atvejais, kai šie bankai ir (ar) bankų filialai įsipareigoja teikti fondo valstybinį auditą atliekančiai Lietuvos Respublikos valstybės kontrolei visą auditui atlikti reikalingą informaciją, o palūkanos už piniginės kompensacijos lėšas gali būti naudojamos tiksliniams projektams finansuoti ir fondo administravimo išlaidoms apmokėti.
+Papildyta straipsnio dalimi:
+Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
  
 
 
@@ -166,3 +183,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
+Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 2 ir 3 straipsnių pakeitimo įstatymas
