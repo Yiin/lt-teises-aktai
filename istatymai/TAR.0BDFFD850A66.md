@@ -286,32 +286,29 @@ visuomenės gyvenimo srities viešojo administravimo subjektų sudarymo ir veikl
 tvarką, nurodo veikiantį ar numatomą steigti subjektą (prireikus jo pavadinimą,
 paskirtį, teisinę formą, santykius su kitais viešojo administravimo subjektais
 ir kt.) ir nustato šiam subjektui konkrečius viešojo administravimo
-įgaliojimus;
-3) Vyriausybės nutarimu, priimtu
-vadovaujantis tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota
-Lietuvos Respublikos tarptautine sutartimi, nustatančiais Europos Sąjungos ar
-atskirų valstybių finansinės paramos Lietuvai teikimo mastą, principus ar
-bendrąsias taisykles, ir laikantis šio straipsnio 2 dalies nuostatų.
+įgaliojimus.
 2. Viešosioms įstaigoms, kurių savininkė
-ar dalininkė yra valstybė ar savivaldybė, viešojo administravimo įgaliojimai gali būti
-suteikiami tik įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu,
-ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte
-nurodoma konkreti veikianti ar numatoma steigti viešoji įstaiga (jos
+ar dalininkė yra valstybė ar savivaldybė, viešojo administravimo įgaliojimai
+gali būti suteikiami tik įstatymais, tiesiogiai taikomu Europos Sąjungos teisės
+aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės
+akte nurodoma konkreti veikianti ar numatoma steigti viešoji įstaiga (jos
 pavadinimas, prireikus santykiai su kitais viešojo administravimo subjektais ir
 kt.) ir nustatomas baigtinis konkrečių tokiai viešajai įstaigai suteikiamų
-viešojo administravimo įgaliojimų sąrašas.
-3. Viešojo
-administravimo įgaliojimai vadovaujantis šio straipsnio 1 dalies 3 punkto
-nuostatomis subjektams suteikiami iki 2010 m. sausio 1 d. Nuo 2010 m. sausio 1
-d. tokie viešojo administravimo įgaliojimai subjektams suteikiami vadovaujantis
-šio straipsnio 1 dalies 1 ir 2 punktų nuostatomis.
-4. Valstybės ir
-savivaldybių įmonėms viešojo administravimo įgaliojimai atlikti jų pačių
-priimtų administracinių sprendimų įgyvendinimo kontrolę ir teikti
-administracines paslaugas gali būti suteikiami tik tuo atveju, jeigu nėra
-valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai
-galėtų būti suteikti, ir jeigu šie įgaliojimai yra tiesiogiai susiję su tos
-valstybės ar savivaldybės įmonės veiklos tikslais.
+viešojo administravimo įgaliojimų sąrašas, išskyrus šio straipsnio 3 dalyje
+numatytus atvejus. 
+3.
+Valstybės institucijoms ir įstaigoms, viešosioms įstaigoms, kurių savininkė ar
+dalininkė yra valstybė, viešojo administravimo įgaliojimai iki 2016 m.
+sausio 1 d. gali būti suteikti Vyriausybės nutarimu, priimtu
+vadovaujantis tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota
+Lietuvos Respublikos tarptautine sutartimi, nustatančiais Europos Sąjungos ar
+atskirų valstybių narių finansinės paramos Lietuvai teikimo mastą, principus ar
+bendrąsias taisykles. Viešojo administravimo įgaliojimus suteikiant tokiu
+Vyriausybės nutarimu, jame turi būti nurodoma konkreti veikianti ar numatoma
+steigti valstybės institucija ar įstaiga, viešoji įstaiga (jos pavadinimas,
+prireikus santykiai su kitais viešojo administravimo subjektais ir kt.) ir
+nustatomas baigtinis konkrečių jai suteikiamų viešojo administravimo įgaliojimų
+sąrašas.
 Įstatymas
 papildytas straipsniu:
 Nr.
@@ -325,13 +322,15 @@ XI-1259,
 Nr.
 XII-322,
 2013-05-16, Žin., 2013, Nr. 57-2860 (2013-06-01)
+Nr. XII-903,
+2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07408
  
 5 straipsnis. Pagrindinės viešojo
 administravimo sritys
 Pagrindinės
 viešojo administravimo sritys:
-1)
-administracinis reglamentavimas;
+1) administracinis
+reglamentavimas;
 2) įstatymų ir administracinių sprendimų įgyvendinimo
 kontrolė (pavaldžių subjektų kontrolė, nepavaldžių subjektų priežiūra);
 3)
@@ -395,8 +394,8 @@ XI-1259,
  
 8 straipsnis. Individualaus
 administracinio akto bendrieji reikalavimai ir pranešimas 
-         apie individualaus
-administracinio akto priėmimą
+         apie individualaus administracinio
+akto priėmimą
 1. Individualus
 administracinis aktas turi būti pagrįstas objektyviais duomenimis (faktais) ir
 teisės aktų normomis, o taikomos poveikio priemonės turi būti motyvuotos.
@@ -414,13 +413,13 @@ informacinėje sistemoje.
 4. Kiekvienam
 asmeniui, kuriam individualus administracinis aktas yra skirtas arba kurio
 teisėms ir pareigoms šis individualus administracinis aktas turi tiesioginį
-poveikį, ne vėliau kaip per 3 darbo dienas nuo šio akto priėmimo raštu
-pranešama apie individualaus administracinio akto priėmimą, kartu pridedant
-individualaus administracinio akto teisės aktų nustatyta tvarka patvirtintą
-kopiją, jeigu kiti įstatymai nenustato kitaip. Kai individualus administracinis
-aktas priimamas naudojantis valstybės informacinėmis sistemomis, vietoj
-individualaus administracinio akto teisės aktų nustatyta tvarka patvirtintos
-kopijos gali būti pridedamas individualaus administracinio akto išrašas.
+poveikį, ne vėliau kaip per 3 darbo dienas nuo šio akto priėmimo raštu pranešama
+apie individualaus administracinio akto priėmimą, kartu pridedant individualaus
+administracinio akto teisės aktų nustatyta tvarka patvirtintą kopiją, jeigu
+kiti įstatymai nenustato kitaip. Kai individualus administracinis aktas
+priimamas naudojantis valstybės informacinėmis sistemomis, vietoj individualaus
+administracinio akto teisės aktų nustatyta tvarka patvirtintos kopijos gali
+būti pridedamas individualaus administracinio akto išrašas.
 Straipsnio
 pakeitimai:
 Nr. X-1743,
@@ -535,16 +534,16 @@ poskyris (grupė).
 administruojant pavestą sritį būtina spręsti sudėtingus uždavinius, atlikti
 įvairias funkcijas ir dėl to atsiranda poreikis koordinuoti jų įgyvendinimą.
 Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos).
-Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius (viršininkas)
-gali turėti pavaduotojų. Departamento (valdybos) veiklą reglamentuojančius
-teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo
-administravimo įstaigos vadovas.
+Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius
+(viršininkas) gali turėti pavaduotojų. Departamento (valdybos) veiklą
+reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina
+viešojo administravimo įstaigos vadovas.
 5. Skyrius (biuras, tarnyba) paprastai yra departamento
 (valdybos) struktūrinė dalis. Kai administruoti pavestoje srityje yra
 nepakankama uždavinių ir funkcijų įvairovė arba kai to reikalauja įstatymas,
 skyrius (biuras, tarnyba) gali nebūti departamento (valdybos) struktūrinė
-dalis. Skyrių (biurą, tarnybą), kuris yra departamento (valdybos) struktūrinė
-dalis, sudaro ne mažiau kaip 4 pareigybės. Skyrių (biurą, tarnybą), kuris nėra
+dalis. Skyrių (biurą, tarnybą), kuris yra departamento (valdybos) struktūrinė dalis,
+sudaro ne mažiau kaip 4 pareigybės. Skyrių (biurą, tarnybą), kuris nėra
 departamento (valdybos) struktūrinė dalis, sudaro ne mažiau kaip 2 pareigybės.
 Skyriui (biurui, tarnybai) vadovauja vedėjas (viršininkas). Skyriaus (biuro,
 tarnybos) vedėjas (viršininkas) gali turėti pavaduotojų. Skyriaus (biuro,
@@ -580,8 +579,9 @@ XI-1259,
 straipsnis. Vidaus administravimo pagrindai
 Viešojo
 administravimo subjektų vidaus administravimą reglamentuoja įstatymai arba jų
-pagrindu priimti teisės aktai (nuostatai, statutai, veiklos (darbo) reglamentai,
-pareigybių aprašymai (pareiginės instrukcijos), vidaus tvarkos taisyklės).
+pagrindu priimti teisės aktai (nuostatai, statutai, veiklos (darbo)
+reglamentai, pareigybių aprašymai (pareiginės instrukcijos), vidaus tvarkos
+taisyklės).
  
 13
 straipsnis. Vidaus administravimo kontrolė
@@ -614,8 +614,8 @@ kitų teisės aktų nustatytais terminais ir tvarka, kiek tai neprieštarauja š
 bendriesiems reikalavimams:
 1)
 nustatytiems šio įstatymo 23 straipsnio 1, 2, 3, 4, 7 ir 8 dalyse ir 24, 34
-straipsniuose dėl pranešimų ir skundų, kuriais skundžiami viešojo administravimo
-subjekto veiksmai ar neveikimas; 
+straipsniuose dėl pranešimų ir skundų, kuriais skundžiami viešojo
+administravimo subjekto veiksmai ar neveikimas; 
 2)
 jeigu viešojo administravimo subjektas neturi įgaliojimų priimti sprendimą dėl
 pranešime ar skunde išdėstyto klausimo ir nėra kito viešojo administravimo
@@ -664,8 +664,8 @@ vidaus reikalų ministro patvirtintomis rekomendacijomis.
 administracines paslaugas nustato įstatymai ar jų pagrindu priimti teisės
 aktai. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio straipsnio 1
 dalies 3, 4 ir 6 punktuose nurodytas administracines paslaugas, taip pat už
-viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę
-paslaugą nagrinėjimą.
+viešojo administravimo subjekto atliekamą asmenų prašymų suteikti
+administracinę paslaugą nagrinėjimą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -772,8 +772,8 @@ atstovą, veikiantį asmens vardu.
 sąžiningai naudotis jam suteiktomis teisėmis ir jomis nepiktnaudžiauti. Jeigu
 paaiškėja, kad asmuo piktnaudžiavo jam suteiktomis teisėmis ar veikė
 nesąžiningai, viešojo administravimo subjekto vadovo sprendimu administracinė
-procedūra gali būti nutraukta ir apie tai per 3 darbo dienas nuo
-administracinės procedūros nutraukimo dienos pranešama asmeniui.
+procedūra gali būti nutraukta ir apie tai per 3 darbo dienas nuo administracinės
+procedūros nutraukimo dienos pranešama asmeniui.
  
 21 straipsnis. Pagrindas pradėti
 administracinę procedūrą 
@@ -789,15 +789,15 @@ administracinę procedūrą toliau vadinami skundu.
 22
 straipsnis. Administracinės procedūros pradžia 
 1.
-Administracinę procedūrą pradeda viešojo administravimo subjekto vadovas arba
-jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu (įsakymu,
+Administracinę procedūrą pradeda viešojo administravimo subjekto vadovas arba jo
+įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu (įsakymu,
 potvarkiu, rezoliucija) per 3 darbo dienas nuo 21 straipsnyje nurodytų
 dokumentų gavimo dienos.
 2.
-Administracinei procedūrai pradėti reikalingą informaciją, kurią turi viešojo
-administravimo subjektas arba kuri yra valstybės registruose ar kitose
-valstybės ar savivaldybių informacinėse sistemose, surenka pats skundą gavęs
-viešojo administravimo subjektas.
+Administracinei procedūrai pradėti reikalingą informaciją, kurią turi viešojo administravimo
+subjektas arba kuri yra valstybės registruose ar kitose valstybės ar
+savivaldybių informacinėse sistemose, surenka pats skundą gavęs viešojo
+administravimo subjektas.
  
 23
 straipsnis. Skundo priėmimas ir nagrinėjimas
@@ -839,19 +839,19 @@ Skundas nenagrinėjamas, jeigu tuo pačiu klausimu teismas jau
 yra priėmęs sprendimą
 arba tas pats viešojo administravimo subjektas yra priėmęs administracinės
 procedūros sprendimą ir asmuo nepateikia naujų faktinių duomenų, leidžiančių
-ginčyti viešojo
-administravimo subjekto priimtą administracinės procedūros sprendimą, taip pat jeigu nuo
-skunde nurodytų pažeidimų paaiškėjimo dienos iki skundo padavimo dienos yra
-praėję daugiau kaip 6 mėnesiai. Apie sprendimą nenagrinėti skundo pranešama
-asmeniui ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos.
+ginčyti viešojo administravimo
+subjekto priimtą administracinės procedūros sprendimą, taip pat jeigu nuo skunde nurodytų pažeidimų
+paaiškėjimo dienos iki skundo padavimo dienos yra praėję daugiau kaip 6
+mėnesiai. Apie sprendimą nenagrinėti skundo pranešama asmeniui ne vėliau kaip
+per 5 darbo dienas nuo skundo gavimo dienos.
 7. Dėl skundo,
 adresuoto keliems viešojo administravimo subjektams ir priklausančio kelių
 viešojo administravimo subjektų kompetencijai, administracinę procedūrą pradeda
-ir skundo nagrinėjimą organizuoja pirmasis skunde nurodytas viešojo administravimo
-subjektas. Kiti administracinėje procedūroje dalyvaujantys viešojo
-administravimo subjektai privalo per 10 darbo dienų nuo skundo gavimo dienos
-pateikti pagal kompetenciją savo pasiūlymus dėl skundo sprendimo administracinę
-procedūrą pradėjusiam viešojo administravimo subjektui.
+ir skundo nagrinėjimą organizuoja pirmasis skunde nurodytas viešojo
+administravimo subjektas. Kiti administracinėje procedūroje dalyvaujantys
+viešojo administravimo subjektai privalo per 10 darbo dienų nuo skundo gavimo
+dienos pateikti pagal kompetenciją savo pasiūlymus dėl skundo sprendimo
+administracinę procedūrą pradėjusiam viešojo administravimo subjektui.
 8. Viešojo
 administravimo subjekto vadovas pareigūnų, valstybės tarnautojų ar darbuotojų,
 dalyvaujančių administracinėje procedūroje, atostogų, komandiruočių, seminarų
@@ -874,8 +874,7 @@ padaryti visą darbo dienos laiką.
 Viešojo administravimo subjektas privalo nustatyti ne mažiau kaip dvi
 papildomas prašymų ir skundų priėmimo valandas per savaitę prieš arba po
 viešojo administravimo subjekto darbo dienos laiko.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr.
 XI-1259,
 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
@@ -927,11 +926,11 @@ procedūroje nedalyvaujančių asmenų teisinį statusą, administracinė
 procedūra sustabdoma ir šiems asmenims raštu pranešama apie teisę dalyvauti
 šioje procedūroje, o asmeniui, dėl kurio pradėta administracinė procedūra, –
 apie administracinės procedūros sustabdymo pagrindą.
-2.
-Administracinė procedūra tęsiama, kai šio straipsnio 1 dalyje nurodyti asmenys
-pareiškia norą dalyvauti procedūroje arba raštu atsisako joje dalyvauti, arba
-jeigu per 10 darbo dienų nuo rašto apie administracinės procedūros sustabdymą
-išsiuntimo dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti administracinėje
+2. Administracinė
+procedūra tęsiama, kai šio straipsnio 1 dalyje nurodyti asmenys pareiškia norą
+dalyvauti procedūroje arba raštu atsisako joje dalyvauti, arba jeigu per 10
+darbo dienų nuo rašto apie administracinės procedūros sustabdymą išsiuntimo
+dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti administracinėje
 procedūroje. 
  
 28
@@ -1185,8 +1184,8 @@ gali būti planiniai ir neplaniniai. Planinių patikrinimų pirminis tikslas –
 informacijos apie ūkio subjektą vertinimas ir metodinės pagalbos ūkio subjektui
 teikimas. 
 2. Priežiūrą atliekančio subjekto
-vadovas, jo įgaliotas asmuo ar kolegiali priežiūrą atliekančio subjekto
-institucija tvirtina:
+vadovas, jo įgaliotas asmuo ar kolegiali priežiūrą atliekančio subjekto institucija
+tvirtina:
 1) planuojamų tikrinti ūkio subjektų
 sąrašų sudarymo kriterijus, planinių patikrinimų atlikimo tvarką ir trukmę
 įtvirtinančias taisykles (toliau – planinių patikrinimų taisyklės), taip pat
@@ -1225,8 +1224,7 @@ terminas pažeidimams ištaisyti.
 8. Šio straipsnio 7 dalyje nustatyta
 išlyga netaikyti poveikio priemonių ir nustatyti terminą pažeidimams ištaisyti
 netaikoma, jeigu poveikio priemonės yra būtinos ir neišvengiamos siekiant
-užkirsti kelią žalos visuomenei ar kitų asmenų interesams arba aplinkai
-atsiradimui.
+užkirsti kelią žalos visuomenei ar kitų asmenų interesams arba aplinkai atsiradimui.
 9. Licencijas ar leidimus išduodantis
 priežiūrą atliekantis subjektas po licencijos ar leidimo išdavimo ūkio
 subjektui šešis mėnesius neatlieka šio subjekto planinių patikrinimų, išskyrus
@@ -1235,10 +1233,10 @@ nuostata netaikoma, jeigu priežiūrą atliekančio subjekto veiklos tikslams
 pasiekti būtini dažni planiniai patikrinimai, grindžiami potencialia pažeidimų
 rizika. 
 10. Vienu metu gali būti atliekami ne
-daugiau kaip du ūkio subjekto veiklos planiniai patikrinimai. Priežiūrą atliekantys
-subjektai, kurių priežiūros dalykas ir forma yra tarpusavyje susiję, gali
-atlikti bendrą dviejų ar daugiau priežiūrą atliekančių subjektų planinį
-patikrinimą, jeigu taip sumažėja priežiūros našta ūkio subjektui. 
+daugiau kaip du ūkio subjekto veiklos planiniai patikrinimai. Priežiūrą
+atliekantys subjektai, kurių priežiūros dalykas ir forma yra tarpusavyje
+susiję, gali atlikti bendrą dviejų ar daugiau priežiūrą atliekančių subjektų
+planinį patikrinimą, jeigu taip sumažėja priežiūros našta ūkio subjektui. 
 11. Ūkio subjekto veiklos
 neplaninis patikrinimas atliekamas priežiūrą atliekančio subjekto iniciatyva,
 kai priežiūrą atliekančio subjekto vadovas ar jo įgaliotas asmuo arba reikiamus
@@ -1267,13 +1265,13 @@ patikrinimo atlikimo pagrindą nustato įstatymas ar Vyriausybės priimtas teis�
 aktas.
 13. Ūkio subjekto veiklos neplaninis
 patikrinimas pagal gautą anoniminį skundą dėl konkretaus ūkio subjekto veiksmų
-ar neveikimo atliekamas tik tuo atveju, kai yra motyvuotas priežiūrą
-atliekančio subjekto vadovo ar jo įgalioto asmens
-arba reikiamus įgaliojimus turinčios priežiūrą atliekančio subjekto kolegialios institucijos sprendimas dėl konkretaus
+ar neveikimo atliekamas tik tuo atveju, kai yra motyvuotas priežiūrą atliekančio
+subjekto vadovo ar jo įgalioto asmens arba reikiamus
+įgaliojimus turinčios priežiūrą atliekančio subjekto kolegialios institucijos sprendimas dėl konkretaus
 anoniminio skundo tyrimo.
 14. Informacija apie atliekamą
-patikrinimą visuomenės informavimo priemonėms, kitiems su patikrinimu nesusijusiems
-asmenims neteikiama tol, kol patikrinimas nėra baigtas, išskyrus atvejus, kai priežiūrą atliekantis subjektas gali teikti
+patikrinimą visuomenės informavimo priemonėms, kitiems su patikrinimu
+nesusijusiems asmenims neteikiama tol, kol patikrinimas nėra baigtas, išskyrus atvejus, kai priežiūrą atliekantis subjektas gali teikti
 informaciją apie atliekamo patikrinimo faktą, kai tai daroma ne
 priežiūrą atliekančio subjekto iniciatyva.
 15. Ūkio subjektas šio ar kitų įstatymų
@@ -1380,14 +1378,13 @@ XI-934,
 37
 straipsnis. Tarnybinės pagalbos prašymo atvejai
 Viešojo
-administravimo subjektas gali prašyti kito viešojo administravimo subjekto
-tarnybinės pagalbos administracinės procedūros sprendimui priimti, jeigu:
+administravimo subjektas gali prašyti kito viešojo administravimo subjekto tarnybinės
+pagalbos administracinės procedūros sprendimui priimti, jeigu:
 1)
 administracinės procedūros sprendimui priimti reikia informacijos, kurios jis
 pats neturi;
 2) reikalingi
-dokumentai, kuriuos turi tik viešojo administravimo subjektas, į kurį
-kreipiamasi;
+dokumentai, kuriuos turi tik viešojo administravimo subjektas, į kurį kreipiamasi;
 3) kitais
 būtinais atvejais.
  
@@ -1538,14 +1535,14 @@ Nauja įstatymo redakcija
 Šis įstatymas, išskyrus 2 straipsnį, įsigalioja nuo 2007 m. sausio 1 d.
 Šio Įstatymo įsigaliojimas
 keistas:
-1)
-Lietuvos Respublikos
-Seimas, Įstatymas
+4.1.
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. X-915, 2006-11-21,
 Žin., 2006, Nr. 132-4990 (2006-12-05)
 VIEŠOJO ADMINISTRAVIMO ĮSTATYMO
 PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-2)
+4.2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. X-1036,
@@ -1661,11 +1658,21 @@ Nr. XII-478,
 VIEŠOJO
 ADMINISTRAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-903,
+2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07408
+LIETUVOS
+RESPUBLIKOS VIEŠOJO ADMINISTRAVIMO ĮSTATYMO NR. VIII-1234 41 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-07-22)
+Aušrinė Trapinskienė (2014-06-12)
                  
 ausrine.trapinskiene@lrs.lt
