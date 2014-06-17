@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 
 # Lietuvos Respublikos kino įstatymas
 
-Suvestinė redakcija nuo 2012-05-01 iki 2014-06-16
+Suvestinė redakcija nuo 2014-06-17 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
- 
-TAR pastaba. Vienus metus nuo šio įstatymo įsigaliojimo rodant filmus, indeksuotus iki šio įstatymo įsigaliojimo, gali būti naudojami pagal anksčiau galiojusias Lietuvos Respublikos kino įstatymo nuostatas suteikti filmų indeksai. Pradėjus veikti Lietuvos kino centrui prie Kultūros ministerijos, veikiantis Filmų registras reorganizuojamas, jo turimi duomenys perduodami Lietuvos kino centrui prie Kultūros ministerijos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka. Filmų registre įregistruotiems filmams, kuriems pagal žiūrovų amžiaus cenzą suteikti filmų indeksai „A“, „T“ ir „S“, suteikiami nauji indeksai „V“, „N-13“ ir „N-18“. Filmų įregistravimas Filmų registre, atliktas iki šio įstatymo įsigaliojimo dienos, galioja iki filmų teisių, suteiktų ar perduotų pagal autorines, licencines ar kitas su autorių teisių turėtojais sudarytas sutartis, galiojimo Lietuvos Respublikos teritorijoje pabaigos. Šio įstatymo nuostatos, susijusios su Europos Komisijos nustatytais valstybės pagalbos kriterijais, galioja tol, kol Europos Komisija paskelbia naujus kriterijus, bet ne ilgiau kaip iki 2016 m. sausio 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1897, 2011-12-22, Žin., 2012, Nr. 6-192 (2012-01-10), i. k. 1111010ISTA0XI-1897
-Lietuvos Respublikos kino įstatymo pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-05-01:
 Nr. XI-1897, 2011-12-22, Žin. 2012, Nr. 6-192 (2012-01-10), i. k. 1111010ISTA0XI-1897
@@ -888,17 +883,17 @@ FILMŲ PLATINIMAS IR RODYMAS
 
 
 
-2) „N-7“ – filmai, skirti žiūrovams nuo 7 metų;
+2) „N-7“ – filmai, skirti žiūrovams nuo 7 metų. Jaunesni kaip 7 metų žiūrovai į šiuo indeksu pažymėtus filmus įleidžiami tik kartu su juos lydinčiais pilnamečiais asmenimis;
 
 
 
 
-3) „N-13“ – filmai, skirti žiūrovams nuo 13 metų;
+3) „N-13“ – filmai, skirti žiūrovams nuo 13 metų. Žiūrovai nuo 7 iki 13 metų į šiuo indeksu pažymėtus filmus įleidžiami tik kartu su juos lydinčiais pilnamečiais asmenimis;
 
 
 
 
-4) „N-16“ – filmai, skirti žiūrovams nuo 16 metų;
+4) ‚,N-16“ – filmai, skirti žiūrovams nuo 16 metų;
 
 
 
@@ -906,6 +901,9 @@ FILMŲ PLATINIMAS IR RODYMAS
 5) „N-18“ – filmai, skirti žiūrovams nuo 18 metų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-925, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07637
+ 
 
 
 
@@ -1157,3 +1155,8 @@ Lietuvos Respublikos kino įstatymo 10 ir 12 straipsnių papildymo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1897, 2011-12-22, Žin., 2012, Nr. 6-192 (2012-01-10), i. k. 1111010ISTA0XI-1897
 Lietuvos Respublikos kino įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-925, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07637
+Lietuvos Respublikos kino įstatymo Nr. IX-752 14 straipsnio pakeitimo įstatymas
