@@ -2294,43 +2294,40 @@ administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai
 negali eiti pareigų dėl kitų priežasčių, jo pareigybės aprašyme nustatytos
 funkcijos teisės aktų nustatyta tvarka pavedamos atlikti kitam savivaldybės
 administracijos valstybės tarnautojui.
-6. Pasibaigus
-savivaldybės administracijos direktoriaus, administracijos direktoriaus
-pavaduotojo kadencijai, jei šias pareigas ėję asmenys nepaskiriami naujai
-kadencijai arba jei savivaldybės administracijos direktorius, administracijos
-direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš pareigų, išskyrus
-atleidimą už tarnybinius nusižengimus, šie asmenys turi teisę Vyriausybės
-nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos
-direktoriumi, direktoriaus pavaduotoju eitas pareigas, o kai tokios galimybės
-nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos
-pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus
-politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be
-to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius,
-administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo
-savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas
-savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės
-kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas
-savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės
-kontroliuojamoje įmonėje. Jeigu šie asmenys iki paskyrimo savivaldybės
-administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba
-atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus
-priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo
-valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar
-valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės
-kontroliuojamoje įmonėje, jiems išmokamos atitinkamai 2 mėnesių savivaldybės
-administracijos direktoriaus, administracijos direktoriaus pavaduotojo darbo
-užmokesčio dydžio išeitinės išmokos. Šios išmokos išmokamos per 2
-mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas
-valstybės tarnyboje anksčiau negu po 2 mėnesių, likusi neišmokėta išmokos dalis
-nemokama.
+*6. Pasibaigus
+savivaldybės administracijos direktorių, administracijos direktoriaus
+pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai,
+savivaldybės administracijos direktorius, administracijos direktoriaus
+pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba
+jeigu savivaldybės administracijos direktorius, administracijos direktoriaus
+pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą
+už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į
+iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus
+pavaduotoju eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios
+ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus
+priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo
+valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju
+savivaldybės administracijos direktorius, administracijos direktoriaus
+pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais
+eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės
+biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje,
+o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės
+biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje.
+Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi,
+direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų
+žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų
+(išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas)
+pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar
+viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, išmokos jiems
+mokamos Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
 7. Savivaldybės
 administracijos direktorius jam įstatymų nustatytus ir savivaldybės tarybos
 perduotus įgaliojimus, išskyrus šio straipsnio 8 dalies 4 ir 5 punktuose
 nustatytus įgaliojimus, turi teisę, kiek ji neapribota savivaldybės tarybos
-sprendimu, pavesti vykdyti savivaldybės administracijos direktoriaus pavaduotojui
-(pavaduotojams). Savivaldybės administracijos direktoriaus pavaduotojas
-atsiskaito savivaldybės administracijos direktoriui, o prireikus – ir
-savivaldybės tarybai.
+sprendimu, pavesti vykdyti savivaldybės administracijos direktoriaus
+pavaduotojui (pavaduotojams). Savivaldybės administracijos direktoriaus
+pavaduotojas atsiskaito savivaldybės administracijos direktoriui, o prireikus –
+ir savivaldybės tarybai.
 8. Savivaldybės
 administracijos direktorius:
 1) tiesiogiai ir
@@ -2342,9 +2339,9 @@ tiesiogiai įgyvendindamas įstatymus, Vyriausybės ir savivaldybės tarybos
 sprendimus, gali kreiptis į valstybinio administravimo subjektus, leisti
 įsakymus, privalomus savivaldybės administracijos struktūriniams padaliniams,
 savivaldybės administracijos filialams – seniūnijoms ir į struktūrinius
-padalinius neįeinantiems valstybės tarnautojams, taip pat jam priskirtos kompetencijos
-klausimais – savivaldybės gyventojams ir kitiems savivaldybės teritorijoje
-esantiems subjektams;
+padalinius neįeinantiems valstybės tarnautojams, taip pat jam priskirtos
+kompetencijos klausimais – savivaldybės gyventojams ir kitiems savivaldybės
+teritorijoje esantiems subjektams;
 3) organizuoja
 savivaldybės administracijos darbą, tvirtina savivaldybės administracijos
 struktūrinių padalinių ir savivaldybės administracijos filialų – seniūnijų
@@ -2413,14 +2410,20 @@ administracijos direktorius ir jo pavaduotojas (pavaduotojai) yra pavaldūs ir
 atskaitingi Vyriausybės įgaliotiniui.
 Straipsnio
 pakeitimai:
-Nr. XI-620, 2009-12-22,
-Žin., 2009, Nr. 159-7206 (2009-12-31)
+Nr. XI-620,
+2009-12-22, Žin., 2009, Nr. 159-7206 (2009-12-31)
 Nr.
 XII-409,
 2013-06-27, Žin., 2013, Nr. 76-3826 (2013-07-16)
 Nr.
 XII-460,
 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
+Nr. XII-929,
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07837 
+*Pastaba: Šis įstatymas (Nr. XII-929) taikomas
+tik asmenims, į savivaldybės administracijos direktoriaus, savivaldybės
+administracijos direktoriaus pavaduotojo pareigas paskirtiems po šio įstatymo
+įsigaliojimo.
  
 30
 straipsnis. Savivaldybės administracija 
@@ -2433,10 +2436,10 @@ jos veiklos nuostatus ir darbo užmokesčio fondą, didžiausią leistiną valst
 tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis ir
 gaunančių užmokestį iš savivaldybės biudžeto, skaičių savivaldybės
 administracijos direktoriaus siūlymu mero teikimu tvirtina ir keičia
-savivaldybės taryba, o pareigybes tvirtina savivaldybės administracijos
-direktorius. Savivaldybės administracijos įgaliojimai nėra susiję su
-savivaldybės tarybos įgaliojimų pabaiga. Savivaldybės administracija turi
-herbinį antspaudą ir sąskaitų bankuose.
+savivaldybės taryba, o pareigybes tvirtina savivaldybės administracijos direktorius.
+Savivaldybės administracijos įgaliojimai nėra susiję su savivaldybės tarybos
+įgaliojimų pabaiga. Savivaldybės administracija turi herbinį antspaudą ir
+sąskaitų bankuose.
 2. Savivaldybės
 administracija:
 1) savivaldybės
@@ -2584,9 +2587,9 @@ registrus ir nustatyta tvarka teikia duomenis;
 gyvenamosios vietos deklaravimo duomenų ir gyvenamosios vietos neturinčių
 asmenų apskaitą;
 22) savivaldybės
-tarybos sprendimu tik tuo atveju, kai nėra viešųjų paslaugų teikėjo, gali
-laikinai teikti viešąsias paslaugas, kurias administruoti paskiriamas kitas
-savivaldybės administracijos padalinys.
+tarybos sprendimu tik tuo atveju, kai nėra viešųjų paslaugų teikėjo, gali laikinai
+teikti viešąsias paslaugas, kurias administruoti paskiriamas kitas savivaldybės
+administracijos padalinys.
 3.
 Seniūnas:
 1) atlieka
@@ -2838,8 +2841,8 @@ rezultatai yra patariamojo pobūdžio.
 apklausoje yra laisvas (savanoriškas) ir grindžiamas visuotine, lygia teise
 tiesiogiai pareikšti nuomonę.
 4. Apklausoje
-gali dalyvauti savivaldybės gyventojai, kurie turi teisę rinkti šios savivaldybės
-tarybą.
+gali dalyvauti savivaldybės gyventojai, kurie turi teisę rinkti šios
+savivaldybės tarybą.
 5. Atrankinės
 apklausos metu apklausiami gyventojai turi būti parenkami taip, kad kiekvienas,
 kuris galėtų būti apklausiamas, turėtų vienodas galimybes patekti tarp
@@ -3061,13 +3064,12 @@ klausimo (klausimų) turi būti svarstomi artimiausiame savivaldybės tarybos
 posėdyje reglamento nustatyta tvarka. 
 2. Savivaldybės
 tarybos sprendime dėl apklausai pateikto (pateiktų) klausimo (klausimų) turi
-būti nurodyti apklausos rezultatai (gyventojų nuomonė dėl apklausai pateikto (pateiktų)
-klausimo (klausimų) ir savivaldybės tarybos sprendimo priėmimo motyvai.
-Savivaldybės tarybos sprendimas dėl apklausai pateikto (pateiktų) klausimo
-(klausimų) turi būti paskelbtas vietinėse (regiono) visuomenės informavimo
-priemonėse, savivaldybės
-interneto tinklalapyje ir seniūnijų, kurių aptarnaujamoje teritorijoje įvyko
-apklausa, skelbimų lentose.
+būti nurodyti apklausos rezultatai (gyventojų nuomonė dėl apklausai pateikto
+(pateiktų) klausimo (klausimų) ir savivaldybės tarybos sprendimo priėmimo
+motyvai. Savivaldybės tarybos sprendimas dėl apklausai pateikto (pateiktų)
+klausimo (klausimų) turi būti paskelbtas vietinėse (regiono)
+visuomenės informavimo priemonėse, savivaldybės interneto tinklalapyje ir
+seniūnijų, kurių aptarnaujamoje teritorijoje įvyko apklausa, skelbimų lentose.
 Straipsnio
 pakeitimai:
 Nr.
@@ -3111,8 +3113,9 @@ steigiama, likviduojama savivaldybė ar keičiamos jos teritorijos ribos, kitai
 savivaldybei perduodama ta savivaldybės nekilnojamojo turto dalis, kuri yra
 priskiriamoje teritorijoje. Kartu su perduodamu nekilnojamuoju turtu
 perduodamas ir su juo susijęs turtas, finansiniai ir kitokie įsipareigojimai
-bei teisės. Kitas turtas ir skolos, įvertinus faktinę būklę ir savivaldybių siūlymus,
-paskirstoma savivaldybėms Vyriausybės ar jos įgaliotos institucijos sprendimu. 
+bei teisės. Kitas turtas ir skolos, įvertinus faktinę būklę ir savivaldybių
+siūlymus, paskirstoma savivaldybėms Vyriausybės ar jos įgaliotos institucijos
+sprendimu. 
 2. Dėl šio
 straipsnio 1 dalyje nurodytų pertvarkymų kilusius savivaldybių turtinius ginčus
 sprendžia teismas.
@@ -3259,8 +3262,8 @@ planuodamos ir spręsdamos visus su jomis tiesiogiai susijusius klausimus,
 prireikus gali gauti konsultacijų iš valstybės institucijų.
 8. Rengiami ar
 svarstomi su savivaldybių veikla susiję įstatymų ir kitų teisės aktų projektai
-aptariami su atskiromis savivaldybėmis arba Lietuvos savivaldybių asociacija
-Seimo statuto ir Vyriausybės darbo reglamento, kitų valstybinio administravimo
+aptariami su atskiromis savivaldybėmis arba Lietuvos savivaldybių asociacija Seimo
+statuto ir Vyriausybės darbo reglamento, kitų valstybinio administravimo
 subjektų nustatyta tvarka.
 9.
 Kasmet Vyriausybė ir Lietuvos savivaldybių asociacija Savivaldybių biudžetų
@@ -3384,9 +3387,9 @@ gyvenantiems valstybėje narėje ir nesantiems jos piliečiais, naudotis balsavi
 teise ir būti kandidatais per vietos savivaldos rinkimus (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 12) su paskutiniais pakeitimais,
 padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/106/EB (OL 2006 L 363, p. 409).
 2.
- 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių
-tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo
-tam tikrose įmonėse (OL 2006 L 318, p. 17).
+ 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių
+santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio
+skaidrumo tam tikrose įmonėse (OL 2006 L 318, p. 17).
  
  
 Pakeitimai:
@@ -3758,7 +3761,8 @@ Respublikos Seimas, Įstatymas
 Nr. IX-2204,
 2004-04-29, Žin., 2004, Nr. 73-2537 (2004-04-30)
 VIETOS
-SAVIVALDOS ĮSTATYMO 2 STRAIPSNIO PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+SAVIVALDOS ĮSTATYMO 2 STRAIPSNIO PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU
+ĮSTATYMAS
  
 38.
 Lietuvos
@@ -4208,10 +4212,18 @@ RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 6 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. liepos 1 d.
  
- 
-***
-Pabaiga ***
- 
+80.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-929,
+2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07837 
+LIETUVOS
+RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 29 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas taikomas tik asmenims, į savivaldybės administracijos direktoriaus,
+savivaldybės administracijos direktoriaus pavaduotojo pareigas paskirtiems po
+šio įstatymo įsigaliojimo.
  
  
 Konstitucinio Teismo nutarimai:
@@ -4238,6 +4250,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-05-28)
+Aušra Bodin (2014-06-20)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
