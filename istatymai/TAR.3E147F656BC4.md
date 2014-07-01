@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
+ 
+TAR pastaba. Iki šio įstatymo įsigaliojimo paskirtos kompensacinės išmokos teatrų ir koncertinių įstaigų kūrybiniams darbuotojams perskaičiuojamos pagal šio įstatymo nuostatas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
+Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 13 straipsnio pakeitimo įstatymas
  
  
 LIETUVOS RESPUBLIKOS TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ ĮSTATYMAS
@@ -420,7 +425,10 @@ Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010IS
 13 straipsnis. Teatrų ir koncertinių įstaigų kūrybinių darbuotojų socialinės garantijos
 
 
-1. Šio straipsnio 2 dalyje nurodytiems teatrų ir koncertinių įstaigų kūrybiniams darbuotojams, kurie dėl savo profesijos specifikos negali dirbti pagal įgytą specialybę iki Valstybinių socialinio draudimo pensijų įstatymo nustatyto senatvės pensijos amžiaus ir dėl to nutraukė darbo sutartį, šio straipsnio 3–7 dalyse nustatytomis sąlygomis iš valstybės biudžeto lėšų skiriama ir kas mėnesį mokama 4 MGL dydžio kompensacinė išmoka teatrų ir koncertinių įstaigų kūrybiniams darbuotojams (toliau šiame straipsnyje – kompensacinė išmoka). Kompensacinės išmokos mokamos, kol jų gavėjui sukaks senatvės pensijos amžius.
+1. Šio straipsnio 2 dalyje nurodytiems teatrų ir koncertinių įstaigų kūrybiniams darbuotojams, kurie dėl savo profesijos specifikos negali dirbti pagal įgytą specialybę iki Valstybinių socialinio draudimo pensijų įstatymo nustatyto senatvės pensijos amžiaus ir dėl to nutraukė darbo sutartį, šio straipsnio 3–7 dalyse nustatytomis sąlygomis iš valstybės biudžeto lėšų skiriama ir kas mėnesį mokama 6 MGL dydžio kompensacinė išmoka teatrų ir koncertinių įstaigų kūrybiniams darbuotojams (toliau šiame straipsnyje – kompensacinė išmoka). Kompensacinės išmokos mokamos, kol jų gavėjui sukaks senatvės pensijos amžius, išskyrus šio straipsnio 4 ir 5 dalyse numatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
+ 
 
 
 
@@ -428,19 +436,22 @@ Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010IS
 2. Šio straipsnio 1 dalyje nurodytos kompensacinės išmokos, esant šio straipsnio 4 ir 5 dalyse nustatytoms sąlygoms, skiriamos:
 
 
-1) baleto artistams ir šokėjams, turintiems ne mažesnį kaip 20 metų kūrybinio darbo profesionalioje scenoje stažą;
+1) baleto artistams ir šokėjams, turintiems ne mažesnį kaip 20 metų kūrybinio darbo Lietuvos profesionalioje scenoje stažą;
 
 
 
 
-2) grojantiems pučiamaisiais instrumentais muzikantams ir solistams vokalistams, turintiems ne mažesnį kaip 25 metų kūrybinio darbo profesionalioje scenoje stažą;
+2) grojantiems pučiamaisiais instrumentais muzikantams ir solistams vokalistams, turintiems ne mažesnį kaip 25 metų kūrybinio darbo Lietuvos profesionalioje scenoje stažą;
 
 
 
 
-3) choro artistams, turintiems ne mažesnį kaip 30 metų kūrybinio darbo profesionalioje scenoje stažą.
+3) choro artistams, turintiems ne mažesnį kaip 30 metų kūrybinio darbo Lietuvos profesionalioje scenoje stažą. Į šį stažą įskaitomas solisto vokalisto kūrybinio darbo Lietuvos profesionalioje scenoje stažas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
+ 
 
 
 
@@ -450,12 +461,18 @@ Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010IS
 
 
 
-4. Kompensacinės išmokos skiriamos ir mokamos tik asmenims, neturintiems teisės gauti didesnių arba tokio pat dydžio valstybinių socialinio draudimo netekto darbingumo (invalidumo) ar ištarnauto laiko pensijų, valstybinių pensijų, užsienio valstybių pensijų, nuolatinių pensinio pobūdžio išmokų už asmens darbo pobūdį (valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos, kompensacijos už ypatingas darbo sąlygas (toliau šiame straipsnyje – nuolatinės pensinio pobūdžio išmokos), pensijų išmokų, gaunamų bet kuriuo Pensijų kaupimo ir Papildomo savanoriško pensijų kaupimo įstatymuose nustatytu būdu (toliau šiame straipsnyje – pensijų išmokos). Jei asmuo gauna kelias pensijas (pensijų išmokas), nustatant jo teisę gauti kompensacinę išmoką atsižvelgiama į bendrą asmens gaunamų pensijų (pensijų išmokų) sumą.
+4. Kompensacinės išmokos mokamos tik asmenims, neturintiems teisės gauti didesnių arba tokio pat dydžio valstybinių socialinio draudimo senatvės, netekto darbingumo (invalidumo) ar ištarnauto laiko pensijų, valstybinių pensijų, užsienio valstybių pensijų, nuolatinių pensinio pobūdžio išmokų už asmens darbo pobūdį (valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos, kompensacijos už ypatingas darbo sąlygas (toliau šiame straipsnyje – nuolatinės pensinio pobūdžio išmokos), pensijų išmokų, gaunamų bet kuriuo Pensijų kaupimo ir Papildomo savanoriško pensijų kaupimo įstatymuose nustatytu būdu (toliau šiame straipsnyje – pensijų išmokos). Jei asmuo gauna kelias pensijas (pensijų išmokas), nustatant jo teisę gauti kompensacinę išmoką atsižvelgiama į bendrą asmens gaunamų pensijų (pensijų išmokų) sumą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
+ 
 
 
 
 
-5. Kai asmeniui priklausančios valstybinės socialinio draudimo netekto darbingumo (invalidumo) ar ištarnauto laiko pensijos, valstybinės pensijos, užsienio valstybių pensijos, nuolatinės pensinio pobūdžio išmokos, pensijų išmokos dydis (gaunantiems kelias pensijas ar pensijų išmokas – bendra šių pensijų ar pensijų išmokų suma) yra mažesnis(-ė) už asmeniui priklausančią kompensacinę išmoką, šiam asmeniui skiriama ir mokama jam priklausančios kompensacinės išmokos dalis, lygi skirtumui tarp asmeniui priklausančios kompensacinės išmokos ir asmens gaunamos valstybinės socialinio draudimo pensijos, valstybinės pensijos, užsienio valstybių pensijos, nuolatinės pensinio pobūdžio išmokos, pensijų išmokos (gaunantiems kelias pensijas ar pensijų išmokas – bendros šių pensijų ar pensijų išmokų sumos). Kūrybiniams darbuotojams, kuriems yra paskirtos ir mokamos valstybinio socialinio draudimo ištarnauto laiko pensijos ar kompensacijos už ypatingas darbo sąlygas, kompensacinės išmokos dalis skiriama ir mokama netaikant šio straipsnio 2 ir 3 dalyse nustatytų kūrybinio darbo profesionalioje scenoje stažo reikalavimų.
+5. Kai asmeniui priklausančios valstybinės socialinio draudimo senatvės, netekto darbingumo (invalidumo) ar ištarnauto laiko pensijos, valstybinės pensijos, užsienio valstybių pensijos, nuolatinės pensinio pobūdžio išmokos, pensijų išmokos dydis (gaunantiems kelias pensijas ar pensijų išmokas – bendra šių pensijų ar pensijų išmokų suma) yra mažesnis (-ė) už asmeniui priklausančią kompensacinę išmoką, šiam asmeniui mokama jam priklausančios kompensacinės išmokos dalis, lygi skirtumui tarp asmeniui priklausančios kompensacinės išmokos ir asmens gaunamos valstybinės socialinio draudimo pensijos, valstybinės pensijos, užsienio valstybių pensijos, nuolatinės pensinio pobūdžio išmokos, pensijų išmokos (gaunantiems kelias pensijas ar pensijų išmokas – bendros šių pensijų ar pensijų išmokų sumos). Kūrybiniams darbuotojams, kuriems yra paskirtos ir mokamos valstybinio socialinio draudimo ištarnauto laiko pensijos ar kompensacijos už ypatingas darbo sąlygas, kompensacinės išmokos dalis skiriama ir mokama netaikant šio straipsnio 2 ir 3 dalyse nustatytų kūrybinio darbo profesionalioje scenoje stažo reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
+ 
 
 
 
@@ -468,9 +485,10 @@ Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010IS
 
 
 
-7. Kompensacinė išmoka asmenims skiriama ir mokama nuo teisės gauti kompensacinę išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų kompensacinei išmokai skirti gavimo Vyriausybės įgaliotoje valstybės valdymo institucijoje dienos.
+7. Kompensacinė išmoka asmenims mokama nuo teisės gauti kompensacinę išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki dokumentų kompensacinei išmokai skirti gavimo Vyriausybės įgaliotoje valstybės valdymo institucijoje dienos. Kompensacinės išmokos suma, laiku negauta dėl išmoką skiriančios ar mokančios įstaigos kaltės, išmokama už praėjusį laiką netaikant šioje dalyje nustatyto 12 mėnesių termino.
 Straipsnio dalies pakeitimai:
 Nr. XI-2388, 2012-11-08, Žin., 2012, Nr. 136-6959 (2012-11-24), i. k. 1121010ISTA0XI-2388
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
  
 
 
@@ -810,3 +828,8 @@ Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 4, 5, 6, 7, 9, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-85, 2012-12-20, Žin., 2012, Nr. 155-7983 (2012-12-31), i. k. 1121010ISTA00XII-85
 Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 13 straipsnio papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-897, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05730
+Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 13 straipsnio pakeitimo įstatymas
