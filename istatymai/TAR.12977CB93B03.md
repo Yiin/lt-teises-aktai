@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2014-05-03 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2016-09-29
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -100,12 +100,25 @@ Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
 
 
 
-3. Laidojimo pašalpa taip pat mokama, kai šio straipsnio 1 dalyje nurodyto asmens vaikas gimsta negyvas. Šiuo atveju laidojimo pašalpa išmokama vienam iš gimusio negyvo vaiko tėvų arba kitam jį laidojančiam asmeniui.
+3. Laidojimo pašalpa taip pat mokama, kai šio straipsnio 1 dalyje nurodyto asmens vaikas gimsta negyvas arba gimė gyvas, tačiau mirė nesukakęs 3 mėnesių ir jo gyvenamoji vieta teisės aktų nustatyta tvarka nebuvo deklaruota Lietuvos Respublikoje. Šiuo atveju laidojimo pašalpa išmokama vienam iš gimusio negyvo ar mirusio vaiko tėvų arba kitam jį laidojančiam asmeniui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+ 
 
 
 
 
-4. Laidojimo pašalpa nemokama, kai laidojama valstybės ar savivaldybės biudžeto lėšomis.
+4. Savivaldybės tarybos nustatyta tvarka laidojimo pašalpa iš savivaldybės biudžeto lėšų gali būti mokama ir tais atvejais, kai šio straipsnio 1 dalyje nurodytų mirusių asmenų gyvenamoji vieta teisės aktų nustatyta tvarka nebuvo deklaruota Lietuvos Respublikoje. 
+Papildyta straipsnio dalimi:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+ 
+
+
+
+
+5. Laidojimo pašalpa nemokama, kai laidojama valstybės ar savivaldybės biudžeto lėšomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
  
 
 
@@ -127,7 +140,10 @@ Laidojimo pašalpa yra 8 bazinių socialinių išmokų dydžio. Laidojimo pašal
 5 straipsnis. Laidojimo pašalpos mokėjimo tvarka
 
 
-1. Laidojantis asmuo dėl laidojimo pašalpos gavimo turi kreiptis į savivaldybės administraciją pagal mirusio asmens buvusią deklaruotą gyvenamąją vietą arba laidojančio asmens deklaruotą gyvenamąją vietą ne vėliau kaip per šešis mėnesius nuo šios teisės atsiradimo dienos, pateikdamas prašymą ir mirties liudijimą (tais atvejais, kai vaikas gimė negyvas, – gimimo įrašo nuorašą).
+1. Laidojantis asmuo dėl laidojimo pašalpos gavimo turi kreiptis į savivaldybės administraciją pagal mirusio asmens buvusią deklaruotą gyvenamąją vietą, šio įstatymo 3 straipsnio 4 dalyje numatytu atveju – paskutinę buvusią gyvenamąją vietą arba laidojančio asmens deklaruotą gyvenamąją vietą ne vėliau kaip per šešis mėnesius nuo šios teisės atsiradimo dienos, pateikdamas prašymą ir mirties liudijimą (tais atvejais, kai vaikas gimė negyvas, – gimimo įrašo nuorašą).
+Straipsnio dalies pakeitimai:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+ 
 
 
 
@@ -163,7 +179,10 @@ Laidojimo pašalpa yra 8 bazinių socialinių išmokų dydžio. Laidojimo pašal
 6 straipsnis. Laidojimo pašalpų finansavimas
 
 
-1. Laidojimo pašalpos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams. 
+1. Laidojimo pašalpos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams, o šio įstatymo 3 straipsnio 4 dalyje numatytu atveju – iš savivaldybės biudžeto lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
+ 
 
 
 
