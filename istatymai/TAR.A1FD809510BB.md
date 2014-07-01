@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-09-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -376,23 +376,23 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
+61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
 
-1. Juridinių asmenų dalyvių informacinei sistemai teikiami šie duomenys apie mažosios bendrijos narius:
+1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie mažosios bendrijos narius: 
 
 
-1) mažosios bendrijos nario vardas, pavardė;
-
-
-
-
-2) mažosios bendrijos nario asmens kodas;
+1) mažosios bendrijos nario vardas, pavardė; 
 
 
 
 
-3) mažosios bendrijos nario gyvenamoji vieta arba adresas korespondencijai. Jeigu mažosios bendrijos narys mažajai bendrijai yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinei sistemai teikiamas tik adresas korespondencijai;
+2) mažosios bendrijos nario asmens kodas; 
+
+
+
+
+3) mažosios bendrijos nario gyvenamoji vieta arba adresas korespondencijai. Jeigu mažosios bendrijos narys mažajai bendrijai yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai; 
 
 
 
@@ -409,12 +409,12 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinei sistemai pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus mažosios bendrijos nariams ar jų duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos.
+2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus mažosios bendrijos nariams ar jų duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos. 
 
 
 
 
-3. Už mažosios bendrijos narių duomenų pateikimą Juridinių asmenų dalyvių informacinei sistemai atsako:
+3. Už mažosios bendrijos narių duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako:
 
 
 1) mažosios bendrijos vadovas, kai mažoji bendrija turi vienasmenį valdymo organą;
@@ -432,8 +432,33 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-Papildyta straipsniu:
-Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+
+
+4. Juridinių asmenų dalyvių informacinėje sistemoje kaupiama informacija turintiems teisę ją gauti asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji:
+
+
+1) teikiama mažosios bendrijos nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
+
+
+
+
+2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
+
+
+
+
+3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti.
+
+
+
+
+
+
+5. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
+
+
+Straipsnio pakeitimai:
+Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
  
 
 
@@ -1035,9 +1060,11 @@ Mažosios bendrijos narių susirinkimo sprendimas laikomas priimtu, kai už jį 
 
 
 
-9) teikia Juridinių asmenų dalyvių informacinei sistemai duomenis apie mažosios bendrijos narius; 
+9) teikia Juridinių asmenų dalyvių informacinės sistemos tvarkytojui duomenis apie mažosios bendrijos narius;
 Papildyta straipsnio punktu:
 Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+Straipsnio punkto pakeitimai:
+Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
  
 
 
@@ -1752,14 +1779,14 @@ Vyriausybės įgaliota valstybės institucija ar įstaiga atlieka šio įstatymo
 
 
 
-311 straipsnis. Įstatymo taikymas
+311 straipsnis. Įstatymo taikymas
 
 
-Mažosios bendrijos, įsteigtos iki 2013 m. rugsėjo 1 d., šio įstatymo 61 straipsnyje nurodytus duomenis apie savo narius Juridinių asmenų dalyvių informacinei sistemai pateikia iki 2014 m. sausio 1 d.
+Mažosios bendrijos, įsteigtos iki 2014 m. liepos 1 d., šio įstatymo 61 straipsnyje nurodytus duomenis apie savo narius Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikia iki 2014 m. spalio 1 d.
 
 
-Papildyta straipsniu:
-Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+Straipsnio pakeitimai:
+Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
  
 
 
@@ -1805,3 +1832,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
 Lietuvos Respublikos mažųjų bendrijų įstatymo 21 straipsnio pakeitimo ir įstatymo papildymo 6-1, 31-1 straipsniais įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1, 21 ir 31-1 straipsnių pakeitimo įstatymas
