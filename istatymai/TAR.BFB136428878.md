@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BFB136428878"
 
 # Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 12-230, i. k. 0971010ISTA0VIII-97
  
@@ -40,8 +40,11 @@ Lietuvos Respublikos kariškiai, vidaus reikalų sistemos pareigūnai, sukarint�
 tautiškai nusiteikusi Lietuvos inteligentija priešinosi nacistiniam okupaciniam režimui, kvietė gyventojus nebendradarbiauti su nacistinio režimo institucijomis; visuomenės pastangomis buvo sužlugdytas SS batalionų Lietuvoje formavimas;
 buvo siekiama ir nuolatos ieškoma būdų ir galimybių atkurti nepriklausomą Lietuvos valstybę;
 Lietuvos piliečiai tremtyje ir GULAG’o lageriuose įvairiais būdais kovojo prieš smurtą ir okupacinį režimą;
+nacistinės Vokietijos okupacijos metais, nepaisydami gresiančio pavojaus savo ir šeimų gyvybei, Lietuvos gyventojai gelbėjo mirčiai pasmerktus žydus;
 atsižvelgdamas į tai, kad 1996 m. lapkričio 28 d. įstatymu Nr. VIII-11 ginkluoto pasipriešinimo (rezistencijos) dalyviai paskelbti Lietuvos kariais savanoriais ir pripažinti jų kariniai laipsniai bei apdovanojimai, 
 priima šį įstatymą.
+Preambulės pakeitimai:
+Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
  
 
 
@@ -142,12 +145,19 @@ Laisvės kovų dalyviams prilygintais asmenimis pripažįstami:
 
 
 
-2) asmenys, kurie organizavo ar dalyvavo GULAG’o politinių kalinių masiniuose streikuose ir streikų malšinimo metu žuvo arba po numalšinimo buvo nuteisti papildoma bausme ar perkelti į uždaruosius kalėjimus ar kitus ypatinguosius lagerius.
+2) asmenys, kurie organizavo ar dalyvavo GULAG’o politinių kalinių masiniuose streikuose ir streikų malšinimo metu žuvo arba po numalšinimo buvo nuteisti papildoma bausme ar perkelti į uždaruosius kalėjimus ar kitus ypatinguosius lagerius;
+
+
+
+
+3) žydų gelbėtojai holokausto metu.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
  
-
-
-
-
 
 
 
@@ -255,3 +265,8 @@ Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1235, 2007-06-28, Žin., 2007, Nr. 81-3311 (2007-07-21), i. k. 1071010ISTA00X-1235
 Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
+Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijos dalyvių teisinio statuso įstatymo Nr. VIII-97 preambulės ir 5 straipsnio pakeitimo įstatymas
