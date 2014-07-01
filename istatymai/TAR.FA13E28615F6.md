@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2014-06-30
+Suvestinė redakcija nuo 2014-07-01 iki 2017-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -280,7 +280,18 @@ ANTRASIS SKIRSNIS
 
 
 
-4) informacija apie įstaigoje nustatytą šiurkštų tarnybinį nusižengimą ir už jį paskirtą galiojančią tarnybinę nuobaudą. Jeigu sprendimas dėl tarnybinės nuobaudos skyrimo buvo apskųstas įstatymų nustatyta tvarka, informacija skelbiama tik įsigaliojus teismo ar kitos tarnybinį ginčą nagrinėjusios institucijos sprendimui. 
+4) informacija (nuasmeninti duomenys) apie įstaigoje nustatytus tarnybinius nusižengimus ir už juos paskirtas galiojančias tarnybines nuobaudas. Jeigu sprendimas dėl tarnybinės nuobaudos skyrimo buvo apskųstas įstatymų nustatyta tvarka, informacija apie jį skelbiama tik įsigaliojus teismo ar kitos tarnybinį ginčą nagrinėjusios institucijos sprendimui; 
+Straipsnio punkto pakeitimai:
+Nr. XII-871, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05357
+ 
+
+
+
+
+5) informacija (nuasmeninti duomenys) apie įstaigos valstybės tarnautojų gautus paskatinimus ir apdovanojimus.
+Papildyta straipsnio punktu:
+Nr. XII-871, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05357
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -692,3 +703,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1980, 2012-04-19, Žin., 2012, Nr. 51-2529 (2012-05-03), i. k. 1121010ISTA0XI-1980
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-871, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05357
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 6 straipsnio pakeitimo įstatymas
