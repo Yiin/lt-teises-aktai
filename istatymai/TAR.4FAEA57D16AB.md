@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FAEA57D16AB"
 
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymas
 
-Suvestinė redakcija nuo 2011-12-30 iki 2014-07-02
+Suvestinė redakcija nuo 2014-07-03 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 141-5405, i. k. 1061010ISTA000X-980
  
@@ -77,6 +77,10 @@ Vilnius
 
 
 1. Teisę gauti Respublikos Prezidento valstybinę našlių rentą turi mirusio Respublikos Prezidento sutuoktinis Lietuvos Respublikos pilietis (toliau – našlys (našlė).
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruodžio 12 d. redakcija; Žin., 2006, Nr. 141-5405) 4 straipsnio 1 dalis prieštarauja Lietuvos Respublikos Konstitucijos 52 straipsniui, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT34-N9/2014, 2014-07-03, paskelbta TAR 2014-07-03, i. k. 2014-09761
+ 
 
 
 
@@ -275,3 +279,8 @@ Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 7 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. 1111010ISTA0XI-1649
 Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT34-N9/2014, 2014-07-03, paskelbta TAR 2014-07-03, i. k. 2014-09761
+Dėl Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruodžio 12 d. redakcija) kai kurių nuostatų atitikties Lietuvos Respublikos Konstitucijai
