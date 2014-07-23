@@ -2320,24 +2320,16 @@ saulės šviesos energijos elektrinės, saulės šilumos energijos kolektoriai, 
 30 kW įrengtosios galios vėjo elektrinės, neviršijančios teisės aktuose
 nustatyto triukšmo lygio, ir šilumos siurbliai įrengiami be statybą leidžiančio
 dokumento.
-8. Vėjo
-elektrinių projektavimo darbai ir statybos vietos teritorijose, kuriose,
-atsižvelgiant į nacionalinio saugumo klausimus, gali būti taikomi tam tikri
-apribojimai, iš anksto, teritorijų planavimo metu, derinami su Lietuvos
-kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta
-tvarka.
-Redakcija nuo
-2014-07-01:
 8. Vėjo elektrinių statybos
 vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus,
 taikomi apribojimai, iš anksto, teritorijų planavimo metu, derinamos su
 Lietuvos kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų
 nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu
-planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti
-panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo
-elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones,
-vėjo elektrinių statybos vietos derinamos su sąlyga, kad gamintojas ne vėliau
-kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai
+planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant
+papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių
+keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo
+elektrinių statybos vietos derinamos su sąlyga, kad gamintojas ne vėliau kaip
+iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai
 institucijai pateiks patvirtintą statybos projektą ir su šia institucija
 pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms
 išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui
@@ -2348,10 +2340,17 @@ numatomų įrengti elektrinės pajėgumų dydį (kW) iš 65 litų už 1 kW. Komp
 mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų
 nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip
 valstybės biudžeto asignavimai.
+9. Statant 1 MW ir
+mažesnės įrengtosios galios biodujų gamybos įrenginius esamų kitos (fermų)
+paskirties pastatų žemės sklypuose, pagrindinė žemės naudojimo paskirtis
+nekeičiama ir šių atsinaujinančių išteklių energetikos objektų statyba nėra
+numatoma teritorijų planavimo dokumentuose.
 Straipsnio pakeitimai:
 Nr.
 XII-847, 2014-04-24,
 paskelbta TAR 2014-05-02, i. k. 2014-05001
+Nr. XII-1020, 2014-07-10,
+paskelbta TAR 2014-07-22, i. k. 2014-10427
  
 50 straipsnis.
 Atsinaujinančių išteklių energijos naudojimas pastatuose
@@ -2372,8 +2371,8 @@ savivaldybių institucijų, įstaigų ir įmonių nauji pastatai ir esami pastat
 kuriuos reikia kapitališkai atnaujinti, turi atitikti atsinaujinančių išteklių
 energijos naudojimo reikalavimus.
 4. Vyriausybė ar jos
-įgaliota institucija nustato šio straipsnio 2 ir 3 dalyse nurodytus reikalavimus
-ir jų įgyvendinimo kontrolės tvarką.
+įgaliota institucija nustato šio straipsnio 2 ir 3 dalyse nurodytus
+reikalavimus ir jų įgyvendinimo kontrolės tvarką.
 5. Vyriausybė ar
 jos įgaliota institucija parengia ir patvirtina finansinės paramos schemas
 energijos beveik nevartojančių pastatų statybai remti.
@@ -2419,18 +2418,10 @@ ministerija organizuoja keitimąsi patirtimi atsinaujinančių energijos ištekl
 naudojimo srityje tarp valstybės ir savivaldybių institucijų, įstaigų, įmonių,
 organizacijų, privačių subjektų ir viešai skelbia gerosios praktikos
 pavyzdžius.
-5. Lietuvos
-kariuomenė Vyriausybės nustatyta tvarka teikia informaciją apie Lietuvos
-Respublikos teritorijas, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus,
-gali būti taikomi tam tikri apribojimai vėjo elektrinėms projektuoti ir
-statyti.
-Redakcija nuo
-2014-07-01:
 5. Lietuvos kariuomenė
 Vyriausybės nustatyta tvarka teikia informaciją apie teritorijas, kuriose,
 atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi apribojimai vėjo
 elektrinėms projektuoti ir statyti.
- 
 6. Valstybės
 įmonė Energetikos agentūra rengia, teikia ir viešai skelbia informaciją apie sistemas
 ir įrenginius, naudojančius atsinaujinančius energijos išteklius, jų teikiamą
@@ -2511,8 +2502,8 @@ plėtojimo ir naujų biomasės išteklių sutelkimo skirtingoms reikmėms politi
 4) priemonės, susijusios su administracinių procedūrų
 supaprastinimu, reglamentų ir kitų teisės aktų nuostatomis, susijusiomis su
 atsinaujinančių energijos išteklių naudojimo skatinimu, informavimu ir mokymu
-atsinaujinančių energijos išteklių srityje, iš atsinaujinančių energijos išteklių
-pagamintos elektros energijos, šilumos ir vėsumos energijos kilmės
+atsinaujinančių energijos išteklių srityje, iš atsinaujinančių energijos
+išteklių pagamintos elektros energijos, šilumos ir vėsumos energijos kilmės
 garantijomis, prieigos prie energetikos tinklų ar sistemų ir jų eksploatavimo
 palengvinimu gamintojams, biodegalų ir skystųjų bioproduktų tvarumo kriterijų
 sistemos įgyvendinimu;
@@ -2577,10 +2568,10 @@ planinius rodiklius, ne vėliau kaip per 18 mėnesių nuo skaičiuojamojo
 laikotarpio pabaigos patvirtina atnaujintą Nacionalinį atsinaujinančių išteklių
 energijos naudojimo plėtros veiksmų planą ir jame nustato adekvačias ir
 proporcingas priemones, skirtas užtikrinti, kad per pagrįstą laikotarpį
-atsinaujinančių išteklių energijos dalis atitiktų šio įstatymo
-55 straipsnyje nustatytus nacionalinius planinius rodiklius, ir užtikrina,
-kad atnaujintas Nacionalinis atsinaujinančių išteklių energijos naudojimo
-plėtros veiksmų planas būtų pateiktas Europos Komisijai.
+atsinaujinančių išteklių energijos dalis atitiktų šio įstatymo 55 straipsnyje
+nustatytus nacionalinius planinius rodiklius, ir užtikrina, kad atnaujintas
+Nacionalinis atsinaujinančių išteklių energijos naudojimo plėtros veiksmų
+planas būtų pateiktas Europos Komisijai.
 3. Jeigu manoma, kad
 šio įstatymo 1 straipsnio 4 dalyje nurodytas nacionalinis planinis
 rodiklis nebus pasiektas dėl nenugalimos jėgos, Vyriausybė ar jos įgaliota
@@ -2597,9 +2588,9 @@ nustatytiems nacionaliniams planiniams rodikliams pasiekti.
 institucija kiekvienai savivaldybei nustato minimalius iki 2020 m.
 privalomus pasiekti atsinaujinančių išteklių energijos naudojimo planinius
 rodiklius. Šiuos rodiklius ir priemones jiems pasiekti savivaldybės įtraukia į
-savo atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planus. Savivaldybės
-nusistato tarpinius atsinaujinančių išteklių energijos naudojimo planinius
-rodiklius 2011–2012 m., 2013–2014 m., 2015–2016 m.,
+savo atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planus.
+Savivaldybės nusistato tarpinius atsinaujinančių išteklių energijos naudojimo
+planinius rodiklius 2011–2012 m., 2013–2014 m., 2015–2016 m.,
 2017–2018 m.
 3. Savivaldybės
 pasitvirtina ir viešai skelbia savo 2011–2020 m. atsinaujinančių išteklių
@@ -2771,8 +2762,8 @@ vėsumos energijos kiekis, apie kurį pranešama vykdant Lietuvos Respublikos ir
 kitos valstybės narės (ar kitų valstybių narių) bendrus projektus šiame
 straipsnyje nustatyta tvarka:
 1) atimamas iš atsinaujinančių
-išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos
-Respublika įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius
+išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika
+įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius
 nacionalinius planinius rodiklius, tuo atveju, kai nurodytas elektros
 energijos, šilumos ar vėsumos energijos kiekis Lietuvos Respublikoje
 pagaminamas kitos valstybės narės naudai;
@@ -2789,8 +2780,8 @@ straipsnis. Bendri projektai su užsienio valstybėmis
 institucija gali inicijuoti, vykdyti ir (ar) dalyvauti vykdant visų tipų
 bendrus projektus tarp Lietuvos Respublikos ir užsienio valstybės (ar užsienio
 valstybių), susijusius su elektros energijos gamyba iš atsinaujinančių
-energijos išteklių. Tokiuose projektuose gali dalyvauti ir kitos valstybės
-narės. Į tokius bendrus projektus su užsienio valstybėmis gali būti įtraukti ir
+energijos išteklių. Tokiuose projektuose gali dalyvauti ir kitos valstybės narės.
+Į tokius bendrus projektus su užsienio valstybėmis gali būti įtraukti ir
 privatūs asmenys.
 2. Susitarimai dėl bendrų
 projektų su užsienio valstybėmis vykdymo sudaromi Vyriausybės nustatyta tvarka.
@@ -2829,15 +2820,15 @@ institucija gali kreiptis į Europos Komisiją, prašydamos Lietuvos Respublikos
 bendrojo planinio rodiklio įvertinimo tikslais apskaičiuojant atsinaujinančių
 išteklių energijos dalį, atsižvelgti į atsinaujinančių išteklių elektros
 energiją, pagamintą ir suvartotą užsienio valstybėje, kai jungiamosios linijos
-tarp Lietuvos Respublikos ir užsienio valstybės tiesimo parengiamasis
-laikotarpis labai ilgas, tokiomis sąlygomis:
+tarp Lietuvos Respublikos ir užsienio valstybės tiesimo parengiamasis laikotarpis
+labai ilgas, tokiomis sąlygomis:
 1) jungiamosios linijos tiesimas
 turi būti pradėtas ne vėliau kaip 2016 m. gruodžio 
 31 d.;
 2) turi būti neįmanoma pradėti
 eksploatuoti jungiamąją liniją ne vėliau kaip 2020 m. gruodžio 31 d.;
-3) turi būti įmanoma pradėti
-eksploatuoti jungiamąją liniją ne vėliau kaip 2022 m. gruodžio 31 d.;
+3) turi būti įmanoma pradėti eksploatuoti
+jungiamąją liniją ne vėliau kaip 2022 m. gruodžio 31 d.;
 4) pradėjus eksploatuoti
 jungiamąją liniją, ji bus naudojama elektros energijai, gaminamai iš
 atsinaujinančių energijos išteklių, eksportuoti į Europos Sąjungą, kaip
@@ -2890,8 +2881,8 @@ rodiklių įgyvendinimui.
 straipsnis. Bendrų projektų su užsienio valstybėmis rezultatai
 1. Per 3 mėnesius, pasibaigus
 kiekvieniems šio įstatymo 61 straipsnio 7 dalies 3 punkte nustatyto laikotarpio
-metams, Vyriausybės nustatyta tvarka jos įgaliota institucija parengia
-pranešimą, kuriame nurodo:
+metams, Vyriausybės nustatyta tvarka jos įgaliota institucija parengia pranešimą,
+kuriame nurodo:
 1) bendrą elektros energijos
 kiekį, per tuos metus pagamintą įrenginyje iš atsinaujinančių energijos
 išteklių ir kuris nurodytas Europos Komisijai pateiktame pranešime bendro
@@ -2906,12 +2897,11 @@ rodiklį remiantis pranešimo sąlygomis;
 institucija šio straipsnio 1 dalyje nurodytą pranešimą siunčia užsienio
 valstybei, kuri pagal šio įstatymo 61 straipsnio 7 dalies 4 punktą patvirtino
 bendrą projektą, ir Europos Komisijai.
-3. Elektros energijos kiekis,
-pagamintas iš atsinaujinančių energijos išteklių, apie kurį pranešta pagal šio
-straipsnio 1 dalies 2 punktą, pridedamas prie atsinaujinančių išteklių
-energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika
-įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius
-nacionalinius planinius rodiklius.
+3. Elektros energijos kiekis, pagamintas
+iš atsinaujinančių energijos išteklių, apie kurį pranešta pagal šio straipsnio
+1 dalies 2 punktą, pridedamas prie atsinaujinančių išteklių energijos kiekio, į
+kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo
+55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius.
  
 63
 straipsnis. Bendros paramos schemos su kitomis valstybėmis narėmis
@@ -2980,12 +2970,12 @@ dujų sektoriuose reikalavimai, nustatyti Energetikos įstatyme, Elektros
 energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme ir jų
 įgyvendinamuosiuose teisės aktuose.
 2. Šio įstatymo 14
-straipsnio 16 dalies nuostatos taikomos ir tiems gamintojams, kurie pagal
-išduotus leidimus plėtoti elektros energijos gamybos iš atsinaujinančių
-išteklių pajėgumus iki šio įstatymo įsigaliojimo dienos su elektros tinklų
-operatoriumi nesudarė elektrinės prijungimo prie elektros tinklų paslaugos
-sutarties, bet kurie pretenduoja gauti paramą pagal šio įstatymo
-20 straipsnyje nustatytas paramos schemas.
+straipsnio 16 dalies nuostatos taikomos ir tiems gamintojams, kurie pagal išduotus
+leidimus plėtoti elektros energijos gamybos iš atsinaujinančių išteklių
+pajėgumus iki šio įstatymo įsigaliojimo dienos su elektros tinklų operatoriumi
+nesudarė elektrinės prijungimo prie elektros tinklų paslaugos sutarties, bet
+kurie pretenduoja gauti paramą pagal šio įstatymo 20 straipsnyje
+nustatytas paramos schemas.
 3. Biokuru,
 biodegalais, biodujomis, biotepalais ir bioalyvomis prekiaujama pagal dvišales
 pirkimo–pardavimo sutartis ir kitais teisės aktuose nustatytais būdais.
@@ -3021,8 +3011,8 @@ metanu.
 67 straipsnis.
 Įstatymo įsigaliojimas
 1. Šis įstatymas, išskyrus 3, 16,
-17, 19, 23, 24, 25, 32, 36, 39, 41, 44, 45, 48, 49 ir 50 straipsnius,
-įsigalioja nuo paskelbimo leidinyje „Valstybės žinios“ dienos. 
+17, 19, 23, 24, 25, 32, 36, 39, 41, 44, 45, 48, 49 ir 50 straipsnius, įsigalioja
+nuo paskelbimo leidinyje „Valstybės žinios“ dienos. 
 2. Šio įstatymo 3, 16, 17, 19,
 23, 24, 25, 32, 36, 39, 41, 44, 48, 49 ir 50 straipsniai įsigalioja 2011 m. gruodžio
 31 d.
@@ -3034,11 +3024,12 @@ Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ     
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
 
 
 
 
+ 
 Lietuvos Respublikos
 
 atsinaujinančių
@@ -3053,9 +3044,9 @@ TEISĖS AKTAI
 23 d. Europos Parlamento ir Tarybos direktyva 2009/28/EB dėl skatinimo
 naudoti atsinaujinančių išteklių energiją, iš dalies keičianti bei vėliau
 panaikinanti Direktyvas 2001/77/EB ir 2003/30/EB (OL 2009 L 140, p. 16).
-2. 2009 m. liepos 13 d. Europos
-Parlamento ir Tarybos Direktyva 2009/72/EB dėl elektros energijos vidaus rinkos
-bendrųjų taisyklių, panaikinanti Direktyvą 2003/54/EB (OL 2009 L 211, p. 55).
+2. 2009 m. liepos 13 d. Europos Parlamento
+ir Tarybos Direktyva 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų
+taisyklių, panaikinanti Direktyvą 2003/54/EB (OL 2009 L 211, p. 55).
 3. 2009 m. liepos
 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų
 vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L
@@ -3116,22 +3107,27 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS
 2014 m. sausio 1 d.
  
 6.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XII-847,
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-847,
 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05001
-LIETUVOS
-RESPUBLIKOS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 49 IR 51
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ATSINAUJINANČIŲ
+IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 49 IR 51 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2
 dalį, įsigalioja 2014 m. liepos 1 d.
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1020,
+2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10427
+LIETUVOS RESPUBLIKOS ATSINAUJINANČIŲ
+IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 49 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-05-06)
+Aušrinė Trapinskienė (2014-07-23)
                  
 ausrine.trapinskiene@lrs.lt
