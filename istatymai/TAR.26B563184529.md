@@ -1556,26 +1556,27 @@ valstybės tarnautojas (Teritorijų planavimo komisijos pirmininkas);
 2)
 Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų
 ministerijos atstovas;
-3) Aplinkos
-ministerijos regiono aplinkos apsaugos departamento atstovas;
+3) Aplinkos ministerijos
+įgaliotos institucijos, atsakingos už aplinkos apsaugą, atstovas;
 4) visuomenės
 sveikatos centro apskrityje atstovas;
 5) saugomos teritorijos
-direkcijos įgaliotas atstovas – kai planuojama teritorija patenka į saugomą
-teritoriją, kurioje yra įsteigta saugomos teritorijos direkcija;
+direkcijos įgaliotas atstovas – kai planuojama teritorija patenka į valstybinius parkus, valstybinius
+draustinius, valstybinius rezervatus, biosferos rezervatus, biosferos
+poligonus, atkuriamuosius ir genetinius sklypus;
 6) Kultūros
 paveldo departamento prie Kultūros ministerijos įgaliotas atstovas – kai į
 planuojamą teritoriją patenka nekilnojamasis kultūros paveldas, jo teritorijos
 ar jų apsaugos zonos; 
 7)
 kiti planavimo sąlygas išdavusių institucijų atstovai.
-5. Konkretaus
-teritorijų planavimo dokumento derinimo atveju Teritorijų planavimo komisijos
-pirmininkas, pasinaudodamas Lietuvos Respublikos teritorijų planavimo dokumentų
-rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacine
-sistema, kitą darbo dieną po planavimo organizatoriaus prašymo derinti
-teritorijų planavimo dokumentą pateikimo dienos paskelbia Teritorijų planavimo
-komisijos nariams apie pateiktą derinti teritorijų planavimo dokumentą. 
+5. Konkretaus teritorijų
+planavimo dokumento derinimo atveju Teritorijų planavimo komisijos pirmininkas,
+pasinaudodamas Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir
+teritorijų planavimo proceso valstybinės priežiūros informacine sistema, kitą
+darbo dieną po planavimo organizatoriaus prašymo derinti teritorijų planavimo
+dokumentą pateikimo dienos paskelbia Teritorijų planavimo komisijos nariams
+apie pateiktą derinti teritorijų planavimo dokumentą. 
 6. Savivaldybės
 lygmens ir vietovės lygmens kompleksinio teritorijų planavimo dokumentų
 derinimo metu patikrinama, ar:
@@ -1603,23 +1604,23 @@ komisijos pirmininkas, nepasibaigus derinimo terminui, gali organizuoti
 Teritorijų planavimo komisijos posėdį. 
 8. Savivaldybės
 lygmens ir vietovės lygmens kompleksinio teritorijų planavimo dokumento
-derinimas atliekamas ne vėliau kaip per 10 darbo dienų nuo planavimo
-organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą
-pateikimo dienos. Visos derinimo procedūros atliekamos ir sprendimai derinti ar
-nederinti teritorijų planavimo dokumentą paskelbiami Lietuvos Respublikos
-teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso
-valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų
-planavimo dokumentas yra suderintas, jeigu jam pritaria Teritorijų planavimo
-komisijos nariai. Jeigu Teritorijų planavimo komisijos narys nepritaria
-sprendimui, jis nepritarimo motyvus raštu per 5 darbo dienas nuo planavimo
-organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą
-pateikimo dienos pateikia Teritorijų planavimo komisijos pirmininkui. Jeigu
-šios komisijos pirmininkas mano, kad komisijos nario nepritarimas nėra tinkamai
-motyvuotas, jis kreipiasi į instituciją, delegavusią šį komisijos narį,
-prašydamas patvirtinti arba pripažinti nepagrįstais komisijos nario nepritarimo
-motyvus. Institucija, į kurią kreipiasi Teritorijų planavimo komisijos
-primininkas, privalo per 5 darbo dienas nuo tokio kreipimosi gavimo dienos pateikti
-savo išvadas.
+derinimas atliekamas ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus
+prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos.
+Visos derinimo procedūros atliekamos ir sprendimai derinti ar nederinti
+teritorijų planavimo dokumentą paskelbiami Lietuvos Respublikos teritorijų
+planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės
+priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo
+dokumentas yra suderintas, jeigu jam pritaria Teritorijų planavimo komisijos
+nariai. Jeigu Teritorijų planavimo komisijos narys nepritaria sprendimui, jis
+nepritarimo motyvus raštu per 5 darbo dienas nuo planavimo organizatoriaus
+prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos
+pateikia Teritorijų planavimo komisijos pirmininkui. Jeigu šios komisijos
+pirmininkas mano, kad komisijos nario nepritarimas nėra tinkamai motyvuotas,
+jis kreipiasi į instituciją, delegavusią šį komisijos narį, prašydamas
+patvirtinti arba pripažinti nepagrįstais komisijos nario nepritarimo motyvus.
+Institucija, į kurią kreipiasi Teritorijų planavimo komisijos primininkas,
+privalo per 5 darbo dienas nuo tokio kreipimosi gavimo dienos pateikti savo
+išvadas.
 9. Jeigu
 kompleksinio teritorijų planavimo dokumentui nepritariama, pateikiami
 nepritarimo motyvai. Teritorijų
@@ -1630,8 +1631,8 @@ organizatorius, planavimo iniciatorius, teritorijų planavimo vadovas, planavimo
 sąlygas išduodančios ir teritorijų planavimo dokumentą derinančios,
 tikrinančios, tvirtinančios institucijos ir visuomenė turi teisę, pasinaudodami
 Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų
-planavimo proceso valstybinės priežiūros informacine sistema, gauti visą su
-kompleksinio teritorijų planavimo dokumento derinimu susijusią informaciją.
+planavimo proceso valstybinės priežiūros informacine sistema, gauti visą su kompleksinio
+teritorijų planavimo dokumento derinimu susijusią informaciją.
 11. Kompleksinio
 teritorijų planavimo dokumentą derinantys asmenys už savo pagal kompetenciją
 priimtų sprendimų teisėtumą asmeniškai atsako įstatymų nustatyta tvarka.
@@ -1665,8 +1666,8 @@ kompleksinio teritorijų planavimo dokumentas prieštarauja aukštesnio ar to
 paties lygmens teritorijų planavimo dokumentui, išskyrus šiame įstatyme
 numatytas išimtis;
 2) prieštarauja
-įstatymams ir kitiems teisės aktams, reglamentuojantiems teritorijų planavimo dokumentų
-rengimą.
+įstatymams ir kitiems teisės aktams, reglamentuojantiems teritorijų planavimo
+dokumentų rengimą.
 15. Tuo atveju,
 kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija
 kompleksinio teritorijų planavimo dokumento patikrinimo aktu nepritaria
@@ -1680,6 +1681,10 @@ planavimo dokumento teikimui tvirtinti. Teritorijų planavimo valstybinę
 priežiūrą atliekančios institucijos kompleksinio teritorijų planavimo dokumento
 patikrinimo aktas gali būti skundžiamas Administracinių bylų teisenos įstatymo
 nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. XII-1022,
+2014-07-15, paskelbta TAR 2014-07-22, i. k. 2014-10425
  
 27 straipsnis. Kompleksinio teritorijų planavimo
 dokumentų tvirtinimas ir įsigaliojimas
@@ -1723,8 +1728,9 @@ registre, jeigu sprendime dėl kompleksinio teritorijų planavimo dokumento
 patvirtinimo nenustatyta vėlesnė jo įsigaliojimo data. Oficialus informacinis
 pranešimas apie kompleksinio teritorijų planavimo dokumento patvirtinimą
 skelbiamas kompleksinio teritorijų planavimo dokumentą tvirtinančios
-institucijos svetainėje ir Lietuvos Respublikos teritorijų planavimo dokumentų rengimo
-ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje.
+institucijos svetainėje ir Lietuvos Respublikos teritorijų planavimo dokumentų
+rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje
+sistemoje.
 7. Jeigu
 savivaldybės administracijos direktorius nepatvirtina detaliojo plano per šiame
 įstatyme nustatytus terminus arba atsisako patvirtinti detalųjį planą ir
@@ -1886,22 +1892,22 @@ dokumentą priėmusios valstybės institucijos ar savivaldybės interneto
 svetainėje paskelbia kompleksinio teritorijų planavimo dokumentų sprendinių
 įgyvendinimo stebėsenos ataskaitą, kurioje išdėsto atliktos stebėsenos
 rezultatus, reikalingumą keisti kompleksinio teritorijų planavimo dokumentą.
-Tais atvejais, kai kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo
-stebėsenos ataskaitoje nurodoma, kad reikia keisti kompleksinio teritorijų
-planavimo dokumentą, planavimo organizatorius ne vėliau kaip per 3 mėnesius nuo
-ataskaitos paskelbimo dienos pateikia pasiūlymą sprendimą rengti atitinkamą
-kompleksinio teritorijų planavimo dokumentą priėmusiai valstybės ar
+Tais atvejais, kai kompleksinio teritorijų planavimo dokumentų sprendinių
+įgyvendinimo stebėsenos ataskaitoje nurodoma, kad reikia keisti kompleksinio
+teritorijų planavimo dokumentą, planavimo organizatorius ne vėliau kaip per 3
+mėnesius nuo ataskaitos paskelbimo dienos pateikia pasiūlymą sprendimą rengti
+atitinkamą kompleksinio teritorijų planavimo dokumentą priėmusiai valstybės ar
 savivaldybės institucijai priimti sprendimą keisti kompleksinio teritorijų
 planavimo dokumentą. Valstybės ar savivaldybės institucija, gavusi planavimo
 organizatoriaus pasiūlymą keisti kompleksinio teritorijų planavimo dokumentą,
 privalo priimti sprendimą keisti atitinkamą kompleksinio teritorijų planavimo
 dokumentą pagal planavimo organizatoriaus parengtą kompleksinio teritorijų
-planavimo dokumentų sprendinių įgyvendinimo stebėsenos ataskaitą arba motyvuotai
-atmesti pasiūlymą. Tais atvejais, kai kompleksinio teritorijų planavimo
-dokumentų sprendinių įgyvendinimo stebėsenos ataskaitoje nurodoma, kad reikia
-koreguoti kompleksinio teritorijų planavimo dokumentą, planavimo organizatorius
-ne vėliau kaip per vieną mėnesį nuo ataskaitos paskelbimo dienos priima
-sprendimą koreguoti kompleksinio teritorijų planavimo dokumentą.
+planavimo dokumentų sprendinių įgyvendinimo stebėsenos ataskaitą arba
+motyvuotai atmesti pasiūlymą. Tais atvejais, kai kompleksinio teritorijų
+planavimo dokumentų sprendinių įgyvendinimo stebėsenos ataskaitoje nurodoma,
+kad reikia koreguoti kompleksinio teritorijų planavimo dokumentą, planavimo
+organizatorius ne vėliau kaip per vieną mėnesį nuo ataskaitos paskelbimo dienos
+priima sprendimą koreguoti kompleksinio teritorijų planavimo dokumentą.
 8.
 Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenos
 turinį ir stebėsenos atlikimo tvarką nustato Aplinkos ministerija. 
@@ -1934,20 +1940,21 @@ parengiamasis;
 2) rengimo;
 3) baigiamasis. 
 4. Parengiamuoju
-etapu planavimo organizatorius pagal nustatytus planavimo tikslus numato planuojamą
-teritoriją, parengia ir patvirtina planavimo darbų programą. Planavimo darbų
-programoje numatomi konkretūs planavimo uždaviniai, nurodoma, ar turi būti
-atliekami tyrimai, galimybių studijos, ar rengimo etapu bus rengiama
-teritorijos vystymo koncepcija ir ar numatoma atlikti jos nepriklausomą
-profesinį vertinimą. Koncepcija rengiama, kai numatomos teritorijų planavimo
-dokumentų sprendinių alternatyvos, taip pat kitais Vyriausybės įgaliotų
-institucijų kartu su Aplinkos ministerija patvirtintose tam tikrose specialiojo
-teritorijų planavimo dokumentų rengimo taisyklėse nustatytais atvejais. Šiuo
-etapu planavimo organizatorius viešai paskelbia apie priimtą sprendimą dėl
-specialiojo teritorijų planavimo dokumento rengimo pradžios, planavimo tikslų
-ir planavimo darbų programą. Parengiamuoju etapu, jeigu planavimo darbų
-programoje numatyta, atliekami tyrimai, galimybių studijos. Be to, Vyriausybės
-nustatyta tvarka nustatoma, ar bus atliekamas SPAV.
+etapu planavimo organizatorius pagal nustatytus planavimo tikslus numato
+planuojamą teritoriją, parengia ir patvirtina planavimo darbų programą.
+Planavimo darbų programoje numatomi konkretūs planavimo uždaviniai, nurodoma,
+ar turi būti atliekami tyrimai, galimybių studijos, ar rengimo etapu bus
+rengiama teritorijos vystymo koncepcija ir ar numatoma atlikti jos
+nepriklausomą profesinį vertinimą. Koncepcija rengiama, kai numatomos
+teritorijų planavimo dokumentų sprendinių alternatyvos, taip pat kitais
+Vyriausybės įgaliotų institucijų kartu su Aplinkos ministerija patvirtintose
+tam tikrose specialiojo teritorijų planavimo dokumentų rengimo taisyklėse
+nustatytais atvejais. Šiuo etapu planavimo organizatorius viešai paskelbia apie
+priimtą sprendimą dėl specialiojo teritorijų planavimo dokumento rengimo
+pradžios, planavimo tikslų ir planavimo darbų programą. Parengiamuoju etapu,
+jeigu planavimo darbų programoje numatyta, atliekami tyrimai, galimybių
+studijos. Be to, Vyriausybės nustatyta tvarka nustatoma, ar bus atliekamas
+SPAV.
 5. Prieš
 pradėdamas rengti specialiojo teritorijų planavimo dokumentus, planavimo
 organizatorius ar jo įgaliotas asmuo Vyriausybės įgaliotos institucijos
@@ -2102,8 +2109,8 @@ Visuomenę su parengtais teritorijų planavimo dokumentais supažindina planavim
 organizatorius ar jo įgaliotas asmuo:
 1) susipažinti
 su parengtais valstybės lygmens teritorijų planavimo dokumentais skiriamas ne
-trumpesnis kaip 2 mėnesių laikotarpis, iš jo ne mažiau kaip vienas mėnuo – viešai
-ekspozicijai;
+trumpesnis kaip 2 mėnesių laikotarpis, iš jo ne mažiau kaip vienas mėnuo –
+viešai ekspozicijai;
 2) susipažinti
 su parengtais savivaldybės lygmens teritorijų planavimo dokumentais skiriamas
 ne trumpesnis kaip vieno mėnesio laikotarpis, iš jo ne mažiau kaip 15 darbo
@@ -2134,11 +2141,12 @@ naudotis žemės sklypais suvaržomos detaliojo plano sprendiniuose nustatomomis
 specialiosiomis žemės naudojimo sąlygomis. 
 6. Fiziniai
 asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų
-padaliniai, kuriems dėl visuomenės (viešojo) intereso numatoma nustatyti papildomus
-žemės ir kito nekilnojamojo turto naudojimo apribojimus, informuojami apie
-rengiamą teritorijų planavimo dokumentą Vyriausybės nustatyta tvarka. Fiziniams
-asmenims, juridiniams asmenims ar jų padaliniams, kitoms organizacijoms ar jų
-padaliniams
+padaliniai, kuriems dėl visuomenės (viešojo) intereso numatoma nustatyti
+papildomus žemės ir kito nekilnojamojo turto naudojimo apribojimus,
+informuojami apie rengiamą teritorijų planavimo dokumentą Vyriausybės nustatyta
+tvarka. Fiziniams asmenims, juridiniams asmenims ar jų padaliniams, kitoms
+organizacijoms ar
+jų padaliniams
 papildomi žemės ir kito nekilnojamojo turto naudojimo apribojimai dėl kitų
 asmenų privataus intereso teritorijų planavimo dokumentu gali būti nustatyti
 Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas)
@@ -2230,9 +2238,9 @@ dokumentų registro nuostatuose nustatyta tvarka.
 Vadovaujančioji Lietuvos Respublikos teritorijų planavimo dokumentų registro
 tvarkymo įstaiga – Aplinkos ministerija. Centrinė Lietuvos Respublikos
 teritorijų planavimo dokumentų registro tvarkymo įstaiga – Valstybinė
-teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. Lietuvos
-Respublikos teritorijų planavimo dokumentų registro tvarkymo įstaigos –
-savivaldybių administracijos.
+teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos.
+Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkymo įstaigos
+– savivaldybių administracijos.
 5. Lietuvos
 Respublikos teritorijų planavimo dokumentų registre kaupiami duomenys yra
 vieši, išskyrus įstatymų nustatytus apribojimus. Fiziniams ir juridiniams
@@ -2276,16 +2284,16 @@ technologijos mokslų srities statybos inžinerijos krypties urbanistinės
 inžinerijos šakos ar lygiavertį aukštąjį universitetinį išsilavinimą ir gavęs
 Aplinkos ministerijos šios veiklos atestatą pagal teritorijų planavimo
 dokumentų rūšis. Šis reikalavimas netaikomas Europos ekonominės erdvės
-valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems
-fiziniams asmenis, kurie naudojasi Europos Sąjungos teisės aktuose jiems
-suteiktomis judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos
-Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos
-institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie turi teisę
-vadovauti tokių dokumentų rengimui.
+valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems fiziniams
+asmenis, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis
+judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje
+teisėmis, jeigu jie turi kitos valstybės narės kompetentingos institucijos
+išduotą atestatą arba kitą dokumentą, įrodantį, kad jie turi teisę vadovauti
+tokių dokumentų rengimui.
  2. Specialiojo
 teritorijų planavimo dokumentų rengėjų ir vadovų, jeigu atitinkamos rūšies
-specialiojo teritorijų planavimo dokumentų rengimą reglamentuojantys įstatymai nenustato
-kitaip, teisės:
+specialiojo teritorijų planavimo dokumentų rengimą reglamentuojantys įstatymai
+nenustato kitaip, teisės:
 1) rengti
 specialiojo teritorijų planavimo dokumentus turi teisę fiziniai asmenys, šio
 įstatymo ir kitų teisės aktų nustatyta tvarka turintys teisę vadovauti
@@ -2316,8 +2324,8 @@ aplinkos ministro nustatyta tvarka. Atestatai išduodami ne vėliau kaip per
 vieną mėnesį nuo visų dokumentų atestatui gauti pateikimo dienos. 
 4. Atestatas
 pagal teritorijų planavimo dokumentų rūšis išduodamas neterminuotam laikui šio
-straipsnio 1 ir 2 dalyse nurodytiems asmenims, atitinkantiems šiuos kvalifikacinius
-reikalavimus:
+straipsnio 1 ir 2 dalyse nurodytiems asmenims, atitinkantiems šiuos
+kvalifikacinius reikalavimus:
 1) asmenys,
 vadovaujantys kompleksinio teritorijų planavimo dokumentų rengimui, privalo
 turėti šio straipsnio 1 dalies 2 punkte nurodytą išsilavinimą, ne mažesnę kaip
@@ -2344,9 +2352,9 @@ sprendimu atestato galiojimas gali būti sustabdomas 6 mėnesiams.
 teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad
 šio straipsnio 1 ir 2 dalyse nurodyti asmenys, rengdami teritorijų planavimo
 dokumentus ar vadovaudami jų rengimui, pažeidė įstatymų, kitų teisės aktų,
-teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali
-būti sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas
-atestatų galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams.
+teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali būti
+sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas atestatų
+galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams.
 7. Atestato
 turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo
 sustabdytas atestato galiojimas, pašalinti, atestato galiojimo sustabdymas
@@ -2449,13 +2457,13 @@ asmeniui skiriama bauda nuo trijų tūkstančių iki šešių tūkstančių lit�
 1. Už šio
 įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus atsako ir juridinių
 asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai.
-Nurodyti pažeidimai tiriami, nagrinėjami, nutarimai priimami, skundžiami ir vykdomi
-taikant administracinių teisės pažeidimų bylų nagrinėjimo procedūrą pagal
-Administracinių teisės pažeidimų kodeksą, išskyrus šiame straipsnyje nurodytus
-atvejus.
+Nurodyti pažeidimai tiriami, nagrinėjami, nutarimai priimami, skundžiami ir
+vykdomi taikant administracinių teisės pažeidimų bylų nagrinėjimo procedūrą
+pagal Administracinių teisės pažeidimų kodeksą, išskyrus šiame straipsnyje
+nurodytus atvejus.
 2. Dėl šio
-įstatymo 42, 43 ir 44 straipsniuose nurodytų pažeidimų protokolus surašo šio straipsnio
-6 dalyje nurodyti pareigūnai.
+įstatymo 42, 43 ir 44 straipsniuose nurodytų pažeidimų protokolus surašo šio
+straipsnio 6 dalyje nurodyti pareigūnai.
 3. Šio įstatymo
 42, 43 ir 44 straipsniuose nurodytus pažeidimus, susijusius su miškų tvarkymo
 schemomis, nagrinėja Valstybinė miškų tarnyba.
@@ -2508,16 +2516,16 @@ Asmenys, pažeidę
  
 49 straipsnis. Administracinių sprendimų,
 neatitinkančių šio įstatymo ir kitų teisės aktų nuostatų, panaikinimas
-1. Teritorijų
-planavimo proceso (iki teritorijų planavimo dokumento patvirtinimo) metu
-neteisėtai priimtus administracinius sprendimus suinteresuotų asmenų prašymu ar
-savo iniciatyva administracine tvarka panaikina šiuos sprendimus priėmę
-subjektai arba teismas. Kreiptis į sprendimus priėmusią instituciją ar teismą
-turi teisę asmenys, kurių teisės ir teisėti interesai yra pažeisti, taip pat
-šių asmenų skundų ar pranešimų pagrindu arba savo iniciatyva – pagal
-kompetenciją teritorijų planavimo valstybinę priežiūrą atliekančios
-institucijos, kiti viešojo administravimo subjektai, suinteresuotos visuomenės
-atstovai, gindami visuomenės (viešąjį) interesą.
+1. Teritorijų planavimo
+proceso (iki teritorijų planavimo dokumento patvirtinimo) metu neteisėtai
+priimtus administracinius sprendimus suinteresuotų asmenų prašymu ar savo
+iniciatyva administracine tvarka panaikina šiuos sprendimus priėmę subjektai
+arba teismas. Kreiptis į sprendimus priėmusią instituciją ar teismą turi teisę
+asmenys, kurių teisės ir teisėti interesai yra pažeisti, taip pat šių asmenų
+skundų ar pranešimų pagrindu arba savo iniciatyva – pagal kompetenciją
+teritorijų planavimo valstybinę priežiūrą atliekančios institucijos, kiti
+viešojo administravimo subjektai, suinteresuotos visuomenės atstovai, gindami
+visuomenės (viešąjį) interesą.
 2. Neteisėtai
 priimtą sprendimą dėl teritorijų planavimo dokumento patvirtinimo panaikina
 teismas. Teismas gali priimti administracinį sprendimą panaikinti visą
@@ -2570,21 +2578,21 @@ proceso tęstinumas
 Pagal šio
 įstatymo reikalavimus rengiami nauji teritorijų planavimo dokumentai turi
 neprieštarauti galiojantiems aukštesnio lygmens teritorijų planavimo
-dokumentams ir privalo įvertinti galiojančių teritorijų planavimo dokumentų
-sprendinius. Jeigu galiojančio žemesnio lygmens teritorijų planavimo dokumento
-sprendiniai neatitinka pagal šį įstatymą parengto naujo aukštesnio lygmens
-teritorijų planavimo dokumento sprendinių, galiojantis žemesnio lygmens
-teritorijų planavimo dokumentas neprivalo būti keičiamas ar koreguojamas ir
-galioja neterminuotai, išskyrus šio įstatymo 4 straipsnio 4 dalyje numatytus
-atvejus. Galiojantys žemesnio lygmens teritorijų planavimo dokumentai gali būti
-keičiami ar koreguojami aukštesnio lygmens kompleksinio teritorijų planavimo
+dokumentams ir privalo įvertinti galiojančių teritorijų planavimo dokumentų sprendinius.
+Jeigu galiojančio žemesnio lygmens teritorijų planavimo dokumento sprendiniai
+neatitinka pagal šį įstatymą parengto naujo aukštesnio lygmens teritorijų
+planavimo dokumento sprendinių, galiojantis žemesnio lygmens teritorijų
+planavimo dokumentas neprivalo būti keičiamas ar koreguojamas ir galioja
+neterminuotai, išskyrus šio įstatymo 4 straipsnio 4 dalyje numatytus atvejus.
+Galiojantys žemesnio lygmens teritorijų planavimo dokumentai gali būti keičiami
+ar koreguojami aukštesnio lygmens kompleksinio teritorijų planavimo
 organizatoriaus iniciatyva ir lėšomis. Asmenų patiriami nuostoliai, atsiradę
 dėl pakeistų žemesnio lygmens teritorijų planavimo dokumentų sprendinių,
-kompensuojami šiems asmenims raštu susitarus su planavimo organizatoriumi dėl nuostolių
-kompensavimo dydžio ir terminų. Ginčai dėl nuostolių kompensavimo sprendžiami
-teisme. Šios nuostatos netaikomos Žemės paėmimo visuomenės poreikiams
-įgyvendinant ypatingos valstybinės svarbos projektus įstatyme numatytais
-atvejais.
+kompensuojami šiems asmenims raštu susitarus su planavimo organizatoriumi dėl
+nuostolių kompensavimo dydžio ir terminų. Ginčai dėl nuostolių kompensavimo
+sprendžiami teisme. Šios nuostatos netaikomos Žemės paėmimo visuomenės
+poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme
+numatytais atvejais.
  
             Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
@@ -2966,12 +2974,21 @@ galiojimo, viešinimo ir ginčų sprendimo tvarką.
 Nauja
 įstatymo redakcija 
  
+26.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-1022,
+2014-07-15, paskelbta TAR 2014-07-22, i. k. 2014-10425
+LIETUVOS
+RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO NR. I-1120 26 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-07-17)
+Aušrinė Trapinskienė (2014-07-23)
                  
 ausrine.trapinskiene@lrs.lt
