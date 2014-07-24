@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-07-23
+Suvestinė redakcija nuo 2014-07-24 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -83,9 +83,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-5. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė, mažoji bendrija), įstaiga (viešoji įstaiga, biudžetinė įstaiga), šeimyna. 
+5. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą socialinių paslaugų įstaiga.  
 Straipsnio dalies pakeitimai:
 Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
  
@@ -125,9 +126,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-10. Socialinių paslaugų įstaiga – socialines paslaugas teikianti įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė, mažoji bendrija), įstaiga (viešoji įstaiga, biudžetinė įstaiga), organizacija (asociacija, labdaros ir paramos fondas, religinė bendruomenė ar bendrija (centras), šeimyna. 
+10. Socialinių paslaugų įstaiga – socialines paslaugas teikiantis Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje arba kitoje Europos ekonominės erdvės valstybėje įsisteigęs juridinis asmuo ar kita organizacija, jų padalinys, atitinkantys šiame įstatyme nustatytus reikalavimus. 
 Straipsnio dalies pakeitimai:
 Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
  
@@ -1875,3 +1877,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo 2 ir 30 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010ISTA0XI-2341
 Lietuvos Respublikos socialinių paslaugų įstatymo 23 ir 32 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 11, 13, 14, 19, 20, 21, 23, 24, 26, 29, 30, 31, 32, 38 straipsnių pakeitimo ir Įstatymo papildymo 14-1, 24-1 straipsniais įstatymas
