@@ -1063,8 +1063,8 @@ ir prieš kiekvieną sprendimą skaičių.
 4. Jeigu nė vienas akcininkas visuotiniame akcininkų susirinkime
 iki balsavimo pradžios nereikalauja išsamios balsavimo ataskaitos, šio
 straipsnio 3 dalis netaikoma.
-5. Jeigu
-inspektoriaus rinkimas bendrovės įstatuose nenumatytas arba išrinktas
+5.
+Jeigu inspektoriaus rinkimas bendrovės įstatuose nenumatytas arba išrinktas
 inspektorius negali vykdyti savo pareigų, visuotinis akcininkų susirinkimas
 išrenka asmenį, atsakingą už šio straipsnio 2 ir 3 dalyse numatytus veiksmus.
 Straipsnio pakeitimai:
@@ -4868,6 +4868,14 @@ likvidavimo pagrindais.
 2. Sprendimą likviduoti bendrovę priima
 visuotinis akcininkų susirinkimas arba teismas Civilinio kodekso nustatytais
 atvejais.
+Redakcija nuo 2015-01-01:
+2. Sprendimą
+likviduoti bendrovę priima visuotinis akcininkų susirinkimas, juridinių asmenų
+registro tvarkytojas arba teismas Civilinio kodekso nustatytais atvejais. Kai
+sprendimą likviduoti bendrovę priima juridinių asmenų registro tvarkytojas,
+bendrovė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias
+juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva.
+ 
 3. Visuotinis akcininkų susirinkimas
 negali priimti sprendimo likviduoti nemokią bendrovę.
 4.
@@ -4875,14 +4883,19 @@ Bankrutavusi bendrovė likviduojama Įmonių bankroto įstatymo nustatyta tvarka
 5.
 Visuotinis akcininkų susirinkimas ar teismas, priėmę sprendimą likviduoti
 bendrovę, arba juridinių asmenų registro tvarkytojas, kai jo iniciatyva teismas
-priima sprendimą likviduoti bendrovę, privalo išrinkti (paskirti) jos
-likvidatorių. 
+priima sprendimą likviduoti bendrovę, privalo išrinkti (paskirti) jos likvidatorių.
+
+Redakcija nuo 2015-01-01:
+5. Visuotinis
+akcininkų susirinkimas ar teismas, priėmę sprendimą likviduoti bendrovę,
+privalo išrinkti (paskirti) jos likvidatorių.
+ 
 6. Nuo
-visuotinio akcininkų sprendimo likviduoti bendrovę priėmimo dienos bendrovė
-įgyja likviduojamos bendrovės statusą. Nuo išrinkimo (paskyrimo) likvidatorius
-įgyja bendrovės vadovo ir valdybos teises ir pareigas. Bendrovės vadovas ir
-valdyba netenka savo įgaliojimų nuo likvidatoriaus paskyrimo. Visuotinis
-akcininkų susirinkimas gali būti šaukiamas šio Įstatymo nustatyta tvarka.
+visuotinio akcininkų sprendimo likviduoti bendrovę priėmimo dienos bendrovė įgyja
+likviduojamos bendrovės statusą. Nuo išrinkimo (paskyrimo) likvidatorius įgyja
+bendrovės vadovo ir valdybos teises ir pareigas. Bendrovės vadovas ir valdyba
+netenka savo įgaliojimų nuo likvidatoriaus paskyrimo. Visuotinis akcininkų
+susirinkimas gali būti šaukiamas šio Įstatymo nustatyta tvarka.
 7.
 Likviduojamos bendrovės dokumentuose, kuriuos ji naudoja turėdama santykių su
 kitais asmenimis, be kita ko, turi būti nurodomas jos teisinis statusas
@@ -4896,14 +4909,13 @@ priėmimo diena.
 likvidavimo pagrindas yra laikotarpio, kuriam buvo įsteigta bendrovė, pabaiga,
 likus ne mažiau kaip 3 mėnesiams iki šio laikotarpio pabaigos, visuotinis
 akcininkų susirinkimas turi priimti sprendimą dėl bendrovės likvidavimo ir
-išrinkti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir
-pakeisti bendrovės įstatus. Šiuo atveju priėmus sprendimą likviduoti bendrovę,
-bendrovė likviduojamos bendrovės statusą įgyja kitą dieną po įstatuose
-nustatyto veiklos laikotarpio pabaigos. Jei visuotinis akcininkų susirinkimas
-per nustatytą terminą likvidatoriaus neišrenka, akcininkai, kuriems
-priklausančios akcijos suteikia ne mažiau kaip 1/10 visų balsų, taip pat
-juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis
-paskirtų likvidatorių.
+išrinkti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti
+bendrovės įstatus. Šiuo atveju priėmus sprendimą likviduoti bendrovę, bendrovė
+likviduojamos bendrovės statusą įgyja kitą dieną po įstatuose nustatyto veiklos
+laikotarpio pabaigos. Jei visuotinis akcininkų susirinkimas per nustatytą
+terminą likvidatoriaus neišrenka, akcininkai, kuriems priklausančios akcijos
+suteikia ne mažiau kaip 1/10 visų balsų, taip pat juridinių asmenų registro
+tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių.
 10.
 Apie bendrovės likvidavimą likvidatorius turi viešai paskelbti įstatuose
 nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba
@@ -4951,6 +4963,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-564,
 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
+Nr. XII-1072,
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10459
  
 74 straipsnis. Likvidatoriaus kompetencija
 1.
@@ -4983,10 +4997,10 @@ panaikinti bendrovės interneto svetainės adresą, jeigu bendrovė jį turi.
 3.
 Jei bendrovės likvidavimas trunka ilgiau negu metus, po kiekvienų finansinių
 metų pabaigos ne vėliau kaip per 3 mėnesius likvidatorius sudaro metinių
-finansinių ataskaitų rinkinį ir likvidavimo ataskaitą. Metinių
-finansinių ataskaitų rinkinį ir likvidavimo ataskaitą tvirtina
-visuotinis akcininkų susirinkimas. Su šiais dokumentais turi teisę susipažinti
-visi akcininkai ir kreditoriai.
+finansinių ataskaitų rinkinį ir likvidavimo ataskaitą. Metinių finansinių
+ataskaitų rinkinį ir likvidavimo ataskaitą tvirtina visuotinis akcininkų
+susirinkimas. Su šiais dokumentais turi teisę susipažinti visi akcininkai ir
+kreditoriai.
 4.
 Likvidatorius gali būti atšauktas Civilinio kodekso nustatyta tvarka.
 Straipsnio
@@ -4997,8 +5011,8 @@ Nr. X-1805,
 2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
 Nr. XI-354,
 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
-Nr. XI-564, 2009-12-15,
-Žin., 2009, Nr. 154-6945 (2009-12-28)
+Nr. XI-564,
+2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 Nr.
 XI-1489,
 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)(papildyta 2 dalies 7 punktu)
@@ -5070,8 +5084,8 @@ nutraukusio užsienio bendrovės filialo dokumentai iki filialo išregistravimo
 perduodami saugoti įmonėms Dokumentų ir archyvų įstatymo nustatyta tvarka.
  
 Papildymas 11 dalimi
-įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių,
-komercinių ir bendrovių registrų sąveikos sistema:
+įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių
+centrinių, komercinių ir bendrovių registrų sąveikos sistema:
 11. Juridinių
 asmenų registro tvarkytojas, per Europos Sąjungos valstybių narių ir Europos
 ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių
@@ -5112,32 +5126,30 @@ bendrovės filialo statusą ir jo netenka tą dieną, kai juridinių asmenų reg
 tvarkytojas gauna informaciją apie šių procedūrų pabaigą. Užsienio bendrovės
 filialo vadovas turi apie tai nedelsdamas viešai paskelbti Vyriausybės
 nustatyta tvarka juridinių asmenų registro tvarkytojo leidžiamame
-elektroniniame leidinyje viešiems pranešimams skelbti ir ne vėliau kaip pirmą viešo
-paskelbimo dieną pranešti visiems kreditoriams raštu.
+elektroniniame leidinyje viešiems pranešimams skelbti ir ne vėliau kaip pirmą
+viešo paskelbimo dieną pranešti visiems kreditoriams raštu.
  
 Papildymas 13 dalimi
 įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių
 centrinių, komercinių ir bendrovių registrų sąveikos sistema:
 13. Užsienio
-bendrovės filialas filialo vadovo iniciatyva turi būti išregistruotas iš
-juridinių asmenų registro iki užsienio bendrovės išregistravimo, išskyrus
-atvejus, kai užsienio bendrovė išregistruota iš registro šią bendrovę
-pertvarkius, reorganizavus ar jos buveinę perkėlus į kitą Europos Sąjungos
-valstybę narę ar Europos ekonominei erdvei priklausančią valstybę.
+bendrovės filialas filialo vadovo iniciatyva turi būti išregistruotas iš juridinių
+asmenų registro iki užsienio bendrovės išregistravimo, išskyrus atvejus, kai
+užsienio bendrovė išregistruota iš registro šią bendrovę pertvarkius,
+reorganizavus ar jos buveinę perkėlus į kitą Europos Sąjungos valstybę narę ar
+Europos ekonominei erdvei priklausančią valstybę.
 Straipsnio
 pakeitimai:
 Nr. X-1805,
 2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
-Nr. XI-564,
-2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
+Nr. XI-564, 2009-12-15,
+Žin., 2009, Nr. 154-6945 (2009-12-28)
 Nr.
 XII-985,
 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
  
 76
-straipsnis. Juridinių asmenų registrui pateikiami užsienio bendrovės ir jos
-filialo
-dokumentai
+straipsnis. Juridinių asmenų registrui pateikiami užsienio bendrovės ir jos filialo dokumentai
 1.
 Juridinių asmenų registrui turi būti pateikiami šie užsienio bendrovės ir jos
 filialo dokumentai:
@@ -5168,16 +5180,16 @@ dokumentai, patvirtinantys nemokiai bendrovei taikomas procedūras.
 2. Jeigu šio Įstatymo 75 straipsnio 1 dalies 3
 punkte nurodytų užsienio bendrovių metinių finansinių ataskaitų rinkinys
 sudaromas vadovaujantis kitokiais, negu Europos Sąjungoje taikomi,
-reikalavimais, turi būti sudarytas ir vietoj šio straipsnio 1 dalies 3 punkte nurodyto
-užsienio bendrovės metinių finansinių ataskaitų rinkinio juridinių asmenų
-registrui pateiktas užsienio bendrovės filialo metinių finansinių ataskaitų
-rinkinys. Užsienio bendrovės filialo metinių finansinių ataskaitų rinkinys
-sudaromas buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių
+reikalavimais, turi būti sudarytas ir vietoj šio straipsnio 1 dalies 3 punkte
+nurodyto užsienio bendrovės metinių finansinių ataskaitų rinkinio juridinių
+asmenų registrui pateiktas užsienio bendrovės filialo metinių finansinių
+ataskaitų rinkinys. Užsienio bendrovės filialo metinių finansinių ataskaitų
+rinkinys sudaromas buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių
 Lietuvos Respublikos teisės aktų nustatyta tvarka.
 3.
 Šio straipsnio 1 dalies 1 ir 2 punktuose nurodyti dokumentai turi būti
-legalizuoti teisės aktų nustatyta tvarka, išskyrus tarptautinių sutarčių nustatytus
-atvejus.
+legalizuoti teisės aktų nustatyta tvarka, išskyrus tarptautinių sutarčių
+nustatytus atvejus.
 4.
 Šio Įstatymo 75 straipsnio 1 dalies 1 ir 2 punktuose nurodytos užsienio
 bendrovės, įsteigusios daugiau nei vieną filialą, gali pasirinkti, kurio
@@ -5244,8 +5256,8 @@ užsienio bendrovei taikoma teisė;
 užsienio bendrovės teisinė forma, buveinė, veiklos sritis;
 3)
 jei pagal užsienio bendrovei taikomą teisę reikia įregistravimo – registras,
-kuriame įregistruota užsienio bendrovė, ir jos registravimo numeris tame registre;
-
+kuriame įregistruota užsienio bendrovė, ir jos registravimo numeris tame
+registre; 
 4)
 užsienio bendrovės pasirašyto kapitalo dydis, jeigu šis dydis nėra pažymėtas
 užsienio bendrovės steigimo dokumentuose.
@@ -5270,11 +5282,11 @@ Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių
 platinimas nepatenka į vertybinių popierių rinką reglamentuojančių teisės aktų
 reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė viršija 350
 tūkstančių litų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti
-parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę
-ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta galimybė su
-juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos
-bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio
-dokumento parengti nereikalaujama.
+parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę
+bendrovę ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta
+galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims.
+Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus,
+kada šio dokumento parengti nereikalaujama.
 3. Uždarosios
 akcinės bendrovės, įsteigtos iki 2014 m. sausio 1 d., kuriose yra daugiau negu
 vienas akcininkas ir kurių akcininkai ar duomenys apie juos nesikeitė nuo 2014
@@ -5390,8 +5402,8 @@ nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungian
 ir skaidant bendroves (OL 2009 L 259, p. 14).
 8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių
 jungimo (OL 2011 L 110, p. 1).
-9. 2012
-m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos
+9. 2012 m.
+spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos
 priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti,
 reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje
 pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines
@@ -5530,9 +5542,10 @@ Nr. X-1015,
 AKCINIŲ BENDROVIŲ
 ĮSTATYMO 15, 45, 52, 53, 58, 59, 60 STRAIPSNIŲ PAKEITIMO IR 78 STRAIPSNIO 1
 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
-Šio įstatymo 5 straipsnio
-nuostata, kad bendrovės, kurios akcininkas yra valstybė ir (ar) savivaldybė,
-tvirtinama tik audituota metinė finansinė atskaitomybė, įsigalioja nuo 2008 m. sausio 1 d.
+Šio įstatymo 5
+straipsnio nuostata, kad bendrovės, kurios akcininkas yra valstybė ir (ar)
+savivaldybė, tvirtinama tik audituota metinė finansinė atskaitomybė, įsigalioja
+nuo 2008 m. sausio 1 d.
  
 12.
 Lietuvos Respublikos
@@ -5553,7 +5566,8 @@ AKCINIŲ BENDROVIŲ ĮSTATYMO 1, 57
 IR 72 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 14.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. X-1805,
 2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
 AKCINIŲ BENDROVIŲ ĮSTATYMO 29,
@@ -5572,8 +5586,8 @@ AKCINIŲ BENDROVIŲ ĮSTATYMO 1, 4,
 52, 58, 59, 63, 64, 65, 74, 76, 78 STRAIPSNIŲ, SEPTINTOJO SKIRSNIO PAVADINIMO,
 PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 16(1), 26(1), 26(2),
 30(1), 30(2), 30(3) STRAIPSNIAIS ĮSTATYMAS
-Šio įstatymo 5 straipsnio 1
-dalis, 6 straipsnis, 10 straipsnio 1 ir 2 dalys, 15, 16, 17, 19, 20, 21 ir 38
+Šio įstatymo 5 straipsnio 1 dalis,
+6 straipsnis, 10 straipsnio 1 ir 2 dalys, 15, 16, 17, 19, 20, 21 ir 38
 straipsniai įsigalioja 2009 m. rugpjūčio 1 d.
  
 16.
@@ -5710,8 +5724,8 @@ LIETUVOS RESPUBLIKOS AKCINIŲ
 BENDROVIŲ ĮSTATYMO NR. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44,
 54, 59, 60-1, 63, 67, 69, 72 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO
 PAPILDYMO 45-2 STRAIPSNIU ĮSTATYMAS
-1.
-Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2015 m. liepos 1 d.
+Šio
+įstatymo 1 straipsnio 1 dalis įsigalioja 2015 m. liepos 1 d.
 Pastaba: Šio
 įstatymo 6 straipsnio 1 dalyje išdėstytos Lietuvos Respublikos akcinių
 bendrovių įstatymo 31 straipsnio 7 dalies nuostatos ir šio įstatymo 7
@@ -5736,12 +5750,21 @@ centrinių, komercinių ir bendrovių registrų sąveikos sistema.
 Šio
 įstatymo 2 straipsnis įsigalioja 2014 m. spalio 1 d.
  
+28.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-1072,
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10459
+LIETUVOS RESPUBLIKOS AKCINIŲ
+BENDROVIŲ ĮSTATYMO NR. VIII-1835 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2015 m. sausio 1
+d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-07-10)
+Aušrinė Trapinskienė (2014-07-29)
                  
 ausrine.trapinskiene@lrs.lt
