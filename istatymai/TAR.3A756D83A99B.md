@@ -349,8 +349,6 @@ straipsnis. Biudžetinės įstaigos pertvarkymas
 Biudžetinė įstaiga
 negali būti pertvarkyta į kitos teisinės formos juridinį asmenį, išskyrus įstatymų
 nustatytus atvejus.
-Pastaba. 13 straipsnis iki 2011 m.
-gruodžio 31 d. netaikomas valstybinėms aukštosioms mokykloms.
  
 14
 straipsnis. Biudžetinės įstaigos reorganizavimas
@@ -476,11 +474,31 @@ arba iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo f
 biudžetų ir kitų valstybės pinigų fondų išlaikomos biudžetinės įstaigos veiklą ar
 savivaldybės tarybos sprendimas nutraukti iš savivaldybės biudžeto išlaikomos biudžetinės
 įstaigos veiklą. 
+Redakcija
+nuo 2015-01-01:
+2. Kai sprendimą
+likviduoti biudžetinę įstaigą priima savininko teises ir pareigas įgyvendinanti
+institucija, sprendimas gali būti priimtas tik tada, kai yra Vyriausybės
+nutarimas nutraukti iš valstybės biudžeto arba iš Valstybinio socialinio
+draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų
+valstybės pinigų fondų išlaikomos biudžetinės įstaigos veiklą ar
+savivaldybės tarybos sprendimas nutraukti iš savivaldybės biudžeto išlaikomos
+biudžetinės įstaigos veiklą. Kai sprendimą likviduoti biudžetinę įstaigą priima
+Juridinių asmenų registro tvarkytojas, biudžetinė įstaiga likviduojama taikant
+Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą
+Juridinių asmenų registro tvarkytojo iniciatyva.
+ 
 3. Sprendimą likviduoti biudžetinę įstaigą
 priėmusi savininko teises ir pareigas įgyvendinanti institucija, teismas arba Juridinių
 asmenų registro tvarkytojas, kai jo iniciatyva teismas priima sprendimą likviduoti
 biudžetinę įstaigą, privalo paskirti likvidatorių arba sudaryti likvidacinę komisiją.
 
+Redakcija
+nuo 2015-01-01:
+3. Sprendimą likviduoti biudžetinę
+įstaigą priėmusi savininko teises ir pareigas įgyvendinanti institucija arba
+teismas privalo paskirti likvidatorių arba sudaryti likvidacinę komisiją.
+ 
 4. Likvidatoriumi arba likvidacinės komisijos
 pirmininku paprastai yra skiriamas biudžetinės įstaigos vadovas.
 5. Jeigu biudžetinė įstaiga įsteigta ribotam
@@ -530,6 +548,10 @@ jeigu Vyriausybė (kai likviduojama iš valstybės biudžeto ir iš Valstybinio 
 draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės
 pinigų fondų išlaikoma biudžetinė įstaiga) arba savivaldybės taryba (kai likviduojama
 iš savivaldybės biudžeto išlaikoma biudžetinė įstaiga) nenustato kitaip.
+Straipsnio
+pakeitimai:
+Nr. XII-1073,
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
  
 16 straipsnis. Likvidatoriaus arba
 likvidacinės komisijos kompetencija
@@ -565,8 +587,8 @@ Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                     
                        ALGIRDAS BRAZAUSKAS
-
-________________
+ 
+ 
 Pakeitimai:
  
 1.
@@ -628,6 +650,7 @@ BIUDŽETINIŲ
 įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
 privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 Šio įstatymo įsigaliojimas keistas:
+6.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1824, 2008-11-14,
 Žin., 2008, Nr. 137-5373 (2008-11-29)
@@ -651,12 +674,12 @@ XI-666, 2010-01-21,
 Žin., 2010, Nr. 15-699 (2010-02-04)
 BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO PAKEITIMO
 ĮSTATYMAS
-Šis įstatymas, išskyrus šio įstatymo
-1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos biudžetinių įstaigų
-įstatymo 4 straipsnio 5 ir 6 dalis, įsigalioja 2010 m. balandžio 1 d.
+Šis įstatymas, išskyrus
+šio įstatymo 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos biudžetinių
+įstaigų įstatymo 4 straipsnio 5 ir 6 dalis, įsigalioja 2010 m. balandžio 1 d.
 Šio įstatymo 1 straipsnyje nauja redakcija
-išdėstyto Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis iki
-2011 m. gruodžio 31 d. netaikomas valstybinėms aukštosioms mokykloms.
+išdėstyto Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis iki 2011
+m. gruodžio 31 d. netaikomas valstybinėms aukštosioms mokykloms.
 Nauja įstatymo redakcija 
 Biudžetinės įstaigos, dėl kurių
 steigimo, pertvarkymo, reorganizavimo ir likvidavimo sprendimai priimti iki šio
@@ -667,12 +690,23 @@ pertvarkomos, reorganizuojamos ir likviduojamos pagal biudžetinių įstaigų
 steigimą, pertvarkymą, pabaigą reglamentuojančius teisės aktus, galiojusius iki
 šio įstatymo įsigaliojimo dienos.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-1073,
+2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10458
+LIETUVOS
+RESPUBLIKOS BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO NR. I-1113 15 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2015 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-02-09)
+Aušrinė Trapinskienė (2014-07-25)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
