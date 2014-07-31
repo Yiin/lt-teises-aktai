@@ -541,6 +541,8 @@ Lietuvos Respublikos pajūrio juostai;
 tarnybinėms daloms;
 9) užimta
 pramoninių žuvininkystės tvenkinių (išskyrus grąžinamus natūra);
+Netenka galios nuo 2015-01-01.
+ 
 10) yra
 valstybinės reikšmės vandens telkiniuose esančios salos (išskyrus natūra
 grąžinamas salas).
@@ -557,6 +559,8 @@ Nr. XI-1934,
 2012-03-15, Žin., 2012, Nr. 36-1773 (2012-03-27)
 Nr. XII-414,
 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
+Nr. XII-1084,
+2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10698
  
 14
 straipsnis. Neprivatizuojami miškai ir vandens telkiniai
@@ -1321,6 +1325,15 @@ nustatyta tvarka pateikti žemės valdos projekto (išskyrus žemės reformos
 žemėtvarkos projekto) rengimo reikalavimai, laikoma,
 kad toks žemės sklypas suprojektuotas žemės valdos projekte.
  
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1084,
+2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10698
+LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO NR. I-1607
+13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas,
+išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
+ 
  
 *** Pabaiga ***
  
@@ -1338,8 +1351,9 @@ REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO IR LIETUVOS
 RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO (2002 M. LAPKRIČIO 5 D.
 REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2014-05-02)
+Redagavo Aušrinė Trapinskienė (2014-07-31)
                   ausrine.trapinskiene@lrs.lt
