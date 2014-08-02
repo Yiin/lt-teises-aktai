@@ -100,9 +100,10 @@ Straipsnio pakeitimai:
 Nr. XI-1667,
 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
-4 straipsnis. 8 straipsnio pakeitimas 
-Pakeisti 8 straipsnį
-ir jį išdėstyti taip:
+4
+straipsnis. 8 straipsnio pakeitimas
+Pakeisti 8
+straipsnį ir jį išdėstyti taip:
 „8
 straipsnis. Lietuvos banko funkcijos ir veikla 
 1. Vykdydamas
@@ -110,7 +111,8 @@ Sutarties dėl Europos Sąjungos veikimo nuostatas ir veikdamas kaip sudedamoji
 Europos centrinių bankų sistemos dalis, Lietuvos bankas atlieka šias funkcijas:
 1) išleidžia
 banknotus ir vykdo kitą su tuo susijusią veiklą; 
-2) įgyvendina pinigų politiką;
+2) įgyvendina
+pinigų politiką;
 3) valdo,
 naudoja Lietuvos banko oficialiąsias užsienio atsargas (toliau – užsienio
 atsargos) ir jomis disponuoja;
@@ -135,29 +137,35 @@ vykdyti reikalingą statistinę informaciją iš valstybės ir savivaldybių
 institucijų ir ūkio subjektų, nustato jos rinkimo, sudarymo ir platinimo
 tvarką, taip pat sudaro Lietuvos Respublikos mokėjimų ir tarptautinių
 investicijų balansus ir finansines sąskaitas;
-5) savo
-nustatyta tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas
-įkeičiamu Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms
-kredito įstaigoms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl
-Lietuvos banko dalyvavimo Europos centrinių bankų sistemoje, ypač
-reikalavimams, atsirandantiems dėl viešosios teisės subjektų vardu atliekamų
-operacijų;
+5) savo nustatyta
+tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas įkeičiamu
+Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms kredito
+įstaigoms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl Lietuvos
+banko dalyvavimo Europos centrinių bankų sistemoje, ypač reikalavimams,
+atsirandantiems dėl viešosios teisės subjektų vardu atliekamų operacijų;
 6) išleidžia
 monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir
-vykdo kitą su tuo susijusią veiklą.
+vykdo kitą su tuo susijusią veiklą;
+7) vykdo
+politiką, kuria siekia prisidėti prie visos finansų sistemos stabilumo
+apsaugos, įskaitant finansų sistemos atsparumo stiprinimą ir sisteminės rizikos
+susidarymo mažinimą, kad būtų užtikrintas tvarus finansų sektoriaus įnašas į
+ekonomikos augimą (toliau – makroprudencinė politika).
 3. Lietuvos
 bankas vykdo veiklą, reikalingą šio straipsnio 1 ir 2 dalyse numatytoms
 funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei
 palaikyti.
 4. Lietuvos
-bankas, vykdydamas savo funkcijas ir veiklą, dalyvauja palaikant visos finansų
-sistemos stabilumą ir patikimumą ir pagal savo kompetenciją imasi atitinkamų
-priemonių.“
+bankas, atlikdamas savo funkcijas ir vykdydamas veiklą, dalyvauja palaikant
+visos finansų sistemos stabilumą ir patikimumą ir pagal savo kompetenciją imasi
+atitinkamų priemonių.“
 Straipsnio pakeitimas:
 Nr. XI-556,
 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
 Nr. XI-1667,
 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+Nr. XII-1046,
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
  
 5
 straipsnis. 11 straipsnio 1 dalies 1, 2, 3 ir 5 punktų pripažinimas netekusiais
@@ -197,17 +205,19 @@ nustato Lietuvos banko turto valdymo, naudojimo ir disponavimo juo tvarką,
 kurios pagrindinis principas – siekti Europos centrinių bankų sistemos tikslų
 ir vykdyti uždavinius ekonomiškiausiomis, efektyviausiomis ir
 rezultatyviausiomis priemonėmis, taip pat nustato pirkimų tvarką;“.
-8. 11 straipsnio
-2 dalyje išbraukti skaičius „1, 2, 3“ ir šią dalį išdėstyti taip:
-„2. Lietuvos banko
-valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui, išskyrus
-šio straipsnio 1 dalies 4, 6, 7, 9, 10, 12, 13, 14, 15, 16, 18 ir 19 punktuose
-numatytas funkcijas.“
+8. Pakeisti 11
+straipsnio 2 dalį ir ją išdėstyti taip:
+„2. Lietuvos
+banko valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui,
+išskyrus šio straipsnio 1 dalies 4, 6, 7, 9, 10, 12, 13, 14, 15, 16, 18,
+19 ir 20 punktuose numatytas funkcijas.“
 Straipsnio pakeitimai:
 Nr. XI-1320,
 2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
 Nr. XI-1667,
 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+Nr. XII-1046,
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
  
 6 straipsnis. 12
 straipsnio 4 dalies pakeitimas
@@ -218,10 +228,10 @@ apygardos teismui“ ir šią dalį išdėstyti taip:
 sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius nuo sprendimo
 paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuvo
 padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos
-Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos teisės
-normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko
-valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo
-prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“ 
+Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos
+teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos
+banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl
+atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“ 
  
 7 straipsnis. 14
 straipsnio 2 dalies pakeitimas
@@ -305,8 +315,8 @@ valiutomis, taip pat tauriuosius metalus;
 atlikti kredito operacijas su kredito įstaigomis ir kitais rinkos dalyviais
 skolindamas lėšas, adekvačias pakankamam įkaitui.“
 Straipsnio pakeitimai:
-Nr. XI-1667, 2011-11-17,
-Žin., 2011, Nr. 145-6813 (2011-12-01)
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 12
 straipsnis. 26 straipsnio pripažinimas netekusiu galios
@@ -440,9 +450,9 @@ straipsnio 1 dalį ir ją išdėstyti taip:
 „1.
 Lietuvos bankas finansinę apskaitą tvarko, metinių finansinių ataskaitų rinkinį
 (balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) ir kitas finansines
-ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais, gairėmis
-ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų vykdomų
-operacijų apskaitą ir atskaitomybę.“
+ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais,
+gairėmis ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų
+vykdomų operacijų apskaitą ir atskaitomybę.“
 Straipsnio pakeitimai:
 Nr. XI-1320,
 2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
@@ -516,24 +526,26 @@ pažeidimus. Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo susijus
 medžiagos saugojimo terminus nustato Lietuvos bankas.“
  
 31
-straipsnis. 55 straipsnio pakeitimas
-Pakeisti 55
-straipsnį ir jį išdėstyti taip:
-„55
-straipsnis. Informacijos skelbimas
-Lietuvos bankas
-ne rečiau kaip vieną kartą per mėnesį skelbia statistinę ir kitą informaciją.“
+straipsnis. Neteko
+galios nuo 2014-08-02.
+Straipsnio pakeitimai:
+Nr. XII-1046,
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
  
-32 straipsnis.
-Įstatymo priedo papildymas
+32
+straipsnis. Įstatymo 2 priedo pakeitimas
 Papildyti
-Įstatymo priedą 7 punktu:
-„7. 2002 m. birželio 6 d. Europos
-Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito
-(OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89).“
+Įstatymo 2 priedą 8 punktu:
+„8. 2002 m.
+birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų
+dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10
+skyrius, 3 tomas, 
+p. 89).“
 Straipsnio pakeitimai:
 Nr. XI-1667,
 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+Nr. XII-1046,
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
  
 33 straipsnis. Įstatymo įsigaliojimas
 Šis
@@ -562,10 +574,10 @@ Respublikos Seimas, Įstatymas
 Nr. XI-556,
 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
 LIETUVOS BANKO
-ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53,
-54, 54(1), 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO,
-26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR
-ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR 25 STRAIPSNIO
+ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50,
+53, 54, 54(1), 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ
+PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
+IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR 25 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 2.
@@ -594,27 +606,38 @@ PAPILDYMO ĮSTATYMO 2, 3, 4, 5, 11 IR 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-765,
 2014-01-23, paskelbtas TAR 2014-01-30, i. k. 2014-00713
-LIETUVOS RESPUBLIKOS LIETUVOS BANKO ĮSTATYMO
-1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54,
-54-1, 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26,
-27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO
-PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS LIETUVOS BANKO
+ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50,
+53, 54, 54-1, 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ
+PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
+IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 1 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-829,
 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04874
 LIETUVOS RESPUBLIKOS LIETUVOS BANKO
+ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53,
+54, 54-1, 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO,
+26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR
+ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1046,
+2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
+LIETUVOS RESPUBLIKOS LIETUVOS BANKO
 ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50,
 53, 54, 54-1, 55 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ
 PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
-IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 29 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO NR. X-569 4, 5 IR 32 STRAIPSNIŲ PAKEITIMO
+IR 31 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2014-05-01)
+(2014-08-04)
                  
 ausrine.trapinskiene@lrs.lt
