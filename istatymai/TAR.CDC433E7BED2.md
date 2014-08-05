@@ -80,6 +80,28 @@ Užsienio valiuta
 grynaisiais pinigais orlaiviuose ir jūrų laivuose su Lietuvos valstybės vėliava
 ar skiriamaisiais ženklais, vežančiuose krovinius ir keleivius tarptautiniais
 maršrutais.
+Redakcija nuo 2014-11-01 ir galioja iki dienos
+(2015-01-01), kurią Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos
+Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1
+dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą:
+3
+straipsnis. Užsienio valiutos keitimas ir naudojimas
+Litus į užsienio
+valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio
+valiutą keičia (perka, parduoda) kredito, mokėjimo, elektroninių pinigų
+įstaigos, kiti mokėjimo paslaugų teikėjai, kai tai yra susiję su mokėjimo
+paslaugų teikimu, finansų maklerio įmonės, kai tai yra susiję su investicinių
+paslaugų teikimu, ir valiutos keityklų operatoriai, veikiantys pagal Lietuvos
+Respublikos valiutos keityklos operatorių įstatymą.
+Užsienio valiuta
+gali būti naudojama tik šalių susitarimu mokėjimams ir atsiskaitymams
+negrynaisiais pinigais, o Europos Sąjungos valiuta euras – ir grynaisiais
+pinigais.
+Užsienio valiuta
+šalių susitarimu taip pat gali būti naudojama mokėjimams ir atsiskaitymams
+grynaisiais pinigais orlaiviuose ir jūrų laivuose su Lietuvos valstybės vėliava
+ar skiriamaisiais ženklais, vežančiuose krovinius ir keleivius tarptautiniais
+maršrutais.
 Straipsnio
 pakeitimai:
 Nr.
@@ -100,8 +122,8 @@ VIII-1154,
 Nr. IX-1140,
 2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
 Nr.
-IX-2273, 2004-06-15,
-Žin., 2004, Nr. 98-3629 (2004-06-24)
+IX-2273,
+2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
 Nr. X-1590,
 2008-06-05, Žin., 2008, Nr. 71-2716 (2008-06-21)
 Nr. XI-561,
@@ -109,6 +131,9 @@ Nr. XI-561,
 Nr.
 XI-1878,
 2011-12-22, Žin., 2011, Nr. 163-7769 (2011-12-31)
+Nr.
+XII-1037,
+2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10867
  
 4
 straipsnis. Užsienio paskolos
@@ -130,8 +155,8 @@ Nr. VIII-1115,
 99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
  
 5 straipsnis. Kapitalo įvežimas ir išvežimas
-Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat
-šio kapitalo, gauto pelno ir dividendų
+Užsienio kapitalo, investuojamo
+Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų
 išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos
 Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
 Straipsnio
@@ -165,8 +190,8 @@ naudojimo, operacijų, įvežimo ir išvežimo, taip pat už užsienio paskolų
 registravimo tvarkos pažeidimus atsako pagal Lietuvos Respublikos įstatymus.
 Straipsnio
 pakeitimai:
-Nr. VIII-1115, 99.03.30,
-Žin., 1999, Nr.33-950 (99.04.14)
+Nr. VIII-1115,
+99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
  
             8
 straipsnis. Baigiamieji nuostatai
@@ -184,21 +209,21 @@ straipsnis. Įstatymo įsigaliojimas
             Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
  
 Papildyta nuo Lietuvos Respublikos euro
-įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dienos:
+įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dienos (2015-01-01):
 2. Įstatymas
 taikomas tiek, kiek neprieštarauja Lietuvos Respublikos euro įvedimo Lietuvos
 Respublikoje įstatymui.
 Straipsnio pakeitimai:
 Nr.
-XII-831, 2014-04-17,
-paskelbta TAR 2014-04-29,  i. k. 2014-04872
+XII-831,
+2014-04-17, paskelbta TAR 2014-04-29,  i. k. 2014-04872
  
 Papildyta nuo Lietuvos Respublikos euro
-įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dienos:
+įvedimo Lietuvos Respublikoje įstatymo įsigaliojimo dienos (2015-01-01):
 10
 straipsnis. Įstatymo galiojimas
-Įstatymas
-galioja iki euro įvedimo Lietuvos Respublikoje dienos.
+Įstatymas galioja
+iki euro įvedimo Lietuvos Respublikoje dienos.
 Papildyta straipsniu:
 Nr.
 XII-831,
@@ -341,14 +366,29 @@ RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO NR. I-202 9
 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 10 STRAIPSNIU ĮSTATYMAS
 Šis
 įstatymas įsigalioja Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje
-įstatymo įsigaliojimo dieną.
+įstatymo įsigaliojimo dieną (2015-01-01).
+ 
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-1037,
+2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10867
+LIETUVOS
+RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO NR. I-202 3
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2014 m. lapkričio 1 d. ir galioja iki dienos (2015-01-01),
+kurią Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal
+Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
+sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2014-05-05)
+Aušrinė Trapinskienė (2014-08-05)
                  
 ausrine.trapinskiene@lrs.lt
 
