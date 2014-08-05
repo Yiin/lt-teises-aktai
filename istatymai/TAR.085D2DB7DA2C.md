@@ -90,20 +90,32 @@ bankas nustato visiems bankams maksimalius atlyginimo už keitimo operacijas
 dydžius.
             Komerciniai
 bankai atsako pagal įstatymus už keitimo operacijų tvarkos nesilaikymą.
+Redakcija nuo 2014-11-01 ir
+galioja iki dienos, kurią Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos
+Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1
+dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą
+procedūrą:
+4
+straipsnis. Lito keitimas
+Lietuvos bankas garantuoja aukso atsargomis ir konvertuojamos
+užsienio valiutos rezervu laisvą litų, nurodytų šio įstatymo 2 straipsnio
+antrojoje dalyje, keitimą Lietuvos Respublikos teritorijoje į bazinę valiutą
+pagal oficialų lito kursą, taip pat šios valiutos laisvą keitimą į litus.
+Kita užsienio valiuta į litus ir litai į ją Lietuvos
+Respublikos teritorijoje keičiami rinkos kursu.
+Lietuvos bankas nustato maksimalius atlyginimo už
+valiutos keitimo operacijas dydžius.
+Asmenys, vykdantys valiutos keitimo veiklą, atsako
+pagal įstatymus už valiutos keitimo operacijų tvarkos nesilaikymą.
+Straipsnio pakeitimai:
+Nr. XII-1041,
+2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10859
  
-            5 straipsnis. Informacija apie litą
-            Lietuvos
-bankas ne rečiau kaip kartą per mėnesį skelbia "Valstybės žiniose"
+5 straipsnis. Informacija apie litą
+Lietuvos bankas savo
+interneto svetainėje skelbia ir ne rečiau kaip kartą per mėnesį atnaujina
 informaciją apie bendrą litų kiekį apyvartoje ir turimas aukso atsargas bei
 konvertuojamos užsienio valiutos rezervą.
-Straipsnio redakcija nuo
-2014-01-01:
-5
-straipsnis. Informacija apie litą
-Lietuvos bankas savo interneto
-svetainėje skelbia ir ne rečiau kaip kartą per mėnesį atnaujina informaciją
-apie bendrą litų kiekį apyvartoje ir turimas aukso atsargas bei konvertuojamos
-užsienio valiutos rezervą.
 Straipsnio pakeitimai:
 Nr. XI-2330,
 2012-11-06, Žin., 2012, Nr. 132-6658 (2012-11-15)
@@ -163,11 +175,24 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m.
 sausio 1 d.
  
+4.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XII-1041,
+2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10859
+LIETUVOS RESPUBLIKOS LITO
+PATIKIMUMO ĮSTATYMO NR. I-407 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m.
+lapkričio 1 d. ir galioja iki dienos, kurią Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo
+140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje
+nustatytą procedūrą.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2012-11-19)
+(2014-08-05)
                  
 ausrine.trapinskiene@lrs.lt
 
