@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -615,7 +615,10 @@ Nr. XI-850, 2010-05-25, Žin. 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA0
 4. Savivaldybės administracijos direktorius arba jo įgaliotas kitas savivaldybės administracijos padalinys ar savivaldybės įstaiga, įgyvendindami kūno kultūros ir sporto politiką savivaldybės teritorijoje:
 
 
-1) rengia ir įgyvendina kūno kultūros ir sporto plėtojimo savivaldybėje programas;
+1) įgyvendina kūno kultūros ir sporto plėtojimo savivaldybėje priemones, numatytas savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose;
+Straipsnio punkto pakeitimai:
+Nr. XII-476, 2013-07-02, Žin., 2013, Nr. 79-3997 (2013-07-23), i. k. 1131010ISTA0XII-476
+ 
 
 
 
@@ -1901,3 +1904,8 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-699, 2013-12-19, Žin., 2013, Nr. 140-7072 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00380
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ĮSTATYMAS
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-476, 2013-07-02, Žin., 2013, Nr. 79-3997 (2013-07-23), i. k. 1131010ISTA0XII-476
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas
