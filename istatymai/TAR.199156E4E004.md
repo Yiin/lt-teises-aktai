@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2013-06-28 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2016-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -523,7 +523,10 @@ Nr. XI-791, 2010-04-29, Žin. 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA0
 
 
 
-5) savivaldybės. Jos rengia ir įgyvendina savivaldybės neįgaliųjų socialinės integracijos programas, atsako už neįgaliųjų specialiųjų poreikių tenkinimą teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymą, bendradarbiavimą su neįgaliųjų asociacijomis;
+5) savivaldybės. Jos savo veiklą neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis srityse planuoja savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose;
+Straipsnio punkto pakeitimai:
+Nr. XII-471, 2013-07-02, Žin., 2013, Nr. 79-3992 (2013-07-23), i. k. 1131010ISTA0XII-471
+ 
 
 
 
@@ -1320,3 +1323,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 1, 9 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 19, 20 straipsnių ir priedo papildymo ir pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-471, 2013-07-02, Žin., 2013, Nr. 79-3992 (2013-07-23), i. k. 1131010ISTA0XII-471
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 16 straipsnio pakeitimo įstatymas
