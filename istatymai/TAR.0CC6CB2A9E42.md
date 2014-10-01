@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2008-07-05 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
  
@@ -204,28 +204,34 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 
 
 5 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti lygias galimybes
+
+
+1. Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
+
+
+1) užtikrinti, kad visuose teisės aktuose būtų įtvirtintos lygios teisės ir galimybės nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
+
+
+
+
+2) rengti, tvirtinti ir įgyvendinti priemones, skirtas lygioms galimybėms užtikrinti nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
+
+
+
+
+3) įstatymų nustatyta tvarka remti religinių bendruomenių, bendrijų ir centrų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
+
+
+
+
+
+
+2. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybės institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.
+
+
+Straipsnio pakeitimai:
+Nr. XII-473, 2013-07-02, Žin., 2013, Nr. 79-3994 (2013-07-23), i. k. 1131010ISTA0XII-473
  
-
-
-Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
-
-
-1) užtikrinti, kad visuose teisės aktuose būtų įtvirtintos lygios teisės ir galimybės nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
-
-
-
-
-2) rengti, tvirtinti ir įgyvendinti programas ir priemones, skirtas lygioms galimybėms užtikrinti nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
-
-
-
-
-3) įstatymų nustatyta tvarka remti religinių bendruomenių, bendrijų ir centrų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
- 
-
-
-
-
 
 
 
@@ -496,3 +502,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1602, 2008-06-17, Žin., 2008, Nr. 76-2998 (2008-07-05), i. k. 1081010ISTA00X-1602
 Lietuvos Respublikos lygių galimybių įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-473, 2013-07-02, Žin., 2013, Nr. 79-3994 (2013-07-23), i. k. 1131010ISTA0XII-473
+Lietuvos Respublikos lygių galimybių įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas
