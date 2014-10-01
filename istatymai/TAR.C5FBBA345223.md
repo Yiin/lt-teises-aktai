@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5FBBA345223"
 
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2014-12-15
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3022, i. k. 1021010ISTA0IX-1023
  
@@ -234,7 +234,10 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-3. Savivaldybių visuomenės sveikatos stebėsenos programas rengia, tvirtina ir įgyvendina savivaldybių institucijos, suderinusios su Sveikatos apsaugos ministerija ar jos įgaliota institucija.
+3. Savivaldybės institucijos nustato visuomenės sveikatos stebėseną savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose. 
+Straipsnio dalies pakeitimai:
+Nr. XII-465, 2013-07-02, Žin., 2013, Nr. 79-3986 (2013-07-23), i. k. 1131010ISTA0XII-465
+ 
 
 
 
@@ -247,35 +250,10 @@ Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA
 
 
 
-5. Visuomenės sveikatos stebėsenos programose turi būti nustatyta: 
-
-
-1) visuomenės sveikatos stebėsenos tikslai, uždaviniai, jų sprendimo būdai ir laukiami rezultatai;
-
-
-
-
-2) privalomi stebėti visuomenės sveikatos stebėsenos objektai, juos apibūdinantys rodikliai bei duomenys, renkamų visuomenės sveikatos stebėsenos duomenų mastas, stebėsenos vykdymo metodika;
-
-
-
-
-3) visuomenės sveikatos stebėsenos duomenų subjektai bei teikėjai, valdytojai ir vartotojai, duomenų rinkimo, teikimo tvarka, apdorojimo forma ir periodiškumas;
-
-
-
-
-4) visuomenės sveikatos stebėsenos lėšų poreikio sąmata, finansavimo šaltiniai ir tvarka;
-
-
-
-
-5) visuomenės sveikatos stebėsenos ataskaitų ir išvadų teikimo tvarka.
-Straipsnio punkto pakeitimai:
-Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+5. Neteko galios nuo 2014-10-01
+Straipsnio dalies naikinimas:
+Nr. XII-465, 2013-07-02, Žin. 2013, Nr. 79-3986 (2013-07-23), i. k. 1131010ISTA0XII-465
  
-
-
 
 
 
@@ -332,7 +310,9 @@ Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010IST
 
 
 
-4) rengia ir (ar) tvirtina Savivaldybių visuomenės sveikatos stebėsenos vykdymo ir privalomojo atitikties įvertinimo tvarkos aprašą;
+4) Neteko galios nuo 2014-10-01
+Straipsnio punkto naikinimas:
+Nr. XII-465, 2013-07-02, Žin. 2013, Nr. 79-3986 (2013-07-23), i. k. 1131010ISTA0XII-465
 Straipsnio punkto pakeitimai:
 Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
  
@@ -702,3 +682,8 @@ Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-300, 2013-05-14, Žin., 2013, Nr. 57-2844 (2013-06-01), i. k. 1131010ISTA0XII-300
 Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 11 straipsnio pripažinimo netekusiu galios ir 13 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-465, 2013-07-02, Žin., 2013, Nr. 79-3986 (2013-07-23), i. k. 1131010ISTA0XII-465
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 7 ir 9 straipsnių pakeitimo įstatymas
