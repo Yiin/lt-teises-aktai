@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
  
@@ -208,12 +208,18 @@ Aplinkos oro apsaugos prioritetai yra:
 
 
 
-3. Savivaldybės vykdomoji institucija, siekdama užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti, rengia, tikslina ir derina su Aplinkos ministerija ar jos įgaliota institucija ir kitomis suinteresuotomis valstybės institucijomis ir įstaigomis aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą. Kokia informacija turi būti įtraukta į aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą, nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija. Suderintą aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą tvirtina savivaldybės atstovaujamoji institucija. Aplinkos oro kokybės valdymo programa ir jos įgyvendinimo priemonių planas skelbiami viešai.
+3. Savivaldybių institucijos, siekdamos užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti, savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numato aplinkos oro kokybės valdymo priemones. Kokios minimalios priemonės ir informacija turi būti numatytos savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose, nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463
+ 
 
 
 
 
-4. Savivaldybės vykdomoji institucija Aplinkos ministerijos nustatyta tvarka Aplinkos ministerijai ar jos įgaliotai institucijai teikia ataskaitas apie aplinkos oro kokybės valdymo programos ir jos įgyvendinimo priemonių plano vykdymą.
+4. Savivaldybės vykdomoji institucija Aplinkos ministerijos nustatyta tvarka Aplinkos ministerijai ar jos įgaliotai institucijai ir visuomenei teikia savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytų aplinkos oro kokybės valdymo priemonių vykdymo ataskaitas.
+Straipsnio dalies pakeitimai:
+Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463
+ 
 
 
 Straipsnio pakeitimai:
@@ -300,7 +306,10 @@ Aplinkos oro kokybės ir taršos šaltinių monitoringas yra aplinkos monitoring
 
 
 
-2. Savivaldybės, kurios teritorijoje, remiantis valstybinio aplinkos monitoringo duomenimis, viršijama bent viena šio straipsnio 1 dalyje nurodyta ribinė ar siektina užterštumo vertė, vykdomoji institucija turi tikslinti aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą ir numatyti aplinkos oro kokybės valdymo priemones aplinkos oro užterštumo lygiui sumažinti iki nustatytos ribinės ar siektinos užterštumo vertės ir toliau mažinti aplinkos oro užterštumo lygį. Patikslintoje aplinkos oro kokybės valdymo programoje ir jos įgyvendinimo priemonių plane turi būti nustatytas konkretus laikotarpis aplinkos oro užterštumo lygiui sumažinti iki nustatytos ribinės ar siektinos užterštumo vertės. Patikslinta aplinkos oro kokybės valdymo programa ir jos įgyvendinimo priemonių planas šio įstatymo 4 straipsnio 3 dalyje nustatyta tvarka turi būti suderinti ir patvirtinti iki kitų metų, einančių po kalendorinių metų, kuriais savivaldybės teritorijoje buvo nustatytos viršytos ribinės ar siektinos užterštumo vertės, liepos 1 dienos ir apie tai turi būti informuojama Aplinkos ministerija.
+2. Savivaldybės, kurios teritorijoje, remiantis valstybinio aplinkos monitoringo duomenimis, viršijama bent viena šio straipsnio 1 dalyje nurodyta ribinė ar siektina užterštumo vertė, institucijos turi tikslinti pagal šio įstatymo 4 straipsnio 3 dalį parengtuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytas aplinkos oro kokybės valdymo priemones ir numatyti papildomas konkrečiu kuo trumpesniu laikotarpiu įgyvendinamas aplinkos oro kokybės valdymo priemones aplinkos oro užterštumo lygiui sumažinti iki nustatytos ribinės ar, jeigu įmanoma, siektinos užterštumo vertės ir toliau mažinti aplinkos oro užterštumo lygį. Į patikslintus savivaldybės strateginį plėtros ir (ar) savivaldybės strateginį veiklos planus turi būti įtraukti Aplinkos ministerijos ir Sveikatos apsaugos ministerijos nustatyti duomenys. Savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytos patikslintos aplinkos oro kokybės valdymo priemonės Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka turi būti suderintos su Aplinkos ministerijos ir Sveikatos apsaugos ministerijos įgaliotomis institucijomis, visuomene ir patvirtintos iki kitų metų, einančių po kalendorinių metų, kuriais savivaldybės teritorijoje buvo nustatytos viršytos ribinės ar siektinos užterštumo vertės, liepos 1 dienos, ir apie tai turi būti informuojama Aplinkos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463
+ 
 
 
 
@@ -790,3 +799,8 @@ Lietuvos Respublikos aplinkos oro apsaugos įstatymo 13 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
 Lietuvos Respublikos aplinkos oro apsaugos įstatymo 2, 4, 5, 7, 9, 10, 11, 18, 19, 21 ir 22 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas
