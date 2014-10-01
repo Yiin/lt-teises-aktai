@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.87E191E63EFD"
 
 # Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3425, i. k. 1031010ISTA0IX-1710
  
@@ -527,17 +527,17 @@ Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr
 19 straipsnis. Baigiamosios nuostatos
 
 
-1. Investicinės akcinės bendrovės, įsteigtos valstybinio turto privatizavimo laikotarpiu įgyvendinant Valstybinio turto pirminio privatizavimo įstatymą, nepakeitusios savo įstatų ir nepersiregistravusios į investicines bendroves, turi būti likviduotos. Teismas Lietuvos banko siūlymu investicinės akcinės bendrovės likvidatoriumi paskiria valstybės įmonę Turto banką ir nustato likvidatoriaus atlyginimą. Asmenims, kurie buvo investicinės akcinės bendrovės likvidatoriai 2003 m. liepos 25 d., draudžiama atlikti sandorius dėl bendrovės turto, kol jos turtą perims valstybės įmonė Turto bankas. Likvidavimas vyksta Vyriausybės nustatyta tvarka.
+1. Investicinės akcinės bendrovės, įsteigtos valstybinio turto privatizavimo laikotarpiu įgyvendinant Valstybinio turto pirminio privatizavimo įstatymą, nepakeitusios savo įstatų ir nepersiregistravusios į investicines bendroves, turi būti likviduotos. Teismas Lietuvos banko siūlymu investicinės akcinės bendrovės likvidatoriumi paskiria centralizuotai valdomo valstybės turto valdytoją ir nustato likvidatoriaus atlyginimą. Asmenims, kurie buvo investicinės akcinės bendrovės likvidatoriai 2003 m. liepos 25 d., draudžiama atlikti sandorius dėl bendrovės turto tol, kol jos turtą perims centralizuotai valdomo valstybės turto valdytojas. Likvidavimas vyksta Vyriausybės nustatyta tvarka.
 
 
 
 
-2. Jei iki 2004 m. gegužės 1 d. kontroliuojančiosios investicinės bendrovės likvidavimas nėra pradėtas arba jos veiklos leidimas nėra panaikintas šio Įstatymo 6 straipsnio nustatyta tvarka, teismas Lietuvos banko siūlymu priima sprendimą šią investicinę bendrovę likviduoti, o likvidatoriumi paskiria valstybės įmonę Turto banką ir nustato likvidatoriaus atlyginimą.
+2. Jei iki 2004 m. gegužės 1 d. kontroliuojančiosios investicinės bendrovės likvidavimas nėra pradėtas arba jos veiklos leidimas nėra panaikintas šio Įstatymo 6 straipsnyje nustatyta tvarka, teismas Lietuvos banko siūlymu priima sprendimą šią investicinę bendrovę likviduoti, o likvidatoriumi paskiria centralizuotai valdomo valstybės turto valdytoją ir nustato likvidatoriaus atlyginimą.
 
 
 
 
-3. Jei per dvejus metus nuo visuotinio akcininkų susirinkimo sprendimo likviduoti kontroliuojančiąją investicinę bendrovę priėmimo dienos jos likvidavimas nėra baigtas (ji neišregistruota iš Juridinių asmenų registro), teismas Lietuvos banko siūlymu pakeičia likvidatorių – juo paskiria valstybės įmonę Turto banką ir nustato likvidatoriaus atlyginimą. Toms kontroliuojančiosioms investicinėms bendrovėms, kuriose sprendimai dėl likvidavimo buvo priimti iki 2003 m. liepos 25 d., ši dalis taikoma nuo 2012 m. sausio 1 d.
+3. Jei per dvejus metus nuo visuotinio akcininkų susirinkimo sprendimo likviduoti kontroliuojančiąją investicinę bendrovę priėmimo dienos jos likvidavimas nėra baigtas (ji neišregistruota iš Juridinių asmenų registro), teismas Lietuvos banko siūlymu pakeičia likvidatorių – juo paskiria centralizuotai valdomo valstybės turto valdytoją ir nustato likvidatoriaus atlyginimą. Toms kontroliuojančiosioms investicinėms bendrovėms, kuriose sprendimai dėl likvidavimo buvo priimti iki 2003 m. liepos 25 d., ši dalis taikoma nuo 2012 m. sausio 1 d.
 
 
 
@@ -547,6 +547,7 @@ Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr
 
 Straipsnio pakeitimai:
 Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+Nr. XII-797, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04026
  
 
 
@@ -573,3 +574,8 @@ Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo 4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
 Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo 2, 3, 4, 7, 9, 15, 17, 18 ir 19 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-797, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04026
+Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Nr. IX-1710 19 straipsnio pakeitimo
