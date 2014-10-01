@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-09-30
+Suvestinė redakcija nuo 2014-10-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -86,7 +86,10 @@ Vilnius
 
 
 
-9. Smulkiojo ir vidutinio verslo plėtros programa – programa, kurioje bent vieno iš nustatytų programos tikslų (uždavinių, priemonių (projektų) siektinas rezultatas yra smulkiojo ir vidutinio verslo plėtra.
+9. Neteko galios nuo 2014-10-01
+Straipsnio dalies naikinimas:
+Nr. XII-470, 2013-07-02, Žin. 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA0XII-470
+ 
 
 
 
@@ -401,33 +404,27 @@ kn – koeficientas, parodantis, kokia dalis n-tosios partnerinės įmonės duom
 5 straipsnis. Valstybės paramos smulkiojo ir vidutinio verslo subjektams teikimas
 
 
-1. Valstybės parama smulkiojo ir vidutinio verslo subjektams teikiama pagal Vyriausybės ar savivaldybių smulkiojo ir vidutinio verslo plėtros programas.
-Straipsnio dalies pakeitimai:
-Nr. XI-701, 2010-03-23, Žin., 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
+1. Valstybės parama smulkiojo ir vidutinio verslo subjektams teikiama pagal Vyriausybės smulkiojo ir vidutinio verslo plėtros programas ir pagal priemones, numatytas savivaldybės strateginiame plėtros ir (arba) savivaldybės strateginiame veiklos planuose.
+
+
+
+
+2. Viešąsias paslaugas verslui teikiančiai viešajai įstaigai, kurios savininkė arba viena iš dalininkių yra valstybė ir (arba) savivaldybė, panaudos pagrindais perduotą valstybės ar savivaldybės turtą arba dalį šio turto valdytojas, vadovaudamasis Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu, viešosios įstaigos siūlymu gali išnuomoti tretiesiems asmenims – smulkiojo ir vidutinio verslo subjektams tais atvejais, kai turto nuoma yra neatskiriama viešųjų paslaugų verslui dalis ir yra būtina tinkamai viešųjų paslaugų verslui kokybei užtikrinti. Už išnuomoto turto ar jo dalies naudojimą pagal paskirtį, išnuomoto turto išlaikymą ir priežiūrą atsako nuomininkas.
+
+
+
+
+3. Rengiant ir įgyvendinant šio straipsnio 1 dalyje nurodytus dokumentus dėl valstybės paramos smulkiojo ir vidutinio verslo subjektams teikimo ir teikiant valstybės paramą, prioritetas teikiamas labai mažoms įmonėms, mažoms įmonėms ir verslininkams, atitinkantiems šio įstatymo 3 straipsnio 2 ar 3 dalyje nustatytas sąlygas.
+
+
+
+
+4. Valstybės pagalbą ar nereikšmingą pagalbą suteikę subjektai duomenis apie šią pagalbą teisės aktų nustatyta tvarka teikia Suteiktos valstybės pagalbos registro tvarkytojui. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-470, 2013-07-02, Žin., 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA0XII-470
  
-
-
-
-
-2. Smulkiojo ir vidutinio verslo plėtros programų rengimas ir įgyvendinimas finansuojami iš valstybės biudžeto, savivaldybių biudžetų, valstybės ar savivaldybių pinigų fondų lėšų.
-
-
-
-
-3. Viešąsias paslaugas verslui teikiančiai viešajai įstaigai, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė, panaudos pagrindais perduotą valstybės ar savivaldybės turtą arba jo dalį šio turto valdytojas, vadovaudamasis Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu, viešosios įstaigos siūlymu gali išnuomoti tretiesiems asmenims – smulkiojo ir vidutinio verslo subjektams tais atvejais, kai turto nuoma yra neatskiriama viešųjų paslaugų verslui dalis ir yra būtina tinkamai viešųjų paslaugų verslui kokybei užtikrinti. Už išnuomoto turto ar jo dalies naudojimą pagal paskirtį, išnuomoto turto išlaikymą ir priežiūrą atsako nuomininkas.
-
-
-
-
-4. Rengiant ir įgyvendinant smulkiojo ir vidutinio verslo plėtros programas bei teikiant valstybės paramą, prioritetas teikiamas labai mažoms įmonėms, mažoms įmonėms ir verslininkams, atitinkantiems šio įstatymo 3 straipsnio 2 arba 3 dalyje nustatytas sąlygas.
-
-
-
-
-5. Valstybės pagalbą ar nereikšmingą pagalbą suteikę subjektai duomenis apie šią pagalbą teisės aktų nustatyta tvarka teikia Suteiktos valstybės pagalbos registro tvarkytojui.
- 
-
-
 
 
 
@@ -565,3 +562,8 @@ Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 6 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-191, 2013-03-14, Žin., 2013, Nr. 30-1455 (2013-03-23), i. k. 1131010ISTA0XII-191
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-470, 2013-07-02, Žin., 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA0XII-470
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 2 ir 5 straipsnių pakeitimo įstatymas
