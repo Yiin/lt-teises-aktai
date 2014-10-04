@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2014-10-03
+Suvestinė redakcija nuo 2014-10-04 iki 2014-10-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -989,7 +989,9 @@ Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010IST
 
 
 
-3. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys užpuola saugomą asmenį, pareigūną ar kitą asmenį arba, nevykdydami teisėtų pareigūno reikalavimų, priešinasi pavojingu gyvybei ar sveikatai būdu.
+3. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys užpuola saugomą asmenį, pareigūną ar kitą asmenį arba, nevykdydami teisėtų pareigūno reikalavimų, priešinasi pavojingu gyvybei ar sveikatai būdu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
  
 
 
@@ -1055,7 +1057,10 @@ Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010IST
 
 
 
-5. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, išskyrus tiesioginio ginkluoto kėsinimosi į saugomus asmenis ar objektus atvejus, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+5. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, išskyrus tiesioginio ginkluoto kėsinimosi į saugomus asmenis ar objektus atvejus, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
+ 
 
 
 
@@ -1248,3 +1253,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
 Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 14, 16, 17, 19, 22, 25 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 19-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 23 ir 24 straipsnių pakeitimo įstatymas
