@@ -22,6 +22,10 @@ STRAIPSNIU ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2014-10-04
+ 
+Įstatymas paskelbtas: Žin. 2010, Nr. 148-7560, i. k. 1101010ISTA0XI-1185
+ 
 LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 581 STRAIPSNIU ĮSTATYMAS
  
 2010 m. lapkričio 30 d. Nr. XI-1185
@@ -555,7 +559,7 @@ Papildyti 30 straipsnį nauja 3 dalimi, buvusias 3 ir 4 dalis laikyti atitinkama
 
 
 
-„2. Rūkomajam tabakui taikomas 187 litų už kilogramą produkto akcizų tarifas.“
+„2. Rūkomajam tabakui taikomas 54,16 euro už kilogramą produkto akcizų tarifas.“
 
 
 
@@ -569,7 +573,9 @@ Papildyti 30 straipsnį nauja 3 dalimi, buvusias 3 ir 4 dalis laikyti atitinkama
 
 
 
-„2. Rūkomajam tabakui taikomas 208 litų už kilogramą produkto akcizų tarifas.“
+„2. Rūkomajam tabakui taikomas 60,24 euro už kilogramą produkto akcizų tarifas.“
+Straipsnio dalies pakeitimai:
+Nr. XII-1121, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13631
  
 
 
@@ -760,3 +766,14 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
 _________________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1121, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13631
+Lietuvos Respublikos akcizų įstatymo 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 58-1 straipsniu įstatymo Nr. XI-1185 10 straipsnio pakeitimo įstatymas
