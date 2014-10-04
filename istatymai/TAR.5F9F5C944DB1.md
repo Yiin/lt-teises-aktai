@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2013-04-13 iki 2014-10-03
+Suvestinė redakcija nuo 2014-10-04 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -191,7 +191,6 @@ BENDROSIOS NUOSTATOS
 
 
 21. Žemės ūkio produktai – kaip apibrėžta Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme. 
- 
 
 
 
@@ -411,13 +410,15 @@ LĖŠŲ UŽ PATIEKTĄ ŽEMĖS ŪKIO PRODUKCIJĄ NURAŠYMO EILIŠKUMAS
 
 
 
-10 straipsnis. Lėšų už patiektą žemės ūkio produkciją nurašymo eiliškumas 
+10 straipsnis. Atsiskaitymo už patiektą žemės ūkio produkciją eiliškumas 
 
 
-Jeigu visiems žemės ūkio produkcijos pardavėjo pareikštiems reikalavimams patenkinti vienu metu nepakanka lėšų žemės ūkio produkcijos pirkėjo sąskaitoje, žemės ūkio produkcijos pirkėjas privalo nurodyti mokėjimo paslaugų teikėjui už patiektą žemės ūkio produkciją mokėtinas pinigų sumas nurašyti iš jo sąskaitos pagal mokėjimo paslaugų teikėjui pateiktus mokėjimo dokumentus dėl sumokėjimo už žemės ūkio produkciją ta pačia eile kaip ir Civilinio kodekso 6.923 straipsnio 2 dalies 3 punkte nurodytos nurašyti lėšos.
+Jeigu visiems žemės ūkio produkcijos pardavėjo pareikštiems reikalavimams patenkinti vienu metu nepakanka lėšų žemės ūkio produkcijos pirkėjo sąskaitoje, žemės ūkio produkcijos pirkėjas privalo nurodyti mokėjimo paslaugų teikėjui už patiektą žemės ūkio produkciją mokėtinas pinigų sumas nurašyti iš jo sąskaitos pagal mokėjimo paslaugų teikėjui pateiktus mokėjimo dokumentus dėl atsiskaitymo už žemės ūkio produkciją ta pačia eile, kaip nurodyta Civilinio kodekso 6.9301 straipsnio 1 dalies 3 punkte. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
  
-
-
 
 
 
@@ -677,3 +678,8 @@ Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-207, 2013-03-28, Žin., 2013, Nr. 38-1837 (2013-04-13), i. k. 1131010ISTA0XII-207
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas
