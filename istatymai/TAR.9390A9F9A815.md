@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-10-03
+Suvestinė redakcija nuo 2014-10-04 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -605,7 +605,9 @@ V SKYRIUS
 
 
 
-2. Draudžiama panaudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie invalidai ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai).
+2. Draudžiama panaudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai).
+Straipsnio dalies pakeitimai:
+Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
  
 
 
@@ -646,7 +648,9 @@ V SKYRIUS
 
 
 
-4. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie invalidai, prieš nepilnamečius, jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+4. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
  
 
 
@@ -852,3 +856,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 6, 7 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. 1121010ISTA0XI-2245
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 16 ir 17 straipsnių pakeitimo įstatymas
