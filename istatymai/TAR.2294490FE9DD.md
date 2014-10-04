@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2014-04-04 iki 2014-10-03
+Suvestinė redakcija nuo 2014-10-04 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -1162,7 +1162,9 @@ Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010IS
 
 
 
-2. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš nėščias moteris, taip pat prieš invalidus arba nepilnamečius, jeigu šie asmenų požymiai muitinės pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi gyvybei arba sveikatai pavojingu būdu.
+2. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš nėščias moteris, taip pat prieš neįgaliuosius arba nepilnamečius, jeigu šie asmenų požymiai muitinės pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi gyvybei arba sveikatai pavojingu būdu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1161, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13592
  
 
 
@@ -1203,7 +1205,10 @@ Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010IS
 
 
 
-4. Draudžiama naudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš nėščias moteris, taip pat prieš invalidus, nepilnamečius, jeigu šie asmenų požymiai pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi gyvybei arba sveikatai pavojingu būdu.
+4. Draudžiama naudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš nėščias moteris, taip pat prieš neįgaliuosius, nepilnamečius, jeigu šie asmenų požymiai pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi gyvybei arba sveikatai pavojingu būdu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1161, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13592
+ 
 
 
 
@@ -1327,6 +1332,7 @@ Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010IST
 
 
 7. Šio straipsnio 2 dalies nuostatos netaikomos muitų teisės aktuose nustatytais atvejais, kai pašto siuntų arba panašių siuntų vežėjams suteikiama teisė deklaruoti tokias siuntas muitinei jų siuntėjų arba gavėjų vardu be atitinkamo šių asmenų įgaliojimo.
+ 
 
 
 
@@ -3167,3 +3173,8 @@ Lietuvos Respublikos muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 IV skyriaus ketvirtojo skirsnio pavadinimo, 80 straipsnio ir priedo pakeitimo, Įstatymo papildymo 40-1 straipsniu ir 81, 82, 83, 84, 85, 86, 87, 104 straipsnių pripažinimo netekusiais galios
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1161, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13592
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 25 ir 26 straipsnių pakeitimo įstatymas
