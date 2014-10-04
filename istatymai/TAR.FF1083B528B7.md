@@ -20,6 +20,10 @@ Redaguota : 1995 07 21
 
 
 
+Suvestinė redakcija nuo 2014-10-04 iki 2014-11-13
+ 
+Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
+ 
 Nauja įstatymo redakcija:
 Nr. IX-628, 2001-12-04, Žin., 2001, Nr. 108-3902 (2001-12-28)
  
@@ -2438,7 +2442,10 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 
 
 
-5. Draudžiama panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba jų išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
+5. Draudžiama panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba jų išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
+Straipsnio dalies pakeitimai:
+Nr. XII-1163, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13590
+ 
 
 
 
@@ -2513,22 +2520,6 @@ DEVINTASIS SKIRSNIS
 
 7. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijų draustinių, taip pat rekreacinių zonų valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita nenaudojama žemė neparduodama, išskyrus namų valdų, asmeninio ūkio ir sodininkų bendrijų žemę bei iki 5 hektarų ploto sklypus, įsiterpusius į žemės ūkio naudmenas ir esančius tarp privačios žemės valdų. 
  
-
-
-
-
-8. Valstybiniuose rezervatuose draudžiama keisti pagrindinę konservacinę žemės naudojimo paskirtį. Valstybiniuose draustiniuose, valstybiniuose parkuose, biosferos rezervatuose ir biosferos poligonuose draudžiama keisti pagrindinę konservacinę ir miškų ūkio žemės naudojimo paskirtį, taip pat paversti miško žemę kitomis naudmenomis, išskyrus atvejus, kai:
-
-
-1) tai daroma reikmėms, susijusioms su šių saugomų teritorijų apsauga, tvarkymu, pritaikymu visuomenės poreikiams ir naudojimu rekreacijai, jeigu tai numatyta šių saugomų teritorijų planavimo dokumentuose ir neprieštarauja šių saugomų teritorijų nuostatams;
-
-
-
-
-2) atidalijama miškų ūkio paskirties žemės sklypo dalis, kurioje leidžiama atstatyti buvusią sodybą arba kurioje yra teisėtai pastatytas gyvenamasis namas ar gyvenamasis namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas).
-
-
- Redakcija nuo 2014-02-01:
 
 
 
@@ -2842,3 +2833,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-746, 2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00032
 LIETUVOS RESPUBLIKOS SAUGOMŲ TERITORIJŲ ĮSTATYMO 31 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. vasario 1 d.
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1163, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13590
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 30 straipsnio pakeitimo įstatymas
