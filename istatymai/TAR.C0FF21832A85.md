@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-10-03
+Suvestinė redakcija nuo 2014-10-04 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -163,7 +163,10 @@ Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010IST
 1. Labdaros gavėjais gali būti:
 
 
-1) neįgalieji (invalidai);
+1) neįgalieji;
+Straipsnio punkto pakeitimai:
+Nr. XII-1159, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13593
+ 
 
 
 
@@ -667,3 +670,13 @@ Lietuvos Respublikos labdaros ir paramos įstatymo 12 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
 Lietuvos Respublikos labdaros ir paramos įstatymo 3, 4, 8, 10, 12, 13, 15 straipsnių pakeitimo ir papildymo bei 14 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1135, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13607
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 12 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1159, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13593
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 6 straipsnio pakeitimo įstatymas
