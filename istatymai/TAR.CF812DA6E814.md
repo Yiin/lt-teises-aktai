@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2013-12-14 iki 2014-10-17
+Suvestinė redakcija nuo 2014-10-18 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -50,7 +50,10 @@ BENDROSIOS NUOSTATOS
 
 5. Aukų lapas – dokumentas, kuriame yra technologinės apsaugos priemonių ir kuris turi gamybos metu suteiktą seriją bei numerį ir yra skirtas aukos perdavimui–priėmimui patvirtinti.
 
-6. Kandidatas – asmuo, įstatymų nustatyta tvarka įregistruotas pretendentu būti kandidatu į Respublikos Prezidentus ar kandidatu į Respublikos Prezidentus, kandidatu vienmandatėje Lietuvos Respublikos Seimo (toliau – Seimas) rinkimų apygardoje, taip pat kandidatu Seimo, Europos Parlamento ar savivaldybių tarybų daugiamandatėje rinkimų apygardoje.
+6. Kandidatas – asmuo, įstatymų nustatyta tvarka įregistruotas pretendentu būti kandidatu į Respublikos Prezidentus ar kandidatu į Respublikos Prezidentus, kandidatu vienmandatėje Lietuvos Respublikos Seimo (toliau – Seimas) ar savivaldybių tarybų rinkimų apygardoje, taip pat kandidatu Seimo, Europos Parlamento ar savivaldybių tarybų daugiamandatėje rinkimų apygardoje.
+Straipsnio dalies pakeitimai:
+Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+ 
 
 7. Politinė kampanija – šiame įstatyme nustatytu laikotarpiu politinės kampanijos dalyvių, rinkėjų ir kitų fizinių bei juridinių asmenų atliekama veikla, susijusi su Seimo, Respublikos Prezidento rinkimais, rinkimais į Europos Parlamentą, savivaldybių tarybų rinkimais ar referendumu.
 
@@ -101,7 +104,10 @@ BENDROSIOS NUOSTATOS
 
 6) visuomeninis rinkimų komitetas.
 
-3. Politinės partijos iškeltas kandidatas Seimo vienmandatėje rinkimų apygardoje ar kandidatų sąrašas rinkimuose į savivaldybių tarybas arba Europos Parlamentą (toliau – kandidatas ar kandidatų sąrašas), kai yra juos iškėlusios politinės partijos teikimas (prašymas), gali būti registruojamas savarankišku politinės kampanijos dalyviu.
+3. Vienmandatėje rinkimų apygardoje iškeltas kandidatas, kandidatų sąrašas rinkimuose į savivaldybių tarybas arba Europos Parlamentą (toliau – kandidatas ar kandidatų sąrašas), kai yra juos iškėlusios politinės partijos arba visuomeninio rinkimų komiteto teikimas (prašymas), gali būti registruojami savarankiškais politinės kampanijos dalyviais.
+Straipsnio dalies pakeitimai:
+Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+ 
 
 4. Atstovaujamuoju politinės kampanijos dalyviu registruojami:
 
@@ -249,11 +255,17 @@ Atstovaujamųjų politinių kampanijų dalyvių politinės kampanijos finansuoja
 
 1. Priimti šiame įstatyme nurodytas aukas turi teisę šio įstatymo nustatyta tvarka įregistruoti savarankiški politinės kampanijos dalyviai.
 
-2. Vienas fizinis asmuo, nurodytas šio įstatymo 13 straipsnyje, per politinę kampaniją kiekvienam savarankiškam politinės kampanijos dalyviui gali suteikti auką, neviršijančią 10 paskelbto praėjusių kalendorinių metų ketvirto ketvirčio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžių. Bendra vieno fizinio asmens aukų savarankiškiems politinės kampanijos dalyviams suma per kalendorinius metus negali viršyti 10 procentų fizinio asmens už praėjusius kalendorinius metus deklaruotų metinių pajamų. Į šiuos dydžius neįskaičiuojamos šio įstatymo 11 straipsnyje nurodytos aukos.
+2. Vienas fizinis asmuo, nurodytas šio įstatymo 13 straipsnyje, per politinę kampaniją kiekvienam savarankiškam politinės kampanijos dalyviui gali suteikti auką, neviršijančią 10 paskelbto praėjusių kalendorinių metų ketvirto ketvirčio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžių. Bendra vieno fizinio asmens aukų savarankiškiems politinės kampanijos dalyviams suma per kalendorinius metus negali viršyti 10 procentų fizinio asmens už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos). Į šiuos dydžius neįskaičiuojamos šio įstatymo 11 straipsnyje nurodytos aukos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+ 
 
 3. Kandidatas vienmandatėje rinkimų apygardoje, į politinių partijų ir visuomeninių rinkimų komitetų keliamų kandidatų sąrašus įrašyti kandidatai ir referendumo iniciatoriai savo politinei kampanijai finansuoti gali suteikti auką, neviršijančią 20 VMDU dydžių.
 
-4. Fizinis asmuo iki aukos savarankiškam politinės kampanijos dalyviui suteikimo įstatymų nustatyta tvarka privalo deklaruoti turtą ir pajamas už praėjusius kalendorinius metus.
+4. Fizinis asmuo iki aukos savarankiškam politinės kampanijos dalyviui suteikimo įstatymų nustatyta tvarka privalo deklaruoti turtą ir pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+ 
 
 5. Fizinių asmenų piniginės aukos, viršijančios 1 000 litų, privalo būti aukojamos tik banko pavedimu. Ne banko pavedimu gautas fizinių asmenų pinigines aukas politinei kampanijai politinės kampanijos iždininkas ne vėliau kaip kitą darbo dieną po aukos gavimo perveda į politinės kampanijos sąskaitą.
 
@@ -319,7 +331,9 @@ Atstovaujamųjų politinių kampanijų dalyvių politinės kampanijos finansuoja
 
 1) mažos aukos, suteiktos telefonu ir gautos iš telekomunikacijų bendrovės, su kuria savarankiškas politinės kampanijos dalyvis yra sudaręs šio įstatymo 11 straipsnio 4 dalyje numatytą sutartį;
 
-2) aukos, viršijančios 10 procentų aukotojo už praėjusius kalendorinius metus deklaruotų metinių pajamų, jeigu, pagal politinės kampanijos iždininko užklausos metu Vyriausiosios rinkimų komisijos informacinėje sistemoje turimus duomenis, bendra to aukotojo aukų suma (įskaitant savarankiškam politinės kampanijos dalyviui siūlomą suteikti auką) savarankiškiems politinės kampanijos dalyviams nurodyto dydžio neviršija.
+2) aukos, viršijančios 10 procentų aukotojo įstatymų nustatyta tvarka deklaruotų metinių pajamų, jeigu, pagal politinės kampanijos iždininko užklausos metu Vyriausiosios rinkimų komisijos informacinėje sistemoje turimus duomenis, bendra to aukotojo aukų suma (įskaitant savarankiškam politinės kampanijos dalyviui siūlomą suteikti auką) savarankiškiems politinės kampanijos dalyviams nurodyto dydžio neviršija.
+Straipsnio punkto pakeitimai:
+Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
  
 
 13 straipsnis. Aukotojai
@@ -677,4 +691,9 @@ Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo be
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-615, 2013-11-26, Žin., 2013, Nr. 128-6514 (2013-12-14), i. k. 1131010ISTA0XII-615
 Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 2, 3, 10 ir 12 straipsnių pakeitimo įstatymas
 
