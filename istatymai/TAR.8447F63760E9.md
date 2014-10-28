@@ -6574,13 +6574,20 @@ atskiro administravimo.
 1. Visi
 šiame įstatyme eurais nurodyti dydžiai išreiškiami litais pagal Lietuvos banko
 skelbiamą oficialų euro ir lito santykį.
+1 dalis netenka galios nuo 2015-01-01.
+Dalies redakcija nuo 2015-01-01:
+1. Neteko galios nuo 2015-01-01.
 2. Šiame
 įstatyme eurais nurodytus dydžius, kurių indeksavimą numato Europos Sąjungos
 teisės aktai, indeksuoja priežiūros institucija, atsižvelgdama į Europos
 vartotojų kainų indeksą, skelbiamą Eurostat. 
+Straispnio pakeitimai:
+Nr. XII-1115,
+2014-09-23, paskelbta TAR 2014-10-27, i. k. 2014-13414
  
 225
-straipsnis. Pasaulio prekybos organizacijos narių draudimo ir perdraudimo įmonės
+straipsnis. Pasaulio prekybos organizacijos narių draudimo ir perdraudimo
+įmonės
 1. Pasaulio prekybos organizacijos narių draudimo
 įmonės, neįsteigusios filialo Lietuvos Respublikoje, turi teisę sudaryti šio
 įstatymo 7 straipsnio 3 dalies 5, 6, 11, 12 punktuose išvardytų draudimo grupių
@@ -6604,8 +6611,8 @@ punktuose nustatytais pagrindais arba kai pažeisti draudėjų, apdraustųjų,
 nukentėjusių trečiųjų asmenų ir naudos gavėjų interesai, taikyti poveikio
 priemones, nurodytas šio straipsnio 4 dalyje.
 4. Užsienio valstybės, kuri yra Pasaulio prekybos
-organizacijos narė, draudimo įmonei priežiūros institucija gali taikyti šias poveikio
-priemones:
+organizacijos narė, draudimo įmonei priežiūros institucija gali taikyti šias
+poveikio priemones:
 1) įspėti užsienio valstybės draudimo įmonę dėl
 nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustatyti šių pažeidimų
 pašalinimo terminus;
@@ -6628,8 +6635,8 @@ nurodytos priemonės nėra pakankamos pažeidimams pašalinti, priežiūros
 institucija, prieš tai įspėjusi užsienio valstybės, kuri yra Pasaulio prekybos
 organizacijos narė, kompetentingą instituciją, turi teisę taikyti poveikio
 priemonę, nurodytą šio straipsnio 4 dalies 2 punkte. Kai neatidėliotinai
-būtina, priežiūros institucija turi teisę taikyti šią poveikio priemonę
-neatsižvelgdama į šio straipsnio 5 dalies nuostatas.
+būtina, priežiūros institucija turi teisę taikyti šią poveikio priemonę neatsižvelgdama
+į šio straipsnio 5 dalies nuostatas.
 7. Apie taikomą poveikio priemonę priežiūros
 institucija raštu praneša užsienio valstybės, kuri yra Pasaulio prekybos
 organizacijos narė, draudimo įmonei ir išsamiai nurodo šios priemonės taikymo
@@ -6662,7 +6669,8 @@ taikomas toms teisėms ir pareigoms, kurios atsirado po 2004 m. sausio 1 d.
 sausio 1 d., vykdymą reglamentuoja šio įstatymo normos.
  
 228 straipsnis. Neteko galios nuo 2013-05-07.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. XII-246,
 2013-04-23, Žin., 2013, Nr. 46-2247 (2013-05-07)
 Nr. XII-720,
@@ -6677,7 +6685,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 Respublikos 
                                                                                     draudimo
 įstatymo
-                                                                                    priedas
+                                                                                    priedas
  
 ĮGYVENDINAMI EUROPOS
 SĄJUNGOS TEISĖS AKTAI
@@ -6781,8 +6789,8 @@ DRAUDIMO
 įsigalioja nuo 2004 m. rugpjūčio 11 d.
  
 2.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. IX-2474,
 2004-10-12, Žin., 2004, Nr. 156-5688 (2004-10-26)
 DRAUDIMO
@@ -6870,8 +6878,8 @@ pakankamą akcijų paketą nagrinėjami ir sprendimai priimami prašymo padavimo
 metu galiojusių teisės aktų nustatyta tvarka.
  
 11.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. XI-582,
 2009-12-17, Žin., 2009, Nr. 154-6956 (2009-12-28)
 DRAUDIMO
@@ -6926,9 +6934,17 @@ LIETUVOS RESPUBLIKOS DRAUDIMO
 Šis įstatymas įsigalioja
 2014 m. sausio 1 d.
  
+17.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XII-1115,
+2014-09-23, paskelbta TAR 2014-10-27, i. k. 2014-13414
+LIETUVOS RESPUBLIKOS DRAUDIMO
+ĮSTATYMO NR. IX-1737 224 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2015 m. sausio 1 d. 
  
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2014-01-04)
+Redagavo Aušrinė Trapinskienė (2014-10-28)
                   ausrine.trapinskiene@lrs.lt
