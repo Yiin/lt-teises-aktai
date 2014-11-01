@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
  
@@ -422,7 +422,10 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS IR JŲ VEIKLOS LICENCIJAVIMAS
 
 
 
-2) teikti glaudžiai su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusias papildomas paslaugas, tokias kaip užsienio valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas;
+2) teikti glaudžiai su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusias papildomas paslaugas, tokias kaip valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
+ 
 
 
 
@@ -433,6 +436,14 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS IR JŲ VEIKLOS LICENCIJAVIMAS
 
 
 4) teisės aktų nustatyta tvarka vykdyti kitą veiklą, kuri nėra elektroninių pinigų leidimo veikla, išskyrus šio įstatymo 11 straipsnio 8 dalyje ir 12 straipsnio 11 dalyje nustatytus atvejus.
+
+
+
+
+5) keisti valiutą (grynaisiais pinigais).
+Papildyta straipsnio punktu:
+Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
+ 
 
 
 
@@ -2135,3 +2146,13 @@ priedas
 
 
 _________________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1036, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10869
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 10 straipsnio pakeitimo įstatymas
