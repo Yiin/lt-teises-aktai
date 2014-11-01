@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/40691e401b9711e4b542dec0b12e28b0"
 
 # Lietuvos Respublikos valiutos keityklos operatorių įstatymas
 
-Suvestinė redakcija nuo 2014-08-05 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
  
 Įstatymas paskelbtas: TAR 2014-08-04, i. k. 2014-10873
  
