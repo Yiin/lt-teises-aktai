@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
  
@@ -242,6 +242,14 @@ Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010IS
 
 
 
+20. Energinis gėrimas – nealkoholinis gėrimas, kuriame yra daugiau kaip 150 mg/l kofeino, nesvarbu, iš kokio šaltinio, arba kuriame yra daugiau kaip 150 mg/l kofeino ir vienos ar kelių kitų centrinę nervų sistemą stimuliuojančių medžiagų (gliukurono laktono, inozitolio, guaranino, ginsenozidų, ginkmedžių ekstrakto, taurino ar kt.). Energiniame gėrime gali būti ir angliavandenių, vitaminų, mineralinių medžiagų, amino rūgščių, maisto priedų, vaisių sulčių ar augalų ekstraktų.
+Papildyta straipsnio dalimi:
+Nr. XII-885, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05574
+ 
+
+
+
+
 3 straipsnis. Įstatymo taikymas
 
 
@@ -401,6 +409,19 @@ Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010IST
  
 
 
+
+
+
+
+61 straipsnis. Kai kurių maisto produktų pardavimo ribojimas
+
+
+Draudžiama parduoti, nupirkti ar kitaip perduoti energinius gėrimus jaunesniems kaip 18 metų asmenims. Energinių gėrimų pardavėjai turi teisę, o kai kyla abejonių, kad asmuo yra jaunesnis kaip 18 metų, privalo iš perkančio energinius gėrimus asmens reikalauti pateikti asmens tapatybę patvirtinantį dokumentą. Jeigu toks asmuo nepateikia jo tapatybę patvirtinančio dokumento, energinių gėrimų pardavėjai privalo atsisakyti parduoti jam energinius gėrimus.
+
+
+Papildyta straipsniu:
+Nr. XII-885, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05574
+ 
 
 
 
@@ -867,3 +888,8 @@ Lietuvos Respublikos maisto įstatymo 4 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
 Lietuvos Respublikos maisto įstatymo 2, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-885, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05574
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 2 straipsnio pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
