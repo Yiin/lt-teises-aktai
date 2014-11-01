@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2014-06-17 iki 2014-10-31
+Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -1155,7 +1155,10 @@ UŽSIENIO VALSTYBIŲ FINANSŲ ĮSTAIGOS
 
 
 
-3. Europos Sąjungos valstybėje narėje licencijuota finansų įstaiga gali pradėti teikti finansines paslaugas Lietuvos Respublikoje nesteigdama filialo, praėjus 1 mėnesiui nuo tos dienos, kurią užsienio priežiūros institucija Lietuvos Respublikos finansų įstaigų priežiūros institucijai perdavė jos veiklos planą. 
+3. Europos Sąjungos valstybėje narėje licencijuota finansų įstaiga kitais Lietuvos Respublikos įstatymuose, reglamentuojančiuose finansinių paslaugų teikimą, nustatytais atvejais gali pradėti teikti finansines paslaugas Lietuvos Respublikoje nesteigdama filialo, praėjus 1 mėnesiui nuo tos dienos, kurią užsienio priežiūros institucija Lietuvos Respublikos finansų įstaigų priežiūros institucijai perdavė jos veiklos planą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1044, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10855
+ 
 
 
 
@@ -3068,3 +3071,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 4 straipsnio papildymo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 papildymo 28-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1044, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10855
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 12 straipsnio pakeitimo įstatymas
