@@ -20,11 +20,11 @@ Redaguota : 1995 07 21
 
 
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-11-13
+Suvestinė redakcija nuo 2014-11-14 iki 2015-08-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
-Nauja įstatymo redakcija:
+Nauja įstatymo redakcija nuo 2001-12-28:
 Nr. IX-628, 2001-12-04, Žin., 2001, Nr. 108-3902 (2001-12-28)
  
 LIETUVOS RESPUBLIKOS 
@@ -2518,7 +2518,10 @@ DEVINTASIS SKIRSNIS
 
 
 
-7. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijų draustinių, taip pat rekreacinių zonų valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita nenaudojama žemė neparduodama, išskyrus namų valdų, asmeninio ūkio ir sodininkų bendrijų žemę bei iki 5 hektarų ploto sklypus, įsiterpusius į žemės ūkio naudmenas ir esančius tarp privačios žemės valdų. 
+7. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijų draustinių, taip pat rekreacinių zonų valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita nenaudojama žemė neparduodama, išskyrus pagal Lietuvos Respublikos žemės reformos įstatymą parduodamą namų valdų, asmeninio ūkio, taip pat mėgėjų sodo ir sodininkų bendrijų bendrojo naudojimo žemę bei iki 1 hektaro žemės ūkio veiklai tinkamus naudoti žemės plotus, įsiterpusius tarp privačios žemės sklypų.
+TAR pastaba. Iki įstatymo Nr. XII-1305 įsigaliojimo žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane, ar kitame žemės valdos projekte, ar teritorijų planavimo dokumente suprojektuoti žemės sklypai parduodami pagal iki šio įstatymo įsigaliojimo galiojusias įstatymų nuostatas. Jeigu asmuo iki šio įstatymo įsigaliojimo teisės aktų, reglamentuojančių žemės reformos žemėtvarkos projektų ir jiems prilyginamų žemės sklypų planų rengimą ir įgyvendinimą, nustatyta tvarka pretendentų gauti (įsigyti) žemės susirinkimo metu pasirinko žemės sklypą tai patvirtindamas parašu žemėtvarkos projekto svarstymo su pretendentais gauti (įsigyti) žemės žiniaraštyje arba pretendentų gauti (įsigyti) žemės susirinkimo protokole (kai rengiamas žemės reformos žemėtvarkos projektui prilyginamas žemės sklypo planas), laikoma, kad toks žemės sklypas suprojektuotas žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui yra nustatytos planavimo sąlygos, laikoma, kad toks žemės sklypas suprojektuotas teritorijų planavimo dokumente. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui nustatyti žemės valdos projekto (išskyrus žemės reformos žemėtvarkos projektą) rengimo reikalavimai, laikoma, kad toks žemės sklypas suprojektuotas žemės valdos projekte.
+Straipsnio dalies pakeitimai:
+Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
  
 
 
@@ -2543,7 +2546,6 @@ DEVINTASIS SKIRSNIS
 
 
 4) formuojamos šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose ar bendruosiuose planuose numatytos visuomeninės paskirties, bendrojo naudojimo ir atskirųjų želdynų teritorijos.
- 
 
 
 
@@ -2841,3 +2843,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1163, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13590
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 30 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 31 straipsnio pakeitimo įstatymas
