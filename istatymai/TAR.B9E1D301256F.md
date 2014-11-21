@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-11-20
+Suvestinė redakcija nuo 2014-11-21 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -1636,7 +1636,10 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 
 
-3) etilo alkoholis, naudojamas sveikatinimo reikmėms;
+3) etilo alkoholis, kuris yra farmacijos produktų, veterinarinių vaistų sudedamoji dalis, taip pat etilo alkoholis, naudojamas asmens ir visuomenės sveikatos priežiūros, farmacinės veiklos, veterinarinės farmacijos, veterinarijos praktikos tikslams arba valstybinę farmacijos produktų, maisto ir veterinarinę kontrolę atliekančių institucijų funkcijoms įgyvendinti;
+Straipsnio punkto pakeitimai:
+Nr. XII-1319, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17216
+ 
 
 
 
@@ -2871,6 +2874,11 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1121, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13631
 Lietuvos Respublikos akcizų įstatymo 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 58-1 straipsniu įstatymo Nr. XI-1185 10 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1319, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17216
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 27 straipsnio pakeitimo įstatymas
  
  
 
