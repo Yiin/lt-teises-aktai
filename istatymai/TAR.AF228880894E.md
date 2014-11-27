@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
+Suvestinė redakcija nuo 2014-11-27 iki 2018-07-15
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
+ 
 LIETUVOS RESPUBLIKOS
 VYRIAUSIOSIOS RINKIMŲ KOMISIJOS
 ĮSTATYMAS
@@ -90,7 +94,15 @@ Nr. XI-1958, 2012-03-29, Žin., 2012, Nr. 39-1922 (2012-03-31)
 
 17) atlieka institucijos, tikrinančios ir tvirtinančios asmenų, Lietuvos Respublikoje turinčių teisę balsuoti rinkimuose į Europos Parlamentą ir įgyvendinančių Europos Sąjungos piliečių iniciatyvą, pritarimo pareiškimus, funkcijas;
 
-18) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
+18) turi teisę iš sutaupytų rinkimams ir referendumams organizuoti skirtų valstybės biudžeto lėšų įsigyti balsavimo patalpų įrengimo inventorių ir teisės aktuose nustatyta tvarka jį perduoti savivaldybėms valdyti, naudoti ir juo disponuoti patikėjimo teise; 
+Papildyta straipsnio punktu:
+Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+ 
+
+19) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+ 
 
 3. Vykdydama Lietuvos Respublikos Seimo rinkimus, Vyriausioji rinkimų komisija, be šio straipsnio 2 dalyje nustatytų funkcijų: 
 
@@ -604,4 +616,13 @@ Konstitucinio Teismo nutarimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-05-10, Žin., 2006, Nr. 52-1917 (2006-05-12)
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS RINKIMŲ KOMISIJOS ĮSTATYMO 3 STRAIPSNIO 6 DALIES (2003 M. BALANDŽIO 10 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 straipsnio pakeitimo įstatymas
 
