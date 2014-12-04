@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2014-12-03
+Suvestinė redakcija nuo 2014-12-04 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
  
@@ -1371,7 +1371,10 @@ KONCESIJŲ SUTEIKIMO KONTROLĖ
 
 
 
-4. Metodinę ir konsultacinę pagalbą suteikiančioms institucijoms koncesijų suteikimo klausimais teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Vyriausybė.
+4. Metodinę ir konsultacinę pagalbą suteikiančioms institucijoms koncesijų suteikimo klausimais teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Lietuvos Respublikos Vyriausybė. Šioje dalyje nustatyta veikla yra finansuojama iš Lietuvos Respublikos finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1360, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18647
+ 
 
 
 Straipsnio pakeitimai:
@@ -1511,3 +1514,8 @@ Lietuvos Respublikos koncesijų įstatymo 17 straipsnio papildymo ir pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2116, 2012-06-26, Žin., 2012, Nr. 76-3940 (2012-06-30), i. k. 1121010ISTA0XI-2116
 Lietuvos Respublikos koncesijų įstatymo papildymo 30 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1360, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18647
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 28-1 straipsnio pakeitimo įstatymas
