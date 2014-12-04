@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-03
+Suvestinė redakcija nuo 2014-12-04 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -799,7 +799,10 @@ INVESTAVIMAS SUDARANT VALDŽIOS IR PRIVATAUS SUBJEKTŲ PARTNERYSTĖS SUTARTIS
 
 
 
-12. Metodinę ir konsultacinę pagalbą rengiant ir įgyvendinant valdžios ir privataus subjektų partnerystės projektus teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Lietuvos Respublikos Vyriausybė.
+12. Metodinę ir konsultacinę pagalbą rengiant ir įgyvendinant valdžios ir privataus subjektų partnerystės projektus teikia Lietuvos Respublikos Vyriausybės įgaliotas viešasis juridinis asmuo, kurio funkcijas nustato Lietuvos Respublikos Vyriausybė. Šioje dalyje nustatyta veikla yra finansuojama iš Lietuvos Respublikos finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
+ 
 
 
 
@@ -1011,3 +1014,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 ir 13 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1271, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14494
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeitimo įstatymas
