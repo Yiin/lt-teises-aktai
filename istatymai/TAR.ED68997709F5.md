@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2014-11-21 iki 2014-12-15
+Suvestinė redakcija nuo 2014-12-16 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
- 
  
  
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
@@ -1683,8 +1682,11 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
 
-1) iki 2014 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
-Pastaba. 19 straipsnio 3 dalies 1 punkto nuostatos taikomos tame punkte nurodytoms iki 2014 m. gruodžio 31 d. faktiškai patiektoms prekėms.
+1) iki 2015 m. liepos 1 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
+TAR pastaba. 19 straipsnio 3 dalies 1 punkto nuostatos taikomos iki 2015-07-01 tame punkte nurodytoms faktiškai patiektoms prekėms.
+Straipsnio punkto pakeitimai:
+Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
+ 
 
 
 
@@ -6877,3 +6879,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 24, 57, 71, 71-1, 101, 102, 103, 104, 105, 116, 117, 118 straipsnių ir XII skyriaus penktojo skirsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
