@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2014-11-12 iki 2014-12-15
+Suvestinė redakcija nuo 2014-12-16 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -204,24 +204,25 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 3 straipsnis. Valstybės biudžeto ir savivaldybių biudžetų visuma
 
 
-1. Valstybės biudžeto ir savivaldybių biudžetų pajamas sudaro visos valstybės biudžeto ir savivaldybių biudžetų sukaupiamos lėšos. Valstybės ir savivaldybių biudžetų pajamos ir asignavimai gali būti tik piniginės lėšos.
+1. Valstybės biudžeto ir savivaldybių biudžetų pajamos ir asignavimai gali būti tik piniginės lėšos.
 
 
 
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos, rinkliavos ir valstybės vardu pasiskolintos lėšos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Privatizavimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, savivaldybių privatizavimo fondus.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Privatizavimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, savivaldybių privatizavimo fondus.
 
 
 
 
-3. Seimas tvirtina trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų) planuojamus rodiklius – pajamas ir asignavimus. 
-
-
-Pastaba. Šis straipsnis taikomas rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+3. Seimas tvirtina trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų) planuojamus rodiklius – pajamas ir asignavimus.
 Straipsnio pakeitimai:
 Nr. X-1317, 2007-11-08, Žin., 2007, Nr. 120-4882 (2007-11-22)
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
+
+
+Straipsnio pakeitimai:
+Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
  
 
 
@@ -671,7 +672,15 @@ Nr. XII-796, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04028
 4. Šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytų pajamų viršplaninės įmokos į valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais paliekamos asignavimų valdytojams ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas. 
 
 
-Pastaba. Šis straipsnis taikomas rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+
+
+5. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams valstybės vardu pasiskolintos lėšos gali būti naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
+TAR pastaba. Ši dalis taikoma rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2015 metų ir vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+Papildyta straipsnio dalimi:
+Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1354, 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
@@ -1601,7 +1610,6 @@ PIRMININKAS                                  �
 Vilnius, 1990 m. liepos 30 d. 
 Nr. I-430
  
- 
 
 
 
@@ -1886,3 +1894,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1315, 2014-11-06, paskelbta TAR 2014-11-11, i. k. 2014-16657
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 32 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3 ir 14 straipsnių pakeitimo įstatymas
