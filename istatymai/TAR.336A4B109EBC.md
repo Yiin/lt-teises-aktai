@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2014-11-12 iki 2014-12-15
+Suvestinė redakcija nuo 2014-12-16 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -720,7 +720,10 @@ Nr. XII-1070, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10474
 
 2. Rinkimų užstatas pakeisti vieno kandidato vietą kandidatų sąraše, įrašyti į kandidatų sąrašą naują kandidatą – 0,5 VMDU dydžio, sujungti partijos iškeltus kandidatų sąrašus – po 0,3 VMDU dydžio už kiekvieną sujungiamą sąrašą.
 
-3. Jeigu partijos ar rinkimų komiteto keliamame kandidatų sąraše yra įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – dviejų VMDU dydžio.
+3. Jeigu partijos ar rinkimų komiteto keliamame kandidatų sąraše yra įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – dviejų VMDU dydžio. Šis užstatas (už kiekvieną kandidatą nustatant atskirai) grąžinamas jį sumokėjusiai partijai, rinkimų komitetui ar kandidatui, jeigu rinkimų užstatas tampa grąžintinu pagal šio straipsnio 5 dalyje nustatytus reikalavimus, bet kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, šio įstatymo 91 straipsnio 2 dalyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
+ 
 
 4. Rinkimų užstatai įregistruoti kandidatų sąrašą nustatomi du kartus didesni tai partijai, kuri per paskutinius Seimo rinkimus arba savivaldybių tarybų rinkimus, arba per rinkimus į Europos Parlamentą buvo iškėlusi kandidatus arba kandidatų sąrašą (sąrašus) ir nepateikė įstatymų nustatyta tvarka paskelbti spaudoje lėšų šaltinių ir jų panaudojimo rinkimų agitacijai ataskaitos.
 
@@ -732,7 +735,10 @@ Nr. XII-1070, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10474
 
 3) kandidatas į savivaldybės tarybos narius – merus ar kandidatų sąrašas per savivaldybės tarybos rinkimus surinko ne mažiau kaip 3 procentus rinkimuose dalyvavusių rinkėjų balsų.
 
-4) išrinktas asmuo, kuris eina pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, iki savivaldybės tarybos pirmojo posėdžio dienos neatsisako savivaldybės tarybos nario mandato.
+4) Neteko galios nuo 2014-12-16
+Straipsnio punkto naikinimas:
+Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
+ 
 
 6. Panaikinus kandidato registravimą, atšaukus partijos, rinkimų komiteto kandidatų sąrašo (jungtinio sąrašo) paskelbimą šio įstatymo 37 straipsnio 6 dalyje nustatytais pagrindais arba neįregistravus kandidato į savivaldybės tarybos narius – merus, kandidatų sąrašo (jungtinio sąrašo) dėl pavėluotai pateiktų pareiškinių dokumentų, rinkimų užstatas negrąžinamas.
 
@@ -1773,4 +1779,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1313, 2014-11-06, paskelbta TAR 2014-11-11, i. k. 2014-16648
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 35 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
 
