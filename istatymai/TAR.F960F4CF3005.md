@@ -139,17 +139,15 @@ XI-1164,
 2010-11-23, Žin., 2010, Nr. 145-7421 (2010-12-11)
  
 6 straipsnis. Lėšų, skiriamų
-savivaldybių gyventojų pajamų mokesčiui ir
-išlaidų 
+savivaldybių gyventojų pajamų mokesčiui ir išlaidų 
 struktūrų
 skirtumams išlyginti, dydis
 Lėšas (L),
 skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų
 skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs
 veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų
-pajamų
-mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie
-Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos
+pajamų mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos
+prie Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos
 mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2
 punktas, (L = åPi).]
 Straipsnio
@@ -205,8 +203,8 @@ dalis gyventojų pajamų mokesčiui išlyginti;
 gauti) biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų
 mokesčio vienam gyventojui;
 4) xif – faktinės (arba numatomos faktiškai
-gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų pajamų
-mokesčio vienam savivaldybės gyventojui.
+gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų
+pajamų mokesčio vienam savivaldybės gyventojui.
 5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam
 savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal
 nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.
@@ -256,8 +254,8 @@ išlaidų struktūrų skirtumams išlyginti;
 – koeficientas, nurodantis n-ojo demografinio, socialinio ar kito rodiklio
 įtaką visų savivaldybių išlaidų struktūrai ;
 3) Eni – i-ajai savivaldybei
-tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis,
-apskaičiuojama pagal formulę , čia Rni
+tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio
+dalis, apskaičiuojama pagal formulę , čia Rni
 – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
 imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
 dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.
@@ -276,8 +274,8 @@ pajamų dydį ir išlyginimą lemiantys rodikliai
 1. Savivaldybių biudžetų pajamų dydį ir
 išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio
 priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui
-išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų
-mokesčio dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie
+išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio
+dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie
 demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys
 šių rodiklių įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:
 1) rodiklis R1 – vietinių
@@ -328,12 +326,15 @@ valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtin
 Finansiniai rodikliai ir pervedimai 
 1. Vyriausybė, su Lietuvos savivaldybių
 asociacija apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
-1) gyventojų pajamų mokesčio dalį,
-tenkančią visų savivaldybių biudžetams nuo šio
-mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus.
-Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar
-ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus
-savivaldybių išlaidų ar pajamų pokyčius;
+1) gyventojų pajamų mokesčio dalį
+(procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į
+konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto
+dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria
+verčiamasi turint verslo liudijimą. Ateinančių metų gyventojų pajamų mokesčio
+dalis (procentais) apskaičiuojama einamųjų metų gyventojų pajamų mokesčio dalį
+(procentais) koreguojant atsižvelgus į einamųjų ar ateinančių
+biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų
+ar pajamų pokyčius;
 2) valstybės biudžeto bendrosios
 dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų
 pajamų mokesčiui išlyginti;
@@ -342,9 +343,8 @@ dotacijos (jeigu ji numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų
 struktūrų skirtumams išlyginti;
 4) valstybės biudžeto specialias
 tikslines dotacijas savivaldybių biudžetams;
-5) valstybės biudžeto bendrosios
-dotacijos (jeigu ji numatoma) kompensacijų sumas, skiriamas kiekvienai
-savivaldybei.
+5) valstybės biudžeto bendrosios dotacijos
+(jeigu ji numatoma) kompensacijų sumas, skiriamas kiekvienai savivaldybei.
 2. Atitinkamų metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti
 numatomas finansinis rodiklis – savivaldybių prognozuojamos pajamos.
@@ -377,8 +377,8 @@ zonos teritorijoje, panaudoto šioje teritorijoje esančiai žemei išpirkti iš
 reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija (BDK),
 susijusi su savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybių
 biudžetų paimamos reikiamos sumos, o ateinančiais biudžetiniais metais
-koreguojama gyventojų pajamų mokesčio dalis, tenkanti visų savivaldybių
-biudžetams.
+koreguojama gyventojų pajamų mokesčio dalis (procentais), tenkanti visų
+savivaldybių biudžetams.
 6. Valstybės biudžeto bendrosios
 dotacijos kompensacija, taip pat iš savivaldybių biudžetų paimamos sumos,
 susijusios su savivaldybių pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
@@ -418,9 +418,16 @@ Nr. XI-1739,
 2011-11-29, Žin., 2011, Nr. 150-7046 (2011-12-08)
 Nr. XII-660,
 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
-Pastaba. Šio įstatymo
-nuostatos taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Pastaba. Šio įstatymo (Nr.
+XII-660) nuostatos
+taikomos rengiant 2014 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Nr. XII-1384,
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19668
+Pastaba. Šio įstatymo (Nr.
+XII-1384) nuostatos
+taikomos rengiant 2015 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
  
 11
 straipsnis. Finansinių rodiklių derinimas
@@ -1202,8 +1209,8 @@ PAPILDYMO ĮSTATYMAS
 straipsnyje išdėstytos Savivaldybių biudžetų pajamų nustatymo metodikos
 įstatymo 9 straipsnio 1 dalies 8 ir 9 punktuose nurodyti rodikliai R8
 ir R9 ir koeficientai K8 ir K9 pradedami
-taikyti rengiant Lietuvos Respublikos 2009 metų valstybės biudžeto ir
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+taikyti rengiant Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
  
 11.
 Lietuvos
@@ -1278,8 +1285,8 @@ savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus
 17.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-660, 2013-12-12,
-Žin., 2013, Nr. 140-7045 (2013-12-30)
+Nr. XII-660,
+2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
 LIETUVOS
 RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10, 12,
 13 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO ĮSTATYMAS
@@ -1302,10 +1309,16 @@ nuostatos taikomos rengiant Lietuvos Respublikos 2015 metų ir vėlesnių metų
 valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 įstatymų projektus.
  
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-1384,
+2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19668
+LIETUVOS
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO NR.
+VIII-385 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo
+nuostatos taikomos rengiant 2015 metų ir vėlesnių metų valstybės biudžeto ir
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+ 
 *** Pabaiga ***
- 
- 
-Redagavo Aušrinė
-Trapinskienė (2014-01-11)
-                 
-ausrine.trapinskiene@lrs.lt
