@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5FBBA345223"
 
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2014-12-15
+Suvestinė redakcija nuo 2014-12-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3022, i. k. 1021010ISTA0IX-1023
  
@@ -601,13 +601,15 @@ Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010IST
 
 
 
-18 straipsnis.       Asmens duomenų, įeinančių į visuomenės sveikatos duomenis, tvarkymas ir apsauga 
+18 straipsnis. Asmens duomenų, įeinančių į visuomenės sveikatos duomenis, tvarkymas ir apsauga 
 
 
-Asmens duomenų, įeinančių į visuomenės sveikatos duomenis, tvarkymą ir jų apsaugą nustato Asmens duomenų teisinės apsaugos įstatymas.
+Sveikatos apsaugos ministerija ir jos įgaliotos institucijos turi teisę tvarkyti asmens kodą, ypatingus asmens duomenis apie sveikatą statistikos tikslais registruose ir valstybės informacinėse sistemose. Panaudoti duomenys turi būti nedelsiant pakeisti taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės. Asmens duomenys, įeinantys į visuomenės sveikatos duomenis, tvarkomi laikantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo reikalavimų. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1402, 2014-12-09, paskelbta TAR 2014-12-15, i. k. 2014-19671
  
-
-
 
 
 
@@ -687,3 +689,8 @@ Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-465, 2013-07-02, Žin., 2013, Nr. 79-3986 (2013-07-23), i. k. 1131010ISTA0XII-465
 Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 7 ir 9 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1402, 2014-12-09, paskelbta TAR 2014-12-15, i. k. 2014-19671
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo Nr. IX-1023 18 straipsnio pakeitimo įstatymas
