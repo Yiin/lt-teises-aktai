@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2014-11-10 iki 2014-12-22
+Suvestinė redakcija nuo 2014-12-23 iki 2016-01-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -3891,7 +3891,10 @@ VALSTYBINIŲ AUKŠTŲJŲ MOKYKLŲ TURTO VALDYMAS, NAUDOJIMAS IR DISPONAVIMAS JUO
 
 
 
-5. Pagal patikėjimo sutartį perduotą valstybės turtą valstybinė aukštoji mokykla gali išnuomoti tretiesiems asmenims, suteikti panaudos pagrindais, jeigu tai buvo numatyta patikėjimo sutartyje ir jeigu tai būtina valstybinės aukštosios mokyklos veiklai užtikrinti. 
+5. Pagal patikėjimo sutartį perduotą valstybės turtą valstybinė aukštoji mokykla gali išnuomoti tretiesiems asmenims, suteikti panaudos pagrindais, jeigu tai buvo numatyta patikėjimo sutartyje ir jeigu tai būtina valstybinės aukštosios mokyklos veiklai užtikrinti. Valstybinė aukštoji mokykla gali viešo konkurso būdu išnuomoti jai pagal patikėjimo sutartį perduotą valstybės turtą kitoms formaliojo ir neformaliojo švietimo ir kultūros programoms vykdyti, jeigu tai buvo numatyta patikėjimo sutartyje. Lėšas, gautas iš valstybės turto nuomos, valstybinė aukštoji mokykla naudoja aukštosios mokyklos statute nustatytai veiklai vykdyti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1403, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20431
+ 
 
 
 
@@ -4790,3 +4793,8 @@ Pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT48-N15/2014, 2014-11-10, paskelbta TAR 2014-11-10, i. k. 2014-16400
 Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 20 straipsnio 3 dalies (2012 m. balandžio 24 d. redakcija), 70 straipsnio 7 dalies (2012 m. sausio 19 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1403, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20431
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 straipsnio pakeitimo įstatymas
