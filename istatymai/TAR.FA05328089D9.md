@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/fa05328089d911e397b5c02d3197f382"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios ĮSTATYMAS
 
+Suvestinė redakcija nuo 2014-12-23 iki 2015-07-03
+ 
+Įstatymas paskelbtas: Žin. 2013, Nr. 140-7058; TAR 2013-12-31, i. k. 2013-00363
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO IR KAI KURIŲ SU JUO SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
@@ -1045,19 +1052,36 @@ Pripažinti netekusiais galios:
 
 
 
-2. Šio įstatymo 2 straipsnis įsigalioja 2015 m. sausio 1 d. 
-
-
-
-
-3. Šio įstatymo 3 straipsnis įsigalioja 2016 m. sausio 1 d. 
+2. Šio įstatymo 2 straipsnis įsigalioja 2016 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
  
 
 
 
 
+3. Šio įstatymo 3 straipsnis įsigalioja 2017 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
+ 
+
+
+
+
+ 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
+Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 6 straipsnio pakeitimo įstatymas
