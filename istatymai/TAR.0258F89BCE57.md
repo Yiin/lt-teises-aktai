@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2009-03-01 iki 2014-12-22
+Suvestinė redakcija nuo 2014-12-23 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
  
@@ -344,7 +344,10 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 
 
 
-2) 80 MGL, jeigu smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata;
+2) 80 MGL, jeigu smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
+ 
 
 
 
@@ -364,7 +367,10 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 
 
 
-2) 100 MGL, jeigu smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata;
+2) 100 MGL, jeigu smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
+Straipsnio punkto pakeitimai:
+Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
+ 
 
 
 
@@ -1019,3 +1025,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1843, 2008-11-14, Žin., 2008, Nr. 137-5387 (2008-11-29), i. k. 1081010ISTA00X-1843
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 7 straipsnio pakeitimo įstatymas
