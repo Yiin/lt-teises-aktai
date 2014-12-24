@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2013-11-09 iki 2014-12-23
+Suvestinė redakcija nuo 2014-12-24 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -1051,9 +1051,18 @@ Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010I
 
 
 
-8. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+8. Šio straipsnio 2 dalies 10 punktas ir 6 dalis netaikomi įmonei, kuri yra centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija Lietuvos Respublikoje ir kurios pelno panaudojimą reglamentuoja Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas. 
+Papildyta straipsnio dalimi:
+Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
+ 
+
+
+
+
+9. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
+Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
  
 
 
@@ -1706,3 +1715,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4, 10, 11, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 15 straipsnio papildymo ir pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
