@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2014-10-13 iki 2014-12-23
+Suvestinė redakcija nuo 2014-12-24 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
  
@@ -70,7 +70,10 @@ BENDROSIOS NUOSTATOS
 
 2. Balsuoti ar būti kandidatu tuose pačiuose rinkimuose galima tik vienoje Europos Sąjungos valstybėje narėje. 
 
-3. Asmenys, kurie gali balsuoti ar būti kandidatais Lietuvos Respublikoje ir kitoje Europos Sąjungos valstybėje narėje, privalo pasirinkti ir balsuoti ar būti kandidatais tik vienoje valstybėje. Europos Sąjungos valstybių narių piliečiai negali balsuoti ar būti kandidatais, jeigu jie neturi balsavimo teisės kilmės valstybėje narėje.
+3. Asmenys, kurie gali balsuoti ar būti kandidatais Lietuvos Respublikoje ir kitoje Europos Sąjungos valstybėje narėje, privalo pasirinkti ir balsuoti ar būti kandidatais tik vienoje valstybėje narėje. Europos Sąjungos valstybių narių piliečiai negali balsuoti ar būti kandidatais, jeigu jiems šios teisės yra atimtos kilmės valstybėje narėje. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+ 
 
 4. Lietuvos Respublikoje Europos Parlamento nariu gali būti renkamas Lietuvos Respublikos pilietis ar kitas nuolat gyvenantis Lietuvos Respublikoje Europos Sąjungos valstybės narės pilietis, kuris rinkimų dieną yra ne jaunesnis kaip 21 metų ir kuris nėra kandidatas į Europos Parlamentą kitoje Europos Sąjungos valstybėje narėje. Nuolat gyvenančiu Lietuvos Respublikoje laikomas Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės pilietis, kuris deklaravo gyvenamąją vietą Lietuvos Respublikoje ir kurio duomenys apie gyvenamąją vietą Lietuvos Respublikoje įrašyti į Lietuvos Respublikos gyventojų registrą iki nustatytosios dienos. 
 
@@ -190,6 +193,11 @@ Vykdydama rinkimus, Vyriausioji rinkimų komisija, be Lietuvos Respublikos vyria
 1) priima pareiškinius dokumentus, taip pat pareiškimus dėl šių dokumentų atšaukimo, juos tikrina, registruoja rinkimų komitetus, registruoja kandidatus dalyvauti rinkimuose, registruoja partijų atstovus rinkimams ir išduoda jiems pažymėjimus, pažymas, skelbia rinkimuose dalyvaujančias partijas, rinkimų komitetus, kandidatų sąrašus, suteiktus rinkimų numerius, priima sprendimus dėl kandidatų pareiškinių dokumentų atšaukimo;
 
 2) išduoda Lietuvos Respublikoje išrinktiems Europos Parlamento nariams Europos Parlamento nario pažymėjimus ir praneša Europos Parlamentui rinkimų rezultatus;
+
+3) kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymu ne vėliau kaip per 5 darbo dienas nuo tokio prašymo gavimo dienos teikia informaciją apie tai, ar Lietuvos Respublikos piliečiui, kuris siekia būti kandidatu į Europos Parlamentą toje valstybėje narėje, Lietuvos Respublikoje teisė būti kandidatu nėra ribojama pagal Lietuvos Respublikos Konstituciją ir įstatymus.
+Papildyta straipsnio punktu:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+ 
 
 15 straipsnis. Savivaldybių rinkimų komisijų sudarymas
 
@@ -636,7 +644,10 @@ Nr. KT45-N13/2014, 2014-10-13, paskelbta TAR 2014-10-13, i. k. 2014-13988
 
 7) informaciją apie laikotarpiu nuo einamųjų metų sausio 1 dienos iki dokumentų pateikimo mėnesio 1 dienos gautas ir kasoje bei politinės partijos einamojoje banko sąskaitoje (sąskaitose) turimas lėšas.
 
-2. Kandidato į Europos Parlamento narius anketoje asmuo, keliamas kandidatu, pats turi įrašyti savo pavardę, vardą, paso ar kito pilietybę patvirtinančio dokumento numerį, asmens kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis privalomąją karo arba alternatyviąją krašto apsaugos tarnybą, taip pat likus 65 dienoms iki rinkimų neišėjęs į atsargą profesinės karo tarnybos karys arba statutinės institucijos ir įstaigos pareigūnas ar asmuo, kuris pagal specialius įstatymus ar statutus negali dalyvauti politinėje veikloje, taip pat atsakyti į šio įstatymo 96 straipsnyje nurodytus klausimus ir pasirašyti. Kitos Europos Sąjungos valstybės narės pilietis, be šių duomenų, turi nurodyti kilmės valstybę narę, kad jis savo kilmės valstybėje narėje turi balsavimo teisę, ir valstybės narės vietovę ar rinkimų apygardą, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą. Kandidato į Europos Parlamento narius anketoje gali būti pateikiama ir kitų Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo gali neatsakyti.
+2. Kandidato į Europos Parlamento narius anketoje asmuo, keliamas kandidatu, pats turi įrašyti savo pavardę, vardą, paso ar kito pilietybę patvirtinančio dokumento numerį, asmens kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis privalomąją karo arba alternatyviąją krašto apsaugos tarnybą, taip pat likus 65 dienoms iki rinkimų neišėjęs į atsargą profesinės karo tarnybos karys arba statutinės institucijos ir įstaigos pareigūnas ar asmuo, kuris pagal specialius įstatymus ar statutus negali dalyvauti politinėje veikloje, taip pat atsakyti į šio įstatymo 96 straipsnyje nurodytus klausimus ir pasirašyti. Kitos Europos Sąjungos valstybės narės pilietis, be šių duomenų, turi nurodyti gimimo vietą, pilietybę, paskutinį gyvenamosios vietos adresą kilmės valstybėje narėje, kad jam kilmės valstybėje narėje nėra atimta teisė būti kandidatu, ir valstybės narės vietovę ar rinkimų apygardą, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą. Kandidato į Europos Parlamento narius anketoje gali būti pateikiama ir kitų Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo gali neatsakyti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+ 
 
 3. Vyriausioji rinkimų komisija partijai, rinkimų komitetui, pateikusiems pareiškinius dokumentus, per 3 dienas išduoda vardinius parašų rinkimo lapus, kuriuose įrašyta partijos, rinkimų komiteto kandidatų vardai ir pavardės, kandidatų išsikėlimą remiančių rinkėjų parašams rinkti. Parašus renka partijos, rinkimų komiteto narys, rinkimų komiteto sąraše esantis kandidatas arba tai paveda atlikti kitiems rinkimų teisę turintiems asmenims. Parašus rinkęs asmuo pasirašo parašų rinkimų lapo pabaigoje ir atsako, kad parašai būtų renkami šio įstatymo nustatyta tvarka. Parašų rinkimo lape rinkėjas, kuris remia kandidatų sąrašo iškėlimą, pats turi įrašyti šio straipsnio 4 dalyje nurodytus duomenis ir pasirašyti. Tuo atveju, kai kandidatų sąrašo iškėlimą remiantis asmuo dėl fizinio trūkumo, ligos ar kitokių priežasčių negali reikalingų duomenų parašų rinkimo lape įrašyti pats, jis gali paprašyti kito rinkimų teisę turinčio asmens, išskyrus parašų rinkėją, tai padaryti už jį. Šiuo atveju parašų rinkimo lape padaromas Vyriausiosios rinkimų komisijos nustatytos formos įrašas. Draudžiama papirkinėti išsikėlimą parėmusius rinkėjus, atsilyginti ar žadėti atsilyginti už kandidato sąrašo iškėlimo parėmimą, taip pat grasinant reikalauti pasirašyti ar kitaip pažeisti savanoriškumo principą. Parašų rinkimo lapus parašų rinkėjai turi grąžinti Vyriausiajai rinkimų komisijai ne vėliau kaip likus 45 dienoms iki rinkimų. Gavusi parašų rinkimo lapus, Vyriausioji rinkimų komisija ne daugiau kaip per 10 dienų juos patikrina. Vyriausioji rinkimų komisija suskaičiuoja rinkėjų, parėmusių kandidatų sąrašo iškėlimą, parašų skaičių. Neįskaičiuojami šie parašai: asmenų, neturinčių rinkimų teisės; rinkėjų, neįrašytų į rinkėjų sąrašą; asmenų, kurie nėra įrašę visų šio įstatymo nustatytų duomenų; jeigu įrašyti neteisingi duomenys; visi parašai rinkėjo, kuris už to paties kandidatų sąrašo iškėlimą pasirašė keletą kartų. Jeigu yra nustatoma, kad rinkėjų parašai suklastoti, kad renkant parašus buvo pažeisti savanoriškumo principas ar kiti šio įstatymo reikalavimai, Vyriausioji rinkimų komisija neregistruoja kandidatų sąrašo rinkimams į Europos Parlamentą. 
 
@@ -669,7 +680,10 @@ Redakcija nuo 2015-01-01:
 
 2. Gavusi partijos pareiškinius dokumentus, Vyriausioji rinkimų komisija turi ne vėliau kaip kitą darbo dieną kreiptis į Teisingumo ministeriją dėl partijos registracijos fakto ir partijos įstatų galiojimo patvirtinimo. Teisingumo ministerija per 2 dienas turi duoti rašytinį atsakymą ir pateikti Vyriausiajai rinkimų komisijai galiojančių partijos įstatų nuorašą.
 
-3. Tikrindama kandidato užpildytus pareiškinius dokumentus, Vyriausioji rinkimų komisija nustato, ar kandidatas atitinka šio įstatymo 3 straipsnio reikalavimus. Prireikus ji gali kreiptis pagalbos į Lietuvos Respublikos užsienio reikalų ministeriją, Lietuvos Respublikos vidaus reikalų ministeriją (toliau – Vidaus reikalų ministerija), Teisingumo ministeriją ar kitas valstybės institucijas, kad šios praneštų kandidatui registruoti reikšmingus duomenis. Toks Vyriausiosios rinkimų komisijos prašymas turi būti nagrinėjamas ypatingos skubos tvarka, o rašytinis atsakymas turi būti duotas per 7 dienas, bet ne vėliau kaip likus 32 dienoms iki rinkimų.
+3. Tikrindama kandidato užpildytus pareiškinius dokumentus, Vyriausioji rinkimų komisija nustato, ar kandidatas atitinka šio įstatymo 3 straipsnio reikalavimus. Prireikus ji gali kreiptis pagalbos į Lietuvos Respublikos užsienio reikalų ministeriją, Lietuvos Respublikos vidaus reikalų ministeriją (toliau – Vidaus reikalų ministerija), Teisingumo ministeriją ar kitas valstybės institucijas, kad šios praneštų kandidatui registruoti reikšmingus duomenis. Toks Vyriausiosios rinkimų komisijos prašymas turi būti nagrinėjamas ypatingos skubos tvarka, o rašytinis atsakymas turi būti duotas per 7 dienas, bet ne vėliau kaip likus 32 dienoms iki rinkimų. Tikrindama kandidato, kuris yra kitos Europos Sąjungos valstybės narės pilietis, užpildytus pareiškinius dokumentus, Vyriausioji rinkimų komisija praneša kandidato kilmės valstybės narės kompetentingai institucijai apie gautus pareiškinius dokumentus prašydama pateikti informaciją apie tai, ar kandidato kilmės valstybėje narėje jam nėra atimta teisė būti kandidatu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+ 
 
 4. Vyriausioji rinkimų komisija, patikrinusi partijos, rinkimų komiteto pareiškinius dokumentus ir nustačiusi, kad jie atitinka šio įstatymo reikalavimus, o kandidatų į Europos Parlamento narius sąrašą iškėlusi partija, rinkimų komitetas yra įregistruoti savarankišku politinės kampanijos dalyviu, ir nustačiusi, kad keliamas sąrašas turi 10 000 rinkėjų palaikymą, priima sprendimą dėl kandidatų sąrašo registravimo ne vėliau kaip likus 31 dienai iki rinkimų.
 
@@ -1387,6 +1401,11 @@ Europos Parlamento nario įgaliojimus nutrūkusiais pripažįsta Vyriausioji rin
 
 5) Europos Parlamento nario mandato netekus dėl rinkėjams nepaskelbto kandidato bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ar turėtos teismo nuosprendžiu paskirtos bausmės pagal šio įstatymo 96 straipsnį arba Europos Parlamento mandato ir pareigų nesuderinamumo pagal šio įstatymo 97 straipsnį;
 
+6) Europos Parlamento nario mandato netekus pagal šio įstatymo 971 straipsnį.
+Papildyta straipsnio punktu:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+ 
+
 95 straipsnis. Laisvos Europos Parlamento nario vietos užėmimas
 
 Jeigu Europos Parlamento nario įgaliojimai pripažinti nutrūkusiais, Europos Parlamente atsiranda laisva Europos Parlamento nario vieta. Ją užima kandidatų sąrašo, pagal kurį buvo išrinktas buvęs Europos Parlamento narys, pirmasis Europos Parlamento nario mandato negavęs kandidatas. Jeigu šiame kandidatų sąraše Europos Parlamento nario mandatų negavusių kandidatų nėra, Europos Parlamento nario mandatas perduodamas kitam sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti liekanų metodu, tai yra tam sąrašui, kuris yra pirmasis po sąrašo, kuris paskutinis gavo mandatą pagal šią eilę. Europos Parlamento nariu tampa naujai mandatą gavusio sąrašo pirmasis Europos Parlamento nario mandato negavęs kandidatas. Vyriausioji rinkimų komisija sprendimą dėl Europos Parlamento nario mandato pripažinimo naujam Europos Parlamento nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva Europos Parlamento nario vieta.
@@ -1414,6 +1433,14 @@ Jeigu Europos Parlamento nario įgaliojimai pripažinti nutrūkusiais, Europos P
 4. Skundai dėl Europos Parlamento nario mandato netekimo paduodami Lietuvos vyriausiajam administraciniam teismui per 10 dienų nuo Vyriausiosios rinkimų komisijos sprendimo paskelbimo jos interneto svetainėje arba iki 2014 m. sausio 1 d. leidinyje „Valstybės žinios“ ir turi būti išnagrinėti ne vėliau kaip per 3 dienas nuo jų gavimo. Pavėluotai teismui paduoti skundai nenagrinėjami. Teismo sprendimai šiais klausimais įsigalioja nuo paskelbimo.
  
 
+971 straipsnis. Europos Parlamento nario mandato netekimas paaiškėjus, kad išrinkto į Europos Parlamentą asmens kilmės valstybėje narėje jam yra atimta teisė būti kandidatu
+
+Jeigu gavus kitos Europos Sąjungos valstybės narės kompetentingos institucijos pranešimą tapo žinoma, kad išrinkto į Europos Parlamentą asmens kilmės valstybėje narėje jam yra atimta teisė būti kandidatu ir dėl to jis negalėjo būti kandidatu į Europos Parlamentą Lietuvos Respublikoje, Vyriausioji rinkimų komisija per 5 darbo dienas po tokio pranešimo gavimo dienos motyvuotu sprendimu pripažįsta šį asmenį netekusiu Europos Parlamento nario mandato, apie tai paskelbia savo interneto svetainėje ir praneša Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio įstatymo 95 straipsnyje nustatyta tvarka.
+
+Papildyta straipsniu:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+ 
+
 98 straipsnis. Baigiamosios nuostatos
 
 Šiame įstatyme nustatyta rinkimų į Europos Parlamentą rengimo ir vykdymo tvarka negali būti keičiama likus mažiau kaip 6 mėnesiams iki rinkimų į Europos Parlamentą dienos, išskyrus atvejus, kai būtina pašalinti šio įstatymo ar jo dalies prieštaravimą Lietuvos Respublikos Konstitucijai arba kai šis įstatymas yra keičiamas Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo 3 straipsnio 10 dalyje nustatyta tvarka. 
@@ -1437,8 +1464,9 @@ priedas
 
 1. 1976 m. rugsėjo 20 d. Tarybos sprendimas 76/787/EAPB, EEB, Euratomas, su paskutiniais pakeitimais, padarytais 2002 m. birželio 25 d. ir rugsėjo 23 d. Tarybos sprendimu 2002/772/EB, Euratomas (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 137).
 
-2. 1993 m. gruodžio 6 d. Tarybos direktyva 93/109/EB, nustatanti išsamias priemones Sąjungos piliečiams, gyvenantiems valstybėje narėje ir nesantiems šios valstybės piliečiais, naudotis balsavimo teise ir būti kandidatais per Europos Parlamento rinkimus (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 7; OL 2013 L 26, p. 27).
- 
+2. 1993 m. gruodžio 6 d. Tarybos direktyva 93/109/EB, nustatanti išsamias priemones Sąjungos piliečiams, gyvenantiems valstybėje narėje ir nesantiems šios valstybės piliečiais, naudotis balsavimo teise ir būti kandidatais per Europos Parlamento rinkimus (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 7), su paskutiniais pakeitimais, padarytais 2012 m. gruodžio 20 d. Tarybos direktyva 2013/1/ES (OL 2013 L 26, p. 27).
+Punkto pakeitimai:
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
  
 
 Pakeitimai:
@@ -1529,4 +1557,9 @@ Pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT45-N13/2014, 2014-10-13, paskelbta TAR 2014-10-13, i. k. 2014-13988
 Dėl Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo (2013 m. lapkričio 12 d. redakcija) 38 straipsnio 2, 6 dalių atitikties Lietuvos Respublikos Konstitucijai
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
+Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 3, 14, 39, 40, 94 straipsnių, priedo pakeitimo ir Įstatymo papildymo 97-1 straipsniu įstatymas
 
