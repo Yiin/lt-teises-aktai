@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2014-12-23
+Suvestinė redakcija nuo 2014-12-24 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
  
@@ -134,7 +134,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Tarptautiniai neplatinimo susitarimai – Vasenaro susitarimas dėl įprastinių ginklų ir dvejopo naudojimo prekių bei technologijų eksporto kontrolės (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėmis ir teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklų ir įprastinės ginkluotės platinimui. 
+14. Tarptautiniai neplatinimo susitarimai – Vasenaro susitarimas dėl įprastinių ginklų ir dvejopo naudojimo prekių bei technologijų eksporto kontrolės (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT), Sutartis dėl prekybos ginklais (ATT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėmis ir teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklų platinimui ir užkirsti kelią neteisėtai prekybai įprastine ginkluote.
+Straipsnio dalies pakeitimai:
+Nr. XII-1370, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19556
+ 
 
 
 
@@ -583,7 +586,9 @@ DUOMENŲ APIE STRATEGINES PREKES PATEIKIMAS, KAUPIMAS, APSKAITA IR KEITIMASIS IN
 
 
 
-2. Juridiniai ir fiziniai asmenys bei užsienio juridinių asmenų ir kitų organizacijų filialai privalo saugoti šio straipsnio 1 dalyje nurodytos strateginių prekių duomenų apskaitos dokumentus ne mažiau kaip 5 metus nuo kalendorinių metų, kuriais atitinkamos prekės buvo eksportuotos, importuotos, vežtos tranzitu, siųstos Europos Sąjungoje, dėl šių prekių teiktos tarpininkavimo paslaugos, pabaigos, jeigu Lietuvos Respublikos įstatymai ir kiti teisės aktai nenustato kitaip.
+2. Juridiniai ir fiziniai asmenys bei užsienio juridinių asmenų ir kitų organizacijų filialai privalo saugoti šio straipsnio 1 dalyje nurodytos strateginių prekių duomenų apskaitos dokumentus ne mažiau kaip 10 metų nuo kalendorinių metų, kuriais atitinkamos prekės buvo eksportuotos, importuotos, vežtos tranzitu, siųstos Europos Sąjungoje, dėl šių prekių teiktos tarpininkavimo paslaugos, pabaigos, jeigu Lietuvos Respublikos įstatymai ir kiti teisės aktai nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1370, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19556
  
 
 
@@ -724,3 +729,8 @@ Lietuvos Respublikos strateginių prekių kontrolės įstatymo 6 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1616, 2011-10-11, Žin., 2011, Nr. 128-6052 (2011-10-25), i. k. 1111010ISTA0XI-1616
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1370, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19556
+Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 3 ir 13 straipsnių pakeitimo įstatymas
