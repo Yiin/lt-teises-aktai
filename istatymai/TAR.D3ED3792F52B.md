@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2014-12-23 iki 2014-12-29
+Suvestinė redakcija nuo 2014-12-30 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -520,12 +520,15 @@ Nr. X-1349, 2007-12-04, Žin., 2007, Nr. 135-5453 (2007-12-21)
 
 
 2) Lietuvos Respublikos Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, Lietuvos vyriausiojo administracinio teismo ir kitų teismų – šių teismų pirmininkai;
-Redakcija nuo 2015-01-01:
+2 punkto redakcija nuo 2017-01-01:
 
 
 
 
 2) teismuose – atitinkamo teismo kancleris;
+Straipsnio punkto pakeitimai:
+Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
+ 
 
 
 
@@ -716,19 +719,23 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11)
 
 
 5) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme – teismo kancleris, o teismo kanclerį – teismo pirmininkas;
-Redakcija nuo 2015-01-01:
+5 punkto redakcija nuo 2017-01-01:
 
 
 
 
 5) teismuose – atitinkamo teismo kancleris, o teismo kanclerį – teismo pirmininkas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
  
 
 
 
 
 6) kituose teismuose – teismo pirmininkas;
-Netenka galios nuo 2015-01-01.
+6 punktas netenka galios nuo 2017-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
  
 
 
@@ -5664,3 +5671,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 43 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
 Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 6 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
+Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymo Nr. X-1689 3 straipsnio pakeitimo įstatymas
