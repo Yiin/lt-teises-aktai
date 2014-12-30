@@ -23,7 +23,7 @@ LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51,
 
 
 
-Suvestinė redakcija nuo 2011-12-08 iki 2014-12-29
+Suvestinė redakcija nuo 2014-12-30
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3186, i. k. 1081010ISTA00X-1685
  
@@ -2088,10 +2088,11 @@ Pakeisti 129 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Šio įstatymo 31 straipsnis, 32 straipsniu keičiamo Teismų įstatymo 107 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d., 2 dalis – 2012 m. sausio 1 d. 
+2. Šio įstatymo 31 straipsnis, 32 straipsniu keičiamo Teismų įstatymo 107 straipsnio 1 dalis įsigalioja 2017 m. sausio 1 d., 2 dalis – 2012 m. sausio 1 d. 
 Straipsnio dalies pakeitimai:
 Nr. XI-587, 2009-12-21, Žin., 2009, Nr. 154-6957 (2009-12-28), i. k. 1091010ISTA00XI-587
 Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08), i. k. 1111010ISTA0XI-1754
+Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
  
 
 
@@ -2265,3 +2266,8 @@ Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08), i. k. 1111010ISTA0XI-1754
 Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109, 110, 111, 112, 125 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo 46 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
+Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109 110, 111, 112, 125 straipsnių pripažinimu netekusiais galios ir Įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo Nr. X-1685 46 straipsnio pakeitimo įstatymas
