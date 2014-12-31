@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2014-10-21 iki 2014-12-30
+Suvestinė redakcija nuo 2014-12-31 iki 2015-03-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -914,7 +914,10 @@ Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
 6 straipsnis. Leidimai
 
 
-1. Įmonės, ketinančios atlikti atliekų apdorojimą, ir įmonės, atliekų susidarymo vietoje pavojingąsias atliekas laikančios ilgiau kaip šešis mėnesius, o nepavojingąsias – ilgiau kaip vienus metus, turi gauti leidimus.
+1. Įmonės, ketinančios atlikti atliekų apdorojimą, perdirbančios laivus, ir įmonės, atliekų susidarymo vietoje pavojingąsias atliekas laikančios ilgiau kaip šešis mėnesius, o nepavojingąsias – ilgiau kaip vienus metus, turi gauti leidimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
+ 
 
 
 
@@ -1490,19 +1493,9 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-19 straipsnis. Avarijų prevencija, likvidavimas, tyrimas 
-
-
-1. Įmonės, kurios steigia ar yra įsteigusios ir eksploatuoja valstybinės reikšmės atliekų tvarkymo objektus, ir įmonės, kuriose susidaro pavojingosios atliekos, ir pavojingąsias atliekas tvarkančios bei nepavojingąsias atliekas šalinančios įmonės privalo teisės aktų nustatyta tvarka parengti Lietuvos Respublikos civilinės saugos įstatyme numatytus ekstremaliųjų situacijų valdymo planus.
-
-
-
-
-2. Įvykus avarijai arba išsipylus pavojingosioms atliekoms ar jų pavojingiems komponentams, galintiems sukelti pavojų žmonių sveikatai ar aplinkai, avarija nedelsiant turi būti likviduojama pagal ekstremaliųjų situacijų valdymo planus ir nustatomos avarijos priežastys.
-
-
-Straipsnio pakeitimai:
-Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
+19 straipsnis. Neteko galios nuo 2014-12-31
+Straipsnio naikinimas:
+Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
  
 
 
