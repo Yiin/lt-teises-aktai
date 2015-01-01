@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-05-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -367,7 +367,7 @@ Vyriausybė:
 
 
 
-4. Vidaus reikalų ministerija formuoja politiką valstybės informacinių išteklių saugos ir informacinių technologijų taikymo viešojo administravimo (elektroninės valdžios) srityse ir pagal kompetenciją:
+4. Vidaus reikalų ministerija formuoja politiką valstybės informacinių išteklių saugos srityje tiek, kiek tai neapima kibernetinio saugumo, ir informacinių technologijų taikymo viešojo administravimo (elektroninės valdžios) srityje ir pagal kompetenciją:
 
 
 1) organizuoja informacinių technologijų priemonių valdymo ir saugos vertinimą;
@@ -375,7 +375,7 @@ Vyriausybė:
 
 
 
-2) renka ir analizuoja informaciją apie institucijų valdomų valstybės informacinių išteklių saugą ir tam naudojamas lėšas, teikia Vyriausybei ir institucijoms pasiūlymus dėl valstybės informacinių išteklių saugos ir lėšų valstybės informacinių išteklių saugai poreikio ir efektyvesnio jų naudojimo;
+2) renka ir analizuoja informaciją apie institucijų valdomų valstybės informacinių išteklių saugą ir tam naudojamas lėšas, teikia Vyriausybei ir institucijoms pasiūlymus dėl valstybės informacinių išteklių saugos ir lėšų valstybės informacinių išteklių saugai poreikio bei efektyvesnio jų naudojimo;
 
 
 
@@ -385,7 +385,7 @@ Vyriausybė:
 
 
 
-4) atlieka saugos reikalavimų laikymosi priežiūrą;
+4) atlieka saugos reikalavimų laikymosi priežiūrą tiek, kiek tai neapima kibernetinio saugumo;
 
 
 
@@ -395,7 +395,7 @@ Vyriausybė:
 
 
 
-6) derina valstybės informacinių sistemų ir registrų nuostatų projektų nuostatas, susijusias su duomenų ir informacijos sauga;
+6) derina valstybės informacinių sistemų ir registrų nuostatų projektų nuostatas, susijusias su informacijos sauga;
 
 
 
@@ -411,9 +411,11 @@ Vyriausybė:
 
 
 9) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
  
-
-
 
 
 
@@ -808,7 +810,17 @@ Institucijos, kurdamos ir tvarkydamos valstybės informacinius išteklius, savo 
 
 
 
-13) atlikti kituose teisės aktuose nustatytus veiksmus.
+13) skirti lėšas valstybės informacinių išteklių saugai užtikrinti, reikalingas atitinkamiems Vyriausybės ir (ar) jos įgaliotos institucijos nustatytiems valstybės informacinių išteklių saugos reikalavimams įgyvendinti; 
+Papildyta straipsnio punktu:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
+
+
+
+
+14) atlikti kituose teisės aktuose nustatytus veiksmus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
  
 
 
@@ -1019,7 +1031,10 @@ Pagrindiniai registrai yra valstybės registrai, kuriuose registruojami:
 
 
 
-3. Registro nuostatuose nurodomi registro paskirtis, jo objektas (objektai), registro valdytojas, registro tvarkytojas (tvarkytojai), jų teisės ir pareigos, registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas, registro sąveika su susijusiu registru (susijusiais registrais), registro duomenų ir registro informacijos sauga, registro informacijos ir duomenų pakartotinio panaudojimo sąlygos ir tvarka, registro finansavimas ir kita Vyriausybės nustatyta informacija. Registro nuostatų projektas rengiamas ir derinamas Vyriausybės nustatyta tvarka. Registro duomenų saugos nuostatuose nurodoma registro kategorija, nustatyta remiantis Vyriausybės patvirtintomis valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairėmis, informacijos saugumo tikslai, saugumo užtikrinimo prioritetinės kryptys ir kita su steigiamu registru susijusi informacija. Registro duomenų saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka.
+3. Registro nuostatuose nurodomi registro paskirtis, jo objektas (objektai), registro valdytojas, registro tvarkytojas (tvarkytojai), jų teisės ir pareigos, registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas, registro sąveika su susijusiu registru (susijusiais registrais), registro duomenų ir registro informacijos sauga, registro informacijos ir duomenų pakartotinio panaudojimo sąlygos ir tvarka, registro finansavimas ir kita Vyriausybės nustatyta informacija. Registro nuostatų projektas rengiamas ir derinamas Vyriausybės nustatyta tvarka. Registro saugos nuostatuose nurodoma registro kategorija, nustatyta remiantis Vyriausybės patvirtintomis valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairėmis, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita su steigiamu registru susijusi informacija. Registro saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
@@ -1029,7 +1044,9 @@ Pagrindiniai registrai yra valstybės registrai, kuriuose registruojami:
 
 
 
-5. Registro valdytojas privalo pranešti Registrų ir valstybės informacinių sistemų registro tvarkytojui apie patvirtintus registro nuostatus Registrų ir valstybės informacinių sistemų registro nuostatuose nustatyta tvarka.
+5. Registro valdytojas privalo pranešti Registrų ir valstybės informacinių sistemų registro tvarkytojui apie patvirtintus registro nuostatus ir registro saugos nuostatus Registrų ir valstybės informacinių sistemų registro nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
  
 
 
@@ -1623,12 +1640,18 @@ VALSTYBĖS INFORMACINĖS SISTEMOS
 
 
 
-2. Steigdama valstybės informacinę sistemą, institucija rengia valstybės informacinės sistemos nuostatų ir valstybės informacinės sistemos duomenų saugos nuostatų projektus. Valstybės informacinės sistemos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka. Valstybės informacinės sistemos duomenų saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka.
+2. Steigdama valstybės informacinę sistemą, institucija rengia valstybės informacinės sistemos nuostatų ir valstybės informacinės sistemos saugos nuostatų projektus. Valstybės informacinės sistemos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka. Valstybės informacinės sistemos saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
 
-3. Valstybės informacinės sistemos nuostatų projekte nurodomi steigiamos valstybės informacinės sistemos tikslai, uždaviniai, valstybės informacinės sistemos valdytojas, valstybės informacinės sistemos tvarkytojas (tvarkytojai), sąveika su kitomis valstybės informacinėmis sistemomis ir registrais, iš jų numatomi gauti duomenys ir kita steigiamą valstybės informacinę sistemą apibūdinanti informacija, duomenų ir informacijos pakartotinio panaudojimo sąlygos ir tvarka. Valstybės informacinės sistemos duomenų saugos nuostatų projekte nurodoma valstybės informacinės sistemos kategorija, nustatyta remiantis Vyriausybės patvirtintomis valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairėmis, informacijos saugumo tikslai, saugumo užtikrinimo prioritetinės kryptys ir kita su steigiama valstybės informacine sistema susijusi informacija.
+3. Valstybės informacinės sistemos nuostatų projekte nurodomi steigiamos valstybės informacinės sistemos tikslai, uždaviniai, valstybės informacinės sistemos valdytojas, valstybės informacinės sistemos tvarkytojas (tvarkytojai), sąveika su kitomis valstybės informacinėmis sistemomis ir registrais, iš jų numatomi gauti duomenys ir kita steigiamą valstybės informacinę sistemą apibūdinanti informacija, duomenų ir informacijos pakartotinio panaudojimo sąlygos ir tvarka. Valstybės informacinės sistemos saugos nuostatų projekte nurodoma valstybės informacinės sistemos kategorija, nustatyta remiantis Vyriausybės patvirtintomis valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairėmis, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita su steigiama valstybės informacine sistema susijusi informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
@@ -1755,7 +1778,10 @@ VALSTYBĖS INFORMACINĖS SISTEMOS
 
 
 
-2) atlikti duomenų saugos reikalavimų laikymosi priežiūrą;
+2) atlikti saugos reikalavimų laikymosi priežiūrą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
@@ -2169,12 +2195,18 @@ VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ SAUGA
 
 
 
-2. Siekiant užtikrinti valstybės informacinių išteklių saugą, vadovaujantis Vyriausybės patvirtintais bendraisiais elektroninės informacijos saugos reikalavimais, rengiami, derinami ir tvirtinami valstybės informacinės sistemos ar registro saugos dokumentai. Registro ar valstybės informacinės sistemos valdytojas gali tvirtinti visų jo valdymo sričiai priskirtų registrų ar valstybės informacinių sistemų bendrus saugos dokumentus. Organizuojant valstybės informacinių išteklių saugą, rekomenduojama vadovautis pripažintų standartizacijos organizacijų ir standartizacijos institucijų priimtais ir paskelbtais standartais.
+2. Siekiant užtikrinti valstybės informacinių išteklių saugą, vadovaujantis Vyriausybės patvirtintais elektroninės informacijos saugos reikalavimais, rengiami, derinami ir tvirtinami valstybės informacinės sistemos ar registro saugos dokumentai. Registro ar valstybės informacinės sistemos valdytojas gali tvirtinti visų jo valdymo sričiai priskirtų registrų ar valstybės informacinių sistemų bendrus saugos dokumentus. Organizuojant valstybės informacinių išteklių saugą, rekomenduojama vadovautis pripažintų standartizacijos organizacijų ir standartizacijos institucijų priimtais ir paskelbtais standartais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
 
-3. Už informacijos saugą pagal kompetenciją atsako valstybės informacinės sistemos valdytojas ir valstybės informacinės sistemos tvarkytojas. Už registro duomenų ir registro informacijos saugą pagal kompetenciją atsako registro valdytojas ir registro tvarkytojas. Registro ar valstybės informacinių sistemų tvarkytojai privalo saugos nuostatuose ir kituose saugos dokumentuose nustatyta tvarka užtikrinti reikiamas administracines, technines ir organizacines duomenų saugos priemones ir tokių priemonių laikymąsi.
+3. Už informacijos saugą pagal kompetenciją atsako valstybės informacinės sistemos valdytojas ir valstybės informacinės sistemos tvarkytojas. Už registro duomenų ir registro informacijos saugą pagal kompetenciją atsako registro valdytojas ir registro tvarkytojas. Registro ar valstybės informacinių sistemų tvarkytojai privalo saugos nuostatuose ir kituose saugos dokumentuose nustatyta tvarka užtikrinti reikiamas technines ir organizacines saugos priemones ir tokių priemonių laikymąsi.
+Straipsnio dalies pakeitimai:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
@@ -2193,6 +2225,24 @@ VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ SAUGA
  
 
 
+
+
+
+
+431 straipsnis. Valstybės informacinių išteklių atitikties nustatytiems elektroninės informacijos saugos reikalavimams stebėsena
+
+
+1. Vidaus reikalų ministerija atlieka valstybės informacinių išteklių atitikties Vyriausybės nustatytiems elektroninės informacijos saugos reikalavimams stebėseną. 
+
+
+
+
+2. Valstybės ir kitų informacinių sistemų ir registrų valdytojai teikia duomenis apie organizacinių ir techninių elektroninės informacijos saugos reikalavimų įgyvendinimą savo valdomuose valstybės informaciniuose ištekliuose Valstybės informacinių išteklių atitikties elektroninės informacijos saugos reikalavimams stebėsenos sistemai Valstybės informacinių išteklių atitikties elektroninės informacijos saugos reikalavimams stebėsenos sistemos nuostatuose nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+ 
 
 
 
@@ -2443,3 +2493,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-165, 2013-01-17, Žin., 2013, Nr. 11-509 (2013-01-30), i. k. 1131010ISTA0XII-165
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 5, 11, 18, 30, 34, 43 straipsnių pakeitimo ir Įstatymo papildymo 43-1 straipsniu įstatymas
