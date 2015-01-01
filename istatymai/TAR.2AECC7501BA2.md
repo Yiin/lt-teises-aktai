@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2aecc7501ba211e4b542dec0b12e28b0"
 
 # Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, 11 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+ 
+Įstatymas paskelbtas: TAR 2014-08-04, i. k. 2014-10853
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KREDITO UNIJŲ ĮSTATYMO Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 STRAIPSNIŲ PAKEITIMO, įstatymo PAPILDYMO 251, 391, 481, 641, 651 straipsniais IR 8, 11 STRAIPSNIų PRIPAŽINIMO NETEKUSIais GALIOS
 ĮSTATYMAS
@@ -2414,17 +2421,24 @@ Papildyti 74 straipsnį 9 dalimi:
 
 
 1. Iki šio įstatymo įsigaliojimo veikiančių kredito unijų mažiausio kredito unijos kapitalo dydis, jeigu kredito unija neketina teikti Lietuvos Respublikos kredito unijų įstatymo 4 straipsnio 2 dalies 4 punkte nurodytos licencinės finansinės paslaugos, privalo atitikti:
+
+
+1) 4 300 eurų – iki 2015 m. gruodžio 31 d.;
+
+
+
+
+2) 85 000 eurų – nuo 2016 m. sausio 1 d.;
+
+
+
+
+3) 145 000 eurų – nuo 2018 m. sausio 1 d.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1105, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13432
  
-
-
-1) 300 tūkstančių litų – nuo 2016 m. sausio 1 d.;
-
-
-
-
-2) 500 tūkstančių litų – nuo 2018 m. sausio 1 d.
-
-
 
 
 
@@ -2462,3 +2476,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1105, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13432
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, 11 straipsnių pripažinimo netekusiais galios įstatymo Nr. XII-1047 47 straipsnio pakeitimo įstatymas
