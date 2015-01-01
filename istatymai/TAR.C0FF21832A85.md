@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -277,7 +277,17 @@ TAR pastaba. Straipsnio dalis (reikalavimas paramos gavėjui turėti paramos gav
 
 
 
-3. Paramos gavėjais gali būti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytos užsienyje esančios lietuvių bendruomenės, kitos lietuviškos įstaigos ar organizacijos ir tarptautinės labdaros organizacijos.
+3. Paramos gavėjais gali būti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytos užsienyje įsteigtos lietuvių bendruomenės ir kitos lietuviškos įstaigos ar organizacijos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
+ 
+
+
+
+
+4. Parama pagal šį įstatymą pripažįstama ir tais atvejais, kai ji teikiama Europos ekonominės erdvės valstybėse įsteigtiems juridiniams asmenims ar kitoms organizacijoms, kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams. Paramos teikėjas Valstybinei mokesčių inspekcijai pateikia Vyriausybės įgaliotos institucijos nustatytus dokumentus, įrodančius, kad jo parama teikiama šių juridinių asmenų ar kitų organizacijų veiklos dokumentuose numatytiems visuomenei naudingiems tikslams, nurodytiems šio įstatymo 3 straipsnio 3 dalyje. Vyriausybės įgaliota institucija nustato šių dokumentų pateikimo Valstybinei mokesčių inspekcijai tvarką. Šios dalies nuostatos šio straipsnio 3 dalyje nurodytiems juridiniams asmenims ar organizacijoms netaikomos.
+Papildyta straipsnio dalimi:
+Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
  
 
 
@@ -420,18 +430,20 @@ Nr. IX-2190, 2004-04-27, Žin., 2004, Nr. 73-2524 (2004-04-30), i. k. 1041010IST
 12 straipsnis. Labdaros ir paramos apskaita
 
 
-1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie suteiktą paramą. Mėnesio ataskaita teikiama tais atvejais, kai nuo kalendorinių metų pradžios vienam paramos gavėjui suteiktos paramos suma viršija 50 000 Lt. 
+1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie suteiktą paramą. Mėnesio ataskaita teikiama tais atvejais, kai nuo kalendorinių metų pradžios vienam paramos gavėjui suteiktos paramos suma viršija 15 000 eurų. 
 Straipsnio dalies pakeitimai:
 Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+Nr. XII-1135, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13607
  
 
 
 
 
-2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, išskyrus šeimynas, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jei parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, t. y. įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie gautą paramą ir jos panaudojimą, apie pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Juridiniai asmenys mėnesio ataskaitą teikia tais atvejais, kai nuo kalendorinių metų pradžios iš vieno paramos teikėjo gautos paramos arba šių juridinių asmenų vienam paramos ir (arba) labdaros gavėjui suteiktos paramos ir (arba) labdaros suma viršija 50 000 Lt. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
+2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, išskyrus šeimynas, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jei parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, t. y. įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie gautą paramą ir jos panaudojimą, apie pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Juridiniai asmenys mėnesio ataskaitą teikia tais atvejais, kai nuo kalendorinių metų pradžios iš vieno paramos teikėjo gautos paramos arba šių juridinių asmenų vienam paramos ir (arba) labdaros gavėjui suteiktos paramos ir (arba) labdaros suma viršija 15 000 eurų. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
 Straipsnio dalies pakeitimai:
 Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
 Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
+Nr. XII-1135, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13607
  
 
 
@@ -540,8 +552,9 @@ Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010IST
 
 
 
-4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 minimalių gyvenimo lygių (toliau – MGL) dydžio per vienus kalendorinius metus arba didesnę kaip 500 MGL dydžio per trejus kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
-TAR pastaba. Šio punkto nuostatos taikomos pažeidimams, padarytiems po įstatymo X-461 įsigaliojimo 2006-01-12. 
+4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per trejus kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
  
 
 
@@ -680,3 +693,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 12 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1159, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13593
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 6 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 ir 15 straipsnių pakeitimo įstatymas
