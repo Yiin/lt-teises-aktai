@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2014-12-16 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-10-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -88,7 +88,10 @@ Savivaldybių tarybų narius ir savivaldybės tarybos narį – merą rinkėjai 
 
 1. Prasidėjus rinkimų politinei kampanijai, tai yra nuo rinkimų datos paskelbimo iki šio įstatymo nustatyto rinkimų agitacijos kampanijos laikotarpio pabaigos, taip pat rinkimų dieną draudžiama tiesiogiai ar netiesiogiai pirkti rinkėjų balsus, dovanomis, paslaugomis ar kitokiu atlyginimu skatinti rinkėją ar rinkimų teisę turintį asmenį dalyvauti arba nedalyvauti rinkimuose ir (arba) balsuoti už arba prieš vieną ar kitą numatomą kelti kandidatu ar numatantį išsikelti kandidatu į savivaldybės tarybos narius – merus asmenį, kandidatą arba kandidatų sąrašą, taip pat žadėti už balsavimą atsilyginti rinkėjams po rinkimų turint tikslą paveikti rinkėjų valią dėl konkrečių politinių partijų ar kandidatų arba numatomų kelti kandidatais asmenų ir taip trukdyti piliečiams įgyvendinti rinkimų teisę.
 
-2. Rinkėjų papirkimu nelaikomas spausdintos medžiagos (veiklos ar rinkimų programos, biografijos ar kitokių informacinio turinio lankstinukų, kalendorių, atvirukų, lipdukų), taip pat mažareikšmių daiktų (kurių kaina yra iki 5 litų), pažymėtų politinės partijos, visuomeninio rinkimų komiteto (toliau – rinkimų komitetas), kandidatų sąrašo, kandidato ar asmens, numatomo kelti ar numatančio išsikelti kandidatu į savivaldybės tarybos narius – merus, simbolika, deklaruotų Lietuvos Respublikos vyriausiojoje rinkimų komisijoje (toliau – Vyriausioji rinkimų komisija) jos nustatyta tvarka ir skirtų politinei partijai, rinkimų komitetui, kandidatų sąrašui, kandidatui ar asmeniui, numatomam kelti ar numatančiam išsikelti kandidatu į savivaldybės tarybos narius – merus, propaguoti, gaminimas arba neatlygintinas platinimas.
+2. Rinkėjų papirkimu nelaikomas spausdintos medžiagos (veiklos ar rinkimų programos, biografijos ar kitokių informacinio turinio lankstinukų, kalendorių, atvirukų, lipdukų), taip pat mažareikšmių daiktų (kurių kaina yra iki 1,45 euro), pažymėtų politinės partijos, visuomeninio rinkimų komiteto (toliau – rinkimų komitetas), kandidatų sąrašo, kandidato ar asmens, numatomo kelti ar numatančio išsikelti kandidatu į savivaldybės tarybos narius – merus, simbolika, deklaruotų Lietuvos Respublikos vyriausiojoje rinkimų komisijoje (toliau – Vyriausioji rinkimų komisija) jos nustatyta tvarka ir skirtų politinei partijai, rinkimų komitetui, kandidatų sąrašui, kandidatui ar asmeniui, numatomam kelti ar numatančiam išsikelti kandidatu į savivaldybės tarybos narius – merus, propaguoti, gaminimas arba neatlygintinas platinimas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1255, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14863
+ 
 
 3. Rinkėjų ir rinkimų teisę turinčių asmenų papirkimo faktus tiria savivaldybių rinkimų komisijos Vyriausiosios rinkimų komisijos nustatyta tvarka, o vertina Vyriausioji rinkimų komisija. Apie nustatytą rinkėjų ir rinkimų teisę turinčių asmenų papirkimo faktą Vyriausioji rinkimų komisija paskelbia savo interneto svetainėje kartu su šį straipsnį pažeidusio kandidato pasižadėjimu laikytis draudimo papirkti rinkėjus ir rinkimų teisę turinčius asmenis. Rinkėjų ir rinkimų teisę turinčių asmenų papirkimo faktus pripažinus šiurkščiu šio įstatymo pažeidimu, atsiranda šiame ir kituose įstatymuose nustatytos pasekmės.
  
@@ -1784,4 +1787,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 35 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1255, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14863
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 6 straipsnio pakeitimo įstatymas
 
