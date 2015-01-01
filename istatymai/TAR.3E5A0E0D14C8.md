@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-01-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -205,7 +205,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) kredito sutartims, kai bendra suteikiamo kredito suma yra didesnė negu 75 000 eurų atitinkanti suma litais;
+3) kredito sutartims, kai bendra suteikiamo kredito suma yra didesnė negu 75 000 eurų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
+ 
 
 
 
@@ -1130,7 +1133,10 @@ KETVIRTASIS SKIRSNIS VARTOJIMO KREDITO SUTARTIS
 
 
 
-2. Vartojimo kredito grąžinimo anksčiau nustatyto termino atveju vartojimo kredito davėjas turi teisę į teisingą ir objektyviai pagrįstą kompensaciją už galimas išlaidas, tiesiogiai susijusias su vartojimo kredito grąžinimu anksčiau nustatyto termino, atliekamu tuo laikotarpiu, kuriam nustatyta fiksuotoji vartojimo kredito palūkanų norma. Vartojimo kredito davėjas gali reikalauti šios kompensacijos tik tuo atveju, kai anksčiau nustatyto termino grąžinamas vartojimo kreditas ar jo dalis viršija 8 000 litų per bet kurį dvylikos mėnesių laikotarpį.
+2. Vartojimo kredito grąžinimo anksčiau nustatyto termino atveju vartojimo kredito davėjas turi teisę į teisingą ir objektyviai pagrįstą kompensaciją už galimas išlaidas, tiesiogiai susijusias su vartojimo kredito grąžinimu anksčiau nustatyto termino, atliekamu tuo laikotarpiu, kuriam nustatyta fiksuotoji vartojimo kredito palūkanų norma. Vartojimo kredito davėjas gali reikalauti šios kompensacijos tik tuo atveju, kai anksčiau nustatyto termino grąžinamas vartojimo kreditas ar jo dalis viršija 2 320 eurų per bet kurį dvylikos mėnesių laikotarpį.
+Straipsnio dalies pakeitimai:
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
+ 
 
 
 
@@ -1245,7 +1251,6 @@ Vartojimo kredito davėjas turi teisę nutraukti vartojimo kredito sutartį, kai
 
 
 
- 
 20 straipsnis. Vekselių, čekių ir skolos raštų naudojimas
 
 
@@ -1796,7 +1801,10 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 34 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 
-1. Už šio įstatymo nuostatų pažeidimus priežiūros institucija gali skirti nuo vieno tūkstančio iki trisdešimties tūkstančių litų baudą. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, gali būti skiriama didesnė, iki šimto dvidešimties tūkstančių litų, bauda. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos.
+1. Už šio įstatymo nuostatų pažeidimus priežiūros institucija gali skirti nuo 289 iki 8 688 eurų baudą. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, gali būti skiriama didesnė, iki 34 754 eurų, bauda. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
+ 
 
 
 
@@ -1821,7 +1829,9 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-6. Už priežiūros institucijos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai asmuo buvo įspėtas dėl šio reikalavimo nevykdymo, asmeniui gali būti skiriama bauda iki dešimties tūkstančių litų.
+6. Už priežiūros institucijos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai asmuo buvo įspėtas dėl šio reikalavimo nevykdymo, asmeniui gali būti skiriama bauda iki 2 896 eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
  
 
 
@@ -2490,3 +2500,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1684, 2011-11-17, Žin., 2011, Nr. 146-6830 (2011-12-01), i. k. 1111010ISTA0XI-1684
 Lietuvos Respublikos vartojimo kredito įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straipsnių pakeitimo įstatymas
