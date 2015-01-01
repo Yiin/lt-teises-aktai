@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-07-14
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -49,6 +49,13 @@ BENDROSIOS NUOSTATOS
 
 
 3. Laukinių gyvūnų gerovei ir apsaugai šio įstatymo nuostatos taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos laukinės gyvūnijos įstatymas.
+
+
+
+
+4. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+Papildyta straipsnio dalimi:
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
  
 
 
@@ -184,7 +191,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-26. Skerdimas – apsvaiginto maistinio gyvūno nužudymas, nuleidžiant kraują.
+26. Skerdimas – kaip apibrėžta 2009 m. rugsėjo 24 d. Tarybos reglamento (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (toliau – Reglamentas (EB) Nr. 1099/2009) 2 straipsnio j punkte.
+Straipsnio dalies pakeitimai:
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+ 
 
 
 
@@ -675,7 +685,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-11) bandymų su gyvūnais atlikimas, turint Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą.
+11) bandymų su gyvūnais atlikimas, turint Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą;
+
+
+
+
+12) ūkinių gyvūnų skerdimas, prieš tai jų neapsvaiginus, religinėms apeigoms atlikti būtinais metodais, jeigu šie gyvūnai skerdžiami skerdykloje.
+Papildyta straipsnio punktu:
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+ 
 
 
 
@@ -835,7 +853,6 @@ TAR pastaba. 7 straipsnio 2 dalis įsigalioja 2016-01-01.
 
 
 10. Kovinius šunis, kovinių ir pavojingų šunų mišrūnus (tais atvejais, kai tokių šunų Lietuvos Respublikos įstatymai nedraudžia) bei pavojingus šunis laikyti daugiabučiuose namuose draudžiama.
-TAR pastaba. 8 straipsnio 10 dalis įsigalioja 2013-07-01.
  
 
 
@@ -1102,7 +1119,10 @@ SPECIALIEJI GYVŪNŲ GEROVĖS IR APSAUGOS REIKALAVIMAI
 
 
 
-2. Skersti ūkinius gyvūnus religinių apeigų tikslu galima tik prieš tai juos apsvaiginus teisės aktų nustatytais metodais ir laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+2. Ūkiniai gyvūnai gali būti skerdžiami skerdykloje prieš tai jų neapsvaiginus, vadovaujantis Reglamento (EB) Nr. 1099/2009 4 straipsnio 4 dalimi. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+ 
 
 
 
@@ -1118,6 +1138,13 @@ SPECIALIEJI GYVŪNŲ GEROVĖS IR APSAUGOS REIKALAVIMAI
 
 
 5. Ūkiniai gyvūnai turi būti apsaugoti nuo išgąsčio, skausmo arba kančių juos perkeliant, varant į aptvarus, pančiojant, svaiginant, skerdžiant arba nužudant.
+
+
+
+
+6. Religinėms apeigoms tinkamus ūkinių gyvūnų skerdimo metodus, tokio skerdimo kontrolę, apskaitos tvarkymą užtikrinančias priemones, tokiu būdu paskerstų ūkinių gyvūnų mėsos ženklinimo, realizavimo tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
  
 
 
@@ -1308,6 +1335,25 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
+
+
+
+Lietuvos Respublikos 
+gyvūnų gerovės ir apsaugos
+įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2009 m. rugsėjo 24 d. Tarybos reglamentas (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (OL 2009 L 303, p. 1).
+
+
+Papildyta priedu:
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+ 
  
  
 Pakeitimai:
@@ -1336,3 +1382,8 @@ Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 2, 6(1) str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2271, 2012-10-03, Žin., 2012, Nr. 122-6126 (2012-10-20), i. k. 1121010ISTA0XI-2271
 Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 2, 5 ir 17 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
