@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.88AB9A18D270"
 
 # Lietuvos Respublikos paveldimo turto mokesčio įstatymas
 
+Suvestinė redakcija nuo 2015-01-01
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 123-5531, i. k. 1021010ISTA0IX-1239
+ 
+ 
 LIETUVOS RESPUBLIKOS
 PAVELDIMO TURTO MOKESČIO
 Į S T A T Y M A S
@@ -113,17 +118,20 @@ Paveldimo turto mokesčio (toliau – mokestis) mokėtojai yra gyventojai.
 Mokestis apskaičiuojamas procentais nuo paveldimo turto apmokestinamosios vertės taikant šiuos tarifus:
 
 
-1) jeigu paveldimo turto apmokestinamoji vertė ne didesnė kaip 0,5 mln. Lt – 5 procentai;
+1) jeigu paveldimo turto apmokestinamoji vertė ne didesnė kaip 150 000 eurų – 5 procentai;
 
 
 
 
-2) jeigu paveldimo turto apmokestinamoji vertė viršija 0,5 mln. Lt – 10 procentų.
+2) jeigu paveldimo turto apmokestinamoji vertė viršija 150 000 eurų – 10 procentų.
+TAR pastaba. 6 straipsnio nuostatos taikomos mokant paveldimo turto mokestį nuo 2015 m. sausio 1 d.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1132, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13468
  
-
-
-
-
 
 
 
@@ -144,7 +152,11 @@ Mokestis apskaičiuojamas procentais nuo paveldimo turto apmokestinamosios vert�
 
 
 
-3) paveldimo turto apmokestinamoji vertė, neviršijanti 10 tūkst. litų.
+3) paveldimo turto apmokestinamoji vertė, neviršijanti 3 000 eurų.
+TAR pastaba. 3 punkto nuostatos taikomos mokant paveldimo turto mokestį nuo 2015 m. sausio 1 d
+Straipsnio punkto pakeitimai:
+Nr. XII-1132, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13468
+ 
 
 
 
@@ -345,3 +357,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1132, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13468
+Lietuvos Respublikos paveldimo turto mokesčio įstatymo Nr. IX-1239 6 ir 7 straipsnių pakeitimo įstatymas
