@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2014-04-30 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-10-09
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -1810,7 +1810,10 @@ Licencijos turėtojas atsako už veiklos, kuriai išduota licencija, ar su ta ve
 
 
 
-2. Branduolinės energetikos objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą, padarytą kiekvienos branduolinės ir (ar) radiologinės avarijos ar branduolinio incidento metu, apribojamas suma Lietuvos Respublikos litais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Atsakomybės dydis apskaičiuojamas pagal oficialų Lietuvos Respublikos lito ir Jungtinių Amerikos Valstijų dolerio kursą, paskelbtą Lietuvos banko žalos padarymo dieną.
+2. Branduolinės energetikos objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą, padarytą kiekvienos branduolinės ir (ar) radiologinės avarijos ar branduolinio incidento metu, apribojamas suma eurais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Atsakomybės dydis apskaičiuojamas pagal Europos centrinio banko paskelbtą oficialų euro ir Jungtinių Amerikos Valstijų dolerio kursą žalos padarymo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XII-1174, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13573
+ 
 
 
 
@@ -2197,3 +2200,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 21 ir 23 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-842, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04865
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 1, 2, 5 straipsnių ir priedo pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1174, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13573
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. XI-1537 42 straipsnio pakeitimo įstatymas
