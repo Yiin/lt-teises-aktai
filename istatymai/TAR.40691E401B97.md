@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/40691e401b9711e4b542dec0b12e28b0"
 
 # Lietuvos Respublikos valiutos keityklos operatorių įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2018-06-14
  
 Įstatymas paskelbtas: TAR 2014-08-04, i. k. 2014-10873
  
@@ -742,7 +742,10 @@ POVEIKIO PRIEMONĖS
 
 
 
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 10 procentų bendrųjų metinių valiutos keitimo paslaugų pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 1 000 litų;
+2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 10 procentų bendrųjų metinių valiutos keitimo paslaugų pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 289 eurų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1117, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13411
+ 
 
 
 
@@ -880,3 +883,13 @@ priedas
 
 
 1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/60/EB dėl finansų sistemos apsaugos nuo jos panaudojimo pinigų plovimui ir teroristų finansavimui (OL 2005 L 309, p. 15).
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1117, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13411
+Lietuvos Respublikos valiutos keityklos operatorių įstatymo Nr. XII-1033 18 straipsnio pakeitimo įstatymas
