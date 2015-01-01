@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-02-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -628,13 +628,15 @@ Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010IST
 
 
 
-15 straipsnis. Asmens duomenų tvarkymas elektroninių ryšių srityje
+15 straipsnis. Asmens duomenų tvarkymas elektroninių ryšių ir kibernetinio saugumo srityse
 
 
-Asmens duomenys elektroninių ryšių srityje tvarkomi vadovaujantis Elektroninių ryšių įstatymu ir šiuo įstatymu.
+Asmens duomenys elektroninių ryšių ir kibernetinio saugumo srityse tvarkomi vadovaujantis Elektroninių ryšių įstatymu, Kibernetinio saugumo įstatymu ir šiuo įstatymu. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1430, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20555
  
-
-
 
 
 
@@ -2276,3 +2278,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010ISTA0XI-1372
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1430, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20555
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 15 straipsnio pakeitimo įstatymas
