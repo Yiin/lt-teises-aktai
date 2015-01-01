@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS ŽEMĖS MOKESČIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-06
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 163-7743, i. k. 1111010ISTA0XI-1829
+ 
 LIETUVOS RESPUBLIKOS 
 ŽEMĖS MOKESČIO ĮSTATYMO PAKEITIMO 
 ĮSTATYMAS
@@ -521,7 +525,10 @@ MOKESČIO ĮSKAITYMAS
 
 
 
-2. Mokesčio už žemės ūkio paskirties žemę, išskyrus apleistas žemės ūkio naudmenas ir mėgėjų sodo bei sodininkų bendrijų bendrojo naudojimo žemę, suma 2013–2017 metų mokestiniais laikotarpiais visais atvejais neviršija vieno lito už vieną arą.
+2. Mokesčio už žemės ūkio paskirties žemę, išskyrus apleistas žemės ūkio naudmenas ir mėgėjų sodo bei sodininkų bendrijų bendrojo naudojimo žemę, suma  2013–2014 metų mokestiniais laikotarpiais visais atvejais neviršija vieno lito už vieną arą, 2015–2017 metų mokestiniais laikotarpiais visais atvejais neviršija 0,29 euro už vieną arą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1134, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13608
+ 
 
 
 
@@ -575,3 +582,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1134, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13608
+Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymo Nr. XI-1829 2 straipsnio pakeitimo įstatymas
