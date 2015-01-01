@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2012-03-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -117,20 +117,22 @@ Loterijų ir lošimų mokesčio bazė yra:
 3. Organizuojant lošimus lošimo automatais ir stalo lošimus, nustatomas fiksuotas loterijų ir lošimų mokesčio dydis už kiekvieną lošimų veiklos leidime nurodytą lošimo įrenginį:
 
 
-1) už A kategorijos lošimo automatą – 800 litų per kalendorinių metų mėnesį (toliau – mėnuo);
+1) už A kategorijos lošimo automatą – 232 eurai per kalendorinių metų mėnesį (toliau – mėnuo);
 
 
 
 
-2) už B kategorijos lošimo automatą – 300 litų per mėnesį;
+2) už B kategorijos lošimo automatą – 87 eurai per mėnesį;
 
 
 
 
-3) už ruletės, kortų arba kauliukų stalą – 6 000 litų per mėnesį.
+3) už ruletės, kortų arba kauliukų stalą – 1 738 eurai per mėnesį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1112, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13424
  
-
-
 
 
 
@@ -244,3 +246,8 @@ Lietuvos Respublikos loterijų ir azartinių lošimų mokesčio įstatymo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1579, 2011-09-15, Žin., 2011, Nr. 119-5612 (2011-10-01), i. k. 1111010ISTA0XI-1579
 Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1112, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13424
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 straipsnio pakeitimo įstatymas
