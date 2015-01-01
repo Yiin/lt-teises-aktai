@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-04-26
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -1564,11 +1564,12 @@ PREKIŲ MUITINIS ĮVERTINIMAS
 39 straipsnis. Užsienio valiuta išreikštų prekių muitinės vertės elementų perskaičiavimas
 
 
-Jeigu prekių muitinės vertės elementai išreikšti ne eurais arba ne Lietuvos Respublikos nacionaline valiuta – litais ir centais, o užsienio valiuta, šie elementai perskaičiuojami remiantis oficialiai paskelbtu lito arba euro ir užsienio valiutos santykiu, kuris taikomas Bendrijos muitinės kodekso įgyvendinimo nuostatų nustatytą laiką.
+Jeigu prekių muitinės vertės elementai išreikšti ne eurais, o užsienio valiuta, šie elementai perskaičiuojami pagal Europos centrinio banko paskelbtą orientacinį euro ir užsienio valiutos santykį, o tais atvejais, kai orientacinio užsienio valiutos ir euro santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutos santykį.
 
 
 Straipsnio pakeitimai:
 Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010ISTA00XI-575
+Nr. XII-1201, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14124
  
 
 
@@ -2998,7 +2999,10 @@ BAIGIAMOSIOS NUOSTATOS
 107 straipsnis. Reikšmingi ir kartotiniai pažeidimai
 
 
-1. Taikant šį Įstatymą ir kitus muitų teisės aktus, reikšmingu pažeidimu laikoma nusikalstama veika arba administracinis teisės pažeidimas, už kurį paskirta didesnė kaip 5 000 litų administracinė bauda, kartotiniu pažeidimu – antras ir kiekvienas paskesnis administracinis teisės pažeidimas, kuris pagal šį straipsnį nelaikytinas reikšmingu.
+1. Taikant šį Įstatymą ir kitus muitų teisės aktus, reikšmingu pažeidimu laikoma nusikalstama veika arba administracinis teisės pažeidimas, už kurį paskirta didesnė kaip 1 500 eurų administracinė bauda, kartotiniu pažeidimu – antras ir kiekvienas paskesnis administracinis teisės pažeidimas, kuris pagal šį straipsnį nelaikytinas reikšmingu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1201, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14124
+ 
 
 
 
@@ -3178,3 +3182,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 IV skyriaus ketvirtojo skir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1161, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13592
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 25 ir 26 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1201, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14124
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 39 ir 107 straipsnių pakeitimo įstatymas
