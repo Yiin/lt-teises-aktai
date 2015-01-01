@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2014-07-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-21
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -91,7 +91,6 @@ ANTSTOLIO ĮGALIOJIMŲ ĮGIJIMAS, SUSTABDYMAS, PASIBAIGIMAS
 
 
 1. Antstoliu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį universitetinį išsilavinimą (vienpakopį ar bakalauro), ne mažiau kaip dvejus metus buvęs antstolio padėjėju ir laimėjęs viešą konkursą arba ne mažiau kaip penkerius metus dirbęs teisinį darbą ar antstoliu ir laimėjęs viešą konkursą. Socialinių mokslų teisės krypties daktaras, habilituotas daktaras arba ne mažiau kaip penkerius metus antstoliu buvęs asmuo, jei nuo jo atleidimo iš antstolių praėjo ne daugiau kaip treji metai, laimėjęs viešą konkursą, gali būti skiriamas antstoliu be egzaminų. 
-TAR pastaba. 1 dalies nuostatos netaikomos asmenims, pateikusiems prašymus įrašyti juos į antstolių padėjėjų sąrašą ar tapusiems antstolio padėjėjais iki įstatymo Nr. X-1837 įsigaliojimo (2009-04-01).
 Straipsnio dalies pakeitimai:
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
@@ -137,7 +136,6 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 
 5) buvo atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, teismo antstolio, antstolio, antstolio atstovo, antstolio padėjėjo pareigų arba iš valstybės tarnybos už profesinės ar tarnybinės veiklos pažeidimus ir nuo atleidimo nepraėjo penkeri metai. 
-TAR pastaba.  5  punkto  nuostatos  taikomos  tik asmenims, atleistiems  po įstatymo Nr. X-1837 įsigaliojimo  (2009-04-01).
 Straipsnio punkto pakeitimai:
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
@@ -635,7 +633,10 @@ KITA ANTSTOLIO ATSAKOMYBĖ
 17 straipsnis. Antstolių civilinės atsakomybės draudimas
 
 
-1. Antstolio profesinė civilinė atsakomybė už fiziniams ar juridiniams asmenims padarytą žalą atliekant antstolio funkcijas, viršijančią 1000 litų, draudžiama privalomuoju draudimu. 
+1. Antstolio profesinė civilinė atsakomybė už fiziniams ar juridiniams asmenims padarytą žalą atliekant antstolio funkcijas, viršijančią 290 eurų, draudžiama privalomuoju draudimu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1245, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14873
+ 
 
 
 
@@ -645,9 +646,10 @@ KITA ANTSTOLIO ATSAKOMYBĖ
 
 
 
-3. Antstoliai profesinės civilinės atsakomybės privalomuoju draudimu draudžiami sudarant bendrą visų antstolių profesinės civilinės atsakomybės draudimo sutartį. Antstolių profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra Lietuvos antstolių rūmai. Kiekvienas antstolis Lietuvos antstolių rūmams privalo mokėti draudimo įmoką. Ji neįskaitoma į šio Įstatymo 45 straipsnio 5 dalyje nurodytą įmoką. Antstolio profesinės civilinės atsakomybės privalomojo draudimo minimali suma yra 200 000 litų vienam draudžiamajam įvykiui. 
+3. Antstoliai profesinės civilinės atsakomybės privalomuoju draudimu draudžiami sudarant bendrą visų antstolių profesinės civilinės atsakomybės draudimo sutartį. Antstolių profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra Lietuvos antstolių rūmai. Kiekvienas antstolis Lietuvos antstolių rūmams privalo mokėti draudimo įmoką. Ji neįskaitoma į šio Įstatymo 45 straipsnio 5 dalyje nurodytą įmoką. Antstolio profesinės civilinės atsakomybės privalomojo draudimo minimali suma yra 58 000 eurų vienam draudžiamajam įvykiui.
 Straipsnio dalies pakeitimai:
 Nr. XI-1690, 2011-11-17, Žin., 2011, Nr. 146-6836 (2011-12-01), i. k. 1111010ISTA0XI-1690
+Nr. XII-1245, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14873
  
 
 
@@ -1843,3 +1845,8 @@ Lietuvos Respublikos antstolių įstatymo 8 ir 47 straipsnių pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-806, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04325
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1245, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14873
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 17 straipsnio pakeitimo įstatymas
