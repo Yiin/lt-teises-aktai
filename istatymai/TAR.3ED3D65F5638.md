@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 
 # Lietuvos Respublikos valstybės rezervo įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
  
@@ -74,7 +74,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Valstybės rezervo atsakingasis saugotojas – valstybės ar savivaldybės institucija, įstaiga ar įmonė, teisės aktų nustatyta tvarka sauganti ir įtraukianti į apskaitą valstybės rezervo materialinių išteklių atsargas.
+3. Valstybės rezervo atsakingasis saugotojas – valstybės rezervo materialinių išteklių atsargas teisės aktų nustatyta tvarka sauganti ir įtraukianti į apskaitą biudžetinė įstaiga, valstybės įmonė, savivaldybės įmonė, taip pat akcinė bendrovė ar uždaroji akcinė bendrovė, kuriose valstybei ar savivaldybei nuosavybės teise priklauso akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniuose akcininkų susirinkimuose.
+Straipsnio dalies pakeitimai:
+Nr. XII-1320, 2014-11-11, paskelbta TAR 2014-11-18, i. k. 2014-17044
+ 
 
 
 
@@ -683,3 +686,8 @@ Lietuvos Respublikos valstybės rezervo įstatymo 2, 3, 4 ir 13 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2065, 2012-06-12, Žin., 2012, Nr. 69-3530 (2012-06-21), i. k. 1121010ISTA0XI-2065
 Lietuvos Respublikos valstybės rezervo įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1320, 2014-11-11, paskelbta TAR 2014-11-18, i. k. 2014-17044
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2 straipsnio pakeitimo įstatymas
