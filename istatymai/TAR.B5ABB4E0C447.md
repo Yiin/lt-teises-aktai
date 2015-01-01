@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS MARIJAMPOLĖS LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 164-7801, i. k. 1111010ISTA0XI-1907
+ 
 LIETUVOS RESPUBLIKOS  MARIJAMPOLĖS LAISVOSIOS EKONOMINĖS ZONOS  ĮSTATYMAS
  
 2011 m. gruodžio 23 d. Nr. XI-1907
@@ -79,7 +83,9 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 
 
-2. Zonos teritorija ne aukciono būdu Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-943, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07828
  
 
 
@@ -446,3 +452,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-943, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07828
+Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 4 straipsnio pakeitimo įstatymas
