@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2012-09-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-09
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -708,55 +708,104 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų r
 
 
 
-16 straipsnis. Bendrijos likvidavimo tvarka
+16 straipsnis. Bendrijos likvidavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
-1. Sprendimą likviduoti bendriją priima visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas likviduoti bendriją gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. 
-
-
-
-
-2. Bendrija, kurioje liko tik vienas dalyvis, turi būti likviduojama, jeigu likęs bendrijos dalyvis per šešis mėnesius po tokio dalyvių skaičiaus sumažėjimo nenusprendžia bendrijos reorganizuoti ar pertvarkyti, išskyrus atvejus, kai per šį laikotarpį į bendriją priimamas naujas dalyvis ir pakeičiama bendrijos veiklos sutartis.
-
-
-
-
-3. Nuo sprendimo likviduoti bendriją priėmimo dienos bendrija įgyja likviduojamos bendrijos statusą.
+1. Bendrija gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo pagrindais. 
+Papildyta straipsnio dalimi:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-4. Bendrijos likvidatorius įgyja bendrijos tikrųjų narių kompetenciją dėl sandorių sudarymo bei teises ir pareigas, nustatytas Civilinio kodekso 2.67 straipsnyje ir 2.82 straipsnio 3 dalyje, nuo jo paskyrimo, išskyrus Civiliniame kodekse nustatytus atvejus. 
+2. Bendrijos likvidavimo tvarką nustato Civilinis kodeksas ir šis įstatymas. Kai sprendimą likviduoti bendriją priima Juridinių asmenų registro tvarkytojas, bendrija likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva. 
+Papildyta straipsnio dalimi:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-5. Po atsiskaitymo su likviduojamos ūkinės bendrijos kreditoriais likęs turtas padalijamas ūkinės bendrijos dalyviams proporcingai jų įnašų dydžiui, buvusiam sprendimo likviduoti tikrąją ūkinę bendriją priėmimo dieną, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. 
+3. Sprendimą likviduoti bendriją priima visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas likviduoti bendriją gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-6. Jeigu bendrijos veiklos sutartyje nenustatyta kitaip, pirmiausia proporcinga įnašo dydžiui komanditinės ūkinės bendrijos turto dalis perduodama komanditoriams, po to – tikriesiems nariams. 
+4. Bendrija, kurioje liko tik vienas dalyvis, turi būti likviduojama, jeigu likęs bendrijos dalyvis per šešis mėnesius po tokio dalyvių skaičiaus sumažėjimo nenusprendžia bendrijos reorganizuoti ar pertvarkyti, išskyrus atvejus, kai per šį laikotarpį į bendriją priimamas naujas dalyvis ir pakeičiama bendrijos veiklos sutartis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-7. Likviduojamos bendrijos dalyviui, kuris sprendimo likviduoti bendriją priėmimo dieną nėra įvykdęs bendrijos veiklos sutartyje nurodyto įsipareigojimo dėl įnašo, perduodama proporcinga įnašo dydžiui bendrijos turto dalis.
+5. Nuo sprendimo likviduoti bendriją priėmimo dienos bendrija įgyja likviduojamos bendrijos statusą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-8. Jeigu komanditinės ūkinės bendrijos turto nepakanka atsiskaityti su kreditoriais, komanditorius, kuris sprendimo likviduoti komanditinę ūkinę bendriją priėmimo dieną nėra įvykdęs bendrijos veiklos sutartyje nurodytų įsipareigojimų dėl įnašo, yra solidariai atsakingas pagal komanditinės ūkinės bendrijos prievoles, atsižvelgiant į bendrijos veiklos sutartyje nurodytus to komanditoriaus įsipareigojimus.
+6. Bendrijos likvidatorius įgyja bendrijos tikrųjų narių kompetenciją dėl sandorių sudarymo bei teises ir pareigas, nustatytas Civilinio kodekso 2.67 straipsnyje ir 2.82 straipsnio 3 dalyje, nuo jo paskyrimo, išskyrus Civiliniame kodekse nustatytus atvejus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-9. Likviduojamos bendrijos dalyviui proporcinga jo įnašo dydžiui bendrijos turto dalis perduodama pinigais. Likviduojamos bendrijos dalyvis, kurio nepiniginis įnašas – individualiais požymiais apibūdintas daiktas, turi teisę reikalauti grąžinti jam šį daiktą, o bendrija turi jį grąžinti, jeigu dėl to nebus pažeisti kitų dalyvių ir kreditorių interesai. Jeigu individualiais požymiais apibūdinto daikto grąžinimas pažeistų kitų dalyvių ir kreditorių interesus, likviduojamos bendrijos dalyviui pinigais perduodama proporcinga jo įnašo dydžiui bendrijos turto dalis. Bendrijos veiklos sutartyje gali būti nustatyta ir kitokia nepiniginio įnašo, kuris yra individualiais požymiais apibūdintas daiktas, grąžinimo tvarka. 
+7. Po atsiskaitymo su likviduojamos ūkinės bendrijos kreditoriais likęs turtas padalijamas ūkinės bendrijos dalyviams proporcingai jų įnašų dydžiui, buvusiam sprendimo likviduoti tikrąją ūkinę bendriją priėmimo dieną, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 
 
-10. Be kitų šiame įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrijos likvidatorius privalo: 
+8. Jeigu bendrijos veiklos sutartyje nenustatyta kitaip, pirmiausia proporcinga įnašo dydžiui komanditinės ūkinės bendrijos turto dalis perduodama komanditoriams, po to – tikriesiems nariams. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
+
+
+
+
+9. Likviduojamos bendrijos dalyviui, kuris sprendimo likviduoti bendriją priėmimo dieną nėra įvykdęs bendrijos veiklos sutartyje nurodyto įsipareigojimo dėl įnašo, perduodama proporcinga įnašo dydžiui bendrijos turto dalis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
+
+
+
+
+10. Jeigu komanditinės ūkinės bendrijos turto nepakanka atsiskaityti su kreditoriais, komanditorius, kuris sprendimo likviduoti komanditinę ūkinę bendriją priėmimo dieną nėra įvykdęs bendrijos veiklos sutartyje nurodytų įsipareigojimų dėl įnašo, yra solidariai atsakingas pagal komanditinės ūkinės bendrijos prievoles, atsižvelgiant į bendrijos veiklos sutartyje nurodytus to komanditoriaus įsipareigojimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
+
+
+
+
+11. Likviduojamos bendrijos dalyviui proporcinga jo įnašo dydžiui bendrijos turto dalis perduodama pinigais. Likviduojamos bendrijos dalyvis, kurio nepiniginis įnašas – individualiais požymiais apibūdintas daiktas, turi teisę reikalauti grąžinti jam šį daiktą, o bendrija turi jį grąžinti, jeigu dėl to nebus pažeisti kitų dalyvių ir kreditorių interesai. Jeigu individualiais požymiais apibūdinto daikto grąžinimas pažeistų kitų dalyvių ir kreditorių interesus, likviduojamos bendrijos dalyviui pinigais perduodama proporcinga jo įnašo dydžiui bendrijos turto dalis. Bendrijos veiklos sutartyje gali būti nustatyta ir kitokia nepiniginio įnašo, kuris yra individualiais požymiais apibūdintas daiktas, grąžinimo tvarka. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
+
+
+
+
+12. Be kitų šiame įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrijos likvidatorius privalo: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+ 
 
 
 1) bendrijos veiklos sutartyje nurodytame šaltinyje viešai paskelbti apie bendrijos likvidavimą ir pateikti Juridinių asmenų registro tvarkytojui dokumentus, patvirtinančius sprendimą likviduoti bendriją, ir duomenis apie save (vardas, pavardė, asmens kodas, gyvenamoji vieta);
@@ -801,7 +850,9 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų r
 
 
 
-11. Jeigu sprendimas likviduoti bendriją atšaukiamas, dokumentas, patvirtinantis likvidavimo atšaukimą, turi būti pateiktas Juridinių asmenų registro tvarkytojui. 
+13. Jeigu sprendimas likviduoti bendriją atšaukiamas, dokumentas, patvirtinantis likvidavimo atšaukimą, turi būti pateiktas Juridinių asmenų registro tvarkytojui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
  
 
 
@@ -897,3 +948,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo 17 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2073, 2012-06-19, Žin., 2012, Nr. 78-4014 (2012-07-04), i. k. 1121010ISTA0XI-2073
 Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1076, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10455
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 16 straipsnio pakeitimo įstatymas
