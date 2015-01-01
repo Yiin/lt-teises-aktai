@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2013-10-19 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -798,10 +798,26 @@ GINČŲ SPRENDIMAS IR ŽALOS ATLYGINIMAS
 
 
 
-26 straipsnis. Reikalavimas atlyginti pacientui padarytą žalą
+26 straipsnis. Reikalavimas atlyginti pacientui ar tiriamajam padarytą žalą 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-982, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09404
+ 
 
 
-1. Draudžiamuoju įvykiu laikoma dėl sveikatos priežiūros įstaigos ar jos darbuotojų kaltės teikiant sveikatos priežiūros paslaugas pacientui padaryta turtinė ir neturtinė žala. 
+1. Draudžiamuoju įvykiu laikoma: 
+
+
+1) dėl sveikatos priežiūros įstaigos ar jos darbuotojų kaltės teikiant sveikatos priežiūros paslaugas pacientui padaryta turtinė ir neturtinė žala;
+
+
+
+
+2) dėl sveikatos priežiūros įstaigos, kuri yra biomedicininio tyrimo užsakovė, ar jos darbuotojų, kurie yra biomedicininio tyrimo užsakovai ir (ar) tyrėjai, kaltės atliekant klinikinį vaistinio preparato tyrimą, klinikinį medicinos prietaiso tyrimą ar bet kurį kitą biomedicininį tyrimą, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, tiriamajam padaryta turtinė ir neturtinė žala, jeigu sveikatos priežiūros įstaigos civilinės atsakomybės už pacientams padarytą žalą draudimo sutartyje yra numatytas žalos, galinčios atsirasti tokių tyrimų metu, atlyginimas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-982, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09404
+ 
 
 
 
@@ -852,3 +868,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-546, 2013-10-08, Žin., 2013, Nr. 110-5430 (2013-10-19), i. k. 1131010ISTA0XII-546
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-982, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09404
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 26 straipsnio pakeitimo įstatymas
