@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A845E65C32A2"
 
 # Lietuvos Respublikos produktų saugos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1673, i. k. 0991010ISTAIII-1206
  
@@ -920,37 +920,37 @@ Baudos už šio įstatymo pažeidimus taikomos produkto gamintojui, platintojui 
 23 straipsnis. Baudos už šio įstatymo pažeidimus
 
 
-1. Gamintojui, platintojui, pateikusiems į rinką pavojingų gaminių, skiriama nuo 500 iki 5000 litų bauda.
+1. Gamintojui, platintojui, pateikusiems į rinką pavojingų gaminių, skiriama nuo 144 iki 1 448 eurų bauda.
 
 
 
 
-2. Gamintojui, platintojui, pateikusiems į rinką pavojingų gaminių po įpareigojimo nutraukti jų realizavimą nevykdymo skiriama nuo 3000 iki 15000 litų bauda.
+2. Gamintojui, platintojui, pateikusiems į rinką pavojingų gaminių po įpareigojimo nutraukti jų realizavimą, skiriama nuo 868 iki 4 344 eurų bauda.
 
 
 
 
-3. Suteikusiam ar teikiančiam pavojingas paslaugas paslaugos teikėjui skiriama nuo 500 iki 2500 litų bauda.
+3. Suteikusiam ar teikiančiam pavojingas paslaugas paslaugos teikėjui skiriama nuo 144 iki 724 eurų bauda.
 
 
 
 
-4. Suteikusiam ar teikiančiam pavojingą paslaugą po įpareigojimo nutraukti jos teikimą paslaugos teikėjui skiriama nuo 2000 iki 10000 litų bauda.
+4. Suteikusiam ar teikiančiam pavojingą paslaugą po įpareigojimo nutraukti jos teikimą paslaugos teikėjui skiriama nuo 579 iki 2 896 eurų bauda.
 
 
 
 
-5. Šio įstatymo 22 straipsnyje nurodytiems asmenims, nevykdantiems Tarybos ar kontrolės institucijų reikalavimų pašalinti pavojingus produktus iš rinkos ar juos sunaikinti, skiriama nuo 5000 iki 20000 litų bauda.
+5. Šio įstatymo 22 straipsnyje nurodytiems asmenims, nevykdantiems Tarybos ar kontrolės institucijų reikalavimų pašalinti pavojingus produktus iš rinkos ar juos sunaikinti, skiriama nuo 1 448 iki 5 792 eurų bauda.
 
 
 
 
-6. Pateikusiems į rinką pavojingus produktus, jeigu šie produktai padarė žalos vartotojo sveikatai, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 5000 iki 40000 litų bauda.
+6. Pateikusiems į rinką pavojingus produktus, jeigu šie produktai padarė žalos vartotojo sveikatai, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 1 448 iki 11 584 eurų bauda.
 
 
 
 
-7. Pateikusiems į rinką pavojingus produktus, jeigu šie produktai sukėlė vartotojo mirtį, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 20000 iki 80000 litų bauda.
+7. Pateikusiems į rinką pavojingus produktus, jeigu šie produktai sukėlė vartotojo mirtį, šio įstatymo 22 straipsnyje nurodytiems asmenims skiriama nuo 5 792 iki 23 169 eurų bauda.
 
 
 
@@ -960,6 +960,7 @@ Baudos už šio įstatymo pažeidimus taikomos produkto gamintojui, platintojui 
 
 Straipsnio pakeitimai:
 Nr. IX-1988, 2004-01-29, Žin., 2004, Nr. 25-757 (2004-02-14), i. k. 1041010ISTA0IX-1988
+Nr. XII-1492, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21149
  
 
 
@@ -1150,3 +1151,8 @@ Lietuvos Respublikos produktų saugos įstatymo 4 ir 17 straipsnių pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1490, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21245
 Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 2 ir 12 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1492, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21149
+Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 23 straipsnio pakeitimo įstatymas
