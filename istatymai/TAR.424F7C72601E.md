@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
+ 
 LIETUVOS RESPUBLIKOS 
 BRANDUOLINĖS SAUGOS 
 ĮSTATYMAS
@@ -1982,20 +1986,22 @@ Asmenys, nesilaikantys, nevykdantys ar pažeidę šį įstatymą ir kitus brandu
 47 straipsnis. Baudos
 
 
-1. Juridiniam asmeniui, kuris nesilaiko šiame įstatyme ir kituose teisės aktuose nustatytų branduolinės saugos, radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimų ir dėl to yra ar gali būti pažeidžiami saugos barjerai ir (arba) į aplinką išmetamų radionuklidų aktyvumas viršija nustatytas normas, ir (arba) darbuotojų apšvitos dozės viršija nustatytas normas, taip pat kuris nesilaiko reikalavimų, atsirandančių dėl Lietuvos Respublikos prisiimtų tarptautinių branduolinio ginklo neplatinimo įsipareigojimų, ir tai yra susiję su dideliais branduolinių medžiagų kiekiais, apibrėžtais TATENA, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 0,75 procento iki 3 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 3 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 500 000 (penki šimtai tūkstančių) litų arba tokios veiklos mastą apskaičiuoti yra sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 125 000 (šimto dvidešimt penkių tūkstančių) iki 500 000 (penkių šimtų tūkstančių) litų.
+1. Juridiniam asmeniui, kuris nesilaiko šiame įstatyme ir kituose teisės aktuose nustatytų branduolinės saugos, radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimų ir dėl to yra ar gali būti pažeidžiami saugos barjerai ir (arba) į aplinką išmetamų radionuklidų aktyvumas viršija nustatytas normas, ir (arba) darbuotojų apšvitos dozės viršija nustatytas normas, taip pat kuris nesilaiko reikalavimų, atsirandančių dėl Lietuvos Respublikos prisiimtų tarptautinių branduolinio ginklo neplatinimo įsipareigojimų, ir tai yra susiję su dideliais branduolinių medžiagų kiekiais, apibrėžtais TATENA, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 0,75 procento iki 3 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 3 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 144 810 (vienas šimtas keturiasdešimt keturi tūkstančiai aštuoni šimtai dešimt) eurų arba tokios veiklos mastą apskaičiuoti yra sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 36 202 (trisdešimt šešių tūkstančių dviejų šimtų dviejų) iki 144 810 (vieno šimto keturiasdešimt keturių tūkstančių aštuonių šimtų dešimties) eurų.
 
 
 
 
-2. Juridiniam asmeniui, padariusiam pakartotinį šio straipsnio 1 dalyje nurodytą pažeidimą, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 1,25 procento iki 5 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 5 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 1 000 000 (vienas milijonas) litų arba tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 250 000 (dviejų šimtų penkiasdešimt tūkstančių) iki 1 000 000 (vieno milijono) litų.
+2. Juridiniam asmeniui, padariusiam pakartotinį šio straipsnio 1 dalyje nurodytą pažeidimą, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 1,25 procento iki 5 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 5 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 289 620 (du šimtai aštuoniasdešimt devyni tūkstančiai šeši šimtai dvidešimt) eurų arba tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 72 405 (septyniasdešimt dviejų tūkstančių keturių šimtų penkių) iki 289 620 (dviejų šimtų aštuoniasdešimt devynių tūkstančių šešių šimtų dvidešimties) eurų.
 
 
 
 
-3. Juridiniam asmeniui kartu su šio straipsnio 1 ir 2 dalyse nustatytomis baudomis gali būti teikiami privalomi vykdyti nurodymai, nustatyti šio įstatymo 6 straipsnio 2 dalyje.
+3. Juridiniam asmeniui kartu su šio straipsnio 1 ir 2 dalyse nustatytomis baudomis gali būti teikiami privalomi vykdyti nurodymai, nustatyti šio įstatymo 6 straipsnio 2 dalyje.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
  
-
-
 
 
 
@@ -2242,3 +2248,15 @@ branduolinės saugos įstatymo
 
 
 _________________
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 47 straipsnio pakeitimo įstatymas
