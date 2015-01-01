@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C71CC1B1BFCE"
 
 # Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-15
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-851, i. k. 0991010ISTAIII-1087
  
@@ -125,10 +125,10 @@ I SKYRIUS
  
 
 
-3 straipsnis. Įsakomojo vekselio rekvizitai 
+3 straipsnis. Įsakomojo vekselio rekvizitai
 
 
-Įsakomajame vekselyje (toliau – vekselyje) turi būti:
+1. Įsakomajame vekselyje (toliau – vekselis) turi būti:
 
 
 1) žodžiai „įsakomasis vekselis“ tekste ta kalba, kuria vekselis išrašytas;
@@ -167,11 +167,18 @@ I SKYRIUS
 
 
 8) išrašančio vekselį asmens (vekselio davėjo) parašas.
+
+
+
+
+
+
+2. Įsakomasis vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
  
-
-
-
-
 
 
 
@@ -372,7 +379,10 @@ VEKSELIO PERDAVIMAS
 15 straipsnis. Indosamento įrašymas 
 
 
-1. Indosamentas turi būti įrašytas vekselyje arba jo pratąsoje. Indosantas privalo jį pasirašyti. 
+1. Indosamentas turi būti įrašytas vekselyje arba jo pratąsoje. Indosantas privalo jį pasirašyti. Vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, indosanto fizinio asmens arba juridinio asmens atstovo parašo tikrumas turi būti patvirtintas notaro.
+Straipsnio dalies pakeitimai:
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
+ 
 
 
 
@@ -596,7 +606,10 @@ Vekselį, iki sueis mokėjimo terminas, jo turėtojas gali pateikti mokėtojui �
 27 straipsnis. Vekselio akcepto įforminimas
 
 
-1. Vekselio akceptas įrašomas vekselyje. Jis išreiškiamas žodžiu „akceptuotas“ arba kitu atitinkamu žodžiu ir pasirašomas mokėtojo. Vien mokėtojo parašas vekselio pirmojoje pusėje taip pat laikomas akceptu.
+1. Vekselio akceptas įrašomas vekselyje. Jis išreiškiamas žodžiu „akceptuotas“ arba kitu atitinkamu žodžiu ir pasirašomas mokėtojo. Vien mokėtojo parašas vekselio pirmojoje pusėje taip pat laikomas akceptu. Vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, akceptanto fizinio asmens parašo tikrumas turi būti patvirtintas notaro.
+Straipsnio dalies pakeitimai:
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
+ 
 
 
 
@@ -1369,10 +1382,12 @@ TARPININKAVIMAS
 59 straipsnis. Tarpininko akcepto įforminimas
 
 
-Tarpininkas akceptą įrašo vekselyje ir pasirašo nurodydamas, kieno vardu akceptuoja. Jei tokio nurodymo nėra, laikoma, kad akceptuota už vekselio davėją.
+Tarpininkas akceptą įrašo vekselyje ir pasirašo nurodydamas, kieno vardu akceptuoja. Jeigu tokio nurodymo nėra, laikoma, kad akceptuota už vekselio davėją. Vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, tarpininko fizinio asmens arba juridinio asmens atstovo parašo tikrumas turi būti patvirtintas notaro.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
  
-
-
 
 
 
@@ -1697,10 +1712,10 @@ PAPRASTASIS VEKSELIS
  
 
 
-77 straipsnis. Paprastojo vekselio rekvizitai
+77 straipsnis. Paprastojo vekselio rekvizitai ir forma
 
 
-Paprastajame vekselyje turi būti:
+1. Paprastajame vekselyje turi būti:
 
 
 1) žodžiai „paprastasis vekselis“ tekste ta kalba, kuria vekselis išrašytas;
@@ -1708,7 +1723,7 @@ Paprastajame vekselyje turi būti:
 
 
 
-2) besąlyginis įsipareigojimas sumokėti nurodytą sumą; 
+2) besąlyginis įsipareigojimas sumokėti nurodytą sumą;
 
 
 
@@ -1734,11 +1749,18 @@ Paprastajame vekselyje turi būti:
 
 
 7) išrašančiojo paprastąjį vekselį asmens (paprastojo vekselio davėjo) parašas.
+
+
+
+
+
+
+2. Paprastasis vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
  
-
-
-
-
 
 
 
@@ -1843,7 +1865,9 @@ Paprastajame vekselyje turi būti:
 
 
 
-2. Paprastieji vekseliai, mokėtini per tam tikrą laiką po pateikimo, per 25 straipsnyje nustatytus terminus turi būti pateikti vekselio davėjui vizuoti. Laikas, per kurį turi būti apmokėta po pateikimo, pradedamas skaičiuoti nuo vizavimo dienos. Davėjo atsisakymas vizuoti ir nurodyti vizos datą patvirtinamas protestu (27 straipsnis), nuo kurio įforminimo datos pradedamas skaičiuoti laikas, per kurį turi būti apmokėta po pateikimo.
+2. Paprastieji vekseliai, mokėtini per tam tikrą laiką po pateikimo, per šio įstatymo 25 straipsnyje nustatytus terminus turi būti pateikti vekselio davėjui vizuoti. Paprastajame vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, vizuojančio fizinio asmens parašo tikrumas turi būti patvirtintas notaro. Laikas, per kurį turi būti apmokėta po pateikimo, pradedamas skaičiuoti nuo vizavimo dienos. Davėjo atsisakymas vizuoti ir nurodyti vizos datą patvirtinamas protestu (27 straipsnis), nuo kurio įforminimo datos pradedamas skaičiuoti laikas, per kurį turi būti apmokėta po pateikimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
  
 
 
@@ -1926,3 +1950,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2352, 2012-11-06, Žin., 2012, Nr. 132-6680 (2012-11-15), i. k. 1121010ISTA0XI-2352
 Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo 83 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
+Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 3, 15, 27, 59, 77 ir 80 straipsnių pakeitimo įstatymas
