@@ -21,6 +21,10 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+ 
+Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
+ 
 LIETUVOS RESPUBLIKOS
 INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ 
 ĮSTATYMAS
@@ -2759,59 +2763,62 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 1. Priežiūros institucija, vadovaudamasi Finansinių priemonių rinkų įstatymo nustatyta tvarka, turi teisę skirti tokias baudas:
 
 
-1) juridiniams asmenims, nurodantiems, kad jie veiklą vykdo ar jų valdomas kolektyvinio investavimo subjektas veikia pagal šį įstatymą, bet neturintiems šio įstatymo nustatyto veiklos leidimo ir (ar) pritarimo fondo taisyklėms, – iki 200 tūkstančių litų; atsakomybė pagal šį punktą netaikoma juridiniams asmenims, kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte nurodantiems, kad jie ketina veikti ar jų valdomas kolektyvinio investavimo subjektas sieks gauti veiklos leidimą ar pritarimą fondo taisyklėms pagal šį įstatymą, jeigu investuotojui išaiškinamos ir kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte aiškiai nurodomos tokio ketinimo įvykdymo sąlygos ir terminai; 
+1) juridiniams asmenims, nurodantiems, kad jie veiklą vykdo ar jų valdomas kolektyvinio investavimo subjektas veikia pagal šį įstatymą, bet neturintiems šio įstatymo nustatyto veiklos leidimo ir (ar) pritarimo fondo taisyklėms, – iki 57 924 eurų; atsakomybė pagal šį punktą netaikoma juridiniams asmenims, kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte nurodantiems, kad jie ketina veikti ar jų valdomas kolektyvinio investavimo subjektas sieks gauti veiklos leidimą ar pritarimą fondo taisyklėms pagal šį įstatymą, jeigu investuotojui išaiškinamos ir kolektyvinio investavimo subjekto steigimo dokumentuose ar prospekte aiškiai nurodomos tokio ketinimo įvykdymo sąlygos ir terminai; 
 
 
 
 
-2) juridiniams asmenims, viešai siūlantiems kolektyvinio investavimo subjektų investicinius vienetus, akcijas ar įnešti įnašus, neturintiems šiame įstatyme nustatyto priežiūros institucijos išduoto veiklos leidimo, – iki 200 tūkstančių litų;
+2) juridiniams asmenims, viešai siūlantiems kolektyvinio investavimo subjektų investicinius vienetus, akcijas ar įnešti įnašus, neturintiems šiame įstatyme nustatyto priežiūros institucijos išduoto veiklos leidimo, – iki 57 924 eurų;
 
 
 
 
-3) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 3 punkto reikalavimo, – iki 200 tūkstančių litų;
+3) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 3 punkte nustatyto reikalavimo, – iki 57 924 eurų;
 
 
 
 
-4) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 1, 2, 4–13 punktuose nustatytų veiklos reikalavimų ir riziką ribojančių reikalavimų, – iki 200 tūkstančių litų;
+4) juridiniams asmenims, nesilaikantiems šio įstatymo 13 straipsnio 1 dalies 1, 2, 4–13 punktuose nustatytų veiklos reikalavimų ir riziką ribojančių reikalavimų, – iki 57 924 eurų;
 
 
 
 
-5) juridiniams asmenims, nesilaikantiems šio įstatymo 24, 25, 27, 28 ir 29 straipsniuose nustatytos kolektyvinio investavimo subjektų investicinių vienetų, akcijų išleidimo, įsigijimo ir išpirkimo, įnašų įnešimo ir grąžinimo tvarkos, – iki 100 tūkstančių litų; 
+5) juridiniams asmenims, nesilaikantiems šio įstatymo 24, 25, 27, 28 ir 29 straipsniuose nustatytos kolektyvinio investavimo subjektų investicinių vienetų, akcijų išleidimo, įsigijimo ir išpirkimo, įnašų įnešimo ir grąžinimo tvarkos, – iki 28 962 eurų; 
 
 
 
 
-6) juridiniams asmenims, nesilaikantiems šio įstatymo 26 straipsnyje nustatytų investicinių vienetų, akcijų apmokėjimo nepiniginiu įnašu, nepiniginio įnašo įnešimo ir išpirkimo bei įnašo grąžinimo reikalavimų, – iki 200 tūkstančių litų; 
+6) juridiniams asmenims, nesilaikantiems šio įstatymo 26 straipsnyje nustatytų investicinių vienetų, akcijų apmokėjimo nepiniginiu įnašu, nepiniginio įnašo įnešimo ir išpirkimo bei įnašo grąžinimo reikalavimų, – iki 57 924 eurų; 
 
 
 
 
-7) juridiniams asmenims, nesilaikantiems šio įstatymo III skyriuje nustatytų informacijos teikimo investuotojams reikalavimų, – iki 100 tūkstančių litų; 
+7) juridiniams asmenims, nesilaikantiems šio įstatymo III skyriuje nustatytų informacijos teikimo investuotojams reikalavimų, – iki 28 962 eurų; 
 
 
 
 
-8) juridiniams asmenims, pažeidusiems šio įstatymo 30 straipsnio 4 dalies draudimą skolinti kolektyvinio investavimo subjekto turtą jo dalyviams, – iki 100 tūkstančių litų;
+8) juridiniams asmenims, pažeidusiems šio įstatymo 30 straipsnio 4 dalyje nustatytą draudimą skolinti kolektyvinio investavimo subjekto turtą jo dalyviams, – iki 28 962 eurų;
 
 
 
 
-9) juridiniams asmenims, pažeidusiems kolektyvinio investavimo subjekto grynųjų aktyvų vertės skaičiavimo reikalavimus, – iki 100 tūkstančių litų;
+9) juridiniams asmenims, pažeidusiems kolektyvinio investavimo subjekto grynųjų aktyvų vertės skaičiavimo reikalavimus, – iki 28 962 eurų;
 
 
 
 
-10) juridiniams asmenims, nesilaikantiems kitų šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – iki 100 tūkstančių litų; 
+10) juridiniams asmenims, nesilaikantiems kitų šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – iki 28 962 eurų; 
 
 
 
 
-11) juridiniams asmenims, nevykdantiems priežiūros institucijos nurodymų, neteikiantiems priežiūros institucijai šiame ir kituose Lietuvos Respublikos įstatymuose nurodytos informacijos arba trukdantiems priežiūros institucijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 100 tūkstančių litų.
+11) juridiniams asmenims, nevykdantiems priežiūros institucijos nurodymų, neteikiantiems priežiūros institucijai šiame ir kituose Lietuvos Respublikos įstatymuose nurodytos informacijos arba trukdantiems priežiūros institucijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 28 962 eurų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1101, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13437
+ 
 
 
 
@@ -2897,3 +2904,15 @@ Priežiūros institucija priima šio įstatymo įgyvendinamuosius teisės aktus 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1101, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13437
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 55 straipsnio pakeitimo įstatymas
