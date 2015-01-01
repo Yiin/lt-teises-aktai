@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2011-12-31 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
  
@@ -554,12 +554,25 @@ TAR pastaba 8 straipsnio 3 dalies 4 punktas įsigalioja 2011 m. gruodžio 31 d.
 
 
 
-2. Jeigu sistemos dalyviams, sistemos operatoriams arba Lietuvos bankui, kitų valstybių narių centriniams bankams arba Europos centriniam bankui kaip įkaitas pateikiami vertybiniai popieriai (įskaitant teises į vertybinius popierius) ir šių asmenų arba asmenų, veikiančių jų vardu, teisės į šiuos vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos registre, atitinkamoje sąskaitoje arba centralizuotoje saugojimo sistemoje, esančioje kitoje, negu Lietuvos Respublika, valstybėje narėje, tai šių asmenų, kaip įkaito turėtojų, teises į šiuos vertybinius popierius nustato tos valstybės narės teisė.
+2. Jeigu vienas sistemos operatorius kitam sistemos operatoriui pateikia įkaitą, susijusį su sąveikaujančia sistema, įkaitą pateikiančio sistemos operatoriaus teisėms į tą įkaitą neturi įtakos dėl įkaitą gavusio sistemos operatoriaus pradėtas bankroto procesas. 
+Papildyta straipsnio dalimi:
+Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
+ 
 
 
 
 
-3. Jeigu sistemos dalyviams, sistemos operatoriams arba Lietuvos bankui, kitų valstybių narių centriniams bankams arba Europos centriniam bankui kaip įkaitas pateikiami vertybiniai popieriai (įskaitant teises į vertybinius popierius) ir šių asmenų arba asmenų, veikiančių jų vardu, teisės į šiuos vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos registre, atitinkamoje sąskaitoje arba centralizuotoje saugojimo sistemoje, esančioje Lietuvos Respublikoje, tai šių asmenų, kaip įkaito turėtojų, teises į šiuos vertybinius popierius nustato Lietuvos Respublikos teisė.
+3. Jeigu sistemos dalyviams, sistemos operatoriams arba Lietuvos bankui, kitų valstybių narių centriniams bankams arba Europos centriniam bankui kaip įkaitas pateikiami vertybiniai popieriai (įskaitant teises į vertybinius popierius) ir šių asmenų arba asmenų, veikiančių jų vardu, teisės į šiuos vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos registre, atitinkamoje sąskaitoje arba centralizuotoje saugojimo sistemoje, esančioje kitoje, negu Lietuvos Respublika, valstybėje narėje, tai šių asmenų, kaip įkaito turėtojų, teises į šiuos vertybinius popierius nustato tos valstybės narės teisė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
+ 
+
+
+
+
+4. Jeigu sistemos dalyviams, sistemos operatoriams arba Lietuvos bankui, kitų valstybių narių centriniams bankams arba Europos centriniam bankui kaip įkaitas pateikiami vertybiniai popieriai (įskaitant teises į vertybinius popierius) ir šių asmenų arba asmenų, veikiančių jų vardu, teisės į šiuos vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos registre, atitinkamoje sąskaitoje arba centralizuotoje saugojimo sistemoje, esančioje Lietuvos Respublikoje, tai šių asmenų, kaip įkaito turėtojų, teises į šiuos vertybinius popierius nustato Lietuvos Respublikos teisė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
  
 
 
@@ -617,18 +630,20 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
-atsiskaitymų baigtinumo mokėjimo ir  vertybinių popierių atsiskaitymo  sistemose įstatymo
-priedas
+Lietuvos Respublikos 
+atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 
+priedas 
  
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
- 
-
-
-1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 107) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
+1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 107) su paskutiniais pakeitimais, padarytais 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
+
+
+Priedo pakeitimai:
+Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
+ 
  
  
 Pakeitimai:
@@ -652,3 +667,8 @@ Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1428, 2011-06-07, Žin., 2011, Nr. 74-3539 (2011-06-18), i. k. 1111010ISTA0XI-1428
 Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. IX-1597 9 straipsnio ir priedo pakeitimo įstatymas
