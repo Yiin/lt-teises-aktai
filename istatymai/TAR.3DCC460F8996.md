@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DCC460F8996"
 
 # Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymas
 
-Suvestinė redakcija nuo 2013-03-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 123-5571, i. k. 1031010ISTA0IX-1873
- 
-TAR pastaba. Šio įstatymo nuostatos taikomos komercinėms sutartims, sudarytoms po šio įstatymo įsigaliojimo.  Teisės aktuose pateiktos nuorodos į 2000 m. birželio 29 d. Europos Parlamento ir Tarybos direktyvą 2000/35/EB dėl kovos su pavėluotu mokėjimu komerciniuose sandoriuose (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 226) yra laikomos nuorodomis į 2011 m. vasario 16 d. Europos Parlamento ir Tarybos direktyvą 2011/7/ES dėl kovos su pavėluotu mokėjimu, atliekamu pagal komercinius sandorius (OL 2011 L 48, p. 1).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-2287, 2012-10-17, Žin., 2012, Nr. 127-6389 (2012-11-03), i. k. 1121010ISTA0XI-2287
-Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo pakeitimo įstatymas
  
 Nauja redakcija nuo 2013-03-01:
 Nr. XI-2287, 2012-10-17, Žin. 2012, Nr. 127-6389 (2012-11-03), i. k. 1121010ISTA0XI-2287
@@ -107,7 +102,10 @@ Vilnius
 
 
 
-5. Pavėluoto mokėjimo palūkanų norma – Lietuvos banko nustatyta vienos nakties atpirkimo sandorių atpirkimo palūkanų norma, padidinta 8 procentiniais punktais.
+5. Pavėluoto mokėjimo palūkanų norma – 8 procentiniais punktais padidinta vėliausiai pagrindinei Europos centrinio banko refinansavimo operacijai taikoma fiksuotoji palūkanų norma, jeigu vėliausia pagrindinė Europos centrinio banko refinansavimo operacija buvo vykdoma fiksuotųjų palūkanų konkurso būdu, arba ribinė palūkanų norma, jeigu vėliausia pagrindinė Europos centrinio banko refinansavimo operacija buvo vykdoma kintamųjų palūkanų konkurso būdu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1190, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14283
+ 
 
 
 
@@ -247,7 +245,10 @@ Vilnius
 7 straipsnis. Išieškojimo išlaidų kompensavimas
 
 
-1. Kreditorius, įgijęs teisę į komercinėje sutartyje ar įstatyme nustatytas palūkanas, turi teisę be įspėjimo iš skolininko gauti 40 eurų sumą (arba lygiavertę sumą litais, apskaičiuotą pagal teisės į palūkanas atsiradimo metu Lietuvos banko skelbiamą oficialų lito ir euro santykį).
+1. Kreditorius, įgijęs teisę į komercinėje sutartyje ar įstatyme nustatytas palūkanas, turi teisę be įspėjimo iš skolininko gauti 40 eurų sumą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1190, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14283
+ 
 
 
 
@@ -371,3 +372,8 @@ Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2287, 2012-10-17, Žin., 2012, Nr. 127-6389 (2012-11-03), i. k. 1121010ISTA0XI-2287
 Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1190, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14283
+Lietuvos Respublikos mokėjimų, atliekamų pagal komercines sutartis, vėlavimo prevencijos įstatymo Nr. IX-1873 2 ir 7 straipsnių pakeitimo įstatymas
