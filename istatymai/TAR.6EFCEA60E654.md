@@ -21,7 +21,7 @@ BENDRUOMENIŲ NEKILNOJAMĄJĮ TURTĄ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-06-12 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-03-25
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 80-3897, i. k. 1111010ISTA0XI-1470
  
@@ -70,7 +70,10 @@ priima šį Geros valios kompensacijos už žydų religinių bendruomenių nekil
 2 straipsnis. Kompensacijos dydis, mokėjimo terminai ir tvarka
 
 
-1. Mokėtinos piniginės kompensacijos dydis – 128 milijonai litų.
+1. Mokėtinos piniginės kompensacijos dydis – 37 071 362,37 euro. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1246, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14872
+ 
 
 
 
@@ -116,7 +119,10 @@ Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
 
 
 
-9. Šio įstatymo 3 straipsnio 1 dalies 2 punkte nurodytai paskirčiai skiriama vienkartinė 3 milijonų litų suma. Ši suma yra šio straipsnio 1 dalyje nurodytos piniginės kompensacijos dalis. Ji išmokama šio straipsnio 2 dalyje nurodytam fondui 2012 metais, ne vėliau kaip per tris mėnesius nuo fondo paskyrimo.
+9. Šio įstatymo 3 straipsnio 1 dalies 2 punkte nurodytai paskirčiai skiriama vienkartinė 3 milijonų litų (868 860,06 euro) suma. Ši suma yra šio straipsnio 1 dalyje nurodytos piniginės kompensacijos dalis. Ji išmokama šio straipsnio 2 dalyje nurodytam fondui 2012 metais, ne vėliau kaip per tris mėnesius nuo fondo paskyrimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1246, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14872
+ 
 
 
 
@@ -195,3 +201,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
 Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1246, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14872
+Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 2 straipsnio pakeitimo įstatymas
