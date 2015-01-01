@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 164-7802, i. k. 1111010ISTA0XI-1909
+ 
 LIETUVOS RESPUBLIKOS 
 ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS 
 ĮSTATYMAS
@@ -81,7 +85,9 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 
 
-2. Zonos teritorija ne aukciono būdu Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-945, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07826
  
 
 
@@ -448,3 +454,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-945, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07826
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 straipsnio pakeitimo įstatymas
