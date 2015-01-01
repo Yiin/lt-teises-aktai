@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6e4ab4e0e0e111e388bee944977d73d2"
 
 # Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymas
 
+Suvestinė redakcija nuo 2015-01-01
+ 
+Įstatymas paskelbtas: TAR 2014-05-21, i. k. 2014-05572
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS IR NETEKTO DARBINGUMO (INVALIDUMO) PENSIJŲ KOMPENSAVIMO
 ĮSTATYMAS
@@ -79,12 +86,16 @@ priima šį įstatymą, nustatantį praradimų, atsiradusių dėl valstybinių s
 
 
 
-2) jeigu asmeniui apskaičiuota kompensuojamoji suma yra didesnė kaip 100 litų, tačiau, išmokėjus jos dalį 2014 m. ketvirtąjį ketvirtį, lieka 100 litų ar mažiau, likusi suma išmokama 2015 m. pirmojo ketvirčio paskutinį mėnesį; 
+2) jeigu asmeniui apskaičiuota kompensuojamoji suma yra didesnė kaip 100 litų, tačiau, išmokėjus jos dalį 2014 m. ketvirtąjį ketvirtį, lieka 100 litų (nuo 2015 m. sausio 1 d. – 28,96 euro) ar mažiau, likusi suma išmokama 2015 m. pirmojo ketvirčio paskutinį mėnesį; 
 
 
 
 
-3) jeigu asmeniui apskaičiuota kompensuojamoji suma yra didesnė kaip 100 litų ir, išmokėjus jos dalį 2014 m. ketvirtąjį ketvirtį, lieka daugiau kaip 100 litų, tačiau 40 procentų kompensuojamosios sumos yra 100 litų ar mažiau, po 40 procentų kompensuojamosios sumos išmokama atitinkamai 2015 ir 2016 m. pirmojo ketvirčio paskutinį mėnesį.
+3) jeigu asmeniui apskaičiuota kompensuojamoji suma yra didesnė kaip 100 litų ir, išmokėjus jos dalį 2014 m. ketvirtąjį ketvirtį, lieka daugiau kaip 100 litų (nuo 2015 m. sausio 1 d. – 28,96 euro), tačiau 40 procentų kompensuojamosios sumos yra 100 litų (nuo 2015 m. sausio 1 d. – 28,96 euro) ar mažiau, po 40 procentų kompensuojamosios sumos išmokama atitinkamai 2015 m. ir 2016 m. pirmojo ketvirčio paskutinį mėnesį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1204, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14120
  
 
 
@@ -92,8 +103,7 @@ priima šį įstatymą, nustatantį praradimų, atsiradusių dėl valstybinių s
 
 
 
-
-
+ 
 3 straipsnis. Senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo tvarka
 
 
@@ -158,3 +168,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1204, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14120
+Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymo Nr. XII-886 2 straipsnio pakeitimo įstatymas
