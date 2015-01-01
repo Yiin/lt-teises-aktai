@@ -17,7 +17,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 2007, Nr. 140-5763
 Neoficialus įstatymo
 tekstas
-Aktuali redakcija nuo 2014-06-01 iki 2014-12-21
  
 LIETUVOS RESPUBLIKOS
 ŽMONIŲ PALAIKŲ LAIDOJIMO
@@ -128,8 +127,8 @@ valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigtas juridi
 asmuo ar kita organizacija arba jų filialas, šio įstatymo nustatyta
 tvarka teikiantys
 visas ar dalį laidojimo paslaugų.
-18. Naujos kapinės – kapinės,
-įsteigtos šiam įstatymui įsigaliojus.
+18. Naujos kapinės – kapinės, įsteigtos
+šiam įstatymui įsigaliojus.
 19. Pelenų barstymo
 laukas – kapinėse
 esantis plotas, kuriame kremuoti žmogaus palaikai išbarstomi ant dirvos
@@ -256,8 +255,8 @@ testamentą arba kitą valios pareiškimo dokumentą;
 2) nutraukdamas
 trišalę sutartį su kremavimo įmone ir laidojančiu asmeniu. 
 2. Vėliau šio
-įstatymo 3 straipsnio 2 ir 4 dalyse nustatyta tvarka pareikšta valia dėl kremavimo
-panaikina pirmiau pareikštą valią dėl kremavimo.
+įstatymo 3 straipsnio 2 ir 4 dalyse nustatyta tvarka pareikšta valia dėl
+kremavimo panaikina pirmiau pareikštą valią dėl kremavimo.
  
 5
 straipsnis. Asmens, kuris nebuvo pareiškęs valios dėl savo palaikų kremavimo,
@@ -267,16 +266,16 @@ būdamas gyvas, šio įstatymo 3 straipsnio 2 ir 4 dalyse nustatyta tvarka
 nepareiškė valios dėl savo palaikų kremavimo, palaikus kremuoti galima, jeigu
 mirusiojo asmens veiksnus pilnametis sutuoktinis (sutuoktinė) ar kiti veiksnūs
 pilnamečiai asmenys, nurodyti Civilinio kodekso 3.135 straipsnyje, pateikia
-prašymą kremavimo įmonei ir raštu patvirtina, kad asmuo, būdamas gyvas, nebuvo
-pareiškęs nesutikimo dėl savo palaikų kremavimo.
+prašymą kremavimo įmonei ir raštu patvirtina, kad asmuo, būdamas gyvas, nebuvo pareiškęs
+nesutikimo dėl savo palaikų kremavimo.
 2. Kilus
 nesutarimams tarp šio straipsnio 1 dalyje nurodytų asmenų, ar palaikus
 kremuoti, sprendžia mirusio asmens:
 1) sutuoktinis;
 2) jei nėra
 sutuoktinio, – pilnamečiai vaikai (įvaikiai);
-3) jei nėra šios
-dalies 1 ir 2 punktuose nurodytų asmenų, – tėvai (įtėviai); 
+3) jei nėra šios dalies
+1 ir 2 punktuose nurodytų asmenų, – tėvai (įtėviai); 
 4) jei nėra šios
 dalies 1, 2 ir 3 punktuose nurodytų asmenų, – pilnamečiai broliai ir seserys
 (įbroliai, įseserės);
@@ -325,8 +324,8 @@ palaikų kremavimo;
 5)
 prokuroro rašytinį leidimą, jeigu prašoma kremuoti ekshumuotus žmogaus palaikus
 Straipsnio pakeitimai:
-Nr. XI-1044, 2010-09-30,
-Žin., 2010, Nr. 123-6259 (2010-10-18)
+Nr. XI-1044,
+2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 Nr. XI-2377,
 2012-11-06, Žin., 2012, Nr. 135-6866 (2012-11-22)
  
@@ -418,9 +417,9 @@ Vyriausybės ar jos įgaliotos institucijos nustatytus visuomenės sveikatos
 saugos, darbuotojų saugos ir sveikatos bei aplinkosaugos reikalavimus.
 4.
 Kremavimo įmonė, kuri nutraukia kremavimo veiklą, šio įstatymo 14 straipsnio 2
-dalyje nurodytus dokumentus, kurių saugojimo terminas nėra pasibaigęs, tolesniam
-saugojimui turi perduoti Lietuvos Respublikos dokumentų ir archyvų įstatymo
-nustatyta tvarka.
+dalyje nurodytus dokumentus, kurių saugojimo terminas nėra pasibaigęs,
+tolesniam saugojimui turi perduoti Lietuvos Respublikos dokumentų ir archyvų
+įstatymo nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. XI-1044,
 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
@@ -446,11 +445,11 @@ reikalavimus.
 Aplinkos
 ministerija ar jos įgaliota institucija, gavusi šio straipsnio 2 dalyje
 nurodytus dokumentus, per 5 darbo dienas raštu kreipiasi į visuomenės sveikatos
-centrus apskrityse, kad šie pateiktų duomenis apie Lietuvos Respublikos visuomenės
-sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka pareiškėjui
-išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai.
-Visuomenės sveikatos centras apskrityje duomenis apie pareiškėjui išduotą
-leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai privalo
+centrus apskrityse, kad šie pateiktų duomenis apie Lietuvos Respublikos
+visuomenės sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka
+pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo
+veiklai. Visuomenės sveikatos centras apskrityje duomenis apie pareiškėjui
+išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai privalo
 pateikti per 10 darbo dienų nuo licencijas išduodančios institucijos rašto
 gavimo dienos.
 4. Aplinkos ministerija ar jos įgaliota institucija, priėmusi sprendimą išduoti
@@ -493,10 +492,10 @@ veiklos licencijos galiojimas sustabdomas šiais atvejais:
 įmonės prašymu;
 2) jeigu buvo
 priimtas sprendimas įspėti kremavimo įmonę apie galimą licencijos galiojimo
-sustabdymą ir per sprendime nustatytą terminą kremavimo įmonė nepateikė
-dokumentų, patvirtinančių, kad pažeidimai pašalinti, arba pateiktų dokumentų
-nepakanka nustatyti, kad pažeidimai pašalinti, ir yra pasibaigęs pažeidimų
-pašalinimo terminas;
+sustabdymą ir per sprendime nustatytą terminą kremavimo įmonė nepateikė dokumentų,
+patvirtinančių, kad pažeidimai pašalinti, arba pateiktų dokumentų nepakanka
+nustatyti, kad pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo
+terminas;
 3) jeigu gautas šio
 įstatymo 30 straipsnyje nurodytų kremavimo įmonių veiklą kontroliuojančių
 valstybinės priežiūros institucijų motyvuotas rašytinis pasiūlymas sustabdyti
@@ -510,14 +509,14 @@ Visuomenės sveikatos centras apskrityje, sustabdęs leidimo-higienos paso
 galiojimą, turi per 3 darbo dienas apie tai raštu informuoti licencijas
 išduodančią instituciją ir nurodyti jo sustabdymo galiojimo terminą.
 10. Sprendimą dėl licencijos galiojimo
-sustabdymo Aplinkos ministerija ar jos įgaliota institucija priima per 5 darbo dienas nuo informacijos apie šio
-straipsnio 9 dalyje nurodytų aplinkybių atsiradimą gavimo dienos ir nustato ne
-ilgesnį kaip 3 mėnesių terminą, per kurį kremavimo įmonė turi pašalinti
-pažeidimus, dėl kurių
-licencijos galiojimas buvo sustabdytas, išskyrus atvejus, kai sprendimas sustabdyti licencijos
-galiojimą priimamas šio straipsnio 9 dalies 1 ir 3 punktuose nurodytais
-atvejais. Šio straipsnio 9 dalies 3 punkte nurodytu atveju pažeidimų pašalinimo
-terminas nustatomas pagal gautoje informacijoje nurodytą terminą. 
+sustabdymo Aplinkos ministerija ar jos įgaliota institucija priima per 5 darbo dienas nuo informacijos apie šio straipsnio
+9 dalyje nurodytų aplinkybių atsiradimą gavimo dienos ir nustato ne ilgesnį
+kaip 3 mėnesių terminą, per kurį kremavimo įmonė turi pašalinti pažeidimus, dėl kurių licencijos galiojimas buvo
+sustabdytas, išskyrus
+atvejus, kai sprendimas sustabdyti licencijos galiojimą priimamas šio
+straipsnio 9 dalies 1 ir 3 punktuose nurodytais atvejais. Šio straipsnio 9
+dalies 3 punkte nurodytu atveju pažeidimų pašalinimo terminas nustatomas pagal
+gautoje informacijoje nurodytą terminą. 
 11. Kremavimo
 veiklos licencijos galiojimas panaikinamas šiais atvejais:
 1) kremavimo įmonės
@@ -527,8 +526,8 @@ priimtas sprendimas sustabdyti licencijos galiojimą šio straipsnio 9 dalies 2
 ar 3 punktuose nurodytais pagrindais ir per šiame sprendime sustabdyti
 licencijos galiojimą nustatytą terminą kremavimo įmonė nepateikė dokumentų,
 įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo
-sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai
-pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas;
+sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti
+pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas;
 3) jeigu nustatoma,
 kad licencijos galiojimo sustabdymo metu kremavimo įmonė vykdo kremavimo
 veiklą;
@@ -598,16 +597,15 @@ kremuoti žmogaus palaikus tą pačią dieną, kurią yra išduotas medicininis
 mirties liudijimas.
 2. Kremavimo
 krosnyje vienu metu galima kremuoti ne daugiau kaip vieno žmogaus palaikus.
-3. Kremuoti
-žmogaus palaikai turi būti sudėti į nedūžtančią, šviesai ir skysčiui
-nepralaidžią kapsulę. Ant kapsulės kremavimo įmonė turi įskaitomai įspausti
-šiuos duomenis: 
+3. Kremuoti žmogaus
+palaikai turi būti sudėti į nedūžtančią, šviesai ir skysčiui nepralaidžią
+kapsulę. Ant kapsulės kremavimo įmonė turi įskaitomai įspausti šiuos duomenis: 
 1) mirusiojo
 vardą, pavardę ir asmens kodą;
 2) mirusiojo
 gimimo ir mirties datą;
-3) kremavimą
-atlikusios įmonės kodą ir kremavimo datą;
+3) kremavimą atlikusios
+įmonės kodą ir kremavimo datą;
 4) kremavimo
 registracijos numerį, atitinkantį numerį kremavimo registracijos žurnale.
  
@@ -688,8 +686,8 @@ privalo:
 1) turėti
 balzamavimui
 atlikti pritaikytą įrangą, patalpas ir reikiamos kvalifikacijos personalą.
-Įrangos, patalpų ir personalo kvalifikacijos reikalavimus nustato Vyriausybės įgaliota
-institucija;
+Įrangos, patalpų ir personalo kvalifikacijos reikalavimus nustato Vyriausybės
+įgaliota institucija;
 2) turėti
 leidimą-higienos pasą balzamavimui, išduotą Lietuvos Respublikos visuomenės
 sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka.
@@ -717,12 +715,11 @@ per 10 darbo dienų nuo licencijas išduodančios institucijos rašto gavimo
 dienos.
 4. Licencijas išduodanti institucija, priėmusi sprendimą
 išduoti balzamavimo licenciją arba motyvuotą sprendimą atsisakyti išduoti
-balzamavimo licenciją, apie priimtą sprendimą raštu informuoja pareiškėją.
-Laikotarpis, per kurį pareiškėjas šalina licencijas išduodančios institucijos
-nurodytus trūkumus, neįskaitomas į balzamavimo licencijos išdavimo terminą ir
-tokiu atveju sprendimo išduoti licenciją ar atsisakyti išduoti licenciją
-priėmimo terminas skaičiuojamas nuo visų tinkamai įformintų dokumentų gavimo
-dienos.
+balzamavimo licenciją, apie priimtą sprendimą raštu informuoja pareiškėją. Laikotarpis,
+per kurį pareiškėjas šalina licencijas išduodančios institucijos nurodytus
+trūkumus, neįskaitomas į balzamavimo licencijos išdavimo terminą ir tokiu
+atveju sprendimo išduoti licenciją ar atsisakyti išduoti licenciją priėmimo
+terminas skaičiuojamas nuo visų tinkamai įformintų dokumentų gavimo dienos.
 5. Balzamavimo
 licenciją atsisakoma išduoti šiais atvejais:
 1) jeigu pareiškėjas
@@ -736,9 +733,9 @@ trūkumų;
 buvo panaikintas balzamavimo licencijos galiojimas ir nuo licencijos galiojimo
 panaikinimo nepraėjo 6 mėnesiai. Ši nuostata netaikoma, kai licencijos
 galiojimas panaikintas paties asmens prašymu.
-6. Balzamavimo licencijos
-dublikatas išduodamas Balzamavimo licencijavimo taisyklėse nustatyta tvarka ir
-terminais, jeigu licencijos originalas prarandamas arba sugadinamas.
+6. Balzamavimo
+licencijos dublikatas išduodamas Balzamavimo licencijavimo taisyklėse nustatyta
+tvarka ir terminais, jeigu licencijos originalas prarandamas arba sugadinamas.
 7. Balzamavimo
 licencijos pakeitimai daromi Balzamavimo licencijavimo taisyklėse nustatyta
 tvarka ir terminais, kai pasikeičia bent vienas iš licencijoje nurodytų
@@ -759,8 +756,8 @@ licencijos turėtojo prašymu;
 priimtas sprendimas įspėti balzamavimo licencijos turėtoją apie galimą
 balzamavimo licencijos galiojimo sustabdymą ir per šiame sprendime nustatytą
 terminą balzamavimo licencijos turėtojas nepateikė dokumentų, patvirtinančių,
-kad pažeidimai pašalinti, arba pateiktų dokumentų nepakanka nustatyti, kad pažeidimai
-pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas;
+kad pažeidimai pašalinti, arba pateiktų dokumentų nepakanka nustatyti, kad
+pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas;
 3) jeigu gautas šio
 įstatymo 30 straipsnyje nurodytų balzamavimo licencijos turėtojų veiklą
 kontroliuojančių valstybinės priežiūros institucijų motyvuotas rašytinis
@@ -774,8 +771,8 @@ galiojimas. Visuomenės sveikatos centras apskrityje, sustabdęs leidimo-higieno
 paso galiojimą, turi per 3 darbo dienas apie tai raštu informuoti licencijas
 išduodančią instituciją ir nurodyti jo sustabdymo galiojimo terminą.
 10. Sprendimą dėl
-licencijos galiojimo sustabdymo licencijas išduodanti
-institucija priima per 5 darbo dienas nuo informacijos apie šio
+licencijos galiojimo sustabdymo licencijas išduodanti institucija
+priima per 5 darbo dienas nuo informacijos apie šio
 straipsnio 9 dalyje nurodytų aplinkybių atsiradimą gavimo dienos ir nustato ne
 ilgesnį kaip 3 mėnesių terminą, per kurį balzamavimo licencijos turėtojas turi
 pašalinti pažeidimus, dėl kurių licencijos galiojimas buvo sustabdytas, išskyrus
@@ -1010,12 +1007,14 @@ KAPINĖS
  
 23 straipsnis.
 Kapinių klasifikavimas
-1. Pagal paskirtį kapinės
-skirstomos į:
-1) viešąsias;
-2) konfesines.
-2. Pagal statusą kapinės
-skirstomos į:
+1. Pagal paskirtį
+kapinės skirstomos į:
+1)
+viešąsias;
+2)
+konfesines.
+2. Pagal statusą
+kapinės skirstomos į:
 1) neveikiančias;
 2) riboto laidojimo;
 3) veikiančias.
@@ -1044,8 +1043,8 @@ Straipsnio pakeitimai:
 Nr. XI-1044,
 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
  
-25
-straipsnis. Žmogaus palaikų laidojimas kapavietėse ir ekshumavimas
+25 straipsnis.
+Žmogaus palaikų laidojimas kapavietėse, ekshumavimas ir perkėlimas
 1. Kapinėse kapavietės skiriamos
 neatlygintinai.
 2. Laidoti
@@ -1068,9 +1067,15 @@ palaidotus žmogaus palaikus, nebent būtų atidaromas karstas.
 6. Kapinių
 prižiūrėtojas užtikrina, kad palaikų ekshumavimo metu nebūtų sutrikdyta viešoji
 tvarka ir būtų išvengta galimos infekcijos išplitimo.
+7. Rezistentų ir kitų asmenų, nužudytų okupacinių režimų metu, palaikai
+perkeliami ir laidojimo vietos įamžinamos arba pažymimos Vyriausybės nustatyta
+tvarka, laidojimo vietos įamžinimo arba žymėjimo projektą suderinus su
+Vyriausybės įgaliotomis institucijomis.
 Straipsnio pakeitimai:
 Nr. XI-1762,
 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
+Nr. XII-834,
+2014-04-17, paskelbta TAR 2014-04-24, i. k 2014-04698
  
 26 straipsnis.
 Kapinių prižiūrėtojo teisės ir pareigos
@@ -1093,9 +1098,9 @@ laikotarpio nustatymo;
 sprendimas panaikinti kapines, nedelsiant apie tai raštu informuoti jose
 palaidotų asmenų artimuosius giminaičius, jei jų adresus prižiūrėtojas žino, ir
 visuomenę Vyriausybės nustatyta tvarka;
-7) panaikintose kapinėse
-atliekant kasinėjimo darbus, užtikrinti, kad visi žmogaus palaikai būtų ekshumuoti
-ir palaidoti kitame kape kitose kapinėse, o kapuose ir rūsiuose rastus daiktus,
+7) panaikintose kapinėse atliekant
+kasinėjimo darbus, užtikrinti, kad visi žmogaus palaikai būtų ekshumuoti ir
+palaidoti kitame kape kitose kapinėse, o kapuose ir rūsiuose rastus daiktus,
 kurie pagaminti iš brangiųjų metalų, arba objektus, kurie turi kultūrinės ir
 (ar) istorinės vertės, įstatymų nustatyta tvarka perduoti saugoti
 kompetentingoms valstybės institucijoms.
@@ -1154,18 +1159,19 @@ Kapinių panaikinimas
 iškilus pavojui visuomenės sveikatai. Sprendimą dėl kapinių panaikinimo priima
 savivaldybės, kurios teritorijoje yra kapinės, taryba, vadovaudamasi visuomenės
 sveikatos centro apskrityje siūlymu.
-2. Kapines galima panaikinti ne anksčiau, negu baigiasi
-kapo ramybės laikas nuo paskutinių žmogaus palaikų palaidojimo kape, išskyrus
-atvejus, kai būtina panaikinti kapines iškilus pavojui visuomenės sveikatai. 
+2. Kapines galima panaikinti ne anksčiau, negu
+baigiasi kapo ramybės laikas nuo paskutinių žmogaus palaikų palaidojimo kape,
+išskyrus atvejus, kai būtina panaikinti kapines iškilus pavojui visuomenės
+sveikatai. 
 3. Kai būtina
 panaikinti kapines prieš pasibaigiant šio straipsnio 2 dalyje numatytam
 laikotarpiui, vietos savivaldybė privalo organizuoti ir apmokėti jose palaidotų
 žmogaus palaikų ekshumavimą ir pergabenimą, žemės ir žolinės pievų dangos,
 kurioje išbarstomi arba užkasami į žemę kremuoti žmogaus palaikai, perkėlimą į
 kitas kapines.
-4. Draudžiama panaikinti
-įstatymų nustatyta tvarka į Kultūros vertybių registrą įrašytus kapus ir
-kapines. Karių kapai ir kapinės gali būti panaikinti tik tada,
+4. Draudžiama
+panaikinti įstatymų nustatyta tvarka į Kultūros vertybių registrą įrašytus kapus
+ir kapines. Karių kapai ir kapinės gali būti panaikinti tik tada,
 kai Krašto apsaugos ministerija pritaria tokiam sprendimui.
 Straipsnio pakeitimai:
 Nr. XI-1044,
@@ -1174,8 +1180,8 @@ Nr. XI-1762,
 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
  
 ŠEŠTASIS SKYRIUS
-KREMAVIMO, BALZAMAVIMO
-IR LAIDOJIMO PASLAUGŲ TEIKIMO PRIEŽIŪRA IR KONTROLĖ
+KREMAVIMO,
+BALZAMAVIMO IR LAIDOJIMO PASLAUGŲ TEIKIMO PRIEŽIŪRA IR KONTROLĖ
  
 30 straipsnis. Valstybės institucijų kompetencija
 kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo
@@ -1191,18 +1197,18 @@ priežiūros ir kontrolės funkcijas.
 2. Aplinkos
 ministerijos regionų aplinkos apsaugos departamentai ir kitos valstybinės
 priežiūros institucijos pagal kompetenciją prižiūri kremavimo įmonių,
-balzamavimo licencijų turėtojų, laidojimo paslaugų teikėjų ir kapinių
-prižiūrėtojų veiklą ir kontroliuoja,
+balzamavimo licencijų turėtojų, laidojimo paslaugų teikėjų ir kapinių prižiūrėtojų
+veiklą ir kontroliuoja,
 kaip jie vykdo aplinkos apsaugos, asmens duomenų tvarkymo ir apsaugos
 reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose.
 3. Šio
 straipsnio 1 ir 2 dalyse nurodytos institucijos, nustačiusios šio įstatymo ir
-kitų teisės aktų nustatytų kremavimo veiklai ir balzamavimui taikomų reikalavimų
-pažeidimus, gali teikti pasiūlymus kremavimo veiklos ir balzamavimo licencijas
-išduodančioms institucijoms dėl licencijos galiojimo sustabdymo.
+kitų teisės aktų nustatytų kremavimo veiklai ir balzamavimui taikomų
+reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos ir balzamavimo
+licencijas išduodančioms institucijoms dėl licencijos galiojimo sustabdymo.
 Straipsnio pakeitimai:
-Nr. XI-1044, 2010-09-30,
-Žin., 2010, Nr. 123-6259 (2010-10-18)
+Nr. XI-1044,
+2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 Nr. XI-1762,
 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
  
@@ -1263,7 +1269,6 @@ Nr. X-1684,
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
- 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
  
@@ -1332,6 +1337,15 @@ LIETUVOS RESPUBLIKOS ŽMONIŲ PALAIKŲ
 LAIDOJIMO ĮSTATYMO NR. X-1404 33 STRAIPSNIO PAKEITIMO
 Šis įstatymas, išskyrus 2 straipsnį,
 įsigalioja 2014 m. birželio 1 d.
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-834,
+2014-04-17, paskelbta TAR 2014-04-24, i. k 2014-04698
+LIETUVOS RESPUBLIKOS ŽMONIŲ PALAIKŲ
+LAIDOJIMO ĮSTATYMO NR. X-1404 25 STRAIPSNIO PAKEITIMO
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2015 m. sausio 1 d.
  
 *** Pabaiga ***
  
