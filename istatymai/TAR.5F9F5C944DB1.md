@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -110,7 +110,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Pavėluoto mokėjimo palūkanų norma – Lietuvos banko nustatyta vienos nakties atpirkimo sandorių atpirkimo palūkanų norma, padidinta 8 procentiniais punktais. 
+5. Pavėluoto mokėjimo palūkanų norma – 8 procentiniais punktais padidinta vėliausiai pagrindinei Europos centrinio banko refinansavimo operacijai taikoma:
+
+
+1) fiksuotoji palūkanų norma, jeigu vėliausia pagrindinė Europos centrinio banko refinansavimo operacija buvo vykdoma fiksuotųjų palūkanų konkurso būdu arba
+
+
+
+
+2) ribinė palūkanų norma, jeigu vėliausia pagrindinė Europos centrinio banko refinansavimo operacija buvo vykdoma kintamųjų palūkanų konkurso būdu
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 
@@ -479,7 +492,10 @@ Jeigu gavęs žemės ūkio produkciją šios produkcijos pirkėjas neatsiskaito 
 
 
 
-4. Žemės ūkio produkcijos pardavėjas, pagal šio įstatymo 11 straipsnį turintis teisę į pavėluoto mokėjimo palūkanas, taip pat turi teisę be atskiro įspėjimo gauti iš žemės ūkio produkcijos pirkėjo 40 eurų (šalims susitarus dėl mokėjimo šia valiuta) arba lygiavertę sumą litais, apskaičiuotą pagal teisės į pavėluoto mokėjimo palūkanas atsiradimo metu Lietuvos banko skelbiamą oficialų lito ir euro santykį, išieškojimo išlaidoms kompensuoti. 
+4. Žemės ūkio produkcijos pardavėjas, pagal šio įstatymo 11 straipsnį turintis teisę į pavėluoto mokėjimo palūkanas, taip pat turi teisę be atskiro įspėjimo gauti iš žemės ūkio produkcijos pirkėjo 40 eurų išieškojimo išlaidoms kompensuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 
@@ -568,14 +584,17 @@ ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ KONTROLĖ IR INFORMACIJOS TEIKIMAS
 2. Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka informaciją apie atsiskaitymo už žemės ūkio produkciją būklę teritorinėms valstybinėms mokesčių inspekcijoms kas mėnesį privalo teikti žemės ūkio produkcijos, kuriai Vyriausybė nustato atsiskaitymo terminus, pirkėjai:
 
 
-1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 10 milijonų litų arba daugiau; 
+1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 2,9 milijono eurų arba daugiau; 
 
 
 
 
-2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti ir kurių pajamos per paskutinius ataskaitinius metus yra 3 milijonai litų arba daugiau. 
+2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti ir kurių pajamos per paskutinius ataskaitinius metus yra 0,87 milijono eurų arba daugiau.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 
