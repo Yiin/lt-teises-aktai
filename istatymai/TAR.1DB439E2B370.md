@@ -15,6 +15,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1DB439E2B370"
 
 LIETUVOS RESPUBLIKOS GARANTINIO FONDO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
+Įstatymas netenka galios 2017-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
+ 
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 78-4017, i. k. 1121010ISTA0XI-2079
+ 
 LIETUVOS RESPUBLIKOS 
 GARANTINIO FONDO ĮSTATYMO PAKEITIMO  Į S T A T Y M A S
  
@@ -243,13 +252,34 @@ priedas
 
 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
-1. Šis įstatymas, išskyrus šio įstatymo 3 straipsnį, įsigalioja 2013 m. sausio 1 d.
+1. Šis įstatymas, išskyrus šio straipsnio 6 dalį ir šio įstatymo 3 straipsnį, įsigalioja 2013 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
+ 
 
-2. Darbdavių, kurių bankroto bylos iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki šio įstatymo įsigaliojimo, paraiškos nagrinėjamos ir lėšos iš Garantinio fondo skiriamos pagal teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
+2. Šio straipsnio 6 dalis įsigalioja 2015 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
+ 
 
-3. Paraiškas dėl išeitinių išmokų skyrimo buvusių darbdavių, nurodytų šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 ir 2 punktuose, kurių bankroto bylos iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki Lietuvos Respublikos Garantinio fondo įstatymo įsigaliojimo dienos ir buvo tęsiamas įstatymui įsigaliojus, darbuotojams savivaldybės, kurios teritorijoje buvo įregistruotas šis darbdavys, likviduotas dėl bankroto įsigaliojus Lietuvos Respublikos Garantinio fondo įstatymui, tarybos įgaliota įstaiga arba jos pavedimu administratorius Garantinio fondo administratoriui teikia iki 2013 m. liepos 1 d. Šios paraiškos nagrinėjamos ir Garantinio fondo lėšos skiriamos pagal teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
+3. Darbdavių, kurių bankroto bylos iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki šio įstatymo įsigaliojimo, paraiškos nagrinėjamos ir lėšos iš Garantinio fondo skiriamos pagal teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
+ 
 
-4. Fiziniai asmenys, nurodyti šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 punkte, įmokas į Garantinį fondą moka nuo 2013 m. kovo 1 d.
+4. Paraiškas dėl išeitinių išmokų skyrimo buvusių darbdavių, nurodytų šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 ir 2 punktuose, kurių bankroto bylos iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki Lietuvos Respublikos Garantinio fondo įstatymo įsigaliojimo dienos ir buvo tęsiamas įstatymui įsigaliojus, darbuotojams savivaldybės, kurios teritorijoje buvo įregistruotas šis darbdavys, likviduotas dėl bankroto įsigaliojus Lietuvos Respublikos Garantinio fondo įstatymui, tarybos įgaliota įstaiga arba jos pavedimu administratorius Garantinio fondo administratoriui teikia iki 2013 m. liepos 1 d. Šios paraiškos nagrinėjamos ir Garantinio fondo lėšos skiriamos pagal teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
+ 
+
+5. Fiziniai asmenys, nurodyti šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos Garantinio fondo įstatymo 2 straipsnio 4 dalies 1 punkte, įmokas į Garantinį fondą moka nuo 2013 m. kovo 1 d.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
+ 
+
+6. Administratoriui grąžinus į valstybės iždo bendrąją sąskaitą pervestas ir pagal paskirtį nepanaudotas šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos garantinio fondo įstatymo 6 straipsnio 8 dalyje nurodytas Garantinio fondo lėšas, darbdavių, kurių bankroto bylos iškeltos arba bankroto procesas ne teismo tvarka pradėtas iki šio įstatymo įsigaliojimo, darbuotojai turi teisę Lietuvos Respublikos Vyriausybės nustatyta tvarka kreiptis dėl išmokų iš Garantinio fondo išmokėjimo ne vėliau kaip iki 2018 m. sausio 1 d. Jeigu šiems darbuotojams išmokos iš Garantinio fondo skirtos po 2015 m. sausio 1 d., jie turi teisę Lietuvos Respublikos Vyriausybės nustatyta tvarka kreiptis dėl išmokų iš Garantinio fondo išmokėjimo ne vėliau kaip per trejus metus nuo Garantinio fondo tarybos sprendimo dėl Garantinio fondo lėšų skyrimo priėmimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
  
 
 3 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
@@ -261,4 +291,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1531, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21161
+Lietuvos Respublikos garantinio fondo įstatymo pakeitimo įstatymo Nr. XI-2079 2 straipsnio pakeitimo įstatymas
 
