@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -61,7 +61,10 @@ Vilnius
 
 
 
-4. Labai maža paskola (mikrokreditas) – paskola verslininkui ar labai mažai įmonei (mikroįmonei) iki 86 320 litų dydžio.
+4. Labai maža paskola (mikrokreditas) – paskola verslininkui ar labai mažai įmonei (mikroįmonei) iki 25 000 eurų dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
+ 
 
 
 
@@ -188,14 +191,17 @@ Nr. XII-470, 2013-07-02, Žin. 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA
 1. Vidutinė įmonė – įmonė, kurioje dirba mažiau kaip 250 darbuotojų ir kurios finansiniai duomenys atitinka bent vieną iš šių sąlygų:
 
 
-1) įmonės metinės pajamos neviršija 138 mln. litų;
+1) įmonės metinės pajamos neviršija 40 mln. eurų;
 
 
 
 
-2) įmonės balanse nurodyto turto vertė neviršija 93 mln. litų.
+2) įmonės balanse nurodyto turto vertė neviršija 27 mln. eurų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
+ 
 
 
 
@@ -203,14 +209,17 @@ Nr. XII-470, 2013-07-02, Žin. 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA
 2. Maža įmonė – įmonė, kurioje dirba mažiau kaip 50 darbuotojų ir kurios finansiniai duomenys atitinka bent vieną iš šių sąlygų:
 
 
-1) įmonės metinės pajamos neviršija 24 mln. litų;
+1) įmonės metinės pajamos neviršija 7 mln. eurų; 
 
 
 
 
-2) įmonės balanse nurodyto turto vertė neviršija 17 mln. litų.
+2) įmonės balanse nurodyto turto vertė neviršija 5 mln. eurų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
+ 
 
 
 
@@ -218,14 +227,17 @@ Nr. XII-470, 2013-07-02, Žin. 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA
 3. Labai maža įmonė – įmonė, kurioje dirba mažiau kaip 10 darbuotojų ir kurios finansiniai duomenys atitinka bent vieną iš šių sąlygų:
 
 
-1) įmonės metinės pajamos neviršija 7 mln. litų;
+1) įmonės metinės pajamos neviršija 2 mln. eurų;
 
 
 
 
-2) įmonės balanse nurodyto turto vertė neviršija 5 mln. litų.
+2) įmonės balanse nurodyto turto vertė neviršija 1,5 mln. eurų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
+ 
 
 
 
@@ -325,7 +337,7 @@ kn – koeficientas, parodantis, kokia dalis n-tosios partnerinės įmonės duom
 16. Šio straipsnio 13 dalyje nurodytas koeficientas kn laikomas lygiu nuliui, jei nuo 25 iki 50 procentų įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba nuo 25 iki 50 procentų visų įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi šie investuotojai:
 
 
-1) valdymo įmonės ar investicinės bendrovės, investuojančios į įmones rizikos kapitalo kolektyvinio investavimo subjektų lėšas, ir neformalieji investuotojai, jei šių investuotojų bendra investicijų į tą pačią įmonę suma ne didesnė kaip 4,3 mln. litų;
+1) valdymo įmonės ar investicinės bendrovės, investuojančios į įmones rizikos kapitalo kolektyvinio investavimo subjektų lėšas, ir neformalieji investuotojai, jei šių investuotojų bendra investicijų į tą pačią įmonę suma ne didesnė kaip 1,25 mln. eurų;
 
 
 
@@ -340,10 +352,12 @@ kn – koeficientas, parodantis, kokia dalis n-tosios partnerinės įmonės duom
 
 
 
-4) savivaldybės, kurių metinis biudžetas mažesnis kaip 34,5 mln. litų ir kurių teritorijoje gyvena mažiau kaip 5 tūkstančiai gyventojų.
+4) savivaldybės, kurių metinis biudžetas mažesnis kaip 10 mln. eurų ir kurių teritorijoje gyvena mažiau kaip 5 tūkstančiai gyventojų. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
  
-
-
 
 
 
@@ -353,17 +367,20 @@ kn – koeficientas, parodantis, kokia dalis n-tosios partnerinės įmonės duom
 4 straipsnis. Verslininkas, kaip smulkiojo ir vidutinio verslo subjektas
 
 
-1. Verslininkas laikomas smulkiojo ir vidutinio verslo subjektu, jei šiame straipsnyje nustatyta tvarka apskaičiuotas darbuotojų skaičius mažesnis kaip 250 darbuotojų, o finansiniai duomenys tenkina bent vieną iš sąlygų:
+1. Verslininkas laikomas smulkiojo ir vidutinio verslo subjektu, jei šiame straipsnyje nustatyta tvarka apskaičiuotas darbuotojų skaičius mažesnis kaip 250 darbuotojų, o finansiniai duomenys tenkina bent vieną iš sąlygų:
 
 
-1) metinės pajamos neviršija 138 mln. litų;
+1) metinės pajamos neviršija 40 mln. eurų;
 
 
 
 
-2) balanse nurodyto turto vertė neviršija 93 mln. litų.
+2) balanse nurodyto turto vertė neviršija 27 mln. eurų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
+ 
 
 
 
@@ -567,3 +584,8 @@ Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 8 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-470, 2013-07-02, Žin., 2013, Nr. 79-3991 (2013-07-23), i. k. 1131010ISTA0XII-470
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 2 ir 5 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1186, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14289
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2, 3 ir 4 straipsnių pakeitimo įstatymas
