@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2014-12-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -1463,7 +1463,18 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-4. Įstatymų, reglamentuojančių valstybės garantuojamos teisinės pagalbos teikimą, numatytais atvejais nukentėjusysis ir civilinis ieškovas turi teisę gauti valstybės garantuojamą teisinę pagalbą.
+4. Ikiteisminio tyrimo pareigūnas, prokuroras motyvuotu nutarimu ar teismas motyvuota nutartimi pripažįsta, kad įgaliotojo atstovo dalyvavimas būtinas bylose dėl nusikalstamų veikų žmogaus sveikatai, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai ar dorovei, kai nuo šių veikų nukentėjo nepilnametis, taip pat kitais atvejais, kai be įgaliotojo atstovo pagalbos nepilnamečio nukentėjusiojo teisės ir teisėti interesai nebūtų reikiamai ginami. Tokiais atvejais dėl įgaliotojo atstovo dalyvavimo atitinkamai taikomos šio Kodekso 51 ir 52 straipsnių nuostatos. 
+Papildyta straipsnio dalimi:
+Nr. XII-1148, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13716
+ 
+
+
+
+
+5. Įstatymų, reglamentuojančių valstybės garantuojamos teisinės pagalbos teikimą, numatytais atvejais nukentėjusysis ir civilinis ieškovas turi teisę gauti valstybės garantuojamą teisinę pagalbą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1148, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13716
+ 
 
 
 Straipsnio pakeitimai:
@@ -3691,12 +3702,6 @@ Kardomosios priemonės gali būti skiriamos siekiant užtikrinti įtariamojo, ka
 120 straipsnis. Kardomųjų priemonių rūšys
 
 
-1. Kardomosios priemonės yra šios: suėmimas, namų areštas, įpareigojimas gyventi skyrium nuo nukentėjusiojo, užstatas, dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti.
-Redakcija nuo 2015-01-01:
-
-
-
-
 1. Kardomosios priemonės yra šios: suėmimas, intensyvi priežiūra, namų areštas, įpareigojimas gyventi skyrium nuo nukentėjusiojo, užstatas, dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti.
  
 
@@ -3715,12 +3720,6 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 121 straipsnis. Kardomųjų priemonių skyrimo bendrosios nuostatos
-
-
-1. Suėmimas, namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios priemonės prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi, o kardomosios priemonės: dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti, kario karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas ir nepilnamečio atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti, – neatidėliotinais atvejais gali būti paskirtos ikiteisminio tyrimo pareigūno nutarimu. Tokiu atveju ikiteisminio tyrimo pareigūnas privalo nedelsdamas raštu apie paskirtą kardomąją priemonę pranešti prokurorui.
-Redakcija nuo 2015-01-01:
-
-
 
 
 1. Suėmimas, intensyvi priežiūra, namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios priemonės prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi, o kardomosios priemonės: dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti, kario karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas ir nepilnamečio atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti, – neatidėliotinais atvejais gali būti paskirtos ikiteisminio tyrimo pareigūno nutarimu. Tokiu atveju ikiteisminio tyrimo pareigūnas privalo nedelsdamas raštu apie paskirtą kardomąją priemonę pranešti prokurorui.
@@ -3924,18 +3923,6 @@ Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 Straipsnio pakeitimai:
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
  
-
-
-
-
-126 straipsnis. Nutarties atsisakyti skirti suėmimą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo turinys
-
-
-Nutartyje atsisakyti skirti suėmimą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo turi būti nurodoma šio Kodekso 125 straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat motyvai, dėl kurių atsisakoma skirti suėmimą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo.
-Redakcija nuo 2015-01-01:
- 
-
-
 
 
 
@@ -4174,12 +4161,6 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-3. Skiriant namų areštą, nustatomos šios kardomosios priemonės sąlygos. Įtariamasis įspėjamas, kad už namų arešto sąlygų pažeidimą jam gali būti paskirtas suėmimas, jei tam būtų pagrindas.
-Redakcija nuo 2015-01-01:
-
-
-
-
 3. Skiriant namų areštą, nustatomos šios kardomosios priemonės sąlygos. Įtariamasis įspėjamas, kad už namų arešto sąlygų pažeidimą jam gali būti paskirtas suėmimas arba intensyvi priežiūra, jei tam būtų pagrindas.
 
 
@@ -4365,12 +4346,6 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 
 1. Paskirta kardomoji priemonė panaikinama, kai ji tampa nebereikalinga, arba pakeičiama griežtesne ar švelnesne, kai to reikalauja bylos aplinkybės. Kardomąją priemonę panaikina arba pakeičia prokuroras nutarimu arba teismas nutartimi.
-
-
-
-
-2. Jeigu ikiteisminio tyrimo metu išnyksta suėmimo, namų arešto ar įpareigojimo gyventi skyrium nuo nukentėjusiojo pagrindai ar šioms kardomosioms priemonėms taikyti reikalingos sąlygos, prokuroras privalo nedelsdamas priimti nutarimą paleisti į laisvę suimtą įtariamąjį arba panaikinti jam taikomą kardomąją priemonę – namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo, arba sušvelninti šių kardomųjų priemonių taikymo sąlygas. Tokio nutarimo nuorašas yra siunčiamas ikiteisminio tyrimo teisėjui, paskyrusiam suėmimą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo arba pratęsusiam šių kardomųjų priemonių terminą.
-Redakcija nuo 2015-01-01:
 
 
 
@@ -11546,7 +11521,10 @@ c) jam įteikus sprendimą ir jį aiškiai informavus apie teisę į bylos persv
 
 
 
-5. Prireikus mokėtina suma teismo nutartimi konvertuojama pagal Lietuvos banko nustatytą konvertuojamos valiutos ir lito santykį, kuris galiojo piniginės sankcijos paskyrimo metu. Tais atvejais, kai Europos Sąjungos valstybės narės kompetentinga institucija paskyrė piniginę sankciją dėl veikos, padarytos ne šios valstybės teritorijoje, o dėl šios veikos gali būti taikomi Lietuvos Respublikos baudžiamieji įstatymai, teismas sumažina mokėtinos piniginės sankcijos dydį iki maksimalaus dydžio, numatyto už analogišką nusikalstamą veiką pagal Lietuvos Respublikos baudžiamąjį kodeksą. 
+5. Prireikus mokėtina suma teismo nutartimi konvertuojama pagal Europos centrinio banko paskelbtą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį, kuris galiojo piniginės sankcijos paskyrimo metu. Tais atvejais, kai Europos Sąjungos valstybės narės kompetentinga institucija paskyrė piniginę sankciją dėl veikos, padarytos ne šios valstybės teritorijoje, o dėl šios veikos gali būti taikomi Lietuvos Respublikos baudžiamieji įstatymai, teismas sumažina mokėtinos piniginės sankcijos dydį iki maksimalaus dydžio, numatyto už analogišką nusikalstamą veiką pagal Lietuvos Respublikos baudžiamąjį kodeksą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1239, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14519
+ 
 
 
 
@@ -11705,7 +11683,10 @@ c) jam įteikus sprendimą ir aiškiai informavus apie teisę į bylos persvarst
 
 
 
-7. Tais atvejais, kai Europos Sąjungos valstybės narės teismo sprendimas konfiskuoti susijęs su pinigų suma ir kai fizinis ar juridinis asmuo, dėl kurių turto konfiskavimo priimtas sprendimas, pateikia duomenų apie dalinį ar visišką turto konfiskavimą kitoje valstybėje, teismas raštu kreipiasi į Europos Sąjungos valstybės narės kompetentingą instituciją su prašymu nedelsiant pateikti visą būtiną informaciją apie kitoje valstybėje konfiskuotą turtą. Gavęs šią informaciją, teismas sumažina konfiskuotino turto sumą kitoje valstybėje konfiskuoto turto sumos dydžiu. Prireikus konfiskuotino turto suma teismo nutartimi konvertuojama pagal Lietuvos banko nustatytą atitinkamos valiutos ir lito santykį, galiojusį sprendimo konfiskuoti priėmimo metu.
+7. Tais atvejais, kai Europos Sąjungos valstybės narės teismo sprendimas konfiskuoti susijęs su pinigų suma ir kai fizinis ar juridinis asmuo, dėl kurių turto konfiskavimo priimtas sprendimas, pateikia duomenų apie dalinį ar visišką turto konfiskavimą kitoje valstybėje, teismas raštu kreipiasi į Europos Sąjungos valstybės narės kompetentingą instituciją su prašymu nedelsiant pateikti visą būtiną informaciją apie kitoje valstybėje konfiskuotą turtą. Gavęs šią informaciją, teismas sumažina konfiskuotino turto sumą kitoje valstybėje konfiskuoto turto sumos dydžiu. Prireikus konfiskuotino turto suma teismo nutartimi konvertuojama pagal Europos centrinio banko paskelbtą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį, galiojusį sprendimo konfiskuoti priėmimo metu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1239, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14519
+ 
 
 
 
@@ -15021,3 +15002,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 68-1 straipsniu ir Kodekso priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1148, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13716
+Lietuvos Respublikos baudžiamojo proceso kodekso 55 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1239, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14519
+Lietuvos Respublikos baudžiamojo proceso kodekso 365-1 ir 365-3 straipsnių pakeitimo įstatymas
