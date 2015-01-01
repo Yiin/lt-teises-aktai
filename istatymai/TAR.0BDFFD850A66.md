@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2014-11-19 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945; Žin. 2006, Nr.77-2975, i. k. 0991010ISTAIII-1234
  
@@ -165,6 +165,14 @@ Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
 
 
 24. Asmuo, dėl kurio yra pradėta administracinė procedūra, – asmuo, kuris yra padavęs skundą, arba asmuo, dėl kurio galimai pažeistų viešojo administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais teisių ir teisėtų interesų yra gautas pranešimas, ir viešojo administravimo subjekto vadovas arba jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu dėl tokio asmens skundo ar pranešimo yra pradėjęs administracinę procedūrą.
+
+
+
+
+25. Mažareikšmis teisės aktų reikalavimų pažeidimas – teisės aktų reikalavimų pažeidimas, kuriuo padaryta žala konkrečia teisės norma saugomoms vertybėms yra labai nedidelė.
+Papildyta straipsnio dalimi:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 Straipsnio pakeitimai:
@@ -449,7 +457,10 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 apie individualaus administracinio akto priėmimą
 
 
-1. Individualus administracinis aktas turi būti pagrįstas objektyviais duomenimis (faktais) ir teisės aktų normomis, o taikomos poveikio priemonės turi būti motyvuotos.
+1. Individualus administracinis aktas turi būti pagrįstas objektyviais duomenimis (faktais) ir teisės aktų normomis, o taikomos poveikio priemonės (licencijos ar leidimo galiojimo panaikinimas, laikinas uždraudimas verstis tam tikra veikla ar teikti paslaugas, bauda ir kt.) turi būti motyvuotos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 
@@ -1261,7 +1272,10 @@ KETVIRTASIS SKIRSNIS
 361 straipsnis. Ūkio subjektų veiklos priežiūra
 
 
-1. Ūkio subjektų veiklos priežiūra – šio įstatymo nustatyta tvarka įgaliotų atlikti šio straipsnio 2 dalyje nurodytus veiksmus viešojo administravimo subjektų (toliau – priežiūrą atliekantys subjektai) veikla, skirta teikti metodinę pagalbą ūkio subjektams, prižiūrėti, kaip ūkio subjektai laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų, kontroliuoti, ar tinkamai tuos reikalavimus vykdo, ir įgyvendinti kitas priemones, užtikrinančias tinkamą teisės aktų reikalavimų laikymąsi ir mažinančias galimų pažeidimų skaičių.
+1. Ūkio subjektų veiklos priežiūra – šio įstatymo nustatyta tvarka įgaliotų atlikti šio straipsnio 2 dalyje nurodytus veiksmus viešojo administravimo subjektų (toliau – priežiūrą atliekantys subjektai) veikla, skirta teikti metodinę pagalbą ūkio subjektams, prižiūrėti, kaip ūkio subjektai laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų, kontroliuoti, ar tinkamai tuos reikalavimus vykdo, ir įgyvendinti kitas priemones, užtikrinančias tinkamą teisės aktų reikalavimų laikymąsi ir užkertančias kelią žalai teisės normų saugomoms vertybėms atsirasti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 
@@ -1300,7 +1314,10 @@ KETVIRTASIS SKIRSNIS
 1. Ūkio subjektų veiklos priežiūra atliekama vadovaujantis šiais principais:
 
 
-1) minimalios ir proporcingos priežiūros naštos. Šis principas reiškia, kad priežiūrą atliekančių subjektų priežiūros veiksmai privalo būti proporcingi ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio subjektų veiklą; 
+1) minimalios ir proporcingos priežiūros naštos. Šis principas reiškia, kad priežiūrą atliekančių subjektų priežiūros veiksmai privalo būti proporcingi ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio subjektų veiklą; poveikio priemonės ūkio subjektams taikomos tik tada, kai priežiūros tikslų negalima pasiekti kitu būdu (ultima ratio); poveikio priemonės yra proporcingos pažeidimo pobūdžiui ir juo padarytai žalai;
+Straipsnio punkto pakeitimai:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 
@@ -1320,12 +1337,23 @@ KETVIRTASIS SKIRSNIS
 
 
 
-5) metodinės pagalbos teikimo. Šis principas reiškia, kad priežiūrą atliekantys subjektai bendradarbiauja su ūkio subjektais, konsultuoja ūkio subjektus priežiūrą atliekančio subjekto kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones, padedančias ūkio subjektams laikytis teisės aktų reikalavimų, o poveikio priemones taiko kaip ultima ratio priemonę. Šis principas netaikomas ūkio subjektų veiklos patikrinimų metu, jeigu jo taikymas trukdo siekti ūkio subjektų veiklos priežiūros tikslų, susijusių su teisės aktų reikalavimų laikymosi priežiūra, laikytis specialiuosiuose priežiūrą reglamentuojančiuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose, Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse įtvirtintų atitinkamai priežiūrai keliamų reikalavimų; 
+5) metodinės pagalbos teikimo. Šis principas reiškia, kad priežiūrą atliekantys subjektai bendradarbiauja su ūkio subjektais, teikia vienodas ir neprieštaringas konsultacijas ūkio subjektams priežiūrą atliekančio subjekto kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones, padedančias ūkio subjektams laikytis teisės aktų reikalavimų. Šis principas netaikomas ūkio subjektų veiklos patikrinimų metu, jeigu jo taikymas trukdo siekti ūkio subjektų veiklos priežiūros tikslų, susijusių su teisės aktų reikalavimų laikymosi priežiūra, laikytis specialiuosiuose priežiūrą reglamentuojančiuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose, Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse įtvirtintų atitinkamai priežiūrai keliamų reikalavimų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 
 
 6) funkcijų atskyrimo. Šis principas reiškia, kad šio įstatymo 361 straipsnio 2 dalies 2 ir 4 punktuose nurodytus veiksmus atlieka skirtingi priežiūrą atliekančio subjekto pareigūnai ar priežiūrą atliekančio subjekto padaliniai arba kad nurodytos funkcijos yra priskirtos skirtingiems viešojo administravimo subjektams. Šis principas netaikomas, jeigu kituose priežiūrą reglamentuojančiuose įstatymuose ir teisės aktuose patikrinimo ir poveikio priemonių taikymo funkcijos yra priskirtos vienam pareigūnui (padaliniui).
+
+
+
+
+7) rizikos vertinimo. Šis principas reiškia, kad priežiūrą atliekančių subjektų veiksmai pirmiausia nukreipiami didžiausios rizikos atvejams šalinti, riziką siejant su žalos teisės normų saugomoms vertybėms atsiradimo tikimybe ir šios žalos dydžiu bei mastu.
+Papildyta straipsnio punktu:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 
@@ -1489,7 +1517,9 @@ KETVIRTASIS SKIRSNIS
 
 
 
-16. Šis straipsnis mokesčių administratoriui, muitinei ir licencines finansines paslaugas teikiančių įmonių, emitentų, investicinių bendrovių, draudimo, perdraudimo ir draudimo tarpininkavimo veiklos priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams netaikomas. Šioje dalyje nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės.
+16. Šis straipsnis mokesčių administratoriui, muitinei ir finansų rinkos priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams netaikomas. Šioje dalyje nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės.
+Straipsnio dalies pakeitimai:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
  
 
 
@@ -1603,6 +1633,72 @@ KETVIRTASIS SKIRSNIS
 
 
 
+368 straipsnis. Poveikio priemonių ūkio subjektams taikymas
+
+
+1. Poveikio priemonės ūkio subjektui skiriamos atsižvelgiant į pažeidimo pobūdį, padarytos žalos dydį, mastą ir kitas įstatymuose numatytas aplinkybes.
+
+
+
+
+2. Ūkio subjektui turi būti pranešta apie galimą ūkio subjekto veiklą reglamentuojančių teisės aktų pažeidimą. Jam turi būti aiškiai, nedviprasmiškai suformuluota galimo pažeidimo esmė, įvardytas galbūt pažeisto įstatymo ar kito teisės akto straipsnis, dalis, punktas ir nurodyta, kokiais įrodymais tai grindžiama. 
+
+
+
+
+3. Ūkio subjektas turi teisę galimo pažeidimo nagrinėjimo metu susipažinti su surinkta medžiaga, pateikti įrodymus, duoti paaiškinimus raštu ar žodžiu, teikti prašymus. Jam turi būti suteikiama pakankamai laiko įrodymams pateikti ir paaiškinimams duoti. 
+
+
+
+
+4. Sprendimas, priimtas ūkio subjekto veiklą reglamentuojančių teisės aktų pažeidimo byloje, grindžiamas tik tais įrodymais, kurie buvo ištirti bylos nagrinėjimo metu ir su kuriais turėjo galimybę susipažinti ūkio subjektas. Turi būti pateikti motyvai dėl visų bylai reikšmingų aspektų, kuriuos savo paaiškinime ar nagrinėjant žodžiu ūkio subjektas buvo paminėjęs.
+
+
+
+
+5. Sprendimas ūkio subjekto veiklą reglamentuojančių teisės aktų pažeidimo byloje gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+6. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes, dėl kurių tam tikra poveikio priemonė ūkio subjektui būtų akivaizdžiai per didelė ir neproporcinga (neadekvati) padarytam teisės pažeidimui ir dėl to neteisinga, vadovaudamasis teisingumo ir protingumo principais, turi teisę skirti švelnesnę poveikio priemonę, negu numatyta įstatyme, arba jos neskirti.
+
+
+
+
+7. Šio straipsnio 1, 2, 3, 4 ir 5 dalys netaikomos mokesčių administratoriui, muitinei, finansų rinkos priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams. Šioje dalyje nurodytiems subjektams šio straipsnio 1, 2, 3, 4 ir 5 dalių nuostatos yra rekomendacinės.
+
+
+Papildyta straipsniu:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
+
+
+
+
+
+
+
+
+369 straipsnis. Mažareikšmis teisės aktų reikalavimų pažeidimas
+
+
+1. Nustačius teisės aktų reikalavimų nesilaikymo ar netinkamo vykdymo faktą, kuris vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas ir kurį galima ištaisyti nedelsiant priežiūrą atliekančio subjekto pareigūno, kito valstybės tarnautojo ar darbuotojo akivaizdoje, tokio pažeidimo tyrimas nutraukiamas, įstatyme numatyta poveikio priemonė neskiriama, o ūkio subjektui pareiškiama žodinė pastaba. Tais atvejais, kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant ištaisyti negalima priežiūrą atliekančio subjekto pareigūno, kito valstybės tarnautojo ar darbuotojo akivaizdoje, ūkio subjektui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas protingas terminas pažeidimui pašalinti, kuris gali būti pratęstas vieną kartą. Jeigu ūkio subjektas nepašalino mažareikšmio teisės aktų reikalavimo pažeidimo, pakartotinai žodinė pastaba arba rašytinis nurodymas negali būti pateikti.
+
+
+
+
+2. Teisės aktų reikalavimų pažeidimai, kurie laikomi mažareikšmiais konkrečiose ūkio subjektų veiklos srityse, ar tokių pažeidimų kriterijai nurodomi priežiūrą atliekančio subjekto vadovo ar jo įgalioto asmens, kolegialios priežiūrą atliekančio subjekto institucijos arba aukštesniojo pagal pavaldumą viešojo administravimo subjekto priimamuose norminiuose teisės aktuose.
+
+
+
+
+3. Šis straipsnis netaikomas mokesčių administratoriui, muitinei, finansų rinkos priežiūrą, energetikos kontrolę, taip pat konkurencijos priežiūrą atliekantiems subjektams. Šioje dalyje nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės. 
+
+
+Papildyta straipsniu:
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
 
 
 
@@ -1904,3 +2000,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 4-1, 15 ir 16 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2, 8, 36-1, 36-2, 36-4 straipsnių pakeitimo ir Įstatymo papildymo 36-8 ir 36-9 straipsniais įstatymas
