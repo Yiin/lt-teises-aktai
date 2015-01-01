@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2014-11-21 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -1539,7 +1539,10 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 23 straipsnis. Alui taikomi akcizų tarifai 
 
 
-1. Alui taikomas 9,35 lito už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
+1. Alui taikomas 2,71 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
@@ -1560,12 +1563,12 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie akcizų tarifai:
 
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 85 litai už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 24,62 euro už produkto hektolitrą;
 
 
 
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 225 litai už produkto hektolitrą.
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 65,16 euro už produkto hektolitrą.
 
 
 
@@ -1573,6 +1576,8 @@ Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie
 Straipsnio pakeitimai:
 Nr. XI-1633, 2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
 Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
 
 
@@ -1584,12 +1589,12 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 281 litas už produkto hektolitrą; 
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 81,38 euro už produkto hektolitrą;
 
 
 
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 400 litų už produkto hektolitrą.
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 115,85 euro už produkto hektolitrą.
 
 
 
@@ -1597,6 +1602,8 @@ Tarpiniams produktams taikomi tokie akcizų tarifai:
 Straipsnio pakeitimai:
 Nr. XI-1633, 2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
 Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
 
 
@@ -1605,7 +1612,11 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
 
-1. Etilo alkoholiui taikomas 4 460 litų už gryno etilo alkoholio hektolitrą akcizų tarifas.
+1. Etilo alkoholiui taikomas 1 291,71 euro už gryno etilo alkoholio hektolitrą akcizų tarifas.
+ 
+Straipsnio dalies pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
@@ -1723,7 +1734,7 @@ APDOROTAS TABAKAS
 30 straipsnis. Cigaretėms taikomi akcizų tarifai
 
 
-1. Cigaretės apmokestinamos taikant kombinuotąjį akcizų tarifą. Jį sudaro specifinis (litais už 1 000 cigarečių) ir vertybinis (procentais nuo didžiausios mažmeninės kainos) elementai. Kombinuotojo akcizų tarifo apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+1. Cigaretės apmokestinamos taikant kombinuotąjį akcizų tarifą. Jį sudaro specifinis (eurais už 1 000 cigarečių) ir vertybinis (procentais nuo didžiausios mažmeninės kainos) elementai. Kombinuotojo akcizų tarifo apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -1731,7 +1742,7 @@ APDOROTAS TABAKAS
 2. Cigaretėms taikomas toks akcizų tarifas:
 
 
-1) specifinis elementas – 157 litai;
+1) specifinis elementas – 45,47 euro;
 
 
 
@@ -1743,7 +1754,7 @@ APDOROTAS TABAKAS
 
 
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 256 litai už 1 000 cigarečių.
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 74,14 euro už 1 000 cigarečių.
 
 
 
@@ -1761,6 +1772,8 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 Nr. XII-80, 2012-12-20, Žin., 2012, Nr. 153-7830 (2012-12-29)
 Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
 
 
@@ -1769,13 +1782,14 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai 
 
 
-1. Cigarams ir cigarilėms taikomas 93 litų už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 26,93 euro už kilogramą produkto akcizų tarifas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
 
-2. Rūkomajam tabakui taikomas 163 litų už kilogramą produkto akcizų tarifas.
-2 dalies redakcija nuo 2015-01-01:
 2. Rūkomajam tabakui taikomas 54,16 euro už kilogramą produkto akcizų tarifas.
 2 dalies redakcija nuo 2018-01-01:
 2. Rūkomajam tabakui taikomas 60,24 euro už kilogramą produkto akcizų tarifas.
@@ -1847,17 +1861,20 @@ ENERGINIAI PRODUKTAI
 Variklių benzinui taikomi tokie akcizų tarifai:
 
 
-1) bešviniam benzinui – 1 500 litų už 1 000 litrų produkto;
+1) bešviniam benzinui – 434,43 euro už 1 000 litrų produkto;
 
 
 
 
-2) benzinui, turinčiam švino, – 2 000 litų už 1 000 litrų produkto.
+2) benzinui, turinčiam švino, – 579,24 euro už 1 000 litrų produkto.
  
 
 
 
 
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
@@ -1865,10 +1882,13 @@ Variklių benzinui taikomi tokie akcizų tarifai:
 36 straipsnis. Žibalui taikomi akcizų tarifai
 
 
-Žibalui taikomas 1 140 litų už 1 000 litrų produkto akcizų tarifas.
+Žibalui taikomas 330,17 euro už 1 000 litrų produkto akcizų tarifas.
  
 
 
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
@@ -1876,18 +1896,22 @@ Variklių benzinui taikomi tokie akcizų tarifai:
 37 straipsnis. Gazoliams taikomi akcizų tarifai
 
 
-1. Gazoliams taikomas 1 140 litų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Gazoliams taikomas 330,17 euro už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
 
-2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 73 litų už 1 000 litrų produkto akcizų tarifas.
+2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 21,14 euro už 1 000 litrų produkto akcizų tarifas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
 
-3. Akcizais neapmokestinami gazoliai, skirti naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos subjektams žemės ūkyje, taip pat žemės ūkio mokslo, studijų ir mokymo įstaigoms, turinčioms mokomuosius (bandymų) ūkius, per vienus ūkinius metus (nuo einamųjų metų liepos 1 d. iki kitų metų birželio 30 d.) neviršijant Vyriausybės nustatytų akcizais neapmokestinamų gazolių kiekių vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio augalų rūšis. Akcizais taip pat neapmokestinami gazoliai, skirti naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos subjektams tvenkinių ir kitų vidaus vandenų žuvininkystėje, per vienus kalendorinius metus neviršijant 275 litrų vienai tonai sugautų ir realizuotų žuvų. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-3 dalies redakcija nuo 2015-01-01:
 3. Akcizais neapmokestinami gazoliai, skirti naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos subjektams, gaminantiems žemės ūkio produktus, taip pat akvakultūros ir verslinę žvejybą vidaus vandenyse vykdančioms įmonėms, žemės ūkio mokslo, studijų ir mokymo įstaigoms, turinčioms mokomuosius (bandymų) ūkius, per vienus metus neviršijant Vyriausybės nustatytų akcizais neapmokestinamų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
@@ -1903,7 +1927,10 @@ Nr. XII-917, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07397
 38 straipsnis. Skystajam kurui (mazutams), orimulsijai taikomi akcizų tarifai
 
 
-1. Skystajam kurui (mazutams), atitinkančiam Vyriausybės ar jos įgaliotos institucijos nustatytus požymius, orimulsijai taikomas 52 litų už toną produkto akcizų tarifas.
+1. Skystajam kurui (mazutams), atitinkančiam Vyriausybės ar jos įgaliotos institucijos nustatytus požymius, orimulsijai taikomas 15,06 euro už toną produkto akcizų tarifas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+ 
 
 
 
@@ -1919,10 +1946,12 @@ Nr. XII-917, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07397
 39 straipsnis. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomi akcizų tarifai
 
 
-Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomas 1 050 litų už toną produkto akcizų tarifas. 
+Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomas 304,10 euro už toną produkto akcizų tarifas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
-
-
 
 
 
@@ -2155,15 +2184,17 @@ Akcizų už elektros energiją mokėtojai yra asmenys, kuriems šio įstatymo 45
 47 straipsnis. Elektros energijai taikomi akcizų tarifai
 
 
-1. Elektros energijai, išskyrus elektros energiją, nurodytą šio straipsnio 2 dalyje, taikomas 3,5 lito už elektros energijos megavatvalandę akcizų tarifas.
+1. Elektros energijai, išskyrus elektros energiją, nurodytą šio straipsnio 2 dalyje, taikomas 1,01 euro už elektros energijos megavatvalandę akcizų tarifas.
 
 
 
 
-2. Elektros energijai, naudojamai verslo reikmėms, taikomas 1,8 lito už elektros energijos megavatvalandę akcizų tarifas. Šiame įstatyme elektros energijos naudojimas verslo reikmėms suprantamas kaip jos naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme. Asmenys, naudojantys elektros energiją verslo reikmėms, registruojami centrinio mokesčių administratoriaus nustatyta tvarka.
+2. Elektros energijai, naudojamai verslo reikmėms, taikomas 0,52 euro už elektros energijos megavatvalandę akcizų tarifas. Šiame įstatyme elektros energijos naudojimas verslo reikmėms suprantamas kaip jos naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme. Asmenys, naudojantys elektros energiją verslo reikmėms, registruojami centrinio mokesčių administratoriaus nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
-
-
 
 
 
@@ -2336,15 +2367,17 @@ Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 54 straipsnis. Akmens anglims taikomi akcizų tarifai
 
 
-1. Akmens anglims, išskyrus akmens anglis, nurodytas šio straipsnio 2 dalyje, taikomas 26 litų už toną produkto akcizų tarifas.
+1. Akmens anglims, išskyrus akmens anglis, nurodytas šio straipsnio 2 dalyje, taikomas 7,53 euro už toną produkto akcizų tarifas.
 
 
 
 
-2. Akmens anglims, naudojamoms verslo reikmėms, taikomas 13 litų už toną produkto akcizų tarifas. Šioje dalyje nurodytas akcizų tarifas taikomas tik akmens anglims, parduodamoms ar kitaip perduodamoms asmeniui, turinčiam centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame įstatyme akmens anglių naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+2. Akmens anglims, naudojamoms verslo reikmėms, taikomas 3,77 euro už toną produkto akcizų tarifas. Šioje dalyje nurodytas akcizų tarifas taikomas tik akmens anglims, parduodamoms ar kitaip perduodamoms asmeniui, turinčiam centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame įstatyme akmens anglių naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
-
-
 
 
 
@@ -2352,15 +2385,17 @@ Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 55 straipsnis. Akcizų už koksą ir lignitą tarifai
 
 
-1. Koksui ir lignitui, išskyrus koksą ir lignitą, nurodytą šio straipsnio 2 dalyje, taikomas 31 lito už toną produkto akcizų tarifas.
+1. Koksui ir lignitui, išskyrus koksą ir lignitą, nurodytą šio straipsnio 2 dalyje, taikomas 8,98 euro už toną produkto akcizų tarifas.
 
 
 
 
-2. Koksui ir lignitui, naudojamiems verslo reikmėms, taikomas 16 litų už toną produkto akcizų tarifas. Šioje dalyje nurodytas akcizų tarifas taikomas tik koksui ir lignitui, parduodamiems ar kitaip perduodamiems asmeniui, turinčiam centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame įstatyme kokso ir lignito naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris savarankiškai vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+2. Koksui ir lignitui, naudojamiems verslo reikmėms, taikomas 4,63 euro už toną produkto akcizų tarifas. Šioje dalyje nurodytas akcizų tarifas taikomas tik koksui ir lignitui, parduodamiems ar kitaip perduodamiems asmeniui, turinčiam centrinio mokesčių administratoriaus nustatyta tvarka išduotą atitinkamą leidimą. Šiame įstatyme kokso ir lignito naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris savarankiškai vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
-
-
 
 
 
@@ -2451,10 +2486,12 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 59 straipsnis. Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomi akcizų tarifai
 
 
-Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomas 758 litų už 1 000 kubinių metrų produkto akcizų tarifas.
+Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomas 219,53 euro už 1 000 kubinių metrų produkto akcizų tarifas. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
  
-
-
 
 
 
@@ -2879,6 +2916,11 @@ Lietuvos Respublikos akcizų įstatymo 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1319, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17216
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 27 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30, 31, 35, 36, 37, 38, 39, 47, 54, 55 ir 59 straipsnių pakeitimo įstatymas
  
  
 
