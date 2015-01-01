@@ -25,8 +25,9 @@ PROFESINIO MOKYMO
 1997 m. spalio 14 d. Nr. VIII-450
 Vilnius
  
+ 
 Nauja
-įstatymo redakcija nuo 2008 m. sausio 1 d.:
+įstatymo redakcija nuo 2008-01-01:
 Nr.
 X-1065,
 2007-04-03, Žin., 2007, Nr. 43-1627 (2007-04-19)
@@ -98,8 +99,8 @@ anksto apibrėžta savarankiška profesinio mokymo programos dalis.
 15. Profesinio mokymo teikėjas – profesinio
 mokymo įstaiga, laisvasis mokytojas ir kitas profesinio mokymo teikėjas
 (bendrojo lavinimo mokykla, įstaiga, organizacija, įmonė, kuriai profesinis
-mokymas nėra pagrindinė veikla), įstatymų nustatyta tvarka turintis teisę
-rengti ir (ar) vykdyti profesinio mokymo programas.
+mokymas nėra pagrindinė veikla), įstatymų nustatyta tvarka turintis teisę rengti
+ir (ar) vykdyti profesinio mokymo programas.
 16. Profesinis orientavimas – profesinį
 informavimą ir konsultavimą apimantis procesas.
 17. Profesinio orientavimo centras
@@ -165,9 +166,9 @@ sistema yra glaudžiai susieta su šalies ūkinės, socialinės, kultūrinės ra
 kontekstu, kartu su juo atsinaujina ir atitinka nuolat kintančius darbo rinkos
 poreikius;
 3) veiksmingumo – profesinio mokymo
-sistema, sumaniai ir taupiai naudodama turimus išteklius remdamasi veiksminga
-vadyba – tinkamais ir kartu su socialiniais partneriais laiku priimamais
-sprendimais siekia gerų profesinio mokymo rezultatų;
+sistema, sumaniai ir taupiai naudodama turimus išteklius remdamasi veiksminga vadyba
+– tinkamais ir kartu su socialiniais partneriais laiku priimamais sprendimais
+siekia gerų profesinio mokymo rezultatų;
 4) tęstinumo – profesinio mokymo sistema
 yra lanksti, atvira, pagrįsta įvairių mokymo formų ir institucijų
 sąveika; ji sudaro sąlygas kiekvienam asmeniui mokytis visą gyvenimą.
@@ -202,8 +203,8 @@ išsilavinimą, gali rinktis mokymąsi pagal profesinio mokymo programą arba ka
 mokytis ir pagal vidurinio ugdymo programą.
 4. Mokiniui mokantis pagal profesinio
 mokymo programą, bendrojo lavinimo technologijų dalykų ar profesinio mokymo
-programų moduliai užskaitomi vadovaujantis švietimo ir mokslo ministro
-nustatyta tvarka. 
+programų moduliai užskaitomi vadovaujantis švietimo ir mokslo ministro nustatyta
+tvarka. 
 5. Mokiniui, baigusiam formaliojo
 profesinio mokymo programą ir (arba) nustatyta tvarka gavusiam jo įgytų
 kompetencijų įvertinimą, suteikiama atitinkamo lygio kvalifikacija.
@@ -231,10 +232,9 @@ vadovaujantis švietimo ir mokslo ministro nustatyta tvarka.
 profesinio mokymo programą ir (arba) nustatyta tvarka gavusiam jo įgytų
 kompetencijų įvertinimą, suteikiama atitinkamo lygio kvalifikacija.
 4. Įvertinus asmens neformaliojo
-profesinio mokymo metu įgytas kompetencijas, švietimo ir mokslo ministro
-nustatyta ir su ūkio ministru suderinta asmens įgytų kompetencijų vertinimo
-tvarka jos gali būti pripažintos kaip atitinkamo lygio kvalifikacija arba jos
-dalis.
+profesinio mokymo metu įgytas kompetencijas, švietimo ir mokslo ministro nustatyta
+ir su ūkio ministru suderinta asmens įgytų kompetencijų vertinimo tvarka jos
+gali būti pripažintos kaip atitinkamo lygio kvalifikacija arba jos dalis.
 Straipsnio
 pakeitimai:
 Nr.
@@ -246,8 +246,8 @@ XI-1498,
  
 8 straipsnis.
 Profesinis orientavimas
-1. Profesinio orientavimo paslaugos
-teikiamos visiems Lietuvos gyventojams.
+1. Profesinio orientavimo paslaugos teikiamos
+visiems Lietuvos gyventojams.
 2. Profesinis orientavimas švietimo ir
 mokslo ministro kartu su socialinės apsaugos ir darbo ministru nustatyta tvarka
 vykdomas bendrojo lavinimo mokyklose, profesinio mokymo įstaigose, profesinio
@@ -257,8 +257,7 @@ profesinį orientavimą planuoja, organizuoja ir administruoja
 vadovaudamasi švietimo ir mokslo ministro kartu su socialinės apsaugos ir darbo
 ministru nustatyta tvarka.
  
-TREČIASIS
-SKIRSNIS
+TREČIASIS SKIRSNIS
 KVALIFIKACIJŲ
 SISTEMA
  
@@ -337,8 +336,7 @@ Nr.
 XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
  
-KETVIRTASIS
-SKIRSNIS
+KETVIRTASIS SKIRSNIS
 PROFESINIO
 MOKYMO ORGANIZAVIMAS IR KOKYBĖ
  
@@ -362,8 +360,8 @@ kvalifikacijų registre, kurį steigia Vyriausybė.
 5. Formaliojo profesinio mokymo programų
 rengimo ir įteisinimo tvarką nustato švietimo ir mokslo ministras.
 6. Formaliojo profesinio mokymo programa
-turi atitikti kvalifikaciją aprašantį profesinį standartą ar atitinkamą profesinio
-rengimo standartą. 
+turi atitikti kvalifikaciją aprašantį profesinį standartą ar atitinkamą
+profesinio rengimo standartą. 
 7. Formaliojo profesinio mokymo
 programos gali būti vykdomos kartu su bendrojo lavinimo programomis arba
 papildomos kitomis programomis, skiriamomis asmens socializacijai,
@@ -377,27 +375,27 @@ programa yra skirta kompetencijoms įgyti ar joms tobulinti.
 mokymo programoms ir jų vykdymui gali nustatyti mokymą pagal šią programą
 užsakanti ar jį finansuojanti institucija.
 11. Neformaliojo profesinio mokymo
-programos gali būti registruojamos Kvalifikacijos tobulinimo programų ir
-renginių registre.
+programos gali būti registruojamos Kvalifikacijos tobulinimo programų ir renginių
+registre.
 Straipsnio
 pakeitimai:
 Nr.
 XI-380,
 2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
 Nr.
-XI-839, 2010-05-25,
-Žin., 2010, Nr. 67-3338 (2010-06-10)
+XI-839,
+2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
  
 121
 straipsnis. Licencija vykdyti formalųjį profesinį mokymą
 1. Formalųjį
 profesinį mokymą gali vykdyti juridiniai asmenys, kitos juridinio asmens
-statuso neturinčios Lietuvos ar kitos valstybės narės organizacijos ir jų
-padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie
-naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse
-narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau –
-licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar
-fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas. 
+statuso neturinčios Lietuvos ar kitos valstybės narės organizacijos ir jų padaliniai,
+įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos
+Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis,
+turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri
+suteikia teisę vykdyti Licencijų registre juridiniam ar fiziniam asmeniui
+įrašytas formaliojo profesinio mokymo programas. 
 2. Licencijas išduoda, jų galiojimą
 sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina švietimo ir
 mokslo ministras. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina
@@ -423,8 +421,8 @@ dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti
 pateikiamas juridiniam ar fiziniam asmeniui ne vėliau kaip per 30 dienų nuo
 paraiškos (prašymo) gavimo dienos. Nustačiusi, kad pateikti ne visi
 reikiami dokumentai, pateikti dokumentai netinkamai įforminti, dokumentuose yra
-klaidingų ir (ar) netikslių duomenų, Švietimo ir mokslo ministerija per 10
-darbo dienų nuo dokumentų gavimo dienos apie tai informuoja siekiantį gauti
+klaidingų ir (ar) netikslių duomenų, Švietimo ir mokslo ministerija per 10 darbo
+dienų nuo dokumentų gavimo dienos apie tai informuoja siekiantį gauti
 (papildyti, patikslinti) licenciją juridinį ar fizinį asmenį ir nustato 30 kalendorinių dienų terminą trūkumams pašalinti. Terminas
 licencijai išduoti skaičiuojamas nuo visų tinkamai įformintų dokumentų ir
 informacijos pateikimo dienos. Atsakymo dėl licencijos
@@ -451,9 +449,9 @@ dienų nustatytiems pažeidimams ištaisyti šiais atvejais:
 1) jeigu nustatoma, kad profesijos
 mokytojai neatitinka profesinio mokymo programoje (programose) ir Švietimo
 įstatyme nustatytų reikalavimų;
-2) teorinio ir praktinio mokymo vietos,
-mokymui skirti materialieji ir metodiniai ištekliai neatitinka numatomo mokyti
-mokinių skaičiaus ir mokymo programoje nustatytų reikalavimų;
+2) teorinio ir praktinio mokymo vietos, mokymui
+skirti materialieji ir metodiniai ištekliai neatitinka numatomo mokyti mokinių
+skaičiaus ir mokymo programoje nustatytų reikalavimų;
 3) mokymo proceso organizavimas, mokinių
 priėmimas ir jų apskaita, mokymosi pasiekimus įteisinančių dokumentų išdavimas
 ir jų apskaita vykdoma nesilaikant teisės aktų nustatytų reikalavimų;
@@ -476,8 +474,8 @@ aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, prašymu;
 2) juridinis asmuo, kita juridinio asmens
 statuso neturinti Lietuvos ar kitos valstybės narės organizacija bei jos padalinys, įsteigtas Lietuvos
 Respublikoje, pasibaigia;
-3) kai paaiškėja, kad juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos
-valstybės narės organizacija
+3) kai paaiškėja, kad juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos valstybės
+narės organizacija
 ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi
 Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse
 teisėmis, licencijai
@@ -491,8 +489,8 @@ kuriam licencijos galiojimas buvo sustabdytas, per nustatytą terminą
 nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;
 5) mirus licencijos turėtojui – fiziniam
 asmeniui.
-Įstatymas
-papildytas straipsniu:
+Papildyta
+straipsniu:
 Nr.
 XI-839,
 2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
@@ -534,6 +532,16 @@ socialinės integracijos įstatymai, atsižvelgę į darbo rinkos
 poreikius, paraiškas dėl priėmimo į valstybės finansuojamas profesinio mokymo
 programas pirmajai kvalifikacijai įgyti teikia švietimo ir mokslo
 ministrui.
+Redakcija nuo
+2015-09-01:
+1. Profesinio mokymo teikėjai, išskyrus
+pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo
+teikėjus, profesinio mokymo teikėjus, vykdančius asmenų, kuriems taikomi
+Užimtumo rėmimo ir Neįgaliųjų socialinės integracijos įstatymai, atsižvelgę į
+darbo rinkos poreikius, paraiškas dėl priėmimo į valstybės finansuojamas
+profesinio mokymo programas pirmajai kvalifikacijai įgyti teikia švietimo ir
+mokslo ministrui.
+ 
 2. Asmenų, išskyrus asmenis,
 kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos
 įstatymas ar Vidaus tarnybos statuto patvirtinimo įstatymas, pageidaujančių
@@ -541,6 +549,19 @@ kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integra
 mokymo programas planą tvirtina švietimo ir mokslo ministras, šį planą
 apsvarsčius Lietuvos profesinio mokymo taryboje, o į vidaus reikalų profesinio
 mokymo įstaigų vykdomas programas – vidaus reikalų ministras.
+Redakcija nuo
+2015-09-01:
+2. Asmenų, išskyrus asmenis,
+kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos
+įstatymas, Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo
+ministerijos statutas ar Vidaus tarnybos statutas, pageidaujančių įgyti
+pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo
+programas planą tvirtina švietimo ir mokslo ministras, šį planą apsvarsčius
+Lietuvos profesinio mokymo taryboje,  priėmimo į pataisos pareigūnų profesinio
+mokymo įstaigų vykdomas programas planą – teisingumo ministras, o priėmimo į
+vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – vidaus
+reikalų ministras.
+ 
 3. Asmenų, pageidaujančių įgyti pirmąją
 kvalifikaciją, priėmimo į valstybinę ar savivaldybės profesinio mokymo įstaigą
 – biudžetinę ir viešąją įstaigą – tvarką nustato įstaigos savininko teises ir
@@ -556,6 +577,13 @@ reikalavimus ir įmonės, įstaigos ar ūkininko nustatytą priėmimo tvarką.
 6. Asmenų priėmimą į vidaus reikalų
 profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statuto patvirtinimo
 įstatymas.
+Redakcija nuo
+2015-09-01:
+6. Asmenų priėmimą
+į pataisos pareigūnų profesinio mokymo įstaigas reglamentuoja Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo
+ministerijos statutas, o priėmimą į vidaus reikalų profesinio mokymo
+įstaigas – Vidaus tarnybos statutas.
+ 
 7. Asmenims priėmimo mokyti pagal
 neformaliojo profesinio mokymo programas tvarką nustato profesinio mokymo
 teikėjas.
@@ -565,6 +593,16 @@ vidaus reikalų profesinio mokymo sutartims ir jų registravimo
 tvarką nustato vidaus reikalų ministras, reikalavimus kitoms profesinio mokymo
 sutartims ir jų registravimo tvarką – švietimo ir mokslo
 ministras kartu su ūkio ministru.
+Redakcija nuo
+2015-09-01:
+8. Asmens priėmimas mokytis pagal
+profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Pataisos
+pareigūnų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių
+registravimo tvarką nustato teisingumo ministras, vidaus reikalų profesinio
+mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką
+nustato vidaus reikalų ministras, kitoms profesinio mokymo sutartims taikomus
+reikalavimus ir šių sutarčių registravimo tvarką nustato švietimo ir
+mokslo ministras kartu su ūkio ministru.
 Straipsnio
 pakeitimai:
 Nr.
@@ -573,6 +611,8 @@ XI-839,
 Nr.
 XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
  
 15 straipsnis.
 Profesinio mokymo organizavimo formos
@@ -629,8 +669,8 @@ mokymo įstaigų veiklos kokybės įsivertinimas ir išorinis vertinimas, profes
 mokymo programų vertinimas, mokymosi pasiekimų vertinimas, profesinio mokymo ir
 kvalifikacijų suteikimo priežiūra. 
 3. Už profesinio mokymo kokybę atsako profesinio mokymo teikėjas.
-4. Profesinio mokymo įstaigos
-įsivertinimą ir išorinį vertinimą reglamentuoja Švietimo įstatymas.
+4. Profesinio mokymo įstaigos įsivertinimą
+ir išorinį vertinimą reglamentuoja Švietimo įstatymas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -643,40 +683,8 @@ Nr.
 XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
  
-19 straipsnis.
-Kvalifikacijos ir mokymosi pasiekimų įteisinimas
-1. Išduodami šie kvalifikacijos ir
-mokymosi pasiekimų dokumentai:
-1) kvalifikacijos pažymėjimas –
-asmeniui, gavusiam jo įgytų tai kvalifikacijai reikalingų kompetencijų
-įvertinimą;
-2) profesinio mokymo pažymėjimas –
-mokiniui, baigusiam formaliojo profesinio mokymo programą;
-3) profesinio mokymosi pasiekimų
-pažymėjimas – mokiniui, nebaigusiam profesinio mokymo programos;
-4) pažymėjimas – asmeniui, baigusiam
-profesinio mokymo programos modulį, neformaliojo profesinio mokymo programą ir
-(ar) įgijusiam kompetenciją, reikalingą atlikti įstatymų
-reglamentuojamam darbui ar funkcijai;
-5) kompetencijų įvertinimo pažymėjimas –
-asmeniui apie jo kompetencijų įvertinimo rezultatus.
-2. Kvalifikacijos ir mokymosi pasiekimų
-dokumentų, nurodytų šio straipsnio 1 dalyje, turinį, formą ir išdavimo tvarką
-nustato švietimo ir mokslo ministras.
-3. Profesinio mokymo įstaigos mokiniui,
-lygiagrečiai su profesinio mokymo programa baigusiam pagrindinio ugdymo
-programą ir patikrinus mokymosi pasiekimus, išduodamas pagrindinio išsilavinimo
-pažymėjimas, baigusiam vidurinio ugdymo programą ir išlaikiusiam brandos 
-egzaminus, – brandos atestatas, nebaigusiam bendrojo lavinimo programos ar
-neišlaikiusiam brandos egzaminų, – mokymosi pasiekimų pažymėjimas.
-4. Užsienyje įgytos kvalifikacijos
-pripažinimą Lietuvoje įgytai kvalifikacijai ir Lietuvoje įgytos kvalifikacijos
-patvirtinimą vykstantiems į užsienį asmenims reglamentuoja Europos Sąjungos ir
-Lietuvos Respublikos teisės aktai ir tarptautinės sutartys.
-Redakcija nuo
-2014-09-01:
-19 straipsnis.
-Kvalifikacijos ir mokymosi pasiekimų įteisinimas
+19
+straipsnis. Kvalifikacijos ir mokymosi pasiekimų įteisinimas
 1. Išduodami šie kvalifikacijos ir
 mokymosi pasiekimų dokumentai:
 1) profesinio mokymo diplomas –
@@ -711,8 +719,7 @@ XI-839,
 Nr. XII-530,
 2013-10-01, Žin., 2013, Nr. 107-5275 (2013-10-12)
  
-PENKTASIS
-SKIRSNIS
+PENKTASIS SKIRSNIS
 PROFESINIO
 MOKYMO DALYVIŲ TEISĖS IR PAREIGOS
  
@@ -771,80 +778,10 @@ Nr.
 XI-839,
 2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
  
-ŠEŠTASIS
-SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 PROFESINIO
 MOKYMO VALDYMAS. SAVIVALDA
  
-22 straipsnis. Švietimo ir
-mokslo ministerijos įgaliojimai
-1. Švietimo ir mokslo ministerija:
-1) dalyvauja kuriant profesinio mokymo
-politiką ir ją vykdo;
-2) dalyvauja kuriant ir vykdant
-žmogiškųjų išteklių plėtros politiką;
-3) tvirtina bendruosius profesinio
-mokymo planus;
-4) skelbia informaciją apie profesinio
-mokymo įstaigų vykdomas formaliojo profesinio mokymo programas, jas vykdančius
-ir turinčius licencijas jas vykdyti profesinio mokymo teikėjus, apie
-institucijas, kurioms suteikta teisė vertinti asmens įgytas kompetencijas;
-5) tvirtina asmenų, išskyrus asmenis,
-kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos
-įstatymas ar Vidaus tarnybos statuto patvirtinimo įstatymas, pageidaujančių
-įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio
-mokymo programas planą;
-6) tvirtina asmenų priėmimo į
-valstybines ir savivaldybių profesinio mokymo įstaigas bendruosius kriterijus;
-7) nustato kvalifikacijos ir mokymosi
-pasiekimų dokumentų, nurodytų šio įstatymo 19 straipsnio 1 dalyje, turinį,
-formą ir išdavimo tvarką;
-8) tvirtina bendrojo lavinimo
-technologijų dalykų ir profesinio mokymo programos modulių užskaitos tvarkos
-aprašą;
-9) Vyriausybės nustatyta tvarka išduoda
-licencijas vykdyti formalųjį profesinį mokymą;
-10) rengia profesinio mokymo ir
-kvalifikacijų sistemų plėtros investicines programas;
-11) koordinuoja profesinio mokymo
-įstaigų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip
-savininkės ar dalininkės teises ir pareigas, profesijos mokytojų kvalifikacijos
-tobulinimą;
-12) steigia ir tvarko Diplomų, atestatų
-ir kvalifikacijos pažymėjimų registrą ir Kvalifikacijos tobulinimo programų ir
-renginių registrą; 
-13) suderinusi su Ūkio ministerija,
-tvirtina asmens įgytų kompetencijų vertinimo tvarkos aprašą, vertinimui skirtų
-lėšų paskirstymo tvarkos aprašą;
-14) nustato formaliojo profesinio mokymo
-tvarką;
-15) nustato formaliojo profesinio mokymo
-programų rengimo ir įteisinimo tvarką;
-16) Kvalifikacijų tvarkymo institucijos
-teikimu akredituoja institucijas ir suteikia joms teisę vertinti asmens įgytas
-kompetencijas; 
-17) nustato Kvalifikacijų tvarkymo
-institucijos centrinio ir sektorinių profesinių komitetų uždavinius, funkcijas,
-komitetų sudarymo ir finansavimo tvarką;
-18) atlieka kitas šio įstatymo ir kitų
-teisės aktų nustatytas funkcijas.
-2. Švietimo ir mokslo ministerija kartu
-su Ūkio ministerija:
-1) nustato profesinių standartų ir
-profesinio rengimo standartų struktūrą, jų rengimo, keitimo ir papildymo tvarką
-ir juos tvirtina;
-2) rengia profesinio mokymo lėšų
-skaičiavimo vienam mokiniui metodiką ir šią metodiką teikia Vyriausybei
-tvirtinti; 
-3) nustato reikalavimus profesinio
-mokymo sutartims ir jų registravimo tvarką;
-4) vykdo profesinio mokymo programų
-finansavimą iš valstybės biudžeto, taikant mokymo lėšų skyrimo vienam mokiniui
-principą;
-5) rengia Formaliojo profesinio mokymo
-licencijavimo taisykles ir šias taisykles teikia Vyriausybei tvirtinti.
-Redakcija nuo
-2014-09-01:
 22 straipsnis. Švietimo ir
 mokslo ministerijos ir švietimo ir mokslo ministro įgaliojimai
 1. Švietimo ir mokslo ministerija:
@@ -875,12 +812,29 @@ profesinio mokymo lėšų skaičiavimo vienam mokiniui, kuris mokosi pagal
 formaliojo profesinio mokymo programą (išskyrus vidaus reikalų profesinio
 mokymo įstaigų vykdomas programas), metodiką (toliau – profesinio mokymo lėšų
 skaičiavimo vienam mokiniui metodika);
+Redakcija nuo
+2015-09-01:
+9) kartu su Ūkio ministerija rengia
+profesinio mokymo lėšų skaičiavimo vienam mokiniui, kuris mokosi pagal
+formaliojo profesinio mokymo programą (išskyrus pataisos pareigūnų profesinio
+mokymo ir
+vidaus reikalų profesinio mokymo įstaigų vykdomas programas), metodiką (toliau
+– profesinio mokymo lėšų skaičiavimo vienam mokiniui metodika);
+ 
 10) kartu su Ūkio ministerija vykdo
 profesinio mokymo programų, išskyrus vidaus reikalų profesinio mokymo įstaigų
 vykdomų programų, finansavimą iš valstybės biudžeto, taikydama profesinio
 mokymo lėšų skaičiavimo vienam mokiniui metodiką;
-11) kartu su Ūkio ministerija
-rengia Formaliojo profesinio mokymo licencijavimo taisykles;
+Redakcija nuo
+2015-09-01:
+10) kartu su Ūkio ministerija vykdo
+profesinio mokymo programų, išskyrus pataisos pareigūnų profesinio mokymo ir vidaus reikalų
+profesinio mokymo įstaigų vykdomas programas, finansavimą iš valstybės
+biudžeto, taikydama profesinio mokymo lėšų skaičiavimo vienam mokiniui
+metodiką;
+ 
+11) kartu su Ūkio ministerija rengia
+Formaliojo profesinio mokymo licencijavimo taisykles;
 12) atlieka kitas šio įstatymo ir
 kitų teisės aktų nustatytas funkcijas.
 2. Švietimo ir mokslo ministras:
@@ -891,13 +845,24 @@ asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinė
 integracijos įstatymas ar Vidaus tarnybos statuto patvirtinimo įstatymas,
 pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas
 profesinio mokymo programas planą;
+Redakcija nuo
+2015-09-01:
+2) tvirtina asmenų, išskyrus asmenis,
+kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos
+įstatymas, Tarnybos
+Kalėjimų departamente prie Lietuvos Respublikos
+teisingumo ministerijos statutas ar Vidaus tarnybos statutas,
+pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas
+profesinio mokymo programas planą;
+ 
 3) tvirtina asmenų priėmimo į
 valstybines ir savivaldybių profesinio mokymo įstaigas bendruosius kriterijus;
 4) nustato kvalifikacijos ir
 mokymosi pasiekimų dokumentų, nurodytų šio įstatymo 19 straipsnio 1 dalyje,
 turinį, formą ir išdavimo tvarką;
-5) tvirtina bendrojo ugdymo technologijų
-dalykų ir profesinio mokymo programos modulių užskaitos tvarkos aprašą;
+5) tvirtina bendrojo ugdymo
+technologijų dalykų ir profesinio mokymo programos modulių užskaitos tvarkos
+aprašą;
 6) Vyriausybės nustatyta tvarka
 išduoda licencijas vykdyti formalųjį profesinį mokymą;
 7) suderinęs su ūkio ministru,
@@ -939,29 +904,11 @@ XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
 Nr. XII-922,
 2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840 
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
  
-23 straipsnis. Ūkio
-ministerijos įgaliojimai
-Ūkio ministerija:
-1) dalyvauja kuriant žmogiškųjų išteklių
-plėtros politiką ir ją vykdo;
-2) dalyvauja kuriant ir vykdant
-profesinio mokymo politiką;
-3) organizuoja žmogiškųjų išteklių
-paklausos darbo rinkoje prognostinius tyrimus ir jų rezultatų sklaidą vykdant
-profesinį orientavimą;
-4) koordinuoja savo įsteigtų ar
-ministerijai priskirtų profesinio mokymo įstaigų, kuriose teisės aktų nustatyta
-tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas,
-profesijos mokytojų kvalifikacijos tobulinimą;
-5) organizuoja savo reguliuojamos
-srities darbuotojų tęstinį profesinį mokymą;
-6) atlieka kitas šio įstatymo ir kitų
-teisės aktų nustatytas funkcijas.
-Redakcija nuo
-2014-09-01:
-23 straipsnis.
-Ūkio ministerijos įgaliojimai
+23
+straipsnis. Ūkio ministerijos įgaliojimai
 Ūkio ministerija:
 1) formuoja žmogiškųjų išteklių plėtros
 politiką, taip pat organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
@@ -971,9 +918,9 @@ mokymo politiką;
 paklausos darbo rinkoje prognostinius tyrimus ir jų rezultatų sklaidą vykdant
 profesinį orientavimą;
 4) koordinuoja savo įsteigtų ar ministro
-valdymo sritims priskirtų profesinio mokymo įstaigų, kuriose teisės aktų
-nustatyta tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir
-pareigas, profesijos mokytojų kvalifikacijos tobulinimą;
+valdymo sritims priskirtų profesinio mokymo įstaigų, kuriose teisės aktų nustatyta
+tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas,
+profesijos mokytojų kvalifikacijos tobulinimą;
 5) organizuoja ministro valdymo
 sritims priskirtų darbuotojų tęstinį profesinį mokymą;
 6) atlieka kitas šio įstatymo ir kitų teisės
@@ -984,16 +931,14 @@ Nr.
 XI-380,
 2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
 Nr.
-XI-839,
-2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
+XI-839, 2010-05-25,
+Žin., 2010, Nr. 67-3338 (2010-06-10)
 Nr.
 XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
-Nr. XII-922,
-2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840 
+Nr. XII-922, 2014-06-05,
+paskelbta TAR 2014-06-19, i. k. 2014-07840 
  
-Papildyta nuo
-2014-09-01:
 231 straipsnis. Vidaus reikalų
 ministerijos ir vidaus reikalų ministro įgaliojimai
 1. Vidaus reikalų ministerija:
@@ -1006,6 +951,12 @@ teisės aktų nustatytas funkcijas.
 tarnybos statuto patvirtinimo įstatymas, pageidaujančių įgyti pirmąją
 kvalifikaciją, priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas
 programas planą;
+Redakcija nuo
+2015-09-01:
+1) tvirtina asmenų, kuriems taikomas
+Vidaus tarnybos statutas, pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo
+į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą;
+ 
 2) nustato reikalavimus, taikomus vidaus
 reikalų profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
 3) teikia Vyriausybei tvirtinti vidaus
@@ -1017,6 +968,39 @@ Papildyta
 straipsniu:
 Nr. XII-922,
 2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840 
+Straipsnio
+pakeitimai:
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
+ 
+Papildoma
+straipsniu nuo 2015-09-01:
+232
+straipsnis. Teisingumo ministerijos ir teisingumo ministro įgaliojimai
+1. Teisingumo  ministerija:
+1) rengia pataisos pareigūnų
+profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui
+metodiką;
+2) atlieka kitas šio įstatymo ir kitų
+teisės aktų nustatytas funkcijas.
+2. Teisingumo ministras:
+1) tvirtina asmenų, kuriems taikomas
+Tarnybos Kalėjimų departamente prie Lietuvos
+Respublikos teisingumo ministerijos statutas, pageidaujančių įgyti
+pirmąją kvalifikaciją, priėmimo į pataisos pareigūnų profesinio mokymo įstaigų
+vykdomas programas planą;
+2) nustato reikalavimus, taikomus
+pataisos pareigūnų profesinio mokymo sutartims, ir šių sutarčių registravimo
+tvarką;
+3) teikia Vyriausybei tvirtinti pataisos
+pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam
+mokiniui metodiką;
+4) atlieka kitas šio įstatymo ir kitų
+teisės aktų nustatytas funkcijas.
+Papildyta
+straipsniu:
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
  
 24 straipsnis.
 Kitų ministerijų ir Vyriausybės įstaigų įgaliojimai
@@ -1028,20 +1012,14 @@ profesinius standartus;
 įstaigų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip
 savininkės ar dalininkės teises ir pareigas, profesijos mokytojų kvalifikacijos
 tobulinimą;
- 
-3) dalyvauja kuriant ir vykdant
-žmogiškųjų išteklių plėtros politiką; 
-Redakcija nuo
-2014-09-01:
 3) dalyvauja formuojant žmogiškųjų
 išteklių plėtros politiką;
- 
 4) organizuoja savo reguliuojamos
 srities darbuotojų tęstinį profesinį mokymą; 
-5) teikia siūlymus valstybės,
-savivaldybių institucijoms dėl profesinio mokymo programų turinio ir tinklo
-optimizavimo, profesinio mokymo kokybės užtikrinimo ir priėmimo į
-valstybės finansuojamas profesinio mokymo programas plano.
+5) teikia siūlymus valstybės, savivaldybių
+institucijoms dėl profesinio mokymo programų turinio ir tinklo optimizavimo,
+profesinio mokymo kokybės užtikrinimo ir priėmimo į valstybės
+finansuojamas profesinio mokymo programas plano.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1078,7 +1056,8 @@ XI-839,
  
 27 straipsnis.
 Savivaldybės institucijų įgaliojimai
-1. Savivaldybės atstovaujamoji institucija:
+1. Savivaldybės atstovaujamoji
+institucija:
 1) inicijuoja
 savivaldybės gyventojų poreikius atitinkančio profesinio mokymo teikėjų tinklo
 kūrimą;
@@ -1121,8 +1100,9 @@ derina;
 į valstybės finansuojamas profesinio mokymo programas;
 5) dalyvauja vykdant profesinį
 orientavimą;
-6) derina asmens įgytų kompetencijų vertinimo
-organizavimo veiklą ir dalyvauja vertinant asmens įgytas kompetencijas; 
+6) derina asmens įgytų kompetencijų
+vertinimo organizavimo veiklą ir dalyvauja vertinant asmens įgytas
+kompetencijas; 
 7) dalyvauja organizuojant praktinį
 profesinį mokymą įmonėje, įstaigoje, ūkininko ūkyje ar pas laisvąjį mokytoją
 ir atliekant jo priežiūrą;
@@ -1137,8 +1117,8 @@ Nr.
 XI-380,
 2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
 Nr.
-XI-839,
-2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
+XI-839, 2010-05-25,
+Žin., 2010, Nr. 67-3338 (2010-06-10)
 Nr.
 XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
@@ -1154,8 +1134,7 @@ organizacijų atstovų.
 3. Lietuvos profesinio mokymo tarybos
 nuostatus tvirtina Vyriausybė.
  
-SEPTINTASIS
-SKIRSNIS
+SEPTINTASIS SKIRSNIS
 PROFESINIO
 MOKYMO FINANSAVIMAS
  
@@ -1179,14 +1158,6 @@ sudaro:
 5) investicijų lėšos profesinio mokymo
 ir kvalifikacijų sistemų plėtrai;
 6) profesinio orientavimo lėšos.
- 
-2. Mokymo lėšos formaliajam profesiniam
-mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų
-tikslinių dotacijų savivaldybių biudžetams ir (ar) Užimtumo fondo taikant Vyriausybės
-patvirtintą mokymo
-lėšų skaičiavimo vienam mokiniui metodiką.
-Redakcija nuo
-2014-09-01:
 2. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės
 biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių
 biudžetams ir (ar) Užimtumo fondo taikant Vyriausybės patvirtintą profesinio
@@ -1194,6 +1165,19 @@ mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo
 lėšos vidaus reikalų profesinio mokymo įstaigų vykdomam formaliajam profesiniam
 mokymui skiriamos taikant Vyriausybės patvirtintą vidaus reikalų profesinio
 mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
+Redakcija nuo
+2015-09-01:
+2. Mokymo lėšos formaliajam profesiniam
+mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų
+tikslinių dotacijų savivaldybių biudžetams ir (ar) Užimtumo fondo taikant
+Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui
+metodiką. Mokymo lėšos pataisos pareigūnų profesinio mokymo įstaigų vykdomam
+formaliajam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą
+pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo
+vienam mokiniui metodiką, o mokymo lėšos vidaus reikalų profesinio mokymo
+įstaigų vykdomam formaliajam profesiniam mokymui – taikant Vyriausybės
+patvirtintą vidaus reikalų profesinio mokymo įstaigų profesinio mokymo lėšų
+skaičiavimo vienam mokiniui metodiką.
  
 3. Teisės aktų nustatyta tvarka
 neformalųjį profesinį mokymą finansuoja mokymą užsakantis fizinis ar juridinis
@@ -1206,24 +1190,16 @@ biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių
 biudžetams, savivaldybių biudžetų ar Užimtumo fondo.
 5. Įmonės, įstaigos, ūkininko ūkio
 darbuotojų tęstinis profesinis mokymas vykdomas įmonės,
-įstaigos, ūkininko ūkio arba besimokančiųjų lėšomis. Teisės aktų nustatyta
-tvarka įmonės, įstaigos ar ūkininko ūkio darbuotojų mokymui gali būti skiriama
-ir valstybės biudžeto lėšų.
+įstaigos, ūkininko ūkio arba besimokančiųjų lėšomis. Teisės aktų
+nustatyta tvarka įmonės, įstaigos ar ūkininko ūkio darbuotojų mokymui gali būti
+skiriama ir valstybės biudžeto lėšų.
 6. Bedarbių ir įspėtų apie atleidimą iš
 darbo asmenų profesinis mokymas finansuojamas Užimtumo rėmimo įstatymo
 nustatyta tvarka.
- 
-7. Asmens kompetencijoms vertinti lėšų
-skiriama taikant Vyriausybės patvirtintą Lėšų skaičiavimo vienam asmeniui
-metodiką. Lėšos skirstomos vadovaujantis Švietimo ir mokslo ministerijos
-nustatyta ir su Ūkio ministerija suderinta lėšų paskirstymo tvarka.
-Redakcija nuo
-2014-09-01:
 7. Asmens kompetencijoms vertinti lėšų skiriama taikant Vyriausybės
 patvirtintą Kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką.
 Lėšos skirstomos vadovaujantis kompetencijų vertinimo lėšų paskirstymo tvarkos
 aprašu.
- 
 8. Lėšos mokinių profesiniam
 orientavimui bendrojo lavinimo ir profesinėse mokyklose skiriamos taikant lėšų
 skyrimo vienam mokiniui principą.
@@ -1232,8 +1208,8 @@ profesinio orientavimo centruose, darbo biržose lėšų skiria Socialinės
 apsaugos ir darbo ministerija jos nustatyta tvarka.
 10. Valstybės ir
 savivaldybės profesinio mokymo įstaigai ūkio lėšas skiria savininko teises
-ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), nevalstybinei
-profesinio mokymo įstaigai – savininkas (dalyvių susirinkimas). Viešosioms profesinio mokymo įstaigoms gali būti skiriama
+ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), nevalstybinei profesinio
+mokymo įstaigai – savininkas (dalyvių susirinkimas). Viešosioms profesinio mokymo įstaigoms gali būti skiriama
 ūkio lėšų iš valstybės biudžeto, savivaldybių biudžetų ar Užimtumo fondo arba
 kitų lėšų. Savivaldybių profesinio mokymo įstaigoms, kurių teisinė forma –
 biudžetinė arba viešoji įstaiga, gali būti skiriama ūkio lėšų iš atitinkamų
@@ -1248,9 +1224,9 @@ skirti ir savininkas
 (dalyvių susirinkimas)
 savo nustatyta tvarka.
 12. Socialiniams partneriams šio įstatymo 28 straipsnio 3, 5, 6, 7 ir 8
-punktuose nustatytoms funkcijoms vykdyti lėšos skiriamos pagal patvirtintas
-pajamų ir išlaidų sąmatas iš ministerijų, kurių reguliavimo sričiai yra
-numatytos šios funkcijos, tam tikslui skirtų asignavimų.
+punktuose nustatytoms funkcijoms vykdyti lėšos skiriamos pagal patvirtintas pajamų
+ir išlaidų sąmatas iš ministerijų, kurių reguliavimo sričiai yra numatytos šios
+funkcijos, tam tikslui skirtų asignavimų.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1264,6 +1240,8 @@ XI-1498,
 2011-06-22, Žin., 2011, Nr. 86-4140 (2011-07-13)
 Nr. XII-922,
 2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840 
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
  
 32 straipsnis.
 Materialinė parama
@@ -1271,6 +1249,14 @@ Materialinė parama
 profesinio mokymo programas siekdami įgyti pirmąją kvalifikaciją, ir vidaus
 reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali
 būti mokamos stipendijos ir teikiama kita materialinė parama.
+Redakcija nuo
+2015-09-01:
+1. Mokiniams, kurie mokosi pagal
+profesinio mokymo programas siekdami įgyti pirmąją kvalifikaciją, pataisos
+pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų
+mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir
+teikiama kita materialinė parama.
+ 
 2. Specialiųjų poreikių mokiniams,
 siekiantiems įgyti pirmąją kvalifikaciją ir negaunantiems stipendijos, teisės
 aktų nustatyta tvarka skiriamas maitinimas ir teikiama kita materialinė parama.
@@ -1278,6 +1264,10 @@ aktų nustatyta tvarka skiriamas maitinimas ir teikiama kita materialinė parama
 Užimtumo rėmimo ar Neįgaliųjų socialinės integracijos įstatymus,
 materialinė parama skiriama šių įstatymų ir jų įgyvendinamųjų teisės aktų
 nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
  
 33
 straipsnis. Užmokestis už profesinį mokymą
@@ -1358,8 +1348,8 @@ Respublikos Seimas, Įstatymas
 Nr. XI-380,
 2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
 PROFESINIO
-MOKYMO ĮSTATYMO 7, 9, 10, 11, 12, 18, 19, 21, 22, 23, 25, 28 IR 31 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMAS
+MOKYMO ĮSTATYMO 7, 9, 10, 11, 12, 18, 19, 21, 22, 23, 25, 28 IR 31 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 6.
 Lietuvos
@@ -1414,10 +1404,21 @@ LIETUVOS
 RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 12-1 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-1448,
+2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
+LIETUVOS
+RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 14, 22, 23-1, 31 IR 32
+STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 23-2 STRAIPSNIU ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2015 m. rugsėjo 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra
-Bodin (2014-06-20)
+Redagavo Aušrinė
+Trapinskienė (2015-01-19)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
