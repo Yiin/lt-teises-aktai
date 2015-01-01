@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8F098889C62F"
 
 # Lietuvos Respublikos kultūros rėmimo fondo įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2018-07-11
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3320, i. k. 1071010ISTA00X-1260
  
@@ -64,7 +64,10 @@ Vilnius
 
 4 straipsnis. Fondo lėšų naudojimas
 
-1. Fondo lėšos naudojamos kultūros ir meno projektams, programoms ir kitoms priemonėms, atrinktoms viešojo konkurso būdu, finansuoti. Fondo lėšos negali būti naudojamos jo administravimo išlaidoms.
+1. Fondo lėšos naudojamos kultūros ir meno projektams, programoms ir kitoms priemonėms, atrinktoms viešojo konkurso būdu, finansuoti ir jų vertinimo ekspertų paslaugoms apmokėti. Ekspertų paslaugoms apmokėti skiriama ne daugiau kaip 2 procentai atitinkamų metų Fondo lėšų. Fondo lėšos negali būti naudojamos jo administravimo išlaidoms.
+Straipsnio dalies pakeitimai:
+Nr. XII-1277, 2014-10-21, paskelbta TAR 2014-11-04, i. k. 2014-15748
+ 
 
 2. Lietuvos kultūros taryba kultūros ministro nustatyta tvarka priima sprendimus dėl Fondo lėšų skyrimo.
 
@@ -75,7 +78,9 @@ Vilnius
 
 1. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti.
 
-2. Per kalendorinius metus nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais metais numatytiems projektams finansuoti.
+2. Per kalendorinius metus nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais metais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1277, 2014-10-21, paskelbta TAR 2014-11-04, i. k. 2014-15748
  
 
 6 straipsnis. Fondo likvidavimas
@@ -100,4 +105,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2219, 2012-09-18, Žin., 2012, Nr. 111-5632 (2012-09-26), i. k. 1121010ISTA0XI-2219
 Lietuvos Respublikos kultūros rėmimo fondo įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1277, 2014-10-21, paskelbta TAR 2014-11-04, i. k. 2014-15748
+Lietuvos Respublikos kultūros rėmimo fondo įstatymo Nr. X-1260 4 ir 5 straipsnių pakeitimo įstatymas
 
