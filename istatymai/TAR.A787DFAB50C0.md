@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 7, 8,
 
 
 
-Suvestinė redakcija nuo 2013-12-30 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 160-7561, i. k. 1111010ISTA0XI-1792
  
@@ -134,13 +134,14 @@ Vilnius
 
 
 
-„1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Šios nuostatos netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;“.
+„1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę vienus metus nuo pirmosios veiklos pradžios sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Finansų ministerijos kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos. Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Finansų ministerijos kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos, jeigu socialinio draudimo įmokas už šiuos asmenis yra sumokėjusi individuali įmonė ar mažoji bendrija, ar tikroji ūkinė bendrija ar komanditinė ūkinė bendrija arba jie yra sumokėję įmokas kaip individualia veikla užsiimantys asmenys, išskyrus tuos, kurie verčiasi individualia veikla turėdami verslo liudijimą, arba jie yra asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalyje ar 2 dalies 1 ir 2 punktuose, arba jiems yra paskirtos valstybinės socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensijos, arba jeigu individualios įmonės savininkas, mažosios bendrijos narys ar ūkinės bendrijos narys yra ne vyresnis kaip 29 metų (taikoma už laikotarpį iki kalendorinių metų pabaigos, kai asmeniui sukanka 29 metai). Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Tuo atveju, jeigu asmuo yra individualios įmonės savininkas ir mažosios bendrijos narys, ir (ar) ūkinės bendrijos tikrasis narys arba kelių mažųjų bendrijų ar ūkinių bendrijų tikrasis narys, socialinio draudimo įmokas nuo minimaliosios mėnesinės algos apskaičiuoja draudėjas, kuris yra įregistruotas anksčiausiai. Šios nuostatos netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;“
 
 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XI-2175, 2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14), i. k. 1121010ISTA0XI-2175
+Nr. XII-1409, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20432
  
 
 
@@ -289,3 +290,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-727, 2013-12-23, Žin., 2013, Nr. 140-7086 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00017
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo 6 straipsnio pakeitimo ĮSTATYMAS
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1409, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20432
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-1792 2 straipsnio pakeitimo įstatymas
