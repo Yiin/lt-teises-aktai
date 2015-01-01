@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-09-21
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -236,9 +236,11 @@ Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010IST
 
 
 
-4. Šio įstatymo 7 straipsnio 1 dalies 6 punkte nurodyto turto mokestinės vertės daliai, viršijančiai neapmokestinamąjį dydį, taikomas 1 procento mokesčio tarifas. 
+4. Šio įstatymo 7 straipsnio 1 dalies 6 punkte nurodyto turto mokestinės vertės daliai, viršijančiai neapmokestinamąjį dydį, taikomas 0,5 procento mokesčio tarifas.
 Papildyta straipsnio dalimi:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+Straipsnio dalies pakeitimai:
+Nr. XII-1390, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20429
  
 
 
@@ -281,9 +283,11 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 1 milijono litų. 
+6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 220 000 eurų. Šeimoms, auginančioms tris ir daugiau vaikų (įvaikių) iki 18 metų, ir šeimoms, auginančioms neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, neapmokestinamo nekilnojamojo turto vertė didinama 30 procentų.
 Papildyta straipsnio punktu:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+Straipsnio punkto pakeitimai:
+Nr. XII-1390, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20429
  
 
 
@@ -590,7 +594,10 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos, birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 1 500 litų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę.
+3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos, birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 435 eurų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę.
+Straipsnio dalies pakeitimai:
+Nr. XII-1518, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21156
+ 
 
 
 
@@ -874,3 +881,13 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-430, 2013-06-27, Žin., 2013, Nr. 75-3758 (2013-07-13), i. k. 1131010ISTA0XII-430
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1390, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20429
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1518, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21156
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 12 straipsnio pakeitimo įstatymas
