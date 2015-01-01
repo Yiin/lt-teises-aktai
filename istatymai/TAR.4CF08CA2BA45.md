@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-04-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -475,7 +475,6 @@ Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. 1131010IST
 
 
 
- 
 7 straipsnis. Reikalavimai planui
 
 
@@ -569,7 +568,10 @@ Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. 1131010IST
 
 
 
-4. Visos plane įrašytos lėšos ir jų sumos nurodomos litais.
+4. Visos plane įrašytos lėšos ir jų sumos nurodomos eurais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+ 
 
 
 
@@ -787,7 +789,6 @@ Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. 1131010IST
 
 
 
- 
 TREČIASIS SKIRSNIS
 BANKROTO ADMINISTRATORIUS
  
@@ -1033,7 +1034,10 @@ BANKROTO ADMINISTRATORIUS
 13 straipsnis. Bankroto administratoriaus civilinės atsakomybės draudimas ir jo veiklos priežiūra
 
 
-1. Bankroto administratoriaus profesinė civilinė atsakomybė už atliekant fizinių asmenų bankroto procedūras fiziniams ar juridiniams asmenims padarytą žalą, viršijančią 1 000 litų, draudžiama profesinės civilinės atsakomybės privalomuoju draudimu.
+1. Bankroto administratoriaus profesinė civilinė atsakomybė už atliekant fizinių asmenų bankroto procedūras fiziniams ar juridiniams asmenims padarytą žalą, viršijančią 290 eurų, draudžiama profesinės civilinės atsakomybės privalomuoju draudimu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+ 
 
 
 
@@ -1048,7 +1052,11 @@ BANKROTO ADMINISTRATORIUS
 
 
 
-4. Bankroto administratorius profesinės civilinės atsakomybės privalomuoju draudimu draudžiamas sudarant bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo sutartį. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra bankroto administratorius. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo minimali draudimo suma yra 100 000 litų vienam draudžiamajam įvykiui ir 200 000 litų visiems draudžiamiesiems įvykiams per metus. Dėl draudžiamojo įvykio išmokėjus draudimo išmoką ir sumažėjus šio straipsnio nustatytai minimaliai draudimo sumai, bankroto administratorius privalo per vieną mėnesį apsidrausti civilinę atsakomybę, kad būtų atkurta privalomoji minimali draudimo suma.
+4. Bankroto administratorius profesinės civilinės atsakomybės privalomuoju draudimu draudžiamas sudarant bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo sutartį. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra bankroto administratorius. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo minimali draudimo suma yra 28 900 eurų vienam draudžiamajam įvykiui ir 57 900 eurų visiems draudžiamiesiems įvykiams per metus. Dėl draudžiamojo įvykio išmokėjus draudimo išmoką ir sumažėjus šio straipsnio nustatytai minimaliai draudimo sumai, bankroto administratorius privalo per vieną mėnesį apsidrausti civilinę atsakomybę, kad būtų atkurta privalomoji minimali draudimo suma.
+TAR pastaba. 13 straipsnio 4 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. iš naujo sudaromoms bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+ 
 
 
 
@@ -1144,7 +1152,10 @@ BANKROTO ADMINISTRATORIUS
 
 
 
-6. Jeigu atstatydintas bankroto administratorius be pateisinamos priežasties per teismo nustatytą terminą neperduoda fizinio asmens bankroto proceso dokumentų ar perduoda ne visus, teismas gali skirti atstatydintam bankroto administratoriui iki 10 000 litų baudą.
+6. Jeigu atstatydintas bankroto administratorius be pateisinamos priežasties per teismo nustatytą terminą neperduoda fizinio asmens bankroto proceso dokumentų ar perduoda ne visus, teismas gali skirti atstatydintam bankroto administratoriui iki 2 896 eurų baudą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+ 
 
 
 
@@ -1419,7 +1430,10 @@ Nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dieno
 
 
 
-3. Jeigu antstolis per nurodytą terminą nepateikia teismui šio straipsnio 1 dalyje nurodytų dokumentų, teismas gali antstoliui skirti iki 10 000 litų baudą.
+3. Jeigu antstolis per nurodytą terminą nepateikia teismui šio straipsnio 1 dalyje nurodytų dokumentų, teismas gali antstoliui skirti iki 2 896 eurų baudą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+ 
 
 
 
@@ -2036,3 +2050,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. 1131010ISTA0XII-217
 Lietuvos Respublikos fizinių asmenų bankroto įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 7, 13, 14 ir 20 straipsnių pakeitimo įstatymas
