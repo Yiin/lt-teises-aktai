@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-07-13
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -482,10 +482,10 @@ Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010IS
 4 straipsnis. Išimtys dėl mažos vertės mokėjimo priemonių ir elektroninių pinigų
 
 
-Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų ekvivalento litais arba kurioms įvykdyti nustatytas 150 eurų ekvivalento litais išlaidų limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų ekvivalento litais suma bet kuriuo metu:
+Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų arba kurioms įvykdyti nustatytas 150 eurų išlaidų limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų suma bet kuriuo metu:
 
 
-1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo 10 straipsnio 2–8 dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis;
+1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo 10 straipsnio 2–8 dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis;
 
 
 
@@ -495,12 +495,12 @@ Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiro
 
 
 
-3) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad, atlikęs mokėjimo operaciją, mokėjimo paslaugų teikėjas pateikia tik nuorodą arba sudaro sąlygas susipažinti su tokia nuoroda, pagal kurią mokėjimo paslaugų vartotojas gali nustatyti mokėjimo operaciją, jos sumą, taikytą komisinį atlyginimą, o kai tam pačiam gavėjui atliktos kelios tokios pat rūšies mokėjimo operacijos, – tik informaciją apie visą sumą ir komisinį atlyginimą už šias mokėjimo operacijas. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama teikti šios informacijos arba sudaryti sąlygų su ja susipažinti, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas dėl techninių priežasčių negali jos pateikti. Tačiau mokėjimo paslaugų teikėjas turi suteikti mokėtojui galimybę patikrinti laikomų lėšų sumą;
+3) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad, atlikęs mokėjimo operaciją, mokėjimo paslaugų teikėjas pateikia tik nuorodą arba sudaro sąlygas susipažinti su tokia nuoroda, pagal kurią mokėjimo paslaugų vartotojas gali nustatyti mokėjimo operaciją, jos sumą, taikytą komisinį atlyginimą, o kai tam pačiam gavėjui atliktos kelios tokios pačios rūšies mokėjimo operacijos, – tik informaciją apie visą sumą ir komisinį atlyginimą už šias mokėjimo operacijas. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama teikti šios informacijos arba sudaryti sąlygų su ja susipažinti, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas dėl techninių priežasčių negali jos pateikti. Tačiau mokėjimo paslaugų teikėjas turi suteikti mokėtojui galimybę patikrinti laikomų lėšų sumą;
 
 
 
 
-4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 25 straipsnio 1 dalies 2 punktas, 26 straipsnio 1 dalies 3 ir 4 punktai ir 30 straipsnio 3 ir 4 dalys jiems netaikomi, jei negalima mokėjimo priemonės blokuoti arba užkirsti kelią tolesniam jos naudojimui;
+4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 25 straipsnio 1 dalies 2 punktas, 26 straipsnio 1 dalies 3 ir 4 punktai ir 30 straipsnio 3 ir 4 dalys jiems netaikomi, jeigu negalima mokėjimo priemonės blokuoti arba užkirsti kelią tolesniam jos naudojimui;
 
 
 
@@ -520,12 +520,14 @@ Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiro
 
 
 
-8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyti šio įstatymo 36 ir 37 straipsniuose.
+8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyti šio įstatymo 36 ir 37 straipsniuose. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
  
-
-
-
-
 
 
 
@@ -1469,7 +1471,7 @@ Mokėtojo mokėjimo paslaugų teikėjas nedelsdamas mokėtojui sugrąžina neaut
 30 straipsnis. Mokėtojo atsakomybė už neautorizuotą mokėjimo priemonės naudojimą
 
 
-1. Mokėtojui tenka dėl neautorizuotų mokėjimo operacijų atsiradę nuostoliai iki 150 eurų ekvivalento litais, kai tie nuostoliai patirti dėl:
+1. Mokėtojui tenka dėl neautorizuotų mokėjimo operacijų atsiradę nuostoliai iki 150 eurų, kai tie nuostoliai patirti dėl:
 
 
 1) prarastos ar pavogtos mokėjimo priemonės panaudojimo;
@@ -1477,9 +1479,12 @@ Mokėtojo mokėjimo paslaugų teikėjas nedelsdamas mokėtojui sugrąžina neaut
 
 
 
-2) neteisėto mokėjimo priemonės įgijimo, jei mokėtojas neapsaugojo personalizuotų saugumo požymių.
+2) neteisėto mokėjimo priemonės įgijimo, jei mokėtojas neapsaugojo personalizuotų saugumo požymių. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
+ 
 
 
 
@@ -1647,32 +1652,36 @@ MOKĖJIMO OPERACIJŲ VYKDYMAS
 36 straipsnis. Mokėjimo į mokėjimo sąskaitas operacijų įvykdymo terminai
 
 
-1. Mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip iki kitos darbo dienos pabaigos. Iki 2012 m. sausio 1 d. mokėtojas ir jo mokėjimo paslaugų teikėjas gali susitarti dėl ne ilgesnio kaip trijų darbo dienų termino. Šie laikotarpiai gali būti pratęsti dar viena darbo diena, jei mokėjimo operacija inicijuojama popieriniu dokumentu. Ši dalis taikoma:
+1. Mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip iki kitos darbo dienos pabaigos. Iki 2012 m. sausio 1 d. mokėtojas ir jo mokėjimo paslaugų teikėjas gali susitarti dėl ne ilgesnio kaip trijų darbo dienų termino. Šie laikotarpiai gali būti pratęsti dar viena darbo diena, jeigu mokėjimo operacija inicijuojama popieriniu dokumentu. Ši dalis taikoma:
 
 
-1) Lietuvos Respublikoje ir į kitas valstybes nares vykdomoms mokėjimo operacijoms eurais, litais ir kitomis ne euro zonos valstybių narių valiutomis, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus;
-
-
-
-
-2) mokėjimo operacijoms, kurias vykdant atliekamas tik vienas valiutos keitimas tarp euro ir lito ir toks valiutos keitimas atliekamas Lietuvos Respublikoje, o jeigu vykdomos mokėjimo operacijos į kitas valstybes nares, lėšos pervedamos eurais;
+1) Lietuvos Respublikoje ir į kitas valstybes nares vykdomoms mokėjimo operacijoms eurais ir ne euro zonos valstybių narių valiutomis, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus;
 
 
 
 
-3) Lietuvos Respublikoje ir į kitas valstybes nares bei užsienio valstybes vykdomoms mokėjimo operacijoms užsienio valstybių valiutomis, taip pat į užsienio valstybes vykdomoms mokėjimo operacijoms eurais, litais ir kitomis ne euro zonos valstybių narių valiutomis, jeigu mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas nesusitaria dėl kito termino.
+2) Lietuvos Respublikoje ir į kitas valstybes nares bei užsienio valstybes vykdomoms mokėjimo operacijoms užsienio valstybių valiutomis, taip pat į užsienio valstybes vykdomoms mokėjimo operacijoms eurais ir ne euro zonos valstybių narių valiutomis, jeigu mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas nesusitaria dėl kito termino. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
+ 
 
 
 
 
+2. Kai kredito pervedimai Lietuvos Respublikoje atliekami eurais, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą tą pačią darbo dieną, jeigu mokėjimo nurodymo gavimo momentas yra tą darbo dieną iki 12 valandos. Jeigu mokėjimo nurodymo gavimo momentas yra po 12 valandos, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip kitą darbo dieną. Šio įstatymo 32 straipsnio 2 dalyje numatytu atveju mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą mokėjimo nurodymo vykdymo dieną, o kai mokėjimo nurodymo vykdymo diena nėra mokėjimo paslaugų teikėjo darbo diena, – kitą darbo dieną. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
+ 
 
 
-2. Kai kredito pervedimai Lietuvos Respublikoje atliekami nacionaline valiuta, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą tą pačią darbo dieną, jeigu mokėjimo nurodymo gavimo momentas yra tą darbo dieną iki 12 valandos. Jeigu mokėjimo nurodymo gavimo momentas yra po 12 valandos, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip kitą darbo dieną. Šio įstatymo 32 straipsnio 2 dalyje numatytu atveju mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą mokėjimo nurodymo vykdymo dieną, o kai mokėjimo nurodymo vykdymo diena nėra mokėjimo paslaugų teikėjo darbo diena, – kitą darbo dieną.
 
 
-
-
-3. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti dėl kito, negu nustatyta šio straipsnio 1 dalyje, mokėjimo operacijos įvykdymo termino, tačiau toks terminas negali viršyti keturių darbo dienų nuo mokėjimo nurodymo gavimo momento. Ši dalis taikoma Lietuvos Respublikoje vykdomoms mokėjimo operacijoms ne euro zonos valstybių narių valiutomis, išskyrus litus, ir į kitas valstybes nares vykdomoms mokėjimo operacijoms ne euro zonos valstybių narių valiutomis.
+3. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti dėl kito, negu nustatyta šio straipsnio 1 dalyje, mokėjimo operacijos įvykdymo termino, tačiau toks terminas negali viršyti keturių darbo dienų nuo mokėjimo nurodymo gavimo momento. Ši dalis taikoma Lietuvos Respublikoje vykdomoms mokėjimo operacijoms ne euro zonos valstybių narių valiutomis ir į kitas valstybes nares vykdomoms mokėjimo operacijoms ne euro zonos valstybių narių valiutomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
+ 
 
 
 
@@ -1858,7 +1867,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR ŠIO ĮSTATYMO PAŽEIDIMŲ NAGRIN�
 
 
 
-2. Už šio įstatymo nuostatų pažeidimus mokėjimo paslaugų teikėjams Lietuvos bankas gali skirti nuo vieno tūkstančio iki 30 tūkstančių litų baudą. Tais atvejais, kai pažeidimai buvo padaryti šio straipsnio 5 dalyje nurodytomis atsakomybę sunkinančiomis aplinkybėmis, mokėjimo paslaugų teikėjams gali būti skiriama didesnė – nuo 30 iki 120 tūkstančių litų – bauda. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems mokėjimo paslaugų vartotojų interesams, Lietuvos bankas, vadovaudamasis teisingumo ir protingumo kriterijais, mokėjimo paslaugų teikėjams gali taikyti nuobaudą – įspėjimą, neskirdamas baudos.
+2. Už šio įstatymo nuostatų pažeidimus mokėjimo paslaugų teikėjams Lietuvos bankas gali skirti nuo 289 iki 8 688 eurų baudą. Tais atvejais, kai pažeidimai buvo padaryti šio straipsnio 5 dalyje nurodytomis atsakomybę sunkinančiomis aplinkybėmis, mokėjimo paslaugų teikėjams gali būti skiriama didesnė – nuo 8 688 iki 34 754 eurų – bauda. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems mokėjimo paslaugų vartotojų interesams, Lietuvos bankas, vadovaudamasis teisingumo ir protingumo kriterijais, mokėjimo paslaugų teikėjams gali taikyti nuobaudą – įspėjimą, neskirdamas baudos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
+ 
 
 
 
@@ -1878,7 +1890,9 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR ŠIO ĮSTATYMO PAŽEIDIMŲ NAGRIN�
 
 
 
-6. Mokėjimo paslaugų teikėjui, kuris nepateikia informacijos ar dokumentų, reikalingų šio įstatymo pažeidimui tirti (neteisingos informacijos pateikimas taip pat laikomas informacijos nepateikimu), Lietuvos bankas gali skirti iki 10 tūkstančių litų baudą.
+6. Mokėjimo paslaugų teikėjui, kuris nepateikia informacijos ar dokumentų, reikalingų šio įstatymo pažeidimui tirti (neteisingos informacijos pateikimas taip pat laikomas informacijos nepateikimu), Lietuvos bankas gali skirti iki 2 896 eurų baudą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
  
 
 
@@ -2079,3 +2093,8 @@ Lietuvos Respublikos mokėjimų įstatymo 2, 3, 6, 7 straipsnių pakeitimo ir pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
 Lietuvos Respublikos mokėjimų įstatymo 3 ir 49 straipsnių pakeitimo, Įstatymo papildymo 51 straipsniu ir priedo papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 4, 30, 36 ir 45 straipsnių pakeitimo įstatymas
