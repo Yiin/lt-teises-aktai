@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838"
 
 # Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2013-07-13 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-11-16
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 52-1672, i. k. 0991010ISTAIII-1202
  
@@ -972,7 +972,11 @@ Turto arba verslo vertintoju gali būti fizinis asmuo, kuris:
 
 
 
-2. Metinė minimali civilinės atsakomybės privalomojo draudimo suma yra ne mažesnė kaip 300 000 litų.
+2. Metinė minimali civilinės atsakomybės privalomojo draudimo suma yra ne mažesnė kaip 87 000 eurų.
+TAR pastaba. 2 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. iš naujo sudaromoms civilinės atsakomybės privalomojo draudimo sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XII-1200, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14277
+ 
 
 
 
@@ -1724,3 +1728,8 @@ Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-509, 2013-07-02, Žin., 2013, Nr. 75-3780 (2013-07-13), i. k. 1131010ISTA0XII-509
 Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo 22 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1200, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14277
+Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo Nr. VIII-1202 17 straipsnio pakeitimo įstatymas
