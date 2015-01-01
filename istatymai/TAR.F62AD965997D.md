@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2014-12-02 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -233,7 +233,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-31. Šilumos dvinarė kaina – šilumos kaina, sudaryta iš pastoviosios, mokamos už vidutinę šilumos vartojimo galią litais už kilovatą per mėnesį, ir kintamosios, mokamos centais už šilumos kilovatvalandę, dedamųjų.
+31. Šilumos dvinarė kaina – šilumos kaina, sudaryta iš pastoviosios, mokamos už vidutinę šilumos vartojimo galią eurais už kilovatą per mėnesį, ir kintamosios, mokamos euro centais už šilumos kilovatvalandę, dedamųjų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
+ 
 
 
 
@@ -308,7 +311,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-46. Šilumos vienanarė kaina – šilumos kaina, sudaryta iš pastoviosios ir kintamosios dedamųjų, mokamų centais už kilovatvalandę.
+46. Šilumos vienanarė kaina – šilumos kaina, sudaryta iš pastoviosios ir kintamosios dedamųjų, mokamų euro centais už kilovatvalandę.
+Straipsnio dalies pakeitimai:
+Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
+ 
 
 
 
@@ -900,14 +906,7 @@ Nr. XI-2339, 2012-11-06, Žin., 2012, Nr. 132-6667 (2012-11-15)
 
 
 
-2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti šilumos tiekėjas ar asmenys, susiję su šilumos tiekėju darbo santykiais, ar šilumai gaminti naudojamo kuro, šilumos tiekimo veiklai naudojamų apskaitos prietaisų gamintojai, taip pat asmenys, kurie verčiasi šilumai gaminti naudojamo kuro didmenine ar mažmenine prekyba, ar asmenys, kartu su išvardytais asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos įstatymą. 
-Redakcija nuo 2014-06-01:
-
-
-
-
 2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti šilumos tiekėjas, tiekiantis šilumą tam namui, ar fiziniai asmenys, susiję su šilumos tiekėju darbo santykiais, išskyrus, kai su darbo santykiais susiję fiziniai asmenys gyvena tame name ir patys prižiūri savo ar gyvenamo namo bendrijai priklausančius kitus namus, taip pat asmenys, kurių ūkinė veikla apima kuro ruošą ir (ar) tiekimą, ar asmenys, kartu su šioje dalyje nurodytais asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos įstatymą. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) pagal faktinį šilumos energijos suvartojimą pastate skaičiuoja santykinius šilumos šildymui, cirkuliacijai ir karštam vandeniui ruošti sunaudojimo rodiklius, vadovaudamasis Valstybinės kainų ir energetikos kontrolės komisijos patvirtinta skaičiavimo metodika, analizuoja gautus duomenis, teikia juos pastato savininkui arba daugiabučio namo bendrojo naudojimo objektų valdytojui, daugiabučio namo butų ir kitų patalpų savininkų bendrijai, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui arba bendrojo naudojimo objektų administratoriui, pagal kompetenciją rengia pasiūlymus dėl šilumos energijos taupymo priemonių įgyvendinimo.
- 
 
 
 
@@ -1011,12 +1010,6 @@ Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
 
 
 4. Šilumos ir (ar) karšto vandens įmonių informacija apie veiklos sąnaudas, sistemų eksploatavimą, modernizavimą, plėtrą, investicijas į sistemos plėtrą, kainų ir tarifų struktūrą, paslaugų teikimo sąlygas yra vieša.
-
-
-
-
-5. Pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) informacija apie jo veiklos pajamas, sąnaudas, sistemų eksploatavimą, kainas ir tarifus, jų struktūrą, paslaugų teikimo sąlygas, taip pat pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) ketvirtiniai ir metiniai finansiniai-balansiniai rodikliai, investicijų dydžiai, duomenys apie investuotojus, darbuotojų skaičių, savininkams (dalyviams) išmokėtų dividendų ar tantjemų dydį, bendrovės valdymo organų narių ir vadovaujančių darbuotojų (stebėtojų tarybos, valdybos narių, vadovų, jų pavaduotojų, padalinių vadovų, vyriausiųjų finansininkų (buhalterių) ir jų pavaduotojų) darbo užmokesčio dydį bei jiems kitais pagrindais išmokėtas lėšas yra vieši ir turi būti skelbiami energetikos ministro nustatyta tvarka.
-Redakcija nuo 2014-06-01:
 
 
 
@@ -1824,3 +1817,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1346, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18286
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 25 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2 straipsnio pakeitimo įstatymas
