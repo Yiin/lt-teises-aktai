@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/78f45360cf9d11e3a8ded1a0f5aff0a9"
 
 # Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymas
 
+Suvestinė redakcija nuo 2015-01-01 iki 2015-01-07
+ 
+Įstatymas paskelbtas: TAR 2014-04-29, i. k. 2014-04875
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 EURO ĮVEDIMO LIETUVOS RESPUBLIKOJE
 ĮSTATYMAS
@@ -683,12 +690,18 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Už šio įstatymo pažeidimą fiziniams asmenims skiriamas įspėjimas, juridinių asmenų vadovams ar jų įgaliotiems asmenims – įspėjimas arba bauda iki vieno tūkstančio litų. 
+2. Už šio įstatymo pažeidimą fiziniams asmenims skiriamas įspėjimas, juridinių asmenų vadovams ar jų įgaliotiems asmenims – įspėjimas arba bauda iki dviejų šimtų aštuoniasdešimt devynių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1424, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20441
+ 
 
 
 
 
-3. Už pakartotinį šio įstatymo pažeidimą fiziniams asmenims skiriama bauda iki penkių tūkstančių litų, juridinių asmenų vadovams ar jų įgaliotiems asmenims – bauda nuo vieno tūkstančio iki dešimties tūkstančių litų. 
+3. Už pakartotinį šio įstatymo pažeidimą fiziniams asmenims skiriama bauda iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų, juridinių asmenų vadovams ar jų įgaliotiems asmenims – bauda nuo dviejų šimtų aštuoniasdešimt devynių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1424, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20441
+ 
 
 
 
@@ -849,3 +862,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1424, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20441
+Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 29 straipsnio pakeitimo įstatymas
