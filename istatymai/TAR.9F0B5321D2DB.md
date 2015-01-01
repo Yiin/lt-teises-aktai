@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2011-12-30 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-01-05
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
  
@@ -166,7 +166,10 @@ Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010IS
 
 
 
-2) signataras turi draudžiamųjų pajamų;
+2) signataras turi draudžiamųjų pajamų, išskyrus draudžiamąsias pajamas pagal autorines sutartis už kūrybinę veiklą;
+Straipsnio punkto pakeitimai:
+Nr. XII-936, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07835
+ 
 
 
 
@@ -1132,3 +1135,8 @@ Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1647, 2011-11-10, Žin., 2011, Nr. 144-6756 (2011-11-29), i. k. 1111010ISTA0XI-1647
 Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-936, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07835
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 7 straipsnio pakeitimo įstatymas
