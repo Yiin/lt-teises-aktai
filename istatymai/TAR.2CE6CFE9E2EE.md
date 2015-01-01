@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2016-07-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -555,7 +555,10 @@ PENKTASIS SKIRSNIS
 Teisę gauti šalpos kompensaciją šio įstatymo 16 straipsnyje nustatytomis sąlygomis turi:
 
 
-1) tėvai (įtėviai), kurie iki 1995 m. sausio 1 d. ne mažiau kaip 10 metų slaugė namuose vaikus invalidus arba vaikus, pripažintus I ar II grupės invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų; 
+1) tėvai (įtėviai), kurie iki 1995 m. sausio 1 d. ne mažiau kaip 8 metus slaugė namuose vaikus invalidus arba vaikus, pripažintus I ar II grupės invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų;
+Straipsnio punkto pakeitimai:
+Nr. XII-906, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07399
+ 
 
 
 
@@ -1220,3 +1223,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 8, 22, 24 ir 26 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1768, 2011-12-01, Žin., 2011, Nr. 155-7351 (2011-12-20), i. k. 1111010ISTA0XI-1768
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-906, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07399
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 15 straipsnio pakeitimo įstatymas
