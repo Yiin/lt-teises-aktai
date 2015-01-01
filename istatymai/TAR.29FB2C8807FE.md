@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2014-12-24 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -1080,26 +1080,90 @@ Penktasis skirsnis
  
 
 
-16 straipsnis. Įmonės veiklos ataskaita
+16 straipsnis. Įmonės veiklos ataskaita 
 
 
-1. Įmonės vadovas turi parengti ir kartu su įmonės metinių finansinių ataskaitų rinkiniu pateikti įmonės savininko teises ir pareigas įgyvendinančiai institucijai ataskaitinių finansinių metų įmonės veiklos ataskaitą.
-Straipsnio dalies pakeitimai:
-Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
+1. Įmonės vadovas kartu su įmonės metinių finansinių ataskaitų rinkiniu valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai turi pateikti ataskaitinių finansinių metų įmonės veiklos ataskaitą. 
+
+
+
+
+2. Įmonės veiklos ataskaitoje turi būti nurodyta:
+
+
+1) įmonės veiklos strategijos, įmonės veiklos tikslų įgyvendinimo rezultatai;
+
+
+
+
+2) įmonės investicijos per finansinius metus;
+
+
+
+
+3) įvykiai, turintys esminę reikšmę įmonės veiklai per finansinius metus;
+
+
+
+
+4) įmonės veiklos planai ir prognozės;
+
+
+
+
+5) galimi numatyti esminiai rizikos veiksniai ir jų sumažinimo priemonės;
+
+
+
+
+6) įmonėje įdiegta vidaus kontrolės sistema;
+
+
+
+
+7) įmonės turto vertės padidėjimas arba sumažėjimas (nurodomos šio turto vertės padidėjimo arba sumažėjimo priežastys);
+
+
+
+
+8) įmonės sandoriai (kartu nurodoma, kokie sandoriai yra nesusiję su įprastine įmonės veikla);
+
+
+
+
+9) įmonės filialai ir atstovybės, jeigu jų yra, šių padalinių veikla ir veiklos rezultatai;
+
+
+
+
+10) darbuotojų skaičiaus įmonėje pasikeitimas ir sukurtų naujų darbo vietų skaičius;
+
+
+
+
+11) kita teisės aktuose nustatyta informacija.
+
+
+
+
+
+
+3. Įmonės veiklos ataskaitoje taip pat gali būti nurodyta informacija, kurią nustato įmonės savininko teises ir pareigas įgyvendinanti institucija. 
+
+
+
+
+4. Jeigu kuri nors iš šio straipsnio 2 dalyje nurodytos informacijos įmonėje laikoma komercine (gamybine) paslaptimi ar priskirta konfidencialiai informacijai, įmonės veiklos ataskaitoje tokia informacija nenurodoma ir paaiškinama, kodėl tokia informacija nenurodoma. 
+
+
+
+
+5. Įmonės veiklos ataskaita yra viešas dokumentas. Kartu su įmonės metinių finansinių ataskaitų rinkiniu ji turi būti pateikiama juridinių asmenų registrui ir per 4 mėnesius nuo finansinių metų pabaigos turi būti paskelbta įmonės interneto svetainėje.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
-
-
-2. Įmonės veiklos ataskaitoje turi būti pateikiama įmonės veiklos per ataskaitinius finansinius metus apžvalga, informacija apie darbuotojų skaičiaus įmonėje pasikeitimą (naujų darbo vietų sukūrimą), apie įmonės turto padidėjimą arba sumažėjimą, nurodytos šio turto padidėjimo arba sumažėjimo priežastys, įmonės nuosavo kapitalo dydis ataskaitinių finansinių metų pradžioje ir pabaigoje, taip pat informacija apie įmonės filialus ir atstovybes bei svarbiausius įvykius įmonėje ataskaitiniais finansiniais metais.
-
-
-
-
-3. Įmonės savininko teises ir pareigas įgyvendinanti institucija turi teisę nustatyti papildomus informacijos, kuri turi būti pateikiama įmonės veiklos ataskaitoje, reikalavimus. 
- 
-
-
 
 
 
@@ -1456,7 +1520,10 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-3. Sprendimą likviduoti įmonę priėmusi įmonės savininko teises ir pareigas įgyvendinanti institucija, teismas arba juridinių asmenų registro tvarkytojas, kai jų iniciatyva teismas priima sprendimą likviduoti įmonę, privalo paskirti likvidatorių. Nuo likvidatoriaus paskyrimo įmonės valdymo organai netenka savo įgaliojimų.
+3. Sprendimą likviduoti įmonę priėmusi įmonės savininko teises ir pareigas įgyvendinanti institucija arba teismas privalo paskirti likvidatorių. Nuo likvidatoriaus paskyrimo įmonės valdymo organai netenka savo įgaliojimų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
+ 
 
 
 
@@ -1476,7 +1543,18 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-7. Apie sprendimą likviduoti įmonę turi būti viešai paskelbta įstatuose nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą įstatuose nurodytame dienraštyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
+7. Jeigu įmonės likvidavimo pagrindas yra juridinių asmenų registro tvarkytojo sprendimas, įmonė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva. 
+Papildyta straipsnio dalimi:
+Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
+ 
+
+
+
+
+8. Apie sprendimą likviduoti įmonę turi būti viešai paskelbta įstatuose nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą įstatuose nurodytame dienraštyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
+ 
 
 
 1) įmonės pavadinimas;
@@ -1506,12 +1584,17 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-8. Apie likvidavimą pranešama juridinių asmenų registrui teisės aktų nustatyta tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti įmonę priėmimo įmonė įgyja likviduojamos įmonės statusą, o jo netenka įmonę likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti. Likvidavimo atšaukimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui. 
+9. Apie likvidavimą pranešama juridinių asmenų registrui teisės aktų nustatyta tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti įmonę priėmimo įmonė įgyja likviduojamos įmonės statusą, o jo netenka įmonę likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti. Likvidavimo atšaukimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
+ 
 
 
 
 
-9. Likviduojamos įmonės kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos valstybės įmonės kreditorių reikalavimus, likęs turtas perduodamas valstybės įmonės savininko teises ir pareigas įgyvendinančiai institucijai, jeigu Vyriausybė nenutaria kitaip. Patenkinus visus likviduojamos savivaldybės įmonės kreditorių reikalavimus, likęs turtas savivaldybės tarybos sprendimu perduodamas kitiems savivaldybės administravimo subjektams.
+10. Likviduojamos įmonės kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos valstybės įmonės kreditorių reikalavimus, likęs turtas perduodamas valstybės įmonės savininko teises ir pareigas įgyvendinančiai institucijai, jeigu Vyriausybė nenutaria kitaip. Patenkinus visus likviduojamos savivaldybės įmonės kreditorių reikalavimus, likęs turtas savivaldybės tarybos sprendimu perduodamas kitiems savivaldybės administravimo subjektams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
  
 
 
@@ -1720,3 +1803,13 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 15 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 24 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3, 4, 6, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24 ir 26 straipsnių pakeitimo įstatymas
