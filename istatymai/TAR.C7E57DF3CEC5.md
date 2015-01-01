@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2014-12-04 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-01-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -355,7 +355,9 @@ INVESTUOTOJŲ TEISĖS IR INVESTICIJŲ APSAUGA
 
 
 
-3. Užsienio investuotojo prašymu atlyginimas jam išmokamas bet kuria užsienio valiuta, dėl kurios yra skelbiama Londono tarpbankinės rinkos skolinimosi palūkanų norma (LIBOR). Atlyginimo suma perskaičiuojama pagal Lietuvos banko skelbtą oficialų lito kursą užsienio valiutos atžvilgiu vertinimo dieną. Į atlyginimo sumą įskaičiuojamos palūkanos, lygios atlygintino paėmimo dieną skelbtai atitinkamos valiutos Londono tarpbankinės rinkos skolinimosi palūkanų normai (LIBOR), už laikotarpį, kurio trukmė artimiausia vėlavimo laikotarpiui. Atlyginimas be apribojimų gali būti pervedamas į užsienį. 
+3. Užsienio investuotojo prašymu atlyginimas jam išmokamas bet kuria užsienio valiuta, dėl kurios yra skelbiama Londono tarpbankinės rinkos skolinimosi palūkanų norma (LIBOR). Atlyginimo suma perskaičiuojama pagal Europos centrinio banko skelbtą oficialų euro ir užsienio valiutų kursą vertinimo dieną, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutų santykį. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į eurus pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutų santykį, jeigu kiti teisės aktai nenustato kitaip. Lietuvos banko paskelbtas orientacinis euro ir užsienio valiutų santykis apskaitoje taikomas nuo kitos darbo dienos po jo paskelbimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
  
 
 
@@ -567,11 +569,12 @@ Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010IS
 
 
 
-6) dėl ne mažesnių kaip 5 mln. litų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
+6) dėl ne mažesnių kaip 1 448 100 eurų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
 Straipsnio punkto pakeitimai:
 Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
 Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
  
 
 
@@ -784,7 +787,10 @@ INVESTAVIMAS SUDARANT VALDŽIOS IR PRIVATAUS SUBJEKTŲ PARTNERYSTĖS SUTARTIS
 
 
 
-9. Sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 200 mln. litų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu.
+9. Sprendimą dėl valdžios ir privataus subjektų partnerystės, pagal kurią valstybė prisiima didesnius kaip 58 000 000 eurų turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal valdžios ir privataus subjektų partnerystės sutartį), priima Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės siūlymu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
+ 
 
 
 
@@ -1019,3 +1025,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 7, 13 ir 15-2 straipsnių pakeitimo įstatymas
