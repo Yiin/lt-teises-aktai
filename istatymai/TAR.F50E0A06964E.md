@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS LAISVĖS PREMIJOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2016-12-20
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 117-5506, i. k. 1111010ISTA0XI-1584
+ 
 LIETUVOS RESPUBLIKOS 
 LAISVĖS PREMIJOS 
 ĮSTATYMAS
@@ -58,7 +62,10 @@ priima šį Lietuvos Respublikos laisvės premijos įstatymą.
 2 straipsnis. Premijos dydis ir skyrimo tvarka 
 
 
-1. Kiekvienais metais skiriama viena 5 000 eurų ekvivalento litais dydžio premija.
+1. Kiekvienais metais skiriama viena 5 000 eurų dydžio premija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1404, 2014-12-09, paskelbta TAR 2014-12-15, i. k. 2014-19670
+ 
 
 
 
@@ -146,3 +153,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1404, 2014-12-09, paskelbta TAR 2014-12-15, i. k. 2014-19670
+Lietuvos Respublikos laisvės premijos įstatymo Nr. XI-1584 2 straipsnio pakeitimo įstatymas
