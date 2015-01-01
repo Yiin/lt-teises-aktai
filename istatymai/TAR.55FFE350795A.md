@@ -21,7 +21,7 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-12-14 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 6-212, i. k. 1071010ISTA00X-1409
  
@@ -703,15 +703,19 @@ Komercinės veiklos subjektai, pažeidę šio įstatymo reikalavimus, atsako ši
 13 straipsnis. Baudos ir įspėjimas
 
 
-1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti nuo vieno tūkstančio iki trisdešimties tūkstančių litų baudą, jeigu ši bauda neviršija 3 procentų komercinės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda, komercinės veiklos subjektams gali būti skiriama didesnė, iki vieno šimto dvidešimties tūkstančių litų, bauda, jeigu ši bauda neviršija 6 procentų komercinės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Komercinės veiklos subjektui, kuris vykdo komercinę veiklą trumpiau negu vienus metus, didžiausia galima skirti bauda apskaičiuojama pagal jo einamaisiais finansiniais metais gautas pajamas. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai. 
+1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų baudą, jeigu ši bauda neviršija 3 procentų komercinės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda, komercinės veiklos subjektams gali būti skiriama didesnė, iki trisdešimt keturių tūkstančių septynių šimtų penkiasdešimt keturių eurų, bauda, jeigu ši bauda neviršija 6 procentų komercinės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Komercinės veiklos subjektui, kuris vykdo komercinę veiklą trumpiau negu vienus metus, didžiausia galima skirti bauda apskaičiuojama pagal jo einamaisiais finansiniais metais gautas pajamas. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
+Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
  
 
 
 
 
-2. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama vieno tūkstančio litų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną.
+2. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
+ 
 
 
 
@@ -742,9 +746,11 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-7. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai buvo įspėta dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda nuo vieno tūkstančio iki dešimties tūkstančių litų.
+7. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai buvo įspėta dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Papildyta straipsnio dalimi:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
+Straipsnio dalies pakeitimai:
+Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
  
 
 
@@ -1157,3 +1163,8 @@ Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
 Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 1, 2, 5, 6, 7, 13, 15, 16, 18, 20, 22, 23 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13 straipsnio pakeitimo įstatymas
