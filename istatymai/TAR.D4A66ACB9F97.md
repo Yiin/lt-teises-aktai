@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2014-10-18 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -47,13 +47,15 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams, kreipiantis dėl piniginės socialinės paramos skyrimo arba valstybės paramos būstui įsigyti ar išsinuomoti gavimo.
-
-
+Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams, kreipiantis dėl piniginės socialinės paramos skyrimo arba paramos būstui įsigyti ar išsinuomoti gavimo.
 Straipsnio pakeitimai:
 Nr. XI-819, 2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 Nr. XI-1052, 2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
 Nr. XII-271, 2013-05-09, Žin., 2013, Nr. 54-2676 (2013-05-25)
+
+
+Straipsnio pakeitimai:
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
  
 
 
@@ -202,12 +204,19 @@ TURTO DEKLARAVIMAS
 
 
 
-27) asmenys, aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės kampanijos dalyviui per politinę kampaniją neviršija 40 litų;
+27) asmenys, aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės kampanijos dalyviui per politinę kampaniją neviršija 12 eurų; 
+TAR pastaba. 27 punkto nuostatos taikomos deklaruojant 2015 metų ir vėlesnių metų turtą.
+Straipsnio punkto pakeitimai:
+Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+ 
 
 
 
 
-28) gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti pagal Valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymą, ir jų šeimos nariai;
+28) gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą (toliau – Paramos būstui įsigyti ar išsinuomoti įstatymas), ir jų šeimos nariai;
+Straipsnio punkto pakeitimai:
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+ 
 
 
 
@@ -252,7 +261,11 @@ TURTO DEKLARAVIMAS
 
 
 
-37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 1 200 litų.
+37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 360 eurų.
+TAR pastaba. 37 punkto nuostatos taikomos deklaruojant 2015 metų ir vėlesnių metų turtą.
+Straipsnio punkto pakeitimai:
+Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+ 
 
 
 
@@ -295,7 +308,7 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 3 straipsnis. Deklaruojamas turtas
 
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27, 29–37 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
+1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27–37 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
 
 
 1) nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį;
@@ -308,29 +321,33 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 
 
 
-3) pinigines lėšas (toliau – lėšos), turimas bankuose ir kitose kredito įstaigose ir ne bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 5 000 litų;
+3) pinigines lėšas (toliau – lėšos), turimas bankuose ir kitose kredito įstaigose bei ne bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 1 500 eurų;
 
 
 
 
-4) pasiskolintas ir negrąžintas lėšas, jeigu jų bendra suma viršija 5 000 litų;
+4) pasiskolintas ir negrąžintas lėšas, jeigu jų bendra suma viršija 1 500 eurų;
 
 
 
 
-5) paskolintas ir nesusigrąžintas lėšas, jeigu jų bendra suma viršija 5 000 litų;
+5) paskolintas ir nesusigrąžintas lėšas, jeigu jų bendra suma viršija 1 500 eurų;
 
 
 
 
-6) meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 5 000 litų;
+6) meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 1 500 eurų;
 
 
 
 
-7) vertybinius popierius, jeigu jų bendra vertė viršija 5 000 litų.
+7) vertybinius popierius, jeigu jų bendra vertė viršija 1 500 eurų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+ 
 
 
 
@@ -343,19 +360,23 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 
 
 
-2) lėšas, turimas ne Lietuvos Respublikos bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 5 000 litų;
+2) lėšas, turimas ne Lietuvos Respublikos bankuose ir kitose kredito įstaigose, jeigu jų bendra suma viršija 1 500 eurų;
 
 
 
 
-3) meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 5 000 litų;
+3) meno kūrinius, brangakmenius, juvelyrinius dirbinius, tauriuosius metalus, kurių vieneto vertė viršija 1 500 eurų;
 
 
 
 
 4) šio straipsnio 1 dalies 4, 5 ir 7 punktuose nurodytą turtą.
+TAR pastaba. 2 dalies nuostatos taikomos deklaruojant 2015 metų ir vėlesnių metų turtą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+ 
 
 
 
@@ -491,17 +512,26 @@ Nr. XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
 
 
 
-3. Gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai privalo turimą turtą ir gautas pajamas deklaruoti Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatyme nustatytais atvejais.
+3. Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai privalo turimą turtą ir gautas pajamas deklaruoti Paramos būstui įsigyti ar išsinuomoti įstatyme nustatytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+ 
 
 
 
 
-4. Gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja mėnesio, einančio prieš mėnesį, kuriuo pateikiamas prašymas suteikti valstybės paramą būstui įsigyti ar išsinuomoti, paskutinę dieną turimą turtą ir gautas pajamas, nurodytas Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnyje, už vienus metus (12 paskutinių mėnesių) iki prašymo suteikti valstybės paramą būstui įsigyti ar išsinuomoti pateikimo dienos.
+4. Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš metus, kuriais pateikiamas prašymas suteikti paramą būstui įsigyti ar išsinuomoti, gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas). Kiekvienais kitais metais po prašymo suteikti paramą būstui įsigyti ar išsinuomoti pateikimo, deklaruojant praėjusių kalendorinių metų gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas), deklaracija už kalendorinius metus teikiama iki einamųjų metų gegužės 1 dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+ 
 
 
 
 
-5. Gyventojai, pageidaujantys gauti piniginę socialinę paramą, taip pat gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja turtą (įskaitant gautas pajamas) pateikdami mokesčio administratoriui du deklaracijos egzempliorius. Vietos mokesčio administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį deklaracijos egzempliorių gyventojai pateikia savivaldybės institucijai, priimančiai sprendimą dėl piniginės socialinės paramos skyrimo ar valstybės paramos būstui įsigyti ar išsinuomoti teikimo.
+5. Gyventojai, pageidaujantys gauti piniginę socialinę paramą, taip pat gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja turtą (įskaitant gautas pajamas) pateikdami mokesčio administratoriui du deklaracijos egzempliorius. Vietos mokesčio administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį deklaracijos egzempliorių gyventojai pateikia savivaldybės institucijai, priimančiai sprendimą dėl piniginės socialinės paramos skyrimo ar paramos būstui įsigyti ar išsinuomoti teikimo. Gyventojas, pageidaujantis gauti paramą būstui įsigyti ar išsinuomoti, mokesčių administratoriui gali teikti vieną deklaracijos egzempliorių arba turtą (įskaitant gautas pajamas) deklaruoti elektroniniu būdu. Tokiais atvejais, jeigu yra gyventojo rašytinis sutikimas, į vietos mokesčio administratorių dėl deklaracijos duomenų išrašo pateikimo kreipiasi savivaldybės institucija, priimanti sprendimą dėl paramos būstui įsigyti ar išsinuomoti suteikimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+ 
 
 
 
@@ -882,3 +912,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1212, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14275
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 7-2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2, 3 ir 7 straipsnių pakeitimo įstatymas
