@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
  
@@ -268,7 +268,10 @@ Biomedicininiai tyrimai gali būti atliekami tik pagal šiuos reikalavimus, kai:
 
 
 
-4) yra tyrėjo ir biomedicininių tyrimų užsakovo civilinės atsakomybės draudimas dėl galimos žalos tiriamajam;
+4) šio įstatymo 11 straipsnio 2 ir 3 dalyse nustatytais atvejais yra civilinės atsakomybės draudimas dėl galimos žalos tiriamajam atlyginimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+ 
 
 
 
@@ -373,7 +376,9 @@ Siekiant užtikrinti tiriamojo interesų apsaugą, biomedicininiai tyrimai atlie
 
 
 
-5) pagrindinis tyrėjas ir biomedicininių tyrimų užsakovas yra apsidraudę civilinę atsakomybę dėl žalos tiriamojo sveikatai ir mirties žalos, padarytos biomedicininio tyrimo metu, atlyginimo. 
+5) šio įstatymo 11 straipsnio 2 ir 3 dalyse nustatytais atvejais pagrindinis tyrėjas ir biomedicininių tyrimų užsakovas arba sveikatos priežiūros įstaiga yra apsidraudę civilinę atsakomybę dėl galimos žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo.
+Straipsnio punkto pakeitimai:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
  
 
 
@@ -493,9 +498,10 @@ Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010IS
 
 
 
-2. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl tiriamajam biomedicininio tyrimo metu galinčios atsirasti žalos sudarydami pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudikais, teisės aktų nustatyta tvarka turinčiais teisę vykdyti pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomąjį draudimą. Šis reikalavimas taikomas tik tais atvejais, kai biomedicininiai tyrimai atliekami su gyvais žmonėmis.
+2. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo, sudarydami pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudikais, teisės aktų nustatyta tvarka turinčiais teisę vykdyti pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomąjį draudimą. Šis reikalavimas taikomas tik tais atvejais, kai atliekamas klinikinis vaistinio preparato tyrimas, klinikinis medicinos prietaiso tyrimas arba bet kuris kitas biomedicininis tyrimas, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1692, 2011-11-17, Žin., 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
  
@@ -503,9 +509,18 @@ Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010IS
 
 
 
-3. Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, tvirtina Vyriausybė ar jos įgaliota institucija. 
+3. Klinikinį vaistinio preparato tyrimą, klinikinį medicinos prietaiso tyrimą arba bet kurį kitą biomedicininį tyrimą, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, taip pat leidžiama atlikti, jeigu sveikatos priežiūros įstaigos, kuri pati arba jos darbuotojas yra tokio tyrimo užsakovas arba jos darbuotojas yra tyrėjas tokiame tyrime, civilinės atsakomybės už pacientams padarytą žalą draudimo sutartyje yra numatytas žalos, galinčios atsirasti tokių tyrimų metu, atlyginimas. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus. 
+Papildyta straipsnio dalimi:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+ 
+
+
+
+
+4. Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, tvirtina Vyriausybė ar jos įgaliota institucija. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
  
 
 
@@ -605,12 +620,33 @@ Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010IST
 
 
 
-3. Lietuvos bioetikos komitetas Sveikatos apsaugos ministerijos nustatyta tvarka atlieka biomedicininių tyrimų apskaitą, kaupia, saugo ir teikia informaciją apie juos užtikrindamas konfidencialios informacijos apsaugą, taip pat rengia ir tvirtina tipines dokumentų formas.
+3. Leidimus atlikti biomedicininius tyrimus ir pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus Lietuvos bioetikos komitetas išduoda, kai yra teigiama Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės išvada. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų, 4 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai. Sveikatos apsaugos ministro nustatytu terminu ir tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo sveikatos priežiūros specialistų asociacijos, o socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos ir ekspertų darbo apmokėjimo tvarką nustato sveikatos apsaugos ministras. 
+Papildyta straipsnio dalimi:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+ 
 
 
 
 
-4. Vyriausybė gali sudaryti specialias laikinąsias komisijas atskiroms bioetikos problemoms spręsti.
+4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario kadencija – 4 metai. Tas pats asmuo Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nariu gali būti ne daugiau kaip dvi kadencijas iš eilės. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario įgaliojimai nutrūksta, kai pasibaigia jo kadencija, kai jis atsistatydina arba kai jį atšaukia sveikatos apsaugos ministras jo kandidatūrą pasiūliusios asociacijos ar institucijos teikimu, kai jis nebegali eiti Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario pareigų dėl ligos ar miršta. Tokiais atvejais, jeigu Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės kadencija nepasibaigusi, iki jos pabaigos siūloma nauja Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario kandidatūra ir naujas šios grupės narys tvirtinamas šio įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+ 
+
+
+
+
+5. Lietuvos bioetikos komitetas Sveikatos apsaugos ministerijos nustatyta tvarka atlieka biomedicininių tyrimų apskaitą, kaupia, saugo ir teikia informaciją apie juos užtikrindamas konfidencialios informacijos apsaugą, taip pat rengia ir tvirtina tipines dokumentų formas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+ 
+
+
+
+
+6. Vyriausybė gali sudaryti specialias laikinąsias komisijas atskiroms bioetikos problemoms spręsti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
  
 
 
@@ -900,3 +936,8 @@ Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 1, 2, 4, 12, 13, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1692, 2011-11-17, Žin., 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 11 straipsnio pakeitimo ir 20 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 4, 6, 11 ir 13 straipsnių pakeitimo įstatymas
