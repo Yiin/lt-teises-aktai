@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
  
@@ -177,9 +177,10 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius p
 
 
 
-4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Valstybės sienos apsaugos tarnybos ir kariuomenės reagavimo į šiuos incidentus bei pažeidimus tvarką nustato kiti teisės aktai.
+4. Agresija nelaikomas Lietuvos Respublikos ginkluotųjų pajėgų, esančių užsienyje, užpuolimas, nekeliantis rimtos grėsmės Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei. Agresija taip pat nelaikomi vietinio pobūdžio ginkluoti incidentai ir valstybės sienos pažeidimai, pagal savo pobūdį neprilygstantys šio straipsnio 2 dalyje išvardytiems agresijos aktams. Sprendimų dėl kariuomenės panaudojimo reaguojant į tokius incidentus ir pažeidimus priėmimo ir įgyvendinimo tvarką nustato Karinės jėgos naudojimo statutas.
 Straipsnio dalies pakeitimai:
 Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
+Nr. XII-1442, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20782
  
 
 
@@ -398,3 +399,8 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1442, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20782
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 5 straipsnio pakeitimo įstatymas
