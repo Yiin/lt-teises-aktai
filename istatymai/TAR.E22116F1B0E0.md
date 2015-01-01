@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2014-10-23 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -73,12 +73,18 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-3. Akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 150 tūkst. litų. Jos akcijos gali būti platinamos bei jomis prekiaujama viešai, vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais.
+3. Akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 40 tūkstančių eurų. Jos akcijos gali būti platinamos ir jomis prekiaujama viešai, vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+ 
 
 
 
 
-4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 10 tūkst. litų. Joje turi būti mažiau kaip 250 akcininkų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jei įstatymai nenustato kitaip. Akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams ir kreditoriams nėra laikomas vertybinių popierių viešu siūlymu.
+4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Joje turi būti mažiau kaip 250 akcininkų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams ir kreditoriams nėra laikomas vertybinių popierių viešu siūlymu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+ 
 
 
 
@@ -2965,7 +2971,10 @@ Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 
 
-6. Akcijos nominali vertė turi būti išreikšta litais be centų. 
+6. Akcijos nominali vertė turi būti išreikšta eurais euro centų tikslumu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+ 
 
 
 
@@ -3358,7 +3367,10 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-2. Akcijų pasirašymo sutartis yra paprastos rašytinės formos taip pat ir tais atvejais, kai visa ar dalis pasirašytų akcijų emisijos kainos apmokama nepiniginiu įnašu – nekilnojamuoju turtu.
+2. Akcijų pasirašymo sutartis yra paprastos rašytinės formos, išskyrus atvejus, kai Civilinis kodeksas nustato privalomą notarinę formą (visa ar dalis pasirašytų akcijų emisijos kainos apmokama nepiniginiu įnašu – nekilnojamuoju turtu).
+Straipsnio dalies pakeitimai:
+Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
+ 
 
 
 
@@ -3772,7 +3784,18 @@ Nr. X-715, 2006-06-22, Žin., 2006, Nr. 77-2964 (2006-07-14)
 
 
 
-10. Jei uždarosios akcinės bendrovės akcijos perleidžiamos kitu įstatymų nustatytu būdu (ne pardavimo) arba vykdant teismo sprendimą, šis straipsnis netaikomas, tačiau bet kuriuo akcijų perleidimo atveju akcininkų skaičius uždarojoje akcinėje bendrovėje negali būti didesnis nei nustatyta šio Įstatymo 2 straipsnio 4 dalyje.
+10. Uždarosios akcinės bendrovės akcijų pirkimo–pardavimo sutartis yra paprastos rašytinės formos, išskyrus atvejus, kai Civilinis kodeksas nustato privalomą notarinę formą. 
+Papildyta straipsnio dalimi:
+Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
+ 
+
+
+
+
+11. Jei uždarosios akcinės bendrovės akcijos perleidžiamos kitu įstatymų nustatytu būdu (ne pardavimo) arba vykdant teismo sprendimą, šis straipsnis netaikomas, tačiau bet kuriuo akcijų perleidimo atveju akcininkų skaičius uždarojoje akcinėje bendrovėje negali būti didesnis nei nustatyta šio Įstatymo 2 straipsnio 4 dalyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
+ 
 
 
 Straipsnio pakeitimai:
@@ -5992,7 +6015,10 @@ BAIGIAMOSIOS NUOSTATOS ir įstatymo įsigaliojimas
 
 
 
-2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių viešas platinimas nepatenka į vertybinių popierių rinką reglamentuojančių teisės aktų reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė viršija 350 tūkstančių litų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio dokumento parengti nereikalaujama.
+2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių viešas platinimas nepatenka į vertybinių popierių rinką reglamentuojančių teisės aktų reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė viršija 100 tūkstančių eurų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio dokumento parengti nereikalaujama. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+ 
 
 
 
@@ -6016,6 +6042,22 @@ Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 
 
 6. Jeigu visuotinio akcininkų susirinkimo sprendimas pakeisti bendrovės įstatus priimtas iki 2014 m. gruodžio 31 d., tačiau pakeisti įstatai juridinių asmenų registro tvarkytojui numatomi pateikti po šios datos, įstatinio kapitalo dydis ir akcijų nominali vertė įstatuose nurodomi eurais euro centų tikslumu. Akcijų nominalios vertės išraiška litais pakeičiama į išraišką eurais euro centų tikslumu Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatyme nustatyta tvarka. Įstatinio kapitalo dydis lygus visų pasirašytų bendrovės akcijų nominalių verčių eurais euro centų tikslumu sumai. 
+Papildyta straipsnio dalimi:
+Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+ 
+
+
+
+
+7. Bendrovių, įsteigtų iki 2014 m. gruodžio 31 d., įstatų keitimą, kai jie keičiami dėl įstatuose nurodyto įstatinio kapitalo dydžio ir akcijų nominalios vertės išraiškos litais keitimo į išraišką eurais, ir kitų dėl euro įvedimo atsirandančių pareigų vykdymą šis Įstatymas reglamentuoja tiek, kiek Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių įstatinio kapitalo ir vertybinių popierių nominalios vertės išraiškos eurais ir šių bendrovių įstatų keitimo įstatymas nenustato kitaip. 
+Papildyta straipsnio dalimi:
+Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+ 
+
+
+
+
+8. Nuo 2015 m. sausio 1 d. juridinių asmenų registrui pateikiamuose bendrovių įstatuose įstatinio kapitalo dydis ir akcijų nominali vertė turi būti nurodyti eurais euro centų tikslumu.
 Papildyta straipsnio dalimi:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
  
