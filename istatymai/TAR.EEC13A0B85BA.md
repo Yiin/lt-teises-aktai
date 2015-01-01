@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -378,7 +378,10 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 22 straipsnis. Valstybės pagalbos dydžio apribojimai
 
-1. Šiame įstatyme nustatyta socialinių įmonių teisė gauti subsidijas nepanaikina teisės gauti kituose įstatymuose ar teisės aktuose nustatytą valstybės ar Europos Sąjungos pagalbą, atitinkančią Sutarties dėl Europos Sąjungos veikimo 107 straipsnyje nustatytus kriterijus, tačiau bendras šios pagalbos dydis vienai įmonei per trejus metus iš eilės neturi viršyti 51 750 000 litų, o per vienus metus – 17 250 000 litų. Valstybės pagalba mokymui negali sudaryti daugiau kaip 6 900 000 litų bendros valstybės pagalbos dydžio vienam mokymo projektui. Jeigu valstybės ar Europos Sąjungos finansinė pagalba teikiama ne subsidijomis, ši pagalba išreiškiama subsidijos ekvivalentu.
+1. Šiame įstatyme nustatyta socialinių įmonių teisė gauti subsidijas nepanaikina teisės gauti kituose įstatymuose ar teisės aktuose nustatytą valstybės ar Europos Sąjungos pagalbą, atitinkančią Sutarties dėl Europos Sąjungos veikimo 107 straipsnyje nustatytus kriterijus, tačiau bendras šios pagalbos dydis vienai įmonei per trejus metus iš eilės neturi viršyti 15 000 000 eurų, o per vienus metus – 5 000 000 eurų. Valstybės pagalba mokymui negali sudaryti daugiau kaip 2 000 000 eurų bendros valstybės pagalbos dydžio vienam mokymo projektui. Jeigu valstybės ar Europos Sąjungos finansinė pagalba teikiama ne subsidijomis, ši pagalba išreiškiama subsidijos ekvivalentu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
+ 
 
 2. Be šiame įstatyme numatytos valstybės pagalbos, socialinės įmonės turi teisę gauti kitą, negu nustatyta šio įstatymo 14 straipsnyje, pagalbą šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytų asmenų darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumai padengti, tačiau bendras šios pagalbos dydis neturi viršyti 100 procentų šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytų asmenų darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo valstybinio socialinio draudimo įmokų sumos.
 
@@ -479,4 +482,9 @@ Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnio papildymo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1771, 2011-12-01, Žin., 2011, Nr. 155-7352 (2011-12-20), i. k. 1111010ISTA0XI-1771
 Lietuvos Respublikos socialinių įmonių įstatymo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1146, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13455
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 22 straipsnio pakeitimo įstatymas
 
