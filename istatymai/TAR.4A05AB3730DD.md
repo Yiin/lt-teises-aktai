@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-11-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2017-02-28
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -375,9 +375,10 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 6 straipsnis. Mokėjimo įstaigos ribotos veiklos licencija
 
 
-1. Mokėjimo įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės šio įstatymo 10 straipsnyje nustatytomis sąlygomis kitose valstybėse narėse teikti mokėjimo paslaugų. Mokėjimo įstaigos, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neturi viršyti 10 mln. litų per mėnesį, išskyrus šio straipsnio 6 dalyje nustatytą atvejį. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 9, 13 ir 14 straipsnių nuostatos. Mokėjimo įstaigos ribotos veiklos licencijos išdavimo ir keitimo tvarką nustato šis įstatymas ir priežiūros institucijos priimti teisės aktai. 
+1. Mokėjimo įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės šio įstatymo 10 straipsnyje nustatytomis sąlygomis kitose valstybėse narėse teikti mokėjimo paslaugų. Mokėjimo įstaigos, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neturi viršyti 3 000 000 eurų per mėnesį, išskyrus šio straipsnio 6 dalyje nustatytą atvejį. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 9, 13 ir 14 straipsnių nuostatos. Mokėjimo įstaigos ribotos veiklos licencijos išdavimo ir keitimo tvarką nustato šis įstatymas ir priežiūros institucijos priimti teisės aktai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
+Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
  
 
 
@@ -401,9 +402,10 @@ Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 
 
 
-3) dokumentai, kuriais įrodoma, kad mokėjimo įstaigos, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla dar nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neviršija (neviršys) 10 mln. litų per mėnesį. 
+3) dokumentai, kuriais įrodoma, kad mokėjimo įstaigos, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jei veikla dar nevykdoma, verslo plane planuojamų) mokėjimo operacijų sumos vidurkis neviršija (neviršys) 3 000 000 eurų per mėnesį;
 Straipsnio punkto pakeitimai:
 Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
+Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
  
 
 
@@ -845,20 +847,22 @@ Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010IST
 2. Mokėjimo įstaiga turi turėti minimalų nuosavą kapitalą:
 
 
-1) jeigu mokėjimo įstaiga ketina teikti tik Mokėjimų įstatymo 5 straipsnio 6 punkte nurodytas mokėjimo paslaugas, – ne mažesnį kaip 20 tūkstančių eurų (išreikštą eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį);
+1) jeigu mokėjimo įstaiga ketina teikti tik Mokėjimų įstatymo 5 straipsnio 6 punkte nurodytas mokėjimo paslaugas, – ne mažesnį kaip 20 tūkstančių eurų;
 
 
 
 
-2) jeigu mokėjimo įstaiga ketina teikti Mokėjimų įstatymo 5 straipsnio 7 punkte nurodytas mokėjimo paslaugas, – ne mažesnį kaip 50 tūkstančių eurų (išreikštą eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį);
+2) jeigu mokėjimo įstaiga ketina teikti Mokėjimų įstatymo 5 straipsnio 7 punkte nurodytas mokėjimo paslaugas, – ne mažesnį kaip 50 tūkstančių eurų;
 
 
 
 
-3) jeigu mokėjimo įstaiga ketina teikti Mokėjimų įstatymo 5 straipsnio 1–5 punktuose nurodytas mokėjimo paslaugas, – ne mažesnį kaip 125 tūkstančiai eurų (išreikštą eurais pagal Lietuvos banko skelbiamą oficialų lito ir euro santykį).
+3) jeigu mokėjimo įstaiga ketina teikti Mokėjimų įstatymo 5 straipsnio 1–5 punktuose nurodytas mokėjimo paslaugas, – ne mažesnį kaip 125 tūkstančiai eurų.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
  
-
-
 
 
 
@@ -1587,7 +1591,10 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 
 
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento bendrųjų metinių mokėjimo paslaugų pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 1 000 litų;
+2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento bendrųjų metinių mokėjimo paslaugų pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 289 eurų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
+ 
 
 
 
@@ -1845,3 +1852,8 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 4, 6 ir 8 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas
