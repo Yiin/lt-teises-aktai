@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2012-09-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -1246,12 +1246,18 @@ Nr. IX-1513, 2003-04-17, Žin., 2003, Nr. 42-1917 (2003-05-01), i. k. 1031010IST
 
 
 
-2. Bendrovės likvidavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai bei bendrovės įstatai.
+2. Bendrovės likvidavimo tvarką nustato šis ir kiti Lietuvos Respublikos įstatymai bei bendrovės įstatai. Kai sprendimą likviduoti bendrovę priima juridinių asmenų registro tvarkytojas, bendrovė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva.
+Straipsnio dalies pakeitimai:
+Nr. XII-1079, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10452
+ 
 
 
 
 
-3. Bendrovės likvidavimo procedūras vykdo likvidacinė komisija ir jos pirmininkas. Jeigu bendrovė likviduojama teismo arba kreditorių susirinkimo nutarimu, tai likvidacinė komisija skiriama šių institucijų sprendimu. Jeigu bendrovė likviduojama pasibaigus nustatytam bendrovės veiklos terminui arba bendrovės narių susirinkimo nutarimu, tai likvidacinės komisijos funkcijas atlieka bendrovės valdyba (administracija). Narių susirinkimas turi teisę savo nuožiūra išrinkti iš bendrovės narių kitus likvidacinės komisijos narius. 
+3. Bendrovės likvidavimo procedūras vykdo likvidacinė komisija ir jos pirmininkas, išskyrus atvejus, kai sprendimą likviduoti bendrovę priima juridinių asmenų registro tvarkytojas. Jeigu bendrovė likviduojama teismo arba kreditorių susirinkimo nutarimu, tai likvidacinė komisija skiriama šių institucijų sprendimu. Jeigu bendrovė likviduojama pasibaigus nustatytam bendrovės veiklos terminui arba bendrovės narių susirinkimo nutarimu, tai likvidacinės komisijos funkcijas atlieka bendrovės valdyba (administracija). Narių susirinkimas turi teisę savo nuožiūra išrinkti iš bendrovės narių kitus likvidacinės komisijos narius.
+Straipsnio dalies pakeitimai:
+Nr. XII-1079, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10452
+ 
 
 
 
@@ -1592,3 +1598,8 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2162, 2012-06-29, Žin., 2012, Nr. 83-4336 (2012-07-14), i. k. 1121010ISTA0XI-2162
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1079, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10452
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 30 straipsnio pakeitimo įstatymas
