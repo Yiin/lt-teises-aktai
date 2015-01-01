@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -212,9 +212,10 @@ Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010IST
 
 6. Aiškinamajame rašte turi būti nurodyta, pagal kokius apskaitos standartus sudarytos finansinės ataskaitos.
 
-7. Finansinės ataskaitos sudaromos naudojant Lietuvos Respublikos piniginį vienetą – litą, o prireikus – ir litą, ir užsienio valiutą. 
+7. Finansinės ataskaitos sudaromos naudojant eurą, o prireikus – ir eurą, ir užsienio valiutą.
 Straipsnio dalies pakeitimai:
 Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
+Nr. XII-1124, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13628
  
 
 8. Finansinės ataskaitos sudaromos lietuvių kalba, o prireikus – ir užsienio kalba.
@@ -278,11 +279,15 @@ Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010IS
 
 2. Metinių finansinių ataskaitų auditas turi būti atliktas uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, jeigu jų ne mažiau kaip du rodikliai paskutinę finansinių metų dieną viršija šiuos dydžius:
 
-1) pardavimo grynosios pajamos per ataskaitinius finansinius metus – 12 mln. litų;
+1) pardavimo grynosios pajamos per ataskaitinius finansinius metus – 3 500 000 eurų;
 
-2) balanse nurodyto turto vertė – 6 mln. litų;
+2) balanse nurodyto turto vertė – 1 800 000 eurų;
 
 3) vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus – 50.
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1124, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13628
+ 
 
 3. Pardavimo grynosioms pajamoms taikoma šio įstatymo 24 straipsnio 4 dalis, o vidutiniam metiniam darbuotojų skaičiui pagal sąrašą taikoma šio įstatymo 24 straipsnio 5 dalis.
 
@@ -336,18 +341,24 @@ Kiekvienos finansinės ataskaitos pradžioje turi būti nurodyta:
 
 2) ataskaitinis laikotarpis, paskutinė ataskaitinio laikotarpio diena;
 
-3) pateikiamų skaičių (rodiklių), kurie yra finansinėje ataskaitoje, tikslumas (nurodoma, ar rodikliai pateikiami litais ar tūkstančiais litų).
+3) pateikiamų skaičių (rodiklių), kurie yra finansinėje ataskaitoje, tikslumas (nurodoma, ar rodikliai pateikiami eurais ar tūkstančiais eurų).
+Straipsnio punkto pakeitimai:
+Nr. XII-1124, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13628
  
 
 24 straipsnis. Sutrumpintos finansinės ataskaitos
 
 1. Sudaryti sutrumpintą balansą, sutrumpintą pelno (nuostolių) ataskaitą, sutrumpintą aiškinamąjį raštą ir nesudaryti pinigų srautų ataskaitos gali įmonės, kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną neviršija šių dydžių dvejus iš eilės finansinius metus, įskaitant ataskaitinius finansinius metus:
 
-1) pardavimo grynosios pajamos per ataskaitinius finansinius metus – 10 mln. litų;
+1) pardavimo grynosios pajamos per ataskaitinius finansinius metus – 2 900 000 eurų;
 
-2) balanse nurodyto turto vertė – 6 mln. litų;
+2) balanse nurodyto turto vertė – 1 800 000 eurų;
 
 3) vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus – 15.
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1124, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13628
+ 
 
 2. Šio straipsnio 1 dalies nuostata, leidžianti sudaryti sutrumpintas finansines ataskaitas ir nesudaryti pinigų srautų ataskaitos, nustojama taikyti tada, kai ne mažiau kaip du įmonės rodikliai paskutinę finansinių metų dieną viršija toje dalyje nustatytus dydžius dvejus iš eilės finansinius metus, įskaitant ataskaitinius finansinius metus.
 
@@ -530,4 +541,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 2, 15, 19, 22
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2164, 2012-06-29, Žin., 2012, Nr. 83-4338 (2012-07-14), i. k. 1121010ISTA0XI-2164
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo papildymo 24-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1124, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13628
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 15, 20, 23 ir 24 straipsnių pakeitimo įstatymas
 
