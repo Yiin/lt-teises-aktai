@@ -20,6 +20,10 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
+ 
 Nauja įstatymo redakcija nuo 2003-01-01:
 Nr. IX-1219, 2002-12-03, Žin., 2002, Nr. 123-5512 (2002-12-24)
  
@@ -109,7 +113,10 @@ Nr. XII-526, 2013-10-01, Žin., 2013, Nr. 107-5274 (2013-10-12)
 
 
 
-10. Žemės ūkio valdos ar ūkio ekonominis dydis – dydis, nustatomas bendrąjį standartinį gamybinį pelną, kurio apskaičiavimas reglamentuojamas žemės ūkio ministro nustatyta tvarka, padalijus iš ekonominio dydžio vieneto, kuris lygus 4 143 litų.
+10. Žemės ūkio valdos ar ūkio ekonominis dydis – dydis, nustatomas bendrąjį standartinį gamybinį pelną, kurio apskaičiavimas reglamentuojamas žemės ūkio ministro nustatyta tvarka, padalijus iš ekonominio dydžio vieneto, kuris lygus 1 200 eurų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1140, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13461
+ 
 
 
 
@@ -336,7 +343,6 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 
 
 19) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu;
-Papildyta nuo 2015-01-01:
 
 
 
@@ -433,7 +439,10 @@ Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
 
 
 
-5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokėtas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), suteiktas asmeniui, nelaikomam apdraustuoju, šio Įstatymo 17 straipsnio 1–9 dalyse nustatytų įmokų mokėtojai moka teritorinei ligonių kasai.
+5. Už asmeniui, nelaikomam apdraustuoju, suteiktas asmens sveikatos priežiūros paslaugas (išskyrus būtinosios medicinos pagalbos paslaugas), kurių išlaidos buvo apmokėtos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, šio Įstatymo 17 straipsnio 1–9 dalyse nustatytų įmokų mokėtojai moka Valstybinei ligonių kasai. Už būtinosios medicinos pagalbos paslaugas, suteiktas nuolatiniams Lietuvos Respublikos gyventojams, nelaikomiems apdraustaisiais, mokama iš Privalomojo sveikatos draudimo fondo biudžetui skirtų valstybės biudžeto lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
 
 
 
@@ -815,22 +824,42 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 1. Privalomojo sveikatos draudimo fondo biudžeto pajamas sudaro: 
 
 
-1) apdraustųjų privalomojo sveikatos draudimo įmokos bei už juos mokamos įmokos; 
+1) apdraustųjų privalomojo sveikatos draudimo įmokos ir už juos mokamos įmokos; 
 
 
 
 
-2) valstybės biudžeto įmokos už apdraustuosius, draudžiamus valstybės lėšomis; 
+2) valstybės biudžeto įmokos, mokamos už apdraustuosius, draudžiamus valstybės lėšomis; 
 
 
 
 
-3) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos; 
+3) valstybės biudžeto asignavimai, skiriami:
+
+
+a) Privalomojo sveikatos draudimo fondui priskirtoms valstybės funkcijoms atlikti (ortopedijos technikos priemonių įsigijimo išlaidoms kompensuoti, paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidoms apmokėti, kompensacijoms kraujo donorams ir neatlygintinai kraujo donorystei propaguoti bei Nacionalinės imunoprofilaktikos programos priemonėms finansuoti);
 
 
 
 
-4) papildomi valstybės biudžeto asignavimai; 
+b) šio Įstatymo 6 straipsnio 5 dalyje nurodytų asmenų sveikatos priežiūros išlaidoms apmokėti;
+
+
+
+
+c) šio Įstatymo 8 straipsnio 5 dalyje nurodytoms sveikatos priežiūros išlaidoms apmokėti;
+
+
+
+
+d) šio straipsnio 2 ir 3 dalyse nurodytais atvejais; 
+
+
+
+
+
+
+4) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
 
 
 
@@ -840,34 +869,58 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 
 
 
-6) valstybės biudžeto asignavimai ortopedijos technikos priemonių įsigijimo išlaidoms apmokėti;
+6) išieškotos ar grąžintos lėšos už Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą:
+
+
+a) iš sveikatos priežiūros įstaigų išieškotos ar jų grąžintos lėšos už neteisėtai suteiktas asmens sveikatos priežiūros paslaugas, už šias paslaugas neteisėtai pateiktas apmokėti sąskaitas, už neteisėtai išrašytus ir išduotus vaistus bei medicinos pagalbos priemones; 
 
 
 
 
-7) iš sveikatos priežiūros įstaigų ar vaistinių išieškotos ar jų grąžintos lėšos už neteisėtai suteiktas ar neteisėtai pateiktas apmokėti asmens sveikatos priežiūros paslaugas, neteisėtai išrašytus, išduotus ar pateiktus apmokėti vaistus ir medicinos pagalbos priemones; 
+b) iš vaistinių išieškotos ar jų grąžintos lėšos už neteisėtai išduotus vaistus bei medicinos pagalbos priemones ar neteisėtai už juos pateiktas apmokėti sąskaitas;
 
 
 
 
-8) įstatymų nustatyta tvarka iš fizinių ir juridinių asmenų išieškotos lėšos už žalą, padarytą apdraustojo sveikatai, kai apdraustojo sveikatos priežiūros paslaugų išlaidos buvo apmokėtos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų;
-
-
-
-
-9) (neteko galios nuo 2009-01-01).
-
+c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo privalomuoju sveikatos draudimu sveikatai padarytą žalą, kai už jam suteiktas sveikatos priežiūros paslaugas sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ir už kitą Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą;
 
 
 
 
 
-2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui papildomus valstybės biudžeto asignavimus, jei dėl Fondo biudžeto tvirtinimo metu nenumatytų priežasčių padidėja jo išlaidos arba sumažėja pajamos ir dėl to Fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų. 
+
+7) vaistinio preparato rinkodaros teisės turėtojų (jų atstovų) arba juridinių asmenų, turinčių didmeninio platinimo licenciją, pervestos lėšos pagal gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis, sudarytas su Valstybine ligonių kasa;
+
+
+
+
+8) kitos teisėtai gautos pajamos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
+
+
+
+
+2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui skiriamus papildomus valstybės biudžeto asignavimus, jeigu padidėja Privalomojo sveikatos draudimo fondo biudžeto išlaidos arba sumažėja šio fondo biudžeto pajamos ir dėl to Privalomojo sveikatos draudimo fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
 
 
 
 
 3. Seimas įstatymu gali skirti valstybės biudžeto lėšų visoms ūkininkų privalomojo sveikatos draudimo įmokoms, numatytoms šio Įstatymo 17 straipsnio 5 dalyje, ar jų daliai sumokėti. 
+
+
+
+
+4. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą gaunama viršplaninių pajamų ir einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rezervas sudaro ne mažiau kaip 5 procentus praėjusiais metais Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir Valstybinio socialinio draudimo fondo administravimo įstaigų į Privalomojo sveikatos draudimo fondo biudžetą pervestų pajamų, gautos viršplaninės pajamos einamaisiais metais gali būti naudojamos šio Įstatymo II skyriuje nurodytoms išlaidoms, viršijančioms Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme šioms išlaidoms numatytas einamųjų metų lėšų sumas, kompensuoti sveikatos apsaugos ministro sprendimu.
+Papildyta straipsnio dalimi:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
 
 
 Straipsnio pakeitimai:
@@ -1145,9 +1198,20 @@ Banką Lietuvos Respublikoje Valstybinė ligonių kasa ir teritorinės ligonių 
 
 
 
-7) išlaidos Valstybinio socialinio draudimo fondo sąnaudoms, skirtoms sveikatos draudimo įmokoms surinkti ir pervesti į Privalomojo sveikatos draudimo fondą, apmokėti.
+7) išlaidos Valstybinio socialinio draudimo fondo sąnaudoms, susidarančioms dėl sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, padengti; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
 
 
+
+
+
+
+8) paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidų apmokėjimas šio Įstatymo ir kitų teisės aktų nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
 
 
 
@@ -1436,7 +1500,26 @@ Valstybinė ligonių kasa atlieka šias funkcijas:
 
 
 
-8) kitas šio Įstatymo, Valstybinės ligonių kasos nuostatų ir kitų teisės aktų nustatytas funkcijas.
+8) šio Įstatymo nustatytais pagrindais ir sąlygomis užtikrina paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidų apmokėjimą per teritorines ligonių kasas; 
+Papildyta straipsnio punktu:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
+
+
+
+
+9) sudaro gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis su vaistinio preparato rinkodaros teisės turėtojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją; 
+Papildyta straipsnio punktu:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
+
+
+
+
+10) kitas šio Įstatymo, Valstybinės ligonių kasos nuostatų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+ 
 
 
 
@@ -2370,3 +2453,17 @@ Konstitucinio Teismo nutarimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2013-05-16, Žin., 2013, Nr. 52-2604 (2013-05-21)
 NUTARIMAS DĖL LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, LIETUVOS RESPUBLIKOS SVEIKATOS DRAUDIMO ĮSTATYMO, LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO IR JO PAKEITIMO ĮSTATYMO KAI KURIŲ NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1140, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13461
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 15, 21 ir 30 straipsnių pakeitimo įstatymas
