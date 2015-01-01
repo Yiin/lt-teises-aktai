@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2014-07-24 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -431,7 +431,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-3) analizuoja socialinių darbuotojų, socialinių darbuotojų padėjėjų poreikius kelti profesinę kvalifikaciją, organizuoja socialinių darbuotojų atestaciją;
+3) analizuoja socialinių darbuotojų poreikius tobulinti profesinę kompetenciją, organizuoja socialinių darbuotojų praktinės veiklos vertinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -532,7 +535,10 @@ Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA0
 
 
 
-8) rengia ir įgyvendina savivaldybės socialinių paslaugų programas ir projektus.
+8) rengia ir įgyvendina savivaldybės socialinių paslaugų priemones, numatytas savivaldybės strateginiame plėtros plane ir (arba) strateginiame veiklos plane. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -552,9 +558,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas. 
+7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas. Duomenis apie gyventojams skirtas, teikiamas ar neskirtas (nurodydamos jų neskyrimo priežastis) socialines paslaugas savivaldybės teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS). 
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
@@ -599,7 +606,10 @@ Socialinių paslaugų priežiūros departamentas vertina, prižiūri ir kontroli
 
 
 
-6) prižiūri ir kontroliuoja, kaip laikomasi licencijuojamos veiklos sąlygų;
+6) tikrina, kaip laikomasi licencijuojamos veiklos sąlygų; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -615,6 +625,19 @@ Socialinių paslaugų priežiūros departamentas vertina, prižiūri ir kontroli
 
 
 
+
+
+
+
+141 straipsnis. Lietuvos statistikos departamento kompetencija
+
+
+Lietuvos statistikos departamentas kiekvienais metais pagal suderintą su Socialinės apsaugos ir darbo ministerija statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas. 
+
+
+Papildyta straipsniu:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -798,7 +821,25 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-4. Socialinių paslaugų įstaigoje gali dirbti sielovados darbuotojas. Sielovados darbuotojas netenka teisės dirbti sielovados darbą, kai tradicinė religinė bendruomenė ar bendrija atšaukia leidimą arba siuntimą. 
+4. Socialinių paslaugų įstaigoje dirba socialiniai darbuotojai, socialinių darbuotojų padėjėjai ir kiti socialinių paslaugų srities darbuotojai, kurių pareigybių sąrašą tvirtina socialinės apsaugos ir darbo ministras, taip pat švietimo, sveikatos priežiūros specialistai ir kiti darbuotojai.       
+Papildyta straipsnio dalimi:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
+
+
+
+
+5. Socialinių paslaugų įstaigoje gali dirbti sielovados darbuotojas. Sielovados darbuotojas netenka teisės dirbti sielovados darbą, kai tradicinė religinė bendruomenė ar bendrija atšaukia leidimą arba siuntimą. 
+Papildyta straipsnio dalimi:
+Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
+
+
+
+
+5. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą. Socialinės globos įstaigos vadovo tinkamumas eiti pareigas yra periodiškai vertinamas vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu Socialinės globos įstaigų vadovų atestacijos tvarkos aprašu. 
 Papildyta straipsnio dalimi:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
  
@@ -806,9 +847,18 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-6. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
+7. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
+
+
+
+
+8. Kitoje Europos Sąjungos valstybėje narėje arba Europos ekonominės erdvės  valstybėje įsisteigusiai socialinės globos įstaigai, siekiančiai Lietuvos Respublikoje teikti socialinę globą, reikalavimas turėti licenciją Lietuvos Respublikoje netaikomas, jeigu ji turi licenciją (leidimą) teikti socialinę globą pagal savo įsisteigimo valstybės teisės aktus. 
+Papildyta straipsnio dalimi:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
@@ -816,48 +866,55 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-20 straipsnis. Socialiniai darbuotojai, socialinių darbuotojų padėjėjai 
+20 straipsnis. Socialinis darbas
 
 
-1. Socialinį darbą dirba socialinių paslaugų įstaigose dirbantys socialiniai darbuotojai, socialinių darbuotojų padėjėjai. 
-
-
-
-
-2. Socialinis darbas – tai veikla, padedanti asmeniui, šeimai spręsti savo socialines problemas pagal jų galimybes ir jiems dalyvaujant, nežeidžiant žmogiškojo orumo ir didinant jų atsakomybę, pagrįstą asmens, šeimos ir visuomenės bendradarbiavimu.
+1. Socialinis darbas yra profesinė veikla, kuri įgalina žmones, šeimas, bendruomenes ir visuomenę spręsti tarpusavio santykių ir socialines problemas, skatindama socialinę kaitą, gerindama gyvenimo kokybę ir stiprindama solidarumą bei socialinį teisingumą. 
 
 
 
 
-3. Socialinių darbuotojų padėjėjai dirba socialinį darbą pagal socialinio darbuotojo nurodymus. 
+2. Socialinį darbą dirba socialiniai darbuotojai. 
 
 
 
 
-4. Dirbti socialiniu darbuotoju turi teisę asmuo, įgijęs aukštąjį socialinio darbo ar jam prilygintą išsilavinimą.
+3. Dirbti socialiniu darbuotoju turi teisę:
+
+
+1) asmuo, įgijęs socialinio darbo kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį, arba
 
 
 
 
-5. Socialinio darbuotojo padėjėjui šio straipsnio 4 dalyje nustatytas reikalavimas yra netaikomas.
+2) asmuo, iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį ir socialinio darbuotojo kvalifikaciją ar baigęs socialinio darbo studijų programą, ar socialinės apsaugos ir darbo ministro nustatyta tvarka baigęs socialinio darbuotojo praktinei veiklai pasirengti skirtus mokymus, arba 
 
 
 
 
-6. Socialinių darbuotojų profesinė kvalifikacija periodiškai vertinama socialinių darbuotojų atestacijos metu. 
+3) asmuo, įgijęs socialinės pedagogikos kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį ar socialinio pedagogo kvalifikaciją, jeigu jis dirbs su vaikais ir (arba) socialinės rizikos šeimomis.
 
 
 
 
-7. Socialinių darbuotojų, socialinių darbuotojų padėjėjų kvalifikacinius reikalavimus, profesinės kvalifikacijos kėlimo tvarką, socialinio darbo išsilavinimui prilyginamo išsilavinimo sąrašą bei socialinių darbuotojų atestacijos tvarką nustato Vyriausybės ar jos įgaliotos institucijos patvirtinti socialinių darbuotojų ir socialinių darbuotojų padėjėjų kvalifikaciniai reikalavimai ir socialinių darbuotojų ir socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo tvarkos bei socialinių darbuotojų atestacijos tvarkos aprašai. 
+
+
+4. Socialinis darbuotojas nuolat, ne mažiau kaip 16 akademinių valandų per kalendorinius metus, tobulina profesinę kompetenciją, jo praktinė veikla vertinama socialinės apsaugos ir darbo ministro nustatyta tvarka.  
 
 
 
 
-8. Europos Sąjungos, Europos ekonominės erdvės valstybėse ar Šveicarijos Konfederacijoje išduoti aukštojo mokslo diplomai, diplomai, pažymėjimai ir kiti kvalifikaciją patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais, kad juos įgijusieji dirbtų socialiniais darbuotojais Lietuvos Respublikoje. 
+5. Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šveicarijos Konfederacijoje išduoti aukštojo mokslo diplomai, diplomai, pažymėjimai ir kiti kvalifikaciją patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais, kad juos įgijusieji dirbtų socialiniais darbuotojais Lietuvos Respublikoje.
+
+
+
+
+6. Šio straipsnio 3 ir 4 dalies reikalavimai netaikomi iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos ne ilgiau kaip 2 metams komandiruojamam į Lietuvos Respubliką socialiniam darbuotojui, jeigu jis atitinka darbovietės, iš kurios yra siunčiamas, įsisteigimo valstybės teisės aktuose nustatytus reikalavimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
-
-
 
 
 
@@ -869,73 +926,55 @@ SOCIALINĖS GLOBOS ĮSTAIGŲ LICENCIJAVIMAS
  
 
 
-21 straipsnis. Licencijų rūšys
+21 straipsnis. Veiklos licencijos 
 
 
-1. Įmonei, įstaigai, šeimynai gali būti išduodamos licencijos socialinei globai socialinės globos įstaigoje (toliau – institucinė socialinė globa) arba asmens namuose teikti. 
-
-
-
-
-2. Įmonei, įstaigai, šeimynai gali būti išduodamos šių rūšių licencijos:
-
-
-1) institucinė socialinė globa (dienos) vaikams su negalia;
+1. Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje arba kitoje Europos ekonominės erdvės valstybėje įsisteigusiam juridiniam asmeniui ar kitai organizacijai, jų padaliniui, pageidaujantiems teikti socialinę globą (toliau – įstaiga), gali būti išduodamos licencijos teikti socialinę globą socialinės globos įstaigoje (toliau – institucinė socialinė globa) arba asmens namuose.  
 
 
 
 
-2) institucinė socialinė globa (ilgalaikė, trumpalaikė) vaikams su negalia;
+2. Įstaigai gali būti išduodamos šių rūšių veiklos licencijos: 
+
+
+1) institucinė socialinė globa (dienos) vaikams su negalia, suaugusiems asmenims su negalia, senyvo amžiaus asmenims;
 
 
 
 
-3) institucinė socialinė globa (ilgalaikė, trumpalaikė) likusiems be tėvų globos vaikams, socialinės rizikos vaikams;
+2) institucinė socialinė globa (ilgalaikė, trumpalaikė) vaikams su negalia, socialinės rizikos vaikams, likusiems be tėvų globos vaikams socialinės globos įstaigoje, išskyrus šeimyną;
 
 
 
 
-4) institucinė socialinė globa (dienos) suaugusiems asmenims su negalia;
+3) institucinė socialinė globa (ilgalaikė, trumpalaikė) suaugusiems asmenims su negalia, senyvo amžiaus asmenims;
 
 
 
 
-5) institucinė socialinė globa (ilgalaikė, trumpalaikė) suaugusiems asmenims su negalia;
+4) institucinė socialinė globa (trumpalaikė) socialinės rizikos suaugusiems asmenims;
 
 
 
 
-6) institucinė socialinė globa (dienos) senyvo amžiaus asmenims;
+5) institucinė socialinė globa (ilgalaikė, trumpalaikė) likusiems be tėvų globos vaikams šeimynoje;  
 
 
 
 
-7) institucinė socialinė globa (ilgalaikė, trumpalaikė) senyvo amžiaus asmenims;
-
-
-
-
-8) institucinė socialinė globa (trumpalaikė) socialinės rizikos suaugusiems asmenims;
-
-
-
-
-9) socialinė globa vaikams su negalia namuose;
-
-
-
-
-10) socialinė globa suaugusiems asmenims su negalia ar senyvo amžiaus asmenims namuose.
+6) socialinė globa vaikams su negalia, suaugusiems asmenims su negalia, senyvo amžiaus asmenims namuose.
 
 
 
 
 
 
-3. Įmonei, įstaigai, šeimynai gali būti išduodamos kelių rūšių licencijos. 
+3. Įstaigai gali būti išduodama licencija vykdyti kelių šio straipsnio 2 dalyje nurodytų rūšių veiklą. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
-
-
 
 
 
@@ -951,65 +990,35 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 
 
-23 straipsnis. Licencijos gavimo sąlygos
+23 straipsnis. Licencijos gavimo sąlygos 
 
 
-1. Licencijai gauti reikalingi dokumentai:
-
-
-1) paraiška. Jos formą tvirtina Socialinių paslaugų priežiūros departamentas;
+1. Licencija gali būti išduodama įstaigai, tinkamai pasirengusiai teikti socialinę globą, – įstaigos numatoma teikti socialinė globa atitinka socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui ir patalpoms.
 
 
 
 
-2) įmonės, įstaigos, šeimynos steigimo dokumentų kopijos; 
+2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninėmis priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kurioje pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui ir patalpoms. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas.  
 
 
 
 
-3) dokumentų, kurių pagrindu įmonė, įstaiga, šeimyna naudosis socialinei globai skirtomis patalpomis (jei numatoma teikti institucinę socialinę globą), kopijos;
+3. Tais atvejais, kai įstaiga, išskyrus šeimyną, be socialinių paslaugų teikimo, užsiima ir kitomis, ne su socialinių paslaugų teikimu susijusiomis, veiklomis, institucinė socialinė globa turi būti teikiama patalpose, atskirtose nuo patalpų, kuriose užsiimama kitomis veiklomis.  
 
 
 
 
-4) rašytinė informacija ir dokumentų, įrodančių, kad įmonės, įstaigos, šeimynos numatoma teikti socialinė globa atitiks socialinės globos normas, kopijos; 
+4. Socialinių paslaugų priežiūros departamentas, gavęs šio straipsnio 2 dalyje nurodytą paraišką-klausimyną, per 5 darbo dienas išsiunčia paraišką-klausimyną pateikusiai įstaigai raštišką patvirtinimą, kad paraiška-klausimynas yra gautas, o jeigu pateikta ne visa ar netiksli šio straipsnio 2 dalyje nurodyta informacija, praneša apie trūkumus ir nurodo ne ilgesnį kaip 10 darbo dienų nuo pranešimo gavimo dienos terminą trūkumams pašalinti. 
 
 
 
 
-5) įmonės, įstaigos, šeimynos valdymo, organizacinės ir personalo struktūros aprašymas (socialinę globą teiksiančių padalinių, jei įmonė, įstaiga užsiima ir kitomis, ne su socialinių paslaugų teikimu susijusiomis veiklos sritimis, struktūrą aprašant atskirai);
+5. Prieš išduodamas licenciją, Socialinių paslaugų priežiūros departamentas pagal įstaigos šio straipsnio 2 dalyje nurodytoje paraiškoje-klausimyne pateiktą informaciją turi patikrinti vietoje, ar įstaiga yra pasirengusi teikti socialinę globą.
 
 
 
 
-6) įmonės, įstaigos strateginis veiklos planas. 
-
-
-
-
-
-
-2. Tais atvejais, kai įmonė, įstaiga, be socialinių paslaugų teikimo, užsiima ir kitomis, ne su socialinių paslaugų teikimu susijusiomis veiklos sritimis, socialinei globai turi būti atskira valdymo, organizacinė ir personalo struktūra. 
-
-
-
-
-3. Įmonė, įstaiga, pageidaujanti gauti kelių rūšių licencijas institucinei socialinei globai vaikams, suaugusiems ar senyvo amžiaus asmenims, socialinės rizikos suaugusiems asmenims, turi užtikrinti, kad institucinė socialinė globa šiems asmenims bus teikiama atskirtose patalpose. 
-
-
-
-
-4. Prieš išduodamas licenciją Socialinių paslaugų priežiūros departamentas turi teisę patikrinti vietoje, ar įmonė, įstaiga, šeimyna yra pasirengusi teikti socialinę globą.
-
-
-
-
-5. Licencija arba motyvuotas raštiškas atsisakymas išduoti licenciją turi būti pateikti įmonei, įstaigai, šeimynai per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, gavimo dienos. 
-
-
-
-
-6. Priėmus sprendimą išduoti licenciją, už jos išdavimą mokama valstybės rinkliava. 
+6. Licencija arba motyvuotas raštiškas atsisakymas išduoti licenciją turi būti pateikti įstaigai tiesiogiai, registruotu laišku ar pasirašyti saugiu elektroniniu parašu elektroninėmis priemonėmis arba per kontaktinį centrą per 30 dienų nuo visos informacijos, reikalingos licencijai išduoti, gavimo dienos. 
 
 
 
@@ -1019,12 +1028,17 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 
 
-8. Apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą Socialinių paslaugų priežiūros departamentas informuoja savivaldybę, kurios teritorijoje veikia įmonė, įstaiga, šeimyna, ir skelbia savo interneto svetainėje. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010ISTA0XI-2341
+8. Apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą Socialinių paslaugų priežiūros departamentas skelbia savo interneto svetainėje.
+
+
+
+
+9. Įstaiga turi pradėti teikti socialinę globą per 12 mėnesių nuo licencijos išdavimo. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
-
-
 
 
 
@@ -1035,82 +1049,147 @@ Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010IS
 1. Socialinių paslaugų priežiūros departamentas atsisako išduoti licenciją, jeigu:
 
 
-1) pateikti ne visi dokumentai ir rašytinė informacija licencijai gauti;
+1) nepateikta ar pateikta ne visa ar netiksli šio įstatymo 23 straipsnio 2 dalyje numatyta informacija ir per Socialinių paslaugų priežiūros departamento nurodytą terminą įstaiga trūkumų nepašalina, pateikta informacija neatitinka šio įstatymo 23 straipsnio 2 dalyje nustatytų reikalavimų, pateikti neteisingi duomenys ir informacija, duomenys suklastoti;
 
 
 
 
-2) pateikti dokumentai ir rašytinė informacija neatitinka nustatytų reikalavimų ar yra netinkamai įforminti; 
-
-
-
-
-3) pateikta neišsami informacija apie tai, kaip įmonės, įstaigos, šeimynos numatoma teikti socialinė globa atitiks socialinės globos normas ar kitas šio įstatymo 23 straipsnio 2 ir 3 dalyse nustatytas sąlygas;
-
-
-
-
-4) licencijai gauti įmonė, įstaiga, šeimyna pateikia neteisingus duomenis ir rašytinę informaciją ar suklastotus dokumentus. 
+2) atlikdamas patikrinimą vietoje nustato, kad įstaiga nėra pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa neatitinka socialinės globos normose nustatytų reikalavimų personalo struktūrai, skaičiui, išsilavinimui ir patalpoms.
 
 
 
 
 
 
-2. Socialinių paslaugų priežiūros departamentas sustabdo licencijos galiojimą, jeigu:
-
-
-1) įmonė, įstaiga, šeimyna nebeatitinka licencijos išdavimo reikalavimų;
+2. Socialinių paslaugų priežiūros departamentas, nustatęs, kad socialinės globos įstaiga teikia socialinę globą, neatitinkančią socialinės globos normų, įteikia socialinės globos įstaigai tiesiogiai, registruotu laišku ar pasirašytą saugiu elektroniniu parašu elektroninėmis priemonėmis rašytinį įspėjimą pareikalaudamas per nurodytą terminą pašalinti pažeidimus. Terminas pažeidimams pašalinti negali būti ilgesnis kaip 6 mėnesiai nuo įspėjimo gavimo dienos.
 
 
 
 
-2) įmonė, įstaiga, šeimyna teikė socialinę globą, neatitinkančią socialinės globos normų, ir po įspėjimo pašalinti pažeidimus per nustatytą terminą šių pažeidimų nepašalino.
+3. Socialinių paslaugų priežiūros departamentas sustabdo licencijos galiojimą, jeigu socialinės globos įstaiga teikė socialinę globą, neatitinkančią socialinės globos normų, ir, gavusi įspėjimą su reikalavimu pašalinti pažeidimus, per nurodytą terminą šių pažeidimų nepašalino.
 
 
 
 
-
-
-3. Terminą, kuriam sustabdomas licencijos galiojimas, nustato Socialinių paslaugų priežiūros departamentas, atsižvelgdamas į nustatyto pažeidimo pobūdį. 
-
-
-
-
-4. Sustabdžius licencijos galiojimą, įmonei, įstaigai, šeimynai leidžiama toliau teikti socialinę globą visą licencijos sustabdymo laikotarpį tik tais atvejais, kai nustatyti pažeidimai nekelia grėsmės socialinių paslaugų gavėjų interesams ir saugumui. 
+4. Terminą, kuriam sustabdomas licencijos galiojimas, nustato Socialinių paslaugų priežiūros departamentas, atsižvelgdamas į nustatyto pažeidimo pobūdį. 
 
 
 
 
-5. Socialinių paslaugų priežiūros departamentas gali panaikinti licencijos galiojimą savo ar įmonės, įstaigos, šeimynos iniciatyva.
+5. Sustabdžius licencijos galiojimą, socialinės globos įstaigai leidžiama toliau teikti socialinę globą visą licencijos galiojimo sustabdymo laikotarpį tik tais atvejais, kai nustatyti pažeidimai nekelia grėsmės socialinių paslaugų gavėjų interesams ir saugumui. 
 
 
 
 
-6. Socialinių paslaugų priežiūros departamentas panaikina licencijos galiojimą, jeigu:
-
-
-1) sustabdžius licencijos galiojimą, įmonė, įstaiga, šeimyna per nustatytą terminą nepašalino pažeidimų;
+6. Socialinių paslaugų priežiūros departamentas gali panaikinti licencijos galiojimą savo ar socialinės globos įstaigos iniciatyva.
 
 
 
 
-2) įmonė, įstaiga, šeimyna nepradėjo teikti socialinės globos per 12 mėnesių nuo licencijos išdavimo.
+7. Socialinių paslaugų priežiūros departamentas panaikina licencijos galiojimą, jeigu:
+
+
+1) sustabdžius licencijos galiojimą, socialinės globos įstaiga per nurodytą terminą nepašalino pažeidimų;
+
+
+
+
+2) socialinės globos įstaiga nepradėjo teikti socialinės globos per 12 mėnesių nuo licencijos išdavimo.
 
 
 
 
 
 
-7. Socialinių paslaugų priežiūros departamentas apie numatomą licencijos panaikinimą privalo ne vėliau kaip prieš 30 dienų informuoti savivaldybę, kurios teritorijoje įmonė, įstaiga, šeimyna socialines paslaugas teikia, bei savivaldybes, kurių gyventojai šias paslaugas gauna. 
+8. Socialinių paslaugų priežiūros departamentas apie numatomą licencijos panaikinimą privalo ne vėliau kaip prieš 30 kalendorinių dienų elektroninėmis priemonėmis informuoti savivaldybę, kurios teritorijoje socialinės globos įstaiga teikia socialines paslaugas, ir savivaldybes, kurių gyventojai šias paslaugas gauna.
 
 
 
 
-8. Įmonė, įstaiga, šeimyna privalo imtis visų įmanomų priemonių, kad panaikinus ar sustabdžius licencijos galiojimą būtų apsaugoti socialinių paslaugų gavėjų interesai ir užtikrintas jiems reikalingų socialinių paslaugų tęstinumas. 
+9. Panaikindamas licencijos galiojimą dėl to, kad socialinės globos įstaiga nepradėjo teikti socialinės globos per 12 mėnesių nuo licencijos išdavimo, Socialinių paslaugų priežiūros departamentas prieš 30 kalendorinių dienų iki licencijos galiojimo panaikinimo įteikia socialinės globos įstaigai tiesiogiai, registruotu laišku ar pasirašytą saugiu elektroniniu parašu elektroninėmis priemonėmis rašytinį įspėjimą apie licencijos galiojimo panaikinimą. 
+
+
+
+
+10. Apie licencijos galiojimo sustabdymą ar panaikinimą Socialinių paslaugų priežiūros departamentas informuoja socialinės globos įstaigą raštu tiesiogiai, registruotu laišku ar pasirašytą saugiu elektroniniu parašu pranešimą išsiunčia elektroninėmis priemonėmis arba per kontaktinį centrą. 
+
+
+
+
+11. Socialinės globos įstaiga kartu su sprendimą dėl socialinės globos skyrimo priėmusia savivaldybe ir Socialinės apsaugos ir darbo ministerija privalo imtis visų įmanomų priemonių, kad, atsisakius išduoti licenciją, sustabdžius ar panaikinus licencijos galiojimą, būtų apsaugoti socialinių paslaugų gavėjų interesai ir užtikrintas jiems reikalingų socialinių paslaugų tęstinumas kitoje socialinių paslaugų įstaigoje.  
+
+
+Straipsnio pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
+
+
+241 straipsnis. Licencijos turėtojo teisės ir pareigos  
+
+
+1. Licencijos turėtojas turi:
+
+
+1) teisę verstis licencijoje nurodyta veikla;
+
+
+
+
+2) teisę gauti Socialinių paslaugų priežiūros departamento paaiškinimus dėl teikiamos socialinės globos atitikties socialinės globos normoms;
+
+
+
+
+3) kitų įstatymuose nustatytų teisių. 
+
+
+
+
+
+
+2. Licencijos turėtojas privalo:
+
+
+1) vykdyti Lietuvos Respublikos įstatymus, Vyriausybės nutarimus ir kitus teisės aktus, reglamentuojančius socialinės globos įstaigų veiklą; 
+
+
+
+
+2) teikti socialinę globą, atitinkančią socialinės globos normas;
+
+
+
+
+3) gavęs Socialinių paslaugų priežiūros departamento sprendimą sustabdyti ar panaikinti licencijos galiojimą, per sprendime nustatytą terminą sustabdyti arba nutraukti licencijuojamą veiklą, išskyrus šio įstatymo 24 straipsnio 5 dalyje nustatytą atvejį;
+
+
+
+
+4) leisti Socialinių paslaugų priežiūros departamentui tikrinti, kaip laikomasi licencijuojamos veiklos sąlygų; 
+
+
+
+
+5) imtis visų įmanomų priemonių, kad, sustabdžius ar panaikinus licencijos galiojimą, būtų apsaugoti socialinės globos gavėjų interesai ir užtikrintas jiems reikalingų socialinių paslaugų tęstinumas kitoje socialinių paslaugų įstaigoje.
+
+
+
+
+
+
+3. Licencijos turėtojas gali teikti institucinę socialinę globą tik licencijoje nurodytoje veiklos patalpoje.
+
+
+
+
+4. Licencijos turėtojas neturi teisės įgalioti kitų asmenų teikti licencijoje nurodytą socialinę globą ar pagal sutartį perduoti jiems teisę teikti licencijoje nurodytą socialinę globą. 
+
+
+Papildyta straipsniu:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -1151,9 +1230,10 @@ MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 
 
 
-4. Asmeniui (šeimai), teisės aktų nustatyta tvarka gaunančiam socialinę pašalpą, arba asmeniui (šeimai), kurio pajamos (vidutinės šeimos, tenkančios vienam asmeniui) yra mažesnės už valstybės remiamų pajamų dvigubą dydį, bendrosios socialinės paslaugos ir socialinė priežiūra teikiamos nemokamai. 
+4. Asmeniui (šeimai), teisės aktų nustatyta tvarka gaunančiam (gaunančiai) socialinę pašalpą, arba asmeniui (šeimai), kurio (kurios) pajamos (vidutinės šeimos pajamos, tenkančios vienam asmeniui) yra mažesnės už valstybės remiamų pajamų dvigubą dydį, bendrosios socialinės paslaugos ir socialinė priežiūra teikiamos nemokamai, išskyrus atvejus, kai šis asmuo yra socialinės rizikos suaugęs asmuo, kuris ilgiau kaip mėnesį per kalendorinius metus gyvena socialinių paslaugų įstaigoje ir joje gauna socialinę priežiūrą. 
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
@@ -1262,7 +1342,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-7. Mokėjimo už trumpalaikę socialinę globą dydis neturi viršyti 80 procentų asmens pajamų.
+7. Mokėjimo už trumpalaikę socialinę globą dydis neturi viršyti 80 procentų asmens pajamų. Tais atvejais, kai asmuo pagal Valstybinių šalpos išmokų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už trumpalaikę socialinę globą padengti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -1272,7 +1355,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-9. Mokėjimo už ilgalaikę socialinę globą suaugusiam asmeniui dydis neturi viršyti 80 procentų asmens pajamų, jei asmens turto vertė yra mažesnė už jo gyvenamosios vietos savivaldybėje nustatytą turto vertės normatyvą. 
+9. Mokėjimo už ilgalaikę socialinę globą suaugusiam asmeniui dydis neturi viršyti 80 procentų asmens pajamų, jeigu asmens turto vertė yra mažesnė už jo gyvenamosios vietos savivaldybėje nustatytą turto vertės normatyvą. Tais atvejais, kai asmuo pagal Valstybinių šalpos išmokų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už ilgalaikę socialinę globą padengti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -1282,7 +1368,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-11. Mokėjimo už ilgalaikę socialinę globą vaikui su negalia dydis neturi viršyti 80 procentų jo pajamų.
+11. Mokėjimo už ilgalaikę socialinę globą vaikui su negalia dydis neturi viršyti 80 procentų jo pajamų. Tais atvejais, kai vaikas su negalia pagal Valstybinių šalpos išmokų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už ilgalaikę socialinę globą padengti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -1394,7 +1483,15 @@ Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010IST
 
 
 
-19) išmoka vaikui, mokama pagal Išmokų vaikams įstatymą. 
+19) išmoka vaikui, mokama pagal Išmokų vaikams įstatymą; 
+
+
+
+
+20) socialinės pašalpos, mokamos pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą. 
+Papildyta straipsnio punktu:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1446,7 +1543,7 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 31 straipsnis. Asmens turtas ir jo apskaičiavimas 
 
 
-1. Nustatant asmens finansines galimybes mokėti už ilgalaikę socialinę globą, įskaitomas šis asmens nuosavybės teise turimas ar per praėjusius 12 mėnesių iki kreipimosi dėl socialinių paslaugų skyrimo turėtas turtas:
+1. Nustatant asmens finansines galimybes mokėti už ilgalaikę socialinę globą, įskaitomas šis asmens nuosavybės teise turimas ar per praėjusius 12 mėnesių iki kreipimosi dėl socialinių paslaugų skyrimo ar asmens finansinių galimybių mokėti už ilgalaikę socialinę globą vertinimo turėtas turtas:
 
 
 1) statiniai, įskaitant nebaigtus statyti;
@@ -1464,7 +1561,7 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-4) žemė (įskaitant užimtą miško ir vandens telkinių); 
+4) žemė (įskaitant užimtą miško ir vandens telkinių);     
 
 
 
@@ -1477,6 +1574,9 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 6) piniginės lėšos. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -1486,7 +1586,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-3. Tais atvejais, kai asmuo gyvena su šeima ir šios šeimos gyvenamoji patalpa yra jo nuosavybės teise turimas turtas, šios patalpos į asmens turtą neįskaitomos. 
+3. Tais atvejais, kai asmuo gyvena su šeima ir (arba) artimaisiais giminaičiais ir šios šeimos ir (arba) artimųjų giminaičių gyvenamoji patalpa, kurioje jie ne trumpiau kaip vienus metus yra deklaravę savo gyvenamąją vietą, yra asmens nuosavybės teise turimas turtas, šios patalpos į asmens turtą neįskaitomos.   
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
@@ -1507,15 +1610,19 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-2. Turto vertės normatyvas nustatomas turto normatyvą dauginant iš asmens gyvenamosios vietos vidutinės nekilnojamojo turto rinkos vertės.
+2. Turto vertės normatyvas nustatomas turto normatyvą dauginant iš asmens gyvenamosios vietos nekilnojamojo turto ploto vieneto normatyvinės vertės piniginei socialinei paramai nepasiturintiems gyventojams gauti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
 
 
 
 
-3. Turto vertės normatyvui nustatyti taikomos kiekvienų metų vasario 1 d., gegužės 1 d., rugpjūčio 1 d. ir lapkričio 1 d. valstybės įmonės Registrų centro nustatomos ir Teisės aktų registre skelbiamos vidutinės nekilnojamojo turto rinkos vertės Lietuvos miestuose ir savivaldybių centruose bei kitose savivaldybių teritorijose piniginei socialinei paramai nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims gauti. 
+3. Turto vertės normatyvui nustatyti taikomos valstybės įmonės Registrų centro nustatomos ir šios įmonės interneto svetainėje skelbiamos nekilnojamojo turto ploto vieneto normatyvinės vertės piniginei socialinei paramai nepasiturintiems gyventojams gauti pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose ir savivaldybių centruose, kitose savivaldybių teritorijose. 
 Straipsnio dalies pakeitimai:
 Nr. X-1573, 2008-06-05, Žin., 2008, Nr. 71-2702 (2008-06-21), i. k. 1081010ISTA00X-1573
 Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. 1121010ISTA0XI-2341
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
@@ -1764,9 +1871,10 @@ Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA0
 
 
 
-3. Šio įstatymo septintojo skirsnio nuostatos, susijusios su mokėjimu už socialines paslaugas asmenims, pradėjusiems gauti socialinę globą iki šio įstatymo įsigaliojimo, netaikomos, išskyrus atvejus, kai mokėjimo už socialines paslaugas dydis asmeniui pagal teisės aktus, galiojusius iki 2006 m. liepos 1 d., buvo didesnis, negu nustatytas šiame įstatyme. 
+3. Šio įstatymo septintojo skirsnio nuostatos, susijusios su mokėjimu už ilgalaikę socialinę globą, atsižvelgiant į asmens turtą, asmenims, pradėjusiems gauti ilgalaikę socialinę globą iki 2007 m. sausio 1 d., netaikomos. 
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
@@ -1780,9 +1888,11 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-5. Socialinės paslaugos asmenims, iki 2007 m. sausio 1 d. pradėjusiems jas gauti apskrities viršininko socialinių paslaugų įstaigose, kurių savininko teisės ir pareigos yra perduotos savivaldybėms, 2011 m. ir 2012 m. finansuojamos iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, netaikant šio įstatymo aštuntojo skirsnio nuostatų. 
+5. Socialinės paslaugos asmenims, iki 2007 m. sausio 1 d. pradėjusiems jas gauti apskrities viršininko socialinių paslaugų įstaigose, kurių savininko teisės ir pareigos yra perduotos savivaldybėms, finansuojamos iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, netaikant šio įstatymo aštuntojo skirsnio nuostatų. 
 Papildyta straipsnio dalimi:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
  
 
 
