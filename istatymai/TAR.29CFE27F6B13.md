@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2012-07-12 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
@@ -1573,12 +1573,25 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-2. Karių, vairuojančių taktinės ir logistinės paskirties transporto priemones, kurių masė didesnė negu 3 500 kg ar turi daugiau negu 9 sėdimąsias vietas, oro ar vandens transporto priemones, taip pat karių, vykdančių užduotis aplinkoje, veikiamoje pavojingų veiksnių, ar dirbančių su potencialiai pavojingais įrenginiais pagal krašto apsaugos ministro patvirtintą sąrašą, iškvėptame ore, kraujyje ar kituose organizmo skysčiuose leidžiama maksimali etilo alkoholio koncentracija tarnybos metu yra 0,2 promilės, visais kitais atvejais tarnybos metu – 0,4 promilės. Viršijus šioje dalyje nustatytą leistiną normą, kariai laikomi neblaiviais.
+2. Karių, vairuojančių mopedus, motociklus, triračius, lengvuosius keturračius, keturračius, galinguosius keturračius, transporto priemones, kurių didžiausioji leidžiamoji masė didesnė kaip 3,5 t arba kurios turi daugiau negu 9 sėdimąsias vietas, arba kuriomis vežami pavojingieji kroviniai, taip pat karių, vairuojančių oro ar vandens transporto priemones, ir pradedančiųjų vairuotojų biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) leidžiama etilo alkoholio koncentracija tarnybos metu tikrinant blaivumą prieš vairavimą ar vairavimo metu yra 0 promilių. Karių, vykdančių užduotis aplinkoje, veikiamoje pavojingų veiksnių, ar dirbančių su potencialiai pavojingais įrenginiais pagal krašto apsaugos ministro patvirtintą sąrašą, biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) leidžiama etilo alkoholio koncentracija tarnybos metu yra ne daugiau kaip 0,2 promilės. Visais kitais šioje dalyje nenustatytais atvejais karių biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) leidžiama etilo alkoholio koncentracija tarnybos metu yra ne daugiau kaip 0,4 promilės. Viršijus šioje dalyje nustatytą leistiną normą, kariai laikomi neblaiviais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-971, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10013
+ 
 
 
 
 
-3. Tais atvejais, kai šio straipsnio 1 dalyje nurodytos sunkinančios aplinkybės šio statuto numatytos kaip drausmės pažeidimo požymis, skiriant drausminę nuobaudą į tokias sunkinančias aplinkybes neatsižvelgiama.
+3. Nustatant neblaivumo laipsnį dujų chromatografijos metodu, turi būti įvertinta ribinė etilo alkoholio koncentracija (kiekis) ir nustatyta žemiausia etilo alkoholio koncentracija (kiekis) biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose), o nustatant neblaivumo laipsnį alkoholio matuokliu, – šio matavimo prietaiso paklaida. 
+Papildyta straipsnio dalimi:
+Nr. XII-971, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10013
+ 
+
+
+
+
+4. Tais atvejais, kai šio straipsnio 1 dalyje nurodytos sunkinančios aplinkybės šio statuto numatytos kaip drausmės pažeidimo požymis, skiriant drausminę nuobaudą į tokias sunkinančias aplinkybes neatsižvelgiama.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-971, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10013
  
 
 
@@ -2782,3 +2795,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2187, 2012-06-29, Žin., 2012, Nr. 81-4226 (2012-07-12), i. k. 1121010ISTA0XI-2187
 Lietuvos Respublikos kariuomenės drausmės statuto 52 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-971, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10013
+Lietuvos Respublikos kariuomenės drausmės statuto 42 straipsnio pakeitimo įstatymas
