@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-07-01 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-05-27
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -1638,7 +1638,10 @@ MAŽOSIOS BENDRIJOS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 
 
-2. Sprendimą nutraukti mažosios bendrijos veiklą ir ją likviduoti gali priimti mažosios bendrijos narių susirinkimas kvalifikuota balsų dauguma, kuri nurodyta mažosios bendrijos nuostatuose. Teismo sprendimu mažoji bendrija likviduojama Civiliniame kodekse nustatytais atvejais. 
+2. Sprendimą nutraukti mažosios bendrijos veiklą ir ją likviduoti gali priimti mažosios bendrijos narių susirinkimas kvalifikuota balsų dauguma, kuri nurodyta mažosios bendrijos nuostatuose. Teismo ar Juridinių asmenų registro tvarkytojo sprendimu mažoji bendrija likviduojama Civiliniame kodekse nustatytais atvejais. Kai sprendimą likviduoti mažąją bendriją priima Juridinių asmenų registro tvarkytojas, mažoji bendrija likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
+ 
 
 
 
@@ -1658,7 +1661,10 @@ MAŽOSIOS BENDRIJOS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 
 
-6. Sprendimą likviduoti mažąją bendriją priėmęs narių susirinkimas, teismas arba Juridinių asmenų registro tvarkytojas, kai jo iniciatyva teismas priima sprendimą likviduoti mažąją bendriją, privalo paskirti likvidatorių. Jeigu skiriama keletas likvidatorių, sudaroma likvidacinė komisija. Šiuo atveju likvidatoriais gali būti skiriami tik mažosios bendrijos nariai ir vienas iš likvidatorių skiriamas likvidacinės komisijos pirmininku. Jeigu mažoji bendrija įsteigta ribotam laikui, likus ne mažiau kaip 3 mėnesiams iki nustatyto laikotarpio pabaigos, mažosios bendrijos narių susirinkimas privalo paskirti likvidatorių (likvidatorius) arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti mažosios bendrijos nuostatus. 
+6. Sprendimą likviduoti mažąją bendriją priėmęs narių susirinkimas arba teismas privalo paskirti likvidatorių. Jeigu skiriama keletas likvidatorių, sudaroma likvidacinė komisija. Šiuo atveju likvidatoriais gali būti skiriami tik mažosios bendrijos nariai ir vienas iš likvidatorių skiriamas likvidacinės komisijos pirmininku. Jeigu mažoji bendrija įsteigta ribotam laikui, likus ne mažiau kaip 3 mėnesiams iki nustatyto laikotarpio pabaigos, mažosios bendrijos narių susirinkimas privalo paskirti likvidatorių (likvidatorius) arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti mažosios bendrijos nuostatus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
+ 
 
 
 
@@ -1837,3 +1843,8 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo 21 straipsnio pakeitimo ir �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1, 21 ir 31-1 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 30 straipsnio pakeitimo įstatymas
