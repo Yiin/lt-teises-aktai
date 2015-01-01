@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2014-12-16 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -933,7 +933,10 @@ Jeigu už tiekiamas prekes ir (arba) teikiamas paslaugas atlyginama (visiškai a
 
 
 
-2) to prekių tiekėjo šio straipsnio 3 dalyje nurodytomis sąlygomis tiekiamų į Lietuvos Respubliką atgabentų visų prekių vertė (neįskaitant PVM) neviršija 125 tūkst. litų per einamuosius kalendorinius metus;
+2) to prekių tiekėjo šio straipsnio 3 dalyje nurodytomis sąlygomis tiekiamų į Lietuvos Respubliką atgabentų visų prekių vertė (neįskaitant PVM) neviršija 35 000 eurų per einamuosius kalendorinius metus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -1226,17 +1229,26 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 
-7) telekomunikacijų paslaugoms; 
+7) neteko galios nuo 2015-01-01; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
 
-8) elektroniniu būdu teikiamoms paslaugoms (tokioms kaip: interneto puslapių kūrimas ir jų priežiūra, kompiuterių programų tiekimas, jų atnaujinimas ir priežiūra, prieigos prie duomenų bazių teisės suteikimas, muzikos kūrinių, filmų, žaidimų tiekimas, nuotolinis mokymas ir kt. Jeigu tiekėjas ir pirkėjas bendrauja elektroniniu būdu, tačiau pati prekė patiekiama arba paslauga suteikiama ne elektroniniu būdu, toks bendravimas nelaikomas elektroniniu būdu suteiktomis paslaugomis);
+8) neteko galios nuo 2015-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
 
-9) radijo ir televizijos transliavimo paslaugoms;
+9) neteko galios nuo 2015-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -1258,12 +1270,19 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 
-15. Neatsižvelgiant į šio straipsnio 2 dalį, elektroniniu būdu teikiamos paslaugos laikomos suteiktomis šalies teritorijoje ir tuo atveju, kai jas asmeniui, kuris nėra apmokestinamasis asmuo, kurio buveinė (jeigu tai ne fizinis asmuo) arba nuolatinė gyvenamoji vieta (jeigu tai fizinis asmuo) yra Lietuvos Respublikoje, teikia įsikūręs už Europos Sąjungos teritorijos ribų asmuo ar kai paslauga teikiama per padalinį, esantį už Europos Sąjungos teritorijos ribų.
+15. Telekomunikacijų paslaugos, radijo ir televizijos transliavimo paslaugos, elektroniniu būdu teikiamos paslaugos (nurodytos 2011 m. kovo 15 d. Tarybos įgyvendinimo reglamente (ES) Nr. 282/2011, kuriuo nustatomos Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos įgyvendinimo priemonės (OL 2011 L 77, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. spalio 7 d. Tarybos įgyvendinimo reglamentu (ES) Nr. 1042/2013, kuriuo iš dalies keičiamos Įgyvendinimo reglamento (ES) Nr. 282/2011 nuostatos, susijusios su paslaugų teikimo vieta (OL 2013 L 284, p. 1) (toliau – Reglamentas (ES) Nr. 282/2011), ir kitos panašios paslaugos) asmeniui, kuris nėra apmokestinamasis asmuo, laikomos suteiktomis šalies teritorijoje, jeigu šis asmuo yra įsikūręs šalies teritorijoje, t. y. jeigu jo buveinė (jeigu tai ne fizinis asmuo) arba nuolatinė gyvenamoji vieta (jeigu tai fizinis asmuo) yra Lietuvos Respublikoje. Jeigu prekių tiekėjas arba paslaugų teikėjas ir pirkėjas bendrauja elektroniniu būdu, tačiau pati prekė patiekiama arba paslauga suteikiama ne elektroniniu būdu, toks bendravimas nelaikomas elektroniniu būdu suteiktomis paslaugomis.
+TAR pastaba. 13 straipsnio 15 dalies nuostatos taikomos telekomunikacijų paslaugoms, radijo ir televizijos transliavimo paslaugoms, elektroniniu būdu teikiamoms paslaugoms, kurias šalies teritorijoje įsikūrusiam asmeniui, kuris nėra apmokestinamasis asmuo, teikia kitos valstybės narės teritorijoje įsikūręs apmokestinamasis asmuo ir kurių teikimo pagal Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 14 straipsnį apmokestinamasis momentas yra 2015 m. sausio 1 d. ar vėlesnė data, išskyrus atvejus, kai pagal tos kitos valstybės narės teisės aktų nuostatas, iš esmės tolygias Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 14 straipsnio nuostatoms, šių paslaugų tos kitos valstybės narės teritorijoje apmokestinimo momentas buvo iki 2014 m. gruodžio 31 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
 
-16. Neatsižvelgiant į šio straipsnio 2 dalį, telekomunikacijų paslaugos bei radijo ir televizijos transliavimo paslaugos laikomos suteiktomis šalies teritorijoje ir tuo atveju, kai jas asmeniui, kuris nėra apmokestinamasis asmuo, kurio buveinė (jeigu tai ne fizinis asmuo) arba nuolatinė gyvenamoji vieta (jeigu tai fizinis asmuo) yra Lietuvos Respublikoje, teikia įsikūręs už Europos Sąjungos teritorijos ribų asmuo arba kai paslauga teikiama per padalinį, esantį už Europos Sąjungos teritorijos ribų, o suteikta paslauga faktiškai pasinaudojama šalies teritorijoje.
+16. Neteko galios nuo 2015-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -1584,12 +1603,18 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-20. Kai importuojamų prekių apmokestinamoji vertė yra nurodyta ne Lietuvos Respublikos nacionaline valiuta, apmokestinamoji vertė perskaičiuojama į nacionalinę valiutą laikantis Muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatų. 
+20. Kai importuojamų prekių apmokestinamoji vertė yra nurodyta ne eurais, apmokestinamoji vertė perskaičiuojama į eurus laikantis Muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
 
-21. Kitais, negu nurodyta šio straipsnio 20 dalyje, atvejais, kai apmokestinamoji vertė yra nurodyta ne Lietuvos Respublikos nacionaline valiuta, apmokestinamoji vertė perskaičiuojama į nacionalinę valiutą taikant Lietuvos banko nustatytą Lietuvos Respublikos nacionalinės valiutos ir užsienio valiutos santykį, galiojusį apmokestinimo momentu, o jeigu dėl šio Įstatymo 83 straipsnyje nurodytų aplinkybių keičiasi pirkėjo mokėtinas atlygis, – tų aplinkybių įforminimo dieną.
+21. Kitais, negu nurodyta šio straipsnio 20 dalyje, atvejais, kai apmokestinamoji vertė yra nurodyta ne eurais, apmokestinamoji vertė perskaičiuojama į eurus taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą apmokestinimo momentu, o jeigu dėl šio Įstatymo 83 straipsnyje nurodytų aplinkybių keičiasi pirkėjo mokėtinas atlygis, – tų aplinkybių įforminimo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -1696,14 +1721,7 @@ Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
 
 
 
-3) iki 2011 m. gruodžio 31 d. turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms viešbučio tipo ir specialaus apgyvendinimo paslaugoms;
-Dalies redakcija nuo 2015-01-01:
-
-
-
-
 3) turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms;
- 
 
 
 
@@ -2548,7 +2566,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-24) prekės, jeigu bendra tokių prekių vertė neviršija 75 litų, išskyrus etilo alkoholį, alkoholinius gėrimus, apdorotą tabaką ir etilo alkoholio turinčius skystus parfumerijos, kosmetikos, tualetinius preparatus;
+24) prekės, jeigu bendra tokių prekių vertė neviršija 22 eurų, išskyrus etilo alkoholį, alkoholinius gėrimus, apdorotą tabaką ir etilo alkoholio turinčius skystus parfumerijos, kosmetikos, tualetinius preparatus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -2570,10 +2591,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-4. Importo PVM neapmokestinamos prekės, atsiunčiamos nedidelės vertės nekomercinio pobūdžio siuntmenose (dokumentų siuntose, pašto siuntose ar pašto siuntiniuose). Siuntmena laikoma nedidelės vertės, jeigu bendra jos vertė neviršija 160 litų. Siuntmena laikoma nekomercinio pobūdžio, jeigu tenkinamos visos šios sąlygos:
+4. Importo PVM neapmokestinamos prekės, atsiunčiamos nedidelės vertės nekomercinio pobūdžio siuntmenose (dokumentų siuntose, pašto siuntose ar pašto siuntiniuose). Siuntmena laikoma nedidelės vertės, jeigu bendra jos vertė neviršija 45 eurų. Siuntmena laikoma nekomercinio pobūdžio, jeigu tenkinamos visos šios sąlygos:
 
 
-1) siuntmenos gavėjas – fizinis asmuo; 
+1) siuntmenos gavėjas – fizinis asmuo;
 
 
 
@@ -2596,6 +2617,9 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 5) siuntmenoje esančios kavos svoris neviršija 500 gramų (arba kavos ekstrakto ir esencijos – 200 gramų), arbatos svoris neviršija 100 gramų (arba arbatos ekstrakto ir esencijos – 40 gramų).
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -3164,7 +3188,55 @@ PVM ATSKAITA
 57 straipsnis. Teisė į PVM atskaitą 
 
 
-1. Teisę į PVM atskaitą turi PVM mokėtojai, išskyrus tuos, kuriems taikomos šio Įstatymo XII skyriaus penktojo skirsnio nuostatos. Teisę į PVM atskaitą taip pat turi PVM mokėtojais neįregistruoti Lietuvos Respublikos apmokestinamieji asmenys, privalėję pateikti prašymą įregistruoti juos PVM mokėtojais pagal šio Įstatymo 71 arba 711 straipsnį, ar PVM mokėtojais neįregistruoti užsienio apmokestinamieji asmenys, kurie šalies teritorijoje tiekė (teikė) PVM apmokestinamas prekes (paslaugas), išskyrus nurodytąsias šio Įstatymo 117 straipsnio 2 dalyje. PVM mokėtojai, kurie PVM mokėtojais įregistruoti vien dėl prekių įsigijimo iš kitų valstybių narių ir nevykdo jokios ekonominės veiklos, teisės į PVM atskaitą neturi. Šie ir kiti asmenys turi teisę į PVM atskaitą tik tuo atveju, kai jie šio Įstatymo nustatyta tvarka tiekia į kitą valstybę narę naujas transporto priemones.
+1. Teisę į PVM atskaitą turi:
+
+
+1) PVM mokėtojai, išskyrus: 
+
+
+a) asmenis, kurie PVM mokėtojais įregistruoti vien dėl prekių įsigijimo iš kitų valstybių narių ir nevykdo jokios ekonominės veiklos;
+
+
+
+
+b) apmokestinamuosius asmenis, įsikūrusius už Europos Sąjungos teritorijos ribų (kaip jie apibrėžti šio Įstatymo XII skyriaus penktajame skirsnyje), kuriems taikomos šio Įstatymo XII skyriaus penktojo skirsnio nuostatos;
+
+
+
+
+c) apmokestinamuosius asmenis, įsikūrusius Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje (kaip jie apibrėžti šio Įstatymo XII skyriaus penktajame skirsnyje) ir PVM mokėtojais registruotus vien dėl šio Įstatymo XII skyriaus penktajame skirsnyje nustatytos specialios telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamų paslaugų, kurias teikia Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje įsikūrę apmokestinamieji asmenys, apmokestinimo schemos (toliau – Sąjungoje įsikūrusių asmenų schema) taikymo; 
+
+
+
+
+
+
+2) PVM mokėtojais neįregistruoti: 
+
+
+a) Lietuvos Respublikos apmokestinamieji asmenys, privalėję pateikti prašymą įregistruoti juos PVM mokėtojais pagal šio Įstatymo 71 arba 711 straipsnį;
+
+
+
+
+b) Lietuvos Respublikos apmokestinamieji asmenys, tiekę prekes ir (arba) teikę paslaugas už šalies teritorijos ribų, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje; 
+
+
+
+
+c) užsienio apmokestinamieji asmenys, kurie šalies teritorijoje tiekė PVM apmokestinamas prekes ir (arba) teikė paslaugas, išskyrus nurodytąsias šio Įstatymo 117 straipsnio 2 dalyje;
+
+
+
+
+
+
+3) visi asmenys tuo atveju, kai jie šio Įstatymo nustatyta tvarka tiekia į kitą valstybę narę naujas transporto priemones.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -3666,12 +3738,15 @@ PRIEVOLĖ SKAIČIUOTI IR MOKĖTI Į BIUDŽETĄ PVM, PVM MOKĖTOJŲ REGISTRAVIMAS
 71 straipsnis. Prievolė skaičiuoti ir (arba) mokėti į biudžetą PVM ir privalomas registravimasis PVM mokėtoju
 
 
-1. Prievolė registruotis PVM mokėtoju ir skaičiuoti PVM bei mokėti jį į biudžetą tenka apmokestinamiesiems asmenims, kurie šalies teritorijoje tiekia prekes arba teikia paslaugas, išskyrus atvejus, kai šalies teritorijoje tiekiamos tik tokios prekės ir (arba) teikiamos tik tokios paslaugos, už kurias prievolė apskaičiuoti ir sumokėti į biudžetą PVM pagal šio Įstatymo 95 straipsnio 2, 3 ir 4 dalių nuostatas tenka pirkėjui. Privalantis registruotis PVM mokėtoju asmuo privalo pateikti prašymą įregistruoti jį PVM mokėtoju.
+1. Prievolė registruotis PVM mokėtoju ir skaičiuoti PVM bei mokėti jį į biudžetą tenka apmokestinamiesiems asmenims, kurie šalies teritorijoje tiekia prekes arba teikia paslaugas, išskyrus atvejus, kai šalies teritorijoje tiekiamos tik tokios prekės ir (arba) teikiamos tik tokios paslaugos, už kurias prievolė apskaičiuoti ir sumokėti į biudžetą PVM pagal šio Įstatymo 95 straipsnio 2, 3 ir 4 dalių nuostatas tenka pirkėjui. Privalantis registruotis PVM mokėtoju asmuo privalo pateikti prašymą įregistruoti jį PVM mokėtoju, neatsižvelgiant į tai, ar jis buvo registruotas PVM mokėtoju šio Įstatymo XII skyriaus penktajame skirsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
 
-2. Neatsižvelgiant į šio straipsnio 1 dalį, Lietuvos Respublikos apmokestinamasis asmuo neprivalo pateikti prašymo įregistruoti jį PVM mokėtoju bei už tiekiamas prekes (išskyrus į kitas valstybes nares tiekiamas naujas transporto priemones) ir (arba) teikiamas paslaugas šio Įstatymo nustatyta tvarka skaičiuoti PVM ir mokėti jį į biudžetą, jeigu bendra atlygio už vykdant ekonominę veiklą šalies teritorijoje patiektas prekes ir (arba) suteiktas paslaugas suma per metus (paskutinius 12 mėnesių) neviršijo 155 000 litų. PVM turi būti pradėtas skaičiuoti nuo to mėnesio, kurį minėta riba buvo viršyta. Už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo nurodytosios 155 000 litų sumos, PVM neskaičiuojamas. Skaičiuojant nurodytą 155 000 litų sumą, neatsižvelgiama į:
+2. Neatsižvelgiant į šio straipsnio 1 dalį, Lietuvos Respublikos apmokestinamasis asmuo neprivalo pateikti prašymo įregistruoti jį PVM mokėtoju bei už tiekiamas prekes (išskyrus į kitas valstybes nares tiekiamas naujas transporto priemones) ir (arba) teikiamas paslaugas šio Įstatymo nustatyta tvarka skaičiuoti PVM ir mokėti jį į biudžetą, jeigu bendra atlygio už vykdant ekonominę veiklą šalies teritorijoje patiektas prekes ir (arba) suteiktas paslaugas suma per metus (paskutinius 12 mėnesių) neviršijo 45 000 eurų. PVM turi būti pradėtas skaičiuoti nuo to mėnesio, kurį minėta riba buvo viršyta. Už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo nurodytosios 45 000 eurų sumos, PVM neskaičiuojamas. Skaičiuojant nurodytąją 45 000 eurų sumą, neatsižvelgiama į:
 
 
 1) atlygį už prekių tiekimą ir (arba) paslaugų teikimą, kuriam naudojamų prekių ir (arba) paslaugų pirkimo ir (arba) importo PVM pagal šio Įstatymo 62 straipsnio 1 dalies nuostatas negalėtų būti atskaitomas, jeigu apmokestinamasis asmuo būtų PVM mokėtojas; 
@@ -3689,14 +3764,17 @@ PRIEVOLĖ SKAIČIUOTI IR MOKĖTI Į BIUDŽETĄ PVM, PVM MOKĖTOJŲ REGISTRAVIMAS
 
 
 
-4) atlygį už nekilnojamųjų pagal prigimtį daiktų tiekimą ir šio Įstatymo 28 straipsnyje nurodytų finansinių paslaugų teikimą tuo atveju, kai šie sandoriai yra atsitiktinio pobūdžio ir apmokestinamasis asmuo įprastai nesiverčia tokios rūšies veikla.
+4) atlygį už nekilnojamųjų pagal prigimtį daiktų tiekimą ir šio Įstatymo 28 straipsnyje nurodytų finansinių paslaugų teikimą tuo atveju, kai šie sandoriai yra atsitiktinio pobūdžio ir apmokestinamasis asmuo įprastai nesiverčia tokios rūšies veikla.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
 
-
-
-3. Užsienio apmokestinamasis asmuo PVM mokėtoju privalo registruotis per šalies teritorijoje esantį padalinį, o jeigu tokio padalinio nėra, – per paskirtą Lietuvos Respublikoje esantį fiskalinį agentą. Reikalavimas paskirti fiskalinį agentą netaikomas kitose valstybėse narėse ar teritorijose, kuriose taikomos savitarpio pagalbos taikymo dokumentų nuostatos, iš esmės savo taikymo sritimi tolygios 2010 m. kovo 16 d. Tarybos direktyvos 2010/24/ES dėl savitarpio pagalbos vykdant reikalavimus, susijusius su mokesčiais, muitais ir kitomis priemonėmis (toliau – Direktyva 2010/24/ES), ir 2010 m. spalio 7 d. Tarybos reglamento (ES) Nr. 904/2010 dėl administracinio bendradarbiavimo ir kovos su sukčiavimu pridėtinės vertės mokesčio srityje (toliau – Reglamentas (ES) Nr. 904/2010) nuostatoms, įsikūrusiems apmokestinamiesiems asmenims, kurie PVM mokėtojais gali būti registruojami tiesiogiai. Užsienio apmokestinamasis asmuo neprivalo registruotis PVM mokėtoju, jeigu jis šalies teritorijoje vykdo tik šią veiklą:
+3. Užsienio apmokestinamasis asmuo PVM mokėtoju privalo registruotis per šalies teritorijoje esantį padalinį, o jeigu tokio padalinio nėra, – per paskirtą Lietuvos Respublikoje esantį fiskalinį agentą. Reikalavimas paskirti fiskalinį agentą netaikomas kitose valstybėse narėse ar teritorijose, kuriose taikomos savitarpio pagalbos taikymo dokumentų nuostatos, iš esmės savo taikymo sritimi tolygios 2010 m. kovo 16 d. Tarybos direktyvos 2010/24/ES dėl savitarpio pagalbos vykdant reikalavimus, susijusius su mokesčiais, muitais ir kitomis priemonėmis (OL 2010 L 84, p. 1) (toliau – Direktyva 2010/24/ES), ir 2010 m. spalio 7 d. Tarybos reglamento (ES) Nr. 904/2010 dėl administracinio bendradarbiavimo ir kovos su sukčiavimu pridėtinės vertės mokesčio srityje (OL 2010 L 268, p. 1) su paskutiniais pakeitimais, padarytais Tarybos reglamentu (ES) Nr. 517/2013 (OL 2013 L 158, p. 1) (toliau – Reglamentas (ES) Nr. 904/2010), nuostatoms, įsikūrusiems apmokestinamiesiems asmenims ir apmokestinamiesiems asmenims, kurie PVM mokėtojais registruojasi specialios telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamų paslaugų, kurias teikia už Europos Sąjungos teritorijos ribų įsikūrę apmokestinamieji asmenys, apmokestinimo schemos (toliau – Sąjungoje neįsikūrusių asmenų schema) taikymo tikslais (jie PVM mokėtojais gali būti registruojami tiesiogiai). Užsienio apmokestinamasis asmuo neprivalo registruotis PVM mokėtoju, jeigu jis šalies teritorijoje vykdo tik šią veiklą:
 
 
 1) tiekia prekes ir (arba) teikia paslaugas, kurios pagal šį Įstatymą neapmokestinamos PVM;
@@ -3712,6 +3790,9 @@ PRIEVOLĖ SKAIČIUOTI IR MOKĖTI Į BIUDŽETĄ PVM, PVM MOKĖTOJŲ REGISTRAVIMAS
 3) tiekia prekes ir (arba) teikia paslaugas, kurios pagal šį Įstatymą būtų apmokestinamos taikant 0 procentų PVM tarifą, išskyrus šio Įstatymo 41, 49 straipsniuose, taip pat 53 straipsnio 1 dalies 1, 2, 3, 6 ir 7 punktuose ir 5, 6, 10 dalyse nurodytą veiklą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -3751,7 +3832,10 @@ PRIEVOLĖ SKAIČIUOTI IR MOKĖTI Į BIUDŽETĄ PVM, PVM MOKĖTOJŲ REGISTRAVIMAS
 
 
 
-11. Už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo ar apmokestinamasis asmuo, per padalinį, esantį už Europos Sąjungos teritorijos ribų, šalies teritorijoje elektroniniu būdu teikiantis paslaugas asmenims, kurie nėra apmokestinamieji asmenys, ir jau įsiregistravęs PVM mokėtoju kurioje nors valstybėje narėje pagal tos valstybės narės teisės aktų nuostatas, iš esmės tolygias šio Įstatymo XII skyriaus penktojo skirsnio nuostatoms, registruotis PVM mokėtoju Lietuvos Respublikoje neprivalo, tačiau tik tuo atveju, jeigu jo prievolė registruotis PVM mokėtoju atsiranda vien dėl tokių paslaugų teikimo.
+11. Už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo (kaip jis apibrėžtas šio Įstatymo XII skyriaus penktajame skirsnyje), šalies teritorijoje teikiantis telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamas paslaugas asmenims, kurie nėra apmokestinamieji asmenys, ir jau įsiregistravęs PVM mokėtoju kurioje nors valstybėje narėje pagal tos valstybės narės teisės aktų nuostatas, iš esmės tolygias šio Įstatymo XII skyriaus penktojo skirsnio nuostatoms, registruotis PVM mokėtoju Lietuvos Respublikoje neprivalo, tačiau tik tuo atveju, jeigu jo prievolė registruotis PVM mokėtoju atsiranda vien dėl tokių paslaugų teikimo. Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje įsikūręs apmokestinamasis asmuo (kaip jis apibrėžtas šio Įstatymo XII skyriaus penktajame skirsnyje), kuris Lietuvos Respublikoje neturi buveinės ar padalinio ir kuris šalies teritorijoje teikia telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamas paslaugas asmenims, kurie nėra apmokestinamieji asmenys, ir yra įsiregistravęs PVM mokėtoju kurioje nors valstybėje narėje pagal tos valstybės narės teisės aktų nuostatas, iš esmės tolygias šio Įstatymo XII skyriaus penktojo skirsnio nuostatoms, registruotis PVM mokėtoju Lietuvos Respublikoje neprivalo, tačiau tik tuo atveju, jeigu jo prievolė registruotis PVM mokėtoju atsiranda vien dėl tokių paslaugų teikimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -3773,18 +3857,18 @@ Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
 711 straipsnis. Prekes iš kitos valstybės narės įsigyjančių asmenų registravimas PVM mokėtojais
 
 
-1. Jeigu apmokestinamasis asmuo, kuris nėra ir neprivalo būti įregistruotas PVM mokėtoju pagal šio Įstatymo 71 arba 72 straipsnį, taip pat juridinis asmuo, kuris nėra apmokestinamasis asmuo, įsigyja šalies teritorijoje prekes iš kitos valstybės narės, jis privalo už prekes, įsigyjamas iš kitos valstybės narės, skaičiuoti PVM ir jį mokėti į biudžetą, taip pat pateikti prašymą įregistruoti jį PVM mokėtoju, išskyrus atvejus, kai tenkinamos visos šiuose punktuose nurodytos sąlygos:
+1. Jeigu apmokestinamasis asmuo, kuris nėra ir neprivalo būti įregistruotas PVM mokėtoju pagal šio Įstatymo 71 arba 72 straipsnį, taip pat juridinis asmuo, kuris nėra apmokestinamasis asmuo, įsigyja šalies teritorijoje prekes iš kitos valstybės narės, jis privalo už prekes, įsigyjamas iš kitos valstybės narės, skaičiuoti PVM ir jį mokėti į biudžetą, taip pat pateikti prašymą įregistruoti jį PVM mokėtoju, neatsižvelgiant į tai, ar jis buvo registruotas PVM mokėtoju šio Įstatymo XII skyriaus penktajame skirsnyje nurodyta tvarka, išskyrus atvejus, kai tenkinamos visos šiuose punktuose nurodytos sąlygos:
 
 
-1) prekes įsigyjantis asmuo yra: 
+1) prekes įsigyjantis asmuo yra:
 
 
-a) ūkininkas, įsigyjantis prekes savo vykdomai ekonominei veiklai, kuriai taikoma šio Įstatymo XII skyriaus pirmajame skirsnyje nustatyta kompensacinio PVM tarifo schema, arba 
+a) ūkininkas, įsigyjantis prekes savo vykdomai ekonominei veiklai, kuriai taikoma šio Įstatymo XII skyriaus pirmajame skirsnyje nustatyta kompensacinio PVM tarifo schema, arba
 
 
 
 
-b) apmokestinamasis asmuo, vykdantis tik tokią veiklą, kuriai skirtų prekių ir paslaugų pirkimo (importo) PVM pagal šį Įstatymą negali būti atskaitomas, arba 
+b) apmokestinamasis asmuo, vykdantis tik tokią veiklą, kuriai skirtų prekių ir paslaugų pirkimo (importo) PVM pagal šį Įstatymą negali būti atskaitomas, arba
 
 
 
@@ -3796,14 +3880,23 @@ c) juridinis asmuo, kuris nėra apmokestinamasis asmuo;
 
 
 
-2) visų asmens įsigytų iš kitų valstybių narių prekių (išskyrus naujas transporto priemones ar akcizais apmokestinamas prekes) vertė (neįskaitant PVM, sumokėto ar mokėtino valstybėje narėje, iš kurios prekės atgabentos) praėjusiais kalendoriniais metais neviršijo 35 000 litų ir einamaisiais kalendoriniais metais nenumatoma šios ribos viršyti.
+2) visų asmens įsigytų iš kitų valstybių narių prekių (išskyrus naujas transporto priemones ar akcizais apmokestinamas prekes) vertė (neįskaitant PVM, sumokėto ar mokėtino valstybėje narėje, iš kurios prekės atgabentos) praėjusiais kalendoriniais metais neviršijo 14 000 eurų ir einamaisiais kalendoriniais metais nenumatoma šios ribos viršyti.
+Straipsnio punkto pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
 
-
-
-2. Jeigu iš kitų valstybių narių įsigytų prekių vertė viršijo šio straipsnio 1 dalies 2 punkte nurodytą ribą, už įsigytas prekes, kurių vertė neviršijo nurodytosios 35 000 litų sumos, PVM neskaičiuojamas, tačiau tuo atveju, kai nurodytoji vertė viršijama, PVM privalo būti apskaičiuojamas už visas įsigytas prekes, dėl kurių įsigijimo ši riba buvo viršyta.
+2. Jeigu iš kitų valstybių narių įsigytų prekių vertė viršijo šio straipsnio 1 dalies 2 punkte nurodytą ribą, už įsigytas prekes, kurių vertė neviršijo nurodytosios 14 000 eurų sumos, PVM neskaičiuojamas, tačiau tuo atveju, kai nurodytoji vertė viršijama, PVM privalo būti apskaičiuojamas už visas įsigytas prekes, dėl kurių įsigijimo ši riba buvo viršyta.
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4166,7 +4259,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-13. Jeigu bendra PVM sąskaitoje faktūroje nurodomų patiektų prekių ir (arba) suteiktų paslaugų vertė (įskaitant PVM) neviršija 345 litų, gali būti išrašoma supaprastinta PVM sąskaita faktūra, nurodyta šio Įstatymo 80 straipsnio 9 dalyje. 
+13. Jeigu bendra PVM sąskaitoje faktūroje nurodomų patiektų prekių ir (arba) suteiktų paslaugų vertė (įskaitant PVM) neviršija 100 eurų, gali būti išrašoma supaprastinta PVM sąskaita faktūra, nurodyta šio Įstatymo 80 straipsnio 9 dalyje.
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4244,7 +4340,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-12) PVM suma nacionaline valiuta;
+12) PVM suma eurais;
+Straipsnio punkto pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4311,7 +4410,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-7. Mažmeninėje degalų (variklių benzino, dyzelinių degalų, suskystintų dujų) prekyboje parduodant prekes ir paslaugas, kasos aparato kvitas, kuriame nurodyta prekių (paslaugų) vertė (įskaitant PVM) neviršija 500 litų ir kuriame yra visi teisės aktų nustatyti kasos aparato kvitui privalomi rekvizitai, taip pat rekvizitas (rekvizitai), pagal kurį (kuriuos) galima identifikuoti prekių (paslaugų) pirkėją, laikomas PVM sąskaita faktūra. Šios dalies nuostatos netaikomos šio Įstatymo 79 straipsnio 14 dalyje nustatytais atvejais.
+7. Mažmeninėje degalų (variklių benzino, dyzelinių degalų, suskystintų dujų) prekyboje parduodant prekes ir paslaugas, kasos aparato kvitas, kuriame nurodyta prekių (paslaugų) vertė (įskaitant PVM) neviršija 150 eurų ir kuriame yra visi teisės aktų nustatyti kasos aparato kvitui privalomi rekvizitai, taip pat rekvizitas (rekvizitai), pagal kurį (kuriuos) galima identifikuoti prekių (paslaugų) pirkėją, laikomas PVM sąskaita faktūra. Šios dalies nuostatos netaikomos šio Įstatymo 79 straipsnio 14 dalyje nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4364,7 +4466,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-9) PVM suma nacionaline valiuta.
+9) PVM suma eurais.
+Straipsnio punkto pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4468,7 +4573,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-2. Jeigu visos PVM mokėtojo pajamos iš ekonominės veiklos per praėjusius kalendorinius metus neviršijo 200 000 litų, toks PVM mokėtojas turi teisę pateikti mokesčio administratoriui prašymą mokestiniu laikotarpiu laikyti kalendorinį pusmetį. Kreiptis į mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį pusmetį turi teisę ir naujai įsteigti PVM mokėtojai, kurie numato, kad einamaisiais kalendoriniais metais jų pajamos iš ekonominės veiklos neviršys šioje dalyje nurodyto dydžio.
+2. Jeigu visos PVM mokėtojo pajamos iš ekonominės veiklos per praėjusius kalendorinius metus neviršijo 60 000 eurų, toks PVM mokėtojas turi teisę pateikti mokesčio administratoriui prašymą mokestiniu laikotarpiu laikyti kalendorinį pusmetį. Kreiptis į mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį pusmetį turi teisę ir naujai įsteigti PVM mokėtojai, kurie numato, kad einamaisiais kalendoriniais metais jų pajamos iš ekonominės veiklos neviršys šioje dalyje nurodyto dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4813,12 +4921,11 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 92 straipsnis. PVM mokėtojais neįregistruotų asmenų prievolės, susijusios su PVM mokėjimu
 
 
-1. Apmokestinamasis asmuo, privalėjęs pateikti prašymą įregistruoti jį PVM mokėtoju pagal šio Įstatymo 71 straipsnį arba pagal 711 straipsnį, tačiau to nepadaręs, privalo laikydamasis šiame straipsnyje nustatytos tvarkos skaičiuoti ir mokėti į biudžetą PVM už prekes ir paslaugas, už kurias jis pagal šio Įstatymo nuostatas privalėtų skaičiuoti ir mokėti PVM būdamas PVM mokėtoju. Mokėtina už patiektas prekes ir (arba) suteiktas paslaugas PVM suma apskaičiuojama pagal tokią formulę (kai taikoma šio Įstatymo 71 straipsnio 2 dalis, – už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo šio Įstatymo 71 straipsnio 2 dalyje nurodytos 155 000 litų sumos, PVM neskaičiuojamas, tačiau tuo atveju, kai nurodytoji riba viršijama, PVM privalo būti apskaičiuojamas už visas patiektas prekes ir (arba) suteiktas paslaugas, dėl kurių tiekimo (teikimo) nurodytoji riba buvo viršyta):
- 
-
-Mokėtina PVM suma = atlygis*T/(100%+T), 
+1. Apmokestinamasis asmuo, privalėjęs pateikti prašymą įregistruoti jį PVM mokėtoju pagal šio Įstatymo 71 straipsnį arba pagal 711 straipsnį, tačiau to nepadaręs, privalo laikydamasis šiame straipsnyje nustatytos tvarkos skaičiuoti ir mokėti į biudžetą PVM už prekes ir paslaugas, už kurias jis pagal šio Įstatymo nuostatas privalėtų skaičiuoti ir mokėti PVM būdamas PVM mokėtoju. Mokėtina už patiektas prekes ir (arba) suteiktas paslaugas PVM suma apskaičiuojama pagal tokią formulę (kai taikoma šio Įstatymo 71 straipsnio 2 dalis, – už patiektas prekes ir suteiktas paslaugas, už kurias atlygis neviršijo šio Įstatymo 71 straipsnio 2 dalyje nurodytos 45 000 eurų sumos, PVM neskaičiuojamas, tačiau tuo atveju, kai nurodytoji riba viršijama, PVM privalo būti apskaičiuojamas už visas patiektas prekes ir (arba) suteiktas paslaugas, dėl kurių tiekimo (teikimo) nurodytoji riba buvo viršyta):
+Mokėtina PVM suma = atlygis*T/(100 % + T),
 čia: T – šioms prekėms ir (arba) paslaugoms šiame Įstatyme nustatytas PVM tarifas (procentais); * – daugybos ženklas.
-
+Straipsnio dalies pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
  
 
 
@@ -5198,7 +5305,10 @@ TURIZMO PASLAUGŲ APMOKESTINIMO SCHEMA
 101 straipsnis. Šio skirsnio nuostatų taikymas
 
 
-1. Šio skirsnio nuostatos taikomos tik toms turizmo paslaugoms, kurias PVM mokėtojas įsigyja iš trečiųjų asmenų ir vėliau savo vardu teikia galutiniam vartotojui (toliau šiame skirsnyje toks PVM mokėtojas vadinamas kelionės organizatoriumi). Jeigu galutiniam vartotojui parduodamas kelių iš trečiųjų asmenų įsigytų turizmo paslaugų, teikiamų vienos kelionės metu, rinkinys, laikoma, kad kelionės organizatorius galutiniam vartotojui suteikė vieną paslaugą.
+1. Šio skirsnio nuostatos taikomos tik toms turizmo paslaugoms, kurias PVM mokėtojas įsigyja iš kitų apmokestinamųjų asmenų ir vėliau savo vardu teikia pirkėjui (klientui) (toliau šiame skirsnyje toks PVM mokėtojas vadinamas kelionės organizatoriumi). Jeigu pirkėjui (klientui) parduodamas kelių iš kitų apmokestinamųjų asmenų įsigytų turizmo paslaugų, teikiamų vienos kelionės metu, rinkinys, laikoma, kad kelionės organizatorius pirkėjui (klientui) suteikė vieną paslaugą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -5227,15 +5337,17 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 102 straipsnis. Apmokestinamoji vertė
 
 
-1. Kelionės organizatoriaus galutiniam vartotojui suteiktos paslaugos apmokestinamoji vertė yra kelionių organizatoriaus marža, apskaičiuota šio straipsnio 2 dalyje nustatyta tvarka.
+1. Kelionės organizatoriaus pirkėjui (klientui) suteiktos paslaugos apmokestinamoji vertė yra kelionių organizatoriaus marža, apskaičiuota šio straipsnio 2 dalyje nustatyta tvarka.
 
 
 
 
-2. Kelionės organizatoriaus marža nustatoma kaip sumos (išskyrus patį PVM), kurią už kelionės organizatoriaus teikiamą paslaugą jam turi sumokėti galutinis vartotojas, ir sumos (įskaitant PVM), kurią kelionės organizatorius sumokėjo ar turi sumokėti tretiesiems asmenims už šią turizmo paslaugą ar paslaugas (jeigu galutiniam vartotojui parduodamas rinkinys), skirtumas. Skaičiuojant kelionės organizatoriaus maržą, neatsižvelgiama į tai, ar tos trečiųjų asmenų teikiamos paslaugos yra apmokestinamos PVM, ar ne. 
+2. Kelionės organizatoriaus marža nustatoma kaip sumos (išskyrus patį PVM), kurią už kelionės organizatoriaus teikiamą paslaugą jam turi sumokėti pirkėjas (klientas), ir sumos (įskaitant PVM), kurią kelionės organizatorius sumokėjo ar turi sumokėti kitiems apmokestinamiesiems asmenims už šią turizmo paslaugą ar paslaugas (jeigu pirkėjui (klientui) parduodamas rinkinys), skirtumas. Skaičiuojant kelionės organizatoriaus maržą, neatsižvelgiama į tai, ar tos kitų apmokestinamųjų asmenų teikiamos paslaugos yra apmokestinamos PVM, ar ne.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
  
-
-
 
 
 
@@ -5243,7 +5355,10 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 103 straipsnis. PVM atskaitos ypatybės
 
 
-1. Kelionės organizatorius šio Įstatymo 102 straipsnio 2 dalyje nurodyto tretiesiems asmenims sumokėto ar sumokėtino pirkimo PVM už iš jų įsigytas turizmo paslaugas neturi teisės įtraukti į PVM atskaitą. 
+1. Kelionės organizatorius šio Įstatymo 102 straipsnio 2 dalyje nurodyto kitiems apmokestinamiesiems asmenims sumokėto ar sumokėtino pirkimo PVM už iš jų įsigytas turizmo paslaugas neturi teisės įtraukti į PVM atskaitą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -5259,12 +5374,14 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 104 straipsnis. Sandoriai už Europos Sąjungos teritorijos ribų
 
 
-Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų PVM tarifą, kai kelionės organizatorius iš trečiųjų asmenų įsigyja ir galutiniam vartotojui teikia turizmo paslaugas, kurias šie tretieji asmenys teikia už Europos Sąjungos teritorijos ribų. Jeigu kelionės organizatorius iš trečiųjų asmenų įsigyja ir galutiniam vartotojui teikia paslaugas, kurių dalį šie tretieji asmenys teikia už Europos Sąjungos teritorijos ribų, 0 procentų PVM tarifas taikomas tik šiai paslaugų daliai.
+Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų PVM tarifą, kai kelionės organizatorius pirkėjui (klientui) teikia turizmo paslaugas, kurias kiti apmokestinamieji asmenys teikia už Europos Sąjungos teritorijos ribų. Jeigu kelionės organizatorius pirkėjui (klientui) teikia paslaugas, kurių dalį kiti apmokestinamieji asmenys teikia už Europos Sąjungos teritorijos ribų, 0 procentų PVM tarifas taikomas tik šiai paslaugų daliai.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+Straipsnio pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
  
 
 
@@ -5273,10 +5390,12 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 105 straipsnis. Kelionės organizatoriaus teikiamų paslaugų įforminimo ypatybės
 
 
-Kelionės organizatoriaus galutiniam vartotojui teikiama paslauga įforminama laikantis šiame Įstatyme nustatytos bendros tvarkos, tačiau paslaugą įforminančiame dokumente neturi būti nurodomas PVM tarifas ir suma. 
+Kelionės organizatoriaus pirkėjui (klientui) teikiama paslauga įforminama laikantis šiame Įstatyme nustatytos bendros tvarkos, tačiau paslaugą įforminančiame dokumente neturi būti nurodomi PVM tarifas ir suma.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
  
-
-
 
 
 
@@ -5639,22 +5758,20 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato papildomus
 
 
 
-Įstatymas papildytas penktuoju skirsniu 
-Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 PENKTASIS SKIRSNIS
-SPECIALI ELEKTRONINIU BŪDU TEIKIAMŲ PASLAUGŲ APMOKESTINIMO SCHEMA
+SPECIALIOS TELEKOMUNIKACIJŲ, RADIJO IR TELEVIZIJOS TRANSLIAVIMO IR (ARBA) ELEKTRONINIU BŪDU TEIKIAMŲ PASLAUGŲ APMOKESTINIMO SCHEMOS
  
 
 
 1151 straipsnis. Šio skirsnio nuostatų taikymas
 
 
-1. Šio skirsnio nuostatos taikomos tik toms elektroniniu būdu teikiamoms paslaugoms, kurias asmenims, kurie nėra apmokestinamieji asmenys, teikia apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų. Apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų ir Europos Sąjungos teritorijoje elektroniniu būdu teikiantis paslaugas skirtingų valstybių narių asmenims, kurie nėra apmokestinamieji asmenys, turi teisę pasirinkti įsiregistruoti PVM mokėtoju vienoje kurioje nors valstybėje narėje ir per šią valstybę narę vykdyti įsipareigojimus, susijusius su mokestinėmis prievolėmis visoje Europos Sąjungos teritorijoje. Šio skirsnio nuostatos taikomos, kai už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo pasirenka registruotis PVM mokėtoju Lietuvos Respublikoje.
+1. Šio skirsnio nuostatos taikomos tik toms šio Įstatymo 13 straipsnio 15 dalyje nurodytoms telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamoms paslaugoms, kurias asmenims, kurie nėra apmokestinamieji asmenys, teikia apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų arba Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje. 
 
 
 
 
-2. Šiame skirsnyje:
+2. Apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų ir Europos Sąjungos teritorijoje teikiantis telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamas paslaugas skirtingų valstybių narių asmenims, kurie nėra apmokestinamieji asmenys, turi teisę pasirinkti taikyti Sąjungoje neįsikūrusių asmenų schemą ir įsiregistruoti PVM mokėtoju vienoje kurioje nors valstybėje narėje, ir per šią valstybę narę vykdyti įsipareigojimus, susijusius su mokestinėmis prievolėmis visoje Europos Sąjungos teritorijoje. Šio skirsnio nuostatos taikomos, kai už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo pasirenka taikyti Sąjungoje neįsikūrusių asmenų schemą ir registruotis PVM mokėtoju Lietuvos Respublikoje. Taikant Sąjungoje neįsikūrusių asmenų schemą: 
 
 
 1) apmokestinamuoju asmeniu, įsikūrusiu už Europos Sąjungos teritorijos ribų, laikomas apmokestinamasis asmuo, kuris Europos Sąjungos teritorijoje neturi buveinės arba padalinio ir kuris nėra ir neturi būti įsiregistravęs kurioje nors valstybėje narėje PVM mokėtoju pagal atitinkamas valstybių narių teisės aktų nuostatas (išskyrus prievolę registruotis PVM mokėtoju pagal nuostatas, iš esmės tolygias šio skirsnio nuostatoms);
@@ -5662,43 +5779,48 @@ SPECIALI ELEKTRONINIU BŪDU TEIKIAMŲ PASLAUGŲ APMOKESTINIMO SCHEMA
 
 
 
-2) registravimosi valstybe nare laikoma ta valstybė narė, kurioje apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų, nusprendžia registruotis;
+2) registravimosi valstybe nare laikoma ta valstybė narė, kurioje apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų, nusprendžia registruotis.
 
 
 
 
-3) paslaugų teikimo valstybe nare laikoma valstybė narė, kurioje, remiantis kriterijais, nustatančiais paslaugų suteikimo vietą, elektroniniu būdu teikiama paslauga laikoma suteikta;
+
+
+3. Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje įsikūręs apmokestinamasis asmuo, teikiantis telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamas paslaugas skirtingų valstybių narių, kuriose jis neturi buveinės ar padalinio, asmenims, kurie nėra apmokestinamieji asmenys, turi teisę pasirinkti taikyti Sąjungoje įsikūrusių asmenų schemą ir per savo valstybę narę, kurioje jis turi buveinę ar padalinį, vykdyti įsipareigojimus, susijusius su mokestinėmis prievolėmis, atsirandančiomis dėl tų valstybių narių, kuriose jis neturi buveinės ar padalinio, asmenims, kurie nėra apmokestinamieji asmenys, teikiamų telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamų paslaugų. Šio skirsnio nuostatos taikomos, kai Sąjungoje įsikūrusių asmenų schemą pasirenka taikyti ir įsiregistruoti PVM mokėtoju, neatsižvelgdamas į tai, ar buvo registruotas PVM mokėtoju pagal šio Įstatymo 71, 711 arba 72 straipsnį, Lietuvos Respublikos apmokestinamasis asmuo arba už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo, kuris turi padalinį Lietuvos Respublikoje. Jeigu už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo turi padalinius Lietuvos Respublikoje ir kitoje valstybėje narėje (ar kitose valstybėse narėse), šio skirsnio nuostatos taikomos, kai už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo Lietuvos Respubliką pasirenka laikyti registravimosi valstybe nare. Taikant Sąjungoje įsikūrusių asmenų schemą:
+
+
+1) Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje įsikūrusiu apmokestinamuoju asmeniu laikomas apmokestinamasis asmuo, kuris turi buveinę arba padalinį (padalinius) Europos Sąjungos teritorijoje, tačiau ne vartojimo valstybėje narėje;
 
 
 
 
-4) PVM deklaracija laikoma centrinio mokesčio administratoriaus nustatytos formos deklaracija, kurioje deklaruojama atskirai kiekvienoje paslaugų teikimo valstybėje narėje per ataskaitinį laikotarpį elektroniniu būdu suteiktų paslaugų vertė (be PVM) bei mokėtinas PVM (taikant atitinkamoje paslaugų teikimo valstybėje narėje šioms paslaugoms nustatytą PVM tarifą).
+2) registravimosi valstybe nare laikoma ta valstybė narė, kurioje apmokestinamasis asmuo turi buveinę, arba, jeigu jis Europos Sąjungos teritorijoje buveinės neturi, – ta valstybė narė, kurioje šis asmuo turi padalinį. Jeigu apmokestinamasis asmuo, kuris neturi buveinės Europos Sąjungos teritorijoje, turi padalinius keliose valstybėse narėse, registravimosi valstybe laikoma ta valstybė narė, kurioje šis asmuo turi padalinį ir kurią jis pasirenka laikyti registravimosi valstybe nare (šis apmokestinamojo asmens pasirinkimas dėl registravimosi valstybės narės galioja ne trumpiau kaip einamuosius ir ateinančius dvejus kalendorinius metus, išskyrus atvejus, kai apmokestinamasis asmuo neatitinka šiame punkte nustatytų sąlygų dėl buveinės ar padalinio registravimosi valstybėje narėje turėjimo).
 
 
 
 
-Straipsnio pakeitimai:
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+
+
+4. Šiame skirsnyje vartojimo valstybe nare laikoma valstybė narė, kurioje, remiantis kriterijais, nustatančiais paslaugų suteikimo vietą, telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamos paslaugos laikomos suteiktomis.
  
 
 
 
 
-115(2) straipsnis. Registravimas
 
 
-1. Apmokestinamieji asmenys, įsikūrę už Europos Sąjungos teritorijos ribų ir Europos Sąjungos teritorijoje elektroniniu būdu teikiantys paslaugas, nusprendę pasirinkti registravimosi valstybe nare Lietuvos Respubliką, registruojami ir išregistruojami, taip pat registracijos numeris jiems suteikiamas centrinio mokesčio administratoriaus nustatyta tvarka.
+1152 straipsnis. Registravimas 
+
+
+1. Už Europos Sąjungos teritorijos ribų įsikūrę apmokestinamieji asmenys, pasirinkę taikyti Sąjungoje neįsikūrusių asmenų schemą ir registruotis PVM mokėtojais Lietuvos Respublikoje, taip pat Lietuvos Respublikos apmokestinamieji asmenys arba padalinį Lietuvos Respublikoje turintys už Europos Sąjungos teritorijos ribų įsikūrę apmokestinamieji asmenys, pasirinkę taikyti Sąjungoje įsikūrusių asmenų schemą ir Lietuvos Respubliką laikyti registravimosi valstybe nare, registruojami, išregistruojami ir PVM mokėtojo kodas jiems sudaromas ir suteikiamas centrinio mokesčio administratoriaus nustatyta tvarka. 
 
 
 
 
 2. Apmokestinamasis asmuo reikalingą informaciją mokesčio administratoriui, taip pat mokesčio administratorius informaciją apmokestinamajam asmeniui teikia elektroninėmis priemonėmis. 
+ 
 
 
-Straipsnio pakeitimai:
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
- 
- 
 
 
 
@@ -5706,29 +5828,31 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 1153 straipsnis. PVM deklaracijos pateikimas ir PVM sumokėjimas
 
 
-1. Apmokestinamasis asmuo, kuriam taikomos šio skirsnio nuostatos, kiekvienam kalendoriniam ketvirčiui pasibaigus iki kito ketvirčio pirmo mėnesio 20 dienos privalo centrinio mokesčio administratoriaus nustatyta tvarka pateikti šiame skirsnyje nurodytą PVM deklaraciją. PVM deklaracija teikiama neatsižvelgiant į tai, ar jis tą kalendorinį ketvirtį elektroniniu būdu teikė paslaugas Europos Sąjungos teritorijoje, ar ne.
+1. Apmokestinamasis asmuo, Lietuvos Respublikoje pasirinkęs taikyti šiame skirsnyje nustatytą Sąjungoje neįsikūrusių asmenų schemą ar Sąjungoje įsikūrusių asmenų schemą, kiekvienam kalendoriniam ketvirčiui pasibaigus iki kito ketvirčio pirmo mėnesio 20 dienos privalo pateikti PVM deklaraciją, naudodamas bendrą elektroninį pranešimą, nustatytą 2012 m. rugsėjo 13 d. Komisijos įgyvendinimo reglamente (ES) Nr. 815/2012, kuriuo nustatomos išsamios Tarybos reglamento (ES) Nr. 904/2010, kiek tai susiję su specialiomis schemomis neįsisteigusiems apmokestinamiesiems asmenims, teikiantiems telekomunikacijų, transliavimo ar elektronines paslaugas neapmokestinamiesiems asmenims, taikymo taisyklės (OL 2012 L 249, p. 3). PVM deklaracijai užpildyti reikalingus duomenis, PVM deklaracijos užpildymo ir pateikimo tvarką nustato centrinis mokesčio administratorius. PVM deklaracija teikiama neatsižvelgiant į tai, ar apmokestinamasis asmuo tą kalendorinį ketvirtį teikė paslaugas, kurioms taikomos šio skirsnio nuostatos, ar ne.
 
 
 
 
-2. Apmokestinamasis asmuo, kuriam taikomos šio skirsnio nuostatos, centrinio mokesčio administratoriaus nustatyta tvarka ne vėliau kaip iki šio straipsnio 1 dalyje nurodyto PVM deklaracijos pateikimo termino pabaigos privalo sumokėti PVM deklaracijoje nurodytą PVM sumą, apskaičiuotą už visas Europos Sąjungos teritorijoje elektroniniu būdu suteiktas paslaugas.
+2. Apmokestinamasis asmuo, Lietuvos Respublikoje pasirinkęs taikyti šiame skirsnyje nustatytą Sąjungoje neįsikūrusių asmenų schemą ar Sąjungoje įsikūrusių asmenų schemą, centrinio mokesčio administratoriaus nustatyta tvarka ne vėliau kaip iki šio straipsnio 1 dalyje nurodyto PVM deklaracijos pateikimo termino pabaigos privalo sumokėti PVM deklaracijoje nurodytą PVM sumą, apskaičiuotą už visas suteiktas paslaugas, kurioms taikomos šio skirsnio nuostatos.
 
 
 
 
-3. Apmokestinamojo asmens, kuriam taikomos šio skirsnio nuostatos, sumokėtas PVM yra finansų ministro nustatyta tvarka paskirstomas valstybėms narėms, kurių teritorijoje šis asmuo teikė paslaugas.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+3. Apmokestinamojo asmens, Lietuvos Respublikoje pasirinkusio taikyti šiame skirsnyje nustatytą Sąjungoje neįsikūrusių asmenų schemą ar Sąjungoje įsikūrusių asmenų schemą, sumokėtas PVM laikantis Reglamento (ES) Nr. 904/2010 nuostatų paskirstomas valstybėms narėms, kurių teritorijoje šis asmuo teikė paslaugas. Detalią šio PVM paskirstymo tvarką nustato finansų ministras.
  
 
 
 
 
-115(4) straipsnis. Reikalavimai apskaitai
-Centrinis mokesčio administratorius turi teisę nustatyti reikalavimus asmenų, kuriems taikomos šio skirsnio nuostatos, apskaitai.
+
+
+1154 straipsnis. Apskaitos reikalavimai 
+
+
+Apmokestinamieji asmenys, kuriems taikomos šio skirsnio nuostatos, privalo tvarkyti telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamų paslaugų, už kurias PVM mokamas šiame skirsnyje nustatyta tvarka, apskaitą taip, kaip tai nustatyta Reglamento (ES) Nr. 282/2011 63c straipsnyje. Apmokestinamieji asmenys privalo saugoti apskaitos duomenis 10 kalendorinių metų, skaičiuojamų nuo kitų metų, negu buvo suteiktos telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamos paslaugos, taip pat sudaryti galimybę šiuo 10 metų laikotarpiu vartojimo valstybės narės ar registravimosi valstybės narės kompetentingoms institucijoms jų reikalavimu šiuos apskaitos duomenis gauti elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais. 
  
+
+
 
 
 
@@ -5736,15 +5860,15 @@ Centrinis mokesčio administratorius turi teisę nustatyti reikalavimus asmenų,
 1155 straipsnis. Atvejai, kai šio skirsnio nuostatų taikymas nutraukiamas
 
 
-Šio skirsnio nuostatos nebetaikomos, jeigu apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų:
+Šio skirsnio nuostatos nebetaikomos, jeigu apmokestinamasis asmuo:
 
 
-1) nutraukia paslaugų teikimą elektroniniu būdu Europos Sąjungos teritorijoje arba
+1) praneša, kad nutraukia telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamų paslaugų teikimą Europos Sąjungos teritorijoje, arba
 
 
 
 
-2) nebevykdo ekonominės veiklos, arba
+2) mokesčio administratoriaus duomenimis, nebevykdo ekonominės veiklos, nurodytos šiame skirsnyje, arba
 
 
 
@@ -5759,11 +5883,13 @@ Centrinis mokesčio administratorius turi teisę nustatyti reikalavimus asmenų,
 
 
 
-Straipsnio pakeitimai:
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+
+
+Įstatymas papildytas penktuoju skirsniu 
+Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
+Skirsnio pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
  
-
-
 
 
 
@@ -5788,7 +5914,10 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 2. Teisė susigrąžinti PVM, sumokėtą Lietuvos Respublikoje, suteikiama užsienio apmokestinamiesiems asmenims, įsikūrusiems tose užsienio valstybėse, kuriose sumokėtą PVM (ar jam tapatų mokestį) gali susigrąžinti Lietuvos Respublikos apmokestinamieji asmenys. Jeigu užsienio valstybė taiko apribojimus Lietuvos Respublikos apmokestinamiesiems asmenims, siekiantiems susigrąžinti PVM (ar jam tapatų mokestį) toje užsienio valstybėje, Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija turi teisę nustatyti analogiškus grąžinimo apribojimus tos užsienio valstybės apmokestinamiesiems asmenims, siekiantiems susigrąžinti PVM Lietuvos Respublikoje. Šios dalies nuostatos netaikomos:
 
 
-1) už Europos Sąjungos teritorijos ribų įsikūrusiems apmokestinamiesiems asmenims, kuriems taikomos šio Įstatymo XII skyriaus penktojo skirsnio nuostatos ar bet kurios kitos valstybės narės tolygios nuostatos ir kurie pageidauja susigrąžinti Lietuvos Respublikoje sumokėtą PVM už prekes (paslaugas), skirtas paslaugoms teikti elektroniniu būdu Europos Sąjungos teritorijoje;
+1) už Europos Sąjungos teritorijos ribų įsikūrusiems apmokestinamiesiems asmenims, kuriems taikomos šio Įstatymo XII skyriaus penktojo skirsnio nuostatos ar bet kurios kitos valstybės narės tolygios nuostatos ir kurie pageidauja susigrąžinti Lietuvos Respublikoje sumokėtą PVM už prekes (paslaugas), skirtas telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamoms paslaugoms Europos Sąjungos teritorijoje teikti;
+Straipsnio punkto pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -5838,7 +5967,18 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 
-3) vykdė veiklą, nurodytą šio Įstatymo XII skyriaus penktajame skirsnyje.
+3) vykdė veiklą, kuriai taikoma Sąjungoje neįsikūrusių asmenų schema, nurodyta šio Įstatymo XII skyriaus penktajame skirsnyje;
+Straipsnio punkto pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
+
+
+
+
+4) vykdė tik veiklą, kuriai taikoma Sąjungoje įsikūrusių asmenų schema pagal kitos valstybės narės teisės aktų nuostatas, iš esmės tolygias šio Įstatymo XII skyriaus penktojo skirsnio nuostatoms, taip pat tais atvejais, kai kartu su veikla, kuriai taikoma Sąjungoje įsikūrusių asmenų schema pagal kitos valstybės narės teisės aktų nuostatas, iš esmės tolygias šio Įstatymo XII skyriaus penktojo skirsnio nuostatoms, vykdė kitą veiklą, dėl kurios šis asmuo nėra ir neprivalo būti įregistruotas PVM mokėtoju Lietuvos Respublikoje.
+Papildyta straipsnio punktu:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -5878,7 +6018,10 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 2. Šio straipsnio 1 dalyje nurodytas PVM gali būti grąžinamas tik tuo atveju, jeigu prekės ir (arba) paslaugos, už kurias sumokėtą PVM prašoma grąžinti, skirtos naudoti tokiai užsienio apmokestinamojo asmens ekonominei veiklai:
 
 
-1) nurodytai šio Įstatymo 117 straipsnio 2 dalies 1 ir 2 punktuose, ir (arba)
+1) nurodytai šio Įstatymo 117 straipsnio 2 dalyje, ir (arba)
+Straipsnio punkto pakeitimai:
+Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+ 
 
 
 
@@ -6884,3 +7027,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 12, 15, 40, 71, 71-1, 79, 80, 84 ir 92 straipsnių pakeitimo įstatymas
