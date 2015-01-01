@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2014-10-18 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2018-11-06
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -267,7 +267,10 @@ Straipsnio dalies pakeitimai:
 Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
  
 
-5. Fizinių asmenų piniginės aukos, viršijančios 1 000 litų, privalo būti aukojamos tik banko pavedimu. Ne banko pavedimu gautas fizinių asmenų pinigines aukas politinei kampanijai politinės kampanijos iždininkas ne vėliau kaip kitą darbo dieną po aukos gavimo perveda į politinės kampanijos sąskaitą.
+5. Fizinių asmenų piniginės aukos, viršijančios 290 eurų, privalo būti aukojamos tik banko pavedimu. Ne banko pavedimu gautas fizinių asmenų pinigines aukas politinei kampanijai politinės kampanijos iždininkas ne vėliau kaip kitą darbo dieną po aukos gavimo perveda į politinės kampanijos sąskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
+ 
 
 6. Politinės kampanijos iždininkas ne vėliau kaip per 10 darbo dienų nuo aukos gavimo dienos Vyriausiosios rinkimų komisijos interneto svetainėje skelbiamame viešame aukotojų sąraše paskelbia aukotojo – fizinio asmens – vardą ir pavardę.
 
@@ -286,7 +289,10 @@ Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
 
 11 straipsnis. Mažos aukos
 
-1. Maža auka laikoma piniginė fizinio asmens auka (aukų suma), per politinę kampaniją suteikta vienam savarankiškam politinės kampanijos dalyviui ir neviršijanti 40 litų.
+1. Maža auka laikoma piniginė fizinio asmens auka (aukų suma), per politinę kampaniją suteikta vienam savarankiškam politinės kampanijos dalyviui ir neviršijanti 12 eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
+ 
 
 2. Mažas aukas savarankiškiems politinės kampanijos dalyviams galima suteikti telefonu, internetu, banko pavedimu ir kitomis priemonėmis, leidžiančiomis politinės kampanijos finansavimo kontrolę vykdančioms institucijoms nustatyti aukotoją.
 
@@ -302,7 +308,10 @@ Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
 
 4) paslaugos teikėjo pareiga politinės kampanijos finansavimo kontrolę vykdančių institucijų reikalavimu nedelsiant pateikti aukotojų sąrašą su aukotojus nustatyti leidžiančiais duomenimis;
 
-5) paslaugos teikėjo įsipareigojimas, kad savarankiškam politinės kampanijos dalyviui pervedama vieno fizinio asmens auka (aukų suma) neviršytų 40 litų.
+5) paslaugos teikėjo įsipareigojimas, kad savarankiškam politinės kampanijos dalyviui pervedama vieno fizinio asmens auka (aukų suma) neviršytų 12 eurų. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
+ 
 
 5. Šio straipsnio 4 dalyje nurodytos sutarties nuorašas, sudarius sutartį, nedelsiant perduodamas Vyriausiajai rinkimų komisijai. Ji sutarties tekstą ne vėliau kaip kitą darbo dieną paskelbia savo interneto svetainėje.
 
@@ -361,9 +370,15 @@ Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
 
 1. Prasidėjus politinei kampanijai, visos politinės kampanijos išlaidos gali būti apmokamos tik iš politinės kampanijos sąskaitoje esančių lėšų.
 
-2. Tais atvejais, kai rinkimų apygarda apima visą Lietuvos Respublikos teritoriją, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: Lietuvos Respublikos rinkėjų sąraše įrašytų rinkėjų skaičius dauginamas iš 1 lito ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu.
+2. Tais atvejais, kai rinkimų apygarda apima visą Lietuvos Respublikos teritoriją, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: Lietuvos Respublikos rinkėjų sąraše įrašytų rinkėjų skaičius dauginamas iš 0,29 euro ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
+ 
 
-3. Tais atvejais, kai rinkimų apygarda apima dalį Lietuvos Respublikos teritorijos, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: vienos rinkimų apygardos rinkėjų skaičius dauginamas iš 2 litų ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu. Jeigu sandauga yra mažesnė kaip 20 000 litų, nustatomas didžiausias politinės kampanijos išlaidų dydis – 20 000 litų. Savivaldybių tarybų rinkimuose politinė partija, iškėlusi kandidatų sąrašą (sąrašus), papildomai šiai politinei kampanijai gali išleisti ne daugiau kaip 10 procentų šios partijos iškeltų kandidatų sąrašo (sąrašų) didžiausios politinės kampanijos išlaidų sumos.
+3. Tais atvejais, kai rinkimų apygarda apima dalį Lietuvos Respublikos teritorijos, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: vienos rinkimų apygardos rinkėjų skaičius dauginamas iš 0,58 euro ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu. Jeigu sandauga yra mažesnė kaip 5 792 eurai, nustatomas didžiausias politinės kampanijos išlaidų dydis – 5 792 eurai. Savivaldybių tarybų rinkimuose politinė partija, iškėlusi kandidatų sąrašą (sąrašus), papildomai šiai politinei kampanijai gali išleisti ne daugiau kaip 10 procentų šios partijos iškeltų kandidatų sąrašo (sąrašų) didžiausios politinės kampanijos išlaidų sumos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
+ 
 
 4. Politinės kampanijos išlaidomis pripažįstami politinės kampanijos dalyvio politinės kampanijos laikotarpiu turėtos išlaidos ir prisiimti įsipareigojimai, skirti:
 
@@ -696,4 +711,9 @@ Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo be
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
 Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 2, 3, 10 ir 12 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 10, 11, 14 straipsnių pakeitimo įstatymas
 
