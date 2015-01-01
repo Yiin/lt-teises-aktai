@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.124A72B2BF7F"
 
 # Lietuvos Respublikos įstatymas dėl Šiaurės Atlanto Sutarties Šalių susitarimo dėl jų karinių pajėgų statuso ir Protokolo dėl tarptautinių karinių vadaviečių, įsteigtų įgyvendinant Šiaurės Atlanto Sutartį, statuso ratifikavimo
 
+Suvestinė redakcija nuo 2015-01-01
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 112-4166, i. k. 1041010ISTA0IX-2225
+ 
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
 DĖL ŠIAURĖS ATLANTO SUTARTIES ŠALIŲ SUSITARIMO DĖL JŲ KARINIŲ PAJĖGŲ STATUSO IR PROTOKOLO DĖL TARPTAUTINIŲ KARINIŲ VADAVIEČIŲ, ĮSTEIGTŲ ĮGYVENDINANT ŠIAURĖS ATLANTO SUTARTĮ, STATUSO RATIFIKAVIMO
@@ -36,7 +41,10 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 
-1. Vadovaudamasis Šiaurės Atlanto Sutarties Šalių susitarimo dėl jų karinių pajėgų statuso VIII straipsnio 2 dalies f punktu, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika atsisako reikalavimų kitoms Susitariančiosioms Šalims atlyginti jos turtui padarytą žalą, jeigu ši žala yra mažesnė negu 2574 litai.
+1. Lietuvos Respublikos Seimas, vadovaudamasis Šiaurės Atlanto Sutarties Šalių susitarimo dėl jų karinių pajėgų statuso VIII straipsnio 2 dalies f punktu, pareiškia, kad Lietuvos Respublika atsisako reikalavimų kitoms Susitariančiosioms Šalims atlyginti jos turtui padarytą žalą, jeigu ši žala yra mažesnė negu 745 eurai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1171, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13578
+ 
 
 
 
@@ -55,3 +63,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LAIKINAI EINANTIS
 RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1171, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13578
+Lietuvos Respublikos įstatymo "Dėl Šiaurės Atlanto Sutarties Šalių susitarimo dėl jų karinių pajėgų statuso ir Protokolo dėl tarptautinių karinių vadaviečių, įsteigtų įgyvendinant Šiaurės Atlanto Sutartį, statuso ratifikavimo" Nr. IX-2225 2 straipsnio pakeitimo įstatymas
