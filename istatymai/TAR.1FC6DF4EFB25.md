@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS PANEVĖŽIO LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 33-1544, i. k. 1121010ISTA0XI-1924
+ 
 LIETUVOS RESPUBLIKOS  PANEVĖŽIO LAISVOSIOS EKONOMINĖS ZONOS  ĮSTATYMAS
  
 2012 m. kovo 13 d. Nr. XI-1924 
@@ -79,7 +83,9 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 
 
-2. Zonos teritorija ne aukciono būdu Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka išnuomojama zonos valdymo bendrovei.
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-944, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07827
  
 
 
@@ -446,3 +452,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-944, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07827
+Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 4 straipsnio pakeitimo įstatymas
