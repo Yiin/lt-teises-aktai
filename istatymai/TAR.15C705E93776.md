@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -713,82 +713,138 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-6) nustato krašto apsaugos sistemos veiklos apsaugos ir vidaus saugumo reikalavimus ir jų įgyvendinimo tvarką;
+6) nustato ginklų, ginklų priedėlių, šaudmenų, sprogmenų, specialiųjų priemonių gamybos, taisymo (išskyrus sprogmenis), perdavimo, laikymo, saugojimo, gabenimo, nešiojimo, naudojimo krašto apsaugos sistemoje tvarką, taip pat sprogmenų sunaikinimo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-7) nustato Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos duomenų kaupimo, apdorojimo ir teikimo tvarką;
+7) nustato krašto apsaugos sistemos veiklos apsaugos ir vidaus saugumo reikalavimus ir jų įgyvendinimo tvarką;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-8) teikia Respublikos Prezidentui tvirtinti kariuomenės dalinių nuolatinio dislokavimo vietas, taip pat kartu su užsienio reikalų ministru teikia Respublikos Prezidentui pasiūlymus dėl Lietuvos Respublikos karinių vienetų dalyvavimo tarptautinėse operacijose ir kitų valstybių karinių vienetų dalyvavimo tarptautinėse operacijose Lietuvos Respublikos teritorijoje;
+8) nustato Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos duomenų kaupimo, apdorojimo ir teikimo tvarką;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-9) rengia ir teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą bei rekomendaciją, tvirtina valstybės karinę strategiją;
+9) teikia Respublikos Prezidentui tvirtinti kariuomenės dalinių nuolatinio dislokavimo vietas, taip pat kartu su užsienio reikalų ministru teikia Respublikos Prezidentui pasiūlymus dėl Lietuvos Respublikos karinių vienetų dalyvavimo tarptautinėse operacijose ir kitų valstybių karinių vienetų dalyvavimo tarptautinėse operacijose Lietuvos Respublikos teritorijoje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-10) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kiekvienais metais, atsižvelgdamas į šio įstatymo 10¹ straipsnį, teikia Seimui pavasario sesijoje tvirtinti kitų metų principinę kariuomenės struktūrą, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius;
+10) rengia ir teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą bei rekomendaciją, tvirtina valstybės karinę strategiją;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-11) nustato karių atrankos ir vadų skyrimo į pareigas sistemą bei tvarką;
+11) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kiekvienais metais, atsižvelgdamas į šio įstatymo 10¹ straipsnį, teikia Seimui pavasario sesijoje tvirtinti kitų metų principinę kariuomenės struktūrą, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-12) nustato karių atrankos aukštesniam laipsniui gauti sistemą; suteikia kariams aukštesnius laipsnius, išskyrus pirmąjį karininko laipsnį ir aukštesnius už pulkininko leitenanto (komandoro) laipsnius;
+12) nustato karių atrankos ir vadų skyrimo į pareigas sistemą bei tvarką;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-13) teikia Respublikos Prezidentui pasiūlymus suteikti kariams pulkininko (jūrų kapitono) ir generolų (admirolų) laipsnius ir, vadovaudamasis Lietuvos Respublikos Konstitucijos 85 straipsniu, pasirašo Respublikos Prezidento aktus-dekretus dėl aukščiausių karinių laipsnių suteikimo;
+13) nustato karių atrankos aukštesniam laipsniui gauti sistemą; suteikia kariams aukštesnius laipsnius, išskyrus pirmąjį karininko laipsnį ir aukštesnius už pulkininko leitenanto (komandoro) laipsnius;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-14) teikia Respublikos Prezidentui pasiūlymus dėl karių, įstatymu jiems prilygintų asmenų, kitų krašto gynyboje pasižymėjusių asmenų valstybinių apdovanojimų;
+14) teikia Respublikos Prezidentui pasiūlymus suteikti kariams pulkininko (jūrų kapitono) ir generolų (admirolų) laipsnius ir, vadovaudamasis Lietuvos Respublikos Konstitucijos 85 straipsniu, pasirašo Respublikos Prezidento aktus-dekretus dėl aukščiausių karinių laipsnių suteikimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-15) teikia Respublikos Prezidentui siūlymus dėl kariuomenės vado kandidatūrų;
+15) teikia Respublikos Prezidentui pasiūlymus dėl karių, įstatymu jiems prilygintų asmenų, kitų krašto gynyboje pasižymėjusių asmenų valstybinių apdovanojimų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-16) skiria į pareigas ir iš jų atleidžia krašto apsaugos generalinį inspektorių ir Generolo Jono Žemaičio Lietuvos karo akademijos viršininką, kariuomenės vado teikimu skiria į pareigas ir iš jų atleidžia pajėgumų ir ginkluotės generalinį direktorių, Jungtinio štabo viršininką, kariuomenės pajėgų rūšių vadus, krašto apsaugos savanorių pajėgų vadą, teisės aktų nustatyta tvarka skiria į pareigas ir iš jų atleidžia karinius atstovus ir specialiuosius atašė bei jų pavaduotojus ir padėjėjus, taip pat tvirtina šiame punkte nurodytų pareigybių nuostatus (aprašus);
+16) teikia Respublikos Prezidentui siūlymus dėl kariuomenės vado kandidatūrų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-17) nustato karių rotacijos ir skyrimo į pareigas tvarką, skiria karius į kariuomenės pajėgų rūšių vadų pavaduotojų, junginių ir dalinių vadų pareigas, taip pat į pulkininko leitenanto (komandoro) ir aukštesnį laipsnį atitinkančias pareigas, juos atleidžia iš pareigų ar perkelia iš vienos krašto apsaugos sistemos institucijos arba kariuomenės junginio ar dalinio į kitą; skiria karius į pareigas Krašto apsaugos ministerijoje ir įstaigose prie Krašto apsaugos ministerijos, prireikus deleguoja karius į tarnybą krašto apsaugos sistemai nepriklausančiose valstybės institucijose, kitų valstybių ar tarptautinėse institucijose;
+17) skiria į pareigas ir iš jų atleidžia krašto apsaugos generalinį inspektorių ir Generolo Jono Žemaičio Lietuvos karo akademijos viršininką, kariuomenės vado teikimu skiria į pareigas ir iš jų atleidžia pajėgumų ir ginkluotės generalinį direktorių, Jungtinio štabo viršininką, kariuomenės pajėgų rūšių vadus, krašto apsaugos savanorių pajėgų vadą, teisės aktų nustatyta tvarka skiria į pareigas ir iš jų atleidžia karinius atstovus ir specialiuosius atašė bei jų pavaduotojus ir padėjėjus, taip pat tvirtina šiame punkte nurodytų pareigybių nuostatus (aprašus);
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-18) priima karius į profesinę karo tarnybą ir išleidžia juos į atsargą; 
+18) nustato karių rotacijos ir skyrimo į pareigas tvarką, skiria karius į kariuomenės pajėgų rūšių vadų pavaduotojų, junginių ir dalinių vadų pareigas, taip pat į pulkininko leitenanto (komandoro) ir aukštesnį laipsnį atitinkančias pareigas, juos atleidžia iš pareigų ar perkelia iš vienos krašto apsaugos sistemos institucijos arba kariuomenės junginio ar dalinio į kitą; skiria karius į pareigas Krašto apsaugos ministerijoje ir įstaigose prie Krašto apsaugos ministerijos, prireikus deleguoja karius į tarnybą krašto apsaugos sistemai nepriklausančiose valstybės institucijose, kitų valstybių ar tarptautinėse institucijose;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-19) nustato profesinės karo tarnybos karių perkėlimo į laikinąjį profesinės karo tarnybos rezervą tvarką ir tvirtina šio rezervo nuostatus;
+19) priima karius į profesinę karo tarnybą ir išleidžia juos į atsargą; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-20) įsteigia krašto apsaugos sistemos medalius, kvalifikacijos bei pasižymėjimo ženklus ir nustato apdovanojimo jais tvarką;
+20) nustato profesinės karo tarnybos karių perkėlimo į laikinąjį profesinės karo tarnybos rezervą tvarką ir tvirtina šio rezervo nuostatus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
 
-21) vykdo kitus įstatymų, Vyriausybės ir Ministro Pirmininko jam suteiktus įgaliojimus.
+21) įsteigia krašto apsaugos sistemos medalius, kvalifikacijos bei pasižymėjimo ženklus ir nustato apdovanojimo jais tvarką;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
+
+
+
+
+22) vykdo kitus įstatymų, Vyriausybės ir Ministro Pirmininko jam suteiktus įgaliojimus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 
@@ -1545,7 +1601,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-12. Šio straipsnio nurodytais atvejais teikdama pagalbą kitoms valstybės ar savivaldybių institucijoms specialiąsias priemones ir ginklus kariuomenė gali naudoti tik tiek, kiek yra būtina pagalbos tikslams pasiekti. Specialiosios priemonės ir ginklai naudojami įstatymų nustatyta tvarka.
+12. Šio straipsnio nurodytais atvejais teikdama pagalbą kitoms valstybės ar savivaldybių institucijoms karinę jėgą kariuomenė gali naudoti tik tiek, kiek yra būtina pagalbos tikslams pasiekti. Karinė jėga naudojama Karinės jėgos naudojimo statute nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
 
 
 Straipsnio pakeitimai:
@@ -2003,12 +2062,12 @@ Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 25 straipsnis. Statutai
 
 
-1. Karo tarnybos atlikimo tvarką ir sąlygas, karių drausminę atsakomybę, ginklo panaudojimą, civilinės krašto apsaugos tarnybos tvarką ir sąlygas nustato statutai. Detalias kariuomenės statutų vykdymo ir tarnybos atlikimo procedūras nustato kariuomenės vadas. Kariuomenės vienetų, karinių mokymo ir kitokių įstaigų vidaus tvarką nustato vadų ir karinių viršininkų patvirtintos vidaus tvarkos taisyklės.
+1. Karo tarnybos atlikimo tvarką ir sąlygas, karių drausminę atsakomybę, karinės jėgos panaudojimą, civilinės krašto apsaugos tarnybos tvarką ir sąlygas nustato statutai. Detalias kariuomenės statutų vykdymo ir tarnybos atlikimo procedūras nustato kariuomenės vadas. Kariuomenės vienetų, karinių mokymo ir kitokių įstaigų vidaus tvarką nustato vadų ir karinių viršininkų patvirtintos vidaus tvarkos taisyklės.
 
 
 
 
-2. Statutai, kurie reglamentuoja karių drausminę atsakomybę ir ginklo panaudojimą, civilinę krašto apsaugos tarnybą, tvirtinami įstatymais. Kitus statutus tvirtina krašto apsaugos ministras.
+2. Statutai, kurie reglamentuoja karių drausminę atsakomybę ir karinės jėgos panaudojimą, civilinę krašto apsaugos tarnybą, tvirtinami įstatymais. Kitus statutus tvirtina krašto apsaugos ministras.
 
 
 Straipsnio pakeitimai:
@@ -2016,6 +2075,8 @@ Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. VIII-1668, 00.05.09, Žin., 2000, Nr.42-1194 (00.05.24)
 Nr. IX-1727, 2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
+Straipsnio pakeitimai:
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
  
 
 
@@ -4404,7 +4465,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-11. Kariui žuvus mokama 120 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimalių mėnesinių algų kiekvienam kario išlaikytiniui. Kariūnui žuvus mokama 120 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimalių mėnesinių algų kiekvienam kariūno išlaikytiniui. Visais atvejais bendra kariui (kariūnui) žuvus išmokamos kompensacijos suma negali viršyti 350 000 litų. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 36 mėnesius. 
+11. Kariui žuvus mokama 120 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam kario išlaikytiniui. Kariūnui žuvus mokama 120 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija, bet ne mažiau kaip po 100 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam kariūno išlaikytiniui. Visais atvejais bendra kariui (kariūnui) žuvus išmokamos kompensacijos suma negali viršyti 101 370 eurų. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 36 mėnesius.
+Straipsnio dalies pakeitimai:
+Nr. XII-1168, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13582
+ 
 
 
 
@@ -4694,7 +4758,9 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-4. Valstybės tarnautojas savo iniciatyva gali nutraukti civilinės krašto apsaugos tarnybos sutartį pirma įsipareigoto tarnauti laiko tik tuo atveju, jeigu negali tęsti tarnybos dėl ligos ar neįgalumo arba dėl kitų nuo jo nepriklausančių ir nepašalinamų priežasčių.
+4. Neteko galios nuo 2015-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
 Straipsnio dalies pakeitimai:
 Nr. XII-1158, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13595
  
@@ -4702,12 +4768,18 @@ Nr. XII-1158, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13595
 
 
 
-5. Jeigu valstybės tarnautojas nutraukia sutartį pažeisdamas šio straipsnio 2 dalyje nurodytus įsipareigojimus, kai nėra šio straipsnio 4 dalyje nurodytų priežasčių, arba jei sutartis nutraukiama darbdavio iniciatyva dėl tarnautojo kaltės, asmuo privalo atlyginti valstybei krašto apsaugos sistemos išlaidas, tiesiogiai susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu, įskaitant ir mokymosi užsienio mokyklose bei kursuose išlaidas, kurias kaip pagalbą krašto apsaugos sistemai padengė užsienio valstybės. Jeigu asmuo nevykdo šios pareigos, išlaidos iš jo išieškomos įstatymų nustatyta tvarka.
+5. Neteko galios nuo 2015-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
+ 
 
 
 
 
-6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti su valstybės tarnyba nesuderinama Valstybės tarnybos įstatyme apibrėžta veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 6, 7, 8, 9 ir 11 dalyse numatyti karių tarnybai taikomi apribojimai.
+6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti su valstybės tarnyba nesuderinama Valstybės tarnybos įstatyme apibrėžta veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 6, 8, 9 ir 11 dalyse numatyti karių tarnybai taikomi apribojimai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
+ 
 
 
 
@@ -4731,7 +4803,10 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 74 straipsnis. Civilinės krašto apsaugos tarnybos kvalifikacinių kategorijų sistema
 
 
-1. Civilinės krašto apsaugos tarnybos tarnautojų – gynybos specialistų ir vadovų – kvalifikacijai ir patirčiai žymėti nustatoma kvalifikacinių kategorijų sistema.
+1. Civilinės krašto apsaugos tarnybos tarnautojų kvalifikacijai ir patirčiai žymėti nustatoma kvalifikacinių kategorijų sistema.
+Straipsnio dalies pakeitimai:
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
+ 
 
 
 
@@ -4756,12 +4831,14 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 75 straipsnis. Civilinės krašto apsaugos tarnybos valstybės tarnautojų darbo apmokėjimas
 
 
-Civilinės krašto apsaugos tarnybos valstybės tarnautojų darbo apmokėjimą reglamentuoja Lietuvos Respublikos valstybės tarnybos įstatymas.
+Civilinės krašto apsaugos tarnybos valstybės tarnautojų darbo apmokėjimą reglamentuoja Valstybės tarnybos įstatymas ir Civilinės krašto apsaugos tarnybos statutas.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1668, 00.05.09, Žin., 2000, Nr.42-1194 (00.05.24)
 Nr. IX-1727, 2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
+Straipsnio pakeitimai:
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
  
 
 
@@ -4783,19 +4860,9 @@ Nr. IX-1727, 2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 
 
 
-77 straipsnis. Krašto apsaugos sistemos tarnautojų premijavimas
-
-
-1. Krašto apsaugos sistemos tarnautojai premijuojami bendra valstybės tarnautojų premijavimo tvarka.
-
-
-
-
-2. Civilinės krašto apsaugos tarnybos tarnautojams, nepriekaištingai atliekantiems tarnybines pareigas, du kartus per metus (Kalėdų ir Velykų proga) gali būti išmokamos iki vieno pareiginio atlyginimo dydžio šventinės premijos ir ne daugiau kaip kartą per metus iki vieno mėnesinio tarnybinio atlyginimo (be pareiginio priedo) premijos už pavyzdingą tarnybą, įvertinus jų tarnybinę veiklą labai gerai ar gerai. Premijos mokamos iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų. Premijų dydį, mokėjimo sąlygas ir premijavimo tvarką nustato krašto apsaugos ministras.
-
-
-Straipsnio pakeitimai:
-Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
+77 straipsnis. Neteko galios nuo 2015-01-01
+Straipsnio naikinimas:
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
  
 
 
@@ -5163,3 +5230,13 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3 ir 14 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 18 ir 25 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1450, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20790
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 73, 74 ir 75 straipsnių pakeitimo ir 77 straipsnio pripažinimo netekusiu galios įstatymas
