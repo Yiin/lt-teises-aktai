@@ -21,6 +21,10 @@ DRAUDIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-01-01 iki 2016-04-30
+ 
+Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
+ 
 LIETUVOS RESPUBLIKOS MAŽMENINĖS PREKYBOS ĮMONIŲ NESĄŽININGŲ VEIKSMŲ DRAUDIMO ĮSTATYMAS
  
 2009 m. gruodžio 22 d. Nr. XI-626
@@ -65,7 +69,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) bendrosios jo (jų) pajamos paskutiniais finansiniais metais yra ne mažesnės kaip 400 milijonų litų. Jeigu mažmeninės prekybos įmonė yra užsienio valstybės ūkio subjektas, bendrosios pajamos skaičiuojamos kaip Lietuvos Respublikoje gautų pajamų suma.
+2) bendrosios jo (jų) pajamos paskutiniais finansiniais metais yra ne mažesnės kaip vienas šimtas penkiolika milijonų aštuoni šimtai keturiasdešimt aštuoni tūkstančiai aštuoni eurai. Jeigu mažmeninės prekybos įmonė yra užsienio valstybės ūkio subjektas, bendrosios pajamos skaičiuojamos kaip Lietuvos Respublikoje gautų pajamų suma.
+Straipsnio punkto pakeitimai:
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+ 
 
 
 
@@ -400,22 +407,34 @@ Konkurencijos tarybos įgalioti pareigūnai, atlikdami tyrimus dėl šio įstaty
 11 straipsnis. Baudos
 
 
-1. Už šio įstatymo 3 straipsnio 1 dalyje nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama piniginė bauda iki keturių šimtų tūkstančių litų.
+1. Už šio įstatymo 3 straipsnio 1 dalyje nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama piniginė bauda iki vieno šimto penkiolikos tūkstančių aštuonių šimtų keturiasdešimt aštuonių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+ 
 
 
 
 
-2. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama piniginė bauda iki trisdešimties tūkstančių litų. 
+2. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama piniginė bauda iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+ 
 
 
 
 
-3. Už Konkurencijos tarybos nurodymų pateikti informaciją vykdymą ne laiku mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama vieno tūkstančio litų bauda už kiekvieną nevykdymo dieną.
+3. Už Konkurencijos tarybos nurodymų pateikti informaciją vykdymą ne laiku mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną nevykdymo dieną. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+ 
 
 
 
 
-4. Už Konkurencijos tarybos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkursiančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku mažmeninės prekybos įmonėms skiriama vieno tūkstančio litų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+4. Už Konkurencijos tarybos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkursiančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku mažmeninės prekybos įmonėms skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+Straipsnio dalies pakeitimai:
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+ 
 
 
 
@@ -516,8 +535,18 @@ Konkurencijos taryba atlieka šio įstatymo stebėseną ir nuo 2011 metų kiekvi
 
 
  
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1187, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14287
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 2 ir 11 straipsnių pakeitimo įstatymas
