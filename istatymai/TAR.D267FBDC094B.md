@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2014-05-03 iki 2014-12-31
+Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -222,7 +222,10 @@ Mokesčio mokestinis laikotarpis sutampa su kalendoriniais metais.
 
 
 
-4) žemės savininkai, kurių mokėtinas mokestis mokestiniu laikotarpiu už visus nuosavybės teise turimus žemės sklypus neviršija 5 litų.
+4) žemės savininkai, kurių mokėtinas mokestis mokestiniu laikotarpiu už visus nuosavybės teise turimus žemės sklypus neviršija 2 eurų.
+Straipsnio punkto pakeitimai:
+Nr. XII-1133, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13466
+ 
 
 
 
@@ -551,3 +554,8 @@ Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
 Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2, 6 ir 9 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1133, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13466
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
