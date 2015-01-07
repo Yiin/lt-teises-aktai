@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-01-06
+Suvestinė redakcija nuo 2015-01-07 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -307,17 +307,19 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 
-2. Šio straipsnio 1 dalyje nurodytos laboratorijos, nustatydamos dervų, nikotino ir anglies monoksido kiekį cigaretėse, privalo taikyti Lietuvos standartuose, perimančiuose ISO standartus (dėl dervų kiekio – ISO 4387, dėl nikotino kiekio – ISO 10315, dėl anglies monoksido kiekio – ISO 8454, o tikrindamos ant tabako gaminių pakuočių nurodytų dervų, nikotino ir anglies monoksido kiekių tikslumą – ISO 8243), nustatytus metodus.
+2. Šio straipsnio 1 dalyje nurodytos laboratorijos, nustatydamos dervų, nikotino ir anglies monoksido kiekį cigaretėse, privalo taikyti Lietuvos standartuose, perimančiuose ISO standartus (dėl dervų kiekio – ISO 4387, dėl nikotino kiekio – ISO 10315, dėl anglies monoksido kiekio – ISO 8454, o tikrindamos ant tabako gaminių vienetinių pakelių nurodytų dervų, nikotino ir anglies monoksido kiekių tikslumą – ISO 8243), nustatytus metodus.
 
 
 
 
-3. Sveikatos apsaugos ministerija praneša Europos Bendrijų Komisijai šio straipsnio 1 dalyje nurodytų laboratorijų Lietuvos Respublikoje sąrašą, kriterijus ir taikytus stebėsenos (monitoringo) metodus, kuriais vadovaujantis laboratorijos buvo patvirtintos (akredituotos) bandymams atlikti, taip pat su tuo susijusius pasikeitimus.
-
-
+3. Sveikatos apsaugos ministerija pateikia Europos Komisijai šio straipsnio 1 dalyje nurodytų laboratorijų Lietuvos Respublikoje sąrašą, kriterijus ir taikytus stebėsenos (monitoringo) metodus, kuriais vadovaujantis laboratorijos buvo patvirtintos (akredituotos) bandymams atlikti, taip pat praneša apie su tuo susijusius pasikeitimus.
 Straipsnio pakeitimai:
 Nr. X-390, 2005-11-15, Žin., 2005, Nr. 142-5105 (2005-12-03)
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
+
+
+Straipsnio pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -347,32 +349,34 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 
-2. Ant tabako gaminių pakuočių pateikiama informacija neturi klaidinti vartotojo.
+2. Ant tabako gaminių vienetinių pakelių pateikiama informacija neturi klaidinti vartotojo.
 
 
 
 
-3. Užrašai „mažai dervų“, „lengvos“, „ypač lengvos“, „švelnios“, bet kokie kiti užrašai, prekių ženklai, piešiniai, vaizdai ar kiti ženklai, pavadinimai, teigiantys arba darantys įspūdį, kad konkretus tabako gaminys yra mažiau kenksmingas už kitus, ant tabako gaminių pakuočių draudžiami. Tokią informaciją taip pat draudžiama pateikti tabako gaminių prekybos vietose, įskaitant įrangą, skirtą tabako gaminiams išdėstyti, taip pat kartu su tabako gaminiais ar jų pakuotėmis pateikiamuose informaciniuose lapeliuose, lankstinukuose, skrajutėse ar bet kokiomis kitomis informacijos pateikimo priemonėmis.
+3. Užrašai „mažai dervų“, „lengvos“, „ypač lengvos“, „švelnios“, bet kokie kiti užrašai, prekių ženklai, piešiniai, vaizdai ar kiti ženklai, pavadinimai, teigiantys arba darantys įspūdį, kad konkretus tabako gaminys yra mažiau kenksmingas už kitus, ant tabako gaminių vienetinių pakelių draudžiami. Tokią informaciją taip pat draudžiama pateikti tabako gaminių prekybos vietose, įskaitant įrangą, skirtą tabako gaminiams išdėstyti, taip pat kartu su tabako gaminiais ar jų vienetiniais pakeliais pateikiamuose informaciniuose lapeliuose, lankstinukuose, skrajutėse ar bet kokiomis kitomis informacijos pateikimo priemonėmis.
 
 
 
 
-4. Ant kiekvieno tabako gaminių pakelio (pakuotės) turi būti nurodytas partijos, kuriai priklauso tabako gaminys, numeris ar jo atitikmuo, pagal kurį būtų galima nustatyti (identifikuoti) tabako gaminį ir jo pagaminimo vietą ir laiką. Jeigu partijos numeris ar jo atitikmuo yra užkoduoti ir neįmanoma nustatyti tabako gaminių pagaminimo vietos ir (ar) laiko, tabako gaminių gamintojai, importuotojai ir įvežėjai privalo kontroliuojančioms institucijoms pateikti šių kodų iššifravimą.
+4. Ant kiekvieno tabako gaminių vienetinio pakelio turi būti nurodytas partijos, kuriai priklauso tabako gaminys, numeris ar jo atitikmuo, pagal kurį būtų galima nustatyti (identifikuoti) tabako gaminį ir jo pagaminimo vietą ir laiką. Jeigu partijos numeris ar jo atitikmuo yra užkoduoti ir neįmanoma nustatyti tabako gaminių pagaminimo vietos ir (ar) laiko, tabako gaminių gamintojai, importuotojai ir įvežėjai privalo kontroliuojančioms institucijoms pateikti šių kodų iššifravimą.
 
 
 
 
-5. Tabako gaminių gamintojai, ženklindami tabako gaminius, be kitos teisės aktuose nustatytos informacijos, ant kiekvieno vartotojui parduoti skirto tabako gaminių pakelio (pakuotės), taip pat bet kokios išorinės tabako gaminių pakuotės, kurioje supakuoti tabako gaminiai gali būti parduodami vartotojui mažmeninės prekybos vietose, Lietuvos Respublikos valstybine kalba privalo pateikti įspėjamuosius užrašus apie tabako gaminių kenksmingą poveikį sveikatai, o ženklindami cigaretes – nurodyti ir dervų, nikotino bei anglies monoksido kiekius cigaretėse.
+5. Tabako gaminių gamintojai, ženklindami tabako gaminius, be kitos teisės aktuose nustatytos informacijos, ant kiekvieno vartotojui parduoti skirto tabako gaminių vienetinio pakelio, taip pat ant bet kokios išorinės tabako gaminių pakuotės, kurioje supakuoti tabako gaminiai gali būti parduodami vartotojui mažmeninės prekybos vietose, Lietuvos Respublikos valstybine kalba privalo pateikti įspėjamuosius užrašus apie tabako gaminių kenksmingą poveikį sveikatai, o ženklindami cigaretes – nurodyti ir dervų, nikotino bei anglies monoksido kiekį cigaretėse.
 
 
 
 
-6. Įspėjamųjų užrašų apie tabako gaminių kenksmingą poveikį sveikatai turinį, šiems užrašams, taip pat dervų, nikotino ir anglies monoksido kiekio nuorodoms ant tabako gaminių pakuočių privalomą skirti plotą, vietą, kitus šių užrašų bei nuorodų ir kitų rekvizitų pateikimo ženklinant Lietuvos Respublikoje parduodamus tabako gaminius taisykles tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
-
-
+6. Įspėjamųjų užrašų apie tabako gaminių kenksmingą poveikį sveikatai turinį, šiems užrašams, taip pat dervų, nikotino ir anglies monoksido kiekio nuorodoms ant tabako gaminių vienetinių pakelių privalomą skirti plotą, vietą, kitas šių užrašų bei nuorodų ir kitų rekvizitų pateikimo ženklinant Lietuvos Respublikoje parduodamus tabako gaminius taisykles tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
 Straipsnio pakeitimai:
 Nr. X-390, 2005-11-15, Žin., 2005, Nr. 142-5105 (2005-12-03)
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
+
+
+Straipsnio pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -1712,3 +1716,8 @@ Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 26 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
 Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 11, 14, 26, 27, 29, 30, 31 ir 33 straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymas
