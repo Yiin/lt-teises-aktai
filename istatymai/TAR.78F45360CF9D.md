@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/78f45360cf9d11e3a8ded1a0f5aff0a9"
 
 # Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-01-07
+Suvestinė redakcija nuo 2015-01-08 iki 2016-12-31
  
 Įstatymas paskelbtas: TAR 2014-04-29, i. k. 2014-04875
  
@@ -309,7 +309,10 @@ NUORODOS Į LITUS IR KITUS SUSIJUSIUS DYDŽIUS TEISINIUOSE DOKUMENTUOSE
 12 straipsnis. Nuorodos į VILIBOR teisiniuose dokumentuose
 
 
-1. Visos teisinių dokumentų nuorodos į VILIBOR indeksą nuo euro įvedimo dienos yra laikomos nuorodomis į EURIBOR indeksą, išskyrus vienos nakties VILIBOR indeksą, o nuorodos į vienos nakties VILIBOR indeksą yra laikomos nuorodomis į EONIA indeksą. Sutartyse šalys gali numatyti kitaip.
+1. Visos teisinių dokumentų nuorodos į VILIBOR indeksą, įskaitant bet kurias kitas palūkanų normos sudedamąsias dalis, nuo euro įvedimo dienos yra laikomos nuorodomis į EURIBOR indeksą, išskyrus vienos nakties VILIBOR indeksą, o nuorodos į vienos nakties VILIBOR indeksą yra laikomos nuorodomis į EONIA indeksą. Sutartyse šalys gali numatyti kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1535, 2014-12-23, paskelbta TAR 2015-01-07, i. k. 2015-00226
+ 
 
 
 
@@ -319,7 +322,9 @@ NUORODOS Į LITUS IR KITUS SUSIJUSIUS DYDŽIUS TEISINIUOSE DOKUMENTUOSE
 
 
 
-3. Kai keičiamas šio straipsnio 1 dalyje nustatytas indeksas, kreditorius negali padidinti maržos, naudojamos apskaičiuojant palūkanų normą kartu su VILIBOR indeksu arba kitaip pabloginti skolininko teisinę padėtį pagal paskolos sutartį.
+3. Kai keičiamas šio straipsnio 1 dalyje nustatytas indeksas, kreditorius negali padidinti maržos, naudojamos apskaičiuojant palūkanų normą kartu su VILIBOR indeksu, įskaitant bet kurias kitas palūkanų normos sudedamąsias dalis, arba kitaip pabloginti skolininko teisinę padėtį pagal paskolos sutartį.
+Straipsnio dalies pakeitimai:
+Nr. XII-1535, 2014-12-23, paskelbta TAR 2015-01-07, i. k. 2015-00226
  
 
 
@@ -873,3 +878,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1424, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20441
 Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 29 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1535, 2014-12-23, paskelbta TAR 2015-01-07, i. k. 2015-00226
+Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 12 straipsnio pakeitimo įstatymas
