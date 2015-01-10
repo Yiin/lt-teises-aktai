@@ -21,7 +21,7 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-12-24 iki 2015-01-09
+Suvestinė redakcija nuo 2015-01-10 iki 2015-01-10
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -77,14 +77,20 @@ TREČIASIS SKIRSNIS
 
 
 KETVIRTASIS SKIRSNIS
-2000 M. GRUODŽIO 22 D. TARYBOS REGLAMENTO (EB) NR. 44/2001 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ CIVILINĖSE IR KOMERCINĖSE BYLOSE PRIPAŽINIMO IR VYKDYMO ĮGYVENDINIMAS
+ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
 
 
  
 4 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir vykdymo tvarka
 
 
-1. Europos Sąjungos valstybių narių teismų sprendimai ir kiti pagal Europos Sąjungos reglamentus vykdytini dokumentai Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Europos Sąjungos reglamentų, šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatytą tvarką. Jeigu Europos Sąjungos reglamentai nenustato Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir leidimo juos vykdyti tvarkos, šie sprendimai pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
+1. Europos Sąjungos valstybių narių teismų sprendimai ir kiti pagal Europos Sąjungos reglamentus vykdytini dokumentai, kai Europos Sąjungos reglamentuose numatyta šių teismų sprendimų ir kitų vykdytinų dokumentų pripažinimo ir leidimo juos vykdyti procedūrų įgyvendinimo tvarka, Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Europos Sąjungos reglamentų, šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatytą tvarką. Jeigu Europos Sąjungos reglamentai nenustato Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir leidimo juos vykdyti procedūrų įgyvendinimo tvarkos, tačiau pagal Europos Sąjungos reglamentus yra reikalaujama šiuos sprendimus pripažinti ir leisti juos vykdyti, šie sprendimai pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
+Straipsnio dalies pakeitimai:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
 
 
 
@@ -115,6 +121,63 @@ KETVIRTASIS SKIRSNIS
 
 
 
+
+
+
+
+KETVIRTASIS1 SKIRSNIS
+2012 M. GRUODŽIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 1215/2012 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ CIVILINĖSE IR KOMERCINĖSE BYLOSE PRIPAŽINIMO IR VYKDYMO (NAUJA REDAKCIJA) ĮGYVENDINIMAS
+ 
+
+
+41 straipsnis. Prašymų priimti sprendimą, kad nėra pagrindų atsisakyti pripažinti teismo sprendimą, nagrinėjimo tvarka
+
+
+1. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) (toliau šiame skirsnyje – Reglamentas (ES) Nr. 1215/2012) 36 straipsnio 2 dalyje nurodytus prašymus priimti sprendimą, kad nėra pagrindų atsisakyti pripažinti teismo sprendimą, nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+
+
+
+2. Prašymas peržiūrėti Lietuvos apeliacinio teismo nutartį, priimtą dėl šio straipsnio 1 dalyje nurodyto prašymo, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti prašymą peržiūrėti Lietuvos apeliacinio teismo nutartį, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, prašymo peržiūrėti Lietuvos apeliacinio teismo nutartį pateikimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+ 
+
+
+
+
+
+
+42 straipsnis. Prašymų atsisakyti vykdyti teismo sprendimą nagrinėjimo tvarka
+
+
+1. Reglamento (ES) Nr. 1215/2012 47 straipsnio 1 dalyje nurodytus prašymus atsisakyti vykdyti teismo sprendimą nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+
+
+
+2. Reglamento (ES) Nr. 1215/2012 49 straipsnio 2 dalyje nurodytas apeliacinis skundas dėl Lietuvos apeliacinio teismo nutarties, priimtos dėl šio straipsnio 1 dalyje nurodyto prašymo atsisakyti vykdyti teismo sprendimą, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti Reglamento (ES) Nr. 1215/2012 49 straipsnio 2 dalyje nurodytą skundą, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, apeliacinio skundo padavimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+ 
+
+
+
+
+
+
+43 straipsnis. Reglamento (ES) Nr. 1215/2012 54 straipsnyje numatytos priemonės arba įsakymo prilyginimo tvarka
+
+
+1. Vadovaujantis Reglamento (ES) Nr. 1215/2012 54 straipsnio 1 dalimi, teismo sprendime numatytą priemonę ar įsakymą prilygina subjektas, kuris turi pripažinti ar vykdyti teismo sprendimą.
+
+
+
+
+2. Priemonės arba įsakymo prilyginimas gali būti užginčijamas teisme Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+
+
+Papildyta skirsniu:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
 
 
 
@@ -406,7 +469,10 @@ SEPTINTASIS SKIRSNIS
 15 straipsnis. Autentiški dokumentai
 
 
-1. Autentiški dokumentai yra notaro užprotestuoti ar neprotestuotini vekseliai, čekiai, kuriuose padaryti notaro vykdomieji įrašai.
+1. Autentiški dokumentai yra notaro užprotestuoti ar neprotestuotini vekseliai, čekiai, hipotekos (įkeitimo) sandoriai, kuriuose padaryti notaro vykdomieji įrašai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
 
 
 
@@ -950,7 +1016,10 @@ priedas
  
 
 
-1. 2000 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 44/2001 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 42) (su paskutiniais pakeitimais, padarytais 2002 m. rugpjūčio 21 d. Komisijos reglamentu (EB) Nr. 1496/2002, iš dalies keičiančiu Tarybos reglamento (EB) Nr. 44/2001 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo I priedą (3 straipsnio 2 dalyje ir 4 straipsnio 2 dalyje nurodytos jurisdikcijos taisyklės) ir II priedą (kompetentingų teismų ir institucijų sąrašas) (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 60).
+1. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) (OL 2012 L 351, p. 1). 
+Punkto pakeitimai:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
 
 
 
