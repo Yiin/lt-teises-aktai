@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-01-14
+Suvestinė redakcija nuo 2015-01-15 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -189,52 +189,90 @@ BENDROSIOS NUOSTATOS
 
 
 
-23. Neteisėta kopija – kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo (nesudarius sutarties arba pažeidžiant joje nustatytas sąlygas, išskyrus šio Įstatymo nustatytus atvejus, kai kūrinys, gretutinių teisių ar sui generis teisių objektas gali būti atgaminamas be leidimo), taip pat kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, kurioje be teisių subjektų leidimo panaikinta arba pakeista informacija apie teisių valdymą. 
+23. Nenustatytų teisių turėtojų kūrinys – kūrinys ar fonograma, kurių nė vienas iš teisių turėtojų nenustatytas arba, jeigu vienas ar daugiau iš jų nustatyti, nė vienas iš jų nebuvo surastas nepaisant kruopščios teisių turėtojų paieškos, atliktos ir įregistruotos šio Įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-24. Nuoma – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas naudoti tam tikrą laiką siekiant tiesioginės ar netiesioginės komercinės naudos. 
+24. Neteisėta kopija – kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo (nesudarius sutarties arba pažeidžiant joje nustatytas sąlygas, išskyrus šio Įstatymo nustatytus atvejus, kai kūrinys, gretutinių teisių ar sui generis teisių objektas gali būti atgaminamas be leidimo), taip pat kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, kurioje be teisių subjektų leidimo panaikinta arba pakeista informacija apie teisių valdymą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-25. Panauda – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas tam tikrą laiką neatlygintinai naudotis bibliotekose ar kitose viešai prieinamose įstaigose.
+25. Nuoma – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas naudoti tam tikrą laiką siekiant tiesioginės ar netiesioginės komercinės naudos. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-26. Sui generis teisių subjektas – duomenų bazės gamintojas, kuris parinkdamas, sudarydamas, tikrindamas bei pateikdamas duomenų bazės turinį padarė esminių kokybinių ir (ar) kiekybinių (intelektinių, finansinių, organizacinių) investicijų, taip pat fizinis arba juridinis asmuo, kuriam perėjo duomenų bazių gamintojo sui generis teisės. 
+26. Panauda – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas tam tikrą laiką neatlygintinai naudotis bibliotekose ar kitose viešai prieinamose įstaigose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-27. Taikomosios dailės kūrinys – bet koks rankų darbo ar pramoniniu būdu sukurtas dailės kūrinys, skirtas praktiniam naudojimui.
+27. Sui generis teisių subjektas – duomenų bazės gamintojas, kuris parinkdamas, sudarydamas, tikrindamas bei pateikdamas duomenų bazės turinį padarė esminių kokybinių ir (ar) kiekybinių (intelektinių, finansinių, organizacinių) investicijų, taip pat fizinis arba juridinis asmuo, kuriam perėjo duomenų bazių gamintojo sui generis teisės. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-28. Transliacija – garsų arba vaizdų ir garsų arba jų išraiškos viešas perdavimas bevielio ryšio priemonėmis, įskaitant palydovinį ryšį; užkoduotų signalų perdavimas laikomas transliacija tuo atveju, jeigu transliuojančioji organizacija aprūpina visuomenę specialiais atkodavimo prietaisais arba duoda leidimą juos įsigyti. 
+28. Taikomosios dailės kūrinys – bet koks rankų darbo ar pramoniniu būdu sukurtas dailės kūrinys, skirtas praktiniam naudojimui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-29. Transliuojančioji organizacija – juridinis asmuo, kurio pagrindinė veikla yra radijo ir (ar) televizijos programų rengimas ir transliacija, taip pat kabelinės retransliacijos operatorius, rengiantis ir transliuojantis savo laidas ir programas. 
+29. Transliacija – garsų arba vaizdų ir garsų arba jų išraiškos viešas perdavimas bevielio ryšio priemonėmis, įskaitant palydovinį ryšį; užkoduotų signalų perdavimas laikomas transliacija tuo atveju, jeigu transliuojančioji organizacija aprūpina visuomenę specialiais atkodavimo prietaisais arba duoda leidimą juos įsigyti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-30. Viešas atlikimas – kūrinio vaidinimas, dainavimas, grojimas, deklamavimas, skaitymas, šokis ar kitas kūrinio viešo atlikimo būdas tiek tiesiogiai (gyvas atlikimas), tiek pasitelkus bet kokias priemones ar įrangą kokioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė. 
+30. Transliuojančioji organizacija – juridinis asmuo, kurio pagrindinė veikla yra radijo ir (ar) televizijos programų rengimas ir transliacija, taip pat kabelinės retransliacijos operatorius, rengiantis ir transliuojantis savo laidas ir programas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-31. Viešas paskelbimas – kūrinio viešas perdavimas laidais, bevielio ryšio priemonėmis, įskaitant jo padarymą viešai prieinamu tokiu būdu, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku. Gretutinių teisių objekto viešas paskelbimas – bet koks gretutinių teisių objekto viešas perdavimas, įskaitant fonogramoje įrašytų garsų arba garsų išraiškos padarymą viešai girdimais, išskyrus transliaciją. 
+31. Viešas atlikimas – kūrinio vaidinimas, dainavimas, grojimas, deklamavimas, skaitymas, šokis ar kitas kūrinio viešo atlikimo būdas tiek tiesiogiai (gyvas atlikimas), tiek pasitelkus bet kokias priemones ar įrangą kokioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 
 
-32. Viešas rodymas – bet koks kūrinio, jo originalo ar kopijos rodymas tiesiogiai (paroda) arba ekrane panaudojant skaidres, televizijos vaizdą ar kitais panašiais būdais, taip pat audiovizualinio kūrinio atskirų kadrų rodymas ne eilės tvarka kokioje nors vietoje, kur dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė, nesvarbu, ar jie yra toje pačioje vietoje ir tuo pačiu metu, ar skirtingose vietose ir skirtingu metu.
+32. Viešas paskelbimas – kūrinio viešas perdavimas laidais, bevielio ryšio priemonėmis, įskaitant jo padarymą viešai prieinamu tokiu būdu, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku. Gretutinių teisių objekto viešas paskelbimas – bet koks gretutinių teisių objekto viešas perdavimas, įskaitant fonogramoje įrašytų garsų arba garsų išraiškos padarymą viešai girdimais, išskyrus transliaciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
+
+
+
+
+33. Viešas rodymas – bet koks kūrinio, jo originalo ar kopijos rodymas tiesiogiai (paroda) arba ekrane panaudojant skaidres, televizijos vaizdą ar kitais panašiais būdais, taip pat audiovizualinio kūrinio atskirų kadrų rodymas ne eilės tvarka kokioje nors vietoje, kur dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė, nesvarbu, ar jie yra toje pačioje vietoje ir tuo pačiu metu, ar skirtingose vietose ir skirtingu metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 Straipsnio pakeitimai:
@@ -829,7 +867,10 @@ Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
 
 
 
-7. Šio straipsnio 1 dalyje numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Bendrijos narių autoriams ir jų teisių paveldėtojams.
+7. Šio straipsnio 1 dalyje numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių autoriams ir jų teisių paveldėtojams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 Straipsnio pakeitimai:
@@ -3470,6 +3511,288 @@ Neteisėtoms kūrinių, kitų šio Įstatymo saugomų objektų kopijoms, šio Į
 
 
 
+VII SKYRIUS
+NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS 
+ 
+
+
+89 straipsnis. Kūriniai ir fonogramos, kuriems taikomos nenustatytų teisių turėtojų kūrinių naudojimo sąlygos 
+
+
+1. Nenustatytų teisių turėtojų kūrinių naudojimo sąlygos taikomos Lietuvos Respublikoje, kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse (toliau – valstybės narės) pirmą kartą išleistiems kūriniams ir fonogramoms arba neišleistiems, bet pirmą kartą Lietuvos Respublikoje ar kitose valstybėse narėse transliuotiems kūriniams ir fonogramoms, kuriems taikoma autorių teisių ar gretutinių teisių apsauga: 
+
+
+1) knygų, dienoraščių, laikraščių, žurnalų arba kitų rašytinių kūrinių forma išleistiems kūriniams, esantiems Lietuvos Respublikos viešai prieinamų bibliotekų, muziejų, archyvų, kino ir (ar) garso paveldo įstaigų, švietimo įstaigų ir mokslinių tyrimų institutų (toliau – kultūros, švietimo ir mokslo įstaigos) kolekcijose;
+
+
+
+
+2) audiovizualiniams kūriniams ir fonogramoms, esantiems kultūros, švietimo ir mokslo įstaigų kolekcijose;
+
+
+
+
+3) iki 2002 m. gruodžio 31 d. Lietuvos Respublikos ir kitų valstybių narių visuomeninių transliuojančiųjų organizacijų pagamintiems audiovizualiniams kūriniams ir fonogramoms, kuriuos savo archyve turi Lietuvos Respublikos visuomeninė transliuojančioji organizacija – viešoji įstaiga Lietuvos nacionalinis radijas ir televizija (toliau – visuomeninis transliuotojas). 
+
+
+
+
+
+
+2. Nenustatytų teisių turėtojų kūrinių naudojimo sąlygos taip pat taikomos:
+
+
+1) šio straipsnio 1 dalyje nurodytiems kūriniams ir fonogramoms, kurie niekada nebuvo išleisti ar transliuoti, jeigu viešą prieigą prie šių kūrinių ir fonogramų teisių turėtojų leidimu suteikė Lietuvos Respublikos ar kitų valstybių narių kultūros, švietimo ir mokslo įstaigos ar visuomeninės transliuojančiosios organizacijos, jeigu pagrįstai galima manyti, kad teisių turėtojai nepareikš prieštaravimo dėl šių kūrinių ir fonogramų naudojimo būdų ir sąlygų, numatytų šio Įstatymo 94 straipsnyje;
+
+
+
+
+2) kūriniams (iliustracijoms, fotografijoms, brėžiniams, eskizams, žemėlapiams ir kt.) ir kitiems saugomiems objektams, kurie yra šio straipsnio 1 dalyje ir šios dalies 1 punkte nurodytų kūrinių ar fonogramų sudedamoji dalis, yra į juos įtraukti ar sudaro jų visumą.
+ 
+
+
+
+
+
+
+
+
+90 straipsnis. Kūrinių ir fonogramų pripažinimo nenustatytų teisių turėtojų kūriniais sąlygos 
+
+
+1. Kūrinys ar fonograma pripažįstami nenustatytų teisių turėtojų kūriniu tik šio Įstatymo 92 straipsnyje nustatyta tvarka atlikus kruopščią kūrinio ar fonogramos teisių turėtojų paiešką ir atliktos teisių turėtojų paieškos rezultatus įregistravus šio Įstatymo 93 straipsnyje nustatyta tvarka. 
+
+
+
+
+2. Tais atvejais, kai yra daugiau negu vienas kūrinio ar fonogramos teisių turėtojas ir ne visi iš jų buvo nustatyti arba kai vienas ar daugiau iš šių teisių turėtojų buvo nustatyti, tačiau kruopščios teisių turėtojų paieškos, kuri atlikta šio Įstatymo 92 straipsnyje nustatyta tvarka ir kurios rezultatai įregistruoti šio Įstatymo 93 straipsnyje nustatyta tvarka, metu nebuvo surasti, kūrinys ar fonograma gali būti naudojami kaip nenustatytų teisių turėtojų kūriniai šio Įstatymo 94 straipsnyje numatytais naudojimo būdais ir sąlygomis, jeigu nustatyti ir surasti kūrinio ar fonogramos teisių turėtojai pagal turimas savo autorių teises ar gretutines teises suteikė leidimą naudoti kūrinį ar fonogramą. 
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodytų nustatytų ir surastų teisių turėtojų autorių teisėms į kūrinį ar gretutinėms teisėms į fonogramą netaikomi jokie apribojimai, susiję su šių teisių įgyvendinimu. 
+
+
+
+
+4. Negali būti preziumuojama, kad kūrinys ar fonograma yra nenustatytų teisių turėtojų kūrinys, dėl šių aplinkybių:
+
+
+1) kūrinys išleistas ar transliuotas nenurodant autoriaus vardo arba nurodant autoriaus pseudonimą, atsižvelgus į šio Įstatymo 14 straipsnio 1 dalies 2 punkte numatytą autoriaus asmeninę neturtinę teisę į autoriaus vardą;
+
+
+
+
+2) fonograma išleista ar transliuota neįvardijant fonogramos gamintojo ir (ar) atlikėjo, atsižvelgus į šio Įstatymo 51 straipsnio 2 dalies nuostatas dėl informacijos apie gretutines teises ir 52 straipsnio 1 dalies nuostatas dėl atlikėjo asmeninių neturtinių teisių. 
+ 
+
+
+
+
+
+
+
+
+91 straipsnis. Nenustatytų teisių turėtojų kūrinių naudotojai 
+
+
+1. Nenustatytų teisių turėtojų kūrinius savo veiklos srityse nekomerciniais tikslais, vykdydamos savo įprastinę veiklą, susijusią su viešojo intereso tikslais kultūros sklaidos, paveldo apsaugos, švietimo, mokslo ir visuomenės informavimo srityse, gali naudoti tik šio Įstatymo 89 straipsnio 1 dalyje nurodytos kultūros, švietimo ir mokslo įstaigos ir visuomeninis transliuotojas (toliau – nenustatytų teisių turėtojų kūrinių naudotojai), jeigu naudojami nenustatytų teisių turėtojų kūriniai yra jų kolekcijose.
+
+
+
+
+2. Nenustatytų teisių turėtojų kūrinių naudotojai, siekdami įgyvendinti šio straipsnio 1 dalyje nurodytus viešojo intereso tikslus, susijusius su nenustatytų teisių turėtojų kūrinių naudojimu, turi teisę įstatymų nustatyta tvarka sudaryti su kitais asmenimis bendradarbiavimo, jungtinės veiklos (partnerystės), paslaugų ir kitas sutartis. 
+
+
+
+
+3. Asmenys, su nenustatytų teisių turėtojų kūrinių naudotojais sudarę šio straipsnio 2 dalyje nurodytas sutartis, neįgyja teisės patys naudoti nenustatytų teisių turėtojų kūrinius ar kontroliuoti jų naudojimą. 
+ 
+
+
+
+
+
+
+92 straipsnis. Teisių turėtojų paieškos sąlygos, tvarka ir paieškos šaltiniai 
+
+
+1. Nenustatytų teisių turėtojų kūrinių naudotojai, prieš pradėdami naudoti jų kolekcijose esančius kūrinius ir (ar) fonogramas kaip nenustatytų teisių turėtojų kūrinius, turi atlikti kiekvieno iš jų kruopščią teisių turėtojų paiešką. Kruopšti teisių turėtojų paieška atliekama renkant ir tikrinant informaciją iš atitinkamų konkrečios rūšies kūriniams ir fonogramoms tinkamų paieškos šaltinių, kurių pavyzdinį sąrašą, pasikonsultavusi su teisių turėtojų ir nenustatytų teisių turėtojų kūrinių naudotojų asociacijomis ir įvertinusi jų rekomendacinius pasiūlymus, sudaro ir tvirtina Vyriausybės įgaliota institucija. Visus teisių turėtojų paieškos dokumentus nenustatytų teisių turėtojų kūrinių naudotojai saugo iki tų kūrinių ar fonogramų autorių teisių ar gretutinių teisių galiojimo terminų pabaigos. 
+
+
+
+
+2. Teisių turėtojų paieška atliekama valstybėje narėje, kurioje:
+
+
+1) kūrinys ar fonograma buvo pirmą kartą išleisti arba, jei nebuvo išleisti, pirmą kartą buvo transliuoti;
+
+
+
+
+2) audiovizualinio kūrinio gamintojas turi buveinę arba nuolatinę gyvenamąją vietą;
+
+
+
+
+3) yra įsteigta kultūros, švietimo ar mokslo įstaiga arba visuomeninė transliuojančioji organizacija, kurios teisių turėtojų leidimu yra suteikusios neišleistam ir (ar) netransliuotam kūriniui ar fonogramai viešą prieigą. 
+
+
+
+
+
+
+3. Kai yra pagrįstų įrodymų, kad svarbios informacijos apie teisių turėtojus galima rasti ne tik valstybėse narėse, arba paaiškėja, kad audiovizualinio kūrinio gamintojas nė vienoje iš valstybių narių neturi buveinės arba gyvenamosios vietos, tikrinami ir kitose šalyse esantys paieškos šaltiniai. 
+
+
+
+
+4. Nenustatytų teisių turėtojų kūrinių naudotojai šio straipsnio 1, 2 ir 3 dalyse numatytai teisių turėtojų paieškai atlikti turi teisę įstatymų nustatyta tvarka pagal sutartis pasitelkti kitus asmenis.
+ 
+
+
+
+
+
+
+93 straipsnis. Teisių turėtojų paieškos rezultatų registravimas. Nenustatytų teisių turėtojų kūrinio statusas 
+
+
+1. Nenustatytų teisių turėtojų kūrinių naudotojai, atlikę teisių turėtojų paiešką ir padarę išvadą, kad kūrinys ar fonograma laikomi nenustatytų teisių turėtojų kūriniu, informaciją apie teisių turėtojų paieškos rezultatus pateikia Lietuvos nacionalinei Martyno Mažvydo bibliotekai (toliau – atsakinga nacionalinė įstaiga), kuri yra atsakinga už teisių turėtojų paieškos rezultatų surinkimą ir registravimą bendroje viešai prieinamoje Europos Komisijos Vidaus rinkos derinimo tarnybos duomenų bazėje (toliau – duomenų bazė).
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytoje duomenų bazėje registruojami šie duomenys:
+
+
+1) atsakinga nacionalinė įstaiga (pavadinimas ir kontaktinė informacija); 
+
+
+
+
+2) teisių turėtojų paieškos, po kurios buvo padaryta nenustatytų teisių turėtojų kūrinio naudotojo išvada, kad kūrinys ar fonograma laikomi nenustatytų teisių turėtojų kūriniu, rezultatai;
+
+
+
+
+3) nenustatytų teisių turėtojų kūrinio pavadinimas arba trumpas aprašymas, jeigu nėra pavadinimo, ir pobūdis (rašytinis kūrinys, audiovizualinis kūrinys ar fonograma);
+
+
+
+
+4) autorius (bendraautoriai), atlikėjas (atlikėjų kolektyvas), audiovizualinio kūrinio ar fonogramos gamintojas, leidėjas (jeigu tokia informacija nurodyta kūrinyje ar fonogramoje); 
+
+
+
+
+5) nenustatytų teisių turėtojų kūrinio naudotojas (pavadinimas ir kontaktinė informacija); 
+
+
+
+
+6) nenustatytų teisių turėtojų kūrinio naudojimo būdai;
+
+
+
+
+7) informacija apie nenustatytų teisių turėtojų kūrinio statuso panaikinimą. 
+
+
+
+
+
+
+3. Atsakingai nacionalinei įstaigai šio straipsnio 1 ir 2 dalyse nustatyta tvarka įregistravus teisių turėtojų paieškos rezultatus, kūrinys ar fonograma įgyja nenustatytų teisių turėtojų kūrinio statusą ir gali būti naudojami šio Įstatymo 94 straipsnyje numatytais būdais ir sąlygomis.
+
+
+
+
+4. Nenustatytų teisių turėtojų kūrinio statusui Lietuvos Respublikoje ir kitose valstybėse narėse taikomas tarpusavio pripažinimo principas. Pagal tarpusavio pripažinimo principą kūrinys ar fonograma, kurie įgijo nenustatytų teisių turėtojų kūrinio statusą bet kurioje valstybėje narėje, laikomi nenustatytų teisių turėtojų kūriniu ir Lietuvos Respublikoje. Nenustatytų teisių turėtojų kūrinių naudotojai šiuos nenustatytų teisių turėtojų kūrinius gali naudoti šio Įstatymo 94 straipsnyje nustatytais būdais ir sąlygomis. 
+ 
+
+
+
+
+
+
+94 straipsnis. Leistini nenustatytų teisių turėtojų kūrinių naudojimo būdai ir sąlygos
+
+
+1. Nenustatytų teisių turėtojų kūrinių naudotojai turi teisę savo kolekcijose esančius nenustatytų teisių turėtojų kūrinius naudoti šiais būdais:
+
+
+1) atgaminti juos taip, kaip apibrėžta šio Įstatymo 2 straipsnio 1 dalyje, skaitmeninimo, padarymo viešai prieinamų, indeksavimo, sisteminimo, išsaugojimo arba atkūrimo tikslais;
+
+
+
+
+2) padaryti juos viešai prieinamus laidais ar bevielėmis ryšio priemonėmis tokiu būdu, kad visuomenės nariai galėtų juos pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku (kompiuterių tinklais (internete) ir pan.). 
+
+
+
+
+
+
+2. Nenustatytų teisių turėtojų kūrinių naudotojai, naudodami nenustatytų teisių turėtojų kūrinius šio straipsnio 1 dalyje numatytais būdais, gali gauti pajamų išimtinai tik patiriamoms nenustatytų teisių turėtojų kūrinių atgaminimo ir jų padarymo viešai prieinamų išlaidoms padengti. 
+
+
+
+
+3. Nenustatytų teisių turėtojų kūrinių naudotojai turi užtikrinti, kad, naudojant nenustatytų teisių turėtojų kūrinius šio straipsnio 1 dalyje nurodytais būdais, bus nurodomi nustatytų autorių ir (ar) atlikėjų vardai ir kitų nustatytų teisių turėtojų vardai ar pavadinimai. 
+ 
+
+
+
+
+
+
+95 straipsnis. Nenustatytų teisių turėtojų kūrinio statuso panaikinimas 
+
+
+1. Nenustatytų teisių turėtojų kūrinio statusas bet kuriuo metu gali būti panaikintas paaiškėjusio teisių turėtojo iniciatyva. Šiuo tikslu teisių turėtojas pateikia nenustatytų teisių turėtojų kūrinių naudotojui laisvos formos prašymą panaikinti nenustatytų teisių turėtojų kūrinio statusą, susijusį su jo autorių ir (ar) gretutinėmis teisėmis (toliau – prašymas). Prie prašymo pridedami dokumentai, įrodantys autorių teisių ir (ar) gretutinių teisių į nenustatytų teisių turėtojų kūrinį turėjimą (autorinės kūrinio užsakymo sutartys, autorių teisių ar gretutinių teisių perdavimo ar suteikimo sutartys, leidybos sutartys, autorių teisių ar gretutinių teisių paveldėjimo teisės liudijimai, kolektyvinio administravimo asociacijų pažymos ir kiti dokumentai, kuriuose yra informacija apie autorių teisių ar gretutinių teisių valdymą). Nenustatytų teisių turėtojų kūrinių naudotojai, įvertinę teisių turėtojų pateiktą prašymą ir dokumentus, įrodančius autorių teisių ir (ar) gretutinių teisių į kūrinį ar fonogramą turėjimą, ir padarę išvadą dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo, šią informaciją pateikia šio Įstatymo 93 straipsnio 1 dalyje nustatyta tvarka registruoti atsakingai nacionalinei įstaigai. Teisių turėtojų pateiktų dokumentų, kurių pagrindu padaryta išvada dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo, kopijas nenustatytų teisių turėtojų kūrinių naudotojai saugo iki tų kūrinių ar fonogramų autorių teisių ar gretutinių teisių galiojimo terminų pabaigos. 
+
+
+
+
+2. Panaikinus nenustatytų teisių turėtojų kūrinio statusą, kūrinys ar fonograma toliau gali būti naudojami šio Įstatymo 94 straipsnio 1 dalyje numatytais būdais tik gavus teisių turėtojo ar jo įgalioto asmens leidimą (išskyrus kūrinio ar fonogramos atgaminimą šio Įstatymo 23 straipsnyje ir 58 straipsnio 1 dalies 4 punkte numatytais išsaugojimo tikslais). 
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalių nuostatos dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo mutatis mutandis taikomos šio Įstatymo 90 straipsnio 2 dalyje nurodytų nenustatytų ar nesurastų teisių turėtojų teisėms į kūrinį ar fonogramą.
+ 
+
+
+
+
+
+
+96 straipsnis. Teisė gauti kompensaciją panaikinus nenustatytų teisių turėtojų kūrinio statusą 
+
+
+1. Šio Įstatymo 95 straipsnio 1 dalyje nustatyta tvarka panaikinus nenustatytų teisių turėtojų kūrinio statusą, teisių turėtojai turi teisę gauti vienkartinę kompensaciją už buvusio nenustatytų teisių turėtojų kūrinio naudojimą šio Įstatymo 94 straipsnio 1 dalyje nustatytais būdais. Prašymus išmokėti šią kompensaciją teisių turėtojai pateikia Vyriausybės įgaliotai institucijai. Sprendimą dėl kompensacijos išmokėjimo ir jos dydžio Vyriausybės įgaliota institucija priima atsižvelgdama į kompensavimo už nenustatytų teisių turėtojų kūrinių naudojimą ekspertų komisijos (toliau – ekspertų komisija) rekomendacines išvadas. Vyriausybės įgaliotos institucijos sprendimas ir ekspertų komisijos išvados priimamos įvertinus konkretaus buvusio nenustatytų teisių turėtojų kūrinio nekomercines naudojimo sąlygas (kūrinio ar fonogramos viešą prieinamumą, naudojimo būdus, poreikį išsaugoti arba atgaminti prarastus, sunaikintus arba tapusius netinkamus naudoti egzempliorius, nenustatytų teisių turėtojų kūrinių naudotojo siekiamų viešojo intereso tikslų svarbą, galimą padarytą žalą teisių turėtojams). Ekspertų komisiją iš 7 narių – Lietuvos meno kūrėjų asociacijos, kolektyvinio administravimo asociacijų ir Vyriausybės įgaliotos institucijos atstovų – 2 metams sudaro ir jos nuostatus tvirtina Vyriausybės įgaliota institucija. 
+
+
+
+
+2. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą neturi viršyti 10 bazinių socialinių išmokų dydžio sumos. Ši kompensacijos suma paskirstoma ir mokama proporcingai jo teisių turėtojams. Kompensacija teisių turėtojams išmokama iki kitų metų kovo 31 dienos, pasibaigus metams, kuriais Vyriausybės įgaliota institucija, atsižvelgusi į ekspertų komisijos rekomendacines išvadas, priėmė sprendimą dėl kompensacijos mokėjimo ir jos dydžio. Kitas kompensacijos už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokėjimo sąlygas ir tvarką nustato Vyriausybės įgaliota institucija. 
+
+
+
+
+3. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokama iš valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į šio straipsnio 2 dalyje nustatyta tvarka priimtus sprendimus dėl kompensacijų mokėjimo ir jų dydžio. 
+
+
+
+
+Papildyta skyriumi:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
+
+
+
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
@@ -3550,13 +3873,6 @@ Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
 
 
 
- 
- 
- 
- 
- 
- 
- 
  
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
 2 priedas
@@ -3657,7 +3973,6 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
 
 Įstatymas papildytas 2 priedu:
 Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
- 
 
 
 
@@ -3712,6 +4027,14 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
 
 
 9. 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/77/ES, kuria iš dalies keičiama Direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (OL 2011 L 265, p. 1).
+
+
+
+
+10. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/28/ES dėl tam tikro leistino nenustatytų teisių turėtojų kūrinių naudojimo (OL 2012 L 299, p. 5). 
+Papildyta punktu:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+ 
 
 
 Priedo pakeitimai:
@@ -3779,3 +4102,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 17 straipsnio ir 1 priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 17 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo VII skyriumi įstatymas
