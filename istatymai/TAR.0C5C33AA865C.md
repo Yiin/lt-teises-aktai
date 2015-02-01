@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-01-31
+Suvestinė redakcija nuo 2015-02-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -80,7 +80,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.
+5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta Lietuvos Respublikos energijos išteklių rinkos įstatyme, Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
@@ -215,7 +218,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-32. Gamtinių dujų tiekimas (toliau – tiekimas) – gamtinių dujų pardavimas ir (ar) perpardavimas gamtinių dujų vartotojams ir jų tiekimas į gamtinių dujų sistemą.
+32. Gamtinių dujų tiekimas (toliau – tiekimas) – gamtinių dujų pardavimas ir (ar) perpardavimas gamtinių dujų vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
@@ -310,47 +316,82 @@ BENDROSIOS NUOSTATOS
 
 
 
-49. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
+49. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje. 
+Papildyta straipsnio dalimi:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-50. Suskystintų gamtinių dujų sistema – terminalas gamtinėms dujoms skystinti, suskystintoms gamtinėms dujoms importuoti, priimti ir vėl joms dujinti, taip pat papildomoms paslaugoms teikti, įskaitant laikinąsias saugyklas, būtinas dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, tačiau išskyrus bet kurią suskystintų gamtinių dujų terminalų dalį, naudojamą gamtinėms dujoms laikyti. Suskystintų gamtinių dujų sistema (toliau – SGD sistema) dar vadinama suskystintų gamtinių dujų įrenginiais (toliau – SGD įrenginiai).
+50. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-51. Suskystintų gamtinių dujų sistemos operatorius – asmuo, kuris verčiasi gamtinių dujų skystinimu arba suskystintų gamtinių dujų importu, priėmimu ir kartotiniu jų dujinimu ir yra atsakingas už suskystintų gamtinių dujų įrenginių eksploatavimą.
+51. Suskystintų gamtinių dujų sistema – terminalas gamtinėms dujoms skystinti, suskystintoms gamtinėms dujoms importuoti, priimti ir vėl joms dujinti, taip pat papildomoms paslaugoms teikti, įskaitant laikinąsias saugyklas, būtinas dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, tačiau išskyrus bet kurią suskystintų gamtinių dujų terminalų dalį, naudojamą gamtinėms dujoms laikyti. Suskystintų gamtinių dujų sistema (toliau – SGD sistema) dar vadinama suskystintų gamtinių dujų įrenginiais (toliau – SGD įrenginiai).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-52. Tiesioginis gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) – gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
+52. Suskystintų gamtinių dujų sistemos operatorius – asmuo, kuris verčiasi gamtinių dujų skystinimu arba suskystintų gamtinių dujų importu, priėmimu ir kartotiniu jų dujinimu ir yra atsakingas už suskystintų gamtinių dujų įrenginių eksploatavimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-53. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.
+53. Tiesioginis gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) – gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-54. Vartotojo gamtinių dujų sistema (toliau – vartotojo sistema) – vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir įrenginiai gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai panaudoti vartotojo reikmėms.
+54. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-55. Vertikaliai integruota gamtinių dujų įmonė (toliau – vertikaliai integruota įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš gamtinių dujų perdavimo, skirstymo, laikymo ar skystinimo sistemos funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
+55. Vartotojo gamtinių dujų sistema (toliau – vartotojo sistema) – vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir įrenginiai gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai panaudoti vartotojo reikmėms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-56. Vietinė gamtinių dujų bendrojo naudojimo sistema (toliau – vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem vartotojams.
+56. Vertikaliai integruota gamtinių dujų įmonė (toliau – vertikaliai integruota įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš gamtinių dujų perdavimo, skirstymo, laikymo ar skystinimo sistemos funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
 
-57. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
+57. Vietinė gamtinių dujų bendrojo naudojimo sistema (toliau – vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem vartotojams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
+
+
+
+
+58. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 Straipsnio pakeitimai:
@@ -1265,7 +1306,10 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-5) tiekimo;
+5) tiekimo, išskyrus prekybą gamtinių dujų biržoje; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
@@ -1295,44 +1339,42 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 5. Perdavimo, skirstymo, laikymo ir skystinimo licencijos išduodamos Lietuvos Respublikoje įsteigtam juridiniam asmeniui arba kitos valstybės narės juridinio asmens ar kitos organizacijos padaliniui, įsteigtam Lietuvos Respublikoje. Licencijos išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti licencijuojamos veiklos sąlygas. Asmenų technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką nustato Komisija, atsižvelgdama į šiuos kriterijus:
 
 
-1) asmenys, siekiantys įgyti sistemų operatorių licencijas, privalo nuosavybės teise, kaip nurodyta šiame įstatyme, ar kitais teisėtais pagrindais valdyti perdavimo ar skirstymo sistemas;
+1) asmenys, siekiantys įgyti sistemos operatoriaus licenciją ir vykdantys sistemos operatoriaus veiklą, privalo nuosavybės teise, kaip nurodyta šiame įstatyme, ar kitais teisėtais pagrindais valdyti perdavimo ar skirstymo sistemas;
 
 
 
 
-2) asmenys, siekiantys įgyti rinkos operatoriaus ar tiekimo įmonės licencijas, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti;
+2) asmenys, siekiantys įgyti rinkos operatoriaus licenciją ir vykdantys rinkos operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti;
 
 
 
 
-3) asmenys, siekiantys įgyti rinkos operatoriaus licenciją, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti;
+3) asmenys, siekiantys įgyti skirstymo operatoriaus licenciją ir vykdantys skirstymo operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą skirstymo sistemą, kuri turi būti sujungta su veikiančia perdavimo ar skirstymo sistema, leidžiančią užtikrinti gamtinių dujų pristatymą vartotojams;
 
 
 
 
-4) asmenys, siekiantys įgyti skirstymo operatoriaus licenciją, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą gamtinių dujų skirstymo sistemą, kuri turi būti sujungta su veikiančia perdavimo ar skirstymo sistema, leidžiančią užtikrinti dujų pristatymą vartotojams;
+4) asmenys, siekiantys įgyti laikymo licenciją ir vykdantys laikymo veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą gamtinių dujų saugyklą, kurios įrenginiai turi būti sujungti su veikiančia perdavimo sistema;
 
 
 
 
-5) asmenys, siekiantys įgyti laikymo licenciją, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą gamtinių dujų saugyklą, kurios įrenginiai sujungti su veikiančia perdavimo sistema;
+5) asmenys, siekiantys įgyti skystinimo licenciją ir vykdantys skystinimo veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri turi būti sujungta su veikiančia perdavimo sistema;
 
 
 
 
-6) asmenys, siekiantys įgyti skystinimo licenciją, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri yra sujungta su veikiančia perdavimo sistema;
+6) pareiškėjo, siekiančio įgyti licenciją, finansinis pajėgumas vertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų (arba nuo pareiškėjo įregistravimo dienos, jeigu pareiškėjas vykdė veiklą trumpiau negu dvejus finansinius metus) balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Komisijos nustatyti finansinio pajėgumo rodikliai;
 
 
 
 
-7) pareiškėjo, siekiančio įgyti licenciją, finansinis pajėgumas vertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų (arba nuo pareiškėjo įregistravimo dienos, jeigu pareiškėjas vykdė veiklą mažiau negu dvejus finansinius metus) balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Komisijos nustatyti finansinio pajėgumo rodikliai;
+7) pareiškėjas, siekiantis įgyti licenciją, išskyrus tiekimo licenciją, privalo turėti darbuotojų licencijuojamai veiklai vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai tvarkyti, vartotojams informuoti ir konsultuoti bei skundams dėl licencijuojamos veiklos nagrinėti.
 
 
-
-
-8) pareiškėjas, siekiantis įgyti licenciją, privalo turėti darbuotojus licencijuojamai veiklai vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai tvarkyti, vartotojams informuoti ir konsultuoti bei skundams dėl licencijuojamos veiklos nagrinėti.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
@@ -1473,7 +1515,10 @@ GAMTINIŲ DUJŲ TIEKIMAS
 
 
 
-3. Tiekimo įmonė prekiauja gamtinėmis dujomis biržoje ir (ar) pagal dvišales sutartis, ir (ar) kitais būdais Vyriausybės ar jos įgaliotos institucijos patvirtintose Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.
+3. Tiekimo įmonė tiekia gamtines dujas gamtinių dujų vartotojams pagal dvišales sutartis ir (ar) kitais būdais Vyriausybės ar jos įgaliotos institucijos patvirtintose Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
@@ -1498,7 +1543,10 @@ GAMTINIŲ DUJŲ TIEKIMAS
 
 
 
-5. Perdavimo sistemos naudotojas, perkantis gamtines dujas, yra atsakingas perdavimo sistemos operatoriui už suvartotų, bet nenupirktų arba nesuvartotų, bet nupirktų gamtinių dujų kiekių subalansavimą pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles. Tiekėjas, parduodantis gamtines dujas, yra atsakingas perdavimo sistemos operatoriui už parduotų, bet nepatiektų gamtinių dujų kiekių subalansavimą pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles.
+5. Perdavimo sistemos naudotojai yra atsakingi perdavimo sistemos operatoriui už pristatomų į perdavimo sistemą ir paimamų iš perdavimo sistemos gamtinių dujų kiekių subalansavimą pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles.
+Straipsnio dalies pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 Straipsnio pakeitimai:
@@ -1944,7 +1992,10 @@ Perdavimo sistemos operatorius turi teisę:
 
 
 
-6) reikalauti iš sistemos naudotojų pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo būtų užtikrintos būsimos ir (ar) esamos sistemos naudotojo prievolės nupirkti iš perdavimo sistemos operatoriaus suvartotas, tačiau iš tiekimo įmonės ar gamtinių dujų biržoje neįsigytas dujas ir atlyginti dėl to susidariusius nuostolius;
+6) reikalauti iš sistemos naudotojų pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo būtų užtikrintos būsimos ir (ar) esamos sistemos naudotojo prievolės pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles už paimtų iš perdavimo sistemos, tačiau į perdavimo sistemą nepristatytų gamtinių dujų nupirkimą iš perdavimo sistemos operatoriaus ir dėl to susidariusių nuostolių atlyginimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 
@@ -2081,7 +2132,10 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-38 straipsnis. Rinkos operatoriaus užduotys ir veikla
+38 straipsnis. Rinkos operatoriaus ir energijos išteklių biržos operatoriaus užduotys ir veikla 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 1. Rinkos operatorius organizuoja prekybą gamtinėmis dujomis pagal Prekybos gamtinėmis dujomis taisykles ir administruoja atsiskaitymus tarp rinkos dalyvių.
@@ -2100,6 +2154,14 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 4. Neteko galios nuo 2012-06-19.
+
+
+
+
+5. Rinkos operatorius ir energijos išteklių biržos operatorius yra atsakingi, kad gamtinių dujų biržoje sudarytų sandorių pagrindu parduotas ir įsigytas gamtinių dujų kiekis sutaptų, o už gamtinių dujų biržoje parduotų gamtinių dujų kiekių patiekimą į perdavimo sistemą ir nupirktų gamtinių dujų kiekių paėmimą iš perdavimo sistemos yra atsakingi gamtinių dujų rinkos dalyvis ir energijos išteklių biržos dalyvis.
+Papildyta straipsnio dalimi:
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
 
 
 Straipsnio pakeitimai:
@@ -3450,3 +3512,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1177, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13569
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 44 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas
