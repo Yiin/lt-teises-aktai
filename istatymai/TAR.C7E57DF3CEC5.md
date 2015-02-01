@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-01-31
+Suvestinė redakcija nuo 2015-02-01 iki 2015-07-07
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -598,10 +598,20 @@ Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010IS
 
 
 
-10) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos. 
+10) privatūs subjektai turi teisę inicijuoti (pasisiūlyti įgyvendinti) viešojo ir privataus sektorių partnerystės projektus Lietuvos Respublikos Vyriausybės nustatyta tvarka, o įgaliotos viešojo sektoriaus institucijos turi priimti sprendimus dėl siūlomų iniciatyvų; 
+Papildyta straipsnio punktu:
+Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
+ 
+
+
+
+
+11) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos. 
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
 Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
  
 
 
@@ -1030,3 +1040,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 7, 13 ir 15-2 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13 straipsnio pakeitimo įstatymas
