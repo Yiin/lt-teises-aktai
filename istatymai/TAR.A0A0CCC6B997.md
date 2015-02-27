@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-02-26
+Suvestinė redakcija nuo 2015-02-27 iki 2015-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -2468,6 +2468,10 @@ Nuteistiesiems leidžiama turėti laikrodžius, pagamintus ne iš brangiųjų me
 
 
 2. Kardomojo kalinimo vietose, areštinėse ir pataisos įstaigose laikomų nuteistųjų, kurie tarpusavyje nėra sutuoktiniai ar artimieji giminaičiai, susirašinėjimas draudžiamas.
+TAR pastaba. 99 straipsnio 2 dalis tiek, kiek joje nustatytu teisiniu reguliavimu draudžiamas kardomojo kalinimo vietose, areštinėse ir pataisos įstaigose laikomų nuteistųjų, kurių nesieja santuokos ar artimos giminystės ryšiai, tarpusavio susirašinėjimas, prieštarauja Lietuvos Respublikos Konstitucijos 22 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT8-N4/2015, 2015-02-26, paskelbta TAR 2015-02-27, i. k. 2015-03023
+ 
 
 
 
@@ -5387,3 +5391,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1153, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13600
 Lietuvos Respublikos bausmių vykdymo kodekso 43, 52, 55, 70, 121, 122, 123, 124, 125, 128, 130, 131, 133, 147, 148 ir 178 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1323, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17300
+Lietuvos Respublikos bausmių vykdymo kodekso 5 ir 109 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT8-N4/2015, 2015-02-26, paskelbta TAR 2015-02-27, i. k. 2015-03023
+Dėl Lietuvos Respublikos bausmių vykdymo kodekso 99 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
