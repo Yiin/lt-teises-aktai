@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
+Suvestinė redakcija nuo 2015-03-01 iki 2015-06-16
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -570,7 +570,19 @@ ADMINISTRACINIŲ TEISMŲ KOMPETENCIJA
 
 
 
-13) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, taip pat skundų dėl pabėgėlio statuso.
+13) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, taip pat skundų dėl prieglobsčio nesuteikimo ar panaikinimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-1401, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19929
+ 
+
+
+
+
+14) savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų.
+TAR pastaba. Papildymas 14 punktu įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio punktu:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 
@@ -758,7 +770,10 @@ Nr. XI-1308, 2011-04-12, Žin., 2011, Nr. 49-2363 (2011-04-28)
 
 
 
-7) pagal užsieniečių skundus dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, taip pat skundus dėl pabėgėlio statuso;
+7) pagal užsieniečių skundus dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, taip pat skundus dėl prieglobsčio nesuteikimo ar panaikinimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-1401, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19929
+ 
 
 
 
@@ -819,12 +834,29 @@ Nr. X-1174, 2007-06-07, Žin., 2007, Nr. 72-2830 (2007-06-30)
 
 
 
-3. Lietuvos vyriausiasis administracinis teismas formuoja vienodą administracinių teismų praktiką taikant įstatymus.
+3. Lietuvos vyriausiasis administracinis teismas nagrinėja savivaldybių tarybų prašymus ir teikia išvadas, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų. 
+TAR pastaba. Redakcija įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio dalimi:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 
 
-4. Lietuvos vyriausiasis administracinis teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
+4. Lietuvos vyriausiasis administracinis teismas formuoja vienodą administracinių teismų praktiką taikant įstatymus.
+TAR pastaba. Straipsnio numeracijos pakeitimai įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
+
+
+
+
+5. Lietuvos vyriausiasis administracinis teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
+TAR pastaba. Straipsnio numeracijos pakeitimai įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 Straipsnio pakeitimai:
@@ -1429,7 +1461,16 @@ Nr. XII-1243, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14516
 
 
 
-11) žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo (Civilinio kodekso 6.271 straipsnis).
+11) žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo (Civilinio kodekso 6.271 straipsnis);
+
+
+
+
+12) išvadų, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų, pateikimo.
+TAR pastaba. Papildymas 12 punktu įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio punktu:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 
@@ -1569,6 +1610,14 @@ Nr. XII-348, 2013-05-30, Žin., 2013, Nr. 62-3060 (2013-06-12)
 
 
 7. Šalių neįmokėtos sumos, išmokėtinos kaip išlaidos, susijusios su bylos nagrinėjimu, priteisiamos į teismo specialią sąskaitą iš proceso šalies, kurios nenaudai priimtas sprendimas, arba iš proceso šalių proporcingai patenkintų ir atmestų reikalavimų dydžiui. 
+
+
+
+
+8. Šio straipsnio nuostatos netaikomos nagrinėjant šio įstatymo 20 straipsnio 3 dalyje nurodytas bylas. Šio įstatymo 20 straipsnio 3 dalyje nurodytose bylose sumas, priklausančias liudytojams, specialistams, ekspertams ir vertėjams, teismas išmoka, jiems atlikus savo pareigas, iš teismui skirtų valstybės biudžeto lėšų.
+TAR pastaba. Papildymas 8 dalimi įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio dalimi:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
  
 
 
@@ -1610,6 +1659,15 @@ Nr. XII-348, 2013-05-30, Žin., 2013, Nr. 62-3060 (2013-06-12)
 
 
 7. Jeigu šalys, sudarydamos taikos sutartį, nenustatė bylinėjimosi išlaidų paskirstymo tvarkos, teismas šį klausimą išsprendžia pagal šio straipsnio nuostatas.
+
+
+
+
+8. Nagrinėjant šio įstatymo 20 straipsnio 3 dalyje nurodytas bylas, proceso šalių turėtos išlaidos neatlyginamos.
+TAR pastaba. Papildymas 8 dalimi įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio dalimi:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 Straipsnio pakeitimai:
@@ -1678,17 +1736,38 @@ TEISMO SUDĖTIS. NUŠALINIMAI
 
 
 
-3. Teisėjų kolegijos sudėtį sudaro, jos pirmininką ir teisėją pranešėją skiria administracinio teismo pirmininkas ar Lietuvos vyriausiojo administracinio teismo pirmininkas.
+3. Šio įstatymo 20 straipsnio 3 dalyje nurodytas bylas nagrinėja Lietuvos vyriausiojo administracinio teismo penkių teisėjų kolegija. 
+TAR pastaba. Redakcija įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio dalimi:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 
 
-4. Teisėjas, dalyvavęs nagrinėjant administracinę bylą ir priimant joje sprendimą (nutarimą, nutartį) išsprendžiant bylą iš esmės, negali dalyvauti nagrinėjant tą bylą nei apeliacinės instancijos teisme, nei pakartotinai tą bylą nagrinėjant pirmosios instancijos teisme. Ši taisyklė netaikoma, kai Lietuvos vyriausiajame administraciniame teisme sudaroma išplėstinė teisėjų kolegija arba byla perduodama nagrinėti teismo plenarinei sesijai.
+4. Teisėjų kolegijos sudėtį sudaro, jos pirmininką ir teisėją pranešėją skiria administracinio teismo pirmininkas ar Lietuvos vyriausiojo administracinio teismo pirmininkas.
+TAR pastaba. Straipsnio numeracijos pakeitimai įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 
 
-5. Bylas posėdžiui rengia ir atskirus procesinius veiksmus atlieka vienas teisėjas teismo vardu. Klausimus, kuriuos teisėjas turi teisę išspręsti vienas, taip pat gali spręsti teisėjų kolegija arba teismo plenarinė sesija. 
+5. Teisėjas, dalyvavęs nagrinėjant administracinę bylą ir priimant joje sprendimą (nutarimą, nutartį) išsprendžiant bylą iš esmės, negali dalyvauti nagrinėjant tą bylą nei apeliacinės instancijos teisme, nei pakartotinai tą bylą nagrinėjant pirmosios instancijos teisme. Ši taisyklė netaikoma, kai Lietuvos vyriausiajame administraciniame teisme sudaroma išplėstinė teisėjų kolegija arba byla perduodama nagrinėti teismo plenarinei sesijai.
+TAR pastaba. Straipsnio numeracijos pakeitimai įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
+
+
+
+
+6. Bylas posėdžiui rengia ir atskirus procesinius veiksmus atlieka vienas teisėjas teismo vardu. Klausimus, kuriuos teisėjas turi teisę išspręsti vienas, taip pat gali spręsti teisėjų kolegija arba teismo plenarinė sesija. 
+TAR pastaba. Straipsnio numeracijos pakeitimai įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
 
 
 Straipsnio pakeitimai:
@@ -4155,6 +4234,155 @@ Nr. XI-2315, 2012-11-06, Žin., 2012, Nr. 132-6643 (2012-11-15)
 
 
 
+ŠEŠIOLIKTASIS1 SKIRSNIS
+PRAŠYMAI PATEIKTI IŠVADĄ
+TAR pastaba. Papildymas skirsniu įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+ 
+
+
+1171 straipsnis. Prašymo pateikti išvadą padavimas
+
+
+1. Prašymą pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų (toliau – prašymas pateikti išvadą), paduoda savivaldybės taryba Vietos savivaldos įstatyme nustatyta tvarka.
+
+
+
+
+2. Lietuvos vyriausiasis administracinis teismas nepriima nagrinėti prašymo pateikti išvadą, jeigu: 
+
+
+1) prašymą padavė subjektas, neturintis teisės jį paduoti;
+
+
+
+
+2) prašymas grindžiamas ne teisiniais motyvais;
+
+
+
+
+3) prašymas paduotas nesilaikant Vietos savivaldos įstatyme nustatytos tvarkos;
+
+
+
+
+4) prašyme keliamas klausimas jau buvo nagrinėtas Lietuvos vyriausiajame administraciniame teisme.
+
+
+
+
+
+
+3. Prašymą pateikti išvadą padavęs subjektas turi teisę jį atsiimti iki nagrinėjimo teismo posėdyje pradžios.
+ 
+
+
+
+
+
+
+1172 straipsnis. Prašymo pateikti išvadą nagrinėjimas Lietuvos vyriausiajame administraciniame teisme ir išvados pateikimas
+
+
+1. Lietuvos vyriausiasis administracinis teismas išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų (toliau – išvada dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo), pateikia per 2 mėnesius nuo prašymo pateikti išvadą gavimo.
+
+
+
+
+2. Prašymas pateikti išvadą nagrinėjamas pagal bendrąsias šiame įstatyme nustatytas proceso taisykles, išskyrus šiame skirsnyje nustatytas išimtis.
+
+
+
+
+3. Teismas, gavęs prašymą pateikti išvadą, išsiunčia savivaldybės tarybos nariui, savivaldybės tarybos nariui – merui prašymo pateikti išvadą ir prie jo pridėtų dokumentų kopijas (skaitmenines kopijas). Savivaldybės tarybos narys, savivaldybės tarybos narys – meras turi teisę per 7 dienas nuo šioje dalyje nurodytų dokumentų kopijų gavimo pateikti atsiliepimą į prašymą.
+
+
+
+
+4. Prašymą pateikti išvadą Lietuvos vyriausiasis administracinis teismas nagrinėja apie teismo posėdį pranešęs prašymą padavusiai savivaldybės tarybai ir savivaldybės tarybos nariui, savivaldybės tarybos nariui – merui, dėl kurių įgaliojimų netekimo pradėta ši procedūra. Proceso dalyvių, kuriems apie teismo posėdį buvo tinkamai pranešta, neatvykimas į teismo posėdį nėra kliūtis nagrinėti bylą ir priimti išvadą dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo. 
+ 
+
+
+
+
+
+
+1173 straipsnis. Lietuvos vyriausiojo administracinio teismo išvada
+
+
+1. Išnagrinėjęs šio įstatymo 1171 straipsnio 1 dalyje nurodytą prašymą, Lietuvos vyriausiasis administracinis teismas priima išvadą dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo.
+
+
+
+
+2. Išvadoje dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo nurodoma:
+
+
+1) išvados priėmimo laikas ir vieta;
+
+
+
+
+2) išvadą priėmusio teismo pavadinimas;
+
+
+
+
+3) teismo sudėtis, teismo posėdžio sekretorius (jeigu jis dalyvavo nagrinėjant bylą), proceso dalyviai; 
+
+
+
+
+4) bylos dalykas; 
+
+
+
+
+5) proceso dalyvių paaiškinimai;
+
+
+
+
+6) įrodymai, kuriais grindžiama teismo išvada;
+
+
+
+
+7) argumentai, dėl kurių teismas atmeta kuriuos nors įrodymus;
+
+
+
+
+8) įstatymai, kuriais teismas vadovavosi;
+
+
+
+
+9) teismo sprendimas prašomu klausimu.
+
+
+
+
+
+
+3. Lietuvos vyriausiojo administracinio teismo išvada dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo yra galutinė ir neskundžiama.
+
+
+
+
+4. Išvada dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo skelbiama Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
+
+
+
+
+Papildyta skirsniu:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
+
+
+ 
+
+
 SEPTYNIOLIKTASIS SKIRSNIS
 SKUNDAI DĖL RINKIMŲ AR REFERENDUMO
 ĮSTATYMŲ PAŽEIDIMŲ
@@ -5118,6 +5346,15 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 
 
 
+3. Prašymas atnaujinti procesą yra negalimas dėl šio įstatymo 20 straipsnio 3 dalyje nurodytų bylų.
+TAR pastaba. Papildymas 3 dalimi įsigalioja nuo tos dienos, kai 2015 metų savivaldybių tarybų rinkimuose išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Papildyta straipsnio dalimi:
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+ 
+
+
+
+
 154 straipsnis. Subjektai, turintys teisę paduoti prašymą atnaujinti procesą
 
 
@@ -5556,3 +5793,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1243, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14516
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 39, 59, 71, 77 ir 84 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1401, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19929
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 15 ir 19 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 15, 20, 40, 43, 44, 46, 153 straipsnių pakeitimo ir Įstatymo papildymo šešioliktuoju-1 skirsniu įstatymas
