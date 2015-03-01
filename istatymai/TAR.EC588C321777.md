@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
+Suvestinė redakcija nuo 2015-03-01 iki 2015-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -2122,7 +2122,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-4. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus suteiktas prieglobstis, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamuosius įstatymus nebaudžiami ir užsienio valstybėms neišduodami, išskyrus Lietuvos Respublikos baudžiamojo kodekso 7 straipsnyje numatytus atvejus.
+4. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus suteiktas prieglobstis arba laikinoji apsauga, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamuosius įstatymus nebaudžiami ir užsienio valstybėms neišduodami, išskyrus Lietuvos Respublikos baudžiamojo kodekso 7 straipsnyje numatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1399, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19927
+ 
 
 
 
@@ -15012,3 +15015,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 55 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1239, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14519
 Lietuvos Respublikos baudžiamojo proceso kodekso 365-1 ir 365-3 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1399, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19927
+Lietuvos Respublikos baudžiamojo proceso kodekso 71 straipsnio pakeitimo įstatymas
