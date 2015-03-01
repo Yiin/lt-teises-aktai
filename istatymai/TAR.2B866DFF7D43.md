@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
+Suvestinė redakcija nuo 2015-03-01 iki 2015-03-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -442,7 +442,10 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 
 
 
-4. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus yra suteiktas prieglobstis, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamąjį įstatymą nebaudžiami ir užsienio valstybėms neišduodami, išskyrus šio kodekso 7 straipsnyje numatytus atvejus.
+4. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus yra suteiktas prieglobstis arba laikinoji apsauga, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamąjį įstatymą nebaudžiami ir užsienio valstybėms neišduodami, išskyrus šio kodekso 7 straipsnyje numatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1398, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19925
+ 
 
 
 Straipsnio pakeitimai:
@@ -11135,3 +11138,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1481, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21142
 Lietuvos Respublikos baudžiamojo kodekso 190 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1398, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19925
+Lietuvos Respublikos baudžiamojo kodekso 9 straipsnio pakeitimo įstatymas
