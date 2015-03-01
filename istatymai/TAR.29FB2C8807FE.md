@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-02-28
+Suvestinė redakcija nuo 2015-03-01 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -107,27 +107,57 @@ BENDROsios nuostatos
 
 
 
-3. Įmonei draudžiama būti kitų juridinių asmenų dalyve.
+3. Įmonės veiklos tikslams įgyvendinti rengiama įmonės veiklos strategija ne trumpesniam kaip 4 metų laikotarpiui. 
+Papildyta straipsnio dalimi:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
 
-4. Savo prievolių įvykdymui užtikrinti įmonė gali įkeisti ilgalaikį materialųjį turtą, išskyrus turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė. 
+4. Įmonei draudžiama būti kitų juridinių asmenų dalyve.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
 
-5. Įmonė gali nustatyti savo produkcijos bei teikiamų paslaugų kainas ir tarifus, išskyrus atvejus, kai juos įstatymų nustatyta tvarka nustato Vyriausybė, savivaldybės taryba ar kita įstatymų nustatyta institucija.
+5. Savo prievolių įvykdymui užtikrinti įmonė gali įkeisti ilgalaikį materialųjį turtą, išskyrus turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
 
-6. Įmonė turi teisę steigti filialus ir atstovybes Lietuvos Respublikoje ir užsienio valstybėse. 
+6. Įmonė gali nustatyti savo produkcijos bei teikiamų paslaugų kainas ir tarifus, išskyrus atvejus, kai juos įstatymų nustatyta tvarka nustato Vyriausybė, savivaldybės taryba ar kita įstatymų nustatyta institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
 
-7. Įmonės buveinėje turi būti saugomi dokumentai ir kita informacija apie įmonės turtą bei veiklą. Įmonės filialų ir atstovybių buveinėse turi būti saugomi dokumentai ir kita informacija apie šiems filialams bei atstovybėms perduotą turtą, taip pat informacija apie jų veiklą.
+7. Įmonė turi teisę steigti filialus ir atstovybes Lietuvos Respublikoje ir užsienio valstybėse. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
+
+
+
+
+8. Įmonės buveinėje turi būti saugomi dokumentai ir kita informacija apie įmonės turtą bei veiklą. Įmonės filialų ir atstovybių buveinėse turi būti saugomi dokumentai ir kita informacija apie šiems filialams bei atstovybėms perduotą turtą, taip pat informacija apie jų veiklą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
+
+
+
+
+9. Įmonės vieši pranešimai, kurių privalomą skelbimą nustato Civilinis kodeksas ir šis Įstatymas, skelbiami elektroniniame leidinyje viešiems pranešimams skelbti, kurį Vyriausybės nustatyta tvarka leidžia juridinių asmenų registro tvarkytojas.
+Papildyta straipsnio dalimi:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
@@ -143,101 +173,86 @@ BENDROsios nuostatos
 
 
 
-2. Savivaldybės įmonės savininkė yra savivaldybė. Savivaldybės įmonės savininko teises ir pareigas savivaldybė įgyvendina per savivaldybės valdymo instituciją.
-
-
-
-
-3. Toliau šiame Įstatyme valstybės įmonės savininko teises ir pareigas įgyvendinanti Vyriausybė arba jos įgaliota valstybės valdymo institucija, taip pat savivaldybės įmonės savininko teises ir pareigas įgyvendinanti savivaldybės valdymo institucija vadinamos įmonės savininko teises ir pareigas įgyvendinančiomis institucijomis.
-
-
-
-
-4. Įmonės savininko teises ir pareigas įgyvendinanti institucija:
-
-
-1) nustato įmonės veiklos strategiją;
-
-
-
-
-2) tvirtina įmonės įstatus;
-
-
-
-
-3) priima sprendimą pakeisti įmonės buveinę; 
-Papildyta straipsnio punktu:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+2. Savivaldybės įmonės savininkė yra savivaldybė. Savivaldybės įmonės savininko teises ir pareigas savivaldybė įgyvendina per savivaldybės vykdomąją instituciją.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
 
 
-4) skiria ir atšaukia įmonės vadovą, nustato darbo sutarties su įmonės vadovu sąlygas, įmonės vardu sudaro ir nutraukia darbo sutartį su įmonės vadovu, tvirtina įmonės vadovo pareigybės nuostatus. Sprendimas dėl savivaldybės įmonės vadovo skyrimo ir atšaukimo gali būti priimamas tik savivaldybės tarybai pritarus;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+3. Toliau šiame Įstatyme valstybės įmonės savininko teises ir pareigas įgyvendinanti Vyriausybė arba jos įgaliota valstybės valdymo institucija, taip pat savivaldybės įmonės savininko teises ir pareigas įgyvendinanti savivaldybės vykdomoji institucija vadinamos įmonės savininko teises ir pareigas įgyvendinančiomis institucijomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
 
 
-5) skiria ir atšaukia valdybos narius, jei sudaroma valdyba;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+4. Įmonės savininko teises ir pareigas įgyvendinanti institucija:
+
+
+1) tvirtina įmonės veiklos strategiją;
+
+
+
+
+2) tvirtina įmonės įstatus;
+
+
+
+
+3) priima sprendimą pakeisti įmonės buveinę;
+
+
+
+
+4) skiria ir atšaukia įmonės vadovą, nustato darbo sutarties su įmonės vadovu sąlygas, įmonės vardu sudaro ir nutraukia darbo sutartį su įmonės vadovu, tvirtina įmonės vadovo pareigybės nuostatus;
+
+
+
+
+5) skiria ir atšaukia valdybos narius, jeigu sudaroma valdyba;
+
+
+
+
+6) tvirtina įmonės metinius turto įsigijimo ir skolinimosi planus, metines pajamų ir išlaidų sąmatas;
+
+
+
+
+7) tvirtina įmonės metinių finansinių ataskaitų rinkinį ir pelno (nuostolių) paskirstymą;
+
+
+
+
+8) parenka atestuotą auditorių (toliau – auditorius) ar audito įmonę įmonės metinių finansinių ataskaitų rinkinio auditui atlikti;
+
+
+
+
+9) priima sprendimą reorganizuoti įmonę;
+
+
+
+
+10) priima sprendimą pertvarkyti įmonę, išskyrus šio Įstatymo nustatytas išimtis;
+
+
+
+
+11) priima sprendimus likviduoti įmonę ir atšaukti įmonės likvidavimą;
+
+
+
+
+12) paskiria ir atleidžia įmonės likvidatorių.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
-
-
-6) tvirtina įmonės metinių finansinių ataskaitų rinkinį ir pelno (nuostolių) paskirstymą;
-Straipsnio punkto pakeitimai:
-Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
- 
-
-
-
-
-7) parenka audito įmonę;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
- 
-
-
-
-
-8) priima sprendimą reorganizuoti įmonę;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
- 
-
-
-
-
-9) priima sprendimą pertvarkyti įmonę, išskyrus šio Įstatymo nustatytas išimtis;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
- 
-
-
-
-
-10) priima sprendimus likviduoti įmonę ir atšaukti įmonės likvidavimą;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
- 
-
-
-
-
-11) paskiria ir atleidžia įmonės likvidatorių.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
- 
-
-
 
 
 
@@ -252,9 +267,10 @@ Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00X
 
 
 
-7. Kai šio straipsnio 4 dalies 3, 7 ir 9 punktuose nurodytiems sprendimams priimti šio Įstatymo nustatytais atvejais reikia Vyriausybės nutarimo arba savivaldybės tarybos sprendimo, taip pat kai šio straipsnio 4 dalies 8 punkte nurodytą sprendimą šio Įstatymo nustatytais atvejais priima Vyriausybė arba savivaldybės taryba, Vyriausybės nutarimų arba savivaldybės tarybos sprendimų projektus parengia įmonės savininko teises ir pareigas įgyvendinanti institucija, jeigu atitinkamai Vyriausybė arba savivaldybės taryba savo sprendimu tokią instituciją yra paskyrusi.
+7. Kai šio straipsnio 4 dalies 9 ir 11 punktuose nurodytiems sprendimams priimti šio Įstatymo nustatytais atvejais reikia Vyriausybės nutarimo arba savivaldybės tarybos sprendimo, taip pat kai šio straipsnio 4 dalies 10 punkte nurodytą sprendimą šio Įstatymo nustatytais atvejais priima Vyriausybė arba savivaldybės taryba, Vyriausybės nutarimų projektus parengia valstybės įmonės savininko teises ir pareigas įgyvendinanti institucija, jeigu Vyriausybė savo sprendimu tokią instituciją yra paskyrusi, savivaldybės tarybos sprendimų projektus – savivaldybės įmonės savininko teises ir pareigas įgyvendinanti institucija.
 Straipsnio dalies pakeitimai:
 Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
@@ -334,69 +350,60 @@ Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00X
 2. Įmonės įstatuose turi būti nurodyta:
 
 
-1) įmonės pavadinimas;
+1) įmonės pavadinimas;
 
 
 
 
-2) įmonės teisinė forma;
+2) įmonės teisinė forma – valstybės įmonė ar savivaldybės įmonė;
 
 
 
 
-3) neteko galios nuo 2010-01-05;
-Straipsnio punkto pakeitimai:
-Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+3) įmonės veiklos tikslai, kurie turi būti apibrėžti aiškiai ir išsamiai, nurodant įmonės veiklos sritis ir rūšis; 
+
+
+
+
+4) įmonės savininko teises ir pareigas įgyvendinanti institucija ir jos kompetencija; 
+
+
+
+
+5) įmonės valdybos, jeigu ji sudaroma, kompetencija, narių skaičius, valdybos narių skyrimo ir atšaukimo tvarka, narių atsistatydinimo tvarka;
+
+
+
+
+6) įmonės vadovo kompetencija, jo skyrimo, atšaukimo ir atsistatydinimo tvarka; 
+
+
+
+
+7) įmonės savininko patikėjimo teise įmonei perduoto turto valdymo, naudojimo, disponavimo juo tvarka ir sąlygos; 
+
+
+
+
+8) įmonės įstatų keitimo tvarka;
+
+
+
+
+9) įmonės veiklos laikotarpis, jeigu jis yra ribotas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
 
 
-4) įmonės veiklos tikslai, kurie turi būti apibrėžti aiškiai ir išsamiai, nurodant įmonės veiklos sritis bei rūšis; 
-
-
-
-
-5) įmonės savininko teises ir pareigas įgyvendinanti institucija ir jos kompetencija; 
-
-
-
-
-6) įmonės valdybos, jei ji sudaroma, kompetencija, valdybos sudarymo ir atšaukimo tvarka;
-
-
-
-
-7) įmonės vadovo kompetencija, jo skyrimo bei atleidimo tvarka; 
-
-
-
-
-8) įmonės skelbimų ir pranešimų skelbimo tvarka, Lietuvos Respublikos dienraštis, kuriame bus skelbiama įmonės vieša informacija;
-
-
-
-
-9) įmonės savininko patikėjimo teise įmonei perduoto turto valdymo, naudojimo, disponavimo juo tvarka ir sąlygos; 
-
-
-
-
-10) įmonės įstatų keitimo tvarka;
-
-
-
-
-11) įmonės veiklos laikotarpis, jeigu jis yra ribotas.
-
-
-
-
-
-
-3. Įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijos, valdybos, jei ji sudaroma, kompetencijos, sudarymo ir atšaukimo tvarkos, vadovo kompetencijos, jo skyrimo ir atšaukimo tvarkos ir įmonės įstatų keitimo tvarkos nurodyti nereikia, jeigu tai nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose įstatuose. Įstatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
+3. Įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijos, valdybos, jeigu ji sudaroma, kompetencijos, vadovo kompetencijos, jo skyrimo ir atšaukimo tvarkos ir įmonės įstatų keitimo tvarkos įstatuose nurodyti nereikia, jeigu tai nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose įstatuose. Įstatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
 Straipsnio dalies pakeitimai:
 Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
@@ -515,6 +522,13 @@ Trečiasis skirsnis
 
 
 5. Įmonės organai privalo veikti įmonės naudai, laikytis įstatymų bei kitų teisės aktų ir vadovautis įmonės įstatais. Įmonės organai neturi teisės priimti sprendimų ar atlikti kitų veiksmų, kurie akivaizdžiai viršija normalią gamybinę ūkinę riziką ar yra akivaizdžiai nuostolingi. 
+
+
+
+
+6. Įmonės vadovas ir valdybos nariai, jeigu valdyba sudaroma, nevykdantys arba netinkamai vykdantys pareigas, nurodytas Civiliniame kodekse, šiame ir kituose įstatymuose ir įmonės įstatuose, privalo padarytą žalą atlyginti įmonei visiškai.
+Papildyta straipsnio dalimi:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
@@ -525,12 +539,87 @@ Trečiasis skirsnis
 10 straipsnis. Valdyba
 
 
-1. Valstybės įmonės valdybos nariais gali būti tik įmonės savininko teises ir pareigas įgyvendinančios institucijos valstybės tarnautojai ir įmonės vadovas. Savivaldybės įmonės valdybos nariais gali būti tik savivaldybės administracijos valstybės tarnautojai ir įmonės vadovas.
+1. Įmonės valdyba sudaroma, jeigu tai nustatyta įmonės įstatuose. Valdyba sudaroma 4 metams iš ne mažiau kaip 3 narių. Valdybai vadovauja valdybos pirmininkas, kurį iš savo narių renka valdyba.
 
 
 
 
-2. Valdyba:
+2. Valdybos nariais turi būti skiriami:
+
+
+1) valstybės tarnautojai;
+
+
+
+
+2) kiti fiziniai asmenys, kurių skaičius valstybės įmonėse, kurių balanse nurodyto turto vertė ne mažesnė negu 14 000 000 eurų ir pardavimo grynosios pajamos per ataskaitinius finansinius metus yra lygios arba viršija 5 800 000 eurų, turi sudaryti ne mažiau kaip 1/3 įmonės įstatuose nurodyto valdybos narių skaičiaus. Kitų įmonių valdybose pagal poreikį taip pat gali būti tokių fizinių asmenų. 
+
+
+
+
+
+
+3. Valdybos nariu gali būti skiriamas ir įmonės vadovas.
+
+
+
+
+4. Valdybos nariu gali būti tik toks fizinis asmuo, kuris atitinka visus šiuos bendruosius reikalavimus:
+
+
+1) turi aukštąjį universitetinį ar jam prilygintą išsilavinimą;
+
+
+
+
+2) yra nepriekaištingos reputacijos; 
+
+
+
+
+3) nesusijęs su kitais juridiniais asmenimis ryšiais, dėl kurių galėtų kilti interesų konfliktas. 
+
+
+
+
+
+
+5. Kandidatas į valdybos narius ar įmonės valdybos narys nelaikomas nepriekaištingos reputacijos šio Įstatymo tikslais, jeigu įstatymų nustatyta tvarka jis pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikalstamos veikos nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai padarymo ir turi neišnykusį ar nepanaikintą teistumą.
+
+
+
+
+6. Specialiuosius reikalavimus valdybos nariams nustato įmonės savininko teises ir pareigas įgyvendinanti institucija.
+
+
+
+
+7. Per 5 dienas nuo specialiųjų reikalavimų valdybos nariui nustatymo dienos apie valdybos nario atranką įmonė turi viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir įmonės interneto svetainėje. Skelbime turi būti nurodyti specialieji ir bendrieji reikalavimai valdybos nariui ir paraiškos juo tapti pateikimo įmonei tvarka.
+
+
+
+
+8. Fiziniai asmenys, atitinkantys valdybos nariui nustatytus bendruosiuos ir specialiuosius reikalavimus, paraiškas tapti įmonės valdybos nariu gali teikti įmonei 20 dienų nuo šio straipsnio 7 dalyje nurodyto viešo paskelbimo dienos. Šiam terminui pasibaigus, visą iš fizinių asmenų gautą informaciją įmonė per 5 dienas pateikia įmonės savininko teises ir pareigas įgyvendinančiai institucijai. Kandidatai į valdybos narius parenkami Vyriausybės nustatyta tvarka.
+
+
+
+
+9. Įmonės savininko teises ir pareigas įgyvendinanti institucija, turėdama duomenų, keliančių pagrįstų abejonių dėl kandidato į valdybos narius ar valdybos nario atitikties šiame Įstatyme ir kituose teisės aktuose nustatytiems reikalavimams, turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės tokią informaciją turi pateikti ne vėliau kaip per 5 darbo dienas nuo prašymo pateikti tokią informaciją gavimo dienos, jeigu teisės aktuose nenustatyta kitaip. 
+
+
+
+
+10. Įmonės savininko teises ir pareigas įgyvendinanti institucija gali atšaukti visus ar pavienius valdybos narius nepasibaigus laikotarpiui, kuriam valdyba buvo sudaryta. Jeigu atšaukiami ar atsistatydina pavieniai valdybos nariai, pavieniai valdybos nariai skiriami į valdybą iki veikiančios valdybos laikotarpio, kuriam ji buvo sudaryta, pabaigos. 
+
+
+
+
+11. Paaiškėjus, kad valdybos narys neatitinka bendrųjų ir (ar) specialiųjų reikalavimų, jis turi būti atšauktas iš valdybos. 
+
+
+
+
+12. Valdyba:
 
 
 1) nustato įmonės struktūrą;
@@ -538,60 +627,64 @@ Trečiasis skirsnis
 
 
 
-2) pritaria įmonės darbuotojų apmokėjimo ir premijavimo taisyklėms;
+2) teikia įmonės savininko teises ir pareigas įgyvendinančiai institucijai išvadas dėl įmonės veiklos strategijos projekto, dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projekto, dėl įmonės metinių pajamų ir išlaidų sąmatų, metinių turto įsigijimo ir skolinimosi planų, taip pat dėl ataskaitinių finansinių metų įmonės veiklos ataskaitos;
 
 
 
 
-3) nustato įmonės veiklos rodiklius, jei šiuos rodiklius nustatyti įstatuose nėra priskirta įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijai;
+3) tvirtina įmonės darbuotojų apmokėjimo ir skatinimo taisykles;
 
 
 
 
-4) pritaria įmonės metinių finansinių ataskaitų rinkinio projektui bei įmonės paskirstytinojo pelno (nuostolių) paskirstymo projektui;
-Straipsnio punkto pakeitimai:
-Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
+4) nustato įmonės veiklos rodiklius, jeigu šiuos rodiklius nustatyti įstatuose nėra priskirta įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijai;
+
+
+
+
+5) priima sprendimus dėl įmonės filialų ir atstovybių steigimo ir jų veiklos nutraukimo;
+
+
+
+
+6) atlieka kitas šiame Įstatyme ir įmonės įstatuose valdybos kompetencijai priskirtas funkcijas.
+
+
+
+
+
+
+13. Valdybos nariai veiklą pradeda nuo sprendime dėl jų paskyrimo nurodytos dienos. 
+
+
+
+
+14. Jeigu valdyba nesudaroma, šio straipsnio 12 dalies 1, 4 ir 5 punktų nuostatos priskiriamos įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijai. Kitas valdybos kompetencijai priskirtas funkcijas, išskyrus šio straipsnio 12 dalies 2 punkte nustatytą funkciją, atlieka įmonės vadovas.
+
+
+
+
+15. Valdyba gali priimti sprendimus ir jos posėdis laikomas įvykusiu, kai posėdyje dalyvauja daugiau kaip pusė valdybos narių. Valdybos narys už ar prieš sprendimą gali balsuoti iš anksto raštu įmonės įstatuose nustatyta tvarka. Iš anksto raštu balsavę valdybos nariai laikomi dalyvaujančiais posėdyje svarstant klausimus, dėl kurių šie valdybos nariai balsavo raštu. Valdybos sprendimas yra priimtas, jeigu už jį balsavo 2/3 ar daugiau posėdyje dalyvavusių valdybos narių. 
+
+
+
+
+16. Valdyba veikia pagal jos patvirtintą darbo reglamentą. 
+
+
+
+
+17. Už veiklą valdyboje jos nariams atlyginama įmonės lėšomis Vyriausybės nustatyta tvarka. Valdybos nariui išmokama suma per mėnesį negali būti didesnė kaip 1/5 įmonės vadovo vidutinio mėnesinio darbo užmokesčio.
+
+
+
+
+18. Valdybos nariai privalo saugoti įmonės komercines (gamybines) paslaptis, konfidencialią informaciją, kurią sužinojo būdami valdybos nariais ir kuri buvo nurodyta kaip konfidenciali informacija.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
-
-
-5) tvirtina įmonės metinius turto įsigijimo ir skolinimosi planus;
-
-
-
-
-6) vykdo kitas šiame Įstatyme ir įmonės įstatuose valdybos kompetencijai priskirtas funkcijas.
-
-
-
-
-
-
-3. Valdybos nariai veiklą pradeda nuo jų paskyrimo dienos.
-
-
-
-
-4. Jeigu valdyba nesudaroma, šio straipsnio 2 dalies 1 ir 5 punktų nuostatos priskiriamos įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijai.
-
-
-
-
-5. Valdyba gali priimti sprendimus ir jos posėdis laikomas įvykusiu, kai posėdyje dalyvauja daugiau kaip pusė valdybos narių. Valdybos sprendimas yra priimtas, jeigu už jį balsavo daugiau kaip pusė posėdyje dalyvavusių valdybos narių. Valdybos nariais paskirti valstybės tarnautojai balsuoja pagal įmonės savininko teises ir pareigas įgyvendinančios institucijos duotą įgaliojimą.
-
-
-
-
-6. Valdyba veikia pagal jos patvirtintą darbo reglamentą. 
-
-
-
-
-7. Už veiklą valdyboje jos nariams neatlyginama.
- 
-
-
 
 
 
@@ -599,106 +692,132 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 11 straipsnis. Įmonės vadovas
 
 
-1. Įmonės vadovas pradeda eiti pareigas nuo paskyrimo į pareigas dienos. Kai įmonė steigiama, įmonės vadovu paskirtas asmuo pradeda eiti įmonės vadovo pareigas nuo įmonės įregistravimo dienos. 
+1. Įmonės vadovas pradeda eiti pareigas nuo sprendime dėl jo paskyrimo nurodytos dienos. Kai įmonė steigiama, įmonės vadovu paskirtas asmuo pradeda eiti įmonės vadovo pareigas nuo įmonės įregistravimo dienos. 
 
 
 
 
-2. Įmonės vadovas organizuoja įmonės veiklą ir veikia įmonės vardu esant santykiams su kitais asmenimis. Įmonės vadovas: priima į darbą ir atleidžia darbuotojus; sudaro ir nutraukia su jais darbo sutartis; tvirtina įmonės filialų ir atstovybių nuostatus; skiria bei atšaukia įmonės filialų ir atstovybių valdymo organus; turėdamas valdybos, o jeigu valdyba nesudaroma – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą, nustato įmonėje taikomus turto nusidėvėjimo skaičiavimo metodus ir normatyvus; parengia įmonės darbuotojų apmokėjimo ir premijavimo taisykles; teikia informaciją įmonės savininko teises ir pareigas įgyvendinančiai institucijai apie įmonės veiklos prognozes ir planus, nurodydamas reikalingų investicijų ateinančiais finansiniais metais sumas, bei apie įvykius, turinčius esminės reikšmės įmonės veiklai. Jeigu įmonėje valdyba nesudaroma, įmonės vadovas atlieka ir valdybos kompetencijai priskirtas funkcijas, išskyrus šio Įstatymo 10 straipsnio 4 dalyje nustatytas išimtis.
+2. Įmonės vadovas: 
+
+
+1) priima į darbą ir atleidžia darbuotojus; 
 
 
 
 
-3. Įmonės vadovas turi teisę vienvaldiškai sudaryti sandorius. Įmonės įstatuose gali būti nurodyti sandoriai, kuriems sudaryti būtina turėti valdybos, o jeigu valdyba nesudaroma – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą. 
+2) parengia įmonės darbuotojų darbo apmokėjimo ir skatinimo taisykles;
 
 
 
 
-4. Įmonės vadovu negali būti asmuo, kuriam įstatymų nustatyta tvarka atimta teisė eiti tokias pareigas. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). Jeigu įmonės buhalterinę apskaitą tvarko įmonės apskaitos tarnyba (struktūrinis padalinys), įmonės vadovas negali būti šios tarnybos (struktūrinio padalinio) vadovu.
+3) teikia informaciją valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai apie įmonės veiklos prognozes, planus (nurodo reikalingų investicijų ateinančiais finansiniais metais sumas) ir įvykius, turinčius esminę reikšmę įmonės veiklai;
 
 
 
 
-5. Įmonės vadovas negali būti ar tapti kito juridinio asmens valdymo organo nariu, vyriausiuoju buhalteriu (buhalteriu) ar buhalterinę apskaitą tvarkančios apskaitos tarnybos (struktūrinio padalinio) vadovu. Jeigu įmonės vadovu skiriamas asmuo, kuris yra kito juridinio asmens valdymo organo narys, vyriausiasis buhalteris (buhalteris) ar buhalterinę apskaitą tvarkančios apskaitos tarnybos (struktūrinio padalinio) vadovas, tai per 1 mėnesį po paskyrimo įmonės vadovu jis privalo atsistatydinti iš pareigų, kurias ėjo kitame juridiniame asmenyje. Įmonės vadovas, pažeidęs šioje dalyje nustatytą reikalavimą, įstatymų nustatyta tvarka atleidžiamas iš iki tol eitų įmonės vadovo pareigų.
+4) tvirtina įmonės filialų ir atstovybių nuostatus; 
 
 
 
 
-6. Įmonės vadovas atsako už: 
-
-
-1) įmonės veiklos organizavimą;
+5) skiria ir atšaukia įmonės filialų ir atstovybių valdymo organų narius;
 
 
 
 
-2) pranešimą įmonės savininko teises ir pareigas įgyvendinančiai institucijai apie įvykius, turinčius esminės reikšmės įmonės veiklai;
-
-
-
-
-3) įmonės metinių finansinių ataskaitų rinkinio sudarymą ir jo pateikimą kartu su auditoriaus išvada bei audito ataskaita įmonės savininko teises ir pareigas įgyvendinančiai institucijai per 3 mėnesius nuo finansinių metų pabaigos;
-Straipsnio punkto pakeitimai:
-Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
- 
-
-
-
-
-4) įmonės veiklos ataskaitos pateikimą įmonės savininko teises ir pareigas įgyvendinančiai institucijai;
-
-
-
-
-5) įmonės duomenų ir dokumentų pateikimą juridinių asmenų registrui;
-
-
-
-
-6) viešos informacijos paskelbimą;
-
-
-
-
-7) dokumentų ir kitos informacijos apie įmonę saugojimą;
-
-
-
-
-8) įmonės turto valdymą, naudojimą ir disponavimą juo įstatuose nustatyta tvarka ir sąlygomis;
-
-
-
-
-9) kitus veiksmus, kuriuos įmonės vadovui nustato šis Įstatymas, kiti teisės aktai bei įmonės įstatai.
+6) atlieka kitas šiame Įstatyme ir įmonės įstatuose įmonės vadovo kompetencijai priskirtas funkcijas.
 
 
 
 
 
 
-7. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus motyvuotą sprendimą atšaukti įmonės vadovą, su juo sudaryta darbo sutartis nutraukiama Darbo kodekso nustatyta tvarka. 
-Papildyta straipsnio dalimi:
-Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
- 
+3. Įmonės vadovas organizuoja kasdieninę įmonės veiklą ir veikia įmonės vardu esant santykiams su kitais asmenimis. Įmonės vadovas turi teisę vienvaldiškai sudaryti sandorius. Įmonės įstatuose gali būti nurodyti sandoriai, kuriems sudaryti būtina turėti valdybos, o jeigu valdyba nesudaroma, – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą. 
+
+
+
+
+4. Įmonės vadovu negali būti asmuo, kuriam įstatymų nustatyta tvarka atimta teisė eiti tokias pareigas. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). 
+
+
+
+
+5. Įmonės vadovas negali būti kito juridinio asmens darbuotoju ar organo nariu be įmonės savininko teises ir pareigas įgyvendinančios institucijos sutikimo. Įmonės savininko teises ir pareigas įgyvendinanti institucija sprendimą dėl sutikimo įmonės vadovui būti kito juridinio asmens darbuotoju ar organo nariu priima gavusi įmonės vadovo rašytinį prašymą. Šis įmonės vadovo prašymas turi būti išnagrinėtas per 10 darbo dienų nuo jo gavimo institucijoje dienos. Sutikimas duodamas, jeigu įmonės vadovo buvimas kito juridinio asmens darbuotoju ar organo nariu nesukelia interesų konflikto, nekliudo jam tinkamai vykdyti pareigų, nurodytų Civiliniame kodekse, šiame ir kituose įstatymuose ir įmonės įstatuose. Įmonės vadovas, pažeidęs šioje dalyje nustatytą reikalavimą, turi būti atšauktas iš įmonės vadovo pareigų.
+
+
+
+
+6. Įmonės vadovas atsako už: 
+
+
+1) įmonės veiklos strategijos projekto parengimą ir jo pateikimą valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai;
+
+
+
+
+2) įmonės veiklos organizavimą;
+
+
+
+
+3) pranešimą įmonės savininko teises ir pareigas įgyvendinančiai institucijai ir valdybai, jeigu ji sudaroma, apie įvykius, turinčius esminę reikšmę įmonės veiklai;
+
+
+
+
+4) įmonės metinių finansinių ataskaitų rinkinio sudarymą ir jo pateikimą kartu su auditoriaus išvada bei audito ataskaita valdybai, jeigu ji sudaroma, susipažinti ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai tvirtinti per 3 mėnesius nuo finansinių metų pabaigos;
+
+
+
+
+5) įmonės metinių turto įsigijimo ir skolinimosi planų, metinių pajamų ir išlaidų sąmatų sudarymą ir jų pateikimą valdybai, jeigu ji sudaroma, svarstyti ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai tvirtinti;
+
+
+
+
+6) įmonės veiklos ataskaitos parengimą;
+
+
+
+
+7) įmonės duomenų ir dokumentų pateikimą juridinių asmenų registrui;
+
+
+
+
+8) įmonės viešų pranešimų paskelbimą;
+
+
+
+
+9) dokumentų ir kitos informacijos apie įmonę saugojimą;
+
+
+
+
+10) įmonės turto valdymą, naudojimą ir disponavimą juo įmonės įstatuose nustatyta tvarka ir sąlygomis;
+
+
+
+
+11) kitus veiksmus, nustatytus įmonės vadovui šiame Įstatyme, kituose teisės aktuose ir įmonės įstatuose.
+
+
+
+
+
+
+7. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą atšaukti įmonės vadovą, su juo sudaryta darbo sutartis nutraukiama Darbo kodekse nustatyta tvarka.
 
 
 
 
 8. Darbo ginčai tarp įmonės vadovo ir įmonės nagrinėjami teisme.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+
+Straipsnio pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
-
-
-9. Įmonės vadovas, nevykdantis arba netinkamai vykdantis pareigas, nurodytas Civiliniame kodekse, šiame ir kituose įstatymuose bei įstatuose, privalo padarytą žalą atlyginti įmonei visiškai. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
- 
-
-
 
 
 
@@ -779,9 +898,10 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-4. Įmonėje turi būti sudaromas privalomasis rezervas. Privalomasis rezervas sudaromas iš įmonės paskirstytinojo pelno, taikant įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatyto dydžio metinius atskaitymus. Atskaitymai į privalomąjį rezervą turi sudaryti ne mažiau kaip 1/20 paskirstytinojo pelno. Jie turi būti vykdomi tol, kol privalomojo rezervo dydis sudarys 1/10 savininko kapitalo vertės. Nustatytą dydį viršijanti privalomojo rezervo dalis gali būti perskirstyta skirstant įmonės pelną. Privalomasis rezervas naudojamas tik įmonės nuostoliams dengti. Padengus nuostolius, privalomojo rezervo dydis turi būti atkuriamas, laikantis šioje dalyje nustatytos tvarkos.
+4. Įmonėje turi būti sudaromas privalomasis rezervas. Privalomasis rezervas sudaromas iš įmonės paskirstytinojo pelno. Atskaitymai į privalomąjį rezervą turi sudaryti ne mažiau kaip 1/20 paskirstytinojo pelno. Jie turi būti vykdomi tol, kol privalomojo rezervo dydis sudarys 1/10 savininko kapitalo vertės. Nustatytą dydį viršijanti privalomojo rezervo dalis gali būti perskirstyta skirstant įmonės pelną. Privalomasis rezervas naudojamas tik įmonės nuostoliams dengti. Padengus nuostolius, privalomojo rezervo dydis turi būti atkuriamas laikantis šioje dalyje nustatytos tvarkos.
 Straipsnio dalies pakeitimai:
 Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
@@ -795,10 +915,11 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-6. Kiti rezervai sudaromi įstatuose nustatyta tvarka iš įmonės paskirstytinojo pelno, naudojami įmonės įstatuose nustatytiems tikslams ir naikinami įmonės įstatuose nustatyta tvarka. Šie rezervai gali būti sudaromi tik po to, kai yra atliktas šio straipsnio 4 dalyje nustatyto dydžio atskaitymas į privalomąjį rezervą. Skirstant finansinių metų pelną kiti nepanaudoti rezervai gali būti pervedami į paskirstytinąjį pelną (nuostolius).
+6. Kiti rezervai sudaromi įmonės įstatuose nustatyta tvarka iš įmonės paskirstytinojo pelno, naudojami įmonės įstatuose nustatytiems tikslams ir naikinami įmonės įstatuose nustatyta tvarka. Šie rezervai gali būti sudaromi tik po to, kai yra atliktas atskaitymas į privalomąjį rezervą. Skirstant finansinių metų pelną, kiti nepanaudoti rezervai gali būti pervedami į paskirstytinąjį pelną (nuostolius).
 Straipsnio dalies pakeitimai:
 Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
@@ -862,7 +983,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-7. Apie Vyriausybės ar savivaldybės tarybos sprendimą perduoti įmonės turto dalį įmonės vadovas per 30 dienų nuo sprendimo priėmimo turi viešai paskelbti įmonės įstatuose nurodytame dienraštyje arba raštu pranešti kiekvienam įmonės kreditoriui. Įmonė privalo suteikti papildomą prievolių įvykdymo užtikrinimą to pareikalavusiam kreditoriui, jeigu yra pagrindas manyti, kad prievolę įvykdyti bus sunkiau. Kreditorius reikalavimus gali pateikti ne vėliau kaip per 2 mėnesius nuo viešo paskelbimo apie sprendimą perduoti įmonės turto dalį dienos arba nuo rašytinio pranešimo įteikimo jam dienos. 
+7. Apie Vyriausybės ar savivaldybės tarybos sprendimą perduoti įmonės turto dalį įmonės vadovas per 30 dienų nuo sprendimo priėmimo turi viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje arba raštu pranešti kiekvienam įmonės kreditoriui. Įmonė privalo suteikti papildomą prievolių įvykdymo užtikrinimą to pareikalavusiam kreditoriui, jeigu yra pagrindas manyti, kad prievolę įvykdyti bus sunkiau. Kreditorius reikalavimus papildomai užtikrinti prievolių įvykdymą gali pateikti ne vėliau kaip per 2 mėnesius nuo viešo paskelbimo apie sprendimą perduoti įmonės turto dalį dienos arba nuo rašytinio pranešimo įteikimo jam dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -918,7 +1042,7 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-2. Įmonės vadovas turi parengti ir kartu su įmonės metinių finansinių ataskaitų rinkiniu pateikti įmonės savininko teises ir pareigas įgyvendinančiai institucijai tvirtinti sprendimo dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projektą. Projekte turi būti nurodyta:
+2. Įmonės vadovas kartu su įmonės metinių finansinių ataskaitų rinkiniu valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai turi pateikti sprendimo dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projektą. Projekte turi būti nurodyta:
 
 
 1) ankstesnių finansinių metų nepaskirstytasis pelnas (nuostoliai) ataskaitinių finansinių metų pabaigoje;
@@ -974,6 +1098,9 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 11) nepaskirstytasis pelnas (nuostoliai), perkeliamas (perkeliami) į kitus finansinius metus.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1176,12 +1303,18 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti savivaldybės kontrolės ir audito institucija. Savivaldybės taryba gali priimti sprendimą atlikti tam tikros veiklos nepriklausomą auditą. Auditorius ar audito įmonė parenkama Viešųjų pirkimų įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
+2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba). Savivaldybės taryba gali priimti sprendimą atlikti tam tikros veiklos nepriklausomą auditą. Auditorius ar audito įmonė metinių finansinių ataskaitų rinkinio auditui atlikti parenkama Viešųjų pirkimų įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
 
-3. Atlikus auditą, įmonei pateikiama auditoriaus išvada ir audito ataskaita.
+3. Atlikus įmonės metinių finansinių ataskaitų rinkinio auditą, įmonei pateikiama auditoriaus išvada ir audito ataskaita.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1252,7 +1385,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 19 straipsnis. Įmonės pertvarkymas
 
 
-1. Įmonė gali būti pertvarkoma į šio straipsnio 2 dalyje nurodytų teisinių formų juridinius asmenis, jeigu visas jos prievoles galės perimti kitos teisinės formos juridinis asmuo, veiksiantis po pertvarkymo. Po pertvarkymo veikiančiam juridiniam asmeniui pereina visos pertvarkytosios įmonės teisės ir pareigos.
+1. Įmonė gali būti pertvarkoma į šio straipsnio 2 dalyje nurodytų teisinių formų juridinius asmenis, jeigu visas jos prievoles, teises ir turtą galės perimti kitos teisinės formos juridinis asmuo, veiksiantis po pertvarkymo. Po pertvarkymo veikiančiam naujos teisinės formos juridiniam asmeniui pereina pertvarkytosios įmonės turtas, taip pat visos teisės ir pareigos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1287,7 +1423,7 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-3. Sprendimą pertvarkyti įmonę priima įmonės savininko teises ir pareigas įgyvendinanti institucija, išskyrus šio ir kitų įstatymų nustatytas išimtis. Institucija, priėmusi sprendimą pertvarkyti įmonę, kartu tvirtina po pertvarkymo veiksiančio juridinio asmens įstatus (nuostatus). Sprendime pertvarkyti įmonę turi būti nurodyta:
+3. Sprendimą pertvarkyti įmonę priima įmonės savininko teises ir pareigas įgyvendinanti institucija, išskyrus šio ir kitų įstatymų nustatytas išimtis. Sprendime pertvarkyti įmonę turi būti nurodyta:
 
 
 1) teisės akto, kuriuo vadovaujamasi priimant sprendimą, numeris, pavadinimas, priėmimo ir įsigaliojimo datos;
@@ -1301,16 +1437,16 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 3) kokia teise (nuosavybės ar patikėjimo) įmonės turtą valdys, naudos ir juo disponuos juridinis asmuo, į kurį pertvarkoma įmonė.
-Straipsnio punkto pakeitimai:
-Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
 
 
 
 
-
-
-4. Apie priimtą sprendimą pertvarkyti įmonę įmonės vadovas turi pranešti juridinių asmenų registrui bei viešai paskelbti įstatų nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbti įstatuose nurodytame dienraštyje vieną kartą ir pranešti visiems įmonės kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
+4. Apie priimtą sprendimą pertvarkyti įmonę įmonės vadovas turi pranešti juridinių asmenų registrui ir viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje vieną kartą ir pranešti visiems įmonės kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
 
 
 1) įmonės pavadinimas;
@@ -1339,11 +1475,11 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 6) kur ir nuo kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, steigimo dokumentais ir pertvarkomos įmonės praėjusių 3 finansinių metų metinių finansinių ataskaitų rinkiniais.
-Straipsnio punkto pakeitimai:
-Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
 
 
 
@@ -1364,15 +1500,17 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 20 straipsnis. Valstybės įmonės pertvarkymas į savivaldybės įmonę
 
 
-1. Sprendimas pertvarkyti valstybės įmonę į savivaldybės įmonę gali būti priimamas, kai yra Vyriausybės nutarimas perduoti ir savivaldybės tarybos sprendimas perimti valstybės įmonei patikėjimo teise priklausantį turtą savivaldybės nuosavybėn, išskyrus atvejus, kai valstybės įmonei pertvarkyti į savivaldybės įmonę priimamas atskiras įstatymas.
+1. Sprendimas pertvarkyti valstybės įmonę į savivaldybės įmonę gali būti priimamas, kai yra Vyriausybės nutarimas dėl sutikimo pertvarkyti valstybės įmonę į savivaldybės įmonę ir Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais pagrindais perduoti valstybės įmonei patikėjimo teise priklausantį turtą savivaldybės nuosavybėn, taip pat savivaldybės tarybos sprendimas dėl sutikimo, kad savivaldybė taptų po pertvarkymo veiksiančios savivaldybės įmonės savininke ir perimtų perduodamą turtą savivaldybės nuosavybėn, išskyrus atvejus, kai valstybės įmonei pertvarkyti į savivaldybės įmonę priimamas atskiras įstatymas.
 
 
 
 
-2. Savivaldybės taryba, priimdama sprendimą perimti turtą savivaldybės nuosavybėn, kartu įgalioja savivaldybės valdymo instituciją atlikti visus su šiuo sprendimu susijusius veiksmus.
+2. Savivaldybės taryba, priimdama šio straipsnio 1 dalyje nurodytą sprendimą, kartu įgalioja savivaldybės vykdomąją instituciją atlikti visus su šiuo sprendimu susijusius veiksmus ir tvirtinti po pertvarkymo veiksiančios savivaldybės įmonės įstatus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
 
 
 
@@ -1380,15 +1518,17 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 21 straipsnis. Savivaldybės įmonės pertvarkymas į valstybės įmonę
 
 
-1. Sprendimas pertvarkyti savivaldybės įmonę į valstybės įmonę gali būti priimamas, kai yra savivaldybės tarybos sprendimas perduoti ir Vyriausybės nutarimas perimti savivaldybės įmonei patikėjimo teise priklausantį turtą valstybės nuosavybėn.
+1. Sprendimas pertvarkyti savivaldybės įmonę į valstybės įmonę gali būti priimamas, kai yra savivaldybės tarybos sprendimas dėl sutikimo pertvarkyti savivaldybės įmonę į valstybės įmonę ir perduoti savivaldybės įmonei patikėjimo teise priklausantį turtą valstybės nuosavybėn, taip pat Vyriausybės nutarimas dėl sutikimo, kad valstybė taptų po pertvarkymo veiksiančios valstybės įmonės savininke ir perimtų perduodamą turtą valstybės nuosavybėn.
 
 
 
 
-2. Vyriausybė, priimdama nutarimą perimti turtą valstybės nuosavybėn, kartu įgalioja valstybės valdymo instituciją įgyvendinti šios valstybės įmonės savininko teises ir pareigas.
+2. Vyriausybė, priimdama šio straipsnio 1 dalyje nurodytą nutarimą, kartu įgalioja valstybės valdymo instituciją tvirtinti po pertvarkymo veiksiančios valstybės įmonės įstatus ir įgyvendinti šios valstybės įmonės savininko teises ir pareigas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
 
 
 
@@ -1396,20 +1536,32 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 22 straipsnis. Įmonės pertvarkymas į biudžetinę įstaigą
 
 
-1. Įmonė, kurios turimų piniginių lėšų pakanka jos įsipareigojimams įvykdyti, gali būti pertvarkoma į biudžetinę įstaigą.
+1. Įmonė, kuriai pavesta įgyvendinti valstybės ar savivaldybės funkcijas ir kurios turimų piniginių lėšų pakanka jos įsipareigojimams įvykdyti, gali būti pertvarkoma į biudžetinę įstaigą.
 
 
 
 
-2. Valstybės įmonė gali būti pertvarkoma į biudžetinę įstaigą, išlaikomą iš Lietuvos valstybės biudžeto. Savivaldybės įmonė gali būti pertvarkoma į biudžetinę įstaigą, išlaikomą iš savivaldybės biudžeto. 
+2. Valstybės įmonė gali būti pertvarkoma į biudžetinę įstaigą, išlaikomą iš valstybės biudžeto asignavimų, taip pat iš Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų lėšų. Savivaldybės įmonė gali būti pertvarkoma į biudžetinę įstaigą, išlaikomą iš savivaldybės biudžeto asignavimų. 
 
 
 
 
-3. Sprendimą pertvarkyti valstybės įmonę į biudžetinę įstaigą priima Vyriausybė. Sprendimą pertvarkyti savivaldybės įmonę į biudžetinę įstaigą priima savivaldybės taryba. 
+3. Sprendimą pertvarkyti valstybės įmonę į biudžetinę įstaigą priima Vyriausybė. Priimant sprendimą vadovaujamasi šio Įstatymo 19 straipsnio 3 dalyje nustatytais reikalavimais. Sprendime taip pat turi būti nurodyta po pertvarkymo veiksiančios biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija (Vyriausybė ar jos įgaliota valstybės valdymo institucija). 
+
+
+
+
+4. Sprendimą pertvarkyti savivaldybės įmonę į biudžetinę įstaigą priima savivaldybės taryba. 
+
+
+
+
+5. Priėmus sprendimą pertvarkyti įmonę į biudžetinę įstaigą, po pertvarkymo veiksiančios biudžetinės įstaigos nuostatus tvirtina biudžetinės įstaigos savininko teises ir pareigas įgyvendinsianti Vyriausybė ar jos įgaliota valstybės valdymo institucija arba savivaldybės taryba.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
  
-
-
 
 
 
@@ -1417,12 +1569,18 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 23 straipsnis. Įmonės pertvarkymas į akcinę bendrovę arba uždarąją akcinę bendrovę
 
 
-1. Įmonė gali būti pertvarkoma į akcinę bendrovę, jeigu įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytojo pelno (nuostolių) suma yra ne mažesnė nei Akcinių bendrovių įstatyme akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
+1. Įmonė gali būti pertvarkoma į akcinę bendrovę, jeigu įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 8 punkte, bei nepaskirstytojo pelno (nuostolių) suma yra ne mažesnė negu Akcinių bendrovių įstatyme akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
 
-2. Įmonė gali būti pertvarkoma į uždarąją akcinę bendrovę, jeigu įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytojo pelno (nuostolių) suma yra ne mažesnė nei Akcinių bendrovių įstatyme uždarosioms akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
+2. Įmonė gali būti pertvarkoma į uždarąją akcinę bendrovę, jeigu įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 8 punkte, bei nepaskirstytojo pelno (nuostolių) suma yra ne mažesnė negu Akcinių bendrovių įstatyme uždarosioms akcinėms bendrovėms nustatytas minimalus įstatinis kapitalas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1450,7 +1608,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-2) nurodytas po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Visos akcijos turi būti paprastosios vardinės akcijos. Akcijų nominalių verčių suma turi atitikti įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytojo pelno (nuostolių) sumą;
+2) nurodytas po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Visos akcijos turi būti paprastosios vardinės akcijos. Akcijų nominalių verčių suma turi atitikti įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo (rezultatų) ir kitų rezervų, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 8 punkte, bei nepaskirstytojo pelno (nuostolių) sumą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1467,7 +1628,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-8. Sprendimas pertvarkyti įmonę turi būti patikslintas, jei iki akcinės bendrovės ar uždarosios akcinės bendrovės, veiksiančios po pertvarkymo, įstatų įregistravimo juridinių asmenų registre pasikeitė įmonės savininko kapitalas, privalomasis rezervas, perkainojimo rezervas (rezultatai) ir kiti rezervai, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 7 punkte, bei nepaskirstytasis pelnas (nuostoliai). Paaiškėjus, kad reikalavimas dėl įstatinio kapitalo dydžio, nustatytas šio straipsnio l ar 2 dalyje, patikslinus sprendimą, nėra įvykdomas, sprendimas pertvarkyti įmonę atšaukiamas. Sprendimą tikslina arba atšaukia įmonės savininko teises ir pareigas įgyvendinanti institucija, išskyrus atvejus, kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas. Nuo sprendimo pertvarkyti įmonę atšaukimo įmonė netenka pertvarkomos įmonės statuso.
+8. Sprendimas pertvarkyti įmonę turi būti patikslintas, jeigu iki akcinės bendrovės ar uždarosios akcinės bendrovės, veiksiančios po pertvarkymo, įstatų įregistravimo juridinių asmenų registre pasikeitė įmonės savininko kapitalas, privalomasis rezervas, perkainojimo rezervas (rezultatai) ir kiti rezervai, išskyrus rezervus, nurodytus šio Įstatymo 15 straipsnio 2 dalies 8 punkte, bei nepaskirstytasis pelnas (nuostoliai). Paaiškėjus, kad reikalavimas dėl įstatinio kapitalo dydžio, nustatytas šio straipsnio 1 ar 2 dalyje, patikslinus sprendimą, nėra įvykdomas, sprendimas pertvarkyti įmonę atšaukiamas. Sprendimą tikslina arba atšaukia įmonės savininko teises ir pareigas įgyvendinanti institucija, išskyrus atvejus, kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas. Nuo sprendimo pertvarkyti įmonę atšaukimo įmonė netenka pertvarkomos įmonės statuso.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1477,7 +1641,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-10. Įmonės vadovas apie patikslintą ar atšauktą sprendimą pertvarkyti įmonę turi pranešti juridinių asmenų registrui, vieną kartą viešai paskelbti įstatuose nurodytame dienraštyje ir visiems įmonės kreditoriams pranešti raštu. Patikslinus sprendimą, kartu su pranešimu juridinių asmenų registrui pateikiamas visas patikslinto sprendimo pertvarkyti įmonę tekstas. Skelbime arba pranešime, be šio Įstatymo 19 straipsnio 4 dalies 1–4 punktuose nustatytų reikalavimų, taip pat turi būti nurodyta priežastis, dėl kurios sprendimas pertvarkyti įmonę patikslintas ar atšauktas.
+10. Įmonės vadovas apie patikslintą ar atšauktą sprendimą pertvarkyti įmonę turi pranešti juridinių asmenų registrui, vieną kartą viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir visiems įmonės kreditoriams pranešti raštu. Patikslinus sprendimą, kartu su pranešimu juridinių asmenų registrui pateikiamas visas patikslinto sprendimo pertvarkyti įmonę tekstas. Skelbime arba pranešime, be šio Įstatymo 19 straipsnio 4 dalies 1, 2, 3 ir 4 punktuose nustatytų reikalavimų, taip pat turi būti nurodyta priežastis, dėl kurios sprendimas pertvarkyti įmonę patikslintas ar atšauktas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1497,7 +1664,18 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-14. Po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatus patvirtinusi valstybės ar savivaldybės institucija tampa valstybei arba savivaldybei nuosavybės teise priklausančių akcijų valdytoja.
+14. Įmonės savininko teises ir pareigas įgyvendinanti institucija, priėmusi sprendimą pertvarkyti įmonę į akcinę bendrovę ar uždarąją akcinę bendrovę, kartu tvirtina po pertvarkymo veiksiančios akcinės bendrovės ar uždarosios akcinės bendrovės įstatus. Juos įregistravus juridinių asmenų registre, valstybės įmonės savininko teises ir pareigas įgyvendinanti institucija tampa valstybei nuosavybės teise priklausančių bendrovės akcijų valdytoja, savivaldybės įmonės savininko teises ir pareigas įgyvendinanti institucija tampa savivaldybei nuosavybės teise priklausančių bendrovės akcijų valdytoja.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
+
+
+
+
+15. Kai valstybės įmonei pertvarkyti į akcinę bendrovę ar uždarąją akcinę bendrovę priimamas atskiras įstatymas, valstybės įmonės savininko teises ir pareigas įgyvendinanti institucija tvirtina po pertvarkymo veiksiančios akcinės bendrovės ar uždarosios akcinės bendrovės įstatus ir, juos įregistravus juridinių asmenų registre, tampa valstybei nuosavybės teise priklausančių bendrovės akcijų valdytoja, jeigu tame įstatyme nenustatyta kitaip. 
+Papildyta straipsnio dalimi:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 Straipsnio pakeitimai:
@@ -1507,10 +1685,10 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-24 straipsnis. Įmonės likvidavimas
+24 straipsnis. Įmonės likvidavimas
 
 
-1. Įmonė gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo pagrindais.
+1. Įmonė gali būti likviduojama Civilinio kodekso nustatytais juridinių asmenų likvidavimo pagrindais.
 
 
 
@@ -1521,58 +1699,49 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 3. Sprendimą likviduoti įmonę priėmusi įmonės savininko teises ir pareigas įgyvendinanti institucija arba teismas privalo paskirti likvidatorių. Nuo likvidatoriaus paskyrimo įmonės valdymo organai netenka savo įgaliojimų.
-Straipsnio dalies pakeitimai:
-Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
- 
 
 
 
 
-4. Jei įmonė įsteigta ribotam laikui, likus ne mažiau kaip 3 mėnesiams iki nustatyto laikotarpio pabaigos, įmonės savininko teises ir pareigas įgyvendinanti institucija privalo paskirti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti įmonės įstatus. Jeigu šio Įstatymo 5 straipsnio 3 dalyje nurodytame teisės akte yra nustatytas laikotarpis, kuriam steigiama įmonė, sprendimas pratęsti šį valstybės įmonės veiklos laikotarpį gali būti priimamas gavus išankstinį Vyriausybės sutikimą, savivaldybės įmonės – gavus išankstinį savivaldybės tarybos sutikimą. 
+4. Jeigu įmonė įsteigta ribotam laikui, likus ne mažiau kaip 3 mėnesiams iki nustatyto laikotarpio pabaigos, įmonės savininko teises ir pareigas įgyvendinanti institucija privalo paskirti likvidatorių arba priimti sprendimą pratęsti veiklos laikotarpį ir pakeisti įmonės įstatus. Jeigu šio Įstatymo 5 straipsnio 3 dalyje nurodytame teisės akte yra nustatytas laikotarpis, kuriam steigiama įmonė, sprendimas pratęsti šį valstybės įmonės veiklos laikotarpį gali būti priimamas gavus išankstinį Vyriausybės sutikimą, savivaldybės įmonės – gavus išankstinį savivaldybės tarybos sutikimą. 
 
 
 
 
-5. Jei įmonės savininko teises ir pareigas įgyvendinanti institucija nepriima sprendimo pratęsti įmonės veiklos laikotarpį ir nepaskiria likvidatoriaus, įmonės vadovas ar juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių. 
+5. Jeigu įmonės savininko teises ir pareigas įgyvendinanti institucija nepriima sprendimo pratęsti įmonės veiklos laikotarpį ir nepaskiria likvidatoriaus, įmonės vadovas ar juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių. 
 
 
 
 
-6. Jei įmonės likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią įmonę, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
+6. Jeigu įmonės likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią įmonę, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
 
 
 
 
-7. Jeigu įmonės likvidavimo pagrindas yra juridinių asmenų registro tvarkytojo sprendimas, įmonė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva. 
-Papildyta straipsnio dalimi:
-Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
- 
+7. Jeigu įmonės likvidavimo pagrindas yra juridinių asmenų registro tvarkytojo sprendimas, įmonė likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva.
 
 
 
 
-8. Apie sprendimą likviduoti įmonę turi būti viešai paskelbta įstatuose nustatyta tvarka ir įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą įstatuose nurodytame dienraštyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
- 
+8. Apie sprendimą likviduoti įmonę turi būti viešai paskelbta šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta vieną kartą šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir pranešta visiems kreditoriams raštu. Skelbime arba pranešime turi būti nurodyta:
 
 
-1) įmonės pavadinimas;
+1) įmonės pavadinimas;
 
 
 
 
-2) įmonės buveinė;
+2) įmonės buveinė;
 
 
 
 
-3) įmonės kodas;
+3) įmonės kodas;
 
 
 
 
-4) registras, kuriame kaupiami ir saugomi duomenys apie likviduojamą įmonę;
+4) registras, kuriame kaupiami ir saugomi duomenys apie likviduojamą įmonę;
 
 
 
@@ -1585,19 +1754,16 @@ Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
 
 
 9. Apie likvidavimą pranešama juridinių asmenų registrui teisės aktų nustatyta tvarka ne vėliau kaip pirmą viešo paskelbimo dieną. Nuo sprendimo likviduoti įmonę priėmimo įmonė įgyja likviduojamos įmonės statusą, o jo netenka įmonę likvidavus ar įstatymų nustatytais atvejais atšaukus sprendimą ją likviduoti. Likvidavimo atšaukimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
- 
 
 
 
 
 10. Likviduojamos įmonės kreditorių reikalavimai tenkinami įstatymų nustatyta tvarka. Patenkinus visus likviduojamos valstybės įmonės kreditorių reikalavimus, likęs turtas perduodamas valstybės įmonės savininko teises ir pareigas įgyvendinančiai institucijai, jeigu Vyriausybė nenutaria kitaip. Patenkinus visus likviduojamos savivaldybės įmonės kreditorių reikalavimus, likęs turtas savivaldybės tarybos sprendimu perduodamas kitiems savivaldybės administravimo subjektams.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1078, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10453
+
+
+Straipsnio pakeitimai:
+Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
  
-
-
 
 
 
@@ -1673,7 +1839,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Šio Įstatymo nustatyti reikalavimai gauti Vyriausybės sutikimą priimant šiame Įstatyme nurodytus sprendimus Lietuvos Respublikos Seimui ir Lietuvos bankui netaikomi. Lietuvos bankui taip pat netaikoma šio Įstatymo 10 straipsnio 1 dalies nuostata skirti į valdybą (jeigu valdyba sudaroma) valstybės tarnautojus.
+2. Neteko galios nuo 2015-03-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
 
 
 
@@ -1813,3 +1982,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 24
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3, 4, 6, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24 ir 26 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3, 4, 6, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24 ir 26 straipsnių pakeitimo įstatymo Nr. XII-1234 17 straipsnio pakeitimo įstatymas
