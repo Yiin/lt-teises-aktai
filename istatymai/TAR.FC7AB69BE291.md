@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-03-01
+Suvestinė redakcija nuo 2015-03-02 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -1520,22 +1520,68 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 
 
-12. Vyriausybės nustatyta tvarka ir sąlygomis ne didesnės kaip 10 kW įrengtosios galios elektrinėse pagaminta perteklinė elektros energija privalomai superkama už nustatytą fiksuotą tarifą. Pertekline elektros energija pripažįstama ne daugiau kaip 50 procentų vartotojo elektros tinkle įrengtose elektrinėse, kuriose elektros energijai gaminti naudojami atsinaujinantys energijos ištekliai, pagamintos elektros energijos per kalendorinius metus. Perteklinė elektros energija superkama Valstybinės kainų ir energetikos kontrolės komisijos nustatytais fiksuotais tarifais, kurie galiojo perteklinės elektros energijos patiekimo į elektros tinklus dieną. Perteklinė elektros energija superkama ne ilgiau kaip 12 metų nuo to momento, kai perteklinės elektros energijos gamintojas pasirašė prijungimo prie tinklų sutartį su tinklų operatoriumi.
+12. Elektros energiją gaminančių vartotojų (toliau – gaminantys vartotojai), kaip jie yra apibrėžti Elektros energetikos įstatymo 2 straipsnio 9 dalyje, saulės šviesos energijos elektrinėse, kurių įrengtoji galia yra ne didesnė kaip 10 kW, o biudžetinių ir viešųjų įstaigų, valdomų valstybės ar savivaldybės nuosavybės ar patikėjimo teise, statiniuose – ne didesnė kaip 50 kW, ir neviršija pusės gaminančio vartotojo objektui suteiktos leistinosios naudoti galios dydžio, pagaminto elektros energijos kiekio apskaita tvarkoma pagal elektros energijos apskaitos prietaisų, fiksuojančių suvartotą ir pagamintą elektros energiją, rodmenis. Jų pagrindu nustatoma:
+
+
+1) per kalendorinį mėnesį gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis ir iš elektros energijos tinklų suvartotos elektros energijos kiekis; 
 
 
 
 
-13. Pasinaudojimo atsinaujinančių energijos išteklių naudojimo elektros energijai gaminti paramos priemonėmis ir šaltiniais tvarką ir sąlygas nustato Vyriausybė.
+2) per kalendorinius metus gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekio ir iš elektros energijos tinklų suvartotos elektros energijos kiekio santykis: jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia daugiau elektros energijos negu suvartoja, tai tarp patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas perkeliamas į kitą kalendorinį mėnesį kaip gaminančio vartotojo į elektros tinklus patiektos elektros energijos kiekis, kuris yra kaupiamas einamųjų kalendorinių metų laikotarpiu; jeigu gaminantis vartotojas per einamąjį kalendorinį mėnesį į elektros tinklus patiekia mažiau elektros energijos negu suvartoja, tai tarp per einamąjį kalendorinį mėnesį patiektos į elektros tinklus ir suvartotos elektros energijos susidaręs elektros energijos skirtumas yra atimamas iš per einamuosius kalendorinius metus gaminančio vartotojo sukaupto į elektros tinklus patiektos elektros energijos kiekio; jeigu pasibaigus kalendoriniam mėnesiui gaminančio vartotojo suvartotos elektros energijos kiekis yra didesnis negu jo į elektros tinklus patiektos elektros energijos kiekis, už šį skirtumą gaminantis vartotojas moka pagal gaminančio vartotojo ir elektros tiekėjo sudarytoje elektros energijos pirkimo–pardavimo sutartyje nustatytą įkainį; per einamuosius kalendorinius metus gaminančio vartotojo suvartotą elektros energiją viršijantis į elektros tinklus patiektos elektros energijos kiekis į kitus kalendorinius metus nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
 
 
 
 
-14. Elektros tinklų operatorius, siekdamas įvertinti visą šalyje pagamintą ir suvartotą atsinaujinančių išteklių energiją, tvarko visos gamintojų pagamintos elektros energijos apskaitą, taip pat elektros energijos, pagamintos ir gamintojo suvartotos savo reikmėms ir ūkio poreikiams, apskaitą.
+13. Gaminantis vartotojas už elektros energijos kiekį, kuris einamųjų kalendorinių metų laikotarpiu buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams, nemoka už viešuosius interesus atitinkančias paslaugas ir už tinklų operatorių suteiktas paslaugas, išskyrus Elektros energetikos įstatymo nustatyta tvarka ir sąlygomis Valstybinės kainų ir energetikos kontrolės komisijos gaminantiems vartotojams nustatytą naudojimosi elektros tinklais kainą. 
+Papildyta straipsnio dalimi:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
 
 
 
 
-15. Šio straipsnio nuostatos netaikomos gamintojams, kurie įrenginiams įsigyti po šio įstatymo įsigaliojimo dienos pasinaudojo šio įstatymo 41 straipsnio 4 dalyje nurodytais paramos šaltiniais.
+14. Vyriausybės nustatyta tvarka ir sąlygomis ne didesnės kaip 10 kW įrengtosios galios elektrinėse pagaminta perteklinė elektros energija privalomai superkama už nustatytą fiksuotą tarifą. Pertekline elektros energija pripažįstama ne daugiau kaip 50 procentų vartotojo elektros tinkle įrengtose elektrinėse, kuriose elektros energijai gaminti naudojami atsinaujinantys energijos ištekliai, pagamintos elektros energijos per kalendorinius metus. Perteklinė elektros energija superkama Valstybinės kainų ir energetikos kontrolės komisijos nustatytais fiksuotais tarifais, kurie galiojo perteklinės elektros energijos patiekimo į elektros tinklus dieną. Perteklinė elektros energija superkama ne ilgiau kaip 12 metų nuo to momento, kai perteklinės elektros energijos gamintojas pasirašė prijungimo prie tinklų sutartį su tinklų operatoriumi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
+
+
+
+
+15. Pasinaudojimo atsinaujinančių energijos išteklių naudojimo elektros energijai gaminti paramos priemonėmis ir šaltiniais tvarką ir sąlygas nustato Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
+
+
+
+
+16. Elektros tinklų operatorius, siekdamas įvertinti visą šalyje pagamintą ir suvartotą atsinaujinančių išteklių energiją, tvarko visos gamintojų pagamintos elektros energijos apskaitą, taip pat elektros energijos, pagamintos ir gamintojo suvartotos savo reikmėms ir ūkio poreikiams, apskaitą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
+
+
+
+
+17. Šio straipsnio nuostatos netaikomos gamintojams, kurie įrenginiams įsigyti po šio įstatymo įsigaliojimo dienos pasinaudojo šio įstatymo 41 straipsnio 4 dalyje nurodytais paramos šaltiniais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
+
+
+
+
+18. Šio straipsnio 12 dalyje numatytų saulės šviesos energijos elektrinių įrengtoji suminė galia neturi viršyti 10 MW. Ši galia į šio įstatymo 13 straipsnio 3 dalies 2 punkte numatytą suminę galią neįskaitoma. Pasiekus 10 MW saulės šviesos energijos elektrinių įrengtąją suminę galią, Vyriausybė parengia ir patvirtina tolesnės saulės šviesos energijos elektrinių plėtros tvarkos aprašą, atsižvelgdama į Lietuvos Respublikos įsipareigojimus dėl aplinkos taršos mažinimo, energijos tiekimo saugumo ir patikimumo užtikrinimo bei vartotojų teisių ir teisėtų interesų apsaugos reikalavimus.
+Papildyta straipsnio dalimi:
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+ 
 
 
 Straipsnio pakeitimai:
@@ -3636,3 +3682,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1327, 2014-11-13, paskelbta TAR 2014-11-18, i. k. 2014-17046
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 39 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 20 straipsnio pakeitimo įstatymas
