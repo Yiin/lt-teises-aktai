@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2015-03-01
+Suvestinė redakcija nuo 2015-03-02 iki 2015-08-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -537,7 +537,10 @@ Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA
 
 
 
-25 straipsnis. Pasų išdavimas, keitimas ir pilietybės klausimai
+25 straipsnis. Pasų ir asmens tapatybės kortelių išdavimas, keitimas ir pilietybės klausimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
+ 
 
 
 1. Konsulinis pareigūnas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus. 
@@ -548,7 +551,10 @@ Nr. XII-75, 2012-12-20, Žin., 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010IST
 
 
 
-2. Konsulinis pareigūnas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso išdavimo ar keitimo ir perduoda juos Lietuvos Respublikos vidaus reikalų ministro įgaliotai institucijai, o jeigu prašyme išduoti (pakeisti) pasą nurodyti piliečio duomenys, kurie įrašomi į pasą, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų centrinėje bazėje, ir abejonių dėl piliečio duomenų ir tapatybės nekyla, – išduoda arba keičia pasą. 
+2. Konsulinis pareigūnas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso ar asmens tapatybės kortelės išdavimo ar keitimo ir perduoda juos teritorinei policijos įstaigai, o jeigu prašyme išduoti (pakeisti) pasą ar asmens tapatybės kortelę nurodyti piliečio duomenys, kurie įrašomi į pasą ar asmens tapatybės kortelę, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų bazėje, ir abejonių dėl piliečio duomenų ir tapatybės nekyla, – išduoda arba keičia pasą ar asmens tapatybės kortelę. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
+ 
 
 
 
@@ -566,7 +572,10 @@ Nr. XII-75, 2012-12-20, Žin., 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010IST
 
 
 
-5. Konsulinis pareigūnas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos Lietuvos Respublikos vidaus reikalų ministro įgaliotai institucijai. 
+5. Konsulinis pareigūnas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos teritorinei policijos įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1521, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21283
+ 
 
 
 Straipsnio pakeitimai:
