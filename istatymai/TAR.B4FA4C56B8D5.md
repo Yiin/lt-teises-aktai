@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-03-18
+Suvestinė redakcija nuo 2015-03-19 iki 2015-03-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -1189,12 +1189,18 @@ Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010IS
 
 
 
-5. Savivaldybių administracijos iki 2014 m. liepos 31 d. pateikia Teisės aktų registrui 2014 m. sausio 1 d. galiojančius savivaldybių institucijų norminius teisės aktus elektronine forma, suvestinės šių teisės aktų redakcijos Teisės aktų registre paskelbiamos iki 2015 m. balandžio 15 d.
+5. Savivaldybių administracijos iki 2014 m. liepos 31 d. pateikia Teisės aktų registrui 2014 m. sausio 1 d. galiojančius savivaldybių institucijų norminius teisės aktus elektronine forma, suvestinės šių teisės aktų redakcijos Teisės aktų registre paskelbiamos iki 2016 m. balandžio 30 d. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
+ 
 
 
 
 
-6. Visos suvestinės teisės aktų redakcijos Teisės aktų registre turi būti paskelbtos iki 2015 m. balandžio 30 d.
+6. Visos suvestinės teisės aktų redakcijos Teisės aktų registre turi būti paskelbtos iki 2016 m. balandžio 30 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
+ 
 
 
 
@@ -1369,3 +1375,8 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo 25 ir 26 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010ISTA0XII-415
 Lietuvos Respublikos teisėkūros pagrindų įstatymo 19, 20 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1539, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03950
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 26 straipsnio pakeitimo įstatymas
