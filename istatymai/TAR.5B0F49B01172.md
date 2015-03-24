@@ -13,12 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5b0f49b0117211e4adf3c8c5d7681e73"
 
 # Lietuvos Respublikos principinės kariuomenės struktūros 2015 metais, planuojamos principinės kariuomenės struktūros 2020 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2015 metais ir 2020 metais patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2015-03-24 iki 2016-06-21
+ 
+Įstatymas paskelbtas: TAR 2014-07-22, i. k. 2014-10436
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2015 METAIS, PLANUOJAMOS PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2020 METAIS NUSTATYMO, KRAŠTO APSAUGOS SISTEMOS KARIŲ RIBINIŲ SKAIČIŲ IR STATUTINIŲ VALSTYBĖS TARNAUTOJŲ RIBINIO SKAIČIAUS 2015 METAIS IR 2020 METAIS PATVIRTINIMO
 ĮSTATYMAS
  
 2014 m. liepos 10 d. Nr. XII-997 Vilnius
- 
  
  
 
@@ -67,17 +73,21 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2015 METAIS, PLANUOJAMOS PRINCIPINĖS KARI
 
 8) Karo policija.
 
-2. Bendras ribinis karių skaičius 2015 metais nustatomas nuo 14 340 iki 18 460. Iš šio skaičiaus:
+2. Bendras ribinis karių skaičius 2015 metais nustatomas nuo 16 840 iki 21 960. Iš šio skaičiaus:
 
 1) ribinis profesinės karo tarnybos karių skaičius – nuo 7 800 iki 8 800, iš jų: generolų ir admirolų – iki 9, pulkininkų ir jūrų kapitonų – iki 30, pulkininkų leitenantų ir komandorų – iki 123, majorų ir komandorų leitenantų – iki 365;
 
-2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 1 050 iki 1 590 per metus, iš jų: atliekančių nuolatinę privalomąją pradinę karo tarnybą – 0, dalyvaujančių baziniuose kariniuose mokymuose – nuo 700 iki 1 000, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 350 iki 590;
+2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 3 550 iki  5 090 per metus, iš jų: atliekančių nuolatinę privalomąją pradinę karo tarnybą – nuo 3 000 iki 3 500, dalyvaujančių baziniuose kariniuose mokymuose – nuo 200 iki 1 000, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 350 iki 590;
 
 3) ribinis karių savanorių ir kitų aktyviojo rezervo karių skaičius – nuo 4 800 iki 6 300;
 
 4) ribinis pratybose ir mokymuose dalyvaujančių parengtojo rezervo karių  skaičius – nuo 500 iki 1 500;
 
 5) ribinis kariūnų skaičius – nuo 190 iki 270.
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1540, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04086
+ 
 
 3. Ribinis statutinių valstybės tarnautojų skaičius 2015 metais nustatomas nuo 200 iki 260.
  
@@ -127,8 +137,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
- 
- 
- 
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1540, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04086
+Lietuvos Respublikos principinės kariuomenės struktūros 2015 metais, planuojamos principinės kariuomenės struktūros 2020 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2015 metais ir 2020 metais patvirtinimo įstatymo Nr. XII-997 2 straipsnio pakeitimo įstatymas
 
