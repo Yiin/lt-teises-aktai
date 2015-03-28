@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2013-05-01 iki 2015-03-27
+Suvestinė redakcija nuo 2015-03-28 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -1155,7 +1155,10 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 20 straipsnis. Mobilizacijos ir demobilizacijos skelbimas
 
 
-1. Seimas Respublikos Prezidento siūlymu skelbia mobilizaciją, kai būtina ginti Tėvynę arba vykdyti Lietuvos Respublikos tarptautinius įsipareigojimus. Seimas skelbia mobilizaciją priimdamas nutarimus. Seimas gali skelbti visuotinę arba dalinę mobilizaciją.
+1. Seimas skelbia mobilizaciją, kai būtina ginti Tėvynę arba vykdyti Lietuvos Respublikos tarptautinius įsipareigojimus. Seimas skelbia mobilizaciją priimdamas nutarimus. Seimas gali skelbti visuotinę arba dalinę mobilizaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1543, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04362
+ 
 
 
 
@@ -1175,7 +1178,10 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 
 
 
-5. Išnykus priežastims, dėl kurių buvo paskelbta mobilizacija, Respublikos Prezidento siūlymu Seimas skelbia demobilizaciją. Nutarime dėl demobilizacijos skelbimo nurodoma, kokie mobilizacijos sistemos subjektai turi vykdyti demobilizaciją ir kokios priemonės turi būti vykdomos.
+5. Išnykus priežastims, dėl kurių buvo paskelbta mobilizacija, Seimas skelbia demobilizaciją. Nutarime dėl demobilizacijos skelbimo nurodoma, kokie mobilizacijos sistemos subjektai turi vykdyti demobilizaciją ir kokios priemonės turi būti vykdomos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1543, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04362
+ 
 
 
 
@@ -1642,3 +1648,8 @@ Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-163, 2013-01-17, Žin., 2013, Nr. 11-507 (2013-01-30), i. k. 1131010ISTA0XII-163
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 28 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1543, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04362
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 20 straipsnio pakeitimo įstatymas
