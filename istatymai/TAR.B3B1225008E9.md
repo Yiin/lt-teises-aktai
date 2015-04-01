@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b3b1225008e911e4adf3c8c5d7681e73"
 
 # Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-06-17
  
 Įstatymas paskelbtas: TAR 2014-07-11, i. k. 2014-10138
  
@@ -168,7 +168,10 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 „3. Pirmajam ir kitiems išrinktos naujos savivaldybės tarybos posėdžiams, iki prisieks tarybos nariai, pirmininkauja šio straipsnio 2 dalyje nustatyti asmenys. Po tarybos narių (mero) priesaikos priėmimo posėdžiui pirmininkauja meras arba, jeigu jo nėra, – vyriausias pagal amžių tarybos narys. Pirmajame išrinktos naujos savivaldybės tarybos posėdyje:
 
 
-1) prisiekia savivaldybės tarybos nariai;
+1) prisiekia savivaldybės tarybos nariai; jeigu meras neišrinktas, renkamas laikinai mero pareigas einantis tarybos narys; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
+ 
 
 
 
@@ -178,12 +181,18 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-3) priimamas sprendimas dėl savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų, nes baigėsi jo įgaliojimų laikas, ir pavedimo savivaldybės administracijos direktoriui, savivaldybės administracijos direktoriaus pavaduotojui ar kitam savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas arba mero siūlymu dėl pavedimo savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas tol, kol bus paskirtas savivaldybės administracijos direktorius (direktoriaus pavaduotojas) naujai kadencijai;
+3) priimamas sprendimas dėl savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų, nes baigėsi jo įgaliojimų laikas, ir mero, o jeigu meras neišrinktas, jo pareigas laikinai einančio savivaldybės tarybos nario siūlymu dėl pavedimo savivaldybės administracijos direktoriui, savivaldybės administracijos direktoriaus pavaduotojui ar kitam savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas tol, kol bus paskirtas savivaldybės administracijos direktorius (direktoriaus pavaduotojas) naujai kadencijai; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
+ 
 
 
 
 
-4) gali būti skiriami mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius. Mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius negali būti skiriami, jeigu pirmajame posėdyje meras neprisiekė. Jeigu pirmajame posėdyje meras neprisiekė, savivaldybės taryba priima sprendimą dėl kito posėdžio datos. Kitas posėdis turi įvykti ne vėliau kaip per 5 kalendorines dienas po pirmojo posėdžio, kuriam pirmininkauja šioje dalyje nustatyti asmenys. Jeigu ir šiame posėdyje meras neprisiekė arba prisiekė, bet dėl laikinojo nedarbingumo ar kitų pateisinamų priežasčių laikinai negali eiti savo pareigų, šio įstatymo 19 straipsnio 1 dalyje nustatyta tvarka skiriamas tarybos narys laikinai eiti mero pareigas.“
+4) gali būti skiriami mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius. Mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius negali būti skiriami, jeigu meras neišrinktas ar pirmajame posėdyje meras neprisiekė. Jeigu pirmajame posėdyje meras neprisiekė, savivaldybės taryba priima sprendimą dėl kito posėdžio datos. Kitas posėdis turi įvykti ne vėliau kaip per 5 kalendorines dienas po pirmojo posėdžio ir jam pirmininkauja šioje dalyje nustatyti asmenys. Jeigu ir šiame posėdyje meras neprisiekė arba prisiekė, bet dėl laikinojo nedarbingumo ar kitų pateisinamų priežasčių laikinai negali eiti savo pareigų, šio įstatymo 19 straipsnio 1 dalyje nustatyta tvarka skiriamas tarybos narys laikinai eiti mero pareigas.
+Straipsnio punkto pakeitimai:
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
+ 
 
 
 
@@ -1148,3 +1157,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1508, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21274
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymo Nr. XII-967 13 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymo Nr. XII-967 5 straipsnio pakeitimo įstatymas
