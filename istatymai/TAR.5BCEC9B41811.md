@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5BCEC9B41811"
 
 # Lietuvos Respublikos tarptautinių sutarčių įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1948, i. k. 0991010ISTAIII-1248
  
@@ -420,15 +420,16 @@ Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA0
 
 
 
-16 straipsnis. Lietuvos Respublikos tarptautinių sutarčių skelbimas
+16 straipsnis. Lietuvos Respublikos tarptautinių sutarčių ir pranešimų dėl jų skelbimas
 
 
-Lietuvos Respublikos tarptautinės sutartys Užsienio reikalų ministerijos teikimu skelbiamos Teisės aktų registre.
+Lietuvos Respublikos užsienio reikalų ministerijos teikimu Lietuvos Respublikos tarptautinės sutartys, išskyrus tarptautines mišriąsias sutartis, kurios lietuvių kalba skelbiamos Europos Sąjungos oficialiajame leidinyje, ir pranešimai dėl visų Lietuvos Respublikos tarptautinių sutarčių įsigaliojimo, galiojimo, pakeitimo, laikino taikymo, sustabdymo, nutraukimo, prieštaravimo sutarties pakeitimui ar išlygoms skelbiami Teisės aktų registre.
 
 
 Straipsnio pakeitimai:
 Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
 Nr. XI-2346, 2012-11-06, Žin., 2012, Nr. 132-6674 (2012-11-15), i. k. 1121010ISTA0XI-2346
+Nr. XII-1410, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20434
  
 
 
@@ -484,3 +485,8 @@ Lietuvos Respublikos tarptautinių sutarčių įstatymo 1, 2, 4, 5, 6, 7, 9, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2346, 2012-11-06, Žin., 2012, Nr. 132-6674 (2012-11-15), i. k. 1121010ISTA0XI-2346
 Lietuvos Respublikos tarptautinių sutarčių įstatymo 4 ir 16 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1410, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20434
+Lietuvos Respublikos tarptautinių sutarčių įstatymo Nr. VIII-1248 16 straipsnio pakeitimo įstatymas
