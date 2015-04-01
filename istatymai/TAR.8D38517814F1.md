@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2014-12-31 iki 2015-03-31
+Suvestinė redakcija nuo 2015-04-01 iki 2015-05-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -261,7 +261,7 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, priklausanti Aplinkos ministerijos nustatytoms kategorijoms ir skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei.
-Redakcija nuo 2018-08-15:
+27 dalies redakcija nuo 2018-08-15:
 
 
 
@@ -2113,12 +2113,18 @@ Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
 
 
 
-3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti atsižvelgiama į Vyriausybės patvirtintą metodiką.
+3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti vadovaujamasi Vyriausybės patvirtintomis taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
+ 
 
 
 
 
-4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio 1, 2 ir 3 dalyse nurodytais principais.
+4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio 1 ir 2 dalyse nurodytais principais.
+Straipsnio dalies pakeitimai:
+Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -3888,7 +3894,7 @@ AŠTUNTOJO1 IR AŠTUNTOJO4 SKIRSNIŲ TAIKYMAS
 
 
 3) volframinėms lemputėms.
-Redakcija nuo 2018-08-15:
+1 dalies redakcija nuo 2018-08-15:
 
 
 
@@ -4595,3 +4601,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-1, 4-1, 6, 12-1 straipsnių ir 4 priedo pakeitimo, 19 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 18-2 straipsniu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 30-2 straipsnio pakeitimo įstatymas
