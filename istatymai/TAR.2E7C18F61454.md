@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-02
+Suvestinė redakcija nuo 2015-04-03 iki 2015-06-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -21276,7 +21276,10 @@ Išieškojimo iš darbo užmokesčio taisyklės taip pat taikomos ir išieškant
 
 
 
-3) moksleivių, studentų, doktorantų stipendijų; 
+3) mokinių, studentų stipendijų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
+ 
 
 
 
@@ -23560,3 +23563,8 @@ Lietuvos Respublikos civilinio proceso kodekso pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1242, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14517
 Lietuvos Respublikos civilinio proceso kodekso 49, 80, 182 straipsnių pakeitimo ir Kodekso papildymo 261-1 straipsniu bei XXIV-1 skyriumi įstatymo Nr. XII-771 2 straipsnio pripažinimo netekusiu galios ir 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
+Lietuvos Respublikos civilinio proceso kodekso 737 straipsnio pakeitimo įstatymas
