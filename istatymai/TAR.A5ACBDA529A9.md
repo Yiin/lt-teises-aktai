@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-05-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -1119,7 +1119,10 @@ TURTAS
 
 
 
-3. Ilgalaikis turtas – tai turtas, kuris naudojamas vieneto pajamoms uždirbti (ekonominei naudai gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti ilgiau kaip vienerius metus ir kurio įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje išvardytas ilgalaikio turto grupes nustatytą kainą. Šio turto įsigijimo kaina į vieneto sąnaudas įskaitoma dalimis per turto nusidėvėjimo arba amortizacijos laikotarpį. Vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų, kurie nėra susiję su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštesnįjį arba aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtina vieneto pajamoms uždirbti, šiems fiziniams asmenims pradėjus dirbti vienete gali būti priskiriamos ilgalaikiam nematerialiajam turtui.
+3. Ilgalaikis turtas – tai turtas, kuris naudojamas vieneto pajamoms uždirbti (ekonominei naudai gauti) ar šio Įstatymo 26 straipsnio 2 dalyje nurodytai naudai teikti ilgiau kaip vienerius metus ir kurio įsigijimo kaina ne mažesnė už vieneto pagal šio Įstatymo 1 priedėlyje išvardytas ilgalaikio turto grupes nustatytą kainą. Šio turto įsigijimo kaina į vieneto sąnaudas įskaitoma dalimis per turto nusidėvėjimo arba amortizacijos laikotarpį. Vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokykloms už fizinių asmenų, kurie nėra susiję su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtina vieneto pajamoms uždirbti, šiems fiziniams asmenims pradėjus dirbti vienete gali būti priskiriamos ilgalaikiam nematerialiajam turtui.
+Straipsnio dalies pakeitimai:
+Nr. XII-1583, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05699
+ 
 
 
 
@@ -1360,7 +1363,7 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
 
 
-Įstatymas papildytas straipsniu nuo 2014-01-01:
+ 
 172 straipsnis. Apmokestinamųjų pajamų mažinimas dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų 
 
 
@@ -1730,7 +1733,10 @@ Nr. XI-1156, 2010-11-23, Žin., 2010, Nr. 145-7413 (2010-12-11)
 gyventojų pajamų mokesčio objektas
 
 
-1. Mokestiniu laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokymo įstaigoms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtini vieneto pajamoms uždirbti.
+1. Mokestiniu laikotarpiu iš pajamų gali būti atskaitomos vieneto tiesiogiai sumokėtos sumos Europos ekonominės erdvės valstybių ir užsienio valstybių, kurios nepriklauso Europos ekonominei erdvei, tačiau su kuriomis Lietuvos Respublika yra sudariusi dvigubo apmokestinimo išvengimo sutartis, mokykloms už fizinių asmenų, susijusių su šiuo vienetu darbo santykiais, mokymą, kurį baigę jie įgyja aukštąjį išsilavinimą ir (arba) kvalifikaciją, jeigu šis išsilavinimas ir (arba) kvalifikacija būtini vieneto pajamoms uždirbti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1583, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05699
+ 
 
 
 
@@ -2923,7 +2929,7 @@ Nr. XII-428, 2013-06-27, Žin., 2013, Nr. 75-3757 (2013-07-13)
 
 
 
-Įstatymas papildytas straipsniu nuo 2014-01-01:
+ 
 462 straipsnis. Pelno mokesčio sumažinimas dėl filmo ar jo dalies gamybai neatlygintinai suteiktų lėšų 
 
 
@@ -3735,6 +3741,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+ 
  
 
 
@@ -4354,3 +4361,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5, 9, 17-2, 18, 38-2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1466, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21227
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 ir 31 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1583, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05699
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 13 ir 26 straipsnių pakeitimo įstatymas
