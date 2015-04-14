@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-04-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-06-17
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -370,7 +370,10 @@ Savarankiškosios (Konstitucijos ir įstatymų nustatytos (priskirtos) savivaldy
 
 
 
-7) bendrojo lavinimo mokyklų moksleivių, gyvenančių kaimo gyvenamosiose vietovėse, neatlygintino pavėžėjimo į mokyklas ir į namus organizavimas; 
+7) bendrojo ugdymo mokyklų mokinių, gyvenančių kaimo gyvenamosiose vietovėse, neatlygintino pavėžėjimo į mokyklas ir į namus organizavimas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1577, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05691
+ 
 
 
 
@@ -4836,3 +4839,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymo Nr. XII-967 5 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1577, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05691
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
