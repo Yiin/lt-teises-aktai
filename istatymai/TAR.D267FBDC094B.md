@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -24,8 +24,6 @@ Lietuvos respublikos
 žemės mokesčio
 Į S T A T Y M A S
  
-1992 m. birželio 25 d. Nr. I-2675
-Vilnius
  
 
 
@@ -245,7 +243,10 @@ Nr. XII-1133, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13466
 
 
 
-3) fiziniams asmenims, kurių šeimose mokestinio laikotarpio pradžioje nėra darbingų asmenų ir kuriems nustatytas 0–40 procentų darbingumo lygis arba kurie yra sukakę senatvės pensijos amžių ar yra nepilnamečiai, priklausančio žemės sklypo plotas, neviršijantis savivaldybių tarybų iki einamojo mokestinio laikotarpio rugsėjo 1 dienos nustatyto neapmokestinamojo žemės sklypo dydžio. Fiziniam asmeniui nuosavybės teise priklausantys keli žemės sklypai, esantys tos pačios savivaldybės teritorijos vietovėse (vietovėje), kurioms (kuriai) nustatytas vienodas neapmokestinamasis žemės sklypo dydis, šiuo atveju laikomi vienu žemės sklypu. Jeigu fizinis asmuo turi teisę į mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui. Taikant šią nuostatą, šeima laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai, posūniai, podukros), iki jiems sukaks 18 metų, o prie darbingų asmenų nepriskiriami švietimo įstaigų dieninių skyrių moksleiviai ir studentai;
+3) fiziniams asmenims, kurių šeimose mokestinio laikotarpio pradžioje nėra darbingų asmenų ir kuriems nustatytas 0–40 procentų darbingumo lygis arba kurie yra sukakę senatvės pensijos amžių ar yra nepilnamečiai, priklausančio žemės sklypo plotas, neviršijantis savivaldybių tarybų iki einamojo mokestinio laikotarpio rugsėjo 1 dienos nustatyto neapmokestinamojo žemės sklypo dydžio. Fiziniam asmeniui nuosavybės teise priklausantys keli žemės sklypai, esantys tos pačios savivaldybės teritorijos vietovėse (vietovėje), kurioms (kuriai) nustatytas vienodas neapmokestinamasis žemės sklypo dydis, šiuo atveju laikomi vienu žemės sklypu. Jeigu fizinis asmuo turi teisę į mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui. Taikant šią nuostatą, šeima laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai, posūniai, podukros), iki jiems sukaks 18 metų, o prie darbingų asmenų nepriskiriami mokyklų mokiniai ir aukštųjų mokyklų studentai, studijuojantys pagal dieninės ir nuolatinės studijų formų programas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
+ 
 
 
 
@@ -502,7 +503,11 @@ MOKESČIO ĮSKAITYMAS
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                        VYTAUTAS LANDSBERGIS
-______________
+ 
+Vilnius, 1992 m. birželio 25 d. 
+Nr. I-2675
+ 
+ 
 
 
  
@@ -558,4 +563,9 @@ Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2, 6 ir 9 straipsni�
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1133, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13466
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
 Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
