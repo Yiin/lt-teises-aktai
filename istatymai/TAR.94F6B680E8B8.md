@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-04-17
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -282,7 +282,10 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 
 
 
-7) Lietuvos Respublikos bendrojo lavinimo, profesinių, aukštesniųjų ir aukštųjų mokyklų dieninių skyrių moksleiviai ir studentai, taip pat Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštųjų mokyklų dieniniuose skyriuose;
+7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės arba dieninės studijų formų studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinės arba dieninės studijų formų studijų programas, mokiniai, kurie mokosi mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
+Straipsnio punkto pakeitimai:
+Nr. XII-1576, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05690
+ 
 
 
 
@@ -424,7 +427,7 @@ Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
 
 
 
-2. Asmenų, nurodytų šio Įstatymo 17 straipsnio 3, 4, 5, 7, 9 ir 91 dalyse, privalomasis sveikatos draudimas įsigalioja kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos arba jie patys mokėjo privalomojo sveikatos draudimo įmokas, arba nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką. 3 minimaliųjų mėnesinių algų dydžio įmokos sumokėjimas neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.
+*2. Asmenų, nurodytų šio Įstatymo 17 straipsnio 3, 4, 5, 7, 9 ir 91 dalyse, privalomasis sveikatos draudimas įsigalioja kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos arba jie patys mokėjo privalomojo sveikatos draudimo įmokas, arba nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką. 3 minimaliųjų mėnesinių algų dydžio įmokos sumokėjimas neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.
 
 
 
@@ -455,7 +458,7 @@ Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 7. Išlaidos, susijusios su sveikatos priežiūros paslaugų teikimu, ir nesumokėtos privalomojo sveikatos draudimo įmokos iš asmenų išieškomos šio ir kitų įstatymų bei teisės aktų nustatyta tvarka.
 
 
-Pastaba. Pripažinti, kad Lietuvos Respublikos sveikatos draudimo įstatymo 8 straipsnio 2 dalis (2009 m. liepos 22 d. redakcija, Žin., 2009, Nr. 93-3983; 2011 m. gruodžio 13 d. redakcija, Žin., 2011, Nr. 160-7564; 2012 m. lapkričio 13 d. redakcija, Žin., 2012, Nr. 136-6967) tiek, kiek, įstatymų leidėjui nustačius, jog kai kurių asmenų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos arba jie patys pradėjo jas mokėti, šioje dalyje nustatyta, kad joje nurodytiems asmenims privalomasis sveikatos draudimas įsigalioja tik kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos privalomojo sveikatos draudimo įmokos arba jie patys jas mokėjo, arba tik nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 29 straipsniui.
+*Pastaba. Pripažinti, kad Lietuvos Respublikos sveikatos draudimo įstatymo 8 straipsnio 2 dalis (2009 m. liepos 22 d. redakcija, Žin., 2009, Nr. 93-3983; 2011 m. gruodžio 13 d. redakcija, Žin., 2011, Nr. 160-7564; 2012 m. lapkričio 13 d. redakcija, Žin., 2012, Nr. 136-6967) tiek, kiek, įstatymų leidėjui nustačius, jog kai kurių asmenų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos arba jie patys pradėjo jas mokėti, šioje dalyje nustatyta, kad joje nurodytiems asmenims privalomasis sveikatos draudimas įsigalioja tik kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos privalomojo sveikatos draudimo įmokos arba jie patys jas mokėjo, arba tik nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 29 straipsniui.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2013-05-16, Žin., 2013, Nr. 52-2604 (2013-05-21)
 Straipsnio pakeitimai:
@@ -466,6 +469,8 @@ Nr. XI-183, 2009-02-19, Žin., 2009, Nr. 25-985 (2009-03-05)
 Nr. XI-391, 2009-07-22, Žin., 2009, Nr. 93-3983 (2009-08-04)
 Nr. XI-1795, 2011-12-13, Žin., 2011, Nr. 160-7564 (2011-12-28)
 Nr. XI-2413, 2012-11-13, Žin., 2012, Nr. 136-6967 (2012-11-24)
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2013-05-16, Žin., 2013, Nr. 52-2604 (2013-05-21)
  
 
 
@@ -2467,3 +2472,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 15, 21 ir 30 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1576, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05690
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
