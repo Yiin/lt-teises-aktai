@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-03-20 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
  
@@ -470,9 +470,10 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-4. VTEK nariui, atleistam iš pareigų pagal šio įstatymo 14 straipsnio 1 dalies 2 ir 4 punktus, išmokama dviejų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, o VTEK nariui mirus, – jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų, profesinių, bendrojo ugdymo mokyklų dieniniuose skyriuose, iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei) išmokama lygiomis dalimis VTEK nario dviejų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
+4. VTEK nariui, atleistam iš pareigų pagal šio įstatymo 14 straipsnio 1 dalies 2 ir 4 punktus, išmokama dviejų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, o VTEK nariui mirus, – jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotose bendrojo ugdymo mokyklose, profesinio mokymo įstaigose ar aukštosiose mokyklose pagal dieninės, nuolatinės ar ištęstinės studijų formų programas, iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei) išmokama lygiomis dalimis VTEK nario dviejų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
 Straipsnio dalies pakeitimai:
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+Nr. XII-1586, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05701
  
 
 
@@ -1157,3 +1158,8 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 17 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 2, 3, 5, 6, 9, 11, 13, 14, 15, 16, 17, 18, 23, 28 ir 29 straipsnių pakeitimo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1586, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05701
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 16 straipsnio pakeitimo įstatymas
