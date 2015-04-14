@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2014-11-02 iki 2015-04-13
+Suvestinė redakcija nuo 2015-04-14 iki 2016-02-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -654,7 +654,10 @@ Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
 
 
 
-4. Aplinkos apsaugos valstybinės kontrolės pareigūnui žuvus vykdant tarnybines pareigas, išmokama vienkartinė dešimties metų (120 mėnesių) vidutinio darbo užmokesčio dydžio kompensacija lygiomis dalimis jo sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kuriems nėra sukakę 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų aukštųjų ar aukštesniųjų mokymo įstaigų dieniniuose skyriuose, jei jiems nėra sukakę 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą.
+4. Aplinkos apsaugos valstybinės kontrolės pareigūnui žuvus vykdant tarnybines pareigas, išmokama vienkartinė dešimties metų (120 mėnesių) vidutinio darbo užmokesčio dydžio kompensacija lygiomis dalimis jo sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kuriems nėra sukakę 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotose aukštosiose mokyklose pagal dieninės, nuolatinės ar ištęstinės studijų formų programas, jeigu jiems nėra sukakę 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1579, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05693
+ 
 
 
 
@@ -2104,3 +2107,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1151, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13602
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 42, 43 ir 52 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1579, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05693
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 13 straipsnio pakeitimo įstatymas
