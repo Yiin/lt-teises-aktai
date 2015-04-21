@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-04-20
+Suvestinė redakcija nuo 2015-04-21 iki 2015-06-19
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -4200,7 +4200,10 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 64 straipsnis. Karių pašto siuntos, kelionių ir persikėlimo išlaidos
 
 
-1. Privalomąją pradinę karo tarnybą atliekančių karių pašto siuntos apmokamos iš Krašto apsaugos ministerijai šiems tikslams skirtų valstybės biudžeto lėšų.
+1. Neteko galios nuo 2015-04-21
+Straipsnio dalies naikinimas:
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
+ 
 
 
 
@@ -4230,32 +4233,10 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-7. Privalomosios pradinės tarnybos kariams iš Krašto apsaugos ministerijai skirtų lėšų apmokamos kelionės visų rūšių keleiviniu transportu (išskyrus taksi) išlaidos:
-
-
-1) vykti namo atostogų ir grįžti iš jų;
-
-
-
-
-2) vykti į sveikatos priežiūros ar reabilitacijos įstaigą ir grįžti iš jos;
-
-
-
-
-3) vadams leidus, vykti lankyti sunkiai sergančių šeimos narių;
-
-
-
-
-4) vadams leidus, vykti į šeimos narių, globėjų ir pirmos eilės giminių laidotuves;
-
-
-
-
-5) grįžti namo išleistiesiems į atsargą.
-
-
+7. Neteko galios nuo 2015-04-21
+Straipsnio dalies naikinimas:
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
+ 
 
 
 
@@ -4547,7 +4528,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-9. Privalomosios pradinės karo tarnybos kariams, nuosavybės teise turintiems arba nuomojantiems valstybės ar savivaldybės gyvenamojo fondo butą (gyvenamąjį namą), taip pat mažas pajamas turinčioms privalomosios pradinės karo tarnybos karių šeimoms kario tarnybos metu Vyriausybės nustatyta tvarka ir sąlygomis iš Krašto apsaugos ministerijai valstybės biudžete numatytų asignavimų kompensuojama dalis buto (gyvenamojo namo) šilumos tiekimo ir su namo bendrosios dalinės nuosavybės išlaikymu susijusių išlaidų. Jei privalomosios pradinės karo tarnybos karys pateikia krašto apsaugos ministro nustatytos formos pažymą, pasirašytą karinio vieneto, kuriame jis tarnauja, vado, neskaičiuojami mokesčiai už komunalines paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo patalpų ir teritorijos valymą ir kitas), kuriomis karys nesinaudoja.
+9. Neteko galios nuo 2015-04-21
+Straipsnio dalies naikinimas:
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
+ 
 
 
 Straipsnio pakeitimai:
@@ -5248,3 +5232,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1582, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05697
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 67 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 64 ir 68 straipsnių pakeitimo įstatymas
