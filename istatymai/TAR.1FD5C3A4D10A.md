@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-21
+Suvestinė redakcija nuo 2015-04-22 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -729,9 +729,24 @@ Nr. XII-1144, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13456
 
 
 3) įpareigojimas Lietuvos Respublikos Vyriausybės nustatyta tvarka sugrąžinti tam tikrą dalį arba visas per 12 mėnesių laikotarpį iki nelegalaus darbo nustatymo suteiktų subsidijų, išmokų ar kitos valstybės pagalbos, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, lėšas.
+
+
+
+
+
+
+10. Už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui ir šio straipsnio 1 dalyje ir (ar) Lietuvos Respublikos administracinių teisės pažeidimų kodekso 413 straipsnyje nurodytų baudų sumokėjimą rangovas, kai darbdavys yra subrangovas, atsako subsidiariai, išskyrus šio straipsnio 11 dalyje nurodytą atvejį. 
+Papildyta straipsnio dalimi:
+Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
  
 
 
+
+
+11. Rangovui, kai darbdavys yra subrangovas, kuris pasinaudojo Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje įtvirtinta teise, arba kai subrangovas, kuris yra darbdavys, neįvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 1 dalies 5 punkte nurodytos pareigos, nekyla subsidiari atsakomybė už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui ir už šio straipsnio 1 dalyje ir (ar) Lietuvos Respublikos administracinių teisės pažeidimų kodekso 413 straipsnyje nurodytų baudų sumokėjimą, išskyrus atvejus, kai rangovas žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
+Papildyta straipsnio dalimi:
+Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
+ 
 
 
 
@@ -894,3 +909,8 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1155, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13598
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 straipsnio pakeitimo įstatymas
