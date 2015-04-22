@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.31185A622C9F"
 
 Projektas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-04-21
+Suvestinė redakcija nuo 2015-04-22 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2569; Žin. 2002, Nr.71-0, i. k. 1021010ISTA00IX-926
  
@@ -1339,7 +1339,10 @@ Nr. XI-2358, 2012-11-06, Žin., 2012, Nr. 135-6859 (2012-11-22)
 
 3) darbą dirba užsienio valstybių piliečiai ar asmenys be pilietybės, įdarbinti nesilaikant jiems norminių teisės aktų nustatytos įsidarbinimo tvarkos;
 
-4) darbą dirba trečiosios šalies piliečiai, įdarbinti nesilaikant šio Kodekso 981 straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytų reikalavimų.
+4) darbą dirba trečiosios šalies piliečiai, įdarbinti nesilaikant šio Kodekso 981 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose nustatytų reikalavimų.
+Straipsnio punkto pakeitimai:
+Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
+ 
 
 2. Darbdaviai ar jų įgalioti asmenys, leidę dirbti nelegalų darbą, atsako įstatymų nustatyta tvarka.
 
@@ -1363,9 +1366,22 @@ Nr. XII-1435, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20563
 
 3) užtikrinti, kad trečiosios šalies pilietis dirbtų darbą, nurodytą leidime dirbti Lietuvos Respublikoje, išskyrus atvejus, kai trečiosios šalies pilietis Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka atleidžiamas nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje; 
 
-4) per tris darbo dienas nuo darbo sutarties su trečiosios šalies piliečiu nutraukimo dienos raštu pranešti Lietuvos darbo biržai prie Socialinės apsaugos ir darbo ministerijos apie darbo sutarties pabaigą.
+4) per tris darbo dienas nuo darbo sutarties su trečiosios šalies piliečiu nutraukimo dienos raštu pranešti Lietuvos darbo biržai prie Socialinės apsaugos ir darbo ministerijos apie darbo sutarties pabaigą;
 
-2. Darbdavys, įvykdęs šio straipsnio 1 dalyje nurodytas pareigas, nelaikomas pažeidusiu šio Kodekso 98 straipsnio 1 dalies 4 punktą, išskyrus atvejus, kai jis žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
+5) ne vėliau kaip per tris darbo dienas nuo darbo sutarties su trečiosios šalies piliečiu sudarymo dienos raštu informuoti rangovą, kai darbdavys yra subrangovas, apie darbo sutarties su trečiosios šalies piliečiu sudarymą. 
+Papildyta straipsnio punktu:
+Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
+ 
+
+2. Rangovui, gavusiam informaciją iš darbdavio, kuris yra subrangovas, apie darbo sutarties su trečiosios šalies piliečiu sudarymą, pareikalavus, darbdavys turi pateikti rangovui susipažinti turimą informaciją (dokumentus), nurodytą šio straipsnio 1 dalies 2 punkte. 
+Papildyta straipsnio dalimi:
+Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
+ 
+
+3. Darbdavys, įvykdęs šio straipsnio 1 dalyje nurodytas pareigas, nelaikomas pažeidusiu šio Kodekso 98 straipsnio 1 dalies 4 punktą, išskyrus atvejus, kai jis žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
+ 
 
 Kodeksas papildytas straipsniu:
 Nr. XI-2191, 2012-06-30, Žin., 2012, Nr. 82-4270 (2012-07-13)
@@ -4238,4 +4254,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1572, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05686
 Lietuvos Respublikos darbo kodekso 169 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
+Lietuvos Respublikos darbo kodekso 98 ir 98-1 straipsnių pakeitimo įstatymas
 
