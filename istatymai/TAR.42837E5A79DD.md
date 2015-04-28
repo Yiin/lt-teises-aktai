@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-04-27
+Suvestinė redakcija nuo 2015-04-28 iki 2015-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -589,9 +589,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-7. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų įgulų nariams, taip pat jūrininkams, atvykusiems į laivą vizos galiojimo laiku ir įtrauktiems į laivo įgulos sąrašą, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje, bet ne ilgiau kaip 90 dienų.
+7. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų civiliams įgulų nariams, kurie turi jūrininko tapatybės dokumentus, išduotus vadovaujantis Tarptautinės darbo organizacijos konvencijomis – 1958 m. gegužės 13 d. Konvencija Nr. 108 dėl jūreivių nacionalinių asmens pažymėjimų arba 2003 m. birželio 16 d. Konvencija Nr. 185 dėl jūrininkų nacionalinių asmens pažymėjimų (pataisyta) – arba 1965 m. balandžio 9 d. Tarptautinės jūrų organizacijos konvencija dėl tarptautinės jūrų laivybos sąlygų lengvinimo, taip pat civiliams jūrininkams, kurie atvyko į laivą vizos galiojimo laiku ir yra įtraukti į laivo įgulos sąrašą ir kurie turi šioje dalyje nurodytus jūrininko tapatybės dokumentus, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje tol, kol laivas stovi uoste, bet ne ilgiau kaip šešis mėnesius.
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+Nr. XII-1611, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06355
  
 
 
@@ -2041,6 +2042,7 @@ c) Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos (toliau
 9. Pasibaigus leidimo dirbti galiojimui arba darbui Lietuvos Respublikoje, užsienietis privalo išvykti iš Lietuvos Respublikos.
 Straipsnio pakeitimai:
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+ 
 
 
 Straipsnio pakeitimai:
@@ -2204,6 +2206,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Straipsnio pakeitimas:
 Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+ 
 
 
 Straipsnio pakeitimai:
@@ -3115,6 +3118,7 @@ Užsienietis atleidžiamas nuo pareigos įsigyti leidimą dirbti, jeigu:
 Straipsnio pakeitimas:
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+ 
 
 
 
@@ -3351,6 +3355,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 6. Tvarką, reglamentuojančią užsieniečių prašymų suteikti prieglobstį nagrinėjimą, sprendimų priėmimą ir jų vykdymą, nustato vidaus reikalų ministras.
+ 
 
 
 Straipsnio pakeitimai:
@@ -3374,6 +3379,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 3. Pagal šio Įstatymo 32 straipsnio 3 dalį vykdant nelydimo nepilnamečio šeimos narių paiešką, užtikrinamas informacijos rinkimo ir tvarkymo konfidencialumas.
+ 
 Papildyta straipsnio dalimi:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
  
@@ -4058,6 +4064,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 5) jis išvyko iš savo kilmės valstybės tik siekdamas išvengti atsakomybės už padarytą nusikaltimą ir jeigu Lietuvos Respublikos įstatymai už tokio nusikaltimo padarymą numato laisvės atėmimo bausmę.
 Straipsnio pakeitimas:
 Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
+ 
 
 
 
@@ -4080,6 +4087,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 2. Užsieniečiui, kuriam suteikta papildoma apsauga, gyvenančiam Lietuvos Respublikoje, pagal šio Įstatymo 37 straipsnio nuostatas išduodamas užsieniečio pasas.
 Straipsnio pakeitimai:
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+ 
 
 
 Straipsnio pakeitimai:
@@ -4181,6 +4189,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
+ 
 
 
 Straipsnio pakeitimai:
@@ -6929,3 +6938,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1611, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06355
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 11 straipsnio pakeitimo įstatymas
