@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-12-03
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -1020,7 +1020,10 @@ Priežiūros institucija turi teisę panaikinti valdymo įmonei ar investicinei 
 
 
 
-11) laikytis priežiūros institucijos nustatytų kapitalo, riziką ribojančių ir kitų veiklai keliamų reikalavimų;
+11) laikytis šiame įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) ir kituose, kolektyvinio investavimo subjektų veiklą reglamentuojančiuose teisės aktuose nustatytų kapitalo, riziką ribojančių ir kitų veiklai keliamų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1548, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04822
+ 
 
 
 
@@ -7566,9 +7569,11 @@ priedas
 
 
 
-5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1). 
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 Papildyta punktu:
 Nr. XII-1472, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21132
+Punkto pakeitimai:
+Nr. XII-1548, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04822
  
 
 
@@ -7654,3 +7659,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 37
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1472, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21132
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 13, 171, 173 straipsnių ir priedo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1548, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04822
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 11 straipsnio ir priedo pakeitimo įstatymas
