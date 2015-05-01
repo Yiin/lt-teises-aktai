@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2015-01-07 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-27
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -28,12 +28,15 @@ Nauja įstatymo redakcija nuo 2004-05-01:
 Nr. IX-1840, 2003-11-20, Žin., 2003, Nr. 117-5317 (2003-12-17)
  
 LIETUVOS RESPUBLIKOS
-TABAKO KONTROLĖS
-ĮSTATYMAS
+TABAKO, TABAKO GAMINIŲ IR SU JAIS SUSIJUSIŲ GAMINIŲ KONTROLĖS
+ĮSTATYMAS 
  
 1995 m. gruodžio 20 d. Nr. I-1143
 Vilnius
  
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -45,30 +48,32 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas reglamentuoja su tabako auginimu, tabako gaminių gamyba, prekyba, laikymu, gabenimu, įvežimu, importu, reklama, vartojimu, įsigijimo ir (ar) vartojimo skatinimu bei rėmimu susijusius santykius ir nustato valstybės tabako kontrolės pagrindus Lietuvos Respublikoje.
+1. Šis Įstatymas reglamentuoja su tabako auginimu, tabako gaminių gamyba, prekyba, laikymu, gabenimu, įvežimu, importu, reklama, vartojimu, įsigijimo ir (ar) vartojimo skatinimu bei rėmimu, taip pat su tabako, tabako gaminių ir su jais susijusių gaminių pateikimu rinkai ir ženklinimu susijusius santykius ir nustato valstybės tabako kontrolės pagrindus Lietuvos Respublikoje.
 
 
 
 
-2. Atsižvelgiant į tai, kad žmogaus ir visuomenės sveikata yra viena svarbiausių visuomenės vertybių, šio Įstatymo nuostatomis siekiama mažinti Lietuvos Respublikoje tabako gaminių vartojimą, jų prieinamumą (ypač nepilnamečiams asmenims) ir dėl tabako gaminių vartojimo atsiradusius neigiamus padarinius gyventojų sveikatai ir ūkiui.
+2. Atsižvelgiant į tai, kad žmogaus ir visuomenės sveikata yra viena svarbiausių visuomenės vertybių, šio Įstatymo nuostatomis siekiama mažinti Lietuvos Respublikoje tabako gaminių ir su jais susijusių gaminių vartojimą, jų prieinamumą (ypač nepilnamečiams asmenims) ir dėl tabako gaminių ir su jais susijusių gaminių vartojimo atsiradusius neigiamus padarinius gyventojų sveikatai ir ūkiui.
 
 
 
 
-3. Tabako gaminiai yra priskiriami specialiems gaminiams, kurių gamybai, prekybai, įvežimui, importui, reklamai, kitoms su jais susijusioms veiklos rūšims ir vartojimui pagal šį ir kitus įstatymus bei teisės aktus taikomas ypatingas valstybinis teisinis reglamentavimas.
+3. Tabako gaminiai ir su jais susiję gaminiai yra priskiriami specialiems gaminiams, kurių gamybai, prekybai, įvežimui, importui, reklamai, kitoms su jais susijusioms veiklos rūšims ir vartojimui pagal šį ir kitus įstatymus bei teisės aktus taikomas ypatingas valstybinis teisinis reglamentavimas.
 
 
 
 
-4. Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+4. Šio Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
 
 
-
-
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos 
 
 
 1. Dervos – grynas bevandenis nikotino neturintis dūmų kondensatas.
@@ -76,107 +81,169 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Europos ekonominės erdvės susitarimo dalyvė – Europos Sąjungos valstybė narė ar Europos laisvosios prekybos asociacijos (ELPA) valstybė, išskyrus Šveicarijos Konfederaciją.
+2. Elektroninė cigaretė – gaminys, kuris gali būti naudojamas garams, kuriuose yra nikotino, vartoti per kandiklį, arba bet kuri tokio gaminio sudedamoji dalis, įskaitant kapsulę, rezervuarą ir įtaisą be kapsulės ar rezervuaro. Elektroninės cigaretės gali būti vienkartinės arba pripildomos iš pildomosios talpyklos ir rezervuaro, arba daugkartinės su keičiamomis vienkartinėmis kapsulėmis.
 
 
 
 
-3. Nikotinas – alkaloidas, randamas tabake.
+3. Europos ekonominės erdvės susitarimo dalyvė – Europos Sąjungos valstybė narė ar Europos laisvosios prekybos asociacijos (ELPA) valstybė, išskyrus Šveicarijos Konfederaciją.
 
 
 
 
-4. Oraliniam vartojimui skirtas tabakas – visi vartojimui per burną skirti tabako gaminiai, išskyrus rūkyti skirtus tabako gaminius, pagaminti tik iš tabako (tiek genetiškai modifikuoto, tiek nemodifikuoto) arba kuriuose yra tabako.
+4. Įspėjimas apie galimą žalą sveikatai – įspėjimas apie gaminio sukeliamą žalą žmogaus sveikatai arba kitus nepageidautinus padarinius, kylančius dėl jo vartojimo, įskaitant tekstinius įspėjimus, kombinuotus įspėjimus, bendrojo pobūdžio įspėjimus ir informacinius pranešimus, kaip numatyta šiame Įstatyme.
 
 
 
 
-5. Paslėpta tabako gaminių reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie tabako gaminius, tabako gaminių gamintojus, importuotojus ar pardavėjus, jų firmos vardą (pavadinimą), prekės ženklą ar veiklą tokia forma, kuri gali suklaidinti reklamos vartotojus dėl šios informacijos pateikimo tikrojo tikslo. Visais atvejais paslėpta reklama laikomas toks informacijos pateikimas, kai už jį apmokama ar kitaip atsilyginama.
+5. Nikotinas – alkaloidas, randamas tabake.
 
 
 
 
-6. Paviljonas – Nekilnojamojo turto registre neregistruojamas ir į žemę įleistų pamatų neturintis laikinas statinys, pagamintas gamykloje ar pastatytas iš surenkamų konstrukcijų ir turintis viduje įrengtą prekybos salę pirkėjams aptarnauti.
+6. Oraliniam vartojimui skirtas tabakas – visi vartojimui per burną skirti tabako gaminiai, išskyrus rūkyti skirtus tabako gaminius, pagaminti tik iš tabako (tiek genetiškai modifikuoto, tiek nemodifikuoto) arba kuriuose yra tabako.
 
 
 
 
-7. Rėmimas – finansinė ar bet kokios kitos formos parama renginiui, veiklai ar asmeniui, skatinanti įsigyti ir (ar) vartoti tabako gaminius.
+7. Paslėpta tabako gaminių reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie tabako gaminius, tabako gaminių gamintojus, importuotojus ar pardavėjus, jų firmos vardą (pavadinimą), prekių ženklą ar veiklą tokia forma, kuri gali suklaidinti reklamos vartotojus dėl šios informacijos pateikimo tikrojo tikslo. Visais atvejais paslėpta reklama laikomas toks informacijos pateikimas, kai už jį apmokama ar kitaip atsilyginama.
 
 
 
 
-8. Socialinė reklama – socialinės gerovės, t. y. sveikos gyvensenos, sveikatos stiprinimo, ligų ir žalingų sveikatai įpročių profilaktikos propagavimas bet kokiomis reklamos formomis ir priemonėmis.
+8. Pateikimas rinkai – gaminių, neatsižvelgiant į jų pagaminimo vietą, teikimas Lietuvos Respublikoje esantiems vartotojams už mokestį ar nemokamai, įskaitant nuotolinį pardavimą; tarpvalstybinės nuotolinės prekybos atveju gaminys laikomas pateikiamu Lietuvos Respublikos rinkai, jeigu Lietuvos Respublikoje yra vartotojas.
 
 
 
 
-9. Sudedamoji dalis – bet kokia medžiaga arba bet kokia kita sudedamoji dalis, išskyrus tabako lapus ir kitas natūralias ar neapdorotas tabako augalo dalis, naudojama tabako gaminiui gaminti ar ruošti ir išliekanti galutiniame gaminyje net ir pakitus formai, įskaitant popierių, filtrą, dažiklius ir rišiklius.
+9. Paviljonas – Nekilnojamojo turto registre neregistruojamas ir į žemę įleistų pamatų neturintis laikinas statinys, pagamintas gamykloje ar pastatytas iš surenkamų konstrukcijų ir turintis viduje įrengtą prekybos salę pirkėjams aptarnauti.
 
 
 
 
-10. Švietimo įstaigos – ikimokyklinio ugdymo įstaigos, bendrojo ugdymo, aukštesniosios ir aukštosios mokyklos, profesinio mokymo įstaigos, vaikų papildomo ugdymo įstaigos: meno, sporto, kalbų, technikos, kitokio profilio mokyklos, taip pat vaikų vasaros stovyklos.
+10. Pildomoji talpykla – indas, kuriame yra nikotino turinčio skysčio, kuris gali būti naudojamas elektroninei cigaretei pripildyti.
 
 
 
 
-11. Tabakas – bulvinių šeimos tabako (Nicotiana) genties augalai (paprastasis tabakas (Nicotiana tabacum), kaimiškasis tabakas (Nicotiana rustica) ir kiti), genetiškai modifikuoti ar nemodifikuoti, jų lapai ir kitos dalys.
+11. Priedas – kita negu tabakas medžiaga, kurios įdėta į tabako gaminį, vienetinį pakelį ar bet kokią išorinę pakuotę.
 
 
 
 
-12. Tabako ir jo gaminių kontrolė – šiame Įstatyme ir kituose teisės aktuose nustatytų tabako ir jo gaminių vartojimo, gamybos, įvežimo, importo, prekybos, reklamos, įsigijimo, įsigijimo ir (ar) vartojimo skatinimo, rėmimo valstybinio reglamentavimo priemonių, skirtų tabako gaminių vartojimui, taip pat jų vartojimo neigiamiems padariniams sveikatai ir ūkiui mažinti, visuma.
+12. Priklausomybės sukėlimo geba – farmakologinė medžiagos geba sukelti priklausomybę – būklę, kai suteikiamu pasitenkinimu ar abstinencijos simptomų palengvinimu arba abiem būdais paveikiami individo gebėjimai kontroliuoti savo elgesį.
 
 
 
 
-13. Tabako gaminiai – rūkyti, uostyti, čiulpti ar kramtyti skirti gaminiai, pagaminti tik iš tabako (tiek genetiškai modifikuoto, tiek nemodifikuoto) arba kuriuose yra tabako.
+13. Rėmimas – finansinė ar bet kokios kitos formos parama renginiui, veiklai ar asmeniui, skatinanti įsigyti ir (ar) vartoti tabako gaminius.
 
 
 
 
-14. Tabako gaminių importas – tabako gaminių įvežimas į Lietuvos Respubliką iš kitų valstybių, išskyrus Europos ekonominės erdvės susitarimo dalyves ir Turkiją.
+14. Socialinė reklama – socialinės gerovės, tai yra sveikos gyvensenos, sveikatos stiprinimo, ligų ir žalingų sveikatai įpročių profilaktikos propagavimas bet kokiomis reklamos formomis ir priemonėmis.
 
 
 
 
-15. Tabako gaminių įsigijimo ir (ar) vartojimo skatinimas – informavimo ir įtikinėjimo veiksmai, įskaitant specialius renginius, akcijas, nuolaidas, dovanas ir panašiai, skatinantys apsispręsti įsigyti ir (ar) vartoti tabako gaminius.
+15. Sudedamoji dalis – tabakas, priedas, taip pat bet kuri medžiaga ar elementas, esantis paruoštame vartoti tabako gaminyje ar su juo susijusiuose gaminiuose, įskaitant popierių, filtrą, rašalą, kapsules ir klijus.
 
 
 
 
-16. Tabako gaminių įvežimas – tabako gaminių įvežimas į Lietuvos Respubliką (išskyrus fizinių asmenų įvežamus) iš Europos ekonominės erdvės susitarimo dalyvių ir Turkijos.
+16. Su tabako gaminiais susiję gaminiai (toliau – susiję gaminiai) – elektroninės cigaretės ir pildomosios talpyklos, taip pat rūkomieji žoliniai gaminiai.
 
 
 
 
-17. Tabako gaminių prekybos vieta – parduotuvių, kioskų, paviljonų, restoranų, kavinių, barų, bufetų ar kitos patalpos ir automobilinės parduotuvės, kuriose tabako gaminiai parduodami vartotojui (kai pirkėjai aptarnaujami lauko sąlygomis, tabako gaminių prekybos vieta laikoma kasos aparato įrengimo vieta), ir patalpos, kuriose vyksta tabako gaminių didmeninė prekyba.
+17. Švietimo įstaigos – ikimokyklinio ugdymo įstaigos, bendrojo ugdymo, aukštosios mokyklos, profesinio mokymo įstaigos, vaikų papildomo ugdymo įstaigos: meno, sporto, kalbų, technikos, kitokio profilio mokyklos, taip pat vaikų vasaros stovyklos.
 
 
 
 
-18. Tabako gaminių reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie tabako gaminius, tiesiogiai ar netiesiogiai skatinanti įsigyti ir (ar) vartoti tabako gaminius.
+18. Tabakas – bulvinių šeimos tabako (Nicotiana) genties augalai (paprastasis tabakas (Nicotiana tabacum), kaimiškasis tabakas (Nicotiana rustica) ir kiti), genetiškai modifikuoti ar nemodifikuoti, jų lapai ir kitos dalys.
 
 
 
 
-19. Užsienio juridinis asmuo – Europos ekonominės erdvės susitarimo dalyvėje, išskyrus Lietuvos Respubliką, ar kitoje užsienio valstybėje įsteigtas juridinis asmuo ar kita organizacija.
+19. Tabako gaminiai – rūkyti, uostyti, čiulpti ar kramtyti skirti gaminiai, pagaminti tik iš tabako (tiek genetiškai modifikuoto, tiek nemodifikuoto) arba kuriuose yra tabako.
 
 
+
+
+20. Tabako gaminių ar susijusių gaminių importas – tabako gaminių ar susijusių gaminių įvežimas į Lietuvos Respubliką iš kitų valstybių, išskyrus Europos ekonominės erdvės susitarimo dalyves ir Turkiją.
+
+
+
+
+21. Tabako gaminių ar susijusių gaminių įsigijimo ir (ar) vartojimo skatinimas – informavimo ir įtikinėjimo veiksmai, įskaitant specialius renginius, akcijas, nuolaidas, dovanas ir panašiai, skatinantys apsispręsti įsigyti ir (ar) vartoti tabako gaminius ar susijusius gaminius.
+
+
+
+
+22. Tabako gaminių ar susijusių gaminių įvežimas – tabako gaminių ar susijusių gaminių įvežimas į Lietuvos Respubliką (išskyrus fizinių asmenų įvežamus tabako gaminius ar susijusius gaminius) iš Europos ekonominės erdvės susitarimo dalyvių ir Turkijos.
+
+
+
+
+23. Tabako gaminių ir susijusių gaminių reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie tabako gaminius ir susijusius gaminius, tiesiogiai ar netiesiogiai skatinanti įsigyti ir (ar) vartoti tabako gaminius ir susijusius gaminius.
+
+
+
+
+24. Tabako gaminių prekybos vieta – parduotuvių, kioskų, paviljonų, restoranų, kavinių, barų, bufetų ar kitos patalpos ir automobilinės parduotuvės, kuriose tabako gaminiai parduodami vartotojui (kai pirkėjai aptarnaujami lauko sąlygomis, tabako gaminių prekybos vieta laikoma kasos aparato įrengimo vieta), ir patalpos, kuriose vyksta tabako gaminių didmeninė prekyba.
+
+
+
+
+25. Tabako, tabako gaminių ir susijusių gaminių kontrolė – šiame Įstatyme ir kituose teisės aktuose nustatytų tabako ir tabako gaminių bei susijusių gaminių vartojimo, gamybos, įvežimo, importo, prekybos, reklamos, įsigijimo, įsigijimo ir (ar) vartojimo skatinimo, rėmimo valstybinio reglamentavimo priemonių, skirtų tabako gaminių ir susijusių gaminių vartojimui, taip pat jų vartojimo neigiamiems padariniams sveikatai ir ūkiui mažinti, visuma.
+
+
+
+
+26. Tarpvalstybinė nuotolinė prekyba – nuotolinis pardavimas vartotojams, kai vartotojas, užsakydamas gaminį mažmeninės prekybos vietoje, yra Lietuvos Respublikoje, o mažmeninės prekybos vieta įsteigta kitoje Europos ekonominės erdvės susitarimo dalyvėje ar trečiojoje šalyje; mažmeninės prekybos vieta laikoma įsteigta Europos ekonominės erdvės susitarimo dalyvėje: 
+
+
+1) fizinio asmens atveju – jeigu jis turi savo verslo vietą toje Europos ekonominės erdvės susitarimo dalyvėje; 
+
+
+
+
+2) kitais atvejais – jeigu asmuo, kuris verčiasi mažmenine prekyba, turi savo oficialią būstinę, centrinę administraciją ar verslo vietą, įskaitant filialą, agentūrą ar bet kokį kitą padalinį toje Europos ekonominės erdvės susitarimo dalyvėje.
+
+
+
+
+
+
+27. Toksiškumas – medžiagos savybė sukelti tam tikro lygio žalingą poveikį žmogaus organizmui, įskaitant ilgainiui pasireiškiantį poveikį, paprastai kai ji vartojama arba jos poveikis patiriamas dažnai ar nuolat.
+
+
+
+
+28. Vienetinis pakelis – mažiausia atskira rinkai pateikiamo tabako gaminio ar susijusio gaminio pakuotė.
+
+
+
+
+29. Užsienio juridinis asmuo – Europos ekonominės erdvės susitarimo dalyvėje, išskyrus Lietuvos Respubliką, ar kitoje užsienio valstybėje įsteigtas juridinis asmuo ar kita organizacija.
 Straipsnio pakeitimai:
 Nr. X-390, 2005-11-15, Žin., 2005, Nr. 142-5105 (2005-12-03)
 Nr. X-699, 2006-06-15, Žin., 2006, Nr. 73-2765 (2006-06-30)
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
+
+
+Straipsnio pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
 
 
-3 straipsnis. Valstybės tabako kontrolės politikos principai
+3 straipsnis. Valstybės tabako, tabako gaminių ir susijusių gaminių kontrolės politikos principai
 
 
-Valstybės tabako kontrolės politikos principai yra:
+Valstybės tabako, tabako gaminių ir susijusių gaminių kontrolės politikos principai yra:
 
 
 1) ginti žmogaus teises į aplinką be tabako dūmų;
@@ -184,7 +251,7 @@ Valstybės tabako kontrolės politikos principai yra:
 
 
 
-2) mokesčiais ir kitomis valstybinio reglamentavimo priemonėmis mažinti tabako gaminių prieinamumą, ypač nepilnamečiams asmenims;
+2) mokesčiais ir kitomis valstybinio reglamentavimo priemonėmis mažinti tabako gaminių ir susijusių gaminių prieinamumą, ypač nepilnamečiams asmenims;
 
 
 
@@ -194,22 +261,22 @@ Valstybės tabako kontrolės politikos principai yra:
 
 
 
-4) valstybinio teisinio reglamentavimo priemonėmis užtikrinti, kad dalis valstybės biudžeto lėšų, gautų iš tabako gaminių gamybos, importo ir prekybos, būtų skiriama sveikatos išsaugojimo ir stiprinimo programoms rengti ir įgyvendinti; 
+4) valstybinio teisinio reglamentavimo priemonėmis užtikrinti, kad dalis valstybės biudžeto lėšų, gautų iš tabako gaminių ir susijusių gaminių gamybos, importo ir prekybos, būtų skiriama sveikatos išsaugojimo ir stiprinimo programoms rengti ir įgyvendinti;
 
 
 
 
-5) drausti tabako gaminių reklamą;
+5) drausti tabako gaminių ir susijusių gaminių reklamą;
 
 
 
 
-6) drausti tabako gaminių įsigijimo ir (ar) vartojimo skatinimą ir riboti rėmimą;
+6) drausti tabako gaminių ir susijusių gaminių įsigijimo ir (ar) vartojimo skatinimą ir riboti jų rėmimą;
 
 
 
 
-7) didinti visuomenės informuotumą apie tabako gaminių vartojimo daromą žalą žmonių sveikatai, taip pat socialinę ir ekonominę žalą valstybei;
+7) didinti visuomenės informuotumą apie tabako gaminių ir susijusių gaminių vartojimo daromą žalą žmonių sveikatai, taip pat socialinę ir ekonominę žalą valstybei;
 
 
 
@@ -219,7 +286,7 @@ Valstybės tabako kontrolės politikos principai yra:
 
 
 
-9) vykdyti tabako gaminių kontrolę ir stebėseną (monitoringą);
+9) vykdyti tabako gaminių ir susijusių gaminių kontrolę ir stebėseną (monitoringą);
 
 
 
@@ -230,11 +297,13 @@ Valstybės tabako kontrolės politikos principai yra:
 
 
 11) siekti sukurti darbo, poilsio ir gyvenamąją aplinką be tabako dūmų.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
-
-
-
-
 
 
 
@@ -426,7 +495,10 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 III SKYRIUS
-VEIKLos RŪŠIŲ, SUSIJUSIŲ SU TABAKU IR TABAKO GAMINIAIS, VALSTYBINIS TEISINIS REGLamentavimas
+VEIKLOS RŪŠIŲ, SUSIJUSIŲ SU TABAKU IR TABAKO GAMINIAIS BEI SUSIJUSIAIS GAMINIAIS, VALSTYBINIS TEISINIS REGLAMENTAVIMAS 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -776,7 +848,10 @@ Lietuvos Respublikoje parduoti oraliniam vartojimui skirtą, taip pat uostomąj�
 
 
 
-2) cigaretes, jeigu jų yra mažiau negu 20 vienetų viename pakelyje;
+2) cigaretes, jeigu jų yra mažiau negu 20 vienetų viename vienetiniame pakelyje;
+Straipsnio punkto pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
@@ -789,6 +864,14 @@ Lietuvos Respublikoje parduoti oraliniam vartojimui skirtą, taip pat uostomąj�
 
 
 6. Draudžiama nupirkti ar kitaip perduoti tabako gaminius asmenims iki 18 metų.
+
+
+
+
+7. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys turi vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių), siekdami, kad jų administruojamoje turgavietėje nebūtų prekiaujama tabako gaminiais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys, pastebėję arba įtarę, kad jų administruojamoje turgavietėje Lietuvos Respublikoje įsteigtas juridinis asmuo, užsienio juridinis asmuo ar jo filialas arba fizinis asmuo prekiauja tabako gaminiais ir (ar) juos gabena, laiko, neturėdamas licencijos verstis mažmenine prekyba tabako gaminiais, privalo nedelsdami, bet ne vėliau kaip tą pačią administruojamos turgavietės darbo dieną, pranešti apie tai policijai.
+Papildyta straipsnio dalimi:
+Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
+ 
 
 
 Straipsnio pakeitimai:
@@ -849,10 +932,54 @@ Lietuvos Respublikoje parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasi
 
 
 
+161 straipsnis. Elektroninių cigarečių ir pildomųjų talpyklų pardavimo ir vartojimo draudimas nepilnamečiams
+
+
+1. Lietuvos Respublikoje draudžiama parduoti elektronines cigaretes ir pildomąsias talpyklas asmenims iki 18 metų. Kai kyla abejonių, kad asmuo yra jaunesnis negu 18 metų, taikomas šio Įstatymo 14 straipsnio 5 dalies 3 punktas.
+
+
+
+
+2. Lietuvos Respublikoje draudžiama asmenims iki 18 metų rūkyti (vartoti) elektronines cigaretes ir turėti elektronines cigaretes ar pildomąsias talpyklas.
+
+
+
+
+3. Draudžiama nupirkti ar kitaip perduoti elektronines cigaretes ir pildomąsias talpyklas asmenims iki 18 metų.
+
+
+Papildyta straipsniu:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
+
+
+
+
+162 straipsnis. Nuotolinės prekybos elektroninėmis cigaretėmis ir pildomosiomis talpyklomis draudimas
+
+
+1. Lietuvos Respublikoje draudžiama vidaus ir tarpvalstybinė nuotolinė prekyba elektroninėmis cigaretėmis ir pildomosiomis talpyklomis. 
+
+
+
+
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija bendradarbiauja su Europos ekonominės erdvės susitarimo dalyvių įgaliotomis institucijomis siekdama užkirsti kelią tarpvalstybinei nuotolinei prekybai elektroninėmis cigaretėmis ir pildomosiomis talpyklomis. 
+
+
+Papildyta straipsniu:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
+
+
+
+
 
 
 TREČIASIS SKIRSNIS
-TABAKO GAMINIŲ REKLAMA, ĮSIGIJIMO IR (AR) VARTOJIMO SKATINIMAS, RĖMIMAS IR VARTOJIMO MAŽINIMO PRIEMONĖS
+TABAKO GAMINIŲ IR SUSIJUSIŲ GAMINIŲ REKLAMA, ĮSIGIJIMO IR (AR) VARTOJIMO SKATINIMAS, RĖMIMAS IR VARTOJIMO MAŽINIMO PRIEMONĖS 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -924,12 +1051,48 @@ TABAKO GAMINIŲ REKLAMA, ĮSIGIJIMO IR (AR) VARTOJIMO SKATINIMAS, RĖMIMAS IR VA
 
 
 
-5. Šio straipsnio 3 dalyje nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, tabako gaminių prekybos vietose draudžiama pateikti tabako gaminių ar jų pakuočių imitacijas ir atvaizdus. Tabako gaminių prekybos vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio 3 ir 4 dalyse nenustatyta vaizdinė ar grafinė informacija.
+5. Šio straipsnio 3 dalyje nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, tabako gaminių prekybos vietose draudžiama pateikti tabako gaminių ar jų vienetinių pakelių imitacijas ir atvaizdus. Tabako gaminių prekybos vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio 3 ir 4 dalyse nenustatyta vaizdinė ar grafinė informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 Straipsnio pakeitimai:
 Nr. X-390, 2005-11-15, Žin., 2005, Nr. 142-5105 (2005-12-03)
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
+ 
+
+
+
+
+171 straipsnis. Elektroninių cigarečių ir pildomųjų talpyklų reklamos draudimas 
+
+
+1. Lietuvos Respublikoje komerciniai pranešimai teikiant informacinės visuomenės paslaugas, spaudoje ir kituose spausdintiniuose leidiniuose, išskyrus leidinius, kurie skirti išimtinai prekybos elektroninėmis cigaretėmis ir pildomosiomis talpyklomis specialistams, ir leidinius, kurie yra spausdinami ir leidžiami trečiosiose šalyse, kuriose šie leidiniai nėra iš esmės skirti Europos Sąjungos rinkai, tiesioginės ar netiesioginės elektroninių cigarečių ir pildomųjų talpyklų reklamos tikslais yra draudžiami.
+
+
+
+
+2. Komerciniai pranešimai per radiją tiesioginės ar netiesioginės elektroninių cigarečių ir pildomųjų talpyklų reklamos tikslais yra draudžiami.
+
+
+
+
+3. Draudžiamas bet kokio pobūdžio viešas ar privatus radijo programų rėmimas, tiesiogiai ar netiesiogiai skatinantis naudoti elektronines cigaretes ir pildomąsias talpyklas.
+
+
+
+
+4. Draudžiamas bet kokio pobūdžio viešas ar privatus renginių, veiklos ar atskirų asmenų rėmimas, tiesiogiai ar netiesiogiai skatinantis naudoti elektronines cigaretes ir pildomąsias talpyklas ir susijęs su keliomis Europos ekonominės erdvės susitarimo dalyvėmis ar vykdomas keliose Europos ekonominės erdvės susitarimo dalyvėse, ar turintis kitokį tarpvalstybinį poveikį.
+
+
+
+
+5. Draudžiami su elektroninėmis cigaretėmis ir pildomosiomis talpyklomis susiję komerciniai audiovizualiniai pranešimai, kuriems taikomas Lietuvos Respublikos visuomenės informavimo įstatymas.
+
+
+Papildyta straipsniu:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -976,17 +1139,26 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 
-8) gaminti ir (ar) parduoti žaislus, maisto produktus ir kitas prekes, kurių dizainas imituoja tabako gaminius ar jų pakuotes;
+8) gaminti ir (ar) parduoti žaislus, maisto produktus ir kitas prekes, kurių dizainas imituoja tabako gaminius ar jų vienetinius pakelius; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
 
-9) parduoti kitus (ne tabako) gaminius, pažymėtus tabako gaminių prekių ženklais;
+9) parduoti kitus gaminius (ne tabako gaminius ir susijusius gaminius), pažymėtus tabako gaminių prekių ženklais; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
 
-10) tabako gaminių įsigijimo ir (ar) vartojimo skatinimo veiklai pasitelkti asmenis iki 18 metų.
+10) tabako gaminių ir susijusių gaminių įsigijimo ir (ar) vartojimo skatinimo veiklai pasitelkti asmenis iki 18 metų.
+Straipsnio punkto pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
@@ -1030,14 +1202,14 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 
-5) restoranuose, kavinėse, baruose, kitose viešojo maitinimo įstaigose, klubuose, diskotekose, interneto kavinėse (interneto klubuose ir pan.), lošimo namuose (kazino), automatų ar bingo salonuose, kitose laisvalaikio praleidimo įstaigose, patalpose, kuriose vyksta sporto varžybos ar kiti renginiai, ir kitose žmonėms aptarnauti skirtose patalpose, išskyrus specialiai įrengtus cigarų ir (ar) pypkių klubus. Cigarų ir (ar) pypkių klubų įrengimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+5) restoranuose, kavinėse, baruose, kitose viešojo maitinimo įstaigose, klubuose, diskotekose, interneto kavinėse (interneto klubuose ir pan.), lošimo namuose (kazino), automatų ar bingo salonuose, kitose laisvalaikio praleidimo įstaigose, patalpose, kuriose vyksta sporto varžybos ar kiti renginiai, ir kitose žmonėms aptarnauti skirtose patalpose, išskyrus specialiai įrengtus cigarų ir (ar) pypkių klubus. Cigarų ir (ar) pypkių klubų įrengimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija;
 
 
 
 
 
 
-2. Neteko galios nuo 2007 m. sausio 1 d.
+2. Neteko galios nuo 2007-01-01.
 
 
 
@@ -1048,6 +1220,14 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 4. Juridinio asmens valdymo organai privalo užtikrinti, kad juridinio asmens darbuotojai, aptarnaujami klientai ir lankytojai nebūtų priversti kvėpuoti tabako dūmais užterštu oru, taip pat kad matomose vietose būtų iškabinti įspėjamieji užrašai ar ženklai apie draudimą rūkyti, įrengtos specialios rūkymui skirtos patalpos (vietos) ir iškabinti jas nurodantys užrašai ar ženklai. 
+
+
+
+
+5. Lietuvos Respublikoje draudžiama asmenims iki 18 metų rūkyti (vartoti) tabako gaminius ar jų turėti.
+Papildyta straipsnio dalimi:
+Nr. XII-1648, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06525
+ 
 
 
 Straipsnio pakeitimai:
@@ -1134,9 +1314,12 @@ Nr. XII-469, 2013-07-02, Žin., 2013, Nr. 79-3990 (2013-07-23)
 
 
 IV SKYRIUS
-VEIKLOS, SUSIJUSIos SU TABAKO GAMINIAIS, priežiūra ir Atsakomybė už tabako kontrolės įstatymo pažeidimus
+VEIKLOS, SUSIJUSIOS SU TABAKO GAMINIAIS IR SUSIJUSIAIS GAMINIAIS, PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS 
 Skyriaus pavadinimas keistas:
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
  
 
 
@@ -1202,17 +1385,26 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 
-7. Už šio Įstatymo 14 straipsnio 5 dalies 1 ar 2 punkte nustatytų tabako gaminių pardavimo draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo 14 straipsnio 5 dalies 3 punkte nustatyto tabako gaminių pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda, už šio draudimo pažeidimą, padarytą toje pačioje prekybos vietoje pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda ir panaikinamas licencijos galiojimas toje prekybos vietoje, kurioje nustatytas pažeidimas. 
+7. Už šio Įstatymo 14 straipsnio 5 dalies 1 ar 2 punkte nustatytų tabako gaminių pardavimo draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo 14 straipsnio 5 dalies 3 punkte nustatyto tabako gaminių pardavimo draudimo pažeidimą, šio Įstatymo 161 straipsnio 1 dalyje nustatyto elektroninių cigarečių ir pildomųjų talpyklų pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą toje pačioje prekybos vietoje pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda ir panaikinamas licencijos galiojimas toje prekybos vietoje, kurioje nustatytas pažeidimas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
 
-8. Už šio Įstatymo 15 straipsnyje nustatytų prekybos tabako gaminiais draudimų, 16 straipsnyje nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda.
+8. Už šio Įstatymo 15 straipsnyje nustatytų prekybos tabako gaminiais draudimų, 16 straipsnyje nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo, 162 straipsnyje nustatytų nuotolinės prekybos elektroninėmis cigaretėmis ir pildomosiomis talpyklomis draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
 
-9. Už šio Įstatymo 17 straipsnio 1 dalyje nustatyto reklamos draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda. 
+9. Už šio Įstatymo 17 straipsnio 1 dalyje ir 171 straipsnyje nustatytų reklamos draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
@@ -1235,12 +1427,12 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 13. Už šio Įstatymo nuostatų pažeidimus baudas skiria:
 
 
-1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 9 straipsnio 1 dalies, 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, 15 ir 16 straipsnių, 17 straipsnio 1, 4 ir 5 dalių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;
+1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 9 straipsnio 1 dalies, 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, 15 ir 16 straipsnių, 161 straipsnio 1 dalies, 162 straipsnio, 17 straipsnio 1, 4 ir 5 dalių, 171 straipsnio, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;
 
 
 
 
-2) Valstybinė ne maisto produktų inspekcija – už 10 straipsnio 1 dalies, 13 straipsnio, 14 straipsnio 1 dalies, 3 dalies 1–8 punktų, 5 dalies 1 ir 2 punktų, 18 straipsnio 1 dalies 8 ir 9 punktų nuostatų pažeidimus; 
+2) Valstybinė ne maisto produktų inspekcija – už 92–97 straipsnių, 10 straipsnio 1 dalies, 13 straipsnio, 14 straipsnio 1 dalies, 3 dalies 1–8 punktų, 5 dalies 1 ir 2 punktų, 18 straipsnio 1 dalies 8 ir 9 punktų nuostatų pažeidimus;
 
 
 
@@ -1263,6 +1455,9 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 6) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos pareigūnai – už 14 straipsnio 3 dalies 1, 3 ir 8 punktų nuostatų pažeidimus.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
@@ -1303,7 +1498,9 @@ Nr. XII-1188, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14286
 
 
 
-2. Šio Įstatymo 26 straipsnio 13 dalyje nurodytos institucijos bylas išnagrinėja ir ekonomines sankcijas paskiria ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos.
+2. Šio Įstatymo 26 straipsnio 13 dalyje nurodytos institucijos bylas išnagrinėja ir ekonomines sankcijas paskiria ne vėliau kaip per du mėnesius nuo pažeidimo nustatymo dienos. Sankcijos už šio Įstatymo pažeidimus gali būti skiriamos ne vėliau kaip per trejus metus nuo pažeidimo padarymo dienos, o trunkamo pažeidimo atveju – per trejus metus nuo jo paaiškėjimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
  
 
 
@@ -1352,13 +1549,54 @@ Nr. XII-1188, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14286
 
 
 
-29 straipsnis. Pranešimas apie bylos nagrinėjimą
+29 straipsnis. Pranešimas apie šio Įstatymo pažeidimo tyrimo pradžią ir bylos nagrinėjimą
 
 
-Proceso šalims raštu pranešama apie nustatytus šio Įstatymo pažeidimus, bylos nagrinėjimo vietą ir laiką, taip pat pasiūloma raštu pateikti savo nuomonę.
+1. Apie šio Įstatymo pažeidimo tyrimo pradžią proceso šalims turi būti pranešta raštu ne vėliau kaip per 3 darbo dienas nuo pažeidimo tyrimo veiksmų atlikimo pradžios (kartu pranešama, kokia tvarka proceso šalys gali susipažinti su bylos medžiaga, pasiūloma raštu pateikti paaiškinimus).
+
+
+
+
+2. Jeigu tyrimo veiksmų atlikimo pradžioje asmuo, įtariamas pažeidęs šį Įstatymą (įtariamas pažeidėjas), yra nežinomas, apie pažeidimo tyrimo pradžią jam turi būti pranešta per 3 darbo dienas nuo šio asmens nustatymo dienos. 
+
+
+
+
+3. Apie bylos nagrinėjimo vietą ir laiką proceso šalims turi būti pranešta ir šio Įstatymo 27 straipsnio 1 dalyje nurodyto protokolo kopija proceso šalims turi būti pateikta ne vėliau kaip prieš 10 darbo dienų iki posėdžio pradžios. 
  
 
 
+
+
+291 straipsnis. Proceso šalių teisės šio Įstatymo pažeidimo tyrimo ir bylos nagrinėjimo metu 
+
+
+1. Proceso šalys šio Įstatymo pažeidimo tyrimo ir bylos nagrinėjimo metu turi teisę susipažinti su bylos medžiaga, duoti rašytinius ir žodinius paaiškinimus, pateikti įrodymus, prašymus. 
+
+
+
+
+2. Proceso šalys iki bylos nagrinėjimo paaiškinimus gali teikti per šio Įstatymo 26 straipsnio 13 dalyje nurodytų institucijų nustatytą terminą, kuris negali būti trumpesnis negu 14 darbo dienų nuo dienos, kurią asmuo, įtariamas pažeidęs šį Įstatymą (įtariamas pažeidėjas), gauna pranešimą apie šio Įstatymo pažeidimą. 
+
+
+
+
+3. Jeigu bylos nagrinėjimo metu yra pateikiama naujų įrodymų, proceso šalys turi teisę nedelsdamos su jais susipažinti ir per 5 darbo dienas nuo naujų įrodymų gavimo pateikti dėl jų savo paaiškinimus.
+
+
+
+
+4. Jeigu bylos nagrinėjimo metu apklausiami liudytojai, juos apklausti turi teisę ir proceso šalys. Proceso šalys taip pat turi teisę siūlyti savo liudytojus.
+
+
+Papildyta straipsniu:
+Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
+ 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
+ 
 
 
 
@@ -1366,20 +1604,27 @@ Proceso šalims raštu pranešama apie nustatytus šio Įstatymo pažeidimus, by
 30 straipsnis. Bylos nagrinėjimas
 
 
-1. Byla nagrinėjama dalyvaujant proceso šalims bei kitiems proceso dalyviams.
+1. Bylos nagrinėjimas vyksta viešai. Šio Įstatymo 26 straipsnio 13 dalyje nurodytos institucijos savo iniciatyva arba proceso šalių prašymu gali paskelbti posėdį ar jo dalį uždarą, kai tai būtina siekiant apsaugoti valstybės, tarnybos, profesinę paslaptį arba proceso šalių komercinę paslaptį. 
 
 
 
 
-2. Nagrinėjant bylą, proceso šalys turi teisę susipažinti su surinkta medžiaga, duoti žodinius ir rašytinius paaiškinimus, pateikti įrodymus, pareikšti prašymus.
+2. Byla nagrinėjama žodinio proceso tvarka, dalyvaujant proceso šalims ir kitiems proceso dalyviams.
 
 
 
 
-3. Jei proceso šalys nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra duomenų, kad joms buvo laiku pranešta apie bylos nagrinėjimo vietą ir laiką, taip pat suteikta teisė susipažinti su bylos medžiaga ir duoti paaiškinimus.
+3. Jeigu proceso šalys nedalyvauja, byla gali būti išnagrinėta tik tais atvejais, kai yra duomenų, kad joms buvo laiku ir tinkamai pranešta apie bylos nagrinėjimo vietą ir laiką, taip pat suteikta teisė susipažinti su bylos medžiaga ir duoti paaiškinimus, ir jeigu iki bylos nagrinėjimo jos nepateikė savo neatvykimą pateisinančių dokumentų, kuriuose nurodytas neatvykimo priežastis šio Įstatymo 26 straipsnio 13 dalyje nurodytos institucijos pripažįsta svarbiomis. Atostogos, komandiruotė, kitoks užimtumas ir kiti panašūs atvejai nelaikomi svarbiomis neatvykimo priežastimis, taip pat svarbiomis priežastimis paprastai nelaikomas neatvykimas dėl ligos ir proceso šalies atstovo užimtumas kitose bylose.
+
+
+
+
+4. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas pranešimas, išsiųstas registruotu laišku Juridinių asmenų registre nurodytu proceso šalies buveinės adresu, išskyrus atvejus, kai proceso šalis nurodė kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registre nurodytu proceso šalies elektroninių siuntų pristatymo adresu, arba pranešimas, pasirašytinai įteiktas proceso šaliai šio Įstatymo pažeidimo nustatymo metu. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
  
-
-
 
 
 
@@ -1550,31 +1795,31 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
-Lietuvos Respublikos 
-2003 m. lapkričio 20 d.
-įstatymo Nr. IX-1840
-priedas 
+Lietuvos Respublikos
+tabako, tabako gaminių ir su jais susijusių
+gaminių kontrolės įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-Lietuvos Respublikos tabako kontrolės įstatymas suderintas su šiais Europos Sąjungos teisės aktais:
+1. 1989 m. spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų nuostatų, skirtų vertimuisi televizijos programų transliavimu, suderinimo (su paskutiniais pakeitimais, padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva 97/36/EB) (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 224).
 
 
 
 
-1) 1989 m. spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų nuostatų, skirtų vertimuisi televizijos programų transliavimu, suderinimo (su paskutiniais pakeitimais, padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva 97/36/EB);
+2. 2003 m. gegužės 26 d. Europos Parlamento ir Tarybos direktyva 2003/33/EB dėl valstybių narių įstatymų ir kitų teisės aktų, reglamentuojančių tabako produktų reklamą ir rėmimą, suderinimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 460). 
 
 
 
 
-2) 2001 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva 2001/37/EB dėl valstybių narių įstatymų ir kitų teisės aktų, taikomų tabako gaminių gamybai, pateikimui ir pardavimui, derinimo;
+3. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/40/ES dėl valstybių narių įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių tabako ir susijusių gaminių gamybą, pateikimą ir pardavimą, suderinimo ir kuria panaikinama Direktyva 2001/37/EB (OL 2014 L 127, p. 1).
 
 
-
-
-3) 2003 m. gegužės 26 d. Europos Parlamento ir Tarybos direktyva 2003/33/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su tabako gaminių reklama ir rėmimu, derinimo.
-
-
+Priedo pakeitimai:
+Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+ 
 
 
 
@@ -1721,3 +1966,8 @@ Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 11, 14, 26, 27, 29, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
 Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1648, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06525
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas
