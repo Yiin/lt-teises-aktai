@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-20
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -144,10 +144,11 @@ Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010IS
 
 
 
-10. Finansų kontroliuojančioji bendrovė – finansų įmonė, kurios visos kontroliuojamos įmonės arba jų dauguma yra kredito įstaigos arba finansų įmonės, o iš jų nors viena yra kredito įstaiga, ir kuri nėra mišrios veiklos finansų kontroliuojančioji įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme. 
+10. Finansų kontroliuojančioji bendrovė – kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013)  4 straipsnio 1 dalies 20 punkte. 
 Straipsnio dalies pakeitimai:
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
 Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
+Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
  
 
 
@@ -290,11 +291,12 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 
 
-24. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu. 
+24. Kredito įstaiga – kaip apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 1 punkte. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
  
@@ -2953,7 +2955,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
+Lietuvos Respublikos 
 finansų įstaigų įstatymo
 priedas
  
@@ -2961,35 +2963,22 @@ priedas
  
 
 
-1. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97). 
-Punkto pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
- 
+1. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 
 
 
 
-2. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
 
 
 
 
-3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7). 
-Papildyta straipsnio dalimi:
-Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
- 
-
-
-
-
-4. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74). 
-Papildyta punktu:
-Nr. XII-913, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07640
- 
+3.   2013 m.   birželio  26 d.  Europos   Parlamento  ir  Tarybos   direktyva   2013/36/ES   dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos  direktyvos  2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 
 Priedo pakeitimai:
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
+Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
  
  
  
@@ -3089,3 +3078,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 12 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 38 ir 38-1 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 straipsnio ir priedo pakeitimo įstatymas
