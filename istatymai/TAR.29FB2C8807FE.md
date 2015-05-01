@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -1186,10 +1186,19 @@ Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
 
 
 
-9. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+9. Valstybės įmonės pelno dalis, atitinkanti valstybės įmonės pelno įmokos, nuo kurios mokėjimo į valstybės biudžetą ji atleidžiama vadovaujantis šio straipsnio 7 dalimi, dydį, taip pat valstybės įmonės pelno dalis, atitinkanti valstybės įmonės pelno įmokos, kurios mokėjimo į valstybės biudžetą dydis yra mažinamas vadovaujantis šio straipsnio 6 dalies 1 punktu, sumažintą dalį, turi būti skiriamos teisės aktais pripažintiems ypatingos valstybinės svarbos arba valstybei svarbiems ekonominiams projektams, kuriuos ši valstybės įmonė įgyvendina arba dalyvauja juos įgyvendinant. 
+Papildyta straipsnio dalimi:
+Nr. XII-1620, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06580
+ 
+
+
+
+
+10. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
 Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
+Nr. XII-1620, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06580
  
 
 
@@ -1987,3 +1996,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3, 4, 6, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24 ir 26 straipsnių pakeitimo įstatymo Nr. XII-1234 17 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1620, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06580
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
