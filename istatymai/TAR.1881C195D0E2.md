@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -3440,7 +3440,10 @@ Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010IS
 69 straipsnis. Kompensacijos žvalgybos pareigūno žūties (mirties) ar sveikatos sutrikdymo atveju
 
 
-1. Žvalgybos pareigūnui žuvus (mirus) dėl tarnybos žvalgybos institucijoje, jo šeimai – nepilnamečiams vaikams (įvaikiams), taip pat besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų nuolatinėse studijose vaikams (įvaikiams), kol jiems sukaks 24 metai, sutuoktiniui, žuvusiojo (mirusiojo) vaikams, gimusiems po jo žūties (mirties), tėvui ar motinai – ir nedarbingiems asmenims, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo žvalgybos pareigūno žūties (mirties) lygiomis dalimis išmokama 120 mėnesinių tarnybinių atlyginimų dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti teisės aktuose nustatytos draudimo išmokos dydžiu.
+1. Žvalgybos pareigūnui žuvus (mirus) dėl tarnybos žvalgybos institucijoje, jo šeimai, nepilnamečiams vaikams (įvaikiams), taip pat besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų nuolatinėse studijose vaikams (įvaikiams), kol jiems sukaks 24 metai, sutuoktiniui, žuvusiojo (mirusiojo) vaikams, gimusiems po jo žūties (mirties), tėvui ar motinai ir nedarbingiems asmenims, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo žvalgybos pareigūno žūties (mirties) lygiomis dalimis išmokama 120 mėnesinių tarnybinių atlyginimų dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
+ 
 
 
 
@@ -3450,7 +3453,7 @@ Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010IS
 
 
 
-3. Žvalgybos pareigūnui, kurio sveikata sutriko atliekant tarnybines pareigas arba kurio sveikata sutriko dėl tarnybinių pareigų atlikimo ar žvalgybos pareigūno statuso, išmokama tokio dydžio jo vidutinio tarnybinio atlyginimo dydžio kompensacija, sumažinta priklausančių išmokėti teisės aktuose nustatytų draudimo išmokų dydžiu:
+3. Žvalgybos pareigūnui, kurio sveikata sutriko atliekant tarnybines pareigas arba kurio sveikata sutriko dėl tarnybinių pareigų atlikimo ar žvalgybos pareigūno statuso, išmokama tokio dydžio jo vidutinio tarnybinio atlyginimo dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu:
 
 
 1) netekusiems 75–100 procentų darbingumo – 60 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
@@ -3486,6 +3489,9 @@ Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010IS
 7) lengvo sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo, – 12 mėnesinių vidutinių tarnybinių atlyginimų dydžio.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
+ 
 
 
 
@@ -3587,8 +3593,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
- 
- 
 
 
  
@@ -3596,7 +3600,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
  
  
 Lietuvos Respublikos
@@ -3704,3 +3707,8 @@ Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
 Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo 1, 2 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 67 ir 69 straipsnių pakeitimo įstatymas
