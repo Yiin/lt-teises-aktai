@@ -13,9 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2017-03-30
  
-Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945; Žin. 2006, Nr.77-2975, i. k. 0991010ISTAIII-1234
+Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
 Nauja įstatymo redakcija nuo 2007-01-01:
 Nr. X-736, 2006-06-27, Žin., 2006, Nr. 77-2975 (2006-07-14)
@@ -754,7 +754,10 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 
 
 
-3. Rinkliavas ar kitokį atlyginimą už administracines paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytas administracines paslaugas, taip pat už viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę paslaugą nagrinėjimą.
+3. Rinkliavas ar kitokį atlyginimą už administracines paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliavos nustatomos vadovaujantis Lietuvos Respublikos rinkliavų įstatymu, o kitokio atlyginimo už administracines paslaugas dydį pagal Vyriausybės patvirtintus kriterijus nustato viešojo administravimo institucijos, kurios nustato atitinkamų administracinių paslaugų teikimo tvarką, jeigu kiti įstatymai nenustato kitaip. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytas administracines paslaugas, taip pat už viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę paslaugą nagrinėjimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
+ 
 
 
 Straipsnio pakeitimai:
@@ -772,12 +775,23 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 
 
 
-2. Viešojo administravimo subjektas, kuris pagal šio įstatymo nustatytą valdymo sritį administruoja tam tikros viešosios paslaugos teikimą, negali pats teikti šios paslaugos, išskyrus atvejus, kai Lietuvos Respublikos vietos savivaldos įstatymo nustatytomis sąlygomis ir tvarka savivaldybės administracijos padalinys teikia viešąsias paslaugas.
+2. Viešojo administravimo subjektas, kuris administruoja tam tikros viešosios paslaugos teikimą, negali pats teikti šios paslaugos, išskyrus atvejus, kai Lietuvos Respublikos vietos savivaldos įstatymo nustatytomis sąlygomis ir tvarka savivaldybės administracijos padalinys teikia viešąsias paslaugas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
+ 
 
 
 
 
 3. Rinkliavas ar kitokį atlyginimą už viešųjų paslaugų teikimo administravimą gali nustatyti tik įstatymai.
+
+
+
+
+4. Rinkliavas ar kitokį atlyginimą už viešąsias paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliavos nustatomos vadovaujantis Lietuvos Respublikos rinkliavų įstatymu, o kitokio atlyginimo dydį pagal Vyriausybės patvirtintus kriterijus nustato viešojo administravimo subjektas, kuris administruoja tos viešosios paslaugos teikimą, jeigu kiti įstatymai nenustato kitaip.
+Papildyta straipsnio dalimi:
+Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
+ 
 
 
 Straipsnio pakeitimai:
