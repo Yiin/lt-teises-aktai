@@ -23,6 +23,10 @@ GALIOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-05-01 iki 2019-12-20
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 121-5703, i. k. 1111010ISTA0XI-1595
+ 
 LIETUVOS RESPUBLIKOS 
 GELEŽINKELIŲ TRANSPORTO KODEKSO 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 STRAIPSNIŲ, PRIEDO PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO  41, 251, 331 STRAIPSNIAIS IR 8, 27 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS  ĮSTATYMAS
  
@@ -959,20 +963,17 @@ priedas
 20 straipsnis. Baigiamosios nuostatos 
 
 
-1. Šio įstatymo 18 straipsnyje išdėstytas Lietuvos Respublikos geležinkelių transporto kodekso 331 straipsnis galioja iki 2014 m. gruodžio 3 d.
+1. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 13, 21, 22, 23, 24 straipsnių nuostatos netaikomos iki 2019 m. gruodžio 3 d.
 
 
 
 
-2. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 13, 21, 22, 23, 24 straipsnių nuostatos yra taikomos nuo 2014 m. gruodžio 3 d.
+2. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamento (EB) Nr. 1371/2007 nuostatos netaikomos iki 2019 m. gruodžio 3 d.
 
 
-
-
-3. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamentas (EB) Nr. 1371/2007 taikomas nuo 2014 m. gruodžio 3 d.
+Straipsnio pakeitimai:
+Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
  
-
-
 
 
 
@@ -992,3 +993,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
+Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 20 straipsnio pakeitimo įstatymas
