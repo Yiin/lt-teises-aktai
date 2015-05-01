@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.078401A44DFD"
 
 # Lietuvos Respublikos kraujo donorystės įstatymas
 
-Suvestinė redakcija nuo 2014-06-12 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 115-2666, i. k. 0961010ISTA00I-1611
  
@@ -32,28 +32,22 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato kraujo donorystės įgyvendinimo principus, tvarką ir sąlygas, donorų teises ir pareigas, kraujo donorystės subjektus bei transfuzijos ypatumus. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
- 
+1. Šis įstatymas nustato kraujo donorystės įgyvendinimo principus, tvarką ir sąlygas, donorų teises ir pareigas, kraujo donorystės subjektus bei transfuzijos ypatumus. Kraujui ir plazmai, naudojamiems kaip pradinės medžiagos kraujo vaistiniams preparatams gaminti, taikomos tik šio įstatymo nuostatos, reglamentuojančios kraujo ir plazmos surinkimą bei ištyrimą.
 
 
 
 
-2. Kraujo preparatų gamybą ir jų vartojimą reglamentuoja kiti įstatymai.
-Papildyta straipsnio dalimi:
-Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
- 
+2. Plazmos, naudojamos kaip pradinė medžiaga kraujo vaistiniams preparatams gaminti, ruošimą (perdirbimą, saugojimą ir transportavimą) reglamentuoja Lietuvos Respublikos farmacijos įstatymas.
 
 
 
 
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
-Papildyta straipsnio dalimi:
-Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
+
+
+Straipsnio pakeitimai:
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
  
-
-
 
 
 
@@ -71,7 +65,10 @@ Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
 
 
 
-3. Kraujo donorystė – priemonių visuma, apimanti visuomenės telkimą duoti kraujo, donorų atranką, kraujo ar jo sudėtinių dalių paėmimo, paruošimo transfuzijai ar toliau perdirbti, saugojimo bei transfuzijos veiklą.
+3. Kraujo donorystė – priemonių visuma, apimanti visuomenės skatinimą duoti kraujo, donorų atranką, kraujo ir jo komponentų surinkimą ir ištyrimą, neatsižvelgiant į tai, kokiam tikslui jie būtų naudojami, taip pat transfuzijai naudojamo kraujo ir jo komponentų perdirbimą, laikymą ir paskirstymą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
+ 
 
 
 
@@ -90,7 +87,10 @@ Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
 
 
 
-6. Kraujo preparatai – vaistiniai preparatai, pagaminti iš žmogaus kraujo ar plazmos.
+6. Neteko galios nuo 2015-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
+ 
 
 
 
@@ -135,11 +135,12 @@ SĄLYGOS IR PRINCIPAI. DONORŲ TEISĖS IR PAREIGOS
 3 straipsnis. Kraujo donorystės veiklos principai
 
 
-Kraujo donorystė remiasi donorystės savanoriškumo, donoro anonimiškumo, neatlygintinumo ir kraujo donorystės įstaigų pelno nesiekimo principais. Pelno nesiekimo principas netaikomas įmonėms, atsakingoms už plazmos surinkimą ir ištyrimą, jeigu plazma yra išimtinai pradinė medžiaga vaistinių preparatų gamybai. Donoro neatlygintinumo principas netaikomas šiose įmonėse duodantiems plazmą donorams.
+Kraujo donorystė remiasi donorystės savanoriškumo, donoro anonimiškumo, neatlygintinumo ir kraujo donorystės įstaigų pelno nesiekimo principais.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
  
 
 
@@ -415,12 +416,18 @@ Asmens sveikatos priežiūros įstaiga Sveikatos apsaugos ministerijos nustatyta
 
 
 VI SKYRIUS
-KRAUJO IR KRAUJO PREPARATŲ
-EKSPORTAS IR IMPORTAS
+KRAUJO IR KRAUJO KOMPONENTŲ ĮVEŽIMAS IR IŠVEŽIMAS 
+ 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
  
 
 
-16 straipsnis. Kraujo ir kraujo komponentų eksportas ir importas
+16 straipsnis. Kraujo ir kraujo komponentų įvežimas ir išvežimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
+ 
 
 
 Kraujo ir kraujo komponentų įvežimo į Lietuvos Respubliką ir išvežimo iš jos sąlygas bei tvarką nustato Sveikatos apsaugos ministerija.
@@ -523,3 +530,8 @@ Lietuvos Respublikos kraujo donorystės įstatymo 2, 3 straipsnių pakeitimo ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
 Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 1, 2, 3, 16 straipsnių ir VI skyriaus pavadinimo pakeitimo įstatymas
