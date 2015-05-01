@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-27
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -573,7 +573,10 @@ DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS VALSTYBINIS REGLAMENTA
 
 
 
-4. Įmonėms, Europos juridiniams asmenims ar jų filialams, norintiems verstis mažmenine prekyba alkoholiniais gėrimais mažmeninės prekybos ir viešojo maitinimo vietose, įrengtose daugiabučiuose gyvenamuosiuose namuose, licencijos išduodamos, jeigu šios įmonės, Europos juridiniai asmenys ar jų filialai pateikia Lietuvos Respublikos Vyriausybės nustatyta tvarka daugiabučio gyvenamojo namo savininkų bendrijos susirinkimo (valdybos) arba, jeigu tokia bendrija neįsteigta ar bendrija valdo daugiau kaip vieną daugiabutį gyvenamąjį namą, gyvenamojo namo patalpų savininkų ir neprivatizuotų butų nuomininkų daugumos sutikimą (sutikimą pasirašantys asmenys gali jame nurodyti prekybos alkoholiniais gėrimais laiką).
+4. Įmonėms, Europos juridiniams asmenims ar jų filialams, norintiems verstis mažmenine prekyba alkoholiniais gėrimais mažmeninės prekybos ir viešojo maitinimo vietose, įrengtose daugiabučiuose gyvenamuosiuose namuose, licencijos išduodamos, jeigu šios įmonės, Europos juridiniai asmenys ar jų filialai pateikia Lietuvos Respublikos Vyriausybės nustatyta tvarka daugiabučio gyvenamojo namo gyvenamosios paskirties patalpų savininkų ir neprivatizuotų butų nuomininkų daugumos sutikimą (sutikimą pasirašantys asmenys gali jame nurodyti prekybos alkoholiniais gėrimais laiką).
+Straipsnio dalies pakeitimai:
+Nr. XII-1337, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17991
+ 
 
 
 
@@ -886,6 +889,14 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 
 13. Įmonėms, Europos juridiniams asmenims ir jų filialams, nustatyta tvarka įsigijusiems etilo alkoholio gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbams, draudžiama jį naudoti ne pagal paskirtį.
+
+
+
+
+14. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys turi vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių), siekdami, kad jų administruojamoje turgavietėje nebūtų prekiaujama alkoholiniais gėrimais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba alkoholiniais gėrimais. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys, pastebėję arba įtarę, kad jų administruojamoje turgavietėje Lietuvos Respublikoje įsteigtas juridinis asmuo, užsienio juridinis asmuo ar jo filialas arba fizinis asmuo prekiauja alkoholiniais gėrimais ir (ar) juos gabena, laiko, neturėdamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais, privalo nedelsdami, bet ne vėliau kaip tą pačią administruojamos turgavietės darbo dieną, pranešti apie tai policijai.
+Papildyta straipsnio dalimi:
+Nr. XII-1527, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21288
+ 
 
 
 Straipsnio pakeitimai:
@@ -2616,3 +2627,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1308, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17040
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 34 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1337, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17991
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 16 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1527, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21288
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 17 straipsnio pakeitimo įstatymas
