@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-03-24 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-28
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
- 
  
 LIETUVOS RESPUBLIKOS
 GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO
@@ -347,7 +346,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-32. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Transporto veiklos pagrindų įstatyme ir Geležinkelių transporto eismo saugos įstatyme.
+32. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Transporto veiklos pagrindų įstatyme, Geležinkelių transporto eismo saugos įstatyme ir 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (toliau – Reglamentas (ES) Nr. 913/2010).
+Straipsnio dalies pakeitimai:
+Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
+ 
 
 
 Straipsnio pakeitimai:
@@ -1600,7 +1602,10 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 29 straipsnis. Viešosios geležinkelių infrastruktūros pajėgumų skyrimas
 
 
-1. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos skiria viešosios geležinkelių infrastruktūros pajėgumus naudotis geležinkelio įmonėms (vežėjams). Paskirtus pajėgumus draudžiama perduoti kitai įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti arba šiuos pajėgumus parduoti.
+1. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos skiria viešosios geležinkelių infrastruktūros pajėgumus naudotis geležinkelio įmonėms (vežėjams). Reglamente (ES) Nr. 913/2010 nustatytais atvejais viešosios geležinkelių infrastruktūros pajėgumus krovinių vežimo koridoriuose skiria pagal šio reglamento 13 straipsnio 1 dalį paskirtas arba įsteigtas asmuo. Paskirtus pajėgumus draudžiama perduoti kitai įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti arba šiuos pajėgumus parduoti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
+ 
 
 
 
@@ -1763,27 +1768,29 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 331 straipsnis. Neįgaliųjų arba ribotos judėsenos asmenų vežimas vietiniais maršrutais
 
 
-1. Vežant neįgaliuosius arba ribotos judėsenos asmenis vietiniais maršrutais, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) privalo užtikrinti, kad neįgaliesiems arba ribotos judėsenos asmenims būtų suteikta pagalba patekti į peronus, įlipti ir išlipti iš riedmenų techniškai tam pritaikytose geležinkelio stotyse, peronuose, kai riedmenys yra techniškai pritaikyti  neįgaliesiems arba ribotos judėsenos asmenims aptarnauti ir yra pagalbą teikiantis personalas. Jeigu geležinkelio stotys, peronai ir riedmenys nėra techniškai pritaikyti neįgaliesiems arba ribotos judėsenos asmenims aptarnauti, geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) imasi visų įmanomų ir pagrįstų priemonių, kad šiems asmenims būtų suteikta galimybė naudotis geležinkelių transportu.
+1. Vežant neįgaliuosius arba ribotos judėsenos asmenis vietiniais maršrutais, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) privalo užtikrinti, kad neįgaliesiems arba ribotos judėsenos asmenims būtų suteikta pagalba patekti į peronus, įlipti ir išlipti iš riedmenų techniškai tam pritaikytose geležinkelio stotyse, peronuose, kai riedmenys yra techniškai pritaikyti neįgaliesiems arba ribotos judėsenos asmenims aptarnauti ir yra pagalbą teikiantis personalas. Jeigu geležinkelio stotys, peronai ir riedmenys nėra techniškai pritaikyti neįgaliesiems arba ribotos judėsenos asmenims aptarnauti, geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) imasi visų įmanomų ir pagrįstų priemonių, kad šiems asmenims būtų suteikta galimybė naudotis geležinkelių transportu.
 
 
 
 
-2. Neįgalusis arba ribotos judėsenos asmuo ne vėliau kaip prieš 24 valandas iki keleivinio traukinio išvykimo pagal tvarkaraštį turi pranešti geležinkelių infrastruktūros valdytojui ar geležinkelio įmonei (vežėjui), kad jam reikės šio straipsnio 1 dalyje nurodytos pagalbos. Jeigu neįgalusis arba ribotos judėsenos asmuo yra įsigijęs terminuotą bilietą, informaciją apie savo keliones jis gali pateikti iš anksto vieną kartą. Šios informacijos pateikimo tvarką geležinkelio įmonė (vežėjas) turi nustatyti pagal Reglamento (EB) Nr. 1371/2007  19 straipsnio 1 dalyje nurodytas taisykles.
+2. Neįgalusis arba ribotos judėsenos asmuo ne vėliau kaip prieš 24 valandas iki keleivinio traukinio išvykimo pagal tvarkaraštį turi pranešti geležinkelių infrastruktūros valdytojui ar geležinkelio įmonei (vežėjui), kad jam reikės šio straipsnio 1 dalyje nurodytos pagalbos. Jeigu neįgalusis arba ribotos judėsenos asmuo yra įsigijęs terminuotą bilietą, informaciją apie savo keliones jis gali pateikti iš anksto vieną kartą. Šios informacijos pateikimo tvarką geležinkelio įmonė (vežėjas) turi nustatyti pagal Reglamento (EB) Nr. 1371/2007 19 straipsnio 1 dalyje nurodytas taisykles.
 
 
 
 
-3. Jeigu neįgalusis arba ribotos judėsenos asmuo nepateikia informacijos šio straipsnio 2 dalyje nustatyta tvarka, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) imasi visų įmanomų ir pagrįstų priemonių, kad būtų suteikta būtina nemokama pagalba, siekiant užtikrinti neįgaliajam arba ribotos judėsenos asmeniui galimybę naudotis geležinkelių transportu.
+3. Jeigu neįgalusis arba ribotos judėsenos asmuo nepateikia informacijos šio straipsnio 2 dalyje nustatyta tvarka, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) imasi visų įmanomų ir pagrįstų priemonių, kad būtų suteikta būtina nemokama pagalba, siekiant užtikrinti neįgaliajam arba ribotos judėsenos asmeniui galimybę naudotis geležinkelių transportu.
 
 
 
 
-4. Geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas), gavę pranešimą apie būtiną pagalbą neįgaliajam arba ribotos judėsenos asmeniui, praneša jam, į kurią vietą ir kokiu laiku jis turi atvykti. Nurodytas atvykimo laikas negali būti ankstesnis negu viena valanda iki tvarkaraštyje paskelbto keleivinio traukinio išvykimo. Jeigu atvykimo laikas yra nenurodytas, neįgalusis arba ribotos judėsenos asmuo į nustatytą vietą privalo atvykti ne vėliau kaip likus 30 minučių iki tvarkaraštyje paskelbto keleivinio traukinio išvykimo laiko.
+4. Geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas), gavę pranešimą apie būtiną pagalbą neįgaliajam arba ribotos judėsenos asmeniui, praneša jam, į kurią vietą ir kokiu laiku jis turi atvykti. Nurodytas atvykimo laikas negali būti ankstesnis negu viena valanda iki tvarkaraštyje paskelbto keleivinio traukinio išvykimo. Jeigu atvykimo laikas yra nenurodytas, neįgalusis arba ribotos judėsenos asmuo į nustatytą vietą privalo atvykti ne vėliau kaip likus 30 minučių iki tvarkaraštyje paskelbto keleivinio traukinio išvykimo laiko.
 
 
-Pastaba. 331 straipsnis galioja iki 2014 m. gruodžio 3 d.
+TAR pastaba. 331 straipsnis galioja iki 2019 m. gruodžio 3 d. (Įstatymas Nr. XII-1623)
 Kodeksas papildytas straipsniu:
 Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
+Straipsnio pakeitimai:
+Nr. XII-1623, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06524
  
 
 
@@ -2691,7 +2698,18 @@ priedas
 
 
 6. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
-Pastaba. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 13, 21, 22, 23, 24 straipsnių nuostatos yra taikomos nuo 2014 m. gruodžio 3 d. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamentas (EB) Nr. 1371/2007 taikomas nuo 2014 m. gruodžio 3 d.
+TAR pastaba. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 13, 21, 22, 23, 24 straipsnių nuostatos netaikomos iki 2019 m. gruodžio 3 d. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamento (EB) Nr. 1371/2007 nuostatos netaikomos iki 2019 m. gruodžio 3 d.
+Punkto pakeitimai:
+Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
+ 
+
+
+
+
+7. 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (OL 2010 L 276, p. 22) su paskutiniais pakeitimais, padarytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1316/2013 (OL 2013 L 348, p. 129).
+Papildyta punktu:
+Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
+ 
 
 
 Priedo pakeitimai:
@@ -2748,3 +2766,18 @@ Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigalioji
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1555, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04088
 Lietuvos Respublikos geležinkelių transporto kodekso 10-1 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
+Lietuvos Respublikos geležinkelių transporto kodekso 3, 29 straipsnių ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
+Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 20 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1623, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06524
+Lietuvos Respublikos geležinkelių transporto kodekso papildymo 33-1 straipsniu įstatymas
