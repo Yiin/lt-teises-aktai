@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
  
@@ -53,6 +53,14 @@ Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
+1. Neteko galios nuo 2015-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
+
+
+
+
 2. Uosto žemė – Lietuvos Respublikos Vyriausybės nustatytų ribų žemės plotas su jame esančia uosto infrastruktūra.
 
 
@@ -68,7 +76,23 @@ Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
 
 
 
+5. Neteko galios nuo 2015-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
+
+
+
+
 6. Uosto rinkliava – laivų savininkų (valdytojų) mokamos privalomosios įmokos už naudojimąsi uostu.
+
+
+
+
+7. Neteko galios nuo 2015-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
 
 
 
@@ -144,6 +168,14 @@ Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
 
 
 22. Valstybinį statusą turintis laivas – laivas, priklausantis kuriai nors valstybei arba tos valstybės naudojamas ir atliekantis tik nekomercinę valstybinę tarnybą.
+
+
+
+
+23. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
 
 
 Straipsnio pakeitimai:
@@ -277,7 +309,10 @@ Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 
 
 
-2. Uosto naudojimo, Uosto laivybos taisykles Uosto direkcijos teikimu tvirtina Susisiekimo ministerija, nustatyta tvarka suderinusi jas su suinteresuotomis institucijomis. Šios taisyklės yra privalomos visiems uosto naudotojams.
+2. Klaipėdos valstybinio jūrų uosto naudojimo taisykles ir Klaipėdos valstybinio jūrų uosto laivybos taisykles Uosto direkcijos teikimu tvirtina susisiekimo ministras. Šios taisyklės yra privalomos visiems uoste esantiems, dirbantiems ar veiklą vykdantiems fiziniams ir juridiniams asmenims, organizacijoms ir jų padaliniams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
 
 
 
@@ -495,7 +530,10 @@ Nr. XI-715, 2010-03-30, Žin., 2010, Nr. 41-1940 (2010-04-10)
 
 
 
-4. Jeigu yra nesumokėtos uosto rinkliavos ir baudos, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, uosto kapitonas turi teisę neleisti laivui išplaukti iš uosto, iki bus sumokėtos uosto rinkliavos ar atlyginta padaryta žala arba iki minėtų prievolių įvykdymas bus užtikrintas Lietuvos Respublikos įstatymų nustatytais būdais.
+4. Uosto kapitonas neleidžia laivui išplaukti iš uosto, jeigu laivybos bendrovė nesumokėjo tam laivui apskaičiuotų uosto rinkliavų ir baudų, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, laivybos bendrovė nepadengė išlaidų, kurias Uosto direkcija patyrė organizuodama laivo ar krovinio gelbėjimo darbus ir taršos iš laivų prevencijos ar likvidavimo darbus, arba nepateikė prievolių įvykdymo užtikrinimo Lietuvos Respublikos įstatymų nustatytais būdais. Kai laivybos bendrovė sumoka uosto rinkliavas, baudas ir padengia uostą valdančios įmonės išlaidas arba pateikia prievolių įvykdymo užtikrinimą Lietuvos Respublikos įstatymų nustatytais būdais, uosto kapitonas leidžia laivui išplaukti iš uosto. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -989,6 +1027,24 @@ Nr. X-1563, 2008-06-03, Žin., 2008, Nr. 68-2566 (2008-06-14)
  
 
 
+
+
+
+
+311 straipsnis. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) apsaugos vertinimas
+
+
+1. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos vertinimo tikslas – patvirtinti, kad uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos sistema atitinka Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso ir Europos Sąjungos teisės aktų reikalavimus.
+
+
+
+
+2. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos reikalavimus įgyvendina ir tikrina atsakingos institucijos pagal Lietuvos Respublikos Vyriausybės nustatytas funkcijas ir tvarką.
+
+
+Papildyta straipsniu:
+Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+ 
 
 
 
