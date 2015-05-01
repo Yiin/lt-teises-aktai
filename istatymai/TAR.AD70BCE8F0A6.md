@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD70BCE8F0A6"
 
 # Lietuvos Respublikos asmens ir turto apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 116-4317, i. k. 1041010ISTA0IX-2327
- 
  
 LIETUVOS RESPUBLIKOS
 ASMENS IR TURTO SAUGOS
@@ -35,10 +34,22 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja privačių juridinių asmenų, užsienio juridinių asmenų filialų ir valstybės bei savivaldybių įmonių vykdomą ginkluotą ir neginkluotą asmens ir turto saugą, ją vykdančių apsaugos darbuotojų teises bei pareigas, fizinės prievartos, specialiųjų priemonių bei šaunamųjų ginklų panaudojimo teisėtumo sąlygas, asmens ir turto saugos pagrindines licencijavimo nuostatas ir šios veiklos valstybinę priežiūrą. 
+1. Šis įstatymas reglamentuoja juridinių asmenų, kitų organizacijų bei jų padalinių ir valstybės bei savivaldybių įmonių vykdomą ginkluotą ir neginkluotą asmens ir turto saugą, tarpvalstybinį grynųjų pinigų vežimą kelių transportu, apsaugos darbuotojų teises bei pareigas, fizinės prievartos, specialiųjų priemonių bei šaunamųjų ginklų panaudojimo teisėtumo sąlygas, pagrindines asmens ir turto saugos bei tarpvalstybinio grynųjų pinigų vežimo kelių transportu licencijavimo nuostatas ir asmens ir turto saugos valstybinę priežiūrą.
+
+
+
+
+2. Šis įstatymas netaikomas specialaus statuso subjektų, nurodytų Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, vykdomai asmens ir turto saugai.
+
+
+
+
+3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
  
-
-
 
 
 
@@ -46,7 +57,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Asmens ir turto sauga – saugos tarnybų ir saugos padalinių vykdoma ginkluota ar neginkluota asmens ir turto sauga, kuria siekiama apsaugoti fizinius ir juridinius asmenis, užsienio juridinių asmenų filialus nuo neteisėto kėsinimosi į jiems priklausantį turtą, asmens gyvybę ir sveikatą.
+1. Asmens ir turto sauga – saugos tarnybų ir saugos padalinių vykdoma ginkluota ar neginkluota asmens ir turto sauga, kuria siekiama apsaugoti fizinius ir juridinius asmenis, kitas organizacijas ir jų padalinius nuo neteisėto kėsinimosi į jiems priklausantį turtą, asmens gyvybę ir sveikatą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -71,7 +85,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Klientas – fizinis ar juridinis asmuo, sudaręs sutartį su saugos tarnyba dėl asmens ir turto saugos paslaugų teikimo. 
+6. Klientas – fizinis ar juridinis asmuo, kita organizacija ar jos padalinys, sudaręs sutartį su saugos tarnyba dėl asmens ir turto saugos paslaugų teikimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -81,7 +98,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Leidimų režimas – patekimo į saugomą objektą ir išvykimo iš jo, taip pat buvimo saugomame objekte kontrolės tvarka, nustatyta juridinio asmens ar užsienio juridinio asmens filialo, valdančių saugomą objektą, teisės aktuose, pasireiškianti darbuotojų pažymėjimų ar kitų dokumentų, patvirtinančių asmens tapatybę ar kitą reikalaujamą informaciją, ir su savimi turimų daiktų, transporto priemonėse esančių krovinių bei su jais susijusių dokumentų patikrinimu.
+8. Leidimų režimas – patekimo į saugomą objektą ir išvykimo iš jo, taip pat buvimo saugomame objekte kontrolės tvarka, nustatyta juridinio asmens, kitos organizacijos ar jos padalinio, valdančių saugomą objektą, teisės aktuose, pasireiškianti darbuotojų pažymėjimų ar kitų dokumentų, patvirtinančių asmens tapatybę ar kitą reikalaujamą informaciją, ir su savimi turimų daiktų, transporto priemonėse esančių krovinių bei su jais susijusių dokumentų patikrinimu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -112,7 +132,9 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 
 
 
-13. Saugos padalinys – juridinio asmens ar užsienio juridinio asmens filialo padalinys, dėl kurio veiklos juridinis asmuo ar užsienio juridinio asmens filialas nustatyta tvarka yra gavęs licenciją vykdyti tik tą padalinį įkūrusio juridinio asmens ar užsienio juridinio asmens filialo ginkluotą asmens ir turto saugą.
+13. Saugos padalinys – juridinio asmens, kitos organizacijos ar jos padalinio padalinys, turintis teisę vykdyti tik jį įsteigusių juridinio asmens, kitos organizacijos ar jos padalinio asmens ir turto saugą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
  
@@ -120,7 +142,9 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 
 
 
-14. Saugomas subjektas – klientas (fizinis asmuo), juridinio asmens ar užsienio juridinio asmens filialo darbuotojas, lankytojas, kitas fizinis asmuo, kurių gyvybė ir sveikata yra saugoma pagal saugos tarnybos ir kliento sudarytas sutartis bei saugos padalinio veiklą reglamentuojančius teisės aktus.
+14. Saugomas subjektas – klientas (fizinis asmuo), juridinio asmens, kitos organizacijos ar jos padalinio darbuotojas, lankytojas, kitas fizinis asmuo, kurių gyvybė ir sveikata yra saugoma pagal saugos tarnybos ir kliento sudarytas sutartis bei saugos padalinio veiklą reglamentuojančius teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
  
@@ -128,7 +152,9 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 
 
 
-15. Saugos tarnyba – juridinis asmuo ar užsienio juridinio asmens filialas, nustatyta tvarka gavęs licenciją teikti asmens ir turto saugos paslaugas.
+15. Saugos tarnyba – juridinis asmuo, kita organizacija ar jos padalinys, nustatyta tvarka gavę licenciją teikti asmens ir turto saugos paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
  
@@ -147,6 +173,14 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 17. Specialiosios priemonės – aktyvios gynybos prievartos priemonės (antrankiai, guminės lazdos, savigynai skirti įtaisai, aerozoliniai įrenginiai ir įtaisai, elektrošoko įrenginiai, tarnybiniai šunys), kuriomis siekiama apginti saugomą subjektą ir objektą ar apsiginti apsaugos darbuotojui nuo neteisėto kėsinimosi, taip pat sulaikyti įtariamą teisės pažeidėją.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
+ 
+
+
+
+
+18. Kitos šiame įstatyme vartojamos sąvokos atitinka sąvokas, apibrėžtas Reglamente (ES) Nr. 1214/2011 ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
  
 
 
@@ -191,12 +225,18 @@ ASMENS IR TURTO SAUGA
 
 
 
-2. Juridinis asmuo ar užsienio juridinio asmens filialas gali įkurti saugos padalinius asmens ir turto saugai vykdyti. Saugos padalinys neturi juridinio asmens teisių. Saugos padalinys neturi teisės teikti asmens ir turto saugos paslaugas kitiems asmenims. 
+2. Juridinis asmuo, kita organizacija ar jos padalinys gali įkurti saugos padalinius asmens ir turto saugai vykdyti. Saugos padalinys neturi juridinio asmens teisių. Saugos padalinys neturi teisės teikti asmens ir turto saugos paslaugas kitiems asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
 
-3. Apie viešosios tvarkos palaikymą viešuose masiniuose renginiuose, vykstančiuose masinio susibūrimo vietose (stadionuose, aikštėse, parkuose ir pan.), ginkluotos ir neginkluotos asmens ir turto saugos licencijavimo taisyklėse nustatyta tvarka turi būti iš anksto informuota policija ir suderinti bendri veiksmai užtikrinant viešąją tvarką renginyje.
+3. Apie viešosios tvarkos palaikymą viešuose masiniuose renginiuose, vykstančiuose masinio susibūrimo vietose (stadionuose, aikštėse, parkuose ir pan.), ginkluotos ir neginkluotos asmens ir turto saugos bei tarpvalstybinio grynųjų pinigų vežimo kelių transportu licencijavimo taisyklėse nustatyta tvarka turi būti iš anksto informuota policija ir suderinti bendri veiksmai užtikrinant viešąją tvarką renginyje.
+Straipsnio dalies pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -266,7 +306,10 @@ Nr. XI-2236, 2012-10-02, Žin. 2012, Nr. 122-6095 (2012-10-20), i. k. 1121010IST
 
 
 
-8) buvęs saugos tarnybos, juridinio asmens ar užsienio juridinio asmens filialo, kuriame yra saugos padalinys, saugos vadovas, kontroliuojantis asmuo, jeigu nuo jų licencijos panaikinimo už licencijuojamos veiklos pažeidimus nėra praėję 3 metai;
+8) buvęs saugos tarnybos, juridinio asmens, kitos organizacijos ar jos padalinio, kuriuose yra saugos padalinys, saugos vadovas, kontroliuojantis asmuo, jeigu nuo jų licencijos panaikinimo už licencijuojamos veiklos pažeidimus nėra praėję 3 metai;
+Straipsnio punkto pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -353,7 +396,10 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 
 
 
-7) kliento, juridinio asmens ar užsienio juridinio asmens filialo, kuriame yra saugos padalinys, valdymo organo rašytiniu pavedimu neįleisti į saugomą objektą kitų asmenų, išskyrus pareigūnus ir kitus asmenis, kuriems tokią teisę suteikia įstatymai;
+7) kliento, juridinio asmens, kitos organizacijos ar jos padalinio, kuriuose yra saugos padalinys, valdymo organo rašytiniu pavedimu neįleisti į saugomą objektą kitų asmenų, išskyrus pareigūnus ir kitus asmenis, kuriems tokią teisę suteikia įstatymai;
+Straipsnio punkto pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -441,14 +487,17 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 
 
 TREČIASIS SKIRSNIS
-ASMENS IR TURTO SAUGOS LICENCIJAVIMO PAGRINDAI
+ASMENS IR TURTO SAUGOS BEI TARPVALSTYBINIO GRYNŲJŲ PINIGŲ VEŽIMO KELIŲ TRANSPORTU LICENCIJAVIMO PAGRINDAI 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
  
 
 
-9 straipsnis. Bendrosios asmens ir turto saugos licencijavimo nuostatos
+9 straipsnis. Bendrosios licencijavimo nuostatos
 
 
-1. Licencijuojama ginkluota asmens ir turto sauga, taip pat neginkluota asmens ir turto sauga, jei ji kaip paslauga teikiama klientams. 
+1. Licencijuojama ginkluota asmens ir turto sauga, neginkluota asmens ir turto sauga, jei ji kaip paslauga teikiama klientams, taip pat tarpvalstybinis grynųjų pinigų vežimas. 
 
 
 
@@ -461,7 +510,12 @@ ASMENS IR TURTO SAUGOS LICENCIJAVIMO PAGRINDAI
 
 
 
-2) licencija neginkluotai asmens ir turto saugai.
+2) licencija neginkluotai asmens ir turto saugai;
+
+
+
+
+3) tarpvalstybinio grynųjų pinigų vežimo licencija.
 
 
 
@@ -473,30 +527,55 @@ ASMENS IR TURTO SAUGOS LICENCIJAVIMO PAGRINDAI
 
 
 
-4. Užsienio saugos tarnyba ar kitas subjektas, turintis licenciją verstis asmens ir turto sauga kitose ES bei EEE valstybėse narėse ir nepageidaujantis įgyti licencijos, suteikiančios teisę verstis asmens ir turto sauga Lietuvos Respublikoje, tačiau siekiantis vykdyti į Lietuvos Respubliką atvykstančių ir iš jos išvykstančių asmenų gyvybės, sveikatos ir turto saugą, trunkančią ne ilgiau kaip 3 mėnesius per kalendorinius metus, licencijos šio įstatymo nustatyta tvarka gauti neprivalo. Tokiu atveju privaloma iš anksto pateikti Vyriausybės įgaliotai institucijai ginkluotos ir neginkluotos asmens ir turto saugos licencijavimo taisyklėse nurodytą informaciją apie ketinamą Lietuvos Respublikoje vykdyti asmens ir turto saugą. 
+4. Tarpvalstybinio grynųjų pinigų vežimo licencijos turėtojui leidžiama vykdyti tarpvalstybinį grynųjų pinigų vežimą kelių transportu iš vienos dalyvaujančiosios valstybės narės į kitą Reglamento (ES) Nr. 1214/2011 nustatytomis sąlygomis.
 
 
 
 
-5. Užsienio valstybių fizinių asmenų, turinčių licencijas verstis asmens ir turto sauga kitose ES bei EEE valstybėse narėse, veikla Lietuvos Respublikoje nedraudžiama, jei ji yra susijusi su į Lietuvos Respubliką atvykstančių ir iš jos išvykstančių asmenų gyvybės, sveikatos ir turto sauga, trunkančia ne ilgiau kaip 3 mėnesius per kalendorinius metus. Šiems asmenims taip pat taikomi šio straipsnio 4 dalyje nustatyti reikalavimai dėl išankstinio informacijos pateikimo.
+5. Užsienio saugos tarnyba ar kitas subjektas, turintis licenciją verstis asmens ir turto sauga kitose ES bei EEE valstybėse narėse ir nepageidaujantis įgyti licencijos, suteikiančios teisę verstis asmens ir turto sauga Lietuvos Respublikoje, tačiau siekiantis vykdyti į Lietuvos Respubliką atvykstančių ir iš jos išvykstančių asmenų gyvybės, sveikatos ir turto saugą, trunkančią ne ilgiau kaip 3 mėnesius per kalendorinius metus, licencijos šio įstatymo nustatyta tvarka gauti neprivalo. Tokiu atveju privaloma iš anksto pateikti Vyriausybės įgaliotai institucijai ginkluotos ir neginkluotos asmens ir turto saugos bei tarpvalstybinio grynųjų pinigų vežimo kelių transportu licencijavimo taisyklėse nurodytą informaciją apie ketinamą Lietuvos Respublikoje vykdyti asmens ir turto saugą. 
 
 
 
 
-6. Vyriausybės įgaliota institucija gali uždrausti šio straipsnio 4 ir 5 dalyse nustatytą asmens ir turto saugą, jei ji keltų grėsmę visuomenės saugumui ar viešajai tvarkai. 
+6. Užsienio valstybių fizinių asmenų, turinčių licencijas verstis asmens ir turto sauga kitose ES bei EEE valstybėse narėse, veikla Lietuvos Respublikoje nedraudžiama, jei ji yra susijusi su į Lietuvos Respubliką atvykstančių ir iš jos išvykstančių asmenų gyvybės, sveikatos ir turto sauga, trunkančia ne ilgiau kaip 3 mėnesius per kalendorinius metus. Šiems asmenims taip pat taikomi šio straipsnio 5 dalyje nustatyti reikalavimai dėl išankstinio informacijos pateikimo.
 
 
 
 
-7. Sprendimas išduoti licenciją ar sprendimas atsisakyti išduoti licenciją priimamas per 60 kalendorinių dienų nuo būtinų dokumentų pateikimo dienos.
+7. Vyriausybės įgaliota institucija gali uždrausti šio straipsnio 5 ir 6 dalyse nustatytą asmens ir turto saugą, jei ji keltų grėsmę visuomenės saugumui ar viešajai tvarkai. 
 
 
 
 
-8. Ginkluotos ir neginkluotos asmens ir turto saugos licencijavimo taisykles tvirtina Vyriausybė. 
+8. Sprendimas išduoti šio straipsnio 2 dalies 1 ir 2 punktuose nurodytą licenciją ar sprendimas atsisakyti išduoti licenciją priimamas per 60 kalendorinių dienų nuo būtinų dokumentų pateikimo dienos.
+
+
+
+
+9. Ginkluotos ir neginkluotos asmens ir turto saugos bei tarpvalstybinio grynųjų pinigų vežimo kelių transportu licencijavimo taisykles tvirtina Vyriausybė. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
  
 
 
+
+
+91 straipsnis. Tarpvalstybinis grynųjų pinigų vežimas kelių transportu 
+
+
+1. Tarpvalstybinio grynųjų pinigų vežimo licencijos, išduotos Reglamento (ES) Nr. 1214/2011 nustatytomis sąlygomis, turėtojas ne vėliau kaip prieš 10 darbo dienų iki planuojamos vykdyti tarpvalstybinio grynųjų pinigų vežimo operacijos pateikia Vyriausybės įgaliotai institucijai Reglamento (ES) Nr. 1214/2011 12 straipsnio 2 dalyje nurodytą informaciją apie ketinamą vykdyti grynųjų pinigų vežimą Lietuvos Respublikoje. 
+
+
+
+
+2. Užsienio valstybių, kurios yra ES narės ir kurių valiuta yra euras, grynųjų pinigų vežimo apsaugos darbuotojams išduotos profesinės licencijos ar profesiniai leidimai nešiotis ginklą pripažįstami Lietuvos Respublikoje.
+
+
+Papildyta straipsniu:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
 
@@ -545,9 +624,10 @@ Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
  
 
 
-1. Saugos tarnyba ir juridinis asmuo ar užsienio juridinio asmens filialas, kuriame yra saugos padalinys, privalo užtikrinti tokią apsaugos darbuotojų ir apsaugos darbuotojų stažuotojų profesinę kvalifikaciją, kad jie galėtų tinkamai įgyvendinti jiems suteiktas teises ir pareigas.
+1. Saugos tarnyba ir juridinis asmuo, kita organizacija ar jos padalinys, kuriuose yra saugos padalinys, privalo užtikrinti tokią apsaugos darbuotojų ir apsaugos darbuotojų stažuotojų profesinę kvalifikaciją, kad jie galėtų tinkamai įgyvendinti jiems suteiktas teises ir pareigas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
  
 
 
@@ -765,10 +845,12 @@ BAIGIAMOSIOS NUOSTATOS
 18 straipsnis. Asmens ir turto saugos priežiūra
 
 
-Asmens ir turto saugos priežiūrą šio įstatymo, ginkluotos ir neginkluotos asmens ir turto saugos licencijavimo taisyklių nustatyta tvarka atlieka Vyriausybės įgaliota institucija. Ši institucija turi teisę gauti iš saugos tarnybų ir saugos padalinių informaciją, susijusią su licencijos sąlygų laikymosi priežiūra. 
+Asmens ir turto saugos priežiūrą šiame įstatyme, ginkluotos ir neginkluotos asmens ir turto saugos bei tarpvalstybinio grynųjų pinigų vežimo kelių transportu licencijavimo taisyklėse nustatyta tvarka atlieka Vyriausybės įgaliota institucija. Ši institucija turi teisę gauti iš saugos tarnybų ir saugos padalinių informaciją, susijusią su licencijos sąlygų laikymosi priežiūra. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
  
-
-
 
 
 
@@ -815,8 +897,6 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 
 2. Vyriausybė iki 2005 m. sausio 1 d. priima arba įgalioja institucijas priimti šiam įstatymui įgyvendinti reikalingus teisės aktus.
  
- 
- 
 
 
 
@@ -828,6 +908,31 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+
+
+Lietuvos Respublikos
+asmens ir turto saugos įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1214/2011 dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą (OL 2011 L 316, p. 1).
+
+
+
+
+2. 2012 m. gruodžio 17 d. Tarybos reglamentas (ES) Nr. 55/2013 dėl Europos Parlamento ir Tarybos reglamento (ES) Nr. 1214/2011 dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą taikymo srities išplėtimo (OL 2013 L 21, p. 1).
+
+
+Papildyta priedu:
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+ 
 
 
  
@@ -848,3 +953,8 @@ Lietuvos Respublikos asmens ir turto saugos įstatymo 6 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1235, 2014-10-16, paskelbta TAR 2014-10-30, i. k. 2014-15177
 Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 2, 6, 7, 8, 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1553, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04837
+Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 1, 2, 5, 6, 7, 9, 11, 18 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu ir priedu įstatymas
