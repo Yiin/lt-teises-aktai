@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-04-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-05-18
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -13170,7 +13170,10 @@ Nr. IX-1637, 2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
 
 
 
-3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 148, 152 ir 165 straipsniuose numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas. Dėl šių veikų privaloma pradėti baudžiamąjį procesą bendra tvarka.
+3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio 1 dalyje, 148, 152 ir 165 straipsniuose numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas. Dėl šių veikų privaloma pradėti baudžiamąjį procesą bendra tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1650, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06589
+ 
 
 
 
@@ -15109,3 +15112,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 71 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 Lietuvos Respublikos baudžiamojo proceso kodekso 1, 73, 121, 122, 342 straipsnių ir priedo pakeitimo ir Kodekso papildymo 365-5 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1650, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06589
+Lietuvos Respublikos baudžiamojo proceso kodekso 409 straipsnio pakeitimo įstatymas
