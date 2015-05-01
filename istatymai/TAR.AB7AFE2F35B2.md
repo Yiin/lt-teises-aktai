@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -125,7 +125,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-12) įmonėms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą, kurią sudaro tik sandorių savo sąskaita sudarymas finansinių ateities, pasirinkimo arba kitų išvestinių priemonių ir pinigų rinkose siekiant vienintelio tikslo – apdrausti savo pozicijas išvestinių finansinių priemonių rinkose, taip pat įmonėms, kurios sudaro sandorius kitų šiame punkte nurodytų rinkų dalyvių sąskaita arba veikdamos jų interesais formuoja kainas, o už jas garantuoja tų pačių rinkų tarpuskaitos sistemų nariai, prisiimdami atsakomybę už tokių įmonių sudarytus sandorius;
+12) įmonėms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą, kurią sudaro tik sandorių savo sąskaita sudarymas finansinių ateities, pasirinkimo arba kitų išvestinių priemonių ir pinigų rinkose siekiant vienintelio tikslo – apdrausti savo pozicijas išvestinių finansinių priemonių rinkose, taip pat įmonėms, kurios sudaro sandorius kitų šiame punkte nurodytų rinkų dalyvių sąskaita arba veikdamos jų interesais formuoja kainas, o už jas garantuoja tų pačių rinkų tarpuskaitos sistemų nariai, prisiimdami atsakomybę už tokių įmonių sudarytus sandorius, išskyrus šio įstatymo 121 straipsnio 8 dalyje nustatytus reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -606,6 +609,14 @@ BENDROSIOS NUOSTATOS
 48. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija.
 
 
+
+
+49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme ir 2013 m. birželio 26 d. Europos Parlamento ir Tarybos Reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013).
+Papildyta straipsnio dalimi:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
  
@@ -840,7 +851,10 @@ Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
 
 
 
-11) įmonė netenkina priežiūros institucijos nustatytų kapitalo reikalavimų;
+11) įmonė netenkina šiame įstatyme, Reglamente (ES) Nr. 575/2013 ir kituose teisės aktuose nustatytų kapitalo ir (arba) kitų riziką ribojančių reikalavimų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -1119,13 +1133,141 @@ Priežiūros institucija turi teisę panaikinti jos išduotos finansų maklerio 
 
 
 
-12 straipsnis. Kapitalo reikalavimai 
+12 straipsnis. Kapitalo ir kiti riziką ribojantys reikalavimai 
 
 
-Įmonė, siekianti gauti finansų maklerio įmonės licenciją, privalo tenkinti kapitalo reikalavimus. Kapitalo reikalavimus nustato priežiūros institucija.
+Įmonė, siekianti gauti finansų maklerio įmonės licenciją, privalo tenkinti šiame įstatyme ir Reglamente (ES) Nr. 575/2013 finansų maklerio įmonėms nustatytus kapitalo ir kitus riziką ribojančius reikalavimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
  
 
 
+
+
+121 straipsnis. Pradinio kapitalo reikalavimai 
+
+
+1. Finansų maklerio įmonės pradinį kapitalą sudaro vieno ar daugiau Reglamento (ES) Nr. 575/2013 26 straipsnio 1 dalies a–e punktuose nustatytų nuosavo kapitalo dalių suma. 
+
+
+
+
+2. Finansų maklerio įmonių, išskyrus nurodytas šio straipsnio 3, 4 ir 6 dalyse, pradinis kapitalas turi būti ne mažesnis kaip 730 tūkstančių eurų.
+
+
+
+
+3. Finansų maklerio įmonių, kurios neturi teisės teikti šio įstatymo 3 straipsnio 13 dalies 3 arba 6 punkte nurodytų investicinių paslaugų, bet saugo klientų pinigus arba finansines priemones ir teikia vieną arba kelias šio įstatymo 3 straipsnio 13 dalies 1, 2 ir 4 punktuose nurodytas investicines paslaugas, pradinis kapitalas turi būti ne mažesnis kaip 125 tūkstančiai eurų.
+
+
+
+
+4. Finansų maklerio įmonių, kurios neturi teisės teikti šio įstatymo 3 straipsnio 13 dalies 3 arba 6 punktuose nurodytų investicinių paslaugų, taip pat saugoti klientų pinigų ar finansinių priemonių, pradinis kapitalas turi būti ne mažesnis kaip 50 tūkstančių eurų.
+
+
+
+
+5. Pagal šio straipsnio 3 ir 4 dalis nustatant pradinio kapitalo dydį, finansinių priemonių pozicijų turėjimas, siekiant investuoti nuosavas lėšas, nelaikomas šio įstatymo 3 straipsnio 13 dalies 3 punkte nurodyta investicine paslauga.
+
+
+
+
+6. Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 2 punkto c papunktyje nurodytos finansų maklerio įmonės turi tenkinti vieną iš šių reikalavimų: 
+
+
+1) turėti 50 tūkstančių eurų pradinį kapitalą; 
+
+
+
+
+2) turėti profesinės civilinės atsakomybės draudimą, galiojantį visą jų veiklos laikotarpį visoje Europos Sąjungos teritorijoje, ar kitą panašią atsakomybės už žalą apsaugą, siekiančią bent vieną milijoną eurų vienam draudžiamajam įvykiui ir 1,5 milijono eurų visiems draudžiamiesiems įvykiams per metus;
+
+
+
+
+3) turėti pradinio kapitalo ir profesinės civilinės atsakomybės draudimo derinį, atitinkantį šios dalies 1 arba 2 punkte nurodytos apsaugos lygį.
+
+
+
+
+
+
+7. Jei Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 2 punkto c papunktyje nurodyta įmonė taip pat vykdo draudimo ir perdraudimo tarpininkavimo veiklą Lietuvos Respublikos draudimo įstatymo nustatyta tvarka, ji, be šiai veiklai Lietuvos Respublikos draudimo įstatyme nustatytų reikalavimų, papildomai turi tenkinti vieną iš šių reikalavimų: 
+
+
+1) turėti 25 tūkstančių eurų pradinį kapitalą; 
+
+
+
+
+2) turėti profesinės civilinės atsakomybės draudimą, galiojantį visą jos veiklos laikotarpį visoje Europos Sąjungos teritorijoje, ar kitą panašią atsakomybės už žalą apsaugą, siekiančią mažiausiai 500 tūkstančių eurų vienam draudžiamajam įvykiui ir 750 tūkstančių eurų visiems draudžiamiesiems įvykiams per metus;
+
+
+
+
+3) turėti pradinio kapitalo ir profesinės civilinės atsakomybės draudimo derinį, atitinkantį 1 arba 2 punkte nurodytos apsaugos lygį.
+
+
+
+
+
+
+8. Šio įstatymo 2 straipsnio 4 dalies 12 punkte nurodytos įmonės turi turėti 50 tūkstančių eurų pradinį kapitalą, jeigu jos teikia investicines paslaugas kitose Europos Sąjungos valstybėse narėse per įsteigtą filialą arba jo neįsteigusios.
+
+
+Papildyta straipsniu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
+
+
+
+
+122 straipsnis. Kapitalo rezervai
+
+
+1. Finansų maklerio įmonės, kurios turi teisę teikti šio įstatymo 3 straipsnio 13 dalies 3 ir 6 punktuose nurodytas investicines paslaugas, apskaičiuoja ir sudaro šiuos kapitalo rezervus:
+
+
+1) kapitalo apsaugos;
+
+
+
+
+2) specialųjį anticiklinį;
+
+
+
+
+3) pasaulinės sisteminės svarbos įstaigų;
+
+
+
+
+4) kitos sisteminės svarbos įstaigų;
+
+
+
+
+5) sisteminės rizikos. 
+
+
+
+
+
+
+2. Kapitalo rezervų dydžiai, jų apskaičiavimo metodika nustatomi vadovaujantis Reglamentu (ES) Nr. 575/2013 ir priežiūros institucijos teisės aktais.
+
+
+
+
+3. Paskirstymui iš kapitalo rezervų taikomi priežiūros institucijos vadovaujantis Europos Sąjungos teisės aktais nustatyti apribojimai.
+
+
+Papildyta straipsniu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -1133,7 +1275,10 @@ Priežiūros institucija turi teisę panaikinti jos išduotos finansų maklerio 
 13 straipsnis. Organizaciniai reikalavimai
 
 
-1. Finansų maklerio įmonė privalo turėti tinkamą veiklos organizavimo politiką ir procedūras, kurios užtikrintų, kad finansų maklerio įmonė, jos vadovai, darbuotojai ir agentai laikytųsi šiame įstatyme nustatytų reikalavimų, ir taisykles, reglamentuojančias finansų maklerio įmonės vadovų, darbuotojų ir agentų sandorių sudarymą savo sąskaita. 
+1. Finansų maklerio įmonė privalo turėti tinkamą veiklos organizavimo, atlygio nustatymo politiką ir procedūras, kurios užtikrintų, kad finansų maklerio įmonė, jos vadovai, darbuotojai ir agentai laikytųsi šiame įstatyme ir kituose finansų maklerio įmonių veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų, ir taisykles, reglamentuojančias finansų maklerio įmonės vadovų, darbuotojų ir agentų sandorių sudarymą savo sąskaita. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -1745,6 +1890,19 @@ ANTRASIS SKIRSNIS FINANSŲ MAKLERIO ĮMONIŲ VEIKLAI KELIAMI REIKALAVIMAI
  
 
 
+
+
+
+
+251 straipsnis. Pranešimas apie pažeidimus finansų maklerio įmonėje
+
+
+Finansų maklerio įmonė turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jos darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės vadovams ar kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų ar Reglamento (ES) Nr. 575/2013 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi šio įstatymo 731 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai. 
+
+
+Papildyta straipsniu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -3739,15 +3897,19 @@ Finansinių priemonių rinkos priežiūros tikslai:
 
 
 
-5) atlieka kompetentingai institucijai priskirtas funkcijas, nustatytas 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 (toliau – Reglamentas (ES) Nr. 648/2012);
+5) atlieka kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (EB) Nr. 1060/2009, 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 (toliau – Reglamentas (ES) Nr. 648/2012) ir Reglamente (ES) Nr. 575/2013; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
  
 
 
 
 
-6) taiko šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas sankcijas asmenims, pažeidusiems šį įstatymą, Reglamentą (ES) Nr. 648/2012 ir priežiūros institucijos nutarimus;
+6) taiko šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas sankcijas asmenims, pažeidusiems šį įstatymą, Reglamentą (ES) Nr. 648/2012, Reglamentą (ES) Nr. 575/2013 ir priežiūros institucijos teisės aktus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -3794,12 +3956,26 @@ Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 
 
 
-3. Nepažeisdama šio ir kitų įstatymų nuostatų, priežiūros institucija, įgyvendindama jai nustatytus uždavinius ir pavestas funkcijas, atsižvelgia į priežiūros priemonių ir praktikos taikant įstatymus ir kitus teisės aktus, priimtus įgyvendinant Europos Sąjungos teisės aktus, konvergenciją.
+3. Nepažeisdama šio ir kitų įstatymų nuostatų, priežiūros institucija, įgyvendindama jai nustatytus uždavinius ir pavestas funkcijas, atsižvelgia į priežiūros priemonių ir praktikos taikant įstatymus ir kitus teisės aktus, priimtus įgyvendinant Europos Sąjungos teisės aktus, konvergenciją. Tuo tikslu priežiūros institucija dalyvauja Europos bankininkystės institucijos ir priežiūros institucijų kolegijų veikloje, vadovaujasi Europos bankininkystės institucijos patvirtintomis gairėmis ir rekomendacijomis arba pateikia suinteresuotiems asmenims motyvus, dėl kurių jomis nesivadovauja, taip pat bendradarbiauja su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir Europos sisteminės rizikos valdyba ir vadovaujasi šios valdybos paskelbtomis rekomendacijomis ir įspėjimais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
 
-4. Priežiūros institucijos veiksmai ar neveikimas gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+4. Atlikdama priežiūros funkcijas, priežiūros institucija, remdamasi atitinkamu laikotarpiu turima informacija, deramai atsižvelgia, ypač kritinėmis situacijomis, į savo sprendimų galimą poveikį finansų sistemos stabilumui kitose Europos Sąjungos valstybėse narėse. 
+Papildyta straipsnio dalimi:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
+
+
+
+
+5. Priežiūros institucijos veiksmai ar neveikimas gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 Straipsnio pakeitimai:
@@ -3846,7 +4022,10 @@ Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
 
 
 
-7) kreiptis į teismą dėl uždraudimo atlikti operacijas su turtu arba dėl arešto turtui uždėjimo;
+7) Neteko galios nuo 2015-05-01
+Straipsnio punkto naikinimas:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -3886,7 +4065,15 @@ Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
 
 
 
-15) įpareigoti asmenis atkurti iki pažeidimo buvusią padėtį.
+15) įpareigoti asmenis atkurti iki pažeidimo buvusią padėtį;
+
+
+
+
+16) duoti šio įstatymo 81 straipsnio 6 dalyje nustatytus privalomus nurodymus.
+Papildyta straipsnio punktu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -4005,12 +4192,48 @@ Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
 
 
 
+731 straipsnis. Pranešimas apie pažeidimus
+
+
+Priežiūros institucija nustato priemones, kurios skatintų pranešti jai apie šio įstatymo, jo įgyvendinamųjų teisės aktų ar Reglamento (ES) Nr. 575/2013 nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
+
+
+1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros;
+
+
+
+
+2) užtikrinamas asmens, kuris praneša apie padarytus pažeidimus, konfidencialumas, išskyrus atvejus, kai atskleisti tokią informaciją reikalaujama įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka;
+
+
+
+
+3) asmens duomenys tvarkomi asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka;
+
+
+
+
+4) užtikrinama tinkama darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
+
+
+
+
 
 
 ANTRASIS SKIRSNIS
-PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ PRIEŽIŪROS INSTITUCIJOMIS IR EUROPOS VERTYBINIŲ POPIERIŲ IR RINKŲ INSTITUCIJA
+PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ PRIEŽIŪROS INSTITUCIJOMIS IR EUROPOS SĄJUNGOS INSTITUCIJOMIS 
 Skirsnio pavadinimas keistas:
 Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
  
 
 
@@ -4141,7 +4364,10 @@ Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
 
 
 
-5. Šio įstatymo 73 ir 78 straipsnių bei šio straipsnio nuostatos neužkerta kelio priežiūros institucijai perduoti konfidencialią informaciją Europos vertybinių popierių ir rinkų institucijai, Europos sisteminės rizikos valdybai, Europos centrinių bankų sistemos centriniams bankams ir kitoms analogiškas funkcijas atliekančioms institucijoms, kai ši informacija reikalinga teisės aktuose nustatytoms jų funkcijoms (įskaitant pinigų politikos vykdymą ir likvidumo užtikrinimą, mokėjimo, tarpuskaitos ir atsiskaitymo sistemų priežiūrą ir finansinės sistemos stabilumo užtikrinimą) atlikti, taip pat Lietuvos Respublikos finansų ministerijai ir kitų valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu konfidenciali informacija reikalinga jų funkcijoms atlikti.
+5. Šio įstatymo 73 ir 78 straipsnių bei šio straipsnio nuostatos neužkerta kelio priežiūros institucijai perduoti konfidencialią informaciją Europos vertybinių popierių ir rinkų institucijai, Europos bankininkystės institucijai, Europos sisteminės rizikos valdybai, Europos centrinių bankų sistemos centriniams bankams ir kitoms analogiškas funkcijas atliekančioms institucijoms, kai ši informacija reikalinga teisės aktuose nustatytoms jų funkcijoms (įskaitant pinigų politikos vykdymą ir likvidumo užtikrinimą, mokėjimo, tarpuskaitos ir atsiskaitymo sistemų priežiūrą ir finansinės sistemos stabilumo užtikrinimą) atlikti, taip pat Lietuvos Respublikos finansų ministerijai ir kitų valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu konfidenciali informacija reikalinga jų funkcijoms atlikti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -4332,7 +4558,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-3) įeiti ir atlikti patikrinimą kitų juridinių asmenų, susijusių su galimais pažeidimais, taip pat juridinių asmenų, kurių darbuotojai susiję su galimais pažeidimais, patalpas, peržiūrėti tyrimui reikalingus juridinio asmens dokumentus, gauti jų kopijas ir išrašus, susipažinti su juridinio asmens darbuotojų užrašais, kopijuoti juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją;
+3) įeiti į kitų juridinių asmenų, susijusių su galimais pažeidimais, taip pat juridinių asmenų, kurių darbuotojai susiję su galimais pažeidimais, patalpas ir atlikti patikrinimą, peržiūrėti tyrimui reikalingus juridinio asmens dokumentus, gauti jų kopijas ir išrašus, susipažinti su juridinio asmens darbuotojų užrašais, kopijuoti juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją;
 
 
 
@@ -4364,7 +4590,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-4. Priežiūros institucijai priėmus sprendimą dėl veiksmų, numatytų 71 straipsnio 1 dalies 5 punkte, 81 straipsnio 2 dalies 3 punkte, 81 straipsnio 6 dalies 1 punkte, jos įgaliotas tarnautojas pateikia teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus. Prašymas pateikiamas Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas juridinio asmens pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymą dėl teismo leidimo išdavimo rašytinio proceso tvarka nagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir priimta nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu priežiūros institucija nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, ji turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Priežiūros institucijos atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+4. Kai priežiūros institucija priima sprendimą dėl veiksmų, numatytų šio įstatymo 71 straipsnio 1 dalies 5 punkte, šio straipsnio 2 dalies 3 punkte ir 6 dalies 1 punkte, priežiūros institucijos įgaliotas tarnautojas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo atlikti šiuos veiksmus. Prašyme turi būti nurodytas juridinio asmens pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymą dėl teismo leidimo išdavimo rašytinio proceso tvarka nagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu priežiūros institucija nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, ji turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Priežiūros institucijos atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
 
 
@@ -4374,62 +4600,142 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-6. Priežiūros institucija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar jo pagrindu priimtų priežiūros institucijos nutarimų nuostatos, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę:
+6. Priežiūros institucija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo, jo įgyvendinamųjų teisės aktų ar Reglamento (ES) Nr. 575/2013 nuostatos, arba turėdama duomenų, kad jos gali būti pažeistos per ateinančius 12 mėnesių, arba siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę finansų maklerio įmonei, finansų patarėjo įmonei, reguliuojamos rinkos operatoriui ar Centriniam depozitoriumui duoti tokius privalomus nurodymus:
 
 
-1) įpareigoti nutraukti tokią veiklą, kol bus atliktas tyrimas ir priimtas priežiūros institucijos sprendimas dėl įtariamo pažeidimo;
-
-
-
-
-2) uždrausti arba laikinai sustabdyti prekybą reguliuojamoje rinkoje ar kitoje prekybos vietoje arba finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje ar kitoje prekybos vietoje;
+1) nutraukti tam tikrą veiklą, kol bus atliktas patikrinimas ir priimtas priežiūros institucijos sprendimas dėl įtariamo pažeidimo;
 
 
 
 
-3) viešai paskelbti apie tai, kad emitentas nevykdo savo įsipareigojimų;
+2) laikinai sustabdyti arba nutraukti prekybą reguliuojamoje rinkoje ar kitoje prekybos vietoje arba finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje ar kitoje prekybos vietoje; 
 
 
 
 
-4) laikinai uždrausti asmenims vykdyti profesinę veiklą, susijusią su investicinių paslaugų teikimu;
+3) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus ar veiklos trūkumus;
 
 
 
 
-5) prašyti teismo (teisėjo) nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus dėl turto areštavimo nagrinėja Vilniaus apygardos administracinis teismas.
+4) sustabdyti arba nutraukti konkrečios finansinės priemonės platinimą ar prekybą ja; 
+
+
+
+
+5) nutraukti ar sustabdyti profesinės veiklos, susijusios su investicinėmis ir (ar) papildomomis paslaugomis, teikimą;
+
+
+
+
+6) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+7) turėti kapitalą, kuris viršytų šiame įstatyme ir Reglamente (ES) Nr. 575/2013 nustatytus kapitalo reikalavimus, ir (arba) sudaryti tinkamus kapitalo rezervus; 
+
+
+
+
+8) pagerinti vidaus kontrolės ir (arba) rizikos valdymo procesus; 
+
+
+
+
+9) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną nustatytų pažeidimų ir (ar) trūkumų pašalinimo priemonių planą; 
+
+
+
+
+10) suformuoti papildomus specialiuosius atidėjinius arba tinkamai įvertinti turtą kapitalo reikalavimų atžvilgiu; 
+
+
+
+
+11) nevykdyti tam tikros veiklos, nesudaryti tam tikrų sandorių, sumažinti tokios veiklos arba sandorių apimtis arba sumažinti investicijas į veiklą, kuri kelia pernelyg didelę riziką finansų maklerio įmonės patikimumui; 
+
+
+
+
+12) sumažinti su finansų maklerio įmonės veikla, produktais ir sistemomis susijusias rizikas; 
+
+
+
+
+13) sumažinti kintamąją atlygio dalį, mokamą finansų maklerio įmonės vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu;
+
+
+
+
+14) naudoti finansų maklerio įmonės grynąjį pelną nuosavam kapitalui stiprinti; 
+
+
+
+
+15) apriboti arba nutraukti pelno paskirstymą finansų maklerio įmonės akcininkams arba palūkanų mokėjimą finansų maklerio įmonės išleistų ne nuosavybės vertybinių popierių, kurie įtraukiami į finansų maklerio įmonės kapitalą, turėtojams, jei toks draudimas nereiškia finansų maklerio įmonės įsipareigojimų neįvykdymo;
+
+
+
+
+16) priežiūros institucijai pateikti papildomą arba teikti dažniau informaciją, reikalingą priežiūros funkcijoms atlikti; 
+
+
+
+
+17) vykdyti specialius likvidumo reikalavimus; 
+
+
+
+
+18) viešai atskleisti papildomą informaciją;
+
+
+
+
+19) vykdyti papildomus reikalavimus dėl veiklos rizikos ribojimo arba atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
 
 
 
 
 
 
-7. Šio straipsnio 6 dalies 1 punkte nurodyta teisė gali būti įgyvendinta tik turint teismo leidimą. Teismo leidimas gaunamas šio straipsnio 4 dalyje nustatyta tvarka. 
+7. Šio straipsnio 6 dalies 1 punkte nurodyta teisė gali būti įgyvendinta tik turint teismo leidimą. Teismo leidimas gaunamas šio straipsnio 4 dalyje nustatyta tvarka.
 
 
 
 
-8. Šio straipsnio 6 dalies 1–4 punktuose nurodyti priežiūros institucijos sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos. Skundo dėl šio straipsnio 6 dalies 1 punkte nurodyto priežiūros institucijos sprendimo padavimas sprendimo vykdymo nesustabdo.
+8. Pagal šio straipsnio 6 dalį nustatant tinkamą individualaus kapitalo reikalavimo dydį ar tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgiama į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, sisteminės rizikos įvertinimą, finansų maklerio įmonės valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus. 
 
 
 
 
-9. Jeigu priežiūros institucija nustato teisės aktų, reglamentuojančių riziką ribojančius reikalavimus, pažeidimus arba jeigu įmonės veikla kelia grėsmę įmonės veiklos stabilumui ir patikimumui, priežiūros institucija turi teisę finansų maklerio įmonei, reguliuojamos rinkos operatoriui, Centriniam depozitoriumui nustatyti individualius veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo.
+9. Priežiūros institucija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar jo pagrindu priimtų priežiūros institucijos nutarimų nuostatos, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę prašyti teismo nutartimi laikinai areštuoti finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriaus ar Centrinio depozitoriumo turtą. Priežiūros institucijos prašymus dėl turto areštavimo nagrinėja Vilniaus apygardos administracinis teismas.
 
 
 
 
-10. Šio straipsnio 9 dalyje nustatyti nurodymai neatima teisės priežiūros institucijai taikyti kitų šiame įstatyme nustatytų poveikio priemonių.
+10. Finansų maklerio įmonė, finansų patarėjo įmonė, reguliuojamos rinkos operatorius ar Centrinis depozitoriumas privalo vykdyti šio straipsnio 6 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami apie įvykdymą raštu pranešti priežiūros institucijai.
 
 
 
 
-11. Priežiūros institucija gali prašyti, kad valstybės narės priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti priežiūros institucijos tarnautojams.
+11. Šio straipsnio 6 dalyje nurodyti priežiūros institucijos sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos. Skundo dėl priežiūros institucijos sprendimo padavimas sprendimo vykdymo nesustabdo.
 
 
 
 
-12. Priežiūros institucija gali kreiptis į Europos vertybinių popierių ir rinkų instituciją dėl atvejų, kai kitos valstybės narės priežiūros institucija:
+12. Šio straipsnio 6 dalyje nustatyti privalomi nurodymai gali būti duodami kartu taikant ir poveikio priemones. 
+
+
+
+
+13. Priežiūros institucija gali prašyti, kad valstybių narių priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti priežiūros institucijos tarnautojams.
+
+
+
+
+14. Priežiūros institucija gali kreiptis į Europos vertybinių popierių ir rinkų instituciją dėl atvejų, kai kitos valstybės narės priežiūros institucija:
 
 
 1) laiku neatsako į prašymą dėl informacijos pateikimo arba atsisako pateikti informaciją;
@@ -4448,8 +4754,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 Straipsnio pakeitimai:
-Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
-Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
  
 
 
@@ -4563,9 +4868,17 @@ Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 
 
 
-6) finansų maklerio įmonė nesugeba įvykdyti prievolių pagal savo įsipareigojimus ar yra duomenų, kad nesugebės to padaryti ateityje.
+6) finansų maklerio įmonė nesugeba įvykdyti prievolių pagal savo įsipareigojimus ar yra duomenų, kad nesugebės to padaryti ateityje.;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
+ 
+
+
+
+
+7) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 81 straipsnio 6 dalį duoti privalomi nurodymai.
+Papildyta straipsnio punktu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
  
 
 
@@ -4659,7 +4972,7 @@ Finansų maklerio įmonė gali būti reorganizuojama tik gavus išankstinį prie
 
 
 
-88 straipsnis. Jungtinė (konsoliduota) priežiūra 
+88 straipsnis. Jungtinė (konsoliduota) priežiūra
 
 
 1. Priežiūros institucija atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą, jeigu:
@@ -4670,17 +4983,19 @@ Finansų maklerio įmonė gali būti reorganizuojama tik gavus išankstinį prie
 
 
 
-2) finansų maklerio įmonės ar valdymo įmonės, turinčių priežiūros institucijos išduotą licenciją, patronuojanti įmonė yra patronuojanti finansų kontroliuojančioji (holdingo) bendrovė. 
+2) finansų maklerio įmonės ar valdymo įmonės, turinčių priežiūros institucijos išduotą licenciją, patronuojanti įmonė yra patronuojanti finansų kontroliuojančioji bendrovė ar mišrią veiklą vykdanti finansų kontroliuojančioji bendrovė. 
 
 
 
 
 
 
-2. Jungtinės (konsoliduotos) priežiūros atlikimo tvarką nustato priežiūros institucija.
+2. Finansinės grupės jungtinei (konsoliduotai) priežiūrai mutatis mutandis taikomos Lietuvos Respublikos bankų įstatymo aštuntojo ir dešimtojo skirsnių nuostatos. Detalią jungtinės (konsoliduotos) priežiūros atlikimo tvarką gali nustatyti priežiūros institucija.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
  
-
-
 
 
 
@@ -4688,7 +5003,10 @@ Finansų maklerio įmonė gali būti reorganizuojama tik gavus išankstinį prie
 89 straipsnis. Priežiūros institucijos įgaliojimai kitoje valstybėje narėje licencijuotų finansų maklerio įmonių filialams, įsteigtiems Lietuvos Respublikoje
 
 
-1. Priežiūros institucija turi teisę reikalauti, kad finansų maklerio įmonė, įsteigusi filialą Lietuvos Respublikoje, reguliariai teiktų statistinius duomenis apie filialo veiklą Lietuvos Respublikoje. 
+1. Kitoje valstybėje narėje licencijuotos finansų maklerio įmonės, įsteigusios filialą Lietuvos Respublikoje, riziką ribojančią priežiūrą atlieka buveinės valstybės narės priežiūros institucija. Tačiau tai neriboja Lietuvos priežiūros institucijos teisės reikalauti, kad finansų maklerio įmonė, įsteigusi filialą Lietuvos Respublikoje, reguliariai teiktų informaciją apie filialo veiklą Lietuvos Respublikoje, taip pat atlikti priežiūrą atsižvelgiant į šio įstatymo nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -5138,12 +5456,18 @@ priedas
 
 
 
-4. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl investicinių įmonių ir kredito įstaigų kapitalo pakankamumo (nauja redakcija) (OL 2006 L 177, p. 201).
+4. Neteko galios nuo 2015-05-01
+Punkto naikinimas:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
 
-5. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1).
+5. Neteko galios nuo 2015-05-01
+Punkto naikinimas:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 
@@ -5162,6 +5486,14 @@ Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 
 
 8. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
+
+
+
+
+9. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+Papildyta punktu:
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+ 
 
 
 Priedo pakeitimai:
@@ -5226,3 +5558,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 4 ir 93 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 70, 84, 93 straipsnių ir priedo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 12, 13, 70, 71, 76, 81, 84, 88, 89 straipsnių, VI skyriaus antrojo skirsnio pavadinimo ir Įstatymo priedo pakeitimo ir Įstatymo papildymo 12-1, 12-2, 25-1, 73-1 straipsniais įstatymas
