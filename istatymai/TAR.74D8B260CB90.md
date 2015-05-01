@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2010-12-28 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
  
@@ -71,7 +71,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Uostas – teritorijos (uosto žemė ir akvatorija) ir joje esančių statinių ir įrenginių kompleksas, skirtas laivams įplaukti ir išplaukti, stovėti, aptarnauti, kroviniams perkrauti, taip pat keleiviams aptarnauti.
+6. Neteko galios nuo 2015-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
+ 
 
 
 
@@ -86,7 +89,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-9. Uosto kapitonas – asmuo, atsakingas už laivybos priežiūrą ir užtikrinantis tvarkos palaikymą uosto akvatorijoje bei krantinėse.
+9. Neteko galios nuo 2015-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
+ 
 
 
 
@@ -122,6 +128,13 @@ BENDROSIOS NUOSTATOS
 
 
 16. Valstybinį statusą turintis laivas – laivas, priklausantis kuriai nors valstybei ar tos valstybės naudojamas ir atliekantis tik nekomercinę valstybinę tarnybą.
+
+
+
+
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
  
 
 
@@ -188,7 +201,10 @@ UOSTAS
 
 
 
-5) aptarnauti Būtingės naftos terminalo pagalbinį laivyną ir avarijų likvidavimo priemones;
+5) Neteko galios nuo 2015-05-01
+Straipsnio punkto naikinimas:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
+ 
 
 
 
@@ -232,7 +248,10 @@ UOSTAS
 
 
 
-2. Šventosios valstybinio jūrų uosto naudojimo taisykles (toliau – Uosto naudojimo taisyklės) ir Šventosios valstybinio jūrų uosto laivybos taisykles (toliau – Uosto laivybos taisyklės) tvirtina susisiekimo ministras. Šios taisyklės yra privalomos visiems uosto naudotojams.
+2. Šventosios valstybinio jūrų uosto naudojimo taisykles (toliau – Uosto naudojimo taisyklės) ir Šventosios valstybinio jūrų uosto laivybos taisykles (toliau – Uosto laivybos taisyklės) tvirtina susisiekimo ministras. Šios taisyklės yra privalomos visiems uoste esantiems, dirbantiems ar veiklą vykdantiems fiziniams ir juridiniams asmenims, organizacijoms ir jų padaliniams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
+ 
 
 
 
@@ -242,7 +261,10 @@ UOSTAS
 
 
 
-4. Uoste veikiantys viešieji ir privatūs juridiniai asmenys privalo laikytis šio įstatymo, Uosto naudojimo ir Uosto laivybos taisyklių ir kitų uosto veiklą reglamentuojančių teisės aktų reikalavimų.
+4. Uoste esantys, dirbantys ar veiklą vykdantys fiziniai ir juridiniai asmenys, organizacijos ir jų padaliniai privalo laikytis šio įstatymo ir kitų uosto veiklą reglamentuojančių teisės aktų reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
+ 
 
 
 
@@ -380,7 +402,9 @@ Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. 1101010ISTA
 
 
 
-3. Uosto kapitonas privalo neleisti laivui išplaukti iš uosto, jeigu yra nesumokėtos uosto rinkliavos ir baudos, laivas sužalojo ar sunaikino infrastruktūrą ir (ar) suprastruktūrą, iki bus sumokėtos uosto rinkliavos ar atlyginta padaryta žala arba iki minėtų prievolių įvykdymas bus užtikrintas Lietuvos Respublikos įstatymų nustatytais būdais.
+3. Uosto kapitonas neleidžia laivui išplaukti iš uosto, jeigu laivybos bendrovė nesumokėjo tam laivui apskaičiuotų uosto rinkliavų ir baudų, laivas sužalojo ar sunaikino uosto infrastruktūrą ir (ar) suprastruktūrą, laivybos bendrovė nepadengė išlaidų, kurias Šventosios uosto direkcija patyrė organizuodama laivo ar krovinio gelbėjimo darbus ir taršos iš laivų prevencijos ar likvidavimo darbus, arba nepateikė prievolių įvykdymo užtikrinimo Lietuvos Respublikos įstatymų nustatytais būdais. Kai laivybos bendrovė sumoka uosto rinkliavas, baudas ir padengia uostą valdančios įmonės išlaidas arba pateikia prievolių įvykdymo užtikrinimą Lietuvos Respublikos įstatymų nustatytais būdais, uosto kapitonas leidžia laivui išplaukti iš uosto. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
  
 
 
@@ -482,7 +506,9 @@ UOSTO PLĖTRA IR UOSTO ŽEMĖS NUOMA
 
 
 
-2. Uosto žemės nuomos pavyzdinę sutartį tvirtina susisiekimo ministras.
+2. Uosto žemės nuomos sutarties formą tvirtina susisiekimo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
  
 
 
@@ -951,3 +977,8 @@ Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1218, 2010-12-09, Žin., 2010, Nr. 153-7787 (2010-12-28), i. k. 1101010ISTA0XI-1218
 Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 2, 4, 6, 10 ir 13 straipsnių pakeitimo įstatymas
