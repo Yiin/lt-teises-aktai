@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2010-12-28 iki 2015-04-30
+Suvestinė redakcija nuo 2015-05-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
  
@@ -117,7 +117,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Jūros aplinkos būklė – jūros ekosistemų struktūra, funkcijos ir procesai, natūralios ir dėl žmogaus veiklos tam tikroje akvatorijoje ar už jos ribų susidarančios geomorfologinės, geografinės, biologinės, geologinės, klimatinės, fizinės, akustinės ir cheminės sąlygos.
+7. Jūros aplinkos būklė – bendra Lietuvos Respublikos jūros rajono būklė, apimanti ekosistemų struktūrą, funkcijas ir procesus, natūralias ir dėl žmogaus veiklos tame rajone ar už jo ribų susidarančias geomorfologines, geografines, biologines, geologines, klimatines, fizines, akustines ir chemines sąlygas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1656, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06590
+ 
 
 
 
@@ -1016,3 +1019,8 @@ Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 30, 32, 35, 37, 38, 39, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1205, 2010-12-07, Žin., 2010, Nr. 153-7780 (2010-12-28), i. k. 1101010ISTA0XI-1205
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1656, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06590
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3 straipsnio pakeitimo įstatymas
