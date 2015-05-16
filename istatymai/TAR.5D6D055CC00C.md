@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-05-15
+Suvestinė redakcija nuo 2015-05-16 iki 2015-07-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -45,10 +45,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei naudojimą ir sudaryti teisines prielaidas, kad visų nuosavybės formų miškai būtų tvarkomi pagal vienodus tvaraus ir subalansuoto miškų ūkio principus, užtikrinant racionalų miškų išteklių naudojimą aprūpinant pramonę žaliava, biologinės įvairovės išsaugojimą, miškų produktyvumo didinimą, kraštovaizdžio stabilumą ir aplinkos kokybę, galimybę dabar ir ateityje atlikti ekologines, ekonomines ir socialines funkcijas nedarant žalos kitoms ekosistemoms. 
+Miškų įstatymo paskirtis – reglamentuoti miškų atkūrimą, apsaugą bei naudojimą ir sudaryti teisines prielaidas, kad visų nuosavybės formų miškai būtų tvarkomi pagal vienodus tvaraus ir subalansuoto miškų ūkio principus, užtikrinant racionalų miškų išteklių naudojimą ir siekiant aprūpinti šalies pramonę žaliava, suteikti šaliai didžiausią socialinę ir ekonominę naudą, užtikrinant biologinės įvairovės išsaugojimą, miškų produktyvumo didinimą, kraštovaizdžio stabilumą ir aplinkos kokybę, galimybę dabar ir ateityje atlikti ekologines, ekonomines ir socialines funkcijas nedarant žalos kitoms ekosistemoms.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
  
-
-
 
 
 
@@ -666,13 +668,10 @@ Nr. X-119, 2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
 7 straipsnis. Ekonominis valstybinio miškų ūkio reguliavimas 
 
 
-1. Miškų urėdijos veikia pagal Valstybės ir savivaldybės įmonių įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose, Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami. Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės veiklos sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam saugoti miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų veiksmų, darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos integruotoms informacinėms sistemoms įsigyti. Jungtinės veiklos sutarties įgyvendinimo kontrolę nustatyta tvarka vykdo Aplinkos ministerija.
-
-
-
-
-2. Bendrosioms miškų ūkio reikmėms tenkinti Vyriausybės nustatyta tvarka valstybinių miškų valdytojams nustatomi privalomieji 5 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos, valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti, stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško mokslo ir projektavimo darbams, informacijai apie miškus viešinti, Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų ūkio srityje bei kitoms bendrosioms miškų ūkio reikmėms finansuoti). Lėšas administruoja ir jų naudojimo tvarką nustato Aplinkos ministerija. 
-Redakcija nuo 2015-01-01:
+1. Lietuvos Respublikoje veiklą vykdo 42 miškų urėdijos. Miškų urėdijos veikia pagal Valstybės ir savivaldybės įmonių įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose, Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami. Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės veiklos sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam saugoti miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų veiksmų, darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos integruotoms informacinėms sistemoms įsigyti. Jungtinės veiklos sutarties įgyvendinimo kontrolę nustatyta tvarka vykdo Aplinkos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
+ 
 
 
 
@@ -1476,3 +1475,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1160, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13594
 Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
+Lietuvos Respublikos miškų įstatymo Nr. I-671 1 ir 7 straipsnių pakeitimo įstatymas
