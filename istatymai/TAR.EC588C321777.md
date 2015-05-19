@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-18
+Suvestinė redakcija nuo 2015-05-19 iki 2015-06-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -3727,7 +3727,10 @@ Kardomosios priemonės gali būti skiriamos siekiant užtikrinti įtariamojo, ka
 120 straipsnis. Kardomųjų priemonių rūšys
 
 
-1. Kardomosios priemonės yra šios: suėmimas, intensyvi priežiūra, namų areštas, įpareigojimas gyventi skyrium nuo nukentėjusiojo, užstatas, dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti.
+1. Kardomosios priemonės yra šios: suėmimas, intensyvi priežiūra, namų areštas, įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, užstatas, dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+ 
 
 
 
@@ -3746,7 +3749,10 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 121 straipsnis. Kardomųjų priemonių skyrimo bendrosios nuostatos
 
 
-1. Suėmimas, intensyvi priežiūra, namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios priemonės prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi, o kardomosios priemonės: dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti, kario karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas ir nepilnamečio atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti, – neatidėliotinais atvejais gali būti paskirtos ikiteisminio tyrimo pareigūno nutarimu. Tokiu atveju ikiteisminio tyrimo pareigūnas privalo nedelsdamas raštu apie paskirtą kardomąją priemonę pranešti prokurorui.
+1. Suėmimas, intensyvi priežiūra, namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios priemonės prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi, o kardomosios priemonės: dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti, kario karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas ir nepilnamečio atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti, – neatidėliotinais atvejais gali būti paskirtos ikiteisminio tyrimo pareigūno nutarimu. Tokiu atveju ikiteisminio tyrimo pareigūnas privalo nedelsdamas raštu apie paskirtą kardomąją priemonę pranešti prokurorui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+ 
 
 
 
@@ -3962,15 +3968,17 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 
 
-126 straipsnis. Nutarties atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo turinys
+126 straipsnis. Nutarties atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu turinys
 
 
-Nutartyje atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo turi būti nurodoma šio Kodekso 125 straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat motyvai, dėl kurių atsisakoma skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo.
+Nutartyje atsisakyti skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu turi būti nurodomi šio Kodekso 125 straipsnio 2 dalies 1 ir 2 punktuose išvardyti duomenys, taip pat motyvai, dėl kurių atsisakoma skirti suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2553, 2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
 Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
+Straipsnio pakeitimai:
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
  
 
 
@@ -4129,7 +4137,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-Kodeksas papildomas straipsniu nuo 2015-01-01:
+ 
 1311 straipsnis. Intensyvi priežiūra
 
 
@@ -4217,25 +4225,27 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-1321 straipsnis. Įpareigojimas gyventi skyrium nuo nukentėjusiojo
+1321 straipsnis. Įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu
 
 
-1. Įtariamasis gali būti įpareigojamas gyventi skyrium nuo nukentėjusiojo, jeigu pagrįstai manoma, kad jis, gyvendamas kartu su nukentėjusiuoju, bandys neteisėtai paveikti nukentėjusįjį arba nukentėjusiajam ar kartu su juo gyvenantiems asmenims darys naujas nusikalstamas veikas. Skiriant įpareigojimą gyventi skyrium nuo nukentėjusiojo, įtariamasis taip pat gali būti įpareigojamas nebendrauti ir neieškoti ryšių su nukentėjusiuoju ir kartu su juo gyvenančiais asmenimis, taip pat nesilankyti nurodytose vietose, kuriose būna nukentėjusysis ar kartu su juo gyvenantys asmenys. Būste, kuriame nuolat gyveno įtariamasis ir nukentėjusysis, gyventi lieka nukentėjusysis.
-
-
-
-
-2. Ikiteisminio tyrimo metu įpareigojimą gyventi skyrium nuo nukentėjusiojo prokuroro prašymu skiria ikiteisminio tyrimo teisėjas nutartimi.
+1.  Įtariamasis gali būti įpareigojamas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, jeigu pagrįstai manoma, kad jis bandys neteisėtai paveikti nukentėjusįjį arba nukentėjusiajam ar kartu su juo gyvenantiems asmenims darys naujas nusikalstamas veikas. Skiriant įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, įtariamasis taip pat gali būti įpareigojamas bet kokia forma nebendrauti ir neieškoti ryšių su nukentėjusiuoju ir kartu su juo gyvenančiais asmenimis, taip pat nesilankyti nurodytose vietose, kuriose būna nukentėjusysis ar kartu su juo gyvenantys asmenys. Būste, kuriame nuolat gyveno įtariamasis ir nukentėjusysis, gyventi lieka nukentėjusysis.
 
 
 
 
-3. Skiriant kardomąją priemonę – įpareigojimą gyventi skyrium nuo nukentėjusiojo, įtariamasis įspėjamas, kad už šio įpareigojimo nesilaikymą jam gali būti paskirta kita kardomoji priemonė.
+2.  Ikiteisminio tyrimo metu įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu prokuroro prašymu skiria ikiteisminio tyrimo teisėjas nutartimi.
+
+
+
+
+3.  Skiriant kardomąją priemonę – įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, įtariamasis įspėjamas, kad už šio įpareigojimo nesilaikymą jam gali būti paskirta kita kardomoji priemonė.
 
 
 Kodeksas papildytas straipsniu:
 Nr. IX-2553, 2004-11-09, Žin., 2004, Nr. 171-6307 (2004-11-26)
 Nr. XI-1505, 2011-06-22, Žin., 2011, Nr. 86-4147 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
  
 
 
@@ -4385,7 +4395,10 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 
 
-2. Jeigu ikiteisminio tyrimo metu išnyksta suėmimo, intensyvios priežiūros, namų arešto ar įpareigojimo gyventi skyrium nuo nukentėjusiojo pagrindai ar šioms kardomosioms priemonėms taikyti reikalingos sąlygos, prokuroras privalo nedelsdamas priimti nutarimą paleisti į laisvę suimtą įtariamąjį arba panaikinti jam taikomą kardomąją priemonę – intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo, arba sušvelninti šių kardomųjų priemonių taikymo sąlygas. Tokio nutarimo nuorašas yra siunčiamas ikiteisminio tyrimo teisėjui, paskyrusiam suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo arba pratęsusiam šių kardomųjų priemonių terminą.
+2. Jeigu ikiteisminio tyrimo metu išnyksta suėmimo, intensyvios priežiūros, namų arešto ar įpareigojimo gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu pagrindai ar šioms kardomosioms priemonėms taikyti reikalingos sąlygos, prokuroras privalo nedelsdamas priimti nutarimą paleisti į laisvę suimtą įtariamąjį arba panaikinti jam taikomą kardomąją priemonę – intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, arba sušvelninti šių kardomųjų priemonių taikymo sąlygas. Tokio nutarimo nuorašas yra siunčiamas ikiteisminio tyrimo teisėjui, paskyrusiam suėmimą, intensyvią priežiūrą, namų areštą ar įpareigojimą gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu arba pratęsusiam šių kardomųjų priemonių terminą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+ 
 
 
 
@@ -14784,10 +14797,19 @@ Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 
 
 
-14. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2012/13/ES dėl teisės į informaciją baudžiamajame procese (OL 2012 L 142, p. 1).
+14. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2). 
+Papildyta punktu:
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+ 
+
+
+
+
+15. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2012/13/ES dėl teisės į informaciją baudžiamajame procese (OL 2012 L 142, p. 1).
 Punkto numeracijos pakeitimas:
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
  
 
 
@@ -15117,3 +15139,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 1, 73, 121, 122, 342 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1650, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06589
 Lietuvos Respublikos baudžiamojo proceso kodekso 409 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+Lietuvos Respublikos baudžiamojo proceso kodekso 120, 121, 126, 132-1, 139 straipsnių ir priedo pakeitimo įstatymas
