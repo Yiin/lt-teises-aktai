@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
  
@@ -292,7 +292,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas.
+24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas arba Europos centrinis bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1695, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07675
+ 
 
 
 
@@ -1169,3 +1172,8 @@ Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1477, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21197
 Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1695, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07675
+Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas
