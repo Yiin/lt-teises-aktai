@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-07-03
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -506,7 +506,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 13. Priežiūros institucija atsisako išduoti licenciją, jeigu:
 
 
-1) pateikti dokumentai neatitinka šio Įstatymo ir priežiūros institucijos teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar jie yra neteisingi;
+1) pateikti dokumentai neatitinka bankų veiklą ir jos priežiūrą reglamentuojančių teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys arba jie yra neteisingi;
+Straipsnio punkto pakeitimai:
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+ 
 
 
 
@@ -1256,7 +1259,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-3) asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms funkcijoms atlikti reikalingus jų duomenis, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą.
+3) asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų jos funkcijoms atlikti reikalingus jų duomenis, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą.
+Straipsnio punkto pakeitimai:
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+ 
 
 
 
@@ -1754,9 +1760,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-6. Prašymas išduoti leidimą rinkti ar skirti banko vadovą išnagrinėjamas ir sprendimas priimamas ne vėliau kaip per 30 darbo dienų nuo prašymo gavimo dienos. Jei priežiūros institucija pareikalauja papildomų dokumentų ar informacijos, reikalingos sprendimui priimti, kreipiasi dėl informacijos pateikimo į kompetentingas institucijas arba papildomą informaciją pateikia leidimo prašantis asmuo, 30 darbo dienų terminas sprendimui priimti skaičiuojamas nuo papildomos informacijos gavimo dienos. 
+6. Prašymas išduoti leidimą rinkti ar skirti banko vadovą išnagrinėjamas ir sprendimas priimamas ne vėliau kaip per 40 darbo dienų nuo prašymo gavimo dienos. Jeigu priežiūros institucija pareikalauja papildomų dokumentų ar informacijos, reikalingos sprendimui priimti, kreipiasi dėl informacijos pateikimo į kompetentingas institucijas arba papildomą informaciją pateikia leidimo prašantis asmuo, 40 darbo dienų terminas sprendimui priimti skaičiuojamas nuo papildomos informacijos gavimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
  
 
 
@@ -2775,7 +2782,10 @@ BANKŲ PRIEŽIŪRA
 64 straipsnis. Priežiūros institucija
 
 
-1. Priežiūros institucija yra Lietuvos bankas.
+1. Priežiūros institucija yra Europos centrinis bankas arba Lietuvos bankas, atitinkamai pagal Reglamente (ES) Nr. 1024/2013 nustatytą funkcijų paskirstymą. Lietuvos bankas šio Įstatymo priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos centriniam bankui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+ 
 
 
 
@@ -2824,9 +2834,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-6. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu, Europos Sąjungos ir priežiūros institucijos teisės aktais.
+6. Priežiūra atliekama vadovaujantis šiuo Įstatymu, Finansų įstaigų įstatymu, Lietuvos banko įstatymu, Europos Sąjungos ir priežiūros institucijos teisės aktais, reglamentuojančiais bankų veiklą ir jos priežiūrą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
  
 
 
@@ -3023,7 +3034,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 66 straipsnis. Prašymų išduoti licenciją, leidimą, sutikimą ar atlikti kitus veiksmus nagrinėjimas ir priežiūros institucijos sprendimai
 
 
-1. Detalias prašymų išduoti šio Įstatymo nustatytas licencijas, leidimus, sutikimus ar atlikti kitus veiksmus (toliau šiame straipsnyje – leidimai) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato priežiūros institucijos teisės aktai. 
+1. Detalias prašymų išduoti šio Įstatymo nustatytas licencijas, leidimus, sutikimus ar atlikti kitus veiksmus (toliau šiame straipsnyje – leidimai) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato Reglamentas (ES) Nr. 1024/2013, jo įgyvendinamieji teisės aktai ir priežiūros institucijos teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+ 
 
 
 
@@ -3522,7 +3536,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-2. Priežiūros institucija, atlikdama šiame Įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+2. Priežiūros institucija pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+Straipsnio dalies pakeitimai:
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+ 
 
 
 Straipsnio pakeitimai:
@@ -5251,3 +5268,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 74 straipsnio ir priedo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 3, 4, 5, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 34, 35, 36, 40, 44, 48, 52, 53, 57, 59, 61, 64, 65, 67, 69, 70, 70-1, 71, 72, 73, 74, 75, 76, 78, 81, 82, 86 straipsnių ir priedo pakeitimo, Įstatymo papildymo 65-1, 68-1 ir 70-2 straipsniais ir 6, 7, 8, 18, 26, 37, 38, 39, 43, 49, 50 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 1, 9, 23, 34, 64, 66 ir 71 straipsnių pakeitimo įstatymas
