@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -790,9 +790,10 @@ Nr. XII-377, 2013-06-18, Žin., 2013, Nr. 68-3411 (2013-06-28), i. k. 1131010IST
 
 
 
-3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas (toliau – priežiūros institucija). 
+3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas priežiūrą atlieka  Europos centrinis bankas (toliau – priežiūros institucija). 
 Straipsnio dalies pakeitimai:
 Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
+Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
  
 
 
@@ -2318,9 +2319,10 @@ Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 
 
 
-2. Finansų įstaigų, kurioms taikoma konsoliduota priežiūra, mišrios veiklos finansų kontroliuojančiųjų įmonių bei mišrią veiklą vykdančių kontroliuojančiųjų bendrovių teises ir pareigas, taip pat jungtinę (konsoliduotą) priežiūrą atliekančios priežiūros institucijos teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą. 
+2. Finansų įstaigų, kurioms taikoma konsoliduota priežiūra, mišrios veiklos finansų kontroliuojančiųjų įmonių ir mišrią veiklą vykdančių kontroliuojančiųjų bendrovių teises ir pareigas, taip pat jungtinę (konsoliduotą) priežiūrą atliekančios priežiūros institucijos teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, ir kiti finansų įstaigų veiklą ir jos priežiūrą reglamentuojantys teisės aktai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
+Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
  
 
 
@@ -2973,7 +2975,7 @@ priedas
 
 
 
-3.   2013 m.   birželio  26 d.  Europos   Parlamento  ir  Tarybos   direktyva   2013/36/ES   dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos  direktyvos  2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+3.   2013 m.   birželio  26 d.  Europos   Parlamento  ir  Tarybos   direktyva   2013/36/ES   dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos  direktyvos  2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 
 Priedo pakeitimai:
@@ -3083,3 +3085,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 38 ir 38-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 straipsnio ir priedo pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4 ir 38-1 straipsnių pakeitimo įstatymas
