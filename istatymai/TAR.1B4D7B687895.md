@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -227,7 +227,10 @@ Nr. XI-1667, 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
 
 
 
-2) atlieka finansų rinkos priežiūrą;
+2) atlieka finansų rinkos priežiūrą, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63) (toliau – Reglamentas (ES) Nr. 1024/2013), nuostatas šias funkcijas atlieka Europos centrinis bankas, taip pat pagal Reglamentą (ES) Nr. 1024/2013 nacionalinei priežiūros institucijai priskirtas funkcijas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
 
 
 
@@ -376,7 +379,10 @@ Nr. XI-1319, 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
 
 
 
-6) nustato finansų rinkos priežiūros politiką;
+6) nustato finansų rinkos priežiūros politiką, išskyrus atvejus, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai atlieka Europos centrinis bankas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
 
 
 
@@ -411,7 +417,10 @@ Nr. XI-1319, 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
 
 
 
-13) šio įstatymo 42 straipsnio 1 dalyje nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) taiko įstatymų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus nurodymus, įpareigojimus, draudimus ir kitas kitiems asmenims privalomas vykdyti priemones;
+13) šio įstatymo 42 straipsnio 1 dalyje nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) taiko įstatymų ir Europos Sąjungos teisės aktų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus nurodymus, įpareigojimus, draudimus ir kitas kitiems asmenims privalomas vykdyti priemones, išskyrus atvejus, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai atlieka Europos centrinis bankas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
 
 
 
@@ -1254,6 +1263,14 @@ Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
 
 
 
+21. Lietuvos bankas finansų rinkos priežiūrą atlieka tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos centriniam bankui. 
+Papildyta straipsnio dalimi:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
+
+
+
+
 3. Lietuvos bankas, atlikdamas finansų rinkos priežiūrą, turi teisę:
 
 
@@ -1272,12 +1289,18 @@ Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
 
 
 
-4) įstatymų nustatytais atvejais ir tvarka taikyti poveikio priemones prižiūrimiems finansų rinkos dalyviams ir kitiems asmenims;
+4) įstatymų ir Europos Sąjungos teisės aktų nustatytais atvejais ir tvarka taikyti poveikio priemones prižiūrimiems finansų rinkos dalyviams ir kitiems asmenims; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
 
 
 
 
-5) turėti kitokių teisių, nustatytų šio straipsnio 2 dalyje nurodytuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose. 
+5) turėti kitokių teisių, nustatytų šio straipsnio 2 ir 21 dalyse nurodytuose teisės aktuose ir jų įgyvendinamuosiuose teisės aktuose. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
 
 
 
@@ -1305,13 +1328,15 @@ Nr. XII-1035, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10871
 43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga
 
 
-Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais, apsaugai taikomos šio įstatymo 19 straipsnio ir finansų rinką reglamentuojančių įstatymų nuostatos.
+Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais, apsaugai taikomos šio įstatymo 19 straipsnio ir finansų rinką reglamentuojančių teisės aktų nuostatos.
 
 
-Straipsnio pakeitimai:
+ Straipsnio pakeitimai:
 Nr. IX-2069, 2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
+Straipsnio pakeitimai:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
  
 
 
@@ -1341,6 +1366,14 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 
 
 5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+6. Pagal Reglamentą (ES) Nr. 1024/2013 prižiūrimi finansų rinkos dalyviai taip pat moka įmokas už priežiūrą Europos centriniam bankui Reglamento (ES) Nr. 1024/2013 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+ 
 
 
 Straipsnio pakeitimai:
@@ -2354,3 +2387,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 1 priedo pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 2 priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43 ir 44 straipsnių pakeitimo įstatymas
