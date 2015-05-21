@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-05-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
  
@@ -533,6 +533,14 @@ Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010IST
 
 
 4. Krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija atlieka LŠS vidaus auditą.
+
+
+
+
+5. LŠS ar Krašto apsaugos ministerijos išlaidos, susijusios su LŠS vykdoma pilietinio ir tautinio ugdymo veikla įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, pilietinio ugdymo veikla krašto gynybos srityje, šaulių parengimo ginkluotai valstybės gynybai išlaidos, LŠS veiklai naudojamų pastatų išlaikymo išlaidos (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos su pagalba LŠS veiklai administruoti susijusios išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Krašto apsaugos ministerija gali perduoti LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį LŠS vykdomai pilietinio ir tautinio ugdymo veiklai įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, taip pat pilietinio ugdymo veiklai krašto gynybos srityje reikalingą Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą. 
+Papildyta straipsnio dalimi:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
@@ -2049,3 +2057,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 34 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1444, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20785
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 32 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26, 30, 36 ir 41 straipsnių pakeitimo įstatymas
