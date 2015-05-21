@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-20
+Suvestinė redakcija nuo 2015-05-21 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -760,7 +760,10 @@ Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
 
 
-28) papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokestis.
+28) Neteko galios nuo 2015-05-21
+Straipsnio punkto naikinimas:
+Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
+ 
 
 
 
@@ -868,7 +871,10 @@ Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
 
 
-2. Šio įstatymo 13 straipsnio 20, 21 ir 28 punktuose nurodytus mokesčius administruoja Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek nustatyta pagal Gamybos mokesčio cukraus sektoriuje įstatymą, Pertekliaus mokesčio cukraus sektoriuje įstatymą ir Papildomos baltojo cukraus gamybos kvotos ir pridėtinės izogliukozės gamybos kvotos vienkartinio išsipirkimo mokesčio įstatymą. Už teisingą mokesčių apskaičiavimą atsakinga, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Žemės ūkio ministerija ar jos įgaliota institucija. Mokesčių deklaravimą ir sumokėjimą kontroliuoja Valstybinė mokesčių inspekcija.
+2. Šio įstatymo 13 straipsnio 20 ir 21 punktuose nurodytus mokesčius administruoja Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek nustatyta pagal Gamybos mokesčio cukraus sektoriuje įstatymą ir Pertekliaus mokesčio cukraus sektoriuje įstatymą. Už teisingą mokesčių apskaičiavimą atsakinga, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Žemės ūkio ministerija ar jos įgaliota institucija. Mokesčių deklaravimą ir sumokėjimą kontroliuoja Valstybinė mokesčių inspekcija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
+ 
 
 
 
@@ -6237,4 +6243,9 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 42-1, 66, 8
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 16 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 16 straipsnių pakeitimo įstatymas
