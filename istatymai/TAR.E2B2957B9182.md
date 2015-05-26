@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-25
+Suvestinė redakcija nuo 2015-05-26 iki 2015-10-27
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -3178,40 +3178,42 @@ Nr. X-1505, 2008-04-22, Žin., 2008, Nr. 50-1850 (2008-04-30)
 
 
 
-73 straipsnis. Teismo medicinos institutas
+73 straipsnis. Valstybinė teismo medicinos tarnyba 
 
 
-1. Teismo medicinos institutas yra valstybės mokslo įstaiga. Jo veikla finansuojama iš valstybės biudžeto. Instituto nuostatus tvirtina Vyriausybė.
-
-
-
-
-2. Teismo medicinos institutas : 
-
-
-1) atlieka teismo medicinos ekspertizes teismams;
+1. Valstybinė teismo medicinos tarnyba yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir kitų valstybės pinigų fondų. 
 
 
 
 
-2) diegia naujas teismo medicinos ekspertizės rūšis ir metodikas, plėtoja teismo medicinos mokslą;
+2. Valstybinė teismo medicinos tarnyba: 
+
+
+1) atlieka teismo medicinos ekspertizes ir tyrimus pagal teismo, prokuratūros ar ikiteisminio tyrimo pareigūnų pavedimus ir teikia kitas teismo medicinos paslaugas; 
 
 
 
 
-3) dalyvauja rengiant ir tobulinant teismo medicinos ekspertus;
+2) diegia naujas teismo medicinos ekspertizės rūšis ir metodikas, įstatymų ir kitų teisės aktų nustatyta tvarka dalyvauja plėtojant teismo medicinos mokslą;
 
 
 
 
-4) vykdo kitas šiame ir kituose įstatymuose, teisės aktuose bei instituto nuostatuose numatytas funkcijas.
+3) dalyvauja rengiant teismo medicinos ekspertus ir tobulinant jų kvalifikaciją; 
 
 
+
+
+4) vykdo kitas šiame ir kituose įstatymuose, teisės aktuose bei Valstybinės teismo medicinos tarnybos nuostatuose nustatytas funkcijas.
+
+
+ Straipsnio pakeitimai:
+Nr. VIII-1944, 00.09.19, Žin., 2000, Nr.85-2580 (00.10.11)
+Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 
 
 Straipsnio pakeitimai:
-Nr. VIII-1944, 00.09.19, Žin., 2000, Nr.85-2580 (00.10.11)
-Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
+Nr. XII-1704, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08038
  
 
 
@@ -4003,3 +4005,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 63, 64 ir 65 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1387, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19560
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 ir 19 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1704, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08038
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 71 ir 73 straipsnių pakeitimo įstatymas
