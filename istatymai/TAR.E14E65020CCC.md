@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-05-26
+Suvestinė redakcija nuo 2015-05-27 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
  
@@ -229,9 +229,11 @@ Nr. XII-1678, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07662
 
 
 
-6. Ikiteisminiuose tyrimuose, susijusiuose su smurtu artimoje aplinkoje, Valstybinė teismo medicinos tarnyba prie Teisingumo ministerijos užtikrina, kad sveikatos sutrikdymo mastas būtų nustatomas ir specialistų išvados būtų teikiamos skubos tvarka.
+6. Ikiteisminiuose tyrimuose, susijusiuose su smurtu artimoje aplinkoje, Valstybinė teismo medicinos tarnyba užtikrina, kad sveikatos sutrikdymo mastas būtų nustatomas ir specialistų išvados būtų teikiamos skubos tvarka.
 Papildyta straipsnio dalimi:
 Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+Straipsnio dalies pakeitimai:
+Nr. XII-1717, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08062
  
 
 
@@ -528,4 +530,9 @@ Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo 4 straipsn
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1678, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07662
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1717, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08062
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas
