@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -777,7 +777,10 @@ Lietuvos Respublikoje parduoti oraliniam vartojimui skirtą, taip pat uostomąj�
 
 
 
-14 straipsnis. Tabako gaminių pardavimo, laikymo ir gabenimo reikalavimai
+14 straipsnis. Tabako gaminių pardavimo, įsigijimo, laikymo ir gabenimo reikalavimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1738, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08130
+ 
 
 
 1. Lietuvos Respublikoje draudžiama parduoti, laikyti tabako gaminius neturint licencijos verstis tabako gaminių gamyba, didmenine ar mažmenine prekyba tabako gaminiais, išskyrus šio straipsnio 2 dalyje nustatytus atvejus. Atitinkamos licencijos kopija turi būti visose tabako gaminių pardavimo ir (ar) laikymo vietose.
@@ -835,7 +838,10 @@ Lietuvos Respublikoje parduoti oraliniam vartojimui skirtą, taip pat uostomąj�
 
 
 
-4. Tabako gaminių laikymo ir gabenimo tvarką, taikomą fiziniams asmenims, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti tabako gaminius, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Tabako gaminių laikymo ir gabenimo tvarką, taikomą fiziniams asmenims, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1738, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08130
+ 
 
 
 
@@ -1971,3 +1977,8 @@ Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1648, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06525
 Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1738, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08130
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 14 straipsnio pakeitimo įstatymas
