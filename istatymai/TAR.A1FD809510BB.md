@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -489,7 +489,9 @@ MAŽOSIOS BENDRIJOS NARIAI
 
 
 
-4. Mažosios bendrijos narys negali turėti darbo santykių su mažąja bendrija.
+4. Mažosios bendrijos narys negali turėti darbo santykių su mažąja bendrija, taip pat sudaryti su ja civilinių sutarčių dėl paslaugų mažajai bendrijai teikimo ar darbų atlikimo, išskyrus vadovaujantis šio įstatymo 22 straipsnio 2 dalimi su mažosios bendrijos vadovu sudaromą civilinę (paslaugų) sutartį.
+Straipsnio dalies pakeitimai:
+Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
  
 
 
@@ -1848,3 +1850,8 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1, 21 ir 31-1 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 30 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir 7 straipsnių pakeitimo įstatymas
