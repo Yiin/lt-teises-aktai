@@ -15,8 +15,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-05-26
-iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28
+iki 2015-06-01
  
 Kodeksas paskelbtas: Vyriausybės
 žinios 1985, Nr. 1-1, i. k.
@@ -15323,6 +15323,7 @@ Nr. XI-2173,
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
+Straipsnio redakcija iki 2015-06-30:
 1722 straipsnis.
 Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
 organizacijos filialo ar atstovybės dokumentų ir duomenų pateikimo Juridinių
@@ -15360,6 +15361,53 @@ juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo
 vadovui ar kitam įstatymuose arba steigimo dokumentuose nurodytam asmeniui nuo
 dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų
 devyniasdešimt šešių eurų.
+Straipsnio redakcija nuo
+2015-07-01:
+1722 straipsnis.
+Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
+organizacijos filialo ar atstovybės dokumentų ir duomenų pateikimo Juridinių
+asmenų registro
+tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui tvarkos
+pažeidimas
+Neteisingų
+juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
+organizacijos filialo ar atstovybės dokumentų, išskyrus finansines
+ataskaitas (konsoliduotąsias finansines ataskaitas), metinį pranešimą
+(konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios
+institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms
+ataskaitą), duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų
+registro tvarkytojui ar Juridinių asmenų dalyvių informacinės
+sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės,
+užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės
+dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines
+ataskaitas), metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos
+ataskaitas, auditoriaus išvadą, mokėjimų valdžios institucijoms ataskaitą
+(konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos
+teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar
+Juridinių asmenų dalyvių informacinės sistemos
+tvarkytojui laiku teisės aktų nustatyta tvarka –
+užtraukia baudą
+juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
+organizacijos filialo ar atstovybės vadovui ar kitam įstatymuose arba steigimo
+dokumentuose nurodytam asmeniui nuo dvidešimt aštuonių iki vieno tūkstančio
+keturių šimtų keturiasdešimt aštuonių eurų.
+Neteisingų
+juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo
+finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio pranešimo
+(konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios
+institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms
+ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio
+asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių
+ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio pranešimo
+(konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados,
+mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios
+institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui
+laiku teisės aktų nustatytais atvejais ir tvarka –
+užtraukia baudą
+juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo
+vadovui ar kitam įstatymuose arba steigimo dokumentuose nurodytam asmeniui nuo
+dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų
+devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
 Nr. I-326,
 1990.06.26, Žin., 1990, Nr. 19-495 
@@ -15387,6 +15435,8 @@ XII-314,
 2013-05-16, Žin., 2013, Nr. 57-2853 (2013-06-01)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
+Nr. XII-1699,
+2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08121 
  
 1723
 straipsnis. Valstybinės mokesčių inspekcijos vadovų ir kitų pareigūnų nurodymų
@@ -15404,16 +15454,16 @@ Nr. I-2589,
 1992.05.26, Žin., 1992, Nr. 21-610 
 Nr. I-545,
 1994.07.18, Žin., 1994, Nr. 58-1132
-Nr. XII-1236, 2014-10-16, paskelbta TAR
-2014-10-28, i. k. 2014-15013
+Nr. XII-1236, 2014-10-16, paskelbta
+TAR 2014-10-28, i. k. 2014-15013
  
 1724
 straipsnis. Teisės aktų, reglamentuojančių finansų rinką, pažeidimas ir
 trukdymas atlikti finansų rinkos priežiūrą
-Įstatymuose ar
-Lietuvos banko teisės aktuose nustatytos arba Lietuvos banko pareikalautos
-informacijos ar dokumentų nepateikimas nustatytais terminais arba melagingos,
-ne visos ar klaidinančios informacijos pateikimas – 
+Įstatymuose ar Lietuvos
+banko teisės aktuose nustatytos arba Lietuvos banko pareikalautos informacijos
+ar dokumentų nepateikimas nustatytais terminais arba melagingos, ne visos ar
+klaidinančios informacijos pateikimas – 
 užtraukia baudą
 finansų rinkos institucijų vadovams nuo vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių iki penkių tūkstančių septynių šimtų devyniasdešimt
@@ -15628,8 +15678,8 @@ organizacijų vadovams – nuo dviejų tūkstančių aštuonių šimtų devynias
 šešių iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų.
 Kitų Lietuvos
 Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme
-nustatytų reikalavimų, išskyrus šio straipsnio pirmojoje ir antrojoje dalyse numatytuosius,
-įgyvendinimo tvarkos pažeidimas –
+nustatytų reikalavimų, išskyrus šio straipsnio pirmojoje ir antrojoje dalyse
+numatytuosius, įgyvendinimo tvarkos pažeidimas –
 užtraukia baudą
 fiziniams asmenims nuo penkių šimtų septyniasdešimt devynių iki vieno
 tūkstančio septynių šimtų trisdešimt septynių eurų, įmonių, įstaigų ir
@@ -15762,13 +15812,13 @@ TAR 2014-10-28, i. k. 2014-15013
  
 17219
 straipsnis. Žemės ūkio produkcijos pirkimo–pardavimo tvarkos pažeidimas 
-Žemės ūkio produkcijos
-pirkimo–pardavimo sutarties rašytinės formos nesilaikymas arba blogesnių
-atsiskaitymo sąlygų, negu nustatyta įstatymuose ar kituose teisės aktuose,
+Žemės ūkio
+produkcijos pirkimo–pardavimo sutarties rašytinės formos nesilaikymas arba
+blogesnių atsiskaitymo sąlygų, negu nustatyta įstatymuose ar kituose teisės aktuose,
 numatymas tokiose sutartyse – 
 užtraukia baudą
-šią produkciją superkančių įmonių vadovams nuo dviejų šimtų aštuoniasdešimt
-devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų. 
+šią produkciją superkančių įmonių vadovams nuo dviejų šimtų aštuoniasdešimt devynių
+iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų. 
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
@@ -15925,8 +15975,8 @@ Straipsnio pakeitimai:
 Nr.
 IX-1386,
 2003-03-20, Žin., 2003, Nr. 35-1462 (2003-04-11)
-Nr. XII-1236, 2014-10-16, paskelbta
-TAR 2014-10-28, i. k. 2014-15013
+Nr. XII-1236, 2014-10-16, paskelbta TAR
+2014-10-28, i. k. 2014-15013
  
 17226
 straipsnis. Teisės aktais nustatytos žemės ūkio produkcijos pirkėjų
@@ -15962,8 +16012,8 @@ Privalomos
 informacijos nenurodymas juridinio asmens, jo filialo ar atstovybės, užsienio
 juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentuose,
 kurie yra naudojami turint santykių su kitais subjektais, taip pat juridinio
-asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
-organizacijos filialo ar atstovybės interneto svetainėje – 
+asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos
+filialo ar atstovybės interneto svetainėje – 
 užtraukia baudą
 juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
 organizacijos filialo ar atstovybės vadovui ar kitam įstatymuose arba steigimo
@@ -16015,11 +16065,11 @@ subjekto metinių ataskaitų rinkinio parengimo, pateikimo ir paskelbimo pareig�
 nevykdymas arba netinkamas vykdymas, taip pat metinių konsoliduotųjų ataskaitų
 parengimo ir pateikimo teisės aktuose nustatyta tvarka ir terminais reikalavimų
 nevykdymas arba netinkamas vykdymas – 
-užtraukia įspėjimą
-arba baudą viešojo sektoriaus subjekto vadovui (atsakingam viešojo sektoriaus
-subjekto vadovui) arba jo įgaliotam viešojo sektoriaus subjekto administracijos
-vadovui nuo
-penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų.
+užtraukia
+įspėjimą arba baudą viešojo sektoriaus subjekto vadovui (atsakingam viešojo
+sektoriaus subjekto vadovui) arba jo įgaliotam viešojo sektoriaus subjekto
+administracijos vadovui nuo penkiasdešimt septynių iki vieno
+šimto keturiasdešimt keturių eurų.
 Tokia pat veika,
 padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
 dalyje numatytus pažeidimus, –
@@ -16059,11 +16109,11 @@ užtraukia baudą
 nuo vieno tūkstančio septynių šimtų trisdešimt septynių iki dviejų tūkstančių
 aštuonių šimtų devyniasdešimt šešių eurų su pagamintos produkcijos, įrankių,
 žaliavos ir gautų pajamų iš šios veiklos konfiskavimu.
-Pastaba. Pagal
-šį straipsnį administracinė atsakomybė atsiranda, kai verčiamasi komercine,
-ūkine, finansine ar profesine veikla neturint licencijos (leidimo) veiklai,
-kuriai reikalinga Lietuvos Respublikos įstatymuose numatyta licencija (leidimas),
-ar kitokiu neteisėtu būdu ir gaunamos pajamos (įplaukos) ar paskutiniųjų 12
+Pastaba. Pagal šį
+straipsnį administracinė atsakomybė atsiranda, kai verčiamasi komercine, ūkine,
+finansine ar profesine veikla neturint licencijos (leidimo) veiklai, kuriai
+reikalinga Lietuvos Respublikos įstatymuose numatyta licencija (leidimas), ar
+kitokiu neteisėtu būdu ir gaunamos pajamos (įplaukos) ar paskutiniųjų 12
 mėnesių pajamos (įplaukos), ar nustatyta tvarka neįtrauktų į apskaitą prekių
 vertė neviršija 500 minimalių gyvenimo lygių (MGL) dydžio sumos. Nustatant
 pajamas (įplaukas), gaunamas neteisėtai verčiantis komercine, ūkine,
@@ -16080,8 +16130,8 @@ Nr. I-180,
 1993.06.10, Žin., 1993, Nr. 26-597 
 Nr. I-263,
 1993.10.05, Žin., 1993, Nr. 54-1047 
-Nr. I-545, 1994.07.18,
-Žin., 1994, Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1260,
@@ -16135,13 +16185,13 @@ buhalterinės apskaitos tvarkymas siekiant nuslėpti arba nuslepiant daugiau kai
 50 minimalių gyvenimo lygių (MGL) dydžio sumos mokesčius, kurie turėjo būti
 sumokėti pagal įstatymus už tikrinamąjį laikotarpį, –
 užtraukia baudą
-nuo penkių tūkstančių septynių šimtų devyniasdešimt dviejų iki vienuolikos
-tūkstančių penkių šimtų aštuoniasdešimt keturių eurų.
+nuo penkių tūkstančių septynių šimtų devyniasdešimt dviejų iki vienuolikos tūkstančių
+penkių šimtų aštuoniasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. I-2589,
 1992.05.26, Žin., 1992, Nr. 21-610 
-Nr. I-545,
-1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132 
 Nr. VIII-124,
 97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Nr. VIII-545,
@@ -16167,11 +16217,10 @@ dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio septynių šimtų
 trisdešimt septynių eurų.
-Dokumentų,
-patvirtinančių pateiktus statistinius duomenis, nepateikimas oficialiąją
-statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojams arba šių
-dokumentų nuslėpimas, taip pat minėtų valstybės tarnautojų teisėtų reikalavimų
-nevykdymas –
+Dokumentų, patvirtinančių
+pateiktus statistinius duomenis, nepateikimas oficialiąją statistiką tvarkančių
+institucijų ir įstaigų valstybės tarnautojams arba šių dokumentų nuslėpimas,
+taip pat minėtų valstybės tarnautojų teisėtų reikalavimų nevykdymas –
 užtraukia baudą
 pareigūnams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
@@ -16243,10 +16292,10 @@ pirmojoje dalyje numatyti pažeidimai, padarę materialinę žalą, –
 užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki penkių
 tūkstančių septynių šimtų devyniasdešimt dviejų eurų.
-Lietuvos Respublikos
-finansinių priemonių rinkų įstatyme numatytų draudimo naudotis viešai
-neatskleista informacija prekiaujant finansinėmis priemonėmis ir draudimo
-manipuliuoti rinka pažeidimas – 
+Lietuvos
+Respublikos finansinių priemonių rinkų įstatyme numatytų draudimo naudotis
+viešai neatskleista informacija prekiaujant finansinėmis priemonėmis ir
+draudimo manipuliuoti rinka pažeidimas – 
 užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki aštuonių
 tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų.
@@ -16281,9 +16330,9 @@ užtraukia baudą
 nuo keturiolikos tūkstančių keturių šimtų aštuoniasdešimt vieno iki dvidešimt
 aštuonių tūkstančių devynių šimtų šešiasdešimt dviejų eurų su šių banderolių ar
 kitų specialių ženklų bei jų gaminimo priemonių konfiskavimu.
-Netikrų banderolių
-prekėms ar kitų specialių ženklų naudojimas prekiaujamoms prekėms, kuriomis
-draudžiama prekiauti be banderolių ar kitų specialių ženklų, –
+Netikrų
+banderolių prekėms ar kitų specialių ženklų naudojimas prekiaujamoms prekėms,
+kuriomis draudžiama prekiauti be banderolių ar kitų specialių ženklų, –
 užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki penkių tūkstančių
 septynių šimtų devyniasdešimt dviejų eurų su šių prekių konfiskavimu.
@@ -34136,6 +34185,15 @@ PAŽEIDIMŲ KODEKSO 43-9, 239-4 IR 259-1 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2016 m. balandžio 1 d.
  
+278.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1699,
+2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08121 
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 172-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2015 m. liepos 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
@@ -34168,12 +34226,13 @@ DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 301 STRAIPSNIO 2 DALIES (2007 M. GRUODŽIO 13 D. REDAKCIJA)
 ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2015-05-26)
+Aušrinė Trapinskienė (2015-05-29)
                  
 ausrine.trapinskiene@lrs.lt
 
