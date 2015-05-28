@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-27
+Suvestinė redakcija nuo 2015-05-28 iki 2015-08-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -605,7 +605,10 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 
 
-17 straipsnis. Alkoholio produktų pardavimo, laikymo ir gabenimo reikalavimai
+17 straipsnis. Alkoholio produktų pardavimo, įsigijimo, laikymo ir gabenimo reikalavimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
+ 
 
 
 1. Lietuvos Respublikoje parduoti draudžiama:
@@ -773,7 +776,10 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 
 
-4. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims, turintiems verslo liudijimą, suteikiantį teisę verstis išvežiojamąja prekyba maisto produktais, ir vykdantiems verslo liudijime numatytą veiklą, draudžiama jų darbo metu specialiai šiai prekybai pritaikytose automobilinėse parduotuvėse laikyti ir gabenti alkoholio produktus, taip pat taksi vairuotojams jų darbo metu draudžiama taksi automobiliuose laikyti ir gabenti alkoholio produktus. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti alkoholinius gėrimus, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims, turintiems verslo liudijimą, suteikiantį teisę verstis išvežiojamąja prekyba maisto produktais, ir vykdantiems verslo liudijime numatytą veiklą, draudžiama jų darbo metu specialiai šiai prekybai pritaikytose automobilinėse parduotuvėse laikyti ir gabenti alkoholio produktus, taip pat taksi vairuotojams jų darbo metu draudžiama taksi automobiliuose laikyti ir gabenti alkoholio produktus. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
+ 
 
 
 
@@ -2636,4 +2642,9 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 16 straipsnio pake
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1527, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21288
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 17 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 17 straipsnio pakeitimo įstatymas
