@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-05-28
+Suvestinė redakcija nuo 2015-05-29 iki 2015-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -1669,7 +1669,10 @@ REIKALAVIMAI GELEŽINKELIŲ TRANSPORTO DARBUOTOJAMS
 31 straipsnis. Reikalavimai geležinkelių transporto darbuotojams
 
 
-1. Specialius profesijų ir pareigybių kvalifikacinius reikalavimus geležinkelių transporto darbuotojams, suderinę su Valstybine geležinkelio inspekcija prie Susisiekimo ministerijos, nustato atitinkamai viešosios geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas).
+1. Specialiuosius profesijų ir pareigybių kvalifikacinius reikalavimus geležinkelių transporto darbuotojams nustato atitinkamai geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas).
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -2781,3 +2784,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1623, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06524
 Lietuvos Respublikos geležinkelių transporto kodekso papildymo 33-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+Lietuvos Respublikos geležinkelių transporto kodekso 3, 10, 10-1, 11, 19, 21, 22, 23-1, 31, 37, 50 ir 54 straipsnių pakeitimo įstatymas
