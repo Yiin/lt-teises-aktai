@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-28
+Suvestinė redakcija nuo 2015-05-29 iki 2015-07-03
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -2729,11 +2729,13 @@ Kredito unija neturi teisės skolinti įsigyjamo jos pajaus pajiniam įnašui at
 481 straipsnis. Apribojimai disponuoti kredito unijos pajiniais įnašais
 
 
-Kredito unijos nariui apribojama teisė disponuoti pajiniu įnašu ar jo dalimi, neviršijančia skolinamų pinigų sumos kartu su už ją mokamomis palūkanomis, tol, kol bus grąžinta skolinama suma su palūkanomis.
+Kredito unijos nariui kredito unijos įstatuose nustatyta tvarka gali būti apribojama teisė disponuoti pajiniu įnašu ar jo dalimi, neviršijančia skolinamų pinigų sumos kartu su už ją mokamomis palūkanomis, tol, kol bus grąžinta skolinama suma su palūkanomis.
 
 
 Papildyta straipsniu:
 Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
+Straipsnio pakeitimai:
+Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
  
 
 
@@ -4339,3 +4341,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1104, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13434
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 32, 38, 39, 63 ir 75 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 48-1 straipsnio pakeitimo įstatymas
