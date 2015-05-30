@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-29
+Suvestinė redakcija nuo 2015-05-30 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -485,67 +485,6 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 
 8. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats gyventojas.
-Straipsnio redakcija nuo 2016-01-01:
-
-
-
-
-
-
-10 straipsnis. Apskaitos tvarkymas
-
-
-1. Ūkio subjekto apskaitą tvarko:
-
-
-1) vyriausiasis buhalteris (buhalteris);
-
-
-
-
-2) pagal sutartį apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo.
-
-
-
-
-
-
-2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio 6 ir 7 dalyse nustatytus atvejus.
-
-
-
-
-3. Šio straipsnio 1 dalyje nurodyti fiziniai asmenys ir pagal sutartį apskaitos paslaugas teikiančios įmonės darbuotojai, teikiantys vyriausiojo buhalterio (buhalterio) pareigas atitinkančias paslaugas, turi atitikti šio įstatymo 101 straipsnyje nustatytus reikalavimus.
-
-
-
-
-4. Šio straipsnio 1 dalies 2 punkte nurodyti asmenys turi atitikti šio įstatymo 102 straipsnyje nustatytus reikalavimus.
-
-
-
-
-5. Biudžetinių įstaigų apskaita tvarkoma šio straipsnio 1 dalies 1 punkte nustatyta tvarka arba centralizuotai.
-
-
-
-
-6. Mažosios bendrijos apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti tos bendrijos narys.
-
-
-
-
-7. Individualios įmonės apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti tos įmonės savininkas.
-
-
-
-
-8. Ūkininko ūkio apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats ūkininkas arba ūkininko partneriai.
-
-
-
-
-9. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats gyventojas.
 
 
 Straipsnio pakeitimai:
@@ -559,75 +498,7 @@ Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 Nr. XI-2163, 2012-06-29, Žin., 2012, Nr. 83-4337 (2012-07-14)
 Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14), atitaisymas skelbtas: Žin., 2012, Nr. 107
- 
-
-
-
-
-Įstatymas papildomas 101 straipsniu nuo 2016-01-01:
-101 straipsnis. Reikalavimai asmenims, atliekantiems vyriausiojo buhalterio (buhalterio) pareigas arba teikiantiems vyriausiojo buhalterio (buhalterio) pareigas atitinkančias paslaugas 
-
-
-1. Šio įstatymo 10 straipsnio 1 dalyje nurodyti fiziniai asmenys ir pagal sutartį apskaitos paslaugas teikiančios įmonės darbuotojai, teikiantys vyriausiojo buhalterio (buhalterio) pareigas atitinkančias paslaugas, turi atitikti šiuos reikalavimus:
-
-
-1) laikytis Buhalterių profesionalų etikos kodekse nustatytų profesinės etikos principų;
-
-
-
-
-2) būti išlaikęs profesinius buhalterinės apskaitos ir finansinės atskaitomybės egzaminą ir mokesčių egzaminą, kaip nurodyta šio straipsnio 2 dalyje.
-
-
-
-
-
-
-2. Ūkio subjektų organizuoti buhalterinės apskaitos ir finansinės atskaitomybės bei mokesčių egzaminai pripažįstami pagal Vyriausybės arba jos įgaliotos institucijos parengtą egzaminų pripažinimo tvarką. 
-
-
-
-
-3. Vyriausybė arba jos įgaliota institucija atlieka šio straipsnio 1 dalies 2 punkte nustatytam reikalavimui įgyvendinti būtinas funkcijas:
-
-
-1) tvirtina šio straipsnio 1 dalies 2 punkte nurodytų egzaminų programas;
-
-
-
-
-2) tvirtina reikalavimus ūkio subjektams, turintiems teisę organizuoti šio straipsnio 1 dalies 2 punkte nurodytus egzaminus, tvirtina tokių ūkio subjektų sąrašą, įtraukimo į jį ir išbraukimo iš jo tvarką;
-
-
-
-
-3) nustato šio straipsnio 1 dalies 2 punkte nurodytų egzaminų organizavimo tvarką, vertinimo metodiką ir apeliacijų nagrinėjimo tvarką;
-
-
-
-
-4) nustato apmokėjimo už šio straipsnio 1 dalies 2 punkte nurodytus egzaminus viešojo sektoriaus subjektų darbuotojams tvarką;
-
-
-
-
-5) vykdo šio straipsnio 1 dalies 2 punkte nurodytų egzaminų organizavimo ir vertinimo priežiūrą;
-
-
-
-
-6) tvarko asmenų, išlaikiusių šio straipsnio 1 dalies 2 punkte nurodytus egzaminus, sąrašą ir nustato įrašymo į šį sąrašą ir išbraukimo iš jo tvarką;
-
-
-
-
-7) nustato Lietuvos Respublikos ir užsienio ūkio subjektų organizuotų buhalterinės apskaitos ir finansinės atskaitomybės bei mokesčių egzaminų pripažinimo tvarką.
-
-
-
-
-Įstatymas papildytas straipsniu :
-Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
  
 
 
@@ -1396,3 +1267,8 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 10-2 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1480, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21141
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
+Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, 23 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
