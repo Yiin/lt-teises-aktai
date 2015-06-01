@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2010-12-28 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
- 
  
 LIETUVOS RESPUBLIKOS
 ASOCIACIJŲ
@@ -315,7 +314,10 @@ ASOCIACIJOS VALDYMAS
 
 
 
-5) tvirtina asociacijos metinę finansinę atskaitomybę;
+5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį;
+Straipsnio punkto pakeitimai:
+Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
+ 
 
 
 
@@ -386,7 +388,10 @@ Nr. XI-1222, 2010-12-14, Žin., 2010, Nr. 153-7790 (2010-12-28), i. k. 1101010IS
 
 
 
-2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į darbą ir atleidžia darbuotojus, sudaro su jais darbo sutartis, rengia ir pateikia visuotiniam narių susirinkimui asociacijos veiklos ataskaitą, skelbia ar organizuoja viešos informacijos paskelbimą, organizuoja savanoriškus darbus Vyriausybės nustatyta tvarka, sprendžia kitus šiame Įstatyme ir asociacijos įstatuose valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu asociacijos įstatai nenustato kitaip.
+2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis, atsako už asociacijos metinių finansinių ataskaitų rinkinio ir asociacijos veiklos ataskaitos parengimą ir pateikimą visuotiniam narių susirinkimui, skelbia ar organizuoja viešos informacijos paskelbimą, organizuoja savanorišką veiklą Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka, sprendžia kitus šiame Įstatyme ir asociacijos įstatuose valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu asociacijos įstatai nenustato kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
+ 
 
 
 
@@ -414,43 +419,46 @@ Nr. XI-1222, 2010-12-14, Žin., 2010, Nr. 153-7790 (2010-12-28), i. k. 1101010IS
 
 
 
-10 straipsnis. Asociacijos veiklos ataskaita
+10 straipsnis. Asociacijos veiklos ataskaita ir metinių finansinių ataskaitų rinkinio pateikimas juridinių asmenų registrui
 
 
-1. Asociacijos įstatuose nurodytas valdymo organas per įstatuose nustatytą terminą turi parengti ir pateikti visuotiniam narių susirinkimui kiekvienų praėjusių finansinių metų asociacijos veiklos ataskaitą. Ši ataskaita yra vieša. Kiekvieno fizinio ar juridinio asmens reikalavimu asociacija turi sudaryti sąlygas asociacijos buveinėje ar kitais būdais su šia ataskaita visiems susipažinti. 
-
-
-
-
-2. Asociacijos veiklos ataskaitoje turi būti nurodyta:
-
-
-1) informacija apie asociacijos veiklą įgyvendinant jos įstatuose nustatytus veiklos tikslus;
+1. Asociacijos įstatuose nurodytas valdymo organas per įstatuose nustatytą terminą turi parengti ir pateikti visuotiniam narių susirinkimui kiekvienų praėjusių finansinių metų asociacijos veiklos ataskaitą. Ši ataskaita yra vieša. Kiekvieno fizinio ar juridinio asmens reikalavimu asociacija turi sudaryti sąlygas asociacijos buveinėje ar kitais būdais su šia ataskaita visiems susipažinti. 
 
 
 
 
-2) asociacijos narių skaičius finansinių metų pabaigoje;
+2. Asociacijos veiklos ataskaitoje turi būti nurodyta:
+
+
+1) informacija apie asociacijos veiklą įgyvendinant jos įstatuose nustatytus veiklos tikslus;
 
 
 
 
-3) asociacijos metinė finansinė atskaitomybė;
+2) asociacijos narių skaičius finansinių metų pabaigoje;
 
 
 
 
-4) samdomų asociacijos darbuotojų skaičius finansinių metų pabaigoje.
+3) samdomų asociacijos darbuotojų skaičius finansinių metų pabaigoje.
 
 
 
 
 
 
-3. Asociacijos veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis narių susirinkimas.
+3. Asociacijos veiklos ataskaitoje gali būti ir kita informacija, kurią nustato visuotinis narių susirinkimas.
+
+
+
+
+4. Metinių finansinių ataskaitų rinkinys, o kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ir veiklos ataskaita yra pateikiami juridinių asmenų registrui.
+
+
+TAR pastaba. Nuostatos dėl metinių finansinių ataskaitų rinkinio teikimo juridinių asmenų registrui taikomos teikiant 2015 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius.
+Straipsnio pakeitimai:
+Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
  
-
-
 
 
 
@@ -965,3 +973,8 @@ Lietuvos Respublikos asociacijų įstatymo 5, 6, 12 straipsnių pakeitimo ir pap
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1222, 2010-12-14, Žin., 2010, Nr. 153-7790 (2010-12-28), i. k. 1101010ISTA0XI-1222
 Lietuvos Respublikos asociacijų įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9 ir 10 straipsnių pakeitimo įstatymas
