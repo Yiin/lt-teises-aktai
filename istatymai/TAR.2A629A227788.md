@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
  
@@ -153,102 +153,7 @@ Nr. XI-1221, 2010-12-14, Žin. 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010IST
 
 
 
-9. Pavojingos cheminės medžiagos ir preparatai – cheminės medžiagos ir preparatai, kurie iki 2015 m. gegužės 31 d. gali būti priskiriami vienai ar kelioms pavojingumo klasėms ir kategorijoms, nurodytoms Reglamente (EB) Nr. 1272/2008, arba pagal bent vieną savybę gali būti priskiriami vienai iš šių 15 kategorijų:
-
-
-1) sprogiosios medžiagos ir preparatai – kietos, skystos, pastos ar gelio pavidalo medžiagos ir preparatai, kurie be atmosferos deguonies gali egzotermiškai reaguoti staigiai išsiskiriant dujoms ir kurie nustatytomis bandymo sąlygomis detonuoja, greitai sudega arba sprogsta juos kaitinant iš dalies uždaroje erdvėje;
-
-
-
-
-2) oksiduojančiosios medžiagos ir preparatai – medžiagos ir preparatai, kuriems liečiantis su kitomis medžiagomis, ypač su degiomis, vyksta intensyvi egzoterminė reakcija;
-
-
-
-
-3) ypač degios medžiagos ir preparatai – skystos medžiagos ir preparatai, kurių pliūpsnio temperatūra yra labai žema, o virimo temperatūra yra žema, taip pat dujinės medžiagos ir preparatai, kurie, esant aplinkos temperatūrai ir slėgiui, užsidega nuo sąlyčio su oru;
-
-
-
-
-4) labai degios medžiagos ir preparatai:
-
-
-
-
-a) medžiagos ir preparatai, kurie be pašalinės energijos gali įkaisti ir pagaliau užsidegti ore esant aplinkos temperatūrai;
-
-
-
-
-b) kietosios medžiagos ir preparatai, kurie gali lengvai užsidegti vos susilietę su uždegimo šaltiniu ir kurie toliau dega arba sudega, pašalinus uždegimo šaltinį;
-
-
-
-
-c) skystosios medžiagos ar preparatai, kurių pliūpsnio temperatūra labai žema;
-
-
-
-
-d) medžiagos ir preparatai, kurie susilietę su vandeniu arba drėgnu oru išskiria ypač degias dujas pavojingais kiekiais;
-
-
-
-
-5) degiosios medžiagos ir preparatai – skystos medžiagos ir preparatai, kurių pliūpsnio temperatūra yra žema;
-
-
-
-
-6) labai toksiškos medžiagos ir preparatai – medžiagos ir preparatai, kurie labai mažu kiekiu įkvėpti, praryti arba patekę per odą sukelia mirtį arba ūmų ar lėtinį sveikatos sutrikimą;
-
-
-
-
-7) toksiškos medžiagos ir preparatai – medžiagos ir preparatai, kurie mažu kiekiu įkvėpti, praryti arba patekę per odą sukelia mirtį arba ūmų ar lėtinį sveikatos sutrikimą;
-
-
-
-
-8) kenksmingosios medžiagos ir preparatai – medžiagos ir preparatai, kurie įkvėpti, praryti arba patekę per odą gali sukelti mirtį arba ūmų ar lėtinį sveikatos sutrikimą;
-
-
-
-
-9) ėsdinančiosios medžiagos ir preparatai – medžiagos ir preparatai, kurie susilietę su gyvais audiniais gali juos suardyti;
-
-
-
-
-10) dirginančiosios medžiagos ir preparatai – neėsdinančiosios medžiagos ir preparatai, kurie trumpai, ilgai ar pakartotinai liesdamiesi su oda arba gleivine gali sukelti uždegimą;
-
-
-
-
-11) jautrinančiosios medžiagos ir preparatai – medžiagos ir preparatai, kurie įkvėpti arba patekę per odą gali sukelti tokią padidėjusio jautrumo reakciją, kad toliau veikiant medžiagai ar preparatui pasireiškia būdingas neigiamas poveikis;
-
-
-
-
-12) kancerogeninės medžiagos ir preparatai – medžiagos ir preparatai, kurie įkvėpti, praryti arba patekę per odą gali sukelti vėžį arba padidinti sergamumą vėžiu;
-
-
-
-
-13) mutageninės medžiagos ir preparatai – medžiagos ir preparatai, kurie įkvėpti, praryti arba patekę per odą gali sukelti paveldimus neigiamus genetinius pokyčius arba padidinti jų dažnumą;
-
-
-
-
-14) toksiškos reprodukcijai medžiagos ir preparatai – medžiagos ir preparatai, kurie įkvėpti, praryti arba patekę per odą gali sukelti nepaveldimą neigiamą poveikį palikuonims arba padidinti jo dažnumą ir (arba) susilpninti vyrų arba moterų reprodukcines funkcijas arba pajėgumą;
-
-
-
-
-15) aplinkai pavojingos medžiagos ir preparatai – medžiagos ir preparatai, kurie patekę į aplinką sukelia ar gali sukelti tiesioginį ar uždelstą pavojų vienam ar keliems aplinkos elementams. 
-
-
+9. Pavojingos cheminės medžiagos ir preparatai – nuo 2015 m. birželio 1 d. pavojingomis cheminėmis medžiagomis ir mišiniais (preparatais) laikomos medžiagos ir mišiniai (preparatai), kurie atitinka klasifikavimo kaip pavojingi kriterijus pagal Reglamentą (EB) Nr. 1272/2008. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1221, 2010-12-14, Žin., 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010ISTA0XI-1221
  
