@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2015-04-01 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -447,7 +447,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-53. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis šio Įstatymo 4 priede. 
+53. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas (OL 2014 L 365, p. 89), priede.
+Straipsnio dalies pakeitimai:
+Nr. XII-1720, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07671
+ 
 
 
 
@@ -551,7 +554,7 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis šio Įstatymo 4 priede. 
+54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas (OL 2014 L 365, p. 89), priede.
 
 
 
@@ -4359,54 +4362,9 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-Lietuvos Respublikos 
-atliekų tvarkymo įstatymo 
-4 priedas
- 
-SAVYBĖS, DĖL KURIŲ ATLIEKOS TAMPA PAVOJINGOSIOMIS
- 
-H1              Sprogstamosios: medžiagos ir preparatai, kurie nuo liepsnos gali sprogti arba kurie yra jautresni smūgiui ar trinčiai negu dinitrobenzenas
-H2              Oksiduojamosios: medžiagos ir preparatai, kurie nuo sąlyčio su kitomis medžiagomis, ypač degiomis, sukelia stiprią egzoterminę reakciją
-H3-A          Labai degios:
-– skystos medžiagos ir preparatai, kurių pliūpsnio temperatūra žemesnė negu 21 °C (įskaitant itin degius skysčius), arba
-– medžiagos ir preparatai, kurie nuo sąlyčio su oru aplinkos temperatūros sąlygomis gali įkaisti ir galiausiai savaime užsidegti be pašalinės energijos, arba
-– kietos medžiagos ir preparatai, kurie nuo trumpo sąlyčio su ugnies šaltiniu gali lengvai užsidegti ir kurie pašalinus ugnies šaltinį dega toliau arba sudega, arba
-– dujinės medžiagos ir preparatai, kurie gali užsidegti ore esant normaliam slėgiui, arba
-– medžiagos ir preparatai, kurie nuo sąlyčio su vandeniu ar drėgnu oru skleidžia pavojingai dideliu kiekiu labai degias dujas
-H3-B          Degios: skystos medžiagos ir preparatai, kurių pliūpsnio temperatūra lygi arba aukštesnė negu 21 °C ir lygi arba žemesnė negu 55 °C
-H4              Dirginančios: medžiagos ir preparatai, neturintys ėdžių savybių, kurie nuo staigaus, ilgesnio ar pakartotinio sąlyčio su oda ar gleivine gali sukelti uždegimą
-H5              Kenksmingos: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali iš dalies pakenkti sveikatai
-H6              Toksiškos: medžiagos ir preparatai (įskaitant labai toksiškus), kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti sunkią ūmią arba chronišką ligą ar net mirtį
-H7              Kancerogeninės: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti vėžį arba padidinti susirgimo vėžiu tikimybę
-H8              Ėdžios: medžiagos ir preparatai, prie kurių prisilietus gali būti sunaikinti gyvieji audiniai
-H9              Infekcinės: medžiagos ir preparatai, turintys gyvybingų mikroorganizmų arba jų toksinų, kurie, kaip žinoma arba pagrįstai tikima, sukelia žmonių ar kitų gyvųjų organizmų ligas
-H10            Toksiškos reprodukcijai: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
-H11            Mutageninės: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti paveldimus genetinius išsigimimus arba padidinti jų tikimybę
-H12            Atliekos, kurios nuo sąlyčio su vandeniu, oru ar rūgštimi išskiria toksiškas arba labai toksiškas dujas
-H13*          Jautrinančios: medžiagos ir preparatai, kurie įkvėpti ar prasiskverbę per odą gali sukelti tokią stiprią alerginę reakciją, kad toliau veikiant medžiagai ar preparatui pasireiškia būdingas neigiamas poveikis
-H14            Ekotoksiškos: atliekos, kurios sukelia arba gali sukelti staigų ar uždelstą pavojų vienam ar daugiau aplinkos komponentų
-H15            Atliekos, iš kurių bet kuriuo būdu po šalinimo gali susidaryti kita medžiaga (pvz., filtratas), turinti kurią nors pirmiau nurodytų savybių
-Pastabos:
-
-
-1. Atliekoms pavojingos savybės – „toksiškos“ ir „labai toksiškos“, „kenksmingos“, „ėsdinančios“, „dirginančios“, „kancerogeninės“, „toksiškos reprodukcijai“, „mutageninės“ ir „ekologiškai toksiškos“ – priskiriamos remiantis kriterijais, nustatytais pavojingųjų cheminių medžiagų ir preparatų klasifikavimą ir ženklinimą reglamentuojančiuose teisės aktuose. 
-
-
-
-
-2. Tam tikrais atvejais taikomos pavojingųjų cheminių medžiagų ir preparatų klasifikavimą ir ženklinimą reglamentuojančiuose teisės aktuose išvardytos ribinės vertės.
-
-
-
-
-3. Taikomi atitinkamuose Lietuvos Respublikos ir Europos standartizacijos komiteto (CEN) dokumentuose aprašyti metodai.
-* Jei yra bandymų metodai.
-
-
-Priedo žymos pakeitimas:
-Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-Priedo pakeitimai:
-Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+4 priedas. Neteko galios nuo 2015-06-01
+Priedo naikinimas:
+Nr. XII-1720, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07671
 Priedo pakeitimai:
 Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
  
@@ -4606,3 +4564,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-1, 4-1, 6,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 30-2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1720, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07671
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 straipsnio pakeitimo ir 4 priedo pripažinimo netekusiu galios įstatymas
