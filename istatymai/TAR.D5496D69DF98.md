@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -672,7 +672,10 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 
 
-4) asociacijoms (valstybės nekilnojamasis turtas asociacijoms perduodamas šio straipsnio 2 dalyje nustatytais atvejais);
+4) asociacijoms (tik šio straipsnio 2 dalyje nustatytais atvejais); 
+Straipsnio punkto pakeitimai:
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+ 
 
 
 
@@ -687,22 +690,36 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 
 
-7) kitiems subjektams, jeigu tai nustatyta įstatymuose, tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+7) labdaros ir paramos fondams (tik šio straipsnio 2 dalyje nustatytais atvejais); 
+Papildyta straipsnio punktu:
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+ 
+
+
+
+
+8) kitiems subjektams, jeigu tai nustatyta įstatymuose, tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+ 
 
 
 
 
 
 
-2. Valstybės nekilnojamasis turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik toms asociacijoms, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Profesinių sąjungų susivienijimams panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik savivaldybės nekilnojamasis turtas.
+2. Valstybės ir savivaldybės nekilnojamasis turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik toms asociacijoms ir labdaros ir paramos fondams, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Asociacijų ir labdaros ir paramos fondų veiklas, kurios priskiriamos socialinei arba nacionalinio saugumo sričiai, nustato Lietuvos Respublikos Vyriausybė. Profesinių sąjungų susivienijimams panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik savivaldybės nekilnojamasis turtas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+ 
 
 
 
 
-3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalyje nurodytiems subjektams (išskyrus 1 ir 7 punktuose nurodytus subjektus) gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu subjektai atitinka šiuos kriterijus: 
+3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalyje nurodytiems subjektams (išskyrus 1 ir 8 punktuose nurodytus subjektus) gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu subjektai atitinka šiuos kriterijus:
 
 
-1) asociacija, profesinių sąjungų susivienijimas ir jį sudarančios profesinės sąjungos ar politinė partija neturi nuosavybės teise priklausančio ar panaudos pagrindais perduoto laikinai neatlygintinai valdyti ir naudotis valstybės ar savivaldybės nekilnojamojo turto savivaldybėje, kurioje prašoma panauda suteikti nekilnojamąjį turtą;
+1) labdaros ir paramos fondas, asociacija, profesinių sąjungų susivienijimas ir jį sudarančios profesinės sąjungos ar politinė partija neturi nuosavybės teise priklausančio ar panaudos pagrindais perduoto laikinai neatlygintinai valdyti ir naudotis valstybės ar savivaldybės nekilnojamojo turto savivaldybėje, kurioje prašoma panaudos pagrindais suteikti nekilnojamąjį turtą;
 
 
 
@@ -712,14 +729,20 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 
 
-3) subjektas pagrindžia, kad jo veiklos rezultatai užtikrina naudą visuomenei ar jos daliai.
+3) subjektas pagrindžia, kad jo veiklos rezultatai užtikrina naudą visuomenei ar jos daliai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+ 
 
 
 
 
-
-
-4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalies 2–5 ir 7 punktuose nurodytiems subjektams priima Vyriausybė, o kai valstybės turtas perduodamas pagal panaudos sutartį biudžetinėms įstaigoms, – centralizuotai valdomo valstybės turto valdytojas Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 4–7 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Prieš sudarydamas panaudos sutartį panaudos gavėjas turi pateikti rašytinį įsipareigojimą panaudos sutartyje numatytomis sąlygomis panaudoti savo lėšas perduoto nekilnojamojo daikto einamajam ir statinio kapitaliniam remontui, kito ilgalaikio materialiojo turto remontui atlikti. Savivaldybės tarybos įgaliota institucija sprendimus priima savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas. 
+4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 4–8 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Prieš sudarydamas panaudos sutartį panaudos gavėjas turi pateikti rašytinį įsipareigojimą panaudos sutartyje numatytomis sąlygomis panaudoti savo lėšas perduoto nekilnojamojo daikto einamajam ir statinio kapitaliniam remontui, kito ilgalaikio materialiojo turto remontui atlikti. Savivaldybės tarybos įgaliota institucija sprendimus priima savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+ 
 
 
 
@@ -1874,3 +1897,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 20 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
