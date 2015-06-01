@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2014-10-28 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -402,9 +402,10 @@ Nr. XI-1392, 2011-05-19, Žin., 2011, Nr. 68-3223 (2011-06-04), i. k. 1111010IST
 
 
 
-34. Specialieji aviacijos darbai – orlaivio naudojimas už užmokestį specializuotoms paslaugoms teikti žemės ūkyje, statybose, fotodarbams – fotografijai ir topografijai, taip pat stebėjimo ir patruliavimo bei paieškos ir gelbėjimo darbams, oro reklamai ir kita.
+34. Neteko galios 2015-06-01.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
@@ -1314,18 +1315,20 @@ Lietuvos Respublikos oro erdve gali skristi tik orlaiviai, kurių keliamas triuk
 
 
 
-35 straipsnis. Leidimai specialiesiems skrydžiams
+35 straipsnis. Specialieji leidimai skrydžiams
 
 
-1. Išimtiniais atvejais CAA gali duoti leidimą specialiajam skrydžiui tokiu orlaiviu, kuriam bendra tvarka negali būti išduotas tinkamumo skraidyti pažymėjimas, bet toks orlaivis gali saugiai skraidyti laikydamasis tam tikrų apribojimų.
+1. Išimtiniais atvejais CAA gali duoti specialųjį leidimą skrydžiui tokiu orlaiviu, kuriam bendra tvarka negali būti išduotas tinkamumo skraidyti pažymėjimas, bet toks orlaivis gali saugiai skraidyti laikydamasis tam tikrų apribojimų.
 
 
 
 
-2. Tokie leidimai gali būti išduodami bandomiesiems skrydžiams, perskraidinti orlaivius į remonto vietą ir kitais atvejais.
+2. Tokie leidimai gali būti išduodami bandomiesiems skrydžiams, perskraidinti orlaivius į remonto vietą ir kitais atvejais. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
  
-
-
 
 
 
@@ -1411,10 +1414,12 @@ Tam tikrose tarptautinio oro uosto teritorijos dalyse steigiami ar veikia Valsty
 40 straipsnis. Civilinio aerodromo priežiūra
 
 
-CAA turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstatymo ir kitų teisės aktų nustatytus reikalavimus. CAA įgalioti atstovai turi teisę nekliudomi įeiti ir apžiūrėti atitinkamus objektus, įrangą bei įrengimus, gauti visą reikiamą informaciją, dokumentus ir kitą medžiagą, susijusius su civilinio aerodromo tinkamumu naudoti.
+CAA turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstatymo ir kitų teisės aktų nustatytus reikalavimus. CAA įgalioti atstovai turi teises, nurodytas 2014 m. vasario 12 d. Komisijos reglamento (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros, 3 straipsnio 6 dalyje. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
  
-
-
 
 
 
@@ -1438,9 +1443,10 @@ CAA turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstaty
 42 straipsnis. Civilinių aerodromų tinkamumas naudoti
 
 
-1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013, ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą. 
+1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, 2014 m. vasario 12 d. Komisijos reglamento (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros, ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
  
 
 
@@ -1859,18 +1865,20 @@ VEŽĖJO PAŽYMĖJIMAS IR LICENCIJA
  
 
 
-54 straipsnis. Vežėjo pažymėjimas
+54 straipsnis. Vežėjo pažymėjimas ir specialieji skrydžiai
 
 
-1. Lietuvos Respublikos teritorijoje vykdyti oro susisiekimą ir specialiuosius aviacijos darbus galima tik turint galiojantį vežėjo pažymėjimą. Jį susisiekimo ministro nustatyta tvarka išduoda arba pripažįsta galiojančiu CAA.
+1. Lietuvos Respublikos teritorijoje vykdyti oro susisiekimą galima tik turint galiojantį vežėjo pažymėjimą. Vežėjo pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo, deklaracijų skrydžiams pateikimo ir leidimų vykdyti specialiuosius skrydžius išdavimo sąlygos nustatytos 2012 m. spalio 5 d. Komisijos reglamente (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014. Šiame reglamente nustatytas kompetentingos institucijos funkcijas vykdo ir šio reglamento įgyvendinimo tvarką nustato CAA.
 
 
 
 
-2. Šio straipsnio 1 dalies reikalavimai taip pat taikomi verčiantis orlaivių nuomos veikla, kai atsakomybė už orlaivio tinkamumą skraidyti tenka nuomotojui.
+2. Verstis orlaivių nuomos veikla, kai atsakomybė už orlaivio tinkamumą skraidyti tenka nuomotojui, galima tik turint galiojantį vežėjo pažymėjimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
  
-
-
 
 
 
@@ -1955,7 +1963,10 @@ SKRYDŽIŲ VYKDYMAS
 58 straipsnis. Orlaivių naudojimas
 
 
-1. Orlaivių, kuriems netaikomos 2012 m. spalio 5 d. Komisijos reglamento (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 14 d. Komisijos reglamentu (ES) Nr. 800/2013, nuostatos, naudojimo techninius reikalavimus nustato CAA.
+1. Orlaivių, kuriems netaikomos 2012 m. spalio 5 d. Komisijos reglamento (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014, nuostatos, naudojimo techninius reikalavimus nustato CAA. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+ 
 
 
 
@@ -2710,9 +2721,19 @@ Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010IS
 
 
 
-20. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 14 d. Komisijos reglamentu (ES) Nr. 800/2013 (OL 2013 L 227, p. 1). 
+20. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014 (OL 2014 L 123, p. 1). 
 Papildyta straipsnio dalimi:
 Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
+Straipsnio dalies pakeitimai:
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+ 
+
+
+
+
+21. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1). 
+Papildyta punktu:
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
  
 
 
@@ -2802,3 +2823,8 @@ Lietuvos Respublikos aviacijos įstatymo 66 straipsnio ir priedo pakeitimo ir p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 58 straipsnių ir priedo pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 35, 40, 42, 54, 58 straipsnių ir priedo pakeitimo įstatymas
