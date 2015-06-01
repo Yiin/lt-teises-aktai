@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-05-31
+Suvestinė redakcija nuo 2015-06-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
  
@@ -524,20 +524,16 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-3. Krašto apsaugos ministras šio įstatymo nustatyta tvarka skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, taip pat LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus arba įgalioja LŠS vadą skirti į pareigas, atleisti iš jų ir nušalinti nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus. Jeigu LŠS vadas, jo pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, įstatymų ir krašto apsaugos ministro nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Darbo užmokestis LŠS vadui, jo pavaduotojams ir rinktinių vadams mokamas, taip pat LŠS veiklai naudojamų pastatų išlaikymo (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos, su pagalba LŠS veiklos administravimo srityje susijusios, išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
+3. Krašto apsaugos ministras šio įstatymo nustatyta tvarka skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, taip pat LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus arba įgalioja LŠS vadą skirti į pareigas, atleisti iš jų ir nušalinti nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus, taip pat apdovanoja piniginėmis premijomis LŠS vadą, jo pavaduotojus ir rinktinių vadus. Jeigu LŠS vadas, jo pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, įstatymų ir krašto apsaugos ministro nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
 
 
 
 
-4. Krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija atlieka LŠS vidaus auditą.
-
-
-
-
-5. LŠS ar Krašto apsaugos ministerijos išlaidos, susijusios su LŠS vykdoma pilietinio ir tautinio ugdymo veikla įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, pilietinio ugdymo veikla krašto gynybos srityje, šaulių parengimo ginkluotai valstybės gynybai išlaidos, LŠS veiklai naudojamų pastatų išlaikymo išlaidos (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos su pagalba LŠS veiklai administruoti susijusios išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Krašto apsaugos ministerija gali perduoti LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį LŠS vykdomai pilietinio ir tautinio ugdymo veiklai įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, taip pat pilietinio ugdymo veiklai krašto gynybos srityje reikalingą Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą. 
+4. Pagrindinis darbo užmokestis, piniginės premijos LŠS vadui, jo pavaduotojams, rinktinių vadams ir rinktinių vadų pavaduotojams, taip pat pagrindinis darbo užmokestis, priedai ir priemokos kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina krašto apsaugos ministras, einantiems šauliams mokami iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, neviršijant LŠS darbo užmokesčiui skirtų lėšų. 
 Papildyta straipsnio dalimi:
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
@@ -545,7 +541,25 @@ Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
 
 
 
-5. Krašto apsaugos ministras gali pavesti krašto apsaugos generaliniam inspektoriui atlikti LŠS vykdomo karinio rengimo ir pasirengimo bendriems su kariuomene gynybos veiksmams patikrinimą, taip pat tirti galimus LŠS vado, jo pavaduotojų ar rinktinių vadų drausminius nusižengimus.
+5. LŠS ar Krašto apsaugos ministerijos išlaidos, susijusios su LŠS vykdoma pilietinio ir tautinio ugdymo veikla įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, pilietinio ugdymo veikla krašto gynybos srityje, šaulių parengimo ginkluotai valstybės gynybai išlaidos, LŠS veiklai naudojamų pastatų išlaikymo išlaidos (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos su pagalba LŠS veiklai administruoti susijusios išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Krašto apsaugos ministerija gali perduoti LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį LŠS vykdomai pilietinio ir tautinio ugdymo veiklai įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, taip pat pilietinio ugdymo veiklai krašto gynybos srityje reikalingą Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą. 
+
+
+
+
+6. Krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija atlieka LŠS vidaus auditą.
+Papildyta straipsnio dalimi:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
+
+
+
+
+7. Krašto apsaugos ministras gali pavesti krašto apsaugos generaliniam inspektoriui atlikti LŠS vykdomo karinio rengimo ir pasirengimo bendriems su kariuomene gynybos veiksmams patikrinimą, taip pat tirti galimus LŠS vado, jo pavaduotojų ar rinktinių vadų drausminius nusižengimus.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
 
 
@@ -937,9 +951,11 @@ LŠS centrinės institucijos yra:
 
 
 
-2. LŠS vadu gali būti skiriamas aukštąjį išsilavinimą ir ne žemesnį kaip majoro (komandoro leitenanto) laipsnį turintis profesinės karo tarnybos, tarnybą rezerve atliekantis ar atsargos karys LŠS narys. 
+2. LŠS vadu gali būti skiriamas aukštąjį išsilavinimą ir ne žemesnį kaip pulkininko leitenanto (komandoro) laipsnį turintis profesinės karo tarnybos, tarnybą rezerve atliekantis ar atsargos karys LŠS narys. 
+TAR pastaba. 2 dalyje nustatyti reikalavimai dėl turimo kario laipsnio taikomi šauliams, į atitinkamas pareigas skiriamiems po įstatymo Nr. XII-1687 įsigaliojimo(2015-06-01).
 Straipsnio dalies pakeitimai:
 Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
 
 
@@ -986,20 +1002,35 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-10. Jeigu LŠS vadas yra tarnybą rezerve atliekantis arba atsargos karys, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, tačiau jis negali būti mažesnis, negu mokamas bet kuriam rinktinės vadui.
+10. Jeigu LŠS vadas yra tarnybą rezerve atliekantis arba atsargos karys, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus pulkininko leitenanto (komandoro) laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą iš eilės į LŠS vado pareigas paskirtam asmeniui mokamo pagrindinio darbo užmokesčio dydis yra lygus pulkininko leitenanto (komandoro) laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
 
 
 
 
-11. Kai LŠS vado nėra arba jis negali eiti pareigų, arba yra nušalintas nuo pareigų, LŠS vado pareigas laikinai eina vienas iš jo pavaduotojų. Kai LŠS vadas atleidžiamas ar nušalinamas nuo pareigų, LŠS vado pavaduotojui laikinai eiti LŠS vado pareigas paveda krašto apsaugos ministras, kitais atvejais – LŠS vadas.
+11. Krašto apsaugos ministras LŠS Centro valdybos teikimu gali apdovanoti LŠS vadą pinigine premija už ypatingą pasižymėjimą tarnyboje. Ši premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti LŠS vadui nustatyto pagrindinio darbo užmokesčio dydžio. 
+Papildyta straipsnio dalimi:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
 
-12. LŠS vadas:
+12. Kai LŠS vado nėra arba jis negali eiti pareigų, arba yra nušalintas nuo pareigų, LŠS vado pareigas laikinai eina vienas iš jo pavaduotojų. Kai LŠS vadas atleidžiamas ar nušalinamas nuo pareigų, LŠS vado pavaduotojui laikinai eiti LŠS vado pareigas paveda krašto apsaugos ministras, kitais atvejais – LŠS vadas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
+
+
+
+
+13. LŠS vadas:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 1) organizuoja LŠS veiklos strategijos rengimą ir krašto apsaugos ministrui pritarus teikia ją tvirtinti LŠS suvažiavimui;
@@ -1032,7 +1063,10 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-7) LŠS statute nustatytais atvejais ir tvarka skatina šaulius ir skiria jiems drausmines nuobaudas;
+7) LŠS statute nustatytais atvejais ir tvarka skatina šaulius ir skiria jiems drausmines nuobaudas, taip pat šio įstatymo nustatyta tvarka apdovanoja piniginėmis premijomis rinktinių vadų pavaduotojus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
@@ -1077,22 +1111,34 @@ Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010IST
 
 
 
-13. Vykdydamas savo įgaliojimus, LŠS vadas leidžia įsakymus, kurie privalomi visiems šauliams, ir kontroliuoja, kaip šie įsakymai yra vykdomi.
+14. Vykdydamas savo įgaliojimus, LŠS vadas leidžia įsakymus, kurie privalomi visiems šauliams, ir kontroliuoja, kaip šie įsakymai yra vykdomi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
 
-14. Operatyviam veiklos organizavimui, vykdymui ir kontrolei LŠS vadas sudaro sau pavaldžią administracinę instituciją – LŠS štabą. Prireikus LŠS vadas sudaro kitas patariamąsias institucijas.
+15. Operatyviam veiklos organizavimui, vykdymui ir kontrolei LŠS vadas sudaro sau pavaldžią administracinę instituciją – LŠS štabą. Prireikus LŠS vadas sudaro kitas patariamąsias institucijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
 
-15. LŠS vadas yra tiesiogiai pavaldus krašto apsaugos ministrui. Jis taip pat yra atskaitingas LŠS suvažiavimui. LŠS vadas teikia LŠS veiklos ataskaitas kiekvienam eiliniam LŠS suvažiavimui, taip pat neeiliniam suvažiavimui, jeigu LŠS veiklos ataskaita yra LŠS statuto nustatyta tvarka įtraukta į neeilinio suvažiavimo darbotvarkę. Metinę LŠS veiklos ataskaitą LŠS vadas teikia krašto apsaugos ministrui ir Seimo Nacionalinio saugumo ir gynybos komitetui. Krašto apsaugos ministro ir Seimo Nacionalinio saugumo ir gynybos komiteto reikalavimu LŠS vadas teikia informaciją ir atsako į jam pateiktus klausimus.
+16. LŠS vadas yra tiesiogiai pavaldus krašto apsaugos ministrui. Jis taip pat yra atskaitingas LŠS suvažiavimui. LŠS vadas teikia LŠS veiklos ataskaitas kiekvienam eiliniam LŠS suvažiavimui, taip pat neeiliniam suvažiavimui, jeigu LŠS veiklos ataskaita yra LŠS statuto nustatyta tvarka įtraukta į neeilinio suvažiavimo darbotvarkę. Metinę LŠS veiklos ataskaitą LŠS vadas teikia krašto apsaugos ministrui ir Seimo Nacionalinio saugumo ir gynybos komitetui. Krašto apsaugos ministro ir Seimo Nacionalinio saugumo ir gynybos komiteto reikalavimu LŠS vadas teikia informaciją ir atsako į jam pateiktus klausimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
 
-16. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyta LŠS vado šaulio tarnybos ypatumų, susijusių su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti, jiems vadovauti ar juose dalyvauti, kasdienė LŠS vado darbo laiko trukmė gali viršyti aštuonias darbo valandas.
+17. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyta LŠS vado šaulio tarnybos ypatumų, susijusių su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti, jiems vadovauti ar juose dalyvauti, kasdienė LŠS vado darbo laiko trukmė gali viršyti aštuonias darbo valandas.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
 
 
@@ -1321,7 +1367,10 @@ PENKTASIS SKIRSNIS
 30 straipsnis. Narystė LŠS
 
 
-1. Šauliais gali būti tik Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą.
+1. Šauliais gali būti tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą. Asmenys negali būti laikomi nepriekaištingos reputacijos, jeigu yra nustatyta bent viena iš šio straipsnio 3 dalies 3, 4, 5, 6, 7 ar 8 punktuose nurodytų sąlygų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
@@ -1367,7 +1416,15 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-7) per paskutinius 10 metų pašalinti iš LŠS už šiurkščius drausminius nusižengimus.
+7) per paskutinius 10 metų pašalinti iš LŠS už šiurkščius drausminius nusižengimus;
+
+
+
+
+8) teisės aktų nustatyta tvarka pripažintas padaręs teisės pažeidimą, kuris gali diskredituoti LŠS ar žeminti  šaulio vardą, jei nuo administracinės  ar drausminės nuobaudos skyrimo už tokį pažeidimą arba bausmės už baudžiamąjį nusižengimą skyrimo  nepraėjo vieneri  metai ar  įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikalstamą veiką ir turi neišnykusį ar nepanaikintą teistumą. 
+Papildyta straipsnio punktu:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 
@@ -1407,7 +1464,14 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-6) nesumokėjus nario mokesčio už daugiau kaip vienų metų laikotarpį.
+6) nesumokėjus nario mokesčio už daugiau kaip vienų metų laikotarpį;
+
+
+
+
+7) LŠS statuto nustatyta tvarka pripažinus padariusiu teisės pažeidimą, diskredituojantį LŠS arba žeminantį šaulio vardą.
+Papildyta straipsnio punktu:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
 
 
@@ -1760,13 +1824,11 @@ SEPTINTASIS SKIRSNIS
  
 
 
-36 straipsnis. LŠS vado pavaduotojų, rinktinių vadų, kitų nuolatinės šaulio tarnybos pareigas vykdančių šaulių statuso ypatybės 
+36 straipsnis. LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų ir kitų nuolatinės šaulio tarnybos pareigas einančių šaulių statuso ypatybės
 
 
-1. LŠS vado pavaduotojais ir rinktinių vadais 3 metams skiriami turintys aukštąjį išsilavinimą šauliai, kurie yra ne žemesnio kaip leitenanto laipsnio profesinės karo tarnybos, tarnybą rezerve atliekantys ar atsargos kariai. Krašto apsaugos ministrui sutikus, LŠS vado pavaduotoju ir rinktinės vadu gali būti skiriamas šaulys, turintis aukštąjį išsilavinimą, bet nesantis profesinės, tarnybą rezerve atliekančiu ar atsargos kariu. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
- 
+1. LŠS vado pavaduotojais 3 metams skiriami turintys aukštąjį universitetinį ar koleginį išsilavinimą šauliai, kurie yra ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos kariai, o rinktinių vadais 3 metams skiriami turintys aukštąjį universitetinį ar koleginį išsilavinimą šauliai, kurie yra ne žemesnio kaip kapitono (kapitono leitenanto) laipsnio profesinės karo tarnybos kariai. LŠS vado pavaduotojais ir rinktinių vadais gali būti skiriami asmenys, turintys šiame straipsnyje nustatytą išsilavinimą ir įgiję pagrindinį karinį parengtumą, bet kurie nėra profesinės karo  tarnybos kariai. Rinktinės vado pavaduotojais 3 metams skiriami šauliai, turintys ne žemesnį kaip aukštąjį koleginį, iki 2009 metų įgytą aukštesnįjį arba iki 1995 metų įgytą specialųjį vidurinį išsilavinimą. 
+TAR pastaba. 1 dalyje nustatyti reikalavimai dėl turimo kario laipsnio taikomi šauliams, į atitinkamas pareigas skiriamiems po įstatymo Nr. XII-1687 įsigaliojimo(2015-06-01).
 
 
 
@@ -1781,41 +1843,47 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-4. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra profesinės karo tarnybos karys, jis gali būti nušalinamas nuo pareigų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais atvejais. Jeigu LŠS vado pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, jis gali būti nušalinamas nuo pareigų Darbo kodekse nustatytais atvejais ar krašto apsaugos ministro iniciatyva.
+4. LŠS vado pavaduotojas ar rinktinės vadas įstatymų numatytais atvejais gali būti nušalinamas nuo pareigų krašto apsaugos ministro sprendimu.
 
 
 
 
-5. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra tarnybą rezerve atliekantis ar atsargos karys, turintis ne žemesnį kaip leitenanto laipsnį, jam mokamo atlyginimo dydis yra lygus atitinkamą laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
+5. LŠS vado pavaduotojui, kuris nėra profesinės karo tarnybos karys, mokamo pagrindinio darbo užmokesčio dydis yra lygus majoro (komandoro leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Rinktinės vadui, kuris nėra profesinės karo tarnybos karys, mokamo pagrindinio darbo užmokesčio dydis yra lygus kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą į LŠS vado pavaduotojo ar rinktinės vado pareigas paskirtam asmeniui mokamo pagrindinio darbo užmokesčio dydis yra lygus atitinkamai majoro (komandoro leitenanto) ar kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, trečią ir kitus kartus paskirtam į šias pareigas asmeniui – atitinkamai majoro (komandoro leitenanto) ar kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui trečiaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+
+
+
+
+6. Šaulys eiti rinktinės vado pavaduotojo pareigas skiriamas LŠS vado įsakymu, LŠS su juo sudaro darbo sutartį. Rinktinės vado pavaduotojui mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą į rinktinės vado pavaduotojo pareigas paskirtam asmeniui mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, trečią ir kitus kartus paskirtam į šias pareigas asmeniui – leitenanto laipsnį turinčiam profesinės karo tarnybos kariui trečiaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+
+
+
+
+7. Krašto apsaugos ministras LŠS vado teikimu, LŠS Centro valdybos pritarimu gali apdovanoti piniginėmis premijomis už ypatingą pasižymėjimą tarnyboje LŠS vado pavaduotojus ir rinktinių vadus, LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, – rinktinių vadų pavaduotojus. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatyto pagrindinio darbo užmokesčio dydžio.
+
+
+
+
+8. LŠS vado pavaduotojai ir rinktinių vadai yra tiesiogiai pavaldūs LŠS vadui, taip pat atskaitingi LŠS vadui ir krašto apsaugos ministrui.
+
+
+
+
+9. Kitoms, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo nuolatinės šaulio tarnybos pareigoms eiti šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Šias pareigas einantiems šauliams mokamo pagrindinio darbo užmokesčio dydis nustatomas vadovaujantis Lietuvos Respublikos Vyriausybės nustatyta biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarka ir krašto apsaugos ministro nustatytais jo valdymo srities biudžetinių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, taikomais tarnybinio atlyginimo koeficientais. Nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, sąrašą tvirtina krašto apsaugos ministras LŠS vado teikimu, kuriam pritarė LŠS Centro valdyba. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu  nustato LŠS vadas.
+
+
+
+
+10. LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, gali skirti priedus ir priemokas kitiems, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigas einantiems šauliams, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Priedų ir priemokų skyrimo atvejai ir dydžiai nustatomi vadovaujantis Lietuvos Respublikos Vyriausybės nustatyta biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarka.
+
+
+
+
+11. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyti LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių šaulio tarnybos ypatumai, susiję su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti ar jiems vadovauti, kasdienė LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių darbo laiko trukmė gali viršyti aštuonias darbo valandas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
  
-
-
-
-
-6. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra atsargos karys, turintis žemesnį kaip leitenanto laipsnį, arba yra civilis, neturintis atsargos kario laipsnio, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
-
-
-
-
-7. LŠS vado pavaduotojai ir rinktinių vadai yra tiesiogiai pavaldūs LŠS vadui, taip pat atskaitingi LŠS vadui ir krašto apsaugos ministrui.
-
-
-
-
-8. Kitoms negu LŠS vado pavaduotojo ir rinktinės vado nuolatinės šaulio tarnybos pareigoms vykdyti šauliai gali būti skiriami LŠS vado įsakymu, sudarant darbo sutartis su LŠS. Nuolatinės šaulio tarnybos pareigų, kurias vykdantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, sąrašą tvirtina krašto apsaugos ministras LŠS vado teikimu, kuriam pritarė LŠS Centro valdyba. Kitų nuolatinės šaulio tarnybos pareigų, kurias vykdantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą su LŠS Centro valdybos pritarimu ir suderinęs su krašto apsaugos ministru nustato LŠS vadas.
-Straipsnio dalies pakeitimai:
-Nr. XI-796, 2010-04-29, Žin., 2010, Nr. 57-2811 (2010-05-18), i. k. 1101010ISTA00XI-796
- 
-
-
-
-
-9. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyti LŠS vado pavaduotojų, rinktinių vadų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių šaulio tarnybos ypatumai, susiję su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti ar jiems vadovauti, kasdienė LŠS vado pavaduotojų, rinktinių vadų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių darbo laiko trukmė gali viršyti aštuonias darbo valandas.
- 
-
-
 
 
 
@@ -1977,7 +2045,10 @@ Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010IST
 
 
 
-2. Šio įstatymo 13 straipsnio 1 dalies 6 punkte ir 2 dalyje nustatytais atvejais sprendimą perduoti turtą LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį priima kariuomenės vadas, suderinęs su krašto apsaugos ministru.
+2. Šio įstatymo 12 straipsnio 5 dalyje nurodytu atveju sprendimą perduoti turtą LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį priima krašto apsaugos ministras, o 13 straipsnio 1 dalies 6 punkte ir 2 dalyje nustatytais atvejais – kariuomenės vadas, suderinęs su krašto apsaugos ministru. Pasibaigus turto patikėjimo sutarčiai, LŠS privalo grąžinti turtą patikėtojui, jeigu sutartyje nenustatyta ko kita.
+Straipsnio dalies pakeitimai:
+Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
 
 
 Straipsnio pakeitimai:
