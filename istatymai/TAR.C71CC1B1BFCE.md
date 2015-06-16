@@ -13,13 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C71CC1B1BFCE"
 
 # Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-15
+Suvestinė redakcija nuo 2015-06-16 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-851, i. k. 0991010ISTAIII-1087
  
-LIETUVOS RESPUBLIKOS
-ĮSAKOMŲJŲ IR PAPRASTŲJŲ VEKSELIŲ
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS ĮSAKOMŲJŲ IR PAPRASTŲJŲ VEKSELIŲ Į S T A T Y M A S
  
 1999 m. kovo 16 d. Nr. VIII-1087
 Vilnius
@@ -166,7 +164,15 @@ I SKYRIUS
 
 
 
-8) išrašančio vekselį asmens (vekselio davėjo) parašas.
+8) išrašančio vekselį asmens (vekselio davėjo) parašas;
+
+
+
+
+9) tais atvejais, kai įsakomąjį vekselį išrašantis ūkio subjektas netvarko apskaitos pagal supaprastintos apskaitos taisykles, – tai patvirtinanti informacija.
+Papildyta straipsnio punktu:
+Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
+ 
 
 
 
@@ -993,8 +999,7 @@ Nepateikus vekselio apmokėti šio įstatymo 40 straipsnyje nurodytu terminu, sk
 
 
 VII SKYRIUS
-REIKALAVIMAI VEKSELIO NEAKCEPTAVUS
-ARBA NEAPMOKĖJUS
+REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS
  
 
 
@@ -1660,8 +1665,7 @@ Reikalavimų pateikimo senaties terminas gali būti nutrauktas tik tam asmeniui,
 
 
 XII SKYRIUS
-ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ 
-ĮVYKDYMO TERMINŲ SKAIČIAVIMAS
+ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS
  
 
 
@@ -1748,7 +1752,15 @@ PAPRASTASIS VEKSELIS
 
 
 
-7) išrašančiojo paprastąjį vekselį asmens (paprastojo vekselio davėjo) parašas.
+7) išrašančiojo paprastąjį vekselį asmens (paprastojo vekselio davėjo) parašas;
+
+
+
+
+8) tais atvejais, kai paprastąjį vekselį išrašantis ūkio subjektas netvarko apskaitos pagal supaprastintos apskaitos taisykles, – tai patvirtinanti informacija.
+Papildyta straipsnio punktu:
+Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
+ 
 
 
 
@@ -1938,6 +1950,7 @@ Jeigu vekselis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teis�
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
 
@@ -1955,3 +1968,8 @@ Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo 83 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713
 Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 3, 15, 27, 59, 77 ir 80 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
+Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 3 ir 77 straipsnių pakeitimo įstatymas
