@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-04-29 iki 2015-06-15
+Suvestinė redakcija nuo 2015-06-16 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
- 
  
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO 
@@ -107,7 +106,7 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 
 
-4) (neteko galios nuo 2009-02-01);
+4) neteko galios nuo 2009-02-01;
 
 
 
@@ -407,8 +406,6 @@ Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 
 Lietuvos Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės žiniose“ parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu, pakeitimų ir papildymų įstatymų projektus.
  
- 
- 
 
 
 
@@ -569,10 +566,10 @@ I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
 
 
-Papildoma pastaba nuo 2014-03-01:
 Pastaba. Savivaldybės mero ir mero pavaduotojo pareiginėms algoms taikytini koeficientai nustatomi atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatyti koeficientai galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
  
 III. Prokurorų pareiginės algos
+ 
 (Baziniais dydžiais)
 
 
@@ -600,7 +597,7 @@ III. Prokurorų pareiginės algos
 
 
  1.3. 
- Departamento vyriausiasis prokuroras 
+ Departamento vyriausiasis prokuroras, Lietuvos nacionalinis narys Eurojuste 
  14,7 
 
 
@@ -610,7 +607,7 @@ III. Prokurorų pareiginės algos
 
 
  1.5.  
- Departamento vyriausiojo prokuroro pavaduotojas, departamento skyriaus vyriausiasis prokuroras 
+ Departamento vyriausiojo prokuroro pavaduotojas, departamento skyriaus vyriausiasis prokuroras, Lietuvos nacionalinio nario Eurojuste pavaduotojas, kurio darbo vieta yra Eurojusto buveinės vietoje 
  14,3 
 
 
@@ -630,7 +627,7 @@ III. Prokurorų pareiginės algos
 
 
  1.9. 
- Departamento prokuroras, departamento skyriaus prokuroras, skyriaus prokuroras, prokuroras 
+ Departamento prokuroras, departamento skyriaus prokuroras, skyriaus prokuroras, prokuroras, Lietuvos nacionalinio nario Eurojuste padėjėjas, kurio darbo vieta yra Eurojusto buveinės vietoje  
  13,1 
 
 
@@ -700,7 +697,6 @@ Pastaba. ONKT – Organizuotų nusikaltimų ir korupcijos tyrimas.
 IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
  
 (Baziniais dydžiais)
- 
 
 
 
@@ -758,7 +754,7 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
  6. 
  Žurnalistų etikos inspektorius, akademinės etikos ir procedūrų kontrolierius 
-   12  
+   12 
 
 
    7. 
@@ -955,6 +951,7 @@ Nr. XII-443, 2013-07-02, Žin., 2013, Nr. 79-3978 (2013-07-23)
 Nr. XII-688, 2013-12-17, Žin., 2013, Nr. 140-7065 (2013-12-30)
 Priedo pakeitimai:
 Nr. XII-1630, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06452
+Nr. XII-1764, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09300
  
 
 
@@ -1256,10 +1253,14 @@ DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪ
  
  
  
- 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1630, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06452
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 priedėlio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1764, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09300
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 priedėlio pakeitimo įstatymas
