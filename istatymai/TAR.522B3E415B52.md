@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2014-12-30 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1295,6 +1295,20 @@ Lietuvos Respublikos teismai, kuriems byloms nagrinėti reikalinga informacija a
 
 Įstatymas papildytas straipsniu:
 Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
+ 
+
+
+
+
+402 straipsnis. Teismų kreipimasis į Europos Žmogaus Teisių Teismą
+
+
+Aukščiausiasis Teismas ir Vyriausiasis administracinis teismas, kai nagrinėjant bylą iškilo principinis klausimas, susijęs su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti dėl to konsultacinę išvadą.
+TAR pastaba. Įstatymas papildomas straipsniu nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+
+
+Papildyta straipsniu:
+Nr. XII-1776, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09620
  
 
 
@@ -5149,3 +5163,8 @@ Lietuvos Respublikos teismų įstatymo 10, 86, 113 ir 122 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
 Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109 110, 111, 112, 125 straipsnių pripažinimu netekusiais galios ir Įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu įstatymo Nr. X-1685 46 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1776, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09620
+Lietuvos Respublikos teismų įstatymo Nr. I-480 papildymo 40-2 straipsniu įstatymas
