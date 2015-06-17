@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-04-03 iki 2015-06-16
+Suvestinė redakcija nuo 2015-06-17 iki 2015-07-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -422,17 +422,38 @@ Civilinio proceso tikslai – ginti asmenų, kurių materialinės subjektinės t
 
 
 
-6. Jeigu nėra įstatymo, reglamentuojančio ginčo materialinį arba procesinį santykį, teismas taiko įstatymą, reglamentuojantį panašius santykius (įstatymo analogija), o jeigu ir tokio įstatymo nėra, teismas vadovaujasi bendraisiais teisės principais (teisės analogija). Pagal analogiją negali būti taikomos specialiosios, t. y. bendrųjų taisyklių išimtis numatančios, teisės normos. 
+6. Teismas, nagrinėdamas bylas, taiko Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos ar jos protokolų nuostatas ir vadovaujasi Europos Žmogaus Teisių Teismo sprendimais. Lietuvos Aukščiausiasis Teismas, kai tai susiję su jo nagrinėjama byla, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu. 
+TAR pastaba. Papildymas 6 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+Papildyta straipsnio dalimi:
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+ 
 
 
 
 
-7. Jeigu įstatymai ar ginčo šalių susitarimas numato, kad tam tikrus klausimus teismas sprendžia savo nuožiūra, teismas tai darydamas privalo vadovautis teisingumo, protingumo ir sąžiningumo kriterijais. 
+7. Jeigu nėra įstatymo, reglamentuojančio ginčo materialinį arba procesinį santykį, teismas taiko įstatymą, reglamentuojantį panašius santykius (įstatymo analogija), o jeigu ir tokio įstatymo nėra, teismas vadovaujasi bendraisiais teisės principais (teisės analogija). Pagal analogiją negali būti taikomos specialiosios, t. y. bendrųjų taisyklių išimtis numatančios, teisės normos. 
+TAR pastaba. Buvusi 6 dalis laikoma 7 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+ 
 
 
 
 
-8. Civilinių bylų procesas vyksta pagal bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu galiojančius civilinio proceso įstatymus.
+8. Jeigu įstatymai ar ginčo šalių susitarimas numato, kad tam tikrus klausimus teismas sprendžia savo nuožiūra, teismas tai darydamas privalo vadovautis teisingumo, protingumo ir sąžiningumo kriterijais. 
+TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+ 
+
+
+
+
+9. Civilinių bylų procesas vyksta pagal bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu galiojančius civilinio proceso įstatymus.
+TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+ 
 
 
 Straipsnio pakeitimai:
@@ -1610,6 +1631,7 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 5. Dalyvaujantys byloje asmenys privalo pirmame teismui pateikiamame procesiniame dokumente nurodyti, ar byloje dalyvaus patys, ar ves bylą per atstovą.
 
 
+ 
 
 
 6. Atstovas ir atstovaujamasis privalo nedelsdami pranešti teismui apie atstovavimo santykių pabaigą ar pasikeitimą. Jeigu dėl šios pareigos neįvykdymo arba netinkamo įvykdymo prireikia atidėti bylos nagrinėjimą, teismas gali atstovui ir (arba) atstovaujamajam skirti baudą iki dviejų šimtų aštuoniasdešimt devynių eurų.
@@ -5183,7 +5205,7 @@ Bylos sustabdymas – procesinių veiksmų, kuriais siekiama bylą išspręsti i
 163 straipsnis. Privalomas bylos sustabdymas
 
 
-Teismas privalo sustabdyti bylą šiais atvejais:
+1. Teismas privalo sustabdyti bylą šiais atvejais:
 
 
 1) kai miršta fizinis asmuo arba pasibaigia juridinis asmuo, kuris buvo bylos šalis, jeigu atsižvelgiant į ginčo teisinius santykius yra leidžiamas teisių perėmimas;
@@ -5216,7 +5238,7 @@ Teismas privalo sustabdyti bylą šiais atvejais:
 
 
 
-7) kai teismas kreipiasi arba kiti teismai jau kreipėsi į Konstitucinį Teismą šio Kodekso 3 straipsnio 3 dalyje nustatyta tvarka ir pagrindais;
+7) kai teismas kreipiasi arba kiti teismai jau kreipėsi į Konstitucinį Teismą šio Kodekso 3 straipsnio 3 dalyje nustatyta tvarka ir pagrindais;
 
 
 
@@ -5234,11 +5256,17 @@ Teismas privalo sustabdyti bylą šiais atvejais:
 10) kitais įstatymų numatytais atvejais.
 
 
+
+
+
+
+2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.
+TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+
+
 Straipsnio pakeitimai:
-Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
-
-
 
 
 
@@ -5278,9 +5306,13 @@ Teismas gali dalyvaujančių byloje asmenų pareiškimu ar savo iniciatyva susta
 
 
 Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
+1 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos: 
+Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Europos Žmogaus Teisių Teismą, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
-
-
 
 
 
@@ -10582,6 +10614,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 1) kai Europos žmogaus teisių teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
+1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
+Straipsnio punkto pakeitimai:
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+ 
 
 
 
@@ -23568,3 +23605,8 @@ Lietuvos Respublikos civilinio proceso kodekso 49, 80, 182 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
 Lietuvos Respublikos civilinio proceso kodekso 737 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymas
