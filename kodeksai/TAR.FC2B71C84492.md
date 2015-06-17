@@ -15,9 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-06-02iki
-2015-06-16
- 
+Suvestinė redakcija nuo 2015-06-17
 Kodeksas paskelbtas: Vyriausybės
 žinios 1985, Nr. 1-1, i. k.
 0841010KODE00X-4449
@@ -25,8 +23,8 @@ Kodeksas paskelbtas: Vyriausybės
  
 LIETUVOS
 RESPUBLIKOS
-ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSAS
+ADMINISTRACINIŲ
+TEISĖS PAŽEIDIMŲ KODEKSAS
  
 I SKYRIUS
 BENDRIEJI
@@ -44,11 +42,12 @@ Lietuvos
 Respublikos įstatymų dėl administracinių teisės pažeidimų uždavinys yra saugoti
 Lietuvos Respublikos visuomeninę santvarką, nuosavybę, socialines ekonomines,
 politines ir asmenines piliečių teises bei laisves, taip pat įmonių, įstaigų ir
-organizacijų teises bei teisėtus interesus, nustatytą valdymo tvarką, valstybinę
-ir viešąją tvarką, stiprinti teisėtumą, užkirsti kelią teisės pažeidimams,
-auklėti piliečius, kad jie tiksliai ir nenukrypdami laikytųsi Lietuvos
-Respublikos Konstitucijos bei kitų įstatymų, gerbtų kitų piliečių teises, garbę
-ir orumą, sąžiningai vykdytų savo pareigas, jaustų atsakomybę visuomenei. 
+organizacijų teises bei teisėtus interesus, nustatytą valdymo tvarką,
+valstybinę ir viešąją tvarką, stiprinti teisėtumą, užkirsti kelią teisės
+pažeidimams, auklėti piliečius, kad jie tiksliai ir nenukrypdami laikytųsi
+Lietuvos Respublikos Konstitucijos bei kitų įstatymų, gerbtų kitų piliečių
+teises, garbę ir orumą, sąžiningai vykdytų savo pareigas, jaustų atsakomybę
+visuomenei. 
 Pastaba.
 Šiame kodekse vartojama piliečio sąvoka yra tolygi fizinio asmens sąvokai, t.
 y. ji apima ne tik Lietuvos Respublikos piliečius, bet ir užsienio valstybių
@@ -142,8 +141,8 @@ Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-316,
 2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
  
-6 straipsnis.
-Administracinių teisės pažeidimų prevencija
+6
+straipsnis. Administracinių teisės pažeidimų prevencija
 Valstybiniai
 organai, visuomeninės organizacijos, darbo kolektyvai rengia ir įgyvendina
 priemones, kuriomis siekiama užkirsti kelią administraciniams teisės
@@ -226,8 +225,8 @@ straipsnis. Administracinio teisės pažeidimo sąvoka
 Administraciniu
 teisės pažeidimu (nusižengimu) laikomas priešingas teisei, kaltas (tyčinis arba
 neatsargus) veikimas arba neveikimas, kuriuo kėsinamasi į valstybinę arba
-viešąją tvarką, nuosavybę, piliečių teises ir laisves, į nustatytą valdymo tvarką,
-už kurį įstatymai numato administracinę atsakomybę.
+viešąją tvarką, nuosavybę, piliečių teises ir laisves, į nustatytą valdymo
+tvarką, už kurį įstatymai numato administracinę atsakomybę.
 Administracinė
 atsakomybė už šiame kodekse numatytus teisės pažeidimus atsiranda, jeigu savo
 pobūdžiu šie pažeidimai pagal galiojančius įstatymus neužtraukia baudžiamosios
@@ -279,8 +278,8 @@ traukiami tėvai arba globėjai (rūpintojai).
 Už nepilnamečių
 nuo keturiolikos iki šešiolikos metų padarytus pažeidimus, numatytus šio
 kodekso 44 straipsnio trečiojoje dalyje, 449 straipsnio trečiojoje
-dalyje, 142 straipsnio antrojoje dalyje, 175 straipsnyje, 1761 straipsnio
-trečiojoje dalyje, 178 straipsnio ketvirtojoje dalyje, 1781
+dalyje, 142 straipsnio antrojoje dalyje, 175 straipsnyje, 1761
+straipsnio trečiojoje dalyje, 178 straipsnio ketvirtojoje dalyje, 1781
 straipsnio pirmojoje dalyje, 183 straipsnio trečiojoje dalyje, 1856
 straipsnio pirmojoje ir antrojoje dalyse ir 196 straipsnio antrojoje dalyje,
 administracinėn atsakomybėn traukiami tėvai arba globėjai (rūpintojai).
@@ -326,8 +325,8 @@ kitų taisyklių, kurių laikymąsi užtikrinti yra jų tarnybinė pareiga.
 Straipsnio pakeitimai:
 Nr. I-830,
 1990.12.04, Žin., 1990, Nr. 36-862
-Nr. I-545, 1994.07.18,
-Žin., 1994, Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
 15
 straipsnis. Statutinių valstybės tarnautojų atsakomybė už administracinius
@@ -422,8 +421,8 @@ Nr. I-2589,
 21
 straipsnis. Administracinių nuobaudų rūšys
 Už
-administracinių teisės pažeidimų padarymą gali būti skiriamos šios
-administracinės nuobaudos:
+administracinių teisės pažeidimų padarymą gali būti skiriamos šios administracinės
+nuobaudos:
 1) įspėjimas;
 2) bauda;
 3) daikto, kuris
@@ -516,9 +515,9 @@ konfiskavimas, specialiosios teisės atėmimas ir nušalinimas nuo darbo (pareig
 gali būti skiriamas kaip pagrindinės ir kaip papildomosios administracinės
 nuobaudos; šio kodekso 21 straipsnio pirmojoje dalyje nurodytos kitos
 administracinės nuobaudos gali būti skiriamos tik kaip pagrindinės.
-Už vieną
-administracinį teisės pažeidimą gali būti paskirta pagrindinė arba pagrindinė
-ir papildomoji nuobauda.
+Už vieną administracinį
+teisės pažeidimą gali būti paskirta pagrindinė arba pagrindinė ir papildomoji
+nuobauda.
 Straipsnio pakeitimai: 
 Nr. I-1573,
 1991.07.18, Žin., 1991, Nr. 22-568
@@ -529,9 +528,9 @@ Nr. VIII-1543,
  
 23
 straipsnis. Įspėjimas
-Įspėjimas kaip administracinė
-nuobauda pareiškiamas raštu. Įstatymų numatytais atvejais įspėjimas įforminamas
-kitokiu nustatytu būdu.
+Įspėjimas kaip
+administracinė nuobauda pareiškiamas raštu. Įstatymų numatytais atvejais
+įspėjimas įforminamas kitokiu nustatytu būdu.
 Straipsnio pakeitimai:
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228
@@ -678,11 +677,11 @@ arba įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo
 radijo stebėsenos įrenginius, naudoti elektroninių ryšių išteklius, užsiimti
 radijo mėgėjų ir kitų radijo stočių naudotojų veikla, teisės
 eiti tam tikras pareigas jūrų laive, teisės
-projektuoti statinius ar atlikti statinių projektų ekspertizę) atėmimas skiriamas
-iki penkerių metų už šiurkštų arba sistemingą naudojimosi šia teise tvarkos
-pažeidimą. Tokios teisės atėmimo laikas negali
-būti trumpesnis kaip vienas mėnuo, jeigu kitaip nenustato Lietuvos Respublikos
-įstatymai.
+projektuoti statinius ar atlikti statinių projektų ekspertizę) atėmimas
+skiriamas iki penkerių metų už šiurkštų arba sistemingą naudojimosi šia teise
+tvarkos pažeidimą. Tokios teisės atėmimo
+laikas negali būti trumpesnis kaip vienas mėnuo, jeigu kitaip nenustato
+Lietuvos Respublikos įstatymai.
 Asmuo, kuriam
 paskirtas specialiosios teisės atėmimas, šios teisės atėmimo laikotarpiu negali
 ja naudotis ir (ar) jos įgyti. Teisės vairuoti transporto priemones atėmimas
@@ -741,9 +740,9 @@ areštas nustatomas ir skiriamas tik išimtiniais atvejais už atskirų rūšių
 administracinius teisės pažeidimus iki trisdešimties parų. Administracinį
 areštą skiria rajono (miesto) apylinkės teismas (apylinkės teismo teisėjas).
 Asmens,
-patraukto administracinėn atsakomybėn, prašymu teismas gali paskirti administracinį
-areštą atlikti tik poilsio dienomis. Šiuo atveju teismas nustato terminą, per
-kurį asmuo privalo atlikti administracinį areštą.
+patraukto administracinėn atsakomybėn, prašymu teismas gali paskirti
+administracinį areštą atlikti tik poilsio dienomis. Šiuo atveju teismas nustato
+terminą, per kurį asmuo privalo atlikti administracinį areštą.
 Administracinis
 areštas negali būti skiriamas nėščioms moterims, moterims, turinčioms vaikų iki
 dvylikos metų amžiaus, asmenims, kuriems nesukako aštuoniolika metų, asmenims,
@@ -808,13 +807,13 @@ Nr. VIII-1543,
 straipsnis. Mažesnės nei įstatymo numatyta administracinės nuobaudos skyrimas
 arba administracinės nuobaudos neskyrimas
 Organas
-(pareigūnas), nagrinėjantis administracinės teisės pažeidimų bylas,
-atsižvelgdamas į aplinkybes, nurodytas šio kodekso 30 straipsnio antrojoje
-dalyje, taip pat į šio kodekso 31 straipsnyje nustatytas atsakomybę
-lengvinančias bei kitas įstatymų nenurodytas lengvinančias aplinkybes,
-vadovaudamasis teisingumo ir protingumo kriterijais, gali paskirti mažesnę
-nuobaudą nei sankcijoje numatyta minimali arba paskirti švelnesnę nuobaudą nei
-numatyta sankcijoje, arba visai neskirti administracinės nuobaudos.
+(pareigūnas), nagrinėjantis administracinės teisės pažeidimų bylas, atsižvelgdamas
+į aplinkybes, nurodytas šio kodekso 30 straipsnio antrojoje dalyje, taip pat į
+šio kodekso 31 straipsnyje nustatytas atsakomybę lengvinančias bei kitas
+įstatymų nenurodytas lengvinančias aplinkybes, vadovaudamasis teisingumo ir
+protingumo kriterijais, gali paskirti mažesnę nuobaudą nei sankcijoje numatyta
+minimali arba paskirti švelnesnę nuobaudą nei numatyta sankcijoje, arba visai
+neskirti administracinės nuobaudos.
 Organas
 (pareigūnas) kiekvieną savo sprendimą, priimtą vadovaujantis šio straipsnio
 pirmąja dalimi, privalo motyvuoti. Sprendimą sankcionuoja apylinkės teismo
@@ -838,10 +837,10 @@ XII-247,
 straipsnis. Baudos skyrimas
 Skiriamos baudos
 dydis nustatomas pagal baudos dydžio sankcijoje minimumo ir maksimumo vidurkį,
-atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę
-lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o
-esant atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio
-iki maksimumo.
+atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra
+atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki
+minimumo, o esant atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo
+vidurkio iki maksimumo.
 Esant atsakomybę
 lengvinančių ir sunkinančių aplinkybių, nuobauda skiriama atsižvelgiant į jų
 kiekį ir reikšmingumą.
@@ -884,16 +883,16 @@ pažeidimas padarytas peržengiant būtinosios ginties ribas;
 7) teisės
 pažeidimas padarytas dėl didelio susijaudinimo, kurį sukėlė neteisėti
 nukentėjusiojo veiksmai;
-8) teisės pažeidimą
-padarė nepilnametis;
+8) teisės
+pažeidimą padarė nepilnametis;
 9) teisės
 pažeidimą padarė nėščia moteris;
 10) teisės
 pažeidimą padarė asmuo, kuriam nustatytas 0–40 procentų darbingumo lygis arba
 didelių ar vidutinių specialiųjų poreikių lygis, arba asmuo, sulaukęs 65 metų.
-Lietuvos Respublikos
-įstatymai gali numatyti ir kitokių atsakomybę už administracinį teisės
-pažeidimą lengvinančių aplinkybių.
+Lietuvos
+Respublikos įstatymai gali numatyti ir kitokių atsakomybę už administracinį
+teisės pažeidimą lengvinančių aplinkybių.
 Straipsnio pakeitimai:
 Nr. I-2589,
 1992.05.26, Žin., 1992, Nr. 21-610
@@ -981,9 +980,8 @@ dvyliktajame skirsnyje nurodytus pažeidimus, taip pat už 413, 85,
 1852, 1932, 20710, 20712, 209, 2091,
 2092, 2093, 2094, 2095, 2096,
 210, 21411 straipsniuose numatytus pažeidimus gali būti skiriama ne
-vėliau kaip per šešis mėnesius nuo pažeidimo nustatymo dienos, jeigu nuo
-pažeidimo padarymo dienos iki jo nustatymo dienos nėra praėję daugiau kaip
-vieneri metai.
+vėliau kaip per šešis mėnesius nuo pažeidimo nustatymo dienos, jeigu nuo pažeidimo
+padarymo dienos iki jo nustatymo dienos nėra praėję daugiau kaip vieneri metai.
 Atsisakius
 pradėti ikiteisminį tyrimą dėl padarytos nusikalstamos veikos ar skirti
 Lietuvos Respublikos įstatymuose nustatytą ekonominę sankciją ūkio subjektui,
@@ -996,11 +994,11 @@ nuosprendį, jei atsakomybėn traukiamo asmens veiksmuose yra administracinio
 teisės pažeidimo požymių, administracinė nuobauda gali būti skiriama ne vėliau
 kaip per du mėnesius nuo sprendimo atsisakyti pradėti ikiteisminį tyrimą dėl
 padarytos nusikalstamos veikos ar atsisakyti skirti Lietuvos Respublikos
-įstatymuose nustatytą ekonominę sankciją ūkio subjektui, kai padarytas atitinkamas
-administracinis teisės pažeidimas užtraukia asmeniui administracinę atsakomybę,
-arba nuo sprendimo nutraukti baudžiamąjį procesą ar Lietuvos Respublikos
-įstatymuose nustatytos ekonominės sankcijos skyrimo ūkio subjektui, kai
-padarytas atitinkamas administracinis teisės pažeidimas užtraukia asmeniui
+įstatymuose nustatytą ekonominę sankciją ūkio subjektui, kai padarytas
+atitinkamas administracinis teisės pažeidimas užtraukia asmeniui administracinę
+atsakomybę, arba nuo sprendimo nutraukti baudžiamąjį procesą ar Lietuvos
+Respublikos įstatymuose nustatytos ekonominės sankcijos skyrimo ūkio subjektui,
+kai padarytas atitinkamas administracinis teisės pažeidimas užtraukia asmeniui
 administracinę atsakomybę, procedūrą, arba nuo išteisinamojo teismo
 nuosprendžio įsiteisėjimo dienos.
 Jeigu
@@ -1012,13 +1010,13 @@ atsakomybės klausimo, šio straipsnio pirmojoje ir antrojoje dalyse nurodyti
 terminai pratęsiami, neatsižvelgiant į tai, ar administracinėn
 atsakomybėn traukiamam asmeniui buvo surašytas administracinio teisės pažeidimo
 protokolas, ar ne, bet ne ilgiau kaip vieneriems metams, šį terminą
-skaičiuojant nuo teisės pažeidimo padarymo ar paaiškėjimo dienos arba nuo sprendimo
-atsisakyti pradėti ikiteisminį tyrimą dėl padarytos nusikalstamos veikos ar
-nutraukti baudžiamąjį procesą, ar skirti Lietuvos Respublikos įstatymuose
-nustatytą ekonominę sankciją ūkio subjektui, kai padarytas atitinkamas
-administracinis teisės pažeidimas užtraukia asmeniui administracinę atsakomybę,
-ar nutraukti sankcijos skyrimo procedūrą, arba nuo išteisinamojo teismo
-nuosprendžio priėmimo dienos.
+skaičiuojant nuo teisės pažeidimo padarymo ar paaiškėjimo dienos arba nuo
+sprendimo atsisakyti pradėti ikiteisminį tyrimą dėl padarytos nusikalstamos
+veikos ar nutraukti baudžiamąjį procesą, ar skirti Lietuvos Respublikos
+įstatymuose nustatytą ekonominę sankciją ūkio subjektui, kai padarytas
+atitinkamas administracinis teisės pažeidimas užtraukia asmeniui administracinę
+atsakomybę, ar nutraukti sankcijos skyrimo procedūrą, arba nuo išteisinamojo
+teismo nuosprendžio priėmimo dienos.
 Šio straipsnio
 antrojoje ir trečiojoje dalyse numatytais atvejais administracinė nuobauda
 negali būti skiriama, jeigu nuo administracinio teisės pažeidimo padarymo
@@ -1222,8 +1220,8 @@ darbdaviams ar jų įgaliotiems asmenims ir (ar) pareigūnams nuo aštuoniasdeš
 nuo penkių iki keturiolikos eurų.
  
 412
-straipsnis. Kliudymas Valstybinės darbo inspekcijos pareigūnams atlikti jiems
-pavestas pareigas arba jų reikalavimų nevykdymas
+straipsnis. Kliudymas Valstybinės darbo inspekcijos pareigūnams atlikti jiems pavestas
+pareigas arba jų reikalavimų nevykdymas
 Neįleidimas
 Valstybinės darbo inspekcijos pareigūnų tikrinti pagal jų kompetenciją įmonių,
 įstaigų, organizacijų, taip pat Valstybinės darbo inspekcijos pareigūnų teisėtų
@@ -1236,9 +1234,9 @@ veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia baudą
 darbdaviams ar jų įgaliotiems asmenims nuo dviejų šimtų aštuoniasdešimt devynių
-iki aštuonių šimtų šešiasdešimt aštuonių eurų ir pareigūnams bei kitiems asmenims
-– nuo dviejų šimtų šešiasdešimties iki penkių šimtų septyniasdešimt devynių
-eurų.
+iki aštuonių šimtų šešiasdešimt aštuonių eurų ir pareigūnams bei kitiems
+asmenims – nuo dviejų šimtų šešiasdešimties iki penkių šimtų
+septyniasdešimt devynių eurų.
  
 413
 straipsnis. Nelegalus darbas
@@ -1268,8 +1266,8 @@ Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia baudą
-nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
-tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
+nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų tūkstančių
+aštuonių šimtų devyniasdešimt šešių eurų.
 Tyčinis darbo
 užmokesčio apskaičiavimo ir mokėjimo tvarkos, nustatytos Lietuvos Respublikos
 darbo kodekse, kolektyvinėje arba darbo sutartyje, pažeidimas arba darbo
@@ -1318,8 +1316,8 @@ Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia baudą
-pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo penkių šimtų septyniasdešimt devynių iki vieno
-tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
+pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio
+vieno šimto penkiasdešimt aštuonių eurų.
  
 417
 straipsnis. Lietuvos Respublikos Europos darbo tarybų įstatymo pažeidimas
@@ -1424,8 +1422,8 @@ iki septynių šimtų dvidešimt keturių eurų.
  
 4111
 straipsnis. Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje
-po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“
-pažeidimas 
+po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių
+jungimosi“ pažeidimas 
 Lietuvos
 Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės
 ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ numatytų garantijų
@@ -1502,13 +1500,12 @@ ir kontrolės įstatymo pažeidimas
 Higienos
 norminių aktų bei Žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo
 pažeidimas –
-užtraukia
-įspėjimą arba baudą piliečiams nuo keturiolikos iki penkiasdešimt septynių eurų
-ir baudą pareigūnams – nuo keturiolikos iki vieno šimto keturiasdešimt keturių
-eurų.
+užtraukia įspėjimą
+arba baudą piliečiams nuo keturiolikos iki penkiasdešimt septynių eurų ir baudą
+pareigūnams – nuo keturiolikos iki vieno šimto keturiasdešimt keturių eurų.
 Tokia pat veika,
-padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, – 
+padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje dalyje
+numatytus pažeidimus, – 
 užtraukia baudą
 piliečiams nuo keturiolikos iki vieno šimto keturiasdešimt keturių eurų ir
 pareigūnams – nuo penkiasdešimt septynių iki keturių šimtų trisdešimt keturių
@@ -1626,10 +1623,10 @@ Nr. 528/2012 nustatyta tvarka neįteisintų biocidinių produktų naudojimas ar
 įteisintų biocidinių produktų naudojimas pažeidžiant Reglamente (ES)
 Nr. 528/2012 nustatytus reikalavimus –
 užtraukia
-įspėjimą arba baudą fiziniams asmenims nuo dvidešimt aštuonių iki vieno šimto keturiasdešimt
-keturių eurų ir baudą juridinių asmenų vadovams ar jų įgaliotiems asmenims –
-nuo dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio keturių šimtų
-keturiasdešimt aštuonių eurų.
+įspėjimą arba baudą fiziniams asmenims nuo dvidešimt aštuonių iki vieno šimto
+keturiasdešimt keturių eurų ir baudą juridinių asmenų vadovams ar jų
+įgaliotiems asmenims – nuo dviejų šimtų aštuoniasdešimt devynių iki vieno
+tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 trečiojoje dalyje numatytus pažeidimus, – 
@@ -1692,8 +1689,8 @@ ministerijos pareigūnų
 sprendimų nevykdymas
 Neįleidimas Valstybinės akreditavimo sveikatos priežiūros
 veiklai tarnybos prie Sveikatos apsaugos ministerijos pareigūnų ar jų įgaliotų
-asmenų tikrinti pagal jų kompetenciją asmens sveikatos priežiūros
-įstaigų, nepateikimas jiems dokumentų, ligonių
+asmenų tikrinti pagal jų kompetenciją asmens sveikatos priežiūros įstaigų,
+nepateikimas jiems dokumentų, ligonių
 medicininių apžiūrų ir tyrimų duomenų, reikalingų patikrinimui atlikti, arba jų
 nuslėpimas, klaidingas ar ne visų dokumentų, ligonių medicininių apžiūrų
 ir tyrimo duomenų pateikimas, taip pat Valstybinės
@@ -1709,8 +1706,8 @@ asmens sveikatos priežiūros įstaigų valdymo organų vadovams nuo dviejų ši
 šimtų septyniasdešimt devynių eurų ir kitiems darbuotojams – nuo
 dvidešimt aštuonių iki penkiasdešimt septynių eurų.
  
-432 straipsnis. Tyčinis
-melagingas pareiškimas apie suteiktas asmens sveikatos priežiūros paslaugas
+432 straipsnis. Tyčinis melagingas
+pareiškimas apie suteiktas asmens sveikatos priežiūros paslaugas
 Tyčinis
 melagingas pareiškimas Valstybinei akreditavimo sveikatos priežiūros veiklai
 tarnybai prie Sveikatos apsaugos ministerijos apie suteiktas asmens sveikatos priežiūros
@@ -1770,8 +1767,8 @@ priežiūros įstaigų teikiamų paslaugų kiekį, kokybę, atlikti kompensuojam
 vaistų, medicinos pagalbos priemonių ir ortopedijos techninių priemonių
 išrašymo ir išdavimo atitikties teisės aktų reikalavimams kontrolę bei atlikti
 finansinę Privalomojo sveikatos draudimo fondo biudžeto lėšų panaudojimo
-analizę, taip pat Valstybinės ligonių kasos ir teritorinių ligonių kasų pareigūnų
-ar jų įgaliotų asmenų teisėtų reikalavimų ir sprendimų nevykdymas –
+analizę, taip pat Valstybinės ligonių kasos ir teritorinių ligonių kasų
+pareigūnų ar jų įgaliotų asmenų teisėtų reikalavimų ir sprendimų nevykdymas –
 užtraukia baudą
 asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorine ligonių
 kasa dėl asmens sveikatos priežiūros paslaugų teikimo ir šių išlaidų apmokėjimo
@@ -1831,9 +1828,9 @@ Valstybinės
 mokesčių inspekcijos, Valstybinio socialinio draudimo fondo administravimo
 įstaigos bei teritorinių ligonių kasų tyčinis melagingų duomenų apie
 privalomojo sveikatos draudimo įmokų mokėjimą pateikimas – 
-užtraukia baudą
-pareigūnams, įgaliotiems teikti informaciją, nuo vieno šimto keturiasdešimt
-keturių iki dviejų šimtų aštuoniasdešimt devynių eurų.
+užtraukia baudą pareigūnams,
+įgaliotiems teikti informaciją, nuo vieno šimto keturiasdešimt keturių iki
+dviejų šimtų aštuoniasdešimt devynių eurų.
  
 Straipsnio redakcija iki 2016-03-31:
 439
@@ -1857,8 +1854,7 @@ užtraukia baudą
 piliečiams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir pareigūnams – nuo penkių šimtų septyniasdešimt
 devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
-Straipsnio redakcija nuo
-2016-04-01:
+Straipsnio redakcija nuo 2016-04-01:
 439
 straipsnis. Kliudymas Nacionalinio visuomenės sveikatos centro
 prie Sveikatos apsaugos ministerijos įgaliotiems pareigūnams atlikti jiems
@@ -1917,9 +1913,8 @@ reglamentuojančių žmogaus audinių, ląstelių ir organų donorystę, paėmim
 ištyrimą, apdorojimą, konservavimą, laikymą, parinkimą, paskirstymą,
 transplantaciją, šalinimą, pažeidimas – 
 užtraukia baudą
-pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo dviejų šimtų
-aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt
-šešių eurų.
+pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo dviejų šimtų aštuoniasdešimt
+devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Tokia pat veika,
 padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
 dalyje numatytus pažeidimus, –
@@ -1960,9 +1955,9 @@ eurų.
 4313
 straipsnis. Kliudymas Valstybinės akreditavimo sveikatos priežiūros veiklai
 tarnybos prie Sveikatos apsaugos ministerijos pareigūnams
-atlikti teisės aktų nustatytas funkcijas arba jų teisėtų reikalavimų ir Valstybinės
-akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos
-ministerijos sprendimų nevykdymas 
+atlikti teisės aktų nustatytas funkcijas arba jų teisėtų reikalavimų ir
+Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos
+apsaugos ministerijos sprendimų nevykdymas 
 Kliudymas
 Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos
 apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros
@@ -2046,7 +2041,8 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų su narkotinių ar
-psichotropinių medžiagų pirmtakų (prekursorių) konfiskavimu arba be konfiskavimo.
+psichotropinių medžiagų pirmtakų (prekursorių) konfiskavimu arba be
+konfiskavimo.
 Veikla, susijusi
 su antros ir (arba) trečios kategorijos narkotinių ar psichotropinių medžiagų
 pirmtakais (prekursoriais), neturint veiklos vietos registracijos pažymėjimo,
@@ -2080,8 +2076,8 @@ Vaistų
 (vaistinių preparatų) pardavimo (išdavimo) gyventojams sąlygų nesilaikymas – 
 užtraukia baudą
 farmacinės veiklos vadovams nuo penkių šimtų septyniasdešimt devynių iki dviejų
-tūkstančių trijų šimtų šešiolikos eurų su nušalinimu nuo darbo (pareigų) ir
-vaistų (vaistinių preparatų) konfiskavimu ar be konfiskavimo.
+tūkstančių trijų šimtų šešiolikos eurų su nušalinimu nuo darbo (pareigų) ir vaistų
+(vaistinių preparatų) konfiskavimu ar be konfiskavimo.
 Veikliųjų
 medžiagų, įskaitant eksportui skirtas veikliąsias medžiagas, gamyba, importas
 iš trečiųjų šalių ir platinimas nesilaikant nustatytų veiklos sąlygų –
@@ -2102,9 +2098,9 @@ vaistinės veiklos ir gamybinės vaistinės veiklos licenciją turinčių juridi
 asmenų vadovams nuo penkių šimtų septyniasdešimt devynių iki dviejų tūkstančių
 trijų šimtų šešiolikos eurų.
 Vaistų
-(vaistinių preparatų) gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas
-nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl
-kurių sustabdomas ar panaikinamas licencijos galiojimas, –
+(vaistinių preparatų) gamyba, žmogaus kraujo plazmos ruošimas, didmeninis
+platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus
+pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas, –
 užtraukia baudą
 farmacinės veiklos licenciją turinčių juridinių asmenų vadovams nuo aštuonių
 šimtų šešiasdešimt aštuonių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt
@@ -2130,9 +2126,8 @@ vaistų (vaistinių preparatų) reklama gyventojams –
 užtraukia baudą
 juridinių asmenų vadovams nuo vieno tūkstančio vieno šimto penkiasdešimt
 aštuonių iki dviejų tūkstančių trijų šimtų šešiolikos eurų.
-Nereceptinių
-vaistų (vaistinių preparatų) reklamos gyventojams reikalavimų pažeidimas –
-
+Nereceptinių vaistų
+(vaistinių preparatų) reklamos gyventojams reikalavimų pažeidimas – 
 užtraukia baudą
 juridinių asmenų vadovams nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno
 tūkstančio septynių šimtų trisdešimt septynių eurų.
@@ -2167,8 +2162,8 @@ aštuonių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių
 Valstybinės
 vaistų kontrolės tarnybos prie Lietuvos Respublikos sveikatos apsaugos
 ministerijos draudimo skleisti vaistų (vaistinių preparatų) reklamą ar
-informaciją apie juos nesilaikymas arba įpareigojimo paneigti neatitinkančią reikalavimų
-reklamą nevykdymas ar netinkamas vykdymas – 
+informaciją apie juos nesilaikymas arba įpareigojimo paneigti neatitinkančią
+reikalavimų reklamą nevykdymas ar netinkamas vykdymas – 
 užtraukia baudą
 juridinių asmenų vadovams nuo vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
@@ -2262,9 +2257,9 @@ išskyrus šio kodekso 444 straipsnyje numatytus pažeidimus ir
 pažeidimus, dėl kurių sustabdomas ar panaikinamas vaistinio preparato
 registracijos pažymėjimo galiojimas arba keičiamos jo sąlygos, –
 užtraukia baudą juridinių asmenų, kurių
-vardu įregistruotas vaistinis preparatas, vadovams ar vaistinio preparato
-registruotojų atstovų vadovams nuo dviejų šimtų aštuoniasdešimt devynių iki
-aštuonių šimtų šešiasdešimt aštuonių eurų.
+vardu įregistruotas vaistinis preparatas, vadovams ar vaistinio
+preparato registruotojų atstovų vadovams nuo dviejų šimtų aštuoniasdešimt
+devynių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Tokia pat veika, padaryta asmens, bausto administracine nuobauda
 už šio straipsnio pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą juridinių asmenų, kurių
@@ -2274,8 +2269,8 @@ aštuonių iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eu
 Teisės aktų, reglamentuojančių vaistinio preparato lygiagretaus
 importo leidimo turėtojo, jo atstovo pareigas, pažeidimas, išskyrus šio kodekso
 444 straipsnyje numatytus pažeidimus ir pažeidimus, dėl kurių
-sustabdomas ar panaikinamas vaistinio preparato lygiagretaus importo leidimo
-galiojimas arba keičiamos jo sąlygos, –
+sustabdomas ar panaikinamas vaistinio preparato lygiagretaus importo leidimo galiojimas
+arba keičiamos jo sąlygos, –
 užtraukia baudą juridinių asmenų, kuriems išduotas vaistinio
 preparato lygiagretaus importo leidimas, vadovams ar vaistinio preparato
 lygiagretaus importo leidimo turėtojų atstovų vadovams nuo dviejų šimtų
@@ -15107,13 +15102,13 @@ straipsnis. Viešųjų pirkimų tvarkos pažeidimas
 Lietuvos
 Respublikos viešųjų pirkimų įstatymo, Lietuvos Respublikos viešųjų pirkimų,
 atliekamų gynybos ir saugumo srityje, įstatymo ir šių įstatymų įgyvendinamųjų
-teisės aktų pažeidimas –
-užtraukia įspėjimą
-arba baudą perkančiųjų organizacijų vadovams arba jų įgaliotiems vadovauti
-viešojo pirkimo komisijai asmenims, viešojo pirkimo komisijos nariams,
-balsavusiems už neteisėto sprendimo priėmimą, ekspertams, kitiems viešuosius
-pirkimus atliekantiems asmenims nuo vieno šimto keturiasdešimt keturių
-iki septynių šimtų dvidešimt keturių eurų.
+teisės aktų pažeidimas –
+užtraukia
+įspėjimą arba baudą perkančiųjų organizacijų vadovams ar jų įgaliotiems
+asmenims, viešojo pirkimo komisijos nariams, balsavusiems už neteisėto
+sprendimo priėmimą, ekspertams, perkančiųjų organizacijų valstybės tarnautojams
+ar darbuotojams nuo vieno šimto keturiasdešimt keturių iki septynių šimtų
+dvidešimt keturių eurų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
@@ -15124,10 +15119,10 @@ Viešųjų pirkimų
 tarnybos pareigūnų teisėtų nurodymų nevykdymas, taip pat trukdymas įgyvendinti
 kitas jų teises –
 užtraukia baudą
-perkančiųjų organizacijų vadovams, jų įgaliotiems vadovauti viešojo pirkimo
-komisijai asmenims, viešojo pirkimo komisijos nariams, kitiems sprendimus
-nevykdyti Viešųjų pirkimų tarnybos pareigūnų nurodymų priimantiems asmenims nuo
-vieno šimto keturiasdešimt keturių iki septynių šimtų dvidešimt keturių eurų.
+perkančiųjų organizacijų vadovams ar jų įgaliotiems asmenims, viešojo pirkimo
+komisijos nariams, perkančiųjų organizacijų valstybės tarnautojams ar
+darbuotojams nuo vieno šimto keturiasdešimt keturių iki septynių šimtų
+dvidešimt keturių eurų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 trečiojoje dalyje numatytus pažeidimus, –
@@ -15147,6 +15142,8 @@ Nr. XI-1866,
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
+Nr. XII-1767, 2015-06-09,
+paskelbta TAR 2015-06-16, i. k. 2015-09609
  
 1714
 straipsnis. Akcizo mokesčiu neapmokestinamų suskystintų dujų panaudojimas kaip
@@ -15191,8 +15188,8 @@ fiziniams asmenims nuo dviejų šimtų aštuoniasdešimt devynių iki penkių
 asmenims – nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio
 keturių šimtų keturiasdešimt aštuonių eurų. 
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytą pažeidimą, –
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytą pažeidimą, –
 užtraukia baudą
 fiziniams asmenims nuo penkių šimtų septyniasdešimt devynių iki vieno
 tūkstančio vieno šimto penkiasdešimt aštuonių eurų, įmonių vadovams ar jų
@@ -15281,11 +15278,10 @@ individualių įmonių savininkų, asmenų, įgaliotų tvarkyti ūkinių bendrij
 reikalus, uždarųjų akcinių bendrovių ir akcinių bendrovių vadovų, žemės ūkio
 bendrovių valdybų pirmininkų ar administracijos vadovų, kooperatinių bendrovių
 valdybų pirmininkų ar valdytojų, valstybės bei savivaldybės įmonių vadovų,
-bankrutuojančių įmonių administratorių ar jų įgaliotų asmenų, įmonių
-likvidatorių ataskaitų ir dokumentų apie savo (fizinio asmens), įmonės,
-įstaigos arba organizacijos pajamas, turtą, pelną ir mokesčius pateikimo
-tvarkos pažeidimas, neteisingų duomenų apie pajamas, turtą, pelną ir mokesčius
-pateikimas – 
+bankrutuojančių įmonių administratorių ar jų įgaliotų asmenų, įmonių likvidatorių
+ataskaitų ir dokumentų apie savo (fizinio asmens), įmonės, įstaigos arba
+organizacijos pajamas, turtą, pelną ir mokesčius pateikimo tvarkos pažeidimas,
+neteisingų duomenų apie pajamas, turtą, pelną ir mokesčius pateikimas – 
 užtraukia
 įspėjimą arba baudą nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt
 keturių eurų.
@@ -15378,12 +15374,12 @@ tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui tv
 pažeidimas
 Neteisingų
 juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos
-organizacijos filialo ar atstovybės dokumentų, išskyrus finansines
-ataskaitas (konsoliduotąsias finansines ataskaitas), metinį pranešimą
-(konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios
-institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms
-ataskaitą), duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų
-registro tvarkytojui ar Juridinių asmenų dalyvių informacinės
+organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas
+(konsoliduotąsias finansines ataskaitas), metinį pranešimą (konsoliduotąjį
+metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios institucijoms
+ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų
+ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro
+tvarkytojui ar Juridinių asmenų dalyvių informacinės
 sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės,
 užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės
 dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines
@@ -15405,11 +15401,11 @@ finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio prane�
 institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms
 ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio
 asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių
-ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio pranešimo
-(konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados,
-mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios
-institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui
-laiku teisės aktų nustatytais atvejais ir tvarka –
+ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio pranešimo (konsoliduotojo
+metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios
+institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms
+ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės
+aktų nustatytais atvejais ir tvarka –
 užtraukia baudą
 juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo
 vadovui ar kitam įstatymuose arba steigimo dokumentuose nurodytam asmeniui nuo
@@ -34236,6 +34232,13 @@ LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 178 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. lapkričio 1 d.
  
+281.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1767, 2015-06-09, paskelbta TAR 2015-06-16, i.
+k. 2015-09609
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 171-3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -34256,8 +34259,8 @@ Konstitucinis Teismas, Nutarimas
 2009-04-10, Žin., 2009,
 Nr. 42-1624 (2009-04-16)
 DĖL LIETUVOS RESPUBLIKOS
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 269 STRAIPSNIO 7 DALIES (2007 M.
-GRUODŽIO 13 D., 2008 M. LIEPOS 3 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 269 STRAIPSNIO 7 DALIES (2007 M. GRUODŽIO
+13 D., 2008 M. LIEPOS 3 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS
 KONSTITUCIJAI
  
 3.
@@ -34275,7 +34278,7 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2015-06-02)
+Aušrinė Trapinskienė (2015-06-17)
                  
 ausrine.trapinskiene@lrs.lt
 
