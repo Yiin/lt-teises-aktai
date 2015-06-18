@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b3b1225008e911e4adf3c8c5d7681e73"
 
 # Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2015-04-01 iki 2015-06-17
+Suvestinė redakcija nuo 2015-06-18
  
 Įstatymas paskelbtas: TAR 2014-07-11, i. k. 2014-10138
  
@@ -132,11 +132,35 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 „6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti.“
+
+
+
+
+
+
+
+
+2. Papildyti 11 straipsnį nauja 7 dalimi:
+
+
+
+
+„7. Šio straipsnio 6 dalies nuostata (išskyrus tarybos komitetų bei įstatyme nustatytų komisijų sudarymą) netaikoma, jeigu išrinktas meras kitų įstatymų nustatyta tvarka laikinai nušalintas nuo pareigų. Pasibaigus išrinkto mero laikino nušalinimo laikotarpiui ne vėliau kaip per 5 kalendorines dienas turi būti sušauktas savivaldybės tarybos posėdis, kuriame išrinktas meras prisiekia (jeigu jis nebuvo prisiekęs). Nuo šio posėdžio dienos per du mėnesius turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. 
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
  
 
 
 
 
+3. Buvusias 11 straipsnio 7, 8, 9 dalis laikyti atitinkamai 8, 9, 10 dalimis.
+Papildyta straipsnio dalimi:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+ 
 
 
 
@@ -803,11 +827,27 @@ Pakeisti 17 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 
 „8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus šio straipsnio 2 dalies 4–8 ir 15–22 punktuose numatytus įgaliojimus. Tokiu atveju šio straipsnio 2 dalies 15–22 punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.“ 
+
+
+
+
+
+
+
+
+16. Papildyti 20 straipsnį 9 dalimi:
+
+
+
+
+„9. Jeigu įstatymų nustatyta tvarka meras neišrinktas arba išrinktas meras laikinai nušalintas nuo pareigų šio ir kitų įstatymų nustatyta tvarka, mero pareigas laikinai einančiam savivaldybės tarybos nariui mokamas mero darbo užmokestis.
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
  
-
-
-
-
 
 
 
@@ -1162,3 +1202,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymo Nr. XII-967 5 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymo Nr. XII-967 4 ir 10 straipsnių pakeitimo įstatymas
