@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-06-17
+Suvestinė redakcija nuo 2015-06-18 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1007,17 +1007,29 @@ SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 
 
 
-7. Jeigu išrinktos naujos savivaldybės tarybos rinkimų rezultatai pripažinti negaliojančiais, esamos savivaldybės tarybos įgaliojimai tęsiasi iki savivaldybės tarybos, kuri bus išrinkta per pakartotinius rinkimus, pirmojo posėdžio arba tiesioginio valdymo laikino įvedimo savivaldybės teritorijoje. 
+8. Jeigu išrinktos naujos savivaldybės tarybos rinkimų rezultatai pripažinti negaliojančiais, esamos savivaldybės tarybos įgaliojimai tęsiasi iki savivaldybės tarybos, kuri bus išrinkta per pakartotinius rinkimus, pirmojo posėdžio arba tiesioginio valdymo laikino įvedimo savivaldybės teritorijoje. 
+TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+ 
 
 
 
 
-8. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje.
+9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje.
+TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+ 
 
 
 
 
-9. Ypatingomis aplinkybėmis, kai nei savivaldybės meras, nei savivaldybės mero pavaduotojas (pavaduotojai) negali eiti savo pareigų dėl nuo jų nepriklausančių priežasčių, savivaldybės tarybos posėdžiai šaukiami ir mero pareigos vykdomos reglamento nustatyta tvarka.
+10. Ypatingomis aplinkybėmis, kai nei savivaldybės meras, nei savivaldybės mero pavaduotojas (pavaduotojai) negali eiti savo pareigų dėl nuo jų nepriklausančių priežasčių, savivaldybės tarybos posėdžiai šaukiami ir mero pareigos vykdomos reglamento nustatyta tvarka.
+TAR pastaba. Buvusi 9 dalis laikoma 10 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+ 
 
 
 Straipsnio pakeitimai:
@@ -4844,3 +4856,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1577, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05691
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, 46 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymo Nr. XII-967 4 ir 10 straipsnių pakeitimo įstatymas
