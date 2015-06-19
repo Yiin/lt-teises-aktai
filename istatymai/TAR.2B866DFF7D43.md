@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-05-19 iki 2015-06-18
+Suvestinė redakcija nuo 2015-06-19 iki 2015-07-09
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -326,7 +326,10 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 
 
-13) nusikaltimus aplinkai (270, 2701, 2702, 271, 272, 274 straipsniai).
+13) nusikaltimus aplinkai (270, 2701, 2702, 2703, 271, 272, 274 straipsniai).
+Straipsnio punkto pakeitimai:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
 
 
 
@@ -6893,13 +6896,13 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 196 straipsnis. Neteisėtas poveikis elektroniniams duomenims
 
 
-1. Tas, kas neteisėtai sunaikino, sugadino, pašalino ar pakeitė elektroninius duomenis arba technine įranga, programine įranga ar kitais būdais apribojo naudojimąsi tokiais duomenimis padarydamas didelės žalos, 
-baudžiamas viešaisiais darbais arba bauda, arba laisvės atėmimu iki ketverių metų.
+1. Tas, kas neteisėtai sunaikino, sugadino, pašalino ar pakeitė elektroninius duomenis arba technine įranga, programine įranga ar kitais būdais apribojo naudojimąsi tokiais duomenimis padarydamas žalos, 
+baudžiamas viešaisiais darbais arba bauda, arba laisvės atėmimu iki dvejų metų.
 
 
 
 
-2. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė strateginę reikšmę nacionaliniam saugumui ar didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčios informacinės sistemos elektroniniams duomenims,
+2. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė daugelio informacinių sistemų elektroniniams duomenims arba strateginę reikšmę nacionaliniam saugumui ar didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčios informacinės sistemos elektroniniams duomenims, arba pasinaudodamas svetimais asmens duomenimis, arba padarydamas didelės žalos,
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 
@@ -6917,6 +6920,8 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 Straipsnio pakeitimai:
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
@@ -6925,13 +6930,13 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 197 straipsnis. Neteisėtas poveikis informacinei sistemai
 
 
-1. Tas, kas neteisėtai sutrikdė ar nutraukė informacinės sistemos darbą padarydamas didelės žalos,
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+1. Tas, kas neteisėtai sutrikdė ar nutraukė informacinės sistemos darbą padarydamas žalos,
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
 
 
-2. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė strateginę reikšmę nacionaliniam saugumui arba didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčiai informacinei sistemai,
+2. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė daugeliui informacinių sistemų arba strateginę reikšmę nacionaliniam saugumui ar didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčiai informacinei sistemai, arba pasinaudodamas svetimais asmens duomenimis, arba padarydamas didelės žalos,
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 
@@ -6943,12 +6948,14 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 
 
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
@@ -6979,16 +6986,16 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 
 
 
-198(1) straipsnis. Neteisėtas prisijungimas prie informacinės sistemos
+1981 straipsnis. Neteisėtas prisijungimas prie informacinės sistemos
 
 
-1. Tas, kas neteisėtai prisijungė prie informacinės sistemos pažeisdamas informacinės sistemos apsaugos priemones,
-baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki vienerių metų. 
+1. Tas, kas neteisėtai prisijungė prie informacinės sistemos ar jos dalies pažeisdamas informacinės sistemos apsaugos priemones,
+baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki dvejų metų. 
 
 
 
 
-2. Tas, kas neteisėtai prisijungė prie strateginę reikšmę nacionaliniam saugumui arba didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčios informacinės sistemos,
+2. Tas, kas neteisėtai prisijungė prie strateginę reikšmę nacionaliniam saugumui ar didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčios informacinės sistemos ar jos dalies,
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
 
@@ -7001,15 +7008,17 @@ Kodeksas papildytas straipsniu:
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Straipsnio pakeitimai:
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-198(2) straipsnis. Neteisėtas disponavimas įrenginiais, programine įranga, slaptažodžiais, prisijungimo kodais ir kitokiais duomenimis
+1982 straipsnis. Neteisėtas disponavimas įrenginiais, programine įranga, slaptažodžiais, kodais ir kitokiais duomenimis
 
 
-1. Tas, kas neteisėtai gamino, gabeno, pardavė ar kitaip platino įrenginius ar programinę įrangą, taip pat slaptažodžius, prisijungimo kodus ar kitokius panašius duomenis, tiesiogiai skirtus daryti nusikalstamas veikas, arba tuo pačiu tikslu juos įgijo ar laikė,
+1. Tas, kas nusikalstamais tikslais ar kitaip neteisėtai gamino, gabeno, importavo, pardavė, suteikė prieigą ar kitaip platino, įgijo ar laikė įrenginius ar programinę įrangą, tiesiogiai skirtus ar pritaikytus daryti nusikalstamas veikas, taip pat slaptažodžius, kodus ar kitokius panašius duomenis, skirtus prisijungti prie informacinės sistemos ar jos dalies,
 baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki trejų metų.
 
 
@@ -7022,6 +7031,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Straipsnio pakeitimai:
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
@@ -9206,6 +9217,30 @@ Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)
 
 
 
+2703 straipsnis. Jūros teršimas iš laivų
+
+
+1. Tas, kas pažeisdamas Tarptautinės konvencijos dėl teršimo iš laivų prevencijos (MARPOL 73/78) I ir II prieduose nustatytus reikalavimus teršė iš laivų atvirą jūrą arba kitą teritoriją, kurioje negalioja jokios valstybės jurisdikcija, Lietuvos Respublikos ar kitų Europos Sąjungos valstybių narių išskirtinę ekonominę zoną, teritorinę jūrą, tarptautinei laivybai naudojamus sąsiaurius, kuriuose galioja šių valstybių jurisdikcija, vidaus vandenis, įskaitant uostus, jeigu dėl to pablogėjo vandens kokybė, 
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų. 
+
+
+
+
+2. Šio straipsnio 1 dalyje numatyta veika yra nusikalstama ir tais atvejais, kai ji padaryta dėl neatsargumo.
+
+
+
+
+3. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
+
+
+Papildyta straipsniu:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
+
+
+
+
 271 straipsnis. Saugomų teritorijų ar gamtos paveldo objektų sunaikinimas ar suniokojimas
 
 
@@ -10816,103 +10851,132 @@ priedas
 
 
 
-16. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/222/TVR dėl atakų prieš informacines sistemas (OL 2005 L 69, p. 67).
+16. 2005 m. liepos 12 d. Tarybos pamatinis sprendimas 2005/667/TVR dėl baudžiamosios teisės sistemos stiprinimo įgyvendinant teršimui iš laivų taikomą teisę (OL 2005 L 255, p. 164). 
+Punkto pakeitimai:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
 
 
 
 
-17. 2005 m. liepos 12 d. Tarybos pagrindų sprendimas 2005/667/TVR dėl baudžiamosios teisės sistemos stiprinimo įgyvendinant teršimui iš laivų taikomą teisę (OL 2005 L 255, p. 164).
+17. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
+Punkto numeracijos pakeitimas:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
 
 
 
 
-18. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
+18. 2008 m. liepos 24 d. Tarybos pagrindų sprendimas 2008/675/TVR dėl atsižvelgimo į apkaltinamuosius nuosprendžius Europos Sąjungos valstybėse narėse naujose baudžiamosiose bylose (OL 2008 L 220, p. 32).
+Punkto numeracijos pakeitimas:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
 
 
 
 
-19. 2008 m. liepos 24 d. Tarybos pagrindų sprendimas 2008/675/TVR dėl atsižvelgimo į apkaltinamuosius nuosprendžius Europos Sąjungos valstybėse narėse naujose baudžiamosiose bylose (OL 2008 L 220, p. 32).
+19. 2008 m. spalio 24 d. Tarybos pamatinis sprendimas 2008/841/TVR dėl kovos su organizuotu nusikalstamumu (OL 2008 L 300, p. 42).
+Punkto numeracijos pakeitimas:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
 
 
 
 
-20. 2008 m. spalio 24 d. Tarybos pamatinis sprendimas 2008/841/TVR dėl kovos su organizuotu nusikalstamumu (OL 2008 L 300, p. 42).
+20. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
+Punkto numeracijos pakeitimas:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
 
 
 
 
-21. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
-
-
-
-
-22. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/909/TVR dėl nuosprendžių baudžiamosiose bylose tarpusavio pripažinimo principo taikymo skiriant laisvės atėmimo bausmes ar su laisvės atėmimu susijusias priemones, siekiant jas vykdyti Europos Sąjungoje (OL 2008 L 327, p. 27), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24). 
+21. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/909/TVR dėl nuosprendžių baudžiamosiose bylose tarpusavio pripažinimo principo taikymo skiriant laisvės atėmimo bausmes ar su laisvės atėmimu susijusias priemones, siekiant jas vykdyti Europos Sąjungoje (OL 2008 L 327, p. 27), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24). 
 Papildyta punktu:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Punkto numeracijos pakeitimas:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-23. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
+22. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-24. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
+23. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-25. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+24. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-26. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+25. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-27. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+26. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-28. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+27. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-29. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+28. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
 
 
-30. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2).
+29. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2).
 Papildyta punktu:
 Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
+Punkto numeracijos pakeitimas:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+ 
+
+
+
+
+30. 2013 m. rugpjūčio 12 d. Europos Parlamento ir Tarybos direktyva 2013/40/ES dėl atakų prieš informacines sistemas, kuria pakeičiamas Tarybos pamatinis sprendimas 2005/222/TVR (OL 2013 L 218, p. 8).
+Papildyta punktu:
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
  
 
 
@@ -11241,3 +11305,8 @@ Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 Lietuvos Respublikos baudžiamojo kodekso 42, 67, 72-1 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
+Lietuvos Respublikos baudžiamojo kodekso 7, 196, 197, 198-1, 198-2 straipsnių ir priedo pakeitimo ir Kodekso papildymo 270-3 straipsniu įstatymas
