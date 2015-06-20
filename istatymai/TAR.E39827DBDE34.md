@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-19
+Suvestinė redakcija nuo 2015-06-20 iki 2015-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -612,11 +612,15 @@ pareiškimą dalyvauti ________ m. ________________ __ d. rinkimuose kandidatu �
 
 40 straipsnis. Respublikos Prezidento rinkimų stebėtojai
 
-1. Partijos, iškėlusios asmenis kandidatais į Respublikos Prezidentus, kandidatai į Respublikos Prezidentus ir jų patikėtiniai turi teisę skirti ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Rinkimų stebėtojas yra asmuo, turintis Vyriausiosios rinkimų komisijos nustatytos formos pažymėjimą. Jis turi teisę stebėti rinkimus savivaldybės arba rinkimų apylinkės, kuri nurodyta jo pažymėjime, teritorijoje. Respublikos Prezidento rinkimų stebėtojo pažymėjimą išduoda:
+1. Partijos, rinkimų komitetai, partijų ir rinkimų komitetų atstovai rinkimų komisijose ir kandidatai turi teisę skirti ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Stebėtojais draudžiama skirti seniūnus ir seniūnų pavaduotojus tose rinkimų apylinkėse, kurios įeina į jų seniūnijų aptarnaujamą teritoriją. Rinkimų stebėtojas yra asmuo, turintis Vyriausiosios rinkimų komisijos nustatytos formos rinkimų stebėtojo pažymėjimą. Jis turi teisę stebėti rinkimus savivaldybės ar rinkimų apylinkės, kuri nurodyta jo pažymėjime, teritorijoje ir bet kuriame pašto skyriuje. Rinkimų stebėtojo pažymėjimą išduoda:
 
 1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose arba tik konkrečių savivaldybių teritorijose ar rinkimų apylinkėse užsienio reikalų ministro, Respublikos Prezidento ar jo įgalioto asmens teikimu, užsienio valstybėms arba tarptautinėms institucijoms atstovaujančių asmenų prašymu, taip pat ir savo nuožiūra;
 
 2) savivaldybės rinkimų komisija – stebėti rinkimus visoje šios savivaldybės teritorijoje, vienoje arba keliose rinkimų apylinkėse vyresniems kaip 18 metų Lietuvos Respublikos piliečiams kandidato į Respublikos Prezidentus teikimu arba partijos, iškėlusios asmenį kandidatu į Respublikos Prezidentus, vietos skyriaus prašymu (teikime, prašyme turi būti nurodyta asmens pavardė, vardas, asmens kodas, rinkimų apylinkės (apylinkių) pavadinimas).
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1796, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09816
+ 
 
 2. Stebėtojo pažymėjimus rinkimų komisijos vardu išduoda komisijos pirmininkas arba kitas komisijos narys komisijos pirmininko pavedimu. Negalima atsisakyti išduoti stebėtojo pažymėjimą arba vilkinti jo išdavimą. Apie visus atsisakymus išduoti stebėtojo pažymėjimą turi būti pranešta artimiausiame rinkimų komisijos posėdyje ir atitinkamam kandidato į Respublikos Prezidentus patikėtiniui.
 
@@ -1352,4 +1356,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1253, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14854
 Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 8 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1796, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09816
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 40 straipsnio pakeitimo įstatymas
 
