@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-04-21 iki 2015-06-19
+Suvestinė redakcija nuo 2015-06-20 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -3248,12 +3248,19 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 46 straipsnis. Karių, sukakusių išleidimo iš profesinės karo tarnybos į atsargą amžių, tarnybos pratęsimas
 
 
-Kai kuriais atvejais krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti ne aukštesnio kaip pulkininko (jūrų kapitono) laipsnio kario, sukakusio šio įstatymo 45 straipsnio 4 dalyje nustatytą amžių, profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne ilgiau kaip 2 metams (arba 2 kartus po vienus metus). Šiam terminui pasibaigus pakartotinai ne ilgesniam kaip 2 metų laikotarpiui pratęsti profesinę karo tarnybą pagal tokią sutartį krašto apsaugos ministras gali tik karininkams, turintiems ne aukštesnį kaip majoro (komandoro leitenanto) laipsnį.
+1. Krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti šio įstatymo 45 straipsnio 4 dalyje nustatytą amžių sukakusių kareivių (jūreivių), jaunesniųjų karininkų ir majorų (komandorų leitenantų) profesinę karo tarnybą ne ilgiau kaip 10 metų (arba 2 kartus po 5 metus), puskarininkių ir pulkininkų (jūrų kapitonų) profesinę karo tarnybą – ne ilgiau kaip 4 metams (arba 2 kartus po 2 metus), o pulkininkų leitenantų (komandorų) profesinę karo tarnybą – ne ilgiau kaip 6 metams (arba 2 kartus po 3 metus).
+
+
+
+
+2. Krašto apsaugos ministras, atsižvelgdamas į krašto apsaugos sistemos poreikius, jaunesniųjų karininkų ir majorų (komandorų leitenantų), kurie pagal Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo įgyvendinimo įstatymo 5 straipsnio 2 dalį į atsargą išleidžiami sukakę 47 metus, profesinę karo tarnybą gali pratęsti: vyresniesiems leitenantams – ne ilgiau kaip 3 metams, kapitonams (kapitonams leitenantams) – ne ilgiau kaip 6 metams (arba 2 kartus po 3 metus), majorams (komandorams leitenantams) – ne ilgiau kaip 9 metams (arba 5 metams ir 4 metams). 
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Straipsnio pakeitimai:
+Nr. XII-1780, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09811
  
 
 
@@ -5237,3 +5244,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 64 ir 68 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1780, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09811
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 46 straipsnio pakeitimo įstatymas
