@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2015-06-25
+Suvestinė redakcija nuo 2015-06-26 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -2039,10 +2039,12 @@ TARNYBOS ŽVALGYBOS INSTITUCIJOJE SĄLYGOS
 46 straipsnis. Žvalgybos pareigūnų tarnybos stažas
 
 
-Žvalgybos pareigūnų tarnybos stažo pradžia laikoma žvalgybos pareigūno tarnybos žvalgybos institucijoje pradžia. 
+Žvalgybos pareigūnų tarnybos stažo pradžia laikoma žvalgybos pareigūno tarnybos žvalgybos institucijoje pradžia. Į žvalgybos pareigūnų tarnybos stažą šio įstatymo 64 straipsnyje nustatytam priedui už tarnybos stažą skaičiuoti ir 65 straipsnyje nustatytai atostogų trukmei nustatyti įskaitomas ir nuo 1990 m. kovo 11 d. įgytas profesinės karo tarnybos ar tarnybos statutinėje valstybės tarnyboje stažas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1801, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10142
  
-
-
 
 
 
@@ -3737,3 +3739,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 67 ir 69 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 13 ir 24 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1801, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10142
+Lietuvos Respublikos žvalgybos įstatymo Nr. XI-2289 46 straipsnio pakeitimo įstatymas
