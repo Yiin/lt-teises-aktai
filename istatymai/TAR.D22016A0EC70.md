@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-29
+Suvestinė redakcija nuo 2015-06-30 iki 2015-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -1313,7 +1313,10 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 
 
-3) ūkio subjektas padarė šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą;
+3) ūkio subjektas padarė du ir daugiau šiurkščių verslinės žvejybos vidaus vandenyse tvarkos pažeidimų per vienus metus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1836, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10370
+ 
 
 
 
@@ -3852,3 +3855,8 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 6, 15, 16 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1523, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21157
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 papildymo 17-1 straipsniu ir 31 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1836, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10370
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 14-3 straipsnio pakeitimo įstatymas
