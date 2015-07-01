@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2015-03-02 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1346,164 +1346,287 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 
 
 
-2. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybės įgaliota institucija, vadovaudamasi šiame įstatyme ir Atsinaujinančių išteklių energetikos įstatyme nustatytais reikalavimais.
+2. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybė ar jos įgaliota institucija, vadovaudamasi šiame įstatyme, Energetikos įstatyme ir Atsinaujinančių išteklių energetikos įstatyme nustatytais reikalavimais.
 
 
 
 
-3. Leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus ir leidimais reguliuojamą veiklą kontroliuoja Energetikos ministerija, o leidimus, nurodytus šio straipsnio 1 dalies 6 punkte, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus ir leidimais reguliuojamą veiklą kontroliuoja Komisija.
+3. Leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus, leidimais reguliuojamą veiklą prižiūri Valstybinė energetikos inspekcija. Leidimus, nurodytus šio straipsnio 1 dalies 6 punkte, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus ir leidimais reguliuojamą veiklą prižiūri Komisija.
 
 
 
 
-4. Veiklos elektros energetikos sektoriuje leidimai išduodami neterminuotam laikui, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją. Leidimų plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją galiojimo terminus nustato Energetikos ministerija, laikydamasi šių reikalavimų:
-
-
-1) vienkartinis leidimas plėtoti elektros energijos gamybos pajėgumus, išskyrus šios dalies 2 punkte nurodytus atvejus, ir tiesti tiesioginę liniją išduodamas 36 mėnesių laikotarpiui;
+4. Veiklos elektros energetikos sektoriuje leidimai išduodami neterminuotam laikui, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją. Leidimai plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją išduodami 36 mėnesių laikotarpiui.
 
 
 
 
-2) vienkartinis leidimas plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus išduodamas ne ilgesniam kaip 24 mėnesių laikotarpiui;
+5. Tuo atveju, kai plėtojamos elektros energijos gamybos technologijos savybės objektyviai lemia ilgesnius statybos ir įrengimo terminus ir kai pareiškėjas pateikia tai pagrindžiančius dokumentus, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka Valstybinė energetikos inspekcija išduoda leidimus plėtoti elektros energijos gamybos pajėgumus, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, ilgesniam laikotarpiui negu numatyta šio straipsnio 4 dalyje.
 
 
 
 
-3) išduotas leidimas gali būti pratęsiamas ne daugiau kaip vieną kartą ir ne ilgesniam kaip 12 mėnesių laikotarpiui šios dalies 1 punkte nurodytais atvejais ar 6 mėnesių laikotarpiui šios dalies 2 punkte nurodytais atvejais, jeigu užbaigti projektavimo darbai ir atlikta ne mažiau kaip 50 procentų projekto įgyvendinimo darbų. Šių reikalavimų taikymo ir įvertinimo tvarka bei sąlygos nustatomos Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse. Šios dalies 2 punkte nurodytais atvejais leidimas gali būti pratęsiamas tik pareiškėjui pateikus papildomą prievolių įvykdymo užtikrinimą Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis;
+6. Išduotų leidimų plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją galiojimo terminas pratęsiamas ne daugiau kaip du kartus: 
+
+
+1) vieną kartą ne ilgesniam kaip 12 mėnesių, o plėtojant elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių – 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių;
 
 
 
 
-4) išduotas leidimas gali būti pratęsiamas papildomam, ne ilgesniam kaip 6 mėnesių, laikotarpiui, jeigu pareiškėjas pateikia pagrįstus įrodymus, kad atlikti suplanuotus darbus vėluojama dėl valstybės veiksmų, trečiųjų asmenų veiksmų ar esant nenugalimos jėgos aplinkybėms, taip pat kitoms aplinkybėms, kurių pareiškėjas negalėjo kontroliuoti ar kitaip valdyti;
-
-
-
-
-5) tuo atveju, kai plėtojamos elektros energijos gamybos technologijos savybės objektyviai lemia ilgesnius statybos ir įrengimo terminus, pareiškėjui pateikus atitinkamus dokumentus, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka Energetikos ministerija gali išduoti leidimus plėtoti elektros energijos gamybos pajėgumus ilgesniam laikotarpiui, negu numatyta šios dalies 1 punkte.
+2) vieną kartą ne ilgesniam kaip 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia statybą leidžiantį dokumentą, išskyrus teisės aktų nustatytus atvejus, kai statybą leidžiantis dokumentas neprivalomas, ir dokumentus, įrodančius, kad atlikta ne mažiau kaip 50 procentų projekto įgyvendinimo darbų.
 
 
 
 
 
 
-5. Leidimai gaminti elektros energiją, plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje.
+7. Šio straipsnio 6 dalyje nurodytų reikalavimų taikymo ir įvertinimo tvarka nustatoma Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse. Leidimo plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių galiojimo terminas pratęsiamas, kai asmuo pateikia šio straipsnio 6 dalyje nurodytus dokumentus bei įrodymus ir prievolių įvykdymo užtikrinimą prašomam pratęsti leidimo galiojimo terminui Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis.
 
 
 
 
-6. Leidimas gaminti elektros energiją išduodamas asmenims, atitinkantiems šio straipsnio 5 dalyje nustatytą reikalavimą ir:
-
-
-1) pateikusiems dokumentus, įrodančius, kad pastatytas naujas ar rekonstruotas elektros energetikos objektas yra užbaigtas Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas) nustatyta tvarka ir sąlygomis;
+8. Leidimai gaminti elektros energiją, plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje.
 
 
 
 
-2) kurie yra pajėgūs kaupti ar palaikyti rezervinio kuro atsargas, jeigu technologiniai elektros energijos gamybos pajėgumai viršija suminę (elektrinę ir šiluminę) 5 MW galią, išskyrus atvejus, kai elektros energija yra gaminama naudojant atsinaujinančius energijos išteklius ir dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti tokių energijos išteklių.
+9. Leidimas gaminti elektros energiją išduodamas šio įstatymo nustatyta tvarka ir sąlygomis asmenims, atitinkantiems šio straipsnio 8 dalyje nustatytą reikalavimą ir:
+
+
+1) pateikusiems dokumentus, įrodančius, kad pastatytas naujas ar rekonstruotas elektros energetikos objektas yra užbaigtas Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas) nustatyta tvarka ir sąlygomis;
+
+
+
+
+2) pateikusiems dokumentus, įrodančius, kad elektros energijos gamybos įrenginiai yra išbandyti ir tinkami eksploatuoti;
+
+
+
+
+3) kurie yra pajėgūs kaupti ar palaikyti rezervinio kuro atsargas, jeigu technologiniai elektros energijos gamybos pajėgumai viršija elektrinę ir (ar) šiluminę 5 MW galią, išskyrus atvejus, kai elektros energija yra gaminama naudojant atsinaujinančius energijos išteklius ir dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti tokių energijos išteklių;
+
+
+
+
+4) kurių pastatytas energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu. 
 
 
 
 
 
 
-7. Leidimas gaminti elektros energiją paskirstytosios gamybos atveju yra išduodamas Vyriausybės ar jos įgaliotos institucijos nustatyta supaprastinta tvarka, atsižvelgiant į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui.
+10. Leidimas gaminti elektros energiją nereikalingas, jeigu asmuo numato gaminti elektros energiją ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos įrenginiuose tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus.
 
 
 
 
-8. Asmenims, numatantiems gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, kai jų turimų elektros energijos gamybos pajėgumų įrengtoji galia neviršija 10 kW, leidimas gaminti elektros energiją išduodamas supaprastinta tvarka pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles. 
-Straipsnio dalies pakeitimai:
-Nr. XII-171, 2013-01-17, Žin., 2013, Nr. 12-562 (2013-02-01), i. k. 1131010ISTA0XII-171
+11. Valstybinė energetikos inspekcija, atsižvelgdama į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui, kai elektros energijos gamybos įrenginių įrengtoji galia yra ne didesnė kaip 10 kW, išduoda leidimą gaminti elektros energiją Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse numatyta supaprastinta tvarka, jeigu asmuo pateikia prašymą ir šio straipsnio 9 dalies 2 punkte nurodytus dokumentus.
+
+
+
+
+12. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas šio įstatymo nustatyta tvarka ir sąlygomis asmenims, atitinkantiems šio straipsnio 8 ir 15 dalyse nustatytus reikalavimus, ir:
+
+
+1) kai tinklų operatorius patvirtina gamintojo elektros įrenginių prijungimo prie perdavimo ar skirstomųjų tinklų galimybę arba pareiškėjas pateikia dokumentus, pagrindžiančius planuojamą prisijungimą prie veikiančios tiesioginės linijos, arba kartu pateikia prašymą leidimui tiesti tiesioginę liniją gauti;
+
+
+
+
+2) nuosavybės teise ar kitais teisėtais pagrindais valdantiems žemės sklypą ar jo dalį, kuriame numatoma verstis šiame įstatyme nustatyta leidimais reguliuojama veikla, arba nuosavybės teise ar kitais teisėtais pagrindais valdantiems statinį ar jo dalį, kai elektros energijos gamybos įrenginius planuojama įrengti ant statinio ar jo konstrukcijos dalies;
+
+
+
+
+3) pateikusiems patvirtinimą apie skatinimo kvotų paskirstymo aukcione laimėtą fiksuotą tarifą, išskyrus atvejus, kai elektrinėms fiksuotas tarifas, numatytas Atsinaujinančių išteklių energetikos įstatyme, netaikomas. Šis reikalavimas taikomas tik išduodant leidimus plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių.
+
+
+
+
+
+
+13. Tais atvejais, išskyrus Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 3 dalyje nurodytus atvejus, kai elektros energijos gamybos pajėgumų plėtra yra susijusi su riboto elektros tinklų pralaidumo ir galios panaudojimu tam tikrame tinklų taške ar jų dalyje, šio įstatymo ir Atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka ir sąlygomis leidimai plėtoti elektros energijos gamybos pajėgumus išduodami konkurso (aukciono) tvarka.
+
+
+
+
+14. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, jeigu asmuo numato plėsti (įrengti) elektros energijos gamybos pajėgumus, kurių įrengtoji galia ne didesnė kaip 10 kW, ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus. Asmuo, numatantis plėsti (įrengti) ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos pajėgumus ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka apie tai privalo informuoti tinklų operatorių.
+
+
+
+
+15. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas, jeigu Valstybinė energetikos inspekcija, įvertinusi asmens pateiktus dokumentus, nustato, kad asmuo atitinka šio įstatymo reikalavimus ir jo planuojama vykdyti veikla atitinka visas šias sąlygas, tai yra:
+
+
+1) elektros energijos įrenginiai ir su jais susijusi įranga yra saugūs ir patikimi, taip pat neturės neigiamos įtakos elektros tinklams, prie kurių šie įrenginiai prijungti, ar nesudarys prielaidų tokiai neigiamai įtakai atsirasti;
+
+
+
+
+2) neturės neigiamo poveikio žmonių sveikatai, jų turtui ir gyvenamajai aplinkai ar nesudarys prielaidų tokiam neigiamam poveikiui atsirasti;
+
+
+
+
+3) atitiks aplinkos apsaugos reikalavimus;
+
+
+
+
+4) atitiks žemės naudojimo ir statybos vietos parinkimo reikalavimus;
+
+
+
+
+5) atitiks energijos vartojimo efektyvumo reikalavimus;
+
+
+
+
+6) atitiks asmens technologinį, finansinį ir vadybinį pajėgumą;
+
+
+
+
+7) atitiks naudojamo kuro parinkimo reikalavimus;
+
+
+
+
+8) planuojamas statyti energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu.
+
+
+
+
+
+
+16. Šio straipsnio 15 dalyje nurodytų reikalavimų ir sąlygų taikymo ir įvertinimo tvarka, atsižvelgiant į elektros energijos gamybos pajėgumų, kuriems plėtoti prašoma leidimo, rūšį, taip pat reikalaujamų pateikti dokumentų sąrašas nustatomi Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse.
+
+
+
+
+17. Leidimas tiesti tiesioginę liniją išduodamas asmenims, atitinkantiems šio straipsnio 8 dalyje nustatytą reikalavimą ir šio įstatymo 70 straipsnyje nustatytus reikalavimus.
+
+
+
+
+18. Leidimas eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, išduodamas asmenims, kurie teisės aktų nustatyta tvarka verčiasi nepriklausomo elektros energijos tiekimo veikla ar turi leidimą gaminti elektros energiją.
+
+
+
+
+19. Leidimas importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, išduodamas asmenims, kurie teisės aktų nustatyta tvarka verčiasi nepriklausomo elektros energijos tiekimo veikla, arba asmenims, kurie turi teisės aktų nustatyta tvarka išduotą visuomeninio tiekimo veiklos licenciją.
+
+
+
+
+20. Valstybinė energetikos inspekcija savo interneto svetainėje skelbia informaciją apie išduotus leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose. 
+
+
+
+
+21. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą šio įstatymo nustatyta tvarka ir sąlygomis išduodamas asmenims, kurie verčiasi ūkine komercine veikla Lietuvos Respublikoje ar kitoje valstybėje narėje ir:
+
+
+1) turi finansinį pajėgumą, leidžiantį vykdyti nepriklausomo elektros energijos tiekimo veiklos sąlygas, vertinamą atsižvelgiant į Komisijos nustatytus minimalius finansinio pajėgumo rodiklius; 
+
+
+
+
+2) turi vadybinį pajėgumą, leidžiantį vykdyti nepriklausomo elektros energijos tiekimo veiklos sąlygas;
+
+
+
+
+3) atitinka Lietuvos Respublikos akcinių bendrovių įstatymo 38 straipsnyje nustatytus reikalavimus;
+
+
+
+
+4) neturi pradelstų skolinių įsipareigojimų arba jų turi, tačiau įrodo, kad asmens apyvartinės lėšos yra pakankamos pradelstiems skoliniams įsipareigojimams padengti ir kad juos padengus asmens finansinio pajėgumo rodikliai atitiks šio straipsnio 21 dalies 1 ir 3 punktuose nustatytus reikalavimus;
+
+
+
+
+5) kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra;
+
+
+
+
+6) jeigu fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, siekiančio gauti leidimą, ar tokio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu gauto turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla.
+
+
+
+
+
+
+22. Šio straipsnio 21 dalies 1–4 punktuose nurodytų reikalavimų įvertinimo tvarką, vadovaudamasi šio įstatymo 9 straipsnio 3 dalies 2 punktu, nustato Komisija, atsižvelgdama į tai, ar asmuo yra fizinis, ar juridinis, ir į jo teisinę formą.
+
+
+
+
+23. Komisija savo interneto svetainėje skelbia asmenų, kurie verčiasi nepriklausomo elektros energijos tiekimo veikla, sąrašą ir jų kontaktinius duomenis.
+
+
+
+
+24. Atsisakymai išduoti leidimus, nurodytus šio straipsnio 1 dalyje, ir pratęsti šio straipsnio 1 dalies 2 ir 3 punktuose nurodytų leidimų galiojimo terminą:
+
+
+1) negali būti grindžiami kitaip, negu neatitikimu šio įstatymo reikalavimams;
+
+
+
+
+2) pateikiami ir tuo atveju, kai asmuo nepateikia bent vieno iš leidimui išduoti ar pratęsti leidimo galiojimo terminą reikalingų dokumentų arba pateikti duomenys yra neteisingi.
+
+
+
+
+
+
+25. Jeigu pateikti ne visi šio straipsnio 1 dalyje nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Valstybinė energetikos inspekcija dėl leidimų, nurodytų šio straipsnio 1 dalies 1–5 punktuose, ir Komisija dėl leidimų, nurodytų šio straipsnio 1 dalies 6 punkte, ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas šio įstatymo 17 straipsnyje nustatytu terminu. 
+
+
+
+
+26. Asmenys, kurie verčiasi šio straipsnio 1 dalyje nurodyta veikla, neturi teisės įgalioti kitų asmenų verstis leidime nurodyta veikla arba perduoti jiems šią teisę pagal sutartį ir privalo laikytis šių veiklos sąlygų:
+
+
+1) teisės aktų nustatyta tvarka teikti kompetentingoms valstybės institucijoms ir įstaigoms informaciją apie leidimais reguliuojamą veiklą;
+
+
+
+
+2) eksportuoti ar importuoti elektros energiją galima tik pagal sutartis su valstybių, kurios nėra valstybės narės, asmenimis;
+
+
+
+
+3) asmenys, importuojantys elektros energiją iš valstybių, kurios nėra valstybės narės, privalo teisės aktų nustatyta tvarka ir sąlygomis tinkamai su perdavimo sistemos operatoriumi sureguliuoti santykius, susijusius su įėjimo į Lietuvos Respublikos elektros energijos rinką įmokos sumokėjimu ir (ar) kitų reikalavimų, keliamų elektros energijos importo veiklai, įvykdymu;
+
+
+
+
+4) elektros energiją gaminantys asmenys, vartojantys elektros energiją savo reikmėms ir ūkio poreikiams, privalo sudaryti sutartis su tinklų operatoriais dėl elektros energijos persiuntimo;
+
+
+
+
+5) teisės aktų nustatyta tvarka eksploatuoti elektros energetikos įrenginius arba sudaryti sutartį dėl elektros energetikos įrenginių eksploatavimo su asmeniu, turinčiu atestatą, suteikiantį teisę eksploatuoti šiuos įrenginius;
+
+
+
+
+6) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
  
-
-
-
-
-9. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas asmenims, atitinkantiems šio straipsnio 5 dalyje nustatytą reikalavimą ir šio įstatymo 21 straipsnio 2 dalyje nustatytus reikalavimus, ir:
-
-
-1) tinklų operatoriui patvirtinus gamintojo elektros įrenginių prijungimo prie perdavimo ar skirstomųjų tinklų galimybę arba pareiškėjui pateikus dokumentus, pagrindžiančius planuojamą prisijungimą prie veikiančios tiesioginės linijos, ar kartu pateikiant prašymą leidimui tiesti tiesioginę liniją gauti;
-
-
-
-
-2) nuosavybės teise turintiems ar kitais teisėtais pagrindais valdantiems žemės sklypą teritorijoje, kurioje numatoma verstis šiame įstatyme nustatyta leidimais reguliuojama veikla, arba turintiems pastato bendraturčių ar savininko sutikimą dėl elektrinės statybos ir jos eksploatavimo, kai elektros energijos gamybos įrenginius planuojama įrengti ant pastato ar jo konstrukcijos dalies.
-Straipsnio punkto pakeitimai:
-Nr. XI-2095, 2012-06-21, Žin., 2012, Nr. 76-3938 (2012-06-30), i. k. 1121010ISTA0XI-2095
- 
-
-
-
-
-
-
-10. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, jeigu asmuo numato plėsti (įrengti) elektros energijos gamybos pajėgumus, kurių įrengtoji galia neviršija 10 kW, ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams. Asmuo, numatantis plėsti (įrengti) ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos pajėgumus, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apie tai privalo informuoti tinklų operatorių. 
-Straipsnio dalies pakeitimai:
-Nr. XII-171, 2013-01-17, Žin., 2013, Nr. 12-562 (2013-02-01), i. k. 1131010ISTA0XII-171
- 
-
-
-
-
-11. Leidimas tiesti tiesioginę liniją išduodamas asmenims, atitinkantiems šio straipsnio 5 dalyje nustatytą reikalavimą ir šio įstatymo 70 straipsnyje nustatytus reikalavimus.
-
-
-
-
-12. Leidimas eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, išduodamas asmenims, kurie teisės aktų nustatyta tvarka verčiasi nepriklausomo elektros energijos tiekimo veikla ar turi leidimą gaminti elektros energiją.
-
-
-
-
-13. Leidimas importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, išduodamas asmenims, kurie teisės aktų nustatyta tvarka verčiasi nepriklausomo elektros energijos tiekimo veikla, ar asmenims, kurie turi teisės aktų nustatyta tvarka išduotą visuomeninio tiekimo veiklos licenciją.
-
-
-
-
-14. Asmuo, kuris verčiasi ūkine komercine veikla Lietuvos Respublikoje ar kitoje valstybėje narėje, turi teisę verstis nepriklausomo elektros energijos tiekimo veikla be išankstinio Komisijos leidimo, apie ketinimą verstis nepriklausomo elektros energijos tiekimo veikla iš anksto pranešęs Komisijai Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka ir sąlygomis. Asmuo, pateikęs Komisijai atitinkamą pranešimą, įgyja teisės aktų nustatytas nepriklausomo tiekėjo teises ir pareigas ir gali verstis nepriklausomo elektros energijos tiekimo veikla. Nepriklausomo elektros energijos tiekimo veiklos pradžia laikoma tinkamo pranešimo Komisijai pateikimo diena. Jeigu asmuo pageidauja, Komisija išduoda rašytinį patvirtinimą apie tokio asmens vertimąsi nepriklausomo elektros energijos tiekimo veikla.
-
-
-
-
-15. Asmenų, kurie verčiasi nepriklausomo elektros energijos tiekimo veikla, sąrašas ir kontaktiniai duomenys skelbiami Komisijos interneto svetainėje.
-
-
-
-
-16. Asmenys, kurie verčiasi šio straipsnio 1 dalyje nurodyta veikla, neturi teisės įgalioti kitų asmenų verstis leidime nurodyta veikla arba perduoti jiems šią teisę pagal sutartį ir privalo laikytis šių veiklos sąlygų:
-
-
-1) teisės aktų nustatyta tvarka teikti kompetentingoms valstybės institucijoms ir įstaigoms informaciją apie leidimais reguliuojamą veiklą;
-
-
-
-
-2) eksportuoti ar importuoti elektros energiją galima tik pagal sutartis su trečiųjų šalių įmonėmis;
-
-
-
-
-3) asmenys, importuojantys elektros energiją iš trečiųjų šalių, privalo teisės aktų nustatyta tvarka ir sąlygomis tinkamai su perdavimo sistemos operatoriumi sureguliuoti santykius, susijusius su įėjimo į Lietuvos Respublikos elektros energijos rinką įmokos sumokėjimu ir (ar) kitų reikalavimų, keliamų elektros energijos importo veiklai, įvykdymu;
-
-
-
-
-4) elektros energiją gaminantys asmenys, vartojantys elektros energiją savo reikmėms, privalo sudaryti sutartis su tinklų operatoriais dėl elektros energijos persiuntimo;
-
-
-
-
-5) teisės aktų nustatyta tvarka eksploatuoti elektros energetikos įrenginius arba sudaryti sutartį dėl elektros energetikos įrenginių eksploatavimo su asmeniu, turinčiu atestatą, suteikiantį teisę eksploatuoti šiuos įrenginius;
-
-
-
-
-6) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi.
- 
-
-
-
-
 
 
 
@@ -1562,7 +1685,9 @@ Nr. XII-171, 2013-01-17, Žin., 2013, Nr. 12-562 (2013-02-01), i. k. 1131010ISTA
 
 
 
-3. Jeigu nėra norinčiųjų įrengti naujus gamybos pajėgumų įrenginius šio įstatymo 21 straipsnyje nustatyta tvarka, Vyriausybės įgaliota institucija skelbia konkursą (aukcioną) įrengti naujus gamybos pajėgumus ir (ar) elektros energijos vartojimo efektyvumo ir paklausos valdymo priemones ir yra atsakinga už konkurso organizavimą bei nediskriminacinių sąlygų konkurso dalyviams nustatymą. Konkurso (aukciono) procedūros gali būti taikomos tik tuo atveju, kai remiantis leidimų išdavimo tvarka, kaip nurodyta šio įstatymo 21 straipsnyje, statytinų gamybos pajėgumų ar energijos vartojimo efektyvumo ir paklausos valdymo priemonių, kurių reikia imtis, nepakanka tiekimo saugumui užtikrinti.
+3. Jeigu nėra norinčiųjų įrengti naujus gamybos pajėgumų įrenginius šio įstatymo 16 straipsnyje nustatyta tvarka, Vyriausybės įgaliota institucija skelbia konkursą (aukcioną) įrengti naujus gamybos pajėgumus ir (ar) elektros energijos vartojimo efektyvumo ir paklausos valdymo priemones ir yra atsakinga už konkurso organizavimą bei nediskriminacinių sąlygų konkurso dalyviams nustatymą. Konkurso (aukciono) procedūros gali būti taikomos tik tuo atveju, kai remiantis leidimų išdavimo tvarka, kaip nurodyta šio įstatymo 16 straipsnyje, statytinų gamybos pajėgumų ar energijos vartojimo efektyvumo ir paklausos valdymo priemonių, kurių reikia imtis, nepakanka tiekimo saugumui užtikrinti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
  
 
 
@@ -1621,12 +1746,17 @@ ELEKTROS ENERGIJOS GAMYBA
 20 straipsnis. Gamintojų veiklos bendrieji principai
 
 
-1. Gamintojai, prijungiant jų įrenginius prie perdavimo ir (ar) skirstomųjų tinklų ir juos eksploatuodami, turi laikytis elektros tinklų naudojimo taisyklių reikalavimų bei perdavimo ir (ar) skirstomųjų tinklų operatoriaus nustatytų techninių sąlygų.
+1. Gamintojai, prijungiant jų įrenginius prie perdavimo ir (ar) skirstomųjų tinklų ir juos eksploatuodami, turi laikytis elektros tinklų naudojimo taisyklių reikalavimų bei perdavimo ir (ar) skirstomųjų tinklų operatoriaus nustatytų techninių sąlygų. Naujų elektros energetikos objektų, skirtų elektros energijai gaminti, projektavimo ir statybos reikalavimus nustato šis įstatymas, Statybos įstatymas, Energetikos įstatymas ir Atsinaujinančių išteklių energetikos įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
+ 
 
 
 
 
-2. Gamintojai, norintys parduoti elektros energiją tiesiogiai vartotojams, privalo gauti leidimą verstis nepriklausomo elektros energijos tiekimo veikla arba pranešti Komisijai apie vertimąsi nepriklausomo elektros energijos tiekimo veikla, kaip nurodyta šio įstatymo 16 straipsnio 14 dalyje.
+2. Gamintojai, norintys parduoti elektros energiją tiesiogiai vartotojams, privalo gauti leidimą verstis nepriklausomo elektros energijos tiekimo veikla, kaip nurodyta šio įstatymo 16 straipsnio 21 dalyje.
+Straipsnio dalies pakeitimai:
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
  
 
 
@@ -1634,73 +1764,10 @@ ELEKTROS ENERGIJOS GAMYBA
 
 
 
-21 straipsnis. Leidimų plėtoti elektros energijos gamybos pajėgumus išdavimas
-
-
-1. Esami elektros energijos gamybos pajėgumai gali būti plečiami ar nauji elektros energijos gamybos pajėgumai naujoje vietoje įrengiami tik gavus leidimą plėtoti elektros energijos gamybos pajėgumus, išskyrus šio įstatymo 16 straipsnio 10 dalyje nustatytus atvejus.
-
-
-
-
-2. Leidimai išduodami asmenims, pateikusiems Vyriausybės įgaliotos institucijos nustatytos formos prašymą ir reikalaujamus dokumentus, išskyrus atvejus, kai leidimus išduodanti institucija, įvertinusi asmens pateiktus dokumentus, nustato, kad asmens planuojama vykdyti veikla neatitiks šių reikalavimų, tai yra:
-
-
-1) elektros energijos įrenginiai ir su jais susijusi įranga nebus saugūs ir patikimi, taip pat turės neigiamos įtakos elektros tinklams, prie kurių šie įrenginiai prijungti, ar sudarys prielaidas tokiai neigiamai įtakai atsirasti;
-
-
-
-
-2) turės neigiamą poveikį žmonių sveikatai, jų turtui ir gyvenamajai aplinkai ar sudarys prielaidas tokiam neigiamam poveikiui atsirasti;
-
-
-
-
-3) neatitiks aplinkos apsaugos reikalavimų;
-
-
-
-
-4) neatitiks žemės naudojimo ir statybos vietos parinkimo reikalavimų;
-
-
-
-
-5) neatitiks energijos vartojimo efektyvumo reikalavimų;
-
-
-
-
-6) neatitiks pareiškėjo technologinio, finansinio ir vadybinio pajėgumo;
-
-
-
-
-7) neatitiks naudojamo kuro parinkimo reikalavimų.
-
-
-
-
-
-
-3. Leidimai plėtoti elektros energijos gamybos pajėgumus išduodami nediskriminaciniais pagrindais, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka ir sąlygomis. Tais atvejais, kai elektros energijos gamybos pajėgumų plėtra yra susijusi su riboto elektros tinklų pralaidumo ir galios panaudojimu tam tikrame tinklų taške ar jų dalyje, įstatymų nustatytais pagrindais ir Vyriausybės ar jos įgaliotos institucijos nustatytomis sąlygomis leidimai plėtoti elektros energijos gamybos pajėgumus išduodami konkurso (aukciono) tvarka.
-
-
-
-
-4. Reikalavimai šio straipsnio 2 dalyje nurodytoms sąlygoms užtikrinti, atsižvelgiant į elektros energijos gamybos pajėgumų, kuriems plėtoti prašoma leidimo, rūšį, taip pat reikalaujamų pateikti dokumentų sąrašas nustatomi Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse.
-
-
-
-
-5. Atsisakymai išduoti leidimus negali būti grindžiami kitaip, negu neatitikimu šio įstatymo reikalavimams.
-
-
-
-
-6. Naujų elektros energetikos objektų, skirtų elektros energijai gaminti, projektavimo ir statybos reikalavimus nustato Statybos įstatymas ir kiti teisės aktai.
+21 straipsnis. Neteko galios nuo 2015-07-01
+Straipsnio naikinimas:
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
  
-
-
 
 
 
@@ -4013,7 +4080,10 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
-6. Komisija gali atsisakyti išduoti leidimą tiesti tiesioginę liniją, jeigu jį išdavus būtų pažeidžiami šio įstatymo 4 straipsnyje nustatyti elektros energetikos sektoriaus veiklos reguliavimo bendrieji principai. Komisija privalo pateikti tinkamai pagrįstas tokio atsisakymo priežastis.
+6. Valstybinė energetikos inspekcija gali atsisakyti išduoti leidimą tiesti tiesioginę liniją, jeigu jį išdavus būtų pažeidžiami šio įstatymo 4 straipsnyje nustatyti elektros energetikos sektoriaus veiklos reguliavimo bendrieji principai. Valstybinė energetikos inspekcija privalo pateikti tinkamai pagrįstas tokio atsisakymo priežastis.
+Straipsnio dalies pakeitimai:
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
+ 
 
 
 
@@ -4649,3 +4719,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 30, 31, 33,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 9 ir 67 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 18, 20, 70 straipsnių pakeitimo ir 21 straipsnio pripažinimo netekusiu galios įstatymas
