@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2023-03-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
  
@@ -38,9 +38,20 @@ Asmenys, žuvę ar mirę būtinosios karinės tarnybos ir karinių apmokymų met
 
 
 
-2 straipsnis. Asmenys, pašaukti į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje, dėl sužalojimų ar ligų, susijusių su karine tarnyba ar kariniais apmokymais, pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), laikomi sužalotais karinėje tarnyboje.
+2 straipsnis. Sužalotais karinėje tarnyboje laikomi asmenys, kurie buvo pašaukti į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje ir dėl sužalojimų ar ligų, susijusių su karine tarnyba ar kariniais apmokymais:
+
+
+1) pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) arba netekusiais 20–40 procentų darbingumo;
+
+
+
+
+2) karo gydytojų sprendimu pripažinti netinkamais karo tarnybai.
+
+
 Straipsnio pakeitimai:
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
  
 
 
@@ -89,7 +100,15 @@ Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 
 
 
-4) pripažintiems netekusiais 20–40 procentų darbingumo – 835 eurai.
+4) pripažintiems netekusiais 20–40 procentų darbingumo – 835 eurai;
+
+
+
+
+5) karo gydytojų sprendimu pripažintiems netinkamais karo tarnybai – 835 eurai.
+Papildyta straipsnio punktu:
+Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
+ 
 
 
 Straipsnio pakeitimai:
@@ -156,7 +175,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -188,3 +207,8 @@ Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 – 1991 12 31)“ Nr. I-576 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
+Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22–1991 12 31)“ Nr. I-576 2 ir 6 straipsnių pakeitimo įstatymas
