@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-06-20 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-08-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 63-1582, i. k. 0951010ISTA00I-1034
  
@@ -524,32 +524,30 @@ Nr. XII-960, 2014-06-19, paskelbta TAR 2014-06-26, i. k. 2014-09150
 13 straipsnis. Leidimų naudoti žemės gelmių išteklius ir ertmes išdavimas
 
 
-1. Vyriausybė arba jos įgaliota institucija išduoda leidimus:
+1. Vyriausybė arba jos įgaliota institucija Vyriausybės nustatyta tvarka išduoda leidimus:
 
 
-1) naudoti tradicinių angliavandenilių, išsklaidytųjų angliavandenilių, metalų, vertingųjų mineralų, monomineralinio kvarcinio smėlio išteklius;
-
-
-
-
-2) naudoti natūralias žemės gelmių ertmes pramoninėms atliekoms laidoti (išskyrus radioaktyviąsias ir toksiškas medžiagas);
+1) naudoti tradicinių angliavandenilių, išsklaidytųjų angliavandenilių, metalų rūdų, vertingųjų mineralų, monomineralinio kvarcinio smėlio išteklius;
 
 
 
 
-3) įrengti ir naudoti dirbtines saugyklas radioaktyviosioms ir toksiškoms medžiagoms laikyti;
+2) įrengti ir naudoti dirbtines saugyklas radioaktyviosioms ir toksiškoms medžiagoms laikyti;
 
 
 
 
-4) naudoti natūralias žemės gelmių ertmes naftai, dujoms ar kitoms medžiagoms laikyti;
+3) naudoti natūralias žemės gelmių ertmes naftai ar dujoms laikyti;
 
 
 
 
-5) naudoti dirbtines žemės gelmių ertmes kasybos pramonės atliekoms ir kitoms atliekoms laidoti ar laikyti. Šio įstatymo 11 straipsnio 4 dalyje numatyta veikla gali būti vykdoma neturint šiame punkte numatyto leidimo.
+4) naudoti dirbtines žemės gelmių ertmes kasybos pramonės atliekoms ir kitoms atliekoms laidoti ar laikyti. Šio įstatymo 11 straipsnio 4 dalyje numatyta veikla gali būti vykdoma neturint šiame punkte nurodyto leidimo.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1811, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10147
+ 
 
 
 
@@ -676,7 +674,10 @@ Nr. XII-410, 2013-06-27, Žin., 2013, Nr. 76-3827 (2013-07-16)
 
 
 
-4. Naudojant žemės gelmių išteklius, būtina stebėti jų būklę, prognozuoti kiekio ir kokybės kaitą, tvarkyti išgaunamų ir liekančių telkinyje išteklių apskaitą, ūkio subjektams vykdyti žemės gelmių monitoringą, jeigu tai yra numatyta išteklių ar ertmių naudojimo sutartyje, ir nustatyta tvarka teikti duomenis Žemės gelmių registrui.
+4. Naudojant žemės gelmių išteklius, būtina stebėti jų būklę, prognozuoti kiekio ir kokybės kaitą, tvarkyti išgaunamų ir liekančių telkinyje išteklių apskaitą, ūkio subjektams vykdyti žemės gelmių monitoringą, kai tiriami ir (arba) naudojami išsklaidytieji angliavandeniliai arba jeigu tai yra numatyta išteklių ar ertmių naudojimo sutartyje, ir nustatyta tvarka teikti duomenis Žemės gelmių registrui.
+Straipsnio dalies pakeitimai:
+Nr. XII-1811, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10147
+ 
 
 
 
@@ -922,7 +923,10 @@ Nr. XII-410, 2013-06-27, Žin., 2013, Nr. 76-3827 (2013-07-16)
 
 
 
-4. Valstybės įgaliotos institucijos privalo stebėti aplinkos būklę ir vykdyti kompleksinį (hidrogeologinį, seisminį, geocheminį, oro ir kitų rūšių) monitoringą visame išsklaidytųjų angliavandenilių tyrimo ir (arba) naudojimo plote. Kompleksinis monitoringas vykdomas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis. Asmenys, turintys leidimą tirti ir (arba) naudoti išsklaidytuosius angliavandenilius, turi sudaryti sąlygas aplinkos būklės stebėjimui ir monitoringui.
+4. Aplinkos ministerijos įgaliotos institucijos kontroliuoja ūkio subjektų vykdomą žemės gelmių monitoringą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1811, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10147
+ 
 
 
 Straipsnio pakeitimai:
@@ -1147,7 +1151,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1228,3 +1232,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1782, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09797
 Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1811, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10147
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 13, 15 ir 21 straipsnių pakeitimo įstatymas
