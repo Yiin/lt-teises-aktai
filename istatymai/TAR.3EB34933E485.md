@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-07-07
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -42,197 +42,6 @@ BENDROSIOS NUOSTATOS
 
 2. Šis Įstatymas taip pat skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, įgyvendinimą.
  
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
-
-
-1. Apibendrintas mokesčio įstatymo paaiškinimas – su Finansų ministerija suderinta centrinio mokesčių administratoriaus arba kitos šiuo Įstatymu tam įgaliotos institucijos pateikta nuomonė, kaip mokesčių administratorius ar minėta institucija supranta ir taiko mokesčio įstatymo nuostatas.
-
-
-
-
-2. Asmuo – fizinis asmuo arba juridinis asmuo. Juridiniu asmeniu taip pat laikoma bet kokia užsienio valstybės organizacija, pagal Lietuvos Respublikos ar užsienio valstybės įstatymus pripažįstama teisės subjektu.
-
-
-
-
-3. Biudžetas – valstybės biudžetas, savivaldybių biudžetai, taip pat pinigų fondai, į kuriuos teisės aktų nustatyta tvarka mokami (paskirstomi) šio Įstatymo 13 straipsnyje nurodyti mokesčiai.
-
-
-
-
-4. Elektroninių pinigų įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme.
-
-
-
-
-5. Konsultacija mokesčių mokėjimo klausimais – mokesčių administratoriaus individualaus pobūdžio paaiškinimas, skirtas konkrečiam mokesčių mokėtojui jo mokamų (numatomų mokėti) mokesčių mokėjimo klausimais.
-
-
-
-
-6. Kredito įstaiga – kaip ši sąvoka apibrėžiama Lietuvos Respublikos finansų įstaigų įstatyme, taip pat Lietuvos bankas.
-
-
-
-
-7. Mokesčio deklaracija – mokesčių mokėtojo pateikiamas mokesčių administratoriui dokumentas, kuriame nurodoma informacija apie mokesčių mokėtojo apskaičiuotą mokesčio sumą už mokesčio įstatyme nustatytą laikotarpį, taip pat su mokesčio apskaičiavimu ar sumokėjimu susiję kiti duomenys.
-
-
-
-
-8. Mokesčio įstatymas – Lietuvos Respublikos įstatymas, nustatantis šio Įstatymo 13 straipsnyje nurodytą mokestį, šis Įstatymas, Muitinės įstatymas, taip pat Lietuvos Respublikos tarptautinė sutartis arba Bendrijos muitų teisės aktai, kurie nustato mokestį ir (arba) apibrėžia su mokesčio taikymu arba mokesčio lengvatomis susijusius klausimus.
-
-
-
-
-9. Mokesčio lengvata – mokesčių mokėtojui ar jų grupei mokesčio įstatymo nustatytos išskirtinės apmokestinimo sąlygos, kurios yra palankesnės, palyginti su įprastinėmis sąlygomis.
-
-
-
-
-10. Mokesčio nepriemoka – mokesčių mokėtojo mokesčio įstatymo ar jo pagrindu priimto įstatymo lydimojo teisės akto nustatyta tvarka laiku nesumokėta mokesčio suma.
-
-
-
-
-11. Mokesčio permoka – mokesčių mokėtojo sumokėta per didelė mokesčio suma.
-
-
-
-
-12. Mokesčio skirtumas – mokesčių mokėtojui grąžintina (įskaitytina) iš biudžeto suma, kuri gali susidaryti mokesčio įstatymo nustatyta tvarka pildant mokesčio deklaraciją.
-
-
-
-
-13. Mokesčių administratorius – už mokesčių administravimą atsakinga valstybės įstaiga ar institucija, turinti įstatymų suteiktus įgaliojimus veikti mokesčių administravimo srityje.
-
-
-
-
-14. Mokesčių administravimas – mokesčių administratoriaus funkcijų įgyvendinimas, taip pat mokesčių ir kituose įstatymuose nustatytų mokesčių administratoriaus ir mokesčių mokėtojo pareigų vykdymas ir teisių įgyvendinimas. 
-
-
-
-
-15. Mokesčių administravimo procedūra – mokesčių administratoriaus veiksmai, atliekami įgyvendinant jo funkcijas, taip pat mokesčių administratoriaus ir mokesčių mokėtojo veiksmai, atliekami vykdant pareigas ir naudojantis teisėmis, nustatytomis mokesčių įstatymuose. 
-
-
-
-
-16. Mokesčių mokėtojas – asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį. Mokesčių mokėtoju pagal šį Įstatymą laikomas ir mokestį išskaičiuojantis asmuo, tai yra šio Įstatymo nuostatos minėtam asmeniui taikomos taip pat kaip ir mokesčių mokėtojui, išskyrus tiesiogiai numatytus specialius atvejus. Muitų atžvilgiu mokesčių mokėtoju laikomas asmuo, privalantis sumokėti skolą muitinei (skolininkas).
-
-
-
-
-17. Mokestį išskaičiuojantis asmuo – asmuo, kuriam mokesčių teisės aktuose nustatyta prievolė išskaičiuoti mokesčių mokėtojo mokestį ir jį sumokėti į biudžetą.
-
-
-
-
-18. Mokestinė nepriemoka – mokesčio nepriemoka ir mokesčių mokėtojo mokesčio įstatymo ar jo pagrindu priimto lydimojo teisės akto nustatyta tvarka laiku nesumokėtos su mokesčiu susijusios sumos. 
-
-
-
-
-19. Mokestinė prievolė – mokesčio įstatymo pagrindu atsirandanti mokesčių mokėtojo pareiga teisingai apskaičiuoti mokestį, laiku sumokėti mokestį bei su juo susijusias sumas į biudžetą ir vykdyti pareigas, susijusias su mokesčių apskaičiavimu ir sumokėjimu.
-
-
-
-
-20. Mokestinės paskolos sutartis – mokesčių administratoriaus sprendimo atidėti (išdėstyti) mokestinės nepriemokos mokėjimą pagrindu sudaryta sutartis, kai ja nustatomas mokestinės nepriemokos mokėjimo grafikas bei kitos mokestinės nepriemokos sumokėjimo atidėjimo sąlygos.
-
-
-
-
-21. Mokestiniai ginčai – ginčai, kylantys tarp mokesčių mokėtojo ir mokesčių administratoriaus dėl sprendimo dėl patikrinimo akto tvirtinimo ar kito panašaus pobūdžio sprendimo, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis, taip pat dėl mokesčių administratoriaus sprendimo atsisakyti grąžinti (įskaityti) mokesčio permoką (skirtumą).
-
-
-
-
-22. Mokestinis patikrinimas – mokesčių administratoriaus atliekamas mokesčių mokėtojo patikrinimas siekiant kontroliuoti, kaip mokesčių mokėtojas vykdo mokesčių įstatymų reikalavimus mokesčių apskaičiavimo, deklaravimo, sumokėjimo, o įstatymų numatytais atvejais – ir kitose srityse.
-
-
-
-
-23. Mokestinis tyrimas – mokesčių administratoriaus atliekama mokesčių mokėtojo veiklos stebėsena, apimanti pateiktų mokesčių deklaracijų, muitinės deklaracijų, dokumentų bei kitos apie mokesčių mokėtoją turimos informacijos analizę, mokesčių mokėtojų vizitavimą, jų veiklos kontrolę, siekiant nustatyti ir pašalinti trūkumus bei prieštaravimus mokesčių apskaičiavimo, deklaravimo ir sumokėjimo srityje.
-
-
-
-
-24. Mokestis – mokesčio įstatyme mokesčių mokėtojui nustatyta piniginė prievolė valstybei. Šiame Įstatyme mokesčio sąvoka apima ir 13 straipsnyje nurodytas įmokas ir rinkliavas.
-
-
-
-
-25. Mokėjimo įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos mokėjimo įstaigų įstatyme.
-
-
-
-
-26. Mokėjimo paslaugų teikėjas – kaip ši sąvoka apibrėžta Lietuvos Respublikos mokėjimų įstatyme.
-
-
-
-
-27. Muitai – importo muitai ir (arba) eksporto muitai, kaip jie apibrėžti Bendrijos muitinės kodekso 4 straipsnyje.
-
-
-
-
-28. Mutatis mutandis (lot.) – teisinė sąvoka, reiškianti „su tam tikrais pakeitimais“.
-
-
-
-
-29. Su mokesčiu susijusios sumos – šio Įstatymo nustatyta tvarka apskaičiuoti delspinigiai, paskirta bauda, palūkanos, mokamos pagal mokestinės paskolos sutartį, taip pat palūkanų delspinigiai.
-
-
-
-
-30. Šio Įstatymo 1 straipsnio 1–26 dalyse vartojamos sąvokos suprantamos taip, jeigu atitinkamo mokesčio įstatymas nenustato kitaip.
-
-
-
-
-31. Kitos mokesčių įstatymuose vartojamos sąvokos yra apibrėžtos atskiruose šio Įstatymo straipsniuose ir atitinkamų mokesčių įstatymuose.
-
-
-
-
-32. Pagal šį Įstatymą Bendrijos muitų teisės aktais laikomi:
-
-
-1) 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (toliau – Bendrijos muitinės kodeksas) (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307 (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005, OL 2005 L 117, p. 13);
-
-
-
-
-2) 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (toliau – Bendrijos muitinės kodekso įgyvendinimo nuostatos) (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006, OL 2006 L 70, p. 35);
-
-
-
-
-3) 1983 m. kovo 28 d. Tarybos reglamentas (EEB) Nr. 918/83, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419 (su paskutiniais pakeitimais, padarytais 2000 m. liepos 20 d. Tarybos reglamentu (EB) Nr. 1671/2000, OL 2000 L 193, p. 11);
-
-
-
-
-4) 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382 (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Komisijos reglamentu (EB) Nr. 996/2006, OL 2006 L 179, p. 26);
-
-
-
-
-5) kiti Europos Bendrijos Tarybos ir Komisijos teisės aktai bei tarptautinės sutartys, kurias yra sudariusi arba prie jų prisijungusi Europos Bendrija, reglamentuojantys prekių importo į Bendrijos muitų teritoriją iš trečiųjų šalių ir eksporto iš šios teritorijos į trečiąsias šalis tvarką bei importo ir eksporto muitų taikymo tokioms importuojamoms ir eksportuojamoms prekėms tvarką.
-Straipsnio redakcija nuo 2015-07-01:
-
-
 
 
 
@@ -810,7 +619,6 @@ Nr. X-1318, 2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
 
 
 6. Šio Įstatymo 13 straipsnio 23 punkte nurodyti muitai pagal šį Įstatymą administruojami tiek, kiek šio Įstatymo nuostatos neprieštarauja Bendrijos muitų teisės aktams. 
-Papildoma dalimi nuo 2015-07-01:
 
 
 
@@ -1240,7 +1048,6 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 
 11) nustatyta tvarka bendradarbiauja ir keičiasi informacija su kitais Lietuvos mokesčių administratoriais, valstybės bei savivaldybės įstaigomis ir institucijomis;
-Papildoma punktu nuo 2015-07-01:
 
 
 
@@ -3655,42 +3462,6 @@ MOKESTINĖS NEPRIEMOKOS PRIVERSTINIS IŠIEŠKOJIMAS
 
 
 
-3. Šio straipsnio nuostatos muitų ir su jais susijusių sumų nepriemokai taikomi tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktų nuostatoms.
-Straipsnio redakcija nuo 2015-07-01:
-
-
-
-
-
-
-105 straipsnis. Mokesčių administratoriaus teisės priverstinai išieškoti mokestinę nepriemoką atsiradimas 
-
-
-1. Mokesčių administratorius įgyja teisę priverstinai išieškoti mokesčių mokėtojo mokestinę nepriemoką, jeigu yra bent vienas iš nustatytų pagrindų: 
-
-
-1) mokesčių mokėtojas nesumoka mokesčio ir su juo susijusių sumų, nurodytų mokesčių administratoriaus raginime; 
-
-
-
-
-2) mokesčių mokėtojas nesumoka deklaruoto mokesčio arba muitinės deklaracijoje nurodyto mokesčio atitinkamo mokesčio įstatyme ar jo pagrindu priimtame lydimajame teisės akte nustatytu terminu;
-
-
-
-
-3) mokesčių mokėtojas šio Įstatymo 81 straipsnio 2 ir 4 dalyse numatytais terminais nesumoka mokesčių administratoriaus sprendime, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, nurodyto mokesčio ir su juo susijusių sumų.
-
-
-
-
-
-
-2. Teisė išieškoti mokestinę nepriemoką įgyjama kitą dieną po to, kai pasibaigia raginime geruoju sumokėti mokestį ir su juo susijusias sumas nurodytas terminas, o jeigu raginimas nesiunčiamas, – kitą dieną po šio straipsnio 1 dalies 2 ir 3 punktuose nustatyto termino pabaigos. Tais atvejais, kai pasibaigus mokesčio sumokėjimo terminui mokesčių mokėtojas mokesčio deklaraciją pateikia pavėluotai arba pateikia patikslintą mokesčių deklaraciją, mokesčių administratorius įgyja teisę išieškoti patikslintoje mokesčių deklaracijoje nurodytą mokestį ir su juo susijusius delspinigius kitą dieną po minėtos deklaracijos pateikimo dienos.
-
-
-
-
 3. Teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai pasibaigia Administracinių teisės pažeidimų kodekso 313 straipsnyje numatytas baudos sumokėjimo terminas. Tuo atveju, kai baudos už administracinį teisės pažeidimą mokėjimas buvo atidėtas ar išdėstytas šio Įstatymo ar Administracinių teisės pažeidimų kodekso nustatyta tvarka, teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai nutraukiama mokestinės paskolos sutartis arba pasibaigia baudos už administracinį teisės pažeidimą mokėjimo, atidėjimo ar išdėstymo terminas.
 
 
@@ -3704,57 +3475,6 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
  
-
-
-
-
-106 straipsnis. Mokestinės nepriemokos priverstinio išieškojimo būdai
-
-
-1. Mokestinė nepriemoka priverstinai gali būti išieškoma:
-
-
-1) duodant kredito, mokėjimo ar elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;
-
-
-
-
-2) pateikiant laiduotojui arba garantui reikalavimą įvykdyti mokesčių mokėtojo prievolę ir už mokesčių mokėtoją sumokėti mokestinę nepriemoką (jeigu mokestinės prievolės įvykdymas užtikrintas laidavimu arba garantija);
-
-
-
-
-3) duodant kredito, mokėjimo ar elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos, jeigu laiduotojas arba garantas nevykdo šio straipsnio 2 punkto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;
-
-
-
-
-4) priimant sprendimą dėl priverstinio mokestinės nepriemokos išieškojimo iš mokesčių mokėtojo, laiduotojo arba garanto turto. Šį sprendimą vykdo antstoliai Civilinio proceso kodekso nustatyta tvarka; 
-
-
-
-
-5) priimant sprendimą dėl priverstinio mokestinės nepriemokos, užtikrintos priverstine hipoteka (įkeitimu), išieškojimo iš įkeisto turto. Šis sprendimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalies nuostatos taip pat taikomos, kai mokesčių administratorius įstatymų arba tarptautinių sutarčių nustatytais atvejais atlieka išieškojimą kitos valstybės naudai.
-
-
-
-
-3. Mokesčių administratorius išieškojimo teisę gali perduoti kitai valstybei įstatymų arba tarptautinių sutarčių nustatytais atvejais.
-
-
-
-
-4. Mokesčių administratoriaus veiklą reglamentuojantys kiti teisės aktai gali nustatyti šio straipsnio 1 dalyje nurodytų išieškojimo priemonių eilę ir nutraukimo pagrindus bei tvarką.
-Straipsnio redakcija nuo 2015-07-01:
-
-
 
 
 
@@ -3843,7 +3563,6 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 
 5. Šio Įstatymo 106 straipsnyje nurodytais būdais pradėjus mokestinės nepriemokos priverstinio išieškojimo procedūras, jos užbaigiamos nepaisant to, jog jų vykdymo metu pasibaigia mokestinės nepriemokos priverstinio išieškojimo senaties terminas. Tuo atveju, kai nurodytais atvejais išieškoti mokestinės nepriemokos visiškai ar iš dalies nepavyksta, pakartotinai inicijuoti mokestinės nepriemokos priverstinio išieškojimo procedūrą galima tik tuo atveju, jei nepasibaigęs mokestinės nepriemokos priverstinio išieškojimo senaties terminas.
-Papildoma dalimi nuo 2015-07-01:
 
 
 
@@ -3974,52 +3693,6 @@ Mokesčių administratoriaus teisė priverstinai išieškoti mokestinę nepriemo
  
 
 
-
-
-
-
-
-
-113 straipsnis. Beviltiška mokestinė nepriemoka
-
-
-1. Jeigu dėl atskiro mokesčio to mokesčio įstatymas nenustato kitaip, beviltiška gali būti pripažįstama ta mokesčių mokėtojo mokestinė nepriemoka, kurios neįmanoma išieškoti dėl objektyvių priežasčių arba kurią priverstinai išieškoti netikslinga socialiniu ir (arba) ekonominiu požiūriu, kai:
-
-
-1) nerasta mokesčių mokėtojo turto arba rastas turtas yra nelikvidus (mažai likvidus); 
-
-
-
-
-2) priverstinio išieškojimo išlaidos didesnės už mokestinę nepriemoką; 
-
-
-
-
-3) netikslinga priverstinai išieškoti nepriemoką, kadangi sunki fizinio asmens ekonominė (socialinė) padėtis: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis, asmeniui reikalingas gydymas, medicininė profilaktika ir reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jau teikiama. Šis nepriemokos pripažinimo beviltiška pagrindas taikomas tik mokesčių mokėtojams, kurie yra fiziniai asmenys arba kai individualių (personalinių) įmonių savininkų ar ūkinių bendrijų narių sunki ekonominė (socialinė) padėtis;
-
-
-
-
-4) (neteko galios nuo 2007-07-19).
-
-
-
-
-
-
-2. Mokestinei nepriemokai, pripažintai beviltiška šio straipsnio 1 dalies 1–3 punktuose nurodytais pagrindais, neteikiama priverstinio išieškojimo pirmenybė ir į ją neatsižvelgiama planuojant biudžeto pajamas. Nustačius, kad yra galimybė ir tikslinga tokią mokestinę nepriemoką priverstinai išieškoti, ji išieškoma.
-
-
-
-
-3. Neteko galios nuo 2007-07-19.
-
-
-
-
-4. Mokestinės nepriemokos pripažinimo beviltiška, beviltiškų mokestinių nepriemokų revizavimo bei apskaitos tvarką ir mokestinės nepriemokos priverstinio išieškojimo išlaidų apskaičiavimo metodiką nustato centrinis mokesčių administratorius, suderinęs su finansų ministru.
-Straipsnio redakcija nuo 2015-07-01:
 
 
 
@@ -6249,3 +5922,13 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 16 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 16 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 63, 102 ir 106 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1511, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21277
+Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas
