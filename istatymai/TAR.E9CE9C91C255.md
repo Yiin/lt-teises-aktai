@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-04-21 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-04-26
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -1340,7 +1340,10 @@ Karo prievolę administruojančios krašto apsaugos sistemos institucijos pagrin
 
 
 
-2. Jeigu dėl objektyvių priežasčių karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymo karo prievolininkui atvykti į karo prievolę administruojančią krašto apsaugos sistemos instituciją įteikti asmeniškai karo prievolininkui negali, šis nurodymas, sutikus jį priimti, pasirašytinai įteikiamas kartu su karo prievolininku gyvenantiems pilnamečiams šeimos nariams ar fiziniams ir juridiniams asmenims ir kitoms organizacijoms, ir jų padaliniams, kurie susiję su karo prievolininku darbo, mokslo ir studijų teisiniais santykiais, ar valstybės ir savivaldybių institucijoms, teikiančioms karo prievolininkui socialinio draudimo, užimtumo rėmimo ar kitas viešąsias paslaugas, kurie nedelsdami šį nurodymą privalo perduoti karo prievolininkui.
+2. Jeigu dėl objektyvių priežasčių karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymo įteikti asmeniškai karo prievolininkui negali, šis nurodymas, sutikus jį priimti, pasirašytinai įteikiamas kartu su karo prievolininku gyvenantiems pilnamečiams šeimos nariams ar fiziniams ir juridiniams asmenims ir kitoms organizacijoms, ir jų padaliniams, kurie susiję su karo prievolininku darbo, mokslo ir studijų teisiniais santykiais, ar valstybės ir savivaldybių institucijoms, teikiančioms karo prievolininkui socialinio draudimo, užimtumo rėmimo ar kitas viešąsias paslaugas, kurie nedelsdami šį nurodymą privalo perduoti karo prievolininkui.
+Straipsnio dalies pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 Straipsnio pakeitimai:
@@ -1356,7 +1359,10 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 Karo prievolę administruojančios krašto apsaugos sistemos institucijos vadovo ar jo įgalioto atstovo prašymu policija privalo:
 
 
-1) atlikti karo prievolininkų paiešką ir informuoti karo prievolininkus apie prievolę atvykti į karo prievolę administruojančią krašto apsaugos sistemos instituciją;
+1) atlikti karo prievolininkų paiešką ir informuoti karo prievolininkus apie prievolę vykdyti karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
@@ -1397,32 +1403,57 @@ Karo prievolę administruojančios krašto apsaugos sistemos institucijos vadovo
 
 
 
-5) nurodyti karo prievolininkams nustatytu laiku atvykti į karo prievolę administruojančią krašto apsaugos sistemos instituciją, o paskelbus mobilizaciją, – į šaukimo punktą, karinių vienetų dislokacijos ar kitas nurodytas vietas;
+5) nurodyti karo prievolininkams pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai reikalingus dokumentus; 
+Papildyta straipsnio punktu:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
 
-6) skirti į privalomąją karo tarnybą atrenkamiems karo prievolininkams sveikatos patikrinimą ir nurodyti nustatytu laiku atvykti į sveikatos priežiūros įstaigą;
+6) nurodyti karo prievolininkams nustatytu laiku atvykti į karo prievolę administruojančią krašto apsaugos sistemos instituciją, kai nėra galimybių šio įstatymo 37 straipsnio 2 dalyje nurodytais būdais gauti iš karo prievolininkų dokumentais pagrįstą informaciją, arba kai tai būtina karo prievolės administravimo procedūrų vykdymui, o paskelbus mobilizaciją, – į šaukimo punktą, karinių vienetų dislokacijos ar kitas nurodytas vietas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
 
-7) įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas, susijusias su šio įstatymo pažeidimais, ir skirti administracines nuobaudas;
+7) skirti į privalomąją karo tarnybą atrenkamiems karo prievolininkams sveikatos patikrinimą ir nurodyti nustatytu laiku atvykti pasitikrinti sveikatos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
 
-8) įstatymų nustatyta tvarka inicijuoti ikiteisminį tyrimą dėl nusikalstamų veikų, susijusių su šio įstatymo pažeidimais;
+8) įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas, susijusias su šio įstatymo pažeidimais, ir skirti administracines nuobaudas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
 
-9) kreiptis į Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas su prašymu paraginti užsienyje gyvenančius karo prievolininkus vykdyti šiame įstatyme nustatytas pareigas;
+9) įstatymų nustatyta tvarka inicijuoti ikiteisminį tyrimą dėl nusikalstamų veikų, susijusių su šio įstatymo pažeidimais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
 
-10) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+10) kreiptis į Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas su prašymu paraginti užsienyje gyvenančius karo prievolininkus vykdyti šiame įstatyme nustatytas pareigas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
+
+
+
+
+11) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
  
 
 
@@ -1540,7 +1571,10 @@ Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina krašto apsa
 
 
 
-2) pagal karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymą laiku atvykti į karo prievolę administruojančią krašto apsaugos sistemos instituciją ar šaukimo punktą, krašto apsaugos sistemos sveikatos priežiūros įstaigą ar šios įstaigos siuntimu į kitą sveikatos priežiūros įstaigą;
+2) pagal karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymą pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai reikalingus dokumentus, laiku atvykti į karo prievolę administruojančią krašto apsaugos sistemos instituciją ar šaukimo punktą, ar pasitikrinti sveikatos.
+Straipsnio punkto pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
@@ -1648,12 +1682,18 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 39 straipsnis. Karo prievolininkų aprūpinimas, iki jie įstatymų nustatyta tvarka įgyja kario statusą
 
 
-1. Už kiekvieną tinkamumo privalomajai karo tarnybai tikrinimo karo prievolę administruojančioje krašto apsaugos sistemos institucijoje, šaukimo punkte, krašto apsaugos sistemos sveikatos priežiūros įstaigoje ar šios įstaigos siuntimu kitoje sveikatos priežiūros įstaigoje dieną karo prievolininkams mokami 0,2 Vyriausybės nustatytos bazinės socialinės išmokos dydžio dienpinigiai.
+1. Už kiekvieną tinkamumo privalomajai karo tarnybai tikrinimo dieną karo prievolininkams mokami 0,2 Vyriausybės nustatytos bazinės socialinės išmokos dydžio dienpinigiai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
 
-2. Karo prievolininkams apmokamos kelionės iš gyvenamosios vietos į karo prievolę administruojančią krašto apsaugos sistemos instituciją, šaukimo punktą, krašto apsaugos sistemos sveikatos priežiūros įstaigą ar šios įstaigos siuntimu į kitą sveikatos priežiūros įstaigą ir atgal arba į paskirtą privalomosios karo tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus taksi) bilietus, o tokių bilietų nepateikus, – pagal krašto apsaugos ministro nustatytus vieno kilometro važiavimo nuosavu transportu kompensuojamus dydžius. Kelionės išlaidos nekompensuojamos, kai karo prievolininkas vežamas karo prievolę administruojančios krašto apsaugos sistemos institucijos transportu arba jis šio transporto atsisako. 
+2. Karo prievolininkams apmokamos kelionių iš gyvenamosios vietos į karo prievolę administruojančią krašto apsaugos sistemos instituciją, iš karo prievolę administruojančios krašto apsaugos sistemos institucijos atgal į gyvenamąją vietą, iš gyvenamosios vietos į šaukimo punktą, iš šaukimo punkto atgal į gyvenamąją vietą, iš gyvenamosios vietos pasitikrinti sveikatos, pasitikrinus sveikatą atgal į gyvenamąją vietą, iš gyvenamosios vietos į paskirtą privalomosios karo tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus taksi) bilietus, o tokių bilietų nepateikus, – pagal krašto apsaugos ministro nustatytus vieno kilometro važiavimo nuosavu transportu kompensuojamus dydžius. Karo prievolininkui apmokamų kiekvienos iš šioje dalyje nurodytų kelionių išlaidų dydis negali viršyti dydžio, kurį nustato Vyriausybė, atsižvelgdama į karo prievolininko gyvenamąją vietą. Kelionės išlaidos nekompensuojamos, kai karo prievolininkas vežamas karo prievolę administruojančios krašto apsaugos sistemos institucijos transportu arba jis šio transporto atsisako. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
@@ -1663,7 +1703,10 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-4. Jeigu karo prievolininko tinkamumo privalomajai karo tarnybai tikrinimas karo prievolę administruojančioje krašto apsaugos sistemos institucijoje, šaukimo punkte, krašto apsaugos sistemos sveikatos priežiūros įstaigoje ar šios įstaigos siuntimu kitoje sveikatos priežiūros įstaigoje trunka ilgiau kaip vieną darbo dieną, prireikus karo prievolininkui suteikiama nakvynė karo prievolę administruojančioje krašto apsaugos sistemos institucijoje arba karinio vieneto patalpose.
+4. Jeigu karo prievolininko tinkamumo privalomajai karo tarnybai tikrinimas trunka ilgiau kaip vieną darbo dieną, prireikus karo prievolininkui suteikiama nakvynė karo prievolę administruojančioje krašto apsaugos sistemos institucijoje arba karinio vieneto patalpose.
+Straipsnio dalies pakeitimai:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+ 
 
 
 
@@ -1942,3 +1985,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 5, 6, 8, 9, 15, 32, 37, 40, 41, 42 straipsnių pakeitimo ir Įstatymo papildymo 41-1 straipsniu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 32, 33, 34, 37 ir 39 straipsnių pakeitimo įstatymas
