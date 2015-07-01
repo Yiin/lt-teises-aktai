@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2015-03-02 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
- 
  
 LIETUVOS RESPUBLIKOS
 ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS
@@ -644,7 +643,10 @@ Energetikos ministerija:
 
 
 
-4) išduoda leidimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus;
+4) Neteko galios nuo 2015-07-01
+Straipsnio punkto naikinimas:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
+ 
 
 
 
@@ -684,7 +686,10 @@ Energetikos ministerija:
 
 
 
-12) tvirtina Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles, parengtas kartu su Aplinkos ministerija ir Žemės ūkio ministerija;
+12) Neteko galios nuo 2015-07-01
+Straipsnio punkto naikinimas:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
+ 
 
 
 
@@ -1022,7 +1027,18 @@ ELEKTRINIŲ PRIJUNGIMAS PRIE ELEKTROS TINKLŲ
 
 
 
-5. Elektrinių įrengtoji suminė galia apskaičiuojama kaip elektrinėms, kurioms šio įstatymo 20 straipsnyje nustatyta tvarka ir sąlygomis taikomas atsinaujinančių energijos išteklių naudojimo elektros energijai gaminti skatinimas, priskirtos įrengtosios suminės galios, nurodytos iki šio įstatymo įsigaliojimo ir vėliau teisės aktų nustatyta tvarka išduotuose galiojančiuose leidimuose plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus ir leidimuose gaminti elektros energiją bei prijungimo sąlygose, išduotose elektrinėms, kurioms šio įstatymo 16 straipsnio 4 dalyje nustatyta tvarka leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, suma. Kai elektrinėms priskirta įrengtoji suminė galia pasiekia šio straipsnio 3 dalyje nurodytų įrengtųjų galių dydžius, skatinimo kvotų paskirstymas šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose numatytais būdais ir paraiškų prijungti prie elektros tinklų šio įstatymo 16 straipsnio 4 dalyje nurodytas elektrines priėmimas sustabdomas tol, kol šio straipsnio 3 dalyje nurodyti įrengtųjų galių dydžiai bus padidinti arba atsiras laisvų skatinimo kvotų nepastačius elektrinių per leidimuose plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus nurodytą laikotarpį. Energetikos ministerija viešai skelbia ir nuolat atnaujina informaciją apie priskirtas įrengtąsias sumines galias ir esamas laisvas skatinimo kvotas.
+5. Elektrinių, išskyrus elektros energiją gaminančių vartotojų elektrines, įrengtoji suminė galia apskaičiuojama kaip elektrinėms, kurioms šio įstatymo 20 straipsnyje nustatyta tvarka ir sąlygomis taikomas atsinaujinančių energijos išteklių naudojimo elektros energijai gaminti skatinimas, priskirtos įrengtosios suminės galios, nurodytos iki šio įstatymo įsigaliojimo ir vėliau šio įstatymo ir Elektros energetikos įstatymo nustatyta tvarka išduotuose galiojančiuose leidimuose plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių ir leidimuose gaminti elektros energiją, suma. Kai elektrinėms priskirta įrengtoji suminė galia pasiekia šio straipsnio 3 dalyje nurodytų įrengtųjų galių dydžius, skatinimo kvotų paskirstymas šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose numatytais būdais ir paraiškų prijungti prie elektros tinklų šio įstatymo 20 straipsnio 14 dalyje nurodytas elektrines priėmimas sustabdomas tol, kol šio straipsnio 3 dalyje nurodyti įrengtųjų galių dydžiai bus padidinti arba atsiras laisvų skatinimo kvotų nepastačius elektrinių per leidimuose plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių nurodytą laikotarpį. Valstybinės energetikos inspekcijos prie Energetikos ministerijos interneto svetainėje viešai skelbiama ir nuolat atnaujinama informacija apie priskirtas įrengtąsias sumines galias ir esamas laisvas skatinimo kvotas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
+ 
+
+
+
+
+6. Elektros energiją gaminančių vartotojų saulės šviesos energijos elektrinių įrengtoji suminė galia apskaičiuojama kaip suma saulės šviesos energijos elektrinių įrengtųjų galių, nurodytų leidimuose plėtoti elektros energijos gamybos pajėgumus, išduotuose asmenims, kurie prašymuose išduoti leidimą plėtoti elektros energijos gamybos pajėgumus nurodė, kad siekia tapti elektros energiją gaminančiais vartotojais, ir vėliau šiems asmenims Elektros energetikos įstatymo nustatyta tvarka išduotuose leidimuose gaminti elektros energiją. Valstybinė energetikos inspekcija prie Energetikos ministerijos skelbia ir nuolat atnaujina informaciją apie elektros energiją gaminančių vartotojų elektrinių įrengtąją suminę galią savo interneto svetainėje. 
+Papildyta straipsnio dalimi:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
+ 
 
 
 Straipsnio pakeitimai:
@@ -1176,7 +1192,10 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-17. Elektros tinklų operatorius kiekvieną mėnesį teikia Energetikos ministerijai ir Valstybinei kainų ir energetikos kontrolės komisijai informaciją apie vykdomų elektrinių statybos projektų eigą ir ketinimų protokolų sąlygų vykdymą.
+17. Elektros tinklų operatorius kas ketvirtį teikia Valstybinei energetikos inspekcijai prie Energetikos ministerijos ir Valstybinei kainų ir energetikos kontrolės komisijai informaciją apie vykdomų elektrinių statybos projektų eigą ir ketinimų protokolų sąlygų vykdymą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
+ 
 
 
 
@@ -1194,9 +1213,10 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 15 straipsnis. Gamintojo įsipareigojimai
 
 
-1. Gamintojas, planuojantis plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus, elektros tinklų operatoriui pateikia savo prievolių įvykdymo užtikrinimą, garantuojantį elektros tinklų operatoriui gamintojo įsipareigojimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus. Gamintojo prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 14,48 euro už 1 kW. Norint pratęsti leidimo plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus galiojimą, kaip tai nustatyta šio įstatymo 16 straipsnio 8 dalyje, gamintojo prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 14,48 euro už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimą, trukmės, išreikštos metais.
+1. Gamintojas, planuojantis plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, elektros tinklų operatoriui pateikia savo prievolių įvykdymo užtikrinimą, garantuojantį elektros tinklų operatoriui gamintojo įsipareigojimus plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių. Gamintojo prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 14,48 euro už 1 kW. Norint pratęsti leidimo plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių galiojimo terminą, kaip tai nustatyta Elektros energetikos įstatyme, gamintojo prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 14,48 euro už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimo terminą, trukmės, išreikštos metais.
 Straipsnio dalies pakeitimai:
 Nr. XII-1173, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13575
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
  
 
 
@@ -1220,15 +1240,15 @@ Nr. XII-1173, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13575
 
 
 
-16 straipsnis. Leidimų plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus išdavimas
+16 straipsnis. Leidimų plėtoti elektros energijos gamybos pajėgumus ir leidimų gaminti elektros energiją iš atsinaujinančių energijos išteklių išdavimas
 
 
-1. Esami elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai gali būti plėtojami ar nauji elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai naujoje vietoje įrengiami tik gavus leidimą plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus, išskyrus šio straipsnio 4 dalyje numatytus atvejus.
+1. Esami elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai gali būti plėtojami ar nauji elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai naujoje vietoje įrengiami Elektros energetikos įstatymo nustatyta tvarka gavus leidimą plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, išskyrus atvejus, numatytus Elektros energetikos įstatyme, kai toks leidimas nereikalingas.
 
 
 
 
-2. Leidimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus teisės aktuose nustatyta tvarka išduoda Energetikos ministerija.
+2. Leidimus plėtoti elektros energijos gamybos pajėgumus ir leidimus gaminti elektros energiją iš atsinaujinančių energijos išteklių išduoda Valstybinė energetikos inspekcija prie Energetikos ministerijos. Šių leidimų išdavimo tvarką ir sąlygas, jų galiojimo terminus ir galiojimo terminų pratęsimo tvarką bei sąlygas nustato Elektros energetikos įstatymas.
 
 
 
@@ -1236,64 +1256,11 @@ Nr. XII-1173, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13575
 3. Leidimai plėtoti elektros energijos gamybos pajėgumus iš saulės šviesos energijos Kuršių nerijoje ir vėjo energijos Lietuvos Respublikos teritorinėje jūroje ir Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje išduodami konkurso būdu pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką, atsižvelgiant į šiame įstatyme nustatytus elektros energijos gamybos iš atsinaujinančių energijos išteklių skatinimo bendruosius reikalavimus ir vadovaujantis objektyviais ir nediskriminaciniais principais.
 
 
-
-
-4. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, jeigu gamintojas numato plėtoti elektros energijos gamybos pajėgumus, kurių įrengtoji galia yra ne didesnė kaip 10 kW, ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams. Gamintojas, numatantis plėtoti ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos pajėgumus ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apie tai privalo informuoti tinklų operatorių.
-
-
-
-
-5. Leidimas plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus išduodamas gamintojui, planuojančiam plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus, tik pateikus šiuos dokumentus:
-
-
-1) prašymą išduoti leidimą plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus;
-
-
-
-
-2) elektrinės prijungimo prie elektros tinklų ketinimų protokolą, pasirašytą su elektros tinklų operatoriumi, kaip numatyta šio įstatymo 14 straipsnio 11 dalyje, tuo atveju, jeigu gamintojo elektrinė bus jungiama prie elektros tinklų ir pagal šį įstatymą ketinimų protokolas yra privalomas;
-
-
-
-
-3) žemės sklypo, kuriame bus statoma elektrinė arba didinami gamintojo jau esamos elektrinės pajėgumai, dokumentus, patvirtinančius gamintojo teisę valdyti ir naudoti žemės sklypą nuosavybės teise ar kitais įstatymų nustatytais pagrindais. Jeigu gamintojas žemės sklypą valdo bendrosios nuosavybės teise arba kitokia ne nuosavybės teise, gamintojas pateikia ir žemės sklypo bendraturčių ar savininko sutikimą dėl elektrinės statybos tokiame žemės sklype ir jos eksploatavimo ne mažiau kaip 20 metų. Tuo atveju, kai elektros energijos gamybos įrenginius planuojama įrengti ant pastato ar jo konstrukcijos dalies, gamintojas pateikia tik pastato bendraturčių ar savininko sutikimą dėl elektrinės statybos ir jos eksploatavimo ne mažiau kaip 20 metų, o reikalavimas valdyti ir naudoti žemės sklypą nuosavybės teise ar kitais įstatymų nustatytais pagrindais šiuo atveju netaikomas;
-
-
-
-
-4) atrankos išvadą dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ar sprendimą dėl planuojamos ūkinės veiklos leistinumo poveikio aplinkai požiūriu, jeigu pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atliekamos poveikio aplinkai vertinimo procedūros;
-
-
-
-
-5) poveikio visuomenės sveikatai vertinimo atrankos sprendimą (išskyrus atvejus, kai elektrinės pajėgumai neviršija 30 kW, o saulės šviesos elektrinės pajėgumai neviršija 250 kW);
-
-
-
-
-6) patvirtinimą apie aukcione laimėtą fiksuotą tarifą skatinamai kvotai, išskyrus atvejus, kai elektrinėms fiksuotas tarifas netaikomas.
-
-
-
-
-
-
-6. Energetikos ministerija per 30 kalendorinių dienų nuo reikiamų dokumentų gavimo dienos privalo išduoti gamintojui leidimą plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus arba pateikti motyvuotą rašytinį atsisakymą išduoti leidimą. Jeigu pateikti ne visi duomenys ar dokumentai, terminas skaičiuojamas nuo visų duomenų ar dokumentų pateikimo dienos.
-
-
-
-
-7. Atsisakymas išduoti leidimus plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus gali būti pateikiamas tik tuo atveju, kai gamintojas nepateikia bent vieno iš šio straipsnio 5 dalyje nurodytų dokumentų arba pateikti duomenys yra neteisingi.
-
-
-
-
-8. Leidimas plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus galioja iki elektrinės prijungimo prie elektros tinklų ketinimų protokole numatytos elektrinės eksploatavimo pradžios, tačiau ne ilgiau negu 24 mėnesius. Išduotas leidimas gali būti pratęsiamas ne ilgesniam kaip 6 mėnesių laikotarpiui, jeigu užbaigti projektavimo darbai ir atlikta ne mažiau kaip 50 procentų projekto vystymo darbų ir jeigu gamintojas pateikia papildomą gamintojo prievolių įvykdymo užtikrinimą pagal šio įstatymo 15 straipsnio 1 dalį. Išduotas leidimas gali būti pratęsiamas papildomam ne ilgesniam kaip 6 mėnesių terminui, jeigu gamintojas pateikia pagrįstus įrodymus, kad atlikti suplanuotus darbus vėluojama dėl valstybės veiksmų, trečiųjų asmenų veiksmų ar esant nenugalimos jėgos aplinkybėms, taip pat kitoms aplinkybėms, kurių gamintojas negalėjo kontroliuoti ar kitaip valdyti.
-
-
 Straipsnio pakeitimai:
 Nr. XI-2096, 2012-06-21, Žin., 2012, Nr. 76-3939 (2012-06-30)
 Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
+Straipsnio pakeitimai:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
  
 
 
@@ -1688,7 +1655,9 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 
 
-7. Gamintojas, gavęs leidimą naudoti Lietuvos Respublikos teritorinę jūrą ir Lietuvos Respublikos išskirtinę ekonominę zoną Baltijos jūroje ir (ar) pajūrio juostą elektrinių statybai ir jų eksploatacijai, įgyja išimtinę teisę per ne ilgesnį kaip 4 metų terminą nustatytoje teritorijoje atlikti tyrimus, reikalingus priimti sprendimui dėl elektrinių statybos. Jeigu gamintojas per nustatytą terminą teisės aktų nustatyta tvarka negauna leidimo statyti ar Energetikos ministerijai pateikia pranešimą apie atsisakymą statyti elektrinę, leidimas naudoti Lietuvos Respublikos teritorinę jūrą, Lietuvos Respublikos išskirtinę ekonominę zoną Baltijos jūroje ir (ar) pajūrio juostą elektrinių statybai ir jų eksploatacijai gali būti panaikinamas. Gamintojas visus atliktų tyrimų duomenis skelbia viešai.
+7. Asmuo, gavęs leidimą naudoti Lietuvos Respublikos teritorinę jūrą ir Lietuvos Respublikos išskirtinę ekonominę zoną Baltijos jūroje ir (ar) pajūrio juostą elektrinių statybai ir jų eksploatacijai, įgyja išimtinę teisę per ne ilgesnį kaip 4 metų terminą nustatytoje teritorijoje atlikti tyrimus, reikalingus priimti sprendimui dėl elektrinių statybos. Jeigu asmuo per nustatytą terminą Statybos įstatymo nustatyta tvarka negauna statybą leidžiančio dokumento ar Vyriausybės įgaliotai institucijai pateikia pranešimą apie atsisakymą statyti elektrinę, leidimas naudoti Lietuvos Respublikos teritorinę jūrą, Lietuvos Respublikos išskirtinę ekonominę zoną Baltijos jūroje ir (ar) pajūrio juostą elektrinių statybai ir jų eksploatacijai panaikinamas. Asmuo visus atliktų tyrimų duomenis skelbia viešai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
  
 
 
@@ -3687,3 +3656,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1389, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20428
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 20 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 6, 13, 14, 15, 16 ir 22 straipsnių pakeitimo įstatymas
