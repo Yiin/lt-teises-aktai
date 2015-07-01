@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-06-16 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -252,6 +252,16 @@ Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
 
 
 6. Duomenys apie valstybės politikų ir valstybės pareigūnų darbo užmokestį yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka.
+
+
+
+
+7. Valstybės pareigūnų, nurodytų šio įstatymo priedėlio IV skirsnyje, einančių pareigas įstaigose, kuriose pagal šiame įstatyme nustatytą tvarką apskaičiuotas darbo užmokestis yra mažesnis negu 115 procentų toje įstaigoje dirbančio ir didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – mažesnė negu 110 procentų, darbo užmokesčio vidurkis, įvertinus per praėjusius kalendorinius metus apskaičiuotą darbo užmokestį, darbo užmokesčio dydis apskaičiuojamas šiame straipsnyje nustatyta tvarka. Valstybės pareigūnų, einančių institucijos vadovo pareigas, darbo užmokestis šiame straipsnyje apibrėžtais atvejais yra 15 procentų didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – 10 procentų didesnis. Valstybės pareigūnų, einančių įstaigos vadovo pavaduotojo pareigas, darbo užmokestis yra 5 procentais didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis. Kitų valstybės pareigūnų, dirbančių toje įstaigoje, darbo užmokestis yra 10 procentų mažesnis negu įstaigos vadovo darbo užmokestis, apskaičiuotas šioje dalyje nustatyta tvarka. Šioje dalyje nustatytas darbo užmokesčio skaičiavimas atliekamas vieną kartą per metus.
+TAR pastaba. Papildymas 7 dalimi galioja iki 2017-12-31.
+Nuo 2018 m. sausio 1 d. apskaičiuojant darbo užmokestį valstybės pareigūnams, nurodytiems šio įstatymo priedėlio IV skirsnyje, taikomi iki šio įstatymo įsigaliojimo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos.
+Papildyta straipsnio dalimi:
+Nr. XII-1807, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10146
+ 
 
 
 Straipsnio pakeitimai:
@@ -1264,3 +1274,8 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1764, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09300
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 priedėlio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1807, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10146
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 3 straipsnio pakeitimo įstatymas
