@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DC31692BA9D2"
 
 # Lietuvos Respublikos poligrafo naudojimo įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2273, i. k. 1001010ISTAIII-1906
  
@@ -40,7 +40,10 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Poligrafas – Lietuvos Respublikos Vyriausybės nustatytos formos sertifikatą turintis prietaisas, fiksuojantis kvėpavimo, kraujotakos, kitus fiziologinius pokyčius, atsirandančius asmens organizme tyrimo poligrafu metu, kuriais grindžiamas šiuo prietaisu tiriamo asmens teiginių teisingumo vertinimas.
+1. Poligrafas – teisės aktuose nustatytus įrenginių elektromagnetinio suderinamumo ir elektrotechninių gaminių saugos reikalavimus atitinkantis prietaisas, fiksuojantis asmens kvėpavimo, kraujotakos, odos elektrinio aktyvumo ir kitus fiziologinius pokyčius, atsirandančius asmens organizme tyrimo šiuo prietaisu metu ir kuriais grindžiamas šiuo prietaisu tiriamo asmens teiginių vertinimas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
+ 
 
 
 
@@ -50,7 +53,10 @@ Vilnius
 
 
 
-3. Tyrimo specialistas – asmuo, turintis specialų profesinį pasirengimą bei atitinkantis kitus šio įstatymo nustatytus reikalavimus.
+3. Tyrimo specialistas – asmuo, atitinkantis šio įstatymo keliamus reikalavimus ir šio įstatymo nustatytais atvejais ir tvarka atliekantis tyrimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
+ 
 
 
 
@@ -84,13 +90,13 @@ Vilnius
 
 
 
-4 straipsnis. Tyrimo subjektai
+4 straipsnis. Tyrimo subjektai ir objektai
 
 
 1. Tyrimo subjektai yra šios valstybės institucijos:
 
 
-1) Vidaus reikalų ministerijos įgaliota institucija;
+1) Vidaus reikalų ministerijos įgaliotos institucijos;
 
 
 
@@ -117,30 +123,27 @@ Vilnius
 
 
 
-2. Šio įstatymo 5 straipsnio 3 dalyje nustatytais atvejais tyrimo subjektai tiria poligrafu tuos asmenis, kurių tarnyba yra susijusi su įslaptintos informacijos naudojimu, apsauga ar susipažinimu su ja:
+2. Šio įstatymo 5 straipsnio 2 dalyje nustatytais atvejais tyrimo subjektai tiria poligrafu tuos asmenis, kurių veikla yra susijusi su įslaptintos informacijos naudojimu, apsauga ar susipažinimu su ja:
 
 
-1) atitinkamos institucijos valstybės tarnautojus, pareigūnus ir karius, taip pat asmenis, atrinktus tarnybai šiose institucijose;
-
-
-
-
-2) valstybės tarnautojus, pareigūnus ir asmenis, atrinktus valstybės tarnybai, jeigu to prašo kitos Lietuvos Respublikos valstybės institucijos.
+1) atitinkamos institucijos valstybės tarnautojus, darbuotojus, dirbančius pagal darbo sutartis, pareigūnus ir karius, asmenis, atrinktus tarnybai ar darbui šiose institucijose, taip pat kriminalinės žvalgybos slaptuosius dalyvius ir žvalgybos slaptuosius bendradarbius;
 
 
 
 
+2) valstybės tarnautojus, darbuotojus, dirbančius pagal darbo sutartis, pareigūnus ir karius, asmenis, atrinktus valstybės tarnybai ar darbui, taip pat kriminalinės žvalgybos slaptuosius dalyvius, jeigu to prašo kitos Lietuvos Respublikos valstybės institucijos.
 
 
-3. Tyrimo subjektuose steigiamos specialios tyrimą atliekančios tarnybos, tiesiogiai pavaldžios šių subjektų vadovams. Tyrimo taisykles nustato Lietuvos Respublikos Vyriausybė, o tyrimo tarnybos darbo tvarką tvirtina tyrimo subjekto vadovas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
  
 
 
 
 
-
-
-5 straipsnis. Tyrimo tikslas, objektas ir atvejai
+5 straipsnis. Tyrimo tikslas ir atvejai
 
 
 1. Tyrimo tikslas – patikrinti šio įstatymo 4 straipsnio 2 dalyje nurodytų asmenų ir jų suteiktos arba atitinkamų valstybės institucijų surinktos informacijos, susijusios su šiame straipsnyje nurodytais asmenimis ir jų aplinka, patikimumą.
@@ -148,43 +151,47 @@ Vilnius
 
 
 
-2. Tyrimo objektas – valstybės tarnautojų, pareigūnų ir karių, kurių tarnyba susijusi su įslaptintos informacijos naudojimu ir (ar) apsauga, bei asmenų, atrinktų tokiai tarnybai, suteikta arba atitinkamų valstybės institucijų surinkta informacija, susijusi su šioje dalyje nurodytais asmenimis ir jų aplinka.
+2. Asmenys, nurodyti šio įstatymo 4 straipsnio 2 dalyje, gali būti tiriami šiais atvejais:
+
+
+1) sprendžiant klausimą dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo ar panaikinimo, kai yra pagrindas manyti, kad asmuo nuslėpė arba pateikė melagingus biografijos faktus ar kitus duomenis apie save ir savo aplinką;
 
 
 
 
-3. Asmenų, nurodytų šio įstatymo 4 straipsnio 2 dalyje, tyrimas gali būti atliekamas šiais atvejais:
-
-
-1) sprendžiant klausimą dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo ar panaikinimo, kai yra pagrindo manyti, kad asmuo nuslėpė arba pateikė melagingus biografijos faktus ar kitus duomenis apie save ir savo aplinką;
+2) vykdant kontržvalgybą;
 
 
 
 
-2) įstatymų ir kitų teisės aktų nustatyta tvarka atliekant asmens tarnybinį patikrinimą, vidinį ar kriminalinės žvalgybos tyrimą;
-Straipsnio punkto pakeitimai:
-Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010ISTA0XI-2257
+3) vertinant kriminalinės žvalgybos slaptųjų dalyvių ir (ar) jų pateiktos informacijos patikimumą;
+
+
+
+
+4) vertinant pareigūnų, vykdančių saugomų asmenų apsaugos užtikrinimo funkcijas, patikimumą, taip pat vertinant, ar nėra priežasčių, dėl kurių galėtų kilti grėsmė saugomų asmenų saugumui;
+
+
+
+
+5) tiriant nusikalstamas veikas ir vykdant jų prevenciją, tiriant kitus teisės pažeidimus, jeigu šios veikos ir kiti pažeidimai yra susiję su nustatytos darbo, susipažinimo su įslaptinta informacija ar tokios informacijos naudojimo bei saugojimo tvarkos pažeidimu;
+
+
+
+
+6) kai yra pagrindas manyti, kad asmeniui daromas neteisėtas poveikis, turintis reikšmės nustatytai susipažinimo, darbo su įslaptinta informacija tvarkai, tokios informacijos naudojimui bei saugojimui;
+
+
+
+
+7) asmeniui pateikus prašymą atlikti pakartotinį tyrimą.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
  
-
-
-
-
-3) tiriant nusikaltimus, kitus teisės pažeidimus, įskaitant drausminius nusižengimus, kurių padarymu įtariami šie asmenys, jei tiriamos veikos yra susijusios su nustatytos darbo, susipažinimo su įslaptinta informacija ar tokios informacijos naudojimo bei saugojimo tvarkos pažeidimu;
-
-
-
-
-4) kai yra pagrindas manyti, kad asmeniui daromas neteisėtas poveikis, turintis reikšmės nustatytai susipažinimo, darbo su įslaptinta informacija tvarkai, tokios informacijos naudojimui bei saugojimui;
-
-
-
-
-5) esant asmens prašymui atlikti pakartotinį tyrimą.
- 
-
-
-
-
 
 
 
@@ -225,33 +232,45 @@ Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010IS
 
 
 
-7 straipsnis. Tyrimo tvarka
+7 straipsnis. Tyrimo atlikimo tvarka
 
 
-1. Prašymą atlikti tyrimą ir medžiagą apie tiriamą asmenį tyrimo tarnybos vadovui pateikia valstybės institucijos, kurioje tarnauja ar yra atrinktas tarnauti tiriamasis asmuo, vadovas arba jo įgaliotas šios institucijos personalo tarnybos vadovas.
-
-
-
-
-2. Tyrimo tarnybos vadovas per 3 darbo dienas nuo prašymo atlikti tyrimą gavimo dienos, o išimtiniais atvejais – nedelsiant jį išnagrinėja ir priima sprendimą paskirti tyrimą. Sprendime atlikti tyrimą nurodoma: tyrimo laikas ir vieta, aplinkybės, dėl kurių bus tiriama, asmens, kuriam skiriamas tyrimas, vardas, pavardė. Su šiuo sprendimu asmuo supažindinamas pasirašytinai.
+1. Sprendimą dėl tyrimo atlikimo, atsižvelgdamas į šio įstatymo 5 straipsnyje nustatytus tyrimo tikslą ir atvejus, priima tyrimo subjekto vadovas. Sprendime atlikti tyrimą nurodoma: asmens, kuriam skiriamas tyrimas, vardas, pavardė, tyrimo tikslas ir pagrindas (šio įstatymo 5 straipsnio 2 dalyje nurodytas atvejis). Tyrimo specialistas arba kitas tyrimo subjekto vadovo įgaliotas asmuo su sprendimu atlikti tyrimą asmenį, kuriam skiriamas tyrimas, supažindina pasirašytinai ir kartu paskiria tyrimo laiką ir vietą.
 
 
 
 
-3. Tyrimas atliekamas ne anksčiau kaip po 2 darbo dienų nuo sprendimo paskirti tyrimą priėmimo dienos, o išimtiniais atvejais, tiriamajam asmeniui sutikus, tyrimas atliekamas nedelsiant. 
+2. Prašymą atlikti tyrimą šio įstatymo 4 straipsnio 2 dalies 2 punkte nurodytiems asmenims ir medžiagą apie tiriamą asmenį tyrimo subjekto vadovui pateikia valstybės institucijos, kurioje tarnauja, dirba ar yra atrinktas tarnauti, dirbti tiriamasis asmuo, vadovas arba jo įgaliotas asmuo. Tyrimo subjekto vadovas ne vėliau kaip per 5 darbo dienas nuo prašymo atlikti tyrimą gavimo dienos jį išnagrinėja ir apie priimtą sprendimą raštu informuoja prašymą pateikusį asmenį. Priėmus sprendimą tyrimo neatlikti, nurodomos motyvuotos tokio sprendimo priežastys.
 
 
 
 
-4. Išvada apie poligrafu tirtą asmenį pateikiama prašymą atlikti tyrimą pateikusiam pareigūnui.
+3. Tyrimas atliekamas ne anksčiau kaip po 2 darbo dienų nuo asmens, kuriam jis skiriamas, supažindinimo su sprendimu atlikti tyrimą dienos, o tiriamojo asmens sutikimu tyrimas gali būti atliekamas nedelsiant.
 
 
 
 
-5. Asmens tyrimas atliekamas, tiriamajam asmeniui sutikus raštu.
+4. Išvada apie poligrafu tirtą šio įstatymo 4 straipsnio 2 dalies 2 punkte nurodytą asmenį pateikiama prašymą atlikti tyrimą pateikusiam asmeniui.
+
+
+
+
+5. Asmens tyrimas atliekamas, jeigu tiriamasis asmuo sutinka raštu.
+
+
+
+
+6. Galimų taikyti tyrimo metodikų kriterijus, jų sąrašą ir tyrimo atlikimo taisykles nustato Lietuvos Respublikos Vyriausybė.
+
+
+
+
+7. Tyrimo metu taikytinas tyrimo metodikas iš šio straipsnio 6 dalyje nurodyto sąrašo pasirenka tyrimą atliekantis tyrimo specialistas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
  
-
-
 
 
 
@@ -267,14 +286,23 @@ Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010IS
 
 
 
-2) turėti aukštąjį išsilavinimą ir Lietuvos Respublikos Vyriausybės nustatytos formos leidimą, suteikiantį teisę atlikti tyrimus poligrafu;
+2) turėti aukštąjį universitetinį išsilavinimą;
 
 
 
 
-3) turėti leidimą dirbti ar susipažinti su informacija, sudarančia Lietuvos Respublikos valstybės paslaptį, žymima slaptumo žyma „Visiškai slaptai“.
+3) turėti kvalifikaciją patvirtinantį dokumentą, kad yra išklausęs ne mažiau kaip 400 val. trukmės, įskaitant atliktų praktinių užsiėmimų trukmę, vientisus specializuotus tyrimo poligrafu kursus Europos Sąjungos arba Šiaurės Atlanto Sutarties Organizacijos valstybių narių mokymo institucijose;
+TAR pastaba. Tyrimo specialistai, neatitinkantys įstatymo (Nr. XII-1561) 5 straipsnio 1 dalyje išdėstytame Lietuvos Respublikos poligrafo naudojimo įstatymo 8 straipsnio 1 dalies 3 punkte nustatyto reikalavimo, privalo iki 2016 m. sausio 1 d. įgyti atitinkamą kvalifikaciją.
 
 
+
+
+4) turėti leidimą dirbti ar susipažinti su įslaptinta informacija ir (ar) asmens patikimumo pažymėjimą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
+ 
 
 
 
@@ -344,7 +372,10 @@ Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010IS
 
 
 
-4. Šio straipsnio 3 dalies 3 punkte numatytais atvejais tyrimo specialistas apie tyrimo nutraukimą, nurodydamas priežastis, nedelsdamas raštu praneša savo tiesioginiam vadovui. Šis, suderinęs su prašymą atlikti tyrimą pateikusiu asmeniu, surašo išvadą pakartoti tyrimą arba jį nutraukti.
+4. Šio straipsnio 3 dalies 3 punkte numatytais atvejais tyrimo specialistas apie tyrimo nutraukimą, nurodydamas priežastis, nedelsdamas raštu praneša tyrimo subjekto vadovui, kuris priima sprendimą pakartoti tyrimą arba jį nutraukti. Tyrimo subjekto vadovo sprendimas pakartoti tyrimą dėl šio įstatymo 4 straipsnio 2 dalies 2 punkte nurodytų asmenų arba jį nutraukti turi būti suderintas su prašymą atlikti tyrimą pateikusiu asmeniu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
+ 
 
 
 
@@ -417,7 +448,10 @@ Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010IS
 
 
 
-2. Tyrimo tarnybos pareigūnas įstatymų bei kitų teisės aktų nustatyta tvarka privalo užtikrinti valstybės ar tarnybos paslaptį sudarančios informacijos apsaugą.
+2. Tyrimo subjekto vadovas įstatymų ir kitų teisės aktų nustatyta tvarka privalo užtikrinti valstybės ar tarnybos paslaptį sudarančios informacijos apsaugą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
+ 
 
 
 
@@ -467,3 +501,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010ISTA0XI-2257
 Lietuvos Respublikos poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1561, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05373
+Lietuvos Respublikos poligrafo naudojimo įstatymo Nr. VIII-1906 2, 4, 5, 7, 8 ir 11 straipsnių pakeitimo įstatymas
