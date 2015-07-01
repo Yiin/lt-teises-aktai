@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-03-28 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
  
@@ -405,7 +405,10 @@ KRIMINALINĖS ŽVALGYBOS SUBJEKTŲ TEISĖS IR PAREIGOS
 
 
 
-8) Lietuvos Respublikos poligrafo naudojimo įstatymo nustatyta tvarka naudoti poligrafą;
+8) Lietuvos Respublikos poligrafo naudojimo įstatymo (toliau – Poligrafo naudojimo įstatymas) nustatyta tvarka naudoti poligrafą (tik tyrimo subjekto statusą pagal Poligrafo naudojimo įstatymą turintys kriminalinės žvalgybos subjektai);
+Straipsnio punkto pakeitimai:
+Nr. XII-1565, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05017
+ 
 
 
 
@@ -1589,3 +1592,8 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo 2, 5, 21 ir 22 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-778, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03569
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1565, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05017
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 6 straipsnio pakeitimo įstatymas
