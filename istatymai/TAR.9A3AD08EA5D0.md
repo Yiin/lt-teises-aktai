@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-04-28 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-07-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -2506,6 +2506,13 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 
 3. Švietimo ir mokslo ministerija kiekvienais metais paskelbia pranešimą apie švietimo sistemos būklę šalyje ir regionuose.
+
+
+
+
+4. Asmens duomenys Švietimo valdymo informacinėje sistemoje tvarkomi Vyriausybės tvirtinamuose Švietimo valdymo informacinės sistemos nuostatuose nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
  
 
 
@@ -2601,7 +2608,10 @@ Vyriausybė:
 
 
 
-4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka tvarkyti Studijų,  mokymo programų ir kvalifikacijų registrą, steigti ir tvarkyti kvalifikacijos tobulinimo programų ir renginių, švietimo ir mokslo institucijų, licencijų, išsilavinimo pažymėjimų blankų, diplomų, atestatų ir kvalifikacijos pažymėjimų, mokinių, studentų, mokytojų registrus ir valstybės švietimo informacines sistemas;
+4) valdyti Studijų, mokymo programų ir kvalifikacijų registrą, steigti ir valdyti žinybinius registrus ir valstybės informacines sistemas ir valdyti valstybės informacinėse sistemose tvarkomus asmens duomenis;
+Straipsnio punkto pakeitimai:
+Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
+ 
 
 
 
@@ -2667,6 +2677,62 @@ Vyriausybė:
 
 
 
+
+
+
+
+561 straipsnis. Studijų, mokymo programų ir kvalifikacijų registras
+
+
+1. Studijų, mokymo programų ir kvalifikacijų registras yra valstybės registras.
+
+
+
+
+2. Studijų, mokymo programų ir kvalifikacijų registre registruojamos formaliojo švietimo programos, kvalifikacijos, profesiniai standartai ir profesinio rengimo standartai.
+
+
+
+
+3. Studijų, mokymo programų ir kvalifikacijų registro valdytoja yra Švietimo ir mokslo ministerija. 
+
+
+
+
+4. Studijų, mokymo programų ir kvalifikacijų registro tvarkytojas (tvarkytojai) skiriamas (skiriami) Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Studijų, mokymo programų ir kvalifikacijų registro nuostatai. Studijų, mokymo programų ir kvalifikacijų registro nuostatuose nurodomos konkrečios registro tvarkytojo (tvarkytojų) funkcijos.
+
+
+
+
+5. Studijų, mokymo programų ir kvalifikacijų registro duomenys tvarkomi ir saugomi vadovaujantis šiuo įstatymu, šio registro nuostatais ir kitais teisės aktais.
+
+
+Papildyta straipsniu:
+Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
+ 
+
+
+
+
+562 straipsnis. Švietimo valdymo informacinė sistema
+
+
+1. Švietimo valdymo informacinė sistema yra valstybės informacinė sistema, skirta teikti duomenis ir informaciją, reikalingą švietimo subjektams analizuoti ir vertinti švietimo būklę įvairiais aspektais, prognozuoti švietimo kaitą, priimti duomenimis pagrįstus sprendimus ir vykdyti švietimo kokybę laiduojantį valdymą.
+
+
+
+
+2. Švietimo valdymo informacinės sistemos valdytoja yra Švietimo ir mokslo ministerija.
+
+
+
+
+3. Švietimo valdymo informacinės sistemos tvarkytojas (tvarkytojai) skiriamas (skiriami) teisės aktu, kuriuo tvirtinami Švietimo valdymo informacinės sistemos nuostatai. Švietimo valdymo informacinės sistemos nuostatuose nurodomos konkrečios Švietimo valdymo informacinės sistemos tvarkytojo (tvarkytojų) funkcijos.
+
+
+Papildyta straipsniu:
+Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
+ 
 
 
 
@@ -3536,3 +3602,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 22 ir 67 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 53, 56 straipsnių pakeitimo ir Įstatymo papildymo 56-1, 56-2 straipsniais įstatymas
