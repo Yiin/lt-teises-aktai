@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2015-05-27 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -787,7 +787,10 @@ BALZAMAVIMAS
 16 straipsnis. Balzamavimą atliekantys asmenys
 
 
-1. Balzamavimą gali atlikti Lietuvos Respublikoje įsteigti juridiniai asmenys, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigti juridiniai asmenys ar kitos organizacijos arba jų filialai, turintys Vyriausybės įgaliotos institucijos (toliau – licencijas išduodanti institucija) išduotą balzamavimo licenciją (toliau – balzamavimo licencijos turėtojas). Licencijas išduodanti institucija balzamavimo licencijas išduoda, keičia, išduoda jų dublikatus, atsisako išduoti licenciją, įspėja apie galimą licencijos galiojimo sustabdymą, sustabdo ar panaikina licencijos galiojimą, panaikina įspėjimą apie galimą licencijos galiojimo sustabdymą arba panaikina licencijos galiojimo sustabdymą vadovaudamasi šiuo įstatymu ir Vyriausybės patvirtintomis Balzamavimo licencijavimo taisyklėmis. Balzamavimo licencijos išduodamos asmenims, kurie atitinka šio įstatymo 161 straipsnio 1 dalyje nustatytus reikalavimus.
+1. Balzamavimą gali atlikti Lietuvos Respublikoje įsteigti juridiniai asmenys, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigti juridiniai asmenys ar kitos organizacijos arba jų filialai, turintys Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka išduotą leidimą-higienos pasą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
+ 
 
 
 
@@ -802,161 +805,13 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-161 straipsnis. Balzamavimo licencijavimas
-
-
-1. Šio įstatymo 16 straipsnio 1 dalyje nurodyti asmenys, norintys gauti balzamavimo licencijas, privalo:
-
-
-1) turėti balzamavimui atlikti pritaikytą įrangą, patalpas ir reikiamos kvalifikacijos personalą. Įrangos, patalpų ir personalo kvalifikacijos reikalavimus nustato Vyriausybės įgaliota institucija;
-
-
-
-
-2) turėti leidimą-higienos pasą balzamavimui, išduotą Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka.
-
-
-
-
-
-
-2. Asmuo, norintis gauti balzamavimo licenciją (toliau šiame straipsnyje – pareiškėjas), turi Balzamavimo licencijavimo taisyklių nustatyta tvarka licencijas išduodančiai institucijai pateikti prašymą. Prie prašymo pridedama:
-
-
-1) dokumentai, patvirtinantys, kad balzamavimui atlikti turima įranga ir personalo kvalifikacija atitinka šio straipsnio 1 dalies 1 punkte nustatytus reikalavimus;
-
-
-
-
-2) raštas, kuriame nurodomas patalpų, kuriose ketinama atlikti balzamavimą, adresas (adresai), patvirtintas pareiškėjo antspaudu, jeigu pareiškėjas privalo jį turėti, ir pasirašytas turinčio teisę veikti pareiškėjo vardu asmens. 
-
-
-
-
-
-
-4. Licencijas išduodanti institucija, priėmusi sprendimą išduoti balzamavimo licenciją arba motyvuotą sprendimą atsisakyti išduoti balzamavimo licenciją, apie priimtą sprendimą raštu informuoja pareiškėją. Laikotarpis, per kurį pareiškėjas šalina licencijas išduodančios institucijos nurodytus trūkumus, neįskaitomas į balzamavimo licencijos išdavimo terminą ir tokiu atveju sprendimo išduoti licenciją ar atsisakyti išduoti licenciją priėmimo terminas skaičiuojamas nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-
-
-
-5. Balzamavimo licenciją atsisakoma išduoti šiais atvejais:
-
-
-1) jeigu pareiškėjas neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų;
-
-
-
-
-2) jeigu pareiškėjas pateikia ne visus šio straipsnio 2 dalyje nurodytus arba netaisyklingai užpildytus dokumentus arba pateikia dokumentus, neatitinkančius jiems keliamų reikalavimų, arba neteisingus duomenis ir per nustatytą terminą nepašalina trūkumų; 
-
-
-
-
-3) jeigu pareiškėjui buvo panaikintas balzamavimo licencijos galiojimas ir nuo licencijos galiojimo panaikinimo nepraėjo 6 mėnesiai. Ši nuostata netaikoma, kai licencijos galiojimas panaikintas paties asmens prašymu.
-
-
-
-
-
-
-6. Balzamavimo licencijos dublikatas išduodamas Balzamavimo licencijavimo taisyklėse nustatyta tvarka ir terminais, jeigu licencijos originalas prarandamas arba sugadinamas.
-
-
-
-
-7. Balzamavimo licencijos pakeitimai daromi Balzamavimo licencijavimo taisyklėse nustatyta tvarka ir terminais, kai pasikeičia bent vienas iš licencijoje nurodytų balzamavimo licencijos turėtojo duomenų: teisinė forma, pavadinimas, kodas, taip pat tais atvejais, kai balzamavimo licencijos turėtojas ketina pakeisti šio straipsnio 2 dalies 2 punkte nurodytus duomenis. 
-
-
-
-
-8. Licencijas išduodanti institucija priima sprendimą įspėti balzamavimo licencijos turėtoją apie galimą balzamavimo licencijos galiojimo sustabdymą ir nustato ne ilgesnį kaip 20 darbo dienų terminą nustatytiems pažeidimams pašalinti, jeigu paaiškėja, kad balzamavimo licencijai gauti pareiškėjas pateikė neteisingus duomenis.
-
-
-
-
-9. Balzamavimo licencijos galiojimas sustabdomas šiais atvejais:
-
-
-1) balzamavimo licencijos turėtojo prašymu;
-
-
-
-
-2) jeigu buvo priimtas sprendimas įspėti balzamavimo licencijos turėtoją apie galimą balzamavimo licencijos galiojimo sustabdymą ir per šiame sprendime nustatytą terminą balzamavimo licencijos turėtojas nepateikė dokumentų, patvirtinančių, kad pažeidimai pašalinti, arba pateiktų dokumentų nepakanka nustatyti, kad pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas;
-
-
-
-
-3) jeigu gautas šio įstatymo 30 straipsnyje nurodytų balzamavimo licencijos turėtojų veiklą kontroliuojančių valstybinės priežiūros institucijų motyvuotas rašytinis pasiūlymas sustabdyti balzamavimo licencijos galiojimą dėl nustatytų balzamavimo pažeidimų ir dokumentai su išvada (išvadomis), patvirtinančia (patvirtinančiomis) priežastis, dėl kurių gali būti sustabdytas licencijos galiojimas;
-
-
-
-
-
-
-10. Sprendimą dėl licencijos galiojimo sustabdymo licencijas išduodanti institucija priima per 5 darbo dienas nuo informacijos apie šio straipsnio 9 dalyje nurodytų aplinkybių atsiradimą gavimo dienos ir nustato ne ilgesnį kaip 3 mėnesių terminą, per kurį balzamavimo licencijos turėtojas turi pašalinti pažeidimus, dėl kurių licencijos galiojimas buvo sustabdytas, išskyrus atvejus, kai sprendimas sustabdyti licencijos galiojimą priimamas šio straipsnio 9 dalies 1, 3 ir 4 punktuose nurodytais atvejais. Šio straipsnio 9 dalies 3 ir 4 punktuose nurodytais atvejais pažeidimų pašalinimo terminas nustatomas pagal gautoje informacijoje nurodytą terminą. 
-
-
-
-
-11. Balzamavimo licencijos galiojimas panaikinamas šiais atvejais:
-
-
-1) balzamavimo licencijos turėtojo prašymu;
-
-
-
-
-2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą šio straipsnio 9 dalies 2 ar 3 punktuose nurodytais pagrindais ir per sprendime sustabdyti licencijos galiojimą nustatytą terminą balzamavimo licencijos turėtojas nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas;
-
-
-
-
-3) jeigu nustatoma, kad licencijos galiojimo sustabdymo metu balzamavimo licencijos turėtojas atlieka balzamavimą;
-
-
-
-
-4) jeigu balzamavimo licencijos turėtojas likviduojamas ar reorganizuojamas;
-
-
-
-
-
-
-12. Licencijas išduodanti institucija apie priimtą sprendimą įspėti balzamavimo licencijos turėtoją apie galimą balzamavimo licencijos galiojimo sustabdymą arba sprendimą sustabdyti ar panaikinti licencijos galiojimą raštu informuoja balzamavimo licencijos turėtoją, nurodydama sprendimo priėmimo priežastį (priežastis).
-
-
-
-
-13. Licencijas išduodančiai institucijai priėmus sprendimą sustabdyti balzamavimo licencijos galiojimą arba panaikinti licencijos galiojimą, balzamavimo licencijos turėtojas privalo atitinkamai sustabdyti arba nutraukti balzamavimą ne vėliau kaip per 5 darbo dienas nuo pranešimo apie licencijos galiojimo sustabdymą arba panaikinimą gavimo (įteikimo pagal pašto žymas) dienos.
-
-
-
-
-14. Įspėjimas apie galimą balzamavimo licencijos galiojimo sustabdymą arba licencijos galiojimo sustabdymas panaikinamas balzamavimo licencijos turėtojui Balzamavimo licencijavimo taisyklių nustatyta tvarka pateikus dokumentus, įrodančius, kad pašalinti pažeidimai, dėl kurių buvo priimtas sprendimas įspėti apie galimą licencijos galiojimo sustabdymą ar sustabdyti licencijos galiojimą. 
-
-
-
-
-15. Lietuvos Respublikoje įsteigtas juridinis asmuo, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigtas juridinis asmuo ar kita organizacija arba jų filialas, kuriems šio straipsnio 11 dalies 2 ir (ar) 3 punktuose nurodytais pagrindais buvo panaikintas jų turėtų balzamavimo licencijų galiojimas, dėl naujos balzamavimo licencijos išdavimo gali kreiptis ne anksčiau kaip po 6 mėnesių nuo licencijos galiojimo panaikinimo dienos.
-
-
-
-
-16. Už balzamavimo licencijos išdavimą, pakeitimą ar licencijos dublikato išdavimą imama Vyriausybės nustatyto dydžio valstybės rinkliava.
-
-
-
-
-17. Apie balzamavimo licencijų išdavimą, pakeitimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijų galiojimo panaikinimą licencijas išduodanti institucija praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir savo interneto svetainėje.
-
-
+161 straipsnis. Neteko galios nuo 2015-07-01.
 Įstatymas papildytas straipsniu:
 Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 Straipsnio pakeitimai:
 Nr. XI-1762, 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
+Straipsnio pakeitimai:
+Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
  
 
 
@@ -1453,22 +1308,24 @@ KREMAVIMO, BALZAMAVIMO IR LAIDOJIMO PASLAUGŲ TEIKIMO PRIEŽIŪRA IR KONTROLĖ
 30 straipsnis. Valstybės institucijų kompetencija kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės srityje
 
 
-1. Visuomenės sveikatos centrai apskrityse vykdo kremavimo įmonių, balzamavimo licencijų turėtojų ir laidojimo paslaugų teikėjų, teikiančių žmogaus palaikų laikymo, žmogaus palaikų paruošimo šarvoti ir šarvojimo paslaugas, valstybinę visuomenės sveikatos saugos kontrolę sveikatos apsaugos ministro ar jo įgaliotos įstaigos nustatyta tvarka, taip pat kituose įstatymuose nustatytas kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės funkcijas.
+1. Visuomenės sveikatos centrai apskrityse vykdo kremavimo įmonių, balzamavimo ir laidojimo paslaugų teikėjų, teikiančių žmogaus palaikų laikymo, žmogaus palaikų paruošimo šarvoti ir šarvojimo paslaugas, valstybinę visuomenės sveikatos saugos kontrolę sveikatos apsaugos ministro ar jo įgaliotos įstaigos nustatyta tvarka, taip pat kituose įstatymuose nustatytas kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės funkcijas.
 
 
 
 
-2. Aplinkos ministerijos regionų aplinkos apsaugos departamentai ir kitos valstybinės priežiūros institucijos pagal kompetenciją prižiūri kremavimo įmonių, balzamavimo licencijų turėtojų, laidojimo paslaugų teikėjų ir kapinių prižiūrėtojų veiklą ir kontroliuoja, kaip jie vykdo aplinkos apsaugos, asmens duomenų tvarkymo ir apsaugos reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose.
+2. Aplinkos ministerijos regionų aplinkos apsaugos departamentai ir kitos valstybinės priežiūros institucijos pagal kompetenciją prižiūri kremavimo įmonių, balzamavimo, laidojimo paslaugų teikėjų ir kapinių prižiūrėtojų veiklą ir kontroliuoja, kaip jie vykdo aplinkos apsaugos, asmens duomenų tvarkymo ir apsaugos reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose.
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytos institucijos, nustačiusios šio įstatymo ir kitų teisės aktų nustatytų kremavimo veiklai ir balzamavimui taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos ir balzamavimo licencijas išduodančioms institucijoms dėl licencijos galiojimo sustabdymo.
+3. Šio straipsnio 1 ir 2 dalyse nurodytos institucijos, nustačiusios šiame įstatyme ir kituose teisės aktuose nustatytų kremavimo veiklai taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos licencijas išduodančiai institucijai dėl licencijos galiojimo sustabdymo.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 Nr. XI-1762, 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
+Straipsnio pakeitimai:
+Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
  
 
 
@@ -1626,3 +1483,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir 30 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 16, 30 straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
