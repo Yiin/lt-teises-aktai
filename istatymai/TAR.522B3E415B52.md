@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-02-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1764,7 +1764,10 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 
 
 
-2. Nacionalinė teismų administracija patikrina pretendento į teisėjus pateiktus dokumentus. Siekdama nustatyti, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija kreipiasi į Valstybės saugumo departamentą. Valstybės saugumo departamentas per 40 darbo dienų nuo kreipimosi gavimo dienos privalo pateikti motyvuotą išvadą, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija. Prieš priimdamas sprendimą, Valstybės saugumo departamentas gali pretendentą į teisėjus iškviesti pokalbio, pareikalauti rašytinių jo paaiškinimų ir prireikus, jeigu šis asmuo sutinka, patikrinti poligrafu. Pretendento į teisėjus patikrinimo metu negali būti naudojami kriminalinės žvalgybos informacijos rinkimo būdai ir priemonės, išskyrus apklausą ir duomenų, esančių kriminalinės žvalgybos informacinėse sistemose, peržiūrą.
+2. Nacionalinė teismų administracija patikrina pretendento į teisėjus pateiktus dokumentus. Siekdama nustatyti, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija kreipiasi į Valstybės saugumo departamentą prašydama Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka ir terminais patikrinti asmens kandidatūrą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1564, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05016
+ 
 
 
 
@@ -5000,7 +5003,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), 81 STRAIPSNIŲ, IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, 103 STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 89, 109, 110, 111, 112, 125 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus šio įstatymo 4 ir 31 straipsnius, 32 straipsniu keičiamo Teismų įstatymo 107 straipsnio 1 ir 2 dalis, įsigalioja 2008 m. rusėjo 1 d.
-Šio įstatymo 31 straipsnis, 32 straipsniu keičiamo Teismų įstatymo 107 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d., 2 dalis – 2012 m. sausio 1 d.
+Šio įstatymo 31 straipsnis, 32 straipsniu keičiamo Teismų įstatymo 107 straipsnio 1 dalis įsigalioja 2017 m. sausio 1 d., 2 dalis – 2012 m. sausio 1 d.
 Šio įstatymo 4 straipsnis įsigalioja 2010 m. liepos 1 d.
 Šio įstatymo įsigaliojimas keistas:
 36.1.
@@ -5011,6 +5014,10 @@ TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08)
 TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), 81 STRAIPSNIŲ, IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, 103 STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 89, 109, 110, 111, 112, 125 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMO 46 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+36.3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
+LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, 81 STRAIPSNIŲ, IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, 103 STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 89, 109 110, 111, 112, 125 STRAIPSNIŲ PRIPAŽINIMU NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53-1, 53-2 STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMO NR. X-1685 46 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5168,3 +5175,8 @@ Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1776, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09620
 Lietuvos Respublikos teismų įstatymo Nr. I-480 papildymo 40-2 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1564, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05016
+Lietuvos Respublikos teismų įstatymo Nr. I-480 53-2 straipsnio pakeitimo įstatymas
