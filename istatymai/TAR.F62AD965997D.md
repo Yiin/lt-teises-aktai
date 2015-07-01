@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -1579,30 +1579,17 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 
 
-33 straipsnis. Maksimalios šilumos suvartojimo normos daugiabučiuose namuose 
+33 straipsnis. Maksimalios šilumos suvartojimo normos daugiabučiuose namuose
 
 
-1. Valstybinė kainų ir energetikos kontrolės komisija nustato ir prireikus pakeičia maksimalias šilumos suvartojimo daugiabučių namų butams ir kitoms patalpoms šildyti normas. Šios normos skelbiamos viešai. Jos taikomos daugiabučiuose namuose, kurie energiją vartoja neefektyviai ir neatitinka privalomųjų energijos vartojimo efektyvumo reikalavimų. Vyriausybės įgaliota institucija nustato, ar daugiabučiame name energija vartojama efektyviai ir (ar) yra tenkinami privalomieji energijos vartojimo efektyvumo reikalavimai. 
-
-
-
-
-2. Savivaldybės institucija gali nustatyti ir griežtesnes maksimalias šilumos suvartojimo daugiabučių namų butams ir kitoms patalpoms šildyti normas negu Valstybinės kainų ir energetikos kontrolės komisijos nustatytosios, jeigu, įgyvendinus energijos vartojimo efektyvumo didinimo priemones, sutaupomos išlaidos šilumos energijai padengs vartotojų investicijų šilumos energijos taupymo priemonėms sąnaudas. Išlaidos šilumos energijai, sutaupomos įgyvendinus energijos vartojimo efektyvumo didinimo priemones, nustatomos vadovaujantis Energetikos ministerijos ir Aplinkos ministerijos patvirtinta tvarka.
-
-
-
-
-3. Savivaldybės institucija turi teisę įpareigoti daugiabučio namo, kuriame buvo viršyta maksimali šilumos suvartojimo norma, butų ir kitų patalpų savininkus Vyriausybės nustatyta tvarka per 24 mėnesius rekonstruoti namo šildymo ir (ar) karšto vandens sistemas pagal privalomuosius reikalavimus ir (ar) atlikti kitus daugiabučio namo atnaujinimo (modernizavimo) darbus ir tokiu būdu užtikrinti daugiabučio namo atitiktį minimaliems pastatų energinio naudingumo reikalavimams.
-
-
-
-
-4. Daugiabučių namų butų ir (ar) kitų patalpų savininkai turi teisę Vyriausybės nustatyta tvarka gauti paramą iš Daugiabučių namų atnaujinimo (modernizavimo) programos ir kitų lėšų šio straipsnio 3 dalyje nustatytam įpareigojimui įgyvendinti.
+Valstybinė kainų ir energetikos kontrolės komisija, atsižvelgdama į Lietuvos Respublikos Seimo patvirtintoje Nacionalinės energetinės nepriklausomybės strategijoje nustatytas energijos vartojimo efektyvumo didinimo gaires, nustato maksimalias metines šilumos suvartojimo normas, išreikštas kWh/m2 per kalendorinius metus, daugiabučių namų butams ir kitoms patalpoms šildyti, kurios skelbiamos viešai ne vėliau kaip prieš šešis mėnesius iki jų įsigaliojimo dienos. Šios normos taikomos daugiabučių namų energiniam efektyvumui vertinti, planuojant priemones ir lėšas jų energiniam efektyvumui didinti.
 
 
 Straipsnio pakeitimai:
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 Nr. XII-152, 2013-01-17, Žin., 2013, Nr. 11-496 (2013-01-30)
+Straipsnio pakeitimai:
+Nr. XII-1791, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09814
  
 
 
@@ -1822,3 +1809,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 25 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1259, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14860
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1791, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09814
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 33 straipsnio pakeitimo įstatymas
