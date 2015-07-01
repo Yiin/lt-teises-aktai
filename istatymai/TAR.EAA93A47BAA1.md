@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
  
@@ -216,7 +216,10 @@ Valstybės garantuojamos teisinės pagalbos valdymo institucijos yra:
 
 
 
-4) valstybės garantuojamos teisinės pagalbos tarnybos (toliau – tarnybos);
+4) valstybės garantuojamos teisinės pagalbos tarnyba (toliau – tarnyba);
+Straipsnio punkto pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -273,7 +276,10 @@ Vyriausybė:
 
 
 
-3) organizuoja mokymą, susijusį su valstybės garantuojamos teisinės pagalbos teikimu;
+3) Neteko galios nuo 2015-07-01
+Straipsnio punkto naikinimas:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -323,7 +329,10 @@ Vyriausybė:
 
 
 
-3) analizuoja tarnybų veiklą ir teikia pasiūlymus dėl tarnybų veiklos;
+3) analizuoja tarnybos veiklą ir teikia pasiūlymus dėl tarnybos veiklos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -376,7 +385,9 @@ Vyriausybė:
 
 
 
-3. Savivaldybių institucijos privalo kiekvienais metais teisingumo ministro nustatyta tvarka pateikti tarnyboms veiklos organizuojant ir teikiant pirminę teisinę pagalbą ataskaitas.
+3. Savivaldybių institucijos privalo kiekvienais metais teisingumo ministro nustatyta tvarka pateikti tarnybai veiklos organizuojant ir teikiant pirminę teisinę pagalbą ataskaitas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
  
 
 
@@ -384,15 +395,15 @@ Vyriausybė:
 
 
 
-9 straipsnis. Tarnybos 
+9 straipsnis. Tarnyba 
 
 
-1. Tarnybos yra įstaigos prie Teisingumo ministerijos. Tarnybos veiklos teritorija atitinka apygardos teismo veiklos teritoriją. 
+1. Tarnyba yra įstaiga prie Teisingumo ministerijos. Tarnyba turi teritorinius administracijos padalinius, kurių veiklos teritoriją, atsižvelgdamas į apygardos teismų veiklos teritorijas, nustato teisingumo ministras. 
 
 
 
 
-2. Tarnybų uždavinys yra užtikrinti valstybės garantuojamos teisinės pagalbos teikimą ir koordinavimą pagal šį įstatymą.
+2. Tarnybos uždavinys – užtikrinti valstybės garantuojamos teisinės pagalbos teikimą ir koordinavimą pagal šį įstatymą.
 
 
 
@@ -400,12 +411,12 @@ Vyriausybė:
 3. Tarnyba:
 
 
-1) koordinuoja pirminės teisinės pagalbos teikimą apygardos teismo veiklos teritorijoje (teikia savivaldybių institucijoms metodinę pagalbą įgyvendinant joms priskirtas funkcijas pirminės teisinės pagalbos srityje, analizuoja šio įstatymo 8 straipsnio 3 dalyje nurodytas ataskaitas, jas apibendrina ir teikia Teisingumo ministerijai informaciją apie pirminės teisinės pagalbos organizavimą ir teikimą tarnybos veiklos teritorijoje, teikia pasiūlymus savivaldybių institucijoms dėl pirminės teisinės pagalbos organizavimo ir teikimo tobulinimo užtikrinant šio įstatymo įgyvendinimą);
+1) koordinuoja pirminės teisinės pagalbos teikimą (teikia savivaldybių institucijoms metodinę pagalbą įgyvendinant joms priskirtas funkcijas pirminės teisinės pagalbos srityje, analizuoja šio įstatymo 8 straipsnio 3 dalyje nurodytas ataskaitas, jas apibendrina ir teikia Teisingumo ministerijai informaciją apie pirminės teisinės pagalbos organizavimą ir teikimą, teikia pasiūlymus savivaldybių institucijoms dėl pirminės teisinės pagalbos organizavimo ir teikimo tobulinimo užtikrinant šio įstatymo įgyvendinimą);
 
 
 
 
-2) organizuoja antrinės teisinės pagalbos teikimą apygardos teismo veiklos teritorijoje;
+2) organizuoja antrinės teisinės pagalbos teikimą;
 
 
 
@@ -435,7 +446,7 @@ Vyriausybė:
 
 
 
-8) moka užmokestį už suteiktą pirminę teisinę pagalbą, kai šio įstatymo 15 straipsnio 8 dalyje numatytu atveju tarnyba organizuoja pirminės teisinės pagalbos teikimą, už antrinę teisinę pagalbą, antrinės teisinės pagalbos baudžiamosiose bylose koordinavimą ir taikinamąjį tarpininkavimą;
+8) moka užmokestį už suteiktą pirminę teisinę pagalbą, kai šio įstatymo 15 straipsnio 8 dalyje numatytu atveju tarnyba organizuoja pirminės teisinės pagalbos teikimą, už antrinę teisinę pagalbą, antrinės teisinės pagalbos baudžiamosiose bylose koordinavimą ir taikinamąjį tarpininkavimą;
 
 
 
@@ -445,62 +456,29 @@ Vyriausybė:
 
 
 
-10) surašo administracinių teisės pažeidimų protokolus už neteisingų duomenų pateikimą siekiant gauti antrinę teisinę pagalbą;
+10) organizuoja mokymą, susijusį su valstybės garantuojamos teisinės pagalbos teikimu;
 
 
 
 
-11) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+11) surašo administracinių teisės pažeidimų protokolus už neteisingų duomenų pateikimą siekiant gauti antrinę teisinę pagalbą;
+
+
+
+
+12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
 
 
 
 
 
-4. Tarnybos privalo kiekvienais metais pateikti Teisingumo ministerijai savo veiklos ataskaitas. 
+4. Tarnyba privalo kiekvienais metais pateikti Teisingumo ministerijai savo veiklos ataskaitą.
 
 
-
-
-5. Siekiant užtikrinti tarnyboms pavestų funkcijų valstybės garantuojamos teisinės pagalbos srityje įgyvendinimą ir skatinti antrinę teisinę pagalbą teikiančių advokatų ir tarnybų bendradarbiavimą, sudaroma kolegiali tarnybų patariamoji institucija – Valstybės garantuojamos teisinės pagalbos kolegija (toliau – Kolegija). Kolegijos nuostatus ir sudėtį tvirtina teisingumo ministras.
-
-
-
-
-6. Kolegiją sudaro tarnybų direktoriai, penki advokatų, teikiančių antrinę teisinę pagalbą, atstovai, paskirti Valstybės garantuojamos teisinės pagalbos kolegijos nuostatuose nustatyta tvarka, ir Teisingumo ministerijos atstovas.
-
-
-
-
-7. Kolegija:
-
-
-1) svarsto tarnybų veikloje kilusius antrinės teisinės pagalbos teikimo užtikrinimo, pirminės teisinės pagalbos koordinavimo, taikinamojo tarpininkavimo organizavimo ir tarnybų bendros praktikos atliekant priskirtas funkcijas formavimo klausimus;
-
-
-
-
-2) svarsto klausimus, susijusius su sutarčių dėl antrinės teisinės pagalbos teikimo tinkamo vykdymo užtikrinimu;
-
-
-
-
-3) teikia pasiūlymus tarnyboms sprendžiant šios dalies 1 ir 2 punktuose nurodytus klausimus;
-
-
-
-
-4) teikia pasiūlymus Teisingumo ministerijai dėl rekomendacijų siekiant užtikrinti vienodą šio įstatymo taikymą priėmimo;
-
-
-
-
-5) teikia pasiūlymus Teisingumo ministerijai dėl valstybės garantuojamą teisinę pagalbą reglamentuojančių teisės aktų tobulinimo. 
+Straipsnio pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
  
-
-
-
-
 
 
 
@@ -1041,7 +1019,10 @@ PIRMINĖS TEISINĖS PAGALBOS TEIKIMAS
 16 straipsnis. Viešųjų įstaigų teikiama teisinė pagalba
 
 
-1. Viešosios įstaigos, sudariusios sutartis dėl pirminės teisinės pagalbos teikimo su savivaldybės institucija ar tarnyba, kai šio įstatymo 15 straipsnio 8 dalyje numatytu atveju tarnybos organizuoja pirminės teisinės pagalbos teikimą, turi teisę pagal šį įstatymą teikti pirminę teisinę pagalbą.
+1. Viešosios įstaigos, sudariusios sutartis dėl pirminės teisinės pagalbos teikimo su savivaldybės institucija ar tarnyba, kai šio įstatymo 15 straipsnio 8 dalyje numatytu atveju tarnyba organizuoja pirminės teisinės pagalbos teikimą, turi teisę pagal šį įstatymą teikti pirminę teisinę pagalbą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -1069,7 +1050,7 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 17 straipsnis. Sutarčių dėl antrinės teisinės pagalbos teikimo sudarymas ir užmokestis už antrinės teisinės pagalbos teikimą
 
 
-1. Siekdamos užtikrinti nuolatinę antrinę teisinę pagalbą, tarnybos sudaro atskiras sutartis dėl antrinės teisinės pagalbos teikimo:
+1. Siekdama užtikrinti nuolatinę antrinę teisinę pagalbą, tarnyba sudaro atskiras sutartis dėl antrinės teisinės pagalbos teikimo:
 
 
 1) su advokatais, kurie nuolat teikia antrinę teisinę pagalbą tik asmenims, turintiems teisę ją gauti;
@@ -1077,14 +1058,20 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 
 
 
-2) su advokatais, kurie prireikus teikia antrinę teisinę pagalbą.
+2) su advokatais, kurie prireikus teikia antrinę teisinę pagalbą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
 
-
-
-2. Tarnybos sudaro du atskirus antrinę teisinę pagalbą teikiančių advokatų sąrašus pagal šio straipsnio 1 dalį. Šiuose sąrašuose turi būti nurodyta, kokiose teisės srityse advokatai teikia antrinę teisinę pagalbą. Antrinę teisinę pagalbą teikiančių advokatų sąrašai pateikiami Lietuvos advokatūrai.
+2. Tarnyba sudaro du atskirus antrinę teisinę pagalbą teikiančių advokatų sąrašus pagal šio straipsnio 1 dalį. Šiuose sąrašuose turi būti nurodyta, kokiose teisės srityse advokatai teikia antrinę teisinę pagalbą. Antrinę teisinę pagalbą teikiančių advokatų sąrašai pateikiami Lietuvos advokatūrai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -1099,7 +1086,10 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 
 
 
-5. Šio straipsnio 1 dalies 1 punkte nurodytiems advokatams, jeigu sutartyje dėl antrinės teisinės pagalbos teikimo nenumatyta kitaip, tarnybos neatlygintinai užtikrina darbo vietą tarnybos patalpose ir sudaro sąlygas naudotis kitu turtu, būtinu antrinei teisinei pagalbai teikti.
+5. Šio straipsnio 1 dalies 1 punkte nurodytiems advokatams, jeigu sutartyje dėl antrinės teisinės pagalbos teikimo nenumatyta kitaip, tarnyba neatlygintinai užtikrina darbo vietą tarnybos patalpose ir sudaro sąlygas naudotis kitu turtu, būtinu antrinei teisinei pagalbai teikti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -1130,12 +1120,18 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 
 
 
-2. Sprendimus dėl antrinės teisinės pagalbos teikimo priima tarnybos. Sprendimas dėl antrinės teisinės pagalbos teikimo priimamas iš karto, kai asmuo kreipiasi. Jeigu nėra galimybės sprendimą dėl antrinės teisinės pagalbos teikimo priimti iš karto, jis priimamas ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 13 dalyje nurodytos informacijos gavimo dienos. Apie priimtą sprendimą dėl antrinės teisinės pagalbos teikimo tarnyba nedelsdama raštu praneša pareiškėjui. Jeigu pareiškėjas nepateikė visų šio straipsnio 1 dalyje nurodytų dokumentų, reikalingų sprendimui dėl antrinės teisinės pagalbos teikimo priimti, tarnyba ne vėliau kaip per 5 darbo dienas nuo prašymo suteikti antrinę teisinę pagalbą gavimo dienos praneša pareiškėjui apie būtinybę per tarnybos nustatytą terminą, kuris turi būti ne trumpesnis kaip 5 darbo dienos, pateikti trūkstamus dokumentus. Jeigu pagal prašyme suteikti antrinę teisinę pagalbą pateiktą informaciją sprendimas dėl antrinės teisinės pagalbos teikimo, atsižvelgiant į pareiškėjo interesus, turi būti priimtas skubiai, tarnyba gali nustatyti trumpesnį kaip 5 darbo dienų terminą trūkstamiems dokumentams pateikti. Tarnybos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka. 
+2. Sprendimus dėl antrinės teisinės pagalbos teikimo priima tarnyba. Sprendimas dėl antrinės teisinės pagalbos teikimo priimamas iš karto, kai asmuo kreipiasi. Jeigu nėra galimybės sprendimą dėl antrinės teisinės pagalbos teikimo priimti iš karto, jis priimamas ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 13 dalyje nurodytos informacijos gavimo dienos. Apie priimtą sprendimą dėl antrinės teisinės pagalbos teikimo tarnyba nedelsdama raštu praneša pareiškėjui. Jeigu pareiškėjas nepateikė visų šio straipsnio 1 dalyje nurodytų dokumentų, reikalingų sprendimui dėl antrinės teisinės pagalbos teikimo priimti, tarnyba ne vėliau kaip per 5 darbo dienas nuo prašymo suteikti antrinę teisinę pagalbą gavimo dienos praneša pareiškėjui apie būtinybę per tarnybos nustatytą terminą, kuris turi būti ne trumpesnis kaip 5 darbo dienos, pateikti trūkstamus dokumentus. Jeigu pagal prašyme suteikti antrinę teisinę pagalbą pateiktą informaciją sprendimas dėl antrinės teisinės pagalbos teikimo, atsižvelgiant į pareiškėjo interesus, turi būti priimtas skubiai, tarnyba gali nustatyti trumpesnį kaip 5 darbo dienų terminą trūkstamiems dokumentams pateikti. Tarnybos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
 
-3. Sprendimą dėl antrinės teisinės pagalbos teikimo byloje, kurios ginčo dalykas – tarnybos sprendimas dėl antrinės teisinės pagalbos teikimo, teisingumo ministro nustatyta tvarka priima kita tarnyba.
+3. Neteko galios nuo 2015-07-01
+Straipsnio dalies naikinimas:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -1297,7 +1293,10 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 
 
 
-2. Kelionės išlaidas, kurias turi apmokėti pareiškėjas tais atvejais, kai įstatymuose nustatyta arba teismas pripažįsta, kad pareiškėjo dalyvavimas būtinas, apmoka tarnybos iš tam skirtų valstybės biudžeto lėšų.
+2. Kelionės išlaidas, kurias turi apmokėti pareiškėjas tais atvejais, kai įstatymuose nustatyta arba teismas pripažįsta, kad pareiškėjo dalyvavimas būtinas, apmoka tarnyba iš tam skirtų valstybės biudžeto lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -1451,7 +1450,10 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 
 
-2. Antrinę teisinę pagalbą teikiantis advokatas privalo nedelsdamas pranešti tarnybai arba ikiteisminio tyrimo pareigūnui, prokurorui ar teismui (kai gynėjo dalyvavimas būtinas pagal Baudžiamojo proceso kodekso 51 straipsnį) apie paaiškėjusias šio straipsnio 1 dalyje nurodytas aplinkybes, kurios yra pagrindas spręsti dėl antrinės teisinės pagalbos teikimo nutraukimo. Šios pareigos neatlikusiam advokatui gali būti mažinamas arba nemokamas užmokestis už antrinės teisinės pagalbos teikimą ir toks advokatas privalo atlyginti dėl šioje dalyje nurodytos pareigos neatlikimo arba netinkamo atlikimo atsiradusius nuostolius.
+2. Antrinę teisinę pagalbą teikiantis advokatas privalo nedelsdamas pranešti tarnybai arba ikiteisminio tyrimo pareigūnui, prokurorui ar teismui (kai gynėjo dalyvavimas būtinas pagal Baudžiamojo proceso kodekso 51 straipsnį) apie paaiškėjusias šio straipsnio 1 dalies 5, 8, 9 ir 12 punktuose nurodytas aplinkybes, kurios yra pagrindas spręsti dėl antrinės teisinės pagalbos teikimo nutraukimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+ 
 
 
 
@@ -1919,3 +1921,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12, 13, 14, 21 ir 24 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 5, 7, 8, 9, 16, 17, 18, 20 ir 23 straipsnių pakeitimo įstatymas
