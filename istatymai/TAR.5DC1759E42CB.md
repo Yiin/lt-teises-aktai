@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-04-03 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-07-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -2404,7 +2404,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 29 straipsnis. Motorinių transporto priemonių ir priekabų privalomoji techninė apžiūra ir techninė ekspertizė
 
 
-1. Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų valdytojai privalo šias transporto priemones pateikti periodinei privalomajai techninei apžiūrai.
+1. Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų valdytojai privalo šias transporto priemones pateikti privalomajai techninei apžiūrai susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka. Europos ekonominės erdvės šalyse atlikta Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų privalomoji techninė apžiūra pripažįstama galiojančia susisiekimo ministro ar jo įgaliotos institucijos nustatytomis sąlygomis ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1679, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07663
+ 
 
 
 
@@ -2419,7 +2422,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-4. Privalomąsias technines apžiūras ir technines ekspertizes atlieka įmonės, kurioms suteikta teisė verstis šia veikla. Privalomąsias technines apžiūras atliekančios įmonės turi būti akredituotos kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Bendrieji įvairių tipų kontrolės įstaigų veikimo kriterijai“.
+4. Privalomąsias technines apžiūras ir technines ekspertizes atlieka įmonės, kurioms suteikta teisė verstis šia veikla. Privalomąsias technines apžiūras atliekančios įmonės turi būti akredituotos kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“.
+Straipsnio dalies pakeitimai:
+Nr. XII-1679, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07663
+ 
 
 
 
@@ -2825,3 +2831,8 @@ Dėl Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 25 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10 ir 17 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1679, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07663
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 29 straipsnio pakeitimo įstatymas
