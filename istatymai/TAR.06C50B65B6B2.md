@@ -13,23 +13,28 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
  
-LIETUVOS RESPUBLIKOS  ŽALOS, ATSIRADUSIOS DĖL VALDŽIOS INSTITUCIJŲ NETEISĖTŲ VEIKSMŲ, ATLYGINIMO IR ATSTOVAVIMO VALSTYBEI  ĮSTATYMAS   
+LIETUVOS RESPUBLIKOS  ŽALOS, ATSIRADUSIOS DĖL VALDŽIOS INSTITUCIJŲ NETEISĖTŲ VEIKSMŲ, ATLYGINIMO IR ATSTOVAVIMO VALSTYBEI IR  LIETUVOS  RESPUBLIKOS VYRIAUSYBEI   ĮSTATYMAS   
 2002 m. gegužės 21 d. Nr. IX-895
 Vilnius
  
 Pakeistas teisės akto pavadinimas:
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+Pakeistas teisės akto pavadinimas:
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato asignavimų žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti naudojimą, žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimą ne teismo tvarka, Europos žmogaus teisių teismo ir Jungtinių Tautų Žmogaus teisių komiteto bei kitų tarptautinių institucijų, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika (toliau – tarptautinės institucijos), sprendimų vykdymą, taip pat valstybės regreso (atgręžtinio reikalavimo) teisės į žalą padariusį asmenį įgyvendinimo tvarką ir atstovavimą valstybei.
+1. Šis įstatymas nustato asignavimų žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti naudojimą, žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimą ne teismo tvarka, Europos Žmogaus Teisių Teismo ir Jungtinių Tautų Žmogaus teisių komiteto bei kitų tarptautinių institucijų, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika (toliau – tarptautinės institucijos), sprendimų vykdymą, taip pat valstybės regreso (atgręžtinio reikalavimo) teisės į žalą padariusį asmenį įgyvendinimo tvarką ir atstovavimą valstybei ir Lietuvos Respublikos Vyriausybei.
+Straipsnio dalies pakeitimai:
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+ 
 
 
 
@@ -38,6 +43,7 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 
 Straipsnio pakeitimai:
+Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
  
 
@@ -68,7 +74,10 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 
 
-3) Europos žmogaus teisių teismo sprendimus ir šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė;
+3) Europos Žmogaus Teisių Teismo sprendimus ir šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+ 
 
 
 
@@ -101,7 +110,10 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 
 
-4. Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus teisių teisme, gavęs Europos žmogaus teisių teismo sprendimus dėl žalos atlyginimo arba šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė, nedelsdamas juos pateikia Teisingumo ministerijai. Europos žmogaus teisių teismo sprendimas arba šalių taikus susitarimas, kuriam preliminariai pritarė Lietuvos Respublikos Vyriausybė, turi būti įvykdytas tarptautinės teisės aktų nustatytais terminais.
+4. Lietuvos Respublikos Vyriausybės atstovas Europos Žmogaus Teisių Teisme, gavęs Europos Žmogaus Teisių Teismo sprendimus dėl žalos atlyginimo arba šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė, nedelsdamas juos pateikia Teisingumo ministerijai. Europos Žmogaus Teisių Teismo sprendimas arba šalių taikus susitarimas, kuriam preliminariai pritarė Lietuvos Respublikos Vyriausybė, turi būti įvykdytas tarptautinės teisės aktų nustatytais terminais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+ 
 
 
 
@@ -111,16 +123,16 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 
 
-6. Vykdant šio straipsnio 2 dalyje nurodytus dokumentus, lėšos iš šio straipsnio 1 dalyje numatytų asignavimų pervedamos į asmens nurodytą sąskaitą banke arba jo pageidavimu išmokamos grynais pinigais. Dėl šio straipsnio 2 dalyje nurodytų dokumentų priverstinio vykdymo asmuo gali kreiptis, jeigu Teisingumo ministerija pagal asmens prašymą lėšas pervesti į nurodytą sąskaitą banke arba išmokėti grynais pinigais šių dokumentų neįvykdė per šio straipsnio 3–5 dalyse nustatytus terminus. 
+6. Vykdant šio straipsnio 2 dalyje nurodytus dokumentus, lėšos iš šio straipsnio 1 dalyje numatytų asignavimų pervedamos į žalą patyrusio asmens asmeninę mokėjimo sąskaitą. Jeigu žalą patyręs asmuo yra suimtas ar atlieka laisvės atėmimo bausmę, lėšos gali būti pervedamos į laisvės atėmimo vietos įstaigos administruojamą šio asmens asmeninę sąskaitą. Dėl šio straipsnio 2 dalyje nurodytų dokumentų priverstinio vykdymo asmuo gali kreiptis, jeigu Teisingumo ministerija pagal asmens prašymą lėšas pervesti į jo asmeninę mokėjimo sąskaitą arba laisvės atėmimo vietos įstaigos administruojamą jo asmeninę sąskaitą šių dokumentų neįvykdė per šio straipsnio 3, 4 ir 5 dalyse nustatytus terminus.
 Straipsnio dalies pakeitimai:
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
  
 
 
 
 
 7. Žalos dalis, iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto neišmokėta dėl neteisėtų Valstybinio socialinio draudimo fondo administravimo įstaigų ar Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos, teritorinių ligonių kasų veiksmų (sprendimų), iš šio įstatymo 2 straipsnio 1 dalyje numatytų asignavimų neatlyginama. Šios lėšos išmokamos atitinkamai iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto. Iš šio įstatymo 2 straipsnio 1 dalyje numatytų asignavimų atlyginama žalos dalis, viršijanti iš Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto dėl neteisėtų veiksmų (sprendimų) išmokėtąją. 
-TAR pastaba. Dalis taikoma, jeigu žala padaryta po įstatymo Nr. X-370 įsigaliojimo (2005-10-27).
 Papildyta straipsnio dalimi:
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
  
@@ -321,7 +333,6 @@ Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
 
 
 1. Valstybė, atlyginusi dėl ikiteisminio tyrimo pareigūno, prokuratūros ar teismo pareigūno, teisėjo tyčinių veiksmų (aktų), o kitų valdžios institucijų pareigūnų, valstybės tarnautojų ar kitų darbuotojų kaltų veiksmų (aktų) atsiradusią žalą, įgyja regreso (atgręžtinio reikalavimo) teisę teismo tvarka išieškoti iš šių asmenų tiek, kiek ji sumokėjo, bet ne daugiau kaip 9 vidutinius jų darbo užmokesčius, jeigu kiti įstatymai nenustato kitaip. 
-TAR pastaba. Dalis taikoma, jeigu regreso (atgręžtinio reikalavimo) teisė atsirado po įstatymo Nr. X-370 įsigaliojimo (2005-10-27).
 Straipsnio dalies pakeitimai:
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
  
@@ -355,30 +366,25 @@ Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010IST
 
 
 
-51 straipsnis. Atstovavimas valstybei 
+51 straipsnis. Atstovavimas valstybei ir Lietuvos Respublikos Vyriausybei
 
 
-1. Valstybei teisme, arbitraže atstovauja Lietuvos Respublikos Vyriausybė, išskyrus šio straipsnio ir kitų įstatymų numatytus atvejus, kai valstybei teisme atstovauja Lietuvos Respublikos Vyriausybės įgaliota ar kita įstatymų nustatyta institucija. 
-
-
-
-
-2. Bylose, iškeltose dėl sutartinių santykių, valstybei teisme, arbitraže atstovauja sutartį pasirašiusi institucija. Jeigu ši institucija likviduota ar reorganizuota, valstybei atstovauja šios institucijos teisių perėmėjas, o kai jo nėra, – Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+1. Valstybei teisme, arbitraže atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga), įstatymų nustatytais atvejais – kita institucija. Lietuvos Respublikos Vyriausybei teisme, arbitraže atstovauja jos įgaliota valstybės institucija (įstaiga). Atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei teismuose taisykles nustato Lietuvos Respublikos Vyriausybė. 
 
 
 
 
-3. Europos Bendrijų Teisingumo Teisme, Europos Bendrijų pirmosios instancijos teisme, specializuotuose teismuose ar prie Pirmosios instancijos teismo steigiamose kolegijose ir Europos laisvosios prekybos asociacijos teisme Lietuvos valstybei atstovauja Europos teisės departamentas prie Lietuvos Respublikos teisingumo ministerijos. Europos žmogaus teisių teisme, Jungtinių Tautų Žmogaus teisių komitete nagrinėjant bylas prieš Lietuvos Respubliką valstybei atstovauja Lietuvos Respublikos Vyriausybės atstovas Europos žmogaus teisių teisme.
+2. Bylose, iškeltose dėl sutartinių santykių, valstybei teisme, arbitraže atstovauja sutartį pasirašiusi institucija. Jeigu ši institucija likviduota ar reorganizuota, valstybei atstovauja šios institucijos teisių ir (ar) funkcijų perėmėjas, o kai jo nėra, – Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
 
 
 
 
-4. Šio straipsnio 2 dalyje nenumatytais atvejais teisme, arbitraže valstybei atstovauja institucija, priėmusi ginčijamą sprendimą arba atlikusi ginčijamą veiksmą, arba institucija, kurios neveikimas yra ginčijamas. Jeigu institucija likviduota ar reorganizuota, valstybei atstovauja šios institucijos teisių perėmėjas, o kai jo nėra, – šio straipsnio 1 dalyje numatyta institucija. 
+3. Europos Sąjungos Teisingumo Teisme ir Europos laisvosios prekybos asociacijos teisme Lietuvos valstybei atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga). Europos Žmogaus Teisių Teisme, Jungtinių Tautų Žmogaus teisių komitete nagrinėjant bylas prieš Lietuvos Respubliką valstybei atstovauja Lietuvos Respublikos Vyriausybės atstovas Europos Žmogaus Teisių Teisme.
 
 
 
 
-5. Atstovaujant valstybei, laikomasi šių principų:
+4. Atstovaujant valstybei, laikomasi šių principų:
 
 
 1) valstybės interesų gynimo efektyvumo – t. y. sprendimais, susijusiais su atstovavimu valstybei, turi būti siekiama maksimalios naudos valstybei;
@@ -393,17 +399,16 @@ Nr. IX-1437, 2003-04-03, Žin., 2003, Nr. 38-1682 (2003-04-24), i. k. 1031010IST
 
 
 
-6. Atstovaujant valstybei, gali būti pasitelkiami advokatai (kiti teisininkai, bylos nagrinėjimo valstybėje turintys teisę teikti teisines paslaugas), jeigu byla yra sudėtinga, reikia specialių žinių, patyrimo, užsienio valstybių teisės žinių arba kitais atvejais, kai tai yra būtina tinkamam ir efektyviam valstybės interesų gynimui. 
+5. Atstovaujant valstybei ir (arba) Lietuvos Respublikos Vyriausybei, gali būti pasitelkiami advokatai (kiti teisininkai, bylos nagrinėjimo valstybėje turintys teisę teikti teisines paslaugas), jeigu byla yra sudėtinga, reikia specialių žinių, patyrimo, užsienio valstybių teisės žinių arba kitais atvejais, kai tai yra būtina tinkamam ir efektyviam valstybės ir (arba) Lietuvos Respublikos Vyriausybės interesų gynimui. 
 
 
 
 
-7. Šis straipsnis taikomas ir tais atvejais, kai siekiama ginčus išspręsti kitose ginčų sprendimo institucijose ar derybų būdu, taip pat vykdymo proceso metu, jeigu išieškoma iš valstybės biudžeto.
-TAR pastaba. Straipsnis taikomas ginčams, pradėtiems spręsti po įstatymo Nr. X-370 įsigaliojimo (2005-10-27).
+6. Šis straipsnis taikomas ir tais atvejais, kai siekiama ginčus išspręsti kitose ginčų sprendimo institucijose ar derybų būdu, taip pat vykdymo proceso metu, jeigu išieškoma iš valstybės biudžeto.
 
 
-Papildyta straipsniu:
-Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+Straipsnio pakeitimai:
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
  
 
 
@@ -488,17 +493,20 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 Lietuvos Respublikos
-žalos, atsiradusios dėl
-valdžios institucijų neteisėtų
-veiksmų, atlyginimo ir
-atstovavimo valstybei
-įstatymo priedas
+žalos, atsiradusios dėl valdžios
+institucijų neteisėtų veiksmų, 
+atlyginimo ir atstovavimo valstybei
+ir Lietuvos Respublikos 
+Vyriausybei įstatymo 
+priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 2002 m. birželio 13 d. Tarybos pagrindų sprendimas (2002/465/TVR) dėl bendrų tyrimo grupių.
 Papildyta priedu:
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+Priedo pakeitimai:
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
  
  
  
@@ -523,3 +531,8 @@ Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėt�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatymo Nr. IX-895 4 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatymo Nr. IX-895 pavadinimo, 1, 2, 5-1 straipsnių ir priedo pakeitimo įstatymas
