@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2014-12-16 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -1224,6 +1224,9 @@ BIUDŽETŲ VYKDYMAS
 
 
 3. Baudos už administracinius teisės pažeidimus įskaitomos į tą biudžetą, iš kurio išlaikoma institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio teisės pažeidimo protokolą arba skyrė baudą, išskyrus kituose įstatymuose nustatytus atvejus. Tokių baudų ir kitų iš valstybės ar savivaldybių biudžetų neišlaikomų subjektų paskirtų baudų už administracinius teisės pažeidimus įskaitymo ir paskirstymo tvarką nustato Vyriausybė ar jos įgaliota institucija. Tais atvejais, kai administracinis teisės pažeidimas yra užfiksuotas iš savivaldybės biudžeto išlaikomomis arba eksploatuojamomis stacionariomis ar mobiliosiomis teisės pažeidimo fiksavimo sistemomis, bauda už administracinį teisės pažeidimą įskaitoma taip: 50 procentų įskaitoma į savivaldybės biudžetą, 50 procentų – į valstybės biudžetą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1513, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21279
+ 
 
 
 Straipsnio pakeitimai:
@@ -1899,3 +1902,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 32 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3 ir 14 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1513, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21279
+Lietuvos Respublikos biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstatymo Nr. XII-604 2 straipsnio pakeitimo įstatymas
