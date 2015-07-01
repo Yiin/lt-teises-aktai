@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-06-30
+Suvestinė redakcija nuo 2015-07-01 iki 2015-09-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -923,23 +923,25 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-20 straipsnis. Pareiga skelbti oficialius valstybės pranešimus
+20 straipsnis. Pareiga skelbti perspėjimo pranešimus
 
 
-1. Gaivalinių nelaimių, didelių avarijų ar epidemijų, karo ar nepaprastosios padėties atveju viešosios informacijos rengėjai ir skleidėjai turi įstatymų ir (ar) Vyriausybės nustatytais atvejais ir tvarka nemokamai ir operatyviai skelbti oficialius valstybės pranešimus.
-
-
-
-
-2. Seimas karo ar nepaprastosios padėties atveju įstatymu gali nustatyti viešosios informacijos rengėjų ir skleidėjų veiklos ribojimus ir (ar) kitas prievoles, būtinas piliečių ir visuomenės interesų apsaugai.
+1. Gresiančios ar susidariusios ekstremaliosios situacijos metu, paskelbus mobilizaciją, karo ar nepaprastosios padėties, kitais įstatymų nustatytais atvejais viešosios informacijos rengėjai ir (ar) skleidėjai turi nedelsdami nemokamai skelbti valstybės ir savivaldybių institucijų ir įstaigų perspėjimo pranešimus arba sudaryti galimybes valstybės ir savivaldybių institucijoms ir įstaigoms nemokamai perspėjimo pranešimus skelbti tiesioginiame eteryje. Sprendimus dėl perspėjimo pranešimų skelbimo nacionalinio masto viešosios informacijos skleidėjuose ir (ar) rengėjuose Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus nustatyta tvarka priima Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos, regioniniuose viešosios informacijos rengėjuose ir (ar) skleidėjuose – savivaldybės administracijos direktorius.
 
 
 
 
-3. Už atsisakymą skelbti šio straipsnio 1 dalyje nurodytais atvejais oficialius valstybės pranešimus atsakoma įstatymų nustatyta tvarka.
+2. Seimas karo ar nepaprastosios padėties atveju įstatymu gali nustatyti viešosios informacijos rengėjų ir (ar) skleidėjų veiklos ribojimus ir (ar) kitas prievoles, būtinas piliečių ir visuomenės interesų apsaugai.
+
+
+
+
+3. Už atsisakymą šio straipsnio 1 dalyje nurodytais atvejais skelbti valstybės ir savivaldybių institucijų ir įstaigų perspėjimo pranešimus arba sudaryti galimybes valstybės ir savivaldybių institucijoms ir įstaigoms perspėjimo pranešimus skelbti tiesiogiai atsakoma įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1804, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10151
  
-
-
 
 
 
@@ -3891,3 +3893,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 48 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1489, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21244
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1804, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10151
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 20 straipsnio pakeitimo įstatymas
