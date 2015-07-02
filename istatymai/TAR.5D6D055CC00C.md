@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2015-05-16 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2015-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -58,57 +58,57 @@ Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Miškas – ne mažesnis kaip 0,1 hektaro žemės plotas, apaugęs medžiais, kurių aukštis natūralioje augavietėje brandos amžiuje siekia ne mažiau kaip 5 metrus, kita miško augalija, taip pat išretėjęs ar dėl žmogaus veiklos ir gamtinių veiksnių netekęs augalijos (kirtavietės, degavietės, aikštės). Laukuose, pakelėse, prie vandens telkinių, gyvenamosiose vietovėse ir kapinėse esančios medžių grupės, kelio juostose ar geležinkelių želdinių apsaugos zonose įveisti želdiniai, siauros – iki 10 metrų pločio – medžių juostos, gyvatvorės, pavieniai medžiai ir krūmai bei miestuose ir kaimo vietovėse ne miškų ūkio paskirties žemėje esantys žmogaus įveisti želdynai nelaikomi mišku. Šių želdinių priežiūrą, apsaugą ir naudojimą reglamentuoja Želdynų įstatymas.
+1. Atrankinis pagrindinis miško kirtimas – pagrindinis miško kirtimas, kai iškertama dalis tam tikro amžiaus, kokybės, matmenų ar būklės medyno medžių, siekiant išlaikyti arba sukurti įvairiaamžį medyną.
 
 
 
 
-2. Medynas – miško dalis, kurioje sumedėjusios augalijos ardų sandara yra vienoda, vyrauja tam tikra medžių rūšis, augalija yra panašaus amžiaus, turi bendrą augavietę ir ši miško dalis šiais rodikliais skiriasi nuo gretimų miško dalių.
+2. Atvejinis pagrindinis miško kirtimas – pagrindinis miško kirtimas, kai brandus medynas iškertamas per kelis kartus kas 5 ar daugiau metų.
 
 
 
 
-3. Miško žemė – apaugęs mišku (medynai) ir neapaugęs mišku (kirtavietės, žuvę medynai, miško aikštės, medelynai, daigynai, miško sėklinės plantacijos ir žaliaviniai krūmynai bei plantacijos) plotas. Miško žemei taip pat priskiriami tame pačiame plote esantys miško keliai, kvartalų, technologinės ir priešgaisrinės linijos, medienos sandėlių bei kitų su mišku susijusių įrenginių užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės, taip pat žemė, skirta miškui įveisti.
+3. Biržė – miško kirtimui atrėžtas arba kertamas medynų plotas.
 
 
 
 
-4. Miškų grupė – miško žemės plotai, kuriuose panašūs pagrindiniai ūkininkavimo tikslai ir ūkininkavimo režimas. 
+4. Generalinė miškų urėdija prie Aplinkos ministerijos – valstybinių miškų, priskirtų miškų urėdijoms, ūkinio valdymo institucija, organizuojanti ir koordinuojanti šių miškų atkūrimą, priežiūrą, apsaugą ir miško išteklių naudojimą.
 
 
 
 
-5. Miestų miškai – miestų teritorijose esantys miškai.
+5. Kompleksinė miškų ūkio veikla – veikla, apimanti miškų atkūrimą, priežiūrą, apsaugą, racionalų miškų išteklių naudojimą, prekybą mediena ir miško ištekliais.
 
 
 
 
-6. Miško parkai – intensyviai rekreacijai naudojami ne mažesnio kaip 3 hektarų ploto miškai su atitinkama rekreacine įranga bei infrastruktūra. 
+6. Medynas – miško dalis, kurioje sumedėjusios augalijos ardų sandara yra vienoda, vyrauja tam tikra medžių rūšis, augalija yra panašaus amžiaus, turi bendrą augavietę ir ši miško dalis šiais rodikliais skiriasi nuo gretimų miško dalių.
 
 
 
 
-7. Miško ištekliai – nenukirstas miškas, sakai, kelmai ir dervuoliai, medžių žievė, karnos ir tošis, medžių sula, kalėdiniai medeliai, kitos dekoratyvinės miško medžiagos, šakelės, vytelės, grybai, riešutai, uogos, vaisiai, vaistažolės ir vaistinės žaliavos, miško paklotė ir lapai bei miško augalija.
+7. Miesto miškas – miesto teritorijoje esantis miškas.
 
 
 
 
-8. Nenukirstas miškas – augantys medžiai, sausuoliai, vėjavartos, vėjalaužos ir kita nenukirsta sumedėjusi miško augalija.
+8. Miškas – ne mažesnis kaip 0,1 hektaro žemės plotas, apaugęs medžiais, kurių skalsumas ne mažesnis kaip 0,3 ir kurių aukštis natūralioje augavietėje brandos amžiuje siekia ne mažiau kaip 5 metrus, ir kita miško augalija, taip pat ne mažesnis kaip 0,1 hektaro žemės plotas, kuriame medynas išretėjęs ar dėl žmonių veiklos ar gamtinių veiksnių jame laikinai medžių nėra (želdintinos miško aikštės, kirtavietės, žuvę medynai). Mišku nelaikomos laukuose, pakelėse, prie vandens telkinių, gyvenamosiose vietovėse ir kapinėse esančios medžių grupės, kelio juostose įveisti želdiniai, viešosios geležinkelių infrastruktūros valdytojo patikėjimo teise valdomuose ne miškų ūkio paskirties žemės sklypuose augantys medžiai ir krūmai, siauros – iki 10 metrų pločio – medžių juostos, gyvatvorės, pavieniai medžiai ir krūmai, taip pat miestuose ir kaimo vietovėse ne miškų ūkio paskirties žemėje įveisti želdynai. Šių želdinių priežiūrą, apsaugą ir naudojimą reglamentuoja Lietuvos Respublikos želdynų įstatymas.
 
 
 
 
-9. Miško valda – nuosavybės teise valdomas miškų ūkio paskirties žemės sklypas.
+9. Miškotvarka – miškų ūkio planavimo sistema, apimanti miškų inventorizaciją ir apskaitą, miškų būklės, naudojimo ir ūkinės veiklos analizę, miškų ūkio organizavimo ir plėtros projektų rengimą.
 
 
 
 
-10. Miško savininkai – valstybė, fiziniai ir juridiniai asmenys bei užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, įstatymų nustatyta tvarka įgiję nuosavybės teisę į miškus.
+10. Miško ištekliai – nenukirstas miškas, sakai, kelmai ir dervuoliai, medžių žievė, karnos ir tošis, medžių sula, kalėdiniai medeliai, kitos dekoratyvinės miško medžiagos, šakelės, vytelės, grybai, riešutai, uogos, vaisiai, vaistažolės ir vaistinė žaliava, miško paklotė, lapai ir miško augalija.
 
 
 
 
-11. Miško valdytojai – miško savininkai; miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, valstybės įmonės bei organizacijos, valdančios patikėjimo teise įstatymų nustatyta tvarka joms Vyriausybės nutarimais perduotą valstybinėms funkcijoms įgyvendinti valstybinę miško žemę; kiti fiziniai ar juridiniai asmenys; užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, teisėtai įgijusios privačios miško žemės valdymo teisę.
+11. Miško medelynas – iš vieno ar daugiau žemės sklypų sudarytas plotas, kuriame atvirame grunte ir (ar) šiltnamiuose auginami miško sodmenys ir įrengta jiems auginti reikalinga infrastruktūra – komposto ruošimo vieta, laistymo sistema ir (ar) vandens telkinys, keliai, miško sodmenų rūšiavimo ir laikymo patalpos.
 
 
 
@@ -118,27 +118,87 @@ Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
 
 
 
-13. Valstybiniai miškų pareigūnai (vyriausieji valstybiniai miškų pareigūnai, vyresnieji valstybiniai miškų pareigūnai ir valstybiniai miškų pareigūnai) – miškų ūkio valstybinio valdymo, valstybinės miškų kontrolės įstaigų, Generalinės miškų urėdijos prie Aplinkos ministerijos valstybės tarnautojai ir miškų urėdijų miško apsaugos darbuotojai, dirbantys pagal darbo sutartis ir turintys įstatymų nustatytus įgaliojimus. Vyriausiųjų valstybinių miškų pareigūnų, vyresniųjų valstybinių miškų pareigūnų ir valstybinių miškų pareigūnų statusas suteikiamas aplinkos ministro įsakymu.
+13. Miško parkai – intensyviai rekreacijai naudojami ne mažesnio kaip 3 hektarų ploto miškai su atitinkama rekreacine įranga ir infrastruktūra. 
 
 
 
 
-14. Miškų urėdija – valstybės įmonė, patikėjimo teise valdanti, naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvarka, taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose numatytą veiklą.
+14. Miško savininkai – valstybė, fiziniai ir juridiniai asmenys ir užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, įstatymų nustatyta tvarka įgiję nuosavybės teisę į miškus.
 
 
 
 
-15. Generalinė miškų urėdija prie Aplinkos ministerijos – valstybinių miškų, priskirtų miškų urėdijoms, ūkinio valdymo institucija, organizuojanti bei koordinuojanti šių miškų atkūrimą, priežiūrą, apsaugą ir miško išteklių naudojimą.
+15. Miško valda – nuosavybės teise valdomas miškų ūkio paskirties žemės sklypas.
 
 
 
 
-16. Kompleksinė miškų ūkio veikla – veikla, apimanti miškų atkūrimą, priežiūrą, apsaugą, racionalų miškų išteklių naudojimą ir prekybą mediena bei miško ištekliais.
+16. Miško valdytojas – miško savininkas; miškų urėdija, valstybinio rezervato direkcija, nacionalinio parko direkcija, savivaldybė, valstybės įmonė ar kitas juridinis asmuo, valdantis patikėjimo teise įstatymų nustatyta tvarka jam Vyriausybės nutarimais perduotą valstybinėms funkcijoms įgyvendinti valstybinę miško žemę; kitas fizinis ar juridinis asmuo, užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus, įgijusi privačios miško žemės valdymo teisę.
 
 
 
 
-17. Miškotvarka – miškų ūkio planavimo sistema, apimanti miškų inventorizaciją ir apskaitą, miškų būklės, naudojimo ir ūkinės veiklos analizę bei miškų ūkio organizavimo ir plėtros projektų rengimą.
+17. Miško žemė – apaugę mišku žemės plotai – medynai, taip pat neapaugę mišku žemės plotai – kirtavietės, žuvę medynai, miško laukymės, miško aikštės, mažosios miško pelkės, miško medelynai, sėklinės miško medžių plantacijos ir klonų rinkiniai, miškui įveisti skirta žemė. Prie miško žemės priskiriami tuose pačiuose plotuose esantys miško keliai, kvartalų, technologiniai proskiebiai ir linijos, priešgaisrinės juostos, medienos sandėlių ir kitų su mišku susijusių įrenginių (griovių, pralaidų, tiltelių, priešgaisrinių bokštų ir kitų) užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės.
+
+
+
+
+18. Miškų grupė – miško žemės plotai, kuriuose panašūs pagrindiniai ūkininkavimo tikslai ir ūkininkavimo režimas. 
+
+
+
+
+19. Miškų urėdija – valstybės įmonė, patikėjimo teise valdanti, naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvarka, taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose numatytą veiklą.
+
+
+
+
+20. Nenukirstas miškas – augantys medžiai, sausuoliai, vėjavartos, vėjalaužos ir kita nenukirsta sumedėjusi miško augalija.
+
+
+
+
+21. Nepriklausomas medienos matuotojas – nenukirsto miško ir (ar) medienos matavimo ir kokybės vertinimo kvalifikaciją įgijęs ir tai liudijantį atestatą turintis fizinis asmuo, kuris pats nesiverčia prekyba mediena, nėra juridinio asmens, besiverčiančio prekyba mediena, dalyvis, valdymo organų narys, atstovas, nėra susijęs su tokiu juridiniu asmeniu darbo, tarnybos santykiais ar jungtine veikla, taip pat nesusijęs su medienos pirkėju ar pardavėju artimos giminystės ryšiais, darbo, tarnybos santykiais ar jungtine veikla.
+
+
+
+
+22. Pagrindinis miško kirtimas – brandžių, bręstančių (retų ar įsiterpusių į kertamus brandžius medynus) medynų ar brandžių medžių kirtimas. Pagrindinio miško kirtimo būdai yra šie: atrankinis, atvejinis ir plynasis.
+
+
+
+
+23. Plynasis pagrindinis miško kirtimas – pagrindinis miško kirtimas, kai biržėje iškertami visi medžiai, išskyrus sėklinius, biologinei įvairovei svarbius medžius, saugomo pomiškio grupes. Po kirtimo likę medžiai nesudaro medyno.
+
+
+
+
+24. Sanitarinis miško kirtimas – miško kirtimas, kai siekiant išvengti ligų ar miško kenkėjų plitimo plynai kertami stichinių nelaimių ar biotinių veiksnių sudarkyti ar žuvę medynai arba neplynai iškertami pažeisti, džiūstantys medžiai ir sausuoliai, vėjavartos ar vėjalaužos.
+
+
+
+
+25. Specialusis miško kirtimas – miško kirtimas, siekiant formuoti kraštovaizdį, atkurti genetiškai vertingas miško medžių populiacijas miško medžių genetiniuose draustiniuose, genetiniuose ir sėkliniuose medynuose, išsaugoti ar atkurti biologinę įvairovę, vykdyti biotechnines priemones, gerinančias natūralias medžiojamųjų gyvūnų gyvenamosios aplinkos sąlygas, rekonstruoti medynus ir krūmynus, taip pat miško ar jo dalies iškirtimas technologinėms ir gamybinėms miškų ūkio reikmėms arba miško iškirtimas, kai miško žemė verčiama kitomis naudmenomis.
+
+
+
+
+26. Ugdomasis miško kirtimas – miško kirtimas nebrandžiame medyne, siekiant išauginti tam tikros rūšinės sudėties ir geros kokybės produktyvų medyną.
+
+
+
+
+27. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+
+
+
+
+28. Valstybiniai miškų pareigūnai (vyriausieji valstybiniai miškų pareigūnai, vyresnieji valstybiniai miškų pareigūnai ir valstybiniai miškų pareigūnai) – miškų ūkio valstybinio valdymo, valstybinės miškų kontrolės įstaigų, Generalinės miškų urėdijos prie Aplinkos ministerijos valstybės tarnautojai ir miškų urėdijų miško apsaugos darbuotojai, dirbantys pagal darbo sutartis ir turintys įstatymų nustatytus įgaliojimus. Vyriausiųjų valstybinių miškų pareigūnų, vyresniųjų valstybinių miškų pareigūnų ir valstybinių miškų pareigūnų statusas suteikiamas Lietuvos Respublikos aplinkos ministro įsakymu.
+
+
+
+
+29. Žaliavinė mediena – miško žemėje nukirstų medžių stiebų mediena, skirta medienos gaminiams ruošti.
 
 
 Straipsnio pakeitimai:
@@ -146,6 +206,8 @@ Nr. IX-1925, 2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
 Nr. X-119, 2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
 Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 Nr. XII-386, 2013-06-18, Žin., 2013, Nr. 73-3651 (2013-07-09)
+Straipsnio pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
  
 
 
@@ -1480,3 +1542,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
 Lietuvos Respublikos miškų įstatymo Nr. I-671 1 ir 7 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
