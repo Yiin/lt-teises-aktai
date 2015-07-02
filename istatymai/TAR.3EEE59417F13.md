@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2016-09-29
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -488,7 +488,6 @@ Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 7. Gyvenamąją vietą būste deklaravusių, tačiau būstą kitur nuomojančių bendrai gyvenančių asmenų arba vieno gyvenančio asmens teisė į kompensacijas deklaruotos gyvenamosios vietos būste nenustatoma.
 
 
- 
 
 
 8. Jeigu daugiabučio namo butų savininkai įgyvendino ar įgyvendina valstybės ir (ar) savivaldybės remiamą daugiabučio namo atnaujinimo (modernizavimo) projektą, jų bendrai gyvenantiems asmenims arba vienam gyvenančiam daugiabučio namo buto savininkui, kurie turi teisę į būsto šildymo išlaidų kompensaciją atnaujinamame (modernizuojamame) bute pagal energijos ar kuro sąnaudų normatyvą būsto naudingajam plotui, bet ne didesniam už šiame įstatyme nustatytą būsto naudingojo ploto normatyvą, šildyti, šildymo ir nešildymo sezono metu Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos jiems tenkančios kiekvieno mėnesio kredito ir palūkanų įmokos per kredito sutartyje nustatytą kredito grąžinimo laikotarpį. Nustatant daugiabučio namo buto savininko ir jo bendrai gyvenančių asmenų arba vieno gyvenančio daugiabučio namo buto savininko teisę į būsto šildymo išlaidų kompensaciją, apmokant jiems tenkančias kiekvieno mėnesio kredito ir palūkanų įmokas, neatsižvelgiama į tame pačiame būste gyvenamąją vietą deklaravusių ne savininkų ir (ar) būstą nuomojančių asmenų bei jų bendrai gyvenančių asmenų arba vienų gyvenančių asmenų teisę į būsto šildymo išlaidų kompensaciją. Dėl daugiabučio namo atnaujinimo (modernizavimo) projekto įgyvendinimo padidėjus atnaujinamo (modernizuojamo) ar atnaujinto (modernizuoto) daugiabučio namo vertei, kredito ir palūkanų apmokėjimas nenutraukiamas.
@@ -911,7 +910,10 @@ PAJAMŲ PINIGINEI SOCIALINEI PARAMAI GAUTI APSKAIČIAVIMAS
 
 
 
-3) pensijos ir (ar) pensijų išmokos, šalpos išmokos (išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir tikslinį priedą);
+3) pensijos ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos (išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir tikslinį priedą);
+Straipsnio punkto pakeitimai:
+Nr. XII-1853, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10599
+ 
 
 
 
@@ -2010,3 +2012,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 4, 8, 10, 12, 17, 21 ir 23 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1853, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10599
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 straipsnio pakeitimo įstatymas
