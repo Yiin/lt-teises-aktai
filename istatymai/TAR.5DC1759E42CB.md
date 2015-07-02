@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2015-12-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -367,8 +367,6 @@ Bendrosios nuostatos
 
 
 57. Specialiųjų transporto priemonių vairuotojų mokymas – Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas specialiųjų transporto priemonių vairuotojų mokymas. 
-57 dalis įsigalioja 2015-07-01.
- 
 
 
 
@@ -2555,8 +2553,10 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 
 
 
-6. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Išlaidos turi būti atlygintos iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.
-Pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo (2007 m. lapkričio 22 d. redakcija; Žin., 2007, Nr. 128-5213) 33 straipsnio 6 dalies nuostata „Išlaidos turi būti atlygintos iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės“ tiek, kiek ja nesudaryta galimybė susigrąžinti transporto priemonę adekvačiai užtikrinus prievolės atlyginti išlaidas įvykdymą, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1, 2 dalims, konstituciniam teisinės valstybės principui.
+6. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Šios išlaidos atlyginamos arba adekvatus prievolės atlyginti išlaidas įvykdymo užtikrinimas Civiliniame kodekse nustatytais būdais ir tvarka pateikiamas iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.
+Straipsnio dalies pakeitimai:
+Nr. XII-1849, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10594
+ 
 
 
 Straipsnio pakeitimai:
@@ -2836,3 +2836,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1679, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07663
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 29 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1849, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10594
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 33 straipsnio pakeitimo įstatymas
