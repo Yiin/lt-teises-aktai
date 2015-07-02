@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-01
+Suvestinė redakcija nuo 2015-07-02 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -4063,6 +4063,14 @@ Nr. XI-1465, 2011-06-20, Žin., 2011, Nr. 78-3802 (2011-06-30)
 
 
 
+8) avarinės būklės pastatams, kurių atnaujinimas sąnaudų atžvilgiu, skaičiuojant per apytikrį avarinės būklės pastatų ekonominio gyvavimo ciklą, būtų nenaudingas.
+Papildyta straipsnio punktu:
+Nr. XII-1842, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10588
+ 
+
+
+
+
 
 
 3. Pastatų energinio naudingumo sertifikavimas privalomas:
@@ -4943,3 +4951,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1194, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14136
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 46, 47, 48, 49, 50, 51, 52, 53, 54, 54-1 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1842, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10588
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 43-1 straipsnio pakeitimo įstatymas
