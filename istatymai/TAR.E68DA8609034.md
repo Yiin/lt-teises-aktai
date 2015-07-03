@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
+Suvestinė redakcija nuo 2015-07-03 iki 2015-12-03
+ 
+Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PROFESIONALIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VALDYMO ĮMONIŲ 
 ĮSTATYMAS
@@ -388,7 +395,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-34. Profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonės priimančioji valstybė narė – valstybė narė, kurioje valdomi profesionaliesiems investuotojams skirti kolektyvinio investavimo subjektai arba kurioje platinami šių kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos, bet kuri nėra valdymo įmonės buveinės valstybė narė, o tais atvejais, kai valdymo įmonė nėra įsteigta Europos Sąjungoje ar Europos ekonominėje erdvėje, – valstybė narė, kuri nėra referencinė valstybė narė.
+34. Profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonės priimančioji valstybė narė – valstybė narė, kurioje valdomi profesionaliesiems investuotojams skirti kolektyvinio investavimo subjektai, platinami šių subjektų investiciniai vienetai ar akcijos arba teikiamos šio įstatymo 5 straipsnio 2 dalies 4 ir 5 punktuose nurodytos paslaugos, bet kuri nėra valdymo įmonės buveinės valstybė narė, o tais atvejais, kai valdymo įmonė nėra įsteigta Europos Sąjungoje ar Europos ekonominėje erdvėje, – valstybė narė, kuri nėra referencinė valstybė narė. 
 
 
 
@@ -2511,7 +2518,6 @@ LIETUVOS RESPUBLIKOJE LICENCIJĄ GAVUSIŲ VALDYMO ĮMONIŲ TEISĖ VALDYTI KOLEKT
 
 5. Priežiūros institucija užtikrina galimybę priimti šio straipsnio 1 dalyje nurodytą informaciją elektronine forma.
  
- 
 
 
 
@@ -2521,20 +2527,30 @@ LIETUVOS RESPUBLIKOJE LICENCIJĄ GAVUSIŲ VALDYMO ĮMONIŲ TEISĖ VALDYTI KOLEKT
 38 straipsnis. Lietuvos Respublikoje licenciją gavusių valdymo įmonių paslaugų teikimo kitose valstybėse narėse sąlygos
 
 
-1. Lietuvos Respublikoje licenciją gavusi valdymo įmonė turi teisę tiesiogiai ar per filialą valdyti kitoje valstybėje narėje įsteigtą kolektyvinio investavimo subjektą, jeigu valdymo įmonės licencija numato galimybę valdyti tokio tipo kolektyvinio investavimo subjektus.
+1. Lietuvos Respublikoje licenciją gavusi valdymo įmonė turi teisę tiesiogiai ar per filialą:
+
+
+1) valdyti kitoje valstybėje narėje įsteigtą kolektyvinio investavimo subjektą, jeigu valdymo įmonės licencija numato galimybę valdyti tokio tipo kolektyvinio investavimo subjektus;
 
 
 
 
-2. Lietuvos Respublikoje licenciją gavusi valdymo įmonė, pirmą kartą ketinanti valdyti kitoje valstybėje narėje įsteigtą kolektyvinio investavimo subjektą, priežiūros institucijai pateikia:
-
-
-1) informaciją, kurioje valstybėje narėje ji ketina tiesiogiai ar per įsteigtą filialą valdyti šį kolektyvinio investavimo subjektą;
+2) teikti šio įstatymo 5 straipsnio 2 dalies 4 ir 5 punktuose nurodytas paslaugas kitoje valstybėje narėje, jeigu valdymo įmonės licencija numato galimybę teikti atitinkamas paslaugas. 
 
 
 
 
-2) programą, kurioje turi būti nurodomos paslaugos, kurias ji ketina teikti, ir informaciją apie ketinamą valdyti kolektyvinio investavimo subjektą.
+
+
+2. Lietuvos Respublikoje licenciją gavusi valdymo įmonė, pirmą kartą ketinanti valdyti kitoje valstybėje narėje įsteigtą kolektyvinio investavimo subjektą ir (arba) teikti šio įstatymo 5 straipsnio 2 dalies 4 ir 5 punktuose nurodytas paslaugas, priežiūros institucijai pateikia:
+
+
+1) informaciją, kurioje valstybėje narėje ji ketina tiesiogiai ar per įsteigtą filialą valdyti kolektyvinio investavimo subjektą ir (arba) teikti šio įstatymo 5 straipsnio 2 dalies 4 ir 5 punktuose nurodytas paslaugas;
+
+
+
+
+2) programą, kurioje turi būti nurodomos paslaugos, kurias ji ketina teikti, ir informaciją apie ketinamą valdyti kolektyvinio investavimo subjektą. 
 
 
 
@@ -2572,7 +2588,17 @@ LIETUVOS RESPUBLIKOJE LICENCIJĄ GAVUSIŲ VALDYMO ĮMONIŲ TEISĖ VALDYTI KOLEKT
 39 straipsnis. Kitoje valstybėje narėje licenciją gavusios valdymo įmonės teisė teikti paslaugas Lietuvos Respublikoje
 
 
-1. Kitoje valstybėje narėje licenciją gavusi valdymo įmonė turi teisę tiesiogiai ar per filialą valdyti Lietuvos Respublikoje įsteigtą kolektyvinio investavimo subjektą, jeigu valdymo įmonės licencija numato galimybę valdyti tokio tipo kolektyvinio investavimo subjektus.
+1. Kitoje valstybėje narėje licenciją gavusi valdymo įmonė turi teisę tiesiogiai ar per filialą: 
+
+
+1) valdyti Lietuvos Respublikoje įsteigtą kolektyvinio investavimo subjektą, jeigu valdymo įmonės licencija numato galimybę valdyti tokio tipo kolektyvinio investavimo subjektus;
+
+
+
+
+2) teikti šio įstatymo 5 straipsnio 2 dalies 4 ir 5 punktuose nurodytas paslaugas Lietuvos Respublikoje, jeigu valdymo įmonės licencija numato galimybę teikti atitinkamas paslaugas.
+
+
 
 
 
