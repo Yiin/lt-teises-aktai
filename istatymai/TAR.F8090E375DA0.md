@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-02
+Suvestinė redakcija nuo 2015-07-03 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -1185,10 +1185,10 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 19 straipsnis. Tabako gaminių vartojimo ribojimas
 
 
-1. Lietuvos Respublikoje rūkyti (vartoti tabako gaminius) draudžiama:
+1. Lietuvos Respublikoje rūkyti (vartoti tabako gaminius ir elektronines cigaretes) draudžiama:
 
 
-1) visose švietimo, sveikatos priežiūros įstaigose ir šių įstaigų teritorijose;
+1) visose švietimo, socialinių paslaugų įstaigose, kuriose teikiamos socialinės priežiūros ir (ar) socialinės globos paslaugos vaikams, sveikatos priežiūros įstaigose ir šių įstaigų teritorijose;
 
 
 
@@ -1214,11 +1214,11 @@ Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 
 
 6) transporto priemonių salonuose, jeigu juose yra asmenų iki 18 metų ir (ar) nėščių moterų.
-Papildyta straipsnio punktu:
-Nr. XII-1594, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05704
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1905, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10695
  
-
-
 
 
 
@@ -1994,4 +1994,9 @@ Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 14 straipsnio pakeit
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1594, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05704
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1905, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10695
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas
