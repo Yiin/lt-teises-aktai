@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-02
+Suvestinė redakcija nuo 2015-07-03 iki 2015-07-14
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -3568,7 +3568,9 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 12. Vaistinės darbo laiku vaistinėje turi dirbti ne mažiau kaip vienas vaistininkas.
-12 dalis įsigalioja nuo 2016-01-01.
+TAR pastaba. 12 dalis įsigalioja 2021-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
  
 
 
@@ -6487,3 +6489,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 15, 19, 23, 24, 51, 75 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 1, 2, 8, 9, 11, 12, 13, 14, 15, 17, 18, 20, 25, 27, 29, 33, 34, 35, 35-1, 36, 40, 48, 49, 51, 52, 53, 54, 55, 55-1, 56, 56-1, 56-2, 57, 59-1, 61, 62, 64, 66, 67, 68-1, 69, 70, 73, 74 straipsnių ir penkioliktojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
