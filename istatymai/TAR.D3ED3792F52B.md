@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-12-21
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -4429,38 +4429,35 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
 
+ 
  
  
 Lietuvos Respublikos
 valstybės tarnybos įstatymo 
-3 priedas 
- 
+3 priedas
 Priedo redakcija nuo 2016-01-01 iki 2016-12-31:
- 
-VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
-
-
+VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
  
 
 
 
-   Eil. Nr. 
-   Valstybės tarnautojų pareigybių pavadinimai 
-   Pareigybės lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų grupes 
+ Eil. Nr. 
+ Valstybės tarnautojų pareigybių pavadinimai 
+ Pareigybės lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų grupes 
 
 
-   politinio (asmeninio) pasitikėjimo 
-   įstaigų vadovų ir karjeros 
-   statutinių, reglamentuojamų: 
-   I 
-   II 
-   III 
-   IV 
-   V 
+ politinio (asmeninio) pasitikėjimo 
+ įstaigų vadovų ir karjeros 
+ statutinių, reglamentuojamų: 
+ I 
+ II 
+ III 
+ IV 
+ V 
 
 
-   Diplomatinės tarnybos įstatymo 
-   įstatymu patvirtintų statutų 
+ Diplomatinės tarnybos įstatymo 
+ įstatymu patvirtintų statutų 
 
 
 
@@ -4471,8 +4468,8 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
  generalinis direktorius (taikoma įstaigos vadovui) 
  A 20 
-     
-     
+   
+   
    
    
 
@@ -4481,7 +4478,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  Respublikos Prezidento vyriausiasis patarėjas, viceministras, savivaldybės administracijos direktorius,  Vyriausybės kancleris 
  direktorius (taikoma įstaigos vadovui), ministerijos kancleris 
  ministerijos kancleris 
- direktorius, viršininkas, vadas (taikoma įstaigos vadovui) 
+ direktorius, viršininkas   
  A 19–20 
  A 18–19 
  A 17–18 
@@ -4495,8 +4492,8 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
  generalinio direktoriaus pavaduotojas 
  A 19 
-     
-     
+   
+   
    
    
 
@@ -4504,8 +4501,8 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  4. 
  Respublikos Prezidento atstovas ypatingiems pavedimams, Respublikos Prezidento patarėjas,  Seimo Pirmininko sekretoriato vadovas, Seimo Pirmininko vyresnysis patarėjas, Ministro Pirmininko sekretoriato vadovas,  Ministro Pirmininko patarėjas, savivaldybės administracijos direktoriaus pavaduotojas, Vyriausybės kanclerio pirmasis pavaduotojas 
  direktoriaus pavaduotojas (taikoma įstaigos vadovo pavaduoto-jui), Vyriausybės atstovas Europos Žmogaus Teisių Teisme, teismo kancleris, prokuratūros kancleris, ministerijos gynybos politikos direktorius 
- ambasadorius, politikos direktorius 
- direktoriaus pavaduotojas, viršininko pavaduotojas, vado pavaduotojas (taikoma įstaigos vadovo pavaduotojui), štabo viršininkas, direktorato direktorius 
+ ambasado-rius, politikos direktorius 
+ direktoriaus pavaduotojas, viršininko pavaduotojas, direktorato direktorius 
  A 18–19 
  A 17–18 
  A 16–17 
@@ -4514,38 +4511,38 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
  5. 
-   Seimo Pirmininko sekretoriato vadovo pavaduotojas, Seimo Pirmininko patarėjas, ministro patarėjas, mero patarėjas, Vyriausybės įgaliotinis 
-   departamento direktorius, valdybos direktorius, komisijos ar tarybos administracijos direktorius, generalinis inspektorius, gynybos patarėjas,  vyriausiasis patarėjas, teismo pirmininko patarėjas 
-   ambasadorius ypatingiems pavedimams, įgaliotasis ministras,  laikinasis reikalų patikėtinis, departamento direktorius, generalinis konsulas 
- valdybos viršininkas,  eskadrilės vadas, dalinio vadas, patarėjas, generalinio direktoriaus patarėjas, departamento viršininkas, štabo viršininko pavaduotojas 
-   A 17–18 
-   A 16–17 
-   A 15–16 
-   A 13–15 
-   A 12–14 
+ Seimo Pirmininko sekretoriato vadovo pavaduotojas, Seimo Pirmininko patarėjas, ministro patarėjas, mero patarėjas, Vyriausybės įgaliotinis 
+ departamento direktorius, valdybos direktorius, komisijos ar tarybos administraci-jos direktorius, generalinis inspektorius, gynybos patarėjas,  vyriausiasis patarėjas, teismo pirmininko patarėjas 
+ ambasado-rius ypatingiems pavedimams, įgaliotasis ministras,  laikinasis reikalų patikėtinis, departamento direktorius, generalinis konsulas 
+ valdybos viršininkas,  eskadrilės vadas, dalinio vadas, patarėjas, generalinio direktoriaus patarėjas, departamento viršininkas   
+ A 17–18 
+ A 16–17 
+ A 15–16 
+ A 13–15 
+ A 12–14 
 
 
  6. 
  Seimo Pirmininko pavaduotojo patarėjas, opozicijos lyderio patarėjas, Vyriausybės įgaliotinio pavaduotojas 
- departamento direktoriaus pavaduotojas, valdybos direktoriaus pavaduotojas,  komisijos ar tarybos sekretoriato vadovas, Seimo posėdžių sekretoriato vedėjas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), biuro vedėjas (Seimo kanceliarijo-je),  vyresnysis patarėjas, Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo pavaduotojas, teismo skyriaus pirmininko patarėjas 
- ministras patarėjas, departamento direktoriaus pavaduotojas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje) 
- departamento viršininko pavaduotojas, valdybos viršininko pavaduotojas, eskadrilės vado pavaduotojas, dalinio vado pavaduotojas, skyriaus viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje),  komisariato viršininkas (taikoma ne įstaigos vadovui),  biuro viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), posto viršininkas 
-                                       A 15–17 
-                                       A 14–16 
-                                       A 13–15 
-                                       A 12–14 
-                                       A 11–13 
+ departamento direktoriaus pavaduoto-jas, valdybos direktoriaus pavaduoto-jas,  komisijos ar tarybos sekretoriato vadovas, Seimo posėdžių sekretoriato vedėjas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), biuro vedėjas (Seimo kanceliarijo-je),  vyresnysis patarėjas, Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo pavaduoto-jas, teismo skyriaus pirmininko patarėjas 
+ ministras patarėjas, departamento direktoriaus pavaduoto-jas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje) 
+ departamento viršininko pavaduotojas, valdybos viršininko pavaduotojas, skyriaus viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje),  biuro viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), posto viršininkas 
+ A 15–17 
+ A 14–16 
+ A 13–15 
+ A 12–14 
+ A 11–13 
 
 
  7. 
  Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, savivaldybės tarybos sekretorius 
- skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje),  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, patarėjas, seniūnas (savivaldybė-je), teismo pirmininko padėjėjas, teisėjo padėjėjas, vyriausiojo prokuroro padėjėjas 
+ skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje),  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje pavaduoto-jas, patarėjas, seniūnas (savivaldybė-je), teismo pirmininko padėjėjas, teisėjo padėjėjas, vyriausiojo prokuroro padėjėjas 
  patarėjas,  departamento patarėjas, skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje)   
- skyriaus viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), tarnybos viršininkas, komandos viršininkas, centro viršininkas, rinktinės vadas, laivo vadas, orlaivio vadas, specialios paskirties būrio vadas, užkardos vadas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), komisariato viršininko pavaduotojas (taikoma ne įstaigos vadovo pavaduotojui), biuro viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), posto viršininko pavaduotojas 
+ skyriaus viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), tarnybos viršininkas, centro viršininkas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), biuro viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), posto viršininko pavaduotojas 
  A 14–16 
  A 13–15 
  A 12–14 
- A 11–13             
+ AA 11–13             
  A 10–12 
 
 
@@ -4555,34 +4552,34 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
    
    
-     
-   B 11–13 
-   B 10–12 
-     
+   
+ B 11–13 
+ B 10–12 
+   
 
 
  9. 
  Respublikos Prezidento patarėjo pavaduotojas, Respublikos Prezidento konsultantas, Seimo Pirmininko padėjėjas, ministro atstovas spaudai 
- poskyrio vedėjas,  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje),  specialusis atašė,   seniūno pavaduotojas (savivaldybė-je),  vyriausiasis valstybinis auditorius, teismo konsultantas 
+ poskyrio vedėjas,  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje),  specialusis atašė,  seniūno pavaduotojas (savivaldybė-je),  vyriausiasis valstybinis auditorius, teismo konsultantas 
  konsulas,  pirmasis sekretorius,  skyriaus patarėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje) 
- poskyrio viršininkas, posto pamainos viršininkas, kuopos vadas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), tarnybos viršininko pavaduotojas, komandos viršininko pavaduotojas, centro viršininko pavaduotojas, rinktinės vado pavaduotojas,  laivo vado pavaduotojas, specialios paskirties būrio vado pavaduotojas, užkardos vado pavaduotojas, specialusis atašė,  vyriausiasis tyrėjas,  vyriausiasis lakūnas 
-               A 13–15 
-               A 12–14 
-               A 11–13 
-               A 10–12 
-               A 9–11 
+ poskyrio viršininkas, posto pamainos viršininkas, kuopos vadas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), tarnybos viršininko pavaduotojas, centro viršininko pavaduotojas, specialios paskirties būrio vado pavaduotojas, specialusis atašė,  vyriausiasis tyrėjas 
+ A 13–15 
+ A 12–14 
+ A 11–13 
+ A 10–12 
+ A 9–11 
 
 
  10. 
  Respublikos Prezidento referentas,  Ministro Pirmininko padėjėjas, mero padėjėjas 
- vyriausiasis specialistas,  specialiojo atašė pavaduotojas,  vyresnysis valstybinis auditorius, prokuroro padėjėjas 
+ vyriausiasis specialistas,  specialiojo atašė pavaduoto-jas,  vyresnysis valstybinis auditorius, prokuroro padėjėjas 
  antrasis sekretorius,  vicekonsulas 
- nuovados viršininkas, kuopos vado pavaduotojas,  poskyrio viršininko pavaduotojas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis budėtojas, vyresnysis lakūnas 
-               A 12–14 
-               A 11–13 
-               A 10–12 
-               A 9–11 
-               A 8–10 
+ poskyrio viršininko pavaduotojas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis budėtojas 
+ A 12–14 
+ A 11–13 
+ A 10–12 
+ A 9–11 
+ A 8–10 
 
 
  11. 
@@ -4590,11 +4587,11 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  seniūno pavaduotojas (savivaldybė-je) 
    
  direktoriaus budintysis padėjėjas 
-   B 12–14 
-   B 11–13 
-   B 10–12 
-   B 9–11 
-   B 8–10 
+ B 12–14 
+ B 11–13 
+ B 10–12 
+ B 9–11 
+ B 8–10 
 
 
  12. 
@@ -4602,11 +4599,11 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
    
  direktoriaus budinčiojo padėjėjo pavaduotojas, būrio viršininkas 
-   B 11–13 
-   B 10–12 
-   B 9–11 
-   B 8–10 
-   B 7–9 
+ B 11–13 
+ B 10–12 
+ B 9–11 
+ B 8–10 
+ B 7–9 
 
 
  13. 
@@ -4614,23 +4611,23 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
    
    
-   A 12 
-     
-     
-     
-     
+ A 12 
+   
+   
+   
+   
 
 
  14. 
  Respublikos Prezidento patarėjo padėjėjas, Respublikos Prezidento atstovo spaudai padėjėjas, ministro padėjėjas 
  vyresnysis specialistas, padėjėjas (Seimo kanceliarijo-je), valstybinis auditorius 
  trečiasis sekretorius 
- būrio vadas, lakūnas,  vyresnysis specialistas,  vyresnysis inspektorius, vyresnysis tyrėjas 
+ būrio vadas, vyresnysis specialistas,  vyresnysis inspektorius, vyresnysis tyrėjas 
    A 10–12 
    A 9–11 
    A 8–10 
-   A 7–9 
-   A 6–8 
+ A 7–9 
+ A 6–8 
 
 
  15. 
@@ -4638,101 +4635,99 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
    
    
-   B 11 
-     
-     
-     
-     
+ B 11 
+   
+   
+   
+   
 
 
  16. 
-   Mero padėjėjas 
+ Mero padėjėjas 
  vyresnysis specialistas, prokuroro padėjėjas 
    
- būrio vadas, vyresnysis specialistas, vyresnysis inspektorius   
-     
+ būrio vadas, vyresnysis specialistas, vyresnysis inspektorius 
+   
    B 8–10 
-   B 7–9 
-   B 6–8 
-   B 6–8 
+ B 7–9 
+ B 6–8 
+ B 6–8 
 
 
-   17. 
+ 17. 
    
  specialistas,  teismo posėdžių sekretorius, teismo administraci-jos sekretorius, valstybinio auditoriaus padėjėjas 
  atašė 
  specialistas,  inspektorius, tyrėjas   
    A 8–10 
-   A 7–9 
-   A 6–8 
-   A 5–7 
-   A 5–7 
+ A 7–9 
+ A 6–8 
+ A 5–7 
+ A 5–7 
 
 
  18. 
-     
+   
  specialistas 
    
- specialistas, inspektorius, tyrėjas, būrininkas,  pamainos vadas, sargybos viršininkas,  vyresnysis budėtojas, vyresnysis dispečeris, vyresnysis instruktorius 
-   B 7–9 
-   B 6–8 
-   B 5–7 
-   B 4–6 
-   B 4–6 
+ specialistas, inspektorius, tyrėjas, būrininkas,  pamainos vadas, sargybos viršininkas,  vyresnysis budėtojas, vyresnysis instruktorius 
+ B 7–9 
+ B 6–8 
+ B 5–7 
+ B 4–6 
+ B 4–6 
 
 
  19. 
-     
+   
  teismo posėdžių sekretorius 
-     
+   
  jaunesnysis inspektorius, jaunesnysis specialistas, budėtojas, punkto pamainos viršininkas, instruktorius 
-   B 6–8 
-   B 5–7 
-   B 4–7 
-   B 3–5 
-   B 2–5 
+ B 6–8 
+ B 5–7 
+ B 4–7 
+ B 3–5 
+ B 2–5 
 
 
  20. 
-     
-     
-     
- jaunesnysis specialistas, dispečeris,  grandies vadas, jaunesnysis budėtojas,  korpuso vyresnysis, kuopininkas, prižiūrėtojų budinčiosios pamainos vyresnysis, komendantas,  skyrininkas, viršila, sargybos viršininko padėjėjas, vyriausiasis patrulis, vyriausiasis postinis, vyriausiasis kovotojas, vyriausiasis ugniagesys gelbėtojas 
-                           C 4–7 
-                           C 4–6 
-                           C 3–5 
-                           C 2–5 
-                           C 2–4 
+   
+   
+   
+ jaunesnysis specialistas, jaunesnysis budėtojas,  korpuso vyresnysis, prižiūrėtojų budinčiosios pamainos vyresnysis, komendantas,  skyrininkas, vyriausiasis postinis 
+ C 4–7 
+ C 4–6 
+ C 3–5 
+ C 2–5 
+ C 2–4 
 
 
  21. 
-     
-     
-     
- priešgaisrinio posto viršininkas, vyresnysis pasienietis,  vyresnysis patrulis, vyresnysis postinis, vyresnysis kovotojas,  vyresnysis prižiūrėtojas,  vyresnysis kontrolierius, vyresnysis šaulys, vyresnysis ugniagesys gelbėtojas 
-   C 3–6 
-   C 3–5 
-   C 2–4  
-   C 2–4  
-   C 2–3  
+   
+   
+   
+ vyresnysis postinis, vyresnysis prižiūrėtojas,  vyresnysis kontrolierius 
+ C 3–6 
+ C 3–5 
+ C 2–4  
+ C 2–4  
+ C 2–3  
 
 
  22. 
-     
-     
    
- kovotojas, pasienietis,  patrulis, postinis,  prižiūrėtojas,  sargybinis,  šaulys, ugniagesys gelbėtojas 
-           C 2–5 
-           C 2–4 
-           C 1–4 
-           C 1–4 
-           C 1–3 
+   
+   
+ patrulis, postinis,  prižiūrėtojas,  sargybinis 
+ C 2–5 
+ C 2–4 
+ C 1–4 
+ C 1–4 
+   C 1–3 
 
 
 
  
-
-
 Priedo pakeitimai:
 Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
  
@@ -4740,63 +4735,62 @@ Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
 
 
 
+ 
  
  
-Redakcija nuo 2017-01-01:
 Lietuvos Respublikos
 valstybės tarnybos įstatymo 
 3 priedas
+Priedo redakcija nuo 2017-01-01:
  
-VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
-
-
+VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
  
 
 
 
-   Eil. Nr. 
-   Valstybės tarnautojų pareigybių pavadinimai 
-   Pareigybės lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų grupes 
+ Eil. Nr. 
+ Valstybės tarnautojų pareigybių pavadinimai 
+ Pareigybės lygis ir kategorija pagal valstybės ir savivaldybių institucijų ir įstaigų grupes 
 
 
-   politinio (asmeninio) pasitikėjimo 
-   įstaigų vadovų ir karjeros 
-   statutinių, reglamentuojamų: 
-   I 
-   II 
-   III 
-   IV 
-   V 
+ politinio (asmeninio) pasitikėjimo 
+ įstaigų vadovų ir karjeros 
+ statutinių, reglamentuojamų: 
+ I 
+ II 
+ III 
+ IV 
+ V 
 
 
-   Diplomatinės tarnybos įstatymo 
-   įstatymu patvirtintų statutų 
+ Diplomatinės tarnybos įstatymo 
+ įstatymu patvirtintų statutų 
 
 
 
 
  1. 
    
-     
-     
+   
+   
  generalinis direktorius (taikoma įstaigos vadovui) 
  A 20 
-     
-     
+   
+   
    
    
 
 
  2. 
-   Respublikos Prezidento vyriausiasis patarėjas, viceministras, savivaldybės administracijos direktorius, Vyriausybės kancleris 
-   direktorius (taikoma įstaigos vadovui), ministerijos kancleris 
-   ministerijos kancleris 
-   direktorius, viršininkas, vadas (taikoma įstaigos vadovui)  
-   A 19–20 
-   A 18–19 
-   A 17–18 
-   A 16–17 
-   A 15–16 
+ Respublikos Prezidento vyriausiasis patarėjas, viceministras, savivaldybės administracijos direktorius, Vyriausybės kancleris   
+ direktorius (taikoma įstaigos vadovui), ministerijos kancleris 
+ ministerijos kancleris 
+ direktorius, viršininkas 
+ A 19–20 
+ A 18–19 
+ A 17–18 
+ A 16–17 
+ A 15–16 
 
 
  3. 
@@ -4805,8 +4799,8 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
  generalinio direktoriaus pavaduotojas 
  A 19 
-     
-     
+   
+   
    
    
 
@@ -4815,7 +4809,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  Respublikos Prezidento atstovas ypatingiems pavedimams, Respublikos Prezidento patarėjas,  Seimo Pirmininko sekretoriato vadovas, Seimo Pirmininko vyresnysis patarėjas, Ministro Pirmininko sekretoriato vadovas,  Ministro Pirmininko patarėjas, savivaldybės administracijos direktoriaus pavaduotojas,  Vyriausybės kanclerio pirmasis pavaduotojas 
  direktoriaus pavaduotojas (taikoma įstaigos vadovo pavaduotojui), Vyriausybės atstovas Europos Žmogaus Teisių Teisme, teismo kancleris, prokuratūros kancleris, ministerijos gynybos politikos direktorius 
  ambasadorius, politikos direktorius 
- direktoriaus pavaduotojas, viršininko pavaduotojas, vado pavaduotojas (taikoma įstaigos vadovo pavaduoto-jui), štabo viršininkas,  direktorato direktorius 
+ direktoriaus pavaduoto-jas, viršininko pavaduoto-jas, direktorato direktorius 
  A 18–19 
  A 17–18 
  A 16–17 
@@ -4824,34 +4818,34 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
 
  5. 
-   Seimo Pirmininko sekretoriato vadovo pavaduotojas, Seimo Pirmininko patarėjas, ministro patarėjas, mero patarėjas, Vyriausybės įgaliotinis  
-   departamento direktorius, valdybos direktorius, komisijos ar tarybos administracijos direktorius, generalinis inspektorius, gynybos patarėjas,  vyriausiasis patarėjas, teismo pirmininko patarėjas 
-   ambasadorius ypatingiems pavedimams, įgaliotasis ministras,  laikinasis reikalų patikėtinis, departamento direktorius, generalinis konsulas 
- valdybos viršininkas,  eskadrilės vadas, dalinio vadas, patarėjas, generalinio direktoriaus patarėjas, departamento viršininkas, štabo viršininko pavaduotojas 
-   A 17–18 
-   A 16–17 
-   A 15–16 
-   A 14–15 
-   A 13–14 
+ Seimo Pirmininko sekretoriato vadovo pavaduotojas, Seimo Pirmininko patarėjas, ministro patarėjas, mero patarėjas, Vyriausybės įgaliotinis  
+ departamento direktorius, valdybos direktorius, komisijos ar tarybos administracijos direktorius, generalinis inspektorius, gynybos patarėjas,  vyriausiasis patarėjas, teismo pirmininko patarėjas 
+ ambasadorius ypatingiems pavedimams, įgaliotasis ministras,  laikinasis reikalų patikėtinis, departamento direktorius, generalinis konsulas 
+ valdybos viršininkas,  patarėjas, generalinio direktoriaus patarėjas, departamento viršininkas   
+ A 17–18 
+ A 16–17 
+ A 15–16 
+ A 14–15 
+ A 13–14 
 
 
  6. 
  Seimo Pirmininko pavaduotojo patarėjas, opozicijos lyderio patarėjas, Vyriausybės įgaliotinio pavaduotojas 
  departamento direktoriaus pavaduotojas, valdybos direktoriaus pavaduotojas,  komisijos ar tarybos sekretoriato vadovas, Seimo posėdžių sekretoriato vedėjas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), biuro vedėjas (Seimo kanceliarijoje),  vyresnysis patarėjas, Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo pavaduotojas, teismo skyriaus pirmininko patarėjas 
- ministras patarėjas, departamento direktoriaus pavaduotojas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje) 
- departamento viršininko pavaduotojas, valdybos viršininko pavaduotojas, eskadrilės vado pavaduotojas, dalinio vado pavaduotojas, skyriaus viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje),  komisariato viršininkas (taikoma ne įstaigos vadovui),  biuro viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), posto viršininkas  
+ ministras patarėjas, departamento direktoriaus pavaduotojas,  skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje) 
+ departamento viršininko pavaduoto-jas, valdybos viršininko pavaduoto-jas, skyriaus viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje),  biuro viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), posto viršininkas  
  A 16–17 
  A 15–16 
-   A 14–15 
-   A 13–14 
-   A 12–13 
+ A 14–15 
+ A 13–14 
+ A 12–13 
 
 
  7. 
  Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, savivaldybės tarybos sekretorius 
- skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje),  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, patarėjas, seniūnas (savivaldybėje), teismo pirmininko padėjėjas, teisėjo padėjėjas, vyriausiojo prokuroro padėjėjas 
- patarėjas,  departamento patarėjas, skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje)   
- skyriaus viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), tarnybos viršininkas, komandos viršininkas, centro viršininkas, rinktinės vadas, laivo vadas, orlaivio vadas, specialios paskirties būrio vadas, užkardos vadas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), komisariato viršininko pavaduotojas (taikoma ne įstaigos vadovo pavaduoto-jui), biuro viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), posto viršininko pavaduotojas 
+ skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje),  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, patarėjas, seniūnas (savivaldybė-je), teismo pirmininko padėjėjas, teisėjo padėjėjas, vyriausiojo prokuroro padėjėjas 
+ patarėjas,  departamento patarėjas, skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje)   
+ skyriaus viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), tarnybos viršininkas, centro viršininkas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), biuro viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), posto viršininko pavaduotojas 
    A 15–16 
    A 14–15 
    A 13–14 
@@ -4861,62 +4855,62 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 
  8. 
    
- seniūnas (savivaldybėje) 
+ seniūnas (savivaldybė-je) 
    
    
    
-     
-   B 12–13 
-   B 11–12 
-     
+   
+ B 12–13 
+ B 11–12 
+   
 
 
  9. 
  Respublikos Prezidento patarėjo pavaduotojas, Respublikos Prezidento konsultantas, Seimo Pirmininko padėjėjas, ministro atstovas spaudai 
- poskyrio vedėjas,  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje),  specialusis atašė,  seniūno pavaduotojas (savivaldybėje), vyriausiasis valstybinis auditorius, teismo konsultantas 
- konsulas,  pirmasis sekretorius,  skyriaus patarėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje) 
- poskyrio viršininkas, posto pamainos viršininkas, kuopos vadas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), tarnybos viršininko pavaduotojas, komandos viršininko pavaduotojas, centro viršininko pavaduotojas, rinktinės vado pavaduotojas,  laivo vado pavaduotojas, specialios paskirties būrio vado pavaduotojas, užkardos vado pavaduotojas, specialusis atašė,  vyriausiasis tyrėjas,  vyriausiasis lakūnas 
-   A 14–15 
-   A 13–14 
-   A 12–13 
-   A 11–12 
-   A 10–11 
+ poskyrio vedėjas,  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje),  specialusis atašė,  seniūno pavaduotojas (savivaldybė-je), vyriausiasis valstybinis auditorius, teismo konsultantas 
+ konsulas,  pirmasis sekretorius,  skyriaus patarėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje) 
+ poskyrio viršininkas, posto pamainos viršininkas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), tarnybos viršininko pavaduoto-jas, centro viršininko pavaduoto-jas, specialios paskirties būrio vado pavaduoto-jas, specialusis atašė,  vyriausiasis tyrėjas 
+ A 14–15 
+ A 13–14 
+ A 12–13 
+ A 11–12 
+ A 10–11 
 
 
  10. 
  Respublikos Prezidento referentas,  Ministro Pirmininko padėjėjas, mero padėjėjas 
  vyriausiasis specialistas,  specialiojo atašė pavaduotojas,  vyresnysis valstybinis auditorius, prokuroro padėjėjas 
  antrasis sekretorius,  vicekonsulas 
- nuovados viršininkas, kuopos vado pavaduotojas,  poskyrio viršininko pavaduotojas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis budėtojas, vyresnysis lakūnas 
-   A 13–14 
-   A 12–13 
-   A 11–12 
-   A 10–11 
-   A 9–10 
+ poskyrio viršininko pavaduoto-jas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis budėtojas 
+ A 13–14 
+ A 12–13 
+ A 11–12 
+ A 10–11 
+ A 9–10 
 
 
  11. 
    
- seniūno pavaduotojas (savivaldybėje)  
+ seniūno pavaduotojas (savivaldybė-je)  
    
  direktoriaus budintysis padėjėjas 
-   B 13–14 
-   B 12–13 
-   B 11–12 
-   B 10–11 
-   B 9–10 
+ B 13–14 
+ B 12–13 
+ B 11–12 
+ B 10–11 
+ B 9–10 
 
 
  12. 
    
    
    
- direktoriaus budinčiojo padėjėjo pavaduotojas, būrio viršininkas 
-   B 12–13 
-   B 11–12 
-   B 10–11 
-   B 9–10 
-   B 8–9 
+ direktoriaus budinčiojo padėjėjo pavaduoto-jas, būrio viršininkas 
+ B 12–13 
+ B 11–12 
+ B 10–11 
+ B 9–10 
+ B 8–9 
 
 
  13. 
@@ -4935,12 +4929,12 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  Respublikos Prezidento patarėjo padėjėjas, Respublikos Prezidento atstovo spaudai padėjėjas, ministro padėjėjas 
  vyresnysis specialistas, padėjėjas (Seimo kanceliarijoje), valstybinis auditorius 
  trečiasis sekretorius 
- būrio vadas, lakūnas,  vyresnysis specialistas,  vyresnysis inspektorius, vyresnysis tyrėjas 
+ būrio vadas, vyresnysis specialistas,  vyresnysis inspektorius, vyresnysis tyrėjas 
    A 11–12 
    A 10–11 
    A 9–10 
-   A 8–9 
-   A 7–8 
+ A 8–9 
+ A 7–8 
 
 
  15. 
@@ -4948,23 +4942,23 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
    
    
    
-   B 11 
-     
-     
-     
-     
+ B 11 
+   
+   
+   
+   
 
 
  16. 
-   Mero padėjėjas 
+ Mero padėjėjas 
  vyresnysis specialistas, prokuroro padėjėjas 
    
    
-     
+   
    B 9–10 
-   B 8–9 
-   B 7–8 
-   B 7–8 
+ B 8–9 
+ B 7–8 
+ B 7–8 
 
 
  17. 
@@ -4973,74 +4967,71 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  atašė 
  specialistas,  inspektorius, tyrėjas   
    A 9–10 
-   A 8–9 
-   A 7–8 
-   A 6–7 
-   A 6–7 
+ A 8–9 
+ A 7–8 
+ A 6–7 
+ A 6–7 
 
 
  18. 
    
  specialistas 
    
- specialistas, inspektorius, tyrėjas, būrininkas,  pamainos vadas, sargybos viršininkas,  vyresnysis budėtojas, vyresnysis dispečeris, vyresnysis instruktorius 
-   B 8–9 
-   B 7–8 
-   B 6–7 
-   B 5–6 
-   B 5–6 
+ specialistas, inspektorius, tyrėjas, būrininkas,  pamainos vadas, sargybos viršininkas,  vyresnysis budėtojas, vyresnysis instruktorius 
+ B 8–9 
+ B 7–8 
+ B 6–7 
+ B 5–6 
+ B 5–6 
 
 
-   19. 
+ 19. 
    
  teismo posėdžių sekretorius 
    
  jaunesnysis inspektorius, jaunesnysis specialistas, budėtojas, punkto pamainos viršininkas, instruktorius 
-   B 7–8 
-   B 6–7 
-   B 5–7 
-   B 4–5 
-   B 3–5 
+ B 7–8 
+ B 6–7 
+ B 5–7 
+ B 4–5 
+ B 3–5 
 
 
  20. 
    
    
    
- jaunesnysis specialistas, dispečeris,  grandies vadas, jaunesnysis budėtojas,  korpuso vyresnysis, kuopininkas, prižiūrėtojų budinčiosios pamainos vyresnysis, komendantas,  skyrininkas, viršila, sargybos viršininko padėjėjas, vyriausiasis patrulis, vyriausiasis postinis, vyriausiasis kovotojas, vyriausiasis ugniagesys gelbėtojas 
-   C 6–7 
-   C 5–6 
-   C 3–5 
-   C 3–5 
-   C 2–4 
+ jaunesnysis specialistas, jaunesnysis budėtojas,  korpuso vyresnysis, prižiūrėtojų budinčiosios pamainos vyresnysis, komendan-tas,  skyrininkas, vyriausiasis postinis 
+ C 6–7 
+ C 5–6 
+ C 3–5 
+ C 3–5 
+ C 2–4 
 
 
  21. 
    
    
    
- priešgaisrinio posto viršininkas, vyresnysis pasienietis,  vyresnysis patrulis, vyresnysis postinis, vyresnysis kovotojas,  vyresnysis prižiūrėtojas,  vyresnysis kontrolierius, vyresnysis šaulys, vyresnysis ugniagesys gelbėtojas 
-                   C 5–6 
-                   C 4–5 
-                   C 3–4  
-                   C 2–4  
-                   C 2–3  
+ vyresnysis postinis, vyresnysis prižiūrėtojas,  vyresnysis kontrolierius 
+ C 5–6 
+ C 4–5 
+ C 3–4  
+ C 2–4  
+ C 2–3  
 
 
-   22. 
+ 22. 
    
    
    
- kovotojas, pasienietis,  patrulis, postinis,  prižiūrėtojas,  sargybinis,  šaulys, ugniagesys gelbėtojas 
-   C 4–5 
-   C 3–4 
-   C 2–4 
-   C 2–4 
-   C 1–3 
+ postinis,  prižiūrėtojas,  sargybinis 
+ C 4–5 
+ C 3–4 
+ C 2–4 
+ C 2–4 
+ C 1–3 
 
-
-
- 
 
 
 Įstatymas papildytas 3 priedu:
@@ -5068,6 +5059,7 @@ Nr. XII-281, 2013-05-09, Žin., 2013, Nr. 54-2686 (2013-05-25)
 Nr. XII-681, 2013-12-17, Žin., 2013, Nr. 140-7058 (2013-12-30)
 Priedo pakeitimai:
 Nr. XII-1391, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20430
+Nr. XII-1863, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10825
  
 
 
@@ -5679,3 +5671,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
 Lietuvos Respublikos valstybės tarnybos įstatymo 8, 10 straipsnių pakeitimo ir papildymo įstatymo Nr. X-1689 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1863, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10825
+Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 2 ir 3 straipsnių pakeitimo įstatymas
