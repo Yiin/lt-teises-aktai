@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -2066,50 +2066,12 @@ Nr. XI-1338, 2011-04-21, Žin., 2011, Nr. 52-2513 (2011-05-03)
 44 straipsnis. Centrinės kredito unijos paslaptis
 
 
-1. Centrinės kredito unijos paslaptimi laikomi visi Centrinei kredito unijai žinomi duomenys ir informacija apie:
+Centrinės kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo 55 straipsnis.
 
 
-1) Centrinės kredito unijos kliento turimas Centrinėje kredito unijoje sąskaitas, lėšų likučius šiose sąskaitose, kliento vykdomas operacijas su jo sąskaitoje esančiomis lėšomis, sutarčių, pagal kurias klientui buvo atidarytos sąskaitos, sąlygas;
-
-
-
-
-2) Centrinės kredito unijos kliento skolinius įsipareigojimus Centrinei kredito unijai, sutarčių, pagal kurias atsirado šie skoliniai įsipareigojimai, sąlygas;
-
-
-
-
-3) kitas Centrinės kredito unijos klientui suteiktas finansines paslaugas, sutarčių, pagal kurias teikiamos finansinės paslaugos, sąlygas;
-
-
-
-
-4) Centrinės kredito unijos kliento finansinę būklę ir turtą, veiklą, veiklos planus, skolinius įsipareigojimus kitiems asmenims ar sandorius su kitais asmenimis, kliento komercines (gamybines) ar profesines paslaptis.
-
-
-
-
-
-
-2. Centrinė kredito unija, jos darbuotojai ir bet kurie kiti asmenys, kurie žino Centrinės kredito unijos paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos, išskyrus šio straipsnio 3–5 dalyse nustatytus atvejus.
-
-
-
-
-3. Centrinės kredito unijos paslaptį sudaranti informacija gali būti atskleista tik Centrinės kredito unijos klientui, su kuriuo susijusi Centrinės kredito unijos paslaptį sudaranti informacija, arba jo rašytiniu prašymu, kuriame nurodyta, kam ir kokia informacija turi būti atskleista. 
-
-
-
-
-4. Centrinė kredito unija turi teisę atskleisti informaciją, sudarančią Centrinės kredito unijos paslaptį, teismui ar kitiems asmenims, jei tai būtina ginant Centrinės kredito unijos teisėtus interesus, ir tik tiek, kiek tai būtina jos interesams ginti.
-
-
-
-
-5. Centrinė kredito unija teikia Centrinės kredito unijos paslaptį sudarančią informaciją Pinigų plovimo prevencijos įstatyme nurodytoms institucijoms, taip pat įstatymų nustatyta tvarka kitiems asmenims, jei pagal įstatymus Centrinė kredito unija privalo joms teikti tokią informaciją. 
+Straipsnio pakeitimai:
+Nr. XII-1900, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10786
  
-
-
 
 
 
@@ -3693,3 +3655,8 @@ Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 2, 3, 8, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1693, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07669
 Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 1, 9, 50, 52 ir 56 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1900, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10786
+Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 44 straipsnio pakeitimo įstatymas
