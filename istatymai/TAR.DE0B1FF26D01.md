@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2015-05-29 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -2744,50 +2744,12 @@ Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
 49 straipsnis. Kredito unijos paslaptis
 
 
-1. Kredito unijos paslaptimi laikomi visi kredito unijai žinomi kredito unijos kliento duomenys ir informacija apie:
+Kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo 55 straipsnis.
 
 
-1) kredito unijos kliento turimas kredito unijoje sąskaitas, lėšų likučius šiose sąskaitose, kliento atliekamas operacijas su savo sąskaitoje esančiomis lėšomis, sutarčių, pagal kurias klientui buvo atidarytos sąskaitos, sąlygas;
-
-
-
-
-2) kredito unijos kliento skolinius įsipareigojimus kredito unijai, sutarčių, pagal kurias atsirado šie skoliniai įsipareigojimai, sąlygas;
-
-
-
-
-3) kitas kredito unijos klientui suteiktas finansines paslaugas, sutarčių, pagal kurias teikiamos finansinės paslaugos, sąlygas;
-
-
-
-
-4) kredito unijos kliento finansinę būklę ir turtą, veiklą, veiklos planus, skolinius įsipareigojimus kitiems asmenims ar sandorius su kitais asmenimis, kliento komercines (gamybos) ar profesines paslaptis.
-
-
-
-
-
-
-2. Kredito unija, kredito unijos darbuotojai ir bet kurie kiti asmenys, kurie žino kredito unijos paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos, išskyrus šio straipsnio 3-5 dalyse ir kituose įstatymuose nustatytus atvejus.
-
-
-
-
-3. Kredito unijos klientui arba kliento rašytiniu prašymu, kuriame nurodyta, kam ir kokia informacija turi būti pateikta, gali būti atskleista tik su klientu susijusi kredito unijos paslaptį sudaranti informacija. 
-
-
-
-
-4. Kredito unija turi teisę atskleisti informaciją, sudarančią kredito unijos paslaptį, teismui ar kitiems asmenims, jei tai būtina ginant kredito unijos teisėtus interesus ir tik tiek, kiek tai būtina savo interesams ginti.
-
-
-
-
-5. Kredito unija teikia kredito unijos paslaptį sudarančią informaciją Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme nurodytoms institucijoms, taip pat įstatymų nustatyta tvarka kitiems asmenims, jei pagal šį ir (ar) kitus įstatymus kredito unija privalo teikti joms tokią informaciją. 
+Straipsnio pakeitimai:
+Nr. XII-1901, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10788
  
-
-
 
 
 
@@ -4346,3 +4308,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 32, 38, 39, 63 ir 75 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1728, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08226
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 48-1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1901, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10788
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49 straipsnio pakeitimo įstatymas
