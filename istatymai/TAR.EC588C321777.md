@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-07-03
+Suvestinė redakcija nuo 2015-07-04 iki 2015-07-09
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -4729,7 +4729,10 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 149 straipsnis. Kratos ir poėmio tvarka
 
 
-1. Pareigūnas, pradėdamas kratą ir poėmį, privalo paskelbti nutartį ar nutarimą dėl kratos ar poėmio, po to pareikalauti atiduoti nutartyje ar nutarime nurodytus daiktus ar dokumentus arba nurodyti besislapstančio asmens buvimo vietą.
+1. Pareigūnas, pradėdamas kratą ir poėmį, privalo paskelbti nutartį ar nutarimą dėl kratos ar poėmio ir vieną nutarties ar nutarimo dėl kratos ar poėmio nuorašą įteikti asmeniui, pas kurį daroma krata. Po to pareigūnas privalo pareikalauti atiduoti nutartyje ar nutarime nurodytus daiktus ar dokumentus arba nurodyti besislapstančio asmens buvimo vietą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1877, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10781
+ 
 
 
 
@@ -15154,3 +15157,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 120, 121, 126, 132-1, 139 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
 Lietuvos Respublikos baudžiamojo proceso kodekso 381 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1877, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10781
+Lietuvos Respublikos baudžiamojo proceso kodekso 149 straipsnio pakeitimo įstatymas
