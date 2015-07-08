@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-07
+Suvestinė redakcija nuo 2015-07-08 iki 2015-07-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2181,6 +2181,19 @@ Tretieji asmenys privalo centrinio mokesčių administratoriaus nustatyta tvarka
  
 
 
+
+
+
+
+611 straipsnis. Informacijos, būtinos tarptautiniams bendradarbiavimo įsipareigojimams dėl automatinių informacijos apie finansines sąskaitas mainų įgyvendinti, kaupimas ir pateikimas
+
+
+Prižiūrimi finansų rinkos dalyviai, kaip jie apibrėžti Lietuvos Respublikos Lietuvos banko įstatyme, taip pat kiti subjektai, jeigu jie apibrėžti kaip duomenis teikiančios finansų įstaigos Europos Sąjungos teisės aktuose, taip pat Lietuvos tarptautinėse sutartyse ar susitarimuose dėl automatinių informacijos apie finansines sąskaitas mainų, privalo kaupti ir mokesčių administratoriui pateikti užsienio valstybių asmenų sąskaitų informaciją, naudojamą tarptautiniams bendradarbiavimo įsipareigojimams pagal minėtuosius teisės aktus įgyvendinti. Konkrečias duomenis kaupiančių ir teikiančių subjektų kategorijas, kauptinų duomenų sąrašą, jų pateikimo tvarką ir kitas su duomenų kaupimu, pateikimu ir mainais susijusias procedūras nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+
+
+Papildyta straipsniu:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -5769,7 +5782,10 @@ priedas
 
 
 
-3. 1977 m. gruodžio 19 d. Tarybos direktyva 77/799/EEB dėl valstybių narių kompetentingų institucijų tarpusavio pagalbos tiesioginio apmokestinimo ir draudimo išmokų apmokestinimo srityje (pakeista 1979 m. gruodžio 6 d. Tarybos direktyva 79/1070/EEB, 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 63 (su paskutiniais pakeitimais, padarytais 2004 m. lapkričio 16 d. Tarybos direktyva 2004/106/EB, OL 2004 L 359, p. 30 ).
+3. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (pakeista 2014 m. gruodžio 9 d. Tarybos direktyva 2014/107/ES) (OL 2011 L 64, p. 1).
+Punkto pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 Priedo pakeitimai:
@@ -5932,3 +5948,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 63, 102 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1511, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21277
 Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 28, 41, 55, 68, 87, 89, 101, 104-1, 104-2, 129, 131, 154 straipsnių ir priedo pakeitimo, Įstatymo papildymo 55-1 ir 61-1 straipsniais ir 56, 57, 58, 59, 60 straipsnių pripažinimo netekusiais galios įstatymas
