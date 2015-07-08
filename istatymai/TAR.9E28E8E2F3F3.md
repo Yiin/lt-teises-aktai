@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9E28E8E2F3F3"
 
 # Lietuvos Respublikos turto arešto aktų registro įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-07
+Suvestinė redakcija nuo 2015-07-08 iki 2016-07-14
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 101-2897, i. k. 0991010ISTAIII-1375
  
@@ -24,7 +24,6 @@ Nr. XI-1846, 2011-12-22, Žin., 2012, Nr. 6-182 (2012-01-10)
 LIETUVOS RESPUBLIKOS
  
 TURTO AREŠTO AKTŲ REGISTRO
- 
 ĮSTATYMAS
  
 1999 m. lapkričio 4 d. Nr. VIII-1375 Vilnius
@@ -232,9 +231,25 @@ Turto arešto aktas (jo pakeitimas) išregistruojamas iš Turto arešto aktų re
 
 
 
-6) Lietuvos Respublikos civilinio kodekso 6.927 straipsnio 3 dalyje nustatytu atveju. 
+6) Lietuvos Respublikos civilinio kodekso 6.927 straipsnio 3 dalyje nustatytu atveju;
 Papildyta straipsnio punktu:
 Nr. XII-1458, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21220
+ 
+
+
+
+
+7) kai Lietuvos Respublikos, Europos Sąjungos valstybių narių ir (ar) Europos ekonominės erdvės valstybių, kitų valstybių juridinis asmuo, juridinio asmens statuso neturintis subjektas, jo filialas ar atstovybė, Turto arešto aktų registre įregistruotame turto arešto akte nurodytas kaip skolininkas ar areštuojamo turto savininkas, yra išregistruotas iš Lietuvos Respublikos juridinių asmenų registro; 
+Papildyta straipsnio punktu:
+Nr. XII-1895, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11086
+ 
+
+
+
+
+8) kai Turto arešto aktų registre įregistruotame turto arešto akte nurodytas areštuotas turtas yra netinkamai identifikuotas, nepateikti (pateikti ne visi) Turto arešto aktų registro nuostatuose nurodyti turtą identifikuojantys duomenys, nepateiktas turto registro suteiktas identifikavimo kodas (jeigu turtas registruotas viešame registre), išskyrus Lietuvos Respublikos civilinio proceso kodekse ir Lietuvos Respublikos baudžiamojo proceso kodekse numatytus atvejus, kuriais išsamūs turtą identifikuojantys duomenys gali būti nenurodyti.
+Papildyta straipsnio punktu:
+Nr. XII-1895, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11086
  
 
 
@@ -411,4 +426,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1458, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21220
+Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 10 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1895, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11086
 Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 10 straipsnio pakeitimo įstatymas
