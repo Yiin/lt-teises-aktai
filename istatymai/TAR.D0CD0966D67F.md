@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-09
+Suvestinė redakcija nuo 2015-07-10 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1608,7 +1608,10 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-28) sprendimų dėl paskolų ėmimo ir garantijų teikimo už ilgalaikes paskolas priėmimas; šios paskolos naudojamos tik investicijų projektams finansuoti pagal Vyriausybės nustatytą tvarką, laikantis įstatymų nustatytų skolinimosi limitų ir gavus savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) išvadą;
+28) sprendimų dėl paskolų ėmimo ir garantijų teikimo už ilgalaikes paskolas priėmimas; šios paskolos naudojamos tik investicijų projektams, tarp jų pagal Vyriausybės patvirtintas programas savivaldybių įgyvendinamiems energijos vartojimo efektyvumo didinimo projektams, finansuoti pagal Vyriausybės nustatytą tvarką, laikantis įstatymų nustatytų skolinimosi limitų ir gavus savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) išvadą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
+ 
 
 
 
@@ -4110,6 +4113,14 @@ TURTAS IR FINANSAI
 7. Lėšos valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti skiriamos iš valstybės biudžeto arba valstybės piniginių fondų ir pervedamos savivaldybėms kaip specialioji tikslinė dotacija.
 
 
+
+
+8. Savivaldybių biudžetų lėšos, skirtos investicijoms įgyvendinant savivaldybių energijos vartojimo efektyvumo didinimo projektus jų įgyvendinimo laikotarpiu pagal Vyriausybės patvirtintas programas, naudojamos pagal jų paskirtį tik šiose programose nurodytiems tikslams ir sąlygomis.
+Papildyta straipsnio dalimi:
+Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
  
@@ -4894,3 +4905,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13 ir 15 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 50 straipsnių pakeitimo įstatymas
