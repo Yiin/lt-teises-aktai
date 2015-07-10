@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-07-10
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 38-1804, i. k. 1111010ISTA0XI-1281
+ 
 LIETUVOS RESPUBLIKOS  ŠVIETIMO ĮSTATYMO PAKEITIMO  ĮSTATYMAS
  
 2011 m. kovo 17 d. Nr. XI-1281
@@ -3415,21 +3419,19 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 
 
-3. Šio įstatymo 1 straipsnyje išdėstyto Švietimo įstatymo 41 straipsnio 2 dalies redakcija, galiojanti nuo 2015 m. rugsėjo 1 d.:
+3. Šio įstatymo 1 straipsnyje išdėstyto Švietimo įstatymo 41 straipsnio 2 dalies redakcija, galiojanti nuo 2017 m. rugsėjo 1 d.:
+„2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, gimnazija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
+ 
 
 
 
 
-„2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, gimnazija.“
-
-
-
-
-
-
-
-
-4. Šio įstatymo 1 straipsnyje išdėstyto Švietimo įstatymo 41 straipsnio 6 dalis pripažįstama netekusia galios 2015 m. rugsėjo 1 d. 
+4. Šio įstatymo 1 straipsnyje išdėstyto Švietimo įstatymo 41 straipsnio 6 dalis pripažįstama netekusia galios 2017 m. rugsėjo 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
+ 
 
 
 
@@ -3467,3 +3469,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
+Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 3 straipsnio pakeitimo įstatymas
