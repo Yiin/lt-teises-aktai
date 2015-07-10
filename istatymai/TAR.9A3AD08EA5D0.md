@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-07-09
+Suvestinė redakcija nuo 2015-07-10 iki 2015-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1566,12 +1566,14 @@ MOKYKLŲ, PAGALBOS ĮSTAIGŲ STEIGIMAS, VEIKLA, PABAIGA IR PERTVARKYMAS
 
 
 2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, vidurinė mokykla, gimnazija.
-Redakcija nuo 2015-09-01:
+2 dalies redakcija nuo 2017-09-01:
 
 
 
 
 2. Bendrojo ugdymo mokyklų tipai yra: pradinė mokykla, progimnazija, pagrindinė mokykla, gimnazija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
  
 
 
@@ -1593,7 +1595,9 @@ Redakcija nuo 2015-09-01:
 
 
 6. Vidurinės mokyklos tipui priskiriamos mokyklos, vykdančios vidurinio ugdymo programą ar vidurinio ir pagrindinio ugdymo programas arba vidurinio, pagrindinio ir pradinio ugdymo programas.
-Pastaba. 6 dalis pripažįstama netekusia galios 2015-09-01. 
+6 dalis pripažįstama netekusia galios 2017-09-01. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
  
 
 
@@ -3583,9 +3587,6 @@ Nr. XII-553, 2013-10-15, Žin., 2013, Nr. 114-5683 (2013-11-01)
 ŠVIETIMO ĮSTATYMO 36 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
  
- 
- 
- 
 Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
@@ -3607,3 +3608,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 22 ir 67 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 53, 56 straipsnių pakeitimo ir Įstatymo papildymo 56-1, 56-2 straipsniais įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
+Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 3 straipsnio pakeitimo įstatymas
