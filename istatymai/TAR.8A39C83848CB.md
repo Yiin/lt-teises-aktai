@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-07-10 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -4584,6 +4584,14 @@ Fizinio asmens pripažinimas neveiksniu ar ribotai veiksniu
 
 
 8) sudaryti savo turto nuomos ar panaudos sutartį;
+
+
+
+
+9) įsigyti, laikyti gyvūną.
+Papildyta straipsnio punktu:
+Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581
+ 
 
 
 
@@ -48950,3 +48958,8 @@ Lietuvos Respublikos civilinio kodekso 5.50, 5.57 ir 5.63 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
 Lietuvos Respublikos civilinio kodekso 3.298, 3.299 ir 3.302 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581
+Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas
