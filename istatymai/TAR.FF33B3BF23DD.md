@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2015-07-03 iki 2015-07-14
+Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -94,7 +94,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 6. Ekstemporalus vaistinis preparatas – gamybinėje visuomenės vaistinėje pagamintas kartinis vaistinis preparatas ar aprašinis vaistinis preparatas:
 
 
-1) kartinis vaistinis preparatas – pavieniam pacientui pagal gydytojo receptą ir (arba) sveikatos priežiūros įstaigos užsakymą pagamintas vaistinis preparatas;
+1) kartinis vaistinis preparatas – pavieniam pacientui pagal receptą ir (arba) sveikatos priežiūros įstaigos užsakymą pagamintas vaistinis preparatas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+ 
 
 
 
@@ -157,7 +160,10 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 
 
-13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti gydytojo išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.
+13. Farmacinė paslauga – vaistinėje farmacijos specialistų teikiama paslauga, apimanti išrašytų receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos priežiūros ir farmacijos specialistams, taip pat jų konsultavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+ 
 
 
 
@@ -341,6 +347,14 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 
 38. Radionuklidų rinkinys – bet koks ruošinys, kuris (dažniausiai prieš jo vartojimą) turi būti atskiestas ar sujungtas su radionuklidais galutiniame radiofarmaciniame preparate.
+
+
+
+
+381. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones. 
+Papildyta straipsnio dalimi:
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+ 
 
 
 
@@ -1240,7 +1254,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-12. Receptiniai vaistiniai preparatai ambulatoriškai besigydantiems pacientams išduodami (parduodami) tik pagal gydytojų receptus.
+12. Receptiniai vaistiniai preparatai ambulatoriškai besigydantiems pacientams išduodami (parduodami) tik pagal receptus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+ 
 
 
 
@@ -3686,7 +3703,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-5. Gamybinė vaistinė gali parduoti (išduoti) kartinius vaistinius preparatus kitoms vaistinėms, jų filialams pagal gamybinei vaistinei pateiktus gydytojo receptus, juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licencijas, – pagal gamybinei vaistinei pateiktus užsakymus.
+5. Gamybinė vaistinė gali parduoti (išduoti) kartinius vaistinius preparatus kitoms vaistinėms, jų filialams pagal gamybinei vaistinei pateiktus receptus, juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licencijas, – pagal gamybinei vaistinei pateiktus užsakymus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+ 
 
 
 
@@ -3759,7 +3779,10 @@ Vaistinės veiklos licencijos turėtojas privalo:
 
 
 
-2) įsigyti vaistinius preparatus tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą Valstybinės vaistų kontrolės tarnybos, arba asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, įsigyti veikliąsias medžiagas tik iš jų gamintojų, importuotojų ar platintojų, kurie įregistravę savo veiklą Valstybinėje vaistų kontrolės tarnyboje arba kitos EEE valstybės įgaliotoje institucijoje, kartinius vaistinius preparatus įsigyti tik iš juos pagaminusios pagal pateiktą gydytojo receptą gamybinės visuomenės vaistinės;
+2) įsigyti vaistinius preparatus tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą Valstybinės vaistų kontrolės tarnybos, arba asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, įsigyti veikliąsias medžiagas tik iš jų gamintojų, importuotojų ar platintojų, kurie įregistravę savo veiklą Valstybinėje vaistų kontrolės tarnyboje arba kitos EEE valstybės įgaliotoje institucijoje, kartinius vaistinius preparatus įsigyti tik iš juos pagaminusios pagal pateiktą receptą gamybinės visuomenės vaistinės;
+Straipsnio punkto pakeitimai:
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+ 
 
 
 
@@ -6494,3 +6517,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 1, 2, 8, 9, 11, 12, 13, 14, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 36 ir 39 straipsnių pakeitimo įstatymas
