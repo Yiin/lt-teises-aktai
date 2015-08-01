@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-31
+Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
  
@@ -465,10 +465,10 @@ Valstybinė maisto ir veterinarijos tarnyba:
 
 
 
-9 straipsnis. Valstybinės kainų ir energetikos kontrolės komisijos kompetencija geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
+9 straipsnis. Valstybinės kainų ir energetikos kontrolės komisijos kompetencija ir finansavimo tvarka geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
 
-Valstybinė kainų ir energetikos kontrolės komisija:
+1. Valstybinė kainų ir energetikos kontrolės komisija:
 
 
 1) tvirtina Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodiką ir prižiūri, kaip ji taikoma;
@@ -491,7 +491,7 @@ Valstybinė kainų ir energetikos kontrolės komisija:
 
 
 
-5) turi teisę savo sprendimu vienašališkai nustatyti geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas, paviršinių nuotekų tvarkymo paslaugų kainas šio įstatymo 34 straipsnio 15 ir 16 dalyse nurodytais atvejais;
+5) turi teisę savo sprendimu vienašališkai nustatyti geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas, paviršinių nuotekų tvarkymo paslaugų kainas šio įstatymo 34 straipsnio 15 ir 16 dalyse nurodytais atvejais;
 
 
 
@@ -557,11 +557,54 @@ Valstybinė kainų ir energetikos kontrolės komisija:
 
 
 18) atlieka kitas teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+2. Valstybinės kainų ir energetikos kontrolės komisijos veiklos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir šio straipsnio 3 dalyje numatytos Valstybinės kainų ir energetikos kontrolės komisijos pajamos. Valstybinės kainų ir energetikos kontrolės komisijos strateginiame veiklos plane numatytos ir vykdomos programos, įgyvendinamos siekiant šio įstatymo 1 straipsnyje nustatytų tikslų ir atliekant geriamojo vandens tiekimo ir nuotekų tvarkymo sektoriaus reguliavimą, finansuojamos iš Valstybinės kainų ir energetikos kontrolės komisijos pajamų, gautų šio straipsnio 3 dalyje nustatyta tvarka.
+
+
+
+
+3. Valstybinės kainų ir energetikos kontrolės komisijos pajamos ir jų naudojimo tvarka:
+
+
+1) Valstybinės kainų ir energetikos kontrolės komisijos kitų metų pajamas sudaro geriamojo vandens tiekėjų ir (arba) nuotekų tvarkytojų 0,3 procento praėjusių metų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklos pajamų. Šios pajamos turi sudaryti ne daugiau kaip 15 procentų kitais metais Valstybinei kainų ir energetikos kontrolės komisijai skiriamų valstybės biudžeto asignavimų, patvirtintų Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme;
+
+
+
+
+2) šios dalies 1 punkte nustatyta tvarka apskaičiuotos Valstybinės kainų ir energetikos kontrolės komisijos pajamos pripažįstamos geriamojo vandens tiekėjų ir nuotekų tvarkytojų pagrįstomis būtinosiomis sąnaudomis nustatant reguliuojamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas arba jų dalį;
+
+
+
+
+3) Valstybinė kainų ir energetikos kontrolės komisija iki kiekvienų metų kovo 31 dienos apskaičiuoja šios dalies 1 punkte nurodytas Valstybinės kainų ir energetikos kontrolės komisijos pajamas ir informuoja geriamojo vandens tiekėjus ir nuotekų tvarkytojus apie jų kiekvieną ketvirtį mokėtiną sumą. Geriamojo vandens tiekėjai ir nuotekų tvarkytojai Valstybinės kainų ir energetikos kontrolės komisijos nurodytą sumą privalo pervesti į Valstybinės kainų ir energetikos kontrolės komisijos sąskaitą kiekvieną kalendorinių metų ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos;
+
+
+
+
+4) geriamojo vandens tiekėjams ir nuotekų tvarkytojams, laiku nesumokėjusiems šios dalies 1 punkte nustatyta tvarka apskaičiuotos sumos, skaičiuojami 0,05 procento dydžio delspinigiai už kiekvieną praleistą mokėjimo termino dieną. Delspinigiai nėra pripažįstami geriamojo vandens tiekėjų ir nuotekų tvarkytojų pagrįstomis būtinosiomis sąnaudomis nustatant reguliuojamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas arba jų dalį. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą;
+
+
+
+
+5) Valstybinė kainų ir energetikos kontrolės komisija pagal šią dalį gautas pajamas privalo pervesti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka;
+
+
+
+
+6) Valstybinės kainų ir energetikos kontrolės komisijos pajamos, gautos pagal šią dalį ir pervestos į valstybės biudžetą, gali būti naudojamos tik Valstybinės kainų ir energetikos kontrolės komisijos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti.
+TAR pastaba: Valstybinė kainų ir energetikos kontrolės komisija iki 2015 m. rugsėjo 1 d. apskaičiuoja 9 straipsnio 3 dalies 1 punkte nurodytas Valstybinės kainų ir energetikos kontrolės komisijos pajamas už 2015 m. laikotarpį nuo rugpjūčio 1 d. iki gruodžio 31 d. pagal 2014 m. geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo veiklos pajamas ir informuoja geriamojo vandens tiekėjus ir nuotekų tvarkytojus apie jų kiekvieną likusį kalendorinių metų ketvirtį mokėtiną sumą. Geriamojo vandens tiekėjai ir nuotekų tvarkytojai Valstybinės kainų ir energetikos kontrolės komisijos nurodytą sumą privalo pervesti į Valstybinės kainų ir energetikos kontrolės komisijos sąskaitą kiekvieną likusį kalendorinių metų ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1618, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06063
  
-
-
-
-
 
 
 
@@ -2390,3 +2433,8 @@ Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 38 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1618, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06063
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9 straipsnio pakeitimo įstatymas
