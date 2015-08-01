@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-07-08 iki 2015-07-31
+Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2209,25 +2209,22 @@ Asmenys privalo įvykdyti mokesčių administratoriaus nurodymą pašalinti apli
 
 
 
-63 straipsnis. Nurodymo dėl mokestinės nepriemokos nurašymo iš asmens sąskaitos kredito įstaigoje vykdymas
+63 straipsnis. Nurodymo dėl mokestinės nepriemokos nurašymo iš asmens sąskaitos (sąskaitų) kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje vykdymas
 
 
-1. Kredito įstaiga mokesčių administratoriaus nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos privalo įvykdyti visiškai. Minėtas mokesčių administratoriaus nurodymas turi būti priimamas bei vykdomas ir tuomet, kai mokesčių mokėtojo sąskaitoje nėra pinigų arba yra mažesnė pinigų suma negu nurašytina. Tokiu atveju nurašymas turi būti atliekamas tol, kol iš mokesčių mokėtojo sąskaitos bus nurašyta visa nurodyme nurodyta suma. Mokesčių administratorius sumažina savo nurodyme, kuris jau pateiktas kredito įstaigai, numatytą nurašytiną sumą, jei mokestinė nepriemoka iš dalies padengiama kitokiu būdu. Šiuo atveju mokesčių administratorius apie reikalavimo sumažinimą nedelsdamas informuoja kredito įstaigą, kuri pateiktą nurodymą vykdo pagal patikslintą sumą.
-
-
-
-
-2. Jeigu kredito įstaigai yra pateiktas mokesčių administratoriaus nurodymas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos ir atitinkamas antstolių patvarkymas ar kitos valstybės institucijos sprendimas dėl priverstinio išieškojimo, o mokesčių mokėtojo sąskaitoje nėra pakankamai lėšų visiems minėtiems sprendimams ar nurodymams patenkinti, kredito įstaiga privalo vykdyti mokesčių administratoriaus nurodymą atsižvelgdama į Civilinio proceso kodekso 754 straipsnyje nustatytą reikalavimų patenkinimo eilę bei minėtų dokumentų pateikimo datą. Šio straipsnio 1 dalyje numatytu atveju mokesčių administratoriui sumažinus nurašytiną sumą, nurodymo pateikimo data nesikeičia.
+1. Mokesčių administratoriaus nurodymas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) privalo būti įvykdytas visiškai. Šis mokesčių administratoriaus nurodymas turi būti priimamas bei vykdomas ir tuo atveju, kai mokesčių mokėtojo sąskaitoje nėra pinigų arba yra mažesnė pinigų suma negu nurašytina. Tokiu atveju nurašymas turi būti atliekamas tol, kol iš mokesčių mokėtojo sąskaitos (sąskaitų) bus nurašyta visa nurodyme nurodyta suma. Mokesčių administratorius sumažina savo nurodyme, kuris jau pateiktas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai, numatytą nurašytiną sumą, jei mokestinė nepriemoka iš dalies padengiama kitokiu būdu. 
 
 
 
 
-3. Mokėjimo ir elektroninių pinigų įstaigoms mutatis mutandis taikomos šio straipsnio 1 ir 2 dalių nuostatos.
+2. Mokesčių administratoriaus nurodymas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai pateikiamas ir vykdomas vadovaujantis Civilinio proceso kodekse nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
 Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
+Straipsnio pakeitimai:
+Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
  
 
 
@@ -3309,15 +3306,22 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-102 straipsnis. Nurodymas kredito, mokėjimo arba elektroninių pinigų įstaigai nutraukti pinigų išdavimą iš mokesčių mokėtojo sąskaitos (sąskaitų)
+102 straipsnis. Nurodymas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nutraukti pinigų išdavimą iš mokesčių mokėtojo sąskaitos (sąskaitų)
 
 
-Mokesčių administratorius turi teisę duoti nurodymus kredito įstaigoms, mokėjimo ir elektroninių pinigų įstaigoms nutraukti pinigų išdavimą ir pervedimą iš mokesčių mokėtojo sąskaitos (sąskaitų), jeigu mokesčių mokėtojas neleidžia patikrinti, ar teisingai apskaičiuoti ir sumokėti mokesčiai, arba jeigu dėl mokesčių mokėtojo yra priimtas sprendimas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos kredito, mokėjimo arba elektroninių pinigų įstaigoje.
+1. Mokesčių administratorius turi teisę duoti nurodymus nutraukti pinigų išdavimą ir pervedimą iš mokesčių mokėtojo sąskaitos (sąskaitų), jeigu mokesčių mokėtojas neleidžia patikrinti, ar teisingai apskaičiuoti ir sumokėti mokesčiai, arba jeigu dėl mokesčių mokėtojo yra priimtas sprendimas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje.
+
+
+
+
+2. Tuo atveju, kai duodamas šio straipsnio 1 dalyje arba šio Įstatymo 63 straipsnyje numatytą nurodymą mokesčių administratorius nurodo, kad asmuo gali vykdyti tam tikras operacijas sąskaitoje (sąskaitose), turi būti nurodyta konkreti lėšų suma, kuri per vieną kalendorinį mėnesį gali būti panaudota mokėjimams atlikti. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
 Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
+Straipsnio pakeitimai:
+Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
  
 
 
@@ -3498,7 +3502,10 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 1. Mokestinė nepriemoka priverstinai gali būti išieškoma:
 
 
-1) duodant kredito, mokėjimo ar elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;
+1) duodant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų). Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
+ 
 
 
 
@@ -3508,7 +3515,10 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 
 
-3) duodant kredito, mokėjimo ar elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos, jeigu laiduotojas arba garantas nevykdo šio straipsnio 2 punkto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;
+3) duodant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos (sąskaitų), jeigu laiduotojas arba garantas nevykdo šio straipsnio 2 punkto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
+ 
 
 
 
