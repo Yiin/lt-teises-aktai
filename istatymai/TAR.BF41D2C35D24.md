@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2014-11-01 iki 2015-07-31
+Suvestinė redakcija nuo 2015-08-01 iki 2016-06-02
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -518,6 +518,7 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 
 
+ 
 
 
 
@@ -538,7 +539,7 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
  3) III kategorijos kelių 
  – 
- 10 metrų; 
+ 10 metrų. 
 
 
  4) IV kategorijos kelių 
@@ -587,7 +588,7 @@ Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 
  4) vietinės reikšmės I–III kategorijos kelių 
  – 
- po 10 metrų; 
+ po 10 metrų. 
 
 
  5) vietinės reikšmės IV kategorijos kelių 
@@ -841,7 +842,15 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-5) važiuoti vieną kartą, jeigu transporto priemonės masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę.
+5) važiuoti vieną kartą, jeigu transporto priemonės masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę;
+
+
+
+
+6) važiuoti mėnesiui, jeigu šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabe) su suporintais ratais ir kurios ašies (ašių) apkrova ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 tonos. 
+Papildyta straipsnio punktu:
+Nr. XII-1843, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10589
+ 
 
 
 
@@ -896,7 +905,10 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 10. Jeigu nustatoma, kad transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamuosius matmenis: ilgį daugiau kaip 1 m, aukštį daugiau kaip 10 cm, plotį daugiau kaip 9 cm ir (ar) ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 0,6 t ir (ar) bendroji masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę daugiau kaip 1 t, o jos savininkas ar valdytojas (vairuotojas) neturi leidimo:
 
 
-1) transporto priemonei leidžiama važiuoti tik įforminus administracinį teisės pažeidimą ir gavus leidimą;
+1) transporto priemonei leidžiama važiuoti tik įforminus administracinį teisės pažeidimą ir gavus leidimą. Jeigu leidimas važiuoti tokia transporto priemone negali būti išduotas, turi būti sumokėtas mokestis už nuvažiuotą maršrutą, o toliau transporto priemonei važiuoti turi būti draudžiama iki tol, kol didžiagabarite ir (ar) sunkiasvore transporto priemone vežamas krovinys nebus nukrautas arba krovinys nebus perkrautas į kitą transporto priemonę, kuriai yra išduotas leidimas vežti tokį krovinį;
+Straipsnio punkto pakeitimai:
+Nr. XII-1843, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10589
+ 
 
 
 
@@ -1091,3 +1103,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 Lietuvos Respublikos kelių įstatymo Nr. I-891 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1843, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10589
+Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
