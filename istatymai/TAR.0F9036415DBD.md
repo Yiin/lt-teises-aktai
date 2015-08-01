@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-07-31
+Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -1063,7 +1063,10 @@ Nr. XI-2302, 2012-10-17, Žin., 2012, Nr. 127-6391 (2012-11-03)
 1. Fondo valdybos teritoriniai skyriai laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas gali išieškoti priverstine tvarka tokiais būdais:
 
 
-1) duodami nurodymą kredito įstaigai nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas nurašyti iš draudėjo sąskaitos kredito įstaigoje Civilinio proceso kodekso 754 straipsnyje nustatyta tvarka; 
+1) duodami nurodymą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas nurašyti iš draudėjo sąskaitos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje Civilinio proceso kodekso 754 straipsnyje nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+ 
 
 
 
@@ -1073,7 +1076,10 @@ Nr. XI-2302, 2012-10-17, Žin., 2012, Nr. 127-6391 (2012-11-03)
 
 
 
-3) duodami nurodymą kredito įstaigai laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas nurašyti iš draudėjo indėlių kredito įstaigoje ir priklausančių palūkanų;
+3) duodami nurodymą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas nurašyti iš draudėjo indėlių kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje ir priklausančių palūkanų; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+ 
 
 
 
@@ -1088,7 +1094,10 @@ Nr. XI-2302, 2012-10-17, Žin., 2012, Nr. 127-6391 (2012-11-03)
 2. Fondo valdybos teritoriniai skyriai skolos išieškojimui užtikrinti gali:
 
 
-1) duoti nurodymus Lietuvos Respublikos kredito įstaigoms nutraukti pinigų išdavimą bei pervedimą iš draudėjų sąskaitų, jeigu jie skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius;
+1) duoti nurodymus Lietuvos Respublikos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoms nutraukti pinigų išdavimą bei pervedimą iš draudėjų sąskaitų, jeigu jie skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius;
+Straipsnio punkto pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+ 
 
 
 
@@ -1205,25 +1214,33 @@ Nr. XII-401, 2013-06-25, Žin., 2013, Nr. 73-3656 (2013-07-09)
 
 
 
-21 straipsnis. Fondo administravimo įstaigų santykiai su kredito įstaigomis, mokėjimo įstaigomis ir kitomis įstaigomis, įmonėmis ir organizacijomis 
+21 straipsnis. Fondo administravimo įstaigų santykiai su kredito, mokėjimo ir (ar) elektroninių pinigų įstaigomis ir kitomis įstaigomis, įmonėmis ir organizacijomis
 
 
-1. Lietuvos Respublikoje veikiančios kredito įstaigos, mokėjimo įstaigos ir kitos įstaigos, įmonės ar organizacijos Fondo lėšų apyvartos operacijas atlieka nemokamai.
-
-
-
-
-2. Kredito įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito įstaigoje asmens atidarytos sąskaitos laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas privalo įvykdyti per Mokėjimų įstatyme nustatytą mokėjimo nurodymo įvykdymo terminą. Kredito įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas privalo įvykdyti pagal pirmą indėlininko pareikalavimą arba suėjus indėlio terminui. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito įstaigoje atidarytos asmens sąskaitos nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo sąskaitoje nėra pinigų ar yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurašymas turi būti atliekamas dalimis tol, kol iš draudėjo sąskaitos bus nurašyta visa nurodyta suma. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo indėlio suma yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurodymas nurašyti laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas įvykdomas tokia dalimi, kokio dydžio yra asmens indėlis kartu su priklausančiomis palūkanomis. Fondo administravimo įstaigos sumažina nurodyme, kuris jau pateiktas kredito įstaigai, numatytą nurašyti sumą, jei laiku nesumokėtos socialinio draudimo įmokos, neginčytini delspinigiai, neginčytinos palūkanos ir neginčijamos baudos iš dalies padengiami kitokiu būdu. Šiuo atveju Fondo administravimo įstaigos apie reikalavimo sumažinimą nedelsdamos praneša kredito įstaigai, o ši pateiktą nurodymą vykdo patikslindama sumas.
+1. Lietuvos Respublikoje veikiančios kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos ir kitos įstaigos, įmonės ar organizacijos Fondo lėšų apyvartos operacijas atlieka nemokamai.
 
 
 
 
-3. Jeigu kredito įstaigai yra pateiktas Fondo administravimo įstaigos nurodymas priverstine tvarka nurašyti nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas iš draudėjo sąskaitos ir atitinkamas antstolių patvarkymas ar kitos valstybinės institucijos sprendimas dėl priverstinio išieškojimo, o draudėjo sąskaitoje nėra pakankamai lėšų visiems minėtiems sprendimams ar nurodymams patenkinti, kredito įstaiga privalo vykdyti Fondo administravimo įstaigos nurodymą, atsižvelgdama į Civilinio proceso kodekso 754 straipsnyje nustatytą lėšų nurašymo eilę ir minėtų dokumentų pateikimo datą. Jeigu šio straipsnio 2 dalyje numatytu atveju Fondo administravimo įstaiga patikslina nurašytiną sumą, nurodymo pateikimo data nesikeičia.
+2. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje asmens atidarytos sąskaitos laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas privalo įvykdyti per Mokėjimų įstatyme nustatytą mokėjimo nurodymo įvykdymo terminą. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas privalo įvykdyti pagal pirmą indėlininko pareikalavimą arba suėjus indėlio terminui. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje atidarytos asmens sąskaitos nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo sąskaitoje nėra pinigų ar yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurašymas turi būti atliekamas dalimis tol, kol iš draudėjo sąskaitos bus nurašyta visa nurodyta suma. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo indėlio suma yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurodymas nurašyti laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas įvykdomas tokia dalimi, kokio dydžio yra asmens indėlis kartu su priklausančiomis palūkanomis. Fondo administravimo įstaigos sumažina nurodyme, kuris jau pateiktas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai, numatytą nurašyti sumą, jeigu laiku nesumokėtos socialinio draudimo įmokos, neginčytini delspinigiai, neginčytinos palūkanos ir neginčijamos baudos iš dalies padengiami kitokiu būdu. Šiuo atveju Fondo administravimo įstaigos apie reikalavimo sumažinimą nedelsdamos praneša kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai, o ši pateiktą nurodymą vykdo patikslindama sumas.
+
+
+
+
+3. Fondo administravimo įstaigos nurodymai priverstine tvarka nurašyti nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas iš draudėjo sąskaitos vykdomi Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+4. Tuo atveju, jeigu Fondo administravimo įstaiga, pateikdama kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą apriboti asmens teisę disponuoti lėšomis, esančiomis šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje asmens atidarytoje sąskaitoje, nurodo, kad asmuo gali vykdyti tam tikras operacijas su jo sąskaitoje esančiomis lėšomis, turi būti nurodyta konkreti lėšų suma, kuri per vieną kalendorinį mėnesį gali būti panaudota mokėjimams atlikti.
 
 
 Straipsnio pakeitimai:
 Nr. X-1396, 2007-12-20, Žin., 2007, Nr. 138-5651 (2007-12-29)
 Nr. XI-2302, 2012-10-17, Žin., 2012, Nr. 127-6391 (2012-11-03)
+ 
+Straipsnio pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
  
 
 
@@ -2040,7 +2057,10 @@ FONDO ADMINISTRAVIMO įstaigų teisės ir atsakomybė
 2. Fondo administravimo įstaigų valstybės tarnautojai, atlikdami šio įstatymo jiems pavestas funkcijas, turi teisę:
 
 
-1) neatlygintinai gauti iš įmonių, įstaigų bei organizacijų ir kitų asmenų, įskaitant kredito ir mokėjimo įstaigas, pareigoms atlikti reikalingą informaciją, paaiškinimus bei dokumentų socialinio draudimo klausimais nuorašus;
+1) neatlygintinai gauti iš įmonių, įstaigų bei organizacijų ir kitų asmenų, įskaitant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigas, pareigoms atlikti reikalingą informaciją, paaiškinimus ir dokumentų socialinio draudimo klausimais nuorašus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+ 
 
 
 
@@ -2095,12 +2115,18 @@ FONDO ADMINISTRAVIMO įstaigų teisės ir atsakomybė
 3. Fondo valdybos direktorius ir jo pavaduotojai, Fondo valdybos teritorinių skyrių direktoriai ir jų pavaduotojai turi teisę:
 
 
-1) priverstine tvarka išieškoti iš draudėjų sąskaitų Lietuvos Respublikos kredito įstaigose laiku nesumokėtas socialinio draudimo įmokas bei delspinigius ir baudas;
+1) priverstine tvarka išieškoti iš draudėjų sąskaitų Lietuvos Respublikos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose laiku nesumokėtas socialinio draudimo įmokas bei delspinigius ir baudas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+ 
 
 
 
 
-2) duoti nurodymus Lietuvos Respublikos kredito įstaigoms nutraukti pinigų išdavimą bei pervedimą iš draudėjų sąskaitų, jeigu jie skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius; 
+2) duoti nurodymus Lietuvos Respublikos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoms nutraukti pinigų išdavimą bei pervedimą iš draudėjų sąskaitų, jeigu jie skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius;
+Straipsnio punkto pakeitimai:
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+ 
 
 
 
@@ -2806,3 +2832,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 5, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1409, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20432
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-1792 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 17, 21 ir 36 straipsnių pakeitimo įstatymas
