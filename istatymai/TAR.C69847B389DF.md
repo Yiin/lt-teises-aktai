@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF"
 
 # Lietuvos Respublikos įmonių restruktūrizavimo įstatymas
 
-Suvestinė redakcija nuo 2015-06-30 iki 2015-07-31
+Įstatymas netenka galios 2020-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2221, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10324
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
+ 
+Suvestinė redakcija nuo 2015-08-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1012, i. k. 1011010ISTA00IX-218
  
@@ -174,7 +179,10 @@ Restruktūrizavimas gali būti pradėtas, jeigu įmonė:
 
 5) antstolių, kuriems yra pateikti vykdomieji dokumentai dėl išieškojimo iš įmonės ar dėl jos turto arešto, ir vykdomųjų bylų bei teismų, nagrinėjančių bylas, kuriose įmonei pareikšti turtiniai reikalavimai, sąrašai; 
 
-6) areštuotų įmonės sąskaitų sąrašas, kuriame nurodomi sąskaitų numeriai ir kredito įstaigų, kuriose jos atidarytos, rekvizitai;
+6) areštuotų įmonės sąskaitų sąrašas, kuriame nurodomi sąskaitų numeriai ir kredito įstaigų, kuriose jos atidarytos, rekvizitai, konkreti didžiausia lėšų suma, reikalinga įmonės einamosioms įmokoms per vieną kalendorinį mėnesį mokėti, ir ją pagrindžiantys dokumentai;
+Straipsnio punkto pakeitimai:
+Nr. XII-1456, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21206
+ 
 
 7) kiti dokumentai, kurie gali būti svarbūs įmonės restruktūrizavimo bylai iškelti.
  
@@ -189,7 +197,10 @@ Restruktūrizavimas gali būti pradėtas, jeigu įmonė:
 
 3) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka taikyti laikinąsias apsaugos priemones, kurios galioja iki nutarties iškelti įmonės restruktūrizavimo bylą ar atsisakyti ją kelti įsiteisėjimo dienos.
 
-2. Dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo teismas priima nutartį. Teismo nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo yra neskundžiama. Teismas ne vėliau kaip kitą darbo dieną nuo nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos šios nutarties kopiją išsiunčia įmonei, šio įstatymo 15 straipsnio 3 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai, antstoliams, nurodytiems šio įstatymo 6 straipsnio 4 dalies 5 punkte, ir Juridinių asmenų registro tvarkytojui. Informaciją apie tai, kad priimta nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, taip pat informaciją apie atsisakymą iškelti restruktūrizavimo bylą teismas privalo paskelbti specialioje interneto svetainėje ne vėliau kaip kitą darbo dieną po to, kai priimama nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, taip pat po teismo nutarties dėl atsisakymo iškelti restruktūrizavimo bylą įsiteisėjimo. Jeigu dėl įmonės buvo priimti teismų ir kitų institucijų sprendimai ir pagal juos išduoti vykdomieji dokumentai arba kredito, mokėjimo ar elektroninių pinigų įstaigai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka duoti antstolio, kitų institucijų ar pareigūnų nurodymai areštuoti, nurašyti lėšas arba nutraukti lėšų išmokėjimą iš įmonės sąskaitos, teismui priėmus nutartį dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, įmonės turtas (lėšos) pagal šiuos vykdomuosius dokumentus ir nurodymus gali būti areštuojamas, tačiau nuo teismo nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos šio turto realizavimas ir (ar) išieškojimas sustabdomas. Tuo atveju, jeigu įmonės sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai, teismas nutartyje dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo privalo nurodyti, kad iš vienos ar kelių konkrečių sąskaitų gali būti mokami visi įmonės ūkinei komercinei veiklai reikalingi mokėjimai ir įmokos, įskaitant ir privalomąsias įmokas, neatsižvelgiant į tai, kad sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai. Jeigu nurodoma vykdyti mokėjimus iš areštuotos sąskaitos, teismo nutartis nedelsiant siunčiama turto arešto aktų registrui.
+2. Dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo teismas priima nutartį. Teismo nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo yra neskundžiama. Teismas ne vėliau kaip kitą darbo dieną nuo nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos šios nutarties kopiją išsiunčia įmonei, šio įstatymo 15 straipsnio 3 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai, antstoliams, nurodytiems šio įstatymo 6 straipsnio 4 dalies 5 punkte, ir Juridinių asmenų registro tvarkytojui. Informaciją apie tai, kad priimta nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, taip pat informaciją apie atsisakymą iškelti restruktūrizavimo bylą teismas privalo paskelbti specialioje interneto svetainėje ne vėliau kaip kitą darbo dieną po to, kai priimama nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, taip pat po teismo nutarties dėl atsisakymo iškelti restruktūrizavimo bylą įsiteisėjimo. Jeigu dėl įmonės buvo priimti teismų ir kitų institucijų sprendimai ir pagal juos išduoti vykdomieji dokumentai arba kredito, mokėjimo ar elektroninių pinigų įstaigai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka duoti antstolio, kitų institucijų ar pareigūnų nurodymai areštuoti, nurašyti lėšas arba nutraukti lėšų išmokėjimą iš įmonės sąskaitos, teismui priėmus nutartį dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, įmonės turtas (lėšos) pagal šiuos vykdomuosius dokumentus ir nurodymus gali būti areštuojamas, tačiau nuo teismo nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos šio turto realizavimas ir (ar) išieškojimas sustabdomas. Tuo atveju, jeigu įmonės sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai, teismas nutartyje dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo privalo nurodyti, kad iš vienos ar kelių konkrečių sąskaitų gali būti mokami visi įmonės ūkinei komercinei veiklai reikalingi mokėjimai ir įmokos, įskaitant ir privalomąsias įmokas, neatsižvelgiant į tai, kad sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai, ir nurodyti konkrečią didžiausią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota šiems mokėjimams ir įmokoms mokėti. Teismo nustatyta lėšų suma negali būti mažesnė negu suma, reikalinga įmonės einamosioms įmokoms per vieną kalendorinį mėnesį mokėti. Jeigu nurodoma vykdyti mokėjimus iš areštuotos sąskaitos, teismo nutartis nedelsiant siunčiama turto arešto aktų registrui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1456, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21206
+ 
 
 3. Teismas ne vėliau kaip per vieną mėnesį nuo nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos priima nutartį iškelti įmonės restruktūrizavimo bylą ar atsisakyti ją kelti. Teismas turi teisę dėl svarbių priežasčių pratęsti pasirengimo nagrinėti įmonės restruktūrizavimo bylą teisme terminą, bet ne ilgiau kaip vieną mėnesį. Jeigu teismas, rengdamasis bylos nagrinėjimui, nusprendžia skirti parengiamąjį teismo posėdį, tai toks posėdis gali būti tik vienas. Skirdamas parengiamąjį teismo posėdį, teismas privalo laikytis šioje dalyje nurodytos nutarties iškelti įmonės restruktūrizavimo bylą ar atsisakyti ją kelti priėmimo terminų.
 
@@ -219,7 +230,10 @@ Restruktūrizavimas gali būti pradėtas, jeigu įmonė:
 
 5) neteko galios nuo 2014-07-01;
 
-6) įmonės sąskaitų, iš kurių gali būti mokamos einamosios įmokos ir šio įstatymo 5 straipsnio 1 dalies 6 punkte nurodyti mokėjimai, neatsižvelgiant į tai, kad sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai;
+6) įmonės sąskaitos, iš kurių gali būti mokamos einamosios įmokos ir šio įstatymo 5  straipsnio 1 dalies 6 punkte nurodyti mokėjimai, neatsižvelgiant į tai, kad sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai, ir konkreti didžiausia lėšų suma, kuri negali būti mažesnė negu visų įmonės vieno kalendorinio mėnesio einamųjų įmokų ir šio įstatymo 5 straipsnio 1 dalies 6 punkte nurodytų mokėjimų suma ir kuri per vieną kalendorinį mėnesį gali būti panaudota šiems mokėjimams ir įmokoms mokėti; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1456, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21206
+ 
 
 7) savanoriškų įmonės įsipareigojimų kreditoriams vykdymas iki teismo nutarties patvirtinti restruktūrizavimo planą įsiteisėjimo dienos.
 
@@ -883,7 +897,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
  
 
 Lietuvos Respublikos 
@@ -1010,4 +1024,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1792, 2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10358
 Lietuvos Respublikos įmonių restruktūrizavimo įstatymo Nr. IX-218 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1456, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21206
+Lietuvos Respublikos įmonių restruktūrizavimo įstatymo Nr. IX-218 6 ir 7 straipsnių pakeitimo įstatymas
 
