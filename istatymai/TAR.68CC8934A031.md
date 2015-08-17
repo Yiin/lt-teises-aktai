@@ -21,7 +21,7 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-11 iki 2015-08-16
+Suvestinė redakcija nuo 2015-08-17 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -966,6 +966,26 @@ Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010IST
 
 
 
+DEVINTASIS3 SKIRSNIS
+2012 M. LIEPOS 4 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 650/2012 DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, TEISMO SPRENDIMŲ PAVELDĖJIMO KLAUSIMAIS PRIPAŽINIMO IR VYKDYMO BEI AUTENTIŠKŲ DOKUMENTŲ PAVELDĖJIMO KLAUSIMAIS PRIĖMIMO IR VYKDYMO BEI DĖL EUROPOS PAVELDĖJIMO PAŽYMĖJIMO SUKŪRIMO ĮGYVENDINIMAS
+ 
+
+
+3112 straipsnis. Europos paveldėjimo pažymėjimo išdavimas
+
+
+Institucija, kuri, vadovaujantis 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo 64 straipsnio b punkto nuostatomis, išduoda Europos paveldėjimo pažymėjimą, yra palikimo atsiradimo vietos notaras. 
+
+
+
+
+Papildyta skirsniu:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
+
+
+
+
 DEVINTASIS4 SKIRSNIS
 2013 M. BIRŽELIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (ES) NR. 606/2013 DĖL APSAUGOS PRIEMONIŲ TARPUSAVIO PRIPAŽINIMO CIVILINĖSE BYLOSE ĮGYVENDINIMAS
  
@@ -1143,6 +1163,14 @@ Nr. XI-2081, 2012-06-19, Žin., 2012, Nr. 76-3928 (2012-06-30), i. k. 1121010IST
 9. 2011 m. birželio 9 d. Tarybos sprendimas Nr. 2011/432/ES dėl 2007 m. lapkričio 23 d. Hagos konvencijos dėl tarptautinio vaikų ir kitokių šeimos išlaikymo išmokų išieškojimo patvirtinimo Europos Sąjungos vardu (OL 2011 L 192, p. 39).
 Papildyta straipsnio dalimi:
 Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010ISTA0XII-392
+ 
+
+
+
+
+10. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo (OL 2012 L 201, p. 107).
+Papildyta straipsnio dalimi:
+Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
  
 
 
