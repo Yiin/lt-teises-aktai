@@ -20,7 +20,7 @@ Redaguota : 1995 07 21
 
 
 
-Suvestinė redakcija nuo 2014-11-14 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -354,6 +354,14 @@ Tokios rūšys Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūši�
 
 
 50. Rūšies buveinė – specifiniais abiotiniais ir biotiniais veiksniais pasižyminti aplinka, kurioje rūšis gyvena bet kuriuo savo biologinio ciklo etapu.
+
+
+
+
+51. Požeminio vandens vandenvietė – įrenginių, kuriais požeminis vanduo surenkamas ir nukreipiamas į žemės paviršių, išdėstymo vieta.
+Papildyta straipsnio dalimi:
+Nr. XII-1784, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09799
+ 
 
 
 Straipsnio pakeitimai:
@@ -1417,7 +1425,10 @@ Nr. XI-1993, 2012-04-26, Žin., 2012, Nr. 53-2642 (2012-05-08)
 2. Pagal apsaugos pobūdį ekologinės apsaugos zonos yra:
 
 
-1) bendrosios ekologinės apsaugos – miestų ir kurortų, pajūrio ir laukų  apsaugos, požeminių vandenų (vandenviečių), paviršinio vandens telkinių, agrarinių takoskyrų bei intensyvaus karsto apsaugos zonos;
+1) bendrosios ekologinės apsaugos – miestų ir kurortų, pajūrio ir laukų apsaugos, požeminio vandens vandenviečių, paviršinio vandens telkinių, agrarinių takoskyrų ir intensyvaus karsto apsaugos zonos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1784, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09799
+ 
 
 
 
@@ -1653,6 +1664,24 @@ reglamentavimas
 Straipsnio pakeitimai:
 Nr. XI-1993, 2012-04-26, Žin., 2012, Nr. 53-2642 (2012-05-08)
 Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
+ 
+
+
+
+
+201 straipsnis. Požeminio vandens vandenviečių apsaugos zonos ir veiklos jose reglamentavimas
+
+
+1. Požeminio vandens vandenviečių apsaugos zonos nustatomos, kad požeminio vandens vandenvietės nebūtų užterštos pavojingomis medžiagomis. Požeminio vandens vandenviečių apsaugos zonų nustatymo tvarką nustato aplinkos ministras.
+
+
+
+
+2. Atsižvelgdama į šio straipsnio 1 dalyje nustatytą apsaugos tikslą, tvirtindama Specialiųjų žemės naudojimo sąlygų aprašą požeminio vandens vandenviečių apsaugos zonose, Vyriausybė nustato ūkinės veiklos, galinčios užteršti iš vandenviečių paimamą vandenį, apribojimus.
+
+
+Papildyta straipsniu:
+Nr. XII-1784, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09799
  
 
 
@@ -2242,7 +2271,6 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 
 
-Papildoma nuo 2015-01-01:
 281 straipsnis. Teritorijų planavimo dokumentų, rengiamų saugomų teritorijų sistemai, jos dalims ar atskiroms saugomoms teritorijoms, rengėjai
 
 
@@ -2848,3 +2876,8 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 30 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 31 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1784, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09799
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 18 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
