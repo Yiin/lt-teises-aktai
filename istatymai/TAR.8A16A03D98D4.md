@@ -20,14 +20,11 @@ Neoficialus įstatymo tekstas
 
 
 
-Suvestinė redakcija nuo 2014-11-01 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-09-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 65-1558, i. k. 0971010ISTAVIII-359
  
-LIETUVOS RESPUBLIKOS
-PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO 
-ĮSTATYMAS
- 
+LIETUVOS RESPUBLIKOS PILIEČIŲ NUOSAVYBĖS TEISIŲ Į IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO  ĮSTATYMAS  
 1997 m. liepos 1 d. Nr. VIII-359 Vilnius
  
  
@@ -533,7 +530,11 @@ SĄLYGOS, DĖL KURIŲ IŠLIKUSĮ NEKILNOJAMĄJĮ TURTĄ IŠPERKA VALSTYBĖ
 Žemė iš šio įstatymo 2 straipsnyje nurodytų piliečių išperkama valstybės ir už ją atlyginama pagal šio įstatymo 16 straipsnį, jeigu ji:
 
 
-1) užimta valstybės ir savivaldybės kelių; aerodromų (jų sąrašą ir žemės plotus tvirtina Vyriausybė); užimta karinių dalinių ir skirta valstybės sienos apsaugai (žemės plotus ir jų ribas tvirtina Vyriausybė); yra naudingųjų iškasenų naudojamų telkinių teritorijoje;
+1) užimta valstybės ir savivaldybės kelių su šalia jų esančiais valstybinės žemės plotais, pagal teritorijų planavimo dokumentus ar žemės valdos projektus reikalingais šių kelių plėtrai; aerodromų (jų sąrašą ir žemės plotus tvirtina Vyriausybė); užimta karinių dalinių ir skirta valstybės sienos apsaugai (žemės plotus ir jų ribas tvirtina Vyriausybė); yra naudingųjų iškasenų naudojamų telkinių teritorijoje;
+TAR pastaba. Iki įstatymo Nr. XII-1809 įsigaliojimo (2015-09-01) pradėtos nuosavybės teisių atkūrimo procedūros užbaigiamos pagal iki įstatymo Nr. XII-1809 įsigaliojimo (2015-09-01) galiojusias Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo nuostatas. Nuosavybės teisių atkūrimo procedūra laikoma pradėta, jeigu grąžintinas natūra arba perduotinas neatlygintinai nuosavybėn žemės sklypas suprojektuotas teritorijų planavimo dokumente ar žemės valdos projekte, teisės aktų nustatyta tvarka patvirtintame iki įstatymo Nr. XII-1809 įsigaliojimo dienos (2015-09-01).
+Straipsnio punkto pakeitimai:
+Nr. XII-1809, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10572
+ 
 
 
 
@@ -1336,3 +1337,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1150, 2014-09-25, paskelbta TAR 2014-10-08, i. k. 2014-13859
 Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 10, 16 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1809, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10572
+Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 12 straipsnio pakeitimo įstatymas
