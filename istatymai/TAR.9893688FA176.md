@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9893688FA176"
 
 # Lietuvos Respublikos geriamojo vandens įstatymas
 
-Suvestinė redakcija nuo 2010-12-18 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2327, i. k. 1011010ISTA00IX-433
  
@@ -128,12 +128,18 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 
 
-11. Geriamojo vandens šaltinis – vandens telkinys, kurio vanduo atitinka teisės aktų nustatytus geriamojo vandens saugos ir kokybės reikalavimus arba yra žaliava geriamajam vandeniui ruošti. 
+11. Geriamojo vandens vandenvietė – įrenginių, kuriais požeminis vanduo, atitinkantis teisės aktų nustatytus geriamojo vandens saugos ir kokybės reikalavimus arba naudojamas kaip žaliava geriamajam vandeniui ruošti, surenkamas ir nukreipiamas į žemės paviršių, išdėstymo vieta. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
 
-12. Geriamojo vandens šaltinio apsauga – teisės aktų nustatyta tvarka įgyvendinamų teisinių, administracinių, aplinkosaugos ir inžinerinių priemonių, skirtų geriamojo vandens šaltinių apsaugai nuo užteršimo ir išsekimo, visuma. 
+12. Geriamojo vandens vandenvietės apsauga – teisės aktų nustatyta tvarka įgyvendinamų teisinių, administracinių, aplinkosaugos ir inžinerinių priemonių, skirtų geriamojo vandens vandenvietės apsaugai nuo užteršimo ir išsekimo, visuma. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
@@ -211,9 +217,11 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 
 
-27. Geriamojo vandens tiekimo objekto teritorija – geografiškai apibrėžta teritorija, kurioje žmonėms vartoti skirtas vanduo tiekiamas iš vieno ar daugiau vandens tiekimo šaltinių ir kurioje vandens kokybė gali būti laikoma beveik vienoda. 
+27. Geriamojo vandens tiekimo objekto teritorija – geografiškai apibrėžta teritorija, kurioje žmonėms vartoti skirtas vanduo tiekiamas iš vienos ar daugiau geriamojo vandens vandenviečių ir kurioje vandens kokybė gali būti laikoma beveik vienoda. 
 Papildyta straipsnio dalimi:
 Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+Straipsnio dalies pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
  
 
 
@@ -222,6 +230,14 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 28. Nukrypti leidžianti nuostata (išlyga) – leidimas ribotą laikotarpį viešai tiekti geriamąjį vandenį, kurio vienas ar keli toksiniai (cheminiai) rodikliai viršija teisės aktuose nustatytas ribines rodiklių vertes.
 Papildyta straipsnio dalimi:
 Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
+ 
+
+
+
+
+29. Geriamojo vandens vandenvietės apsaugos zona – geriamojo vandens vandenvietės apsaugai nuo užteršimo ir išsekimo skirta teritorija, kurioje ribojama ūkinė veikla.
+Papildyta straipsnio dalimi:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
  
 
 
@@ -276,7 +292,10 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 
 
-2) organizuoja ir Saugomų teritorijų bei Aplinkos monitoringo įstatymuose nustatyta tvarka atlieka geriamajam vandeniui tiekti naudojamų vandens šaltinių apsaugą ir stebi bei prižiūri savivaldybių vandens išteklius;
+2) organizuoja ir Saugomų teritorijų įstatyme, Aplinkos monitoringo įstatyme nustatyta tvarka atlieka geriamajam vandeniui tiekti naudojamų geriamojo vandens vandenviečių apsaugą, stebi ir prižiūri savivaldybių vandens išteklius;
+Straipsnio punkto pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
@@ -362,7 +381,10 @@ GERIAMOJO VANDENS TIEKIMAS
 
 
 
-2. Vartotojai, laisvai ar su leidimais naudojantys vandens išteklius, apsirūpindami geriamuoju vandeniu, privalo saugoti vandens šaltinius nuo teršimo.
+2. Vartotojai, laisvai ar su leidimais naudojantys vandens išteklius, apsirūpindami geriamuoju vandeniu privalo saugoti geriamojo vandens vandenvietes nuo teršimo, kaip nustatyta teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
@@ -630,7 +652,10 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 
 
-6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai sanitarinėse apsaugos zonose ar vandenviečių mitybos srityse;
+6) išaiškėja vandens teršimo vandentiekio skirstomajame tinkle požymiai, ypatingi įvykiai geriamojo vandens vandenviečių apsaugos zonose ar geriamojo vandens vandenviečių mitybos srityse;
+Straipsnio punkto pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
@@ -653,7 +678,10 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 1. Valstybinė maisto kontrolės institucija atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę, apie jos rezultatus kiekvienais metais praneša Sveikatos apsaugos ministerijai ir skelbia viešai teisės aktų nustatyta tvarka. Įgyvendindami šiuos uždavinius, valstybinės maisto kontrolės institucijos įgalioti pareigūnai turi teisę:
 
 
-1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, sanitarines apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas;
+1) įeiti į vandens tiekimo ir maisto įmonių bei visuomeninių pastatų teritoriją, patalpas, padalinius, geriamojo vandens vandenviečių apsaugos zonas, juos tikrinti, imti bandinius (taip pat ir fasuoto vandens), reikalauti visų reikalingų dokumentų ir juos tikrinti, daryti jų išrašus ar kopijas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
@@ -675,47 +703,50 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 
 
-3. Į valstybinę geriamojo vandens kontrolę įeina visi geriamojo vandens saugos ir kokybės užtikrinimo etapai (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens šaltinių saugos tikrinimo iki vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, taip pat fasuoto vandens tiekimas rinkai):
+3. Valstybinė geriamojo vandens kontrolė apima visus geriamojo vandens saugos ir kokybės užtikrinimo etapus (nuo vandens viešajam tiekimui ir individualiam apsirūpinimui skirtų geriamojo vandens vandenviečių saugos tikrinimo iki geriamojo vandens naudojimo gyvenamuosiuose, viešuose pastatuose (ypač vaikų ugdymo, sveikatos priežiūros, viešojo maitinimo įstaigose ar maisto įmonėse) vietų, iki fasuoto vandens tiekimo rinkai): 
 
 
-1) vandenviečių sanitarinių apsaugos zonų tikrinimas;
-
-
-
-
-2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir susiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimas;
+1) geriamojo vandens vandenviečių apsaugos zonų tikrinimą;
 
 
 
 
-3) vandenviečių, vandens tiekimo įrenginių, vandens ruošimo procesų tikrinimas;
+2) centralizuotų ir individualių techninių geriamojo vandens ruošimo priemonių ir susiliečiančių su geriamuoju vandeniu medžiagų saugaus naudojimo tikrinimą;
 
 
 
 
-4) geriamojo ir maistui tvarkyti naudojamo vandens saugos ir kokybės rodiklių kontrolė;
+3) geriamojo vandens vandenviečių, geriamojo vandens tiekimo įrenginių, geriamojo vandens ruošimo procesų tikrinimą;
 
 
 
 
-5) geriamojo vandens programinės priežiūros planų vykdymo kontrolė;
+4) geriamojo ir maistui ruošti naudojamo vandens saugos ir kokybės rodiklių kontrolę;
 
 
 
 
-6) gyventojų rizikos grupių nustatymas, dalyvavimas vykdant visuomenės sveikatos kontrolę ir monitoringą;
+5) geriamojo vandens programinės priežiūros planų vykdymo kontrolę;
 
 
 
 
-7) geriamojo vandens saugos ir kokybės Lietuvos Respublikoje metinių ataskaitų rengimas ir skelbimas;
+6) gyventojų rizikos grupių nustatymą, dalyvavimą vykdant visuomenės sveikatos kontrolę ir monitoringą;
 
 
 
 
-8) gyventojų aprūpinimo geriamuoju vandeniu ir vartojamo geriamojo vandens saugos ir kokybės ataskaitų, teikiamų Europos Komisijai, rengimas įstatymų, tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka.
+7) geriamojo vandens saugos ir kokybės Lietuvos Respublikoje metinių ataskaitų rengimą ir skelbimą;
 
 
+
+
+8) gyventojų aprūpinimo geriamuoju vandeniu ir vartojamo geriamojo vandens saugos ir kokybės ataskaitų, teikiamų Europos Komisijai, rengimą įstatymų, tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+ 
 
 
 
@@ -740,43 +771,25 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010IS
 
 
 
-13 straipsnis. Geriamojo vandens šaltinių apsauga ir sanitarinės apsaugos zonos
+13 straipsnis. Geriamojo vandens vandenviečių apsauga
 
 
-1. Savivaldybių tarybos, atsižvelgdamos į vietos sąlygas, turi teisę nustatyti griežtesnius geriamojo vandens šaltinių apsaugos reikalavimus, negu numatyta teisės aktuose. 
-
-
-
-
-2. Turi būti nustatomos visų kategorijų miestų, miestelių, kaimų vandenviečių, individualaus vandens tiekimo šaltinių, iš kurių geriamasis vanduo tiekiamas gyventojams, maisto įmonėms ar fasuojamas, sanitarinės apsaugos zonos. 
+1. Geriamojo vandens vandenviečių, iš kurių tiekiama ar planuojama tiekti vidutiniškai daugiau kaip 10 m3 geriamojo vandens per parą arba kai geriamasis vanduo tiekiamas 50 ir daugiau asmenų, arba kai jis naudojamas ūkinei komercinei veiklai, apsaugos zonos nustatomos teritorijų planavimo dokumentuose ar žemės valdos projektuose. Šių zonų nustatymo tvarką nustato aplinkos ministras. Šiose zonose taikomi ūkinės veiklos, galinčios užteršti iš geriamojo vandens vandenviečių paimamą vandenį, apribojimai, kuriuos nustato Vyriausybė, tvirtindama Specialiųjų žemės naudojimo sąlygų aprašą.
 
 
 
 
-3. Sanitarinės apsaugos zonos griežto režimo ir apribojimų juostų nustatymą, įrengimą ir priežiūrą reglamentuoja šis įstatymas ir kiti teisės aktai. 
+2. Gyvenamosiose teritorijose naudojamų geriamojo vandens vandenviečių, kur nėra galimybių sudaryti visų geriamojo vandens vandenvietės apsaugos zonos juostų (išskyrus griežto režimo), naudojimo sąlygas nustato Vyriausybės įgaliota institucija.
 
 
 
 
-4. Gyvenamosiose teritorijose naudojamų vandenviečių, kur nėra galimybių sudaryti visų sanitarinės apsaugos zonos juostų (išskyrus griežto režimo), tolesnio naudojimo geriamojo vandens tiekimui sąlygas nustato Vyriausybės įgaliota institucija. 
+3. Už tinkamą geriamojo vandens vandenviečių apsaugos zonų griežto režimo juostų ir visų vandens tiekimo įrenginių jose tvarkymą atsako vandens tiekėjai.
 
 
-
-
-5. Už tinkamą geriamojo vandens tiekimo šaltinių sanitarinės apsaugos zonos griežto režimo juostų ir visų vandens tiekimo įrenginių jose tvarkymą atsako vandens tiekėjai.
-
-
-
-
-6. Vandens tiekėjai, naudojantys vandens telkinius geriamojo vandens viešajam tiekimui, sanitarinės apsaugos zonos antrąją ir trečiąją juostas privalo pažymėti teritorijų planavimo dokumente. 
-
-
-
-
-7. Juridiniai ir fiziniai asmenys, kurie verčiasi ūkine veikla antrojoje ir trečiojoje juostose, privalo laikytis teisės aktuose nustatytų ūkinės veiklos apribojimų. 
+Straipsnio pakeitimai:
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
  
-
-
 
 
 
@@ -863,3 +876,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. 1101010ISTA0XI-1190
 Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
+Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 2, 4, 6, 11, 12 ir 13 straipsnių pakeitimo įstatymas
