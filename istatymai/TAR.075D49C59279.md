@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2017-05-24
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
  
@@ -189,7 +189,11 @@ Nr. XII-414, 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
 8 straipsnis. Valstybinės žemės pardavimas
 
 
-1. Asmenims žemės reformos metu žemė, miškas ir vandens telkiniai (suformuotais žemės sklypais) parduodami laikantis šio įstatymo 10 straipsnyje nurodytos eilės ir pagal žemės reformos žemėtvarkos projektus, kitus žemės valdos projektus ar teritorijų planavimo dokumentus. Asmenys, pirkdami iš valstybės žemę, išskyrus miškų ūkio paskirties žemę, gali įsigyti ją iš karto arba išsimokėtinai, bet ne per ilgesnį kaip 15 metų laikotarpį Vyriausybės nustatyta tvarka. Asmenys, pirkdami iš valstybės miškų ūkio paskirties žemę, privalo iš karto sumokėti visą žemės kainą. Priverstinė hipoteka išsimokėtinai parduotiems valstybinės žemės sklypams nustatoma Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu Civilinio kodekso nustatyta tvarka.
+1. Asmenims žemės reformos metu žemė, miškas ir vandens telkiniai (suformuotais žemės sklypais) parduodami laikantis šio įstatymo 10 straipsnyje nurodytos eilės ir pagal žemės reformos žemėtvarkos projektus, kitus žemės valdos projektus ar teritorijų planavimo dokumentus. Asmenys, pirkdami iš valstybės žemę, išskyrus miškų ūkio paskirties žemę, gali įsigyti ją iš karto arba išsimokėtinai, bet ne per ilgesnį kaip 15 metų laikotarpį, Vyriausybės nustatyta tvarka. Asmenys, pirkdami iš valstybės miškų ūkio paskirties žemę, privalo iš karto sumokėti visą žemės kainą.
+TAR pastaba. Iki įstatymo (Nr. XII-1810) įsigaliojimo (2015-09-01) pradėtos valstybinės žemės perleidimo privačion nuosavybėn procedūros užbaigiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos žemės reformos įstatymo nuostatas. Perleidimo privačion nuosavybėn procedūra laikoma pradėta, jeigu perleistinas privačion nuosavybėn valstybinės žemės sklypas suprojektuotas teritorijų planavimo dokumente ar žemės valdos projekte, teisės aktų nustatyta tvarka patvirtintame iki šio įstatymo įsigaliojimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1810, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10573
+ 
 
 
 
@@ -453,7 +457,10 @@ VALSTYBINĖ ŽEMĖ
 Žemė neprivatizuojama, jeigu ji:
 
 
-1) užimta valstybės ir savivaldybės kelių, bendrojo naudojimo geležinkelių, jūrų uostų, aerodromų; užimta karinių dalinių ir skirta valstybės sienos apsaugai; yra naudingųjų iškasenų naudojamų telkinių teritorijoje. Išžvalgytų naudingųjų iškasenų nenaudojamų telkinių teritorijoje (išskyrus žemės grąžinimą natūra, taip pat privatizuojamus namų valdų bei asmeniniam ūkiui suteiktus žemės sklypus) esanti žemė privatizuojama pagal atskirus Vyriausybės nutarimus;
+1) užimta valstybės ir savivaldybės kelių su šalia jų esančiais valstybinės žemės plotais, pagal teritorijų planavimo dokumentus ar žemės valdos projektus reikalingais šių kelių plėtrai, bendrojo naudojimo geležinkelių, jūrų uostų, aerodromų; užimta karinių dalinių ir skirta valstybės sienos apsaugai; yra naudingųjų iškasenų naudojamų telkinių teritorijoje. Išžvalgytų naudingųjų iškasenų nenaudojamų telkinių teritorijoje (išskyrus žemės grąžinimą natūra, taip pat privatizuojamus namų valdų ir asmeniniam ūkiui suteiktus žemės sklypus) esanti žemė privatizuojama pagal atskirus Vyriausybės nutarimus;
+Straipsnio punkto pakeitimai:
+Nr. XII-1810, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10573
+ 
 
 
 
@@ -1115,3 +1122,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1840, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10587
 Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 14 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1810, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10573
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8 ir 13 straipsnių pakeitimo įstatymas
