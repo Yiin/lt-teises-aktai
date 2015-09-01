@@ -13,18 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
  
- 
- 
- 
-LIETUVOS RESPUBLIKOS
-POLICIJOS VEIKLOS 
-ĮSTATYMAS
- 
+LIETUVOS RESPUBLIKOS POLICIJOS VEIKLOS  ĮSTATYMAS  
 2000 m. spalio 17 d. Nr. VIII-2048 Vilnius
  
  
@@ -924,7 +918,15 @@ Nr. IX-1504, 2003-04-17, Žin., 2003, Nr. 42-1910 (2003-05-01)
 
 
 
-13) policijos generalinio komisaro nustatyta tvarka fotografuoti asmenis, kurių tapatybė nenustatyta, bejėgiškos būklės asmenis, neatpažintus lavonus, asmenis, kuriems taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, asmenis, įstatymų ar kitų teisės aktų nustatyta tvarka įrašytus į policijos įskaitas, asmenis, kuriems įteiktas pranešimas apie įtarimą padarius nusikalstamą veiką, laikinai sulaikytus, teistus asmenis, juos matuoti, aprašyti jų išorės požymius, daryti garso ar vaizdo įrašus, imti pirštų atspaudus, ėminius genetiniam tipizavimui ar pavyzdžius lyginamajam tyrimui ir identifikavimui atlikti.
+13) policijos generalinio komisaro nustatyta tvarka fotografuoti asmenis, kurių tapatybė nenustatyta, bejėgiškos būklės asmenis, neatpažintus lavonus, asmenis, kuriems taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, asmenis, įstatymų ar kitų teisės aktų nustatyta tvarka įrašytus į policijos įskaitas, asmenis, kuriems įteiktas pranešimas apie įtarimą padarius nusikalstamą veiką, laikinai sulaikytus, teistus asmenis, juos matuoti, aprašyti jų išorės požymius, daryti garso ar vaizdo įrašus, imti pirštų atspaudus, ėminius genetiniam tipizavimui ar pavyzdžius lyginamajam tyrimui ir identifikavimui atlikti;
+
+
+
+
+14) policijos generalinio komisaro nustatyta tvarka atlikti apyvartoje neteisėtai esančių akcizais apmokestinamų prekių ar naminių alkoholinių gėrimų, taip pat apyvartoje teisėtai esančių prekių arba teikiamų paslaugų kontrolinius pirkimus.
+Papildyta straipsnio punktu:
+Nr. XII-1765, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09301
+ 
 
 
 
@@ -1480,3 +1482,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1162, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13591
 Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 24 ir 25 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1765, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09301
+Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 18 straipsnio pakeitimo įstatymas
