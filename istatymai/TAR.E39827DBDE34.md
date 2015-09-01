@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2015-06-20 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2018-11-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -1122,9 +1122,16 @@ BALSŲ SKAIČIAVIMAS IR RINKIMŲ REZULTATŲ NUSTATYMAS
 
 6. Išrinktu laikomas tas kandidatas į Respublikos Prezidentus, kuris pirmą kartą balsuojant ir dalyvaujant ne mažiau kaip pusei visų rinkėjų, gavo daugiau kaip pusę visų rinkimuose dalyvavusių rinkėjų balsų. Jeigu rinkimuose dalyvavo mažiau kaip pusė visų rinkėjų, išrinktu laikomas tas kandidatas į Respublikos Prezidentus, kuris gavo daugiausia, bet ne mažiau kaip 1/3 visų rinkėjų balsų.
 
-7. Jeigu pirmą kartą balsuojant Respublikos Prezidento rinkimuose nė vienas kandidatas nesurinko reikiamos balsų daugumos, ne vėliau kaip po dviejų savaičių nuo balsavimo dienos, sekmadienį, šio įstatymo nustatyta tvarka rengiamas pakartotinis balsavimas dėl dviejų kandidatų į Respublikos Prezidentus, gavusių daugiausia balsų pirmą kartą balsuojant. Pakartotinio balsavimo datą Vyriausioji rinkimų komisija paskelbia kartu su pirmojo balsavimo galutiniais rezultatais. Per pakartotinį balsavimą išrinktu laikomas kandidatas į Respublikos Prezidentus, surinkęs daugiau balsų.
+7. Jeigu pirmą kartą balsuojant Respublikos Prezidento rinkimuose nė vienas kandidatas nesurinko reikiamos balsų daugumos, ne vėliau kaip po dviejų savaičių nuo balsavimo dienos, sekmadienį, šio įstatymo nustatyta tvarka rengiamas pakartotinis balsavimas dėl dviejų kandidatų į Respublikos Prezidentus, gavusių daugiausia balsų pirmą kartą balsuojant. Pakartotinio balsavimo datą Vyriausioji rinkimų komisija paskelbia kartu su pirmojo balsavimo galutiniais rezultatais ne vėliau kaip per 7 dienas po balsavimo dienos. Per pakartotinį balsavimą išrinktu laikomas kandidatas į Respublikos Prezidentus, surinkęs daugiau balsų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
+ 
 
 8. Jeigu Respublikos Prezidento rinkimuose balsuojant pirmą kartą dalyvavo ne daugiau kaip du kandidatai ir nė vienas negavo reikiamo balsų skaičiaus, rengiami pakartotiniai Respublikos Prezidento rinkimai ne vėliau kaip per 3 mėnesius nuo Respublikos Prezidento rinkimų dienos.
+
+9. Respublikos Prezidento rinkimų galutiniai rezultatai nustatomi Vyriausiosios rinkimų komisijos sprendimu, kuriuo nustatomas išrinktas kandidatas į Respublikos Prezidentus pagal šio straipsnio 6 arba 7 dalį arba kuriuo Respublikos Prezidento rinkimų rezultatai pripažįstami negaliojančiais pagal šio straipsnio 5 dalį.
+Papildyta straipsnio dalimi:
+Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
  
 
 75 straipsnis. Stebėtojų dalyvavimas skaičiuojant balsus ir nustatant rinkimų rezultatus
@@ -1134,20 +1141,27 @@ BALSŲ SKAIČIAVIMAS IR RINKIMŲ REZULTATŲ NUSTATYMAS
 2. Stebėtojai turi teisę reikšti pastabas ir pretenzijas rinkimų komisijoms dėl šio ir kitų Lietuvos Respublikos įstatymų pažeidimų, bet turi netrukdyti rinkimų komisijoms dirbti. Rinkimų stebėtojai turi teisę raštu pareikšti protestą, kuris turi būti pridėtas prie rinkimų komisijos protokolų ar sprendimų ir kartu su kitais rinkimų dokumentais turi būti pateiktas šią komisiją sudariusiai rinkimų komisijai.
  
 
-76 straipsnis. Rinkimų rezultatų paskelbimas
+76 straipsnis. Rinkimų galutinių rezultatų paskelbimas
 
-1. Galutinius Respublikos Prezidento rinkimų rezultatus septintą dieną po balsavimo dienos skelbia Vyriausioji rinkimų komisija.
+Respublikos Prezidento rinkimų galutinius rezultatus Vyriausioji rinkimų komisija oficialiai paskelbia ne vėliau kaip per 7 dienas po balsavimo dienos.
 
-2. Pakartotinių Respublikos Prezidento rinkimų rezultatus ne vėliau kaip per septynias dienas nuo pakartotinio balsavimo dienos skelbia Vyriausioji rinkimų komisija.
+Straipsnio pakeitimai:
+Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
  
 
 77 straipsnis. Paklausimas dėl šio įstatymo pažeidimo
 
-1. Su paklausimu, ar per Respublikos Prezidento rinkimus nebuvo pažeistas šis įstatymas, į Lietuvos Respublikos Konstitucinį Teismą (toliau – Konstitucinis Teismas) gali kreiptis Seimas ne vėliau kaip per 3 dienas po Respublikos Prezidento rinkimų galutinių rezultatų paskelbimo dienos.
+1. Su paklausimu, ar per Respublikos Prezidento rinkimus nebuvo pažeistas šis įstatymas, į Lietuvos Respublikos Konstitucinį Teismą (toliau – Konstitucinis Teismas) gali kreiptis Seimas ne vėliau kaip per 3 dienas po Respublikos Prezidento rinkimų galutinių rezultatų oficialaus paskelbimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
+ 
 
 2. Konstitucinis Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimą arba jos atsisakymą nagrinėti skundus dėl šio įstatymo pažeidimų tais atvejais, kai sprendimai buvo priimti ar Vyriausiosios rinkimų komisijos veika buvo padaryta pasibaigus balsavimui per Respublikos Prezidento rinkimus.
 
-3. Šio straipsnio 1 dalyje nurodytą paklausimą Konstitucinis Teismas išnagrinėja ne vėliau kaip per 72 valandas nuo jo įteikimo. Į šį terminą įskaitomos ir poilsio bei švenčių dienos.
+3. Šio straipsnio 1 dalyje nurodytą paklausimą Konstitucinis Teismas išnagrinėja ne vėliau kaip per 120 valandų nuo jo įteikimo. Į šį terminą įskaitomos ir poilsio bei švenčių dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
+ 
 
 4. Remdamasis Konstitucinio Teismo išvadomis, galutinį sprendimą dėl šio įstatymo pažeidimo priima Seimas.
 
@@ -1361,4 +1375,9 @@ Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 8 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1796, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09816
 Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 40 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 74, 76 ir 77 straipsnių pakeitimo įstatymas
 
