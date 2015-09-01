@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -357,9 +357,10 @@ LIGOS PAŠALPA
 
 
 
-2. Ligos pašalpą turi teisę gauti ir apdraustieji asmenys iki 26 metų, kurie iki laikinojo nedarbingumo pradžios dienos neįgijo šio straipsnio 1 dalies 2 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei aukštosiose mokyklose pagal dieninę arba nuolatinę studijų formą, jeigu laikinasis nedarbingumas prasideda per 6 mėnesius nuo mokslo baigimo (pagal mokslo baigimą įrodantį dokumentą). 
+2. Ligos pašalpą turi teisę gauti ir apdraustieji asmenys iki 26 metų, kurie iki laikinojo nedarbingumo pradžios dienos neįgijo šio straipsnio 1 dalies 2 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei studijavo aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas, jeigu laikinasis nedarbingumas prasideda per 6 mėnesius nuo bendrojo ugdymo programos, profesinio mokymo programos arba aukštojo mokslo studijų programos baigimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą).
 Straipsnio dalies pakeitimai:
 Nr. XII-1395, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19922
+Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
  
 
 
@@ -627,9 +628,10 @@ Nr. X-659, 2006-06-08, Žin., 2006, Nr. 72-2676 (2006-06-28)
 
 
 
-2. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi apdraustieji asmenys iki 26 metų, kurie iki nėštumo ir gimdymo atostogų pradžios neįgijo šio straipsnio 1 dalyje nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei aukštosiose mokyklose pagal dieninę arba nuolatinę studijų formą, jeigu nėštumo ir gimdymo atostogos suteikiamos per 12 mėnesių nuo mokslo baigimo (pagal mokslo baigimą įrodantį dokumentą). 
+2. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi apdraustieji asmenys iki 26 metų, kurie iki nėštumo ir gimdymo atostogų pradžios neįgijo šio straipsnio 1 dalyje nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei studijavo aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas, jeigu nėštumo ir gimdymo atostogos suteikiamos per 12 mėnesių nuo bendrojo ugdymo programos, profesinio mokymo programos arba aukštojo mokslo studijų programos baigimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą). Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu taip pat turi  pirmaisiais medicinos rezidentūros studijų metais apdraustieji gydytojai rezidentai, kurie neįgijo šio straipsnio 1 dalyje nustatyto stažo dėl to, kad nurodytais laikotarpiais studijavo  aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas ir (arba) studijavo medicinos rezidentūroje, jeigu nėštumo ir gimdymo atostogos suteikiamos per 12 mėnesių nuo  medicinos rezidentūros studijų pradžios.
 Straipsnio dalies pakeitimai:
 Nr. XII-1395, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19922
+Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
  
 
 
@@ -748,9 +750,10 @@ Nr. XII-284, 2013-05-09, Žin., 2013, Nr. 54-2689 (2013-05-25)
 
 
 
-2. Teisę gauti tėvystės pašalpą tėvystės atostogų laikotarpiu turi apdraustieji asmenys iki 26 metų, kurie iki tėvystės atostogų pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei aukštosiose mokyklose pagal dieninę arba nuolatinę studijų formą, jeigu tėvystės atostogos suteikiamos per 12 mėnesių nuo mokslo baigimo (pagal mokslo baigimą įrodantį dokumentą).
+2. Teisę gauti tėvystės pašalpą tėvystės atostogų laikotarpiu turi apdraustieji asmenys iki 26 metų, kurie iki tėvystės atostogų pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei studijavo aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas, jeigu tėvystės atostogos suteikiamos per 12 mėnesių nuo bendrojo ugdymo programos, profesinio mokymo programos arba aukštojo mokslo studijų programos baigimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą). Teisę gauti tėvystės pašalpą tėvystės atostogų laikotarpiu taip pat turi pirmaisiais medicinos rezidentūros studijų metais apdraustieji gydytojai rezidentai, kurie neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais studijavo aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas ir (arba) studijavo medicinos rezidentūroje, jeigu tėvystės atostogos suteikiamos per 12 mėnesių nuo medicinos rezidentūros studijų pradžios.
 Straipsnio dalies pakeitimai:
 Nr. XII-1395, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19922
+Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
  
 
 
@@ -831,9 +834,10 @@ Nr. XII-284, 2013-05-09, Žin., 2013, Nr. 54-2689 (2013-05-25)
 
 
 
-2. Teisę gauti motinystės (tėvystės) pašalpą turi apdraustieji asmenys iki 26 metų (vienas iš tėvų (įtėvių) ar globėjas), kurie iki vaiko priežiūros atostogų pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei aukštosiose mokyklose pagal dieninę arba nuolatinę studijų formą, jeigu vaiko priežiūros atostogos suteikiamos per 12 mėnesių nuo mokslo baigimo (pagal mokslo baigimą įrodantį dokumentą) arba vaiko priežiūros atostogos suteikiamos nuo kitos dienos po dienos, kurią baigiasi nėštumo ir gimdymo atostogos ar tėvystės atostogos, kai už tą patį vaiką apdraustajam asmeniui buvo mokėta motinystės ar tėvystės pašalpa pagal šio įstatymo 16 straipsnio 2 dalį ar 181 straipsnio 2 dalį.
+2. Teisę gauti motinystės (tėvystės) pašalpą turi apdraustieji asmenys iki 26 metų (vienas iš tėvų (įtėvių) ar globėjas), kurie iki vaiko priežiūros atostogų pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei studijavo aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas, jeigu vaiko priežiūros atostogos suteikiamos per 12 mėnesių nuo bendrojo ugdymo programos, profesinio mokymo programos arba aukštojo mokslo studijų programos baigimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą) arba vaiko priežiūros atostogos suteikiamos nuo kitos dienos po dienos, kurią baigiasi nėštumo ir gimdymo atostogos ar tėvystės atostogos, kai už tą patį vaiką apdraustajam asmeniui buvo mokėta motinystės ar tėvystės pašalpa pagal šio įstatymo 16 straipsnio 2 dalį ar 181 straipsnio 2 dalį. Teisę gauti motinystės (tėvystės) pašalpą vaiko priežiūros atostogų laikotarpiu taip pat turi pirmaisiais medicinos rezidentūros studijų metais apdraustieji gydytojai rezidentai, kurie neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais studijavo aukštosiose mokyklose pagal dieninės arba nuolatinės formos studijų programas ir (arba) studijavo medicinos rezidentūroje, jeigu vaiko priežiūros atostogos suteikiamos per 12 mėnesių nuo medicinos rezidentūros studijų pradžios arba vaiko priežiūros atostogos suteikiamos nuo kitos dienos po dienos, kurią baigiasi nėštumo ir gimdymo atostogos ar tėvystės atostogos, kai už tą patį vaiką apdraustajam asmeniui buvo mokėta motinystės ar tėvystės pašalpa pagal šio įstatymo 16 straipsnio 2 dalį ar 181 straipsnio 2 dalį.
 Straipsnio dalies pakeitimai:
 Nr. XII-1395, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19922
+Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
  
 
 
@@ -1468,4 +1472,9 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1395, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19922
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir 19 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir 19 straipsnių pakeitimo įstatymas
