@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-05-28 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1028,12 +1028,23 @@ Redakcija nuo 2016-01-01:
 
 
 
-12) koncertų, teatro spektaklių, cirko ir kitų renginių, skirtų nepilnamečiams, metu;
+12) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, skirtų nepilnamečiams, metu; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+ 
 
 
 
 
 13) nuo 22 valandos iki 8 valandos viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais. Šis draudimas netaikomas viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais, parduodamiems pilstomiems alkoholiniams gėrimams ar alkoholiniams gėrimams, parduodamiems atidarytoje pakuotėje ir tik vartoti vietoje;
+
+
+
+
+14) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio straipsnio 8 dalyje, metu. 
+Papildyta straipsnio punktu:
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+ 
 
 
 
@@ -1089,7 +1100,10 @@ Pastaba. Nuostata, reglamentuojanti draudimą parduoti fermentuotų gėrimų gru
 
 
 
-8. Savivaldybių tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais švenčių ir masinių renginių dienomis.
+8. Savivaldybių tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių metu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+ 
 
 
 
@@ -1391,6 +1405,14 @@ Alkoholinius gėrimus įtraukti į minimalų maisto produktų ir ne maisto preki
 
 
 5) sporto renginių metu salėse, kuriose jie vyksta;
+
+
+
+
+6) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio įstatymo 18 straipsnio 8 dalyje, metu.
+Papildyta straipsnio punktu:
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+ 
 
 
 
@@ -2648,3 +2670,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 17 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 17 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 ir 22 straipsnių pakeitimo įstatymas
