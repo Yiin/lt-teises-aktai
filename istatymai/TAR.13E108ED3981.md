@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 63-1582, i. k. 0951010ISTA00I-1034
  
@@ -936,7 +936,7 @@ Nr. XII-352, 2013-05-30, Žin., 2013, Nr. 64-3176 (2013-06-18)
 
 
 
-22 straipsnis. Žemės gelmių apsauga ir naudojimas saugomose teritorijose ir vandenviečių sanitarinėse apsaugos zonose
+22 straipsnis. Žemės gelmių apsauga ir naudojimas saugomose teritorijose ir vandenviečių apsaugos zonose
 
 
 1. Saugomose teritorijose turi būti užtikrinta žemės gelmių ir jų vertingųjų savybių apsauga, o žemės gelmių naudojimo apribojimai nustatomi saugomų teritorijų nuostatuose ir kituose teisės aktuose.
@@ -944,11 +944,13 @@ Nr. XII-352, 2013-05-30, Žin., 2013, Nr. 64-3176 (2013-06-18)
 
 
 
-2. Draudžiama atlikti išsklaidytųjų angliavandenilių tyrimą ir (arba) naudojimą naudojant hidraulinį ardymą saugomose teritorijose, vandenviečių sanitarinėse apsaugos zonose, įrenginių, skirtų geriamajam vandeniui vartotojams ruošti, taip pat vartotojų apsirūpinimo geriamuoju vandeniu sistemų (gręžinių, šulinių, vandens ėmimo kolonėlių) zonose.
+2. Draudžiama atlikti išsklaidytųjų angliavandenilių tyrimą ir (arba) naudojimą naudojant hidraulinį ardymą saugomose teritorijose, požeminio vandens vandenviečių apsaugos zonose ir įrenginių, skirtų geriamajam vandeniui ruošti, teritorijose.
 
 
 Straipsnio pakeitimai:
 Nr. XII-352, 2013-05-30, Žin., 2013, Nr. 64-3176 (2013-06-18)
+Straipsnio pakeitimai:
+Nr. XII-1786, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09801
  
 
 
@@ -1151,7 +1153,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1237,3 +1239,8 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1811, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10147
 Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 13, 15 ir 21 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1786, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09801
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 22 straipsnio pakeitimo įstatymas
