@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-05-29 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -1865,7 +1865,9 @@ Nr. XII-1623, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06524
 
 
 
-3. Važtaraštis tampa krovinių vežimo sutarties sudarymo ir jos turinio įrodymu uždėjus kalendorinį pradinės geležinkelio stoties antspaudą.
+3. Važtaraštis tampa krovinių vežimo sutarties sudarymo ir jos turinio įrodymu uždėjus kalendorinį pradinės geležinkelio stoties antspaudą arba patvirtinus važtaraštį saugiu elektroniniu parašu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
  
 
 
@@ -2242,13 +2244,15 @@ Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 
 
 
-50 straipsnis. Papildomų pavedimų pateikimo forma 
+50 straipsnis. Papildomų pavedimų pateikimo forma
 
 
-Papildomi krovinio siuntėjo ar gavėjo pavedimai geležinkelio įmonei (vežėjui) turi būti pateikiami raštu Krovinių vežimo geležinkelių transportu taisyklių nustatyta tvarka. Papildomi pavedimai, pateikti kita forma, negalioja.
+Papildomi krovinio siuntėjo ar gavėjo pavedimai geležinkelio įmonei (vežėjui) turi būti pateikiami Krovinių vežimo geležinkelių transportu taisyklėse nustatyta tvarka. Papildomi pavedimai, pateikti kita forma, negu nustatyta Krovinių vežimo geležinkelių transportu taisyklėse, negalioja.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
  
-
-
 
 
 
@@ -2379,7 +2383,10 @@ Geležinkelio įmonė (vežėjas) Krovinių vežimo geležinkelių transportu ta
 
 
 
-5. Gavėjas krovinio gavimą patvirtina parašu važtaraštyje.
+5. Gavėjas krovinio gavimą patvirtina Krovinių vežimo geležinkelių transportu taisyklėse nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
