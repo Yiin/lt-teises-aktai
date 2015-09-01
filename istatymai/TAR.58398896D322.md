@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2015-09-01 iki 2016-06-08
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
+ 
 LIETUVOS RESPUBLIKOS 
 PROBACIJOS  Į S T A T Y  M A S
  
@@ -391,7 +395,9 @@ PROBACIJOS VYKDYMO PAGRINDAI. PROBUOJAMŲJŲ TEISINĖ PADĖTIS.  PROBUOTOJŲ TEI
 
 
 
-2. Probacija pradedama vykdyti įsiteisėjusio teismo nuosprendžio (nutarties) ir patvarkymo (potvarkio) vykdyti nuosprendį ar nutartį gavimo probacijos tarnyboje dieną. Probacijos tarnybos, gavusios šiuos dokumentus, įtraukia probuojamąjį į probuojamųjų asmens duomenų registrą, pradeda priežiūros vykdymo bylą ir vykdo priežiūrą.
+2. Probacija pradedama vykdyti įsiteisėjusio teismo nuosprendžio (nutarties) ir patvarkymo (potvarkio) vykdyti nuosprendį ar nutartį gavimo probacijos tarnyboje dieną. Probacijos tarnybos, gavusios šiuos dokumentus, pradeda priežiūros vykdymo bylą ir vykdo priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
  
 
 
@@ -632,12 +638,18 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
 3. Individualiame probuojamojo priežiūros plane turi būti nustatyta:
 
 
-1) probuojamojo resocializacijos ilgalaikiai tikslai, formos ir įgyvendinimo terminai;
+1) probuojamojo resocializacijos ilgalaikiai tikslai, priemonės ir jų įgyvendinimo terminai; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+ 
 
 
 
 
-2) priemonės, padėsiančios probuojamajam laikytis ar įvykdyti teismo nustatytas pareigas, baudžiamojo ar auklėjamojo poveikio priemones, ir jų įgyvendinimo terminai;
+2) priemonės, padėsiančios probuojamajam įvykdyti probacijos sąlygas, ir jų įgyvendinimo terminai; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+ 
 
 
 
@@ -669,7 +681,10 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
 
 
 
-4. Individualus probuojamojo priežiūros planas turi būti sudarytas ne vėliau kaip per dešimt darbo dienų nuo probuojamojo įtraukimo į probuojamųjų asmens duomenų registrą. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems – ne ilgesnis kaip vienas mėnuo. Kai planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir jam siūlomos trumpalaikės šio įstatymo 18 straipsnyje nustatytos probuojamojo resocializacijos formos ir šio įstatymo 19 straipsnyje nustatytos socialinės pagalbos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
+4. Individualus probuojamojo priežiūros planas turi būti sudarytas ne vėliau kaip per dešimt darbo dienų nuo priežiūros vykdymo bylos pradžios dienos. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems – ne ilgesnis kaip vienas mėnuo. Kai planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir vykdomos šio įstatymo 18 straipsnyje nustatytos trumpalaikės probuojamojo resocializacijos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
+Straipsnio dalies pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+ 
 
 
 
@@ -687,58 +702,60 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
 
 
 
-18 straipsnis. Probuojamojo resocializacijos formos
+18 straipsnis. Probuojamojo resocializacijos priemonės
 
 
-Probuojamojo resocializacijos formos yra šios:
+Probuojamojo resocializacijos priemonės yra šios:
 
 
-1) rizikos mažinimo ir kriminogeninių veiksnių šalinimo priemonių vykdymas;
-
-
-
-
-2) individualus ir grupinis darbas su probuojamuoju siekiant motyvuoti ir skatinti jo gebėjimus gyventi nenusikalstant ir probuojamojo socialinę integraciją;
+1) individualus ir grupinis darbas su probuojamuoju, kurio metu ugdomi probuojamojo gebėjimai gyventi nenusikalstant ir skatinama jo socialinė integracija;
 
 
 
 
-3) probuojamojo dvasinių ir socialinių poreikių tenkinimas;
+2) probuojamojo dvasinių ir socialinių poreikių tenkinimo priemonės;
 
 
 
 
-4) socialinė pagalba sprendžiant probuojamojo asmenines ir socialines problemas;
+3) socialinė pagalba sprendžiant probuojamojo asmenines ir socialines problemas;
 
 
 
 
-5) socialinių įgūdžių lavinimas;
+4) socialinių įgūdžių lavinimas ir pozityvaus užimtumo skatinimas;
 
 
 
 
-6) elgesio pataisos programų įgyvendinimas;
+5) elgesio pataisos programų įgyvendinimas;
 
 
 
 
-7) individuali ar grupinė psichoterapija;
+6) individuali ar grupinė psichoterapija;
 
 
 
 
-8) psichologinė pagalba;
+7) psichologinė pagalba;
 
 
 
 
-9) atkuriamojo pobūdžio priemonių taikymas siekiant sutaikyti probuojamąjį ir nukentėjusįjį ir atlyginti nusikalstama veika padarytą žalą.
+8) atkuriamojo pobūdžio priemonės, kuriomis siekiama sutaikyti probuojamąjį ir nukentėjusįjį ir atlyginti nusikalstama veika padarytą žalą;
+
+
+
+
+9) kitos priemonės, kurių įgyvendinimas padėtų probuojamajam socialiai integruotis. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
  
-
-
-
-
 
 
 
@@ -811,22 +828,22 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 
 
-2) probuojamiesiems nustatytų pareigų atlikimo tikrinimas;
+2) probuojamiesiems nustatytų probacijos sąlygų vykdymo tikrinimas;
 
 
 
 
-3) dokumentų ir informacijos, reikalingos nuosprendžio (nutarties) įvykdymui užtikrinti, rinkimas;
+3) dokumentų ir informacijos, reikalingų probacijos sąlygų įvykdymui užtikrinti, rinkimas;
 
 
 
 
-4) probuojamiesiems teismo paskirtų Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 dalies 6, 7, 8 punktuose nustatytų pareigų ir šio kodekso 721 straipsnyje nustatytos baudžiamojo poveikio priemonės vykdymo stebėjimas elektroninio stebėjimo priemonėmis;
+4) probuojamiesiems teismo paskirtų Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 dalies 7, 8, 9 punktuose nustatytų pareigų, 721 straipsnyje nustatytos baudžiamojo poveikio priemonės ir 87 straipsnio 2 dalies 1 punkte ir 3 dalies 4 ir 5 punktuose nustatytų pareigų ir draudimų vykdymo stebėjimas elektroninio stebėjimo priemonėmis;
 
 
 
 
-5) probuojamiesiems teismo paskirtos Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 dalies 9 punkte nustatytos pareigos vykdymo tikrinimas specialiosiomis techninėmis priemonėmis;
+5) probuojamiesiems teismo paskirtos Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 dalies 10 punkte nustatytos pareigos vykdymo tikrinimas specialiosiomis techninėmis priemonėmis;
 
 
 
@@ -838,15 +855,17 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 
 
-2. Elektroninio stebėjimo ir specialiųjų techninių priemonių naudojimo tvarka ir sąlygos nustatomos Probacijos vykdymo tvarkos apraše.
+2. Elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis galima stebėti ir tikrinti ir kitų, negu nurodyta šio straipsnio 1 dalies 4 ir 5 punktuose, probacijos sąlygų vykdymą, jeigu taip būtų užtikrinta efektyvesnė probuojamųjų elgesio kontrolė. Elektroninio stebėjimo ir specialiųjų techninių priemonių naudojimo tvarka ir sąlygos nustatomos Probacijos vykdymo tvarkos apraše.
 
 
 
 
-3. Probuojamieji, kurių teismo paskirtų pareigų atlikimas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo 26 straipsnio 1, 5, 6 ir 7 punktuose nustatytų pareigų ir šio įstatymo 27 straipsnio 1 punkte nustatyto draudimo.
+3. Probuojamieji, kurių probacijos sąlygų vykdymas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo 26 straipsnio 1, 5, 6 ir 7 punktuose nustatytų pareigų ir šio įstatymo 27 straipsnio 1 punkte nustatyto draudimo.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
  
-
-
 
 
 
@@ -904,7 +923,10 @@ Intensyvi probuojamojo priežiūra – probuojamojo buvimo vietos pagal nustatyt
 
 
 
-2. Atsižvelgdamas į teismo probuojamajam paskirtas pareigas, baudžiamojo ar auklėjamojo poveikio priemones, probuojamojo pateiktą informaciją apie galimas jo buvimo vietas ir buvimo jose laiką, probuojamojo dienotvarkę sudaro probuotojas, ją tvirtina tiesioginis probuotojo vadovas. Su dienotvarke probuojamasis supažindinamas pasirašytinai. Su sudaryta nepilnamečio probuojamojo dienotvarke pasirašytinai supažindinami ir nepilnamečio probuojamojo atstovai pagal įstatymą.
+2. Atsižvelgdamas į probuojamajam paskirtas probacijos sąlygas, probuojamojo pateiktą informaciją apie galimas jo buvimo vietas ir buvimo jose laiką, probuojamojo dienotvarkę sudaro probuotojas, ją tvirtina tiesioginis probuotojo vadovas. Su dienotvarke probuojamasis supažindinamas pasirašytinai. Su sudaryta nepilnamečio probuojamojo dienotvarke pasirašytinai supažindinami ir nepilnamečio probuojamojo atstovai pagal įstatymą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+ 
 
 
 
@@ -1029,20 +1051,22 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 2. Jeigu probuojamasis probacijos vykdymo laikotarpiu:
 
 
-1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdo auklėjamojo poveikio priemonių ar baudžiamojo poveikio priemonių ir (ar) pareigų, teismas probacijos tarnybų teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
+1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdo probacijos sąlygų, teismas probacijos tarnybų teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
 
 
 
 
-2) vykdo auklėjamojo poveikio priemones ar baudžiamojo poveikio priemones ir (ar) pareigas, tačiau padaro kitų teisės pažeidimų, už kuriuos jam ne mažiau kaip du kartus taikytos administracinės nuobaudos, ir (ar) vartoja psichiką veikiančias medžiagas arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybų teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių;
+2) vykdo probacijos sąlygas, tačiau padaro kitų teisės pažeidimų, už kuriuos jam ne mažiau kaip du kartus taikytos administracinės nuobaudos, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybų teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių;
 
 
 
 
-3) be pateisinamų priežasčių nevykdo teismo paskirtų auklėjamojo poveikio priemonių ar baudžiamojo poveikio priemonių ir (ar) pareigų arba ir po papildomų auklėjamojo poveikio priemonių ar baudžiamojo poveikio priemonių ir (ar) pareigų paskyrimo jų nevykdo ar padaro teisės pažeidimą, už kurį jam taikyta administracinė nuobauda, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybų teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigų ir vykdyti likusią bausmės dalį.
+3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro teisės pažeidimą, už kurį jam taikyta administracinė nuobauda, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybų teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigų ir vykdyti likusią bausmės dalį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
  
-
-
 
 
 
@@ -1102,7 +1126,9 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 
 
 
-3. Kai yra šio straipsnio 1 ir 2 dalyse nurodyti pagrindai, probuojamasis išregistruojamas iš probuojamųjų asmens duomenų registro.
+3. Neteko galios nuo 2015-09-01
+Straipsnio dalies naikinimas:
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
  
 
 
@@ -1194,3 +1220,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 11, 17, 18, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas
