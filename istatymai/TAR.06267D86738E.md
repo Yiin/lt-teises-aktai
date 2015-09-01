@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2015-06-20 iki 2015-08-31
+Suvestinė redakcija nuo 2015-09-01 iki 2015-10-19
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -108,7 +108,10 @@ Nr. XI-2338, 2012-11-06, Žin., 2012, Nr. 132-6666 (2012-11-15)
 
 4. Pirmalaikiai Seimo rinkimai gali būti rengiami Seimo nutarimu, priimtu ne mažiau kaip 3/5 visų Seimo narių balsų dauguma, arba juos skelbia Respublikos Prezidentas Konstitucijos 58 straipsnio antrojoje dalyje numatytais atvejais. Naujo Seimo rinkimai turi būti surengti ne vėliau kaip per tris mėnesius nuo sprendimo dėl pirmalaikių rinkimų priėmimo. Respublikos Prezidento dekrete dėl eilinių Seimo rinkimų, Seimo nutarime ar Respublikos Prezidento dekrete dėl pirmalaikių Seimo rinkimų turi būti nurodoma naujo Seimo rinkimų diena. Eiliniai Seimo rinkimai, einantys po pirmalaikių Seimo rinkimų, rengiami šio straipsnio 2 dalyje nurodytu laiku.
 
-5. Naujo Seimo rinkimų diena yra diena, kada balsuojama daugiamandatėje rinkimų apygardoje ir pirmajame rinkimų ture vienmandatėse rinkimų apygardose. Rinkimų diena yra ir pakartotinio balsavimo diena. Balsavimas paštu ir kitais šiame įstatyme numatytais būdais vyksta iki rinkimų dienos arba baigiamas rinkimų dieną, kaip nustato šis įstatymas. Terminas, kuris skaičiuojamas nuo rinkimų dienos ir gali būti įgyvendintas, tik kai yra paskelbti rinkimų rezultatai, pradedamas skaičiuoti nuo rinkimų galutinių rezultatų paskelbimo dienos.
+5. Naujo Seimo rinkimų diena yra diena, kada balsuojama daugiamandatėje rinkimų apygardoje ir pirmajame rinkimų ture vienmandatėse rinkimų apygardose. Rinkimų diena yra ir pakartotinio balsavimo diena. Balsavimas paštu ir kitais šiame įstatyme numatytais būdais vyksta iki rinkimų dienos arba baigiamas rinkimų dieną, kaip nustato šis įstatymas. Terminas, kuris skaičiuojamas nuo rinkimų dienos ir gali būti įgyvendintas, tik kai yra paskelbti rinkimų rezultatai, pradedamas skaičiuoti nuo rinkimų galutinių rezultatų oficialaus paskelbimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+ 
 
 6. Naujų ar pakartotinių rinkimų vienmandatėje rinkimų apygardoje datą numatytais šiame įstatyme atvejais ne vėliau kaip po 15 dienų nuo dienos, kurią atsirado pagrindas rengti šiuos rinkimus, jeigu kitko nenumato šis įstatymas, skelbia Vyriausioji rinkimų komisija.
 
@@ -712,7 +715,10 @@ Nr. XII-1071, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10473
 
 40 straipsnis. Atstovas rinkimams
 
-1. Vyriausiojoje ar apygardos rinkimų komisijoje atstovas rinkimams visais klausimais atstovauja jį tam įgaliojusiai partijai, piliečiui, išsikėlusiam ir įregistruotam kandidatu į Seimo narius. Rinkimų komisijos posėdžiuose jis turi patariamojo balso teisę ir teisę pareikšti atskirąją nuomonę visais svarstomais klausimais. Atstovas rinkimams rinkimų apygardos, kurios rinkimų komisijoje jis įgaliotas atstovauti, teritorijoje turi visas rinkimų stebėtojo teises. Paskelbus Seimo rinkimų datą, partijų įgaliojimai atstovauti joms rinkimų komisijose Vyriausiajai rinkimų komisijai gali būti pateikti kitą dieną po to, kai buvo sudaryta atitinkama rinkimų komisija. Jeigu atstovo rinkimams kandidatūra atitinka šio įstatymo reikalavimus, Vyriausioji rinkimų komisija ne vėliau kaip per tris dienas registruoja jo įgaliojimą ir išduoda atstovo rinkimams pažymėjimą. Atstovo rinkimams įgaliojimas pasibaigia suėjus 20 dienų po galutinių rinkimų rezultatų paskelbimo. Atstovo rinkimams atitinkamoje rinkimų komisijoje įgaliojimai pasibaigia taip pat suėjus 20 dienų po pareiškinių dokumentų pateikimo, jeigu partija, politinė organizacija tos rinkimų apygardos teritorijoje neturi kandidato (kandidatų).
+1. Vyriausiojoje ar apygardos rinkimų komisijoje atstovas rinkimams visais klausimais atstovauja jį tam įgaliojusiai partijai, piliečiui, išsikėlusiam ir įregistruotam kandidatu į Seimo narius. Rinkimų komisijos posėdžiuose jis turi patariamojo balso teisę ir teisę pareikšti atskirąją nuomonę visais svarstomais klausimais. Atstovas rinkimams rinkimų apygardos, kurios rinkimų komisijoje jis įgaliotas atstovauti, teritorijoje turi visas rinkimų stebėtojo teises. Paskelbus Seimo rinkimų datą, partijų įgaliojimai atstovauti joms rinkimų komisijose Vyriausiajai rinkimų komisijai gali būti pateikti kitą dieną po to, kai buvo sudaryta atitinkama rinkimų komisija. Jeigu atstovo rinkimams kandidatūra atitinka šio įstatymo reikalavimus, Vyriausioji rinkimų komisija ne vėliau kaip per tris dienas registruoja jo įgaliojimą ir išduoda atstovo rinkimams pažymėjimą. Atstovo rinkimams įgaliojimas pasibaigia suėjus 20 dienų po rinkimų galutinių rezultatų oficialaus paskelbimo. Atstovo rinkimams atitinkamoje rinkimų komisijoje įgaliojimai pasibaigia taip pat suėjus 20 dienų po pareiškinių dokumentų pateikimo, jeigu partija, politinė organizacija tos rinkimų apygardos teritorijoje neturi kandidato (kandidatų).
+Straipsnio dalies pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+ 
 
 2. Iki rinkimų dienos partija, pilietis, išsikėlęs kandidatu, įgaliojimą atstovauti gali bet kada atšaukti ir įgalioti atstovu rinkimams kitą asmenį. Šiuo atveju atstovas rinkimams turi būti įregistruotas, jam išduotas pažymėjimas, o ankstesniojo atstovo rinkimams registravimas nutrauktas ne vėliau kaip per 3 dienas.
  
@@ -766,11 +772,13 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 45 straipsnis. Kandidatų ir kandidatų sąrašų paskelbimas
 
-Likus ne mažiau kaip 30 dienų iki rinkimų, Vyriausioji rinkimų komisija savo interneto svetainėje paskelbia rinkimuose dalyvaujančių partijų ir koalicijų kandidatų sąrašus, kandidatų sąrašams burtais suteiktus rinkimų numerius, šių sąrašų kandidatų rinkimų numerius, taip pat vienmandatėse rinkimų apygardose iškeltus kandidatus. Vyriausioji rinkimų komisija kandidatų į Seimo narius pažymėjimus su juose įrašytais kandidatų rinkimų numeriais perduoda atstovui rinkimams. Kandidato rinkimų numeris jo suteikimo metu yra tapatus kandidato eilės numeriui keliamų kandidatų sąraše (jungtiniame sąraše). Suteiktas kandidato rinkimų numeris negali būti keičiamas iki rinkimų rezultatų paskelbimo.
+Likus ne mažiau kaip 30 dienų iki rinkimų, Vyriausioji rinkimų komisija savo interneto svetainėje paskelbia rinkimuose dalyvaujančių partijų ir koalicijų kandidatų sąrašus, kandidatų sąrašams burtais suteiktus rinkimų numerius, šių sąrašų kandidatų rinkimų numerius, taip pat vienmandatėse rinkimų apygardose iškeltus kandidatus. Vyriausioji rinkimų komisija kandidatų į Seimo narius pažymėjimus su juose įrašytais kandidatų rinkimų numeriais perduoda atstovui rinkimams. Kandidato rinkimų numeris jo suteikimo metu yra tapatus kandidato eilės numeriui keliamų kandidatų sąraše (jungtiniame sąraše). Suteiktas kandidato rinkimų numeris negali būti keičiamas iki rinkimų galutinių rezultatų oficialaus paskelbimo. 
 
 Straipsnio pakeitimai:
 Nr. XI-815, 2010-05-18, Žin., 2010, Nr. 63-3093 (2010-05-31)
 Nr. XI-2338, 2012-11-06, Žin., 2012, Nr. 132-6666 (2012-11-15)
+Straipsnio pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
  
 
 ŠEŠTASIS SKIRSNIS
@@ -1511,13 +1519,18 @@ Apygardos rinkimų komisija visus dokumentus, gautus iš rinkimų apylinkių (i�
 
 1. Partijos, iškėlusios kandidatą į Seimo narius, kandidatai į Seimo narius, jų atstovai rinkimams, rinkimų stebėtojai apylinkių rinkimų komisijų sprendimus dėl balsų skaičiavimo protokolų surašymo gali apskųsti apygardos rinkimų komisijai ne vėliau kaip per 24 valandas nuo jų surašymo. Šie skundai turi būti išnagrinėti ne vėliau kaip per 24 valandas.
 
-2. Apygardos rinkimų komisijos sprendimai dėl balsų skaičiavimo protokolų surašymo gali būti apskųsti Vyriausiajai rinkimų komisijai ne vėliau kaip per 72 valandas nuo jų surašymo ir privalo būti išnagrinėti iki oficialaus galutinių rinkimų rezultatų paskelbimo.
+2. Apygardos rinkimų komisijos sprendimai dėl balsų skaičiavimo protokolų surašymo gali būti apskųsti Vyriausiajai rinkimų komisijai ne vėliau kaip per 72 valandas nuo jų surašymo ir privalo būti išnagrinėti iki rinkimų galutinių rezultatų oficialaus paskelbimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+ 
 
 3. Apygardų komisijos, nagrinėdamos skundus dėl apylinkių rinkimų komisijų sprendimų dėl balsų skaičiavimo protokolų surašymo, dalyvaujant ne mažiau kaip 3/5 komisijos narių, gali perskaičiuoti apylinkės rinkimų komisijos pateiktus biuletenius, o nustačiusios protokoluose aritmetinę klaidą, neteisingai suskaičiuotus galiojančius bei negaliojančius biuletenius, surašo papildomą apylinkės balsų skaičiavimo protokolą ir prideda jį prie apylinkės balsų skaičiavimo protokolo. Apygardos rinkimų komisija neturi teisės pripažinti negaliojančiais apylinkės rinkimų komisijos balsų skaičiavimo protokolų.
 
 4. Vyriausioji rinkimų komisija, nagrinėdama skundą dėl apygardos rinkimų komisijos sprendimo dėl apygardos balsų skaičiavimo protokolo surašymo, gali perskaičiuoti apygardos rinkimų komisijos pateiktus rinkimų biuletenius, o nustačiusi protokole aritmetinę klaidą, neteisingai suskaičiuotus galiojančius ar negaliojančius biuletenius, surašo papildomą apygardos, apylinkės balsų skaičiavimo protokolą ir prideda jį prie apygardos balsų skaičiavimo protokolo.
 
-5. Partijos, iškėlusios kandidatus į Seimo narius, kandidatai į Seimo narius Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl Seimo rinkimų įstatymo pažeidimų ne vėliau kaip per 24 valandas po to, kai paskelbiami oficialūs rinkimų rezultatai, gali apskųsti Seimui ar Respublikos Prezidentui. Tokiais atvejais Seimas ar Respublikos Prezidentas ne vėliau kaip per 48 valandas kreipiasi į Konstitucinį Teismą su paklausimu dėl Seimo rinkimų įstatymo pažeidimo.
+5. Partijos, iškėlusios kandidatus į Seimo narius, kandidatai į Seimo narius Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl Seimo rinkimų įstatymo pažeidimų ne vėliau kaip per 24 valandas po to, kai oficialiai paskelbiami rinkimų galutiniai rezultatai, gali apskųsti Seimui ar Respublikos Prezidentui. Tokiais atvejais Seimas ar Respublikos Prezidentas ne vėliau kaip per 48 valandas kreipiasi į Konstitucinį Teismą su paklausimu dėl Seimo rinkimų įstatymo pažeidimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
  
 
 87 straipsnis. Rinkimų apygardos balsų skaičiavimo protokolai
@@ -1626,17 +1639,19 @@ Straipsnio pakeitimai:
 Nr. IX-2233, 2004-05-11, Žin., 2004, Nr. 83-2986 (2004-05-22)
  
 
-93 straipsnis. Galutinių rinkimų rezultatų nustatymas ir paskelbimas
+93 straipsnis. Rinkimų galutinių rezultatų nustatymas ir paskelbimas
 
-1. Galutinius rinkimų rezultatus, išnagrinėjusi visus skundus ir nustačiusi visus rinkimų rezultatus apygardoje, taip pat ir rinkėjų, balsavusių užsienyje ir laivuose, balsus nustato Vyriausioji rinkimų komisija.
+1. Rinkimų galutinius rezultatus, išnagrinėjusi visus skundus ir nustačiusi visus rinkimų rezultatus apygardoje, taip pat ir rinkėjų, balsavusių užsienyje ir laivuose balsus, nustato Vyriausioji rinkimų komisija. Rinkimų galutinių rezultatų nustatymu rinkimų apygardoje yra laikomas ir šio įstatymo 91 straipsnio 1 dalyje nustatytais pagrindais priimtas Vyriausiosios rinkimų komisijos sprendimas.
 
-2. Galutinius rinkimų rezultatus ne vėliau kaip per 7 dienas nuo rinkimų arba pakartotinio balsavimo skelbia Vyriausioji rinkimų komisija. Jei renkant naują Seimą yra rengiamas pakartotinis balsavimas, galutiniai rinkimų daugiamandatėje rinkimų apygardoje rezultatai skelbiami kartu su pakartotinio balsavimo rezultatais. Galutinius rinkimų rezultatus Vyriausioji rinkimų komisija skelbia savo interneto svetainėje.
+2. Rinkimų galutinius rezultatus ne vėliau kaip per 7 dienas nuo balsavimo daugiamandatėje rinkimų apygardoje ir pirmajame rinkimų ture vienmandatėse rinkimų apygardose dienos oficialiai skelbia Vyriausioji rinkimų komisija. Jei renkant naują Seimą yra rengiamas pakartotinis balsavimas, rinkimų galutiniai rezultatai daugiamandatėje rinkimų apygardoje bei tose vienmandatėse rinkimų apygardose, kuriose buvo rengiamas pakartotinis balsavimas, oficialiai skelbiami ne vėliau kaip per 7 dienas nuo pakartotinio balsavimo dienos. Rinkimų galutinius rezultatus Vyriausioji rinkimų komisija skelbia savo interneto svetainėje.
 
-3. Vyriausioji rinkimų komisija ne vėliau kai per tris mėnesius po galutinio rinkimų rezultatų paskelbimo išleidžia knygą apie rinkimų rezultatus ir per keturis mėnesius perduoda valstybės archyvui neterminuotai saugoti rinkimų apylinkių ir rinkimų apygardų balsų skaičiavimo protokolus, pareiškinius dokumentus (išskyrus parašų rinkimo lapus), Vyriausiosios rinkimų komisijos posėdžių protokolus bei sprendimus ir rinkimų dokumentų pavyzdžių komplektą. Po to Vyriausioji rinkimų komisija gali nuspręsti nesaugotinus rinkimų dokumentus sunaikinti.
+3. Vyriausioji rinkimų komisija ne vėliau kai per tris mėnesius po rinkimų galutinių rezultatų oficialaus paskelbimo išleidžia knygą apie rinkimų rezultatus ir per keturis mėnesius perduoda valstybės archyvui neterminuotai saugoti rinkimų apylinkių ir rinkimų apygardų balsų skaičiavimo protokolus, pareiškinius dokumentus (išskyrus parašų rinkimo lapus), Vyriausiosios rinkimų komisijos posėdžių protokolus bei sprendimus ir rinkimų dokumentų pavyzdžių komplektą. Po to Vyriausioji rinkimų komisija gali nuspręsti nesaugotinus rinkimų dokumentus sunaikinti.
 
 Straipsnio pakeitimai:
 Nr. IX-2233, 2004-05-11, Žin., 2004, Nr. 83-2986 (2004-05-22)
 Nr. XI-2338, 2012-11-06, Žin., 2012, Nr. 132-6666 (2012-11-15)
+Straipsnio pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
  
 
 94 straipsnis. Seimo nario pažymėjimas
@@ -1651,11 +1666,17 @@ Nr. VIII-1937, 2000.09.19, Žin., 2000, Nr. 85-2575 (2000.10.11)
 
 95 straipsnis. Paklausimas dėl Seimo rinkimų įstatymo pažeidimo
 
-1. Su paklausimu, ar nebuvo pažeistas Seimo rinkimų įstatymas, į Konstitucinį Teismą gali kreiptis Lietuvos Respublikos Seimas, taip pat Respublikos Prezidentas ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų rezultatai arba Vyriausiosios rinkimų komisijos sprendimas dėl laisvos Seimo nario vietos atsiradimo ar užėmimo.
+1. Su paklausimu, ar nebuvo pažeistas Seimo rinkimų įstatymas rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje, į Konstitucinį Teismą gali kreiptis Lietuvos Respublikos Seimas, taip pat Respublikos Prezidentas ne vėliau kaip per 3 dienas po to, kai oficialiai paskelbiami rinkimų galutiniai rezultatai toje rinkimų apygardoje arba Vyriausiosios rinkimų komisijos sprendimas dėl laisvos Seimo nario vietos atsiradimo ar užėmimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+ 
 
 2. Konstitucinis Teismas tiria ir vertina Vyriausiosios rinkimų komisijos sprendimą arba jos atsisakymą nagrinėti skundus dėl Seimo rinkimų įstatymo pažeidimų tais atvejais, kai sprendimai buvo priimti ar kita komisijos veika buvo padaryta pasibaigus balsavimui.
 
-3. Tokį paklausimą Konstitucinis Teismas išnagrinėja ne vėliau kaip per 72 valandas nuo jo įteikimo Konstituciniam Teismui. Į šį terminą įskaitomos ir ne darbo dienos.
+3. Tokį paklausimą Konstitucinis Teismas išnagrinėja ne vėliau kaip per 120 valandų nuo jo įteikimo Konstituciniam Teismui. Į šį terminą įskaitomos ir ne darbo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+ 
 
 4. Remdamasis Konstitucinio Teismo išvadomis, galutinį sprendimą dėl Seimo rinkimų įstatymo pažeidimo priima Lietuvos Respublikos Seimas.
 
@@ -1663,7 +1684,10 @@ Nr. VIII-1937, 2000.09.19, Žin., 2000, Nr. 85-2575 (2000.10.11)
 
 1) pripažinti rinkimus vienmandatėje ar daugiamandatėje rinkimų apygardoje negaliojančiais - kai pagal balsų skaičiavimo protokolus negalima nustatyti esminių rinkimų rezultatų;
 
-2) nustatyti tikruosius esminius rinkimų rezultatus pagal rinkimų komisijų pateiktus balsų skaičiavimo protokolus ar kitus rinkimų dokumentus.
+2) nustatyti tikruosius esminius rinkimų galutinius rezultatus pagal rinkimų komisijų pateiktus balsų skaičiavimo protokolus ar kitus rinkimų dokumentus. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+ 
 
 6. Seimas kartu priima nutarimą dėl neteisėtai ir teisėtai išrinktų Seimo narių.
 
@@ -1930,4 +1954,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1795, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09820
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 61 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 6, 40, 45, 86, 93 ir 95 straipsnių pakeitimo įstatymas
 
