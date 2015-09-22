@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-09-21
+Suvestinė redakcija nuo 2015-09-22 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -433,8 +433,11 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 6. Šio straipsnio 1 dalies 6 punkte nustatyta neapmokestinamoji vertė taikoma visam šiame punkte nurodytos paskirties nekilnojamajam turtui, kuris nuosavybės teise priklauso šeimos nariams arba yra jų įsigyjamas. Taikant šią nuostatą, šeimos nariais laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai) iki 18 metų. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio 6 dalies (2011 m. gruodžio 21 d. redakcija; Žin., 2011, Nr. 163-7742) nuostata „Šio straipsnio 1 dalies 6 punkte nustatyta neapmokestinamoji vertė taikoma visam šiame punkte nurodytos paskirties nekilnojamajam turtui, kuris nuosavybės teise priklauso šeimos nariams arba yra jų įsigyjamas“ prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 1 daliai, 38 straipsnio 1, 2 dalims.
 Papildyta straipsnio dalimi:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+Straipsnio dalies pakeitimai:
+Nr. KT24-N14/2015, 2015-09-22, paskelbta TAR 2015-09-22, i. k. 2015-14100
  
 
 
@@ -891,3 +894,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir 7 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1518, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21156
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 12 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT24-N14/2015, 2015-09-22, paskelbta TAR 2015-09-22, i. k. 2015-14100
+Dėl Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio (2011 m. gruodžio 21 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
