@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2015-07-02 iki 2015-09-30
+Suvestinė redakcija nuo 2015-10-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -216,12 +216,12 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 3 straipsnis. Miškų grupės, ūkininkavimo jose tikslai ir režimas
 
 
-1. Pagal ūkininkavimo tikslus, ūkininkavimo režimą ir pagrindinę funkcinę paskirtį miškai skirstomi į grupes. 
+1. Pagal ūkininkavimo tikslus, ūkininkavimo režimą ir pagrindinę funkcinę paskirtį miškai skirstomi į grupes.
 
 
 
 
-2. I grupė – rezervatiniai miškai. Tai valstybinių rezervatų, valstybinių parkų bei biosferos monitoringo teritorijose esančių rezervatų ir rezervatinių apyrubių miškai. Ūkininkavimo tikslas – palikti miškus natūraliai augti. Miško kirtimai, išskyrus Saugomų teritorijų įstatyme ir rezervatų nuostatuose numatytus atvejus, neatliekami.
+2. I grupė – rezervatiniai miškai. Tai yra valstybinių gamtinių rezervatų, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijose esančių gamtinių rezervatų ir rezervatinių apyrubių miškai. Ūkininkavimo tikslas – sudaryti sąlygas miškams natūraliai augti. Miško kirtimai, išskyrus Lietuvos Respublikos saugomų teritorijų įstatyme ir rezervatų nuostatuose numatytus atvejus, draudžiami.
 
 
 
@@ -229,43 +229,50 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 3. II grupė – specialios paskirties miškai. Joje skiriami:
 
 
-1) A – ekosistemų apsaugos miškai. Kraštovaizdžio, telmologinių, pedologinių, botaninių, miško genetinių, zoologinių, botaninių-zoologinių draustinių ir šių rūšių draustinių, esančių valstybiniuose parkuose bei biosferos monitoringo teritorijose, miškai, saugomų gamtos išteklių sklypų, priešeroziniai ir kiti miškai. Ūkininkavimo tikslas – išsaugoti arba atkurti miško ekosistemas ar atskirus jų komponentus. Stichinių arba biotinių veiksnių sudarkyti, blogos sanitarinės būklės medynai kertami neplynais arba plynais sanitariniais kirtimais. Gamtinę brandą pasiekę medynai gali būti kertami pagrindiniais neplynais kirtimais;
+1) A – ekosistemų apsaugos miškai. Kraštovaizdžio, telmologinių, pedologinių, botaninių, zoologinių, botaninių-zoologinių draustinių miškai ar jų dalys, priešeroziniai miškai. Ūkininkavimo tikslas – išsaugoti arba atkurti miško ekosistemas ar atskirus jų komponentus. Šios miškų grupės medynuose draudžiami plynieji pagrindiniai miško kirtimai, o gamtinės brandos nepasiekusiuose medynuose draudžiami atvejiniai pagrindiniai miško kirtimai; 
 
 
 
 
-2) B – rekreaciniai miškai. Tai miško parkai, miestų miškai, valstybinių parkų rekreacinių zonų miškai, rekreaciniai miško sklypai ir kiti poilsiui skirti miškai. Ūkininkavimo tikslas – formuoti ir išsaugoti rekreacinę miško aplinką. Blogos sanitarinės būklės, sudarkyti stichinių arba biotinių veiksnių medynai kertami neplynais arba plynais sanitariniais kirtimais. Gamtinę brandą pasiekę medynai gali būti kertami pagrindiniais neplynais kirtimais. Leidžiami visų rūšių ugdymo, sanitariniai ir kraštovaizdžio formavimo kirtimai. Kertama ne poilsiavimo sezono metu, išskyrus stichinių arba biotinių veiksnių sudarkytus medynus.
+2) B – rekreaciniai miškai. Tai yra miško parkai, miestų miškai, valstybinių parkų rekreacinių zonų miškai, rekreaciniai miško sklypai ir kiti poilsiui skirti miškai. Ūkininkavimo tikslas – formuoti ir išsaugoti rekreacinę miško aplinką. Šios miškų grupės medynuose draudžiami plynieji pagrindiniai miško kirtimai, o gamtinės brandos nepasiekusiuose medynuose draudžiami atvejiniai pagrindiniai miško kirtimai. Kirtimus draudžiama vykdyti poilsiavimo sezono metu, išskyrus stichinių arba biotinių veiksnių sudarkytus medynus.
 
 
 
 
 
 
-4. III grupė – apsauginiai miškai. Tai geologinių, geomorfologinių, hidrografinių, kultūrinių draustinių, šių rūšių draustinių, esančių valstybiniuose parkuose bei biosferos monitoringo teritorijose, miškai, apsaugos zonų ir kiti miškai. Ūkininkavimo tikslas – formuoti produktyvius medynus, galinčius atlikti dirvožemio, oro, vandens, žmogaus gyvenamosios aplinkos apsaugos funkcijas. Leidžiami neplyni ir nedidelio ploto (iki 5 hektarų) plyni, ugdymo bei sanitariniai kirtimai, išskyrus šio straipsnio 6 dalyje numatytus atvejus.
+4. III grupė – apsauginiai miškai. Tai yra genetinių, geologinių, geomorfologinių, hidrografinių, kultūrinių draustinių ar jų dalių, kultūrinių rezervatų miškai, atkuriamųjų ir genetinių sklypų, miško sėklinių medynų, laukų apsauginiai, apsaugos zonų miškai. Ūkininkavimo tikslas – formuoti produktyvius medynus, galinčius atlikti dirvožemio, oro, vandens, žmogaus gyvenamosios aplinkos apsaugos funkcijas. Plynųjų pagrindinių miško kirtimų biržės plotas negali būti didesnis kaip 5 hektarai. Plynieji pagrindiniai miško kirtimai draudžiami nacionaliniuose parkuose, išskyrus pelkinių ir užmirkusių augaviečių medynus.
 
 
 
 
-5. IV grupė – ūkiniai miškai. Tai visi kiti miškai, nepriskirti I–III miškų grupėms. Ūkininkavimo tikslas – laikantis aplinkosaugos reikalavimų, formuoti produktyvius medynus, nepertraukiamai tiekti medieną. Leidžiami visi kirtimai, išskyrus šio straipsnio 6 dalyje numatytus atvejus. Plynų kirtimų biržės negali būti didesnės kaip 8 hektarų, išskyrus plynus sanitarinius kirtimus.
+5. IV grupė – ūkiniai miškai. Tai yra miškai, nepriskirti I, II, III miškų grupėms. Šioje miškų grupėje skiriami:
+
+
+1) A – normalaus kirtimo amžiaus ūkiniai miškai. Ūkininkavimo tikslas – laikantis aplinkosaugos reikalavimų, formuoti produktyvius medynus, nepertraukiamai tiekti medieną. Plynųjų pagrindinių miško kirtimų, išskyrus plynuosius sanitarinius miško kirtimus, biržės plotas negali būti didesnis kaip 8 hektarai. Draudžiami plynieji pagrindiniai miško kirtimai nacionaliniuose parkuose, išskyrus pelkinių ir užmirkusių augaviečių medynus;
 
 
 
 
-6. II, III ir IV grupių miškuose plynų sanitarinių kirtimų plotas neribojamas. Pagrindiniai plyni kirtimai draudžiami nacionaliniuose parkuose esančiuose III ir IV grupių miškuose, išskyrus pelkinius ir užpelkėjusių augaviečių medynus ir blogos sanitarinės būklės medynus, kurių būklės negalima pagerinti neplynais kirtimais.
+2) B – trumpo kirtimo amžiaus plantaciniai miškai. Ūkininkavimo tikslas – greičiau išauginti kuo daugiau medienos. Tai yra miškai, kuriuose taikant spartaus auginimo technologijas auginami greitai augančių medžių rūšių medynai, kurių kirtimo amžius turi būti ne mažesnis kaip 15 metų. Šiems miškams gali būti priskiriami tik tos pačios amžiaus klasės medynai. Plantacinius miškus draudžiama veisti neplantacinių miškų kirtavietėse arba šių miškų žuvusių želdinių, žėlinių ir medynų vietose, miško aikštėse ir miško laukymėse.
 
 
 
 
-7. Atskiros draustinių miškų dalys, vadovaujantis teritorijų planavimo dokumentais, gali būti priskirtos skirtingoms miškų grupėms.
+
+
+6. Draustinių miškų dalys, vadovaujantis specialiojo teritorijų planavimo dokumentais, gali būti priskirtos skirtingoms miškų grupėms.
 
 
 
 
-8. Miškų priskyrimo grupėms tvarką ir normatyvus nustato bei miškus grupėms priskiria Vyriausybė Aplinkos ministerijos teikimu.
+7. Miškus miškų grupėms priskiria Aplinkos ministerija, vadovaudamasi Vyriausybės nustatyta tvarka ir normatyvais.
 
 
 Straipsnio pakeitimai:
 Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
+Straipsnio pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
  
 
 
@@ -322,7 +329,10 @@ Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
 
 
 
-3) valstybiniai miško medelynai ir sėklinės plantacijos;
+3) valstybiniai miško medelynai ir sėklinės miško medžių plantacijos; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -349,7 +359,10 @@ Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
 
 
 
-6. Valstybinę miško žemę patikėjimo teise valdo miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, kitos valstybės įmonės ir organizacijos. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Žemės įstatymo nustatyta tvarka.
+6. Valstybinę miško žemę patikėjimo teise valdo miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, valstybės įmonės ir kiti juridiniai asmenys. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 Straipsnio pakeitimai:
@@ -510,7 +523,18 @@ Nr. XII-855, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04859
 
 
 
-10) atlieka kituose teisės aktuose numatytas funkcijas.
+10) prižiūri nepriklausomų medienos matuotojų veiklą; 
+Papildyta straipsnio punktu:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
+
+
+
+
+11) atlieka kituose teisės aktuose numatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -542,7 +566,33 @@ Nr. XII-855, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04859
 
 
 
-5. Privačius miškus atkuria, tvarko ir naudoja privačių miškų savininkai, laikydamiesi šio įstatymo, taip pat Vyriausybės ar jos įgaliotos Aplinkos ministerijos atsižvelgiant į privačių miškų savininkų organizacijų siūlymus tvirtinamų Privačių miškų tvarkymo ir naudojimo nuostatų ir kitų miškų ūkio veiklą reglamentuojančių teisės aktų. Privačių miškų savininkai įstatymų nustatyta tvarka turi teisę jungtis į asociacijas ir kooperatyvus, steigti įmones ir organizacijas. Valstybė skatina ir remia privataus miškų ūkio plėtrą, privačių miškų savininkų savivaldos organizacijas, teikiančias miško savininkams konsultavimo ir ūkines paslaugas. Miško savininkų kooperatyvams taikomas žemės ūkio kooperatyvų statusas.
+5. Miškų urėdijos atlieka šias valstybines funkcijas:
+
+
+1) patikėjimo teise valdo, naudoja valstybinius miškus ir jais disponuoja įstatymų nustatyta tvarka, taip pat vykdo juose kompleksinę miškų ūkio veiklą;
+
+
+
+
+2) miškuose, nesvarbu, kokia yra jų nuosavybės forma, įgyvendina bendrą valstybinę priešgaisrinių priemonių sistemą;
+
+
+
+
+3) Vyriausybės nustatyta tvarka organizuoja ir (ar) įgyvendina bendrą miško kelių priežiūrą ir taisymą (remontą) visų nuosavybės formų miškuose. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
+
+
+
+
+6. Privačius miškus atkuria, tvarko ir naudoja privačių miškų savininkai, laikydamiesi šio įstatymo, taip pat Vyriausybės ar jos įgaliotos Aplinkos ministerijos atsižvelgiant į privačių miškų savininkų organizacijų siūlymus tvirtinamų Privačių miškų tvarkymo ir naudojimo nuostatų ir kitų miškų ūkio veiklą reglamentuojančių teisės aktų. Privačių miškų savininkai įstatymų nustatyta tvarka turi teisę jungtis į asociacijas ir kooperatyvus, steigti įmones ir organizacijas. Valstybė skatina ir remia privataus miškų ūkio plėtrą, privačių miškų savininkų savivaldos organizacijas, teikiančias miško savininkams konsultavimo ir ūkines paslaugas. Miško savininkų kooperatyvams taikomas žemės ūkio kooperatyvų statusas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 Straipsnio pakeitimai:
@@ -711,7 +761,10 @@ Nr. XII-1160, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13594
 
 
 
-10. Valstybiniai miškų pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti pagal darbo sutartis, būti steigėjais ar juridinio asmens dalyviais (akcininkais, nariais, dalininkais ir pan.) privačiose medienos ruošos, medienos perdirbimo, prekybos mediena ir medžioklės aptarnavimo įmonėse bei vykdyti kitą įstatymų draudžiamą veiklą.
+10. Valstybiniai miškų pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti pagal darbo sutartis, būti steigėjais ar juridinio asmens dalyviais (akcininkais, nariais, dalininkais) privačiose medienos ruošos, medienos perdirbimo, prekybos mediena ir medžioklės aptarnavimo įmonėse, vykdyti nepriklausomo medienos matuotojo veiklą ir kitais įstatymais draudžiamą veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -828,10 +881,75 @@ MIŠKO NAUDOJIMAS
 
 
 
-8. Apvaliosios medienos matavimo, apskaitos ir ženklinimo tvarką nustato Aplinkos ministerija.
+8. Apvaliosios medienos ir nenukirsto miško matavimo ir tūrio nustatymo, apvaliosios medienos apskaitos, klasifikavimo ir ženklinimo tvarką nustato Aplinkos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
  
 
 
+
+
+
+
+91 straipsnis. Nepriklausomų medienos matuotojų veiklos reglamentavimas
+
+
+1. Nepriklausomas medienos matuotojas gali teikti nenukirsto miško ir (ar) medienos matavimo ir kokybės vertinimo paslaugas. Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija ar jų padaliniai gali teikti nenukirsto miško ir (ar) medienos matavimo ir kokybės vertinimo paslaugas, jeigu jų darbuotojas (fizinis asmuo) turi jam išduotą nepriklausomo medienos matuotojo kvalifikacijos atestatą. Nepriklausomo medienos matuotojo kvalifikacijos atestatą išduoda, jo galiojimą sustabdo ir galiojimo sustabdymą panaikina, taip pat atestato galiojimą panaikina Valstybinė miškų tarnyba aplinkos ministro nustatyta tvarka. Asmuo, norintis gauti nepriklausomo medienos matuotojo kvalifikacijos atestatą, privalo turėti aukštąjį universitetinį ir (arba) aukštąjį koleginį, ir (arba) aukštesnįjį miškininkystės išsilavinimą arba jam lygiavertį išsilavinimą ir ne trumpesnę kaip vienų metų darbo, susijusio su nenukirsto miško ir (ar) medienos matavimu ir kokybės vertinimu, patirtį. Nepriklausomam medienos matuotojui išduotas kvalifikacijos atestatas galioja neterminuotai. 
+
+
+
+
+2. Nepriklausomo medienos matuotojo kvalifikacijos atestatas neišduodamas, jeigu asmuo yra pripažintas kaltu dėl nenukirsto miško ar medienos matavimo ar kokybės vertinimo pažeidimų Lietuvos Respublikos teritorijoje ir turi neišnykusį ar nepanaikintą teistumą arba nėra praėjęs teisės aktų nustatytas terminas, kuriam pasibaigus laikoma, kad asmuo yra neteistas. Ši nuostata mutatis mutandis taikoma valstybės narės piliečiui ar kitam fiziniam asmeniui, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis laisvo judėjimo valstybėse narėse teisėmis ir siekia vykdyti nepriklausomo medienos matuotojo veiklą Lietuvos Respublikoje. 
+
+
+
+
+3. Valstybių narių piliečiai ar kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis laisvo judėjimo valstybėse narėse teisėmis, įgiję nepriklausomo medienos matuotojo kvalifikaciją ne Lietuvos Respublikoje, o kitose valstybėse narėse, gali pagal darbo sutartį ar savarankiškai vykdyti nepriklausomo medienos matuotojo veiklą Lietuvos Respublikoje tokiomis pačiomis sąlygomis kaip ir Lietuvos Respublikos piliečiai. Nepriklausomų medienos matuotojų profesinė kvalifikacija, įgyta kitose valstybėse narėse, yra pripažįstama pagal Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo nuostatas. 
+
+
+
+
+4. Valstybinė miškų tarnyba, nustačiusi, kad nepriklausomas medienos matuotojas pažeidė nenukirsto miško ar medienos matavimą arba medienos kokybės nustatymą reglamentuojančių teisės aktų reikalavimus, raštu įspėja nepriklausomą medienos matuotoją apie galimą nepriklausomo medienos matuotojo kvalifikacijos atestato galiojimo sustabdymą ir nustato protingą terminą pažeidimui pašalinti. Nepriklausomo medienos matuotojo kvalifikacijos atestato galiojimas sustabdomas nepriklausomam medienos matuotojui per nustatytą terminą nepašalinus pažeidimo arba Valstybinei miškų tarnybai nustačius pakartotinį nenukirsto miško ar medienos matavimą arba medienos kokybės nustatymą reglamentuojančių teisės aktų pažeidimą per vienus metus. Nepriklausomo medienos matuotojo kvalifikacijos atestato galiojimas nestabdomas, jeigu vadovaujantis Lietuvos Respublikos viešojo administravimo įstatymu pažeidimas pripažįstamas mažareikšmiu.
+
+
+
+
+5. Nepriklausomo medienos matuotojo kvalifikacijos atestato galiojimo sustabdymas panaikinamas, kai nepriklausomas medienos matuotojas pašalina nustatytą pažeidimą, dėl kurio buvo sustabdytas nepriklausomo medienos matuotojo kvalifikacijos atestato galiojimas, išklauso aplinkos ministro nustatytus reikalavimus atitinkančius nenukirsto miško ir (ar) medienos matavimo ir kokybės vertinimo kvalifikacijos kursus ir pateikia tai įrodančius dokumentus.
+
+
+
+
+6. Nepriklausomo medienos matuotojo kvalifikacijos atestato galiojimas panaikinamas, jeigu yra bent vienas iš šių pagrindų:
+
+
+1) nepriklausomas medienos matuotojas pateikia prašymą panaikinti nepriklausomo medienos matuotojo kvalifikacijos atestatą; 
+
+
+
+
+2) dėl nepriklausomo medienos matuotojo buvo priimtas apkaltinamasis teismo nuosprendis už nusikalstamas veikas, padarytas vykdant nepriklausomo medienos matuotojo veiklą; 
+
+
+
+
+3) nepriklausomo medienos matuotojo kvalifikacijos atestatui gauti buvo pateikti suklastoti dokumentai;
+
+
+
+
+4) nepriklausomas medienos matuotojas per Valstybinės miškų tarnybos nustatytą protingą terminą neatlieka šio straipsnio 5 dalyje nustatytų pareigų. 
+
+
+
+
+
+
+7. Nepriklausomo medienos matuotojo kvalifikacijos atestatas laikomas negaliojančiu nepriklausomam medienos matuotojui mirus.
+
+
+Papildyta straipsniu:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -1068,7 +1186,10 @@ MIŠKOTVARKOS PROJEKTAS
 
 
 
-6. Remiantis valstybinės miškų inventorizacijos duomenimis, tvarkoma miškų apskaita ir sudaromas Lietuvos Respublikos miškų valstybės kadastras. Šis kadastras apima visumą duomenų apie miškus, jų priklausomybę, miško išteklių kiekį bei kokybę ir ekonominę vertę. Jo turinį ir sudarymo tvarką nustato Vyriausybė.
+6. Remiantis valstybinės miškų inventorizacijos duomenimis, tvarkoma miškų apskaita ir sudaromas Lietuvos Respublikos miškų valstybės kadastras. Šis kadastras apima visumą duomenų apie miškus, jų priklausomybę, miško išteklių kiekį bei kokybę ir ekonominę vertę. Jo turinį ir sudarymo tvarką nustato Vyriausybė. Lietuvos Respublikos miškų valstybės kadastre registruoti duomenys apie miškus ir miško žemę šio kadastro tvarkytojo teikimu įrašomi į Nekilnojamojo turto registrą Nekilnojamojo turto registro įstatymo ir kitų teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -1106,12 +1227,18 @@ Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 
 
 
-3. Miškotvarkos projektai rengiami pagal Aplinkos ministerijos patvirtintas šių projektų rengimo taisykles bei metodiką ir jose nustatytus kriterijus.
+3. Vidinės miškotvarkos projektai rengiami, derinami, tvirtinami, registruojami ir keičiami pagal aplinkos ministro tvirtinamas šių projektų rengimo taisykles ir jose nustatytus kriterijus. Pripažinti vidinės miškotvarkos projektus negaliojančiais gali juos tvirtinanti institucija, vadovaudamasi aplinkos ministro nustatytais kriterijais ir tvarka. Miškų tvarkymo schemos rengiamos, derinamos, tvirtinamos, registruojamos ir keičiamos aplinkos ministro tvirtinamose Miškų tvarkymo schemų rengimo taisyklėse nustatyta tvarka. Vadovauti miškų tvarkymo schemos rengimui turi teisę miškų tvarkymo schemos vadovo atestatą turintis asmuo. Miškų tvarkymo schemos vadovo atestatas išduodamas, jo galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas Lietuvos Respublikos teritorijų planavimo įstatyme nustatytais atvejais ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
 
-4. Aplinkos ministerija, atsižvelgdama į miško valdos plotą arba ne miškų ūkio paskirties žemės sklype esančios miško žemės plotą, nustato miškotvarkos projekto turinį ir kitus rodiklius, taip pat medynų kirtimo amžių visuose miškuose. Pagrindiniai miško kirtimai atliekami brandžiuose, perbrendusiuose miškuose ir bręstančiuose medynuose Miško kirtimų taisyklėse nustatytais atvejais. Tarpiniai miško kirtimai atliekami medynų produktyvumo didinimo, sanitarinės miškų būklės gerinimo, biologinės įvairovės išsaugojimo, medienos išteklių panaudojimo, medynų rekonstrukcijos ir kitais teisės aktuose nustatytais tikslais. Metinė pagrindinių miško kirtimų norma nustatoma kiekvienam miško valdytojui ir savininkui pagal Aplinkos ministerijos patvirtintą metodiką.
+4. Aplinkos ministerija, atsižvelgdama į miško valdos plotą arba ne miškų ūkio paskirties žemės sklype esančios miško žemės plotą, nustato miškotvarkos projekto turinį ir kitus rodiklius, taip pat medynų kirtimo amžių visuose miškuose. Metinė pagrindinių miško kirtimų norma nustatoma kiekvienam miško valdytojui ir savininkui pagal Aplinkos ministerijos patvirtintą metodiką. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -1121,7 +1248,10 @@ Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 
 
 
-6. Tarpinių miško kirtimų mastą šalies valstybiniuose miškuose nustato Aplinkos ministerija.
+6. Miško tarpinio naudojimo apimtį šalies valstybiniuose miškuose nustato Aplinkos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -1131,7 +1261,10 @@ Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 
 
 
-8. Miškotvarkos projektus rengia bei miškų inventorizaciją atlieka fiziniai ir juridiniai asmenys Aplinkos ministerijos nustatyta tvarka. Laikantis šios tvarkos, centralizuotai kaupiami ir tvarkomi miškotvarkos duomenys, rengiami, derinami ir tvirtinami miškotvarkos projektai.
+8. Miškotvarkos projektus rengia ir miškų inventorizaciją atlieka fiziniai ir juridiniai asmenys, valstybių narių kitos organizacijos, neturinčios juridinio asmens statuso, ar jų padaliniai Aplinkos ministerijos nustatyta tvarka. Laikantis šios tvarkos, centralizuotai kaupiami ir tvarkomi miškotvarkos duomenys.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 Straipsnio pakeitimai:
@@ -1167,7 +1300,10 @@ MIŠKO ATKŪRIMAS, AUGINIMAS IR KIRTIMAS
 
 
 
-4. Miškas atkuriamas ir įveisiamas mišką želdinant arba jam želiant, laikantis Aplinkos ministerijos tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų. Želdintinose ir atželiančiose kirtavietėse ir degavietėse miškas turi būti atkurtas ne vėliau kaip per trejus metus po jų atsiradimo, žuvę želdiniai ir žėliniai – ne vėliau kaip per dvejus metus nuo jų žuvimo fakto nustatymo. Neteisėtai iškirstas miškas turi būti atkurtas ne vėliau kaip per vienus metus nuo neteisėtų kirtimų fakto nustatymo. Miškas laikomas atkurtu tada, kai želdinių ir žėlinių kokybė atitinka Aplinkos ministerijos tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimus.
+4. Miškas atkuriamas ir įveisiamas mišką želdinant arba jam želiant, laikantis aplinkos ministro tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų. Kirtavietėse ir želdintinose miško aikštėse miškas turi būti atkurtas ne vėliau kaip per trejus metus po jų atsiradimo. Žuvę želdiniai ir žėliniai turi būti atkurti ne vėliau kaip per dvejus metus, atkurtini žuvę medynai – ne vėliau kaip per trejus metus nuo jų žuvimo fakto nustatymo. Neteisėtai iškirstas miškas turi būti atkurtas ne vėliau kaip per vienus metus nuo neteisėtų kirtimų fakto nustatymo. Miškas laikomas atkurtu tada, kai želdinių ir žėlinių kokybė atitinka aplinkos ministro tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
 
 
 
@@ -1196,20 +1332,17 @@ Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
 16 straipsnis. Medynų auginimas ir kirtimas
 
 
-1. Medynų auginimo ir priežiūros priemonėmis siekiama formuoti augavietės sąlygas atitinkančius, našius miškus, pirmenybę teikiant vietinėms medžių ir kitų augalų rūšims, mišriems miško želdiniams ir mišriems medynams. Medynų augimą ir priežiūrą reguliuojančios priemonės, pagrindiniai ir tarpiniai miško kirtimai atliekami pagal Aplinkos ministerijos tvirtinamus normatyvus ir taisykles.
+1. Medynų auginimo priemonėmis turi būti siekiama formuoti ir atkurti aplinkos sąlygoms atsparius miškus, atitinkančius jų funkcinę paskirtį ir augavietės sąlygas, pirmenybę teikiant vietinės kilmės mišriems medynams, prisitaikiusiems prie vietinių klimato sąlygų. 
 
 
 
 
-2. Miško ugdymo kirtimai atliekami nebrandžiuose medynuose jų našumui bei stabilumui didinti ir biologinei įvairovei išsaugoti. Šiais miško kirtimais reguliuojamas medynų tankumas ir rūšinė sudėtis. Sanitariniai miško kirtimai atliekami miško sveikatingumui palaikyti ir gerinti. 
+2. Medynuose gali būti vykdomi pagrindiniai, ugdomieji, sanitariniai ir specialieji miško kirtimai, išskyrus šio įstatymo 3 straipsnyje nustatytus draudimus ir apribojimus. Miško kirtimo būdai, kirtimų amžius, aplinkosaugos ir technologiniai reikalavimai nustatomi aplinkos ministro tvirtinamose Miško kirtimų taisyklėse.
 
 
-
-
-3. Taip pat gali būti atliekami miško kirtimai kraštovaizdžiui formuoti, biotechninėms priemonėms vykdyti, priešgaisrinėms juostoms įrengti, technologinių įrenginių vietoms paruošti ir kitiems miško ūkio tikslams. 
+Straipsnio pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
  
-
-
 
 
 
@@ -1245,7 +1378,9 @@ Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų
 
 
 
-3. Stichinių nelaimių miškuose atvejais Aplinkos ministerija turi teisę nustatyti specialias apsaugos ir nelaimių padarinių šalinimo priemones, kurios yra privalomos visiems miško valdytojams, savininkams ir naudotojams.
+3. Aplinkos ministras nustato specialiąsias apsaugos ir stichinių nelaimių padarinių šalinimo miškuose priemones, privalomas visiems miško valdytojams, savininkams ir naudotojams, kai miškų urėdijos mastu išdžiūvusių, išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip vieną ketvirtąją metinės kirtimo normos dalį.
+Straipsnio dalies pakeitimai:
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
  
 
 
