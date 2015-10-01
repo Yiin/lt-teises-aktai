@@ -13,12 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.17D427E4AAD3"
 
 # Lietuvos Respublikos policijos rėmėjų įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2015-09-30
+Suvestinė redakcija nuo 2015-10-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 60-1705, i. k. 0981010ISTAVIII-800
  
+Nauja redakcija nuo 2015-10-01:
+Nr. XII-1766, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09608
  
-LIETUVOS RESPUBLIKOS POLICIJOS RĖMĖJŲ ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  POLICIJOS RĖMĖJŲ  ĮSTATYMAS
  
 1998 m. birželio 18 d. Nr. VIII-800
 Vilnius
@@ -33,7 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Respublikos piliečių, talkinančių policijai (toliau – policijos rėmėjų), veiklos teisinius pagrindus, jų teises, pareigas, socialines garantijas ir atsakomybę.
+Šis įstatymas nustato Lietuvos policijai talkinančių policijos rėmėjų veiklos teisinius pagrindus, jų teises, pareigas, socialines garantijas ir atsakomybę.
  
 
 
@@ -41,10 +43,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Policijos rėmėjas
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-Policijos rėmėjas yra netarnaujantis policijoje ar Lietuvos kariuomenėje, įskaitant kario savanorio tarnybą, Lietuvos Respublikos pilietis, savanoriškai padedantis policijai šio bei kitų įstatymų ir teisės aktų nustatyta tvarka.
+1. Garbės policijos rėmėjas – Lietuvos policijoje (toliau – policija) ar Lietuvos kariuomenėje netarnaujantis Lietuvos Respublikos pilietis ar Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos valstybės narės pilietis, kurie savo noru padeda policijai švietėjiška, intelektine veikla, teisėkūros iniciatyvomis, idėjomis ir pasiūlymais viešosios tvarkos bei visuomenės saugumo srityje. 
+
+
+
+
+2. Jaunasis policijos rėmėjas – policijos rėmėjas nuo 12 iki 18 metų amžiaus, padedantis teritorinėms policijos ir švietimo (ugdymo) įstaigoms vykdyti vaikų nusikalstamumo ir kitų teisės pažeidimų prevenciją, kurti saugią aplinką mokyklose ir jų prieigose. Jaunųjų policijos rėmėjų veikla reglamentuojama Lietuvos policijos generalinio komisaro (toliau – policijos generalinis komisaras) įsakymu.
+
+
+
+
+3. Policijos rėmėjas – policijoje ar Lietuvos kariuomenėje netarnaujantis Lietuvos Respublikos pilietis ar Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos valstybės narės pilietis, kurie šio bei kitų įstatymų ir teisės aktų nustatyta tvarka aktyviais veiksmais savo noru padeda policijai saugoti viešąją tvarką ar kitaip užkerta kelią nusikalstamoms veikoms ir kitiems teisės pažeidimams.
  
 
 
@@ -55,22 +67,32 @@ Policijos rėmėjas yra netarnaujantis policijoje ar Lietuvos kariuomenėje, įs
 3 straipsnis. Policijos rėmėjų veiklos organizavimas ir jų mokymas
 
 
-1. Policijos įstaigos vadovo įsakymu policijos rėmėjas, atsižvelgiant į šio prašymą ir į policijos įstaigos poreikius padėti jai tam tikroje srityje, įtraukiamas į policijos rėmėjų prie policijos įstaigos sąrašą.
+1. Policijos rėmėjų veikla organizuojama vadovaujantis šiuo įstatymu ir policijos generalinio komisaro patvirtintais Lietuvos Respublikos policijos rėmėjų nuostatais (toliau – Policijos rėmėjų nuostatai).
 
 
 
 
-2. Asmenys, įtraukti į policijos rėmėjų prie policijos įstaigos sąrašus policijos įstaigos vadovo sprendimu šio įstatymo 4 straipsnyje nustatytoms funkcijoms atlikti, gali būti paskirti į policijos vadovaujamas organizacines struktūras, sudarytas teritoriniu ar policijos veiklos krypties principu.
+2. Policijos įstaigos vadovo įsakymu norintis tapti policijos rėmėju asmuo, atsižvelgiant į jo prašymą ir į policijos įstaigos ar jos struktūrinio padalinio poreikius, įtraukiamas į policijos rėmėjų prie policijos įstaigos sąrašą (toliau – policijos rėmėjų sąrašas).
 
 
 
 
-3. Policijos rėmėjas paties prašymu ir suderinus su kitos policijos įstaigos vadovu gali būti perkeltas į kitos policijos įstaigos policijos rėmėjų prie policijos įstaigos sąrašą.
+3. Asmenys, įtraukti į policijos rėmėjų sąrašą, policijos įstaigos vadovo sprendimu gali būti paskirti į policijos įstaigos struktūrinius padalinius atlikti šio įstatymo 4 straipsnyje nustatytas funkcijas.
 
 
 
 
-4. Policijos rėmėjų mokymą organizuoja policijos įstaiga. Mokymo reikalavimus nustato Lietuvos Respublikos policijos generalinis komisaras.
+4. Policijos rėmėjas jo paties prašymu ir suderinus su kitos policijos įstaigos vadovu gali būti perkeltas į kitos policijos įstaigos sudarytą policijos rėmėjų sąrašą.
+
+
+
+
+5. Policijos rėmėjų ir norinčių tapti policijos rėmėjais asmenų mokymą organizuoja policijos įstaigos. Norintys tapti policijos rėmėjais asmenys išklauso mokymo kursą ir išlaiko egzaminą. Ši nuostata netaikoma buvusiems policijos pareigūnams ir garbės policijos rėmėjams. Policijos rėmėjų mokymo programai taikomus reikalavimus ir egzamino organizavimo, laikymo ir vertinimo taisykles nustato policijos generalinis komisaras. 
+
+
+
+
+6. Policijos rėmėjai ne rečiau kaip kartą per metus privalo išklausyti policijos įstaigos organizuojamus kvalifikacijos tobulinimo kursus ir išlaikyti egzaminą. Šio egzamino metu įvertinamas policijos rėmėjų pasirengimas ir tinkamumas atlikti jiems pavestas funkcijas.
  
 
 
@@ -88,7 +110,7 @@ POLICIJOS RĖMĖJŲ FUNKCIJOS
 4 straipsnis. Policijos rėmėjų funkcijos
 
 
-Policijos rėmėjai, neviršydami šio įstatymo nustatytų įgaliojimų, padeda policijai:
+Policijos rėmėjai, neviršydami šiame įstatyme nustatytų įgaliojimų, padeda policijai:
 
 
 1) užtikrinti žmogaus teises ir laisves;
@@ -106,32 +128,27 @@ Policijos rėmėjai, neviršydami šio įstatymo nustatytų įgaliojimų, padeda
 
 
 
-4) kontroliuoti, kaip laikomasi aplinkos apsaugos ir tvarkymo reikalavimų;
+4) užkirsti kelią nusikaltimams, kitiems teisės pažeidimams ir juos atskleisti;
 
 
 
 
-5) užkardyti nusikaltimus bei kitus teisės pažeidimus ir juos atskleisti;
+5) įgyvendinti teisės pažeidimų prevencijos priemones;
 
 
 
 
-6) įgyvendinti teisės pažeidimų prevencijos priemones;
+6) teikti visokeriopą pagalbą nuo nusikaltimų, kitų teisės pažeidimų ar nelaimingų atsitikimų nukentėjusiems asmenims arba tiems, kurių būklė bejėgiška;
 
 
 
 
-7) teikti visokeriopą pagalbą asmenims, nukentėjusiems nuo nusikaltimų, kitų teisės pažeidimų ar nelaimingų atsitikimų, arba tiems, kurių būklė bejėgiška;
+7) gelbėti žmones ir turtą stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju;
 
 
 
 
-8) gelbėti žmones ir turtą stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju;
-
-
-
-
-9) kartu su policijos komisariatų savivaldybių policijos nepilnamečių reikalų inspektoriais, globos ir rūpybos darbuotojais lankytis asocialiose šeimose nepilnamečių teisių užtikrinimo, jų nusikalstamumo prevencijos klausimais.
+8) kartu su policijos pareigūnais, savivaldybių institucijų atsakingais darbuotojais lankytis socialinės rizikos šeimose nepilnamečių teisių užtikrinimo, jų nusikalstamumo prevencijos klausimais.
  
 
 
@@ -151,17 +168,7 @@ POLICIJOS RĖMĖJŲ TEISĖS IR PAREIGOS
 5 straipsnis. Policijos rėmėjų teisės
 
 
-1. Policijos rėmėjai turi šias teises:
-
-
-1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su policijos pareigūnais panaudoti specialiąsias priemones;
-
-
-
-
-2) reikalauti, kad asmenys laikytųsi viešosios tvarkos ir nepažeidinėtų įstatymų.
-
-
+1. Policijos rėmėjai turi teisę reikalauti, kad asmenys laikytųsi viešosios tvarkos ir nepažeistų įstatymų.
 
 
 
@@ -169,25 +176,30 @@ POLICIJOS RĖMĖJŲ TEISĖS IR PAREIGOS
 2. Kartu su policijos pareigūnais saugodami viešąją tvarką, policijos rėmėjai turi šias teises:
 
 
-1) padėti policijos pareigūnams sulaikyti ir pristatyti asmenį į policijos įstaigą įstatymų numatytais atvejais;
+1) įstatymų ir kitų teisės aktų nustatyta tvarka panaudoti specialiąsias priemones;
 
 
 
 
-2) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar sulaikytas nusikaltėlis, stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
+2) nustatyti pažeidėjo asmens tapatybę, padėti policijos pareigūnams sulaikyti ir pristatyti asmenį į policijos įstaigą įstatymų numatytais atvejais;
+
+
+
+
+3) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar būtų sulaikytas asmuo, padaręs nusikalstamą veiką ar įtariamas jos padarymu, stichinės nelaimės ar kito ypatingo įvykio, keliančio grėsmę žmonių gyvybei, sveikatai ar turtui, atveju;
+
+
+
+
+4) kai įtariama, kad yra padaryta nusikalstama veika ar administracinis teisės pažeidimas, stabdyti transporto priemones.
+
+
+
+
+
+
+3. Policijos rėmėjai turi teisę vadovaujami policijos pareigūno patruliuoti savarankiškai (ne mažiau kaip po 2 asmenis). Šiuo atveju policijos rėmėjai viešojo administravimo įgaliojimų neįgyja.
  
-
-
-
-
-3) jei įtariama, kad yra padaryta nusikalstama veika ar administracinis teisės pažeidimas, stabdyti transporto priemones.
-Straipsnio punkto pakeitimai:
-Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
- 
-
-
 
 
 
@@ -200,12 +212,32 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 1. Policijos rėmėjai privalo:
 
 
-1) gavę pranešimą apie daromą nusikaltimą ar kitokį teisės pažeidimą, pastebėję rengiamą ar daromą nusikaltimą ar kitokį teisės pažeidimą, imtis priemonių užkirsti jam kelią, nedelsdami pranešti policijai, organizuoti įvykio vietos apsaugą, kol atvyks policijos pareigūnai, nustatyti liudytojus, suteikti kitokią pagalbą policijos pareigūnams, tiriantiems nusikaltimo ar teisės pažeidimo aplinkybes;
+1) gavę pranešimą apie daromą nusikalstamą veiką ar kitokį teisės pažeidimą, pastebėję rengiamą ar daromą nusikalstamą veiką ar kitokį teisės pažeidimą, imtis priemonių užkirsti jam kelią:
+
+
+a) nedelsdami pranešti policijai;
 
 
 
 
-2) suteikti neatidėliotiną medicinos pagalbą nukentėjusiesiems, bejėgiškos būklės asmenims;
+b) organizuoti įvykio vietos apsaugą, kol atvyks policijos pareigūnai;
+
+
+
+
+c) nustatyti liudytojus;
+
+
+
+
+d) suteikti kitokią pagalbą policijos pareigūnams, tiriantiems nusikalstamos veikos ar kitokio teisės pažeidimo aplinkybes;
+
+
+
+
+
+
+2) suteikti neatidėliotiną medicinos pagalbą nukentėjusiems ar bejėgiškos būklės asmenims;
 
 
 
@@ -232,7 +264,7 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 
 
 
-2. Policijos rėmėjai, atlikdami savo funkcijas, privalo gerbti ir užtikrinti žmogaus teises bei laisves.
+2. Policijos rėmėjai, atlikdami savo funkcijas, privalo gerbti ir užtikrinti žmogaus teises ir laisves.
  
 
 
@@ -243,29 +275,55 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 
 
 KETVIRTASIS SKIRSNIS
-PRIĖMIMAS Į POLICIJOS RĖMĖJUS. ATLEIDIMAS IŠ POLICIJOS RĖMĖJŲ
+PRIĖMIMAS Į POLICIJOS RĖMĖJUS.
+ATLEIDIMAS IŠ POLICIJOS RĖMĖJŲ
  
 
 
 7 straipsnis. Priėmimas į policijos rėmėjus
 
 
-1. Policijos rėmėju gali tapti ne jaunesnis kaip 18 metų, mokantis lietuvių kalbą, neteistas Lietuvos Respublikos pilietis, pagal asmenines ir moralines savybes tinkantis būti policijos rėmėju.
+1. Policijos rėmėju gali tapti ne jaunesnis kaip 18 metų mokantis lietuvių kalbą Lietuvos Respublikos pilietis ar Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos valstybės narės pilietis, turintis ne žemesnį kaip vidurinį išsilavinimą, pagal asmenines ir moralines savybes tinkantis būti policijos rėmėju. Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos valstybės narės pilietis yra asmuo, kuris deklaravo gyvenamąją vietą Lietuvos Respublikoje ir kurio duomenys apie gyvenamąją vietą Lietuvos Respublikoje įrašyti Lietuvos Respublikos gyventojų registre.
 
 
 
 
-2. Asmuo, norintis tapti policijos rėmėju, pateikia prašymą policijos įstaigos vadovui. Prašyme pretendentas įsipareigoja vykdyti policijos rėmėjui keliamus reikalavimus, nustatytus šiame įstatyme. Šaulių sąjungos, judėjimo „Stabdyk nusikalstamumą“, kitų visuomeninių organizacijų, kurių įstatai įpareigoja kovoti su nusikalstamumu, vadovai gali pateikti rekomenduojamų būti policijos rėmėjais asmenų sąrašus kartu su sąraše esančių asmenų prašymais tapti policijos rėmėjais.
+2. Norintis tapti policijos rėmėju asmuo pateikia prašymą policijos įstaigos ar jos struktūrinio padalinio vadovui. Prašyme jis įsipareigoja vykdyti šiame įstatyme nustatytus policijos rėmėjui keliamus reikalavimus. Lietuvos šaulių sąjungos, kitų asociacijų, kurių įstatuose viena iš funkcijų numatyta teisės pažeidimų prevencija, vadovai gali pateikti rekomenduojamų būti policijos rėmėjais asmenų sąrašus kartu su sąraše esančių asmenų prašymais tapti policijos rėmėjais.
 
 
 
 
-3. Prieš įrašant asmenį į policijos rėmėjus, tikrinama, ar pretendentas atitinka policijos rėmėjams keliamus reikalavimus. Jei būtina, organizuojamas atitinkamas mokymas.
+3. Prieš įrašant asmenį į policijos rėmėjų sąrašą, tikrinama, ar pretendentas atitinka policijos rėmėjams keliamus reikalavimus. Atitinkančiam policijos rėmėjams keliamus reikalavimus asmeniui organizuojamas mokymas, jį baigęs, šis asmuo laiko egzaminą. 
 
 
 
 
-4. Patenkinus prašymą, pretendentas įrašomas į policijos rėmėjus policijos įstaigos vadovo įsakymu. Apie nepatenkintą prašymą pranešama jo pateikėjui ir šį rekomendavusiai organizacijai.
+4. Policijos rėmėju negali būti:
+
+
+1) už tyčinį nusikaltimą nuteistas asmuo, kol nepraėjo 5 metai nuo teistumo išnykimo ar panaikinimo, už neatsargų nusikaltimą nuteistas asmuo, kol teistumas neišnyko arba nebuvo panaikintas, už baudžiamąjį nusižengimą nuteistas asmuo, jeigu nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai, taip pat asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+
+
+
+
+2) asmuo, kuris anksčiau dirbo statutiniu valstybės tarnautoju, teisėju, notaru, prokuroru, advokatu, antstoliu ar krašto apsaugos sistemoje ir buvo atleistas atitinkamai už pareigūno vardo pažeminimą, teisėjo vardą žeminantį poelgį, notarų profesinės etikos ir tarnybinius nusižengimus, prokuroro vardo pažeminimą, advokato profesinės etikos bei profesinės veiklos pažeidimus, antstolio profesinės ar tarnybinės veiklos pažeidimus ar kario vardą arba krašto apsaugos sistemos institucijas žeminančius teisės pažeidimus ir nuo šio atleidimo dienos nepraėjo 5 metai;
+
+
+
+
+3) asmuo, kuris yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
+
+
+
+
+
+
+5. Patenkinus šio straipsnio 2 dalyje nurodytą prašymą, norintis tapti policijos rėmėju asmuo policijos įstaigos vadovo įsakymu įrašomas į policijos rėmėjų sąrašą ir pasirašo 3 metų savanoriškos veiklos sutartį, kurioje raštu pasižada neatlygintinai padėti policijai šiame įstatyme ir Policijos rėmėjų nuostatuose nustatytomis sąlygomis ir pagrindais. Praėjus 3 metų laikotarpiui, jeigu policijos rėmėjas aktyviai ir be pažeidimų vykdė jam keliamas užduotis ir baigė kvalifikacijos tobulinimo kursus, sutarties galiojimas pratęsiamas tam pačiam laikotarpiui. Apie nepatenkintą prašymą tapti policijos rėmėju pranešama prašymo pateikėjui ir jį rekomendavusiai organizacijai.
+
+
+
+
+6. Jaunųjų policijos rėmėjų priėmimo ir atleidimo tvarka reglamentuojama policijos generalinio komisaro įsakymu.
  
 
 
@@ -276,22 +334,22 @@ PRIĖMIMAS Į POLICIJOS RĖMĖJUS. ATLEIDIMAS IŠ POLICIJOS RĖMĖJŲ
 8 straipsnis. Policijos rėmėjo pažymėjimas ir atpažinimo ženklai
 
 
-1. Policijos rėmėjui išduodamas pažymėjimas, prie krūtinės segamas atpažinimo ženklas, prireikus – raištis ant rankovės. Jų formą ir nešiojimo tvarką tvirtina Lietuvos Respublikos policijos generalinis komisaras.
+1. Policijos rėmėjui išduodamas pažymėjimas, atpažinimo ženklas, liemenė su užrašu „Policijos rėmėjas“. Jų formą ir nešiojimo tvarką tvirtina policijos generalinis komisaras.
 
 
 
 
-2. Atlikdamas pavestas funkcijas, policijos rėmėjas nešioja atpažinimo ženklus.
+2. Atlikdamas pavestas funkcijas, policijos rėmėjas privalo turėti policijos rėmėjo pažymėjimą, nešioti atpažinimo ženklą ir dėvėti liemenę su užrašu „Policijos rėmėjas“. 
 
 
 
 
-3. Atleidus policijos rėmėją, atpažinimo ženklai turi būti grąžinti.
+3. Atleidžiamas policijos rėmėjas grąžina policijos rėmėjo pažymėjimą, atpažinimo ženklą ir liemenę su užrašu „Policijos rėmėjas“.
 
 
 
 
-4. Policijos įstaigos vadovo sprendimu, suderintu su savivaldos vykdomąja institucija, gali būti nustatytas policijos rėmėjo uniformos pavyzdys ir jos dėvėjimo tvarka.
+4. Policijos generalinio komisaro nustatytais atvejais dėl vykdomos užduoties specifikos policijos rėmėjas gali neturėti atpažinimo ženklo ir nedėvėti liemenės su užrašu „Policijos rėmėjas“.
  
 
 
@@ -302,7 +360,7 @@ PRIĖMIMAS Į POLICIJOS RĖMĖJUS. ATLEIDIMAS IŠ POLICIJOS RĖMĖJŲ
 9 straipsnis. Atleidimas iš policijos rėmėjų
 
 
-1. Policijos rėmėjas policijos įstaigos vadovo įsakymu išbraukiamas iš policijos rėmėjų prie policijos įstaigos sąrašo:
+1. Policijos rėmėjas policijos įstaigos vadovo įsakymu išbraukiamas iš policijos rėmėjų sąrašo ir su juo nutraukiama savanoriškos veiklos sutartis:
 
 
 1) paties prašymu; 
@@ -310,19 +368,24 @@ PRIĖMIMAS Į POLICIJOS RĖMĖJUS. ATLEIDIMAS IŠ POLICIJOS RĖMĖJŲ
 
 
 
-2) dėl policijos rėmėjo vardo diskreditavimo, netekęs institucijos, kuriai jis atstovauja, pasitikėjimo ir gavus jos motyvuotą siūlymą;
+2) dėl policijos rėmėjo vardo diskreditavimo, taip pat kai netenka institucijos, kuriai jis atstovauja, pasitikėjimo ir yra gautas jos motyvuotas siūlymas;
 
 
 
 
-3) jei jis neatitinka šio įstatymo 7 straipsnio reikalavimų.
+3) jei jis nebeatitinka šio įstatymo 7 straipsnio reikalavimų;
+
+
+
+
+4) jei jis ilgiau negu 6 mėnesius paeiliui nedalyvauja policijos rėmėjų veikloje.
 
 
 
 
 
 
-2. Policijos įstaigos vadovo sprendimas gali būti apskųstas Lietuvos Respublikos policijos generaliniam komisarui. Šio sprendimas yra galutinis ir neskundžiamas.
+2. Policijos įstaigos vadovo sprendimas išbraukti iš policijos rėmėjų sąrašo gali būti apskųstas policijos generaliniam komisarui. Policijos generalinio komisaro sprendimas gali būti apskųstas įstatymų nustatyta tvarka.
  
 
 
@@ -337,20 +400,20 @@ POLICIJOS RĖMĖJŲ SOCIALINĖS GARANTIJOS IR ATSAKOMYBĖ
  
 
 
-10 straipsnis. Policijos rėmėjų teisinės garantijos
+10 straipsnis. Policijos rėmėjų įgaliojimai
 
 
-1. Policijos rėmėjų gyvybę, sveikatą ir orumą, kaip ir policijos pareigūnų, gina įstatymai.
-
-
-
-
-2. Teisėti policijos rėmėjų reikalavimai ir nurodymai yra privalomi asmenims, įmonėms, įstaigoms, organizacijoms bei pareigūnams.
+1. Policijos rėmėjai, atlikdami savo funkcijas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais.
 
 
 
 
-3. Už policijos rėmėjų, kaip ir policijos pareigūnų, teisėtų reikalavimų ir nurodymų nevykdymą atsakoma įstatymų nustatyta tvarka.
+2. Teisėti policijos rėmėjų reikalavimai ir nurodymai yra privalomi visiems fiziniams ir juridiniams  asmenims ir pareigūnams.
+
+
+
+
+3. Už policijos rėmėjų teisėtų reikalavimų ir nurodymų nevykdymą asmenys atsako įstatymų nustatyta tvarka. 
  
 
 
@@ -361,60 +424,57 @@ POLICIJOS RĖMĖJŲ SOCIALINĖS GARANTIJOS IR ATSAKOMYBĖ
 11 straipsnis. Policijos rėmėjų socialinės garantijos
 
 
-1. Valstybė išmoka vienkartinę pašalpą policijos rėmėjui, jei jam atliekant policijos rėmėjo funkcijas buvo padaryti kūno sužalojimai, dėl kurių jis tapo:
+1. Valstybė išmoka vienkartinę išmoką policijos rėmėjui, kuriam atliekant policijos rėmėjų funkcijas buvo padaryti kūno sužalojimai ir dėl jų nustatytas:
 
 
-1) I ar II grupės invalidu – 60 MGL dydžio;
-
-
-
-
-2) III grupės invalidu – 40 MGL dydžio.
+1) sunkus ar vidutinis neįgalumo lygis, − 60 bazinių socialinių išmokų dydžio;
 
 
 
 
-
-
-2. Jei policijos rėmėjas, atlikdamas policijos rėmėjų funkcijas, žuvo, jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), vaikams, gimusiems po žuvusiojo mirties) ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą, išmokama lygiomis dalimis 120 MGL dydžio vienkartinė pašalpa.
-
+2) lengvas neįgalumo lygis, − 40 bazinių socialinių išmokų dydžio.
 
 
 
-3. Pašalpos nemokamos, jeigu:
+
+
+
+2. Policijos rėmėjo, kuris žuvo atlikdamas policijos rėmėjų funkcijas, šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), vaikams, gimusiems po žuvusiojo mirties) ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą, išmokama lygiomis dalimis 120 bazinių socialinių išmokų dydžio vienkartinė išmoka.
+
+
+
+
+3. Šiame straipsnyje nustatytos išmokos nemokamos, jeigu:
 
 
 1) policijos rėmėjas žuvo ar susižalojo darydamas tyčinę nusikalstamą veiką;
-Straipsnio punkto pakeitimai:
-Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
- 
 
 
 
 
-2) policijos rėmėjo žuvimo ar susižalojimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų;
+2) policijos rėmėjo žuvimo ar susižalojimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių ir kitų psichiką veikiančių medžiagų;
 
 
 
 
-3) policijos rėmėjas nusižudė, kėsinosi nusižudyti ar tyčia save sužalojo;
+3) policijos rėmėjas nusižudė, kėsinosi nusižudyti ar tyčia susižalojo;
 
 
 
 
-4) policijos rėmėjo žuvimo ar susižalojimo priežastis buvo transporto priemonės vairavimas neturint teisės ją vairuoti arba perdavimas ją vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų arba neturinčiam teisės ją vairuoti;
+4) policijos rėmėjo žuvimo ar susižalojimo priežastis buvo transporto priemonės vairavimas neturint teisės ją vairuoti arba perdavimas vairuoti transporto priemonę asmeniui, apsvaigusiam nuo alkoholio, narkotinių ir kitų psichiką veikiančių medžiagų arba neturinčiam teisės ją vairuoti;
 
 
 
 
-5) policijos rėmėjo sveikata sutriko ar jis mirė dėl ligos ar karo veiksmų ir jei tai nesusiję su policijos rėmėjo funkcijų vykdymu.
+5) policijos rėmėjo sveikata sutriko ar jis mirė dėl ligos ar karo veiksmų ir  tai nesusiję su policijos rėmėjų funkcijų atlikimu.
 
 
 
 
 
 
-4. Šių pašalpų išmokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+4. Šiame straipsnyje nustatytų išmokų mokėjimo policijos rėmėjams tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -430,7 +490,7 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 12 straipsnis. Išlaidų atlyginimas
 
 
-Policijos rėmėjui gali būti atlygintos transporto, ryšių ir kitos išlaidos, kurių jis turėjo atlikdamas pavestas funkcijas. Sprendimą dėl šių išlaidų atlyginimo priima ir jų sąmatą tvirtina policijos įstaigos vadovas.
+Policijos rėmėjams gali būti atlygintos transporto, ryšių ir kitos išlaidos, kurių jie turėjo atlikdami pavestas funkcijas. Sprendimus dėl šių išlaidų atlyginimo priima ir jų sąmatas tvirtina policijos įstaigos vadovas.
  
 
 
@@ -438,18 +498,10 @@ Policijos rėmėjui gali būti atlygintos transporto, ryšių ir kitos išlaidos
 
 
 
-13 straipsnis. Policijos rėmėjų apdovanojimas
+13 straipsnis. Policijos rėmėjų veiklos pripažinimas
 
 
-1. Policijos rėmėjas, pasižymėjęs saugant viešąją tvarką ir visuomenę, užkardant nusikalstamas veikas, gali būti policijos įstaigos vadovo ar kitų institucijų paskatintas padėka, pinigine premija bei apdovanotas ar pristatytas aukštesniam apdovanojimui įstatymų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
- 
-
-
-
-
-2. Už didelius nuopelnus policijos rėmėjas gali būti pristatytas valstybiniam apdovanojimui.
+Policijos rėmėjų veikla saugant viešąją tvarką ar kitaip užkertant kelią nusikalstamoms veikoms ir kitiems teisės pažeidimams gali būti pripažinta praktinio darbo ir (ar) mokymosi patirtimi šio bei kitų įstatymų ir teisės aktų nustatyta tvarka.
  
 
 
@@ -457,7 +509,23 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 
 
 
-14 straipsnis. Policijos rėmėjų atsakomybė
+14 straipsnis. Policijos rėmėjų apdovanojimas
+
+
+1. Policijos rėmėjai, pasižymėję saugant viešąją tvarką ir visuomenę, užkertant kelią nusikalstamoms veikoms ir kitiems teisės pažeidimams, gali būti policijos įstaigos vadovo ar kitų institucijų paskatinti padėka, pinigine premija ir apdovanoti ar pristatyti aukštesniam apdovanojimui įstatymų nustatyta tvarka.
+
+
+
+
+2. Už didelius nuopelnus policijos rėmėjai gali būti pristatyti valstybiniam apdovanojimui.
+ 
+
+
+
+
+
+
+15 straipsnis. Policijos rėmėjų atsakomybė
 
 
 1. Policijos rėmėjai už neteisėtus veiksmus atsako įstatymų nustatyta tvarka.
@@ -465,7 +533,7 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 
 
 
-2. Policijos įstaigos vadovas turi teisę įspėti policijos rėmėją už veiksmus, nesuderinamus su policijos rėmėjų veikla, ir apie tai pranešti rekomendaciją pateikusiai organizacijai.
+2. Policijos įstaigos vadovas turi teisę įspėti policijos rėmėją dėl veiksmų, nesuderinamų su policijos rėmėjų veikla, ir apie tai pranešti rekomendaciją pateikusiai organizacijai.
  
 
 
@@ -476,24 +544,19 @@ Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010IST
 
 
 ŠEŠTASIS SKIRSNIS
-SPECIALIŲJŲ PRIEMONIŲ PANAUDOJIMAS IR VEIKLOS FINANSAVIMAS
+SPECIALIŲJŲ PRIEMONIŲ NAUDOJIMAS IR POLICIJOS RĖMĖJŲ VEIKLOS FINANSAVIMAS
  
 
 
-15 straipsnis. Specialiųjų priemonių išdavimas ir panaudojimas
+16 straipsnis. Specialiųjų priemonių išdavimo policijos rėmėjams tvarka
 
 
-1. Specialiųjų priemonių išdavimo policijos rėmėjams atvejus ir leidžiamų išduoti specialiųjų priemonių rūšis nustato Lietuvos Respublikos policijos generalinis komisaras.
-
-
-
-
-2. Specialiosios priemonės gali būti išduodamos tinkamai parengtiems policijos rėmėjams atlikti pavestas funkcijas tik kartu su policijos pareigūnais.
+1. Specialiųjų priemonių išdavimo policijos rėmėjams tvarką nustato policijos generalinis komisaras.
 
 
 
 
-3. Specialiųjų priemonių panaudojimo sąlygas reglamentuoja Policijos įstatymas.
+2. Specialiosios priemonės gali būti išduodamos tinkamai parengtiems policijos rėmėjams atlikti pavestas funkcijas tik kartu su policijos pareigūnais.  
  
 
 
@@ -501,10 +564,62 @@ SPECIALIŲJŲ PRIEMONIŲ PANAUDOJIMAS IR VEIKLOS FINANSAVIMAS
 
 
 
-16 straipsnis. Policijos rėmėjų veiklos finansavimas
+17 straipsnis. Specialiųjų priemonių naudojimas
 
 
-Policijos rėmėjų veikla finansuojama iš valstybės biudžete Policijos departamentui prie Vidaus reikalų ministerijos skirtų lėšų, iš specialių kovos su nusikalstamumu bei teisėtvarkos pažeidimais fondų, miestų ir rajonų savivaldybių bei visuomeninių organizacijų lėšų.
+1. Policijos rėmėjai kartu su policijos pareigūnais turi teisę naudoti specialiąsias priemones, kai būtina nutraukti nusikalstamas veikas ar užkirsti kelią administraciniams teisės pažeidimams, sulaikyti juos padariusius asmenis ir ginant asmens teisėtus interesus. Naudoti specialiąsias priemones galima tik tiek, kiek to reikia šioje dalyje nurodytiems veiksmams atlikti, ir tik po to, kai visos įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos. Specialiųjų priemonių rūšį ir jų naudojimo ribas pasirenka policijos rėmėjas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodami prievartą, policijos rėmėjai privalo stengtis išvengti sunkių padarinių žmonėms ir turtui.
+
+
+
+
+2. Policijos rėmėjai įstatymų nustatytais atvejais ir tvarka gali naudoti šias specialiąsias priemones: policijos ginkluotėje esančias lazdas, antrankius ir dujas. 
+
+
+
+
+3. Prieš naudodami specialiąsias priemones, policijos rėmėjai privalo įspėti apie šį ketinimą, suteikdami galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę policijos rėmėjo ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+
+
+
+
+4. Policijos rėmėjai, panaudoję specialiąsias priemones nepažeisdami šio įstatymo reikalavimų ir padarę žalos įstatymų saugomoms vertybėms, atsakomybėn netraukiami. 
+ 
+
+
+
+
+
+
+18 straipsnis. Specialiųjų priemonių naudojimo pagrindai 
+
+
+1. Policijos rėmėjas turi teisę panaudoti specialiąsias priemones:
+
+
+1) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
+
+
+
+
+2) sulaikydamas teisės pažeidimą darantį arba padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo.
+
+
+
+
+
+
+2. Draudžiama naudoti specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs ar nepilnamečiai (jei jų amžius žinomas policijos rėmėjui arba išvaizda atitinka amžių), išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai tokių asmenų grupė užpuola ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+ 
+
+
+
+
+
+
+19 straipsnis. Policijos rėmėjų veiklos finansavimas
+
+
+Policijos rėmėjų veikla finansuojama iš valstybės biudžete Policijos departamentui prie Vidaus reikalų ministerijos skirtų lėšų, iš specialių kovos su nusikalstamumu ir teisėtvarkos pažeidimais fondų lėšų, savivaldybių skiriamų tikslinių lėšų ir asociacijų lėšų.
 
 
 
@@ -525,9 +640,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1435, 2003-04-03, Žin., 2003, Nr. 38-1680 (2003-04-24), i. k. 1031010ISTA0IX-1435
 Lietuvos Respublikos policijos rėmėjų įstatymo 5, 11 ir 13 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1766, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09608
+Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 pakeitimo įstatymas
