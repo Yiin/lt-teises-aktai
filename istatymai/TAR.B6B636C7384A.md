@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2015-07-04 iki 2015-09-30
+Suvestinė redakcija nuo 2015-10-01 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -3495,32 +3495,32 @@ Nr. X-273, 2005-06-23, Žin., 2005, Nr. 84-3110 (2005-07-12)
 70 straipsnis. Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūra
 
 
-1. Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūrą atlieka Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas, priežiūros institucija. Tačiau tai neriboja Lietuvos priežiūros institucijos teisės reikalauti, kad Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, turintys filialų Lietuvos Respublikoje, teiktų informaciją apie savo veiklą Lietuvos Respublikoje, taip pat atlikti Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūrą atsižvelgiant į šio Įstatymo nuostatas. 
+1. Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūrą atlieka Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas, priežiūros institucija. Tačiau tai neriboja Lietuvos priežiūros institucijos teisės reikalauti, kad Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, turintys filialų Lietuvos Respublikoje, periodiškai teiktų informaciją apie savo veiklą Lietuvos Respublikoje, reikalingą šio Įstatymo 701 straipsnio 1 dalyje nustatytų sąlygų vertinimui arba priežiūrai, atsižvelgiant į šio Įstatymo nuostatas, atlikti, taip pat atlikti Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūrą atsižvelgiant į šio straipsnio nuostatas. 
 
 
 
 
-2. Priežiūros institucija turi teisę iš kitoje Europos Sąjungos valstybėje narėje licencijuoto užsienio banko filialo likvidumo priežiūros tikslais reikalauti tokios pačios informacijos, kokios tuo tikslu reikalaujama iš Lietuvos Respublikoje licencijuoto banko. 
+2. Priežiūros institucija inspektuoja (tikrina) Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų filialus, įsteigtus Lietuvos Respublikoje, ir prašo, kad jie priežiūros tikslais pateiktų informaciją apie savo veiklą ir teisės aktais nustatytų reikalavimų laikymąsi, kai, priežiūros institucijos nuomone, tai svarbu Lietuvos finansų sistemos stabilumui ir patikimumui. Prieš atlikdama Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų filialų, įsteigtų Lietuvos Respublikoje, patikrinimus, priežiūros institucija konsultuojasi su Europos Sąjungos valstybių narių, kurių jurisdikcijai priklauso bankų filialus įsteigę užsienio bankai, priežiūros institucijomis, o atlikusi patikrinimus perduoda joms gautą informaciją ir išvadas, kurios yra svarbios užsienio banko rizikos vertinimui ar Lietuvos finansų sistemos stabilumui ir patikimumui. 
 
 
 
 
-3. Jei priežiūros institucija nustato, kad Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, kuris teikia paslaugas Lietuvos Respublikoje neįsteigęs filialo, ar Europos Sąjungos valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigtas filialas nesilaiko ar yra pagrindas manyti, kad nesilaikys šio Įstatymo, priežiūros institucijos teisės aktų ar kitų teisės aktų, reglamentuojančių finansinių paslaugų teikimą, priežiūros institucija raštu nurodo užsienio bankui ar (ir) užsienio banko filialui per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus.
+3. Jei priežiūros institucija, vadovaudamasi gauta informacija nustato, kad Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, teikiantys paslaugas Lietuvos Respublikoje neįsteigus filialo, Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigti filialai nesilaiko arba yra pagrindas manyti, kad nesilaikys šio Įstatymo, priežiūros institucijos teisės aktų ar kitų teisės aktų, reglamentuojančių finansinių paslaugų teikimą, priežiūros institucija informuoja apie tai užsienio valstybės, kurios jurisdikcijai priklauso šis bankas ar šio banko Lietuvos Respublikoje įsteigtas filialas, priežiūros instituciją, prašydama imtis visų galimų veiksmų daromiems ar galimiems pažeidimams pašalinti. 
 
 
 
 
-4. Jei nepaisoma pagal šio straipsnio 3 dalį duotų nurodymų, priežiūros institucija informuoja apie tai užsienio valstybės, kurios jurisdikcijai priklauso užsienio bankas, teikiantis paslaugas Lietuvos Respublikoje neįsteigęs filialo, arba užsienio banko Lietuvos Respublikoje įsteigtas filialas, priežiūros instituciją, prašydama imtis visų galimų veiksmų pažeidimams pašalinti.
+4. Jei Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas arba užsienio banko Lietuvos Respublikoje įsteigtas filialas, priežiūros institucija nesiima veiksmų arba, Lietuvos priežiūros institucijos nuomone, veiksmai yra nepakankami, kad būtų pašalinti šio straipsnio 3 dalyje nurodyti pažeidimai, Lietuvos priežiūros institucija gali perduoti šį klausimą nagrinėti Europos bankininkystės institucijai. 
 
 
 
 
-5. Jei, nepaisydamas užsienio valstybės priežiūros institucijos veiksmų, užsienio bankas, teikiantis paslaugas Lietuvos Respublikoje neįsteigęs filialo, ar užsienio banko Lietuvos Respublikoje įsteigtas filialas toliau nevykdo šio straipsnio 3 dalyje nurodytų Lietuvos Respublikos teisės aktų reikalavimų, priežiūros institucija, iš anksto apie tai informavusi užsienio valstybės priežiūros instituciją, turi teisę taikyti šio Įstatymo nustatytas poveikio priemones.
+5. Jei, nepaisydamas užsienio valstybės priežiūros institucijos veiksmų, užsienio bankas ar užsienio banko Lietuvos Respublikoje įsteigtas filialas toliau nevykdo šio straipsnio 3 dalyje nurodytų Lietuvos Respublikos teisės aktų reikalavimų, priežiūros institucija, iš anksto apie tai informavusi užsienio valstybės priežiūros instituciją ir Europos bankininkystės instituciją, turi teisę taikyti šio Įstatymo nustatytas poveikio priemones. 
 
 
 
 
-6. Neatidėliotinais atvejais, kai kyla rimta grėsmė kolektyviniams indėlininkų ir kitų kreditorių interesams, priežiūros institucija turi teisę taikyti poveikio priemones ir neatsižvelgdama į šio straipsnio 3–5 dalių nuostatas. Šios poveikio priemonės turi būti proporcingos jų tikslui užtikrinti finansų sistemos stabilumą ir patikimumą. Apie šių poveikio priemonių taikymą priežiūros institucija nedelsdama praneša Europos Komisijai, Europos bankininkystės institucijai ir atitinkamai užsienio valstybės priežiūros institucijai. 
+6. Neatidėliotinais atvejais, kai kyla rimta grėsmė kolektyviniams indėlininkų ir kitų kreditorių interesams, priežiūros institucija turi teisę taikyti poveikio priemones ir neatsižvelgdama į šio straipsnio 3–5 dalių nuostatas. Šios poveikio priemonės turi būti proporcingos jų tikslui užtikrinti finansų sistemos stabilumą ir patikimumą. Apie šių poveikio priemonių taikymą priežiūros institucija nedelsdama praneša Europos Komisijai, Europos bankininkystės institucijai ir atitinkamai užsienio valstybės priežiūros institucijai. Priežiūros institucija nebetaiko poveikio priemonių, jei atitinkamų Europos Sąjungos valstybių narių institucijos pradeda taikyti priemones, nustatytas šio Įstatymo 88 straipsnio 1 dalyje.
 
 
 Straipsnio pakeitimai:
@@ -3563,17 +3563,32 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-4. Priežiūros institucija, bendradarbiaudama siekiant priimti bendrą sprendimą pagal šio straipsnio 2 dalį ir keisdamasi informacija atliekant svarbių filialų priežiūrą, sudaro priežiūros institucijų kolegiją (jeigu priežiūros institucijų kolegija pagal šio Įstatymo 59 straipsnio 8 dalį nėra sudaryta dėl visos finansinės grupės, kuriai priklauso svarbiu pripažintą filialą įsteigęs bankas). Priežiūros institucijų kolegija sudaroma ir veikia vadovaujantis sutartimis, sudarytomis su Europos Sąjungos valstybių narių, kuriose įsteigti svarbūs filialai, priežiūros institucijomis. Priežiūros institucija sprendžia, kurios priežiūros institucijos dalyvauja kolegijos posėdžiuose arba konkrečioje kolegijos veikloje. Planuodama ir koordinuodama priežiūros institucijų kolegijos veiklą priežiūros institucija atsižvelgia į priimamų sprendimų svarbą ir galimą jų poveikį priežiūros institucijų kolegijoje dalyvaujančioms priežiūros institucijoms, visų pirma į galimą poveikį kitų suinteresuotų Europos Sąjungos valstybių narių finansų sistemos stabilumui ir bendro sprendimo dėl filialo pripažinimo svarbiu priėmimui. Visi priežiūros institucijų kolegijos nariai iš anksto informuojami apie organizuojamus kolegijos posėdžius, pagrindinius klausimus ir veiklą, kuri bus aptariama posėdžio metu, o posėdžiui įvykus – apie visus veiksmus, kurių buvo imtasi posėdžio metu, arba apie visas įvykdytas priemones.
+4. Siekdama bendradarbiauti atliekant banko, kuris turi svarbių filialų kitose Europos Sąjungos valstybėse narėse, priežiūrą ir keistis informacija pagal šio straipsnio 5 ir 6 dalis, priežiūros institucija sudaro priežiūros institucijų kolegiją (jeigu priežiūros institucijų kolegija pagal šio Įstatymo 59 straipsnio 8 dalį nėra sudaryta dėl visos finansinės grupės, kuriai priklauso svarbiu pripažintą filialą įsteigęs bankas). Priežiūros institucijų kolegija sudaroma ir veikia vadovaujantis sutartimis, sudarytomis su Europos Sąjungos valstybių narių, kuriose įsteigti svarbūs filialai, priežiūros institucijomis. Priežiūros institucija sprendžia, kurios priežiūros institucijos dalyvauja kolegijos posėdžiuose arba konkrečioje kolegijos veikloje. Planuodama ir koordinuodama priežiūros institucijų kolegijos veiklą priežiūros institucija atsižvelgia į priimamų sprendimų svarbą ir galimą jų poveikį priežiūros institucijų kolegijoje dalyvaujančioms priežiūros institucijoms, visų pirma į galimą poveikį kitų suinteresuotų Europos Sąjungos valstybių narių finansų sistemos stabilumui ir šio straipsnio 5 ir 6 dalyse nurodytoms pareigoms. Visi priežiūros institucijų kolegijos nariai iš anksto informuojami apie organizuojamus kolegijos posėdžius, pagrindinius klausimus ir veiklą, kuri bus aptariama posėdžio metu, o posėdžiui įvykus – apie visus veiksmus, kurių buvo imtasi posėdžio metu, arba apie visas įvykdytas priemones.
 
 
 
 
-5. Lietuvos Respublikoje licencijuoto banko kitoje Europos Sąjungos valstybėje narėje įsteigtą filialą pripažinus svarbiu, priežiūros institucija teikia informaciją ir bendradarbiauja su kitos Europos Sąjungos valstybės narės, kurioje bankas yra įsteigęs svarbiu pripažintą filialą, priežiūros institucija ir atlieka kitas papildomas užduotis. Priežiūros institucija planuoja ir koordinuoja svarbiais pripažintų filialų priežiūros veiklą su visomis Europos Sąjungos valstybių narių, kuriose įsteigti svarbūs filialai, priežiūros institucijomis ir prireikus su Europos centrinių bankų sistemos centriniais bankais rengiantis kritinėms situacijoms ir joms susidarius, įskaitant neigiamus pokyčius bankuose ir finansų rinkose. Priežiūros planavimas ir koordinavimas apima informavimą apie neigiamus pokyčius banke ar kitose jo kontroliuojamose įmonėse, bankui šio Įstatymo nustatyta tvarka pritaikytas sankcijas arba kitas išskirtines poveikio priemones (įskaitant papildomo kapitalo reikalavimo nustatymą pagal šio Įstatymo 67 straipsnio 2 dalies 2 punktą ir bet kokių apribojimų apskaičiuojant kapitalo reikalavimą pagal Reglamento (ES) Nr. 575/2013 312 straipsnį nustatymą). Priežiūros institucija, sužinojusi apie su jos licencijuotu banku, kuris kitoje Europos Sąjungos valstybėje narėje yra įsteigęs svarbiu pripažintą filialą, susijusią kritinę situaciją, kuri kelia galimą grėsmę rinkos likvidumui ir finansinės sistemos stabilumui toje Europos Sąjungos valstybėje narėje, iš karto, kai tik praktiškai tai įmanoma padaryti, atsižvelgdama į šio Įstatymo 65 straipsnio nuostatas apie tai informuoja Europos bankininkystės instituciją, Europos sisteminės rizikos valdybą, Europos centrinių bankų sistemos centrinius bankus, Lietuvos Respublikos finansų ministeriją ir kitos Europos Sąjungos valstybės narės, kurioje yra įsteigtas svarbiu pripažintas filialas, centrinės valdžios institucijas, dalyvaujančias rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, ir praneša visą informaciją, kuri yra esminė jų funkcijoms atlikti. 
+5. Lietuvos Respublikoje licencijuoto banko kitoje Europos Sąjungos valstybėje narėje įsteigtą filialą pripažinus svarbiu, priežiūros institucija teikia informaciją ir bendradarbiauja su kitos Europos Sąjungos valstybės narės, kurioje bankas yra įsteigęs svarbiu pripažintą filialą, priežiūros institucija ir atlieka kitas papildomas užduotis. Priežiūros institucija planuoja ir koordinuoja svarbiais pripažintų filialų priežiūros veiklą su visomis Europos Sąjungos valstybių narių, kuriose įsteigti svarbūs filialai, priežiūros institucijomis ir prireikus su Europos centrinių bankų sistemos centriniais bankais rengiantis kritinėms situacijoms ir joms susidarius, įskaitant neigiamus pokyčius bankuose ir finansų rinkose. Priežiūros planavimas ir koordinavimas apima informavimą apie neigiamus pokyčius banke ar kitose jo kontroliuojamose įmonėse, bankui šio Įstatymo nustatyta tvarka pritaikytas sankcijas arba kitas išskirtines poveikio priemones (įskaitant papildomo kapitalo reikalavimo nustatymą pagal šio Įstatymo 67 straipsnio 2 dalies 2 punktą ir bet kokių apribojimų apskaičiuojant kapitalo reikalavimą pagal Reglamento (ES) Nr. 575/2013 312 straipsnį nustatymą), priežiūrinio tikrinimo ir vertinimo. Priežiūros institucija, sužinojusi apie su jos licencijuotu banku, kuris kitoje Europos Sąjungos valstybėje narėje yra įsteigęs svarbiu pripažintą filialą, susijusią kritinę situaciją, kuri kelia galimą grėsmę rinkos likvidumui ir finansinės sistemos stabilumui toje Europos Sąjungos valstybėje narėje, iš karto, kai tik praktiškai tai įmanoma padaryti, atsižvelgdama į šio Įstatymo 65 straipsnio nuostatas apie tai informuoja Europos bankininkystės instituciją, Europos sisteminės rizikos valdybą, Europos centrinių bankų sistemos centrinius bankus, Lietuvos Respublikos finansų ministeriją ir kitos Europos Sąjungos valstybės narės, kurioje yra įsteigtas svarbiu pripažintas filialas, centrinės valdžios institucijas, dalyvaujančias rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, ir praneša visą informaciją, kuri yra esminė jų funkcijoms atlikti.
 
 
 
 
-6. Filialą pripažinus svarbiu, jo priežiūra atliekama pagal šio Įstatymo ir kitų teisės aktų nuostatas dėl filialų priežiūros.
+6. Priežiūros institucija perduoda kitos Europos Sąjungos valstybės narės, kurioje yra įsteigti svarbūs filialai, priežiūros institucijai informaciją apie priežiūrinio tikrinimo ir vertinimo rezultatus, taip pat pagal šio Įstatymo 67 straipsnio 2 dalį priežiūros institucijos duotus privalomus nurodymus ir nustatytus individualius banko veiklos riziką ribojančius normatyvus ar papildomus reikalavimus dėl banko veiklos rizikos ribojimo, jei jie yra aktualūs svarbiems filialams. 
+
+
+
+
+7. Priežiūros institucija konsultuojasi su Europos Sąjungos valstybių narių, kuriose įsteigti svarbūs filialai, priežiūros institucijomis dėl banko likvidumo atkūrimo plano, jei tai svarbu vertinant likvidumo riziką kitos Europos Sąjungos valstybės narės valiuta. 
+
+
+
+
+8. Jei Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas arba užsienio banko Lietuvos Respublikoje įsteigtas filialas, priežiūros institucija nesikonsultuoja su Lietuvos priežiūros institucija arba, Lietuvos priežiūros institucijos nuomone, veiksmai, nustatyti banko veiklos pertvarkymo ir (ar) nustatytų pažeidimų ir (ar) trūkumų pašalinimo priemonių plane, yra nepakankami, Lietuvos priežiūros institucija gali perduoti šį klausimą nagrinėti Europos bankininkystės institucijai. 
+
+
+
+
+9. Filialą pripažinus svarbiu, jo priežiūra atliekama pagal šio Įstatymo ir kitų teisės aktų nuostatas dėl filialų priežiūros.
 
 
 Įstatymas papildytas straipsniu:
@@ -3581,6 +3596,34 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 Straipsnio pakeitimai:
 Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 Straipsnio pakeitimai:
+Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
+ 
+
+
+
+
+702 straipsnis. Informacijos teikimas ir bendradarbiavimas su kitų Europos Sąjungos valstybių narių institucijomis vykdant Lietuvos Respublikoje licencijuotų bankų, teikiančių paslaugas kitoje Europos Sąjungos valstybėje narėje neįsteigus filialo ar per kitoje Europos Sąjungos valstybėje narėje įsteigtą filialą, priežiūrą
+
+
+1. Lietuvos priežiūros institucija teikia informaciją ir bendradarbiauja su kitos Europos Sąjungos valstybės narės, kurioje Lietuvos Respublikoje licencijuotas bankas teikia paslaugas neįsteigęs filialo ar per kitoje Europos Sąjungos valstybėje narėje įsteigtą filialą, priežiūros institucija. Priežiūros institucija, iš kitos Europos Sąjungos valstybės narės priežiūros institucijos gavusi informaciją ar išvadas, kurios yra svarbios banko rizikos vertinimui ar kitos Europos Sąjungos valstybės narės finansų sistemos stabilumui ir patikimumui, turi tinkamai atsižvelgti į šią informaciją rengdama priežiūros programą. Priežiūros programos turinį ir rengimo tvarką nustato priežiūros institucija. 
+
+
+
+
+2. Priežiūros institucija atitinkamoms kitų Europos Sąjungos valstybių narių priežiūros institucijoms iš karto, kai tik praktiškai įmanoma tai padaryti, pateikia visą su banko likvidumu ir konsoliduota priežiūra susijusią informaciją ir išvadas pagal Reglamento (ES) Nr. 575/2013 šeštą dalį apie banko per Europos Sąjungos valstybėje narėje įsteigtus filialus vykdomą veiklą, jei tokia informacija ar išvados yra svarbios indėlininkų ar investuotojų apsaugai priimančiojoje valstybėje narėje, taip pat informuoja jas apie susidariusią kritinę situaciją, kuri kelia arba gali kelti grėsmę rinkos likvidumui ir finansinės sistemos stabilumui. Kartu su šia informacija pateikiami visi išsamūs duomenys apie banko veiklos pertvarkymo ir (ar) nustatytų pažeidimų ir (ar) trūkumų pašalinimo priemonių plano rengimą ir įgyvendinimą, taip pat informacija apie visas priemones, kurias priežiūros institucija numato taikyti šiomis aplinkybėmis. 
+
+
+
+
+3. Priežiūros institucija Europos Sąjungos valstybių narių priežiūros institucijų prašymu joms paaiškina, kaip atsižvelgė į jų suteiktą informaciją.
+
+
+
+
+4. Jeigu priežiūros institucija, vadovaudamasi gauta informacija, nustato, kad Lietuvos Respublikoje licencijuotas bankas, teikiantis finansines paslaugas kitoje Europos Sąjungos valstybėje narėje neįsteigęs filialo ar per kitoje Europos Sąjungos valstybėje narėje įsteigtą filialą, nesilaiko arba yra pagrindas manyti, kad nesilaikys teisės aktų, reglamentuojančių finansinių paslaugų teikimą, arba apie tai praneša kitos Europos Sąjungos valstybės narės priežiūros institucija, priežiūros institucija imasi visų galimų veiksmų daromiems ar galimiems pažeidimams pašalinti. 
+
+
+Papildyta straipsniu:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
  
 
@@ -5212,6 +5255,8 @@ Nr. XI-377, 2009-07-21, Žin., 2009, Nr. 93-3970 (2009-08-04)
 Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 Nr. XI-1869, 2011-12-22, Žin., 2011, Nr. 163-7760 (2011-12-31)
 Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
+ 
+ 
 
 
 
