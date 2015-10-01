@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2011-10-01 iki 2015-09-30
+Suvestinė redakcija nuo 2015-10-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -37,10 +37,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato žemės ūkio, maisto ūkio ir kaimo plėtros politikos tikslus, Lietuvos Respublikos valstybės, Europos Sąjungos paramos žemės ūkiui, maisto ūkiui ir kaimo plėtrai (toliau – valstybės ir Europos Sąjungos parama) įgyvendinimo principus, valstybės ir Europos Sąjungos paramos priemones, šias priemones ir žemės ūkio, maisto ūkio ir kaimo plėtros politiką įgyvendinančias bei žemės ūkio, maisto ūkio oficialiąją statistiką ir Lietuvos Respublikos žemės ūkio ir kaimo verslo registrą tvarkančias valstybės ir savivaldybių institucijas, įstaigas ir kitus juridinius asmenis.
+1. Šis įstatymas nustato žemės ūkio, maisto ūkio ir kaimo plėtros politikos tikslus, Lietuvos Respublikos valstybės, Europos Sąjungos paramos žemės ūkiui, maisto ūkiui ir kaimo plėtrai (toliau – valstybės ir Europos Sąjungos parama) įgyvendinimo principus, valstybės ir Europos Sąjungos paramos priemones, šias priemones ir žemės ūkio, maisto ūkio ir kaimo plėtros politiką įgyvendinančias bei žemės ūkio, maisto ūkio oficialiąją statistiką ir Lietuvos Respublikos žemės ūkio ir kaimo verslo registrą tvarkančias valstybės ir savivaldybių institucijas, įstaigas ir kitus juridinius asmenis.
+
+
+
+
+2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
  
-
-
 
 
 
@@ -54,6 +61,14 @@ BENDROSIOS NUOSTATOS
 
 
 2. Alternatyviosios veiklos subjektas – alternatyviąja veikla užsiimantis fizinis ar juridinis asmuo arba fizinių ar juridinių asmenų grupė, taip pat Lietuvoje registruotas užsienio juridinio asmens filialas, kurių žemės ūkio valda yra įregistruota Lietuvos Respublikos žemės ūkio ir kaimo verslo registre.
+
+
+
+
+21. Apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistema – kompetentingos institucijos ir ūkio subjektų įgyvendinamų teisės aktuose numatytų administracinių ir techninių priemonių, kuriomis siekiama sumažinti augalų apsaugos produktų neigiamą poveikį žmonių sveikatai ir aplinkai, visuma. 
+Papildyta straipsnio dalimi:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+ 
 
 
 
@@ -104,8 +119,6 @@ BENDROSIOS NUOSTATOS
 
 
 12. Paslaugos žemės ūkiui – Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše išvardytos su žemės ūkiu susijusios paslaugos.
-TAR pastaba. 2 straipsnio 12 dalis įsigalioja 2012-01-01.
- 
 
 
 
@@ -131,6 +144,14 @@ TAR pastaba. 2 straipsnio 12 dalis įsigalioja 2012-01-01.
 
 
 17. Valstybės pagalba žemės ūkiui – bet kokia priemonė, atitinkanti Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje nustatytus kriterijus ir teikiama su žemės ūkio ir maisto produktų gamyba, perdirbimu, prekyba ir kaimo plėtra susijusioms veiklos rūšims.
+
+
+
+
+171. Ūkio subjektas – kaip ši sąvoka apibrėžta Lietuvos Respublikos konkurencijos įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+ 
 
 
 
@@ -166,6 +187,22 @@ TAR pastaba. 2 straipsnio 12 dalis įsigalioja 2012-01-01.
 
 
 24. Žemės ūkis – ūkio šaka, apimanti žemės ūkio veiklą.
+
+
+
+
+25. Žemės ar miškų ūkio transporto priemonės atitikties įvertinimas – procedūra, kuria nustatoma, ar žemės ar miškų ūkio transporto priemonė atitinka teisės aktų nustatytus reikalavimus. 
+Papildyta straipsnio dalimi:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+ 
+
+
+
+
+26. Žemės ar miškų ūkio transporto priemonės tipo patvirtinimas – procedūra, kuria patvirtinama, kad žemės ar miškų ūkio transporto priemonė, jos sistema, sudedamoji dalis ar atskiras techninis mazgas atitinka teisės aktų nustatytus techninius reikalavimus.
+Papildyta straipsnio dalimi:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+ 
 
 
 Straipsnio pakeitimai:
@@ -248,7 +285,14 @@ ANTRASIS SKIRSNIS
 
 
 
-12) skatinti kooperatinių bendrovių (kooperatyvų) žemės ir maisto ūkyje, gamintojų grupių ir gamintojų organizacijų kūrimąsi ir veiklą.
+12) skatinti kooperatinių bendrovių (kooperatyvų) žemės ir maisto ūkyje, gamintojų grupių ir gamintojų organizacijų kūrimąsi ir veiklą;
+
+
+
+
+13) skatinti žemės ūkio inžinerinę plėtrą ir užtikrinti žemės ar miškų ūkio transporto priemonių atitikties įvertinimą.
+Papildyta straipsnio punktu:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
  
 
 
@@ -261,18 +305,22 @@ ANTRASIS SKIRSNIS
 4 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros politikos įgyvendinimas
 
 
-1. Žemės ūkio, maisto ūkio ir kaimo plėtros politiką įgyvendina Vyriausybė, Žemės ūkio ministerija, kitos įstatymais ir kitais teisės aktais įgaliotos valstybės institucijos, įstaigos, taip pat savivaldybių institucijos pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją. Savivaldybių institucijos Žemės ūkio ministerijos nustatyta tvarka teikia jai informaciją apie įstatymais priskirtų funkcijų įgyvendinimą žemės ūkio, maisto ūkio ir kaimo plėtros srityse.
-Straipsnio dalies pakeitimai:
-Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+1. Žemės ūkio, maisto ūkio ir kaimo plėtros politiką formuoja Vyriausybė, Žemės ūkio ministerija, o įgyvendina kitos įstatymais ir kitais teisės aktais įgaliotos valstybės institucijos, įstaigos, valstybės įmonės, taip pat savivaldybių institucijos pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją. Savivaldybių institucijos Žemės ūkio ministerijos nustatyta tvarka teikia jai informaciją apie įstatymais priskirtų funkcijų įgyvendinimą žemės ūkio, maisto ūkio ir kaimo plėtros srityse.
+
+
+
+
+2. Valstybės institucijos, įstaigos, valstybės įmonės ir savivaldybių institucijos, įgyvendindamos žemės ūkio, maisto ūkio ir kaimo plėtros politiką, bendradarbiauja su Žemės ūkio rūmais, žemės ūkio ir maisto gamintojų, supirkėjų, perdirbėjų ir kitomis asociacijomis bei institucijomis, įstaigomis ar organizacijomis, kurių veikla susijusi su konsultavimu, moksliniais tyrimais, formaliuoju ir neformaliuoju švietimu.
+
+
+
+
+3. Valstybės įmonė Mašinų bandymo stotis yra kompetentinga institucija dėl žemės ar miškų ūkio transporto priemonių atitikties įvertinimo ir tipo patvirtinimo bei apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros. Vykdydama apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros darbus, valstybės įmonė Mašinų bandymo stotis Žemės ūkio ministerijos nustatyta tvarka įvertina technines apžiūras vykdančių ūkio subjektų pasirengimą užsiimti šia veikla, koordinuoja šią veiklą ir atlieka jos priežiūrą. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
  
-
-
-
-
-2. Valstybės institucijos, įstaigos bei savivaldybių institucijos, įgyvendindamos žemės ūkio, maisto ūkio ir kaimo plėtros politiką, bendradarbiauja su Žemės ūkio rūmais, žemės ūkio ir maisto gamintojų, supirkėjų, perdirbėjų ir kitomis asociacijomis bei institucijomis, įstaigomis ar organizacijomis, kurių veikla susijusi su konsultavimu, moksliniais tyrimais, formaliuoju ir neformaliuoju švietimu.
- 
-
-
 
 
 
@@ -600,3 +648,13 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 2, 4, 5, 7, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1729, 2015-05-19, paskelbta TAR 2015-05-27, i. k. 2015-08127
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 papildymo 5-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 1, 2, 3, 4 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
