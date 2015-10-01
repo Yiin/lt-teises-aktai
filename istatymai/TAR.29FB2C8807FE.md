@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-09-30
+Suvestinė redakcija nuo 2015-10-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -737,7 +737,45 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-4. Įmonės vadovu negali būti asmuo, kuriam įstatymų nustatyta tvarka atimta teisė eiti tokias pareigas. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). 
+4. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). Asmuo negali būti įmonės vadovu, jeigu:
+
+
+1) įstatymų nustatyta tvarka yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+2) įstatymų nustatyta tvarka yra pripažintas kaltu dėl nusikaltimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+3) įstatymų nustatyta tvarka yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+
+
+
+
+4) įstatymų nustatyta tvarka yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+5) yra įstatymų nustatyta tvarka uždraustos organizacijos narys;
+
+
+
+
+6) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
+
+
+
+
+7) įstatymų nustatyta tvarka jam atimta teisė eiti tokias pareigas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1619, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06521
+ 
 
 
 
@@ -2001,3 +2039,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 3,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1620, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06580
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1619, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06521
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 11 straipsnio pakeitimo įstatymas
