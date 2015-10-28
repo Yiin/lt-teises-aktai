@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-05-26 iki 2015-10-27
+Suvestinė redakcija nuo 2015-10-28 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -519,7 +519,10 @@ Lietuvos nacionalinės sveikatos sistemos sudarymo pagrindai yra:
 
 
 
-5) Lietuvos sveikatos programos, valstybės ir savivaldybių sveikatos programų įgyvendinimo užtikrinimas;
+5) Lietuvos sveikatos strategijos, valstybės ir savivaldybių sveikatos programų įgyvendinimo užtikrinimas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+ 
 
 
 
@@ -1899,21 +1902,23 @@ prioritetai
 46 straipsnis. Sveikatinimo veiklos planavimas
 
 
-1. Seimas Vyriausybės teikimu tvirtina Lietuvos sveikatos programą, kurioje nurodomi sveikatinimo veiklos tikslai, valstybės siekiamo sveikatos lygio rodikliai ir sveikatinimo veiklos strategijos jiems pasiekti. 
+1. Seimas Vyriausybės teikimu tvirtina Lietuvos sveikatos strategiją, kurioje nurodomi sveikatinimo veiklos tikslai, valstybės siekiamo sveikatos lygio rodikliai ir sveikatinimo veiklos strategijos jiems pasiekti. 
 
 
 
 
-2. Lietuvos sveikatos programoje nustatytiems uždaviniams įgyvendinti Vyriausybė, ministerijos, kitos Vyriausybės įstaigos, savivaldybės organizuoja valstybės ir savivaldybių sveikatos programų ir įstatymų nustatytų planavimo dokumentų rengimą bei jų įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones kitose socialinio ir ekonominio plėtojimo programose.
+2. Lietuvos sveikatos strategijoje nustatytiems uždaviniams įgyvendinti Vyriausybė, ministerijos, kitos Vyriausybės įstaigos, savivaldybės organizuoja valstybės ir savivaldybių sveikatos programų ir įstatymų nustatytų planavimo dokumentų rengimą bei jų įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones kitose socialinio ir ekonominio plėtojimo programose.
 
 
 
 
-3. Sveikatos programų rengimo, finansavimo, įgyvendinimo ir kontrolės tvarką nustato Sveikatos apsaugos ministerija.
+3. Lietuvos sveikatos strategijos įgyvendinimo priemonių rengimo, finansavimo, įgyvendinimo ir kontrolės tvarką nustato sveikatos apsaugos ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+Straipsnio pakeitimai:
+Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
  
 
 
@@ -2429,7 +2434,10 @@ reikalams tvarkyti
 
 
 
-2) analizuoja gyventojų sveikatos būklę ir jos raidos prognozę, prisideda nustatant sveikatinimo veiklos tikslus, valstybės siekiamo sveikatos lygio rodiklius ir įgyvendinant Lietuvos sveikatos programą;
+2) analizuoja gyventojų sveikatos būklę ir jos raidos prognozę, prisideda nustatant sveikatinimo veiklos tikslus, valstybės siekiamo sveikatos lygio rodiklius ir įgyvendinant Lietuvos sveikatos strategiją;
+Straipsnio punkto pakeitimai:
+Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+ 
 
 
 
@@ -2650,7 +2658,10 @@ Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 Savivaldybės administracijos direktorius:
 
 
-1) organizuoja Lietuvos sveikatos programos, valstybinių sveikatos programų įgyvendinimą, savivaldybės sveikatos priežiūros plėtojimą, savivaldybės tarybos patvirtintų savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės teritorijoje;
+1) organizuoja Lietuvos sveikatos strategijos, valstybinių sveikatos programų įgyvendinimą, savivaldybės sveikatos priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės teritorijoje;
+Straipsnio punkto pakeitimai:
+Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+ 
 
 
 
@@ -2832,7 +2843,10 @@ SVEIKATINIMO VEIKLOS KOORDINAVIMO SUBJEKTAI
 
 
 
-3. Nacionalinė sveikatos taryba teikia išvadas dėl valstybės siekiamo sveikatos lygio rodiklių, sveikatinimo veiklos tikslų, Lietuvos sveikatos programos bei kitų valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina Lietuvos sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui pranešimą apie gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę, atlieka šio ir kitų įstatymų bei Tarybos nuostatų jai priskirtas kitas funkcijas.
+3. Nacionalinė sveikatos taryba teikia išvadas dėl valstybės siekiamo sveikatos lygio rodiklių, sveikatinimo veiklos tikslų, Lietuvos sveikatos strategijos ir kitų valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina Lietuvos sveikatos strategijos įgyvendinimą, rengia ir kiekvienais metais teikia Seimui pranešimą apie gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę, atlieka šio ir kitų įstatymų bei Tarybos nuostatų jai priskirtas kitas funkcijas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+ 
 
 
 
@@ -4010,3 +4024,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 ir 19 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1704, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08038
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 71 ir 73 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 6, 46, 61, 64 ir 67 straipsnių pakeitimo įstatymas
