@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2015-10-27
+Suvestinė redakcija nuo 2015-10-28 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -41,6 +41,13 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šiame įstatyme, remiantis Lietuvos Respublikos Konstitucija, Jungtinių Tautų Organizacijos 1959 metų Vaiko teisių deklaracija, 1989 metų Vaiko teisių konvencija, kitomis tarptautinės teisės normomis bei principais, atsižvelgiant į specifinę vaiko padėtį šeimoje ir visuomenėje, nacionalinės teisės tradicijas, nustatomos pagrindinės vaiko teisės, laisvės bei pareigos, šių teisių ir laisvių apsaugos bei gynimo svarbiausiosios garantijos. Šis įstatymas taip pat reguliuoja vaiko elgesio kontrolės bei jo atsakomybės pagrindines sąlygas, nustato tėvų, kitų fizinių ir juridinių asmenų atsakomybės už vaiko teisių pažeidimus bendrąsias nuostatas, vaiko teisių apsaugos institucijų sistemą ir jų veiklos teisinius pagrindus.
+
+
+
+
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede.
+Papildyta straipsnio dalimi:
+Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
  
 
 
@@ -916,31 +923,32 @@ VAIKAS IR SOCIALINĖ APLINKA
 43 straipsnis. Vaiko apsaugos nuo neigiamos socialinės aplinkos įtakos bendrosios nuostatos
 
 
-1. Valstybės, vietos savivaldos institucijos, kiti fiziniai ir juridiniai asmenys privalo saugoti vaiką nuo neigiamos socialinės aplinkos įtakos. Sveiko gyvenimo būdo propagavimas ir vaikų teisinis švietimas – svarbios valstybės socialinės politikos ir veiklos kryptys.
+1. Valstybės, vietos savivaldos institucijos, kiti fiziniai ir juridiniai asmenys privalo saugoti vaiką nuo neigiamos socialinės aplinkos įtakos. Sveikos gyvensenos propagavimas ir vaikų teisinis švietimas – svarbios valstybės socialinės politikos ir veiklos kryptys.
 
 
 
 
-2. Už fizinio ar psichinio smurto demonstravimą vaikams, jų įtraukimą į nusikalstamą ar kitą neteisėtą veiką taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
+2. Už fizinio ar psichinio smurto demonstravimą vaikams, jų įtraukimą į nusikalstamą ar kitą neteisėtą veiką taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė.
+
+
+
+
+3. Vaikui, galimai nukentėjusiam ar nukentėjusiam nuo seksualinio išnaudojimo ar kitos formos smurto, išnaudojimo pornografijai ar prostitucijai, taip pat vaiko pirkimo ar pardavimo arba nukentėjusiam nuo kitos nusikalstamos veikos, turi būti teikiama reikalinga pagalba (sveikatos priežiūros, socialinė, teisinė ir kt.), parama ir apsauga, kad vaikas ir jo teisėti atstovai galėtų atkurti sveikatą po patirtos fizinės ar psichologinės traumos ir reintegruotis į socialinę aplinką. 
+
+
+
+
+4. Fizinis ar juridinis asmuo, sužinojęs apie vaiką, kuris galimai nukentėjo nuo nusikalstamos veikos ir dėl to jam gali reikėti pagalbos, privalo pranešti apie tai policijai ir (ar) savivaldybės administracijos vaiko teisių apsaugos skyriui. 
+
+
+
+
+5. Vaiko atstovai pagal įstatymą, siekdami apsaugoti vaiką nuo bet kokios formos smurto, suteikia vaikui reikiamą informaciją, atsižvelgdami į jo amžių ir vystymąsi.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
  
-
-
-
-
-3. Vaikui, nukentėjusiam nuo nusikalstamos veikos, smurto ar kito blogo elgesio, turi būti suteikta reikalinga pagalba, kad jis galėtų susigrąžinti sveikatą po patirtos fizinės ar psichologinės traumos ir reintegruotis į socialinę aplinką.
-Straipsnio dalies pakeitimai:
-Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
- 
-
-
-
-
-4. Fizinis ar juridinis asmuo, sužinojęs apie vaiką, kuriam būtina pagalba, privalo pranešti apie tai policijai, vaiko teisių apsaugos ar kitai kompetentingai institucijai.
- 
-
-
 
 
 
@@ -988,18 +996,30 @@ Draudžiama rodyti, parduoti, dovanoti, dauginti ir nuomoti vaikams žaislus, ki
 
 
 
-47 straipsnis. Vaiko apsauga nuo seksualinio išnaudojimo
+47 straipsnis. Vaiko apsauga nuo seksualinio išnaudojimo, išnaudojimo pornografijai ar prostitucijai, vaiko pirkimo arba pardavimo 
 
 
-1. Už vaiko skatinimą ar prievartavimą dalyvauti seksualinėje veikloje, panaudojimą prostitucijai arba įtraukimą į prostituciją, panaudojimą pornografijai, taip pat gaminant ar platinant pornografinius leidinius ar kitokius pornografinio ar erotinio pobūdžio dalykus taikoma įstatymų nustatyta administracinė arba baudžiamoji atsakomybė.
+1. Vaikas turi būti apsaugotas nuo nusikalstamų veikų, nurodytų Baudžiamojo kodekso XXI skyriuje, vaiko išnaudojimo pornografijai, vaiko pirkimo arba pardavimo, pelnymosi iš vaiko prostitucijos, vaiko įtraukimo į prostituciją ar disponavimo pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas.
 
 
 
 
-2. Vaikai turi būti mokomi išvengti seksualinės prievartos ir išnaudojimo.
+2. Už nusikalstamas veikas, numatytas šio straipsnio 1 dalyje, taikoma įstatymų numatyta baudžiamoji atsakomybė.
+
+
+
+
+3. Švietimo, asmens sveikatos priežiūros, socialinių paslaugų, teisėsaugos ir kitų institucijų bei įstaigų, nevyriausybinių organizacijų darbuotojai, atlikdami savo tiesioginio darbo funkcijas, susijusias su vaikais, ar kiti asmenys, gavę pagrįstos informacijos apie galimai prieš vaiką padarytas nusikalstamas veikas, nurodytas Baudžiamojo kodekso XXI skyriuje, taip pat vaiko išnaudojimą pornografijai, vaiko pirkimą arba pardavimą, pelnymąsi iš vaiko prostitucijos, vaiko įtraukimą į prostituciją ar disponavimą pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, nepaisydami konfidencialumo taisyklių, privalo nedelsdami apie tai informuoti savivaldybės administracijos vaiko teisių apsaugos skyrių ir (ar) policiją.
+
+
+
+
+4. Vaikui, galimai nukentėjusiam nuo šio straipsnio 1 dalyje nurodytų nusikalstamų veikų, šio įstatymo 43 straipsnio 3 dalyje numatyta pagalba, parama ir apsauga turi būti pradedama teikti nedelsiant ir turi būti teikiama tol, kol ji vaikui yra reikalinga. Jeigu nukentėjusysis yra asmuo, kurio amžius nenustatytas, tačiau yra priežasčių manyti, kad jis yra nepilnametis, pagalba, parama ir apsauga turi būti užtikrinta iki tol, kol bus nustatytas nukentėjusiojo amžius.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
  
-
-
 
 
 
@@ -1506,6 +1526,21 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+
+
+Lietuvos Respublikos 
+vaiko teisių apsaugos pagrindų įstatymo 
+priedas
+ 
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ 
+2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+ 
+Papildyta priedu:
+Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
+ 
  
  
 Pakeitimai:
@@ -1534,3 +1569,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-672, 2006-06-08, Žin., 2006, Nr. 72-2688 (2006-06-28), i. k. 1061010ISTA000X-672
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43, 47 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymas
