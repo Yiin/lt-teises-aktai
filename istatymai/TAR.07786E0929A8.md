@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2012-02-03 iki 2015-10-27
+Suvestinė redakcija nuo 2015-10-28 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
- 
-TAR pastaba. Šis įstatymas įsigalioja Patentų teisės sutarties įsigaliojimo Lietuvos Respublikai dieną. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos patentų įstatymo 66 straipsnis netenka galios praėjus 31 mėnesiui nuo šio įstatymo įsigaliojimo datos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1261, 2010-12-23, Žin., 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
-Lietuvos Respublikos patentų įstatymo pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-02-03:
 Nr. XI-1261, 2010-12-23, Žin. 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
@@ -1162,7 +1157,10 @@ PATENTO GALIOJIMAS
 
 
 
-3) atliekami vienkartiniam vaistų gaminimui vaistinėje pagal gydytojo receptą arba jeigu nurodyta, kaip naudotis taip pagamintais vaistais;
+3) atliekami vienkartiniam vaistų gaminimui vaistinėje pagal receptą arba jeigu nurodyta, kaip naudotis taip pagamintais vaistais;
+Straipsnio punkto pakeitimai:
+Nr. XII-1975, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16929
+ 
 
 
 
@@ -2620,3 +2618,8 @@ Lietuvos Respublikos patentų įstatymo papildymo 38(1) straipsniu, 59(2) straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1261, 2010-12-23, Žin., 2011, Nr. 4-127 (2011-01-10), i. k. 1101010ISTA0XI-1261
 Lietuvos Respublikos patentų įstatymo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1975, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16929
+Lietuvos Respublikos patentų įstatymo Nr. I-372 35 straipsnio pakeitimo įstatymas
