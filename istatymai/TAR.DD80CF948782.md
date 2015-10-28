@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2015-05-26 iki 2015-10-27
+Suvestinė redakcija nuo 2015-10-28 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
  
@@ -296,7 +296,10 @@ Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 
 
 
-2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: įgyvendina savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytas visuomenės sveikatos priemones, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.
+2) vykdo savarankiškąsias visuomenės sveikatos priežiūros funkcijas: įgyvendina savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numatytas visuomenės sveikatos priemones, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines visuomenės sveikatos programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.
+Straipsnio punkto pakeitimai:
+Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
+ 
 
 
 
@@ -427,32 +430,34 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 10 straipsnis. Valstybės ir savivaldybių visuomenės sveikatos priežiūros strateginis planavimas ir įgyvendinimas
 
 
-1. Nacionalinės visuomenės sveikatos priežiūros politikos tikslus ir uždavinius, gyventojų sveikatos lygio siekiamus rodiklius nustato Seimas, patvirtindamas Lietuvos sveikatos programą. 
+1. Nacionalinės visuomenės sveikatos priežiūros politikos tikslus ir uždavinius, gyventojų sveikatos lygio siekiamus rodiklius nustato Seimas, patvirtindamas Lietuvos sveikatos strategiją.
 
 
 
 
-2. Lietuvos sveikatos programai įgyvendinti Vyriausybė tvirtina Lietuvos nacionalinę visuomenės sveikatos priežiūros strategiją.
+2. Lietuvos sveikatos strategijai įgyvendinti Vyriausybė tvirtina Nacionalinę visuomenės sveikatos priežiūros plėtros programą.
 
 
 
 
-3. Valstybės institucijos, įgyvendindamos Lietuvos sveikatos programą, įtraukia Lietuvos nacionalinės visuomenės sveikatos priežiūros strategijos nuostatas į rengiamas socialines ekonomines programas, planus ir regionų plėtros programas. 
+3. Valstybės institucijos pagal kompetenciją dalyvauja įgyvendinant Nacionalinę visuomenės sveikatos priežiūros  plėtros programą. 
 
 
 
 
-4. Savivaldybių institucijos Lietuvos nacionalinę visuomenės sveikatos priežiūros strategiją įgyvendina per savivaldybės strateginį plėtros ir (ar) savivaldybės strateginį veiklos planus.
+4. Savivaldybių institucijos Nacionalinę visuomenės sveikatos priežiūros plėtros programą įgyvendina vykdydamos savivaldybės strateginį plėtros ir (ar) savivaldybės strateginį veiklos planus.
 
 
 
 
-5. Lietuvos nacionalinės visuomenės sveikatos priežiūros strategijos, jos įgyvendinimo planų ir programų rengimą bei įgyvendinimą koordinuoja Vyriausybės įgaliota institucija. Ji rengia ir skelbia visuomenei Lietuvos nacionalinės visuomenės sveikatos priežiūros strategijos įgyvendinimo ataskaitą bei kas dveji metai organizuoja viešą jos rezultatų svarstymą.
+5. Lietuvos sveikatos strategijos, Nacionalinės visuomenės sveikatos priežiūros plėtros programos įgyvendinimą koordinuoja Vyriausybės įgaliota institucija. Nacionalinės visuomenės sveikatos priežiūros plėtros programos įgyvendinimo rezultatai skelbiami viešai.
 
 
 Straipsnio pakeitimai:
 Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 Nr. XII-464, 2013-07-02, Žin., 2013, Nr. 79-3985 (2013-07-23)
+Straipsnio pakeitimai:
+Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
  
 
 
@@ -1250,7 +1255,10 @@ Visuomenės sveikatos stiprinimas apima sveikatos mokymą, informacijos apie sve
 34 straipsnis. Visuomenės sveikatos mokymas
 
 
-1. Valstybės tarnautojai privalo turėti žinių apie visuomenės sveikatos politikos ir strategijų formavimą bei įgyvendinimą. Valstybės tarnautojų, kurie privalo įgyti šių žinių, grupes ir kategorijas, jų mokymo programas ir tvarką nustato Vyriausybė arba jos įgaliotos institucijos.
+1. Valstybės tarnautojai privalo turėti žinių apie visuomenės sveikatos politikos formavimą ir įgyvendinimą. Valstybės tarnautojų, kurie privalo įgyti šių žinių, grupes ir kategorijas, jų mokymo programas ir tvarką nustato Vyriausybė arba jos įgaliotos institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
+ 
 
 
 
@@ -1918,3 +1926,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 1, 2, 12, 15, 41, 43 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 6, 10 ir 34 straipsnių pakeitimo įstatymas
