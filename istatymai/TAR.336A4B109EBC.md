@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-10-28
+Suvestinė redakcija nuo 2015-10-29 iki 2016-07-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -52,9 +52,15 @@ BENDROSIOS NUOSTATOS
 
 1. Teisę rinkti savivaldybės tarybos narius turi nuolatiniai šios savivaldybės gyventojai, kuriems rinkimų dieną yra sukakę 18 metų (toliau – rinkėjai). Savivaldybių tarybų rinkimuose (toliau – rinkimai) nedalyvauja asmenys, teismo pripažinti neveiksniais.
 
-2. Savivaldybės tarybos nariu gali būti renkamas nuolatinis šios savivaldybės gyventojas, kuriam rinkimų dieną yra sukakę 20 metų, o savivaldybės tarybos nariu – meru, – Lietuvos Respublikos pilietis, kuris gali būti renkamas šios savivaldybės tarybos nariu. Savivaldybės tarybos nariu gali būti renkamas asmuo, kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje ne vėliau kaip iki pareiškinių dokumentų pateikimo savivaldybės rinkimų komisijai dienos.
+2. Savivaldybės tarybos nariu gali būti renkamas nuolatinis šios savivaldybės gyventojas, kuriam rinkimų dieną yra sukakę 20 metų, o savivaldybės tarybos nariu – meru, – Lietuvos Respublikos pilietis, kuris gali būti renkamas šios savivaldybės tarybos nariu. Savivaldybės tarybos nariu gali būti renkamas asmuo, kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje likus ne mažiau kaip 90 dienų iki rinkimų dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
+ 
 
-3. Nuolatiniu savivaldybės gyventoju laikomas Lietuvos Respublikos pilietis, kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje arba kurio paskutinis žinomas gyvenamosios vietos adresas yra šios savivaldybės teritorijoje, arba kuris savo nuolatinę gyvenamąją vietą viešu pareiškimu nurodė šios savivaldybės teritorijoje ir ši gyvenamoji vieta nustatyta tvarka laikoma jo pagrindine gyvenamąja vieta, arba teisę gyventi Lietuvos Respublikoje turintis kitos Europos Sąjungos valstybės narės pilietis, kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje arba kuris yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje, arba kitas asmuo, kuris turi teisę nuolat gyventi Lietuvos Respublikoje ir turi šią teisę patvirtinantį dokumentą ir kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje arba kuris yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje. 
+3. Nuolatiniu savivaldybės gyventoju laikomas Lietuvos Respublikos pilietis, kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus yra deklaravęs (buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį) šios savivaldybės teritorijoje arba kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje, arba teisę gyventi Lietuvos Respublikoje turintis kitos Europos Sąjungos valstybės narės pilietis, kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus yra deklaravęs (buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį) šios savivaldybės teritorijoje arba kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje, arba kitas asmuo, kuris turi teisę nuolat gyventi Lietuvos Respublikoje ir turi šią teisę patvirtinantį dokumentą ir kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus yra deklaravęs (buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį) šios savivaldybės teritorijoje arba kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje. Jeigu šioje dalyje nurodytas asmuo atitinkamos savivaldybės teritorijoje savo gyvenamąją vietą deklaravo arba buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį, arba buvo įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą likus mažiau kaip 90 dienų iki rinkimų, jis teisę rinkti savivaldybės tarybos narius įgyvendina toje savivaldybėje, kurios teritorijoje jis buvo deklaravęs savo gyvenamąją vietą arba buvo įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą likus ne mažiau kaip 90 dienų iki rinkimų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
+ 
 
 4. Savivaldybės tarybos nariu negali būti renkamas asmuo, kuris likus 65 dienoms iki rinkimų yra nebaigęs atlikti bausmę pagal teismo nuosprendį, taip pat asmuo, teismo pripažintas neveiksniu. Savivaldybės tarybos nariu negali būti renkamas užsienio valstybės pilietis, kurio pasyvioji rinkimų teisė yra teismo apribota valstybėje, kurios pilietis jis yra.
 
@@ -447,7 +453,10 @@ RINKĖJŲ SĄRAŠAI IR RINKĖJO KORTELĖS
 
 25 straipsnis. Savivaldybių rinkėjų sąrašai
 
-Savivaldybės rinkėjų sąrašą elektroninėje informacijos laikmenoje pagal Lietuvos Respublikos rinkėjų sąrašą ir jame nurodytą rinkėjo gyvenamąją vietą (paskutinę žinomą ar rinkėjo deklaruotą gyvenamąją vietą) sudaro Vyriausioji rinkimų komisija ir ne vėliau kaip likus 39 dienoms iki rinkimų perduoda savivaldybės rinkimų komisijai. Kartu sudaromi rinkėjų, kurių gyvenamosios vietos tikslus adresas nežinomas, sąrašai.
+Savivaldybės rinkėjų sąrašą elektroninėje informacijos laikmenoje pagal Lietuvos Respublikos rinkėjų sąrašą ir jame nurodytą rinkėjo gyvenamąją vietą (rinkėjo deklaruotą gyvenamąją vietą) sudaro Vyriausioji rinkimų komisija ir ne vėliau kaip likus 39 dienoms iki rinkimų perduoda savivaldybės rinkimų komisijai. Kartu sudaromi rinkėjų, kurių gyvenamosios vietos tikslus adresas nežinomas, sąrašai.
+
+Straipsnio pakeitimai:
+Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
  
 
 26 straipsnis. Rinkimų apylinkių rinkėjų sąrašai
@@ -489,14 +498,19 @@ Rinkimų apylinkės rinkėjų sąrašą pagal savivaldybės rinkėjų sąrašą 
 
 3. Kad rinkėjo kortelė įteikta rinkėjui, pažymima rinkimų apylinkės išankstiniame rinkėjų sąraše. Rinkėjui, kuris turi teisę balsuoti namuose, rinkėjo kortelė įteikiama asmeniškai arba kitam kartu su rinkėju gyvenančiam asmeniui. Jeigu rinkėjo kortelės negalima įteikti, nes tuo metu rinkėjo ar kartu su juo gyvenančio asmens nėra namuose, nevardinis kvietimas atvykti balsuoti gali būti įdėtas į pašto dėžutę arba perduotas rinkėjo kaimynui, kuris pažįsta rinkėją ir įsipareigoja jam perduoti. Rinkėjo kortelių įteikimas rinkėjams turi būti baigtas ne vėliau kaip likus 8 dienoms iki rinkimų.
 
-4. Rinkėjas, kuris laiku negavo rinkėjo kortelės arba kuriam buvo išduota rinkėjo kortelė su netikslumais, privalo nedelsdamas apie tai pranešti apylinkės rinkimų komisijai, kurios aptarnaujamoje teritorijoje gyvena, ir šiai rinkimų komisijai pateikti savo pasą arba kitą asmens tapatybę patvirtinantį dokumentą. Jeigu rinkėjas yra įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, apylinkės rinkimų komisija turi rinkėjui išrašyti naują rinkėjo kortelę ir nedelsdama ją išduoti. Jeigu rinkėjas neįrašytas į šios rinkimų apylinkės rinkėjų sąrašą, bet rinkėjo gyvenamosios vietos adresas pagal Lietuvos Respublikos gyventojų registro duomenis yra priskirtas šiai rinkimų apylinkės teritorijai arba rinkėjas pateikia kitus įrodymus, kad jis gyvena šios rinkimų apylinkės teritorijoje, apylinkės rinkimų komisija pateikia rinkėjui užpildyti Vyriausiosios rinkimų komisijos nustatytos formos prašymą įrašyti rinkėją į šios rinkimų apylinkės rinkėjų sąrašą (arba šį prašymą užpildo pats apylinkės rinkimų komisijos narys, šį prašymą rinkėjas taip pat gali teikti elektroniniu būdu Vyriausiosios rinkimų komisijos nustatyta tvarka) ir apie tai nedelsdama praneša savivaldybės rinkimų komisijai, kuri turi pasirūpinti, kad pagal šį prašymą rinkėjas būtų įrašytas į tos rinkimų apylinkės rinkėjų sąrašą. Rinkėjo kortelė išrašoma ir įteikiama rinkėjui po to, kai yra patikslinti rinkėjų sąrašai.
+4. Rinkėjas, kuris laiku negavo rinkėjo kortelės arba kuriam buvo išduota rinkėjo kortelė su netikslumais, privalo nedelsdamas apie tai pranešti apylinkės rinkimų komisijai, kurios aptarnaujamoje teritorijoje gyvena, ir šiai rinkimų komisijai pateikti savo pasą arba kitą asmens tapatybę patvirtinantį dokumentą. Jeigu rinkėjas yra įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, apylinkės rinkimų komisija turi rinkėjui išrašyti naują rinkėjo kortelę ir nedelsdama ją išduoti. Jeigu rinkėjas neįrašytas į šios rinkimų apylinkės rinkėjų sąrašą, bet rinkėjo gyvenamosios vietos adresas pagal Lietuvos Respublikos gyventojų registro duomenis yra priskirtas šiai rinkimų apylinkės teritorijai (ir jis savo gyvenamąją vietą šiuo adresu yra deklaravęs likus ne mažiau kaip 90 dienų iki rinkimų dienos), arba rinkėjas likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą atitinkamoje savivaldybėje, apylinkės rinkimų komisija pateikia rinkėjui užpildyti Vyriausiosios rinkimų komisijos nustatytos formos prašymą įrašyti rinkėją į šios rinkimų apylinkės rinkėjų sąrašą (arba šį prašymą užpildo pats apylinkės rinkimų komisijos narys, šį prašymą rinkėjas taip pat gali teikti elektroniniu būdu Vyriausiosios rinkimų komisijos nustatyta tvarka) ir apie tai nedelsdama praneša savivaldybės rinkimų komisijai, kuri turi pasirūpinti, kad pagal šį prašymą rinkėjas būtų įrašytas į tos rinkimų apylinkės rinkėjų sąrašą. Rinkėjo kortelė išrašoma ir įteikiama rinkėjui po to, kai yra patikslinti rinkėjų sąrašai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
  
 
 30 straipsnis. Rinkėjų sąrašų tikslinimas iki galutinių sąrašų sudarymo
 
 1. Išankstiniai rinkėjų sąrašai tikslinami perkeliant rinkėją iš vieno rinkimų apylinkės, savivaldybės rinkėjų sąrašo į kitą, išbraukiant rinkėją iš Lietuvos Respublikos rinkėjų sąrašo ar įrašant rinkėją į Lietuvos Respublikos rinkėjų sąrašą.
 
-2. Rinkėjas perkeliamas iš vieno rinkėjų sąrašo į kitą, jeigu paaiškėja, kad išankstiniame rinkėjų sąraše buvo klaidingai nurodytas rinkėjo gyvenamosios vietos adresas arba jis pasikeitė po sąrašo sudarymo.
+2. Rinkėjas perkeliamas iš vieno rinkėjų sąrašo į kitą, jeigu paaiškėja, kad išankstiniame rinkėjų sąraše buvo klaidingai nurodytas rinkėjo gyvenamosios vietos adresas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
+ 
 
 3. Rinkėjo perkėlimą iš vienos rinkimų apylinkės rinkėjų sąrašo į kitos rinkimų apylinkės rinkėjų sąrašą toje pačioje savivaldybėje tvarko savivaldybės rinkimų komisija ir apie rinkimų apylinkių rinkėjų sąrašuose padarytus pakeitimus praneša Vyriausiajai rinkimų komisijai. Rinkėjo perkėlimą iš vienos savivaldybės rinkėjų sąrašo į kitos savivaldybės rinkėjų sąrašą tvarko Vyriausioji rinkimų komisija savivaldybės rinkimų komisijos teikimu ir apie padarytus pakeitimus praneša savivaldybių rinkimų komisijoms. Rinkėją įrašyti į Lietuvos Respublikos rinkėjų sąrašą arba išbraukti iš Lietuvos Respublikos rinkėjų sąrašo gali tik Vyriausioji rinkimų komisija šio įstatymo 24 straipsnyje nustatytais atvejais.
  
@@ -537,7 +551,7 @@ KANDIDATŲ KĖLIMAS
 1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų ir atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus, ir rinkimų komitetai. 
 Redakcija nuo 2015-05-01:
 
-1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
+1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
  
 
 2. Asmuo į savivaldybės tarybos narius – merus gali išsikelti pats arba gali būti iškeltas partijos ar rinkimų komiteto. Kandidatu į savivaldybės tarybos narius – merus išsikėlusiam asmeniui yra taikomi tokie patys šiame įstatyme nustatyti reikalavimai, kurie yra taikomi ir kandidatui, į savivaldybės tarybos narius – merus keliamam partijos ar rinkimų komiteto. 
@@ -1792,4 +1806,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1255, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14863
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 6 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 25, 29 ir 30 straipsnių pakeitimo įstatymas
 
