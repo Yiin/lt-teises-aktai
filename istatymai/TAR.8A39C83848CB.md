@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -2613,7 +2613,18 @@ Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518
 
 
 
-10) kiti sandoriai, kuriems šis kodeksas ar kiti įstatymai nustato privalomą paprastą rašytinę formą.
+10) motorinės transporto priemonės pirkimo–pardavimo sutartys; 
+Papildyta straipsnio punktu:
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
+ 
+
+
+
+
+11) kiti sandoriai, kuriems šis kodeksas ar kiti įstatymai nustato privalomą paprastą rašytinę formą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
+ 
 
 
 
@@ -35691,6 +35702,19 @@ Vertybinių popierių ir valiutos pirkimo–pardavimo sutarčių sudarymo ypatum
 
 
 
+6.4311 straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
+
+
+Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
+ 
+
+
+
+
 
 
 
@@ -48963,3 +48987,13 @@ Lietuvos Respublikos civilinio kodekso 3.298, 3.299 ir 3.302 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581
 Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
+Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
+Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymo Nr. XII-1851 2 straipsnio pakeitimo įstatymas
