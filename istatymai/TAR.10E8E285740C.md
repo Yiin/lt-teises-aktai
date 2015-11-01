@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -162,7 +162,9 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-15. Receptas – sveikatos apsaugos ministro nustatytos formos rašytinis nurodymas vaistininkui, pagal kurį vaistinė paruošia ir (ar) išduoda vaistus, medicinos pagalbos priemones.
+15. Neteko galios nuo 2015-11-01
+Straipsnio dalies naikinimas:
+Nr. XII-1973, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16903
 Straipsnio dalies pakeitimai:
 Nr. XII-1915, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11093
  
@@ -723,4 +725,9 @@ Lietuvos Respublikos medicinos praktikos įstatymo 6 straipsnio pakeitimo įstat
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1915, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11093
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1973, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16903
 Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2 straipsnio pakeitimo įstatymas
