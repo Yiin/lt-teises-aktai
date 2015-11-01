@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -2248,7 +2248,9 @@ Nr. XII-1022, 2014-07-15, paskelbta TAR 2014-07-22, i. k. 2014-10425
 
 
 
-8. Specialiojo teritorijų planavimo dokumentai rengiami, derinami, tikrinami ir tvirtinami vadovaujantis specialiojo teritorijų planavimo dokumentų rengimą organizuojančių subjektų veiklą reglamentuojančiais įstatymais ir Vyriausybės įgaliotų institucijų kartu su Aplinkos ministerija patvirtintomis tam tikromis specialiojo teritorijų planavimo dokumentų rengimo taisyklėmis, kurios nustato specialiojo teritorijų planavimo dokumento organizavimo, rengimo, derinimo, tikrinimo, tvirtinimo ir registravimo tvarką.
+8. Specialiojo teritorijų planavimo dokumentai rengiami, koreguojami, keičiami, derinami, tikrinami ir tvirtinami vadovaujantis šiuo įstatymu, specialiojo teritorijų planavimo dokumentų rengimą organizuojančių subjektų veiklą reglamentuojančiais įstatymais ir Vyriausybės įgaliotų institucijų vadovų kartu su aplinkos ministru patvirtintomis tam tikromis specialiojo teritorijų planavimo dokumentų rengimo taisyklėmis, kuriose nustatoma specialiojo teritorijų planavimo dokumento organizavimo, rengimo, koregavimo, keitimo, derinimo, tikrinimo, tvirtinimo tvarka. Specialiojo teritorijų planavimo dokumentai keičiami sprendimą rengti atitinkamą dokumentą priėmusios valstybės ar savivaldybės institucijos sprendimu dėl dokumento keitimo, taikant šiame įstatyme numatytą specialiojo teritorijų planavimo procesą ir tą pačią dokumento tvirtinimo procedūrą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1945, 2015-09-24, paskelbta TAR 2015-09-28, i. k. 2015-14292
  
 
 
@@ -3070,3 +3072,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1197, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14126
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 42, 43 ir 44 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1945, 2015-09-24, paskelbta TAR 2015-09-28, i. k. 2015-14292
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pakeitimo įstatymas
