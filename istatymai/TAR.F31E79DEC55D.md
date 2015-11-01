@@ -20,9 +20,14 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-02 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
+ 
+TAR pastaba. Iki įstatymo Nr. XII-1834 įsigaliojimo (2015-11-01) baigti statyti, pradėti ir ilgiau kaip 3 metus nebaigti, tačiau Lietuvos Respublikos nekilnojamojo turto registre neįregistruoti statiniai ir daiktinės teisės į juos turi būti įregistruoti Lietuvos Respublikos nekilnojamojo turto registre ne vėliau kaip per vienus metus nuo šio įstatymo įsigaliojimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 34, 40, 45, 55 straipsnių pakeitimo ir Įstatymo papildymo 54-2 straipsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2002 m. liepos 1 d.: 
 Nr. IX-583, 2001-11-08, Žin., 2001, Nr. 101-3597 (2001-11-30)
@@ -3008,6 +3013,14 @@ Nr. XI-501, 2009-11-19, Žin., 2009, Nr. 144-6352 (2009-12-05)
 
 
 
+41. Atlikus statybos užbaigimo procedūras, statinį ir daiktines teises į jį privaloma įregistruoti Nekilnojamojo turto registre ne vėliau kaip per 3 mėnesius nuo statybos užbaigimo akto gavimo dienos, deklaracijos apie statybos užbaigimą patvirtinimo ir įregistravimo dienos arba nuo deklaracijos apie statybos užbaigimą pasirašymo dienos (kai ji netvirtinama ir neregistruojama). 
+Papildyta straipsnio dalimi:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
+
+
+
+
 5. Statybos užbaigimo akto galiojimą ar deklaracijos apie statybos užbaigimą patvirtinimą ir įregistravimą panaikina:
 
 
@@ -3453,12 +3466,26 @@ Nr. XII-424, 2013-06-27, Žin., 2013, Nr. 76-3841 (2013-07-16)
 34 straipsnis. Nebaigto statinio registravimas ir perleidimas
 
 
-1. Nebaigtas statyti ar rekonstruoti ypatingas ar neypatingas statinys, taip pat nebaigtas rekonstruoti į ypatingą ar neypatingą statinį nesudėtingas statinys gali būti įregistruotas Nekilnojamojo turto registre Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos išduotos pažymos apie tai, kad statinys statomas be nukrypimų nuo esminių statinio projekto sprendinių, pagrindu.
+1. Nebaigtas statyti ar rekonstruoti ypatingas ar neypatingas statinys ir daiktinės teisės į jį, taip pat nebaigtas rekonstruoti į ypatingą ar neypatingą statinį nesudėtingas statinys ir daiktinės teisės į jį ne vėliau kaip per 3 metus nuo statybą leidžiančio dokumento išdavimo pradžios turi būti įregistruoti Nekilnojamojo turto registre Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos išduotos pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių pagrindu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
 
 
 
 
-2. Nebaigtas statyti ar rekonstruoti nesudėtingas statinys (išskyrus atvejį, kai jis rekonstruojamas į ypatingą ar neypatingą statinį) gali būti įregistruojamas Nekilnojamojo turto registre kaip pagrindinio nekilnojamojo daikto priklausinys nepateikus šio straipsnio 1 dalyje nurodytos pažymos.
+2. Nebaigtas statyti ar rekonstruoti nesudėtingas statinys (išskyrus atvejį, kai jis rekonstruojamas į ypatingą ar neypatingą statinį) gali būti įregistruojamas Nekilnojamojo turto registre Nekilnojamojo turto kadastro įstatyme nustatyta tvarka nepateikus šio straipsnio 1 dalyje nurodytos pažymos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
+
+
+
+
+21. Pasikeitę nebaigto statyti ar rekonstruoti statinio kadastro duomenys Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos išduotos pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių pagrindu Nekilnojamojo turto registre tikslinami ne rečiau kaip vieną kartą per 5 metus nuo nebaigto statyti ar rekonstruoti statinio įregistravimo Nekilnojamojo turto registre pagal šio straipsnio 1 dalį. Vadovaujantis šio Įstatymo 33 straipsniu, sustabdžius statinio statybą, nebaigto statyti ar rekonstruoti statinio kadastro duomenų Nekilnojamojo turto registre tikslinti neprivaloma.
+Papildyta straipsnio dalimi:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
 
 
 
@@ -3802,12 +3829,18 @@ STATINIŲ NAUDOJIMAS IR PRIEŽIŪRA
 
 
 
-2. Pastatytą naują ypatingą ar neypatingą statinį galima naudoti tik įvykdžius 24 straipsnio 1 dalyje nustatytus reikalavimus. Šios dalies nuostatos neprivalomos statant gyvenamuosius namus.
+2. Pastatytą naują ypatingą ar neypatingą statinį galima naudoti tik įvykdžius šio Įstatymo 24 straipsnio 1 ir 41 dalyse nustatytus reikalavimus. Šios dalies nuostatos neprivalomos statant gyvenamuosius namus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
 
 
 
 
-3. Rekonstruoto ypatingo ar neypatingo statinio naujas dalis galima pradėti naudoti tik įvykdžius 24 straipsnio 1 dalyje nustatytus reikalavimus. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius namus, kai juose neįrengiamos naujos negyvenamosios paskirties patalpos, ir inžinerinius tinklus bei susisiekimo komunikacijas.
+3. Rekonstruoto ypatingo ar neypatingo statinio naujas dalis galima pradėti naudoti tik įvykdžius šio Įstatymo 24 straipsnio 1 ir 41 dalyse nustatytus reikalavimus. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius namus, inžinerinius tinklus ir susisiekimo komunikacijas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
 
 
 Straipsnio pakeitimai:
@@ -4248,6 +4281,14 @@ Nr. IX-1780, 2003-10-16, Žin., 2003, Nr. 104-4649 (2003-11-05)
 3. Jeigu randama neatitikimų ar prieštaravimų, viršenybė teikiama Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbtų dokumentų duomenims.
 
 
+
+
+4. Duomenys apie Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbtus statybą leidžiančius dokumentus, statybos užbaigimo ir kitus dokumentus, turinčius įtakos nekilnojamojo daikto teisiniam statusui, naudojantis informacinių sistemų sąveikos mechanizmu, perduodami žymai nekilnojamojo turto kadastre padaryti šio kadastro nuostatų nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
+
+
 Įstatymas papildytas straipsniu:
 Nr. XI-501, 2009-11-19, Žin., 2009, Nr. 144-6352 (2009-12-05)
 Straipsnio pakeitimai:
@@ -4574,14 +4615,30 @@ Nr. XII-1194, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14136
 
 
 
-55 straipsnis. Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54 ir 541 straipsniuose nurodytų pažeidimų taikymo ir nagrinėjimo tvarka
+542 straipsnis. Juridinių asmenų atsakomybė už statinių ir daiktinių teisių į juos registravimo ir duomenų Nekilnojamojo turto registre tikslinimo tvarkos pažeidimus
 
 
-Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54 ir 541 straipsniuose nurodyti pažeidimai taikomi ir juridinių asmenų filialams, taip pat kitoms užsienio organizacijoms; nurodyti pažeidimai tiriami, nagrinėjami, nutarimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Administracinių teisės pažeidimų kodekso straipsniuose nurodyti pažeidimai.
+Už šiame Įstatyme nustatytos statinių ir daiktinių teisių į juos registravimo ir nebaigto statyti ar rekonstruoti statinio kadastro duomenų Nekilnojamojo turto registre tikslinimo tvarkos pažeidimus juridiniams asmenims skiriama bauda nuo dviejų šimtų devyniasdešimties eurų iki penkių šimtų aštuoniasdešimties eurų.
+
+
+Papildyta straipsniu:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
+
+
+
+
+55 straipsnis. Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54, 541 ir 542 straipsniuose nurodytų pažeidimų taikymo ir nagrinėjimo tvarka
+
+
+Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54, 541 ir 542 straipsniuose nurodyti pažeidimai taikomi ir juridinių asmenų filialams, taip pat kitoms užsienio organizacijoms; nurodyti pažeidimai tiriami, nagrinėjami, nutarimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Administracinių teisės pažeidimų kodekso straipsniuose nurodyti pažeidimai.
 
 
 Straipsnio pakeitimai:
-Nr. XII-424, 2013-06-27, Žin., 2013, Nr. 76-3841 (2013-07-16)
+XII-424, 2013-06-27, Žin., 2013, Nr. 76-3841 (2013-07-16)
+Straipsnio pakeitimai:
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+ 
 
 
 
@@ -4956,3 +5013,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 46, 47, 48, 49, 50, 51, 52, 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1842, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10588
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 43-1 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 34, 40, 45, 55 straipsnių pakeitimo ir Įstatymo papildymo 54-2 straipsniu įstatymas
