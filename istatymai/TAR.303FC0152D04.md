@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -743,6 +743,14 @@ Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010IS
 
 
 
+8. Šio straipsnio 3, 4 ir 7 dalyse nurodytos informacijos pateikimo reklamoje taisykles nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XII-1885, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10690
+ 
+
+
+
+
 
 
 15 straipsnis. Sveikatos priežiūros paslaugų ir medicinos prietaisų ir aparatų reklama
@@ -1426,3 +1434,8 @@ Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1885, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10690
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 14 straipsnio pakeitimo įstatymas
