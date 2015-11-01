@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2015-04-22 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-02-29
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -170,7 +170,10 @@ Nr. XII-1155, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13598
 
 
 
-9) tiria sunkių ir mirtinų nelaimingų atsitikimų darbe aplinkybes ir priežastis. Sunkių ir mirtinų nelaimingų atsitikimų darbe atvejais Valstybinės darbo inspekcijos inspektorius nelaimingo atsitikimo darbe tyrimo medžiagą perduoda teisėsaugos institucijai. Tikrina, ar laikomasi nustatytos nelaimingų atsitikimų darbe tyrimo tvarkos, ar darbdaviai diegia prevencines priemones, kad būtų išvengta nelaimingų atsitikimų, susirgimų profesine liga;
+9) Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatyme nustatytais atvejais tiria įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, ir nelaimingus atsitikimus pakeliui į darbą ar iš darbo. Tikrina, ar laikomasi nustatytos įvykių darbe, dėl kurių darbuotojai patiria žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo tyrimo tvarkos, ar įmonėje nustatyta pranešimų apie incidentus, incidentų tyrimo ir registravimo tvarka ir ar darbdaviai diegia prevencines priemones, kad būtų išvengta nelaimingų atsitikimų darbe, susirgimų profesinėmis ligomis; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+ 
 
 
 
@@ -180,7 +183,10 @@ Nr. XII-1155, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13598
 
 
 
-11) registruoja sunkius ir mirtinus nelaimingus atsitikimus darbe, kaupia iš darbdavių gautą informaciją apie lengvus nelaimingus atsitikimus darbe, nustatyta tvarka saugo nelaimingų atsitikimų darbe, profesinių ligų priežasčių tyrimo aktus;
+11) registruoja nelaimingų atsitikimų darbe aktus, profesinių ligų patvirtinimo aktus, Lietuvos vyriausiojo archyvaro nustatytais terminais saugo nelaimingų atsitikimų darbe aktus ir tyrimo medžiagą, profesinių ligų patvirtinimo aktus ir tyrimo medžiagą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+ 
 
 
 
@@ -471,12 +477,18 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 
 
 
-4) tiriant sunkius, mirtinus nelaimingus atsitikimus darbe, jeigu būtina, nemokamai naudotis darbdavio ryšio ir transporto priemonėmis;
+4) tiriant įvykius darbe, dėl kurių sunkiai pakenkiama darbuotojų sveikatai ar darbuotojai miršta, jeigu būtina, nemokamai naudotis darbdavio ryšio ir transporto priemonėmis; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+ 
 
 
 
 
-5) tiriant nelaimingą atsitikimą darbe, profesinę ligą, iš darbdavio gauti jų tyrimui reikiamus duomenis ir dokumentus, o iš darbdaviui atstovaujančio asmens, darbdavio įgalioto asmens (asmenų), darbuotojų ir liudytojų – paaiškinimus dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga aplinkybių ir priežasčių, taip pat prireikus skirti ekspertizę. Norminių teisės aktų nustatyta tvarka iš sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų gauti papildomą informaciją;
+5) tiriant įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas, iš darbdavių gauti jų tyrimui reikiamus duomenis ir dokumentus, o iš darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų ir liudytojų – paaiškinimus dėl įvykių darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo arba susirgimų profesinėmis ligomis aplinkybių ir priežasčių, taip pat prireikus skirti darbuotojų saugos ir sveikatos ekspertizes. Norminių teisės aktų nustatyta tvarka iš sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų gauti papildomą informaciją;
+Straipsnio punkto pakeitimai:
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+ 
 
 
 
@@ -621,7 +633,10 @@ INSPEKTAVIMO TVARKA
 
 
 
-3. Darbdavys privalo sudaryti darbo sąlygas Valstybinės darbo inspekcijos inspektoriams, atliekantiems tarnybines pareigas, ir jų pasitelktiems specialistams, kurie atlieka kontrolinius darbo aplinkos parametrų matavimus ar ekspertizes tiriant nelaimingus atsitikimus darbe ar profesines ligas.
+3. Darbdavys privalo sudaryti darbo sąlygas Valstybinės darbo inspekcijos inspektoriams, atliekantiems tarnybines pareigas, ir jų pasitelktiems specialistams, kurie atlieka kontrolinius darbo aplinkos parametrų matavimus ar darbuotojų saugos ir sveikatos ekspertizes tiriant įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, ar profesines ligas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+ 
 
 
 
@@ -649,13 +664,15 @@ INSPEKTAVIMO TVARKA
 
 
 
-12 straipsnis. Išlaidų ekspertizėms atlyginimas 
+12 straipsnis. Išlaidų darbuotojų saugos ir sveikatos ekspertizėms atlyginimas 
 
 
-Išlaidas Valstybinės darbo inspekcijos paskirtoms ekspertizėms, susijusioms su profesinių ligų, nelaimingų atsitikimų tyrimu, kurias atlieka nevalstybinės įstaigos, apmoka Valstybinė darbo inspekcija iš jai šiam tikslui skirtų valstybės biudžeto lėšų.
+Išlaidas Valstybinės darbo inspekcijos paskirtoms darbuotojų saugos ir sveikatos ekspertizėms, kurias atlieka nevalstybinės įstaigos tirdamos įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, profesines ligas, apmoka Valstybinė darbo inspekcija iš jai šiam tikslui skirtų valstybės biudžeto lėšų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
  
-
-
 
 
 
@@ -914,3 +931,8 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6, 9, 11 ir 12 straipsnių pakeitimo įstatymas
