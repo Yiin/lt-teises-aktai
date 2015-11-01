@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-10
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -949,37 +949,49 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 20 straipsnis. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto svarstymas ir priėmimas Seime ir įstatymo įsigaliojimas
 
 
-1. Seimas svarsto Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą atsižvelgdamas į Seimo komitetų pasiūlymus bei išvadas ir papildomus pranešimus Seimo statute nustatyta tvarka.
+1. Seimas svarsto Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą atsižvelgdamas į Seimo komitetų pasiūlymus bei išvadas ir papildomus pranešimus Seimo statute nustatyta tvarka.
 
 
 
 
-2. Seimas valstybės biudžetą ir savivaldybių biudžetų finansinius rodiklius vieniems biudžetiniams metams tvirtina įstatymu ne vėliau kaip prieš 14 kalendorinių dienų iki biudžetinių metų pradžios. Jeigu Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas laiku nepriimamas, biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta tvarka.
+2. Seimas kiekvienų metų valstybės biudžetą ir savivaldybių biudžetų finansinius rodiklius patvirtina įstatymu ne vėliau kaip prieš 14 kalendorinių dienų iki biudžetinių metų pradžios, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. 
 
 
 
 
-3. Valstybės biudžetas tvirtinamas pagal rodiklius, nurodytus šio Įstatymo 18 straipsnio 2 dalyje.
+3. Tais metais, kai įvyksta eiliniai Seimo rinkimai arba pirmalaikiai Seimo rinkimai, po kurių išrinktas naujas Seimas susirenka pradėjus Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto svarstymo Seime procedūras, Seimas valstybės biudžetą ir savivaldybių biudžetų finansinius rodiklius tvirtina įstatymu, kuris įsigalioja ne vėliau kaip iki kitų biudžetinių metų pradžios.
 
 
 
 
-4. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių įstatyme gali būti tvirtinami ir kiti šio Įstatymo 18 straipsnio 2 dalyje nenurodyti rodikliai.
+4. Jeigu Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas laiku nepriimamas, biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta tvarka.
 
 
 
 
-5. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių asignavimų dydžių apribojimai (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos tarptautinės finansinės paramos lėšos).
+5. Valstybės biudžetas tvirtinamas pagal rodiklius, nurodytus šio Įstatymo 18 straipsnio 2 dalyje.
 
 
 
 
-6. Seimas, priimdamas Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą arba jo pakeitimo įstatymą, įvertina paskutines galiojančias Europos Sąjungos Tarybos rekomendacijas ir nuomonę dėl Lietuvos konvergencijos programos. 
+6. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti tvirtinami ir kiti šio Įstatymo 18 straipsnio 2 dalyje nenustatyti rodikliai.
+
+
+
+
+7. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių asignavimų dydžių apribojimai (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos tarptautinės finansinės paramos lėšos).
+
+
+
+
+8. Seimas, priimdamas Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą arba jo pakeitimo įstatymą, įvertina paskutines galiojančias Europos Sąjungos Tarybos rekomendacijas ir nuomonę dėl Lietuvos stabilumo programos.
 
 
 Straipsnio pakeitimai:
 Nr. X-1354, 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. XI-67, 2008-12-16, Žin., 2008, Nr. 146-5867 (2008-12-20)
+Straipsnio pakeitimai:
+Nr. XII-1969, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17121
  
 
 
@@ -1907,3 +1919,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3 ir 14 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1513, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21279
 Lietuvos Respublikos biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstatymo Nr. XII-604 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1969, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17121
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 20 straipsnio pakeitimo įstatymas
