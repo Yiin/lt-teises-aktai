@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -286,7 +286,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-20. Nacionalinės eismo saugos taisyklės – visi Lietuvos Respublikos teisės aktai ir viešosios geležinkelių infrastruktūros valdytojo dokumentai, nustatantys geležinkelių transporto eismo saugos reikalavimus ir taikomi geležinkelių infrastruktūros valdytojui ir daugiau negu vienai įmonei.
+20. Neteko galios nuo 2015-11-01
+Straipsnio dalies naikinimas:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -346,9 +349,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-32. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Transporto veiklos pagrindų įstatyme, Geležinkelių transporto eismo saugos įstatyme ir 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (toliau – Reglamentas (ES) Nr. 913/2010).
+32. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Transporto veiklos pagrindų įstatyme, Draudimo įstatyme, Geležinkelių transporto eismo saugos įstatyme ir 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (toliau – Reglamentas (ES) Nr. 913/2010).
 Straipsnio dalies pakeitimai:
 Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
  
 
 
@@ -647,7 +651,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-6. Nustačiusi, kad įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, pateikė ne visus reikiamus dokumentus, dokumentuose yra klaidingų ir (ar) netikslių duomenų, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos per 10 darbo dienų nuo prašymo išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedamų dokumentų gavimo apie tai informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją, ir nustato 30 dienų terminą trūkumams pašalinti. Jeigu įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, per nustatytą laiką nepašalina nustatytų trūkumų ir (ar) nepateikia reikalaujamų dokumentų, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos ne vėliau kaip per 3 darbo dienas pasibaigus terminui pašalinti nustatytus trūkumus ir (ar) pateikti reikalaujamus dokumentus priima sprendimą prašymą išduoti geležinkelio įmonės (vežėjo) licenciją palikti nenagrinėtą ir apie tai per 3 darbo dienas nuo šio spendimo priėmimo informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Įmonė, kuri pakartotinai pateikia prašymą išduoti geležinkelio įmonės (vežėjo) licenciją, gali neteikti dokumentų, kurie jau buvo pateikti pirmą kartą prašant išduoti geležinkelio įmonės (vežėjo) licenciją, jeigu nepasikeitė pateiktuose dokumentuose nurodyta informacija. Tuo atveju, kai pateikiami visi reikalaujami dokumentai ar per nustatytą terminą pateikiami trūkstami dokumentai, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos apie tai per 10 darbo dienų nuo šių dokumentų gavimo informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Šioje Kodekso dalyje nurodyta informacija įmonei, pageidaujančiai gauti geležinkelio įmonės (vežėjo) licenciją, pateikiama tokiu būdu, kokiu pateiktas prašymas išduoti geležinkelio įmonės (vežėjo) licenciją, išskyrus tuos atvejus, kai prašyme išduoti geležinkelio įmonės (vežėjo) licenciją nurodytas kitoks informacijos gavimo būdas.
+6. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos, nustačiusi, kad įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, pateikė ne visus reikiamus dokumentus, dokumentuose yra klaidingų ir (ar) netikslių duomenų, apie nustatytus trūkumus per 5 dienas nuo prašymo išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedamų dokumentų gavimo dienos kartu su pranešimu, kad prašymas išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedami dokumentai yra gauti, informuoja įmonę ir nustato 30 dienų terminą trūkumams pašalinti. Jeigu įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, per nustatytą laiką nepašalina nustatytų trūkumų ir (ar) nepateikia reikalaujamų dokumentų, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos ne vėliau kaip per 5 dienas pasibaigus terminui pašalinti nustatytus trūkumus ir (ar) pateikti reikalaujamus dokumentus priima sprendimą prašymą išduoti geležinkelio įmonės (vežėjo) licenciją palikti nenagrinėtą ir per 5 dienas nuo šio sprendimo priėmimo apie tai informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Įmonė, kuri pakartotinai pateikia prašymą išduoti geležinkelio įmonės (vežėjo) licenciją, gali neteikti dokumentų, kurie jau buvo pateikti pirmą kartą prašant išduoti geležinkelio įmonės (vežėjo) licenciją, jeigu nepasikeitė pateiktuose dokumentuose nurodyta informacija. Tuo atveju, kai pateikiami visi reikalaujami dokumentai ar per nustatytą terminą pateikiami trūkstami dokumentai, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos apie tai per 5 dienas nuo šių dokumentų gavimo informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Šioje dalyje nurodyta informacija įmonei, pageidaujančiai gauti geležinkelio įmonės (vežėjo) licenciją, pateikiama tokiu būdu, kokiu pateiktas prašymas išduoti geležinkelio įmonės (vežėjo) licenciją, išskyrus atvejus, kai prašyme išduoti geležinkelio įmonės (vežėjo) licenciją nurodytas kitoks informacijos gavimo būdas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -690,7 +697,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-4) geležinkelio įmonė (vežėjas) per 10 dienų nuo geležinkelio įmonės (vežėjo) pavadinimo arba buveinės adreso pasikeitimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti prašymą pakeisti turimą licenciją;
+4) geležinkelio įmonė (vežėjas) per 10 dienų nuo geležinkelio įmonės (vežėjo) pavadinimo, teisinės formos arba buveinės adreso pasikeitimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti prašymą pakeisti turimą licenciją; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -700,7 +710,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-6) pasikeitus geležinkelio įmonės (vežėjo) teisinei formai, įmonių susijungimo arba naujos įmonės įsigijimo atveju, pasikeitus įmonės vadovui ar jo įgaliotiems asmenims, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu veiklai, taip pat kai dalyvaujanti reorganizavime įmonė nepasibaigia, bet pasikeičia geležinkelio įmonės (vežėjo) dalyviai, nuosavybės teise tiesiogiai arba netiesiogiai valdantys mažiausiai 34 procentus įmonės akcijų (pajų, įnašų ir panašiai), geležinkelio įmonė (vežėjas) per 10 darbo dienų atitinkamai nuo geležinkelio įmonės (vežėjo) reorganizavimo pabaigos, valdymo organų narių, vadovo ar jo įgaliotų asmenų pasikeitimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos;
+6) susijungus įmonėms arba įsigijus naują įmonę, pasikeitus geležinkelio įmonės (vežėjo) valdymo organų nariui ar nariams, vadovui ar jo įgaliotiems asmenims, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu veiklai, taip pat kai dalyvaujanti reorganizavime įmonė nepasibaigia, bet pasikeičia geležinkelio įmonės (vežėjo) dalyviai, nuosavybės teise tiesiogiai arba netiesiogiai valdantys mažiausiai 34 procentus įmonės akcijų (pajų, įnašų ir panašiai), geležinkelio įmonė (vežėjas) per 10 dienų atitinkamai nuo geležinkelio įmonės (vežėjo) reorganizavimo pabaigos, valdymo organų narių, vadovo ar jo įgaliotų asmenų pasikeitimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti šiame punkte nurodytų asmenų atitiktį šio straipsnio 2 dalies 1 punkte nustatytiems reikalavimams patvirtinančių dokumentų kopijas, jeigu tokie dokumentai nebuvo pateikti kartu su prašymu išduoti geležinkelio įmonės (vežėjo) licenciją; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -797,7 +810,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-15. Reikalavimai, susiję su geležinkelio įmonės (vežėjo) licencijos išdavimu, atsisakymu išduoti licenciją, geležinkelio įmonės (vežėjo) licencijos galiojimo panaikinimu, licencijuojamos veiklos sąlygų laikymusi, įgyvendinimo tvarka nustatomi Geležinkelio įmonių (vežėjų) licencijavimo taisyklėse, kurias tvirtina Vyriausybė.
+15. Reikalavimai, susiję su geležinkelio įmonės (vežėjo) licencijos išdavimu, pakeitimu, atsisakymu išduoti licenciją, geležinkelio įmonės (vežėjo) licencijos galiojimo sustabdymu, galiojimo sustabdymo panaikinimu, galiojimo panaikinimu, licencijuojamos veiklos sąlygų laikymusi, įgyvendinimo tvarka nustatomi Geležinkelio įmonių (vežėjų) licencijavimo taisyklėse, kurias tvirtina Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 Straipsnio pakeitimai:
@@ -808,37 +824,132 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-101 straipsnis. Civilinės atsakomybės draudimas
+101 straipsnis. Privalomasis civilinės atsakomybės draudimas
 
 
-1. Geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinė atsakomybė privalo būti draudžiama civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, kilusią dėl draudėjo vykdomos keleivių, bagažo ir (ar) krovinių vežimo ir (ar) geležinkelių riedmenų naudojimo veiklos.
-
-
-
-
-2. Minimali geležinkelio įmonės (vežėjo) civilinės atsakomybės draudimo suma turi būti 290 000 eurų vienam draudžiamajam įvykiui ir 725 000 eurų visiems draudžiamiesiems įvykiams per metus. 
-TAR pastaba. 101 straipsnio 2 dalis netaikoma draudimo sutartims, sudarytoms iki įstatymo Nr. XII-1555 įsigaliojimo (2015-03-24).
-Straipsnio dalies pakeitimai:
-Nr. XII-1555, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04088
- 
+1. Geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinė atsakomybė privalo būti draudžiama privalomuoju civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, atsiradusią dėl draudėjo vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje ir (ar) geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
 
 
 
 
-3. Minimali šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės civilinės atsakomybės draudimo suma turi būti 58 000 eurų vienam draudžiamajam įvykiui ir 145 000 eurų visiems draudžiamiesiems įvykiams per metus.
-TAR pastaba. 101 straipsnio 3 dalis netaikoma draudimo sutartims, sudarytoms iki įstatymo Nr. XII-1555 įsigaliojimo (2015-03-24).
-Straipsnio dalies pakeitimai:
-Nr. XII-1555, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04088
- 
+2. Minimali geležinkelio įmonės (vežėjo) privalomojo civilinės atsakomybės draudimo suma turi būti 290 000 eurų vienam draudžiamajam įvykiui ir 725 000 eurų visiems draudžiamiesiems įvykiams per metus.
 
 
 
 
-4. Civilinės atsakomybės draudimo bendrąsias sąlygas ir tvarką nustato Vyriausybė ar jos įgaliotos institucijos.
+3. Minimali šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės privalomojo civilinės atsakomybės draudimo suma turi būti 58 000 eurų vienam draudžiamajam įvykiui ir 145 000 eurų visiems draudžiamiesiems įvykiams per metus.
 
 
+
+
+4. Draudžiamasis įvykis yra geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinės atsakomybės atsiradimas dėl draudimo sutarties galiojimo metu geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdytos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje ar geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos pasekmių, net jeigu šios pasekmės atsirado pasibaigus draudimo sutarčiai, jeigu draudėjui ar draudikui pareikštas reikalavimas atlyginti žalą atitinka visas šias sąlygas: 
+
+
+1) yra pateiktas kaip rašytinė pretenzija arba ieškinys;
+
+
+
+
+2) yra pareikštas draudimo sutarties galiojimo metu ir draudimo sutarties šalių nustatytu laikotarpiu, ne trumpesniu negu vieni metai nuo draudimo sutarties pabaigos;
+
+
+
+
+3) yra pareikštas dėl žalos, kuri atsirado dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje veiklos ir (ar) geležinkelio įmonės (vežėjo) vykdomos krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje veiklos ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
+
+
+
+
+
+
+5. Vienu draudžiamuoju įvykiu laikomas įvykis, kai geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės tais pačiais neteisėtais veiksmais padarė žalą, neatsižvelgiant į tai, kad dėl tokio įvykio buvo padaryta žalos daugiau negu vienam nukentėjusiam trečiajam asmeniui. Jeigu žalos padarymo momento neįmanoma nustatyti, laikoma, kad žala padaryta tuo momentu, kai geležinkelio įmonei (vežėjui) ar šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms ar draudikui buvo pareikštas pirmasis reikalavimas atlyginti žalą. 
+
+
+
+
+6. Jeigu trečiajam asmeniui dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos padaryta žala padidėjo po to, kai trečiasis asmuo pareiškė draudėjui ar draudikui šio straipsnio 4 dalyje nustatytas sąlygas atitinkantį reikalavimą, vėlesnis reikalavimo atlyginti padidėjusią žalą pateikimas yra draudžiamasis įvykis, jeigu jis pateiktas nepažeidžiant Civilinio kodekso 1.125 straipsnio 8 dalyje nustatyto ieškinio senaties termino.
+
+
+
+
+7. Draudikas yra atleidžiamas nuo išmokos mokėjimo, jeigu: 
+
+
+1) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių ir (ar) trečiųjų asmenų veiksmų siekiant neteisėtai gauti draudimo išmoką;
+
+
+
+
+2) žala atsirado dėl kitos geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos, nesusijusios su keleivių, bagažo ir (ar) krovinių vežimu vietiniais ir (ar) tarptautiniais maršrutais ar geležinkelių riedmenų naudojimu;
+
+
+
+
+3) atsirado finansinė žala, kuri nėra susijusi su žalos padarymu trečiojo asmens turtui, sveikatai, gyvybei ir (ar) neatsirado kaip žalos nukentėjusio trečiojo asmens turtui, sveikatai, gyvybei pasekmė;
+
+
+
+
+4) žala atsirado dėl sutartinių įsipareigojimų nevykdymo ar netinkamo įvykdymo;
+
+
+
+
+5) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių tyčinės veikos, išskyrus socialiai vertingus tyčinius veiksmus (būtinąją gintį, pilietinės pareigos atlikimą ir kita);
+
+
+
+
+6) žalą patiria geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių darbuotojas dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga;
+
+
+
+
+7) žala atsirado dėl žemės drebėjimo, potvynio, kitos stichinės nelaimės, karo veiksmų, teroristinių išpuolių, esant branduolinės energijos poveikiui ar nepaprastajai padėčiai;
+
+
+
+
+8) žala atsirado dėl oro, vandens, žemės užteršimo, atsitikusio dėl nestaigaus ir tikėto įvykio, kurio priežastis yra lėtas ar laipsniškas veiksnys arba pasikartojantys įvykiai; 
+
+
+
+
+9) žala atsirado dėl geležinkelio įmonės (vežėjo) krovinių vežimo tam nepritaikytais geležinkelių riedmenimis arba geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių naudojamų geležinkelių riedmenų gedimų ar defektų, jeigu jie buvo nustatyti atitinkamuose dokumentuose iki žalą sukėlusio įvykio ir jeigu geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės ar jos atstovai apie šiuos gedimus ar defektus žinojo; 
+
+
+
+
+10) žala atsirado dėl teisės aktuose nustatytų pavojingųjų krovinių vežimo geležinkelių transportu reikalavimų pažeidimų;
+
+
+
+
+11) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių darbuotojo veiksmų, padarytų apsvaigus nuo alkoholio, narkotinių, toksinių ar psichotropinių medžiagų;
+
+
+
+
+12) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos geležinkelio keliais, kuriais geležinkelių transporto eismas draudžiamas, vykdymo;
+
+
+
+
+13) žala atsirado dėl šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vežamų krovinių netekimo, dingimo ar sunaikinimo.
+
+
+
+
+
+
+8. Privalomojo civilinės atsakomybės draudimo tvarką nustato Vyriausybė ar jos įgaliotos institucijos.
+TAR pastaba. 101 straipsnis netaikomas draudimo sutartims, sudarytoms iki 2015-11-01.
 Kodeksas papildytas straipsniu:
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+
+
+Straipsnio pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
  
 
 
@@ -872,17 +983,20 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-4. Įgaliojimus geležinkelių transporto eismo saugos srityje sudaro:
+4. Įgaliojimai geležinkelių transporto eismo saugos srityje patvirtina, kad:
 
 
-1) įgaliojimai, patvirtinantys, kad geležinkelių infrastruktūros valdytojas turi eismo saugos valdymo sistemą, atitinkančią Geležinkelių transporto eismo saugos įstatyme nustatytus reikalavimus;
+1) geležinkelių infrastruktūros valdytojas turi eismo saugos valdymo sistemą, atitinkančią Geležinkelių transporto eismo saugos įstatyme nustatytus reikalavimus;
 
 
 
 
-2) įgaliojimai, patvirtinantys, kad geležinkelių infrastruktūros valdytojas atitinka nustatytus geležinkelių transporto eismo saugos reikalavimus. Geležinkelių infrastruktūros valdytojas laikosi šiame punkte nurodytų reikalavimų, jeigu jis užtikrina saugų geležinkelių infrastruktūros projektavimą, valdymą, priežiūrą ir naudojimą bei traukinių eismo valdymą ir organizavimą.
+2) geležinkelių infrastruktūros valdytojas atitinka nustatytus geležinkelių transporto eismo saugos reikalavimus. Geležinkelių infrastruktūros valdytojas laikosi šiame punkte nurodytų reikalavimų, jeigu jis užtikrina saugų geležinkelių infrastruktūros projektavimą, valdymą, priežiūrą ir naudojimą bei traukinių eismo valdymą ir organizavimą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -1127,7 +1241,7 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-2. Geležinkelio kelius ir įrenginius aptarnaujančios įmonės techniniai darbuotojai ir jų įgalioti asmenys turi teisę laisvai vaikščioti šių kelių ir jų įrenginių apsaugos zonoje, atlikti remonto, statybos ar kitus darbus, susijusius su geležinkelių transporto objektų naudojimu, važinėti, kasti žemę, tiesti vamzdynus, kabelius, oro elektros ir ryšių linijas. Apie tai ši įmonė turi informuoti žemės savininkus ar naudotojus ir įstatymų nustatyta tvarka atlyginti jiems padarytus nuostolius. Likviduojant avarijas ir jų padarinius arba siekiant išvengti avarijų, leidžiama privažiuoti prie geležinkelių transporto objektų taip, kaip reikia pagal situaciją, o žemės savininkui ar naudotojui padaryti nuostoliai atlyginami įstatymų nustatyta tvarka. Jeigu geležinkelio apsaugos zonoje ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kelia pavojų eismo saugumui, žmonėms ar statiniams, jie nukertami ar kitaip pertvarkomi be atskiro savivaldybės institucijų leidimo ir želdinių vertė neatlyginama. Geležinkelio kelių ir jų įrenginių apsaugos zonoje augantys medžiai ar krūmai negali būti aukštesni už atstumą nuo medžio ar krūmo iki pirmojo bėgio.
+2. Geležinkelio kelius ir įrenginius prižiūrinčios įmonės techniniai darbuotojai ir jų įgalioti asmenys turi teisę laisvai vaikščioti šių kelių ir jų įrenginių apsaugos zonoje, atlikti remonto, statybos ar kitus darbus, susijusius su geležinkelių transporto objektų naudojimu, važinėti, kasti žemę, kirsti medžius ir krūmus, tiesti vamzdynus, kabelius, oro elektros ir ryšių linijas. Apie tai ši įmonė turi informuoti žemės savininkus ar naudotojus ir įstatymų nustatyta tvarka atlyginti jiems padarytus nuostolius. Likviduojant geležinkelių transporto katastrofas, eismo įvykius, riktus ir jų padarinius arba siekiant jų išvengti, leidžiama privažiuoti prie geležinkelių transporto objektų taip, kaip reikia pagal situaciją, o padaryti nuostoliai atlyginami įstatymų nustatyta tvarka. Tais atvejais, kai medžiai, jų grupės, krūmai auga miško paskirties žemėje, miško naudotojai, kitais atvejais – geležinkelių infrastruktūros valdytojai turi užtikrinti, kad medžiai, jų grupės, krūmai nekeltų pavojaus geležinkelių transporto eismo saugai, priešingu atveju tokie medžiai, jų grupės, krūmai kertami, genimi susisiekimo ministro nustatyta tvarka, o nuostoliai atlyginami įstatymų nustatyta tvarka. Medžių ir krūmų pripažinimo keliančiais pavojų geležinkelių transporto eismo saugai sąlygas ir tvarką nustato susisiekimo ministras.
 
 
 
@@ -1137,42 +1251,12 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-4. Kirsti medžius miško paskirties žemėje leidžiama tik suderinus su miško valdytoju ar savininku ir nustatyta tvarka įforminus medžių kirtimo dokumentus. Geležinkelio želdinių apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kertami, genimi ar pertvarkomi Aplinkos ministerijos nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
+4. Geležinkelio želdinių apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kertami, genimi ar pertvarkomi aplinkos ministro nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
 
 
 
-5. Geležinkelio kelių ir jų įrenginių apsaugos zonoje be viešosios geležinkelių infrastruktūros valdytojo ar savininko, o geležinkelio želdinių apsaugos zonoje – be geležinkelio želdinius eksploatuojančios įmonės rašytinio sutikimo draudžiama:
-
-
-1) kasti žemę giliau kaip 0,3 metro, mechanizuotai lyginti gruntą, atlikti sprogdinimo ir melioravimo darbus;
-
-
-
-
-2) tiesti kelius, vamzdynus, kabelius, oro elektros ir ryšių linijas;
-
-
-
-
-3) sodinti ar kirsti medžius ir krūmus;
-
-
-
-
-4) įrengti pervažas;
-
-
-
-
-5) statyti naujus ir rekonstruoti esamus pastatus bei statinius, skirtus geležinkelių transporto reikmėms.
-
-
-
-
-
-
-6. Geležinkelio kelių ir jų įrenginių apsaugos zonoje be viešosios geležinkelių infrastruktūros valdytojo ar savininko rašytinio sutikimo draudžiama:
+5. Geležinkelio kelių ir jų įrenginių apsaugos zonoje be geležinkelių infrastruktūros valdytojo rašytinio sutikimo draudžiama:
 
 
 1) kasti žemę giliau kaip 0,3 metro, mechanizuotai lyginti gruntą, atlikti sprogdinimo ir melioravimo darbus;
@@ -1180,33 +1264,35 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-2) tiesti kelius, vamzdynus, kabelius, oro elektros ir ryšių linijas;
+2) sodinti ar kirsti medžius ir krūmus, išskyrus šio straipsnio 2 dalyje nurodytus atvejus;
 
 
 
 
-3) sodinti ar kirsti medžius ir krūmus;
+3) įrengti pervažas ir perėjas;
 
 
 
 
-4) įrengti pervažas;
-
-
-
-
-5) statyti naujus ir rekonstruoti esamus pastatus bei statinius, skirtus geležinkelių transporto reikmėms.
+4) statyti naujus ir rekonstruoti esamus pastatus, skirtus geležinkelių transporto veiklai, ir inžinerinius statinius.
 
 
 
 
 
 
-7. Geležinkelio kelių ir įrenginių apsaugos zonų ribas nustato Vyriausybė.
+6. Geležinkelio kelių ir jų įrenginių apsaugos zonoje draudžiama statyti naujus ir rekonstruoti esamus pastatus, nesusijusius su geležinkelių transporto veikla.
+
+
+
+
+7. Geležinkelio kelių ir įrenginių apsaugos zonų, geležinkelio želdinių apsaugos zonų ribas nustato Vyriausybė.
+Straipsnio pakeitimai:
+Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 
 
 Straipsnio pakeitimai:
-Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
  
 
 
@@ -1256,31 +1342,33 @@ Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 
 
 
-2. Vietinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu pervažas ar perėjas, suderinę su viešosios geležinkelių infrastruktūros valdytoju, įrengia ir prižiūri suinteresuoti fiziniai ar juridiniai asmenys iš savo lėšų.
+2. Vietinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu pervažas ar perėjas, suderinę su geležinkelių infrastruktūros valdytoju, įrengia ir prižiūri suinteresuoti fiziniai ar juridiniai asmenys iš savo lėšų. 
 
 
 
 
-3. Leidimą įrengti pervažą ar perėją išduoda viešosios geležinkelių infrastruktūros valdytojas, atsižvelgdamas į technines galimybes ir eismo saugos reikalavimus.
+3. Leidimą įrengti pervažą ar perėją išduoda geležinkelių infrastruktūros valdytojas, atsižvelgdamas į technines galimybes ir eismo saugos reikalavimus.
 
 
 
 
-4. Pervažos ir perėjos turi būti įrengtos pagal Techninio geležinkelių naudojimo nuostatų bei susisiekimo ministro patvirtintų Pervažų įrengimo ir naudojimo taisyklių reikalavimus.
+4. Pervažos ir perėjos turi būti įrengtos pagal Statybos įstatymo ir susisiekimo ministro patvirtintų Pervažų įrengimo ir naudojimo taisyklių reikalavimus.
 
 
 
 
-5. Valstybinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu pervažas ir perėjas prižiūri viešosios geležinkelių infrastruktūros valdytojas.
+5. Valstybinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu pervažas ir perėjas prižiūri geležinkelių infrastruktūros valdytojas.
 
 
 
 
-6. Suinteresuotų fizinių ar juridinių asmenų ir viešosios geležinkelių infrastruktūros valdytojo susitarimu esamos pervažos ar perėjos gali būti perkeltos į kitą vietą, uždarytos arba panaikintos. Pervažos ir perėjos perkeliamos suinteresuoto asmens lėšomis.
+6. Suinteresuotų fizinių ar juridinių asmenų ir geležinkelių infrastruktūros valdytojo susitarimu esamos pervažos ar perėjos gali būti perkeltos į kitą vietą, uždarytos arba panaikintos. Pervažos ir perėjos perkeliamos į kitą vietą, uždaromos arba panaikinamos suinteresuoto asmens lėšomis.
+Straipsnio pakeitimai:
+Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 Straipsnio pakeitimai:
-Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
  
 
 
@@ -1299,7 +1387,10 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-3. Privažiuojamųjų geležinkelio kelių tiesimo, rekonstravimo, jų jungimo prie viešosios geležinkelių infrastruktūros ir jų priėmimo eksploatuoti tvarką nustato susisiekimo ministras.
+3. Privažiuojamieji geležinkelio keliai statomi, rekonstruojami ir remontuojami pagal Statybos įstatymo reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
@@ -1388,7 +1479,10 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 231 straipsnis. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės perdavimas, valdymas, naudojimas ir disponavimas ja
 
 
-1. Viešosios geležinkelių infrastruktūros objektų užimama valstybinė žemė pagal patikėjimo sutartis Vyriausybės nustatyta tvarka perduodama valdyti, naudotis ir ja disponuoti turto patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+1. Viešosios geležinkelių infrastruktūros objektų užimamą valstybinę žemę Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos pagal patikėjimo sutartis Vyriausybės nustatyta tvarka perduoda valdyti, naudoti ir disponuoti ja turto patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+Straipsnio dalies pakeitimai:
+Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+ 
 
 
 
