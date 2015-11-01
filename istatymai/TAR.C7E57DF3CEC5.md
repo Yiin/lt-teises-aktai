@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2015-07-08 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2017-04-26
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -169,6 +169,38 @@ Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA
 
 Papildyta straipsnio dalimi:
 Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
+ 
+
+
+
+
+19. Pramonės parkas – Lietuvos Respublikos teritorijų planavimo įstatymo nustatyta tvarka teritorijų planavimo dokumentuose numatyta teritorija, skirta daugiau kaip vienam investicijų projektui įgyvendinti, kurioje už pramonės parko veiklos organizavimą atsakingas pramonės parko operatorius. 
+Papildyta straipsnio dalimi:
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+ 
+
+
+
+
+20. Pramonės parko įmonė – pagal su pramonės parko operatoriumi sudarytą žemės sklypų subnuomos ir aptarnavimo paslaugų teikimo sutartį pramonės parke ūkinę komercinę veiklą vykdantis valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys. 
+Papildyta straipsnio dalimi:
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+ 
+
+
+
+
+21. Pramonės parko operatorius – valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, kurie, vadovaudamiesi pramonės parko plėtros planu, pramonės parke organizuoja ūkinę komercinę veiklą. Pramonės parko operatoriumi negali būti pramonės parko įmonė. 
+Papildyta straipsnio dalimi:
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+ 
+
+
+
+
+22. Valstybė narė – kaip apibrėžta Lietuvos Respublikos paslaugų įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
  
 
 
@@ -420,6 +452,199 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 
 
 
+91 straipsnis. Pramonės parko steigimas, jame veikiančių ūkio subjektų veikla ir investavimas pramonės parke 
+
+
+1. Pramonės parko steigimo tikslas – didinti šalies ūkio konkurencingumą, kurti darbo vietas ir skatinti Europos Sąjungos standartus ir aplinkosaugos reikalavimus atitinkančią veiklą pramonės, logistikos ir paslaugų srityse.
+
+
+
+
+2. Pramonės parko steigimą inicijuoja savivaldybės taryba arba Lietuvos Respublikos Vyriausybė kartu su savivaldybės taryba, priimdamos sprendimus dėl pramonės parko steigimo. Ši nuostata taikoma ir steigiant pramonės parką privačioje pramoninėje teritorijoje.
+
+
+
+
+3. Tam, kad teritorija galėtų tapti pramonės parku, savivaldybės taryba turi užtikrinti, kad tokia teritorija atitiktų šias privalomas sąlygas tokiu eiliškumu: 
+
+
+1) teritorija turi būti numatyta teritorijų planavimo dokumentuose;
+
+
+
+
+2) tokios teritorijos ribos turi būti nustatytos Lietuvos Respublikos Vyriausybės;
+
+
+
+
+3) tokios teritorijos vystymo projektui Lietuvos Respublikos Seimo ar Vyriausybės nutarimu turi būti suteiktas valstybei svarbaus ekonominio projekto statusas;
+
+
+
+
+4) Lietuvos Respublikos Vyriausybės įgaliota institucija turi būti patvirtinusi su savivaldybės taryba suderintą pramonės parko plėtros planą. Tuo atveju, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, jo plėtros planą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija. 
+
+
+
+
+
+
+4. Privatiems subjektams priklausantys žemės sklypai į teritoriją gali būti įtraukiami gavus rašytinį privačios žemės sklypų savininkų sutikimą, jeigu tie žemės sklypai atitinka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus.
+
+
+
+
+5. Pramonės parko plėtros plane turi būti nurodomi pramonės parko plėtros tikslai, uždaviniai, vertinimo kriterijai ir jų reikšmės, taip pat nustatyta:
+
+
+1) pramonės parke numatomos ūkinės komercinės veiklos rūšys;
+
+
+
+
+2) investavimo pramonės parke skatinimo būdai;
+
+
+
+
+3) pramonės parko sklypų parinkimo ir naudojimo ypatumai (sklypai infrastruktūrai, verslui plėtoti ir kita);
+
+
+
+
+4) pramonės parko veiklos efektyvumo kriterijai;
+
+
+
+
+5) pramonės parko plėtros priemonės;
+
+
+
+
+6) Lietuvos Respublikos įstatymų nustatytos pramonės parko steigėjo numatomos sudaryti specialios investavimo, verslo ir kitos sąlygos pramonės parke veikiantiems ūkio subjektams;
+
+
+
+
+7) kita informacija.
+
+
+
+
+
+
+6. Kai teritorija atitinka visas šio straipsnio 3 dalyje nustatytas pramonės parkui privalomas sąlygas, savivaldybės taryba priima sprendimą dėl pramonės parko įsteigimo, pramonės parko veiklos termino ir jo pakeitimo sąlygų ir pramonės parko operatoriaus (savivaldybės administracijos) paskyrimo arba atrinkimo viešo konkurso būdu. 
+
+
+
+
+7. Pramonės parko veikla organizuojama ir investavimas pramonės parke atliekamas vadovaujantis konkretaus pramonės parko plėtros planu, kurį tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
+
+
+
+
+8. Tais atvejais, kai įsteigus pramonės parką savivaldybės taryba priima sprendimą dėl pramonės parko operatoriaus atrinkimo viešo konkurso būdu, jį viešo konkurso būdu atrenka savivaldybės administracija, vadovaudamasi Lietuvos Respublikos civilinio kodekso 6.947–6.952 straipsnių nuostatomis. Kol pramonės parko operatorius neatrinktas, už pramonės parko veiklos organizavimą yra atsakinga savivaldybės administracija. Tais atvejais, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, viešas konkursas pramonės parko operatoriui atrinkti nėra skelbiamas ir pramonės parko veiklą organizuoja privačios pramoninės teritorijos valdytojas. 
+
+
+
+
+9. Tais atvejais, kai pramonės parko operatorius atrenkamas viešo konkurso būdu, pramonės parko operatoriaus veikla, teisės ir pareigos, atsakomybė, sprendimų priėmimas, atlygis už veiklą ir kitos sąlygos nustatomos pramonės parko steigėjo (savivaldybės tarybos) ir viešo konkurso būdu atrinkto pramonės parko operatoriaus sutartyje. Sutartyje nustatomos šios pagrindinės sąlygos:
+
+
+1) pramonės parko operatoriaus teikiamų paslaugų pobūdis ir mastas, kokybiniai reikalavimai;
+
+
+
+
+2) sutartyje nurodytų paslaugų teikimo pradžios terminas ir jo atidėjimo sąlygos, darbų atlikimo terminai, jų pratęsimo sąlygos;
+
+
+
+
+3) pramonės parko operatoriaus prievolių įvykdymo užtikrinimo būdai;
+
+
+
+
+4) pramonės parko operatoriaus atlygis ar kitas užmokestis už jo teikiamas paslaugas;
+
+
+
+
+5) pramonės parko operatoriaus santykiai su pramonės parko įmonėmis organizuojant ūkinę komercinę veiklą pramonės parke;
+
+
+
+
+6) pramonės parko operatoriaus atsakomybė už prisiimtų įsipareigojimų nevykdymą;
+
+
+
+
+7) sutarties šalių teisės į turtą, tai yra pramonės parko operatoriui perduoto valdyti ir naudoti valstybės ir (ar) savivaldybės turto valdymo ir naudojimo sąlygos;
+
+
+
+
+8) pramonės parko operatoriaus įsipareigojimas sudaryti jam perduoto valdyti ir naudoti valstybės ir (ar) savivaldybės turto draudimo sutartis;
+
+
+
+
+9) sutarties šalių atsiskaitymų ir mokėjimų tvarka ir sąlygos;
+
+
+
+
+10) savivaldybės tarybos teisė kontroliuoti pramonės parko operatoriaus įsipareigojimų vykdymą, susitarimo dėl įsipareigojimų vykdymo vertinimo ir informacijos teikimo įgyvendinimo tvarka;
+
+
+
+
+11) sutarties terminas;
+
+
+
+
+12) sutarties keitimo ir nutraukimo sąlygos;
+
+
+
+
+13) ginčų sprendimo tvarka.
+
+
+
+
+
+
+10. Tais atvejais, kai savivaldybės taryba priima sprendimą dėl pramonės parko operatoriaus (savivaldybės administracijos) paskyrimo, pramonės parko operatoriaus veikla, teisės ir pareigos, atsakomybė, sprendimų priėmimas ir kitos sąlygos nustatomos savivaldybės tarybos sprendime. 
+
+
+
+
+11. Pramonės parko operatoriui valstybinės ir savivaldybės žemės sklypai pramonės parko teritorijoje išnuomojami Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Privačios žemės sklypai pramonės parko operatoriui gali būti išnuomojami Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Pramonės parko operatorius turi teisę pagal valstybinės ir (ar) savivaldybės žemės nuomos sutartyje nustatytus reikalavimus ir sąlygas subnuomoti pramonės parko operatoriui išnuomotus valstybinės ir (ar) savivaldybių žemės sklypus (jų dalis) pramonės parko įmonėms.
+
+
+
+
+12. Pramonės parko teritorijoje gali veikti pramonės parko operatorius, pramonės parko įmonės. Kiti ūkio subjektai, kaip jie apibrėžti Lietuvos Respublikos konkurencijos įstatyme, veikę šioje teritorijoje iki pramonės parko įsteigimo, gali tęsti veiklą, jeigu jie su pramonės parko operatoriumi sudaro aptarnavimo paslaugų teikimo sutartį.
+
+
+
+
+13. Valstybės (savivaldybės) nuosavybės statiniai ir infrastruktūros objektai, esantys pramonės parke, gali būti išnuomoti, perduoti naudotis panaudos pagrindais arba parduoti pramonės parko operatoriui Lietuvos Respublikos įstatymų nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+ 
+
+
+
+
 10 straipsnis. Investavimas įsigyjant nekilnojamąjį turtą 
 
 
@@ -504,7 +729,10 @@ Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
 
 
 
-5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus; 
+5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus, pramonės parkus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+ 
 
 
 
@@ -616,9 +844,10 @@ Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 
 
 
-9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
+9) infrastruktūra (iki investuotojui suteikto sklypo ribų) įrengiama ir (ar) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 81 straipsnyje įtvirtintus valstybės turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke (iki investuotojui suteikto sklypo ribų) įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
  
 
 
@@ -1076,3 +1305,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
