@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2014-06-02 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
+ 
+TAR pastaba. Asmenys, iki įstatymo Nr. XII-1833 įsigaliojimo (2015-11-01) įgiję, bet Nekilnojamojo turto registre neįregistravę daiktinių teisių į nekilnojamąjį turtą, šių teisių suvaržymų ir juridinių faktų, prašymą dėl daiktinių teisių, šių teisių suvaržymų ir juridinių faktų įregistravimo teritoriniam registratoriui turi pateikti per vienus metus nuo šio įstatymo įsigaliojimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 26 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas
  
 Nauja redakcija nuo 2001-07-01:
 Nr. IX-391, 2001-06-21, Žin. 2001, Nr. 55-1948 (2001-06-27), i. k. 1011010ISTA00IX-391
@@ -507,20 +512,37 @@ Daiktinės teisės į nekilnojamąjį daiktą nekilnojamojo turto registre regis
 17 straipsnis. Informacija apie sudarytą ir patvirtintą nuosavybės teisės į nekilnojamąjį daiktą perleidimo sandorį
 
 
-1. Notaras, patvirtinęs nuosavybės teisės į nekilnojamąjį daiktą perleidimo sandorį, ne vėliau kaip per 24 valandas nuo sandorio patvirtinimo privalo perduoti Nekilnojamojo turto registro tvarkytojui šio sandorio pagrindinius duomenis, būtinus šio įstatymo 15 straipsnio 2 dalyje numatytai žymai. Perduodamų duomenų turinį bei perdavimo tvarką nustato Centrinio registratoriaus ir Lietuvos notarų rūmų sudaryta sutartis.
+1. Notaras, patvirtinęs nuosavybės teisės į nekilnojamąjį daiktą perleidimo sandorį ar išdavęs paveldėjimo teisės liudijimą ir (ar) nuosavybės teisės liudijimą, nedelsdamas, bet ne vėliau kaip per vieną darbo dieną nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo privalo perduoti Nekilnojamojo turto registro tvarkytojui šio sandorio pagrindinius duomenis, būtinus šio įstatymo 15 straipsnio 2 dalyje numatytai žymai. Perduodamų duomenų turinį ir perdavimo tvarką nustato Centrinio registratoriaus ir Lietuvos notarų rūmų sudaryta sutartis.
 
 
 
 
-2. Nekilnojamojo turto registro tvarkytojas, gavęs šio straipsnio 1 dalyje nurodytus duomenis, per vieną darbo dieną atitinkamo nekilnojamojo daikto registro įraše padaro žymą pagal notaro perduotus duomenis. 
+2. Jeigu daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda nuo notarine forma patvirtinto sandorio sudarymo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo, asmens prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus notaras teritoriniam registratoriui perduoda nedelsdamas, bet ne vėliau kaip per vieną darbo dieną nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo.
 
 
 
 
-3. Jeigu notaro atsiųstų duomenų nepakanka šiame straipsnyje numatytai žymai arba tokia žyma prieštarautų šio įstatymo nuostatoms, Nekilnojamojo turto registro tvarkytojas atsisako daryti žymą. Apie atsisakymą daryti žymą pranešama duomenis atsiuntusiam notarui. 
+3. Jeigu daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda kitais negu šio straipsnio 2 dalyje nustatytais pagrindais, asmuo prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus teritoriniam registratoriui paduoda ne vėliau kaip per 30 dienų nuo daiktinės teisės, šios teisės suvaržymo, juridinio fakto atsiradimo dienos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+
+
+
+4. Nekilnojamojo turto registro tvarkytojas, gavęs šio straipsnio 1 ir 2 dalyse nurodytus duomenis, per vieną darbo dieną atitinkamo nekilnojamojo daikto registro įraše padaro žymą pagal notaro perduotus duomenis ir (ar) per prašyme nurodytą terminą įregistruoja daiktines teises, šių teisių suvaržymus, juridinius faktus. 
+
+
+
+
+5. Notaras šio straipsnio 1 dalyje nurodytų duomenų neperduoda, kai daiktinės teisės į nekilnojamąjį daiktą įgyjamos nuo notarinės formos sandorio sudarymo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo ir asmuo per notarą perduoda teritoriniam registratoriui prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus ne vėliau kaip per vieną darbo dieną nuo notarinės formos sandorio sudarymo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo.
+
+
+
+
+6. Jeigu notaro atsiųstų duomenų nepakanka šiame straipsnyje numatytai žymai padaryti ir (ar) daiktinėms teisėms, šių teisių suvaržymams, juridiniams faktams įregistruoti arba tokie veiksmai prieštarautų šio įstatymo nuostatoms, Nekilnojamojo turto registro tvarkytojas atsisako daryti žymą ir (ar) įregistruoti daiktines teises, šių teisių suvaržymus ir juridinius faktus. Apie atsisakymą daryti žymą pranešama duomenis atsiuntusiam notarui, o apie atsisakymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus pranešama asmeniui, pateikusiam prašymą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
  
-
-
 
 
 
@@ -669,6 +691,13 @@ Daiktinių teisių į nekilnojamąjį daiktą atsiradimą, juridinius faktus pat
 
 
 4. Dokumentai, kurių pagrindu prašoma atlikti registraciją, turi būti surašyti įskaitomai, juose turi būti pilni asmenų, susijusių su registracija, vardai, pavardės, pavadinimai, adresai, kodai bei nekilnojamojo daikto, susijusio su registracija, unikalus numeris, kuris suteikiamas Nekilnojamojo turto kadastro nuostatų nustatyta tvarka. Įregistravimo nekilnojamojo turto registre pagrindu negali būti dokumentai, kuriuose yra ištaisytų, prirašytų, užbrauktų žodžių ir kitų dokumente neaptartų taisymų, bei pieštuku surašyti dokumentai, taip pat fiziškai sugadinti dokumentai, jei dėl to negalima padaryti vienareikšmės išvados dėl jų turinio.
+
+
+
+
+5. Kai daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda nuo notarine forma patvirtinto sandorio sudarymo arba išduodamo paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo, prašymas įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus ir dokumentus, patvirtinančius daiktinių teisių, šių teisių suvaržymų, juridinių faktų atsiradimą, teritoriniam registratoriui gali būti perduodamas tik iš notaro biuro nuotolinio ryšio priemonėmis (toliau – per notarą). Asmens prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus notaras teritoriniam registratoriui Centrinio registratoriaus nustatyta tvarka perduoda nedelsdamas, bet ne vėliau kaip per 24 valandas nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo. 
+Papildyta straipsnio dalimi:
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
  
 
 
@@ -702,13 +731,10 @@ Daiktinių teisių į nekilnojamąjį daiktą atsiradimą, juridinius faktus pat
 
 
 
-25 straipsnis. Teisė atsiimti prašymą įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus
-
-
-Asmuo, padavęs prašymą įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, turi teisę iki daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų įregistravimo nekilnojamojo turto registre atsiimti prašymą raštu kreipdamasis į teritorinį registratorių, priėmusį tą prašymą. Asmuo, atsiimdamas prašymą, Nekilnojamojo turto registro nuostatų nustatyta tvarka privalo atlyginti nekilnojamojo turto registro tvarkytojo turėtas prašymo vykdymo išlaidas.
+25 straipsnis. Neteko galios nuo 2015-11-01
+Straipsnio naikinimas:
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
  
-
-
 
 
 
@@ -716,7 +742,10 @@ Asmuo, padavęs prašymą įregistruoti daiktines teises į nekilnojamąjį daik
 26 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėjimas ir sprendimų priėmimas 
 
 
-1. Prašymas įregistruoti nuosavybės teisę į nekilnojamąjį daiktą turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per dešimt darbo dienų po prašymo padavimo dienos. Prašymas įregistruoti kitą daiktinę teisę, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo.
+1. Prašymas įregistruoti nuosavybės teisę į nekilnojamąjį daiktą turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per dešimt darbo dienų po prašymo padavimo dienos arba asmens prašymu – skubos tvarka, per vieną darbo dieną. Prašymas įregistruoti kitą daiktinę teisę, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo. Lietuvos Respublikos Vyriausybės nustatyta tvarka asmens prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registrą įrašyti skubos tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
+ 
 
 
 
@@ -752,6 +781,13 @@ Asmuo, padavęs prašymą įregistruoti daiktines teises į nekilnojamąjį daik
 
 
 5. Kai priimamas sprendimas prašymą tenkinti, ne vėliau kaip per 24 valandas po sprendimo priėmimo teritorinio registratoriaus įgalioti darbuotojai į nekilnojamo turto registro centrinį duomenų banką įrašo duomenis apie įregistruotas daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus.
+
+
+
+
+6. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus, notarui, per kurį pateiktas asmens prašymas, arba prašymą pateikusiam asmeniui (kai prašymas pateiktas šio įstatymo 17 straipsnio 3 dalyje nustatytu atveju) teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per šio straipsnio 1 dalyje nustatytus terminus įteikia arba išsiunčia sprendimą atsisakyti įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus arba sprendimą dėl sprendimo priėmimo atidėjimo. Notaras ne vėliau kaip kitą darbo dieną apie gautą sprendimą informuoja prašymą pateikusį asmenį.
+Papildyta straipsnio dalimi:
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
  
 
 
@@ -1357,3 +1393,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo 42 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-869, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05358
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 13 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 26 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas
