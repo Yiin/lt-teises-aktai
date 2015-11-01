@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2015-10-31
+Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -708,9 +708,10 @@ Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
 
 
 
-2. Valstybės ir savivaldybės nekilnojamasis turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik toms asociacijoms ir labdaros ir paramos fondams, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Asociacijų ir labdaros ir paramos fondų veiklas, kurios priskiriamos socialinei arba nacionalinio saugumo sričiai, nustato Lietuvos Respublikos Vyriausybė. Profesinių sąjungų susivienijimams panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik savivaldybės nekilnojamasis turtas. 
+2. Valstybės ir savivaldybės turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik toms asociacijoms, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Valstybės ir savivaldybės nekilnojamasis turtas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik tiems labdaros ir paramos fondams, kurių pagrindinis veiklos tikslas – teikti naudą visuomenei ar jos daliai socialinėje arba valstybės nacionalinio saugumo stiprinimo srityse. Asociacijų ir labdaros ir paramos fondų veiklas, kurios priskiriamos socialinei arba valstybės nacionalinio saugumo sričiai, nustato Lietuvos Respublikos Vyriausybė. Profesinių sąjungų susivienijimams panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis gali būti perduodamas tik savivaldybės nekilnojamasis turtas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+Nr. XII-1986, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16909
  
 
 
@@ -1901,4 +1902,9 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1628, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06451
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1986, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16909
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
