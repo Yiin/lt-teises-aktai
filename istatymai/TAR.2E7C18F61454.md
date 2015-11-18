@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-11-17
+Suvestinė redakcija nuo 2015-11-18 iki 2015-12-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -12300,7 +12300,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 429 straipsnis. Preliminaraus teismo sprendimo ir jo priedų kopijų išsiuntimas
 
 
-1. Preliminaraus teismo sprendimo patvirtinta kopija kartu su ieškinio ir jo priedų kopijomis išsiunčiamos atsakovui ne vėliau kaip kitą darbo dieną po preliminaraus sprendimo priėmimo ir įteikiamos šio Kodekso 124 straipsnyje nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Ieškovui preliminaraus teismo sprendimo patvirtinta kopija išsiunčiama ne vėliau kaip per tris darbo dienas po šio sprendimo įsiteisėjimo.
+1. Preliminaraus teismo sprendimo patvirtinta kopija kartu su ieškinio ir jo priedų kopijomis išsiunčiamos atsakovui ne vėliau kaip kitą darbo dieną po preliminaraus sprendimo priėmimo ir įteikiamos šio Kodekso 123 ir 124 straipsniuose nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Ieškovui preliminaraus teismo sprendimo patvirtinta kopija išsiunčiama ne vėliau kaip per tris darbo dienas po šio sprendimo įsiteisėjimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
+ 
 
 
 
@@ -12770,11 +12773,13 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 438 straipsnis. Procesinių dokumentų įteikimas
 
 
-Kreditoriaus pareiškimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami šio Kodekso 124 straipsnyje nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Įsiteisėjęs teismo įsakymas per tris darbo dienas išsiunčiamas išieškotojui.
+Kreditoriaus pareiškimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami šio Kodekso 123 ir 124 straipsniuose nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Įsiteisėjęs teismo įsakymas per tris darbo dienas išsiunčiamas išieškotojui.
 
 
-Straipsnio pakeitimai:
+ Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
  
 
 
@@ -23653,3 +23658,8 @@ Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 Lietuvos Respublikos civilinio proceso kodekso 145, 147, 499, 648, 688, 689, 710 ir 713 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
+Lietuvos Respublikos civilinio proceso kodekso 429 ir 438 straipsnių pakeitimo įstatymas
