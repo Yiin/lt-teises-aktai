@@ -13,6 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/c335f66090ed11e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymas
 
+Įstatymas netenka galios 2019-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1385, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12053
+Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymo Nr. VIII-1631 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2015-11-18 iki 2018-12-31
+ 
+Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21326
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO
 ĮSTATYMAS
@@ -1075,23 +1088,54 @@ Kalėjimų departamento ir jam pavaldžių įstaigų veiklą kontroliuoja Lietuv
 
 „41 straipsnis. Pataisos pareigūnų socialinis draudimas
 
-1. Pataisos pareigūnai Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka privalomai draudžiami pensijų socialiniu draudimu, ligos ir motinystės socialiniu draudimu, nedarbo ir nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+1. Pataisos pareigūnai Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka privalomai draudžiami pensijų socialiniu draudimu, ligos ir motinystės socialiniu draudimu, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
 2. Kursantai Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nustatyta tvarka draudžiami nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
-3. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų, susijusių su tarnyba, nelaimingų atsitikimų vykstant į tarnybą ar grįžtant iš jos, taip pat nelaimingų atsitikimų profesinio ar įvadinio mokymo metu tyrimo ir apskaitos tvarką nustato teisingumo ministras.
+3. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos, taip pat nelaimingų atsitikimų profesinio ar įvadinio mokymo metu tyrimo ir apskaitos tvarką nustato teisingumo ministras.
 
-4. Pataisos pareigūnai turi teisę gauti pareigūnų valstybinę pensiją pagal įstatymą, reglamentuojantį pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo tvarką.“
+4. Pataisos pareigūnai turi teisę gauti pareigūnų valstybinę pensiją pagal įstatymą, reglamentuojantį pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo tvarką.“ 
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
 
 6. Šio įstatymo 1 straipsnyje išdėstyto Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 50 straipsnio redakcija galioja iki 2015 m. gruodžio 31 d. 
 
-7. 2016 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 50 straipsnio redakcija: 
+7. 2016 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 50 straipsnio redakcija:
 
 „50 straipsnis. Kitos socialinės garantijos
 
-Pataisos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pataisos pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš įstaigos, kurioje tarnauja pataisos pareigūnas, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.“
+Pataisos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pataisos pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje, pakeliui į tarnybą ar iš tarnybos), iš įstaigos, kurioje tarnauja pataisos pareigūnas, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.“ 
 
-8. Lietuvos Respublikos Vyriausybė iki 2015 m. kovo 1 d. priima šio įstatymo 1 straipsnyje išdėstyto Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto įgyvendinamuosius teisės aktus, o iki 2016 m. sausio 1 d. – šio straipsnio 5 ir 7 dalių įgyvendinamuosius teisės aktus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
+
+8. Iki 2015 m. gruodžio 31 d. pataisos pareigūnams paskirtas išmokas dėl ligos, motinystės, tėvystės, motinystės (tėvystės) ir dėl nelaimingų atsitikimų darbe toliau moka jas paskyręs Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos arba jam pavaldžios įstaigos iš jiems skirtų valstybės biudžeto asignavimų. 
+Papildyta straipsnio dalimi:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
+
+9. Jeigu nuo 2016 m. sausio 1 d. pataisos pareigūnams, tapusiems apdraustaisiais ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, apskaičiuojant kompensuojamąjį uždarbį ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą pašalpas), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpoms patenka laikotarpiai, kai jie nebuvo drausti ligos ir motinystės socialiniu draudimu ir nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, šios socialinio draudimo pašalpos apskaičiuojamos pagal jų draudžiamąsias pajamas. Šioje dalyje numatytais atvejais Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos arba jam pavaldžios įstaigos iš jiems skirtų valstybės biudžeto asignavimų pataisos pareigūnui socialinio draudimo pašalpos gavimo laikotarpiu skiria ir moka jo kompensuojamojo uždarbio dalį. Ši dalis apskaičiuojama kaip mokėtinos ir išmokėtos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą pašalpas), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos skirtumas. 
+Papildyta straipsnio dalimi:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
+
+10. Šio straipsnio 8 dalyje nurodytos išmokos, mokamos nuo 2016 m. sausio 1 d., ir šio straipsnio 9 dalyje nurodyta kompensuojamojo uždarbio dalis, mokama Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos arba jam pavaldžių įstaigų iš jiems skirtų valstybės biudžeto asignavimų, prilyginamos socialinio draudimo pašalpoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme arba Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
+
+11. Šio straipsnio 9 dalyje nurodytų išmokų apskaičiavimo ir mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
+
+12. Lietuvos Respublikos Vyriausybė iki 2015 m. kovo 1 d. priima šio įstatymo 1 straipsnyje išdėstyto Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto įgyvendinamuosius teisės aktus, o iki 2016 m. sausio 1 d. – šio straipsnio 5, 7 ir 11 dalių įgyvendinamuosius teisės aktus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+ 
 
  
  
@@ -1099,4 +1143,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo Nr. XII-1447 3 straipsnio pakeitimo įstatymas
 
