@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-09-25 iki 2015-11-25
+Suvestinė redakcija nuo 2015-11-26 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -4173,10 +4173,10 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 
 
-2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį paskirtą suėmimą arba pratęstą suėmimo terminą palikti galioti arba pakeisti suėmimo terminą, arba pakeisti suėmimą kita kardomąja priemone, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.
-TAR pastaba. Lietuvos Respublikos baudžiamojo proceso kodekso 131 straipsnyje nustatyta tvarka iki 2015 m. birželio 25 d. įstatymo Nr. XII-1878 įsigaliojimo (2015-07-11) paduoti skundai nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
+2. Išnagrinėjęs skundą, aukštesnysis teismas priima nutartį atsisakyti skirti suėmimą arba atsisakyti pratęsti suėmimo terminą, arba atsisakyti skirti suėmimą, arba pratęsti suėmimo terminą ir skirti kitą kardomąją priemonę, arba skirti suėmimą, arba pratęsti suėmimo terminą, arba suėmimą panaikinti. Aukštesniojo teismo trijų teisėjų kolegijos priimta nutartis yra galutinė ir neskundžiama.
 Straipsnio dalies pakeitimai:
 Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
+Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
  
 
 
@@ -4334,7 +4334,10 @@ Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
 
 
 
-5. Jei įtariamasis pažeidžia kardomąją priemonę – užstatą, jam kaip kardomoji priemonė skiriamas suėmimas, kai tam yra pagrindas, o užstatas pereina valstybei. Dėl to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
+5. Jei įtariamasis pažeidžia kardomąją priemonę – užstatą, jam gali būti paskirta kita kardomoji priemonė, o užstatas pereina valstybei. Dėl to, kad kaip užstatas sumokėta piniginė įmoka pereina valstybei, priimamas nutarimas ar nutartis arba tai pažymima nuosprendžio rezoliucinėje dalyje. Prokuroro nutarimas gali būti apskųstas ikiteisminio tyrimo teisėjui, o teisėjo ar teismo nutartis – aukštesniajam teismui per penkias dienas nuo pranešimo apie tokio nutarimo ar nutarties priėmimą gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
+ 
 
 
 
@@ -15254,3 +15257,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 253-1, 360, 362 ir 364 straips
 Lietuvos Respublikos Konstitucinis Teismas, Pranešimas
 Nr. 2B-43P, 2015-09-25, paskelbta TAR 2015-09-25, i. k. 2015-14241
 Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija su 2010 m. rugsėjo 21 d. pakeitimu) galiojimo sustabdymo
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
+Lietuvos Respublikos baudžiamojo proceso kodekso 131 ir 133 straipsnių pakeitimo įstatymas
