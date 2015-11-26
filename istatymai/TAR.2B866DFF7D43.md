@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-10-28 iki 2015-11-25
+Suvestinė redakcija nuo 2015-11-26 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -46,7 +46,7 @@ BAUDŽIAMOJO KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO
 
 
 
-2. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu
+2. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu.
 
 
 Straipsnio pakeitimai:
@@ -7765,7 +7765,18 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 
 
-7. Už šio straipsnio 1, 2, 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
+7. Šio straipsnio 6 dalis netaikoma asmeniui, kuris pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
+Papildyta straipsnio dalimi:
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+ 
+
+
+
+
+8. Už šio straipsnio 1, 2, 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+ 
 
 
 Straipsnio pakeitimai:
@@ -7808,7 +7819,18 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 
 
-6. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+6. Šio straipsnio 5 dalis netaikoma asmeniui, kuris pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui. 
+Papildyta straipsnio dalimi:
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+ 
+
+
+
+
+7. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+ 
 
 
 Straipsnio pakeitimai:
@@ -7892,7 +7914,10 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 
 
-2. Valstybės tarnautojui prilyginamas asmuo, turintis atitinkamus įgaliojimus užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, taip pat oficialūs kandidatai į šias pareigas.
+2. Valstybės tarnautojui prilyginamas asmuo, kuris atlieka valdžios atstovo funkcijas, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+ 
 
 
 
@@ -11333,3 +11358,8 @@ Lietuvos Respublikos baudžiamojo kodekso 310 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936
 Lietuvos Respublikos baudžiamojo kodekso papildymo 306-2 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+Lietuvos Respublikos baudžiamojo kodekso 226, 227 ir 230 straipsnių pakeitimo įstatymas
