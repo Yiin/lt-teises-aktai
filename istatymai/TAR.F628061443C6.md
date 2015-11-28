@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-11-27
+Suvestinė redakcija nuo 2015-11-28 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
  
@@ -275,7 +275,10 @@ Lietuvos Respublikos piliečiai yra:
 Lietuvos Respublikos pilietis gali būti kartu ir kitos valstybės pilietis, jeigu jis atitinka bent vieną iš šių sąlygų:
 
 
-1) Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę įgijo gimdamas ir jam nėra sukakę 21 metai;
+1) Lietuvos Respublikos pilietybę ir kitos valstybės pilietybę įgijo gimdamas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
+ 
 
 
 
@@ -955,7 +958,9 @@ Lietuvos Respublikos pilietybės netenkama:
 
 
 
-8) jeigu Lietuvos Respublikos pilietis būdamas kartu ir kitos valstybės pilietis pagal šio įstatymo 7 straipsnio 1, 6 ir 7 punktus, sukakus 21 metams nėra atsisakęs kitos valstybės (valstybių) pilietybės.
+8) jeigu Lietuvos Respublikos pilietis, būdamas kartu ir kitos valstybės pilietis pagal šio įstatymo 7 straipsnio 6 ir 7 punktus, sukakus 21 metams nėra atsisakęs kitos valstybės (valstybių) pilietybės.
+Straipsnio punkto pakeitimai:
+Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
  
 
 
@@ -1946,3 +1951,8 @@ Lietuvos Respublikos pilietybės įstatymo 36 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
 Lietuvos Respublikos pilietybės įstatymo 18 ir 40 straipsnių papildymo ir pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 7 ir 24 straipsnių pakeitimo įstatymas
