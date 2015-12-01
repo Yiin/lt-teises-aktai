@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-11-30
+Suvestinė redakcija nuo 2015-12-01 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
  
@@ -700,7 +700,15 @@ Nr. XI-1237, 2010-12-14, Žin., 2010, Nr. 157-7971 (2010-12-31)
 
 
 
-29) detalūs duomenys apie žvalgybos institucijų veiklos organizavimą ir eigą, metodų, techninių sistemų, priemonių, medžiagų naudojimą, žvalgybos užduotis, operacijas, jų finansavimą, rezultatus, materialinį ir techninį aprūpinimą, žvalgybos informacija, jeigu tokia informacija nepriskiriama valstybės paslaptims.
+29) detalūs duomenys apie žvalgybos institucijų veiklos organizavimą ir eigą, metodų, techninių sistemų, priemonių, medžiagų naudojimą, žvalgybos užduotis, operacijas, jų finansavimą, rezultatus, materialinį ir techninį aprūpinimą, žvalgybos informacija, jeigu tokia informacija nepriskiriama valstybės paslaptims;
+
+
+
+
+30) informacija, susijusi su prašymo suteikti prieglobstį pateikimu ir nagrinėjimu.
+Papildyta straipsnio punktu:
+Nr. XII-2082, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18923
+ 
 
 
 
@@ -3473,3 +3481,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1562, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05374
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 17 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2082, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18923
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7 straipsnio pakeitimo įstatymas
