@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-11-30
+Suvestinė redakcija nuo 2015-12-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -518,7 +518,10 @@ VIETINĖS RINKLIAVOS
 
 
 
-11) naudojimąsi gyvenamųjų vietovių, turinčių kurorto ar kurortinės teritorijos statusą, viešąja infrastruktūra (viešoji kurorto ar kurortinės teritorijos infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio reikmėms).
+11) naudojimąsi gyvenamųjų vietovių viešąja turizmo ir poilsio infrastruktūra, kaip ji apibrėžta Lietuvos Respublikos turizmo įstatyme, išskyrus vaikus iki 18 metų.
+Straipsnio punkto pakeitimai:
+Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
+ 
 
 
 
@@ -864,3 +867,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1 straipsnių ir pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1575, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05689
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
