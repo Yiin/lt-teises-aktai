@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2015-06-17 iki 2015-12-01
+Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -3707,10 +3707,12 @@ Byla sustabdoma:
 
 
 
-5) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.
-TAR pastaba. Papildymas 5 punktu įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+6) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.
+TAR pastaba. Papildymas 6 punktu įsigalioja nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
 Papildyta straipsnio punktu:
 Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
+Straipsnio punkto pakeitimai:
+Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
  
 
 
@@ -5851,3 +5853,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 15,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir 99 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir 99 straipsnių pakeitimo įstatymo Nr. XII-1774 3 straipsnio pakeitimo įstatymas
