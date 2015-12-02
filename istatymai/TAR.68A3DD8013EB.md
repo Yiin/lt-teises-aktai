@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/68a3dd8013eb11e58569be21ff080a8c"
 
 # Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir 99 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2015-12-02
+ 
+Įstatymas paskelbtas: TAR 2015-06-16, i. k. 2015-09618
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO NR. VIII-1029 4, 98 IR 99 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -76,19 +82,21 @@ Vilnius
 3 straipsnis. 99 straipsnio pakeitimas
 
 
-Papildyti 99 straipsnį 5 punktu:
+Papildyti 99 straipsnį 6 punktu:
 
 
 
 
-„5) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.“
+„6) šio įstatymo 98 straipsnio 2 dalyje numatytu atveju – kol bus gauta Europos žmogaus teisių teismo konsultacinė išvada.“
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
  
-
-
-
-
-
-
 
 
 
@@ -107,3 +115,13 @@ Papildyti 99 straipsnį 5 punktu:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir 99 straipsnių pakeitimo įstatymo Nr. XII-1774 3 straipsnio pakeitimo įstatymas
