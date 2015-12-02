@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ef2dcf6013ea11e58569be21ff080a8c"
 
 # Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2015-12-02 iki 2016-06-08
+ 
+Įstatymas paskelbtas: TAR 2015-06-16, i. k. 2015-09613
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 CIVILINIO PROCESO KODEKSO 3, 163, 165 IR 366 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -87,7 +94,7 @@ Papildyti 163 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 
-6) kai nagrinėjant bylą, kurioje komerciniam bankui pareikšti turtiniai reikalavimai, paaiškėja, kad Lietuvos bankas yra paskyręs komerciniam bankui laikinąjį administratorių;
+6) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas);
 
 
 
@@ -114,16 +121,18 @@ Papildyti 163 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 
+
+
+
+
+
+
 2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.“
+
+
+Straipsnio pakeitimai:
+Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
  
-
-
-
-
-
-
-
-
 
 
 
@@ -189,3 +198,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
+Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 2 straipsnio pakeitimo įstatymas
