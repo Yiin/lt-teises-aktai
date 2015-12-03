@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2016-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -35,7 +35,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymo sritis 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
 
 
 1. Šis Įstatymas reglamentuoja įmonių, kurių teisinės formos yra akcinė bendrovė ir uždaroji akcinė bendrovė, steigimą, valdymą, veiklą, reorganizavimą, pertvarkymą, atskyrimą ir likvidavimą, akcininkų teises ir pareigas, taip pat užsienio bendrovių filialų steigimą bei jų veiklos nutraukimą. Kai šio Įstatymo normos taikomos ir akcinei bendrovei, ir uždarajai akcinei bendrovei, vartojamas žodis „bendrovė“.
@@ -48,7 +51,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
+3. Šis Įstatymas finansų įstaigoms taikomas tiek, kiek kiti įstatymai, reglamentuojantys finansinių paslaugų teikimą ar finansų įstaigų veiklą arba finansų įstaigų ir finansų įstaigų sistemos stabilumą, nenustato kitaip. 
+Papildyta straipsnio dalimi:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
+
+
+
+
+4. Įstatymo nuostatos yra suderintos su šio Įstatymo priede pateiktais Europos Sąjungos teisės aktais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
 
 
 Straipsnio pakeitimai:
@@ -6164,7 +6178,10 @@ priedas
  
 
 
-1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50).
+1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190). 
+Punkto pakeitimai:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
 
 
 
@@ -6179,7 +6196,10 @@ priedas
 
 
 
-4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17).
+4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190). 
+Punkto pakeitimai:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
 
 
 
@@ -6199,28 +6219,24 @@ priedas
 
 
 
-8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1).
+8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190). 
+Punkto pakeitimai:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
 
 
 
 
-9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74).
-Papildymas 10 punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema:
+9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+Punkto pakeitimai:
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+ 
 
 
 
 
 10. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
-Priedo pakeitimai:
-Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
-Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
-Nr. X-1805, 2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
-Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
-Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
-Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641 
-Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
- 
- 
+TAR pastaba. Papildymas 10 punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
 
 
 Priedo pakeitimai:
@@ -6414,3 +6430,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 44 ir 47 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 40 ir 78 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio ir priedo pakeitimo įstatymas
