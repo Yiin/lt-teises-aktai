@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
-Suvestinė redakcija nuo 2011-06-30 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
  
@@ -322,6 +322,13 @@ BENDROSIOS NUOSTATOS
 
 
 7. Šis įstatymas netaikomas kredito reikalavimams, atsirandantiems iš vartojimo kredito sutarčių, išskyrus atvejus, kai užstato gavėjas ar tokių kredito reikalavimų užstato davėjas yra vienas iš šio straipsnio 2 dalies 2 punkte nurodytų subjektų.
+
+
+
+
+8. Šis įstatymas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams taikomas tiek, kiek Finansinio tvarumo įstatymas nenustato kitaip.
+Papildyta straipsnio dalimi:
+Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
  
 
 
@@ -759,13 +766,21 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
  
  
-Lietuvos Respublikos
-finansinio užtikrinimo susitarimų įstatymo
+Lietuvos Respublikos 
+finansinio užtikrinimo susitarimų
+įstatymo
 priedas
  
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 6 d. Europos Parlamento ir Tarybos direktyva 2009/44/EB (OL 2009 L 146, p. 37).
+
+
+1. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+
+
+Priedo pakeitimai:
+Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
+ 
  
  
 Pakeitimai:
@@ -784,3 +799,8 @@ Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 2 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1429, 2011-06-07, Žin., 2011, Nr. 74-3540 (2011-06-18), i. k. 1111010ISTA0XI-1429
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3 straipsnio ir priedo pakeitimo įstatymas
