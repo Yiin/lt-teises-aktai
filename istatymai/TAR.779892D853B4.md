@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2016-11-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -2870,17 +2870,26 @@ Finansų įstaiga gali būti likviduojama jos dalyvių iniciatyva arba priversti
 
 
 
-3. Bankroto byla gali būti iškelta Lietuvos Respublikos įstatymų nustatyta tvarka tik tai nemokiai finansų įstaigai, teikiančiai licencines finansines paslaugas, kurios licencija teikti finansines paslaugas priežiūros institucijos sprendimu yra atšaukta. 
+3. Neteko galios nuo 2015-12-03
+Straipsnio dalies naikinimas:
+Nr. XII-2059, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19170
+ 
 
 
 
 
-4. Sąlygas, kurioms esant finansų įstaiga, teikianti licencines finansines paslaugas, gali būti pripažįstama nemokia, ir šios finansų įstaigos nemokumo apskaičiavimo ir įvertinimo tvarką nustato priežiūros institucija. 
+4. Neteko galios nuo 2015-12-03
+Straipsnio dalies naikinimas:
+Nr. XII-2059, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19170
+ 
 
 
 
 
-5. Pareiškimą teismui dėl bankroto bylos iškėlimo finansų įstaigai turi teisę pateikti jos dalyviai, likvidatorius (likvidacinė komisija), administracijos vadovas, kreditorius (kreditoriai), o finansų įstaigai, teikiančiai licencines finansines paslaugas, – ir priežiūros institucija. 
+5. Pareiškimą teismui dėl bankroto bylos iškėlimo finansų įstaigai turi teisę pateikti jos dalyviai, likvidatorius (likvidacinė komisija), administracijos vadovas, kreditorius (kreditoriai), pertvarkymo institucija, o finansų įstaigai, teikiančiai licencines finansines paslaugas, – ir priežiūros institucija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2059, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19170
+ 
 
 
 
@@ -2975,7 +2984,7 @@ priedas
 
 
 
-3.   2013 m.   birželio  26 d.  Europos   Parlamento  ir  Tarybos   direktyva   2013/36/ES   dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos  direktyvos  2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+3.   2013 m.   birželio  26 d.  Europos   Parlamento  ir  Tarybos   direktyva   2013/36/ES   dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos  direktyvos  2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 
 Priedo pakeitimai:
@@ -3090,3 +3099,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 straipsnio ir pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4 ir 38-1 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2059, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19170
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 57 straipsnio pakeitimo įstatymas
