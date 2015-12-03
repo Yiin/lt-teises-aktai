@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2016-06-08
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -2669,7 +2669,10 @@ Nr. XI-1485, 2011-06-21, Žin., 2011, Nr. 85-4131 (2011-07-13)
 
 
 
-2. Teismas arba teisėjas proceso dalyvių motyvuotu prašymu ar savo iniciatyva  negali taikyti šio straipsnio 3 dalyje nustatytų reikalavimo užtikrinimo priemonių, jeigu tai numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą kredito įstaigoms.
+2. Teismas arba teisėjas proceso dalyvių motyvuotu prašymu ar savo iniciatyva negali taikyti šio straipsnio 3 dalyje nustatytų reikalavimo užtikrinimo priemonių, jeigu tai numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą finansų įstaigoms.
+Straipsnio dalies pakeitimai:
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
+ 
 
 
 
@@ -3386,16 +3389,18 @@ Nr. X-1174, 2007-06-07, Žin., 2007, Nr. 72-2830 (2007-06-30)
 
 
 
-881 straipsnis. Sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui
+881 straipsnis. Sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui
 
 
-Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
+Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
 
 
 Įstatymas papildytas straipsniu:
 Nr. XI-1709, 2011-11-17, Žin., 2011, Nr. 139-6549 (2011-11-18)
 Straipsnio pakeitimai:
 Nr. XII-1051, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10746
+Straipsnio pakeitimai:
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
  
 
 
@@ -3651,7 +3656,15 @@ IR SKUNDO (PRAŠYMO) PALIKIMAS NENAGRINĖTO
 
 
 
-8) kai teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
+8) kai teismas kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją prašydamas preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu;
+
+
+
+
+9) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas).
+Papildyta straipsnio punktu:
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
+ 
 
 
 
@@ -3703,6 +3716,14 @@ Byla sustabdoma:
 
 
 4) šio įstatymo 98 straipsnio 1 dalies 8 punkte numatytu atveju – kol bus gautas kompetentingos Europos Sąjungos teisminės institucijos preliminarus nutarimas;
+
+
+
+
+5) šio įstatymo 98 straipsnio 1 dalies 9 punkte numatytu atveju – iki banko ar Centrinės kredito unijos veiklos apribojimo (moratoriumo) taikymo pabaigos;
+Papildyta straipsnio punktu:
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
+ 
 
 
 
@@ -5858,3 +5879,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir 99 straipsnių pakeitimo įstatymo Nr. XII-1774 3 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 71, 88-1, 98 ir 99 straipsnių pakeitimo įstatymas
