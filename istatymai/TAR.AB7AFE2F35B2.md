@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -151,6 +151,14 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 
 6. Šio straipsnio 5 dalies nuostatos licencijuotoms kredito įstaigoms taikomos mutatis mutandis. 
+ 
+
+
+
+
+7. Finansų maklerio įmonėms Lietuvos Respublikos akcinių bendrovių įstatymo nuostatos taikomos tiek, kiek šis įstatymas nenustato kitaip.
+Papildyta straipsnio dalimi:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
  
 
 
@@ -611,9 +619,11 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 
 
-49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme ir 2013 m. birželio 26 d. Europos Parlamento ir Tarybos Reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013).
+49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme ir 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013).
 Papildyta straipsnio dalimi:
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Straipsnio dalies pakeitimai:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
  
 
 
@@ -967,6 +977,24 @@ Priežiūros institucija turi teisę panaikinti jos išduotos finansų maklerio 
  
 
 
+
+
+
+
+91 straipsnis. Informavimo apie šaukiamą finansų maklerio įmonės neeilinį visuotinį akcininkų susirinkimą ypatumai
+
+
+1. Finansų maklerio įmonės, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad, jeigu pagal šio įstatymo 851 straipsnį yra paskiriamas laikinasis administratorius arba, priežiūros institucijos vertinimu, yra tenkinamos šio įstatymo 81 straipsnio 10 dalyje nurodytos sąlygos ir būtina padidinti įstatinį kapitalą, siekiant išvengti Finansinio tvarumo įstatymo 42 straipsnyje nustatytų pertvarkymo sąlygų, apie šaukiamą neeilinį visuotinį akcininkų susirinkimą dėl įstatinio kapitalo didinimo būtų pranešama per trumpesnį laikotarpį, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba priimti sprendimą dėl įstatų keitimo, numatant tokio trumpesnio pranešimo laikotarpio galimybę. Tačiau bet kokiu atveju pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytu atveju sutrumpintais terminais šaukiant visuotinį akcininkų susirinkimą netaikoma: Akcinių bendrovių įstatymo 21 straipsnio 1 dalies nuostatos dėl visuotinio akcininkų susirinkimo apskaitos dienos; Akcinių bendrovių įstatymo 25 straipsnio 3 dalyje nustatytas terminas pateikti siūlymą papildyti visuotinio akcininkų susirinkimo darbotvarkę ir 5 dalyje nustatyta pareiga ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo pranešti akcininkams apie visuotinio akcininkų susirinkimo darbotvarkės papildymus; Akcinių bendrovių įstatymo 26 straipsnio 7 dalyje nustatytas reikalavimas gauti visų akcininkų rašytinį sutikimą norint sušaukti visuotinį akcininkų susirinkimą nesilaikant Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse nustatytų terminų.
+
+
+Papildyta straipsniu:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
@@ -4070,9 +4098,11 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 
 
-16) duoti šio įstatymo 81 straipsnio 6 dalyje nustatytus privalomus nurodymus.
+16) duoti šio įstatymo 81 straipsnio 6 ir 10 dalyse nustatytus privalomus nurodymus.
 Papildyta straipsnio punktu:
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Straipsnio punkto pakeitimai:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
  
 
 
@@ -4540,7 +4570,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 81 straipsnis. Priežiūros institucijos teisės nagrinėjant finansinių priemonių rinkų veikimą reglamentuojančių norminių teisės aktų pažeidimus
 
 
-1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio įstatymo, jo pagrindu priimtų teisės aktų ir Reglamento (ES) Nr. 648/2012.
+1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio įstatymo, jo pagrindu priimtų teisės aktų ir Reglamento (ES) Nr. 648/2012 reikalavimų.
 
 
 
@@ -4618,12 +4648,12 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-4) sustabdyti arba nutraukti konkrečios finansinės priemonės platinimą ar prekybą ja; 
+4) sustabdyti arba nutraukti konkrečios finansinės priemonės platinimą ar prekybą ja; 
 
 
 
 
-5) nutraukti ar sustabdyti profesinės veiklos, susijusios su investicinėmis ir (ar) papildomomis paslaugomis, teikimą;
+5) nutraukti ar sustabdyti profesinės veiklos, susijusios su investicinėmis ir (arba) papildomomis paslaugomis, teikimą;
 
 
 
@@ -4643,7 +4673,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-9) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną nustatytų pažeidimų ir (ar) trūkumų pašalinimo priemonių planą; 
+9) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną nustatytų pažeidimų ir (arba) trūkumų pašalinimo priemonių planą; 
 
 
 
@@ -4653,12 +4683,12 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-11) nevykdyti tam tikros veiklos, nesudaryti tam tikrų sandorių, sumažinti tokios veiklos arba sandorių apimtis arba sumažinti investicijas į veiklą, kuri kelia pernelyg didelę riziką finansų maklerio įmonės patikimumui; 
+11) nevykdyti tam tikros veiklos, nesudaryti tam tikrų sandorių, sumažinti tokios veiklos arba sandorių apimtį arba sumažinti investicijas į veiklą, kuri kelia pernelyg didelę riziką finansų maklerio įmonės patikimumui; 
 
 
 
 
-12) sumažinti su finansų maklerio įmonės veikla, produktais ir sistemomis susijusias rizikas; 
+12) sumažinti su finansų maklerio įmonės veikla, produktais ir sistemomis susijusią riziką; 
 
 
 
@@ -4673,7 +4703,7 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-15) apriboti arba nutraukti pelno paskirstymą finansų maklerio įmonės akcininkams arba palūkanų mokėjimą finansų maklerio įmonės išleistų ne nuosavybės vertybinių popierių, kurie įtraukiami į finansų maklerio įmonės kapitalą, turėtojams, jei toks draudimas nereiškia finansų maklerio įmonės įsipareigojimų neįvykdymo;
+15) apriboti arba nutraukti pelno paskirstymą finansų maklerio įmonės akcininkams arba palūkanų mokėjimą finansų maklerio įmonės išleistų ne nuosavybės vertybinių popierių, kurie įtraukiami į finansų maklerio įmonės kapitalą, turėtojams, jeigu toks draudimas nereiškia finansų maklerio įmonės įsipareigojimų neįvykdymo;
 
 
 
@@ -4715,27 +4745,82 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
-10. Finansų maklerio įmonė, finansų patarėjo įmonė, reguliuojamos rinkos operatorius ar Centrinis depozitoriumas privalo vykdyti šio straipsnio 6 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami apie įvykdymą raštu pranešti priežiūros institucijai.
+10. Priežiūros institucija, nustačiusi, kad finansų maklerio įmonė, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, pažeidžia šio įstatymo, Reglamento (ES) Nr. 575/2013, 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2014 L 173, p. 84), 3, 4, 5, 6, 7, 14, 15, 16, 17, 24, 25 ir 26 straipsnių reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės finansų maklerio įmonė juos pažeis, turi teisę finansų maklerio įmonei duoti šiuos privalomus nurodymus:
+
+
+1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal Finansinio tvarumo įstatymo 4–11 straipsnių nuostatas, nustatytų procedūrų ar priemonių arba gaivinimo planą atnaujinti, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės;
 
 
 
 
-11. Šio straipsnio 6 dalyje nurodyti priežiūros institucijos sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos. Skundo dėl priežiūros institucijos sprendimo padavimas sprendimo vykdymo nesustabdo.
+2) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną finansų maklerio įmonės veiklos pakeitimo priemonių planą;
 
 
 
 
-12. Šio straipsnio 6 dalyje nustatyti privalomi nurodymai gali būti duodami kartu taikant ir poveikio priemones. 
+3) sušaukti finansų maklerio įmonės visuotinį akcininkų susirinkimą ir jame svarstyti priežiūros institucijos pasiūlytus klausimus. Jeigu finansų maklerio įmonės organai nevykdo reikalavimo sušaukti visuotinį akcininkų susirinkimą, priežiūros institucija turi teisę pati sušaukti visuotinį akcininkų susirinkimą, parengti jo darbotvarkę ir reikalauti, kad jame būtų apsvarstyti priežiūros institucijos pasiūlyti klausimai;
 
 
 
 
-13. Priežiūros institucija gali prašyti, kad valstybių narių priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti priežiūros institucijos tarnautojams.
+4) nušalinti arba pakeisti vieną ar daugiau finansų maklerio įmonės vadovų ar asmenų, priklausančių finansų maklerio įmonės vyresniajai vadovybei, jeigu priežiūros institucija nustato, kad tas asmuo (asmenys) neatitinka šio įstatymo 9 straipsnyje nustatytų reikalavimų;
 
 
 
 
-14. Priežiūros institucija gali kreiptis į Europos vertybinių popierių ir rinkų instituciją dėl atvejų, kai kitos valstybės narės priežiūros institucija:
+5) vadovaujantis gaivinimo planu, parengti derybų dėl skolos restruktūrizavimo su kai kuriais ar visais savo kreditoriais planą;
+
+
+
+
+6) pakeisti finansų maklerio įmonės verslo strategiją; 
+
+
+
+
+7) pakeisti finansų maklerio įmonės teisinę ir organizacinę ar veiklos struktūrą.
+
+
+
+
+
+
+11. Kai šio straipsnio 10 dalyje nustatyti privalomi nurodymai duodami finansų maklerio įmonei, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, priklausančiai finansinei grupei, mutatis mutandis taikomos Bankų įstatymo 752 straipsnio nuostatos.
+
+
+
+
+12. Finansų maklerio įmonė, finansų patarėjo įmonė, reguliuojamos rinkos operatorius ar Centrinis depozitoriumas privalo vykdyti šio straipsnio 6 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami apie įvykdymą raštu pranešti priežiūros institucijai. Finansų maklerio įmonė, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, taip pat privalo vykdyti šio straipsnio 10 dalyje nustatytus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdama apie įvykdymą raštu pranešti priežiūros institucijai.
+
+
+
+
+13. Šio straipsnio 6 ir 10 dalyse nurodyti priežiūros institucijos sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos. Skundo dėl priežiūros institucijos sprendimo padavimas sprendimo vykdymo nesustabdo.
+
+
+
+
+14. Šio straipsnio 6 dalyje nustatyti privalomi nurodymai gali būti duodami kartu taikant ir poveikio priemones. Finansų maklerio įmonei, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, šio straipsnio 10 dalyje nustatyti nurodymai gali būti duodami kartu su šio straipsnio 6 dalyje nustatytais nurodymais ir (arba) taikant ir poveikio priemones. 
+
+
+
+
+15. Priežiūros institucija, nustačiusi, kad finansų maklerio įmonė, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, atitinka šio straipsnio 10 dalyje nurodytas sąlygas, nedelsdama apie tai turi pranešti finansų sektoriaus subjektų pertvarkymo institucijai (toliau – pertvarkymo institucija). Tokiu atveju (įskaitant atvejus, kai priežiūros institucija atlieka patikrinimus pagal šį straipsnį) priežiūros institucija turi teisę gauti visą informaciją, būtiną pertvarkymo planui, parengtam pagal Finansinio tvarumo įstatymą, atnaujinti, galimam finansų maklerio įmonės pertvarkymui pasirengti ir jos turtui bei įsipareigojimams įvertinti. Priežiūros institucija šią informaciją turi pateikti pertvarkymo institucijai.
+
+
+
+
+16. Jeigu pagal šį įstatymą pritaikomos finansų maklerio įmonės veiklą ribojančios priemonės ar iškeliama finansų maklerio įmonės likvidavimo byla, kaip jie suprantami pagal Finansinio tvarumo įstatymo 121 straipsnį, priežiūros institucija mutatis mutandis turi Finansinio tvarumo įstatymo VII skyriuje pertvarkymo institucijai nustatytas teises ir pareigas.
+
+
+
+
+17. Priežiūros institucija gali prašyti, kad valstybių narių priežiūros institucijos atliktų reikalingus patikrinimus šių valstybių teritorijoje ir kad tokiuose patikrinimuose būtų leista dalyvauti priežiūros institucijos tarnautojams.
+
+
+
+
+18. Priežiūros institucija gali kreiptis į Europos vertybinių popierių ir rinkų instituciją dėl atvejų, kai kitos valstybės narės priežiūros institucija:
 
 
 1) laiku neatsako į prašymą dėl informacijos pateikimo arba atsisako pateikti informaciją;
@@ -4753,8 +4838,14 @@ FINANSINIŲ PRIEMONIŲ RINKŲ PRIEŽIŪRA
 
 
 
+
+
+19. Priežiūros institucija, spręsdama dėl privalomų nurodymų davimo pagal šio straipsnio 10 dalį, taip pat turi vadovautis taikytinais Europos Sąjungos teisės aktais.
+
+
 Straipsnio pakeitimai:
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
  
 
 
@@ -4802,7 +4893,15 @@ Finansų maklerio įmonei ar kredito įstaigai ir jų darbuotojams draudžiama a
 
 
 
-6) panaikinti licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą.
+6) panaikinti licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą;
+
+
+
+
+7) finansų maklerio įmonei, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, paskirti laikinąjį administratorių.
+Papildyta straipsnio punktu:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
@@ -4876,9 +4975,11 @@ Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
 
 
 
-7) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 81 straipsnio 6 dalį duoti privalomi nurodymai.
+7) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 81 straipsnį duoti privalomi nurodymai.
 Papildyta straipsnio punktu:
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
+Straipsnio punkto pakeitimai:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
  
 
 
@@ -4930,6 +5031,24 @@ Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 
 
 
+851 straipsnis. Finansų maklerio įmonės laikinojo administratoriaus skyrimas 
+
+
+1. Finansų maklerio įmonės, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, laikinojo administratoriaus skyrimui ir veiklai mutatis mutandis taikomos Lietuvos Respublikos bankų įstatymo 751 nuostatos. 
+
+
+
+
+2. Skiriant finansų maklerio įmonės laikinąjį administratorių finansų maklerio įmonei, kuriai taikomas šio įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas, priklausančiai finansinei grupei, mutatis mutandis taikomos Lietuvos Respublikos bankų įstatymo 752 straipsnio nuostatos.
+
+
+Papildyta straipsniu:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
+
+
+
+
 86 straipsnis. Finansų maklerio įmonės reorganizavimas
 
 
@@ -4944,27 +5063,49 @@ Finansų maklerio įmonė gali būti reorganizuojama tik gavus išankstinį prie
 87 straipsnis. Finansų maklerio įmonės bankrotas
 
 
-1. Finansų maklerio įmonės bankroto procedūra nagrinėjama tik teismo tvarka. 
+1. Finansų maklerio įmonės bankroto procedūras reglamentuoja Lietuvos Respublikos įmonių bankroto įstatymas, jeigu šis įstatymas, Finansinio tvarumo įstatymas ir Finansų įstaigų įstatymas nenustato kitaip. 
+Papildyta straipsnio dalimi:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
 
-2. Priežiūros institucija turi teisę pateikti teismui pareiškimą dėl bankroto bylos iškėlimo finansų maklerio įmonei.
+2. Finansų maklerio įmonės bankroto procedūra nagrinėjama tik teismo tvarka. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
 
-3. Teismas, gavęs pareiškimą dėl bankroto bylos iškėlimo, privalo tą pačią dieną uždrausti įmonei disponuoti banko sąskaitomis ir finansinėmis priemonėmis.
+3. Priežiūros institucija turi teisę pateikti teismui pareiškimą dėl bankroto bylos iškėlimo finansų maklerio įmonei.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
 
-4. Teismas ne vėliau kaip per 15 dienų nuo pareiškimo gavimo dienos priima nutartį iškelti bankroto bylą ar atsisakyti ją iškelti.
+4. Teismas, gavęs pareiškimą dėl bankroto bylos iškėlimo, privalo tą pačią dieną uždrausti įmonei disponuoti banko sąskaitomis ir finansinėmis priemonėmis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
 
-5. Finansų maklerio įmonės administratorius grąžina įmonės klientams priklausančias lėšas, esančias įmonėje arba finansų maklerio įmonės valdomose klientų sąskaitose kredito įstaigoje, ir įmonės klientų asmeninių finansinių priemonių sąskaitų tvarkymą perduoda kliento nurodytam sąskaitų tvarkytojui.
+5. Teismas ne vėliau kaip per 15 dienų nuo pareiškimo gavimo dienos priima nutartį iškelti bankroto bylą ar atsisakyti ją iškelti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
+
+
+
+
+6. Finansų maklerio įmonės administratorius grąžina įmonės klientams priklausančias lėšas, esančias įmonėje arba finansų maklerio įmonės valdomose klientų sąskaitose kredito įstaigoje, ir įmonės klientų asmeninių finansinių priemonių sąskaitų tvarkymą perduoda kliento nurodytam sąskaitų tvarkytojui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
  
 
 
@@ -5437,68 +5578,58 @@ finansinių priemonių
 rinkų įstatymo 
 priedas
  
+Nauja priedo redakcija nuo 2015-12-03
+ 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos, kuri turi būti skelbiama apie tuos vertybinius popierius (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 24).
+1. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 15) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
 
 
 
 
-2. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos direktyva 2003/6/EB dėl prekybos vertybiniais popieriais, pasinaudojant viešai neatskleista informacija, ir manipuliavimo rinka (piktnaudžiavimo rinka) (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 367) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+2. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos, kuri turi būti skelbiama apie tuos vertybinius popierius (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 24).
 
 
 
 
-3. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičianti Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinanti Tarybos direktyvą 93/22/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 7 tomas, p. 263), su paskutiniais pakeitimais, padarytais Direktyva 2010/78/ES.
+3. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos direktyva 2003/6/EB dėl prekybos vertybiniais popieriais, pasinaudojant viešai neatskleista informacija, ir manipuliavimo rinka (piktnaudžiavimo rinka) (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 367) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
 
 
 
 
-4. Neteko galios nuo 2015-05-01
-Punkto naikinimas:
-Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
- 
+4. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/39/EB dėl finansinių priemonių rinkų, iš dalies keičianti Tarybos direktyvas 85/611/EEB, 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinanti Tarybos direktyvą 93/22/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 7 tomas, p. 263), su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
 
 
 
 
-5. Neteko galios nuo 2015-05-01
-Punkto naikinimas:
-Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
- 
+5. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).
 
 
 
 
-6. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).
+6. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1). 
 
 
 
 
-7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
-Punkto pakeitimai:
-Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
- 
+7. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
 
 
 
 
-8. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
+8. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 
 
 
-9. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
-Papildyta punktu:
-Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
- 
+9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema, ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
 
 
 Priedo pakeitimai:
-Nr. XI-1881, 2011-12-22, Žin., 2011, Nr. 163-7770 (2011-12-31)
-Nr. XII-339, 2013-05-28, Žin., 2013, Nr. 62-3054 (2013-06-12)
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+ 
 
 
 
@@ -5563,3 +5694,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 70, 84, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 12, 13, 70, 71, 76, 81, 84, 88, 89 straipsnių, VI skyriaus antrojo skirsnio pavadinimo ir Įstatymo priedo pakeitimo ir Įstatymo papildymo 12-1, 12-2, 25-1, 73-1 straipsniais įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 71, 81, 83, 84, 87 straipsnių, priedo pakeitimo ir Įstatymo papildymo 9-1, 85-1 straipsniais įstatymas
