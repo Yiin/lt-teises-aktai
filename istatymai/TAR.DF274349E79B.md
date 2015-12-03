@@ -21,6 +21,10 @@ VIENOS VALSTYBĖS RIBAS PERŽENGIANČIO RIBOTOS
 
 
 
+Suvestinė redakcija nuo 2015-12-03 iki 2022-11-30
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 76-3001, i. k. 1081010ISTA00X-1607
+ 
 LIETUVOS RESPUBLIKOS  ĮSTATYMAS  DĖL DARBUOTOJŲ DALYVAVIMO BENDROVĖJE PO VIENOS VALSTYBĖS RIBAS PERŽENGIANČIO RIBOTOS ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI
  
 2008 m. birželio 17 d. Nr. X-1607
@@ -152,9 +156,16 @@ BENDROSIOS NUOSTATOS
 
 
 6) pranešimo apie darbuotojų atstovus bendrovės, kuri veiks po jungimosi, administravimo ar priežiūros, ar kitame organe tvarką.
+
+
+
+
+
+
+3. Šio įstatymo nuostatos netaikomos Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams, kuriems taikomos Finansinio tvarumo įstatymo III skyriaus nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
  
-
-
 
 
 
@@ -244,8 +255,6 @@ DARBUOTOJŲ DALYVAVIMO BENDROVĖJE PO JUNGIMOSI PAGRINDAI
 
 
 2. Bendrovės, kuri veikia po jungimosi, administravimo ar priežiūros, ar kitam organui, kompetentingam besijungiančių bendrovių organui, kiekvienos besijungiančios bendrovės kompetentingam organui ar kito lygmens vadovybei draudžiama daryti įtaką darbuotojų atstovų veiklai.
- 
- 
  
 
 
@@ -361,9 +370,6 @@ DERYBŲ ORGANIZAVIMAS
 
 
 3. Kiekvienos besijungiančios bendrovės valdymo ar administravimo organas ne vėliau kaip per 30 dienų nuo jungimosi sąlygų pateikimo juridinių asmenų registro tvarkytojui turi raštu informuoti specialųjį derybų komitetą apie bendrovių jungimosi sąlygas ir faktinį jungimosi procesą.
- 
- 
- 
  
 
 
@@ -814,8 +820,6 @@ STANDARTINĖS TAISYKLĖS
 
 2. Šio straipsnio nuostatos mutatis mutandis taikomos ir tuo atveju, kai nepritariama narių paskyrimui į bendrovės administravimo ar priežiūros, ar kitą organą.
  
- 
- 
 
 
 
@@ -985,22 +989,38 @@ Asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos įstatymų nusta
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
  
- 
-
-
-
-
-
-
  
-Lietuvos Respublikos įstatymo 
-„Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ 
-priedas
+ 
+
+
+
+
+
+
+Lietuvos Respublikos 
+įstatymo „Dėl darbuotojų dalyvavimo
+bendrovėje po vienos valstybės ribas
+peržengiančio ribotos atsakomybės
+bendrovių jungimosi“ 
+priedas 
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1).
+1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+
+
+Priedo pakeitimai:
+Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
+Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 3 straipsnio ir priedo pakeitimo įstatymas
