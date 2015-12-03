@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2015-12-02 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -4548,7 +4548,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti šio straipsnio 1 dalies 6, 7, 12 ir 13 punktuose nustatytų laikinųjų apsaugos priemonių, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą kredito įstaigoms.
+3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti šio straipsnio 1 dalies 6, 7 ir 12 punktuose nustatytų ar kitų laikinųjų apsaugos priemonių, kurios ribotų finansų sektoriaus subjektų pertvarkymo veiksmus, atliekamus pagal Lietuvos Respublikos finansinio tvarumo įstatymo nustatytą tvarką, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą finansų įstaigoms.
+Straipsnio dalies pakeitimai:
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
+ 
 
 
 
@@ -5242,9 +5245,10 @@ Bylos sustabdymas – procesinių veiksmų, kuriais siekiama bylą išspręsti i
 
 
 
-6) kai nagrinėjant bylą, kurioje komerciniam bankui pareikšti turtiniai reikalavimai, paaiškėja, kad Lietuvos bankas yra paskyręs komerciniam bankui laikinąjį administratorių;
-6 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
 6) kai nagrinėjant bylą, kurioje bankui ar Centrinei kredito unijai pareikšti turtiniai reikalavimai, paaiškėja, kad bankui ar Centrinei kredito unijai yra paskelbtas veiklos apribojimas (moratoriumas);
+Straipsnio punkto pakeitimai:
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
+ 
 
 
 
@@ -5350,7 +5354,10 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 
-4) šio Kodekso 163 straipsnio 6 punkte numatytais atvejais – iki komercinio banko laikinojo administratoriaus įgaliojimų pabaigos;
+4) šio Kodekso 163 straipsnio 6 punkte numatytais atvejais – iki banko ar Centrinės kredito unijos veiklos apribojimo (moratoriumo) taikymo pabaigos;
+Straipsnio punkto pakeitimai:
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
+ 
 
 
 
@@ -7648,16 +7655,18 @@ Neleidžiama priimti sprendimų, kurių įvykdymas priklausys nuo tam tikros są
 
 
 
-2671 straipsnis. Sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui 
+2671 straipsnis. Sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui 
 
 
-Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos kredito įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
+Kiti įstatymai gali numatyti atvejus, kuriais teismo sprendimai, kurie galėtų turėti įtakos finansų įstaigų finansinio stabilumo ir patikimumo stiprinimo priemonių veiksmingumui, priimami tik dėl žalos priteisimo.
 
 
 Įstatymas papildytas straipsniu:
 Nr. XI-1711, 2011-11-17, Žin., 2011, Nr. 139-6551 (2011-11-18)
 Straipsnio pakeitimai:
 Nr. XII-1050, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10745
+Straipsnio pakeitimai:
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
  
 
 
@@ -18208,7 +18217,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-4) kai skolininkui komerciniam bankui Lietuvos bankas paskiria laikinąjį administratorių;
+4) skolininkui bankui ar Centrinei kredito unijai paskelbus veiklos apribojimą (moratoriumą);
+Straipsnio punkto pakeitimai:
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
+ 
 
 
 
@@ -18292,6 +18304,14 @@ Antstolis gali visiškai ar iš dalies sustabdyti vykdomąją bylą arba atidėt
 
 
 6) teismui išreikalavus vykdomąją bylą;
+ 
+
+
+
+
+7) kai vadovaujantis Lietuvos Respublikos finansinio tvarumo įstatymo nuostatomis skolininkui ar išieškotojui yra atliekami finansų sektoriaus subjekto pertvarkymo veiksmai.
+Papildyta straipsnio punktu:
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
  
 
 
@@ -23671,3 +23691,8 @@ Lietuvos Respublikos civilinio proceso kodekso 429 ir 438 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
 Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 2 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
+Lietuvos Respublikos civilinio proceso kodekso 145, 163, 166, 267-1, 626 ir 627 straipsnių pakeitimo įstatymas
