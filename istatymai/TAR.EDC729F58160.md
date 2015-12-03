@@ -21,7 +21,7 @@ ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2012-07-01 iki 2015-12-02
+Suvestinė redakcija nuo 2015-12-03 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5747, i. k. 1071010ISTA00X-1367
  
@@ -53,7 +53,17 @@ Nr. XI-2126, 2012-06-26, Žin., 2012, Nr. 77-3981 (2012-07-01), i. k. 1121010IST
 
 
 
-4. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, nuostatų taikymą.
+4. Šio įstatymo nuostatos netaikomos Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams, kuriems taikomos Finansinio tvarumo įstatymo III skyriaus nuostatos. 
+Papildyta straipsnio dalimi:
+Nr. XII-2063, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19175
+ 
+
+
+
+
+5. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, nuostatų taikymą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2063, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19175
  
 
 
@@ -544,7 +554,7 @@ Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010IST
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
  
  
 
@@ -564,7 +574,10 @@ priedas
  
 
 
-1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1).
+1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+Punkto pakeitimai:
+Nr. XII-2063, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19175
+ 
 
 
 
@@ -593,3 +606,8 @@ Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybė
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2126, 2012-06-26, Žin., 2012, Nr. 77-3981 (2012-07-01), i. k. 1121010ISTA0XI-2126
 Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2063, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19175
+Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo Nr. X-1367 1 straipsnio ir priedo pakeitimo įstatymas
