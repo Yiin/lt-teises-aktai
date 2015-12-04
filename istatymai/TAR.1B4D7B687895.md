@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
+Suvestinė redakcija nuo 2015-12-04 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1360,17 +1360,51 @@ Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
 
 
-4. Lietuvos bankas konsultuoja Lietuvos banko atliekamos priežiūros kompetencijos klausimais ir imasi kitų Lietuvos Respublikos viešojo administravimo įstatyme ir kituose teisės aktuose nustatytų prevencinių veiksmų, skirtų užkirsti kelią galimiems teisės aktų pažeidimams. 
+4. Šio straipsnio 3 dalyje numatytomis teisėmis Lietuvos bankas naudojasi:
+
+
+1) tiesiogiai;
 
 
 
 
-5. Lietuvos bankas, nustatęs faktus, liudijančius galimai nusikalstamą veiklą, apie juos praneša atitinkamoms teisėsaugos institucijoms.
+2) bendradarbiaudamas su kitomis priežiūros, valstybės ir savivaldybių institucijomis;
+
+
+
+
+3) pasitelkdamas kitus asmenis tam tikriems veiksmams atlikti;
+
+
+
+
+4) pasitelkdamas teisėsaugos institucijas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
+ 
+
+
+
+
+5. Lietuvos bankas konsultuoja Lietuvos banko atliekamos priežiūros kompetencijos klausimais ir imasi kitų Lietuvos Respublikos viešojo administravimo įstatyme ir kituose teisės aktuose nustatytų prevencinių veiksmų, skirtų užkirsti kelią galimiems teisės aktų pažeidimams. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
+ 
+
+
+
+
+6. Lietuvos bankas, nustatęs faktus, liudijančius galimai nusikalstamą veiklą, apie juos praneša atitinkamoms teisėsaugos institucijoms.
 Straipsnio pakeitimai:
 Nr. IX-2069, 2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 Nr. XII-1035, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10871
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
  
 
 
@@ -2506,3 +2540,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43 ir 44 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 1, 8, 11, 45 straipsnių, 1 ir 2 priedų pakeitimo, 44 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 21-1 straipsniu ir nauju 2 priedu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
