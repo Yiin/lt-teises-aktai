@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
+Suvestinė redakcija nuo 2015-12-04 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -269,7 +269,10 @@ Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 
 
 
-8. Finansų maklerio įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma finansų maklerio įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminę įtaką finansų maklerio įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į Lietuvos Respublikos vertybinių popierių įstatymo 23 ir 24 straipsniuose nustatytus įpareigojimus ir balsų skaičiavimo tvarką.
+8. Finansų maklerio įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma finansų maklerio įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminę įtaką finansų maklerio įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į Lietuvos Respublikos vertybinių popierių įstatyme nustatytą pareigą pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarką.
+Straipsnio dalies pakeitimai:
+Nr. XII-2076, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19284
+ 
 
 
 
@@ -5699,3 +5702,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 71, 81, 83, 84, 87 straipsnių, priedo pakeitimo ir Įstatymo papildymo 9-1, 85-1 straipsniais įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2076, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19284
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3 straipsnio pakeitimo įstatymas
