@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-12-03
+Suvestinė redakcija nuo 2015-12-04 iki 2016-11-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -423,7 +423,10 @@ Nr. XII-375, 2013-06-18, Žin., 2013, Nr. 68-3409 (2013-06-28)
 
 
 
-50. Valdymo įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į Lietuvos Respublikos vertybinių popierių įstatymo (toliau – Vertybinių popierių įstatymas) 23 ir 24 straipsniuose nustatytus įpareigojimus ir balsų skaičiavimo tvarką.
+50. Valdymo įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į Lietuvos Respublikos vertybinių popierių įstatyme (toliau – Vertybinių popierių įstatymas) nustatytą pareigą pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2078, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19286
+ 
 
 
 
@@ -7664,3 +7667,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 13
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1548, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04822
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 11 straipsnio ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2078, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19286
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2 straipsnio pakeitimo įstatymas
