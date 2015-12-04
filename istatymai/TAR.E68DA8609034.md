@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2015-07-03 iki 2015-12-03
+Suvestinė redakcija nuo 2015-12-04 iki 2016-11-17
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -370,7 +370,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-29. Profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, vadovaujamasi Lietuvos Respublikos vertybinių popierių įstatymo (toliau – Vertybinių popierių įstatymas) 23 ir 24 straipsniuose nustatytais įpareigojimais ir balsų skaičiavimo tvarka.  
+29. Profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, vadovaujamasi Lietuvos Respublikos vertybinių popierių įstatyme (toliau – Vertybinių popierių įstatymas) nustatyta pareiga pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2079, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19287
+ 
 
 
 
@@ -3861,3 +3864,15 @@ priedas
 
 
 5. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/14/ES, kuria iš dalies keičiamos Direktyva 2003/41/EB dėl įstaigų, atsakingų už profesinių pensijų skyrimą, veiklos ir priežiūros, Direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo ir Direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kiek tai susiję su per dideliu kliovimusi kredito reitingais (OL 2013 L 145, p. 1).
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2079, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19287
+Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo Nr. XII-1467 3 straipsnio pakeitimo įstatymas
