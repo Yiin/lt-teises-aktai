@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-03
+Suvestinė redakcija nuo 2015-12-04 iki 2016-07-13
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -1316,7 +1316,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-3. Šiame straipsnyje ir šio Įstatymo 23 straipsnyje nurodytais tikslais nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į Vertybinių popierių įstatymo 23 ir 24 straipsnių nuostatas. Be to, nustatant banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų maklerio įmonės ar kredito įstaigos gali turėti po teiktos finansinių priemonių pasirašymo ir (arba) platinimo įsipareigojant jas išplatinti paslaugos, jei šiomis teisėmis nesinaudojama ar jos kitaip nenaudojamos siekiant kištis į emitento valdymą ir jei jos perleidžiamos per vienus metus po įsigijimo.
+3. Šiame straipsnyje ir šio Įstatymo 23 straipsnyje nurodytais tikslais nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į Vertybinių popierių įstatyme nustatytą pareigą pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarką. Be to, nustatant banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų maklerio įmonės ar kredito įstaigos gali turėti po teiktos finansinių priemonių pasirašymo ir (arba) platinimo įsipareigojant jas išplatinti paslaugos, jei šiomis teisėmis nesinaudojama ar jos kitaip nenaudojamos siekiant kištis į emitento valdymą ir jei jos perleidžiamos per vienus metus po įsigijimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2077, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19285
+ 
 
 
 
@@ -5208,3 +5211,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 10, 61, 62, 67, 71, 72, 73, 75, 76, 77, 83, 84, 85, 87 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1, 75-1, 75-2 straipsniais, 76-1 straipsnio ir tryliktojo skirsnio pripažinimo netekusiais galios įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2077, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19285
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 24 straipsnio pakeitimo įstatymas
