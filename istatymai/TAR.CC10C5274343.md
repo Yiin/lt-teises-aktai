@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2014-11-27 iki 2015-12-09
+Suvestinė redakcija nuo 2015-12-10 iki 2016-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -643,7 +643,10 @@ Nr. XII-793, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04031
 
 
 
-3) jos reikia įgyvendinti valstybei svarbiems ekonominiams ar kultūriniams projektams, kurių valstybinę svarbą savo sprendimu pripažįsta Seimas arba Vyriausybė; 
+3) jos reikia įgyvendinti valstybei svarbiems ekonominiams ar kultūriniams projektams, kurių valstybinę svarbą savo sprendimu pripažįsta Seimas arba Vyriausybė, taip pat regiono socialinės, ekonominės plėtros ir (arba) infrastruktūros projektams, kuriuos regiono plėtros taryba Vyriausybės nustatyta tvarka pripažįsta regioninės svarbos projektais;
+Straipsnio punkto pakeitimai:
+Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
+ 
 
 
 
@@ -663,7 +666,6 @@ Nr. XII-793, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04031
 
 
 
-Papildyta nuo 2015-01-01:
 7) ji yra su įrengtais akvakultūros tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę) – šioje žemėje esančių akvakultūrai naudojamų statinių ar įrenginių savininkams.
 
 
@@ -809,12 +811,6 @@ Nr. XII-1085, 2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10691
 
 
 
-5) kitais įstatymų nustatytais atvejais. 
-
-
-
-
-Papildyta nauju 5 punktu, buvęs 5 punktas laikomas 6 punktu nuo 2015-01-01:
 5) jeigu jie yra su įrengtais akvakultūros tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę), – tvenkiniuose akvakultūrai naudojamų statinių ar įrenginių savininkams. Iš valstybės įsigyto žemės sklypo pagrindinė žemės naudojimo paskirtis ir veiklos žemės sklype pobūdis (žuvų veisimas, auginimas ir žvejyba akvakultūros tvenkiniuose) gali būti keičiamas ne anksčiau kaip po 5 metų nuo šio žemės sklypo įsigijimo dienos;
 
 
@@ -3736,3 +3732,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 21 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1348, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17996
 Lietuvos Respublikos žemės įstatymo Nr. I-446 42 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
+Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas
