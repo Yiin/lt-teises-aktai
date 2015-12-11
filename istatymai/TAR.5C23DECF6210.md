@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-10
+Suvestinė redakcija nuo 2015-12-11 iki 2016-12-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
  
@@ -86,6 +86,14 @@ Vilnius
 
 
 
+71. Tarptautinė finansų institucija – Lietuvos Respublikos tarptautine sutartimi, šios sutarties pagrindu pasirašytu susitarimu arba Europos Sąjungos teisės aktais įsteigtas subjektas, turintis juridinio asmens statusą ir vykdantis tokioje sutartyje, susitarime arba Europos Sąjungos teisės akte nustatytą finansinę ir (arba) investicinę veiklą, arba tokio subjekto valdomas fondas. 
+Papildyta straipsnio dalimi:
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+ 
+
+
+
+
 8. Užsienio kreditoriai – juridiniai ar fiziniai asmenys, kurių pagrindiniai asmeniniai ir ekonominiai interesai yra kitose (ne Lietuvos Respublikoje) šalyse, kurie nuolat veikia ar gyvena kitose šalyse arba veikia ar gyvena Lietuvos Respublikoje trumpiau negu vienus metus ir yra įsigiję Vyriausybės vertybinių popierių, suteikę paskolų pagal paskolų sutartis arba kitus įsipareigojamuosius skolos dokumentus.
 
 
@@ -101,7 +109,10 @@ Vilnius
 
 
 
-11. Valstybės garantija tarptautinei finansų institucijai – valstybės turtinis įsipareigojimas Lietuvos Respublikos tarptautinėje sutartyje ar šios sutarties pagrindu pasirašytame susitarime nustatytomis sąlygomis įvykdyti turtinius įsipareigojimus pagal tarptautinės finansų institucijos suteiktas arba garantuotas paskolų sutartis, jeigu trečiųjų šalių subjektai neįvykdo šiose paskolų sutartyse nustatytų įsipareigojimų arba įvykdo ne visus tokius įsipareigojimus.
+11. Valstybės garantija tarptautinei finansų institucijai – valstybės turtinis įsipareigojimas Lietuvos Respublikos tarptautinėje sutartyje, šios sutarties pagrindu pasirašytame susitarime arba Europos Sąjungos teisės aktuose nustatytomis sąlygomis įvykdyti turtinius įsipareigojimus pagal tarptautinės finansų institucijos pasirašytas arba garantuotas paskolų, vertybinių popierių emisijos platinimo arba kitas skolinimo (skolinimosi) sutartis, jeigu tarptautinė finansų institucija arba trečiųjų šalių subjektai neįvykdo šiose sutartyse nustatytų įsipareigojimų arba įvykdo ne visus tokius įsipareigojimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+ 
 
 
 
@@ -411,7 +422,18 @@ Nr. XII-794, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04030
 
 
 
-7) Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams ir kitiems tikslams, kai dėl to yra priimtas atskiras įstatymas.
+7) Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose; 
+Papildyta straipsnio punktu:
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+ 
+
+
+
+
+8) Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams ir kitiems tikslams, kai dėl to yra priimtas atskiras įstatymas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+ 
 
 
 
@@ -443,7 +465,10 @@ Nr. XII-794, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04030
 
 
 
-3. Vyriausybė valstybės vardu gali teikti valstybės garantiją tarptautinei finansų institucijai pagal Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautine finansų institucija pasirašytus susitarimus.
+3. Vyriausybė valstybės vardu gali teikti valstybės garantiją tarptautinei finansų institucijai pagal Europos Sąjungos teisės aktus, Europos Sąjungos institucijų ar organizacijų sprendimus ir (arba) su tuo susijusias sutartis ar susitarimus, Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautine finansų institucija pasirašytus susitarimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+ 
 
 
 
@@ -667,7 +692,7 @@ Nr. XII-794, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04030
 10 straipsnis. Prievolių neįvykdymo teisinės pasekmės 
 
 
-1. Už pavėluotą perskolinamos paskolos ar skolos grąžinimo sutartyse nustatytų turtinių įsipareigojimų vykdymą šiose sutartyse nustatomi delspinigiai už kiekvieną pradelstą dieną. Delspinigių dydis apskaičiuojamas taikant praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį, kuris sutartyse gali būti padidintas ne daugiau kaip 10 procentinių punktų, padalytą iš 360. Vyriausybė arba Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų atveju – jos įgaliota institucija ar įstaiga turi teisę atleisti valstybės skolininką nuo apskaičiuotų, bet nesumokėtų delspinigių už laiku negrąžintas perskolinamas paskolas arba skolas ir nesumokėtas palūkanas mokėjimo arba sustabdyti delspinigių skaičiavimą valstybės skolininkui arba valstybės garantuojamam skolininkui, taip pat atleisti šiuos skolininkus nuo nesumokėto valiutų kursų skirtumo, kuris apskaičiuotas, kai jie praleido prievolės įvykdymo terminą, o po šio termino pabaigos – kai dėl valiutų kursų pasikeitimo valiuta, kuria turi būti mokama, nuvertėjo, mokėjimo. Atleidimo nuo delspinigių mokėjimo, nuo valiutų kursų skirtumo mokėjimo, taip pat delspinigių skaičiavimo sustabdymo sąlygos:
+1. Už pavėluotą perskolinamos paskolos ar skolos grąžinimo sutartyse nustatytų turtinių įsipareigojimų vykdymą šiose sutartyse nustatomi delspinigiai už kiekvieną pradelstą dieną. Delspinigių dydis apskaičiuojamas taikant praėjusio kalendorinio ketvirčio aukciono būdu išleistų Vyriausybės iždo vekselių metinės palūkanų normos svertinį vidurkį, padidintą 10 procentinių punktų, padalytą iš 360. Jeigu praėjusį kalendorinį ketvirtį aukciono būdu nebuvo išleisti Vyriausybės iždo vekseliai, taikomas paskutinis prieš tai buvęs delspinigių dydis. Vyriausybė arba, kai teikiamos Mokslo ir studijų įstatyme nurodytos valstybės remiamos paskolos, jos įgaliota institucija ar įstaiga turi teisę atleisti valstybės skolininką nuo apskaičiuotų, bet nesumokėtų delspinigių už laiku negrąžintas perskolinamas paskolas arba skolas ir nesumokėtas palūkanas mokėjimo arba sustabdyti delspinigių skaičiavimą valstybės skolininkui arba valstybės garantuojamam skolininkui, taip pat atleisti šiuos skolininkus nuo nesumokėto valiutų kursų skirtumo mokėjimo, kai šis skirtumas apskaičiuotas skolininkams praleidus prievolės įvykdymo terminą, ir nuo nesumokėto valiutų kursų skirtumo mokėjimo, kai po prievolės įvykdymo termino pabaigos valiuta, kuria turi būti mokama, nuvertėjo dėl valiutų kursų pasikeitimo. Atleidimo nuo delspinigių mokėjimo, nuo valiutų kursų skirtumo mokėjimo, taip pat delspinigių skaičiavimo sustabdymo sąlygos:
 
 
 1) valstybės skolininkas arba valstybės garantuojamas skolininkas neturi galimybės sumokėti visos skolos, įskaitant delspinigius ir (arba) valiutų kursų skirtumą, tačiau, atsižvelgiant į skolos išieškojimo galimybes, išlaidas ir galimas neigiamas priverstinio skolos išieškojimo pasekmes valstybės ar atskiro regiono mastu, atleidus valstybės skolininką arba valstybės garantuojamą skolininką nuo apskaičiuotų, bet nesumokėtų delspinigių ar jų dalies ir (arba) nuo nesumokėto valiutų kursų skirtumo mokėjimo, jis įsipareigoja padengti likusią skolos dalį ir esant galimybei pateikia skolos grąžinimą užtikrinančias priemones; 
@@ -678,6 +703,9 @@ Nr. XII-794, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04030
 2) valstybės skolininko arba valstybės garantuojamo skolininko – fizinio asmens, taip pat ūkininko, individualios įmonės savininko arba ūkinės bendrijos nario – ekonominė (socialinė) padėtis yra sunki. Kriterijus, kuriais vadovaujantis pripažįstama, kad valstybės skolininko arba valstybės garantuojamo skolininko – fizinio asmens, taip pat ūkininko, individualios įmonės savininko arba ūkinės bendrijos nario – ekonominė (socialinė) padėtis yra sunki, nustato Vyriausybė arba jos įgaliota institucija.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+ 
 
 
 
@@ -905,3 +933,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 ir 6 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4 ir 10 straipsnių pakeitimo įstatymas
