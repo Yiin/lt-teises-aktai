@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-11-01 iki 2015-12-10
+Suvestinė redakcija nuo 2015-12-11 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -649,42 +649,40 @@ Nr. XII-796, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04028
 
 
 
-2. Nepanaudotos šio Įstatymo 2 straipsnio 16 dalies 1 punkte nurodytos įmokos į atitinkamą biudžetą, skirtos programoms finansuoti, perkeliamos į kitus biudžetinius metus ir paliekamos asignavimų valdytojams bei gali būti naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
+2. Nepanaudotos šio Įstatymo 2 straipsnio 16 dalies 1 punkte nurodytos įmokos į atitinkamą biudžetą, skirtos programoms finansuoti, perkeliamos į kitus biudžetinius metus ir paliekamos asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms bei gali būti naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
 
 
 
 
-3. Į kitus biudžetinius metus gali būti perkeliama ir naudojama programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas nepanaudota įmokėtų šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų dalis:
+3. Į kitus biudžetinius metus asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms gali būti perkeliama ir naudojama programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas nepanaudota įmokėtų šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų dalis:
 
 
-1) kuri yra ne didesnė negu 1/4 įmokėtos metinės sumos;
-
-
-
-
-2) visa ši suma, jeigu visos asignavimų valdytojo programos yra finansuojamos tik iš šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų.
+1) kuri yra ne didesnė negu 1/4 biudžetinės įstaigos įmokėtos metinės sumos;
 
 
 
 
+2) visa ši suma, jeigu visos asignavimų valdytojo ir (ar) jam pavaldžių biudžetinių įstaigų programos yra finansuojamos tik iš šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų valstybės biudžeto lėšų.
 
 
-4. Šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytų pajamų viršplaninės įmokos į valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais paliekamos asignavimų valdytojams ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas. 
+
+
+
+
+4. Šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytų pajamų viršplaninės įmokos į valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais paliekamos asignavimų valdytojams ir jiems pavaldžioms biudžetinėms įstaigoms ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas.
 
 
 
 
 5. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams valstybės vardu pasiskolintos lėšos gali būti naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
-TAR pastaba. Ši dalis taikoma rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2015 metų ir vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-Papildyta straipsnio dalimi:
-Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
- 
 
 
 Straipsnio pakeitimai:
 Nr. X-1354, 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
+Straipsnio pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
  
 
 
@@ -828,7 +826,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-9) valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo vidutinio laikotarpio užduotys;
+9) valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio vidutinio laikotarpio užduotys;
+Straipsnio punkto pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 
@@ -913,7 +914,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-5) valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojamus vidutinio laikotarpio struktūrinius valdžios sektoriaus balanso rodiklius, apskaičiuojamus pagal teikiamą Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir remiantis projekto rengimo metu Europos Komisijos paskelbtais naujausiais duomenimis apie Lietuvos Respublikos produkcijos atotrūkį nuo potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę);
+5) valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojamus vidutinio laikotarpio struktūrinius valdžios sektoriaus balanso rodiklius, apskaičiuojamus pagal teikiamą Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir remiantis projekto rengimo metu Vyriausybės arba jos įgaliotos institucijos viešai paskelbtais naujausiais duomenimis apie Lietuvos Respublikos produkcijos atotrūkį nuo potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę); 
+Straipsnio punkto pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 
@@ -935,7 +939,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-3. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia išvadas dėl valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui, atkreipdamas išskirtinį dėmesį į išorinį ūkio subalansuotumą ir ilgalaikį valdžios sektoriaus finansų tvarumą. 
+3. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia išvadas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui, atkreipdamas išskirtinį dėmesį į išorinį ūkio subalansuotumą ir ilgalaikį valdžios sektoriaus finansų tvarumą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 Straipsnio pakeitimai:
@@ -1018,6 +1025,15 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 
 3. Savivaldybės biudžeto deficitas negali viršyti tais metais planuojamų išlaidų iš skolintų (neviršijant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme patvirtintų savivaldybių skolinimosi limitų) lėšų investicijų projektams finansuoti dydžio. Kiekvienos savivaldybės, kurios biudžeto išlaidos pagal pinigų srautus viršija 0,3 procento praėjusių metų BVP to meto kainomis, biudžetas vykdomas taip, kad biudžetinių metų išlaidos pagal įsipareigojimus neviršytų nominalių pajamų pagal įsipareigojimus, išskyrus išlaidas investicijų projektams finansuoti.
+
+
+
+
+4. Kiekvienos savivaldybės, kurios biudžeto išlaidos pagal pinigų srautus viršija 0,3 procento praėjusių metų BVP to meto kainomis, biudžetas vykdomas taip, kad biudžetinių metų išlaidos pagal įsipareigojimus neviršytų nominalių pajamų pagal įsipareigojimus, išskyrus išlaidas investicijų projektams finansuoti. 
+TAR pastaba. 4 dalis netenka galios 2018-01-01.
+Papildyta straipsnio dalimi:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 Straipsnio pakeitimai:
@@ -1311,19 +1327,20 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 32 straipsnis. Asignavimų naudojimas ir grąžinimas
 
 
-1. Metams pasibaigus, asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai disponuojamose sąskaitose esančias biudžeto lėšas, skirtas programoms finansuoti, išskyrus politinėms partijoms paskirstytus valstybės biudžeto asignavimus ir nepanaudotas įmokėtas šio Įstatymo 2 straipsnio 16 dalies 1 punkte nurodytas lėšas, ne didesnę negu 1/4 įmokėtų šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų lėšų metinės sumos dalį (visą sumą, jeigu visos asignavimų valdytojo programos yra finansuojamos tik iš šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytų lėšų), grąžina ne vėliau kaip iki sausio 10 dienos:
+1. Metams pasibaigus, asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai disponuojamose sąskaitose esančias biudžeto lėšas, skirtas programoms finansuoti, išskyrus politinėms partijoms paskirstytus valstybės biudžeto asignavimus ir nepanaudotas įmokėtas šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytas lėšas, naudojamas atsižvelgiant į šio Įstatymo 14 straipsnio 2 ir 3 dalių nuostatas, grąžina ne vėliau kaip iki sausio 10 dienos:
 
 
-1) valstybės biudžeto lėšas pervesdami iš valstybės biudžeto asignavimų valdytojų ir jiems pavaldžių biudžetinių įstaigų bei kitų subjektų disponuojamų sąskaitų į valstybės iždo sąskaitą;
+1) valstybės biudžeto lėšas pervesdami į valstybės iždo sąskaitą;
 
 
 
 
-2) savivaldybių biudžetų lėšas pervesdami iš savivaldybių biudžetų asignavimų valdytojų ir jiems pavaldžių biudžetinių įstaigų bei kitų subjektų disponuojamų sąskaitų į savivaldybių biudžetų sąskaitas. 
-Pastaba. Per 2013 m. politinėms partijoms paskirstyti ir nepanaudoti valstybės biudžeto asignavimai lieka politinės partijos valstybės biudžeto asignavimų sąskaitoje (Nr. XII-616).
+2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
  
-
-
 
 
 
@@ -1346,7 +1363,10 @@ Nr. XII-1315, 2014-11-06, paskelbta TAR 2014-11-11, i. k. 2014-16657
 
 
 
-5. Einamaisiais biudžetiniais metais finansuojant programas, pirmiausia turi būti naudojamos įmokėtos į valstybės biudžetą ir savivaldybių biudžetus šio Įstatymo 2 straipsnio 16 dalies 2 punkte nurodytos lėšos. 
+5. Neteko galios nuo 2015-12-11
+Straipsnio dalies naikinimas:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 Straipsnio pakeitimai:
@@ -1439,7 +1459,10 @@ Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymu
 
 
 
-2. Neįvykdžius valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduočių arba paaiškėjus, kad valdžios sektoriaus finansai nebuvo tvarkomi taip, kad vidutiniu laikotarpiu valdžios sektorius būtų perteklinis, šeštajame skirsnyje nustatyta tvarka turi būti nurodomos pateisinamos priežastys.
+2. Neįvykdžius tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties, šio Įstatymo šeštajame skirsnyje nustatyta tvarka turi būti nurodomos pateisinamos priežastys.
+Straipsnio dalies pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 
@@ -1562,31 +1585,28 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
  
 
 
-38 straipsnis. Procedūros dėl nepagrįsto valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduočių neįvykdymo
+38 straipsnis. Procedūros dėl nepagrįsto tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo
 
 
-1. Vyriausybė, pasibaigus biudžetiniams metams, Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka teikdama Seimui nacionalinį finansinių ataskaitų rinkinį, kartu teikia Finansų ministerijos Vyriausybės nustatyta tvarka parengtą valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduoties įvykdymo ataskaitą. 
-
-
-
-
-2. Jeigu valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduoties įvykdymo ataskaitoje nurodoma, kad buvo neįvykdyta valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduotis (šis rodiklis laikomas neįvykdytu, jeigu kasmetinis pagerėjimas nukrypsta nuo užduoties daugiau negu 0,2 procento BVP to meto kainomis), Ministras Pirmininkas turi Seime žodžiu pateikti neįvykdymo pateisinimo priežastis. Jeigu nėra šio Įstatymo 39 straipsnyje nurodytų pateisinimo priežasčių, Ministras Pirmininkas pateikia kitokius paaiškinimus, kodėl nebuvo įvykdytos valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduotys, ir pasiūlo priemones, kurių galėtų būti imamasi siekiant išvengti užduočių neįvykdymo dėl tokių pačių priežasčių ateityje.
+1. Vyriausybė, pasibaigus biudžetiniams metams, Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka teikdama Seimui nacionalinį finansinių ataskaitų rinkinį, kartu teikia Finansų ministerijos Vyriausybės nustatyta tvarka parengtą tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties įvykdymo ataskaitą. Užduotis laikoma neįvykdyta, jeigu valdžios sektoriaus balanso rodiklis arba valdžios sektoriaus balanso rodiklio postūmis nukrypsta nuo užduoties daugiau negu 0,2 procento BVP to meto kainomis.
 
 
 
 
-3. Jeigu Seimui teikiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą pateikiama informacija, kad mokesčių didinimo rizikos rodiklis per metus padidėjo daugiau negu 0,5 procentinio punkto, Ministras Pirmininkas kviečiamas Seime žodžiu paaiškinti mokesčių didinimo rizikos padidėjimo priežastis ir šios rizikos valdymo perspektyvas vidutiniu laikotarpiu.
+2. Jeigu valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties įvykdymo ataskaitoje nurodoma, kad buvo neįvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis, Ministras Pirmininkas turi Seime žodžiu pateikti neįvykdymo pateisinimo priežastis. Jeigu nėra šio Įstatymo 39 straipsnyje nurodytų pateisinamų priežasčių, Ministras Pirmininkas pateikia kitokius paaiškinimus, kodėl nebuvo įvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis, ir pasiūlo priemones, kurių galėtų būti imamasi siekiant išvengti užduočių neįvykdymo dėl tokių pačių priežasčių ateityje.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
  
 
 
 
 
+39 straipsnis. Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo pateisinimo priežastys
 
 
-39 straipsnis. Valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto valdžios sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
-
-
-Pateisinamomis priežastimis, kai neįvykdoma valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduotys arba nuostatos dėl perteklinio ir subalansuoto valdžios sektoriaus vidutiniu laikotarpiu, laikoma:
+Pateisinamomis priežastimis, kai neįvykdoma tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis, laikoma:
 
 
 1) rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą naudoti Lietuvos statistikos departamento arba Europos Komisijos prognozuoti duomenys, kurie vėliau buvo pakeisti;
@@ -1594,12 +1614,12 @@ Pateisinamomis priežastimis, kai neįvykdoma valdžios sektoriaus balanso rodik
 
 
 
-2) tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų vykdymo biudžetiniais metais priimtas Seimo nutarimas dėl valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduoties;
+2) tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų vykdymo biudžetiniais metais priimtas Seimo nutarimas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties;
 
 
 
 
-3) kiti įstatymais nenumatyti veiksniai, nustatomi tam tikriems biudžetiniams metams Seimo nutarimu;
+3) kiti įstatymų nenumatyti veiksniai, nustatomi tam tikriems biudžetiniams metams Seimo nutarimu;
 
 
 
@@ -1609,6 +1629,9 @@ Pateisinamomis priežastimis, kai neįvykdoma valdžios sektoriaus balanso rodik
 
 
 
+Straipsnio pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 
@@ -1924,3 +1947,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo 28 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1969, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17121
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 20 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymas
