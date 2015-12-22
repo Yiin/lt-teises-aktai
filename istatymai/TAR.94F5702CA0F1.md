@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-21
+Suvestinė redakcija nuo 2015-12-22 iki 2017-07-12
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -1613,7 +1613,10 @@ ANTSTOLIŲ SAVIVALDA
 
 
 
-7) kitos šiame Įstatyme nustatytos funkcijos.
+7) kitos šiame ir kituose įstatymuose nustatytos funkcijos.
+Straipsnio punkto pakeitimai:
+Nr. XII-2168, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20138
+ 
 
 
 
@@ -1850,3 +1853,8 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1245, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14873
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 17 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2168, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20138
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 46 straipsnio pakeitimo įstatymas
