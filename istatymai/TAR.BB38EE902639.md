@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
 
+Suvestinė redakcija nuo 2015-12-30 iki 2015-12-31
+ 
+Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŪKIO SUBJEKTŲ, PERKANČIŲ–PARDUODANČIŲ ŽALIĄ PIENĄ IR PREKIAUJANČIŲ PIENO GAMINIAIS, NESĄŽININGŲ VEIKSMŲ DRAUDIMO
 ĮSTATYMAS
@@ -474,7 +481,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo 4 straipsnis įsigalioja 2016 m. sausio 1 d.
+2. Šio įstatymo 4 straipsnis įsigalioja 2016 m. gegužės 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+ 
 
 
 
@@ -504,3 +514,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
