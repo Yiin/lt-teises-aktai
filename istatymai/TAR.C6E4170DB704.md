@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-29
+Suvestinė redakcija nuo 2015-12-30 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -220,6 +220,14 @@ PACIENTO TEISĖS IR PAREIGOS
 5. Jeigu paciento tolesnis buvimas sveikatos priežiūros įstaigoje nėra mediciniškai pagrįstas, prieš išrašant iš sveikatos priežiūros įstaigos į namus ar siunčiant į kitą sveikatos priežiūros įstaigą, pacientui arba šio ir kitų įstatymų nustatytais atvejais jo atstovui turi būti išsamiai paaiškintas tokio sprendimo pagrįstumas ir tolesnės sveikatos priežiūros tęstinumas. Gavęs tokią informaciją, pacientas arba šio ir kitų įstatymų nustatytais atvejais jo atstovas patvirtina tai parašu. Kai pacientas, kuris jo hospitalizavimo metu negali būti laikomas gebančiu protingai vertinti savo interesų, išrašomas iš sveikatos priežiūros įstaigos ar siunčiamas į kitą sveikatos priežiūros įstaigą, šioje dalyje nurodyta informacija turi būti pateikta paciento atstovui, jeigu jis pasirašytinai nurodytas paciento medicinos dokumentuose arba jeigu paciento atstovas sveikatos priežiūros įstaigai yra pateikęs atstovavimą patvirtinantį dokumentą, atitinkantį šiame ir kituose įstatymuose nustatytus reikalavimus.
 Straipsnio dalies pakeitimai:
 Nr. XII-546, 2013-10-08, Žin., 2013, Nr. 110-5430 (2013-10-19), i. k. 1131010ISTA0XII-546
+ 
+
+
+
+
+6. Informacija apie paciento, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, sveikatos būklę suteikiama paciento sutuoktiniui (sugyventiniui), paciento tėvams (įtėviams) ir paciento pilnamečiams vaikams jų prašymu. Neapribojant kitiems asmenims suteiktų teisių, šie asmenys, kai yra už pacientą atsakingo gydytojo (gydytojų) sutikimas, taip pat turi teisę lankyti pacientą.
+Papildyta straipsnio dalimi:
+Nr. XII-2188, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20892
  
 
 
@@ -873,3 +881,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-982, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09404
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 26 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2188, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20892
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5 straipsnio pakeitimo įstatymas
