@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2015-07-02 iki 2015-12-29
+Suvestinė redakcija nuo 2015-12-30 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -1787,6 +1787,14 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
+7. Asmenims, iki 2004 m. balandžio 30 d. įgijusiems teisę vairuoti C, D kategorijų transporto priemones, suteikiama teisė Lietuvos Respublikos teritorijoje vairuoti B kategorijos transporto priemones. 
+Papildyta straipsnio dalimi:
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
+ 
+
+
+
+
 7. Vairuodamas motorinę transporto priemonę, traktorių, savaeigę mašiną, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas (vairuoti tik su akiniais ar kontaktiniais lęšiais; tik transporto priemones su rankiniu valdymu, transporto priemones su automatine pavarų dėže ir pan.).
 
 
@@ -2841,3 +2849,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1849, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10594
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 33 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 22 straipsnio pakeitimo įstatymas
