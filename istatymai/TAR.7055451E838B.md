@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
+ 
+TAR pastaba. Privatizavimo fondo lėšų likutis, padengus Privatizavimo fondo įsipareigojimus, esančius šio įstatymo įsigaliojimo dieną, pervedamas į Rezervinį (stabilizavimo) fondą. Iki įstatymo Nr. XII-2021 įsigaliojimo dienos (2016-01-01)  iš sudarytų privatizavimo sandorių gautos lėšos, kurias įsiteisėjusiais teismo sprendimais valstybė arba centralizuotai valdomo valstybės turto valdytojas yra įpareigoti grąžinti pirkėjui, dengiamos iš Lietuvos Respublikos valstybės biudžeto.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2021, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18611
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 7 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2014-10-01:
 Nr. XII-792, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04032
@@ -338,92 +343,44 @@ PRIVATIZAVIMO INSTITUCIJOS
 1. Privatizavimo lėšos yra:
 
 
-1) pajamos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Vertybinių popierių įstatymą šio įstatymo 13 straipsnio 6 dalyje nurodytais atvejais;
+1) lėšos, gautos iš privatizavimo sandorių ir pardavus valstybei (savivaldybei) nuosavybės teise priklausančius akcijų paketus pagal Vertybinių popierių įstatymą šio įstatymo 13 straipsnio 6 dalyje nurodytais atvejais;
 
 
 
 
-2) palūkanos už atidėtas įmokas, netesybos (baudos ir delspinigiai už privatizavimo sandoriuose numatytų sąlygų nevykdymą) ir kiti su privatizavimo sutarties vykdymu susiję mokėjimai, taip pat pirkėjų, pripažintų privatizavimo objekto įgijėjais, sumokėtos privalomosios įmokos, kai privatizavimo sandoris neįvyksta dėl jų kaltės;
+2) palūkanos už atidėtas įmokas, netesybos (baudos ir delspinigiai už privatizavimo sandoriuose numatytų sąlygų nevykdymą) ir kiti su privatizavimo sutarties vykdymu susiję mokėjimai, taip pat pirkėjų, pripažintų privatizavimo objekto įgijėjais, sumokėtos privalomosios įmokos, kai privatizavimo sandoris neįvyksta dėl jų kaltės.
 
 
 
 
-3) kitos įplaukos.
 
 
+2. Jeigu privatizavimo objektas nuosavybės teise priklauso valstybei, šio straipsnio 1 dalyje nurodytos privatizavimo lėšos, atskaičius centralizuotai valdomo valstybės turto valdytojui Vyriausybės nustatyta tvarka apskaičiuotą atlygį už valstybei nuosavybės teise priklausančių akcijų privatizavimą, pervedamos į Lietuvos Respublikos valstybės biudžetą. Jeigu privatizavimo objektas iki įtraukimo į privatizavimo objektų sąrašą buvo įtrauktas į Valstybinio socialinio draudimo fondo apskaitą pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą ir jeigu privatizavimo objektas nuosavybės teise priklauso valstybei, šio straipsnio 1 dalyje nurodytos privatizavimo lėšos, atskaičius centralizuotai valdomo valstybės turto valdytojui Vyriausybės nustatyta tvarka apskaičiuotą atlygį už valstybei nuosavybės teise priklausančių akcijų privatizavimą, pervedamos į Valstybinio socialinio draudimo fondo lėšų sąskaitą. Jeigu privatizavimo objektas nuosavybės teise priklauso savivaldybei, šio straipsnio 1 dalyje nurodytos privatizavimo lėšos pervedamos į savivaldybės biudžetą, išskyrus šiame įstatyme nustatytas išimtis. 
 
 
 
 
-2. Jeigu privatizavimo objektas nuosavybės teise priklauso valstybei, šio straipsnio  1 dalyje nurodytos privatizavimo lėšos pervedamos į Lietuvos Respublikos finansų ministerijai atidarytą Privatizavimo fondo sąskaitą (toliau – Privatizavimo fondas) arba Valstybinio socialinio draudimo fondo lėšų sąskaitą (jeigu privatizavimo objektas iki įtraukimo į privatizavimo objektų sąrašą buvo įtrauktas į Valstybinio socialinio draudimo fondo apskaitą pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą), o jeigu privatizavimo objektas nuosavybės teise priklauso savivaldybei, – į savivaldybės specialiąją sąskaitą, išskyrus šiame įstatyme nustatytas išimtis.
+3. Iš Lietuvos Respublikos valstybės biudžeto centralizuotai valdomo valstybės turto valdytojui dengiamos šios išlaidos:
 
 
+1) ekspertų (patarėjų) paslaugoms apmokėti;
 
 
-3. Privatizavimo fondo lėšos yra:
 
 
-1) privatizavimo lėšos;
+2) įsiteisėjusiems teismo sprendimams, kuriais valstybė arba centralizuotai valdomo valstybės turto valdytojas įpareigoti grąžinti iš privatizavimo sandorių valstybės gautas lėšas, vykdyti.
 
 
 
 
-2) kitos įstatymų nustatyta tvarka į Privatizavimo fondą pervedamos lėšos.
 
 
+4. Privatizavimo lėšos, gautos privatizavus savivaldybei nuosavybės teise priklausančias akcijas, atskaičius centralizuotai valdomo valstybės turto valdytojui priklausančias lėšas pagal centralizuotai valdomo valstybės turto valdytojo ir savivaldybės tarybos įgalioto savivaldybės administracijos direktoriaus pasirašytą atstovavimo sutartį, pervedamos į savivaldybės biudžetą.
 
 
-
-
-4. Privatizavimo fondo lėšos naudojamos:
-
-
-1) Vyriausybės sprendimu Rezerviniam (stabilizavimo) fondui sudaryti (ne mažiau kaip 2/3 iš privatizavimo gautų lėšų). Rezervinį (stabilizavimo) fondą steigia Vyriausybė, jo nuostatus tvirtina Seimas Vyriausybės teikimu. Rezervinio (stabilizavimo) fondo lėšos Vyriausybės nutarimu gali būti naudojamos pensijų sistemos reformai finansuoti, Lietuvos valstybės rezervo lėšoms, reikalingoms ūkio funkcionavimui palaikyti ekstremaliųjų situacijų ir ekonominės grėsmės sąlygomis, kaupti ir atkurti, šio fondo valdymo išlaidoms, taip pat grąžintinai gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti;
-
-
-
-
-2) Vyriausybės patvirtintoms programoms įgyvendinti (iki 1/3 iš privatizavimo gautų lėšų);
-
-
-
-
-3) Garantiniam fondui sudaryti pagal atskirą programą;
-
-
-
-
-4) centralizuotai valdomo valstybės turto valdytojo atlygiui už valstybei nuosavybės teise priklausančių akcijų privatizavimą mokėti;
-
-
-
-
-5) ekspertų (patarėjų) paslaugoms apmokėti;
-
-
-
-
-6) privatizavimo objektams parengti privatizuoti pagal Vyriausybės nustatytą tvarką;
-
-
-
-
-7) įsiteisėjusiems teismo sprendimams, kuriais privatizavimo institucija įpareigota grąžinti į Privatizavimo fondą pervestas lėšas, vykdyti.
-
-
-
-
-
-
-5. Vyriausybės nustatyta tvarka apskaičiuotas atlygis už valstybei nuosavybės teise priklausančių akcijų privatizavimą centralizuotai valdomo valstybės turto valdytojui mokamas iš šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų privatizavimo lėšų. Privatizavimo fondo lėšų naudojimo tvarką nustato Vyriausybė.
-
-
-
-
-6. Privatizavimo lėšos, gautos privatizavus savivaldybei nuosavybės teise priklausančias akcijas, atskaičius centralizuotai valdomo valstybės turto valdytojui priklausančias lėšas pagal centralizuotai valdomo valstybės turto valdytojo ir savivaldybės tarybos įgalioto savivaldybės administracijos direktoriaus pasirašytą atstovavimo sutartį, pervedamos į savivaldybės specialiąją sąskaitą. Savivaldybei tenkančių lėšų naudojimo tvarką nustato savivaldybės taryba.
+Straipsnio pakeitimai:
+Nr. XII-2021, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18611
  
-
-
 
 
 
@@ -1053,3 +1010,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-792, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04032
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo Nr. VIII-480 pakeitimo
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2021, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18611
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 7 straipsnio pakeitimo įstatymas
