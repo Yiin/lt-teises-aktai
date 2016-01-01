@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -244,21 +244,27 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS STRUKTŪRA IR VALDYMAS
 10 straipsnis. Specialiųjų tyrimų tarnybos personalas
 
 
-1. Tarnybos darbuotojai yra pareigūnai, valstybės tarnautojai ir darbuotojai.
+1. Tarnybos personalą sudaro pareigūnai ir darbuotojai.
 
 
 
 
-2. Tarnybos pareigūnų statusą reglamentuoja šis įstatymas, Valstybės tarnybos įstatymas ir Specialiųjų tyrimų tarnybos statutas, valstybės tarnautojų – Valstybės tarnybos įstatymas, o darbuotojų – Darbo kodeksas ir kiti teisės aktai.
+2. Tarnybos pareigūnų statusą reglamentuoja šis įstatymas ir Specialiųjų tyrimų tarnybos statutas, o darbuotojų – Darbo kodeksas ir kiti teisės aktai.
 
 
 
 
-3. Tarnybos pareigūnų priėmimo į pareigas ir atleidimo iš jų, pareigūnų drausminės atsakomybės, nušalinimo nuo pareigų tvarką nustato Tarnybos statutas. 
+3. Tarnybos pareigūnų priėmimo į pareigas ir atleidimo iš jų, pareigūnų drausminės atsakomybės, nušalinimo nuo pareigų tvarką nustato Specialiųjų tyrimų tarnybos statutas.
+
+
+
+
+4. Tarnybos didžiausią leistiną pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių nustato Seimo valdyba. Specialiųjų tyrimų tarnybos pareigybių sąrašą, pareigūnų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių aprašymus tvirtina Specialiųjų tyrimų tarnybos direktorius. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
  
 
 
@@ -290,11 +296,11 @@ Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010IST
 111 straipsnis. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų priėmimas ir jų tarnybinis kaitumas
 
 
-Į statutinių Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų pareigas asmenys Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka skiriami penkerių metų laikotarpiui. Jeigu šio asmens veikla įvertinama labai gerai, jis gali būti penkerių metų laikotarpiui pakartotinai skiriamas į tas pačias pareigas. Struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovai ir pavaduotojai tų pačių pareigų negali eiti ilgiau kaip dešimt metų iš eilės. 
+Į Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų pareigas asmenys Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka skiriami penkerių metų laikotarpiui. Jeigu šio asmens veikla įvertinama labai gerai, jis gali būti pakartotinai skiriamas į tas pačias pareigas penkerių metų laikotarpiui. Struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovai ir pavaduotojai tų pačių pareigų negali eiti ilgiau kaip dešimt metų iš eilės. 
 
 
-Papildyta straipsniu:
-Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010ISTA0XI-1390
+Straipsnio pakeitimai:
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
  
 
 
@@ -341,7 +347,10 @@ Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010IST
 
 
 
-8) kai jiems sukanka 62 metai ir 6 mėnesiai;
+8) Neteko galios nuo 2016-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
+ 
 
 
 
@@ -353,7 +362,10 @@ Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010IST
 
 
 
-2. Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai, sulaukę Specialiųjų tyrimų tarnybos statuto 34 straipsnio 1 dalyje nustatyto amžiaus ar ištarnavę įstatymų nustatytą laikotarpį valstybinei pareigūnų ir karių pensijai gauti, jeigu jų tarnybos laikas nustatyta tvarka nebuvo pratęstas arba baigėsi jų tarnybos pratęsimo terminas, gali būti atleidžiami iš pareigų.
+2. Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai, ištarnavę įstatymų nustatytą laikotarpį valstybinei pareigūnų ir karių pensijai gauti, taip pat gali būti atleidžiami iš tarnybos jų pačių prašymu dėl išėjimo į pensiją. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
+ 
 
 
 
@@ -474,27 +486,59 @@ Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010IST
 Specialiųjų tyrimų tarnybos pareigūnas privalo:
 
 
-1) laikytis duotos priesaikos;
+1) laikytis Lietuvos Respublikos Konstitucijos, įstatymų ir kitų teisės aktų;
 
 
 
 
-2) gavęs pranešimą ar pareiškimą apie rengiamą ar daromą nusikaltimą ar kitokį teisės pažeidimą arba pats būdamas įvykio liudininku, imtis neatidėliotinų priemonių užkirsti kelią rengiamam ar daromam nusikaltimui ar kitam teisės pažeidimui, įvykio vietai apsaugoti, įvykio liudininkams nustatyti arba pranešti apie įvykį policijai;
+2) būti lojalus Lietuvos valstybei ir jos konstitucinei santvarkai;
 
 
 
 
-3) saugoti valstybės ir tarnybos paslaptis;
+3) gerbti žmogaus teises ir laisves, tarnauti visuomenės interesams;
 
 
 
 
-4) užtikrinti sulaikytų asmenų teises ir teisėtus interesus, suteikti neatidėliotiną medicinos ar kitą būtiną pagalbą nukentėjusiems nuo nusikaltimų ar kitų teisės pažeidimų asmenims bei asmenims, kurių būklė yra bejėgiška.
+4) laikytis duotos priesaikos;
+
+
+
+
+5) tinkamai atlikti pareigybės aprašyme nustatytas funkcijas ir laiku atlikti pavedamas užduotis, laikytis Specialiųjų tyrimų tarnybos vidaus darbo tvarkos;
+
+
+
+
+6) tobulinti kvalifikaciją;
+
+
+
+
+7) gavęs pranešimą ar pareiškimą apie rengiamą ar daromą nusikaltimą ar kitokį teisės pažeidimą arba pats būdamas įvykio liudininku, imtis neatidėliotinų priemonių užkirsti kelią rengiamam ar daromam nusikaltimui ar kitam teisės pažeidimui, įvykio vietai apsaugoti, įvykio liudininkams nustatyti arba pranešti apie įvykį policijai;
+
+
+
+
+8) laikytis šiame įstatyme, Specialiųjų tyrimų tarnybos statute, Specialiųjų tyrimų tarnybos pareigūnų elgesio kodekse nustatytų elgesio principų, tarnybinės etikos reikalavimų ir taisyklių, vengti viešųjų ir privačių interesų konflikto, teisės aktų nustatyta tvarka deklaruoti privačius interesus, nepiktnaudžiauti tarnyba, nesinaudoti Specialiųjų tyrimų tarnybos nuosavybe ne tarnybinei veiklai;
+
+
+
+
+9) saugoti valstybės ir tarnybos paslaptis, nesinaudoti ir neleisti naudotis tarnybine ar su tarnyba susijusia informacija kitaip, negu nustato įstatymai ar kiti teisės aktai;
+
+
+
+
+10) užtikrinti sulaikytų asmenų teises ir teisėtus interesus, suteikti neatidėliotiną medicinos ar kitą būtinąją pagalbą nukentėjusiems nuo nusikaltimų ar kitų teisės pažeidimų asmenims bei asmenims, kurių būklė yra bejėgiška. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
  
-
-
-
-
 
 
 
@@ -525,7 +569,10 @@ Specialiųjų tyrimų tarnybos pareigūnas privalo:
 
 
 
-5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose bei kitose institucijose, taip pat gauti kitą, nei nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina tarnybos vykdomai žvalgybinei veiklai ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę bei kūrybinę veiklą;
+5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose bei kitose institucijose, taip pat gauti kitą, nei nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę bei kūrybinę veiklą ir savanorių karo tarnybos atlikimą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
+ 
 
 
 
@@ -618,7 +665,9 @@ Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010IS
 
 
 
-5. Duomenys apie Specialiųjų tyrimų tarnybos pareigūnus Valstybės tarnautojų registrui neteikiami. 
+5. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
 Papildyta straipsnio dalimi:
 Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
  
@@ -868,3 +917,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 8, 16, 17 ir 20 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2343, 2012-11-06, Žin., 2012, Nr. 132-6671 (2012-11-15), i. k. 1121010ISTA0XI-2343
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 10, 11-1, 12, 14, 15 ir 17 straipsnių pakeitimo įstatymas
