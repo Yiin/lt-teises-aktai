@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2015-01-02 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -793,6 +793,13 @@ SOCIALINIŲ PASLAUGŲ TEIKIMAS
 
 
 8. Socialinės paslaugos socialinės rizikos šeimai teikiamos padedant ugdyti suaugusių šeimos narių socialinius įgūdžius ir motyvaciją kurti saugią, sveiką ir darnią aplinką savo namuose, šeimoje, palaikyti socialinius ryšius su visuomene ir užtikrinti šioje šeimoje augančių vaikų visapusį vystymąsi ir ugdymą. Teikiant socialines paslaugas socialinės rizikos šeimai, turi būti užtikrinamas socialinių paslaugų teikimas ir vaikams. 
+
+
+
+
+9. Vaikus globojančiai šeimai, globėjams (rūpintojams), įtėviams ir šeimynų dalyviams ar besirengiantiems jais tapti asmenims kiekvienoje savivaldybėje nuolat teikiama atestuotų socialinių darbuotojų ir kitų specialistų pagalba, užtikrinanti jų prižiūrimų, globojamų (rūpinamų) ar įvaikintų vaikų visapusį vystymąsi ir ugdymą.
+Papildyta straipsnio dalimi:
+Nr. XII-2193, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20220
  
 
 
@@ -1994,3 +2001,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo 23 ir 32 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 11, 13, 14, 19, 20, 21, 23, 24, 26, 29, 30, 31, 32, 38 straipsnių pakeitimo ir Įstatymo papildymo 14-1, 24-1 straipsniais įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2193, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20220
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 18 straipsnio pakeitimo įstatymas
