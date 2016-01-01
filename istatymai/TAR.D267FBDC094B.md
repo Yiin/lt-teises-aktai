@@ -13,16 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
 Nauja redakcija nuo 2013-01-01:
 Nr. XI-1829, 2011-12-21, Žin. 2011, Nr. 163-7743 (2011-12-31), i. k. 1111010ISTA0XI-1829
  
-Lietuvos respublikos
-žemės mokesčio
-Į S T A T Y M A S
+Lietuvos respublikos žemės mokesčio ĮSTATYMAS
  
  
 
@@ -276,7 +274,15 @@ Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
 
 
 
-9) ūkininko ūkiui steigti įgyta žemė – tris mokesčio mokestinius laikotarpius nuo nuosavybės teisės įgijimo. Tokio pobūdžio lengvata, įskaitant iki šio įstatymo įsigaliojimo taikytą, tam pačiam asmeniui taikoma tik vieną kartą.
+9) ūkininko ūkiui steigti įgyta žemė – tris mokesčio mokestinius laikotarpius nuo nuosavybės teisės įgijimo. Tokio pobūdžio lengvata, įskaitant iki šio įstatymo įsigaliojimo taikytą, tam pačiam asmeniui taikoma tik vieną kartą;
+
+
+
+
+10) žemė, nuosavybės teise priklausanti tradicinėms ir kitoms valstybės pripažintoms religinėms bendruomenėms, bendrijoms ir centrams.
+Papildyta straipsnio punktu:
+Nr. XII-2159, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19857
+ 
 
 
 
@@ -568,4 +574,9 @@ Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeiti
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2159, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19857
 Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
