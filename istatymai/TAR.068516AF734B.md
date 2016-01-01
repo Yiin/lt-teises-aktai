@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -366,7 +366,11 @@ Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
 
 
 
-3. Ligos pašalpą taip pat turi teisę gauti apdraustieji, jeigu jie iki laikinojo nedarbingumo pradžios neįgijo šio straipsnio 1 dalies 2 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių.
+3. Ligos pašalpą taip pat turi teisę gauti apdraustieji, jeigu jie iki laikinojo nedarbingumo pradžios neįgijo šio straipsnio 1 dalies 2 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių.
+TAR pastaba. 3 dalies nuostatos taikomos asmenims, įgijusiems teisę gauti valstybinio socialinio draudimo pašalpas po įstatymo Nr. XII-2142 įsigaliojimo (2016-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XII-2142, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20133
+ 
 
 
 
@@ -637,12 +641,19 @@ Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
 
 
 
-3. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu taip pat turi apdraustieji, jeigu jie iki nėštumo ir gimdymo atostogų pradžios neįgijo šio straipsnio 1 dalyje nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka nuo statuso pasikeitimo neviršija 3 mėnesių.
+3. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu taip pat turi apdraustieji, jeigu jie iki nėštumo ir gimdymo atostogų pradžios neįgijo šio straipsnio 1 dalyje nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių.
+TAR pastaba. 3 dalies nuostatos taikomos asmenims, įgijusiems teisę gauti valstybinio socialinio draudimo pašalpas po įstatymo Nr. XII-2142 įsigaliojimo (2016-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XII-2142, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20133
+ 
 
 
 
 
-4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba Valstybės tarnybos įstatyme, Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir Teisėjų atlyginimų įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu.
+4. Moteriai, turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiai šio straipsnio 2 ar 3 dalyje nustatytus reikalavimus, kuriai pasibaigė darbo sutartis arba kuri buvo atleista iš tarnybos, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1993, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18261
+ 
 
 
 
@@ -759,7 +770,11 @@ Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
 
 
 
-3. Teisę gauti tėvystės pašalpą, tėvystės atostogų laikotarpiu taip pat turi apdraustieji, jeigu jie iki tėvystės atostogų pradžios šio stažo neįgijo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka nuo statuso pasikeitimo neviršija 3 mėnesių.
+3. Teisę gauti tėvystės pašalpą tėvystės atostogų laikotarpiu taip pat turi apdraustieji, jeigu jie iki tėvystės atostogų pradžios šio stažo neįgijo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių.
+TAR pastaba. 3 dalies nuostatos taikomos asmenims, įgijusiems teisę gauti valstybinio socialinio draudimo pašalpas po įstatymo Nr. XII-2142 įsigaliojimo (2016-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XII-2142, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20133
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -843,7 +858,11 @@ Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
 
 
 
-3. Teisę gauti motinystės (tėvystės) pašalpą taip pat turi tie apdraustieji asmenys, kurie  iki vaiko priežiūros atostogų pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių. 
+3. Teisę gauti motinystės (tėvystės) pašalpą taip pat turi tie apdraustieji asmenys, kurie  iki vaiko priežiūros atostogų pradžios neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių.
+TAR pastaba. 3 dalies nuostatos taikomos asmenims, įgijusiems teisę gauti valstybinio socialinio draudimo pašalpas po įstatymo Nr. XII-2142 įsigaliojimo (2016-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XII-2142, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20133
+ 
 
 
 
@@ -858,12 +877,18 @@ Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
 
 
 
-6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba Valstybės tarnybos įstatyme, Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir Teisėjų atlyginimų įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, kuriam pasibaigė darbo sutartis arba kuris buvo atleistas iš tarnybos, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1993, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18261
+ 
 
 
 
 
-7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio 2 ar 3 dalyje nustatytus reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba Valstybės tarnybos įstatyme, Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir Teisėjų atlyginimų įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio 2 ar 3 dalyje nustatytus reikalavimus, kuriam pasibaigė darbo sutartis arba kuris buvo atleistas iš tarnybos ir dėl to negavo vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1993, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18261
+ 
 
 
 
@@ -1149,7 +1174,10 @@ Nr. XII-284, 2013-05-09, Žin., 2013, Nr. 54-2689 (2013-05-25)
 241 straipsnis. Pašalpų skyrimas ir mokėjimas, permokėtų pašalpų sumų išieškojimas
 
 
-1. Šiame įstatyme numatytas pašalpas, išskyrus darbdavio mokamas ligos pašalpas už 2 pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai skyriai), vadovaudamiesi šiuo įstatymu ir Vyriausybės tvirtinamais Ligos ir motinystės socialinio draudimo pašalpų nuostatais. 
+1. Šiame įstatyme numatytas pašalpas, išskyrus darbdavio mokamas ligos pašalpas už 2 pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritoriniai skyriai ar Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos Karinių ir joms prilygintų struktūrų skyrius (toliau – Fondo valdybos teritoriniai skyriai), vadovaudamiesi šiuo įstatymu ir Vyriausybės tvirtinamais Ligos ir motinystės socialinio draudimo pašalpų nuostatais.
+Straipsnio dalies pakeitimai:
+Nr. XII-1993, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18261
+ 
 
 
 
@@ -1477,4 +1505,14 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir 19 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1993, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18261
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 16, 19 ir 24-1 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2142, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20133
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir 19 straipsnių pakeitimo įstatymas
