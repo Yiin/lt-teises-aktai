@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -86,7 +86,10 @@ Loterijų ir lošimų mokesčio bazė yra:
 
 
 
-2) organizuojant bingą totalizatorių ir lažybas – suma, gauta iš lošėjų statomų sumų, atėmus lošėjams faktiškai išmokėtų laimėjimų sumą;
+2) organizuojant bingą, totalizatorių, lažybas ir nuotolinius lošimus – suma, gauta iš lošėjų statomų sumų, atėmus lošėjams faktiškai išmokėtų laimėjimų sumą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
+ 
 
 
 
@@ -114,6 +117,14 @@ Loterijų ir lošimų mokesčio bazė yra:
 
 
 
+21. Organizuojant nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 10 procentų mokesčio tarifas. 
+Papildyta straipsnio dalimi:
+Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
+ 
+
+
+
+
 3. Organizuojant lošimus lošimo automatais ir stalo lošimus, nustatomas fiksuotas loterijų ir lošimų mokesčio dydis už kiekvieną lošimų veiklos leidime nurodytą lošimo įrenginį:
 
 
@@ -132,6 +143,7 @@ Loterijų ir lošimų mokesčio bazė yra:
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1112, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13424
+Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
  
 
 
@@ -149,22 +161,23 @@ LOTERIJŲ IR LOŠIMŲ MOKESČIO APSKAIČIAVIMO IR MOKĖJIMO TVARKA
 6 straipsnis. Loterijų ir lošimų mokesčio apskaičiavimo ir mokėjimo tvarka
 
 
-1. Juridiniai asmenys, organizuojantys loterijas ar lošimus, taikydami šio įstatymo 5 straipsnyje nustatytą mokesčio tarifą, loterijų ir lošimų mokestį (išskyrus 5 straipsnio 3 dalyje nustatytą fiksuotą loterijų ir lošimų mokestį) apskaičiuoja ir sumoka į biudžetą kiekvienam mokestiniam laikotarpiui pasibaigus iki kito mokestinio laikotarpio pirmo mėnesio 15 dienos.
+1. Juridiniai asmenys, organizuojantys loterijas ar lošimus, taikydami šio įstatymo 5 straipsnyje nustatytą loterijų ir lošimų mokesčio tarifą ar fiksuotą loterijų ir lošimų mokesčio dydį, loterijų ir lošimų mokestį už mokestinį laikotarpį apskaičiuoja ir sumoka į biudžetą pasibaigus kiekvienam mokestiniam laikotarpiui iki kito mokestinio laikotarpio pirmo mėnesio 15 dienos.
 
 
 
 
-2. Juridiniai asmenys, organizuojantys 4 straipsnio 3 punkte nurodytus lošimus, už kiekvieną lošimų veiklos leidime mėnesio 1 dieną nurodytą lošimo įrenginį (lošimo automatą, ruletės, kortų arba kauliukų stalą) loterijų ir lošimų mokestį apskaičiuoja kas mėnesį, taikydami šio įstatymo 5 straipsnio 3 dalyje nustatytus fiksuotus loterijų ir lošimų mokesčio dydžius, ir sumoka į biudžetą ne vėliau kaip per 5 darbo dienas nuo to mėnesio pradžios. Tą mėnesį, kai išduodamas lošimų veiklos leidimas arba papildomas turimas lošimų veiklos leidimas padidinti lošimo įrenginių skaičių, loterijų ir lošimų mokestis už kiekvieną lošimų veiklos leidime nurodytą naują lošimo įrenginį apskaičiuojamas už visą mėnesį, taikant šio įstatymo 5 straipsnio 3 dalyje nustatytą fiksuotą loterijų ir lošimų mokesčio dydį, ir sumokamas ne vėliau kaip per 5 darbo dienas nuo lošimų veiklos leidimo išdavimo arba papildymo dienos.
+2. Juridiniai asmenys, organizuojantys šio įstatymo 4 straipsnio 3 punkte nurodytus lošimus, tą mėnesį, kai išduodamas lošimų veiklos leidimas arba papildomas turimas lošimų veiklos leidimas, kuriame padidinamas lošimo įrenginių skaičius, arba pakeičiamas turimas lošimų veiklos leidimas, kuriame sumažinamas lošimo įrenginių skaičius, loterijų ir lošimų mokestį už kiekvieną tą mėnesį išduotame, papildytame ar pakeistame lošimų veiklos leidime nurodytą lošimo įrenginį apskaičiuoja už visą mėnesį, taikant šio įstatymo 5 straipsnio 3 dalyje nustatytą fiksuotą loterijų ir lošimų mokesčio dydį, ir sumoka šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka. 
 
 
 
 
-3. Lošimų įrenginiai, už kuriuos mokamas fiksuoto dydžio loterijų ir lošimų mokestis, už kiekvieną mokestinį laikotarpį sumokėjus šį mokestį, paženklinami specialiu ženklu Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XI-1579, 2011-09-15, Žin., 2011, Nr. 119-5612 (2011-10-01), i. k. 1111010ISTA0XI-1579
+3. Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos suteikia galimybę Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos gauti lošimų veiklos leidimuose nurodytus duomenis, būtinus šio įstatymo 5 straipsnio 3 dalyje nustatyto fiksuoto dydžio loterijų ir lošimų mokesčiui apskaičiuoti ir kontrolei vykdyti.
+
+
+TAR pastaba. 6 straipsnio nuostatos taikomos mokant loterijų ir lošimų mokestį už 2016 m. sausio 1 d. prasidėsiantį ir vėlesnius mokestinius laikotarpius.
+Straipsnio pakeitimai:
+Nr. XII-2243, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21027
  
-
-
 
 
 
@@ -251,3 +264,13 @@ Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1112, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13424
 Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2243, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21027
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 6 straipsnio pakeitimo įstatymas
