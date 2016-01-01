@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS
 
 
 
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
+ 
+Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
+ 
 Nauja įstatymo redakcija nuo 2004-07-01:
 Nr. IX-2237, 2004-05-18, Žin., 2004 Nr. 88-3208 (2004-06-30)
  
@@ -368,27 +372,50 @@ Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
 
 
-3. Šeimynos vykdomai vaiko globai (rūpybai) užtikrinti už vaiką, kuriam globa (rūpyba) nustatyta šeimynoje, yra mokamas 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas, kuris naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3. Vaiko globėjui (rūpintojui) už vaiką, kuriam globa (rūpyba) nustatyta šeimoje, nuo 2016 m. sausio 1 d. yra mokamas vieno bazinės socialinės išmokos dydžio, o nuo 2017 m. sausio 1 d. – 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas. 
+Papildyta straipsnio dalimi:
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+ 
 
 
 
 
-4. Kai išmokos gavėjas, gaunantis globos (rūpybos) išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (ar) vaiko išlaikymui kas mėnesį mokamą periodinę išmoką, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaiko išlaikymui kas mėnesį mokamos periodinės išmokos dydžio.
+4. Šeimynos vykdomai vaiko globai (rūpybai) užtikrinti už vaiką, kuriam globa (rūpyba) nustatyta šeimynoje, yra mokamas 4 bazinių socialinių išmokų dydžio globos (rūpybos) išmokos tikslinis priedas, kuris naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+ 
 
 
 
 
-5. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus. 
+5. Kai išmokos gavėjas, gaunantis globos (rūpybos) išmoką, įstatymų nustatyta tvarka gauna našlaičių pensiją ir (ar) vaiko išlaikymui kas mėnesį mokamą periodinę išmoką, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp išmokos gavėjui nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaiko išlaikymui kas mėnesį mokamos periodinės išmokos dydžio.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+ 
 
 
 
 
-6. Vaikui (asmeniui), kuris mokosi pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ir yra išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo ugdymo mokyklos ar profesinio mokymo įstaigos bendrabutyje ar vaikų socializacijos centre, mokslo metais skiriama 2 bazinių socialinių išmokų dydžio išmoka per mėnesį.
+6. Išmokos gavėjas, gaunantis šio straipsnio 2 dalyje nustatytą išmoką, turi teisę gauti stipendiją pagal mokymosi rezultatus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+ 
 
 
 
 
-7. Globos (rūpybos) išmoka ir globos (rūpybos) išmokos tikslinis priedas neskiriami ir nemokami:
+7. Vaikui (asmeniui), kuris mokosi pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ir yra išlaikomas (nemokamai gauna nakvynę ir maistą) bendrojo ugdymo mokyklos ar profesinio mokymo įstaigos bendrabutyje ar vaikų socializacijos centre, mokslo metais skiriama 2 bazinių socialinių išmokų dydžio išmoka per mėnesį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+ 
+
+
+
+
+8. Globos (rūpybos) išmoka ir globos (rūpybos) išmokos tikslinis priedas neskiriami ir nemokami:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+ 
 
 
 1) jeigu vaikas (asmuo) yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška ar jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta nurodytos aplinkybės; 
@@ -1078,3 +1105,12 @@ Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 LIETUVOS RESPUBLIKOS IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 1, 3, 7, 12, 13 STRAIPSNIŲ, ANTROJO SKIRSNIO PAVADINIMO IR PRIEDO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 3 dalį ir šio įstatymo 1 straipsnį, įsigalioja 2014 m. liepos 1 d. 
 Jeigu privalomąją pradinę karo tarnybą atliekančiai vaiko motinai teisė gauti išmoką privalomosios pradinės karo tarnybos kario vaikui atsirado iki šio įstatymo įsigaliojimo, skiriant išmoką privalomosios pradinės karo tarnybos kario vaikui taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos išmokų vaikams įstatymo nuostatos.
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2191, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20217
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 8 straipsnio pakeitimo įstatymas
