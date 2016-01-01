@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -1224,10 +1224,11 @@ Nr. XII-427, 2013-06-27, Žin., 2013, Nr. 75-3756 (2013-07-13)
 
 
 
-20) palūkanų už ne nuosavybės vertybinius popierius (išskyrus asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, išleistus ne nuosavybės vertybinius popierius, jeigu už šiuos ne nuosavybės vertybinius popierius asmuo, susijęs su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes palūkanas negu kitiems tų pačių ne nuosavybės vertybinių popierių turėtojams), palūkanų už Lietuvos ir užsienio valstybių vyriausybių, taip pat jų politinių ar teritorijos administracinių padalinių, vietos valdžios ne nuosavybės vertybinius popierius, palūkanų už Lietuvos ir užsienio valstybių bankuose ir kitose kredito įstaigose laikomus indėlius suma, neviršijanti 3 000 eurų per mokestinį laikotarpį, jeigu ne nuosavybės vertybiniai popieriai įsigyti ar sutartys dėl indėlių sudarytos nuo 2014 m. sausio 1 d.; 
-TAR pastaba. 20 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+20) palūkanų už ne nuosavybės vertybinius popierius (išskyrus asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, išleistus ne nuosavybės vertybinius popierius, jeigu už šiuos ne nuosavybės vertybinius popierius asmuo, susijęs su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes palūkanas negu kitiems tų pačių ne nuosavybės vertybinių popierių turėtojams), palūkanų už Lietuvos ir užsienio valstybių vyriausybių, taip pat jų politinių ar teritorijos administracinių padalinių, vietos valdžios ne nuosavybės vertybinius popierius, palūkanų už Lietuvos ir užsienio valstybių bankuose ir kitose kredito įstaigose laikomus indėlius suma, neviršijanti 500 eurų per mokestinį laikotarpį, jeigu ne nuosavybės vertybiniai popieriai įsigyti ar sutartys dėl indėlių sudarytos nuo 2014 m. sausio 1d.; 
+TAR pastaba. 20 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
 
 
@@ -1285,21 +1286,25 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą (įskaitant kilnojamąjį pagal prigimtį daiktą, kuris nekilnojamuoju pripažįstamas pagal įstatymus), jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir 54 punktuose nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 5 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn;
-Pastaba. 28 punkto nuostatos taikomos apmokestinant nekilnojamojo pagal prigimtį daikto, kuris buvo įsigytas 2011 m. sausio 1 d. ar vėliau, taip pat nekilnojamojo pagal prigimtį daikto, kuris įsigytas iki 2011 m. sausio 1 d. ir iki  įstatymo (Nr. XI-1152) įsigaliojimo buvo laikomas individualios veiklos turtu, pardavimo ar kitokio perleidimo nuosavybėn pajamas.
+28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą (įskaitant kilnojamąjį pagal prigimtį daiktą, kuris nekilnojamuoju pripažįstamas pagal įstatymus), jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir 54 punktuose nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 10 metų iki jo pardavimo ar kitokio perleidimo nuosavybėn; 
+TAR pastaba. 28 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio punkto pakeitimai:
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
+ 
 
 
 
 
-29) (neteko galios nuo 2013-07-13);
+29) neteko galios nuo 2013-07-13;
 
 
 
 
-30) pajamų iš finansinių priemonių pardavimo ar kitokio perleidimo nuosavybėn ar išvestinių finansinių priemonių realizavimo, išskyrus tikslinėse teritorijose įsteigtų vienetų išleistas finansines priemones, ir šių finansinių priemonių įsigijimo kainos ir kitų šio Įstatymo 19 straipsnyje nurodytų su jų pardavimu ar kitokiu perleidimu nuosavybėn bei išvestinių finansinių priemonių realizavimu susijusių išlaidų skirtumas, neviršijantis 3 000 eurų per mokestinį laikotarpį. Ši lengvata netaikoma tuo atveju, kai akcininkas akcijas parduoda arba kitaip perleidžia nuosavybėn šias akcijas išleidusiam vienetui, kai vertybiniai popieriai laikomi parduotais pagal šio Įstatymo 11 straipsnį, taip pat parduodant ar kitaip perleidžiant akcijas, kurios gautos šio Įstatymo 2 straipsnio 14 dalies 1 punkte nurodytu atveju (akcijų nominalios vertės padidinimo atveju lengvata netaikoma pajamų daliai, kuri lygi akcijos nominalios vertės padidinimo sumai); 
-TAR pastaba. 30 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+30) pajamų iš finansinių priemonių pardavimo ar kitokio perleidimo nuosavybėn ar išvestinių finansinių priemonių realizavimo, išskyrus tikslinėse teritorijose įsteigtų vienetų išleistas finansines priemones, ir šių finansinių priemonių įsigijimo kainos ir kitų šio Įstatymo 19 straipsnyje nurodytų su jų pardavimu ar kitokiu perleidimu nuosavybėn bei išvestinių finansinių priemonių realizavimu susijusių išlaidų skirtumas, neviršijantis 500 eurų per mokestinį laikotarpį. Ši lengvata netaikoma tuo atveju, kai akcininkas akcijas parduoda arba kitaip perleidžia nuosavybėn šias akcijas išleidusiam vienetui, kai vertybiniai popieriai laikomi parduotais pagal šio Įstatymo 11 straipsnį, taip pat parduodant ar kitaip perleidžiant akcijas, kurios gautos šio Įstatymo 2 straipsnio 14 dalies 1 punkte nurodytu atveju (akcijų nominalios vertės padidinimo atveju lengvata netaikoma pajamų daliai, kuri lygi akcijos nominalios vertės padidinimo sumai);
+TAR pastaba. 30 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
 
 
@@ -1759,17 +1764,18 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 20 straipsnis. Neapmokestinamasis pajamų dydis ir papildomas neapmokestinamasis pajamų dydis
 
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 1 992 eurai, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija 3 480 eurų. Jeigu GMP viršija 3 480 eurų, MNPD, jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 2 400 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
- Gyventojui taikytinas MNPD = 1 992 – 0,26 x (GMP – 3 480).“ 
+ Gyventojui taikytinas MNPD = 2 400 – 0,34 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių). 
 
 
 
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
 
 
@@ -1778,24 +1784,29 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos neviršija 290 eurų per mėnesį, taikomas mėnesio NPD yra 166 eurai;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 200 eurų;
 
 
 
 
-2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos viršija 290 eurų per mėnesį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
 
 
- Gyventojui taikytinas mėnesio NPD = 166 – 0,26 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – 290). 
 
 
 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+
+ Gyventojui taikytinas mėnesio NPD = 200 – 0,34 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis). 
+
+
+
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
 
 
@@ -1816,10 +1827,11 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 235 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, ar asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 175 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD dydį, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
-TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 270 eurų. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, ar asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 210 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD dydį, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui. 
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
 
 
@@ -1830,10 +1842,11 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-8. Nuolatiniams Lietuvos gyventojams (tėvams arba įtėviams), auginantiems vaikus (įvaikius) iki 18 metų, taip pat vyresnius, jeigu jie mokosi mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu, nuotoliniu mokymo proceso organizavimo būdais, pavienio mokymosi forma savarankišku, nuotoliniu mokymo proceso organizavimo būdais, už kiekvieną auginamą vaiką (įvaikį) yra taikomas 60 eurų papildomas neapmokestinamasis pajamų dydis (toliau – PNPD).
-TAR pastaba. 8 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+8. Nuolatiniams Lietuvos gyventojams (tėvams arba įtėviams), auginantiems vaikus (įvaikius) iki 18 metų, taip pat vyresnius, jeigu jie mokosi mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu, nuotoliniu mokymo proceso organizavimo būdais, pavienio mokymosi forma savarankišku, nuotoliniu mokymo proceso organizavimo būdais, už kiekvieną auginamą vaiką (įvaikį) yra taikomas 120 eurų papildomas neapmokestinamasis pajamų dydis (toliau – PNPD).
+TAR pastaba. 8 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
 
 
@@ -1932,12 +1945,20 @@ Nr. XII-427, 2013-06-27, Žin., 2013, Nr. 75-3756 (2013-07-13)
 
 
 
-6. Gyvybės draudimo sutartims, sudarytoms nuo 2004 m. gegužės 1 d., šio straipsnio 1 dalies 1 punkto nuostatos taikomos, jeigu įmokų gavėjas pagal šias sutartis yra vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje.
+6. Gyvybės draudimo sutartims, sudarytoms nuo 2004 m. gegužės 1 d., šio straipsnio 1 dalies 1 punkto nuostatos taikomos, jeigu įmokų gavėjas pagal šias sutartis yra vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje. 
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
+ 
 
 
 
 
-7. Šio straipsnio 1 dalies 2 punkto nuostatos taikomos, jeigu įmokų gavėjas yra Europos ekonominės erdvės valstybėje įregistruotas ar kitaip organizuotas užsienio vienetas.
+7. Šio straipsnio 1 dalies 2 punkto nuostatos taikomos, jeigu įmokų gavėjas yra Europos ekonominės erdvės valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje įregistruotas ar kitaip organizuotas užsienio vienetas.
+TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
+ 
 
 
 Straipsnio pakeitimai:
@@ -3119,3 +3140,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2 ir 18 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1573, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05687
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17, 20 ir 21 straipsnių pakeitimo įstatymas
