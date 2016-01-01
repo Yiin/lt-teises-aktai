@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-12-11 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-04-26
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -209,7 +209,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Privatizavimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, savivaldybių privatizavimo fondus.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+ 
 
 
 
@@ -588,7 +591,10 @@ VALSTYBĖS BIUDŽETAS
 
 
 
-2) pajamos iš valstybės turto (išskyrus pajamas, gaunamas įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančias akcijas ir pardavus valstybei nuosavybės teise priklausančius nekilnojamuosius daiktus);
+2) pajamos iš valstybės turto (išskyrus pajamas, gautas atliekant valstybės nekilnojamojo turto atnaujinimą, taip pat įstatymų nustatytą pajamų, gautų realizavus valstybės ilgalaikį materialųjį ir nematerialųjį turtą, dalį, neįskaitomą į valstybės biudžeto pajamas); 
+Straipsnio punkto pakeitimai:
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+ 
 
 
 
@@ -615,7 +621,10 @@ VALSTYBĖS BIUDŽETAS
 
 
 
-2. Į valstybės biudžeto pajamas gali būti įskaitoma dalis pajamų, gautų teisės aktų nustatyta tvarka realizavus valstybės ilgalaikį materialųjį ir nematerialųjį turtą. Pajamų dalies įmokos į valstybės biudžeto pajamas dydį nustato įstatymai arba Vyriausybės nutarimai.
+2. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+ 
 
 
 Straipsnio pakeitimai:
@@ -1024,7 +1033,12 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 
 
-3. Savivaldybės biudžeto deficitas negali viršyti tais metais planuojamų išlaidų iš skolintų (neviršijant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme patvirtintų savivaldybių skolinimosi limitų) lėšų investicijų projektams finansuoti dydžio. Kiekvienos savivaldybės, kurios biudžeto išlaidos pagal pinigų srautus viršija 0,3 procento praėjusių metų BVP to meto kainomis, biudžetas vykdomas taip, kad biudžetinių metų išlaidos pagal įsipareigojimus neviršytų nominalių pajamų pagal įsipareigojimus, išskyrus išlaidas investicijų projektams finansuoti.
+3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 4 dalyje. 
+3 dalies redakcija nuo 2018-01-01:
+3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse.
+Straipsnio dalies pakeitimai:
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+ 
 
 
 
@@ -1056,7 +1070,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2) pajamos iš savivaldybių turto (išskyrus pajamas, gaunamas įstatymų nustatyta tvarka privatizavus savivaldybei nuosavybės teise priklausančias akcijas ir pardavus savivaldybei nuosavybės teise priklausančius nekilnojamuosius daiktus);
+2) pajamos iš savivaldybių turto;
+Straipsnio punkto pakeitimai:
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+ 
 
 
 
@@ -1136,12 +1153,25 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2. Savivaldybės administracijos direktoriaus rezervo lėšos naudojamos tik ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies apmokėti savivaldybių tarybų nustatyta tvarka.
+2. Savivaldybės administracijos direktoriaus rezervo lėšos naudojamos savivaldybės tarybos nustatyta tvarka:
+
+
+1) ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies apmokėti; 
 
 
 
 
- Straipsnio pakeitimai:
+2) gaisrų ir stichinių nelaimių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies apmokėti.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1884, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10782
+ 
+
+
+
+
+Straipsnio pakeitimai:
 Nr. XI-2069, 2012-06-14, Žin., 2012, Nr. 76-3923 (2012-06-30)
  
 
@@ -1150,7 +1180,6 @@ Nr. XI-2069, 2012-06-14, Žin., 2012, Nr. 76-3923 (2012-06-30)
 
 
 1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis, patvirtintais savivaldybių strateginio planavimo dokumentais, taip pat savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais.
- 
 
 
 
@@ -1185,7 +1214,10 @@ Nr. XI-2069, 2012-06-14, Žin., 2012, Nr. 76-3923 (2012-06-30)
 
 
 
-6. Patvirtintus biudžetus ir savivaldybių privatizavimo fondo sąmatas savivaldybių administracijų direktoriai pateikia Finansų ministerijai.
+6. Patvirtintus biudžetus savivaldybių administracijų direktoriai pateikia Finansų ministerijai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+ 
 
 
 
@@ -1952,3 +1984,13 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 20 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1884, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10782
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 25 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 13, 22 ir 26 straipsnių pakeitimo įstatymas
