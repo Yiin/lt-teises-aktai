@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-05-27 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-05-24
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
  
@@ -319,7 +319,10 @@ PAGALBOS VALDYMAS IR ORGANIZAVIMAS
 
 
 
-4. Specializuotos pagalbos centrai teikia specializuotą kompleksinę pagalbą.
+4. Specializuotos pagalbos centrai specializuotą kompleksinę pagalbą teikia visą parą.
+Straipsnio dalies pakeitimai:
+Nr. XII-815, 2014-04-10, paskelbta TAR 2014-04-17, i. k. 2014-04537
+ 
 
 
 
