@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -386,7 +386,10 @@ personalas
 
 
 
-4. Specialieji patarėjai – valstybės tarnautojai, laikinai perkelti dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos, padedantys įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių santykių srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo tvarką, jų darbo užsienyje ypatumus ir sąlygas nustato Vyriausybė.
+4. Specialieji patarėjai – valstybės tarnautojai, laikinai perkelti dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos, padedantys įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių santykių srityje. Valstybės tarnautojai prireikus gali būti laikinai perkelti į specialaus patarėjo pareigas ir Lietuvos Respublikos diplomatinėje atstovybėje užsienio valstybėje padėti įgyvendinti Lietuvos Respublikos užsienio politiką gynybos srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo tvarką, jų darbo užsienyje ypatumus ir sąlygas nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XII-2029, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18706
+ 
 
 
 Straipsnio pakeitimai:
@@ -2411,7 +2414,7 @@ Darbdavio atstovas              __________________        �
 (parašas)                                            (vardas ir pavardė)
 A. V.
  
-Diplomatas                        __________________              ________________________
+Diplomatas                        __________________              ________________________
 (parašas)                                                     (vardas ir pavardė)
  
  
@@ -2687,3 +2690,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1138, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13605
 Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 54, 55 ir 70 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2029, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18706
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 14 straipsnio pakeitimo įstatymas
