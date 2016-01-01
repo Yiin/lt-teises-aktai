@@ -13,15 +13,23 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-05-11
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
  
+TAR pastaba. Asmenys, kurie iki šio įstatymo (Nr. XII-1919) įsigaliojimo (2016-01-01) buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje jie gyvena, privalo per 6 mėnesius, įsigaliojus šiam įstatymui, šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaruoti savo gyvenamąją vietą arba, jeigu atitinka šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 ar 2 dalyje nustatytas sąlygas, pateikti prašymus įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą. Asmenys, kurie iki šio įstatymo (Nr. XII-1919) įsigaliojimo (2016-01-01) deklaruodami savo gyvenamąją vietą nebuvo nurodę visų gyvenamosios vietos adresą sudarančių duomenų (buvo nurodyta tik gyvenamoji vietovė), privalo per 6 mėnesius, įsigaliojus šiam įstatymui, kreiptis į gyvenamosios vietos deklaravimo įstaigą dėl deklaruotos gyvenamosios vietos adreso pakeitimo (tikslinimo).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1919, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11182
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymas
  
-LIETUVOS RESPUBLIKOS GYVENAMOSIOS VIETOS DEKLARAVIMO Į S T A T Y M A S
+Nauja redakcija nuo 2016-01-01:
+Nr. XII-1919, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11182
+ 
+LIETUVOS RESPUBLIKOS GYVENAMOSIOS VIETOS DEKLARAVIMO ĮSTATYMAS
  
 1998 m. liepos 2 d. Nr. VIII-840
 Vilnius
+ 
  
 
 
@@ -33,25 +41,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato Lietuvos Respublikos gyventojų gyvenamosios vietos deklaravimo (toliau – deklaravimas) sąlygas ir tvarką, deklaravimo duomenų pateikimą, apskaitą, tvarkymą ir naudojimą, nevaržant asmenų teisės laisvai kilnotis ir pasirinkti gyvenamąją vietą Lietuvos Respublikoje, laisvai išvykti iš Lietuvos, išskyrus tuos atvejus, kai šios teisės varžomos kitų įstatymų.
+1. Šis įstatymas nustato gyvenamosios vietos deklaravimo sąlygas ir tvarką, gyvenamosios vietos deklaravimo duomenų pateikimą, apskaitą, tvarkymą ir naudojimą, nevaržant asmenų teisės laisvai kilnotis ir pasirinkti gyvenamąją vietą Lietuvos Respublikoje, laisvai išvykti iš Lietuvos Respublikos, išskyrus atvejus, kai šios teisės varžomos kitų įstatymų ir tik jeigu tai būtina valstybės saugumui, žmonių sveikatai apsaugoti, taip pat vykdant teisingumą. 
 
 
 
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede, nuostatomis. 
-
-
-Straipsnio pakeitimai:
-Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
- 
-
-
-
-
-2 straipsnis. Deklaravimo tikslai
-
-
-Deklaravimo tikslai yra rinkti ir kaupti duomenis apie asmenų gyvenamąją vietą, siekiant vykdyti valstybinius uždavinius, gerinti administravimą, įgyvendinti švietimo, socialinės apsaugos, sveikatos priežiūros bei kitas su asmeniu, jo gyvenamąja vieta bei gerove susijusias programas, užtikrinant, kad duomenys apie asmens gyvenamąją vietą būtų pateikiami tik vienai šiuos duomenis renkančiai institucijai.
+2. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytų Europos Sąjungos teisės aktų nuostatomis.
  
 
 
@@ -59,56 +54,55 @@ Deklaravimo tikslai yra rinkti ir kaupti duomenis apie asmenų gyvenamąją viet
 
 
 
-3 straipsnis. Pagrindinės Įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Gyvenamosios vietos deklaravimas – gyvenamosios vietos adresą sudarančių duomenų pateikimas deklaravimo įstaigai.
-
-
-
-
-2. Gyvenamoji vieta – pagrindinė vieta, kurioje asmuo faktiškai dažniausiai gyvena ir su kuria jis yra labiausiai susijęs.
+1. Benamis – asmuo, neturintis nuosavybės teise patalpos ar pastato ar kitos teisės naudotis tokia patalpa ar pastatu ir gyvenantis laikinojo apgyvendinimo įstaigose ar viešose vietose. 
 
 
 
 
-3. Lietuvos Respublikos gyventojas – Lietuvos Respublikos teritorijoje gyvenantis Lietuvos Respublikos pilietis, užsienio valstybės pilietis ar asmuo be pilietybės.
+2. Gyvenamosios vietos deklaravimas – gyvenamosios vietos adresą sudarančių ir kitų šiame įstatyme nustatytų duomenų pateikimas gyvenamosios vietos deklaravimo įstaigai. Gyvenamosios vietos adresą sudarantys duomenys yra: savivaldybės pavadinimas; seniūnijos pavadinimas (išskyrus miestuose esančias seniūnijas); gyvenamosios vietovės pavadinimas; gatvės pavadinimas; žemės sklypo ir (ar) pastato numeris gatvėje arba gyvenamojoje vietovėje; pastato pavadinimas, jeigu suteiktas tuo adresu esančiam adreso objektui; korpuso numeris, jeigu toks suteiktas; patalpos numeris pastate ar korpuse; pašto kodas. 
 
 
 
 
-4. Gyvenamosios vietos adresas – pagrindinės gyvenamosios vietos, t. y. namo, buto ar kitos patalpos (toliau – gyvenamoji patalpa), nurodymas.
+3. Gyvenamosios vietos deklaravimo duomenų tvarkymas – gyvenamosios vietos deklaravimo duomenų rinkimas, įrašymas, kaupimas, apdorojimas, klasifikavimas, grupavimas, saugojimas, teikimas, naudojimas, jungimas, keitimas (papildymas ar taisymas), paskelbimas, paieška, skleidimas, naikinimas, loginės ir (ar) aritmetinės operacijos ar kitoks veiksmas arba nurodytų veiksmų rinkinys.
 
 
 
 
-5. Gyvenamosios vietos deklaravimo duomenų tvarkymas – deklaravimo duomenų rinkimas, įrašymas, kaupimas, apdorojimas, saugojimas, teikimas, naudojimas, keitimas (papildymas ar taisymas), naikinimas.
+4. Gyvenamoji vieta – pagrindinė vieta, kurioje asmuo faktiškai dažniausiai gyvena ir su kuria jis yra labiausiai susijęs.
 
 
 
 
-6. Gyvenamosios vietos deklaravimo duomenų valdytojas – Lietuvos Respublikos Vyriausybės įgaliota institucija, kuri užtikrina gyvenamosios vietos deklaravimo duomenų apskaitą ir nustato deklaravimo duomenų tvarkymo tikslus ir priemones.
-Straipsnio dalies pakeitimai:
-Nr. X-395, 2005-11-17, Žin., 2005, Nr. 143-5169 (2005-12-08), i. k. 1051010ISTA000X-395
+5. Naudingasis būsto plotas – bendras gyvenamųjų kambarių ir kitų būsto patalpų (virtuvių, sanitarinių mazgų, koridorių, įstatytų spintų, šildomų lodžijų ir kitų šiltų pagalbinių patalpų) grindų plotas. Į naudingąjį būsto plotą neįskaitomas balkonų, terasų, rūsių, nešildomų lodžijų grindų plotas. Šis plotas apskaičiuojamas pagal kadastrinių matavimų duomenis. Mažiausias naudingasis būsto plotas asmeniui, būste deklaravusiam gyvenamąją vietą, turi būti ne mažesnis kaip 5 kvadratiniai metrai. 
  
 
 
 
 
-7. Gyvenamosios vietos deklaravimo duomenų naudotojas – fizinis ar juridinis asmuo, kuriam teikiami deklaravimo duomenys.
 
 
+3 straipsnis. Gyvenamosios vietos deklaravimo tikslai
 
 
-8. Neturintys gyvenamosios vietos asmenys – asmenys, kurie neturi gyvenamosios patalpos arba kurie dėl objektyvių priežasčių šio įstatymo nustatyta tvarka negali deklaruoti gyvenamosios vietos.
-Papildyta straipsnio dalimi:
-Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
+Gyvenamosios vietos deklaravimo tikslai yra rinkti ir kaupti duomenis apie asmenų gyvenamąją vietą, gerinti viešąjį administravimą.
  
 
 
-Straipsnio pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
+
+
+
+
+4 straipsnis. Pareiga deklaruoti gyvenamąją vietą
+
+
+Lietuvos Respublikoje gyvenantys asmenys privalo šiame įstatyme nustatytomis sąlygomis ir tvarka deklaruoti savo gyvenamąją vietą, išskyrus šio įstatymo 8 straipsnyje nustatytas išlygas, arba būti įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą.
  
+
+
 
 
 
@@ -120,33 +114,35 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
  
 
 
-4 straipsnis. Deklaravimo subjektai
+5 straipsnis. Gyvenamosios vietos deklaravimas
 
 
 1. Gyvenamąją vietą privalo deklaruoti:
 
 
-1) Lietuvos Respublikos piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau kaip 183 dienoms per metus, keičiantys gyvenamąją vietą Lietuvos Respublikoje ar išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui;
+1) Lietuvos Respublikos piliečiai, gimę ir gyvenantys Lietuvos Respublikoje, atvykę gyventi į Lietuvos Respubliką ilgiau kaip 183 dienoms per metus, keičiantys gyvenamąją vietą Lietuvos Respublikoje;
 
 
 
 
-2) Europos Sąjungos valstybių narių piliečiai ar Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau kaip tris mėnesius per pusę metų ir Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgiję teisę gyventi Lietuvos Respublikoje, keičiantys gyvenamąją vietą Lietuvos Respublikoje ar išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui;
+2) Europos Sąjungos valstybių narių ar Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau kaip 3 mėnesiams per pusę metų ir Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgiję teisę gyventi Lietuvos Respublikoje, keičiantys gyvenamąją vietą Lietuvos Respublikoje;
 
 
 
 
-3) leidimą gyventi Lietuvos Respublikoje turintys užsienio valstybių, ne Europos Sąjungos valstybių narių ar ne Europos laisvosios prekybos asociacijos valstybių narių, piliečiai ir asmenys be pilietybės, atvykę gyventi į Lietuvos Respubliką ar keičiantys gyvenamąją vietą Lietuvos Respublikoje arba išvykstantys iš Lietuvos Respublikos ilgesniam kaip šešių mėnesių laikotarpiui.
-
-
-Straipsnio dalies pakeitimai:
-Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
- 
+3) užsienio valstybių, ne Europos Sąjungos valstybių narių ar ne Europos laisvosios prekybos asociacijos valstybių narių piliečiai ir asmenys be pilietybės, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka yra išduotas dokumentas, patvirtinantis ar suteikiantis teisę gyventi Lietuvos Respublikoje, atvykę gyventi į Lietuvos Respubliką ar keičiantys gyvenamąją vietą Lietuvos Respublikoje;
 
 
 
 
-2. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai, įtėviai, globėjai arba kiti asmenys, kurie pagal įstatymą ar kitą teisės aktą privalo jais rūpintis, jiems atstovauti, ginti jų teises ir teisėtus interesus, išskyrus atvejus, nurodytus šio straipsnio 3 ir 4 dalyse.
+4) asmenys, kurie šio įstatymo nustatytais atvejais buvo deklaravę gyvenamąją vietą nustatytam laikotarpiui ar įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą nustatytam laikotarpiui, šiam terminui pasibaigus. 
+
+
+
+
+
+
+2. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai, įtėviai, globėjai (rūpintojai) arba kiti atstovai pagal įstatymą, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus atvejus.
 
 
 
@@ -156,29 +152,17 @@ Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA
 
 
 
-4. Nepilnamečiai, kuriems sukako 16 metų, deklaruoja gyvenamąją vietą, jei negyvena kartu su tėvais, įtėviais, globėjais arba kitais teisėtais atstovais ir pastarieji jų gyvenamosios vietos nedeklaravo.
+4. Nepilnamečiai, kuriems sukako 16 metų, gyvenamąją vietą deklaruoja patys, jeigu negyvena kartu su tėvais, įtėviais, globėjais (rūpintojais) arba kitais atstovais pagal įstatymą ir pastarieji jų gyvenamosios vietos nedeklaravo.
 
 
 
 
-5. Asmenų, kuriems yra įsteigta globa ar rūpyba, gyvenamąją vietą deklaruoja globėjai, rūpintojai, socialinės globos, sveikatos priežiūros įstaigų, kurioms pavesta eiti globėjų, rūpintojų pareigas, administracija.
+5. Asmenų, kuriems yra nustatyta globa ar rūpyba, gyvenamąją vietą deklaruoja globėjai (rūpintojai), socialinės globos, sveikatos priežiūros įstaigų, kurioms pavesta eiti globėjų (rūpintojų) pareigas, administracija.
 
 
 
 
-6. Užsienio valstybėse gyvenantys asmenys, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgiau negu šešis mėnesius, apie gyvenamosios vietos pakeitimą deklaruoja Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose užsienio valstybėse.
-Papildyta straipsnio dalimi:
-Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
-Straipsnio dalies pakeitimai:
-Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
- 
-
-
-
-
-7. Gyvenamosios vietos neturintys asmenys Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka į apskaitą įtraukiami pagal savivaldybę, kurioje jie gyvena. Gyvenamosios vietos neturintys asmenys deklaravimo įstaigai pateikia šio įstatymo 6 straipsnio 2 dalies 1–6 punktuose nustatytus duomenis ir nurodo,  kurioje savivaldybėje jie gyvena ir iš kur atvyko.
-Papildyta straipsnio dalimi:
-Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
+6. Užsienio valstybių piliečiai ar asmenys be pilietybės, kuriems patvirtinta ar suteikta teisė gyventi Lietuvos Respublikoje, gyvenamosios vietos deklaraciją pateikia gyvenamosios vietos deklaravimo įstaigai (toliau – deklaravimo įstaiga) per Lietuvos Respublikos vidaus reikalų ministro įgaliotas institucijas. Deklaravimo įstaiga šiems asmenims išduoda dokumentą, patvirtinantį ar suteikiantį teisę gyventi Lietuvos Respublikoje. Šie asmenys, pakeitę gyvenamąją vietą, gyvenamosios vietos deklaraciją pateikia tiesiogiai vienai iš deklaravimo įstaigų.
  
 
 
@@ -186,18 +170,90 @@ Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010IST
 
 
 
-5 straipsnis. Atleidimas nuo deklaravimo
+6 straipsnis. Įtraukimas į gyvenamosios vietos neturinčių asmenų apskaitą 
+
+
+1. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka į gyvenamosios vietos neturinčių asmenų apskaitą 6 mėnesių laikotarpiui pagal savivaldybę, kurios teritorijoje jie faktiškai gyvena, įtraukiami benamiai.
+
+
+
+
+2. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka į gyvenamosios vietos neturinčių asmenų apskaitą, jeigu jie nėra deklaravę gyvenamosios vietos, taip pat įtraukiami:
+
+
+1) asmenys, kurie buvo globojami (rūpinami) vaikų globos institucijose ar šeimynose, kai jie išleidžiami iš vaikų globos institucijos arba palieka šeimyną, ne ilgesniam kaip 6 mėnesių laikotarpiui – pagal savivaldybę, kurios teritorijoje jie faktiškai gyvena;
+
+
+
+
+2) asmenys, kuriems teismo nutartimi paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, šių priemonių taikymo laikotarpiu – pagal savivaldybę, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta;
+
+
+
+
+3) asmenys, laikomi tardymo izoliatoriuose ir pataisos įstaigose, visą buvimo šiose įstaigose laikotarpį – pagal savivaldybę, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta arba kurios teritorijoje jie faktiškai gyveno iki suėmimo arba bausmės atlikimo.
+
+
+
+
+
+
+3. Šio straipsnio 1 dalyje ir 2 dalies 1 ir 3 punktuose nurodyti asmenys į gyvenamosios vietos neturinčių asmenų apskaitą įtraukiami, kai jie deklaravimo įstaigai pateikia šio įstatymo 9 straipsnio 2 dalies 1–7 punktuose nurodytus duomenis.
+
+
+
+
+4. Šio straipsnio 2 dalies 2 punkte nurodyti asmenys į gyvenamosios vietos neturinčių asmenų apskaitą įtraukiami priverčiamąsias medicinos priemones teikiančios stacionarinio stebėjimo specializuotos psichikos sveikatos priežiūros įstaigos prašymu.
+
+
+
+
+5. Į gyvenamosios vietos neturinčių asmenų apskaitą gali būti įtraukiami tik tie šio straipsnio 1 ir 2 dalyse nurodyti asmenys, kurie yra Lietuvos Respublikos piliečiai arba užsienio valstybių piliečiai ar asmenys be pilietybės, turintys Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje arba pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti, arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę. 
+
+
+
+
+6. Prašymą įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą deklaravimo įstaiga privalo išnagrinėti ir priimti sprendimą ne vėliau kaip per 3 darbo dienas nuo prašymo gavimo dienos. 
+
+
+
+
+7. Į gyvenamosios vietos neturinčių asmenų apskaitą negali būti įtraukti šio straipsnio 2 dalyje nurodyti asmenys, Lietuvos Respublikos teritorijoje nuosavybės teise turintys patalpų ar pastatų.
+ 
+
+
+
+
+
+
+7 straipsnis. Išvykimo iš Lietuvos Respublikos deklaravimas
+
+
+1. Išvykimą iš Lietuvos Respublikos privalo deklaruoti šio įstatymo 5 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti asmenys, išvykstantys iš Lietuvos Respublikos ilgiau kaip 6 mėnesiams. 
+
+
+
+
+2. Užsienio valstybėse gyvenantys asmenys, kurie iš Lietuvos Respublikos išvyko trumpiau kaip 6 mėnesiams, tačiau užsienio valstybėje pasiliko ilgiau kaip 6 mėnesius, išvykimą iš Lietuvos Respublikos deklaruoja Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose užsienio valstybėse.
+ 
+
+
+
+
+
+
+8 straipsnis. Atleidimas nuo gyvenamosios vietos deklaravimo
 
 
 1. Gyvenamosios vietos nedeklaruoja:
 
 
-1) užsieniečiai, kurie yra užsienio valstybių diplomatinių ir prekybos atstovybių, konsulinių įstaigų bei tarptautinių organizacijų atstovybių, akredituotų Lietuvos Respublikoje, darbuotojai (diplomatai, administracinis bei techninis ir aptarnaujantis personalas), bei jų šeimos nariai visą akreditavimo laiką;
+1) užsieniečiai, kurie yra užsienio valstybių diplomatinių atstovybių, konsulinių įstaigų ir tarptautinių organizacijų atstovybių, akredituotų Lietuvos Respublikoje, darbuotojai (diplomatai, administracinis, techninis ir aptarnaujantis personalas), ir jų šeimos nariai visą akreditavimo laiką;
 
 
 
 
-2) užsieniečiai, kurie yra užsienio valstybių visuomenės informavimo priemonių, akredituotų Lietuvos Respublikoje, atstovai, bei jų šeimos nariai, užsieniečiai, akredituoti prie valstybės institucijų, bei jų šeimos nariai visą akreditavimo laiką.
+2) užsieniečiai, kurie yra užsienio valstybių visuomenės informavimo priemonių, akredituotų Lietuvos Respublikoje, atstovai, ir jų šeimos nariai, taip pat užsieniečiai, akredituoti prie valstybės institucijų, ir jų šeimos nariai visą akreditavimo laiką.
 
 
 
@@ -212,33 +268,33 @@ Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010IST
 
 
 
-6 straipsnis. Deklaravimo duomenys
+9 straipsnis. Gyvenamosios vietos deklaravimo duomenys
 
 
-1. Deklaravimo duomenys yra sudėtinė informacijos apie Lietuvos Respublikos gyventojus dalis.
-
-
-
-
-2. Deklaruojant gyvenamąją vietą, pateikiami šie deklaravimo duomenys:
-
-
-1) asmens kodas ar neturinčiųjų asmens kodo gimimo data;
+1. Gyvenamosios vietos deklaravimo duomenys (toliau – deklaravimo duomenys) yra sudedamoji informacijos apie Lietuvos Respublikoje gyvenančius asmenis dalis.
 
 
 
 
-2) vardas (-ai);
+2. Deklaruojant gyvenamąją vietą, išvykimą iš Lietuvos Respublikos ar teikiant prašymą įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, pateikiami šie deklaravimo duomenys:
+
+
+1) Lietuvos Respublikoje suteiktas asmens kodas ar neturinčiųjų asmens kodo gimimo data;
 
 
 
 
-3) pavardė;
+2) vardas (vardai);
 
 
 
 
-4) ankstesnė pavardė;
+3) pavardė (pavardės);
+
+
+
+
+4) gyvenamosios vietos deklaracijos ar prašymo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą pateikimo data;
 
 
 
@@ -248,65 +304,78 @@ Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010IST
 
 
 
-6) asmens tapatybę patvirtinančio dokumento tipas, serija, numeris, išdavimo data ir vieta;
+6) asmens tapatybę patvirtinančių dokumentų, taip pat užsieniečių asmens dokumentų, patvirtinančių jų teisėtą atvykimą į Lietuvos Respubliką ir buvimą joje, kurie gali būti naudojami deklaruojant gyvenamąją vietą, duomenys (asmens dokumentą išdavusios valstybės pavadinimas, asmens dokumento rūšis, serija ir numeris, išdavimo data ir galiojimo data);
 
 
 
 
-7) gyvenamosios vietos adresas;
+7) asmens kontaktiniai duomenys (telefono numeris, elektroninio pašto adresas); 
 
 
 
 
-8) duomenys apie gyvenamosios patalpos savininką (bendraturčius) (jei tai fizinis asmuo, – jo vardas, pavardė, asmens kodas ar gimimo data ir gyvenamoji vieta; jei tai juridinis asmuo, – juridinio asmens pavadinimas, kodas, buveinės adresas); 
+8) gyvenamosios vietos adresas arba savivaldybės pavadinimas (kai asmuo pateikia prašymą įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą), arba valstybės pavadinimas (kai asmuo deklaruoja išvykimą iš Lietuvos Respublikos);
 
 
 
 
-9) ankstesnės gyvenamosios vietos adresas;
+9) duomenys apie patalpos ar pastato savininką (bendraturčius) (jeigu tai fizinis asmuo, – jo vardas, pavardė, gimimo data ir gyvenamoji vieta; jeigu tai juridinis asmuo, – juridinio asmens pavadinimas, kodas, buveinės adresas);
 
 
 
 
-10) atvykimo į tą gyvenamąją vietą data;
+10) duomenys apie naudingąjį būsto plotą; unikalus patalpos ar pastato numeris; 
 
 
 
 
-11) išvykimo iš gyvenamosios vietos data (nurodoma išvykstant iš Lietuvos Respublikos).
+11) data, iki kurios galioja deklaravimo duomenys (kai šiame įstatyme nustatytais atvejais gyvenamoji vieta deklaruojama tam tikram laikotarpiui, taip pat kai asmuo įtraukiamas į gyvenamosios vietos neturinčių asmenų apskaitą);
+
+
+
+
+12) išvykimo iš gyvenamosios vietos data (nurodoma išvykstant iš Lietuvos Respublikos).
 
 
 
 
 
 
-3. Deklaravimo duomenys turi atitikti juos patvirtinančių dokumentų duomenis.
+3. Deklaravimo duomenys turi atitikti juos patvirtinančių dokumentų ir valstybės registrų duomenis.
 
 
-Straipsnio pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
+
+
+4. Valstybinei (valstybės perduotai savivaldybėms) deklaravimo duomenų ir gyvenamosios vietos neturinčių asmenų apskaitos duomenų tvarkymo funkcijai atlikti registrų ir valstybės informacinių sistemų duomenys teikiami neatlygintinai.
+
+
+
+
+5. Deklaravimo duomenų teikimo deklaravimo įstaigai tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
  
 
 
 
 
-7 straipsnis. Deklaravimo tvarka
 
 
-1. Lietuvos Respublikos gyventojas vienu metu deklaruoja tik vieną gyvenamąją vietą, net jei gyventų keliose vietose.
+10 straipsnis. Gyvenamosios vietos deklaravimo tvarka
 
 
-
-
-2. Nelaikomi pakeitusiais deklaruotą gyvenamąją vietą:
-
-
-1) Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose bei atstovybėse prie tarptautinių organizacijų, tarptautinėse organizacijose dirbantys Lietuvos Respublikos piliečiai ir kartu su jais išvykę šeimos nariai visą darbo šiose įstaigose ar organizacijose laiką;
+1. Asmuo deklaruoja tik vieną gyvenamąją vietą, net jeigu vienu metu gyvena keliose vietose.
 
 
 
 
-2) asmenys, atliekantys privalomąją karo arba alternatyviąją krašto apsaugos tarnybą;
+2. Pakeitusiais deklaruotą gyvenamąją vietą nelaikomi:
+
+
+1) Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose bei atstovybėse prie tarptautinių organizacijų, tarptautinėse organizacijose dirbantys asmenys, nurodyti šio įstatymo 5 straipsnio 1 dalies 1, 2 ir 3 punktuose, ir kartu su jais išvykę šeimos nariai visą jų darbo šiose įstaigose ar organizacijose laiką;
+
+
+
+
+2) asmenys, atliekantys privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą;
 
 
 
@@ -316,17 +385,17 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 
 
 
-4) moksleiviai ir studentai mokymosi laikotarpiu;
+4) nuolatinės studijų formos studentai mokymosi Europos Sąjungos valstybėse narėse ar Europos laisvosios prekybos asociacijos valstybėse narėse laikotarpiu; 
 
 
 
 
-5) asmenys, atliekantys laisvės atėmimo bausmę, laikomi kardomojo kalinimo vietose;
+5) asmenys, laikomi tardymo izoliatoriuose ir pataisos įstaigose;
 
 
 
 
-6) jūreiviai.
+6) jūrininkai, dirbantys plaukiojančiuose jūrų laivuose.
 
 
 
@@ -338,142 +407,98 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 
 
 
-4. Lietuvos Respublikos gyventojai, kurie yra deklaravę gyvenamąją vietą ir kurių gyvenamoji patalpa nesikeičia pasikeitus buto (namo) numeriui, gatvės, gyvenamosios vietovės ar teritorijos administracinio vieneto pavadinimui, gyvenamosios vietos iš naujo nedeklaruoja.
+4. Asmenys, kurie yra deklaravę gyvenamąją vietą ir kurių gyvenamoji vieta nesikeičia pasikeitus buto, pastato numeriui, gatvės, gyvenamosios vietovės ar teritorijos administracinio vieneto pavadinimui, gyvenamosios vietos iš naujo nedeklaruoja. Gyvenamosiose vietovėse, kuriose pastatų numeriai ir (ar) patalpų numeriai yra suteikti pirmą kartą, asmenų deklaruotos gyvenamosios vietos adresai yra keičiami (tikslinami) pateikus deklaravimo įstaigai asmens arba patalpos ar pastato savininko (bendraturčio) prašymą. 
 
 
 
 
-5. Deklaruojant gyvenamąją vietą, deklaravimo įstaigai turi būti pateiktas gyvenamosios patalpos savininko (bendraturčių) ar jo įgalioto asmens parašu patvirtintas sutikimas, kad asmuo apsigyventų savininkui (bendraturčiams) priklausančioje gyvenamojoje patalpoje.
+5. Deklaruojant gyvenamąją vietą, deklaravimo įstaigai turi būti pateiktas patalpos ar pastato savininko (bendraturčių) arba jo įgalioto asmens parašu patvirtintas sutikimas, kad asmuo apsigyventų savininkui (bendraturčiams) priklausančioje patalpoje ar pastate, arba kitas dokumentas, patvirtinantis asmens teisę gyventi toje patalpoje ar pastate. Jeigu pateiktame dokumente yra nurodyta data, iki kurios leista gyventi nurodytoje patalpoje ar pastate, arba jeigu savininkas (bendraturčiai) nurodė tokią datą gyvenamosios vietos deklaracijoje, deklaravimo duomenys galioja ne ilgiau kaip iki nurodytos datos. 
 
 
 
 
-6. Asmuo laikomas deklaravusiu gyvenamąją vietą nuo deklaracijos pateikimo deklaravimo įstaigai dienos.
+6. Asmuo laikomas deklaravusiu gyvenamąją vietą nuo asmens deklaravimo duomenų įrašymo į Lietuvos Respublikos gyventojų registrą dienos.
 
 
 
 
-7. Deklaravimo taisykles nustato gyvenamosios vietos deklaravimo duomenų valdytojas. 
+7. Jeigu šio įstatymo 5 straipsnio 6 dalyje nustatytu atveju gyvenamosios vietos deklaracija pateikiama deklaravimo įstaigai per Lietuvos Respublikos vidaus reikalų ministro įgaliotas institucijas, institucija, priėmusi užsienio valstybės piliečio ar asmens be pilietybės gyvenamosios vietos deklaraciją, deklaravimo įstaigai ją pateikia ne vėliau kaip per 3 darbo dienas nuo gyvenamosios vietos deklaracijos priėmimo dienos. 
 
 
-Straipsnio pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
+
+
+8. Gyvenamosios vietos deklaravimo taisykles priima Lietuvos Respublikos Vyriausybės įgaliota institucija.
  
 
 
 
 
-8 straipsnis. Deklaravimo duomenų taisymas, keitimas ir naikinimas
+
+
+11 straipsnis. Deklaravimo duomenų taisymas, keitimas ir naikinimas
 
 
 1. Deklaravimo duomenys taisomi, keičiami ir naikinami, jeigu:
 
 
-1) gyvenamąją vietą deklaravęs asmuo deklaravimo įstaigai pateikia prašymą ištaisyti, pakeisti ar panaikinti neteisingus jo deklaravimo duomenis;
+1) gyvenamąją vietą deklaravęs asmuo deklaravimo įstaigai pateikia prašymą ištaisyti ar pakeisti neteisingus jo deklaravimo duomenis;
 
 
 
 
-2) gyvenamosios patalpos savininkas (bendraturčiai) deklaravimo įstaigai pateikia prašymą ištaisyti, pakeisti ar panaikinti jam priklausančioje gyvenamojoje patalpoje savo gyvenamąją vietą deklaravusio asmens pateiktus neteisingus deklaravimo duomenis;
+2) patalpos ar pastato savininkas (bendraturtis) deklaravimo įstaigai pateikia prašymą ištaisyti ar pakeisti jam priklausančioje patalpoje ar pastate savo gyvenamąją vietą deklaravusio asmens pateiktus neteisingus deklaravimo duomenis;
 
 
 
 
-3) gyvenamosios patalpos savininkas (bendraturčiai) deklaravimo įstaigai pateikia prašymą pakeisti jam priklausančioje gyvenamojoje patalpoje savo gyvenamąją vietą deklaravusio ir ją pakeitusio asmens deklaravimo duomenis.
+3) patalpos ar pastato savininkas (bendraturtis) deklaravimo įstaigai pateikia prašymą panaikinti jam priklausančioje patalpoje ar pastate savo gyvenamąją vietą deklaravusio ir ją pakeitusio (išvykusio) asmens deklaravimo duomenis.
 
 
 
 
 
 
-2. Prašymą ištaisyti, pakeisti ar panaikinti deklaravimo duomenis nagrinėja ir sprendimą dėl jų taisymo, keitimo ir panaikinimo priima deklaravimo įstaiga.
+2. Prašymą ištaisyti, pakeisti ar panaikinti deklaravimo duomenis nagrinėja ir sprendimą dėl deklaravimo duomenų taisymo, keitimo ir panaikinimo priima deklaravimo įstaiga.
 
 
 
 
-3. Deklaravimo įstaiga, naudodamasi kitais valstybės registrais bei klasifikatoriais, gali tikrinti deklaravimo duomenų teisingumą ir turi teisę pareikalauti, kad deklaravęs gyvenamąją vietą asmuo arba gyvenamosios patalpos savininkas (bendraturčiai) pateiktų deklaravimo duomenis patvirtinančius ar paneigiančius dokumentus.
+3. Deklaravimo įstaiga, naudodamasi kitais valstybės registrais ir klasifikatoriais, gali tikrinti deklaravimo duomenų teisingumą ir turi teisę pareikalauti, kad deklaravęs gyvenamąją vietą asmuo arba patalpos ar pastato savininkas (bendraturtis) pateiktų deklaravimo duomenis patvirtinančius ar paneigiančius dokumentus.
 
 
 
 
-4. Deklaravimo įstaigos sprendimu deklaravimo duomenys taip pat naikinami, kai:
+4. Deklaravimo įstaiga deklaravimo duomenis taip pat panaikina, kai:
 
 
-1) panaikinamas užsieniečiui išduotas leidimas gyventi Lietuvos Respublikoje;
+1) Europos Sąjungos valstybių narių ar Europos laisvosios prekybos asociacijos valstybių narių piliečiai, jų šeimos nariai neteko teisės gyventi Lietuvos Respublikoje;
 
 
 
 
-2) atsisakoma išduoti ar pakeisti užsieniečiui leidimą gyventi Lietuvos Respublikoje;
+2) panaikinamas užsieniečiui išduotas leidimas gyventi Lietuvos Respublikoje;
 
 
 
 
-3) pasibaigia užsieniečiui išduoto leidimo laikinai gyventi Lietuvos Respublikoje galiojimo laikas; 
+3) atsisakoma išduoti ar pakeisti užsieniečiui leidimą gyventi Lietuvos Respublikoje;
 
 
 
 
-4) asmuo netenka Lietuvos Respublikos pilietybės, Lietuvos Respublikos pilietybės suteikimo aktas ar Lietuvos Respublikos pilietybės įgijimas pripažįstamas negaliojančiu arba pagal Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo (Žin., 2002, Nr. 95-4088) 4 straipsnio 5 dalį priimamas sprendimas dėl asmens Lietuvos Respublikos pilietybės, pagal kurį asmuo nelaikomas Lietuvos Respublikos piliečiu, jeigu tas asmuo per 3 mėnesius nuo Lietuvos Respublikos pilietybės netekimo, Lietuvos Respublikos pilietybės suteikimo akto ar Lietuvos Respublikos pilietybės įgijimo pripažinimo negaliojančiu arba nuo sprendimo, kad asmuo nelaikomas Lietuvos Respublikos piliečiu, priėmimo dienos Lietuvos Respublikos teisės aktų nustatyta tvarka nepateikia prašymo išduoti leidimą gyventi Lietuvos Respublikoje. 
+4) pasibaigia užsieniečiui išduoto leidimo laikinai gyventi Lietuvos Respublikoje ar Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelės galiojimo laikas; 
 
 
-Papildyta straipsnio dalimi:
-Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
- 
 
 
+5) Lietuvos Respublikos pilietybės įstatymo nustatytais pagrindais asmuo netenka Lietuvos Respublikos pilietybės, jeigu šis asmuo per 3 mėnesius nuo sprendimo dėl Lietuvos Respublikos pilietybės netekimo įsigaliojimo dienos Lietuvos Respublikos teisės aktų nustatyta tvarka nepateikia prašymo dėl dokumento, patvirtinančio ar suteikiančio teisę gyventi Lietuvos Respublikoje, išdavimo.
 
 
-5. Sprendimas dėl deklaravimo duomenų taisymo, keitimo ir panaikinimo gali būti skundžiamas teismui.
-Straipsnio dalies pakeitimai:
-Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-2552, 2004-11-09, Žin., 2004, Nr. 171-6306 (2004-11-26), i. k. 1041010ISTA0IX-2552
- 
 
 
-Straipsnio pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
- 
 
 
-
-
-9 straipsnis. Teisė gauti informaciją
-
-
-1. Gyvenamosios patalpos savininkas (bendraturčiai) ar jo įgaliotas asmuo turi teisę iš deklaravimo įstaigos gauti informaciją apie jam priklausančioje gyvenamojoje patalpoje savo gyvenamąją vietą deklaravusius asmenis.
-
-
-
-
-2. Asmuo, deklaravęs savo gyvenamąją vietą, gyvenamosios patalpos savininkas (bendraturčiai) ar jo įgaliotas asmuo turi teisę iš deklaravimo įstaigos gauti informaciją apie neteisingų deklaravimo duomenų ištaisymą, pakeitimą ar panaikinimą.
-
-
-
-
-3. Atsisakymas suteikti šio straipsnio 1 ir 2 dalyse nurodytą informaciją gali būti skundžiamas gyvenamosios vietos deklaravimo duomenų valdytojui arba teismui.
-
-
-Straipsnio pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
- 
-
-
-
-
-10 straipsnis. Deklaravimo terminas
-
-
-1. Asmenys, privalantys deklaruoti gyvenamąją vietą, ją deklaruoja per 7 darbo dienas nuo pareigos deklaruoti gyvenamąją vietą atsiradimo.
-Straipsnio dalies pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
- 
-
-
-
-
-2. Asmenys, išvykstantys iš Lietuvos ilgesniam nei šešių mėnesių laikotarpiui, deklaruoja apie gyvenamosios vietos pakeitimą per 7 darbo dienas iki išvykimo.
+5. Asmens deklaravimo duomenys nustoja galioti, kai asmuo miršta.
  
 
 
@@ -481,28 +506,75 @@ Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA
 
 
 
-11 straipsnis. Deklaravimo įstaiga 
+12 straipsnis. Teisė gauti informaciją
 
 
-1. Deklaravimo įstaiga yra gyvenamosios vietos deklaravimo duomenis arba (ir) neturinčių gyvenamosios vietos asmenų apskaitą tvarkanti institucija. Gyvenamosios vietos deklaravimo duomenų ir neturinčių gyvenamosios vietos asmenų apskaitos tvarkymo funkciją atlieka savivaldybės. Savivaldybėse, kuriose yra įsteigtos seniūnijos, deklaravimo įstaigos funkciją įgyvendina seniūnija, o savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaravimo įstaigos funkciją įgyvendina kitas savivaldybės administracijos padalinys.
-
-
-
-
-2. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse yra deklaravimo įstaigos, atliekančios asmenų, kurie iš Lietuvos Respublikos išvyko trumpesniam kaip šešių mėnesių laikotarpiui, tačiau liko užsienio valstybėje ilgesniam laikotarpiui, gyvenamosios vietos deklaravimo duomenų tvarkymo funkciją. 
+1. Patalpos ar pastato savininkas (bendraturčiai) ar jo (jų) įgaliotas asmuo turi teisę iš deklaravimo įstaigos gauti informaciją apie jam priklausančioje patalpoje ar pastate gyvenamąją vietą deklaravusius asmenis ir jam priklausančioje patalpoje ar pastate gyvenamąją vietą deklaravusių asmenų asmens duomenis.
 
 
 
 
-3. Deklaravimo įstaiga asmens prašymu išduoda jo deklaruotą gyvenamąją vietą patvirtinantį dokumentą, o neturinčio gyvenamosios vietos asmens, į apskaitą įtraukto Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į neturinčių gyvenamosios vietos asmenų apskaitą. Šioje pažymoje nurodoma savivaldybė, kurioje tas asmuo gyvena.
+2. Asmuo, deklaravęs gyvenamąją vietą, patalpos ar pastato savininkas (bendraturčiai) arba jo (jų) įgaliotas asmuo turi teisę iš deklaravimo įstaigos gauti informaciją apie neteisingų deklaravimo duomenų ištaisymą, pakeitimą ar panaikinimą.
 
 
-Straipsnio pakeitimai:
-Nr. IX-858, 2002-04-23, Žin., 2002, Nr. 45-1711 (2002-05-04), i. k. 1021010ISTA00IX-858
-Nr. IX-2216, 2004-05-04, Žin., 2004, Nr. 80-2834 (2004-05-14), i. k. 1041010ISTA0IX-2216
-Nr. X-395, 2005-11-17, Žin., 2005, Nr. 143-5169 (2005-12-08), i. k. 1051010ISTA000X-395
-Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
+
+
+3. Deklaravimo įstaigos atsisakymas suteikti šio straipsnio 1 ir 2 dalyse nurodytą informaciją gali būti skundžiamas Lietuvos Respublikos gyventojų registro įstatymo ir Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
  
+
+
+
+
+
+
+13 straipsnis. Gyvenamosios vietos deklaravimo terminas
+
+
+1. Asmenys, privalantys deklaruoti gyvenamąją vietą, ją deklaruoja per 15 darbo dienų nuo pareigos deklaruoti gyvenamąją vietą atsiradimo.
+
+
+
+
+2. Užsienio valstybės piliečiai ir asmenys be pilietybės, nurodyti šio įstatymo 5 straipsnio 6 dalyje, gyvenamosios vietos deklaracijas pateikia dokumento, patvirtinančio ar suteikiančio teisę gyventi Lietuvos Respublikoje, atsiėmimo Lietuvos Respublikos vidaus reikalų ministro įgaliotoje institucijoje dieną.
+
+
+
+
+3. Asmenys, išvykstantys iš Lietuvos Respublikos ilgiau kaip 6 mėnesiams, deklaruoja gyvenamosios vietos pakeitimą ne anksčiau kaip 7 darbo dienos iki išvykimo.
+ 
+
+
+
+
+
+
+14 straipsnis. Deklaravimo įstaigos 
+
+
+1. Deklaravimo įstaigos yra deklaravimo duomenis ir (ar) gyvenamosios vietos neturinčių asmenų apskaitą tvarkančios institucijos:
+
+
+1) deklaruojant gyvenamąją vietą ne elektroniniu būdu, išskyrus šios dalies 2 punkte numatytus atvejus, ar tvarkant gyvenamosios vietos neturinčių asmenų apskaitą, savivaldybėse, kuriose yra įsteigtos seniūnijos, deklaravimo įstaigos funkciją įgyvendina seniūnija arba savivaldybės vykdomosios institucijos sprendimu seniūnija ir kitas savivaldybės administracijos padalinys, o savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaravimo įstaigos funkciją įgyvendina kitas savivaldybės administracijos padalinys;
+
+
+
+
+2) asmenims, kurie išvykimo iš Lietuvos Respublikos prieš išvykdami nedeklaravo, deklaruojant gyvenamąją vietą ne elektroniniu būdu, deklaravimo įstaigos funkciją įgyvendina Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse.
+
+
+
+
+
+
+2. Deklaruojant gyvenamąją vietą elektroniniu būdu, deklaravimo įstaigos darbuotojai nedalyvauja ir gyvenamosios vietos deklaravimo procedūros įgyvendinamos elektroninėmis priemonėmis. 
+
+
+
+
+3. Asmens, deklaravusio gyvenamąją vietą, prašymu deklaravimo įstaiga išduoda jo deklaruotą gyvenamąją vietą patvirtinančią pažymą, o į gyvenamosios vietos neturinčių asmenų apskaitą įtraukto asmens prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą. Išduodamų pažymų formą nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
+ 
+
+
 
 
 
@@ -514,10 +586,10 @@ DEKLARAVIMO DUOMENŲ APSKAITA, TVARKYMAS, NAUDOJIMAS
  
 
 
-12 straipsnis. Deklaravimo duomenų apskaita
+15 straipsnis. Deklaravimo duomenų apskaita
 
 
-Gyvenamosios vietos deklaravimo duomenų apskaitą atlieka Vyriausybės įgaliota institucija – gyvenamosios vietos deklaravimo duomenų valdytojas.
+Deklaravimo duomenų apskaitą tvarko Lietuvos Respublikos Vyriausybės įgaliota institucija.
  
 
 
@@ -525,23 +597,21 @@ Gyvenamosios vietos deklaravimo duomenų apskaitą atlieka Vyriausybės įgaliot
 
 
 
-13 straipsnis. Deklaravimo duomenų tvarkymas
+16 straipsnis. Deklaravimo duomenų tvarkymas
 
 
-Gyvenamosios vietos deklaravimo duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, kitais Lietuvos Respublikos įstatymais ir norminiais teisės aktais.
-
-
-Straipsnio pakeitimai:
-Nr. X-395, 2005-11-17, Žin., 2005, Nr. 143-5169 (2005-12-08), i. k. 1051010ISTA000X-395
+Deklaravimo duomenys tvarkomi vadovaujantis šiuo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir kitais Lietuvos Respublikos teisės aktais.
  
 
 
 
 
-14 straipsnis. Deklaravimo duomenų naudojimas
 
 
-Gyvenamosios vietos deklaravimo duomenys naudojami įstatymų nustatyta tvarka.
+17 straipsnis. Deklaravimo duomenų naudojimas
+
+
+Deklaravimo duomenys naudojami Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -552,52 +622,14 @@ Gyvenamosios vietos deklaravimo duomenys naudojami įstatymų nustatyta tvarka.
 
 
 IV SKYRIUS
-ATSAKOMYBĖ
- 
-
-
-15 straipsnis. Lietuvos Respublikos gyventojų atsakomybė
-
-
-Lietuvos Respublikos gyventojai, privalantys deklaruoti gyvenamąją vietą, pažeidę šį įstatymą, deklaravimo tvarką ar pateikę melagingus deklaravimo duomenis, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-16 straipsnis. Deklaravimo duomenų valdytojų ir deklaravimo duomenų naudotojų atsakomybė
-
-
-Gyvenamosios vietos deklaravimo duomenų valdytojai, pažeidę duomenų tvarkymo taisykles, ir gyvenamosios vietos deklaravimo duomenų naudotojai, pažeidę duomenų naudojimo tvarką, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
-V SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-17 straipsnis. Įstatymo įsigaliojimo ir įgyvendinimo tvarka
+18 straipsnis. Atsakomybė
 
 
-1. Šis įstatymas įsigalioja nuo 2003 m. sausio 1 d.
-
-
-
-
-2. Šio įstatymo įgyvendinimo tvarką nustato Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo įgyvendinimo įstatymas.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1598, 2000-03-28, Žin., 2000, Nr. 27-716 (2000-03-31), i. k. 1001010ISTAIII-1598
+Asmenys, pažeidę šį įstatymą, gyvenamosios vietos deklaravimo tvarką ar pateikę melagingus deklaravimo duomenis, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -605,6 +637,19 @@ Nr. VIII-1598, 2000-03-28, Žin., 2000, Nr. 27-716 (2000-03-31), i. k. 1001010IS
 
 
 
+19 straipsnis. Deklaravimo įstaigos sprendimų apskundimo tvarka
+
+
+Deklaravimo įstaigų sprendimai, priimti pagal šį įstatymą, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+
+
+
+
+
+
+
+
+ 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
@@ -614,16 +659,23 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
 
 
 
 
-Lietuvos Respublikos gyvenamosios vietos
-deklaravimo įstatymo priedas
+Lietuvos Respublikos
+gyvenamosios vietos 
+deklaravimo įstatymo 
+priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti reglamentą (EEB) Nr. 1612/68 ir panaikinanti direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
+
+
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
+
+
 Papildyta priedu:
 Nr. X-961, 2006-12-07, Žin., 2006, Nr. 141-5395 (2006-12-28), i. k. 1061010ISTA000X-961
  
@@ -670,3 +722,8 @@ Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 1, 4 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-469, 2009-11-12, Žin., 2009, Nr. 141-6192 (2009-11-28), i. k. 1091010ISTA00XI-469
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 4, 8 ir 11 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1919, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11182
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymas
