@@ -13,13 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
-LIETUVOS RESPUBLIKOS
-KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMAS
  
 1998 m. gegužės 5 d. Nr. VIII-723 Vilnius
  
@@ -3101,7 +3099,10 @@ Nr. X-1389, 2007-12-18, Žin., 2007, Nr. 140-5759 (2007-12-29)
 
 
 
-3. Karys krašto apsaugos ministro įsakymu Vyriausybės nustatyta tvarka paprastai ne ilgiau kaip 3 metams gali būti paskirtas atlikti karo tarnybą kariniu atstovu, jo pavaduotoju ar padėjėju Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar specialiuoju atašė, jo pavaduotoju ar padėjėju Lietuvos Respublikos diplomatinėje atstovybėje arba karo tarnybą užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje. Į pareigas Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar Lietuvos Respublikos diplomatinėje atstovybėje karys gali būti skiriamas tik užsienio reikalų ministro pritarimu. Į karinio atstovo Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar specialiojo atašė Lietuvos Respublikos diplomatinėje atstovybėje pareigas karys skiriamas tik Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu.
+3. Karys krašto apsaugos ministro įsakymu Vyriausybės nustatyta tvarka paprastai ne ilgiau kaip 3 metams gali būti paskirtas atlikti karo tarnybą kariniu atstovu, jo pavaduotoju ar padėjėju Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar specialiuoju atašė, jo pavaduotoju ar padėjėju Lietuvos Respublikos diplomatinėje atstovybėje arba karo tarnybą užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje. Į pareigas Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar Lietuvos Respublikos diplomatinėje atstovybėje karys gali būti skiriamas tik užsienio reikalų ministro pritarimu. Į karinio atstovo Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos ar specialiojo atašė Lietuvos Respublikos diplomatinėje atstovybėje pareigas karys skiriamas tik Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu. Karys krašto apsaugos ministro teikimu karo tarnybą gali atlikti Lietuvos Respublikos specialiojoje misijoje. Karys į Lietuvos Respublikos specialiąją misiją skiriamas Lietuvos Respublikos diplomatinės tarnybos įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
+ 
 
 
 
@@ -3111,7 +3112,10 @@ Nr. X-1389, 2007-12-18, Žin., 2007, Nr. 140-5759 (2007-12-29)
 
 
 
-5. Krašto apsaugos sistemai nepriklausančios valstybės institucijos prašymu, kai reikia atlikti karinės kvalifikacijos reikalingas funkcijas, krašto apsaugos ministras gali skirti profesinės karo tarnybos karininką iki 3 metų dirbti šioje institucijoje netaikant profesinės karo tarnybos atlikimo tvarkos ir karių aprūpinimo sąlygų. Pasibaigus šiam terminui, atitinkamos valstybės institucijos prašymu krašto apsaugos ministras gali skirti karį toliau dirbti šioje institucijoje, tačiau ne ilgiau kaip 2 metus.
+5. Krašto apsaugos sistemai nepriklausančios valstybės institucijos prašymu, kai reikia atlikti karinės kvalifikacijos reikalingas funkcijas, krašto apsaugos ministras gali skirti profesinės karo tarnybos karį iki 3 metų dirbti šioje institucijoje netaikant profesinės karo tarnybos atlikimo tvarkos ir karių aprūpinimo sąlygų. Pasibaigus šiam terminui, atitinkamos valstybės institucijos prašymu krašto apsaugos ministras gali skirti karį toliau dirbti šioje institucijoje, tačiau ne ilgiau kaip 2 metus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
+ 
 
 
 
@@ -3613,7 +3617,7 @@ seržantas majoras                               
 3) jaunesniųjų karininkų
 leitenantas                                                                             leitenantas
 vyresnysis leitenantas                                                           vyresnysis leitenantas
-kapitonas                                                                              kapitonas leitenantas 
+kapitonas                                                                              kapitonas leitenantas 
  
 
 
@@ -3913,28 +3917,17 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-56 straipsnis. Laipsnio pažeminimas ar atėmimas
+56 straipsnis. Laipsnio atėmimas
 
 
-1. Už tarnybos drausmės pažeidimus Kariuomenės drausmės statuto nustatyta tvarka kario laipsnis gali būti pažemintas. Laipsnį pažeminti turi teisę pareigūnas, pagal pavaldumą aukštesnis už tą, kuris turi teisę atitinkamą laipsnį suteikti. Kariams, kuriems laipsnius suteikti turi teisę krašto apsaugos ministras, teisę pažeminti laipsnį turi krašto apsaugos ministras, o pulkininkams (jūrų kapitonams) ir generolams (admirolams) – Respublikos Prezidentas.
-
-
-
-
-2. Iki laipsnio pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti grąžintas kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama labai gerai ir gerai. Į šį terminą neįskaitomas laikas, kai karys neatliko tarnybos dėl atostogų, mokymosi ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas reikalingas tarnybos laikas aukštesniajam negu grąžintasis laipsniui suteikti skaičiuojamas nuo laipsnio grąžinimo kariui dienos.
-Straipsnio dalies pakeitimai:
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
- 
-
-
-
-
-3. Krašto apsaugos ministras (pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos Prezidentas) kario laipsnį gali atimti, jei karys atleidžiamas iš tarnybos pagal šio įstatymo 38 straipsnio 1 dalies 1, 2 ar 3 punktą arba 2 dalies 3, 4 ar 8 punktą.
+Krašto apsaugos ministras (pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos Prezidentas) kario laipsnį gali atimti, jeigu karys atleidžiamas iš tarnybos pagal šio įstatymo 38 straipsnio 1 dalies 1, 2 ar 3 punktą arba 2 dalies 3, 4 ar 8 punktą.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Straipsnio pakeitimai:
+Nr. XII-2102, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19622
  
 
 
@@ -4397,10 +4390,10 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-65 straipsnis. Karių sveikatos priežiūra
+65 straipsnis. Karių sveikatinimo veikla kariuomenės padaliniuose
 
 
-1. Sveikatinimo veikla, kurios mastą ir keliamus specialiuosius reikalavimus nustato krašto apsaugos ir sveikatos apsaugos ministrai, o vykdymo sąlygas – krašto apsaugos ministras, organizuojama ir vykdoma iš Krašto apsaugos ministerijai skirtų asignavimų:
+1. Sveikatinimo veikla, išskyrus šio straipsnio 2 dalyje nurodytas paslaugas, kurios mastą ir specialiuosius reikalavimus nustato krašto apsaugos ministras ir sveikatos apsaugos ministras, o vykdymo sąlygas – krašto apsaugos ministras, organizuojama ir vykdoma iš Krašto apsaugos ministerijai skirtų asignavimų:
 
 
 1) tikrosios karo tarnybos kariams, civilinę krašto apsaugos tarnybą atliekantiems statutiniams valstybės tarnautojams;
@@ -4418,7 +4411,10 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-4) atsargos kariams, įstatymų ir kitų teisės aktų nustatyta tvarka dalyvaujantiems socialinio prisitaikymo, medicininės reabilitacijos ir profesinio orientavimo į kitas veiklos sritis programoje; 
+4) atsargos kariams, pareigūnų ir karių valstybinės pensijos už tarnybą ir pareigūnų ir karių valstybinės netekto darbingumo pensijos gavėjams – ne ilgiau kaip 6 mėnesius po jų išleidimo į atsargą dienos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1823, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10574
+ 
 
 
 
@@ -4428,24 +4424,34 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-6) ne krašto apsaugos sistemoje tarnaujantiems (dirbantiems) asmenims karinių operacijų užsienyje metu ir tais atvejais, kai kariuomenė teikia pagalbą kitoms valstybės ir savivaldybių institucijoms.
+6) ne krašto apsaugos sistemoje tarnaujantiems (dirbantiems) asmenims karinių operacijų užsienyje metu ir tais atvejais, kai kariuomenė teikia pagalbą kitoms valstybės ir savivaldybių institucijoms;
+
+
+
+
+7) žvalgybos pareigūnams. 
 
 
 
 
 
 
-2. Šio straipsnio 1 ir 3 dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos. 
+2. Pirminės asmens sveikatos priežiūros paslaugos, finansuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, kariuomenės padaliniuose teikiamos tik tiems šio straipsnio 1 dalyje nurodytiems asmenims, kurie apdrausti privalomuoju sveikatos draudimu. Šios paslaugos kariuomenės padaliniuose taip pat teikiamos kitiems privalomuoju sveikatos draudimu apdraustiems asmenims. Pirminių asmens sveikatos priežiūros paslaugų, finansuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, teikimo kariuomenės padaliniuose sąlygas ir tvarką nustato sveikatos apsaugos ministras, suderinęs su krašto apsaugos ministru.
 
 
 
 
-3. Tikrosios karo tarnybos karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų, asmenų, stojančių ar šaukiamų į tikrąją karo tarnybą, civilinę krašto apsaugos tarnybą ar Lietuvos šaulių sąjungos kovinius būrius, karių savanorių, kitų aktyviojo ir parengtojo rezervo karių sveikatos tikrinimo nustatant tinkamumą tarnybai, atrankos pagal sveikatos būklę tvarką nustato Vyriausybė arba jos įgaliota institucija. 
+3. Šio straipsnio 1 ir 5 dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos.
 
 
 
 
-4. Kariuomenės padaliniuose iš Krašto apsaugos ministerijai skirtų asignavimų organizuojama ir vykdoma tik neapmokama iš Privalomojo sveikatos draudimo fondo sveikatinimo veikla, išskyrus odontologinės priežiūros (pagalbos) ir burnos priežiūros paslaugas bei sveikatinimo veiklą karinių operacijų metu.
+4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu, iš Krašto apsaugos ministerijai skirtų asignavimų apmokamos užsienio valstybėje kariui suteiktos sveikatos priežiūros paslaugos, kelionės į gydymo įstaigą ir atgal išlaidos, kartu su kariu vykstančio asmens kelionės ir gyvenamojo ploto nuomos, taip pat protezų ir ortopedijos technikos įsigijimo ir priežiūros išlaidos. Šių išlaidų apmokėjimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija. 
+
+
+
+
+5. Tikrosios karo tarnybos karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų, žvalgybos pareigūnų, asmenų, stojančių ar šaukiamų į tikrąją karo tarnybą, civilinę krašto apsaugos tarnybą, tarnybą žvalgybos institucijoje ar Lietuvos šaulių sąjungos kovinius būrius, karių savanorių, kitų aktyviojo ir parengtojo rezervo karių sveikatos tikrinimo nustatant tinkamumą tarnybai, atrankos pagal sveikatos būklę tvarką nustato Vyriausybė arba jos įgaliota institucija. 
 
 
 Straipsnio pakeitimai:
@@ -4454,6 +4460,8 @@ Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
+Straipsnio pakeitimai:
+Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
  
 
 
@@ -4462,7 +4470,10 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 651 straipsnis. Socialinės integracijos priemonės
 
 
-1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kario, valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kartu su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat atsargos kariams, įstatymų ir kitų teisės aktų nustatyta tvarka dalyvaujantiems socialinio prisitaikymo, medicininės reabilitacijos ir profesinio orientavimo į kitas veiklos sritis programoje, krašto apsaugos ministro nustatytos apimties ir nustatyta tvarka teikiamos psichologų paslaugos, finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.
+1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kario, valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kartu su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies 4 punkte nurodytiems atsargos kariams krašto apsaugos ministro nustatytos apimties ir nustatyta tvarka teikiamos psichologų paslaugos, finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1823, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10574
+ 
 
 
 
@@ -4473,7 +4484,6 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 3. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu, ir tapusiems neįgaliems arba likus liekamųjų reiškinių, trikdančių tarnybinių funkcijų vykdymą, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos neįgaliesiems skirtų techninių pagalbos priemonių įsigijimo, jų priežiūros ir remonto išlaidos. Šių išlaidų kompensavimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
-TAR pastaba. 651 straipsnio 3 dalis įsigalioja 2016-01-01 (Įstatymas Nr. XII-1641).
 
 
 Įstatymas papildytas straipsniu:
@@ -5432,3 +5442,18 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 13, 18, 20, 28, 29, 31, 35, 38, 54, 56, 59, 60, 61, 62, 63, 65, 65-1, 67, 68, 72 ir 77-2 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1823, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10574
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 65 ir 65-1 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2102, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19622
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 56 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas
