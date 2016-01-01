@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-05-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
  
@@ -2193,18 +2193,23 @@ GINČŲ IR SKUNDŲ NAGRINĖJIMAS. BAUDŲ SKYRIMO TVARKA
  
 
 
-37 straipsnis. Ginčus ir skundus nagrinėjančios institucijos
+37 straipsnis. Vartotojų ar abonentų ir geriamojo vandens tiekėjų ir nuotekų tvarkytojų ginčų sprendimas ne teismo tvarka. Abonentų ir vartotojų skundų nagrinėjimas
 
 
-1. Ginčus, kylančius iš sutartinių santykių, išankstinio privalomo ginčų sprendimo ne teisme tvarka tarp geriamojo vandens tiekėjų ir nuotekų tvarkytojų, abonentų ir vartotojų dėl geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų, paviršinių nuotekų tvarkymo paslaugų kainų, nuotekų transportavimo paslaugų kainų, laikino atjungimo nuo (prijungimo prie) geriamojo vandens tiekimo tinklų paslaugų kainų ir jų taikymo nagrinėja Valstybinė kainų ir energetikos kontrolės komisija.
+1. Iš sutartinių santykių kylančius vartotojo ar abonento ir geriamojo vandens tiekėjo ir nuotekų tvarkytojo ginčus dėl geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų, paviršinių nuotekų tvarkymo paslaugų kainų, nuotekų transportavimo paslaugų kainų, laikino atjungimo nuo (prijungimo prie) geriamojo vandens tiekimo tinklų paslaugų kainų ir jų taikymo ne teismo tvarka sprendžia Valstybinė kainų ir energetikos kontrolės komisija. Kitus vartotojo ir geriamojo vandens tiekėjo ir nuotekų tvarkytojo ginčus ne teismo tvarka sprendžia Valstybinė vartotojų teisių apsaugos tarnyba. Vartotojas taip pat turi teisę kreiptis tiesiogiai į teismą. Vartotojas, manantis, kad geriamojo vandens tiekėjas ir nuotekų tvarkytojas pažeidė jo teises ar teisėtus interesus, pirmiausia privalo raštu kreiptis į geriamojo vandens tiekėją ir nuotekų tvarkytoją ir nurodyti savo reikalavimus. 
 
 
 
 
-2. Abonentų ir vartotojų skundus nagrinėja šios institucijos:
+2. Vartotojų ir geriamojo vandens tiekėjų ir nuotekų tvarkytojų ginčai sprendžiami ne teismo tvarka pagal Lietuvos Respublikos vartotojų teisių apsaugos įstatymą.
 
 
-1) Valstybinė maisto ir veterinarijos tarnyba – abonentų ir vartotojų skundus dėl abonentams ir vartotojams tiekiamo geriamojo vandens saugos ir kokybės reikalavimų;
+
+
+3. Abonentų ir vartotojų skundus nagrinėja šios institucijos:
+
+
+1) Valstybinė maisto ir veterinarijos tarnyba – abonentų ir vartotojų skundus dėl abonentams ir vartotojams tiekiamo geriamojo vandens saugos ir kokybės reikalavimų nesilaikymo;
 
 
 
@@ -2221,10 +2226,13 @@ GINČŲ IR SKUNDŲ NAGRINĖJIMAS. BAUDŲ SKYRIMO TVARKA
 
 
 
-3. Ginčai ir skundai nagrinėjami Lietuvos Respublikos vartotojų teisių apsaugos įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka.
+4. Skundai nagrinėjami Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka.
+
+
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojo ar abonento ir geriamojo vandens tiekėjo ir nuotekų tvarkytojo ginčai, taip pat abonentų ir vartotojų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
+Straipsnio pakeitimai:
+Nr. XII-2093, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19416
  
-
-
 
 
 
@@ -2388,7 +2396,6 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 2. Nuosavybės teise valstybei ar savivaldybei priklausantys geriamojo vandens tiekėjai ir nuotekų tvarkytojai, paviršinių nuotekų tvarkytojai negali būti perduodami valdyti koncesijos pagrindais.
-TAR pastaba. 39 straipsnis įsigalioja 2014-06-18.
  
 
 
@@ -2438,3 +2445,8 @@ Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1618, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06063
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2093, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19416
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 37 straipsnio pakeitimo įstatymas
