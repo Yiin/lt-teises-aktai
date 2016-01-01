@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2015-07-02 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -94,7 +94,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) informacijai apie viešuosius pirkimus skelbti internete.
+3) informacijai apie viešuosius pirkimus skelbti internete;
+
+
+
+
+4) informacijai apie pirkimus skelbti internete, kai skelbti tokią informaciją įpareigoja įstatymai arba šiame įstatyme nurodytų institucijų priimti teisės aktai.
+Papildyta straipsnio punktu:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
 
 
 
@@ -740,7 +748,28 @@ Nr. XI-1605, 2011-09-29, Žin., 2011, Nr. 123-5813 (2011-10-13)
 
 
 
-18) atlikti kitų teisės aktų nustatytas funkcijas.
+18) administruoti informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus, kai pirkimo sutartis buvo nutraukta dėl esminio pirkimo sutarties pažeidimo, kaip jis apibrėžtas Lietuvos Respublikos civiliniame kodekse, (toliau – esminis pirkimo sutarties pažeidimas) arba kai įsiteisėjo teismo sprendimas, kuriuo tenkinami perkančiosios organizacijos reikalavimai pripažinti pirkimo sutarties neįvykdymą ar netinkamą įvykdymą esminiu ir atlyginti dėl to patirtus nuostolius; 
+TAR pastaba. Punkto nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
+Papildyta straipsnio punktu:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
+
+
+
+
+19) tvirtinti informacijos apie tiekėjus, nurodytus šios dalies 18 punkte, skelbimo Centrinėje viešųjų pirkimų informacinėje sistemoje taisykles; 
+TAR pastaba. Punkto nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
+Papildyta straipsnio punktu:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
+
+
+
+
+20) atlikti kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
 
 
 
@@ -1588,6 +1617,55 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
 Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 Nr. XI-2177, 2012-06-29, Žin., 2012, Nr. 82-4264 (2012-07-13)
 Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
+ 
+
+
+
+
+181 straipsnis. Pirkimo sutarties neįvykdymas ar netinkamas įvykdymas
+
+
+1. Perkančioji organizacija ne vėliau kaip per 10 dienų Centrinėje viešųjų pirkimų informacinėje sistemoje skelbia informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus, kai:
+
+
+1) pirkimo sutartis nutraukta dėl esminio pirkimo sutarties pažeidimo arba
+
+
+
+
+2) priimtas teismo sprendimas, kuriuo tenkinami perkančiosios organizacijos reikalavimai pripažinti pirkimo sutarties neįvykdymą ar netinkamą įvykdymą esminiu ir atlyginti dėl to patirtus nuostolius.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytas terminas skaičiuojamas:
+
+
+1) jeigu tiekėjas įstatymų nustatyta tvarka nesikreipė į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo, – nuo šio įstatymo 94 straipsnio 5 dalyje nurodyto termino pabaigos arba 
+
+
+
+
+2) jeigu tiekėjas įstatymų nustatyta tvarka kreipėsi į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos, arba 
+
+
+
+
+3) nuo teismo sprendimo, kuriuo tenkinami perkančiosios organizacijos reikalavimai pripažinti pirkimo sutarties neįvykdymą ar netinkamą įvykdymą esminiu ir atlyginti dėl to patirtus nuostolius, įsiteisėjimo dienos. 
+
+
+
+
+
+
+3. Perkančioji organizacija, Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbusi šio straipsnio 1 dalyje nurodytą informaciją, nedelsdama, tačiau ne vėliau kaip per 3 darbo dienas, apie tai informuoja tiekėją.
+TAR pastaba. Straipsnio nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
+
+
+Papildyta straipsniu:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
  
 
 
@@ -2507,7 +2585,6 @@ Nr. XI-678, 2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
 
 
 2) nėra įvykdęs įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu pagal šalies, kurioje jis registruotas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus. Tiekėjas laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų;
-TAR pastaba. 2 punktas įsigalioja 2016-01-01.
 
 
 
@@ -2557,15 +2634,15 @@ TAR pastaba. 2 punktas įsigalioja 2016-01-01.
 
 
 
-8) yra neįvykdęs pirkimo sutarties ar netinkamai ją įvykdęs ir tai buvo esminis pirkimo sutarties pažeidimas, dėl to per pastaruosius 3 metus buvo nutraukta pirkimo sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinami perkančiosios organizacijos reikalavimai pripažinti pirkimo sutarties neįvykdymą ar netinkamą įvykdymą esminiu ir atlyginti dėl to patirtus nuostolius;
-TAR pastaba. 8 punktas įsigalioja 2016-01-01.
-8 punkto nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
+8) yra neįvykdęs pirkimo sutarties ar netinkamai ją įvykdęs ir tai buvo esminis pirkimo sutarties pažeidimas, dėl to per pastaruosius 3 metus buvo nutraukta pirkimo sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinami perkančiosios organizacijos reikalavimai pripažinti pirkimo sutarties neįvykdymą ar netinkamą įvykdymą esminiu ir atlyginti dėl to patirtus nuostolius.
+TAR pastaba. Punkto nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
 
 
 
 
-9) nėra įvykdęs įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu pagal šalies, kurioje jis registruotas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus. Tiekėjas laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų.
-TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas. 
+9) Neteko galios nuo 2016-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 Papildyta straipsnio punktu:
 Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
  
@@ -2575,8 +2652,8 @@ Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 
 
 
-3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3, 7 ir 9 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
-TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+3. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 1 dalyje ir 2 dalies 1, 2, 3 ir 7 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose. 
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2016-01-01) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
  
@@ -2589,8 +2666,8 @@ Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 
 
 
-5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3, 7 ar 9 punkte nurodytų atvejų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 ir 6 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija. 
-TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio straipsnio 1 dalies 1 ir 3 punktuose ir 2 dalies 1, 2, 3 ar 7 punkte nurodytų atvejų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4, 6 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2016-01-01) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
  
@@ -2789,8 +2866,8 @@ Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 
 
 
-5. Perkančioji organizacija iš oficialiame sąraše įregistruoto tiekėjo, kurio pasiūlymas pagal vertinimo rezultatus pripažintas geriausiu, gali papildomai pareikalauti pateikti pažymas apie socialinio draudimo ar mokesčių įmokas. Perkančioji organizacija nereikalauja dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose. 
-TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2015-07-02) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+5. Perkančioji organizacija iš oficialiame sąraše įregistruoto tiekėjo, kurio pasiūlymas pagal vertinimo rezultatus pripažintas geriausiu, papildomai reikalauja pateikti pažymas apie socialinio draudimo ar mokesčių įmokas. Perkančioji organizacija nereikalauja dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose.
+TAR pastaba. Iki įstatymo Nr. XII-1852 įsigaliojimo (2016-01-01) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
 Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
@@ -5393,32 +5470,36 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 93 straipsnis. Teisė ginčyti perkančiosios organizacijos veiksmus ar priimtus sprendimus
 
 
-1. Tiekėjas, kuris mano, kad perkančioji organizacija nesilaikė šio įstatymo reikalavimų ir tuo pažeidė ar pažeis jo teisėtus interesus, šiame skyriuje nustatyta tvarka gali kreiptis į apygardos teismą, kaip pirmosios instancijos teismą, dėl: 
+1. Tiekėjas, kuris mano, kad perkančioji organizacija nesilaikė šio įstatymo reikalavimų ar neteisėtai nutraukė sutartį dėl esminio pirkimo sutarties pažeidimo ir tuo pažeidė ar pažeis jo teisėtus interesus, šiame skyriuje nustatyta tvarka gali kreiptis į apygardos teismą, kaip pirmosios instancijos teismą, dėl: 
 
 
-1) neteko galios nuo 2011-10-01;
-
-
-
-
-2) perkančiosios organizacijos sprendimų, kurie neatitinka šio įstatymo reikalavimų, panaikinimo ar pakeitimo;
+1) perkančiosios organizacijos sprendimų, kurie neatitinka šio įstatymo reikalavimų, panaikinimo ar pakeitimo;
 
 
 
 
-3) žalos atlyginimo;
+2) žalos atlyginimo;
 
 
 
 
-4) pirkimo sutarties pripažinimo negaliojančia;
+3) pirkimo sutarties pripažinimo negaliojančia;
 
 
 
 
-5) alternatyvių sankcijų taikymo.
+4) alternatyvių sankcijų taikymo;
 
 
+
+
+5) sutarties nutraukimo pripažinimo neteisėtu. 
+TAR pastaba. Straipsnio dalies nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
 
 
 
@@ -5429,6 +5510,15 @@ Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 
 
 3. Tiekėjas, norėdamas iki pirkimo sutarties sudarymo ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia turi pateikti pretenziją perkančiajai organizacijai šiame skyriuje nustatyta tvarka. Pretenzija turi būti pateikta faksu, elektroninėmis priemonėmis ar pasirašytinai per kurjerį. Perkančiosios organizacijos sprendimas, priimtas išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyriuje nustatyta tvarka.
+
+
+
+
+4. Perkančioji organizacija Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka turi teisę reikalauti atlyginti nuostolius dėl nesąžiningai pareikšto nepagrįsto ieškinio arba sąmoningo veikimo prieš teisingą ir greitą bylos išnagrinėjimą ir išsprendimą, taip pat reikalauti, kad ieškovas atlygintų nuostolius, kuriuos ji patyrė dėl ieškovo prašymu taikytų laikinųjų apsaugos priemonių.
+TAR pastaba. Straipsnio dalies nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01.
+Papildyta straipsnio dalimi:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
 
 
 Straipsnio pakeitimai:
@@ -5444,7 +5534,7 @@ Nr. XI-1494, 2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
 94 straipsnis. Pretenzijos pateikimo perkančiajai organizacijai, prašymo pateikimo ar ieškinio pareiškimo teismui terminai
 
 
-1. Tiekėjas turi teisę pateikti pretenziją perkančiajai organizacijai, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus ieškinį dėl pirkimo sutarties pripažinimo negaliojančia):
+1. Tiekėjas turi teisę pateikti pretenziją perkančiajai organizacijai, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus ieškinį dėl pirkimo sutarties pripažinimo negaliojančia ar ieškinį dėl sutarties nutraukimo pripažinimo neteisėtu):
 
 
 1) per 15 dienų nuo perkančiosios organizacijos pranešimo raštu apie jos priimtą sprendimą išsiuntimo tiekėjams dienos;
@@ -5459,7 +5549,7 @@ Nr. XI-1494, 2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
 
 
 
-2. Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo tos dienos, kurią perkančioji organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems kandidatams ir suinteresuotiems dalyviams
+2. Jeigu perkančioji organizacija per nustatytą terminą neišnagrinėja jai pateiktos pretenzijos, tiekėjas turi teisę pateikti prašymą ar pareikšti ieškinį teismui per 15 dienų nuo tos dienos, kurią perkančioji organizacija turėjo raštu pranešti apie priimtą sprendimą pretenziją pateikusiam tiekėjui, suinteresuotiems kandidatams ir suinteresuotiems dalyviams.
 
 
 
@@ -5469,7 +5559,13 @@ Nr. XI-1494, 2011-06-21, Žin., 2011, Nr. 85-4137 (2011-07-13)
 
 
 
-4. Tais atvejais, kai tiekėjui padaryta žala kildinama iš neteisėtų perkančiosios organizacijos veiksmų ar sprendimų, tačiau šiame įstatyme nenustatyta pareiga perkančiajai organizacijai raštu informuoti tiekėjus arba paskelbti apie jos veiksmus ar sprendimus, taikomi Lietuvos Respublikos civiliniame kodekse nustatyti ieškinio pareiškimo senaties terminai.
+4. Tais atvejais, kai tiekėjui padaryta žala kildinama iš neteisėtų perkančiosios organizacijos veiksmų ar sprendimų, tačiau šiame įstatyme nenustatyta pareiga perkančiajai organizacijai raštu informuoti tiekėjus arba paskelbti apie jos veiksmus ar sprendimus, taikomi Lietuvos Respublikos civiliniame kodekse nustatyti ieškinio pareiškimo senaties terminai. Ši dalis netaikoma šio straipsnio 5 dalyje nustatytu atveju.
+
+
+
+
+5. Tiekėjas, manydamas, kad perkančioji organizacija nepagrįstai nutraukė pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo, turi teisę pareikšti ieškinį teismui per 15 dienų nuo pirkimo sutarties nutraukimo.
+TAR pastaba. Straipsnio nuostatos taikomos esminiams pirkimo sutarties pažeidimams ir esminiu pripažintinam pirkimo sutarties neįvykdymui ar netinkamam įvykdymui, atsiradusiems nuo 2016-01-01
 
 
 Straipsnio numeracijos pakeitimas:
@@ -5478,6 +5574,8 @@ Straipsnio pakeitimai:
 Nr. XI-678, 2010-02-11, Žin., 2010, Nr. 25-1174 (2010-03-02)
 Nr. XI-1255, 2010-12-23, Žin., 2011, Nr. 2-36 (2011-01-06)
 Nr. XI-1487, 2011-06-21, Žin., 2011, Nr. 85-4133 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
  
 
 
@@ -5676,7 +5774,10 @@ Nr. XI-1487, 2011-06-21, Žin., 2011, Nr. 85-4133 (2011-07-13)
 
 
 
-96 straipsnis. Žalos atlyginimas
+96 straipsnis. Žalos, atsiradusios dėl šio įstatymo reikalavimų nesilaikymo, atlyginimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1768, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09610
+ 
 
 
 1. Teismas tenkina tiekėjo reikalavimą tik dėl žalos atlyginimo, jeigu pirkimo sutartis jau sudaryta, o perkančioji organizacija pirkimo procedūros metu laikėsi šio įstatymo 18 straipsnio 1 ir 9 dalių, 32 straipsnio 7 dalies, 39 straipsnio 7 dalies, 41 straipsnio 1 dalies, 94 straipsnio, 941 straipsnio 2 dalies, 95 straipsnio 2 dalies, 951 straipsnio 1–4 dalių, 952 straipsnio reikalavimų. 
