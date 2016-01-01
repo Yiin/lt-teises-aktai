@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.955166852BD7"
 
 # Lietuvos Respublikos valstybės politikų elgesio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Valstybės politikų elgesio kodeksas
 
-Suvestinė redakcija nuo 2010-06-30 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3938, i. k. 1061010ISTA000X-816
  
@@ -117,37 +117,10 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ ELGESIO  KODEKSAS
 
 
 
-3. Valstybės politikui ir kandidatui į valstybės politikus artimi asmenys – valstybės politiko ar kandidato į valstybės politikus:
-
-
-1) tėvai (įtėviai), vaikai (įvaikiai);
-
-
-
-
-2) broliai ir seserys;
-
-
-
-
-3) seneliai, vaikaičiai;
-
-
-
-
-4) sutuoktinis;
-
-
-
-
-5) sugyventinis;
-
-
-
-
-6) partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka.
-
-
+3. Valstybės politikui ir kandidatui į valstybės politikus artimi asmenys – valstybės politiko ar kandidato į valstybės politikus sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka (toliau – partneris), taip pat jų tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų sutuoktiniai, sugyventiniai ar partneriai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+ 
 
 
 
@@ -278,7 +251,9 @@ Valstybės politikas viešajame gyvenime vadovaujasi šiais elgesio principais:
 
 
 
-3. Valstybės politikų privatūs interesai registruojami Politikų privačių interesų registre.
+3. Valstybės politikų privatūs interesai registruojami Privačių interesų registre. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
  
 
 
@@ -445,7 +420,10 @@ Valstybės politikas viešajame gyvenime vadovaujasi šiais elgesio principais:
 
 
 
-12. Komisijos priimti sprendimai yra galutiniai ir neskundžiami. Pakartotiniai skundai apie galimą politiko padarytą pažeidimą nenagrinėjami, išskyrus atvejus, kai gautame skunde yra nurodomos naujos aplinkybės, kurios nebuvo ir negalėjo būti žinomos atlikto tyrimo metu, ir dėl to Komisijos priimtas sprendimas yra galimai neteisingas. Dėl pakartotinio tyrimo būtinumo sprendžia Komisija ne vėliau kaip per 10 dienų nuo tokio skundo gavimo. Komisijai nusprendus pradėti pakartotinį tyrimą, jis atliekamas pagal šiame straipsnyje nustatytas procedūras.
+12. Pakartotiniai skundai apie galimą politiko padarytą pažeidimą nenagrinėjami, išskyrus atvejus, kai gautame skunde yra nurodomos naujos aplinkybės, kurios nebuvo ir negalėjo būti žinomos atlikto tyrimo metu, ir dėl to Komisijos priimtas sprendimas yra galimai neteisingas. Dėl pakartotinio tyrimo būtinumo sprendžia Komisija ne vėliau kaip per 10 dienų nuo tokio skundo gavimo. Komisijai nusprendus pradėti pakartotinį tyrimą, jis atliekamas pagal šiame straipsnyje nustatytas procedūras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+ 
 
 
 
@@ -505,7 +483,10 @@ Vyriausioji tarnybinės etikos komisija:
 
 
 
-2) apsiriboti svarstymu Komisijoje;
+2) Neteko galios nuo 2016-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+ 
 
 
 
@@ -537,14 +518,33 @@ Vyriausioji tarnybinės etikos komisija:
 
 
 
-3. Apie Komisijos atliktą tyrimą ir priimtą sprendimą pranešama asmeniui, pateikusiam skundą Komisijai, ir valstybės politikui, dėl kurio yra priimtas sprendimas.
+3. Apie Komisijos atliktą tyrimą ir priimtą sprendimą pranešama asmeniui, pateikusiam skundą Komisijai, valstybės politikui, dėl kurio yra priimtas sprendimas, ir Vyriausiajai tarnybinės etikos komisijai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+ 
 
 
 
 
-4. Komisijos priimti sprendimai yra vieši ir turi būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“ ir institucijos, kurioje politikas eina pareigas, interneto tinklalapyje ir informaciniame leidinyje, jeigu toks leidinys yra leidžiamas.
+4. Komisijos priimti sprendimai yra vieši ir turi būti skelbiami institucijos, kurioje politikas eina pareigas, interneto svetainėje ir informaciniame leidinyje, jeigu toks leidinys yra leidžiamas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+ 
 
 
+
+
+
+
+10 straipsnis. Sprendimų apskundimas
+
+
+Komisijos sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos. 
+
+
+Papildyta straipsniu:
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+ 
 
 
 
@@ -561,3 +561,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-900, 2010-06-15, Žin., 2010, Nr. 76-3866 (2010-06-30), i. k. 1101010ISTA00XI-900
 Lietuvos Respublikos valstybės politikų elgesio kodekso 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+Lietuvos Respublikos valstybės politikų elgesio kodekso 2, 5, 7 ir 9 straipsnių pakeitimo ir Kodekso papildymo 10 straipsniu įstatymas
