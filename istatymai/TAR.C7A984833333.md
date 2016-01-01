@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-11-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
  
@@ -2692,7 +2692,10 @@ GELEŽINKELIŲ TRANSPORTO KATASTROFŲ, Eismo įvykių IR RIKTŲ tyrimas
 
 
 
-2. Geležinkelių transporto katastrofas tiria Lietuvos Respublikos susisiekimo ministro paskirtas katastrofų ar eismo įvykių ir riktų, kurie kitomis sąlygomis būtų galėję sukelti katastrofą, tyrimų vadovas (vadovai) (toliau – katastrofų tyrimų vadovas), siekdamas (siekdami) pagerinti eismo saugą ir užtikrinti eismo įvykių prevenciją. Katastrofų tyrimų vadovas gali tirti ir eismo įvykius bei riktus (taip pat posistemių ar sąveikos sudedamųjų dalių techninius gedimus), kurie kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofas. Įvykus eismo įvykiui ar riktui, katastrofų tyrimų vadovas įvertina, ar eismo įvykis ar riktas kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofą, ir priima sprendimą tirti eismo įvykį ar riktą arba atsisakyti juos tirti.
+2. Geležinkelių transporto katastrofas tiria Lietuvos Respublikos teisingumo ministro paskirtas katastrofų ar eismo įvykių ir riktų, kurie kitomis sąlygomis būtų galėję sukelti katastrofą, tyrimų vadovas (vadovai) (toliau – katastrofų tyrimų vadovas), siekdamas (siekdami) pagerinti eismo saugą ir užtikrinti eismo įvykių prevenciją. Katastrofų tyrimų vadovas gali tirti ir eismo įvykius bei riktus (taip pat posistemių ar sąveikos sudedamųjų dalių techninius gedimus), kurie kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofas. Įvykus eismo įvykiui ar riktui, katastrofų tyrimų vadovas įvertina, ar eismo įvykis ar riktas kitomis sąlygomis būtų galėję sukelti geležinkelių transporto katastrofą, ir priima sprendimą tirti eismo įvykį ar riktą arba atsisakyti juos tirti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2071, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19358
+ 
 
 
 
@@ -2707,7 +2710,10 @@ GELEŽINKELIŲ TRANSPORTO KATASTROFŲ, Eismo įvykių IR RIKTŲ tyrimas
 
 
 
-5. Katastrofos, eismo įvykio ar rikto tyrimo, ataskaitų ir eismo saugos rekomendacijų rengimo ir teikimo tvarką nustato Lietuvos Respublikos susisiekimo ministras. 
+5. Katastrofos, eismo įvykio ar rikto tyrimo, ataskaitų ir eismo saugos rekomendacijų rengimo ir teikimo tvarką nustato Lietuvos Respublikos teisingumo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2071, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19358
+ 
 
 
 
@@ -2935,3 +2941,8 @@ Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-190
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1793, 2015-06-16, paskelbta TAR 2015-06-30, i. k. 2015-10382
 Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2071, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19358
+Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 36 straipsnio pakeitimo įstatymas
