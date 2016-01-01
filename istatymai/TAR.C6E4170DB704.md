@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2015-12-30 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -394,32 +394,57 @@ Nr. XII-2188, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20892
 
 
 
-3. Pacientai, norėdami gauti sveikatos priežiūros paslaugas, privalo pateikti asmens tapatybę patvirtinančius dokumentus, išskyrus būtinosios sveikatos priežiūros atvejus.
+3. Pacientas, užsiregistravęs planinei asmens sveikatos priežiūros paslaugai gauti, tačiau negalintis atvykti nustatytu laiku, privalo apie tai informuoti asmens sveikatos priežiūros įstaigą ne vėliau kaip prieš dvidešimt keturias valandas iki numatomo paslaugos gavimo laiko pradžios. 
+Papildyta straipsnio dalimi:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+ 
 
 
 
 
-4. Pacientas kiek įstengdamas turi suteikti sveikatos priežiūros specialistams informacijos apie savo sveikatą, persirgtas ligas, atliktas operacijas, vartotus ir vartojamus vaistus, alergines reakcijas, genetinį paveldimumą ir kitus pacientui žinomus duomenis, reikalingus tinkamai suteikti sveikatos priežiūros paslaugas. 
+4. Pacientai, norėdami gauti sveikatos priežiūros paslaugas, privalo pateikti asmens tapatybę patvirtinančius dokumentus, išskyrus būtinosios sveikatos priežiūros atvejus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+ 
 
 
 
 
-5. Pacientas, gavęs informaciją apie jam skiriamas sveikatos priežiūros paslaugas, šio įstatymo nustatytais atvejais savo sutikimą ar atsisakymą dėl šių sveikatos priežiūros paslaugų suteikimo turi patvirtinti raštu.
+5. Pacientas kiek įstengdamas turi suteikti sveikatos priežiūros specialistams informacijos apie savo sveikatą, persirgtas ligas, atliktas operacijas, vartotus ir vartojamus vaistus, alergines reakcijas, genetinį paveldimumą ir kitus pacientui žinomus duomenis, reikalingus tinkamai suteikti sveikatos priežiūros paslaugas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+ 
 
 
 
 
-6. Pacientas privalo vykdyti sveikatos priežiūros specialistų paskyrimus ir rekomendacijas arba šio įstatymo nustatyta tvarka atsisakyti paskirtų sveikatos priežiūros paslaugų. Pacientas privalo informuoti sveikatos priežiūros specialistus apie nukrypimus nuo paskyrimų ar nustatyto režimo, dėl kurių jis davė sutikimą. 
+6. Pacientas, gavęs informaciją apie jam skiriamas sveikatos priežiūros paslaugas, šio įstatymo nustatytais atvejais savo sutikimą ar atsisakymą dėl šių sveikatos priežiūros paslaugų suteikimo turi patvirtinti raštu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+ 
 
 
 
 
-7. Pacientas privalo pagarbiai ir deramai elgtis su visais sveikatos priežiūros įstaigos darbuotojais ir kitais pacientais.
+7. Pacientas privalo vykdyti sveikatos priežiūros specialistų paskyrimus ir rekomendacijas arba šio įstatymo nustatyta tvarka atsisakyti paskirtų sveikatos priežiūros paslaugų. Pacientas privalo informuoti sveikatos priežiūros specialistus apie nukrypimus nuo paskyrimų ar nustatyto režimo, dėl kurių jis davė sutikimą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+ 
 
 
 
 
-8. Pacientui, kuris pažeidžia savo pareigas, tuo sukeldamas grėsmę savo ir kitų pacientų sveikatai ir gyvybei, arba trukdo jiems gauti kokybiškas sveikatos priežiūros paslaugas, sveikatos priežiūros paslaugų teikimas gali būti nutrauktas, išskyrus atvejus, jei tai grėstų pavojus paciento gyvybei. 
+8. Pacientas privalo pagarbiai ir deramai elgtis su visais sveikatos priežiūros įstaigos darbuotojais ir kitais pacientais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+ 
+
+
+
+
+9. Pacientui, kuris pažeidžia savo pareigas, tuo sukeldamas grėsmę savo ir kitų pacientų sveikatai ir gyvybei, arba trukdo jiems gauti kokybiškas sveikatos priežiūros paslaugas, sveikatos priežiūros paslaugų teikimas gali būti nutrauktas, išskyrus atvejus, jei tai grėstų pavojus paciento gyvybei. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
  
 
 
@@ -886,3 +911,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2188, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20892
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 12 straipsnio pakeitimo įstatymas
