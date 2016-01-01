@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1C05F0250868"
 
 # Lietuvos Respublikos garantinio fondo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Įstatymas netenka galios 2017-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
+ 
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 82-2478, i. k. 1001010ISTAIII-1926
  
@@ -72,7 +77,10 @@ GARANTINIO FONDO LĖŠOS, JŲ NAUDOJIMAS IR SKYRIMAS
 
 1) darbdavių, nurodytų šio įstatymo 2 straipsnio 4 dalies 1 ir 2 punktuose, įmokos;
 
-2) Privatizavimo fondo lėšos;
+2) Neteko galios nuo 2016-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-2025, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18616
+ 
 
 3) valstybės biudžeto lėšos;
 
@@ -114,7 +122,10 @@ Nr. XII-1185, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14291
 
 2. Skiriant šio straipsnio 1 dalyje nurodytas išmokas, Įmonių bankroto įstatymo nustatyta tvarka paskirto įmonės administratoriaus, Lietuvos Respublikos fizinių asmenų bankroto įstatymo (toliau – Fizinių asmenų bankroto įstatymas) nustatyta tvarka paskirto bankroto administratoriaus ar asmens, kitoje valstybėje narėje atliekančio įmonės administratoriaus ar bankroto administratoriaus funkcijas atitinkančias funkcijas, (toliau – administratorius) prašymu, Garantinio fondo lėšos naudojamos:
 
-1) banko operacijoms, susijusioms su išmokų iš Garantinio fondo pervedimu į darbuotojų asmenines sąskaitas Lietuvos Respublikoje įsteigtuose bankuose (bankų filialuose), apmokėti pagal atitinkamų bankų (bankų filialų) įkainius. Jeigu išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose valstybėse įsteigtuose bankuose (bankų filialuose), su šių išmokų pervedimu susijusios išlaidos atlyginamos iš jų gavėjui skirtų išmokų iš Garantinio fondo. Jeigu banko operacijai apmokėti naudojamos Garantinio fondo lėšos, kai išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose valstybėse įsteigtuose bankuose (bankų filialuose), viršija darbuotojui skirtų išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiam darbuotojui nepervedamos;
+1) kredito pervedimams dėl išmokų iš Garantinio fondo pervedimo į darbuotojų asmenines sąskaitas Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (filialuose) apmokėti pagal atitinkamų kredito įstaigų (filialų) įkainius. Jeigu išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (filialuose), su šių išmokų pervedimu susijusios išlaidos atlyginamos iš jų gavėjui skirtų išmokų iš Garantinio fondo. Jeigu kredito pervedimui apmokėti naudojamos Garantinio fondo lėšos, kai išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įsteigtose kredito įstaigose (filialuose), viršija darbuotojui skirtų išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiam darbuotojui nepervedamos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1966, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17117
+ 
 
 2) išlaidoms, susijusioms su paraiškų parengimu (administratoriaus darbo daliniu apmokėjimu), apmokėti, kai bankroto byla nagrinėjama supaprastinto bankroto proceso tvarka. Šių išlaidų apmokėjimo tvarką ir dydžius (atsižvelgus į administratoriaus darbo apimtį, paraiškos sudėtingumą, darbuotojų skaičių ir kita), neviršijančius trijų minimaliųjų mėnesinių algų sumos, nustato Vyriausybė ar jos įgaliota institucija.
 
@@ -140,7 +151,10 @@ Nr. XII-318, 2013-05-16, Žin., 2013, Nr. 57-2857 (2013-06-01)
 
 1. Garantinio fondo lėšos, kai darbdavys neturi pakankamai nuosavų lėšų atsiskaityti su darbuotojais, kurių reikalavimai yra patvirtinti teismo nutartimi ar kreditorių susirinkimo nutarimu, skiriamos pagal administratoriaus Garantinio fondo administratoriui pateiktą paraišką. 
 
-2. Paraiškoje nurodoma darbdavio įsiskolinimų darbuotojams suma, prašoma skirti išmokų iš Garantinio fondo suma, darbuotojų, kuriems prašoma skirti išmokas iš Garantinio fondo, sąrašai ir jiems prašomų skirti išmokų iš Garantinio fondo pagal išmokų rūšis suma, prašomos skirti lėšos banko operacijoms apmokėti, taip pat nurodomos išlaidos, susijusios su paraiškos parengimu, ir kiti Garantinio fondo nuostatuose nurodyti būtini duomenys ir pridedami dokumentai sprendimui dėl Garantinio fondo lėšų skyrimo priimti. Už paraiškoje nurodytų duomenų atitiktį personalo ir buhalterinės apskaitos dokumentams administratorius atsako teisės aktų nustatyta tvarka.
+2. Paraiškoje nurodoma darbdavio įsiskolinimų darbuotojams suma, prašoma skirti išmokų iš Garantinio fondo suma, darbuotojų, kuriems prašoma skirti išmokas iš Garantinio fondo, sąrašai ir jiems prašomų skirti išmokų iš Garantinio fondo pagal išmokų rūšis suma, prašomos skirti lėšos kredito pervedimams apmokėti, taip pat nurodomos išlaidos, susijusios su paraiškos parengimu, ir kiti Garantinio fondo nuostatuose nurodyti būtini duomenys ir pridedami dokumentai sprendimui dėl Garantinio fondo lėšų skyrimo priimti. Už paraiškoje nurodytų duomenų atitiktį personalo ir buhalterinės apskaitos dokumentams administratorius atsako Įmonių bankroto įstatymo arba Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1966, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17117
+ 
 
 3. Administratorius paraišką Garantinio fondo administratoriui pateikia per vieną mėnesį nuo teismo nutarties patvirtinti kreditorių reikalavimus įsiteisėjimo dienos ar kreditorių susirinkimo nutarimo patvirtinti kreditorių reikalavimus priėmimo dienos. 
 
@@ -366,4 +380,14 @@ Lietuvos Respublikos garantinio fondo įstatymo Nr. VIII-1926 3 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1532, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21162
 Lietuvos Respublikos garantinio fondo įstatymo Nr. VIII-1926 6 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1966, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17117
+Lietuvos Respublikos garantinio fondo įstatymo Nr. VIII-1926 4 ir 6 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2025, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18616
+Lietuvos Respublikos garantinio fondo įstatymo Nr. VIII-1926 3 straipsnio pakeitimo įstatymas
 
