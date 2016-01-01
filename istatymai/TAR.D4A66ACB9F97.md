@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -169,7 +169,10 @@ TURTO DEKLARAVIMAS
 
 
 
-20) valstybės ir savivaldybės įmonių vadovai ir jų šeimos nariai;
+20) valstybės ir savivaldybės įmonių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovai ir jų šeimos nariai; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
 
 
 
@@ -285,7 +288,50 @@ Nr. XII-1587, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05702
 
 
 
-4. Valstybės tarnybos tvarkymo funkcijas atliekanti įstaiga, vadovaudamasi Valstybės tarnautojų registre esančiais duomenimis, iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, vardinį sąrašą.
+4. Valstybės tarnybos tvarkymo funkcijas atliekanti įstaiga iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų, kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, taip pat kandidatavusių į šias pareigas gyventojų vardinį sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
+
+
+
+
+5. Įmonės, įstaigos ir organizacijos, įgaliotos tvarkyti šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytų gyventojų duomenis, jeigu šie duomenys nėra pateikti valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai, turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
+
+
+
+
+6. Savininko ar dalininko teises ir pareigas įgyvendinanti valstybės ar savivaldybės institucija turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 19–22, 31, 32, 34 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
+
+
+
+
+7. Lietuvos Respublikos Seimo kanceliarija, Respublikos Prezidento kanceliarija, Vyriausybės kanceliarija turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 17, 18, 35 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
+
+
+
+
+8. Lietuvos Respublikos vyriausioji rinkimų komisija turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 1 ir 3 punktuose nurodytas pareigas, taip pat išrinktų į šias pareigas gyventojų vardinius sąrašus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
+
+
+
+
+9. Paskutinių praėjusių kalendorinių metų šio straipsnio 4–8 dalyse nurodytų gyventojų vardiniai sąrašai pateikiami iki einamųjų kalendorinių metų vasario 1 dienos. Vardinių sąrašų pateikimo formą ir tvarką nustato centrinis mokesčių administratorius.
+Papildyta straipsnio dalimi:
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
+ 
 
 
 Straipsnio pakeitimai:
@@ -929,4 +975,9 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2, 3 i
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1587, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05702
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straipsnio pakeitimo įstatymas
