@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -114,9 +114,10 @@ Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010IST
 
 
 
-2. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų, Privatizavimo fondo ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, taip pat tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai.
+2. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, taip pat tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai.
 Straipsnio dalies pakeitimai:
 Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
+Nr. XII-2027, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18619
  
 
 
@@ -698,3 +699,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 6 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 ir 15 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2027, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18619
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 straipsnio pakeitimo įstatymas
