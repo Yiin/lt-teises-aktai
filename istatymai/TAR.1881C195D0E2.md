@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2015-06-26 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -3427,18 +3427,20 @@ Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010IS
 
 
 
-67 straipsnis. Žvalgybos pareigūnų sveikatos priežiūra
+67 straipsnis. Žvalgybos pareigūnų sveikatinimo veikla
 
 
-1. Žvalgybos pareigūnų sveikatos priežiūra vykdoma nacionalinės sveikatos sistemos asmens sveikatos priežiūros ir visuomenės sveikatos priežiūros įstaigose. 
+1. Žvalgybos pareigūnų sveikatos priežiūra vykdoma nacionalinės sveikatos sistemos asmens sveikatos priežiūros ir visuomenės sveikatos priežiūros įstaigose, taip pat krašto apsaugos ministro valdymo srities sveikatos priežiūros įstaigose. Krašto apsaugos ministro valdymo srities sveikatos priežiūros įstaigose žvalgybos pareigūnams teikiamos sveikatinimo veiklos mastą ir specialiuosius reikalavimus nustato krašto apsaugos ir sveikatos apsaugos ministrai, o vykdymo sąlygas – krašto apsaugos ministras.
 
 
 
 
 2. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka yra tikrinama žvalgybos pareigūnų sveikatos būklė dėl tinkamumo tarnybai pagal nustatytus sveikatos būklės kriterijus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
  
-
-
 
 
 
