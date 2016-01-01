@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2015-11-26 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-02-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -332,6 +332,69 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
  
 
 
+
+
+
+
+81 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimo baudžiamajame procese ypatumai
+
+
+1. Ikiteisminio tyrimo metu baudžiamosios bylos duomenys elektronine forma tvarkomi Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos generalinio prokuroro nustatyta tvarka, suderinta su Teisėjų taryba ir Advokatų taryba. Nagrinėjimo teisme metu baudžiamosios bylos duomenys elektronine forma tvarkomi Teisėjų tarybos nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. Baudžiamąsias bylas, kurios nagrinėjimo teisme metu vedamos elektronine forma, nustato Teisėjų taryba, suderinusi su Lietuvos Respublikos generaliniu prokuroru. 
+
+
+
+
+2. Elektroninėje byloje saugomi baudžiamojo proceso metu sudaryti ar gauti elektroniniai procesiniai dokumentai. Elektroniniai procesiniai dokumentai turi būti pasirašyti saugiu elektroniniu parašu.
+
+
+
+
+3. Baudžiamojo proceso metu sudaryti ar gauti rašytiniai procesiniai dokumentai gali būti skaitmeninti ir jų skaitmeninės kopijos perkeltos į elektroninę bylą. Rašytinio procesinio dokumento skaitmeninė kopija turi būti patvirtinta dokumentą skaitmeninusio asmens saugiu elektroniniu parašu. Kai dėl teisės aktų nustatytų reikalavimų rašytinių dokumentų negalima skaitmeninti, jie saugomi tik rašytinės formos ir apie tai pažymima elektroninėje byloje. 
+
+
+
+
+4. Ikiteisminio tyrimo pareigūno, prokuroro ar teisėjo atliekami proceso veiksmai gali būti fiksuojami elektronine forma.
+
+
+
+
+5. Procesinių dokumentų įteikimo elektroninių ryšių priemonėmis nagrinėjimo teisme metu tvarką ir jų formą nustato Lietuvos Respublikos teisingumo ministras. Procesinių dokumentų įteikimo elektroninių ryšių priemonėmis ikiteisminio tyrimo metu tvarką ir jų formą nustato Lietuvos Respublikos vidaus reikalų ministras ir Lietuvos Respublikos generalinis prokuroras, suderinę su Teisėjų taryba ir Advokatų taryba.
+
+
+
+
+6. Advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, ekspertams, valstybės ir savivaldybių įmonėms, įstaigoms ir organizacijoms, finansų įstaigoms, draudimo įmonėms ikiteisminio tyrimo įstaiga, prokuratūra ar teismas procesinius dokumentus ikiteisminio tyrimo metu ir Teisėjų tarybos nustatytose baudžiamosiose bylose, kurios nagrinėjimo teisme metu vedamos elektronine forma, įteikia elektroninių ryšių priemonėmis. Be to, nagrinėjimo teisme metu Teisėjų tarybos nustatytose baudžiamosiose bylose, kurios nagrinėjimo teisme metu vedamos elektronine forma, elektroninių ryšių priemonėmis procesiniai dokumentai įteikiami asmenims, kuriems teisės aktuose ar su teismų informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga gauti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims ikiteisminio tyrimo įstaiga, prokuratūra ar teismas ikiteisminio tyrimo metu ir Teisėjų tarybos nustatytose baudžiamosiose bylose, kurios nagrinėjimo teisme metu vedamos elektronine forma, procesinius dokumentus įteikia elektroninių ryšių priemonėmis, jeigu jie sutiko procesinius dokumentus gauti elektroninių ryšių priemonėmis ir nurodė reikalingus kontaktinius duomenis. Šie asmenys bet kuriuo baudžiamojo proceso metu turi teisę atsisakyti gauti procesinius dokumentus elektroninių ryšių priemonėmis.
+
+
+
+
+7. Ikiteisminio tyrimo įstaigos, prokuratūra ir teismas ikiteisminio tyrimo metu, taip pat nagrinėjant skundus dėl ikiteisminio tyrimo pareigūno ar prokuroro proceso veiksmų ir nutarimų elektroninės formos dokumentais keičiasi Integruotoje baudžiamojo proceso informacinėje sistemoje. Ši sistema veikia vadovaujantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu ir kitais teisės aktais. Pabaigus ikiteisminį tyrimą, baudžiamosios bylos, kurios pagal Teisėjų tarybos nustatytą ir su Lietuvos Respublikos generaliniu prokuroru suderintą tvarką nagrinėjimo teisme metu vedamos elektronine forma, teismui perduodamos elektroninių ryšių priemonėmis. Kitos baudžiamosios bylos teismui perduodamos rašytinės formos, papildomai elektroninių ryšių priemonėmis perduodant elektronine forma tvarkytus baudžiamosios bylos duomenis. 
+
+
+
+
+8. Advokatai (advokatų padėjėjai), kiti proceso dalyviai ir asmenys, kuriems taikytos procesinės prievartos priemonės, teisės aktų nustatyta tvarka turi teisę pateikti teismui, ikiteisminio tyrimo institucijai ir prokuratūrai procesinius ir kitus dokumentus elektroninių ryšių priemonėmis.
+
+
+
+
+9. Baudžiamojo proceso metu šio straipsnio 6 dalyje nurodyti asmenys privalo nedelsdami pranešti ikiteisminio tyrimo įstaigai, prokuratūrai arba teismui apie kiekvieną savo nurodytų kontaktinių duomenų pasikeitimą.
+
+
+
+
+10. Procesinio dokumento įteikimo elektroninių ryšių priemonėmis dalyvaujančiam byloje asmeniui diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
+
+
+
+
+11. Be šio Kodekso, elektroninės bylos, informacinių ir elektroninių ryšių technologijų naudojimą teismuose nustato Lietuvos Respublikos teismų įstatymas.
+
+
+Papildyta straipsniu:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
 
 
 
@@ -3136,10 +3199,12 @@ Dokumentai
 95 straipsnis. Dokumentai, turintys reikšmės nusikalstamai veikai tirti ir nagrinėti
 
 
-Dokumentais, turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, yra materialūs objektai, kuriuose įmonė, įstaiga, organizacija, pareigūnas ar fizinis asmuo tam tikrais ženklais užfiksuoja informaciją, galinčią padėti atskleisti nusikalstamą veiką ir nustatyti su šia veika susijusias aplinkybes.
+Dokumentais, turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, yra objektai, kuriuose įmonė, įstaiga, organizacija, pareigūnas ar fizinis asmuo tam tikrais ženklais užfiksuoja informaciją, galinčią padėti atskleisti nusikalstamą veiką ir nustatyti su šia veika susijusias aplinkybes.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
  
-
-
 
 
 
@@ -3170,7 +3235,10 @@ Dokumentais, turinčiais reikšmės nusikalstamai veikai tirti ir nagrinėti, yr
 
 
 
-5) kiti materialūs objektai, kuriuose grafiniais arba kitokiais ženklais užfiksuota informacija, turinti reikšmės nusikalstamai veikai tirti ir nagrinėti.
+5) kiti objektai, kuriuose grafiniais arba kitokiais ženklais užfiksuota informacija, turinti reikšmės nusikalstamai veikai tirti ir nagrinėti.
+Straipsnio punkto pakeitimai:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
 
 
 
@@ -6055,7 +6123,10 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 
 
-3. Protokolą pasirašo atlikęs tyrimo veiksmą asmuo, protokolą surašęs asmuo ir visi kiti asmenys, dalyvavę atliekant tyrimo veiksmą. Apie tai, kad dalyvavęs atliekant tyrimo veiksmą asmuo atsisako pasirašyti tyrimo veiksmo protokolą arba dėl fizinių trūkumų ar kitokių priežasčių negali jo pasirašyti, pažymima protokole ir tyrimo veiksmą atlikęs asmuo tai patvirtina parašu. Kai tyrimo veiksmas atliekamas garso ir vaizdo nuotolinio perdavimo priemonėmis, protokolą pasirašo tik tokį veiksmą atlikęs asmuo ir protokolą surašęs asmuo.
+3. Protokolą pasirašo atlikęs tyrimo veiksmą asmuo, protokolą surašęs asmuo ir visi kiti asmenys, dalyvavę atliekant tyrimo veiksmą. Kai rašomas elektroninės formos protokolas, tyrimo veiksmą atlikęs asmuo, protokolą surašęs asmuo jį pasirašo saugiu elektroniniu parašu. Visi kiti asmenys, dalyvavę atliekant tyrimo veiksmą, gali arba pasirašyti protokolą saugiu elektroniniu parašu, arba pasirašyti rašytinės formos specialiame protokolo priede. Apie tai, kad dalyvavęs atliekant tyrimo veiksmą asmuo atsisako pasirašyti tyrimo veiksmo protokolą arba dėl fizinių trūkumų ar kitokių priežasčių negali jo pasirašyti, pažymima protokole ir tyrimo veiksmą atlikęs asmuo tai patvirtina parašu. Kai tyrimo veiksmas atliekamas garso ir vaizdo nuotolinio perdavimo priemonėmis, protokolą pasirašo tik tokį veiksmą atlikęs asmuo ir protokolą surašęs asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
 
 
 
@@ -6188,7 +6259,10 @@ Apklausa ikiteisminio tyrimo metu
 183 straipsnis. Liudytojo apklausa
 
 
-1. Prieš pradėdamas liudytojo apklausą, prokuroras ar ikiteisminio tyrimo pareigūnas įsitikina liudytojo asmens tapatybe, išsiaiškina reikiamus duomenis apie liudytojo asmenybę ir jo santykius su įtariamuoju, išaiškina jam šio Kodekso 81 ir 83 straipsniuose numatytas liudytojo teises ir pareigas ir įspėja dėl atsakomybės pagal Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už melagingų parodymų davimą. Visa tai pažymima protokole ir patvirtina liudytojas savo parašu.
+1. Prieš pradėdamas liudytojo apklausą, prokuroras ar ikiteisminio tyrimo pareigūnas įsitikina liudytojo asmens tapatybe, išsiaiškina reikiamus duomenis apie liudytojo asmenybę ir jo santykius su įtariamuoju, išaiškina jam šio Kodekso 81 ir 83 straipsniuose numatytas liudytojo teises ir pareigas. Prieš pradedant pirmąją apklausą liudytojas įspėjamas dėl atsakomybės pagal Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už melagingų parodymų davimą ir jis tai patvirtina savo parašu protokole. Prieš pradedant kitas apklausas liudytojui primenama, kad jis įspėtas dėl atsakomybės už melagingų parodymų davimą ir tai pažymima protokole.
+Straipsnio dalies pakeitimai:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
 
 
 
@@ -6363,6 +6437,14 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 6. Įtariamasis – užsienio valstybės pilietis ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso  7 straipsnio pagrindais, metu gali būti neapklaustas tik tuo atveju, kai yra ne Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai.
 
 
+
+
+7. Įtariamasis, kuris negali atvykti į apklausą arba yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+Papildyta straipsnio dalimi:
+Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
  
@@ -6394,6 +6476,14 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 
 
 5. Įtariamojo prašymu atliekamos apklausos metu turi dalyvauti jo gynėjas. Įtariamojo apklausa pradedama pasiūlymu įtariamajam papasakoti apie aplinkybes, dėl kurių jis norėjo būti apklaustas teisėjo. Po to įtariamajam klausimus gali užduoti gynėjas bei prokuroras.
+
+
+
+
+6. Įtariamasis, kuris negali atvykti į ikiteisminio tyrimo teisėjo atliekamą apklausą arba yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+Papildyta straipsnio dalimi:
+Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+ 
 
 
 
@@ -6441,7 +6531,10 @@ Parodymų patikrinimo veiksmai
 191 straipsnis. Parodymas atpažinti
 
 
-1. Apklaustojo asmens parodymams apie tam tikrą asmenį, daiktą ar kitokį materialų objektą patikrinti gali būti daromas parodymas atpažinti.
+1. Apklaustojo asmens parodymams apie tam tikrą asmenį, daiktą ar kitokį objektą patikrinti gali būti daromas parodymas atpažinti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
 
 
 
@@ -7347,7 +7440,7 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-2. (Neteko galios nuo 2010 m. gruodžio 31 d.)
+2. Neteko galios nuo 2010 m. gruodžio 31 d.
 
 
 
@@ -7357,7 +7450,10 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-4. Surašęs kaltinamąjį aktą, prokuroras iki bylos perdavimo teismui kaltinamojo akto nuorašą pasirašytinai įteikia kaltinamajam. Kaltinamojo akto nuorašas kaltinamojo prašymu gali būti išsiunčiamas jam elektroninių ryšių priemonėmis, taip pat gali būti įteiktas perkeltas į elektroninę laikmeną.
+4. Surašęs kaltinamąjį aktą, prokuroras iki bylos perdavimo teismui kaltinamojo akto nuorašą pasirašytinai įteikia kaltinamajam. Kaltinamojo akto nuorašas kaltinamojo sutikimu gali būti išsiunčiamas jam elektroninių ryšių priemonėmis arba gali būti įteiktas perkeltas į elektroninę laikmeną.
+Straipsnio dalies pakeitimai:
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
 
 
 
@@ -8035,7 +8131,10 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 246 straipsnis. Kaltinamojo dalyvavimas bylą nagrinėjant teisme
 
 
-1. Byla pirmosios instancijos teismo posėdyje nagrinėjama dalyvaujant kaltinamajam. Kaltinamajam atvykti į teismą privaloma. Nagrinėti bylą, kai nedalyvauja kaltinamasis, leidžiama tik tuo atveju, jeigu kaltinamasis yra ne Lietuvos Respublikos teritorijoje ir vengia atvykti į teismą.
+1. Byla pirmosios instancijos teismo posėdyje nagrinėjama dalyvaujant kaltinamajam. Kaltinamajam atvykti į teismą privaloma. Nagrinėti bylą, kai nedalyvauja kaltinamasis, leidžiama tik tuo atveju, jeigu kaltinamasis yra ne Lietuvos Respublikos teritorijoje ir vengia atvykti į teismą. Kaltinamojo, kuris negali atvykti į teismą, kuriame nagrinėjama byla, arba kuris yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+Straipsnio dalies pakeitimai:
+Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+ 
 
 
 
@@ -15262,3 +15361,8 @@ Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. k
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2047, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18710
 Lietuvos Respublikos baudžiamojo proceso kodekso 131 ir 133 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 8-1 straipsniu ir 95, 96, 179, 183, 191, 220 straipsnių pakeitimo įstatymas
