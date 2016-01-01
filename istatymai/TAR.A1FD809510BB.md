@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-05-28 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -409,7 +409,10 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus mažosios bendrijos nariams ar jų duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos. 
+2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus šio straipsnio 1 dalyje nurodytiems duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
+ 
 
 
 
