@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -2193,7 +2193,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 Atliekų tvarkymo papildomi finansavimo šaltiniai:
 
 
-1) Gaminių ar pakuotės atliekų tvarkymo programos lėšos;
+1) Atliekų tvarkymo programos lėšos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1841, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10371
+ 
 
 
 
@@ -2230,15 +2233,15 @@ Nr. IX-1615, 2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
 
 
 
-34 straipsnis. Gaminių ar pakuotės atliekų tvarkymo programa
+34 straipsnis. Atliekų tvarkymo programa
 
 
-1. Gaminių ar pakuotės atliekų tvarkymo programa (toliau – Programa) sudaroma atliekų tvarkymo finansavimo galimybėms padidinti.
+1. Atliekų tvarkymo programa (toliau – Programa) sudaroma atliekų tvarkymo finansavimo galimybėms padidinti.
 
 
 
 
-2. Programos lėšas sudaro Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 341 straipsnio 4 dalyje, 342 straipsnio 3 dalyje, 345 straipsnio 2 dalyje ir 3412 straipsnio 2 dalyje nurodytus dokumentus, užtikrinančius atliekų tvarkymo finansavimą.
+2. Programos lėšas sudaro Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis ir mokestis už aplinkos teršimą sąvartyne šalinamomis atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 341 straipsnio 7 dalyje, 342 straipsnio 3 dalyje, 345 straipsnio 2 dalyje ir 3412 straipsnio 2 dalyje nurodytus dokumentus, užtikrinančius atliekų tvarkymo finansavimą.
 
 
 
@@ -2246,39 +2249,44 @@ Nr. IX-1615, 2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
 3. Programos lėšos naudojamos finansuoti:
 
 
-1) elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės atliekų tvarkymo sistemų kūrimą, funkcionavimą ir vystymą, įskaitant ir investicinių projektų įgyvendinimą;
+1) atliekų tvarkymo sistemų kūrimą, funkcionavimą ir vystymą, įskaitant ir investicinių projektų įgyvendinimą;
 
 
 
 
-2) visuomenės ir savivaldybių darbuotojų mokymą, švietimą ir informavimą elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės bei jų atliekų tvarkymo klausimais – ne daugiau kaip 5 procentai Programos metinių įplaukų;
+2) visuomenės ir savivaldybių darbuotojų mokymą, švietimą ir informavimą atliekų tvarkymo klausimais – ne daugiau kaip 5 procentai Programos metinių įplaukų;
 
 
 
 
-3) elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės atliekų tvarkymo sistemų kūrimą, funkcionavimą ir vystymą, teikiant dotacijas savivaldybėms ir subsidijas ūkio subjektams;
+3) atliekų tvarkymo sistemų kūrimą, funkcionavimą ir vystymą, teikiant dotacijas savivaldybėms ir subsidijas ūkio subjektams;
 
 
 
 
-4) Programos lėšų ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis administravimo priemones.
+4) Programos lėšų ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis ir mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis administravimo priemones.
 
 
 
 
 
 
-4. Programos lėšos naudojamos einamaisiais biudžetiniais metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti, o jei nėra galimybės, – perkeliamos į kitus biudžetinius metus.
+4. Programos lėšos naudojamos einamaisiais biudžetiniais metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti, o jeigu nėra galimybės, – perkeliamos į kitus biudžetinius metus.
 
 
 
 
-5. Savivaldybės ir ūkio subjektai, įgyvendindami elektros ir elektroninės įrangos, apmokestinamųjų gaminių ir pakuotės atliekų tvarkymo sistemų kūrimo, funkcionavimo ir vystymo projektus, Programos lėšas naudoja vadovaudamiesi Viešųjų pirkimų įstatymu.
+5. Savivaldybės ir ūkio subjektai, įgyvendindami atliekų tvarkymo sistemų kūrimo, funkcionavimo ir vystymo projektus, Programos lėšas naudoja vadovaudamiesi Lietuvos Respublikos viešųjų pirkimų įstatymu.
 
 
 
 
-6. Programos lėšas administruoja ir jų naudojimo tvarką, finansuojamų priemonių tikslus, uždavinius, siekiamus rezultatus, paraiškų pateikimo ir vertinimo kriterijus, subsidijų ir dotacijų teikimo tvarką nustato Aplinkos ministerija.
+6. Programos lėšų naudojimo tvarką, finansuojamų priemonių tikslus, uždavinius, siekiamus rezultatus, paraiškų pateikimo ir vertinimo kriterijus, subsidijų ir dotacijų teikimo tvarką nustato Aplinkos ministerija.
+
+
+
+
+7. Programos lėšas administruoja Lietuvos aplinkos apsaugos investicijų fondas.
 
 
 Straipsnio pakeitimai:
@@ -2286,6 +2294,8 @@ Nr. X-279, 2005-06-28, Žin., 2005, Nr. 84-3111 (2005-07-12)
 Nr. X-1605, 2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
 Nr. XI-624, 2009-12-22, Žin., 2009, Nr. 154-6961 (2009-12-28)
 Nr. XI-1892, 2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
+Straipsnio pakeitimai:
+Nr. XII-1841, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10371
  
 
 
@@ -4316,6 +4326,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                               VALDAS ADAMKUS
  
+ 
 
 
 
@@ -4569,3 +4580,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 30-2 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1720, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07671
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 straipsnio pakeitimo ir 4 priedo pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1841, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10371
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 33 ir 34 straipsnių pakeitimo įstatymas
