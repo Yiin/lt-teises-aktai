@@ -13,14 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
  
-LIETUVOS RESPUBLIKOS
-MOKESČIŲ ADMINISTRAVIMO
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMAS
  
 2004 m. balandžio 13 d. Nr. IX-2112 Vilnius
  
@@ -613,7 +611,10 @@ Nr. X-1318, 2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
 
 
 
-5. Šio Įstatymo 13 straipsnio 19 punkte nurodytos valstybinio socialinio draudimo įmokos pagal šį Įstatymą administruojamos tiek, kiek tai nustatyta Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
+5. Šio Įstatymo 13 straipsnio 13 punkte nurodytos privalomojo sveikatos draudimo įmokos ir 19 punkte nurodytos valstybinio socialinio draudimo įmokos pagal šį Įstatymą administruojamos tiek, kiek tai nustatyta Lietuvos Respublikos sveikatos draudimo įstatyme ir Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
+ 
 
 
 
@@ -1158,7 +1159,9 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 
 
-5. Detalią šio straipsnio įgyvendinimo tvarką pagal savo kompetenciją nustato centrinis mokesčių administratorius, atsižvelgdamas į atitinkamų tarptautinių sutarčių ar susitarimų nuostatas.
+5. Detalią šio straipsnio įgyvendinimo tvarką pagal savo kompetenciją nustato centrinis mokesčių administratorius, atsižvelgdamas į atitinkamų tarptautinių sutarčių ar susitarimų nuostatas ir asmens duomenų apsaugai taikomus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
@@ -1834,10 +1837,17 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 41 straipsnis. Paaiškinimų apie turto įsigijimo ir pajamų gavimo šaltinius pateikimas
 
 
-Mokesčių mokėtojas privalo ne vėliau kaip per 10 dienų (jei mokesčių administratorius nenustato ilgesnio termino) nuo šio Įstatymo 33 straipsnio 13 punkte minimo mokesčių administratoriaus nurodymo įteikimo dienos pateikti paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti.
+1. Mokesčių mokėtojas privalo ne vėliau kaip per 10 dienų (jei mokesčių administratorius nenustato ilgesnio termino) nuo šio Įstatymo 33 straipsnio 13 punkte minimo mokesčių administratoriaus nurodymo įteikimo dienos pateikti paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti.
+
+
+
+
+2. Turto įsigijimo ir pajamų gavimo šaltiniai, mokesčių administratoriui pareikalavus, pagrindžiami įstatymų reikalavimus atitinkančiais sandorius patvirtinančiais dokumentais, kitais juridinę galią turinčiais dokumentais. Sandorius patvirtinančiuose dokumentuose, kituose juridinę galią turinčiuose dokumentuose turi būti nurodyti duomenys, leidžiantys identifikuoti išmokėjusį asmenį. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
-
-
 
 
 
@@ -2088,20 +2098,7 @@ Gyventojų registrą tvarkanti įstaiga gyventojų registro duomenis mokesčių 
 
 
 Juridinių asmenų registro tvarkytojas juridinių asmenų registro duomenis mokesčių administratoriui teikia jo ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
- 
-
-
-
-
-
-
-55 straipsnis. Informacijos apie atidarytas ir uždarytas sąskaitas pateikimas
-
-
-Kredito, mokėjimo ir elektroninių pinigų įstaigos privalo pateikti mokesčių administratoriui informaciją apie Lietuvos ir užsienio juridinių asmenų (jų filialų ir atstovybių) bei fizinių asmenų atidarytas ir uždarytas visų rūšių sąskaitas. Informacija pateikiama Valstybinei mokesčių inspekcijai prie Finansų ministerijos raštu ne vėliau kaip per 3 darbo dienas nuo sąskaitos atidarymo ar uždarymo dienos arba kitais kredito, mokėjimo ir elektroninių pinigų įstaigos ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
-
-
-Straipsnio pakeitimai:
+traipsnio pakeitimai:
 Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
 Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
  
@@ -2109,67 +2106,103 @@ Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
 
 
 
-56 straipsnis. Informacijos apie suteiktas ir gautas paskolas pateikimas 
 
 
-1. Lietuvos Respublikoje įregistruoti juridiniai asmenys (išskyrus kredito įstaigas) privalo kartą per metus pateikti Valstybinei mokesčių inspekcijai informaciją apie fiziniams asmenims suteiktas, jų grąžintas ir iš fizinių asmenų gautas paskolas bei jų dydį centrinio mokesčių administratoriaus nustatyta tvarka ir terminais. 
+55 straipsnis. Prižiūrimų finansų rinkos dalyvių teikiama informacija
 
 
-
-
-2. Kredito įstaigos privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie fiziniams asmenims suteiktas, taip pat jų grąžintas gyvenamajam būstui statyti arba jam įsigyti paskolas bei jų dydį ir už šias paskolas fizinių asmenų sumokėtas palūkanų sumas. Informacija pateikiama kartą per metus centrinio mokesčių administratoriaus nustatyta tvarka ir terminais. 
+1. Prižiūrimi finansų rinkos dalyviai, kaip jie apibrėžti Lietuvos Respublikos Lietuvos banko įstatyme, privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie asmenų atidarytas ir uždarytas visų rūšių sąskaitas, sąskaitų metinių apyvartų dydį, jeigu to paties asmens visų pas tą patį finansų rinkos dalyvį turimų sąskaitų bendros metinės apyvartos dydis yra ne mažesnis kaip 15 000 eurų, sąskaitų likutį metų pabaigoje, jeigu to paties asmens visų pas tą patį finansų rinkos dalyvį turimų sąskaitų likutis metų pabaigoje yra ne mažesnis kaip 5 000 eurų, palūkanas, skolinius įsipareigojimus, vertybinius popierius, draudimo įmokas, pensijų draudimo įmokas, taip pat kitą informaciją, reikalingą mokesčių administratoriaus funkcijoms atlikti.
 
 
 
 
-3. Finansų įstaigos, kaip ši sąvoka apibrėžta Finansų įstaigų įstatyme, privalo kartą per metus pateikti Valstybinei mokesčių inspekcijai informaciją apie fizinių asmenų sumokėtas sumas (išskiriant palūkanas) už gyvenamojo būsto lizingą (finansinę nuomą) centrinio mokesčių administratoriaus nustatyta tvarka ir terminais. 
+2. Informacija apie asmenų atidarytas ir uždarytas visų rūšių sąskaitas pateikiama raštu ne vėliau kaip per 3 darbo dienas nuo sąskaitos atidarymo ar uždarymo dienos arba kitais prižiūrimo finansų rinkos dalyvio ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais. Kita šio straipsnio 1 dalyje nurodyta informacija pateikiama kartą per metus Vyriausybės nustatytu mastu, tvarka ir terminais.
+
+
+Straipsnio pakeitimai:
+Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
+Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
+Straipsnio pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
 
 
+551 straipsnis. Kita trečiųjų asmenų teikiama informacija
 
 
-57 straipsnis. Informacijos apie įsigytus vertybinius popierius pateikimas
+1. Lietuvos Respublikoje įregistruoti juridiniai asmenys privalo kartą per metus pateikti Valstybinei mokesčių inspekcijai informaciją apie fiziniams asmenims suteiktas, jų grąžintas ir iš fizinių asmenų gautas paskolas bei jų dydį centrinio mokesčių administratoriaus nustatyta tvarka ir terminais, išskyrus atvejus, kai ši informacija teikiama šio Įstatymo 55 straipsnyje nustatyta tvarka. 
 
 
-Vertybinių popierių viešosios apyvartos tarpininkai privalo kartą per metus pateikti Valstybinei mokesčių inspekcijai informaciją apie asmenų įsigytus vertybinius popierius centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+
+
+2. Lietuvos Respublikoje įregistruotos mokslo ir studijų bei formaliojo profesinio mokymo įstaigos privalo kartą per metus pranešti Valstybinei mokesčių inspekcijai apie fizinių asmenų (fizinių asmenų naudai) sumokėtas įmokas už profesinį mokymą ir (ar) studijas, kurias baigus įgyjamas aukštasis išsilavinimas ir (ar) suteikiama kvalifikacija, taip pat už doktorantūros ir meno aspirantūros studijas centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+
+
+
+
+3. Lietuvos Respublikoje įregistruoti juridiniai asmenys privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie iš jų dalyvių – fizinių asmenų – gautas pinigines įmokas (įskaitant įmokas nuostoliams padengti), kai vieno fizinio asmens per vienus kalendorinius metus įmokėta suma yra ne mažesnė kaip 15 000 eurų. Ši informacija pateikiama kartą per metus centrinio mokesčių administratoriaus nustatyta tvarka ir terminais. 
+
+
+
+
+4. Lietuvos Respublikoje įregistruoti juridiniai asmenys privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie įsiskolinimus fiziniams asmenims už šių asmenų juridinio asmens vardu patirtas išlaidas ir fizinių asmenų įsiskolinimus už iš to juridinio asmens atsiskaitytinai gautas išmokas, jeigu įsiskolinimas vienam fiziniam asmeniui arba vieno fizinio asmens įsiskolinimas kalendorinių metų gruodžio 31 dieną yra ne mažesnis kaip 15 000 eurų. Ši informacija pateikiama kartą per metus centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+
+
+
+
+5. Lietuvos Respublikoje įregistruoti juridiniai asmenys privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie užsienio juridinių asmenų jiems suteiktas paslaugas Lietuvoje, jeigu pagal vieną sandorį arba pagal keletą per vienus kalendorinius metus su tuo pačiu asmeniu sudarytų sandorių gautų paslaugų vertė yra ne mažesnė kaip 15 000 eurų. Ši informacija pateikiama kartą per metus centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+
+
+
+
+6. Lietuvos Respublikoje įregistruoti juridiniai asmenys privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie kiekvieną nenuolatinį Lietuvos gyventoją, dirbantį šiame juridiniame asmenyje Lietuvoje pagal laikinojo įdarbinimo sutartį, sudarytą su užsienio valstybės juridiniu asmeniu. Ši informacija pateikiama centrinio mokesčių administratoriaus nustatyta tvarka ir terminais. 
+
+
+Papildyta straipsniu:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
 
 
-
-
-58 straipsnis. Informacijos apie įmokas už studijas pateikimas
-
-
-Lietuvos Respublikoje įregistruotos mokslo ir studijų įstaigos privalo kartą per metus pranešti Valstybinei mokesčių inspekcijai apie fizinių asmenų (fizinių asmenų naudai) sumokėtas už studijas, kurias baigus įgyjamas aukštasis išsilavinimas ir (ar) suteikiama kvalifikacija, taip pat už doktorantūros bei meno aspirantūros studijas sumas centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+56 straipsnis. Neteko galios nuo 2016-01-01
+Straipsnio naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
 
 
-
-
-59 straipsnis. Informacijos apie sumokėtas gyvybės draudimo įmokas pateikimas
-
-
-Lietuvos Respublikoje įregistruotos draudimo įmonės privalo kartą per metus pranešti Valstybinei mokesčių inspekcijai apie fizinių asmenų (fizinių asmenų naudai) sumokėtų gyvybės draudimo įmokų sumas centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+57 straipsnis. Neteko galios nuo 2016-01-01
+Straipsnio naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
 
 
-
-
-60 straipsnis. Informacijos apie pensijų draudimo įmokas pateikimas
-
-
-Lietuvos Respublikoje įregistruoti pensijų draudimo įmokas priimantys fondai privalo kartą per metus pranešti Valstybinei mokesčių inspekcijai apie asmenų (jų naudai) sumokėtų pensijų draudimo įmokų sumas centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+58 straipsnis. Neteko galios nuo 2016-01-01
+Straipsnio naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
+
+
+59 straipsnis. Neteko galios nuo 2016-01-01
+Straipsnio naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
+
+
+
+
+60 straipsnis. Neteko galios nuo 2016-01-01
+Straipsnio naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -2324,7 +2357,10 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 68 straipsnis. Mokesčio apskaičiavimo ir perskaičiavimo senatis
 
 
-1. Jeigu kitaip nenustatyta atitinkamo mokesčio įstatyme, mokesčių mokėtojas ar mokesčių administratorius mokestį apskaičiuoti arba perskaičiuoti gali ne daugiau kaip už einamuosius ir penkerius praėjusius kalendorinius metus, skaičiuojamus atgal nuo tų metų, kada pradedama mokestį apskaičiuoti arba perskaičiuoti, sausio 1 dienos.
+1. Jeigu kitaip nenustatyta šiame straipsnyje ar atitinkamo mokesčio įstatyme, mokesčių mokėtojas ar mokesčių administratorius mokestį apskaičiuoti arba perskaičiuoti gali ne daugiau kaip už einamuosius ir penkerius praėjusius kalendorinius metus, skaičiuojamus atgal nuo tų metų, kuriais pradedama mokestį apskaičiuoti arba perskaičiuoti, sausio 1 dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -2334,12 +2370,26 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-3. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 dalyje numatytas terminas galima tik tuo atveju, jei baudžiamojoje byloje būtina nustatyti padarytą žalą valstybei ir nėra pasibaigę Baudžiamajame kodekse numatyti apkaltinamojo nuosprendžio priėmimo senaties terminai.
+3. Jeigu mokesčių mokėtojas pateikia mokesčio deklaraciją arba patikslintą mokesčio deklaraciją likus mažiau kaip 90 dienų iki šio straipsnio 1 dalyje numatyto mokesčio apskaičiavimo (perskaičiavimo) termino pabaigos, mokesčių administratorius gali patikrinti šioje deklaracijoje deklaruoto mokesčio apskaičiavimo teisingumą ir jį perskaičiuoti neatsižvelgdamas į šio straipsnio 1 dalies nuostatas, jeigu mokesčių administratorius patikrinimą pradeda ne vėliau kaip per 90 dienų nuo šios deklaracijos pateikimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
 
-4. Apskaičiuojant muitus, šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
+4. Apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu 1 dalyje numatytas terminas galima tik tuo atveju, jei baudžiamojoje byloje būtina nustatyti padarytą žalą valstybei ir nėra pasibaigę Baudžiamajame kodekse numatyti apkaltinamojo nuosprendžio priėmimo senaties terminai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
+
+
+
+
+5. Apskaičiuojant muitus, šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
@@ -2724,7 +2774,10 @@ Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka mokesčių mokėt
 
 
 
-2. Mokestį išskaičiuojančio asmens permokėtos gyventojų pajamų mokesčio sumos gali būti įskaitomos tik gyventojų pajamų mokesčiui bei su juo susijusioms sumoms padengti ir tik tuo atveju, jeigu jos nesusidarė dėl per daug išskaityto pajamų mokesčio.
+2. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -2883,14 +2936,22 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauja 6
 
 
 
-3) nutraukiama mokestinės paskolos sutartis.
+3) nutraukiama mokestinės paskolos sutartis;
+
+
+
+
+4) mokesčių mokėtojas atitinkamo mokesčio įstatymo nustatytu laiku nesumoka nedeklaruojamo mokesčio.
+Papildyta straipsnio punktu:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
 
 
 
-2. (Neteko galios nuo 2007 m. liepos 19 d.) 
+2. Neteko galios nuo 2007-07-19 
 
 
 
@@ -3283,7 +3344,10 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-3. Mokesčių mokėtojo turtas gali būti areštuojamas, jeigu mokesčių mokėtojas mokesčio įstatymo nustatyta tvarka nesumokėjo mokesčio ir su juo susijusių sumų arba jeigu mokesčių administratoriui priėmus sprendimą, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, yra pavojus, kad mokesčių mokėtojas jam priklausantį turtą gali paslėpti, parduoti ar kitokiu būdu jo netekti ir dėl to gali būti sunku arba neįmanoma išieškoti mokesčio ir su juo susijusių sumų.
+3. Mokesčių mokėtojo turtas gali būti areštuojamas, jeigu mokesčių mokėtojas atitinkamo mokesčio įstatymo nustatyta tvarka nesumokėjo mokesčio ir su juo susijusių sumų arba jeigu mokesčių administratoriui priėmus sprendimą, pagal kurį mokesčių mokėtojui iš naujo apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, yra pavojus, kad mokesčių mokėtojas jam priklausantį turtą gali paslėpti, parduoti ar kitokiu būdu jo netekti ir dėl to gali būti sunku arba neįmanoma išieškoti mokesčio ir su juo susijusių sumų. Mokestinio ginčo metu priėmus sprendimą panaikinti mokesčių administratoriaus sprendimą ir pavesti mokesčių administratoriui atlikti pakartotinį patikrinimą bei priimti naują sprendimą, turto areštas lieka galioti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -3383,10 +3447,16 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-1041 straipsnis. Mokestinės prievolės nustatymas pagal paskutinės prieš tai buvusio mokestinio laikotarpio mokesčių mokėtojo pateiktos mokesčio deklaracijos duomenis
+1041 straipsnis. Mokestinės prievolės nustatymas mokesčių mokėtojui nepateikus deklaracijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
-1. Mokesčių administratorius, siekdamas užtikrinti nedeklaruotos mokestinės prievolės įvykdymą, centrinio mokesčių administratoriaus nustatyta tvarka turi teisę savo sprendimu nustatyti mokesčių mokėtojui mokestinę prievolę pagal paskutinės prieš tai buvusio mokestinio laikotarpio mokesčių mokėtojo pateiktos to mokesčio deklaracijos, kurioje mokesčių mokėtojas deklaravo mokėtiną mokesčio sumą, duomenis, jeigu mokesčių mokėtojas mokesčio įstatymo nustatyta tvarka laiku nepateikia atitinkamo mokesčio deklaracijos. 
+1. Mokesčių administratorius, siekdamas užtikrinti, kad būtų įvykdyta nedeklaruota mokestinė prievolė, centrinio mokesčių administratoriaus nustatyta tvarka turi teisę savo sprendimu nustatyti mokesčių mokėtojui mokestinę prievolę, jeigu mokesčių mokėtojas atitinkamo mokesčio įstatymo nustatyta tvarka laiku nepateikia atitinkamo mokesčio deklaracijos. Mokestinės prievolės dydis nustatomas pagal ankstesnių mokesčių mokėtojo pateiktų to mokesčio deklaracijų duomenis ir (arba) kitą mokesčių administratoriui šio ir kitų mokesčių įstatymų nustatyta tvarka šio mokesčių mokėtojo ir trečiųjų asmenų pateiktą informaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -3424,12 +3494,18 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 
 
 
-2. Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas, jeigu mokesčių mokėtojas arba mokesčių mokėtojo – juridinio asmens vadovas ar jo įgaliotas asmuo, veikdamas to juridinio asmens naudai arba interesais, buvo pripažintas kaltu arba jam buvo paskirta administracinė nuobauda dėl apgaulingo ar aplaidaus apskaitos tvarkymo, nusikalstamu būdu įgytų pinigų ar turto legalizavimo ir (ar) jo realizavimo, nelegalaus darbo, darbo užmokesčio mokėjimo tvarkos pažeidimo, buhalterinės piniginių lėšų ir materialinių vertybių apskaitos taisyklių pažeidimo, neteisingų duomenų apie pajamas, pelną ar turtą pateikimo ir teistumas neišnykęs ir nepanaikintas arba nuo tos dienos, kurią pasibaigia administracinės nuobaudos vykdymas, nėra praėję daugiau kaip vieni metai.
+2. Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas, jeigu mokesčių mokėtojas arba mokesčių mokėtojo – juridinio asmens vadovas ar jo įgaliotas asmuo, veikdami to juridinio asmens naudai arba interesais, buvo pripažinti kaltais arba jiems buvo paskirta administracinė nuobauda dėl apgaulingo ar aplaidaus apskaitos tvarkymo, nusikalstamu būdu įgytų pinigų ar turto legalizavimo ir (ar) jo realizavimo, nelegalaus darbo, darbo užmokesčio mokėjimo tvarkos pažeidimo, buhalterinės piniginių lėšų ir materialinių vertybių apskaitos taisyklių pažeidimo, neteisingų duomenų apie pajamas, pelną ar turtą pateikimo ir teistumas neišnykęs ir nepanaikintas arba nuo tos dienos, kurią pasibaigia administracinės nuobaudos vykdymas, nėra praėję daugiau kaip vieni metai, taip pat kai mokesčių administratorius vykdo mokesčių mokėtojo mokestinės nepriemokos priverstinį išieškojimą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
 
-3. Nurodymas atsiskaityti negrynaisiais pinigais taip pat gali būti duodamas, jeigu patikrinimo, ar teisingai apskaičiuotas ir sumokėtas mokestis, metu, taip pat pavedimo dėl specialisto išvados teikimo vykdymo metu nustatoma mokesčių įstatymų pažeidimų ir yra pagrįsta rizika, kad mokesčių mokėtojas, atsiskaitydamas grynaisiais pinigais, gali slėpti pajamas ar kitaip vengti mokėti mokesčius.
+3. Nurodymas atsiskaityti negrynaisiais pinigais taip pat gali būti duodamas, jeigu patikrinimo, ar teisingai apskaičiuotas ir sumokėtas mokestis, mokestinio tyrimo, taip pat pavedimo dėl specialisto išvados teikimo vykdymo metu nustatoma mokesčių įstatymų pažeidimų ir yra pagrįsta rizika, kad mokesčių mokėtojas, atsiskaitydamas grynaisiais pinigais, gali slėpti pajamas ar kitaip vengti mokėti mokesčius.
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -4254,12 +4330,18 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-2. Su patikrinimo aktu pasirašytinai supažindinamas mokesčių mokėtojas (jo atstovas). 
+2. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
 
-3. Tais atvejais, kai mokesčių mokėtojas (jo atstovas) atsisako pasirašyti patikrinimo aktą arba mokesčių mokėtojas (jo atstovas) nerandamas ar neatvyksta pasirašyti patikrinimo akto, apie tai pažymima patikrinimo akte.
+3. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -4333,7 +4415,9 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-3. Mokesčių mokėtojas savo atskiru rašytiniu pareiškimu arba pasirašydamas patikrinimo aktą gali nurodyti, kad nesinaudos savo teise pateikti pastabas dėl patikrinimo akto. 
+3. Mokesčių mokėtojas rašytiniu pareiškimu gali nurodyti, kad nesinaudos savo teise pateikti pastabas dėl patikrinimo akto.
+Straipsnio dalies pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
  
 
 
@@ -5007,7 +5091,18 @@ Mokestinių ginčų komisija nagrinėja:
 
 
 
-5) paveda vietos mokesčių administratoriui atlikti pakartotinį patikrinimą ir priimti naują sprendimą.
+5) panaikina vietos mokesčių administratoriaus sprendimą ir paveda vietos mokesčių administratoriui atlikti pakartotinį patikrinimą bei priimti naują sprendimą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
+
+
+
+
+6) panaikina vietos mokesčių administratoriaus sprendimą ir paveda priimti naują sprendimą.
+Papildyta straipsnio punktu:
+Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+ 
 
 
 
@@ -5963,3 +6058,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 10
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 28, 41, 55, 68, 87, 89, 101, 104-1, 104-2, 129, 131, 154 straipsnių ir priedo pakeitimo, Įstatymo papildymo 55-1 ir 61-1 straipsniais ir 56, 57, 58, 59, 60 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14 straipsnio pakeitimo įstatymas
