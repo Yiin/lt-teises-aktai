@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS SUSKYSTINTŲ GAMTINIŲ DUJŲ TERMINALO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2014-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 68-3466, i. k. 1121010ISTA0XI-2053
  
@@ -84,27 +84,49 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Suskystintų gamtinių dujų terminalo infrastruktūra (toliau – SGD terminalo infrastruktūra) – SGD terminalas, SGD terminalo jungtis ir jų technologiniai priklausiniai, taip pat krantinė, skirta plaukiojančiajai suskystintų gamtinių dujų saugyklai prisišvartuoti.
+3. Suskystintų gamtinių dujų terminalo būtinasis kiekis (toliau – SGD terminalo būtinasis kiekis) – Vyriausybės nustatyta tvarka apskaičiuotas, suderintas su Valstybine kainų ir energetikos kontrolės komisija (toliau – Komisija) ir Vyriausybės patvirtintas SGD terminalo būtinajai veiklai užtikrinti reikalingas minimalus metinis dujinamų gamtinių dujų kiekis. Minimaliu metiniu dujinamų gamtinių dujų kiekiu pripažįstamas toks gamtinių dujų kiekis, kuris pagrįstai reikalingas SGD terminalo dujinimo technologijos procesui ir SGD terminalo techninės būklės, leidžiančios atsiradus poreikiui pradėti dujinimą ir tiekti gamtines dujas į perdavimo sistemą po to, kai SGD terminalo dujinimo procesas nebuvo vykdomas, užtikrinimui palaikyti. 
+Papildyta straipsnio dalimi:
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
+ 
 
 
 
 
-4. Suskystintų gamtinių dujų terminalo jungtis (toliau – SGD terminalo jungtis) – dujotiekis, kuriuo gamtinės dujos iš SGD terminalo tiekiamos į gamtinių dujų perdavimo sistemą.
+4. Suskystintų gamtinių dujų terminalo infrastruktūra (toliau – SGD terminalo infrastruktūra) – SGD terminalas, SGD terminalo jungtis ir jų technologiniai priklausiniai, taip pat krantinė, skirta plaukiojančiajai suskystintų gamtinių dujų saugyklai prisišvartuoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
+ 
 
 
 
 
-5. Suskystintų gamtinių dujų terminalo operatorius (toliau – SGD terminalo operatorius) – asmuo, turintis Gamtinių dujų įstatyme nustatyta tvarka išduotą gamtinių dujų skystinimo licenciją ir atsakingas už SGD terminalo eksploatavimą.
+5. Suskystintų gamtinių dujų terminalo jungtis (toliau – SGD terminalo jungtis) – dujotiekis, kuriuo gamtinės dujos iš SGD terminalo tiekiamos į gamtinių dujų perdavimo sistemą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
+ 
 
 
 
 
-6. Suskystintų gamtinių dujų terminalo projektas – projektas, apimantis SGD terminalo projektavimą, įrenginių ir technologijų įsigijimą, terminalo infrastruktūros plėtrą ir įrengimą, terminalo prijungimą prie gamtinių dujų perdavimo sistemos ir kitus susijusius darbus iki terminalo eksploatavimo pradžios.
+6. Suskystintų gamtinių dujų terminalo operatorius (toliau – SGD terminalo operatorius) – asmuo, turintis Gamtinių dujų įstatyme nustatyta tvarka išduotą gamtinių dujų skystinimo licenciją ir atsakingas už SGD terminalo eksploatavimą, kuriame valstybei tiesiogiai ar per jos kontroliuojamas įmones priklauso ne mažiau kaip 2/3 balsų bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
+ 
 
 
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Gamtinių dujų įstatyme ir kituose teisės aktuose.
+7. Suskystintų gamtinių dujų terminalo projektas – projektas, apimantis SGD terminalo projektavimą, įrenginių ir technologijų įsigijimą, terminalo infrastruktūros plėtrą ir įrengimą, terminalo prijungimą prie gamtinių dujų perdavimo sistemos ir kitus susijusius darbus iki terminalo eksploatavimo pradžios.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
+ 
+
+
+
+
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Gamtinių dujų įstatyme ir kituose teisės aktuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
  
 
 
@@ -174,9 +196,10 @@ PROJEKTO ĮGYVENDINIMAS IR FINANSAVIMAS
 
 
 
-2. SGD terminalo, jo infrastruktūros ir jungties įrengimo sąnaudos, kurių nėra galimybės finansuoti iš kitų bendrovei prieinamų šaltinių, taip pat SGD terminalo, jo infrastruktūros ir jungties visos pastoviosios eksploatavimo sąnaudos, reikalingos SGD terminalo veiklai užtikrinti, Valstybinės kainų ir energetikos kontrolės komisijos (toliau – Komisija) nustatyta tvarka įtraukiamos į gamtinių dujų tiekimo saugumo papildomą dedamąją prie gamtinių dujų perdavimo kainos (toliau – papildoma dedamoji). Papildomą dedamąją Komisijos nustatyta tvarka surenka, administruoja ir SGD terminalo operatoriui ar bendrovei išmoka gamtinių dujų perdavimo sistemos operatorius (toliau – perdavimo sistemos operatorius).
+2. SGD terminalo, jo infrastruktūros ir jungties įrengimo sąnaudos, kurių nėra galimybės finansuoti iš kitų bendrovei prieinamų šaltinių, taip pat SGD terminalo, jo infrastruktūros ir jungties visos pastoviosios eksploatavimo sąnaudos bei SGD terminalo būtinojo kiekio tiekimo pagrįstos sąnaudos Komisijos nustatyta tvarka įtraukiamos į gamtinių dujų tiekimo saugumo papildomą dedamąją prie gamtinių dujų perdavimo kainos (toliau – papildoma dedamoji). Vyriausybė, tvirtindama SGD terminalo būtinąjį kiekį, privalo įvertinti gamtinių dujų poreikį šalies ūkiui ir visas jų tiekimo galimybes. Komisijos nustatyta papildoma dedamoji taikoma gamtinių dujų sistemos naudotojams ir (ar) gamtinių dujų vartotojams už gamtinių dujų vartojimo pajėgumus, reikalingus jų maksimaliems gamtinių dujų paros poreikiams užtikrinti pristatymo vietose, kuriose gamtinių dujų sistemos naudotojų ir (ar) gamtinių dujų vartotojų įrenginiai yra prijungti prie gamtinių dujų perdavimo sistemos ar prie gamtinių dujų skirstymo sistemų, į kurias dujos tiesiogiai ar netiesiogiai transportuojamos iš Lietuvos Respublikos teritorijoje esančios gamtinių dujų perdavimo sistemos. Gamtinių dujų vartojimo pajėgumai apskaičiuojami ir nustatomi Vyriausybės nustatyta tvarka. Papildomą dedamąją Komisijos nustatyta tvarka surenka, administruoja ir SGD terminalo operatoriui ar bendrovei bei paskirtajam tiekėjui išmoka gamtinių dujų perdavimo sistemos operatorius (toliau – perdavimo sistemos operatorius). Perdavimo sistemos operatoriaus administruojamų surinktų lėšų nuokrypis, susidaręs dėl skirtumo tarp ankstesnių metų prognozuotų ir faktinių gamtinių dujų vartojimo pajėgumų, Komisijos nustatyta tvarka ir sąlygomis įvertinamas nustatant papildomą dedamąją. 
 Straipsnio dalies pakeitimai:
 Nr. XII-426, 2013-06-27, Žin., 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA0XII-426
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
  
 
 
@@ -309,74 +332,90 @@ Nr. XII-426, 2013-06-27, Žin. 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA
 
 
 
-11 straipsnis. Prekyba gamtinėmis dujomis
+11 straipsnis. Prekyba gamtinėmis dujomis
 
 
-1. Siekiant užtikrinti SGD terminalo būtinąją veiklą, tai yra SGD terminalo technologinį pajėgumą, reikalingą nuolat ir efektyviai patenkinti gamtinių dujų poreikį Lietuvos Respublikoje, taip pat siekiant garantuoti SGD terminalo veiklos technologinį ir ekonominį pagrįstumą bei skatinti efektyvų diversifikuotų gamtinių dujų tiekimo šaltinių konkurencingumą, valstybės reguliuojamai elektros energijos ir (ar) šilumos energijos gamybai užtikrinti pirmumo tvarka privalo būti tiekiamos per SGD terminalą įvežtos gamtinės dujos. Vyriausybė patvirtina SGD terminalo būtinajai veiklai užtikrinti reikalingą minimalų metinį dujinamų gamtinių dujų kiekį, kuriuo pripažįstamas SGD terminalo operatoriaus ar bendrovės deklaruotas suskystintų gamtinių dujų kiekis, kuris yra pagrįstai reikalingas stabiliam SGD terminalo dujinimo technologijos procesui minimaliu nepertraukiamu režimu palaikyti (toliau – SGD terminalo būtinasis kiekis).
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatyto įpareigojimo vykdymą užtikrina paskirtasis tiekėjas, vadovaudamasis šiame įstatyme ir Vyriausybės nustatytais reikalavimais. Paskirtąjį tiekėją Vyriausybės nustatyta tvarka ir sąlygomis konkurso būdu paskiria Energetikos ministerija. Paskirtuoju tiekėju gali būti skiriama įmonė, kurioje valstybei tiesiogiai ar netiesiogiai priklauso ne mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų. Paskirtasis tiekėjas negali vykdyti veiklos, susijusios su energijos perdavimu ir (ar) skirstymu, taip pat kita paskirtojo tiekėjo veikla, jo valdymas ir organizacinė struktūra neturi prieštarauti veiklos gamtinių dujų sektoriuje atskyrimo ir nepriklausomumo reikalavimams. Paskirtasis tiekėjas pripažįstamas strateginę reikšmę nacionaliniam saugumui turinčia įmone.
+1. Siekiant užtikrinti SGD terminalo būtinąją veiklą, kaip nurodyta šio įstatymo 2 straipsnio 3 dalyje, valstybės reguliuojamai elektros energijos ir (ar) šilumos energijos gamybai užtikrinti pirmumo tvarka privalo būti tiekiamos per SGD terminalą įvežtos gamtinės dujos. 
 
 
 
 
-3. Elektros energijos ir (ar) šilumos energijos gamintojai, kuriems teisės aktų nustatyta tvarka ir sąlygomis paskirstomos remtinos elektros energijos gamybos apimtys ir (ar) kurių gaminamos energijos kaina yra valstybės reguliuojama (toliau – energijos gamintojai), nuo SGD terminalo eksploatavimo pradžios elektros energijai ir (ar) šilumos energijai gaminti sunaudojamų gamtinių dujų tiekimą privalo užsitikrinti tokia tvarka:
-
-
-1) pagal sutartis su paskirtuoju tiekėju, kurių pagrindu energijos gamintojai paveda paskirtajam tiekėjui pagal galiojančius teisės aktus pirkti suskystintas gamtines dujas ir (ar) SGD terminale dujinamas gamtines dujas energijos gamintojų gamtinių dujų poreikiui užtikrinti, pirmumo tvarka tiekiamas per SGD terminalą įvežtų gamtinių dujų kiekis, atitinkantis SGD terminalo būtinąjį kiekį, kaip nurodyta šio straipsnio 1 dalyje, kuris paskirstomas energijos gamintojams Vyriausybės nustatyta tvarka ir sąlygomis, atsižvelgiant į energijos gamintojų gamtinių dujų poreikį kiekvienais metais. Sutartys su paskirtuoju tiekėju sudaromos 5 metams ar, šalių tarpusavio susitarimu, ilgesniam laikotarpiui;
+2. Šio straipsnio 1 dalyje nustatyto įpareigojimo vykdymą užtikrina paskirtasis tiekėjas, vadovaudamasis šiame įstatyme ir Vyriausybės nustatytais reikalavimais. Paskirtąjį tiekėją Vyriausybės nustatyta tvarka ir sąlygomis konkurso būdu paskiria Energetikos ministerija. Paskirtuoju tiekėju gali būti skiriama įmonė, kurioje valstybei tiesiogiai ar netiesiogiai priklauso ne mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų. Paskirtasis tiekėjas negali vykdyti veiklos, susijusios su energijos perdavimu ir (ar) skirstymu, taip pat kita paskirtojo tiekėjo veikla, jo valdymas ir organizacinė struktūra neturi prieštarauti veiklos gamtinių dujų sektoriuje atskyrimo ir nepriklausomumo reikalavimams. Paskirtasis tiekėjas pripažįstamas strateginę reikšmę nacionaliniam saugumui turinčia įmone.
 
 
 
 
-2) įgyvendinus šios dalies 1 punkte nustatytą reikalavimą, likusiam energijos gamintojo gamtinių dujų poreikiui užtikrinti gamtinės dujos, vadovaujantis ekonominio naudingumo principu, tiekiamos dvišalių sutarčių su gamtinių dujų tiekėjais pagrindu ar įsigyjamos biržoje. Gamtinių dujų pirkimus energijos gamintojai vykdo teisės aktuose nustatyta tvarka ir sąlygomis;
+3. Elektros energijos ir (ar) šilumos energijos gamintojai, kuriems teisės aktų nustatyta tvarka ir sąlygomis paskirstomos remtinos elektros energijos gamybos apimtys ir (ar) kurių gaminamos energijos kaina yra valstybės reguliuojama (toliau – energijos gamintojai), nuo SGD terminalo eksploatavimo pradžios elektros energijai ir (ar) šilumos energijai gaminti sunaudojamų gamtinių dujų tiekimą privalo užsitikrinti tokia tvarka:
+
+
+1) pagal sutartis su paskirtuoju tiekėju, kurių pagrindu energijos gamintojai perka SGD terminalo būtinąjį kiekį, kuris paskirstomas energijos gamintojams Vyriausybės nustatyta tvarka ir sąlygomis, atsižvelgiant į energijos gamintojų gamtinių dujų poreikį kiekvienais metais;
 
 
 
 
-3) energijos gamintojų, taip pat kitų elektros energijos ir (ar) šilumos energijos gamybos veiklą vykdančių asmenų pageidavimu viso elektros energijai ir (ar) šilumos energijai gaminti sunaudojamo gamtinių dujų kiekio tiekimas užtikrinamas pagal sutartis su paskirtuoju tiekėju, kurių pagrindu energijos gamintojai suteikia įgaliojimus paskirtajam tiekėjui pagal galiojančius teisės aktus pirkti suskystintas gamtines dujas ir (ar) gamtines dujas energijos gamintojų gamtinių dujų poreikiui užtikrinti, įvertinus šios dalies 1 punkte nustatytą reikalavimą.
+2) įgyvendinus šios dalies 1 punkte nustatytą reikalavimą, likusiam energijos gamintojo gamtinių dujų poreikiui užtikrinti gamtinės dujos, vadovaujantis ekonominio naudingumo principu, tiekiamos dvišalių sutarčių su gamtinių dujų tiekėjais pagrindu ar įsigyjamos biržoje. Gamtinių dujų pirkimus energijos gamintojai vykdo teisės aktuose nustatyta tvarka ir sąlygomis.
 
 
 
 
 
 
-4. Energijos gamintojai, planuodami gamtinių dujų poreikį ir derindami gamtinių dujų tiekimo grafiką pagal sutartis su kitais gamtinių dujų tiekėjais, užtikrina šio straipsnio 3 dalies 1 punkte nurodytų sutarčių su paskirtuoju tiekėju tinkamą vykdymą ir nesudaro naujų sutarčių, kuriomis būtų pažeidžiamas privalomas reikalavimas dėl per SGD terminalą įvežamų gamtinių dujų tiekimo pirmumo tvarka.
+4. Energijos gamintojai, planuodami gamtinių dujų poreikį ir derindami gamtinių dujų tiekimo grafiką pagal sutartis su kitais gamtinių dujų tiekėjais, užtikrina šio straipsnio 3 dalies 1 punkte nurodytų sutarčių su paskirtuoju tiekėju tinkamą vykdymą ir nesudaro sutarčių, kuriomis būtų pažeidžiamas privalomas reikalavimas pirkti SGD terminalo būtinojo kiekio dalį iš paskirtojo tiekėjo.
 
 
 
 
-5. Jeigu viso elektros energijai ir (ar) šilumos energijai gaminti sunaudojamo gamtinių dujų kiekio tiekimas užtikrinamas pagal sutartis su paskirtuoju tiekėju, kaip nurodyta šio straipsnio 3 dalies 3 punkte, energijos gamintojo gamtinių dujų vartojimo balansavimą vykdo paskirtasis tiekėjas. Jeigu likęs energijos gamintojo gamtinių dujų poreikis užtikrinamas šio straipsnio 3 dalies 2 punkte numatytu būdu, energijos gamintojo gamtinių dujų vartojimo balansavimą užsitikrina pats energijos gamintojas.
+5. Komisija nustato protingumo kriterijus atitinkančią paskirtojo tiekėjo veiklos grąžą SGD terminalo būtinojo kiekio daliai, kurią paskirtasis tiekėjas realizuoja už šio straipsnio 6 dalyje nustatyta tvarka Komisijos patvirtintą prognozuojamą gamtinių dujų rinkos ar didesnę kainą ateinantiems kalendoriniams metams, ir pagrįstas SGD terminalo būtinojo kiekio tiekimo sąnaudas tvirtindama SGD terminalo būtinojo kiekio tiekimo kainos skaičiavimo metodiką. Gamtinių dujų tiekimo įmonės, vykdančios paskirtojo tiekėjo veiklą, ir (ar) su ja susijusių įmonių, kaip jos apibrėžtos Lietuvos Respublikos gamtinių dujų įstatyme, gauta veiklos grąža iš SGD terminalo būtinojo kiekio dalies, kuri viršija šio straipsnio 3 dalyje nustatyta tvarka energijos gamintojų įsigytą gamtinių dujų kiekį, perpardavimo Komisijos nustatyta tvarka turi būti įvertinta mažinant ateinančio laikotarpio papildomą dedamąją. Komisijos vertinimas atliekamas atsižvelgiant į SGD terminalo būtinojo kiekio dalies, kuri viršija šio straipsnio 3 dalyje nustatyta tvarka energijos gamintojų nupirktą gamtinių dujų kiekį ir kuri įsigyta vietoj atitinkamo gamtinių dujų kiekio iš kitų alternatyvių importo šaltinių, perpardavimo veiklos grąžą, neviršijant įprastinės gamtinių dujų tiekimo veikloje gaunamos grąžos.
 
 
 
 
-6. Komisija tvirtina gamtinių dujų, kurias energijos gamintojams parduoda paskirtasis tiekėjas, kainos skaičiavimo metodiką. Komisija derina paskirtojo tiekėjo apskaičiuotą bei taikomą šių gamtinių dujų kainą, atsižvelgdama į kainos skaičiavimo metodikoje nustatytas kainos dedamąsias ir jų taikymą. Paskirtojo tiekėjo parduodamų gamtinių dujų kaina, suderinta su Komisija, pripažįstama pagrįstomis energijos gamintojų kuro įsigijimo sąnaudomis ir įtraukiama į jiems taikomas valstybės reguliuojamas energijos kainas.
+6. Energijos gamintojai iš paskirtojo tiekėjo perka SGD terminalo būtinąjį kiekį ar šio kiekio dalį už Komisijos patvirtintą prognozuojamą gamtinių dujų rinkos kainą ateinantiems kalendoriniams metams. Ši kaina vadovaujantis objektyvumo ir skaidrumo principais apskaičiuojama Komisijos nustatyta tvarka, pagal kompetenciją įvertinant visus objektyviai numanomus reikšmingus veiksnius, įskaitant, bet neapsiribojant, gamtinių dujų tiekimo licencijas turinčių įmonių teikiamą informaciją, ir paskelbiama ne vėliau kaip prieš vieną mėnesį iki šios kainos taikymo laikotarpio pradžios. 
 
 
 
 
-7. Šiame straipsnyje nustatytų reikalavimų tinkamo įgyvendinimo priežiūrą ir kontrolę vykdo Komisija, vadovaudamasi jos patvirtintomis Prekybos gamtinėmis dujomis priežiūros taisyklėmis. Komisija jai pavestoms funkcijoms atlikti turi teisę gauti iš valstybės institucijų, įstaigų ir organizacijų bei energetikos įmonių informaciją apie gamtinių dujų įvežimą į Lietuvos Respubliką ir įsigyjamus gamtinių dujų kiekius iš skirtingų šaltinių, taip pat kitą susijusią informaciją, reikalingą faktiniam gamtinių dujų tiekimo diversifikavimui Lietuvos Respublikos gamtinių dujų rinkoje įvertinti.
+7. Jeigu, atsižvelgiant į energijos gamintojų gamtinių dujų vartojimo prognozes arba faktinį gamtinių dujų vartojimą, SGD terminalo būtinojo kiekio dalį parduoti energijos gamintojams nėra galimybės, paskirtasis tiekėjas privalo ekonomiškai naudingiausiu būdu, laikydamasis mažiausių sąnaudų ir mažiausio neigiamo poveikio gamtinių dujų kainai vartotojams, lygiateisiškumo, nediskriminavimo ir skaidrumo principų, realizuoti SGD terminalo būtinojo kiekio dalį Lietuvos gamtinių dujų rinkoje ar tarptautinėje suskystintų gamtinių dujų rinkoje Vyriausybės nustatyta tvarka. Šioje dalyje nustatyto SGD terminalo būtinojo kiekio realizavimo tvarkos laikymąsi prižiūri Komisija. 
 
 
 
 
-8. Šiame straipsnyje nustatyti reikalavimai laikomi privaloma energetikos sektoriaus reguliuojamos veiklos sąlyga, už kurios nevykdymą ar netinkamą vykdymą, taip pat už kitus susijusius energetikos sektoriaus reguliuojamos veiklos pažeidimus energetikos įmonėms gali būti skiriamos baudos Energetikos įstatyme nustatyta tvarka ir sąlygomis. Šio straipsnio 1 dalyje nustatyto įpareigojimo tinkamą vykdymą Vyriausybė papildomai įvertina teisės aktų nustatyta tvarka ir sąlygomis, tvirtindama viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje teikiančius asmenis ir energijos gamintojams paskirstydama remtinos elektros energijos gamybos apimtis.
+8. Jeigu energijos gamintojams parduodamo SGD terminalo būtinojo kiekio dalis yra mažesnė už SGD terminalo būtinąjį kiekį ir SGD terminalo operatorius, nepažeisdamas SGD terminalo naudotojų teisių naudotis SGD terminalu, turi technines galimybes nevykdydamas dujinimo užtikrinti SGD terminalo techninę būklę, leidžiančią atsiradus poreikiui pradėti dujinimą ir tiekti gamtines dujas į perdavimo sistemą, Vyriausybės nustatyta tvarka SGD terminalo būtinojo kiekio dujinimas gali būti nevykdomas. 
 
 
 
 
-9. Šio straipsnio 1 dalyje nustatyto įpareigojimo taikymo laikotarpį, kuris negali būti ilgesnis kaip pradinis SGD terminalo eksploatavimo laikotarpis, tai yra 10 metų nuo SGD terminalo eksploatavimo pradžios, nustato Vyriausybė. Šio įpareigojimo vykdymas Vyriausybės sprendimu gali būti sustabdytas ar nutrauktas nepasibaigus nustatytam laikotarpiui, kai Komisija, suderinusi su Energetikos ministerija, pateikia Vyriausybei išvadą, kad Lietuvos Respublikos gamtinių dujų rinka yra pakankamai išvystyta ir integruota, kad efektyvios konkurencijos rinkoje sąlygomis būtų užtikrintas diversifikuotas gamtinių dujų tiekimas ir vartojimas, energijos tiekimo saugumas ir patikimumas bei vartotojų interesų apsauga. Komisija šias aplinkybes įvertina rengdama kiekvienų metų gamtinių dujų rinkos stebėsenos ataskaitą.
+9. Teigiamas arba neigiamas skirtumas tarp šio straipsnio 5 dalyje nustatyta tvarka apskaičiuotos paskirtojo tiekėjo už SGD terminalo būtinojo kiekio įsigijimą mokėtinos kainos ir šio straipsnio 6 dalyje nustatyta tvarka Komisijos patvirtintos prognozuojamos ateinančių kalendorinių metų gamtinių dujų rinkos kainos, už kurią paskirtasis tiekėjas pardavė SGD terminalo būtinąjį kiekį energijos gamintojams, arba kainos, už kurią paskirtasis tiekėjas realizavo SGD terminalo būtinąjį kiekį šio straipsnio 7 dalyje nustatyta tvarka, taip pat susidaręs skirtumas tarp faktinių ir prognozuotų pajamų ankstesniais laikotarpiais Komisijos nustatyta tvarka ir sąlygomis įvertinami nustatant papildomą dedamąją.
 
 
 
 
-10. SGD terminalo operatoriaus teikiamų paslaugų kainos reguliuojamos Gamtinių dujų įstatyme nustatyta tvarka. Skystinimo paslaugų kainos gali būti diferencijuojamos SGD terminalo naudotojų grupėms taikant mutatis mutandis Gamtinių dujų įstatymo 9 straipsnio 14 dalies nuostatas. Kainų reguliavimą gamtinių dujų sektoriuje vykdo Komisija.
+10. SGD terminalo būtinojo kiekio ar kiekio dalies įsigijimo sąnaudos pagal Komisijos patvirtintą prognozuojamą gamtinių dujų rinkos kainą pripažįstamos pagrįstomis energijos gamintojų kuro įsigijimo sąnaudomis ir įtraukiamos į jiems taikomas valstybės reguliuojamas energijos kainas.
+
+
+
+
+11. Šiame straipsnyje nustatytų reikalavimų tinkamo įgyvendinimo priežiūrą ir kontrolę vykdo Komisija, vadovaudamasi jos patvirtintomis Prekybos gamtinėmis dujomis priežiūros taisyklėmis. Komisija jai pavestoms funkcijoms atlikti turi teisę gauti iš valstybės institucijų, įstaigų ir organizacijų bei energetikos įmonių informaciją apie gamtinių dujų įvežimą į Lietuvos Respubliką ir iš skirtingų šaltinių įsigyjamus gamtinių dujų kiekius, taip pat kitą susijusią informaciją, reikalingą faktiniam gamtinių dujų tiekimo diversifikavimui Lietuvos Respublikos gamtinių dujų rinkoje įvertinti.
+
+
+
+
+12. Šiame straipsnyje nustatyti reikalavimai laikomi privaloma energetikos sektoriaus reguliuojamos veiklos sąlyga, už kurios nevykdymą ar netinkamą vykdymą, taip pat už kitus susijusius energetikos sektoriaus reguliuojamos veiklos pažeidimus energetikos įmonėms gali būti skiriamos baudos Energetikos įstatyme nustatyta tvarka ir sąlygomis. Šio straipsnio 3 dalyje nustatyto įpareigojimo tinkamą vykdymą Vyriausybė papildomai įvertina teisės aktų nustatyta tvarka ir sąlygomis tvirtindama viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje teikiančius asmenis ir energijos gamintojams paskirstydama remtinos elektros energijos gamybos apimtis.
+
+
+
+
+13. Šio straipsnio 3 dalyje nustatyto įpareigojimo taikymo laikotarpį, kuris negali būti ilgesnis kaip pradinis SGD terminalo eksploatavimo laikotarpis, tai yra 10 metų nuo SGD terminalo eksploatavimo pradžios, nustato Vyriausybė. Šio įpareigojimo vykdymas Vyriausybės sprendimu gali būti sustabdytas ar nutrauktas nepasibaigus nustatytam laikotarpiui, kai Komisija, suderinusi su Energetikos ministerija, pateikia Vyriausybei išvadą, kad Lietuvos Respublikos gamtinių dujų rinka yra pakankamai išvystyta ir integruota, kad efektyvios konkurencijos rinkoje sąlygomis būtų užtikrintas diversifikuotas gamtinių dujų tiekimas ir vartojimas, energijos tiekimo saugumas ir patikimumas bei vartotojų interesų apsauga. Komisija šias aplinkybes įvertina rengdama kiekvienų metų gamtinių dujų rinkos stebėsenos ataskaitą.
+
+
+
+
+14. SGD terminalo operatoriaus teikiamų paslaugų kainos reguliuojamos Gamtinių dujų įstatyme nustatyta tvarka. Skystinimo paslaugų kainos gali būti diferencijuojamos SGD terminalo naudotojų grupėms taikant mutatis mutandis Gamtinių dujų įstatymo 9 straipsnio 14 dalies nuostatas. Kainų reguliavimą gamtinių dujų sektoriuje vykdo Komisija.
 
 
 Straipsnio pakeitimai:
 Nr. XII-426, 2013-06-27, Žin., 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA0XII-426
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
  
 
 
@@ -504,3 +543,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-426, 2013-06-27, Žin., 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA0XII-426
 Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5, 10 ir 11 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 2, 5 ir 11 straipsnių pakeitimo įstatymas
