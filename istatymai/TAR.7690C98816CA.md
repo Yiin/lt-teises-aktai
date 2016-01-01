@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 38-1656, i. k. 1031010ISTA0IX-1409
  
@@ -50,345 +50,163 @@ RESPUBLIKOS PREZIDENTAS                            �
  
  
 
- 
  
  
-PATVIRTINTA 
-Lietuvos Respublikos 
+Nauja Statuto redakcija nuo 2016-01-01:
+patvirtinta Lietuvos Respublikos 2015 m. gruodžio 8 d. įstatymu Nr. XII-2136
+ 
+PATVIRTINTA
+Lietuvos Respublikos
 2003 m. balandžio 1 d.
 įstatymu Nr. IX-1409
  
-LIETUVOS RESPUBLIKOS
-SPECIALIŲJŲ TYRIMŲ TARNYBOS
-S T A T U T A S 
- 
+LIETUVOS RESPUBLIKOS SPECIALIŲJŲ TYRIMŲ TARNYBOS STATUTAS  
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
-1 straipsnis. Statuto paskirtis
+1 straipsnis. Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto paskirtis
 
-Specialiųjų tyrimų tarnybos statutas (toliau – Statutas) nustato pagrindinius tarnybos Specialiųjų tyrimų tarnyboje principus, Specialiųjų tyrimų tarnybos pareigūnų (toliau – tarnybos pareigūnai) statusą, skyrimo ir atleidimo iš tarnybos tvarką, jų tarnybos eigą, paskatinimus ir nuobaudas bei atsakomybę, prievartos panaudojimo sąlygas ir tvarką, socialines garantijas ir kitus jų statuso bei tarnybos ypatumus.
+Lietuvos Respublikos specialiųjų tyrimų tarnybos statutas (toliau – Statutas) nustato pagrindinius tarnybos Lietuvos Respublikos specialiųjų tyrimų tarnyboje (toliau – Specialiųjų tyrimų tarnyba) principus, Specialiųjų tyrimų tarnybos pareigūnų statusą, skyrimo į tarnybą ir atleidimo iš tarnybos tvarką, jų tarnybos eigą, darbo užmokestį, paskatinimus, nuobaudas ir atsakomybę, socialines garantijas, kitus jų statuso ir tarnybos ypatumus.
  
 
-ANTRASIS SKIRSNIS
-TARNYBOS SPECIALIŲJŲ TYRIMŲ TARNYBOJE ORGANIZAVIMAS 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+1. Specialiųjų tyrimų tarnybos pareigūnas (toliau – pareigūnas) – valstybės pareigūnas, šio statuto nustatyta tvarka paskirtas į pareigas Specialiųjų tyrimų tarnyboje.
+
+2. Pareigūno vardo pažeminimas – kaltas pareigūno veikimas ar neveikimas, susijęs ar nesusijęs su tarnybinių pareigų atlikimu, tačiau akivaizdžiai žeminantis Specialiųjų tyrimų tarnybos autoritetą, griaunantis pasitikėjimą ja arba ją kompromituojantis.
+
+3. Tarnybinis nusižengimas – šio statuto ir kitų teisės aktų nustatytos tarnybos tvarkos pažeidimas ar pareigūno pareigų neatlikimas arba netinkamas atlikimas dėl paties pareigūno kaltės.
  
 
-2 straipsnis. Reikalavimai asmenims, skiriamiems į Specialiųjų tyrimų tarnybą
-
-1. Tarnybos pareigūnais gali būti skiriami nepriekaištingos reputacijos, ne jaunesni kaip 18 metų Lietuvos Respublikos piliečiai, Karo prievolės įstatymo nustatyta tvarka atlikę privalomąją pradinę karo tarnybą, kuriems ši tarnyba įskaityta, atidėta arba kurie atleisti nuo karo prievolės, mokantys valstybinę kalbą, taip pat tinkantys konkrečioms pareigoms pagal išsilavinimą, intelekto, asmenines ir moralines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę.
-
-2. Specialiųjų tyrimų tarnybos direktoriumi ir jo pavaduotojais gali būti skiriami tik nepriekaištingos reputacijos asmenys, turintys aukštąjį universitetinį arba jam prilygintą išsilavinimą ir ne mažesnį kaip penkerių metų stažą valstybės tarnyboje arba ne mažesnį kaip penkerių metų teisėjo ar prokuroro darbo stažą.
-
-3. Tarnybos pareigūnais gali būti skiriami asmenys, turintys išsilavinimą, būtiną skiriamoms pareigoms pagal Valstybės tarnybos įstatymo reikalavimus. Specialiųjų tyrimų tarnybos padalinių vadovais, ikiteisminio tyrimo pareigūnais gali būti skiriami tik asmenys, turintys aukštąjį universitetinį arba jam prilygintą išsilavinimą.
-
-4. Tam tikroms pareigybėms Specialiųjų tyrimų tarnybos direktorius gali nustatyti papildomus reikalavimus (išsilavinimo, profesinės veiklos, darbo stažo, užsienio kalbų mokėjimo). 
-
-5. Tarnybos pareigūnais negali būti skiriami asmenys, nurodyti Valstybės tarnybos įstatymo 9 straipsnio 3 dalyje. 
-
-6. Asmenys, pareiškę norą tarnauti Specialiųjų tyrimų tarnyboje, siunčiami į Vidaus reikalų ministerijos įsteigtos asmens sveikatos priežiūros įstaigos medicininės ekspertizės komisiją. Komisija pateikia išvadą apie asmens sveikatos būklę.
-
-7. Asmenys, pareiškę norą tarnauti Specialiųjų tyrimų tarnyboje, bei jų tėvai, vaikai, sutuoktinis tikrinami pagal valstybės ar savivaldybės institucijų ir įstaigų turimas įskaitas bei asmenų registrus. 
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
-Nr. XI-1391, 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
-Nr. XI-1518, 2011-06-23, Žin., 2011, Nr. 86-4160 (2011-07-13)
+II SKYRIUS
+SKYRIMAS Į TARNYBĄ
  
 
-3 straipsnis. Duomenys apie asmenį
+3 straipsnis. Reikalavimai asmenims, skiriamiems į tarnybą
 
-1. Specialiųjų tyrimų tarnyba turi teisę tvarkyti asmens duomenis ir ypatingus asmens duomenis apie asmenį, pateikusį prašymą tarnauti Specialiųjų tyrimų tarnyboje, ir apie pareigūną pagal Asmens duomenų teisinės apsaugos įstatymą. 
+1. Pareigūnais gali būti skiriami nepriekaištingos reputacijos, ne jaunesni kaip 18 metų ir ne vyresni kaip 60 metų Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą, taip pat tinkantys konkrečioms pareigoms pagal išsilavinimą, intelekto, asmenines ir moralines savybes, dalykinį pasirengimą ir sveikatos būklę.
 
-2. Duomenys apie pretendentą, taip pat duomenys apie pareigūno priėmimą, priesaiką, skyrimą, atleidimą, nušalinimą, skatinimą, tarnybines nuobaudas, specialiųjų priemonių išdavimą ir kita tvarkomi tarnyboje saugomoje asmens byloje pagal Specialiųjų tyrimų tarybos direktoriaus patvirtintas Asmens bylos tvarkymo taisykles. 
+2. Specialiųjų tyrimų tarnybos direktoriumi ir jo pavaduotojais gali būti skiriami tik nepriekaištingos reputacijos, ne vyresni kaip 65 metų asmenys, turintys aukštąjį universitetinį arba jam prilygintą išsilavinimą ir ne mažiau kaip 5 metus ištarnavę Specialiųjų tyrimų tarnyboje arba turintys ne mažesnį kaip 5 metų stažą valstybės tarnyboje ar ne mažesnį kaip 5 metų teisėjo ar prokuroro darbo stažą.
+
+3. Pareigūnais gali būti skiriami asmenys, turintys šį išsilavinimą:
+
+1) į ikiteisminio tyrimo pareigūnų pareigas, vyresniojo specialisto ir aukštesnes pareigas – aukštąjį universitetinį ar jam prilygintą išsilavinimą;
+
+2) į kitas pareigas – ne žemesnį kaip aukštąjį neuniversitetinį išsilavinimą ar aukštesnįjį išsilavinimą, ar iki 1995 metų įgytą specialųjį vidurinį išsilavinimą.
+
+4. Papildomus (specialius) reikalavimus (išsilavinimo, profesinės veiklos, darbo stažo, užsienio kalbų mokėjimo ar kitų profesinių gebėjimų), keliamus konkrečias pareigas einantiems asmenims, nustato Specialiųjų tyrimų tarnybos direktorius.
  
 
-4 straipsnis. Tarnybos pareigūnų skyrimas į Specialiųjų tyrimų tarnybą
+4 straipsnis. Skyrimo į tarnybą Specialiųjų tyrimų tarnyboje apribojimai
 
-1. Tarnybos pareigūnus į Specialiųjų tyrimų tarnybą, išskyrus skiriamus Respublikos Prezidento, skiria ir atleidžia iš jos Specialiųjų tyrimų tarnybos direktorius.
+1. Asmuo nelaikomas nepriekaištingos reputacijos ir negali būti skiriamas į tarnybą Specialiųjų tyrimų tarnyboje, jeigu:
 
-2. Asmenys į tarnybos pareigūnų pareigas priimami atrankos būdu. Atranka atliekama Specialiųjų tyrimų tarnybos direktoriaus įsakymo nustatyta tvarka, siekiant nustatyti, ar asmuo tinkamas tarnauti tarnybos pareigūnu. 
+1) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl labai sunkaus ar sunkaus nusikaltimo arba tyčinės nusikalstamos veikos valstybės tarnybai ir viešiesiems interesams padarymo, neatsižvelgiant į tai, kad teistumas išnyko arba buvo panaikintas;
+
+2) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl apysunkio nusikaltimo (išskyrus šios dalies 1 punkte nurodytas nusikalstamas veikas) padarymo ir nuo apkaltinamojo nuosprendžio priėmimo dienos nepraėjo 9 metai;
+
+3) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl neatsargaus nusikaltimo valstybės tarnybai ir viešiesiems interesams padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 7 metai;
+
+4) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl nusikaltimų padarymo (išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus nusikaltimus) ir nuo teismo nuosprendžio (nutarties) įsiteisėjimo dienos nepraėjo 5 metai arba jeigu jis turi teistumą dėl padaryto nusikaltimo;
+
+5) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl baudžiamojo nusižengimo arba atleistas nuo baudžiamosios atsakomybės ir nėra įvykdyta asmeniui paskirta baudžiamojo poveikio priemonė arba nėra suėjęs baudžiamojo poveikio priemonės paskyrimo terminas; 
+
+6) jis yra įstatymų nustatyta tvarka uždraustos organizacijos narys;
+
+7) jis atleistas iš valstybės tarnautojo pareigų paskyrus tarnybinę nuobaudą – atleidimą iš pareigų arba Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, atleistas iš statutinio valstybės tarnautojo pareigų paskyrus tarnybinę nuobaudą – atleidimą iš tarnybos statutų nustatyta tvarka, atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo, atleistas iš darbo, pareigų ar praradęs teisę verstis atitinkama veikla už įstatymuose keliamų nepriekaištingos reputacijos reikalavimų neatitikimą ir teisės aktuose nustatytų etikos normų, profesinės veiklos pažeidimus ir nuo atleidimo iš pareigų ar tarnybos dienos, pripažinimo padarius tarnybinį nusižengimą dienos arba nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo 3 metai;
+
+8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš valstybės tarnybos tvarkymo funkcijas atliekančios įstaigos pateiktos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų;
+
+9) jis neatitinka teisės aktuose nustatytų reikalavimų, būtinų išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, jeigu pareigos susijusios su įslaptintos informacijos naudojimu;
+
+10) atrankos metu nustatomos asmens savybės, ryšiai ar kitos su asmeniu ar jo aplinka susijusios aplinkybės, ar faktai, iš kurių Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmens elgesys ar veikla nėra suderinama su Lietuvos Respublikos specialiųjų tyrimų tarnybos pareigūnų elgesio kodeksu.
+
+2. Į tarnybą Specialiųjų tyrimų tarnyboje negali būti skiriamas asmuo:
+
+1) kurio sutuoktinis, partneris (kai partnerystė įregistruota įstatymų nustatyta tvarka), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra pareigūnas, jeigu jie pagal pareigas būtų susiję tiesioginio pavaldumo santykiais;
+
+2) įstatymų nustatyta tvarka pripažintas neveiksniu su jo atliekamomis funkcijomis susijusioje srityje;
+
+3) pateikęs žinomai neteisingus duomenis apie save, savo ryšius;
+
+4) kitais įstatymų nustatytais atvejais.
  
 
-5 straipsnis. Tarnybos pareigūno priesaika
+5 straipsnis. Skyrimo į tarnybą tvarka
 
-1. Asmuo, paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
+1. Asmenys, pareiškę norą tarnauti Specialiųjų tyrimų tarnyboje, siunčiami į asmens sveikatos priežiūros įstaigos, kurios steigėja yra Lietuvos Respublikos vidaus reikalų ministerija, Centrinę medicinos ekspertizės komisiją. Ši komisija, atlikusi specializuotąją medicininę ekspertizę, nustatyta tvarka pateikia išvadą dėl asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, sveikatos būklės ir jo tinkamumo tarnybai. Asmenims, pareiškusiems norą tarnauti Specialiųjų tyrimų tarnyboje, taip pat tarnaujantiems šioje tarnyboje pareigūnams taikomi sveikatos būklės reikalavimai, nustatyti pretenduojantiems į vidaus tarnybą asmenims ir vidaus tarnybos sistemos pareigūnams. Tarnybos direktorius, atsižvelgdamas į pareigūnų pareigybių aprašymuose nurodytas funkcijas, galimos profesinės rizikos veiksnius ir teisės aktuose įtvirtintą vidaus tarnybos sistemos pareigūnams taikomą sveikatos būklės reikalavimų klasifikaciją, nustato sveikatos būklės reikalavimus pareigūnų pareigybėms.
 
-1) „Aš, (vardas, pavardė), Specialiųjų tyrimų tarnybos pareigūnas (-ė), 
+2. Asmenys, pareiškę norą tarnauti Specialiųjų tyrimų tarnyboje, taip pat jų tėvai, vaikai, sutuoktinis ar partneris Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka tikrinami valstybės registruose (kadastruose), žinybiniuose registruose, valstybės informacinėse sistemose, klasifikatoriuose, duomenų bankuose, kitose informacinėse ar duomenų tvarkymo sistemose, siekiant nustatyti, ar asmenys, pareiškę norą tarnauti Specialiųjų tyrimų tarnyboje, gali būti skiriami į pareigas. Specialiųjų tyrimų tarnyba turi teisę tvarkyti asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, duomenis ir ypatingus asmens duomenis. 
 
-prisiekiu ištikimai tarnauti Lietuvos Respublikai, laikytis jos Konstitucijos ir kitų įstatymų, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir tarnybos paslaptis; 
+3. Asmenis į tarnybą Specialiųjų tyrimų tarnyboje, išskyrus skiriamus Respublikos Prezidento, skiria ir atleidžia iš tarnybos Specialiųjų tyrimų tarnybos direktorius.
 
-pasižadu būti teisingas ir sąžiningas pareigūnas, tinkamai atlikti man pavestas pareigas.
+4. Asmenys į pareigūnų pareigas, išskyrus skiriamus Respublikos Prezidento, skiriami atrankos būdu.
+
+5. Specialiųjų tyrimų tarnyboje sudaroma Pretendentų į Specialiųjų tyrimų tarnybos pareigūnų pareigas atrankos komisija (toliau – Atrankos komisija). Atrankos komisija vertina asmenų, pareiškusių norą tarnauti Specialiųjų tyrimų tarnyboje, asmenines ir dalykines savybes ir Specialiųjų tyrimų tarnybos direktoriui teikia išvadas dėl šių asmenų tinkamumo tarnauti pareigūnu. 
+
+6. Atranka atliekama Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka, siekiant nustatyti, ar asmuo tinkamas siekiamoms eiti pareigoms.
+ 
+
+6 straipsnis. Skyrimo į tarnybą ir išbandymo laikotarpiai
+
+1. Į Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir jų pavaduotojų pareigas asmenys skiriami 5 metų laikotarpiui laikantis Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 111 straipsnyje nustatytų apribojimų ir tvarkos.
+
+2. Skiriamam į tarnybą asmeniui gali būti nustatomas iki 6 mėnesių išbandymo laikotarpis. Atostogų ir laikinojo nedarbingumo laikas į išbandymo laikotarpį neįskaitomas. Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka prieš baigiantis pareigūno išbandymo laikotarpiui atliekama atestacija ir sprendžiama, ar šis asmuo yra tinkamas pareigoms. Respublikos Prezidento skiriamiems pareigūnams išbandymo laikotarpis nenustatomas.
+ 
+
+7 straipsnis. Pareigūno priesaika
+
+1. Asmuo, paskirtas į tarnybą, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šioje dalyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
+
+1) „Aš, (vardas, pavardė), Specialiųjų tyrimų tarnybos pareigūnas (pareigūnė), prisiekiu būti ištikimas (ištikima) Lietuvos Respublikai, vadovautis jos Konstitucija ir kitais įstatymais, gerbti ir ginti žmogaus teises ir laisves, visuomenės ir valstybės interesus, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir tarnybos paslaptis; pasižadu sąžiningai atlikti man patikėtas pareigas ir visada saugoti gerą Specialiųjų tyrimų tarnybos pareigūno vardą.
 
 Tepadeda man Dievas.“;
 
-2) „Aš, (vardas, pavardė), Specialiųjų tyrimų tarnybos pareigūnas (-ė), 
+2) „Aš, (vardas, pavardė), Specialiųjų tyrimų tarnybos pareigūnas (pareigūnė), prisiekiu būti ištikimas (ištikima) Lietuvos Respublikai, vadovautis jos Konstitucija ir kitais įstatymais, gerbti ir ginti žmogaus teises ir laisves, visuomenės ir valstybės interesus, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir tarnybos paslaptis; pasižadu sąžiningai atlikti man patikėtas pareigas ir visada saugoti gerą Specialiųjų tyrimų tarnybos pareigūno vardą.“
 
-prisiekiu ištikimai tarnauti Lietuvos Respublikai, laikytis jos Konstitucijos ir kitų įstatymų, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir tarnybos paslaptis; 
+2. Specialiųjų tyrimų tarnybos direktoriaus ir jo pavaduotojų priesaiką priima Respublikos Prezidentas, o kitų pareigūnų – Specialiųjų tyrimų tarnybos direktorius.
 
-pasižadu būti teisingas ir sąžiningas pareigūnas, tinkamai atlikti man pavestas pareigas.“
+3. Pasirašyti lapai su priesaikos tekstu saugomi pareigūnų asmens bylose.
 
-2. (Neteko galios nuo 2005 m. gruodžio 22 d.)
-
-3. Specialiųjų tyrimų tarnybos direktoriaus ir jo pavaduotojų priesaiką priima Respublikos Prezidentas, o kitų tarnybos pareigūnų – Specialiųjų tyrimų tarnybos direktorius. 
-
-4. Pasirašyti lapai su priesaikos tekstu saugomi pareigūnų asmens bylose. 
-
-5. Neprisiekęs asmuo negali dirbti Specialiųjų tyrimų tarnyboje pareigūnu.
-
-Straipsnio pakeitimai:
-Nr. X-441, 2005-12-13, Žin., 2005, Nr. 149-5418 (2005-12-22)
+4. Neprisiekęs asmuo negali tarnauti pareigūnu Specialiųjų tyrimų tarnyboje.
  
 
-6 straipsnis. Tarnybos pareigūnas 
-
-1. Tarnybos pareigūnas yra statutinis valstybės tarnautojas, paskirtas į tam tikras pareigas Specialiųjų tyrimų tarnyboje ir pagal savo kompetenciją turintis administracinius įgaliojimus jam nepavaldiems asmenims. 
-
-2. Tarnybos pareigūnas asmeniškai atsako už savo, taip pat pagal įgaliojimus ir kompetenciją už jam pavaldžių pareigūnų veiklą ir sprendimus bei jų padarinius. 
-
-3. Tarnybos pareigūno duodami teisėti nurodymai yra privalomi visiems asmenims.
-
-4. Tarnybos pareigūnas privalo vykdyti aukštesnio pagal pavaldumą tarnybos pareigūno įsakymus ar nurodymus. Apie gautą įsakymą ar nurodymą, prieštaraujantį įstatymui ar viršijantį aukštesniojo pagal pavaldumą pareigūno tarnybinius įgaliojimus, jis turi nedelsdamas pranešti Specialiųjų tyrimų tarnybos direktoriui. Apie Specialiųjų tyrimų tarnybos direktoriaus duotą įsakymą ar nurodymą, aiškiai prieštaraujantį įstatymui, nedelsiant pranešama generaliniam prokurorui ar jo pavaduotojui. Įstatymui prieštaraujančio įsakymo ar nurodymo vykdymas neatleidžia nuo atsakomybės.
+III SKYRIUS
+PAREIGŪNO STATUSAS IR KARJERA
  
 
-7 straipsnis. Bandomasis laikotarpis
+8 straipsnis. Pareigūnų pareigybės Specialiųjų tyrimų tarnyboje
 
-Skiriamam į Specialiųjų tyrimų tarnybą asmeniui gali būti nustatomas iki 6 mėnesių bandomasis laikotarpis. Atostogų ir laikinojo nedarbingumo laikas į bandomąjį laikotarpį neįskaitomas. Jeigu bandomuoju laikotarpiu asmuo neatleidžiamas iš pareigų, laikoma, kad jo tarnyba įvertinta teigiamai. Respublikos Prezidento skiriamiems tarnybos pareigūnams bandomasis laikotarpis nenustatomas. 
+Specialiųjų tyrimų tarnyboje yra šios pareigūnų pareigybės (nuo aukščiausios iki žemiausios):
+
+1) direktorius;
+
+2) direktoriaus pirmasis pavaduotojas, direktoriaus pavaduotojas (toliau – direktoriaus pavaduotojai);
+
+3) valdybos viršininkas;
+
+4) valdybos viršininko pavaduotojas;
+
+5) skyriaus viršininkas;
+
+6) skyriaus viršininko pavaduotojas;
+
+7) poskyrio viršininkas;
+
+8) vyriausiasis specialistas;
+
+9) vyresnysis specialistas;
+
+10) specialistas;
+
+11) jaunesnysis specialistas.
  
 
-8 straipsnis. Perkėlimas į kitas pareigas
+9 straipsnis. Tarnybiniai rangai
 
-1. Tarnybos pareigūnas Specialiųjų tyrimų tarnybos direktoriaus įsakymu gali būti perkeltas į aukštesnes, lygiareikšmes ar žemesnes tarnybos pareigūno pareigas.
-
-2. Tarnybos pareigūnas į aukštesnes pareigas gali būti perkeltas:
-
-1) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
-
-2) atestacijos komisijai įvertinus tarnybos pareigūną labai gerai.
-
-3. Tarnybos pareigūnas į lygiareikšmes pareigas gali būti perkeltas:
-
-1) savo prašymu ar sutikimu;
-
-2) mažinant pareigybių skaičių dėl tarnybos organizavimo pakeitimų;
-
-3) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
-
-4) dėl sveikatos būklės, trukdančios tinkamai atlikti einamas pareigas.
-
-4. Tarnybos pareigūnas į žemesnes pareigas gali būti perkeltas:
-
-1) savo prašymu ar sutikimu; 
-
-2) mažinant pareigybių skaičių dėl tarnybos organizavimo pakeitimų – jei nėra galimybės perkelti į lygiareikšmes pareigas;
-
-3) dėl sveikatos būklės, trukdančios tinkamai atlikti einamas pareigas – jei nėra galimybės perkelti į lygiareikšmes pareigas; 
-
-4) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
-
-5) paskyrus tarnybinę nuobaudą – perkėlimą į žemesnes pareigas;
-
-6) atestacijos komisijai įvertinus tarnybos pareigūną nepatenkinamai.
-
-5. Pasibaigus Specialiųjų tyrimų tarnybos struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovui ir pavaduotojui nustatytam tarnybos laikotarpiui, jie jų sutikimu perkeliami į kitas laisvas lygiareikšmes, o jeigu jų nėra, – į žemesnes pareigas Specialiųjų tyrimų tarnyboje.
-
-6. Specialiųjų tyrimų tarnybos direktoriaus įsakyme dėl tarnybos pareigūno perkėlimo į aukštesnes, lygiareikšmes ar žemesnes pareigas turi būti nurodomas perkėlimo pagrindas.
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
-Nr. XI-1391, 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
- 
-
-9 straipsnis. Laikinas pavedimas atlikti kitas pareigas
-
-1. Esant tarnybiniam būtinumui, Specialiųjų tyrimų tarnybos direktorius įsakymu gali, neperkeldamas į kitas pareigas, laikinai pavesti tarnybos pareigūnui be jo sutikimo atlikti kitas jo kvalifikaciją atitinkančias aukštesnes, lygiareikšmes arba žemesnes tarnybos pareigūno pareigas.
-
-2. Šio straipsnio 1 dalyje nustatytas laikinas pavedimas tarnybos pareigūnui negali trukti ilgiau kaip vienus metus per penkerius jo tarnybos Specialiųjų tyrimų tarnyboje metus.
-
-3. Šio straipsnio 1 dalyje nustatyta tvarka pavedus tarnybos pareigūnui atlikti aukštesnes pareigas, mokamas šias pareigas atitinkantis darbo užmokestis. Pavedus atlikti žemesnes pareigas, mokamas darbo užmokestis, gautas iki laikino pavedimo.
-
-4. Tarnybos pareigūnui jo sutikimu gali būti pavesta kartu su pagrindinėmis pareigomis atlikti ir laikinai nesančio pareigūno pareigas ar papildomas užduotis. Pavedus atlikti tokias pareigas ar užduotis, tarnybos pareigūnui mokama Valstybės tarnybos įstatymo nustatyta priemoka.
- 
-
-10 straipsnis. tarnybos pareigūnų atestacija 
-
-1. Specialiųjų tyrimų tarnybos direktoriaus įsakymu dvejiems metams sudaroma nuolatinė atestacijos komisija. Ji susideda iš direktoriaus skirtų tarnybos pareigūnų.
-
-2. Atestacijos komisija vertina tarnybos pareigūnų tarnybinės veiklos rezultatus ir kvalifikaciją. 
-
-3. Tarnybos pareigūnų tarnybinę veiklą per kalendorinius metus vertina tiesioginis tarnybos pareigūno vadovas. Kiekvienų kalendorinių metų pabaigoje tiesioginis tarnybos pareigūno vadovas arba tarnybos pareigūną į pareigas priimantis asmuo ar jo įgaliotas asmuo tarnybos pareigūno tarnybinę veiklą įvertina labai gerai, gerai arba nepatenkinamai. Jei tarnybos pareigūno tarnybinė veikla įvertinama labai gerai arba nepatenkinamai, tarnybos pareigūną vertina atestacijos komisija dėl jo tolesnės veiklos.
-
-4. Atestacijos komisija gali įvertinti tarnybos pareigūną labai gerai, gerai arba nepatenkinamai.
-
-5. Atestacijos komisija, įvertinusi tarnybos pareigūną labai gerai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
-
-1) suteikti tarnybos pareigūnui aukštesnę kvalifikacinę kategoriją;
-
-2) perkelti tarnybos pareigūną į aukštesnes pareigas;
-
-3) palikti tą pačią (aukščiausią) kvalifikacinę kategoriją ir gaunamą priedą už kvalifikacinę kategoriją, jei Specialiųjų tyrimų tarnyboje nėra galimybės pasiūlyti aukštesnių pareigų;
-
-4) pasibaigus paskyrimo į pareigas penkerių metų laikotarpiui pakartotinai skirti į tas pačias pareigas.
-
-6. Atestacijos komisija, įvertinusi tarnybos pareigūną nepatenkinamai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
-
-1) kelti tarnybos pareigūno kvalifikaciją;
-
-2) suteikti tarnybos pareigūnui žemesnę kvalifikacinę kategoriją;
-
-3) perkelti tarnybos pareigūną į žemesnes pareigas;
-
-4) atleisti tarnybos pareigūną iš pareigų.
-
-7. Specialiųjų tyrimų tarnybos direktoriaus sprendimai, priimti pagal atestacijos komisijos pasiūlymus, gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-8. Tarnybos pareigūnų vertinimo kriterijus, periodiškumą ir tvarką, atestacijos komisijos veiklą reglamentuoja Specialiųjų tyrimų tarnybos direktoriaus įsakymu patvirtinti Specialiųjų tyrimų tarnybos pareigūnų atestacijos nuostatai.
-
-Straipsnio pakeitimai:
-Nr. XI-1391, 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
- 
-
-11 straipsnis. Tarnybos pareigūnų atleidimas iš tarnybos
-
-1. Tarnybos pareigūnas atleidžiamas iš tarnybos šiais pagrindais:
-
-1) atsistatydinęs savo noru; 
-
-2) įsiteisėjus apkaltinamajam teismo nuosprendžiui, kuriuo pareigūnas nuteisiamas už padarytą tyčinę nusikalstamą veiką ar nusikalstamą veiką valstybės tarnybai, arba jam paskiriama bausmė, dėl kurios jis negali eiti savo pareigų; 
-
-3) netekęs Lietuvos Respublikos pilietybės;
-
-4) atestacijos komisijos siūlymu atleisti tarnybos pareigūną iš pareigų;
-
-5) sulaužęs priesaiką;
-
-6) dėl sveikatos būklės, esant atitinkamai Vidaus reikalų ministerijos įsteigtos asmens sveikatos priežiūros įstaigos medicininės ekspertizės komisijos ar Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadai;
-Straipsnio punkto pakeitimai:
-Nr. XII-1165, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13587
- 
-
-7) jeigu jo tarnyba bandomuoju laikotarpiu įvertinama nepatenkinamai;
-
-8) paaiškėjus Specialiųjų tyrimų tarnybos įstatymo 15 straipsnyje ar Valstybės tarnybos įstatymo 9 straipsnio 3 dalyje nurodytai aplinkybei;
-
-9) paskyrus jam tarnybinę nuobaudą – atleidimą iš tarnybos;
-
-10) kai jam sukanka 62 metai ir 6 mėnesiai; 
-
-11) paaiškėjus, kad priimant į tarnybą buvo nuslėpti ar pateikti tikrovės neatitinkantys duomenys (dokumentai), dėl kurių asmuo negalėjo būti priimtas į tarnybą;
-
-12) kai jis atsisako dirbti pakeitus tarnybos sąlygas šio Statuto 8 straipsnio 2 dalies 1 punkte, 8 straipsnio 3 dalies 3 punkte, 8 straipsnio 4 dalies 4 punkte ir 9 straipsnio 1 dalyje numatytais atvejais; 
-
-13) jeigu savo poelgiu pažemino tarnybos pareigūno vardą.
-
-2. Tarnybos pareigūnas gali būti atleidžiamas iš tarnybos šiais pagrindais:
-
-1) sulaukęs šio Statuto 34 straipsnio 1 dalyje nustatyto amžiaus; 
-
-2) ištarnavęs įstatymų nustatytą laikotarpį valstybinei pareigūnų ir karių pensijai gauti, jeigu jo tarnybos laikas nustatyta tvarka nebuvo pratęstas arba baigėsi jo tarnybos pratęsimo terminas;
-
-3) dėl laikinojo nedarbingumo neatvykęs į tarnybą daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių ir jeigu neatvykimas nesusijęs su kūno sužalojimu, suluošinimu ar kitu sveikatos sutrikimu, atsiradusiu atliekant tarnybines pareigas;
-
-4) mažinant pareigybių skaičių dėl tarnybos organizavimo pakeitimų; 
-
-5) kai į tas pareigas teismo sprendimu grąžinamas ankščiau jas ėjęs tarnybos pareigūnas;
-
-6) kai jam įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo tiesioginių pareigų atlikimu;
-
-7) kai baigiasi tarnybos struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovui ir pavaduotojui nustatytas tarnybos laikotarpis ir jie nesutinka būti perkelti į kitas laisvas lygiareikšmes, o jeigu jų nėra, – į žemesnes pareigas Specialiųjų tyrimų tarnyboje.
-
-3. Tarnybos pareigūno vardo pažeminimas – tai kaltas pareigūno veikimas ar neveikimas, susijęs ar nesusijęs su tarnybinių pareigų atlikimu, tačiau akivaizdžiai žeminantis Specialiųjų tyrimų tarnybos autoritetą, griaunantis pasitikėjimą ja arba ją kompromituojantis.
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
-Nr. XI-1391, 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
- 
-
-12 straipsnis. Tarnybos pareigūno atleidimas iš tarnybos jam atsistatydinus savo noru 
-
-1. Tarnybos pareigūnas turi teisę atsistatydinti savo noru, apie tai ne vėliau kaip prieš 14 kalendorinių dienų raštu įspėjęs Specialiųjų tyrimų tarnybos direktorių. Jeigu Specialiųjų tyrimų tarnybos direktorius sutinka, tarnyba gali būti nutraukta praėjus 3 kalendorinėms dienoms nuo prašymo padavimo.
-
-2. Jei prašymas atleisti iš tarnybos pagrįstas tarnybos pareigūno liga ar neįgalumu, trukdančiais tinkamai atlikti tarnybines pareigas, jis turi būti patenkintas nuo tarnybos pareigūno prašyme nurodytos dienos.
-Straipsnio dalies pakeitimai:
-Nr. XII-1165, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13587
- 
-
-3. Tarnybos pareigūnas turi teisę atšaukti prašymą ne vėliau kaip per 3 kalendorines dienas nuo jo padavimo dienos, jei nėra priimtas Specialiųjų tyrimų tarnybos direktoriaus įsakymas atleisti šiuo pagrindu.
- 
-
-13 straipsnis. Reikalavimai atleidžiant iš tarnybos kitais atvejais
-
-1. Negalima atleisti tarnybos pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar atostogų metu, išskyrus atleidimą pagal šio Statuto 11 straipsnio 1 dalies 1, 2, 6, 11 punktus ir 2 dalies 3 bei 6 punktus. Jei tarnybos pareigūnas atleistas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo nedarbingumo pasibaigimo tarnybos diena.
-
-2. Negalima atleisti iš tarnybos nėščios tarnybos pareigūnės, taip pat tarnybos pareigūno vaiko (vaikų) iki trejų metų priežiūros atostogų metu, jeigu nėra šių tarnybos pareigūnų veiksmuose kaltės (išskyrus atvejus, kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga). 
-
-3. Atleisti tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai tarnybos pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga), tarnybos pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešta raštu prieš 4 mėnesius. Jei tarnybos pareigūnas atleidžiamas iš tarnybos nepasibaigus įspėjimo laikui, jo atleidimo data perkeliama iki to laiko, kada turėjo pasibaigti įspėjimo terminas. 
-
-4. Atleisti tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4 ir 5 punktus galima tik tuo atveju, jeigu nėra galimybės jį perkelti į lygiareikšmes pareigas arba tarnybos pareigūno sutikimu į žemesnes pareigas.
-
-5. Atleisti tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 7 punktą galima tik tuo atveju, jeigu jam yra pasiūlomos kitos laisvos lygiareikšmės, o jeigu jų nėra, – žemesnės pareigos ir tarnybos pareigūnas nesutinka būti perkeltas į jas.
-
-Straipsnio pakeitimai:
-Nr. XI-1391, 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
- 
-
-14 straipsnis. Atleidimo iš tarnybos tvarka
-
-1. Tarnybos pareigūnai iš Specialiųjų tyrimų tarnybos atleidžiami Specialiųjų tyrimų tarnybos direktoriaus įsakymu, išskyrus tarnybos pareigūnus, atleidžiamus Respublikos Prezidento dekretu.
-
-2. Atleidžiamas tarnybos pareigūnas privalo ne vėliau kaip atleidimo dieną grąžinti tarnybinį ginklą, specialiąsias priemones, tarnybinį pažymėjimą, tarnybinį ženklą, uniformą, dokumentus bei kitas darbo priemones, kurias gavo eidamas tarnybines pareigas. 
- 
-
-15 straipsnis. Atleidimo iš tarnybos apskundimo tvarka ir grąžinimo į tarnybą pagrindai 
-
-1. Ginčai dėl tarnybos pareigūnų atleidimo sprendžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-2. Teismui grąžinus neteisėtai atleistą tarnybos pareigūną į ankstesnes pareigas, šiam pareigūnui išmokamas jo vidutinis mėnesinis darbo užmokestis už visą priverstinės pravaikštos laiką nuo atleidimo iš tarnybos dienos iki teismo sprendimo įvykdymo dienos.
-
-3. Kai neteisėtai atleistas tarnybos pareigūnas pareiškia, kad grąžinus jį į ankstesnes pareigas jam būtų sudarytos nepalankios sąlygos dirbti, teismas, konstatuodamas neteisėtą atleidimą, gali tarnybos pareigūno prašymu negrąžinti jo į darbą, o priteisti jam kompensaciją iki šešių jo vidutinių mėnesinių darbo užmokesčių dydžio ir vidutinį darbo užmokestį už priverstinės pravaikštos laiką nuo atleidimo iš darbo iki teismo sprendimo įsigaliojimo dienos. Šiuo atveju tarnybos pareigūnas laikomas atleistu iš tarnybos pagal šio Statuto 11 straipsnio 1 dalies 1 punktą nuo teismo sprendimo įsigaliojimo dienos. 
- 
-
-16 straipsnis. Tarnybos pareigūnų rezervas 
-
-1. Specialiųjų tyrimų tarnyboje gali būti sudaromas tarnybos pareigūnų rezervas. Į šį rezervą gali būti įtraukiami iš tarnybos Specialiųjų tyrimų tarnyboje atleisti tarnybos pareigūnai, dirbantys kitose institucijose ir atliekantys darbą, susijusį su Specialiųjų tyrimų tarnybos uždaviniais. Į tarnybos pareigūnų rezervą asmenys gali būti įtraukti ne ilgiau kaip 4 metus per visą tarnybos laiką. Rezerve praleistas laikas įskaičiuojamas į tarnybos stažą tik tuo atveju, jeigu tarnybos pareigūnas vėl paskiriamas į Specialiųjų tyrimų tarnybą ir ten išdirba ne mažiau kaip vienus metus. 
-
-2. Asmenims, įtrauktiems į tarnybos pareigūnų rezervą, darbo užmokestis ir kitos su tarnybos santykiais susijusios išmokos nemokamos.
-
-3. Tarnybos pareigūnų rezervo sudarymo ir veiklos tvarką nustato Specialiųjų tyrimų tarnybos direktorius. 
- 
-
-17 straipsnis. Tarnybos pareigūnų tarnybinis pažymėjimas, tarnybinis ženklas ir uniforma 
-
-1. Tarnybos pareigūnai turi tarnybinį pažymėjimą, tarnybinį ženklą ir uniformą su skiriamaisiais ženklais. Tarnybinio pažymėjimo ir tarnybinio ženklo pavyzdžius tvirtina Vyriausybė.
-
-2. Tarnybos pareigūnų uniforma siuvama pagal Vyriausybės patvirtintus eskizus ir modelius. Skiriamųjų ženklų pavyzdžius tvirtina ir jų išdėstymo tvarką nustato Vyriausybė. 
-
-3. Uniforma išduodama ir dėvima Specialiųjų tyrimų tarnybos direktoriaus patvirtinta tvarka.
-
-4. Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka tarnybos pareigūnams ne dažniau kaip kartą per 3 metus gali būti išmokama 80 procentų uniformos vertės kompensacija.
- 
-
-18 straipsnis. Tarnybos pareigūnų rengimas ir kvalifikacijos kėlimas
-
-1. Tarnybos pareigūnai gali būti rengiami, taip pat gali kelti kvalifikaciją Lietuvos Respublikos ir užsienio valstybių mokslo, mokymo bei kitose įstaigose.
-
-2. Kvalifikacijos kėlimo laikotarpiu tarnybos pareigūnams taikomos šiame Statute numatytos socialinės garantijos. 
-
-3. Tarnybos pareigūnų kvalifikacijos kėlimo tvarką nustato Specialiųjų tyrimų tarnybos direktorius. 
-
-4. Specialiųjų tyrimų tarnyba su tarnybos pareigūnu gali sudaryti sutartį dėl apmokėjimo už jo mokslą sąlygų. Tarnybos pareigūnas, nevykdęs sutarties, neišdirbęs sutartyje nustatyto laiko ar nesibaigus sutarties terminui atsistatydinęs iš valstybės tarnybos arba atleistas dėl savo kaltės, privalo atlyginti Specialiųjų tyrimų tarnybai su jo mokymu susijusias išlaidas. 
- 
-
-TREČIASIS SKIRSNIS
-TARNYBOS PAREIGŪNŲ TARNYBINIAI RANGAI IR
-KVALIFIKACINĖS KATEGORIJOS
- 
-
-19 straipsnis. Tarnybos pareigūnų tarnybiniai rangai ir jų suteikimo tvarka 
-
-1. Tarnybos pareigūnams suteikiami šie tarnybiniai rangai:
+Pareigūnams suteikiami šie tarnybiniai rangai (nuo aukščiausio iki žemiausio):
 
 1) ypatingasis specialusis agentas;
 
@@ -405,71 +223,430 @@ KVALIFIKACINĖS KATEGORIJOS
 7) agentas;
 
 8) jaunesnysis agentas.
-
-2. Tarnybiniai rangai tarnybos pareigūnams suteikiami šia tvarka:
-
-1) vyresniojo specialiojo agento tarnybinis rangas – valdybų ir skyrių viršininkams bei valdybos viršininko pavaduotojams;
-
-2) specialiojo agento tarnybinis rangas – skyrių viršininkų pavaduotojams, poskyrių viršininkams ir Specialiųjų tyrimų tarnybos direktoriaus patarėjams;
-
-3) specialiojo agento patarėjo tarnybinis rangas – vyriausiesiems specialistams;
-
-4) vyresniojo agento tarnybinis rangas – vyresniesiems specialistams;
-
-5) agento tarnybinis rangas – specialistams;
-
-6) jaunesniojo agento tarnybinis rangas – jaunesniesiems specialistams.
-
-3. Specialiųjų tyrimų tarnybos struktūrą ir pareigybių sąrašą tvirtina Specialiųjų tyrimų tarnybos direktorius. 
-
-4. Specialiųjų tyrimų tarnybos direktoriui ypatingojo specialiojo agento tarnybinį rangą, skirdamas jį į šias pareigas, suteikia Respublikos Prezidentas.
-
-5. Specialiųjų tyrimų tarnybos direktoriaus pavaduotojams vyriausiojo specialiojo agento tarnybinį rangą, skirdamas juos į šias pareigas, suteikia Respublikos Prezidentas. 
-
-6. Tarnybos pareigūnams (išskyrus nurodytus 4 ir 5 dalyse) Statute numatytus tarnybinius rangus suteikia Specialiųjų tyrimų tarnybos direktorius įsakymu juos skirdamas į pareigas. 
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
  
 
-20 straipsnis. Kvalifikacinės kategorijos ir jų suteikimo tvarka
+10 straipsnis. Tarnybos pakopos
 
-1. Atsižvelgiant į tarnybos pareigūnų profesinio pasirengimo lygį, tarnybos stažą bei tarnybinės veiklos rezultatus, Specialiųjų tyrimų tarnybos direktoriaus įsakymu jiems suteikiamos šios kvalifikacinės kategorijos: 3-ioji, 2-oji ir 1-oji. Reikalavimus kvalifikacinėms kategorijoms gauti ir šių kategorijų suteikimo tvarką nustato Specialiųjų tyrimų tarnybos direktorius. 
+Tarnybos pakopos yra šios (nuo aukščiausios iki žemiausios):
 
-2. Specialiųjų tyrimų tarnybos direktoriui 1-ąją kvalifikacinę kategoriją suteikia Respublikos Prezidentas, skirdamas jį į pareigas. 
+1) šeštoji;
+
+2) penktoji;
+
+3) ketvirtoji;
+
+4) trečioji;
+
+5) antroji;
+
+6) pirmoji.
  
 
-KETVIRTASIS SKIRSNIS 
-TARNYBOS PAREIGŪNŲ PASKATINIMAI, TARNYBINIAI NUSIŽENGIMAI, NUOBAUDOS IR ATSAKOMYBĖ
+11 straipsnis. Pareigybių, tarnybinių rangų ir tarnybos pakopų derinimas
+
+1. Į pareigas skiriantis subjektas pareigūnui suteikia jo pareigybę atitinkantį tarnybinį rangą:
+
+1) ypatingojo specialiojo agento – direktoriui;
+
+2) vyriausiojo specialiojo agento – direktoriaus pavaduotojams;
+
+3) vyresniojo specialiojo agento – valdybų viršininkams ir valdybos viršininko pavaduotojams;
+
+4) specialiojo agento – skyrių viršininkams, skyrių viršininkų pavaduotojams ir poskyrių viršininkams;
+
+5) specialiojo agento patarėjo – vyriausiesiems specialistams; 
+
+6) vyresniojo agento – vyresniesiems specialistams;
+
+7) agento – specialistams;
+
+8) jaunesniojo agento – jaunesniesiems specialistams.
+
+2. Tarnybos pakopa – pareigūno pareiginės algos koeficientas iš atitinkamai pareigybei taikomo koeficientų intervalo, nustatomas pagal pareigūno kvalifikaciją, tarnybos patirtį ir tarnybinės veiklos rezultatus, atitinkantis pareigūno tarnybinės veiklos įvertinimą. Kai tarnybos pakopa nustatoma pareigūną pirmą kartą skiriant į tarnybą Specialiųjų tyrimų tarnyboje, taip pat atsižvelgiama į jo profesinio pasirengimo lygį ir ankstesnės tarnybinės ar kitokios profesinės veiklos rezultatus.
+
+3. Pareigūnui, skiriamam į tarnybą Specialiųjų tyrimų tarnyboje, nustatoma pirmoji tarnybos pakopa. Atsižvelgiant į šio straipsnio 2 dalyje nurodytas dalykines savybes, Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka pirmą kartą į tarnybą Specialiųjų tyrimų tarnyboje skiriamam asmeniui Atrankos komisijos siūlymu gali būti nustatoma aukštesnė negu pirmoji, tačiau ne aukštesnė negu trečioji tarnybos pakopa. Kriterijus, kuriais remdamasi Atrankos komisija gali siūlyti pirmą kartą į tarnybą Specialiųjų tyrimų tarnyboje skiriamam asmeniui nustatyti aukštesnę negu pirmąją tarnybos pakopą, nustato Specialiųjų tyrimų tarnybos direktorius.
+
+4. Nuosekliai aukštesnė tarnybos pakopa nustatoma per eilinę ar neeilinę atestaciją (toliau – atestacija) pareigūno tarnybinę veiklą įvertinus labai gerai. Nuosekliai žemesnė tarnybos pakopa nustatoma per atestaciją pareigūno tarnybinę veiklą įvertinus nepatenkinamai.
+
+5. Perkėlus pareigūną į aukštesnes pareigas, jam nustatoma tokia tarnybos pakopa, kad pareiginė alga einant naujas pareigas būtų artimiausia ne mažesnė negu iki perkėlimo į aukštesnes pareigas gauta pareiginė alga. 
+
+6. Perkėlus pareigūną į lygiavertes pareigas, jam nustatoma ta pati tarnybos pakopa.
+
+7. Perkėlus pareigūną į žemesnes pareigas šio statuto 20 straipsnio 4 dalies 4 punkto pagrindu, laikoma, kad jam nustatyta ta pati (iki perkėlimo turėta) tarnybos pakopa, tačiau mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis. Perkėlus pareigūną į žemesnes pareigas šio statuto 20 straipsnio 4 dalies 5 ar 6 punkte nustatytais pagrindais, jam nustatoma ta pati (iki perkėlimo turėta) tarnybos pakopa. Pareigūną perkėlus į žemesnes pareigas kitais pagrindais, jam nustatoma tokia tarnybos pakopa, kad pareiginė alga einant naujas pareigas būtų artimiausia ne mažesnė negu iki perkėlimo į žemesnes pareigas gauta pareiginė alga. Tuo atveju, kai iki perkėlimo į žemesnes pareigas gauta pareiginė alga atitinka arba viršija didžiausią galimą pareiginę algą, nustatoma šeštoji tarnybos pakopa.
+
+8. Tarnybos pakopa nustatoma Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
+
+9. Specialiųjų tyrimų tarnybos direktoriui ir direktoriaus pavaduotojams tarnybos pakopos nenustatomos.
  
 
-21 straipsnis. Tarnybos pareigūnų skatinimai ir apdovanojimai
+12 straipsnis. Pareigūnų atestacija
 
-1. Specialiųjų tyrimų tarnybos direktorius už pavyzdingą tarnybą pareigūnus gali skatinti: 
+1. Pareigūno tarnybinės veiklos rezultatus, kvalifikaciją ir tinkamumą einamoms ar kitoms pareigoms (toliau – pareigūno veikla) per atestaciją įvertina tiesioginis vadovas, Specialiųjų tyrimų tarnybos direktorius ar jo įgaliotas pareigūnas ir tam tikrais atvejais – Specialiųjų tyrimų tarnybos direktoriaus sudaryta Atestacijos komisija. Specialiųjų tyrimų tarnybos direktorius ar jo įgaliotas pareigūnas vertina tiesiogiai Specialiųjų tyrimų tarnybos direktoriui pavaldžius pareigūnus. Respublikos Prezidento skiriami pareigūnai per atestaciją nevertinami.
+
+2. Per atestaciją pareigūno veikla įvertinama labai gerai, gerai arba nepatenkinamai.
+
+3. Jeigu pareigūno veiklą tiesioginis vadovas, Specialiųjų tyrimų tarnybos direktorius ar jo įgaliotas pareigūnas įvertina labai gerai arba nepatenkinamai, pareigūno veiklą vertina Atestacijos komisija. Atestacijos komisija pareigūno veiklą taip pat vertina tais atvejais, kai pareigūnas nesutinka su tiesioginio vadovo ar Specialiųjų tyrimų tarnybos direktoriaus ar jo įgalioto pareigūno vertinimu, kai pareigūno veiklą vertina Atestacijos komisijos pirmininkas kaip jo tiesioginis vadovas, kai Atestacijos komisijos pirmininkas nesutinka su pareigūno tiesioginio vadovo vertinimu ir kai vertinama struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovo ar pavaduotojo tarnybinė veikla.
+
+4. Atestacijos komisija, įvertinusi pareigūno veiklą labai gerai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
+
+1) nustatyti pareigūnui nuosekliai aukštesnę tarnybos pakopą;
+
+2) perkelti pareigūną į aukštesnes pareigas;
+
+3) palikti tą pačią tarnybos pakopą, jeigu pareigūnui nustatyta aukščiausia tarnybos pakopa ir nėra galimybės pasiūlyti aukštesnių pareigų.
+
+5. Pareigūno tiesioginis vadovas ar Atestacijos komisija, įvertinę pareigūno veiklą gerai, Specialiųjų tyrimų tarnybos direktoriui siūlymų neteikia ir pareigūno iki atestacijos buvusi teisinė padėtis nesikeičia, išskyrus šio straipsnio 3 dalyje nustatytus atvejus ir atvejus, kai pasibaigus ar baigiantis laikotarpiui (nurodytam Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 11 straipsnio pakeitimo ir įstatymo papildymo 111 straipsniu įstatymo 3 straipsnio 3 dalyje), kurį pareigūnas eina Specialiųjų tyrimų tarnybos struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovo ar pavaduotojo pareigas, arba pasibaigus ar baigiantis struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovo ar pavaduotojo skyrimo į pareigas laikotarpiui (5 metams), pareigūno veikla įvertinama gerai. Tokiu atveju Atestacijos komisija siūlo Specialiųjų tyrimų tarnybos direktoriui perkelti pareigūną į kitas pareigas.
+
+6. Atestacijos komisija, įvertinusi pareigūno veiklą nepatenkinamai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
+
+1) tobulinti pareigūno kvalifikaciją;
+
+2) nustatyti pareigūnui nuosekliai žemesnę tarnybos pakopą;
+
+3) perkelti pareigūną į žemesnes pareigas;
+
+4) atleisti pareigūną iš pareigų.
+
+7. Atestacijos komisija, šio straipsnio 9 dalyje numatytu pagrindu atliekamos neeilinės atestacijos metu įvertinusi šio statuto 6 straipsnio 1 dalyje nurodytas pareigas einančio pareigūno veiklą labai gerai, siūlo Specialiųjų tyrimų tarnybos direktoriui, pasibaigus skyrimo į pareigas laikotarpiui, pakartotinai skirti šį pareigūną į tas pačias pareigas.
+
+8. Šiame straipsnyje nurodyti Specialiųjų tyrimų tarnybos direktoriaus sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+9. Neeilinė atestacija atliekama baigiantis pareigūnui nustatytam išbandymo laikotarpiui, skyrimo į pareigas laikotarpiui (taikoma pareigūnams, kurie Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo nustatytais atvejais į pareigas skiriami 5 metų laikotarpiui) arba Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 11 straipsnio pakeitimo ir įstatymo papildymo 111 straipsniu įstatymo 3 straipsnio 3 dalyje nurodytam laikotarpiui. Tarnybos direktoriaus ar jo įgalioto pavaduotojo sprendimu neeilinė pareigūno atestacija taip pat gali būti atliekama šiais atvejais:
+
+1) kai pareigūnas labai gerai atlieka savo pareigas;
+
+2) kai pareigūnas nepatenkinamai atlieka savo pareigas;
+
+3) kitais atvejais – esant tarnybiniam būtinumui.
+
+10. Pareigūnų atestacijos kriterijus ir tvarką, Atestacijos komisijos veiklą ir įgaliojimus nustato Specialiųjų tyrimų tarnybos direktorius.
+ 
+
+13 straipsnis. Pareigūnų mokymas ir kvalifikacijos tobulinimas
+
+1. Pareigūnų mokymas ir kvalifikacijos tobulinimas organizuojamas ir vykdomas Specialiųjų tyrimų tarnyboje, Lietuvos ir užsienio valstybių mokslo, mokymo ir kitose įstaigose.
+
+2. Specialiųjų tyrimų tarnybos direktorius nustato pareigūnų mokymo ir kvalifikacijos tobulinimo tvarką ir tvirtina pareigūnų kvalifikacijos tobulinimo planus.
+
+3. Mokymo ar kvalifikacijos tobulinimo laikotarpiu pareigūnams garantuojamos einamos pareigos ir darbo užmokestis, taikomos šiame statute ir kituose įstatymuose nustatytos socialinės garantijos.
+
+4. Pareigūnų mokymui ir kvalifikacijos tobulinimui finansuoti gali būti naudojami Specialiųjų tyrimų tarnybai skiriami valstybės biudžeto asignavimai, Europos Sąjungos, užsienio valstybių ir tarptautinių organizacijų finansinės paramos lėšos ir kitų šaltinių lėšos. 
+
+5. Specialiųjų tyrimų tarnyba Specialiųjų tyrimų tarnybos direktoriaus nustatytais atvejais ir tvarka su pareigūnu gali sudaryti sutartį dėl apmokėjimo už jo mokslą, mokymą ar kvalifikacijos tobulinimą. Pareigūnas, nevykdęs sutarties, vykdęs ją netinkamai arba nesibaigus sutarties terminui ar nepraėjus sutartyje nurodytam laikui atleistas iš pareigų savo noru ar dėl savo kaltės, privalo atlyginti Specialiųjų tyrimų tarnybai su jo mokslu, mokymu ar kvalifikacijos tobulinimu susijusias išlaidas.
+ 
+
+14 straipsnis. Tarnybos stažas
+
+1. Šiame statute nurodytą tarnybos stažą, skaičiuojamą kasmetinių atostogų trukmei ir šio statuto 37 straipsnio 3 dalyje numatytos kompensacijos dydžiui nustatyti, sudaro Lietuvos valstybei ištarnauti metai.
+
+2. Tarnybos stažas apskaičiuojamas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. 
+ 
+
+15 straipsnis. Pareigūnų darbo užmokestis
+
+1. Pareigūnų darbo užmokestis susideda iš:
+
+1) pareiginės algos;
+
+2) priedo už tarnybinį rangą;
+
+3) priedo už ištarnautus Lietuvos valstybei metus;
+
+4) vienkartinės priemokos.
+
+2. Pareigūnų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama taip: pareiginės algos dydis padalijamas iš to mėnesio nustatytų darbo valandų ar dienų skaičiaus, gautas darbo valandos ar darbo dienos atlygis padauginamas iš pareigūno dirbtų valandų ar dienų skaičiaus.
+
+3. Pareiginė alga ir priedas už ištarnautus Lietuvos valstybei metus apskaičiuojami Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.
+
+4. Pareigūnams priedai už tarnybinį rangą skaičiuojami nuo pareiginės algos:
+
+1) jaunesniajam agentui, agentui, vyresniajam agentui, specialiajam agentui patarėjui – 10 procentų dydžio;
+
+2) specialiajam agentui – 15 procentų dydžio;
+
+3) vyresniajam specialiajam agentui – 20 procentų dydžio;
+
+4) vyriausiajam specialiajam agentui – 25 procentų dydžio;
+
+5) ypatingajam specialiajam agentui – 30 procentų dydžio.
+
+5. Pareigūnui už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Specialiųjų tyrimų tarnybos uždaviniais ir funkcijomis susijusi veikla, iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius gali būti mokamos vienkartinės ar periodinės išmokos. Už laiką, kurį pareigūnas dalyvauja minėtuose paramos teikimo projektuose ir už kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų, skirtų minėtiems paramos teikimo projektams įgyvendinti, šio straipsnio 1 dalyje nustatytas darbo užmokestis pareigūnui nemokamas.
+
+6. Už viršvalandinį darbą, darbą poilsio ir švenčių dienomis pareigūnams gali būti mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo numatyta vienkartinė priemoka.
+ 
+
+16 straipsnis. Teisės dirbti kitą darbą įgyvendinimas 
+
+1. Sprendimą dėl leidimo pareigūnui dirbti kitą darbą, suderinamą su Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 15 straipsnio 1 dalies 5 punkte nustatytais veiklos apribojimais, priima Specialiųjų tyrimų tarnybos direktorius pareigūno prašymu. Prašymai leisti dirbti kitą darbą nagrinėjami Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka.
+
+2. Sprendimas dėl leidimo dirbti kitą darbą galioja vienus metus nuo sprendimo priėmimo dienos. Jeigu toks sprendimas priimtas dėl pareigūno perkėlimo į kitas pareigas šio straipsnio 4 dalyje nurodytais atvejais, leidimas galioja perkėlimo į kitas pareigas laikotarpiu. Pareigūną perkėlus į kitas pareigas, pasikeitus jo pareigybės aprašyme nustatytoms funkcijoms, jis privalo pateikti naują prašymą leisti dirbti kitą darbą. 
+
+3. Sprendimas dėl leidimo dirbti kitą darbą gali būti atšauktas, jeigu atsiranda arba paaiškėja naujų aplinkybių, dėl kurių toks leidimas negalėtų būti išduotas.
+
+4. Šiame straipsnyje nurodytą leidimą dirbti kitą darbą taip pat turi gauti pareigūnas, siekiantis būti perkeltas į kitas pareigas šio statuto 20 straipsnio 5 ir 6 dalyse nurodytais atvejais.
+ 
+
+17 straipsnis. Tarnybinis pažymėjimas ir tarnybinis ženklas
+
+1. Paskirtam į pareigas pareigūnui išduodamas tarnybinis pažymėjimas ir tarnybinis ženklas, kurių paskirtis – patvirtinti pareigūno statusą ir tarnybą Specialiųjų tyrimų tarnyboje.
+
+2. Tarnybinio pažymėjimo ir tarnybinio ženklo pavyzdžius tvirtina Specialiųjų tyrimų tarnybos direktorius.
+ 
+
+18 straipsnis. Pareigūnų įgaliojimai, tarpusavio tarnybos santykiai ir atsakomybė
+
+1. Pareigūno duodami teisėti nurodymai yra privalomi visiems asmenims.
+
+2. Pareigūnas privalo vykdyti aukštesnio pagal pavaldumą pareigūno įsakymus, nurodymus ar pavedimus. Pareigūnas turi teisę prašyti, kad aukštesnis pagal pavaldumą pareigūnas įsakymus, nurodymus ar pavedimus duotų raštu.
+
+3. Pareigūnas asmeniškai atsako už savo, taip pat pagal įgaliojimus ir kompetenciją už jam pavaldžių pareigūnų veiklą ir sprendimus bei jų padarinius.
+
+4. Apie gautą įsakymą, nurodymą ar pavedimą, prieštaraujantį įstatymui ar viršijantį aukštesniojo pagal pavaldumą pareigūno tarnybinius įgaliojimus, pareigūnas turi nedelsdamas pranešti Specialiųjų tyrimų tarnybos direktoriui. Apie Specialiųjų tyrimų tarnybos direktoriaus duotą įsakymą, nurodymą ar pavedimą, aiškiai prieštaraujantį įstatymui, nedelsiant pranešama Lietuvos Respublikos generaliniam prokurorui ar jo pavaduotojui. Įstatymui prieštaraujančio įsakymo, nurodymo ar pavedimo vykdymas neatleidžia nuo atsakomybės.
+ 
+
+19 straipsnis. Pareigūno asmens duomenys ir asmens byla
+
+1. Specialiųjų tyrimų tarnyba turi teisę tvarkyti pareigūno asmens duomenis ir ypatingus asmens duomenis pagal Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymą.
+
+2. Šio straipsnio 1 dalyje nurodyti duomenys, taip pat duomenys apie pareigūno priėmimą į tarnybą, priesaiką, skyrimą į pareigas, atleidimą iš jų, nušalinimą, skatinimą, tarnybines nuobaudas ir kita tvarkomi Specialiųjų tyrimų tarnyboje saugomoje pareigūno asmens byloje. Asmens bylų sudarymo tvarką ir saugojimo terminus nustato Specialiųjų tyrimų tarnybos direktorius, atsižvelgdamas į Lietuvos vyriausiojo archyvaro nustatytus dokumentų saugojimo terminus.
+ 
+
+IV SKYRIUS
+PERKĖLIMAS Į KITAS PAREIGAS, NUŠALINIMAS NUO PAREIGŲ,
+ATLEIDIMAS IŠ TARNYBOS
+ 
+
+20 straipsnis. Perkėlimas į kitas pareigas
+
+1. Pareigūnas Specialiųjų tyrimų tarnybos direktoriaus įsakymu gali būti perkeltas į aukštesnes, lygiavertes ar žemesnes pareigas.
+
+2. Pareigūnas į aukštesnes pareigas gali būti perkeltas:
+
+1) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
+
+2) Atestacijos komisijai įvertinus pareigūno veiklą labai gerai.
+
+3. Pareigūnas į lygiavertes pareigas gali būti perkeltas:
+
+1) savo prašymu ar sutikimu;
+
+2) dėl tarnybos organizavimo pakeitimų panaikinus pareigūno pareigybę;
+
+3) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
+
+4) kai dėl sveikatos būklės jis negali eiti savo pareigų, jeigu pareigūnas su tuo sutinka;
+
+5) pasibaigus skyrimo į pareigas laikotarpiui, jeigu pareigūnas su tuo sutinka;
+
+6) kai jam įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo tiesioginių pareigų atlikimu;
+
+7) kai į tas pareigas teismo sprendimu grąžinamas anksčiau jas ėjęs pareigūnas.
+
+4. Pareigūnas į žemesnes pareigas gali būti perkeltas:
+
+1) savo prašymu ar sutikimu;
+
+2) dėl tarnybos organizavimo pakeitimų panaikinus pareigūno pareigybę ir nesant galimybės perkelti į lygiavertes pareigas, jeigu pareigūnas su tuo sutinka;
+
+3) kai dėl sveikatos būklės negali eiti savo pareigų, jeigu pareigūnas su tuo sutinka; 
+
+4) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
+
+5) paskyrus tarnybinę nuobaudą – perkėlimą į žemesnes pareigas;
+
+6) Atestacijos komisijai įvertinus pareigūno veiklą nepatenkinamai;
+
+7) pasibaigus kadencijai arba skyrimo į pareigas laikotarpiui, jeigu nėra galimybės perkelti į lygiavertes pareigas ar pareigūnas atsisako būti perkeltas į jas ir pareigūnas su tuo sutinka;
+
+8) kai jam įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo tiesioginių pareigų atlikimu, – jeigu nėra galimybės perkelti į lygiavertes pareigas ir pareigūnas su tuo sutinka;
+
+9) kai į tas pareigas teismo sprendimu grąžinamas anksčiau jas ėjęs pareigūnas, – jeigu nėra galimybės perkelti į lygiavertes pareigas ir pareigūnas su tuo sutinka.
+
+5. Pareigūnas savo rašytiniu sutikimu gali būti perkeltas į pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat dirbti į specialiąsias misijas ir institucijas, kurių steigimą numato Europos Sąjungos teisės aktai.
+
+6. Atsižvelgiant į teisės aktus, reglamentuojančius delegavimą į tarptautines institucijas ir užsienio valstybių institucijas, pareigūnas savo rašytiniu sutikimu taip pat gali būti laikinai perkeltas į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijoje.
+
+7. Pagal šio straipsnio 5 ar 6 dalį perkeltas pareigūnas kitas pareigas gali eiti ne ilgiau kaip 3 metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
+
+8. Perkėlimo pagal šio straipsnio 5 ar 6 dalį laikotarpiu pareigūnui garantuojamos iki perkėlimo eitos pareigos. Pareigūnų perkėlimo į šiame straipsnyje nurodytas pareigas ir atšaukimo iš jų tvarką, socialinių garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai.
+
+9. Pareigūnas į kitas pareigas taip pat gali būti perkeliamas kitų įstatymų nustatytais atvejais.
+ 
+
+21 straipsnis. Laikinas pavedimas atlikti kitas pareigas
+
+1. Esant tarnybiniam būtinumui, Specialiųjų tyrimų tarnybos direktorius įsakymu gali neperkeldamas į kitas pareigas laikinai pavesti pareigūnui be jo sutikimo atlikti kitas jo kvalifikaciją atitinkančias aukštesnes, lygiavertes ar žemesnes pareigas.
+
+2. Šio straipsnio 1 dalyje nustatytas laikinas pavedimas negali trukti ilgiau kaip vienus metus per penkerius pareigūno tarnybos Specialiųjų tyrimų tarnyboje metus.
+
+3. Šio straipsnio 1 dalyje nustatyta tvarka pavedus pareigūnui atlikti aukštesnes pareigas, jam mokamas darbo užmokestis apskaičiuojamas pagal pareigoms, kurias pavesta laikinai atlikti, nustatytą pareiginę algą ir pareigūnui iki pavedimo laikinai atlikti kitas pareigas nustatytą pareigybės pakopą. Pavedus atlikti žemesnes pareigas, mokamas darbo užmokestis, gautas iki laikino pavedimo.
+ 
+
+22 straipsnis. Pareigūno nušalinimas nuo pareigų
+
+1. Pareigūnas privalo būti nušalintas nuo pareigų šiais atvejais:
+
+1) jeigu tarnyboje pasirodė neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar toksinių medžiagų, – likusiam tos dienos (pamainos) darbo laikui;
+
+2) Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka jam uždraudus dirbti ar susipažinti su įslaptinta informacija – Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka atliekamo patikrinimo laikotarpiui;
+
+3) kitų įstatymų nustatytų subjektų sprendimu – šių įstatymų nustatytomis sąlygomis ir tvarka.
+
+2. Pareigūnas gali būti nušalinamas nuo pareigų, jeigu jis įtariamas padaręs tarnybinį nusižengimą, pažeminęs pareigūno vardą, sulaužęs priesaiką, padaręs tyčinę nusikalstamą veiką ar nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams, – kol bus atliktas tarnybinis tyrimas ir priimtas sprendimas dėl tarnybinės nuobaudos skyrimo ar jo tolesnės tarnybos arba bus baigtas baudžiamasis procesas.
+
+3. Nušalintas nuo pareigų pareigūnas nuo nušalinimo momento grąžina tarnybinį pažymėjimą, tarnybinį ženklą, tarnybinį ginklą, specialiąsias priemones, dokumentus ir kitas darbo priemones, kurias turėjo eidamas pareigas.
+
+4. Nušalinimo terminui pasibaigus, pareigūnas grąžinamas į eitas pareigas, jeigu po nušalinimo nėra pagrindo atleisti jį iš pareigų.
+
+5. Už nušalinimo laikotarpį darbo užmokestis nemokamas. Pareigūnas, nuo tarnybos nušalintas nepagrįstai ar nepasitvirtinus aplinkybėms, lėmusioms nušalinimą, grąžinamas į eitas pareigas, per 10 darbo dienų jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo tarnybos, ir delspinigiai, apskaičiuoti Lietuvos Respublikos Vyriausybės nustatyta tvarka. Delspinigiai nemokami, jeigu žala atlyginta kitų įstatymų nustatyta tvarka. Delspinigių dydis kartą per metus indeksuojamas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, atsižvelgiant į vartotojų kainų indeksą per praėjusius kalendorinius metus.
+
+6. Nušalinimo laikotarpiu pareigūnui netaikomas Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 15 straipsnio 1 dalies 5 punkte nustatytas apribojimas. 
+ 
+
+23 straipsnis. Pareigūnų atleidimas iš tarnybos
+
+1. Pareigūnas atleidžiamas iš tarnybos šiais pagrindais:
+
+1) kai jis atsistatydina savo noru; 
+
+2) kai įsiteisėja apkaltinamasis teismo nuosprendis, kuriuo pareigūnas nuteisiamas už padarytą tyčinę nusikalstamą veiką ar nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams, arba jam paskiriama bausmė, dėl kurios jis negali eiti savo pareigų;
+
+3) kai jis netenka Lietuvos Respublikos pilietybės;
+
+4) kai Atestacijos komisija siūlo atleisti pareigūną iš pareigų;
+
+5) kai jis sulaužo priesaiką;
+
+6) dėl sveikatos būklės, esant tam tikrai asmens sveikatos priežiūros įstaigos, kurios steigėja yra Lietuvos Respublikos vidaus reikalų ministerija, Centrinės medicinos ekspertizės komisijos išvadai;
+
+7) jeigu jo tarnybinė veikla išbandymo laikotarpiu įvertinama nepatenkinamai;
+
+8) kai paaiškėja Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 15 straipsnyje ar šio statuto 4 straipsnio 2 dalyje nurodytos aplinkybės;
+
+9) kai jam paskiriama tarnybinė nuobauda – atleidimas iš tarnybos;
+
+10) kai jis sulaukia valstybinio socialinio draudimo senatvės pensijos amžiaus;
+
+11) kai paaiškėja, kad priimant į tarnybą buvo nuslėpti ar pateikti tikrovės neatitinkantys duomenys (dokumentai), dėl kurių asmuo negalėjo būti priimtas į tarnybą;
+
+12) kai jis atsisako dirbti pakeitus tarnybos sąlygas šio statuto 20 straipsnio 2 dalies 1 punkte, 20 straipsnio 3 dalies 3 punkte, 20 straipsnio 4 dalies 4 punkte ir 21 straipsnio 1 dalyje nurodytais atvejais; 
+
+13) kai jis pažemino pareigūno vardą;
+
+14) paties prašymu dėl išėjimo į pensiją;
+
+15) kai jis sulaukė šio statuto 34 straipsnio 1 dalyje nustatyto amžiaus, jeigu jo tarnybos laikas nustatyta tvarka nebuvo pratęstas arba baigėsi jo tarnybos laiko pratęsimo terminas.
+
+2. Pareigūnas gali būti atleidžiamas iš tarnybos šiais pagrindais:
+
+1) jeigu jis dėl laikinojo nedarbingumo neatvyksta į tarnybą daugiau kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų per paskutinius 12 mėnesių ir jeigu neatvykimas nesusijęs su sužalojimu, susižalojimu, kitu sveikatos sutrikdymu, atsiradusiu atliekant tarnybines pareigas arba dėl tarnybos ar pareigūno statuso;
+
+2) kai pareigūno pareigybė panaikinama dėl tarnybos organizavimo pakeitimų; 
+
+3) kai į tas pareigas teismo sprendimu grąžinamas anksčiau jas ėjęs pareigūnas;
+
+4) kai jam įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo tiesioginių pareigų atlikimu;
+
+5) kai baigiasi Specialiųjų tyrimų tarnybos struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovui ir pavaduotojui nustatytas tarnybos laikotarpis. 
+ 
+
+24 straipsnis. Pareigūno atleidimas iš tarnybos jam atsistatydinus savo noru
+
+1. Pareigūnas turi teisę atsistatydinti savo noru (šio statuto 23 straipsnio 1 dalies 1 ir 14 punktai), apie tai ne vėliau kaip prieš 14 kalendorinių dienų raštu įspėjęs Specialiųjų tyrimų tarnybos direktorių. Jeigu Specialiųjų tyrimų tarnybos direktorius sutinka, tarnyba gali būti nutraukta ir anksčiau negu po 14 kalendorinių dienų.
+
+2. Jeigu prašymas atleisti iš tarnybos pagrįstas pareigūno liga ar neįgalumu, trukdančiais tinkamai atlikti tarnybines pareigas, jis turi būti patenkintas kitą darbo dieną nuo prašymo padavimo dienos.
+
+3. Pareigūnas turi teisę atšaukti prašymą ne vėliau kaip per 3 kalendorines dienas nuo jo padavimo dienos, jeigu nėra priimtas Specialiųjų tyrimų tarnybos direktoriaus įsakymas atleisti šiuo pagrindu.
+ 
+
+25 straipsnis. Reikalavimai atleidžiant iš tarnybos kitais atvejais
+
+1. Negalima atleisti pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar per atostogas, išskyrus atleidimą pagal šio statuto 23 straipsnio 1 dalies 1, 2, 3, 5, 6, 8, 10, 11, 13 punktus ir 2 dalies 1 ir 4 punktus. Jeigu pareigūnas yra atleistas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo nedarbingumo pasibaigimo tarnybos diena.
+
+2. Negalima atleisti iš tarnybos nėščios pareigūnės, taip pat pareigūno, auginančio vaiką (vaikus) iki 3 metų amžiaus, jeigu šių pareigūnų veiksmuose nėra kaltės.
+
+3. Atleisti pareigūną iš tarnybos pagal šio statuto 23 straipsnio 2 dalies 2 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešta raštu prieš 4 mėnesius. Jeigu pareigūnas atleidžiamas iš tarnybos nepasibaigus įspėjimo laikui, jo atleidimo data perkeliama iki to laiko, kada turėjo pasibaigti įspėjimo terminas.
+
+4. Atleisti pareigūną iš tarnybos pagal šio statuto 23 straipsnio 1 dalies 6 punktą, 2 dalies 2, 3 ir 4 punktus galima tik tuo atveju, jeigu nėra galimybės pareigūno sutikimu jį perkelti į lygiavertes arba žemesnes pareigas.
+
+5. Atleisti pareigūną iš tarnybos pagal šio statuto 23 straipsnio 2 dalies 5 punktą galima tik tuo atveju, jeigu jam pasiūlomos kitos laisvos lygiavertės pareigos, o jeigu jų nėra arba pareigūnas nesutinka būti perkeltas į jas, – žemesnės pareigos ir pareigūnas nesutinka būti perkeltas į jas.
+ 
+ 
+
+26 straipsnis. Atleidimo iš tarnybos tvarka
+
+1. Pareigūnai iš tarnybos atleidžiami Specialiųjų tyrimų tarnybos direktoriaus įsakymu, išskyrus pareigūnus, atleidžiamus Respublikos Prezidento dekretu.
+
+2. Atleidžiamas pareigūnas privalo ne vėliau kaip atleidimo dieną grąžinti tarnybinį pažymėjimą, tarnybinį ženklą, tarnybinį ginklą, specialiąsias priemones, dokumentus ir kitas darbo priemones, kurias gavo eidamas tarnybines pareigas.
+ 
+
+27 straipsnis. Atleidimo iš tarnybos apskundimo tvarka ir grąžinimo į tarnybą pagrindai
+
+1. Ginčai dėl pareigūnų atleidimo sprendžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+2. Teismui grąžinus neteisėtai atleistą pareigūną į ankstesnes pareigas, šiam pareigūnui išmokamas jo vidutinis darbo užmokestis už visą priverstinės pravaikštos laiką nuo atleidimo iš tarnybos dienos iki teismo sprendimo įvykdymo dienos.
+
+3. Kai neteisėtai atleistas pareigūnas pareiškia, kad grąžinus jį į ankstesnes pareigas jam būtų sudarytos nepalankios sąlygos dirbti, teismas, konstatuodamas neteisėtą atleidimą, gali pareigūno prašymu negrąžinti jo į darbą, o priteisti jam kompensaciją iki šešių jo vidutinių mėnesinių darbo užmokesčių dydžio ir vidutinį darbo užmokestį už priverstinės pravaikštos laiką nuo atleidimo iš tarnybos dienos iki teismo sprendimo įsiteisėjimo dienos. Šiuo atveju pareigūnas laikomas atleistu iš tarnybos pagal šio statuto 23 straipsnio 1 dalies 1 punktą nuo teismo sprendimo įsiteisėjimo dienos.
+ 
+
+28 straipsnis. Pareigūnų rezervas 
+
+1. Specialiųjų tyrimų tarnyboje gali būti sudaromas pareigūnų rezervas (toliau – rezervas). Į rezervą pareigūnai gali būti įtraukiami, kai jie atleidžiami iš tarnybos Specialiųjų tyrimų tarnyboje ir skiriami į pareigas kitose Lietuvos, užsienio valstybių ar tarptautinėse institucijose, įstaigose, įmonėse, organizacijose, taip pat kai užsiima kita teisėta veikla ir atlieka darbą, susijusį su Specialiųjų tyrimų tarnybos uždaviniais. 
+
+2. Pareigūnas į rezervą įtraukiamas Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
+
+3. Pareigūnams, įtrauktiems į rezervą, darbo užmokestis ir kitos su tarnybos santykiais susijusios išmokos nemokamos.
+
+4. Į rezervą įtrauktas pareigūnas atlieka bendrąsias pareigūno pareigas ir valstybės tarnautojo ar kitoms jo einamoms pareigoms pagal pareigybės aprašymą priskirtas funkcijas.
+
+5. Buvimo rezerve laikas įskaičiuojamas į tarnybos stažą tik tuo atveju, kai pareigūnas vėl paskiriamas į Specialiųjų tyrimų tarnybą ir ten išdirba ne mažiau kaip vienus metus.
+
+6. Pareigūnas rezerve nepertraukiamai gali būti ne ilgiau kaip 5 metus, o bendras buvimo rezerve laikas per visą tarnybos laiką negali viršyti 10 metų.
+
+7. Rezervo sudarymo tvarką nustato Specialiųjų tyrimų tarnybos direktorius.
+ 
+
+29 straipsnis. Pareigūno statuso atkūrimas
+
+1. Atkurti pareigūno statusą – Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka grįžti į eitas arba, jeigu nėra galimybės, į kitas pareigas Specialiųjų tyrimų tarnyboje – turi teisę buvę pareigūnai:
+
+1) pačių prašymu atleisti iš tarnybos ir paskirti dirbti tarptautinėje institucijoje, Europos Sąjungos ar užsienio valstybės institucijoje;
+
+2) pačių prašymu atleisti iš tarnybos ir išvykę kartu su sutuoktiniais, perkeltais, paskirtais ar išrinktais dirbti užsienyje.
+
+2. Pareigūno statusas atkuriamas per 3 mėnesius nuo darbo tarptautinėje institucijoje, Europos Sąjungos ar užsienio valstybės institucijoje pabaigos arba per 3 mėnesius po sutuoktinio perkėlimo, paskyrimo ar išrinkimo dirbti užsienyje laikotarpio pabaigos, arba per 3 mėnesius nuo prašymo atkurti pareigūno statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio perkėlimo, paskyrimo ar išrinkimo dirbti užsienyje laikotarpiui.
+
+3. Pareigūno statusas atkuriamas, jeigu jį atkurti siekiantis asmuo atitinka šio statuto 3 ir 4 straipsniuose nustatytus reikalavimus. 
+ 
+
+V SKYRIUS
+SKATINIMAS IR ATSAKOMYBĖ
+ 
+
+30 straipsnis. Pareigūnų skatinimas ir apdovanojimai
+
+1. Specialiųjų tyrimų tarnybos direktorius už pavyzdingą tarnybą pareigūnus gali skatinti:
 
 1) pareikšdamas padėką;
 
-2) Vyriausybės nustatyta tvarka paskirdamas ne didesnę kaip tarnybos pareigūno vidutinio darbo užmokesčio dydžio vienkartinę piniginę išmoką;
+2) Lietuvos Respublikos Vyriausybės nustatyta tvarka paskirdamas ne didesnę kaip pareigūno vidutinio darbo užmokesčio dydžio vienkartinę piniginę išmoką;
 
 3) įteikdamas vardinę dovaną;
 
-4) įteikdamas Specialiųjų tyrimų tarnybos garbės ženklą.
+4) įteikdamas Specialiųjų tyrimų tarnybos žinybinį ženklą;
 
-2. Tarnybos pareigūnai už ypatingus nuopelnus tarnyboje gali būti pristatyti valstybės apdovanojimui.
+5) įteikdamas Specialiųjų tyrimų tarnybos garbės ženklą.
 
-3. Tarnybos pareigūnų paskatinimai ir apdovanojimai įrašomi į jų asmens bylas. 
+2. Pareigūnai už ypatingus nuopelnus Specialiųjų tyrimų tarnyboje gali būti pristatyti valstybės apdovanojimui.
 
-4. Specialiųjų tyrimų tarnybos garbės ženklo nuostatus tvirtina Specialiųjų tyrimų tarnybos direktorius.
+3. Specialiųjų tyrimų tarnybos žinybinio ženklo ir garbės ženklo aprašus ir nuostatus tvirtina Specialiųjų tyrimų tarnybos direktorius.
 
-5. Tarnybos pareigūnai, turintys galiojančią drausminę nuobaudą, neskatinami. 
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
+4. Pareigūnai, turintys galiojančią tarnybinę nuobaudą, neskatinami.
  
 
-22 straipsnis. Tarnybinės nuobaudos
+31 straipsnis. Tarnybinės nuobaudos
 
-1. Šio Statuto nustatyta tvarka už tarnybinius nusižengimus tarnybos pareigūnams skiriamos šios tarnybinės nuobaudos:
+1. Šio statuto nustatyta tvarka už tarnybinius nusižengimus pareigūnams skiriamos šios tarnybinės nuobaudos:
 
 1) pastaba;
 
@@ -477,326 +654,341 @@ Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
 
 3) griežtas papeikimas;
 
-4) perkėlimas į žemesnes pareigas; 
+4) perkėlimas į žemesnes pareigas;
 
 5) atleidimas iš tarnybos.
 
 2. Už vieną nusižengimą taikoma tik viena tarnybinė nuobauda.
 
-3. Sprendimas dėl tarnybinės nuobaudos skyrimo gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-4. Duomenys apie tarnybos pareigūnui paskirtas nuobaudas įrašomi į asmens bylą.
+3. Sprendimas dėl tarnybinės nuobaudos skyrimo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 
-23 straipsnis. Tarnybos pareigūnų tarnybinių nusižengimų tyrimo subjektai ir nuobaudų skyrimo tvarka bei nuobaudų išnykimas
+32 straipsnis. Pareigūnų tarnybinių nusižengimų tyrimo subjektai, nuobaudų skyrimo tvarka ir nuobaudų išnykimas
 
-1. Tarnybinių nuobaudų skyrimo procedūra pradedama Specialiųjų tyrimų tarnybos direktoriaus, jo pavaduotojų, tiesioginio tarnybos pareigūno vadovo iniciatyva arba kai jie gauna informaciją apie tarnybos pareigūno tarnybinį nusižengimą. Tarnybinių nusižengimų tyrimą atlieka Specialiųjų tyrimų tarnybos direktorius arba jo įgalioti pareigūnai ar jo sudaryta komisija. 
+1. Tarnybinių nuobaudų skyrimo procedūra pradedama Specialiųjų tyrimų tarnybos direktoriaus sprendimu, gavus duomenų apie galbūt padarytą tarnybinį nusižengimą. Tarnybinio nusižengimo tyrimą atlieka Specialiųjų tyrimų tarnybos direktorius, Specialiųjų tyrimų tarnybos direktoriaus įgalioti pareigūnai ar Specialiųjų tyrimų tarnybos direktoriaus sudaryta komisija.
 
-2. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo nusižengimo paaiškėjimo dienos, neįskaitant laiko, kai tarnybos pareigūnas nebuvo tarnyboje dėl ligos, atostogų arba buvo išvykęs į tarnybinę komandiruotę ar stažuotę užsienyje. Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo padarymo dienos. 
+2. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kai pareigūnas nebuvo tarnyboje dėl ligos, atostogų arba buvo išvykęs į tarnybinę komandiruotę ar stažuotę užsienyje. Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo padarymo dienos, išskyrus atvejus, kai tarnybinio nusižengimo tyrimas sustabdomas šio straipsnio 4 dalyje nurodytais atvejais arba kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių inventorizaciją arba kompetentingos institucijos atliekamą tarnybinį ar kitą patikrinimą. Šiais atvejais tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 3 metus nuo tarnybinio nusižengimo padarymo dienos ir ne vėliau kaip per 2 mėnesius nuo kompetentingos institucijos atlikto tyrimo pabaigos dienos.
 
-3. Tarnybos pareigūnas, įtariamas padaręs tarnybinį nusižengimą, gali pateikti rašytinį paaiškinimą dėl tarnybinio nusižengimo. Jeigu tarnybos pareigūnas paaiškinimo raštu nepateikia, surašomas aktas. Jį pasirašo tarnybinį tyrimą atlikęs tarnybos pareigūnas ir du kiti tarnybos pareigūnai arba tarnybinį tyrimą atlikusios komisijos nariai. 
+3. Pareigūnas, įtariamas padaręs tarnybinį nusižengimą, gali pateikti raštu paaiškinimą dėl tarnybinio nusižengimo. Jeigu pareigūnas paaiškinimo raštu nepateikia, surašomas aktas, kurį pasirašo tarnybinį tyrimą atlikęs pareigūnas ir du kiti pareigūnai arba tarnybinį tyrimą atlikusios komisijos nariai. Šiuo aktu patvirtinama, kad pareigūnas nepateikė paaiškinimo raštu.
 
-4. Jei paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir tarnybinio tyrimo medžiaga perduodama tirti kompetentingai institucijai. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas baudžiamojon ar administracinėn atsakomybėn ir procesas yra pasibaigęs, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda gali būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo.
+4. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo) požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl šios pareigūno veikos yra pradėtas baudžiamasis procesas arba bylos dėl administracinio teisės pažeidimo (nusižengimo) teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar bylos dėl administracinio teisės pažeidimo (nusižengimo) teiseną arba pasibaigia baudžiamasis procesas ar bylos dėl administracinio teisės pažeidimo (nusižengimo) teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo), tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio teisės pažeidimo (nusižengimo) teisenos eigą.
 
 5. Tarnybinė nuobauda skiriama Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
 
 6. Tarnybinių nusižengimų tyrimo tvarka nustatoma Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
 
-7. Tarnybos pareigūnas laikomas nebaustas tarnybine nuobauda, jei po nuobaudos už tarnybinį nusižengimą (išskyrus atleidimą iš tarnybos) skyrimo praėjo vieni metai.
+7. Pareigūnas laikomas nebaustas tarnybine nuobauda, jeigu po nuobaudos už tarnybinį nusižengimą (išskyrus atleidimą iš tarnybos) skyrimo praėjo vieni metai.
 
-8. Tarnybinė nuobauda Specialiųjų tyrimų tarnybos direktoriaus motyvuotu sprendimu už gerą tarnybą gali būti panaikinta anksčiau, negu sueis šio straipsnio 7 dalyje nustatytas terminas. 
+8. Tarnybinė nuobauda Specialiųjų tyrimų tarnybos direktoriaus motyvuotu sprendimu už gerą tarnybą gali būti panaikinta pirmiau, negu sueis šio straipsnio 7 dalyje nustatytas terminas. Tarnybinė nuobauda taip pat gali būti panaikinta, jeigu pareigūnas gauna valstybės apdovanojimą.
  
 
-24 straipsnis. Tarnybos pareigūno nušalinimas nuo pareigų 
+33 straipsnis. Pareigūnų materialinė atsakomybė
 
-Tarnybos pareigūnas nuo pareigų nušalinamas Lietuvos Respublikos valstybės tarnybos įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka.
+1. Pareigūnas turi atlyginti savo neteisėta kalta veika Specialiųjų tyrimų tarnybai padarytą tiesioginę materialinę žalą.
 
-Straipsnio pakeitimai:
-Nr. XII-453, 2013-07-02, Žin., 2013, Nr. 78-3932 (2013-07-20)
+2. Atlyginama visa šio straipsnio 1 dalyje nurodyta žala, tačiau atlygintinos žalos dydis negali viršyti šešių vidutinių pareigūno darbo užmokesčių, išskyrus teisės aktų nustatytus atvejus, kai privaloma atlyginti visą žalą.
+
+3. Padarytą žalą pareigūnas gali atlyginti savo noru. 
+
+4. Jeigu pareigūnas gera valia šalių susitarimu žalos neatlygino, padarytos žalos atlyginimas Specialiųjų tyrimų tarnybos direktoriaus sprendimu gali būti išskaitomas iš pareigūno darbo užmokesčio neviršijant vieno vidutinio darbo užmokesčio. Sprendimas dėl žalos atlyginimo turi būti priimtas ne vėliau kaip per vieną mėnesį nuo žalos paaiškėjimo dienos. Neatlyginta žalos dalis išieškoma pareiškus ieškinį teisme.
+
+5. Atlyginant žalą išieškoma suma negali viršyti 20 procentų priklausančio per mėnesį mokėti darbo užmokesčio.
+
+6. Jeigu pareigūno padarytą žalą atlygina Specialiųjų tyrimų tarnyba, iš žalą padariusio pareigūno gali būti reikalaujama regreso tvarka atlyginti Specialiųjų tyrimų tarnybai padarytą žalą, bet ne didesnę kaip šešių vidutinių pareigūno darbo užmokesčių dydžio. Jeigu pareigūnas žalą padarė tyčia, gali būti reikalaujama atlyginti visą Specialiųjų tyrimų tarnybos patirtą žalą. Žalos atlyginimas išieškomas iš pareigūno darbo užmokesčio ir negali viršyti 20 procentų priklausančio per mėnesį mokėti darbo užmokesčio.
  
 
-25 straipsnis. Materialinė atsakomybė
-
-1. Tarnybos pareigūnas turi atlyginti savo neteisėta kalta veika Specialiųjų tyrimų tarnybai padarytą tiesioginę materialinę žalą, tačiau atlygintinos žalos dydis negali viršyti 6 vidutinių tarnybos pareigūno darbo užmokesčių, išskyrus atvejus, kai materialinė žala atsiranda dėl tarnybos pareigūno nusikalstamos veikos. 
-
-2. Specialiųjų tyrimų tarnybai padarytą materialinę žalą tarnybos pareigūnas gali atlyginti savo noru.
-
-3. Jei tarnybos pareigūnas gera valia šalių susitarimu žalos neatlygino natūra ar pinigais, Specialiųjų tyrimų tarnybos direktorius priima sprendimą dėl žalos atlyginimo išskaitant iš tarnybos pareigūno darbo užmokesčio, neviršijant jo vidutinio darbo užmokesčio. Sprendimas dėl žalos atlyginimo turi būti priimtas ne vėliau kaip per vieną mėnesį nuo žalos paaiškėjimo dienos. Likusi neatlyginta žalos dalis išieškoma pareiškus ieškinį teisme.
-
-4. Priėmus sprendimą dėl žalos atlyginimo, iš tarnybos pareigūno darbo užmokesčio kas mėnesį išskaitoma ne daugiau kaip 20 procentų jo mėnesinio darbo užmokesčio.
-
-5. Jeigu tarnybos pareigūnas nesutinka su Specialiųjų tyrimų tarnybos direktoriaus sprendimu dėl Specialiųjų tyrimų tarnybai padarytos žalos atlyginimo, jis turi teisę kreiptis į teismą. Kreipimasis į teismą sustabdo žalos atlyginimo išieškojimą.
+VI SKYRIUS
+SOCIALINĖS GARANTIJOS
  
 
-PENKTASIS SKIRSNIS
-ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR KITOKIOS
-PRIEVARTOS NAUDOJIMAS
+34 straipsnis. Tarnybos laikas
+
+1. Pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių ir direktoriaus pavaduotojus, Specialiųjų tyrimų tarnyboje tarnauja, kol jiems sukanka 60 metų.
+
+2. Specialiųjų tyrimų tarnybos direktorius ir direktoriaus pavaduotojai tarnauja iki įsigalioja Respublikos Prezidento dekretas dėl jų atleidimo iš pareigų.
+
+3. Pareigūnas, paskirtas į pareigas 5 metų tarnybos laikotarpiui, tarnauja iki kadencijos ar šio laikotarpio pabaigos, bet ne ilgiau negu jis sulaukia valstybinio socialinio draudimo senatvės pensijos amžiaus. 
+
+4. Pareigūno prašymu jo tarnybos laikas gali būti pratęstas, bet ne ilgiau negu jis sulaukia valstybinio socialinio draudimo senatvės pensijos amžiaus. Tarnybos laiką pratęsia asmuo, įgaliotas skirti pareigūną į pareigas ir atleisti iš jų, nurodydamas tarnybos laiko pratęsimo terminą.
  
 
-26 straipsnis. Prievartos rūšys ir naudojimo sąlygos
+35 straipsnis. Atostogos
 
-1. Tarnybos pareigūnas turi teisę panaudoti prievartą, kai ji yra būtina užkertant kelią teisės pažeidimams, sulaikyti pažeidimus padariusius asmenis ir kitais atvejais, saugant bei ginant teisėtus asmens, visuomenės, valstybės interesus. Prievartos rūšį ir jos panaudojimo ribas pasirenka tarnybos pareigūnas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias teisės pažeidėjo savybes. Naudodami prievartą, tarnybos pareigūnai privalo stengtis išvengti sunkių pasekmių. 
+1. Pareigūnams kasmetinių atostogų trukmė nustatoma atsižvelgiant į tarnybos stažą. Nustatoma tokia kasmetinių atostogų trukmė pareigūnams, ištarnavusiems:
 
-2. Tarnybos pareigūnas įstatymų nustatytais pagrindais ir sąlygomis gali panaudoti psichinę ar fizinę prievartą, šaunamąjį ginklą. 
+1) iki 10 metų, – 22 darbo dienos;
 
-3. Psichinė prievarta šiame Statute suprantama kaip įspėjimas apie ketinimą nedelsiant panaudoti fizinę prievartą ar šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas ir įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik esant šio Statuto 28 straipsnio 2 dalyje išvardytoms sąlygoms.
+2) nuo 10 iki 15 metų, – 25 darbo dienos;
 
-4. Fizinė prievarta šiame Statute suprantama kaip:
+3) nuo 15 iki 20 metų, – 29 darbo dienos;
 
-1) bet kokio pobūdžio fizinės jėgos bei kovinių imtynių veiksmų panaudojimas;
+4) daugiau kaip 20 metų, – 33 darbo dienos.
 
-2) specialiųjų priemonių, tai yra Specialiųjų tyrimų tarnybos ginkluotėje esamų lazdų, antrankių bei rišimo priemonių, dujų, tarnybinių šunų, transporto priverstinio sustabdymo bei kitų įstatymų leidžiamų ir Specialiųjų tyrimų tarnybos direktoriaus įsakymu patvirtintų aktyvios ir pasyvios gynybos priemonių, panaudojimas.
+2. Pareigūnui kasmetinės atostogos gali būti suteikiamos dalimis. Viena iš kasmetinių atostogų dalių negali būti trumpesnė kaip 10 darbo dienų.
 
-5. Prieš naudodamas fizinę prievartą arba šaunamąjį ginklą, tarnybos pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
-
-6. Tarnybos pareigūnai turi būti specialiai parengti ir periodiškai tikrinami, ar gali veikti situacijose, kuriose naudojama fizinė prievarta, specialiosios priemonės ir šaunamasis ginklas.
-
-7. Tarnybos pareigūnas, panaudojęs prievartą nepažeisdamas šio Statuto reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
-
-8. Jei dėl tarnybos pareigūno panaudotos prievartos asmuo mirė arba patyrė sveikatos sutrikimą, Specialiųjų tyrimų tarnybos direktorius ar jos padalinio vadovas apie tai privalo pranešti prokurorui. 
- 
-
-27 straipsnis. Fizinės prievartos naudojimas
-
-1. Tarnybos pareigūnas turi teisę panaudoti fizinę prievartą:
-
-1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
-
-2) sulaikydamas įtariamą padariusį teisės pažeidimą asmenį, kuris aktyviais veiksmais vengia sulaikymo;
-
-3) vykstant pasikėsinimui į Specialiųjų tyrimų tarnybos kontroliuojamą ar saugomą objektą, transporto priemonę, šaunamąjį ginklą, specialiąsias ryšio, aktyvios ar pasyvios gynybos priemones ar kitą Specialiųjų tyrimų tarnybos turtą ar kai būtina juos atgauti;
-
-4) masinių riaušių ar grupinių veiksmų, kuriais šiurkščiai pažeidžiama viešoji tvarka, metu;
-
-5) stabdydamas transporto priemonę, siekdamas sulaikyti asmenį, įtariamą padariusį nusikalstamą veiką. 
-
-2. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
-Straipsnio dalies pakeitimai:
-Nr. XII-1165, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13587
- 
-
-28 straipsnis. Šaunamojo ginklo naudojimas
-
-1. Tarnybos pareigūnas kaip išimtinę priemonę turi teisę panaudoti šaunamąjį ginklą, kai kitos prievartos priemonės yra neveiksmingos.
-
-2. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį tokiais atvejais:
-
-1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
-
-2) sulaikydamas įtariamą padariusį nusikalstamą veiką asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kitaip jo neįmanoma nuginkluoti; 
-
-3) gindamas saugomą objektą nuo kėsinimosi, jeigu jis yra susijęs su pavojumi asmenų gyvybei ar sveikatai;
-
-4) siekdamas sulaikyti suimtus (sulaikytus) asmenis, bandančius bėgti ar pabėgusius konvojavimo metu.
-
-3. Tarnybos pareigūnas taip pat turi teisę panaudoti šaunamąjį ginklą prieš transporto priemones bei gyvūnus būtinojo reikalingumo, būtinosios ginties atvejais ir (ar) sulaikant asmenį, įtariamą padariusį nusikalstamą veiką. 
-
-4. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar sveikatai būdu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1165, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13587
- 
-
-5. Tarnybos pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį naudojimui, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį panaudoti.
-
-6. Tarnybos pareigūnas, nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
-
-7. Tarnybos pareigūnas, panaudojęs šaunamąjį ginklą, privalo nedelsdamas apie tai pranešti Specialiųjų tyrimų tarnybos direktoriui ir surašyti paaiškinimą. 
- 
-
-ŠEŠTASIS SKIRSNIS
-TARNYBOS PAREIGŪNŲ SOCIALINĖS GARANTIJOS
- 
-
-29 straipsnis. Tarnybos pareigūnų atostogos
-
-1. Tarnybos pareigūnams kasmetinių atostogų trukmė nustatoma atsižvelgiant į tarnybos stažą. Kasmetinių atostogų trukmė nustatoma tarnybos pareigūnams, ištarnavusiems: 
-
-1) iki 10 metų – 30 kalendorinių dienų;
-
-2) nuo 10 iki 15 metų – 35 kalendorinės dienos;
-
-3) nuo 15 iki 20 metų – 40 kalendorinių dienų;
-
-4) daugiau kaip 20 metų – 45 kalendorinės dienos.
-
-2. Tarnybos pareigūnui kasmetinės atostogos gali būti suteikiamos dalimis. Viena iš kasmetinių atostogų dalių negali būti trumpesnė kaip 14 kalendorinių dienų. 
-
-3. Tarnybos pareigūnams gali būti suteikiamos šios tikslinės atostogos:
+3. Pareigūnams gali būti suteikiamos šios tikslinės atostogos:
 
 1) nėštumo ir gimdymo;
 
 2) tėvystės;
 
-3) vaiko priežiūros;
+3) vaikui prižiūrėti;
 
 4) mokymosi;
 
 5) dėl gyvenamosios vietos pakeitimo;
 
-6) nemokamos.
+6) nemokamos – iki 22 darbo dienų per metus;
 
-4. Nėštumo ir gimdymo, tėvystės, vaiko priežiūros, mokymosi ir nemokamų atostogų trukmę bei suteikimo tvarką reglamentuoja šis Statutas ir kiti įstatymai.
+7) kitos tikslinės atostogos, nustatytos Lietuvos Respublikos darbo kodekse.
 
-5. Mokymosi atostogos suteikiamos pagal tarnybos pareigūno prašymą, pateikus atitinkamus mokymo įstaigos dokumentus.
+4. Pareigūnų atostogų trukmę ir suteikimo tvarką nustato šis statutas, Lietuvos Respublikos darbo kodeksas ir kiti teisės aktai.
 
-6. Tarnybos pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas ar laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, persikelti skiriama iki 5 darbo dienų. Už šį laikotarpį tarnybos pareigūnui mokamas jo vidutinis darbo užmokestis, taip pat Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka kompensuojamos persikėlimo išlaidos. 
+5. Mokymosi atostogos gali būti suteikiamos pareigūno prašymu, pateikus atitinkamus mokymo įstaigos dokumentus.
 
-7. Tarnybos pareigūno prašymu dėl šeimyninių aplinkybių ar kitų svarbių priežasčių kartą per kalendorinius metus gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių dienų nemokamos atostogos. Tarnybos pareigūnas, kuriam suteiktos nemokamos atostogos, nepraranda teisės į kasmetines ar kitas tikslines atostogas.
+6. Pareigūnui, Specialiųjų tyrimų tarnyboje ištarnavusiam ne mažiau kaip 3 mėnesius, gali būti suteiktos iki vienų metų trukmės atostogos kvalifikacijai tobulinti. Šiuo atveju pareigūnui paliekamos jo eitos pareigos, tačiau jam nustatytas darbo užmokestis nemokamas. Pasinaudoti šiomis atostogomis pareigūnas gali ne dažniau kaip vieną kartą per 5 metus.
 
-Straipsnio pakeitimai:
-Nr. X-664, 2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
+7. Pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu) ar laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, persikelti skiriama iki 5 darbo dienų. Už šį laikotarpį pareigūnui mokamas jo vidutinis darbo užmokestis, taip pat Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka kompensuojamos persikėlimo išlaidos.
+
+8. Už viršvalandinį darbą, darbą poilsio ir švenčių dienomis pareigūnui gali būti kompensuojama suteikiant iki 10 darbo dienų kasmetinių papildomų mokamų atostogų.
+
+9. Pareigūnai esant tarnybiniam būtinumui Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka gali būti atšaukiami iš kasmetinių atostogų. Pareigūno dėl atšaukimo iš atostogų patirtas išlaidas atlygina Specialiųjų tyrimų tarnyba Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka.
  
 
-30 straipsnis. Tarnybos pareigūnų darbo užmokestis ir kitos su tarnybos santykiais susijusios išmokos
+36 straipsnis. Kompensacijos ir pašalpos
 
-1. Tarnybos pareigūnų darbo užmokestį sudaro pareiginė alga, priedai už tarnybos stažą, tarnybinį rangą, kvalifikacinę kategoriją, taip pat priemokos. Tarnybos pareigūnų pareiginė alga, priedas už tarnybos stažą, tarnybinį rangą, kvalifikacinę kategoriją ir priemokos mokami Valstybės tarnybos įstatymo ir šio Statuto nustatyta tvarka. Socialinių garantijų taikymo tvarką tarnybos pareigūnams jų atostogų, mokymosi laikotarpiu, laikinai einant pareigas ir kitais atvejais nustato Vyriausybė. 
+1. Pareigūnui žuvus dėl tarnybos, jo šeimai – sutuoktiniui ar partneriui, vaikams (įvaikiams) iki 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi įregistruotose bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais, pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais ir aukštojoje mokykloje pagal dieninę arba nuolatinę studijų formą, kol jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių vidutinio darbo užmokesčio dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Pareigūnas, žuvęs dėl tarnybos, laidojamas valstybės lėšomis.
 
-2. Tarnybos pareigūnams priedas už tarnybinį rangą sudaro 10 procentų pareiginės algos. 
+2. Pareigūną pripažinus nežinia kur esančiu ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno pripažinimo nežinia kur esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių vidutinio darbo užmokesčio dydžio sumos.
 
-3. Tarnybos pareigūnams pareiginės algos priedo už tarnybos stažą dydžius nustato Valstybės tarnybos įstatymas. Tarnybos pareigūnų tarnybos stažo pradžia laikoma pareigūno priėmimo į tarnybą data. Į tarnybos pareigūnų tarnybos stažą papildomai įskaitomi šie laikotarpiai (tarp jų ir laikotarpiai iki 1990 m. kovo 11 d.):
+3. Pareigūnui, kuris buvo sužalotas, susižalojo arba jo sveikata buvo sutrikdyta atliekant tarnybines pareigas, jeigu tarnybinių pareigų atlikimas buvo susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba kai jo sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo tarnybinių pareigų atlikimu, jeigu tarnybinių pareigų atlikimas buvo susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba kai jo sveikata sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso, Lietuvos Respublikos Vyriausybės nustatyta tvarka išmokama kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu, atsižvelgiant į netekto darbingumo lygį ir sveikatos sutrikdymo mastą. Nustatomos šios kompensacijos:
 
-1) faktinis tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Teisingumo ministerijos, jam pavaldžiose įstaigose ir valstybės įmonėse bei Lietuvos muitinėje laikas nuo paskyrimo į pareigūno pareigas ar kario statuso įgijimo dienos;
+1) netekusiems 75–100 procentų darbingumo dėl sužalojimo ar susižalojimo – 60 mėnesių vidutinio darbo užmokesčio dydžio;
 
-2) darbo įstaigose ir organizacijose laikas, jeigu pareigūnas buvo nusiųstas dirbti į jas būdamas įtrauktas į Vidaus reikalų ministerijos kadrų rezervą, Valstybės saugumo departamento pareigūnų rezervą, laikinąjį profesinės karo tarnybos personalo rezervą ir Specialiųjų tyrimų tarnybos pareigūnų rezervą;
+2) netekusiems 60–70 procentų darbingumo dėl sužalojimo ar susižalojimo – 48 mėnesių vidutinio darbo užmokesčio dydžio;
 
-3) nuteisto pareigūno ar kario bausmės atlikimo laikas, jeigu vėliau šis asmuo reabilituotas;
+3) netekusiems 45–55 procentų darbingumo dėl sužalojimo ar susižalojimo – 36 mėnesių vidutinio darbo užmokesčio dydžio;
 
-4) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;
+4) netekusiems iki 40 procentų darbingumo dėl sužalojimo ar susižalojimo ir dėl to pripažintiems netinkamais tarnybai – 30 mėnesių vidutinio darbo užmokesčio dydžio;
 
-5) darbo laikas, Darbo sutarties įstatymo pagrindais išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais, jeigu vėliau šie darbuotojai buvo paskirti statutiniais priešgaisrinės apsaugos pareigūnais;
+5) sunkaus sveikatos sutrikdymo atveju – 24 mėnesių vidutinio darbo užmokesčio dydžio;
 
-6) tarnybos ar darbo laikas Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d., vieną tarnybos ar darbo dieną įskaitant kaip tris tarnybos dienas;
+6) apysunkio sveikatos sutrikdymo atveju – 18 mėnesių vidutinio darbo užmokesčio dydžio;
 
-7) pareigūnams, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje, ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų iki šio laiko turėto darbo stažo;
+7) lengvo sveikatos sutrikdymo atveju – nuo 1 iki 12 mėnesių vidutinio darbo užmokesčio dydžio.
 
-8) mokymosi vidaus reikalų profesinio mokymo įstaigose, aukštosiose, specialiosiose vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo ir karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose laikas Vyriausybės nustatyta tvarka gali būti įskaitytas į tarnybos pareigūnų tarnybos stažą. Į tarnybos pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosiose švietimo įstaigose laiko, jeigu jas baigę asmenys yra priimti į tarnybą statutiniais pagrindais per tris mėnesius, pailginant šį laikotarpį ligos, nėštumo ir gimdymo atostogų, taip pat būtinosios tarnybos kariuomenėje ar dalyvavimo kariniuose mokymuose trukme;
+4. Tarnybos direktoriaus nustatyta tvarka nustatoma, ar pareigūno mirtis, susižalojimas, sužalojimas arba sveikatos sutrikdymas yra susijęs su tarnyba, tarnybinių pareigų atlikimu ar pareigūno statusu, ar tarnybinių pareigų atlikimas yra susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, taip pat kompensacijos, mokėtinos lengvo sveikatos sutrikdymo atveju, dydis.
 
-9) pareigūno laikinojo nedarbingumo laikas, kasmetinių, papildomų, nėštumo ir gimdymo, vaiko priežiūros, mokymosi ir nemokamų atostogų laikas, taip pat buvimo Vidaus reikalų ministerijos personalo žinioje laikas;
+5. Pareigūno sveikatos sutrikdymo sunkumo laipsnį teisės aktų nustatyta tvarka nustato asmens sveikatos priežiūros įstaigos, kurios steigėja yra Lietuvos Respublikos vidaus reikalų ministerija, Centrinė medicinos ekspertizės komisija, vadovaudamasi Lietuvos Respublikos Vyriausybės tvirtinamu pareigūnų sunkių, apysunkių ir lengvų sužeidimų, traumų ir kitų sveikatos sutrikdymų sąrašu.
 
-10) tarnybos tarptautinių organizacijų misijose Vyriausybės siuntimu laikas, į tarnybos pareigūno tarnybos stažą įskaitant: taikos įvedimo misijose – vieną tarnybos dieną kaip tris dienas, taikos palaikymo misijose ir patarėjų bei stebėtojų misijose – vieną tarnybos dieną kaip dvi dienas;
+6. Pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu) ar laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, išmokama vieno mėnesio vidutinio darbo užmokesčio dydžio vienkartinė pašalpa.
 
-11) laikotarpiai, numatyti Valstybės tarnybos įstatymo 42 straipsnyje.
+7. Pareigūnui, pakeitusiam gyvenamąją vietą dėl perkėlimo į aukštesnes arba lygiavertes pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu), taip pat pareigūnui, pakeitusiam gyvenamąją vietą dėl perkėlimo į žemesnes pareigas šio statuto 20 straipsnio 4 dalies 4 ir 7 punktuose nurodytais pagrindais ar dėl laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, jų prašymu Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti kompensuojamos gyvenamųjų patalpų nuomos išlaidos ar jų dalis. Šios išlaidos kompensuojamos, jeigu pareigūnas, jo sutuoktinis ar partneris, nepilnamečiai vaikai (įvaikiai) pareigūno tarnybos atlikimo vietoje neturi ir per pastaruosius 5 metus neturėjo nuosavybės teise priklausančios gyvenamosios patalpos, atitinkančios techninius ir sanitarinius reikalavimus.
 
-4. Tarnybos pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę kategoriją – 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją – 45 procentus pareiginės algos.
+8. Šio straipsnio 7 dalyje nustatytomis sąlygomis gyvenamųjų patalpų nuomos išlaidos kompensuojamos:
 
-5. Priemokos už pareigybės aprašyme nenurodytą ar įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio ir švenčių dienomis, kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka. 
+1) pareigūnams, kurie į pareigas pirmą kartą arba pakartotinai skiriami 5 metų laikotarpiui arba kadencijai, – kol jie eina šias pareigas;
 
-6. Laikinojo nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos, neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio, taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
+2) pareigūnams, kurie į pareigas skiriami neterminuotai, – 5 metus nuo skyrimo į šias pareigas dienos;
 
-7. Neteko galios nuo 2011 m. liepos 1 d.
+3) pareigūnams, kurie į pareigas kitoje gyvenamojoje vietovėje perkelti esant tarnybiniam būtinumui ne ilgesniam kaip 3 mėnesių laikotarpiui arba kuriems laikinai pavesta atlikti kitas pareigas kitoje gyvenamojoje vietovėje, – perkėlimo į kitas pareigas arba pareigų, kurias pavesta laikinai atlikti, atlikimo laikotarpiu.
 
-8. Neteko galios nuo 2011 m. liepos 1 d.
+9. Lietuvos Respublikos Vyriausybės nustatyta tvarka pareigūnams, jų šeimos nariams atlyginama materialinė žala, atsiradusi jiems nukentėjus dėl priežasčių, susijusių su pareigūno tarnyba.
 
-Straipsnio pakeitimai:
-Nr. X-121, 2005-02-15, Žin., 2005, Nr. 28-873 (2005-02-26)
-Nr. X-664, 2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
-Nr. X-1340, 2007-12-04, Žin., 2007, Nr. 132-5348 (2007-12-15)
-Nr. X-1620, 2008-06-17, Žin., 2008, Nr. 74-2866 (2008-06-30)
-Nr. XI-364, 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
-Nr. XI-949, 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
-Nr. XI-1719, 2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
-Nr. XII-119, 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
-Nr. XII-520, 2013-09-19, Žin., 2013, Nr. 102-5029 (2013-09-28)
-Nr. XI-986, 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
-Nr. XI-1856, 2011-12-22, Žin., 2011, Nr. 163-7754 (2011-12-31)
-Nr. XII-298, 2013-05-14, Žin., 2013, Nr. 57-2842 (2013-06-01)
+10. Šio straipsnio 1 ir 3 dalyse nustatytos kompensacijos nemokamos, jeigu:
+
+1) pareigūnas žuvo, susižalojo darydamas tyčinį nusikaltimą ar tyčinį baudžiamąjį nusižengimą arba pareigūnas buvo sužalotas ar jo sveikata buvo sutrikdyta jam darant tyčinį nusikaltimą ar tyčinį baudžiamąjį nusižengimą;
+
+2) pareigūno mirties, sužalojimo, susižalojimo ar sveikatos sutrikdymo priežastis buvo su tarnybinių pareigų atlikimu nesusijęs apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
+
+3) pareigūnas nusižudė, kėsinosi nusižudyti ar tyčia susižalojo;
+
+4) pareigūnas žuvo, susižalojo, buvo sužalotas ar jo sveikata buvo sutrikdyta per eismo įvykį, jeigu šis pareigūnas vairavo transporto priemonę neturėdamas teisės jos vairuoti arba perdavė ją vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar kitų svaigiųjų medžiagų arba neturinčiam teisės jos vairuoti;
+
+5) pareigūno sveikata sutriko ar jis mirė dėl ligos ir tai nesusiję su tarnybinių pareigų atlikimu arba pareigūno mokymu;
+
+6) pareigūno mirties ar susižalojimo priežastis buvo sąmoningas, su tarnybiniu būtinumu nesusijęs saugumo taisyklių pažeidimas.
  
 
-31 straipsnis. Kompensacijos ir pašalpos
+37 straipsnis. Išmokos pareigūnams, atleidžiamiems iš Specialiųjų tyrimų tarnybos
 
-1. Tarnybos pareigūnui žuvus dėl tarnybos Specialiųjų tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems sueis 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotose bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose pagal dieninės, nuolatinės ar ištęstinės studijų formų programas, kol jiems sueis 24 metai, sutuoktiniui, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė kompensacija. Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų tarnyboje, laidojamas valstybės lėšomis.
-Straipsnio dalies pakeitimai:
-Nr. XII-1585, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05700
+1. Atleidžiant pareigūnus iš tarnybos Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 12 straipsnio 1 dalies 4 ar 7 punkte, 12 straipsnio 2 dalyje, šio statuto 23 straipsnio 1 dalies 6 punkte, 2 dalies 1, 2, 3 ar 5 punkte nustatytais pagrindais, išmokama 2 mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+
+2. Šio straipsnio 1 dalyje nustatyta išeitinė išmoka, išskyrus išmoką, mokėtiną atleidžiant pareigūną iš tarnybos Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 12 straipsnio 1 dalies 4 punkte, šio statuto 23 straipsnio 1 dalies 6 punkte ir 2 dalies 1 punkte nustatytais pagrindais, pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis, bet kiekviena šių dalių turi būti ne mažesnė negu vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, šio straipsnio 1 dalyje nustatyta išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.
+
+3. Šio straipsnio 1 dalyje nustatyto dydžio išeitinė išmoka pareigūnams, turintiems didesnį kaip 5 metų tarnybos stažą, didinama pusantro karto, didesnį kaip 10 metų – du kartus, didesnį kaip 20 metų – tris kartus.
  
 
-2. Tarnybos pareigūną pripažinus nežinia kur esančiu ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo tarnybos pareigūno pripažinimo nežinia kur esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio dydžio sumos.
+38 straipsnis. Pareigūnų socialinis draudimas ir pensijos
 
-3. Kai tarnybos pareigūnas, kuriam buvo sužalota sveikata atliekant tarnybines pareigas arba dėl tarnybos Specialiųjų tyrimų tarnyboje, pateikia medicinos komisijos išvadą, jam Vyriausybės nustatyta tvarka išmokama nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) darbo užmokesčio dydžio kompensacija. Nustatomos šios kompensacijos: 
+1. Pareigūnai draudžiami visų Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nurodytų rūšių socialiniu draudimu. Draudimo tvarką ir sąlygas nustato atskiri socialinio draudimo rūšis reglamentuojantys teisės aktai.
 
-1) dėl sveikatos sužalojimo nustačius 0–25 procentų darbingumo lygį arba didelių specialiųjų poreikių lygį – 60 mėnesių darbo užmokesčio dydžio;
+2. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos tyrimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė. Pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos), iš Specialiųjų tyrimų tarnybos lėšų Lietuvos Respublikos Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas.
 
-2) dėl sveikatos sužalojimo nustačius 30–40 procentų darbingumo lygį arba vidutinių specialiųjų poreikių lygį – 48 mėnesių darbo užmokesčio dydžio;
-
-3) dėl sveikatos sužalojimo nustačius 45–55 procentų darbingumo lygį arba nedidelių specialiųjų poreikių lygį – 36 mėnesių darbo užmokesčio dydžio;
-
-4) sunkaus sveikatos sužalojimo atveju – 24 mėnesių darbo užmokesčio dydžio;
-
-5) apysunkio sveikatos sužalojimo atveju – 18 mėnesių darbo užmokesčio dydžio;
-
-6) lengvo sveikatos sužalojimo atveju – 12 mėnesių darbo užmokesčio dydžio.
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1165, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13587
+3. Pareigūnai turi teisę gauti pareigūnų valstybinę pensiją pagal įstatymą, reglamentuojantį pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo tvarką.
  
 
-4. Tarnybos pareigūno sveikatos sužalojimo sunkumo laipsnį, taip pat jei dėl sužeidimo liko sveikatos pakitimų ar sumažėjo jo tinkamumas tarnybai, teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. 
+39 straipsnis. Pareigūnų papildoma sveikatos priežiūra
 
-5. Tarnybos pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas ar laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, išmokama vieno mėnesio vidutinio darbo užmokesčio dydžio vienkartinė pašalpa. 
+1. Pareigūnams užtikrinama papildoma valstybės biudžeto lėšomis finansuojama sveikatos priežiūra, apimanti specializuotąją medicininę ekspertizę, prevencinę medicinos pagalbą, medicininę reabilitaciją, sveikatos grąžinamąjį ir antirecidyvinį gydymą, prevencinę medicininę ir psichologinę reabilitaciją, psichologinės paramos, sveikatos ugdymo ir stiprinimo priemonių taikymą, taip pat neapmokamą iš Privalomojo sveikatos draudimo fondo biudžeto asmens sveikatos priežiūrą asmens sveikatos priežiūros įstaigose, papildomai remiamą iš valstybės biudžeto lėšų. Pareigūnams užtikrinamos tokios pačios apimties, kaip ir vidaus tarnybos sistemos pareigūnams, papildomos sveikatos priežiūros paslaugos.
 
-6. Vyriausybės nustatyta tvarka tarnybos pareigūnams atlyginama materialinė žala, kurią jie patiria dėl tarnybos. 
+2. Lietuvos Respublikos vidaus reikalų ministerija ar jos įgaliota institucija organizuoja šio straipsnio 1 dalyje nurodytą pareigūnų sveikatos priežiūrą asmens sveikatos priežiūros įstaigose, naudodamasi pareigūnų tarnybos ir (arba) gyvenamųjų vietovių asmens ir visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis.
+
+3. Į pareigūnams teikiamas iš valstybės biudžeto finansuojamas sveikatos priežiūros paslaugas asmens sveikatos priežiūros įstaigose turi teisę ir buvę pareigūnai – pareigūnų ir karių valstybinių pensijų gavėjai.
+
+4. Pareigūnų specializuotosios medicininės ekspertizės tvarką nustato Lietuvos Respublikos vidaus reikalų ministras, suderinęs su Lietuvos Respublikos sveikatos apsaugos ministru, o privalomų profilaktinių sveikatos patikrinimų tvarką nustato Lietuvos Respublikos sveikatos apsaugos ministras, suderinęs su Specialiųjų tyrimų tarnybos direktoriumi ir Lietuvos Respublikos vidaus reikalų ministru.
  
 
-32 straipsnis. Išmokos pareigūnams, atleidžiamiems iš Specialiųjų tyrimų tarnybos
+40 straipsnis. Pareigūnams teikiama pagalba
 
-1. Atleidžiant tarnybos pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė pašalpa.
+1. Pareigūnui, vykdžiusiam pavestas funkcijas ir viršijusiam tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį teisės pažeidimą (nusižengimą) arba nukentėjusiam atliekant tarnybines funkcijas ar dėl tarnybos, iš Specialiųjų tyrimų tarnybai skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų dalis. Kompensaciją skiria Specialiųjų tyrimų tarnybos direktorius.
 
-2. Šio straipsnio 1 dalyje nustatyto dydžio išeitinė pašalpa tarnybos pareigūnams, turintiems daugiau kaip 5 metus tarnybos stažo, didinama pusantro karto, daugiau kaip 10 metų – du kartus, daugiau kaip 20 metų – tris kartus.
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
+2. Pareigūnams, kurių materialinė būklė tapo sunki dėl ligos, šeimos nario ligos ar mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais atvejais gali būti skiriama iki penkių minimaliųjų mėnesinių algų dydžio pašalpa. Pašalpa mokama iš Specialiųjų tyrimų tarnybai skirtų lėšų.
  
 
-33 straipsnis. Tarnybos pareigūnų aprūpinimas gyvenamosiomis patalpomis
+41 straipsnis. Kitos garantijos
 
-1. Tarnybos pareigūnams, tarnybos atlikimo vietoje neturintiems gyvenamosios patalpos, Vyriausybės nustatyta tvarka gali būti suteikiami tarnybiniai butai.
+1. Pareigūnams garantuojamos einamos pareigos ir nustatytas darbo užmokestis:
 
-2. Nesat galimybės tarnybos pareigūnui suteikti tarnybinio buto, jeigu tarnybos pareigūnas ar jo šeimos nariai neturi ir per pastaruosius 5 metus neturėjo tarnybos atlikimo vietoje nuosavybės teise jiems priklausančio buto (namo, jo dalies), Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka gali būti kompensuojamos gyvenamųjų patalpų nuomos išlaidos: gali būti mokama ne didesnė kaip 3 minimaliųjų gyvenimo lygių išmoka per mėnesį. 
+1) kai Specialiųjų tyrimų tarnybos direktoriaus ar jo įgalioto pareigūno sprendimu yra pasiųsti į mokymo arba kvalifikacijos tobulinimo kursus;
+
+2) kai pareigūnai yra išsiųsti į tarnybinę komandiruotę, – darbo dienomis komandiruotėje ir komandiruotės metu kelionėje išbūtą laiką;
+
+3) kai pareigūnai pagal kvietimą ar šaukimą yra išvykę į teismą arba į teisėsaugos ar kontrolės (priežiūros) funkcijas atliekančias institucijas;
+
+4) kai pareigūnai yra išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu;
+
+5) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių, sutuoktinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), sugyventinio, jeigu jis nurodytas pareigūno privačių interesų deklaracijoje, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
+
+6) donorams – darbo dienomis, kuriomis jie teisės aktų nustatyta tvarka turi būti atleidžiami nuo tarnybos;
+
+7) kai pareigūnai, gavę tiesioginio vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, – iki vienos darbo dienos.
+
+2. Kai pareigūnas atlieka privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos einamos pareigos.
+
+3. Pareigūnai dirba 40 valandų darbo savaitę. Specialiųjų tyrimų tarnybos direktorius, direktoriaus pavaduotojai, pareigūno tiesioginis vadovas esant tarnybiniam būtinumui pareigūnams gali pavesti dirbti ilgiau negu nustatyta darbo savaitės norma (toliau – viršvalandinis darbas). Per vieną darbo dieną pareigūnui gali būti pavedama dirbti iki 4 valandų viršvalandinio darbo, o jeigu pareigūnas sutinka, – iki 8 valandų, per darbo savaitę gali būti pavedama dirbti iki 8 valandų viršvalandinio darbo, o jeigu pareigūnas sutinka, – iki 20 valandų. Per kalendorinius metus pareigūnui gali būti pavedama dirbti iki 250 valandų viršvalandinio darbo.
+
+4. Už viršvalandinį darbą, darbą poilsio ir švenčių dienomis pareigūnui jo pasirinkimu suteikiamos kasmetinės papildomos mokamos atostogos, numatytos šio statuto 35 straipsnio 8 dalyje, arba mokama šio statuto 15 straipsnio 6 dalyje numatyta vienkartinė priemoka. Pareigūno pasirinkimu už viršvalandinį darbą, darbą poilsio ir švenčių dienomis taip pat gali būti kompensuojama dalimis, derinant kasmetinių papildomų mokamų atostogų suteikimą ir vienkartinės priemokos mokėjimą. Kasmetinių papildomų mokamų atostogų trukmės nustatymo ir šių atostogų suteikimo, vienkartinės priemokos dydžio nustatymo ir jos išmokėjimo sąlygas bei tvarką nustato Lietuvos Respublikos Vyriausybė.
  
 
-34 straipsnis. tarnybos laikas 
+42 straipsnis. Šiame skyriuje nurodytų socialinių garantijų finansavimo šaltiniai
 
-1. Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių, Specialiųjų tyrimų tarnyboje tarnauja:
-
-1) iki vyresniojo specialiojo agento įskaitytinai – kol jiems sukanka 50 metų;
-
-2) vyriausieji specialieji agentai – kol jiems sukanka 55 metai.
-
-2. Specialiųjų tyrimų tarnybos direktorius tarnauja iki Respublikos Prezidento dekreto dėl Specialiųjų tyrimų tarnybos direktoriaus atleidimo iš pareigų įsigaliojimo, bet ne ilgiau, negu kol jam sukanka 62 metai ir 6 mėnesiai.
-
-3. Tarnybos pareigūno prašymu jo tarnybos laikas gali būti pratęstas, bet ne ilgiau, negu kol jam sukanka 62 metai ir 6 mėnesiai. Tarnybos laiką pratęsia asmuo, įgaliotas skirti pareigūną į pareigas ir atleisti iš jų, nurodydamas tarnybos pratęsimo terminą. 
+Šiame skyriuje nurodytoms socialinėms garantijoms, išskyrus šio statuto 38 straipsnio 1 ir 3 dalyse, 39 straipsnio 1 ir 3 dalyse nurodytų sveikatos priežiūros paslaugų teikimą, įgyvendinti naudojami Specialiųjų tyrimų tarnybai skiriami valstybės biudžeto asignavimai.
  
 
-35 straipsnis. Kitos socialinės garantijos
-
-1. Tarnybos pareigūnai dirba 40 valandų darbo savaitę. Specialiųjų tyrimų tarnybos direktoriaus, jo pavaduotojo ar tiesioginio viršininko pavedimu tarnybos pareigūnai gali dirbti ilgiau, negu nustatyta darbo savaitės norma. Už tai jiems papildomai mokama. 
-
-2. Tarnybos pareigūnams taikomos Valstybinio socialinio draudimo įstatyme nustatytos socialinės garantijos. Joms įgyvendinti naudojami Specialiųjų tyrimų tarnybai skiriami biudžeto asignavimai.
-
-3. Tarnybos pareigūnui, panaudojusiam tarnybinį ginklą prieš asmenį, suteikiama psichologo konsultacija. Esant specialisto rekomendacijai, pareigūnas siunčiamas medicininės-psichologinės reabilitacijos.
-
-4. Tarnybos pareigūnams, kurių materialinė būklė sunki dėl ligos, šeimos nario ligos ar mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais atvejais gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa. Pašalpa mokama iš Specialiųjų tyrimų tarnybai darbo užmokesčiui skirtų lėšų. 
-
-5. Tarnybos pareigūnai privalomuoju sveikatos draudimu draudžiami valstybės lėšomis. 
-
-6. Tarnybos pareigūnai turi teisę į nemokamą iš Privalomojo sveikatos draudimo fondo biudžeto asmens sveikatos priežiūrą Vidaus reikalų ministerijos įsteigtose asmens sveikatos priežiūros įstaigose. Ši sveikatos priežiūra apmokama iš šioms įstaigoms skiriamų valstybės biudžeto lėšų.
-
-Straipsnio pakeitimai:
-Nr. X-758, 2006-07-11, Žin., 2006, Nr. 82-3257 (2006-07-27)
+VII SKYRIUS
+PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
  
 
-SEPTINTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
+43 straipsnis. Prievartos priemonės ir jų naudojimo sąlygos
+
+1. Pareigūnas teisės aktų nustatytais atvejais ir tvarka vykdydamas pareigas gali panaudoti prievartą.
+
+2. Prievarta šiame statute suprantama kaip Specialiųjų tyrimų tarnybos veiklos metodas, kuriuo siekiama įgyvendinti Specialiųjų tyrimų tarnybai pavestus uždavinius ir kuris taikomas, kai nevykdomi pareigūno reikalavimai ar nurodymai arba siekiama išvengti pavojaus. Prievarta gali būti psichinė ir fizinė.
+
+3. Psichinė prievarta suprantama kaip įspėjimas apie ketinimą naudoti fizinę prievartą, šaunamąjį ginklą. Psichinei prievartai prilyginamas specialiosios priemonės ar šaunamojo ginklo parengimas prireikus naudoti.
+
+4. Fizinė prievarta suprantama kaip fizinės jėgos ir (arba) specialiųjų priemonių naudojimas.
+
+5. Specialiosios priemonės suprantamos kaip tiesioginio pavojaus asmens gyvybei nekeliančios prievartos priemonės, kuriomis siekiama atgrasyti galimus teisės pažeidėjus, nustumti arba išsklaidyti minią, įtariamus teisės pažeidėjus sulaikyti arba pažymėti, priverstinai sustabdyti transporto priemones ar jas pažymėti, priverstinai patekti į teritorijas, patalpas ar transporto priemones, atremti neteisėtą kėsinimąsi, taip pat ardyti šiems veiksmams kliudančius objektus.
+
+6. Kitos šiame straipsnyje vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
+
+7. Pareigūnas turi teisę panaudoti prievartą tik esant tarnybiniam būtinumui ir tik tiek, kiek to reikia tarnybinei pareigai įvykdyti. Fizinė prievarta ir specialiosios priemonės naudojamos tik tada, kai psichinė prievarta buvo neveiksminga arba negalima.
+
+8. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 9 ir 11 dalyse arba šio statuto 44 straipsnio 2 dalyje nurodytais atvejais.
+
+9. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais:
+
+1) apsisaugodamas ar apsaugodamas asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+
+2) asmeniui vengiant vykdyti teisėtus pareigūnų reikalavimus (siekdamas priversti asmenį paklusti), asmenį sulaikydamas (jeigu asmuo priešinasi);
+
+3) atremdamas kėsinimąsi į šaunamąjį ginklą, specialiąsias priemones, ryšio priemones ir siekdamas šiuos objektus susigrąžinti;
+
+4) atremdamas valstybės pareigūnų, saugomų asmenų, statinių (įskaitant pavienes patalpas), teritorijų, transporto priemonių užpuolimus;
+
+5) atremdamas valstybės institucijų, jų turto ar transporto priemonių užpuolimus;
+
+6) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį, taip pat jeigu jose, turimais duomenimis, gali slėptis asmenys, galbūt padarę nusikalstamas veikas ar administracinius teisės pažeidimus (nusižengimus);
+
+7) chuliganiškų veiksmų, lydimų aiškaus nepaklusnumo teisėtiems pareigūnų reikalavimams, metu; 
+
+8) stabdydamas transporto priemonę (esant tarnybiniam būtinumui);
+
+9) užkirsdamas kelią nusikalstamoms veikoms ar administraciniams teisės pažeidimams (nusižengimams).
+
+10. Prievartos priemones pareigūnas naudoja adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Naudodamas prievartą pareigūnas prioritetą privalo teikti psichinei prievartai, išskyrus atvejus, kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai arba psichinė prievarta buvo negalima dėl kitų priežasčių.
+
+11. Pareigūnas turi teisę naudoti antrankius ir surišimo priemones prieš agresyvius, linkusius smurtauti ar žaloti save asmenis, taip pat bėgti linkusius asmenis, kurie įtariami padarę administracinį teisės pažeidimą (nusižengimą) ir (ar) nusikalstamą veiką, pristatydamas juos į Specialiųjų tyrimų tarnybos patalpas, policijos įstaigą ar kitą teisėsaugos instituciją, atlikdamas šių asmenų apžiūrą.
+
+12. Pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę ją blokuodamas. Jeigu stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno ar kito asmens gyvybei ar sveikatai, pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone stabdomą transporto priemonę taranuoti. Jeigu pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po tokių veiksmų jis turi imtis priemonių šių veiksmų padariniams pašalinti.
+
+13. Jeigu teisėti pareigūnų reikalavimai atidaryti patalpas ir transporto priemones nevykdomi, pareigūnai turi teisę jas atidaryti naudodami prievartą.
+
+14. Pareigūnas kaip specialiąją priemonę turi teisę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių sąrašą įtrauktus užtaisus (kulkas, sviedinius arba kenksmingąsias, dirginančiąsias medžiagas), kurių mechaninis, terminis, cheminis ar kitoks sukeliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
+
+15. Jeigu nėra neišvengiamo pavojaus pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius ir surišimo priemones) naudoti draudžiama: 
+
+1) prieš asmenis, jeigu pareigūnui žinoma arba yra akivaizdu, kad jie neįgalieji;
+
+2) prieš asmenis, turinčius neliečiamumo teisę, jeigu pareigūnui žinoma, kad asmuo tokią teisę turi;
+
+3) prieš moteris, jeigu pareigūnui žinoma arba yra akivaizdu, kad jos nėščios;
+
+4) prieš nepilnamečius asmenis, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių.
+
+16. Apie pareigūno panaudotą prievartą, jeigu tai lėmė asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
+
+17. Pareigūnas, panaudojęs fizinę ar psichinę prievartą nepažeisdamas šio statuto reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+
+18. Specialiųjų priemonių sąrašą nustato Specialiųjų tyrimų tarnybos direktorius.
+
+19. Šis straipsnis nereglamentuoja specialiųjų priemonių naudojimo per mokymus.
  
 
-36 straipsnis. Pereinamojo laikotarpio nuostatos
+44 straipsnis. Šaunamojo ginklo naudojimas
 
-Specialiųjų tyrimų tarnybos pareigūnų turimi pareiginiai laipsniai prilyginami šio Statuto 19 straipsnyje numatytiems tarnybiniams rangams. 
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kitos prievartos priemonės yra neveiksmingos arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
 
-_________________
+2. Pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis šiais atvejais:
+
+1) atremdamas ginkluotą įsiveržimą į Lietuvos Respublikos teritoriją;
+
+2) atremdamas ginkluotus valstybės pareigūnų, saugomų asmenų, statinių (įskaitant pavienes patalpas), teritorijų, transporto priemonių užpuolimus; 
+
+3) gindamasis ar gindamas asmenį nuo netikėto, pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+
+4) sulaikydamas nusikalstamą veiką padariusį asmenį, jeigu kyla neišvengiamas pavojus pareigūno ar kito žmogaus gyvybei ar sveikatai;
+
+5) sulaikydamas transporto priemonę, jeigu jos vairuotojas ar kiti transporto priemonėje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei.
+
+3. Pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš gyvūną arba transporto priemonę, jeigu kyla neišvengiamas pavojus pareigūno ar kitų asmenų gyvybei ar sveikatai.
+
+4. Ketindamas naudoti šaunamąjį ginklą, pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+
+5. Pareigūnas, nesukeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą.
+
+6. Jeigu nėra neišvengiamo pavojaus pareigūno ar kitų asmenų gyvybei ar sveikatai, šaunamąjį ginklą panaudoti draudžiama žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus tiesioginio ginkluoto kėsinimosi į saugomus asmenis ar objektus atvejus, taip pat patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų žmonių gyvybei ir sveikatai ar visuomenės saugumui.
+
+7. Pareigūnas turi teisę parengti šaunamąjį ginklą naudoti, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį panaudoti. 
+
+8. Apie šaunamojo ginklo panaudojimą, jeigu tai lėmė asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
+
+9. Pareigūnas, panaudojęs šaunamąjį ginklą nepažeisdamas šio statuto reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+
+10. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijose, susijusiose su šaunamojo ginklo panaudojimu. 
+
+11. Šis straipsnis netaikomas tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
+
+12. Šis straipsnis nereglamentuoja šaunamojo ginklo naudojimo per mokymus.
+
+Priedo pakeitimai:
+Nr. XII-2136, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19844
+ 
+
  
  
-
 Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -910,4 +1102,9 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 11, 12, 27, 28 ir 31
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1585, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05700
 Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 31 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2136, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19844
+Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto pakeitimo įstatymas
 
