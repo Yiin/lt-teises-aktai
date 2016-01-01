@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-12-30 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-06-11
  
 Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
  
@@ -74,40 +74,47 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Ūkio subjektas – Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar trečiojoje šalyje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, ūkininkas ar kitas fizinis asmuo – žalio pieno pardavėjas, žalio pieno pirkėjas, žalio pieno perdirbėjas, vykdantys ūkinę ir (arba) komercinę veiklą Lietuvos Respublikoje.
+1. Inspektorius – valstybės įmonės Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūros (toliau – Rinkos reguliavimo agentūra) įgaliotas darbuotojas, atliekantis nesąžiningų veiksmų kontrolės funkciją.
 
 
 
 
-2. Žalias pienas – kaip ši sąvoka apibrėžta Atsiskaitymo už žemės ūkio produkciją įstatyme.
+2. Ūkio subjektas – Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar trečiojoje valstybėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, ūkininkas ar kitas fizinis asmuo – žalio pieno pardavėjas, žalio pieno pirkėjas, žalio pieno perdirbėjas, vykdantys ūkinę ir (arba) komercinę veiklą Lietuvos Respublikoje.
 
 
 
 
-3. Žalio pieno pardavėjas – ūkio subjektas, parduodantis savo ar ne savo gamybos žalią pieną.
+3. Žalias karvių pienas (toliau – žalias pienas) natūralus karvių pienas, kuris nebuvo pašildytas iki aukštesnės kaip 40 oC temperatūros ir neapdorotas kitu tolygaus efektyvumo metodu, skirtas perdirbti.
 
 
 
 
-4. Žalio pieno pardavėjų grupės – ūkių subjektai, parduodantys pieną, suskirstyti į grupes pagal parduodamo natūralaus riebumo žalio pieno kiekį (kilogramais) per vieną dieną: pirmoji grupė – iki 100 kg pieno per vieną dieną, antroji grupė – 101–200 kg pieno per vieną dieną, trečioji grupė – 201–300 kg pieno per vieną dieną, ketvirtoji grupė – 301–500 kg pieno per vieną dieną, penktoji grupė – 501–1 000 kg pieno per vieną dieną, šeštoji grupė – 1 001–2 000 kg pieno per vieną dieną, septintoji grupė – 2 001 ir daugiau kg pieno per vieną dieną. 
+4. Žalio pieno pardavėjas – ūkio subjektas, parduodantis savo ar ne savo gamybos žalią pieną.
 
 
 
 
-5. Žalio pieno pirkėjas – juridinis asmuo, Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka registruotas žalio pieno supirkimo veiklai plėtoti ir perkantis žalią pieną savo ūkinei ir (arba) komercinei veiklai. 
+5. Žalio pieno pardavėjų grupės – ūkių subjektai, parduodantys pieną, suskirstyti į grupes pagal parduodamo natūralaus riebumo žalio pieno kiekį per vieną dieną: pirmoji – iki 100 kg įskaitytinai, antroji – daugiau kaip 100 kg iki 200 kg įskaitytinai, trečioji – daugiau kaip 200 kg iki 300 kg įskaitytinai, ketvirtoji – daugiau kaip 300 kg iki 500 kg įskaitytinai, penktoji – daugiau kaip 500 kg iki 1 000 kg įskaitytinai, šeštoji – daugiau kaip 1 000 kg iki 2 000 kg įskaitytinai, septintoji – daugiau kaip 2 000 kg iki 4 000 kg įskaitytinai, aštuntoji – daugiau kaip 4 000 kg iki 10 000 kg įskaitytinai, devintoji – daugiau kaip 10 000 kg iki 20 000 kg įskaitytinai, dešimtoji – daugiau kaip 20 000 kg.
 
 
 
 
-6.  Žalio pieno pirkimo kaina – ūkio subjektų (žalio pieno pirkėjo ir žalio pieno pardavėjo) sutarta pinigų suma, mokama už parduodamą Lietuvos Respublikos žemės ūkio ministro įsakymu nustatytų bazinių pieno sudėties rodiklių žalią pieną.
+6. Žalio pieno pirkėjas – ūkio subjektas, teisės aktų nustatyta tvarka registruotas žalio pieno supirkimo ir (arba) perdirbimo veiklai plėtoti. 
 
 
 
 
-7. Žalio pieno pirkimo–pardavimo sutartis – ūkio subjektų (žalio pieno pirkėjo ir žalio pieno pardavėjo), vadovaujantis Atsiskaitymo už žemės ūkio produkciją įstatymo 3 ir 4 straipsniais ir kitais teisės aktais, sudaryta žalio pieno pirkimo–pardavimo sutartis.
+7. Žalio pieno pirkimo kaina – ūkio subjektų (žalio pieno pirkėjo ir žalio pieno pardavėjo) sutarta pinigų suma, mokama už parduodamą Lietuvos Respublikos žemės ūkio ministro įsakymu nustatytų bazinių pieno sudėties rodiklių žalią pieną, neįskaitant priedų, priemokų ir nuoskaitų.
+
+
+
+
+8. Žalio pieno pirkimo–pardavimo sutartis – ūkio subjektų (žalio pieno pirkėjo ir žalio pieno pardavėjo), vadovaujantis Atsiskaitymo už žemės ūkio produkciją įstatymo 3 ir 4 straipsniais ir kitais teisės aktais, sudaryta žalio pieno pirkimo–pardavimo sutartis.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
  
-
-
 
 
 
@@ -122,7 +129,7 @@ ANTRASIS SKIRSNIS
 3 straipsnis. Ūkio subjektų nesąžiningų veiksmų draudimas
 
 
-1. Ūkio subjektų nesąžiningi veiksmai perkant–parduodant žalią pieną yra draudžiami. 
+1. Ūkio subjektų nesąžiningi veiksmai perkant ir parduodant žalią pieną yra draudžiami. 
 
 
 
@@ -135,7 +142,12 @@ ANTRASIS SKIRSNIS
 
 
 
-2) pakeisti žalio pieno pirkimo–pardavimo sutarties sąlygas apie tai nepranešus kitai sutarties šaliai per sutartyje nustatytą terminą, kuris negali būti trumpesnis kaip 30 dienų.
+2) pakeisti žalio pieno pirkimo–pardavimo sutarties sąlygas apie tai nepranešus kitai sutarties šaliai per sutartyje nustatytą terminą, kuris, išskyrus atvejus, kai didinama žalio pieno pirkimo kaina arba kai žalio pieno pirkėjas yra kooperatinė bendrovė (kooperatyvas), Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), negali būti trumpesnis kaip 30 dienų;
+
+
+
+
+3) pirkti ir parduoti žalią pieną, nesudarius žalio pieno pirkimo–pardavimo sutarties.
 
 
 
@@ -145,12 +157,12 @@ ANTRASIS SKIRSNIS
 3. Žalio pieno pirkėjui draudžiama atlikti šiuos nesąžiningus veiksmus:
 
 
-1) perkant žalią pieną, atitinkantį Lietuvos Respublikos žemės ūkio ministro įsakymu nustatytus kokybės reikalavimus, iš tos pačios žalio pieno pardavėjų grupės ir jį pristatant žalio pieno pirkėjui tokiu pačiu būdu (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę), žalio pieno pirkimo–pardavimo sutartyse taikyti skirtingą žalio pieno pirkimo kainą;
+1) perkant žalią pieną, atitinkantį Lietuvos Respublikos žemės ūkio ministro įsakymu nustatytus kokybės reikalavimus, iš tos pačios žalio pieno pardavėjų grupės ir jį pristatant žalio pieno pirkėjui tokiu pačiu būdu (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę), žalio pieno pirkimo–pardavimo sutartyse taikyti skirtingą žalio pieno pirkimo kainą, išskyrus atvejus, kai pienas perkamas iš žalio pieno pardavėjų, parduodančių savo gamybos pieną ir priklausančių pieno gamintojų organizacijoms, pripažintoms Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka, tačiau šiuo atveju negali būti taikoma mažesnė žalio pieno pirkimo kaina negu ji būtų nustatyta pagal žalio pieno pardavėjų grupes;
 
 
 
 
-2) nesupirkti viso žalio pieno kiekio, pagal Lietuvos žalio pieno pirkėjo ir Lietuvos žalio pieno pardavėjo sudarytas žalio pieno pirkimo–pardavimo sutartis, nukrypstant ne daugiau kaip 10 procentų nuo sutartyse nurodyto žalio pieno kiekio; 
+2) nesupirkti viso žalio pieno kiekio, pagal žalio pieno pirkėjo ir žalio pieno pardavėjo, parduodančio daugiau kaip 500 kg žalio pieno per dieną, sudarytas žalio pieno pirkimo–pardavimo sutartis, nukrypstant ne daugiau kaip 10 procentų nuo žalio pieno pirkimo–pardavimo sutartyse nurodyto žalio pieno kiekio;
 
 
 
@@ -160,12 +172,19 @@ ANTRASIS SKIRSNIS
 
 
 
-4) mažinti žalio pieno pirkimo kainą dažniau kaip kas du iš eilės einančius reguliariai parduodamo žalio pieno tiekimo laikotarpius, kaip nustatyta Atsiskaitymo už žemės ūkio produkciją įstatyme.
+4) mažinti žalio pieno pirkimo kainą dažniau kaip kas du iš eilės einančius reguliariai parduodamo žalio pieno tiekimo laikotarpius, kaip nustatyta Atsiskaitymo už žemės ūkio produkciją įstatyme; 
+
+
+
+
+5) pirkti žalią pieną iš Lietuvos Respublikoje registruoto žalio pieno pardavėjo, parduodančio savo gamybos žalią pieną, kurio sudėtis ir kokybė nėra įvertinti VĮ „Pieno tyrimai“ Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
  
-
-
-
-
 
 
 
@@ -184,7 +203,10 @@ Lietuvoje veikiančiose pieno perdirbimo įmonėse pagaminti pieno gaminiai, įt
 5 straipsnis. Reikalavimas pagrįsti žalio pieno pirkimo kainos mažinimą 
 
 
-1. Tuo atveju, kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir tokį pagrindimą pateikti VĮ Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūrai (toliau – Rinkos reguliavimo agentūra). 
+1. Tuo atveju, kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir tokį pagrindimą pateikti Rinkos reguliavimo agentūrai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+ 
 
 
 
@@ -208,14 +230,17 @@ Lietuvoje veikiančiose pieno perdirbimo įmonėse pagaminti pieno gaminiai, įt
 1. Už šio įstatymo nuostatų laikymosi priežiūrą atsakingos šios nesąžiningų veiksmų kontrolės institucijos:
 
 
-1) Rinkos reguliavimo agentūra – už šio įstatymo 3 straipsnio 2 ir 3 dalių nuostatų laikymosi priežiūrą;
+1) Rinkos reguliavimo agentūra – už šio įstatymo 3 straipsnio 2 ir 3 dalies 1–4 punktų nuostatų laikymosi priežiūrą;
 
 
 
 
-2) Valstybinė maisto ir veterinarijos tarnyba – už šio įstatymo 4 straipsnio nuostatų laikymosi priežiūrą.
+2) Valstybinė maisto ir veterinarijos tarnyba – už šio įstatymo 3 straipsnio 3 dalies 5 punkto ir 4 straipsnio nuostatų laikymosi priežiūrą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+ 
 
 
 
@@ -270,6 +295,49 @@ Lietuvoje veikiančiose pieno perdirbimo įmonėse pagaminti pieno gaminiai, įt
 
 
 
+
+
+
+
+71 straipsnis. Inspektorių teisės ir pareigos
+
+
+1. Inspektoriai, pateikę tarnybinį pažymėjimą, turi teisę:
+
+
+1) nekliudomi patekti į ūkio subjektų patalpas darbo valandomis, siekdami patikrinti, ar laikomasi šio įstatymo ir kitų teisės aktų reikalavimų;
+
+
+
+
+2) tikrinti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimams tirti, daryti dokumentų kopijas;
+
+
+
+
+3) reikalauti, kad ūkio subjektai patikslintų ir pagrįstų savo teiginius, susijusius su ūkine ir (arba) komercine veikla.
+
+
+
+
+
+
+2. Inspektoriai privalo:
+
+
+1) atlikdami jiems pavestas funkcijas, vadovautis nešališkumo, nuoseklumo, skaidrumo, viešųjų ir privačių interesų konfliktų vengimo principais ir kitais teisės aktų reikalavimais;
+
+
+
+
+2) užtikrinti iš ūkio subjektų gautų dokumentų ir informacijos, kurie sudaro komercinę paslaptį, konfidencialumą.
+
+
+
+
+Papildyta straipsniu:
+Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+ 
 
 
 
