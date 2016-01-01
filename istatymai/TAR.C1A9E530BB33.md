@@ -13,6 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/c1a9e530bb3311e38766a859941f6073"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo Nr. VIII-480 pakeitimo
 
+Suvestinė redakcija nuo 2016-01-01
+ 
+Įstatymas paskelbtas: TAR 2014-04-03, i. k. 2014-04032
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO PRIVATIZAVIMO ĮSTATYMO NR. VIII-480 PAKEITIMO
 ĮSTATYMAS
@@ -1011,7 +1019,9 @@ Ginčai sprendžiami Lietuvos Respublikos įstatymuose, Lietuvos Respublikos tar
 
 
 
-6. Iki šio įstatymo įsigaliojimo dienos paskelbtos privatizavimo objektų privatizavimo programos ir sudaryti privatizavimo sandoriai įgyvendinami ir lėšos, gautos už turto (ne akcijų) privatizavimą, pervedamos pagal Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
+6. Iš iki šio įstatymo įsigaliojimo dienos paskelbtų valstybės turto privatizavimo programų ir sudarytų privatizavimo sandorių gautos lėšos, atskaičius viešo aukciono organizatoriaus patirtas parduodamo žemės sklypo detaliojo plano ar žemės valdos projekto, ar žemės sklypo plano, prilyginamo žemės reformos žemėtvarkos projektams, ar žemės sklypo plano, prilyginamo detaliojo teritorijų planavimo dokumentams, ir žemės sklypo plano parengimo išlaidas, pervedamos į Lietuvos Respublikos valstybės biudžetą, išskyrus lėšas, gautas už žemės sklypų, priskirtų privatizavimo objektams, pardavimą, kurių 50 procentų pervedama į Lietuvos Respublikos valstybės biudžetą, 50 procentų – į savivaldybės, kurios teritorijoje parduotas žemės sklypas, biudžeto atskirą sąskaitą lėšoms už parduotus valstybinės žemės sklypus kaupti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2022, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18613
  
 
 
@@ -1025,3 +1035,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2022, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18613
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo Nr. VIII-480 pakeitimo įstatymo Nr. XII-792 2 straipsnio pakeitimo įstatymas
