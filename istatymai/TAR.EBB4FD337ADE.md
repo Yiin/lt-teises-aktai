@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-12-03 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
  
@@ -5705,7 +5705,7 @@ PERTVARKYMO VEIKSMŲ FINANSAVIMAS
 103 straipsnis. Pertvarkymo fondas
 
 
-1. Pertvarkymo fondas finansuojamas įstaigų ir šio įstatymo 1 straipsnio 2 dalies 6 punkte nurodytų subjektų lėšomis. Pertvarkymo fondo finansavimo ir administravimo tvarką nustato Indėlių ir įsipareigojimų investuotojams draudimo įstatymas, pertvarkymo institucijos ir ES teisės aktai.
+1. Pertvarkymo fondas finansuojamas šio įstatymo 1 straipsnio 2 dalies 3 punkte nurodytų subjektų, kurie nepatenka į Reglamento (ES) Nr. 806/2014 2 straipsnyje nurodytą to reglamento taikymo apimtį, ir trečiosiose valstybėse licencijuotų įstaigų filialų, įsteigtų Lietuvos Respublikoje, lėšomis, vadovaujantis Indėlių ir įsipareigojimų investuotojams draudimo įstatymo ir ES teisės aktų nustatyta tvarka. Kiti šio įstatymo 1 straipsnio 2 dalyje išvardyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. 
 
 
 
@@ -5738,7 +5738,7 @@ PERTVARKYMO VEIKSMŲ FINANSAVIMAS
 
 
 
-6) finansuoti pertvarkomą subjektą ta apimtimi tiek, kiek, vadovaujantis pertvarkymo institucijos sprendimu, priimtu pagal šio įstatymo 77 straipsnio 5 dalies ir 78 straipsnio nuostatas, nebuvo nurašyti ar konvertuoti įsipareigojimai taikant gelbėjimo privačiomis lėšomis priemonę.
+6) finansuoti pertvarkomą subjektą ta apimtimi, kiek, vadovaujantis pagal šio įstatymo 77 straipsnio 5 dalį ir 78 straipsnį priimtu pertvarkymo institucijos sprendimu, nebuvo nurašyti ar konvertuoti įsipareigojimai taikant gelbėjimo privačiomis lėšomis priemonę.
 
 
 
@@ -5750,7 +5750,7 @@ PERTVARKYMO VEIKSMŲ FINANSAVIMAS
 
 
 
-4. Pertvarkymo fondą draudžiama naudoti tiesiogiai įstaigos ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyto subjekto nuostoliams padengti arba tai įstaigai ar subjektui rekapitalizuoti. Jeigu dėl Pertvarkymo fondo naudojimo dalis įstaigos ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyto subjekto nuostolių netiesiogiai perduodama Pertvarkymo fondui, vadovaujamasi šio įstatymo 78 straipsnyje nustatytais Pertvarkymo fondo naudojimo principais.
+4. Pertvarkymo fondą draudžiama naudoti tiesiogiai nuostoliams padengti arba subjektui rekapitalizuoti. Jeigu dėl Pertvarkymo fondo naudojimo dalis subjekto nuostolių netiesiogiai perduodama Pertvarkymo fondui, vadovaujamasi šio įstatymo 78 straipsnyje nustatytais Pertvarkymo fondo naudojimo principais. 
  
 
 
@@ -5847,7 +5847,6 @@ PERTVARKYMO VEIKSMŲ FINANSAVIMAS
 
 
 6. Pertvarkymo institucija nustato tarpvalstybinės finansinės grupės pertvarkymui finansuoti skirtų Pertvarkymo fondo lėšų mokėjimo tvarką. 
- 
  
 
 
