@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2015-11-26 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -191,7 +191,8 @@ BAUDŽIAMOJO ĮSTATYMO GALIOJIMAS
 
 
 
-3. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą (99 straipsnis), tarptautinės teisės draudžiamą elgesį su žmonėmis (100 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymą (101 straipsnis), civilių trėmimą ar perkėlimą (102 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais ar jų turto apsaugos pažeidimą (103 straipsnis), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose (105 straipsnis), saugomų objektų naikinimą ar nacionalinių vertybių grobstymą (106 straipsnis), agresiją (110 straipsnis), draudžiamą karo ataką (111 straipsnis), uždraustų karo priemonių naudojimą (112 straipsnis), aplaidų vado pareigų vykdymą (1131 straipsnis). Pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo kodekso 3 straipsnio 3 dalis (2011 m. kovo 22 d. redakcija; Žin., 2011, Nr. 38-1805) tiek, kiek joje nustatytas teisinis reguliavimas, pagal kurį asmuo gali būti teisiamas pagal Baudžiamojo kodekso 99 straipsnį už veiksmus, kuriais buvo siekiama fiziškai sunaikinti visus ar dalį žmonių, priklausančių bet kuriai socialinei ar politinei grupei, atliktus tol, kol Baudžiamajame kodekse nebuvo nustatyta atsakomybė už žmonių, priklausančių socialinei ar politinei grupei, genocidą, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 4 daliai, konstituciniam teisinės valstybės principui.
+3. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą (99 straipsnis), tarptautinės teisės draudžiamą elgesį su žmonėmis (100 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymą (101 straipsnis), civilių trėmimą ar perkėlimą (102 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais ar jų turto apsaugos pažeidimą (103 straipsnis), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose (105 straipsnis), saugomų objektų naikinimą ar nacionalinių vertybių grobstymą (106 straipsnis), agresiją (110 straipsnis), draudžiamą karo ataką (111 straipsnis), uždraustų karo priemonių naudojimą (112 straipsnis), aplaidų vado pareigų vykdymą (1131 straipsnis). 
+Pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo kodekso 3 straipsnio 3 dalis (2011 m. kovo 22 d. redakcija; Žin., 2011, Nr. 38-1805) tiek, kiek joje nustatytas teisinis reguliavimas, pagal kurį asmuo gali būti teisiamas pagal Baudžiamojo kodekso 99 straipsnį už veiksmus, kuriais buvo siekiama fiziškai sunaikinti visus ar dalį žmonių, priklausančių bet kuriai socialinei ar politinei grupei, atliktus tol, kol Baudžiamajame kodekse nebuvo nustatyta atsakomybė už žmonių, priklausančių socialinei ar politinei grupei, genocidą, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 4 daliai, konstituciniam teisinės valstybės principui.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT11-N4/2014, 2014-03-18, paskelbta TAR 2014-03-19, i. k. 2014-03226
  
@@ -5867,18 +5868,16 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 
 
-160 straipsnis. Vaiko įtraukimas vartoti vaistus ar kitas apkvaišinančias priemones
+160 straipsnis. Vaiko įtraukimas vartoti vaistus ar kitas apkvaišinančias priemones, ar Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas 
 
 
-Tas, kas įtraukė vaiką ne gydymo tikslais vartoti vaistus ar kitas apkvaišinančias nenarkotines priemones,
-
-
-
-
+Tas, kas įtraukė vaiką ne gydymo tikslais vartoti vaistus ar kitas apkvaišinančias nenarkotines priemones, ar Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
  
-
-
 
 
 
@@ -7039,13 +7038,28 @@ baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
 
-2. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, nuodingąsias, stipriai veikiančias, narkotines, psichotropines medžiagas arba narkotinių ar psichotropinių medžiagų pirmtakus (prekursorius),
+2. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas,
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų. 
+Papildyta straipsnio dalimi:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+ 
+
+
+
+
+3. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, nuodingąsias, stipriai veikiančias, narkotines, psichotropines medžiagas arba narkotinių ar psichotropinių medžiagų pirmtakus (prekursorius),
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+ 
 
 
 
 
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+ 
 
 
 Straipsnio pakeitimai:
@@ -9452,6 +9466,53 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 
 
+2761 straipsnis. Neteisėtas disponavimas Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytomis medžiagomis turint tikslą jas platinti
+
+
+1. Tas, kas turėdamas tikslą parduoti ar kitaip platinti neteisėtai gamino, perdirbo, įgijo, laikė, gabeno ar siuntė Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas, arba pardavė ar kitaip platino, 
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+
+
+
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+
+Papildyta straipsniu:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+ 
+
+
+
+
+2762 straipsnis. Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytų medžiagų platinimas nepilnamečiams
+
+
+Tas, kas platino ne gydymo tikslais Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas nepilnamečiams,
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
+
+
+Papildyta straipsniu:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+ 
+
+
+
+
+2763 straipsnis. Lenkimas vartoti Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas
+
+
+Tas, kas padėjo asmeniui įsigyti, jį vertė, lenkė ar kitaip pratino ne gydymo tikslais vartoti Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas, 
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+
+Papildyta straipsniu:
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+ 
+
+
+
+
 277 straipsnis. Kovos su epidemijomis ar užkrečiamosiomis ligomis taisyklių pažeidimas
 
 
@@ -11363,3 +11424,8 @@ Lietuvos Respublikos baudžiamojo kodekso papildymo 306-2 straipsniu įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
 Lietuvos Respublikos baudžiamojo kodekso 226, 227 ir 230 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
+Lietuvos Respublikos baudžiamojo kodekso 160, 199 straipsnių pakeitimo ir Kodekso papildymo 276-1, 276-2, 276-3 straipsniais įstatymas
