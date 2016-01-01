@@ -20,13 +20,11 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-04-14 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-05-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
  
-LIETUVOS RESPUBLIKOS
-VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
  
 2008 m. liepos 1 d. Nr. X-1666
 Vilnius
@@ -52,7 +50,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Vyriausiosios tarnybinės etikos komisijos statusas, atskaitomybė ir sekretoriatas
 
 
-1. Vyriausioji tarnybinės etikos komisija (toliau – VTEK arba Komisija) – Lietuvos Respublikos Seimo (toliau – Seimas) įsteigta ir jam atskaitinga kolegiali asmenų, dirbančių valstybinėje tarnyboje, ir asmenų, vykdančių lobistinę veiklą, priežiūros institucija. 
+1. Vyriausioji tarnybinės etikos komisija (toliau – VTEK arba Komisija) – Lietuvos Respublikos Seimo (toliau – Seimas) įsteigta ir jam atskaitinga kolegiali asmenų, dirbančių valstybinėje tarnyboje, ir asmenų, vykdančių lobistinę veiklą, priežiūrą ir korupcijos prevenciją pagal įstatymo jai priskirtą kompetenciją vykdanti institucija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -134,12 +135,23 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Teisėjų taryba ir Lietuvos savivaldybių asociacijos prezidentas. Seimo Pirmininkas VTEK nariu teikia skirti vieną iš Seimo frakcijų siūlomų kandidatų, Ministras Pirmininkas – vieną iš Vyriausybės siūlomų kandidatų, Teisėjų taryba – vieną iš Lietuvos teisininkų draugijos siūlomų kandidatų, Lietuvos savivaldybių asociacijos prezidentas – vieną iš šios asociacijos tarybos siūlomų kandidatų. Teikiantis VTEK nario kandidatūrą asmuo privalo ne vėliau kaip prieš tris mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui naują VTEK nario kandidatūrą. Komisija kandidatų į VTEK narius pavardes iki svarstymo Seime paskelbia Komisijos interneto svetainėje. 
+2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Teisėjų taryba ir Lietuvos savivaldybių asociacijos prezidentas. Seimo Pirmininkas VTEK nariu teikia skirti vieną iš Seimo frakcijų siūlomų kandidatų, Ministras Pirmininkas – vieną iš Vyriausybės siūlomų kandidatų, Teisėjų taryba – vieną iš Lietuvos teisininkų draugijos siūlomų kandidatų, Lietuvos savivaldybių asociacijos prezidentas – vieną iš šios asociacijos tarybos siūlomų kandidatų. Teikiantis VTEK nario kandidatūrą subjektas privalo ne vėliau kaip prieš tris mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui naują VTEK nario kandidatūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
 
 3. VTEK narys yra Seimo skiriamas valstybės pareigūnas. VTEK nario kadencijos laikas – 5 metai. Tas pats asmuo VTEK nariu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
+
+
+
+
+4. Seimas VTEK narį (išskyrus VTEK pirmininką) skiria į pareigas Seimo nutarimu posėdyje dalyvaujančių Seimo narių balsų dauguma atviru balsavimu. Seimas, gavęs šio straipsnio 2 dalyje nurodyto subjekto, teikusio kandidatą į VTEK narius, siūlymą dėl VTEK nario skyrimo antrai kadencijai iš eilės, atitinkamą nutarimą priima ne vėliau kaip iki VTEK nario pirmos kadencijos pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 Straipsnio pakeitimai:
@@ -219,7 +231,10 @@ Tepadeda man Dievas.“;
 
 
 
-3. VTEK veiklos finansavimas iš valstybės biudžeto turi sudaryti sąlygas Komisijai deramai atlikti savo funkcijas. Komisijos išlaidų sąmata tvirtinama VTEK sprendimu.
+3. VTEK veiklos finansavimas iš valstybės biudžeto turi sudaryti sąlygas Komisijai deramai atlikti savo funkcijas. VTEK pirmininkas yra Komisijai skirtų valstybės biudžeto asignavimų valdytojas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -305,59 +320,67 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-3) atstovauja VTEK valstybės institucijose, teismuose ir tarptautinėse organizacijose arba Komisijos nario sutikimu įgalioja atstovauti VTEK kitą Komisijos narį;
+3) tvirtina VTEK strateginį veiklos planą; 
 
 
 
 
-4) vadovauja rengiant svarstyti Komisijai teikiamus klausimus;
+4) atstovauja VTEK valstybės institucijose, teismuose ir tarptautinėse organizacijose arba įgalioja atstovauti VTEK kitą Komisijos narį;
 
 
 
 
-5) šaukia VTEK posėdžius ir jiems pirmininkauja arba Reglamente nustatyta tvarka paveda tai atlikti kitam Komisijos nariui;
+5) vadovauja rengiant svarstyti Komisijai teikiamus klausimus;
 
 
 
 
-6) siunčia VTEK narius į tarnybines komandiruotes;
+6) Reglamento nustatyta tvarka šaukia VTEK posėdžius ir jiems pirmininkauja, pasirašo sprendimus, nutarimus, rekomendacijas, kitus dokumentus arba paveda tai atlikti kitam Komisijos nariui;
 
 
 
 
-7) suteikia VTEK nariams atostogas;
+7) siunčia VTEK narius į tarnybines komandiruotes;
 
 
 
 
-8) teikia Komisijai tvirtinti VTEK išlaidų sąmatą;
+8) suteikia VTEK nariams atostogas;
 
 
 
 
-9) tvirtina Komisijos sekretoriato struktūrą ir jo veiklos nuostatus;
+9) tvirtina VTEK išlaidų sąmatą;
 
 
 
 
-10) tvirtina Komisijos sekretoriato pareigybių sąrašą ir pareigybių aprašymus; 
+10) tvirtina Komisijos sekretoriato struktūrą;
 
 
 
 
-11) įstatymų nustatyta tvarka skiria į pareigas ir atleidžia iš jų Komisijos sekretoriato valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis;
+11) tvirtina Komisijos sekretoriato padalinių nuostatus, pareigybių sąrašą ir pareigybių aprašymus; 
 
 
 
 
-12) organizuoja Komisijos sekretoriato darbą, duoda valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, pavedimus;
+12) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų Komisijos sekretoriato valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, juos skatina ir skiria jiems nuobaudas;
 
 
 
 
-13) vykdo kitus įstatymų jam suteiktus įgaliojimus. 
+13) organizuoja Komisijos sekretoriato darbą, duoda valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, pavedimus;
 
 
+
+
+14) vykdo kitus įstatymų jam suteiktus įgaliojimus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -377,54 +400,40 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-14 straipsnis. VTEK nario atleidimo iš pareigų pagrindai
+14 straipsnis. VTEK nario įgaliojimų pabaiga
 
 
-1. VTEK narys gali būti atleistas iš pareigų ar jo įgaliojimai pasibaigia:
+VTEK nario įgaliojimai pasibaigia šiais pagrindais:
 
 
-1) paties prašymu;
-
-
-
-
-2) pasibaigus kadencijai, jeigu jis neskiriamas pakartotinai;
+1) pasibaigus jo kadencijos laikui;
 
 
 
 
-3) kai jis miršta;
+2) jam mirus;
 
 
 
 
-4) kai jis nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jeigu įstatymų nustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką; 
+3) jam netekus Lietuvos Respublikos pilietybės;
 
 
 
 
-5) įsiteisėjus dėl jo apkaltinamajam nuosprendžiui;
+4) įsiteisėjus dėl jo teismo apkaltinamajam nuosprendžiui;
 
 
 
 
-6) kai jis netenka Lietuvos Respublikos pilietybės;
+5) atleidus jį iš pareigų.
 
 
-
-
-7) jo kandidatūrą šio įstatymo 6 straipsnio 2 dalyje nustatyta tvarka Seimui pateikusio asmens arba Seimo komiteto, gavusio Komisijos teikimą, arba ne mažiau kaip 1/5 Seimo narių siūlymu.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais VTEK narys pareigas eina tol, kol į jo vietą paskiriamas naujas VTEK narys, bet ne ilgiau kaip tris mėnesius.
 
 
 Straipsnio pakeitimai:
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
 
 
@@ -433,16 +442,32 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 15 straipsnis. VTEK nario atleidimas iš pareigų 
 
 
-1. Sprendimą dėl VTEK nario (išskyrus VTEK pirmininką) atleidimo iš pareigų šio įstatymo 14 straipsnio 1 dalies 1, 2, 4, 5 ir 6 punktuose nustatytais pagrindais priima Seimas posėdyje dalyvaujančių Seimo narių balsų dauguma atviru balsavimu. Sprendimą dėl VTEK nario (išskyrus VTEK pirmininką) atleidimo iš pareigų šio įstatymo 14 straipsnio 1 dalies 7 punkte nustatytu pagrindu priima Seimas slaptu balsavimu daugiau kaip pusės visų Seimo narių balsų dauguma.
+1. Seimas VTEK narį (išskyrus VTEK pirmininką) gali atleisti iš pareigų Seimo nutarimu posėdyje dalyvaujančių Seimo narių balsų dauguma atviru balsavimu šiais pagrindais:
+
+
+1) jam atsistatydinus;
 
 
 
 
-2. Sprendimą dėl VTEK pirmininko atleidimo iš pareigų priima Seimas Seimo statuto nustatyta tvarka.
+2) jam nedirbus dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jeigu įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką.
+
+
+
+
+
+
+2. VTEK narys (išskyrus VTEK pirmininką) jo kandidatūrą šio įstatymo 6 straipsnio 2 dalyje nustatyta tvarka Seimui pateikusio subjekto arba ne mažiau kaip 1/5 Seimo narių siūlymu gali būti atleistas iš pareigų Seimo nutarimu daugiau kaip pusės visų Seimo narių balsų dauguma slaptu balsavimu.
+
+
+
+
+3. Nutarimą dėl VTEK pirmininko atleidimo iš pareigų priima Seimas Seimo statuto nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
 
 
@@ -470,13 +495,57 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-4. VTEK nariui, atleistam iš pareigų pagal šio įstatymo 14 straipsnio 1 dalies 2 ir 4 punktus, išmokama dviejų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, o VTEK nariui mirus, – jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotose bendrojo ugdymo mokyklose, profesinio mokymo įstaigose ar aukštosiose mokyklose pagal dieninės, nuolatinės ar ištęstinės studijų formų programas, iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei) išmokama lygiomis dalimis VTEK nario dviejų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
+4. VTEK nariui, kurio kadencijos laikas pasibaigia (jeigu jis nebuvo paskirtas antrai kadencijai iš eilės) ir kuris atleistas iš pareigų pagal šio įstatymo 15 straipsnio 1 dalies 2 punktą, išmokama dviejų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, o VTEK nariui mirus, – jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų aukštųjų, aukštesniųjų, profesinių, bendrojo ugdymo mokyklų dieniniuose skyriuose, iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei) išmokama lygiomis dalimis VTEK nario dviejų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
 Straipsnio dalies pakeitimai:
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 Nr. XII-1586, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05701
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
 
 
+
+
+
+
+161 straipsnis. VTEK posėdžiai
+
+
+1. VTEK jos kompetencijai priskirtus klausimus svarsto ir sprendimus priima kolegialiai savo posėdžiuose. Posėdžių organizavimo tvarką nustato Reglamentas. 
+
+
+
+
+2. VTEK posėdžius šaukia, jiems pirmininkauja ir sprendimus pasirašo VTEK pirmininkas arba Reglamente nustatyta tvarka kitas Komisijos narys. VTEK posėdis gali būti sušauktas ir ne mažiau kaip trijų VTEK narių iniciatyva. 
+
+
+
+
+3. VTEK posėdžiai teisėti, kai juose dalyvauja ne mažiau kaip trys VTEK nariai. Komisija sprendimą priima VTEK narių balsų dauguma atviru balsavimu. Balsuojant susilaikyti negalima. Balsams pasidalijus po lygiai, lemia posėdžio pirmininko balsas. 
+
+
+
+
+4. Motyvuotu VTEK sprendimu VTEK posėdis gali būti uždaras – žmogaus asmeninio ar šeiminio gyvenimo slaptumui apsaugoti, taip pat kai viešai nagrinėjant klausimą gali būti atskleista valstybės, tarnybos ar kita įstatymų saugoma paslaptis. Tokiu atveju viešai paskelbiama tik VTEK priimto sprendimo rezoliucinė dalis. 
+
+
+
+
+5. VTEK posėdyje kviečiamas dalyvauti asmuo, kurio veika tiriama, ir pranešimą pateikęs asmuo. 
+
+
+
+
+6. VTEK leidus, posėdžiuose (išskyrus uždarus posėdžius) gali dalyvauti ir savo nuomonę juose pareikšti kitų valstybės ir savivaldybių institucijų, taip pat viešųjų juridinių asmenų atstovai. 
+
+
+
+
+7. VTEK posėdžiai protokoluojami. Posėdžio protokolą pasirašo VTEK pirmininkas arba kitas posėdžiui pirmininkavęs VTEK narys ir posėdžio sekretorius. Gali būti daromi VTEK posėdžių garso įrašai.
+
+
+Papildyta straipsniu:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -499,9 +568,10 @@ VTEK:
 
 
 
-2) tiria fizinių ir juridinių asmenų pranešimus, skundus ir prašymus dėl valstybinėje tarnyboje dirbančių asmenų veikos atitikties Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatoms ir priima vieną iš šio įstatymo 29 straipsnio 1 dalyje numatytų sprendimų. Valstybinėje tarnyboje dirbančio asmens teisinio statuso praradimas nekliudo trejus metus nuo šio asmens galimai teisės aktus pažeidžiančios veikos padarymo VTEK atlikti tyrimą ir priimti šio įstatymo 29 straipsnio 1 dalyje numatytą sprendimą; 
+2) tiria fizinių ir juridinių asmenų pranešimus, skundus ir prašymus dėl valstybinėje tarnyboje dirbančių asmenų veikos atitikties Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatoms ir priima vieną iš šio įstatymo 29 straipsnio 1 dalyje numatytų sprendimų. Valstybinėje tarnyboje dirbančio asmens teisinio statuso praradimas nekliudo per trejus metus nuo šio asmens galimai teisės aktus pažeidžiančios veikos padarymo VTEK pradėti tyrimą, kuris atliekamas laikantis šio įstatymo 26 straipsnyje nustatytų pranešimų ištyrimo terminų;
 Straipsnio punkto pakeitimai:
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
 
 
@@ -659,7 +729,10 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-12) tikrinti valstybinėje tarnyboje dirbančių asmenų deklaruojamus privačių interesų duomenis ir, jei yra pagrįstų įtarimų apie deklaruotų duomenų netikslumus, nemokamai gauti reikiamą informaciją iš valstybės ar žinybinių registrų;
+12) tikrinti valstybinėje tarnyboje dirbančių asmenų deklaruojamus privačių interesų duomenis;
+Straipsnio punkto pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -844,7 +917,7 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 24 straipsnis. Atsisakymas nagrinėti pranešimą
 
 
-1. VTEK ne vėliau kaip per 5 darbo dienas nuo pranešimo gavimo dienos informuoja pareiškėją apie atsisakymą nagrinėti pranešimą, jeigu:
+1. VTEK ne vėliau kaip per 8 darbo dienas nuo gauto pranešimo registravimo Komisijos sekretoriate dienos informuoja pareiškėją apie atsisakymą nagrinėti pranešimą, jeigu:
 
 
 1) pranešimas pateiktas praėjus šio įstatymo 23 straipsnyje nustatytam terminui;
@@ -860,6 +933,9 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 3) pranešimas tuo pačiu klausimu buvo išnagrinėtas.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -890,7 +966,7 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 25 straipsnis. VTEK kompetencijai priskirtų pranešimų perdavimas nagrinėti kitoms valstybės ar savivaldybių institucijoms ar įstaigoms
 
 
-1. VTEK gali perduoti gautą pranešimą ištirti valstybės ar savivaldybės institucijos ar įstaigos, kurioje skundžiamas asmuo dirba, vadovui arba kolegialiai valstybės ar savivaldybės institucijai.
+1. VTEK gali perduoti gautą pranešimą ištirti ir priimti sprendimą, ar asmuo pažeidė (nepažeidė) Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatas (nuostatų), valstybės ar savivaldybės institucijos ar įstaigos, kurioje skundžiamas asmuo dirba, vadovui arba kolegialiai valstybės ar savivaldybės institucijai. 
 
 
 
@@ -900,15 +976,27 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-3. VTEK išnagrinėja gautus tyrimo dokumentus ir apie tai informuoja pareiškėją.
+3. VTEK išnagrinėja gautus tyrimo dokumentus ir informuoja valstybės ar savivaldybės institucijos ar įstaigos vadovą arba kolegialią valstybės ar savivaldybės instituciją, ar atlikto tyrimo išvadoje asmens veikos įvertinimas atitinka Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatas. 
 
 
 
 
-4. Jeigu VTEK nesutinka su valstybės ar savivaldybės institucijoje ar įstaigoje atlikto tyrimo išvada, ji turi teisę pavesti atlikti tyrimą pakartotinai arba pati atlikti tyrimą ir priimti sprendimą.
+4. Valstybės ar savivaldybės institucijos ar įstaigos vadovas arba kolegiali valstybės ar savivaldybės institucija, gavę VTEK informaciją, kad atlikto tyrimo išvadoje asmens veikos įvertinimas atitinka Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatas, priima motyvuotą sprendimą dėl asmens veikos.
+
+
+
+
+5. Jeigu VTEK pripažįsta, kad pateiktoje valstybės ar savivaldybės institucijos ar įstaigos arba kolegialios valstybės ar savivaldybės institucijos atlikto tyrimo išvadoje asmens veikos įvertinimas neatitinka Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatų, ji turi teisę pavesti atlikti tyrimą pakartotinai, patikslinti tyrimo išvadą arba pati atlikti tyrimą ir priimti sprendimą.
+
+
+
+
+6. Šio straipsnio nuostatos taikomos ir tuo atveju, kai valstybės ar savivaldybės institucijos ar įstaigos vadovas ar jo įgaliotas atstovas arba kolegiali valstybės ar savivaldybės institucija, gavę pranešimą ne iš VTEK, asmens, dirbančio valstybinėje tarnyboje, tarnybinės veiklos patikrinimą atlieka savo iniciatyva.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
-
-
 
 
 
@@ -947,7 +1035,10 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-3. VTEK pateiktą rekomendaciją turi svarstyti valstybės ar savivaldybės institucija ar įstaiga, kuriai rekomendacija pateikta, ir per vieną kalendorinį mėnesį nuo rekomendacijos gavimo dienos informuoti VTEK apie svarstymo rezultatus.
+3. VTEK pateiktą rekomendaciją turi svarstyti valstybės ar savivaldybės institucija ar įstaiga, ar kitas juridinis asmuo, kuriam rekomendacija pateikta, ir per vieną kalendorinį mėnesį, jeigu VTEK nenurodo vėlesnio termino, nuo rekomendacijos gavimo dienos informuoti VTEK apie svarstymo rezultatus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -966,7 +1057,10 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
  
 
 
-1. Tyrimas pradedamas VTEK pirmininko ar jį pavaduojančio VTEK nario nurodymu arba VTEK sprendimu. Apie tyrimo pradžią per 5 darbo dienas nuo pranešimo gavimo dienos raštu informuojamas pareiškėjas, asmuo, kurio veika tiriama, ir valstybės ar savivaldybės institucijos, kurioje jis dirba, vadovas.
+1. Tyrimas pradedamas VTEK pirmininko ar jį pavaduojančio VTEK nario nurodymu arba VTEK sprendimu. Apie tyrimo pradžią per 8 darbo dienas nuo gauto pranešimo registravimo Komisijos sekretoriate dienos raštu informuojamas pareiškėjas, asmuo, kurio veika tiriama, ir valstybės ar savivaldybės institucijos, kurioje jis dirba, vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -976,7 +1070,10 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-3. Asmuo, kurio veika tiriama, turi teisę susipažinti su VTEK gautais dokumentais, teikti jai paaiškinimus. Asmeniui pranešama apie VTEK posėdžio, kuriame bus svarstoma jo veika, vietą ir laiką. Asmuo turi teisę dalyvauti VTEK posėdyje, kuriame bus svarstomas jo pranešimas.
+3. Asmuo, kurio veika tiriama, turi teisę susipažinti su VTEK gautais dokumentais, teikti jai paaiškinimus. Asmeniui, kurio veika tiriama, ir pareiškėjui pranešama apie VTEK posėdžio vietą ir laiką. Asmens, kurio veika tiriama, ir (ar) pareiškėjo neatvykimas į VTEK posėdį netrukdo Komisijai svarstyti pranešimą ir priimti sprendimą. Komisija, iki pranešimo nagrinėjimo VTEK posėdyje pradžios gavusi šių asmenų prašymą atidėti pranešimo nagrinėjimą dėl priežasčių, kurias VTEK pripažįsta svarbiomis, turi teisę pranešimo nagrinėjimą atidėti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -1037,28 +1134,25 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 
 
 
-2. VTEK, priėmusi sprendimą pripažinti, kad asmuo pažeidė Lobistinės veiklos įstatymo, Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo, Valstybės politikų elgesio kodekso ar kito teisės akto, reglamentuojančio tarnybinės etikos ir elgesio normas, arba Lobistinės veiklos įstatymo nuostatas:
+2. VTEK pripažįsta, kad asmuo šiurkščiai pažeidė Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatas, jeigu: 
 
 
-1) pareiškia pažeidėjui įspėjimą arba
+1) Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos pažeistos, nors asmeniui jau buvo pateiktos išankstinės rašytinės rekomendacijos, nuo kokių sprendimų rengimo, svarstymo ar priėmimo jis privalo nusišalinti; 
 
 
 
 
-2) įgyvendina jai šio įstatymo 18 straipsnio 1 dalies 3, 4, 5, 6 ir 7 punktuose nustatytas teises. 
+2) Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos pažeistos pakartotinai per vienerius metus nuo tos dienos, kurią asmuo buvo pripažintas pažeidęs šį įstatymą. 
 
 
-Papildyta straipsnio dalimi:
-Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
 
 
 
 
-3. Šio straipsnio 1 dalies 7 punkte nurodytas sprendimas sustabdyti tyrimą priimamas:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
- 
+3. Šio straipsnio 1 dalies 5 punkte nurodytas sprendimas sustabdyti tyrimą priimamas:
 
 
 1) iki bus atlikti kitų įgaliotų institucijų ar įstaigų veiksmai, susiję su skundžiamo asmens veika;
@@ -1069,14 +1163,14 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 2) jei asmuo, kurio pranešimas ar skundžiami veiksmai tiriami, serga arba yra išvykęs, o jam nedalyvaujant neįmanoma priimti sprendimo.
 
 
-
-
-
-
-4. Šio straipsnio 1 dalies 8 punkte nurodytas sprendimas nutraukti tyrimą priimamas:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
+
+
+
+
+4. Šio straipsnio 1 dalies 6 punkte nurodytas sprendimas nutraukti tyrimą priimamas:
 
 
 1) kai yra šio įstatymo 24 straipsnio 1 dalyje nurodytos aplinkybės;
@@ -1087,6 +1181,9 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 2) kai nėra pakankamai duomenų, reikalingų asmens veikos teisiniam įvertinimui.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+ 
 
 
 
@@ -1094,6 +1191,29 @@ Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
 5. Paaiškėjus šio straipsnio 4 dalies 2 punkte nurodytiems duomenims, VTEK gali tyrimą atnaujinti.
 Straipsnio dalies pakeitimai:
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
+ 
+
+
+
+
+6. VTEK, išnagrinėjusi valstybės ar savivaldybės institucijos ar įstaigos arba kolegialios valstybės ar savivaldybės institucijos atlikto tyrimo išvadą ir kartu pateiktus dokumentus:
+
+
+1) pripažįsta, kad atlikto tyrimo išvadoje asmens veikos įvertinimas atitinka Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatas;
+
+
+
+
+2) pripažįsta, kad atlikto tyrimo išvadoje asmens veikos įvertinimas neatitinka Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatų, ir paveda tyrimą atlikusios valstybės ar savivaldybės institucijos ar įstaigos vadovui arba kolegialiai valstybės ar savivaldybės institucijai atlikti tyrimą pakartotinai arba patikslinti tyrimo išvadą;
+
+
+
+
+3) pripažįsta, kad atlikto tyrimo išvadoje asmens veikos įvertinimas neatitinka Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatų, ir priima sprendimą pati atlikti tyrimą ir priimti sprendimą.
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
  
 
 
@@ -1163,3 +1283,8 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1586, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05701
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 16 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 pakeitimo įstatymas
