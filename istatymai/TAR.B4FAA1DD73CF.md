@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-09-22 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -597,17 +597,19 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos, birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 435 eurų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę.
+3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 15 dienos, birželio 15 dienos ir rugsėjo 15 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 500 eurų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1518, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21156
+Nr. XII-2153, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19849
  
 
 
 
 
-4. Mokesčio mokėtojai atitinkamo mokestinio laikotarpio mokesčio už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, deklaraciją vietos mokesčių administratoriui pateikia iki einamojo mokestinio laikotarpio gruodžio 15 dienos, o mokesčio už kitą nekilnojamąjį turtą – iki kitų kalendorinių metų vasario 1 dienos. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. 
+4. Mokesčio mokėtojai atitinkamo mokestinio laikotarpio mokesčio už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, deklaraciją vietos mokesčių administratoriui pateikia iki einamojo mokestinio laikotarpio gruodžio 15 dienos, o mokesčio už kitą nekilnojamąjį turtą – iki kitų kalendorinių metų vasario 15 dienos, joje deklaruodami ir einamojo mokestinio laikotarpio pirmų devynių mėnesių avansinį nekilnojamojo turto mokestį. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
 Straipsnio dalies pakeitimai:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+Nr. XII-2153, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19849
  
 
 
@@ -899,3 +901,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 12 straip
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT24-N14/2015, 2015-09-22, paskelbta TAR 2015-09-22, i. k. 2015-14100
 Dėl Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio (2011 m. gruodžio 21 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2153, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19849
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 12 straipsnio pakeitimo įstatymas
