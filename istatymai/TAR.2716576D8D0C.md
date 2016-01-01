@@ -13,16 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2716576D8D0C"
 
 # Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 206-0; Žin. 1992, Nr.30-929, i. k. 0921010ISTA00I-2944
  
 Nauja redakcija nuo 2015-01-01:
 Nr. XII-1381, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19666
  
-LIETUVOS RESPUBLIKOS
-ANGLIAVANDENILIŲ IŠTEKLIŲ MOKESČIO
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ANGLIAVANDENILIŲ IŠTEKLIŲ MOKESČIO ĮSTATYMAS
  
 
 
@@ -146,7 +144,10 @@ Angliavandenilių išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmo
 
 
 
-3. Mokestinio laikotarpio angliavandenilių išteklių mokesčio deklaracija privalo būti pateikta ne vėliau kaip iki kito kalendorinio ketvirčio pirmojo mėnesio 20 dienos, o mokestis sumokamas ne vėliau kaip iki kito kalendorinio ketvirčio pirmojo mėnesio 25 dienos.
+3. Mokestinio laikotarpio angliavandenilių išteklių mokesčio deklaracija privalo būti pateikta ir mokestis sumokamas ne vėliau kaip iki kito kalendorinio ketvirčio antrojo mėnesio 15 dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2158, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19856
+ 
 
 
 
@@ -225,7 +226,7 @@ Angliavandenilių išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmo
  
  
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                        VYTAUTAS LANDSBERGIS
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                           VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. spalio 7 d. 
 Nr. I-2944
@@ -260,3 +261,8 @@ Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo 4, 5 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1381, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19666
 Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo Nr. I-2944 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2158, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19856
+Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymo Nr. I-2944 8 straipsnio pakeitimo įstatymas
