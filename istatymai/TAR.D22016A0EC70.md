@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -574,7 +574,33 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 
 
-5. Ūkio subjektai, užsiimantys žuvininkyste, teikia Europos Sąjungos teisės aktuose nustatytus duomenis ar duomenis, reikalingus Lietuvos Respublikos žuvininkystės būklei įvertinti ir analizei atlikti, pagal kompetenciją Žemės ūkio ministerijos arba jos įgaliotos institucijos arba Aplinkos ministerijos ar jos įgaliotos institucijos nustatyta tvarka.
+5. Vyriausybė steigia žinybinį Perleidžiamųjų teisių į žvejybos vidaus vandenyse kvotas registrą, patvirtina šio registro nuostatus ir paskiria registro tvarkytoją. Žemės ūkio ministerija yra Perleidžiamųjų teisių į žvejybos vidaus vandenyse kvotas registro, kuris yra žuvininkystės duomenų valstybės informacinės sistemos dalis, valdytoja. 
+Papildyta straipsnio dalimi:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+6. Perleidžiamųjų teisių į žvejybos vidaus vandenyse kvotas registro objektas yra ūkio subjektai, kuriems šio įstatymo nustatyta tvarka suteikta ar perleista perleidžiamoji teisė į žvejybos vidaus vandenyse kvotą (toliau – teisė į žvejybos kvotą), ir jiems skirta žvejybos limito, išreiškiamo didžiausiu galimu sugauti žuvų kiekiu, dalis procentais ir (arba) žvejybos limito dalis, išreikšta tam tikro tipo (tam tikrų tipų) verslinės žvejybos įrankių ir (arba) žvejybos vietų skaičiumi. 
+Papildyta straipsnio dalimi:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+7. Perleidžiamųjų teisių į žvejybos vidaus vandenyse kvotas registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto (įskaitant Europos Sąjungos lėšas) ir kitų šio registro nuostatuose  nurodytų finansavimo šaltinių. 
+Papildyta straipsnio dalimi:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+ 
+
+
+
+
+8. Ūkio subjektai, užsiimantys žuvininkyste, teikia Europos Sąjungos teisės aktuose nustatytus duomenis ar duomenis, reikalingus Lietuvos Respublikos žuvininkystės būklei įvertinti ir analizei atlikti, pagal kompetenciją Žemės ūkio ministerijos arba jos įgaliotos institucijos arba Aplinkos ministerijos ar jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
  
 
 
