@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-04
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -765,8 +765,6 @@ Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, am�
 
 
 2. Katės, šunys ir šeškai privalo būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
-TAR pastaba. 7 straipsnio 2 dalis įsigalioja 2016-01-01.
- 
 
 
 
@@ -912,8 +910,6 @@ GYVŪNŲ VEISIMAS, PREKYBA, VEŽIMAS
 
 
 4. Perduodant kates, šunis ar šeškus, taip pat šių gyvūnų jauniklius kitam savininkui, šie gyvūnai turi būti paženklinti mikroschema ir užregistruoti Gyvūnų augintinių registro duomenų bazėje.
-TAR pastaba. 10 straipsnio 4 dalis įsigalioja 2016-01-01.
- 
 
 
 
@@ -1284,7 +1280,7 @@ ASMENŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ IR ŠIO ĮSTATYMO VYKDYMO KONTROLĖ
 
 
 
-7. Pilnamečiams neveiksniems asmenims draudžiama laikyti gyvūnus. Asmenys, kurių veiksnumas yra apribotas, gali įsigyti, laikyti gyvūnus tik turėdami rūpintojo sutikimą. 
+7. Draudžiama laikyti gyvūnus asmenims, įstatymų nustatyta tvarka pripažintiems neveiksniais šioje srityje. Asmenys, kurių veiksnumas šioje srityje apribotas, gali įsigyti, laikyti gyvūnus tik turėdami rūpintojo sutikimą.
 Papildyta straipsnio dalimi:
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
  
