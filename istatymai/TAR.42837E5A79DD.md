@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2015-12-01
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-19
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -5805,15 +5805,12 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 108 straipsnis. Lietuvos valstybės parama užsieniečių integracijai
 
 
-1. Užsieniečiams, gavusiems prieglobstį Lietuvos Respublikoje, teikiama Lietuvos valstybės parama integracijai socialinės apsaugos ir darbo ministro nustatyta tvarka.
+Užsieniečiams, gavusiems prieglobstį Lietuvos Respublikoje, teikiama Lietuvos valstybės parama integracijai Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
 
 
-
-
-2. Užsieniečiai, norintys gauti Lietuvos valstybės paramą integracijai, turi pateikti pajamų ir turto deklaraciją.
+Straipsnio pakeitimai:
+Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
  
-
-
 
 
 
@@ -7102,7 +7099,11 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 
 
 
-2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių.part_ac2e0d016e7d422682d3923763bed6e1 Straipsnio pakeitimas:
+
+
+2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Straipsnio pakeitimas:
+
+
 Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 Straipsnio pakeitimai:
