@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2011-05-28 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
  
@@ -43,7 +43,10 @@ Vilnius
 
 
 
-4. Šis įstatymas netaikomas sprendžiant vartotojų ginčus ne teisme, kai šie ginčai nagrinėjami vartotojų ginčų sprendimo ne teisme tvarka pagal Lietuvos Respublikos vartotojų teisių apsaugos įstatymą ar kitus teisės aktus.
+4. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2085, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19288
+ 
 
 
 
@@ -403,3 +406,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1400, 2011-05-24, Žin., 2011, Nr. 65-3048 (2011-05-28), i. k. 1111010ISTA0XI-1400
 Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo 1, 2, 4, 5, 6, 8, 10, 11 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2085, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19288
+Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo Nr. X-1702 1 straipsnio pakeitimo įstatymas
