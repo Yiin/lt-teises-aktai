@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -287,12 +287,48 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-5. Medicinos praktikos licencija išduodama neterminuotam laikui, jeigu yra įvykdytos Medicinos praktikos licencijavimo taisyklėse nustatytos sąlygos.
+5. Licencija išduodama neterminuotam laikui, jeigu yra įvykdytos licencijos išdavimo sąlygos:
+
+
+1) gydytojas yra Lietuvos Respublikos pilietis arba turi teisę gyventi ir dirbti Lietuvos Respublikoje;
 
 
 
 
-6. Licenciją gydytojui išduoda, atsisako ją išduoti, jos galiojimą sustabdo, panaikina jos galiojimo sustabdymą ir licencijos galiojimą panaikina licencijas išduodanti institucija, vadovaudamasi šiuo Įstatymu ir sveikatos apsaugos ministro patvirtintomis Medicinos praktikos licencijavimo taisyklėmis.
+2) gydytojo valstybinės kalbos mokėjimo kategorija atitinka Lietuvos Respublikos Vyriausybės nustatytus reikalavimus;
+
+
+
+
+3) gydytojas yra įgijęs profesinę kvalifikaciją šio Įstatymo 3 straipsnyje nustatyta tvarka;
+
+
+
+
+4) gydytojas neserga trukdančiomis verstis medicinos praktika ligomis, kurių sąrašą nustato sveikatos apsaugos ministras;
+
+
+
+
+5) gydytojas sveikatos apsaugos ministro nustatyta tvarka tobulino savo profesinę kvalifikaciją, jeigu po profesinės kvalifikacijos įgijimo praėjo daugiau kaip dveji metai;
+
+
+
+
+6) gydytojas įvykdė šio Įstatymo 7 straipsnyje nustatytus reikalavimus, jeigu licencijos galiojimas jam buvo panaikintas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
+
+
+
+
+6. Licenciją gydytojui išduoda, atsisako ją išduoti, jos galiojimą sustabdo, panaikina jos galiojimo sustabdymą, licencijos galiojimą panaikina, licencijos duomenis tikslina ir popierinės formos licencijos dublikatą išduoda licencijas išduodanti institucija, vadovaudamasi šiuo Įstatymu ir sveikatos apsaugos ministro patvirtintomis Medicinos praktikos licencijavimo taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
@@ -302,27 +338,59 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-8. Licencijas išduodanti institucija nuo tos dienos, kai pareiškėjas pateikė paraišką ir visus patvirtinamuosius dokumentus, priima sprendimą dėl licencijos išdavimo:
+8. Gydytojas, siekiantis gauti licenciją, turi atitikti šio straipsnio 5 dalyje nustatytas licencijos išdavimo sąlygas. Jeigu gydytojas, siekiantis gauti licenciją, profesinę kvalifikaciją įgijo ne anksčiau kaip prieš dvejus metus iki kreipimosi dėl licencijos išdavimo dienos, laikoma, kad licencija yra išduota kitą dieną nuo deklaracijos apie ketinimą verstis medicinos praktika (toliau – deklaracija), kuria gydytojas deklaruoja minėto reikalavimo bei licencijos išdavimo sąlygų atitiktį ir įsipareigoja per 30 dienų nuo deklaracijos pateikimo dienos pateikti Medicinos praktikos licencijavimo taisyklėse nurodytus licencijai gauti reikalingus dokumentus (toliau – licencijai gauti reikalingi dokumentai), jeigu jie nepateikiami kartu su deklaracija, pateikimo licencijas išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu deklaracijos pateikimo licencijas išduodančiai institucijai diena. Kitais atvejais licencijas išduodanti institucija nuo tos dienos, kai gydytojas pateikė paraišką ir licencijai gauti reikalingus dokumentus, išduoda licenciją arba pateikia motyvuotą atsisakymą ją išduoti:
 
 
-1) ne vėliau kaip per 3 mėnesius, jei gydytojui taikytinas kitoje valstybėje narėje įgytos profesinės kvalifikacijos pripažinimo procesas;
-
-
-
-
-2) ne vėliau kaip per 30 dienų, jei gydytojui netaikytinas įgytos profesinės kvalifikacijos pripažinimo procesas.
+1) ne vėliau kaip per 3 mėnesius, jeigu gydytojui taikytina kitoje valstybėje narėje įgytos profesinės kvalifikacijos pripažinimo procedūra;
 
 
 
 
+2) ne vėliau kaip per 30 dienų, jeigu gydytojui netaikytina įgytos profesinės kvalifikacijos pripažinimo procedūra. 
 
 
-9. Panaikinus licencijos galiojimą, gydytojas per 3 darbo dienas nuo dienos, kai sužinojo ar turėjo sužinoti apie licencijos galiojimo panaikinimą, privalo grąžinti licencijas išduodančiai institucijai medicinos praktikos licencijos originalą. Licencijas išduodanti institucija, per nustatytą laiką negavusi medicinos praktikos licencijos originalo, kreipiasi į teisėsaugos institucijas dėl šios licencijos paėmimo iš asmens Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-10. Atsisakymas išduoti licenciją turi būti motyvuotas ir negali būti grindžiamas praktikos netikslingumu. 
+9. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
+
+
+
+
+10. Paraišką ir licencijai gauti reikalingus dokumentus pateikusiam gydytojui licenciją išduoti atsisakoma, kai:
+
+
+1) pateikti klaidingi duomenys, netinkamai įforminti ar ne visi licencijai gauti reikalingi dokumentai ir gydytojas per Medicinos praktikos licencijavimo taisyklėse nustatytą terminą nepašalina šio licencijas išduodančios institucijos nurodyto trūkumo;
+
+
+
+
+2) gydytojas pateikė suklastotus dokumentus licencijai gauti;
+
+
+
+
+3) gydytojas neįvykdė bent vienos šio straipsnio 5 dalyje nustatytos licencijos išdavimo sąlygos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
+
+
+
+
+101. Už licencijos išdavimą, licencijos duomenų tikslinimą ar popierinės formos licencijos dublikato išdavimą imama nustatyto dydžio valstybės rinkliava. 
+Papildyta straipsnio dalimi:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
@@ -335,7 +403,10 @@ Nr. XI-884, 2010-06-08, Žin., 2010, Nr. 71-3556 (2010-06-19), i. k. 1101010ISTA
 
 
 
-12. Licencijas išduodanti institucija apie priimtą sprendimą dėl licencijos išdavimo, atsisakymo išduoti, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar licencijos galiojimo panaikinimo privalo pranešti registro tvarkytojui registro nuostatų nustatyta tvarka.
+12. Licencijas išduodanti institucija apie priimtą sprendimą dėl licencijos išdavimo, atsisakymo ją išduoti, jos galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, licencijos galiojimo panaikinimo, licencijos duomenų tikslinimo ar popierinės formos licencijos dublikato išdavimo privalo pranešti registro tvarkytojui registro nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
@@ -390,12 +461,18 @@ Nr. XI-884, 2010-06-08, Žin., 2010, Nr. 71-3556 (2010-06-19), i. k. 1101010ISTA
 
 
 
-2) gydytojas per vienus metus neįvykdė licencijas išduodančios institucijos reikalavimų, kai licencijos galiojimas buvo sustabdytas šio Įstatymo 8 straipsnio 1 dalies 1, 3 ar 4 punkto pagrindu;
+2) gydytojas per vienus metus nepašalino licencijas išduodančios institucijos nurodytų trūkumų, kai licencijos galiojimas buvo sustabdytas vadovaujantis šio Įstatymo 8 straipsnio 1 dalies 1, 2, 3 ar 5 punktu; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-3) gydytojas padarė grubią medicinos praktikos klaidą;
+3) profesinės kompetencijos vertinimo komisija nustato, kad gydytojas padarė grubią medicinos praktikos klaidą arba per kalendorinius metus padarė dvi ar daugiau medicinos praktikos klaidų ir jos sukėlė arba galėjo sukelti paciento sveikatos pablogėjimą ar grėsmę jo gyvybei;
+Straipsnio punkto pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
@@ -443,18 +520,35 @@ Nr. XI-2371, 2012-11-06, Žin., 2012, Nr. 135-6862 (2012-11-22), i. k. 1121010IS
 
 
 
-7 straipsnis.         Licencijos išdavimo sąlygos gydytojui, kuriam anksčiau buvo panaikintas licencijos galiojimas
+7 straipsnis. Licencijos išdavimo sąlygos gydytojui, kuriam anksčiau buvo panaikintas licencijos galiojimas
 
 
-1. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo 6 straipsnio 1 dalies 1, 2, 3 ar 4 punktu, Medicinos praktikos licencijavimo taisyklių nustatyta tvarka gali kreiptis dėl naujos licencijos išdavimo įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su medicinos praktikos licencijavimo sąlygų laikymusi.
+1. Gydytojas, kurio licencijos galiojimas buvo panaikintas, dėl naujos licencijos išdavimo gali kreiptis Medicinos praktikos licencijavimo taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus:
+
+
+1) praėjus trims mėnesiams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio Įstatymo 6 straipsnio 1 dalies 4 punktu;
 
 
 
 
-2. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo 6 straipsnio 1 dalies 5 ar 6 punktu, gali kreiptis dėl naujos licencijos išdavimo Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir yra įvykdyti teisės aktuose nustatyti reikalavimai, susiję su medicinos praktikos licencijavimo sąlygų laikymusi.
+2) praėjus šešiems mėnesiams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio Įstatymo 6 straipsnio 1 dalies 1 punktu;
+
+
+
+
+3) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio Įstatymo 6 straipsnio 1 dalies 3 punktu.
+
+
+
+
+
+
+2. Gydytojas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio Įstatymo 6 straipsnio 1 dalies 2, 5 ar 6 punktu, gali kreiptis dėl naujos licencijos išdavimo, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir įvykdytos šio Įstatymo 4 straipsnio 5 dalyje nustatytos licencijos išdavimo sąlygos, Medicinos praktikos licencijavimo taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
  
-
-
 
 
 
@@ -462,27 +556,35 @@ Nr. XI-2371, 2012-11-06, Žin., 2012, Nr. 135-6862 (2012-11-22), i. k. 1121010IS
 8 straipsnis. Licencijos galiojimo sustabdymas
 
 
-1. Licencijos galiojimas sustabdomas, jei:
+1. Licencijos galiojimas sustabdomas, jeigu:
 
 
-1) gydytojo profesinės kompetencijos vertinimo komisija nusprendžia, kad gydytojo profesinė kvalifikacija neatitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimų; 
-
-
-
-
-2) gydytojas dėl sveikatos būklės negali atlikti profesinių pareigų;
+1) deklaraciją pateikęs gydytojas per 30 dienų nuo deklaracijos pateikimo licencijas išduodančiai institucijai dienos nepateikė licencijai gauti reikalingų dokumentų, jeigu jie nebuvo pateikti kartu su deklaracija;
 
 
 
 
-3) gydytojas nevykdė vienos iš šio Įstatymo 10 straipsnio 1 ar 2 punktuose nustatytų profesinių pareigų;
+2) deklaraciją pateikęs gydytojas pateikė klaidingus duomenis, netinkamai įformintus ar ne visus licencijai gauti reikalingus dokumentus ir per Medicinos praktikos licencijavimo taisyklėse nustatytą terminą nepašalino šio licencijas išduodančios institucijos nurodyto trūkumo;
 
 
 
 
-4) gydytojo profesinės kompetencijos vertinimo komisija nustatė, kad gydytojas padarė dvi ar daugiau medicinos praktikos klaidų. 
+3) profesinės kompetencijos vertinimo komisija nusprendžia, kad gydytojo profesinė kvalifikacija neatitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimų; 
 
 
+
+
+4) gydytojas dėl sveikatos būklės negali atlikti profesinių pareigų;
+
+
+
+
+5) gydytojas neįvykdė bent vienos iš šio Įstatymo 10 straipsnio 2 ar 3 punkte nustatytų profesinių pareigų ir per Medicinos praktikos licencijavimo taisyklėse nustatytą terminą nepašalino šio licencijas išduodančios institucijos nurodyto trūkumo. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
@@ -495,7 +597,10 @@ Nr. XI-2371, 2012-11-06, Žin., 2012, Nr. 135-6862 (2012-11-22), i. k. 1121010IS
 
 
 
-2) jei gydytojas šiurkščiai arba dažnai pažeidžia vieną iš šio Įstatymo 10 straipsnio 3, 4, 5, 6, 7, 8, 9 ar 10 punktuose nustatytų profesinių pareigų.
+2) jeigu gydytojas šiurkščiai arba du ar daugiau kartų per kalendorinius metus pažeidžia bent vieną iš šio Įstatymo 10 straipsnio 4, 5, 6, 7, 8, 9, 10 ar 11 punktuose nustatytų profesinių pareigų.
+Straipsnio punkto pakeitimai:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
@@ -574,52 +679,89 @@ GYDYTOJO PROFESINĖS TEISĖS, PAREIGOS IR ATSAKOMYBĖ. MEDICINOS PRAKTIKOS KONTR
 Gydytojas privalo:
 
 
-1) tobulinti savo profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka;
+1) per 30 dienų nuo deklaracijos pateikimo licencijas išduodančiai institucijai dienos pateikti licencijai gauti reikalingus dokumentus, jeigu jie nebuvo pateikti kartu su deklaracija; 
+Papildyta straipsnio punktu:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-2) Medicinos praktikos licencijavimo taisyklių nustatyta tvarka ne rečiau kaip kas 5 metus pranešti licencijas išduodančiai institucijai apie profesinės kvalifikacijos tobulinimą ir medicinos praktiką; 
+2) tobulinti savo profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-3) nediskriminuoti pacientų dėl lyties, amžiaus, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
+3) Medicinos praktikos licencijavimo taisyklių nustatyta tvarka ne rečiau kaip kas 5 metus pranešti licencijas išduodančiai institucijai apie profesinės kvalifikacijos tobulinimą ir medicinos praktiką; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-4) gerbti pacientų teises, jų nepažeisti;
+4) nediskriminuoti pacientų dėl lyties, amžiaus, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-5) laikytis gydytojo profesinės etikos principų;
+5) gerbti pacientų teises, jų nepažeisti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-6) tvarkyti medicinos praktikos dokumentus teisės aktų nustatyta tvarka;
+6) laikytis gydytojo profesinės etikos principų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-7) teisės aktų nustatyta tvarka pranešti teisėsaugos bei kitoms įgaliotoms valstybės institucijoms apie sužalotus pacientus, kuriems žala galėjo būti padaryta nusikalstama veika;
+7) tvarkyti medicinos praktikos dokumentus teisės aktų nustatyta tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-8) paaiškinti medicinos praktikos aplinkybes Sveikatos apsaugos ministerijos, teisėsaugos institucijų prašymu;
+8) teisės aktų nustatyta tvarka pranešti teisėsaugos bei kitoms įgaliotoms valstybės institucijoms apie sužalotus pacientus, kuriems žala galėjo būti padaryta nusikalstama veika;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-9) gydytojo kompetencijai nepriskirtais atvejais pacientui, kuris į jį kreipiasi, suteikti būtinąją pagalbą ir pacientą pasiųsti pas gydytoją, turintį licenciją verstis atitinkama medicinos praktika;
+9) paaiškinti medicinos praktikos aplinkybes Sveikatos apsaugos ministerijos, teisėsaugos institucijų prašymu;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
 
 
 
 
-10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+10) gydytojo kompetencijai nepriskirtais atvejais pacientui, kuris į jį kreipiasi, suteikti būtinąją pagalbą ir pacientą pasiųsti pas gydytoją, turintį licenciją verstis atitinkama medicinos praktika;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+ 
+
+
+
+
+11) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
  
 
 
@@ -662,6 +804,8 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
 
 
  
@@ -731,3 +875,8 @@ Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1973, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16903
 Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 4, 6, 7, 8 ir 10 straipsnių pakeitimo įstatymas
