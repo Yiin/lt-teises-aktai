@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-10 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -937,28 +937,35 @@ TREČIASIS SKIRSNIS
 
 
 
-25 straipsnis. Lituanistinis švietimas ir galimybė mokytis lietuvių kalbos
+25 straipsnis. Lituanistinis švietimas užsienyje ir galimybė mokytis lietuvių kalbos
 
 
-1. Užsienio lietuvių lituanistinio švietimo paskirtis – padėti išmokti lietuvių kalbą ir ją išlaikyti, išsaugoti tautinį tapatumą, supažindinti su Lietuvos valstybės istorija, kultūra, paveldu ir sudaryti sąlygas saviraiškai lietuvių kalba.
-
-
-
-
-2. Valstybė finansuoja ar kitaip skatina užsienio lietuvių veiklą lituanistinio švietimo srityje, lietuvių kilmės užsieniečius ir užsieniečius, kurie mokosi lietuvių kalbos ar studijuoja lietuvių kalbą ir kultūrą.
+1. Lituanistinio švietimo užsienyje paskirtis – padėti išmokti lietuvių kalbą ir ją išlaikyti, išsaugoti tautinį tapatumą, supažindinti su Lietuvos valstybės istorija, kultūra, paveldu ir sudaryti sąlygas saviraiškai lietuvių kalba.
 
 
 
 
-3. Pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos (įgaliotų) institucijos (institucijų) programą skiriama lėšų mokykloms užsienyje, kuriose mokoma lietuvių kalbos ar lietuvių kalba, ir asmenims, vykstantiems dirbti mokytojais ir dėstytojais į lituanistinio švietimo įstaigas, lituanistikos centrus užsienyje. Mokykloms užsienyje, kuriose mokoma lietuvių kalbos ar lietuvių kalba, valstybės turtas gali būti perduodamas panaudos pagrindais.
+2. Valstybė finansuoja ar kitaip skatina lituanistinio švietimo veiklas užsienyje, lietuvių kilmės užsieniečius ir užsieniečius, kurie mokosi lietuvių kalbos ar studijuoja lietuvių kalbą ir kultūrą.
+
+
+
+
+3. Pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos (įgaliotų) institucijos (institucijų) programą skiriama lėšų švietimo įstaigoms ir lituanistikos (baltistikos) centrams užsienyje, kuriuose mokoma lietuvių kalbos ar lietuvių kalba (toliau – lituanistinio švietimo įstaiga). Lituanistinio švietimo įstaigoms užsienyje valstybės turtas gali būti perduodamas panaudos pagrindais.
 
 
 
 
 4. Švietimo ir mokslo ministro nustatyta tvarka sudaromos galimybės lietuvių kilmės užsieniečiams ir išeiviams mokytis lietuvių kalba Lietuvos Respublikos mokyklose. Išeiviais laikomi Lietuvos Respublikos piliečiai, ne mažiau kaip 3 metus gyvenantys užsienyje, arba užsienio valstybių piliečiai, netekę Lietuvos Respublikos pilietybės. Lietuvių kilmės užsieniečiu laikomas užsienietis, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir pats asmuo pripažįsta save lietuviu.
+
+
+
+
+5. Vyriausybės nustatyta tvarka remiami ir skatinami asmenys, vykdantys ar vykstantys vykdyti lituanistinį švietimą užsienyje. Asmenų pedagoginės veiklos laikotarpis lituanistinio švietimo srityje užsienyje įskaitomas į pedagoginio darbo stažą švietimo ir mokslo ministro nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
  
-
-
 
 
 
@@ -3613,3 +3620,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 53, 56 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25 straipsnio pakeitimo įstatymas
