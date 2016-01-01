@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -507,23 +507,22 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO VALDYMAS IR STRUKTŪRA
 16 straipsnis. Vadovybės apsaugos departamento vadovybė
 
 
-1. Vadovybės apsaugos departamentui vadovauja direktorius. Vadovybės apsaugos departamento direktorių 5 metų kadencijai skiria į pareigas ir atleidžia iš pareigų vidaus reikalų ministras. Tas pats asmuo Vadovybės apsaugos departamento direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pasibaigus Vadovybės apsaugos departamento direktoriaus kadencijai jo rašytiniu sutikimu jis gali būti perkeltas į kitas laisvas pareigas Vadovybės apsaugos departamente.
-Straipsnio dalies pakeitimai:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+1. Vadovybės apsaugos departamentui vadovauja direktorius. Vadovybės apsaugos departamento direktorių vidaus reikalų ministro teikimu 5 metų kadencijai skiria į pareigas ir iš jų atleidžia Vyriausybė. Tas pats asmuo Vadovybės apsaugos departamento direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. 
+
+
+
+
+2. Vadovybės apsaugos departamento direktorius yra tiesiogiai pavaldus vidaus reikalų ministrui ir atskaitingas Vyriausybei.
+
+
+
+
+3. Vadovybės apsaugos departamento direktoriaus pavaduotojus į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Vidaus tarnybos statuto nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1859, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10821
  
-
-
-
-
-2. Vadovybės apsaugos departamento direktorius yra tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
-
-
-
-
-3. Vadovybės apsaugos departamento direktoriaus pavaduotojus direktoriaus teikimu skiria ir atleidžia iš pareigų vidaus reikalų ministras.
- 
-
-
 
 
 
@@ -1278,3 +1277,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 23 ir 24 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 10 ir 12 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1859, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10821
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 16 straipsnio pakeitimo įstatymas
