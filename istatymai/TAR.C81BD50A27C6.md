@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -86,7 +86,10 @@ I skyrius
 
 
 
-4. Uždaroji įstaiga – įstaiga, kurios paslaugos prieinamos tik šio įstatymo nustatytoms gyventojų grupėms.
+4. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
+ 
 
 
 
@@ -1250,12 +1253,18 @@ Nr. XI-1758, 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
 25 straipsnis. Uždarosios biudžetinės įstaigos samprata, jos steigimo ir veiklos ypatumai
 
 
-1. Uždaroji biudžetinė įstaiga yra iš valstybės turto ir biudžeto lėšų įsteigta ir išlaikoma biudžetinė įstaiga, teikianti įstatymuose nurodytoms asmenų grupėms nustatytas paslaugas ir vykdanti sveikatos programas. 
+1. Uždaroji biudžetinė įstaiga yra iš valstybės turto ir biudžeto lėšų įsteigta ir išlaikoma biudžetinė įstaiga, teikianti šio straipsnio 2 dalyje, taip pat kituose įstatymuose nurodytiems asmenims nustatytas paslaugas ir vykdanti sveikatos programas. Įstatymų nustatytais atvejais uždarosiose biudžetinėse įstaigose teikiamos pirminės asmens sveikatos priežiūros paslaugos taip pat gali būti finansuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
+ 
 
 
 
 
-2. Uždarosios biudžetinės įstaigos gali būti steigiamos tik tikrosios tarnybos karių ir kariūnų, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse, skirstymo punktuose, psichikos ligonių, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, nelegalių imigrantų asmens sveikatos priežiūrai. Šios įstaigos taip pat vykdo visuomenės sveikatos priežiūros priemones, įrašytas į Vidaus reikalų ministerijos ar Krašto apsaugos ministerijos ir Sveikatos apsaugos ministerijos patvirtintą sąrašą. 
+2. Uždarosios biudžetinės įstaigos steigiamos tikrosios tarnybos karių ir kariūnų, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse, skirstymo punktuose, psichikos ligonių, padariusių visuomenei pavojingą veiką ir pripažintų nepakaltinamais, nelegalių imigrantų asmens sveikatos priežiūrai. Šios įstaigos taip pat vykdo visuomenės sveikatos priežiūros priemones, įrašytas į vidaus reikalų ministro ar krašto apsaugos ministro ir sveikatos apsaugos ministro patvirtintą sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
+ 
 
 
 
@@ -1265,7 +1274,10 @@ Nr. XI-1758, 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
 
 
 
-4. Uždarųjų biudžetinių įstaigų, steigiamų krašto apsaugos ir vidaus reikalų sistemose, nuostatus tvirtina jų steigėjai, suderinę su Sveikatos apsaugos ministerija.
+4. Uždarųjų biudžetinių įstaigų, steigiamų krašto apsaugos ir vidaus reikalų sistemose, nuostatus tvirtina krašto apsaugos ministras ir vidaus reikalų ministras, suderinę su sveikatos apsaugos ministru.
+Straipsnio dalies pakeitimai:
+Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
+ 
 
 
 
@@ -2429,7 +2441,10 @@ III dalis
 
 
 
-4) Lietuvos medicinos etikos komitetas - asmens sveikatos priežiūros įstaigos teikiamų paslaugų atitikimo medicinos etikos reikalavimams valstybinę kontrolę;
+4) Lietuvos bioetikos komitetas – asmens sveikatos priežiūros įstaigos teikiamų paslaugų atitikties bioetikos reikalavimams valstybinę priežiūrą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1940, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14258
+ 
 
 
 
@@ -2938,3 +2953,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 17, 29, 39 ir 45 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir 25 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1940, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14258
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 52 straipsnio pakeitimo įstatymas
