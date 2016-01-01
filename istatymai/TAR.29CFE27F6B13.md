@@ -13,37 +13,40 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
+Nauja redakcija nuo 2016-01-01:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
-LIETUVOS RESPUBLIKOS KARIUOMENĖS DRAUSMĖS STATUTO PATVIRTINIMO Į S T A T Y M A S  
+LIETUVOS RESPUBLIKOS LIETUVOS KARIUOMENĖS DRAUSMĖS STATUTO PATVIRTINIMO ĮSTATYMAS  
 1999 m. gegužės 20 d. Nr. VIII-1191
 Vilnius
  
-
-
-1 straipsnis. Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimas
-
-
-Patvirtinti Lietuvos Respublikos kariuomenės drausmės statutą (pridedamas).
- 
  
 
 
+1 straipsnis. Lietuvos kariuomenės drausmės statuto patvirtinimas
+
+
+Patvirtinti Lietuvos kariuomenės drausmės statutą (pridedama).
 
 
 
 
+
+
+ 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
  
+
+
  
-
-
 
 
 
@@ -484,7 +487,10 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS UŽTIKRINTI KARIŲ DRAUSMĘ IR ŠIŲ TE
 
 
 
-7. Kario sulaikymas nėra drausminė nuobauda.
+7. Sulaikymo patalpos vidaus tvarkos taisykles tvirtina krašto apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
 
 
 
@@ -1345,7 +1351,10 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 
 
 
-2. Kario laipsnis žeminamas tik vienu laipsniu.
+2. Kario laipsnis žeminamas tik vienu laipsniu ir ne ilgiau kaip trejiems metams. Kario laipsnio pažeminimo terminą nustato vadas (viršininkas), skirdamas drausminę nuobaudą. Ši drausminė nuobauda negali būti skirta kariui, kuris turi tokią pačią galiojančią drausminę nuobaudą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
 
 
 
@@ -1429,7 +1438,10 @@ DRAUSMINIŲ NUOBAUDŲ SKYRIMO IR VYKDYMO TVARKA
 4. Vadų (viršininkų) sprendimus skirti drausminę nuobaudą kontroliuoja aukštesnysis vadas (viršininkas) ir krašto apsaugos generalinis inspektorius. Aukštesnysis vadas (viršininkas) savo iniciatyva arba krašto apsaugos generalinio inspektoriaus teikimu:
 
 
-1) sugriežtina paskirtą drausminę nuobaudą, neviršydamas šio statuto nustatytos sankcijos už padarytą drausmės pažeidimą, jeigu įvertinęs šio straipsnio 7 dalyje nurodytas aplinkybes nusprendžia, kad buvo paskirta aiškiai per švelni drausminė nuobauda. Vadas (viršininkas), skirdamas griežtesnę drausminę nuobaudą, atsižvelgia į kariui paskirtą ir įvykdytą drausminę nuobaudą. Drausminė nuobauda negali būti griežtinama, jeigu nuo jos paskyrimo praėjo daugiau negu 30 dienų;
+1) sugriežtina paskirtą drausminę nuobaudą, neviršydamas šio statuto nustatytos sankcijos už padarytą drausmės pažeidimą, jeigu įvertinęs šio straipsnio 6 dalyje nurodytas aplinkybes nusprendžia, kad buvo paskirta per švelni drausminė nuobauda. Vadas (viršininkas), skirdamas griežtesnę drausminę nuobaudą, atsižvelgia į kariui paskirtą ir įvykdytą drausminę nuobaudą. Drausminė nuobauda negali būti griežtinama, jeigu nuo jos paskyrimo praėjo daugiau negu 30 dienų; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
 
 
 
@@ -1441,7 +1453,10 @@ DRAUSMINIŲ NUOBAUDŲ SKYRIMO IR VYKDYMO TVARKA
 
 
 
-5. Tais atvejais, kai šiame statute už tam tikrą drausmės pažeidimą numatyta konkreti drausminė nuobauda nesuteikia vadui (viršininkui) galimybės rinktis iš kelių alternatyvių drausminių nuobaudų arba kai vadas (viršininkas) nustato, kad skirta per griežta drausminė nuobauda, kario vado (viršininko) arba krašto apsaugos generalinio inspektoriaus teikimu, taip pat paties kario prašymu krašto apsaugos ministras ar Lietuvos kariuomenės vadas, atsižvelgdami į šio straipsnio 6 dalyje nurodytas aplinkybes, turi teisę skirti švelnesnę šio statuto 31 straipsnyje numatytą drausminę nuobaudą. Kai krašto apsaugos ministras ar Lietuvos kariuomenės vadas priima sprendimą skirti švelnesnę drausminę nuobaudą, už tą drausmės pažeidimą anksčiau paskirta drausminė nuobauda laikoma netekusia galios, o ta nuobauda apribotos, atimtos ar suvaržytos kario teisės atkuriamos tiek, kiek drausminė nuobauda švelninama. Drausminė nuobauda negali būti sušvelninama, jeigu nuo jos paskyrimo praėjo daugiau negu 30 dienų.
+5. Tais atvejais, kai šiame statute už tam tikrą drausmės pažeidimą numatyta konkreti drausminė nuobauda nesuteikia vadui (viršininkui) galimybės rinktis iš kelių alternatyvių drausminių nuobaudų arba kai vadas (viršininkas) ar krašto apsaugos generalinis inspektorius nustato, kad skirta per griežta drausminė nuobauda, kario vado (viršininko) arba krašto apsaugos generalinio inspektoriaus teikimu, taip pat paties kario prašymu krašto apsaugos ministras ar Lietuvos kariuomenės vadas, atsižvelgdami į šio straipsnio 6 dalyje nurodytas aplinkybes, turi teisę skirti švelnesnę šio statuto 31 straipsnyje numatytą drausminę nuobaudą. Kai krašto apsaugos ministras ar Lietuvos kariuomenės vadas priima sprendimą skirti švelnesnę drausminę nuobaudą, už tą drausmės pažeidimą anksčiau paskirta drausminė nuobauda laikoma netekusia galios, o ta nuobauda apribotos, atimtos ar suvaržytos kario teisės atkuriamos tiek, kiek drausminė nuobauda švelninama. Drausminė nuobauda negali būti sušvelninama, jeigu nuo jos paskyrimo praėjo daugiau negu 30 dienų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
 
 
 
@@ -1678,31 +1693,19 @@ Bataliono vadas:
 
 
 
-47 straipsnis. Pulko vado teisė skirti drausmines nuobaudas
-
-
-Pulko vadas:
-
-
-1) sumažina tarnybinį atlyginimą kareiviams (jūreiviams), puskarininkiams ir jaunesniesiems karininkams;
-
-
-
-
-2) skiria papeikimą majoro (komandoro leitenanto) laipsnį turintiems karininkams.
+47 straipsnis. Neteko galios nuo 2016-01-01.
+ 
+Straipsnio pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
 
 
 
 
+48 straipsnis. Brigados vado ir savanorių pajėgų vado teisė skirti drausmines nuobaudas
 
 
-
-
-48 straipsnis. Brigados vado teisė skirti drausmines nuobaudas
-
-
-Brigados vadas:
+Brigados vadas arba savanorių pajėgų vadas:
 
 
 1) pažemina kario laipsnį kareiviams (jūreiviams);
@@ -1710,17 +1713,19 @@ Brigados vadas:
 
 
 
-2) sumažina tarnybinį atlyginimą majoro (komandoro leitenanto) laipsnį turintiems karininkams;
+2) sumažina tarnybinį atlyginimą kareiviams (jūreiviams), puskarininkiams, jaunesniesiems karininkams ir majoro (komandoro leitenanto) laipsnį turintiems karininkams;
 
 
 
 
-3) skiria papeikimą pulkininko leitenanto (komandoro) laipsnį turintiems karininkams.
+3) skiria papeikimą majoro (komandoro leitenanto) ir pulkininko leitenanto (komandoro) laipsnį turintiems karininkams.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
-
-
-
-
 
 
 
@@ -1771,10 +1776,10 @@ Brigados vadas:
 
 
 
-50 straipsnis. Kariuomenės pajėgų rūšių vadų arba savanorių pajėgų vado teisė skirti drausmines nuobaudas
+50 straipsnis. Kariuomenės pajėgų rūšių vadų teisė skirti drausmines nuobaudas
 
 
-Kariuomenės pajėgų rūšių vadai arba savanorių pajėgų vadas:
+Kariuomenės pajėgų rūšių vadai:
 
 
 1) pažemina kario laipsnį puskarininkiams;
@@ -1788,11 +1793,13 @@ Kariuomenės pajėgų rūšių vadai arba savanorių pajėgų vadas:
 
 
 3) skiria papeikimą pulkininko (jūrų kapitono) laipsnį turintiems karininkams.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
-
-
-
-
 
 
 
@@ -1881,20 +1888,17 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas – krašt
 55 straipsnis. Drausminių nuobaudų vykdymas
 
 
-1. Su paskirta drausmine nuobauda karys supažindinamas pasirašytinai ne vėliau kaip per tris darbo dienas nuo jos paskyrimo. Jeigu karys atsisako pasirašytinai susipažinti su paskirta drausmine nuobauda, surašoma pažyma, patvirtinanti atsisakymo pasirašyti faktą.
+1. Drausminė nuobauda pradedama vykdyti nuo teisės akto dėl jos skyrimo pasirašymo dienos, jeigu jame nėra nurodyta kita drausminės nuobaudos vykdymo pradžios data. Ne vėliau kaip per 5 darbo dienas nuo teisės akto dėl drausminės nuobaudos skyrimo pasirašymo dienos karys su šiuo aktu supažindinamas pasirašytinai arba jis išsiunčiamas kariui registruotąja pašto siunta. Jeigu dėl objektyvių priežasčių šio statuto 31 straipsnio 1 dalies 2, 3 ir 4 punktuose ir 4 dalies 2, 3 ir 4 punktuose nurodytos drausminės nuobaudos negali būti vykdomos, jų vykdymas sustabdomas ir drausminė nuobauda baigiama vykdyti šioms priežastims išnykus.
 
 
 
 
-2. Drausminė nuobauda pradedama vykyti po to, kai kariui pranešama apie drausminės nuobaudos paskyrimą. Supažindinimas su paskirta drausmine nuobauda ir jos vykdymas gali būti atidėtas tik dėl tarnybinio būtinumo arba nubausto kario ligos, bet ne ilgiau kaip 60 dienų. Jeigu nubaustas karys į tarnybą neatvyksta dėl ligos ir jam negalima pranešti apie drausminės nuobaudos paskyrimą, drausminė nuobauda pradedama vykdyti ir karys supažindinamas su paskirta drausmine nuobauda ne vėliau kaip kitą darbo dieną jam sugrįžus į tarnybą.
+2. Jeigu karys nesutinka su šio statuto nustatyta tvarka paskirta drausmine nuobauda, jis turi teisę apskųsti sprendimą dėl drausminės nuobaudos skyrimo aukštesniajam vadui (viršininkui) arba krašto apsaugos generaliniam inspektoriui. Drausminės nuobaudos apskundimas jos vykdymo nesustabdo.
 
 
-
-
-3. Jeigu karys nesutinka su šio statuto nustatyta tvarka paskirta drausmine nuobauda, jis turi teisę apskųsti sprendimą dėl drausminės nuobaudos skyrimo aukštesniajam vadui (viršininkui) arba krašto apsaugos generaliniam inspektoriui. Drausminės nuobaudos apskundimas jos vykdymo nesustabdo.
+Straipsnio pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
-
-
 
 
 
@@ -1902,45 +1906,47 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas – krašt
 56 straipsnis. Drausminių nuobaudų galiojimas
 
 
-1. Drausminė nuobauda įsigalioja nuo kario supažindinimo su jos paskyrimu momento.
+1. Drausminė nuobauda laikoma galiojančia nuo teisės akto dėl jos skyrimo pasirašymo dienos iki jos galiojimo termino pabaigos. Nustatomas toks drausminių nuobaudų galiojimo terminas:
+
+
+1) papeikimas profesinės karo tarnybos kariui, atsargos kariui ir kariūnui – vieni metai;
 
 
 
 
-2. Drausminė nuobauda laikoma galiojančia tol, kol nesibaigė jos galiojimo laikas. Nustatomas toks drausminių nuobaudų galiojimo laikas:
-
-
-1) papeikimas – vieni metai;
+2) papeikimas privalomosios karo tarnybos kariui – vienas mėnuo;
 
 
 
 
-2) uždraudimas išeiti iš tarnybos vietos, papildomos tarnybos užduotys ir tarnybinio atlyginimo ar stipendijos sumažinimas – iki drausminės nuobaudos įvykdymo termino pabaigos;
-
-
-
-
-3) kario laipsnio (atsargos kario laipsnio) pažeminimas – iki turėto kario laipsnio (atsargos kario laipsnio) grąžinimo Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka.
+3) uždraudimas išeiti iš tarnybos vietos, papildomos tarnybos užduotys ir tarnybinio atlyginimo ar stipendijos sumažinimas, kario laipsnio (atsargos kario laipsnio) pažeminimas – iki drausminės nuobaudos įvykdymo termino pabaigos.
 
 
 
 
 
 
-3. Drausminės nuobaudos galiojimas baigiasi anksčiau, negu nustatyta šio straipsnio 2 dalyje, jeigu panaikinama atsakomybė už veiką, už kurią drausminė nuobauda skirta.
+2. Drausminės nuobaudos galiojimas baigiasi anksčiau, negu nustatyta šio straipsnio 1 dalyje, jeigu panaikinama atsakomybė už veiką, už kurią drausminė nuobauda skirta. 
 
 
 
 
-4. Paskirtos drausminės nuobaudos galiojimo laiką gali sutrumpinti ją paskyręs arba aukštesnysis vadas (viršininkas), jeigu karys pasitaiso ir ilgiau taikyti drausminę nuobaudą netikslinga.
+3. Pasibaigus drausminės nuobaudos – kario laipsnio (atsargos kario laipsnio) pažeminimo – galiojimo terminui, asmuo, turintis Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 55 straipsnyje nurodytą teisę suteikti atitinkamą laipsnį, grąžina kariui turėtą laipsnį. 
+
+
+
+
+4. Paskirtos drausminės nuobaudos galiojimo terminą gali sutrumpinti ją paskyręs arba aukštesnysis vadas (viršininkas), jeigu karys pasitaiso ir ilgiau taikyti drausminę nuobaudą netikslinga.
 
 
 
 
 5. Nepasibaigus drausminės nuobaudos galiojimo terminui, karys neskatinamas ir neapdovanojamas, negali būti paskiriamas į aukštesnes pareigas ir jam negali būti suteikiamas aukštesnis kario laipsnis.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
-
-
 
 
 
@@ -2132,10 +2138,20 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 
 
 
-6) skundas paduotas ne dėl karo tarnybos ginčų.
+6) skundo nagrinėjimas priskiriamas kitos institucijos kompetencijai. 
+Straipsnio punkto pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
 
 
+
+
+
+
+4. Šio straipsnio 3 dalies 6 punkte nurodytu atveju skundas ne vėliau kaip per 5 darbo dienas nuo jo gavimo dienos perduodamas viešojo administravimo subjektui, turinčiam įgaliojimus atitinkamiems skundams nagrinėti, ir apie tai pranešama skundą pateikusiam kariui arba, jeigu nėra kito viešojo administravimo subjekto, kuriam galėtų būti perduodamas skundas nagrinėti pagal kompetenciją, apie tai pranešama skundą pateikusiam kariui.
+Papildyta straipsnio dalimi:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
 
 
 
@@ -2160,12 +2176,25 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 
 
 
-4. Vadams (viršininkams) draudžiama trukdyti pavaldiems kariams duoti skundus, taip pat draudžiama persekioti už skundo pateikimą.
+4. Vadas (viršininkas), gavęs aukštesniojo vado (viršininko) sprendimą, nurodytą šio statuto 64 straipsnio 2 dalyje, per 5 darbo dienas nuo sprendimo gavimo dienos skiria tarnybinį patikrinimą ir nustato jo atlikimo terminą, laikydamasis šio statuto 28 straipsnio 1 ir 2 dalyse nustatytų terminų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
 
 
 
 
-5. Vadams (viršininkams) draudžiama persiųsti skundą nagrinėti vadui (viršininkui), kurio veiksmai yra skundžiami.
+5. Vadams (viršininkams) draudžiama trukdyti pavaldiems kariams duoti skundus, persekioti už skundo pateikimą, pakartotinai skirti tarnybinį patikrinimą dėl drausmės pažeidimo, kuris jau buvo tirtas, išskyrus atvejį, kai priimamas sprendimas, nurodytas šio statuto 64 straipsnio 2 dalyje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
+
+
+
+
+6. Vadams (viršininkams) draudžiama persiųsti skundą nagrinėti vadui (viršininkui), kurio veiksmai yra skundžiami.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
 
 
@@ -2191,7 +2220,17 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 
 
 
-4. Krašto apsaugos generaliniam inspektoriui draudžiama persiųsti nagrinėti skundą vadui (viršininkui), kurio veiksmai yra skundžiami.
+4. Vadas (viršininkas), gavęs krašto apsaugos generalinio inspektoriaus sprendimą, nurodytą šio statuto 64 straipsnio 2 dalyje, per 5 darbo dienas nuo sprendimo gavimo dienos skiria tarnybinį patikrinimą ir nustato jo atlikimo terminą, laikydamasis šio statuto 28 straipsnio 1 ir 2 dalyse nustatytų terminų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+ 
+
+
+
+
+5. Krašto apsaugos generaliniam inspektoriui draudžiama persiųsti nagrinėti skundą vadui (viršininkui), kurio veiksmai yra skundžiami.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
 
 
@@ -2202,20 +2241,32 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 64 straipsnis. Sprendimų rūšys
 
 
-Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, išnagrinėję skundą, priima vieną iš šių sprendimų:
+1. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, išnagrinėję skundą, priima vieną iš šių sprendimų:
 
 
-1) atmesti skundą kaip nepagrįstą;
+1) patenkinti kario skundą;
 
 
 
 
-2) patenkinti skundą ir pašalinti kario teisių pažeidimą.
+2) patenkinti kario skundą iš dalies;
+
+
+
+
+3) atmesti kario skundą.
+
+
+
+
+
+
+2. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, priėmę šio straipsnio 1 dalies 1 ar 2 punkte nurodytą sprendimą, turi teisę grąžinti tarnybinio patikrinimo medžiagą ir išvadą tyrimui papildyti.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
  
-
-
-
-
 
 
 
@@ -2800,3 +2851,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto 52 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-971, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10013
 Lietuvos Respublikos kariuomenės drausmės statuto 42 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
