@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -159,7 +159,78 @@ Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 
 
-14. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę; didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą; vaistinių preparatų lygiagretų importą ir lygiagretų platinimą; vaistinių preparatų pardavimą ar išdavimą galutiniams vartotojams; farmacinės informacijos apie vaistinius preparatus teikimą.
+131. Farmacinė rūpyba – vaistininko farmacinės veiklos dalis, apimanti: 
+
+
+1) gyventojų, kuriems paskirtas gydymas vaistais, individualias konsultacijas siekiant nustatyti ir, bendradarbiaujant su gydytoju, išspręsti su vaistinių preparatų vartojimu susijusias problemas; 
+
+
+
+
+2) Lietuvos Respublikos sveikatos apsaugos ministro nustatytas paslaugas vykdant lėtinių ligų valdymo programas; 
+
+
+
+
+3) tikslinį gyventojų informavimą apie galimybę dalyvauti prevencinėse programose; 
+
+
+
+
+4) dalyvavimą sveikatinimo ir sveikatos profilaktinėse programose ir kitas susijusias Lietuvos Respublikos sveikatos apsaugos ministro nustatytas papildomas paslaugas, teikiamas vaistinėse. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
+
+
+
+
+14. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, apimanti: 
+
+
+1) vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę; 
+
+
+
+
+2) didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą; 
+
+
+
+
+3) vaistinių preparatų lygiagretų importą ir lygiagretų platinimą; 
+
+
+
+
+4) vaistinių preparatų pardavimą ar išdavimą galutiniams vartotojams; 
+
+
+
+
+5) farmacinių paslaugų teikimą; 
+
+
+
+
+6) farmacinę rūpybą; 
+
+
+
+
+7) ekstemporalių vaistinių preparatų gamybą, kokybės kontrolę; 
+
+
+
+
+8) farmacinės informacijos apie vaistinius preparatus teikimą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
 
 
 
@@ -429,7 +500,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-51. Vaistinė – juridinis asmuo, vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporalių vaistinių preparatų gamybą, kokybės kontrolę. Šiame įstatyme sąvoka „vaistinė“ neapima veterinarijos vaistinių.
+51. Vaistinė – juridinis asmuo, vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporalių vaistinių preparatų gamybą, kokybės kontrolę, farmacinę rūpybą. Šiame įstatyme vartojama sąvoka „vaistinė“ neapima veterinarijos vaistinių.
+Straipsnio dalies pakeitimai:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
 
 
 
@@ -1029,7 +1103,15 @@ Nr. XI-2017, 2012-05-15, Žin., 2012, Nr. 63-3161 (2012-06-05)
 
 
 
-8) užsiimti kita Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme vaistininko profesinę kvalifikaciją turinčiam asmeniui nustatyta veikla.
+8) užsiimti kita Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme vaistininko profesinę kvalifikaciją turinčiam asmeniui nustatyta veikla;
+
+
+
+
+9) teikti farmacinės rūpybos paslaugas, jeigu jis atitinka sveikatos apsaugos ministro nustatytus reikalavimus.
+Papildyta straipsnio punktu:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
 
 
 
@@ -3623,6 +3705,30 @@ Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 18. Juridinio asmens, vykdančio visuomenės vaistinės, visuomenės gamybinės vaistinės veiklą, registruotame pavadinime turi būti žodis „vaistinė(-ės)“. Juridiniai asmenys, nevykdantys vaistinės veiklos, neturi teisės savo pavadinime vartoti žodžio „vaistinė“ ar jo vertimo į kitą kalbą.
 
 
+
+
+19. Farmacinės rūpybos paslaugos sveikatos apsaugos ministro nustatyta tvarka gali būti teikiamos vaistinėse, atitinkančiose sveikatos apsaugos ministro nustatytus reikalavimus. 
+Papildyta straipsnio dalimi:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
+
+
+
+
+20. Vaistinė, prieš pradėdama teikti farmacinės rūpybos paslaugas, apie tai ne vėliau kaip prieš 14 darbo dienų turi pranešti Valstybinei vaistų kontrolės tarnybai, pateikdama sveikatos apsaugos ministro nustatytos formos pranešimą. 
+Papildyta straipsnio dalimi:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
+
+
+
+
+21. Valstybinė vaistų kontrolės tarnyba savo interneto svetainėje skelbia sveikatos apsaugos ministro nustatytą informaciją apie vaistines, teikiančias farmacinės rūpybos paslaugas.
+Papildyta straipsnio dalimi:
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05), atitaisymas skelbtas: Žin., 2010, Nr. 3
 Nr. XI-2017, 2012-05-15, Žin., 2012, Nr. 63-3161 (2012-06-05)
@@ -4927,24 +5033,76 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-58 straipsnis. Vaistinių preparatų įrašymas į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus
+58 straipsnis. Vaistinių preparatų,  ligų ir medicinos pagalbos priemonių įrašymas į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus
 
 
-1. Vaistiniai preparatai, ligos ir medicinos pagalbos priemonės į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų ir Kompensuojamųjų medicinos pagalbos priemonių sąrašus įrašomi sveikatos apsaugos ministro nustatyta tvarka.
-
-
-
-
-2. Pareiškėjas, siekdamas įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, sveikatos apsaugos ministro nustatyta tvarka pateikia Sveikatos apsaugos ministerijai paraišką ir dokumentus. Paraiškos nagrinėjamos sveikatos apsaugos ministro nustatyta tvarka.
+1. Vaistiniai preparatai, ligos ir medicinos pagalbos priemonės į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus įrašomi sveikatos apsaugos ministro vadovaujantis šiame straipsnyje nurodytais reikalavimais nustatyta tvarka.
 
 
 
 
-3. Sprendimas dėl vaistinio preparato, ligos ar medicinos pagalbos priemonės įrašymo į šio straipsnio 1 dalyje nurodytus sąrašus ir jų kainos priimamas ne vėliau kaip per 180 dienų nuo paraiškos įregistravimo Sveikatos apsaugos ministerijoje dienos. Kai priimamas sprendimas, turi būti nurodomos objektyviais ir patikrinamais kriterijais pagrįstos tokio sprendimo priežastys.
+2. Pareiškėjas, siekdamas įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, sveikatos apsaugos ministro nustatyta tvarka pateikia Sveikatos apsaugos ministerijai paraišką ir dokumentus. Paraiškos ir dokumentai nagrinėjami sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+3. Paraiškoms ir dokumentams nagrinėti bei siūlymams dėl vaistinių preparatų, ligų ar medicinos pagalbos priemonių įrašymo ar neįrašymo į šio straipsnio 1 dalyje nurodytus sąrašus, taip pat dėl jų kompensavimo sąlygų nustatymo teikti sveikatos apsaugos ministras sudaro nuolatinę komisiją (toliau šiame straipsnyje – komisija) iš ne mažiau kaip 3 Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos ir (ar) viena kitai bei šioms ministerijoms nepavaldžių institucijų atstovų ir ne mažiau kaip 3 skirtingų nevyriausybinių organizacijų ir (ar) asociacijų (pacientų, akademinės bendruomenės narių ir kt.) atstovų, atitinkančių sveikatos apsaugos ministro nustatytus kvalifikacijos ir patirties reikalavimus, ir paskiria komisijos pirmininką. Komisijos nariais negali būti asmenys, tarpusavyje susiję tiesioginio pavaldumo santykiais.
+
+
+
+
+4. Komisijos nariai skiriami 2 metų laikotarpiui. Pasibaigus 2 metų laikotarpiui, tas pats komisijos narys negali būti skiriamas komisijos nariu naujai kadencijai. 
+
+
+
+
+5. Komisija privalo rinktis į posėdžius ne rečiau kaip du kartus per mėnesį. Komisijos sprendimai priimami visų komisijos narių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia komisijos pirmininko balsas. Komisijos narių teises ir pareigas, komisijos funkcijas ir darbo organizavimo tvarką pagal šiame straipsnyje nustatytus reikalavimus nustato sveikatos apsaugos ministras.
+
+
+
+
+6.  Komisijos posėdyje, prieš priimant sprendimą siūlyti įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, nustatant jų kompensavimo sąlygas, ar jų neįrašyti, sveikatos apsaugos ministro nustatyta tvarka turi būti sudarytos galimybės dalyvauti ir pateikti savo paaiškinimus pareiškėjui. Sprendime turi būti išsamiai nurodyti tokio sprendimo priėmimo argumentai ir motyvai, sprendimo apskundimo tvarka ir terminai. Ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas tokio sprendimo priežastis.
+
+
+
+
+7. Jeigu pareiškėjas nesutinka su komisijos priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro nustatyta tvarka. Skundams dėl komisijos priimtų sprendimų nagrinėti sveikatos apsaugos ministras sudaro nuolatinę Apeliacinę komisiją ir paskiria šios komisijos pirmininką. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka  išnagrinėjusi pareiškėjo skundą, gali priimti šiuos sprendimus:
+
+
+1) patenkinti skundą ir siūlyti sveikatos apsaugos ministrui pavesti komisijai pakartotinai svarstyti paraišką, įvertinant Apeliacinės komisijos nurodytus trūkumus;
+
+
+
+
+2) atmesti skundą.
+
+
+
+
+
+
+8. Apeliacinės komisijos sudėčiai ir jos narių skyrimui taikomi šio straipsnio 3 ir 4 dalyse nustatyti reikalavimai. Apeliacinės komisijos nariu taip pat negali būti skiriamas šio straipsnio 3 dalyje nurodytos komisijos narys. Komisijos ir Apeliacinės komisijos nariai negali būti tarpusavyje susiję tiesioginio pavaldumo santykiais. Apeliacinės komisijos funkcijas ir darbo organizavimo tvarką pagal šiame straipsnyje nustatytus reikalavimus nustato sveikatos apsaugos ministras.
+
+
+
+
+9. Komisijos ir Apeliacinės komisijos posėdžiai protokoluojami ir daromi šių posėdžių garso įrašai. Komisijos ir Apeliacinės komisijos posėdžių protokolai, išskyrus konfidencialią informaciją, paskelbiami Sveikatos apsaugos ministerijos interneto svetainėje ne vėliau kaip per 5 darbo dienas nuo posėdžio dienos. Pareiškėjų pageidavimu jiems turi būti sudaryta galimybė susipažinti su komisijos ir Apeliacinės komisijos posėdžių garso įrašais sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+10. Komisijos ir Apeliacinės komisijos nariai, nevykdę ar netinkamai vykdę šiame įstatyme ir kituose teisės aktuose jiems nustatytas pareigas, šalinami iš komisijos sveikatos apsaugos ministro nustatyta tvarka ir atsako įstatymų nustatyta tvarka. Jeigu komisijos narys yra valstybės tarnautojas, apie jo pareigų nevykdymą ar netinkamą vykdymą informuojamas institucijos ar įstaigos vadovas. 
+
+
+
+
+11. Sveikatos apsaugos ministro sprendimas dėl vaistinio preparato, ligos ar medicinos pagalbos priemonės įrašymo ar neįrašymo į šio straipsnio 1 dalyje nurodytus sąrašus ir jų kompensavimo sąlygų nustatymo priimamas ne vėliau kaip per 180 dienų nuo paraiškos įregistravimo Sveikatos apsaugos ministerijoje dienos.
 
 
 Straipsnio pakeitimai:
 Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
+Straipsnio pakeitimai:
+Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
  
 
 
@@ -4968,7 +5126,10 @@ Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
 
 
 
-4. Jeigu priimamas neigiamas sprendimas, ne vėliau kaip per 14 dienų nuo tokio sprendimo priėmimo dienos pareiškėjas informuojamas raštu ir nurodomos objektyviais ir patikrinamais kriterijais pagrįstos tokio sprendimo priežastys. Jeigu per šio straipsnio 3 dalyje numatytą laiką sprendimas dėl kainos nustatymo ir (ar) padidinimo nėra priimamas, pareiškėjo siūloma vaistinio preparato kaina įrašoma į artimiausią Kompensuojamųjų vaistinių preparatų kainyną ar jo papildymą.
+4. Jeigu priimamas neigiamas sprendimas, ne vėliau kaip per 14 dienų nuo tokio sprendimo priėmimo dienos pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas tokio sprendimo priežastis. Jeigu per šio straipsnio 3 dalyje numatytą laiką sprendimas dėl kainos nustatymo ir (ar) padidinimo nepriimamas, pareiškėjo siūloma vaistinio preparato kaina įrašoma į artimiausią Kompensuojamųjų vaistinių preparatų kainyną ar jo papildymą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
+ 
 
 
 Straipsnio pakeitimai:
@@ -5017,6 +5178,119 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 Įstatymas papildytas straipsniu:
 Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
+ 
+
+
+
+
+592 straipsnis. Vaistinių preparatų, medicinos pagalbos priemonių ir (ar) asmens sveikatos priežiūros paslaugų, skirtų labai retoms žmogaus sveikatos būklėms gydyti, įsigijimo išlaidų kompensavimas
+
+
+1. Labai reta (ne daugiau kaip vienas naujai diagnozuotas atvejis 200 000 Lietuvos Respublikos gyventojų per metus) žmogaus sveikatos būkle (toliau – labai reta būklė) laikoma gyvybei gresiantis ir (ar) žymų nuolatinį neįgalumą sukeliantis sveikatos sutrikimas, kuriam gali būti taikomas efektyvus etiologinį veiksnį (veiksnys, lemiantis ligos atsiradimą) ar patogenezinį veiksnį (veiksnys, lemiantis klinikinę ligos eigą) veikiantis gydymo būdas, kurio išlaidos šiai labai retai būklei gydyti kitais būdais nekompensuojamos, galintis pailginti paciento išgyvenamumą ir (ar) sumažinti neįgalumą (ar neleisti neįgalumui didėti). Labai retos būklės atvejų skaičius nustatomas remiantis Lietuvos Respublikos teisės aktuose numatytų registrų ir (ar) elektroninių stebėsenos sistemų duomenimis, o tais atvejais, kai tokių duomenų nėra ar jie netikslūs, vadovaujantis tarptautine moksline literatūra, kiek tai įmanoma atsižvelgiant į Lietuvos ypatumus. Labai retos būklės atvejų skaičiaus įvertinimo tvarką nustato sveikatos apsaugos ministras. Nustatant konkrečios labai retos būklės atvejų skaičių, atsižvelgiama į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos nuomonę.
+
+
+
+
+2. Vaistinio preparato, medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos išlaidos kompensuojamos šiame straipsnyje nustatyta tvarka, kai:
+
+
+1) labai retoms būklėms gydyti išlaidų kompensavimo komisija (toliau – Komisija) priima sprendimą konkrečiam pacientui kompensuoti vaistinio preparato, medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos išlaidas;
+
+
+
+
+2) vaistinis preparatas, medicinos pagalbos priemonė ir (ar) asmens sveikatos priežiūros paslauga konkrečiai labai retai būklei gydyti Komisijos teikimu yra įtraukti į teisės aktais numatytus išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus.
+
+
+
+
+
+
+3. Komisija sudaroma sveikatos apsaugos ministro įsakymu. Komisiją sudaro 5 asmenys, iš jų bent 2 asmenys turi būti praktikuojantys universiteto ligoninės asmens sveikatos priežiūros specialistai. Komisijos sudėties, komisijos narių kvalifikacijos, patirties reikalavimus ir veiklos reglamentą nustato sveikatos apsaugos ministras. Komisijos posėdžiai vyksta ne rečiau kaip kartą per mėnesį. Skubiais atvejais, kai pacientą būtina nedelsiant gydyti, Komisija į posėdį renkasi nedelsdama, gavusi prašymą.
+
+
+
+
+4. Priimdama sprendimą kompensuoti gydymo išlaidas konkrečiam pacientui ar teikti labai retai būklei gydyti skirtą vaistinį preparatą, medicinos pagalbos priemonę ir (ar) asmens sveikatos priežiūros paslaugą įtraukti į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus, Komisija remiasi tik jų terapine nauda, naujoviškumu ir įtaka Privalomojo sveikatos draudimo fondo biudžetui. Terapinė nauda ir naujoviškumas nustatomi remiantis Lietuvos Respublikos vaistinių preparatų registro arba Bendrijos vaistinių preparatų registro informacija, klinikinių tyrimų duomenimis, nepriklausomų institucijų vertinimu, atitinkamos srities asmens sveikatos priežiūros specialistus vienijančių organizacijų rekomendacijomis ir kita reikšminga medicinine informacija. Komisija atsižvelgia į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos atliktą terapinės naudos ir naujoviškumo įvertinimą. Prireikus į Komisijos posėdžius kviečiami atitinkamos srities sveikatos priežiūros specialistai ekspertai. Komisijos sprendimas turi būti išsamiai argumentuotas. Terapinės naudos, naujoviškumo ir įtakos Privalomojo sveikatos draudimo fondo biudžetui nustatymo bei sprendimų priėmimo tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+5. Sveikatos apsaugos ministro nustatyta tvarka Komisija priima sprendimus:
+
+
+1) teikti arba neteikti sveikatos apsaugos ministrui labai retai būklei gydyti skirtą vaistinį preparatą, medicinos pagalbos priemonę ir (ar) asmens sveikatos priežiūros paslaugą įtraukti į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus;
+
+
+
+
+2) visiškai arba iš dalies (nustatydama kompensuojamą išlaidų dalį) kompensuoti vaistinio preparato, medicinos pagalbos priemonės įsigijimo ir (ar) asmens sveikatos priežiūros paslaugos suteikimo išlaidas konkrečiam pacientui arba jų nekompensuoti.
+
+
+
+
+
+
+6. Prašymą dėl konkrečios labai retos būklės gydymo įtraukimo į teisės aktais numatytus išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus pateikia universiteto ligoninė arba Lietuvos Respublikos atitinkamos srities asmens sveikatos priežiūros specialistus vienijanti organizacija. Komisija sprendimą dėl labai retos būklės ir jos gydymo išlaidų įtraukimo į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus priima ir teikia sveikatos apsaugos ministrui ne vėliau kaip per 40 darbo dienų nuo prašymo pateikimo dienos. Komisija skelbia sprendimą ir išsamius jo argumentus Sveikatos apsaugos ministerijos interneto svetainėje ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos.
+
+
+
+
+7. Prašymą dėl konkretaus paciento, kuriam nustatyta labai reta būklė, gydymo išlaidų kompensavimo Komisijai pateikia pacientą gydanti atitinkamos srities tretinės asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Komisija sprendimą dėl konkretaus paciento gydymo išlaidų kompensavimo priima ne vėliau kaip per 10 darbo dienų, o skubiais atvejais, kai pacientą būtina nedelsiant gydyti, – ne vėliau kaip kitą darbo dieną nuo prašymo pateikimo dienos. Kai trūksta duomenų sprendimui priimti, Komisija skiria ekspertizę ir sprendimą priima ne vėliau kaip per 30 darbo dienų nuo prašymo pateikimo dienos (bet ne vėliau, negu leidžia paciento būklė). Priėmusi sprendimą, Komisija per 3 darbo dienas nuo jo priėmimo:
+
+
+1) raštu pateikia argumentuotą sprendimą prašymą pateikusiai asmens sveikatos priežiūros įstaigai. Skubiais atvejais argumentuotas sprendimas pateikiamas ne vėliau kaip kitą darbo dieną;
+
+
+
+
+2) skelbia posėdžių protokolus, išskyrus konfidencialią informaciją, Sveikatos apsaugos ministerijos interneto svetainėje;
+
+
+
+
+3) nurodo Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa) išduoti garantinį raštą visiškai ar iš dalies (nurodydama kompensuojamą išlaidų dalį) kompensuoti vaistinio preparato,  medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos suteikimo išlaidas. Skubiais atvejais nurodymas pateikiamas ne vėliau kaip kitą darbo dieną. Valstybinė ligonių kasa per 3 darbo dienas, o skubiais atvejais – ne vėliau kaip kitą darbo dieną nuo Komisijos sprendimo išsiuntimo dienos asmens sveikatos priežiūros įstaigai išduoda garantinį raštą.
+
+
+
+
+
+
+8. Kai sveikatos apsaugos ministras Komisijos teikimu yra įtraukęs vaistinį preparatą ir (ar) medicinos pagalbos priemonę į išlaidų kompensavimo sąrašus ir (ar) yra nustatęs asmens sveikatos priežiūros paslaugos labai retai būklei gydyti apmokėjimo tvarką, Valstybinė ligonių kasa per 3 darbo dienas, o skubiais atvejais – ne vėliau kaip kitą darbo dieną nuo prašymo pateikimo dienos išduoda garantinį raštą kompensuoti vaistinio preparato,  medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos suteikimo išlaidas pacientą gydančiai tretinės atitinkamos srities asmens sveikatos priežiūros paslaugas teikiančiai asmens sveikatos priežiūros įstaigai, pateikusiai prašymą.
+
+
+
+
+9. Jeigu pareiškėjas nesutinka su Komisijos priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro nustatyta tvarka. Skundams dėl Komisijos priimtų sprendimų nagrinėti sveikatos apsaugos ministras sudaro nuolatinę Apeliacinę komisiją ir paskiria šios komisijos pirmininką. Apeliacinės komisijos funkcijas, jos sudarymo ir darbo organizavimo tvarką nustato sveikatos apsaugos ministras. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka  išnagrinėjusi pareiškėjo skundą, ne vėliau kaip per 20 darbo dienų priima vieną iš šių sprendimų:
+
+
+1) patenkinti skundą ir pavesti Komisijai pakartotinai svarstyti prašymą, įvertinant Apeliacinės komisijos nurodytus trūkumus;
+
+
+
+
+2) atmesti skundą.
+
+
+
+
+
+
+10. Apeliacinės komisijos sprendimai gali būti skundžiami  apygardos administraciniam teismui. Apeliacinės komisijos sprendimų apskundimui ir nagrinėjimui mutatis mutandis taikomos Administracinių bylų teisenos įstatymo nuostatos dėl išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų apskundimo ir nagrinėjimo.
+
+
+
+
+11. Šiame straipsnyje nurodytų vaistinių preparatų, medicinos pagalbos priemonių ir (ar) asmens sveikatos priežiūros paslaugų įsigijimo išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
+
+
+
+
+12. Šis straipsnis neapima sprendimų dėl vaistinių preparatų, medicinos pagalbos priemonių ir (ar) asmens sveikatos priežiūros paslaugų išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto lėšų nenumatytais atvejais, tai yra susidarius situacijoms, susijusioms su tam tikromis aplinkybėmis, kurių nebuvo galima numatyti (išskyrus būtinąją pagalbą), priėmimo sąlygų ir tvarkos. Tokie sprendimai priimami sveikatos apsaugos ministro nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
  
 
 
@@ -6537,3 +6811,13 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 36 ir 39 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 10, 35 straipsnių ir Įstatymo priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 7 ir 35 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 58, 59 straipsnių pakeitimo ir Įstatymo papildymo 59-2 straipsniu įstatymas
