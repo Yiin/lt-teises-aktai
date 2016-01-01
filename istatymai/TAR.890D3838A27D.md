@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2008-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -61,7 +61,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Mirties faktas – faktas, nustatomas negrįžtamai nutrūkus žmogaus kraujotakai ir kvėpavimui arba įvykus žmogaus smegenų mirčiai.
+4. Mirties faktas – faktas, konstatuojamas pagal šio Įstatymo nuostatas nustačius negrįžtamai nutrūkusią žmogaus kraujotaką ir kvėpavimą arba smegenų mirtį. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
+ 
 
 
 
@@ -72,11 +75,6 @@ BENDROSIOS NUOSTATOS
 
 
 6. Mirtis – negrįžtama žmogaus organizmo, kaip visumos, žūtis.
-
-
-
-
-7. Smegenų mirtis – negrįžtama visų žmogaus galvos smegenų struktūrų veiklos baigtis, nors kai kurie jo organai bei organų sistemos dar veikia.
  
 
 
@@ -158,76 +156,99 @@ Asmens mirties faktą nustato:
 
 
 
-5 straipsnis. Negrįžtamo kraujotakos ir kvėpavimo nutrūkimo nustatymas 
+5 straipsnis. Negrįžtamo žmogaus kraujotakos ir kvėpavimo nutrūkimo nustatymo sąlygos ir tvarka
 
 
-1. Negrįžtamai nutrūkusi kraujotaka ir kvėpavimas yra nustatomi esant neabejotiniems mirties požymiams. Jei nėra neabejotinų mirties požymių, negrįžtamai nutrūkusi kraujotaka ir kvėpavimas vertinami pagal gaivinamojo kardiovaskulinės sistemos atsaką į gaivinimo veiksmus. 
+1. Negrįžtamai nutrūkusi žmogaus kraujotaka ir kvėpavimas yra nustatomi, kai yra bent viena iš šių sąlygų:
+
+
+1) yra neabejotinų mirties požymių;
 
 
 
 
-2. Neabejotinų mirties požymių sąrašą bei gaivinimo standartus nustato Sveikatos apsaugos ministerija.
+2) jeigu nėra neabejotinų mirties požymių, – nesant gaivinamojo kardiovaskulinės sistemos atsako į gaivinimo veiksmus.
+
+
+
+
+
+
+2. Neabejotinų mirties požymių sąrašą ir gaivinimo standartus nustato sveikatos apsaugos ministras.
+
+
+
+
+3. Nustatant negrįžtamą žmogaus kraujotakos ir kvėpavimo nutrūkimą, neturi teisės dalyvauti gydytojai, atliekantys transplantacijas, ir kiti mirštančiojo organų ir (ar) audinių transplantavimu suinteresuoti asmenys.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
 
 
 
 
-
-
-6 straipsnis. Smegenų mirties nustatymas
-
-
-1. Smegenų mirtis nustatoma pagrįstais tyrimų metodais įrodžius, jog visų žmogaus galvos smegenų struktūrų veikla yra negrįžtamai nutrūkusi, o žmogaus kraujotaka ir kvėpavimas išlieka tik palaikomi dirbtinių priemonių.
-
-
-
-
-2. Negrįžtamai nutrūkusios visų žmogaus galvos smegenų struktūrų veiklos kriterijus, jų nustatymo metodiką tvirtina Sveikatos apsaugos ministerija.
+6 straipsnis. Neteko galios nuo 2016-01-01
+Straipsnio naikinimas:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
 
 
 
 
+7 straipsnis. Smegenų mirties nustatymo sąlygos ir tvarka
 
 
-7 straipsnis. Smegenų mirties nustatymo sąlygos ir tvarka 
-
-
-1. Smegenų mirtis nustatoma tik stacionarinėje asmens sveikatos priežiūros įstaigoje.
-
-
-
-
-2. Smegenų mirtį nustato konsiliumas iš ne mažiau kaip trijų gydytojų, iš kurių vienas turi būti neurologas arba neurochirurgas.
+1. Smegenų mirtis nustatoma sveikatos apsaugos ministro patvirtintais tyrimų metodais įrodžius, kad visų žmogaus galvos smegenų veikla yra negrįžtamai nutrūkusi.
 
 
 
 
-3. Nustatant smegenų mirtį, neturi teisės dalyvauti chirurgai transplantologai ir kiti asmenys, dėl kokios nors priežasties suinteresuoti mirštančiojo organų bei audinių transplantavimu arba nors kiek su transplantavimu susiję.
+2. Smegenų mirtis nustatoma, kai yra abi šios sąlygos:
+
+
+1) smegenų mirtis nustatoma stacionarinėje asmens sveikatos priežiūros įstaigoje;
+
+
+
+
+2) smegenų mirtį nustato konsiliumas iš ne mažiau kaip trijų gydytojų, iš kurių vienas turi būti neurologas ar vaikų neurologas arba neurochirurgas.
+
+
+
+
+
+
+3. Nustatant smegenų mirtį, neturi teisės dalyvauti gydytojai, atliekantys transplantacijas, ir kiti mirštančiojo organų ir (ar) audinių transplantavimu suinteresuoti asmenys.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
 
 
 
 
+8 straipsnis. Mirties fakto nustatymo pasekmės
 
 
-8 straipsnis. Smegenų mirties nustatymo pasekmės
-
-
-1. Nustačius smegenų mirtį, visos žmogui taikomos medicinos pagalbos priemonės nutraukiamos, jei mirusiojo organų bei audinių nenumatoma panaudoti transplantacijai.
-
-
-
-
-2. Apie asmens, kurio audiniai ir (ar) organai gali būti panaudoti transplantacijai, smegenų mirties faktą turi būti pranešama Nacionaliniam organų transplantacijos biurui.
+1. Nustačius mirties faktą, visos žmogui taikomos medicinos pagalbos priemonės nutraukiamos, jeigu mirusiojo organų ir (ar) audinių nenumatoma panaudoti transplantacijai.
 
 
 
 
-3. Jei mirusiojo organus bei audinius numatoma panaudoti transplantacijai, leidžiama jam taikyti tik tas medicinos pagalbos priemones, kuriomis stengiamasi užtikrinti organų bei audinių tinkamumą persodinti į kito žmogaus kūną.
+2. Apie asmens, kurio audiniai ir (ar) organai gali būti panaudoti transplantacijai, mirties faktą turi būti pranešama Nacionaliniam transplantacijos biurui prie Sveikatos apsaugos ministerijos.
+
+
+
+
+3. Jeigu mirusiojo organus ir (ar) audinius numatoma panaudoti transplantacijai, leidžiama jam taikyti tik tas medicinos pagalbos priemones, kuriomis stengiamasi užtikrinti organų, audinių tinkamumą persodinti į kito žmogaus kūną.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
-
-
 
 
 
@@ -247,7 +268,9 @@ KRITINĘ BŪKLĘ IR MIRTĮ NUSTATANČIŲ ASMENŲ TEISĖS IR PAREIGOS
 
 
 
-2. Sveikatos priežiūros ir farmacijos specialistų kompetenciją teikti pirmąją medicinos pagalbą nustato Sveikatos apsaugos ministerija. Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojų bei transporto priemonių vairuotojų mėgėjų, buvusių kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalančių suteikti jiems pirmąją pagalbą, taip pat įstatymų nustatytų kitų asmenų kompetenciją šiais klausimais nustato Vyriausybė.
+2. Sveikatos priežiūros ir farmacijos specialistų kompetenciją teikti pirmąją medicinos pagalbą nustato sveikatos apsaugos ministras. Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojų bei transporto priemonių vairuotojų mėgėjų, buvusių kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalančių suteikti jiems pirmąją pagalbą, taip pat įstatymų nustatytų kitų asmenų kompetenciją šiais klausimais nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
 
 
@@ -448,7 +471,9 @@ MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
 
 
 
-5. Medicininio mirties liudijimo išdavimo tvarką nustato Sveikatos apsaugos ministerija.
+5. Medicininio mirties liudijimo išdavimo tvarką nustato sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
 
 
@@ -519,7 +544,9 @@ MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
 
 
 
-5. Medicininio mirties liudijimo formą nustato Sveikatos apsaugos ministerija.
+5. Medicininio mirties liudijimo formą nustato sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
 
 
@@ -530,7 +557,10 @@ MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
 15 straipsnis. Medicininio mirties liudijimo išdavimas
 
 
-1. Medicininį mirties liudijimą išduoda asmens sveikatos priežiūros įstaigos. Jis išduodamas asmenims, pateikusiems asmens dokumentus ir pasirašiusiems liudijimo dalį. Pasirašyta liudijimo dalis saugoma liudijimą išdavusioje įstaigoje Sveikatos apsaugos ministerijos nustatyta tvarka.
+1. Medicininį mirties liudijimą išduoda asmens sveikatos priežiūros įstaigos. Jis išduodamas asmenims, pateikusiems asmens dokumentus ir pasirašiusiems liudijimo dalį. Pasirašyta liudijimo dalis saugoma liudijimą išdavusioje įstaigoje sveikatos apsaugos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
+ 
 
 
 
@@ -586,10 +616,12 @@ BAIGIAMOSIOS NUOSTATOS
 16 straipsnis. Gydytojų konsiliumo sudarymas
 
 
-Smegenų mirčiai nustatyti bei kitiems šiame Įstatyme numatytiems klausimams spręsti gydytojų konsiliumo sudarymo, sprendimų priėmimo ir įforminimo tvarką nustato Sveikatos apsaugos ministerija.
+Smegenų mirčiai nustatyti ir kitiems šiame Įstatyme numatytiems klausimams spręsti gydytojų konsiliumo sudarymo, sprendimų priėmimo ir įforminimo tvarką nustato sveikatos apsaugos ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
  
-
-
 
 
 
@@ -633,3 +665,8 @@ Lietuvos Respublikos žmogaus mirties registravimo ir kritinių būklių įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1564, 2008-06-03, Žin., 2008, Nr. 68-2567 (2008-06-14), i. k. 1081010ISTA00X-1564
 Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo papildymo 15(1) straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 2, 5, 7, 8, 9, 13, 14, 15, 16 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
