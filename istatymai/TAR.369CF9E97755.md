@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2015-07-15 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
  
@@ -223,68 +223,107 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka 
 
 
-1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina, dublikatą išduoda ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau – Taisyklės). 
+1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako jas išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina, popierinės formos licencijos dublikatą išduoda ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau – Taisyklės).
 
 
 
 
-2. Licencija išduodama asmeniui, pateikusiam Licencijavimo institucijai Taisyklėse nurodytus dokumentus (toliau – dokumentai).
+2. Bendrosios praktikos slaugytojas ar akušeris, siekiantys gauti licenciją, turi atitikti šio straipsnio 4 dalyje numatytas licencijos išdavimo sąlygas. Jeigu bendrosios praktikos slaugytojas ar akušeris, siekiantys gauti licenciją, profesinę kvalifikaciją įgijo ne anksčiau negu prieš dvejus metus iki kreipimosi dėl licencijos išdavimo dienos, laikoma, kad licencija yra išduota kitą dieną nuo deklaracijos apie ketinimą verstis bendrąja slaugos praktika ar akušerijos praktika (toliau – deklaracija), kuria bendrosios praktikos slaugytojas ar akušeris deklaruoja minėto reikalavimo bei licencijos išdavimo sąlygų atitiktį ir įsipareigoja per 30 dienų nuo deklaracijos pateikimo dienos pateikti Taisyklėse nurodytus licencijai gauti reikalingus dokumentus (toliau – dokumentai), jeigu jų nepateikia kartu su deklaracija, pateikimo Licencijavimo institucijai dienos arba nuo šioje deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu deklaracijos pateikimo Licencijavimo institucijai diena. Kitais atvejais Licencijavimo institucija nuo tos dienos, kai bendrosios praktikos slaugytojas ar akušeris pateikė paraišką ir dokumentus, išduoda licenciją arba pateikia motyvuotą atsisakymą ją išduoti:
+
+
+1) ne vėliau kaip per tris mėnesius, jeigu bendrosios praktikos slaugytojui ar akušeriui taikytina kitoje valstybėje narėje įgytos profesinės kvalifikacijos pripažinimo procedūra;
 
 
 
 
-3. Užsienio valstybėse išduoti dokumentai, teikiami Licencijavimo institucijai, turi būti legalizuoti ar patvirtinti pažyma (Apostille), išskyrus Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos teisės aktų nustatytus atvejus. Šie dokumentai turi būti pateikti išversti į lietuvių kalbą, o vertimas turi būti patvirtintas dokumentus išvertusio asmens parašu teisės aktų nustatyta tvarka.
-
-
-
-
-4. Licencija išduodama neterminuotam laikui. Licencijos turėtojas privalo sveikatos apsaugos ministro nustatyta tvarka kas 5 metus pranešti Licencijavimo institucijai apie profesinės kvalifikacijos tobulinimą ir slaugos ar akušerijos praktiką.
-
-
-
-
-5. Už licencijos išdavimą, licencijos duomenų tikslinimą ar dublikato išdavimą imama nustatyto dydžio valstybės rinkliava.
-
-
-
-
-6. Bendrosios praktikos slaugytojas ar akušeris, kurio licencijos galiojimas buvo panaikintas, dėl naujos licencijos išdavimo gali kreiptis:
-
-
-1) praėjus trims mėnesiams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 5 punktu;
-
-
-
-
-2) praėjus šešiems mėnesiams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 2 punktu;
-
-
-
-
-3) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 3 ir 4 punktais. 
+2) ne vėliau kaip per 30 dienų, jeigu bendrosios praktikos slaugytojui ar akušeriui netaikytina kitoje valstybėje narėje įgytos profesinės kvalifikacijos pripažinimo procedūra.
 
 
 
 
 
 
-7. Licencijavimo institucija duomenis apie licencijos išdavimą, atsisakymą išduoti licenciją, licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo panaikinimą, licencijos galiojimo panaikinimą, licencijos duomenų tikslinimą, dublikato išdavimą ir kitus su licencijuojama veikla susijusius duomenis įrašo į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registro (toliau – Registras) duomenų bazę Registro nuostatų nustatyta tvarka. 
+3. Užsienio valstybėse išduoti dokumentai, teikiami Licencijavimo institucijai, turi būti legalizuoti ar patvirtinti pažyma (Apostille), išskyrus Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nustatytus atvejus. Šie dokumentai turi būti pateikti išversti į lietuvių kalbą, o vertimas turi būti patvirtintas dokumentus išvertusio asmens parašu teisės aktų nustatyta tvarka.
 
 
 
 
-8. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia savo interneto svetainėje.
-Straipsnio dalies pakeitimai:
-Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA00XI-885
+4. Licencija išduodama neterminuotam laikui, jeigu yra įvykdytos licencijos išdavimo sąlygos:
+
+
+1) bendrosios praktikos slaugytojas ar akušeris yra Lietuvos Respublikos pilietis arba turi teisę gyventi ir dirbti Lietuvos Respublikoje;
+
+
+
+
+2) bendrosios praktikos slaugytojo ar akušerio valstybinės kalbos mokėjimo kategorija atitinka Lietuvos Respublikos Vyriausybės nustatytus reikalavimus;
+
+
+
+
+3) bendrosios praktikos slaugytojas yra įgijęs bendrosios praktikos slaugytojo profesinę kvalifikaciją, o akušeris – akušerio profesinę kvalifikaciją šio įstatymo 3 straipsnyje nustatyta tvarka;
+
+
+
+
+4) bendrosios praktikos slaugytojas ar akušeris neserga trukdančiomis verstis bendrąja slaugos praktika ar akušerijos praktika ligomis, kurių sąrašą nustato sveikatos apsaugos ministras;
+
+
+
+
+5) bendrosios praktikos slaugytojas ar akušeris sveikatos apsaugos ministro nustatyta tvarka tobulino savo profesinę kvalifikaciją, jeigu po jo profesinės kvalifikacijos įgijimo praėjo daugiau kaip dveji metai;
+
+
+
+
+6) bendrosios praktikos slaugytojas ar akušeris įvykdė šio straipsnio 6 dalyje nustatytus reikalavimus, jeigu licencijos galiojimas jam buvo panaikintas.
+
+
+
+
+
+
+5. Už licencijos išdavimą, licencijos duomenų tikslinimą ar popierinės formos licencijos dublikato išdavimą imama nustatyto dydžio valstybės rinkliava.
+
+
+
+
+6. Bendrosios praktikos slaugytojas ar akušeris, kurių licencijos galiojimas buvo panaikintas, dėl naujos licencijos išdavimo gali kreiptis Taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus:
+
+
+1) praėjus trims mėnesiams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 5 punktu;
+
+
+
+
+2) praėjus šešiems mėnesiams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 2 punktu;
+
+
+
+
+3) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 3 ir 4 punktais.
+
+
+
+
+
+
+7. Bendrosios praktikos slaugytojas ar akušeris, kurių licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 6 ar 7 punktu, gali kreiptis dėl naujos licencijos išdavimo, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir įvykdytos šio straipsnio 4 dalyje numatytos licencijos išdavimo sąlygos, Taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus.
+
+
+
+
+8. Licencijavimo institucija duomenis apie licencijos išdavimą, atsisakymą ją išduoti, licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo panaikinimą, licencijos galiojimo panaikinimą, licencijos duomenų tikslinimą, popierinės formos licencijos dublikato išdavimą ir kitus su licencijuojama veikla susijusius duomenis įrašo į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registro (toliau – Registras) duomenų bazę Registro nuostatuose nustatyta tvarka.
+
+
+
+
+9. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia savo interneto svetainėje.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
  
-
-
-
-
-9. Licencijavimo institucija motyvuotą sprendimą dėl licencijos išdavimo ar atsisakymo ją išduoti priima ne vėliau kaip per 30 dienų nuo visų dokumentų gavimo dienos. 
- 
-
-
 
 
 
@@ -292,35 +331,27 @@ Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA
 6 straipsnis. Atsisakymo išduoti licenciją pagrindai
 
 
-1. Licenciją išduoti atsisakoma, kai:
+Paraišką ir dokumentus pateikusiam bendrosios praktikos slaugytojui ar akušeriui licenciją išduoti atsisakoma, kai:
 
 
-1) pateikti netinkamai įforminti ar ne visi dokumentai; 
-
-
-
-
-2) pateikti klaidingi duomenys; 
+1) pateikti klaidingi duomenys, netinkamai įforminti ar ne visi dokumentai ir bendrosios praktikos slaugytojas ar akušeris per Taisyklėse nurodytą terminą nepašalina šio Licencijavimo institucijos nurodyto trūkumo; 
 
 
 
 
-3) teismo sprendimu asmeniui uždrausta verstis slaugos ar akušerijos praktika;
+2) bendrosios praktikos slaugytojas ar akušeris pateikė suklastotus dokumentus licencijai gauti;
 
 
 
 
-4) asmuo serga trukdančiomis teikti slaugos ar akušerijos paslaugas ligomis, kurių sąrašą nustato sveikatos apsaugos ministras. 
+3) bendrosios praktikos slaugytojas ar akušeris neįvykdė bent vienos šio įstatymo 5 straipsnio 4 dalyje nustatytos licencijos išdavimo sąlygos.
 
 
 
 
-
-
-2. Pašalinęs priežastis, dėl kurių buvo atsisakyta išduoti licenciją, arba joms išnykus, pareiškėjas gali pakartotinai kreiptis dėl licencijos išdavimo Taisyklių nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
  
-
-
 
 
 
@@ -336,7 +367,10 @@ Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA
 
 
 
-2) kai licencijos turėtojas nevykdo licencijuojamos veiklos sąlygų; 
+2) kai licencijos turėtojas nevykdo licencijuojamos veiklos sąlygų ir per Taisyklėse nustatytą terminą nepašalina šio Licencijavimo institucijos nurodyto trūkumo; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
@@ -351,7 +385,23 @@ Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA
 
 
 
-5) kai yra šio įstatymo 6 straipsnio 1 dalies 4 punkte nurodytos priežastys. 
+5) kai yra šio įstatymo 6 straipsnio 1 dalies 4 punkte nurodytos priežastys; 
+
+
+
+
+6) kai deklaraciją pateikęs bendrosios praktikos slaugytojas ar akušeris per 30 dienų nuo deklaracijos pateikimo dienos Licencijavimo institucijai nepateikė dokumentų; 
+Papildyta straipsnio punktu:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
+
+
+
+
+7) kai deklaraciją pateikęs bendrosios praktikos slaugytojas ar akušeris pateikė klaidingus duomenis, netinkamai įformintus ar ne visus dokumentus ir per Taisyklėse nustatytą terminą nepašalino šio Licencijavimo institucijos nurodyto trūkumo.
+Papildyta straipsnio punktu:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
@@ -433,7 +483,10 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 
 
-7) kai per Licencijavimo institucijos nustatytą terminą nepašalintos ar neišnyko priežastys, dėl kurių buvo sustabdytas licencijos galiojimas; 
+7) kai per Licencijavimo institucijos nustatytą terminą nebuvo pašalintos ar neišnyko priežastys, dėl kurių buvo sustabdytas licencijos galiojimas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
@@ -458,7 +511,9 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010IS
 
 
 
-4. Licencijos turėtojas, gavęs rašytinį Licencijavimo institucijos pranešimą apie licencijos galiojimo panaikinimą, per 3 darbo dienas privalo jai grąžinti licencijos originalą. 
+4. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
  
 
 
@@ -664,52 +719,90 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 Bendrosios praktikos slaugytojas ir išplėstinės praktikos slaugytojas privalo:
 
 
-1) versdamasis slaugos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
+1) per 30 dienų nuo deklaracijos pateikimo Licencijavimo institucijai dienos pateikti dokumentus, jeigu jie nebuvo pateikti kartu su deklaracija; 
+Papildyta straipsnio punktu:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-2) pagal kompetenciją pacientams teikti asmens sveikatos priežiūros paslaugas;
+2) versdamasis slaugos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-3) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka;
+3) pagal kompetenciją pacientams teikti asmens sveikatos priežiūros paslaugas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-4) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų;
+4) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka ir kas 5 metus Taisyklėse nustatyta tvarka pranešti Licencijavimo institucijai apie profesinės kvalifikacijos tobulinimą ir slaugos praktiką;
+Straipsnio punkto pakeitimai:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-5) gerbti pacientų teises ir jų nepažeisti;
+5) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-6) teikti informaciją apie paciento sveikatą Lietuvos Respublikos teisės aktų nustatyta tvarka;
+6) gerbti pacientų teises ir jų nepažeisti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-7) teikdamas slaugos paslaugas bendradarbiauti su sveikatos priežiūros ir kitais specialistais;
+7) teikti informaciją apie paciento sveikatą Lietuvos Respublikos teisės aktų nustatyta tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-8) Lietuvos Respublikos teisės aktų nustatyta tvarka pranešti teisėsaugos ir kitoms valstybės institucijoms apie sužalotus ar smurtą patyrusius asmenis, kuriems dėl nusikalstamos veikos galėjo būti padaryta žala;
+8) teikdamas slaugos paslaugas bendradarbiauti su sveikatos priežiūros ir kitais specialistais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-9) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
+9) Lietuvos Respublikos teisės aktų nustatyta tvarka pranešti teisėsaugos ir kitoms valstybės institucijoms apie sužalotus ar smurtą patyrusius asmenis, kuriems dėl nusikalstamos veikos galėjo būti padaryta žala;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+10) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
+
+
+
+
+11) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
@@ -727,52 +820,89 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 Akušeris privalo: 
 
 
-1) versdamasis akušerijos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
+1) per 30 dienų nuo deklaracijos pateikimo Licencijavimo institucijai dienos pateikti dokumentus, jeigu jie nebuvo pateikti kartu su deklaracija; 
+Papildyta straipsnio punktu:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-2) pagal kompetenciją teikti akušerinę priežiūrą ir pagalbą moterims, vykdyti sveikatos profilaktiką ir naujagimių priežiūrą, konsultuoti šeimas ir moteris; 
+2) versdamasis akušerijos praktika laikytis šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-3) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka; 
+3) pagal kompetenciją teikti akušerinę priežiūrą ir pagalbą moterims, vykdyti sveikatos profilaktiką ir naujagimių priežiūrą, konsultuoti šeimas ir moteris; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-4) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų; 
+4) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka ir kas 5 metus Taisyklėse nustatyta tvarka pranešti Licencijavimo institucijai apie profesinės kvalifikacijos tobulinimą ir akušerijos praktiką;
+Straipsnio punkto pakeitimai:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-5) gerbti pacientų teises ir jų nepažeisti;
+5) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-6) teikti informaciją apie paciento sveikatą Lietuvos Respublikos teisės aktų nustatyta tvarka; 
+6) gerbti pacientų teises ir jų nepažeisti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-7) teikdamas akušerijos paslaugas bendradarbiauti su sveikatos priežiūros ir kitais specialistais;
+7) teikti informaciją apie paciento sveikatą Lietuvos Respublikos teisės aktų nustatyta tvarka; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-8) Lietuvos Respublikos teisės aktų nustatyta tvarka pranešti teisėsaugos ir kitoms valstybės institucijoms apie sužalotus ar smurtą patyrusius asmenis, kuriems dėl nusikalstamos veikos galėjo būti padaryta žala;
+8) teikdamas akušerijos paslaugas bendradarbiauti su sveikatos priežiūros ir kitais specialistais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-9) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
+9) Lietuvos Respublikos teisės aktų nustatyta tvarka pranešti teisėsaugos ir kitoms valstybės institucijoms apie sužalotus ar smurtą patyrusius asmenis, kuriems dėl nusikalstamos veikos galėjo būti padaryta žala;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
 
 
 
 
-10) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+10) nepriimti kyšių ir elgtis taip, kad savo veiksmais neprovokuotų paciento, jo artimųjų giminaičių ar kitų paciento atstovų duoti kyšį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
+
+
+
+
+11) atlikti kitas Lietuvos Respublikos teisės aktų nustatytas pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
  
 
 
@@ -831,3 +961,8 @@ Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo 7 ir 8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 2, 3, 4, 8, 11, 12, 13 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 5, 6, 7, 8, 13 ir 14 straipsnių pakeitimo įstatymas
