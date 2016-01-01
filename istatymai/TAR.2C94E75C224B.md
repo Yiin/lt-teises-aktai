@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2015-05-21 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
  
@@ -66,8 +66,6 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Draudimo įmonė – draudimo įmonė, kitos valstybės narės draudimo įmonė arba užsienio valstybės draudimo įmonė, kaip šios sąvokos apibrėžtos Lietuvos Respublikos draudimo įstatyme.
-2 dalies redakcija nuo 2016-01-01:
 2. Draudimo įmonė – draudimo įmonė, priklausoma draudimo įmonė arba trečiosios valstybės draudimo įmonė, kaip šios sąvokos apibrėžtos Lietuvos Respublikos draudimo įstatyme.
 
 
@@ -136,8 +134,6 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) draudimo sektorius, kuriame veikia draudimo įmonės, perdraudimo įmonės arba draudimo kontroliuojančiosios įmonės, apibrėžtos Lietuvos Respublikos draudimo įstatyme; 
-2 punkto redakcija nuo 2016-01-01:
 2) draudimo sektorius, kuriame veikia draudimo įmonės, perdraudimo įmonės, priklausomos draudimo ar perdraudimo įmonės arba draudimo kontroliuojančiosios įmonės, apibrėžtos Lietuvos Respublikos draudimo įstatyme;
 
 
@@ -285,8 +281,6 @@ BENDROSIOS NUOSTATOS
 
 
 
-23. Perdraudimo įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos draudimo įstatyme.
-23 dalies redakcija nuo 2016-01-01:
 23. Perdraudimo įmonė – perdraudimo įmonė, priklausoma perdraudimo įmonė, trečiosios valstybės perdraudimo įmonė arba specialioji įmonė, kaip šios sąvokos apibrėžtos Lietuvos Respublikos draudimo įstatyme.
 
 
