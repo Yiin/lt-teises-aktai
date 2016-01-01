@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BFB136428878"
 
 # Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2014-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 12-230, i. k. 0971010ISTA0VIII-97
  
@@ -98,7 +98,10 @@ Kariai savanoriai yra ginkluoto pasipriešinimo (rezistencijos) dalyviai:
 Kariams savanoriams prilygintais asmenimis pripažįstami:
 
 
-1) asmenys, kurie 1940 m. birželio 15 d. ėjo Lietuvos Respublikos tikrąją karo ar policijos tarnybą ir kurie pirmosios sovietinės okupacijos (1940–1941 m.) metu buvo suimti arba ištremti ar būdami tremtyje suimti, įkalinti ir nuteisti mirties bausme ir mirties bausmė įvykdyta arba buvo nužudyti, žuvo, mirė įkalinimo metu;
+1) asmenys, kurie 1940 m. birželio 15 d. ėjo Lietuvos Respublikos tikrąją karo ar policijos tarnybą ir kurie sovietinės okupacijos metais buvo suimti arba ištremti ar būdami tremtyje buvo suimti, įkalinti, nuteisti mirties bausme ir mirties bausmė buvo įvykdyta arba buvo nužudyti, žuvo, mirė įkalinimo ar tremties metu;
+Straipsnio punkto pakeitimai:
+Nr. XII-2045, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18858
+ 
 
 
 
@@ -140,7 +143,10 @@ Laisvės kovų dalyviai yra neginkluoto pasipriešinimo (rezistencijos) dalyviai
 Laisvės kovų dalyviams prilygintais asmenimis pripažįstami:
 
 
-1) Lietuvos Respublikos atsargos karininkai, buvę vidaus reikalų sistemos pareigūnai, sukarintų organizacijų nariai, taip pat valstybės civilinių įstaigų pareigūnai ir tarnautojai, mokslo ir kultūros veikėjai, visuomeninių ir politinių organizacijų nariai bei kiti Lietuvos Respublikos piliečiai, kurie iki 1940 m. birželio 15 d. veikė stiprindami Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką ir dėl šios veiklos pirmosios sovietų (1940–1941 m.) okupacijos metu buvo suimti, įkalinti ar nuteisti mirties bausme ir mirties bausmė įvykdyta arba buvo nužudyti, žuvo, mirė įkalinimo metu;
+1) Lietuvos Respublikos atsargos karininkai, buvę vidaus reikalų sistemos pareigūnai, sukarintų organizacijų nariai, taip pat valstybės civilinių įstaigų pareigūnai ir tarnautojai, mokslo ir kultūros veikėjai, visuomeninių ir politinių organizacijų nariai bei kiti Lietuvos Respublikos piliečiai, kurie iki 1940 m. birželio 15 d. veikė stiprindami Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką ir dėl šios veiklos sovietų okupacijos metais buvo suimti, įkalinti, nuteisti mirties bausme ir mirties bausmė buvo įvykdyta arba buvo nužudyti, žuvo, mirė įkalinimo metu; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2045, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18858
+ 
 
 
 
@@ -270,3 +276,8 @@ Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teis
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-954, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09153
 Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijos dalyvių teisinio statuso įstatymo Nr. VIII-97 preambulės ir 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2045, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18858
+Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatymo Nr. VIII-97 3 ir 5 straipsnių pakeitimo įstatymas
