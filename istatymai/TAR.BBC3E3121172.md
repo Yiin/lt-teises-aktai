@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 39-1088, i. k. 1001010ISTAIII-1631
  
@@ -832,19 +832,16 @@ PATAISOS PAREIGŪNŲ SOCIALINĖS GARANTIJOS
 
 41 straipsnis. Pataisos pareigūnų socialinis draudimas
 
-1. Pataisos pareigūnų sveikata ir gyvybė visam jų tarnybos laikui valstybės biudžeto lėšomis privalomai draudžiama nuo nelaimingų atsitikimų tarnyboje, nuo nelaimingų atsitikimų, susijusių su tarnyba, nuo nelaimingų atsitikimų vykstant į tarnybą ar grįžtant iš jos. Pataisos pareigūnų sveikatos ir gyvybės draudimo suma yra lygi jo darbo užmokesčiui, mokamam draudiminio įvykio mėnesį, padaugintam iš 12, bet negali būti didesnė už Vyriausybės nustatytą minimaliąją mėnesinę algą, padaugintą iš 48.
+1. Pataisos pareigūnai Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka privalomai draudžiami pensijų socialiniu draudimu, ligos ir motinystės socialiniu draudimu, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 
-2. Kursantų sveikata ir gyvybė visam jų profesinio mokymo laikui valstybės biudžeto lėšomis privalomai draudžiama nuo nelaimingų atsitikimų profesinio mokymo metu. Kursanto sveikatos ir gyvybės draudimo suma lygi draudiminio įvykio mėnesį buvusiai Vyriausybės nustatytai minimaliajai mėnesinei algai, padaugintai iš 12.
+2. Kursantai Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nustatyta tvarka draudžiami nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
-3. Pataisos pareigūnų ir kursantų sveikatos ir gyvybės draudimo, draudiminių įvykių pripažinimo, draudimo išmokų dydžio nustatymo ir mokėjimo tvarką nustato Vyriausybė. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų, susijusių su tarnyba, nelaimingų atsitikimų vykstant į tarnybą ar grįžtant iš jos ir nelaimingų atsitikimų profesinio ar įvadinio mokymo metu tyrimo ir apskaitos tvarką nustato teisingumo ministras.
+3. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos, taip pat nelaimingų atsitikimų profesinio ar įvadinio mokymo metu tyrimo ir apskaitos tvarką nustato teisingumo ministras.
 
-4. Draudimo išmokos nemokamos šio statuto 45 straipsnyje nustatytais atvejais.
+4. Pataisos pareigūnai turi teisę gauti pareigūnų valstybinę pensiją pagal įstatymą, reglamentuojantį pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo tvarką. 
 
-5. Pataisos pareigūnai privalomai draudžiami valstybinių socialinio draudimo pensijų draudimu pagal įstatymą, reglamentuojantį valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo tvarką.
-
-6. Pataisos pareigūnai turi teisę gauti pareigūnų valstybinę pensiją pagal įstatymą, reglamentuojantį pareigūnų ir karių valstybinių pensijų skyrimo ir mokėjimo tvarką.
-
-7. Pataisos pareigūnai privalomai draudžiami nedarbo socialiniu draudimu pagal įstatymą, reglamentuojantį nedarbo socialinį draudimą.
+Straipsnio pakeitimai:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
  
 
 42 straipsnis. Pataisos pareigūnų atostogos
@@ -1011,7 +1008,10 @@ TAR pastaba. 42 straipsnio 2 dalis įsigalioja 2015-09-01.
 
 50 straipsnis. Kitos socialinės garantijos
 
-Laikinojo nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos atlikimo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, pataisos pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos, neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos atlikimo, atvejais pataisos pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio, taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
+Pataisos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pataisos pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje, pakeliui į tarnybą ar iš tarnybos), iš įstaigos, kurioje tarnauja pataisos pareigūnas, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas. 
+
+Straipsnio pakeitimai:
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
  
 
 VIENUOLIKTASIS SKIRSNIS
@@ -1220,4 +1220,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1447, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21326
 Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
+Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo Nr. XII-1447 3 straipsnio pakeitimo įstatymas
 
