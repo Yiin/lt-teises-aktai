@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2014-10-04 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -282,15 +282,17 @@ Tarnybos pareigūnų statusą nustato Valstybės tarnybos įstatymas, šis įsta
 
 
 
-2. Tarnybos direktorių penkeriems metams į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Valstybės tarnybos įstatymo nustatyta tvarka. Tarnybos direktorius tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
+2. Tarnybos direktorių penkeriems metams į pareigas Vidaus tarnybos statute nustatytos atrankos būdu skiria ir iš jų atleidžia vidaus reikalų ministras. Tarnybos direktorius tiesiogiai pavaldus ir atskaitingas vidaus reikalų ministrui.
 
 
 
 
-3. Tarnybos direktoriaus pavaduotojus Tarnybos direktoriaus teikimu į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Valstybės tarnybos įstatymo nustatyta tvarka.
+3. Tarnybos direktoriaus pavaduotojus į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Vidaus tarnybos statuto nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1858, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10819
  
-
-
 
 
 
@@ -861,3 +863,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 16 ir 17 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1858, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10819
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 10 straipsnio pakeitimo įstatymas
