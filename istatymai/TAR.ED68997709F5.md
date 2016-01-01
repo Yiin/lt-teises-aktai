@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -941,7 +941,10 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 
 
 
-3) to prekių tiekėjo šio straipsnio 3 dalyje nurodytomis sąlygomis tiekiamų į Lietuvos Respubliką atgabentų visų prekių, kurios yra kitos negu akcizais apmokestinamos prekės, vertė (neįskaitant PVM) praėjusiais kalendoriniais metais neviršijo 125 tūkst. litų;
+3) to prekių tiekėjo šio straipsnio 3 dalyje nurodytomis sąlygomis tiekiamų į Lietuvos Respubliką atgabentų visų prekių, kurios yra kitos negu akcizais apmokestinamos prekės, vertė (neįskaitant PVM) praėjusiais kalendoriniais metais neviršijo 35 000 eurų;
+Straipsnio punkto pakeitimai:
+Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+ 
 
 
 
@@ -4044,7 +4047,11 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-3) teikti šio Įstatymo reikalaujamas PVM deklaracijas, prekių tiekimo į kitas valstybes nares bei kitas nustatytas ataskaitas ir šio Įstatymo nustatyta tvarka bei terminais mokėti į biudžetą šio Įstatymo nustatyta tvarka apskaičiuotą mokėtiną PVM ir avansinius PVM mokėjimus.
+3) teikti šio Įstatymo reikalaujamas PVM deklaracijas, prekių tiekimo į kitas valstybes nares bei kitas nustatytas ataskaitas ir šio Įstatymo nustatyta tvarka bei terminais mokėti į biudžetą šio Įstatymo nustatyta tvarka apskaičiuotą mokėtiną PVM.
+TAR pastaba. 1 dalies 3 punktas taikomas apskaičiuojant, deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių PVM.
+Straipsnio punkto pakeitimai:
+Nr. XII-2151, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19847
+ 
 
 
 
@@ -4814,12 +4821,18 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-2. PVM mokėtojai, kurių vidutinė kalendoriniam mėnesiui tenkanti mokėtina į biudžetą PVM suma 3 mėnesius iš eilės viršijo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytą ribą, išskyrus tuos PVM mokėtojus, kurių mokestinis laikotarpis yra kalendorinis pusmetis arba šio Įstatymo 84 straipsnio 5 dalyje nurodytu atveju – kitoks mokestinis laikotarpis, ir ekonominės veiklos nevykdančius asmenis, PVM mokėtojais registruotus dėl šio Įstatymo 71(1) straipsnyje nurodytų priežasčių, pradedant kitu kalendoriniu mėnesiu po to, kurį paaiškėjo nurodytos aplinkybės, iki atitinkamo mėnesio 5, 13 ir 20 dienos į biudžetą moka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyto dydžio avansinius PVM mokėjimus. Avansinių PVM mokėjimų dydį ir konkrečią mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+2. Neteko galios nuo 2016-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2151, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19847
+ 
 
 
 
 
-3. Jeigu per mokestinį laikotarpį buvo mokėti avansiniai PVM mokėjimai, į biudžetą iki šio straipsnio 1 dalyje nurodyto termino pabaigos privalo būti sumokėtas už mokestinį laikotarpį mokėtinos PVM sumos ir per tą mokestinį laikotarpį sumokėtų avansinių PVM mokėjimų skirtumas.
+3. Neteko galios nuo 2016-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2151, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19847
+ 
 
 
 
@@ -4862,17 +4875,34 @@ Nr. X-1251, 2007-07-03, Žin., 2007, Nr. 80-3222 (2007-07-19)
 
 
 
-3) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytą ilgalaikį turtą (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis, taip pat pirkimo PVM sumą už pasigamintą ilgalaikį materialųjį turtą), ir
+3) sąlyginę 21 procento PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, nurodytų šio Įstatymo 96 straipsnio 1 dalies 3 ir 4 punktuose (išskyrus atvejus, kai prekių tiekėjui (paslaugų teikėjui) teisme pradėta bankroto procedūra), ir 
+Papildyta straipsnio punktu:
+Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
+ 
 
 
 
 
-4) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytas ir (arba) importuotas medžiagas, žaliavas ir (arba) paslaugas, skirtas ilgalaikiam turtui pasigaminti ir (arba) nebaigtai statybai (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis), ir
+4) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytą ilgalaikį turtą (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis, taip pat pirkimo PVM sumą už pasigamintą ilgalaikį materialųjį turtą), ir
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
+ 
 
 
 
 
-5) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytus ir (arba) importuotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis). Šis punktas taikomas tik PVM mokėtojams, kurių pajamos iš žemės ūkio produkcijos tiekimo ir (arba) paslaugų teikimo praėjusiais kalendoriniais metais sudarė ne mažiau kaip 50 procentų visų pajamų.
+5) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytas ir (arba) importuotas medžiagas, žaliavas ir (arba) paslaugas, skirtas ilgalaikiam turtui pasigaminti ir (arba) nebaigtai statybai (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis), ir
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
+ 
+
+
+
+
+6) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytus ir (arba) importuotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis). Šis punktas taikomas tik PVM mokėtojams, kurių pajamos iš žemės ūkio produkcijos tiekimo ir (arba) paslaugų teikimo praėjusiais kalendoriniais metais sudarė ne mažiau kaip 50 procentų visų pajamų.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
+ 
 
 
 
@@ -7065,3 +7095,13 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 96 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1910, 2015-06-30, paskelbta TAR 2015-07-01, i. k. 2015-10504
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 91 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2151, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19847
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 77 ir 90 straipsnių pakeitimo įstatymas
