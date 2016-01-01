@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.084ED4C79D93"
 
 # Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2848, i. k. 1001010ISTAIII-1996
  
@@ -312,9 +312,15 @@ Tarnybą sudaro:
 
 2) inicijuoja įstatymų ir kitų teisės aktų, susijusių su valstybės sienos apsauga ir Tarnybos veikla, projektų rengimą ir teikia šiuos projektus Vyriausybei;
 
-3) suderinęs su Ministru Pirmininku, skiria Tarnybos vadą;
+3) Neteko galios nuo 2016-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-1860, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11019
+ 
 
-4) Tarnybos vado teikimu skiria jo pavaduotojus;
+4) tarnybos vado pavaduotojus į pareigas skiria ir iš jų atleidžia Vidaus tarnybos statuto nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XII-1860, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11019
+ 
 
 5) teikia Vyriausybei tvirtinti Tarnybos nuostatus.
 
@@ -332,17 +338,14 @@ Straipsnio dalies pakeitimai:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
  
 
-3. Tarnybos vadas skiriamas penkerių metų kadencijai, tačiau ne daugiau kaip dviem kadencijoms iš eilės.
+3. Tarnybos vadas į pareigas skiriamas ir iš jų atleidžiamas Vidaus tarnybos statuto nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1860, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11019
+ 
 
-4. Tarnybos vadas vidaus reikalų ministro gali būti atleidžiamas iš pareigų nepasibaigus kadencijai šiais pagrindais:
-
-1) jam pačiam prašant;
-
-2) jo atžvilgiu įsiteisėjus apkaltinamajam teismo nuosprendžiui;
-
-3) paaiškėjus šio įstatymo 19 straipsnyje nurodytoms aplinkybėms;
-
-4) dėl sveikatos būklės, esant atitinkamos medicininės ekspertizės komisijos išvadai.
+4. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1860, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11019
  
 
 14 straipsnis. Tarnybos štabas
@@ -737,4 +740,9 @@ Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 3, 5, 6, 8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2265, 2012-10-02, Žin., 2012, Nr. 122-6124 (2012-10-20), i. k. 1121010ISTA0XI-2265
 Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 5 ir 9 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1860, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11019
+Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo Nr. VIII-1996 12 ir 13 straipsnių pakeitimo įstatymas
 
