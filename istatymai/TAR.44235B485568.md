@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -2332,164 +2332,106 @@ SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
  
 
 
-34 straipsnis. Skundų ir ginčų nagrinėjimas
+34 straipsnis. Ginčų sprendimas ne teismo tvarka
 
 
-1. Tarnyba Lietuvos Respublikos vartotojų teisių apsaugos įstatymo nustatyta tvarka nagrinėja buitinių vartotojų skundus dėl energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo. Tarnyba Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka nagrinėja ir buitinių vartotojų skundus dėl energijos tiekėjų nesąžiningos komercinės veiklos. Nustačius nesąžiningos komercinės veiklos atvejus, energetikos įmonė atsako Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme nustatyta tvarka.
+1. Vartotojas, manantis, kad energetikos įmonė, vykdydama energetikos veiklą, pažeidė jo teises ar teisėtus interesus, susijusius su vartojimo sutartimi, pirmiausia privalo raštu kreiptis į energetikos įmonę ir nurodyti savo reikalavimus. 
 
 
 
 
-2. Valstybinė energetikos inspekcija išankstine privaloma skundų ir ginčų nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir energetikos įmonių skundus ir ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių gedimų, eksploatavimo, energijos kokybės reikalavimų, energijos apskaitos ir apmokėjimo už suvartotą energiją pažeidimų, avarijų, energijos tiekimo nutraukimo, sustabdymo ar ribojimo.
+2. Energetikos įmonė privalo išnagrinėti vartotojo kreipimąsi ir jam motyvuotai atsakyti ne vėliau kaip per 30 dienų nuo kreipimosi gavimo dienos. Vartotojo kreipimąsi energetikos įmonė nagrinėja savo nustatyta tvarka, kurią privalo skelbti savo interneto svetainėje ir sudaryti sąlygas vartotojams su ja susipažinti kitais būdais.
 
 
 
 
-3. Komisija išankstine privaloma skundų ir ginčų nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir energetikos įmonių skundus ir ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės energetikos įmonėms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo.
+3. Jeigu energetikos įmonė netenkina vartotojo reikalavimų arba juos tenkina iš dalies, atsakyme vartotojui turi būti pateikta informacija apie vartojimo ginčų neteisminio sprendimo instituciją ar kitą subjektą, kompetentingą spręsti ginčą. Vartotojo kreipimasis į vartojimo ginčų neteisminio sprendimo subjektą neatima vartotojo teisės kreiptis į teismą. Vartotojas turi teisę ginti savo teises ir kitais, šiame įstatyme nenumatytais, teisėtais būdais.
 
 
 
 
-4. Vartotojų ir energetikos įmonių skundai ir ginčai nagrinėjami pagal skundus ir ginčus nagrinėjančios institucijos nustatytas tokių skundų ir ginčų nagrinėjimo taisykles, laikantis įstatymų nustatytų reikalavimų. Šiose taisyklėse, vadovaujantis šio straipsnio 5–18 dalyse numatytais reikalavimais, nustatomi prašymų išnagrinėti skundą ar išspręsti ginčą formos, turinio ir pateikimo, įrodymų pateikimo ir rinkimo reikalavimai, taip pat nustatoma detali skundų ir ginčų nagrinėjimo procedūra. 
+4. Vartotojų ir energetikos įmonių ginčus ne teismo tvarka nagrinėja:
 
 
+1) Valstybinė energetikos inspekcija – dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo;
 
 
-5. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija atsisako priimti prašymą nagrinėti skundą ar ginčą, jeigu:
 
 
-1) ji nėra kompetentinga tą skundą ar ginčą nagrinėti;
+2) Komisija – dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, apmokėjimo už suvartotą energiją ar paslaugas, valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje, nepriskirtus Valstybinei energetikos inspekcijai.
 
 
 
 
-2) yra įsigaliojęs skundus ir ginčus nagrinėjančios institucijos, teismo ar arbitražo sprendimas, priimtas dėl ginčo tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu, arba yra įsigaliojęs skundus ir ginčus nagrinėjančios institucijos sprendimas, teismo nutartis ar arbitražo sprendimas priimti pareiškėjo (ieškovo) pateiktą prašymo nagrinėti ginčą atsisakymą ar patvirtinti ginčo šalių taikos sutartį;
 
 
+5. Buitinių vartotojų ir energetikos įmonių ginčai nagrinėjami Lietuvos Respublikos vartotojų teisių apsaugos įstatymo (toliau – Vartotojų teisių apsaugos įstatymas) nustatyta tvarka. Kitų (ne buitinių) vartotojų ir energetikos įmonių ginčai nagrinėjami ne teismo tvarka pagal Valstybinės energetikos inspekcijos ar Komisijos nustatytas atitinkamų ginčų nagrinėjimo taisykles. 
 
 
-3) skundus ir ginčus nagrinėjanti institucija, teismas ar arbitražas jau nagrinėja ginčą tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu;
 
 
+6. Valstybinė energetikos inspekcija ir Komisija, išnagrinėjusi ginčą ne teismo tvarka ir priimdama sprendimą patenkinti vartotojo reikalavimus arba iš dalies patenkinti vartotojo reikalavimus, privalo spręsti dėl energetikos įmonės įpareigojimo grąžinti ar kompensuoti vartotojo patirtas išlaidas ir tokio grąžinimo ar kompensavimo sąlygų.
 
 
-4) šalys yra sudariusios susitarimą perduoti tą ginčą spręsti arbitražui ir atsakovas prieštarauja, kad ginčą nagrinėtų skundus ir ginčus nagrinėjanti institucija, ir reikalauja laikytis arbitražo susitarimo, išskyrus ginčus, kurie pagal įstatymus negali būti nagrinėjami arbitraže;
 
 
+7. Valstybinės energetikos inspekcijos ir Komisijos sprendimai, priimti išnagrinėjus vartotojų ir energetikos įmonių ginčus, įsigalioja ir yra privalomi vykdyti, jeigu nė viena ginčo šalis per 30 dienų nuo Valstybinės energetikos inspekcijos ar Komisijos sprendimo dėl ginčo priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. Kreipimasis į bendrosios kompetencijos teismą po Valstybinės energetikos inspekcijos ar Komisijos sprendimo dėl ginčo priėmimo nelaikomas šio sprendimo apskundimu.
 
 
-5) asmens vardu prašymą nagrinėti skundą ar ginčą padavė neįgaliotas asmuo.
 
 
+8. Įsigaliojęs Valstybinės energetikos inspekcijos ir Komisijos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Civilinio proceso kodekso nustatyta tvarka. 
 
 
 
 
-6. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija nutraukia ginčo ar skundo nagrinėjimą, jeigu paaiškėja šio straipsnio 5 dalies 1 ar 2 punkte nurodytos aplinkybės, taip pat jeigu:
+9. Valstybinės energetikos inspekcijos ir Komisijos procedūriniai sprendimai, priimti nagrinėjant vartotojo ir energetikos įmonės ginčą, tarp jų ir sprendimai atsisakyti nagrinėti ginčą, sustabdyti ar nutraukti ginčo nagrinėjimą, užkertantys kelią toliau nagrinėti ginčą, per 7 dienas nuo sprendimo įteikimo suinteresuotam asmeniui dienos gali būti skundžiami bendrosios kompetencijos teismui. Teismo nutartys dėl šioje dalyje nurodytų sprendimų neskundžiamos.
 
 
-1) pareiškėjas (ieškovas) atsisakė prašymo nagrinėti skundą ar ginčą, o skundus ir ginčus nagrinėjanti institucija atsisakymą patvirtino;
 
 
+10. Komisija ne teismo tvarka nagrinėja tarp energetikos įmonių kylančius ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės energetikos įmonėms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo. Šie ginčai nagrinėjami pagal Komisijos patvirtintas energetikos įmonių ginčų nagrinėjimo taisykles. Be to, energetikos įmonės, vadovaudamosi šio įstatymo ir Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo nuostatomis, turi teisę kreiptis į Valstybinę energetikos inspekciją ar Komisiją, prašydamos joms tarpininkauti ir (ar) jas taikinti, kad ginčas dėl šio ar kitų energetikos srities įstatymų reglamentuojamų santykių būtų išspręstas taikiai. Valstybinė energetikos inspekcija ir Komisija nustato savo taikinamojo tarpininkavimo taisykles. 
 
 
-2) teismas nagrinėja ginčą tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu;
-
-
-
-
-3) šalys sudarė taikos sutartį.
-
-
-
-
-
-
-7. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija palieka skundą ar ginčą nenagrinėtą, jeigu paaiškėja šio straipsnio 5 dalies 4 ar 5 punkte nurodytos aplinkybės, taip pat jeigu:
-
-
-1) skundus ir ginčus nagrinėjanti institucija nagrinėja skundą ar ginčą tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu;
-
-
-
-
-2) prašyme nagrinėti skundą ar ginčą yra trūkumų ir pareiškėjas (ieškovas) per skundus ir ginčus nagrinėjančios institucijos nustatytą terminą šių trūkumų nepašalina.
-
-
-
-
-
-
-8. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija sustabdo skundo ar ginčo nagrinėjimą, jeigu:
-
-
-1) pasibaigė viena iš ginčo šalių (nagrinėjimas sustabdomas, kol bus perimtos pasibaigusios ginčo šalies teisės ir pareigos arba paaiškės aplinkybės, dėl kurių teisės ir pareigos nebuvo perimtos). Jeigu šiuo atveju įmanoma išskirti reikalavimus, nesusijusius su pasibaigusia ginčo šalimi, skundus ir ginčus nagrinėjanti institucija toliau atskirai nagrinėja ginčą dėl reikalavimų, nesusijusių su pasibaigusia ginčo šalimi;
-
-
-
-
-2) skundus ir ginčus nagrinėjančioje institucijoje, teisme ar arbitraže nagrinėjamas kitas skundas ar ginčas arba kita byla, kurių neišnagrinėjus negalima nagrinėti ginčo, kurio nagrinėjimas stabdomas.
-
-
-
-
-
-
-9. Nagrinėjant vartotojų ir energetikos įmonių skundus ir ginčus, ginčo šalys, kiti suinteresuoti asmenys ir asmenys, dalyvaujantys nagrinėjant skundą ar ginčą, turi teisę susipažinti su skundo ar ginčo nagrinėjimo medžiaga, išskyrus medžiagą, kuri yra valstybės, tarnybos ar komercinė kitų asmenų paslaptis arba kurią atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo neliečiamumą. Ginčo šalis visada turi teisę susipažinti su prašymo nagrinėti skundą ar ginčą ir atsiliepimo tekstu. Skundo ar ginčo šalys, kiti suinteresuoti asmenys ir asmenys, dalyvaujantys nagrinėjant skundą ar ginčą, turi teisę teikti įrodymus, paaiškinimus, argumentus ir samprotavimus skundus ir ginčus nagrinėjančiai institucijai, prieštarauti kitos šalies ar kitų suinteresuotų asmenų ir asmenų, dalyvaujančių nagrinėjant skundą ar ginčą, prašymams, argumentams ir samprotavimams, gauti skundus ir ginčus nagrinėjančios institucijos sprendimų dėl skundo ar ginčo nuorašus, apskųsti skundus ir ginčus nagrinėjančios institucijos sprendimus ir naudotis kitomis šio įstatymo suteikiamomis teisėmis. Ginčo šalis, pateikusi prašymą, turi teisę atsisakyti prašymo nagrinėti skundą ar ginčą, o kita šalis – teisę pripažinti šį prašymą. Šalys gali užbaigti skundo ar ginčo nagrinėjimą skundus ir ginčus nagrinėjančios institucijos patvirtinta taikos sutartimi. Skundo ar ginčo šalys ir kiti suinteresuoti asmenys ir asmenys, dalyvaujantys nagrinėjant skundą ar ginčą, privalo naudotis savo teisėmis sąžiningai.
-
-
-
-
-10. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija skundą ar ginčą nagrinėja rašytinio proceso tvarka, išskyrus atvejus, kai bet kurios iš skundo ar ginčo šalių ar kitų suinteresuotų asmenų prašymu arba savo iniciatyva nusprendžia, kad skundas ar ginčas gali būti geriau išnagrinėtas posėdyje žodinio proceso tvarka. Skundus ir ginčus nagrinėjanti institucija praneša susijusiems asmenims apie tokį posėdį, tačiau jų neatvykimas nekliudo nagrinėti skundą ar ginčą. Skundo ar ginčo nagrinėjimas posėdyje yra viešas, išskyrus atvejus, kai skundus ir ginčus nagrinėjanti institucija, siekdama apsaugoti valstybės, tarnybos ar komercines paslaptis arba užtikrinti fizinio asmens teisę į privataus gyvenimo neliečiamumą, nusprendžia nagrinėti skundą ar ginčą uždarame posėdyje.
-
-
-
-
-11. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija turi teisę atsisakyti priimti įrodymus, prašymus ir motyvus, jeigu jie privalėjo būti pateikti anksčiau, teikiant skundą ar prašymą dėl ginčo nagrinėjimo arba skundą ar ginčą nagrinėjančios institucijos nurodymu teikiant paaiškinimus dėl skundo ar ginčo esmės ir faktinių aplinkybių.
-
-
-
-
-12. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija išnagrinėja skundą ne vėliau kaip per 30 dienų nuo skundo priėmimo arba priima sprendimą dėl ginčo ne vėliau kaip per keturis mėnesius nuo prašymo nagrinėti ginčą priėmimo, išskyrus atvejus, kai dėl išimtinių aplinkybių (pavyzdžiui, daug įrodymų, sudėtingos ginčo aplinkybės) skundui ar ginčui nagrinėti reikia ilgesnio laiko.
-
-
-
-
-13. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos sprendimas įsigalioja ir yra privalomas vykdyti pasibaigus šio straipsnio 16 dalyje nustatytam terminui. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos, nagrinėjusios skundą ar ginčą, priimtas procedūrinis sprendimas įsigalioja ir yra privalomas vykdyti nuo jo priėmimo dienos. 
-
-
-
-
-14. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos sprendimas dėl skundo ar ginčo yra viešas, kiek tai nepažeidžia valstybės, tarnybos, komercinės paslapties ar fizinio asmens privataus gyvenimo apsaugos. Skundus ir ginčus nagrinėjančios institucijos patvirtintose skundų ir ginčų nagrinėjimo taisyklėse nustatyta tvarka, kuria skundo ar ginčo šalys ir kiti suinteresuoti asmenys, taip pat asmenys, dalyvavę nagrinėjant skundą ar ginčą, nurodo, kokia informacija, išdėstyta sprendimo tekste, turėtų būti konfidenciali. Sprendimo tekste išdėstytos teisės aiškinimo taisyklės visais atvejais yra viešos. Ginčo šalims ir skundo pareiškėjui pateikiamas išsamus motyvuotas skundus ir ginčus nagrinėjančios institucijos sprendimas dėl ginčo ar skundo.
-
-
-
-
-15. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos procedūriniai sprendimai, priimti nagrinėjant skundą ar ginčą, tarp jų ir sprendimai atsisakyti priimti prašymą nagrinėti skundą ar ginčą, palikti prašymą nenagrinėtą, nutraukti ar sustabdyti skundo ar ginčo nagrinėjimą, užkertantys kelią tolesniam skundo ar ginčo nagrinėjimui, per 7 dienas nuo sprendimo įteikimo suinteresuotam asmeniui dienos gali būti skundžiami Vilniaus apygardos teismui.
-
-
-
-
-16. Ginčo šalys per 30 dienų nuo vartotojų ir energetikos įmonių ginčus nagrinėjančios institucijos sprendimo, kuriuo ginčas išsprendžiamas iš esmės ar ginčo nagrinėjimas nutraukiamas, priėmimo turi teisę kreiptis į Vilniaus apygardos teismą ir prašyti nagrinėti jų ginčą iš esmės.
-
-
-
-
-17. Įsigaliojęs vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka.
-
-
-
-
-18. Asmenys, veikiantys energetikos sektoriuje, vadovaudamiesi šio įstatymo ir Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo nuostatomis, turi teisę kreiptis į skundus ir ginčus nagrinėjančią instituciją, kad ji šiems asmenims tarpininkautų ir (ar) juos taikintų, siekiant ginčą dėl šio įstatymo reglamentuojamų visuomeninių santykių išspręsti taikiai be privalomo skundų sprendimo. Skundus ir ginčus nagrinėjanti institucija nustato taikinamojo tarpininkavimo taisykles, kurios taikomos asmenims ginčo taikinimo tarpininku pasirinkus skundus ir ginčus nagrinėjančią instituciją.
-
-
-
-
-19. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija, priimdama sprendimą dėl pareiškėjo skunde ar prašyme išspręsti ginčą pateiktų reikalavimų pagrįstumo ir jų patenkinimo, taip pat teikdama pasiūlymą dėl ginčo sprendimo taikinamojo tarpininkavimo procedūros metu, visais atvejais privalo įvertinti vartotojo patirtas ir prašomas grąžinti ir (ar) kompensuoti išlaidas ir, patenkinus šį reikalavimą, įpareigoti energetikos įmonę atitinkamai grąžinti ir (ar) kompensuoti vartotojo patirtas išlaidas ar jų dalį.
-
-
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir energetikos įmonių ginčai, taip pat vartotojų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
 Straipsnio pakeitimai:
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
+Straipsnio pakeitimai:
+Nr. XII-2089, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19367
+ 
+
+
+
+
+341 straipsnis. Skundų nagrinėjimas
+
+
+1. Tarnyba Vartotojų teisių apsaugos įstatymo nustatyta tvarka nagrinėja buitinių vartotojų skundus dėl energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo. Tarnyba Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo (toliau – Nesąžiningos komercinės veiklos vartotojams draudimo įstatymas) nustatyta tvarka nagrinėja ir buitinių vartotojų skundus dėl energijos tiekėjų nesąžiningos komercinės veiklos. Jeigu nustatoma nesąžiningos komercinės veiklos atvejų, energetikos įmonė atsako Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka.
+
+
+
+
+2. Valstybinė energetikos inspekcija pagal šiame ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose nustatytą kompetenciją nagrinėja skundus dėl energetikos objektų, įrenginių ir apskaitos priemonių techninės saugos, eksploatavimo, energijos kokybės reikalavimų, dėl prisijungimo prie energetikos objektų ar įrenginių, atsijungimo nuo jų techninių sąlygų ir kitų teisės aktuose nustatytų reguliuojamos energetikos veiklos reikalavimų laikymosi.
+
+
+
+
+3. Komisija pagal šiame ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose nustatytą kompetenciją nagrinėja skundus dėl energetikos įmonių atliekamo energijos tiekimo, skirstymo, perdavimo, laikymo ar neveikimo, dėl teisės energetikos įmonėms pasinaudoti tinklais ar (ir) sistemomis nesuteikimo ir kitų teisės aktuose nustatytų reguliuojamos energetikos veiklos reikalavimų laikymosi.
+
+
+
+
+4. Šio straipsnio 2 dalyje nurodyti vartotojų skundai nagrinėjami Lietuvos Respublikos viešojo administravimo įstatymo (toliau – Viešojo administravimo įstatymas) ir Lietuvos Respublikos energetikos ministerijos nustatyta tvarka. Šio straipsnio 3 dalyje nurodyti vartotojų skundai nagrinėjami Viešojo administravimo įstatymo ir Komisijos nustatyta tvarka.
+
+
+
+
+5. Valstybinės energetikos inspekcijos ir Komisijos sprendimai, priimti nagrinėjant skundus, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir energetikos įmonių ginčai, taip pat vartotojų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
+Papildyta straipsniu:
+Nr. XII-2089, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19367
  
 
 
@@ -2893,3 +2835,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 36 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6 ir 15 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2089, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19367
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 34 straipsnio pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
