@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-12-22 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-07
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -271,12 +271,19 @@ Nr. XII-435, 2013-06-27, Žin., 2013, Nr. 75-3762 (2013-07-13)
 
 
 
-2. Statutiniams valstybės tarnautojams šio Įstatymo 31 straipsnis, 9 straipsnio 3 dalies 1 punktas ir 4 dalis, 15 straipsnis, 16 straipsnio 4 ir 6 dalys, 161 straipsnis, 17 straipsnis, 181 straipsnis, 183 straipsnis, 19 straipsnis, 28 straipsnis, 29 straipsnio 2, 5 ir 6 dalys, 31 straipsnis, 311 straipsnis, 32 straipsnis, 33 straipsnis, 34 straipsnis, 341 straipsnis, 381 straipsnis, 39 straipsnio 1 dalis, 42 straipsnio 2 dalis, 43 straipsnio 5 dalies 9 punktas, 44 straipsnio 1 dalies 19 ir 20 punktai ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja jų statutai ar Diplomatinės tarnybos įstatymas.
+2. Statutiniams valstybės tarnautojams šio Įstatymo 31 straipsnis, 51 straipsnis, 9 straipsnio 3 dalies 1 punktas ir 4 dalis, 15 straipsnis, 16 straipsnio 4 ir 6 dalys, 161 straipsnis, 17 straipsnis, 181 straipsnis, 183 straipsnis, 19 straipsnis, 261 straipsnis, 28 straipsnis, 29 straipsnio 2, 5 ir 6 dalys, 31 straipsnis, 311 straipsnis, 32 straipsnis, 33 straipsnis, 34 straipsnis, 341 straipsnis, 381 straipsnis, 39 straipsnio 1 dalis, 42 straipsnio 2 dalis, 43 straipsnio 5 dalies 9 punktas, 44 straipsnio 1 dalies 19 ir 20 punktai taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja jų statutai ar Diplomatinės tarnybos įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1857, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10816
+ 
 
 
 
 
-3. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės įstaigų vadovams ir Vyriausybės priimamiems kitiems šių įstaigų pareigūnams taikomi šio Įstatymo 32 ir 33 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio Įstatymo 36 straipsnis. Specialiųjų tyrimų tarnybos direktoriui ir jo pavaduotojams, policijos generaliniam komisarui taikomos šio Įstatymo VI skyriaus nuostatos. Respublikos Prezidento kanceliarijos kancleriui šis Įstatymas taikomas be išlygų, o Seimo kancleriui – su Seimo statute numatytomis taisyklėmis.
+3. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės įstaigų vadovams ir Vyriausybės priimamiems kitiems šių įstaigų pareigūnams taikomi šio Įstatymo 32 ir 33 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio Įstatymo 36 straipsnis. Respublikos Prezidento kanceliarijos kancleriui šis Įstatymas taikomas be išlygų, o Seimo kancleriui – su Seimo statute numatytomis taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1857, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10816
+Nr. XII-2139, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19746
+ 
 
 
 
@@ -324,7 +331,15 @@ Nr. XII-435, 2013-06-27, Žin., 2013, Nr. 75-3762 (2013-07-13)
 
 
 
-8) žvalgybos pareigūnams.
+8) žvalgybos pareigūnams;
+
+
+
+
+9) Lietuvos Respublikos specialiųjų tyrimų tarnybos pareigūnams.
+Papildyta straipsnio punktu:
+Nr. XII-2139, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19746
+ 
 
 
 
@@ -1269,7 +1284,11 @@ Valstybės tarnautojui neleidžiama:
 
 
 
-5) eiti daugiau negu vienerias valstybės tarnautojo pareigas. Seimo nario padėjėjas-sekretorius gali dirbti pas tą patį Seimo narį, pas kitą Seimo narį, priklausantį tai pačiai Seimo frakcijai, padėjėju-sekretoriumi ir Seimo frakcijos, kuriai priklauso Seimo narys, referentu, bet jo darbo dienos trukmė negali būti ilgesnė kaip dvylika valandų.
+5) eiti daugiau negu vienerias valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš jos kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario padėjėjas-sekretorius gali dirbti pas tą patį Seimo narį, pas kitą Seimo narį, priklausantį tai pačiai Seimo frakcijai, padėjėju-sekretoriumi ir Seimo frakcijos, kuriai priklauso Seimo narys, referentu, bet jo darbo dienos trukmė negali būti ilgesnė kaip dvylika valandų.
+TAR pastaba. Iki įstatymo Nr. XII-2009 įsigaliojimo(2016-01-01) tarp valstybės tarnautojo ir institucijos, kurioje jis eina valstybės tarnautojo pareigas, sudarytos darbo sutartys laikomos galiojančiomis iki sprendimo dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį galiojimo pabaigos.
+Straipsnio punkto pakeitimai:
+Nr. XII-2009, 2015-11-12, paskelbta TAR 2015-11-20, i. k. 2015-18479
+ 
 
 
 
@@ -2135,7 +2154,10 @@ Nr. XII-517, 2013-09-19, Žin., 2013, Nr. 102-5026 (2013-09-28)
 
 
 
-2. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytos priemokos negali būti mokamos ilgiau kaip vienerius metus nuo jų paskyrimo, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus. Jei valstybės tarnautojui ilgiau negu vienerius metus tenka dirbti šio straipsnio 1 dalies 1 ir 2 punktuose nurodytomis sąlygomis, laikoma, kad jos įgavo nuolatinį pobūdį. Šiuo atveju papildomas valstybės tarnautojo pareigybės aprašymas, taikoma Valstybės tarnybos įstatymo 43 straipsnio 12 dalyje nustatyta garantija ir gali būti patikslinami struktūrinio padalinio uždaviniai ir funkcijos. 
+2. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytos priemokos negali būti mokamos ilgiau kaip vienerius metus nuo jų paskyrimo, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus, taip pat atvejus, kai priemokos skiriamos už projektų, trunkančių ilgiau kaip vienerius metus, vykdymą. Jei valstybės tarnautojui ilgiau negu vienerius metus tenka dirbti šio straipsnio 1 dalies 1 ir 2 punktuose nurodytomis sąlygomis, išskyrus projektų, trunkančių ilgiau negu vienerius metus, vykdymą, laikoma, kad jos įgavo nuolatinį pobūdį. Šiuo atveju papildomas valstybės tarnautojo pareigybės aprašymas, taikoma šio įstatymo 43 straipsnio 12 dalyje nustatyta garantija ir gali būti patikslinami struktūrinio padalinio uždaviniai ir funkcijos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2009, 2015-11-12, paskelbta TAR 2015-11-20, i. k. 2015-18479
+ 
 
 
 
@@ -2311,7 +2333,10 @@ Valstybės tarnautojai už tarnybinius nusižengimus traukiami tarnybinėn atsak
 
 
 
-4) piktnaudžiavimas tarnyba bei Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimas; 
+4) piktnaudžiavimas tarnyba ir šiurkštus Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2181, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20873
+ 
 
 
 
@@ -5682,3 +5707,23 @@ Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2174, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20141
 Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 6 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1857, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10816
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 4 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2009, 2015-11-12, paskelbta TAR 2015-11-20, i. k. 2015-18479
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 ir 26 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2139, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19746
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 4 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2181, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20873
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 29 straipsnio pakeitimo įstatymas
