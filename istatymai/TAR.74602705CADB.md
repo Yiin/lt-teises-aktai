@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2015-03-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -202,7 +202,10 @@ ATSARGŲ KAUPIMO ĮGYVENDINIMO IR PRIEŽIŪROS SUBJEKTAI
 
 
 
-3. Atsargų kokybę Taisyklėse nustatyta tvarka kontroliuoja Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos.
+3. Atsargų kokybę Taisyklėse nustatyta tvarka kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XII-1890, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11084
+ 
 
 
 
@@ -984,3 +987,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2, 5, 7, 11, 14, 15, 16, 19 ir 21 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1890, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11084
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 4 straipsnio pakeitimo įstatymas
