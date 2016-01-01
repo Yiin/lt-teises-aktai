@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -208,6 +208,14 @@ Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 
 
 
+22. Šiame įstatyme vartojamos sąvokos „kredito pervedimas“ ir „tiesioginis debetas“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokėjimų įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
+
+
+
+
 
 
 
@@ -384,7 +392,9 @@ LĖŠŲ UŽ PATIEKTĄ ŽEMĖS ŪKIO PRODUKCIJĄ NURAŠYMO EILIŠKUMAS
 
 
 
-5. Jeigu žemės ūkio produkcijos pardavėjas mokėjimo paslaugų teikėjui jau buvo pateikęs mokėjimo nurodymą atlikti debeto pervedimą, prieš pateikdamas prašymą išduoti vekselį jis privalo šį mokėjimo nurodymą atšaukti. Jeigu žemės ūkio produkcijos pardavėjas prašo išduoti vekselį tik dėl dalies neišmokėtos sumos, mokėjimo nurodymą atlikti debeto pervedimą jis gali pateikti iš naujo, nurodomą išmokėti pinigų sumą šiame mokėjimo nurodyme sumažindamas suma, dėl kurios prašo išduoti vekselį. 
+5. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
  
 
 
@@ -395,30 +405,17 @@ LĖŠŲ UŽ PATIEKTĄ ŽEMĖS ŪKIO PRODUKCIJĄ NURAŠYMO EILIŠKUMAS
 9 straipsnis. Atsiskaitymo už žemės ūkio produkciją tvarka
 
 
-1. Už žemės ūkio produkciją atsiskaitoma šalių susitarimu mokėjimo nurodymais atlikti kredito ir debeto pervedimus, naudojant vekselius, įskaitymo būdu, kitomis teisės aktuose nustatytomis mokėjimo priemonėmis ir grynaisiais pinigais, nepažeidžiant šio įstatymo ir kitų teisės aktų reikalavimų. Mokėjimo nurodymuose atlikti kredito ir debeto pervedimus būtina nurodyti žemės ūkio produkcijos rūšį, jos patiekimo datą ir žemės ūkio produkcijos pirkimo–pardavimo sutartyje numatytą atsiskaitymo terminą.
+1. Už žemės ūkio produkciją atsiskaitoma šalių susitarimu mokėjimo nurodymais atlikti kredito pervedimus ir tiesioginį debetą, naudojant vekselius, įskaitymo būdu, kitomis teisės aktuose nustatytomis mokėjimo priemonėmis ir grynaisiais pinigais, nepažeidžiant šio įstatymo ir kitų teisės aktų reikalavimų. Mokėjimo nurodymuose atlikti kredito pervedimus ir tiesioginį debetą būtina nurodyti žemės ūkio produkcijos rūšį, jos patiekimo datą ir žemės ūkio produkcijos pirkimo–pardavimo sutartyje numatytą atsiskaitymo terminą. 
 
 
 
 
-2. Mokėjimo nurodymai atlikti kredito ir debeto pervedimus mokėjimo paslaugų teikėjams privalo būti pateikti iki žemės ūkio produkcijos pirkimo–pardavimo sutartyje numatyto atsiskaitymo termino pabaigos likus tiek laiko, kiek pagal Lietuvos Respublikos mokėjimų įstatyme nustatytus terminus užtruks tų lėšų pervedimas.
+2. Mokėjimo nurodymai atlikti kredito pervedimus ir tiesioginį debetą mokėjimo paslaugų teikėjams privalo būti pateikti iki žemės ūkio produkcijos pirkimo–pardavimo sutartyje numatyto atsiskaitymo termino pabaigos likus tiek laiko, kiek pagal Lietuvos Respublikos mokėjimų įstatyme nustatytus terminus užtruks tų lėšų pervedimas. 
 
 
-
-
-3. Už žemės ūkio produkciją numačius atsiskaityti mokėjimo nurodymais atlikti debeto pervedimus, žemės ūkio produkcijos pirkimo–pardavimo sutartis pripažįstama šios produkcijos pirkėjo rašytiniu sutikimu lėšas nurašyti iš jo sąskaitos ir pervesti šios produkcijos pardavėjui. Ši nuostata turi būti numatyta žemės ūkio produkcijos pirkimo–pardavimo sutartyje kaip privaloma sąlyga. 
-
-
-
-
-4. Žemės ūkio produkcijos pardavėjų pateiktus mokėjimo nurodymus atlikti debeto pervedimus mokėjimo paslaugų teikėjai priima, nors žemės ūkio produkcijos pirkėjų sąskaitose ir nėra pakankamai lėšų.
-
-
-
-
-5. Žemės ūkio produkcijos pirkimas atsiskaitant grynaisiais pinigais įforminamas teisės aktuose nustatyta tvarka. Už žemės ūkio produkciją atsiskaitoma grynaisiais pinigais pagal kasos išlaidų orderį arba per įmonės, perkančios žemės ūkio produkciją, atskaitingą asmenį pagal pinigų sumokėjimo įrodymo dokumentą – mokėjimo žiniaraštį. 
+Straipsnio pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
  
-
-
 
 
 
@@ -462,7 +459,10 @@ Jeigu gavęs žemės ūkio produkciją šios produkcijos pirkėjas neatsiskaito 
 
 
 
-2. Pavėluoto mokėjimo palūkanos skaičiuojamos už kiekvieną sumokėti pradelstą dieną nuo nesumokėtos žemės ūkio produkcijos pardavėjui už patiektą žemės ūkio produkciją mokėtinos pinigų sumos pasibaigus įstatyme ir (arba) Vyriausybės nutarime arba žemės ūkio produkcijos pirkimo–pardavimo sutartyje nustatytam atsiskaitymo terminui ir mokamos žemės ūkio produkcijos pardavėjui iki galutinio atsiskaitymo su juo dienos. Atsiskaitant už žemės ūkio produkciją dalimis, pavėluoto mokėjimo palūkanos apskaičiuojamos nuo nesumokėtos pinigų sumos ir mokėjimo nurodyme arba grynųjų pinigų mokėjimui įforminti skirtuose dokumentuose įrašomos atskirai. Šiuose dokumentuose taip pat pažymima, kad už žemės ūkio produkciją atsiskaitoma dalimis.
+2. Pavėluoto mokėjimo palūkanos skaičiuojamos už kiekvieną sumokėti pradelstą dieną nuo nesumokėtos žemės ūkio produkcijos pardavėjui už patiektą žemės ūkio produkciją mokėtinos pinigų sumos pasibaigus įstatyme ir (arba) Vyriausybės nutarime arba žemės ūkio produkcijos pirkimo–pardavimo sutartyje nustatytam atsiskaitymo terminui ir mokamos žemės ūkio produkcijos pardavėjui iki galutinio atsiskaitymo su juo dienos. Atsiskaitant už žemės ūkio produkciją dalimis, pavėluoto mokėjimo palūkanos apskaičiuojamos nuo nesumokėtos pinigų sumos ir nurodomos mokėjimo nurodyme arba grynųjų pinigų mokėjimui įforminti skirtuose dokumentuose. Šiuose dokumentuose taip pat pažymima, kad už žemės ūkio produkciją atsiskaitoma dalimis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 
@@ -505,7 +505,10 @@ Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 
 
 
-6. Pavėluoto mokėjimo palūkanas ir išieškojimo išlaidų kompensavimo sumą, nurodytą šio straipsnio 4 dalyje, mokėjimo nurodymuose atlikti kredito ir debeto pervedimus įrašo mokėjimo nurodymus išrašantis ūkio subjektas. 
+6. Pavėluoto mokėjimo palūkanas ir išieškojimo išlaidų kompensavimo sumą, nurodytą šio straipsnio 4 dalyje, mokėjimo nurodyme įrašo jį pateikiantis ūkio subjektas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 
@@ -617,7 +620,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR GINČŲ NAGRINĖJIMAS
 15 straipsnis. Atsakomybė už šio įstatymo pažeidimus ir ginčų nagrinėjimas 
 
 
-1. Žemės ūkio produkcijos pirkėjai ir pardavėjai, taip pat mokėjimo paslaugų teikėjai, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka. 
+1. Žemės ūkio produkcijos pirkėjai ir pardavėjai, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 
@@ -656,6 +662,14 @@ priedas
 
 
 1. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 2011/7/ES dėl kovos su pavėluotu mokėjimu, atliekamu pagal komercinius sandorius (OL 2011 L 48, p. 1). 
+
+
+
+
+2. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (OL 2012 L 94, p. 22).
+Papildyta punktu:
+Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
+ 
 
 
 Papildyta priedu:
