@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-10 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-06-27
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -71,14 +71,7 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Savivaldybė – įstatymo nustatytas valstybės teritorijos administracinis vienetas, kurio bendruomenė turi Konstitucijos laiduotą savivaldos teisę, įgyvendinamą per to valstybės teritorijos administracinio vieneto nuolatinių gyventojų išrinktą savivaldybės tarybą ir jos sudarytas, jai atskaitingas vykdomąją ir kitas savivaldybės institucijas ir įstaigas. Savivaldybė yra viešasis juridinis asmuo.
-1 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 1. Savivaldybė – įstatymo nustatytas valstybės teritorijos administracinis vienetas, kurio bendruomenė turi Konstitucijos laiduotą savivaldos teisę, įgyvendinamą per to valstybės teritorijos administracinio vieneto nuolatinių gyventojų išrinktą savivaldybės tarybą, kuri sudaro jai atskaitingas vykdomąją ir kitas savivaldybės institucijas ir įstaigas įstatymams, Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ir savivaldybės tarybos sprendimams tiesiogiai įgyvendinti. Savivaldybė yra viešasis juridinis asmuo.
- 
 
 
 
@@ -91,14 +84,7 @@ BENDROSIOS NUOSTATOS
 3. Savivaldybės institucijos – už savivaldos teisės įgyvendinimą savivaldybės bendruomenės interesais atsakingos institucijos:
 
 
-1) savivaldybės atstovaujamoji institucija – savivaldybės taryba, turinti vietos valdžios ir viešojo administravimo teises ir pareigas;
-1 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 1) savivaldybės atstovaujamoji institucija – savivaldybės taryba, turinti vietos valdžios ir viešojo administravimo teises ir pareigas, kuriai vadovauja Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo (toliau – Savivaldybių tarybų rinkimų įstatymas) nustatyta tvarka vienmandatėje rinkimų apygardoje tiesiogiai išrinktas savivaldybės tarybos narys – savivaldybės meras (toliau – meras). Meras yra savivaldybės vadovas, vykdantis šiame ir kituose įstatymuose nustatytus įgaliojimus;
- 
 
 
 
@@ -180,14 +166,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Savivaldybės tarybos dauguma – savivaldybės tarybos narių frakcija ir (ar) savivaldybės tarybos narių grupė, delegavusios (delegavusi) savo kandidatų į savivaldybės vykdomąją instituciją arba mero, mero pavaduotojo pareigas ir pirmajame ar kitame savivaldybės tarybos posėdyje viešu pareiškimu, įteiktu posėdžio pirmininkui, pateikusios (pateikusi) savo veiklos programą, taip pat savivaldybės tarybos narių frakcija ir (ar) savivaldybės tarybos narių grupė, viešu pareiškimu nedeklaravusios (nedeklaravusi), kad nedalyvauja sudarant savivaldybės vykdomąją instituciją, ir nedelegavusios (nedelegavusi) į mero, mero pavaduotojo pareigas savo kandidatų.
-18 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 18. Savivaldybės tarybos dauguma – savivaldybės tarybos narių frakcija ir (ar) savivaldybės tarybos narių grupė, delegavusios (delegavusi) savo kandidatų į savivaldybės vykdomąją instituciją arba mero pavaduotojo pareigas ir pirmajame ar kitame savivaldybės tarybos posėdyje viešu pareiškimu, įteiktu posėdžio pirmininkui, pateikusios (pateikusi) savo veiklos programą, taip pat savivaldybės tarybos narių frakcija ir (ar) savivaldybės tarybos narių grupė, viešu pareiškimu nedeklaravusios (nedeklaravusi), kad nedalyvauja sudarant savivaldybės vykdomąją instituciją, ir nedelegavusios (nedelegavusi) į mero pavaduotojo pareigas savo kandidatų.
- 
 
 
 
@@ -307,14 +286,7 @@ SAVIVALDYBIŲ FUNKCIJOS
 
 
 
-2. Savivaldybių funkcijos pagal veiklos pobūdį skirstomos į vietos valdžios, viešojo administravimo ir viešųjų paslaugų teikimo. Vietos valdžios funkcijas įstatymų nustatyta tvarka atlieka savivaldybės taryba. Viešojo administravimo funkcijas įstatymų nustatyta tvarka atlieka savivaldybės taryba, savivaldybės vykdomoji institucija (vykdomosios institucijos), kiti savivaldybės įstaigų ir tarnybų vadovai, valstybės tarnautojai, kuriems teisės aktai ar savivaldybės tarybos sprendimai suteikia viešojo administravimo teises savivaldybės teritorijoje. Viešąsias paslaugas teikia savivaldybių įsteigti paslaugų teikėjai arba pagal sudarytas sutartis kiti viešai pasirenkami fiziniai ar juridiniai asmenys.
-2 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 2. Savivaldybių funkcijos pagal veiklos pobūdį skirstomos į vietos valdžios, viešojo administravimo ir viešųjų paslaugų teikimo. Vietos valdžios funkcijas įstatymų nustatyta tvarka atlieka savivaldybės taryba ir meras, įgyvendindami įstatymuose nustatytus įgaliojimus. Viešojo administravimo funkcijas įstatymų nustatyta tvarka atlieka savivaldybės taryba, meras, savivaldybės vykdomoji institucija (vykdomosios institucijos), kiti savivaldybės įstaigų ir tarnybų vadovai, valstybės tarnautojai, kuriems teisės aktai ar savivaldybės tarybos sprendimai suteikia viešojo administravimo teises savivaldybės teritorijoje. Viešąsias paslaugas teikia savivaldybių įsteigti paslaugų teikėjai arba pagal sudarytas sutartis kiti viešai pasirenkami fiziniai ar juridiniai asmenys.
- 
 
 
 
@@ -615,7 +587,7 @@ Valstybinės (valstybės perduotos savivaldybėms) funkcijos yra:
 
 
 
-6) Neteko galios nuo 2012-01-01;
+6) neteko galios nuo 2012-01-01;
 
 
 
@@ -683,7 +655,7 @@ Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
 
 
 
- 19) dalyvavimas organizuojant įstatymų numatytus rinkimus ir referendumus;
+19) dalyvavimas organizuojant įstatymų numatytus rinkimus ir referendumus;
 
 
 
@@ -776,7 +748,18 @@ Nr. XII-1232, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14521
 
 
 
-37) kitos pagal įstatymus perduotos funkcijos.
+37) neveiksnių asmenų būklės peržiūrėjimo užtikrinimas; 
+Papildyta straipsnio punktu:
+Nr. XII-1570, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05583
+ 
+
+
+
+
+38) kitos pagal įstatymus perduotos funkcijos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1570, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05583
+ 
 
 
 
@@ -848,17 +831,6 @@ VIEŠŲJŲ IR ADMINISTRACINIŲ PASLAUGŲ TEIKIMAS
 
 3. Jeigu seniūnija, vadovaudamasi šio įstatymo 8 straipsnio 2 dalimi, pati teikia viešąsias paslaugas, šioms paslaugoms administruoti paskiriamas kitas savivaldybės administracijos padalinys.
  
-
-
-
-
-
-
-10 straipsnis. Administracinių paslaugų teikimas
-
-
-Administracines paslaugas Viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka asmenims teikia savivaldybės administracijos direktorius ir savivaldybės administracija, kiti savivaldybės viešojo administravimo subjektai. 
-Straipsnio redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
@@ -996,19 +968,20 @@ SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 
 
 
-6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos turi būti išrinktas savivaldybės meras, paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir išrinkti (paskirti) šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jei nusprendžiama ją sudaryti.
-6 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti.
 
 
 
 
+7. Šio straipsnio 6 dalies nuostata (išskyrus tarybos komitetų bei įstatyme nustatytų komisijų sudarymą) netaikoma, jeigu išrinktas meras kitų įstatymų nustatyta tvarka laikinai nušalintas nuo pareigų. Pasibaigus išrinkto mero laikino nušalinimo laikotarpiui ne vėliau kaip per 5 kalendorines dienas turi būti sušauktas savivaldybės tarybos posėdis, kuriame išrinktas meras prisiekia (jeigu jis nebuvo prisiekęs). Nuo šio posėdžio dienos per du mėnesius turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. 
+Papildyta straipsnio dalimi:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+ 
+
+
+
+
 8. Jeigu išrinktos naujos savivaldybės tarybos rinkimų rezultatai pripažinti negaliojančiais, esamos savivaldybės tarybos įgaliojimai tęsiasi iki savivaldybės tarybos, kuri bus išrinkta per pakartotinius rinkimus, pirmojo posėdžio arba tiesioginio valdymo laikino įvedimo savivaldybės teritorijoje. 
-TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
  
@@ -1017,7 +990,6 @@ Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
 
 
 9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi, jeigu savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje.
-TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
  
@@ -1026,7 +998,6 @@ Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
 
 
 10. Ypatingomis aplinkybėmis, kai nei savivaldybės meras, nei savivaldybės mero pavaduotojas (pavaduotojai) negali eiti savo pareigų dėl nuo jų nepriklausančių priežasčių, savivaldybės tarybos posėdžiai šaukiami ir mero pareigos vykdomos reglamento nustatyta tvarka.
-TAR pastaba. Buvusi 9 dalis laikoma 10 dalimi  nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
  
@@ -1069,40 +1040,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-2. Pirmąjį išrinktos naujos savivaldybės tarybos posėdį šaukia apygardos rinkimų komisijos pirmininkas ne anksčiau kaip ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinę dieną ir ne vėliau kaip praėjus 7 kalendorinėms dienoms nuo ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinės dienos, kuri nustatoma vadovaujantis Konstitucijos 119 straipsniu, o jeigu savivaldybės tarybos rinkimai vyko įsteigtoje naujoje savivaldybėje arba savivaldybėje, kurioje buvo įvestas tiesioginis valdymas ar buvo surengti pakartotiniai rinkimai Savivaldybių tarybų rinkimų įstatymo 86 straipsnyje numatytu atveju, – ne vėliau kaip per dvi savaites po rinkimų rezultatų paskelbimo. Šiam posėdžiui pirmininkauja apygardos rinkimų komisijos pirmininkas. Apie pirmojo posėdžio sušaukimo laiką ir vietą apygardos rinkimų komisijos pirmininkas ne vėliau kaip prieš 14 dienų paskelbia per visuomenės informavimo priemones. Jeigu apygardos rinkimų komisijos pirmininkas išrinktos naujos savivaldybės tarybos pirmojo posėdžio nesušaukia iki šioje dalyje nustatyto termino pabaigos, išrinktos naujos savivaldybės tarybos nariai renkasi patys kitą dieną pasibaigus šiam terminui. Šiuo atveju posėdžiui pirmininkauja vyriausias pagal amžių tarybos narys.
-2 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 2. Pirmąjį išrinktos naujos savivaldybės tarybos posėdį šaukia savivaldybės rinkimų komisijos pirmininkas ne anksčiau kaip ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinę dieną ir ne vėliau kaip praėjus 7 kalendorinėms dienoms nuo ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinės dienos, kuri nustatoma vadovaujantis Konstitucijos 119 straipsniu, o jeigu savivaldybės tarybos rinkimai vyko įsteigtoje naujoje savivaldybėje arba savivaldybėje, kurioje buvo įvestas tiesioginis valdymas ar buvo surengti pakartotiniai rinkimai Savivaldybių tarybų rinkimų įstatymo 86 straipsnyje numatytu atveju, – ne vėliau kaip per dvi savaites po rinkimų rezultatų paskelbimo. Šiam posėdžiui pirmininkauja savivaldybės rinkimų komisijos pirmininkas arba jo įgaliotas savivaldybės rinkimų komisijos narys. Apie pirmojo posėdžio sušaukimo laiką ir vietą savivaldybės rinkimų komisijos pirmininkas ne vėliau kaip prieš 14 dienų paskelbia per visuomenės informavimo priemones. Jeigu savivaldybės rinkimų komisijos pirmininkas išrinktos naujos savivaldybės tarybos pirmojo posėdžio nesušaukia iki šioje dalyje nustatyto termino pabaigos, išrinktos naujos savivaldybės tarybos nariai renkasi patys kitą dieną pasibaigus šiam terminui. Šiuo atveju posėdžiui pirmininkauja meras arba, jeigu jo nėra, – vyriausias pagal amžių tarybos narys.
- 
-
-
-
-
-3. Pirmajam ir kitiems išrinktos naujos savivaldybės tarybos posėdžiams, iki bus išrinktas savivaldybės meras, pirmininkauja šio straipsnio 2 dalyje nustatyti asmenys. Pirmajame išrinktos naujos savivaldybės tarybos posėdyje:
-
-
-1) prisiekia savivaldybės tarybos nariai;
-
-
-
-
-2) gali būti posėdžio pirmininkui įteikiami vieši pareiškimai dėl savivaldybės tarybos narių vienijimosi į frakcijas, dėl savivaldybės tarybos daugumos ir savivaldybės tarybos mažumos (opozicijos) sudarymo;
-
-
-
-
-3) priimamas sprendimas dėl savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų, nes baigėsi jo įgaliojimų laikas, ir pavedimo savivaldybės administracijos direktoriui, savivaldybės administracijos direktoriaus pavaduotojui ar kitam savivaldybės administracijos valstybės tarnautojui eiti savivaldybės administracijos direktoriaus pareigas tol, kol bus paskirtas savivaldybės administracijos direktorius (direktoriaus pavaduotojas) naujai kadencijai;
-
-
-
-
-4) renkamas savivaldybės meras (toliau – meras), gali būti skiriami mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius. Mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius negali būti skiriami, jeigu pirmajame posėdyje meras neišrenkamas. Jeigu per pirmąjį posėdį meras neišrenkamas, savivaldybės taryba priima sprendimą dėl kito posėdžio datos. Jis turi įvykti ne vėliau kaip per 5 kalendorines dienas po pirmojo posėdžio, jam taip pat pirmininkauja apygardos rinkimų komisijos pirmininkas.
-3 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
 
 
 
@@ -1141,38 +1079,17 @@ Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
 
 
 
-4. Kitus savivaldybės tarybos posėdžius prireikus, bet ne rečiau kaip kas 3 mėnesiai, šaukia meras, o kai jo nėra, – mero pavaduotojas. Savivaldybės tarybos posėdžiams pirmininkauja meras, o kai jo nėra (reglamento nustatytais atvejais), – mero pavaduotojas. Meras, o kai jo nėra, – mero pavaduotojas privalo sušaukti savivaldybės tarybos posėdį, jeigu to raštu reikalauja ne mažiau kaip 1/3 išrinktų tarybos narių pateikdami svarstytinus klausimus kartu su sprendimų projektais, ne vėliau kaip per dvi savaites nuo tarybos narių reikalavimo gavimo. Jeigu per nustatytą laiką meras ar jo pavaduotojas savivaldybės tarybos posėdžio nesušaukia, jį gali šaukti ne mažiau kaip 1/3 išrinktų tarybos narių. Jeigu meras ar jo pavaduotojas posėdyje nedalyvauja, posėdžiui pirmininkauja ir visus posėdyje priimtus dokumentus pasirašo savivaldybės tarybos paskirtas tarybos narys. 
-4 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 4. Kitus savivaldybės tarybos posėdžius prireikus, bet ne rečiau kaip kas 3 mėnesiai, šaukia meras, o kai jo nėra, – mero pavaduotojas, o kai šio nėra, – laikinai mero pareigas einantis tarybos narys. Savivaldybės tarybos posėdžiams pirmininkauja meras, o kai jo nėra (reglamento nustatytais atvejais), – mero pavaduotojas, o kai šio nėra, – laikinai mero pareigas einantis tarybos narys. Meras, o kai jo nėra, – mero pavaduotojas, o kai šio nėra, – laikinai einantis mero pareigas tarybos narys privalo sušaukti savivaldybės tarybos posėdį, jeigu to raštu reikalauja ne mažiau kaip 1/3 išrinktų tarybos narių pateikdami svarstytinus klausimus kartu su sprendimų projektais, ne vėliau kaip per dvi savaites nuo tarybos narių reikalavimo gavimo. Jeigu per nustatytą laiką meras ar jo pavaduotojas arba laikinai mero pareigas einantis tarybos narys savivaldybės tarybos posėdžio nesušaukia, jį gali šaukti ne mažiau kaip 1/3 išrinktų tarybos narių. Jeigu meras ar jo pavaduotojas arba laikinai mero pareigas einantis tarybos narys savivaldybių tarybos posėdyje nedalyvauja, posėdžiui pirmininkauja ir visus posėdyje priimtus dokumentus pasirašo savivaldybės tarybos paskirtas tarybos narys.
- 
-
-
-
-
-5. Savivaldybės tarybos posėdyje svarstytinus klausimus kartu su sprendimų projektais merui pateikia komitetai, komisijos, tarybos nariai, tarybos narių frakcijos ir grupės, savivaldybės kontrolierius, savivaldybės administracijos direktorius. Savivaldybės tarybos posėdžiuose svarstomi tik tie klausimai, dėl kurių reglamento nustatyta tvarka yra pateikti sprendimų projektai. Pateikti sprendimų projektai yra registruojami reglamento nustatyta tvarka ir ne vėliau kaip artimiausią darbo dieną po registracijos paskelbiami savivaldybės interneto tinklalapyje.
-5 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
 
 5. Savivaldybės tarybos posėdyje svarstytinus klausimus kartu su sprendimų projektais merui pateikia komitetai, komisijos, tarybos nariai, tarybos narių frakcijos ir grupės, savivaldybės kontrolierius, savivaldybės administracijos direktorius. Savivaldybės tarybos posėdžiuose svarstomi tik tie klausimai, dėl kurių reglamento nustatyta tvarka yra pateikti sprendimų projektai. Pateikti sprendimų projektai yra registruojami reglamento nustatyta tvarka ir ne vėliau kaip artimiausią darbo dieną po registracijos paskelbiami savivaldybės interneto svetainėje.
- 
-
-
-
-
-6. Savivaldybės tarybos posėdžio darbotvarkę sudaro meras. Ne vėliau kaip prieš 4 darbo dienas iki savivaldybės tarybos posėdžio svarstytinus klausimus kartu su įregistruotais sprendimų projektais meras privalo įtraukti į posėdžio darbotvarkę. Jei meras svarstytinų klausimų į posėdžio darbotvarkę neįtraukia, dėl jų įtraukimo į darbotvarkę sprendžia savivaldybės taryba reglamente nustatyta tvarka. Savivaldybės tarybos posėdžio darbotvarkė ne vėliau kaip prieš 3 darbo dienas iki savivaldybės tarybos posėdžio paskelbiama savivaldybės interneto tinklalapyje.
-6 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
 
 6. Savivaldybės tarybos posėdžio darbotvarkę sudaro meras. Ne vėliau kaip prieš 4 darbo dienas iki savivaldybės tarybos posėdžio svarstytinus klausimus kartu su įregistruotais sprendimų projektais meras privalo įtraukti į posėdžio darbotvarkę. Jeigu meras svarstytinų klausimų į posėdžio darbotvarkę neįtraukia, dėl jų įtraukimo į darbotvarkę sprendžia savivaldybės taryba reglamente nustatyta tvarka. Savivaldybės tarybos posėdžio darbotvarkė ne vėliau kaip prieš 3 darbo dienas iki savivaldybės tarybos posėdžio paskelbiama savivaldybės interneto svetainėje.
- 
 
 
 
@@ -1195,30 +1112,20 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-10. Tarybos narys privalo nusišalinti nedalyvaudamas balsavime, kai sprendžiami su juo ar jo šeimos nariais ir artimaisiais giminaičiais susiję turtiniai ar finansiniai klausimai arba kai jo dalyvavimas balsuojant galėtų sukelti viešųjų ir privačių interesų konfliktą.
-
-
-
-
-11. Savivaldybės tarybos posėdžiai yra atviri. Posėdžio pirmininkas turi teisę leisti posėdyje kalbėti kviestiems asmenims. Jeigu savivaldybės tarybos posėdyje svarstomas klausimas yra susijęs su kitais posėdyje dalyvaujančiais asmenimis, jiems leidžiama užduoti klausimus pranešėjams ir kalbėti reglamento nustatyta tvarka. Kai yra techninės galimybės, savivaldybės tarybos nustatyta tvarka jos posėdžiai transliuojami interneto tinklalapyje.
-11 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
-11. Savivaldybės tarybos posėdžiai yra atviri. Posėdžio pirmininkas turi teisę leisti posėdyje kalbėti kviestiems asmenims. Jeigu savivaldybės tarybos posėdyje svarstomas klausimas yra susijęs su kitais posėdyje dalyvaujančiais asmenimis, jiems leidžiama užduoti klausimus pranešėjams ir kalbėti reglamento nustatyta tvarka. Kai yra techninės galimybės, savivaldybės tarybos nustatyta tvarka jos posėdžiai transliuojami savivaldybės interneto svetainėje.
+10. Tarybos narys savivaldybės tarybos posėdyje prieš pradedant svarstyti klausimą, kuris jam sukelia interesų konfliktą, privalo informuoti savivaldybės tarybą apie esamą interesų konfliktą, pareikšti apie nusišalinimą ir, jeigu savivaldybės taryba nusišalinimą priima, jokia forma nedalyvauti toliau svarstant šį klausimą. Savivaldybės taryba gali motyvuotu sprendimu, vadovaudamasi Vyriausiosios tarnybinės etikos komisijos patvirtintais kriterijais, pareikšto nusišalinimo nepriimti ir įpareigoti tarybos narį dalyvauti toliau svarstant šį klausimą. Duomenys apie sprendimą nepriimti pareikšto nusišalinimo kartu su svarstyto klausimo balsavimo rezultatais skelbiami savivaldybės interneto svetainėje ir per penkias darbo dienas nuo sprendimo priėmimo dienos elektroninėmis priemonėmis pateikiami Vyriausiajai tarnybinės etikos komisijai jos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
  
 
 
 
 
+11. Savivaldybės tarybos posėdžiai yra atviri. Posėdžio pirmininkas turi teisę leisti posėdyje kalbėti kviestiems asmenims. Jeigu savivaldybės tarybos posėdyje svarstomas klausimas yra susijęs su kitais posėdyje dalyvaujančiais asmenimis, jiems leidžiama užduoti klausimus pranešėjams ir kalbėti reglamento nustatyta tvarka. Kai yra techninės galimybės, savivaldybės tarybos nustatyta tvarka jos posėdžiai transliuojami savivaldybės interneto svetainėje.
+
+
+
+
 12. Kai posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, savivaldybės taryba gali nuspręsti jį nagrinėti uždarame posėdyje. 
-
-
-
-
-13. Savivaldybės tarybos posėdžiai protokoluojami. Posėdžių protokolus ir savivaldybės tarybos sprendimus privalo pasirašyti tam posėdžiui pirmininkavęs meras, jo pavaduotojas ar kitas tarybos narys. Savivaldybės tarybos posėdžių protokolus turi pasirašyti ir savivaldybės tarybos sekretorius, o jeigu jo nėra, – savivaldybės administracijos direktoriaus (kai yra gautas mero pritarimas) paskirtas valstybės tarnautojas arba darbuotojas, dirbantis savivaldybės administracijoje pagal darbo sutartį. Sprendimą dėl mero išrinkimo pasirašo apygardos rinkimų komisijos pirmininkas, pirmininkavęs savivaldybės tarybos posėdžiui.
-13 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
@@ -1251,14 +1158,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-3. Komitetų, išskyrus Kontrolės komitetą, pirmininkus ir jų pavaduotojus renka komitetų nariai. Kontrolės komiteto pirmininką savivaldybės tarybos mažumos (opozicijos) siūlymu, Kontrolės komiteto pirmininko pavaduotoją mero siūlymu skiria savivaldybės taryba reglamento nustatyta tvarka. Jeigu savivaldybės tarybos mažuma (opozicija) nepasiūlo Kontrolės komiteto pirmininko kandidatūros arba jeigu nėra paskelbta savivaldybės tarybos mažuma (opozicija), Kontrolės komiteto pirmininką ir pirmininko pavaduotoją skiria savivaldybės taryba mero siūlymu.
-3 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 3. Komitetų, išskyrus Kontrolės komitetą, pirmininkus ir jų pavaduotojus mero siūlymu skiria komitetai. Tą pačią kandidatūrą meras gali siūlyti du kartus. Kontrolės komiteto pirmininką savivaldybės tarybos mažumos (opozicijos) siūlymu, Kontrolės komiteto pirmininko pavaduotoją mero siūlymu skiria savivaldybės taryba reglamento nustatyta tvarka. Jeigu savivaldybės tarybos mažuma (opozicija) nepasiūlo Kontrolės komiteto pirmininko kandidatūros arba jeigu nėra paskelbta savivaldybės tarybos mažuma (opozicija), Kontrolės komiteto pirmininką ir pirmininko pavaduotoją skiria savivaldybės taryba mero siūlymu.
- 
 
 
 
@@ -1318,14 +1218,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-7. Komitetų posėdžių darbotvarkės ne vėliau kaip prieš 2 darbo dienas iki komiteto posėdžio pradžios paskelbiamos savivaldybės interneto tinklalapyje.
-7 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 7. Komitetų posėdžių darbotvarkės ne vėliau kaip prieš 2 darbo dienas iki komiteto posėdžio pradžios paskelbiamos savivaldybės interneto svetainėje.
- 
 
 
 
@@ -1359,7 +1252,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 3. Etikos komisija:
 
 
-1) prižiūri, kaip savivaldybės tarybos nariai laikosi šio įstatymo, Valstybės politikų elgesio kodekso, reglamento, kitų teisės aktų, reglamentuojančių savivaldybės tarybos narių veiklą ir elgesį, reikalavimų;
+1) prižiūri, kaip savivaldybės tarybos nariai laikosi šio įstatymo, Valstybės politikų elgesio kodekso, Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo, reglamento, kitų teisės aktų, reglamentuojančių savivaldybės tarybos narių veiklą ir elgesį, reikalavimų;
 
 
 
@@ -1369,7 +1262,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-3) nagrinėja gautą informaciją dėl savivaldybės tarybos nario veiklos ar jo viešųjų ir privačių interesų nesuderinamumo;
+3) tiria ir priima sprendimus dėl savivaldybės tarybos narių veiklos atitikties šio įstatymo, Valstybės politikų elgesio kodekso, Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo, reglamento, kitų teisės aktų, reglamentuojančių savivaldybės tarybos narių veiklą ir elgesį, nuostatoms;
 
 
 
@@ -1379,9 +1272,17 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-5) teikia Vyriausiajai rinkimų komisijai siūlymą dėl savivaldybės tarybos nario įgaliojimų nutraukimo, jeigu šis tarybos narys yra praleidęs iš eilės tris savivaldybės tarybos posėdžius be pateisinamos priežasties.
+5) teikia Vyriausiajai rinkimų komisijai siūlymą dėl savivaldybės tarybos nario įgaliojimų nutraukimo, jeigu šis tarybos narys yra praleidęs iš eilės tris savivaldybės tarybos posėdžius be pateisinamos priežasties;
 
 
+
+
+6) tarybos narių, mero, savo iniciatyva teikia tarybos nariams rekomendacijas dėl Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatų įgyvendinimo. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
+ 
 
 
 
@@ -1429,6 +1330,14 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 7. Savivaldybės tarybos komisijų sudarymo tvarka nustatyta reglamente. Komisijų nuostatus tvirtina savivaldybės taryba. 
 
 
+
+
+7. Etikos komisija, veikdama pagal šio straipsnio 3 dalies 2 ir 6 punktus, rengia posėdžius ne rečiau kaip kartą per mėnesį.
+Papildyta straipsnio dalimi:
+Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 Straipsnio pakeitimai:
@@ -1454,14 +1363,7 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-2) mero rinkimai, jo atleidimas iš pareigų prieš terminą, mero darbo užmokesčio nustatymas;
-2 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 2) mero atleidimas iš pareigų prieš terminą, mero darbo užmokesčio nustatymas;
- 
 
 
 
@@ -1471,8 +1373,7 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-4) mero pavaduotojo (pavaduotojų) veiklos sričių nustatymas mero teikimu;
-4 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+4) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
@@ -1507,14 +1408,7 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-11) sprendimų dėl mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių steigimo, jų skaičiaus nustatymo ir savivaldybės tarybos sekretoriato sudarymo priėmimas mero siūlymu;
-11 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 11) sprendimų dėl mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus nustatymo bei savivaldybės tarybos ir mero sekretoriato sudarymo ir jo pareigybių skaičiaus nustatymo priėmimas mero siūlymu;
- 
 
 
 
@@ -1529,9 +1423,7 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-14) gyvenamųjų vietovių ar jų dalių suskirstymo (sugrupavimo) į seniūnaitijas tvirtinimas savivaldybės administracijos direktoriaus teikimu; 
-14 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+14) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
@@ -1566,14 +1458,7 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-21) savivaldybės biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių (toliau – savivaldybės juridiniai asmenys) steigimas, reorganizavimas ir likvidavimas, dalyvavimas steigiant, reorganizuojant ir likviduojant viešuosius ir privačius juridinius asmenis;
-21 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 21) savivaldybės biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių (toliau – savivaldybės juridiniai asmenys) steigimas, reorganizavimas, likvidavimas ir jų priežiūra, savivaldybės mokymo ir auklėjimo (toliau – švietimo) įstaigų vadovų skyrimas į pareigas ir atleidimas iš jų teisės aktų nustatyta tvarka, dalyvavimas steigiant, reorganizuojant ir likviduojant viešuosius ir privačius juridinius asmenis;
- 
 
 
 
@@ -1711,9 +1596,7 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 3. Paprastoji savivaldybės tarybos kompetencija;
 
 
-1) savivaldybės biudžetinių įstaigų vadovų skyrimas į pareigas ir atleidimas iš jų teisės aktų nustatyta tvarka, kitų funkcijų, susijusių su šių juridinių asmenų vadovų darbo santykiais, įgyvendinimas Darbo kodekso ir kitų teisės aktų nustatyta tvarka;
-1 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+1) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
@@ -1723,9 +1606,7 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 
 
-3) savivaldybės viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų skyrimas į pareigas ir atleidimas iš jų, kitų funkcijų, susijusių su šių juridinių asmenų vadovų darbo santykiais, įgyvendinimas Darbo kodekso ir kitų teisės aktų nustatyta tvarka;
-3 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+3) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
@@ -1760,37 +1641,27 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 
 
-10) sprendimų dėl savivaldybės valdomo išlikusio nekilnojamojo turto nuosavybės teisių atkūrimo religinėms bendrijoms ir bendruomenėms priėmimas;
-10 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+10) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
 
-11) sprendimų išduoti leidimus naudoti žūklės plotus vandens telkiniuose priėmimas, žuvų išteklių naudojimo, atkūrimo ir apsaugos žuvininkystės vandens telkiniuose priemonių planų tvirtinimas teisės aktų nustatyta tvarka; 
-11 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+11) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
 
-12) sprendimų dėl pagrindinės žemės naudojimo paskirties ir būdo keitimo priėmimas teisės aktų nustatytais atvejais ir tvarka;
-12 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+12) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
 
-13) sprendimų dėl patalpų suteikimo Seimo nariams pagal Lietuvos Respublikos Seimo statutą;
-13 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+13) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį;
 
 
 
 
-14) sprendimų skelbti vietos gyventojų apklausą priėmimas.
-14 punktas netenka galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
- 
+14) neteko galios nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirinko į pirmąjį posėdį.
 
 
 
@@ -1802,14 +1673,7 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 
 
-5. Savivaldybės taryba reglamento nustatyta tvarka prižiūri savivaldybės vykdomąsias institucijas ir kitus subjektus, tiesiogiai įgyvendinančius valstybines (perduotas savivaldybėms) funkcijas. 
-5 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 5. Savivaldybės taryba reglamento nustatyta tvarka prižiūri savivaldybės vykdomąsias institucijas ir kitus subjektus, tiesiogiai įgyvendinančius valstybines (perduotas savivaldybėms) funkcijas. Už šios funkcijos įgyvendinimo organizavimą yra atsakingas meras.
- 
 
 
 
@@ -1875,12 +1739,6 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-4) svarsto klausimus dėl savivaldybės tarybos sekretoriato sudarymo arba mero politinio (asmeninio) pasitikėjimo (jeigu sekretoriatas nesudaromas) valstybės tarnautojų pareigybių steigimo ir jų skaičiaus nustatymo.
-4 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 4) svarsto klausimus dėl savivaldybės tarybos ir mero sekretoriato sudarymo arba mero politinio (asmeninio) pasitikėjimo (jeigu sekretoriatas nesudaromas) valstybės tarnautojų pareigybių steigimo ir jų skaičiaus nustatymo.
 
 
@@ -1909,102 +1767,6 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 3. Savivaldybių institucijų ir kitų savivaldybės viešojo administravimo subjektų priimti administraciniai teisės aktai gali būti skundžiami teismui. 
  
-
-
-
-
-
-
-19 straipsnis. Meras, mero pavaduotojas 
-
-
-1. Savivaldybės taryba savo įgaliojimų laikui iš tarybos narių renka savivaldybės merą ir mero siūlymu skiria vieną ar kelis mero pavaduotojus. Didžiausias galimas savivaldybės mero pavaduotojų skaičius nustatomas atsižvelgiant į savivaldybės tarybos narių skaičių. Savivaldybėje, kurios taryba susideda iš 41 ir daugiau tarybos narių, gali būti steigiamos ne daugiau kaip trys savivaldybės mero pavaduotojo pareigybės, savivaldybėje, kurios taryba susideda iš 27–31 tarybos nario, gali būti steigiamos ne daugiau kaip dvi savivaldybės mero pavaduotojo pareigybės, kitose savivaldybėse gali būti steigiama ne daugiau kaip viena savivaldybės mero pavaduotojo pareigybė. Meras yra savivaldybės vadovas. Meru ir mero pavaduotojais gali būti tik Lietuvos Respublikos piliečiai. Savivaldybės taryba gali nuspręsti, kad mero pavaduotojas pareigas atlieka visuomeniniais pagrindais. Meras renkamas, o mero pavaduotojas skiriamas slaptu balsavimu. Laikoma, kad meras išrinktas, o mero pavaduotojas paskirtas, jeigu už jų kandidatūras balsavo visų savivaldybės tarybos narių dauguma. 
-
-
-
-
-2. Meras, mero pavaduotojas prieš terminą netenka savo įgaliojimų savivaldybės tarybos sprendimu, jeigu už tai balsuoja visų savivaldybės tarybos narių dauguma:
-
-
-1) Vyriausybės arba Valstybės kontrolės siūlymu už įstatymų ar kitų teisės aktų pažeidimus, dėl kurių padaryta esminės žalos valstybės ar savivaldybės interesams ir nuosavybei;
-
-
-
-
-2) kai dėl laikinojo nedarbingumo nedirba daugiau kaip šimtą dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą keturiasdešimt dienų per paskutinius dvylika mėnesių; 
-
-
-
-
-3) kai pateikia atsistatydinimo prašymą.
-
-
-
-
-
-
-3. Be to, meras, mero pavaduotojas netenka savo įgaliojimų prieš terminą, jeigu ne mažiau kaip 1/3 visų savivaldybės tarybos narių pareiškia nepasitikėjimą jais, savivaldybės taryba priima sprendimą atleisti merą, mero pavaduotoją ir už tokį sprendimą balsavo ne mažiau kaip 1/2 visų savivaldybės tarybos narių. Jeigu sprendimas atleisti merą, mero pavaduotoją dėl nepasitikėjimo nepriimamas, šį klausimą pakartotinai svarstyti galima tik po pusės metų.
-
-
-
-
-4. Mero pavaduotojas mero teikimu prieš terminą netenka savo įgaliojimų, jeigu už sprendimą atleisti mero pavaduotoją balsuoja visų savivaldybės tarybos narių dauguma.
-
-
-
-
-5. Mero, mero pavaduotojo įgaliojimai nutrūksta, jeigu jie netenka Lietuvos Respublikos pilietybės ar netenka savivaldybės tarybos nario mandato. 
-
-
-
-
-6. Pasibaigus savivaldybės tarybos įgaliojimams, baigiasi ir šios savivaldybės tarybos išrinkto mero ir mero pavaduotojo įgaliojimai.
-
-
-
-
-7. Po savo kadencijos pabaigos meras ir mero pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju arba prieš terminą netenka savo įgaliojimų (išskyrus atvejus, kai meras, mero pavaduotojas savo įgaliojimų netenka šio straipsnio 2 dalies 1 ir 3 punktų nustatyta tvarka), turi teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju meras ir mero pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki išrinkimo savivaldybės tarybos nariais tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, jiems išmokama 3 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3 mėnesių, likusi neišmokėta išmokos dalis nemokama. Jeigu šie asmenys mero ir mero pavaduotojo pareigas ėjo mažiau kaip vienus metus iki kadencijos pabaigos, jiems išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išmoka. Nutrūkus mero, mero pavaduotojo įgaliojimams prieš terminą, kai jiems nepasitikėjimą pareiškia ne mažiau kaip 1/3 tarybos narių ir už tokį sprendimą balsavo ne mažiau kaip 1/2 visų tarybos narių, jiems išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka.
-
-
-
-
-8. Mero ir mero pavaduotojo darbo užmokestį pagal įstatymų nustatytus koeficientus tvirtina savivaldybės taryba. 
-
-
-
-
-9. Meras ir mero pavaduotojas negali dirbti kitose institucijose, įstaigose, įmonėse ir organizacijose ir gauti kito atlyginimo, išskyrus atlyginimą už mokslinę, pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma, jeigu mero pavaduotojas pareigas atlieka visuomeniniais pagrindais.
-
-
-
-
-10. Mero pavaduotojas pirmininkauja savivaldybės tarybos posėdžiui, kai priimant sprendimą meras negali dalyvauti.
-
-
-
-
-11. Merui, mero pavaduotojui netaikomos Darbo kodekso nuostatos, išskyrus nuostatas, reglamentuojančias darbo ir poilsio laiką, atostogas, nurodytas šio straipsnio 12 dalyje, materialinę atsakomybę, darbuotojų saugą ir sveikatą. 
-
-
-
-
-12. Merui ir mero pavaduotojui atostogos suteikiamos savivaldybės tarybos ar jos įgalioto asmens sprendimu reglamento nustatyta tvarka. Meras ir mero pavaduotojas turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias atostogas. Vadovaujantis Darbo kodekso nuostatomis, merui ir mero pavaduotojui gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos. Nemokamos atostogos dėl dalyvavimo Seimo, Respublikos Prezidento rinkimuose, rinkimuose į Europos Parlamentą ar savivaldybių tarybų rinkimuose suteikiamos įstatymų nustatyta tvarka. Atostogų metu meras ir mero pavaduotojas neatlieka mero ar mero pavaduotojo pareigų, tačiau gali atlikti tarybos nario pareigas.
-
-
-
-
-13. Meras ir mero pavaduotojas į komandiruotes vyksta reglamento nustatyta tvarka.
-
-
-
-
-14. Savivaldybės tarybos posėdžiams, komitetams, merui aptarnauti, taip pat savivaldybės tarybos sprendimų projektams rengti, nagrinėti ir išvadų dėl savivaldybės tarybos sprendimų projektams rengti mero siūlymu gali būti steigiamas savivaldybės tarybos sekretoriatas (toliau – sekretoriatas). Sekretoriato finansinį, ūkinį ir materialinį aptarnavimą atlieka savivaldybės administracija. Savivaldybės taryba nustato atskirą sekretoriato išlaidų sąmatą. Sekretoriatas gali būti sudaromas iš mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų, karjeros valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis. Jeigu sekretoriatas nesudaromas, savo įgaliojimų laikui meras gali turėti politinio (asmeninio) pasitikėjimo valstybės tarnautojų. Mero politinio (asmeninio) pasitikėjimo valstybės tarnautoju negali būti tos savivaldybės tarybos narys.
-
-
-
-
-15. Atstovavimo Lietuvoje ir užsienyje išlaidoms finansuoti skirto mero fondo dydis nustatomas nedidinant bendrų savivaldybės reprezentacijai skirtų lėšų ir priklauso nuo savivaldybės tarybos narių skaičiaus: savivaldybės taryba, kurioje yra 41 ir daugiau tarybos narių, gali skirti kas mėnesį iki trijų, savivaldybės taryba, kurioje yra 27–31 tarybos narys, iki dviejų, kitos savivaldybės – iki vieno Lietuvos statistikos departamento paskutiniojo paskelbto Lietuvos ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio sumą.
-Straipsnio redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
@@ -2144,14 +1906,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 20 straipsnis. Mero, mero pavaduotojo įgaliojimai
 
 
-1. Meras yra atskaitingas savivaldybės tarybai ir bendruomenei už savivaldybės veiklą. 
-1 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 1. Meras yra atskaitingas savivaldybės tarybai ir bendruomenei už savo ir savivaldybės veiklą.
- 
 
 
 
@@ -2179,14 +1934,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-5) teikia savivaldybės tarybai sprendimo dėl mero pavaduotojo (pavaduotojų) veiklos sričių nustatymo projektą;
-5 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 5) nustato mero pavaduotojo (pavaduotojų) veiklos sritis;
- 
 
 
 
@@ -2196,38 +1944,17 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-7) teikia savivaldybės tarybai siūlymus dėl savivaldybės tarybos sekretoriato sudarymo arba mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių steigimo ir jų skaičiaus nustatymo (jeigu sekretoriatas nesudaromas);
-7 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 7) teikia savivaldybės tarybai siūlymus dėl sekretoriato sudarymo ir jo pareigybių skaičiaus nustatymo arba mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus nustatymo (jeigu sekretoriatas nesudaromas);
- 
-
-
-
-
-8) tvirtina savivaldybės tarybos sekretoriato nuostatus, Valstybės tarnybos įstatymo ir Darbo kodekso nustatyta tvarka skiria į pareigas ir atleidžia iš jų sekretoriato darbuotojus; 
-8 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
 
 8) vadovauja sekretoriato darbui (jeigu jis sudaromas), tvirtina sekretoriato nuostatus, Valstybės tarnybos įstatymo ir Darbo kodekso nustatyta tvarka skiria į pareigas ir atleidžia iš jų sekretoriato darbuotojus, mero politinio (asmeninio) pasitikėjimo valstybės tarnautojus;
- 
-
-
-
-
-9) vadovauja savivaldybės tarybos sekretoriato darbui;
-9 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
 
 9) teikia komitetams, išskyrus Kontrolės komitetą, komitetų pirmininkų ir pavaduotojų kandidatūras;
- 
 
 
 
@@ -2253,63 +1980,46 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 14) pagal savivaldybės tarybos nustatytą tvarką reprezentacijos reikmėms naudoja mero fondo lėšas ir už jas atsiskaito.
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 15) tvirtina gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas savivaldybės administracijos direktoriaus teikimu;
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 16) skiria į pareigas ir atleidžia iš jų savivaldybės biudžetinių įstaigų, išskyrus švietimo įstaigas, vadovus, įgyvendina kitas funkcijas, susijusias su šių juridinių asmenų vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 17) skiria į pareigas ir atleidžia iš jų savivaldybės viešųjų įstaigų (kurių savininkė yra savivaldybė), išskyrus švietimo įstaigas, vadovus, įgyvendina kitas funkcijas, susijusias su šių juridinių asmenų vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 18) atkuria savivaldybės valdomo išlikusio nekilnojamojo turto nuosavybės teises religinėms bendrijoms ir bendruomenėms; 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 19) išduoda leidimus naudoti žūklės plotus vandens telkiniuose, tvirtina žuvų išteklių naudojimo, atkūrimo ir apsaugos žuvininkystės vandens telkiniuose priemonių planus teisės aktų nustatyta tvarka; 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 20) keičia pagrindinę žemės naudojimo paskirtį ir būdą teisės aktų nustatytais atvejais ir tvarka; 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 21) suteikia patalpas Seimo nariams pagal Lietuvos Respublikos Seimo statutą; 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 22) skelbia vietos gyventojų apklausą.
- 
 
 
 
@@ -2366,25 +2076,20 @@ Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybo
 
 
 
-7. Meras reglamento nustatyta tvarka ne rečiau kaip kartą per metus atsiskaito savivaldybės tarybai už savo veiklą, taip pat rengia ir pateikia rinkėjams ir visai savivaldybės bendruomenei savivaldybės veiklos ataskaitą.
-7 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 7. Meras reglamento nustatyta tvarka ne rečiau kaip kartą per metus atsiskaito savivaldybės tarybai ir bendruomenei už savo veiklą, taip pat rengia ir pateikia rinkėjams ir savivaldybės bendruomenei savivaldybės veiklos ataskaitą.
- 
-
-
-
-
-8. Mero pavaduotojas atlieka savivaldybės tarybos nustatytas funkcijas ir mero pavedimus. Savivaldybės taryba mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali mero siūlymu jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas atlieka visas mero pareigas, išskyrus šio straipsnio 2 dalies 4–8 punktuose numatytus įgaliojimus. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.
-8 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
 
 8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus šio straipsnio 2 dalies 4–8 ir 15–22 punktuose numatytus įgaliojimus. Tokiu atveju šio straipsnio 2 dalies 15–22 punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.
+
+
+
+
+9. Jeigu įstatymų nustatyta tvarka meras neišrinktas arba išrinktas meras laikinai nušalintas nuo pareigų šio ir kitų įstatymų nustatyta tvarka, mero pareigas laikinai einančiam savivaldybės tarybos nariui mokamas mero darbo užmokestis.T
+Papildyta straipsnio dalimi:
+Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+ 
 
 
 Straipsnio pakeitimai:
@@ -2427,13 +2132,6 @@ SAVIVALDYBĖS TARYBOS NARIAI
 
 
 1. Savivaldybės tarybos narys yra Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka savivaldybės nuolatinių gyventojų išrinktas savivaldybės bendruomenės atstovas. Išrinktos naujos savivaldybės tarybos nario įgaliojimai prasideda, o ankstesnės kadencijos tarybos nario įgaliojimai baigiasi nuo tos dienos, kurią išrinkta nauja savivaldybės taryba susirenka į pirmąjį posėdį ir šios tarybos narys jame prisiekia.
-1 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
-1. Savivaldybės tarybos narys yra Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka savivaldybės nuolatinių gyventojų išrinktas savivaldybės bendruomenės atstovas. Išrinktos naujos savivaldybės tarybos nario įgaliojimai prasideda, o ankstesnės kadencijos tarybos nario įgaliojimai baigiasi nuo tos dienos, kurią išrinkta nauja savivaldybės taryba susirenka į pirmąjį posėdį ir šios tarybos narys jame prisiekia.
- 
 
 
 
@@ -2456,14 +2154,7 @@ SAVIVALDYBĖS TARYBOS NARIAI
 3. Tarybos nario priesaikos priėmimo tvarka:
 
 
-1) tarybos nario priesaiką priima apygardos rinkimų komisijos pirmininkas;
-1 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 1) tarybos nario (mero) priesaiką priima savivaldybės rinkimų komisijos pirmininkas arba jo įgaliotas savivaldybės rinkimų komisijos narys;
- 
 
 
 
@@ -2541,7 +2232,10 @@ Tarybos narys privalo:
 
 
 
-4) nebalsuoti savivaldybės tarybos ir jos komitetų posėdžiuose, kai jo balsavimas svarstomu klausimu prieštarauja Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymui;
+4) reglamento nustatyta tvarka informuoti merą ir (ar) tarybos narius arba kitus asmenis, kurie kartu dalyvauja rengiant, svarstant ar priimant sprendimą, apie esamą interesų konfliktą, pareikšti apie nusišalinimą ir, jeigu pareikštas nusišalinimas buvo priimtas, jokia forma nedalyvauti toliau rengiant, svarstant ar priimant sprendimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
+ 
 
 
 
@@ -2601,12 +2295,10 @@ Tarybos narys turi teisę:
 
 
 2. Tarybos nario įgaliojimų nutrūkimas prieš terminą nustatomas įstatymuose. 
- 
 
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 3. Savivaldybės tarybos narys gali netekti savo įgaliojimų prieš terminą savivaldybės tarybos sprendimu šio įstatymo nustatyta tvarka.
 
 
@@ -2617,7 +2309,6 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-Papildyta nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 251 straipsnis. Savivaldybės tarybos nario ar savivaldybės tarybos nario – mero įgaliojimų netekimas savivaldybės tarybos sprendimu
 
 
@@ -2863,14 +2554,7 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 
 
-9) teikia merui, savivaldybės vykdomajai institucijai, audituotų subjektų vadovams išvadas, ataskaitas ir sprendimus, kurie buvo priimti dėl finansinio ir veiklos audito metu nustatytų ir nepašalintų teisės aktų pažeidimų. Audito ataskaitos ir išvados skelbiamos savivaldybės interneto tinklalapyje, o jei įmanoma, – ir per kitas visuomenės informavimo priemones;
-9 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 9) teikia merui, savivaldybės vykdomajai institucijai, audituotų subjektų vadovams išvadas, ataskaitas ir sprendimus, kurie buvo priimti dėl finansinio ir veiklos audito metu nustatytų ir nepašalintų teisės aktų pažeidimų. Audito ataskaitos ir išvados skelbiamos savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
- 
 
 
 
@@ -2900,14 +2584,7 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 
 
-15) reglamente nustatyta tvarka ir terminais teikia savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą. Savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą arba jos santrauką paskelbia vietinėje spaudoje, savivaldybės interneto tinklalapyje, o jei įmanoma, – ir per kitas visuomenės informavimo priemones;
-15 punkto redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 15) reglamente nustatyta tvarka ir terminais teikia savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą. Savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą arba jos santrauką paskelbia vietinėje spaudoje, savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
- 
 
 
 
@@ -3049,14 +2726,7 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA, VIEŠOJO ADMINISTRAVIMO ĮSTAIGOS, JŲ SUDA
 
 
 
-3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui (pavaduotojams) už tarnybinius nusižengimus skiria savivaldybės taryba. Tarnybinės nuobaudos skyrimo procedūra pradedama mero iniciatyva arba remiantis jo gauta rašytine informacija apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo (pavaduotojų) tarnybinius nusižengimus.
-3 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol administracijos direktorius ir jo pavaduotojas nėra paskirti, direktoriaus pareigas gali eiti laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui (pavaduotojams) už tarnybinius nusižengimus skiria savivaldybės taryba. Tarnybinės nuobaudos skyrimo procedūra pradedama mero iniciatyva arba remiantis jo gauta rašytine informacija apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo (pavaduotojų) tarnybinius nusižengimus. 
- 
 
 
 
@@ -3483,7 +3153,10 @@ Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 
 
 
-4. Seniūnijos veiklos nuostatuose gali būti seniūnijoms ir seniūnams pavesta atlikti ir kitas funkcijas, nepriskirtas kitiems savivaldybės administracijos struktūriniams padaliniams seniūnijai priskirtoje teritorijoje.
+4. Šio straipsnio 2 dalies 21 punkte nustatytą funkciją gali atlikti savivaldybės vykdomosios institucijos sprendimu seniūnija ir kitas savivaldybės administracijos padalinys. Seniūnijos veiklos nuostatuose gali būti seniūnijoms ir seniūnams pavesta atlikti ir kitas funkcijas, nepriskirtas kitiems savivaldybės administracijos struktūriniams padaliniams seniūnijai priskirtoje teritorijoje.
+Straipsnio dalies pakeitimai:
+Nr. XII-1921, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11184
+ 
 
 
 Straipsnio pakeitimai:
@@ -3737,14 +3410,7 @@ Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
 40 straipsnis. Apklausos paskelbimo iniciatyvos teisė
 
 
-1. Apklausos paskelbimo iniciatyvos teisė priklauso savivaldybės gyventojams, savivaldybės tarybai ir seniūnui.
-1 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 1. Apklausos paskelbimo iniciatyvos teisė priklauso savivaldybės gyventojams, savivaldybės tarybai, merui ir seniūnui.
- 
 
 
 
@@ -3809,37 +3475,6 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 Straipsnio pakeitimai:
 Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
  
-
-
-
-
-42 straipsnis. Sprendimo paskelbti apklausą priėmimas
-
-
-1. Jeigu per šio įstatymo 41 straipsnio 5 dalyje nustatytą terminą yra surinktas reikiamas parašų dėl reikalavimo paskelbti apklausą skaičius ir nenustatyta parašų rinkimo pažeidimų (gyventojų parašų klastojimo atvejų ar savanoriškumo principo pažeidimų), ne vėliau kaip per vieną mėnesį nuo parašų rinkimo baigiamojo akto ir gyventojų reikalavimo pateikimo savivaldybės administracijos direktoriui dienos savivaldybės taryba arba jos pavedimu savivaldybės administracijos direktorius privalo paskelbti apklausą.
-
-
-
-
-2. Kai apklausos paskelbimo iniciatyvos teisė įgyvendinama ne mažesnės kaip 1/4 savivaldybės tarybos narių grupės reikalavimu, savivaldybės taryba arba jos pavedimu savivaldybės administracijos direktorius privalo paskelbti apklausą ne vėliau kaip per vieną mėnesį nuo šios grupės reikalavimo gavimo.
-
-
-
-
-3. Savivaldybės taryba arba jos pavedimu savivaldybės administracijos direktorius, įvertinę reglamento nustatyta tvarka pateiktą seniūno iniciatyvą paskelbti apklausą, ne vėliau kaip per vieną mėnesį gali paskelbti apklausą.
-
-
-
-
-4. Savivaldybės tarybos sprendime (savivaldybės administracijos direktoriaus įsakyme) paskelbti apklausą turi būti nustatyta: apklausai teikiamo (teikiamų) klausimo (klausimų) tekstas, apklausos teritorija, apklausos būdas, apklausos data ir vieta, taip pat apklausos komisijos sudėtis. Iniciatyvinė grupė turi teisę į apklausos komisiją deleguoti savo atstovą.
-
-
-
-
-5. Savivaldybės tarybos sprendimas arba savivaldybės administracijos direktoriaus įsakymas paskelbti apklausą turi būti paskelbtas per vietines (regiono) visuomenės informavimo priemones, savivaldybės interneto tinklalapyje ir seniūnijų, kurių teritorijose vyks apklausa, skelbimų lentose.
-Straipsnio redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
 
 
 
@@ -3920,12 +3555,6 @@ Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
 
 
 
-2. Apklausos rezultatus ne vėliau kaip per 5 darbo dienas po apklausos pabaigos apklausos komisija pateikia savivaldybės administracijos direktoriui ir paskelbia per vietines (regiono) visuomenės informavimo priemones, savivaldybės interneto tinklalapyje ir seniūnijų, kurių teritorijose įvyko apklausa, skelbimų lentose.
-2 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
-
-
-
-
 2. Apklausos rezultatus ne vėliau kaip per 5 darbo dienas po apklausos pabaigos apklausos komisija pateikia savivaldybės administracijos direktoriui ir paskelbia per vietines (regiono) visuomenės informavimo priemones, savivaldybės interneto svetainėje ir seniūnijų, kurių teritorijose įvyko apklausa, skelbimų lentose.
 
 
@@ -3941,12 +3570,6 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 1. Paskelbti apklausos rezultatai (gyventojų nuomonė dėl apklausai pateikto (pateiktų) klausimo (klausimų) turi būti svarstomi artimiausiame savivaldybės tarybos posėdyje reglamento nustatyta tvarka. 
-
-
-
-
-2. Savivaldybės tarybos sprendime dėl apklausai pateikto (pateiktų) klausimo (klausimų) turi būti nurodyti apklausos rezultatai (gyventojų nuomonė dėl apklausai pateikto (pateiktų) klausimo (klausimų) ir savivaldybės tarybos sprendimo priėmimo motyvai. Savivaldybės tarybos sprendimas dėl apklausai pateikto (pateiktų) klausimo (klausimų) turi būti paskelbtas vietinėse (regiono) visuomenės informavimo priemonėse, savivaldybės interneto tinklalapyje ir seniūnijų, kurių aptarnaujamoje teritorijoje įvyko apklausa, skelbimų lentose.
-2 dalies redakcija nuo tos dienos, kai 2015 metais naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį:
 
 
 
@@ -4910,3 +4533,18 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13 ir 15 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 50 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1570, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05583
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 7 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1921, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11184
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 32 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir 23 straipsnių pakeitimo įstatymas
