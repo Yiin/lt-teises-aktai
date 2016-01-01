@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2015-04-18 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -368,12 +368,18 @@ Nr. XII-1576, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05690
 
 
 
-5. Lietuvos Respublikos karių, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu bei asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka.
+5. Lietuvos Respublikos privalomosios pradinės karo tarnybos karių, taip pat privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu ir asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
+ 
 
 
 
 
-6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 ir 5 dalyse nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus, kai šios paslaugos teikiamos Teisingumo, Krašto apsaugos ar Vidaus reikalų ministerijų valdymo srities sveikatos priežiūros įstaigose. 
+6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo, krašto apsaugos ar vidaus reikalų ministrų valdymo srities sveikatos priežiūros įstaigose. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
+ 
 
 
 Straipsnio pakeitimai:
@@ -433,12 +439,19 @@ Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
 8 straipsnis. Privalomojo sveikatos draudimo galiojimas
 
 
-1. Asmenų, nurodytų šio Įstatymo 17 straipsnio 1, 2 ir 6 dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti arba jie patys pradėjo mokėti privalomojo sveikatos draudimo įmokas.
+1. Asmenų, nurodytų šio Įstatymo 17 straipsnio 1, 2 ir 3 dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią atsirado pagrindas jiems (už juos) mokėti privalomojo sveikatos draudimo įmokas (nuo šio Įstatymo 17 straipsnio 1, 2 ir 3 dalyse nurodyto statuso įgijimo dienos) ir galioja iki šio Įstatymo 17 straipsnio 1, 2 ir 3 dalyse nurodyto statuso netekimo dienos. Asmenų, nurodytų šio Įstatymo 17 straipsnio 4–7 ir 9 dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti arba jie patys pradėjo mokėti privalomojo sveikatos draudimo įmokas, ir galioja iki mėnesio, buvusio prieš tą mėnesį, kurį už juos privalomojo sveikatos draudimo įmokos nebuvo sumokėtos (arba jie patys šių įmokų nesumokėjo), paskutinės dienos. Asmenų, nurodytų šio Įstatymo 17 straipsnio 91 dalyje, privalomojo sveikatos draudimo galiojimas nustatomas pagal šio Įstatymo 18 straipsnio 8 dalies nuostatas, o draudėjui neįvykdžius pareigos sumokėti už juos privalomojo sveikatos draudimo įmokas, šie asmenys laikomi apdraustaisiais tą mėnesį, kurį įmokos už juos privalėjo būti sumokėtos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
+ 
 
 
 
 
-*2. Asmenų, nurodytų šio Įstatymo 17 straipsnio 3, 4, 5, 7, 9 ir 91 dalyse, privalomasis sveikatos draudimas įsigalioja kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos arba jie patys mokėjo privalomojo sveikatos draudimo įmokas, arba nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką. 3 minimaliųjų mėnesinių algų dydžio įmokos sumokėjimas neatleidžia nuo prievolės mokėti šio Įstatymo 17 straipsnyje nustatyto dydžio įmokas.
+2. Tais atvejais, kai už šio Įstatymo 17 straipsnio 4–7 ir 9 dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumokėjo visas nesumokėtas šio Įstatymo 17 straipsnyje nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata dėl šioje dalyje nurodytų asmenų privalomojo sveikatos draudimo įsigaliojimo tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį netaikoma asmenims, kurie tuo pačiu metu yra apdrausti privalomuoju sveikatos draudimu kaip kitos kategorijos asmenys ir jų privalomasis sveikatos draudimas galioja.
+TAR pastaba. 8 straipsnio 2 dalies nuostata dėl Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 4–7 ir 9 dalyse nurodytų asmenų privalomojo sveikatos draudimo įsigaliojimo netaikoma asmenims, kurių nesumokėtos privalomojo sveikatos draudimo įmokos priskaičiuotos už laikotarpį iki įstatymo XII-1733 įsigaliojimo 2016-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
+ 
 
 
 
@@ -461,7 +474,10 @@ Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 
 
-6. Jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 bazinių socialinių išmokų, tos teritorinės ligonių kasos teikimu atitinkama teritorinė valstybinė mokesčių inspekcija ir (arba) Valstybinio socialinio draudimo fondo administravimo įstaiga tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas. Kiti asmenys tikrinami pasirinktinai.
+6. Jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 bazinių socialinių išmokų, tos teritorinės ligonių kasos teikimu Valstybinio socialinio draudimo fondo administravimo įstaiga tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas. Kiti asmenys tikrinami pasirinktinai.
+Straipsnio dalies pakeitimai:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
+ 
 
 
 
@@ -469,9 +485,6 @@ Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 7. Išlaidos, susijusios su sveikatos priežiūros paslaugų teikimu, ir nesumokėtos privalomojo sveikatos draudimo įmokos iš asmenų išieškomos šio ir kitų įstatymų bei teisės aktų nustatyta tvarka.
 
 
-*Pastaba. Pripažinti, kad Lietuvos Respublikos sveikatos draudimo įstatymo 8 straipsnio 2 dalis (2009 m. liepos 22 d. redakcija, Žin., 2009, Nr. 93-3983; 2011 m. gruodžio 13 d. redakcija, Žin., 2011, Nr. 160-7564; 2012 m. lapkričio 13 d. redakcija, Žin., 2012, Nr. 136-6967) tiek, kiek, įstatymų leidėjui nustačius, jog kai kurių asmenų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią už juos buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos arba jie patys pradėjo jas mokėti, šioje dalyje nustatyta, kad joje nurodytiems asmenims privalomasis sveikatos draudimas įsigalioja tik kitą mėnesį po tos dienos, kai 3 mėnesius iš eilės už juos buvo mokamos privalomojo sveikatos draudimo įmokos arba jie patys jas mokėjo, arba tik nuo tos dienos, kai šie asmenys sumoka 3 minimaliųjų mėnesinių algų dydžio įmoką, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 29 straipsniui.
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2013-05-16, Žin., 2013, Nr. 52-2604 (2013-05-21)
 Straipsnio pakeitimai:
 Nr. IX-1833, 2003-11-18, Žin., 2003, Nr. 113-5058 (2003-12-03)
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
@@ -898,7 +911,10 @@ b) iš vaistinių išieškotos ar jų grąžintos lėšos už neteisėtai išduo
 
 
 
-c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo privalomuoju sveikatos draudimu sveikatai padarytą žalą, kai už jam suteiktas sveikatos priežiūros paslaugas sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ir už kitą Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą;
+c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo privalomuoju sveikatos draudimu sveikatai padarytą žalą, kai už jam suteiktas sveikatos priežiūros paslaugas sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ir už kitą Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. Žala Privalomojo sveikatos draudimo fondo biudžetui gali būti pripažinta mažareikšme žala ir neišieškoma, jeigu ši žala Privalomojo sveikatos draudimo fondo biudžetui yra nedidelė ir jos išieškojimo išlaidos didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką, mažareikšmės žalos dydį nustato sveikatos apsaugos ministras ar jo įgaliota institucija;
+Straipsnio punkto pakeitimai:
+Nr. XII-2003, 2015-11-10, paskelbta TAR 2015-11-17, i. k. 2015-18263
+ 
 
 
 
@@ -933,9 +949,11 @@ Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 
 
-4. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą gaunama viršplaninių pajamų ir einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rezervas sudaro ne mažiau kaip 5 procentus praėjusiais metais Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir Valstybinio socialinio draudimo fondo administravimo įstaigų į Privalomojo sveikatos draudimo fondo biudžetą pervestų pajamų, gautos viršplaninės pajamos einamaisiais metais gali būti naudojamos šio Įstatymo II skyriuje nurodytoms išlaidoms, viršijančioms Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme šioms išlaidoms numatytas einamųjų metų lėšų sumas, kompensuoti sveikatos apsaugos ministro sprendimu.
+4. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą gaunama viršplaninių pajamų ir einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rezervas sudaro ne mažiau kaip 5 procentus praėjusiais metais Valstybinio socialinio draudimo fondo administravimo įstaigų į Privalomojo sveikatos draudimo fondo biudžetą pervestų pajamų, gautos viršplaninės pajamos einamaisiais metais gali būti naudojamos šio Įstatymo II skyriuje nurodytoms išlaidoms, viršijančioms Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme šioms išlaidoms numatytas einamųjų metų lėšų sumas, kompensuoti sveikatos apsaugos ministro sprendimu.
 Papildyta straipsnio dalimi:
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+Straipsnio dalies pakeitimai:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
  
 
 
@@ -1082,17 +1100,26 @@ Nr. XI-2413, 2012-11-13, Žin., 2012, Nr. 136-6967 (2012-11-24)
 18 straipsnis. Privalomojo sveikatos draudimo įmokų administravimo ir mokėjimo tvarka
 
 
-1. Šio Įstatymo 17 straipsnio 5, 7 ir 9 dalyse nurodytas privalomojo sveikatos draudimo įmokas administruoja Valstybinė mokesčių inspekcija prie Finansų ministerijos Mokesčių administravimo įstatymo nustatyta tvarka ir šias įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 2 dalyje nurodytas sumas per tris dienas perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka Valstybinė mokesčių inspekcija prie Finansų ministerijos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie asmenų sumokėtas šio Įstatymo 17 straipsnio 5, 7 ir 9 dalyse nurodytas privalomojo sveikatos draudimo įmokas. Valstybinė mokesčių inspekcija prie Finansų ministerijos nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką.
+1. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
+ 
 
 
 
 
-2. Šio Įstatymo 17 straipsnio 1–4, 6 ir 91 dalyse nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo 17 straipsnio 8 dalyje nurodytu atveju – įmokas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka ir šias įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 1 dalyje nurodytas sumas per tris dienas perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnio 1–4, 6 ir 8 dalyse nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnio 1–4, 6, 8 ir 91 dalyse nurodytų įmokų ir iš Privalomojo sveikatos draudimo fondo biudžeto finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką.
+2. Šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo 17 straipsnio 8 dalyje nurodytu atveju – įmokas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka ir surinktas (išskaitytas) įmokas bei su jomis susijusias šio Įstatymo 19 straipsnio 1 dalyje nurodytas sumas per tris dienas nuo jų surinkimo (išskaitymo) perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnyje nurodytų įmokų ir iš Privalomojo sveikatos draudimo fondo biudžeto finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
+ 
 
 
 
 
-3. Šio Įstatymo 17 straipsnio 1–4, 6 ir 8 dalyse nurodytos įmokos mokamos Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+3. Šio Įstatymo 17 straipsnyje nurodytos įmokos mokamos Valstybinio socialinio draudimo įstatymo nustatyta tvarka tiek, kiek ši tvarka tiesiogiai nereglamentuota šiame Įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
+ 
 
 
 
@@ -1112,7 +1139,10 @@ Nr. XI-2413, 2012-11-13, Žin., 2012, Nr. 136-6967 (2012-11-24)
 
 
 
-7. Šio Įstatymo 17 straipsnio 5, 7 ir 9 dalyse nurodytos įmokos mokamos į Valstybinės mokesčių inspekcijos prie Finansų ministerijos biudžeto pajamų surenkamąją sąskaitą.
+7. Neteko galios nuo 2016-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
+ 
 
 
 
@@ -1142,17 +1172,12 @@ Nr. XI-2413, 2012-11-13, Žin., 2012, Nr. 136-6967 (2012-11-24)
 19 straipsnis. Atsakomybė už privalomojo sveikatos draudimo įmokų mokėjimą
 
 
-1. Pažeidus šio Įstatymo 17 straipsnio 1–4 dalyse nurodytų įmokų apskaičiavimo ir mokėjimo tvarką, draudėjams baudos skiriamos ir delspinigiai skaičiuojami Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+1. Pažeidus šio Įstatymo 17 straipsnyje nurodytų įmokų apskaičiavimo ir mokėjimo tvarką, baudos skiriamos ir delspinigiai skaičiuojami Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
 
 
 
 
-2. Pažeidus šio Įstatymo 17 straipsnio 5, 7 ir 9 dalyse nurodytų įmokų apskaičiavimo ir mokėjimo tvarką, asmenims, kurie privalo mokėti ir (ar) apskaičiuoti šias įmokas, baudos skiriamos ir delspinigiai skaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.
-
-
-
-
-3. Jeigu teritorinės valstybinės mokesčių inspekcijos ir Valstybinio socialinio draudimo fondo administravimo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą.
+2. Jeigu Valstybinio socialinio draudimo fondo administravimo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą.
 
 
 Straipsnio pakeitimai:
@@ -1161,6 +1186,8 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 Nr. XI-98, 2008-12-22, Žin., 2008, Nr. 149-6022 (2008-12-30)
 Nr. XI-183, 2009-02-19, Žin., 2009, Nr. 25-985 (2009-03-05)
 Nr. XI-391, 2009-07-22, Žin., 2009, Nr. 93-3983 (2009-08-04)
+Straipsnio pakeitimai:
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
  
 
 
@@ -1248,35 +1275,88 @@ Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
 
 
 
-22 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto rezervas 
+22 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto rezervas
 
 
-1. Privalomojo sveikatos draudimo fondo biudžetui stabilizuoti numatomas rezervas. Jis turi būti ne didesnis kaip 10 procentų metinės Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos. 
+1. Privalomojo sveikatos draudimo fondo biudžeto rezervą einamaisiais metais sudaro:
+
+
+1) praėjusių biudžetinių metų rezervo lėšų likutis metų pabaigoje;
 
 
 
 
-2. Rezervo lėšos Vyriausybės nustatyta tvarka naudojamos laikinam pajamų trūkumui padengti arba išlaidoms, kurių tvirtinant Privalomojo sveikatos draudimo fondo biudžetą nebuvo galima numatyti, apmokėti. 
+2) einamaisiais metais į rezervą atskaitytos Privalomojo sveikatos draudimo fondo biudžeto lėšos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu;
+
+
+
+
+3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas.
+
+
+
+
+
+
+2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
  
 
 
 
 
+23 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų naudojimas
 
 
-23 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto rezervo ir kitų laikinai 
-laisvų Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimas 
-
-
-1. Privalomojo sveikatos draudimo fondo biudžeto rezervo ir kitas Privalomojo sveikatos draudimo fondo biudžeto laikinai laisvas lėšas Valstybinė ligonių kasa ir teritorinės ligonių kasos privalo laikyti konkurso būdu pasirinktose Lietuvos bankų įstaigose arba investuoti į Vyriausybės ar Lietuvos banko vertybinius popierius. Gautos pajamos turi būti naudojamos privalomojo sveikatos draudimo reikmėms. 
+1. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos skirstomos Vyriausybės nutarimu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos sveikatos apsaugos ministro sprendimu, įvertinus Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė.
 
 
 
 
-2. Operacijas su laikinai laisvomis Privalomojo sveikatos draudimo fondo biudžeto lėšomis prižiūri Sveikatos apsaugos ministerija.
+2. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos: 
+
+
+1) Privalomojo sveikatos draudimo fondo biudžeto išlaidoms, susidariusioms dėl ekstremaliosios situacijos (įvykio) (didelio masto gyventojų sveikatos sutrikimai dėl stichinių nelaimių, didelio masto gaisrų, epidemijų, teroro aktų, karo veiksmų), apmokėti, kai šiam tikslui neužtenka einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto lėšų;
+
+
+
+
+2) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui kompensuoti, kai nesurenkama 1/12 ir daugiau einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytų einamųjų metų planuotų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir neužtenka kasos apyvartos lėšų.
+
+
+
+
+
+
+3. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos:
+
+
+1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
+
+
+
+
+2) Privalomojo sveikatos draudimo fondo biudžeto pajamoms ir išlaidoms, paskirstytoms metų ketvirčiais, subalansuoti;
+
+
+
+
+3) šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti.
+
+
+
+
+
+
+4. Privalomojo sveikatos draudimo fondo biudžeto rezervo ir kitas Privalomojo sveikatos draudimo fondo biudžeto laikinai laisvas lėšas Valstybinė ligonių kasa ir teritorinės ligonių kasos privalo laikyti konkurso būdu pasirinktame banke. Valstybinė ligonių kasa laikinai laisvas pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšas gali investuoti į Vyriausybės ar Lietuvos banko vertybinius popierius. Gautos pajamos naudojamos tik šiame Įstatyme nustatytoms Privalomojo sveikatos draudimo fondo biudžeto išlaidoms apmokėti.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
  
-
-
 
 
 
@@ -2501,3 +2581,23 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 6 straipsnių ir priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 22 ir 23 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 15, 18 ir 19 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2003, 2015-11-10, paskelbta TAR 2015-11-17, i. k. 2015-18263
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15 straipsnio pakeitimo įstatymas
