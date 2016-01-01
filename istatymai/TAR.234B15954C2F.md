@@ -13,226 +13,36 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
  
+Nauja redakcija nuo 2016-01-01:
+Nr. XII-1938, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14272
+ 
 LIETUVOS RESPUBLIKOS
 BIOMEDICININIŲ TYRIMŲ ETIKOS
-Į S T A T Y M A S
+ĮSTATYMAS
  
 2000 m. gegužės 11 d. Nr. VIII-1679
 Vilnius
  
 
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Šio įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato biomedicininių tyrimų etikos reikalavimus ir principus, leidimų atlikti biomedicininius tyrimus išdavimo tvarką, biomedicininių tyrimų atlikimo kontrolės tvarką bei atsakomybę už šio įstatymo reikalavimų pažeidimus. Klinikinių vaistinio preparato tyrimų reikalavimus, be šio įstatymo, nustato Lietuvos Respublikos farmacijos įstatymas ir kiti teisės aktai.
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
+1. Šis įstatymas nustato biomedicininių tyrimų etikos reikalavimus, žmogaus biologinių ėminių ir asmens sveikatos informacijos tvarkymo su biomedicininiais tyrimais susijusiais tikslais bei biobankų veiklos sąlygas, leidimų atlikti biomedicininius tyrimus išdavimo sąlygas, biomedicininių tyrimų atlikimo priežiūrą bei biomedicininių tyrimų užsakovų ir tyrėjų atsakomybę už žalą, atsiradusią dėl tiriamojo asmens sveikatos sutrikdymo ar mirties. 
 
 
 
 
-2. Biomedicininiai tyrimai turi būti atliekami vadovaujantis principu – žmogaus interesai svarbesni už visuomenės ir mokslo interesus. 
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Biomedicininiai tyrimai – biomedicinos mokslų hipotezių patikrinimas mokslo tiriamaisiais metodais ir žmogaus sveikatos ypatumų pažinimo plėtojimas.
-
-
-
-
-2. Biomedicininio tyrimo užsakovas – fizinis ar juridinis asmuo arba Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje įsteigtos įmonės filialas, įregistruotas Lietuvos Respublikoje, inicijuojantis, finansuojantis, kontroliuojantis ir atsakingas už biomedicininio tyrimo vykdymą, jo padarinius ir duomenų paskelbimą. 
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-3. Biomedicininių tyrimų etika – šiame įstatyme numatytų etikos reikalavimų ir principų laikymasis atliekant biomedicininius tyrimus.
-
-
-
-
-4. Embrionas – žmogaus organizmo vystymosi stadija nuo apvaisinimo momento (zigotos susidarymo) iki moters aštuntos nėštumo savaitės pabaigos.
-
-
-
-
-5. Etinė priežiūra – Lietuvos bioetikos komiteto ar regioninio biomedicininių tyrimų etikos komiteto atliekama veikla, kuria kontroliuojama, kaip fiziniai ar juridiniai asmenys, atlikdami biomedicininius tyrimus, laikosi biomedicininių tyrimų etikos reikalavimų ir principų. 
-Papildyta straipsnio dalimi:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-6. Informacijos konfidencialumas – informacijos apie tiriamojo sveikatos būklę, diagnozę, prognozę, gydymą ir kitus su tiriamojo sveikata susijusius asmeninio pobūdžio faktus išsaugojimas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-7. Informuoto asmens sutikimas (toliau – asmens sutikimas) – aiškus, sąmoningai duotas rašytinis tiriamojo sutikimas dalyvauti biomedicininiame tyrime.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-8. Klinikiniai tyrimai – biomedicininiai tyrimai su gyvais žmonėmis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-9. Klinikinis vaistinio preparato tyrimas – kiekvienas su žmonėmis atliekamas biomedicininis tyrimas, skirtas nustatyti, patikrinti ir patvirtinti vieno arba kelių tiriamųjų vaistinių preparatų klinikinį, farmakologinį ir (arba) kitokį farmakodinaminį poveikį ir (arba) nustatyti nepageidaujamas reakcijas į vieną ar kelis tiriamuosius vaistinius preparatus, ir (arba) ištirti vieno ar kelių tiriamųjų preparatų rezorbciją, pasiskirstymą, metabolizmą ir išsiskyrimą, siekiant nustatyti tiriamojo vaistinio preparato saugumą ir (arba) veiksmingumą. 
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-10. Neteko galios nuo 2008-01-01
-Straipsnio dalies naikinimas:
-Nr. X-1325, 2007-11-15, Žin. 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-11. Neklinikiniai tyrimai – tyrimai, kuriuose žmonės nėra tyrimo objektas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-12. Tiriamasis – asmuo, dalyvaujantis biomedicininiame tyrime.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-13. Tiriamojo atstovas – atstovas pagal įstatymą ar atstovas pagal pavedimą. Atstovo pagal pavedimą įgaliojimų įforminimas turi būti atliktas Lietuvos Respublikos įstatymų nustatyta tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-14. Tyrėjas – gydytojas ar asmuo, kuris gali atlikti biomedicininį tyrimą, nes turi atitinkamą išsilavinimą ir pacientų priežiūros patirties. Tyrėjas atsako už biomedicininį tyrimą, atliekamą tyrimo vietoje. Jei biomedicininį tyrimą tyrėjas atlieka vienas arba tyrimo atlikimo vietoje vadovauja tyrimą atliekančių asmenų grupei ir yra atsakingas už šios grupės veiklą, jis vadinamas pagrindiniu tyrėju. Kvalifikacinius reikalavimus pagrindiniam tyrėjui nustato Sveikatos apsaugos ministerija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-15. Vaisius – žmogaus organizmo vystymosi stadija nuo moters devintos nėštumo savaitės pradžios iki gimimo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-16. Žmogaus embriono kamieninės ląstelės – žmogaus embriono ląstelės, kurios gali in vitro dalytis ir (arba) išsivystyti į specializuotus ląstelių tipus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-17. Žmogaus embriono kamieninių ląstelių linija – embriono kamieninės ląstelės, kurios gali būti auginamos in vitro ir dalytis, ilgą laiką nesidiferencijuodamos į kitus ląstelių tipus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-18. Žmogaus kamieninės ląstelės – embriono ir vaisiaus vystymosi metu bei suaugusio žmogaus audiniuose esančios nespecializuotos ląstelės, galinčios diferencijuotis į specializuotas įvairių audinių tipų ląsteles ir tuo pačiu metu atsinaujinti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-19. Žmogaus kamieninių ląstelių linija – žmogaus kamieninės ląstelės, kurios auginamos in vitro sąlygomis, užtikrinant jų ilgalaikį dalijimąsi nesidiferencijuojant.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-Straipsnio pakeitimai:
-Nr. X-1074, 2007-04-03, Žin., 2007, Nr. 43-1634 (2007-04-19), i. k. 1071010ISTA00X-1074
- 
-
-
-
-
-3 straipsnis. Biomedicininių tyrimų tikslai, objektai ir atlikimo ypatumai 
-
-
-1. Biomedicininių tyrimų objektai gali būti gyvi žmonės ar jų grupės, vaisius, audiniai, organai, ląstelės bei genetinė medžiaga, žmonių lavonai, medicinos dokumentai. Gyvi žmonės ar jų grupės ir vaisius biomedicininių tyrimų objektais gali būti tik turint atitinkamų neklinikinių tyrimų išsamius duomenis. Neklinikiniai tyrimai turi būti atlikti pagal Geros laboratorinės praktikos taisykles, kurias tvirtina Sveikatos apsaugos ministerija. Klinikiniai tyrimai turi būti atliekami pagal Geros klinikinės praktikos taisykles, kurias tvirtina Sveikatos apsaugos ministerija.
-
-
-
-
-2. Su žmogaus embrionais leidžiama atlikti tik klinikinius stebėjimus (neinvazinius tyrimus). Kiti biomedicininiai tyrimai su žmogaus embrionais, taip pat jų kūrimas biomedicininių tyrimų tikslais yra draudžiami. Su vaisiumi leidžiama atlikti tik tuos biomedicininius tyrimus, kurių numatoma nauda tiriamam vaisiui viršija medicininę riziką.
-
-
-
-
-3. Žmogaus embriono audinių, embriono kamieninių ląstelių ir jų linijų ar vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų įvežimas į Lietuvos Respublikos teritoriją bei išvežimas iš jos yra draudžiami. Šis draudimas netaikomas kamieninių ląstelių, išgaunamų iš virkštelės ar placentos po vaiko gimimo, ir laikantis šio straipsnio 2 dalies reikalavimų genetiniams tyrimams paimtų mėginių įvežimui į Lietuvos Respublikos teritoriją bei išvežimui iš jos. Žmogaus embriono audinių, embriono kamieninių ląstelių ir jų linijų ar vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų tranzitas per Lietuvos Respublikos teritoriją yra galimas tik gavus Sveikatos apsaugos ministerijos leidimą. Leidimų žmogaus embrionų audinių, embriono kamieninių ląstelių ir jų linijų ar vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų tranzitui per Lietuvos Respublikos teritoriją tvarkos aprašą bei Kamieninių ląstelių, išgaunamų iš virkštelės ar placentos po vaiko gimimo genetiniams tyrimams paimtų mėginių, įvežimo į Lietuvos Respubliką ir išvežimo iš jos tvarkos aprašą nustato sveikatos apsaugos ministras. 
-Papildyta straipsnio dalimi:
-Nr. X-1074, 2007-04-03, Žin., 2007, Nr. 43-1634 (2007-04-19), i. k. 1071010ISTA00X-1074
- 
-
-
-
-
-4. Žmogų klonuoti draudžiama.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1074, 2007-04-03, Žin., 2007, Nr. 43-1634 (2007-04-19), i. k. 1071010ISTA00X-1074
- 
-
-
-
-
-5. Žmonių lavonų ir medicinos dokumentų biomedicininių tyrimų ypatumus nustato įstatymai ir Lietuvos bioetikos komitetas. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-1074, 2007-04-03, Žin., 2007, Nr. 43-1634 (2007-04-19), i. k. 1071010ISTA00X-1074
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
  
 
 
@@ -240,17 +50,235 @@ Nr. X-1074, 2007-04-03, Žin., 2007, Nr. 43-1634 (2007-04-19), i. k. 1071010ISTA
 
 
 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-ANTRASIS SKIRSNIS
+1. Asmens sveikatos informacija (toliau – sveikatos informacija) – duomenys apie asmens sveikatą, ligas ir sveikatos sutrikimus, jų priežastis, išorės veiksnius, diagnozę, eigą, prognozę, gydymą, išeitis, mirtį, paveldimumą ar bet kuri kita su asmens sveikata susijusi informacija.
+
+
+
+
+2. Asmens sveikatos informacijos teikimas (toliau – sveikatos informacijos teikimas) – asmens sveikatos informacijos atskleidimas perduodant ar kitu būdu padarant ją prieinamą, išskyrus jos paskelbimą visuomenės informavimo priemonėse.
+
+
+
+
+3. Asmens sveikatos informacijos tvarkymas (toliau – sveikatos informacijos tvarkymas) – bet kuris su asmens sveikatos informacija atliekamas veiksmas: rinkimas, užrašymas, kaupimas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), biomedicininis tyrimas, teikimas, paskelbimas, naudojimas, loginės ir (arba) aritmetinės operacijos, paieška, skleidimas, naikinimas ar kitoks veiksmas arba veiksmai.
+
+
+
+
+4. Asmuo, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, – pilnametis asmuo, teismo pripažintas neveiksniu ar ribotai veiksniu, arba pilnametis asmuo ar teismo pripažintas visiškai veiksniu (emancipuotu) nepilnametis asmuo, kurio sveikatos būklė neleidžia jam vertinti savo interesų ar trukdo juos vertinti protingai. 
+
+
+
+
+5. Biobankas – viešasis juridinis asmuo, veikiantis kaip biudžetinė ar viešoji įstaiga, turintis asmens sveikatos priežiūros licenciją užsiimti veikla, apimančia žmogaus biologinių ėminių ir sveikatos informacijos tvarkymą šiame įstatyme nustatytais tikslais ir biomedicininių tyrimų atlikimą (toliau – licencija užsiimti biobanko veikla).
+
+
+
+
+6. Bioetikos reikalavimai – Lietuvos Respublikos ir tarptautiniuose teisės aktuose bei etikos kodeksuose įtvirtinti etikos reikalavimai, taikomi teikiant sveikatos priežiūros paslaugas ir atliekant biomedicininius tyrimus.
+
+
+
+
+7. Biomedicininiai tyrimai – biomedicinos mokslų hipotezių patikrinimas mokslo tiriamaisiais metodais, kuriuo siekiama plėtoti mokslo žinias apie žmogaus sveikatą, ligas, jų diagnostiką, gydymą ar profilaktiką.
+
+
+
+
+8. Biomedicininio tyrimo centras (toliau – tyrimo centras) – juridinis asmuo, kuriame atliekamas biomedicininis tyrimas.
+
+
+
+
+9. Biomedicininio tyrimo užsakovas – fizinis, juridinis asmuo, kita organizacija ar jų padalinys, inicijuojantys, valdantys biomedicininį tyrimą, užtikrinantys jo finansavimą.
+
+
+
+
+10. Biomedicininių tyrimų etikos reikalavimai – šiame įstatyme nustatyti bioetikos reikalavimai, taikomi atliekant biomedicininius tyrimus.
+
+
+
+
+11. Biomedicininių tyrimų etinė priežiūra – Lietuvos bioetikos komiteto ir (ar) regioninio biomedicininių tyrimų etikos komiteto veikla, kuria prižiūrima, kaip biomedicininių tyrimų užsakovai ir tyrėjai laikosi biomedicininių tyrimų etikos reikalavimų.
+
+
+
+
+12. Informuoto asmens sutikimas dalyvauti biobanko veikloje (toliau – asmens sutikimas dalyvauti biobanko veikloje) – savanoriškas, aiškus, sąmoningas rašytinis sutikimas, pasirašytas asmens ar šio įstatymo numatytais atvejais ir tvarka kito asmens sutikimą dalyvauti biobanko veikloje turinčio teisę duoti asmens, pergyvenusio sutuoktinio, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – artimojo giminaičio, šiame įstatyme nustatytais tikslais leisti tvarkyti asmens biologinį ėminį ir sveikatos informaciją.
+
+
+
+
+13. Informuoto asmens sutikimas dalyvauti biomedicininiame tyrime (toliau – asmens sutikimas dalyvauti tyrime) – savanoriškas, aiškus, sąmoningas rašytinis sutikimas dalyvauti biomedicininiame tyrime, pasirašytas asmens ar šio įstatymo numatytais atvejais ir tvarka kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, pergyvenusio sutuoktinio, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – artimojo giminaičio.
+
+
+
+
+14. Klinikiniai tyrimai – biomedicininiai tyrimai su gyvais žmonėmis.
+
+
+
+
+15. Tyrėjas – biomedicininį tyrimą atliekantis fizinis asmuo, atitinkantis šiame įstatyme nustatytus reikalavimus. 
+
+
+
+
+16. Tiriamasis – asmuo, dalyvaujantis biomedicininiame tyrime.
+
+
+
+
+17. Žmogaus biologinis ėminys – biologinė medžiaga, paimta iš gyvo ar mirusio žmogaus organizmo.
+
+
+
+
+18. Žmogaus biologinių ėminių teikimas – žmogaus biologinių ėminių perdavimas ar padarymas prieinamų kitu būdu.
+
+
+
+
+19. Žmogaus biologinių ėminių tvarkymas – bet kuris su žmogaus biologiniais ėminiais atliekamas veiksmas: paėmimas, apdorojimas, konservavimas, kaupimas, saugojimas, identifikavimas, vertinimas, biomedicininis tyrimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), teikimas, paieška, naikinimas ar bet kuris kitas veiksmas arba veiksmai.
+
+
+
+
+20. Žmogaus embrionas – besivystantis žmogaus organizmas nuo apvaisinimo momento (zigotos susidarymo) iki aštuntos nėštumo savaitės pabaigos.
+
+
+
+
+21. Žmogaus embriono kamieninės ląstelės – žmogaus embriono ląstelės, kurios gali in vitro dalytis ir (arba) išsivystyti į specializuotus ląstelių tipus. 
+
+
+
+
+22. Žmogaus embriono kamieninių ląstelių linija – žmogaus embriono kamieninės ląstelės, kurios gali būti auginamos in vitro ir dalytis, ilgą laiką nesidiferencijuodamos į kitus ląstelių tipus.
+
+
+
+
+23. Žmogaus kamieninės ląstelės – žmogaus embriono ir žmogaus vaisiaus vystymosi metu ir suaugusio žmogaus audiniuose esančios nespecializuotos ląstelės, galinčios diferencijuotis į specializuotas įvairių audinių tipų ląsteles ir tuo pačiu metu atsinaujinti.
+
+
+
+
+24. Žmogaus kamieninių ląstelių linija – žmogaus kamieninės ląstelės, kurios auginamos in vitro sąlygomis, užtikrinant jų ilgalaikį dalijimąsi nesidiferencijuojant.
+
+
+
+
+25. Žmogaus vaisius – besivystantis žmogaus organizmas nuo devintos nėštumo savaitės pradžios iki gimimo.
+
+
+
+
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), Lietuvos Respublikos draudimo įstatyme (toliau – Draudimo įstatymas), Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos lygių galimybių įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme (toliau – Pacientų teisių ir žalos sveikatai atlyginimo įstatymas), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme (toliau – Sveikatos priežiūros įstaigų įstatymas), Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatyme, Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatyme ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme (toliau – Asmens duomenų teisinės apsaugos įstatymas).
+ 
+
+
+
+
+
+
+3 straipsnis. Biomedicininių tyrimų objektai
+
+
+1. Biomedicininių tyrimų objektai gali būti gyvi ar mirę žmonės ar jų grupės, žmogaus embrionas, žmogaus vaisius, žmogaus biologinis ėminys ir sveikatos informacija. 
+
+
+
+
+2. Žmogaus embrionų kūrimas biomedicininių tyrimų tikslais yra draudžiamas.
+
+
+
+
+3. Su žmogaus embrionu ir žmogaus vaisiumi leidžiama atlikti tik tuos biomedicininius tyrimus, kurių numatoma nauda tiriamam žmogaus embrionui ir žmogaus vaisiui viršija riziką.
+
+
+
+
+4. Draudžiama atlikti biomedicininius tyrimus su žmogaus embrionu ir žmogaus vaisiumi, žuvusiais po nėštumo nutraukimo moters pageidavimu, kai nėra medicininių indikacijų.
+
+
+
+
+5. Žmogų klonuoti draudžiama.
+
+
+
+
+6. Biomedicininiai tyrimai su žmogaus embrionu ar žmogaus vaisiumi, kurių metu arba kuriems pasibaigus žmogaus embrionas ar žmogaus vaisius yra sunaikinamas arba žmogaus embrionas neperkeliamas į moters gimdą, draudžiami.
+
+
+
+
+7. Biomedicininiai tyrimai, kurių metu modifikuojamas žmogaus genomas, gali būti atliekami tik profilaktikos, diagnozavimo ar gydymo tikslais ir tik tais atvejais, kai juos atliekant nesiekiama modifikuoti palikuonių genomo.
+
+
+
+
+8. Žmogaus embriono audinių, embriono kamieninių ląstelių ir jų linijų ar vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų įvežimas į Lietuvos Respublikos teritoriją ir išvežimas iš jos yra draudžiami. Šis draudimas netaikomas kamieninių ląstelių, išgaunamų iš virkštelės ar placentos po vaiko gimimo, ir laikantis šio straipsnio 3 dalies reikalavimų genetiniams tyrimams paimtų mėginių įvežimui į Lietuvos Respublikos teritoriją ir išvežimui iš jos. Žmogaus embriono audinių, embriono kamieninių ląstelių ir jų linijų ar žmogaus vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų tranzitas per Lietuvos Respublikos teritoriją yra galimas tik gavus sveikatos apsaugos ministro leidimą. Leidimų žmogaus embrionų audinių, embriono kamieninių ląstelių ir jų linijų ar žmogaus vaisiaus audinių ir iš jų paimtų kamieninių ląstelių ir jų linijų tranzitui per Lietuvos Respublikos teritoriją išdavimo tvarkos aprašą ir Žmogaus kamieninių ląstelių, išgaunamų iš virkštelės ar placentos po vaiko gimimo, ir genetiniams tyrimams paimtų žmogaus biologinių ėminių įvežimo į Lietuvos Respubliką ir išvežimo iš jos tvarkos aprašą tvirtina sveikatos apsaugos ministras.
+ 
+
+
+
+
+
+
+4 straipsnis. Diskriminacijos draudimas
+
+
+Draudžiama asmenį diskriminuoti, suvaržyti jo teises ar teisėtus interesus:
+
+
+1) dėl to, kad biobankas tvarko žmogaus biologinį ėminį ir sveikatos informaciją ar jų netvarko;
+
+
+
+
+2) biobanke tvarkomų žmogaus biologinių ėminių ir sveikatos informacijos pagrindu;
+
+
+
+
+3) dėl to, kad asmuo dalyvauja ar nedalyvauja biomedicininiame tyrime;
+
+
+
+
+4) biomedicininių tyrimų rezultatų pagrindu.
+ 
+
+
+
+
+
+
+
+
+
+
+II SKYRIUS
 BIOMEDICININIŲ TYRIMŲ ETIKOS REIKALAVIMAI
  
 
 
-4 straipsnis. Biomedicininių tyrimų etikos reikalavimai 
+5 straipsnis. Biomedicininių tyrimų etikos reikalavimai
 
 
-Biomedicininiai tyrimai gali būti atliekami tik pagal šiuos reikalavimus, kai:
+1. Biomedicininiai tyrimai turi būti atliekami vadovaujantis principu, kad žmogaus interesai svarbesni už visuomenės ir mokslo interesus.
+
+
+
+
+2. Biomedicininiai tyrimai gali būti atliekami tik esant visoms šioms sąlygoms:
 
 
 1) yra biomedicininių tyrimų mokslinė ir praktinė vertė;
@@ -258,127 +286,47 @@ Biomedicininiai tyrimai gali būti atliekami tik pagal šiuos reikalavimus, kai:
 
 
 
-2) užtikrinta tiriamojo interesų apsauga bei informacijos apie tiriamąjį konfidencialumas;
+2) biomedicininio tyrimo negalima pakeisti kitu tyrimu, kurį atliekant žmonės nebūtų tiriami;
 
 
 
 
-3) gautas savanoriškas tiriamojo asmens sutikimas; 
+3) užtikrinta tiriamojo interesų apsauga ir jo sveikatos informacijos konfidencialumas;
 
 
 
 
-4) šio įstatymo 11 straipsnio 2 ir 3 dalyse nustatytais atvejais yra civilinės atsakomybės draudimas dėl galimos žalos tiriamajam atlyginimo;
-Straipsnio punkto pakeitimai:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
- 
+4) gautas asmens sutikimas dalyvauti tyrime (išskyrus šio įstatymo 7 straipsnio 5 ir 11 dalyse nurodytus atvejus) arba, kai biomedicininis tyrimas atliekamas su biobanke tvarkomais žmogaus biologiniais ėminiais ir sveikatos informacija, – gautas asmens sutikimas dalyvauti biobanko veikloje;
 
 
 
 
-5) gauti šio įstatymo 12 straipsnyje nurodytų institucijų dokumentai, suteikiantys teisę atlikti biomedicininį tyrimą;
-Straipsnio punkto pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
+5) nedavęs asmens sutikimo dalyvauti tyrime ar asmens sutikimo dalyvauti biobanko veikloje arba jį atšaukęs, asmuo nepraras teisės gauti tinkamą asmens sveikatos priežiūrą;
 
 
 
 
-6) to nedraudžia kiti įstatymai. 
- 
+6) yra pateikti išsamūs atitinkamų ikiklinikinių tyrimų duomenys (taikoma tik klinikiniams tyrimams);
 
 
 
 
+7) rizika ir nepatogumai, kuriuos gali patirti tiriamasis, yra ne didesni negu biomedicininio tyrimo nauda. Klinikinių tyrimų atveju tiriamasis gali negauti pagal įprastą klinikinę praktiką taikomos asmens sveikatos priežiūros tik tokiu atveju, kai pagal įprastą klinikinę praktiką taikomos asmens sveikatos priežiūros efektyvumas neįrodytas ir rizika bei nepatogumai, kuriuos gali patirti tiriamasis, yra ne didesni negu biomedicininio tyrimo nauda, arba kai tokios asmens sveikatos priežiūros netaikymas nekelia pavojaus tiriamojo sveikatai; 
 
 
 
 
-5 straipsnis. Pažeidžiami asmenys
+8) šio įstatymo 12 straipsnio 2 ir 3 dalyse nustatytais atvejais pagrindinis tyrėjas ir biomedicininio tyrimo užsakovas arba sveikatos priežiūros įstaiga yra apsidraudę civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo; 
 
 
-1. Pažeidžiami asmenys – tai asmenys, kurių sutikimui dalyvauti biomedicininiame tyrime gali turėti įtakos išorinės aplinkybės. Pažeidžiamais asmenimis laikoma:
 
 
-1) asmenys, turintys psichikos sutrikimų, bet galintys duoti sutikimą dalyvauti biomedicininiame tyrime;
+9) yra gauti šio įstatymo 20 straipsnyje nurodytų institucijų dokumentai, suteikiantys teisę atlikti biomedicininį tyrimą; 
 
 
 
 
-2) nepilnamečiai;
-
-
-
-
-3) studentai, jei jų dalyvavimas biomedicininiame tyrime susijęs su studijomis; 
-
-
-
-
-4) asmenys, gyvenantys globos įstaigose; 
-
-
-
-
-5) kariai jų tikrosios karinės tarnybos metu; 
-
-
-
-
-6) sveikatos priežiūros įstaigų, kuriose atliekamas biomedicininis tyrimas, darbuotojai, pavaldūs tyrėjui.
-
-
-
-
-
-
-2. Biomedicininiai tyrimai negali būti atliekami su įkalinimo įstaigose ar kitose laisvės atėmimo vietose esančiais asmenimis.
-
-
-
-
-3. Lietuvos bioetikos komitetas motyvuotu sprendimu gali pripažinti (priskirti) ir kitų asmenų grupes pažeidžiamais asmenimis.
-
-
-
-
-4. Pažeidžiamiems asmenims yra taikomos šio įstatymo 7 straipsnyje nurodytos papildomos interesų apsaugos priemonės.
- 
-
-
-
-
-
-
-6 straipsnis. Tiriamojo interesų apsauga
-
-
-Siekiant užtikrinti tiriamojo interesų apsaugą, biomedicininiai tyrimai atliekami tik tada, kai:
-
-
-1) biomedicininio tyrimo negalima pakeisti kitu tyrimu, kur žmonės nebūtų tiriami;
-
-
-
-
-2) gautas savanoriškas asmens sutikimas;
-
-
-
-
-3) nedavęs asmens sutikimo dalyvauti biomedicininiame tyrime ar jį atšaukęs, tiriamasis nepraras teisės gauti tinkamą sveikatos priežiūrą; 
-
-
-
-
-4) medicininė rizika, kurią gali patirti tiriamasis, privalo būti ne didesnė už naudą, kurią jis gali gauti dalyvaudamas biomedicininiame tyrime. Paprastai taikomo gydymo tiriamasis gali negauti tik tuomet, kai neįrodytas jo efektyvumas arba kai tokio gydymo netaikymas nekelia pavojaus tiriamojo sveikatai;
-
-
-
-
-5) šio įstatymo 11 straipsnio 2 ir 3 dalyse nustatytais atvejais pagrindinis tyrėjas ir biomedicininių tyrimų užsakovas arba sveikatos priežiūros įstaiga yra apsidraudę civilinę atsakomybę dėl galimos žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo.
-Straipsnio punkto pakeitimai:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+10) to nedraudžia kiti įstatymai.
  
 
 
@@ -388,35 +336,68 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
-7 straipsnis. Pažeidžiamų asmenų interesų apsauga
+6 straipsnis. Pažeidžiami asmenys ir jų interesų apsauga
 
 
-1. Biomedicininius tyrimus su pažeidžiamais asmenimis leidžiama atlikti tik kai laikomasi visų šių sąlygų, jeigu:
+1. Pažeidžiamais asmenimis, kurių sutikimui dalyvauti biomedicininiame tyrime gali turėti įtakos išorinės aplinkybės ar kurie iš dalies ar visiškai nesugeba apginti savo interesų, laikomi:
 
 
-1) tokį biomedicininį tyrimą galima atlikti tik su pažeidžiamais asmenimis;
-
-
-
-
-2) biomedicininio tyrimo rezultatai gali tiesiogiai ir realiai pagerinti šių tiriamųjų sveikatą;
+1) asmenys, kurie dėl sveikatos būklės negali būti laikomi gebančiais protingai vertinti savo interesus;
 
 
 
 
-3) biomedicininis tyrimas nesukels pavojaus tiriamojo sveikatai ar gyvybei.
+2) vaikai;
+
+
+
+
+3) studentai, jeigu jų dalyvavimas biomedicininiame tyrime susijęs su studijomis;
+
+
+
+
+4) asmenys, gyvenantys socialinės globos įstaigose;
+
+
+
+
+5) kariai jų tikrosios karinės tarnybos metu;
+
+
+
+
+6) sveikatos priežiūros įstaigų, kuriose atliekamas biomedicininis tyrimas, darbuotojai, pavaldūs tyrėjui;
+
+
+
+
+7) įkalinimo įstaigose ar kitose laisvės atėmimo vietose esantys asmenys.
 
 
 
 
 
 
-2. Jeigu tiriamasis yra nepilnametis, asmens sutikimą atlikti biomedicininį tyrimą duoda abu tėvai ar įstatyminiai nepilnamečio atstovai ir rajono, miesto vaikų teisių apsaugos tarnyba. Jei nepilnamečio tėvai gyvena skyrium, būtinas vieno iš tėvų ar įstatyminio atstovo ir rajono, miesto vaikų teisių apsaugos tarnybos sutikimas.
+2. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas, vertindamas dokumentus dėl leidimo atlikti biomedicininį tyrimą išdavimo, Lietuvos bioetikos komitetas, vertindamas dokumentus dėl pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimo išdavimo, motyvuotu sprendimu gali pripažinti ir kitas asmenų grupes pažeidžiamais asmenimis.
 
 
 
 
-3. Asmens, sergančio psichikos liga, bet galinčio sąmoningai sutikti dalyvauti biomedicininiame tyrime, sutikimą turi patvirtinti du liudytojai ir sveikatos priežiūros įstaigos, kurioje atliekamas biomedicininis tyrimas, vadovas. Taip pat turi būti Medicinos etikos komisijos pritarimas. Medicinos etikos komisijos sudarymo ir veiklos tvarką nustato Sveikatos apsaugos ministerijos patvirtinti Sveikatos priežiūros įstaigos Medicinos etikos komisijos pavyzdiniai nuostatai. 
+3. Klinikinius tyrimus su pažeidžiamais asmenimis leidžiama atlikti tik šiais atvejais:
+
+
+1) kai klinikinį tyrimą įmanoma atlikti tik su pažeidžiamais asmenimis ir yra mokslinio pagrindo tikėtis, kad dalyvavimas klinikiniame tyrime tiriamajam duos tiesioginės naudos, kuri bus didesnė negu su klinikiniu tyrimu susijusi rizika ir nepatogumai;
+
+
+
+
+2) kai klinikinį tyrimą įmanoma atlikti tik su pažeidžiamais asmenimis ir klinikinis tyrimas yra tiesiogiai susijęs su tiriamojo sveikatos būkle ir yra mokslinio pagrindo tikėtis, kad dalyvavimas klinikiniame tyrime bus naudingas tyrime nedalyvaujančių asmenų grupei, kuriai priklauso tiriamasis, ir tiriamajam klinikinio tyrimo tikslu taikomi intervenciniai tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai; 
+
+
+
+
+3) kai klinikinis tyrimas tiesiogiai susijęs su tiriamojo gyvybei pavojų keliančia arba sekinančia sveikatos būkle, kurios atveju nėra pakankamos asmens sveikatos priežiūros, ir yra mokslinio pagrindo tikėtis, kad dalyvavimas klinikiniame tyrime tiriamajam duos tiesioginės naudos, kuri bus didesnė negu su klinikiniu tyrimu susijusi rizika ir nepatogumai.
  
 
 
@@ -424,35 +405,172 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
-8 straipsnis. Asmens sutikimas
 
 
-1. Biomedicininiai tyrimai atliekami tik turint rašytinį tiriamojo asmens sutikimą. Prieš duodamas sutikimą, šis asmuo jam suprantama forma pasirašytinai informuojamas apie biomedicininio tyrimo tikslą, planą, taikomus metodus, Lietuvos bioetikos komiteto ar atitinkamo Regioninio biomedicininių tyrimų etikos komiteto sprendimus, taip pat apie: 
+7 straipsnis. Asmens sutikimas dalyvauti tyrime
 
 
-1) numatomą biomedicininio tyrimo naudą tiriamajam;
+1. Prieš įtraukiant asmenį į biomedicininį tyrimą, išskyrus biomedicininį tyrimą, kuris atliekamas su biobanke tvarkomais žmogaus biologiniais ėminiais ir (ar) sveikatos informacija turint asmens sutikimą dalyvauti biobanko veikloje, turi būti gautas asmens sutikimas dalyvauti tyrime. Asmens sutikimas dalyvauti tyrime turi atitikti visas šias sąlygas:
 
 
-
-
-2) tiriamojo teises, galimą riziką bei nepatogumus, kuriuos tiriamajam gali sukelti biomedicininis tyrimas, taip pat galimos žalos, patirtos dėl biomedicininio tyrimo, atlyginimo tvarką;
+1) asmens sutikimas dalyvauti tyrime yra duotas asmens, galinčio išreikšti savo valią;
 
 
 
 
-3) tiriamojo teisę atšaukti raštu asmens sutikimą dalyvauti biomedicininiame tyrime bet kuriuo metu, suteikiant informaciją apie tokio biomedicininio tyrimo nutraukimo pasekmes; 
+2) asmens sutikimas dalyvauti tyrime yra duotas šio straipsnio 8 dalyje nustatyta tvarka asmeniui gavus pakankamą ir aiškią informaciją;
 
 
 
 
-4) informacijos konfidencialumo garantijas. 
+3) asmens sutikimas dalyvauti tyrime yra duotas asmens (šio įstatymo numatytais atvejais ir tvarka – kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, pergyvenusio sutuoktinio, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – šio straipsnio 5 dalyje nurodyto artimojo giminaičio pagal pirmumo eilę) laisva valia;
+
+
+
+
+4) asmens sutikimas dalyvauti tyrime atitinka sveikatos apsaugos ministro nustatytus išsamius asmens sutikimo dalyvauti tyrime turinio reikalavimus.
 
 
 
 
 
 
-2. Ar būtinas asmens sutikimas atliekant biomedicininius tyrimus, kurių objektai yra medicininių intervencijų, atliktų iki prašymo atlikti tyrimą su šiuo asmeniu padavimo, metu kitais tikslais iš to asmens paimti audiniai, organai, vaisius, ląstelės bei genetinė medžiaga, taip pat kai biomedicininių tyrimų objektas yra medicinos dokumentai, sprendžia Lietuvos bioetikos komitetas ar Regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą.
+2. Jeigu asmuo dėl fizinio trūkumo, ligos ar kitokių priežasčių negali pats pasirašyti asmens sutikimo dalyvauti tyrime, asmens sutikimas dalyvauti tyrime pasirašomas Civilinio kodekso nustatyta tvarka.
+
+
+
+
+3. Vaikui pagal jo amžių ir gebėjimą suprasti turi būti suteikta šio straipsnio 8 dalyje nurodyta informacija. Dėl vaiko dalyvavimo biomedicininiame tyrime asmens sutikimą dalyvauti tyrime duoda vaiko atstovai pagal įstatymą, tačiau jeigu vaikas, gebantis suprasti jam pateiktą informaciją, pareiškia norą nedalyvauti biomedicininiame tyrime ar, jeigu vaikas tokiame biomedicininiame tyrime jau dalyvauja, jame nebedalyvauti, vaiko dalyvavimas tyrime nepradedamas ar nutraukiamas, išskyrus atvejus, kai tai prieštarauja paties vaiko interesams. Ar vaiko noras nedalyvauti tyrime neprieštarauja vaiko interesams, sprendžia vaiko atstovai pagal įstatymą, atsižvelgdami į tyrėjo nuomonę. Kai biomedicininiame tyrime dalyvauja vaikai, priimant sprendimą dėl pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimo išdavimo Lietuvos bioetikos komiteto posėdyje dalyvauja Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atstovas. Vaiko dalyvavimo biomedicininiame tyrime tvarką nustato sveikatos apsaugos ministras ir Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
+
+
+
+
+4. Dėl asmens, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, dalyvavimo biomedicininiame tyrime asmens sutikimą dalyvauti tyrime duoda asmens sutuoktinis, jeigu asmuo yra nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyvena skyrium, – vienas iš asmens tėvų (įtėvių) arba vienas iš pilnamečių vaikų (įvaikių), arba, kai asmuo yra teismo pripažintas neveiksniu, – jo globėjas, arba, kai asmens veiksnumas apribotas, – jo rūpintojas (toliau – kitas asmens sutikimą dalyvauti tyrime turintis teisę duoti asmuo). Tiriamajam pagal jo gebėjimą suprasti turi būti suteikta šio straipsnio 8 dalyje nurodyta informacija. Tyrėjas atsižvelgia į tiriamojo, galinčio suprasti jam pateiktą informaciją, norą nedalyvauti biomedicininiame tyrime arba, jeigu tiriamasis tokiame biomedicininiame tyrime jau dalyvauja, norą jame nebedalyvauti. Gavus vieno iš šių asmenų nesutikimą nustatyta pirmumo tvarka, atlikti biomedicininį tyrimą su asmeniu, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, draudžiama.
+
+
+
+
+5. Jeigu asmuo iki mirties nebuvo davęs asmens sutikimo dalyvauti tyrime ar jo nebuvo atšaukęs, asmens sutikimą atlikti biomedicininį tyrimą su mirusio žmogaus biologiniu ėminiu (ėminiais) ir sveikatos informacija duoda pergyvenęs sutuoktinis, jeigu asmuo nebuvo susituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – vienas iš artimųjų giminaičių pagal tokią pirmumo tvarką: tėvai (įtėviai), pilnamečiai vaikai (įvaikiai), broliai (seserys), seneliai, vaikaičiai. Gavus vieno iš šių asmenų sutikimą nustatyta pirmumo tvarka, kitų mirusiojo artimųjų giminaičių sutikimo neklausiama. Gavus vieno iš šių asmenų nesutikimą nustatyta pirmumo tvarka, atlikti biomedicininį tyrimą su mirusio žmogaus biologiniu ėminiu (ėminiais) ir sveikatos informacija draudžiama. 
+
+
+
+
+6. Asmuo ir kitas asmens sutikimą dalyvauti tyrime turintis teisę duoti asmuo gali būti informuojami ir asmens sutikimas dalyvauti tyrime gali būti gaunamas įtraukus asmenį į biomedicininį tyrimą, kai tenkinamos visos šios sąlygos: 
+
+
+1) dėl kritinės būklės ar kitos sveikatos būklės, dėl kurios reikalinga būtinoji pagalba, asmuo negali gauti šio straipsnio 8 dalyje nurodytos informacijos ir duoti asmens sutikimo dalyvauti tyrime, o asmuo, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, ar vaikas negali gauti šio straipsnio 8 dalyje nurodytos informacijos ir negali išreikšti noro ar nenoro dalyvauti biomedicininiame tyrime; 
+
+
+
+
+2) yra mokslinio pagrindo tikėtis, kad asmens dalyvavimas biomedicininiame tyrime duos jo sveikatai tiesioginės svarbios naudos, tai yra palengvės jo kančios ir (arba) pagerės sveikata, arba bus sudarytos sąlygos diagnozei nustatyti ar ligos eigai numatyti;
+
+
+
+
+3) asmeniui neatidėliotinai turi būti atlikta biomedicininio tyrimo diagnostinė ar gydymo procedūra (toliau – procedūra), todėl neįmanoma pateikti šio straipsnio 8 dalyje nurodytos informacijos ir gauti asmens sutikimo dalyvauti tyrime iš kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens;
+
+
+
+
+4) tyrėjas patvirtina, kad jam nėra žinoma, kad asmuo anksčiau būtų pareiškęs kokių nors prieštaravimų dėl dalyvavimo biomedicininiame tyrime;
+
+
+
+
+5) biomedicininis tyrimas yra tiesiogiai susijęs su asmens sveikatos būkle, dėl kurios jam neatidėliotinai turi būti atlikta procedūra ir dėl to neįmanoma pateikti šio straipsnio 8 dalyje nurodytos informacijos ir gauti asmens sutikimo dalyvauti tyrime iš asmens ar kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, o biomedicininis tyrimas yra tokio pobūdžio, kad jį galima atlikti tik ūmių gyvybei pavojingų ar kitų ūmių sunkių sveikatos būklių atvejais;
+
+
+
+
+6) biomedicininio tyrimo keliama rizika asmens sveikatai ir nepatogumai yra minimalūs, palyginti su pagal įprastą klinikinę praktiką tiriamojo sveikatos būklės atveju teikiama asmens sveikatos priežiūra.
+
+
+
+
+
+
+7. Šio straipsnio 6 dalyje nustatytomis sąlygomis į biomedicininį tyrimą įtrauktas asmuo gali toliau dalyvauti biomedicininiame tyrime, kai jam suteikiama šio straipsnio 8 dalyje nurodyta informacija, taip pat informacija apie teisę nesutikti, kad biomedicininio tyrimo tikslu būtų toliau naudojama sveikatos informacija, gauta biomedicininio tyrimo metu, kai asmuo nesutinka toliau dalyvauti tyrime, ir gaunamas asmens sutikimas dalyvauti tyrime iš šių asmenų:
+
+
+1) vaiko atstovų pagal įstatymą, kai tiriamasis yra vaikas, arba kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, kai tiriamasis yra asmuo, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, – nedelsiant, kai tampa įmanoma jiems pateikti šio straipsnio 8 dalyje nurodytą informaciją ir gauti iš jų asmens sutikimą dalyvauti tyrime;
+
+
+
+
+2) tiriamojo – nedelsiant, kai tiriamasis asmuo tampa gebančiu protingai vertinti savo interesus.
+
+
+
+
+
+
+8. Prieš duodamas asmens sutikimą dalyvauti tyrime, asmuo arba šio įstatymo numatytais atvejais kitas asmens sutikimą dalyvauti tyrime turintis teisę duoti asmuo, pergyvenęs sutuoktinis, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – šio straipsnio 5 dalyje nurodytas artimasis giminaitis pagal pirmumo eilę, atsižvelgiant į asmens sutikimą dalyvauti tyrime duodančio asmens amžių ir sveikatos būklę, jam suprantamu būdu, paaiškinant specialius medicinos terminus, turi būti informuotas apie:
+
+
+1) biomedicininio tyrimo tikslą; 
+
+
+
+
+2) biomedicininio tyrimo planą; 
+
+
+
+
+3) atliekant biomedicininį tyrimą taikomus metodus; 
+
+
+
+
+4) šio įstatymo 20 straipsnyje nurodytus Lietuvos bioetikos komiteto arba regioninio biomedicininių tyrimų etikos komiteto leidimą atlikti biomedicininį tyrimą arba Lietuvos bioetikos komiteto pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą ir Valstybinės vaistų kontrolės tarnybos prie Lietuvos Respublikos sveikatos apsaugos ministerijos leidimą;
+
+
+
+
+5) numatomą biomedicininio tyrimo naudą tiriamajam;
+
+
+
+
+6) tiriamojo teises; 
+
+
+
+
+7) galimą riziką ir nepatogumus, kuriuos tiriamajam gali sukelti biomedicininis tyrimas;
+
+
+
+
+8) galimos žalos, patirtos dėl biomedicininio tyrimo, atlyginimo tvarką;
+
+
+
+
+9) teisę atšaukti asmens sutikimą dalyvauti tyrime bet kuriuo metu, suteikiant informaciją apie biomedicininio tyrimo nutraukimo pasekmes;
+
+
+
+
+10) sveikatos informacijos konfidencialumo garantijas. 
+
+
+
+
+
+
+9. Tyrėjas suteikia asmeniui ar šio įstatymo numatytais atvejais kitam asmens sutikimą dalyvauti tyrime turinčiam teisę duoti asmeniui arba pergyvenusiam sutuoktiniui, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – šio straipsnio 5 dalyje nurodytam artimajam giminaičiui pagal pirmumo eilę aiškią, nemokamą ir lengvai įgyvendinamą galimybę rašytiniu prašymu atšaukti asmens sutikimą dalyvauti tyrime. Biomedicininių tyrimų rezultatai, gauti atliekant biomedicininį tyrimą iki asmens prašymo atšaukti asmens sutikimą dalyvauti tyrime gavimo, nenaikinami.
+
+
+
+
+10. Išsamius asmens sutikimo dalyvauti tyrime turinio ir informacijos, nurodytos šio straipsnio 8 dalyje, reikalavimus ir sutikimo davimo ir atšaukimo tvarką nustato sveikatos apsaugos ministras. 
+
+
+
+
+11. Atliekant biomedicininius tyrimus, kurių objektas yra iki prašymo atlikti biomedicininį tyrimą davimo asmens sveikatos priežiūros, statistikos ar kitais tikslais paimtas to asmens biologinis ėminys ir (ar) sveikatos informacija, Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, sprendžia, ar būtinas asmens sutikimas dalyvauti tyrime.
  
 
 
@@ -460,15 +578,121 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
-9 straipsnis. Informacijos konfidencialumas 
+8 straipsnis. Asmens sutikimas dalyvauti biobanko veikloje
 
 
-1. Informacija, gauta atliekant biomedicininį tyrimą, apie tiriamojo sveikatos būklę, diagnozę, prognozę, gydymą ir kitus su tiriamojo sveikata susijusius asmeninio pobūdžio faktus yra konfidenciali ir gali būti teikiama tik Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka. 
+1. Žmogaus biologiniai ėminiai ir sveikatos informacija tvarkomi šio įstatymo 16 straipsnio 1 dalyje nustatytais tikslais tik turint asmens sutikimą dalyvauti biobanko veikloje. Asmens sutikimas dalyvauti biobanko veikloje turi atitikti visas šias sąlygas:
+
+
+1) asmens sutikimas dalyvauti biobanko veikloje yra duotas asmens, galinčio išreikšti savo valią;
 
 
 
 
-2. Informacija, gauta atliekant biomedicininį tyrimą, apie tiriamojo sveikatos būklę, diagnozę, prognozę, gydymą ir kitus su tiriamojo sveikata susijusius asmeninio pobūdžio faktus nelaikoma konfidencialia ir gali būti paskelbta be tiriamojo asmens sutikimo, jei paskelbus tokią informaciją nebus galima identifikuoti tiriamojo. 
+2) asmens sutikimas dalyvauti biobanko veikloje yra duotas šio straipsnio 6 dalyje nustatyta tvarka asmeniui gavus pakankamą ir aiškią informaciją;
+
+
+
+
+3) asmens sutikimas dalyvauti biobanko veikloje yra duotas asmens (šio įstatymo numatytais atvejais ir tvarka – kito asmens sutikimą dalyvauti tyrime turinčio teisę duoti asmens, pergyvenusio sutuoktinio, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – šio straipsnio 5 dalyje nurodyto artimojo giminaičio pagal pirmumo eilę) laisva valia;
+
+
+
+
+4) asmens sutikimas dalyvauti biobanko veikloje atitinka sveikatos apsaugos ministro nustatytus išsamius asmens sutikimo dalyvauti biobanko veikloje turinio reikalavimus.
+
+
+
+
+
+
+2. Jeigu asmuo dėl fizinio trūkumo, ligos ar kitokių priežasčių negali pats pasirašyti asmens sutikimo dalyvauti biobanko veikloje, asmens sutikimas dalyvauti biobanko veikloje pasirašomas Civilinio kodekso nustatyta tvarka.
+
+
+
+
+3. Asmens sutikimą dalyvauti biobanko veikloje dėl vaiko biologinio ėminio ir sveikatos informacijos tvarkymo šio įstatymo 16 straipsnio 1 dalyje nustatytais tikslais duoda vaiko atstovai pagal įstatymą. 
+
+
+
+
+4. Asmens sutikimą dalyvauti biobanko veikloje dėl asmens, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, žmogaus biologinio ėminio ir sveikatos informacijos tvarkymo šio įstatymo 16 straipsnio 1 dalyje nustatytais tikslais duoda asmens sutuoktinis, jeigu asmuo yra nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyvena skyrium, – vienas iš asmens tėvų (įtėvių) arba vienas iš pilnamečių vaikų (įvaikių) arba, kai asmuo yra teismo pripažintas neveiksniu, – jo globėjas, arba, kai asmens veiksnumas apribotas, – jo rūpintojas (toliau – kitas asmens sutikimą dalyvauti biobanko veikloje turintis teisę duoti asmuo).
+
+
+
+
+5. Asmens sutikimą dalyvauti biobanko veikloje dėl mirusio asmens biologinio ėminio ir sveikatos informacijos tvarkymo šio įstatymo 16 straipsnio 1 dalyje nustatytais tikslais duoda pergyvenęs sutuoktinis, jeigu asmuo buvo nesusituokęs, santuoka yra pasibaigusi, sutuoktinis yra pripažintas nežinia kur esančiu ar sutuoktiniai gyveno skyrium, – vienas iš artimųjų giminaičių pagal tokią pirmumo tvarką: tėvai (įtėviai), pilnamečiai vaikai (įvaikiai), broliai (seserys), seneliai, vaikaičiai. Gavus vieno iš šių asmenų sutikimą nustatyta pirmumo tvarka, kitų mirusiojo artimųjų giminaičių sutikimo neklausiama. Gavus vieno iš šių asmenų nesutikimą nustatyta pirmumo tvarka, naudoti mirusio žmogaus biologinį ėminį ir sveikatos informaciją biobanko veikloje draudžiama.
+
+
+
+
+6. Prieš duodamas asmens sutikimą dalyvauti biobanko veikloje, asmuo, šio įstatymo numatytais atvejais – kitas asmens sutikimą dalyvauti biobanko veikloje turintis teisę duoti asmuo, pergyvenęs sutuoktinis, jeigu buvo nesusituokęs, – šio straipsnio 5 dalyje nurodytas artimasis giminaitis pagal pirmumo eilę, atsižvelgiant į asmens sutikimą dalyvauti biobanko veikloje duodančio asmens amžių ir sveikatos būklę, jam suprantamu būdu, paaiškinant specialius medicinos terminus, informuotas apie: 
+
+
+1) asmens sutikimo dalyvauti biobanko veikloje esmę, galimą naudą, nepatogumus ir riziką asmeniui;
+
+
+
+
+2) biologinio ėminio ir sveikatos informacijos tvarkymo tikslus ir būdus, įskaitant sveikatos informacijos gavimą iš sveikatos priežiūros įstaigų, registrų ir (ar) valstybės informacinių sistemų, ir tai, kad konkrečių biomedicininių tyrimų su šiuo žmogaus biologiniu ėminiu ir sveikatos informacija tikslai ir būdai asmens sutikimo dalyvauti biobanko veikloje davimo metu gali būti nežinomi dėl nepakankamo mokslo ar technologijų išsivystymo lygio ar kitų objektyvių priežasčių;
+
+
+
+
+3) galimybę gauti iš biobanko informaciją apie jo (ar mirusio asmens) žmogaus biologinio ėminio ir sveikatos informacijos panaudojimą ir šio panaudojimo tikslus; 
+
+
+
+
+4) sveikatos informacijos konfidencialumo garantijas ir tai, kad biobankas žmogaus biologinius ėminius ir (ar) sveikatos informaciją ar juos naudojant gautus biomedicininių tyrimų rezultatus ar jų dalį, kurie leidžia nustatyti asmens tapatybę, teikia tik motyvuotu teismo sprendimu, jeigu tai yra reikalinga bylai teisme nagrinėti; 
+
+
+
+
+5) teisę atšaukti asmens sutikimą dalyvauti biobanko veikloje.
+
+
+
+
+
+
+7. Vaikui ar asmeniui, kuris dėl sveikatos būklės negali būti laikomas gebančiu protingai vertinti savo interesus, pagal jo gebėjimą suprasti turi būti suteikta šio straipsnio 6 dalyje nurodyta informacija ir turi būti atsižvelgiama į jo norą nesuteikti biobankui teisės tvarkyti jo biologinio ėminio ir sveikatos informacijos šio įstatymo 16 straipsnio 1 dalyje nustatytais tikslais, o jeigu asmens sutikimas dalyvauti biobanko veikloje jau duotas, – šį sutikimą atšaukti.
+
+
+
+
+8. Biobanke gali būti tvarkomi žmogaus biologiniai ėminiai, likę po chirurginių operacijų, invazinių ir (ar) intervencinių procedūrų, ir sveikatos informacija, kurių tvarkymui asmuo nėra davęs asmens sutikimo dalyvauti biobanko veikloje šio straipsnio nustatyta tvarka, tačiau tik tiek, kiek reikia, kad šie žmogaus biologiniai ėminiai būtų išsaugoti ir, jeigu asmuo per vieną mėnesį po chirurginės operacijos, invazinės ir (ar) intervencinės procedūros atlikimo duotų asmens sutikimą dalyvauti biobanko veikloje, galėtų būti tvarkomi biobanke, o sveikatos informacija – tik tiek, kiek reikia, kad būtų įvertintas tokių žmogaus biologinių ėminių tinkamumas šio įstatymo 16 straipsnio 1 dalyje nustatytiems tikslams. Jeigu asmuo ar šio įstatymo nustatytais atvejais kitas asmens sutikimą dalyvauti biobanko veikloje turintis teisę duoti asmuo per šioje dalyje nurodytą terminą neduoda asmens sutikimo dalyvauti biobanko veikloje, biobankas privalo nedelsdamas sunaikinti biobanke saugomą žmogaus biologinį ėminį ir sveikatos informaciją. Informacija apie tai, kad žmogaus biologiniai ėminiai ir sveikatos informacija šioje dalyje nustatyta tvarka gali būti tvarkomi biobanke, turi būti viešai prieinama pacientams asmens sveikatos priežiūros įstaigose.
+
+
+
+
+9. Bet kokia invazinė ir (ar) intervencinė procedūra, kurios vienintelis tikslas yra gauti ir toliau tvarkyti žmogaus biologinį ėminį (ėminius) biobanke ir su juo (jais) atlikti biomedicininius tyrimus, o ne asmenį gydyti ar nustatyti diagnozę, yra leidžiama tik tuo atveju, jeigu asmens sutikime dalyvauti biobanko veikloje nurodytas sutikimas paimti žmogaus biologinį ėminį tokiu tikslu. 
+
+
+
+
+10. Biobankas suteikia asmeniui ar šio įstatymo numatytais atvejais kitam asmens sutikimą dalyvauti biobanko veikloje turinčiam teisę duoti asmeniui, ar pergyvenusiam sutuoktiniui, ar artimajam giminaičiui aiškią, nemokamą ir lengvai įgyvendinamą galimybę rašytiniu prašymu atšaukti asmens sutikimą dalyvauti biobanko veikloje. Gavus rašytinį asmens prašymą atšaukti asmens sutikimą dalyvauti biobanko veikloje, biobanke saugomas žmogaus biologinis ėminys ir sveikatos informacija nebegali būti tvarkomi, o šio įstatymo 17 straipsnyje nurodytiems asmenims perduoti žmogaus biologinis ėminys ir sveikatos informacija nebegali būti naudojami, ir sveikatos apsaugos ministro nustatyta tvarka turi būti sunaikinti ir apie tai turi būti pranešta asmeniui. Biomedicininių tyrimų rezultatai, gauti atliekant biomedicininius tyrimus su žmogaus biologiniais ėminiais, ir sveikatos informacija iki asmens prašymo atšaukti asmens sutikimą dalyvauti biobanko veikloje gavimo nenaikinami.
+
+
+
+
+11. Išsamius asmens sutikimo dalyvauti biobanko veikloje turinio ir informacijos, nurodytos šio straipsnio 6 dalyje, reikalavimus ir asmens sutikimo dalyvauti biobanko veikloje davimo ir atšaukimo tvarką nustato sveikatos apsaugos ministras. 
+ 
+
+
+
+
+
+
+9 straipsnis. Sveikatos informacijos konfidencialumas
+
+
+1. Biomedicininį tyrimą atliekant gauta sveikatos informacija, leidžianti nustatyti asmens tapatybę, yra konfidenciali ir gali būti teikiama tik Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka. 
+
+
+
+
+2. Biomedicininį tyrimą atliekant gauta sveikatos informacija nelaikoma konfidencialia ir gali būti paskelbta be tiriamojo asmens sutikimo, jeigu paskelbus tokią sveikatos informaciją nebus galima nustatyti asmens tapatybės.
  
 
 
@@ -479,7 +703,7 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 10 straipsnis. Išlaidų atlyginimas
 
 
-Tiriamieji turi teisę gauti išlaidų, kurias jie patyrė dėl biomedicininio tyrimo, atlyginimą. Šių išlaidų apskaičiavimo ir mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+Tiriamieji turi teisę gauti kompensaciją už dėl dalyvavimo biomedicininiame tyrime patirtas išlaidas ir sugaištą laiką. Kompensacijos apskaičiavimo ir mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija.
  
 
 
@@ -487,40 +711,25 @@ Tiriamieji turi teisę gauti išlaidų, kurias jie patyrė dėl biomedicininio t
 
 
 
-11 straipsnis. Biomedicininių tyrimų užsakovo ir pagrindinio tyrėjo civilinė atsakomybė ir jos draudimas
+11 straipsnis. Biomedicininio tyrimo užsakovas ir tyrėjas
 
 
-1. Biomedicininių tyrimų užsakovas ir tyrėjas atsako už žalą, atsiradusią dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, taip pat už neturtinę žalą, atsiradusią dėl biomedicininių tyrimų, jei jie neįrodo, kad žala atsirado dėl priežasčių, nesusijusių su biomedicininiais tyrimais, arba dėl tiriamojo tyčinės veikos. Biomedicininių tyrimų užsakovo ir tyrėjo padaryta žala sveikatai, dėl gyvybės atėmimo bei dėl to atsiradusi neturtinė žala atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatytais atvejais ir Civilinio kodekso nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
- 
+1. Biomedicininio tyrimo užsakovas atsako už biomedicininio tyrimo inicijavimą, valdymą ir biomedicininio tyrimo finansavimo užtikrinimą.
 
 
 
 
-2. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo, sudarydami pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudikais, teisės aktų nustatyta tvarka turinčiais teisę vykdyti pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomąjį draudimą. Šis reikalavimas taikomas tik tais atvejais, kai atliekamas klinikinis vaistinio preparato tyrimas, klinikinis medicinos prietaiso tyrimas arba bet kuris kitas biomedicininis tyrimas, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1692, 2011-11-17, Žin., 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
- 
+2. Tyrėjas atsako už biomedicininį tyrimą, atliekamą tyrimo centre. Jeigu biomedicininį tyrimą tyrėjas atlieka vienas arba tyrimo centre vadovauja biomedicininį tyrimą atliekančių asmenų grupei ir yra atsakingas už šios grupės veiklą, jis vadinamas pagrindiniu tyrėju.
 
 
 
 
-3. Klinikinį vaistinio preparato tyrimą, klinikinį medicinos prietaiso tyrimą arba bet kurį kitą biomedicininį tyrimą, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, taip pat leidžiama atlikti, jeigu sveikatos priežiūros įstaigos, kuri pati arba jos darbuotojas yra tokio tyrimo užsakovas arba jos darbuotojas yra tyrėjas tokiame tyrime, civilinės atsakomybės už pacientams padarytą žalą draudimo sutartyje yra numatytas žalos, galinčios atsirasti tokių tyrimų metu, atlyginimas. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus. 
-Papildyta straipsnio dalimi:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
- 
+3. Kai atliekamas biomedicininis tyrimas, kurio metu taikomi intervenciniai biomedicininio tyrimo metodai kelia riziką tiriamojo sveikatai (išskyrus šio straipsnio 4 dalyje nurodytus biomedicininius tyrimus), tyrėjas privalo turėti tokio biomedicininio tyrimo pobūdį atitinkančią aukštojo mokslo kvalifikaciją, atitinkamą medicinos praktikos arba odontologijos praktikos licenciją, turėti pacientų priežiūros patirties ir būti įdarbintas tyrimo centre, o pagrindinis tyrėjas taip pat privalo turėti biomedicininių tyrimų, kurių metu taikomi intervenciniai biomedicininio tyrimo metodai kelia riziką tiriamojo sveikatai, patirties. Konkrečius tyrėjo, atliekančio šioje dalyje nurodytą biomedicininį tyrimą, aukštojo mokslo kvalifikacijos ir patirties reikalavimus nustato sveikatos apsaugos ministras.
 
 
 
 
-4. Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, tvirtina Vyriausybė ar jos įgaliota institucija. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+4. Kai atliekamas klinikinis vaistinio preparato tyrimas, tyrėjas privalo turėti klinikinio vaistinio preparato tyrimo pobūdį atitinkančią aukštojo mokslo kvalifikaciją, atitinkamą medicinos praktikos arba odontologijos praktikos licenciją, turėti pacientų priežiūros patirties, būti baigęs geros klinikinės praktikos mokymus ir įdarbintas tyrimo centre. Kai atliekami šioje dalyje nurodyti biomedicininiai tyrimai, pagrindinis tyrėjas taip pat privalo turėti klinikinių vaistinio preparato tyrimų patirties. Konkrečius tyrėjo, atliekančio klinikinį vaistinio preparato tyrimą, aukštojo mokslo kvalifikacijos, geros klinikinės praktikos mokymų ir patirties reikalavimus nustato sveikatos apsaugos ministras. Asmuo gali dirbti pagrindiniu tyrėju tik viename to paties tyrimo centre.
  
 
 
@@ -528,125 +737,25 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
+12 straipsnis. Biomedicininio tyrimo užsakovo ir tyrėjo civilinė atsakomybė ir jos draudimas
 
 
-TREČIASIS SKIRSNIS
-BIOMEDICININIŲ TYRIMŲ ATLIKIMO KONTROLĖS TVARKA
- 
+1. Biomedicininio tyrimo užsakovas ir tyrėjas atsako už turtinę ir neturtinę žalą, padarytą tiriamajam, išskyrus turtinę ir neturtinę žalą, kuri atsirado dėl priežasčių, nesusijusių su biomedicininiais tyrimais, arba dėl tiriamojo tyčinių veiksmų. Biomedicininio tyrimo užsakovas ir tyrėjas atsako solidariai už šioje dalyje nurodytą turtinę ir neturtinę žalą, padarytą tiriamajam, išskyrus atvejus, kai biomedicininio tyrimo užsakovas ir tyrėjas raštu susitaria kitaip. Biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Civilinio kodekso, Draudimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
 
-12 straipsnis. Institucijos, suteikiančios teisę atlikti biomedicininius tyrimus
 
 
-1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik leidus šio straipsnio 2 ir 3 dalyse nurodytoms institucijoms.
+2. Biomedicininio tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais. Šis reikalavimas taikomas tik tais atvejais, kai atliekamas klinikinis vaistinio preparato tyrimas arba bet kuris kitas biomedicininis tyrimas, kuriame dalyvaujančiam asmeniui biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą.
 
 
 
 
-2. Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą, išduoda Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas. Regioninis biomedicininių tyrimų etikos komitetas išduoda leidimus atlikti biomedicininius tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose tik atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje. Leidimą biomedicininiam tyrimui, kurį planuojama atlikti daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, išduoda Lietuvos bioetikos komitetas, gavęs regioninių biomedicininių tyrimų etikos komitetų išvadas.
+3. Klinikinį vaistinio preparato tyrimą arba bet kurį kitą biomedicininį tyrimą, kuriame dalyvaujančiam asmeniui taikomi intervenciniai biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, leidžiama atlikti ir tokiu atveju, kai asmens sveikatos priežiūros įstaigos, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, civilinės atsakomybės už pacientams padarytą žalą draudimo sutartyje yra numatytas turtinės ir neturtinės žalos, galinčios atsirasti tokių biomedicininių tyrimų metu, atlyginimas. Tai, ar taikomi intervenciniai biomedicininio tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus.
 
 
 
 
-3. Klinikinius vaistinio preparato tyrimus galima atlikti tik turint Lietuvos bioetikos komiteto pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą ir Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos leidimą. Lietuvos bioetikos komitetas pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą išduoda gavęs regioninių biomedicininių tyrimų etikos komitetų išvadas, kai klinikinį vaistinio preparato tyrimą planuojama atlikti tyrimo centruose, esančiuose atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje.
-
-
-Straipsnio pakeitimai:
-Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-13 straipsnis. Lietuvos bioetikos komiteto steigimas ir kompetencija 
-
-
-1. Lietuvos bioetikos komitetą steigia, jo sudėtį ir veiklos nuostatus tvirtina Sveikatos apsaugos ministerija. Lietuvos bioetikos komitetas yra juridinis asmuo. Jo veikla finansuojama iš valstybės biudžeto. 
-
-
-
-
-2. Lietuvos bioetikos komitetas:
-
-
-1) analizuoja bioetikos problemas ir konsultuoja valstybės bei savivaldybės institucijas, įstaigas, organizacijas bioetikos klausimais, teikia išvadas bei pasiūlymus dėl šiuos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų;
-
-
-
-
-2) išduoda leidimus biomedicininiams tyrimams, išskyrus klinikinius vaistinių preparatų tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, ir atlieka šių tyrimų etinę priežiūrą;
-
-
-
-
-3) išduoda pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus ir atlieka šių tyrimų etinę priežiūrą;
-
-
-
-
-4) kontroliuoja regioninių biomedicininių tyrimų etikos komitetų veiklą;
-
-
-
-
-5) kasmet atsiskaito Sveikatos apsaugos ministerijai už savo veiklą ir teikia pasiūlymus dėl bioetikos problemų sprendimo;
-
-
-
-
-6) kontroliuoja, ar asmens ir visuomenės sveikatos priežiūra atitinka bioetikos reikalavimus, ir prižiūri, kaip juridiniai asmenys laikosi bioetikos reikalavimų;
-
-
-
-
-7) teikia metodinę paramą ir konsultuoja sveikatos priežiūros įstaigų medicinos etikos komisijas ir kitas institucijas jų veiklos klausimais;
-
-
-
-
-8) pagal kompetenciją atstovauja Lietuvai tarptautinėse organizacijose;
-
-
-
-
-9) atlieka kitas jo nuostatuose nustatytas funkcijas.
-
-
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-3. Leidimus atlikti biomedicininius tyrimus ir pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus Lietuvos bioetikos komitetas išduoda, kai yra teigiama Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės išvada. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų, 4 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai. Sveikatos apsaugos ministro nustatytu terminu ir tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo sveikatos priežiūros specialistų asociacijos, o socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos ir ekspertų darbo apmokėjimo tvarką nustato sveikatos apsaugos ministras. 
-Papildyta straipsnio dalimi:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
- 
-
-
-
-
-4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario kadencija – 4 metai. Tas pats asmuo Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nariu gali būti ne daugiau kaip dvi kadencijas iš eilės. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario įgaliojimai nutrūksta, kai pasibaigia jo kadencija, kai jis atsistatydina arba kai jį atšaukia sveikatos apsaugos ministras jo kandidatūrą pasiūliusios asociacijos ar institucijos teikimu, kai jis nebegali eiti Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario pareigų dėl ligos ar miršta. Tokiais atvejais, jeigu Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės kadencija nepasibaigusi, iki jos pabaigos siūloma nauja Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario kandidatūra ir naujas šios grupės narys tvirtinamas šio įstatymo nustatyta tvarka. 
-Papildyta straipsnio dalimi:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
- 
-
-
-
-
-5. Lietuvos bioetikos komitetas Sveikatos apsaugos ministerijos nustatyta tvarka atlieka biomedicininių tyrimų apskaitą, kaupia, saugo ir teikia informaciją apie juos užtikrindamas konfidencialios informacijos apsaugą, taip pat rengia ir tvirtina tipines dokumentų formas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
- 
-
-
-
-
-6. Vyriausybė gali sudaryti specialias laikinąsias komisijas atskiroms bioetikos problemoms spręsti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
+4. Biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo suma negali būti mažesnė kaip 29 000 eurų turtinei ir neturtinei žalai, padarytai vienam tiriamajam, kompensuoti. Biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo apsauga turi galioti nuo biomedicininio tyrimo pradžios iki jo pabaigos ir ne trumpiau kaip 5 metus nuo biomedicininio tyrimo pabaigos. Biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo taisykles, kurios nustato kitas biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutarties sąlygas, turtinės ir neturtinės žalos tiriamojo sveikatai dydžio apskaičiavimo ir atlyginimo tvarką, nustato Vyriausybė ar jos įgaliota institucija. 
  
 
 
@@ -654,15 +763,353 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
-14 straipsnis. Regioninių biomedicininių tyrimų etikos komitetų sudarymas ir jų kompetencija
 
 
-1. Regioniniai biomedicininių tyrimų etikos komitetai sudaromi prie universitetų, kuriuose vykdomos trijų pakopų medicinos studijos. Lėšos regioninių biomedicininių tyrimų etikos komitetų veiklai numatomos Sveikatos apsaugos ministerijai skiriamuose valstybės biudžeto asignavimuose.
+III SKYRIUS
+BIOBANKŲ VEIKLOS SĄLYGOS
+ 
+
+
+13 straipsnis. Biobankų veikla
+
+
+1. Biobankų veikla vykdoma laikantis šio įstatymo, Asmens duomenų teisinės apsaugos įstatymo ir Sveikatos priežiūros įstaigų įstatymo reikalavimų, gerbiant asmens teises ir laisves bei vadovaujantis skaidrumo, patikimumo, duomenų saugumo ir atvirumo principais. 
 
 
 
 
-2. Regioninių biomedicininių tyrimų etikos komitetų sudarymo, veiklos, jų kompetencijai priskirtų klausimų sprendimo tvarką reglamentuoja regioninių biomedicininių tyrimų etikos komitetų nuostatai, kuriuos, suderinęs su Sveikatos apsaugos ministerija, tvirtina universiteto rektorius. Regioninių biomedicininių tyrimų etikos komitetų veiklos teritorines ribas nustato Sveikatos apsaugos ministerija.
+2. Biobankai tvarko žmogaus biologinius ėminius ir sveikatos informaciją šio įstatymo 16 straipsnio 1 dalyje nustatytais tikslais. 
+
+
+
+
+3. Biobankai turi teisę:
+
+
+1) būti biomedicininių tyrimų užsakovais ir vykdyti biomedicininius tyrimus;
+
+
+
+
+2) teisės aktų nustatyta tvarka bendradarbiauti su Europos Sąjungos valstybių narių, kitų Europos ekonominės erdvės valstybių ir trečiųjų valstybių biobankais, tarptautinėmis organizacijomis, dalyvauti jų veikloje;
+
+
+
+
+3) šio įstatymo 15 straipsnyje nustatyta tvarka gauti sveikatos informaciją.
+ 
+
+
+
+
+
+
+
+
+14 straipsnis. Biobankų licencijavimas 
+
+
+1. Viešasis juridinis asmuo, veikiantis kaip biudžetinė ar viešoji įstaiga, siekiantis gauti ir gavęs licenciją užsiimti biobanko veikla, privalo atitikti Sveikatos priežiūros įstaigų įstatyme nustatytus reikalavimus asmens sveikatos priežiūros licencijai gauti ir šiuos reikalavimus:
+
+
+1) užtikrinti, kad sveikatos apsaugos ministro patvirtintame Biobanko veiklos reikalavimų apraše nustatytus reikalavimus, keliamus siekiant užtikrinti žmogaus biologinių ėminių ir sveikatos informacijos atsekamumą, saugumą, kokybę ir prieinamumą tyrėjams, atitiktų: 
+
+
+a) patalpos, įrangos ir medžiagos, naudojamos žmogaus biologiniams ėminiams, ir sveikatos informacijos tvarkymas;
+
+
+
+
+b) žmogaus biologinių ėminių ir sveikatos informacijos tvarkymo organizavimo, valdymo ir tvarkymo sistema;
+
+
+
+
+
+
+2) paskirti darbuotoją, atsakingą už žmogaus biologinių ėminių ir sveikatos informacijos tvarkymo atitiktį teisės aktų reikalavimams.
+
+
+
+
+
+
+2. Licencija užsiimti biobanko veikla išduodama, jos galiojimas sustabdomas, licencijos galiojimo sustabdymas panaikinamas, licencijos galiojimas panaikinamas Sveikatos priežiūros įstaigų įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+15 straipsnis. Biobanko teisė gauti sveikatos informaciją 
+
+
+1. Gavęs asmens sutikimą dalyvauti biobanko veikloje, biobankas turi teisę gauti asmens, kurio žmogaus biologinis ėminys ir sveikatos informacija tvarkoma biobanke, sveikatos informaciją iš sveikatos priežiūros įstaigų, registrų ir (ar) valstybės informacinių sistemų įstatymų nustatyta tvarka. 
+
+
+
+
+2. Biobankas taip pat turi teisę gauti sveikatos informaciją iš kitų juridinių asmenų, asmens nurodytų asmens sutikime dalyvauti biobanko veikloje, jeigu šios sveikatos informacijos nėra registruose ir (ar) valstybės informacinėse sistemose ir jos neturi sveikatos priežiūros įstaigos arba jos suteikimas iš sveikatos priežiūros įstaigų pareikalautų nepagrįstai didelių materialinių ir (ar) laiko sąnaudų. 
+
+
+
+
+3. Šiame straipsnyje nurodytomis teisėmis biobankas naudojasi savo iniciatyva arba biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo prašymu.
+ 
+
+
+
+
+
+
+16 straipsnis. Žmogaus biologinių ėminių ir sveikatos informacijos tvarkymas
+
+
+1. Žmogaus biologinių ėminių ir sveikatos informacijos tvarkymo biobanke tikslai yra: 
+
+
+1) teikti šio įstatymo nustatyta tvarka žmogaus biologinius ėminius ir sveikatos informaciją šio įstatymo 17 straipsnyje nurodytiems asmenims; 
+
+
+
+
+2) naudoti šio įstatymo nustatyta tvarka žmogaus biologinius ėminius ir sveikatos informaciją biomedicininiams tyrimams;
+
+
+
+
+3) gerinti saugomų biologinių ėminių kokybę ir tinkamumą būsimiems biomedicininiams tyrimams, netinkamus biomedicininiams tyrimams biologinius ėminius naudoti šių ėminių paruošimo saugoti, saugojimo technologijoms ar kokybės kontrolės procedūroms tobulinti ir kitiems biobanko veiklos proceso tobulinimo veiksmams atlikti. 
+
+
+
+
+
+
+2. Biobankai užtikrina žmogaus biologinių ėminių ir sveikatos informacijos tvarkymo atsekamumą, saugumą, kokybę ir prieinamumą tyrėjams Biobanko veiklos reikalavimų apraše nustatyta tvarka.
+
+
+
+
+3. Biobanke tvarkoma sveikatos informacija yra konfidenciali ir tvarkoma įstatymų nustatyta tvarka. Biobanke tvarkomos sveikatos informacijos konfidencialumą užtikrina visi fiziniai ir juridiniai asmenys, kurie naudojasi šia sveikatos informacija, taip pat šio įstatymo 15 straipsnio 1 ir 2 dalyse nurodyti subjektai. 
+
+
+
+
+4. Biobanko tvarkoma sveikatos informacija nelaikoma konfidencialia ir gali būti paskelbta be asmens, davusio asmens sutikimą dalyvauti biobanko veikloje, sutikimo, jeigu paskelbus tokią sveikatos informaciją nebus galima nustatyti asmens tapatybės.
+
+
+
+
+5. Biobankas gautam žmogaus biologiniam ėminiui ir (ar) sveikatos informacijai suteikia kodą, o asmens duomenis, leidžiančius nustatyti asmens, kurio biologiniai ėminiai ir (ar) sveikatos informacija tvarkomi biobanke, tapatybę, tvarko atskirai, užtikrindamas galimybę identifikuoti konkretų asmenį. 
+ 
+
+
+
+
+
+
+17 straipsnis. Žmogaus biologinių ėminių ir (ar) sveikatos informacijos bei asmens sveikatai svarbios informacijos teikimas
+
+
+1. Biobanke tvarkomi žmogaus biologiniai ėminiai ir sveikatos informacija gali būti teikiami biomedicininio tyrimo užsakovui, jo įgaliotam atstovui ar pagrindiniam tyrėjui, kai yra išduoti šio įstatymo 20 straipsnyje numatytų institucijų leidimai atlikti biomedicininį tyrimą.
+
+
+
+
+2. Biobanke tvarkomi žmogaus biologiniai ėminiai ir sveikatos informacija gali būti teikiami kitiems Lietuvos Respublikos, Europos Sąjungos valstybių narių, kitų Europos ekonominės erdvės valstybių ir trečiųjų valstybių biobankams, biomedicininio tyrimo užsakovui, jo įgaliotam atstovui ar pagrindiniam tyrėjui, atliekantiems biomedicininį tyrimą ne Lietuvos Respublikoje, žmogaus biologinius ėminius ir sveikatos informaciją teikiančiam biobankui gavus Lietuvos bioetikos komiteto leidimą dėl biobanke tvarkomų žmogaus biologinių ėminių ir (ar) sveikatos informacijos teikimo. 
+
+
+
+
+3. Leidimas dėl biobanke tvarkomų žmogaus biologinių ėminių ir (ar) sveikatos informacijos teikimo išduodamas Lietuvos bioetikos komitetui nusprendus, kad:
+
+
+1) žmogaus biologinių ėminių ir sveikatos informacijos teikimo tikslai atitinka asmens duoto sutikimo dalyvauti biobanko veikloje apimtį;
+
+
+
+
+2) šio straipsnio 2 dalyje nurodyti asmenys turi jų veiklos valstybės etikos komiteto ir (ar) kitų institucijų išduotus leidimus, suteikiančus teisę tvarkyti žmogaus biologinius ėminius ir (ar) sveikatos informaciją biomedicininių tyrimų tikslais.
+
+
+
+
+
+
+4. Leidimo dėl biobanke tvarkomų žmogaus biologinių ėminių ir (ar) sveikatos informacijos teikimo išdavimo tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+5. Biobankas žmogaus biologinius ėminius ir sveikatos informaciją ar juos panaudojant gautus biomedicininių tyrimų rezultatus ar jų dalį, kurie leidžia nustatyti asmens tapatybę, teikia tik motyvuotu teismo sprendimu, jeigu tai yra reikalinga bylai teisme nagrinėti. 
+
+
+
+
+6. Biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas praneša biobankui asmens sveikatai svarbią informaciją, paaiškėjusią atliekant biomedicininį tyrimą su šio asmens biologiniu mėginiu ir sveikatos informacija. Biobankas įvertina šią informaciją, vadovaudamasis asmens sveikatai svarbios informacijos, apie kurią privaloma pranešti, kriterijais, ir nustatęs, kad informacija turi būti pateikta, ją praneša asmeniui, kitam asmens sutikimą dalyvauti biobanko veikloje turinčiam teisę duoti asmeniui ar asmenį gydančiam gydytojui. Asmens sveikatai svarbios informacijos, apie kurią privaloma pranešti šiame straipsnyje nustatyta tvarka, kriterijus ir pranešimo tvarką nustato sveikatos apsaugos ministras.
+ 
+
+
+
+
+
+
+18 straipsnis. Biobankų veiklos valstybinė priežiūra
+
+
+Biobankų veiklos valstybinę priežiūrą pagal kompetenciją atlieka Lietuvos bioetikos komitetas ir Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos.
+ 
+
+
+
+
+
+
+19 straipsnis. Biobankų veiklos viešumas
+
+
+Biobankai sveikatos apsaugos ministro nustatyta tvarka viešai skelbia informaciją apie savo veiklą. 
+ 
+
+
+
+
+
+
+
+
+IV SKYRIUS
+BIOMEDICININIŲ TYRIMŲ ATLIKIMO PRIEŽIŪRA
+ 
+
+
+20 straipsnis. Institucijos, suteikiančios teisę atlikti biomedicininius tyrimus 
+
+
+1. Biomedicininiai tyrimai Lietuvos Respublikoje gali būti atliekami tik leidus šio straipsnio 2 ir 3 dalyse nurodytoms institucijoms. 
+
+
+
+
+2. Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą, išduoda Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas. Regioninis biomedicininių tyrimų etikos komitetas išduoda leidimus atlikti biomedicininius tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose tik atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje. Leidimus atlikti biomedicininius tyrimus, kuriuos planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, išduoda Lietuvos bioetikos komitetas, gavęs regioninių biomedicininių tyrimų etikos komitetų išvadas. Leidimus atlikti biomedicininius tyrimus su medicinos priemonėmis šioje dalyje nurodytos institucijos išduoda tik gavusios Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos išvadą dėl medicinos priemonės atitikties sveikatos apsaugos ministro nustatytiems reikalavimams medicinos priemonėms, skirtoms klinikiniams tyrimams.
+
+
+
+
+3. Klinikinius vaistinio preparato tyrimus galima atlikti tik turint Lietuvos bioetikos komiteto pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą ir Valstybinės vaistų kontrolės tarnybos prie Lietuvos Respublikos sveikatos apsaugos ministerijos leidimą. Lietuvos bioetikos komitetas pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą išduoda gavęs regioninių biomedicininių tyrimų etikos komitetų išvadas, kai klinikinį vaistinio preparato tyrimą planuojama atlikti tyrimo centruose, esančiuose atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje.
+ 
+
+
+
+
+
+
+21 straipsnis. Lietuvos bioetikos komitetas 
+
+
+1. Lietuvos bioetikos komitetas yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir kitų valstybės pinigų fondų. Lietuvos bioetikos komiteto savininko teises ir pareigas įgyvendina Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija).
+
+
+
+
+2. Lietuvos bioetikos komitetas: 
+
+
+1) analizuoja bioetikos problemas ir konsultuoja valstybės ir savivaldybių institucijas, įstaigas, organizacijas bioetikos klausimais, teikia išvadas ir pasiūlymus dėl šiuos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų;
+
+
+
+
+2) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus klinikinius vaistinių preparatų tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, ir atlieka šių tyrimų etinę priežiūrą;
+
+
+
+
+3) išduoda pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus ir atlieka šių biomedicininių tyrimų etinę priežiūrą;
+
+
+
+
+4) išduoda leidimus teikti biobankuose tvarkomus žmogaus biologinius ėminius ir (ar) sveikatos informaciją šio įstatymo 17 straipsnio 2 dalyje nurodytiems asmenims;
+
+
+
+
+5) sveikatos apsaugos ministro nustatyta tvarka atlieka biomedicininių tyrimų apskaitą, kaupia, saugo ir teikia informaciją apie juos, užtikrindamas konfidencialios informacijos apsaugą;
+
+
+
+
+6) rengia ir tvirtina pavyzdines Lietuvos bioetikos komiteto, regioninių biomedicininių tyrimų etikos komitetų išduodamų ir Lietuvos bioetikos komitetui, regioniniams biomedicininių tyrimų etikos komitetams pateikiamų dokumentų formas;
+
+
+
+
+7) prižiūri regioninių biomedicininių tyrimų etikos komitetų veiklą;
+
+
+
+
+8) kiekvienais metais atsiskaito Sveikatos apsaugos ministerijai už savo veiklą ir teikia pasiūlymus dėl bioetikos problemų sprendimo; 
+
+
+
+
+9) prižiūri, kaip sveikatos priežiūros specialistai ir įstaigos, teikiančios asmens ir visuomenės sveikatos priežiūros paslaugas, laikosi bioetikos reikalavimų;
+
+
+
+
+10) teikia metodinę paramą ir konsultuoja sveikatos priežiūros įstaigų medicinos etikos komisijas ir kitas institucijas bioetikos klausimais;
+
+
+
+
+11) pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose;
+
+
+
+
+12) atlieka kitas šiame įstatyme, kituose įstatymuose ir Lietuvos bioetikos komiteto nuostatuose nustatytas funkcijas.
+
+
+
+
+
+
+3. Leidimus atlikti biomedicininius tyrimus ir pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus Lietuvos bioetikos komitetas išduoda, kai yra teigiama Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės išvada. 
+
+
+
+
+4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų, 4 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai. Per sveikatos apsaugos ministro nustatytą terminą ir jo nustatyta tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo asmens sveikatos priežiūros specialistų asociacijos, o socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos ir ekspertų darbo apmokėjimo tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+5. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės kadencija – 4 metai. Tas pats asmuo Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nariu gali būti ne daugiau kaip dvi kadencijas iš eilės. 
+
+
+
+
+6. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario įgaliojimai nutrūksta, kai pasibaigia jo kadencija, jis atsistatydina, jį atšaukia sveikatos apsaugos ministras jo kandidatūrą pasiūliusios asociacijos ar institucijos teikimu arba jis nebegali eiti Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario pareigų dėl ligos, taip pat kai jis miršta. Tokiais atvejais, jeigu Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės kadencija nepasibaigusi, iki jos pabaigos siūloma nauja Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės nario kandidatūra ir naujas šios grupės narys tvirtinamas šio įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+22 straipsnis. Regioninių biomedicininių tyrimų etikos komitetų sudarymas ir jų kompetencija
+
+
+1. Regioniniai biomedicininių tyrimų etikos komitetai sudaromi prie universitetų, kuriuose vykdomos trijų pakopų medicinos studijos. Lėšos regioninių biomedicininių tyrimų etikos komitetų veiklai numatomos iš Sveikatos apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
+
+
+
+
+2. Regioninių biomedicininių tyrimų etikos komitetų sudarymo, veiklos, jų kompetencijai priskirtų klausimų sprendimo tvarką reglamentuoja regioninių biomedicininių tyrimų etikos komitetų nuostatai, kuriuos, suderinęs su sveikatos apsaugos ministru, tvirtina universiteto rektorius. Regioninių biomedicininių tyrimų etikos komitetų veiklos teritorines ribas nustato sveikatos apsaugos ministras.
 
 
 
@@ -670,12 +1117,12 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 3. Regioniniai biomedicininių tyrimų etikos komitetai sudaromi regioninių biomedicininių tyrimų etikos komitetų nuostatuose nustatyta tvarka iš 9 narių:
 
 
-1) du mokslo laipsnį turinčius biomedicinos mokslo atstovus ir du mokslo laipsnį turinčius socialinių ar humanitarinių mokslų atstovus skiria universitetas;
+1) du mokslo laipsnį turinčius biomedicinos mokslų srities specialistus ir du mokslo laipsnį turinčius socialinių ar humanitarinių mokslų srities specialistus skiria universitetas, prie kurio sudarytas regioninis biomedicininių tyrimų etikos komitetas;
 
 
 
 
-2) tris sveikatos priežiūros specialistus iš tame regione veikiančių sveikatos priežiūros įstaigų ir vieną socialinių ar humanitarinių mokslų srities specialistą skiria Sveikatos apsaugos ministerija;
+2) tris sveikatos priežiūros specialistus iš tame regione veikiančių sveikatos priežiūros įstaigų ir vieną socialinių ar humanitarinių mokslų srities specialistą skiria sveikatos apsaugos ministras;
 
 
 
@@ -687,7 +1134,7 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
-4. Regioninio biomedicininių tyrimų etikos komiteto sudėtį, suderinęs su Sveikatos apsaugos ministerija, tvirtina universiteto rektorius. Regioninio biomedicininių tyrimų etikos komiteto nario kadencija – 4 metai. Regioninio biomedicininių tyrimų etikos komiteto nariu galima būti ne daugiau kaip dvi kadencijas.
+4. Regioninio biomedicininių tyrimų etikos komiteto personalinę sudėtį, suderinęs su sveikatos apsaugos ministru, tvirtina universiteto rektorius. Regioninio biomedicininių tyrimų etikos komiteto nario kadencija – 4 metai. Regioninio biomedicininių tyrimų etikos komiteto nariu galima būti ne daugiau kaip dvi kadencijas iš eilės.
 
 
 
@@ -710,130 +1157,17 @@ Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 
 
 
-4) atlieka biomedicininių tyrimų, kuriems atlikti jis išdavė leidimą, ir klinikinių vaistinių preparatų tyrimų, dėl kurių atlikimo pateikė išvadas, etinę priežiūrą;
+4) atlieka biomedicininių tyrimų, kuriuos atlikti jis išdavė leidimą, ir klinikinių vaistinių preparatų tyrimų, dėl kurių atlikimo pateikė išvadas, etinę priežiūrą; 
 
 
 
 
-5) atlieka išduotų leidimų apskaitą;
+5) atlieka išduotų leidimų apskaitą; 
 
 
 
 
 6) teikia veiklos ataskaitas Lietuvos bioetikos komitetui jo nustatyta tvarka.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-15 straipsnis. Dokumentų priėmimo, jų svarstymo ir leidimų išdavimo tvarka
-
-
-1. Biomedicininių tyrimų užsakovas, jo įgaliotas atstovas ir (ar) pagrindinis tyrėjas, norėdami gauti leidimą, Lietuvos bioetikos komitetui ar regioniniam biomedicininių tyrimų etikos komitetui pateikia dokumentus, kurių sąrašą tvirtina sveikatos apsaugos ministras. Dokumentai turi būti išnagrinėti ir leidimas išduotas arba leidimą išduoti motyvuotai atsisakyta ne vėliau kaip per 45 kalendorines dienas nuo visų tinkamai įformintų dokumentų gavimo dienos.
-
-
-
-
-2. Už dokumentų, kurie pateikiami norint gauti leidimą atlikti biomedicininį tyrimą, ekspertizę ir leidimų išdavimą mokama nustatyto dydžio valstybės rinkliava.
-
-
-
-
-3. Leidimų atlikti biomedicininį tyrimą išdavimo tvarką nustato sveikatos apsaugos ministras.
-
-
-
-
-4. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas turi teisę priimti sprendimą neišduoti leidimo atlikti biomedicininį tyrimą, kai pateiktų dokumentų duomenys prieštarauja šiame įstatyme nustatytiems biomedicininių tyrimų etikos reikalavimams, pateikti dokumentai netinkamai įforminti, pateikta ne visa arba klaidinga informacija ir neįvykdytas reikalavimas ištaisyti šiuos trūkumus.
-
-
-Straipsnio pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-16 straipsnis. Leidimo atlikti biomedicininį tyrimą galiojimo sustabdymas ar panaikinimas
-
-
-1. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas turi teisę panaikinti leidimo atlikti biomedicininį tyrimą galiojimą, kai nustatomi šiame įstatyme nustatytų biomedicininių tyrimų etikos reikalavimų pažeidimo faktai arba kai to prašo biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ir (ar) pagrindinis tyrėjas. Pažeidimo faktus pagal kompetenciją nustato Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas.
-
-
-
-
-2. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas, priėmęs sprendimą panaikinti leidimo atlikti biomedicininį tyrimą galiojimą, ne vėliau kaip per 5 kalendorines dienas nuo sprendimo priėmimo dienos raštu apie tai informuoja biomedicininio tyrimo užsakovą, jo įgaliotą atstovą ir (ar) pagrindinį tyrėją, sveikatos priežiūros įstaigų, kuriose atliekamas biomedicininis tyrimas, vadovus, kurie privalo užtikrinti, kad biomedicininis tyrimas būtų nedelsiant nutrauktas.
-
-
-
-
-3. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas turi teisę sustabdyti leidimo galiojimą, kai yra pagrįstų įtarimų dėl šiame įstatyme numatytų biomedicininių tyrimų etikos reikalavimų pažeidimo faktų arba kai to prašo biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ir (ar) pagrindinis tyrėjas. Leidimų galiojimo sustabdymo tvarką nustato sveikatos apsaugos ministras.
-
-
-
-
-4. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas, priėmęs sprendimą sustabdyti leidimo galiojimą, ne vėliau kaip per 3 kalendorines dienas nuo sprendimo priėmimo dienos raštu informuoja biomedicininio tyrimo užsakovą, jo įgaliotą atstovą ir (ar) pagrindinį tyrėją, sveikatos priežiūros įstaigų, kuriose atliekamas biomedicininis tyrimas, vadovus. Biomedicininio tyrimo užsakovas ir (ar) pagrindinis tyrėjas, sveikatos priežiūros įstaigų, kuriose atliekamas biomedicininis tyrimas, vadovai privalo užtikrinti, kad biomedicininis tyrimas būtų nedelsiant sustabdytas.
-
-
-Straipsnio pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-17 straipsnis. Skundų nagrinėjimo tvarka
-
-
-1. Regioninio biomedicininių tyrimų etikos komiteto sprendimą atsisakyti išduoti leidimą, panaikinti ar sustabdyti leidimo galiojimą biomedicininio tyrimo užsakovas ir (ar) pagrindinis tyrėjas turi teisę per 15 kalendorinių dienų nuo tokio sprendimo gavimo dienos apskųsti Lietuvos bioetikos komitetui. Lietuvos bioetikos komitetas šį skundą turi išnagrinėti per 30 kalendorinių dienų nuo gavimo. 
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-2. Skundo padavimas nesustabdo sprendimo panaikinti ar sustabdyti leidimo galiojimą vykdymo. 
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-3. Išnagrinėjęs biomedicininio tyrimo užsakovo ar (ir) pagrindinio tyrėjo skundą dėl regioninio biomedicininių tyrimų etikos komiteto sprendimo atsisakyti išduoti leidimą, panaikinti ar sustabdyti leidimo galiojimą, Lietuvos bioetikos komitetas turi teisę:
-
-
-1) regioninio biomedicininių tyrimų etikos komiteto sprendimą palikti nepakeistą, o biomedicininio tyrimo užsakovo ir (ar) tyrėjo skundą atmesti;
-
-
-
-
-2) biomedicininio tyrimo užsakovo ir (ar) tyrėjo skundą patenkinti ir išduoti leidimą ar priimti sprendimą dėl sprendimo panaikinti ar sustabdyti leidimo galiojimą panaikinimo. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-4. Jeigu sprendimą atsisakyti išduoti leidimą, panaikinti ar sustabdyti leidimo galiojimą pagal kompetenciją priima Lietuvos bioetikos komitetas, tai biomedicininio tyrimo užsakovas ir (ar) pagrindinis tyrėjas turi teisę per 30 kalendorinių dienų nuo tokio sprendimo gavimo dienos apskųsti jį teismui įstatymų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
- 
-
-
-
-
-5. Tiriamieji ar jų atstovai turi teisę apskųsti biomedicininių tyrimų užsakovo, pagrindinio tyrėjo ir kitų biomedicininį tyrimą atliekančių asmenų veiksmus leidimą išdavusiai institucijai, teismui įstatymų ir kitų teisės aktų nustatyta tvarka. 
  
 
 
@@ -843,12 +1177,167 @@ Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010IST
 
 
 
-KETVIRTASIS SKIRSNIS
+23 straipsnis. Dokumentų priėmimas, jų svarstymas ir leidimų išdavimas
+
+
+1. Biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas, norėdami gauti leidimą atlikti biomedicininį tyrimą, Lietuvos bioetikos komitetui ar regioniniam biomedicininių tyrimų etikos komitetui pateikia dokumentus, kurių sąrašą tvirtina sveikatos apsaugos ministras. Dokumentai turi būti išnagrinėti ir leidimas atlikti biomedicininį tyrimą išduotas arba jį išduoti motyvuotai atsisakyta ne vėliau kaip per 45 kalendorines dienas nuo visų tinkamai įformintų dokumentų gavimo dienos. Dokumentai turi būti išnagrinėti ir leidimas atlikti biomedicininį tyrimą su medicinos priemone išduotas arba jį išduoti motyvuotai atsisakyta ne vėliau kaip per 60 kalendorinių dienų nuo visų tinkamai įformintų dokumentų gavimo dienos.
+
+
+
+
+2. Leidimų atlikti biomedicininį tyrimą išdavimo tvarką nustato sveikatos apsaugos ministras. 
+
+
+
+
+3. Lietuvos bioetikos komitetas ar regioninis biomedicininių tyrimų etikos komitetas priima sprendimą neišduoti leidimo atlikti biomedicininį tyrimą, kai iš pateiktų dokumentų nustatoma, kad biomedicininis tyrimas prieštarauja šio įstatymo II skyriuje nustatytiems biomedicininių tyrimų etikos reikalavimams, pateikti ne visi ir (ar) klaidingi dokumentai ir (ar) informacija ir neįvykdytas reikalavimas ištaisyti šiuos trūkumus, o sprendimą neišduoti leidimo atlikti biomedicininį tyrimą su medicinos priemone – dar ir tuo atveju, kai Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos pateikia išvadą, kad medicinos priemonė neatitinka sveikatos apsaugos ministro nustatytų reikalavimų medicinos priemonėms, skirtoms klinikiniams tyrimams.
+
+
+
+
+4. Už dokumentų, kurie pateikiami norint gauti leidimą atlikti biomedicininį tyrimą, ekspertizę ir leidimų išdavimą mokama nustatyto dydžio valstybės rinkliava.
+ 
+
+
+
+
+
+
+24 straipsnis. Leidimo atlikti biomedicininį tyrimą galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir leidimo atlikti biomedicininį tyrimą panaikinimas
+
+
+1. Leidimo atlikti biomedicininį tyrimą galiojimas sustabdomas šiais atvejais:
+
+
+1) nustatyta šio įstatymo II skyriuje nurodytų biomedicininių tyrimų etikos reikalavimų pažeidimų, dėl ko gali būti reikšmingai pakenkta tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei ir (ar) vientisumui, arba turima informacijos apie galimus tokius pažeidimus;
+
+
+
+
+2) to prašo biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas;
+
+
+
+
+3) nustatyta sveikatos apsaugos ministro patvirtintų reikalavimų medicinos priemonėms, skirtoms klinikiniams tyrimams, pažeidimų, dėl kurių reikšmingai gali būti pakenkta tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei ir (ar) vientisumui.
+
+
+
+
+
+
+2. Priėmus sprendimą sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą šio straipsnio 1 dalies 1 punkto pagrindu, ne vėliau kaip per 3 kalendorines dienas nuo sprendimo priėmimo dienos raštu apie tai informuojamas biomedicininio tyrimo užsakovas, pagrindinis tyrėjas, tyrimo centro vadovas ir nurodomas terminas, per kurį būtina pašalinti nurodytus pažeidimus. Šis terminas negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimams pašalinti reikia ilgesnio laikotarpio arba kai leidimo atlikti biomedicininį tyrimą galiojimas sustabdomas biomedicininio tyrimo užsakovo ar pagrindinio tyrėjo prašymu dėl kitų negu pažeidimai priežasčių. Biomedicininio tyrimo užsakovas, pagrindinis tyrėjas ir tyrimo centro vadovas privalo užtikrinti, kad biomedicininis tyrimas būtų nedelsiant sustabdytas. 
+
+
+
+
+3. Sprendimas panaikinti leidimo galiojimo sustabdymą yra priimamas, kai nenustatoma pažeidimų arba pažeidimai pašalinti, o kai leidimo atlikti biomedicininį tyrimą galiojimas sustabdomas biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo prašymu dėl kitų negu pažeidimai priežasčių – kai biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas pateikia prašymą panaikinti sprendimą sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą. 
+
+
+
+
+4. Leidimo atlikti biomedicininį tyrimą galiojimas panaikinamas šiais atvejais: 
+
+
+1) nustatoma šio įstatymo II skyriuje nustatytų biomedicininių tyrimų etikos reikalavimų pažeidimų, kurie gali reikšmingai pakenkti tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei bei vientisumui ir kurių negalima pašalinti sustabdžius biomedicininį tyrimą; 
+
+
+
+
+2) nustatyti šio įstatymo II skyriuje nustatytų biomedicininių tyrimų etikos reikalavimų pažeidimai, kurie gali reikšmingai pakenkti tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei bei vientisumui, dėl kurių buvo sustabdytas leidimas atlikti biomedicininį tyrimą ir kurie per nustatytą terminą nebuvo pašalinti;
+
+
+
+
+3) kai to prašo biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas; 
+
+
+
+
+4) kai biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas per dvejus metus nuo sprendimo sustabdyti leidimą atlikti biomedicininį tyrimą šio straipsnio 1 dalies 2 punkto pagrindu priėmimo dienos nepateikia prašymo panaikinti leidimo galiojimo sustabdymą;
+
+
+
+
+5) nustatyti sveikatos apsaugos ministro patvirtintų reikalavimų medicinos priemonėms, skirtoms klinikiniams tyrimams, pažeidimai, dėl kurių gali būti reikšmingai pakenkta tiriamųjų teisėms, saugumui, sveikatai ir (ar) biomedicininio tyrimo duomenų kokybei ir (ar) vientisumui ir kurių negalima pašalinti sustabdžius biomedicininį tyrimą arba dėl kurių buvo sustabdytas leidimas atlikti biomedicininį tyrimą ir kurie per nustatytą terminą nebuvo pašalinti.
+
+
+
+
+
+
+5. Priėmus sprendimą panaikinti leidimo atlikti biomedicininį tyrimą galiojimą, ne vėliau kaip per 3 kalendorines dienas nuo sprendimo priėmimo dienos raštu apie tai informuojamas biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas, tyrimo centro vadovas, kurie privalo užtikrinti, kad biomedicininis tyrimas būtų nedelsiant nutrauktas. 
+
+
+
+
+6. Įgaliojimus sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą, panaikinti leidimo galiojimo sustabdymą, panaikinti leidimo atlikti biomedicininį tyrimą galiojimą turi ta institucija, kuri tokį leidimą išdavė. 
+ 
+
+
+
+
+
+
+25 straipsnis. Skundų nagrinėjimo tvarka
+
+
+1. Regioninio biomedicininių tyrimų etikos komiteto sprendimą atsisakyti išduoti leidimą atlikti biomedicininį tyrimą, panaikinti ar sustabdyti leidimo galiojimą biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas turi teisę per 15 kalendorinių dienų nuo tokio sprendimo gavimo dienos apskųsti Lietuvos bioetikos komitetui. Lietuvos bioetikos komitetas šį skundą turi išnagrinėti ir priimti sprendimą per 30 kalendorinių dienų nuo jo gavimo dienos.
+
+
+
+
+2. Skundo padavimas nesustabdo sprendimo panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą vykdymo.
+
+
+
+
+3. Išnagrinėjęs biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą dėl regioninio biomedicininių tyrimų etikos komiteto sprendimo atsisakyti išduoti leidimą atlikti biomedicininį tyrimą, panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą, Lietuvos bioetikos komitetas priima sprendimą:
+
+
+1) biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą atmesti ir regioninio biomedicininių tyrimų etikos komiteto sprendimą palikti nepakeistą arba
+
+
+
+
+2) biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą patenkinti ir išduoti leidimą atlikti biomedicininį tyrimą ar priimti sprendimą dėl sprendimo panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą panaikinimo.
+
+
+
+
+
+
+4. Lietuvos bioetikos komiteto priimtas sprendimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos išsiunčiamas asmeniui, padavusiam skundą, ir skundžiamą sprendimą priėmusiam regioniniam biomedicininių tyrimų etikos komitetui.
+
+
+
+
+5. Lietuvos bioetikos komiteto sprendimą atsisakyti išduoti leidimą atlikti biomedicininį tyrimą, panaikinti ar sustabdyti leidimo atlikti biomedicininį tyrimą galiojimą, taip pat Lietuvos bioetikos komiteto sprendimą atmesti biomedicininio tyrimo užsakovo, jo įgalioto atstovo ar pagrindinio tyrėjo skundą ir regioninio biomedicininių tyrimų etikos komiteto sprendimą palikti nepakeistą biomedicininio tyrimo užsakovas, jo įgaliotas atstovas ar pagrindinis tyrėjas turi teisę apskųsti teismui įstatymų nustatyta tvarka.
+
+
+
+
+6. Tiriamieji ar šio įstatymo nustatytais atvejais kiti asmens sutikimą dalyvauti tyrime turintys teisę duoti asmenys turi teisę apskųsti biomedicininio tyrimo užsakovo, jo įgalioto atstovo, pagrindinio tyrėjo ir kitų biomedicininį tyrimą atliekančių asmenų veiksmus leidimą išdavusiai institucijai, teismui įstatymų ir kitų teisės aktų nustatyta tvarka. 
+
+
+
+
+7. Asmenys, kurių biologinis ėminys ir (ar) sveikatos informacija tvarkomi biobanke, turi teisę apskųsti biobanko veiksmus įstatymų ir kitų teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-18 straipsnis. Atsakomybė už biomedicininių tyrimų etikos reikalavimų pažeidimus
+26 straipsnis. Atsakomybė už biomedicininių tyrimų etikos reikalavimų pažeidimus
 
 
 1. Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka. 
@@ -856,35 +1345,18 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Biomedicininio tyrimo atlikimas be leidimo arba nesilaikant šio įstatymo ir kitų teisės aktų nustatytų reikalavimų, nesukėlęs žalos tiriamojo sveikatai, prilyginamas netinkamam profesinių pareigų atlikimui.
+2. Biomedicininio tyrimo atlikimas be leidimo arba nesilaikant šio įstatymo ir kitų teisės aktų nustatytų reikalavimų, nesukėlęs turtinės ir neturtinės žalos tiriamojo sveikatai, prilyginamas netinkamam profesinių pareigų atlikimui.
+
+
+
+
+
+
+
+
  
-
-
-
-
-
-
-19 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
-
-
-
-
-
-
-20 straipsnis. Neteko galios nuo 2012-01-01
-Straipsnio naikinimas:
-Nr. XI-1692, 2011-11-17, Žin. 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
  
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
@@ -892,17 +1364,23 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
 
 
 
 
-Lietuvos Respublikos biomedicininių 
-tyrimų etikos įstatymo 
-priedas
+Lietuvos Respublikos
+biomedicininių tyrimų 
+etikos įstatymo
+priedas 
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
+
+
+1. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
+
+
 Papildyta priedu:
 Nr. IX-2164, 2004-04-22, Žin., 2004, Nr. 68-2371 (2004-04-29), i. k. 1041010ISTA0IX-2164
 Priedo pakeitimai:
@@ -941,3 +1419,8 @@ Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 11 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-981, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09405
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 4, 6, 11 ir 13 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1938, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14272
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 pakeitimo įstatymas
