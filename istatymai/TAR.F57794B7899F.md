@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
+ 
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir elektros energetikos įmonių ginčai, taip pat asmenų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2090, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19368
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 78 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -4416,38 +4421,20 @@ SKUNDŲ NAGRINĖJIMAS IR ATSAKOMYBĖ
  
 
 
-78 straipsnis. Skundų ir ginčų nagrinėjimas
+78 straipsnis. Vartotojų ir elektros energetikos įmonių ginčų sprendimas ne teismo tvarka. Skundų nagrinėjimas
 
 
-1. Skundai ir ginčai nagrinėjami Energetikos įstatyme ir šiame įstatyme nustatyta tvarka. Buitinių vartotojų skundai nagrinėjami Lietuvos Respublikos vartotojų teisių apsaugos įstatyme ir Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme nustatyta tvarka.
-
-
-
-
-2. Elektros energetikos įmonės privalo išnagrinėti gaunamus elektros energijos vartotojų prašymus, pasiūlymus ir skundus dėl teikiamų ar numatomų teikti paslaugų ir atsakyti ne vėliau kaip per 30 kalendorinių dienų nuo jų gavimo dienos.
+1. Vartotojų ir elektros energetikos įmonių ginčai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
 
 
 
 
-3. Valstybinė energetikos inspekcija išankstine privaloma skundų ir ginčų nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir elektros energetikos įmonių skundus ir ginčus dėl elektros energetikos objektų, įrenginių ir apskaitos priemonių gedimų, eksploatavimo, elektros energijos kokybės reikalavimų, avarijų, elektros energijos tiekimo nutraukimo, sustabdymo ar ribojimo. Valstybinė energetikos inspekcija išankstine neprivaloma skundų ir ginčų nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir elektros energetikos įmonių skundus ir ginčus dėl elektros energijos apskaitos ir apmokėjimo už suvartotą elektros energiją pažeidimų.
+2. Asmenų skundai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
 
 
-
-
-4. Komisija išankstine privaloma skundų ir ginčų nagrinėjimo ne teisme tvarka pagal kompetenciją nagrinėja skundus ir ginčus dėl elektros energetikos įmonių veiklos ar neveikimo skirstant, perduodant ir tiekiant elektros energiją, dėl teisės elektros energetikos įmonėms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prijungimo prie elektros tinklų, elektros energijos tiekimo srautų balansavimo, kainų ir tarifų taikymo, taip pat elektros energijos vartotojų ir fizinių asmenų skundus ir ginčus, susijusius su paslaugomis elektros energetikos sektoriuje ir (ar) elektros energijos pirkimu–pardavimu.
-
-
-
-
-5. Elektros energijos buitinių vartotojų skundus dėl elektros energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo, taip pat buitinių vartotojų skundus dėl elektros energijos tiekėjų nesąžiningos komercinės veiklos nagrinėja Tarnyba.
-
-
-
-
-6. Jeigu vartotojas, kuris dėl prašymo dalyko prieš tai nesikreipė į tiekėją, kreipiasi į skundus ir ginčus nagrinėjančią instituciją, ši imasi priemonių šalims sutaikyti. Ginčas nenagrinėjamas, jeigu tiekėjas per šios institucijos nustatytą terminą pasiūlo taikų ginčo sprendimo būdą ir vartotojas sutinka su tokiu ginčo sprendimo būdu arba per nustatytą terminą nenurodo, kad nesutinka su tokiu ginčo sprendimo būdu. Tiekėjas, teikiantis vartotojui pasiūlymą dėl taikaus ginčo sprendimo būdo, privalo raštu informuoti vartotoją apie teikiamą pasiūlymą, pateikti visą reikalingą informaciją apie siūlomą taikų ginčo sprendimo būdą ir aiškiai nurodyti, kad vartotojui per nustatytą terminą nepranešus tiekėjui, kad jis nesutinka su taikiu ginčo sprendimo būdu, ginčas nebus nagrinėjamas.
+Straipsnio pakeitimai:
+Nr. XII-2090, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19368
  
-
-
 
 
 
@@ -4724,3 +4711,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 9 ir 67 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 18, 20, 70 straipsnių pakeitimo ir 21 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2090, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19368
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 78 straipsnio pakeitimo įstatymas
