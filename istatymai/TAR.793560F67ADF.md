@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -135,7 +135,10 @@ Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA
 
 
 
-3. Šio įstatymo 1 ir 2 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Lietuvos statistikos departamento skelbiamą mokestinio ketvirčio vartotojų kainų indeksą. Kainų indeksas nustatomas palyginus mokestinio ketvirčio antrojo mėnesio kainas su 2005 metų gruodžio mėnesio kainomis.
+3. Šio įstatymo 1 ir 2 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Lietuvos statistikos departamento apskaičiuojamą ir Oficialiosios statistikos portale skelbiamą mokestinio ketvirčio vartotojų kainų indeksą. Vartotojų kainų indeksas nustatomas palyginus mokestinio ketvirčio antrojo mėnesio kainas su 2014 metų gruodžio mėnesio kainomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
+ 
 
 
 
@@ -185,10 +188,11 @@ Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA
 
 
 
-4. Mokesčio mokėtojai, mokestiniam laikotarpiui pasibaigus, privalo užpildyti mokesčio už valstybinius gamtos išteklius deklaracijas ir jas pateikti tai teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje jie yra arba privalo būti įregistruoti mokesčio mokėtojais, ir sumokėti mokestį už valstybinius gamtos išteklius per kalendorinį mėnesį, einantį po mokestinio laikotarpio, kurio mokestis deklaruojamas, pabaigos. 
+4. Mokesčio mokėtojai, pasibaigus mokestiniam laikotarpiui, privalo užpildyti mokesčio už valstybinius gamtos išteklius deklaracijas ir jas pateikti tai teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje jie yra arba privalo būti įregistruoti mokesčio mokėtojais, ir sumokėti mokestį už valstybinius gamtos išteklius iki antro kalendorinio mėnesio, einančio po mokestinio laikotarpio, už kurį mokestis mokamas, 15 dienos.
 Straipsnio dalies pakeitimai:
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
+Nr. XII-2155, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19851
  
 
 
@@ -302,7 +306,7 @@ Nr. I-1163
 
 
  
-Lietuvos Respublikos 
+Lietuvos Respublikos
 mokesčio už valstybinius 
 gamtos išteklius įstatymo
 1 priedas 
@@ -315,7 +319,7 @@ MOKEČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
  Eil. Nr. 
  Ištekliai 
  Matavimo vnt. 
- Tarifas (Eur) 
+ Tarifas, Eur 
 
 
 
@@ -323,85 +327,85 @@ MOKEČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
  1. 
  Anhidritas 
  m3 
- 1,45 
+ 1,99 
 
 
  2. 
  Dolomitas 
  m3 
- 0,72 
+ 0,99 
 
 
  3. 
  Durpės 
  m3 
- 0,58 
+ 0,80 
 
 
  4. 
- Gintaras 
+ Gintaras: iki 40 mm daugiau kaip 40 mm  
  kg 
- 20,22 
+   280 900 
 
 
  5. 
  Klintis 
  m3 
- 0,61 
+ 0,84 
 
 
  6. 
  Kreidos mergelis 
  m3 
- 0,65 
+ 0,89 
 
 
  7. 
- Molis: devono periodo  triaso periodo  kitas 
+ Molis: devono periodo triaso periodo kitas 
  m3 
-   0,63 0,61 0,37 
+   0,86 0,84 0,51 
 
 
  8. 
  Opoka 
  m3 
- 0,52 
+ 0,71 
 
 
  9. 
  Sapropelis 
  m3 
- 0,25 
+ 0,34 
 
 
  10. 
  Smėlis moliui liesinti 
  m3 
- 0,35 
+ 0,48 
 
 
  11. 
  Smėlis stiklui gaminti 
  m3 
- 1,16 
+ 1,59 
 
 
  12. 
- Smėlis silikatiniams dirbiniams  
+ Smėlis silikatiniams dirbiniams 
  m3 
- 0,32 
+ 0,44 
 
 
  13. 
- Kitas smėlis  
+ Kitas smėlis 
  m3 
- 0,28 
+ 0,38 
 
 
  14. 
  Žvyras 
  m3 
- 0,32 
+ 0,44 
 
 
 
@@ -410,73 +414,87 @@ Priedo pakeitimai:
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
+Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
  
 
 
 
 
  
-Lietuvos Respublikos 
+Lietuvos Respublikos
 mokesčio už valstybinius 
 gamtos išteklius įstatymo
 2 priedas 
  
 MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
  
- 
 
 
 
  Eil. Nr. 
  Ištekliai 
- Tarifas (Eur/m3) 
-
-
+ Matavimo vnt. 
+ Tarifas, Eur 
 
 
  1. 
- Požeminis vanduo, išskyrus mineralinį: a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui; b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą; c) kitas (a ir b punktuose nenurodytas) požeminis vanduo 
-   0,02   3,13   0,07 
+ Požeminis vanduo, išskyrus mineralinį vandenį: a)   vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui b)   juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą c)   kitas (a ir b punktuose nenurodytas) požeminis vanduo 
+ m3 
+   0,03   4,29   0,10 
 
 
  2. 
  Mineralinis vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose 
- 3,13 
+ m3 
+ 4,29 
 
 
  3. 
  Mineralinis vanduo, naudojamas gydymo įstaigose 
- 1,56 
+ m3 
+ 2,14 
 
 
  4. 
  Paviršinis vanduo pramonei ir žemės ūkiui 
- 0,002 
+ m3 
+ 0,003 
 
 
  5. 
  Paviršinis vanduo kondensacinėms šiluminėms elektrinėms aušinti 
- 0,0002 
+ m3 
+ 0,0003 
 
 
  6. 
  Paviršinis vanduo žuvininkystei 
+ m3 
  0,0001 
 
 
  7. 
  Paviršinis vanduo hidroenergetikai 
+ m3 
  0,00001 
 
 
  8. 
  Paviršinis vanduo atominei elektrinei 
- 0,0003 
+ m3 
+ 0,0004 
 
 
  9. 
- Statybinis gruntas  
- 0,19 
+ Paviršinis vanduo suskystintų gamtinių dujų importo terminalui 
+ m3 
+ 0,00003 
+
+
+ 10. 
+ Statybinis gruntas 
+ m3 
+ 0,26 
 
 
 
@@ -485,6 +503,7 @@ Priedo pakeitimai:
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
+Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
  
 
 
@@ -622,3 +641,13 @@ Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 1, 2 ir 3 priedų pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 6 straipsnio ir 1, 2 priedų pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2155, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19851
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 7 straipsnio pakeitimo įstatymas
