@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-06-15
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -2254,7 +2254,10 @@ ORLAIVIŲ AVARIJOS IR INCIDENTAI
 67 straipsnis. Orlaivių avarijų ir incidentų tyrimas
 
 
-1. Orlaivių avarijų ir incidentų klasifikavimo, tyrimo bei pranešimų tvarką nustato susisiekimo ministras.
+1. Orlaivių avarijų ir incidentų klasifikavimo ir pranešimų tvarką nustato susisiekimo ministras. Orlaivių avarijų ir incidentų tyrimo tvarką nustato Lietuvos Respublikos teisingumo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+ 
 
 
 
@@ -2264,17 +2267,26 @@ ORLAIVIŲ AVARIJOS IR INCIDENTAI
 
 
 
-3. Susisiekimo ministras paskiria nuolatinį orlaivių avarijų bei incidentų tyrimų vadovą ir suteikia jam įgaliojimus, reikalingas priemones ir lėšas organizuoti ir vykdyti orlaivio avarijos ar incidento tyrimą.
+3. Orlaivių avarijas ir incidentus tiria Lietuvos Respublikos teisingumo ministro paskirtas orlaivių avarijų ir incidentų tyrimų vadovas (vadovai) (toliau – tyrimų vadovas). 
+Straipsnio dalies pakeitimai:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+ 
 
 
 
 
-4. Tyrimo požiūriu nesudėtingą avariją ar incidentą tyrimų vadovas gali tirti asmeniškai.
+4. Neteko galios 2016-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+ 
 
 
 
 
-5. Sudėtingesnėms avarijoms ir incidentams tirti tyrimų vadovas sudaro nepriklausomą komisiją.
+5. Avarijoms ir incidentams tirti tyrimų vadovas turi teisę pasitelkti kitas institucijas ar ekspertus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+ 
 
 
 
@@ -2284,7 +2296,10 @@ ORLAIVIŲ AVARIJOS IR INCIDENTAI
 
 
 
-7. Prireikus tyrimų vadovas gali kviestis Lietuvos Respublikos ar užsienio valstybių aviacijos ekspertų ir specialistų avarijai ar incidentui tirti.
+7. Neteko galios 2016-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+ 
 
 
 
@@ -2713,27 +2728,41 @@ Nr. XII-556, 2013-10-15, Žin., 2013, Nr. 111-5492 (2013-10-24), i. k. 1131010IS
 
 
 
-19. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1). 
+19. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB (OL 2010 L 295, p. 35). 
 Papildyta punktu:
-Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
  
 
 
 
 
-20. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014 (OL 2014 L 123, p. 1). 
+20. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1). 
+Papildyta punktu:
+Nr. XII-555, 2013-10-15, Žin., 2013, Nr. 111-5491 (2013-10-24), i. k. 1131010ISTA0XII-555
+Punkto numeracijos pakeitimas:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+ 
+
+
+
+
+21. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. balandžio 7 d. Komisijos reglamentu (ES) Nr. 379/2014 (OL 2014 L 123, p. 1). 
 Papildyta straipsnio dalimi:
 Nr. XII-973, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10012
 Straipsnio dalies pakeitimai:
 Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
  
 
 
 
 
-21. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1). 
+22. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1). 
 Papildyta punktu:
 Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
+Punkto numeracijos pakeitimas:
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
  
 
 
@@ -2828,3 +2857,8 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 58 straipsnių ir prie
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1701, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07666
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 35, 40, 42, 54, 58 straipsnių ir priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2073, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19361
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 67 straipsnio ir priedo pakeitimo įstatymas
