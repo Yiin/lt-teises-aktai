@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2015-02-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -2643,7 +2643,11 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 4. Gamtinių dujų atsargų kaupimo išlaidų įtraukimo į gamtinių dujų tiekimo sąnaudas metodiką patvirtina Komisija. 
 
 
-5. Neteko galios nuo 2012-06-19.part_c779cd3bce8d4cfc96bdec3b081f8113
+
+
+5. Neteko galios nuo 2012-06-19.
+
+
 Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
  
@@ -3366,29 +3370,22 @@ SKUNDŲ NAGRINĖJIMAS IR ATSAKOMYBĖ
  
 
 
-63 straipsnis. Skundų ir ginčų nagrinėjimas
+63 straipsnis. Vartotojų ir gamtinių dujų įmonių ginčų sprendimas ne teismo tvarka. Skundų nagrinėjimas
 
 
-1. Neteko galios nuo 2012-06-19.
-
-
-
-
-2. Neteko galios nuo 2012-06-19.
+1. Vartotojų ir gamtinių dujų įmonių ginčai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
 
 
 
 
-3. Jeigu vartotojas, dėl prašymo dalyko prieš tai nesikreipęs į tiekėją, kreipiasi į skundus ir ginčus nagrinėjančią instituciją, ši imasi priemonių šalis sutaikyti. Ginčas nenagrinėjamas, jeigu tiekėjas per ginčus nagrinėjančios institucijos nustatytą terminą pasiūlo taikų ginčo sprendimo būdą ir vartotojas sutinka su tokiu ginčo sprendimo būdu arba per nustatytą terminą nenurodo, kad nesutinka su tokiu ginčo sprendimo būdu. Tiekėjas privalo pateikti vartotojui visą informaciją apie pasiūlytą ginčo sprendimo būdą ir paaiškinti, kad jeigu vartotojas nenurodys, kad jis nesutinka su taikiu ginčo sprendimo būdu, ginčas nebus nagrinėjamas.
+2. Asmenų skundai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
 
 
-
-
-4. Skundai ir ginčai nagrinėjami Energetikos įstatymo nustatyta tvarka. 
-
-
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir gamtinių dujų įmonių ginčai, taip pat asmenų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
 Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+Straipsnio pakeitimai:
+Nr. XII-2091, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19369
  
 
 
@@ -3517,3 +3514,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 44 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2091, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19369
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 63 straipsnio pakeitimo įstatymas
