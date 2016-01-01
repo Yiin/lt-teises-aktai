@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
- 
-TAR pastaba. TAR pastaba. Įmonės, atestuotos iki įstatymo (Nr. XII-1218) įsigaliojimo (2015-05-01), turi teisę toliau vykdyti jų atestavimą patvirtinančiuose dokumentuose nurodytą veiklą juose nustatytais terminais, bet ne ilgiau kaip iki 2016 m. lapkričio 1 d. Įsigaliojus šiam įstatymui, šios įmonės, siekiančios turėti teisę vykdyti jų atestavimą patvirtinančiuose dokumentuose nurodytą veiklą juose nustatytais terminais ir po 2016 m. lapkričio 1 d., turi Lietuvos Respublikos susisiekimo ministro nustatyta tvarka Lietuvos saugios laivybos administracijai iki 2016 m. rugsėjo 1 d. pateikti dokumentus, patvirtinančius šių įmonių atitiktį Lietuvos Respublikos saugios laivybos įstatyme nustatytiems reikalavimams (toliau – nauji reikalavimai), kurie nebuvo tikrinti atestavimo metu. Lietuvos Respublikos susisiekimo ministro nustatyta tvarka Lietuvos saugios laivybos administracijai nustačius šių įmonių atitiktį naujiems reikalavimams, jos turi teisę vykdyti jų atestavimą patvirtinančiuose dokumentuose nurodytą veiklą juose nustatytais terminais ir po 2016 m. lapkričio 1 d. Asmenys, įgiję locmano liudijimus iki įstatymo (Nr. XII-1218) įsigaliojimo (2015-05-01), įsigaliojus šiam įstatymui turi teisę toliau vykdyti locmano liudijime nurodytą veiklą.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1218, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14530
-Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 pakeitimo įstatymas
  
 Nauja redakcija nuo 2015-05-01:
 Nr. XII-1218, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14530
@@ -119,162 +114,339 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Europos Sąjungos laivybos informacijos sistema (toliau – SafeSeaNet sistema) – specializuota sistema Europos Sąjungos valstybėms narėms keistis laivybos informacija elektroniniu būdu.
+2. Burinis laivas – vėjo varomas laivas, turintis burių įrangą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-3. Greitaeigis laivas – laivas, kurio didžiausiasis greitis yra ne mažesnis už nurodytą 1974 m. Tarptautinėje konvencijoje dėl žmogaus gyvybės apsaugos jūroje.
+3. Europos Sąjungos laivybos informacijos sistema (toliau – SafeSeaNet sistema) – specializuota sistema Europos Sąjungos valstybėms narėms keistis laivybos informacija elektroniniu būdu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-4. Įgaliotoji laivų klasifikavimo bendrovė – laivų klasifikavimo bendrovė, su kuria Lietuvos saugios laivybos administracija susisiekimo ministro nustatyta tvarka yra sudariusi sutartį dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų techninės priežiūros ir apžiūrų atlikimo ir dokumentų, kuriais tai patvirtinama, išdavimo.
+4. Greitaeigis laivas – laivas, kurio didžiausiasis greitis yra ne mažesnis už nurodytą 1974 m. Tarptautinėje konvencijoje dėl žmogaus gyvybės apsaugos jūroje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-5. Keleivinis įvažiuojamasis laivas – keleivinis laivas, kuriame yra įrengtos patalpos ratinėms transporto priemonėms vežti arba specialiosios paskirties patalpos, nurodytos 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje II-2 skyriaus 3 taisyklėje.
+5. Įgaliotoji laivų klasifikavimo bendrovė – laivų klasifikavimo bendrovė, su kuria Lietuvos saugios laivybos administracija susisiekimo ministro nustatyta tvarka yra sudariusi sutartį dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų techninės priežiūros ir apžiūrų atlikimo ir dokumentų, kuriais tai patvirtinama, išdavimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-6. Keleivinis laivas – laivas, skirtas vežti daugiau kaip 12 keleivių.
+6. Jūrų laivo avarija – vienas ar keli įvykiai eksploatuojant jūrų laivą, dėl kurių miršta, yra sužeidžiami ar dingsta tame laive buvę žmonės, užteršiama aplinka ar sugadinama jūrų laivo konstrukcija ar jo sistemos. 
+Papildyta straipsnio dalimi:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-7. Laivas – bet kurio tipo savaeigis ar nesavaeigis plaukiojamasis statinys, kuris yra arba gali būti naudojamas laivybai.
+7. Jūrų laivo incidentas (toliau – incidentas) – įvykis, kai jūrų laivui arba jame esantiems žmonėms kyla pavojus arba kai nesiėmus tinkamų veiksmų jūrų laivo veikla gali kelti pavojų aplinkai, kitiems laivams ir žmonėms. 
+Papildyta straipsnio dalimi:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-8. Laivavedys – laivo įgulos narys, turintis reikiamą jūrinio laipsnio diplomą ir vedantis laivą.
+8. Keleivinis įvažiuojamasis laivas – keleivinis laivas, kuriame yra įrengtos patalpos ratinėms transporto priemonėms vežti arba specialiosios paskirties patalpos, nurodytos 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje II-2 skyriaus 3 taisyklėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-9. Laivybos bendrovė – laivo savininkas arba iš jo perėmę atsakomybę už laivo eksploatavimą laivo valdytojas ar laivo be įgulos frachtuotojas.
+9. Keleivinis laivas – laivas, skirtas vežti daugiau kaip 12 keleivių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-10. Laivybos inspektorius – Lietuvos saugios laivybos administracijos valstybės tarnautojas, atitinkantis įstatymų nustatytus kvalifikacinius reikalavimus ir įgaliotas vykdyti laivų, plaukiojančių su Lietuvos valstybės vėliava, ir užsienio valstybių laivų kontrolę.
+10. Laivas – bet kurio tipo savaeigis ar nesavaeigis plaukiojamasis statinys, kuris yra arba gali būti naudojamas laivybai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-11. Laivo agentas – asmuo, sudaręs sutartį su laivo savininku, valdytoju ar laivo be įgulos frachtuotoju atstovauti jų interesams ir vykdyti sutartyje nustatytus pavedimus.
+11. Laivavedys – laivo įgulos narys, turintis reikiamą jūrinio laipsnio diplomą ir vedantis laivą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-12. Laivo įgula – jūrininkai, atliekantys laivo eksploatavimo, priežiūros ar žmonių aptarnavimo laive užduotis ir įrašyti į laivo įgulos sąrašą.
+12. Laivybos bendrovė – laivo savininkas arba iš jo perėmę atsakomybę už laivo eksploatavimą laivo valdytojas ar laivo be įgulos frachtuotojas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-13. Laivo įrenginiai – įrenginiai, kurie pagal tarptautinius saugios laivybos reikalavimus turi būti naudojami laive saugiai laivybai ir jūros aplinkos apsaugai nuo taršos užtikrinti arba kurie laivybos bendrovės nurodymu yra papildomai naudojami laive ir kurių atitiktis tarptautiniams saugios laivybos reikalavimams, vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis, turi būti patvirtinta Lietuvos saugios laivybos administracijos arba įgaliotosios laivų klasifikavimo bendrovės.
+13. Laivybos inspektorius – Lietuvos saugios laivybos administracijos valstybės tarnautojas, atitinkantis įstatymų nustatytus kvalifikacinius reikalavimus ir įgaliotas vykdyti laivų, plaukiojančių su Lietuvos valstybės vėliava, ir užsienio valstybių laivų kontrolę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-14. Laivo kapitonas – reikiamą jūrinio laipsnio diplomą turintis ir laivui vadovaujantis jūrininkas.
+14. Laivo agentas – asmuo, sudaręs sutartį su laivo savininku, valdytoju ar laivo be įgulos frachtuotoju atstovauti jų interesams ir vykdyti sutartyje nustatytus pavedimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-15. Laivo techninė priežiūra – visuma laivybos bendrovės organizuojamų ir įgaliotosios laivų klasifikavimo bendrovės vykdomų arba Lietuvos saugios laivybos administracijos pagal susisiekimo ministro nustatytus reikalavimus vykdomų priemonių, kuriomis užtikrinama laivo atitiktis konstrukcijos, mechaninės ir elektros įrangos, priešgaisrinės saugos, stovumo ir krovinių patalpų reikalavimams visą laivo eksploatavimo laiką.
+15. Laivo įgula – jūrininkai, atliekantys laivo eksploatavimo, priežiūros ar žmonių aptarnavimo laive užduotis ir įrašyti į laivo įgulos sąrašą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-16. Laivų klasifikavimo bendrovė – juridinis asmuo, kita organizacija ar jų padalinys, atitinkantys tarptautinių teisės aktų nustatytus reikalavimus, keliamus laivų techninę priežiūrą ir apžiūrą atliekančioms, laivų klasę suteikiančioms ir privalomus laivų dokumentus išduodančioms bendrovėms.
+16. Laivo įrenginiai – įrenginiai, kurie pagal tarptautinius saugios laivybos reikalavimus turi būti naudojami laive saugiai laivybai ir jūros aplinkos apsaugai nuo taršos užtikrinti arba kurie laivybos bendrovės nurodymu yra papildomai naudojami laive ir kurių atitiktis tarptautiniams saugios laivybos reikalavimams, vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis, turi būti patvirtinta Lietuvos saugios laivybos administracijos arba įgaliotosios laivų klasifikavimo bendrovės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-17. Locmanas – asmuo, dirbantis locmano paslaugas teikiančioje įmonėje ir turintis susisiekimo ministro nustatytos formos locmano liudijimą, kuriuo suteikiama teisė padėti laivo kapitonui vesti laivą ir jį švartuoti. Locmanas nėra vedamo laivo įgulos narys.
+17. Laivo kapitonas – reikiamą jūrinio laipsnio diplomą turintis ir laivui vadovaujantis jūrininkas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-18. Navigacijos įrenginiai – bendrojo naudojimo vandens keliuose esantys plūdrieji ir kranto įrenginiai, kuriais gaunama informacija, būtina saugiai laivybai užtikrinti.
+18. Laivo techninė priežiūra – visuma laivybos bendrovės organizuojamų ir įgaliotosios laivų klasifikavimo bendrovės vykdomų arba Lietuvos saugios laivybos administracijos pagal susisiekimo ministro nustatytus reikalavimus vykdomų priemonių, kuriomis užtikrinama laivo atitiktis konstrukcijos, mechaninės ir elektros įrangos, priešgaisrinės saugos, stovumo ir krovinių patalpų reikalavimams visą laivo eksploatavimo laiką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-19. Navigacijos įrenginių veikimo sektorius – teritorija, kurioje privalomai užtikrinamas saugiai laivybai būtinos informacijos teikimas navigacijos įrenginiais.
+19. Laivų klasifikavimo bendrovė – juridinis asmuo, kita organizacija ar jų padalinys, atitinkantys tarptautinių teisės aktų nustatytus reikalavimus, keliamus laivų techninę priežiūrą ir apžiūrą atliekančioms, laivų klasę suteikiančioms ir privalomus laivų dokumentus išduodančioms bendrovėms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-20. Paieškos ir gelbėjimo rajonas – nustatytų koordinačių zona, dėl kurios pagal 1979 m. Tarptautinę jūrų paieškos ir gelbėjimo konvenciją Lietuva susitarė su suinteresuotomis valstybėmis, šios konvencijos šalimis, taip pat Kuršių marios ir jūrų uostų akvatorijos.
+20. Locmanas – asmuo, dirbantis locmano paslaugas teikiančioje įmonėje ir turintis susisiekimo ministro nustatytos formos locmano liudijimą, kuriuo suteikiama teisė padėti laivo kapitonui vesti laivą ir jį švartuoti. Locmanas nėra vedamo laivo įgulos narys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-21. Pakrančių apsaugos laivas – valstybei nuosavybės teise priklausantis nekomerciniais tikslais naudojamas laivas, turintis specialius aiškiai matomus ženklus, užrašą ir atliekantis valstybės sienos apsaugos funkcijas.
+21. Navigacijos įrenginiai – bendrojo naudojimo vandens keliuose esantys plūdrieji ir kranto įrenginiai, kuriais gaunama informacija, būtina saugiai laivybai užtikrinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-22. Saugios laivybos reikalavimai – reikalavimai, kuriais užtikrinamas saugus laivų plaukiojimas, taršos iš laivų prevencija ir laivų apsauga.
+22. Navigacijos įrenginių veikimo sektorius – teritorija, kurioje privalomai užtikrinamas saugiai laivybai būtinos informacijos teikimas navigacijos įrenginiais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-23. Saugios laivybos valdymo sistema – Tarptautinio saugaus laivų eksploatavimo ir taršos prevencijos valdymo kodekso reikalavimus atitinkanti struktūrizuota ir dokumentuota sistema, leidžianti efektyviai įgyvendinti laivybos bendrovės saugios laivybos užtikrinimo ir aplinkos apsaugos politiką. 
+23. Paieškos ir gelbėjimo rajonas – nustatytų koordinačių zona, dėl kurios pagal 1979 m. Tarptautinę jūrų paieškos ir gelbėjimo konvenciją Lietuva susitarė su suinteresuotomis valstybėmis, šios konvencijos šalimis, taip pat Kuršių marios ir jūrų uostų akvatorijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-24. Specialusis laivas – specialiosioms funkcijoms atlikti skirtas variklį turintis laivas, vežantis daugiau kaip 12 specialistų, kurie nėra nei įgulos nariai, nei keleiviai.
+24. Pakrančių apsaugos laivas – valstybei nuosavybės teise priklausantis nekomerciniais tikslais naudojamas laivas, turintis specialius aiškiai matomus ženklus, užrašą ir atliekantis valstybės sienos apsaugos funkcijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-25. Tarptautinės jūrų organizacijos auditas – tarptautinių valstybės įsipareigojimų auditas, atliekamas vadovaujantis procedūra, patvirtinta 2005 m. gruodžio 1 d. Tarptautinės jūrų organizacijos asamblėjos rezoliucija A.974 (24), kartu su taikymo metu galiojančiais jos pakeitimais. 
+25. Saugios laivybos reikalavimai – reikalavimai, kuriais užtikrinamas saugus laivų plaukiojimas, taršos iš laivų prevencija ir laivų apsauga.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-26. Tarptautiniai saugios laivybos reikalavimai – Lietuvos Respublikos tarptautinėmis sutartimis, Tarptautinės jūrų organizacijos, Tarptautinės darbo organizacijos, Europos Sąjungos ir kitų tarptautinių ir regioninių organizacijų, kurių narė yra Lietuvos Respublika, nustatyti saugios laivybos reikalavimai.
+26. Saugios laivybos valdymo sistema – Tarptautinio saugaus laivų eksploatavimo ir taršos prevencijos valdymo kodekso reikalavimus atitinkanti struktūrizuota ir dokumentuota sistema, leidžianti efektyviai įgyvendinti laivybos bendrovės saugios laivybos užtikrinimo ir aplinkos apsaugos politiką. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-27. Tradicinis laivas – susisiekimo ministro nustatyta tvarka pripažintas bet koks istorinis laivas ar tokio laivo tiksli kopija, įskaitant ir tuos laivus, kurie sukurti tradiciniams jūreivystės įgūdžiams skatinti ir supažindinti su kultūros paveldu. Toks laivas eksploatuojamas tradiciniais (įprastiniais) jūreivystės principais ir būdais.
+27. Specialusis laivas – specialiosioms funkcijoms atlikti skirtas variklį turintis laivas, vežantis daugiau kaip 12 specialistų, kurie nėra nei įgulos nariai, nei keleiviai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-28. Uostą valdanti įmonė – teisės aktų nustatyta tvarka uosto žemę, akvatoriją ir uosto infrastruktūrą valdanti, naudojanti ir jomis disponuojanti įmonė.
+28. Tarptautinės jūrų organizacijos auditas – tarptautinių valstybės įsipareigojimų auditas, atliekamas vadovaujantis procedūra, patvirtinta 2005 m. gruodžio 1 d. Tarptautinės jūrų organizacijos asamblėjos rezoliucija A.974 (24), kartu su taikymo metu galiojančiais jos pakeitimais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-29. Uostas – teritorija (uosto žemė ir akvatorija), skirta laivams įplaukti ir išplaukti, stovėti, aprūpinti, kroviniams perkrauti, taip pat keleiviams aptarnauti. Teisės aktų uostams nustatyti reikalavimai taip pat taikomi naftos, chemijos produktų, suskystintų dujų ir kitos paskirties terminalams, neįeinantiems į uostų teritoriją ir turintiems teisės aktų nustatyta tvarka jiems priskirtą sausumos teritoriją ir akvatoriją Lietuvos Respublikos teritorinėje jūroje.
+29. Tarptautiniai saugios laivybos reikalavimai – Lietuvos Respublikos tarptautinėmis sutartimis, Tarptautinės jūrų organizacijos, Tarptautinės darbo organizacijos, Europos Sąjungos ir kitų tarptautinių ir regioninių organizacijų, kurių narė yra Lietuvos Respublika, nustatyti saugios laivybos reikalavimai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-30. Uosto kapitonas – asmuo, atsakingas už laivybos priežiūrą ir užtikrinantis tvarką Lietuvos Respublikos jūrų uosto akvatorijoje ir krantinėse. 
+30. Tradicinis laivas – kultūros ministro ir susisiekimo ministro nustatyta tvarka pripažintas bet koks istorinis laivas ar tokio laivo tiksli kopija, įskaitant ir tuos laivus, kurie sukurti tradiciniams jūreivystės įgūdžiams skatinti ir supažindinti su kultūros paveldu. Toks laivas eksploatuojamas tradiciniais (įprastiniais) jūreivystės principais ir būdais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
 
 
 
 
-31. Užsienio valstybės laivas – su kita nei Lietuvos valstybės vėliava plaukiojantis laivas. 
+31. Uostą valdanti įmonė – teisės aktų nustatyta tvarka uosto žemę, akvatoriją ir uosto infrastruktūrą valdanti, naudojanti ir jomis disponuojanti įmonė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-32. Žmonių paieška ir gelbėjimas – veikla, atliekama siekiant nustatyti nelaimės ištiktų asmenų buvimo vietą, išgelbėti juos, suteikti pirmąją medicinos ir kitą pagalbą ir nugabenti į saugią vietą.
+32. Uostas – teritorija (uosto žemė ir akvatorija), skirta laivams įplaukti ir išplaukti, stovėti, aprūpinti, kroviniams perkrauti, taip pat keleiviams aptarnauti. Teisės aktų uostams nustatyti reikalavimai taip pat taikomi naftos, chemijos produktų, suskystintų dujų ir kitos paskirties terminalams, neįeinantiems į uostų teritoriją ir turintiems teisės aktų nustatyta tvarka jiems priskirtą sausumos teritoriją ir akvatoriją Lietuvos Respublikos teritorinėje jūroje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
 
 
 
 
-33. Žvejybos laivas – verslinei žvejybai skirtas, pritaikytas arba naudojamas laivas. 
+33. Uosto kapitonas – asmuo, atsakingas už laivybos priežiūrą ir užtikrinantis tvarką Lietuvos Respublikos jūrų uosto akvatorijoje ir krantinėse. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
+
+
+
+
+34. Uosto paslaugų laivas – laivas, teikiantis paslaugas uosto akvatorijoje. 
+Papildyta straipsnio dalimi:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
+
+
+
+
+35. Užsienio valstybės laivas – su kita nei Lietuvos valstybės vėliava plaukiojantis laivas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
+
+
+
+
+36. Vietinio plaukiojimo laivas – laivas, plaukiojantis uosto akvatorijoje, vidaus vandenyse, Lietuvos Respublikos teritorinėje jūroje ir išskirtinėje ekonominėje zonoje. 
+Papildyta straipsnio dalimi:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
+
+
+
+
+37. Žmonių paieška ir gelbėjimas – veikla, atliekama siekiant nustatyti nelaimės ištiktų asmenų buvimo vietą, išgelbėti juos, suteikti pirmąją medicinos ir kitą pagalbą ir nugabenti į saugią vietą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
+
+
+
+
+38. Žvejybos laivas – verslinei žvejybai skirtas, pritaikytas arba naudojamas laivas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+ 
+
+
+
+
+39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme ir Lietuvos Respublikos vidaus vandenų transporto kodekse. 
+Papildyta straipsnio dalimi:
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
  
 
 
@@ -292,7 +464,10 @@ SAUGIOS LAIVYBOS VALSTYBINIO VALDYMO INSTITUCIJOS
 3 straipsnis. Saugios laivybos valstybinio valdymo institucijos
 
 
-1. Saugios laivybos valstybinį valdymą vykdo Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Socialinės apsaugos ir darbo ministerija), Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija) ir Lietuvos saugios laivybos administracija (toliau – Administracija).
+1. Saugios laivybos valstybinį valdymą vykdo Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Socialinės apsaugos ir darbo ministerija), Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija), Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) ir Lietuvos saugios laivybos administracija (toliau – Administracija). 
+Straipsnio dalies pakeitimai:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
 
 
 
@@ -312,7 +487,17 @@ SAUGIOS LAIVYBOS VALSTYBINIO VALDYMO INSTITUCIJOS
 
 
 
-5. Administracija įgyvendina valstybės politiką saugios laivybos srityje ir dalyvauja šią politiką formuojant, nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus ir atlieka kitas šiame įstatyme nustatytas funkcijas.
+5. Teisingumo ministras priima teisės aktus jūrų laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo klausimais, organizuoja, koordinuoja, kontroliuoja (prižiūri) šių teisės aktų vykdymą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
+
+
+
+
+6. Administracija įgyvendina valstybės politiką saugios laivybos srityje ir dalyvauja šią politiką formuojant, nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus ir atlieka kitas šiame įstatyme nustatytas funkcijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
  
 
 
@@ -886,6 +1071,169 @@ LOCMANŲ VEIKLA
  
 
 
+
+
+
+
+201 straipsnis. Laivų plaukiojimas uostų akvatorijoje be locmano
+
+
+1. Plaukioti uostų akvatorijose be locmano gali:
+
+
+1) buriniai ir kiti laivai, kurių ilgis yra iki 24 metrų;
+
+
+
+
+2) sportiniai ir pramoginiai laivai;
+
+
+
+
+3) Lietuvos Respublikos jūrų laivų registre ir Lietuvos Respublikos vidaus vandenų laivų registre įregistruoti žvejybos laivai, kurių bendrasis tonažas yra iki 300; 
+
+
+
+
+4) vietinio plaukiojimo laivai, kurių bendrasis tonažas yra iki 500; 
+
+
+
+
+5) uosto paslaugų laivai;
+
+
+
+
+6) uostą valdančios įmonės užsakymu dirbantys laivai, kurie gilina akvatorijos dugną, jeigu jų kapitonai yra uosto kapitono instruktuoti plaukti uosto akvatorijoje be locmano;
+
+
+
+
+7) laivai iki 200 metrų ilgio, kurie yra remontuojami laivų remonto įmonių akvatorijose ir kuriuose locmano funkcijas atlieka laivų remonto įmonių kapitonai, turintys Administracijos išduotus locmano liudijimus;
+
+
+
+
+8) linijiniai laivai ir (ar) laivai, kurie veža vienarūšius krovinius ir kurių kapitonai šio įstatymo nustatyta tvarka yra gavę uosto kapitono neterminuotą leidimą plaukioti Lietuvos Respublikos jūrų uosto akvatorijoje be locmano (toliau šiame straipsnyje – leidimas). 
+
+
+
+
+
+
+2. Leidimų išdavimo, atsisakymo juos išduoti, leidimų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, leidimų galiojimo panaikinimo, linijinio laivo ir (ar) laivo, kuris veža vienarūšius krovinius, kapitono (toliau šiame straipsnyje – laivo kapitonas) veiklos priežiūros, egzaminų komisijos sudarymo ir egzaminų organizavimo tvarką nustato susisiekimo ministras. 
+
+
+
+
+3. Laivo kapitonas, norintis gauti leidimą, turi atitikti šiuos reikalavimus:
+
+
+1) jo vadovaujamas linijinis laivas privalo būti įplaukęs (išplaukęs) į (iš) uostą (uosto) su locmanu pagal su uostą valdančia įmone suderintą tvarkaraštį ne mažiau kaip 3 kartus per mėnesį;
+
+
+
+
+2) jo vadovaujamas laivas, kuris veža vienarūšius krovinius, privalo būti įplaukęs (išplaukęs) į (iš) uostą (uosto) su locmanu ne mažiau kaip 6 kartus, o nuo paskutinio įplaukimo į uostą iki prašymo gauti leidimą pateikimo turi būti praėję ne daugiau kaip 12 mėnesių;
+
+
+
+
+3) turėti laivo vairinėje laivavedį, mokantį valstybinę kalbą;
+
+
+
+
+4) būti išlaikęs laivybos egzaminą, kurį vykdo uosto kapitono sudaryta egzaminų komisija.
+
+
+
+
+
+
+4. Laivybos egzamino metu vertinamos laivo kapitono žinios apie laivybos uosto akvatorijoje ypatumus.
+
+
+
+
+5. Laivo kapitonas, siekdamas gauti leidimą, pateikia uosto kapitonui prašymą ir dokumentus, kuriais patvirtinama atitiktis šio straipsnio 3 dalyje nustatytiems reikalavimams (toliau – dokumentai). 
+
+
+
+
+6. Uosto kapitonas, nustatęs, kad pateikti ne visi dokumentai, dokumentuose yra klaidingų ir (ar) netikslių duomenų, nurodo laivo kapitonui patikslinti dokumentus ir nustato ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti. Jeigu laivo kapitonas per uosto kapitono nustatytą terminą pašalina trūkumus, jis per 2 darbo dienas apie tai informuoja uosto kapitoną. Jeigu laivo kapitonas per uosto kapitono nustatytą terminą nepašalina trūkumų, uosto kapitonas per 2 darbo dienas priima sprendimą atsisakyti išduoti leidimą ir apie tai informuoja laivo kapitoną. 
+
+
+
+
+7. Uosto kapitonas per 15 darbo dienų nuo laivo kapitono prašymo ir laivo kapitono pateiktų visų reikiamų dokumentų gavimo dienos egzaminuoja laivo kapitoną ir išduoda leidimą arba motyvuotai atsisako tai padaryti (kai nustatoma, kad laivo kapitonas neatitinka bent vieno iš šio straipsnio 3 dalyje nustatytų reikalavimų) ir apie tai per 2 darbo dienas informuoja laivo kapitoną.
+
+
+
+
+8. Linijinio laivo kapitonas, kuris turi leidimą, privalo įplaukti (išplaukti) į (iš) uostą (uosto) pagal su uostą valdančia įmone suderintą tvarkaraštį ne mažiau kaip 3 kartus per mėnesį. Laivo, kuris veža vienarūšius krovinius, kapitonas, kuris turi leidimą, privalo įplaukti (išplaukti) į (iš) uostą (uosto) ne mažiau kaip 6 kartus per 12 mėnesių laikotarpį. 
+
+
+
+
+9. Uosto kapitonas, nustatęs, kad laivo kapitonas pažeidžia bent vieną iš šio straipsnio 8 dalyje ir (ar) šio įstatymo 13 straipsnio 3 dalyje nustatytų reikalavimų, įspėja laivo kapitoną apie galimą leidimo galiojimo sustabdymą ir nustato nuo įspėjimo apie galimą leidimo galiojimo sustabdymą gavimo ne trumpesnį kaip 10 darbo dienų ir ne ilgesnį kaip 20 darbo dienų terminą, per kurį nustatyti pažeidimai turi būti pašalinti. Laivo kapitonas, per nustatytą terminą pašalinęs visus pažeidimus, privalo per 2 darbo dienas apie tai pranešti uosto kapitonui ir pateikti tai patvirtinančią informaciją. 
+
+
+
+
+10. Leidimo galiojimas sustabdomas, jeigu per uosto kapitono nustatytą terminą laivo kapitonas nepašalina šio straipsnio 9 dalyje nurodytų pažeidimų, jeigu laivo kapitonas pateikia prašymą sustabdyti leidimo galiojimą, taip pat, įvykus laivo avarijai dėl laivo kapitono kaltės, – šios avarijos tyrimo laikotarpiui. Uosto kapitonas nedelsdamas, bet ne vėliau kaip per 2 darbo dienas nuo šio straipsnio 9 dalyje nurodyto uosto kapitono nustatyto termino pažeidimams pašalinti ir pasibaigus 2 darbo dienų terminui informuoti uosto kapitoną, sustabdo leidimo galiojimą ir apie tai praneša laivo kapitonui. Tokiame pranešime nustatomas ne trumpesnis kaip 10 darbo dienų nuo pranešimo gavimo dienos terminas, per kurį laivo kapitonas turi pašalinti pažeidimus, nurodytus šio straipsnio 9 dalyje (išskyrus atvejus, kai laivo kapitonas pateikia prašymą sustabdyti leidimo galiojimą arba kai, įvykus laivo avarijai dėl uosto kapitono kaltės, leidimo galiojimas sustabdomas šios avarijos tyrimo laikotarpiui). Šis terminas gali būti pratęstas vieną kartą ir ne ilgesniam kaip 3 mėnesių laikotarpiui gavus motyvuotą laivo kapitono prašymą. Toks prašymas uosto kapitonui turi būti pateiktas ne vėliau kaip likus 3 darbo dienoms iki uosto kapitono nustatyto termino, per kurį laivo kapitonas turi pašalinti pažeidimus, pabaigos. 
+
+
+
+
+11. Pašalinus pažeidimus, laivo kapitonas per 2 darbo dienas apie tai informuoja uosto kapitoną, kuris ne vėliau kaip per 2 darbo dienas nuo šios informacijos gavimo ją patikrina, nustatęs, kad pažeidimai yra pašalinti, panaikina leidimo galiojimo sustabdymą ir apie tai per 2 darbo dienas informuoja laivo kapitoną.
+
+
+
+
+12. Uosto kapitonas per 2 darbo dienas nuo šioje dalyje nurodytų aplinkybių paaiškėjimo panaikina leidimo galiojimą ir apie tai praneša laivo kapitonui (išskyrus šios dalies 7 punkte nurodytą atvejį), jeigu:
+
+
+1) laivo kapitonas pateikia prašymą panaikinti leidimo galiojimą;
+
+
+
+
+2) dėl laivo kapitono kaltės įvyko laivo avarija (kol vyksta laivo avarijos tyrimas, leidimo galiojimas sustabdomas šio straipsnio 10 dalyje nustatyta tvarka); 
+
+
+
+
+3) laivo kapitonas neįvykdė bent vieno uosto kapitono tarnybų nurodymo, susijusio su saugia laivyba ir taršos iš laivų prevencija;
+
+
+
+
+4) paaiškėja, kad leidimui gauti buvo pateikti melagingi duomenys;
+
+
+
+
+5) laivo kapitonas per uosto kapitono nustatytą terminą nepašalina pažeidimų, dėl kurių leidimo galiojimas buvo sustabdytas, ir pasibaigia šio straipsnio 11 dalyje nustatytas terminas informuoti uosto kapitoną apie pažeidimų pašalinimą;
+
+
+
+
+6) laivo kapitonas plaukiojo uosto akvatorijoje be locmano, kai leidimo galiojimas buvo sustabdytas;
+
+
+
+
+7) laivo kapitonas miršta.
+
+
+
+
+Papildyta straipsniu:
+Nr. XII-2129, 2015-12-03, paskelbta TAR 2015-12-10, i. k. 2015-19623
+ 
 
 
 
@@ -2018,7 +2366,76 @@ septynioliktasis skirsnis
 
 
 
-2. Jūrų laivų avarijas ar incidentus tiria susisiekimo ministro paskirtas jūrų laivų avarijų ir incidentų tyrimų vadovas (toliau – tyrimų vadovas).
+2. Jūrų laivų avarijas ir incidentus tiria teisingumo ministro paskirtas (paskirti) jūrų laivų avarijų ir incidentų tyrimų vadovas (vadovai) (toliau – tyrimų vadovas). Tyrimų vadovas turi šias teises ir pareigas: 
+
+
+1) teisę laisvai patekti į jūrų laivo avarijos ar incidento vietą, į visas su jūrų laivo avarija ar incidentu susijusias teritorijas ir į visus jūrų laivus, jų nuolaužas arba konstrukcijas, taip pat apžiūrėti krovinį, įrangą arba jų liekanas; 
+
+
+
+
+2) pareigą užtikrinti, kad įrodymai būtų nedelsiant surinkti ir būtų atlikta nuolaužų, liekanų arba kitų sudedamųjų dalių ar medžiagų paieška ir surinkimas siekiant juos apžiūrėti arba ištirti; 
+
+
+
+
+3) teisę reikalauti, kad būtų apžiūrėti arba ištirti šios dalies 2 punkte nurodyti daiktai, ir teisę laisvai susipažinti su tokios apžiūros arba tyrimo rezultatais; 
+
+
+
+
+4) teisę laisvai susipažinti su visa su jūrų laivo avarija ar incidentu susijusia informacija ir užregistruotais duomenimis, tarp jų reiso duomenų registravimo sistemos duomenimis apie jūrų laivą, reisą, krovinį, įgulą ar visus kitus asmenis, objektus, sąlygas ar aplinkybes, juos kopijuoti ir jais naudotis;
+
+
+
+
+5) teisę laisvai susipažinti su aukų kūnų apžiūros rezultatais arba iš aukų kūnų paimtų mėginių tyrimų rezultatais; 
+
+
+
+
+6) teisę reikalauti žmonių, dalyvavusių valdant jūrų laivą, arba visų kitų su jūrų laivo avarija ar incidentu susijusių asmenų apžiūros rezultatų ar iš tokių asmenų paimtų mėginių tyrimų rezultatų ir laisvai susipažinti su jais; 
+
+
+
+
+7) teisę apklausti liudytojus nedalyvaujant asmeniui, jeigu galima daryti prielaidą, kad to asmens interesai kertasi su jūrų laivo avarijos tyrimu; 
+
+
+
+
+8) teisę gauti jūrų laivo vėliavos valstybės, savininkų, klasifikacinių bendrovių arba visų kitų susijusių šalių, jeigu jos arba jų atstovai yra įsisteigę valstybėje narėje, turimus tyrimo dokumentus ir susijusią informaciją; 
+
+
+
+
+9) teisę prašyti atitinkamų valstybių su jūrų laivų avarijų ar incidentų tyrimu susijusių valdžios institucijų, tarp jų laivybos inspektorių, pakrantės pareigūnų, jūrų laivų eismo tarnybos operatorių, paieškos ir gelbėjimo komandų, laivavedžių arba kito uoste ar jūroje dirbančio personalo, pagalbos;
+
+
+
+
+10) pareigą bet kuriuo laiku gavęs pranešimą apie jūrų laivo avariją nedelsdamas pradėti tyrimą;
+
+
+
+
+11) teisę rinkti ir analizuoti su saugumu jūroje susijusius duomenis, ypač prevenciniais tikslais;
+
+
+
+
+12) teisę rengti ir teikti saugos rekomendacijas;
+
+
+
+
+13) teisę prašyti asmenų, kuriems skirtos saugos rekomendacijos, pateikti informaciją apie tai, kaip įgyvendinamos saugos rekomendacijos, arba apie priimtą sprendimą neįgyvendinti saugos rekomendacijų. 
+TAR pastaba. Tyrimų vadovo iki įstatymo Nr. XII-2072 (2015-11-26) įsigaliojimo (2016-01-01) pradėti jūrų laivų avarijų ir incidentų tyrimai baigiami įstatymo Nr. XII-2072 (2015-11-26) nustatyta tvarka.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
 
 
 
@@ -2028,12 +2445,18 @@ septynioliktasis skirsnis
 
 
 
-4. Tyrimų vadovas privalo turėti aukštąjį universitetinį išsilavinimą, laivo, kurio bendroji talpa yra 500 ir daugiau, kapitono budinčiojo padėjėjo jūrinį laipsnį arba laivo, kurio pagrindinių variklių galia yra 750 kW ir daugiau, budinčiojo mechaniko jūrinį laipsnį ir ne trumpesnį kaip dvejų metų darbo einant šias pareigas stažą, mokėti valstybinę ir anglų kalbas, išmanyti jūrų terminologiją anglų kalba.
+4. Tyrimų vadovas turi turėti profesinių žinių ir praktinės patirties, susijusių su jūrų laivų avarijų ir incidentų tyrimu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
 
 
 
 
-5. Jūrų laivų avarijų ir incidentų klasifikavimo, tyrimo, pranešimų ir ataskaitų rengimo ir teikimo tvarką, tyrimų vadovo pareigas ir teises nustato susisiekimo ministras.
+5. Jūrų laivų avarijų ir incidentų klasifikavimo ir pranešimų teikimo tvarką nustato susisiekimo ministras. Jūrų laivų avarijų ir incidentų tyrimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarką nustato teisingumo ministras. Asmenys, kuriems skirtos saugos rekomendacijos, privalo jas įvertinti ir prireikus imtis veiksmų saugos rekomendacijoms įgyvendinti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
 
 
 
@@ -2049,7 +2472,10 @@ septynioliktasis skirsnis
 49 straipsnis. Pranešimas apie laivo avariją
 
 
-1. Įvykus bet kokio laivo avarijai ar incidentui Lietuvos Respublikai priskirtame paieškos ir gelbėjimo rajone Baltijos jūroje, laivo kapitonas nedelsdamas privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui susisiekimo ministro nustatyta tvarka. 
+1. Įvykus bet kokio jūrų laivo avarijai ar incidentui Lietuvos Respublikai priskirtame paieškos ir gelbėjimo rajone Baltijos jūroje, jūrų laivo kapitonas nedelsdamas privalo apie tai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir Teisingumo ministerijai susisiekimo ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+ 
 
 
 
@@ -2215,3 +2641,18 @@ Lietuvos Respublikos saugios laivybos įstatymo 2 straipsnio, aštuntojo skirsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1218, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14530
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2, 3, 48 ir 49 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2129, 2015-12-03, paskelbta TAR 2015-12-10, i. k. 2015-19623
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2 straipsnio pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2 straipsnio pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymo Nr. XII-2129 1 straipsnio pakeitimo įstatymas
