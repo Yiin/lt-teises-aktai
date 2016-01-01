@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-08-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -195,12 +195,18 @@ Nr. XI-2302, 2012-10-17, Žin., 2012, Nr. 127-6391 (2012-11-03)
 1. Šio įstatymo 3 straipsnio 1–4 punktuose nustatytų rūšių socialiniu draudimu privalomai draudžiami:
 
 
-1) asmenys, dirbantys pagal darbo sutartis, kandidatai į notarus (asesoriai), asmenys, atlygintinai einantys narystės pagrindu renkamąsias pareigas ar paskirti į savivaldybių, apylinkių rinkimų ir miestų, rajonų, apylinkių referendumo komisijas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šiame punkte ir šio straipsnio 1 dalies 2 punkte ar 2 dalyje išvardyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme, gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme;
+1) asmenys, dirbantys pagal darbo sutartis, asmenys, atlygintinai einantys narystės pagrindu renkamąsias pareigas ar paskirti į savivaldybių, apylinkių rinkimų ir miestų, rajonų, apylinkių referendumo komisijas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šiame punkte ir šios dalies 2 punkte ar šio straipsnio 2 dalyje išvardyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme, gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme;
+Straipsnio punkto pakeitimai:
+Nr. XII-1978, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16931
+ 
 
 
 
 
-2) Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Teisėjų atlyginimų įstatyme ir Valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 2 dalyje), Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys, Valstybės saugumo departamento pareigūnai, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai.
+2) Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Teisėjų atlyginimų įstatyme ir Valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 2 dalyje), Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys, Valstybės saugumo departamento pareigūnai, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos pareigūnai, vidaus tarnybos sistemos pareigūnai ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų pareigūnai. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1990, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18256
+ 
 
 
 
@@ -210,7 +216,11 @@ Nr. XI-2302, 2012-10-17, Žin., 2012, Nr. 127-6391 (2012-11-03)
 2. Šio įstatymo 3 straipsnio 1 ir 3 punktuose nustatytų rūšių socialiniu draudimu privalomai draudžiami:
 
 
-1) vidaus tarnybos sistemos pareigūnai, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai;
+1) neteko galios nuo 2016-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-1990, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18256
+Nr. XII-2140, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20128
+ 
 
 
 
@@ -283,7 +293,10 @@ Nr. XII-1393, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19920
 6. Tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu privalomai draudžiami:
 
 
-1) profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, teritorinių darbo biržų siųsti profesiniam mokymui ar profesinei reabilitacijai, – jų profesinės veiklos praktikos įstaigoje ar įmonėje metu;
+1) profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, teritorinių darbo biržų siųsti profesiniam mokymui ar profesinei reabilitacijai, – jų profesinės veiklos praktikos įstaigoje ar įmonėje metu, taip pat asmenys, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantai), – jų mokymo ir pratybų laiku;
+Straipsnio punkto pakeitimai:
+Nr. XII-1990, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18256
+ 
 
 
 
@@ -447,7 +460,7 @@ Nr. XI-170, 2009-02-17, Žin., 2009, Nr. 25-972 (2009-03-05)
 7 straipsnis. Pajamos, nuo kurių skaičiuojamos socialinio draudimo įmokos 
 
 
-1. Apdraustųjų asmenų, nurodytų šio įstatymo 4 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose, socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip minimalioji mėnesinė alga, su darbo santykiais susijusių kompensacinio ar skatinamojo pobūdžio išmokų, pajamų, gautų iš sporto veiklos, atlikėjo veiklos, ir (ar) pajamų, gautų pagal autorines sutartis, neatsižvelgiant į mokėjimo šaltinius, įskaitant:
+1. Apdraustųjų asmenų, nurodytų šio įstatymo 4 straipsnio 1 dalyje ir 2 dalies 2 punkte, socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip minimalioji mėnesinė alga, su darbo santykiais susijusių kompensacinio ar skatinamojo pobūdžio išmokų, pajamų, gautų iš sporto veiklos, atlikėjo veiklos, ir (ar) pajamų, gautų pagal autorines sutartis, neatsižvelgiant į mokėjimo šaltinius, įskaitant:
 
 
 1) apdraustajam apskaičiuotą pagrindinį darbo užmokestį ir visus papildomus uždarbius (konkrečius valandinius tarifinius atlygius; mėnesines algas; padidintus, palyginti su normaliomis sąlygomis, tarifinius atlygius; darbo užmokestį už išsiruošimo į kelionę ir įsikūrimo naujoje vietovėje laiką; kitas darbo apmokėjimo formas; kitas su darbo santykiais susijusias išmokas), nustatytus Darbo kodekse ir kituose teisės aktuose, bet kokiu būdu draudėjo apskaičiuojamus apdraustajam už jo atliktą darbą; 
@@ -485,9 +498,12 @@ Nr. XI-170, 2009-02-17, Žin., 2009, Nr. 25-972 (2009-03-05)
 
 
 
-8) kompensacijas ir kitokias išmokas, gautas iš tarptautinės ar Europos Sąjungos institucijos arba užsienio valstybių institucijos, jeigu nuo jų nebuvo skaičiuojamos socialinio draudimo įmokos pagal teisės aktus, pagal kuriuos šios išmokos mokamos.
+8) kompensacijas ir kitokias išmokas, gautas iš tarptautinės ar Europos Sąjungos institucijos arba užsienio valstybių institucijos, jeigu nuo jų nebuvo skaičiuojamos socialinio draudimo įmokos pagal teisės aktus, pagal kuriuos šios išmokos mokamos. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2141, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20132
+ 
 
 
 
@@ -495,9 +511,10 @@ Nr. XI-170, 2009-02-17, Žin., 2009, Nr. 25-972 (2009-03-05)
 2. Šio įstatymo 4 straipsnio 3 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos taip:
 
 
-1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę vienus metus nuo pirmosios veiklos pradžios sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Finansų ministerijos kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos. Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Finansų ministerijos kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos, jeigu socialinio draudimo įmokas už šiuos asmenis yra sumokėjusi individuali įmonė ar mažoji bendrija, ar tikroji ūkinė bendrija ar komanditinė ūkinė bendrija arba jie yra sumokėję įmokas kaip individualia veikla užsiimantys asmenys, išskyrus tuos, kurie verčiasi individualia veikla turėdami verslo liudijimą, arba jie yra asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalyje ar 2 dalies 1 ir 2 punktuose, arba jiems yra paskirtos valstybinės socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensijos, arba jeigu individualios įmonės savininkas, mažosios bendrijos narys ar ūkinės bendrijos narys yra ne vyresnis kaip 29 metų (taikoma už laikotarpį iki kalendorinių metų pabaigos, kai asmeniui sukanka 29 metai). Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Tuo atveju, jeigu asmuo yra individualios įmonės savininkas ir mažosios bendrijos narys, ir (ar) ūkinės bendrijos tikrasis narys arba kelių mažųjų bendrijų ar ūkinių bendrijų tikrasis narys, socialinio draudimo įmokas nuo minimaliosios mėnesinės algos apskaičiuoja draudėjas, kuris yra įregistruotas anksčiausiai. Šios nuostatos netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
+1) individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę vienus metus nuo pirmosios veiklos pradžios sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Finansų ministerijos kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos. Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams lėšų suma, kuri deklaruojama Valstybinei mokesčių inspekcijai prie Finansų ministerijos kaip su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos, jeigu socialinio draudimo įmokas už šiuos asmenis yra sumokėjusi individuali įmonė ar mažoji bendrija, ar tikroji ūkinė bendrija, ar komanditinė ūkinė bendrija arba jie yra sumokėję įmokas kaip individualia veikla užsiimantys asmenys, išskyrus tuos, kurie verčiasi individualia veikla turėdami verslo liudijimą, arba jie yra asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalyje ar 2 dalies 2 punkte, arba jiems yra paskirtos valstybinės socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensijos, arba jeigu individualios įmonės savininkas, mažosios bendrijos narys ar ūkinės bendrijos narys yra ne vyresnis kaip 29 metų (taikoma už laikotarpį iki kalendorinių metų pabaigos, kai asmeniui sukanka 29 metai). Individualios įmonės savininko, mažosios bendrijos nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės savininko, mažosios bendrijos nario ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Tuo atveju, jeigu asmuo yra individualios įmonės savininkas ir mažosios bendrijos narys, ir (ar) ūkinės bendrijos tikrasis narys arba kelių mažųjų bendrijų ar ūkinių bendrijų tikrasis narys, socialinio draudimo įmokas nuo minimaliosios mėnesinės algos apskaičiuoja draudėjas, kuris yra įregistruotas anksčiausiai. Šios nuostatos netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija veiklos laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XII-1409, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20432
+Nr. XII-2141, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20132
  
 
 
@@ -581,7 +598,10 @@ Nr. XI-2175, 2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14)
 
 
 
-7) ligos pašalpų, mokamų iš draudėjo lėšų už pirmąsias dvi ligos dienas. Ši nuostata netaikoma dėl laikinojo nedarbingumo mokamoms išmokoms, kurias gauna šio įstatymo 4 straipsnio 2 dalies 1 ir 2 punktuose išvardinti asmenys;
+7) ligos pašalpų, mokamų iš draudėjo lėšų už pirmąsias dvi ligos dienas. Ši nuostata netaikoma dėl laikinojo nedarbingumo mokamoms išmokoms, kurias gauna šio įstatymo 4 straipsnio 2 dalies 2 punkte išvardyti asmenys;
+Straipsnio punkto pakeitimai:
+Nr. XII-2141, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20132
+ 
 
 
 
@@ -2837,3 +2857,23 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 17, 21 ir 36 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1978, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16931
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1990, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18256
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir 36 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2140, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20128
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir 36 straipsnių pakeitimo įstatymo Nr. XII-1990 1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2141, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20132
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 7 ir 8 straipsnių pakeitimo įstatymas
