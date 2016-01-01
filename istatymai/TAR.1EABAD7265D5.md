@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -1975,7 +1975,10 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ ATASKAITOS REIKALAVIMAI
 
 
 
-2. Kolektyvinio investavimo subjektų apskaita tvarkoma ir finansinių ataskaitų rinkinys rengiamas vadovaujantis Lietuvos Respublikos įstatymais, kitais teisės aktais ir verslo apskaitos standartais.
+2. Kolektyvinio investavimo subjektų apskaita tvarkoma ir finansinių ataskaitų rinkinys rengiamas Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių buhalterinę apskaitą ir finansinių ataskaitų rinkinio rengimą, nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2216, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21011
+ 
 
 
 
@@ -2916,3 +2919,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1101, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13437
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 55 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2216, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21011
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas
