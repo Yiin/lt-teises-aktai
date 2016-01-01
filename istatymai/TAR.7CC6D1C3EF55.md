@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7CC6D1C3EF55"
 
 # Lietuvos Respublikos Konvencijos dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje ratifikavimo įstatymas
 
+Suvestinė redakcija nuo 2016-01-01
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 44-1244, i. k. 1001010ISTAIII-1670
+ 
 LIETUVOS RESPUBLIKOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE RATIFIKAVIMO Į S T A T Y M A S
  
 2000 m. gegužės 9 d. Nr. VIII-1670
@@ -57,8 +61,9 @@ Lietuvos Respublikos Seimas pareiškia, kad:
 
 
 
-5) Konvencijos 16 straipsnio 2 dalyje numatytas prašymas dėl apskundimo termino atstatymo nebus patenkinamas, pateikus jį vėliau nei per vienerius metus nuo teismo sprendimo įsiteisėjimo (Konvencijos 16 straipsnio 3 dalis).
- 
+5) Konvencijos 16 straipsnio 2 dalyje numatytas prašymas dėl apskundimo termino atnaujinimo nebus nagrinėjamas, pateikus jį vėliau nei per vienus metus nuo teismo sprendimo priėmimo dienos (Konvencijos 16 straipsnio 3 dalis).
+Straipsnio punkto pakeitimai:
+Nr. XII-2015, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18321
  
 
 
@@ -72,3 +77,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2015, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18321
+Lietuvos Respublikos Konvencijos dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje ratifikavimo įstatymo Nr. VIII-1670 2 straipsnio pakeitimo įstatymas
