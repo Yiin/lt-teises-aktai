@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2015-12-04 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1512,7 +1512,7 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
  
 
 
-47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka 
+47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
 
 
 1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su draudimo, finansinių paslaugų ir (arba) papildomų investicinių paslaugų teikėjais, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, taip pat iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“.
@@ -1540,130 +1540,28 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 
 
 
-3. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo sutartinių ar susijusių santykių teises ar teisėtus interesus, turi teisę kreiptis į teismą arba į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą.
+3. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, turi teisę kreiptis į teismą arba į vartojimo ginčus ne teismo tvarka nagrinėjančią instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą.
 
 
 
 
-4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo sutartinių ar susijusių santykių teises ar teisėtus interesus, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti vartotojo kreipimąsi ir pateikti vartotojui motyvuotą atsakymą dėl jo reikalavimo ne vėliau kaip per 30 kalendorinių dienų nuo vartotojo kreipimosi gavimo dienos, jei kiti įstatymai nenustato kitaip. Finansų rinkos dalyviai vartotojų kreipimusis nagrinėja neatlygintinai.
+4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyviai vartotojų kreipimusis nagrinėja neatlygintinai.
 
 
 
 
-5. Vartotojas, kurio finansų rinkos dalyvio atsakymas netenkina, turi teisę dėl to paties ginčo dalyko kreiptis į Lietuvos banką per 3 mėnesius nuo jį netenkinančio finansų rinkos dalyvio atsakymo gavimo dienos. Jeigu finansų rinkos dalyvis per šio straipsnio 4 dalyje nurodytą terminą vartotojui neatsako, vartotojas turi teisę kreiptis į Lietuvos banką dėl ginčo nagrinėjimo per 3 mėnesius nuo šio termino pabaigos. Vartotojo kreipimosi į Lietuvos banką formos ir turinio detalius reikalavimus nustato Lietuvos banko valdyba. 
+5. Lietuvos banko sprendimas dėl ginčo esmės yra rekomendacinio pobūdžio ir teismui neskundžiamas. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų.
 
 
 
 
-6. Lietuvos bankas vartotojų ginčus su finansų rinkos dalyviais nagrinėja neatlygintinai.
+6. Vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo tvarką reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas ir Lietuvos banko patvirtintos vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo procedūros Lietuvos banke taisyklės.
 
 
-
-
-7. Lietuvos bankas atsisako nagrinėti vartotojo ginčą su finansų rinkos dalyviu arba nutraukia ginčo nagrinėjimą, jeigu:
-
-
-1) jis neįgaliotas priimti sprendimo dėl vartotojo kreipimesi nurodyto reikalavimo;
-
-
-
-
-2) tarp vartotojo ir finansų rinkos dalyvio yra sudarytas susitarimas perduoti ginčo sprendimą arbitražui, kuriame ginčas būtų nagrinėjamas tarpininkavimo, taikinimo ar kitais alternatyviais ginčų nagrinėjimo būdais;
-
-
-
-
-3) ginčas yra nagrinėjamas (išnagrinėtas) arbitraže taikant tarpininkavimo, taikinimo ar kitą alternatyvų ginčų nagrinėjimo būdą;
-
-
-
-
-4) ginčas yra nagrinėjamas (išnagrinėtas) Lietuvos banke ar teisme;
-
-
-
-
-5) vartotojo vardu kreipimąsi padavė neįgaliotas asmuo;
-
-
-
-
-6) vartotojas kreipėsi į Lietuvos banką vėliau negu per šio straipsnio 5 dalyje nurodytą terminą arba prieš tai nesikreipė į finansų rinkos dalyvį šio straipsnio 4 dalyje nustatyta tvarka;
-
-
-
-
-7) vartotojo kreipimasis neatitinka Lietuvos banko priimtuose teisės aktuose nustatytų formos ir turinio reikalavimų ir tokie trūkumai nebuvo pašalinti per Lietuvos banko nurodytą terminą;
-
-
-
-
-8) kitais įstatymuose numatytais atvejais.
-
-
-
-
-
-
-8. Lietuvos bankas vartotojų ir finansų rinkos dalyvių ginčus paprastai nagrinėja rašytinio proceso tvarka pagal ginčo šalių jam pateiktus įrodymus. 
-
-
-
-
-9. Vartotojo ginčas su finansų rinkos dalyviu turi būti išnagrinėtas per 2 mėnesius nuo vartotojo kreipimosi, atitinkančio kreipimuisi keliamus reikalavimus, gavimo Lietuvos banke dienos. Ypatingais atvejais, atsižvelgdamas į ginčo sudėtingumą, Lietuvos bankas turi teisę pratęsti šį terminą, bet ne daugiau kaip papildomais 2 mėnesiais. 
-
-
-
-
-10. Ginčo nagrinėjimo Lietuvos banke sustabdymui ir nutraukimui mutatis mutandis taikomi atitinkamai Lietuvos Respublikos civilinio proceso kodekso 163, 164, 166, 167, 293 ir 294 straipsniai.
-
-
-
-
-11. Lietuvos bankas privalo tarpininkauti, kad ginčo šalys pasiektų abi šalis tenkinantį susitarimą, jei, atsižvelgiant į ginčo aplinkybes, taikus susitarimas yra įmanomas. Jei tokio susitarimo pasiekti nepavyksta, Lietuvos bankas priima sprendimą dėl ginčo esmės. Dėl ginčo esmės Lietuvos bankas priima vieną iš šių sprendimų:
-
-
-1) patenkinti vartotojo reikalavimus;
-
-
-
-
-2) iš dalies patenkinti vartotojo reikalavimus;
-
-
-
-
-3) atmesti vartotojo reikalavimus.
-
-
-
-
-
-
-12. Lietuvos bankas, priimdamas sprendimą, esant galimybei pasisako ir dėl vartotojui atlygintinos žalos dydžio. Lietuvos bankas, priimdamas sprendimą, kuriuo visiškai arba iš dalies patenkinami vartotojo reikalavimai, nustato terminą, per kurį finansų rinkos dalyviui rekomenduojama imtis sprendime nurodytų veiksmų. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų.
-
-
-
-
-13. Lietuvos banko sprendimas yra rekomendacinio pobūdžio ir teismui neskundžiamas.
-
-
-
-
-14. Lietuvos banko išnagrinėtų ginčų bylų medžiaga laikoma konfidencialia informacija ir tretiesiems asmenims neteikiama, išskyrus įstatymų nustatytus atvejus. Lietuvos bankas skelbia apibendrintą informaciją apie išnagrinėtų ginčų pobūdį, priimtus sprendimus ir jų vykdymo būklę.
-
-
-
-
-15. Vartotojo kreipimasis į Lietuvos banką laikantis šiame straipsnyje nustatytų reikalavimų dėl ginčo išnagrinėjimo sustabdo ieškinio senaties terminą.
-
-
-
-
-16. Ginčo šalių teises ir pareigas bei ginčo nagrinėjimo procesą, kiek jų nereglamentuoja šis įstatymas, reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas. Detalią ginčų nagrinėjimo tvarką nustato Lietuvos banko teisės aktai.
+TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir finansų rinkos dalyvių ginčai baigiami nagrinėti vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
+Straipsnio pakeitimai:
+Nr. XII-2088, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19366
  
-
-
 
 
 
@@ -2545,3 +2443,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 1, 8, 11, 45 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2088, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19366
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo įstatymas
