@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2013-07-23 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -467,7 +467,10 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 8 straipsnis. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, sukėlėjų nešiotojų hospitalizavimo, izoliavimo, ištyrimo ir gydymo ypatumai
 
 
-1. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, ar sukėlėjų nešiotojų hospitalizavimas, izoliavimas, ištyrimas ir (ar) gydymas gali būti taikomi tik jų sutikimu, išskyrus atvejus, nurodytus Įstatymo 9 straipsnio 1 dalyje. Jei šie asmenys yra neveiksnūs, tokį sutikimą turi duoti vienas iš jų atstovų pagal įstatymą. 
+1. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, ar sukėlėjų nešiotojų hospitalizavimas, izoliavimas, ištyrimas ir (ar) gydymas gali būti taikomi tik jų sutikimu, išskyrus atvejus, nurodytus šio Įstatymo 9 straipsnio 1 dalyje. Jei šie asmenys yra neveiksnūs tam tikroje srityje, tokį sutikimą turi duoti vienas iš jų atstovų pagal įstatymą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
@@ -524,7 +527,10 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 1. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, ar sukėlėjų nešiotojų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas:
 
 
-1) jei ligoniai ir asmenys, turėję sąlytį ar įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, šių ligų, įrašytų į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą, sukėlėjų nešiotojai (kai šie asmenys neveiksnūs, – vienas iš jų atstovų pagal įstatymą) atsisako arba vengia hospitalizavimo ir (ar) izoliavimo, pažeidžia nustatytą asmens sveikatos priežiūros įstaigos vidaus tvarką, užkrečiamųjų ligų profilaktikos taisykles ir tuo sukelia pavojų aplinkinių sveikatai. Atsisakymo būtinai gultis į ligoninę arba būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo vengimo faktas, taip pat šiame punkte nurodyti pažeidimai turi būti įrašyti asmens medicininiuose dokumentuose, o bendrosios praktikos gydytojai, gydytojai infektologai ar kiti gydytojai specialistai, nustatę šiuos asmenis, turi apie juos nedelsdami informuoti teritorinę visuomenės sveikatos priežiūros įstaigą ir atitinkamos savivaldybės gydytoją. Asmenys, vengiantys būtinojo hospitalizavimo, būtinojo izoliavimo, atsako pagal įstatymus ir kitus teisės aktus; 
+1) jei ligoniai ir asmenys, turėję sąlytį ar įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, šių ligų, įrašytų į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą, sukėlėjų nešiotojai (kai šie asmenys neveiksnūs tam tikroje srityje, – vienas iš jų atstovų pagal įstatymą) atsisako arba vengia hospitalizavimo ir (ar) izoliavimo, pažeidžia nustatytą asmens sveikatos priežiūros įstaigos vidaus tvarką, užkrečiamųjų ligų profilaktikos taisykles ir tuo sukelia pavojų aplinkinių sveikatai. Atsisakymo būtinai gultis į ligoninę arba būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo vengimo faktas, taip pat šiame punkte nurodyti pažeidimai turi būti įrašyti asmens medicininiuose dokumentuose, o bendrosios praktikos gydytojai, gydytojai infektologai ar kiti gydytojai specialistai, nustatę šiuos asmenis, turi apie juos nedelsdami informuoti teritorinę visuomenės sveikatos priežiūros įstaigą ir atitinkamos savivaldybės gydytoją. Asmenys, vengiantys būtinojo hospitalizavimo, būtinojo izoliavimo, atsako pagal įstatymus ir kitus teisės aktus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
@@ -534,14 +540,20 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-3) jei nėra pakankamai laiko gauti neveiksnaus asmens, sergančio, įtariamo, kad serga įrašytomis į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, taip pat turėjusio sąlytį su sergančiaisiais šiomis ligomis, atstovo pagal įstatymą sutikimo.
+3) jei nėra pakankamai laiko gauti neveiksnaus tam tikroje srityje asmens, sergančio, įtariamo, kad serga įrašytomis į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, taip pat turėjusio sąlytį su sergančiaisiais šiomis ligomis, atstovo pagal įstatymą sutikimo. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
 
 
 
-2. Sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima komisija, sudaryta iš ne mažiau kaip trijų gydytojų specialistų, iš kurių vienas turi būti bendrosios praktikos gydytojas, o antras – gydytojas infektologas (gydytojas dermatovenerologas ar ftiziatras, pulmonologas). Šį sprendimą tvirtina savivaldybės gydytojas. Jis privalo informuoti apie tai asmenį, dėl kurio priimtas toks sprendimas, o jei šis asmuo yra neveiksnus, – vieną iš jo atstovų pagal įstatymą. Apie šį sprendimą asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti du liudytojai. Apie būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo paskyrimą turi būti įrašoma į ligos istoriją. Asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas, kol pacientas tampa nebepavojingas kitiems asmenims, bet ne ilgiau kaip 7 kalendorines dienas, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną.
+2. Sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima komisija, sudaryta iš ne mažiau kaip trijų gydytojų specialistų, iš kurių vienas turi būti bendrosios praktikos gydytojas, o antras – gydytojas infektologas (gydytojas dermatovenerologas ar ftiziatras, pulmonologas). Šį sprendimą tvirtina savivaldybės gydytojas. Jis privalo informuoti apie tai asmenį, dėl kurio priimtas toks sprendimas, o jei šis asmuo yra neveiksnus tam tikroje srityje, – vieną iš jo atstovų pagal įstatymą. Apie šį sprendimą asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti du liudytojai. Apie būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo paskyrimą turi būti įrašoma į ligos istoriją. Asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas tol, kol pacientas tampa nebepavojingas kitiems asmenims, bet ne ilgiau kaip 7 kalendorines dienas, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
@@ -561,12 +573,22 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-6. Būtinai hospitalizuotas ar būtinai izoliuotas asmuo, o kai jis neveiksnus, – vienas iš jo atstovų pagal įstatymą turi būti pasirašytinai supažindintas su savo teisėmis asmens sveikatos priežiūros įstaigoje (izoliavimui skirtose patalpose) ir jų ribojimais. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą turi patvirtinti du liudytojai.
+6. Būtinai hospitalizuotas ar būtinai izoliuotas asmuo, o kai jis neveiksnus tam tikroje srityje, – vienas iš jo atstovų pagal įstatymą turi būti pasirašytinai supažindintas su savo teisėmis asmens sveikatos priežiūros įstaigoje (izoliavimui skirtose patalpose) ir jų ribojimais. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą turi patvirtinti du liudytojai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
 
 7. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, ir sukėlėjų nešiotojų būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo organizavimo tvarką nustato Sveikatos apsaugos ministerija, suderinusi su Krašto apsaugos ministerija, Teisingumo ministerija ar Vidaus reikalų ministerija.
+
+
+
+
+8. Kai sprendžiami asmens būtinojo hospitalizavimo ir (ar) izoliavimo, būtinojo hospitalizavimo ir (ar) izoliavimo pratęsimo klausimai, sveikatos priežiūros įstaiga privalo ne vėliau kaip per 48 valandas Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka kreiptis dėl antrinės teisinės pagalbos suteikimo šiam asmeniui, išskyrus tuos atvejus, kai asmuo yra sudaręs atstovavimo sutartį su advokato veikla besiverčiančiu advokatu ir sveikatos priežiūros įstaigai tai žinoma.
+Papildyta straipsnio dalimi:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
  
 
 
@@ -602,7 +624,10 @@ Lietuvos valstybės sienų ir teritorijos sanitarinės bei medicininės-karantin
 11 straipsnis. Imunoprofilaktika 
 
 
-1. Imunoprofilaktika gali būti taikoma asmenims tik jų sutikimu, išskyrus kituose teisės aktuose numatytus atvejus, o kai jie neveiksnūs, – gavus atstovų pagal įstatymą sutikimą. 
+1. Imunoprofilaktika gali būti taikoma asmenims tik jų sutikimu, išskyrus kituose teisės aktuose numatytus atvejus, o kai jie neveiksnūs tam tikroje srityje, – gavus atstovų pagal įstatymą sutikimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
@@ -638,7 +663,10 @@ Lietuvos valstybės sienų ir teritorijos sanitarinės bei medicininės-karantin
 12 straipsnis. Chemoprofilaktika
 
 
-1. Chemoprofilaktiką asmenims galima taikyti tik jų sutikimu, išskyrus kituose teisės aktuose numatytus atvejus, o jeigu jie neveiksnūs, – gavus atstovų pagal įstatymą sutikimą.
+1. Chemoprofilaktiką asmenims galima taikyti tik jų sutikimu, išskyrus kituose teisės aktuose numatytus atvejus, o jeigu jie neveiksnūs tam tikroje srityje, – gavus atstovų pagal įstatymą sutikimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+ 
 
 
 
@@ -1823,3 +1851,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 22 ir 26 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 8, 9, 11 ir 12 straipsnių pakeitimo įstatymas
