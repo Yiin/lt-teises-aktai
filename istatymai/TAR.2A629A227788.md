@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2015-12-31
+Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
  
@@ -642,7 +642,9 @@ Nr. XI-2320, 2012-11-06, Žin., 2012, Nr. 132-6648 (2012-11-15), i. k. 1121010IS
 
 
 
-5. Pavojingų cheminių medžiagų ir preparatų, jų turinčių gaminių, kurių tiekimas rinkai ir naudojimas draudžiamas arba apribojamas, išėmimo iš apyvartos reikalavimus nustato Sveikatos apsaugos ministerija, suderinusi su Aplinkos, Socialinės apsaugos ir darbo, Ūkio ministerijomis ir Valstybine ne maisto produktų inspekcija prie Ūkio ministerijos.
+5. Pavojingų cheminių medžiagų ir preparatų, jų turinčių gaminių, kurių tiekimas rinkai ir naudojimas draudžiamas arba apribojamas, išėmimo iš apyvartos reikalavimus nustato Sveikatos apsaugos ministerija, suderinusi su Aplinkos, Socialinės apsaugos ir darbo, Ūkio ministerijomis ir Valstybine vartotojų teisių apsaugos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XII-1892, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11085
  
 
 
@@ -766,3 +768,8 @@ Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 1, 2, 4, 5, 6,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2320, 2012-11-06, Žin., 2012, Nr. 132-6648 (2012-11-15), i. k. 1121010ISTA0XI-2320
 Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 17 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1892, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11085
+Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr. VIII-1641 18 straipsnio pakeitimo įstatymas
