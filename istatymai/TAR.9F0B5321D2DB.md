@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-01-05
+Suvestinė redakcija nuo 2016-01-06 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
  
@@ -124,10 +124,12 @@ Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010IS
 
 
 
-2. Signatarų klubo buveinė yra Seimo rūmuose. Ji išlaikoma ir techniškai aprūpinama Seimo kanceliarijos lėšomis. 
+2. Signatarų klubo buveinė yra Seimo rūmuose. Signatarų klubo buveinė išlaikoma, Signatarų klubo veikla aprūpinama reikiamomis paslaugomis ir priemonėmis Seimo kanceliarijos lėšomis.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2219, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00084
  
-
-
 
 
 
@@ -1140,3 +1142,8 @@ Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Lais
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-936, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07835
 Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 7 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2219, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00084
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 5 straipsnio pakeitimo įstatymas
