@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-01-06
+Suvestinė redakcija nuo 2016-01-07 iki 2016-12-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -2547,32 +2547,58 @@ Pastaba. 11 dalies 1 punkto nuostatos netaikomos televizijos programų transliuo
 
 
 
-3) televizijos reklamos, teleparduotuvės intarpams skirtas suminis laikas per vieną astronominę transliavimo valandą turi sudaryti ne daugiau kaip 20 procentų. Šis punktas netaikomas paties televizijos programų transliuotojo transliuojamų programų ir su jomis tiesiogiai susijusių pagalbinių produktų anonsams, rėmimo pranešimams ir prekių rodymui;
+3) televizijos reklama ir teleparduotuvė turi būti įterpiamos į programas sugrupuotos, ne mažiau kaip po dvi televizijos reklamas ir (ar) teleparduotuves viename intarpe. Sporto renginių transliavimo metu šios dalies 6 punkte nustatyta tvarka arba kitais Komisijos nustatytais išimtiniais atvejais į programas gali būti įterpiama viena televizijos reklama ar viena teleparduotuvė; 
+Papildyta straipsnio punktu:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
 
 
 
 
-4) televitrinos mažiausia nepertraukiama trukmė turi būti ne trumpesnė kaip 15 minučių. Per dieną gali būti transliuojamos ne daugiau kaip 8 televitrinos, o jų bendra trukmė neturi viršyti trijų valandų per dieną. Televitrinos turi būti aiškiai atskiriamos optinėmis ir erdvinėmis priemonėmis nuo kitų programų;
+4) televizijos reklamos, teleparduotuvės intarpams skirtas suminis laikas per vieną astronominę transliavimo valandą turi sudaryti ne daugiau kaip 20 procentų. Šis punktas netaikomas paties televizijos programų transliuotojo transliuojamų programų ir su jomis tiesiogiai susijusių pagalbinių produktų anonsams, rėmimo pranešimams ir prekių rodymui;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
 
 
 
 
-5) sporto ar kitų renginių, kuriuose daromos natūralios pertraukos, transliavimo metu televizijos reklamos ir (ar) teleparduotuvės intarpai turi būti rodomi tik per minėtų renginių natūralias pertraukas;
+5) televitrinos mažiausia nepertraukiama trukmė turi būti ne trumpesnė kaip 15 minučių. Per dieną gali būti transliuojamos ne daugiau kaip 8 televitrinos, o jų bendra trukmė neturi viršyti trijų valandų per dieną. Televitrinos turi būti aiškiai atskiriamos optinėmis ir erdvinėmis priemonėmis nuo kitų programų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
 
 
 
 
-6) transliuojant televizijos filmus (išskyrus kelių serijų filmus, serialus ir dokumentinius filmus), kinematografijos kūrinius ir žinių programas televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį;
+6) sporto ar kitų renginių, kuriuose daromos natūralios pertraukos, transliavimo metu televizijos reklamos ir (ar) teleparduotuvės intarpai turi būti rodomi tik per minėtų renginių natūralias pertraukas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
 
 
 
 
-7) transliuojant vaikams skirtas programas, televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per kiekvieną programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį, jeigu numatoma jos trukmė yra ilgesnė kaip 30 minučių;
+7) transliuojant televizijos filmus (išskyrus kelių serijų filmus, serialus ir dokumentinius filmus), kinematografijos kūrinius ir žinių programas televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
 
 
 
 
-8) įterpti televizijos reklamą ir (ar) teleparduotuvę į retransliuojamas televizijos programas ar atskiras programas draudžiama.
+8) transliuojant vaikams skirtas programas, televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per kiekvieną programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį, jeigu numatoma jos trukmė yra ilgesnė kaip 30 minučių;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
+
+
+
+
+9) įterpti televizijos reklamą ir (ar) teleparduotuvę į retransliuojamas televizijos programas ar atskiras programas draudžiama.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+ 
 
 
 
@@ -4468,3 +4494,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 22, 24,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio pakeitimo įstatymas
