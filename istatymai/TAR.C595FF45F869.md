@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2014-12-23 iki 2016-01-31
+Suvestinė redakcija nuo 2016-02-01 iki 2016-08-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -516,6 +516,14 @@ Mokslo ir studijų institucijos yra dviejų grupių: aukštosios mokyklos ir mok
 
 
 4. Aukštosios mokyklos atskaitomybė taip pat vykdoma per priežiūrą, kuri apima švietimo ir mokslo prieinamumo ir kokybės stebėseną, aukštųjų mokyklų, mokslo ir studijų politiką įgyvendinančių institucijų konsultavimą, prevencinių priemonių vykdymą, aukštųjų mokyklų vertinimą ir akreditavimą, poveikio priemonių taikymą, švietimo ir mokslo veiklos kokybės gerinimo skatinimą ir kitas įstatymų numatytas priemones. Valstybinę aukštųjų mokyklų veiklos priežiūrą atlieka Švietimo ir mokslo ministerija ir kitos įstatymais ir kitais teisės aktais įgaliotos institucijos ir įstaigos Vyriausybės nustatyta tvarka.
+
+
+
+
+5. Aukštosios mokyklos metinė veiklos ataskaita kiekvienais metais skelbiama aukštosios mokyklos interneto tinklalapyje. Aukštosios mokyklos metinėje veiklos ataskaitoje turi būti nurodyti šie duomenys: studentų, dėstytojų, mokslo ir administracijos darbuotojų, tarp jų ir atvykstančių iš užsienio, skaičius; aukštosios mokyklos pedagoginių ir mokslo darbuotojų ir administracijos sudėtis ir kvalifikacija; absolventų skaičius; pagal studijų programas įsidarbinusių absolventų skaičius; studijų programų skaičius; aukštosios mokyklos lėšos, tenkančios vienam studentui; aukštajai mokyklai skiriamos valstybės biudžeto lėšos, tarp jų Europos Sąjungos paramos lėšos, ir jų panaudojimas; aukštosios mokyklos bendras patalpų plotas, tenkantis vienam studentui; atliekamų mokslinių, taikomųjų tyrimų (mokslinės veiklos), profesionalaus meno veiklos aprėptis. Švietimo ir mokslo ministras savo nustatyta tvarka gali nustatyti ir kitus duomenis, kurie turi būti skelbiami aukštosios mokyklos metinėje veiklos ataskaitoje.
+Papildyta straipsnio dalimi:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+ 
 
 
 Straipsnio pakeitimai:
@@ -2289,7 +2297,9 @@ MOKSLO (MENO) IR STUDIJŲ VEIKLA
 
 
 
-3. Studijų programų išorinio vertinimo ir akreditavimo tvarkos aprašą tvirtina švietimo ir mokslo ministras.
+3. Valstybinių aukštųjų mokyklų studijų programos turi būti vertinamos ir akredituojamos atsižvelgiant į valstybės ūkinės, socialinės, kultūrinės plėtros poreikius ir ateities raidos poreikį. Studijų programų išorinio vertinimo ir akreditavimo tvarkos aprašą tvirtina švietimo ir mokslo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
  
 
 
@@ -2649,22 +2659,65 @@ Nr. XI-1987, 2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
 52 straipsnis. Priėmimas į aukštąją mokyklą
 
 
-1. Į aukštosios mokyklos pirmosios pakopos ir vientisųjų studijų programas konkurso būdu priimami ne žemesnį kaip vidurinį išsilavinimą turintys asmenys, atsižvelgiant į mokymosi rezultatus, stojamuosius egzaminus ar kitus aukštosios mokyklos nustatytus kriterijus. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą ir konkursinio balo sudarymo principus, mažiausią stojamąjį balą ir kitus kriterijus, įvertinus studentų atstovybei, nustato aukštosios mokyklos ir skelbia ne vėliau kaip prieš 2 metus iki atitinkamų mokslo metų pradžios. 
+1. Į aukštosios mokyklos pirmosios pakopos ir vientisųjų studijų programas konkurso būdu priimami asmenys, išlaikę bent vieną valstybinį brandos egzaminą ar turintys jam švietimo ir mokslo ministro nustatyta tvarka prilygintą mokymosi rezultatų įvertinimą ir turintys ne žemesnį kaip vidurinį išsilavinimą, atsižvelgiant į mokymosi rezultatus, stojamuosius egzaminus ar kitus aukštosios mokyklos nustatytus kriterijus. Šis reikalavimas netaikomas:
+
+
+1) asmenims, įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas;
 
 
 
 
-2. Bendrą studijų vietų skaičių nustato aukštoji mokykla, atsižvelgdama į galimybes užtikrinti studijų kokybę.
+2) asmenims, Lietuvos Respublikoje vidurinį išsilavinimą įgijusiems iki šio įstatymo įsigaliojimo;
 
 
 
 
-3. Asmenys, turintys aukštojo mokslo kvalifikaciją, į antrosios pakopos studijų programas priimami aukštosios mokyklos nustatyta tvarka. Asmenys, turintys profesinio bakalauro laipsnį, į antrosios pakopos studijų programas turi teisę stoti, jeigu atitinka Švietimo ir mokslo ministerijos patvirtintus minimalius reikalavimus.
+3) asmenims, švietimo ir mokslo ministro nustatyta tvarka ir atvejais atleistiems nuo valstybinių brandos egzaminų.
+TAR pastaba. 1 dalis įsigalioja 2016 m. kovo 1 d. ir taikoma asmenims, stojantiems į aukštąsias mokyklas nuo 2018 m.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+ 
 
 
 
 
-4. Asmenys, stojantys studijuoti pagal neformaliojo švietimo programas ar atskirus studijų dalykus (jų grupes), priimami aukštųjų mokyklų nustatyta tvarka.
+2. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą ir konkursinio balo sudarymo principus, mažiausią stojamąjį balą ir kitus kriterijus, įvertinus studentų atstovybei, nustato aukštosios mokyklos ir skelbia ne vėliau kaip prieš 2 metus iki atitinkamų mokslo metų pradžios. 
+Papildyta straipsnio dalimi:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+ 
+
+
+
+
+3. Bendrą studijų vietų skaičių nustato aukštoji mokykla, atsižvelgdama į galimybes užtikrinti studijų kokybę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+ 
+
+
+
+
+4. Asmenys, turintys aukštojo mokslo kvalifikaciją, į antrosios pakopos studijų programas priimami aukštosios mokyklos nustatyta tvarka. Asmenys, turintys profesinio bakalauro laipsnį, į antrosios pakopos studijų programas turi teisę stoti, jeigu atitinka Švietimo ir mokslo ministerijos patvirtintus minimalius reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+ 
+
+
+
+
+5. Asmenys, stojantys studijuoti pagal neformaliojo švietimo programas ar atskirus studijų dalykus (jų grupes), priimami aukštųjų mokyklų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+ 
+
+
+
+
+6. Kiekvienais metais iki rugpjūčio 30 d. savo interneto tinklalapiuose aukštosios mokyklos pateikia visuomenei informaciją apie bendrojo priėmimo į savo aukštąją mokyklą rezultatus pagal studijų programas, o Švietimo ir mokslo ministerija – informaciją apie bendrojo priėmimo į aukštąsias mokyklas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 30 d. savo interneto tinklalapiuose aukštosios mokyklos pateikia visuomenei informaciją apie institucinio priėmimo į savo aukštąją mokyklą rezultatus pagal studijų programas, o Švietimo ir mokslo ministerija – informaciją apie institucinio priėmimo rezultatus pagal aukštąsias mokyklas ir studijų programas.
+Papildyta straipsnio dalimi:
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
  
 
 
@@ -4798,3 +4851,8 @@ Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 20 straipsnio 3 dalies (
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1403, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20431
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 7, 42 ir 52 straipsnių pakeitimo įstatymas
