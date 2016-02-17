@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-16
+Suvestinė redakcija nuo 2016-02-17 iki 2016-02-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -329,7 +329,6 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 
 3. Bylos dokumentai, kurie šio Kodekso nustatytais atvejais įteikiami įtariamajam, kaltinamajam ar nuteistajam, taip pat kitiems proceso dalyviams, turi būti išversti į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka.
- 
 
 
 
@@ -5271,9 +5270,10 @@ Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 
 Straipsnio pakeitimai:
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
-TAR pastaba. Vadovaudamasis Lietuvos Respublikos Konstitucijos 106 straipsnio 4 dalimi, Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio 2 dalimi, pranešama, kad nuo šio pranešimo oficialaus paskelbimo Teisės aktų registre dienos (2015-09-25) iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija (Žin., 2002, Nr. 37-1341) su 2010 m. rugsėjo 21 d. pakeitimu (Žin., 2010, Nr. 113-5742)) tiek, kiek jame, pasak pareiškėjo, nenustatytas draudimas ar nenumatyti kokie nors papildomi kriterijai, neleidžiantys neribotam laikui nuo pareigų nušalinti tiesiogiai išrinktą valstybės politiką, galiojimas.
+TAR pastaba. Vadovaudamasis Lietuvos Respublikos Konstitucinio Teismo įstatymo 26 straipsnio 3 dalimi, pranešama, kad nuo Konstitucinio Teismo 2016 m. vasario 17 d. nutarimo Nr. KT7-N4/2016 „Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija su 2010 m. rugsėjo 21 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai“ oficialaus paskelbimo dienos visa apimtimi atstatomas Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija (Žin., 2002, Nr. 37-1341) su 2010 m. rugsėjo 21 d. pakeitimu (Žin., 2010, Nr. 113-5742)) galiojimas.
 Straipsnio pakeitimai:
 Nr. 2B-43P, 2015-09-25, paskelbta TAR 2015-09-25, i. k. 2015-14241
+Nr. 2B-8P, 2016-02-17, paskelbta TAR 2016-02-17, i. k. 2016-02987
  
 
 
@@ -15366,3 +15366,13 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 131 ir 133 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 8-1 straipsniu ir 95, 96, 179, 183, 191, 220 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Lietuvos Respublikos baudžiamojo proceso kodekso 8, 9, 28, 43, 44, 128, 185, 186, 188, 214, 239, 272, 275, 276, 280, 283, 308 straipsnių ir priedo pakeitimo ir Kodekso papildymo 27-1, 36-2, 56-1, 186-1 straipsniais įstatymas
+ 
+17.
+Lietuvos Respublikos Konstitucinis Teismas, Pranešimas
+Nr. 2B-8P, 2016-02-17, paskelbta TAR 2016-02-17, i. k. 2016-02987
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. kovo 14 d. redakcija su 2010 m. rugsėjo 21 d. pakeitimu) galiojimo atstatymo
