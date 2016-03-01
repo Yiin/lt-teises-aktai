@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -1058,7 +1058,18 @@ BANKROTO ADMINISTRATORIUS
 
 
 
-16) atlieka kitas šio įstatymo nustatytas funkcijas.
+16) pateikia Nacionalinei mokėjimo agentūrai prie Žemės ūkio ministerijos dokumentus dėl lėšų skyrimo kreditorių – žemės ūkio veiklos subjektų, kaip jie apibrėžti Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, reikalavimams sumokėti už parduotus žemės ūkio produktus tenkinti; 
+Papildyta straipsnio punktu:
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
+ 
+
+
+
+
+17) atlieka kitas šio įstatymo nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
+ 
 
 
 
@@ -1948,7 +1959,10 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-3. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais (įskaitant gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas); reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe ir piniginės lėšos vaikui (įvaikiui) išlaikyti (alimentai).
+3. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais (įskaitant gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas); reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe ir piniginės lėšos vaikui (įvaikiui) išlaikyti (alimentai); iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų tenkinami žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
+ 
 
 
 
@@ -1979,7 +1993,10 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe gali būti tenkinami iš Garantinio fondo lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai mažinami iš Garantinio fondo sumokėtos sumos dydžiu, o dėl šios priežasties Garantinio fondo atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
+8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe gali būti tenkinami iš Garantinio fondo lėšų, o žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus gali būti tenkinami Lietuvos Respublikos Vyriausybės nustatyta tvarka iki 40 procentų reikalaujamos sumokėti sumos iš Lietuvos Respublikos žemės ūkio ministerijos einamaisiais metais šiam tikslui skirtų valstybės biudžeto lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe mažinami iš Garantinio fondo sumokėtos sumos dydžiu, o kreditoriaus – žemės ūkio veiklos subjekto reikalavimai sumokėti už parduotus žemės ūkio produktus mažinami iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų sumokėtos sumos dydžiu. Dėl šios priežasties Garantinio fondo ir Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
+Straipsnio dalies pakeitimai:
+Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
+ 
 
 
 
