@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-02-17 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-06-08
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -333,6 +333,14 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 
 
+4. Lietuvių kalbos nemokančiam nuo nusikalstamos veikos nukentėjusiam asmeniui ar jo atstovui užtikrinama teisė paduoti skundą ar pareiškimą dėl nusikalstamos veikos gimtąja kalba arba kita kalba, kurią jie moka, arba užtikrinama teisė naudotis vertėjo paslaugomis pateikiant skundą žodžiu.
+Papildyta straipsnio dalimi:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
+
+
+
+
 
 
 81 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimo baudžiamajame procese ypatumai
@@ -411,7 +419,10 @@ Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 
 
 
-3. Be šio straipsnio 1 dalyje nurodytų atvejų, leidžiama neviešai nagrinėti teisme bylas dėl nusikalstamų veikų, kuriomis kaltinami arba dėl kurių yra pripažinti nukentėjusiaisiais jaunesni kaip aštuoniolikos metų asmenys, nusikaltimų ir baudžiamųjų nusižengimų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui bylas, taip pat kitas bylas, kai siekiama užkirsti kelią paskelbti žinias apie privatų proceso dalyvių gyvenimą arba kai nukentėjusiajam dėl viešo bylos nagrinėjimo gali būti psichinė trauma ar kitokių sunkių pasekmių, taip pat kai apklausiamas liudytojas ar nukentėjusysis, kuriems taikomas anonimiškumas.
+3. Be šio straipsnio 1 dalyje nurodytų atvejų, leidžiama neviešai nagrinėti teisme bylas dėl nusikalstamų veikų, kuriomis kaltinami arba dėl kurių yra pripažinti nukentėjusiaisiais nepilnamečiai, nusikaltimų ir baudžiamųjų nusižengimų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui bylas, taip pat kitas bylas, kai siekiama užkirsti kelią paskelbti žinias apie privatų proceso dalyvių gyvenimą arba kai tai būtina siekiant užtikrinti nukentėjusiojo specialius apsaugos poreikius, taip pat kai apklausiamas liudytojas ar nukentėjusysis, kuriems taikomas anonimiškumas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -421,12 +432,26 @@ Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
 
 
 
-5. Jaunesni kaip šešiolikos metų asmenys, kurie nėra byloje kaltinamieji, nukentėjusieji ar liudytojai, į teismo posėdžių salę neįleidžiami.
+5. Teismo leidimu neviešame teismo posėdyje gali dalyvauti nukentėjusįjį lydintis asmuo. Jis privalo laikytis teismo posėdžio tvarkos. Teismas nutartimi gali pašalinti šį asmenį iš viso teismo posėdžio ar iš atskirų jo dalių, kai jo dalyvavimas prieštarauja nukentėjusiojo interesams arba trukdo tirti ar nagrinėti bylą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
 
-6. Teismų nuosprendžių, priimtų neviešai išnagrinėjus bylą, rezoliucinės dalys visais atvejais paskelbiamos viešai.
+6. Jaunesni kaip šešiolikos metų asmenys, kurie nėra byloje kaltinamieji, nukentėjusieji ar liudytojai, į teismo posėdžių salę neįleidžiami.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
+
+
+
+
+7. Teismų nuosprendžių, priimtų neviešai išnagrinėjus bylą, rezoliucinės dalys visais atvejais paskelbiamos viešai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 Straipsnio pakeitimai:
@@ -813,23 +838,48 @@ Nakties metas yra paros laikas nuo 22 iki 6 valandos.
 
 
 
+271 straipsnis. Nepilnametis
+
+
+1. Nepilnametis yra fizinis asmuo, kuriam proceso veiksmo atlikimo metu nėra suėję aštuoniolika metų. 
+
+
+
+
+2. Jeigu dėl fizinio asmens amžiaus kyla abejonių, ar jis yra pilnametis, jis laikomas nepilnamečiu iki jo amžiaus nustatymo.
+
+
+
+
+3. Jeigu nepasibaigus baudžiamajam procesui nepilnametis sulaukia pilnametystės, be šio Kodekso 127 straipsnyje nustatytų suėmimo skyrimo taisyklių, prokuroro nutarimu arba teismo nutartimi jam gali būti toliau taikomos viena ar daugiau šiame Kodekse nepilnamečiams nustatytų garantijų. 
+
+
+Papildyta straipsniu:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
+
+
+
+
 28 straipsnis. Nukentėjusysis
 
 
-1. Nukentėjusiuoju pripažįstamas fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar moralinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
+1. Nukentėjusysis yra fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba nuo nusikalstamos veikos mirusio fizinio asmens šeimos narys ar artimasis giminaitis, kurie dėl to asmens mirties patyrė fizinės, turtinės ar neturtinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
 
 
 
 
-2. Nukentėjusysis ir jo atstovas turi teisę: teikti įrodymus; pateikti prašymus; pareikšti nušalinimus; ikiteisminio tyrimo metu ir teisme susipažinti su byla; dalyvauti bylą nagrinėjant teisme; apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus, taip pat apskųsti teismo nuosprendį ar nutartį; pasakyti baigiamąją kalbą.
+2. Nukentėjusysis ir jo atstovas turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį; teikti įrodymus; pateikti prašymus; pareikšti nušalinimus; dalyvauti vertinant jo specialius apsaugos poreikius; ikiteisminio tyrimo metu ir teisme susipažinti su byla; dalyvauti bylą nagrinėjant teisme; apskųsti ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ir teismo veiksmus, taip pat apskųsti teismo nuosprendį ar nutartį; pasakyti baigiamąją kalbą.
 
 
 
 
 3. Nukentėjusysis privalo duoti parodymus. Jis prisiekia ir atsako už melagingus parodymus kaip liudytojas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
-
-
 
 
 
@@ -950,6 +1000,19 @@ Socialinio tyrimo išvada yra specialisto parengtas dokumentas, kuriame apibūdi
 
 Įstatymas papildytas straipsniu:
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+ 
+
+
+
+
+362 straipsnis. Specialūs apsaugos poreikiai
+
+
+Specialūs apsaugos poreikiai yra asmeninių savybių, nusikalstamos veikos pobūdžio ar jos padarymo aplinkybių nulemti nukentėjusiojo poreikiai naudotis šiame Kodekse nustatytomis garantijomis, kad nukentėjusysis būtų apsaugotas nuo psichinės traumos, nusikalstamo poveikio ar kitų neigiamų padarinių.
+
+
+Papildyta straipsniu:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
@@ -1096,10 +1159,12 @@ Valstybinis kaltinimas yra prokuroro veikla, kuria įrodinėjama, kad nusikalsta
 43 straipsnis. Vertėjas
 
 
-Vertėjas yra vertimui reikiamas kalbas mokantis arba nebylio ar kurčiojo ženklus suprantantis asmuo, ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ar teismo pakviestas dalyvauti procese šio Kodekso nustatyta tvarka.
+Vertėjas yra vertimui reikiamas kalbas mokantis arba nebylio ar kurčiojo ženklus suprantantis asmuo, ikiteisminio tyrimo pareigūno, prokuroro, ikiteisminio tyrimo teisėjo ar teismo pakviestas dalyvauti procese šio Kodekso nustatyta tvarka. Vertėjas gali dalyvauti procese jo dalyvavimą užtikrinant garso ir vaizdo nuotolinio perdavimo priemonėmis, išskyrus atvejus, kai būtinas tiesioginis vertėjo dalyvavimas tam, kad proceso dalyvis tinkamai pasinaudotų savo teisėmis arba suprastų vykstantį baudžiamąjį procesą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
-
-
 
 
 
@@ -1164,7 +1229,10 @@ Asmens teisių užtikrinimo pagrindai
 
 
 
-10. Kiekvienas asmuo, pripažintas nukentėjusiuoju, turi teisę reikalauti, kad būtų nustatytas ir teisingai nubaustas nusikalstamą veiką padaręs asmuo, gauti dėl nusikalstamos veikos padarytos žalos atlyginimą, o įstatymų numatytais atvejais – ir kompensaciją iš Nukentėjusiųjų nuo nusikaltimų asmenų fondo, taip pat įstatymo nustatyta tvarka nemokamai gauti valstybės garantuojamą teisinę pagalbą.
+10. Kiekvienas nuo nusikalstamos veikos nukentėjęs asmuo turi teisę reikalauti, kad būtų nustatytas ir teisingai nubaustas nusikalstamą veiką padaręs asmuo, gauti dėl nusikalstamos veikos padarytos žalos atlyginimą, o įstatymų numatytais atvejais – ir kompensaciją iš Nukentėjusių nuo nusikaltimų asmenų fondo, taip pat įstatymų nustatyta tvarka nemokamai gauti valstybės garantuojamą teisinę pagalbą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -1603,6 +1671,19 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
 Straipsnio pakeitimai:
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+ 
+
+
+
+
+561 straipsnis. Nukentėjusįjį lydintis asmuo
+
+
+Nukentėjusįjį baudžiamojo proceso metu gali lydėti jo pasirinktas asmuo. Šis asmuo ikiteisminio tyrimo ir nagrinėjimo teisme metu privalo laikytis nustatytos tvarkos. Nukentėjusįjį lydinčio asmens dalyvavimas baudžiamajame procese ar atskirose jo dalyse gali būti apribotas ikiteisminio tyrimo pareigūno ar prokuroro nutarimu arba ikiteisminio tyrimo teisėjo ar teismo nutartimi, kai toks dalyvavimas prieštarauja nukentėjusiojo interesams arba trukdo tirti ar nagrinėti bylą. 
+
+
+Papildyta straipsniu:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
@@ -4156,7 +4237,10 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 128 straipsnis. Pranešimas apie įtariamojo suėmimą
 
 
-1. Paskiriant suėmimą dalyvavęs prokuroras privalo apie įtariamojo suėmimą pranešti vienam iš suimtojo nurodytų šeimos narių ar artimųjų giminaičių. Jeigu suimtasis jokio asmens nenurodo, prokuroras savo nuožiūra turi pranešti vienam iš įtariamojo šeimos narių ar artimųjų giminaičių, jei šį pavyksta nustatyti. Prokuroras gali atsisakyti pranešti, jei suimtasis motyvuotai paaiškina, kad toks pranešimas gali pakenkti jo šeimos narių ar artimųjų giminaičių saugumui. Be to, įtariamajam turi būti sudaryta galimybė pačiam pranešti šeimos nariams ar artimiesiems giminaičiams apie suėmimo paskyrimą.
+1. Paskiriant suėmimą dalyvavęs prokuroras nedelsdamas privalo apie įtariamojo suėmimą pranešti vienam iš suimtojo nurodytų šeimos narių, artimųjų giminaičių, o kai jų nėra, – kitam asmeniui. Jeigu suimtasis jokio asmens nenurodo, prokuroras savo nuožiūra turi pranešti vienam iš įtariamojo šeimos narių ar artimųjų giminaičių, jei šį pavyksta nustatyti. Prokuroras laikinai gali atsisakyti pranešti, jei toks pranešimas pakenktų ikiteisminio tyrimo sėkmei arba jei suimtasis motyvuotai paaiškina, kad toks pranešimas gali pakenkti jo šeimos narių, artimųjų giminaičių ar kitų asmenų saugumui. Be to, įtariamajam turi būti sudaryta galimybė pačiam pranešti šeimos nariams, artimiesiems giminaičiams, o kai jų nėra, – kitiems asmenims apie suėmimo paskyrimą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -4171,7 +4255,10 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 
 
-4. Apie įtariamojo suėmimą prokuroras arba ikiteisminio tyrimo pareigūnas privalo pranešti nukentėjusiajam ir išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę. Pranešti apie įtariamojo suėmimą nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma. Jeigu nukentėjusiųjų yra daug, apie įtariamojo suėmimą pakanka pranešti jų interesams atstovaujančiam asmeniui (asmenims). Dėl pranešimo nukentėjusiajam surašomas protokolas. Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę, prokuroras arba ikiteisminio tyrimo pareigūnas surašo pažymą. Šią pažymą prokuroras arba ikiteisminio tyrimo pareigūnas išsiunčia į įtariamojo suėmimo vietą. Įtariamajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+4. Apie įtariamojo suėmimą prokuroras arba ikiteisminio tyrimo pareigūnas privalo pranešti nukentėjusiajam ir išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar įtariamojo pabėgimą iš laisvės atėmimo vietos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Pranešti apie įtariamojo suėmimą nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu šis pranešimas galėtų padaryti žalos įtariamajam. Jeigu nukentėjusiųjų yra daug, apie įtariamojo suėmimą pakanka pranešti jų interesams atstovaujančiam asmeniui (asmenims). Dėl pranešimo nukentėjusiajam surašomas protokolas. Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar įtariamojo pabėgimą iš laisvės atėmimo vietos, prokuroras arba ikiteisminio tyrimo pareigūnas surašo pažymą. Šią pažymą prokuroras arba ikiteisminio tyrimo pareigūnas išsiunčia į įtariamojo suėmimo vietą. Įtariamajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 Straipsnio pakeitimai:
@@ -6337,40 +6424,47 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 185 straipsnis. Nukentėjusiojo apklausa
 
 
-Nukentėjusysis šaukiamas ir apklausiamas kaip liudytojas. Jeigu nukentėjusiajam dėl apklausos gali būti psichinė trauma ar kitokių sunkių pasekmių, taikomos šio Kodekso 186 straipsnio 1, 2, 3 ir 4 dalių nuostatos.
+1. Nukentėjusysis šaukiamas ir apklausiamas kaip liudytojas. Kai būtina užtikrinti nukentėjusiojo specialius apsaugos poreikius, gali būti taikomos viena ar daugiau šio Kodekso 186 straipsnio nuostatų. 
+
+
+
+
+2. Kai nusikaltimų ir baudžiamųjų nusižengimų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui bylose, smurto artimoje aplinkoje bylose, prekybos žmonėmis, pelnymosi iš kito asmens prostitucijos ir įtraukimo į prostituciją bylose ar bylose, susijusiose su diskriminavimu ar neapykanta dėl lyties, nukentėjusįjį apklausia ikiteisminio tyrimo pareigūnas, nukentėjusysis gali prašyti, kad apklausą atliktų tos pačios lyties asmuo. Ikiteisminio tyrimo pareigūnas nutarimu gali atsisakyti patenkinti šį prašymą, jeigu dėl to būtų pakenkta ikiteisminio tyrimo sėkmei.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
+Straipsnio pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
 
 
-186 straipsnis. Nepilnamečio liudytojo ir nukentėjusiojo apklausa
+186 straipsnis. Nepilnamečių liudytojo ir nukentėjusiojo apklausa
 
 
-1. Jaunesnius kaip aštuoniolikos metų liudytoją ar nukentėjusįjį apklausia ikiteisminio tyrimo teisėjas šio Kodekso 184 straipsnio 3, 4, 5 dalyse nustatyta tvarka, kai vaiko interesais to prašo jo atstovas, prokuroras ar gynėjas arba šio Kodekso 184 straipsnio 1 dalyje numatytais atvejais.
-
-
-
-
-2. Jaunesni kaip aštuoniolikos metų liudytojas ar nukentėjusysis ikiteisminio tyrimo metu paprastai apklausiami ne daugiau kaip vieną kartą. Tais atvejais, kai ikiteisminio tyrimo metu būtina pakartotinė jaunesnio kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apklausa, juos paprastai apklausia tas pats asmuo. Jų apklausos metu gali būti daromas vaizdo ir garso įrašas. Jeigu jaunesnių kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apklausoje dalyvauja įtariamasis ar jo gynėjas, ikiteisminio tyrimo teisėjas privalo užtikrinti, kad tokiam liudytojui ar nukentėjusiajam nebūtų daromas neleistinas poveikis. Jaunesni kaip aštuoniolikos metų liudytojas ir nukentėjusysis į teisiamąjį posėdį šaukiami tik išimtiniais atvejais.
+1. Nepilnametį liudytoją ar nepilnametį nukentėjusįjį apklausia ikiteisminio tyrimo teisėjas šio Kodekso 184 straipsnio 3, 4, 5 dalyse nustatyta tvarka, kai vaiko interesais to prašo jo atstovas, prokuroras ar gynėjas arba šio Kodekso 184 straipsnio 1 dalyje numatytais atvejais.
 
 
 
 
-3. Jei jaunesniam kaip aštuoniolikos metų liudytojui ar nukentėjusiajam įtariamasis gali daryti poveikį, ikiteisminio tyrimo teisėjas nutartimi įtariamajam apklausoje dalyvauti neleidžia. Prokuroras apie ikiteisminio tyrimo teisėjo priimtą nutartį neleisti dalyvauti apklausoje įtariamąjį ir jo gynėją informuoja įteikdamas šios nutarties nuorašą.
+2. Nepilnametis liudytojas ar nepilnametis nukentėjusysis ikiteisminio tyrimo metu paprastai apklausiami vaikų apklausoms pritaikytose patalpose ir ne daugiau kaip vieną kartą. Tais atvejais, kai ikiteisminio tyrimo metu būtina pakartotinė nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausa, juos paprastai apklausia tas pats asmuo. Jų apklausos metu turi būti daromas vaizdo ir garso įrašas. Jeigu nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausoje dalyvauja įtariamasis ar jo gynėjas, ikiteisminio tyrimo teisėjas privalo užtikrinti, kad tokiam liudytojui ar nukentėjusiajam nebūtų daromas neleistinas poveikis. Nepilnametis liudytojas ir nepilnametis nukentėjusysis į teisiamąjį posėdį šaukiami tik išimtiniais atvejais.
 
 
 
 
-4. Jaunesnio kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apsaugos interesais ikiteisminio tyrimo teisėjo nutartimi įtariamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o įtariamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos bei per ikiteisminio tyrimo teisėją užduoti apklausiamam asmeniui klausimus. Jei neįmanoma įtariamajam ir kitiems proceso dalyviams sudaryti sąlygų stebėti ir girdėti apklausą iš kitos patalpos, apklausa atliekama įtariamajam ir kitiems proceso dalyviams nedalyvaujant. Tokios apklausos metu padarytas garso ir vaizdo įrašas tuoj po apklausos parodomas įtariamajam ir kitiems proceso dalyviams, kurie per ikiteisminio tyrimo teisėją turi teisę užduoti apklausiamam asmeniui klausimus.
+3. Jei nepilnamečiui liudytojui ar nepilnamečiui nukentėjusiajam įtariamasis gali daryti poveikį, ikiteisminio tyrimo teisėjas nutartimi įtariamajam apklausoje dalyvauti neleidžia. Prokuroras apie ikiteisminio tyrimo teisėjo priimtą nutartį neleisti dalyvauti apklausoje įtariamąjį ir jo gynėją informuoja įteikdamas šios nutarties nuorašą.
 
 
 
 
-5. Jaunesnio kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apklausoje turi teisę dalyvauti jo atstovas. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į jaunesnių kaip aštuoniolikos metų liudytojo arba nukentėjusiojo apklausą privalo būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
+4. Nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apsaugos interesais ikiteisminio tyrimo teisėjo nutartimi įtariamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o įtariamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos bei per ikiteisminio tyrimo teisėją užduoti apklausiamam asmeniui klausimus. Jei neįmanoma įtariamajam ir kitiems proceso dalyviams sudaryti sąlygų stebėti ir girdėti apklausą iš kitos patalpos, apklausa atliekama įtariamajam ir kitiems proceso dalyviams nedalyvaujant. Tokios apklausos metu padarytas garso ir vaizdo įrašas tuoj po apklausos parodomas įtariamajam ir kitiems proceso dalyviams, kurie per ikiteisminio tyrimo teisėją turi teisę užduoti apklausiamam asmeniui klausimus.
+
+
+
+
+5. Nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausoje turi teisę dalyvauti jo atstovas. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausą privalo būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
 
 
 Straipsnio pakeitimai:
@@ -6378,6 +6472,36 @@ Nr. IX-1637, 2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
+Straipsnio pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
+
+
+
+
+1861 straipsnis. Nukentėjusiojo specialių apsaugos poreikių vertinimas
+
+
+1. Ne vėliau kaip pirmosios nukentėjusiojo apklausos metu ikiteisminio tyrimo pareigūnas ar prokuroras atlieka nukentėjusiojo specialių apsaugos poreikių vertinimą. Prireikus tam gali būti pasitelkiamas psichologas arba kiti specialių žinių ar įgūdžių turintys asmenys. Į nukentėjusiojo specialių apsaugos poreikių vertinimo metu surinktus duomenis atsižvelgiama organizuojant baudžiamąjį procesą ir šio Kodekso nustatytais atvejais sprendžiant, ar nukentėjusiajam dėl jo specialių apsaugos poreikių būtina taikyti vieną ar daugiau šio Kodekso nustatytų garantijų. 
+
+
+
+
+2. Prireikus atlikti papildomą ar pakartotinį nukentėjusiojo specialių apsaugos poreikių vertinimą, jį organizuoja arba atlieka prokuroras: ikiteisminio tyrimo metu savo iniciatyva arba ikiteisminio tyrimo teisėjo pavedimu, teismo proceso metu – teismo pavedimu. 
+
+
+
+
+3. Duomenys, gauti atliekant nukentėjusiojo specialių apsaugos poreikių vertinimą, laikomi atskirai nuo bylos. Įtariamajam, kaltinamajam, nuteistajam ir jo gynėjui neleidžiama susipažinti su šiais duomenimis.
+
+
+
+
+4. Nukentėjusiųjų specialių apsaugos poreikių vertinimo tvarką nustato Lietuvos Respublikos generalinis prokuroras.
+
+
+Papildyta straipsniu:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
@@ -6429,7 +6553,10 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 
 
 
-5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į jaunesnio kaip aštuoniolikos metų įtariamojo apklausą gali būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
+5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio įtariamojo apklausą gali būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -7179,7 +7306,10 @@ Kai asmuo įtariamas padaręs kelias nusikalstamas veikas, iš kurių viena ar k
 
 
 
-3. Apie ikiteisminio tyrimo nutraukimą ar ikiteisminio tyrimo teisėjo sprendimą nepatvirtinti prokuroro nutarimo dėl ikiteisminio tyrimo nutraukimo pranešama įtariamajam, jo atstovui, gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams išsiunčiant sprendimų nuorašus.
+3. Apie ikiteisminio tyrimo nutraukimą ar ikiteisminio tyrimo teisėjo sprendimą nepatvirtinti prokuroro nutarimo dėl ikiteisminio tyrimo nutraukimo pranešama įtariamajam, jo atstovui, gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams įteikiant ar išsiunčiant sprendimų nuorašus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -7945,7 +8075,10 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 
 
-2) apklausia jaunesnį kaip aštuoniolikos metų liudytoją ar nukentėjusįjį, jeigu dėl apklausos teisiamajame posėdyje jam gali būti psichinė trauma ar kitokių sunkių pasekmių;
+2) apklausia nepilnametį liudytoją ar nepilnametį nukentėjusįjį arba specialių apsaugos poreikių turintį nukentėjusįjį, jeigu nenumatoma jų šaukti į teisiamąjį posėdį, bet būtina juos papildomai apklausti;
+Straipsnio punkto pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -8741,7 +8874,9 @@ XXI skyrius
 
 
 
-4. Nagrinėjimo teisme dalyvių prašymu arba teismo iniciatyva į jaunesnio kaip aštuoniolikos metų kaltinamojo apklausą gali būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą.
+4. Nagrinėjimo teisme dalyvių prašymu arba teismo iniciatyva į nepilnamečio kaltinamojo apklausą gali būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
@@ -8802,7 +8937,10 @@ Jeigu yra pakankamas pagrindas manyti, kad kaltinamojo dalyvavimas kliudys kitam
 
 
 
-5. Jaunesniems kaip aštuoniolikos metų nukentėjusiesiems ir liudytojams klausimai užduodami tik per teisiamojo posėdžio pirmininką, o prireikus – per atstovą.
+5. Nepilnamečiams nukentėjusiesiems ir nepilnamečiams liudytojams klausimai užduodami tik per teisiamojo posėdžio pirmininką, o prireikus – per atstovą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -8840,7 +8978,10 @@ Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
 
 
 
-2. Be to, teisiamajame posėdyje gali būti balsu perskaityti asmenų, apklaustų teisme atidėjus bylos nagrinėjimą ar padarius pertrauką šio Kodekso 243 ir 244 straipsniuose nustatyta tvarka, parodymai, taip pat liudytojo ar nukentėjusiojo, pagal teismo nutartį nepašauktų į teisiamąjį posėdį dėl to, kad jiems buvo taikytas anonimiškumas arba kad jie neturi aštuoniolikos metų, arba kad dėl apklausos jiems galėjo būti psichinė trauma ar kitokių sunkių pasekmių, parodymai, duoti ikiteisminio tyrimo teisėjui.
+2. Be to, teisiamajame posėdyje gali būti balsu perskaityti asmenų, apklaustų teisme atidėjus bylos nagrinėjimą ar padarius pertrauką šio Kodekso 243 ir 244 straipsniuose nustatyta tvarka, parodymai, taip pat liudytojo ar nukentėjusiojo, pagal teismo nutartį nepašauktų į teisiamąjį posėdį dėl to, kad jiems buvo taikytas anonimiškumas arba kad jie yra nepilnamečiai, arba kad tai buvo būtina dėl nukentėjusiojo specialių apsaugos poreikių, parodymai, duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas tokios apklausos metu padarytas vaizdo ir garso įrašas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -8975,7 +9116,7 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 280 straipsnis. Nepilnamečio liudytojo apklausos ypatumai
 
 
-1. Apklausiant jaunesnį kaip aštuoniolikos metų liudytoją, šaukiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą. Prireikus dalyvauti apklausoje taip pat šaukiami nepilnamečio liudytojo tėvai ar kiti atstovai pagal įstatymą. Dalyvaujantys apklausoje valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, nepilnamečio liudytojo tėvai ar kiti atstovai pagal įstatymą teisiamojo posėdžio pirmininko leidimu gali užduoti liudytojui klausimų.
+1. Kai išimtiniais atvejais būtina teisme apklausti nepilnametį liudytoją, šaukiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą. Prireikus dalyvauti apklausoje taip pat šaukiami nepilnamečio liudytojo tėvai ar kiti atstovai pagal įstatymą. Dalyvaujantys apklausoje valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, nepilnamečio liudytojo tėvai ar kiti atstovai pagal įstatymą teisiamojo posėdžio pirmininko leidimu gali užduoti liudytojui klausimus.
 
 
 
@@ -8985,11 +9126,13 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-3. Jei jaunesniam kaip aštuoniolikos metų liudytojui dėl apklausos teisme gali būti psichinė trauma ar kitokių sunkių pasekmių, į teisiamąjį posėdį šis liudytojas nešaukiamas, o teisme balsu perskaitomi jo parodymai, duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas ikiteisminio tyrimo metu padarytas vaizdo ir garso įrašas. Jei jaunesnis kaip aštuoniolikos metų liudytojas šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.
+3. Nepilnamečio liudytojo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.
 
 
 Straipsnio pakeitimai:
 Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
+Straipsnio pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
@@ -9050,7 +9193,10 @@ Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 
 
 
-3. Jaunesnio kaip aštuoniolikos metų nukentėjusiojo apklausoje turi dalyvauti jo atstovas. Tokio amžiaus nukentėjusysis ir jo atstovas teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką. Jei jaunesniam kaip aštuoniolikos metų nukentėjusiajam dėl apklausos teisme gali būti psichinė trauma ar kitokių sunkių pasekmių, nukentėjusysis teisiamajame posėdyje gali būti neapklausiamas. Šiuo atveju teisme turi būti balsu perskaitomi parodymai, nukentėjusiojo duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas ikiteisminio tyrimo metu padarytas garso ir vaizdo įrašas. Jei jaunesnis kaip aštuoniolikos metų nukentėjusysis šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.
+3. Kai išimtiniais atvejais nepilnametis nukentėjusysis šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus. Nepilnamečio nukentėjusiojo apklausoje turi dalyvauti jo atstovas. Nepilnametis nukentėjusysis ir jo atstovas teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 
@@ -9065,7 +9211,10 @@ Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 
 
 
-6. Jeigu nukentėjusiajam dėl apklausos gali būti psichinė trauma ar kitokių sunkių pasekmių, nukentėjusysis teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką. Toks nukentėjusysis teisiamajame posėdyje taip pat gali būti neapklausiamas. Šiuo atveju teisme turi būti balsu perskaitomi parodymai, nukentėjusiojo duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas ikiteisminio tyrimo metu padarytas garso ir vaizdo įrašas. Jeigu toks nukentėjusysis šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.
+6. Kai tai būtina dėl nukentėjusiojo specialių apsaugos poreikių, nukentėjusysis teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką. Toks nukentėjusysis teisiamajame posėdyje taip pat gali būti neapklausiamas. Šiuo atveju teisme turi būti balsu perskaitomi parodymai, nukentėjusiojo duoti ikiteisminio tyrimo teisėjui, arba paskelbiamas ikiteisminio tyrimo metu padarytas garso ir vaizdo įrašas. Jeigu toks nukentėjusysis šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 Straipsnio pakeitimai:
@@ -9803,7 +9952,10 @@ Nr. XII-551, 2013-10-10, Žin., 2013, Nr. 109-5365 (2013-10-17)
 
 
 
-5. Kai nuosprendžiu nuteistajam paskiriama reali arešto arba laisvės atėmimo bausmė, teisiamojo posėdžio pirmininkas privalo išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę. Jeigu nukentėjusysis nedalyvavo teismo posėdyje, ši informacija turi būti išsiaiškinta per penkias dienas po nuosprendžio paskelbimo. Išsiaiškinti nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma. Jeigu nukentėjusiųjų yra daug, pakanka šią informaciją išsiaiškinti per jų interesams atstovaujantį asmenį (asmenis). Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę, teisiamojo posėdžio pirmininkas surašo pažymą. Įsiteisėjus nuosprendžiui, ši pažyma kartu su nuosprendžio nuorašu šio Kodekso 342 straipsnio nustatyta tvarka išsiunčiama bausmės vykdymo institucijai. Nuteistajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+5. Kai nuosprendžiu nuteistajam paskiriama reali arešto arba laisvės atėmimo bausmė, teisiamojo posėdžio pirmininkas privalo išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar nuteistojo pabėgimą iš laisvės atėmimo vietos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Jeigu nukentėjusysis nedalyvavo teismo posėdyje, ši informacija turi būti išsiaiškinta per penkias dienas po nuosprendžio paskelbimo. Išsiaiškinti nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu toks pranešimas galėtų padaryti žalos nuteistajam. Jeigu nukentėjusiųjų yra daug, pakanka šią informaciją išsiaiškinti per jų interesams atstovaujantį asmenį (asmenis). Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar nuteistojo pabėgimą iš laisvės atėmimo vietos, teisiamojo posėdžio pirmininkas surašo pažymą. Įsiteisėjus nuosprendžiui, ši pažyma kartu su nuosprendžio nuorašu šio Kodekso 342 straipsnio nustatyta tvarka išsiunčiama bausmės vykdymo institucijai. Nuteistajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
 
 
 Straipsnio pakeitimai:
@@ -14992,6 +15144,14 @@ Punkto numeracijos pakeitimas:
 Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 Nr. XII-1325, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17304
 Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+ 
+
+
+
+
+16. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR (OL 2012 L 315, p. 57).
+Papildyta straipsnio dalimi:
+Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
