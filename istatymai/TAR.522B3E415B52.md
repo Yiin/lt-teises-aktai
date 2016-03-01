@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-06-08
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1342,9 +1342,26 @@ TEISĖJŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
 
 2. Teisėjo reikalavimai, susiję su teisingumo vykdymu, yra privalomi visoms valstybės valdžios institucijoms, pareigūnams ir tarnautojams, įmonėms, įstaigoms, organizacijoms, kitiems juridiniams bei fiziniams asmenims. Už teisėjo reikalavimų nevykdymą atsakoma įstatymų nustatyta tvarka.
+
+
+
+
+3. Nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, apylinkės teismo teisėjas proceso įstatymų nustatytais atvejais turi įgaliojimus nagrinėti visas bylas, teismingas apylinkės teismams. 
+
+
+
+
+4. Nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, apygardos teismo teisėjas proceso įstatymų nustatytais atvejais turi įgaliojimus nagrinėti visas bylas, teismingas apygardų teismams. 
+
+
+
+
+5. Kai teisėjas nagrinėja bylą, teismingą kitam teismui, ir dėl to jam reikia išvykti iš savo darbo vietos, teisėjo komandiruotės išlaidos, taip pat važiavimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2246, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00048
  
-
-
 
 
 
@@ -5180,3 +5197,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 papildymo 40-2 straipsniu įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1564, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05016
 Lietuvos Respublikos teismų įstatymo Nr. I-480 53-2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2246, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00048
+Lietuvos Respublikos teismų įstatymo Nr. I-480 41 straipsnio pakeitimo įstatymas
