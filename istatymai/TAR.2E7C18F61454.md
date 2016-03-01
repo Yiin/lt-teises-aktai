@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-06-08
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -1926,6 +1926,44 @@ Straipsnio pakeitimai:
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
 Nr. X-1810, 2008-11-13, Žin., 2008, Nr. 137-5367 (2008-11-29)
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+ 
+
+
+
+
+621 straipsnis. Kito teismo teisėjo paskyrimas nagrinėti bylą
+
+
+1. Apygardos teismo pirmininkui konstatavus esminį darbo krūvio skirtumą apylinkės teismuose, esančiuose to apygardos teismo veiklos teritorijoje, apygardos teismo pirmininko nutartimi atsitiktine tvarka atrinktos bylos gali būti priskirtos nagrinėti kito apylinkės teismo, esančio to paties apygardos teismo veiklos teritorijoje, teisėjams. 
+
+
+
+
+2. Lietuvos apeliacinio teismo pirmininkui konstatavus esminį darbo krūvio skirtumą apygardų teismuose, Lietuvos apeliacinio teismo pirmininko nutartimi atsitiktine tvarka atrinktos bylos, nagrinėtinos pirmosios instancijos ir (arba) apeliacinės instancijos tvarka, gali būti priskirtos nagrinėti kito apygardos teismo teisėjams. 
+
+
+
+
+3. Nagrinėti kito teismo teisėjams gali būti priskiriamos bylos, kurios dar nėra paskirtos konkrečiam teisėjui (teisėjų kolegijai). 
+
+
+
+
+4. Bylos, kuri priskiriama nagrinėti kito teismo teisėjams, teismingumas nekeičiamas – bylą nagrinėjantis kito teismo teisėjas (teisėjų kolegija) veikia teismo, kuriam byla teisminga, vardu.
+
+
+
+
+5. Nagrinėti kito teismo teisėjams priskirtos bylos paskirstomos ir teisėjų kolegijos, kai bylą nagrinėja ne vienas teisėjas, sudaromos Teismų įstatymo nustatyta tvarka iš teismo, kurio teisėjams jos priskirtos, teisėjų. Teisėją skiria, reikiamais atvejais teisėjų kolegiją sudaro ir jos pirmininką bei pranešėją skiria, įstatymų numatytais atvejais pakeičia teismo, kuriame dirba teisėjas (teisėjai), pirmininkas arba Civilinių bylų skyriaus pirmininkas. Kitus su nagrinėti kito teismo teisėjams priskirtomis bylomis susijusius procesinius klausimus, kuriuos spręsti įstatymuose priskirta teismo pirmininkui, Civilinių bylų skyriaus pirmininkui arba jų paskirtam teisėjui, sprendžia atitinkamai teismo, kuriam byla teisminga, pirmininkas, Civilinių bylų skyriaus pirmininkas arba jų paskirtas teisėjas.
+
+
+
+
+6. Šiame straipsnyje nustatytais pagrindais pirmiausiai nagrinėti kito teismo teisėjams priskiriamos bylos, kurios šio kodekso nustatytais atvejais gali būti nagrinėjamos rašytinio proceso tvarka, taip pat bylos, kurias nagrinėja vienas teisėjas. 
+
+
+Papildyta straipsniu:
+Nr. XII-2247, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00049
  
 
 
@@ -4945,6 +4983,14 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 3. Žodinis bylos nagrinėjimas gali vykti ir ne teismo, nagrinėjančio bylą, patalpose, jeigu kitoje vietoje bylą bus lengviau išnagrinėti arba bus sutaupyta bylinėjimosi išlaidų, palyginti su bylos nagrinėjimu teismo patalpose.
+
+
+
+
+4. Kai įstatymų nustatytais atvejais konkrečiam apylinkės ar apygardos teismui teisminga byla yra priskiriama nagrinėti atitinkamai kito apylinkės arba apygardos teismo teisėjams, teismo posėdžiai, kuriuose nagrinėjamos šios bylos, gali vykti teismo, kuriame dirba bylą nagrinėjantis teisėjas (teisėjai), patalpose. Žodinis šių bylų nagrinėjimas vyksta teismo, kuriam byla teisminga, patalpose, išskyrus atvejus, kai nė viena iš proceso šalių neprieštarauja, kad byla būtų nagrinėjama teismo, kuriame dirba bylą nagrinėjantis teisėjas (teisėjai), patalpose, arba kai byla operatyviau ir ekonomiškiau bus išnagrinėta kitose patalpose, konkrečiai – pagal daugumos įrodymų buvimo vietą arba proceso dalyvių ar daugumos proceso dalyvių gyvenamąją vietą ar buveinę, arba pagal nekilnojamojo turto, tiesiogiai susijusio su nagrinėjama byla, buvimo vietą.
+Papildyta straipsnio dalimi:
+Nr. XII-2247, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00049
+ 
 
 
 Straipsnio pakeitimai:
@@ -23906,3 +23952,8 @@ Lietuvos Respublikos civilinio proceso kodekso pakeitimo įstatymo Nr. XII-1567 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 Lietuvos Respublikos civilinio proceso kodekso 484, 499, 500, 501 ir 504 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2247, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00049
+Lietuvos Respublikos civilinio proceso kodekso papildymo 62-1 straipsniu ir 154 straipsnio pakeitimo įstatymas
