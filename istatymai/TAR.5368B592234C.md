@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -1613,7 +1613,9 @@ Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010IST
 
 
 
-4. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti asmens duomenų tvarkymo teismuose.
+4. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti asmens duomenų tvarkymo, kurį atlieka teismai, vykdydami teisingumą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2103, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19490
  
 
 
@@ -2283,3 +2285,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1430, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20555
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 15 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2103, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19490
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 36 straipsnio pakeitimo įstatymas
