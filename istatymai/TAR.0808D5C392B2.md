@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
+ 
+TAR pastaba. Įmonių bankroto procesai, pradėti iki šio įstatymo įsigaliojimo, baigiami pagal iki įstatymo Nr. XII-2107 įsigaliojimo (2016-03-01) galiojusias nuostatas, išskyrus  nustatytą išimtį: dokumentai dėl lėšų skyrimo bankrutavusiai įmonei žemės ūkio veiklos subjektų reikalavimams sumokėti už parduotus žemės ūkio produktus tenkinti, vykdant įmonių bankroto procesus, pradėtus iki šio įstatymo įsigaliojimo, teikiami Nacionalinei mokėjimo agentūrai prie Žemės ūkio ministerijos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 3, 11 ir 35 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS ĮMONIŲ BANKROTO  ĮSTATYMAS
  
@@ -96,7 +101,10 @@ Nr. XII-805, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04326
 
 4) paskolų, suteiktų iš valstybės vardu pasiskolintų lėšų, ir paskolų, gautų su valstybės garantija, negrąžinimo atveju – Finansų ministerija;
 
-5) fiziniai ir juridiniai asmenys, pardavę žemės ūkio produkciją;
+5) nesumokėjimo už parduotus žemės ūkio produktus atveju – žemės ūkio veiklos subjektai, kaip jie apibrėžti Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme;
+Straipsnio punkto pakeitimai:
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+ 
 
 6) iš Europos Sąjungos lėšų suteiktos paramos negrąžinimo atveju – valstybės institucijos, administruojančios Europos Sąjungos lėšas;
 
@@ -454,7 +462,10 @@ Nr. XII-805, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04326
 
 21) pateikia žalos atlyginimo prievolės mokėjimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga dokumentus ir žalos atlyginimo gavėjų duomenis jų gyvenamosios vietos Valstybinio socialinio draudimo fondo valdybos teritoriniams skyriams, kai įstatymų numatytais atvejais žalos atlyginimo mokėjimas pereina valstybei; 
 
-22) pateikia Žemės ūkio ministerijai dokumentus dėl lėšų skyrimo fizinių ir juridinių asmenų reikalavimams apmokėti už perdirbti supirktą žemės ūkio produkciją; 
+22) pateikia Nacionalinei mokėjimo agentūrai prie Žemės ūkio ministerijos dokumentus dėl lėšų skyrimo bankrutavusiai įmonei žemės ūkio veiklos subjektų reikalavimams sumokėti už parduotus žemės ūkio produktus tenkinti;
+Straipsnio punkto pakeitimai:
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+ 
 
 23) imasi priemonių skoloms išieškoti iš įmonės skolininkų, išskyrus tą skolos dalį, dėl kurios pagal mokesčių įstatymuose nustatytas mokesčio permokos (skirtumo) įskaitymo nuostatas pateiktas prašymas įskaityti priešpriešinius vienarūšius reikalavimus;
 
@@ -1386,17 +1397,26 @@ tenkinimas
 
 1. Kreditorių reikalavimai tenkinami dviem etapais. Pirmajame etape pagal šio straipsnio nustatytą eiliškumą tenkinami kreditorių reikalavimai be priskaičiuotų palūkanų ir netesybų, o antrajame etape ta pačia eile tenkinama likusi kreditorių reikalavimų dalis (palūkanos ir netesybos).
 
-2. Pirmąja eile yra tenkinami darbuotojų reikalavimai, susiję su darbo santykiais; reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe; fizinių ir juridinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją.
+2. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais; reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe; žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+ 
 
 3. Antrąja eile tenkinami reikalavimai dėl mokesčių ir kitų įmokų į biudžetą ir dėl privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokų; dėl paskolų, suteiktų iš valstybės vardu pasiskolintų lėšų, ir paskolų, gautų su valstybės ar garantijų institucijos, už kurios įsipareigojimų vykdymą garantuoja valstybė, garantija; dėl paramos, suteiktos iš Europos Sąjungos lėšų ir valstybės biudžeto lėšų.
 
 4. Trečiąja eile tenkinami visi likusieji kreditorių reikalavimai.
 
-5. Pirmąja eile tenkinamiems kreditorių reikalavimams neturi būti priskirtas apskaičiuotas, su darbo užmokesčiu susijęs gyventojų pajamų mokestis. Šis reikalavimas turi būti tenkinamas antrąja eile. Kai šio straipsnio 2 dalyje nurodytų darbuotojų reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe buvo tenkinami iš Garantinio fondo lėšų ar kai priimamas sprendimas mokėti žalos atlyginimą už įmonę iš valstybės biudžeto lėšų, o fizinių ir juridinių asmenų reikalavimai sumokėti už perdirbti supirktą žemės ūkio produkciją buvo tenkinami iš Žemės ūkio ministerijos skirtų lėšų, tai dėl šios priežasties atsiradę Garantinio fondo administratoriaus, valstybei atstovaujančio Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus ir Žemės ūkio ministerijos atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
+5. Pirmąja eile tenkinamiems kreditorių reikalavimams neturi būti priskirtas apskaičiuotas, su darbo užmokesčiu susijęs gyventojų pajamų mokestis. Šis reikalavimas turi būti tenkinamas antrąja eile. Kai šio straipsnio 2 dalyje nurodytų darbuotojų reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe buvo tenkinami iš Garantinio fondo lėšų ar kai priimamas sprendimas mokėti žalos atlyginimą už įmonę iš valstybės biudžeto lėšų, o žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus buvo tenkinami iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų, tai dėl šios priežasties atsiradę Garantinio fondo administratoriaus, valstybei atstovaujančio Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus ir Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos atgręžtiniai reikalavimai turi būti tenkinami antrąja eile. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+ 
 
 6. Kiekviename etape kiekvienos paskesnės eilės kreditorių reikalavimai tenkinami po to, kai visiškai patenkinti atitinkamo etapo pirmesnės eilės kreditorių reikalavimai. Jeigu neužtenka lėšų visiems vieno etapo vienos eilės reikalavimams visiškai patenkinti, šie reikalavimai tenkinami proporcingai pagal priklausančią kiekvienam kreditoriui sumą. Jeigu tenkinant pirmąja eile tenkinamus kreditorių reikalavimus teisės aktų nustatyta tvarka iš Garantinio fondo ar Žemės ūkio ministerijos lėšų buvo neišlaikytas šioje dalyje nurodytas reikalavimų tenkinimo proporcingumo principas, tai tenkinant iš įmonės lėšų likusius nepatenkintus šių kreditorių reikalavimus turi būti išlyginami atsiradę proporcingumo neatitikimai.
 
-7. Šio straipsnio 2 dalyje nurodytų bankrutuojančios ar bankrutavusios įmonės darbuotojų reikalavimai, susiję su darbo santykiais, gali būti tenkinami iš Garantinio fondo lėšų, o fizinių ir juridinių asmenų reikalavimai apmokėti už perdirbti supirktą žemės ūkio produkciją gali būti tenkinami Vyriausybės nustatyta tvarka. Darbuotojo ar fizinio ir juridinio asmens patvirtinti reikalavimai mažinami iš nurodytų fondų sumokėtos sumos dydžiu. 
+7. Šio straipsnio 2 dalyje nurodytų įmonės darbuotojų reikalavimai, susiję su darbo santykiais, gali būti tenkinami iš Garantinio fondo lėšų, o įmonės bankroto atveju žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus gali būti tenkinami Lietuvos Respublikos Vyriausybės nustatyta tvarka iki 40 procentų reikalaujamos sumokėti sumos iš Lietuvos Respublikos žemės ūkio ministerijos einamaisiais metais šiam tikslui skirtų valstybės biudžeto lėšų. Darbuotojo patvirtinti reikalavimai mažinami iš nurodytų fondų sumokėtos sumos dydžiu, o žemės ūkio veiklos subjekto patvirtinti reikalavimai sumokėti už parduotus žemės ūkio produktus – iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų sumokėtos sumos dydžiu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+ 
 
 8. Įmonės ir kreditoriaus priešpriešinių vienarūšių reikalavimų įskaitymo atveju kreditoriaus reikalavimai mažinami įskaitytos sumos dydžiu kartu su priskaičiuotomis palūkanomis ir netesybomis. Jeigu įskaitomos sumos neužtenka visiems kreditoriaus reikalavimams tenkinti, pirmiausia tenkinama reikalavimo dalis be palūkanų ir netesybų, likusi reikalavimų dalis tenkinama šiame straipsnyje nustatyta tvarka, atsižvelgiant į šio straipsnio 1 dalyje nustatytą reikalavimų tenkinimą dviem etapais.
 
@@ -1656,4 +1676,9 @@ Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 9, 10, 18 ir 26 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1962, 2015-10-15, paskelbta TAR 2015-10-28, i. k. 2015-17031
 Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 4, 5, 8, 9, 10, 11, 23, 33 ir 36 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2107, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19293
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 3, 11 ir 35 straipsnių pakeitimo įstatymas
 
