@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-06-27
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -362,7 +362,10 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 2. Vyriausiasis valstybinis darbo inspektorius:
 
 
-1) organizuoja Valstybinės darbo inspekcijos darbą, atsako už jos veiklą, organizuoja iš valstybės biudžeto gautų asignavimų naudojimą, nustato vidinio audito vykdymo tvarką;
+1) organizuoja Valstybinės darbo inspekcijos darbą, atsako už jos veiklą, organizuoja iš valstybės biudžeto gautų asignavimų naudojimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-1994, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18262
+ 
 
 
 
@@ -936,3 +939,8 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6, 9, 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1994, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18262
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 8 straipsnio pakeitimo įstatymas
