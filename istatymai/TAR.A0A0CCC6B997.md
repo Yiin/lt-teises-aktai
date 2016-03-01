@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2015-09-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -5168,7 +5168,10 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-8. Jeigu bausmės vykdymo institucija yra gavusi pažymą, kad nukentėjusysis pageidauja, jog jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę, bausmės vykdymo institucijos vadovas arba jo pavaduotojas privalo pranešti nukentėjusiajam apie nuteistojo paleidimą. Nukentėjusiajam apie nuteistojo paleidimą į laisvę pranešama ne vėliau kaip likus trims dienoms iki nuteistojo paleidimo dienos. Tais atvejais, kai nuteistasis iš laisvės atėmimo vietos turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl nuteistojo paleidimo, nukentėjusiajam pranešama iš karto po nuteistojo paleidimo. Nukentėjusiajam apie nuteistojo paleidimą nepranešama, jeigu nuteistasis paskirtą arešto bausmę atlieka poilsio dienomis.
+8. Jeigu bausmės vykdymo institucija yra gavusi pažymą, kad nukentėjusysis pageidauja, jog jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar nuteistojo pabėgimą iš laisvės atėmimo vietos, bausmės vykdymo institucijos vadovas arba jo pavaduotojas apie nuteistojo paleidimą į laisvę ar nuteistojo pabėgimą iš laisvės atėmimo vietos privalo pranešti nukentėjusiajam. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir šių priemonių skyrimo tvarką. Nukentėjusiajam apie nuteistojo paleidimą į laisvę pranešama ne vėliau kaip likus trims dienoms iki nuteistojo paleidimo dienos. Tais atvejais, kai nuteistasis iš laisvės atėmimo vietos turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl nuteistojo paleidimo į laisvę, taip pat kai nuteistasis pabėga iš laisvės atėmimo vietos, nukentėjusiajam pranešama iš karto po nuteistojo paleidimo į laisvę ar nuteistojo pabėgimo iš laisvės atėmimo vietos. Nukentėjusiajam apie nuteistojo paleidimą į laisvę nepranešama, jeigu nuteistasis paskirtą arešto bausmę atlieka poilsio dienomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2195, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20997
+ 
 
 
 Straipsnio pakeitimai:
@@ -5420,16 +5423,26 @@ Laisvės atėmimo bausmę atliekantiems nuteistiesiems draudžiama dirbti:
 
 
 
-Lietuvos Respublikos 
-bausmių vykdymo kodekso 
+Lietuvos Respublikos
+bausmių vykdymo kodekso
 3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2001 m. kovo 15 d. Tarybos pagrindų sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose.
+
+
+1.  2001 m. kovo 15 d. Tarybos pamatinis sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 72).
+
+
+
+
+2. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR (OL 2012 L 315, p. 57).
+
+
 Kodekso papildymas priedu:
 Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17)
- 
+Priedo pakeitimai:
+Nr. XII-2195, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20997
  
 
 
@@ -5526,3 +5539,8 @@ Dėl Lietuvos Respublikos bausmių vykdymo kodekso 99 straipsnio 2 dalies atiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2195, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20997
+Lietuvos Respublikos bausmių vykdymo kodekso 180 straipsnio ir 3 priedo pakeitimo įstatymas
