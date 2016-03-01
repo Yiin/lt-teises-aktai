@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -1571,7 +1571,10 @@ Suimtųjų paleidimo iš tardymo izoliatorių pagrindai yra šie:
 
 
 
-7. Jeigu tardymo izoliatoriaus administracija yra gavusi pažymą, kad nukentėjusysis pageidauja būti informuotas apie būsimą suimtojo paleidimą į laisvę, tardymo izoliatoriaus direktorius privalo pranešti nukentėjusiajam apie suimtojo paleidimą. Nukentėjusiajam apie suimtojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki suimtojo paleidimo dienos. Tais atvejais, kai suimtasis iš tardymo izoliatoriaus turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl suimtojo paleidimo, nukentėjusiajam pranešama iš karto po suimtojo paleidimo.
+7. Jeigu tardymo izoliatoriaus administracija yra gavusi pažymą, kad nukentėjusysis pageidauja būti informuotas apie būsimą suimtojo paleidimą į laisvę ar suimtojo pabėgimą iš tardymo izoliatoriaus, tardymo izoliatoriaus direktorius apie suimtojo paleidimą į laisvę ar suimtojo pabėgimą iš tardymo izoliatoriaus privalo pranešti nukentėjusiajam. Nukentėjusysis taip pat informuojamas apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir šių priemonių skyrimo tvarką. Nukentėjusiajam apie suimtojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki suimtojo paleidimo dienos. Tais atvejais, kai suimtasis iš tardymo izoliatoriaus turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl suimtojo paleidimo į laisvę, taip pat kai suimtasis pabėga iš tardymo izoliatoriaus, nukentėjusiajam pranešama iš karto po suimtojo paleidimo į laisvę ar suimtojo pabėgimo iš tardymo izoliatoriaus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2196, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20998
+ 
 
 
 
@@ -1622,16 +1625,25 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
- 
-Lietuvos Respublikos  suėmimo vykdymo įstatymo 
+Lietuvos Respublikos
+suėmimo vykdymo įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2001 m. kovo 15 d. Tarybos pagrindų sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 72).
+
+
+1. 2001 m. kovo 15 d. Tarybos pamatinis sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 72).
+
+
+
+
+2. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR (OL 2012 L 315, p. 57).
+
+
 Priedo pakeitimai:
 Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
+Nr. XII-2196, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20998
  
 
 
@@ -1690,3 +1702,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo 10 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 16, 22, 23, 24, 27, 28, 30, 32, 34, 37, 38, 41, 42, 44 ir 48 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2196, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20998
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 48 straipsnio ir priedo pakeitimo įstatymas
