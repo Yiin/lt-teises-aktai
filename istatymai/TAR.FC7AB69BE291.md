@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2017-06-09
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -240,92 +240,154 @@ BENDROSIOS NUOSTATOS
 
 
 
-32. Liekamoji energija – technologinio proceso metu išsiskirianti energija, kuri nepanaudojama tame procese.
+32. Integruota į pastatą saulės šviesos energijos elektrinė – elektrinė, kurios elektros energiją generuojantys įrenginiai (saulės šviesos energijos moduliai arba speciali danga) įrengiami į pastato sieną ar stogą (ar jų dalį) ir užtikrina pastato apsaugą nuo atmosferos poveikio (lietaus, sniego, vėjo). Tokios elektrinės įrenginius pašalinus iš pastato sienos ar stogo (ar jų dalies) iš esmės būtų pažeista pastato apsauga nuo atmosferos poveikio. 
+Papildyta straipsnio dalimi:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-33. Maksimali leidžiama prijungti generuojančių šaltinių galia – perdavimo sistemos operatoriaus ir (ar) skirstomųjų tinklų operatoriaus didžiausias techninis sistemos (tinklo), prie kurios (kurio) bus prijungta gamintojo elektrinė, pajėgumų dydis.
+33. Liekamoji energija – technologinio proceso metu išsiskirianti energija, kuri nepanaudojama tame procese.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-34. Mineraliniai degalai – iš gamtinių iškastinių žaliavų arba mineralinės kilmės atliekų pagaminti skystieji arba dujiniai transporto degalai.
+34. Maksimali leidžiama prijungti generuojančių šaltinių galia – perdavimo sistemos operatoriaus ir (ar) skirstomųjų tinklų operatoriaus didžiausias techninis sistemos (tinklo), prie kurios (kurio) bus prijungta gamintojo elektrinė, pajėgumų dydis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-35. Nacionaliniai planiniai rodikliai – šiame įstatyme nustatyta tvarka apskaičiuojami nacionaliniai bendrieji ar tarpiniai planiniai rodikliai, rodantys atsinaujinančių išteklių energijos dalį, palyginti su bendruoju galutiniu energijos suvartojimu, nustatytu laikotarpiu.
+35. Mineraliniai degalai – iš gamtinių iškastinių žaliavų arba mineralinės kilmės atliekų pagaminti skystieji arba dujiniai transporto degalai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-36. Nuosavybės ribų aktas – energijos iš atsinaujinančių išteklių gamintojo ir energetikos tinklų operatoriaus pasirašomas aktas, kuriame nustatoma nuosavybės riba tarp energetikos tinklų naudotojo tinklų ir energetikos tinklų operatoriaus valdomų tinklų.
+36. Nacionaliniai planiniai rodikliai – šiame įstatyme nustatyta tvarka apskaičiuojami nacionaliniai bendrieji ar tarpiniai planiniai rodikliai, rodantys atsinaujinančių išteklių energijos dalį, palyginti su bendruoju galutiniu energijos suvartojimu, nustatytu laikotarpiu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-37. Paramos schema – visuma skatinimo priemonių, kuriomis skatinama naudoti atsinaujinančių išteklių energiją, tarp jų mažinamos atsinaujinančių energijos išteklių naudojimo sąnaudos, didinama energijos iš atsinaujinančių energijos išteklių pardavimo kaina, nustatomi įpareigojimai naudoti atsinaujinančius energijos išteklius ar vartoti iš atsinaujinančių išteklių pagamintą energiją, taip pat kitos priemonės, skatinančios naudoti atsinaujinančius energijos išteklius energijai gaminti ir (ar) iš jų pagamintos energijos vartojimą.
+37. Nuosavybės ribų aktas – energijos iš atsinaujinančių išteklių gamintojo ir energetikos tinklų operatoriaus pasirašomas aktas, kuriame nustatoma nuosavybės riba tarp energetikos tinklų naudotojo tinklų ir energetikos tinklų operatoriaus valdomų tinklų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-38. Perteklinė elektros energija – elektros energijos vartotojų elektros tinkle įrengtose elektrinėse, kuriose elektros energijai gaminti naudojami atsinaujinantys energijos ištekliai, pagaminta ir į elektros tinklus patiekta elektros energija, likusi nuo savo reikmėms ir ūkio poreikiams suvartotos elektros energijos.
+38. Paramos schema – visuma skatinimo priemonių, kuriomis skatinama naudoti atsinaujinančių išteklių energiją, tarp jų mažinamos atsinaujinančių energijos išteklių naudojimo sąnaudos, didinama energijos iš atsinaujinančių energijos išteklių pardavimo kaina, nustatomi įpareigojimai naudoti atsinaujinančius energijos išteklius ar vartoti iš atsinaujinančių išteklių pagamintą energiją, taip pat kitos priemonės, skatinančios naudoti atsinaujinančius energijos išteklius energijai gaminti ir (ar) iš jų pagamintos energijos vartojimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-39. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme.
+39. Perteklinė elektros energija – elektros energijos vartotojų elektros tinkle įrengtose elektrinėse, kuriose elektros energijai gaminti naudojami atsinaujinantys energijos ištekliai, pagaminta ir į elektros tinklus patiekta elektros energija, likusi nuo savo reikmėms ir ūkio poreikiams suvartotos elektros energijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-40. Saulės šilumos energija – saulės spindulinė energija, paverčiama į šilumos energiją saulės kolektoriuose.
+40. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-41. Saulės šviesos energija – iš saulės šviesos tiesiogiai gaunama elektros energija.
+41. Saulės šilumos energija – saulės spindulinė energija, paverčiama į šilumos energiją saulės kolektoriuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-42. Skystieji bioproduktai – iš biomasės pagamintas skystasis kuras elektros energijai, šilumai ir (ar) vėsumai gaminti, išskyrus skystuosius transporto degalus. 
+42. Saulės šviesos energija – iš saulės šviesos tiesiogiai gaunama elektros energija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-43. Statistinis energijos perdavimas – pagal oficialius valstybės statistinius duomenis apskaičiuoto atsinaujinančių išteklių energijos kiekio perdavimas kitai valstybei narei arba gavimas iš kitos valstybės narės.
+43. Skystieji bioproduktai – iš biomasės pagamintas skystasis kuras elektros energijai, šilumai ir (ar) vėsumai gaminti, išskyrus skystuosius transporto degalus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-44. Šilumos siurblys – įrenginys, paverčiantis aeroterminę, geoterminę ar hidroterminę energiją aukštesnės temperatūros šiluma, naudojama pastatams šildyti ir (ar) karštam vandeniui ruošti.
+44. Statistinis energijos perdavimas – pagal oficialius valstybės statistinius duomenis apskaičiuoto atsinaujinančių išteklių energijos kiekio perdavimas kitai valstybei narei arba gavimas iš kitos valstybės narės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-45. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+45. Šilumos siurblys – įrenginys, paverčiantis aeroterminę, geoterminę ar hidroterminę energiją aukštesnės temperatūros šiluma, naudojama pastatams šildyti ir (ar) karštam vandeniui ruošti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-46. Valstybė narė – Europos Sąjungos valstybė narė ir (ar) Europos ekonominės erdvės valstybė. 
+46. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-47. Vėjo energija – oro judėjimo energija, naudojama energijai gaminti.
+47. Valstybė narė – Europos Sąjungos valstybė narė ir (ar) Europos ekonominės erdvės valstybė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-48. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais įmonėms priskiriami privalomi įpareigojimai, siekiant įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus atsinaujinančios energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
+48. Vėjo energija – oro judėjimo energija, naudojama energijai gaminti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme, Statybos įstatyme, Vandens įstatyme ir Žemės įstatyme.
+49. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais įmonėms priskiriami privalomi įpareigojimai, siekiant įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus atsinaujinančios energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
+
+
+
+
+50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme, Statybos įstatyme, Vandens įstatyme ir Žemės įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 Straipsnio pakeitimai:
@@ -469,7 +531,17 @@ Atsinaujinančių išteklių energetikos sektorių šio įstatymo nustatyta tvar
 
 
 
-9) savivaldybės.
+9) Valstybinė energetikos inspekcija prie Energetikos ministerijos; 
+Papildyta straipsnio punktu:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
+
+
+
+
+10) savivaldybės.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
  
 
 
@@ -694,7 +766,18 @@ Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
 
 
 
-13) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+13) kartu su Aplinkos ministerija nustato reikalavimus integruotoms į pastatą saulės šviesos energijos elektrinėms įrengti ir šių elektrinių integravimo įvertinimo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
+
+
+
+
+14) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
@@ -886,7 +969,10 @@ Valstybinė kainų ir energetikos kontrolės komisija:
 
 
 
-7) tvirtina atsinaujinančių išteklių energetikos įmonių technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarkos aprašą;
+7) Neteko galios nuo 2016-03-01
+Straipsnio punkto naikinimas:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
@@ -928,6 +1014,19 @@ Valstybinė kainų ir energetikos kontrolės komisija:
 
 Straipsnio pakeitimai:
 Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
+ 
+
+
+
+
+111 straipsnis. Valstybinės energetikos inspekcijos prie Energetikos ministerijos kompetencija
+
+
+Valstybinė energetikos inspekcija prie Energetikos ministerijos nustato įrengtos saulės šviesos energijos elektrinės technologinį tipą, atlieka kitas šio ir kitų įstatymų nustatytas funkcijas atsinaujinančių išteklių energetikos sektoriuje. 
+
+
+Papildyta straipsniu:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
  
 
 
@@ -1367,12 +1466,18 @@ Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
 
 
 
-2. Elektros energijos gamyba iš atsinaujinančių energijos išteklių skatinama Vyriausybės nustatyta viešuosius interesus atitinkančių paslaugų teikimo tvarka sumokant šiam gamintojui nustatyto fiksuoto tarifo ir šio gamintojo Vyriausybės nustatyta tvarka parduotos elektros energijos kainos skirtumą, kainos, kuri turi būti ne mažesnė kaip praėjusio mėnesio vidutinė rinkos kaina, apskaičiuojama Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka. 
+2. Elektros energijos gamyba iš atsinaujinančių energijos išteklių skatinama Vyriausybės nustatyta viešuosius interesus atitinkančių paslaugų teikimo tvarka sumokant šiam gamintojui nustatyto fiksuoto tarifo ir šio gamintojo Vyriausybės nustatyta tvarka parduotos elektros energijos kainos, kuri turi būti ne mažesnė kaip einamųjų kalendorinių metų rinkos kaina, apskaičiuojama Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka, skirtumą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
 
-3. Fiksuoti tarifai nustatomi ir skatinimo kvotos didesnės kaip 10 kW įrengtosios galios elektrinėms, atitinkančioms šio įstatymo 13 straipsnio 3 dalyje nurodytus uždavinius, paskirstomos aukciono būdu. Skatinimo kvotas ir aukcionų regionus, taip pat skatinimo kvotų paskirstymo tvarką ne didesnės kaip 10 kW įrengtosios galios elektrinėms nustato ir tvirtina Vyriausybė. Aukcionai organizuojami elektrinių prijungimo prie elektros tinklų regionuose atskirai kiekvienai gamintojų grupei Valstybinės kainų ir energetikos kontrolės komisijos nustatytais terminais, bet ne vėliau kaip per 180 kalendorinių dienų nuo gamintojo prašymo organizuoti aukcioną konkrečiai gamintojų grupei jo nurodytame regione pateikimo dienos. Aukcionuose turi teisę dalyvauti visi gamintojai, pasirašę šio įstatymo 14 straipsnio 11 dalyje nurodytą ketinimų protokolą ir pateikę 14 straipsnio 13 dalyje nurodytą gamintojo prievolių įvykdymo užtikrinimą. Fiksuoto tarifo didžiausią galimą dydį kas ketvirtį nustato Valstybinė kainų ir energetikos kontrolės komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią pageidaujamą fiksuotą tarifą įvertinus tai, kad vienoje aukciono zonoje didžiausia elektrinių parko įrengtoji galia negali sudaryti daugiau kaip 40 procentų maksimalios leidžiamos prijungti generuojančių šaltinių galios regione. Jeigu dviejų ar daugiau aukciono dalyvių pateikti pasiūlymai dėl pageidaujamo fiksuoto tarifo dydžio sutampa, laimėtoju pripažįstamas dalyvis, pasiūlęs statyti didesnės galios elektrinių parką. Jeigu sutampa pasiūlymai ir dėl elektrinių parko galios, skatinimo kvota atitinkamame prijungimo taške tokiems aukciono dalyviams paskirstoma proporcingai jų pateiktos galios pasiūlymams.
+3. Fiksuoti tarifai nustatomi ir skatinimo kvotos didesnės kaip 10 kW įrengtosios galios elektrinėms, atitinkančioms šio įstatymo 13 straipsnio 3 dalyje nurodytus uždavinius, paskirstomos aukciono būdu. Skatinimo kvotas ir aukcionų regionus, taip pat skatinimo kvotų paskirstymo tvarką ne didesnės kaip 10 kW įrengtosios galios elektrinėms nustato ir tvirtina Vyriausybė. Aukcionai organizuojami elektrinių prijungimo prie elektros tinklų regionuose atskirai kiekvienai gamintojų grupei Valstybinės kainų ir energetikos kontrolės komisijos nustatytais terminais, bet ne vėliau kaip per 180 kalendorinių dienų nuo gamintojo prašymo organizuoti aukcioną konkrečiai gamintojų grupei jo nurodytame regione pateikimo dienos. Aukcionuose turi teisę dalyvauti visi gamintojai, pasirašę šio įstatymo 14 straipsnio 11 dalyje nurodytą ketinimų protokolą ir pateikę šio įstatymo 14 straipsnio 13 dalyje nurodytą gamintojo prievolių įvykdymo užtikrinimą. Fiksuoto tarifo didžiausią galimą dydį kas pusę metų nustato Valstybinė kainų ir energetikos kontrolės komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią pageidaujamą fiksuotą tarifą, įvertinus tai, kad vienoje aukciono zonoje didžiausia elektrinių parko įrengtoji galia negali sudaryti daugiau kaip 40 procentų maksimalios leidžiamos prijungti generuojančių šaltinių galios regione. Jeigu dviejų ar daugiau aukciono dalyvių pateikti pasiūlymai dėl pageidaujamo fiksuoto tarifo dydžio sutampa, laimėtoju pripažįstamas dalyvis, pasiūlęs statyti didesnės galios elektrinių parką. Jeigu sutampa pasiūlymai ir dėl elektrinių parko galios, skatinimo kvota atitinkamame prijungimo taške tokiems aukciono dalyviams paskirstoma proporcingai jų pateiktos galios pasiūlymams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
@@ -1457,7 +1562,10 @@ Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
 
 
 
-6. Valstybinė kainų ir energetikos kontrolės komisija ne dažniau kaip kas ketvirtį įvertina elektros energijos gamybos iš skirtingų atsinaujinančių energijos išteklių plėtrą, atsižvelgdama į faktinį per praėjusius kalendorinius metus pagamintą elektros energijos kiekį, veikiančių elektrinių įrengtųjų galių sumą ir statomų elektrinių numatytų įrengti galių sumą. Atsižvelgiant į elektros energijos gamybos iš skirtingų atsinaujinančių energijos išteklių plėtrą ir šios plėtros atitiktį Nacionaliniame atsinaujinančių išteklių energijos naudojimo plėtros veiksmų plane nustatytiems tikslams ir uždaviniams, peržiūrimi fiksuoto tarifo didžiausi galimi dydžiai. Peržiūrėti fiksuotų tarifų didžiausi galimi dydžiai taikomi tik gamintojams, kurių elektrinėms leidimas gaminti elektros energiją išduotas po šių tarifų įsigaliojimo dienos.
+6. Valstybinė kainų ir energetikos kontrolės komisija ne dažniau kaip kas pusę metų įvertina elektros energijos gamybos iš skirtingų atsinaujinančių energijos išteklių plėtrą, atsižvelgdama į faktinį per praėjusius kalendorinius metus pagamintą elektros energijos kiekį, veikiančių elektrinių įrengtųjų galių sumą ir statomų elektrinių numatytų įrengti galių sumą. Atsižvelgiant į elektros energijos gamybos iš skirtingų atsinaujinančių energijos išteklių plėtrą ir šios plėtros atitiktį Nacionaliniame atsinaujinančių išteklių energijos naudojimo plėtros veiksmų plane nustatytiems tikslams ir uždaviniams, peržiūrimi fiksuoto tarifo didžiausi galimi dydžiai. Peržiūrėti fiksuotų tarifų didžiausi galimi dydžiai taikomi tik gamintojams, kurių elektrinėms leidimas gaminti elektros energiją išduotas po šių tarifų įsigaliojimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
@@ -1482,7 +1590,10 @@ Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
 
 
 
-11. Elektrinės, naudojančios atsinaujinančius energijos išteklius, kurioms netaikomos šiame straipsnyje numatytos skatinimo priemonės, gali būti statomos vadovaujantis bendraisiais teisės aktų reikalavimais. Šio įstatymo 13 straipsnio 3 dalyje nustatyti įrengtosios galios dydžiai ir (ar) Vyriausybės nustatoma didžiausia elektros energijos gamybos skatinimo kvota neriboja tokių elektrinių statybos ir (ar) eksploatavimo. Elektros energija, pagaminta elektrinėse, kurioms netaikoma skatinimo priemonė, prekiaujama Prekybos elektros energija taisyklėse nustatyta tvarka ir būdais.
+11. Elektrinės, naudojančios atsinaujinančius energijos išteklius, kurioms netaikomos šiame straipsnyje numatytos skatinimo priemonės, gali būti statomos vadovaujantis bendraisiais teisės aktų reikalavimais. Šio įstatymo 13 straipsnio 3 dalyje nustatyti įrengtosios galios dydžiai ir (ar) Vyriausybės nustatoma didžiausia elektros energijos gamybos skatinimo kvota neriboja tokių elektrinių statybos ir (ar) eksploatavimo. Elektros energija, pagaminta elektrinėse, kurioms netaikoma skatinimo priemonė, taip pat elektros energija, pagaminta elektrinėse jų technologinių bandymų metu iki leidimo gaminti elektros energiją išdavimo dienos, prekiaujama Prekybos elektros energija taisyklėse nustatyta tvarka ir būdais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
 
 
 
@@ -2583,6 +2694,15 @@ REIKALAVIMAI, TAIKOMI energijOS IŠ atsinaujinančių išteklių GAMINTOJAMS
 
 
 3. Jeigu yra nustatyti Europos Sąjungos standartai, įskaitant ekologinius ženklus, energijos duomenų etiketes ir kitas Europos Sąjungos standartizacijos įstaigų nustatytas techninių normatyvų sistemas, šio straipsnio 2 dalyje nurodytos techninės specifikacijos parengiamos pagal tokius standartus. Techninėse specifikacijose nenurodoma, kur įrenginiai turi būti sertifikuojami. 
+
+
+
+
+4. Gamintojas, kuris naudojasi ar ketina pasinaudoti paramos schema, kai jo eksploatuojamos elektrinės elektros energijos gamybos įrenginiuose elektros energijos gamybai naudojami atsinaujinantys energijos ištekliai ir iškastinis kuras, privalo kiekviename elektros energijos gamybos įrenginyje įrengti atskirus elektros energijos apskaitos prietaisus, fiksuojančius pagamintos elektros energijos kiekį. Kai viename elektros energijos gamybos įrenginyje elektros energijos gamybai naudojami atsinaujinantys energijos ištekliai ir iškastinis kuras, elektros energijos, pagamintos naudojant atsinaujinančius energijos išteklius ir iškastinį kurą, kiekiai apskaičiuojami atsižvelgiant į sunaudoto kuro balansą, kuris nustatomas ir Valstybinės energetikos inspekcijos prie Energetikos ministerijos patikrinamas pagal Lietuvos Respublikos metrologijos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus atitinkančių apskaitos prietaisų mėnesinius rodmenis, aiškiai atskiriančius į elektros energijos gamybos įrenginį patiektos energijos kiekius iš atsinaujinančius energijos išteklius ir iškastinį kurą naudojančių kurą deginančių įrenginių.
+TAR pastaba. 46 straipsnio 4 dalies nuostatos taikomos asmenims, teisės aktų nustatyta tvarka įgijusiems teisę į Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1 ir 6 punktuose numatytas skatinimo priemones.
+Asmenys, kurių elektrinėse neįrengti 46 straipsnio 4 dalyje nurodyti apskaitos prietaisai, privalo per 6 mėnesius nuo įstatymo Nr. XII-2231 įsigaliojimo (2016-03-01) juos įrengti.
+Papildyta straipsnio dalimi:
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
  
 
 
@@ -3670,3 +3790,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2185, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20142
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 20 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 4, 6, 11, 20, 46 straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
