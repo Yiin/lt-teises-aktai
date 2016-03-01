@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-02-29
+Suvestinė redakcija nuo 2016-03-01 iki 2016-07-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
- 
-TAR pastaba. Šio įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo procedūros pradžios ir vykdymo elektroniniu būdu įsigalioja 2016 m. sausio 9 d.  Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartojimo ginčai baigiami nagrinėti ir sprendimai priimami bei vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusiomis teisės normomis. Iki 2015 m. gruodžio 31 d. visus Valstybinės vartotojų teisių apsaugos tarnybos kompetencijai priskirtus vartojimo ginčus nagrinėja Valstybinės vartotojų teisių apsaugos tarnybos sudaryta komisija.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 5, 10, 11, 12, 40 straipsnių, šeštojo skirsnio ir Įstatymo priedo pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2007-03-01:
 Nr. X-1014, 2007-01-12, Žin., 2007, Nr. 12-488 (2007-01-30)
@@ -745,6 +740,19 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 
 
+121 straipsnis. Vartotojų teisių informacinė sistema
+
+
+Vartotojų teisių informacinė sistema yra valstybės informacinė sistema, per kurią vartotojai elektroniniu būdu gali pateikti prašymus ir skundus, o valstybės ir savivaldybių institucijos, įgyvendinančios savo funkcijas vartotojų teisių apsaugos srityje, Vyriausybės nustatyta tvarka priima šiuos prašymus ir skundus ir pateikia atsakymus į juos bei savo sprendimus, taip pat teikia vartotojų teisių pažeidimo prevenciją užtikrinančias elektronines paslaugas ir informaciją apie vartotojų teisių apsaugą.
+
+
+Papildyta straipsniu:
+Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
+ 
+
+
+
+
 13 straipsnis. Vartotojų asociacijos 
 
 
@@ -942,7 +950,7 @@ Lietuvos nacionalinis radijas ir televizija iš skirtų valstybės biudžeto asi
 ŠEŠTASIS SKIRSNIS
 VARTOTOJŲ TEISIŲ GYNIMAS NE TEISME
  
-TAR pastaba. Šio įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo procedūros pradžios ir vykdymo elektroniniu būdu įsigalioja 2016 m. sausio 9 d.
+TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo procedūros pradžios ir vykdymo elektroniniu būdu įsigalioja 2016 m. sausio 9 d.
  
 
 
@@ -3160,3 +3168,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10, 12, 19 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 5, 10, 11, 12, 40 straipsnių, šeštojo skirsnio ir Įstatymo priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 papildymo 12-1 straipsniu įstatymas
