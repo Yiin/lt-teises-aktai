@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2015-11-28 iki 2016-03-25
+Suvestinė redakcija nuo 2016-03-26 iki 2018-11-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -144,10 +144,12 @@ Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
 8 straipsnis. Rinkimų rengimo ir vykdymo išlaidos
 
-Seimo rinkimų rengimo ir vykdymo išlaidos apmokamos iš valstybės ir savivaldybių biudžetų. Iš valstybės biudžeto apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti bei už rinkimų komisijų narių ir jas aptarnaujančio personalo darbą. Iš savivaldybių biudžetų apmokama už balsavimo bei apygardų ir apylinkių rinkimų komisijų būstinių patalpų išlaikymą, balsavimo patalpų įrengimo inventoriaus įsigijimą ir išsaugojimą. Už rinkėjų pavėžėjimą į rinkimų apylinkes balsuoti, kai pavėžėjimas organizuojamas Vyriausiosios rinkimų komisijos nustatyta tvarka, apmokama iš valstybės ir savivaldybių biudžetų. Jeigu savivaldybė nesuteikia tinkamų patalpų ar inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės biudžeto lėšos. Šiuo atveju faktines išlaidas balsavimo patalpoms ir inventoriui per 2 mėnesius po rinkimų Vyriausioji rinkimų komisija ne ginčo tvarka išieško iš savivaldybės.
+Seimo rinkimų rengimo ir vykdymo išlaidos apmokamos iš valstybės ir savivaldybių biudžetų. Iš valstybės biudžeto apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti bei už rinkimų komisijų narių ir jas aptarnaujančio personalo bei balsavimo komisijų darbą. Iš savivaldybių biudžetų apmokama už balsavimo bei apygardų ir apylinkių rinkimų komisijų būstinių patalpų išlaikymą, balsavimo patalpų įrengimo inventoriaus įsigijimą ir išsaugojimą. Už rinkėjų pavėžėjimą į rinkimų apylinkes balsuoti, kai pavėžėjimas organizuojamas Vyriausiosios rinkimų komisijos nustatyta tvarka, apmokama iš valstybės ir savivaldybių biudžetų. Jeigu savivaldybė nesuteikia tinkamų patalpų ar inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės biudžeto lėšos. Šiuo atveju faktines išlaidas balsavimo patalpoms ir inventoriui per 2 mėnesius po rinkimų Vyriausioji rinkimų komisija ne ginčo tvarka išieško iš savivaldybės.
 
 Straipsnio pakeitimai:
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
+Straipsnio pakeitimai:
+Nr. XII-2265, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06347
  
 
 ANTRASIS SKIRSNIS
@@ -1309,6 +1311,11 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 7. Laivuose, kuriuose organizuoti balsavimą pagal šio įstatymo reikalavimus nėra sąlygų, balsavimas neorganizuojamas.
 
+8. Balsavimo komisijų pirmininkai ir nariai už darbą balsavimo komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės nustatytus tarifus.
+Papildyta straipsnio dalimi:
+Nr. XII-2265, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06347
+ 
+
 Straipsnio pakeitimai:
 Nr. X-397, 2005-11-17, Žin., 2005, Nr. 143-5171 (2005-12-08)
  
@@ -2141,4 +2148,9 @@ Dėl Lietuvos Respublikos Seimo rinkimų įstatymo 9 straipsnio 1 dalies (2012 m
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 5-1, 9, 10, 11, 15, 17, 18, 25, 26, 35, 37, 38, 39, 41, 43, 51, 55, 56, 61, 67-1, 89, 91, 92, 97 straipsnių pakeitimo ir Įstatymo papildymo 93-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2265, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06347
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 8 ir 68 straipsnių pakeitimo įstatymas
 
