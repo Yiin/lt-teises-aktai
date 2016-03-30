@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e08738b09f4b11e58fd1fc0b9bba68a7"
 
 # Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
 
+Suvestinė redakcija nuo 2016-03-30
+ 
+Įstatymas paskelbtas: TAR 2015-12-10, i. k. 2015-19621
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KARIUOMENĖS DRAUSMĖS STATUTO PATVIRTINIMO ĮSTATYMO NR. VIII-1191 PAKEITIMO IR LIETUVOS KARIUOMENĖS DRAUSMĖS STATUTO 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 STRAIPSNIŲ PAKEITIMO IR 47 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
@@ -541,7 +548,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo 2, 4 ir 5 straipsniai įsigalioja 2016 m. balandžio 1 d.
+2. Šio įstatymo 2, 4 ir 5 straipsniai įsigalioja 2017 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
+ 
 
 
 
@@ -561,3 +571,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
+Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2101 17 straipsnio pakeitimo įstatymas
