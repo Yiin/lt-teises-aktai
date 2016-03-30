@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2016-03-29
+Suvestinė redakcija nuo 2016-03-30 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
  
@@ -43,6 +43,13 @@ BENDROSIOS NUOSTATOS
 
 
 3. Šis įstatymas netaikomas Lietuvos kariams ir civilinės krašto apsaugos tarnybos statutiniams valstybės tarnautojams, dalyvaujantiems užsienyje vykstančiose tarptautinėse karinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, kariams, siunčiamiems į užsienio valstybių ir tarptautines karines ar gynybos institucijas, pedagoginiams darbuotojams, siunčiamiems dirbti į Europos mokyklas, Lietuvos mokytojams, dėstytojams, kultūros ir meno darbuotojams, vykstantiems į užsienio valstybes dirbti lietuvių švietimo, kultūros įstaigose, aukštųjų mokyklų lituanistikos ar baltistikos centruose ir lietuvių bendruomenėse, taip pat asmenims, kurių delegavimas negali įvykti pagal jų veiklą reglamentuojančius teisės aktus.
+
+
+
+
+4. Šis įstatymas netaikomas asmenims į Europos Sąjungos rinkimų stebėjimo misijas siųsti, išskyrus šio įstatymo 10, 11, 12, 13 ir 14 straipsnius, kurie mutatis mutandis taikomi pretendentų vykti į šias misijas atrankai.
+Papildyta straipsnio dalimi:
+Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
  
 
 
@@ -81,7 +88,10 @@ Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010IST
 
 
 
-6. Kiti asmenys – asmenys, dirbantys pagal darbo sutartis, ir savarankiškai dirbantys asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 2 straipsnio 8 dalyje.
+6. Kiti asmenys – asmenys, kurie nėra karjeros valstybės tarnautojai, statutiniai valstybės tarnautojai ar prokurorai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
+ 
 
 
 
@@ -426,10 +436,12 @@ DELEGAVIMO REZERVAS
 13 straipsnis. Pretendentų atranka iš delegavimo rezervo 
 
 
-Pretendentų atranką iš delegavimo rezervo organizuoja ir vykdo Užsienio reikalų ministerija, atsižvelgdama į konkrečioms pareigoms ar pareigybėms civilinėje tarptautinėje operacijoje ar misijoje, taip pat pareigoms ar pareigybėms tarptautinėje, Europos Sąjungos institucijoje ir užsienio valstybės institucijoje, susijusioms su krizių valdymu ir bendra Europos Sąjungos užsienio, saugumo ir gynybos politika, keliamus reikalavimus. Tam tikslui Užsienio reikalų ministerijoje sudaroma atrankos komisija. Jos nuostatus ir sudėtį tvirtina užsienio reikalų ministras. Į atrankos komisijos sudėtį gali būti įtraukiami asmenys iš kitų valstybės institucijų ir įstaigų, su kurių funkcijomis yra susijęs pareigų ar pareigybių civilinėje tarptautinėje operacijoje ar misijoje, taip pat pareigų ar pareigybių tarptautinėje, Europos Sąjungos institucijoje ir užsienio valstybės institucijoje, susijusių su krizių valdymu ir bendra Europos Sąjungos užsienio, saugumo ir gynybos politika, pobūdis.
+Pretendentų atranką iš delegavimo rezervo organizuoja ir vykdo Užsienio reikalų ministerija, atsižvelgdama į konkrečioms pareigoms ar pareigybėms civilinėje tarptautinėje operacijoje ar misijoje, taip pat pareigoms ar pareigybėms tarptautinėje, Europos Sąjungos institucijoje ir užsienio valstybės institucijoje, susijusioms su krizių valdymu ir bendra Europos Sąjungos užsienio, saugumo ir gynybos politika, keliamus reikalavimus, taip pat į tarptautinių ir Europos Sąjungos institucijų ar užsienio valstybių institucijų nustatytus pretendentų atrankos principus ir kriterijus. Vykdant atranką, siekiama užtikrinti dalyvaujančiųjų civilinėse tarptautinėse operacijose ar misijose kaitą ir sudaryti galimybes jose dalyvauti naujiems pretendentams. Tam tikslui Užsienio reikalų ministerijoje sudaroma atrankos komisija. Jos nuostatus ir sudėtį tvirtina užsienio reikalų ministras. Į atrankos komisijos sudėtį gali būti įtraukiami asmenys iš kitų valstybės institucijų ir įstaigų, su kurių funkcijomis yra susijęs pareigų ar pareigybių civilinėje tarptautinėje operacijoje ar misijoje, taip pat pareigų ar pareigybių tarptautinėje, Europos Sąjungos institucijoje ir užsienio valstybės institucijoje, susijusių su krizių valdymu ir bendra Europos Sąjungos užsienio, saugumo ir gynybos politika, pobūdis.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
  
-
-
 
 
 
@@ -869,3 +881,8 @@ Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos ins
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010ISTA0XI-2201
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 2, 5, 14, 16, 20, 22, 23 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 1, 2 ir 13 straipsnių pakeitimo įstatymas
