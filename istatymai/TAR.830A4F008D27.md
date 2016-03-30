@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/830a4f008d2711e58711b884b80daa4f"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 3, 4, 5, 6, 7, 8 ir 30 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2016-03-30
+ 
+Įstatymas paskelbtas: TAR 2015-11-17, i. k. 2015-18258
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO NR. VIII-1509 2, 3, 4, 5, 6, 7, 8 IR 30 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -296,7 +303,10 @@ Pakeisti 30 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-2. Šio įstatymo 6 straipsnis įsigalioja 2016 m. balandžio 1 d.
+2. Šio įstatymo 6 straipsnis įsigalioja 2017 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-2281, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06432
+ 
 
 
 
@@ -314,3 +324,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2281, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06432
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 3, 4, 5, 6, 7, 8 ir 30 straipsnių pakeitimo įstatymo Nr. XII-1991 9 straipsnio pakeitimo įstatymas
