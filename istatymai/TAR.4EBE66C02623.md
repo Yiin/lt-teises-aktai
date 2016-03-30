@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-03-26 iki 2016-03-29
+Suvestinė redakcija nuo 2016-03-30 iki 2016-04-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -44,10 +44,12 @@ Vilnius
 2 straipsnis. Administracinių nusižengimų kodekso įsigaliojimas
 
 
-Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
+Administracinių nusižengimų kodeksas įsigalioja 2017 m. sausio 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
  
-
-
 
 
 
@@ -55,7 +57,7 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 3 straipsnis. Administracinių teisės pažeidimų perkvalifikavimas ir atleidimas nuo atsakomybės
 
 
-1. Jeigu asmuo iki 2016 m. balandžio 1 d. padarė administracinį teisės pažeidimą, kuris atitinka Administracinių nusižengimų kodekse numatyto administracinio nusižengimo požymius, ši veika perkvalifikuojama pagal atitinkamą Administracinių nusižengimų kodekso straipsnį, kai jame nustatyta švelnesnė administracinė atsakomybė.
+1. Jeigu asmuo iki 2017 m. sausio 1 d. padarė administracinį teisės pažeidimą, kuris atitinka Administracinių nusižengimų kodekse numatyto administracinio nusižengimo požymius, ši veika perkvalifikuojama pagal atitinkamą Administracinių nusižengimų kodekso straipsnį, kai jame nustatyta švelnesnė administracinė atsakomybė.
 
 
 
@@ -63,7 +65,7 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 2. Perkvalifikuojant veiką pagal šio straipsnio 1 dalį, švelnesnė administracinė atsakomybė yra šiais atvejais:
 
 
-1) Administracinių nusižengimų kodekso straipsnyje už administracinį nusižengimą nustatyta švelnesnė administracinė nuobauda negu Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1985 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas), arba švelnesnė administracinio poveikio priemonė negu Administracinių teisės pažeidimų kodekse nustatyta papildoma nuobauda, arba Administracinių nusižengimų kodekse nenustatyta administracinio poveikio priemonių, nors Administracinių teisės pažeidimų kodekse buvo nustatytos papildomos administracinės nuobaudos. Taikant šį punktą, laikoma, kad įspėjimas yra švelnesnė administracinė nuobauda negu bauda, o suteiktos specialiosios teisės atėmimas – švelnesnė administracinio poveikio priemonė (papildoma administracinė nuobauda) negu turto konfiskavimas;
+1) Administracinių nusižengimų kodekso straipsnyje už administracinį nusižengimą nustatyta švelnesnė administracinė nuobauda negu Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas), arba švelnesnė administracinio poveikio priemonė negu Administracinių teisės pažeidimų kodekse nustatyta papildoma nuobauda, arba Administracinių nusižengimų kodekse nenustatyta administracinio poveikio priemonių, nors Administracinių teisės pažeidimų kodekse buvo nustatytos papildomos administracinės nuobaudos. Taikant šį punktą, laikoma, kad įspėjimas yra švelnesnė administracinė nuobauda negu bauda, o suteiktos specialiosios teisės atėmimas – švelnesnė administracinio poveikio priemonė (papildoma administracinė nuobauda) negu turto konfiskavimas;
 
 
 
@@ -85,35 +87,37 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 
 
 
-3. Administracinių teisės pažeidimų bylų teisena, kuri pradėta dėl iki 2016 m. balandžio 1 d. padarytų veikų, pagal Administracinių nusižengimų kodeksą neturinčių administracinio nusižengimo požymių, nutraukiama vadovaujantis Administracinių nusižengimų kodekso 591 straipsnio 6 punktu.
+3. Administracinių teisės pažeidimų bylų teisena, kuri pradėta dėl iki 2017 m. sausio 1 d. padarytų veikų, pagal Administracinių nusižengimų kodeksą neturinčių administracinio nusižengimo požymių, nutraukiama vadovaujantis Administracinių nusižengimų kodekso 591 straipsnio 6 punktu.
 
 
 
 
-4. Administracinių teisės pažeidimų, kuriuos iki 2016 m. balandžio 1 d. padarė asmenys, kuriems iki administracinio teisės pažeidimo padarymo buvo sukakę keturiolika, bet nesukakę šešiolika metų, ir už kuriuos pagal Administracinių teisės pažeidimų kodekso 13 straipsnio 2 dalį atsako tėvai arba globėjai (rūpintojai), bylų teisena tokių asmenų tėvams ar globėjams (rūpintojams) nutraukiama vadovaujantis Administracinių nusižengimų kodekso 591 straipsnio 1 punktu ir taikomos Administracinių nusižengimų kodekso 6 straipsnio 2 dalies nuostatos.
+4. Administracinių teisės pažeidimų, kuriuos iki 2017 m. sausio 1 d. padarė asmenys, kuriems iki administracinio teisės pažeidimo padarymo buvo sukakę keturiolika, bet nesukakę šešiolika metų, ir už kuriuos pagal Administracinių teisės pažeidimų kodekso 13 straipsnio 2 dalį atsako tėvai arba globėjai (rūpintojai), bylų teisena tokių asmenų tėvams ar globėjams (rūpintojams) nutraukiama vadovaujantis Administracinių nusižengimų kodekso 591 straipsnio 1 punktu ir taikomos Administracinių nusižengimų kodekso 6 straipsnio 2 dalies nuostatos.
 
 
 
 
-5. Kai iki 2016 m. balandžio 1 d. padaryta veika atitinka Administracinių nusižengimų kodekso 12 straipsnyje nurodytų administracinių nusižengimų požymius, teismas, institucija ar pareigūnas, kurių žinioje yra šio administracinio teisės pažeidimo byla, sprendžia klausimą dėl Administracinių nusižengimų kodekso 12 straipsnio taikymo. Pritaikius Administracinių nusižengimų kodekso 12 straipsnį, padaryta veika perkvalifikuojama pagal atitinkamą Administracinių nusižengimų kodekso straipsnį ir administracinio nusižengimo teisena nutraukiama pagal Administracinių nusižengimų kodekso 591 straipsnio 4 punktą.
+5. Kai iki 2017 m. sausio 1 d. padaryta veika atitinka Administracinių nusižengimų kodekso 12 straipsnyje nurodytų administracinių nusižengimų požymius, teismas, institucija ar pareigūnas, kurių žinioje yra šio administracinio teisės pažeidimo byla, sprendžia klausimą dėl Administracinių nusižengimų kodekso 12 straipsnio taikymo. Pritaikius Administracinių nusižengimų kodekso 12 straipsnį, padaryta veika perkvalifikuojama pagal atitinkamą Administracinių nusižengimų kodekso straipsnį ir administracinio nusižengimo teisena nutraukiama pagal Administracinių nusižengimų kodekso 591 straipsnio 4 punktą.
 
 
 
 
-6. Iki 2016 m. balandžio 1 d. padarytas veikas, kurios turi Administracinių nusižengimų kodekso 13–21 straipsniuose nurodytų požymių, teismas, institucija ar pareigūnas, kurių žinioje yra to administracinio teisės pažeidimo byla, perkvalifikuoja pagal atitinkamą Administracinių nusižengimų kodekso straipsnį ir nutraukia teiseną pagal Administracinių nusižengimų kodekso 591 straipsnio 4 punktą arba pritaiko Administracinių nusižengimų kodekso 35 straipsnio 1 dalies 5 punktą.
+6. Iki 2017 m. sausio 1 d. padarytas veikas, kurios turi Administracinių nusižengimų kodekso 13–21 straipsniuose nurodytų požymių, teismas, institucija ar pareigūnas, kurių žinioje yra to administracinio teisės pažeidimo byla, perkvalifikuoja pagal atitinkamą Administracinių nusižengimų kodekso straipsnį ir nutraukia teiseną pagal Administracinių nusižengimų kodekso 591 straipsnio 4 punktą arba pritaiko Administracinių nusižengimų kodekso 35 straipsnio 1 dalies 5 punktą.
 
 
 
 
-7. Kai iki 2016 m. balandžio 1 d. padarytas administracinis teisės pažeidimas, išskyrus Administracinių teisės pažeidimų kodekso 181 ir 1811 straipsniuose numatytus pažeidimus, atitinka Administracinių nusižengimų kodekse numatyto administracinio nusižengimo, už kurį gali būti skiriamas įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose), požymius, teismas, institucija ar pareigūnas, kurių žinioje yra šio administracinio teisės pažeidimo byla, perkvalifikuoja veiką pagal atitinkamą Administracinių nusižengimų kodekso straipsnį. Šiuo atveju teismas, institucija ar pareigūnas, nagrinėsiantys bylą, turi teisę taikyti Administracinių nusižengimų kodekso 30 straipsnį, 35 straipsnio 1 dalies 10 punktą.
+7. Kai iki 2017 m. sausio 1 d. padarytas administracinis teisės pažeidimas, išskyrus Administracinių teisės pažeidimų kodekso 181 ir 1811 straipsniuose numatytus pažeidimus, atitinka Administracinių nusižengimų kodekse numatyto administracinio nusižengimo, už kurį gali būti skiriamas įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose), požymius, teismas, institucija ar pareigūnas, kurių žinioje yra šio administracinio teisės pažeidimo byla, perkvalifikuoja veiką pagal atitinkamą Administracinių nusižengimų kodekso straipsnį. Šiuo atveju teismas, institucija ar pareigūnas, nagrinėsiantys bylą, turi teisę taikyti Administracinių nusižengimų kodekso 30 straipsnį, 35 straipsnio 1 dalies 10 punktą.
 
 
 
 
-8. Iki 2016 m. balandžio 1 d. padarytos Administracinių nusižengimų kodekse numatytų administracinių nusižengimų požymius atitinkančios veikos, už kurių padarymą Administracinių nusižengimų kodekse nustatyta tokia pati arba griežtesnė administracinė atsakomybė negu Administracinių teisės pažeidimų kodekse, pagal atitinkamą Administracinių nusižengimų kodekso straipsnį neperkvalifikuojamos ir skiriamos Administracinių teisės pažeidimų kodekse nustatytos nuobaudos.
+8. Iki 2017 m. sausio 1 d. padarytos Administracinių nusižengimų kodekse numatytų administracinių nusižengimų požymius atitinkančios veikos, už kurių padarymą Administracinių nusižengimų kodekse nustatyta tokia pati arba griežtesnė administracinė atsakomybė negu Administracinių teisės pažeidimų kodekse, pagal atitinkamą Administracinių nusižengimų kodekso straipsnį neperkvalifikuojamos ir skiriamos Administracinių teisės pažeidimų kodekse nustatytos nuobaudos.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
  
-
-
 
 
 
@@ -141,7 +145,9 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 
 
 
-2. Administracinius teisės pažeidimus, už kuriuos iki 2016 m. balandžio 1 d. buvo paskirtos administracinės nuobaudos, tačiau nutarimai dėl nuobaudos skyrimo dar neįsiteisėjo, šio įstatymo 3 straipsnyje numatytais atvejais, gavus administracinėn atsakomybėn traukiamo asmens prašymą (šis prašymas gali būti įtrauktas ir į skundą ar apeliacinį skundą), perkvalifikuoja teismas ar institucija, priėmusi nutarimą administracinio teisės pažeidimo byloje, arba teismas, kuris nagrinėja skundą ar apeliacinį skundą dėl nutarimo byloje.
+2. Administracinius teisės pažeidimus, už kuriuos iki 2017 m. sausio 1 d. buvo paskirtos administracinės nuobaudos, tačiau nutarimai dėl nuobaudos skyrimo dar neįsiteisėjo, šio įstatymo 3 straipsnyje numatytais atvejais, gavus administracinėn atsakomybėn traukiamo asmens prašymą (šis prašymas gali būti įtrauktas ir į skundą ar apeliacinį skundą), perkvalifikuoja teismas ar institucija, priėmusi nutarimą administracinio teisės pažeidimo byloje, arba teismas, kuris nagrinėja skundą ar apeliacinį skundą dėl nutarimo byloje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
  
 
 
@@ -157,20 +163,22 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 
 
 
-2. Administracinių teisės pažeidimų, dėl kurių protokolai, o Administracinių teisės pažeidimų kodekso 262 straipsnyje nurodytais atvejais – pareiškimai surašyti po 2016 m. balandžio 1 d., teisena vyksta pagal Administracinių nusižengimų kodeksą.
+2. Administracinių teisės pažeidimų, dėl kurių protokolai, o Administracinių teisės pažeidimų kodekso 262 straipsnyje nurodytais atvejais – pareiškimai surašyti po 2017 m. sausio 1 d., teisena vyksta pagal Administracinių nusižengimų kodeksą.
 
 
 
 
-3. Administracinių teisės pažeidimų, dėl kurių protokolai, o Administracinių teisės pažeidimų kodekso 262 straipsnyje nurodytais atvejais – pareiškimai surašyti iki 2016 m. balandžio 1 d. ir kurie buvo perkvalifikuoti vadovaujantis šio įstatymo 4 straipsniu, teisena vyksta pagal Administracinių nusižengimų kodeksą.
+3. Administracinių teisės pažeidimų, dėl kurių protokolai, o Administracinių teisės pažeidimų kodekso 262 straipsnyje nurodytais atvejais – pareiškimai surašyti iki 2017 m. sausio 1 d. ir kurie buvo perkvalifikuoti vadovaujantis šio įstatymo 4 straipsniu, teisena vyksta pagal Administracinių nusižengimų kodeksą.
 
 
 
 
-4. Kitais, šio straipsnio 2 ir 3 dalyse nenurodytais, atvejais teisena vyksta pagal iki 2016 m. balandžio 1 d. galiojusį Administracinių teisės pažeidimų kodeksą.
+4. Kitais, šio straipsnio 2 ir 3 dalyse nenurodytais, atvejais teisena vyksta pagal iki 2017 m. sausio 1 d. galiojusį Administracinių teisės pažeidimų kodeksą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
  
-
-
 
 
 
@@ -178,25 +186,27 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 6 straipsnis. Administracinių nuobaudų vykdymo tęstinumas
 
 
-1. Iki 2016 m. balandžio 1 d. įsiteisėję nutarimai skirti administracines nuobaudas vykdomi, kol bus įvykdyti, išskyrus šiame įstatyme nustatytus atvejus.
+1. Iki 2017 m. sausio 1 d. įsiteisėję nutarimai skirti administracines nuobaudas vykdomi, kol bus įvykdyti, išskyrus šiame įstatyme nustatytus atvejus.
 
 
 
 
-2. Asmenys, kuriems už iki 2016 m. balandžio 1 d. padarytus administracinius teisės pažeidimus paskirtas administracinis areštas, paleidžiami iš arešto atlikimo vietos Administracinių nusižengimų kodekso įsigaliojimo dieną, o neatlikta nuobaudos dalis keičiama į viešuosius darbus, vieną administracinio arešto dieną prilyginant trims viešųjų darbų valandoms. Asmeniui nesutikus ar vengiant atlikti viešuosius darbus, neatlikta administracinio arešto dalis keičiama į baudą, vieną administracinio arešto dieną prilyginant septyniolikai eurų baudos. Asmeniui, kuriam buvo paskirta administracinė nuobauda – administracinis areštas ir nutarimas dėl šios nuobaudos skyrimo buvo įsiteisėjęs iki 2016 m. balandžio 1 d., tačiau jo vykdymas nebuvo pradėtas, administracinis areštas keičiamas į viešuosius darbus šioje dalyje nustatyta tvarka.
+2. Asmenys, kuriems už iki 2017 m. sausio 1 d. padarytus administracinius teisės pažeidimus paskirtas administracinis areštas, paleidžiami iš arešto atlikimo vietos Administracinių nusižengimų kodekso įsigaliojimo dieną, o neatlikta nuobaudos dalis keičiama į viešuosius darbus, vieną administracinio arešto dieną prilyginant trims viešųjų darbų valandoms. Asmeniui nesutikus ar vengiant atlikti viešuosius darbus, neatlikta administracinio arešto dalis keičiama į baudą, vieną administracinio arešto dieną prilyginant septyniolikai eurų baudos. Asmeniui, kuriam buvo paskirta administracinė nuobauda – administracinis areštas ir nutarimas dėl šios nuobaudos skyrimo buvo įsiteisėjęs iki 2017 m. sausio 1 d., tačiau jo vykdymas nebuvo pradėtas, administracinis areštas keičiamas į viešuosius darbus šioje dalyje nustatyta tvarka.
 
 
 
 
-3. Kai asmeniui paskirta administracinė nuobauda – bauda ir nutarimas dėl šios nuobaudos skyrimo įsiteisėjo iki 2016 m. balandžio 1 d., tačiau nesuėjo Administracinių teisės pažeidimų kodekso 313 straipsnio 1 dalyje numatytas terminas, taip pat tais atvejais, kai asmeniui, vadovaujantis Administracinių teisės pažeidimų kodekso 306 straipsniu, buvo atidėtas nutarimo skirti baudą vykdymas ar Administracinių teisės pažeidimų kodekso 313 straipsnio 3 dalyje nustatyta tvarka baudos mokėjimas buvo išdėstytas dalimis ir paskirta bauda viršija Administracinių nusižengimų kodekse už šį nusižengimą nustatytą maksimalią baudą, mokėtina bauda sumažinama iki Administracinių nusižengimų kodekse už šį nusižengimą nustatytos maksimalios baudos.
+3. Kai asmeniui paskirta administracinė nuobauda – bauda ir nutarimas dėl šios nuobaudos skyrimo įsiteisėjo iki 2017 m. sausio 1 d., tačiau nesuėjo Administracinių teisės pažeidimų kodekso 313 straipsnio 1 dalyje numatytas terminas, taip pat tais atvejais, kai asmeniui, vadovaujantis Administracinių teisės pažeidimų kodekso 306 straipsniu, buvo atidėtas nutarimo skirti baudą vykdymas ar Administracinių teisės pažeidimų kodekso 313 straipsnio 3 dalyje nustatyta tvarka baudos mokėjimas buvo išdėstytas dalimis ir paskirta bauda viršija Administracinių nusižengimų kodekse už šį nusižengimą nustatytą maksimalią baudą, mokėtina bauda sumažinama iki Administracinių nusižengimų kodekse už šį nusižengimą nustatytos maksimalios baudos.
 
 
 
 
-4. Šios straipsnio 2 ir 3 dalyse nurodytais atvejais sprendimus priima teismas ar kita nutarimus administracinių teisės pažeidimų bylose priėmusi institucija, gavusi nutarimą administracinio teisės pažeidimo byloje vykdančios institucijos teikimą.
+4. Šio straipsnio 2 ir 3 dalyse nurodytais atvejais sprendimus priima teismas ar kita nutarimus administracinių teisės pažeidimų bylose priėmusi institucija, gavusi nutarimą administracinio teisės pažeidimo byloje vykdančios institucijos teikimą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
  
-
-
 
 
 
@@ -215,15 +225,17 @@ Administracinių nusižengimų kodeksas įsigalioja 2016 m. balandžio 1 d.
 8 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
 
 
-1. Lietuvos Respublikos Vyriausybė iki 2016 m. vasario 1 d. parengia ir pateikia Lietuvos Respublikos Seimui su Administracinių nusižengimų kodekso įgyvendinimu susijusių įstatymų pakeitimo įstatymų projektus. 
+1. Lietuvos Respublikos Vyriausybė iki 2016 m. lapkričio 30 d. parengia ir pateikia Lietuvos Respublikos Seimui su Administracinių nusižengimų kodekso įgyvendinimu susijusių įstatymų pakeitimo įstatymų projektus.
 
 
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2016 m. balandžio 1 d. priima su Administracinių nusižengimų kodekso įgyvendinimu susijusius teisės aktus.
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2017 m. sausio 1 d. priima su Administracinių nusižengimų kodekso įgyvendinimu susijusius teisės aktus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
  
-
-
 
 
 
@@ -20652,3 +20664,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 68-1, 357-1 straipsniais ir 29, 33, 59, 65, 71, 73, 74, 168, 182, 183, 184, 191, 209, 243, 247, 254, 264, 269, 274, 309, 334, 372, 373, 377, 378, 380, 381, 422, 423, 424, 427, 589, 603, 608, 610, 615, 620, 621, 622, 634, 640, 642, 644, 649, 651, 652, 659, 662, 668, 673, 675 straipsnių ir priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
+Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo Nr. XII-1869 2, 3, 4, 5, 6 ir 8 straipsnių pakeitimo įstatymas
