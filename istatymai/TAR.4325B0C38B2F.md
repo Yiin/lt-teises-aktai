@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-29
+Suvestinė redakcija nuo 2016-03-30 iki 2016-03-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
  
@@ -481,7 +481,10 @@ Nr. XI-569, 2009-12-15, Žin., 2009, Nr. 154-6950 (2009-12-28)
 
 
 
-4) Vyriausybės nustatyta tvarka organizuoti nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo tyrimą bei dalyvauti tiriant profesines ligas;
+4) įstatymų ar Vyriausybės nustatyta tvarka organizuoti nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo tyrimą ir dalyvauti tiriant profesines ligas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2281, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06432
+ 
 
 
 
@@ -1293,3 +1296,8 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 3, 4, 5, 6, 7, 8 ir 30 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2281, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06432
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 3, 4, 5, 6, 7, 8 ir 30 straipsnių pakeitimo įstatymo Nr. XII-1991 9 straipsnio pakeitimo įstatymas
