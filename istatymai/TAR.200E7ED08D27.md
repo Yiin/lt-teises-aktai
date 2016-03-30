@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/200e7ed08d2711e58711b884b80daa4f"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir 36 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-29
+Suvestinė redakcija nuo 2016-03-30
  
 Įstatymas paskelbtas: TAR 2015-11-17, i. k. 2015-18256
  
@@ -120,7 +120,10 @@ Pakeisti 36 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-2. Šio įstatymo 2 ir 3 straipsniai įsigalioja 2016 m. balandžio 1 d.
+2. Šio įstatymo 2 ir 3 straipsniai įsigalioja 2017 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-2280, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06431
+ 
 
 
 
@@ -148,3 +151,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2140, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20128
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir 36 straipsnių pakeitimo įstatymo Nr. XII-1990 1 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2280, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06431
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir 36 straipsnių pakeitimo įstatymo Nr. XII-1990 4 straipsnio pakeitimo įstatymas
