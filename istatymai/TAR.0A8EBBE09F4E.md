@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/0a8ebbe09f4e11e58fd1fc0b9bba68a7"
 
 # Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2016-03-30 iki 2016-04-26
+ 
+Įstatymas paskelbtas: TAR 2015-12-10, i. k. 2015-19627
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 BIUDŽETO SANDAROS ĮSTATYMO NR. I-430 14, 18, 19, 21, 28, 32, 35, 38 IR 39 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -365,7 +372,9 @@ Pateisinamomis priežastimis, kai neįvykdoma tam tikrų metų valdžios sektori
 
 
 
-3. Šio įstatymo 5 straipsnis įsigalioja 2016 m. balandžio 1 d.
+3. Šio įstatymo 5 straipsnis įsigalioja 2017 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-2284, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06436
  
 
 
@@ -373,8 +382,19 @@ Pateisinamomis priežastimis, kai neįvykdoma tam tikrų metų valdžios sektori
 
 
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2284, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06436
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymo Nr. XII-2143 10 straipsnio pakeitimo įstatymas
