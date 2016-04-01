@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-06-27
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -1287,7 +1287,10 @@ Nr. XII-1891, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10508
 
 
 
-9. Sveikatos apsaugos ministerija, nustatydama higienos normas, susijusias su elektromagnetinio spinduliavimo normomis, konsultuojasi su Ryšių reguliavimo tarnyba. Sveikatos apsaugos ministerija keičiasi su Ryšių reguliavimo tarnyba informacija, susijusia su higienos normomis, turinčiomis ryšių su elektromagnetinio spinduliavimo normomis. Visuomenės sveikatos centrai apskrityse, atlikdami savo funkcijas, susijusias su elektromagnetinio spinduliavimo normų priežiūra, konsultuojasi su Ryšių reguliavimo tarnyba, taip pat su šia institucija keičiasi susijusia informacija.
+9. Sveikatos apsaugos ministerija, nustatydama higienos normas, susijusias su elektromagnetinio spinduliavimo normomis, konsultuojasi su Ryšių reguliavimo tarnyba. Sveikatos apsaugos ministerija keičiasi su Ryšių reguliavimo tarnyba informacija, susijusia su higienos normomis, turinčiomis ryšių su elektromagnetinio spinduliavimo normomis. Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos, atlikdamas savo funkcijas, susijusias su elektromagnetinio spinduliavimo normų priežiūra, konsultuojasi su Ryšių reguliavimo tarnyba, taip pat su šia institucija keičiasi susijusia informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-1710, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08042
+ 
 
 
 
@@ -5037,3 +5040,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12 ir 25 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2086, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19363
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 34 ir 36 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1710, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08042
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12 straipsnio pakeitimo įstatymas
