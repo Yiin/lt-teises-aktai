@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.31185A622C9F"
 
 Projektas
 
-Suvestinė redakcija nuo 2015-04-22 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2569; Žin. 2002, Nr.71-0, i. k. 1021010ISTA00IX-926
  
@@ -3662,7 +3662,10 @@ Nr. X-294, 2005-06-30, Žin., 2005, Nr. 85-3138 (2005-07-14)
 
 2. Darbdavys nedelsdamas privalo pranešti atitinkamai teritorinei prokuratūrai ir Valstybinei darbo inspekcijai apie visus įvykius darbe, dėl kurių darbuotojas mirė arba per kuriuos buvo sunkiai pakenkta darbuotojo sveikatai.
 
-3. Ūmių profesinių ligų, dėl kurių nukentėjęs asmuo mirė, atvejais darbdavys nedelsdamas privalo pranešti atitinkamai teritorinei prokuratūrai, Valstybinei darbo inspekcijai ir visuomenės sveikatos centrui apskrityje.
+3. Ūmių profesinių ligų, dėl kurių nukentėjęs asmuo mirė, atvejais darbdavys nedelsdamas privalo pranešti atitinkamai teritorinei prokuratūrai, Valstybinei darbo inspekcijai ir Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XII-1712, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08052
+ 
 
 Straipsnio pakeitimai:
 Nr. XII-193, 2013-03-14, Žin., 2013, Nr. 30-1456 (2013-03-23)
@@ -4259,4 +4262,9 @@ Lietuvos Respublikos darbo kodekso 169 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1616, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06060
 Lietuvos Respublikos darbo kodekso 98 ir 98-1 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1712, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08052
+Lietuvos Respublikos darbo kodekso 281 straipsnio pakeitimo įstatymas
 
