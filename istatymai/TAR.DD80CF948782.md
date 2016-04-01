@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
  
@@ -489,12 +489,14 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS VIEŠOJO ADMINISTRAVIMO SUBJEKTAI
 12 straipsnis. Visuomenės sveikatos priežiūros viešojo administravimo subjektai
 
 
-Visuomenės sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės įstaigos, visuomenės sveikatos centrai apskrityse, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba), Radiacinės saugos centras, kitos valstybės ir savivaldybių institucijos ir įstaigos.
+Visuomenės sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės įstaigos, Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras), Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba), Radiacinės saugos centras, kitos valstybės ir savivaldybių institucijos ir įstaigos.
 
 
 Straipsnio pakeitimai:
 Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 Nr. XI-1757, 2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
+Straipsnio pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
  
 
 
@@ -519,10 +521,10 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 
 
-15 straipsnis. Visuomenės sveikatos centrų apskrityse kompetencija
+15 straipsnis. Nacionalinio visuomenės sveikatos centro kompetencija
 
 
-Visuomenės sveikatos centrai apskrityse:
+Nacionalinis visuomenės sveikatos centras:
 
 
 1) vykdo asmens sveikatos priežiūros, švietimo, stacionarių globos ir slaugos įstaigų, interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų, juridinių asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau – įmonė), gaminančių kosmetikos gaminius, kirpyklų, kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų, skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo paslaugų, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos kontrolę;
@@ -571,9 +573,6 @@ Visuomenės sveikatos centrai apskrityse:
 
 
 10) vykdo Reglamente (ES) Nr. 528/2012 nacionalinėms kompetentingoms institucijoms nustatytas užduotis;
-Straipsnio punkto pakeitimai:
-Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
- 
 
 
 
@@ -583,7 +582,7 @@ Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
 
 
 
-12) teikia savivaldybių institucijoms šio Įstatymo 6 straipsnio 1 dalies 12 punkte numatytoms funkcijoms atlikti reikalingą informaciją apie savivaldybės teritorijoje padarytus teisės aktų pažeidimus, susijusius su žmogaus gyvenamosios aplinkos tarša;
+12) teikia savivaldybių institucijoms šio Įstatymo 6 straipsnio 1 dalies 2 punkte numatytoms funkcijoms atlikti reikalingą informaciją apie savivaldybės teritorijoje padarytus teisės aktų pažeidimus, susijusius su žmogaus gyvenamosios aplinkos tarša;
 
 
 
@@ -599,6 +598,8 @@ Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 Nr. XI-1757, 2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
 Nr. XII-408, 2013-06-27, Žin., 2013, Nr. 76-3825 (2013-07-16)
 Nr. XII-532, 2013-10-03, Žin., 2013, Nr. 107-5277 (2013-10-12)
+Straipsnio pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
  
 
 
@@ -1482,7 +1483,7 @@ VISUOMENĖS SVEIKATOS KONTROLĖ
 
 
 
-6. Vykdydami valstybinę visuomenės sveikatos saugos kontrolę šio Įstatymo 15 straipsnio 1, 2, 5, 6, 7 ir 8 punktuose apibrėžtuose objektuose (toliau – kontrolės objektai), visuomenės sveikatos centrų apskrityse tarnautojai turi teisę:
+6. Vykdydami valstybinę visuomenės sveikatos saugos kontrolę šio Įstatymo 15 straipsnio 1, 2, 5, 6, 7 ir 8 punktuose apibrėžtuose objektuose (toliau – kontrolės objektai), Nacionalinio visuomenės sveikatos centro tarnautojai turi teisę:
 
 
 1) pateikę tarnybinį pažymėjimą ir įstaigos vadovo ar jo įgalioto asmens išduotą pavedimą, laisvai ir be išankstinio perspėjimo įeiti į kontrolės objektus jų darbo metu;
@@ -1505,24 +1506,36 @@ VISUOMENĖS SVEIKATOS KONTROLĖ
 
 
 
-5) Produktų saugos įstatymo ir kitų įstatymų nustatytais pagrindais ir Vyriausybės nustatyta tvarka taikyti rinkos ribojimo priemones.
+5) Produktų saugos įstatymo ir kitų įstatymų nustatytais pagrindais ir Vyriausybės nustatyta tvarka taikyti rinkos ribojimo priemones. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
+ 
 
 
 
 
-
-
-7. Visuomenės sveikatos centrų apskrityse tarnautojai gali turėti ir kitų teisių, nustatytų kituose įstatymuose.
-
-
-
-
-8. Visuomenės sveikatos centrų apskrityse tarnautojai, įgalioti atlikti valstybinę visuomenės sveikatos saugos kontrolę, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
+7. Nacionalinio visuomenės sveikatos centro tarnautojai gali turėti ir kitų teisių, nustatytų kituose įstatymuose. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
+ 
 
 
 
 
-9. Visuomenės sveikatos centrų apskrityse tarnautojų veiksmai gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+8. Nacionalinio visuomenės sveikatos centro tarnautojai, įgalioti atlikti valstybinę visuomenės sveikatos saugos kontrolę, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
+ 
+
+
+
+
+9. Nacionalinio visuomenės sveikatos centro tarnautojų veiksmai gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
+ 
 
 
 
@@ -1744,7 +1757,10 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-17. Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos apsaugos ministro nustatyta tvarka vykdo visuomenės sveikatos centrai apskrityse.
+17. Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos apsaugos ministro nustatyta tvarka vykdo Nacionalinis visuomenės sveikatos centras.
+Straipsnio dalies pakeitimai:
+Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
+ 
 
 
 Straipsnio pakeitimai:
