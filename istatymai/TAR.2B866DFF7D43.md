@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-05-24
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -1715,7 +1715,10 @@ Nr. XI-742, 2010-04-13, Žin., 2010, Nr. 48-2292 (2010-04-27)
 3. Nustatoma bauda:
 
 
-1) už baudžiamąjį nusižengimą – iki 50 MGL dydžio;
+1) už baudžiamąjį nusižengimą – iki 150 MGL dydžio; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
 
 
 
@@ -1735,7 +1738,10 @@ Nr. XI-742, 2010-04-13, Žin., 2010, Nr. 48-2292 (2010-04-27)
 
 
 
-5) už neatsargų nusikaltimą – iki 75 MGL dydžio.
+5) už neatsargų nusikaltimą – iki 225 MGL dydžio.
+Straipsnio punkto pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
 
 
 
@@ -9791,18 +9797,26 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 285 straipsnis. Melagingas pranešimas apie visuomenei gresiantį pavojų ar ištikusią nelaimę
 
 
-1. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei gresiantį pavojų arba didelę nelaimę, jeigu dėl to kilo žmonių sumaištis ar buvo padaryta didelės turtinės žalos,
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų. 
+1. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei ar valstybinės reikšmės objektui, kuris atitinka Civilinės saugos įstatyme nustatytus požymius, gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo iškviestos pagalbos tarnybos, 
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
 
 
 
-2. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo iškviestos specialios tarnybos, padarė baudžiamąjį nusižengimą ir
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
+2. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei ar valstybinės reikšmės objektui, kuris atitinka Civilinės saugos įstatyme nustatytus požymius, gresiantį pavojų arba didelę nelaimę, jeigu dėl to kilo žmonių sumaištis ar buvo sutrikdyta valstybinės reikšmės objekto veikla, 
+baudžiamas bauda arba laisvės apribojimu, arba laisvės atėmimu iki dvejų metų.
+
+
+
+
+3. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei ar valstybinės reikšmės objektui, kuris atitinka Civilinės saugos įstatyme nustatytus požymius, gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo padaryta didelės turtinės žalos, 
+baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 
 
 Straipsnio pakeitimai:
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-2170, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20140
  
 
 
@@ -9883,17 +9897,10 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
 
-290 straipsnis. Valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens įžeidimas
-
-
-Tas, kas įžeidė savo pareigas einantį valstybės tarnautoją ar viešojo administravimo funkcijas atliekantį asmenį, 
-
-
-
-
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-
+290 straipsnis. Neteko galios nuo 2016-04-01
+Straipsnio naikinimas:
+Nr. XII-1888, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11179
+ 
 
 
 
@@ -11429,3 +11436,18 @@ Lietuvos Respublikos baudžiamojo kodekso 226, 227 ir 230 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
 Lietuvos Respublikos baudžiamojo kodekso 160, 199 straipsnių pakeitimo ir Kodekso papildymo 276-1, 276-2, 276-3 straipsniais įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+Lietuvos Respublikos baudžiamojo kodekso 47, 176, 220, 221, 272, 273, 281, 284 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2170, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20140
+Lietuvos Respublikos baudžiamojo kodekso 285 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2277, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06428
+Lietuvos Respublikos baudžiamojo kodekso 47, 176, 220, 221, 272, 273, 281, 284 straipsnių pakeitimo įstatymo Nr. XII-1871 9 straipsnio pakeitimo įstatymas
