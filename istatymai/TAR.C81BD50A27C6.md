@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -1192,7 +1192,10 @@ Nr. XI-767, 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
 2. LNSS valstybės visuomenės sveikatos priežiūros biudžetinės įstaigos, kurių steigėja yra Sveikatos apsaugos ministerija:
 
 
-1) visuomenės sveikatos centrai apskrityse;
+1) Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras);
+Straipsnio punkto pakeitimai:
+Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
+ 
 
 
 
@@ -2449,7 +2452,10 @@ Nr. XII-1940, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14258
 
 
 
-5) visuomenės sveikatos centrai apskrityse – paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę, sveikatos priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę visuomenės sveikatos saugos kontrolę.
+5) Nacionalinis visuomenės sveikatos centras – paslaugų, teikiamų asmens ir visuomenės sveikatos priežiūros, švietimo, socialinės globos ir slaugos įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę, Visuomenės sveikatos priežiūros įstatyme nurodytą valstybinę visuomenės sveikatos saugos kontrolę.
+Straipsnio punkto pakeitimai:
+Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
+ 
 
 
 
@@ -2532,7 +2538,7 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 54 straipsnis. Paslaugų teikimo įstaigoje sustabdymas
 
 
-1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba, visuomenės sveikatos centrai apskrityse pagal kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu:
+1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba, Nacionalinis visuomenės sveikatos centras pagal kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu:
 
 
 1) įstaiga arba jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos ar akreditavimo pažymėjimo;
@@ -2555,9 +2561,12 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-5) įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.“
+5) įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
+ 
 
 
 
@@ -2963,3 +2972,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1940, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14258
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 52 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 24, 52 ir 54 straipsnių pakeitimo įstatymas
