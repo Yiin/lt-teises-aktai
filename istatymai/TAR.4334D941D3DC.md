@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+ 
+Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
+ 
 LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
  
 2013 m. gegužės 23 d. Nr. XII-336 
@@ -75,37 +79,81 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Pluoštinių kanapių importas (toliau – importas) – bet koks pluoštinių kanapių produktų įvežimas į Lietuvos Respubliką iš trečiųjų šalių. 
+5. Pluoštinės kanapės sodininkystei – pluoštinės kanapės, agrotechniniais ar fitosanitariniais tikslais auginamos tarp kitų sodo ar daržo augalų arba šalia jų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-6. Pluoštinių kanapių importo licencija (toliau – licencija) – Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos (toliau – Agentūra) išduodamas dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką iš trečiųjų šalių pluoštinių kanapių produktus, nurodytus 2007 m. spalio 22 d. Tarybos reglamento (EB) Nr. 1234/2007, nustatančio bendrą žemės ūkio rinkų organizavimą ir konkrečias tam tikriems žemės ūkio produktams taikomas nuostatas (Bendras bendro žemės ūkio rinkų organizavimo reglamentas) (toliau – Reglamentas (EB) Nr. 1234/2007) (OL 2007 L 299, p. 1), 157 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
+6. Pluoštinių kanapių importas (toliau – importas) – bet koks pluoštinių kanapių produktų įvežimas į Lietuvos Respubliką iš trečiųjų šalių. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-7. Pluoštinių kanapių importo licencijos turėtojas (toliau – licencijos turėtojas) – fizinis asmuo, juridinis asmuo ar kita organizacija, turintys galiojančią pluoštinių kanapių importo licenciją. 
+7. Pluoštinių kanapių importo licencija (toliau – licencija) – Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos (toliau – Agentūra) išduodamas dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką iš trečiųjų šalių pluoštinių kanapių produktus, nurodytus 2007 m. spalio 22 d. Tarybos reglamento (EB) Nr. 1234/2007, nustatančio bendrą žemės ūkio rinkų organizavimą ir konkrečias tam tikriems žemės ūkio produktams taikomas nuostatas (Bendras bendro žemės ūkio rinkų organizavimo reglamentas) (toliau – Reglamentas (EB) Nr. 1234/2007) (OL 2007 L 299, p. 1), 157 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-8. Pluoštinių kanapių sėkla – sėkla, skirta pluoštinėms kanapėms dauginti ir auginti.
+8. Pluoštinių kanapių importo licencijos turėtojas (toliau – licencijos turėtojas) – fizinis asmuo, juridinis asmuo ar kita organizacija, turintys galiojančią pluoštinių kanapių importo licenciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-9. Pluoštinių kanapių tiekimas rinkai – bet kuris pluoštinių kanapių produktų pristatymas pirkėjams už pinigus arba nemokamai. 
+9. Pluoštinių kanapių sėjomainos laukas (toliau – sėjomainos laukas) – vieno ar kelių sklypų laukas, kuriame pluoštinių kanapių augintojas pagal sėjomainos rotaciją augina pluoštines kanapes. 
+Papildyta straipsnio dalimi:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-10. Tetrahidrokanabinolis (toliau – THC) – natūrali psichiką veikianti medžiaga, išskiriama iš įvairių rūšių kanapių.
+10. Pluoštinių kanapių sėkla – sėkla, skirta pluoštinėms kanapėms dauginti ir auginti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-11. Trečioji šalis – valstybė ne Europos Sąjungos narė arba kita ne Europos ekonominės erdvės valstybė.
+11. Pluoštinių kanapių tiekimas rinkai – bet kuris pluoštinių kanapių produktų pristatymas pirkėjams už pinigus arba nemokamai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
+
+
+
+
+12. Sėjomainos rotacija – panašių biologinių ir agrotechninių savybių žemės ūkio augalų ar jų grupių kaitymo tvarka sėjomainos laukuose. 
+Papildyta straipsnio dalimi:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
+
+
+
+
+13. Tetrahidrokanabinolis (toliau – THC) – natūrali psichiką veikianti medžiaga, išskiriama iš įvairių rūšių kanapių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
+
+
+
+
+14. Trečioji šalis – valstybė ne Europos Sąjungos narė arba kita ne Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
  
 
 
@@ -134,7 +182,10 @@ PLUOŠTINIŲ KANAPIŲ AUGINIMAS IR TIEKIMAS RINKAI
 
 
 
-2) auginti tik įteisintų veislių augalus, sėjai naudodami tik žemės ūkio ministro patvirtintus aliejinių ir pluoštinių augalų sėklos privalomuosius kokybės reikalavimus atitinkančią pluoštinių kanapių sėklą; 
+2) auginti tik įteisintų veislių augalus, sėjai naudodami tik žemės ūkio ministro patvirtintus aliejinių ir pluoštinių augalų sėklos privalomuosius kokybės reikalavimus atitinkančią pluoštinių kanapių sėklą. Ši nuostata netaikoma auginant pluoštines kanapes mokslo, selekcijos ir naujai sukurtų veislių ūkinio vertingumo tyrimo, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą, tikslais; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
@@ -181,7 +232,25 @@ PLUOŠTINIŲ KANAPIŲ AUGINIMAS IR TIEKIMAS RINKAI
 
 
 
-5. Tarnyba žemės ūkio ministro nustatyta tvarka privalo iš kiekvieno deklaruoto pluoštinių kanapių lauko imti mėginius THC kiekiui kanapėse tirti, vadovaudamasi patvirtinta mėginių ėmimo metodika.
+5. Tarnyba žemės ūkio ministro nustatyta tvarka privalo iš kiekvieno pluoštinių kanapių sėjomainos lauko, išskyrus pluoštines kanapes sodininkystei, kiekvienos atskiros veislės imti mėginius THC kiekiui kanapėse tirti, vadovaudamasi patvirtinta mėginių ėmimo metodika. Jeigu sėjomainos lauko sklypai atskirti valstybinės ir vietinės reikšmės keliais, išskyrus vidaus kelius, nurodytus Lietuvos Respublikos kelių įstatyme, ar platesniais negu 8 m barjerais (melioracijos grioviu, vandens telkiniu, miško juosta ar kt.), iš tokių laukų imami atskiri mėginiai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
+
+
+
+
+6. Pluoštinių kanapių sodininkystei augintojas gali auginti pluoštinių kanapių augalus ne didesniame kaip 0,1 ha žemės valdos plote, sėdamas iki 20 šių augalų vienetų į 0,01 ha, turi pateikti Tarnybai sėklų pakuotės etiketes, laikytis šio straipsnio 2 dalies, išskyrus 2 dalies 4, 5 ir 6 punktus, reikalavimų. Reikalavimus pluoštinių kanapių auginimui sodininkystei nustato žemės ūkio ministras. 
+Papildyta straipsnio dalimi:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
+
+
+
+
+7. Tarnyba pluoštinių kanapių vegetacinius bandymus turi atlikti pagal šio straipsnio 2 dalies 1, 2 ir 4 punktų reikalavimus, o naujai sukurtų veislių ūkinio vertingumo tyrimus, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą, – pagal šio straipsnio 2 dalies 1, 4 ir 8 punktų reikalavimus.
+Papildyta straipsnio dalimi:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
  
 
 
@@ -197,12 +266,18 @@ PLUOŠTINIŲ KANAPIŲ AUGINIMAS IR TIEKIMAS RINKAI
 
 
 
-2. Tiekiamos rinkai pluoštinių kanapių sėklos pakuotės etiketėje ir (arba) sertifikate turi būti nurodomas veislės pavadinimas, o atsakingos institucijos išduotoje pažymoje – patvirtinimas, kad THC kiekis kanapėse neviršija 0,2 procento. 
+2. Tiekiamos rinkai pluoštinių kanapių sėklos pakuotės etiketėje, jeigu sėkla tiekiama iš kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių, ir (arba) sertifikate, jeigu sėkla importuojama, turi būti nurodomas veislės pavadinimas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
 
-3. Tiekiamos rinkai sėjai neskirtos pluoštinių kanapių sėklos ir jų produktai, žaliavinės ar mirkytos kanapės ir jų šiaudeliai turi turėti atsakingos institucijos pažymą, patvirtinančią, kad THC kiekis kanapėse, iš kurių šie produktai gauti, neviršija 0,2 procento.
+3. Importuojamos sėjai neskirtos pluoštinių kanapių sėklos ir jų produktai, žaliavinės ar mirkytos kanapės ir jų šiaudeliai turi turėti atsakingos institucijos pažymą, kuria patvirtinama, kad THC kiekis juose neviršija 0,2 procento.
+Straipsnio dalies pakeitimai:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
@@ -534,7 +609,10 @@ IMPORTAS
 
 
 
-8. Jeigu nustatoma, kad licencijos turėtojo padaryti pažeidimai yra mažareikšmiai, nepadarę esminės žalos šio įstatymo saugomiems interesams, licencijos turėtojas nutraukė teisę pažeidžiančius veiksmus ir pašalino teisę pažeidžiančių veiksmų padarinius bei atlygino žalą, o šio įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, Agentūra, vadovaudamasi teisingumo ir protingumo kriterijais, gali apsiriboti žodine pastaba ir gali neįspėti licencijos turėtojo apie licencijos galiojimo sustabdymą, nestabdyti ir (ar) nenaikinti licencijos galiojimo. Minėtas žodines pastabas Agentūra fiksuoja duomenų bazėje ir prižiūri, kad jomis nebūtų piktnaudžiaujama. 
+8. Neteko galios nuo 2016-04-01
+Straipsnio dalies naikinimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
@@ -650,7 +728,10 @@ IMPORTAS
 
 
 
-9. Jeigu nustatoma, kad patvirtintojo importuotojo padaryti pažeidimai yra mažareikšmiai, nepadarę esminės žalos šio įstatymo saugomiems interesams, patvirtintasis importuotojas nutraukė teisę pažeidžiančius veiksmus ir pašalino teisę pažeidžiančių veiksmų padarinius bei atlygino žalą, o šio įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, Agentūra, vadovaudamasi teisingumo ir protingumo kriterijais, gali apsiriboti žodine pastaba ir nenaikinti patvirtinamojo dokumento galiojimo. Minėtas žodines pastabas Agentūra fiksuoja duomenų bazėje ir prižiūri, kad jomis nebūtų piktnaudžiaujama.
+9. Neteko galios nuo 2016-04-01
+Straipsnio dalies naikinimas:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+ 
 
 
 
@@ -766,3 +847,15 @@ priedas
 
 
 4. 2009 m. lapkričio 30 d. Komisijos reglamentas (EB) Nr. 1122/2009, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 73/2009 įgyvendinimo taisyklės, susijusios su kompleksiniu paramos susiejimu, moduliavimu ir integruota administravimo ir kontrolės sistema pagal tame reglamente numatytas ūkininkams skirtas tiesioginės paramos schemas, ir Tarybos reglamento (EB) Nr. 1234/2007 įgyvendinimo taisyklės, susijusios su kompleksiniu paramos susiejimu pagal vyno sektoriui numatytą paramos schemą (OL 2009 L 316, p. 65), su paskutiniais pakeitimais, padarytais 2011 m. vasario 23 d. Komisijos reglamentu (ES) Nr. 173/2011 (OL 2011 L 49, p. 16).
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymas
