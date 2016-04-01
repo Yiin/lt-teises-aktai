@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -57,7 +57,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje, tačiau ne ilgiau kaip penkiolika parų. Suimtieji ikiteisminio tyrimo pareigūno ar prokuroro nutarimu arba teismo nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) ikiteisminio tyrimo veiksmams atlikti ar dėl bylų nagrinėjimo teisme į teritorinės policijos įstaigos areštinę, tačiau ne ilgiau kaip penkiolika parų. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus 23, 25, 26, 28, 40–43 straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina vidaus reikalų ministras, suderinęs su teisingumo ministru.
+2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant tardymo izoliatoriuje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip penkioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant tardymo izoliatoriuje arba dėl suimtųjų dalyvavimo bylų nagrinėjime teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus 23, 25, 26, 28, 40, 41, 42, 43 straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina vidaus reikalų ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
 
 
@@ -167,7 +169,10 @@ ASMENŲ SUĖMIMAS, PRISTATYMAS IR PRIĖMIMAS Į TARDYMO IZOLIATORIUS
 
 
 
-4) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie po teismo nuosprendžio įsiteisėjimo ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkiolikos parų palikti tardymo izoliatoriuose arba perkelti į juos iš areštinių ar pataisos įstaigų ikiteisminio tyrimo veiksmams atlikti arba dėl bylų nagrinėjimo teisme;
+4) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkių parų perkelti į tardymo izoliatorius iš areštinių ar pataisos įstaigų dėl bylų nagrinėjimo teisme; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+ 
 
 
 
@@ -226,7 +231,7 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-3) ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkiolikos parų nuteistąjį arešto ar laisvės atėmimo bausme iš areštinės ar pataisos įstaigos į tardymo izoliatorių ikiteisminio tyrimo veiksmams baudžiamosiose bylose atlikti arba dėl bylų nagrinėjimo teisme.
+3) teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkių parų nuteistąjį arešto ar laisvės atėmimo bausme iš areštinės ar pataisos įstaigos į tardymo izoliatorių dėl bylos nagrinėjimo teisme.
 
 
 
@@ -243,25 +248,27 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-4. Tardymo izoliatoriuose laikomiems asmenims draudžiami turėti daiktai ir reikmenys paimami. Paimant šiuos daiktus ir reikmenis, surašomas protokolas, jį pasirašo draudžiamus turėti daiktus ir reikmenis paėmęs pareigūnas ir suimtasis ar nuteistasis. Jeigu asmuo atsisako šį protokolą pasirašyti, tai pažymima protokole.
+4. Maisto produktai, daiktai ir reikmenys, kurie nenumatyti tardymo izoliatoriuose laikomiems asmenims leidžiamų įsigyti ir turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąraše, paimami. Paimant šiuos maisto produktus, daiktus ir reikmenis, surašomas protokolas, jį pasirašo tai atlikęs pareigūnas ir suimtasis ar nuteistasis. Jeigu asmuo atsisako šį protokolą pasirašyti, tai pažymima protokole.
 
 
 
 
-5. Apie iš pristatyto į tardymo izoliatorių asmens paimtus daiktus ir reikmenis, kuriuos draudžiama turėti tardymo izoliatoriuose laikomiems asmenims, tardymo izoliatoriaus administracija raštu praneša nusikalstamą veiką tiriančiam ikiteisminio tyrimo pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Paimti daiktai ir reikmenys gali būti pridėti prie ikiteisminio tyrimo medžiagos arba baudžiamosios bylos Baudžiamojo proceso kodekso nustatyta tvarka. Jeigu šie daiktai ir reikmenys prie ikiteisminio tyrimo medžiagos arba baudžiamosios bylos nepridedami, tardymo izoliatoriaus administracija pinigus įrašo į asmens, iš kurio jie buvo paimti, asmeninę sąskaitą, o kitus daiktus ir reikmenis atiduoda saugoti ar sunaikinti Tardymo izoliatorių vidaus tvarkos taisyklėse nustatyta tvarka.
+5. Apie iš pristatyto į tardymo izoliatorių asmens paimtus maisto produktus, daiktus ir reikmenis, kurie nenumatyti tardymo izoliatoriuose laikomiems asmenims leidžiamų įsigyti ir turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąraše, tardymo izoliatoriaus administracija raštu praneša nusikalstamą veiką tiriančiam ikiteisminio tyrimo pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Paimti daiktai ir reikmenys gali būti pridėti prie ikiteisminio tyrimo medžiagos arba baudžiamosios bylos Baudžiamojo proceso kodekso nustatyta tvarka. Jeigu šie daiktai ir reikmenys prie ikiteisminio tyrimo medžiagos arba baudžiamosios bylos nepridedami, tardymo izoliatoriaus administracija pinigus įrašo į asmens, iš kurio jie buvo paimti, asmeninę sąskaitą, kitus daiktus, maisto produktus ir būtiniausius reikmenis atiduoda saugoti ar sunaikinti Tardymo izoliatorių vidaus tvarkos taisyklėse nustatyta tvarka.
 
 
 
 
-6. Jei į tardymo izoliatorių pristatyto suimtojo asmens byloje nėra daktiloskopinės kortelės ar pavyzdžio genetiniam tipizavimui atlikti, tardymo izoliatoriaus administracija privalo apie tai pranešti ikiteisminį tyrimą kontroliuojančiam prokurorui ar teismui, kurio žinioje yra byla, kad būtų priimti sprendimai dėl šių veiksmų atlikimo. Dėl pristatyto nuteistojo asmens, kurio asmens byloje nėra daktiloskopinės kortelės, asmens nuotraukos ar pavyzdžio genetiniam tipizavimui atlikti, sprendimą atlikti reikiamus veiksmus priima tardymo izoliatoriaus direktorius. Asmens bylos turinį ir jos tvarkymą nustato Tardymo izoliatorių vidaus tvarkos taisyklės.
+6. Suimtojo asmens bylos turinį ir jos tvarkymą nustato Tardymo izoliatorių vidaus tvarkos taisyklės.
 
 
 
 
 7. Tardymo izoliatoriaus administracija apie asmens atvykimą ne vėliau kaip kitą dieną praneša jo sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
-
-
 
 
 
@@ -311,7 +318,9 @@ SUĖMIMO VYKDYMO REŽIMAS
 
 
 
-4. Nuolatinę asmenų, laikomų tardymo izoliatoriuose, priežiūrą atlieka šių įstaigų pareigūnai. Šių asmenų priežiūrai gali būti naudojamos techninės priemonės, daroma asmenų krata, tikrinami turimi daiktai, gaunami pašto bei perduodami siuntiniai ir smulkieji paketai su spauda. Pas asmenis jų laikymo tardymo izoliatoriuose metu rasti ir protokolu įforminti pinigai motyvuotu tardymo izoliatoriaus direktoriaus nutarimu paimami ir perduodami į šios įstaigos socialinės paramos suimtiesiems fondą. Socialinės paramos suimtiesiems fondo sudarymo ir jo lėšų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė. Daiktai ir reikmenys, kuriuos turėti tardymo izoliatoriuose laikomiems asmenims draudžiama, paimami ir Tardymo izoliatorių vidaus tvarkos taisyklių nustatyta tvarka saugomi ar sunaikinami.
+4. Nuolatinę asmenų, laikomų tardymo izoliatoriuose, priežiūrą atlieka šių įstaigų pareigūnai. Šių asmenų priežiūrai gali būti naudojamos techninės priemonės, daroma asmenų krata, tikrinami turimi daiktai, gaunami pašto bei perduodami siuntiniai ir smulkieji paketai. Pas asmenis jų laikymo tardymo izoliatoriuose metu rasti ir protokolu įforminti pinigai motyvuotu tardymo izoliatoriaus direktoriaus nutarimu paimami ir perduodami į šios įstaigos socialinės paramos suimtiesiems fondą. Socialinės paramos suimtiesiems fondo sudarymo ir jo lėšų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė. Daiktai ir reikmenys, kurie nenumatyti tardymo izoliatoriuose laikomiems asmenims leidžiamų įsigyti ir turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąraše, paimami ir Tardymo izoliatorių vidaus tvarkos taisyklėse nustatyta tvarka saugomi ar sunaikinami.
+Straipsnio dalies pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
 
 
@@ -435,7 +444,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-4. Tardymo izoliatoriams taikomos teisingumo ministro įsakymu tvirtinamos Įėjimo į pataisos įstaigas ir išėjimo iš jų taisyklės. Prireikus tardymo izoliatoriaus administracija turi teisę patikrinti į tardymo izoliatorių įeinančių ir iš jo išeinančių asmenų daiktus ir drabužius, išskyrus Respublikos Prezidento, Seimo, Europos Parlamento ar Vyriausybės narių, teisėjų, gynėjų, prokurorų, ikiteisminio tyrimo pareigūnų, kitų pareigūnų, įstatymų nustatyta tvarka atliekančių tardymo izoliatorių veiklos kontrolę, dvasininkų daiktus ir drabužius, taip pat turi teisę patikrinti įvažiuojančias ir išvažiuojančias transporto priemones. Asmenų lankymosi tardymo izoliatoriuose tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+4. Tardymo izoliatoriams taikomos teisingumo ministro įsakymu tvirtinamos Įėjimo į pataisos įstaigas ir išėjimo iš jų taisyklės. Į tardymo izoliatorių įeinantys ir iš jo išeinantys asmenys, išskyrus Respublikos Prezidentą, Lietuvos Respublikos Seimo, Europos Parlamento ar Lietuvos Respublikos Vyriausybės narius, teisėjus, tikrinami Kalėjimų departamento direktoriaus nustatytomis techninėmis priemonėmis, taip pat tikrinamos įvažiuojančios ir išvažiuojančios transporto priemonės. Kilus pagrįstų įtarimų, patikrinami į tardymo izoliatorių įeinančių ir iš jo išeinančių asmenų daiktai ir drabužiai. Asmenų lankymosi tardymo izoliatoriuose tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+Straipsnio dalies pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+ 
 
 
 
@@ -495,7 +507,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-3) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems nuosprendis įsiteisėjo ir kurie ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkiolikos parų palikti tardymo izoliatoriuose ikiteisminio tyrimo veiksmams atlikti arba dėl bylų nagrinėjimo teisme;
+3) Neteko galios nuo 2016-04-01
+Straipsnio punkto naikinimas:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+ 
 
 
 
@@ -510,7 +525,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 3. Nuteistaisiais, atliekančiais arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes, laikomi:
 
 
-1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, perkelti iki penkiolikos parų į tardymo izoliatorius iš areštinių ar pataisos įstaigų ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi ikiteisminio tyrimo veiksmams atlikti arba dėl bylų nagrinėjimo teisme;
+1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, perkelti iki penkių parų į tardymo izoliatorius iš areštinių ar pataisos įstaigų teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi dėl bylų nagrinėjimo teisme; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+ 
 
 
 
@@ -745,28 +763,30 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 
 
 
-22 straipsnis. Suimtųjų teisė pasimatyti
+22 straipsnis. Suimtųjų teisė pasimatyti 
 
 
-1. Suimtiesiems pasimatymų su giminaičiais ir kitais asmenimis skaičius neribojamas, tačiau pasimatymą tardymo izoliatoriaus administracija leidžia tik norinčio pasimatyti suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Šis sutikimas gali būti vienkartinis arba daugkartinis. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam pasimatyti su giminaičiais ir kitais asmenimis, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas.
-
-
-
-
-2. Vienas suimtojo pasimatymas gali trukti ne ilgiau kaip dvi valandas.
+1. Tardymo izoliatoriaus administracija suimtajam leidžia pasimatyti, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas neleisti suimtajam pasimatyti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo pasimatymas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo neleisti suimtajam pasimatyti, jam ir tardymo izoliatoriaus administracijai turi būti nurodoma šio draudimo trukmė, asmenys, su kuriais neleidžiama pasimatyti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti.
 
 
 
 
-3. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems pasimatyti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Šie asmenys turi teisę į vieną pasimatymą.
+2. Suimtojo pasimatymų skaičius neribojamas. Vienas suimtojo pasimatymas gali trukti ne ilgiau kaip tris valandas.
 
 
 
 
-4. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+3. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodyti asmenys turi teisę į vieną pasimatymą.
+
+
+
+
+4. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse. Suimtojo pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje specialiose patalpose, įrengtose taip, kad lankytojų ir suimtojo fizinis kontaktas negalimas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
-
-
 
 
 
@@ -774,20 +794,22 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 23 straipsnis. Suimtųjų teisė paskambinti telefonu
 
 
-1. Suimtiesiems telefoninių pokalbių su giminaičiais, sutuoktiniu ar sugyventiniu skaičius neribojamas, tačiau telefoninį pokalbį tardymo izoliatoriaus administracija leidžia tik norinčio paskambinti telefonu suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Šis sutikimas gali būti vienkartinis arba daugkartinis. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam paskambinti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems paskambinti telefonu, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
+1. Tardymo izoliatoriaus administracija suimtajam leidžia paskambinti telefonu, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas neleisti suimtajam paskambinti telefonu. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo skambinimas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo neleisti suimtajam paskambinti telefonu, jam ir tardymo izoliatoriaus administracijai turi būti nurodoma šio draudimo trukmė, asmenys, kuriems neleidžiama paskambinti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti.
 
 
 
 
-2. Suimtajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita. Vienas pokalbis telefonu negali trukti ilgiau kaip 15 minučių. Telefoninio pokalbio išlaidas, kai nesinaudojama ryšio paslauga kalbėti telefonu kito abonento sąskaita, apmoka pats suimtasis.
+2. Suimtajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita. Skambinti ir kalbėti telefonu galima ne ilgiau kaip 15 minučių. Telefoninio pokalbio išlaidas, kai nesinaudojama ryšio paslauga kalbėti telefonu kito abonento sąskaita, apmoka pats suimtasis.
 
 
 
 
 3. Šiame straipsnyje numatytos suimtųjų teisės paskambinti telefonu įgyvendinimo tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
-
-
 
 
 
@@ -867,39 +889,63 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-27 straipsnis. Suimtųjų teisė naudotis televizoriais, radijo imtuvais, kompiuteriais, kompiuterinių žaidimų aparatais ir kitais daiktais
+27 straipsnis. Suimtųjų teisė naudotis elektros prietaisais ir kitais daiktais
 
 
-1. Suimtiesiems leidžiama naudotis sutuoktinio, sugyventinio arba artimųjų giminaičių perduotais televizoriais, radijo imtuvais, kompiuteriais, kompiuterinių žaidimų aparatais ir kitais Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytais daiktais.
-
-
-
-
-2. Naudojimosi šio straipsnio 1 dalyje nurodytais daiktais tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+1. Suimtiesiems leidžiama naudotis už asmeninėse sąskaitose turimus pinigus įsigytais ar perduotais Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytais elektros prietaisais ir kitais daiktais.
 
 
 
 
-3. Iš suimtųjų, sistemingai pažeidinėjančių naudojimosi šio straipsnio 1 dalyje nurodytais daiktais tvarką, šie daiktai motyvuotu tardymo izoliatoriaus direktoriaus nutarimu paimami ir saugomi tardymo izoliatoriuje. Paimti daiktai grąžinami juos perdavusiems asmenims pagal jų arba suimtojo rašytinį prašymą arba suimtajam, kai jis perkeliamas į areštinę ar pataisos įstaigą arba paleidžiamas iš tardymo izoliatoriaus.
+2. Suimtiesiems leidžiamų naudotis elektros prietaisų techninius parametrus, įsigijimo, perdavimo ir naudojimosi jais tvarką, taip pat šių prietaisų elektros energijos sąnaudų ir išlaidų už sunaudotą elektros energiją apskaičiavimo ir apmokėjimo taisykles nustato Kalėjimų departamento direktorius.
+
+
+
+
+3. Elektros prietaisai ir kiti daiktai motyvuotu tardymo izoliatoriaus direktoriaus arba jo įgalioto pareigūno nutarimu paimami iš suimtųjų:
+
+
+1) pažeidusių šio straipsnio 2 dalyje nurodytą naudojimosi elektros prietaisais tvarką, – iki trijų mėnesių;
+
+
+
+
+2) turinčių skolą už elektros prietaisų sunaudotą elektros energiją, – iki bus sumokėta skola;
+
+
+
+
+3) uždarytų į drausmės izoliatorių.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytais atvejais paimti elektros prietaisai ir kiti daiktai saugomi tardymo izoliatoriuje. Jie grąžinami juos perdavusiems asmenims pagal jų arba suimtojo rašytinį prašymą arba suimtajam, kai jis perkeliamas į areštinę ar pataisos įstaigą arba paleidžiamas iš tardymo izoliatoriaus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
 
 
 
 
+28 straipsnis. Suimtųjų teisė apsipirkti tardymo izoliatoriaus parduotuvėje
 
 
-28 straipsnis. Suimtųjų teisė pirkti maisto produktų ir būtiniausių reikmenų
-
-
-1. Suimtiesiems leidžiama už asmeninėse sąskaitose turimus pinigus ne grynaisiais pinigais pirkti maisto produktų ir būtiniausių reikmenų Tardymo izoliatorių vidaus tvarkos taisyklių nustatyta tvarka.
+1. Suimtieji turi teisę už asmeninėse sąskaitose turimus pinigus ne grynaisiais pinigais apsipirkti tardymo izoliatoriaus parduotuvėje – įsigyti maisto produktų, būtiniausių reikmenų ir kitų daiktų Tardymo izoliatorių vidaus tvarkos taisyklėse nustatyta tvarka. 
 
 
 
 
-2. Tardymo izoliatoriuose laikomiems asmenims draudžiamų pirktis maisto produktų ir būtiniausių reikmenų sąrašas nustatytas Tardymo izoliatorių vidaus tvarkos taisyklėse.
+2. Tardymo izoliatoriuose laikomiems asmenims leidžiamų įsigyti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąrašas nustatytas Tardymo izoliatorių vidaus tvarkos taisyklėse.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
  
-
-
 
 
 
@@ -1048,7 +1094,7 @@ Suimtieji užsieniečiai turi teisę palaikyti ryšius su savo valstybių diplom
 
 
 
-3. Suimtiesiems draudžiama turėti Bausmių vykdymo kodekso 1 priede nustatytus daiktus ir reikmenis.
+3. Suimtiesiems draudžiama su savimi turėti maisto produktų, daiktų ir būtiniausių reikmenų, kurie nenumatyti tardymo izoliatoriuose laikomiems asmenims leidžiamų įsigyti ir turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąraše.
 
 
 Straipsnio pakeitimai:
@@ -1222,12 +1268,18 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 38 straipsnis. Suimtųjų laikymo drausmės izoliatoriuose sąlygos
 
 
-1. Drausmės izoliatoriuose laikomi suimtieji neturi teisės gauti pasimatymų, smulkiųjų paketų su spauda, paskambinti telefonu, įsigyti maisto produktų ir būtiniausių reikmenų, siųsti laiškų. Jiems neleidžiama naudotis stalo žaidimais, televizoriais, kompiuteriais, kompiuterinių žaidimų aparatais, radijo imtuvais ir kitais Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytais daiktais.
+1. Drausmės izoliatoriuose laikomi suimtieji neturi teisės gauti pasimatymų, smulkiųjų paketų, paskambinti telefonu, siųsti laiškų, išskyrus atvejus, kai suimtieji įgyvendina šio įstatymo 15, 31 ir 49 straipsniuose nurodytas teises. Jiems neleidžiama turėti maisto produktų ir kitų Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytų daiktų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+ 
 
 
 
 
-2. Drausmės izoliatoriuose laikomiems suimtiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą ir kasdien vieną valandą pasivaikščioti gryname ore.
+2. Drausmės izoliatoriuose laikomiems suimtiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams pagal gydytojų išvadą – dvi valandas pasivaikščioti.
+Straipsnio dalies pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+ 
 
 
 
