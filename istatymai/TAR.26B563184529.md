@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-05-24
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -1850,7 +1850,10 @@ TERITORIJŲ PLANAVIMO PROCESAS
 
 
 
-4) visuomenės sveikatos centro apskrityje atstovas;
+4) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos atstovas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
+ 
 
 
 
@@ -3077,3 +3080,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 42, 43 ir 44 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1945, 2015-09-24, paskelbta TAR 2015-09-28, i. k. 2015-14292
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1719, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08064
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 26 straipsnio pakeitimo įstatymas
