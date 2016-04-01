@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -87,7 +87,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-6. Kapo ramybės laikotarpis – laikas, per kurį iki kaulų suyra nekremuoti žmogaus palaikai. Konkrečią kapo ramybės laikotarpio trukmę kapinėse, atsižvelgdamas į grunto sudėtį ir į tai, ar kape palaidotas asmuo sirgo pavojinga ar ypač pavojinga užkrečiamąja liga, nustato kapinių prižiūrėtojas, remdamasis hidrogeologinio tyrimo rezultatais ir visuomenės sveikatos centro apskrityje išvada. Kapo ramybės laikotarpis negali būti trumpesnis kaip 25 metai.
+6. Kapo ramybės laikotarpis – laikas, per kurį iki kaulų suyra nekremuoti žmogaus palaikai. Konkrečią kapo ramybės laikotarpio trukmę kapinėse, atsižvelgdamas į grunto sudėtį ir į tai, ar kape palaidotas asmuo sirgo pavojinga ar ypač pavojinga užkrečiamąja liga, nustato kapinių prižiūrėtojas, remdamasis hidrogeologinio tyrimo rezultatais ir Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras) išvada. Kapo ramybės laikotarpis negali būti trumpesnis kaip 25 metai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -544,7 +547,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-3. Aplinkos ministerija ar jos įgaliota institucija, gavusi šio straipsnio 2 dalyje nurodytus dokumentus, per 5 darbo dienas raštu kreipiasi į visuomenės sveikatos centrus apskrityse, kad šie pateiktų duomenis apie Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai. Visuomenės sveikatos centras apskrityje duomenis apie pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai privalo pateikti per 10 darbo dienų nuo licencijas išduodančios institucijos rašto gavimo dienos.
+3. Aplinkos ministerija ar jos įgaliota institucija, gavusi šio straipsnio 2 dalyje nurodytus dokumentus, per 5 darbo dienas raštu kreipiasi į Nacionalinį visuomenės sveikatos centrą, kad jis pateiktų duomenis apie Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai. Nacionalinis visuomenės sveikatos centras duomenis apie pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) kremavimo veiklai privalo pateikti per 10 darbo dienų nuo licencijas išduodančios institucijos rašto gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -607,7 +613,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-4) jeigu sustabdomas šio straipsnio 1 dalyje nurodyto leidimo-higienos paso galiojimas. Visuomenės sveikatos centras apskrityje, sustabdęs leidimo-higienos paso galiojimą, turi per 3 darbo dienas apie tai raštu informuoti licencijas išduodančią instituciją ir nurodyti jo sustabdymo galiojimo terminą.
+4) jeigu sustabdomas šio straipsnio 1 dalyje nurodyto leidimo-higienos paso galiojimas. Nacionalinis visuomenės sveikatos centras, sustabdęs leidimo-higienos paso galiojimą, turi per 3 darbo dienas apie tai raštu informuoti licencijas išduodančią instituciją ir nurodyti jo sustabdymo galiojimo terminą. 
+Straipsnio punkto pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -642,7 +651,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-5) jeigu panaikinamas šio straipsnio 1 dalyje nurodyto leidimo-higienos paso galiojimas. Visuomenės sveikatos centras apskrityje apie tai raštu informuoja licencijas išduodančią instituciją per 3 darbo dienas nuo leidimo-higienos paso galiojimo panaikinimo dienos.
+5) jeigu panaikinamas šio straipsnio 1 dalyje nurodyto leidimo-higienos paso galiojimas. Nacionalinis visuomenės sveikatos centras apie tai raštu informuoja licencijas išduodančią instituciją per 3 darbo dienas nuo leidimo-higienos paso galiojimo panaikinimo dienos.
+Straipsnio punkto pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -812,6 +824,8 @@ Straipsnio pakeitimai:
 Nr. XI-1762, 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
 Straipsnio pakeitimai:
 Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+Nr. XII-1802, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10361
  
 
 
@@ -1131,7 +1145,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-5. Palaidotus žmogaus palaikus galima ekshumuoti nesibaigus kapo ramybės laikotarpiui, kai yra palaidoto žmogaus artimųjų giminaičių prašymas ir Sveikatos apsaugos ministerijos nustatyta tvarka gautas visuomenės sveikatos centro apskrityje leidimas arba prokuroro nurodymu. Ekshumavimo išlaidas apmoka pareiškėjas. Visuomenės sveikatos centro apskrityje leidimas nėra būtinas perkeliant rūsyje palaidotus žmogaus palaikus, nebent būtų atidaromas karstas.
+5. Palaidotus žmogaus palaikus galima ekshumuoti nesibaigus kapo ramybės laikotarpiui, kai yra palaidoto žmogaus artimųjų giminaičių prašymas ir Sveikatos apsaugos ministerijos nustatyta tvarka gautas Nacionalinio visuomenės sveikatos centro leidimas arba prokuroro nurodymu. Ekshumavimo išlaidas apmoka pareiškėjas. Nacionalinio visuomenės sveikatos centro leidimas nėra būtinas perkeliant rūsyje palaidotus žmogaus palaikus, nebent būtų atidaromas karstas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -1259,7 +1276,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-2. Sprendimą dėl draudimo laidoti kapinių dalyje arba visoje jų teritorijoje priima savivaldybės, kurios teritorijoje yra kapinės, administracijos direktorius, vadovaudamasis visuomenės sveikatos centro apskrityje siūlymu.
+2. Sprendimą dėl draudimo laidoti kapinių dalyje arba visoje jų teritorijoje priima savivaldybės, kurios teritorijoje yra kapinės, administracijos direktorius, vadovaudamasis Nacionalinio visuomenės sveikatos centro siūlymu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 Straipsnio pakeitimai:
@@ -1272,7 +1292,10 @@ Nr. XI-1762, 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
 29 straipsnis. Kapinių panaikinimas
 
 
-1. Kapinės gali būti panaikinamos iškilus pavojui visuomenės sveikatai. Sprendimą dėl kapinių panaikinimo priima savivaldybės, kurios teritorijoje yra kapinės, taryba, vadovaudamasi visuomenės sveikatos centro apskrityje siūlymu.
+1. Kapinės gali būti panaikinamos iškilus pavojui visuomenės sveikatai. Sprendimą dėl kapinių panaikinimo priima savivaldybės, kurios teritorijoje yra kapinės, taryba, vadovaudamasi Nacionalinio visuomenės sveikatos centro siūlymu.
+Straipsnio dalies pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -1308,7 +1331,10 @@ KREMAVIMO, BALZAMAVIMO IR LAIDOJIMO PASLAUGŲ TEIKIMO PRIEŽIŪRA IR KONTROLĖ
 30 straipsnis. Valstybės institucijų kompetencija kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės srityje
 
 
-1. Visuomenės sveikatos centrai apskrityse vykdo kremavimo įmonių, balzamavimo ir laidojimo paslaugų teikėjų, teikiančių žmogaus palaikų laikymo, žmogaus palaikų paruošimo šarvoti ir šarvojimo paslaugas, valstybinę visuomenės sveikatos saugos kontrolę sveikatos apsaugos ministro ar jo įgaliotos įstaigos nustatyta tvarka, taip pat kituose įstatymuose nustatytas kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės funkcijas.
+1. Nacionalinis visuomenės sveikatos centras vykdo žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos kontrolę, taip pat kituose įstatymuose nustatytas kremavimo veiklos, balzamavimo, laidojimo paslaugų teikimo ir kapinių tvarkymo priežiūros ir kontrolės funkcijas.
+Straipsnio dalies pakeitimai:
+Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
+ 
 
 
 
@@ -1488,3 +1514,8 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 16, 30 straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1802, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10361
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir 30 straipsnių pakeitimo įstatymo Nr. XII-1711 3 straipsnio pripažinimo netekusiu galios įstatymas
