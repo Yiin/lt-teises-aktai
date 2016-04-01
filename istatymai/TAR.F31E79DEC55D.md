@@ -20,14 +20,14 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-03-31
+Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
 TAR pastaba. Iki įstatymo Nr. XII-1834 įsigaliojimo (2015-11-01) baigti statyti, pradėti ir ilgiau kaip 3 metus nebaigti, tačiau Lietuvos Respublikos nekilnojamojo turto registre neįregistruoti statiniai ir daiktinės teisės į juos turi būti įregistruoti Lietuvos Respublikos nekilnojamojo turto registre ne vėliau kaip per vienus metus nuo šio įstatymo įsigaliojimo dienos.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
-Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 34, 40, 45, 55 straipsnių pakeitimo ir Įstatymo papildymo 54-2 straipsniu įstatymas
+Nr. XII-1713, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08054
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 23 straipsnio pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2002 m. liepos 1 d.: 
 Nr. IX-583, 2001-11-08, Žin., 2001, Nr. 101-3597 (2001-11-30)
@@ -2688,7 +2688,10 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 
 
 
-6) visuomenės sveikatos centrai apskrityse; 
+6) Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos;
+Straipsnio punkto pakeitimai:
+Nr. XII-1713, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08054
+ 
 
 
 
@@ -5018,3 +5021,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 43-1 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1834, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10583
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 34, 40, 45, 55 straipsnių pakeitimo ir Įstatymo papildymo 54-2 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1713, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08054
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 23 straipsnio pakeitimo įstatymas
