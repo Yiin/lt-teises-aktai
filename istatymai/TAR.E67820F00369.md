@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e67820f0036911e588da8908dfa91cac"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir 30 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2016-04-01
+ 
+Įstatymas paskelbtas: TAR 2015-05-26, i. k. 2015-08051
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO NR. X-1404 2, 111, 161, 25, 28, 29 IR 30 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -122,50 +129,10 @@ Vilnius
 
 
 
-3 straipsnis. 161 straipsnio pakeitimas
-
-
-1. Pakeisti 161 straipsnio 3 dalį ir ją išdėstyti taip:
-
-
-
-
-„3. Licencijas išduodanti institucija, gavusi šio straipsnio 2 dalyje nurodytus dokumentus, per 5 darbo dienas raštu kreipiasi į Nacionalinį visuomenės sveikatos centrą, kad jis pateiktų duomenis apie Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir kitų teisės aktų nustatyta tvarka pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) balzamavimui. Nacionalinis visuomenės sveikatos centras duomenis apie pareiškėjui išduotą leidimą-higienos pasą (leidimus-higienos pasus) balzamavimui privalo pateikti per 10 darbo dienų nuo licencijas išduodančios institucijos rašto gavimo dienos.“
-
-
-
-
-
-
-
-
-2. Pakeisti 161 straipsnio 9 dalies 4 punktą ir jį išdėstyti taip:
-
-
-
-
-„4) jeigu sustabdomas šio straipsnio 1 dalies 2 punkte nurodyto leidimo-higienos paso galiojimas. Nacionalinis visuomenės sveikatos centras, sustabdęs leidimo-higienos paso galiojimą, turi per 3 darbo dienas apie tai raštu informuoti licencijas išduodančią instituciją ir nurodyti jo sustabdymo galiojimo terminą.“
-
-
-
-
-
-
-
-
-3. Pakeisti 161 straipsnio 11 dalies 5 punktą ir jį išdėstyti taip:
-
-
-
-
-„5) jeigu panaikinamas šio straipsnio 1 dalies 2 punkte nurodyto leidimo-higienos paso galiojimas. Nacionalinis visuomenės sveikatos centras apie tai raštu informuoja licencijas išduodančią instituciją per 3 darbo dienas nuo leidimo-higienos paso galiojimo panaikinimo.“
+3 straipsnis. Neteko galios nuo 2015-07-01.
+Straipsnio pakeitimai:
+Nr. XII-1802, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10361
  
-
-
-
-
-
-
 
 
 
@@ -268,3 +235,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1802, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10361
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir 30 straipsnių pakeitimo įstatymo Nr. XII-1711 3 straipsnio pripažinimo netekusiu galios įstatymas
