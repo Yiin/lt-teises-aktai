@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/27db68207c7011e5b7eba10a9b5a9c5f"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43, 47 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymas
 
+Suvestinė redakcija nuo 2016-04-06
+ 
+Įstatymas paskelbtas: TAR 2015-10-27, i. k. 2015-16900
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VAIKO TEISIŲ APSAUGOS PAGRINDŲ ĮSTATYMO NR. I-1234 1, 43, 47 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 571 STRAIPSNIU IR PRIEDU
 ĮSTATYMAS
@@ -233,7 +240,10 @@ priedas
 
 
 
-3. Darbdavys ar savanoriškos veiklos organizatorius turi pareikalauti iš asmenų, šio įstatymo 4 straipsnio įsigaliojimo dieną dirbančių šio įstatymo 4 straipsnyje išdėstyto Vaiko teisių apsaugos pagrindų įstatymo 571 straipsnio 1 dalies 1 ir 2 punktuose nurodytus darbus ar užsiimančių savanoriška veikla, pristatyti darbdaviui ar savanoriškos veiklos organizatoriui pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį. Asmeniui nepristačius pažymos per darbdavio nustatytą terminą, jis nušalinamas nuo darbo ar vykdomos savanoriškos veiklos. Jeigu asmuo nepateikia pažymos per vieną mėnesį nuo jo nušalinimo nuo darbo ar savanoriškos veiklos dienos, su juo sudaryta darbo sutartis ar savanoriška veikla nutraukiama.
+3. Darbdavys ar savanoriškos veiklos organizatorius dėl asmenų, šio įstatymo 4 straipsnio įsigaliojimo dieną dirbančių šio įstatymo 4 straipsnyje išdėstyto Vaiko teisių apsaugos pagrindų įstatymo 571 straipsnio 1 dalies 1 ir 2 punktuose nurodytus darbus ar užsiimančių savanoriška veikla, turi gauti pažymas iš Įtariamųjų, kaltinamųjų ir nuteistųjų registro apie šiuos fizinius asmenis. Šios pažymos išduodamos nemokamai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2274, 2016-03-24, paskelbta TAR 2016-04-05, i. k. 2016-07666
+ 
 
 
 
@@ -254,3 +264,13 @@ priedas
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2274, 2016-03-24, paskelbta TAR 2016-04-05, i. k. 2016-07666
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43, 47 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymo Nr. XII-1965 6 straipsnio pakeitimo įstatymas
