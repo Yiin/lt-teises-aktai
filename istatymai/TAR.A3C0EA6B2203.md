@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 
 # Lietuvos Respublikos metrologijos įstatymas
 
-Suvestinė redakcija nuo 2014-07-01 iki 2016-04-26
+Suvestinė redakcija nuo 2016-04-27 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 74-1768, i. k. 0961010ISTA00I-1452
  
@@ -64,7 +64,10 @@ Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Akreditavimas – procedūra, kuria valdžios įgaliota įstaiga oficialiai pripažįsta, kad fizinis ar juridinis asmuo kompetentingi atlikti tam tikrus darbus.
+1. Akreditavimas – kaip apibrėžta 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
@@ -134,7 +137,10 @@ Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
 
 
 
-11. Matavimo priemonės tiekimas rinkai – veiksmas, kai matavimo priemonė tiekiama galutiniam vartotojui už mokestį arba nemokamai. 
+11. Neteko galios nuo 2016-04-27
+Straipsnio dalies naikinimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
@@ -204,7 +210,10 @@ Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
 
 
 
-25. Paskelbtoji įstaiga – įstaiga, kuriai pavedama įvertinti matavimo priemonių atitiktį pagal Europos Sąjungos teisės aktų reikalavimus ir apie kurią pranešama Europos Komisijai bei kitoms Europos Sąjungos valstybėms narėms.
+25. Paskelbtoji įstaiga – įstaiga, kuriai pavedama įvertinti matavimo priemonės atitiktį tai priemonei taikomo techninio reglamento reikalavimams ir apie kurią pranešama Europos Komisijai, kitoms Europos Sąjungos valstybėms narėms ir Europos ekonominės erdvės valstybėms. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
@@ -214,47 +223,90 @@ Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
 
 
 
-27. Patikros sertifikatas – dokumentas, patvirtinantis, kad matavimo priemonės patikros rezultatas patenkinamas.
+27. Pateikimas rinkai – veiksmas, kai matavimo priemonė, fasuota prekė arba matavimo indas pirmą kartą tampa prieinamas Europos Sąjungos rinkoje. 
+Papildyta straipsnio dalimi:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-28. Rinkos priežiūra – rinkai tiekiamų ar saugomų prieš tiekiant rinkai teisinei metrologijai priskirtų matavimo priemonių, fasuotų prekių ir matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, apimanti veiksmus, neleidžiančius šių reikalavimų neatitinkančioms matavimo priemonėms, fasuotoms prekėms ir matavimo indams patekti į rinką.
+28. Patikros sertifikatas – dokumentas, patvirtinantis, kad matavimo priemonės patikros rezultatas patenkinamas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-29. Sertifikuotoji pamatinė medžiaga – turinti sertifikatą pamatinė medžiaga, kurios vienos ar daugiau savybių vertės yra patvirtintos naudojant procedūrą, kuri sieties principu tiksliai realizuoja matavimo vienetą, kuriuo išreiškiamos tos vertės, ir kiekviena patvirtintoji vertė turi neapibrėžtį su pasirinktu pasikliovimo lygmeniu.
+29. Rinkos priežiūra – rinkai tiekiamų ar saugomų prieš tiekiant rinkai teisinei metrologijai priskirtų matavimo priemonių, fasuotų prekių ir matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, apimanti veiksmus, neleidžiančius šių reikalavimų neatitinkančioms matavimo priemonėms, fasuotoms prekėms ir matavimo indams patekti į rinką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-30. Techninis reglamentas – įgaliotos institucijos parengta ir patvirtinta techninė specifikacija, kiti reikalavimai arba paslaugų taisyklės, įskaitant atitinkamas administracines nuostatas, kurių būtina laikytis de jure ir de facto parduodant ar naudojant gaminį, teikiant paslaugą, steigiant paslaugų teikėjo verslą Lietuvoje ar kitoje Europos Sąjungos valstybėje narėje.
+30. Sertifikuotoji pamatinė medžiaga – turinti sertifikatą pamatinė medžiaga, kurios vienos ar daugiau savybių vertės yra patvirtintos naudojant procedūrą, kuri sieties principu tiksliai realizuoja matavimo vienetą, kuriuo išreiškiamos tos vertės, ir kiekviena patvirtintoji vertė turi neapibrėžtį su pasirinktu pasikliovimo lygmeniu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-31. Teisinė metrologija – su matavimais, matavimo vienetais, matavimo priemonėmis, matavimo indais ir metodais susijusi metrologijos sritis, kurios veiklą reglamentuoja įstatymų ir kitų teisės aktų nustatyti reikalavimai ir vykdo kompetentingos institucijos.
+31. Techninis reglamentas – įgaliotos institucijos parengta ir patvirtinta techninė specifikacija, kiti reikalavimai arba paslaugų taisyklės, įskaitant atitinkamas administracines nuostatas, kurių būtina laikytis de jure ir de facto parduodant ar naudojant gaminį, teikiant paslaugą, steigiant paslaugų teikėjo verslą Lietuvoje ar kitoje Europos Sąjungos valstybėje narėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-32. Teisinė metrologinė priežiūra – teisinio metrologinio reglamentavimo objektų, tai yra matavimo priemonių, prekių kiekio, taip pat ir esančio fasuotėse, matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, jų gamintojų, pardavėjų ir naudotojų kontrolė, ar jie laikosi šio įstatymo ir kitų teisės aktų nuostatų, ir su tuo susijusi rinkos priežiūra. Teisinė metrologinė priežiūra apima kiekio, nurodyto ant fasuočių, kontrolę.
+32. Teisinė metrologija – su matavimais, matavimo vienetais, matavimo priemonėmis, matavimo indais ir metodais susijusi metrologijos sritis, kurios veiklą reglamentuoja įstatymų ir kitų teisės aktų nustatyti reikalavimai ir vykdo kompetentingos institucijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-33. Teisinis metrologinis reglamentavimas – valdymo ir kontrolės veiksmų visuma siekiant teisingų matavimų rezultatų. 
+33. Teisinė metrologinė priežiūra – teisinio metrologinio reglamentavimo objektų, tai yra matavimo priemonių, prekių kiekio, taip pat ir esančio fasuotėse, matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, jų gamintojų, pardavėjų ir naudotojų kontrolė, ar jie laikosi šio įstatymo ir kitų teisės aktų nuostatų, ir su tuo susijusi rinkos priežiūra. Teisinė metrologinė priežiūra apima kiekio, nurodyto ant fasuočių, kontrolę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-34. Valstybinis matavimo vieneto etalonas (toliau – valstybinis etalonas) – Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintas etalonas, naudojamas valstybėje kaip pagrindinis, priskiriant tam tikro dydžio vertes kitiems etalonams.
+34. Teisinis metrologinis reglamentavimas – valdymo ir kontrolės veiksmų visuma siekiant teisingų matavimų rezultatų. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
 
-35. Vardinis produkto kiekis – produkto kiekis, kuris privalo būti fasuotėje pagal fasuotės užrašą arba žymėjimą, arba pagal jos dokumentus.
+35. Tiekimas rinkai – matavimo priemonės, fasuotos prekės arba matavimo indo, skirtų platinti ar naudoti rinkoje, tiekimas vykdant ūkinę komercinę veiklą už atlygį arba be jo. 
+Papildyta straipsnio dalimi:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
+
+
+
+
+36. Valstybinis matavimo vieneto etalonas (toliau – valstybinis etalonas) – Lietuvos Respublikos Vyriausybės nustatyta tvarka pripažintas etalonas, naudojamas valstybėje kaip pagrindinis, priskiriant tam tikro dydžio vertes kitiems etalonams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
+
+
+
+
+37. Vardinis produkto kiekis – produkto kiekis, kuris privalo būti fasuotėje pagal fasuotės užrašą arba žymėjimą, arba pagal jos dokumentus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 Straipsnio pakeitimai:
@@ -492,7 +544,10 @@ Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
 
 
 
-3. Inspekcija atlieka teisinę metrologinę priežiūrą, atlieka Lietuvos matavimo priemonių valstybės registro tvarkytojo funkcijas, teisės aktų nustatytais atvejais teikia informaciją Europos Komisijai ir kitų valstybių narių įgaliotoms institucijoms apie priemones, taikomas uždraudžiant naudoti ar tiekti rinkai matavimo priemones, fasuotas prekes ar matavimo indus, ir tokių sprendimų priežastis.
+3. Inspekcija atlieka teisinę metrologinę priežiūrą, atlieka Lietuvos matavimo priemonių valstybės registro tvarkytojo funkcijas, su teisiniu metrologiniu reglamentavimu susijusių teisės aktų nustatytais atvejais teikia informaciją Europos Komisijai ir kitų valstybių narių įgaliotoms institucijoms apie priemones, taikomas uždraudžiant naudoti ar tiekti rinkai matavimo priemones, fasuotas prekes ar matavimo indus, ir tokių sprendimų priežastis, atlieka paskirtųjų įstaigų priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
 
 
 
@@ -598,31 +653,30 @@ MATAVIMO PRIEMONĖMS, FASUOTOMS PREKĖMS IR MATAVIMO INDAMS TAIKOMI REIKALAVIMAI
 
 
 
-12 straipsnis. Matavimo priemonių tiekimas rinkai
+12 straipsnis. Matavimo priemonių tiekimas rinkai, pateikimas rinkai ir naudojimo pradžia
 
 
-1. Rinkai tiekiamos matavimo priemonės, skirtos naudoti teisinėje metrologijoje, turi turėti techniniais reglamentais arba kitais teisės aktais nustatytus žymenis ir (arba) ženklus, ir (arba) reikiamus liudijimus (sertifikatus), atitinkančius šio įstatymo, techninių reglamentų ir kitų teisės aktų reikalavimus ir įrodančius atliktą atitikties įvertinimą. Kai matavimo priemonė yra per maža arba per jautri, kad ant jos galėtų būti pritvirtinti žymenys ir (arba) ženklai, jie turi būti ant pakuotės, jei tokia yra, ir ant pridedamų dokumentų.
+1. Naudoti teisinėje metrologijoje skirtos rinkai tiekiamos matavimo priemonės turi turėti techninių reglamentų arba su matavimo priemonių teisiniu metrologiniu reglamentavimu susijusių teisės aktų nustatytus žymenis ir (arba) ženklus, ir (arba) reikiamus liudijimus (sertifikatus), įrodančius atliktą techniniuose reglamentuose arba su matavimo priemonių teisiniu metrologiniu reglamentavimu susijusiuose teisės aktuose nurodytą metrologinį patvirtinimą. Kai matavimo priemonė yra per maža arba per jautri, kad ant jos galėtų būti pritvirtinti žymenys ir (arba) ženklai, jie turi būti pateikti ant matavimo priemonės pakuotės, jei ši yra, ir prie matavimo priemonės pridedamuose dokumentuose.
 
 
 
 
-2. Ministerija nustato matavimo priemonių, kai jos nepatenka į techninių reglamentų, kurie nustato tiekimo rinkai sąlygas, taikymo sritį, tiekimo rinkai taisykles, taip pat ne Europos Sąjungos valstybėse narėse išduotų matavimo priemonių sertifikatų ir žymenų pripažinimo taisykles.
-Straipsnio dalies pakeitimai:
-Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
+2. Matavimo priemonių, patenkančių į techninių reglamentų taikymo sritį, pateikimo rinkai ir pradėjimo naudoti sąlygos nustatomos techniniuose reglamentuose.
+
+
+
+
+3. Ministras, atsakingas už metrologijos valdymo sritį, tvirtina matavimo priemonių, nepatenkančių į techninių reglamentų taikymo sritį, pateikimo rinkai ir pradėjimo naudoti taisykles, taip pat ne Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės valstybėse išduotų matavimo priemonių sertifikatų ir žymenų ir (arba) ženklų pripažinimo taisykles.
+
+
+
+
+4. Techninių reglamentų arba su matavimo priemonių teisiniu metrologiniu reglamentavimu susijusių teisės aktų reikalavimų neatitinkančios matavimo priemonės gali būti rodomos prekybos mugėse, parodose, pristatymuose, jeigu yra matomas ženklas, kuriame aiškiai pažymėta jų neatitiktis nustatytiems reikalavimams ir tai, kad jos negali būti pateiktos rinkai ir pradėtos naudoti tol, kol nebus patvirtinta jų atitiktis techninių reglamentų arba su matavimo priemonių teisiniu metrologiniu reglamentavimu susijusių teisės aktų reikalavimams.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
  
-
-
-
-
-3. Draudžiama trukdyti patiekti rinkai ir pradėti naudoti matavimo priemones, kurios atitinka šio įstatymo, techninių reglamentų ir kitų teisės aktų reikalavimus.
-
-
-
-
-4. Draudžiama trukdyti rodyti matavimo priemones, neatitinkančias teisinės metrologijos reikalavimų, prekybos mugėse, parodose, pristatymuose, jeigu yra matomas ženklas, kuriame aiškiai pažymėta jų neatitiktis nustatytiems reikalavimams ir tai, kad jos negali būti patiektos rinkai ir (arba) pradėtos naudoti tol, kol nebus įvykdyti teisinės metrologijos reikalavimai.
- 
-
-
 
 
 
@@ -1086,92 +1140,41 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos metrologijos įstatymo
+Lietuvos Respublikos
+metrologijos įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1971 m. liepos 26 d. Tarybos direktyva 71/316/EEB dėl valstybių narių įstatymų, susijusių su bendromis matavimo priemonių ir metrologinės kontrolės nuostatomis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 127 (su paskutiniais pakeitimais, padarytais 1987 m. birželio 25 d. Tarybos direktyva 87/355/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 8 tomas, p. 280).
+1. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 169).
 
 
 
 
-2. 1971 m. liepos 26 d. Tarybos direktyva 71/317/EEB dėl valstybių narių įstatymų, susijusių su 5–50 kg vidutinio tikslumo stačiakampiais svarsčiais ir 1-10 kg vidutinio tikslumo cilindriniais svarsčiais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 140).
+2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 91) su paskutiniais pakeitimais, padarytais 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/45/EB (OL 2007 L 247, p. 17).
 
 
 
 
-3. 1971 m. spalio 12 d. Tarybos direktyva 71/347/EEB dėl valstybių narių įstatymų, reglamentuojančių grūdų hektolitro masės matavimą, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 201).
+3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 3) su paskutiniais pakeitimas, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/3/EB (OL 2009 L 114, p. 10).
 
 
 
 
-4. 1971 m. spalio 12 d. Tarybos direktyva 71/349/EEB dėl valstybių narių įstatymų, susijusių su laivų rezervuarų kalibravimu, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 215).
+4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/31/ES dėl valstybių narių įstatymų, susijusių su neautomatinių svarstyklių tiekimu rinkai, suderinimo (OL 2014 L 96, p. 107).
 
 
 
 
-5. 1974 m. kovo 4 d. Tarybos direktyva 74/148/EEB dėl valstybių narių įstatymų, susijusių su didesnio nei vidutinio tikslumo svarsčiais (nuo 1 mg iki 50 kg), suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 63).
-
-
-
-
-6. 1974 m. gruodžio 17 d. Tarybos direktyva 75/33/EEB dėl valstybių narių įstatymų, susijusių su šalto vandens skaitikliais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 147).
-
-
-
-
-7. 1974 m. gruodžio 19 d. Tarybos direktyva 75/106/EEB dėl valstybių narių įstatymų, susijusių su kai kurių skystųjų produktų fasavimu pagal tūrį, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 156 (su paskutiniais pakeitimais, padarytais 1989 m. gruodžio 21 d. Tarybos direktyva 89/676/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 10 tomas, p. 85).
-
-
-
-
-8. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 169).
-
-
-
-
-9. 1976 m. sausio 20 d. Tarybos direktyva 76/21 l/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimo pagal masę arba tūrį, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 91 (su paskutiniais pakeitimais, padarytais 1978 m. rugsėjo 28 d. Komisijos direktyva 78/891/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 5 tomas, p. 195).
-
-
-
-
-10. 1976 m. liepos 27 d. Tarybos direktyva 76/765/EEB dėl valstybių narių įstatymų, susijusių su spiritometrais ir alkoholio areometrais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 259 (su paskutiniais pakeitimais, padarytais 1982 m. liepos 1 d. Komisijos direktyva 82/624/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 336).
-
-
-
-
-11. 1976 m. liepos 27 d. Tarybos direktyva 76/766/EEB dėl valstybių narių įstatymų, susijusių su alkoholio lentelėmis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 265).
-
-
-
-
-12. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2000 m. sausio 24 d. Europos Parlamento ir Tarybos direktyva 1999/103/EB, OL 2004 m. specialusis leidimas, 13 skyrius, 24 tomas, p. 266).
-
-
-
-
-13. 1980 m. sausio 15 d. Tarybos direktyva 80/232/EEB dėl valstybių narių įstatymų, susijusių su leidžiamomis tam tikrų fasuotų produktų vardinių kiekių ir vardinių tūrių skalėmis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 14 (su paskutiniais pakeitimais, padarytais 1987 m. birželio 25 d. Tarybos direktyva 87/355/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 8 tomas, p. 280).
-
-
-
-
-14. 1986 m. gegužės 26 d. Tarybos direktyva 86/217/EEB dėl valstybių narių įstatymų, susijusių su automobilių padangų slėgmačiais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 8 tomas, p. 148).
-
-
-
-
-15. 1990 m. liepos 20 d. Tarybos direktyva 90/384/EEB dėl valstybių narių įstatymų, susijusių su neautomatinėmis svarstyklėmis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 10 tomas, p. 138 (su paskutiniais pakeitimais, padarytais 1993 m. liepos 22 d. Tarybos direktyva 93/68/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 12 tomas, p. 173).
-
-
-
-
-16. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/22/EB dėl matavimo priemonių (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 149).
+5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo (OL 2014 L 96, p. 149) su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13 (OL 2015 L 3, p. 42).
  
 
 
+Priedo pakeitimai:
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+ 
  
  
 Pakeitimai:
@@ -1195,3 +1198,8 @@ Lietuvos Respublikos metrologijos įstatymo 1, 2, 6, 7, 8, 9, 10, 12, 15, 18, 19
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-948, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07823
 Lietuvos Respublikos metrologijos įstatymo 1, 2, 6, 7, 8, 9, 10, 12, 15, 18, 19, 22, 23 straipsnių pakeitimo ir papildymo įstatymo Nr. XII-697 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 2, 9, 12 straipsnių ir priedo pakeitimo įstatymas
