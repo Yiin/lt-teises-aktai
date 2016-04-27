@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-04-26
+Suvestinė redakcija nuo 2016-04-27 iki 2016-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -21,13 +21,10 @@ Nauja įstatymo redakcija nuo 2011-09-01:
 Nr. XI-1508, 2011-06-23, Žin., 2011, Nr. 86-4150 (2011-07-13)
  
  
-LIETUVOS RESPUBLIKOS
-KARO PRIEVOLĖS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KARO PRIEVOLĖS ĮSTATYMAS
  
 1996 m. spalio 22 d. Nr. I-1593
 Vilnius
- 
  
 
 
@@ -221,7 +218,7 @@ PRIVALOMOJI PRADINĖ KARO TARNYBA
 
 
 PIRMASIS SKIRSNIS
-PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATLIKIMO TVARKA  IR SĄLYGOS
+PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATLIKIMO TVARKA IR SĄLYGOS
  
 
 
@@ -1836,7 +1833,10 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-2. Savo noru nuolatinę privalomąją pradinę karo tarnybą atliekantiems ar baziniuose kariniuose mokymuose dalyvaujantiems asmenims šio straipsnio 1 dalyje nurodytos išmokos yra didinamos 25 procentais.
+2. Savo noru nuolatinę privalomąją pradinę karo tarnybą atliekantiems ar baziniuose kariniuose mokymuose dalyvaujantiems asmenims, kurie nebuvo įrašyti į einamųjų kalendorinių metų šaukimo sąrašą, šio straipsnio 1 dalyje nurodytos išmokos didinamos 30 procentų. Nuolatinę privalomąją pradinę karo tarnybą atliekantiems ar baziniuose kariniuose mokymuose dalyvaujantiems asmenims, kurie buvo įrašyti į einamųjų kalendorinių metų šaukimo sąrašą ir kurie norą atlikti nuolatinę privalomąją pradinę karo tarnybą ar dalyvauti baziniuose kariniuose mokymuose pareiškė iki įsakymo dėl paskyrimo į karinį vienetą pasirašymo dienos, šio straipsnio 1 dalyje nurodytos išmokos didinamos 15 procentų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2310, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10421
+ 
 
 
 
@@ -1990,3 +1990,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 5, 6, 8, 9, 15, 32, 37
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 32, 33, 34, 37 ir 39 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2310, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10421
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 41-1 straipsnio pakeitimo įstatymas
