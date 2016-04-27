@@ -13,14 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-04-26
+Suvestinė redakcija nuo 2016-04-27 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
  
-LIETUVOS RESPUBLIKOS
-MUITINĖS
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS MUITINĖS ĮSTATYMAS
  
 2004 m. balandžio 27 d. Nr. IX-2183
 Vilnius
@@ -112,7 +110,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Laisvoji zona – laisvosios ekonominės zonos laisvoji teritorija, įrengta vadovaujantis Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymu, arba laisvasis uostas, įsteigtas vadovaujantis Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymu.
+2. Neteko galios nuo 2016-04-27
+Straipsnio dalies naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
+ 
 
 
 
@@ -155,7 +156,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-4 straipsnis.         Lietuvos Respublikos muitinės ir muitinės įstaigų kompetencija muitų teisės aktų taikymo srityje
+4 straipsnis. Lietuvos Respublikos muitinės ir muitinės įstaigų kompetencija muitų teisės aktų taikymo srityje
 
 
 1. Lietuvos Respublikos muitų teritorijoje taikant Europos Bendrijos muitų teisės aktų nuostatas, kuriose minima muitinė ar muitinės įstaigos, laikoma, kad šios sąvokos reiškia Lietuvos Respublikos muitinę ir Lietuvos Respublikos muitinės įstaigas, jeigu Lietuvos Respublikos teisės aktai nenustato ko kita.
@@ -940,7 +941,7 @@ MUITINĖS PAREIGŪNŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
 
 
-21 straipsnis.        Muitinės pareigūnų, turinčių įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, teisės ir pareigos 
+21 straipsnis. Muitinės pareigūnų, turinčių įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, teisės ir pareigos 
 Pakeistas straipsnio pavadinimas:
 Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
  
@@ -1050,7 +1051,7 @@ MUITINĖS PAREIGŪNŲ TEISINĖ APSAUGA
 
 
 
-23 straipsnis.        Muitinės pareigūnų, vykdančių kriminalinę žvalgybą ir (arba) atliekančių ikiteisminį tyrimą, garantijos 
+23 straipsnis.  Muitinės pareigūnų, vykdančių kriminalinę žvalgybą ir (arba) atliekančių ikiteisminį tyrimą, garantijos 
 Pakeistas straipsnio pavadinimas:
 Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
  
@@ -1368,7 +1369,7 @@ Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010IST
 
 
 
-32 straipsnis.       Reikalavimai asmenims, susiję su informacijos saugojimu ir apskaitos tvarkymu
+32 straipsnis. Reikalavimai asmenims, susiję su informacijos saugojimu ir apskaitos tvarkymu
 
 
 1. Asmenys, susiję su importo (įskaitant su importuotomis prekėmis atliekamus muitinės sankcionuotus veiksmus) ir (arba) eksporto operacijomis, privalo saugoti Bendrijos muitinės kodekso 14 straipsnyje nurodytus dokumentus ir informaciją, neatsižvelgiant į asmenų naudojamas jos laikmenas, kaip apskaitos dokumentus, Lietuvos Respublikos teisės aktų nustatyta tvarka, bet ne trumpiau kaip 8 kalendorinius metus. 
@@ -1533,7 +1534,7 @@ PREKIŲ KILMĖ
 
 
 
-38 straipsnis.       Supaprastintas preferencinės eksportuojamų prekių kilmės patvirtinimas
+38 straipsnis. Supaprastintas preferencinės eksportuojamų prekių kilmės patvirtinimas
 
 
 1. Eksportuotojams, atitinkantiems Muitinės departamento generalinio direktoriaus nustatytus patikimumo reikalavimus, jų rašytiniu prašymu Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga suteikia teisę supaprastinta tvarka patvirtinti preferencinę eksportuojamų prekių kilmę, jeigu tokį prekių kilmės patvirtinimo būdą numato Europos Bendrijos muitų teisės aktai.
@@ -1705,7 +1706,7 @@ PREKIŲ ĮVEŽIMAS Į LIETUVOS RESPUBLIKOS MUITŲ TERITORIJĄ
 
 
 
-43 straipsnis.       Prievolė pristatyti įvežtas prekes į muitinės įstaigą ar kitą muitinės nustatytą ar muitinei priimtiną vietą
+43 straipsnis. Prievolė pristatyti įvežtas prekes į muitinės įstaigą ar kitą muitinės nustatytą ar muitinei priimtiną vietą
 
 
 Bendrijos muitinės kodekso 38 straipsnio 1 dalies a punkte nurodytomis prekių pateikimo muitinei vietomis laikomos arčiausiai prie prekių įvežimo į Lietuvos Respublikos muitų teritoriją vietos esančios ir atitinkamą kompetenciją turinčių muitinės įstaigų aptarnaujamos prekių pateikimo muitinei vietos, nurodytos šio Įstatymo 46 straipsnyje.
@@ -1716,7 +1717,7 @@ Bendrijos muitinės kodekso 38 straipsnio 1 dalies a punkte nurodytomis prekių 
 
 
 
-44 straipsnis.       Atvejai, kai įvežtų prekių neprivaloma pristatyti į muitinės įstaigą ar kitą muitinės nustatytą ar muitinei priimtiną vietą
+44 straipsnis. Atvejai, kai įvežtų prekių neprivaloma pristatyti į muitinės įstaigą ar kitą muitinės nustatytą ar muitinei priimtiną vietą
 
 
 Vyriausybė ar jos įgaliota institucija turi teisę, vadovaudamasi Bendrijos muitinės kodekso 38 straipsnio 4 dalimi, nustatyti atvejus, kai tam tikrų į Lietuvos Respublikos muitų teritoriją įvežtų prekių neprivaloma pristatyti į šio Įstatymo 46 straipsnyje nurodytas prekių pateikimo muitinei vietas.
@@ -1893,7 +1894,7 @@ Bendrosios deklaracijos, kurią privaloma pateikti muitinei įvežus prekes į B
 
 
 
-52 straipsnis.       Terminų, per kuriuos turi būti įforminti muitinės sankcionuoti veiksmai, pratęsimas
+52 straipsnis. Terminų, per kuriuos turi būti įforminti muitinės sankcionuoti veiksmai, pratęsimas
 
 
 Bendrijos muitinės kodekso 49 straipsnio 1 dalyje nustatyti terminai, per kuriuos prekėms turi būti įforminti muitinės sankcionuoti veiksmai, įgaliotos muitinės įstaigos sprendimu gali būti pratęsti iki 180 dienų nuo bendrosios deklaracijos pateikimo, bet ne daugiau negu būtina atsižvelgiant į susidariusias aplinkybes.
@@ -1961,7 +1962,7 @@ MUITINĖS DEKLARACIJOS
 
 
 
-56 straipsnis.       Muitinės deklaracijos, pateikiamos naudojantis duomenų apdorojimo techninėmis priemonėmis
+56 straipsnis. Muitinės deklaracijos, pateikiamos naudojantis duomenų apdorojimo techninėmis priemonėmis
 
 
 1. Muitinės deklaracijos gali būti pateikiamos naudojantis duomenų apdorojimo techninėmis priemonėmis tik Muitinės departamento generalinio direktoriaus nustatyta tvarka gavus įgaliotos muitinės įstaigos sutikimą.
@@ -2079,7 +2080,7 @@ Deklaranto prašymu muitinės įstaiga patvirtina jai pateiktų muitinės deklar
 
 
 
-62 straipsnis.       Muitinės deklaracijų ir kitų muitinės formalumams atlikti naudojamų dokumentų taisymas ir pripažinimas negaliojančiais
+62 straipsnis. Muitinės deklaracijų ir kitų muitinės formalumams atlikti naudojamų dokumentų taisymas ir pripažinimas negaliojančiais
 
 
 Muitinės deklaracijų ir kitų muitinės formalumams atlikti naudojamų dokumentų taisymo ir pripažinimo negaliojančiais tvarką, vadovaudamasis Europos Bendrijos muitų teisės aktais, nustato Muitinės departamento generalinis direktorius.
@@ -2175,7 +2176,7 @@ Muitinės procedūrų atlikimo tvarką reglamentuoja Europos Bendrijos muitų te
 
 
 
-66 straipsnis.       Veiksmai su neteisėtai įvežtomis arba, norint išvengti muitinės priežiūros, nuslėptomis prekėmis
+66 straipsnis. Veiksmai su neteisėtai įvežtomis arba, norint išvengti muitinės priežiūros, nuslėptomis prekėmis
 
 
 1. Įgyvendinant Bendrijos muitinės kodekso 57 straipsnį, kai muitinė nustato, kad prekės buvo neteisėtai įvežtos į Lietuvos Respublikos muitų teritoriją arba nuslėptos norint išvengti muitinės priežiūros, taikomos šio Įstatymo 65 straipsnio nuostatos.
@@ -2220,271 +2221,101 @@ LAISVOSIOS ZONOS IR LAISVIEJI SANDĖLIAI
  
 
 
-69 straipsnis. Laisvųjų zonų steigimas ir veikla
+69 straipsnis. Laisvosios zonos
 
 
-1. Lietuvos Respublikos muitų teritorijos tam tikros dalys gali būti paskelbtos laisvosiomis zonomis. Laisvųjų zonų (išskyrus laisvąjį uostą) steigimo, jų teritorijos išskyrimo, ribų apsaugos, įvažiavimo ir išvažiavimo vietų nustatymo, atvykimo ir išvykimo, muitinės darbo sąlygų sudarymo, pastatų ir kitos infrastruktūros statybos bei naudojimo tvarką reglamentuoja Laisvųjų ekonominių zonų pagrindų įstatymas ir atitinkamos laisvosios ekonominės zonos įstatymas.
+1. Laisvosios zonos Lietuvos Respublikos teritorijoje steigiamos:
+
+
+1) kaip laisvųjų ekonominių zonų laisvosios teritorijos – vadovaujantis Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymu ir atitinkamos laisvosios ekonominės zonos įstatymu;
 
 
 
 
-2. Laisvojo uosto steigimo ir veiklos tvarką nustato Klaipėdos valstybinio jūrų uosto įstatymas.
+2) kaip laisvasis uostas – vadovaujantis Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymu;
+
+
+
+
+3) tarptautiniuose jūrų uostuose, tarptautiniuose oro uostuose, geležinkelio stotyse, taip pat kitose vietose, kuriose vykdoma arba numatoma vykdyti didelės apimties prekių perkrovimo, sandėliavimo, komplektavimo, rūšiavimo, pakavimo, didmeninės prekybos, perdirbimo arba apdorojimo veikla, – Lietuvos Respublikos Vyriausybės sprendimu, priimtu Lietuvos Respublikos ūkio ministerijos arba Lietuvos Respublikos susisiekimo ministerijos teikimu, suderintu su Lietuvos Respublikos finansų ministerija.
+
+
+
+
+
+
+2. Leidimas steigti laisvąją zoną panaikinamas nustačius šio Įstatymo 107 straipsnyje apibrėžtą reikšmingą ar kartotinį pažeidimą.
+
+
+TAR pastaba. Laisvosios zonos, įsteigtos iki 2016 m. balandžio 30 d., nuo 2016 m. gegužės 1 d. toliau veikia kaip laisvosios zonos, nurodytos 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, 243 straipsnio 1 dalyje.
+Laisvieji sandėliai, įsteigti iki 2016 m. balandžio 30 d., nuo 2016 m. gegužės 1 d. trejus metus turi teisę veikti kaip laisvosios zonos, nurodytos 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, 243 straipsnio 1 dalyje.
+Straipsnio pakeitimai:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-70 straipsnis.       Specialūs reikalavimai, taikomi gamybos, prekybos ar paslaugų teikimo veiklai laisvosiose zonose ir laisvuosiuose sandėliuose
-
-
-1. Gamybos, prekybos ar paslaugų teikimo veikla laisvosiose zonose arba laisvuosiuose sandėliuose galima tik laikantis muitų teisės aktų nustatytos tvarkos. Suinteresuotas asmuo apie tokios veiklos pradžią turi iš anksto, ne vėliau kaip prieš 10 darbo dienų, raštu pranešti teritorinei muitinei, kurios veiklos zonoje yra laisvoji zona arba laisvasis sandėlis. Suinteresuotam asmeniui pateikus motyvuotą prašymą, teritorinė muitinė turi teisę nurodytą 10 darbo dienų terminą sutrumpinti.
-
-
-
-
-2. Teritorinė muitinė, atsižvelgdama į prekių, su kuriomis susijusi šio straipsnio 1 dalyje nurodyta veikla, rūšis ir muitų teisės aktų nustatytus muitinės priežiūros reikalavimus, turi teisę neleisti vykdyti tokios veiklos, ją apriboti arba nustatyti specialius jai taikomus reikalavimus.
-
-
-
-
-3. Jeigu asmenys nesilaiko muitų teisės aktų nustatytos tvarkos, teritorinė muitinė, kurios veiklos zonoje yra laisvoji zona arba laisvasis sandėlis, turi teisę:
-
-
-1) laikinai arba neribotam laikui uždrausti asmenims vykdyti veiklą laisvosiose zonose arba laisvuosiuose sandėliuose;
-
-
-
-
-2) sustabdyti leidimo steigti laisvąjį sandėlį galiojimą.
-
-
-
-
-
-
-4. Teritorinės muitinės, kurios veiklos zonoje yra laisvoji zona arba laisvasis sandėlis, sprendimu laikinai uždraudus asmeniui vykdyti veiklą laisvojoje zonoje arba laisvajame sandėlyje arba sustabdžius leidimo steigti laisvąjį sandėlį galiojimą, draudžiama:
-
-
-1) įvežti į laisvąją zoną asmeniui, kurio veikla laisvojoje zonoje laikinai uždrausta, skirtas prekes;
-
-
-
-
-2) dėti prekes į laisvąjį sandėlį, kuriam steigti išduoto leidimo galiojimas sustabdytas.
+70 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-
-
-71 straipsnis. Laisvosiose zonose ir laisvuosiuose sandėliuose laikomos prekės
-
-
-1. Prekės, kurios sandėliuojamos pagal Vyriausybės arba jos įgaliotos institucijos priimtų teisės aktų nustatytus specialius reikalavimus, gali būti laikomos laisvosiose zonose ir laisvuosiuose sandėliuose tik tais atvejais, kai yra sudarytos tinkamos jų laikymo sąlygos ir, jeigu reikia, gauti įgaliotų institucijų leidimai.
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytos prekės gali būti laikomos tik specialiai šioms reikmėms pritaikytose laisvųjų zonų ir laisvųjų sandėlių patalpose.
+71 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-72 straipsnis. Prekių įvežimas į laisvąsias zonas ir padėjimas į laisvuosius sandėlius
-
-
-1. Jeigu į laisvąją zoną įvežamos arba į laisvąjį sandėlį padedamos prekės, priklausančios atitinkamai ne laisvojoje zonoje teisės aktų nustatyta tvarka savo veiklą vykdančiam asmeniui arba laisvojo sandėlio savininkui, teisę disponuoti tomis prekėmis turintis asmuo ir laisvojoje zonoje savo veiklą vykdantis asmuo arba laisvojo sandėlio savininkas turi teisės aktų nustatyta tvarka sudaryti prekių laikymo laisvojoje zonoje arba laisvajame sandėlyje sutartį. Šioje sutartyje, be kitų nuostatų, turi būti numatyta, kaip disponuojama prekėmis (įskaitant tas, kurių importui taikomi draudimai arba apribojimai), jeigu teisę jomis disponuoti turintis asmuo per šio Įstatymo 75 straipsnio 1 ir 2 dalyse nustatytą laiką nepateiktų jų muitinės sankcionuotiems veiksmams įforminti.
-
-
-
-
-2. Laisvąją zoną arba laisvąjį sandėlį aptarnaujanti muitinės įstaiga privalo būti informuojama apie į laisvąją zoną įvežamas arba į laisvąjį sandėlį padedamas prekes, už kurias nustatyti eksporto muitai arba kurių eksportui taikomi specialūs teisės aktų nustatyti reikalavimai.
+72 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-73 straipsnis. Laisvųjų sandėlių veikla
-
-
-1. Gavęs leidimą steigti laisvąjį sandėlį, po 10 darbo dienų asmuo gali pradėti jo veiklą, jeigu įvykdytos šios sąlygos:
-
-
-1) pateikta šio Įstatymo 74 straipsnio 4 dalyje nurodyta garantija;
-
-
-
-
-2) suderinti šio Įstatymo 74 straipsnio 5 dalyje nurodyti su laisvojo sandėlio muitinės priežiūra susiję klausimai.
-
-
-
-
-
-
-2. Vyriausybė arba jos įgaliota institucija gali nustatyti maksimalius tam tikrų prekių kiekius, kuriuos leidžiama laikyti laisvajame sandėlyje nepadidinus nustatytos arba patikslintos šio Įstatymo 74 straipsnio 4 dalyje nurodytos garantijos.
-
-
-
-
-3. Jeigu laisvajame sandėlyje norima verstis licencijuojama veikla, gavęs leidimą steigti laisvąjį sandėlį asmuo privalo turėti Lietuvos Respublikos teisės aktų nustatyta tvarka išduotą licenciją.
+73 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-74 straipsnis. Laisvųjų sandėlių steigimas
-
-
-1. Laisvieji sandėliai steigiami tarptautiniuose jūrų uostuose, tarptautiniuose oro uostuose, geležinkelio stotyse, taip pat kitose vietose, kuriose atliekamas arba numatomas atlikti šio straipsnio 2 dalyje nurodytų prekių perkrovimas, sandėliavimas, komplektavimas, rūšiavimas, pakavimas, didmeninė prekyba, perdirbimas arba apdorojimas.
-
-
-
-
-2. Laisvieji sandėliai steigiami laikyti žemės ūkio produktams, kuriuos padėjus į laisvąjį sandėlį taikomos Bendrijos muitų teisės aktų nuostatos, paprastai taikomos prekių eksporto atvejais, arba kitoms prekėms, už kurias nustatytų importo muitų ir (arba) mokesčių bendra norma didesnė kaip 40 procentų prekių vertės, taip pat tarptautiniuose jūrų uostuose, tarptautiniuose oro uostuose arba geležinkelio stotyse kaupiamiems kroviniams, kurių laikymo trukmė viršija muitų teisės aktų nustatytus prekių laikinojo saugojimo terminus.
-
-
-
-
-3. Leidimas steigti laisvąjį sandėlį išduodamas Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka neribotam laikui.
-
-
-
-
-4. Gavęs leidimą steigti laisvąjį sandėlį asmuo privalo pateikti muitinei Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio garantiją, kuri vėliau nustatyta tvarka tikslinama ir turi galioti visą laisvojo sandėlio veiklos laiką (įskaitant laikotarpius, kai leidimo steigti laisvąjį sandėlį galiojimas sustabdytas) iki šio Įstatymo 75 straipsnio 2 dalyje nustatytų prievolių įvykdymo.
-
-
-
-
-5. Laisvojo sandėlio teritoriją gali sudaryti vienas arba keli statiniai ar jų dalys, atskirti nuo likusios Lietuvos Respublikos muitų teritorijos dalies. Teritorijos atskyrimo, joje esančių pastatų ir kitų statinių statybos, patalpų įrengimo, naudojimo, apsaugos ir darbo sąlygų muitinės pareigūnams sudarymo projektai ir kiti su statinių statyba bei jų įrengimu susiję klausimai, galintys turėti įtakos laisvojo sandėlio muitinės priežiūros sąlygoms, turi būti suderinti su Muitinės departamentu.
-
-
-
-
-6. Kai atšaukiamas (panaikinamas) leidimas steigti laisvąjį sandėlį, jo veikla nutraukiama. Leidimas steigti laisvąjį sandėlį atšaukiamas Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, jeigu:
-
-
-1) asmuo, gavęs leidimą steigti laisvąjį sandėlį, trečią kartą per vienus metus neužkerta kelio neteisėtam prekių išgabenimui iš laisvojo sandėlio arba nedelsdamas nepraneša laisvąjį sandėlį prižiūrinčiai muitinės įstaigai apie neteisėtą prekių išgabenimą iš laisvojo sandėlio;
-
-
-
-
-2) viršyti maksimalūs prekių kiekiai, kuriuos muitų teisės aktų nustatyta tvarka leidžiama laikyti laisvajame sandėlyje;
-
-
-
-
-3) padarytas reikšmingas arba kartotinis muitų teisės aktų arba mokesčių įstatymų pažeidimas;
-
-
-
-
-4) per vienus metus nuo leidimo steigti laisvąjį sandėlį išdavimo dienos sandėlis nepradėjo veikti;
-
-
-
-
-5) per 3 mėnesius nepašalinti laisvojo sandėlio veiklos trūkumai, dėl kurių sustabdytas leidimo steigti laisvąjį sandėlį galiojimas;
-
-
-
-
-6) asmuo, gavęs leidimą steigti laisvąjį sandėlį, nutraukia savo veiklą arba pateikia prašymą atšaukti (panaikinti) jam išduotą leidimą steigti laisvąjį sandėlį.
+74 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-
-
-75 straipsnis.       Asmens veiklos laisvojoje zonoje arba laisvojo sandėlio veiklos nutraukimas
-
-
-1. Asmuo, kuriam neribotam laikui uždrausta verstis savo veikla laisvojoje zonoje, turi ją nutraukti per 3 mėnesius nuo atitinkamo teritorinės muitinės sprendimo priėmimo dienos. Per šį laiką asmuo privalo muitų teisės aktų nustatyta tvarka pateikti visas ten jo laikomas prekes muitinės sankcionuotiems veiksmams įforminti. Įvežti į laisvąją zoną prekes, skirtas asmeniui, kuriam neribotam laikui uždrausta vykdyti veiklą laisvojoje zonoje, draudžiama.
-
-
-
-
-2. Kai leidimas steigti laisvąjį sandėlį atšaukiamas (panaikinamas), Muitinės departamento generalinio direktoriaus nustatyta tvarka atliekama sandėlyje laikomų prekių inventorizacija, o laisvojo sandėlio savininkas privalo nutraukti sandėlio veiklą per 3 mėnesius nuo leidimo atšaukimo (panaikinimo) dienos. Per šį laiką laisvojo sandėlio savininkas privalo užtikrinti, kad visos ten laikomos prekės muitų teisės aktų nustatyta tvarka būtų pateiktos muitinės sankcionuotiems veiksmams įforminti. Dėti prekes į laisvąjį sandėlį po to, kai atšaukiamas (panaikinamas) leidimas jį steigti, draudžiama.
-
-
-
-
-3. Muitinė imasi visų muitų teisės aktuose numatytų priemonių, kad būtų sutvarkytas disponavimas laisvojoje zonoje arba laisvajame sandėlyje laikomomis prekėmis, kurioms per šio straipsnio 1 ir 2 dalyse nustatytą 3 mėnesių laikotarpį neįforminami muitinės sankcionuoti veiksmai (imtis priemonių, kad teisė laikyti tokias prekes būtų perduota tokią teisę turintiems asmenims ir kt.). Su šių priemonių taikymu susijusias muitinės išlaidas atlygina laisvojo sandėlio savininkas.
-
-
-
-
-4. Asmenų prašymai vėl leisti vykdyti veiklą laisvojoje zonoje arba vėl išduoti leidimą steigti laisvąjį sandėlį iš tų pačių asmenų priimami ne anksčiau kaip po 3 metų nuo sprendimo neribotam laikui uždrausti asmeniui vykdyti veiklą laisvojoje zonoje priėmimo arba leidimo steigti laisvąjį sandėlį atšaukimo (panaikinimo) dienos.
+75 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-76 straipsnis. Prekių apskaita laisvosiose zonose ir laisvuosiuose sandėliuose
-
-
-1. Asmenys, vykdantys veiklą, susijusią su prekių laikymu, apdorojimu arba perdirbimu, pardavimu arba pirkimu laisvojoje zonoje arba laisvajame sandėlyje, privalo tvarkyti prekių apskaitą muitų teisės aktų nustatyta tvarka.
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodyta prekių apskaita turi būti tvarkoma:
-
-
-1) atskirai nuo tų pačių asmenų tvarkomos prekių apskaitos, kuri nesusijusi su asmenų veikla laisvojoje zonoje arba laisvajame sandėlyje;
-
-
-
-
-2) laikantis suinteresuotų asmenų su teritorine muitine, kurios veiklos zonoje yra laisvoji zona arba laisvasis sandėlis, suderintos tvarkos. Pageidaudamas šią tvarką pakeisti, suinteresuotas asmuo privalo iš anksto gauti šiame punkte nurodytos teritorinės muitinės sutikimą.
-
-
-
-
-
-
-3. Teritorinė muitinė, suderinusi šio straipsnio 1 dalyje nurodytos prekių apskaitos tvarką, turi teisę tokį suderinimą atšaukti, jeigu nustato šios apskaitos tvarkymo pažeidimus arba nusprendžia, kad suinteresuoto asmens tvarkoma prekių apskaita nebesudaro sąlygų tinkamai taikyti muitinės priežiūros priemones.
-
-
-
-
-4. Muitinės departamento generalinis direktorius turi teisę nustatyti papildomus reikalavimus, taikomus šio straipsnio 1 dalyje nurodytai prekių apskaitai, arba (ir) tipinę šios apskaitos tvarką.
+76 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
 
 
 
 
-
-
-77 straipsnis. Laisvųjų zonų ir laisvųjų sandėlių muitinės priežiūra
-
-
-1. Laisvųjų zonų ir laisvųjų sandėlių muitinės priežiūra atliekama vadovaujantis Europos Bendrijos muitų teisės aktais. Muitinės departamento generalinis direktorius, vadovaudamasis šiais teisės aktais, prireikus nustato specialius reikalavimus, taikomus laisvųjų zonų ir (arba) laisvųjų sandėlių muitinės priežiūrai.
-
-
-
-
-2. Jeigu prekės eksportuojamos arba reeksportuojamos iš laisvosios zonos arba laisvojo sandėlio, muitinės įstaiga, aptarnaujanti laisvąją zoną arba laisvąjį sandėlį, imasi priemonių, kad prekės būtų išgabentos iš Bendrijos muitų teritorijos laikantis jų eksporto arba reeksporto tvarką reglamentuojančių muitų teisės aktų nustatytos tvarkos.
+77 straipsnis. Neteko galios nuo 2016-04-27
+Straipsnio naikinimas:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
  
-
-
 
 
 
@@ -2828,7 +2659,7 @@ Privalomosios tarifinės informacijos aktai ir privalomosios prekių kilmės akt
 
 
 
-98 straipsnis.       Muitinės sankcionuotų veiksmų įforminimas Bendrijos prekių muitinį statusą turėjusioms arba turinčioms prekėms
+98 straipsnis. Muitinės sankcionuotų veiksmų įforminimas Bendrijos prekių muitinį statusą turėjusioms arba turinčioms prekėms
 
 
 Į Lietuvos Respublikos muitų teritoriją įvežtoms prekėms, turėjusioms arba turinčioms Bendrijos prekių muitinį statusą, kurių eksporto formalumai buvo atlikti iki 2004 m. balandžio 30 d., turi būti įforminta išleidimo į laisvą apyvartą procedūra arba kiti muitinės sankcionuoti veiksmai.
@@ -2886,7 +2717,7 @@ Privalomosios tarifinės informacijos aktai ir privalomosios prekių kilmės akt
 
 
 
-101 straipsnis.     Laikinojo įvežimo procedūrų taikymo tęstinumas ir laikinojo išvežimo procedūrų pabaiga
+101 straipsnis. Laikinojo įvežimo procedūrų taikymo tęstinumas ir laikinojo išvežimo procedūrų pabaiga
 
 
 1. Laikinojo įvežimo procedūros, įformintos Lietuvos Respublikoje vadovaujantis Muitinės kodeksu ir jo įgyvendinimo nuostatomis iki 2004 m. balandžio 30 d., nuo 2004 m. gegužės 1 d. gali būti toliau tęsiamos muitų teisės aktų nustatyta tvarka iki leidimo laikinai įvežti atitinkamas prekes galiojimo pabaigos.
@@ -2952,7 +2783,7 @@ Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
 
 
 
-105 straipsnis.     Importuotojų ir eksportuotojų registro naudojimas vietoj Muitinės prievolininkų registro
+105 straipsnis. Importuotojų ir eksportuotojų registro naudojimas vietoj Muitinės prievolininkų registro
 
 
 Vietoj šio Įstatymo 57 straipsnyje nurodyto Muitinės prievolininkų registro iki 2005 m. birželio 30 d. naudojamas Importuotojų ir eksportuotojų registras, kurį vadovaudamasis Vyriausybės nustatyta tvarka tvarko Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga. Nuo 2004 m. gegužės 1 d. šiame registre registruojami ir kitų Europos Sąjungos valstybių narių asmenys, Lietuvos Respublikos muitinei pateikę muitinės deklaraciją raštu arba naudodamiesi duomenų apdorojimo techninėmis priemonėmis.
@@ -2970,7 +2801,7 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-106 straipsnis.     Muitinės formalumams atlikti naudojamų dokumentų blankų spausdinimas
+106 straipsnis. Muitinės formalumams atlikti naudojamų dokumentų blankų spausdinimas
 
 
 1. Spaustuvės turi teisę spausdinti muitinės formalumams atlikti naudojamų dokumentų blankus tik gavusios Muitinės departamento leidimą.
@@ -3028,7 +2859,7 @@ Jeigu Lietuvos Respublikos Seimo ratifikuotos tarptautinės sutartys arba Lietuv
 
 
 
-109 straipsnis.     Europos Bendrijos muitų teisės aktų taikymo Lietuvos Respublikos muitų teritorijoje tvarka
+109 straipsnis. Europos Bendrijos muitų teisės aktų taikymo Lietuvos Respublikos muitų teritorijoje tvarka
 
 
 Europos Bendrijos muitų teisės aktuose nustatytais atvejais, kai Europos Sąjungos valstybėms narėms deleguota sprendimo priėmimo teisė, sprendimus priima ir atitinkamų Europos Bendrijos muitų teisės aktų nuostatų taikymo Lietuvos Respublikos muitų teritorijoje tvarką nustato Vyriausybė arba jos įgaliota institucija, išskyrus atvejus, kai šis ar kiti įstatymai nustato ką kita.
@@ -3065,7 +2896,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LAIKINAI EINANTIS
 RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
-______________
+ 
 
 
 
@@ -3140,6 +2971,14 @@ priedas
 12. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1383/2003 (OL 2013 L 181, p. 15) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentas).
 
 
+
+
+13. 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1).
+Papildyta punktu:
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010ISTA00XI-575
 Nr. XII-803, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04024
@@ -3187,3 +3026,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 25 ir 26 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1201, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14124
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 39 ir 107 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 69 straipsnių ir priedo pakeitimo ir 70, 71, 72, 73, 74, 75, 76, 77 straipsnių pripažinimo netekusiais galios įstatymas
