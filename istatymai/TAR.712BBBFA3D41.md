@@ -20,16 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-04-26
+Suvestinė redakcija nuo 2016-04-27 iki 2016-12-23
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
 Nauja įstatymo redakcija nuo 2004-01-07: 
 Nr. IX-1946, 2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
  
-LIETUVOS RESPUBLIKOS
-BIUDŽETO SANDAROS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMAS
 Įstatymo pavadinimo pakeitimas:
 Nr. VIII-1821, 2000.07.11, Žin., 2000, Nr. 61-1826 (2000.07.26)
  
@@ -762,7 +760,10 @@ Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 
 
-2. Trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių projektas rengiamas remiantis Vyriausybės programa, Lietuvos konvergencijos programa, Valstybės pažangos strategija (iki šios strategijos įsigaliojimo dienos – Seimo patvirtinta Valstybės ilgalaikės raidos strategija), Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės drausmės įstatymu, kitais įstatymais ir kitais teisės aktais, šalies vidutinio laikotarpio ekonominės raidos scenarijumi, Europos Sąjungos finansinės paramos strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais ir Vyriausybės patvirtintais valstybės biudžeto ir savivaldybių biudžetų preliminariais pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų sąmatų projektais. 
+2. Trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių projektas rengiamas remiantis Vyriausybės programa, Lietuvos stabilumo programa, Valstybės pažangos strategija (iki šios strategijos įsigaliojimo dienos – Seimo patvirtinta Valstybės ilgalaikės raidos strategija), Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės patvirtintais planavimo dokumentais, šiuo Įstatymu, Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniu įstatymu, Fiskalinės drausmės įstatymu, šalies vidutinio laikotarpio ekonominės raidos scenarijumi, Europos Sąjungos finansinės paramos strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais ir Vyriausybės patvirtintais valstybės biudžeto ir savivaldybių biudžetų preliminariais pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų sąmatų projektais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
+ 
 
 
 
@@ -772,7 +773,10 @@ Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 
 
-4. Tam tikrų metų valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojami vidutinio laikotarpio valdžios sektoriaus balanso rodikliai teikiami Seimui Vyriausybės nutarimu dėl išvadų dėl valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių atitikties naujausioms galiojančioms Europos Sąjungos Tarybos rekomendacijoms ir nuomonei dėl Lietuvos konvergencijos programos ir galimų papildomų priemonių (toliau – Išvados). Išvadose turi būti nurodytos pagrindinės ekonominės raidos scenarijaus prielaidos ir siektinas vidutinio laikotarpio poveikis kainų stabilumui, Lietuvos mokėjimų balanso einamosios sąskaitos tvarumui, palūkanų priedams už riziką, užimtumui, ateities mokesčių didinimo rizikai ir perspektyvai vidutiniu laikotarpiu siekti perteklinio valdžios sektoriaus. 
+4. Tam tikrų metų valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojami vidutinio laikotarpio valdžios sektoriaus balanso rodikliai ir juos pagrindžiančios ekonominės prielaidos, vidutiniam laikotarpiui formuojama fiskalinė politika teikiami Seimui kartu su Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto aiškinamuoju raštu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
+ 
 
 
 Straipsnio pakeitimai:
@@ -868,7 +872,47 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 1. Vyriausybė su Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu Seimui teikia:
 
 
-1) Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto aiškinamąjį raštą, kuriame taip pat skelbiama išsami informacija apie mokesčių išlaidų poveikį pajamoms ir apie lėšas, kurios pagal šio Įstatymo 14 straipsnio 2 ir (arba) 3 dalis planuojamos perkelti iš kitų biudžetinių metų, kai jos paliekamos asignavimų valdytojui naudoti viršijant Seimo patvirtintas bendras asignavimų sumas. Pateikiamos visų pagrindinių valdžios sektoriaus išlaidų ir pajamų straipsnių projekcijos, patikslinant centrinės valdžios ir socialinės apsaugos lygio dalis, apimančios biudžetinius metus bei trejų būsimųjų metų laikotarpį ir grindžiamos prielaida, kad ekonomikos politika nesikeis; numatytos vidutinės trukmės ekonomikos politikos, darančios poveikį valdžios sektoriaus finansams, išskaidytiems pagal pagrindinius pajamų ir išlaidų straipsnius, apibūdinimas parodant, kaip užtikrinamas valdžios sektoriaus balanso rodiklio koregavimas siekiant vidutinės trukmės biudžeto tikslų, palyginti su projekcijomis, grindžiamomis prielaida, kad ekonomikos politika nesikeis;
+1) Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto aiškinamąjį raštą, kuriame pateikiama ši išsami informacija:
+
+
+
+
+a) mokesčių išlaidų poveikis pajamoms; 
+
+
+
+
+b) lėšos, kurios pagal šio Įstatymo 14 straipsnio 2 ir (arba) 3 dalis planuojamos perkelti iš kitų biudžetinių metų, kai jos paliekamos asignavimų valdytojui naudoti viršijant Seimo patvirtintas bendras asignavimų sumas; 
+
+
+
+
+c) vidutinio laikotarpio valdžios sektoriaus balanso rodiklių projekcijos, visų pagrindinių valdžios sektoriaus išlaidų ir pajamų straipsnių projekcijos, išskiriant centrinės valdžios ir socialinės apsaugos lygio dalis, apimančios vidutinės trukmės laikotarpį ir grindžiamos nesikeičiančios politikos prielaida; 
+
+
+
+
+d) numatytos vidutinio laikotarpio fiskalinės politikos apibūdinimas parodant, kaip užtikrinamas struktūrinio valdžios sektoriaus balanso rodiklio koregavimas vidutinio laikotarpio tikslo link arba siekiant perteklinio valdžios sektoriaus;
+
+
+
+
+e) vidutinio laikotarpio struktūriniai valdžios sektoriaus balanso rodikliai, apskaičiuoti remiantis Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto rengimo metu Finansų ministerijos viešai paskelbtais naujausiais duomenimis apie Lietuvos Respublikos produkcijos atotrūkį nuo potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę);
+
+
+
+
+f) vidutiniu laikotarpiu numatomos fiskalinės rizikos sąrašas ir jos įvertinimas; 
+
+
+
+
+g) valstybės biudžeto ir savivaldybių biudžetų rodiklių perklasifikavimų, kurie atsirastų valdžios sektoriaus balanso rodiklį skaičiuojant pagal Europos sąskaitų sistemą (ESS’2010) ir kurių vertė viršija 0,1 procento BVP to meto kainomis, sąrašas;
+
+
+
+
+h) duomenys apie valdžios sektoriaus ilgalaikio tvarumo perspektyvų pokytį, kuris įvertinamas pagal mokesčių didinimo rizikos rodiklį ir jo pokytį, remiantis Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto rengimo metu Europos Komisijos paskelbtais naujausiais duomenimis;
 
 
 
@@ -883,80 +927,26 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-4) informaciją apie asignavimų valdytojų strateginiuose veiklos planuose pateiktus vertinimo kriterijus;
+4) informaciją apie asignavimų valdytojų pasiektus ir planuojamus pasiekti veiklos rezultatus;
 
 
 
 
-5) išaiškinimą, kaip nauji ekonomikos politikos prioritetai atsispindi pokyčiuose, kai nukrypstama nuo Seimo patvirtintų pagrindinių trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių;
-
-
-
-
-6) kituose įstatymuose ir kituose teisės aktuose nustatytus dokumentus.
+5) išaiškinimą, kaip nauji ekonomikos politikos prioritetai atsispindi pokyčiuose, kai nukrypstama nuo Seimo patvirtintų pagrindinių trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių.
 
 
 
 
 
 
-2. Vyriausybė, pateikusi Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, ne vėliau kaip per 10 darbo dienų Seimui teikia:
-
-
-1) Europos Sąjungos Tarybos naujausią paskelbtą nuomonę apie tam tikrų metų Lietuvos konvergencijos arba Stabilumo programą ir, jeigu taikoma perviršinio deficito procedūra, – aktualias Europos Sąjungos Tarybos rekomendacijas, skirtas Lietuvos Respublikai, siekiant ištaisyti perviršinio valdžios sektoriaus deficito padėtį;
-
-
-
-
-2) Vyriausybės išvadas dėl tikslingumo įgyvendinti naujausias paskelbtas Europos Sąjungos Tarybos rekomendacijas ir (arba) nuomonę. Šių išvadų pagrįstumą Seimui pristato finansų ministras;
-
-
-
-
-3) Vyriausybės siūlomų priemonių, skirtų iš dalies arba visiškai įgyvendinti Europos Sąjungos Tarybos rekomendacijoms ir (arba) kvietimams, sąrašą;
-
-
-
-
-4) Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu formuojamus vidutinio laikotarpio valdžios sektoriaus balanso rodiklius, kuriais remiantis įvykdomi Lietuvos Respublikos įsipareigojimai Europos Sąjungai arba siekiama perteklinio valdžios sektoriaus. Kiekvienų metų valdžios sektoriaus balanso rodiklis išreiškiamas kaip BVP to meto kainomis procentinė dalis;
-
-
-
-
-5) valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojamus vidutinio laikotarpio struktūrinius valdžios sektoriaus balanso rodiklius, apskaičiuojamus pagal teikiamą Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir remiantis projekto rengimo metu Vyriausybės arba jos įgaliotos institucijos viešai paskelbtais naujausiais duomenimis apie Lietuvos Respublikos produkcijos atotrūkį nuo potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę); 
-Straipsnio punkto pakeitimai:
-Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
- 
-
-
-
-
-6) galimų nuokrypių, galinčių atsirasti vidutiniu laikotarpiu dėl numatomos fiskalinės rizikos, sąrašą ir įvertinimą. Kiekvienų metų fiskalinės rizikos įvertinamos kaip BVP to meto kainomis procentinė dalis;
-
-
-
-
-7) duomenis apie valdžios sektoriaus ilgalaikio tvarumo perspektyvų pokytį, kuris įvertinamas pagal mokesčių didinimo rizikos rodiklį ir jo pokytį, remiantis Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto rengimo metu Europos Komisijos paskelbtais naujausiais duomenimis;
-
-
-
-
-8) valstybės biudžeto ir savivaldybių biudžetų perklasifikavimų, reikalingų valdžios sektoriaus balanso rodikliui pagal Europos sąskaitų sistemą (ESS’95) apskaičiuoti, sąrašą, vertinant valstybės biudžeto projektą ir savivaldybių biudžetų finansinių rodiklių projektą; teikiamas tik tų valstybės biudžeto ir savivaldybių biudžetų perklasifikavimų, kurių vertė viršija 0,1 procento BVP to meto kainomis, sąrašas.
-
-
-
-
-
-
-3. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia išvadas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui, atkreipdamas išskirtinį dėmesį į išorinį ūkio subalansuotumą ir ilgalaikį valdžios sektoriaus finansų tvarumą.
-Straipsnio dalies pakeitimai:
-Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
- 
+2. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia išvadas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui, atkreipdamas išskirtinį dėmesį į išorinį ūkio subalansuotumą ir ilgalaikį valdžios sektoriaus finansų tvarumą.
 
 
 Straipsnio pakeitimai:
 Nr. X-406, 2005-11-17, Žin., 2005, Nr. 144-5237 (2005-12-10)
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
+Straipsnio pakeitimai:
+Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
  
 
 
@@ -1033,11 +1023,13 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 
 
-3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 4 dalyje. 
+3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 4 dalyje. Savivaldybės biudžeto einamųjų metų pajamos koreguojamos pridedant nepanaudotą pajamų dalį – praėjusių metų biudžeto pajamų dalį, kuri viršija praėjusių metų panaudotus asignavimus (toliau – nepanaudota pajamų dalis). Einamųjų metų savivaldybės biudžete turi būti numatyti asignavimai visiems trumpalaikiams įsipareigojimams, išskyrus skolinius įsipareigojimus (toliau – trumpalaikiai įsipareigojimai), buvusiems praėjusių metų gruodžio 31 dieną, padengti, nebent trumpalaikiai įsipareigojimai viršija nepanaudotų pajamų dalį – tada numatomų padengti trumpalaikių įsipareigojimų suma turi būti ne mažesnė negu nepanaudota pajamų dalis. 
 3 dalies redakcija nuo 2018-01-01:
-3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse.
+3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse. Savivaldybės biudžeto einamųjų metų pajamos koreguojamos pridedant nepanaudotą pajamų dalį – praėjusių metų biudžeto pajamų dalį, kuri viršija praėjusių metų panaudotus asignavimus (toliau – nepanaudota pajamų dalis). Einamųjų metų savivaldybės biudžete turi būti numatyti asignavimai visiems trumpalaikiams įsipareigojimams, išskyrus skolinius įsipareigojimus (toliau – trumpalaikiai įsipareigojimai), buvusiems praėjusių metų gruodžio 31 dieną, padengti, nebent trumpalaikiai įsipareigojimai viršija nepanaudotų pajamų dalį – tada numatomų padengti trumpalaikių įsipareigojimų suma turi būti ne mažesnė negu nepanaudota pajamų dalis.
 Straipsnio dalies pakeitimai:
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
+Nr. XII-2314, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10425
  
 
 
@@ -1598,6 +1590,14 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 5. Ekonominės raidos scenarijaus ir biudžeto pajamų planų modeliavimą, remdamasi objektyviais kriterijais, įskaitant baigiamąjį vertinimą, vertina Finansų ministerija. Šio vertinimo rezultatai skelbiami viešai ir į juos atsižvelgiama rengiant kitus ekonominės raidos scenarijus ir biudžeto pajamų planus. Jeigu vertinimo metu nustatomas didelis šališkumas, kuris suprantamas kaip mažiausiai ketverius metus iš eilės pasikartojančios paklaidos, darančios įtaką ekonominės raidos scenarijui ir susidarančios ne dėl prielaidų pasikeitimų ar modeliavimo metodų, Finansų ministerija imasi veiksmų šališkumui panaikinti ir apie juos viešai paskelbia. 
 
 
+
+
+6. Vyriausybės nustatyta tvarka savivaldybės kiekvienam metų ketvirčiui pasibaigus teikia Finansų ministerijai biudžeto vykdymo prognozes likusiems metų ketvirčiams.
+Papildyta straipsnio dalimi:
+Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1218, 2007-06-26, Žin., 2007, Nr. 77-3050 (2007-07-12)
 Nr. X-1826, 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
@@ -1994,3 +1994,18 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 25 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 13, 22 ir 26 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2284, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06436
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymo Nr. XII-2143 10 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 17, 19, 21 ir 37 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2314, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10425
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymo Nr. XII-2143 4 straipsnio pakeitimo įstatymas
