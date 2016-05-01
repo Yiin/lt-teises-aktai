@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -370,7 +370,10 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 
 
-2) tvirtina Licencijų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo tvarkos aprašą;
+2) tvirtina Dokumentų saugojimo paslaugos licencijavimo tvarkos aprašą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
+ 
 
 
 
@@ -984,41 +987,30 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 
 
 
-18 straipsnis. Dokumentų tvarkymo ir (ar) saugojimo paslaugos
+18 straipsnis. Dokumentų tvarkymo paslaugos teikėjų registravimas ir dokumentų saugojimo paslaugos licencijavimas
 
 
-1. Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje įsteigti juridiniai asmenys gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą. Licencijų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
- 
+1. Lietuvos Respublikos ar kitos valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, (toliau šiame straipsnyje – fizinis asmuo) arba Lietuvos Respublikoje įsteigtas juridinis asmuo, kitoje valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų padalinys ir (arba) kitoje užsienio valstybėje įsteigto juridinio asmens ar kitos organizacijos padalinys (toliau šiame straipsnyje – juridinis asmuo), Lietuvos Respublikoje pradėję teikti dokumentų tvarkymo paslaugą, ne vėliau kaip per 40 darbo dienų nuo dokumentų tvarkymo paslaugos teikimo pradžios Lietuvos vyriausiajam archyvarui turi pateikti prašymą dėl jo įrašymo į Dokumentų tvarkymo paslaugos teikėjų sąrašą (toliau – prašymas). Fizinis asmuo ar juridinis asmuo (toliau šiame straipsnyje – asmuo), per nustatytą terminą nepateikęs prašymo, pasibaigus šiam terminui, negali teikti dokumentų tvarkymo paslaugos. 
 
 
 
 
-2. Valstybės narės piliečiai ir valstybėse narėse įsteigti juridiniai asmenys Lietuvos Respublikoje gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, pagal šio straipsnio 1 dalies nuostatas gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą arba Lietuvos vyriausiojo archyvaro tarnybai pateikę valstybės narės kompetentingos institucijos išduotus dokumentus, įrodančius, kad jie turi teisę teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas pagal tos valstybės narės teisės aktus. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
- 
+2. Prašymas gali būti pateikiamas per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipiantis į Lietuvos vyriausiojo archyvaro tarnybą. Prašyme turi būti nurodytas fizinio asmens vardas, pavardė, gyvenamosios vietos adresas, juridinio asmens pavadinimas, teisinė forma, kodas, buveinės adresas, telefono ir fakso numeriai, elektroninio pašto adresas. Asmuo ne vėliau kaip per 3 darbo dienas nuo prašymo gavimo dienos įrašomas į Dokumentų tvarkymo paslaugos teikėjų sąrašą ir apie tai paskelbiama Lietuvos vyriausiojo archyvaro tarnybos interneto svetainėje. Jeigu prašyme nurodyti ne visi privalomi pateikti duomenys, kreipiamasi į asmenį, įrašytą į Dokumentų tvarkymo paslaugos teikėjų sąrašą (toliau – dokumentų tvarkymo paslaugos teikėjas), su prašymu ne vėliau kaip per 10 darbo dienų pateikti trūkstamą informaciją. Jei per nustatytą laiką asmuo tokios informacijos nepateikia, jis per 2 darbo dienas išbraukiamas iš Dokumentų tvarkymo paslaugos teikėjų sąrašo.
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytiems asmenims išduodamos šios licencijos: 
-
-
-1) licencija teikti dokumentų tvarkymo paslaugą;
+3. Kai gaunama informacija apie dokumentų tvarkymo paslaugos teikėjo mirtį arba likvidavimą, kai dokumentų tvarkymo paslaugos teikėjas praneša apie savo veiklos nutraukimą ar jo prašymu arba kai per nustatytą terminą dokumentų tvarkymo paslaugos teikėjas nepateikia visos privalomos pateikti informacijos, nurodytos šio straipsnio 2 dalyje, Lietuvos vyriausiasis archyvaras ne vėliau kaip per 2 darbo dienas išbraukia jį iš Dokumentų tvarkymo paslaugos teikėjų sąrašo. 
 
 
 
 
-2) licencija teikti dokumentų saugojimo paslaugą. 
+4. Asmuo, siekiantis įgyti teisę Lietuvos Respublikoje teikti dokumentų saugojimo paslaugą, Lietuvos vyriausiajam archyvarui turi pateikti pranešimą apie ketinimą teikti dokumentų saugojimo paslaugą arba kitos valstybės narės kompetentingos institucijos išduotus dokumentus, įrodančius, kad jis turi teisę teikti dokumentų saugojimo paslaugą pagal tos valstybės narės teisės aktus. Dokumentų saugojimo paslaugos licencijavimo tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė. 
 
 
 
 
-
-
-4. Licencija teikti dokumentų tvarkymo paslaugą išduodama šio straipsnio 1 ir 2 dalyse nurodytiems asmenims, atitinkantiems šiuos reikalavimus:
+5. Dokumentų saugojimo paslaugą teikti gali šio straipsnio 4 dalyje nurodyti asmenys, atitinkantys šiuos reikalavimus:
 
 
 1) fizinis asmuo arba juridinio asmens vadovas neturi neišnykusio arba nepanaikinto teistumo už sunkius ar labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai;
@@ -1026,175 +1018,116 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 
 
-2) fizinis asmuo arba juridinio asmens darbuotojas, atsakingas už licencijuojamą dokumentų tvarkymo paslaugą, privalo turėti aukštąjį universitetinį ar jam prilygintą išsilavinimą ir ne trumpesnę kaip dvejų metų darbo patirtį licencijuojamos veiklos srityje, kiti juridinio asmens darbuotojai, kurių darbas tiesiogiai susijęs su licencijuojama dokumentų tvarkymo paslauga, privalo turėti ne trumpesnę kaip vienų metų darbo patirtį arba profesinę kvalifikaciją licencijuojamos paslaugos srityje.
+2) fizinis asmuo arba juridinio asmens darbuotojas, atsakingas už licencijuojamą dokumentų saugojimo paslaugą, privalo turėti ne trumpesnę kaip vienų metų darbo patirtį dokumentų saugojimo paslaugos teikimo ir (ar) dokumentų valdymo srityje;
 
 
 
 
+3) asmuo privalo turėti įrengtas dokumentų saugyklas, atitinkančias Lietuvos vyriausiojo archyvaro nustatytus dokumentų saugojimo reikalavimus.
 
 
-5. Licencija teikti dokumentų saugojimo paslaugą išduodama šio straipsnio 1 ir 2 dalyse nurodytiems asmenims, atitinkantiems šiuos reikalavimus:
 
 
-1) fizinis asmuo arba juridinio asmens vadovas neturi neišnykusio arba nepanaikinto teistumo už sunkius ar labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai;
 
 
+6. Laikoma, kad licencija teikti dokumentų saugojimo paslaugą yra išduota kitą darbo dieną nuo pranešimo apie ketinimą teikti dokumentų saugojimo paslaugą pateikimo Lietuvos vyriausiajam archyvarui arba nuo pranešime apie ketinimą teikti dokumentų saugojimo paslaugą nurodytos dienos, jeigu ši diena yra vėlesnė negu pranešimo apie ketinimą teikti dokumentų saugojimo paslaugą pateikimo Lietuvos vyriausiajam archyvarui diena. 
 
 
-2) fizinis asmuo arba juridinio asmens darbuotojas, atsakingas už licencijuojamą dokumentų saugojimo paslaugą, privalo turėti aukštąjį universitetinį ar jam prilygintą išsilavinimą ir ne trumpesnę kaip vienų metų darbo patirtį licencijuojamos paslaugos srityje;
 
 
+7. Lietuvos vyriausiojo archyvaro tarnyba asmens atitiktį šio straipsnio 5 dalyje nustatytiems reikalavimams įvertina ne vėliau kaip per 20 darbo dienų nuo pranešimo apie ketinimą teikti dokumentų saugojimo paslaugą gavimo dienos. Šis terminas Lietuvos vyriausiojo archyvaro motyvuotu sprendimu gali būti pratęstas, bet ne ilgiau kaip 10 darbo dienų. 
 
 
-3) fizinis arba juridinis asmuo privalo turėti įrengtas dokumentų saugyklas, atitinkančias teisės aktų nustatytus reikalavimus.
 
 
+8. Dokumentų saugojimo licencijos turėjimą rodo įrašas skelbiamame Dokumentų saugojimo licencijų turėtojų sąraše. 
 
 
 
 
-6. Lietuvos vyriausiasis archyvaras per 5 darbo dienas nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos pareiškėjui išsiunčia patvirtinimą, kad dokumentai gauti, kuriame nurodomas terminas, per kurį bus išnagrinėtas pareiškėjo prašymas išduoti licenciją, galimos pareiškėjo teisių gynimo priemonės, kuriomis galima naudotis kilus ginčų tarp Lietuvos vyriausiojo archyvaro ir pareiškėjo, taip pat nurodoma, kad, pareiškėjui negavus atsakymo per nustatytą terminą, laikoma, kad licencija išduota. Jeigu pareiškėjas pateikia ne visus licencijai išduoti reikiamus dokumentus, Lietuvos vyriausiasis archyvaras per 5 darbo dienas nuo prašymo gavimo dienos informuoja pareiškėją apie būtinybę pateikti trūkstamus dokumentus arba papildyti ar patikslinti pateiktus duomenis.
+9. Licencija galioja neterminuotai.
 
 
 
 
-7. Lietuvos vyriausiasis archyvaras ne vėliau kaip per 30 kalendorinių dienų nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos privalo išnagrinėti pateiktus dokumentus ir išduoti šio straipsnio 1 ir 2 dalyse nurodytiems asmenims licenciją arba pateikti rašytinį motyvuotą atsisakymą ją išduoti. Dėl svarbių priežasčių licencijos išdavimo terminas gali būti pratęstas iki 30 kalendorinių dienų. Tokiu atveju Lietuvos vyriausiasis archyvaras iki licencijos išdavimo termino pabaigos raštu informuoja pareiškėją apie termino pratęsimą ir nurodo priežastis, dėl kurių jis buvo pratęstas. Licencija išduodama elektroninės formos. Dokumentų tvarkymo ir (ar) saugojimo licencijos galiojimą patvirtina įrašas viešai skelbiamame Dokumentų tvarkymo ir (ar) saugojimo licencijų turėtojų sąraše. Asmens pageidavimu Lietuvos vyriausiojo archyvaro tarnyba išduoda pažymą, patvirtinančią, kad jam išduota licencija teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
- 
+10. Lietuvos vyriausiasis archyvaras, nustatęs, kad licencijos turėtojas neatitinka šio straipsnio 5 dalyje nustatytų reikalavimų (išskyrus atvejį, kai šio straipsnio 5 dalies 1 punkte nustatytų reikalavimų neatitinka licencijos turėtojas – fizinis asmuo), privalo įspėti apie galimą licencijos galiojimo sustabdymą.
 
 
 
 
-8. Licencija neišduodama, jeigu:
+11. Licencijos galiojimas sustabdomas, jeigu:
 
 
-1) pateikti ne visi nurodyti dokumentai arba pateikti klaidingi, netikslūs, neišsamūs duomenys ir pareiškėjas per nustatytą terminą jų neištaiso, nepatikslina ar nepapildo;
+1) licencijos turėtojas, įspėtas apie galimą licencijos galiojimo sustabdymą dėl šio straipsnio 10 dalyje nurodytų pažeidimų, per nurodytą terminą (ne vėliau kaip per 20 darbo dienų) jų nepašalina;
 
 
 
 
-2) fizinis arba juridinis asmuo neatitinka šio straipsnio 4 ir 5 dalyse nustatytų sąlygų;
+2) licencijos turėtojas laikinai sustabdo dokumentų saugojimo paslaugos teikimą ir kreipiasi į Lietuvos vyriausiąjį archyvarą dėl licencijos galiojimo sustabdymo;
 
 
 
 
-3) fizinis arba juridinis asmuo anksčiau turėjo šios rūšies licenciją, tačiau ji buvo panaikinta dėl licencijuojamos paslaugos teikimo pažeidimų ir nėra praėję treji metai nuo licencijos galiojimo panaikinimo.
+3) licencijos turėtojas už licencijos įgijimą nesumoka valstybės rinkliavos.
 
 
 
 
 
 
-9. Licencijų išdavimo, galiojimo sustabdymo, galiojimo panaikinimo tvarkos apraše nustatyta tvarka licencija patikslinama, jeigu pasikeičia bent vienas iš šių licencijoje nurodytų duomenų: juridinio asmens pavadinimas, teisinė forma, kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, duomenys apie dokumentų saugyklas. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
- 
+12. Sustabdžius licencijos galiojimą dėl šio straipsnio 11 dalies 1 ar 3 punkte nurodytų pažeidimų, licencijos turėtojas juos turi pašalinti ne vėliau kaip per 60 darbo dienų nuo licencijos galiojimo sustabdymo dienos ir tol, kol nebus pašalinti pažeidimai, licencijos turėtojas turi teisę vykdyti iki licencijos galiojimo sustabdymo sudarytas dokumentų saugojimo paslaugų sutartis, tačiau negali sudaryti naujų sutarčių dėl dokumentų saugojimo paslaugos teikimo. Pašalinęs nustatytus pažeidimus, licencijos turėtojas informuoja Lietuvos vyriausiąjį archyvarą, kuris ne vėliau kaip per 7 darbo dienas nuo informacijos gavimo dienos patikrina, ar pažeidimai pašalinti, panaikina licencijos galiojimo sustabdymą (jeigu pažeidimai pašalinti) arba atsisako panaikinti galiojimo sustabdymą (jeigu pažeidimai nepašalinti) ir apie tai praneša licencijos turėtojui. 
 
 
 
 
-10. Licencijos išduodamos neterminuotam laikui. Už licencijų išdavimą ir patikslinimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
- 
+13. Licencijos galiojimas panaikinamas, jeigu:
 
 
+1) licencijos turėtojas nutraukia dokumentų saugojimo paslaugos teikimą ir kreipiasi į Lietuvos vyriausiąjį archyvarą dėl licencijos galiojimo panaikinimo;
 
 
-11. Licencijos turėtojo pareigos:
 
 
-1) laikytis Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių licencijuojamą paslaugą;
+2) juridinis asmuo, turintis licenciją, likviduojamas arba fizinis asmuo, turintis licenciją, mirė;
 
 
 
 
-2) sudaryti sąlygas Lietuvos vyriausiojo archyvaro ar jo įgaliotiems Lietuvos vyriausiojo archyvaro tarnybos ar valstybės archyvų darbuotojams tikrinti dokumentų tvarkymo ir (ar) saugojimo paslaugų teikimą ir pateiktą informaciją, susijusią su licencijuojama paslauga;
+3) licencijos turėtojas per 60 darbo dienų nuo licencijos galiojimo sustabdymo nepašalina nustatyto (nustatytų) pažeidimo (pažeidimų);
 
 
 
 
-3) užtikrinti, kad darbuotojai, kurių darbas tiesiogiai susijęs su licencijuojama paslauga, turėtų šio straipsnio 4 dalies 2 punkte arba 5 dalies 2 punkte numatytą išsilavinimą, darbo patirtį arba profesinę kvalifikaciją licencijuojamos paslaugos teikimo srityje.
+4) licencijos turėtojas, kurio licencijos galiojimas sustabdytas, sudaro naujas sutartis dėl dokumentų saugojimo paslaugos teikimo; 
 
 
 
 
+5) paaiškėja, kad licencijos turėtojas – fizinis asmuo – neatitinka šio straipsnio 5 dalies 1 punkte nustatytų reikalavimų. 
 
 
-12. Licencijos turėtojas įstatymų nustatyta tvarka turi teisę apskųsti sprendimus dėl licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo, atsisakymo patikslinti licenciją.
 
 
 
 
-13. Lietuvos vyriausiasis archyvaras ar jo pavedimu valstybės archyvai ne rečiau kaip kartą per penkerius metus patikrina, kaip licencijos turėtojas laikosi licencijuojamos paslaugos teikimo sąlygų. Gavus informacijos apie galimus pažeidimus, tikrinama nedelsiant. Apie patikrinimo rezultatus licencijos turėtojas informuojamas raštu.
+14. Lietuvos vyriausiasis archyvaras sustabdo ar panaikina licencijos galiojimą ir praneša licencijos turėtojui apie licencijos galiojimo sustabdymą ar panaikinimą ne vėliau kaip per 2 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 11 ar 13 dalyje, paaiškėjimo dienos. 
 
 
 
 
-14. Lietuvos vyriausiasis archyvaras, nustatęs, kad licencijos turėtojas nevykdo šio straipsnio 11 dalyje numatytų pareigų ar licencijos turėtojo – juridinio asmens vadovas neatitinka šio straipsnio 4 dalies 1 punkte ar 5 dalies 1 punkte nustatytų reikalavimų, privalo įspėti apie galimą licencijos galiojimo sustabdymą. 
+15. Dokumentų saugojimo veiklos sąlygų laikymosi priežiūrą atlieka Lietuvos vyriausiasis archyvaras arba jo pavedimu valstybės archyvai.
 
 
 
 
-15. Licencijos galiojimas sustabdomas, jeigu:
+16. Licencijos turėtojas turi teisę apskųsti sprendimus dėl licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo, atsisakymo panaikinti licencijos galiojimo sustabdymą.
 
 
-1) licencijos turėtojas, Lietuvos vyriausiojo archyvaro raštu įspėtas apie galimą licencijos galiojimo sustabdymą dėl šio straipsnio 14 dalyje nurodytų pažeidimų, per nurodytą terminą (ne mažiau kaip 30 kalendorinių dienų) jų nepašalina;
-
-
-
-
-2) licencijos turėtojas laikinai sustabdo licencijoje nurodytos paslaugos teikimą ir raštu kreipiasi į Lietuvos vyriausiąjį archyvarą dėl licencijos galiojimo sustabdymo. 
-
-
-
-
-
-
-16. Sustabdžius licencijos galiojimą dėl šio straipsnio 14 dalyje nurodytų pažeidimų, licencijos turėtojas juos turi pašalinti ne vėliau kaip per 3 mėnesius nuo licencijos galiojimo sustabdymo dienos. Pašalinęs nustatytus pažeidimus, licencijos turėtojas raštu informuoja Lietuvos vyriausiąjį archyvarą, kuris per 5 darbo dienas nuo informacijos gavimo patikrina, ar pažeidimai pašalinti, ir per 5 darbo dienas po patikrinimo priima sprendimą panaikinti licencijos galiojimo sustabdymą. Sustabdžius licencijos galiojimą šio straipsnio 15 dalies 2 punkte nurodytu atveju, sprendimas panaikinti licencijos galiojimo sustabdymą priimamas per 5 darbo dienas nuo licencijos turėtojo prašymo panaikinti licencijos galiojimo sustabdymą gavimo dienos.
-
-
-
-
-17. Licencijos galiojimas panaikinamas, jeigu:
-
-
-1) licencijos turėtojas nutraukia licencijoje nurodytos paslaugos teikimą ir raštu kreipiasi į Lietuvos vyriausiąjį archyvarą dėl licencijos galiojimo panaikinimo;
-
-
-
-
-2) juridinis asmuo, turintis licenciją, likviduojamas, jam iškeliama bankroto byla ar bankrotas vykdomas ne teismo tvarka arba fizinis asmuo, turintis licenciją, mirė;
-
-
-
-
-3) licencijos turėtojas per 3 mėnesius nuo licencijos galiojimo sustabdymo nepašalina nustatyto (nustatytų) pažeidimo (pažeidimų);
-
-
-
-
-4) licencijos turėtojas, kurio licencijos galiojimas sustabdytas, teikia licencijuojamą paslaugą;
-
-
-
-
-5) paaiškėja, kad fizinis asmuo, turintis licenciją, yra nuteistas už sunkius ar labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai.
-
-
-
-
-
-
-18. Neteko galios nuo 2012-07-01
-Straipsnio dalies naikinimas:
-Nr. XI-1956, 2012-03-29, Žin. 2012, Nr. 44-2147 (2012-04-14) ; Žin. 2012, Nr. 46-0 (2012-04-19) ; Žin. 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
- 
-
-
+TAR pastaba. Licencijų teikti dokumentų tvarkymo paslaugą, išduotų iki 2016 m. balandžio 30 d., galiojimas panaikinamas 2016 m. gegužės 1 d. Lietuvos vyriausiojo archyvaro tarnyba dokumentų tvarkymo paslaugos teikimo veiklą vykdančius asmenis iki 2016 m. balandžio 30 d. įrašo į 18 straipsnio 1 dalyje nurodytą Dokumentų tvarkymo paslaugos teikėjų sąrašą. Su licencijomis teikti dokumentų tvarkymo ir (ar) saugojimo paslaugą susiję prašymai, gauti iki 2016 m. balandžio 30 d., dėl kurių nėra priimti sprendimai, nagrinėjami 18 straipsnyje nustatyta tvarka.
+18 straipsnyje nustatyti pažeidimų šalinimo ir licencijos galiojimo panaikinimo, nepašalinus nustatytų pažeidimų, terminai, prasidėję iki įstatymo Nr. XII-2240 įsigaliojimo (2016-05-01), skaičiuojami pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos dokumentų ir archyvų įstatymo nuostatas.
 Straipsnio pakeitimai:
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
  
 
 
@@ -1516,3 +1449,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo 2, 5, 7, 8, 10, 13, 14, 15
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2243, 2012-10-02, Žin., 2012, Nr. 122-6102 (2012-10-20), i. k. 1121010ISTA0XI-2243
 Lietuvos Respublikos dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 5 ir 18 straipsnių pakeitimo įstatymas
