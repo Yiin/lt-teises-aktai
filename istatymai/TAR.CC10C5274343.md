@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2015-12-10 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2016-06-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -44,7 +44,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis 
 
 
-1. Šis Įstatymas reglamentuoja žemės nuosavybės, valdymo ir naudojimo santykius bei žemės tvarkymą ir administravimą Lietuvos Respublikoje.
+1. Šis Įstatymas reglamentuoja žemės nuosavybės, valdymo ir naudojimo santykius bei žemės tvarkymą ir administravimą Lietuvos Respublikos teritorijoje, jos išskirtinėje ekonominėje zonoje ir kontinentiniame šelfe Baltijos jūroje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -85,7 +88,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Žemė – Lietuvos Respublikos žemės paviršiuje esantys sausumos plotai, paviršiniai vidaus ir teritoriniai vandenys.
+6. Žemė – Lietuvos Respublikos teritorijoje, jos išskirtinėje ekonominėje zonoje ir kontinentiniame šelfe Baltijos jūroje esantys sausumos plotai, paviršiniai vidaus ir teritoriniai vandenys.
+Straipsnio dalies pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -2691,17 +2697,20 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-3. Kvalifikacijos pažymėjimai išduodami neterminuotam laikui šio straipsnio 1 dalyje nurodytiems asmenims, atitinkantiems šiuos kvalifikacijos reikalavimus:
+3. Kvalifikacijos pažymėjimai išduodami neterminuotam laikui šio straipsnio 1 dalyje nurodytiems asmenims, atitinkantiems šiuos kvalifikacijos reikalavimus: 
 
 
-1) asmenys, rengiantys žemėtvarkos schemas, privalo turėti aukštąjį žemėtvarkos, geografijos ar kraštotvarkos išsilavinimą, ne mažesnę kaip 5 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje, kvalifikacijos tobulinimo kursuose turi būti išklausę ne mažiau kaip 20 valandų paskaitų žemėtvarkos planavimo dokumentų rengimo tema, išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą;
+1) asmenys, rengiantys žemėtvarkos schemas, privalo turėti aukštąjį žemėtvarkos, geografijos ar kraštotvarkos išsilavinimą, ne mažesnę kaip 5 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje skaičiuojant nuo to laiko, kai asmenys pradėjo dirbti šios srities darbus, ir būti išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą;
 
 
 
 
-2) asmenys, rengiantys kaimo plėtros žemėtvarkos projektus, žemės sklypų formavimo ir pertvarkymo projektus, žemės paėmimo visuomenės poreikiams projektus, žemės konsolidacijos projektus, privalo turėti aukštąjį žemėtvarkos, kraštotvarkos, geodezijos ar hidrotechnikos išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje, kvalifikacijos tobulinimo kursuose turi būti išklausę ne mažiau kaip 20 valandų paskaitų žemėtvarkos planavimo dokumentų rengimo tema, išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą.
+2) asmenys, rengiantys kaimo plėtros žemėtvarkos projektus, žemės sklypų formavimo ir pertvarkymo projektus, žemės paėmimo visuomenės poreikiams projektus, žemės konsolidacijos projektus, privalo turėti aukštąjį žemėtvarkos, kraštotvarkos, geodezijos ar hidrotechnikos išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį žemėtvarkos schemų, kaimo plėtros žemėtvarkos projektų arba žemės valdos projektų rengimo srityje skaičiuojant nuo to laiko, kai asmenys pradėjo dirbti šios srities darbus, ir būti išlaikę profesinių žinių, susijusių su žemėtvarkos planavimo dokumentų rengimu, patikrinimo testą. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -2711,7 +2720,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-5. Už kvalifikacijos pažymėjimų ar jų dublikatų išdavimą imama valstybės rinkliava Rinkliavų įstatymo nustatyta tvarka.
+5. Neteko galios nuo 2016-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -2721,12 +2733,18 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-7. Kvalifikacijos pažymėjimų galiojimas gali būti sustabdomas 3 mėnesiams, kai valstybinę žemėtvarkos planavimo dokumentų priežiūrą vykdanti institucija nustato, kad šio straipsnio 1 dalyje nurodyti asmenys, rengdami žemėtvarkos planavimo dokumentus, pažeidė įstatymų, kitų teisės aktų, reglamentuojančių kvalifikacijos pažymėjimų išdavimo, žemėtvarkos planavimo dokumentų rengimo reikalavimus. 
+7. Vyriausybės įgaliotai institucijai nustačius nešiurkštų kvalifikacijos pažymėjimo turėtojo veiklos pažeidimą, asmuo įspėjamas, kad ne vėliau kaip per 20 darbo dienų nuo įspėjimo gavimo dienos turi pašalinti nustatytą pažeidimą ir pateikti šio pažeidimo pašalinimo įrodymo dokumentus. Nešiurkščiu pažeidimu laikomas toks įstatymų, kitų teisės aktų, reglamentuojančių žemėtvarkos planavimo dokumentų rengimą, pažeidimas, kuris nesukelia pagrindo žalai tretiesiems asmenims atsirasti ir kurį pašalinti gali pats kvalifikacijos pažymėjimo turėtojas. Kvalifikacijos pažymėjimų galiojimas sustabdomas 3 mėnesiams, jeigu iki termino, per kurį turėjo pašalinti pažeidimus, pabaigos kvalifikacijos pažymėjimo turėtojas nepateikė pažeidimų pašalinimo įrodymo dokumentų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
 
-8. Kvalifikacijos pažymėjimo turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas kvalifikacijos pažymėjimo galiojimas, pašalinti, kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 14 kalendorinių dienų nuo šių dokumentų pateikimo dienos.
+8. Kvalifikacijos pažymėjimo turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas kvalifikacijos pažymėjimo galiojimas, pašalinti, kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 5 darbo dienas nuo šių dokumentų pateikimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -2744,7 +2762,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-2) asmenys, rengdami žemėtvarkos planavimo dokumentus, daugiau kaip 3 kartus per vienus metus padarė nešiurkščius įstatymų, kitų teisės aktų, reglamentuojančių žemėtvarkos planavimo dokumentų rengimą, reikalavimų pažeidimus. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas; 
+2) asmenys, rengdami žemėtvarkos planavimo dokumentus, 2 ir daugiau kartų per vienus metus padarė nešiurkštų pažeidimą. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -2791,7 +2812,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-12. Panaikinus kvalifikacijos pažymėjimo galiojimą, šio straipsnio 1 dalyje nurodyti asmenys dėl naujo kvalifikacijos pažymėjimo išdavimo gali kreiptis ne anksčiau kaip po 2 metų, išskyrus šio straipsnio 10 dalies 8 punkte nurodytą atvejį, kai prašymas išduoti kvalifikacijos pažymėjimą gali būti teikiamas nesuėjus 2 metų laikotarpiui. 
+12. Panaikinus kvalifikacijos pažymėjimo galiojimą, šio straipsnio 1 dalyje nurodyti asmenys dėl naujo kvalifikacijos pažymėjimo išdavimo gali kreiptis ne anksčiau kaip po 2 metų, išskyrus šio straipsnio 10 dalies 6 ir 8 punktuose nurodytus atvejus, kai prašymas išduoti kvalifikacijos pažymėjimą gali būti teikiamas nesuėjus 2 metų laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 
@@ -2812,6 +2836,14 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 2) teisės aktų nustatyta tvarka gauti iš valstybės įmonių bei valstybės ir savivaldybių institucijų projektavimo darbams reikiamus teritorijų planavimo dokumentus ir jų kopijas, Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro duomenis, georeferencinius duomenis.
 
 
+
+
+
+
+15. Asmenų, rengiančių žemėtvarkos planavimo dokumentus ir turinčių galiojančias nuobaudas, sąrašas skelbiamas jų kvalifikacijos pažymėjimus išduodančios institucijos interneto svetainėje.
+Papildyta straipsnio dalimi:
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+ 
 
 
 Straipsnio pakeitimai:
@@ -3737,3 +3769,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 42 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
 Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
+Lietuvos Respublikos žemės įstatymo Nr. I-446 1, 2 ir 41 straipsnių pakeitimo įstatymas
