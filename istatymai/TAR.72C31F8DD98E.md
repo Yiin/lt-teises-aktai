@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
  
@@ -620,7 +620,10 @@ Nr. XII-421, 2013-06-27, Žin., 2013, Nr. 76-3838 (2013-07-16)
 
 
 
-5. Nekilnojamojo daikto planai turi būti parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą Lietuvos Respublikos teritorijoje. Parengtas žemės sklypo planas turi būti suderintas Kadastro nuostatuose nustatyta tvarka.
+5. Nekilnojamojo daikto planai turi būti parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą Lietuvos Respublikos teritorijoje, jos išskirtinėje ekonominėje zonoje ir kontinentiniame šelfe Baltijos jūroje. Parengtas žemės sklypo planas turi būti suderintas Kadastro nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -766,24 +769,36 @@ Nr. XI-998, 2010-07-02, Žin., 2010, Nr. 84-4407 (2010-07-15)
 
 
 
-2) turėti ne trumpesnę kaip dvejų metų darbo patirtį nekilnojamųjų daiktų kadastro duomenų nustatymo srityje;
+2) turėti ne trumpesnę kaip dvejų metų darbo patirtį nekilnojamųjų daiktų kadastro duomenų nustatymo srityje, skaičiuojant nuo to laiko, kai asmuo pradėjo dirbti šios srities darbus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
 
-3) ne anksčiau kaip prieš trejus metus iki matininko kvalifikacijos pažymėjimo išdavimo kvalifikacijos kursuose pagal Vyriausybės įgaliotos institucijos patvirtintas programas turi būti išklausęs ne trumpesnį kaip trisdešimties valandų kursą ir išlaikęs kvalifikacijos egzaminą.
+3) ne anksčiau kaip prieš trejus metus iki matininko kvalifikacijos pažymėjimo išdavimo turi būti išlaikęs kvalifikacijos egzaminą. 
+Straipsnio punkto pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
 
 
 
-4. Fizinis asmuo, pageidaujantis gauti matininko kvalifikacijos pažymėjimą, Vyriausybės įgaliotai institucijai pateikia prašymą ir dokumentus, įrodančius kvalifikacijos atitiktį. Matininko kvalifikacijos pažymėjimas išduodamas arba rašytinis motyvuotas atsisakymas išduoti kvalifikacijos pažymėjimą pareiškėjui pateikiamas ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų kvalifikacijos pažymėjimui išduoti, gavimo dienos. Matininko kvalifikacijos pažymėjimas teikiamas Vyriausybės įgaliotos institucijos nustatyta tvarka. Tuo atveju, jeigu į tinkamai pateiktą prašymą išduoti kvalifikacijos pažymėjimą kartu su visais kvalifikacijos pažymėjimui išduoti reikalingais dokumentais neatsakoma per šioje dalyje nustatytą terminą, laikoma, kad toks pažymėjimas yra išduotas. 
+4. Fizinis asmuo, pageidaujantis gauti matininko kvalifikacijos pažymėjimą, Vyriausybės įgaliotai institucijai pateikia prašymą ir dokumentus, įrodančius kvalifikacijos atitiktį. Matininko kvalifikacijos pažymėjimas išduodamas arba rašytinis motyvuotas atsisakymas išduoti kvalifikacijos pažymėjimą pareiškėjui pateikiamas ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų kvalifikacijos pažymėjimui išduoti, gavimo dienos. Matininko kvalifikacijos pažymėjimas išduodamas Vyriausybės įgaliotos institucijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
 
-5. Už matininko kvalifikacijos pažymėjimų ar jų dublikatų išdavimą, kvalifikacijos pažymėjimų patikslinimą imama valstybės rinkliava Rinkliavų įstatymo nustatyta tvarka.
+5. Neteko galios nuo 2016-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -858,7 +873,10 @@ Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
 
 
-3) tobulinti kvalifikaciją;
+3) ne rečiau kaip kas 3 metus tobulinti savo kvalifikaciją pagal Vyriausybės įgaliotos institucijos patvirtintas mokymo programas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -880,12 +898,18 @@ Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
 
 
-10. Matininko kvalifikacijos pažymėjimų galiojimas gali būti sustabdomas, kai šiuos kvalifikacijos pažymėjimus išduodanti Vyriausybės įgaliota institucija nustato, kad šio straipsnio 1 dalyje nurodyti asmenys, nustatydami nekilnojamųjų daiktų kadastro duomenis, pažeidė įstatymų, kitų teisės aktų, reglamentuojančių kvalifikacijos pažymėjimų išdavimą, reikalavimus.
+10. Vyriausybės įgaliotai institucijai nustačius nešiurkštų matininko veiklos pažeidimą, matininkas įspėjamas, kad ne vėliau kaip per 20 darbo dienų nuo įspėjimo gavimo dienos turi pašalinti nustatytą pažeidimą ir pateikti šio pažeidimo pašalinimo įrodymo dokumentus. Nešiurkščiu pažeidimu laikomas toks įstatymų, kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų kadastro duomenų nustatymą, pažeidimas, kuris nesukelia pagrindo žalai tretiesiems asmenims atsirasti ir kurį pašalinti gali pats matininkas. Matininko kvalifikacijos pažymėjimo galiojimas sustabdomas 3 mėnesiams, jeigu iki termino, per kurį turėjo pašalinti pažeidimus, pabaigos matininkas nepateikė pažeidimų pašalinimo įrodymo dokumentų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
 
-11. Matininkui per Vyriausybės įgaliotos institucijos nustatytą terminą ištaisius nustatytus pažeidimus ir pateikus dokumentus, įrodančius šių pažeidimų pašalinimą, pažymėjimo sustabdymas panaikinamas. 
+11. Matininkui per Vyriausybės įgaliotos institucijos nustatytą terminą ištaisius nustatytus pažeidimus ir pateikus dokumentus, įrodančius šių pažeidimų pašalinimą, ne vėliau kaip per 5 darbo dienas nuo šių dokumentų pateikimo dienos kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -908,7 +932,10 @@ Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
 
 
-4) daugiau kaip tris kartus per vienus metus padarė nešiurkščius įstatymų, kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų kadastro duomenų nustatymą, reikalavimų pažeidimus. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas;
+4) per vienus metus 2 ir daugiau kartų padarė nešiurkštų pažeidimą. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -940,7 +967,10 @@ Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
 
 
-13. Panaikinus matininko kvalifikacijos pažymėjimo galiojimą, fizinis asmuo prašymą dėl naujo pažymėjimo išdavimo gali teikti ne anksčiau kaip po dvejų metų, išskyrus šio straipsnio 12 dalies 7 ir 8 punktuose numatytus atvejus, prašymas gali būti teikiamas nesuėjus dvejų metų laikotarpiui.
+13. Panaikinus matininko kvalifikacijos pažymėjimo galiojimą, fizinis asmuo prašymą dėl naujo pažymėjimo išdavimo gali teikti ne anksčiau kaip po dvejų metų, išskyrus šio straipsnio 12 dalies 6 ir 8 punktuose numatytus atvejus, kai prašymas gali būti teikiamas nesuėjus dvejų metų laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -956,6 +986,14 @@ Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 
 
 16. Matininkas už neteisėtais veiksmais kitiems asmenims padarytą žalą nustatant nekilnojamųjų daiktų kadastro duomenis atsako Darbo kodekso ir šio įstatymo nustatyta tvarka.
+
+
+
+
+17. Matininkų, turinčių galiojančias nuobaudas, sąrašas skelbiamas jų kvalifikacijos pažymėjimus išduodančios institucijos interneto svetainėje.
+Papildyta straipsnio dalimi:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 Straipsnio pakeitimai:
@@ -1176,7 +1214,7 @@ Kadastro tvarkytojas atsisako įrašyti nekilnojamojo daikto kadastro duomenis �
 
 
 
-2. Kadastro žemėlapis apima visą Lietuvos Respublikos teritoriją. Jį sudaro šie pagrindiniai grafiniai sluoksniai:
+2. Kadastro žemėlapis apima visą Lietuvos Respublikos teritoriją, jos išskirtinę ekonominę zoną ir kontinentinį šelfą Baltijos jūroje. Jį sudaro šie pagrindiniai grafiniai sluoksniai:
 
 
 1) georeferenciniai duomenys: vektorinė ar rastrinė kartografinė medžiaga; valstybinio ir vietinio geodezinio pagrindo taškų, susietų su valstybine koordinačių sistema, koordinatės ir kita šiuos taškus apibūdinanti atributinė informacija; 
@@ -1205,44 +1243,32 @@ Kadastro tvarkytojas atsisako įrašyti nekilnojamojo daikto kadastro duomenis �
 
 
 6) sodininkų bendrijoms priskirtų mėgėjų sodo teritorijų ribų, sodininkų bendrijų pavadinimų ir kodų; 
-Papildyta straipsnio punktu:
-Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
- 
 
 
 
 
 7) žemės sklypų ribų, šių ribų posūkio taškų koordinačių valstybinėje koordinačių sistemoje ir jų unikalių bei kadastro numerių;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
- 
 
 
 
 
 8) pastatų kontūrų ar centro taškų koordinačių valstybinėje koordinačių sistemoje ir unikalių numerių;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
- 
 
 
 
 
 9) inžinerinių statinių (tiesinių) kontūrų ar ašinių linijų, jų pradžios, pabaigos ir posūkio taškų koordinačių valstybinėje koordinačių sistemoje ir unikalių numerių;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
- 
 
 
 
 
 10) nekilnojamojo daikto rinkos verčių, nustatytų masinio vertinimo būdu, zonų, pavadinimų, kodų.
 TAR pastaba. 17 straipsnio 2 dalies nuostatos dėl sodininkų bendrijų pavadinimų ir kodų įrašymo į nekilnojamojo turto kadastrą taikomos ir nekilnojamojo turto kadastre įregistruotiems, ir naujai registruojamiems sodininkų bendrijoms priskirtose mėgėjų sodo teritorijose esantiems žemės sklypams.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
  
-
-
 
 
 
@@ -1255,7 +1281,10 @@ Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
 4. Įrašydamas nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto kadastrą, Kadastro tvarkytojas Kadastro nuostatų nustatyta tvarka pažymi šiuos daiktus nekilnojamojo turto kadastro žemėlapyje. Prieš pažymint nekilnojamojo turto kadastro žemėlapyje nekilnojamojo daikto ribas patikrinama, ar:
 
 
-1) nekilnojamojo daikto planai parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą ir ribas Lietuvos teritorijoje;
+1) nekilnojamojo daikto planai parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti nekilnojamojo daikto vietą ir ribas Lietuvos teritorijoje, jos išskirtinėje ekonominėje zonoje ir kontinentiniame šelfe Baltijos jūroje;
+Straipsnio punkto pakeitimai:
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+ 
 
 
 
@@ -1474,3 +1503,8 @@ Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 6, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
 Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 5, 9, 11 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 8, 11 ir 17 straipsnių pakeitimo įstatymas
