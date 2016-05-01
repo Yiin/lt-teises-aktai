@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2010-05-11 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2017-07-13
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -632,7 +632,6 @@ Vyriausybės įgaliota institucija, įgyvendindama Lietuvos Respublikos valstyb�
 
 
 15) atlieka savivaldybėse atliekamų geodezijos ir kartografijos darbų priežiūrą;
-TAR pastaba. 10 straipsnio 15 punktas įsigalioja 2010 m. liepos 1 d.
 
 
 
@@ -742,24 +741,36 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 
 
 
-2) iki prašymo pateikimo Vyriausybės įgaliotai institucijai įgyta ne mažesnė kaip 2 metų darbo geodezinių ir kartografinių duomenų rengimo srityje patirtis; 
+2) iki prašymo pateikimo Vyriausybės įgaliotai institucijai įgyta ne mažesnė kaip 2 metų darbo geodezinių ir kartografinių duomenų rengimo srityje patirtis, skaičiuojant nuo to laiko, kai asmuo pradėjo dirbti šios srities darbus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
 
-3) ne anksčiau kaip prieš 3 metus iki prašymo pateikimo Vyriausybės įgaliotai institucijai kvalifikacijos kursuose pagal Vyriausybės įgaliotos institucijos patvirtintas programas išklausytas ne trumpesnis kaip 30 valandų kursas ir išlaikytas profesinių žinių patikrinimo egzaminas.
+3) ne anksčiau kaip prieš 3 metus iki prašymo pateikimo Vyriausybės įgaliotai institucijai išlaikytas profesinių žinių patikrinimo egzaminas. 
+Straipsnio punkto pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
 
 
 
-4. Fizinis asmuo, pageidaujantis gauti geodezininko kvalifikacijos pažymėjimą, Vyriausybės įgaliotai institucijai pateikia prašymą ir kvalifikacijos reikalavimus patvirtinantį dokumentą. Kvalifikacijos pažymėjimas verstis geodezininko veikla arba rašytinis motyvuotas atsisakymas išduoti kvalifikacijos pažymėjimą turi būti pateiktas pareiškėjui ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų kvalifikacijos pažymėjimui išduoti, gavimo dienos. Geodezininko kvalifikacijos pažymėjimas teikiamas elektroniniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka. Tuo atveju, jeigu į tinkamai pateiktą prašymą išduoti kvalifikacijos pažymėjimą kartu su visais kvalifikacijos pažymėjimui išduoti reikalingais dokumentais neatsakoma per šioje dalyje nustatytą terminą, laikoma, kad toks pažymėjimas yra išduotas.
+4. Fizinis asmuo, pageidaujantis gauti geodezininko kvalifikacijos pažymėjimą, Vyriausybės įgaliotai institucijai pateikia prašymą ir kvalifikacijos reikalavimus patvirtinantį dokumentą. Kvalifikacijos pažymėjimas verstis geodezininko veikla arba rašytinis motyvuotas atsisakymas išduoti kvalifikacijos pažymėjimą turi būti pateiktas pareiškėjui ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų kvalifikacijos pažymėjimui išduoti, gavimo dienos. Geodezininko kvalifikacijos pažymėjimas išduodamas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
 
-5. Už geodezininko kvalifikacijos pažymėjimo išdavimą ar pažymėjimo dublikato išdavimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka.
+5. Neteko galios nuo 2016-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
@@ -843,7 +854,10 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 
 
 
-7) tobulinti kvalifikaciją.
+7) ne rečiau kaip kas 3 metus tobulinti savo kvalifikaciją pagal Vyriausybės įgaliotos institucijos patvirtintas mokymo programas.
+Straipsnio punkto pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
@@ -916,12 +930,18 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 
 
 
-3. Geodezininko kvalifikacijos pažymėjimo galiojimas sustabdomas ne ilgiau kaip 3 mėnesiams, kai šiuos kvalifikacijos pažymėjimus išduodanti Vyriausybės įgaliota institucija nustato nešiurkščius geodezininko veiklos pažeidimus. 
+3. Vyriausybės įgaliotai institucijai nustačius geodezininko veiklos pažeidimą, nurodytą šio straipsnio 2 dalies 1 punkte, geodezininkas įspėjamas, kad ne vėliau kaip per 20 darbo dienų nuo įspėjimo gavimo dienos turi pašalinti nustatytą pažeidimą ir pateikti šio pažeidimo pašalinimo įrodymo dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
 
-4. Geodezininkui per Vyriausybės įgaliotos institucijos nustatytą terminą ištaisius nešiurkščius veiklos pažeidimus ir pateikus šių pažeidimų pašalinimą įrodančius dokumentus, kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas.
+4. Geodezininko kvalifikacijos pažymėjimo galiojimas sustabdomas 3 mėnesiams, jeigu iki termino, per kurį turėjo pašalinti pažeidimus, pabaigos geodezininkas nepateikė pažeidimų pašalinimo įrodymo dokumentų. Geodezininkui ištaisius veiklos pažeidimus, nurodytus šio straipsnio 2 dalies 1 punkte, ir pateikus šių pažeidimų pašalinimo įrodymo dokumentus, kvalifikacijos pažymėjimo galiojimo sustabdymas ne vėliau kaip per 5 darbo dienas nuo šių dokumentų pateikimo dienos panaikinamas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
@@ -929,7 +949,10 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 5. Geodezininko kvalifikacijos pažymėjimo galiojimas panaikinamas Vyriausybės įgaliotos institucijos sprendimu, jeigu:
 
 
-1) nustatoma, kad geodezininkas daugiau kaip 3 kartus per vienus metus padarė šio straipsnio 2 dalies 1 punkte nurodyto pobūdžio pažeidimą. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas; 
+1) nustatoma, kad geodezininkas 2 ir daugiau kartų per vienus metus padarė šio straipsnio 2 dalies 1 punkte nurodyto pobūdžio pažeidimą. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
@@ -944,7 +967,10 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 
 
 
-4) geodezininkas per vienus metus nuo kvalifikacijos pažymėjimo galiojimo sustabdymo panaikinimo padarė šio straipsnio 2 dalies 2 punkte nurodyto pobūdžio pažeidimą. Šiuo atveju kvalifikacijos pažymėjimo galiojimas panaikinamas neatsižvelgiant į tai, ar buvo sustabdytas jo galiojimas; 
+4) geodezininkas padarė šio straipsnio 2 dalies 2 punkte nurodyto pobūdžio pažeidimą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
@@ -954,7 +980,10 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 
 
 
-6) geodezininkas per Vyriausybės įgaliotos institucijos nustatytą terminą netobulino kvalifikacijos; 
+6) geodezininkas nevykdė šio įstatymo 13 straipsnio 1 dalies 7 punkto reikalavimo; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
 
 
 
@@ -976,7 +1005,17 @@ Geodezinės ir kartografinės veiklos sąlygos, Geodezinę ir kartografinę veik
 
 
 
-6. Panaikinus geodezininko kvalifikacijos pažymėjimo galiojimą, fizinis asmuo prašymą dėl naujo pažymėjimo išdavimo gali teikti ne anksčiau kaip po 2 metų, išskyrus šio straipsnio 5 dalies 6 ir 8 punktuose nurodytus atvejus.
+6. Panaikinus geodezininko kvalifikacijos pažymėjimo galiojimą, fizinis asmuo prašymą dėl naujo pažymėjimo išdavimo gali teikti ne anksčiau kaip po 2 metų, išskyrus šio straipsnio 5 dalies 6 ir 8 punktuose nurodytus atvejus, kai prašymas išduoti geodezininko kvalifikacijos pažymėjimą gali būti teikiamas nesuėjus 2 metų laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+ 
+
+
+
+
+7. Geodezininkų, turinčių galiojančias nuobaudas, sąrašas skelbiamas jų kvalifikacijos pažymėjimus išduodančios institucijos interneto svetainėje.
+Papildyta straipsnio dalimi:
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
  
 
 
@@ -1599,3 +1638,8 @@ Lietuvos Respublikos geodezijos ir kartografijos įstatymo 1, 3, 4, 6, 10, 11, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-786, 2010-04-27, Žin., 2010, Nr. 54-2649 (2010-05-11), i. k. 1101010ISTA00XI-786
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 12, 13 ir 14 straipsnių pakeitimo įstatymas
