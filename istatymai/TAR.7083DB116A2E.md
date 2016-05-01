@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2011-12-01 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2016-07-14
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -50,7 +50,10 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-2. Branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais – veikla su jonizuojančiosios spinduliuotės šaltiniais, kuria verčiamasi branduolinės energetikos objektuose, taip pat kita veikla su branduolinio kuro ciklo medžiagomis ir branduolinėmis medžiagomis, kurių kiekis viršija Lietuvos Respublikos branduolinės saugos įstatymo 1 priede nustatytą kiekį.
+2. Branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais – veikla su jonizuojančiosios spinduliuotės šaltiniais arba jonizuojančiosios spinduliuotės aplinkoje, kuria verčiamasi branduolinės energetikos objektuose, branduolinės energetikos objektų aikštelėse, taip pat veikla su branduolinio kuro ciklo medžiagomis, branduolinėmis medžiagomis ir daliosiomis medžiagomis, kurios ir kurių kiekiai nurodyti Lietuvos Respublikos branduolinės saugos įstatymo 1 priede. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -85,82 +88,154 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-9. Laikinasis leidimas – dokumentas, kuriuo suteikiama teisė šio įstatymo 8 straipsnio 2 dalyje nurodytiems asmenims, turintiems valstybėje narėje išduotą dokumentą, kuriuo suteikiama teisė verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, laikinai Lietuvos Respublikoje verstis laikinajame leidime nurodyta veikla, laikantis šiame ir kituose įstatymuose bei teisės aktuose nustatytų sąlygų ir reikalavimų. Vertimosi veikla laikinumą vertina ir laikinojo leidimo galiojimo terminą nustato laikinąjį leidimą išduodanti institucija, atsižvelgdama į veiklos vykdymo trukmę, reguliarumą, dažnumą ir tęstinumą.
+9. Jonizuojančiosios spinduliuotės šaltinių fizinė sauga – visuma teisinių, organizacinių ir techninių priemonių bei veiklą su jonizuojančiosios spinduliuotės šaltiniais vykdančių šio įstatymo 8 straipsnio 2 dalyje nurodytų asmenų ir (ar) jų darbuotojų kompetencijų, kurių tikslas – užtikrinti jonizuojančiosios spinduliuotės šaltinių apsaugą nuo neteisėto jų užvaldymo ar pagrobimo, praradimo, teroro akto, nesankcionuoto pašalinių asmenų patekimo prie jų, neteisėto panaudojimo ar perdavimo, taip pat kitų piktavališkų veiksmų, kurie tiesiogiai arba netiesiogiai gali kelti riziką žmonių sveikatai ir saugumui dėl jonizuojančiosios spinduliuotės, taip pat užtikrinti šių veiksmų prevenciją. 
+Papildyta straipsnio dalimi:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-10. Leidimas vežti radioaktyviąsias medžiagas – dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar vežti šalies viduje radioaktyviąsias medžiagas laikantis šiame įstatyme ir kituose teisės aktuose nustatytų sąlygų ir reikalavimų.
+10. Kokybės laidavimas – visuma veiksmų, kuriais siekiama užtikrinti, kad verčiantis veikla su jonizuojančiosios spinduliuotės šaltiniais naudojamos sistemos, komponentai arba procedūros atitiktų kokybės reikalavimus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-11. Leidimo vežti radioaktyviąsias medžiagas turėtojas – asmuo, turintis teisės aktuose nustatyta tvarka išduodamą leidimą, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar vežti šalies viduje radioaktyviąsias medžiagas, ir atsakantis už leidimu reguliuojamos veiklos sąlygų laikymąsi. 
+11. Laikinasis leidimas – dokumentas, kuriuo suteikiama teisė šio įstatymo 8 straipsnio 2 dalyje nurodytiems asmenims, turintiems valstybėje narėje išduotą dokumentą, kuriuo suteikiama teisė verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, laikinai Lietuvos Respublikoje verstis laikinajame leidime nurodyta veikla, laikantis šiame įstatyme nustatytų sąlygų ir reikalavimų. Vertimosi veikla laikinumą vertina ir laikinojo leidimo galiojimo terminą nustato laikinąjį leidimą išduodanti institucija, atsižvelgdama į veiklos ypatumus, vykdymo trukmę, reguliarumą, dažnumą ir tęstinumą, pagal laikinąjį leidimą išduodančios institucijos nustatytus kriterijus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-12. Medicininė apšvita – apšvita, kurią patiria pacientai sveikatos priežiūros metu, medicininių ir biomedicininių mokslinių tyrimų metu ir asmenys (išskyrus darbuotojus), kurie savanoriškai padeda pacientui.
+12. Leidimas vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu – dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar vežti šalies viduje radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, laikantis šiame įstatyme nustatytų sąlygų ir reikalavimų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-13. Nemedicininė apšvita – apšvita, nepriskiriama medicininei apšvitai ir patiriama siekiant gauti informacijos kitais negu ligų diagnostikos ir (ar) gydymo bei sveikatos būklės gerinimo tikslais. 
+13. Leidimas vežti radioaktyviąsias medžiagas – dokumentas, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar vežti šalies viduje radioaktyviąsias medžiagas laikantis šiame įstatyme nustatytų sąlygų ir reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-14. Nereguliuojamosios veiklos su jonizuojančiosios spinduliuotės šaltiniais kriterijai (toliau – nereguliuojamosios veiklos kriterijai) – kriterijai, kuriuos atitinkančiai veiklai netaikomi radiacinę saugą reglamentuojančių teisės aktų reikalavimai ir nereikalinga licencija ar laikinasis leidimas.
+14. Leidimo vežti radioaktyviąsias medžiagas turėtojas – asmuo, turintis teisės aktuose nustatyta tvarka išduodamą leidimą, kuriuo suteikiama teisė įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar vežti šalies viduje radioaktyviąsias medžiagas, ir atsakantis už leidimu reguliuojamos veiklos sąlygų laikymąsi. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-15. Paliktasis jonizuojančiosios spinduliuotės šaltinis – uždarasis jonizuojančiosios spinduliuotės šaltinis, kurio aktyvumo lygis jo nustatymo metu yra didesnis už teisės aktuose nustatytus nereguliuojamosios veiklos kriterijus, tačiau kuris nėra kontrolės objektas dėl to, kad niekada juo nebuvo, arba dėl to, kad buvo paliktas, pamestas, laikomas ne vietoje, pavogtas ar perduotas kitam licencijos ar laikinojo leidimo turėtojui apie tai tinkamai nepranešus įgaliotajai institucijai ir apie tai neinformavus jonizuojančiosios spinduliuotės šaltinio gavėjo.
+15. Medicininė apšvita – apšvita, kurią patiria pacientai sveikatos priežiūros metu, medicininių ir biomedicininių mokslinių tyrimų metu ir asmenys (išskyrus darbuotojus), kurie savanoriškai padeda pacientui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-16. Radiacinė sauga – visuma teisinių, organizacinių ir techninių priemonių, kurių tikslas – užtikrinti žmonių ir aplinkos apsaugą nuo žalingo jonizuojančiosios spinduliuotės poveikio. 
+16. Nemedicininė apšvita – apšvita, nepriskiriama medicininei apšvitai ir patiriama siekiant gauti informacijos kitais negu ligų diagnostikos ir (ar) gydymo bei sveikatos būklės gerinimo tikslais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-17. Radioaktyvioji medžiaga – medžiaga, kurioje yra vienas arba daugiau radionuklidų ir kurių aktyvumas arba savitasis aktyvumas viršija teisės aktuose nustatytą vertę.
+17. Nereguliuojamosios veiklos su jonizuojančiosios spinduliuotės šaltiniais kriterijai (toliau – nereguliuojamosios veiklos kriterijai) – kriterijai, kuriuos atitinkančiai veiklai netaikomi radiacinę saugą reglamentuojančių teisės aktų reikalavimai ir nereikalinga licencija ar laikinasis leidimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-18. Radioaktyvusis užterštumas – medžiagos, jos paviršiaus ar aplinkos, taip pat žmogaus (išorinis odos ir vidinis) užterštumas radioaktyviosiomis medžiagomis.
+18. Paliktasis jonizuojančiosios spinduliuotės šaltinis – uždarasis jonizuojančiosios spinduliuotės šaltinis, kurio aktyvumo lygis jo nustatymo metu yra didesnis už teisės aktuose nustatytus nereguliuojamosios veiklos kriterijus, tačiau kuris nėra kontrolės objektas dėl to, kad niekada juo nebuvo, arba dėl to, kad buvo paliktas, pamestas, laikomas ne vietoje, pavogtas ar perduotas kitam licencijos ar laikinojo leidimo turėtojui apie tai tinkamai nepranešus įgaliotajai institucijai ir apie tai neinformavus jonizuojančiosios spinduliuotės šaltinio gavėjo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-19. Radiologinė avarija – dėl įrenginių gedimo, technologinio proceso pažeidimų ar kitų priežasčių kilęs neįprastasis įvykis, dėl kurio esamų ar galimų padarinių būtina imtis neatidėliotinų veiksmų, siekiant sumažinti jonizuojančiosios spinduliuotės žalingo poveikio riziką žmonėms, jų turtui ar aplinkai.
+19. Radiacinė sauga – visuma teisinių, organizacinių ir techninių priemonių, kurių tikslas – užtikrinti žmonių ir aplinkos apsaugą nuo žalingo jonizuojančiosios spinduliuotės poveikio. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-20. Radiologinis incidentas – neįprastasis įvykis, kilęs dėl įrenginių gedimo, technologinio proceso pažeidimų ar kitų priežasčių, arba įvykis, sukeltas piktavališkais tikslais ar atsiradęs dėl neteisėtos veiklos, tačiau neatitinkantis radiologinės avarijos kriterijų.
+20. Radioaktyvioji medžiaga – medžiaga, kurioje yra vienas arba daugiau radionuklidų ir kurių aktyvumas arba savitasis aktyvumas viršija teisės aktuose nustatytą vertę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-21. Valstybė narė – Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė.
+21. Radioaktyvusis užterštumas – medžiagos, jos paviršiaus ar aplinkos, taip pat žmogaus (išorinis odos ir vidinis) užterštumas radioaktyviosiomis medžiagomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-22. Valstybinė radiacinės saugos ekspertizė – radiacinės saugos duomenų analizė, jos raidos tendencijų prognozė, kurią atlieka šiuo įstatymu ir kitais Lietuvos Respublikos įstatymais ar Lietuvos Respublikos Vyriausybės nutarimais įgaliotos valstybės institucijos.
+22. Radiologinė avarija – dėl įrenginių gedimo, technologinio proceso pažeidimų ar kitų priežasčių kilęs neįprastasis įvykis, dėl kurio esamų ar galimų padarinių būtina imtis neatidėliotinų veiksmų, siekiant sumažinti jonizuojančiosios spinduliuotės žalingo poveikio riziką žmonėms, jų turtui ar aplinkai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-23. Veikla su jonizuojančiosios spinduliuotės šaltiniais (toliau – veikla) – veikla su jonizuojančiosios spinduliuotės šaltiniais ar su radioaktyviosiomis atliekomis, kuri lemia arba gali lemti papildomą darbuotojų ir gyventojų apšvitą arba dėl kurios padidėja apšvitintų žmonių skaičius ar žmonių apšvitos tikimybė.
+23. Radiologinis incidentas – neįprastasis įvykis, kilęs dėl įrenginių gedimo, technologinio proceso pažeidimų ar kitų priežasčių, arba įvykis, sukeltas piktavališkais tikslais ar atsiradęs dėl neteisėtos veiklos, tačiau neatitinkantis radiologinės avarijos kriterijų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme. 
+24. Valstybė narė – Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
+
+
+
+
+25. Valstybinė radiacinės saugos ekspertizė – radiacinės saugos duomenų analizė, jos raidos tendencijų prognozė, kurią atlieka šiuo įstatymu ir kitais Lietuvos Respublikos įstatymais ar Lietuvos Respublikos Vyriausybės nutarimais įgaliotos valstybės institucijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
+
+
+
+
+26. Veikla su jonizuojančiosios spinduliuotės šaltiniais (toliau – veikla) – veikla su jonizuojančiosios spinduliuotės šaltiniais ar su radioaktyviosiomis atliekomis, kuri lemia arba gali lemti papildomą darbuotojų ir gyventojų apšvitą arba dėl kurios padidėja apšvitintų žmonių skaičius ar žmonių apšvitos tikimybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
+
+
+
+
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 Straipsnio pakeitimai:
@@ -269,12 +344,15 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 6 straipsnis. Lietuvos Respublikos sveikatos apsaugos ministerijos kompetencija radiacinės saugos valstybinio valdymo srityje
 
 
-1. Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija), įgyvendindama Europos Sąjungos ir tarptautinės teisės aktų nuostatas, rengia įstatymų, Vyriausybės nutarimų projektus, reglamentuojančius gyventojų, darbuotojų ir aplinkos radiacinę saugą nuo žalingo jonizuojančiosios spinduliuotės šaltinių poveikio.
+1. Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija), įgyvendindama Europos Sąjungos ir tarptautinės teisės aktų nuostatas, rengia įstatymų, Vyriausybės nutarimų, reglamentuojančių gyventojų, darbuotojų ir aplinkos radiacinę saugą nuo žalingo jonizuojančiosios spinduliuotės šaltinių poveikio ir jonizuojančiosios spinduliuotės šaltinių fizinę saugą, projektus, išskyrus teisės aktų, reglamentuojančių verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais naudojamų jonizuojančiosios spinduliuotės šaltinių fizinę saugą, projektus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-2. Sveikatos apsaugos ministerija rengia ir tvirtina teisės aktus, nustatančius:
+2. Sveikatos apsaugos ministras tvirtina teisės aktus, nustatančius:
 
 
 1) žmonių ir atskirų jų grupių apšvitos ribines dozes ir jų laikymosi reikalavimus;
@@ -302,7 +380,7 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-6) nemedicininių apšvitos procedūrų sąrašą ir jų atlikimo tvarką;
+6) nemedicininės apšvitos procedūrų sąrašą ir jų atlikimo tvarką;
 
 
 
@@ -312,9 +390,32 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-8) kartu su Valstybine atominės energetikos saugos inspekcija – radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką bei leidimų išdavimo taisykles.
+8) kartu su Valstybine atominės energetikos saugos inspekcija – radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką bei leidimų išdavimo taisykles;
 
 
+
+
+9) jonizuojančiosios spinduliuotės šaltinių, išskyrus verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais naudojamus jonizuojančiosios spinduliuotės šaltinius, fizinės saugos reikalavimus;
+
+
+
+
+10) uždarųjų jonizuojančiosios spinduliuotės šaltinių pavojingumo kategorijas, atsižvelgiant į jų galimą poveikį žmonėms ir aplinkai dėl jonizuojančiosios spinduliuotės;
+
+
+
+
+11) radiacinės saugos reikalavimų atitikties nustatymo ir kontrolės tvarką;
+
+
+
+
+12) statybos produktų, kuriuos privaloma radiologiškai ištirti, sąrašą ir leidžiamuosius radionuklidų aktyvumo rodiklius statybos produktuose. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -337,7 +438,10 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-4) priežiūrą, kaip laikomasi šiame įstatyme ir kituose radiacinę saugą reglamentuojančiuose teisės aktuose nustatytų veiklos su jonizuojančiosios spinduliuotės šaltiniais, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, reikalavimų ir kaip taikoma įstatymų nustatyta atsakomybė už šių reikalavimų pažeidimus;
+4) priežiūrą, kaip laikomasi šiame įstatyme ir kituose radiacinę saugą ir jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančiuose teisės aktuose nustatytų veiklos su jonizuojančiosios spinduliuotės šaltiniais, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, reikalavimų ir kaip taikoma įstatymų nustatyta atsakomybė už šių reikalavimų pažeidimus;
+Straipsnio punkto pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -500,6 +604,14 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
+
+
+6. Radiacinės saugos centras, atlikdamas šiame straipsnyje nustatytas funkcijas, iš valstybės ir savivaldybių institucijų, asmenų, nurodytų šio įstatymo 8 straipsnio 2 dalyje, kurių veiklai reikalinga Radiacinės saugos centro išduodama šio įstatymo 8 straipsnio 4 dalyje nurodyta licencija ar laikinasis leidimas verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, ir asmenų, kurių veiklai nereikalinga šio įstatymo 8 straipsnio 4 dalyje nurodyta licencija ar laikinasis leidimas verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, tačiau kurių vykdoma veikla gali turėti įtakos žmonių ir aplinkos apšvitai jonizuojančiąja spinduliuote ir (ar) yra tikimybė nustatyti paliktąjį jonizuojančiosios spinduliuotės šaltinį ar radionuklidais užterštą objektą, turi teisę paimti ėminius radiologiniams tyrimams, reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą, tyrimų duomenis ir asmenų duomenis, kurie reikalingi prižiūrėti, kaip laikomasi šiame įstatyme ir kituose radiacinę saugą ir jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančiuose teisės aktuose nustatytų reikalavimų.
+Papildyta straipsnio dalimi:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
  
@@ -510,10 +622,10 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 71 straipsnis. Valstybinės atominės energetikos saugos inspekcijos kompetencija radiacinės saugos valstybinio valdymo srityje
 
 
-Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugos verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą ir priežiūrą:
+1. Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugos ir jonizuojančiosios spinduliuotės šaltinių fizinės saugos verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą ir priežiūrą:
 
 
-1) Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka ir sąlygomis išduoda licencijas ar laikinuosius leidimus verstis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, nurodyta šio įstatymo 8 straipsnio 1 dalyje, juos patikslina, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ar panaikina jų galiojimą;
+1) Vyriausybės patvirtintose licencijavimo taisyklėse nustatyta tvarka išduoda licencijas ar laikinuosius leidimus verstis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, nurodyta šio įstatymo 8 straipsnio 1 dalyje, juos patikslina, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ar panaikina jų galiojimą;
 
 
 
@@ -523,12 +635,12 @@ Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugo
 
 
 
-3) prižiūri, kaip laikomasi šiame įstatyme ir kituose radiacinę saugą reglamentuojančiuose teisės aktuose nustatytų radiacinės saugos reikalavimų verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais ir už šių reikalavimų pažeidimus taiko įstatymų nustatytą atsakomybę;
+3) prižiūri, kaip laikomasi šiame įstatyme ir kituose radiacinę saugą reglamentuojančiuose teisės aktuose nustatytų radiacinės saugos reikalavimų verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais ir verčiantis šia veikla naudojamų jonizuojančiosios spinduliuotės šaltinių fizinės saugos reikalavimų, ir už šių reikalavimų pažeidimus taiko įstatymų nustatytą atsakomybę;
 
 
 
 
-4) prižiūri, kaip laikomasi darbuotojų ar jų atskirų rizikos grupių, nuolatos ar laikinai dirbančių branduolinės energetikos objektuose, taip pat kitų asmenų, laikinai vykdančių veiklą branduolinės energetikos objektuose, radiacinės saugos reikalavimų;
+4) prižiūri, kaip laikomasi darbuotojų ar jų atskirų rizikos grupių, nuolatos ar laikinai dirbančių branduolinės energetikos objektuose ar vykdančių branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, taip pat kitų asmenų, laikinai vykdančių veiklą branduolinės energetikos objektuose ar branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, radiacinės saugos reikalavimų;
 
 
 
@@ -543,7 +655,7 @@ Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugo
 
 
 
-7) dalyvauja atliekant branduolinių ir radiologinių avarijų branduolinės energetikos objektuose tyrimus, prognozuoja jų padarinius ir teikia siūlymus, kaip jų išvengti ir juos likviduoti;
+7) dalyvauja atliekant branduolinių ir radiologinių avarijų, įvykusių branduolinės energetikos objektuose ar vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, tyrimus, prognozuoja jų padarinius ir teikia siūlymus, kaip jų išvengti ir juos likviduoti;
 
 
 
@@ -553,13 +665,28 @@ Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugo
 
 
 
-9) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+9) pagal kompetenciją rengia ir (ar) teikia Vyriausybei Lietuvos Respublikos įstatymų, Vyriausybės nutarimų ir (ar) kitų teisės aktų, reglamentuojančių verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais naudojamų jonizuojančiosios spinduliuotės šaltinių fizinę saugą, projektus ir nustato jonizuojančiosios spinduliuotės šaltinių, naudojamų verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimus ir taisykles;
 
 
 
 
-Papildyta straipsniu:
-Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+10) nustato branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais vykdančių darbuotojų ir asmenų, atsakingų už radiacinę saugą, nurodytų šio įstatymo 10 straipsnio 4 punkte (toliau – asmenys, atsakingi už radiacinę saugą), privalomojo radiacinės saugos mokymo, instruktavimo ir žinių patikrinimo tvarką bei fizinių asmenų, siekiančių įgyti teisę mokyti darbuotojus ir asmenis, atsakingus už radiacinę saugą, radiacinės saugos, atestavimo tvarką;
+
+
+
+
+11) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+2. Valstybinės atominės energetikos saugos inspekcijos funkcijos yra atskirtos nuo kitų institucijų, įstaigų ar organizacijų, užsiimančių branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais plėtra ar jonizuojančios spinduliuotės šaltinių naudojimu verčiantis branduolinės energetikos srities veikla.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
@@ -579,7 +706,6 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 1. Gaminti, naudoti, saugoti, montuoti, prižiūrėti, remontuoti, perdirbti jonizuojančiosios spinduliuotės šaltinius, prekiauti jais, vežti radioaktyviąsias medžiagas, tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) ir vežti radioaktyviąsias atliekas ir, neturint jonizuojančiosios spinduliuotės šaltinių, verstis veikla jonizuojančiosios spinduliuotės aplinkoje branduolinės energetikos objekte ar verstis veikla jonizuojančiosios spinduliuotės aplinkoje pas kitą šio straipsnio 2 dalyje nurodytą asmenį, turintį licenciją, galima tik turint Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka išduotą licenciją ar laikinąjį leidimą, išskyrus atvejus, nurodytus šio straipsnio 3 dalyje. 
-TAR pastaba. Radiacinės saugos centras per vieną mėnesį nuo įstatymo Nr. XI-1540 įsigaliojimo dienos (2011-10-01) teisės aktų nustatyta tvarka perduoda ar laikinai perduoda Valstybinei atominės energetikos saugos inspekcijai licencijų ir laikinųjų leidimų verstis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, numatyta 8 straipsnio 1 dalyje, išduotų branduolinės energetikos objektus eksploatuojančioms organizacijoms, paraiškos ir šių licencijų ir laikinųjų leidimų išdavimo dokumentų originalus arba pateikia šių dokumentų patvirtintas kopijas.
 Straipsnio dalies pakeitimai:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
  
@@ -669,17 +795,20 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-7. Įvežti, išvežti, vežti tranzitu ir vežti Lietuvos Respublikoje radioaktyviąsias medžiagas galima tik turint Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos teisės aktų nustatyta tvarka išduotą leidimą. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, norintys gauti leidimą vežti radioaktyviąsias medžiagas, turi pateikti teisės aktų nustatyta tvarka Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai nustatytos formos paraišką. Atsakymo dėl leidimo vežti radioaktyviąsias medžiagas išdavimo nepateikimas nelaikomas leidimo vežti radioaktyviąsias medžiagas išdavimu. Jeigu fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, turintys leidimą vežti radioaktyviąsias medžiagas, nesilaiko radiacinę saugą reglamentuojančių teisės aktų ir per leidimą išdavusios institucijos nustatytą terminą nepašalina nurodytų pažeidimų, įstatymų nustatyta tvarka Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija panaikina leidimo vežti radioaktyviąsias medžiagas galiojimą. 
+7. Įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ir vežti šalies viduje radioaktyviąsias medžiagas galima tik turint Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos teisės aktų nustatyta tvarka išduotą leidimą vežti radioaktyviąsias medžiagas. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, norintys gauti leidimą vežti radioaktyviąsias medžiagas, turi pateikti per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi į Radiacinės saugos centrą ar Valstybinę atominės energetikos saugos inspekciją nustatytos formos paraišką. Jeigu leidimo vežti radioaktyviąsias medžiagas turėtojai nesilaiko sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtinto teisės akto, reglamentuojančio radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimą į Lietuvos Respubliką, išvežimą iš jos, vežimą tranzitu ir vežimą šalies viduje, reikalavimų ir (ar) sveikatos apsaugos ministro patvirtintų radiacinę saugą reglamentuojančių teisės aktų reikalavimų arba sveikatos apsaugos ministro ar Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintų jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančių teisės aktų reikalavimų ir per leidimą išdavusios institucijos nustatytą terminą nepašalina nurodytų pažeidimų, Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija panaikina leidimo vežti radioaktyviąsias medžiagas galiojimą. Leidimas vežti radioaktyviąsias medžiagas galioja 3 metus, jeigu jame nenurodytas trumpesnis terminas. Leidimo vežti radioaktyviąsias medžiagas galiojimo terminas nustatomas atsižvelgiant į paraiškoje nurodytą vežimo datą (datas). 
 Straipsnio dalies pakeitimai:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
 
 
-8. Įvežti, išvežti, vežti tranzitu ir vežti Lietuvos Respublikoje radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galima tik turint Radiacinės saugos centro teisės aktų nustatyta tvarka išduotą leidimą. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, norintys gauti leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, turi pateikti teisės aktų nustatyta tvarka Radiacinės saugos centrui nustatytos formos paraišką. Atsakymo dėl leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimo nepateikimas nelaikomas leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimu. Jeigu fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, turintys leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, nesilaiko radiacinę saugą reglamentuojančių teisės aktų ir per leidimą išdavusio Radiacinės saugos centro nustatytą terminą nepašalina nurodytų pažeidimų, įstatymų nustatyta tvarka Radiacinės saugos centras panaikina leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galiojimą. 
+8. Įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ir vežti šalies viduje radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galima tik turint sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko nustatyta tvarka išduotą leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu. Jeigu fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, turintys leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, nesilaiko sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtinto teisės akto, reglamentuojančio radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimą į Lietuvos Respubliką, išvežimą iš jos, vežimą tranzitu ir vežimą šalies viduje, reikalavimų ir (ar) sveikatos apsaugos ministro patvirtintų radiacinę saugą ar jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančių teisės aktų reikalavimų ir per Radiacinės saugos centro nustatytą terminą nepašalina nurodytų pažeidimų, Radiacinės saugos centras panaikina leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galiojimą. Leidimas vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galioja 3 metus, jeigu jame nenurodytas trumpesnis terminas. Nustatant leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galiojimo terminą, būtina atsižvelgti į valstybės, į kurią vežamos radioaktyviosios atliekos, susidariusios nebranduolinio kuro ciklo metu, ir tranzito valstybių įgaliotųjų institucijų nustatytas vežimo sąlygas. 
 Papildyta straipsnio dalimi:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
@@ -723,6 +852,14 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
  
 
 
+
+
+14. Jeigu jonizuojančiosios spinduliuotės šaltinyje yra branduolinių medžiagų ir daliųjų medžiagų, kurios ir kurių kiekiai nurodyti Lietuvos Respublikos branduolinės saugos įstatymo 1 priede, jų įsigijimui, turėjimui ir naudojimui licencija yra išduodama vadovaujantis Lietuvos Respublikos branduolinės saugos įstatymo nuostatomis ir atskira šio straipsnio 4 dalies 1 punkte nurodyta licencija ar laikinasis leidimas šiai veiklai nėra išduodami.
+Papildyta straipsnio dalimi:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
@@ -730,27 +867,9 @@ Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010IS
 
 
 
-81 straipsnis. Dokumentai, kurių reikia licencijai gauti
-
-
-Asmenys, norintys gauti bet kurios šio įstatymo 8 straipsnio 4 dalyje nustatytos rūšies licenciją ar laikinąjį leidimą, turi pateikti licencijas ar laikinuosius leidimus išduodančiai institucijai nustatytos formos paraišką (paraiškos formą nustato licencijas ar laikinuosius leidimus išduodanti institucija) ir pridėti šiuos dokumentus:
-
-
-1) motyvuotą būsimosios veiklos paaiškinimą;
-
-
-
-
-2) darbuotojų radiacinės saugos programą ir dokumentus, įrodančius, kad verčiantis veikla su jonizuojančiosios spinduliuotės šaltiniais bus užtikrinta žmonių ir aplinkos radiacinė sauga, kaip nustatyta Vyriausybės patvirtintose licencijavimo taisyklėse;
-
-
-
-
-3) išsamią informaciją apie jonizuojančiosios spinduliuotės šaltinius: sertifikatų ir kitų techninių dokumentų kopijas. 
-
-
-
-
+81 straipsnis. Neteko galios nuo 2016-05-01
+Straipsnio naikinimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
 Straipsnio pakeitimai:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
  
@@ -758,27 +877,9 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-82 straipsnis. Dokumentai, kurių reikia laikinajam leidimui gauti
-
-
-Asmenys, turintys valstybėje narėje išduotą dokumentą, suteikiantį teisę verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, norintys gauti laikinąjį leidimą, turi pateikti laikinuosius leidimus išduodančiai institucijai šiuos dokumentus:
-
-
-1) prašymą išduoti laikinąjį leidimą (prašymo formą nustato laikinuosius leidimus išduodanti institucija);
-
-
-
-
-2) galiojančio dokumento, suteikiančio teisę verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, išduoto valstybėje narėje, kopiją ir vertimą į lietuvių kalbą;
-
-
-
-
-3) darbuotojų radiacinės saugos programą ir dokumentus, įrodančius, kad verčiantis veikla su jonizuojančiosios spinduliuotės šaltiniais Lietuvos Respublikoje bus užtikrinta žmonių ir aplinkos radiacinė sauga, kaip nustatyta Vyriausybės patvirtintose licencijavimo taisyklėse.
-
-
-
-
+82 straipsnis. Neteko galios nuo 2016-05-01
+Straipsnio naikinimas:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
 Straipsnio pakeitimai:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
  
@@ -786,21 +887,15 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-83 straipsnis. Dokumentų, pateiktų licencijai ar laikinajam leidimui gauti, nagrinėjimas
+83 straipsnis. Licencijos ar laikinojo leidimo išdavimas
 
 
-1. Licencijas ar laikinuosius leidimus išduodanti institucija per 30 kalendorinių dienų nuo visų tinkamai įformintų licencijai ar laikinajam leidimui išduoti būtinų dokumentų gavimo dienos priima sprendimą išduoti licenciją ar laikinąjį leidimą arba motyvuotą atsisakymą išduoti licenciją ar laikinąjį leidimą ir apie tai ne vėliau kaip per 5 darbo dienas raštu informuoja asmenį, kuris pateikė paraišką išduoti licenciją ar prašymą išduoti laikinąjį leidimą. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
- 
+1. Asmuo, norintis gauti bet kurios šio įstatymo 8 straipsnio 4 dalyje nustatytos rūšies licenciją ar laikinąjį leidimą, turi pateikti per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamasis į licencijas ar laikinuosius leidimus išduodančią instituciją licencijai ar laikinajam leidimui išduoti būtinus dokumentus, nurodytus Vyriausybės patvirtintose licencijavimo taisyklėse. Licencijas ar laikinuosius leidimus išduodanti institucija per 30 kalendorinių dienų nuo visų tinkamai įformintų licencijai ar laikinajam leidimui išduoti būtinų dokumentų gavimo dienos išduoda licenciją ar laikinąjį leidimą arba motyvuotai atsisako išduoti licenciją ar laikinąjį leidimą ir apie tai raštu informuoja asmenį, kuris pateikė paraišką išduoti licenciją ar prašymą išduoti laikinąjį leidimą. Licencijas ar laikinuosius leidimus išduodanti institucija turi teisę prieš išduodama licenciją ar laikinąjį leidimą, vykdydama valstybinę radiacinės saugos priežiūrą, atlikti patikrinimą ir įvertinti, ar asmuo yra pasirengęs verstis šio įstatymo 8 straipsnio 1 dalyje nurodyta veikla su jonizuojančiosios spinduliuotės šaltiniais.
 
 
 
 
-2. Jeigu asmuo pateikė ne visus licencijai ar laikinajam leidimui išduoti būtinus dokumentus ir per licencijas ar laikinuosius leidimus išduodančios institucijos nustatytą terminą nepateikė tinkamai įformintų trūkstamų dokumentų, licencijas ar laikinuosius leidimus išduodanti institucija ne vėliau kaip per 5 darbo dienas raštu informuoja šį asmenį, kad paraiška išduoti licenciją ar prašymas išduoti laikinąjį leidimą paliekami nenagrinėti.
-Straipsnio dalies pakeitimai:
-Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
- 
+2. Jeigu asmuo pateikė ne visus ar netinkamai įformintus licencijai ar laikinajam leidimui išduoti būtinus dokumentus, licencijas ar laikinuosius leidimus išduodanti institucija ne vėliau kaip per 5 darbo dienas nuo dokumentų gavimo dienos raštu informuoja šį asmenį, kad gauti ne visi ar netinkamai įforminti licencijai ar laikinajam leidimui išduoti būtini dokumentai, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo asmens informavimo dienos terminą trūkumams pašalinti.
 
 
 
@@ -808,12 +903,22 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 3. Išduoti licenciją ar laikinąjį leidimą atsisakoma, jeigu:
 
 
-1) pateikti dokumentai neatitinka jiems keliamų reikalavimų;
+1) pateikti ne visi ar netinkamai įforminti licencijai ar laikinajam leidimui išduoti būtini dokumentai ir per licencijas ar laikinuosius leidimus išduodančios institucijos nustatytą terminą trūkumai nebuvo pašalinti;
 
 
 
 
-2) valstybinės radiacinės saugos priežiūros metu nustatyta, kad pateikti klaidingi, netikslūs, neišsamūs duomenys.
+2) pateikti dokumentai neatitinka Vyriausybės patvirtintose licencijavimo taisyklėse nustatytų reikalavimų;
+
+
+
+
+3) vykdant valstybinę radiacinės saugos priežiūrą, prieš išduodant licenciją ar laikinąjį leidimą atlikto patikrinimo metu nustatyta, kad asmens pasirengimas verstis šio įstatymo 8 straipsnio 1 dalyje nurodyta veikla su jonizuojančiosios spinduliuotės šaltiniais neatitinka šio įstatymo reikalavimų;
+
+
+
+
+4) nesumokėta valstybės rinkliava.
 
 
 
@@ -823,8 +928,8 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 4. Atsakymo dėl licencijos ar laikinojo leidimo išdavimo nepateikimas nelaikomas licencijos ar laikinojo leidimo išdavimu.
 
 
-Papildyta straipsniu:
-Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+Straipsnio pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
@@ -833,12 +938,18 @@ Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010IS
 84 straipsnis. Licencijos ar laikinojo leidimo patikslinimas, dublikato išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
 
-1. Licencija ar laikinasis leidimas patikslinami, jeigu pasikeičia bent vienas iš šių licencijoje ar laikinajame leidime nurodytų duomenų: juridinio asmens, kitos organizacijos, jų filialo pavadinimas, teisinė forma, kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas. Apie šiuos pasikeitusius duomenis asmuo, turintis licenciją ar laikinąjį leidimą, privalo pranešti licencijas ar laikinuosius leidimus išduodančiai institucijai ne vėliau kaip per 10 darbo dienų nuo duomenų pasikeitimo dienos ir kartu su dokumentais, patvirtinančiais duomenų pasikeitimą, pateikti prašymą patikslinti licenciją ar laikinąjį leidimą. 
+1. Licencija ar laikinasis leidimas patikslinami Vyriausybės patvirtintose licencijavimo taisyklėse nurodytais atvejais. Apie pasikeitusius duomenis asmuo, turintis licenciją ar laikinąjį leidimą, privalo pranešti licencijas ar laikinuosius leidimus išduodančiai institucijai ne vėliau kaip per 10 darbo dienų nuo duomenų pasikeitimo dienos ir pateikti prašymą patikslinti licenciją ar laikinąjį leidimą. Licencijas ar laikinuosius leidimus išduodanti institucija, išnagrinėjusi licencijos ar laikinojo leidimo turėtojo pateiktą informaciją apie duomenų pasikeitimą ir prašymą patikslinti licenciją ar laikinąjį leidimą, ne vėliau kaip per 5 darbo dienas nuo jų gavimo dienos priima sprendimą dėl licencijos ar laikinojo leidimo patikslinimo ir apie tai ne vėliau kaip per 5 darbo dienas nuo sprendimo dėl licencijos ar laikinojo leidimo patikslinimo priėmimo raštu praneša asmeniui, pateikusiam prašymą patikslinti licenciją ar laikinąjį leidimą. Licencijas ar laikinuosius leidimus išduodanti institucija, nustačiusi, kad pateikta informacija apie duomenų pasikeitimą yra netiksli arba klaidinga, nustato ne trumpesnį kaip 30 kalendorinių dienų nuo pranešimo pateikimo asmeniui dienos terminą trūkumams pašalinti. Licencijas ar laikinuosius leidimus išduodanti institucija atsisako patikslinti licenciją ar laikinąjį leidimą, jeigu per nustatytą terminą trūkumai nebuvo pašalinti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
-2. Asmuo, praradęs licencijos ar laikinojo leidimo originalą, taip pat licencijos ar laikinojo leidimo sugadinimo atveju licencijas ar laikinuosius leidimus išduodančiai institucijai pateikia rašytinį prašymą išduoti licencijos ar laikinojo leidimo dublikatą.
+2. Asmuo, praradęs licencijos ar laikinojo leidimo originalą, taip pat licencijos ar laikinojo leidimo sugadinimo atveju pateikia per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamasis į licencijas ar laikinuosius leidimus išduodančią instituciją prašymą išduoti licencijos ar laikinojo leidimo dublikatą. Licencijas ar laikinuosius leidimus išduodanti institucija, išnagrinėjusi licencijos ar laikinojo leidimo turėtojo prašymą išduoti licencijos ar laikinojo leidimo dublikatą, ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos išduoda licencijos ar laikinojo leidimo dublikatą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -856,7 +967,10 @@ Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010IS
 
 
 
-3) asmuo, turintis licenciją ar laikinąjį leidimą, Vyriausybės patvirtintų licencijavimo taisyklėse nustatyta tvarka įspėtas dėl radiacinę saugą reglamentuojančių teisės aktų pažeidimų, per licencijas ar laikinuosius leidimus išduodančios institucijos nurodytą terminą šių pažeidimų nepašalina;
+3) asmuo, turintis licenciją ar laikinąjį leidimą, Vyriausybės patvirtintose licencijavimo taisyklėse nustatyta tvarka įspėtas dėl radiacinę saugą ir (ar) jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančių teisės aktų pažeidimų, per licencijas ar laikinuosius leidimus išduodančios institucijos nurodytą terminą šių pažeidimų nepašalina; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -876,7 +990,10 @@ Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010IS
 
 
 
-2) dokumentus ir kitą informaciją, patvirtinančius, kad radiacinę saugą reglamentuojančių teisės aktų pažeidimai ir (ar) trūkumai, dėl kurių sustabdytas licencijos ar laikinojo leidimo galiojimas, pašalinti (išskyrus šio straipsnio 3 dalies 4 punkte nurodytą atvejį).
+2) dokumentus ir kitą informaciją, patvirtinančius, kad radiacinę saugą ir (ar) jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančių teisės aktų pažeidimai ir (ar) trūkumai, dėl kurių sustabdytas licencijos ar laikinojo leidimo galiojimas, pašalinti (išskyrus šio straipsnio 3 dalies 4 punkte nurodytą atvejį). 
+Straipsnio punkto pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -896,13 +1013,107 @@ Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010IS
 
 
 
-3) juridinis asmuo, kita organizacija ar jų filialas, turintys licenciją ar laikinąjį leidimą, baigėsi likvidavimo arba reorganizavimo būdu, fizinis asmuo, turintis licenciją ar laikinąjį leidimą, mirė.
+3) juridinis asmuo, kita organizacija ar jų filialas, turintys licenciją ar laikinąjį leidimą, baigėsi likvidavimo būdu, fizinis asmuo, turintis licenciją ar laikinąjį leidimą, mirė.
+Straipsnio punkto pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+ 
+
+
+
+
+85 straipsnis. Paraiškos dėl leidimo vežti radioaktyviąsias medžiagas nagrinėjimas
+
+
+1. Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija per 30 kalendorinių dienų nuo tinkamai įformintos paraiškos dėl leidimo vežti radioaktyviąsias medžiagas gavimo dienos sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka išduoda leidimą vežti radioaktyviąsias medžiagas arba motyvuotai atsisako išduoti tokį leidimą ir apie tai raštu informuoja paraišką pateikusį asmenį.
+
+
+
+
+2. Jeigu asmuo pateikė netinkamai įformintą paraišką dėl leidimo vežti radioaktyviąsias medžiagas, Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija ne vėliau kaip per 5 darbo dienas nuo paraiškos gavimo dienos raštu informuoja šį asmenį, kad gauta netinkamai įforminta paraiška, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo šio asmens informavimo dienos terminą trūkumams pašalinti.
+
+
+
+
+3. Išduoti leidimą vežti radioaktyviąsias medžiagas atsisakoma, jeigu:
+
+
+1) pateikta netinkamai įforminta paraiška ir per Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą trūkumai nebuvo pašalinti;
+
+
+
+
+2) nesilaikoma sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtinto teisės akto, reglamentuojančio radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimą į Lietuvos Respubliką, išvežimą iš jos, vežimą tranzitu ir vežimą šalies viduje, reikalavimų;
+
+
+
+
+3) nesumokėta valstybės rinkliava.
+
+
+
+
+
+
+4. Atsakymo dėl leidimo vežti radioaktyviąsias medžiagas išdavimo nepateikimas nelaikomas leidimo vežti radioaktyviąsias medžiagas išdavimu. 
+
+
+Papildyta straipsniu:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
+
+
+
+
+86 straipsnis. Paraiškos dėl leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, nagrinėjimas
+
+
+1. Kai numatoma išvežti iš Lietuvos Respublikos radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, Radiacinės saugos centras tinkamai užpildytą paraišką per 5 darbo dienas nuo paraiškos gavimo per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba kai buvo tiesiogiai kreiptasi į Radiacinės saugos centrą dienos išsiunčia valstybės, į kurią vežamos radioaktyviosios atliekos, susidariusios nebranduolinio kuro ciklo metu, įgaliotajai institucijai ir tranzito valstybių įgaliotosioms institucijoms sutikimui gauti. Radiacinės saugos centras, gavęs valstybės, į kurią vežamos radioaktyviosios atliekos, susidariusios nebranduolinio kuro ciklo metu, įgaliotosios institucijos ir tranzito valstybių įgaliotųjų institucijų sutikimą, per 30 kalendorinių dienų nuo tokių sutikimų gavimo dienos išduoda leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, arba motyvuotai atsisako išduoti tokį leidimą ir apie tai raštu praneša asmeniui, kuris pateikė paraišką, valstybės, į kurią vežamos radioaktyviosios atliekos, susidariusios nebranduolinio kuro ciklo metu, įgaliotajai institucijai ir tranzito valstybių įgaliotosioms institucijoms. Jeigu asmuo pateikė netinkamai įformintą paraišką, Radiacinės saugos centras ne vėliau kaip per 5 darbo dienas nuo paraiškos gavimo dienos raštu informuoja šį asmenį, kad gauta netinkamai įforminta paraiška, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo šio asmens informavimo dienos terminą trūkumams pašalinti.
+
+
+
+
+2. Kai numatoma įvežti į Lietuvos Respubliką radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, arba vežti jas tranzitu per Lietuvos Respubliką, Radiacinės saugos centras per 20 kalendorinių dienų nuo tinkamai įformintos paraiškos gavimo iš radioaktyviųjų atliekų, susidariusių nebranduolinio kuro ciklo metu, kilmės valstybės (toliau – kilmės valstybė) įgaliotosios institucijos dienos kilmės valstybės įgaliotajai institucijai išsiunčia paraiškos gavimo patvirtinimą, o tranzito valstybių įgaliotosioms institucijoms – jo kopiją. Radiacinės saugos centras ne vėliau kaip per 2 mėnesius nuo paraiškos gavimo patvirtinimo dienos praneša kilmės valstybės įgaliotajai institucijai apie savo sutikimą leisti įvežti į Lietuvos Respubliką radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, ar vežti jas tranzitu per Lietuvos Respubliką arba specialiąsias sąlygas, kurias būtina įvykdyti, kad būtų duotas sutikimas, ar atsisako duoti sutikimą. Radiacinės saugos centras gali prašyti kilmės valstybės įgaliotosios institucijos pratęsti šį terminą ne ilgiau kaip vienam mėnesiui savo pozicijai pareikšti.
+
+
+
+
+3. Kai numatoma vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, šalies viduje, Radiacinės saugos centras per 30 kalendorinių dienų nuo tinkamai įformintos paraiškos gavimo per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba kai buvo tiesiogiai kreiptasi į Radiacinės saugos centrą dienos išduoda leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, arba motyvuotai atsisako išduoti tokį leidimą ir apie tai raštu informuoja paraišką pateikusį asmenį. Jeigu asmuo pateikė netinkamai įformintą paraišką, Radiacinės saugos centras ne vėliau kaip per 5 darbo dienas nuo paraiškos gavimo dienos raštu informuoja šį asmenį, kad gauta netinkamai įforminta paraiška, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo šio asmens informavimo dienos terminą trūkumams pašalinti.
+
+
+
+
+4. Išduoti leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, atsisakoma, jeigu:
+
+
+1) pateikta netinkamai įforminta paraiška ir per Radiacinės saugos centro nustatytą terminą trūkumai nebuvo pašalinti;
+
+
+
+
+2) nesilaikoma sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtinto teisės akto, reglamentuojančio radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimą į Lietuvos Respubliką, išvežimą iš jos, vežimą tranzitu ir vežimą šalies viduje, reikalavimų;
+
+
+
+
+3) nesumokėta valstybės rinkliava.
+
+
+
+
+
+
+5. Atsakymo dėl leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimo nepateikimas šio straipsnio 1 ar 3 dalyse nurodytais atvejais nelaikomas leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimu.
+
+
+Papildyta straipsniu:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
@@ -936,7 +1147,7 @@ Licencijos ar laikinojo leidimo turėtojas privalo:
 
 
 
-2) kiek įmanoma mažinti darbuotojų apšvitą; 
+2) kiek įmanoma mažinti darbuotojų, gyventojų ir aplinkos apšvitą, imtis visų įmanomų priemonių, kad būtų išvengta nepagrįstos apšvitos;
 
 
 
@@ -946,12 +1157,12 @@ Licencijos ar laikinojo leidimo turėtojas privalo:
 
 
 
-4) šio įstatymo ir kitų radiacinę saugą reglamentuojančių teisės aktų reikalavimams įgyvendinti ir jų įgyvendinimo priežiūrai skirti parengtus atsakingus asmenis arba steigti atitinkamus padalinius;
+4) skirti parengtus atsakingus asmenis arba steigti atitinkamus padalinius šio įstatymo ir kitų radiacinę saugą ir jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančių teisės aktų reikalavimams įgyvendinti ir jų įgyvendinimo priežiūrai;
 
 
 
 
-5) užtikrinti, kad darbuotojai atitiktų teisės aktuose, normatyviniuose techniniuose dokumentuose ir licencijos ar laikinojo leidimo turėtojo vidaus darbo tvarką reglamentuojančiuose aktuose nustatytus kvalifikacijos reikalavimus; 
+5) užtikrinti, kad darbuotojai atitiktų teisės aktuose, normatyviniuose techniniuose dokumentuose ir licencijos ar laikinojo leidimo turėtojo vidaus darbo tvarką reglamentuojančiuose teisės aktuose nustatytus kvalifikacijos reikalavimus; 
 
 
 
@@ -966,12 +1177,12 @@ Licencijos ar laikinojo leidimo turėtojas privalo:
 
 
 
-8) savo iniciatyva ar įgaliotų valstybės institucijų reikalavimu nutraukti veiklą, kuri neatitinka radiacinę saugą reglamentuojančių teisės aktų reikalavimų;
+8) savo iniciatyva ar įgaliotų valstybės institucijų reikalavimu nutraukti veiklą, neatitinkančią radiacinę saugą ir (ar) jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančių teisės aktų reikalavimų;
 
 
 
 
-9) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka atiduoti galutiniam apdorojimui netinkamus naudoti arba nebenaudojamus jonizuojančiosios spinduliuotės šaltinius;
+9) atiduoti radioaktyviųjų atliekų tvarkytojui sutvarkyti kaip radioaktyviąsias atliekas arba grąžinti tiekėjui netinkamus naudoti arba nebenaudojamus jonizuojančiosios spinduliuotės šaltinius ar tuos jonizuojančiosios spinduliuotės šaltinius, kuriuos, įvertinus jonizuojančiosios spinduliuotės šaltinių techninę būklę ir veiklos pobūdį bei nustačius, kad veikla su šiais jonizuojančiosios spinduliuotės šaltiniais toliau nebegali būti saugiai vykdoma, licencijas ar laikinuosius leidimus išduodanti institucija reikalauja sutvarkyti kaip radioaktyviąsias atliekas arba grąžinti tiekėjui;
 
 
 
@@ -986,12 +1197,12 @@ Licencijos ar laikinojo leidimo turėtojas privalo:
 
 
 
-12) teikti licenciją ar laikinąjį leidimą išdavusiai institucijai (jai pareikalavus) objektyvią informaciją apie veiklos sąlygas, gaminamus ar įvežamus, parduodamus, išvežamus iš Lietuvos Respublikos gaminius su jonizuojančiosios spinduliuotės šaltiniais;
+12) teikti licenciją ar laikinąjį leidimą išdavusiai institucijai (jai pareikalavus) objektyvią informaciją apie veiklos sąlygas, gaminamus ar įvežamus į Lietuvos Respubliką, parduodamus Lietuvos Respublikoje, išvežamus iš Lietuvos Respublikos gaminius su jonizuojančiosios spinduliuotės šaltiniais;
 
 
 
 
-13) imtis prevencinių radiologinio incidento ar avarijos priemonių, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka laiku ir išsamiai informuoti Lietuvos Respublikos gyventojus bei valstybės ir savivaldybių institucijas apie galimą veiklos su jonizuojančiosios spinduliuotės šaltiniais pavojų, taip pat, įvykus radiologiniam incidentui ar avarijai, imtis veiksmų ir priemonių, kad būtų pašalintos žalingo poveikio žmonių sveikatai ir aplinkai priežastys bei padariniai, šio ir kitų įstatymų nustatyta tvarka atlyginti žalą, padarytą žmonių sveikatai ir aplinkai dėl radiacinę saugą reglamentuojančių teisės aktų pažeidimo; 
+13) imtis radiologinio incidento ar avarijos prevencijos priemonių, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka laiku ir išsamiai informuoti Lietuvos Respublikos gyventojus bei valstybės ir savivaldybių institucijas apie galimą veiklos su jonizuojančiosios spinduliuotės šaltiniais pavojų, taip pat, įvykus radiologiniam incidentui ar avarijai, imtis veiksmų ir priemonių, kad būtų pašalintos žalingo poveikio žmonių sveikatai ir aplinkai priežastys ir padariniai, šio ir kitų įstatymų nustatyta tvarka atlyginti žalą, padarytą žmonių sveikatai ir aplinkai dėl radiacinę saugą reglamentuojančių teisės aktų pažeidimo; 
 
 
 
@@ -1001,32 +1212,52 @@ Licencijos ar laikinojo leidimo turėtojas privalo:
 
 
 
-15) jeigu šio įstatymo ir kitų teisės aktų nustatyta tvarka turi teisę parduoti ar perduoti naudoti jonizuojančiosios spinduliuotės šaltinius, įsitikinti, kad asmuo, kuriam parduodami ar perduodami jonizuojančiosios spinduliuotės šaltiniai, turi licenciją ar laikinąjį leidimą juos naudoti;
+15) jeigu šio įstatymo ir kitų teisės aktų nustatyta tvarka turi teisę parduoti ar perduoti jonizuojančiosios spinduliuotės šaltinius kitam asmeniui, įsitikinti, kad asmuo, kuriam parduodami ar perduodami jonizuojančiosios spinduliuotės šaltiniai, turi licenciją ar laikinąjį leidimą verstis atitinkama šio įstatymo 8 straipsnio 1 dalyje nurodyta veikla su jonizuojančiosios spinduliuotės šaltiniais, jeigu tokiai veiklai negali būti taikomos šio įstatymo 8 straipsnio 3 dalies nuostatos;
 
 
 
 
-16) prieš skirdamas konkretų fizinį asmenį, atsakingą už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių fizinę saugą, ar priimdamas tokį asmenį į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius, kreiptis į Radiacinės saugos centrą dėl šio asmens tinkamumo dirbti šį darbą patikrinimo organizavimo;
+16) prieš skirdamas konkretų fizinį asmenį, atsakingą už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių, išskyrus jonizuojančiosios spinduliuotės šaltinius, naudojamus verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, fizinę saugą, ar priimdamas tokį asmenį į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius, išskyrus jonizuojančiosios spinduliuotės šaltinius, naudojamus verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, kreiptis į Radiacinės saugos centrą dėl šio asmens tinkamumo dirbti šį darbą patikrinimo organizavimo. Prieš skiriant konkretų fizinį asmenį, atsakingą už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių, naudojamų verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, fizinę saugą, šis fizinis asmuo privalo būti patikrintas Lietuvos Respublikos branduolinės energijos įstatyme nustatyta tvarka dėl teisės be palydos patekti į branduolinės energetikos objektų apsaugos zonas, išskyrus riboto patekimo zoną. Prieš priimant fizinį asmenį į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius, naudojamus verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, šis fizinis asmuo turi būti patikrintas Lietuvos Respublikos branduolinės energijos įstatyme nustatyta tvarka dėl teisės dalyvauti vežant branduolinio kuro ciklo medžiagas;
 
 
 
 
-17) neskirti konkretaus asmens, atsakingo už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių fizinę saugą, ir nepriimti tokio asmens į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius, jeigu šiam asmeniui nėra suėję 18 metų, šis asmuo turi neišnykusį arba nepanaikintą teistumą už sunkius ir labai sunkius nusikaltimus arba nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, visuomenės saugumui, susijusius su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, ar kuriam taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, ar yra kitų aplinkybių, dėl kurių Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos ar Lietuvos Respublikos valstybės saugumo departamento vertinimu asmuo negalėtų dirbti šio darbo, serga ligomis, dėl kurių negalėtų dirbti šio darbo, yra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, prižiūrimas dėl psichikos ligos ar sutrikimo, įtrauktas į Neveiksnių ir ribotai veiksnių asmenų registrą;
+17) neskirti konkretaus asmens, atsakingo už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių, išskyrus jonizuojančiosios spinduliuotės šaltinius, naudojamus verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, fizinę saugą, ir nepriimti tokio asmens į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius, išskyrus jonizuojančiosios spinduliuotės šaltinius, naudojamus verčiantis branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais, jeigu šiam asmeniui nėra suėję 18 metų, šis asmuo turi neišnykusį arba nepanaikintą teistumą už sunkius ir labai sunkius nusikaltimus arba nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, visuomenės saugumui, susijusius su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, ar kuriam taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, ar yra kitų aplinkybių, dėl kurių, Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos ar Lietuvos Respublikos valstybės saugumo departamento vertinimu, asmuo negalėtų dirbti šio darbo, serga ligomis, dėl kurių negalėtų dirbti šio darbo, yra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, prižiūrimas dėl psichikos ligos ar sutrikimo, įtrauktas į Neveiksnių ir ribotai veiksnių asmenų registrą;
 
 
 
 
-18) teisės aktų nustatyta tvarka atlikti vykdomos veiklos radiacinės saugos vertinimą;
+18) atlikti vykdomos veiklos radiacinės saugos vertinimą;
 
 
 
 
-19) jeigu licencijos ar laikinojo leidimo turėtojas šio įstatymo nustatyta tvarka nesikreipia dėl licencijos ar laikinojo leidimo galiojimo sustabdymo panaikinimo arba licencijos ar laikinojo leidimo galiojimas yra panaikinamas, toks asmuo privalo nedelsdamas nuosavybės teise valdomus jonizuojančiosios spinduliuotės šaltinius, išskyrus jonizuojančiosios spinduliuotės generatorius, perduoti laikinai saugoti radioaktyviųjų atliekų tvarkytojui Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo nustatyta tvarka ir sąlygomis ir apie tai informuoti Radiacinės saugos centrą. Nuosavybės teise asmens valdomus jonizuojančiosios spinduliuotės šaltinius, išskyrus jonizuojančiosios spinduliuotės generatorius, perdavus saugoti radioaktyviųjų atliekų tvarkytojui, jų savininkas ir toliau turi teisę Lietuvos Respublikos civiliniame kodekse nustatytais būdais perleisti juos valdyti nuosavybės teise asmenims, turintiems įstatymų nustatytą licenciją ar laikinąjį leidimą; 
+19) jeigu licencijos ar laikinojo leidimo turėtojas šio įstatymo nustatyta tvarka nesikreipia dėl licencijos ar laikinojo leidimo galiojimo sustabdymo panaikinimo arba licencijos ar laikinojo leidimo galiojimas yra panaikinamas, toks asmuo privalo nedelsdamas nuosavybės teise valdomus jonizuojančiosios spinduliuotės šaltinius, išskyrus jonizuojančiosios spinduliuotės generatorius, perduoti laikinai saugoti radioaktyviųjų atliekų tvarkytojui Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo nustatyta tvarka ir sąlygomis ir apie tai informuoti Radiacinės saugos centrą. Nuosavybės teise asmens valdomus jonizuojančiosios spinduliuotės šaltinius, išskyrus jonizuojančiosios spinduliuotės generatorius, perdavus saugoti radioaktyviųjų atliekų tvarkytojui, jų savininkas ir toliau turi teisę Lietuvos Respublikos civiliniame kodekse nustatytais būdais perleisti juos valdyti nuosavybės teise asmenims, turintiems įstatymų nustatytą licenciją ar laikinąjį leidimą;
 
 
 
 
-20) atlikti kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+20) sveikatos apsaugos ministro nustatyta tvarka parengti, vykdyti ir atnaujinti kokybės laidavimo programas;
+
+
+
+
+21) užtikrinti, kad licencijai ar laikinajam leidimui gauti parengti dokumentai ir pateikti duomenys Vyriausybės patvirtintose licencijavimo taisyklėse ir kituose teisės aktuose nustatyta tvarka būtų atnaujinami ir pateikiami licencijas ar laikinuosius leidimus išduodančiai institucijai ar kitoms institucijoms;
+
+
+
+
+22) nustatęs jonizuojančiosios spinduliuotės šaltinio dingimo, vagystės, pametimo arba sugadinimo faktą, nedelsdamas apie tai informuoti licencijas ar laikinuosius leidimus išduodančią instituciją;
+
+
+
+
+23) užtikrinti, kad tik licencijoje ar laikinajame leidime nurodytas licencijos ar laikinojo leidimo turėtojas verstųsi licencijoje ar laikinajame leidime nurodyta veikla licencijoje ar laikinajame leidime nurodytomis veiklos sąlygomis. Licencijos ar laikinojo leidimo turėtojas neturi teisės licencijos ar laikinojo leidimo perduoti kitiems asmenims, taip pat savo vardu jų įgalioti verstis licencijoje ar laikinajame leidime nurodyta veikla;
+
+
+
+
+24) atlikti kitas šiame įstatyme nustatytas pareigas.
 
 
 
@@ -1034,6 +1265,7 @@ Licencijos ar laikinojo leidimo turėtojas privalo:
 Straipsnio pakeitimai:
 Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
@@ -1075,7 +1307,10 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 11 straipsnis. Radiacinės saugos atitikties kontrolė
 
 
-1. Jonizuojančiosios spinduliuotės šaltinius, radiacinės saugos įrangą bei kitus įtaisus ir medžiagas, galinčius sąlygoti papildomą žmonių apšvitą, taip pat gaminius, turinčius jonizuojančiosios spinduliuotės šaltinių, galima parduoti ar naudoti tik nustačius, kad jie atitinka radiacinės saugos reikalavimus.
+1. Jonizuojančiosios spinduliuotės šaltinius, radiacinės saugos įrangą bei kitus įtaisus ir medžiagas, galinčius sąlygoti papildomą žmonių apšvitą, taip pat gaminius, turinčius jonizuojančiosios spinduliuotės šaltinių, galima parduoti ar naudoti tik nustačius, kad jie atitinka radiacinės saugos reikalavimus. Radiacinės saugos reikalavimų atitikties nustatymo ir kontrolės tvarką nustato sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+ 
 
 
 
@@ -1173,52 +1408,213 @@ Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010IS
 
 
 
-15 straipsnis. Privalomasis radiacinės saugos mokymas 
-Pakeistas straipsnio pavadinimas:
-Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
- 
+15 straipsnis. Privalomasis radiacinės saugos mokymas ir instruktavimas
 
 
 1. Lietuvos Respublikoje radiacinės saugos turi būti mokomi:
 
 
-1) juridinių asmenų, kitų organizacijų, jų filialų darbuotojai, dirbantys su jonizuojančiosios spinduliuotės šaltiniais;
+1) darbuotojai ir asmenys, atsakingi už radiacinę saugą;
 
 
 
 
-2) valstybės ir savivaldybių institucijų ir įstaigų valstybės tarnautojai ir pagal darbo sutartis dirbantys darbuotojai, dirbantys ekstremalių situacijų valdymo srityje;
+2) valstybės ir savivaldybių institucijų ir įstaigų valstybės tarnautojai ir pagal darbo sutartis dirbantys darbuotojai, dirbantys ekstremaliųjų situacijų valdymo srityje;
 
 
 
 
-3) darbuotojai, dirbantys pagal darbo sutartis, pareigūnai, įmonių, įstaigų, organizacijų vadovai ar jų įgalioti asmenys ir kiti asmenys, kurių darbas (veikla) susijęs (susijusi) su paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų aptikimu. 
+3) darbuotojai, dirbantys pagal darbo sutartis, pareigūnai, įmonių, įstaigų, organizacijų vadovai ar jų įgalioti asmenys ir kiti asmenys, kurių darbas (veikla) susijęs (susijusi) su paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų aptikimu.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+
+
+
+
+2. Darbdaviai privalo savo lėšomis organizuoti šio straipsnio 1 dalies 1 ir 3 punktuose nurodytų asmenų radiacinės saugos mokymą. Šio straipsnio 1 dalies 1 punkte nurodytų asmenų, išskyrus asmenis, vykdančius branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, ir šio straipsnio 1 dalies 3 punkte nurodytų asmenų radiacinės saugos mokymas organizuojamas sveikatos apsaugos ministro nustatyta tvarka. Šio straipsnio 1 dalies 1 punkte nurodytų branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais vykdančių asmenų radiacinės saugos mokymas organizuojamas Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka. Šio straipsnio 1 dalies 2 punkte nurodytų asmenų radiacinės saugos mokymas vykdomas Vyriausybės nustatyta tvarka.
+
+
+
+
+3. Darbdaviai privalo instruktuoti šio straipsnio 1 dalyje nurodytus darbuotojus radiacinės saugos klausimais juos priimdami į darbą su jonizuojančiosios spinduliuotės šaltiniais, perkeldami į kitą darbą su jonizuojančiosios spinduliuotės šaltiniais, pradėję naudoti naujas ar modernizuotas darbo priemones, pradėję naudoti naujas technologijas, keisdami darbo organizavimą, darbo sąlygas, susijusias su jonizuojančiosios spinduliuotės šaltiniais, taip pat pakeitus ar priėmus naujus radiacinę saugą ar jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančius teisės aktus.
+
+
+
+
+4. Darbdaviams draudžiama pavesti dirbti su jonizuojančiosios spinduliuotės šaltiniais šio straipsnio 1 dalyje nurodytiems darbuotojams, kurie nėra išklausę privalomojo radiacinės saugos mokymo kurso ar neinstruktuoti radiacinės saugos klausimais.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
 
 
-2. Darbdaviai privalo savo lėšomis organizuoti šio straipsnio 1 dalies 1 ir 3 punktuose nurodytų asmenų radiacinės saugos mokymą Sveikatos apsaugos ministerijos nustatyta tvarka, o šio straipsnio 1 dalies 2 punkte nurodytų asmenų radiacinės saugos mokymą – Vyriausybės nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+151 straipsnis. Fizinių asmenų atestavimas 
+
+
+1. Fizinis asmuo gali mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 punkte nurodytus asmenis, išskyrus asmenis, vykdančius branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, ir šio įstatymo 15 straipsnio 1 dalies 3 punkte nurodytus asmenis tik turėdamas Radiacinės saugos centro sveikatos apsaugos ministro nustatyta tvarka išduotą asmens, turinčio teisę mokyti radiacinės saugos, atestavimo pažymėjimą (toliau – atestavimo pažymėjimas). Fizinis asmuo gali mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 punkte nurodytus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais vykdančius asmenis tik turėdamas Valstybinės atominės energetikos saugos inspekcijos jos nustatyta tvarka išduotą atestavimo pažymėjimą. Šie reikalavimai netaikomi Lietuvos Respublikos ar kitos valstybės narės piliečiui, kitam fiziniam asmeniui, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, turinčiam kitos valstybės narės įgaliotosios institucijos išduotą dokumentą, įrodantį, kad jis turi teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodytus asmenis.
+
+
+
+
+2. Fizinis asmuo, siekiantis įgyti teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodytus asmenis (išskyrus Lietuvos Respublikos ar kitos valstybės narės pilietį, kitą fizinį asmenį, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, turintį kitos valstybės narės įgaliotosios institucijos išduotą dokumentą, įrodantį, kad jis turi teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodytus asmenis), turi atitikti visus šiuos reikalavimus:
+
+
+1) turėti aukštąjį universitetinį arba jam prilygintą technologijos, fizinių ar biomedicinos mokslų studijų srities išsilavinimą; 
+
+
+
+
+2) turėti ne mažesnę kaip 5 metų darbo patirtį radiacinės saugos srityje, kai fizinis asmuo siekia įgyti teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 punkte nurodytus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais vykdančius asmenis;
+
+
+
+
+3) būti išlaikęs egzaminą pagal atitinkamai sveikatos apsaugos ministro ar Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintame radiacinės saugos mokymo temų sąraše nurodytas temas.
+
+
+
+
+
+
+3. Fizinis asmuo, siekiantis įgyti teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodytus asmenis, turi pateikti per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamasis į atitinkamai Radiacinės saugos centrą ar Valstybinę atominės energetikos saugos inspekciją prašymą dėl atestavimo ir atestavimui būtinus dokumentus, nustatytus sveikatos apsaugos ministro ar Valstybinės atominės energetikos saugos inspekcijos viršininko.
+
+
+
+
+4. Atitinkamai Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija per 30 kalendorinių dienų nuo visų tinkamai įformintų atestavimui būtinų dokumentų gavimo dienos atestuoja fizinį asmenį, siekiantį įgyti teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodytus asmenis, ir išduoda atestavimo pažymėjimą arba motyvuotai atsisako išduoti atestavimo pažymėjimą ir apie tai raštu informuoja fizinį asmenį, kuris pateikė prašymą dėl atestavimo. Jeigu fizinis asmuo pateikė netinkamai įformintus atestavimui būtinus dokumentus, atitinkamai Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija ne vėliau kaip per 5 darbo dienas nuo atestavimui būtinų dokumentų gavimo dienos raštu informuoja šį fizinį asmenį, kad gauti netinkamai įforminti atestavimui būtini dokumentai, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo šio fizinio asmens informavimo dienos terminą trūkumams pašalinti. Atestuotam fiziniam asmeniui atitinkamai Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija neterminuotam laikui išduoda atestavimo pažymėjimą. 
+
+
+
+
+5. Atestavimo pažymėjimą išduoti atsisakoma, jeigu:
+
+
+1) pateikti ne visi ar netinkamai įforminti šio straipsnio 3 dalyje nurodyti atestavimui būtini dokumentai ir per atitinkamai Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą trūkumai nebuvo pašalinti;
+
+
+
+
+2) fizinis asmuo neišlaikė egzamino pagal atitinkamai sveikatos apsaugos ministro ar Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintame radiacinės saugos mokymo temų sąraše nurodytas temas.
+
+
+
+
+
+
+6. Fizinis asmuo, turintis atestavimo pažymėjimą, turi:
+
+
+1) mokyti tomis temomis, kurios nurodytos jo atestavimo pažymėjime;
+
+
+
+
+2) laikytis radiacinės saugos mokymo programoje nurodytų programų temų turinio ir minimalios trukmės reikalavimų;
+
+
+
+
+3) tobulinti kvalifikaciją atestavimo pažymėjime nurodytomis temomis ir kas 5 metus pateikti atitinkamai Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai kvalifikacijos tobulinimą patvirtinančius dokumentus ar informaciją, nustatytus atitinkamai sveikatos apsaugos ministro ar Valstybinės atominės energetikos saugos inspekcijos viršininko.
+
+
+
+
+
+
+7. Fizinis asmuo, praradęs ar sugadinęs atestavimo pažymėjimą, pateikia per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamasis į atitinkamai Radiacinės saugos centrą ar Valstybinę atominės energetikos saugos inspekciją prašymą išduoti atestavimo pažymėjimo dublikatą. Atitinkamai Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija galiojančio atestavimo pažymėjimo dublikatą išduoda ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos.
+
+
+
+
+8. Atitinkamai Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija, nustatę, kad fizinis asmuo, turintis atestavimo pažymėjimą, nepateikė atitinkamai Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai kvalifikacijos tobulinimą patvirtinančių dokumentų ar informacijos šio straipsnio 6 dalies 3 punkte nustatyta tvarka, raštu įspėja fizinį asmenį, turintį atestavimo pažymėjimą, apie galimą atestavimo pažymėjimo galiojimo sustabdymą, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo įspėjimo apie galimą atestavimo pažymėjimo galiojimo sustabdymą gavimo dienos terminą pažeidimui pašalinti. Fizinis asmuo, turintis atestavimo pažymėjimą, per nustatytą terminą pašalinęs šioje dalyje nurodytą pažeidimą, turi apie tai per 5 darbo dienas nuo pažeidimo pašalinimo dienos raštu pranešti atitinkamai Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai ir pateikti dokumentus ir kitą informaciją, patvirtinančius, kad šioje dalyje nurodytas pažeidimas pašalintas.
+
+
+
+
+9. Atitinkamai Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija raštu įspėja fizinį asmenį, turintį atestavimo pažymėjimą, apie galimą atestavimo pažymėjimo galiojimo panaikinimą, jeigu nustato, kad fizinis asmuo, turintis atestavimo pažymėjimą: 
+
+
+1) mokė temomis, nenurodytomis jo atestavimo pažymėjime;
+
+
+
+
+2) nesilaikė radiacinės saugos mokymo programoje nurodytų programų temų turinio ar minimalios trukmės reikalavimų.
+
+
+
+
+
+
+10. Atestavimo pažymėjimo galiojimas sustabdomas, jeigu fizinis asmuo, turintis atestavimo pažymėjimą:
+
+
+1) įspėtas apie galimą atestavimo pažymėjimo galiojimo sustabdymą dėl šio straipsnio 8 dalyje nurodyto pažeidimo, per atitinkamai Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą šio pažeidimo nepašalina arba nepraneša atitinkamai Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai apie pažeidimo pašalinimą;
+
+
+
+
+2) raštu kreipiasi į atitinkamai Radiacinės saugos centrą ar Valstybinę atominės energetikos saugos inspekciją su prašymu sustabdyti atestavimo pažymėjimo galiojimą.
+
+
+
+
+
+
+11. Atestavimo pažymėjimo galiojimo sustabdymas panaikinamas, jeigu asmuo, turintis atestavimo pažymėjimą, pateikia atitinkamai Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai:
+
+
+1) prašymą panaikinti atestavimo pažymėjimo galiojimo sustabdymą;
+
+
+
+
+2) dokumentus ir kitą informaciją, patvirtinančius, kad pažeidimai, dėl kurių sustabdytas atestavimo pažymėjimo galiojimas, pašalinti (išskyrus šio straipsnio 10 dalies 2 punkte nurodytą atvejį).
+
+
+
+
+
+
+12. Atestavimo pažymėjimo galiojimas panaikinamas, jeigu fizinis asmuo, turintis atestavimo pažymėjimą:
+
+
+1) raštu kreipiasi į atitinkamai Radiacinės saugos centrą ar Valstybinę atominės energetikos saugos inspekciją su prašymu panaikinti atestavimo pažymėjimo galiojimą;
+
+
+
+
+2) per atitinkamai Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą nepašalina pažeidimo, dėl kurio šio straipsnio 10 dalies 1 punkte nustatytu pagrindu sustabdytas atestavimo pažymėjimo galiojimas;
+
+
+
+
+3) pakartotinai per metus nuo įspėjimo apie galimą atestavimo pažymėjimo galiojimo panaikinimą gavimo dienos padarė tą patį šio straipsnio 9 dalyje nurodytą pažeidimą;
+
+
+
+
+4) mirė.
+
+
+
+
+
+
+13. Atitinkamai Radiacinės saugos centras ir Valstybinė atominės energetikos saugos inspekcija fizinių asmenų, turinčių galiojantį atestavimo pažymėjimą, sąrašą skelbia savo interneto svetainėje.
+
+
+
+
+14. Ūkio subjektai, vykdantys privalomąjį radiacinės saugos mokymą, privalo užtikrinti, kad šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodyti asmenys radiacinės saugos būtų mokomi tik fizinių asmenų, turinčių galiojantį atestavimo pažymėjimą arba kitos valstybės narės įgaliotosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę mokyti radiacinės saugos šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nurodytus asmenis, pagal galiojančias radiacinės saugos mokymo programas.
+
+
+Papildyta straipsniu:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
-
-
-
-
-3. Darbdaviai privalo instruktuoti darbuotojus radiacinės saugos klausimais sudarydami darbo sutartį, perkeldami į kitą darbą su jonizuojančiosios spinduliuotės šaltiniais, keisdami darbo (gamybos) procesus, gamybos technologiją, darbo sąlygas, susijusias su jonizuojančiosios spinduliuotės šaltiniais, taip pat jei keičiasi radiacinės saugos darbe standartai, normos, taisyklės ar instrukcijos.
-
-
-
-
-4. Darbdaviams draudžiama pavesti dirbti su jonizuojančiosios spinduliuotės šaltiniais darbuotojams, kurie nėra išklausę privalomojo mokymo kurso ar neinstruktuoti radiacinės saugos klausimais.
- 
-
-
 
 
 
@@ -1336,20 +1732,20 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-21 straipsnis. Gamtiniai radionuklidai statybinėse medžiagose ir statybiniuose gaminiuose
+21 straipsnis. Gamtiniai radionuklidai statybos produktuose
 
 
-1. Sąrašą sertifikuojamų statybinių medžiagų ir statybinių gaminių, kuriuos privaloma radiologiškai ištirti, bei leistinos taršos radionuklidais privalomąsias normas nustato Sveikatos apsaugos ministerija kartu su Aplinkos ministerija. 
+1. Statybos produktų, kuriuos privaloma radiologiškai ištirti, sąrašą tvirtina sveikatos apsaugos ministras, suderinęs su Aplinkos ministerija. Leidžiamuosius radionuklidų aktyvumo rodiklius statybos produktuose nustato sveikatos apsaugos ministras.
 
 
 
 
-2. Sveikatos apsaugos ministerija organizuoja atrankinius radono tūrinių aktyvumų statiniuose ir darbo vietose tyrimus. Valstybinė atominės energetikos saugos inspekcija organizuoja atrankinius radono tūrinių aktyvumų branduolinės energetikos objektuose tyrimus.
-Straipsnio dalies pakeitimai:
-Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+2. Sveikatos apsaugos ministerija organizuoja atrankinius radono tūrinių aktyvumų statiniuose ir darbo vietose tyrimus. Valstybinė atominės energetikos saugos inspekcija organizuoja atrankinius radono tūrinių aktyvumų tyrimus branduolinės energetikos objektų aikštelėse esančiuose statiniuose.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
-
-
 
 
 
@@ -1404,14 +1800,15 @@ ATSAKOMYBĖ
  
 
 
-23 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių radiacinės saugos reikalavimus, pažeidimus
+23 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių radiacinės saugos ir (ar) jonizuojančiosios spinduliuotės šaltinių fizinės saugos reikalavimus, pažeidimus
 
 
-Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, pažeidę radiacinę saugą reglamentuojančius teisės aktus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, pažeidę radiacinę saugą ir (ar) jonizuojančiosios spinduliuotės šaltinių fizinę saugą reglamentuojančius teisės aktus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
  
 
 
@@ -1499,3 +1896,8 @@ Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 5, 7, 8, 9, 10, 13, 14, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
 Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 4, 5, 6, 7, 8, 81, 82, 83, 84, 10, 11, 12, 20, 21, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir papildymo, Įstatymo papildymo 7-1, 10-1 straipsniais ir 9, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
+Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 6, 7, 7-1, 8, 8-3, 8-4, 10, 11, 15, 21, 23 straipsnių pakeitimo, Įstatymo papildymo 8-5, 8-6, 15-1 straipsniais ir 8-1, 8-2 straipsnių pripažinimo netekusiais galios įstatymas
