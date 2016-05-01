@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2016-12-14
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -47,13 +47,20 @@ I skyrius
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-Šis įstatymas nustato sveikatos priežiūros įstaigų klasifikaciją, jų steigimo, reorganizavimo, likvidavimo, veiklos, jos valstybinio reguliavimo pagrindus, kontrolės priemones, valdymo ir finansavimo ypatumus, Lietuvos nacionalinės sveikatos sistemos įstaigų nomenklatūrą, sveikatos priežiūros įstaigų ir pacientų santykius, atsakomybės už šio įstatymo pažeidimus pagrindus.
+1. Šis įstatymas nustato sveikatos priežiūros įstaigų klasifikaciją, jų steigimo, reorganizavimo, likvidavimo, veiklos, jos valstybinio reguliavimo pagrindus, kontrolės priemones, valdymo ir finansavimo ypatumus, Lietuvos nacionalinės sveikatos sistemos įstaigų nomenklatūrą, sveikatos priežiūros įstaigų ir pacientų santykius, atsakomybės už šio įstatymo pažeidimus pagrindus.
+
+
+
+
+2. Šis įstatymas taikomas tiek, kiek šiame įstatyme reglamentuojamų visuomeninių santykių nereglamentuoja Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas ir Lietuvos Respublikos odontologų rūmų įstatymas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
-
-
 
 
 
@@ -61,17 +68,10 @@ I skyrius
 2 straipsnis. Įstatyme vartojamos pagrindinės sąvokos ir santrumpos
 
 
-1. Sveikatos priežiūros įstaiga (toliau – įstaiga):
-
-
-1) įstaiga ar įmonė, šio ir kitų įstatymų bei teisės aktų nustatyta tvarka turinti teisę teikti sveikatos priežiūros paslaugas ir patarnavimus (toliau – paslaugos);
-
-
-
-
-2) įstaigos ar įmonės, kuri verčiasi kita (ne sveikatos priežiūros) veikla, filialas ar padalinys, turintis teisę teikti sveikatos priežiūros paslaugas. 
-
-
+1. Sveikatos priežiūros įstaiga (toliau – įstaiga) – juridinis asmuo, organizacija ar jų filialas šio įstatymo, Visuomenės sveikatos priežiūros įstatymo ir Odontologų rūmų įstatymo nustatyta tvarka turintis teisę teikti sveikatos priežiūros paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -104,12 +104,18 @@ Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
 
 
 
-7. Licencijavimas – nustatymas, kad įstaigos veikla atitinka teisės aktų reikalavimus, įstaigos teisės teikti paslaugas pripažinimas ir licencijos išdavimas.
+7. Neteko galios nuo 2016-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
 
-8. Valstybinis medicininis auditas – oficiali visų nuosavybės formų juridinių ir fizinių asmenų, kurie verčiasi asmens sveikatos priežiūra, teikiamų paslaugų prieinamumo, kokybės (tinkamumo) bei ekonominio efektyvumo kontrolė ir ekspertizė.
+8. Valstybinis medicininis auditas – asmenų, kurie verčiasi asmens sveikatos priežiūra, teikiamų paslaugų prieinamumo ir kokybės valstybinė priežiūra.
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -138,18 +144,20 @@ Nr. X-1204, 2007-06-26, Žin., 2007, Nr. 72-2834 (2007-06-30)
 
 
 II skyrius
-Įstaigų rūšys, jų LICENCIJAVIMO, akreditavimo, registravimo
-ir veiklos valstybinio reguliavimo pagrindai
+ĮSTAIGŲ RŪŠYS, JŲ AKREDITAVIMO, VEIKLOS VALSTYBINIO REGULIAVIMO IR LICENCIJAVIMO ASMENS SVEIKATOS PRIEŽIŪROS VEIKLAI PAGRINDAI 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
 3 straipsnis. Įstaigų klasifikavimas
 
 
-1. LNSS įstaigoms priskiriamos licencijas sveikatos priežiūrai turinčios:
+1. LNSS įstaigoms priskiriamos licencijas sveikatos priežiūrai (toliau – licencija) turinčios:
 
 
-1) valstybės ir savivaldybių asmens sveikatos priežiūros viešosios (toliau – LNSS viešosios įstaigos) ir biudžetinės įstaigos (toliau – LNSS biudžetinės įstaigos). LNSS viešosioms įstaigoms Viešųjų įstaigų įstatymas taikomas tiek, kiek neprieštarauja šiam įstatymui;
+1) valstybės ir savivaldybių asmens sveikatos priežiūros viešosios įstaigos (toliau – LNSS viešosios įstaigos) ir biudžetinės įstaigos (toliau – LNSS biudžetinės įstaigos). LNSS viešosioms įstaigoms Lietuvos Respublikos viešųjų įstaigų įstatymas taikomas tiek, kiek tai neprieštarauja šiam įstatymui;
 
 
 
@@ -164,9 +172,12 @@ ir veiklos valstybinio reguliavimo pagrindai
 
 
 
-4) kitos įmonės bei įstaigos, įstatymų nustatyta tvarka sudariusios sutartis su Valstybine ar teritorinėmis ligonių kasomis arba kitais LNSS veiklos užsakovais – šių sutarčių galiojimo laikotarpiu.
+4) kitos įmonės ir įstaigos, įstatymų nustatyta tvarka sudariusios sutartis su Valstybine ar teritorinėmis ligonių kasomis arba kitais LNSS veiklos užsakovais – šių sutarčių galiojimo laikotarpiu.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -305,221 +316,203 @@ ir veiklos valstybinio reguliavimo pagrindai
 
 
 
-5 straipsnis. Įstaigų sveikatos priežiūros licencijavimas 
+5 straipsnis. Licencijavimas asmens sveikatos priežiūros veiklai
 
 
-1. Įmonės, įstaigos gali teikti sveikatos priežiūros paslaugas tik gavusios licenciją ir įregistruotos Valstybiniame sveikatos priežiūros įstaigų registre. 
+1. Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio valstybėje įsteigto juridinio asmens ar kitos organizacijos filialas, įsteigtas Lietuvos Respublikoje, (toliau – pareiškėjas) gali teikti asmens sveikatos priežiūros paslaugas tik gavęs licenciją asmens sveikatos priežiūros veiklai. Išduodamos licencijos asmens sveikatos priežiūros veiklai yra neterminuotos. Licencijos asmens sveikatos priežiūros veiklai išduodamos elektronine arba pareiškėjo prašymu popierine forma. Asmens sveikatos priežiūros įstaiga turi vieną licenciją asmens sveikatos priežiūros veiklai, kurioje nurodomos visos licencijuojamos asmens sveikatos priežiūros paslaugos, kurias ji šiame straipsnyje nustatyta tvarka įgijo teisę teikti. Šias paslaugas asmens sveikatos priežiūros įstaiga turi teisę teikti tik konkrečiais licencijoje asmens sveikatos priežiūros veiklai nurodytais adresais, išskyrus atvejus, kai pagal asmens sveikatos priežiūros paslaugų teikimo pobūdį ir paskirtį jos turi būti teikiamos ne tik sveikatos priežiūros įstaigoje ir tai numatyta atskirų paslaugų teikimą reglamentuojančiuose sveikatos apsaugos ministro įsakymuose.
 
 
 
 
-2. Licencijas išduoda (perregistruoja), atsisako jas išduoti (perregistruoti), licencijų galiojimą sustabdo, atnaujina ir panaikina Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba). 
+2. Licencijas asmens sveikatos priežiūros veiklai išduoda, atsisako jas išduoti, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimą sustabdo, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimo sustabdymą panaikina, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimą panaikina, licencijas asmens sveikatos priežiūros veiklai patikslina, pagal poreikį išduoda popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatą Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba). 
 
 
 
 
-3. Licencijų išdavimo tvarką ir reikalavimus licencijai gauti nustato Vyriausybės ar jos įgaliotos institucijos patvirtintos Sveikatos priežiūros licencijavimo taisyklės, kuriose nurodoma:
+3. Licencijos asmens sveikatos priežiūros veiklai išdavimo, atsisakymo išduoti licenciją asmens sveikatos priežiūros veiklai, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo panaikinimo, licencijos asmens sveikatos priežiūros veiklai patikslinimo, popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikato išdavimo tvarką nustato sveikatos apsaugos ministro patvirtintos Asmens sveikatos priežiūros įstaigų licencijavimo taisyklės.
 
 
-1) licencijuojama veikla;
 
 
+4. Pareiškėjas, siekiantis gauti licenciją asmens sveikatos priežiūros veiklai ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti licenciją asmens sveikatos priežiūros veiklai ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus civilinės atsakomybės draudimo, higienos, medicinos priemonių (prietaisų) (toliau – medicinos priemonės), personalo, patalpų ir teisinės formos reikalavimus.
 
 
-2) licenciją išduodančios institucijos įgaliojimai;
 
 
+5. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka ir terminais per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba kreipdamasi tiesiogiai informuoja pareiškėją, siekiantį gauti licenciją asmens sveikatos priežiūros veiklai ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, apie Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje gautus pareiškėjo dokumentus ir, jeigu reikia, apie reikalingumą patikslinti ar pateikti trūkstamus dokumentus. Patikslintų ar trūkstamų dokumentų pateikimo terminas negali būti ilgesnis kaip 90 dienų nuo pareiškėjo informavimo apie nustatytus trūkumus dienos.
 
 
-3) dokumentai, reikalingi licencijai gauti;
 
 
+6. Atsisakoma išduoti licenciją asmens sveikatos priežiūros veiklai ar patikslinti licenciją šio straipsnio 8 dalies 3 punkte nurodytu atveju, jeigu:
 
 
-4) dokumentų nagrinėjimo tvarka ir terminai;
+1) pareiškėjas pateikia ne visus reikiamus ar neteisingai užpildytus dokumentus ir neįvykdo Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos reikalavimo pateikti trūkstamus dokumentus ar ištaisyti nustatytus trūkumus per jos nustatytą terminą;
 
 
 
 
-5) licencijų rūšys ir jų išdavimo sąlygos;
+2) pareiškėjas neatitinka licencijuojamai veiklai keliamų reikalavimų, nurodytų šio straipsnio 4 dalyje, ir neįvykdo Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos reikalavimo ištaisyti šiuos trūkumus per jos nustatytą terminą.
 
 
 
 
-6) pakartotinio licencijos išdavimo ar perregistravimo tvarka;
 
 
+7. Pareiškėjui licencija asmens sveikatos priežiūros veiklai ar patikslinta licencija asmens sveikatos priežiūros veiklai šio straipsnio 8 dalies 3 punkte nurodytu atveju turi būti išduota arba motyvuotas rašytinis atsisakymas ją išduoti turi būti pateiktas per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai ne vėliau kaip per trisdešimt dienų nuo prašymo ir tinkamai įformintų dokumentų, kurių reikia licencijai asmens sveikatos priežiūros veiklai išduoti, gavimo Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje dienos. Jeigu per šį terminą Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba pareiškėjui licencijos asmens sveikatos priežiūros veiklai ar patikslintos licencijos asmens sveikatos priežiūros veiklai šio straipsnio 8 dalies 3 punkte nurodytu atveju neišduoda ir nepateikia jam motyvuoto rašytinio atsisakymo, laikoma, kad licencija asmens sveikatos priežiūros veiklai ar patikslinta licencija asmens sveikatos priežiūros veiklai šio straipsnio 8 dalies 3 punkte nurodytu atveju yra išduota.
 
 
-7) išduodamų licencijų registravimo tvarka;
 
 
+8. Licencija asmens sveikatos priežiūros veiklai tikslinama įstaigos iniciatyva, kai: 
 
 
-8) atsisakymo išduoti licencijas atvejai;
+1) pakeičiami licencijos asmens sveikatos priežiūros veiklai turėtojo rekvizitai; 
 
 
 
 
-9) licencijuojamos veiklos sąlygos, tarp jų licencijos turėtojų teisės ir pareigos;
+2) asmens sveikatos priežiūros įstaiga pageidauja nevykdyti dalies licencijoje asmens sveikatos priežiūros veiklai nurodytų licencijuojamų paslaugų;
 
 
 
 
-10) licencijos sąlygų laikymosi priežiūros tvarka;
+3) asmens sveikatos priežiūros įstaiga pageidauja įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas.
 
 
 
 
-11) licencijos galiojimo sustabdymo, atnaujinimo ir panaikinimo atvejai ir tvarka;
 
 
+9. Licencijos asmens sveikatos priežiūros veiklai tikslinimo ypatumai:
 
 
-12) licencijos formos rekvizitai.
+1) šio straipsnio 8 dalies 1 ir 2 punktuose nurodytas aplinkybes asmens sveikatos priežiūros įstaiga privalo pranešti Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai ne vėliau kaip kitą darbo dieną nuo tokių aplinkybių atsiradimo dienos per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai pateikdama prašymą patikslinti licenciją asmens sveikatos priežiūros veiklai ir dokumentus, patvirtinančius tokių aplinkybių atsiradimą. Licencija asmens sveikatos priežiūros veiklai patikslinama ne vėliau kaip kitą darbo dieną nuo šioje dalyje nurodytų prašymo ir dokumentų gavimo Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje dienos;
 
 
 
 
+2) šio straipsnio 8 dalies 3 punkte nurodytu atveju licencija asmens sveikatos priežiūros veiklai tikslinama šio straipsnio 4, 5, 6 ir 7 dalyse nustatyta tvarka;
 
 
-4. Sveikatos priežiūros licencijavimo taisyklėse gali būti nurodyti ir kiti reikalavimai bei sąlygos. 
 
 
+3) patikslinus licenciją asmens sveikatos priežiūros veiklai, šios licencijos turėtojui pateikiama nauja (perrašyta) licencija asmens sveikatos priežiūros veiklai su visais aktualiais duomenimis. 
 
 
-5. Licencijų išdavimo ir licencijuojamos veiklos sąlygos neturi priklausyti nuo licenciją įgyjančios įmonės ar įstaigos rūšies. 
 
 
 
 
-6. Licencijos išduodamos neribotam laikotarpiui, tačiau privalo būti perregistruojamos. Pirmą kartą išduotos licencijos turi būti perregistruojamos po dvejų metų, o vėliau – kas penkeri metai.
+10. Praradus popierinės formos licencijos asmens sveikatos priežiūros veiklai originalą, taip pat jį sugadinus, išduodamas popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatas arba elektroninės formos licencija asmens sveikatos priežiūros veiklai (atsižvelgus į asmens sveikatos priežiūros įstaigos prašymą). Sprendimas išduoti popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatą arba elektroninės formos licenciją asmens sveikatos priežiūros veiklai priimamas ne vėliau kaip kitą darbo dieną nuo prašymo išduoti popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatą ar elektroninės formos licenciją asmens sveikatos priežiūros veiklai gavimo Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje dienos.
 
 
 
 
-7. Licencija arba motyvuotas raštiškas atsisakymas išduoti (perregistruoti) licenciją turi būti pateikti įmonei ar įstaigai per keturiasdešimt kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti (perregistruoti), gavimo dienos. 
+11. Licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas sustabdomas:
 
 
+1) asmens sveikatos priežiūros įstaigos prašomam terminui, tačiau ne ilgesniam kaip vieneri metai, kai asmens sveikatos priežiūros įstaiga prašo sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą;
 
 
-8. Už licencijos išdavimą (perregistravimą) mokama valstybės rinkliava.
 
 
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo licencijos asmens sveikatos priežiūros veiklai turėtojo informavimo apie pažeidimo padarymą dienos, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
 
 
-9. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba turi teisę atsisakyti išduoti licenciją, jeigu:
 
 
-1) pateikti ne visi dokumentai licencijai gauti;
 
 
+12. Sprendimas sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą priimamas:
 
 
-2) pateikti dokumentai neatitinka nustatytų reikalavimų ar netinkamai įforminti;
+1) šio straipsnio 11 dalies 1 punkte nurodytu atveju – ne vėliau kaip per penkias darbo dienas nuo asmens sveikatos priežiūros įstaigos prašymo sustabdyti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą gavimo dienos;
 
 
 
 
-3) licencijai gauti įmonė ar įstaiga pateikia neteisingus duomenis ar suklastotus dokumentus;
+2) šio straipsnio 11 dalies 2 punkte nurodytu atveju – ne vėliau kaip per tris darbo dienas nuo šio straipsnio 11 dalies 2 punkte nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, bet jų nepašalino, pabaigos.
 
 
 
 
-4) įmonės ar įstaigos sveikatos priežiūros sąlygos neatitinka teisės aktuose nustatytų licencijuojamos veiklos reikalavimų.
 
 
+13. Asmens sveikatos priežiūros įstaiga, kurios licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas sustabdytas šio straipsnio 11 dalies 1 punkte nurodytu atveju, gali kreiptis į Valstybinę akreditavimo sveikatos priežiūros veiklai tarnybą dėl licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai pateikdama paraišką, o šio straipsnio 11 dalies 2 punkte nurodytu atveju – paraišką ir pažeidimų, dėl kurių buvo sustabdytas licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas, pašalinimą įrodančius dokumentus. Sprendimas panaikinti sustabdytą licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą šio straipsnio 11 dalies 1 punkte nurodytu atveju priimamas ne vėliau kaip per penkias darbo dienas nuo šioje dalyje nurodytos paraiškos gavimo dienos. Sprendimas panaikinti sustabdytą licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą šio straipsnio 11 dalies 2 punkte nurodytu atveju priimamas įsitikinus, kad yra pašalinti pažeidimai, dėl kurių buvo sustabdytas licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas, bet ne vėliau kaip per dešimt darbo dienų nuo šioje dalyje nurodytų paraiškos ir dokumentų gavimo dienos.
 
 
 
 
-10. Sustabdyti ar panaikinti licencijos galiojimą Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba gali savo iniciatyva, sveikatos priežiūros veiklą kontroliuojančių valstybės institucijų ar įstaigos laikinojo administratoriaus teikimu. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba per penkias kalendorines dienas nuo sprendimo priėmimo apie jį turi raštu pranešti įstaigai.
+14. Licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas panaikinamas:
 
 
+1) kai yra gautas asmens sveikatos priežiūros įstaigos prašymas panaikinti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą;
 
 
-11. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba turi teisę licencijos galiojimą sustabdyti:
 
 
-1) įstaigos iniciatyva;
+2) jeigu sustabdžius licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą asmens sveikatos priežiūros įstaiga per šio straipsnio 11 dalies 1 punkte nustatytą terminą nesikreipė dėl licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo arba per šio straipsnio 11 dalies 2 punkte nurodytu pagrindu nustatytą licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo terminą nepašalino pažeidimų, dėl kurių buvo sustabdytas licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimas; 
 
 
 
 
-2) kai paaiškėja, kad licencijai gauti įstaiga pateikė neteisingus duomenis ar suklastotus dokumentus;
+3) kai asmens sveikatos priežiūros įstaiga likviduojama;
 
 
 
 
-3) kai sveikatos priežiūros veiklą kontroliuojančios valstybės institucijos nustato, kad įstaiga per einamuosius metus pakartotinai pažeidė Lietuvos Respublikos įstatymus, kitus teisės aktus, reglamentuojančius licencijuojamą veiklą;
+4) kai paaiškėja, kad licencijai asmens sveikatos priežiūros veiklai gauti buvo pateikti suklastoti dokumentai;
 
 
 
 
-4) kai praėjo daugiau kaip devyniasdešimt kalendorinių dienų nuo dienos, kai licencija turėjo būti perregistruota, o įstaiga nepateikė paraiškos ją perregistruoti;
+5) šio įstatymo 54 straipsnio 6 dalyje nurodytu atveju.
 
 
 
 
-5) įstaigos laikinojo administratoriaus, revizijos metu nustačiusio teisės aktų pažeidimus įstaigoje, teikimu.
 
 
+15. Sprendimas panaikinti licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimą priimamas:
 
 
+1) šio straipsnio 14 dalies 1 punkte nurodytu atveju – ne vėliau kaip per penkias darbo dienas nuo asmens sveikatos priežiūros įstaigos prašymo gavimo dienos;
 
 
-12. Terminą, kuriam sustabdomas licencijos galiojimas, nustato Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba. Terminas negali būti ilgesnis kaip trys mėnesiai. Šis terminas gali būti pratęstas sveikatos apsaugos ministro įsakymu.
 
 
+2) šio straipsnio 14 dalies 2 punkte nurodytu atveju – ne vėliau kaip penkias darbo dienas nuo šio straipsnio 11 dalies 1 punkte nustatyto termino kreiptis dėl licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo pabaigos arba ne vėliau kaip per dešimt darbo dienų nuo šio straipsnio 11 dalies 2 punkte nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, dėl kurių jos licencija asmens sveikatos priežiūros veiklai (ar jos dalis) yra sustabdyta, bet jų nepašalino, pabaigos;
 
 
-13. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba įstaigos prašymu turi teisę priimti sprendimą atnaujinti jos licencijos galiojimą tik įsitikinusi, kad yra pašalinti pažeidimai, dėl kurių buvo sustabdytas licencijos galiojimas. Išlaidas, susijusias su licencijos galiojimo atnaujinimu, apmoka įstaiga.
 
 
+3) šio straipsnio 14 dalies 3 ir 4 punktuose nurodytais atvejais – ne vėliau kaip per tris darbo dienas nuo sužinojimo apie šias aplinkybes dienos;
 
 
-14. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba turi teisę panaikinti licencijos galiojimą:
 
 
-1) įstaigos iniciatyva;
+4) šio straipsnio 14 dalies 5 punkte nurodytu atveju – ne vėliau kaip per septynias darbo dienas nuo kreipimosi gavimo dienos. 
 
 
 
 
-2) kai gautas pranešimas apie įstaigos likvidavimą arba reorganizavimą (kai įstaiga, kaip savarankiškas ūkio subjektas, nutraukia veiklą);
 
 
+16. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba informaciją apie licencijos asmens sveikatos priežiūros veiklai išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar galiojimo panaikinimą, licencijos asmens sveikatos priežiūros veiklai patikslinimą, licencijos asmens sveikatos priežiūros veiklai dublikato išdavimą ne vėliau kaip per penkias darbo dienas nuo atitinkamo sprendimo priėmimo paskelbia savo interneto svetainėje Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka.
 
 
-3) jeigu, sustabdžius licencijos galiojimą, įstaiga per nustatytą terminą nepašalino pažeidimų ar nesikreipė dėl licencijos galiojimo atnaujinimo;
 
 
-
-
-4) sveikatos priežiūros veiklą kontroliuojančių valstybės institucijų teikimu, jeigu, joms sustabdžius dalies ar visų paslaugų teikimą, įstaiga per nustatytą terminą nepašalina pažeidimų;
-
-
-
-
-5) kai per einamuosius metus gauna pakartotinį sveikatos priežiūros veiklą kontroliuojančių valstybės institucijų teikimą sustabdyti įstaigos licencijos galiojimą.
-
-
-
-
-
-
-15. Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos sprendimas atsisakyti išduoti (perregistruoti) licenciją, sustabdyti, atnaujinti ar panaikinti jos galiojimą gali būti įstatymų nustatyta tvarka apskųstas per trisdešimt kalendorinių dienų nuo sprendimo priėmimo dienos. Apskundimas Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos sprendimų vykdymo nesustabdo.
-
-
-
-
-16. Apie licencijos išdavimą, jos galiojimo sustabdymą, atnaujinimą ar panaikinimą Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba skelbia savo interneto svetainėje.
+17. Už licencijos asmens sveikatos priežiūros veiklai išdavimą, patikslinimą, popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikato išdavimą mokama nustatyto dydžio valstybės rinkliava. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-287, 2001 04 19, Žin., 2001, Nr. 39-1357 (2001 05 09)
 Nr. XI-886, 2010-06-08, Žin., 2010, Nr. 71-3558 (2010-06-19)
 Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
+Straipsnio pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
@@ -568,44 +561,18 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-7 straipsnis. Licencijuotų įstaigų registravimas
-
-
-1. Licencijas gavusios Įstaigos registruojamos Lietuvos Respublikos įstatymų bei kitų teisės aktų nustatyta tvarka.
-
-
-
-
-2. Licencijuotos įstaigos turi būti įregistruotos ir Valstybiniame sveikatos priežiūros įstaigų registre (toliau – Įstaigų registras). Įstaigos turi būti įregistruotos ne vėliau kaip per tris darbo dienas nuo licencijos išdavimo dienos. 
-
-
-
-
-3. Įstaigų registrą steigia, įstaigas jame registruoja bei jį tvarko Sveikatos apsaugos ministerija ar jos įgaliota institucija. 
-
-
-
-
-4. Įstaigų registras yra valstybės registrų integralios sistemos dalis ir yra antrinis registras. Įstaigų registro nuostatus tvirtina Vyriausybė. 
+7 straipsnis. Neteko galios nuo 2016-05-01
+Straipsnio naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
 
 
-
-
-8 straipsnis. Įstaigų registro duomenų naudojimas
-
-
-1. Juridiniai ir fiziniai asmenys Įstaigų registro duomenimis turi teisę naudotis šio registro nuostatų nustatyta tvarka.
-
-
-
-
-2. Įstaigų registro duomenimis apie Vidaus reikalų ministerijos, Krašto apsaugos ministerijos uždarąsias įstaigas turi teisę naudotis tik Įstaigų registro tvarkytojas ir Vyriausybės įstaigos.
+8 straipsnis. Neteko galios nuo 2016-05-01
+Straipsnio naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
-
-
 
 
 
@@ -683,7 +650,10 @@ Sveikatos apsaugos ministerija:
 
 
 
-3) tvarko įstaigų registrą;
+3) Neteko galios nuo 2016-05-01
+Straipsnio punkto naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -765,7 +735,10 @@ nustatymas
 12 straipsnis. Investicijos sveikatos priežiūrai
 
 
-1. Investicijomis sveikatos priežiūrai laikoma lėšų naudojimas paslaugų asortimentui plėsti, naujoms sveikatos priežiūros technologijoms įgyvendinti, sveikatos priežiūros prieinamumui ir kokybei (tinkamumui) gerinti.
+1. Investicijomis sveikatos priežiūrai laikoma lėšų naudojimas paslaugų asortimentui plėsti, naujoms sveikatos priežiūros technologijoms įgyvendinti, sveikatos priežiūros prieinamumui ir kokybei gerinti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -1285,7 +1258,9 @@ Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
 
 
 
-5. Uždarosios biudžetinės įstaigos valstybinis medicininis auditas atliekamas Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka.
+5. Neteko galios nuo 2016-05-01
+Straipsnio dalies naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
@@ -2043,7 +2018,10 @@ Asmens sveikatos priežiūros įstaigai privaloma:
 
 
 
-4) naudoti tik tas sveikatos priežiūros technologijas, kurios yra nustatyta tvarka aprobuotos ir (ar) leistos naudoti Lietuvos Respublikoje. Medicinos gaminiai turi būti įtraukti į Medicinos gaminių registrą, kurio nuostatus tvirtina Sveikatos apsaugos ministerija;
+4) Neteko galios nuo 2016-05-01
+Straipsnio punkto naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -2086,9 +2064,41 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 
 
 
-12) jeigu jos priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, užtikrinti nepertraukiamą (visomis dienomis ištisą parą) pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos ir odontologijos sveikatos priežiūros paslaugas) teikimą sveikatos apsaugos ministro nustatyta tvarka.
+12) jeigu jos priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, užtikrinti nepertraukiamą (visomis dienomis ištisą parą) pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos ir odontologijos sveikatos priežiūros paslaugas) teikimą sveikatos apsaugos ministro nustatyta tvarka;
 Papildyta straipsnio punktu:
 Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
+ 
+
+
+
+
+13) naudoti, instaliuoti ir prižiūrėti medicinos priemones vadovaujantis gamintojo su medicinos priemonėmis pateikiama informacija ir laikantis sveikatos apsaugos ministro nustatytų reikalavimų; 
+Papildyta straipsnio punktu:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
+
+
+
+
+14) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; 
+Papildyta straipsnio punktu:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
+
+
+
+
+15) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie incidentus, susijusius su medicinos priemonėmis; 
+Papildyta straipsnio punktu:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
+
+
+
+
+16) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones.
+Papildyta straipsnio punktu:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
@@ -2353,9 +2363,32 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 
 
 
-4) išsaugoti fizinių ir juridinių asmenų komercinę paslaptį.
+4) išsaugoti fizinių ir juridinių asmenų komercinę paslaptį;
 
 
+
+
+5) naudoti, instaliuoti ir prižiūrėti medicinos priemones vadovaujantis gamintojo su medicinos priemonėmis pateikiama informacija ir laikantis sveikatos apsaugos ministro nustatytų reikalavimų;
+
+
+
+
+6) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
+
+
+
+
+7) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie incidentus, susijusius su medicinos priemonėmis;
+
+
+
+
+8) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -2426,7 +2459,7 @@ III dalis
 52 straipsnis. Įstaigų teikiamų paslaugų valstybinė kontrolė
 
 
-1. Įstaigų, neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę kontrolę atlieka:
+Įstaigų, neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę kontrolę atlieka:
 
 
 1) sveikatos apsaugos ministro paskirti pareigūnai;
@@ -2434,41 +2467,32 @@ III dalis
 
 
 
-2) Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba – asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;
+2) Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba – asmens sveikatos priežiūros paslaugų prieinamumo, kokybės ir medicinos priemonių valstybinę priežiūrą;
 
 
 
 
-3) Valstybinė ir teritorinė ligonių kasos - asmens sveikatos priežiūros paslaugų, apmokamų iš privalomojo sveikatos draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir privalomojo sveikatos draudimo fondo lėšų naudojimo finansinę bei ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
+3) Valstybinė ir teritorinė ligonių kasos – asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo finansinę bei ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
 
 
 
 
 4) Lietuvos bioetikos komitetas – asmens sveikatos priežiūros įstaigos teikiamų paslaugų atitikties bioetikos reikalavimams valstybinę priežiūrą;
-Straipsnio punkto pakeitimai:
-Nr. XII-1940, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14258
- 
 
 
 
 
 5) Nacionalinis visuomenės sveikatos centras – paslaugų, teikiamų asmens ir visuomenės sveikatos priežiūros, švietimo, socialinės globos ir slaugos įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę, Visuomenės sveikatos priežiūros įstatyme nurodytą valstybinę visuomenės sveikatos saugos kontrolę.
-Straipsnio punkto pakeitimai:
-Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
- 
-
-
-
-
-
-
-2. Valstybinė paslaugų kontrolė sveikatos priežiūros įstaigose, kurių steigėjai yra Krašto apsaugos ar Vidaus reikalų ministerijos, atliekama Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1800, 2000.07.04, Žin., 2000, Nr.61-1811 (2000.07.26)
 Nr. XI-1758, 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
 Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
+
+
+Straipsnio pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
@@ -2477,7 +2501,7 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 53 straipsnis. Valstybės institucijų, kontroliuojančių paslaugų teikimą, teisės ir pareigos
 
 
-1. Valstybės institucijų, nurodytų šio įstatymo 53 straipsnyje, vadovai ar jų paskirti pareigūnai (toliau - pareigūnai) turi teisę:
+1. Valstybės institucijų, nurodytų šio įstatymo 52 straipsnyje, vadovai ar jų paskirti pareigūnai (toliau – pareigūnai) turi teisę:
 
 
 1) bet kuriuo laiku, pateikę paskyrimo dokumentą įstaigos vadovui ar jį pavaduojančiam asmeniui, netrukdomi patekti į įstaigą ir tikrinti, ar nėra pažeidžiami teisės aktų ir normatyvinių dokumentų reikalavimai;
@@ -2485,7 +2509,7 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-2) reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą, laboratorinius mėginius, ligonių medicininių apžiūrų ir tyrimų duomenis, įstaigos vadovų ir kitų darbuotojų žodinius ir raštiškus paaiškinimus, kurie reikalingi patikrinimui atlikti; 
+2) reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą, laboratorinius mėginius, ligonių medicininių apžiūrų ir tyrimų duomenis, įstaigos vadovų ir kitų darbuotojų žodinius ir rašytinius paaiškinimus, kurie reikalingi patikrinimui atlikti; 
 
 
 
@@ -2500,14 +2524,22 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-5) reikalauti iš įstaigos administracijos vadovo laikotarpiui iki vieno mėnesio nušalinti sveikatos priežiūros specialistus ir patikrinti jų profesinę kompetenciją, jei buvo nustatyti šių specialistų profesinės veiklos trūkumai, galėję lemti ar lėmę žalą ar pavojų pacientų sveikatai, arba jei sveikatos priežiūros specialistų kvalifikacija neatitinka nustatytų reikalavimų, arba šie specialistai dėl sveikatos būklės negali atlikti savo pareigų. Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarką nustato Sveikatos apsaugos ministerija. Nušalinimo nuo darbo laikotarpiu sveikatos priežiūros specialistui darbo užmokesčio mokėjimas sustabdomas; 
+5) reikalauti iš įstaigos administracijos vadovo ne ilgesniam kaip vieno mėnesio laikotarpiui nušalinti sveikatos priežiūros specialistus ir patikrinti jų profesinę kompetenciją, jeigu buvo nustatyti šių specialistų profesinės veiklos trūkumai, galėję lemti ar lėmę žalą ar pavojų pacientų sveikatai, arba jeigu sveikatos priežiūros specialistų kvalifikacija neatitinka nustatytų reikalavimų, arba šie specialistai dėl sveikatos būklės negali atlikti savo pareigų. Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarką nustato sveikatos apsaugos ministras. Nušalinimo nuo darbo laikotarpiu sveikatos priežiūros specialistui darbo užmokesčio mokėjimas sustabdomas; 
 
 
 
 
-6) įstatymų nustatyta tvarka patraukti įstaigos darbuotojus atsakomybėn už sveikatinimo įstatymų ir kitų teisės aktų pažeidimus.
+6) įstatymų nustatyta tvarka patraukti įstaigos darbuotojus atsakomybėn už sveikatinimo įstatymų ir kitų teisės aktų pažeidimus;
 
 
+
+
+7) vykdydami medicinos priemonių valstybinę priežiūrą, iš įstaigos ne ilgesniam kaip šešių mėnesių terminui paimti, jeigu tai techniškai įmanoma, medicinos priemonių pavyzdžius ir neatlygintinai juos išbandyti, iki bus gautos bandymo išvados.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 
@@ -2551,21 +2583,22 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-3) įstaiga nėra įregistruota Įstaigų registre arba įregistruota pažeidžiant šio įstatymo reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro tvarkytojo reikalavimų;
+3) įstaigoje sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
 
 
 
 
-4) įstaigoje sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
+4) įstaigos ar jos padalinio patalpos, jų eksploatavimas neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų;
 
 
 
 
-5) įstaigos ar jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
+5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant sveikatos apsaugos ministro nustatytų reikalavimų. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
@@ -2591,7 +2624,10 @@ Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
 
 
 
-6. Jei per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą sustabdžiusi institucija kreipiasi į Valstybinę akreditavimo sveikatos priežiūros veiklai tarnybą dėl įstaigos licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.
+6. Jeigu per nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą sustabdžiusi institucija kreipiasi į licenciją išduodančią instituciją dėl įstaigos licencijos galiojimo panaikinimo ir į Sveikatos apsaugos ministeriją dėl įstaigos valdymo organų nušalinimo ir laikinojo administratoriaus paskyrimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
 
 
 Straipsnio pakeitimai:
@@ -2780,7 +2816,9 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-3. Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus pagal nurodytą šio įstatymo 58 straipsnio 1 dalies 2 punktą, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip vieneri metai, kontrolės priemonės negali būti taikomos.
+3. Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus šio įstatymo 58 straipsnio 1 dalies 2 punkte nurodytą priemonę, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip treji metai, kontrolės priemonės negali būti taikomos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
 
 
@@ -2788,13 +2826,10 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-60 straipsnis. Uždarosios biudžetinės įstaigos veiklos kontrolė
-
-
-Uždarosios biudžetinės įstaigos veiklos kontrolė atliekama Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka.
+60 straipsnis. Neteko galios nuo 2016-05-01
+Straipsnio naikinimas:
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
-
-
 
 
 
@@ -2977,3 +3012,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 52 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 24, 52 ir 54 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1, 2, 3, 5, 10, 12, 25, 45, 50, 52, 53, 54, 59 straipsnių, I dalies II skyriaus pavadinimo pakeitimo ir 7, 8, 60 straipsnių pripažinimo netekusiais galios įstatymas
