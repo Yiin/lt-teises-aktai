@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-03-30 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2016-05-27
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -1768,20 +1768,22 @@ užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eur
 
 
 
-59 straipsnis. Medicinos prietaisų saugą, kokybę, veikimą, naudojimą, tiekimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
+59 straipsnis. Medicinos priemonių (prietaisų) saugą, kokybę, veikimą, naudojimą, teikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų ir medicinos priemonių (prietaisų) techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
 
 
-1. Medicinos prietaisų saugą, kokybę, veikimą, naudojimą, tiekimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
-užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+1. Medicinos priemonių (prietaisų) saugą, kokybę, veikimą, naudojimą, teikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų ir medicinos priemonių (prietaisų) techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas 
+užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
  
-
-
 
 
 
