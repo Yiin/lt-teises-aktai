@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
  
@@ -267,12 +267,28 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA
 
 
 
-3) statyti statinius arčiau kaip 100 m nuo Baltijos jūros kranto, 50 m nuo Kuršių marių kranto, išskyrus šio Įstatymo 7 straipsnyje nurodytus atvejus ir kai jų statyba atitinka pajūrio juostos nustatymo tikslus.
+3) statyti statinius arčiau kaip 100 m nuo Baltijos jūros kranto, 50 m nuo Kuršių marių kranto, išskyrus šio Įstatymo 7 straipsnyje nurodytus atvejus ir kai jų statyba atitinka pajūrio juostos nustatymo tikslus;
 Straipsnio punkto pakeitimai:
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
  
 
 
+
+
+4) važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis pajūrio juostos paplūdimiu, kopagūbriu (kopomis) ir povandeniniu krantu, išskyrus ekstremaliųjų situacijų ir avarijų atvejus, atvejus, kai vykdomi paplūdimių priežiūros ir valymo darbai, įgyvendinamos krantotvarkos priemonės, vykdoma kontrolinė (inspekcinė, priežiūros) veikla su pažymėtomis transporto priemonėmis, atliekami moksliniai tyrimai, taip pat transporto priemones, naudojamas valstybei svarbiems projektams įgyvendinti, specialiąsias transporto priemones ir kitą transportą, skirtą inžinerinės infrastruktūros objektams. 
+Papildyta straipsnio punktu:
+Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
+ 
+
+
+
+
+
+
+5. Šio straipsnio 4 dalies 4 punkte nenurodytais atvejais prie jūros kranto privažiuoti, gabenti inventorių ir plaukiojimo priemones, paslaugoms teikti ar veiklai būtinas prekes, įskaitant žuvų išteklių naudotojų, žvejojančių Baltijos jūros priekrantėje, transporto priemones žvejybos produktų, sugautų Baltijos jūroje žvejybos laivais, iškrovimo, pirminio pardavimo ir supirkimo vietose, galima tik teritorijų planavimo dokumentuose nustatytais ir esamais privažiavimo keliais su kieta danga. Privažiavimo prie jūros kranto tvarką pajūrio juostoje pagal kompetenciją nustato Neringos savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija, Nacionaline žemės tarnyba prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės tarnyba), Klaipėdos miesto savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija (Kuršių nerijos dalyje), Aplinkos apsaugos agentūra (pajūrio juostos žemyninėje dalyje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, Klaipėdos rajono savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, ir Palangos miesto savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Nacionaline žemės tarnyba, Žuvininkystės tarnyba ir Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje).
+Papildyta straipsnio dalimi:
+Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
+ 
 
 
 
@@ -282,101 +298,72 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA
 7 straipsnis. Statinių statybos sąlygos ir tvarka
 
 
-1. Vadovaujantis Statybos ir Saugomų teritorijų įstatymais bei šio Įstatymo 5 straipsnyje nurodytais teritorijų planavimo dokumentais, pajūrio juostoje gali būti: 
+1. Vadovaujantis Statybos įstatymu ir Saugomų teritorijų įstatymu, šio Įstatymo 5 straipsnyje nurodytais teritorijų planavimo dokumentais, pajūrio juostoje gali būti:
 
 
-1) statomi statiniai, skirti vandens ištekliams naudoti ir aplinkai nuo žalingo vandens poveikio saugoti, kranto linijai stabilizuoti, natūraliai nešmenų pusiausvyrai atkurti bei kitoms vandens ūkio ar uosto reikmėms (užtvankų, krantinių, molų, pralaidų, pylimų, bangolaužių, bunų ir kt.); 
-
-
-
-
-2) atstatomi stichinių nelaimių ir katastrofų metu sugriauti ar pažeisti statiniai;
+1) statomi statiniai vandens ištekliams naudoti ir aplinkai nuo žalingo vandens poveikio saugoti, kranto linijai stabilizuoti, natūraliai nešmenų pusiausvyrai atkurti ir kitoms vandens ūkio ar uosto reikmėms (užtvankos, krantinės, molai, pralaidos, pylimai, bangolaužiai, bunos); 
 
 
 
 
-3) statomos laikinos priekrantės žvejybos laivų prieplaukos ir įrengiamos šių laivų saugojimo aikštelės;
+2) atstatomi stichinių nelaimių ir katastrofų metu sugriauti ar pažeisti statiniai nedidinant jų tūrio; 
 
 
 
 
-4) statomi laikini paplūdimio aptarnavimo statiniai;
+3) statomos priekrantės žvejybos laivų prieplaukos, įrengiamos šių laivų saugojimo aikštelės;
 
 
 
 
-5) statomi ir rekonstruojami Nekilnojamojo turto registre įregistruoti pastatai, statiniai ir inžineriniai statiniai, jeigu yra sudaryta ilgalaikė jų užimamų žemės sklypų žemės nuomos sutartis arba valstybinė žemė yra valdoma patikėjimo teise; 
-Straipsnio punkto pakeitimai:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
+4) statomi laikini paplūdimių statiniai;
+
+
+
+
+5) statomi nauji statiniai vietoj buvusių, skaidant stambių pastatų tūrį, keičiant jų paskirtį, įrengiant infrastruktūrą, nesukeliant naujų neigiamų pasekmių gyvenimo ir aplinkos kokybei ir kai tokių statinių statyba numatyta specialiuosiuose planuose;
+
+
+
+
+6) rekonstruojami Nekilnojamojo turto registre įregistruoti statiniai privačioje žemėje arba valstybinėje žemėje, jeigu yra sudaryta ilgalaikė jais užstatytų žemės sklypų žemės nuomos sutartis arba valstybinė žemė yra valdoma patikėjimo teise;
+
+
+
+
+7) remontuojami ar griaunami statiniai, atnaujinami (modernizuojami) pastatai.
+
+
+
+
+
+
+2. Statybą leidžiančius dokumentus išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), išskyrus statybą leidžiančius dokumentus naujai statomiems ypatingiems ar neypatingiems statiniams, kuriuos per 30 dienų nuo prašymo gavimo dienos išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija) aplinkos ministrui pritarus naujo ypatingo ar neypatingo statinio statybai.
+
+
+
+
+3. Statytojo (užsakovo) prašymas ir kiti dokumentai Valstybinės teritorijų planavimo ir statybos inspekcijos sprendimui dėl pritarimo naujo ypatingo ar neypatingo statinio statybai pajūrio juostoje priimti rengiami ir teikiami šia tvarka:
+
+
+1) statytojas (užsakovas) prašymą ir projektinius pasiūlymus dėl naujo ypatingo ar neypatingo statinio statybos pajūrio juostoje pateikia savivaldybės, kurioje jis planuoja statyti statinį, institucijai;
+
+
+
+
+2) savivaldybės institucija prašymą ir projektinius pasiūlymus apsvarsto viešai ir, surinkusi už atitinkamų veiklos sričių priežiūrą atsakingų valstybės institucijų (pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją) bei kitų suinteresuotų organizacijų pasiūlymus, juos apibendrina ir perduoda Valstybinei teritorijų planavimo ir statybos inspekcijai;
+
+
+
+
+3) jeigu numatoma statyba ir veikla atitinka šio Įstatymo 5 straipsnyje nurodytų teritorijų planavimo dokumentų sprendinius ir pajūrio juostos nustatymo tikslus ir yra gautas aplinkos ministro pritarimas, Valstybinė teritorijų planavimo ir statybos inspekcija priima sprendimą išduoti statybą leidžiančius dokumentus naujo ypatingo ar neypatingo statinio statybai pajūrio juostoje.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
  
-
-
-
-
-6) Neteko galios nuo 2014-01-01
-Straipsnio punkto naikinimas:
-Nr. XII-417, 2013-06-27, Žin. 2013, Nr. 76-3834 (2013-07-16), i. k. 1131010ISTA0XII-417
-Straipsnio punkto pakeitimai:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
- 
-
-
-
-
-7) statomi nauji pastatai vietoj buvusių, skaidant ir mažinant stambių pastatų tūrius, keičiant jų paskirtį, nesukeliant naujų neigiamų pasekmių gyvenimo ir aplinkos kokybei. 
-Papildyta straipsnio punktu:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
- 
-
-
-
-
-
-
-2. Statybos leidimą dėl šio straipsnio 1 dalies 2, 3, 4, 5 punktuose išvardytų statinių ir dėl statinių, kurių statyba numatyta šio Įstatymo 5 straipsnio 3 dalies 3 ir 4 punktuose nurodytų teritorijų planavimo dokumentų sprendiniuose, išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas). Statybos leidimą dėl visų naujų statinių išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
-Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. 1131010ISTA0XII-417
- 
-
-
-
-
-3. Pasiūlymas dėl statinių statybos pajūrio juostoje Lietuvos Respublikos Vyriausybei rengiamas ir teikiamas šia tvarka:
-
-
-1) statytojas (užsakovas) prašymą ir projektinius pasiūlymus dėl statybos leidimo pajūrio juostoje pateikia savivaldybės, kurioje jis planuoja statyti statinį, institucijai;
-
-
-
-
-2) savivaldybių institucija prašymą ir projektinius pasiūlymus apsvarsto viešai ir, surinkusi už atitinkamų veiklos sričių priežiūrą atsakingų valstybės institucijų (pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją) bei kitų suinteresuotų organizacijų pasiūlymus, juos apibendrina ir perduoda Lietuvos Respublikos Vyriausybės įgaliotai institucijai; 
-Straipsnio punkto pakeitimai:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
- 
-
-
-
-
-3) Lietuvos Respublikos Vyriausybės įgaliota institucija pagal gautus dokumentus (projektinius pasiūlymus, viešo svarstymo išvadas ir suinteresuotų institucijų ir organizacijų pasiūlymus) parengia išvadą, ar numatoma statyba ir veikla atitinka šio Įstatymo 5 straipsnyje nurodytų teritorijų planavimo dokumentų sprendinius ir pajūrio juostos nustatymo tikslus. Parengtą išvadą ir su ja susijusius dokumentus Lietuvos Respublikos Vyriausybės įgaliota institucija pateikia Aplinkos ministerijai;
-Straipsnio punkto pakeitimai:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
- 
-
-
-
-
-4) Aplinkos ministerija, gautus dokumentus apsvarsčiusi ir įvertinusi, priima sprendimą dėl jų teikimo Lietuvos Respublikos Vyriausybei sprendimui priimti.
-
-
-
-
-
-
-4. Statybos metu pajūrio juostos akvatorijoje turi būti užtikrinta, kad nebūtų keičiamas natūralus dugno reljefas ir nebūtų pažeista nešmenų pusiausvyra tiek, kad tai darytų įtaką gretimoms kranto dalims. 
- 
-
-
 
 
 
@@ -474,3 +461,8 @@ Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. 1131010ISTA0XII-417
 Lietuvos Respublikos pajūrio juostos įstatymo 4, 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 4, 6 ir 7 straipsnių pakeitimo įstatymas
