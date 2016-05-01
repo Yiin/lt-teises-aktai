@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-04-30
+Suvestinė redakcija nuo 2016-05-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -199,7 +199,10 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 
 
 
-7) derindamas su saugomų objektų administracija, saugomuose objektuose nustatyti specialų režimą;
+7) informuodamas saugomų objektų administraciją, saugomuose objektuose, išskyrus oro uostus, nustatyti specialų režimą. Oro uostuose specialus režimas nustatomas derinant su šių saugomų objektų administracija;
+Straipsnio punkto pakeitimai:
+Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
+ 
 
 
 
@@ -308,7 +311,10 @@ Saugomas asmuo turi teisę:
 
 
 
-9 straipsnis. Saugomų objektų apsaugos užtikrinimas
+9 straipsnis. Saugomų objektų apsaugos užtikrinimas ir saugomų objektų apsaugos zonų nustatymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
+ 
 
 
 1. Saugomų objektų apsauga užtikrinama nustatant juose specialų režimą.
@@ -345,6 +351,61 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
  
 
 
+
+
+
+
+3. Saugomų objektų – Prezidentūros, Seimo, Vyriausybės pastatų, Respublikos Prezidento, Ministro Pirmininko rezidencijų pastatų su jiems priskirtais žemės sklypais ir priklausiniais – apsaugai užtikrinti, be šio straipsnio 2 dalyje nustatyto specialaus režimo, nustatomos saugomų objektų apsaugos zonos. Saugomų objektų apsaugos zonų ribas tvirtina Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
+ 
+
+
+
+
+4. Saugomų objektų apsaugos zonose šiuo įstatymu nustatomi tokie apribojimai:
+
+
+1) saugomų objektų apsaugos zonose draudžiama statyti ar rekonstruoti viešojo naudojimo pastatus, dėl kurių gali padidėti transporto priemonių ir (ar) žmonių srautai, taip pat naujus gamybos ir pramonės paskirties pastatus, automobilių stovėjimo aikšteles, degalines, sprogmenų ir (ar) degių medžiagų saugyklas, jų prekybos vietas;
+
+
+
+
+2) saugomų objektų apsaugos zonose statomų ar rekonstruojamų statinių aukštis negali viršyti Vyriausybės nustatyto maksimalaus aukščio;
+
+
+
+
+3) saugomų objektų apsaugos zonose statyti naujus ar rekonstruoti esamus statinius, keisti jų paskirtį, sudaryti žemės sklypų ir (ar) statinių perleidimo, nuomos ar panaudos sandorius leidžiama tik suderinus su Vadovybės apsaugos departamentu Vyriausybės nustatyta tvarka;
+
+
+
+
+4) Respublikos Prezidento ir Ministro Pirmininko rezidencijų pastatų su jiems priskirtais žemės sklypais ir priklausiniais apsaugai užtikrinti nustatytose saugomų objektų apsaugos zonose esančiuose valstybiniuose statiniuose būstas (gyvenamosios patalpos) gali būti suteiktas (suteiktos) tik saugomiems asmenims ir kartu su jais gyvenantiems šeimos nariams (sutuoktiniui (sugyventiniui), jų nepilnamečiams vaikams (įvaikiams), saugomo asmens ir jo sutuoktinio tėvams ir asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas saugomas asmuo);
+
+
+
+
+5) Vadovybės apsaugos departamento sprendimu saugomų objektų apsaugos zonose gali būti įrengta atitvarų, užtvarų ir kitų konstrukcijų, skirtų transporto priemonei sustabdyti ir (ar) transporto priemonių privažiavimui prie saugomų objektų apriboti;
+
+
+
+
+6) Vadovybės apsaugos departamento siūlymu Lietuvos Respublikos aviacijos įstatymo nustatyta tvarka oro erdvės dalys virš saugomų objektų apsaugos zonų gali būti paskelbtos kaip draudžiamos, ribojamos arba pavojingos civilinei aviacijai zonos, kuriose taikomos specialios procedūros. 
+
+
+TAR pastaba. 9 straipsnio 4 dalies nuostatos dėl saugomų objektų apsaugos zonose nustatytų apribojimų netaikomos iki įstatymo Nr. XII-2178 įsigaliojimo dienos (2016-05-01) pradėtiems statybos, statinių rekonstrukcijos ar jų paskirties keitimo darbams, taip pat sudarytiems ar sudarymo metu esantiems žemės sklypų ir (ar) statinių perleidimo, nuomos ar panaudos sandoriams.
+Papildyta straipsnio dalimi:
+Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
+ 
+
+
+
+
+5. Valstybinė žemė, esanti Respublikos Prezidento ir Ministro Pirmininko rezidencijų pastatų su jiems priskirtinais žemės sklypais ir priklausiniais apsaugai užtikrinti nustatytose saugomų objektų apsaugos zonose, perduodama neatlygintinai naudotis Vadovybės apsaugos departamentui Lietuvos Respublikos žemės įstatymo nustatyta tvarka, išskyrus žemės sklypus ar jų dalis, kurie reikalingi kitiems asmenims priklausantiems statiniams ar įrenginiams eksploatuoti.
+Papildyta straipsnio dalimi:
+Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
+ 
 
 
 
@@ -1282,3 +1343,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 10 ir 12 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1859, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10821
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 16 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 6 ir 9 straipsnių pakeitimo įstatymas
