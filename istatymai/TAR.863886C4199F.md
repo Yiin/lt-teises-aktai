@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 2014-03-01 iki 2016-05-11
+Suvestinė redakcija nuo 2016-05-12 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
- 
-TAR pastaba. Įsigaliojus (2014-03-01) įstatymui Nr. XII-753, nacionalinių ir respublikinių muziejų vadovai toliau eina pareigas 5 metus (vieną kadenciją).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
-Lietuvos Respublikos muziejų įstatymo 4, 5, 7, 9, 12, 13 straipsnių pakeitimo ir papildymo ĮSTATYMAS
  
 Nauja redakcija nuo 2003-06-20:
 Nr. IX-1593, 2003-05-29, Žin. 2003, Nr. 59-2638 (2003-06-20), i. k. 1031010ISTA0IX-1593
@@ -398,9 +393,11 @@ Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 
 
 
-3. Nacionaliniuose, respublikiniuose ir savivaldybių muziejuose rinkinių apsaugą, apskaitą ir saugojimą užtikrina muziejaus direktoriaus pavaduotojas – vyriausiasis fondų saugotojas, kurį į pareigas skiria muziejaus savininko teises įgyvendinančios institucijos vadovas. 
+3. Nacionaliniuose, respublikiniuose ir savivaldybių muziejuose rinkinių apsaugą, apskaitą ir saugojimą užtikrina muziejaus direktoriaus pavaduotojas – vyriausiasis fondų saugotojas. Nacionalinio ar respublikinio muziejaus direktoriaus pavaduotoją – vyriausiąjį fondų saugotoją į pareigas priima ir iš jų atleidžia muziejaus savininko teises ir pareigas įgyvendinančios institucijos vadovas, o savivaldybės muziejaus direktoriaus pavaduotoją – vyriausiąjį fondų saugotoją – muziejaus vadovas.
 Papildyta straipsnio dalimi:
 Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
+Straipsnio dalies pakeitimai:
+Nr. XII-2330, 2016-05-03, paskelbta TAR 2016-05-11, i. k. 2016-12224
  
 
 
@@ -598,7 +595,7 @@ Lietuvos Respublikos muziejų įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
  
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487                
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487                
 Dėl Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalies atitikimo Lietuvos Respublikos Konstitucijai
  
 3.
@@ -615,3 +612,8 @@ Lietuvos Respublikos muziejų įstatymo 4, 12, 13 straipsnių pakeitimo ir papil
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 Lietuvos Respublikos muziejų įstatymo 4, 5, 7, 9, 12, 13 straipsnių pakeitimo ir papildymo ĮSTATYMAS
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2330, 2016-05-03, paskelbta TAR 2016-05-11, i. k. 2016-12224
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 papildymo 7-1 straipsniu ir 9 straipsnio pakeitimo įstatymas
