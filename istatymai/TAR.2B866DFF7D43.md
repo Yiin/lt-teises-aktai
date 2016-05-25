@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-05-24
+Suvestinė redakcija nuo 2016-05-25 iki 2016-06-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -5422,8 +5422,11 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 147 straipsnis. Prekyba žmonėmis
 
 
-1. Tas, kas pardavė, pirko, kitaip perleido ar įgijo, verbavo, gabeno ar laikė nelaisvėje žmogų panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas nukentėjusio asmens priklausomumu ar pažeidžiamumu, arba panaudodamas apgaulę, arba priimdamas ar sumokėdamas pinigus, arba gaudamas ar suteikdamas kitokią naudą asmeniui, kuris faktiškai kontroliuoja nukentėjusį asmenį, jeigu kaltininkas žinojo arba siekė, kad nukentėjęs asmuo, nesvarbu, ar jis sutiko, būtų išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai ar kitoms seksualinio išnaudojimo formoms, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitais išnaudojimo tikslais,
+1. Tas, kas pardavė, pirko, kitaip perleido ar įgijo, verbavo, gabeno ar laikė nelaisvėje žmogų panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas nukentėjusio asmens priklausomumu ar pažeidžiamumu, arba panaudodamas apgaulę, arba priimdamas ar sumokėdamas pinigus, arba gaudamas ar suteikdamas kitokią naudą asmeniui, kuris faktiškai kontroliuoja nukentėjusį asmenį, jeigu kaltininkas žinojo arba siekė, kad nukentėjęs asmuo, nesvarbu, ar jis sutiko, būtų išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai ar kitoms seksualinio išnaudojimo formoms, priverstinei, fiktyviai santuokai, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitais išnaudojimo tikslais,
 baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906
+ 
 
 
 
@@ -5814,8 +5817,11 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 157 straipsnis. Vaiko pirkimas arba pardavimas
 
 
-1. Tas, kas siūlė pirkti, kitaip įgyti, pardavė, pirko, kitaip perleido, įgijo, verbavo, gabeno arba laikė nelaisvėje vaiką žinodamas ar siekdamas, kad, neatsižvelgiant į vaiko sutikimą, jis būtų neteisėtai įvaikintas, išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai, kitoms seksualinio išnaudojimo formoms, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitiems išnaudojimo tikslams, 
+1. Tas, kas siūlė pirkti, kitaip įgyti, pardavė, pirko, kitaip perleido, įgijo, verbavo, gabeno arba laikė nelaisvėje vaiką žinodamas ar siekdamas, kad, neatsižvelgiant į vaiko sutikimą, jis būtų neteisėtai įvaikintas, išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai, kitoms seksualinio išnaudojimo formoms, priverstinei, fiktyviai santuokai, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitiems išnaudojimo tikslams,
 baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906
+ 
 
 
 
@@ -11451,3 +11457,8 @@ Lietuvos Respublikos baudžiamojo kodekso 285 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2277, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06428
 Lietuvos Respublikos baudžiamojo kodekso 47, 176, 220, 221, 272, 273, 281, 284 straipsnių pakeitimo įstatymo Nr. XII-1871 9 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906
+Lietuvos Respublikos baudžiamojo kodekso 147 ir 157 straipsnių pakeitimo įstatymas
