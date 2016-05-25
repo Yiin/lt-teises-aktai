@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2016-05-25
+ 
+Įstatymas paskelbtas: Žin. 2013, Nr. 76-3824, i. k. 1131010ISTA0XII-407
+ 
 LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO PAKEITIMO  ĮSTATYMAS
  
 2013 m. birželio 27 d. Nr. XII-407 
@@ -2923,7 +2927,15 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki šio įstaty
 
 
 
-4) žemės valdos projektams – žemės sklypų planai, prilyginami detaliojo teritorijų planavimo dokumentams.
+4) žemės valdos projektams – žemės sklypų planai, prilyginami detaliojo teritorijų planavimo dokumentams;
+
+
+
+
+5) valstybei svarbių projektų teritorijų planavimo dokumentams – teritorijų planavimo dokumentai, kuriais įgyvendinami valstybei svarbūs projektai. 
+Papildyta straipsnio punktu:
+Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
+ 
 
 
 
@@ -2965,7 +2977,17 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki šio įstaty
 
 
 
-8. Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2014 m. sausio 1 d.
+8. Projektui, kuris pripažįstamas valstybei svarbiu projektu po 2014 m. sausio 1 d., įgyvendinti rengiami teritorijų planavimo dokumentai, dėl kurių rengimo kreiptasi planavimo sąlygų iki 2014 m. sausio 1 d., nuo valstybei svarbaus projekto statuso šiam projektui suteikimo momento taip pat yra laikomi valstybei svarbaus projekto teritorijų planavimo dokumentais. Šioje dalyje nurodyti teritorijų planavimo dokumentai planavimo organizatoriaus pasirinkimu yra baigiami rengti, derinami, viešai skelbiami ir tikrinami pagal iki 2014 m. sausio 1 d. galiojusius teisės aktus ir tvirtinami Lietuvos Respublikos Vyriausybės šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos teritorijų planavimo įstatymo ketvirtajame skirsnyje nustatyta tvarka arba pradedami rengti iš naujo pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos teritorijų planavimo įstatymo ketvirtajame skirsnyje nustatytą valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką. 
+Papildyta straipsnio dalimi:
+Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
+ 
+
+
+
+
+9. Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2014 m. sausio 1 d.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
  
 
 
@@ -2973,6 +2995,20 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki šio įstaty
 
 
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
+ 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
+Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymo Nr. XII-407 3 straipsnio pakeitimo įstatymas
