@@ -21,7 +21,7 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-05-24
+Suvestinė redakcija nuo 2016-05-25
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -900,33 +900,32 @@ DEVINTASIS1 SKIRSNIS
 315 straipsnis. Centrinė institucija ir kitos kompetentingos institucijos
 
 
-1. Centrinė institucija Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti vadovaujantis Reglamento (EB) Nr. 4/2009 49 straipsnio 1 dalimi yra Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba.
+1. Centrinė institucija Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti vadovaujantis Reglamento (EB) Nr. 4/2009 49 straipsnio 1 dalimi yra Valstybės garantuojamos teisinės pagalbos tarnyba.
 
 
 
 
-2. Kai pareiškėjų prašymai yra susiję su jaunesnių kaip 21 metų asmenų išlaikymo prievolėmis, atsirandančiomis dėl tėvų ir vaikų santykių, Reglamento (EB) Nr. 4/2009 51 straipsnyje nurodytas centrinės institucijos funkcijas atlieka Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos.
+2. Kai pareiškėjų prašymai yra susiję su jaunesnių kaip 21 metų asmenų išlaikymo prievolėmis, atsirandančiomis dėl tėvų ir vaikų santykių, Reglamento (EB) Nr. 4/2009 51 straipsnyje nurodytas centrinės institucijos funkcijas atlieka Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos.
 
 
 
 
-3. Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Vaikų išlaikymo fondo administracijai prie Socialinės apsaugos ir darbo ministerijos. Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Reglamento (EB) Nr. 4/2009 58 straipsnyje nustatyta tvarka, taip pat atlieka kitas Reglamento (EB) Nr. 4/2009 58 straipsnio 3–9 dalyse nurodytas funkcijas.
+3. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Vaikų išlaikymo fondo administracijai prie Socialinės apsaugos ir darbo ministerijos. Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Reglamento (EB) Nr. 4/2009 58 straipsnyje nustatyta tvarka, taip pat atlieka kitas Reglamento (EB) Nr. 4/2009 58 straipsnio 3–9 dalyse nurodytas funkcijas.
 
 
 
 
-4. Kai aplinkybės reikalauja, valstybės garantuojamos teisinės pagalbos teikimas dėl Reglamento (EB) Nr. 4/2009 56 straipsnyje nurodytų prašymų užtikrinamas Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka tiek, kiek šis įstatymas ir Reglamentas (EB) Nr. 4/2009 nenustato kitaip. Kai nagrinėjant Reglamento (EB) Nr. 4/2009 56 straipsnyje nurodytus prašymus paaiškėja, kad pareiškėjui reikalinga valstybės garantuojama teisinė pagalba, šio straipsnio 1 ir 2 dalyse nurodytos institucijos perduoda pareiškėjo prašymą suteikti valstybės garantuojamą teisinę pagalbą tiesiogiai kompetentingoms valstybės garantuojamą teisinę pagalbą organizuojančioms institucijoms. Sprendimas dėl valstybės garantuojamos teisinės pagalbos teikimo gali būti priimamas ir pagal šio straipsnio 1 ir 2 dalyse nurodytų institucijų kreipimąsi, nors nėra atskiro pareiškėjo prašymo suteikti valstybės garantuojamą teisinę pagalbą, kai iš Reglamento (EB) Nr. 4/2009 56 straipsnyje nurodytų prašymų yra aiški reikalingos valstybės garantuojamos teisinės pagalbos apimtis ir šiuose prašymuose yra pateikta visa informacija, reikalinga sprendimui dėl valstybės garantuojamos teisinės pagalbos teikimo priimti.
-Straipsnio dalies pakeitimai:
-Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010ISTA0XII-392
+4. Kai aplinkybės reikalauja, valstybės garantuojamos teisinės pagalbos teikimas dėl Reglamento (EB) Nr. 4/2009 56 straipsnyje nurodytų prašymų užtikrinamas Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka tiek, kiek šis įstatymas ir Reglamentas (EB) Nr. 4/2009 nenustato kitaip. Kai nagrinėjant Reglamento (EB) Nr. 4/2009 56 straipsnyje nurodytus prašymus paaiškėja, kad pareiškėjui reikalinga valstybės garantuojama teisinė pagalba, šio straipsnio 1 ir 2 dalyse nurodytos institucijos perduoda pareiškėjo prašymą suteikti valstybės garantuojamą teisinę pagalbą tiesiogiai kompetentingoms valstybės garantuojamą teisinę pagalbą organizuojančioms institucijoms. Sprendimas dėl valstybės garantuojamos teisinės pagalbos teikimo gali būti priimamas ir pagal šio straipsnio 1 ir 2 dalyse nurodytų institucijų kreipimąsi, nors nėra atskiro pareiškėjo prašymo suteikti valstybės garantuojamą teisinę pagalbą, kai iš Reglamento (EB) Nr. 4/2009 56 straipsnyje nurodytų prašymų yra aiški reikalingos valstybės garantuojamos teisinės pagalbos apimtis ir šiuose prašymuose yra pateikta visa informacija, reikalinga sprendimui dėl valstybės garantuojamos teisinės pagalbos teikimo priimti.
+
+
+
+
+5. Atlikdamos Reglamente (EB) Nr. 4/2009 nustatytas centrinės institucijos funkcijas, Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, kadastrų ir registrų duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti. Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, nepažeisdamos Reglamento (EB) Nr. 4/2009, ypač šio reglamento 53, 61, 62, 63 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių prieigą prie asmens duomenų, jų naudojimą ir perdavimą, reikalavimų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
  
-
-
-
-
-5. Atlikdamos Reglamente (EB) Nr. 4/2009 nustatytas centrinės institucijos funkcijas, Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, kadastrų ir registrų duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti. Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, nepažeisdamos Reglamento (EB) Nr. 4/2009, ypač 53, 61, 62, 63 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių prieigą prie asmens duomenų, jų naudojimą ir perdavimą, reikalavimų.
- 
-
-
 
 
 
@@ -986,7 +985,7 @@ Su išlaikymo prievolėmis susijusios bylos nagrinėjamos Lietuvos Respublikos c
 319 straipsnis. Centrinė institucija ir kitos kompetentingos institucijos
 
 
-1. Centrinė institucija Konvencijoje nustatytoms funkcijoms atlikti, paskirta pagal Konvencijos 4 straipsnio 1 dalį, yra Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba.
+1. Centrinė institucija Konvencijoje nustatytoms funkcijoms atlikti, paskirta pagal Konvencijos 4 straipsnio 1 dalį, yra Valstybės garantuojamos teisinės pagalbos tarnyba.
 
 
 
@@ -996,20 +995,22 @@ Su išlaikymo prievolėmis susijusios bylos nagrinėjamos Lietuvos Respublikos c
 
 
 
-3. Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Vaikų išlaikymo fondo administracijai prie Socialinės apsaugos ir darbo ministerijos. Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Konvencijos 12 straipsnyje nustatyta tvarka, taip pat atlieka kitas Konvencijos 12 straipsnio 3–9 dalyse nurodytas funkcijas.
+3. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Vaikų išlaikymo fondo administracijai prie Socialinės apsaugos ir darbo ministerijos. Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Konvencijos 12 straipsnyje nustatyta tvarka, taip pat atlieka kitas Konvencijos 12 straipsnio 3–9 dalyse nurodytas funkcijas.
 
 
 
 
-4. Kai aplinkybės reikalauja, valstybės garantuojamos teisinės pagalbos teikimas dėl Konvencijos 10 straipsnyje nurodytų prašymų užtikrinamas Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka tiek, kiek šis įstatymas ir Konvencija nenustato kitaip. Kai nagrinėjant Konvencijos 10 straipsnyje nurodytus prašymus paaiškėja, kad pareiškėjui reikalinga valstybės garantuojama teisinė pagalba, šio straipsnio 1 ir 2 dalyse nurodytos institucijos perduoda pareiškėjo prašymą suteikti valstybės garantuojamą teisinę pagalbą tiesiogiai kompetentingoms valstybės garantuojamą teisinę pagalbą organizuojančioms institucijoms. Prašymas suteikti valstybės garantuojamą teisinę pagalbą pateikiamas naudojant 1980 m. spalio 25 d. Konvencijoje dėl tarptautinės teisės kreiptis į teismą nustatytą teisinės pagalbos prašymo formą. Sprendimas dėl valstybės garantuojamos teisinės pagalbos teikimo gali būti priimamas ir pagal šio straipsnio 1 ir 2 dalyse nurodytų institucijų kreipimąsi, nors nėra atskiro pareiškėjo prašymo suteikti valstybės garantuojamą teisinę pagalbą, kai iš Konvencijos 10 straipsnyje nurodytų prašymų yra aiški reikalingos valstybės garantuojamos teisinės pagalbos apimtis ir šiuose prašymuose yra pateikta visa informacija, reikalinga sprendimui dėl valstybės garantuojamos teisinės pagalbos teikimo priimti. Kai pagal Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymą teikiama valstybės garantuojama teisinė pagalba neapima vertimo išlaidų, pareiškėjas, vadovaudamasis Konvencijos 45 straipsnio 3 dalies nuostatomis, turi atlyginti šio straipsnio 1 ir 2 dalyse nurodytoms institucijoms jų patirtas pareiškėjo prašymo ir kitų susijusių dokumentų vertimo išlaidas. 
+4. Kai aplinkybės reikalauja, valstybės garantuojamos teisinės pagalbos teikimas dėl Konvencijos 10 straipsnyje nurodytų prašymų užtikrinamas Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka tiek, kiek šis įstatymas ir Konvencija nenustato kitaip. Kai nagrinėjant Konvencijos 10 straipsnyje nurodytus prašymus paaiškėja, kad pareiškėjui reikalinga valstybės garantuojama teisinė pagalba, šio straipsnio 1 ir 2 dalyse nurodytos institucijos perduoda pareiškėjo prašymą suteikti valstybės garantuojamą teisinę pagalbą tiesiogiai kompetentingoms valstybės garantuojamą teisinę pagalbą organizuojančioms institucijoms. Prašymas suteikti valstybės garantuojamą teisinę pagalbą pateikiamas naudojant 1980 m. spalio 25 d. Konvencijoje dėl tarptautinės teisės kreiptis į teismą nustatytą teisinės pagalbos prašymo formą. Sprendimas dėl valstybės garantuojamos teisinės pagalbos teikimo gali būti priimamas ir pagal šio straipsnio 1 ir 2 dalyse nurodytų institucijų kreipimąsi, nors nėra atskiro pareiškėjo prašymo suteikti valstybės garantuojamą teisinę pagalbą, kai iš Konvencijos 10 straipsnyje nurodytų prašymų yra aiški reikalingos valstybės garantuojamos teisinės pagalbos apimtis ir šiuose prašymuose yra pateikta visa informacija, reikalinga sprendimui dėl valstybės garantuojamos teisinės pagalbos teikimo priimti. Kai pagal Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymą teikiama valstybės garantuojama teisinė pagalba neapima vertimo išlaidų, pareiškėjas, vadovaudamasis Konvencijos 45 straipsnio 3 dalies nuostatomis, turi atlyginti šio straipsnio 1 ir 2 dalyse nurodytoms institucijoms jų patirtas pareiškėjo prašymo ir kitų susijusių dokumentų vertimo išlaidas. 
 
 
 
 
-5. Atlikdamos Konvencijoje nustatytas centrinės institucijos funkcijas, Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, kadastrų ir registrų duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti. Vilniaus valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Konvencijoje nustatytoms funkcijoms atlikti, nepažeisdamos Konvencijos, ypač 38, 39, 40 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų tvarkymą, reikalavimų. 
+5. Atlikdamos Konvencijoje nustatytas centrinės institucijos funkcijas, Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, kadastrų ir registrų duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti. Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Konvencijoje nustatytoms funkcijoms atlikti, nepažeisdamos Konvencijos, ypač šios konvencijos 38, 39, 40 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų tvarkymą, reikalavimų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
  
-
-
 
 
 
@@ -1291,3 +1292,8 @@ Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2197, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20895
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 trečiojo skirsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
+Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 31-5, 31-9 straipsnių ir priedo pakeitimo ir Įstatymo papildymo devintuoju-5 skirsniu įstatymas
