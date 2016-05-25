@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-05-24
+Suvestinė redakcija nuo 2016-05-25 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
  
@@ -382,12 +382,26 @@ SMURTO ARTIMOJE APLINKOJE SUBJEKTŲ TEISĖS
 
 
 
-2) gauti specializuotą kompleksinę pagalbą, numatytą smurtą patyrusiems asmenims;
+2) nedelsiant gauti informaciją iš policijos pareigūno ir (ar) tyrėjo apie smurtautojo sulaikymą ir apie smurtautojui taikomas ar baigiamas taikyti kardomąsias priemones, užtikrinančias smurtą patyrusio asmens saugumą; 
+Papildyta straipsnio punktu:
+Nr. XII-2339, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13905
+ 
 
 
 
 
-3) kreiptis ir gauti pagalbą šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nustatyta tvarka.
+3) gauti specializuotą kompleksinę pagalbą, numatytą smurtą patyrusiems asmenims;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2339, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13905
+ 
+
+
+
+
+4) kreiptis ir gauti pagalbą šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2339, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13905
+ 
 
 
 
@@ -539,3 +553,8 @@ Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-142
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1717, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08062
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2339, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13905
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 10 straipsnio pakeitimo įstatymas
