@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-05-27
+Suvestinė redakcija nuo 2016-05-28 iki 2016-07-13
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3350,8 +3350,11 @@ užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūks
 120 straipsnis. Kreditorių teisių pažeidimas
 
 
-1. Kreditorių teisių pažeidimas (kreditorių reikalavimų tenkinimo eilės ir tvarkos pažeidimas, pareiškimo dėl bankroto bylos iškėlimo nepateikimas teismui, kreditorių susirinkimų nesušaukimas įstatymuose numatytais atvejais)
+1. Kreditorių teisių pažeidimas (kreditorių reikalavimų tenkinimo eilės ir tvarkos pažeidimas, pareiškimo dėl bankroto bylos iškėlimo nepateikimas ar pavėluotas pateikimas teismui, kreditorių susirinkimų nesušaukimas įstatymuose numatytais atvejais)
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
@@ -5840,6 +5843,26 @@ užtraukia įspėjimą arba baudą nuo trisdešimt iki šešiasdešimt eurų.
  
 
 
+
+
+
+
+2171 straipsnis. Reglamente (ES) Nr. 2015/1525 nustatytos pareigos pranešti apie konteinerių padėtį nevykdymas
+
+
+1. Reglamente (ES) Nr. 2015/1525 nustatytos pareigos pranešti apie konteinerių padėtį nevykdymas arba neišsamių ar neteisingų duomenų pateikimas
+užtraukia baudą asmenims nuo trisdešimt iki šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+
+Papildyta straipsniu:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
@@ -11900,15 +11923,17 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 395 straipsnis. Bendrųjų oro eismo srautų valdymo taisyklių pažeidimas
 
 
-Bendrųjų oro eismo srautų valdymo taisyklių pažeidimas 
+Bendrųjų oro eismo srautų valdymo taisyklių pažeidimas
 
 
 
 
-užtraukia baudą orlaivių naudotojams – asmenims arba juridinių asmenų vadovams nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir oro navigacijos paslaugų teikėjų vadovams – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą orlaivių naudotojams – asmenims arba juridinių asmenų vadovams nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir oro navigacijos paslaugų teikėjų vadovams, oro uostus valdančių įmonių vadovams, koordinuojamų oro uostų laiko tarpsnių koordinatoriams – asmenims arba juridinių asmenų vadovams nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
-
-
 
 
 
@@ -16902,7 +16927,10 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 308 straipsnio 3, 6 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 2 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 308 straipsnio 3, 6 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 2 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
+Straipsnio punkto pakeitimai:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
@@ -20510,151 +20538,211 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-53. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
+53. 2010 m. kovo 25 d. Komisijos reglamentas (ES) Nr. 255/2010, kuriuo nustatomos bendrosios oro eismo srautų valdymo taisyklės (OL 2010 L 80, p. 10). 
+Papildyta punktu:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-54. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+54. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-55. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).
+55. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-56. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 211/2011 dėl piliečių iniciatyvos (OL 2011 L 65, p. 1).
+56. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-57. 2011 m. kovo  9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (OL 2011 L 88, p. 5).  
+57. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 211/2011 dėl piliečių iniciatyvos (OL 2011 L 65, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-58. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
+58. 2011 m. kovo  9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (OL 2011 L 88, p. 5).  
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-59. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1)
+59. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-60. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1). 
+60. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1)
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-61. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012  dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
+61. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
 
 
 
 
-62. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 600/2012 dėl išmetamo šiltnamio efektą sukeliančių dujų kiekio ataskaitų ir tonkilometrių duomenų ataskaitų patikros ir vertintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 1). 
+62. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012  dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
+
+
+
+
+63. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 600/2012 dėl išmetamo šiltnamio efektą sukeliančių dujų kiekio ataskaitų ir tonkilometrių duomenų ataskaitų patikros ir vertintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 1). 
 Papildyta punktu:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Punkto pakeitimai:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-63. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 601/2012 dėl išmetamųjų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 30). 
+64. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 601/2012 dėl išmetamųjų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 30). 
 Papildyta punktu:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-64. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38). 
+65. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38). 
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-65. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB (OL 2012 L 197, p. 1).
+66. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB (OL 2012 L 197, p. 1).
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-66. 2012 liepos 4 d. Europos Parlamento ir Tarybos reglamentas Nr. (ES) 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60). 
+67. 2012 liepos 4 d. Europos Parlamento ir Tarybos reglamentas Nr. (ES) 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60). 
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-67. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1). 
+68. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1). 
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-68. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18). 
+69. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18). 
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-69. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1). 
+70. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1). 
 Papildyta punktu:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-70. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija) (OL 2013 L 178, p. 27). 
+71. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija) (OL 2013 L 178, p. 27). 
 Papildyta punktu:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-71. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
+72. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-72. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000 (OL 2013 L 354, p. 1). 
+73. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000 (OL 2013 L 354, p. 1). 
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-73. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1). 
+74. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1). 
 Papildyta punktu:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Punkto numeracijos pakeitimas:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
 
 
-74. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
- 
+75. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
 Punkto numeracijos pakeitimas:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+ 
+
+
+
+
+76. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+Papildyta punktu:
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
  
 
 
@@ -20671,3 +20759,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 68-1, 357-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425
 Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo Nr. XII-1869 2, 3, 4, 5, 6 ir 8 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 217-1 straipsniu, 120, 395, 589 straipsnių ir priedo pakeitimo įstatymas
