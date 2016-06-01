@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-05-31
+Suvestinė redakcija nuo 2016-06-01 iki 2016-11-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -1063,7 +1063,10 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 
 
 
-5. Reprografijos įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 2 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, taip pat kompensacinio atlyginimo skaičiavimo, atsižvelgiant į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir 2 dalyse nustatytos techninės apsaugos priemonės, tvarką nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių kolektyvinio administravimo asociacijomis.
+5. Reprografijos įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas, kompensacinio atlyginimo už reprografijos įrenginius ir už atgaminimo reprografijos būdu paslaugas tarifai, nustatyti šio Įstatymo 2 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių kolektyvinio administravimo asociacijomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
+ 
 
 
 
@@ -1118,7 +1121,10 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 
 
 
-10. Apskaitos dokumentuose, kuriais įforminamas paslaugos suteikimas ar įrangos pardavimas, numatytas šio straipsnio 4 dalyje, kompensacinio atlyginimo suma turi būti apskaičiuota, išskirta ir nurodyta atskira eilute, o išrašant sąskaitas jų pastabose nurodoma, kad paslaugas gavęs ar įrangą įsigijęs asmuo turi teisę susigrąžinti kompensacinį atlyginimą šio straipsnio 6 dalyje numatytais atvejais.
+10. Apskaitos dokumentuose, kuriais įforminamas reprografijos įrenginių pardavimas, numatytas šio straipsnio 4 dalyje, kompensacinio atlyginimo suma turi būti apskaičiuota, išskirta ir nurodyta atskira eilute, o išrašant sąskaitas jų pastabose nurodoma, kad reprografijos įrenginius įsigijęs asmuo turi teisę susigrąžinti kompensacinį atlyginimą šio straipsnio 6 dalyje numatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -3877,13 +3883,17 @@ Nr. XII-2237, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21024
 
 
 
- 
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
+Lietuvos Respublikos 
+autorių teisių ir gretutinių 
+teisių įstatymo
 2 priedas
  
-REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪRINIŲ ATGAMINIMĄ, IR KOMPENSACINIO ATLYGINIMO TARIFAI
+REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS, KOMPENSACINIO ATLYGINIMO UŽ REPROGRAFIJOS ĮRENGINIUS IR UŽ ATGAMINIMO REPROGRAFIJOS BŪDU PASLAUGAS TARIFAI
  
 
+
+
+ I. Reprografijos įrenginiai, už kuriuos mokamas kompensacinis atlyginimas, ir kompensacinio atlyginimo už reprografijos įrenginius tarifai  
 
 
  Įrenginiai 
@@ -3892,81 +3902,81 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
 
 
  1. Nespalviniai kopijuokliai 
-   
-   1,8–2,00 
+
+ 1,8–2,00 
 
 
-   
+
  mažos spartos (nuo 12 iki 23 kopijų per minutę) 
  1,8 
 
 
-   
+
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  1,9 
 
 
-   
+
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
  2,00 
 
 
  2. Spalviniai kopijuokliai 
-   
+
  2,7–3,00 
 
 
-   
+
  mažos spartos (nuo 12 iki 23 kopijų per minutę) 
  2,7 
 
 
-   
+
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  2,85 
 
 
-   
+
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
  3,00 
 
 
  3. Nespalviniai daugiafunkciai kopijuokliai 
-   
-   0,6–0,7 
+
+ 0,6–0,7 
 
 
-   
+
  mažos spartos (nuo 12 iki 23 kopijų per minutę) 
  0,6 
 
 
-   
+
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  0,65 
 
 
-   
+
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
  0,7 
 
 
  4. Spalviniai daugiafunkciai kopijuokliai 
-   
-   0,9–1,00 
+
+ 0,9–1,00 
 
 
-   
+
  mažos spartos (nuo 12 iki 23 kopijų per minutę) 
  0,9 
 
 
-   
+
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  0,95 
 
 
-   
+
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
  1,00 
 
@@ -3974,9 +3984,68 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪ
  Pastaba. Kompensacinio atlyginimo tarifas nustatomas procentais nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų reprografijos įrenginių pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių. 
 
 
+ II. Kompensacinio atlyginimo už atgaminimo reprografijos būdu paslaugas tarifai  (eurais) 
 
+
+ Reprografijos įrenginio galingumas 
+ Už paslaugas, teikiamas bibliotekose, švietimo įstaigose, mokslo ir studijų institucijose ar netoli švietimo įstaigų, mokslo ir studijų institucijų 
+ Už paslaugas, teikiamas toli nuo švietimo įstaigų, mokslo ir studijų institucijų 
+ Už paslaugas, teikiamas vietovėse, kuriose nėra švietimo įstaigų, mokslo ir studijų institucijų 
+
+
+ Mažiau kaip 6 kopijos per minutę 
+ 17,37 
+ 11,58 
+ 8,68 
+
+
+ Nuo 6 iki 19 kopijų per minutę 
+ 34,75 
+ 23,16 
+ 17,37 
+
+
+ Nuo 20 iki 39 kopijų per minutę 
+ 52,13 
+ 37,65 
+ 26,06 
+
+
+ Nuo 40 iki 59 kopijų per minutę 
+ 81,09 
+ 55,02 
+ 34,75 
+
+
+ Nuo 60 iki 89 kopijų per minutę 
+ 98,47 
+ 75,30 
+ 49,23 
+
+
+ Daugiau kaip 89 kopijos per minutę 
+ 115,84 
+ 92,67 
+ 57,92 
+
+
+ Pastabos:  1. Reprografijos paslaugas teikiantys asmenys kompensacinį atlyginimą, skaičiuojamą už reprografijos paslaugas, moka vieną kartą per metus, pasibaigus kalendoriniams metams, už kuriuos mokamas kompensacinis atlyginimas. 2. Laikoma, kad reprografijos paslaugos teikiamos netoli švietimo įstaigos, mokslo ir studijų institucijos, jeigu švietimo įstaiga, mokslo ir studijų institucija yra ne toliau kaip už 500 metrų nuo reprografijos paslaugų teikimo vietos. 3. Tais atvejais, kai reprografijos paslaugoms naudojami reprografijos įrenginiai, darantys spalvotas kopijas, kompensacinio atlyginimo tarifai didinami 25 procentais. 
+
+
+
+
+
+
+
+
+
+
+ 
 Įstatymas papildytas 2 priedu:
 Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+Priedo pakeitimai:
+Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
+ 
 
 
 
@@ -4116,3 +4185,8 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2237, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21024
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 1 priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 20-1 straipsnio ir 2 priedo pakeitimo įstatymas
