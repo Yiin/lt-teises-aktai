@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-06-08
+Suvestinė redakcija nuo 2016-06-09 iki 2016-09-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -595,20 +595,17 @@ LIETUVOS AUKŠČIAUSIASIS TEISMAS
 
 
 
-4. Aukščiausiajame Teisme sudaromas Aukščiausiojo Teismo senatas. 
+4. Aukščiausiojo Teismo organizavimo ir veiklos klausimus nustato šis Įstatymas, Lietuvos Respublikos baudžiamojo proceso kodeksas, Lietuvos Respublikos civilinio proceso kodeksas, kiti įstatymai.
 
 
 
 
-5. Aukščiausiojo Teismo organizavimo ir veiklos klausimus nustato šis Įstatymas bei įstatymu patvirtintas Aukščiausiojo Teismo statutas. 
+5. Aukščiausiojo Teismo buveinė yra Lietuvos Respublikos sostinėje Vilniuje.
 
 
-
-
-6. Aukščiausiojo Teismo buveinė yra Lietuvos Respublikos sostinėje Vilniuje.
+Straipsnio pakeitimai:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
  
-
-
 
 
 
@@ -621,136 +618,54 @@ LIETUVOS AUKŠČIAUSIASIS TEISMAS
 
 
 
-2. Aukščiausiasis Teismas formuoja vienodą bendrosios kompetencijos teismų praktiką aiškinant ir taikant įstatymus ir kitus teisės aktus. Tam Aukščiausiasis Teismas:
-
-
-1) skelbia skyrių plenarinių sesijų nutartis, taip pat trijų ir išplėstinių septynių teisėjų kolegijų nutartis, dėl kurių paskelbimo pritarė dauguma atitinkamo skyriaus teisėjų. Į Aukščiausiojo Teismo biuletenyje paskelbtose nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia teismai, valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus;
+2. Aukščiausiasis Teismas formuoja vienodą bendrosios kompetencijos teismų praktiką aiškinant ir taikant įstatymus ir kitus teisės aktus. 
 
 
 
 
-2) analizuoja teismų praktiką taikant įstatymus ir kitus teisės aktus ir teikia rekomendacinius išaiškinimus;
+3. Į Aukščiausiojo Teismo nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus.
 
 
 
 
-3) gali konsultuoti teisėjus įstatymų ir kitų teisės aktų aiškinimo ir taikymo klausimais. 
+4. Plėtodamas ir užtikrindamas vienodą teisės aiškinimą ir taikymą bendrosios kompetencijos teismuose, Aukščiausiasis Teismas analizuoja nacionalinių, Europos Sąjungos ir tarptautinių teismų praktiką, kitus teisės šaltinius, rengia teismų praktikos apibendrinimus, apžvalgas, viešai skelbia informaciją apie savo veiklą.
 
 
 
 
-
-
-3. Aukščiausiasis Teismas, vadovaudamasis Europos Sąjungos teisminių institucijų išaiškinimais, analizuoja ir apibendrina bendrosios kompetencijos teismų praktiką taikant Europos Sąjungos teisės normas ir teikia rekomendacijas dėl Lietuvos bendrosios kompetencijos teismų ir Europos Sąjungos teisminių institucijų bendradarbiavimo užtikrinant vienodą Europos Sąjungos teisės aktų aiškinimą ir taikymą Lietuvos Respublikoje.
-
-
-
-
-4. Aukščiausiasis Teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
+5. Aukščiausiasis Teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
-Nr. XI-1145, 2010-11-18, Žin., 2010, Nr. 142-7260 (2010-12-04), administracinių teisės pažeidimų bylos, pradėtos ir nebaigtos iki šio įstatymo įsigaliojimo, nagrinėjamos iki šio įstatymo įsigaliojimo galiojusia tvarka
+Nr. XI-1145, 2010-11-18, Žin., 2010, Nr. 142-7260 (2010-12-04)
+Straipsnio pakeitimai:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
  
 
 
 
 
-24 straipsnis. Aukščiausiojo Teismo senato sudėtis
-
-
-1. Į Aukščiausiojo Teismo senatą įeina Aukščiausiojo Teismo pirmininkas, Civilinių bylų ir Baudžiamųjų bylų skyrių pirmininkai, taip pat po septynis Civilinių bylų skyriaus ir Baudžiamųjų bylų skyriaus didžiausią Aukščiausiojo Teismo teisėjo darbo stažą turinčius teisėjus.
-
-
-
-
-2. Aukščiausiojo Teismo senato pirmininkas yra Aukščiausiojo Teismo pirmininkas.
-
-
-
-
-3. Aukščiausiojo Teismo senatas iš savo narių ketveriems metams išrenka Senato sekretorių. 
+24 straipsnis. Neteko galios nuo 2016-06-09
+Straipsnio naikinimas:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
  
 
 
 
 
-
-
-25 straipsnis. Aukščiausiojo Teismo senato kompetencija
-
-
-Aukščiausiojo Teismo senatas:
-
-
-1) tvirtina teismų praktikos taikant įstatymus ir kitus teisės aktus atskirų kategorijų bylose apibendrinimo apžvalgas ir teikia rekomendacinius išaiškinimus;
-
-
-
-
-2) svarsto medžiagos paskelbimo Aukščiausiojo Teismo biuletenyje būtinumą, išskyrus šio Įstatymo 23 straipsnio 2 dalies 1 ir 2 punktuose numatytus atvejus;
-
-
-
-
-3) sprendžia kitus Senato kompetencijai įstatymų priskirtus klausimus; 
-
-
-
-
-4) Aukščiausiojo Teismo pirmininko teikimu sprendžia kitus šio teismo veiklos klausimus.
+25 straipsnis. Neteko galios nuo 2016-06-09
+Straipsnio naikinimas:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
  
 
 
 
 
-
-
-
-
-26 straipsnis. Aukščiausiojo Teismo senato posėdžiai
-
-
-1. Aukščiausiojo Teismo senato posėdžius šaukia Senato pirmininkas.
-
-
-
-
-2. Aukščiausiojo Teismo senato posėdžiuose su patariamuoju balsu turi teisę dalyvauti Aukščiausiojo Teismo teisėjai, kurie nėra Senato nariai.
-
-
-
-
-3. Į Aukščiausiojo Teismo senato posėdžius kviečiami Seimo Teisės ir teisėtvarkos komiteto pirmininkas, teisingumo ministras, Lietuvos vyriausiojo administracinio teismo pirmininkas, generalinis prokuroras, Advokatų tarybos pirmininkas, prireikus – ir kiti asmenys. Kai šie asmenys Senato posėdyje dalyvauti negali, jame gali dalyvauti Seimo Teisės ir teisėtvarkos komiteto pirmininko pavaduotojas, teisingumo viceministras, Lietuvos vyriausiojo administracinio teismo pirmininko pavaduotojas, generalinio prokuroro pavaduotojas, Advokatų tarybos pirmininko pavaduotojas.
-
-
-
-
-4. Aukščiausiojo Teismo senato posėdžiuose gali dalyvauti kitų teismų pirmininkai, jų pavaduotojai, skyrių pirmininkai ir kiti teisėjai.
-
-
-
-
-5. Aukščiausiojo Teismo senato posėdžio darbotvarkė ne vėliau kaip prieš dešimt dienų iki Senato posėdžio pranešama, dokumentų nuorašai ir projektai išsiunčiami Senato nariams, kitiems Aukščiausiojo Teismo teisėjams, Apeliacinio teismo, Lietuvos vyriausiojo administracinio teismo, apygardų teismų, apygardų administracinių teismų ir apylinkių teismų pirmininkams, Seimo Teisės ir teisėtvarkos komiteto pirmininkui, teisingumo ministrui, generaliniam prokurorui, Advokatų tarybos pirmininkui, prireikus – ir kitiems asmenims.
-
-
-
-
-6. Aukščiausiojo Teismo senato posėdžiui pirmininkauja Aukščiausiojo Teismo pirmininkas, o kai šio nėra, – Aukščiausiojo Teismo pirmininko pareigas einantis šio teismo skyriaus pirmininkas. 
-
-
-
-
-7. Aukščiausiojo Teismo senato posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip du trečdaliai Senato narių. Senato nutarimai priimami balsuojant. Nutarimas yra priimtas, jeigu už jį balsavo daugiau kaip pusė posėdyje dalyvavusių Senato narių. Jei balsai pasiskirsto po lygiai, lemia Senato pirmininko balsas.
-
-
-
-
-8. Aukščiausiojo Teismo senato nutarimus pasirašo Senato pirmininkas ir sekretorius.
+26 straipsnis. Neteko galios nuo 2016-06-09
+Straipsnio naikinimas:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
  
-
-
 
 
 
@@ -758,22 +673,10 @@ Aukščiausiojo Teismo senatas:
 27 straipsnis. Aukščiausiojo Teismo biuletenis
 
 
-1. Aukščiausiasis Teismas leidžia biuletenį „Teismų praktika“. Biuletenyje periodiškai skelbiama:
-
-
-1) šio Įstatymo 23 straipsnio 2 dalies 1 punkte ir 3 dalyje numatytos nutartys ir rekomendacijos;
-
-
-
-
-2) Senato patvirtintos teismų praktikos taikant įstatymus ir kitus teisės aktus atskirų kategorijų bylose apibendrinimo apžvalgos ir rekomendaciniai išaiškinimai;
-
-
-
-
-3) kita medžiaga, kurios paskelbimo būtinumą pripažįsta Senatas.
-
-
+1. Aukščiausiasis Teismas leidžia biuletenį „Teismų praktika“. Biuletenyje skelbiama aktuali informacija apie teismų praktiką, teismų praktikos apibendrinimai ir apžvalgos, kurių skelbimui pritarė atitinkamas Aukščiausiojo Teismo skyrius. Be to, biuletenyje gali būti skelbiama ir kita informacija apie Aukščiausiojo Teismo veiklą, medžiaga, reikšminga vienodam teisės aiškinimui ir taikymui užtikrinti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
+ 
 
 
 
@@ -868,54 +771,41 @@ LIETUVOS VYRIAUSIASIS ADMINISTRACINIS TEISMAS
 
 
 
-2) apeliacinė instancija byloms dėl apygardų administracinių teismų sprendimų, nutarimų ir nutarčių; 
+2) apeliacinė instancija byloms dėl apygardų administracinių teismų sprendimų ir nutarčių; 
 
 
 
 
-3) (neteko galios nuo 2011 m. sausio 1 d.);
-
-
-
-
-4) instancija, įstatymų nustatytais atvejais nagrinėjanti prašymus dėl proceso atnaujinimo užbaigtose administracinėse bylose.
+3) instancija, įstatymų nustatytais atvejais nagrinėjanti prašymus dėl proceso atnaujinimo užbaigtose administracinėse bylose.
 
 
 
 
 
 
-2. Vyriausiasis administracinis teismas formuoja vienodą administracinių teismų praktiką aiškinant ir taikant įstatymus ir kitus teisės aktus. Tam Vyriausiasis administracinis teismas:
-
-
-1) skelbia šio teismo plenarinės sesijos priimtus sprendimus, nutarimus ir nutartis, trijų teisėjų kolegijų ir išplėstinių penkių teisėjų kolegijų priimtus sprendimus, nutarimus ir nutartis, dėl kurių paskelbimo pritarė dauguma šio teismo teisėjų, taip pat visus sprendimus dėl norminių administracinių aktų teisėtumo. Į Vyriausiojo administracinio teismo biuletenyje paskelbtuose sprendimuose, nutarimuose ir nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia teismai, valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus;
+2. Vyriausiasis administracinis teismas formuoja vienodą administracinių teismų praktiką aiškinant ir taikant įstatymus ir kitus teisės aktus. 
 
 
 
 
-2) analizuoja administracinių teismų praktiką taikant įstatymus ir kitus teisės aktus ir teikia rekomendacinius išaiškinimus;
+3. Į Vyriausiojo administracinio teismo sprendimuose ir nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus.
 
 
 
 
-3) gali konsultuoti administracinių teismų teisėjus įstatymų ir kitų teisės aktų aiškinimo ir taikymo klausimais.
+4. Plėtodamas ir užtikrindamas vienodą teisės aiškinimą ir taikymą administraciniuose teismuose, Vyriausiasis administracinis teismas analizuoja nacionalinių, Europos Sąjungos ir tarptautinių teismų praktiką, kitus teisės šaltinius, rengia teismų praktikos apibendrinimus, apžvalgas, viešai skelbia informaciją apie savo veiklą.
 
 
 
 
-
-
-3. Vyriausiasis administracinis teismas, vadovaudamasis Europos Sąjungos teisminių institucijų išaiškinimais, analizuoja ir apibendrina administracinių teismų praktiką taikant Europos Sąjungos teisės normas ir teikia rekomendacijas dėl Lietuvos administracinių teismų ir Europos Sąjungos teisminių institucijų bendradarbiavimo užtikrinant vienodą Europos Sąjungos teisės aktų aiškinimą ir taikymą Lietuvos Respublikoje.
-
-
-
-
-4. Vyriausiasis administracinis teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
+5. Vyriausiasis administracinis teismas atlieka ir kitas jo kompetencijai įstatymų priskirtas funkcijas.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
-Nr. XI-1145, 2010-11-18, Žin., 2010, Nr. 142-7260 (2010-12-04), administracinių teisės pažeidimų bylos, pradėtos ir nebaigtos iki šio įstatymo įsigaliojimo, nagrinėjamos iki šio įstatymo įsigaliojimo galiojusia tvarka
+Nr. XI-1145, 2010-11-18, Žin., 2010, Nr. 142-7260 (2010-12-04)
+Straipsnio pakeitimai:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
  
 
 
@@ -924,22 +814,10 @@ Nr. XI-1145, 2010-11-18, Žin., 2010, Nr. 142-7260 (2010-12-04), administracini�
 32 straipsnis. Vyriausiojo administracinio teismo biuletenis
 
 
-1. Vyriausiasis administracinis teismas leidžia biuletenį „Administracinių teismų praktika“. Biuletenyje periodiškai skelbiama:
-
-
-1) šio Įstatymo 31 straipsnio 2 dalies 1 punkte ir 3 dalyje numatyti sprendimai, nutarimai, nutartys ir rekomendacijos;
-
-
-
-
-2) teismų praktikos taikant įstatymus ir kitus teisės aktus atskirų kategorijų bylose apibendrinimo apžvalgos ir rekomendaciniai išaiškinimai;
-
-
-
-
-3) kita medžiaga, kurios paskelbimui pritarė dauguma šio teismo teisėjų.
-
-
+1. Vyriausiasis administracinis teismas leidžia biuletenį. Jame skelbiama aktuali informacija apie teismų praktiką, teismų praktikos apibendrinimai ir apžvalgos, kurių skelbimui pritarė dauguma šio teismo teisėjų. Be to, šiame biuletenyje gali būti skelbiama ir kita informacija apie Vyriausiojo administracinio teismo veiklą, medžiaga, reikšminga vienodam teisės aiškinimui ir taikymui užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
+ 
 
 
 
@@ -971,7 +849,10 @@ BYLŲ NAGRINĖJIMAS TEISMUOSE
 
 
 
-2. Nagrinėdami bylas, teismai taip pat vadovaujasi oficialiai paskelbtais Lietuvos Respublikos Konstitucinio Teismo nutarimais ir atsižvelgia į Aukščiausiojo Teismo biuletenyje paskelbtas šio teismo nutartis bei Vyriausiojo administracinio teismo biuletenyje paskelbtus šio teismo sprendimus, nutarimus ir nutartis.
+2. Nagrinėdami bylas, teismai taip pat vadovaujasi oficialiai paskelbtais Lietuvos Respublikos Konstitucinio Teismo nutarimais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
+ 
 
 
 
@@ -5202,3 +5083,13 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 53-2 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2246, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00048
 Lietuvos Respublikos teismų įstatymo Nr. I-480 41 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2379, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14740
+Lietuvos Respublikos teismų įstatymo Nr. I-480 51 ir 53-2 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
+Lietuvos Respublikos teismų įstatymo Nr. I-480 22, 23, 27, 31, 32, 33 straipsnių pakeitimo ir 24, 25, 26 straipsnių pripažinimo netekusiais galios įstatymas
