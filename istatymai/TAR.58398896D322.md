@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-09-01 iki 2016-06-08
+Suvestinė redakcija nuo 2016-06-09 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
  
@@ -1043,7 +1043,7 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 30 straipsnis. Probacijos vykdymo ir vengimo vykdyti teisinės pasekmės
 
 
-1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, nepadarė šio straipsnio 2 dalies 3 punkte numatytų pažeidimų, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš pataisos įstaigų terminas, laikomas atlikusiu bausmę.
+1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, nepadarė šio straipsnio 2 dalies 2 ir 3 punktuose numatytų pažeidimų, dėl kurių buvo priimtas sprendimas panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš pataisos įstaigos terminas, laikomas atlikusiu bausmę.
 
 
 
@@ -1051,24 +1051,29 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 2. Jeigu probuojamasis probacijos vykdymo laikotarpiu:
 
 
-1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdo probacijos sąlygų, teismas probacijos tarnybų teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
+1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdė probacijos sąlygų, teismas probacijos tarnybos teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
 
 
 
 
-2) vykdo probacijos sąlygas, tačiau padaro kitų teisės pažeidimų, už kuriuos jam ne mažiau kaip du kartus taikytos administracinės nuobaudos, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybų teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių;
+2) vykdo probacijos sąlygas, tačiau padaro kitų teisės pažeidimų, už kuriuos jam taikytos administracinės nuobaudos, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
 
 
 
 
-3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro teisės pažeidimą, už kurį jam taikyta administracinė nuobauda, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybų teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigų ir vykdyti likusią bausmės dalį.
+3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro teisės pažeidimą, už kurį jam taikyta administracinė nuobauda, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+
+
+
+
+3. Probacijos tarnyba, nustačiusi šio straipsnio 2 dalies 2 ar 3 punkte nurodytus probuojamojo padarytus teisės pažeidimus ir (ar) probacijos sąlygų nevykdymo atvejus, teikimą teismui pateikia nedelsdama, bet ne vėliau kaip per vieną darbo dieną.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2408, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15663
  
-
-
 
 
 
@@ -1232,3 +1237,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 11, 17, 18, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2408, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15663
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 30 straipsnio pakeitimo įstatymas
