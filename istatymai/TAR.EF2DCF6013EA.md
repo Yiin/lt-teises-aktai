@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ef2dcf6013ea11e58569be21ff080a8c"
 
 # Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2015-12-02 iki 2016-06-08
+Suvestinė redakcija nuo 2016-06-09 iki 2016-11-16
  
 Įstatymas paskelbtas: TAR 2015-06-16, i. k. 2015-09613
  
@@ -74,7 +74,7 @@ Papildyti 163 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 
-2) kai šalis netenka veiksnumo;
+2) kai šalis netenka veiksnumo tam tikroje srityje;
 
 
 
@@ -121,17 +121,18 @@ Papildyti 163 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 
+2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais. 
 
 
 
 
 
 
-2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.“
 
 
 Straipsnio pakeitimai:
 Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
+Nr. XII-2410, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15665
  
 
 
@@ -207,4 +208,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
+Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2410, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15665
 Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 2 straipsnio pakeitimo įstatymas
