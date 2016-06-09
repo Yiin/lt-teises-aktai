@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2015-12-03 iki 2016-06-08
+Suvestinė redakcija nuo 2016-06-09 iki 2016-06-15
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -473,30 +473,25 @@ Nr. XI-1485, 2011-06-21, Žin., 2011, Nr. 85-4131 (2011-07-13)
 
 
 
-2. Lietuvos vyriausiasis administracinis teismas skelbia plenarinės sesijos priimtus sprendimus, nutarimus ir nutartis, taip pat trijų teisėjų kolegijų ir išplėstinių penkių arba septynių teisėjų kolegijų priimtus sprendimus, nutarimus ir nutartis, kurių paskelbimui pritarė dauguma šio teismo teisėjų, bei visus sprendimus dėl norminių administracinių aktų teisėtumo. Į Lietuvos vyriausiojo administracinio teismo biuletenyje paskelbtuose sprendimuose, nutarimuose ir nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia teismai, valstybės ir kitos institucijos, taip pat kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus.
+2. Plėtodamas ir užtikrindamas vienodą teisės aiškinimą ir taikymą administraciniuose teismuose, Lietuvos vyriausiasis administracinis teismas analizuoja nacionalinių, Europos Sąjungos ir tarptautinių teismų praktiką, kitus teisės šaltinius, rengia teismų praktikos apibendrinimus, apžvalgas, viešai skelbia informaciją apie savo veiklą, atlieka kitus veiksmus pagal kompetenciją.
 
 
 
 
-3. Lietuvos vyriausiasis administracinis teismas analizuoja administracinių teismų praktiką įstatymų ir kitų teisės aktų taikymo klausimais ir teikia rekomendacinius išaiškinimus.
+3. Į Lietuvos vyriausiojo administracinio teismo sprendimuose ir nutartyse esančius įstatymų ir kitų teisės aktų taikymo išaiškinimus atsižvelgia valstybės ir kitos institucijos, kiti asmenys, taikydami tuos pačius įstatymus ir kitus teisės aktus.
 
 
 
 
-4. Lietuvos vyriausiasis administracinis teismas susipažindamas su administracinių teismų praktika bei kitomis formomis gali konsultuoti šių teismų teisėjus įstatymų ir kitų teisės aktų aiškinimo bei taikymo klausimais.
-
-
-
-
-5. Vyriausiasis administracinis teismas, vadovaudamasis Europos Sąjungos teisminių institucijų išaiškinimais, analizuoja ir apibendrina administracinių teismų praktiką taikant Europos Sąjungos teisės normas ir teikia rekomendacijas dėl Lietuvos administracinių teismų ir Europos Sąjungos teisminių institucijų bendradarbiavimo užtikrinant vienodą Europos Sąjungos teisės aktų aiškinimą ir taikymą Lietuvos Respublikoje.
-6 Lietuvos vyriausiasis administracinis teismas leidžia biuletenį „Administracinių teismų praktika“.
+4. Lietuvos vyriausiasis administracinis teismas leidžia biuletenį. Jame skelbiama aktuali informacija apie teismų praktiką, teismų praktikos apibendrinimai ir apžvalgos, kurių skelbimui pritarė dauguma šio teismo teisėjų, taip pat gali būti skelbiama ir kita informacija apie Lietuvos vyriausiojo administracinio teismo veiklą, medžiaga, reikšminga vienodam teisės aiškinimui ir taikymui užtikrinti.
 
 
 Straipsnio pakeitimai:
 Nr. IX-777, 2002-03-12, Žin., 2002, Nr. 31-1125 (2002-03-27)
 Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
 Nr. XI-1599, 2011-09-22, Žin., 2011, Nr. 119-5617 (2011-10-01)
- 
+Straipsnio pakeitimai:
+Nr. XII-2403, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15661
  
 
 
@@ -5884,3 +5879,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 71, 88-1, 98 ir 99 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2403, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15661
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13 straipsnio pakeitimo įstatymas
