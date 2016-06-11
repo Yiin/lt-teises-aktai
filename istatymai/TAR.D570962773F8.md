@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2014-12-30 iki 2016-06-10
+Suvestinė redakcija nuo 2016-06-11 iki 2016-07-15
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
  
@@ -113,7 +113,10 @@ ATMINTINŲ DIENŲ
 
 
 
-16) balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena;
+16) balandžio paskutinis sekmadienis – Pasaulinė gyvybės diena, Geologų diena;
+Straipsnio punkto pakeitimai:
+Nr. XII-2405, 2016-06-02, paskelbta TAR 2016-06-10, i. k. 2016-16077
+ 
 
 
 
@@ -420,7 +423,6 @@ Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 
 
 61) gruodžio 10-oji – Tarptautinė žmogaus teisių diena.
- 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
  
@@ -455,6 +457,7 @@ Nr. XII-827, 2014-04-15, paskelbta TAR 2014-04-18, i. k. 2014-04556
 
 
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -580,4 +583,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2405, 2016-06-02, paskelbta TAR 2016-06-10, i. k. 2016-16077
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
