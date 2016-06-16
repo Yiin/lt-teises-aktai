@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2014-11-14 iki 2016-06-15
+Suvestinė redakcija nuo 2016-06-16 iki 2016-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
  
@@ -353,20 +353,22 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 9 straipsnis. Tarifai, kainos, rinkliavos
 
 
-1. Transporto veiklos paslaugų tarifai ir kainos grindžiamos laisvosios rinkos kainodaros principais ir nustatomi sutartyse tarp šalių, jeigu kiti įstatymai nenustato ko kita.
+1. Transporto veiklos paslaugų tarifai ir kainos grindžiami laisvosios rinkos kainodaros principais ir nustatomi transporto infrastruktūros objekto valdytojo ir naudotojo sutartyse, jeigu kituose įstatymuose nenustatyta kitaip.
 
 
 
 
-2. Visi transporto infrastruktūros naudotojai už naudojimąsi transporto infrastruktūra privalo mokėti transporto infrastruktūros objekto valdytojui (savininkui) rinkliavas. Rinkliavų dydžius ir jų mokėjimo tvarką nustato transporto infrastruktūros objekto savininkas, atsižvelgdamas į išlaidas, reikalingas šiems objektams eksploatuoti.
+2. Visi transporto infrastruktūros naudotojai už naudojimąsi transporto infrastruktūra privalo mokėti transporto infrastruktūros objekto valdytojui (savininkui) rinkliavas. Rinkliavų dydžius ir jų mokėjimo tvarką nustato transporto infrastruktūros objekto savininkas, atsižvelgdamas į išlaidas, reikalingas šiems objektams eksploatuoti, jeigu kituose įstatymuose nenustatyta kitaip. 
 
 
 
 
-3. Lėšos, gautos už naudojimąsi viešąja transporto infrastruktūra, naudojamos tik šios infrastruktūros funkcionavimui užtikrinti ir šio Įstatymo 15 straipsnio 2 dalyje numatytoms programoms finansuoti. 
+3. Lėšos, gautos už naudojimąsi viešąja transporto infrastruktūra, naudojamos tik šios infrastruktūros funkcionavimui užtikrinti ir šio Įstatymo 15 straipsnio 2 dalyje numatytoms programoms finansuoti. Šis reikalavimas netaikomas tais atvejais, kai viešojo transporto infrastruktūros valdymas perduodamas investuotojui teisės aktų nustatyta tvarka pagal koncesijos ar valdžios ir privataus subjektų partnerystės sutartį, kurioje nustatoma pareiga investuotojui užtikrinti tinkamą perduotos viešosios transporto infrastruktūros priežiūrą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
  
-
-
 
 
 
@@ -550,23 +552,25 @@ VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
 1. Viešosios transporto infrastruktūros objekto valdytojas, garantuodamas optimalų šio objekto funkcionavimą, išlaidų ir pajamų subalansavimą:
 
 
-1) sudaro  galimybę nediskriminacinėmis sąlygomis naudotis viešosios transporto infrastruktūros objektu;
+1) sudaro galimybę nediskriminacinėmis sąlygomis naudotis viešosios transporto infrastruktūros objektu;
 
 
 
 
-2) užtikrina, kad viešosios transporto infrastruktūros objektas  atitiktų saugaus eismo,  aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir 11 straipsniuose, tinkamai prižiūri, modernizuoja ir plėtoja  viešosios transporto infrastruktūros objektus.
+2) užtikrina, kad viešosios transporto infrastruktūros objektas atitiktų saugaus eismo, aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir 11 straipsniuose, tinkamai prižiūri, modernizuoja ir plėtoja viešosios transporto infrastruktūros objektus.
 
 
 
 
 
 
-2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra (jūrų uostų rinkliavas, taip pat rinkliavas už oro navigacijos paslaugas ir naudojimąsi oro uostais, geležinkelių infrastruktūra, pajamas, gautas už jūrų uostų žemės nuomą, kelių priežiūros ir plėtros programos lėšas), valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas šio straipsnio 1 dalyje numatytiems tikslams vykdyti.
+2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra (jūrų uostų rinkliavas, taip pat rinkliavas už oro navigacijos paslaugas ir naudojimąsi oro uostais, geležinkelių infrastruktūra, pajamas, gautas už jūrų uostų žemės nuomą, kelių priežiūros ir plėtros programos lėšas), viešosios transporto infrastruktūros valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas šio straipsnio 1 dalyje numatytiems tikslams, išskyrus atvejus, kai viešosios transporto infrastruktūros valdymas perduodamas investuotojui, kaip tai numatyta šio Įstatymo 9 straipsnio 3 dalyje.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+Straipsnio pakeitimai:
+Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
  
 
 
@@ -1132,3 +1136,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1306, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16787
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 13 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 9 ir 15 straipsnių pakeitimo įstatymas
