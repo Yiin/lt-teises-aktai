@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-06-15
+Suvestinė redakcija nuo 2016-06-16 iki 2016-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -5884,3 +5884,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 71,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2403, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15661
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2401, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16851
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 16 straipsnio pakeitimo įstatymas
