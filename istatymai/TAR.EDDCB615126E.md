@@ -20,7 +20,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-19
+Suvestinė redakcija nuo 2016-06-20 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
  
@@ -28,9 +28,7 @@ Suvestinė redakcija nuo 2016-01-01 iki 2016-06-19
 Nauja įstatymo redakcija nuo 2005-07-01:
 Nr. X-212, 2005-05-19, Žin., 2005, Nr. 71-2558 (2005-06-07)
  
-LIETUVOS RESPUBLIKOS
-PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMAS
 Įstatymo pavadinimas keistas:
 Nr. X-1027, 2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
  
@@ -670,8 +668,10 @@ Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 
 
 1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas iki 1990 m. kovo 11 d. ir faktinis Lietuvoje veikusių SSRS karinių komisariatų pašauktų asmenų prievartinės būtinosios karinės tarnybos SSRS ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose laikas po 1990 m. kovo 11 d., jeigu asmuo už jį negauna kitos valstybės pensijos; 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio 3 dalies 1 punkte (2013 m. gruodžio 3 d. redakcija; Žin., 2013, Nr. 128-6522; 2015 m. birželio 25 d. redakcija; TAR, 2015-07-01, Nr. 10600) nustatytas teisinis reguliavimas tiek, kiek pagal jį tarnybos laikui pareigūnų ir karių valstybinei pensijai skirti prilyginus faktinį tarnybos SSRS vidaus reikalų ministerijos vidaus kariuomenės padaliniuose vykdant Lietuvos Respublikos teritorijoje veikusių pataisos darbų įstaigų ir tardymo izoliatorių apsaugos ir kontrolės funkcijas laiką iki 1990 m. kovo 11 d., tarnybos laikui pareigūnų ir karių valstybinei pensijai skirti neprilygintas faktinis tarnybos SSRS vidaus reikalų ministerijos vidaus kariuomenės padaliniuose vykdant Lietuvos Respublikos teritorijoje veikusių pataisos darbų įstaigų ir tardymo izoliatorių apsaugos ir kontrolės funkcijas laikas nuo 1990 m. kovo 11 d. iki šių įstaigų apsaugą ir kontrolę perėmė Lietuvos Respublika, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 52 straipsniui, konstituciniam teisinės valstybės principui.
 Straipsnio punkto pakeitimai:
 Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
+Nr. KT18-N9/2016, 2016-06-20, paskelbta TAR 2016-06-20, i. k. 2016-17256
  
 
 
@@ -1113,3 +1113,8 @@ Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 3, 6, 7, 9, 16 straipsnių pakeitimo ir Įstatymo papildymo 15-2 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT18-N9/2016, 2016-06-20, paskelbta TAR 2016-06-20, i. k. 2016-17256
+Dėl Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio 3 dalies 1 punkto (2013 m. gruodžio 3 d., 2015 m. birželio 25 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
