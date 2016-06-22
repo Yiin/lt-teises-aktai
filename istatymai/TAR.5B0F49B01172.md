@@ -13,16 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5b0f49b0117211e4adf3c8c5d7681e73"
 
 # Lietuvos Respublikos principinės kariuomenės struktūros 2015 metais, planuojamos principinės kariuomenės struktūros 2020 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2015 metais ir 2020 metais patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2015-03-24 iki 2016-06-21
+Įstatymas netenka galios 2020-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2709, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21556
+Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymas
+ 
+Suvestinė redakcija nuo 2016-06-22 iki 2019-12-31
  
 Įstatymas paskelbtas: TAR 2014-07-22, i. k. 2014-10436
  
  
 
  
-LIETUVOS RESPUBLIKOS
-PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2015 METAIS, PLANUOJAMOS PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2020 METAIS NUSTATYMO, KRAŠTO APSAUGOS SISTEMOS KARIŲ RIBINIŲ SKAIČIŲ IR STATUTINIŲ VALSTYBĖS TARNAUTOJŲ RIBINIO SKAIČIAUS 2015 METAIS IR 2020 METAIS PATVIRTINIMO
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2015 METAIS, PLANUOJAMOS PRINCIPINĖS KARIUOMENĖS STRUKTŪROS 2020 METAIS NUSTATYMO, KRAŠTO APSAUGOS SISTEMOS KARIŲ RIBINIŲ SKAIČIŲ IR STATUTINIŲ VALSTYBĖS TARNAUTOJŲ RIBINIO SKAIČIAUS 2015 METAIS IR 2020 METAIS PATVIRTINIMO ĮSTATYMAS
  
 2014 m. liepos 10 d. Nr. XII-997 Vilnius
  
@@ -112,17 +115,21 @@ Nr. XII-1540, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04086
 
 8) Karo policija.
 
-2. Bendras ribinis karių skaičius 2020 metais nustatomas nuo 15 540 iki 20 260. Iš šio skaičiaus:
+2. Bendras ribinis karių skaičius 2020 metais nustatomas nuo 19 540 iki 25 660. Iš šio skaičiaus:
 
-1) ribinis profesinės karo tarnybos karių skaičius – nuo 8 800 iki 10 600, iš jų: generolų ir admirolų – nuo 9 iki 12, pulkininkų ir jūrų kapitonų – nuo 30 iki 40, pulkininkų leitenantų ir komandorų – nuo 129 iki 150, majorų ir komandorų leitenantų – nuo 379 iki 500;
+1) ribinis profesinės karo tarnybos karių skaičius – nuo 10 000 iki 13 000, iš jų: generolų ir admirolų – nuo 9 iki 12, pulkininkų ir jūrų kapitonų – nuo 30 iki 40, pulkininkų leitenantų ir komandorų – nuo 129 iki 150, majorų ir komandorų leitenantų – nuo 379 iki 500;
 
-2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 1 050 iki 1 590 per metus, iš jų: atliekančių nuolatinę privalomąją pradinę karo tarnybą – 0, dalyvaujančių baziniuose kariniuose mokymuose – nuo 700 iki 1 000, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 350 iki 590;
+2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 3 850 iki 4 590 per metus, iš jų: atliekančių nuolatinę privalomąją pradinę karo tarnybą – nuo 3 500 iki 4 000, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 350 iki 590;
 
-3) ribinis karių savanorių ir kitų aktyviojo rezervo karių skaičius – nuo 4 800 iki 6 300;
+3) ribinis karių savanorių ir kitų aktyviojo rezervo karių skaičius – nuo 4 800 iki 6 300;
 
 4) ribinis pratybose ir mokymuose dalyvaujančių parengtojo rezervo karių  skaičius – nuo 700 iki 1 500;
 
 5) ribinis kariūnų skaičius – nuo 190 iki 270.
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2426, 2016-06-14, paskelbta TAR 2016-06-21, i. k. 2016-17347
+ 
 
 3. Ribinis statutinių valstybės tarnautojų skaičius 2020 metais nustatomas nuo 200 iki 260.
  
@@ -148,4 +155,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1540, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04086
 Lietuvos Respublikos principinės kariuomenės struktūros 2015 metais, planuojamos principinės kariuomenės struktūros 2020 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2015 metais ir 2020 metais patvirtinimo įstatymo Nr. XII-997 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2426, 2016-06-14, paskelbta TAR 2016-06-21, i. k. 2016-17347
+Lietuvos Respublikos principinės kariuomenės struktūros 2015 metais, planuojamos principinės kariuomenės struktūros 2020 metais nustatymo, krašto apsaugos sistemos karių ribinių skaičių ir statutinių valstybės tarnautojų ribinio skaičiaus 2015 metais ir 2020 metais patvirtinimo įstatymo Nr. XII-997 3 straipsnio pakeitimo įstatymas
 
