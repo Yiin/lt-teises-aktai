@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/0bfbf4d024aa11e5b336e9064144f02a"
 
 # Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymo Nr. XII-1529 5 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2016-06-23
+ 
+Įstatymas paskelbtas: TAR 2015-07-07, i. k. 2015-11095
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TABAKO KONTROLĖS ĮSTATYMO NR. I-1143 PAVADINIMO, 1, 2, 3, 14, 17, 18, 26 STRAIPSNIŲ, II SKYRIAUS, III, IV SKYRIŲ, III SKYRIAUS TREČIOJO SKIRSNIO PAVADINIMŲ, PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO  161, 162, 171 STRAIPSNIAIS ĮSTATYMO NR. XII-1529 5 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -522,7 +529,10 @@ ELEKTRONINIŲ CIGAREČIŲ, PILDOMŲJŲ TALPYKLŲ IR ŽOLINIŲ RŪKOMŲJŲ GAMINI
 
 
 
-2. Žolinius rūkomuosius gaminius, pagamintus arba išleistus į laisvą apyvartą iki 2016 m. gegužės 20 d., neatitinkančius Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo reikalavimų, leidžiama pateikti Lietuvos Respublikos rinkai iki 2017 m. gegužės 20 d.
+2. Rūkomuosius žolinius gaminius, pagamintus arba išleistus į laisvą apyvartą iki 2016 m. gegužės 20 d., neatitinkančius Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo reikalavimų, leidžiama pateikti Lietuvos Respublikos rinkai iki 2017 m. gegužės 20 d. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2418, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17404
+ 
 
 
 
@@ -555,3 +565,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2418, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17404
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymo Nr. XII-1529 5 straipsnio pakeitimo įstatymo Nr. XII-1917 2 straipsnio pakeitimo įstatymas
