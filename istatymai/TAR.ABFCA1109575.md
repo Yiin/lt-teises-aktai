@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/abfca110957511e4862ed7d5b632e0aa"
 
 # Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymas
 
-Suvestinė redakcija nuo 2015-07-08 iki 2016-06-22
+Suvestinė redakcija nuo 2016-06-23
  
 Įstatymas paskelbtas: TAR 2015-01-06, i. k. 2015-00098
  
@@ -1699,7 +1699,10 @@ priedas
 
 
 
-3. Elektronines cigaretes ar pildomąsias talpyklas, pagamintas arba išleistas į laisvą apyvartą iki 2016 m. lapkričio 20 d., neatitinkančias šio įstatymo reikalavimų, leidžiama pateikti Lietuvos Respublikos rinkai iki 2017 m. gegužės 20 d.
+3. Elektronines cigaretes ar elektroninių cigarečių pildykles, pagamintas arba išleistas į laisvą apyvartą iki 2016 m. lapkričio 20 d., neatitinkančias šio įstatymo reikalavimų, leidžiama pateikti Lietuvos Respublikos rinkai iki 2017 m. gegužės 20 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-2420, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17406
+ 
 
 
 
@@ -1730,3 +1733,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymo Nr. XII-1529 5 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2420, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17406
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1,16-2, 17-1 straipsniais įstatymo Nr. XII-1529 17 straipsnio pakeitimo įstatymas
