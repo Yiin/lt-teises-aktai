@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-06-26
+Suvestinė redakcija nuo 2016-06-27 iki 2016-06-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -7971,6 +7971,10 @@ Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
 
 
 1. Byla nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš kardomojo kalinimo vietos, taip pat nusprendžiama dėl daiktinių įrodymų.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 235 straipsnio 1 dalis (Žin., 2002, Nr. 37-1341) tiek, kiek nustatyta, kad byla nutraukiama, kai yra Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
+ 
 
 
 
@@ -8437,6 +8441,10 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 
 4. Nagrinėjimo teisme metu, kai nustatomos šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, byla nutraukiama teismo nutartimi.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 254 straipsnio 4 dalis (2003 m. balandžio 10 d. redakcija; Žin., 2003, Nr. 38-1734) tiek, kiek pagal ją nagrinėjimo teisme metu, kai nustatoma Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, byla nutraukiama teismo nutartimi, teismui neišsprendus, ar kaltinamasis pagrįstai buvo kaltinamas padaręs nusikalstamą veiką, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
+ 
 
 
 
@@ -10662,6 +10670,10 @@ Apeliacinės instancijos teismas panaikina pirmosios instancijos teismo nuospren
 
 
 1) yra šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, dėl kurių baudžiamasis procesas negalimas;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 327 straipsnio 1 punktas (2007 m. birželio 28 d. redakcija; Žin., 2007, Nr. 81-3312) tiek, kiek pagal jį apeliacinės instancijos teismas panaikina pirmosios instancijos teismo išteisinamąjį nuosprendį ir nutraukia bylą, jeigu yra Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, teismui neišsprendus, ar išteisintasis pagrįstai išteisintas dėl nusikalstamos veikos, kurios padarymu buvo kaltinamas, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
+ 
 
 
 
@@ -15566,3 +15578,8 @@ Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 157 straipsnio (2002 m. k
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
 Lietuvos Respublikos baudžiamojo proceso kodekso 358 ir 360 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
+Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio 1 dalies nuostatos, 235 straipsnio 1 dalies, 254 straipsnio 4 dalies, 327 straipsnio 1 punkto atitikties Lietuvos Respublikos Konstitucijai
