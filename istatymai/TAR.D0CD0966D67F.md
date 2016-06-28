@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-27
+Suvestinė redakcija nuo 2016-06-28 iki 2016-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1891,7 +1891,18 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-18. Atstovavimo Lietuvoje ir užsienyje išlaidoms finansuoti skirto mero fondo dydis nustatomas nedidinant bendrų savivaldybės reprezentacijai skirtų lėšų ir priklauso nuo savivaldybės tarybos narių skaičiaus: savivaldybės taryba, kurioje yra 41 ir daugiau tarybos narių, gali skirti kas mėnesį iki trijų, savivaldybės taryba, kurioje yra 27–31 tarybos narys, iki dviejų, kitos savivaldybės – iki vieno Lietuvos statistikos departamento paskutiniojo paskelbto Lietuvos ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio sumą.
+18. Meras savo įgaliojimų laikotarpiu gali turėti visuomeninių konsultantų, kurie mero prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą informaciją. Mero visuomeniniu konsultantu gali būti pilnametis asmuo. Mero visuomeniniu konsultantu negali būti asmuo, kuris įstatymų nustatyta tvarka yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą, taip pat esantis įstatymų nustatyta tvarka uždraustos organizacijos nariu. 
+Papildyta straipsnio dalimi:
+Nr. XII-2459, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17723
+ 
+
+
+
+
+19. Atstovavimo Lietuvoje ir užsienyje išlaidoms finansuoti skirto mero fondo dydis nustatomas nedidinant bendrų savivaldybės reprezentacijai skirtų lėšų ir priklauso nuo savivaldybės tarybos narių skaičiaus: savivaldybės taryba, kurioje yra 41 ir daugiau tarybos narių, gali skirti kas mėnesį iki trijų, savivaldybės taryba, kurioje yra 27–31 tarybos narys, iki dviejų, kitos savivaldybės – iki vieno Lietuvos statistikos departamento paskutiniojo paskelbto Lietuvos ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio sumą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2459, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17723
+ 
 
 
 Straipsnio pakeitimai:
@@ -2276,7 +2287,14 @@ Tarybos narys turi teisę:
 
 
 
-5) gauti iš savivaldybės administracijos vietą posėdžiui, techninę pagalbą ir priemones tarybos nario įgaliojimams vykdyti.
+5) gauti iš savivaldybės administracijos vietą posėdžiui, techninę pagalbą ir priemones tarybos nario įgaliojimams vykdyti;
+
+
+
+
+6) savo įgaliojimų laikotarpiu gali turėti visuomeninių padėjėjų, kurie tarybos nario prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą informaciją. Tarybos nario visuomeniniu padėjėju gali būti pilnametis asmuo, kuris nėra tos savivaldybės administracijos valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį. Tarybos nario visuomeniniu padėjėju negali būti asmuo, kuris įstatymų nustatyta tvarka yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą, taip pat kuris įstatymų nustatyta tvarka yra uždraustos organizacijos narys. Tarybos nario visuomeninių padėjėjų skaičius negali viršyti savivaldybėje įsteigtų seniūnijų skaičiaus, o kai seniūnijos neįsteigtos, – negali viršyti trijų.
+Papildyta straipsnio punktu:
+Nr. XII-2459, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17723
  
 
 
@@ -4548,3 +4566,28 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 32 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir 23 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1887, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11178
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir 27 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2114, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19701
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 32 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2278, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06429
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir 27 straipsnių pakeitimo įstatymo Nr. XII-1887 4 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2342, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13909
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2459, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17723
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 19 ir 24 straipsnių pakeitimo įstatymas
