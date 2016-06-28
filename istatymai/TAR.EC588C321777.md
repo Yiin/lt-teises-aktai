@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-06-27 iki 2016-06-27
+Suvestinė redakcija nuo 2016-06-28 iki 2016-07-13
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -15192,6 +15192,14 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
  
 
 
+
+
+17. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39).
+Papildyta punktu:
+Nr. XII-2434, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17731
+ 
+
+
 Kodeksas papildytas priedu:
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 Priedo pakeitimai:
@@ -15583,3 +15591,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 358 ir 360 straipsnių pakeiti
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
 Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio 1 dalies nuostatos, 235 straipsnio 1 dalies, 254 straipsnio 4 dalies, 327 straipsnio 1 punkto atitikties Lietuvos Respublikos Konstitucijai
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2434, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17731
+Lietuvos Respublikos baudžiamojo proceso kodekso priedo pakeitimo įstatymas
