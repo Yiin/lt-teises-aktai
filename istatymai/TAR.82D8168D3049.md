@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-06-27
+Suvestinė redakcija nuo 2016-06-28 iki 2016-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -4496,7 +4496,10 @@ BAIGIAMOSIOS NUOSTATOS
 77 straipsnis. Elektroninių ryšių srautų priežiūra ir stebėjimas
 
 
-1. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo įstatymų nustatyta tvarka turimą ir nusikalstamoms veikoms užkardyti, tirti, nustatyti reikalingą informaciją pateikti kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Šią informaciją ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, neatlygintinai teikia kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu ir nedelsdami. Vyriausybės nurodytos ikiteisminio tyrimo įstaigos Vyriausybės nustatyta tvarka organizuoja ir sudaro galimybę gauti šią informaciją savo padaliniams ir (arba) kitoms ikiteisminio tyrimo įstaigoms. Visi asmenys, dalyvaujantys keičiantis duomenimis, Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų saugumui užtikrinti, o tam reikalinga papildoma įranga įsigyjama ir išlaikoma valstybės lėšomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) paslaugas, informacijos tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio subjektą ir gauna atsakymą raštu.
+1. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo įstatymų nustatyta tvarka turimą ir nusikalstamoms veikoms užkardyti, tirti, nustatyti reikalingą informaciją pateikti kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, įstatymų nustatyta tvarka teikia žvalgybos institucijoms informaciją, reikalingą prognozuoti, nustatyti ar šalinti grėsmes, galinčias turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ar ekonominei galiai. Šią informaciją ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, neatlygintinai teikia žvalgybos, kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu ir nedelsdami. Vyriausybės nurodytos ikiteisminio tyrimo įstaigos Vyriausybės nustatyta tvarka organizuoja ir sudaro galimybę gauti šią informaciją savo padaliniams ir (arba) kitoms ikiteisminio tyrimo įstaigoms. Visi asmenys, dalyvaujantys keičiantis duomenimis, Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų saugumui užtikrinti, o tam reikalinga papildoma įranga įsigyjama ir išlaikoma valstybės lėšomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) paslaugas, informacijos tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio subjektą ir gauna atsakymą raštu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
+ 
 
 
 
@@ -4511,7 +4514,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-4. Kai yra motyvuota teismo nutartis, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos subjektams, žvalgybos institucijoms įstatymų nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – Baudžiamojo proceso kodekso nustatyta tvarka, kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga įranga įsigyjama ir išlaikoma valstybės lėšomis.
+4. Kai yra motyvuota teismo nutartis arba kitas įstatymuose numatytas teisinis pagrindas, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos subjektams, žvalgybos institucijoms įstatymų nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – Baudžiamojo proceso kodekso nustatyta tvarka, kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga įranga įsigyjama ir išlaikoma valstybės lėšomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
+ 
 
 
 
@@ -5045,3 +5051,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 34 ir 36 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1710, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08042
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 77 straipsnio pakeitimo įstatymas
