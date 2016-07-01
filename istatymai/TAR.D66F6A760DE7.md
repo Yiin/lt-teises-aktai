@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
  
@@ -172,9 +172,19 @@ Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
 
 
 
-23. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+23. Viešoji uosto žemės nuomos teisės suteikimo procedūra (toliau – viešoji procedūra) – viešas uosto žemės nuomos teisės suteikimo būdas, vykdomas Lietuvos Respublikos Vyriausybės nustatyta tvarka, užtikrinant nediskriminavimo, proporcingumo, skaidrumo, objektyvumo, aiškumo ir nedviprasmiškumo principų laikymąsi. 
+Papildyta straipsnio dalimi:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
+ 
+
+
+
+
+24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos statybos įstatyme ir Lietuvos Respublikos muitinės įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
+Straipsnio dalies pakeitimai:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
  
 
 
@@ -779,17 +789,10 @@ Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 23 straipsnis. Uosto žemės nuomos tvarka
 
 
-1. Uosto direkcija uosto žemę gali išnuomoti tik konkurso tvarka, išskyrus kai:
-
-
-1) uosto žemė išnuomojama juridiniams asmenims, kurie įsigijo statinius. Šiuo atveju jiems išnuomojami tik statinių pardavimo (perdavimo) metu buvusiai tiesioginei pastatų paskirčiai reikalingi uosto žemės plotai;
-
-
-
-
-2) uosto žemė išnuomojama uosto žemės naudotojams kaip kompensacija už paimamą visuomenės poreikiams anksčiau jiems išnuomotą uosto žemę ir dėl to nutraukiama prieš terminą uosto žemės nuomos sutartis.
-
-
+1. Uosto direkcija uosto žemę gali išnuomoti tik viešosios procedūros tvarka, išskyrus atvejus, kai uosto žemė išnuomojama uosto žemėje veiklą vykdančioms strateginę reikšmę nacionaliniam saugumui turinčioms įmonėms, nuosavybės teise valdančioms statinius uosto žemėje ar patikėjimo teise valdančioms valstybės ar savivaldybės joms perduotus statinius uosto žemėje, tokių statinių tiesioginei paskirčiai, ar įmonėms, valdančioms ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčius įrenginius, esančius uosto žemėje, tokių įrenginių tiesioginei paskirčiai, kaip tai apibrėžta Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
+ 
 
 
 
@@ -1516,3 +1519,8 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1509, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21275
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 24 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 1, 2, 23, 25 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
