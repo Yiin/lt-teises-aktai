@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2011-07-13 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
+Nauja redakcija nuo 2016-07-01:
+Nr. XII-2400, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16850
  
-LIETUVOS RESPUBLIKOS
-ADMINISTRACINIŲ GINČŲ KOMISIJŲ
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS administracinių ginčų komisijų įstatymAS 
  
 1999 m. sausio 14 d. Nr. VIII-1031
 Vilnius
@@ -30,10 +30,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato bendrą ikiteisminę skundų (prašymų) dėl priimtų individualių administracinių aktų ar valstybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje nagrinėjimo tvarką.
-Straipsnio dalies pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
- 
+1. Šis įstatymas nustato ikiteisminio skundų (prašymų) dėl viešojo administravimo subjektų priimtų individualių administracinių aktų ar veiksmų (neveikimo) viešojo administravimo srityje nagrinėjimo tvarką, Vyriausiosios administracinių ginčų komisijos ir savivaldybių visuomeninių administracinių ginčų komisijų sudarymo tvarką ir kompetenciją. 
 
 
 
@@ -51,72 +48,71 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 
 
 
-2 straipsnis. Administracinių ginčų komisijos
+2 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos sudarymas
 
 
-1. Savivaldybių tarybos sudaro savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato Lietuvos Respublikos administracinių bylų teisenos įstatymas arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo). 
-Straipsnio dalies pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
-Nr. XI-1534, 2011-06-23, Žin., 2011, Nr. 86-4173 (2011-07-13), i. k. 1111010ISTA0XI-1534
+1. Savivaldybių tarybos sudaro savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 4 metams savivaldybės tarybos sprendimu tarybos kadencijos laikotarpiui iš 5 narių, iš kurių pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Savivaldybės visuomeninės administracinių ginčų komisijos nariais gali būti tik Lietuvos Respublikos piliečiai. Savivaldybės visuomeninės administracinių ginčų komisijos nariu negali būti skiriamas asmuo, kuris įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikaltimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar nusikaltimo, kuriuo padaryta turtinė žala valstybei, padarymo ir turi neišnykusį ar nepanaikintą teistumą. Savivaldybės visuomeninės administracinių ginčų komisijos narių kandidatūras, iš jų savivaldybės visuomeninės administracinių ginčų komisijos pirmininko ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras.
+
+
+
+
+2. Savivaldybės visuomeninės administracinių ginčų komisijos pirmininkas, pirmininko pavaduotojas ir kiti nariai turi teisę atsistatydinti. Savivaldybės visuomeninės administracinių ginčų komisijos pirmininkas, pirmininko pavaduotojas ar kitas narys savivaldybės tarybos sprendimu atleidžiamas nepasibaigus įgaliojimų laikui, kai:
+
+
+1) jis atsistatydina savo noru;
+
+
+
+
+2) jis praranda Lietuvos Respublikos pilietybę;
+
+
+
+
+3) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikaltimą valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimą ar nusikaltimą, kuriuo padaryta turtinė žala valstybei, arba bausmė, dėl kurios jis negali eiti pareigų;
+
+
+
+
+4) jis dėl sveikatos būklės nebegali eiti pareigų.
+
+
+
+
+
+
+3. Savivaldybės visuomeninės administracinių ginčų komisijos pirmininko, pirmininko pavaduotojo ar kito nario įgaliojimai nutrūksta, kai:
+
+
+1) jis išrenkamas arba paskiriamas į kitas pareigas;
+
+
+
+
+2) jis miršta; 
+
+
+
+
+3) pasibaigia savivaldybės tarybos kadencija.
+
+
+
+
+
+
+4. Kai savivaldybės visuomeninės administracinių ginčų komisijos pirmininkas, pirmininko pavaduotojas ar kitas narys atleidžiamas nepasibaigus įgaliojimų laikui ar jo įgaliojimai nutrūksta, savivaldybės meras vietoj jo teikia naują kandidatūrą likusiam savivaldybės tarybos kadencijos laikotarpiui.
  
 
 
 
 
-2. Skundus (prašymus) dėl priimtų individualių administracinių aktų ar viešojo administravimo subjektų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėja Vyriausioji administracinių ginčų komisija. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
- 
 
 
+3 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos kompetencija
 
 
-3. Išskyrus Administracinių bylų teisenos įstatyme arba kituose įstatymuose nustatytas išimtis, Vyriausioji administracinių ginčų komisija sprendžia ginčus, kurie priskirti Vilniaus apygardos administracinio teismo papildomai kompetencijai.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
- 
-
-
-
-
-
-
-3 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos sudarymas
-
-
-1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 4 metams savivaldybės tarybos sprendimu tarybos kadencijos laikotarpiui iš 5 narių, iš kurių pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų komisijos pirmininko ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras.
-
-
-
-
-2. Savivaldybės visuomeninės administracinių ginčų komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Savivaldybės meras motyvuotu teikimu gali siūlyti savivaldybės tarybai atleisti savivaldybės visuomeninės administracinių ginčų komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras likusios savivaldybės tarybos kadencijos laikotarpiui.
-
-
-Straipsnio pakeitimai:
-Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
- 
-
-
-
-
-4 straipsnis. Neteko galios nuo 2010-07-01
-Straipsnio naikinimas:
-Nr. XI-925, 2010-06-22, Žin. 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
-Straipsnio pakeitimai:
-Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
- 
-
-
-
-
-5 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos kompetencija
-
-
-1. Savivaldybės visuomeninė administracinių ginčų komisija nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat šių subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
+1. Savivaldybės visuomeninė administracinių ginčų komisija nagrinėja asmenų skundus dėl savivaldybių administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus.
 
 
 
@@ -124,56 +120,12 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 2. Savivaldybės visuomeninės administracinių ginčų komisijos nesprendžia: 
 
 
-1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnio 2 ir 3 dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; 
+1) Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) 18 straipsnyje, 20 straipsnio 2, 3 ir 4 dalyse ir 21 straipsnio 1 ir 3 dalyse nurodytų ginčų (bylų), taip pat mokestinių ginčų; 
 
 
 
 
 2) administracinių ginčų, kuriems nagrinėti įstatymuose numatyta kitokia tvarka.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
- 
-
-
-
-
-6 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos darbo tvarka
-
-
-1. Savivaldybės visuomeninės administracinių ginčų komisijos posėdžiai vyksta iš anksto nustatytomis savaitės dienomis.
-
-
-
-
-2. Savivaldybės visuomeninę administracinių ginčų komisiją techniškai aptarnauja savivaldybės administracija. 
-
-
-
-
-3. Už savo darbą savivaldybės visuomeninė administracinių ginčų komisija kartą per metus atsiskaito savivaldybės tarybai, taip pat yra atsakinga savivaldybės merui.
-
-
-Straipsnio pakeitimai:
-Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
- 
-
-
-
-
-7 straipsnis. Vyriausiosios administracinių ginčų komisijos sudarymas
-
-
-1. Vyriausiąją administracinių ginčų komisiją 4 metams iš 5 narių sudaro Vyriausybė. Komisijos nariai privalo turėti aukštąjį teisinį išsilavinimą. Narių kandidatūras, iš jų ir pirmininko kandidatūrą, Vyriausybei teikia teisingumo ministras.
-
-
-
-
-2. Komisijos pirmininkas ir nariai turi teisę atsistatydinti. Komisijos pirmininkas ir nariai Vyriausybės sprendimu gali būti atleisti ir pirma laiko. Tokiu atveju teisingumo ministras Vyriausybei teikia naujas kandidatūras.
  
 
 
@@ -181,19 +133,17 @@ Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA
 
 
 
-8 straipsnis. Vyriausiosios administracinių ginčų komisijos statusas
 
 
-1. Vyriausioji administracinių ginčų komisija yra juridinis asmuo, išlaikomas iš valstybės biudžeto.
+4 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos darbas 
+
+
+1. Savivaldybės visuomeninę administracinių ginčų komisiją techniškai aptarnauja savivaldybės administracija. 
 
 
 
 
-2. Komisijos pirmininko ir narių darbas komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
-Straipsnio dalies pakeitimai:
-Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
-Nr. IX-1389, 2003-03-25, Žin., 2003, Nr. 35-1463 (2003-04-11), i. k. 1031010ISTA0IX-1389
-Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010ISTA00X-1782
+2. Savivaldybės visuomeninė administracinių ginčų komisija kartą per metus teikia informaciją apie savo veiklą savivaldybės tarybai.
  
 
 
@@ -201,10 +151,97 @@ Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010IST
 
 
 
-9 straipsnis. Vyriausiosios administracinių ginčų komisijos kompetencija
+5 straipsnis. Vyriausiosios administracinių ginčų komisijos sudarymas
 
 
-1. Vyriausioji administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat dėl minėtų subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
+1. Vyriausiąją administracinių ginčų komisiją 4 metams iš 5 narių sudaro Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). Vyriausiosios administracinių ginčų komisijos nariais gali būti tik Lietuvos Respublikos piliečiai, turintys aukštąjį teisinį išsilavinimą. Vyriausiosios administracinių ginčų komisijos nariu negali būti skiriamas asmuo, kuris įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikaltimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar nusikaltimo, kuriuo padaryta turtinė žala valstybei, padarymo ir turi neišnykusį ar nepanaikintą teistumą. Narių kandidatūras, iš jų ir pirmininko kandidatūrą, Vyriausybei teikia Lietuvos Respublikos teisingumo ministras (toliau – teisingumo ministras).
+
+
+
+
+2. Pasibaigus Vyriausiosios administracinių ginčų komisijos narių įgaliojimų laikui, Vyriausiosios administracinių ginčų komisijos nariai pareigas eina, iki jie paskiriami kitai kadencijai arba iki paskiriami nauji nariai. 
+
+
+
+
+3. Vyriausiosios administracinių ginčų komisijos pirmininkas ir kiti nariai turi teisę atsistatydinti. Vyriausiosios administracinių ginčų komisijos pirmininkas ar kitas narys Vyriausybės nutarimu atleidžiamas nepasibaigus įgaliojimų laikui, kai:
+
+
+1) jis atsistatydina savo noru;
+
+
+
+
+2) jis praranda Lietuvos Respublikos pilietybę;
+
+
+
+
+3) jis nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 dienų iš eilės ar ilgiau kaip 140 dienų per paskutinius 12 mėnesių;
+
+
+
+
+4) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikaltimą valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimą ar nusikaltimą, kuriuo padaryta turtinė žala valstybei, arba bausmė, dėl kurios jis negali eiti savo pareigų;
+
+
+
+
+5) jis šiurkščiai pažeidžia darbo pareigas. Nustatant, ar padarytas šiurkštus darbo pareigų pažeidimas, mutatis mutandis vadovaujamasi Lietuvos Respublikos darbo kodeksu.
+
+
+
+
+
+
+4. Vyriausiosios administracinių ginčų komisijos pirmininko ar kito nario įgaliojimai nutrūksta, kai:
+
+
+1) jis išrenkamas arba paskiriamas į kitas pareigas;
+
+
+
+
+2) jis miršta.
+
+
+
+
+
+
+5. Kai Vyriausiosios administracinių ginčų komisijos pirmininkas ar kitas narys atleidžiamas nepasibaigus jo įgaliojimų laikui ar jo įgaliojimai nutrūksta, teisingumo ministras vietoj jo Vyriausybei teikia naują kandidatūrą likusiam Vyriausiosios administracinių ginčų komisijos kadencijos laikotarpiui.
+ 
+
+
+
+
+
+
+6 straipsnis. Vyriausiosios administracinių ginčų komisijos statusas
+
+
+1. Vyriausioji administracinių ginčų komisija yra nepriklausoma ikiteisminė institucija, juridinis asmuo, biudžetinė įstaiga. Vyriausiosios administracinių ginčų komisijos nuostatus tvirtina Vyriausybė.
+
+
+
+
+2. Vyriausiosios administracinių ginčų komisijos pirmininko ir kitų narių darbas Vyriausiojoje administracinių ginčų komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Lietuvos Respublikos valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
+
+
+
+
+3. Vyriausioji administracinių ginčų komisija kartą per metus teikia informaciją apie savo veiklą Vyriausybei.
+ 
+
+
+
+
+
+
+7 straipsnis. Vyriausiosios administracinių ginčų komisijos kompetencija
+
+
+1. Vyriausioji administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus.
 
 
 
@@ -212,32 +249,12 @@ Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010IST
 2. Vyriausioji administracinių ginčų komisija nesprendžia:
 
 
-1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnyje, 19 straipsnio 2 ir 3 dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų;
+1) Administracinių bylų teisenos įstatymo 18 straipsnyje, 20 straipsnio 2, 3, 4 dalyse ir 21 straipsnio 1 ir 3 dalyse nurodytų ginčų (bylų), taip pat mokestinių ginčų; 
 
 
 
 
-2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr. 5-0 (2002-01-18), i. k. 1011010ISTA00IX-664
- 
-
-
-
-
-10 straipsnis. Vyriausiosios administracinių ginčų komisijos darbo tvarka
-
-
-1. Vyriausiosios administracinių ginčų komisijos posėdžiai vyksta iš anksto nustatytomis savaitės dienomis.
-
-
-
-
-2. Vyriausioji administracinių ginčų komisija už savo darbą kartą per metus atsiskaito Vyriausybei.
+2) administracinių ginčų, kuriems nagrinėti įstatymai nustato kitokią tvarką.
  
 
 
@@ -245,10 +262,12 @@ Nr. IX-664, 2001-12-17, Žin., 2001, Nr. 112-4083 (2001-12-30); Žin., 2002, Nr.
 
 
 
-11 straipsnis. Skundo (prašymo) teisė
 
 
-Su skundu (prašymu) į atitinkamą administracinių ginčų komisiją jos kompetencijai priskirtais klausimais turi teisę kreiptis asmenys, taip pat viešojo administravimo subjektai, kai šie mano, kad jų teisės yra pažeistos.
+8 straipsnis. Skundo (prašymo) teisė
+
+
+Į administracinių ginčų komisiją jos kompetencijai priskirtais klausimais turi teisę kreiptis asmenys, taip pat viešojo administravimo subjektai, manantys, kad jų teisės yra pažeistos. Su prašymais į administracinių ginčų komisiją kreipiasi viešojo administravimo subjektai, o su skundais – kiti asmenys.
  
 
 
@@ -256,70 +275,45 @@ Su skundu (prašymu) į atitinkamą administracinių ginčų komisiją jos kompe
 
 
 
-12 straipsnis. Administracinių ginčų komisijų teisės rengiant medžiagą posėdžiui
+9 straipsnis. Skundo (prašymo) padavimas administracinių ginčų komisijai
 
 
-1. Administracinių ginčų komisija turi teisę reikalauti iš viešojo administravimo subjekto, priėmusio ginčijamą individualų administracinį aktą ar įvykdžiusio skundžiamą veiką, dokumentų, medžiagos ir informacijos, susijusių su posėdžiui rengiamu klausimu, taip pat gauti raštu ar žodžiu valstybės tarnautojų paaiškinimus dėl ginčo dalyko.
-Straipsnio dalies pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
- 
+1. Administracinių ginčų komisijai duodamas skundas (prašymas) turi atitikti Administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytus formos ir turinio reikalavimus. Skundas (prašymas) administracinių ginčų komisijai gali būti paduodamas raštu tiesiogiai, siunčiamas paštu arba elektroninių ryšių priemonėmis. Paduodant skundą (prašymą) elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama pasirašant saugiu elektroniniu parašu.
 
 
 
 
-2. Komisijos reikalaujama medžiaga ar dokumentų kopijos turi būti jai perduoti ne vėliau kaip per 3 darbo dienas nuo reikalavimo gavimo dienos, jeigu pati komisija nenustato kito termino. Prireikus komisija terminą gali pratęsti.
+2. Administracinių ginčų komisijai duodamas skundas (prašymas) turi būti surašytas valstybine kalba, o jeigu jis surašytas kita kalba, turi būti pridedamas įstatymų nustatyta tvarka patvirtintas skundo (prašymo) vertimas į valstybinę kalbą. Šioje dalyje nustatytas reikalavimas taikomas ir skundo (prašymo) priedams.
 
 
 
 
-3. Prireikus komisijos nariai ar jų įgalioti asmenys gali tirti skundą (prašymą) vietoje.
- 
+3. Prie skundo (prašymo) pridedami šie priedai: 
+
+
+1) skundžiamas aktas; 
+
+
+
+
+2) jeigu būtina, – dokumentas, patvirtinantis reikalavimų ar prieštaravimų skundžiamai institucijai, įstaigai įteikimo datą; 
+
+
+
+
+3) dokumentai ir kiti įrodymai, kuriais pareiškėjas grindžia savo reikalavimus. 
 
 
 
 
 
 
-13 straipsnis. Administracinių ginčų nagrinėjimo terminai 
-
-
-1. Administracinių ginčų komisijai paduoti skundai (prašymai) turi būti išnagrinėti ir sprendimai dėl jų priimti ne vėliau kaip per 14 dienų nuo jų gavimo. 
+4. Skunde (prašyme) turi būti nurodyta, ar nagrinėjant skundą (prašymą) administracinių ginčų komisijos posėdyje bus reikalingas vertėjas.
 
 
 
 
-2. Prireikus motyvuotu komisijos sprendimu bendras skundo nagrinėjimo terminas gali būti pratęstas dar 14 dienų.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
- 
-
-
-
-
-14 straipsnis. Administracinių ginčų komisijos sprendimas 
-
-
-Administracinių ginčų komisija sprendimą dėl ginčo paprastai priima bendru sutarimu dalyvaujant ne mažiau kaip 3 komisijos nariams. Kai bendro sutarimo nėra, sprendimas laikomas priimtu, kai už jį balsavo dauguma posėdyje dalyvavusiųjų. 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
- 
-
-
-
-
-15 straipsnis. Administracinių ginčų komisijos sprendimo išsiuntimas vykdyti
-
-
-1. Administracinių ginčų komisijos sprendimas išsiunčiamas vykdyti kitą dieną po priėmimo. Viešojo administravimo subjektas privalo sprendimą įvykdyti per jame nurodytą laiką, o jeigu laikas nenurodytas, - per 20 dienų nuo sprendimo gavimo dienos.
-
-
-
-
-2. Skundo padavimas administraciniam teismui sustabdo administracinių ginčų komisijos sprendimo vykdymą. Vykdytojui turi būti pranešta apie sprendimo apskundimą.
+5. Kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis, prie jo turi būti pridedamos ir priedų skaitmeninės kopijos.
  
 
 
@@ -327,10 +321,15 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 
 
 
-16 straipsnis. Administracinių ginčų komisijos sprendimo vykdymo užtikrinimas
+10 straipsnis. Skundų (prašymų) padavimo administracinių ginčų komisijai terminai
 
 
-Jeigu viešojo administravimo subjektas per nustatytą terminą neįvykdo administracinių ginčų komisijos sprendimo, pareiškėjas turi teisę kreiptis į atitinkamą administracinį teismą su prašymu užtikrinti sprendimo vykdymą.
+1. Skundas (prašymas) administracinių ginčų komisijai paduodamas per vieną mėnesį nuo individualaus administracinio akto paskelbimo arba įteikimo ar pranešimo apie viešojo administravimo subjekto veiksmus (atsisakymą atlikti veiksmus) suinteresuotai šaliai dienos.
+
+
+
+
+2. Jeigu viešojo administravimo subjektas nevykdo savo pareigų arba vilkina klausimo nagrinėjimą ir nustatytu laiku jo neišsprendžia, toks neveikimas (vilkinimas) gali būti apskųstas per 2 mėnesius nuo dienos, kurią baigiasi įstatymo ar kito teisės akto nustatytas klausimo išsprendimo laikas.
  
 
 
@@ -338,10 +337,25 @@ Jeigu viešojo administravimo subjektas per nustatytą terminą neįvykdo admini
 
 
 
-17 straipsnis. Žalos atlyginimo klausimų sprendimas
+11 straipsnis. Praleisto termino atnaujinimas
 
 
-Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei turtinės žalos, nei ginčo šalių turėtų išlaidų atlyginimo klausimų nesprendžia.
+1. Pareiškėjo prašymu administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys skundo (prašymo) padavimo terminą gali atnaujinti, jeigu pripažįsta, kad jis praleistas dėl svarbios priežasties.
+
+
+
+
+2. Prašyme atnaujinti terminą nurodomos termino praleidimo priežastys ir pateikiami praleidimo priežastis patvirtinantys įrodymai. Kartu su prašymu atnaujinti terminą administracinių ginčų komisijai turi būti paduotas skundas (prašymas). Kai prašymas atnaujinti terminą paduodamas elektroninių ryšių priemonėmis, skundas (prašymas) taip pat paduodamas elektroninių ryšių priemonėmis.
+
+
+
+
+3. Prašymą atnaujinti terminą skundui (prašymui) paduoti išnagrinėja administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys rašytinio proceso tvarka per tris darbo dienas nuo prašymo su termino praleidimo priežastis patvirtinančiais įrodymais pateikimo. Termino skundui (prašymui) paduoti atnaujinimas įforminamas rezoliucija. Jeigu atsisakoma atnaujinti terminą skundui (prašymui) paduoti, administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. Administracinių ginčų komisijos pirmininko ar jo paskirto kito administracinių ginčų komisijos nario sprendimas atsisakyti atnaujinti terminą skundui (prašymui) paduoti gali būti skundžiamas per vieną mėnesį nuo jo gavimo apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+
+
+
+
+4. Atnaujinęs skundo (prašymo) padavimo terminą, administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys išsprendžia skundo (prašymo) priėmimo klausimą ir skundas (prašymas) nagrinėjamas administracinių ginčų komisijoje šio įstatymo nustatyta tvarka.
  
 
 
@@ -349,20 +363,131 @@ Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei turtin�
 
 
 
-18 straipsnis. Administracinių ginčų komisijos sprendimo apskundimas
+12 straipsnis. Skundo (prašymo), paduodamo administracinių ginčų komisijai, priėmimas, bylų sujungimas ir išskyrimas
 
 
-1. Savivaldybės visuomeninės administracinių ginčų komisijos sprendimas per 20 dienų nuo jo gavimo dienos gali būti apskųstas atitinkamos apygardos administraciniam teismui.
-Straipsnio dalies pakeitimai:
-Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
+1. Teisės aktų nustatyta tvarka užregistruotas skundas (prašymas) perduodamas administracinių ginčų komisijos pirmininkui ar jo paskirtam kitam administracinių ginčų komisijos nariui, kuris ne vėliau kaip kitą darbo dieną po jo gavimo išsprendžia skundo (prašymo) priėmimo klausimą.
+
+
+
+
+2. Administracinių ginčų komisijos pirmininko ar jo paskirto kito administracinių ginčų komisijos nario sprendimu atsisakoma priimti skundą (prašymą) nagrinėti, jeigu:
+
+
+1) skundo (prašymo) nagrinėjimas nepriskirtinas administracinių ginčų komisijos kompetencijai;
+
+
+
+
+2) praleistas skundo (prašymo) padavimo administracinių ginčų komisijai terminas ir pareiškėjas neprašo jo atnaujinti ar toks prašymas atmetamas;
+
+
+
+
+3) yra nagrinėjamas ar išnagrinėtas administracinis ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu administracinių ginčų komisijoje, kitoje ikiteisminėje ginčus nagrinėjančioje institucijoje ar teisme arba byla nutraukta. 
+
+
+
+
+
+
+3. Administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys priima sprendimą nustatyti pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, jeigu:
+
+
+1) skundas (prašymas) neatitinka Administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytų reikalavimų ir (ar) šio įstatymo 9 straipsnio 2 dalyje nustatytų reikalavimų; 
+
+
+
+
+2) prie skundo (prašymo) nepridėti šio įstatymo 9 straipsnio 3 dalyje nurodyti priedai ir (ar) nepateikta šio įstatymo 9 straipsnio 4 dalyje nurodyta informacija.
+
+
+
+
+
+
+4. Atsisakęs priimti skundą (prašymą) nagrinėti ar nustatęs pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. Jeigu pareiškėjas per nustatytą terminą pašalina skundo (prašymo) trūkumus, skundas (prašymas) laikomas paduotu pradinio jo pateikimo administracinių ginčų komisijai dieną. Nepašalinus per nustatytą terminą skundo (prašymo) trūkumų, administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys atsisako jį priimti ir grąžina skundą (prašymą) jį padavusiam asmeniui.
+
+
+
+
+5. Administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys, nustatęs, kad administracinių ginčų komisijoje yra skirtingų pareiškėjų skundų (prašymų) dėl to paties atsakovo to paties individualaus administracinio akto ar veiksmo (neveikimo), iki bylos nagrinėjimo iš esmės pabaigos gali juos sujungti į vieną bylą.
+
+
+
+
+6. Kai byloje yra daugiau kaip vienas reikalavimas, prireikus administracinių ginčų komisijos pirmininkas ar jo paskirtas kitas administracinių ginčų komisijos narys kai kuriuos iš jų gali išskirti į atskirą bylą (bylas).
+
+
+
+
+7. Skundo (prašymo) priimtinumo (bylos pradėjimo), bylų sujungimo ar bylos išskyrimo į atskirą bylą (bylas) klausimas išsprendžiamas administracinių ginčų komisijos pirmininko ar jo paskirto kito administracinių ginčų komisijos nario rezoliucija.
+
+
+
+
+8. Priėmus skundą (prašymą), administracinių ginčų komisijos narys abėcėlės tvarka skiriamas pranešėju byloje.
  
 
 
 
 
-2. Vyriausiosios administracinių ginčų komisijos sprendimas per 20 dienų nuo jo gavimo dienos gali būti apskųstas Vilniaus apygardos administraciniam teismui. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+
+
+13 straipsnis. Pasirengimas nagrinėti skundą (prašymą) administracinių ginčų komisijoje
+
+
+1. Administracinių ginčų komisijos narys, paskirtas pranešėju byloje, rengdamas bylą posėdžiui, išsprendžia šiuos pasirengimo nagrinėti bylą administracinių ginčų komisijoje klausimus: 
+
+
+1) prireikus įpareigoja pareiškėją per nurodytą terminą pateikti su skundu (prašymu) susijusius įrodymus ir (ar) papildomus rašytinius paaiškinimus; 
+
+
+
+
+2) išsiunčia atsakovui, tretiesiems suinteresuotiems asmenims skundo (prašymo) nuorašus ir paprašo per šio straipsnio 3 dalyje nurodytą terminą pateikti atsiliepimą į skundą (prašymą) ir su skundu (prašymu) susijusią medžiagą (įrodymus, paaiškinimus);
+
+
+
+
+3) suderina su administracinių ginčų komisijos pirmininku bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo bylos šalims išspręsti ginčą taikiai;
+
+
+
+
+4) atlieka kitus veiksmus, kad byla būtų parengta nagrinėti.
+
+
+
+
+
+
+2. Administracinių ginčų komisijos narys, paskirtas pranešėju byloje, turi teisę:
+
+
+1) reikalauti iš skundžiamo viešojo administravimo subjekto paaiškinimo, atsiliepimo, dokumentų, medžiagos ir informacijos, susijusių su administracinių ginčų komisijos posėdžiui rengiama byla, taip pat gauti raštu ar žodžiu valstybės tarnautojų paaiškinimus dėl ginčo dalyko;
+
+
+
+
+2) prašyti kitų viešojo administravimo subjektų dokumentų, medžiagos ar kitos bylai nagrinėti reikalingos informacijos;
+
+
+
+
+3) pasitelkti savivaldybių institucijų, administracinių ginčų komisijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, taip pat specialistus, viešojo administravimo subjektus, kitus fizinius ar juridinius asmenis (šių asmenų sutikimu), kad jie pateiktų paaiškinimą ir (ar) išvadą dėl skundo (prašymo) ar atliktų kitus pasirengimo nagrinėti bylą ar bylos nagrinėjimo veiksmus.
+
+
+
+
+
+
+3. Administracinių ginčų komisijos reikalaujama medžiaga ar dokumentų kopijos turi būti jai perduotos ne vėliau kaip per 5 darbo dienas nuo reikalavimo gavimo dienos. Prireikus administracinių ginčų komisijos narys, paskirtas pranešėju byloje, šį terminą gali pratęsti.
+
+
+
+
+4. Prireikus administracinių ginčų komisija su byla susijusias aplinkybes, faktus ir (ar) dokumentus gali tirti vietoje.
  
 
 
@@ -370,38 +495,334 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 
 
 
-19 straipsnis. Subjektai, turintys teisę skųsti administracinių ginčų komisijų sprendimus
+14 straipsnis. Skundo (prašymo) nagrinėjimo administracinių ginčų komisijoje terminai 
 
 
-Ginčo šalis, nesutinkanti su administracinių ginčų komisijos sprendimu, turi teisę skųsti tą sprendimą atitinkamam apygardos administraciniam teismui. 
+1. Administracinių ginčų komisijai paduotas skundas (prašymas) turi būti išnagrinėtas ne vėliau kaip per 20 darbo dienų nuo jo priėmimo dienos. 
 
 
-Straipsnio pakeitimai:
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+
+
+2. Prireikus motyvuotu administracinių ginčų komisijos sprendimu bendras skundo (prašymo) nagrinėjimo terminas gali būti pratęstas dar 10 darbo dienų.
  
 
 
 
 
-20 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šis įstatymas įsigalioja nuo 1999 m. gegužės 1 d.
+15 straipsnis. Bylos šalys ir jų atstovai
 
 
-
-
-2. Vyriausybė iki 1999 m. gegužės 1 d. patvirtina apskričių administracinių ginčų komisijų, Vyriausiosios administracinių ginčų komisijos sudėtis ir jų pirmininkus.
+1. Bylos šalimis laikomi: pareiškėjas (skundą (prašymą) padavęs subjektas); atsakovas (viešojo administravimo subjektas, kurio individualūs administraciniai aktai arba veiksmai (neveikimas) ar vilkinimas atlikti veiksmus skundžiami); tretieji suinteresuoti asmenys (tie, kurių teisėms ar pareigoms bylos sprendimas gali turėti įtakos).
 
 
 
 
-3. Savivaldybės, norinčios sudaryti savivaldybių visuomenines administracinių ginčų komisijas, iki 1999 m. gegužės 1 d. patvirtina tokių komisijų sudėtis ir jų pirmininkus.
+2. Atstovais pagal įstatymą administracinių ginčų komisijoje yra asmenys, nurodyti Administracinių bylų teisenos įstatymo 47 straipsnio 3 ir 7 dalyse. Valstybei ir Vyriausybei administracinių ginčų komisijoje atstovauja valstybės institucijos ir įstaigos (valstybės atstovai) pagal įstatymuose ir kituose teisės aktuose joms suteiktus įgaliojimus.
 
 
 
 
-4. Vyriausybė iki 1999 m. gegužės 1 d.  patvirtina Administracinių ginčų komisijų darbo nuostatus.
+3. Įgaliotu atstovu (pagal pavedimą) administracinių ginčų komisijoje gali būti bet kuris asmuo, kurio įgaliojimai įforminti Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka.
+ 
+
+
+
+
+
+
+16 straipsnis. Skundo (prašymo) nagrinėjimas administracinių ginčų komisijos posėdyje, administracinių ginčų komisijos pirmininko ar kito nario nušalinimas
+
+
+1. Administracinių ginčų komisijos posėdį organizuoja ir jam pirmininkauja administracinių ginčų komisijos pirmininkas arba jo paskirtas vyriausias pagal amžių administracinių ginčų komisijos narys.
+
+
+
+
+2. Su bylos medžiaga administracinių ginčų komisijos nariai susipažįsta iki administracinių ginčų komisijos posėdžio.
+
+
+
+
+3. Prireikus gali būti organizuojami išvažiuojamieji posėdžiai.
+
+
+
+
+4. Administracinių ginčų komisijos posėdis laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip trys administracinių ginčų komisijos nariai.
+
+
+
+
+5. Iki skundo (prašymo) nagrinėjimo pradžios administracinių ginčų komisijos posėdyje patikrinama atvykusių į posėdį bylos šalių ir jų atstovų tapatybė ir įgaliojimai.
+
+
+
+
+6. Bylos šalių ir (ar) jų atstovų neatvykimas į administracinių ginčų komisijos posėdį, jeigu jiems buvo apie tai tinkamai pranešta, nėra kliūtis nagrinėti skundą (prašymą) ir priimti sprendimą. 
+
+
+
+
+7. Tais atvejais, kai į administracinių ginčų komisijos posėdį neatvyksta nei bylos šalys, nei jų atstovai, nors apie posėdį jiems buvo tinkamai pranešta, administracinių ginčų komisija gali nuspręsti nagrinėti skundą (prašymą) rašytinio proceso tvarka, tai yra nedalyvaujant nei bylos šalims, nei jų atstovams. Nagrinėjant skundą (prašymą) rašytinio proceso tvarka, administracinių ginčų komisijos posėdžio garso įrašas nedaromas, posėdžio protokolas nerašomas, posėdžio forma yra laisva.
+
+
+
+
+8. Administracinių ginčų komisijos posėdis pradedamas posėdžio pirmininko pranešimu apie ginčo dalyką, bylos šalis, administracinių ginčų komisijos sudėtį posėdyje, administracinių ginčų komisijos posėdžio sekretorių. Administracinių ginčų komisijos posėdžio pirmininkas supažindina bylos šalis su posėdžio tvarka, eiga ir bylos šalių procesinėmis teisėmis. Bylos šalims suteikiama galimybė pateikti papildomus prašymus, dokumentus, pareikšti nušalinimus administracinių ginčų komisijos nariams. Bylos šalių prašymai sprendžiami nedelsiant.
+
+
+
+
+9. Administracinių ginčų komisijos pirmininkas ar kitas narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis; jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi arba yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Administracinių ginčų komisijos pirmininko ar kito (kitų) nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant.
+
+
+
+
+10. Bylos nagrinėjimas posėdyje pradedamas administracinių ginčų komisijos nario, paskirto pranešėju byloje, pranešimu apie pareiškėjo skundą (prašymą) ir pareiškėjo reikalavimo administracinių ginčų komisijai paskelbimu. Po to išklausomas pareiškėjas (pareiškėjai), jo (jų) įgaliotas atstovas (atstovai), atsakovo atstovas (atstovai), trečiasis suinteresuotas asmuo (asmenys). Administracinių ginčų komisijos posėdžio pirmininkas gali nutraukti kalbą, jeigu ja nukrypstama nuo ginčo esmės. Bylos šalims ir jų atstovams po jų kalbų administracinių ginčų komisijos nariai gali užduoti klausimų. Po to bylos šalys dėl nagrinėjamo ginčo gali trumpai atsakyti į viena kitos argumentus, užduoti viena kitai klausimų. Bylą nagrinėjant posėdyje, taip pat ištiriami kiti įrodymai: išklausomi liudytojų parodymai, specialistų paaiškinimai, apžiūrimi daiktiniai įrodymai ir kita. Bet kuriai iš bylos šalių pageidaujant, paskelbiami byloje esantys rašytiniai įrodymai.
+
+
+
+
+11. Atlikus šio straipsnio 8, 9 ir 10 dalyse nurodytus veiksmus, administracinių ginčų komisijos posėdžio pirmininkas paskelbia posėdžio pabaigą, informuoja apie sprendimo priėmimo terminą ir sprendimo apskundimo tvarką.
+ 
+
+
+
+
+
+
+17 straipsnis. Taikos sutarties sudarymas
+
+
+1. Bylos šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį.
+
+
+
+
+2. Administracinių ginčų komisija posėdžio metu pasiūlo bylos šalims sudaryti taikos sutartį.
+
+
+
+
+3. Bylos šalys gali sudaryti taikos sutartį ir ją pateikti administracinių ginčų komisijai iki jos posėdžio ar posėdžio metu, taip pat po sprendimo, priimto išnagrinėjus skundą (prašymą) administracinių ginčų komisijoje, priėmimo, bet nepasibaigus šio įstatymo 21 straipsnyje nurodytam sprendimo apskundimo terminui. 
+
+
+
+
+4. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai).
+
+
+
+
+5. Jeigu taikos sutartis atitinka šio straipsnio 4 dalyje nustatytas sąlygas, administracinių ginčų komisija sprendimu ją patvirtina ir bylą nutraukia. Šiame sprendime turi būti nurodytos tvirtinamos taikos sutarties sąlygos. Prieš tvirtindama taikos sutartį, administracinių ginčų komisija išaiškina bylos šalims šių procesinių veiksmų pasekmes. Taikos sutartis pridedama prie bylos. Jeigu taikos sutartis neatitinka šio straipsnio 4 dalyje nustatytų sąlygų, administracinių ginčų komisija jos netvirtina ir ginčą išsprendžia iš esmės. 
+
+
+
+
+6. Jeigu bylos šalys taikos sutartį sudaro ir pateikia ją administracinių ginčų komisijai po sprendimo, priimto išnagrinėjus skundą (prašymą), priėmimo, administracinių ginčų komisija, patvirtinusi taikos sutartį, nauju sprendimu panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, šio įstatymo 21 straipsnyje nurodyto termino eiga sustabdoma.
+ 
+
+
+
+
+
+
+18 straipsnis. Administracinių ginčų komisijos posėdžio eigos fiksavimas
+
+
+1. Administracinių ginčų komisijos posėdžio eigai fiksuoti daromas garso įrašas ar rašomas posėdžio protokolas. Sprendimą dėl posėdžių eigos fiksavimo būdo priima administracinių ginčų komisija. Bylos šalys ir jų atstovai turi teisę susipažinti su administracinių ginčų komisijos posėdžio garso įrašu ar posėdžio protokolu, taip pat gauti posėdžio garso įrašo skaitmeninę kopiją ar posėdžio protokolo kopiją.
+
+
+
+
+2. Administracinių ginčų komisijos posėdžio garso įrašas ar protokolas yra sudedamoji bylos dalis. Vyriausiosios administracinių ginčų komisijos posėdžio garso įrašui taikomus reikalavimus, susipažinimo su posėdžio garso įrašu ar protokolu ir garso įrašų skaitmeninių kopijų darymo tvarką nustato Vyriausiosios administracinių ginčų komisijos pirmininkas. Jeigu savivaldybės visuomeninės administracinių ginčų komisijos posėdžių eiga fiksuojama garso įrašu, savivaldybės visuomeninės administracinių ginčų komisijos posėdžio garso įrašui taikomus reikalavimus, susipažinimo su posėdžio garso įrašu ar protokolu ir garso įrašų skaitmeninių kopijų darymo tvarką nustato savivaldybės visuomeninės administracinių ginčų komisijos pirmininkas.
+
+
+
+
+3. Jeigu administracinių ginčų komisijos posėdžių eiga fiksuojama protokolu, jame įrašomi šie duomenys: posėdžio vieta ir data, pradžia ir pabaiga; administracinių ginčų komisijos pavadinimas ir sudėtis; posėdyje dalyvaujančių bylos šalių ir jų atstovų, kitų posėdyje dalyvaujančių asmenų vardai ir pavardės; nagrinėjamo skundo (prašymo) turinys; bylos šalių ir jų atstovų, kitų posėdyje dalyvaujančių asmenų paaiškinimai, prašymai; balsavimo rezultatai; informacija apie sprendimo priėmimo terminą, jo apskundimo tvarką.
+
+
+
+
+4. Administracinių ginčų komisijos posėdžio protokolą pasirašo posėdžio pirmininkas ir posėdžio sekretorius.
+ 
+
+
+
+
+
+
+19 straipsnis. Administracinių ginčų komisijos sprendimo priėmimas
+
+
+1. Administracinių ginčų komisijos sprendimas priimamas ne vėliau kaip per 3 darbo dienas nuo skundo (prašymo) išnagrinėjimo, bylos šalims nedalyvaujant.
+
+
+
+
+2. Administracinių ginčų komisija priima sprendimą bendru sutarimu. Kai bendro sutarimo nėra, sprendimas laikomas priimtu, jeigu už jį balsavo dauguma posėdyje dalyvavusių administracinių ginčų komisijos narių. Jeigu administracinių ginčų komisijos posėdyje dalyvauja keturi komisijos nariai ir balsai dėl sprendimo priėmimo pasiskirsto po lygiai, lemia administracinių ginčų komisijos posėdžio pirmininko balsas. Posėdyje dalyvavęs administracinių ginčų komisijos narys, nesutinkantis su priimtu sprendimu, gali išdėstyti raštu savo atskirąją nuomonę. Atskiroji nuomonė bylos šalims nesiunčiama, bet pridedama prie bylos.
+ 
+
+
+
+
+
+
+20 straipsnis. Administracinių ginčų komisijos sprendimų rūšys ir sprendimo turinys, bylos nutraukimas, skundo (prašymo) palikimas nenagrinėto
+
+
+1. Administracinių ginčų komisija, išnagrinėjusi skundą (prašymą), priima vieną iš šių sprendimų:
+
+
+1) atmesti skundą (prašymą) kaip nepagrįstą;
+
+
+
+
+2) panaikinti skundžiamą individualų administracinį aktą ar jo dalį;
+
+
+
+
+3) įpareigoti viešojo administravimo subjektą pašalinti padarytą pažeidimą ar įvykdyti kitą administracinių ginčų komisijos nurodymą.
+
+
+
+
+
+
+2. Administracinių ginčų komisija priima sprendimą nutraukti bylą, jeigu:
+
+
+1) byla nepriskirtina administracinių ginčų komisijos kompetencijai;
+
+
+
+
+2) yra įsiteisėjęs teismo ar administracinių ginčų komisijos sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba teismo nutartis ar administracinių ginčų komisijos sprendimas bylą nutraukti;
+
+
+
+
+3) pareiškėjas atsisakė skundo (prašymo); 
+
+
+
+
+4) administracinių ginčų komisija patvirtina šalių sudarytą taikos sutartį;
+
+
+
+
+5) mirus fiziniam asmeniui ar likvidavus juridinį asmenį, kuris buvo pareiškėjas, ginčo teisinis santykis neleidžia perimti teisių; 
+
+
+
+
+6) paaiškėja, kad skundas (prašymas) buvo priimtas praleidus nustatytus jo padavimo terminus, o pareiškėjas neprašė termino atnaujinti arba toks prašymas buvo atmestas.
+
+
+
+
+
+
+3. Administracinių ginčų komisija gali nepriimti pareiškėjo skundo (prašymo) atsisakymo, jeigu tai prieštarauja įstatymui ar viešajam interesui arba pažeidžia kieno nors teises ar įstatymų saugomus interesus.
+
+
+
+
+4. Bylą nutraukus, vėl kreiptis į administracinių ginčų komisiją dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu neleidžiama.
+
+
+
+
+5. Administracinių ginčų komisija priima sprendimą palikti skundą (prašymą) nenagrinėtą, jeigu:
+
+
+1) skundą (prašymą) padavė neveiksnus tam tikroje srityje asmuo; 
+
+
+
+
+2) administracinių ginčų komisijoje ar teisme nagrinėjamas administracinis ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu; 
+
+
+
+
+3) skundą (prašymą) suinteresuoto asmens vardu padavė neįgaliotas pradėti bylą asmuo;
+
+
+
+
+4) negalima nagrinėti skundo (prašymo), iki bus išspręsta kita byla, nagrinėjama civiline, baudžiamąja ar administracine tvarka.
+
+
+
+
+
+
+6. Pašalinus sąlygas, kurios buvo pagrindas palikti skundą (prašymą) nenagrinėtą, suinteresuotas asmuo turi teisę vėl kreiptis į administracinių ginčų komisiją su skundu (prašymu) bendra tvarka.
+
+
+
+
+7. Administracinių ginčų komisijos sprendime įrašoma: sprendimo priėmimo vieta ir data; administracinių ginčų komisijos pavadinimas ir sudėtis; posėdyje dalyvavusių bylos šalių, jų atstovų vardai ir pavardės; skundo (prašymo) turinys; administracinių ginčų komisijos nustatytos aplinkybės, jų teisinis įvertinimas; priimto sprendimo esmė ir motyvai; sprendimo apskundimo tvarka ir terminas.
+
+
+
+
+8. Administracinių ginčų komisijos sprendimą pasirašo administracinių ginčų komisijos posėdžio pirmininkas ir kiti administracinių ginčų komisijos nariai, dalyvavę bylos nagrinėjime.
+
+
+
+
+9. Administracinių ginčų komisijos sprendimas išsiunčiamas bylos šalims ne vėliau kaip kitą darbo dieną po jo priėmimo.
+ 
+
+
+
+
+
+
+21 straipsnis. Administracinių ginčų komisijos sprendimo apskundimas
+
+
+Pareiškėjas ar atsakovas, nesutinkantys su administracinių ginčų komisijos sprendimu, nurodytu šio įstatymo 12 straipsnio 2 dalyje, 20 straipsnio 1 ar 2 dalyje, turi teisę tą sprendimą per vieną mėnesį nuo jo gavimo apskųsti apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+22 straipsnis. Administracinių ginčų komisijos sprendimo vykdymas
+
+
+1. Administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį turi būti vykdomi nuo jo gavimo dienos. 
+
+
+
+
+2. Neįvykdytas Vyriausiosios administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat neįvykdytas Vyriausiosios administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį, kurie nebuvo apskųsti per šio įstatymo 21 straipsnyje nustatytą terminą, vykdomi Civilinio proceso kodekso nustatyta tvarka. Apskundus šioje dalyje nurodytą Vyriausiosios administracinių ginčų komisijos sprendimą, jis vykdomas po to, kai skundas (prašymas) lieka nepatenkintas.
+
+
+
+
+3. Pareiškėjas turi teisę kreiptis į apygardos administracinį teismą su prašymu užtikrinti neįvykdyto savivaldybės visuomeninės administracinių ginčų komisijos sprendimo, kuriuo išspręstas ginčas, taip pat neįvykdyto savivaldybės visuomeninės administracinių ginčų komisijos sprendimo patvirtinti šalių taikos sutartį, vykdymą, jeigu nurodyti sprendimai nebuvo apskųsti per šio įstatymo 21 straipsnyje nustatytą terminą. Apskundus šioje dalyje nurodytą savivaldybės visuomeninės administracinių ginčų komisijos sprendimą, kreiptis dėl sprendimo ar sprendimu patvirtintos taikos sutarties įvykdymo užtikrinimo galima po to, kai skundas lieka nepatenkintas.
+ 
+
+
+
+
+
+
+23 straipsnis. Žalos atlyginimo klausimų sprendimas
+
+
+Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei žalos, nei bylos šalių turėtų išlaidų atlyginimo klausimų nesprendžia.
 
 
 
@@ -419,6 +840,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
  
  
 Pakeitimai:
@@ -467,3 +889,8 @@ Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2, 3, 5, 6, 18
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1534, 2011-06-23, Žin., 2011, Nr. 86-4173 (2011-07-13), i. k. 1111010ISTA0XI-1534
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2400, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16850
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo Nr. VIII-1031 pakeitimo įstatymas
