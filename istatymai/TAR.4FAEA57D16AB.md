@@ -13,12 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FAEA57D16AB"
 
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymas
 
-Suvestinė redakcija nuo 2014-07-03 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 141-5405, i. k. 1061010ISTA000X-980
  
+Nauja redakcija nuo 2016-07-01:
+Nr. XII-2439, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17350
  
-LIETUVOS RESPUBLIKOS PREZIDENTO VALSTYBINĖS RENTOS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  PREZIDENTO VALSTYBINĖS RENTOS  ĮSTATYMAS
  
 2006 m. gruodžio 12 d. Nr. X-980
 Vilnius
@@ -28,7 +30,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja Respublikos Prezidento valstybinės rentos, Respublikos Prezidento valstybinės našlių ir našlaičių rentos skyrimo ir mokėjimo sąlygas bei tvarką, taip pat šių rentų dydžius.
+Šis įstatymas nustato Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) valstybinės rentos ir Respublikos Prezidento našlaičių valstybinės rentos skyrimo ir mokėjimo sąlygas bei tvarką, taip pat šių rentų dydžius.
  
 
 
@@ -39,17 +41,17 @@ Vilnius
 2 straipsnis. Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo sąlygos
 
 
-1. Respublikos Prezidento valstybinė renta skiriama ir mokama iki gyvos galvos Respublikos Prezidentui, kurio įgaliojimai nutrūko Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais.
+1. Respublikos Prezidento valstybinė renta skiriama ir mokama iki gyvos galvos Respublikos Prezidentui, kurio įgaliojimai nutrūko Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais.
 
 
 
 
-2. Respublikos Prezidentui, išrinktam naujai kadencijai, paskirtoji Respublikos Prezidento valstybinė renta nemokama. Paskirtoji Respublikos Prezidento valstybinė renta vėl pradedama mokėti, kai Respublikos Prezidento įgaliojimai nutrūksta Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais.
+2. Respublikos Prezidentui, išrinktam naujai kadencijai, paskirtoji Respublikos Prezidento valstybinė renta nemokama. Paskirtoji Respublikos Prezidento valstybinė renta vėl pradedama mokėti, kai Respublikos Prezidento įgaliojimai nutrūksta Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais.
 
 
 
 
-3. Respublikos Prezidentui, turinčiam teisę gauti Respublikos Prezidento valstybinę rentą ir valstybinę pensiją ar pensinio pobūdžio išmoką, paskirtas pagal Lietuvos Respublikos įstatymus ir mokamas iš Lietuvos Respublikos valstybės biudžeto, jo pasirinkimu skiriama ir mokama tik viena iš šių išmokų: arba Respublikos Prezidento valstybinė renta, arba valstybinė pensija, arba pensinio pobūdžio išmoka.
+3. Respublikos Prezidentui Respublikos Prezidento valstybinė renta neskiriama, jeigu jis neatsisako gaunamos valstybinės pensijos ar kitos iš Lietuvos Respublikos valstybės biudžeto mokamos periodinės pensinio pobūdžio išmokos (valstybinės signataro rentos, valstybinės signataro našlių ir našlaičių rentos, kompensacinės išmokos teatrų ir koncertinių įstaigų kūrybiniams darbuotojams, rentos sportininkams, šalpos pensijos), paskirtos pagal Lietuvos Respublikos įstatymus. 
  
 
 
@@ -65,7 +67,7 @@ Vilnius
 
 
 
-2. Respublikos Prezidento valstybinės rentos dydis nustatomas pagal Respublikos Prezidento darbo užmokesčio dydį, galiojantį tą mėnesį, už kurį ši renta skiriama ir (ar) mokama. Pasikeitus Respublikos Prezidento darbo užmokesčiui, Respublikos Prezidento valstybinės rentos dydį Vyriausybė nustato iš naujo. Respublikos Prezidento valstybinės rentos dydis negali būti mažinamas.
+2. Respublikos Prezidento valstybinės rentos dydis nustatomas pagal Respublikos Prezidento darbo užmokesčio dydį, galiojantį tą mėnesį, už kurį ši renta skiriama ir (ar) mokama. Pasikeitus Respublikos Prezidento darbo užmokesčio dydžiui, Respublikos Prezidento valstybinės rentos dydį Lietuvos Respublikos Vyriausybė nustato iš naujo. Respublikos Prezidento valstybinės rentos dydis negali būti mažinamas.
  
 
 
@@ -73,63 +75,30 @@ Vilnius
 
 
 
-4 straipsnis. Asmenys, turintys teisę gauti Respublikos Prezidento valstybinę našlių ar našlaičių rentą
+4 straipsnis. Asmenys, turintys teisę gauti Respublikos Prezidento našlaičių valstybinę rentą
 
 
-1. Teisę gauti Respublikos Prezidento valstybinę našlių rentą turi mirusio Respublikos Prezidento sutuoktinis Lietuvos Respublikos pilietis (toliau – našlys (našlė).
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruodžio 12 d. redakcija; Žin., 2006, Nr. 141-5405) 4 straipsnio 1 dalis prieštarauja Lietuvos Respublikos Konstitucijos 52 straipsniui, konstituciniam teisinės valstybės principui.
-Straipsnio dalies pakeitimai:
-Nr. KT34-N9/2014, 2014-07-03, paskelbta TAR 2014-07-03, i. k. 2014-09761
- 
+1. Teisę gauti Respublikos Prezidento našlaičių valstybinę rentą turi mirusio Respublikos Prezidento našlaičiai, kurie yra Lietuvos Respublikos piliečiai:
 
 
-
-
-2. Teisę gauti Respublikos Prezidento valstybinę našlaičių rentą turi mirusio Respublikos Prezidento vaikai, įvaikiai Lietuvos Respublikos piliečiai (toliau – našlaičiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (iki 2005 m. liepos 1 d. – invalidai), taip pat nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai ir dieninių ar nuolatinių studijų programų studentai – iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, kurie turi teisę gauti Respublikos Prezidento valstybinę našlaičių rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai.
-Straipsnio dalies pakeitimai:
-Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. 1111010ISTA0XI-1649
- 
+1) nepilnamečiai vaikai (įvaikiai); 
 
 
 
 
-3. Našlaičius įvaikinus, jų teisė gauti Respublikos Prezidento valstybinę našlaičių rentą išlieka.
- 
+2) pilnamečiai vaikai (įvaikiai), jeigu jie pripažinti neįgaliaisiais iki pilnametystės ir visą laiką nuo pilnametystės yra nedarbingi ar iš dalies darbingi;
+
+
+
+
+3) pilnamečiai vaikai (įvaikiai), kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti Respublikos Prezidento našlaičių valstybinę rentą iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 dienos), bet ne ilgiau, iki jiems sukaks 24 metai. 
 
 
 
 
 
 
-5 straipsnis. Respublikos Prezidento valstybinės našlių ir našlaičių rentos skyrimo ir mokėjimo sąlygos
-
-
-1. Respublikos Prezidento valstybinė našlių ir našlaičių renta skiriama Respublikos Prezidento našliui (našlei) ir našlaičiams, mirus Respublikos Prezidentui, kuriam buvo ar galėjo būti paskirta Respublikos Prezidento valstybinė renta.
-
-
-
-
-2. Respublikos Prezidento valstybinė našlių renta skiriama ir (ar) mokama Respublikos Prezidento našliui (našlei) nepaisant jo (jos) amžiaus, gaunamų pensijų ar nuolatinių pensinio pobūdžio išmokų, išskyrus šio straipsnio 3 ir 4 dalyse nustatytus atvejus.
-
-
-
-
-3. Respublikos Prezidento našliui (našlei), turinčiam (turinčiai) teisę gauti Respublikos Prezidento valstybinę našlių rentą ir valstybinę pensiją ar (ir) pensinio pobūdžio išmoką, paskirtas pagal Lietuvos Respublikos įstatymus ir mokamas iš Lietuvos Respublikos valstybės biudžeto, jo (jos) pasirinkimu skiriama ir mokama tik viena iš šių išmokų: arba Respublikos Prezidento valstybinė našlių renta, arba valstybinė pensija, arba pensinio pobūdžio išmoka.
-
-
-
-
-4. Respublikos Prezidento valstybinė našlių renta neskiriama, o paskirtoji valstybinė renta nemokama, kol Respublikos Prezidento našlys (našlė) turi draudžiamųjų pajamų. Draudžiamųjų pajamų sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
-
-
-
-
-5. Našliui (našlei), gaunančiam (gaunančiai) Respublikos Prezidento valstybinę našlių rentą, ši renta baigiama mokėti dar kartą susituokus.
-
-
-
-
-6. Respublikos Prezidento valstybinė našlaičių renta skiriama ir (ar) mokama Respublikos Prezidento našlaičiams, nepaisant jų gaunamų pensijų ir (ar) draudžiamųjų pajamų.
+2. Įvaikinus šio straipsnio 1 dalies 1 punkte nurodytus našlaičius, jų teisė gauti Respublikos Prezidento našlaičių valstybinę rentą išlieka.
  
 
 
@@ -137,25 +106,15 @@ Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. 1111010IS
 
 
 
-6 straipsnis. Respublikos Prezidento valstybinės našlių ir našlaičių rentos dydis
+5 straipsnis. Respublikos Prezidento našlaičių valstybinės rentos skyrimo ir mokėjimo sąlygos 
 
 
-1. Respublikos Prezidento valstybinės našlių rentos dydis yra 50 procentų Respublikos Prezidento valstybinės rentos dydžio.
-
-
-
-
-2. Respublikos Prezidento valstybinės našlaičių rentos dydis yra 25 procentai Respublikos Prezidento valstybinės rentos dydžio, jeigu teisę gauti šią rentą turi vienas našlaitis. Jei tokią teisę turi daugiau našlaičių, kiekvienam skiriama po lygiai, bet ne daugiau kaip po 25 procentus ir visiems kartu ne daugiau kaip 50 procentų viso Respublikos Prezidento valstybinės rentos dydžio.
+1. Respublikos Prezidento našlaičių valstybinė renta skiriama Respublikos Prezidento našlaičiams, mirus Respublikos Prezidentui, kuriam buvo ar galėjo būti paskirta Respublikos Prezidento valstybinė renta.
 
 
 
 
-3. Tuo atveju, kai nėra našlio (našlės), turinčio (turinčios) teisę gauti Respublikos Prezidento valstybinę našlių rentą, kiekvienam našlaičiui skiriama po lygiai, bet ne daugiau kaip po 25 procentus ir visiems kartu ne daugiau kaip 100 procentų Respublikos Prezidento valstybinės rentos dydžio.
-
-
-
-
-4. Skiriant ir (ar) mokant Respublikos Prezidento valstybinę našlių ir našlaičių rentą, taikomas Respublikos Prezidento valstybinės rentos dydis, nustatytas pagal šio įstatymo 3 straipsnio 2 dalies nuostatas.
+2. Respublikos Prezidento našlaičių valstybinė renta skiriama ir mokama Respublikos Prezidento našlaičiams, neatsižvelgiant į jų gaunamas pensijas ir draudžiamąsias pajamas.
  
 
 
@@ -163,45 +122,15 @@ Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. 1111010IS
 
 
 
-7 straipsnis. Respublikos Prezidento valstybinės rentos ir Respublikos Prezidento valstybinės našlių ir našlaičių rentos skyrimo ir mokėjimo tvarka
+6 straipsnis. Respublikos Prezidento našlaičių valstybinės rentos dydis
 
 
-1. Sprendimą skirti Respublikos Prezidento valstybinę rentą ar Respublikos Prezidento valstybinę našlių ir našlaičių rentą priima Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu.
-
-
-
-
-2. Respublikos Prezidento valstybinė renta ar Respublikos Prezidento valstybinė našlių ir našlaičių renta skiriama nuo teisės į šią rentą įgijimo dienos.
+1. Respublikos Prezidento našlaičių valstybinės rentos dydis yra 25 procentai Respublikos Prezidento valstybinės rentos dydžio, jeigu teisę gauti šią rentą turi vienas našlaitis. Jeigu tokią teisę turi daugiau našlaičių, kiekvienam skiriama po lygiai, bet ne daugiau kaip po 25 procentus ir visiems kartu ne daugiau kaip 50 procentų viso Respublikos Prezidento valstybinės rentos dydžio. 
 
 
 
 
-3. Respublikos Prezidento valstybinę rentą ar Respublikos Prezidento valstybinę našlių ir našlaičių rentą iš Lietuvos Respublikos valstybės biudžeto lėšų moka Respublikos Prezidento kanceliarija, vadovaudamasi šiuo įstatymu bei Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais. 
-Straipsnio dalies pakeitimai:
-Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010ISTA00X-1799
- 
-
-
-
-
-4. Respublikos Prezidento valstybinė renta ir Respublikos Prezidento valstybinė našlių ir našlaičių renta mokamos už praėjusį mėnesį.
-
-
-
-
-5. Respublikos Prezidentui mirus, paskirtoji Respublikos Prezidento valstybinė renta išmokama už visą tą mėnesį, kurį Respublikos Prezidentas mirė, jei renta dar nebuvo išmokėta. Mirus Respublikos Prezidento valstybinės našlių ir našlaičių rentos gavėjui, ši renta taip pat išmokama už visą mirties mėnesį, jei ji dar nebuvo išmokėta.
-
-
-
-
-6. Respublikos Prezidento valstybinė renta ar Respublikos Prezidento valstybinė našlių ir našlaičių renta neskiriama, o paskirtoji nemokama, jeigu įsiteisėja Respublikos Prezidentui, jo našliui (našlei) ar našlaičiui apkaltinamasis teismo nuosprendis, kuriuo jie pripažinti kaltais už tyčinio nusikaltimo padarymą (neatsižvelgiant į atleidimą nuo bausmės atlikimo, vėlesnį teistumo išnykimą ar panaikinimą).
-
-
-
-
-7. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos gavėjas apie aplinkybes, turinčias įtakos Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos mokėjimui, išskyrus šio įstatymo 2 straipsnio 2 dalyje nurodytas aplinkybes, privalo per 10 darbo dienų nuo šių aplinkybių atsiradimo pranešti Respublikos Prezidento kanceliarijai. Jeigu apie nurodytas aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010ISTA00X-1799
+2. Skiriant ir mokant Respublikos Prezidento našlaičių valstybinę rentą, taikomas Respublikos Prezidento valstybinės rentos dydis, nustatytas pagal šio įstatymo 3 straipsnio 2 dalies nuostatas.
  
 
 
@@ -209,10 +138,40 @@ Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010IST
 
 
 
-8 straipsnis. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos neišmokėjimas
+7 straipsnis. Respublikos Prezidento valstybinės rentos, Respublikos Prezidento našlaičių valstybinės rentos skyrimo ir mokėjimo tvarka
 
 
-Laiku negauta ar neišmokėta Respublikos Prezidento valstybinė renta ar Respublikos Prezidento valstybinė našlių ir našlaičių renta išmokama už visą praėjusį laiką nuo teisės ją gauti įgijimo dienos.
+1. Sprendimą skirti Respublikos Prezidento valstybinę rentą ar Respublikos Prezidento našlaičių valstybinę rentą (toliau kartu – valstybinė renta) priima Lietuvos Respublikos Vyriausybė Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos teikimu.
+
+
+
+
+2. Valstybinė renta skiriama nuo teisės į šią rentą įgijimo dienos. Laiku negauta ar neišmokėta valstybinė renta išmokama už visą praėjusį laikotarpį nuo teisės ją gauti įgijimo dienos.
+
+
+
+
+3. Valstybinę rentą iš Lietuvos Respublikos valstybės biudžeto lėšų moka Lietuvos Respublikos Prezidento kanceliarija, vadovaudamasi šiuo įstatymu ir Lietuvos Respublikos Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais.
+
+
+
+
+4. Valstybinė renta mokama už praėjusį mėnesį.
+
+
+
+
+5. Valstybinės rentos gavėjui mirus, paskirtoji valstybinė renta jį palaidojusiems asmenims išmokama už visą tą mėnesį, kurį valstybinės rentos gavėjas mirė, jeigu ji dar nebuvo išmokėta. 
+
+
+
+
+6. Jeigu asmeniui įsiteisėja apkaltinamasis teismo nuosprendis, kuriuo jis pripažintas kaltu už tyčinio nusikaltimo padarymą (neatsižvelgiant į atleidimą nuo bausmės atlikimo, vėlesnį teistumo išnykimą ar panaikinimą), valstybinė renta neskiriama, o paskirtoji nemokama.
+
+
+
+
+7. Valstybinės rentos gavėjas, kuris neteko Lietuvos Respublikos pilietybės arba kuriam įsiteisėjo apkaltinamasis teismo nuosprendis, kuriuo valstybinės rentos gavėjas pripažintas kaltu dėl tyčinio nusikaltimo padarymo, taip pat Respublikos Prezidento našlaitis, nebeatitinkantis šio įstatymo 4 straipsnio 1 dalyje nurodytų sąlygų, privalo per 10 darbo dienų nuo tokių aplinkybių atsiradimo apie jas pranešti Lietuvos Respublikos Prezidento kanceliarijai. Jeigu apie tokias aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.
  
 
 
@@ -220,52 +179,27 @@ Laiku negauta ar neišmokėta Respublikos Prezidento valstybinė renta ar Respub
 
 
 
-9 straipsnis. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos mokėjimas jos gavėjui išvykus nuolat gyventi į užsienį
+8 straipsnis. Valstybinės rentos mokėjimas jos gavėjui išvykus nuolat gyventi į užsienį
 
 
-Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos gavėjui išvykus nuolat gyventi į užsienį, renta mokama vadovaujantis šiuo įstatymu bei Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais.
- 
-
-
-
-
-
-
-10 straipsnis. Įstatymo įsigaliojimas
-
-
-1. Šis įstatymas, išskyrus 11 straipsnį, įsigalioja nuo 2007 m. sausio 1 d.
-
-
-
-
-2. Įsigaliojus šiam įstatymui, Respublikos Prezidentui, kuriam buvo paskirta ir mokama Respublikos Prezidento valstybinė pensija, vietoj jos pagal Respublikos Prezidento valstybinės pensijos byloje esančius dokumentus mokama Respublikos Prezidento valstybinė renta, nekeičiant išmokos mokėjimo mėnesio.
- 
+Valstybinės rentos gavėjui išvykus nuolat gyventi į užsienį, valstybinė renta mokama vadovaujantis šiuo įstatymu ir Lietuvos Respublikos Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais.
 
 
 
 
 
 
-11 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
-
-
-Lietuvos Respublikos Vyriausybė iki 2007 m. sausio 1 d. parengia ir patvirtina būtinus šiam įstatymui įgyvendinti teisės aktus.
  
  
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
 
 
+ 
  
  
 Pakeitimai:
@@ -284,3 +218,8 @@ Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 4 straipsnio pakei
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT34-N9/2014, 2014-07-03, paskelbta TAR 2014-07-03, i. k. 2014-09761
 Dėl Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruodžio 12 d. redakcija) kai kurių nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2439, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17350
+Lietuvos Respublikos Prezidento valstybinės rentos įstatymo Nr. X-980 pakeitimo įstatymas
