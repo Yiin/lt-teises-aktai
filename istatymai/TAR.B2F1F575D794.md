@@ -20,7 +20,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 
 
 
-Suvestinė redakcija nuo 2015-03-02 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
  
@@ -139,6 +139,14 @@ Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
 
 
 14) pinigų pasinaudojant Lietuvos Respublikos užsienio reikalų ministerijos ar konsulinių įstaigų sąskaitomis pervedimą, jei to reikia konsulinei pagalbai suteikti ir nukentėjusiam asmeniui dėl svarbių priežasčių negalima pervesti pinigų kitais būdais.
+
+
+
+
+15) laikino paso išdavimą.
+Papildyta straipsnio punktu:
+Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
+ 
 
 
 
