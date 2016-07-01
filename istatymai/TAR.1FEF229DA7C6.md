@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -168,54 +168,63 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 
 
-11. Elektroninis dokumentas – juridinio ar fizinio asmens norminių teisės aktų nustatyta tvarka informacinių technologijų priemonėmis sudarytas, patvirtintas ar gautas dokumentas, pasirašytas teisinę galią turinčiu elektroniniu parašu. 
+11. Ilgai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 26 iki 100 metų.
 Papildyta straipsnio dalimi:
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Straipsnio dalies pakeitimai:
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
  
 
 
 
 
-12. Ilgai saugomi dokumentai – dokumentai, kurių nustatytas saugojimo terminas nuo 26 iki 100 metų. 
+12. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
 Papildyta straipsnio dalimi:
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
  
 
 
 
 
-13. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
+13. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
  
 
 
 
 
-14. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
+14. Nuolat saugomi dokumentai – dokumentai, kuriuos nustatyta saugoti neribotą laiką.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
  
 
 
 
 
-15. Nuolat saugomi dokumentai – dokumentai, kuriuos nustatyta saugoti neribotą laiką. 
+15. Oficialusis dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
 Straipsnio dalies pakeitimai:
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
  
 
 
 
 
-16. Oficialus dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens vykdant teisės norminių aktų nustatytus įgaliojimus sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
+16. Oficialusis elektroninis dokumentas – Lietuvos vyriausiojo archyvaro nustatyta tvarka valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens informacinių technologijų priemonėmis sudarytas, patvirtintas ar gautas elektroninis dokumentas, pasirašytas elektroniniu parašu ir įtrauktas į apskaitą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
@@ -225,7 +234,9 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 
 
-17. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų ir kitų teisės norminių aktų nustatyta tvarka.
+17. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
