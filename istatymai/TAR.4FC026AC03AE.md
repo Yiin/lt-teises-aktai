@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -2284,32 +2284,6 @@ Pareigūnui draudžiama:
 ŠEŠTASIS SKIRSNIS
 PAREIGŪNŲ DARBO LAIKAS IR ATOSTOGOS
  
-
-
-37 straipsnis. Pareigūnų darbo laikas 
-
-
-1. Pareigūnų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus pareigūnus, darbo laiko trukmė negali būti ilgesnė kaip 40 valandų per savaitę (7 dienų laikotarpį). Šio statuto 38 straipsnyje nurodytais pagrindais vidaus reikalų įstaigos vadovas savo sprendimu pareigūnui gali pavesti dirbti ilgiau negu nustatyta savaitės darbo laiko trukmė.
-
-
-
-
-2. Pareigūnui negalima pavesti dirbti daugiau kaip 8 valandas viršvalandžių per vieną dieną. Pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 24 valandos. Į pamainos trukmę įskaičiuojamas laikas, skirtas pareigūnams instruktuoti, apsiginkluoti ir atsiskaityti už tarnybos rezultatus. Vieno pareigūno viršvalandžiai per metus negali viršyti 250 valandų.
-
-
-
-
-3. Nustatytas funkcijas nepertraukiamai vykdančiose vidaus reikalų įstaigose tam tikras pareigas einantiems pareigūnams, dirbantiems pamainomis, vidaus reikalų centrinės įstaigos vadovo sprendimu gali būti nustatyta ne ilgesnė kaip 24 valandų pamainos trukmė, viršijanti šio straipsnio 1 dalyje nustatytą 40 valandų per savaitę (7 dienų laikotarpį) darbo laiko trukmę, bet ne ilgesnė kaip 48 valandų per savaitę (7 dienų laikotarpį). Šių pareigūnų darbas, kiekvieną savaitę (7 dienų laikotarpį) neviršijantis 48 valandų darbo laiko normos, nelaikomas viršvalandiniu. Šioje dalyje nurodytų pareigūnų pareigybių sąrašą, šių pareigūnų darbo ir poilsio laiko apskaitos ypatumus nustato Vyriausybė.
-
-
-
-
-4. Šio straipsnio 3 dalyje nurodytiems pareigūnams dirbti viršvalandžius galima pavesti tik šio statuto 38 straipsnyje nustatytais atvejais. Tokiais atvejais pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos, o vieno pareigūno viršvalandžiai per metus negali viršyti 164 valandų. 
-37 straipsnio redakcija nuo 2016-07-01:
-
-
-
-
 
 
 37 straipsnis. Pareigūnų darbo laikas
