@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-06-30
+Suvestinė redakcija nuo 2016-07-01 iki 2016-08-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -73,132 +73,218 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Junginys – keli daliniai ar kitokie struktūriniai kariniai vienetai, turintys bendrą operacinę paskirtį ar užduotį ir vadovaujami vieno vado.
+7. Ilgalaikis plaukiojimas – 3 mėnesius ir ilgiau trunkantis karo laivo išplaukimas iš dislokacijos uosto vykdyti užduočių teritoriniuose vandenyse, išskirtinėje ekonominėje zonoje, atviroje jūroje ar įplaukimas į kitus uostus, išskyrus įplaukimą į kitą uostą laivo modernizacijai, remontui ar kitokiai techninei priežiūrai atlikti. 
+Papildyta straipsnio dalimi:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-8. Karinė operacija – kariniai veiksmai vykdant strategines, taktines ar administracines karines užduotis (misijas) ir mokymus.
+8. Junginys – keli daliniai ar kitokie struktūriniai kariniai vienetai, turintys bendrą operacinę paskirtį ar užduotį ir vadovaujami vieno vado.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-9. Karinė teritorija – krašto apsaugos sistemos institucijų valdoma ar jų naudojama teritorija (lauko teritorija, pastatas ar patalpa), kitokia aptverta ar kitu suprantamu būdu pažymėta teritorija, priskirta ir (ar) naudojama krašto apsaugos sistemos institucijų reikmėms, taip pat suprantamu būdu pažymėta vietovė, kurioje Lietuvos kariuomenė atlieka karinius mokymus ir pratybas, sprogmenų kenksmingumo pašalinimo, gelbėjimo ar kitus valstybės saugumo ir gynybos reikmėms skirtus darbus šių pratybų, mokymų ar darbų metu.
+9. Karinė operacija – kariniai veiksmai vykdant strategines, taktines ar administracines karines užduotis (misijas) ir mokymus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-10. Karinis atstovas – nuolatinis Lietuvos kariuomenės vado atstovas tarptautinėje organizacijoje. Karinis atstovas gali turėti pavaduotojų ir padėjėjų.
+10. Karinė teritorija – krašto apsaugos sistemos institucijų valdoma ar jų naudojama teritorija (lauko teritorija, pastatas ar patalpa), kitokia aptverta ar kitu suprantamu būdu pažymėta teritorija, priskirta ir (ar) naudojama krašto apsaugos sistemos institucijų reikmėms, taip pat suprantamu būdu pažymėta vietovė, kurioje Lietuvos kariuomenė atlieka karinius mokymus ir pratybas, sprogmenų kenksmingumo pašalinimo, gelbėjimo ar kitus valstybės saugumo ir gynybos reikmėms skirtus darbus šių pratybų, mokymų ar darbų metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-11. Karinis vienetas – bendrą užduotį turintis patvirtintos struktūros Lietuvos kariuomenės vienetas, įskaitant aktyviojo rezervo karinius vienetus ir parengtojo rezervo karinius vienetus.
+11. Karinis atstovas – nuolatinis Lietuvos kariuomenės vado atstovas tarptautinėje organizacijoje. Karinis atstovas gali turėti pavaduotojų ir padėjėjų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-12. Kariūnas – karys, atliekantis karo tarnybą studijuodamas Lietuvos arba užsienio karo mokymo įstaigoje, kurią baigusiems suteikiamas karininko laipsnis. Kariūno tarnyba trunka, iki jis priimamas į profesinę karo tarnybą ar išleidžiamas į atsargą arba teisės aktų ar karo mokymo įstaigoje nustatyta tvarka iš jos atleidžiamas ar pašalinamas.
+12. Karinis vienetas – bendrą užduotį turintis patvirtintos struktūros Lietuvos kariuomenės vienetas, įskaitant aktyviojo rezervo karinius vienetus ir parengtojo rezervo karinius vienetus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-13. Karybos srities standartizacija – NATO valstybių tarptautinėmis sutartimis ir susitarimais bei NATO institucijų sprendimais nustatytų NATO standartų įdiegimas reglamentuojant gynybos planavimą, karinių operacijų rengimą ir vykdymą, ginkluotę ir amuniciją, informacijos ir ryšių sistemas, kitas technines priemones, žemėlapius ir dokumentaciją bei kitus su krašto apsauga susijusius techninius klausimus, taip pat originaliųjų Lietuvos karybos standartų nustatymas. Karybos srities standartizacijos tvarką nustato Vyriausybė arba jos įgaliota institucija.
+13. Kariūnas – karys, atliekantis karo tarnybą studijuodamas Lietuvos arba užsienio karo mokymo įstaigoje, kurią baigusiems suteikiamas karininko laipsnis. Kariūno tarnyba trunka, iki jis priimamas į profesinę karo tarnybą ar išleidžiamas į atsargą arba teisės aktų ar karo mokymo įstaigoje nustatyta tvarka iš jos atleidžiamas ar pašalinamas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-14. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.
+14. Karybos srities standartizacija – NATO valstybių tarptautinėmis sutartimis ir susitarimais bei NATO institucijų sprendimais nustatytų NATO standartų įdiegimas reglamentuojant gynybos planavimą, karinių operacijų rengimą ir vykdymą, ginkluotę ir amuniciją, informacijos ir ryšių sistemas, kitas technines priemones, žemėlapius ir dokumentaciją bei kitus su krašto apsauga susijusius techninius klausimus, taip pat originaliųjų Lietuvos karybos standartų nustatymas. Karybos srities standartizacijos tvarką nustato Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-15. Karys savanoris – aktyviojo rezervo karys, atliekantis krašto apsaugos savanorių karo tarnybą.
+15. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-16. Krašto apsaugos savanorių karo tarnyba (toliau – savanorių karo tarnyba) – karo prievolininkų pagal kario savanorio sutartį savanoriškai įsipareigota nenuolatinė karo tarnyba krašto apsaugos savanorių pajėgose. 
+16. Karys savanoris – aktyviojo rezervo karys, atliekantis krašto apsaugos savanorių karo tarnybą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-17. Krašto apsaugos sistema – Lietuvos Respublikos nacionalinio saugumo sistemos dalis, kurią sudaro valstybės institucijų, kurių paskirtis saugoti ir ginti valstybės suverenitetą, jos teritorijos neliečiamybę ir vientisumą, vykdyti Lietuvos tarptautinius gynybos ir karinio bendradarbiavimo įsipareigojimus, kitas su krašto apsauga susijusias funkcijas, taip pat šių institucijų įsteigtų įmonių ir įstaigų bei krašto apsaugos reikmėms skirtų karinių teritorijų ir kitų infrastruktūros objektų visuma.
+17. Krašto apsaugos savanorių karo tarnyba (toliau – savanorių karo tarnyba) – karo prievolininkų pagal kario savanorio sutartį savanoriškai įsipareigota nenuolatinė karo tarnyba krašto apsaugos savanorių pajėgose. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-18. Laikinasis profesinės karo tarnybos personalo rezervas – profesinės karo tarnybos karių kategorija, į kurią perkeliami laikinai nevykdantys savo nuolatinių pareigų profesinės karo tarnybos kariai.
+18. Krašto apsaugos sistema – Lietuvos Respublikos nacionalinio saugumo sistemos dalis, kurią sudaro valstybės institucijų, kurių paskirtis saugoti ir ginti valstybės suverenitetą, jos teritorijos neliečiamybę ir vientisumą, vykdyti Lietuvos tarptautinius gynybos ir karinio bendradarbiavimo įsipareigojimus, kitas su krašto apsauga susijusias funkcijas, taip pat šių institucijų įsteigtų įmonių ir įstaigų bei krašto apsaugos reikmėms skirtų karinių teritorijų ir kitų infrastruktūros objektų visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-19. Lietuvos kariuomenė (toliau – kariuomenė) – valstybės ginkluotos gynybos institucija – krašto apsaugos sistemos pagrindinė dalis, sauganti valstybės suverenitetą, jos teritorijos ir oro erdvės neliečiamybę, ginklu ginanti valstybę nuo agresijos ar kitokio ginkluoto užpuolimo, vykdanti karines užduotis pagal Lietuvos Respublikos tarptautinius įsipareigojimus.
+19. Laikinasis profesinės karo tarnybos personalo rezervas – profesinės karo tarnybos karių kategorija, į kurią perkeliami laikinai nevykdantys savo nuolatinių pareigų profesinės karo tarnybos kariai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-20. Liktinis – Lietuvos Respublikos pilietis, kuris atlikdamas privalomąją pradinę karo tarnybą buvo atrinktas į profesinę karo tarnybą ir sudarė profesinės karo tarnybos sutartį.
+20. Lietuvos kariuomenė (toliau – kariuomenė) – valstybės ginkluotos gynybos institucija – krašto apsaugos sistemos pagrindinė dalis, sauganti valstybės suverenitetą, jos teritorijos ir oro erdvės neliečiamybę, ginklu ginanti valstybę nuo agresijos ar kitokio ginkluoto užpuolimo, vykdanti karines užduotis pagal Lietuvos Respublikos tarptautinius įsipareigojimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-21. NATO standartai – NATO institucijų nustatytų bendrų principų, norminių dokumentų ir standartų, reglamentuojančių NATO narių karinių ir kitokių gynybos struktūrų, taip pat su jomis susijusių kitų institucijų veiklą, visuma.
+21. Liktinis – Lietuvos Respublikos pilietis, kuris atlikdamas privalomąją pradinę karo tarnybą buvo atrinktas į profesinę karo tarnybą ir sudarė profesinės karo tarnybos sutartį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-22. Operacinis vadovavimas – naudojimasis vadui deleguota teise organizuoti jam paskirtas pajėgas ir per karinių vienetų vadus vadovauti šių pajėgų veiksmams taip, kaip jis numato esant reikalinga, kad pajėgos galėtų įvykdyti paskirtą misiją ar užduotį. Atsakomybė už karinių vienetų rengimą, administravimą, vidaus organizavimą, discipliną ir logistiką į operacinio vadovavimo sampratą neįeina.
+22. NATO standartai – NATO institucijų nustatytų bendrų principų, norminių dokumentų ir standartų, reglamentuojančių NATO narių karinių ir kitokių gynybos struktūrų, taip pat su jomis susijusių kitų institucijų veiklą, visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-23. Parengtojo rezervo karinis vienetas – karinis vienetas, sudarytas iš parengtajame kariuomenės personalo rezerve esančių karo prievolininkų, išskyrus karius savanorius ir kitus aktyviojo rezervo karius.
+23. Operacinis vadovavimas – naudojimasis vadui deleguota teise organizuoti jam paskirtas pajėgas ir per karinių vienetų vadus vadovauti šių pajėgų veiksmams taip, kaip jis numato esant reikalinga, kad pajėgos galėtų įvykdyti paskirtą misiją ar užduotį. Atsakomybė už karinių vienetų rengimą, administravimą, vidaus organizavimą, discipliną ir logistiką į operacinio vadovavimo sampratą neįeina.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-24. Parengtojo rezervo karys – pagrindinį karinį parengtumą įgijęs karo prievolininkas, paskirtas atlikti nenuolatinę karo tarnybą į parengtojo rezervo karinį vienetą.
+24. Parengtojo rezervo karinis vienetas – karinis vienetas, sudarytas iš parengtajame kariuomenės personalo rezerve esančių karo prievolininkų, išskyrus karius savanorius ir kitus aktyviojo rezervo karius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-25. Privalomoji karo tarnyba – karo prievolininko atliekama privalomoji pradinė karo tarnyba, tarnyba rezerve ar tarnyba paskelbus mobilizaciją.
+25. Parengtojo rezervo karys – pagrindinį karinį parengtumą įgijęs karo prievolininkas, paskirtas atlikti nenuolatinę karo tarnybą į parengtojo rezervo karinį vienetą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-26. Profesinė karo tarnyba – Lietuvos Respublikos piliečio pagal profesinės karo tarnybos sutartį savanoriškai įsipareigota ir teisės aktų nustatytomis sąlygomis bei tvarka atliekama nuolatinė karo tarnyba kariuomenėje ar kitose krašto apsaugos sistemos institucijose, taip pat šio įstatymo nustatytais atvejais kitose valstybės, užsienio valstybių ar tarptautinėse institucijose.
+26. Privalomoji karo tarnyba – karo prievolininko atliekama privalomoji pradinė karo tarnyba, tarnyba rezerve ar tarnyba paskelbus mobilizaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-27. Tarnyba aktyviajame rezerve – teisės aktų nustatyta tvarka pagal kario savanorio ar aktyviojo rezervo kario sutartį savanoriškai įsipareigota nenuolatinė karo prievolininkų karo tarnyba kariniuose vienetuose.
+27. Profesinė karo tarnyba – Lietuvos Respublikos piliečio pagal profesinės karo tarnybos sutartį savanoriškai įsipareigota ir teisės aktų nustatytomis sąlygomis bei tvarka atliekama nuolatinė karo tarnyba kariuomenėje ar kitose krašto apsaugos sistemos institucijose, taip pat šio įstatymo nustatytais atvejais kitose valstybės, užsienio valstybių ar tarptautinėse institucijose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-28. Tarnyba rezerve – parengtajam kariuomenės personalo rezervui priskirtų karo prievolininkų privaloma nenuolatinė karo tarnyba parengtojo rezervo kariniuose vienetuose arba savanorių karo tarnyba ar kita karo prievolininkų savanoriškai įsipareigota nenuolatinė karo tarnyba kariniuose vienetuose.
+28. Tarnyba aktyviajame rezerve – teisės aktų nustatyta tvarka pagal kario savanorio ar aktyviojo rezervo kario sutartį savanoriškai įsipareigota nenuolatinė karo prievolininkų karo tarnyba kariniuose vienetuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-29. Tarptautinėse operacijose ar specialiosiose misijose dalyvavusių asmenų reintegracija (toliau – reintegracija) – psichologinės ir socialinės priemonės, kuriomis siekiama užtikrinti asmenų, dalyvavusių tarptautinėse operacijose ar specialiosiose misijose, psichologinę gerovę prisitaikant prie tarnybos, šeimos ir kitos socialinės aplinkos.
+29. Tarnyba rezerve – parengtajam kariuomenės personalo rezervui priskirtų karo prievolininkų privaloma nenuolatinė karo tarnyba parengtojo rezervo kariniuose vienetuose arba savanorių karo tarnyba ar kita karo prievolininkų savanoriškai įsipareigota nenuolatinė karo tarnyba kariniuose vienetuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-30. Tikroji karo tarnyba – Lietuvos Respublikos piliečių privalomoji karo tarnyba, profesinė karo tarnyba, kariūnų tarnyba.
+30. Tarptautinėse operacijose ar specialiosiose misijose dalyvavusių asmenų, taip pat grįžusių iš ilgalaikio plaukiojimo karių reintegracija (toliau – reintegracija) – psichologinės ir socialinės priemonės, kuriomis siekiama užtikrinti šių asmenų psichologinę gerovę prisitaikant prie tarnybos, šeimos ir kitos socialinės aplinkos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-31. Paieškos ir gelbėjimo rajonas suprantamas taip, kaip jis apibrėžiamas Saugios laivybos įstatyme; jūros rajonas ir vidaus vandenys suprantami taip, kaip jie apibrėžiami Jūros aplinkos apsaugos įstatyme.
+31. Tikroji karo tarnyba – Lietuvos Respublikos piliečių privalomoji karo tarnyba, profesinė karo tarnyba, kariūnų tarnyba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-32. Žvalgybos institucija ir žvalgybos pareigūnas suprantami taip, kaip jie apibrėžiami Žvalgybos įstatyme.
+32. Paieškos ir gelbėjimo rajonas suprantamas taip, kaip jis apibrėžiamas Saugios laivybos įstatyme; jūros rajonas ir vidaus vandenys suprantami taip, kaip jie apibrėžiami Jūros aplinkos apsaugos įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
+
+
+
+
+33. Žvalgybos institucija ir žvalgybos pareigūnas suprantami taip, kaip jie apibrėžiami Žvalgybos įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 Straipsnio pakeitimai:
@@ -2647,7 +2733,15 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-7) kai karys savanoris ar kitas aktyviojo rezervo karys pateikia prašymą stoti į profesinę karo tarnybą.
+7) kai karys savanoris ar kitas aktyviojo rezervo karys pateikia prašymą stoti į profesinę karo tarnybą;
+
+
+
+
+8) už pirmus 4 nepertraukiamos profesinės karo tarnybos metus arba tarnybos pagal kario savanorio ar aktyviojo rezervo kario sutartį metus, išskyrus pirmą kartą į pareigas profesinėje karo tarnyboje paskirtus karius, baigusius Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis. 
+Papildyta straipsnio punktu:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -2664,7 +2758,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-7. Profesinės karo tarnybos karių, karių savanorių ar kitų aktyviojo rezervo karių tarnybos vertinimą atlieka vadai (viršininkai). Šiuos vadus (viršininkus) ir profesinės karo tarnybos karių, karių savanorių ar kitų aktyviojo rezervo karių tarnybos vertinimo tvarką nustato krašto apsaugos ministras.
+7. Profesinės karo tarnybos karių, karių savanorių ar kitų aktyviojo rezervo karių tarnybos vertinimą atlieka vadai (viršininkai). Šiuos vadus (viršininkus) paskiria, profesinės karo tarnybos karių, karių savanorių ar kitų aktyviojo rezervo karių tarnybos vertinimo tvarką ir veiklos rezultatų bei tinkamumo eiti esamas ar aukštesnes pareigas vertinimo kriterijus nustato krašto apsaugos ministras. Šio straipsnio 4 dalies 8 punkte nustatytu atveju profesinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių tarnybą vertina iš krašto apsaugos sistemos institucijų atstovų krašto apsaugos ministro sudaryta komisija. Šios komisijos nuostatus tvirtina krašto apsaugos ministras ar jo įgaliotas asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 Straipsnio pakeitimai:
@@ -3077,12 +3174,18 @@ Nr. X-1389, 2007-12-18, Žin., 2007, Nr. 140-5759 (2007-12-29)
 
 
 
-6) šio įstatymo 49 straipsnio 3 dalyje numatytu atveju – stažuotės ar mokymosi laikotarpiui;
+6) šio įstatymo 49 straipsnio 3 dalyje numatytu atveju – profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi laikotarpiui;
+Straipsnio punkto pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-7) kariui grįžus iš šio įstatymo 49 straipsnio 3 dalyje nurodytos stažuotės ar mokymosi arba šio straipsnio 3 ir 5 dalyse nurodytų pareigų (tarnybos) – kol bus paskirtas į kitas pareigas, bet ne ilgiau kaip 1 mėnesiui; 
+7) kariui grįžus iš šio įstatymo 49 straipsnio 3 dalyje nurodyto profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi arba šio straipsnio 3 ir 5 dalyse nurodytų pareigų (tarnybos) – kol bus paskirtas į kitas pareigas, bet ne ilgiau kaip vienam mėnesiui;
+Straipsnio punkto pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -3230,36 +3333,34 @@ Nr. XII-450, 2013-07-02, Žin., 2013, Nr. 79-3980 (2013-07-23)
 
 
 
-44 straipsnis. Kario parengimo išlaidų grąžinimas
+44 straipsnis. Kario parengimo išlaidų atlyginimas
 
 
-1. Jeigu kariūnas pašalinamas iš Lietuvos karo mokymo įstaigos arba iš užsienio karo mokymo įstaigos, į kurią buvo siųstas Krašto apsaugos ministerijos, arba atsisako sudaryti profesinės karo tarnybos sutartį, įstatymų nustatyta tvarka iš jo išieškomos jo mokymo išlaidos, apskaičiuotos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-
-
-
-
-2. Iš kario, su kuriuo prieš terminą nutraukiama profesinės karo tarnybos sutartis, kario savanorio ar aktyviojo rezervo kario sutartis jo iniciatyva, arba kario, su kuriuo profesinės karo tarnybos sutartis, kario savanorio ar aktyviojo rezervo kario sutartis nutraukiama šio įstatymo 38 straipsnio 1 dalies 1, 2, 3, 5, 6, 8 punktuose ir 2 dalies 3, 4, 7, 8, 9, 10, 11 punktuose numatytais atvejais, įstatymų nustatyta tvarka išieškomos krašto apsaugos sistemos išlaidos, tiesiogiai susijusios su jo mokymu, profesiniu parengimu ar kvalifikacijos tobulinimu.
+1. Jeigu kariūnas pašalinamas iš Lietuvos karo mokymo įstaigos arba užsienio valstybės karo mokymo įstaigos, į kurią buvo siųstas Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, arba atsisako sudaryti profesinės karo tarnybos sutartį, jis privalo, atsižvelgiant į šio straipsnio 3 ir 4 dalyse nustatytas sąlygas, atlyginti mokymo išlaidas, išskyrus išlaidas už pirmuosius studijų metus.
 
 
 
 
-3. Šio straipsnio 2 dalyje nurodytos išlaidos, išskyrus išlaidas, susijusias su karininko parengimu karo mokymo įstaigoje, išieškomos iš profesinės karo tarnybos kario, kario savanorio ar kito aktyviojo rezervo kario ne daugiau kaip už 3 paskutinių metų laikotarpį. Išieškomų išlaidų apskaičiavimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.
+2. Karys, su kuriuo prieš terminą nutraukiama profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario sutartis jo iniciatyva, arba karys, su kuriuo profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario sutartis nutraukiama šio įstatymo 38 straipsnio 1 dalies 1, 2, 3, 5, 6, 8 punktuose ir 2 dalies 3, 4, 7, 8, 9, 10, 11 punktuose numatytais atvejais, privalo, atsižvelgiant į šio straipsnio 3 ir 4 dalyse nustatytas sąlygas, atlyginti krašto apsaugos sistemos išlaidas, susijusias su jo mokymu, profesiniu parengimu ir kvalifikacijos tobulinimu. 
 
 
 
 
-4. Šio straipsnio 2 dalyje nurodytos išlaidos neišieškomos, jei karys krašto apsaugos ministro sutikimu nutraukia profesinės karo tarnybos sutartį prieš terminą dėl pripažintų svarbių ir nuo kario valios nepriklausančių bei nepašalinamų aplinkybių.
+3. Mokymo Lietuvos aukštojoje mokykloje arba užsienio valstybės aukštojoje mokykloje įgyjant aukštojo mokslo kvalifikaciją, taip pat užsienio valstybės karo mokymo įstaigoje, kurią baigus suteikiamas pirmasis karininko laipsnis, išlaidos atlyginamos tik tuo atveju, jeigu karys profesinėje karo tarnyboje neištarnauja 5 metų po mokymo baigimo. Išlaidos, susijusios su kario profesiniu parengimu ir kvalifikacijos tobulinimu, atlyginamos tik tuo atveju, jeigu karys neištarnauja profesinėje karo tarnyboje ar tarnyboje aktyviajame rezerve 3 metų po profesinio parengimo ar kvalifikacijos tobulinimo pabaigos. Mokymo, profesinio parengimo ir kvalifikacijos tobulinimo išlaidos neatlyginamos, jeigu karys krašto apsaugos ministro sprendimu nutraukia profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario sutartį prieš terminą dėl pripažintų svarbių priežasčių ir nuo kario valios nepriklausančių bei nepašalinamų aplinkybių.
 
 
 
 
-5. Nutraukdamas profesinės karo tarnybos kario, kario savanorio ar aktyviojo rezervo kario sutartį prieš terminą, karys privalo atlyginti jam išduotos karinės aprangos likutinę vertę, išskyrus atvejus, kai jis išleidžiamas į atsargą paliekant jam teisę nešioti uniformą.
+4. Iš kario išieškomos išlaidos lygiomis dalimis mažinamos proporcingai kiekvieniems ištarnautiems profesinėje karo tarnyboje ar tarnyboje aktyviajame rezerve metams, atsižvelgiant į šio straipsnio 3 dalyje nurodytus privalomai ištarnautinus metus. Išieškomų mokymo išlaidų dydis negali viršyti 70 bazinės socialinės išmokos dydžių už vienerius studijų metus. Išieškomų mokymo, profesinio parengimo ir kvalifikacijos tobulinimo išlaidų apskaičiavimo tvarką ir išlaidų sudėtį nustato Vyriausybė ar jos įgaliota institucija. 
 
 
+5. Nutraukdamas profesinės karo tarnybos kario, kario savanorio ar aktyviojo rezervo kario sutartį prieš terminą, karys privalo atlyginti jam išduotos karinės aprangos likutinę vertę, išskyrus atvejus, kai jis išleidžiamas į atsargą paliekant jam teisę dėvėti uniformą.part_c4d2c5ab667a45df95ec55435df2986e
 Straipsnio pakeitimai:
 Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
  
 
 
@@ -3455,26 +3556,28 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-49 straipsnis. Karių stažuočių ir mokymosi sąlygos 
+49 straipsnis. Karių profesinio parengimo, kvalifikacijos tobulinimo ir mokymosi sąlygos 
 
 
-1. Profesinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, taip pat kariūnų atrankos stažuotei ar mokymuisi tvarką nustato krašto apsaugos ministras.
-
-
-
-
-2. Profesinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, taip pat kariūnų tarnybos ir aprūpinimo stažuotės ar mokymosi laikotarpiu sąlygas nustato Vyriausybė arba jos įgaliota institucija.
+1. Profesinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, taip pat kariūnų atrankos profesiniam parengimui, kvalifikacijos tobulinimui ar mokymuisi tvarką nustato krašto apsaugos ministras.
 
 
 
 
-3. Profesinės karo tarnybos kariai, pasiųsti stažuoti ar mokytis ilgiau kaip 3 mėnesiams, gali būti iš einamų pareigų perkelti į laikinąjį profesinės karo tarnybos personalo rezervą.
+2. Profesinės karo tarnybos karių, karių savanorių ir kitų aktyviojo rezervo karių, taip pat kariūnų tarnybos ir aprūpinimo profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi laikotarpiu sąlygas nustato Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+3. Profesinės karo tarnybos kariai, pasiųsti į profesinį parengimą, kvalifikacijos tobulinimą ar mokytis ilgiau kaip 3 mėnesiams, gali būti iš einamų pareigų perkelti į laikinąjį profesinės karo tarnybos personalo rezervą.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
  
 
 
@@ -3601,7 +3704,7 @@ vyresnysis eilinis                               �
 
 
 2) puskarininkių
-grandinis                                                                               grandinis
+grandinis                                                                               grandinis
 seržantas, seržantas specialistas                       seržantas, seržantas specialistas
 vyresnysis seržantas, vyresnysis seržantas       vyresnysis seržantas, vyresnysis
 specialistas                                                                            seržantas specialistas
@@ -3617,7 +3720,7 @@ seržantas majoras                               
 3) jaunesniųjų karininkų
 leitenantas                                                                             leitenantas
 vyresnysis leitenantas                                                           vyresnysis leitenantas
-kapitonas                                                                              kapitonas leitenantas 
+kapitonas                                                                              kapitonas leitenantas 
  
 
 
@@ -4019,7 +4122,7 @@ Nr. XI-1303, 2011-03-31, Žin., 2011, Nr. 46-2155 (2011-04-16)
 
 
 
-6) prevencinės reabilitacijos;
+6) reabilitacijos ir (ar) reintegracijos;
 
 
 
@@ -4027,6 +4130,9 @@ Nr. XI-1303, 2011-03-31, Žin., 2011, Nr. 46-2155 (2011-04-16)
 7) nemokamos.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4051,12 +4157,18 @@ Nr. XI-1303, 2011-03-31, Žin., 2011, Nr. 46-2155 (2011-04-16)
 
 
 
-8. Profesinės karo tarnybos kariams dėl paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą gali būti suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
+8. Profesinės karo tarnybos kariams dėl paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą, taip pat dėl grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos, kurių pradžia – kita darbo diena po paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą arba kario grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-9. Profesinės karo tarnybos kariams, grįžusiems iš tarnybos tarptautinėje operacijoje, atsižvelgiant į tarnybos tarptautinėje operacijoje trukmę ir pobūdį, gali būti suteikiamos iki 15 kalendorinių dienų prevencinės reabilitacijos atostogos. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas. Prevencinės reabilitacijos atostogų suteikimo tvarką nustato krašto apsaugos ministras.
+9. Profesinės karo tarnybos kariams, grįžusiems iš tarnybos tarptautinėje operacijoje ar ilgalaikio plaukiojimo, suteikiamos 15 kalendorinių dienų reabilitacijos ir (ar) reintegracijos atostogos. Reabilitacijos ir reintegracijos atostogos suteikiamos sveikatai stiprinti ir reintegracijai vykdyti, kai karys turi sveikatos sutrikimų. Reintegracijos atostogos suteikiamos reintegracijai vykdyti, kai karys neturi sveikatos sutrikimų. Šios atostogos profesinės karo tarnybos kariams, grįžusiems iš tarnybos tarptautinėje operacijoje ar ilgalaikio plaukiojimo, suteikiamos ne vėliau kaip po 2 mėnesių po jų grįžimo. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas. Reabilitacijos ir (ar) reintegracijos atostogų profesinės karo tarnybos kariams suteikimo tvarką nustato krašto apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4066,7 +4178,10 @@ Nr. XI-1303, 2011-03-31, Žin., 2011, Nr. 46-2155 (2011-04-16)
 
 
 
-11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams tarnybos tarptautinėje operacijoje metu gali būti suteikiamos iki 15 kalendorinių dienų mokamos atostogos, o grįžusiems iš tarnybos tarptautinėje operacijoje kariams savanoriams ir kitiems aktyviojo rezervo kariams, atsižvelgiant į tarnybos tarptautinėje operacijoje trukmę ir pobūdį, gali būti suteikiamos iki 15 kalendorinių dienų mokamos atostogos prevencinei reabilitacijai. Atostogų metu kariams savanoriams ir kitiems aktyviojo rezervo kariams mokamas atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinis atlyginimas.
+11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams tarnybos tarptautinėje operacijoje metu suteikiamos 15 kalendorinių dienų atostogos, o dėl grįžimo iš tarnybos tarptautinėje operacijoje ar ilgalaikio plaukiojimo kariams savanoriams ir kitiems aktyviojo rezervo kariams krašto apsaugos ministro nustatyta tvarka suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos, kurių pradžia – kita darbo diena po kario savanorio ar kito aktyviojo rezervo kario grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo, ir 15 kalendorinių dienų reabilitacijos ir (ar) reintegracijos atostogos. Reabilitacijos ir reintegracijos atostogos suteikiamos sveikatai stiprinti ir reintegracijai vykdyti, kai karys turi sveikatos sutrikimų. Reintegracijos atostogos suteikiamos reintegracijai vykdyti, kai karys neturi sveikatos sutrikimų. Atostogų metu kariams savanoriams ir kitiems aktyviojo rezervo kariams mokamas atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio mėnesinis tarnybinis atlyginimas, apskaičiuotas proporcingai atostogų dienų skaičiui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4177,7 +4292,90 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 
 
-9. Išmokos ir premijos, numatytos šio straipsnio 1, 6 ir 8 dalyse, mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos mokamos iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų.
+9. Profesinės karo tarnybos kariams už pirmus 4 nepertraukiamos profesinės karo tarnybos metus, išskyrus šio straipsnio 10 dalyje nurodytus karius, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Į 4 metų nepertraukiamos tarnybos laikotarpį neįskaitomi laikotarpiai, kai karys buvo perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą šio įstatymo 42 straipsnio 2 dalyje numatytais atvejais. Išmokos dydis apskaičiuojamas pagal Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį, nustatytą tiems metams, kuriais profesinės karo tarnybos karys įgyja teisę gauti šią išmoką, ir priklauso nuo profesinės karo tarnybos kario tarnybos vertinimo rezultatų: 
+
+
+1) 45 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta labai gerai;
+
+
+
+
+2) 35 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta gerai;
+
+
+
+
+3) 20 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta patenkinamai. 
+TAR pastaba. 60 straipsnio 9 dalyje nustatytos vienkartinės piniginės išmokos skiriamos profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario tarnybos sutartis sudariusiems po įstatymo Nr. XII-2489 įsigaliojimo dienos (2016-07-01).
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
+
+
+
+
+10. Pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jie įvertinti nepatenkinamai. Išmokos dydis priklauso nuo kariūno vertinimo, kurio tvarką ir kriterijus nustato krašto apsaugos ministras, rezultatų: 
+
+
+1) 7,3 bazinio dydžio – įvertinus labai gerai; 
+
+
+
+
+2) 5,5 bazinio dydžio – įvertinus gerai; 
+
+
+
+
+3) 3,3 bazinio dydžio – įvertinus patenkinamai. 
+TAR pastaba. 60 straipsnio 10 dalyje nustatytos vienkartinės piniginės išmokos skiriamos profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario tarnybos sutartis sudariusiems po įstatymo Nr. XII-2489 įsigaliojimo dienos (2016-07-01).
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
+
+
+
+
+11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams už pirmus 4 nepertraukiamos tarnybos metus pagal kario savanorio ar aktyviojo rezervo kario sutartį mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Išmoka skiriama, kai per pirmų 4 nepertraukiamos tarnybos metų laikotarpį karys savanoris ar kitas aktyviojo rezervo karys kiekvienais metais ištarnauja ne mažiau kaip atitinkamais metais kariuomenės vado nustatytą aktyviojo rezervo karių pratybų ir mokymų trukmę, išskyrus ligos, nėštumo ir gimdymo atostogų laikotarpius. Išmokos dydis apskaičiuojamas pagal Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) bazinį dydį, nustatytą tiems metams, kuriais karys savanoris ir kitas aktyviojo rezervo karys įgyja teisę gauti šią išmoką, ir priklauso nuo kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo rezultatų: 
+
+
+1) 9 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta labai gerai; 
+
+
+
+
+2) 7 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta gerai;
+
+
+
+
+3) 4 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta patenkinamai. 
+TAR pastaba. 60 straipsnio 11 dalyje nustatytos vienkartinės piniginės išmokos skiriamos profesinės karo tarnybos kariams, kariams savanoriams ir kitiems aktyviojo rezervo kariams, profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario tarnybos sutartis sudariusiems po įstatymo Nr. XII-2489 įsigaliojimo dienos (2016-07-01).
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
+
+
+
+
+12. Išmokos ir premijos, numatytos šio straipsnio 1, 6, 8, 9, 10 ir 11 dalyse, mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos mokamos iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
+
+
+
+
+13. Išmokos, numatytos šio straipsnio 9, 10 ir 11 dalyse, išmokamos per 30 kalendorinių dienų po profesinės karo tarnybos kario, kariūno, kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo.
+Papildyta straipsnio dalimi:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 Straipsnio pakeitimai:
@@ -4200,18 +4398,19 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-2. Profesinės karo tarnybos kariams tarnybos šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais Vyriausybės nustatytomis sąlygomis ir tvarka apmokamos su persikėlimu į užsienio valstybę ir grįžimu iš jos susijusios išlaidos, mokama su darbu užsienyje susijusių išlaidų kompensacija ir išmoka apsirūpinti gyvenamosiomis patalpomis, taip pat išlaidoms už komunalines ir ryšio paslaugas padengti, apmokamos gyvybės ir sveikatos draudimo arba sveikatos priežiūros išlaidos, kompensuojamos grįžimo kartą per metus į Lietuvos Respubliką ir atgal į užsienio valstybę išlaidos, apmokamos kitos būtinos, su tarnyba užsienyje susijusios išlaidos.
+2. Profesinės karo tarnybos kariams tarnybos šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais Vyriausybės arba jos įgaliotos institucijos nustatytomis sąlygomis ir tvarka apmokamos su persikėlimu į užsienio valstybę ir grįžimu iš jos susijusios išlaidos, mokama su darbu užsienyje susijusių išlaidų kompensacija ir išmoka apsirūpinti gyvenamosiomis patalpomis, taip pat išlaidoms už komunalines ir ryšio paslaugas padengti, apmokamos gyvybės ir sveikatos draudimo arba sveikatos priežiūros išlaidos, kompensuojamos grįžimo kartą per metus į Lietuvos Respubliką ir atgal į užsienio valstybę išlaidos, apmokamos kitos būtinos, su tarnyba užsienyje susijusios išlaidos.
 
 
 
 
-3. Profesinės karo tarnybos kariams už kartu su jais užsienyje gyvenančius sutuoktinį, nepilnamečius vaikus (įvaikius), jeigu jie įstatymų nustatyta tvarka nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jie su profesinės karo tarnybos kariu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečius vaikus (įvaikius), jeigu įstatymų nustatyta tvarka ar teismo sprendimu jų gyvenamoji vieta yra nustatyta kartu su profesinės karo tarnybos kario sutuoktiniu ir jie įstatymų nustatyta tvarka nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu įstatymų nustatyta tvarka ar teismo sprendimu jų gyvenamoji vieta yra nustatyta kartu su profesinės karo tarnybos kario sutuoktiniu ir jie su profesinės karo tarnybos kariu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, išlaikytinius asmenis, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas profesinės karo tarnybos karys ir (ar) jo sutuoktinis, mokamų išmokų (kompensacijų), susijusių su profesine karo tarnyba Lietuvos Respublikos diplomatinėse atstovybėse, atstovybėse prie tarptautinių organizacijų, užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, dydžius, taip pat būtinų, su nuvykimu, gyvenimu ir grįžimu iš užsienio valstybės susijusių išlaidų apmokėjimo sąlygas ir tvarką nustato Vyriausybė. 
+3. Profesinės karo tarnybos kariams už sutuoktinį, nepilnamečius vaikus (įvaikius), jeigu jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jie su profesinės karo tarnybos kariu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečius vaikus (įvaikius), jeigu jų gyvenamoji vieta yra nustatyta kartu su profesinės karo tarnybos kario sutuoktiniu ir jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jų gyvenamoji vieta yra nustatyta kartu su profesinės karo tarnybos kario sutuoktiniu ir jie su profesinės karo tarnybos kariu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, išlaikytinius asmenis, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ir (ar) jo sutuoktinis (toliau kartu – šeimos nariai), kurie užsienyje gyvena kartu su profesinės karo tarnybos kariu, mokamų išmokų (kompensacijų), susijusių su profesine karo tarnyba Lietuvos Respublikos diplomatinėse atstovybėse, specialiosiose misijose, atstovybėse prie tarptautinių organizacijų, užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, dydžius, taip pat būtinų, su nuvykimu, gyvenimu ir grįžimu iš užsienio valstybės susijusių išlaidų apmokėjimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1359, 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
 Straipsnio pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
  
 
 
@@ -4225,7 +4424,10 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 
 
-2. Krašto apsaugos ministras, išleisdamas karį į atsargą, gali jam suteikti teisę iškilmingomis progomis dėvėti kario uniformą su atsargos kario skiriamaisiais ženklais. Atsargos kario skiriamuosius ženklus nustato krašto apsaugos ministras.
+2. Krašto apsaugos ministras, išleisdamas karį į atsargą, kario prašymu, išskyrus šio įstatymo 50 straipsnio 6 dalyje nustatytus atvejus, suteikia jam teisę iškilmingomis progomis dėvėti kario uniformą su atsargos kario skiriamaisiais ženklais. Atsargos kario skiriamuosius ženklus nustato krašto apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4284,17 +4486,26 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-4. Profesinės karo tarnybos kariai, jeigu jie yra perkelti iš vienos tarnybos vietovės į kitą ir toje vietovėje jie patys, jų sutuoktiniai, nepilnamečiai vaikai (įvaikiai) neturi nuosavybės teise priklausančio, techninius ir higienos reikalavimus atitinkančio buto, namo ar jų dalies, gali būti laikinai, tačiau ne ilgiau kaip 3 mėnesius, apgyvendinti tarnybiniuose butuose krašto apsaugos ministro nustatyta tvarka. Už gyvenimą tarnybiniuose butuose kariai nuomos mokesčio nemoka. Kariai privalo mokėti mokesčius už šaltą ir karštą vandenį, elektros energiją, dujas, šilumos energiją ir komunalines paslaugas (šiukšlių išvežimą, liftą, bendrojo naudojimo patalpų ir teritorijos valymą ir kitas) pagal toje vietovėje galiojančius tarifus.
+4. Profesinės karo tarnybos kariai, jeigu jie yra perkelti iš vienos tarnybos vietovės į kitą ir toje vietovėje jie patys ar jų šeimos nariai neturi nuosavybės teise priklausančios, techninius ir higienos reikalavimus atitinkančios gyvenamosios patalpos ar jos dalies, gali būti laikinai, tačiau ne ilgiau kaip 3 mėnesius, apgyvendinti tarnybiniuose butuose krašto apsaugos ministro nustatyta tvarka. Už gyvenimą tarnybiniuose butuose kariai nuomos mokesčio nemoka. Kariai privalo mokėti mokesčius už šaltą ir karštą vandenį, elektros energiją, dujas, šilumos energiją ir komunalines paslaugas (šiukšlių išvežimą, liftą, bendrojo naudojimo patalpų ir teritorijos valymą ir kitas) pagal toje vietovėje galiojančius tarifus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-5. Profesinės karo tarnybos kariai, kurie neturi teisės būti aprūpinti tarnybiniais butais arba kurių nėra galimybės tarnybos vietovėje apgyvendinti tarnybiniuose butuose ir kurie patys, jų sutuoktiniai, nepilnamečiai vaikai (įvaikiai) kario tarnybos vietovėje neturi nuosavybės teise priklausančio, techninius ir higienos reikalavimus atitinkančio buto, namo ar jų dalies, gali būti laikinai apgyvendinti gyvenamosiose patalpose (kareivinėse). Laikino apgyvendinimo gyvenamosiose patalpose (kareivinėse) trukmę ir tvarką nustato krašto apsaugos ministras. 
+5. Profesinės karo tarnybos kariai, kurie neturi teisės būti aprūpinti tarnybiniais butais arba kurių nėra galimybės tarnybos vietovėje apgyvendinti tarnybiniuose butuose ir kurie patys ar jų šeimos nariai kario tarnybos vietovėje neturi nuosavybės teise priklausančios, techninius ir higienos reikalavimus atitinkančios gyvenamosios patalpos ar jos dalies, gali būti laikinai apgyvendinti gyvenamosiose patalpose (kareivinėse). Laikino apgyvendinimo gyvenamosiose patalpose (kareivinėse) trukmę ir tvarką nustato krašto apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
 
-6. Profesinės karo tarnybos kariams išlaidoms, susijusioms su gyvenamosios patalpos išlaikymu, kompensuoti iš Krašto apsaugos ministerijai skirtų asignavimų mokami Vyriausybės nustatyto dydžio butpinigiai. Butpinigiai kariams nemokami, jeigu jie yra laikinai apgyvendinti tarnybiniuose butuose arba kai jiems atlyginamos šio įstatymo 64 straipsnio 4 dalyje numatytos kelionės iš gyvenamosios vietos į tarnybą ir atgal išlaidos. 
+6. Neteko galios nuo 2016-07-01
+Straipsnio dalies naikinimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4320,7 +4531,10 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 
 
-10. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio 4–6 dalių nuostatos netaikomos.
+10. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio 4 ir 5 dalių nuostatos netaikomos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 Straipsnio pakeitimai:
@@ -4329,6 +4543,40 @@ Nr. VIII-1668, 00.05.09, Žin., 2000, Nr.42-1194 (00.05.24)
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
+ 
+
+
+
+
+631 straipsnis. Gyvenamosios patalpos nuomos išlaidų kompensavimas profesinės karo tarnybos kariams
+
+
+1. Į kitą apskritį perkeltiems (rotuotiems) profesinės karo tarnybos kariams, taip pat pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos gyvenamosios patalpos nuomos išlaidos. 
+TAR pastaba. 631 straipsnio 1 dalies nuostata taikoma po 2016-07-01 perkeltiems (rotuotiems) profesinės karo tarnybos kariams ar pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Generolo Jono Žemaičio Lietuvos karo akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis.
+
+
+
+
+2. Maksimalius gyvenamosios patalpos nuomos išlaidų dydžius, priklausančius nuo vietovės, į kurią perkelti (rotuoti) ar paskirti šio straipsnio 1 dalyje nurodyti asmenys, taip pat nuo kartu su jais gyvenančių šeimos narių, išskyrus sutuoktinį, skaičiaus, atsižvelgdama į gyvenamųjų patalpų nuomos rinkos kainas, tvirtina Vyriausybė. Gyvenamosios patalpos nuomos išlaidos kompensuojamos krašto apsaugos ministro nustatyta tvarka pagal profesinės karo tarnybos kario ir nuomotojo rašytine sutartimi nustatytą nuomos mokesčio dydį, neviršijant Vyriausybės patvirtintų maksimalių gyvenamosios patalpos nuomos išlaidų dydžių. Jeigu šeimoje yra du profesinės karo tarnybos kariai (sutuoktiniai), turintys teisę gauti gyvenamosios patalpos nuomos išlaidų kompensaciją ir tarnaujantys toje pačioje apskrityje, jiems kompensuojamos vienos gyvenamosios patalpos nuomos išlaidos, neviršijant tai tarnybos vietovei Vyriausybės nustatyto maksimalaus gyvenamosios patalpos nuomos išlaidų dydžio.
+
+
+
+
+3. Gyvenamosios patalpos nuomos išlaidos kompensuojamos 6 metus nuo šio straipsnio 1 dalyje nurodytų asmenų perkėlimo (rotavimo) į kitą apskritį ar paskyrimo į pareigas. Jeigu per šį 6 metų laikotarpį jie perkeliami (rotuojami) toje pačioje apskrityje, gyvenamosios patalpos nuomos išlaidos jiems ir toliau kompensuojamos, bet ne ilgiau kaip 6 metus nuo perkėlimo (rotavimo) į kitą apskritį ar paskyrimo į pareigas. Profesinės karo tarnybos karį perkėlus (rotavus) į kitą apskritį, 6 metų terminas skaičiuojamas iš naujo.
+
+
+
+
+4. Gyvenamosios patalpos nuomos išlaidos šio straipsnio 1 dalyje nurodytiems asmenims nekompensuojamos, jeigu jie, jų šeimos nariai toje apskrityje turi nuosavybės teise priklausančias, techninius ir higienos reikalavimus atitinkančias gyvenamąsias patalpas ar jų dalį ar per pastaruosius 5 metus yra jas perleidę (išskyrus perleidimą dėl santuokos nutraukimo) arba jie laikinai apgyvendinti tarnybiniuose butuose, arba jiems jų pasirinkimu taikomos šio įstatymo 64 straipsnio 4 dalyje numatytos garantijos. 5 metų gyvenamųjų patalpų ar jų dalies perleidimo terminas skaičiuojamas nuo šio straipsnio 1 dalyje nurodytų asmenų perkėlimo (rotavimo) ar paskyrimo į kitas pareigas kitoje apskrityje dienos. 
+
+
+
+
+5. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio nuostatos netaikomos.
+
+
+Papildyta straipsniu:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
  
 
 
@@ -4345,7 +4593,10 @@ Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
 
 
-2. Perkeliamiems į kitą vietovę profesinės karo tarnybos kariams apmokamos persikėlimo išlaidos pagal Vyriausybės arba jos įgaliotos institucijos nustatytas normas.
+2. Perkeliamiems į kitą vietovę profesinės karo tarnybos kariams Vyriausybės nustatyta tvarka neviršijant maksimalaus Vyriausybės nustatyto kompensuotinų išlaidų dydžio apmokamos persikėlimo (kelionės ir turto pervežimo) išlaidos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4355,7 +4606,10 @@ Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
 
 
-4. Kai profesinės karo tarnybos kariai tarnybos vietovėje neturi gyvenamojo būsto ir nėra galimybės ar netikslinga juos į tarnybos vietą ir iš jos vežioti tarnybiniu transportu, krašto apsaugos ministras savo įsakymu gali leisti jiems atlyginti kelionės iš gyvenamosios vietos į tarnybą ir atgal bet kokios rūšies transportu (išskyrus taksi) išlaidas.
+4. Profesinės karo tarnybos kariams, perkeltiems (rotuotiems) į kitą savivaldybę, taip pat pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems Akademiją ar užsienio valstybės karo mokymo įstaigą, į kurią buvo siųsti Krašto apsaugos ministerijos ir kurią baigusiems suteikiamas pirmasis karininko laipsnis, jei toje savivaldybėje jie patys, jų šeimos nariai neturi nuosavybės teise priklausančių, techninius ir higienos reikalavimus atitinkančių gyvenamųjų patalpų ar jų dalies ir per pastaruosius 5 metus nėra jų perleidę (išskyrus perleidimą dėl santuokos nutraukimo), jie laikinai nėra apgyvendinti tarnybiniuose butuose, kai jiems nekompensuojamos gyvenamosios patalpos nuomos išlaidos ir nėra galimybės ar netikslinga juos į tarnybos vietą ir iš jos vežioti tarnybiniu transportu, atlyginamos kelionės iš gyvenamosios vietos į tarnybą ir atgal bet kokios rūšies transportu (išskyrus taksi) išlaidos. 5 metų gyvenamųjų patalpų ar jų dalies perleidimo terminas skaičiuojamas nuo perkėlimo (rotavimo) ar paskyrimo į kitas pareigas kitoje savivaldybėje dienos. Kelionės išlaidos atlyginamos 6 metus nuo perkėlimo (rotavimo) ar paskyrimo į pareigas. Jeigu per šį 6 metų laikotarpį profesinės karo tarnybos kariai perkeliami (rotuojami) tos pačios savivaldybės teritorijoje, kelionės išlaidos jiems ir toliau atlyginamos, bet ne ilgiau kaip 6 metus nuo jų perkėlimo (rotavimo) į kitą savivaldybę ar paskyrimo į pareigas. Profesinės karo tarnybos karį perkėlus (rotavus) į kitą savivaldybę, 6 metų terminas skaičiuojamas iš naujo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4365,7 +4619,10 @@ Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
 
 
 
-6. Kelionės išlaidos atlyginamos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Kelionės nuosavu transportu vieno kilometro atlyginamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija.
+6. Kelionės išlaidų atlyginimo tvarką, maksimalų per dieną nuvažiuojamą atstumą į abi puses, už kurį atlyginamos kelionės išlaidos, ir kelionės nuosavu transportu vieno kilometro atlyginamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -4470,26 +4727,24 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 651 straipsnis. Socialinės integracijos priemonės
 
 
-1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kario, valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kartu su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies 4 punkte nurodytiems atsargos kariams krašto apsaugos ministro nustatytos apimties ir nustatyta tvarka teikiamos psichologų paslaugos, finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.
-Straipsnio dalies pakeitimai:
-Nr. XII-1823, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10574
- 
+1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, taip pat karių, atliekančių tarnybą – ilgalaikį plaukiojimą ar grįžusių iš ilgalaikio plaukiojimo, sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju jie paskirti, kario, valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju jie paskirti, kartu su siunčiamais į tarptautines operacijas ar specialiąsias misijas jose dalyvaujančiais ir dalyvavusiais kariais, valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, su siunčiamais į tarnybą – ilgalaikį plaukiojimą ar grįžusiais iš jo kariais gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies 4 punkte nurodytiems atsargos kariams teikiamos iš Krašto apsaugos ministerijai skirtų asignavimų finansuojamos psichologų paslaugos, kurių mastą ir tvarką nustato krašto apsaugos ministras.
 
 
 
 
-2. Reintegracija taikoma grįžusiems iš tarptautinės operacijos ar specialiosios misijos kariams, valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat jų sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, kario, valstybės tarnautojo ir darbuotojo sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju įstatymų nustatyta tvarka jie paskirti, su kariu kartu gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme. Reintegracijos tvarką, sąlygas ir reintegracijos priemones nustato krašto apsaugos ministras, šios paslaugos finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.
+2. Reintegracija taikoma grįžusiems iš tarptautinės operacijos, specialiosios misijos ar ilgalaikio plaukiojimo kariams, valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat jų sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju jie paskirti, kario, valstybės tarnautojo ir darbuotojo sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju jie paskirti, su kariu bendrai gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme. Reintegracijos tvarką ir priemones nustato krašto apsaugos ministras. Šios paslaugos finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų.
 
 
 
 
-3. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu, ir tapusiems neįgaliems arba likus liekamųjų reiškinių, trikdančių tarnybinių funkcijų vykdymą, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos neįgaliesiems skirtų techninių pagalbos priemonių įsigijimo, jų priežiūros ir remonto išlaidos. Šių išlaidų kompensavimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
+3. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, sužeistiems dėl priežasčių, susijusių su karo tarnyba ar kario statusu, ir tapusiems neįgaliems arba likus liekamųjų reiškinių, trikdančių tarnybinių funkcijų vykdymą, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos neįgaliesiems skirtų techninių pagalbos priemonių įsigijimo, jų priežiūros ir remonto išlaidos. Šių išlaidų kompensavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
 
 
 Įstatymas papildytas straipsniu:
 Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 Straipsnio pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
  
 
 
@@ -4737,7 +4992,10 @@ Nr. XII-285, 2013-05-09, Žin., 2013, Nr. 54-2690 (2013-05-25)
 69 straipsnis. Karių skatinimas
 
 
-1. Karys, garbingai ištarnavęs bent 4 metus, išėjęs į atsargą gauna papildomų lengvatų, kurias nustato kiti įstatymai. Vyriausybės ar jos įgaliotos institucijos nustatytomis sąlygomis ir tvarka gali būti teikiama parama studijų kainai ar jos daliai padengti už ne ilgesnes kaip 4 metų trukmės jo studijas aukštosiose mokyklose, jeigu jis pirmą kartą studijuoja Lietuvos aukštojoje mokykloje pagal pagrindinių arba vientisųjų studijų programą. 
+1. Neteko galios nuo 2016-07-01
+Straipsnio dalies naikinimas:
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+ 
 
 
 
@@ -5457,3 +5715,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 35, 42, 44, 49, 59, 60, 61, 62, 63, 64, 65-1, 69 straipsnių pakeitimo ir Įstatymo papildymo 63-1 straipsniu įstatymas
