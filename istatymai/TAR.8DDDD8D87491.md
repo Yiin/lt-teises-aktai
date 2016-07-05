@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-04
+Suvestinė redakcija nuo 2016-07-05 iki 2020-07-09
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -764,22 +764,25 @@ Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, am�
 
 
 
-2. Katės, šunys ir šeškai privalo būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
+2. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+ 
 
 
 
 
-3. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
+3. Gyvūnų augintinių registro valdytoja – Žemės ūkio ministerija, tvarkytojos – valstybės įmonė Žemės ūkio informavimo ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+ 
 
 
 
 
-4. Gyvūnų augintinių registro valdytoja – Žemės ūkio ministerija, tvarkytojos – valstybės įmonė Žemės ūkio informavimo ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
-
-
-
-
-5. Gyvūnų augintinių registro duomenys yra teikiami savivaldybių administracijoms neatlygintinai, o kitiems asmenims – įstatymų, kitų teisės aktų nustatyta tvarka.
+4. Gyvūnų augintinių registro duomenys yra teikiami savivaldybių administracijoms neatlygintinai, o kitiems asmenims – įstatymų, kitų teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
  
 
 
@@ -1400,3 +1403,8 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 4, 5 ir 20 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 7 straipsnio pakeitimo įstatymas
