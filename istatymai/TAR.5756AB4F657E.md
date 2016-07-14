@@ -21,6 +21,10 @@ PRIEŽIŪROS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2016-07-14 iki 2016-12-31
+ 
+Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
+ 
 LIETUVOS RESPUBLIKOS  TERITORIJŲ PLANAVIMO IR STATYBOS VALSTYBINĖS PRIEŽIŪROS ĮSTATYMAS
  
 2013 m. liepos 2 d. Nr. XII-459 
@@ -128,7 +132,10 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 5. Teritorijų planavimo valstybinė priežiūra apima:
 
 
-1) teritorijų planavimo proceso procedūrų ir su teritorijų planavimu susijusių administracinių sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams tikrinimą;
+1) teritorijų planavimo proceso procedūrų ir su teritorijų planavimu susijusių administracinių sprendimų, įskaitant sprendimus, kuriais nevykdant teritorijų planavimo proceso nustatomi nauji, keičiami ar panaikinami esami teritorijos tvarkymo, naudojimo ar apsaugos reikalavimai, keičiami ar panaikinami teritorijų planavimo dokumentai (jų dalys), atitikties teritorijų planavimą reglamentuojantiems teisės aktams tikrinimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+ 
 
 
 
@@ -532,6 +539,54 @@ Teritorijų planavimo proceso rengimo etapu teritorijų planavimo valstybinės p
  
 
 
+
+
+
+
+61 straipsnis. Nevykdant teritorijų planavimo proceso priimtų administracinių sprendimų valstybinė priežiūra
+
+
+1. Gavusios skundų ar pranešimų, kad nevykdant teritorijų planavimo proceso yra priimti administraciniai sprendimai, kuriais nustatomi nauji, keičiami ar panaikinami esami teritorijos tvarkymo, naudojimo ar apsaugos reikalavimai, keičiami ar panaikinami teritorijų planavimo dokumentai (jų dalys), teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją tikrina, ar šie sprendimai priimti nepažeidžiant teritorijų planavimą reglamentuojančių teisės aktų.
+
+
+
+
+2. Teritorijų planavimo valstybinės priežiūros institucija, nusprendusi atlikti šio straipsnio 1 dalyje nurodytą patikrinimą, jeigu reikia, pateikia viešojo administravimo ir (ar) kitiems subjektams privalomuosius nurodymus per 10 darbo dienų pateikti visus teritorijų planavimo valstybinės priežiūros institucijos nurodytus su patikrinimu susijusius dokumentus ir informaciją. Šį terminą teritorijų planavimo valstybinės priežiūros institucija, gavusi subjekto rašytinį motyvuotą prašymą, gali pratęsti 10 darbo dienų. Neįvykdžius privalomojo nurodymo per nustatytą terminą, privalomąjį nurodymą pateikusi teritorijų planavimo valstybinės priežiūros institucija įstatymų nustatytais atvejais ir tvarka atlieka su administracinės nuobaudos privalomojo nurodymo neįvykdžiusiam subjektui skyrimu susijusius veiksmus.
+
+
+
+
+3. Teritorijų planavimo valstybinės priežiūros institucijos šio straipsnio 1 dalyje nurodytus patikrinimus atlieka per 20 darbo dienų nuo visų patikrinimui privalomų pateikti dokumentų ir informacijos gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimas negali būti atliktas, teritorijų planavimo valstybinės priežiūros institucija gali šį terminą pratęsti, bet ne ilgiau kaip 20 darbo dienų, apie tai raštu informuodama skundą ar pranešimą pateikusį (patikrinimą inicijavusį) asmenį, nurodydama patikrinimo termino pratęsimo priežastis. Baigus patikrinimą, surašomas teritorijų planavimo valstybinės priežiūros institucijos nustatytos formos patikrinimo aktas.
+
+
+
+
+4. Patikrinimo metu nustačiusi, kad administraciniai sprendimai priimti neteisėtai, teritorijų planavimo valstybinės priežiūros institucija ne vėliau kaip per 5 darbo dienas nuo patikrinimo pabaigos dienos pateikia viešojo administravimo subjektams privalomuosius nurodymus per juose nurodytus, bet ne ilgesnius kaip vienas mėnuo, terminus panaikinti ar pakeisti neteisėtai priimtus administracinius sprendimus (jų dalį).
+
+
+
+
+5. Pasibaigus šio straipsnio 4 dalyje nurodyto privalomojo nurodymo įvykdymo terminui arba iki šio termino pabaigos gavusi subjekto, kuriam pateiktas privalomasis nurodymas, raštą, kad šis nurodymas yra įvykdytas, ir tai patvirtinančius dokumentus, privalomąjį nurodymą pateikusi teritorijų planavimo valstybinės priežiūros institucija patikrina, ar šis nurodymas yra įvykdytas. Jeigu privalomasis nurodymas neįvykdytas, jį pateikusi teritorijų planavimo valstybinės priežiūros institucija per 2 mėnesius nuo privalomojo nurodymo įvykdymo termino pabaigos kreipiasi į teismą dėl neteisėtai priimto administracinio sprendimo (jo dalies) panaikinimo ar dėl įpareigojimo vykdyti privalomąjį nurodymą. Jeigu privalomasis nurodymas įvykdytas, tai pažymima jį pateikusios teritorijų planavimo valstybinės priežiūros institucijos turimame privalomojo nurodymo egzemplioriuje.
+
+
+
+
+6. Įvertinusi nustatytų pažeidimų mastą, pobūdį ir kitas su pažeidimų šalinimu susijusias aplinkybes, teritorijų planavimo valstybinės priežiūros institucija turi teisę per 2 mėnesius nuo patikrinimo pabaigos dienos kreiptis į teismą dėl nustatytų pažeidimų šalinimo, nepateikdama šio straipsnio 4 dalyje nurodyto privalomojo nurodymo.
+
+
+
+
+7. Patikrinimą inicijavęs asmuo per 5 darbo dienas nuo patikrinimo pabaigos raštu informuojamas apie skundo ar pranešimo nagrinėjimo rezultatus, pridedant šio straipsnio 4 dalyje nurodytų privalomųjų nurodymų teisės aktų nustatyta tvarka patvirtintas kopijas (jeigu jie buvo surašyti). Jeigu atlikusi patikrinimą teritorijų planavimo valstybinės priežiūros institucija teritorijų planavimą reglamentuojančių teisės aktų pažeidimų nenustato, apie tai ji per 5 darbo dienas nuo patikrinimo pabaigos informuoja ir patikrintus subjektus.
+
+
+
+
+8. Teritorijų planavimo valstybinės priežiūros institucijos nustato šiame straipsnyje nurodytų administracinių sprendimų patikrinimo tvarką ir tvirtina surašomų dokumentų formas.
+
+
+Papildyta straipsniu:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+ 
 
 
 
@@ -1711,7 +1766,10 @@ Asmenų prašymai pagal kompetenciją išduoti administracinius aktus ar kitus t
 4. Skundai ar pranešimai dėl viešojo administravimo subjekto išduoto statybą leidžiančio dokumento išdavimo teisėtumo nenagrinėjami, apie tai raštu informuojant skundą ar pranešimą pateikusį asmenį, jeigu:
 
 
-1) nuo statybos pradžios praėjo daugiau kaip vieni metai ir statybą leidžiantis dokumentas išduotas seniau kaip prieš 3 metus, išskyrus atvejus, kai dėl statybą leidžiančio dokumento išdavimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
+1) nuo statybos pradžios praėjo daugiau kaip vieni metai ar statybą leidžiantis dokumentas išduotas anksčiau kaip prieš 3 metus, išskyrus atvejus, kai dėl statybą leidžiančio dokumento išdavimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+ 
 
 
 
@@ -1758,17 +1816,33 @@ Asmenų prašymai pagal kompetenciją išduoti administracinius aktus ar kitus t
 
 
 
-8. Inspekcija nenagrinėja skundų ir pranešimų dėl teisės aktų reikalavimų mažareikšmių pažeidimų statybos srityje. Teisės aktų reikalavimų mažareikšmių pažeidimų statybos srityje sąrašą tvirtina Inspekcijos viršininkas.
+8. Inspekcija nenagrinėja skundų ir pranešimų dėl statybos teisėtumo, jeigu statybos darbai atlikti anksčiau kaip prieš 10 metų, išskyrus atvejus, kai dėl statybos teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas. 
+Papildyta straipsnio dalimi:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+ 
 
 
 
 
-9. Skundų ar pranešimų dėl pažeidimų teritorijų planavimo srityje nagrinėjimo tvarką nustato teritorijų planavimo valstybinės priežiūros institucijos. Skundų ar pranešimų dėl pažeidimų statybos srityje nagrinėjimo tvarką, atvejus, kai šie skundai ar pranešimai nenagrinėjami arba jų nagrinėjimas nutraukiamas, nustato Inspekcija.
+9. Inspekcija nenagrinėja skundų ir pranešimų dėl teisės aktų reikalavimų mažareikšmių pažeidimų statybos srityje. Teisės aktų reikalavimų mažareikšmių pažeidimų statybos srityje sąrašą tvirtina Inspekcijos viršininkas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+ 
 
 
 
 
-10. Skundas dėl Inspekcijos padalinių priimtų administracinių sprendimų teikiamas teismui, o Inspekcijos viršininko nustatytais atvejais skundas gali būti teikiamas Inspekcijos viršininkui ar jo įgaliotam asmeniui.
+10. Skundų ar pranešimų dėl pažeidimų teritorijų planavimo srityje nagrinėjimo tvarką nustato teritorijų planavimo valstybinės priežiūros institucijos. Skundų ar pranešimų dėl pažeidimų statybos srityje nagrinėjimo tvarką, atvejus, kai šie skundai ar pranešimai nenagrinėjami arba jų nagrinėjimas nutraukiamas, nustato Inspekcija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+ 
+
+
+
+
+11. Skundas dėl Inspekcijos padalinių priimtų administracinių sprendimų teikiamas teismui, o Inspekcijos viršininko nustatytais atvejais skundas gali būti teikiamas Inspekcijos viršininkui ar jo įgaliotam asmeniui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
  
 
 
@@ -1844,3 +1918,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 2, 3, 9, 10, 11, 25 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
