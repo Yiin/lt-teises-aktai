@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2016-11-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -62,7 +62,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 10 ir 17 straipsnių nuostatos.
+4. Tais atvejais, kai taikomas Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos Mokėjimų įstatymo 11 ir 18 straipsnių nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2564, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20318
+ 
 
 
 Straipsnio pakeitimas:
@@ -3173,3 +3176,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 5, 10, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 papildymo 12-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2564, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20318
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1 straipsnio pakeitimo įstatymas
