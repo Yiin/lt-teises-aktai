@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2016-06-28 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2016-11-16
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -282,7 +282,10 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 
 
-4) netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba realizavimą (213 straipsnis);
+4) netikrų pinigų ar vertybinių popierių gaminimą, laikymą arba realizavimą (213 straipsnis);
+Straipsnio punkto pakeitimai:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+ 
 
 
 
@@ -7423,16 +7426,16 @@ NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI FINANSŲ SISTEMAI
  
 
 
-213 straipsnis. Netikrų pinigų ar vertybinių popierių pagaminimas, laikymas arba realizavimas
+213 straipsnis. Netikrų pinigų ar vertybinių popierių gaminimas, laikymas arba realizavimas
 
 
-1. Tas, kas pagamino netikrus ar klastojo tikrus Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus arba vertybinius popierius arba įgijo, laikė ar realizavo netikrus arba suklastotus Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus arba vertybinius popierius, arba gamino, įgijo, laikė ar realizavo įrangą, programinę įrangą ar specialiąsias medžiagas netikriems pinigams ar vertybiniams popieriams gaminti ar tikriems pinigams ar vertybiniams popieriams klastoti,
+1. Tas, kas gamino netikrus ar klastojo tikrus Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus arba vertybinius popierius arba įgijo, importavo, eksportavo, gabeno, laikė ar realizavo netikrus arba suklastotus Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus arba vertybinius popierius, arba gamino, įgijo, laikė ar realizavo įrangą, programinę įrangą, elektroninius duomenis ar kitokias priemones, įskaitant bet kokias apsaugos priemones ar specialiąsias medžiagas, tiesiogiai skirtas ar pritaikytas netikriems pinigams ar vertybiniams popieriams gaminti ar tikriems pinigams ar vertybiniams popieriams klastoti,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Tas, kas pagamino, suklastojo, įgijo, laikė arba realizavo didelį kiekį arba didelės vertės netikrų ar suklastotų Lietuvos ar kitos valstybės apyvartoje esančių ar oficialiai patvirtintų, bet į apyvartą dar neišleistų pinigų arba vertybinių popierių,
+2. Tas, kas pagamino, suklastojo, įgijo, importavo, eksportavo, gabeno, laikė arba realizavo didelį kiekį arba didelės vertės netikrų ar suklastotų Lietuvos ar kitos valstybės apyvartoje esančių ar oficialiai patvirtintų, bet į apyvartą dar neišleistų pinigų arba vertybinių popierių,
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 
@@ -7444,7 +7447,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 
 
-4. Tas, kas turėdamas teisę gaminti tikrus pinigus, tačiau pažeisdamas nustatytą pinigų gamybos tvarką ar sąlygas pagamino Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus, taip pat tas, kas laikė, įgijo ar realizavo tokius pinigus, žinodamas, kad jie pagaminti pažeidžiant nustatytą pinigų gamybos tvarką ar sąlygas,
+4. Tas, kas turėdamas teisę gaminti tikrus pinigus, tačiau pažeisdamas nustatytą pinigų gamybos tvarką ar sąlygas gamino Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus, taip pat tas, kas laikė, importavo, eksportavo, gabeno, įgijo ar realizavo tokius pinigus, žinodamas, kad jie pagaminti pažeidžiant nustatytą pinigų gamybos tvarką ar sąlygas,
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų. 
 
 
@@ -7458,6 +7461,8 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+Straipsnio pakeitimai:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
  
 
 
@@ -7524,36 +7529,40 @@ Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068
 
 
 
-217 straipsnis. Prekyba vertybiniais popieriais pasinaudojant viešai neatskleista informacija 
+217 straipsnis. Prekyba finansinėmis priemonėmis pasinaudojant viešai neatskleista informacija
 
 
-1. Tas, kas žinodamas viešai neatskleistą informaciją apie esminius emitentui įvykius arba kitą viešai neatskleistą su emitentu ar jo vertybiniais popieriais susijusią informaciją tiesiogiai arba per vertybinių popierių viešosios apyvartos tarpininkus sudarė sandorį dėl šio emitento vertybinių popierių arba perdavė tokią informaciją tretiesiems asmenims, arba rekomendavo ar pasiūlė tretiesiems asmenims įsigyti ar perleisti emitento, su kuriuo buvo susijusi viešai neatskleista informacija, vertybinius popierius, jeigu dėl to buvo padaryta didelės turtinės žalos,
-baudžiamas laisvės apribojimu arba bauda, arba laisvės atėmimu iki dvejų metų.
-
-
-
-
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
- 
-
-
-
-
-
-
-218 straipsnis. Manipuliavimas vertybinių popierių kaina 
-
-
-1. Tas, kas siekdamas dirbtinai padidinti ar sumažinti vertybinių popierių rinkos kainą skleidė tikrovės neatitinkančią ar neišsamią informaciją apie emitentą ar jo vertybinius popierius ir dėl to padarė didelės turtinės žalos,
-baudžiamas laisvės apribojimu arba bauda, arba laisvės atėmimu iki trejų metų.
+1. Tas, kas žinodamas viešai neatskleistą informaciją apie esminius emitentui įvykius arba kitą viešai neatskleistą su emitentu ar jo finansinėmis priemonėmis susijusią informaciją tiesiogiai ar netiesiogiai sudarė sandorį dėl šio emitento finansinių priemonių arba davė, pakeitė ar atšaukė pavedimą pirkti ar parduoti šio emitento finansines priemones, arba perdavė tokią informaciją tretiesiems asmenims, arba rekomendavo, paskatino ar pasiūlė tretiesiems asmenims įsigyti ar perleisti emitento, su kuriuo buvo susijusi viešai neatskleista informacija, finansines priemones ar pakeisti arba atšaukti pavedimą pirkti ar parduoti šio emitento finansines priemones, jeigu dėl to tas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos emitentui ar kitam rinkos dalyviui, arba atsirado sunkių padarinių finansinių priemonių rinkai ir (ar) finansų sistemai,
+baudžiamas laisvės apribojimu arba bauda, arba laisvės atėmimu iki ketverių metų.
 
 
 
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
  
 
 
+
+
+218 straipsnis. Manipuliavimas finansinių priemonių rinka
+
+
+1. Tas, kas tiesiogiai ar netiesiogiai sudarė sandorį ar davė pavedimą pirkti ar parduoti finansines priemones arba skleidė tikrovės neatitinkančią, klaidinančią ar neišsamią informaciją apie emitentą ar jo finansines priemones, siekdamas dirbtinai padidinti ar sumažinti finansinių priemonių kainą arba sudaryti tikrovės neatitinkantį ar klaidinantį įspūdį apie finansinių priemonių pasiūlą, paklausą ar kainą, arba palaikyti neįprastą ar dirbtinę finansinių priemonių kainą, arba tiesiogiai ar netiesiogiai sudarė sandorį ar davė pavedimą pirkti ar parduoti finansines priemones pasitelkęs fiktyvias priemones ar kitokiu teisės aktų draudžiamu būdu, jeigu dėl to tas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos emitentui ar kitam rinkos dalyviui, arba atsirado sunkių padarinių finansinių priemonių rinkai ir (ar) finansų sistemai,
+baudžiamas laisvės apribojimu arba bauda, arba laisvės atėmimu iki ketverių metų.
+
+
+
+
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+ 
 
 
 
@@ -7701,11 +7710,23 @@ baudžiamas laisvės atėmimu iki ketverių metų.
 2241 straipsnis. Sąvokų išaiškinimas
 
 
-Šio skyriaus 216 straipsnyje nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas.
+1. Šio skyriaus 216 straipsnyje nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas.
+
+
+
+
+2. Šio skyriaus 217, 218 straipsniuose nurodyta turtinė žala, turtinė nauda yra didelė, kai jos vertė viršija 250 MGL dydžio sumą.
+
+
+
+
+3. Šio skyriaus 217 straipsnyje nurodyta viešai neatskleista informacija suprantama taip, kaip ji apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB 7 straipsnio 1–4 dalyse, ir gali būti viešai atskleidžiama tik šio reglamento 17 straipsnyje nustatyta tvarka.
 
 
 Kodeksas papildytas straipsniu:
 Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068
+Straipsnio pakeitimai:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
  
 
 
@@ -11101,6 +11122,22 @@ Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730
  
 
 
+
+
+31. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/57/ES dėl baudžiamųjų sankcijų už manipuliavimą rinka (manipuliavimo rinka direktyva) (OL 2014 L 173, p. 179). 
+Papildyta punktu:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+ 
+
+
+
+
+32. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
+Papildyta punktu:
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+ 
+
+
 Kodeksas papildytas priedu:
 Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
 Priedo pakeitimai:
@@ -11481,3 +11518,8 @@ Lietuvos Respublikos baudžiamojo kodekso 147 ir 157 straipsnių pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730
 Lietuvos Respublikos baudžiamojo kodekso 198-2, 309 straipsnių ir priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
+Lietuvos Respublikos baudžiamojo kodekso 7, 213, 217, 218, 224-1 straipsnių ir priedo pakeitimo įstatymas
