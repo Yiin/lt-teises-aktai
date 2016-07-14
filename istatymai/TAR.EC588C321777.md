@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-06-28 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2016-11-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -3181,7 +3181,7 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 
 
-93 straipsnis. Daiktų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti, laikymo terminai
+93 straipsnis. Daiktų, turinčių reikšmės nusikalstamai veikai tirti ir nagrinėti, laikymo terminai ir perdavimo tvarka
 
 
 1. Daiktai, turintys reikšmės nusikalstamai veikai tirti ir nagrinėti, laikomi iki nuosprendžio įsiteisėjimo arba iki termino, per kurį gali būti apskųstas nutarimas ar nutartis nutraukti procesą, pabaigos. Kai ginčas dėl teisės į daiktus yra spręstinas ieškinio tvarka, daiktai laikomi iki sprendimo, priimto toje byloje civilinio proceso tvarka, įsiteisėjimo.
@@ -3189,21 +3189,28 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 
 
-2. Daiktai gali būti grąžinti jų savininkams šio Kodekso 108 straipsnio 2 dalyje numatytu atveju ir tvarka ir nesuėjus šio straipsnio 1 dalyje nurodytiems terminams, jeigu tai nepakenks procesui.
+2. Daiktai gali būti grąžinti jų savininkams šio Kodekso 108 straipsnio 2 dalyje numatytu atveju ir tvarka ir nesuėjus šio straipsnio 1 dalyje nurodytiems terminams, jeigu tai nepakenks vykstančiam baudžiamajam procesui.
 
 
 
 
-3. Daiktai, kurie gali greitai sugesti ar prarasti vertę arba kurių saugojimo, priežiūros ir laikymo išlaidos būtų aiškiai per didelės ir kurie negali būti grąžinami savininkui, tuojau parduodami (perduodami) Lietuvos Respublikos civilinio proceso kodekso nustatyta areštuotam turtui realizuoti tvarka. Įstatymų nustatytais atvejais savininkui atlyginama parduotų (perduotų) arba sunaikintų daiktų vertė. Priimantis sprendimą parduoti (perduoti) arba sunaikinti daiktus prokuroras privalo užtikrinti, kad jie būtų reikiamai ištirti, o tais atvejais, kai įmanoma, būtų paimti ir iki šio straipsnio 1 dalyje nustatytų terminų pabaigos būtų laikomi jų pavyzdžiai.
+3. Lietuvos Respublikos ar Europos Sąjungos bendros valiutos apyvartoje esantys ar oficialiai patvirtinti, bet į apyvartą dar neišleisti pinigai, kurie gali būti netikri arba suklastoti, baudžiamojo proceso metu per kuo trumpiausią laiką turi būti perduoti Lietuvos banko specialistams tyrimui atlikti ir saugoti. Jeigu būtina imtis priemonių šiems daiktams apsaugoti arba kai tai pakenktų vykstančiam baudžiamajam procesui, Lietuvos Respublikos ar Europos Sąjungos bendros valiutos apyvartoje esantys ar oficialiai patvirtinti, bet į apyvartą dar neišleisti pinigai, kurie gali būti netikri arba suklastoti, Lietuvos bankui gali būti neperduodami, tačiau šiais atvejais Lietuvos bankui turi būti suteikta galimybė su šiais daiktais susipažinti.
 
 
 
 
-4. Tam tikrų rūšių daiktų saugojimo, pardavimo (perdavimo) ir sunaikinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos.
+4. Daiktai, kurie gali greitai sugesti ar prarasti vertę arba kurių saugojimo, priežiūros ir laikymo išlaidos būtų aiškiai per didelės ir kurie negali būti grąžinami savininkui, tuojau parduodami (perduodami) Lietuvos Respublikos civilinio proceso kodekso nustatyta areštuotam turtui realizuoti tvarka. Įstatymų nustatytais atvejais savininkui atlyginama parduotų (perduotų) arba sunaikintų daiktų vertė. Priimdamas sprendimą parduoti (perduoti) arba sunaikinti daiktus, taip pat šio straipsnio 3 dalyje nurodytais atvejais prokuroras privalo užtikrinti, kad jie būtų reikiamai ištirti, o tais atvejais, kai įmanoma, būtų paimti ir iki šio straipsnio 1 dalyje nustatytų terminų pabaigos būtų laikomi jų pavyzdžiai.
+
+
+
+
+5. Tam tikrų rūšių daiktų saugojimo, pardavimo (perdavimo) ir sunaikinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos.
 
 
 Straipsnio pakeitimai:
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-2555, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20292
  
 
 
@@ -3432,7 +3439,10 @@ Baudžiamojo proceso terminai nustato procesinę reikšmę turinčių veiksmų p
 102 straipsnis. Praleisto termino atnaujinimas
 
 
-1. Dėl svarbių priežasčių praleistas terminas gali būti ikiteisminio tyrimo pareigūno, prokuroro nutarimu arba teismo nutartimi atnaujintas. Tais atvejais, kai prašymas atnaujinti praleistą terminą paduodamas ikiteisminio tyrimo teisėjui arba teismui, gali būti rengiamas posėdis, apie kurį pranešama prašančiam atnaujinti terminą asmeniui ir kitiems proceso dalyviams.
+1. Dėl svarbių priežasčių praleistas terminas gali būti ikiteisminio tyrimo pareigūno, prokuroro nutarimu arba teismo nutartimi atnaujintas. Tais atvejais, kai prašymas atnaujinti praleistą terminą paduodamas ikiteisminio tyrimo teisėjui arba teismui, gali būti rengiamas posėdis, apie kurį pranešama prašančiam atnaujinti terminą asmeniui ir kitiems proceso dalyviams. Pakartotiniai prašymai atnaujinti praleistą terminą nepriimami ir nenagrinėjami, išskyrus atvejus, kai paaiškėja naujų aplinkybių.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -8516,13 +8526,20 @@ Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 
 
 
-257 straipsnis. Teismo veiksmai, kai paaiškėja, kad kaltinamasis gali būti padaręs kitą nusikalstamą veiką ar kad nusikalstamą veiką gali būti padaręs kitas asmuo
+257 straipsnis. Teismo nutarties ar nuosprendžio išsiuntimas Lietuvos Respublikos prokuratūrai
 
 
-Jeigu nagrinėjimo teisme metu paaiškėja, kad kaltinamasis gali būti padaręs kitą nusikalstamą veiką, kuri nebuvo nurodyta kaltinamajame akte, taip pat kad nusikalstamą veiką gali būti padaręs kitas asmuo, teismas motyvuota nutartimi tai praneša prokurorui.
+1. Jeigu nagrinėjimo teisme metu paaiškėja, kad kaltinamasis gali būti padaręs kitą nusikalstamą veiką, kuri nebuvo nurodyta kaltinamajame akte, taip pat kad nusikalstamą veiką gali būti padaręs kitas asmuo, teismas motyvuota nutartimi tai praneša prokurorui.
+
+
+
+
+2. Teismas, nustatęs, kad ikiteisminio tyrimo metu buvo padaryta esminių šio Kodekso pažeidimų, nuosprendžio, nutarties ar atskirosios nutarties nuorašą išsiunčia Lietuvos Respublikos generalinei prokuratūrai.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
-
-
 
 
 
@@ -9004,7 +9021,10 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 
 
-5. Kai ankstesnis teismo nuosprendis ar nutartis yra panaikinti ar kitais atvejais, kai byla nagrinėjama teisme iš naujo, liudytojai ir nukentėjusieji, apklausti anksčiau šią bylą nagrinėjant teismo posėdyje, pakartotinai apklausai gali būti nekviečiami, o jų parodymai, duoti pirmiau teismo posėdžio metu, balsu perskaitomi, jeigu nagrinėjimo teisme dalyviai su tuo sutinka ir nepageidauja, kad liudytojai ir nukentėjusieji būtų pakartotinai apklausti.
+5. Kai ankstesnis teismo nuosprendis ar nutartis yra panaikinti ar kitais atvejais, kai byla nagrinėjama teisme iš naujo, liudytojai ir nukentėjusieji, apklausti anksčiau šią bylą nagrinėjant teismo posėdyje, pakartotinės apklausos nekviečiami, jeigu to nereikia teisingumo interesais, o jų parodymai, duoti pirmiau teismo posėdžio metu, paskelbiami ir ištiriami šio Kodekso 290 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 Straipsnio pakeitimai:
@@ -9349,7 +9369,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 289 straipsnis. Daiktinių įrodymų apžiūra
 
 
-1. Teisme apžiūrimi tie daiktiniai įrodymai, kuriuos būtina apžiūrėti teismo nuomone ar proceso dalyvių prašymu. Daiktinius įrodymus apžiūri teismas, taip pat jie parodomi nagrinėjimo teisme dalyviams. Prireikus daiktiniai įrodymai gali būti parodyti ir liudytojams ar ekspertui. Daiktinių įrodymų apžiūra tiek teismo iniciatyva, tiek nagrinėjimo teisme dalyvių prašymu gali būti atliekama bet kuriuo įrodymų tyrimo metu. Asmenys, kuriems parodomi daiktiniai įrodymai, turi teisę atkreipti teismo dėmesį į bet kokias su apžiūra susijusias aplinkybes. Tai nurodoma teisiamojo posėdžio protokole.
+1. Teisme apžiūrimi tie daiktiniai įrodymai, kuriuos būtina apžiūrėti, kad būtų išsamiai ištirtos bylos aplinkybės. Nagrinėjimo teisme dalyvių prašymai dėl daiktinių įrodymų apžiūros išsprendžiami teismo nutartimi. Daiktinius įrodymus apžiūri teismas, taip pat jie parodomi nagrinėjimo teisme dalyviams. Prireikus daiktiniai įrodymai gali būti parodyti ir liudytojams ar ekspertui. Daiktinių įrodymų apžiūra tiek teismo iniciatyva, tiek nagrinėjimo teisme dalyvių prašymu gali būti atliekama bet kuriuo įrodymų tyrimo metu. Asmenys, kuriems parodomi daiktiniai įrodymai, turi teisę atkreipti teismo dėmesį į bet kokias su apžiūra susijusias aplinkybes. Tai nurodoma teisiamojo posėdžio protokole.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -9365,7 +9388,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 290 straipsnis. Dokumentų perskaitymas ir apžiūra
 
 
-1. Įrodymų tyrimo metu teisiamojo posėdžio pirmininkas paskelbia ikiteisminio tyrimo ir nagrinėjimo teisme metu gautus bei prie bylos pridėtus dokumentus, turinčius reikšmės bylai nagrinėti. Nagrinėjimo teisme dalyvių prašymu ar teismo iniciatyva šie dokumentai gali būti apžiūrimi.
+1. Įrodymų tyrimo metu teisiamojo posėdžio pirmininkas paskelbia išvardydamas ikiteisminio tyrimo ir nagrinėjimo teisme metu gautus bei prie bylos pridėtus dokumentus, turinčius reikšmės bylai nagrinėti. Kai tai būtina bylos aplinkybėms išsamiai ištirti, nagrinėjimo teisme dalyvių prašymu ar teismo iniciatyva šie dokumentai ar jų dalys paskelbiami perskaitant ir apžiūrimi. Nagrinėjimo teisme dalyvių prašymai šiais klausimais išsprendžiami teismo nutartimi. 
 
 
 
@@ -9373,12 +9396,9 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 2. Įrodymų tyrimo teisme metu gali būti perklausomi ir peržiūrimi garso ar vaizdo įrašai, kurie buvo padaryti atliekant ikiteisminį tyrimą.
 
 
-
-
-3. Tuo atveju, kai nagrinėjimo teisme dalyviai pareiškia, jog jie nepageidauja, kad dokumentai būtų skelbiami ir apžiūrimi, teisiamojo posėdžio pirmininkas gali apsiriboti tik šių dokumentų išvardijimu.
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
-
-
 
 
 
@@ -9386,15 +9406,12 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 291 straipsnis. Įrodymų paskelbimas sutrumpinto jų tyrimo atveju
 
 
-1. Sutrumpinto įrodymų tyrimo atveju teisiamojo posėdžio pirmininkas balsu perskaito kaltinamųjų, nukentėjusiųjų, liudytojų, ekspertų ir specialistų apklausų protokolus, surašytus ikiteisminio tyrimo ar anksčiau teisiamojo posėdžio metu, paskelbia byloje esančius dokumentus, supažindina su kitais įrodymais.
+Sutrumpinto įrodymų tyrimo atveju teisiamojo posėdžio pirmininkas šio Kodekso 290 straipsnyje nustatyta tvarka paskelbia kaltinamųjų, nukentėjusiųjų, liudytojų, ekspertų ir specialistų apklausų protokolus, surašytus ikiteisminio tyrimo ar anksčiau teisiamojo posėdžio metu, ir byloje esančius dokumentus, supažindina su kitais įrodymais.
 
 
-
-
-2. Tuo atveju, kai nagrinėjimo teisme dalyviai pareiškia, jog jie su visais ar dalimi byloje esančių įrodymų yra susipažinę ir nepageidauja, kad tai teisme būtų tiriama ir skelbiama, teisiamojo posėdžio pirmininkas gali apsiriboti tik šių įrodymų išvardijimu.
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
-
-
 
 
 
@@ -10288,22 +10305,24 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 317 straipsnis. Pranešimai apie paduotus apeliacinius skundus
 
 
-1. Apie apeliacinio skundo padavimą bei apie teisę su juo susipažinti ir pateikti atsikirtimus nuosprendį priėmęs teismas praneša nuteistajam, išteisintajam, asmeniui, kuriam byla nutraukta, ir kitiems proceso dalyviams, su kurių interesais skundas susijęs. Jeigu skundas susijęs su nukentėjusiaisiais ar civiliniais ieškovais, kurių baudžiamojoje byloje yra daug, pranešimai šiems asmenims gali būti nesiunčiami, o apie paduotą skundą ir apie galimybę su juo susipažinti bei pateikti atsikirtimus pranešama specialiame interneto tinklalapyje ir proceso dalyvių nurodytais elektroninio pašto adresais ne vėliau kaip likus dešimčiai dienų iki nurodytos susipažinimo su paduotu skundu dienos.
+1. Apie apeliacinio skundo padavimą bei apie teisę su juo susipažinti ir pateikti atsiliepimus nuosprendį priėmęs teismas praneša nuteistajam, išteisintajam, asmeniui, kuriam byla nutraukta, ir kitiems proceso dalyviams, su kurių interesais skundas susijęs. Jeigu skundas susijęs su nukentėjusiaisiais ar civiliniais ieškovais, kurių baudžiamojoje byloje yra daug, pranešimai šiems asmenims gali būti nesiunčiami, o apie paduotą skundą ir apie galimybę su juo susipažinti bei pateikti atsiliepimus pranešama specialiame interneto tinklalapyje ir proceso dalyvių nurodytais elektroninio pašto adresais ne vėliau kaip likus dešimčiai dienų iki nurodytos susipažinimo su paduotu skundu dienos.
 
 
 
 
-2. Nuteistajam, išteisintajam ir asmeniui, kuriam byla nutraukta, išsiunčiamas prokuroro, privataus kaltintojo ar nukentėjusiojo, ar jo atstovo skundo nuorašas. Kitiems proceso dalyviams tokie nuorašai įteikiami jų prašymu.
+2. Nuteistajam, išteisintajam ir asmeniui, kuriam byla nutraukta, išsiunčiamas prokuroro, privataus kaltintojo ar nukentėjusiojo, ar jo atstovo skundo nuorašas. Kitiems proceso dalyviams skundo nuorašai įteikiami jų prašymu.
 
 
 
 
-3. Gauti atsikirtimai į skundą pridedami prie bylos arba persiunčiami apeliacinės instancijos teismui bylai papildyti.
+3. Gauti atsiliepimai į skundą pridedami prie bylos arba persiunčiami apeliacinės instancijos teismui bylai papildyti.
 
 
 Straipsnio pakeitimai:
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
 
 
@@ -10341,7 +10360,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 319 straipsnis. Bylos su gautu apeliaciniu skundu išsiuntimas bei pranešimas apie bylos nagrinėjimo vietą ir laiką
 
 
-1. Pasibaigus apeliacinio skundo padavimo terminui, teismas per tris dienas išsiunčia bylą su gautais skundais ir atsikirtimais į juos apeliacinės instancijos teismui. Praėjus šiam terminui gauti atsikirtimai išsiunčiami apeliacinės instancijos teismui papildomai.
+1. Pasibaigus apeliacinio skundo padavimo terminui, teismas per tris dienas išsiunčia bylą su gautais skundais ir atsiliepimais į juos apeliacinės instancijos teismui. Praėjus šiam terminui gauti atsiliepimai išsiunčiami apeliacinės instancijos teismui papildomai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10417,7 +10439,10 @@ Nr. XI-1481, 2011-06-21, Žin., 2011, Nr. 85-4127 (2011-07-13)
 321 straipsnis. Bylos nagrinėjimo terminai
 
 
-1. Apeliacinės instancijos teismas posėdyje bylą išnagrinėja pirmosios instancijos teismo nurodytą dieną. Pirmosios instancijos teismas negali skirti bylos nagrinėjimo apeliacinės instancijos teisme anksčiau negu po vieno mėnesio nuo bylos su gautais skundais bei atsikirtimais į juos išsiuntimo apeliacinės instancijos teismui dienos.
+1. Apeliacinės instancijos teismas posėdyje bylą išnagrinėja pirmosios instancijos teismo nurodytą dieną. Pirmosios instancijos teismas negali skirti bylos nagrinėjimo apeliacinės instancijos teisme anksčiau negu po vieno mėnesio nuo bylos su gautais skundais bei atsiliepimais į juos išsiuntimo apeliacinės instancijos teismui dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10451,7 +10476,7 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 323 straipsnis. Bylos parengimas nagrinėti teismo posėdyje
 
 
-1. Lietuvos apeliacinio teismo pirmininkas, apygardos teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas, gavę apeliacinį skundą, atsikirtimus į jį ir baudžiamąją bylą, ne vėliau kaip per tris dienas nuo skundo gavimo dienos patikrina, ar skundas atitinka šio Kodekso nustatytus reikalavimus. Apeliacinis skundas, surašytas nesilaikant nustatytų reikalavimų, grąžinamas apeliantui.
+1. Lietuvos apeliacinio teismo pirmininkas, apygardos teismo pirmininkas ar Baudžiamųjų bylų skyriaus pirmininkas, gavę apeliacinį skundą, atsiliepimus į jį ir baudžiamąją bylą, ne vėliau kaip per tris dienas nuo skundo gavimo dienos patikrina, ar skundas atitinka šio Kodekso nustatytus reikalavimus. Apeliacinis skundas, surašytas nesilaikant nustatytų reikalavimų, grąžinamas apeliantui.
 
 
 
@@ -10461,18 +10486,20 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 
 
-3. Pranešėjas susipažįsta su apeliaciniu skundu, atsikirtimais į jį ir byla, jeigu reikia, nurodo šaukti į teismo posėdį liudytojus, nukentėjusiuosius, ekspertus, specialistus, išreikalauja papildomą medžiagą. Jeigu pranešėjas mano, kad nuteistojo ar išteisintojo dalyvavimas teismo posėdyje būtinas, apeliacinės instancijos teismas išsiunčia reikalavimą pristatyti suimtą nuteistąjį į teismą, o išteisintajam ar laisvėje esančiam nuteistajam – šaukimą.
+3. Pranešėjas susipažįsta su apeliaciniu skundu, atsiliepimais į jį ir byla, jeigu reikia, nurodo šaukti į teismo posėdį liudytojus, nukentėjusiuosius, ekspertus, specialistus, išreikalauja papildomą medžiagą. Jeigu pranešėjas mano, kad nuteistojo ar išteisintojo dalyvavimas teismo posėdyje būtinas, apeliacinės instancijos teismas išsiunčia reikalavimą pristatyti suimtą nuteistąjį į teismą, o išteisintajam ar laisvėje esančiam nuteistajam – šaukimą.
 
 
 
 
-4. Kai pranešėjas parengia bylą posėdžiui, Lietuvos apeliacinio teismo pirmininkas, apygardos teismo pirmininkas arba Baudžiamųjų bylų skyriaus pirmininkas sudaro Baudžiamųjų bylų skyriaus trijų teisėjų kolegiją ir vieną iš šių teisėjų patvirtina kolegijos pirmininku. Kolegijos teisėjai susipažįsta su apeliaciniu skundu, atsikirtimais į jį ir byla, o tais atvejais, kai byla negali būti pradėta nagrinėti nustatytu laiku arba yra pagrindas manyti, kad bylos nagrinėjimas gali trukti ilgą laiką, nusprendžia dėl bylos nagrinėjimo vietos ir laiko pakeitimo arba priima sprendimą nagrinėti bylą pagal iš anksto suderintą ir nustatytą teisiamojo posėdžio grafiką. Bylą nagrinėjančio teismo siūlymu apeliacinės instancijos teismo pirmininkas bylai nagrinėti gali sudaryti mišrią Baudžiamųjų bylų skyriaus ir Civilinių bylų skyriaus trijų teisėjų kolegiją. Tokia kolegija sudaroma ir bylos joje nagrinėjamos taikant šiame Kodekse nustatytas apeliacinės instancijos teismo kolegijų sudarymo ir bylų jose nagrinėjimo taisykles.
+4. Kai pranešėjas parengia bylą posėdžiui, Lietuvos apeliacinio teismo pirmininkas, apygardos teismo pirmininkas arba Baudžiamųjų bylų skyriaus pirmininkas sudaro Baudžiamųjų bylų skyriaus trijų teisėjų kolegiją ir vieną iš šių teisėjų patvirtina kolegijos pirmininku. Kolegijos teisėjai susipažįsta su apeliaciniu skundu, atsiliepimais į jį ir byla, o tais atvejais, kai byla negali būti pradėta nagrinėti nustatytu laiku arba yra pagrindas manyti, kad bylos nagrinėjimas gali trukti ilgą laiką, nusprendžia dėl bylos nagrinėjimo vietos ir laiko pakeitimo arba priima sprendimą nagrinėti bylą pagal iš anksto suderintą ir nustatytą teisiamojo posėdžio grafiką. Bylą nagrinėjančio teismo siūlymu apeliacinės instancijos teismo pirmininkas bylai nagrinėti gali sudaryti mišrią Baudžiamųjų bylų skyriaus ir Civilinių bylų skyriaus trijų teisėjų kolegiją. Tokia kolegija sudaroma ir bylos joje nagrinėjamos taikant šiame Kodekse nustatytas apeliacinės instancijos teismo kolegijų sudarymo ir bylų jose nagrinėjimo taisykles.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. XI-1481, 2011-06-21, Žin., 2011, Nr. 85-4127 (2011-07-13)
-Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
+Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-0340611
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
 
 
@@ -10491,7 +10518,10 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 
 
-3. Bylos nagrinėjimas iš esmės pradedamas vieno iš teisėjų pranešimu, kuriame jis išdėsto bylos esmę, pagrindines pirmosios instancijos teismo nuosprendžio išvadas, apeliacinių skundų ir atsikirtimų į juos motyvus. Proceso dalyviai gali prašyti pranešėją papildyti pranešimą.
+3. Bylos nagrinėjimas iš esmės pradedamas vieno iš teisėjų pranešimu, kuriame jis išdėsto bylos esmę.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10851,7 +10881,10 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 333 straipsnis. Apeliacinės instancijos teismo nuosprendžio ar nutarties perdavimas vykdyti
 
 
-1. Apeliacinės instancijos teismo nuosprendis ar nutartis kartu su baudžiamąja byla, apeliaciniu skundu, atsikirtimais ir papildomai pateikta medžiaga ne vėliau kaip per septynias dienas nuo šių sprendimų paskelbimo dienos perduodami nuosprendį priėmusiam pirmosios instancijos teismui vykdyti.
+1. Apeliacinės instancijos teismo nuosprendis ar nutartis kartu su baudžiamąja byla, apeliaciniu skundu, atsiliepimais į jį ir papildomai pateikta medžiaga ne vėliau kaip per septynias dienas nuo šių sprendimų paskelbimo dienos perduodami nuosprendį priėmusiam pirmosios instancijos teismui vykdyti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10871,13 +10904,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-334 straipsnis. Apeliacinės instancijos teismo nuosprendžio ar nutarties išsiuntimas Lietuvos Respublikos generalinei prokuratūrai
-
-
-Apeliacinės instancijos teismas savo nuosprendžio ar nutarties nuorašą išsiunčia Lietuvos Respublikos generalinei prokuratūrai, jeigu jis, panaikindamas ar pakeisdamas pirmosios instancijos teismo nuosprendį ar nutartį, konstatavo, kad ikiteisminio tyrimo metu buvo padaryta esminių šio Kodekso pažeidimų.
+334 straipsnis. Neteko galios nuo 2016-07-14
+Straipsnio naikinimas:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
-
-
 
 
 
@@ -12458,11 +12488,18 @@ Nr. XI-1481, 2011-06-21, Žin., 2011, Nr. 85-4127 (2011-07-13)
 374 straipsnis. Teismo nuosprendžio ir nutarties vykdymo sustabdymas
 
 
-Atrankos kolegija, priėmusi kasacinį skundą nagrinėti, arba teisėjų kolegija, kuriai pavesta nagrinėti kasacinę bylą, arba Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Baudžiamųjų bylų skyriaus pirmininko paskirtas teisėjas nutartimi gali sustabdyti bet kurio Lietuvos Respublikos teismo nuosprendžio ir nutarties ar jų dalies vykdymą, iki byla bus išspręsta kasacinės instancijos teismo posėdyje.
+1. Atrankos kolegija, priėmusi kasacinį skundą nagrinėti, arba teisėjų kolegija, kuriai pavesta nagrinėti kasacinę bylą, arba Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Baudžiamųjų bylų skyriaus pirmininko paskirtas teisėjas nutartimi gali sustabdyti bet kurio Lietuvos Respublikos teismo nuosprendžio ir nutarties ar jų dalies vykdymą, iki byla bus išspręsta kasacinės instancijos teismo posėdyje.
+
+
+
+
+2. Pakartotiniai prašymai sustabdyti nuosprendžio ar nutarties vykdymą nepriimami ir nenagrinėjami, išskyrus atvejus, kai paaiškėja naujų aplinkybių.
 
 
 Straipsnio pakeitimai:
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
 
 
@@ -12623,7 +12660,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-5. Vienas iš teisėjų savo pranešime išdėsto bylos esmę, nuosprendžio ar nutarties, taip pat kasacinio skundo turinį.
+5. Vienas iš teisėjų savo pranešime išdėsto bylos esmę.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -12873,14 +12913,21 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-385 straipsnis. Kasacinės instancijos teismo nutarties nuorašų įteikimas
+385 straipsnis. Kasacinės instancijos teismo nutarties nuorašų įteikimas
 
 
-Kasacinės instancijos teismo nutarties nuorašai tuojau po paskelbimo įteikiami kasatoriui, taip pat išteisintajam, nuteistajam ar asmeniui, kuriam byla nutraukta, su kurių interesais susijusi kasacinės instancijos teismo nutartis. Jeigu šie asmenys nedalyvavo skelbiant nutartį arba jos nuorašo nepriėmė tuojau po paskelbimo, nutarties nuorašai jiems turi būti įteikti ar išsiųsti ne vėliau kaip per penkias dienas nuo nutarties paskelbimo. Kitiems asmenims, dalyvaujantiems teismo posėdyje nagrinėjant kasacinę bylą ar su kurių interesais susijęs kasacinis skundas, nutarties nuorašai įteikiami ar išsiunčiami jų prašymu per penkias dienas nuo prašymo gavimo dienos.
+1. Kasacinės instancijos teismo nutarties nuorašai tuojau po paskelbimo įteikiami kasatoriui, taip pat išteisintajam, nuteistajam ar asmeniui, kuriam byla nutraukta, su kurių interesais susijusi kasacinės instancijos teismo nutartis. Jeigu šie asmenys nedalyvavo skelbiant nutartį arba jos nuorašo nepriėmė tuojau po paskelbimo, nutarties nuorašai jiems turi būti įteikti ar išsiųsti ne vėliau kaip per penkias dienas nuo nutarties paskelbimo. Kitiems asmenims, dalyvaujantiems teismo posėdyje nagrinėjant kasacinę bylą ar su kurių interesais susijęs kasacinis skundas, nutarties nuorašai įteikiami ar išsiunčiami jų prašymu per penkias dienas nuo prašymo gavimo dienos.
+
+
+
+
+2. Kasacinės instancijos teismas šio Kodekso 257 straipsnyje nurodytais atvejais prokuratūrai išsiunčia nutarties, kuria baigta kasacinė byla, ar atskirosios nutarties nuorašą.
 
 
 Straipsnio pakeitimai:
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
  
 
 
@@ -14595,7 +14642,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-5. Bylos nagrinėjimas prasideda teisėjo pranešimu, kuriame jis išdėsto prokuroro išvados esmę, nuosprendžio ar nutarties turinį.
+5. Bylos nagrinėjimas prasideda teisėjo pranešimu, kuriame jis išdėsto bylos esmę.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -14779,7 +14829,10 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 
 
-3. Vienas iš teisėjų savo pranešime išdėsto bylos esmę, priimtų byloje teismo sprendimų, taip pat pareiškimo ar teikimo dėl baudžiamosios bylos atnaujinimo turinį. 
+3. Vienas iš teisėjų savo pranešime išdėsto bylos esmę.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -14979,7 +15032,10 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 
 
 
-3. Bylos nagrinėjimo pradžioje pranešėju paskirtas teisėjas išdėsto bylos esmę, teismų sprendimų, prašymo ar teikimo atnaujinti baudžiamąją bylą turinį. Po teisėjo pranešimo žodis suteikiamas prašymą atnaujinti baudžiamąją bylą padavusiam asmeniui. Po to teismas žodį suteikia kitiems nagrinėjant bylą dalyvaujantiems asmenims. Prašymą atnaujinti bylą pateikęs asmuo turi teisę paskutinis duoti papildomus paaiškinimus.
+3. Bylos nagrinėjimo pradžioje pranešėju paskirtas teisėjas išdėsto bylos esmę. Po teisėjo pranešimo žodis suteikiamas prašymą atnaujinti baudžiamąją bylą padavusiam asmeniui. Po to teismas žodį suteikia kitiems nagrinėjant bylą dalyvaujantiems asmenims. Prašymą atnaujinti bylą pateikęs asmuo turi teisę paskutinis duoti papildomus paaiškinimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -15197,6 +15253,14 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 17. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39).
 Papildyta punktu:
 Nr. XII-2434, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17731
+ 
+
+
+
+
+17. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1). 
+Papildyta punktu:
+Nr. XII-2555, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20292
  
 
 
@@ -15596,3 +15660,13 @@ Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio 1 dalies nuo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2434, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17731
 Lietuvos Respublikos baudžiamojo proceso kodekso priedo pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2555, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20292
+Lietuvos Respublikos baudžiamojo proceso kodekso 93 straipsnio ir priedo pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+Lietuvos Respublikos baudžiamojo proceso kodekso 102, 127, 130, 233, 257, 276, 289, 290, 291, 308, 313, 317, 319, 320, 321, 323, 324, 325, 333, 374, 374-1, 375, 377, 385, 448, 454 ir 460 straipsnių pakeitimo, Kodekso papildymo 325-1 straipsniu ir 334 straipsnio pripažinimo netekusiu galios įstatymas
