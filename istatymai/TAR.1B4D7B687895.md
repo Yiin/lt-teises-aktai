@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2016-11-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1515,7 +1515,10 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
 
 
-1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su draudimo, finansinių paslaugų ir (arba) papildomų investicinių paslaugų teikėjais, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, taip pat iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“.
+1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su draudimo, finansinių paslaugų ir (arba) papildomų investicinių paslaugų teikėjais, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė, taip pat vartotojų ginčus su kitais ūkio subjektais, kylančius dėl Lietuvos Respublikos mokėjimų įstatyme nustatytų reikalavimų laikymosi. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“.
+Straipsnio dalies pakeitimai:
+Nr. XII-2562, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20316
+ 
 
 
 
@@ -2447,4 +2450,9 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2088, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19366
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2562, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20316
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo įstatymas
