@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-02-01 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -616,7 +616,10 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 10 straipsnis. Kolektyvaus pakuočių atliekų tvarkymo organizavimo reikalavimai
 
 
-1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų pareigų netapdami organizacijos dalyviais. Gamintojai ir importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai, privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai organizuoti pakuočių atliekų tvarkymą ateinantiems kalendoriniams metams (išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę vykdyti savo pareigas vienai organizacijai, negali pavesti savo pareigų vykdymo kitai organizacijai einamųjų kalendorinių metų laikotarpiu.
+1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų pareigų netapdami organizacijos dalyviais. Gamintojai ir importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai, privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai organizuoti pakuočių atliekų tvarkymą ateinančiais kalendoriniais metais (išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę savo pareigas vykdyti vienai organizacijai, negali pavesti savo pareigų vykdymo kitai organizacijai einamųjų kalendorinių metų laikotarpiu (išskyrus atvejus, kai organizacijai išduotos licencijos galiojimas yra sustabdytas arba panaikintas).
+Straipsnio dalies pakeitimai:
+Nr. XII-2586, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20335
+ 
 
 
 
@@ -1495,3 +1498,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2242, 2015-12-23, paskelbta TAR 2016-01-05, i. k. 2016-00088
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4-1, 5, 7, 8, 10, 11, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 11-1, 11-2, 12-1, 12-2, 12-3 straipsniais įstatymo Nr. XII-864 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2586, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20335
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 10 straipsnio pakeitimo įstatymas
