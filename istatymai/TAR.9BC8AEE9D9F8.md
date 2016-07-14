@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-07-13
+Suvestinė redakcija nuo 2016-07-14
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -535,7 +535,10 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 
 
 
-6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo, kitas) programas, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -678,7 +681,10 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 
 
 
-25) įstatymų nustatyta tvarka teikia ieškinius, prašymus, skundus teismui;
+25) kreipiasi į teismą siekdamas apginti viešąjį interesą nekilnojamojo kultūros paveldo apsaugos srityje, įstatymų nustatyta tvarka teikia ieškinius, prašymus, skundus teismui, teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai teikia duomenis apie fizinius asmenis, turinčius nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovo kvalifikacijos atestatą ir įtariamus pažeidus šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus rengiant teritorijų planavimo dokumentus ar vadovaujant jų rengimui;
+Straipsnio punkto pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -846,7 +852,10 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSKAITA IR KULTŪROS PAVELDO OBJEKTO SKELBIMAS 
 
 
 
-5. Nekilnojamųjų kultūros vertybių reikšmingumą, kultūros paveldo objektų ar vietovių vertingąsias savybes nustato ir teritorijos ribas apibrėžia Departamento ir savivaldybių sudarytos nekilnojamojo kultūros paveldo vertinimo tarybos (toliau – vertinimo tarybos). Savivaldybės ar kelių savivaldybių sudarytos vertinimo tarybos sprendžia dėl savivaldybės teritorijoje esančio vietinio reikšmingumo lygmens nekilnojamojo kultūros paveldo vertingųjų savybių ir vietinio reikšmingumo lygmens nustatymo, vietinio reikšmingumo lygmens nekilnojamojo kultūros paveldo teritorijos ribų apibrėžimo ir apsaugos reikalingumo, apsaugos vietinio reikšmingumo lygmens nekilnojamosioms kultūros vertybėms netaikymo ar tokių vertybių apskaitos duomenų tikslinimo. Departamento vertinimo tarybos sprendžia dėl Lietuvos Respublikos teritorijoje esančio nekilnojamojo kultūros paveldo vertingųjų savybių nustatymo, teritorijos ribų apibrėžimo ir nacionalinio, regioninio ar vietinio reikšmingumo lygmens nekilnojamosioms kultūros vertybėms nustatymo, apsaugos reikalingumo, apsaugos nekilnojamosioms kultūros vertybėms netaikymo ar tokių vertybių apskaitos duomenų tikslinimo.
+5. Nekilnojamųjų kultūros vertybių reikšmingumą, kultūros paveldo objektų ar vietovių vertingąsias savybes nustato ir jų teritorijų bei kultūros paveldo objektų apsaugos zonų ribas apibrėžia Departamento ir savivaldybių sudarytos nekilnojamojo kultūros paveldo vertinimo tarybos (toliau – vertinimo tarybos). Savivaldybės ar kelių savivaldybių sudarytos vertinimo tarybos sprendžia dėl savivaldybės teritorijoje esančio vietinio reikšmingumo lygmens nekilnojamojo kultūros paveldo vertingųjų savybių ir vietinio reikšmingumo lygmens nustatymo, vietinio reikšmingumo lygmens nekilnojamojo kultūros paveldo teritorijos ribų apibrėžimo ir apsaugos reikalingumo, apsaugos vietinio reikšmingumo lygmens nekilnojamosioms kultūros vertybėms netaikymo ar tokių vertybių apskaitos duomenų tikslinimo. Departamento vertinimo tarybos sprendžia dėl Lietuvos Respublikos teritorijoje esančio nekilnojamojo kultūros paveldo vertingųjų savybių nustatymo, teritorijos ribų apibrėžimo ir nacionalinio, regioninio ar vietinio reikšmingumo lygmens nekilnojamosioms kultūros vertybėms nustatymo, apsaugos reikalingumo, apsaugos nekilnojamosioms kultūros vertybėms netaikymo ar tokių vertybių apskaitos duomenų tikslinimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -2355,3 +2364,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1141, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13459
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 31 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 5, 8, 18, 22, 23 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
