@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-14
+Suvestinė redakcija nuo 2016-07-15 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -338,7 +338,7 @@ Civilinio kodekso 3.14 straipsnio 2, 3, 4 ir 5 dalyse nustatytos normos dėl san
 21 straipsnis. Civilinio kodekso nustatytų normų, susijusių su bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų apskaita, taikymas
 
 
-1. Civilinio kodekso 3.24, 3.25, 3.304 straipsniuose nustatytos normos dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikomos toms santuokoms, kurios sudaromos įsigaliojus šiam kodeksui.
+1. Civilinio kodekso 3.24 straipsnyje nustatyta norma dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikoma po šio kodekso įsigaliojimo sudarytoms santuokoms.
 
 
 
@@ -4658,7 +4658,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-2. Neveiksnių ir ribotai veiksnių asmenų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoja – Centrinė hipotekos įstaiga. Registro duomenys tvarkomi Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka.
+2. Neveiksnių ir ribotai veiksnių asmenų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija), šio registro tvarkytoją skiria Vyriausybė. Registro duomenys tvarkomi Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+ 
 
 
 
@@ -4838,7 +4841,7 @@ Valstybė privalomai registruoja šiuos civilinės būklės aktus:
 
 
 
-6) tėvystės (motinystės) pripažinimą ir nustatymą;
+6) tėvystės pripažinimą, tėvystės (motinystės) nustatymą ir tėvystės (motinystės) nuginčijimą;
 
 
 
@@ -4866,13 +4869,7 @@ Valstybė privalomai registruoja šiuos civilinės būklės aktus:
 2.19 straipsnis. Civilinės būklės aktų registravimo tvarka
 
 
-1. Civilinės būklės aktus, išskyrus partnerystę, registruoja civilinės metrikacijos įstaigos, padarydamos atitinkamą įrašą civilinės būklės aktų įrašų knygose ir asmeniui išduodamos atitinkamo akto įrašo liudijimą.
-
-
-
-
-2. Civilinės būklės aktų registravimo, aktų įrašų keitimo, papildymo ir ištaisymo tvarką nustato šio kodekso trečioji knyga.
- 
+Civilinės būklės aktai, išskyrus partnerystę, registruojami civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka.
 
 
 
@@ -8537,7 +8534,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-3. Įgaliojimų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoja – Centrinė hipotekos įstaiga.
+3. Įgaliojimų registro valdytoja yra Teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+ 
 
 
 
@@ -10008,8 +10008,7 @@ Susitarimas tuoktis ir jo teisinės pasekmės
 
 
 
-3. Paduotas nustatytos formos prašymas civilinės metrikacijos įstaigai įregistruoti santuoką laikomas viešu susitarimu tuoktis.
- 
+3. Civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka paduotas prašymas įregistruoti santuoką laikomas viešu susitarimu tuoktis.
 
 
 
@@ -10201,11 +10200,10 @@ Santuokos sudarymas
  
 
 
-3.18 straipsnis. Prašymas įregistruoti santuoką
+3.18 straipsnis. Santuokos sudarymas
 
 
-Asmenys, norintys susituokti, paduoda prašymą įregistruoti santuoką šio kodekso 3.299 straipsnio nustatyta tvarka.
- 
+Santuoka sudaroma norintiems susituokti asmenims padavus prašymą įregistruoti santuoką ir ją įregistravus civilinės būklės aktų registravimą reglamentuojančio įstatymo arba šio kodekso 3.24 straipsnio nustatyta tvarka.
 
 
 
@@ -10305,12 +10303,12 @@ Prašymo įregistruoti santuoką padavimo faktas viešai skelbiamas šio kodekso
 3.24 straipsnis. Santuokos sudarymas bažnyčios (konfesijų) nustatyta tvarka
 
 
-1. Bažnyčios (konfesijų) nustatyta tvarka santuoka sudaroma pagal atitinkamos religijos vidaus (kanonų) teisės nustatytą procedūrą.
+1. Bažnyčios (konfesijų) nustatyta tvarka santuoka sudaroma pagal atitinkamos religijos (kanonų) teisės nustatytą procedūrą.
 
 
 
 
-2. Santuokos sudarymas bažnyčios (konfesijų) nustatyta tvarka sukelia tokias pat teisines pasekmes kaip ir santuokos sudarymas civilinės metrikacijos įstaigoje, jeigu:
+2. Santuokos sudarymas bažnyčios (konfesijų) nustatyta tvarka sukelia tokias pat teisines pasekmes kaip ir santuokos sudarymas civilinės metrikacijos įstaigoje civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka, jeigu:
 
 
 1) nebuvo pažeistos šio kodekso 3.12–3.17 straipsniuose nustatytos santuokos sudarymo sąlygos;
@@ -10323,10 +10321,19 @@ Prašymo įregistruoti santuoką padavimo faktas viešai skelbiamas šio kodekso
 
 
 
-3) santuokos sudarymas bažnyčios (konfesijų) nustatyta tvarka buvo įtrauktas į apskaitą civilinės metrikacijos įstaigoje šios knygos nustatyta tvarka.
- 
+3) santuokos sudarymas bažnyčios (konfesijų) nustatyta tvarka buvo įtrauktas į apskaitą civilinės metrikacijos įstaigoje civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka.
 
 
+
+
+
+
+3. Jeigu santuoka sudaryta bažnyčios (konfesijų) nustatyta tvarka, religinė bendruomenė ar religinė bendrija privalo per dešimt dienų po šios santuokos sudarymo pateikti santuokos sudarymo vietos civilinės metrikacijos įstaigai teisingumo ministro nustatytos formos pranešimą apie santuokos sudarymą bažnyčios (konfesijų) nustatyta tvarka. Tokiu atveju santuoka laikoma sudaryta nuo jos sudarymo bažnyčios (konfesijų) nustatyta tvarka dienos.
+
+
+
+
+4. Jeigu per šio straipsnio 3 dalyje nustatytą terminą pranešimas apie santuokos sudarymą bažnyčios (konfesijų) nustatyta tvarka nepateikiamas, santuoka laikoma sudaryta nuo tos dienos, kurią ji buvo įtraukta į apskaitą civilinės metrikacijos įstaigoje.
 
 
 
@@ -10544,7 +10551,7 @@ SANTUOKOS NEGALIOJIMAS
 3.37 straipsnis. Santuokos pripažinimo negaliojančia pagrindai ir tvarka
 
 
-1. Santuoka gali būti pripažinta negaliojančia, jeigu buvo pažeistos šio kodekso 3.12–3.17 straipsniuose nustatytos santuokos sudarymo sąlygos, taip pat šio kodekso 3.21 straipsnio 3 dalyje, 3.39 ir 3.40 straipsniuose numatytais pagrindais.
+1. Santuoka gali būti pripažinta negaliojančia, jeigu buvo pažeistos šio kodekso 3.12–3.17 straipsniuose nustatytos santuokos sudarymo sąlygos, taip pat šio kodekso 3.39 ir 3.40 straipsniuose nustatytais pagrindais arba jeigu vienas iš norinčių tuoktis nepranešė kitam apie tai, kad jis serga lytiškai plintančia liga arba AIDS. 
 
 
 
@@ -10559,8 +10566,7 @@ SANTUOKOS NEGALIOJIMAS
 
 
 
-4. Teismas privalo per tris darbo dienas po teismo sprendimo, kuriuo santuoka pripažinta negaliojančia, įsiteisėjimo išsiųsti jo nuorašą santuoką įregistravusiai civilinės metrikacijos įstaigai.
- 
+4. Teismas ne vėliau kaip kitą darbo dieną nuo teismo sprendimo pripažinti santuoką negaliojančia įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai.
 
 
 
@@ -11255,8 +11261,7 @@ Santuokos nutraukimo teisinės pasekmės
 
 
 
-2. Teismas per tris darbo dienas po teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo išsiųsti sprendimo kopiją teismo buvimo vietos civilinės metrikacijos įstaigai, kuri įregistruoja santuokos nutraukimo faktą.
- 
+2. Teismas ne vėliau kaip kitą darbo dieną nuo teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai.
 
 
 
@@ -12281,7 +12286,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-2. Vedybų sutartis, taip pat jos pakeitimai turi būti įregistruoti vedybų sutarčių registre, kurį tvarko hipotekos įstaigos, šio registro nuostatų nustatyta tvarka. Keisti vedybų sutartį galima tik teismo leidimu. Vedybų sutarties pakeitimai neturi grįžtamosios galios.
+2. Vedybų sutartis, taip pat jos pakeitimai turi būti įregistruoti vedybų sutarčių registre. Vedybų sutarčių registro valdytoja yra Teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė. Registro duomenys tvarkomi Vedybų sutarčių registro nuostatų nustatyta tvarka. Keisti vedybų sutartį galima tik teismo leidimu. Vedybų sutarties pakeitimai neturi grįžtamosios galios.
+Straipsnio dalies pakeitimai:
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+ 
 
 
 
@@ -12777,10 +12785,12 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 3.125 straipsnis. Turto padalijimo fakto registravimas
 
 
-Šalių sutartis ar teismo sprendimas, kuriuo padalyta bendroji jungtinė sutuoktinių nuosavybė, turi būti registruojamas hipotekos įstaigoje, kurioje įregistruota vedybų sutartis arba yra padalytas turtas, padarant atitinkamą įrašą vedybų sutarčių registre.
+Šalių sutartis ar teismo sprendimas, kuriuo padalyta bendroji jungtinė sutuoktinių nuosavybė, turi būti registruojamas vedybų sutarčių registre.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
  
-
-
 
 
 
@@ -13011,8 +13021,7 @@ Bendrieji vaiko kilmės nustatymo pagrindai
 3.138 straipsnis. Vaiko kilmės patvirtinimas
 
 
-Vaiko tėvus patvirtina civilinės metrikacijos įstaigoje įrašytas gimimo įrašas ir gimimo įrašo pagrindu išduotas gimimo liudijimas.
- 
+Vaiko tėvus patvirtina gimimo įrašas, sudarytas civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka.
 
 
 
@@ -13022,23 +13031,17 @@ Vaiko tėvus patvirtina civilinės metrikacijos įstaigoje įrašytas gimimo įr
 3.139 straipsnis. Vaiko kilmės iš motinos nustatymas
 
 
-1. Civilinės metrikacijos įstaiga vaiko gimimo įraše moterį įrašo vaiko motina, remdamasi medicinos įstaigos išduotu pažymėjimu apie vaiko gimimą.
+1. Gimimo įraše vaiko motina įrašoma moteris, nurodyta vaiko gimimo pažymėjime.
 
 
 
 
-2. Jei vaikas gimė ne medicinos įstaigoje, pažymėjimą apie vaiko gimimą išduoda medicinos įstaiga, tikrinusi vaiko ir motinos būklę po gimdymo.
+2. Vaiko gimimo pažymėjimą sudaro sveikatos priežiūros įstaiga Vyriausybės nustatyta tvarka. Vaiko gimimo pažymėjime motina nurodoma moteris, dėl kurios nekyla abejonių, kad ji pagimdė vaiką.
 
 
 
 
-3. Jei vaikas gimė ne medicinos įstaigoje ir jei vaiko motinos būklė po gimdymo nebuvo tikrinta, pažymėjimą apie vaiko gimimą išduoda gydytojų konsultacinė komisija Vyriausybės nustatyta tvarka. Šiame pažymėjime motina nurodoma moteris, dėl kurios gydytojų konsultacinei komisijai nekyla abejonių, jog ji pagimdė vaiką.
-
-
-
-
-4. Jei vaiko gimimo įraše nėra duomenų apie motiną arba jei motinystė nuginčyta, motinystę gali nustatyti teismas pagal moters, laikančios save vaiko motina, pilnamečio vaiko, vaiko tėvo, globėjo (rūpintojo) ar valstybinės vaiko teisių apsaugos institucijos ieškinį.
- 
+3. Kai vaiko gimimo įraše nėra duomenų apie motiną arba kai motinystė nuginčyta, motinystę gali nustatyti teismas pagal moters, laikančios save vaiko motina, pilnamečio vaiko, vaiko tėvo, globėjo (rūpintojo) ar valstybinės vaiko teisių apsaugos institucijos ieškinį.
 
 
 
@@ -13048,7 +13051,7 @@ Vaiko tėvus patvirtina civilinės metrikacijos įstaigoje įrašytas gimimo įr
 3.140 straipsnis. Vaiko kilmės iš tėvo nustatymas
 
 
-1. Jei vaiką pagimdė motina, kuri yra susituokusi, nors vaikas pradėtas iki santuokos, kaip vaiko tėvas gimimo įraše įrašomas vaiko motinos sutuoktinis remiantis santuokos įrašu ar jo pagrindu išduotu santuokos liudijimu.
+1. Jei vaiką pagimdė motina, kuri yra susituokusi, nors vaikas pradėtas iki santuokos, kaip vaiko tėvas gimimo įraše įrašomas vaiko motinos sutuoktinis.
 
 
 
@@ -13112,18 +13115,27 @@ Tėvystės pripažinimas
 3.142 straipsnis. Tėvystės pripažinimo tvarka
 
 
-1. Vyras, laikantis save tėvu, turi teisę kartu su vaiko motina paduoti civilinės metrikacijos įstaigai nustatytos formos notaro patvirtintą pareiškimą dėl tėvystės pripažinimo.
+1. Vyras, laikantis save tėvu, turi teisę kartu su vaiko motina kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo.
 
 
 
 
-2. Jei vaikui yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo civilinės metrikacijos įstaigoje gali būti priimamas tik tuo atveju, kai yra vaiko rašytinis sutikimas.
+2. Jei vaikui yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo gali būti patvirtintas tik tuo atveju, kai yra vaiko rašytinis sutikimas.
 
 
 
 
-3. Jei tėvystę pripažįstantis asmuo yra nepilnametis, paduodant civilinės metrikacijos įstaigai pareiškimą dėl tėvystės pripažinimo, reikalaujamas jo tėvų, globėjų ar rūpintojų rašytinis sutikimas. Jeigu tėvai, globėjai ar rūpintojai tokio sutikimo neduoda, leidimą gali duoti teismas nepilnamečio prašymu.
- 
+3. Jei tėvystę pripažįstantis asmuo yra nepilnametis, tvirtinant pareiškimą dėl tėvystės pripažinimo, reikalaujamas jo tėvų, globėjų ar rūpintojų rašytinis sutikimas. Jei tėvai, globėjai ar rūpintojai tokio sutikimo neduoda, leidimą gali duoti teismas nepilnamečio prašymu.
+
+
+
+
+4. Pareiškimas dėl tėvystės pripažinimo negali būti tvirtinamas, jeigu dėl tėvystės pripažinimo nesutinka pilnametis vaikas.
+
+
+
+
+5. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo patvirtinimo dienos privalo šį pareiškimą elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
 
 
 
@@ -13133,7 +13145,7 @@ Tėvystės pripažinimas
 3.143 straipsnis. Tėvystės pripažinimas, kol gims vaikas
 
 
-1. Jei yra aplinkybių, dėl kurių vaikui gimus nebus galima paduoti pareiškimą dėl tėvystės pripažinimo, vyras, laikantis save pradėto, bet dar negimusio vaiko tėvu, kartu su būsima vaiko motina gali civilinės metrikacijos įstaigai pagal būsimos vaiko motinos gyvenamąją vietą paduoti pareiškimą dėl tėvystės pripažinimo vaiko motinos nėštumo laikotarpiu.
+1. Jei yra aplinkybių, dėl kurių vaikui gimus nebus galima kreiptis į notarą dėl tėvystės pripažinimo, vyras, laikantis save pradėto, bet dar negimusio vaiko tėvu, kartu su būsima vaiko motina gali kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo vaiko motinos nėštumo laikotarpiu. 
 
 
 
@@ -13148,8 +13160,12 @@ Tėvystės pripažinimas
 
 
 
-4. Jeigu vaiko motina arba vyras, padavęs pareiškimą dėl tėvystės pripažinimo iki vaikui gimstant, atšaukė jį, kol vaiko gimimas nebuvo įregistruotas civilinės metrikacijos įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės pripažinimo, neregistruojama.
- 
+4. Jei vaiko motina arba vyras atšaukė pareiškimą dėl tėvystės pripažinimo, patvirtintą šio straipsnio nustatyta tvarka, kol vaiko gimimas nebuvo įregistruotas civilinės metrikacijos įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės pripažinimo, neregistruojama. 
+
+
+
+
+5. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo ar pareiškimo dėl tėvystės pripažinimo atšaukimo patvirtinimo dienos privalo šį pareiškimą elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
 
 
 
@@ -13169,7 +13185,7 @@ Tėvystės pripažinimas
 
 
 
-3. Tėvystės pripažinimo pareiškimas negali būti registruojamas, jeigu dėl tėvystės pripažinimo nesutinka pilnametis vaikas.
+3. Pareiškimas dėl tėvystės pripažinimo negali būti tvirtinamas, jeigu dėl tėvystės pripažinimo nesutinka pilnametis vaikas. 
 
 
 Straipsnio pakeitimai:
@@ -13187,7 +13203,7 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-2. Įsiteisėjęs teismo sprendimas, kuriuo patvirtinamas tėvystės pripažinimo pareiškimas, per tris darbo dienas išsiunčiamas civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
+2. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo, kuriuo patvirtinamas pareiškimas dėl tėvystės pripažinimo, įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
 
 
 
@@ -13243,8 +13259,7 @@ Tėvystės nustatymas
 
 
 
-3. Teismas, nustatęs tėvystę, įsiteisėjusį teismo sprendimą per tris darbo dienas išsiunčia civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
- 
+3. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nustatyti tėvystę įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
 
 
 
@@ -13346,8 +13361,7 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-3. Įsiteisėjęs teismo sprendimas, kuriuo nuginčyta tėvystė (motinystė), per tris darbo dienas išsiunčiamas civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
- 
+3. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nuginčyti tėvystę (motinystę) įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
 
 
 
@@ -13432,16 +13446,7 @@ Tėvų valdžia
 3.157 straipsnis. Atstovavimas vaikams
 
 
-1. Tėvai yra savo neveiksnių nepilnamečių vaikų atstovai pagal įstatymą, išskyrus tėvus, teismo sprendimu pripažintus neveiksniais šioje srityje arba ribotai veiksniais šioje srityje.
-Straipsnio dalies pakeitimai:
-Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
- 
-
-
-
-
-2. Tėvai savo nepilnamečiams vaikams atstovauja pateikę vaiko gimimo liudijimą.
- 
+Tėvai yra savo neveiksnių nepilnamečių vaikų atstovai pagal įstatymą, išskyrus tėvus, teismo sprendimu pripažintus neveiksniais šioje srityje arba ribotai veiksniais šioje srityje.
 
 
 
@@ -13669,7 +13674,7 @@ Asmeninės tėvų teisės ir pareigos
 
 
 
-2. Jei tėvų pavardės skirtingos, vaikui suteikiama tėvo ar motinos pavardė tėvų susitarimu. Tėvui ir motinai nesusitarus, vieno iš tėvų pavardė suteikiama teismo nutartimi.
+2. Kai tėvų pavardės skirtingos, vaikui tėvų susitarimu suteikiama tėvo ar motinos pavardė arba dviguba pavardė, sudaryta iš tėvo ir motinos pavardžių. Tėvui ir motinai nesusitarus dėl vaiko pavardės, vaikui pavardė suteikiama teismo nutartimi. 
 
 
 
@@ -13679,8 +13684,7 @@ Asmeninės tėvų teisės ir pareigos
 
 
 
-4. Vaiko vardo ir pavardės pakeitimo pagrindus ir tvarką nustato teisingumo ministro patvirtintos Civilinės metrikacijos taisyklės.
- 
+4. Vaiko vardo ir pavardės pakeitimo pagrindus ir tvarką nustato teisingumo ministras.
 
 
 
@@ -14957,8 +14961,7 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą teismas per tris darbo dienas išsiunčia civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą.
- 
+3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą įvaikinti teismas ne vėliau kaip kitą darbo dieną po šio sprendimo įsiteisėjimo dienos privalo elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai. 
 
 
 
@@ -15693,7 +15696,7 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 1. Vaiko globos (rūpybos) nustatymo principai:
 
 
-1) vaiko interesų pirmumas;
+1) geriausių vaiko interesų pirmumas;
 
 
 
@@ -15804,8 +15807,13 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 3.253 straipsnis. Vaiko laikinoji globa (rūpyba)
 
 
-Vaiko laikinoji globa (rūpyba) – laikinai be tėvų globos likusio vaiko priežiūra, auklėjimas, jo teisių ir teisėtų interesų atstovavimas bei gynimas šeimoje, šeimynoje ar institucijoje. Vaiko laikinosios globos (rūpybos) tikslas – grąžinti vaiką į šeimą.
- 
+1. Vaiko laikinoji globa (rūpyba) – laikinai be tėvų globos likusio vaiko priežiūra, auklėjimas, jo teisių ir teisėtų interesų atstovavimas bei gynimas šeimoje, šeimynoje ar institucijoje. Vaiko laikinosios globos (rūpybos) tikslas – grąžinti vaiką į šeimą.
+
+
+
+
+2. Vaiko laikinoji globa (rūpyba) trunka ne ilgiau kaip dvylika mėnesių. Valstybinė vaiko teisių apsaugos institucija Vyriausybės nustatyta tvarka ir terminais informuoja Vyriausybės įgaliotą instituciją apie atvejus, kai vaiko laikinoji globa (rūpyba) trunka ilgiau kaip dvylika mėnesių. Vyriausybės įgaliota institucija per mėnesį nuo šios informacijos gavimo dienos Vyriausybės nustatyta tvarka įvertina šeimai teiktų socialinių paslaugų efektyvumą ir galimybes grąžinti vaiką į šeimą ir įpareigoja valstybinę vaiko teisių apsaugos instituciją priimti sprendimą grąžinti vaiką į šeimą arba sprendimą tęsti vaiko laikinąją globą ir paslaugų teikimą šeimai, arba kreiptis į teismą dėl vaiko nuolatinės globos (rūpybos) nustatymo.
+TAR pastaba. Iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko laikinajai globai (rūpybai) 3.253 straipsnio 2 dalyje nustatytas dvylikos mėnesių terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
 
 
 
@@ -16004,15 +16012,35 @@ Vaiko nuolatinė globa (rūpyba) baigiasi, kai vaikas:
 3.261 straipsnis. Vaiko globa (rūpyba) valstybinėse ir nevyriausybinėse globos institucijose
 
 
-1. Likęs be tėvų globos vaikas apgyvendinamas valstybinėje arba nevyriausybinėje vaikų globos institucijoje, kai nėra galimybės jo globoti šeimoje arba šeimynoje.
+1. Likęs be tėvų globos vaikas apgyvendinamas valstybinėje arba nevyriausybinėje vaikų globos institucijoje tik išimtiniais atvejais, kai nėra galimybės jo globoti šeimoje arba šeimynoje.
 
 
 
 
-2. Vaiko globą (rūpybą) institucijose nustato įstatymai ir kiti teisės aktai.
- 
+2. Vaiko iki trejų metų globa vaikų globos institucijoje įstatymų nustatyta tvarka gali būti nustatyta tik išimtiniais atvejais ir gali trukti ne ilgiau kaip tris mėnesius, išskyrus atvejus, kai Vyriausybės įgaliota institucija pritaria, kad vaiko globa vaikų globos institucijoje tęstųsi ilgiau dėl šių objektyvių priežasčių: 
 
 
+1) vaikui reikalingos specializuotos sveikatos priežiūros ir (ar) slaugos paslaugos, kurių teikimas negali būti užtikrinamas vaikui nustatant globą šeimoje ar šeimynoje arba
+
+
+
+
+2) vaiko išskyrimas su broliais, seserimis pažeistų geriausius jo interesus, arba
+
+
+
+
+3) kai globa nustatoma dėl skubaus vaiko paėmimo iš šeimos ir nėra galimybių vaikui nustatyti globą šeimoje arba šeimynoje.
+
+
+
+
+
+
+3. Vaiko globą (rūpybą) institucijose nustato įstatymai ir kiti teisės aktai.
+
+
+TAR pastaba. 3.261 straipsnio nuostatos dėl apribojimo nustatant vaiko iki trejų metų globą vaikų globos institucijoje netaikomos iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko globai.
 
 
 
@@ -17105,6 +17133,8 @@ Civilinės būklės aktų įrašų ir jų keitimo dokumentų saugojimo tvarką n
 
 
 
+ 
+ 
 KETVIRTOJI KNYGA
 DAIKTINĖ TEISĖ
  
@@ -23111,7 +23141,7 @@ Juridinių faktų įvykimą patvirtinantys dokumentai, kuriais remiantis šie ju
 
 
 
-4) turto savininko santuokos, ištuokos, vardo, pavardės pakeitimo, mirties liudijimas;
+4) turto savininko santuoką, ištuoką, vardo, pavardės pakeitimą, mirtį liudijantys dokumentai;
 
 
 
@@ -24094,20 +24124,22 @@ Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)
 5.32 straipsnis. Testamentų registras
 
 
-1. Lietuvos Respublikos teritorijoje sudarytų testamentų registrą tvarko Centrinė hipotekos įstaiga.
+1. Lietuvos Respublikos teritorijoje sudarytų testamentų registro valdytoja yra Teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė.
 
 
 
 
-2. Notarai, konsuliniai pareigūnai per tris darbo dienas privalo pranešti Centrinei hipotekos įstaigai apie patvirtintus, priimtus saugoti ar panaikintus testamentus. Pranešime nurodomas testatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta, testamento sudarymo data bei vieta, rūšis ir saugojimo vieta. Testamento turinys nenurodomas.
+2. Notarai, konsuliniai pareigūnai per tris darbo dienas privalo pranešti testamentų registro tvarkytojui apie patvirtintus, priimtus saugoti ar panaikintus testamentus. Pranešime nurodomas testatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta, testamento sudarymo data bei vieta, rūšis ir saugojimo vieta. Testamento turinys nenurodomas.
 
 
 
 
-3. Testamentų registro duomenis galima perduoti teismui, notarui ir kitiems suinteresuotiems asmenims po testatoriaus mirties.
+3. Testamentų registro duomenis galima perduoti teismui, notarui ir kitiems suinteresuotiems asmenims po testatoriaus mirties.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
  
-
-
 
 
 
@@ -24472,7 +24504,10 @@ Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103
 
 
 
-6. Notaras per tris darbo dienas nuo palikimo priėmimo dienos privalo pranešti Centrinei hipotekos įstaigai apie palikimo priėmimą.
+6. Notaras per tris darbo dienas nuo palikimo priėmimo dienos privalo pranešti testamentų registro tvarkytojui apie palikimo priėmimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+ 
 
 
 Straipsnio pakeitimai:
@@ -49397,3 +49432,23 @@ Lietuvos Respublikos civilinio kodekso pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2126, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19742
 Lietuvos Respublikos civilinio kodekso pakeitimo įstatymo Nr. XII-1566 72 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+Lietuvos Respublikos civilinio kodekso 3.249, 3.253 ir 3.261 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+Lietuvos Respublikos civilinio kodekso 2.18, 2.19, 3.8, 3.18, 3.24, 3.37, 3.66, 3.138, 3.139, 3.140, 3.142, 3.143, 3.144, 3.145, 3.147, 3.152, 3.157, 3.167, 3.220, 4.255 straipsnių pakeitimo, 3.19, 3.20, 3.21, 3.22, 3.23, 3.25 straipsnių ir Kodekso trečiosios knygos VIII dalies pripažinimo netekusiais galios įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2125, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19718
+Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 21 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.50 straipsnių pakeitimo įstatymas
