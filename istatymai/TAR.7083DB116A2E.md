@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-07-14
+Suvestinė redakcija nuo 2016-07-15 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -594,7 +594,10 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-20) licencijų ar laikinųjų leidimų turėtojų prašymu kreipiasi į Policijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos valstybės saugumo departamentą, asmens sveikatos priežiūros įstaigas ir Centrinę hipotekos įstaigą patikrinti, ar nėra šio įstatymo 10 straipsnio 17 punkte nurodytų aplinkybių, dėl kurių konkretus fizinis asmuo negalėtų būti skiriamas atsakingu už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių fizinę saugą ar priimamas į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius. Nurodytoms institucijoms pagal kompetenciją pateikus atsakymus raštu ne vėliau kaip per 20 kalendorinių dienų nuo kreipimosi gavimo teikia licencijos ar laikinojo leidimo turėtojui išvadą dėl šio asmens tinkamumo dirbti šį darbą; 
+20) licencijų ar laikinųjų leidimų turėtojų prašymu kreipiasi į Policijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos valstybės saugumo departamentą, asmens sveikatos priežiūros įstaigas, Neveiksnių ir ribotai veiksnių asmenų registro tvarkytoją ir Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją patikrinti, ar nėra šio įstatymo 10 straipsnio 17 punkte nurodytų aplinkybių, dėl kurių konkretus fizinis asmuo negalėtų būti skiriamas atsakingu už I, II, III pavojingumo kategorijų uždarųjų jonizuojančiosios spinduliuotės šaltinių fizinę saugą ar priimamas į darbą vežti I, II, III pavojingumo kategorijų uždaruosius jonizuojančiosios spinduliuotės šaltinius. Šiame punkte nurodytoms institucijoms pagal kompetenciją pateikus atsakymus raštu ne vėliau kaip per 20 kalendorinių dienų nuo kreipimosi gavimo teikia licencijos ar laikinojo leidimo turėtojui išvadą dėl šio asmens tinkamumo dirbti šį darbą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2551, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19357
+ 
 
 
 
@@ -1901,3 +1904,8 @@ Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 4, 5, 6, 7, 8, 81, 82, 8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2190, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20893
 Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 6, 7, 7-1, 8, 8-3, 8-4, 10, 11, 15, 21, 23 straipsnių pakeitimo, Įstatymo papildymo 8-5, 8-6, 15-1 straipsniais ir 8-1, 8-2 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2551, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19357
+Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 7 straipsnio pakeitimo įstatymas
