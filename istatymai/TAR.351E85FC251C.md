@@ -20,18 +20,24 @@ LIETUVOS RESPUBLIKOS SUTARČIŲ REGISTRO ĮSTATYMAS
 
 
 
-LIETUVOS RESPUBLIKOS  SUTARČIŲ REGISTRO  ĮSTATYMAS
+Suvestinė redakcija nuo 2016-07-15 iki 2021-12-31
+ 
+Įstatymas paskelbtas: Žin. 2010, Nr. 139-7115, i. k. 1101010ISTA0XI-1140
+ 
+Nauja redakcija nuo 2016-07-15:
+Nr. XII-2548, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19353
+ 
+LIETUVOS RESPUBLIKOS SUTARČIŲ REGISTRO ĮSTATYMAS
  
 2010 m. lapkričio 16 d. Nr. XI-1140
 Vilnius
- 
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Sutarčių registro objektus ir jų registravimo tvarką, Sutarčių registre registruojamų duomenų tvarkymą, Sutarčių registro tvarkymo įstaigas ir finansavimą.
+Šis įstatymas nustato Sutarčių registro objektus ir jų registravimo tvarką, Sutarčių registre registruojamų duomenų tvarkymą, Sutarčių registro valdytoją, tvarkytojo skyrimo tvarką ir finansavimą.
  
 
 
@@ -52,7 +58,7 @@ Vilnius
 
 
 
-3. Sutarčių registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+3. Sutarčių registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
  
 
 
@@ -60,10 +66,11 @@ Vilnius
 
 
 
-3 straipsnis. Sutarčių registro tvarkymo įstaigos
+3 straipsnis. Sutarčių registro valdytojas ir tvarkytojas
 
 
-Vadovaujančioji Sutarčių registro tvarkymo įstaiga yra Lietuvos Respublikos teisingumo ministerija, tvarkymo įstaiga – Centrinė hipotekos įstaiga.
+Sutarčių registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė.
+ 
  
 
 
@@ -296,12 +303,12 @@ Vadovaujančioji Sutarčių registro tvarkymo įstaiga yra Lietuvos Respublikos 
 6 straipsnis. Sutarčių registro objektų registravimas ir duomenų tvarkymas
 
 
-1. Sudarius sutartį, ją pakeitus arba jai pasibaigus (ją nutraukus), Sutarčių registro tvarkymo įstaigai pateikiamas teisingumo ministro įsakymu nustatytos formos pranešimas apie sutarties sudarymą ar jos pakeitimą arba sutarties pabaigą (nutraukimą).
+1. Sudarius sutartį, ją pakeitus arba jai pasibaigus (ją nutraukus), Sutarčių registro tvarkytojui pateikiamas pranešimas apie sutarties sudarymą ar jos pakeitimą arba sutarties pabaigą (nutraukimą).
 
 
 
 
-2. Teisingumo ministro įsakymu nustatytos formos pranešimas apie sutarties pabaigą (nutraukimą) Sutarčių registro tvarkymo įstaigai pateikiamas tik tuo atveju, jeigu duomenų teikėjas buvo pateikęs teisingumo ministro įsakymu nustatytos formos prašymą automatiškai (be atskiro pranešimo) neišregistruoti sutarties iš registro. Šiuo atveju sutartis išregistruojama tik gavus pranešimą apie sutarties pabaigą (nutraukimą), išskyrus atvejus, kai vėlesniu sutarties pakeitimu nustatytas naujas galutinis atsiskaitymo terminas, kuriuo remiantis sutartis išregistruojama automatiškai (be atskiro pranešimo).
+2. Pranešimas apie sutarties pabaigą (nutraukimą) Sutarčių registro tvarkytojui pateikiamas tik tuo atveju, jeigu duomenų teikėjas buvo pateikęs prašymą automatiškai (be atskiro pranešimo) neišregistruoti sutarties iš registro. Šiuo atveju sutartis išregistruojama tik gavus pranešimą apie sutarties pabaigą (nutraukimą), išskyrus atvejus, kai vėlesniu sutarties pakeitimu nustatytas naujas galutinis atsiskaitymo terminas, kuriuo remiantis sutartis išregistruojama automatiškai (be atskiro pranešimo).
 
 
 
@@ -311,12 +318,12 @@ Vadovaujančioji Sutarčių registro tvarkymo įstaiga yra Lietuvos Respublikos 
 
 
 
-4. Sutarčių registre įregistravus sutartį ar jos pakeitimą arba išregistravus sutartį, parengiamas teisingumo ministro įsakymu nustatytos formos pranešimas apie sutarties ar jos pakeitimo įregistravimą arba sutarties išregistravimą ir išsiunčiamas duomenų teikėjui.
+4. Sutarčių registre įregistravus sutartį ar jos pakeitimą arba išregistravus sutartį, parengiamas pranešimas apie sutarties ar jos pakeitimo įregistravimą arba sutarties išregistravimą ir išsiunčiamas duomenų teikėjui.
 
 
 
 
-5. Jeigu pranešime nenurodyti reikalingi duomenys arba nurodyti netiksliai, sudarytą sutartį ar jos pakeitimą arba pabaigą (nutraukimą) įregistruoti arba išregistruoti atsisakoma ir nurodomi atsisakymo motyvai. 
+5. Jeigu pranešime nenurodyti reikalingi duomenys arba jie nurodyti netiksliai, sudarytą sutartį ar jos pakeitimą arba pabaigą (nutraukimą) įregistruoti arba išregistruoti atsisakoma ir nurodomi atsisakymo motyvai. 
 
 
 
@@ -332,7 +339,7 @@ Vadovaujančioji Sutarčių registro tvarkymo įstaiga yra Lietuvos Respublikos 
 7 straipsnis. Sutarčių registro finansavimas
 
 
-Sutarčių registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto ir kitų lėšų, gautų Sutarčių registro nuostatų nustatyta tvarka.
+Sutarčių registras finansuojamas lėšomis, gautomis už registro objektų registravimą, registro duomenų ir kitų paslaugų teikimą, taip pat iš kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių.
  
 
 
@@ -343,7 +350,7 @@ Sutarčių registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto
 8 straipsnis. Sutarčių registro reorganizavimas ir likvidavimas
 
 
-Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo ir Vyriausybės nustatyta tvarka.
  
 
 
@@ -355,15 +362,26 @@ Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos vals
 
 
 Visi Sutarčių registro nuostatų nustatyta tvarka Sutarčių registre iki šio įstatymo įsigaliojimo ir jam įsigaliojus įregistruotų sutarčių duomenys laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
+
+
+
+
+
+
  
-
-
-
-
-
-
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2548, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19353
+Lietuvos Respublikos sutarčių registro įstatymo Nr. XI-1140 pakeitimo įstatymas
