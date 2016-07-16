@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2016-10-06
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -577,9 +577,10 @@ APLINKYBĖS, KAI ASMUO NETRAUKIAMAS ADMINISTRACINĖN ATSAKOMYBĖN
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
@@ -898,7 +899,10 @@ ADMINISTRACINĖS NUOBAUDOS IR ADMINISTRACINIO POVEIKIO PRIEMONĖS
 28 straipsnis. Asmeniui suteiktos specialiosios teisės atėmimas
 
 
-1. Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės dirbti skrydžių vadovu, teisės medžioti arba teisės užsiimti žvejyba, teisės eiti žvejybos laivo kapitono pareigas, teisės vairuoti vidaus vandenų transporto priemones, teisės valdyti geležinkelių riedmenis, teisės naudoti arba įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginius, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla, teisės eiti tam tikras pareigas jūrų laive) atėmimas yra administracinio poveikio priemonė, kurią kartu su administracine nuobauda skiria teismas ar ne teismo tvarka administracinio nusižengimo bylą nagrinėjanti institucija (pareigūnas), jeigu naudodamasis šia teise asmuo padarė administracinį nusižengimą. Specialiosios teisės atėmimo terminas skaičiuojamas metais ir mėnesiais. Surašant administracinį nurodymą, siūlomas specialiosios teisės atėmimo terminas gali būti skaičiuojamas dienomis.
+1. Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės dirbti skrydžių vadovu, teisės medžioti, teisės vairuoti vidaus vandenų transporto priemones, teisės valdyti geležinkelių riedmenis, teisės naudoti arba įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginius, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla, teisės eiti tam tikras pareigas jūrų laive) atėmimas yra administracinio poveikio priemonė, kurią kartu su administracine nuobauda skiria teismas ar ne teismo tvarka administracinio nusižengimo bylą nagrinėjanti institucija (pareigūnas), jeigu naudodamasis šia teise asmuo padarė administracinį nusižengimą. Specialiosios teisės atėmimo terminas skaičiuojamas metais ir mėnesiais. Surašant administracinį nurodymą, siūlomas specialiosios teisės atėmimo terminas gali būti skaičiuojamas dienomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
@@ -939,7 +943,7 @@ ADMINISTRACINĖS NUOBAUDOS IR ADMINISTRACINIO POVEIKIO PRIEMONĖS
 
 
 
-4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 211 straipsnio 2 dalyje, 213 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 215 straipsnio 3, 4 dalyse, 218, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 4 dalyse, 346 straipsnyje, 423 straipsnio 3 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu: 
+4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 211 straipsnio 2 dalyje, 213 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 215 straipsnio 3, 4 dalyse, 218, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 423 straipsnio 3 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu: 
 
 
 1) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
@@ -967,6 +971,7 @@ ADMINISTRACINĖS NUOBAUDOS IR ADMINISTRACINIO POVEIKIO PRIEMONĖS
 
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
@@ -8538,13 +8543,13 @@ užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimt
 291 straipsnis. Mėgėjų žvejybą reglamentuojančių teisės aktų pažeidimas
 
 
-1. Mėgėjų žvejybos taisyklių ir kitų mėgėjų žvejybą reglamentuojančių teisės aktų pažeidimas
+1. Mėgėjų žvejybos taisyklių pažeidimas, išskyrus šio straipsnio 4 ir 5 dalyse numatytus nusižengimus,
 užtraukia įspėjimą arba baudą nuo dešimt iki šešiasdešimt eurų.
 
 
 
 
-2. Limituotos žvejybos reguliavimo priemonių ir sąlygų pažeidimas, išskyrus šio straipsnio 5 dalyje numatytą pažeidimą, 
+2. Limituotos žvejybos reguliavimo priemonių ir sąlygų pažeidimas, išskyrus šio straipsnio 7 dalyje numatytą pažeidimą, 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
 
 
@@ -8562,22 +8567,30 @@ užtraukia baudą nuo vieno šimto dvidešimt iki trijų šimtų eurų.
 
 
 
-5. Neteisėtas žvejybos įrankių (išskyrus elektros arba ultragarso žvejybos prietaisus), kuriuos naudoti draudžiama pagal teisės aktus, gaminimas, realizavimas, įsigijimas arba laikymas
+5. Mėgėjų žvejybos būdu sužvejotų žuvų ir iš jų pagamintų produktų pardavimas ar supirkimas
+užtraukia baudą nuo devyniasdešimt iki dviejų šimtų devyniasdešimt eurų.
+
+
+
+
+6. Neteisėtas žvejybos įrankių (išskyrus elektros arba ultragarso žvejybos prietaisus), kuriuos naudoti draudžiama pagal teisės aktus, gaminimas, realizavimas, įsigijimas arba laikymas
 užtraukia baudą nuo šešiasdešimt iki dviejų šimtų eurų. 
 
 
 
 
-6. Limituotos lašišų, šlakių, margųjų upėtakių ir kiršlių žvejybos reguliavimo priemonių ir sąlygų pažeidimas 
+7. Limituotos lašišų, šlakių, margųjų upėtakių ir kiršlių žvejybos reguliavimo priemonių ir sąlygų pažeidimas 
 užtraukia baudą nuo dviejų šimtų penkiasdešimt iki penkių šimtų penkiasdešimt eurų. 
 
 
 
 
-7. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimą. 
+8. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 4, 6, 7 dalyse numatytus administracinius nusižengimus privaloma skirti administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
-
-
 
 
 
@@ -8647,32 +8660,22 @@ užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimt
 
 
 
-294 straipsnis. Integruotos žuvininkystės duomenų sistemos valdymo pažeidimas
+294 straipsnis. Žuvininkystės duomenų teikimo ir žuvininkystės duomenų valstybės informacinės sistemos naudojimo reikalavimų pažeidimas 
 
 
-1. Lietuvos Respublikos žvejybos laivų įtraukimo į žvejojančių jūrų vandenyse laivų duomenų sistemą nuostatų pažeidimas
-užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
-
-
-
-
-2. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemos naudojimo nuostatų pažeidimas
+1. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemos naudojimo reikalavimų pažeidimas 
 užtraukia baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-3. Ekonominių ir biologinių duomenų ir informacijos apie žuvų išteklių naudojimą ir žuvų perdirbimą neteikimas arba neteisingų duomenų pateikimas
+2. Ekonominių ir biologinių duomenų ir informacijos apie žuvų išteklių naudojimą ir žuvų perdirbimą neteikimas arba neteisingų duomenų pateikimas 
 užtraukia baudą nuo dvidešimt iki šešių šimtų eurų.
 
 
-
-
-4. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės užsiimti žvejyba atėmimas nuo šešių mėnesių iki dvejų metų.
+Straipsnio pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
- 
-
-
 
 
 
@@ -8693,20 +8696,17 @@ užtraukia baudą nuo vieno šimto septyniasdešimt iki trijų šimtų penkiasde
 
 
 3. Verslinės žvejybos jūrų vandenyse tvarkos pažeidimas
-užtraukia įspėjimą arba baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki trijų šimtų eurų. 
+užtraukia įspėjimą arba baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki trijų šimtų eurų.
 
 
 
 
-4. Už šio straipsnio 1, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės užsiimti žvejyba atėmimas nuo trijų iki šešių mėnesių. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti teisės užsiimti žvejyba atėmimą nuo šešių mėnesių iki dvejų metų. 
+4. Už šiame straipsnyje numatytus administracinius nusižengimus gali būti skiriamas nusižengimo padarymo įrankių ir priemonių konfiskavimas.
 
 
-
-
-5. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas nusižengimo padarymo įrankių ir priemonių konfiskavimas.
+Straipsnio pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
-
-
 
 
 
@@ -8748,7 +8748,9 @@ užtraukia įspėjimą arba baudą laivų kapitonams, asmenims arba juridinių a
 
 
 
-3. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės užsiimti žvejyba atėmimas nuo trijų iki šešių mėnesių.
+3. Neteko galios nuo 2016-07-16
+Straipsnio dalies naikinimas:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
@@ -8772,7 +8774,7 @@ užtraukia įspėjimą arba baudą nuo vieno šimto keturiasdešimt iki trijų �
 
 
 
-299 straipsnis. Su žvejybos produktų sandėliavimu, vežimu, perdirbimu, pardavimu ir supirkimu susiję pažeidimai, atstovaujančiosios žvejybos produktų gamintojų organizacijos arba atstovaujančiosios akvakultūros produktų gamintojų organizacijos nustatytų gamybos ir prekybos nuostatų pažeidimas
+299 straipsnis. Su žvejybos produktų gamyba, laikymu, vežimu, perdirbimu, pardavimu ir supirkimu susiję pažeidimai, atstovaujančiosios žvejybos produktų gamintojų organizacijos arba atstovaujančiosios akvakultūros produktų gamintojų organizacijos nustatytų gamybos ir prekybos, žuvininkystės produktų atsekamumo nuostatų pažeidimas
 
 
 1. Atstovaujančiosios žvejybos produktų gamintojų organizacijos arba atstovaujančiosios akvakultūros produktų gamintojų organizacijos nustatytų gamybos ir prekybos nuostatų taikymo versline žvejyba užsiimantiems šioms organizacijoms nepriklausantiems žuvų augintojams arba žuvų išteklių naudotojams pažeidimas
@@ -8781,33 +8783,41 @@ užtraukia baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
 
 
 
-2. Mažesnių, negu nustatyta, maistui skirtų žuvų sandėliavimas, vežimas, perdirbimas, pardavimas ar supirkimas
+2. Žuvų, kurioms taikomas Reglamento (ES) Nr. 1380/2013 15 straipsnyje nustatytas reikalavimas ir kurios yra mažesnės negu Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatyto minimalaus dydžio, pardavimas ar supirkimas žmonių maistui
 užtraukia baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
 
 
 
 
-3. Draudžiamų sandėliuoti, vežti, perdirbti ar parduoti žvejybos produktų naudojimo nuostatų pažeidimas
+3. Draudžiamų perdirbti, parduoti ar supirkti uždraustos žvejybos metu sužvejotų šviežių žuvų ir tų rūšių žuvų, kurioms netaikomas Reglamento (ES) Nr. 1380/2013 15 straipsnyje nustatytas reikalavimas ir kurios yra mažesnės negu Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatyto minimalaus dydžio, naudojimo nuostatų pažeidimas
 užtraukia baudą nuo devyniasdešimt iki dviejų šimtų devyniasdešimt eurų.
 
 
 
 
-4. Uždraustos žvejybos metu sužvejotų šviežių žuvų sandėliavimas, vežimas, perdirbimas, pardavimas ar supirkimas
-užtraukia baudą nuo devyniasdešimt iki dviejų šimtų devyniasdešimt eurų.
+4. Žuvininkystės produktų atsekamumo nuostatų pažeidimas žuvininkystės produktų gamybos, laikymo, vežimo, perdirbimo, pardavimo ir supirkimo etapais 
+užtraukia baudą nuo devyniasdešimt iki dviejų šimtų devyniasdešimt eurų. 
 
 
 
 
-5. Šio straipsnio 2, 4 dalys netaikomos akvakultūros produktams su patvirtinamaisiais dokumentais.
+5. Neteisėtos, nedeklaruotos ir nereglamentuotos žvejybos, nurodytos Reglamento (EB) Nr. 1005/2008 2 straipsnyje, produktų laikymas, vežimas, perdirbimas, pardavimas ir supirkimas 
+užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų devyniasdešimt eurų.
 
 
 
 
-6. Už šio straipsnio 2, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas žuvų ar žuvininkystės produktų konfiskavimas.
+6. Šio straipsnio 2, 3 dalys netaikomos akvakultūros produktams su patvirtinamaisiais dokumentais. Šio straipsnio 3 dalis taip pat netaikoma žuvims, skirtoms žuvivaisai ir kai vidaus vandenyse sužvejotų mažesnių negu nustatyto minimalaus dydžio žuvų kiekis yra leistinas.
+
+
+
+
+7. Už šio straipsnio 2, 3, 4, 5 dalyse numatytus administracinius nusižengimus gali būti skiriamas žuvų ar žuvininkystės produktų konfiskavimas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
-
-
 
 
 
@@ -8893,13 +8903,18 @@ užtraukia baudą žvejybos laivų kapitonams nuo trijų tūkstančių keturių 
 
 
 
-11. Reglamento (ES) Nr. 404/2011 XXX priede nurodytų trijų ir daugiau sunkių pažeidimų, už kuriuos skirtų taškų suma yra 18 ir daugiau, padarymas per trejus metus nuo paskutinio sunkaus pažeidimo padarymo dienos 
-užtraukia baudą žvejybos laivų kapitonams nuo trijų tūkstančių šešių šimtų eurų iki keturių tūkstančių eurų.
+11. Žvejybos laivo kapitono pareigų ėjimas, kai asmeniui yra atimta teisė eiti žvejybos laivo kapitono pareigas,
+užtraukia baudą nuo trijų tūkstančių šešių šimtų eurų iki keturių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
 
-12. Už šio straipsnio 11 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės eiti žvejybos laivo kapitono pareigas atėmimas nuo dviejų mėnesių iki vienų metų.
+12. Neteko galios nuo 2016-07-16
+Straipsnio dalies naikinimas:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
@@ -8922,7 +8937,9 @@ užtraukia įspėjimą arba baudą nuo trijų šimtų iki aštuonių šimtų še
 
 
 
-3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės užsiimti žvejyba atėmimas nuo vieno iki šešių mėnesių. 
+3. Neteko galios nuo 2016-07-16
+Straipsnio dalies naikinimas:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
@@ -17062,12 +17079,18 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 
 
-30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224, 312, 343, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 291 straipsnio 5 dalyje, 299 straipsnio 2, 3, 4 dalyse, 312, 343, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
 
-31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 237, 238, 239, 241, 242, 243, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 3 dalyje, 295, 296, 298, 299, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 237, 238, 239, 241, 242, 243, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
@@ -17291,7 +17314,10 @@ Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
 
 
 
-74) Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos – dėl šio kodekso 291, 292, 294, 295, 296, 297, 298, 299, 300, 301, 302, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+74) Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos – dėl šio kodekso 291, 292, 294 straipsniuose, 295 straipsnio 3 dalyje, 296, 297, 298, 299, 300, 301, 302, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+Straipsnio punkto pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
@@ -20230,10 +20256,12 @@ Vengiančiam atlikti viešuosius darbus asmeniui teismas ar kita nutarimą dėl 
 681 straipsnis. Administracinio poveikio priemonės – asmeniui suteiktos specialiosios teisės atėmimo vykdymas
 
 
-Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės dirbti skrydžių vadovu, teisės medžioti, teisės užsiimti žvejyba, teisės eiti žvejybos laivo kapitono pareigas, teisės vairuoti vidaus vandenų transporto priemones, teisės valdyti geležinkelių riedmenis, teisės naudoti arba įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginius, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla, teisės eiti tam tikras pareigas jūrų laive) atėmimą vykdo specialiąją teisę suteikianti institucija.
+Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės dirbti skrydžių vadovu, teisės medžioti, teisės vairuoti vidaus vandenų transporto priemones, teisės valdyti geležinkelių riedmenis, teisės naudoti arba įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginius, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla, teisės eiti tam tikras pareigas jūrų laive) atėmimą vykdo specialiąją teisę suteikianti institucija.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
-
-
 
 
 
@@ -20290,7 +20318,7 @@ Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones,
 
 
 
-684 straipsnis. Teisės medžioti, teisės užsiimti žvejyba, teisės eiti žvejybos laivo kapitono pareigas atėmimo vykdymo tvarka
+684 straipsnis. Teisės medžioti atėmimo vykdymo tvarka
 
 
 1. Teisės medžioti atėmimas vykdomas paimant medžiotojo bilietą.
@@ -20301,12 +20329,9 @@ Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones,
 2. Medžiotojo bilietų paėmimo ir grąžinimo tvarką nustato Lietuvos Respublikos aplinkos ministras (toliau – aplinkos ministras).
 
 
-
-
-3. Teisės užsiimti žvejyba ir teisės eiti žvejybos laivo kapitono pareigas atėmimas vykdomas aplinkos ministro (dėl šio kodekso 295 straipsnio 1 ir 2 dalyse numatytų administracinių nusižengimų) arba Lietuvos Respublikos žemės ūkio ministro (dėl šio kodekso 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 297 straipsnio 1 dalyje, 301 straipsnio 11 dalyje, 302 straipsnio 1 ir 2 dalyse numatytų administracinių nusižengimų) nustatyta tvarka panaikinus verslinės žvejybos leidimą ar paimant žvejo verslininko bilietą.
+Straipsnio pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
-
-
 
 
 
@@ -20335,7 +20360,10 @@ Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones,
 686 straipsnis. Specialiųjų teisių atėmimo vykdymo terminų nustatymas 
 
 
-1. Transporto priemonių vairuotojams, orlaivio įgulos nariams, orlaivių techninę priežiūrą atliekantiems asmenims, skrydžių vadovams, medžioklės ar žvejybos taisykles pažeidusiems asmenims, laivų vairuotojams ir tam tikras pareigas jūrų laive einantiems asmenims, kurie padarė administracinį nusižengimą būdami neblaivūs ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba kurie vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo, specialiosios teisės atėmimo terminas skaičiuojamas nuo asmens specialiąją teisę patvirtinančio dokumento paėmimo šio kodekso 602 straipsnio 3 dalyje nustatyta tvarka.
+1. Transporto priemonių vairuotojams, orlaivio įgulos nariams, orlaivių techninę priežiūrą atliekantiems asmenims, skrydžių vadovams, medžioklės taisykles pažeidusiems asmenims, laivų vairuotojams ir tam tikras pareigas jūrų laive einantiems asmenims, kurie padarė administracinį nusižengimą būdami neblaivūs ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba kurie vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo, specialiosios teisės atėmimo terminas skaičiuojamas nuo asmens specialiąją teisę patvirtinančio dokumento paėmimo šio kodekso 602 straipsnio 3 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
@@ -20709,7 +20737,10 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-49. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1).
+49. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1). 
+Punkto pakeitimai:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
 
 
 
@@ -20912,28 +20943,40 @@ Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 
 
 
-74. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1). 
+74. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB (OL 2013 L 354, p. 22). 
 Papildyta punktu:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
-Punkto numeracijos pakeitimas:
-Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
 
 
-75. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
-Punkto numeracijos pakeitimas:
+75. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1). 
+Papildyta punktu:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Punkto numeracijos pakeitimas:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
 
 
-76. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+76. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
+Punkto numeracijos pakeitimas:
+Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+ 
+
+
+
+
+77. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
 Papildyta punktu:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Punkto numeracijos pakeitimas:
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
  
 
 
@@ -20970,3 +21013,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 12, 79, 124, 146, 47
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
 Lietuvos Respublikos administracinių nusižengimų kodekso 235, 356, 357, 360, 361, 362, 363, 364, 589 straipsnių pakeitimo ir Kodekso papildymo 356-1, 356-2, 364-1 straipsniais įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 28, 29, 291, 294, 295, 297, 299, 301, 302, 589, 681, 684, 686 straipsnių ir priedo pakeitimo įstatymas
