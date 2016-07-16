@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-10-29 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2018-06-26
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -1486,9 +1486,17 @@ RINKIMŲ REZULTATŲ NUSTATYMAS IR PASKELBIMAS
 
 11) savivaldybės teritorijoje įstatymų nustatyta tvarka Seimo sprendimu laikinai įvedamas tiesioginis valdymas, išskyrus atvejus, kai laikinas tiesioginio valdymo įvedimas susijęs su nepaprastosios padėties įvedimu savivaldybės teritorijoje;
 
-12) savivaldybės tarybos sprendimu Lietuvos Respublikos vietos savivaldos įstatymo (toliau – Vietos savivaldos įstatymas) nustatyta tvarka.
+12) savivaldybės tarybos sprendimu Lietuvos Respublikos vietos savivaldos įstatymo (toliau – Vietos savivaldos įstatymas) nustatyta tvarka;
 
-2. Savivaldybės tarybos narys, prieš pradėdamas eiti pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis, asmeniškai ne vėliau kaip prieš 10 dienų paduoda savivaldybės merui ir Vyriausiajai rinkimų komisijai rašytinį pareiškimą (pareiškimus) dėl savivaldybės tarybos nario mandato atsisakymo arba šį pareiškimą, notarine tvarka patvirtinęs, išsiunčia. Asmuo, netekęs savivaldybės tarybos nario mandato šio straipsnio 1 dalies 1, 3, 4, 5, 7, 8, 9, 10 punktuose ir Vietos savivaldos įstatymo 251 straipsnyje nustatytais pagrindais, netenka teisės užimti laisvą savivaldybės tarybos nario vietą šio įstatymo 89 straipsnyje nustatyta tvarka. 
+13) jis išrenkamas Lietuvos Respublikos Seimo nariu. 
+Papildyta straipsnio punktu:
+Nr. XII-2582, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20664
+ 
+
+2. Savivaldybės tarybos narys, prieš pradėdamas eiti pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis (išskyrus atvejus, kai jis išrenkamas Lietuvos Respublikos Seimo nariu), asmeniškai ne vėliau kaip prieš 10 dienų paduoda savivaldybės merui ir Vyriausiajai rinkimų komisijai rašytinį pareiškimą (pareiškimus) dėl savivaldybės tarybos nario mandato atsisakymo arba šį pareiškimą, notarine tvarka patvirtinęs, išsiunčia. Asmuo, netekęs savivaldybės tarybos nario mandato šio straipsnio 1 dalies 1, 3, 4, 5, 7, 8, 9, 10 punktuose ir Vietos savivaldos įstatymo 251 straipsnyje nustatytais pagrindais, netenka teisės užimti laisvą savivaldybės tarybos nario vietą šio įstatymo 89 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2582, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20664
+ 
 
 3. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatytų pagrindų atsiradimo savivaldybės tarybos nario įgaliojimus pripažįsta nutrūkusiais prieš terminą.
  
@@ -1811,4 +1819,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 6 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 25, 29 ir 30 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2582, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20664
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 88 straipsnio pakeitimo įstatymas
 
