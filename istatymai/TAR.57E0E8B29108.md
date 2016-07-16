@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-06-16 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -294,7 +294,7 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 
 
-7) akcinė bendrovė AB LESTO;
+7) akcinė bendrovė „Energijos skirstymo operatorius“;
 
 
 
@@ -314,9 +314,17 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 
 
-11) suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovė.
+11) suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovė;
 
 
+
+
+12) akcinė bendrovė Giraitės ginkluotės gamykla. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
+ 
 
 
 
@@ -360,42 +368,32 @@ Nr. XII-1272, 2014-10-21, paskelbta TAR 2014-10-22, i. k. 2014-14493
 
 
 
-2) akcinė bendrovė „Lietuvos dujos“;
+2) projekto įgyvendinimo bendrovė, numatyta Branduolinės (atominės) elektrinės įstatyme;
 
 
 
 
-3) projekto įgyvendinimo bendrovė, numatyta Branduolinės (atominės) elektrinės įstatyme;
+3) akcinė bendrovė TEO LT, AB;
 
 
 
 
-4) akcinė bendrovė TEO LT, AB;
+4) akcinė bendrovė „Achema“;
 
 
 
 
-5) akcinė bendrovė „Achema“;
+5) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
 
 
 
 
-6) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
+6) akcinė bendrovė AB „Amber Grid.
 
 
-
-
-7) akcinė bendrovė Giraitės ginkluotės gamykla.
-
-
-
-
-8) akcinė bendrovė AB „Amber Grid.
-Papildyta straipsnio punktu:
-Nr. XII-853, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04861
+Straipsnio dalies pakeitimai:
+Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
  
-
-
 
 
 
@@ -823,3 +821,8 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2396, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16847
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 3 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2593, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20670
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 4 ir 5 straipsnių pakeitimo įstatymas
