@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
  
@@ -223,7 +223,9 @@ VALSTYBINĖ VETERINARIJA
 
 
 
-3. Valstybinės maisto ir veterinarijos tarnybos nuostatus ir Valstybinės maisto ir veterinarijos tarnybos administracijos struktūrą tvirtina Vyriausybė.
+3. Neteko galios nuo 2016-07-16.
+Straipsnio dalies pakeitimai:
+Nr. XII-2539, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20660
  
 
 
@@ -1005,3 +1007,8 @@ Lietuvos Respublikos veterinarijos įstatymo 4, 7, 8, 14, 15, 16, 17 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1189, 2010-11-30, Žin., 2010, Nr. 148-7563 (2010-12-18), i. k. 1101010ISTA0XI-1189
 Lietuvos Respublikos veterinarijos įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2539, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20660
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 5 straipsnio pakeitimo įstatymas
