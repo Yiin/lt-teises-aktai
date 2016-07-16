@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-07-15
+Suvestinė redakcija nuo 2016-07-16 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -48,15 +48,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šis įstatymas taikomas nuolat Lietuvos Respublikoje gyvenantiems asmenims, išskyrus šio įstatymo 9 straipsnio 4 dalyje numatytus atvejus. 
+3. Šis įstatymas taikomas Europos Sąjungos valstybių narių ar Europos ekonominės erdvės susitarimą sudariusių valstybių piliečiams ir jų šeimų nariams, nuolat Lietuvos Respublikoje gyvenantiems užsieniečiams, Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravusiems gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – įtrauktiems į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje gyvena), asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis įstatymas.
 
 
 
 
-4. Nuolat Lietuvos Respublikoje gyvenančiais asmenimis laikomi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – duomenys apie savivaldybę, kurioje jie gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą, taip pat nuolat Lietuvos Respublikoje gyvenantys užsieniečiai.
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2506, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20643
  
-
-
 
 
 
@@ -1155,6 +1157,27 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
+
+
+
+ 
+ 
+ 
+Lietuvos Respublikos 
+valstybinių šalpos išmokų įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+
+
+Papildyta priedu:
+Nr. XII-2506, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20643
+ 
  
  
 Pakeitimai:
@@ -1228,3 +1251,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 4 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-906, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07399
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 15 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2506, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20643
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 pakeitimo įstatymas
