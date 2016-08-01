@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -62,7 +62,12 @@ Lietuvos Respublikoje nustatomos šios valstybinės pensijos:
 
 
 
-5) teisėjų valstybinės pensijos.
+5) teisėjų valstybinės pensijos;
+
+
+
+
+6) Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) sutuoktinio valstybinė pensija. 
 
 
 
@@ -74,13 +79,15 @@ Mokslininkų valstybinės pensijos nustatomos laikinai – iki papildomo mokslin
 
 
 
-Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos, taip pat nukentėjusiųjų asmenų valstybinės pensijos skiriamos pagal šį įstatymą. Pareigūnų ir karių, mokslininkų bei teisėjų valstybinės pensijos skiriamos pagal specialius įstatymus.
+Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos, nukentėjusiųjų asmenų valstybinės pensijos, taip pat Respublikos Prezidento sutuoktinio valstybinė pensija skiriamos pagal šį įstatymą. Pareigūnų ir karių, mokslininkų bei teisėjų valstybinės pensijos skiriamos pagal specialius įstatymus.
 
 
 Straipsnio pakeitimai:
 Nr. I-1012, 95.07.04, Žin., 1995, Nr. 59-1476 (95.07.19)
 Nr. IX-1013, 2002-07-02, Žin., 2002, Nr. 73-3089 (2002-07-19)
 Nr. X-978, 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28)
+Straipsnio pakeitimai:
+Nr. XII-2587, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20667
  
 
 
@@ -97,6 +104,14 @@ Visos valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės biudžet
 Šio įstatymo 1 straipsnio 1 dalies 1, 2 ir 4 punktuose nurodytų valstybinių pensijų dydžio matas yra valstybinių pensijų bazė. Jos dydis negali būti mažesnis negu 58 eurai. Valstybinių pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu.
 Straipsnio dalies pakeitimai:
 Nr. XII-1207, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14117
+ 
+
+
+
+
+Šio įstatymo 1 straipsnio 1 dalies 6 punkte nurodytos valstybinės pensijos dydžio matas yra Respublikos Prezidento darbo užmokestis.
+Papildyta straipsnio dalimi:
+Nr. XII-2587, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20667
  
 
 
@@ -982,6 +997,132 @@ Nr. XI-531, 2009-12-08, Žin., 2009, Nr. 151-6778 (2009-12-22)
 
 
 
+III1. RESPUBLIKOS PREZIDENTO SUTUOKTINIO VALSTYBINĖ PENSIJA
+ 
+
+
+151 straipsnis. Teisė gauti Respublikos Prezidento sutuoktinio valstybinę pensiją, šios pensijos dydis
+
+
+Teisę gauti Respublikos Prezidento sutuoktinio valstybinę pensiją turi asmuo, kuris, būdamas Respublikos Prezidento sutuoktiniu, Respublikos Prezidento kadencijos (kadencijų) metu ne mažiau kaip 3 metus vykdė valstybiniame ir (ar) diplomatiniame protokole nustatytas Respublikos Prezidento sutuoktinio (toliau – Respublikos Prezidento sutuoktinis) funkcijas.
+
+
+
+
+Respublikos Prezidento sutuoktinio valstybinė pensija skiriama ir mokama Respublikos Prezidento, kurio įgaliojimai nutrūko pasibaigus jo kadencijai Lietuvos Respublikos Konstitucijos 88 straipsnyje nustatytais pagrindais, sutuoktiniui, jeigu jis yra Lietuvos Respublikos pilietis, sukakęs senatvės pensijos amžių arba yra pripažintas nedarbingu ar iš dalies darbingu, netekusiu 60 procentų ir daugiau darbingumo, neturi draudžiamųjų pajamų, kurių sąvoka suprantama taip, kaip ji apibrėžta Valstybinio socialinio draudimo įstatyme, ir negauna kitos valstybinės pensijos. 
+
+
+
+
+Respublikos Prezidento sutuoktinio valstybinės pensijos dydis – 15 procentų Respublikos Prezidento darbo užmokesčio dydžio per mėnesį. 
+
+
+
+
+Respublikos Prezidento sutuoktinio valstybinės pensijos dydis nustatomas pagal Respublikos Prezidento darbo užmokesčio dydį, galiojantį tą mėnesį, už kurį ši pensija mokama. Pasikeitus Respublikos Prezidento darbo užmokesčiui, Respublikos Prezidento sutuoktinio valstybinės pensijos dydį pensiją mokanti institucija nustato iš naujo.
+
+
+
+
+Jeigu Respublikos Prezidento sutuoktinis, gaunantis Respublikos Prezidento sutuoktinio valstybinę pensiją (toliau – Respublikos Prezidento sutuoktinis valstybinės pensijos gavėjas), išrinkus Respublikos Prezidentą naujai kadencijai, pradeda vykdyti valstybiniame ir (ar) diplomatiniame protokole nustatytas Respublikos Prezidento sutuoktinio funkcijas, paskirtoji Respublikos Prezidento sutuoktinio valstybinė pensija nemokama tol, kol jis vykdo šias funkcijas. 
+ 
+
+
+
+
+
+
+152 straipsnis. Teisė gauti Respublikos Prezidento sutuoktinio našlaičių valstybinę pensiją, šios pensijos dydis
+
+
+Teisę gauti Respublikos Prezidento sutuoktinio našlaičių valstybinę pensiją (toliau šiame skyriuje – našlaičių valstybinė pensija) turi mirusio Respublikos Prezidento sutuoktinio valstybinės pensijos gavėjo našlaičiai, kurie yra Lietuvos Respublikos piliečiai:
+
+
+1) nepilnamečiai vaikai (įvaikiai); 
+
+
+
+
+2) pilnamečiai vaikai (įvaikiai), jeigu jie pripažinti neįgaliaisiais iki pilnametystės ir visą laiką nuo pilnametystės yra nedarbingi ar iš dalies darbingi;
+
+
+
+
+3) pilnamečiai vaikai (įvaikiai), kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, iki mokymosi arba studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti valstybinę našlaičio pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), bet ne ilgiau, iki jiems sukaks 24 metai. 
+
+
+
+
+
+
+Įvaikinus šio straipsnio 1 dalies 1 punkte nurodytus našlaičius, jų teisė gauti našlaičių valstybinę pensiją išlieka.
+
+
+
+
+Našlaičių valstybinės pensijos dydis – 30 procentų mirusiam Respublikos Prezidento sutuoktiniui valstybinės pensijos gavėjui priklausiusios Respublikos Prezidento sutuoktinio valstybinės pensijos dydžio, jeigu teisę gauti našlaičių valstybinę pensiją turi vienas našlaitis. Jeigu tokią teisę turi daugiau našlaičių, našlaičių valstybinė pensija kiekvienam iš jų skiriama po lygiai, bet ne daugiau kaip po 30 procentų ir ne daugiau kaip 100 procentų viso Respublikos Prezidento sutuoktinio valstybinės pensijos dydžio. 
+ 
+
+
+
+
+
+
+153 straipsnis. Respublikos Prezidento sutuoktinio valstybinės pensijos, našlaičių valstybinės pensijos skyrimas ir mokėjimas
+
+
+Respublikos Prezidento sutuoktinio valstybinė pensija ir našlaičių valstybinė pensija (toliau šiame straipsnyje kartu – valstybinės pensijos) skiriamos ir mokamos vadovaujantis šiuo įstatymu ir Vyriausybės ar jos įgaliotos institucijos patvirtintais Respublikos Prezidento sutuoktinio valstybinės pensijos skyrimo ir mokėjimo nuostatais. 
+
+
+
+
+Skiriant ir mokant našlaičių valstybinę pensiją, taip pat taikomos šio įstatymo 3 straipsnio 1, 2 ir 3 dalių nuostatos. 
+
+
+
+
+Sprendimą skirti valstybinę pensiją priima Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu. Valstybinė pensija skiriama nuo teisės į šią pensiją įgijimo dienos.
+
+
+
+
+Valstybines pensijas iš Lietuvos Respublikos valstybės biudžeto lėšų moka Lietuvos Respublikos Prezidento kanceliarija. Valstybinės pensijos mokamos už praėjusį mėnesį.
+
+
+
+
+Laiku negauta ar neišmokėta valstybinė pensija išmokama už visą praėjusį laikotarpį nuo teisės ją gauti įgijimo dienos.
+
+
+
+
+Nuteistiems už tyčinių nusikaltimų padarymą asmenims valstybinė pensija neskiriama, o paskirtoji nemokama. Sprendimas dėl valstybinės pensijos skyrimo asmeniui, kuris yra įtariamasis arba kaltinamasis baudžiamajame procese, priimamas nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus teismo nuosprendžiui. Nutraukus ikiteisminį tyrimą, baudžiamąją bylą arba įsiteisėjus išteisinamajam nuosprendžiui valstybinė pensija skiriama už visą laikotarpį nuo teisės į šią pensiją atsiradimo dienos. 
+
+
+
+
+Valstybinės pensijos gavėjas privalo pranešti jam valstybinę pensiją mokančiai institucijai apie aplinkybes, turinčias įtakos pensijai mokėti, per 10 darbo dienų nuo šių aplinkybių atsiradimo dienos. Jeigu apie tai laiku nepranešama ir dėl to permokama valstybinė pensija, permokėta suma išieškoma Lietuvos Respublikos įstatymų nustatyta tvarka. 
+
+
+
+
+Valstybinės pensijos gavėjas, Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravęs išvykimą iš Lietuvos Respublikos, kiekvienų metų pabaigoje valstybinę pensiją mokančiai institucijai privalo pateikti paties pasirašytą pareiškimą, patvirtinantį, kad jis gyvena užsienio valstybėje. Iki kiekvienų metų gruodžio 31 dienos nepateikus šio pareiškimo, valstybinės pensijos mokėjimas sustabdomas nuo ateinančių metų sausio 1 dienos, o šį pareiškimą pateikus – atnaujinamas nuo mokėjimo sustabdymo dienos, jeigu valstybinės pensijos gavėjui teisė gauti šią pensiją yra išlikusi. Jeigu valstybinę pensiją mokanti institucija duomenis apie tai, kad asmuo gyvena užsienio valstybėje arba kad yra gyvas ir yra tam tikroje vietovėje, iš kitos valstybės kompetentingos įstaigos gauna tiesiogiai, ji privalo informuoti valstybinės pensijos gavėją, kad tokios informacijos pateikti nereikia. 
+
+
+
+
+Valstybinės pensijos gavėjui mirus, jį palaidojusiems asmenims išmokama valstybinė pensija už mirties mėnesį, jeigu ji dar nebuvo išmokėta, ir paskirtos valstybinės pensijos už vieną mėnesį dydžio suma.
+
+
+
+
+Papildyta skyriumi:
+Nr. XII-2587, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20667
+ 
+
+
+
+
 16 straipsnis. Įstatymo įsigaliojimas
 
 
@@ -1325,3 +1466,8 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 2 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2222, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20902
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 3 ir 14 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2587, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20667
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 1, 2 straipsnių pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas
