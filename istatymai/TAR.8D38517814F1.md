@@ -13,16 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2017-07-11
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
 Nauja įstatymo redakcija nuo 2003-01-01:
 Nr. IX-1004, 2002-07-01, Žin., 2002, Nr. 72-3016 (2002-07-17)
  
-LIETUVOS RESPUBLIKOS
-ATLIEKŲ TVARKYMO
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMAS
  
 1998 m. birželio 16 d. Nr. VIII-787 Vilnius
  
@@ -806,7 +804,10 @@ ATLIEKŲ TVARKYMAS
 4 straipsnis. Atliekų tvarkymo organizavimas
 
 
-1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka.
+1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Atliekos tvarkomos aplinkos ministro patvirtintose Atliekų tvarkymo taisyklėse nustatyta tvarka. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka. Atliekų turėtojas pagal sudarytą rašytinės formos sutartį dėl atliekų naudojimo ir (ar) šalinimo atliekas perduoda atliekų tvarkytojams, turintiems teisę tvarkyti atliekas, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
 
 
 
@@ -821,7 +822,10 @@ ATLIEKŲ TVARKYMAS
 
 
 
-4. Atliekas tvarkančios įmonės vadovaujasi darbuotojų saugos ir sveikatos teisės aktais.
+4. Atliekas tvarkančios įmonės vadovaujasi šio Įstatymo ir aplinkos ministro nustatytais atliekų tvarkymo reikalavimais, taip pat darbuotojų saugos ir sveikatos teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
 
 
 
@@ -862,6 +866,22 @@ ATLIEKŲ TVARKYMAS
 
 
 12. Įmonės, dėl kurių veiklos susidaro atliekų, nelaikomos atliekų tvarkytojais, jeigu atliekos laikinai laikomos jų susidarymo vietoje iki jų surinkimo.
+
+
+
+
+13. Neturintis teisės pats apdoroti atliekas asmuo, kuris apdorojo atliekas arba kuris perdavė atliekas šio straipsnio 9 dalyje nurodytiems subjektams neturėdamas teisėtą atliekų perdavimą patvirtinančio dokumento, laikomas apdorojusiu atliekas neturint tam teisės. 
+Papildyta straipsnio dalimi:
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
+
+
+
+
+14. Sutartis dėl atliekų naudojimo ir (ar) šalinimo, sudaryta su asmenimis, neturinčiais teisės tvarkyti šias atliekas, yra niekinė.
+Papildyta straipsnio dalimi:
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
 
 
 Straipsnio pakeitimai:
@@ -3247,7 +3267,18 @@ BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 
 
-17. Šio straipsnio 1 dalies 5 punkto nuostatos netaikomos baterijas ir akumuliatorius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.
+17. Baterijų ir akumuliatorių gamintojai ir (ar) importuotojai, kurie nevykdo Vyriausybės ar jos įgaliotos institucijos nustatytų baterijų ir akumuliatorių atliekų tvarkymo užduočių, privalo Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka mokėti mokestį už aplinkos teršimą apmokestinamųjų gaminių atliekomis. 
+Papildyta straipsnio dalimi:
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
+
+
+
+
+18. Šio straipsnio 1 dalies 5 punkto nuostatos netaikomos baterijas ir akumuliatorius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
 
 
 Straipsnio pakeitimai:
@@ -4585,3 +4616,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1841, 2015-06-23, paskelbta TAR 2015-06-29, i. k. 2015-10371
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 33 ir 34 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4 ir 34-15 straipsnių pakeitimo įstatymas
