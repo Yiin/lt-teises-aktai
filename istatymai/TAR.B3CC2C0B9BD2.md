@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2009-12-28 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -48,7 +48,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) gerinti vandens kokybę įgyvendinant priemones, skirtas laipsniškai mažinti pavojingų medžiagų ir nutraukti prioritetinių pavojingų medžiagų patekimą į vandenį;
+2) gerinti vandens kokybę įgyvendinant priemones, skirtas nuosekliai mažinti pavojingų medžiagų ir nutraukti prioritetinių medžiagų patekimą į vandenį;
+Straipsnio punkto pakeitimai:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
@@ -76,10 +79,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatymo taikymas
 
 
-Šis Įstatymas taikomas fiziniams ir juridiniams asmenims, kurie valdo, naudoja ar saugo Lietuvos Respublikoje esančius vandens telkinius ir juose esantį vandenį nepaisant jų paskirties bei nuosavybės formų.
+Šis Įstatymas taikomas asmenims, kurie valdo, naudoja ar saugo Lietuvos Respublikoje esančius vandens telkinius ir juose esantį vandenį nepaisant jų paskirties bei nuosavybės formų.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
  
-
-
 
 
 
@@ -170,132 +175,210 @@ Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010IST
 
 
 
-16. Paviršiniai vandenys – tekantis arba susikaupęs žemės paviršiuje vanduo, esantis vidaus (išskyrus požeminį vandenį), tarpiniuose ir priekrantės vandenyse. Paviršinių vandenų sąvoka apima ir teritorinę jūrą, kai kalbama apie jos cheminę būklę.
+17. Paviršiniai vandenys – tekantis arba susikaupęs žemės paviršiuje vanduo, esantis vidaus (išskyrus požeminį vandenį), tarpiniuose ir priekrantės vandenyse. Paviršinių vandenų sąvoka apima ir teritorinę jūrą, kai kalbama apie jos cheminę būklę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-17. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
+18. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir priekrantės vandenų plotai.
+19. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir priekrantės vandenų plotai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-19. Pavojingos medžiagos – toksiškos, patvarios ir linkusios biologiškai kauptis medžiagos arba medžiagų grupės, taip pat kitos panašių savybių ir (arba) panašaus poveikio medžiagos arba medžiagų grupės.
+20. Pavojingos medžiagos – toksiškos, patvarios ir linkusios biologiškai kauptis medžiagos arba medžiagų grupės, taip pat kitos panašių savybių ir (arba) panašaus poveikio medžiagos arba medžiagų grupės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-20. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.
+21. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-21. Požeminiai vandenys – vanduo, kuris yra po žeme drėgnojoje zonoje ir liečiasi su uolienomis arba podirviu.
+22. Požeminiai vandenys – vanduo, kuris yra po žeme drėgnojoje zonoje ir liečiasi su uolienomis arba podirviu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-22. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
+23. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-23. Požeminio vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje yra susitelkęs pakankamas kiekis požeminio vandens, kurio per dieną būtų galima išgauti 10 m3.
+24. Požeminio vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje yra susitelkęs pakankamas kiekis požeminio vandens, kurio per dieną būtų galima išgauti 10 m3.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-24. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.
+25. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-25. Prioritetinės pavojingos medžiagos – pavojingos medžiagos, kurių kontrolei veiksmų būtina imtis pirmiausia ir kurių išleidimas ar kitoks patekimas į vandens telkinius turi būti laipsniškai nutrauktas. Prioritetinių pavojingų medžiagų sąrašą tvirtina aplinkos ministras.
+26. Prioritetinės medžiagos – teršalai, kurių išleidimo ar kitokio patekimo į aplinką nutraukimą ar mažinimą numato 2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2000/60/EB, nustatanti Bendrijos veiksmų vandens politikos srityje pagrindus (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 275), su paskutiniais pakeitimais, padarytais 2014 m. spalio 30 d. Komisijos direktyva 2014/101/ES (OL 2014 L 311, p. 32). Prioritetinių medžiagų sąrašą tvirtina aplinkos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-26. Tarpiniai vandenys – prie upių žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir jam didelę įtaką turi įtekantis gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
+27. Tarpiniai vandenys – prie upių žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir jam didelę įtaką turi įtekantis gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-27. Tarpvalstybiniai vandens telkiniai – paviršiniai ir požeminiai vandens telkiniai, išsidėstę daugiau negu vienos valstybės teritorijoje.
+28. Tarpvalstybiniai vandens telkiniai – paviršiniai ir požeminiai vandens telkiniai, išsidėstę daugiau negu vienos valstybės teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-28. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.
+29. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-29. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.
+30. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-30. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir pratekamais ežerais nuteka į jūrą vienos upės žiotimis.
+31. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir pratekamais ežerais nuteka į jūrą vienos upės žiotimis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir priekrantės vandenimis.
+32. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir priekrantės vandenimis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-32. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms vandens naudojimo sritims.
+33. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms vandens naudojimo sritims.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-33. Vandens kokybės norma – nustatyta žmogui ir aplinkai nekenksminga tam tikro teršalo ar teršalų grupės vandenyje, nuosėdose ar biotoje koncentracija, kurios negalima viršyti.
+34. Vandens kokybės norma – nustatyta žmogui ir aplinkai nekenksminga tam tikro teršalo ar teršalų grupės vandenyje, nuosėdose ar biotoje koncentracija, kurios negalima viršyti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-34. Vandens naudojimas – bet kokia veikla, daranti poveikį vandens telkinio ir jame esančio vandens būklei, pavyzdžiui, vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, rekreacijai, laivybai, žuvininkystei, žvejybai ir kitiems tikslams. Vandens naudojimu taip pat laikoma hidrotechnikos statinių statyba ir naudojimas.
+35. Vandens naudojimas – bet kokia veikla, daranti poveikį vandens telkinio ir jame esančio vandens būklei, pavyzdžiui, vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, rekreacijai, laivybai, žuvininkystei, žvejybai ir kitiems tikslams. Vandens naudojimu taip pat laikoma hidrotechnikos statinių statyba ir naudojimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-35. Vandens paslaugos – paslaugos, susijusios su paviršinio arba požeminio vandens išgavimu, kaupimu, užtvenkimu, apdorojimu (gerinimu, paruošimu) ir tiekimu, taip pat nuotekų tvarkymu.
+36. Vandens paslaugos – paslaugos, susijusios su paviršinio arba požeminio vandens išgavimu, kaupimu, užtvenkimu, apdorojimu (gerinimu, paruošimu) ir tiekimu, taip pat nuotekų tvarkymu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-36. Vandens stebėsena (monitoringas) – sistemingas paviršinių ir požeminių vandens telkinių būklės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
+37. Vandens stebėsena (monitoringas) – sistemingas paviršinių ir požeminių vandens telkinių būklės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-37. Vandensaugos tikslai – vandens telkinių ir juose esančio vandens būklei, taip pat upių baseinų rajone esantiems saugomiems plotams šiuo ir kitais įstatymais bei kitais teisės aktais nustatyti reikalavimai, kuriuos reikia pasiekti per tam tikrą laikotarpį.
+38. Vandensaugos tikslai – vandens telkinių ir juose esančio vandens būklei, taip pat upių baseinų rajone esantiems saugomiems plotams šiuo ir kitais įstatymais bei kitais teisės aktais nustatyti reikalavimai, kuriuos reikia pasiekti per tam tikrą laikotarpį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-38. Vandenvietė – teritorija, kurioje įrengti kaptažo ir kiti inžineriniai įrenginiai, kuriais išgaunamas vanduo tiekiamas į vandentiekio sistemą.
+39. Vandenvietė – teritorija, kurioje įrengti kaptažo ir kiti inžineriniai įrenginiai, kuriais išgaunamas vanduo tiekiamas į vandentiekio sistemą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-39. Vandenvietės apsaugos zona – vandenvietės apsaugai skirta teritorija, kuriai nustatytos ūkinę veiklą ribojančios sąlygos.
+40. Vandenvietės apsaugos zona – vandenvietės apsaugai skirta teritorija, kuriai nustatytos ūkinę veiklą ribojančios sąlygos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-40. Vanduo – aplinkos dalis, apimanti Lietuvos Respublikos paviršiniuose ir požeminiuose vandens telkiniuose esantį vandenį.
+41. Vanduo – aplinkos dalis, apimanti Lietuvos Respublikos paviršiniuose ir požeminiuose vandens telkiniuose esantį vandenį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
 
-41. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vidaus vandenų transporto kodekse.
+42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vidaus vandenų transporto kodekse.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 Straipsnio pakeitimai:
@@ -628,7 +711,10 @@ Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0I
 14 straipsnis. Hidrotechnikos statinių statyba ir naudojimas
 
 
-1. Vandens telkiniuose gali būti statomi hidrotechnikos statiniai, reikalingi vandens apsaugai, jo naudojimui ir aplinkai nuo žalingo vandens poveikio saugoti, hidroenergetikai bei kitoms reikmėms. Tvenkiniai įrengiami ir kiti hidrotechnikos statiniai statomi vadovaujantis šiuo Įstatymu, Statybos įstatymu, Teritorijų planavimo įstatymu, Saugomų teritorijų įstatymu ir Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu. Hidrotechnikos statiniams statyti ir naudoti atskiro vandens naudojimo leidimo nereikia. Tvenkinių naudojimo ir priežiūros tvarką nustato aplinkos ministras. 
+1. Vandens telkiniuose gali būti statomi hidrotechnikos statiniai, reikalingi vandens apsaugai, jo naudojimui ir aplinkai nuo žalingo vandens poveikio saugoti, hidroenergetikai ir kitoms reikmėms. Tvenkiniai įrengiami ir kiti hidrotechnikos statiniai statomi vadovaujantis šiuo Įstatymu, Statybos įstatymu, Teritorijų planavimo įstatymu, Saugomų teritorijų įstatymu ir Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu. Hidrotechnikos statiniams statyti ir naudoti atskiro vandens naudojimo leidimo nereikia. Tvenkinių ir patvenktų ežerų naudojimo ir priežiūros tvarką nustato aplinkos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+ 
 
 
 
