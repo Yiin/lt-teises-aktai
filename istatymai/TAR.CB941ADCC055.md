@@ -13,11 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
- 
- 
  
  
 LIETUVOS RESPUBLIKOS
@@ -476,7 +474,10 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
 
 
-5) įstatymų nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, taip pat apžiūrėti įvykio vietą;
+5) įstatymų nustatyta tvarka atlikti asmens apžiūrą ir daiktų patikrinimą, paimti daiktus ir dokumentus, apžiūrėti įvykio vietą, priverstinai nuvežti neteisėtai pastatytus, laikomus ar apgyvendinimo, nakvynės, maitinimo ar kitiems tikslams naudojamus vagonėlius ar kitus kilnojamuosius objektus arba įrenginius; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
 
 
 
@@ -536,7 +537,14 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
 
 
-17) pateikę teismo nutartį, įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu).
+17) pateikę teismo nutartį, įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitu pagrindu);
+
+
+
+
+18) įstatymų nustatyta tvarka nagrinėti bylas dėl ekonominių sankcijų skyrimo ir skirti ekonomines sankcijas. 
+Papildyta straipsnio punktu:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
  
 
 
@@ -544,12 +552,18 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 
 
 
-2. Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 7 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių. 
+2. Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 7 ir 18 punktuose nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
 
 
 
 
-3. Valstybiniai aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 7 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių ir teisės vykdyti aplinkos apsaugos valstybinę kontrolę tarptautiniuose vandenyse. Valstybiniai aplinkos apsaugos inspektoriai, kuriems galios suteiktos šio Įstatymo 11 straipsnio 2 dalyje nustatyta tvarka, neturi galių, numatytų šio straipsnio 1 dalies 6 punkte.
+3. Valstybiniai aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 7 ir 18 punktuose nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų galių ir teisės vykdyti aplinkos apsaugos valstybinę kontrolę tarptautiniuose vandenyse. Valstybiniai aplinkos apsaugos inspektoriai, kuriems galios suteiktos šio Įstatymo 11 straipsnio 2 dalyje nustatyta tvarka, neturi galių, numatytų šio straipsnio 1 dalies 6 punkte.
+Straipsnio dalies pakeitimai:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
 
 
 
@@ -1465,7 +1479,10 @@ Jei aplinkos apsaugos valstybinės kontrolės pareigūnas pagrįstai įtaria, ka
 
 
 
-6. Sprendimas sulaikyti laivą per dešimt dienų nuo jo priėmimo dienos gali būti apskundžiamas rajono (miesto) apylinkės teismui.
+6. Sprendimas sulaikyti laivą per dešimt dienų nuo jo priėmimo dienos gali būti skundžiamas apygardos administraciniam teismui, kai sprendimas sulaikyti laivą priimtas užtikrinant bylos dėl ekonominės sankcijos skyrimo teiseną, arba rajono (miesto) apylinkės teismui, kai sprendimas sulaikyti laivą priimtas užtikrinant administracinio teisės pažeidimo bylos teiseną. Teismas skundą dėl sprendimo sulaikyti laivą išnagrinėja per penkias dienas nuo skundo priėmimo dienos. Teismo sprendimas dėl skundo dėl sprendimo sulaikyti laivą yra neskundžiamas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
 
 
 
@@ -1499,7 +1516,10 @@ Jei aplinkos apsaugos valstybinės kontrolės pareigūnas pagrįstai įtaria, ka
 
 
 
-2) atlyginta žala, padaryta aplinkai teršiant jūros aplinką ar pažeidžiant kitus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus ir (arba) įvykdžius visas skirtas nuobaudas ar bausmes, jei tarptautinės sutartys nenustato kitaip; arba
+2) atlyginta žala, padaryta aplinkai teršiant jūros aplinką ar pažeidžiant kitus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimus ir (arba) įvykdžius visas skirtas nuobaudas, ekonomines sankcijas ar bausmes, jei tarptautinės sutartys nenustato kitaip; arba
+Straipsnio punkto pakeitimai:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
 
 
 
@@ -1964,7 +1984,10 @@ BAIGIAMOSIOS NUOSTATOS
 55 straipsnis. Atsakomybė už Įstatymo pažeidimus
 
 
-1. Juridiniai ir fiziniai asmenys, pažeidę šio Įstatymo reikalavimus, traukiami teisinėn atsakomybėn įstatymų nustatyta tvarka.
+1. Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
 
 
 
@@ -2121,3 +2144,8 @@ Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 12, 39-5, 39-6 ir 55 straipsnių pakeitimo įstatymas
