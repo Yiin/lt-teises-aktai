@@ -20,16 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-09-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 63-1582, i. k. 0951010ISTA00I-1034
  
 Nauja įstatymo redakcija 2001-04-25:
 Nr. IX-243, 2001 04 10, Žin., 2001, Nr. 35-1164 (2001 04 25)
  
-LIETUVOS RESPUBLIKOS
-Ž E M Ė S  G E L M I Ų
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMAS
  
 1995 m. liepos 5 d. Nr. I-1034
 Vilnius 
@@ -643,7 +641,10 @@ Nr. XII-1782, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09797
 
 
 
-5. Gręžinių geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens šiluminei energijai vartoti įrengimo ir likvidavimo tvarką nustato Aplinkos ministerija.
+5. Gręžinių geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens šiluminei energijai vartoti įrengimas, konservavimas ir likvidavimas privalo būti vykdomas laikantis aplinkos ministro nustatytos tvarkos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2308, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10418
+ 
 
 
 Straipsnio pakeitimai:
@@ -1038,19 +1039,20 @@ Nr. IX-2516, 2004-11-02, Žin., 2004, Nr. 167-6097 (2004-11-17)
 
 
 SEPTINTASIS SKIRSNIS
-ATSAKOMYBĖ UŽ ŽEMĖS GELMIŲ ĮSTATYMO PAŽEIDIMĄ IR 
-GINČŲ SPRENDIMAS
+ATSAKOMYBĖ UŽ ŽEMĖS GELMIŲ ĮSTATYMO PAŽEIDIMĄ IR GINČŲ SPRENDIMAS
  
 
 
-26 straipsnis. Atsakomybė už Žemės gelmių įstatymo pažeidimą
+26 straipsnis. Atsakomybė už šio įstatymo pažeidimą
 
 
-Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, pažeidusios Žemės gelmių įstatymą, atsako įstatymų nustatyta tvarka.
+Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2516, 2004-11-02, Žin., 2004, Nr. 167-6097 (2004-11-17)
+Straipsnio pakeitimai:
+Nr. XII-2308, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10418
  
 
 
@@ -1244,3 +1246,8 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 13, 15 ir 21 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1786, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09801
 Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 22 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2308, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10418
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 ir 26 straipsnių pakeitimo įstatymas
