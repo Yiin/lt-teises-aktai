@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-10-06
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -70,7 +70,10 @@ Programos lėšas (įplaukas) sudaro:
 
 
 
-2) lėšos iš sumokėtų Administracinių teisės pažeidimų bei Baudžiamajame kodeksuose nustatytų baudų už aplinkos apsaugos įstatymų ar kitų aplinkos apsaugą reglamentuojančių teisės aktų pažeidimus;
+2) lėšos iš sumokėtų Lietuvos Respublikos administracinių teisės pažeidimų kodekse ir Lietuvos Respublikos baudžiamajame kodekse nustatytų baudų už aplinkos apsaugos įstatymų ar kitų aplinkos apsaugą reglamentuojančių teisės aktų pažeidimus, taip pat lėšos iš juridinių asmenų (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat šių juridinių asmenų ir organizacijų padalinius) sumokėtų baudų už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
+ 
 
 
 
@@ -331,3 +334,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 straipsnio pakeitimo įstatymas
