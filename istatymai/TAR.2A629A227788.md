@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2020-02-07
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
  
@@ -37,14 +37,18 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato bendruosius cheminių medžiagų – atskirų ir preparatų ar gaminių sudėtyje esančių – ir cheminių preparatų gamybos, tiekimo rinkai, naudojimo, taip pat cheminių augalų apsaugos ir biocidinių produktų tiekimo rinkai ir kitokio jų tvarkymo reikalavimus; fizinių ir juridinių asmenų, tiekiančių rinkai ar kitaip tvarkančių chemines medžiagas ir preparatus, pareigas ir teises, taip pat valstybės institucijų funkcijas cheminių medžiagų ir preparatų tvarkymo valstybinio valdymo srityje.
+1. Šis įstatymas nustato bendruosius cheminių medžiagų – atskirų ir preparatų ar gaminių sudėtyje esančių – ir cheminių preparatų gamybos, tiekimo rinkai, naudojimo, taip pat cheminių augalų apsaugos ir biocidinių produktų tiekimo rinkai ir kitokio jų tvarkymo reikalavimus; fizinių ir juridinių asmenų (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat jų padalinius), tiekiančių rinkai ar kitaip tvarkančių chemines medžiagas ir preparatus, pareigas ir teises, taip pat valstybės institucijų funkcijas cheminių medžiagų ir preparatų tvarkymo valstybinio valdymo srityje. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2302, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10407
+ 
 
 
 
 
-2. Šis įstatymas taikomas kartu su 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiu Europos cheminių medžiagų agentūrą, iš dalies keičiančiu Direktyvą 1999/45/EB bei panaikinančiu Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. vasario 16 d. Komisijos reglamentu (EB) Nr. 134/2009 (OL 2009 L 46, p. 3), (toliau – Reglamentas (EB) Nr. 1907/2006) ir 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiančiu ir panaikinančiu direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiančiu Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), (toliau – Reglamentas (EB) Nr. 1272/2008).
+2. Šis įstatymas taikomas kartu su 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiu Europos cheminių medžiagų agentūrą, iš dalies keičiančiu Direktyvą 1999/45/EB bei panaikinančiu Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. kovo 2 d. Komisijos reglamentu (ES) Nr. 2015/326 (OL 2015 L 58, p. 43), (toliau – Reglamentas (EB) Nr. 1907/2006), 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiančiu ir panaikinančiu direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiančiu Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 28 d. Komisijos reglamentu (ES) Nr. 2015/830 (OL 2015 L 132, p. 8), (toliau – Reglamentas (EB) Nr. 1272/2008), 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų (OL 2009 L 286, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 4 d. Komisijos reglamentu (ES) Nr. 1088/2013 (OL 2013 L 293, p. 29), ir 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1102/2008 dėl metalinio gyvsidabrio ir tam tikrų gyvsidabrio junginių ir mišinių eksporto uždraudimo bei metalinio gyvsidabrio saugaus saugojimo (OL 2008 L 304, p. 75).
 Straipsnio dalies pakeitimai:
 Nr. XI-1221, 2010-12-14, Žin., 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010ISTA0XI-1221
+Nr. XII-2302, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10407
  
 
 
@@ -182,9 +186,10 @@ Nr. XI-1221, 2010-12-14, Žin. 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010IST
 
 
 
-13. Šiame įstatyme sąvoka „cheminis preparatas“ atitinka sąvoką „mišinys“ ir vartojama ta pačia reikšme, kaip ši apibrėžta Reglamente (EB) Nr. 1272/2008. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos augalų apsaugos įstatyme, Reglamente (EB) Nr. 1907/2006, Reglamente (EB) Nr. 1272/2008 ir 2008 m. birželio 17 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 689/2008 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2008 L 204, p. 1) (toliau – Reglamentas (EB) Nr. 689/2008).
+13. Šiame įstatyme sąvoka „cheminis preparatas“ atitinka sąvoką „mišinys“ ir vartojama ta pačia reikšme, kaip ši apibrėžta Reglamente (EB) Nr. 1272/2008. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos augalų apsaugos įstatyme, Reglamente (EB) Nr. 1907/2006, Reglamente (EB) Nr. 1272/2008 ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60) su paskutiniais pakeitimais, padarytais 2014 m. rugpjūčio 7 d. Komisijos deleguotuoju reglamentu (ES) Nr. 1078/2014 (OL 2014 L 297, p. 1).
 Straipsnio dalies pakeitimai:
 Nr. XI-1221, 2010-12-14, Žin., 2010, Nr. 157-7967 (2010-12-31), i. k. 1101010ISTA0XI-1221
+Nr. XII-2302, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10407
  
 
 
@@ -773,3 +778,8 @@ Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 17 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1892, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11085
 Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr. VIII-1641 18 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2302, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10407
+Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr. VIII-1641 1 ir 2 straipsnių pakeitimo įstatymas
