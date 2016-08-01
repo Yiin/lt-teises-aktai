@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
  
@@ -156,7 +156,10 @@ Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA
 
 
 
-19. Asmenys – fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių.
+19. Asmenys – fiziniai ir juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat jų padalinius).
+Straipsnio dalies pakeitimai:
+Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
+ 
 
 
 
@@ -674,18 +677,30 @@ Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA
 
 
 
-20 straipsnis. Teršalų mažinimo priemonių ir atliekų deginimo reikalavimai
+20 straipsnis. Teršalų mažinimo priemonių, atliekų deginimo ir augalų ar jų dalių deginimo reikalavimai
 
 
-1. Išmetamų į aplinkos orą teršalų mažinimo priemonės neturi teršti dirvožemio, vandens ir kitų aplinkos elementų.
+1. Įgyvendinant išmetamų į aplinkos orą teršalų mažinimo priemones, neturi būti teršiamas dirvožemis, vanduo ir kiti aplinkos elementai.
 
 
 
 
-2. Draudžiama deginti sausą žolę, nendrynus, ražienas. Draudžiama deginti atliekas, išskyrus atvejus, kai jos deginamos specialiai tam skirtuose įrenginiuose, vadovaujantis šio įstatymo 15 straipsnio 1 dalies nuostatomis.
+2. Draudžiama deginti atliekas, išskyrus atvejus, kai jos deginamos specialiai tam skirtuose įrenginiuose, vadovaujantis šio įstatymo 15 straipsnio 1 dalies nuostatomis, ir šiame straipsnyje nurodytas išimtis.
+
+
+
+
+3. Draudžiama deginti nenupjautus, nesugrėbtus ar kitaip nesurinktus augalus ar jų dalis, išskyrus atvejus, numatytus Lietuvos Respublikos saugomų teritorijų įstatymo nustatyta tvarka patvirtintuose gamtotvarkos planuose.
+
+
+
+
+4. Surinktų augalų ar jų dalių (išskyrus surinktus vykdant miškų ūkio veiklą) deginimui lauko sąlygomis taikomi aplinkos ministro nustatyti reikalavimai.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
  
-
-
 
 
 
@@ -804,3 +819,8 @@ Lietuvos Respublikos aplinkos oro apsaugos įstatymo 2, 4, 5, 7, 9, 10, 11, 18, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463
 Lietuvos Respublikos aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2 ir 20 straipsnių pakeitimo įstatymas
