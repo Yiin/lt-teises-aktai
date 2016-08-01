@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-10-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -154,7 +154,10 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 
 
 
-20. Pakuočių vartotojas – fizinis ar juridinis asmuo, naudojantis ar vartojantis supakuotus (sufasuotus) produktus.
+20. Pakuočių vartotojas – asmuo, naudojantis ar vartojantis supakuotus (sufasuotus) produktus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
+ 
 
 
 
@@ -299,7 +302,10 @@ Nr. XI-1627, 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 
 
 
-4. Pakuotės turi būti gaminamos taip, kad pakuotes, pakuočių atliekas ar jų tvarkymo liekanas deginant ar šalinant sąvartyne į išmetamus teršalus, pelenus ar filtratą patektų kiek galima mažiau pakuotėse ar jų sudedamosiose dalyse esančių kenksmingų ir kitų pavojingų medžiagų. Ribinį leistiną kenksmingų medžiagų kiekį pakuotėse ir kenksmingų medžiagų kiekio kontrolės tvarką nustato Vyriausybė arba jos įgaliota institucija.
+4. Pakuotės turi būti gaminamos taip, kad pakuotes, pakuočių atliekas ar jų tvarkymo liekanas deginant ar šalinant sąvartyne į išmetamus teršalus, pelenus ar filtratą patektų kiek galima mažiau pakuotėse ar jų sudedamosiose dalyse esančių kenksmingų ir kitų pavojingų medžiagų. Ribinį leistiną kenksmingų medžiagų kiekį pakuotėse ir kenksmingų medžiagų kiekio kontrolės tvarką nustato Vyriausybė arba jos įgaliota institucija. Draudžiama tiekti Lietuvos Respublikos vidaus rinkai pakuotes, kuriose kenksmingos medžiagos viršija ribinį leistiną kiekį.
+Straipsnio dalies pakeitimai:
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
+ 
 
 
 
@@ -987,98 +993,43 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 12 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako šio įstatymo ir Lietuvos Respublikos aplinkos apsaugos įstatymo (toliau – Aplinkos apsaugos įstatymas) ir kitų įstatymų nustatyta tvarka.
-
-
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų įstatymų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
-
-
-
-
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+Straipsnio pakeitimai:
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
  
 
 
 
 
-
-
-121 straipsnis. Juridinių asmenų padarytų pažeidimų bylų teisena
-
-
-Juridinių asmenų padarytų pažeidimų bylų teiseną nustato šis įstatymas ir Aplinkos apsaugos įstatymas.
-
-
+121 straipsnis. Neteko galios nuo 2016-08-01.
 Papildyta straipsniu:
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+Straipsnio pakeitimai:
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
  
 
 
 
 
-122 straipsnis. Pareigūnai, turintys teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir nagrinėti bylas dėl ekonominių sankcijų skyrimo
-
-
-Šiame įstatyme nurodytus juridinių asmenų padarytus pažeidimus Aplinkos apsaugos įstatymo nustatyta tvarka tiria, juridinių asmenų padarytų pažeidimų protokolus surašo ir bylas dėl ekonominių sankcijų skyrimo nagrinėja valstybiniai aplinkos apsaugos inspektoriai.
-
-
+122 straipsnis. Neteko galios nuo 2016-08-01.
 Papildyta straipsniu:
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+Straipsnio pakeitimai:
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
  
 
 
 
 
-123 straipsnis. Juridinių asmenų atsakomybė už užstato taikymo ir užstato sistemos organizavimo reikalavimų pažeidimą 
-
-
-1. Pareigos dalyvauti užstato už vienkartines pakuotes sistemoje, kai asmuo Lietuvos Respublikos vidaus rinkai tiekia gaminius, supakuotus į vienkartinę pakuotę, už kurią pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, nevykdymas užtraukia baudą gamintojui ir (ar) importuotojui nuo dvidešimt penkių tūkstančių iki penkiasdešimties tūkstančių litų.
-
-
-
-
-2. Pareigos pakuotę pažymėti atitinkamos užstato sistemos taikymą nurodančiu ženklu nevykdymas užtraukia baudą gamintojui ir (ar) importuotojui nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių litų.
-
-
-
-
-3. Pareigos organizuoti daugkartinių pakuočių ir (ar) vienkartinių pakuočių, už kurias nustatytas užstatas, atliekų priėmimą ir užstato grąžinimą nevykdymas ir (ar) netinkamas vykdymas užtraukia baudą pakuočių pardavėjui nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių litų. 
-
-
-
-
-4. Pareigos nurodyti užstato dydį gaminio, supakuoto į pakuotę, už kurią nustatytas užstatas, kainos etiketėje nevykdymas ir (ar) informacijos apie tai, kaip pakuočių vartotojai gali grąžinti pakuotes ar pakuočių, už kurias nustatytas užstatas, atliekas nepateikimas užtraukia baudą pakuočių pardavėjui nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių litų.
-
-
-
-
-5. Užstato už vienkartines pakuotes sistemos organizavimo plano vykdymo ataskaitos ir informacijos apie užstato už vienkartines pakuotes sistemos finansavimo schemoje, visuomenės švietimo ir informavimo užstato už vienkartines pakuotes sistemos klausimais programoje numatytų priemonių įgyvendinimą nepateikimas nustatytu laiku užtraukia baudą užstato už vienkartines pakuotes sistemos administratoriui nuo trijų tūkstančių iki penkių tūkstančių litų. 
-
-
-
-
-6. Užstato už vienkartines pakuotes sistemos organizavimo plane, užstato už vienkartines pakuotes sistemos finansavimo schemoje, visuomenės švietimo ir informavimo užstato už vienkartines pakuotes sistemos klausimais programoje numatytų priemonių nevykdymas užtraukia baudą užstato už vienkartines pakuotes sistemos administratoriui nuo penkių tūkstančių iki dešimties tūkstančių litų.
-
-
-
-
-7. Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trisdešimt septynių tūkstančių penkių šimtų iki septyniasdešimties tūkstančių litų. 
-
-
-
-
-8. Šio straipsnio 2, 3, 4 ar 5 dalyse numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo penkių tūkstančių iki dešimties tūkstančių litų.
-
-
-
-
-9. Šio straipsnio 6 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dešimties tūkstančių iki dvidešimties tūkstančių litų.
-
-
+123 straipsnis. Neteko galios nuo 2016-08-01.
 Papildyta straipsniu:
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+Straipsnio pakeitimai:
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
  
 
 
@@ -1112,8 +1063,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
- 
- 
 
 
 
@@ -1503,3 +1452,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2586, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20335
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 10 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, 12 straipsnių pakeitimo ir 12-1, 12-2, 12-3 straipsnių pripažinimo netekusiais galios įstatymas
