@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2015-10-01 iki 2016-07-31
+Suvestinė redakcija nuo 2016-08-01 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -686,7 +686,18 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 
 
-9) valstybiniai miškų pareigūnai turi ir kitų įstatymų suteiktų teisių.
+9) įstatymų nustatyta tvarka surašyti juridinių asmenų padarytų pažeidimų protokolus, nagrinėti bylas dėl ekonominių sankcijų skyrimo, skirti ekonomines sankcijas juridiniams asmenims už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Lietuvos Respublikos aplinkos apsaugos įstatyme; 
+Papildyta straipsnio punktu:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+ 
+
+
+
+
+10) valstybiniai miškų pareigūnai turi ir kitų įstatymų suteiktų teisių.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+ 
 
 
 
@@ -829,6 +840,13 @@ Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
 
 
 4. Uždraustų ar apribotų lankyti miškų ribas rodo miško valdytojo, savininko ar naudotojo pastatyti informaciniai ženklai.
+
+
+
+
+5. Miškų lankymą reglamentuoja Lankymosi miške taisyklės. Šias taisykles tvirtina aplinkos ministras.
+Papildyta straipsnio dalimi:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
  
 
 
@@ -876,14 +894,27 @@ MIŠKO NAUDOJIMAS
 
 
 
-7. Privačių miškų savininkai Aplinkos ministerijos ir Statistikos departamento nustatyta tvarka teikia informaciją ir statistikos duomenis apie miškų ūkio veiklą savo valdose. 
+7. Draudžiama ištraukti ar išvežti savavališkai iškirstus medžius ir krūmus, augusius miško žemėje, ir pagamintą apvaliąją medieną, jei tai pažeidžia aplinkos ministro nustatytą savavališkai iškirstų medžių ir krūmų, augusių miško žemėje, ir pagamintos apvaliosios medienos ištraukimo arba išvežimo tvarką. 
+Papildyta straipsnio dalimi:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+ 
 
 
 
 
-8. Apvaliosios medienos ir nenukirsto miško matavimo ir tūrio nustatymo, apvaliosios medienos apskaitos, klasifikavimo ir ženklinimo tvarką nustato Aplinkos ministerija.
+8. Privačių miškų savininkai Aplinkos ministerijos ir Statistikos departamento nustatyta tvarka teikia informaciją ir statistikos duomenis apie miškų ūkio veiklą savo valdose. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+ 
+
+
+
+
+9. Apvaliosios medienos ir nenukirsto miško matavimo ir tūrio nustatymo, apvaliosios medienos apskaitos, klasifikavimo ir ženklinimo tvarką nustato Aplinkos ministerija.
 Straipsnio dalies pakeitimai:
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
  
 
 
@@ -1441,10 +1472,12 @@ ATSAKOMYBĖ UŽ MIŠKŲ ĮSTATYMO PAŽEIDIMUS
 22 straipsnis. Atsakomybė
 
 
-Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
  
-
-
 
 
 
@@ -1682,3 +1715,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 1 ir 7 straipsnių pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
+Lietuvos Respublikos miškų įstatymo Nr. I-671 6, 8, 9 ir 22 straipsnių pakeitimo įstatymas
