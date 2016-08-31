@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2016-02-01 iki 2016-08-30
+Suvestinė redakcija nuo 2016-08-31 iki 2016-12-23
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -3487,7 +3487,10 @@ Nr. XI-1987, 2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
 
 
 
-3. Preliminarų valstybės finansuojamų pirmosios pakopos ir vientisųjų studijų vietų, į kurias priimami studentai, skaičių kiekvienoje iš studijų sričių arba studijų krypčių grupių ne vėliau kaip iki kiekvienų metų vasario 16 dienos skelbia Švietimo ir mokslo ministerija.
+3. Preliminarų valstybės finansuojamų pirmosios pakopos ir vientisųjų studijų vietų, į kurias priimami studentai, skaičių pagal studijų kryptis ir (arba) jų grupes ne vėliau kaip iki kiekvienų metų balandžio 15 dienos skelbia Švietimo ir mokslo ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
+ 
 
 
 
@@ -3507,8 +3510,9 @@ Nr. XI-1987, 2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
 
 
 
-7. Asmuo, kurio pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos, po aukštosios mokyklos nustatyto akademinio mokymosi laikotarpio, ne ilgesnio negu studijų metai, po kurio atliekama reguliari pagrindinė žinių patikra, netenka valstybės finansavimo studijoms, jeigu atitinkamo laikotarpio jo studijų rezultatų vidurkis yra daugiau kaip 20 procentinių punktų mažesnis negu aukštosios mokyklos atitinkamos studijų programos ir formos to paties kurso studijuojančiųjų atitinkamo laikotarpio studijų rezultatų vidurkis. Valstybės finansavimo netekęs asmuo už studijas turi mokėti aukštosios mokyklos nustatytą studijų kainą, o jo valstybės finansuojamą vietą užima geriausiai valstybės nefinansuojamoje vietoje besimokantis asmuo.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalis (2012 m. sausio 19 d. redakcija; Žin., 2012, Nr. 13-554) tiek, kiek joje nustatyta, kad  asmuo, kurio pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos, netenka valstybės finansavimo studijoms, jeigu atitinkamo laikotarpio jo studijų rezultatų vidurkis yra daugiau kaip 20 procentinių punktų mažesnis negu aukštosios mokyklos atitinkamos studijų programos ir formos to paties kurso studijuojančiųjų atitinkamo laikotarpio studijų rezultatų vidurkis, prieštarauja Lietuvos Respublikos Konstitucijos 41 straipsnio 3 dalies nuostatai „Gerai besimokantiems piliečiams valstybinėse aukštosiose mokyklose laiduojamas nemokamas mokslas“, konstituciniam teisinės valstybės principui.
+7. Neteko galios nuo 2016-08-31
+Straipsnio dalies naikinimas:
+Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
 Straipsnio dalies pakeitimai:
 Nr. KT48-N15/2014, 2014-11-10, paskelbta TAR 2014-11-10, i. k. 2014-16400
  
@@ -3521,7 +3525,10 @@ Nr. KT48-N15/2014, 2014-11-10, paskelbta TAR 2014-11-10, i. k. 2014-16400
 
 
 
-9. Valstybės finansuojamų antrosios pakopos, doktorantūros ir laipsnio nesuteikiančių studijų vietų, į kurias priimami studentai, skaičių pagal studijų ar mokslo sritis kiekvienais metais iki kovo 11 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Universitetams antrosios pakopos ir laipsnio nesuteikiančias studijų vietas Švietimo ir mokslo ministerija paskirsto pagal studijų kryptis, atsižvelgdama į mokslo (meno) veiklos rezultatus ir (arba) stojančiųjų į pirmosios pakopos ir vientisųjų studijų programas pasirinkimą pagal studijų ar mokslo kryptį. Doktorantūros vietas mokslo ir studijų institucijoms Švietimo ir mokslo ministerija paskirsto pagal mokslo kryptis, atsižvelgdama į mokslo (meno) veiklos ir doktorantūros rezultatus.
+9. Valstybės finansuojamų antrosios pakopos, doktorantūros ir laipsnio nesuteikiančių studijų vietų, į kurias priimami studentai, skaičių pagal studijų sritis kiekvienais metais iki balandžio 15 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Universitetams antrosios pakopos ir laipsnio nesuteikiančias studijų vietas Švietimo ir mokslo ministerija paskirsto pagal jų mokslo (meno) veiklos rezultatus ir (arba) stojančiųjų į pirmosios pakopos ir vientisųjų studijų programas pasirinkimą pagal studijų ar mokslo kryptį. Doktorantūros vietas mokslo ir studijų institucijoms Švietimo ir mokslo ministerija paskirsto pagal mokslo (meno) veiklos ir doktorantūros rezultatus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
+ 
 
 
 
@@ -3546,7 +3553,10 @@ Nr. KT48-N15/2014, 2014-11-10, paskelbta TAR 2014-11-10, i. k. 2014-16400
 
 
 
-14. Iš aukštosios mokyklos pašalinus valstybės finansuojamoje vietoje studijavusį asmenį arba jam nutraukus studijas (išskyrus šio straipsnio 8 dalyje numatytus atvejus), į valstybės finansuojamą studijų vietą aukštosios mokyklos nustatyta tvarka gali būti perkeliamas toje pačioje studijų programoje tame pačiame kurse valstybės nefinansuojamoje studijų vietoje studijuojantis asmuo (išskyrus asmenis, nurodytus šio įstatymo 72 straipsnyje). 
+14. Iš aukštosios mokyklos pašalinus valstybės finansuojamoje studijų vietoje studijavusį asmenį arba jam nutraukus studijas (išskyrus šio straipsnio 8 dalyje numatytus atvejus), į atsilaisvinusią valstybės finansuojamą studijų vietą nefinansuojamoje studijų vietoje studijavę asmenys perkeliami aukštosios mokyklos nustatyta tvarka, vadovaujantis šio įstatymo 701 straipsnyje įtvirtintais principais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
+ 
 
 
 Straipsnio pakeitimai:
@@ -3554,6 +3564,74 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-12-22, Žin., 2011, Nr. 160-7591 (2011-12-28)
 Nr. XI-1920, 2012-01-19, Žin., 2012, Nr. 13-554 (2012-01-28)
 Nr. XI-1987, 2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
+ 
+
+
+
+
+701 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems studentams
+
+
+1. Studento pasiekti studijų rezultatai baigus modulį (dalyką) vertinami priskiriant juos pasiekimų lygmeniui.
+
+
+
+
+2. Skiriami trys studijų pasiekimų modulių (dalykų) lygmenys: puikus, tipinis ir slenkstinis:
+
+
+1) puikiam pasiekimų lygmeniui priskiriamas studentas, kuris: žino naujausius studijų dalyko (krypties) šaltinius, teorijas ir principus ir gali kurti ir plėtoti naujas idėjas; geba taikyti žinias ir spręsti sudėtingas ir netipines studijų krypties ir su ja susijusios profesinės veiklos problemas; gali savarankiškai rinkti, vertinti, interpretuoti duomenis ir jais remdamasis priimti sprendimus; geba logiškai perteikti informaciją, idėjas, problemas ir sprendimus bendraudamas su savo studijų krypties ir kitų studijų krypčių specialistais; turi mokymosi gebėjimų, būtinų tolesnėms studijoms ir savarankiškam mokymuisi; 
+
+
+
+
+2) tipiniam pasiekimų lygmeniui priskiriamas studentas, kuris: žino svarbiausias savo studijų dalyko (krypties) teorijas ir principus ir gali pagrįsti esminius studijų krypties pasiekimus; geba taikyti žinias spręsdamas standartines savo studijų krypties ar su ja susijusios profesinės veiklos problemas; gali savarankiškai rinkti, vertinti ir interpretuoti savo studijų krypties duomenis, reikalingus sprendimams priimti; geba perteikti įprastinę studijų krypties informaciją, idėjas, problemas ir sprendimus; turi mokymosi gebėjimų, būtinų tolesnėms studijoms ir savarankiškam mokymuisi; 
+
+
+
+
+3) slenkstiniam pasiekimų lygmeniui priskiriamas studentas, kuris: žino svarbiausias savo studijų dalyko (krypties) teorijas ir principus; geba taikyti žinias spręsdamas nesudėtingas savo studijų krypties problemas; gali dalyvauti renkant, vertinant ir interpretuojant savo studijų krypties duomenis, reikalingus sprendimams priimti; geba perteikti pagrindinę studijų krypties informaciją, idėjas, problemas; turi savarankiško mokymosi gebėjimų.
+
+
+
+
+
+
+3. Po aukštosios mokyklos nustatyto vertinamojo laikotarpio, ne ilgesnio kaip studijų metai, modulių (dalykų) vertinimai apibendrinami ir nustatomas vertinamojo laikotarpio studijų pasiekimų lygmuo:
+
+
+1) studentas laikomas pasiekusiu puikų vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu ne mažiau kaip keturi penktadaliai modulių (dalykų) įvertinimų yra puikaus lygmens, o kiti – ne žemesnio kaip tipinio lygmens;
+
+
+
+
+2) studentas laikomas pasiekusiu tipinį vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu ne mažiau kaip trys ketvirtadaliai modulių (dalykų) įvertinimų yra tipinio arba puikaus lygmens, o kiti – slenkstinio lygmens;
+
+
+
+
+3) studentas laikomas pasiekusiu slenkstinį vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu jis yra atsiskaitęs už visus modulius (dalykus), bet jo studijų pasiekimai nesiekia tipinio lygmens.
+
+
+
+
+
+
+4. Gerai besimokančiu laikomas studentas, neturintis akademinių skolų, įvykdęs visus studijų programai vertinamuoju laikotarpiu keliamus reikalavimus ir pasiekęs puikų arba tipinį pasiekimų lygmenį. 
+
+
+
+
+5. Studentui, kurio pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos, po aukštosios mokyklos nustatyto vertinamojo laikotarpio, ne ilgesnio kaip studijų metai, valstybės finansavimas studijoms išlieka, jeigu jis atitinka šio straipsnio 4 dalyje nustatytus gero mokymosi kriterijus. Jeigu studentas neatitinka gero mokymosi kriterijų, jis netenka valstybės finansavimo, išskyrus šio straipsnio 6 dalyje nustatytą atvejį. Valstybės finansavimo studijoms netekęs studentas už studijas turi mokėti aukštosios mokyklos nustatytą studijų kainą, o atsilaisvinusią valstybės finansuojamą studijų vietą aukštosios mokyklos nustatyta tvarka užima geriausiai toje pačioje studijų programoje (kryptyje), tame pačiame kurse ir pagal tokią pačią studijų formą valstybės nefinansuojamoje studijų vietoje besimokantis studentas, atitinkantis gero mokymosi kriterijus. Jeigu atsilaisvinusių vietų yra mažiau negu studentų, atitinkančių gero mokymosi kriterijus, pirmenybė teikiama studentams, vertinamuoju laikotarpiu surinkusiems daugiau modulių (dalykų) puikaus pasiekimų lygmens įvertinimų. 
+
+
+
+
+6. Jeigu pirmosios studijų pakopos ir vientisųjų studijų atitinkamos studijų programos (krypties) ir studijų formos studijų kurse nėra valstybės nefinansuojamose studijų vietose studijuojančių studentų, atitinkančių gero mokymosi kriterijus, valstybės finansuojamose studijų vietose studijuojantiems ir neturintiems akademinių skolų studentams valstybės finansavimas studijoms išlieka, nors jų vertinamojo laikotarpio pasiekimų lygmuo yra slenkstinis.
+
+
+Papildyta straipsniu:
+Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
  
 
 
@@ -4856,3 +4934,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 7, 42 ir 52 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 70 straipsnio pakeitimo ir Įstatymo papildymo 70-1 straipsniu įstatymas
