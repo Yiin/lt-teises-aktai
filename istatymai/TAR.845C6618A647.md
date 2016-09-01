@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2015-03-28 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -60,7 +60,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Viešosios tvarkos apsaugos komendantūra – valstybės institucija, sudaryta iš vidaus reikalų sistemos, Valstybės saugumo departamento pareigūnų, krašto apsaugos sistemos institucijų karių ir tarnautojų, kitų valstybės ir savivaldybių institucijų atstovų, siekiant užtikrinti visuomenės saugumą ir viešąją tvarką nepaprastosios padėties metu.
+3. Viešosios tvarkos apsaugos komendantūra – valstybės institucija, sudaryta iš vidaus reikalų sistemos, Valstybės saugumo departamento pareigūnų, krašto apsaugos sistemos institucijų karių ir tarnautojų, kitų valstybės ir savivaldybių institucijų atstovų ir Lietuvos šaulių sąjungos narių (šaulių), siekiant užtikrinti visuomenės saugumą ir viešąją tvarką nepaprastosios padėties metu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
+ 
 
 
 
@@ -689,10 +692,11 @@ Nepaprastosios padėties metu gali būti taikomos šios nepaprastosios priemonė
 
 
 
-4) draudimas išduoti leidimus civilinės apyvartos ginklams įsigyti ir jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentą prie Teisingumo ministerijos, Muitinės departamentą prie Finansų ministerijos ir Lietuvos banką);
+4) draudimas išduoti leidimus civilinės apyvartos ginklams įsigyti ir jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, Lietuvos šaulių sąjungos narius (šaulius), prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentą prie Teisingumo ministerijos, Muitinės departamentą prie Finansų ministerijos ir Lietuvos banką);
 Straipsnio punkto pakeitimai:
 Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
 Nr. XI-650, 2010-01-14, Žin., 2010, Nr. 13-618 (2010-02-02), i. k. 1101010ISTA00XI-650
+Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
  
 
 
@@ -930,3 +934,8 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1544, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04364
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 6 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2 ir 28 straipsnių pakeitimo įstatymas
