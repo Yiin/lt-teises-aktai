@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2014-10-29 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -703,6 +703,7 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. XI-125, 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
 Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
 Nr. XII-161, 2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
+ 
 
 
 
@@ -718,13 +719,15 @@ PirmasIS skirsnis
 ĮSTATYMŲ LEIDYBA 
  
 Seimas rūpinasi, kad būtų laiku priimti nacionaliniam saugumui užtikrinti būtini įstatymai, kiti teisės aktai, galiojančių įstatymų papildymai ir pakeitimai. 
-Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius.
+Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, Valstybės gynimo tarybos nutarimus, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius.
 Seimas įgyvendina nacionalinio saugumo pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę – įstatymais reglamentuoja nacionalinį saugumą užtikrinančių institucijų veiklą.
 Skirsnio pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. XI-1515, 2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
+Skirsnio pakeitimai:
+Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
  
 
 
@@ -795,6 +798,7 @@ Taikos metu kariuomenė:
 – įstatymų nustatytais atvejais ir tvarka gali būti pasiųsta padėti kitoms valstybės ir savivaldybių institucijoms, taip pat įstatymų nustatyta tvarka organizuoja, koordinuoja, vadovauja ir vykdo žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
+Kariuomenės vienetai komplektuojami profesinės ir nuolatinės privalomosios pradinės karo tarnybos kariais. Parengtojo kariuomenės personalo rezervo skaičius ir kartotinis jų rengimas turi atitikti valstybės gynybinius poreikius.
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Į sausumos pajėgas įeina krašto apsaugos savanorių pajėgos, sudarančios kariuomenės aktyvųjį rezervą. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavus Valstybės gynimo tarybos pritarimą ir Vyriausybės įgaliojimą, tvirtina Seimas.
 Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir kitų teisės aktų nustatyta tvarka vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai ir karo policija. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.
@@ -808,6 +812,8 @@ Nr. X-226, 2005-05-26, Žin., 2005, Nr. 72-2591 (2005-06-09)
 Nr. X-1466, 2008-03-20, Žin., 2008, Nr. 38-1378 (2008-04-03)
 Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
+Skyriaus pakeitimai:
+Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
  
 
 
@@ -1054,3 +1060,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1284, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15004
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 7 ir 19 skyrių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 15 ir 18 skyrių pakeitimo įstatymas
