@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2016-06-28 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-10-17
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -2778,7 +2778,10 @@ ELEKTRONINIŲ RYŠIŲ TINKLŲ TIESIMAS, PRIEŽIŪRA IR APSAUGA
 37 straipsnis. Elektroninių ryšių infrastruktūros įrengimo pagrindai
 
 
-1. Elektroninių ryšių tinklų teikėjai turi teisę įrengti elektroninių ryšių infrastruktūrą žemėje, kuri jiems priklauso nuosavybės teise, taip pat jei yra nustatytas servitutas ar elektroninių ryšių tinklų teikėjai turi teisę naudoti žemę kitu pagrindu, nekeisdami žemės paskirties.
+1. Elektroninių ryšių tinklų teikėjai turi teisę įrengti elektroninių ryšių infrastruktūrą žemėje, kuri jiems priklauso nuosavybės teise, taip pat jei yra nustatytas servitutas ar elektroninių ryšių tinklų teikėjai turi teisę naudoti žemę kitu pagrindu, nekeisdami žemės paskirties. Teritorijų planavimo įstatyme numatytais atvejais elektroninių ryšių infrastruktūrai priklausančių bokštų ir stiebų, priskiriamų ypatingiems statiniams, išdėstymui rengiami Elektroninių ryšių infrastruktūros vystymo specialieji planai, kurių organizavimo, rengimo, koregavimo, derinimo, tikrinimo, tvirtinimo tvarką nustato Elektroninių ryšių infrastruktūros vystymo specialiųjų planų rengimo taisyklės, tvirtinamos Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro įsakymu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2345, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13912
+ 
 
 
 
@@ -5056,3 +5059,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 77 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2345, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13912
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 37 straipsnio pakeitimo įstatymas
