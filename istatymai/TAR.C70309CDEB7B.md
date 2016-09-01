@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2015-03-28 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -189,7 +189,7 @@ Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010IST
 
 
 
-6 straipsnis.         Seimo nutarimo ir Respublikos Prezidento dekreto dėl karo padėties įvedimo paskelbimas ir įsigaliojimas 
+6 straipsnis. Seimo nutarimo ir Respublikos Prezidento dekreto dėl karo padėties įvedimo paskelbimas ir įsigaliojimas 
 Pakeistas straipsnio pavadinimas:
 Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
@@ -221,7 +221,7 @@ Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010IST
 
 
 
-7 straipsnis.         Seimo nutarimo ir Respublikos Prezidento dekreto dėl karo padėties atšaukimo paskelbimas ir įsigaliojimas 
+7 straipsnis. Seimo nutarimo ir Respublikos Prezidento dekreto dėl karo padėties atšaukimo paskelbimas ir įsigaliojimas 
 Pakeistas straipsnio pavadinimas:
 Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
  
@@ -286,7 +286,7 @@ Nr. XI-2248, 2012-10-02, Žin., 2012, Nr. 122-6107 (2012-10-20), i. k. 1121010IS
 
 
 
-10 straipsnis.       Žmogaus teisės reikšti savo įsitikinimus, ieškoti informacijos ir ją gauti ar skleisti apribojimas
+10 straipsnis. Žmogaus teisės reikšti savo įsitikinimus, ieškoti informacijos ir ją gauti ar skleisti apribojimas
 
 
 1. Draudžiama ieškoti, gauti, skleisti informaciją apie bet kokius valstybės institucijų ir pareigūnų, kariuomenės veiksmus, karinę bei ekonominę valstybės būklę, karo veiksmų eigą (karinę situaciją) be atitinkamų valstybės institucijų vadovų sutikimo, taip pat įvairiais būdais dauginti, perduoti kitiems asmenims ar kitaip platinti įvairius priešiškus valstybės interesams skelbimus.
@@ -315,9 +315,10 @@ Nr. XI-2248, 2012-10-02, Žin., 2012, Nr. 122-6107 (2012-10-20), i. k. 1121010IS
 
 
 
-2. Specialaus karo komendanto leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, kariniams pareigūnams ir šioje teritorijoje veikiančių karinių vienetų kariams.
+2. Specialaus karo komendanto leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, kariniams pareigūnams, šioje teritorijoje veikiančių karinių vienetų kariams ir Lietuvos šaulių sąjungos nariams (šauliams).
 Straipsnio dalies pakeitimai:
 Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA00XI-757
+Nr. XII-2441, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17528
  
 
 
@@ -423,15 +424,21 @@ Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA
 
 
 
-14 straipsnis.       Teisės vienytis į politines partijas, politines organizacijas, visuomenines organizacijas ar asociacijas ribojimas
+14 straipsnis. Teisės vienytis į politines partijas, politines organizacijas, visuomenines organizacijas ar asociacijas ribojimas
 
 
-1. Politinių partijų ir politinių organizacijų, visuomeninių organizacijų ar asociacijų, veikusių iki karo padėties paskelbimo, veikla šio įstatymo nustatyta tvarka ribojama arba sustabdoma.
+1. Politinių partijų ir politinių organizacijų, visuomeninių organizacijų ar asociacijų, išskyrus Lietuvos šaulių sąjungą, veikusių iki karo padėties paskelbimo, veikla šio įstatymo nustatyta tvarka ribojama arba sustabdoma.
+Straipsnio dalies pakeitimai:
+Nr. XII-2441, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17528
+ 
 
 
 
 
-2. Karo padėties metu asmenims draudžiama vienytis į politines partijas ir politines organizacijas, visuomenines organizacijas ar asociacijas.
+2. Karo padėties metu asmenims draudžiama vienytis į politines partijas ir politines organizacijas, visuomenines organizacijas ar asociacijas, išskyrus Lietuvos šaulių sąjungą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2441, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17528
+ 
 
 
 
@@ -956,7 +963,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-______________
+ 
 
 
  
@@ -1012,3 +1019,8 @@ Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1542, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04360
 Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2441, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17528
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir 14 straipsnių pakeitimo įstatymas
