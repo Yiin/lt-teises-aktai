@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-04-27 iki 2016-08-31
+Suvestinė redakcija nuo 2016-09-01 iki 2016-11-15
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -71,7 +71,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Baziniai kariniai mokymai – privalomoji pradinė karo tarnyba, kurią atlikdamas karo prievolininkas įgyja pagrindinį karinį parengtumą.
+3. Netenka galios 2016-09-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+ 
 
 
 
@@ -233,7 +236,10 @@ PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATLIKIMO TVARKA IR SĄLYGOS
 
 
 
-2) dalyvaujant baziniuose kariniuose mokymuose;
+2) Neteko galios nuo 2016-09-01
+Straipsnio punkto naikinimas:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+ 
 
 
 
@@ -310,7 +316,10 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 6 straipsnis. Šaukimo į nuolatinę privalomąją pradinę karo tarnybą tvarka
 
 
-1. Šaukimas į nuolatinę privalomąją pradinę karo tarnybą vykdomas tik tuo atveju, kai atitinkamiems kalendoriniams metams yra nustatyti didesni negu nulis nuolatinę privalomąją pradinę karo tarnybą atliksiančių karių ribiniai skaičiai. Atsižvelgdamas į Lietuvos Respublikos Seimo (toliau – Seimas) nustatytus ribinius skaičius, nuolatinę privalomąją pradinę karo tarnybą atliksiančių karių skaičių atitinkamiems kalendoriniams metams nustato krašto apsaugos ministras.
+1. Šaukimas į nuolatinę privalomąją pradinę karo tarnybą vykdomas kiekvienais metais. Atsižvelgdamas į Lietuvos Respublikos Seimo (toliau – Seimas) nustatytus ribinius skaičius, nuolatinę privalomąją pradinę karo tarnybą atliksiančių karių skaičių atitinkamiems kalendoriniams metams nustato krašto apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+ 
 
 
 
@@ -402,121 +411,26 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-8 straipsnis. Bazinių karinių mokymų atlikimo sąlygos
-
-
-1. Baziniai kariniai mokymai vykdomi mokomuosiuose kariniuose vienetuose pagal Lietuvos kariuomenės vado patvirtintas programas.
-
-
-
-
-2. Į bazinius karinius mokymus iš neparengtojo kariuomenės personalo rezervo šaukiami karo prievolininkai nuo 19 iki 26 metų (įskaitytinai). Karo prievolininkai, raštu pareiškę norą, į bazinius karinius mokymus šaukiami nuo 18 iki 38 metų (įskaitytinai).
-Straipsnio dalies pakeitimai:
-Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
+8 straipsnis. Neteko galios nuo 2016-09-01
+Straipsnio naikinimas:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
  
 
 
 
 
-3. Bazinių karinių mokymų trukmė – nuo 70 iki 90 dienų. 
-
-
-
-
-4. Baziniuose kariniuose mokymuose dalyvaujantys karo prievolininkai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka aprūpinami apranga, maistu ir tarnybine gyvenamąja patalpa, jiems mokamos privalomosios pradinės karo tarnybos kariams nustatytos išmokos buitinėms išlaidoms ir premijos, taikomos socialinės garantijos.
+9 straipsnis. Neteko galios nuo 2016-09-01
+Straipsnio naikinimas:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
  
 
 
 
 
-
-
-9 straipsnis. Šaukimo į bazinius karinius mokymus tvarka
-
-
-1. Šaukimas į bazinius karinius mokymus vykdomas tik tuo atveju, kai atitinkamiems kalendoriniams metams yra nustatyti didesni negu nulis baziniuose kariniuose mokymuose dalyvausiančių karių ribiniai skaičiai. Atsižvelgdamas į Seimo nustatytus ribinius skaičius, baziniuose kariniuose mokymuose dalyvausiančių karių skaičių atitinkamiems kalendoriniams metams nustato krašto apsaugos ministras.
-
-
-
-
-2. Šaukimo į bazinius karinius mokymus pradžią ir pabaigą nustato krašto apsaugos ministras. Apie šaukimo pradžią ir pabaigą prieš vieną mėnesį iki šaukimo į bazinius karinius mokymus pradžios paskelbiama per krašto apsaugos sistemos institucijų informacinės visuomenės informavimo priemones ir (ar) visuomenės informavimo priemones.
-
-
-
-
-3. Karo prievolininkas nuo 18 metų iki paskyrimo atlikti privalomąją pradinę karo tarnybą datos gali raštu pareikšti norą dalyvauti baziniuose kariniuose mokymuose. Tokį savo pareiškimą jis gali atšaukti iki paskyrimo į karinį vienetą datos. 
-
-
-
-
-4. Šaukimas vykdomas, iki pašaukiamas krašto apsaugos ministro nustatytas baziniuose kariniuose mokymuose dalyvausiančių karių skaičius. Pirmiausia šaukiami baziniuose kariniuose mokymuose norintys dalyvauti karo prievolininkai, jų nelikus, – toliau iš eilės į karo prievolininkų einamųjų kalendorinių metų sąrašą įrašyti noro juose dalyvauti nepareiškę karo prievolininkai.
-
-
-
-
-5. Einamųjų kalendorinių metų šaukimo sąrašas sudaromas į jį atsitiktine tvarka, naudojantis kompiuterių programa, surašant karo prievolininkus, kurie šio įstatymo nustatyta tvarka gali būti pašaukti į bazinius karinius mokymus, išskyrus karo prievolininkus, pareiškusius norą juose dalyvauti. Sudarant einamųjų kalendorinių metų šaukimo sąrašą, užtikrinama, kad į bazinius karinius mokymus šaukiamų karo prievolininkų skaičius būtų proporcingas karo prievolę administruojančios krašto apsaugos sistemos institucijos padalinių administruojamose savivaldybėse paskutinę gyvenamąją vietą deklaravusių karo prievolininkų, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą, išskyrus raštu pareiškusius norą juose dalyvauti, skaičiui. Jeigu į bazinius karinius mokymus šaukiamas karo prievolininkas gyvenamosios vietos nėra deklaravęs, einamųjų kalendorinių metų šaukimo sąrašas sudaromas, atsižvelgiant į jo esamą faktinę gyvenamąją vietą ar iki išvykimo iš Lietuvos Respublikos buvusią gyvenamąją vietą. Einamųjų kalendorinių metų šaukimo sąrašas, jo sudarymo eiga, taip pat kiti duomenys, susiję su šaukimo vykdymu, skelbiami per Lietuvos Respublikos krašto apsaugos ministerijos ir karo prievolę administruojančios krašto apsaugos sistemos institucijos informacinės visuomenės informavimo priemones. Einamųjų kalendorinių metų šaukimo sąrašo sudarymo procedūras stebi visuomenės atstovai, skiriami Vyriausybės nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
+10 straipsnis. Neteko galios nuo 2016-09-01
+Straipsnio naikinimas:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
  
-
-
-
-
-6. Karo prievolininkai skiriami į bazinius karinius mokymus tik teisės aktų nustatyta tvarka patikrinus jų sveikatą ir nustačius, kad jie tinkami dalyvauti baziniuose kariniuose mokymuose.
-
-
-
-
-7. Karo prievolininkai, norintys dalyvauti baziniuose kariniuose mokymuose, šaukiami krašto apsaugos ministro nustatyta tvarka, atsižvelgiant į poreikį. Karo prievolininkai, paskirti į Lietuvos šaulių sąjungos kovinius būrius, atsižvelgiant į Lietuvos šaulių sąjungos vado teikimą, šaukiami pirmumo tvarka. Jiems sudaromos galimybės dalyvauti baziniuose kariniuose mokymuose kartu su kitais atitinkamo kovinio būrio šauliais.
-
-
-
-
-8. Karo prievolininkų, nepareiškusių noro dalyvauti baziniuose kariniuose mokymuose, šaukimo tvarką nustato krašto apsaugos ministras.
- 
-
-
-
-
-
-
-10 straipsnis. Paleidimas iš bazinių karinių mokymų 
-
-
-1. Bazinius karinius mokymus baigę kariai išleidžiami į atsargą ir priskiriami parengtajam kariuomenės personalo rezervui.
-
-
-
-
-2. Karys iš bazinių karinių mokymų paleidžiamas nesibaigus Lietuvos kariuomenės vado nustatytam mokymų laikui ir neįgyja pagrindinio karinio parengtumo, kai:
-
-
-1) jis netenka Lietuvos Respublikos pilietybės;
-
-
-
-
-2) jis dėl sveikatos būklės negali tęsti bazinių karinių mokymų;
-
-
-
-
-3) įsiteisėja teismo nuosprendis, kuriuo jis nuteisiamas už nusikaltimą ir jam skiriama bausmė, dėl kurios jis negali tęsti bazinių karinių mokymų;
-
-
-
-
-4) kario prašymu, kai atsiranda šio įstatymo 15 straipsnio 1 dalies 11–14 punktuose nustatytos aplinkybės.
-
-
-
-
-
-
-3. Paleidimo iš bazinių karinių mokymų tvarką nustato krašto apsaugos ministras.
- 
-
-
 
 
 
@@ -774,12 +688,18 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 16 straipsnis. Alternatyviosios krašto apsaugos tarnybos atlikimo sąlygos
 
 
-1. Alternatyvioji krašto apsaugos tarnyba atliekama vietoj nuolatinės privalomosios pradinės karo tarnybos, bazinių karinių mokymų ir tarnybos paskelbus mobilizaciją.
+1. Alternatyvioji krašto apsaugos tarnyba atliekama vietoj nuolatinės privalomosios pradinės karo tarnybos ir tarnybos paskelbus mobilizaciją.
+Straipsnio dalies pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+ 
 
 
 
 
-2. Alternatyviosios krašto apsaugos tarnybos, atliekamos vietoj nuolatinės privalomosios pradinės karo tarnybos, trukmė – 10 mėnesių, atliekamos vietoj bazinių karinių mokymų, – 4 mėnesiai. Į alternatyviosios krašto apsaugos tarnybos laiką neįskaitomas laikas, kurį alternatyviąją krašto apsaugos tarnybą atliekantis karo prievolininkas be pateisinamos priežasties nebuvo tarnybos vietoje.
+2. Alternatyviosios krašto apsaugos tarnybos, atliekamos vietoj nuolatinės privalomosios pradinės karo tarnybos, trukmė – 10 mėnesių. Į alternatyviosios krašto apsaugos tarnybos laiką neįskaitomas laikas, kurį alternatyviąją krašto apsaugos tarnybą atliekantis karo prievolininkas be pateisinamos priežasties nebuvo tarnybos vietoje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+ 
 
 
 
@@ -807,10 +727,10 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 
 
 
-17 straipsnis. Skyrimas atlikti alternatyviąją krašto apsaugos tarnybą vietoj nuolatinės privalomosios pradinės karo tarnybos ar bazinių karinių mokymų
+17 straipsnis. Skyrimas atlikti alternatyviąją krašto apsaugos tarnybą vietoj nuolatinės privalomosios pradinės karo tarnybos
 
 
-1. Alternatyviąją krašto apsaugos tarnybą pageidaujantys atlikti karo prievolininkai iki šaukimo į nuolatinę privalomąją pradinę karo tarnybą ar bazinius karinius mokymus pradžios gali bet kuriuo metu pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai prašymą atlikti alternatyviąją krašto apsaugos tarnybą. Šis prašymas turi būti grindžiamas religiniais arba pacifistiniais įsitikinimais, neleidžiančiais tarnauti su ginklu.
+1. Alternatyviąją krašto apsaugos tarnybą pageidaujantys atlikti karo prievolininkai iki šaukimo į nuolatinę privalomąją pradinę karo tarnybą pradžios gali bet kuriuo metu pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai prašymą atlikti alternatyviąją krašto apsaugos tarnybą. Šis prašymas turi būti grindžiamas religiniais arba pacifistiniais įsitikinimais, neleidžiančiais tarnauti su ginklu.
 
 
 
@@ -820,15 +740,17 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 
 
 
-3. Karo prievolininkas yra skiriamas atlikti alternatyviąją krašto apsaugos tarnybą, jeigu jis yra atrenkamas į nuolatinę privalomąją pradinę karo tarnybą ar į bazinius kariniuos mokymus, šio įstatymo 6 ar 9 straipsnyje nustatyta tvarka patikrinus jo sveikatą nustatoma, kad jis tinkamas atlikti nuolatinę privalomąją pradinę karo tarnybą ar dalyvauti baziniuose kariniuose mokymuose, jo prašymas atlikti šią tarnybą yra pripažįstamas pagrįstu šio straipsnio 2 dalyje nurodytos komisijos.
+3. Karo prievolininkas yra skiriamas atlikti alternatyviąją krašto apsaugos tarnybą, jeigu jis yra atrenkamas į nuolatinę privalomąją pradinę karo tarnybą, šio įstatymo 6 straipsnyje nustatyta tvarka patikrinus jo sveikatą nustatoma, kad jis tinkamas atlikti nuolatinę privalomąją pradinę karo tarnybą, jo prašymas atlikti šią tarnybą yra pripažįstamas pagrįstu šio straipsnio 2 dalyje nurodytos komisijos.
 
 
 
 
-4. Iki paskyrimo atlikti alternatyviąją krašto apsaugos tarnybą karo prievolininkas gali bet kuriuo metu atšaukti prašymą atlikti šią tarnybą. Tokiu atveju jis skiriamas atlikti nuolatinę privalomąją pradinę karo tarnybą šio įstatymo 6 straipsnyje nustatyta tvarka arba dalyvauti baziniuose kariniuose mokymuose šio įstatymo 9 straipsnyje nustatyta tvarka.
+4. Iki paskyrimo atlikti alternatyviąją krašto apsaugos tarnybą karo prievolininkas gali bet kuriuo metu atšaukti prašymą atlikti šią tarnybą. Tokiu atveju jis skiriamas atlikti nuolatinę privalomąją pradinę karo tarnybą šio įstatymo 6 straipsnyje nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
  
-
-
 
 
 
@@ -903,17 +825,10 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 20 straipsnis. Alternatyviosios krašto apsaugos tarnybos atidėjimas
 
 
-1. Alternatyvioji krašto apsaugos tarnyba, atliekama vietoj nuolatinės privalomosios pradinės karo tarnybos ar bazinių karinių mokymų, atidedama tiems karo prievolininkams, kurių prašymai atlikti alternatyviąją krašto apsaugos tarnybą šio įstatymo 17 straipsnio 2 dalyje nurodytos komisijos yra pripažinti pagrįstais:
-
-
-1) individualia tvarka – šio įstatymo 15 straipsnio 1 dalyje ir 3 dalies 1 punkte nurodytiems karo prievolininkams, taip pat karo prievolininkams, kurie neatrenkami į nuolatinę privalomąją pradinę karo tarnybą pagal šio įstatymo 6 straipsnį ar bazinius karinius mokymus pagal šio įstatymo 9 straipsnį;
-
-
-
-
-2) bendra tvarka kalendoriniams metams – krašto apsaugos ministro įsakymu, jeigu atitinkamiems kalendoriniams metams nustatytas nuolatinę privalomąją pradinę karo tarnybą atliekančių ar baziniuose kariniuose mokymuose dalyvaujančių karių ribinis skaičius yra nulis.
-
-
+1. Alternatyvioji krašto apsaugos tarnyba, atliekama vietoj nuolatinės privalomosios pradinės karo tarnybos, atidedama individualia tvarka šio įstatymo 15 straipsnio 1 dalyje ir 3 dalies 1 punkte nurodytiems karo prievolininkams, taip pat karo prievolininkams, kurie neatrenkami į nuolatinę privalomąją pradinę karo tarnybą pagal šio įstatymo 6 straipsnį, jeigu anksčiau nurodytų karo prievolininkų prašymai atlikti alternatyviąją krašto apsaugos tarnybą šio įstatymo 17 straipsnio 2 dalyje nurodytos komisijos yra pripažinti pagrįstais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+ 
 
 
 
@@ -1762,10 +1677,10 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-41 straipsnis. Lengvatos Lietuvos Respublikos piliečiams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą ar baigusiems bazinius karinius mokymus
+41 straipsnis. Lengvatos Lietuvos Respublikos piliečiams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą
 
 
-1. Nuolatinę privalomąją pradinę karo tarnybą atlikusiems ar bazinius karinius mokymus baigusiems asmenims taikomos šios lengvatos:
+1. Nuolatinę privalomąją pradinę karo tarnybą atlikusiems asmenims taikomos šios lengvatos:
 
 
 1) darbo ir įdarbinimo subsidijavimas; 
@@ -1773,29 +1688,29 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-2) asmenims, atlikusiems nuolatinę privalomąją pradinę karo tarnybą ar baigusiems bazinius karinius mokymus, aukštosios mokyklos gali nustatyti lengvatų, suteikiančių jiems pirmenybę stojant į valstybės finansuojamas studijų vietas;
+2) asmenims, atlikusiems nuolatinę privalomąją pradinę karo tarnybą, aukštosios mokyklos gali nustatyti lengvatų, suteikiančių jiems pirmenybę stojant į valstybės finansuojamas studijų vietas;
 
 
 
 
-3) keliems pretendentams, dalyvaujantiems konkurse į valstybės tarnautojo pareigas, pagal nustatytus atrankos kriterijus surinkus vienodus rezultatus, teikiama pirmenybė atlikusiems nuolatinę privalomąją pradinę karo tarnybą ar baigusiems bazinius karinius mokymus;
+3) keliems pretendentams, dalyvaujantiems konkurse į valstybės tarnautojo pareigas, pagal nustatytus atrankos kriterijus surinkus vienodus rezultatus, teikiama pirmenybė atlikusiems nuolatinę privalomąją pradinę karo tarnybą;
 
 
 
 
-4) asmeniui, atitinkančiam teisės aktuose nustatytus reikalavimus, teikiama pirmenybė priimant į statutinių valstybės tarnautojų profesines mokymo įstaigas ar kitas mokymo įstaigas, kurias baigus suteikiama teisė užimti statutinio valstybės tarnautojo pareigas, taip pat priimant į statutines valstybės tarnautojo pareigas, kai priimama be konkurso.
+4) asmenims, atitinkantiems teisės aktuose nustatytus reikalavimus, teikiama pirmenybė priimant į statutinių valstybės tarnautojų profesines mokymo įstaigas ar kitas mokymo įstaigas, kurias baigus suteikiama teisė užimti statutinio valstybės tarnautojo pareigas, taip pat priimant į statutines valstybės tarnautojo pareigas, kai priimama be konkurso.
 
 
 
 
 
 
-2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą nuostatą, darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius ar bazinius karinius mokymus baigusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami asmenys, nurodyti šio straipsnio 1 dalyje, yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius, o įdarbinusiems bazinius karinius mokymus baigusius, – 3 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo ar bazinių karinių mokymų baigimo datos.
+2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą nuostatą, darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami asmenys, nurodyti šio straipsnio 1 dalyje, yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo datos.
 
 
 
 
-3. Karo prievolininkams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą ar baigusiems bazinius karinius mokymus ir grįžusiems į darbą, taikoma šio straipsnio 2 dalyje nustatyta subsidija darbo užmokesčiui.
+3. Karo prievolininkams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą ir grįžusiems į darbą, taikoma šio straipsnio 2 dalyje nustatyta subsidija darbo užmokesčiui.
 
 
 
@@ -1805,15 +1720,16 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 Straipsnio pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
  
 
 
 
 
-411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių ar baziniuose kariniuose mokymuose dalyvaujančių Lietuvos Respublikos piliečių skatinimas
+411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių Lietuvos Respublikos piliečių skatinimas
 
 
-1. Nuolatinę privalomąją pradinę karo tarnybą atliekantys ar baziniuose kariniuose mokymuose dalyvaujantys asmenys yra skatinami piniginėmis išmokomis, kurias sudaro kas mėnesį skaičiuojamos šio dydžio sumos, priklausančios nuo atliktos tarnybos vertinimo rezultatų:
+1. Nuolatinę privalomąją pradinę karo tarnybą atliekantys asmenys yra skatinami piniginėmis išmokomis, kurias sudaro kas mėnesį skaičiuojamos šio dydžio sumos, priklausančios nuo atliktos tarnybos vertinimo rezultatų:
 
 
 1) 4 bazinės socialinės išmokos – asmenims, kurių tarnyba įvertinta labai gerai;
@@ -1821,7 +1737,7 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-2) 3 bazinės socialinės išmokos – asmenims, kurių tarnyba įvertina gerai;
+2) 3 bazinės socialinės išmokos – asmenims, kurių tarnyba įvertinta gerai;
 
 
 
@@ -1833,25 +1749,21 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-2. Savo noru nuolatinę privalomąją pradinę karo tarnybą atliekantiems ar baziniuose kariniuose mokymuose dalyvaujantiems asmenims, kurie nebuvo įrašyti į einamųjų kalendorinių metų šaukimo sąrašą, šio straipsnio 1 dalyje nurodytos išmokos didinamos 30 procentų. Nuolatinę privalomąją pradinę karo tarnybą atliekantiems ar baziniuose kariniuose mokymuose dalyvaujantiems asmenims, kurie buvo įrašyti į einamųjų kalendorinių metų šaukimo sąrašą ir kurie norą atlikti nuolatinę privalomąją pradinę karo tarnybą ar dalyvauti baziniuose kariniuose mokymuose pareiškė iki įsakymo dėl paskyrimo į karinį vienetą pasirašymo dienos, šio straipsnio 1 dalyje nurodytos išmokos didinamos 15 procentų.
-Straipsnio dalies pakeitimai:
-Nr. XII-2310, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10421
- 
+2. Savo noru nuolatinę privalomąją pradinę karo tarnybą atliekantiems asmenims, kurie nebuvo įrašyti į einamųjų kalendorinių metų šaukimo sąrašą, šio straipsnio 1 dalyje nurodytos išmokos didinamos 30 procentų. Nuolatinę privalomąją pradinę karo tarnybą atliekantiems asmenims, kurie buvo įrašyti į einamųjų kalendorinių metų šaukimo sąrašą ir kurie norą atlikti nuolatinę privalomąją pradinę karo tarnybą pareiškė iki įsakymo dėl paskyrimo į karinį vienetą pasirašymo dienos, šio straipsnio 1 dalyje nurodytos išmokos didinamos 15 procentų.
 
 
 
 
-3. Piniginės išmokos, nurodytos šio straipsnio 1 dalyje, yra apskaičiuojamos proporcingai asmens nuolatinėje privalomoje pradinėje karo tarnyboje ar baziniuose kariniuose mokymuose ištarnautam laikui ir išmokamos nuolatinę privalomąją pradinę karo tarnybą atlikusiems ar bazinius karinius mokymus baigusiems asmenims.
+3. Piniginės išmokos, nurodytos šio straipsnio 1 dalyje, yra apskaičiuojamos proporcingai asmens nuolatinėje privalomojoje pradinėje karo tarnyboje ištarnautam laikui ir išmokamos nuolatinę privalomąją pradinę karo tarnybą atlikusiems asmenims.
 
 
 
 
-4. Piniginių išmokų, nurodytų šio straipsnio 1 dalyje, mokėjimo tvarką ir nuolatinę privalomąją pradinę karo tarnybą atliekančių ar baziniuose kariniuose mokymuose dalyvaujančių asmenų tarnybos vertinimo kriterijus nustato krašto apsaugos ministras ar jo įgaliotas asmuo.
-TAR pastaba. 411 straipsnyje nustatyta tvarka skatinami asmenys, į nuolatinę privalomąją pradinę karo tarnybą ar bazinius karinius mokymus pašaukti po įstatymo XII-1607 įsigaliojimo 2015-04-21.
+4. Piniginių išmokų, nurodytų šio straipsnio 1 dalyje, mokėjimo tvarką ir nuolatinę privalomąją pradinę karo tarnybą atliekančių asmenų tarnybos vertinimo kriterijus nustato krašto apsaugos ministras ar jo įgaliotas asmuo.
 
 
-Papildyta straipsniu:
-Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
+Straipsnio pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
  
 
 
@@ -1995,3 +1907,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 32, 33, 34, 37 ir 39 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2310, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10421
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 41-1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 2, 4, 6, 16, 17, 20, 41, 41-1 straipsnių pakeitimo ir 8, 9, 10 straipsnių pripažinimo netekusiais galios įstatymas
