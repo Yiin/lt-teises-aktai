@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-09-19
+Suvestinė redakcija nuo 2016-09-20 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -24,7 +24,6 @@ DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES
  
 2004 m. balandžio 29 d. Nr. IX-2206 Vilnius
  
-TAR pastaba. Užsieniečių prašymai suteikti prieglobstį, pateikti iki įstatymo Nr. XII-2080 (2015-11-26) įsigaliojimo (2015-12-01), baigiami nagrinėti ir atitinkami sprendimai priimamai vadovaujantis iki įstatymo Nr. XII-2080 (2015-11-26) įsigaliojimo dienos (2015-12-01) galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ ir kitų teisės aktų nuostatomis.
  
 
 
@@ -402,7 +401,9 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-292. Užsieniečių registracijos centras – įstaiga šio Įstatymo nustatytais pagrindais teismo sprendimu sulaikytiems užsieniečiams laikinai laikyti ir teismo arba Migracijos departamento sprendimu užsieniečiams laikinai apgyvendinti, kitoms materialinėms priėmimo sąlygoms užtikrinti, tyrimui dėl užsieniečių asmens tapatybės ir dėl atvykimo į Lietuvos Respubliką aplinkybių atlikti, užsieniečių apskaitai tvarkyti ir jų grąžinimui bei išsiuntimui iš Lietuvos Respublikos vykdyti. 
+292. Neteko galios nuo 2016-09-20
+Straipsnio dalies naikinimas:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Papildyta straipsnio dalimi:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
  
@@ -418,7 +419,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-31. Užsieniečio sulaikymas – užsieniečio laikinas apgyvendinimas Užsieniečių registracijos centre, apribojant jo judėjimo laisvę šio Įstatymo nustatytais pagrindais ir terminais.
+31. Užsieniečio sulaikymas – užsieniečio laikinas apgyvendinimas Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), apribojant jo judėjimo laisvę šio Įstatymo nustatytais pagrindais ir terminais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -473,7 +477,10 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 4 straipsnis. Užsieniečių buvimo ir gyvenimo Lietuvos Respublikoje kontrolė
 
 
-1. Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja policija, Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas), Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), bendradarbiaudami su Lietuvos Respublikos valstybės ir savivaldybių institucijomis ir įstaigomis.
+1. Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja policija, Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas), Valstybės sienos apsaugos tarnyba, bendradarbiaudami su Lietuvos Respublikos valstybės ir savivaldybių institucijomis ir įstaigomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -2512,6 +2519,9 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
  
 
 
+Straipsnio pakeitimas:
+Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
+Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 Straipsnio pakeitimai:
 Nr. XII-1193, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14279
  
@@ -3437,6 +3447,10 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 
 
+Straipsnio pakeitimas:
+Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+ 
 Straipsnio pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
  
@@ -3643,22 +3657,20 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 67 straipsnis. Prašymo suteikti prieglobstį pateikimas
 
 
-1. Užsieniečio prašymas suteikti prieglobstį gali būti pateiktas: 
+1. Užsieniečio prašymas suteikti prieglobstį gali būti pateiktas:
 
 
-1) Lietuvos Respublikos pasienio kontrolės punktuose arba Lietuvos Respublikos teritorijoje, kurioje galioja pasienio teisinis režimas, – Valstybės sienos apsaugos tarnybai;
-
-
-
-
-2) teritorinei policijos įstaigai;
+1) pasienio kontrolės punktuose arba Lietuvos Respublikos teritorijoje, kurioje galioja pasienio teisinis režimas, – Valstybės sienos apsaugos tarnybai;
 
 
 
 
-3) Užsieniečių registracijos centrui.
+2) Lietuvos Respublikos teritorijoje, išskyrus nurodytą šios dalies 1 punkte, – Valstybės sienos apsaugos tarnybai ar teritorinei policijos įstaigai.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -3852,7 +3864,10 @@ Prieglobsčio prašytojui, neteisėtai atvykusiam į Lietuvos Respublikos terito
 
 
 
-7) nemokamai gauti būtinąją medicinos pagalbą, psichologinę pagalbą ir socialines paslaugas Užsieniečių registracijos centre arba Pabėgėlių priėmimo centre;
+7) nemokamai gauti būtinąją medicinos pagalbą, psichologinę pagalbą ir socialines paslaugas Valstybės sienos apsaugos tarnyboje arba Pabėgėlių priėmimo centre; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -3929,7 +3944,10 @@ Prieglobsčio prašytojui, neteisėtai atvykusiam į Lietuvos Respublikos terito
 
 
 
-6. Prieglobsčio prašytojui, nevykdančiam pareigų, išvardytų šio straipsnio 3 dalies 4–6 punktuose, ir (arba) nesilaikančiam apgyvendinimo Užsieniečių registracijos centre arba Pabėgėlių priėmimo centre taisyklių, socialinės apsaugos ir darbo ministro nustatyta tvarka gali būti apribotas arba nutrauktas šio straipsnio 1 dalies 8 punkte numatytos piniginės pašalpos mokėjimas. 
+6. Prieglobsčio prašytojui, nevykdančiam pareigų, išvardytų šio straipsnio 3 dalies 4–6 punktuose, ir (arba) nesilaikančiam apgyvendinimo Valstybės sienos apsaugos tarnyboje arba Pabėgėlių priėmimo centre taisyklių, socialinės apsaugos ir darbo ministro nustatyta tvarka gali būti apribotas arba nutrauktas šio straipsnio 1 dalies 8 punkte numatytos piniginės pašalpos mokėjimas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 Straipsnio pakeitimai:
@@ -4188,13 +4206,18 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-2. Prieglobsčio prašytojai apgyvendinami Užsieniečių registracijos centre. Prieglobsčio prašytojai gali būti apgyvendinami ir kitose apgyvendinimo vietose Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Prieglobsčio prašytojui Migracijos departamento sprendimu gali būti leista apsigyventi ir jo pasirinktoje gyvenamojoje vietoje, jeigu pats prieglobsčio prašytojas to pageidauja. 
-TAR pastaba. 2 dalis įsigalioja 2016-01-01.
+2. Prieglobsčio prašytojai apgyvendinami Valstybės sienos apsaugos tarnyboje. Prieglobsčio prašytojai gali būti apgyvendinami ir kitose apgyvendinimo vietose Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Prieglobsčio prašytojui Migracijos departamento sprendimu gali būti leista apsigyventi ir jo pasirinktoje gyvenamojoje vietoje, jeigu pats prieglobsčio prašytojas to pageidauja. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
 
-3. Užsieniečių laikino apgyvendinimo Užsieniečių registracijos centre sąlygas ir tvarką nustato vidaus reikalų ministras.
+3. Užsieniečių laikino apgyvendinimo Valstybės sienos apsaugos tarnyboje sąlygas ir tvarką nustato vidaus reikalų ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -4361,9 +4384,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 84 straipsnis. Prašymo suteikti prieglobstį nagrinėjimo sustabdymas ir atnaujinimas 
 
 
-1. Prieglobsčio prašytojo prašymo suteikti prieglobstį nagrinėjimas sustabdomas, jei prieglobsčio prašytojas be leidimo išvyksta iš Užsieniečių registracijos centro, Pabėgėlių priėmimo centro ar kitos pagal Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskirtos apgyvendinimo vietos arba negrįžta į šiuos centrus ar Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskirtą apgyvendinimo vietą ilgiau kaip 72 valandas. 
+1. Prieglobsčio prašytojo prašymo suteikti prieglobstį nagrinėjimas sustabdomas, jeigu prieglobsčio prašytojas be leidimo išvyksta iš Valstybės sienos apsaugos tarnybos, Pabėgėlių priėmimo centro ar kitos pagal Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskirtos apgyvendinimo vietos arba negrįžta į šias apgyvendinimo vietas ilgiau kaip 72 valandas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
  
 
 
@@ -4374,9 +4398,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-3. Prašymo suteikti prieglobstį nagrinėjimas atnaujinamas prieglobsčio prašytojo prašymu, jei šio straipsnio 1 dalyje nurodytas prieglobsčio prašytojas grįžo į Užsieniečių registracijos centrą, Pabėgėlių priėmimo centrą ar kitą pagal Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskirtą apgyvendinimo vietą  arba atsirado galimybė susisiekti su šio straipsnio 2 dalyje nurodytu prieglobsčio prašytoju ir nuo sprendimo sustabdyti prašymo suteikti prieglobstį nagrinėjimą nepraėjo 9 mėnesiai. 
+3. Prašymo suteikti prieglobstį nagrinėjimas atnaujinamas prieglobsčio prašytojo prašymu, jeigu šio straipsnio 1 dalyje nurodytas prieglobsčio prašytojas grįžo į Valstybės sienos apsaugos tarnybą, Pabėgėlių priėmimo centrą ar kitą pagal Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskirtą apgyvendinimo vietą arba atsirado galimybė susisiekti su šio straipsnio 2 dalyje nurodytu prieglobsčio prašytoju ir nuo sprendimo sustabdyti prašymo suteikti prieglobstį nagrinėjimą nepraėjo 9 mėnesiai.
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
  
 
 
@@ -6049,7 +6074,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-7) užsienietis, apgyvendintas Užsieniečių registracijos centre netaikant judėjimo laisvės apribojimų, pažeidė laikino išvykimo iš Užsieniečių registracijos centro tvarką;
+7) užsienietis, apgyvendintas Valstybės sienos apsaugos tarnyboje netaikant judėjimo laisvės apribojimų, pažeidė laikino išvykimo iš Valstybės sienos apsaugos tarnybos tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -6094,7 +6122,10 @@ Nr. XII-548, 2013-10-10, Žin., 2013, Nr. 111-5488 (2013-10-24)
 
 
 
-2. Ilgiau kaip 48 valandoms užsienietis teismo sprendimu sulaikomas Užsieniečių registracijos centre.
+2. Ilgiau kaip 48 valandoms užsienietis teismo sprendimu sulaikomas Valstybės sienos apsaugos tarnyboje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -6165,7 +6196,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-5) apgyvendinti užsienietį Užsieniečių registracijos centre netaikant judėjimo laisvės apribojimų.
+5) apgyvendinti užsienietį Valstybės sienos apsaugos tarnyboje netaikant judėjimo laisvės apribojimų.
+Straipsnio punkto pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -6221,7 +6255,10 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 117 straipsnis. Sprendimo sulaikyti užsienietį apskundimas
 
 
-1. Užsienietis apylinkės teismo sprendimą sulaikyti jį arba pratęsti jo sulaikymo terminą, arba taikyti jam alternatyvią sulaikymui priemonę turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Skundas gali būti pateikiamas per Užsieniečių registracijos centrą. Užsieniečių registracijos centras užsieniečio skundą perduoda Lietuvos vyriausiajam administraciniam teismui. 
+1. Užsienietis apylinkės teismo sprendimą sulaikyti jį arba pratęsti jo sulaikymo terminą, arba taikyti jam alternatyvią sulaikymui priemonę turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Skundas gali būti pateikiamas per Valstybės sienos apsaugos tarnybą, kuri užsieniečio skundą perduoda Lietuvos vyriausiajam administraciniam teismui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
 
 
 
@@ -6237,10 +6274,11 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 118 straipsnis. Sprendimo sulaikyti užsienietį pakartotinis svarstymas 
 
 
-1. Išnykus užsieniečio sulaikymo pagrindams, užsienietis turi teisę, o institucija, kurios žinioje yra sulaikytas užsienietis, nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą su prašymu pakartotinai svarstyti sprendimą sulaikyti užsienietį. Išnykus prieglobsčio prašytojo sulaikymo pagrindams, institucija, kurios žinioje yra sulaikytas prieglobsčio prašytojas, nedelsdama privalo kreiptis į apylinkės teismą pagal prieglobsčio prašytojo buvimo vietą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją. Jeigu užsienietis, kuris yra sulaikytas šio Įstatymo 113 straipsnio 1 ir 2 dalyse nurodytais pagrindais, pateikia prašymą suteikti prieglobstį, Užsieniečių registracijos centras nedelsdamas privalo kreiptis į apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją.
+1. Išnykus užsieniečio sulaikymo pagrindams, užsienietis turi teisę, o institucija, kurios žinioje yra sulaikytas užsienietis, nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą su prašymu pakartotinai svarstyti sprendimą sulaikyti užsienietį. Išnykus prieglobsčio prašytojo sulaikymo pagrindams, institucija, kurios žinioje yra sulaikytas prieglobsčio prašytojas, nedelsdama privalo kreiptis į apylinkės teismą pagal prieglobsčio prašytojo buvimo vietą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją. Jeigu užsienietis, kuris yra sulaikytas šio Įstatymo 113 straipsnio 1 ir 2 dalyse nurodytais pagrindais, pateikia prašymą suteikti prieglobstį, Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją.
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
  
 
 
@@ -7736,4 +7774,9 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
