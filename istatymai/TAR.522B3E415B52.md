@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-09-29
+Suvestinė redakcija nuo 2016-09-30 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1463,12 +1463,18 @@ Nr. XII-747, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00063
 
 
 
-3. Teisėjas gali dalyvauti įstatymų, tarptautinių sutarčių, taip pat kitų teisės aktų projektų rengimo komisijose (grupėse), jei tai netrukdo atlikti teisėjo pareigas. Apie tai teisėjas praneša teismo, kuriame jis dirba, pirmininkui. Teisės aktų nustatyta tvarka teisėjas gali atstovauti Lietuvos valstybei tarptautinėse organizacijose.
+3. Teisėjas gali dalyvauti įstatymų, tarptautinių sutarčių, taip pat kitų teisės aktų projektų rengimo komisijose (grupėse), dalyvauti Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, susijusiuose su teisingumo sistemos ir teismų veiklos tobulinimu, jei tai netrukdo atlikti teisėjo pareigas ir yra suderinama su teisėjo nepriklausomumu ir nešališkumu. Apie tai teisėjas praneša teismo, kuriame jis dirba, pirmininkui. Teisės aktų nustatyta tvarka teisėjas gali atstovauti Lietuvos valstybei tarptautinėse organizacijose. Lietuvos Respublikos tarptautinių sutarčių numatytais atvejais teisėjas gali eiti ne visą darbo laiką dirbančio tarptautinio teismo teisėjo pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2628, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24200
+ 
 
 
 
 
-4. Teisėjas negali gauti jokio kito atlyginimo, išskyrus teisėjo atlyginimą bei užmokestį už pedagoginę ar kūrybinę veiklą.
+4. Teisėjas negali gauti jokio kito atlyginimo, išskyrus teisėjo (įskaitant ne visą darbo laiką dirbantį tarptautinio teismo teisėją) atlyginimą bei užmokestį už pedagoginę ar kūrybinę veiklą. Teisėjui nemokamas Lietuvos teismo teisėjo atlyginimas už tarptautinio teismo teisėjo pareigų ėjimą, jei už tai jis gauna tarptautinio teismo teisėjo atlyginimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2628, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24200
+ 
 
 
 
@@ -1964,11 +1970,43 @@ Nr. XII-544, 2013-10-08, Žin., 2013, Nr. 109-5364 (2013-10-17)
 61 straipsnis. Buvusio teisėjo skyrimo į teisėjo pareigas ypatumai 
 
 
-Buvęs bet kurio aukštesnės pakopos teismo teisėjas, atleistas iš pareigų savo noru, išrinktas į kitas pareigas arba jo sutikimu perkeltas į kitą darbą, be atrankos, laikantis šiame Įstatyme nustatytos teisėjo skyrimo į pareigas ir atleidimo iš pareigų tvarkos, gali būti paskirtas tos pačios ar bet kurio žemesnės pakopos teismo teisėju, jei nuo darbo teisėju pabaigos nepraėjo penkeri metai. Jei į tą pačią laisvą teisėjo vietą pageidauja būti paskirti keli buvę teisėjai ar teisėjai, skiriami pagal šio Įstatymo 64 straipsnį, sprendžiant paskyrimo klausimą taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka.
+1. Buvęs teisėjas, atleistas iš pareigų savo noru, gali būti be atrankos, laikantis šiame Įstatyme nustatytos teisėjo skyrimo į pareigas ir atleidimo iš pareigų tvarkos, paskirtas tos pačios ar bet kurio žemesnės pakopos teismo teisėju, jei nuo darbo teisėju pabaigos nepraėjo penkeri metai.
+
+
+
+
+2. Buvęs teisėjas, atleistas iš pareigų dėl jo išrinkimo, perkėlimo ar paskyrimo į šio straipsnio 3 dalyje nurodytas pareigas, gali būti be atrankos ir egzamino, laikantis šiame Įstatyme nustatytos teisėjo skyrimo į pareigas ir atleidimo iš pareigų tvarkos, jo prašymu paskirtas tos pačios ar bet kurio žemesnės pakopos teismo teisėju, jei nuo pareigų, į kurias jis išrinktas, perkeltas ar paskirtas, ėjimo pabaigos nepraėjo dveji metai. Tokios teisės neturi asmenys, kurie pagal šio Įstatymo 52 straipsnį negali būti laikomi nepriekaištingos reputacijos. 
+
+
+
+
+3. Buvęs teisėjas gali būti pagal šio straipsnio 2 dalį paskirtas tos pačios ar bet kurio žemesnės pakopos teismo teisėju, jei jis buvo atleistas iš teisėjo pareigų savo noru dėl jo išrinkimo, perkėlimo ar paskyrimo: 
+
+
+1) į Seimo ar Respublikos Prezidento skiriamo valstybės institucijos ar įstaigos vadovo, kito Seimo ar Respublikos Prezidento skiriamo valstybės pareigūno, Seimo ar Respublikos Prezidento skiriamo valstybinės (nuolatinės) komisijos ar tarybos pirmininko, pirmininko pavaduotojo ar nario, taip pat pagal specialų įstatymą įsteigtos komisijos, tarybos, fondo valdybos pirmininko ar nario, politinio (asmeninio) pasitikėjimo valstybės tarnautojo, valstybės tarnautojo statusą turinčio įstaigos vadovo, priimto į pareigas įstatyme nustatytai kadencijai, pareigas;
+
+
+
+
+2) dirbti teisinį darbą, kaip jis suprantamas pagal šio Įstatymo 53 straipsnį, tarptautinėje organizacijoje ar institucijoje, Europos Sąjungos institucijoje ar įstaigoje, Europos Komisijos ar Tarybos įsteigtoje institucijoje, Europos Komisijos ir Europos Sąjungos valstybių narių bendrai įsteigtoje organizacijoje (konsorciume), civilinėje tarptautinėje operacijoje ar misijoje (toliau – tarptautinė institucija) arba užsienio valstybės institucijoje;
+
+
+
+
+3) dirbti teisinį darbą, kaip jis suprantamas pagal šio Įstatymo 53 straipsnį, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat dirbti į specialiąsias misijas.
+
+
+
+
+
+
+4. Kai į tą pačią laisvą teisėjo vietą šiame straipsnyje nustatytais pagrindais pageidauja būti paskirti keli buvę teisėjai ar teisėjai, skiriami pagal šio Įstatymo 64 straipsnį, sprendžiant paskyrimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
+Straipsnio pakeitimai:
+Nr. XII-2628, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24200
  
 
 
@@ -3889,7 +3927,7 @@ Nr. XII-748, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00013
 
 
 
-3) Teisėjų garbės teismas.
+3) Teisėjų garbės teismas;
 
 
 
@@ -5093,3 +5131,13 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 51 ir 53-2 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
 Lietuvos Respublikos teismų įstatymo Nr. I-480 22, 23, 27, 31, 32, 33 straipsnių pakeitimo ir 24, 25, 26 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 14, 28, 34, 36, 41, 45, 55-1, 56, 63, 65, 70, 80, 101, 107, 114, 120 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 114-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2628, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24200
+Lietuvos Respublikos teismų įstatymo Nr. I-480 48 ir 61 straipsnių pakeitimo įstatymas
