@@ -21,14 +21,9 @@ SRITYJE, ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
- 
-TAR pastaba. Iki įstatymo (Nr.XII-1180) įsigaliojimo (2015-01-01) pradėtos pirkimų procedūros tęsiamos pagal iki šio įstatymo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1180, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13564
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 24 ir 50 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS 
 VIEŠŲJŲ PIRKIMŲ, ATLIEKAMŲ GYNYBOS IR SAUGUMO SRITYJE, ĮSTATYMAS
@@ -2236,7 +2231,10 @@ Nr. XII-1026, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10481
 
 
 
-6) su įslaptinta informacija susijusių pirkimų atvejais nustatyti, kad nebus kviečiami pateikti pasiūlymų kandidatai, kurie yra registruoti ir veikia valstybėse, su kuriomis Lietuvos Respublika nėra sudariusi dvišalių sutarčių dėl abipusės informacijos apsaugos, išskyrus Valstybės ir tarnybos paslapčių įstatymo 4 straipsnyje nustatytus atvejus, taip pat kandidatai, kurie neturi Valstybės ir tarnybos paslapčių įstatyme nustatyto įmonės patikimumo pažymėjimo, suteikiančio teisę susipažinti ir dirbti su atitinkama slaptumo žyma žymima informacija.
+6) su įslaptinta informacija susijusių pirkimų atvejais nustatyti, kad nebus kviečiami pateikti pasiūlymų kandidatai, kurie yra registruoti ir veikia valstybėse, su kuriomis Lietuvos Respublika nėra sudariusi dvišalių sutarčių dėl abipusės informacijos apsaugos, išskyrus Valstybės ir tarnybos paslapčių įstatymo 4 straipsnyje nustatytus atvejus, taip pat kandidatai, kurie neturi Valstybės ir tarnybos paslapčių įstatyme nustatyto tiekėjo patikimumo pažymėjimo ar įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančios pažymos.
+Straipsnio punkto pakeitimai:
+Nr. XII-2381, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14742
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2343,7 +2341,10 @@ Nr. XII-1026, 2014-07-15, paskelbta TAR 2014-07-24, i. k. 2014-10481
 
 
 
-4. Perkančioji organizacija pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 2 dalies 5 punkte nurodytų aplinkybių nėra, kaip įrodymą priima įmonės patikimumą patvirtinantį pažymėjimą, leidimą dirbti ar susipažinti su įslaptinta informacija ar asmens patikimumo pažymėjimą. 
+4. Perkančioji organizacija pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog šio straipsnio 2 dalies 5 punkte nurodytų aplinkybių nėra, kaip įrodymą priima tiekėjo patikimumo pažymėjimą, įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančią pažymą ar tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2381, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14742
+ 
 
 
 
@@ -4273,3 +4274,8 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1180, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13564
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 24 ir 50 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2381, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14742
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 32 ir 33 straipsnių pakeitimo įstatymas
