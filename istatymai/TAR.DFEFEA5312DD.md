@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-09-30
+Įstatymas netenka galios 2019-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1811, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21825
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymo Nr. IX-1669 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2016-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -104,7 +109,10 @@ CIVILINĖS KRAŠTO APSAUGOS TARNYBOS ATLIKIMO SĄLYGOS
 
 4) pagal sveikatos būklę yra tinkamas civilinei krašto apsaugos tarnybai;
 
-5) atitinka teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimą – kai pagal jo pareigas tokį leidimą arba pažymėjimą būtina turėti;
+5) atitinka reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, – kai pagal jo pareigas tokį leidimą būtina turėti;
+Straipsnio punkto pakeitimai:
+Nr. XII-2376, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14736
+ 
 
 6) yra ne jaunesnis kaip 18 metų ir ne vyresnis kaip Valstybinių socialinio draudimo pensijų įstatyme nustatyto senatvės pensijos amžiaus. 
 
@@ -603,4 +611,9 @@ Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 6 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1449, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20789
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 2, 3, 4, 8, 10, 12, 15, 16, 17, 18, 19, 20, 22 straipsnių pakeitimo ir Statuto papildymo 18-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2376, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14736
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 3 straipsnio pakeitimo įstatymas
 
