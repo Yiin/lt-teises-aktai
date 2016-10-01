@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2014-05-09 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2018-10-04
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -161,7 +161,10 @@ REFERENDUMO INICIJAVIMAS IR PASKELBIMAS
 
 4. Jeigu grupės prašyme pažymima, kad referendumu priimti teikiamo sprendimo tekstas yra preliminarus, tuo pat metu grupės atstovų prašymu Seimo kanceliarijoje per kiek įmanoma trumpesnį laiką, bet ne vėliau kaip iki Vyriausiosios rinkimų komisijos posėdžio, kuriame sprendžiamas grupės įregistravimo klausimas, dienos, turi būti suteikta reikalinga pagalba galutiniam sprendimo tekstui parengti. Sprendimo tekstas yra laikomas galutiniu, kai jį pasirašo visi grupės nariai.
 
-5. Vyriausioji rinkimų komisija ne vėliau kaip per 5 darbo dienas nuo grupės įregistravimo turi išduoti jai piliečių parašų rinkimo lapus.
+5. Vyriausioji rinkimų komisija ne vėliau kaip per 5 darbo dienas nuo grupės įregistravimo turi išduoti jai piliečių parašų rinkimo lapus, taip pat sukurti Vyriausiosios rinkimų komisijos informacinėje sistemoje prieigą prie elektroninės formos piliečių parašų rinkimo lapo ir sudaryti galimybę jame pasirašyti.
+Straipsnio dalies pakeitimai:
+Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
+ 
 
 6. Piliečių reikalavime siūlomo teikti referendumui sprendimo teksto keisti neleidžiama.
 
@@ -171,7 +174,8 @@ REFERENDUMO INICIJAVIMAS IR PASKELBIMAS
 11 straipsnis. Piliečių parašų rinkimas
 
 1. Vyriausiosios rinkimų komisijos išduodamame piliečių parašų rinkimo lape turi būti toks reikalavimo tekstas:
-Aš, Lietuvos Respublikos pilietis (-ė), patvirtinu, kad remiu reikalavimą paskelbti (nurodoma referendumo rūšis) referendumą dėl (pateikiamas visas referendumui teikiamo sprendimo tekstas). 
+Aš, Lietuvos Respublikos pilietis (-ė), patvirtinu, kad remiu reikalavimą paskelbti (nurodoma referendumo rūšis) referendumą dėl (pateikiamas visas referendumui teikiamo sprendimo tekstas).
+ 
 
  Eil. Nr. 
  Piliečio pavardė, vardas 
@@ -183,26 +187,24 @@ Aš, Lietuvos Respublikos pilietis (-ė), patvirtinu, kad remiu reikalavimą pas
 
  
 
-2. Rinkimų lapo pabaigoje turi būti parašus rinkusio piliečio vardas ir pavardė, piliečio paso arba asmens tapatybės kortelės numeris, gyvenamoji vieta, parašas. 
+2. Piliečių parašų rinkimo lapo pabaigoje turi būti parašus rinkusio piliečio vardas ir pavardė, piliečio paso arba asmens tapatybės kortelės numeris, gyvenamoji vieta, parašas. 
 
-3. Grupė, remdamasi registracijos akto nuorašu, turi teisę daryti atitinkamus pranešimus visuomenės informavimo priemonėse ir organizuoti piliečių parašų rinkimą.
+3. Grupė, remdamasi registracijos akto nuorašu, turi teisę daryti atitinkamus pranešimus visuomenės informavimo priemonėse ir organizuoti piliečių parašų rinkimą. Grupės įgalioti atstovai turi teisę rinkti piliečių parašus viešose vietose, piliečių sutikimu – jų gyvenamosiose patalpose.
 
-4. Kiekvieną tokį reikalavimą gali pasirašyti rinkimų teisę turintis pilietis. Piliečių parašų skaičius neribojamas, tačiau jų turi būti ne mažiau kaip 300 tūkstančių. Pilietis savo duomenis įrašo pats ir pasirašo. Jeigu pilietis dėl fizinio trūkumo negali pats įrašyti savo duomenų ir pasirašyti, jo prašymu tą padaro kitas pilietis. Šis faktas turi būti pažymimas atitinkamu įrašu piliečių parašų rinkimų lape bei patvirtinamas piliečių parašus rinkusio piliečio parašu. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
- 
+4. Kiekvieną tokį reikalavimą gali pasirašyti rinkimų teisę turintis pilietis. Piliečių parašų skaičius neribojamas, tačiau jų turi būti ne mažiau kaip 300 tūkstančių. Pilietis savo duomenis įrašo pats ir pasirašo. Pilietis taip pat gali Vyriausiosios rinkimų komisijos nustatyta tvarka reikalavimą pasirašyti elektroninio ryšio priemonėmis. Jeigu pilietis dėl fizinio trūkumo negali pats įrašyti savo duomenų ir pasirašyti, jo prašymu tą padaro kitas pilietis. Šis faktas turi būti pažymimas atitinkamu įrašu piliečių parašų rinkimo lape ir patvirtinamas piliečių parašus rinkusio piliečio parašu.
 
-5. Piliečių iniciatyvos teisei paskelbti referendumą įgyvendinti nustatomas 3 mėnesių terminas. Jis skaičiuojamas nuo piliečių parašų rinkimo lapų išdavimo Vyriausiojoje rinkimų komisijoje dienos. 
+5. Šio straipsnio 1 dalyje nustatytus reikalavimus atitinkančiame elektroninės formos piliečių parašų rinkimo lape per šio straipsnio 6 dalyje nurodytą terminą piliečiai turi teisę pasirašyti Vyriausiosios rinkimų komisijos informacinėje sistemoje elektroninio ryšio priemonėmis Vyriausiosios rinkimų komisijos nustatyta tvarka. Vyriausioji rinkimų komisija turi užtikrinti piliečių, elektroninio ryšio priemonėmis pasirašančių elektroninės formos piliečių parašų rinkimo lape, duomenų apsaugą. Šie duomenys yra tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos elektroninių ryšių įstatymu ir kitais teisės aktais. 
 
-6. Piliečių reikalavimus paskelbti referendumą kaupia grupė. Per šio straipsnio 5 dalyje nustatytą terminą surinkus 300 tūkstančių piliečių parašų, grupė surašo baigiamąjį aktą ir kartu su piliečių reikalavimais perduoda Vyriausiajai rinkimų komisijai.
+6. Piliečių iniciatyvos teisei paskelbti referendumą įgyvendinti nustatomas 6 mėnesių terminas. Jis skaičiuojamas nuo piliečių parašų rinkimo lapų išdavimo, įskaitant ir prieigos prie elektroninės formos piliečių parašų rinkimo lapo sukūrimą, Vyriausiojoje rinkimų komisijoje dienos.
 
-7. Pilietis savo parašą dėl reikalavimo paskelbti referendumą turi teisę atšaukti. Apie šį sprendimą jis privalo pranešti Vyriausiajai rinkimų komisijai ne vėliau kaip iki piliečių reikalavimų perdavimo jai dienos.
+7. Piliečių reikalavimus paskelbti referendumą kaupia grupė. Per šio straipsnio 6 dalyje nustatytą terminą surinkus 300 tūkstančių piliečių parašų, grupė surašo baigiamąjį aktą ir kartu su piliečių reikalavimais, įskaitant piliečių parašų rinkimo lapus, kuriuose nėra piliečių parašų, perduoda Vyriausiajai rinkimų komisijai.
 
-8. Jeigu per šio straipsnio 5 dalyje nustatytą terminą nesurenkamas reikiamas piliečių parašų skaičius, parašų rinkimas nutraukiamas.
+8. Pilietis savo parašą dėl reikalavimo paskelbti referendumą turi teisę atšaukti. Apie šį sprendimą jis privalo pranešti Vyriausiajai rinkimų komisijai ne vėliau kaip iki piliečių reikalavimų perdavimo jai dienos.
 
-9. Piliečių parašai gali būti renkami viešose vietose ir gyvenamosiose patalpose. Už piliečių pasirašymą atlyginti draudžiama.
-Papildyta straipsnio dalimi:
-Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
+9. Jeigu per šio straipsnio 6 dalyje nustatytą terminą nesurenkamas reikiamas piliečių parašų skaičius, parašų rinkimas nutraukiamas.
+
+Straipsnio pakeitimai:
+Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
  
 
 12 straipsnis. Seimo narių grupės iniciatyvos teisės paskelbti referendumą įgyvendinimas
@@ -212,17 +214,18 @@ Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA
 2. Seimo narys savo parašą dėl siūlymo paskelbti referendumą gali atšaukti. Apie šį sprendimą jis privalo pranešti Seimui ne vėliau kaip iki Seimo nutarimo dėl referendumo paskelbimo projekto svarstymo Seimo plenariniame posėdyje pradžios. 
  
 
-13 straipsnis. Piliečių reikalavimo paskelbti referendumą preliminarinis nagrinėjimas
+13 straipsnis. Piliečių reikalavimo paskelbti referendumą preliminarus nagrinėjimas
 
-1. Vyriausioji rinkimų komisija gautus dokumentus dėl referendumo paskelbimo per 15 dienų patikrina. Vyriausioji rinkimų komisija, nustačiusi, kad dokumentai atitinka šio Įstatymo reikalavimus, grupės baigiamąjį aktą kartu su piliečių reikalavimais ir savo išvada perduoda Seimui. 
+1. Vyriausioji rinkimų komisija gautus dokumentus ir elektroninės formos piliečių parašų rinkimo lapuose įrašytus duomenis dėl referendumo paskelbimo per 30 dienų nuo jų gavimo dienos patikrina ir suskaičiuoja piliečių parašų rinkimo lapuose piliečių parašus. Nustačiusi, kad dokumentai, piliečių parašai ir jų rinkimo būdas atitinka šio Įstatymo ir kitų teisės aktų reikalavimus, Vyriausioji rinkimų komisija elektroninio ryšio priemonėmis pasirašiusių piliečių parašų skaičių prideda prie piliečių iniciatyvinės grupės baigiamajame akte nurodytų surinktų piliečių parašų skaičiaus. Vyriausioji rinkimų komisija perduoda Seimui savo išvadą kartu su iniciatyvinės grupės baigiamuoju aktu, piliečių reikalavimais ir atspausdintais elektroninės formos piliečių parašų rinkimo lape įrašytais duomenimis.
 
-2. Vyriausioji rinkimų komisija, nustačiusi, kad dokumentuose esama neesminių trūkumų ar trūksta labai nedaug (iki 0,5 procento) piliečių parašų, apie tai praneša grupei ir nustato iki 15 dienų terminą šiems trūkumams pašalinti. Per nustatytą laiką šiuos trūkumus pašalinus, reikalavimas paskelbti referendumą toliau nagrinėjamas bendra tvarka. 
+2. Vyriausioji rinkimų komisija, nustačiusi, kad dokumentuose esama neesminių trūkumų ar trūksta labai nedaug (iki 0,5 procento) piliečių parašų, apie tai praneša grupei, nustato iki 15 dienų terminą šiems trūkumams pašalinti ir atnaujina prieigą prie elektroninės formos piliečių parašų rinkimo lapo. Per nustatytą laiką šiuos trūkumus pašalinus, reikalavimas paskelbti referendumą toliau nagrinėjamas bendra tvarka.
 
-3. Jeigu yra pažeistas piliečių referendumo paskelbimo iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas skaičius piliečių parašų arba jeigu pateiktuose dokumentuose nustatyta šiurkščių įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas savanoriškumo principas renkant parašus), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir praneša apie tai grupei bei Seimui. Šį sprendimą grupė turi teisę per vieną mėnesį apskųsti Lietuvos vyriausiajam administraciniam teismui. 
+3. Jeigu yra pažeistas piliečių referendumo paskelbimo iniciatyvos teisės įgyvendinimo terminas, nesurinktas reikiamas piliečių parašų skaičius arba jeigu pateiktuose dokumentuose arba piliečiams pasirašant piliečių parašų rinkimo lapuose nustatyta šiurkščių įstatymo pažeidimų (suklastoti piliečių parašai ar pažeistas šio Įstatymo 21 straipsnyje nustatytas draudimas papirkti piliečius), Vyriausioji rinkimų komisija motyvuotu sprendimu atmeta reikalavimą paskelbti referendumą ir apie tai praneša iniciatyvinei grupei bei Seimui. Šį sprendimą iniciatyvinė grupė turi teisę per vieną mėnesį apskųsti Lietuvos vyriausiajam administraciniam teismui.
 
-4. Jeigu nustatoma, kad pilietis už to paties referendumo paskelbimą pasirašė du kartus ar daugiau, jo visi parašai neįskaičiuojami. Parašai taip pat neįskaičiuojami, jeigu pažeidžiant šio Įstatymo 11 straipsnio 4 dalį duomenis apie pilietį parašų rinkimo lape įrašo ne jis pats, taip pat jeigu įrašyti ne visi šiame Įstatyme nustatyti duomenys arba jie įrašyti neteisingai.
-Straipsnio dalies pakeitimai:
-Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
+4. Jeigu nustatoma, kad pilietis už to paties referendumo paskelbimą pasirašė du ar daugiau kartų arba pasirašė ir piliečių parašų rinkimo lape, ir elektroninio ryšio priemonėmis, jo visi parašai neįskaičiuojami. Piliečio parašas taip pat neįskaičiuojamas, jeigu pažeidžiant šio Įstatymo 11 straipsnio 4 ar 5 dalį, duomenis apie pilietį parašų rinkimo lape įrašė ne jis pats, taip pat jeigu įrašyti ne visi šio Įstatymo 11 straipsnio 1, 2 ir 4 dalyse nustatyti duomenys, jie įrašyti neteisingai arba renkant piliečių parašus buvo pažeistas šio Įstatymo 21 straipsnyje nustatytas draudimas papirkti piliečius.
+
+Straipsnio pakeitimai:
+Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
  
 
 14 straipsnis. Seimo nutarimo dėl reikalavimo paskelbti referendumą priėmimo tvarka
@@ -1356,4 +1359,9 @@ Lietuvos Respublikos referendumo įstatymo 16, 18, 23, 73 ir 78 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-860, 2014-05-06, paskelbta TAR 2014-05-08, i. k. 2014-05198
 Lietuvos Respublikos referendumo įstatymo Nr. IX-929 15-1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
+Lietuvos Respublikos referendumo įstatymo Nr. IX-929 10, 11 ir 13 straipsnių pakeitimo įstatymas
 
