@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-07-08 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-11-16
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -691,7 +691,10 @@ PRIĖMIMAS Į VALSTYBĖS TARNAUTOJŲ PAREIGAS
 
 
 
-6. Jei valstybės tarnautojo pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, kandidatūra teisės aktų nustatyta tvarka patikrinama iki asmens, pripažinto laimėjusiu konkursą, priėmimo į valstybės tarnautojo pareigas arba iki asmens priėmimo į valstybės tarnautojo pareigas, į kurias šio Įstatymo nustatyta tvarka priimama be konkurso. Į valstybės tarnautojo pareigas asmuo yra priimamas gavus kompetentingos valstybės institucijos išvadą, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+6. Jei valstybės tarnautojo pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, kandidatūra patikrinama iki asmens, pripažinto laimėjusiu konkursą, priėmimo į valstybės tarnautojo pareigas arba iki asmens priėmimo į valstybės tarnautojo pareigas, į kurias šio Įstatymo nustatyta tvarka priimama be konkurso. Į valstybės tarnautojo pareigas asmuo yra priimamas gavus kompetentingos valstybės institucijos išvadą, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 Straipsnio pakeitimai:
@@ -1363,7 +1366,10 @@ VALSTYBĖS TARNAUTOJŲ KARJERA
 
 
 
-9. Karjeros valstybės tarnautojas šio straipsnio 1–8 dalyse nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+9. Karjeros valstybės tarnautojas šio straipsnio 1–8 dalyse nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 
@@ -1400,7 +1406,10 @@ Nr. XII-692, 2013-12-17, Žin., 2013, Nr. 140-7069 (2013-12-30)
 
 
 
-3. Statutinis valstybės tarnautojas šiame straipsnyje nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+3. Statutinis valstybės tarnautojas šiame straipsnyje nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 
@@ -1434,7 +1443,7 @@ Nr. XII-280, 2013-05-09, Žin., 2013, Nr. 54-2685 (2013-05-25)
 183 straipsnis. Valstybės tarnautojo laikinas perkėlimas į kitas valstybės tarnautojo pareigas uždraudus jam dirbti ar susipažinti su įslaptinta informacija
 
 
-1. Valstybės tarnautojui, kurio pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, uždraudus dirbti ar susipažinti su įslaptinta informacija ir paslapčių subjekto vadovui ar jo įgaliotam asmeniui nusprendus, kad tas valstybės tarnautojas negali vykdyti pavestų funkcijų nesinaudodamas įslaptinta informacija, šis tarnautojas gali būti laikinai perkeltas į kitas valstybės tarnautojo pareigas, kurių pareigybės aprašyme nėra nustatytas specialusis reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija:
+1. Valstybės tarnautojui, kurio pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, uždraudus dirbti ar susipažinti su įslaptinta informacija ir paslapčių subjekto vadovui ar jo įgaliotam asmeniui nusprendus, kad tas valstybės tarnautojas negali vykdyti pavestų funkcijų nesinaudodamas įslaptinta informacija, šis tarnautojas gali būti laikinai perkeltas į kitas valstybės tarnautojo pareigas, kurių pareigybės aprašyme nėra nustatytas specialusis reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija:
 
 
 1) karjeros valstybės tarnautojas – į to paties lygio ar žemesnes karjeros valstybės tarnautojo ar įstaigos vadovo pareigas;
@@ -1455,6 +1464,9 @@ Nr. XII-280, 2013-05-09, Žin., 2013, Nr. 54-2685 (2013-05-25)
 4) statutinis valstybės tarnautojas – į to paties lygio ar žemesnes statutinio, karjeros valstybės tarnautojo ar įstaigos vadovo pareigas.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 
@@ -1479,7 +1491,10 @@ Nr. XII-280, 2013-05-09, Žin., 2013, Nr. 54-2685 (2013-05-25)
 
 
 
-6. Valstybės tarnautojas į kitas pareigas laikinai perkeliamas ne ilgesniam kaip Valstybės ir tarnybos paslapčių įstatymo 17 straipsnio 7 dalyje nustatytam asmens kandidatūros tikrinimo laikotarpiui. 
+6. Valstybės tarnautojas į kitas pareigas laikinai perkeliamas ne ilgesniam kaip Valstybės ir tarnybos paslapčių įstatymo 18 straipsnio 8 dalyje nustatytam asmens kandidatūros tikrinimo laikotarpiui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 
@@ -1502,7 +1517,10 @@ Nr. XII-451, 2013-07-02, Žin., 2013, Nr. 78-3930 (2013-07-20)
 
 
 
-2. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas į šio straipsnio 1 dalyje nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+2. Karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas į šio straipsnio 1 dalyje nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 
@@ -1558,7 +1576,10 @@ Nr. X-1742, 2008-10-06, Žin., 2008, Nr. 120-4549 (2008-10-18)
 
 
 
-5. Valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, 2 ir 4 dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialusis reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.
+5. Valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, 2 ir 4 dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+ 
 
 
 
@@ -5732,3 +5753,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 29 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2497, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19351
 Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 9, 18, 18-1, 18-3, 19 ir 20 straipsnių pakeitimo įstatymas
