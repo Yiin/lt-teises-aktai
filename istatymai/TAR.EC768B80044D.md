@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC768B80044D"
 
 # Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymas
 
-Suvestinė redakcija nuo 2000-10-27 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2020-01-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 1-5, i. k. 0981010ISTAIII-1003
  
@@ -39,7 +39,10 @@ Vilnius
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
-1. Įstatymo iniciatoriai – piliečiai, kurie siūlo pakeisti ar papildyti Lietuvos Respublikos Konstituciją ar priimti įstatymą ir pasirašo piliečių parašų rinkimo lape dėl tokio pasiūlymo. 
+1. Įstatymo iniciatoriai – piliečiai, kurie siūlo pakeisti ar papildyti Lietuvos Respublikos Konstituciją ar priimti įstatymą ir šio įstatymo nustatyta tvarka pasirašo piliečių parašų rinkimo lape dėl tokio pasiūlymo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
+ 
 
 2. Iniciatyvos projektas – įstatymo ar jo dalies pakeitimo ir papildymo arba Lietuvos Respublikos Konstitucijos pakeitimo ar papildymo projektas, kuris pateikiamas šio įstatymo nustatyta tvarka.
  
@@ -66,7 +69,9 @@ Vilnius
 
 1. Iniciatyvinė grupė pateikia Vyriausiajai rinkimų komisijai prašymą, kuriame nurodoma, kokį įstatymą siūloma priimti, pakeisti ar papildyti arba sumanymo keisti ar papildyti Lietuvos Respublikos Konstituciją nuostatos. 
 
-2. Šį prašymą pasirašo ne mažiau kaip 10 rinkimų teisę turinčių asmenų, prie savo parašo nurodydami vardą, pavardę, asmens kodą ir nuolatinę gyvenamąją vietą. 
+2. Šį prašymą pasirašo ne mažiau kaip 10 rinkimų teisę turinčių asmenų, prie savo parašo nurodydami vardą, pavardę, asmens kodą ir nuolatinę gyvenamąją vietą. Prašyme nurodomi iniciatyvinės grupės įgalioti atstovai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
 7 straipsnis. Piliečių parašų rinkimo lapai
@@ -76,11 +81,18 @@ Vilnius
 „Aš, Lietuvos Respublikos pilietis(-ė), patvirtinu, kad siūlau priimti tokį įstatymą arba taip papildyti ar pakeisti tokį įstatymą (arba sumanymą keisti ar papildyti Lietuvos Respublikos Konstituciją).“
 
 2. Piliečių parašų rinkimo lape taip pat pateikiamas visas įstatymo ar jo pakeitimo, papildymo projekto arba sumanymo keisti ar papildyti Lietuvos Respublikos Konstituciją tekstas ir piliečių parašai, prie parašo nurodoma vardas, pavardė, asmens kodas ir nuolatinė gyvenamoji vieta. 
+
+3. Šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus atitinkančiame elektroninės formos piliečių parašų rinkimo lape per šio įstatymo 9 straipsnyje nurodytus terminus piliečiai turi teisę pasirašyti elektroninio ryšio priemonėmis Vyriausiosios rinkimų komisijos nustatyta tvarka. Vyriausioji rinkimų komisija turi užtikrinti piliečių, pasirašančių elektroninės formos piliečių parašų rinkimo lape, duomenų apsaugą. Šie duomenys yra tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos elektroninių ryšių įstatymu ir kitais teisės aktais.
+Papildyta straipsnio dalimi:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
 8 straipsnis. Piliečių parašų rinkimo lapų išdavimo terminai 
 
-Vyriausioji rinkimų komisija ne vėliau kaip per savaitę po iniciatyvinės grupės prašymo ir iniciatyvos projekto pateikimo privalo išduoti reikiamą skaičių piliečių parašų rinkimų lapų iniciatorių atstovams. 
+Vyriausioji rinkimų komisija ne vėliau kaip per 5 darbo dienas po iniciatyvinės grupės prašymo ir iniciatyvos projekto pateikimo privalo išduoti reikiamą piliečių parašų rinkimų lapų skaičių iniciatorių atstovams, taip pat sukurti Vyriausiosios rinkimų komisijos informacinėje sistemoje prieigą prie elektroninės formos piliečių parašų rinkimo lapo ir sudaryti galimybę jame pasirašyti. 
+
+Straipsnio pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
 9 straipsnis. Piliečių įstatymų leidybos iniciatyvos įgyvendinimo terminai
@@ -88,26 +100,46 @@ Vyriausioji rinkimų komisija ne vėliau kaip per savaitę po iniciatyvinės gru
 1. 50 tūkstančių Lietuvos Respublikos piliečių, turinčių rinkimų teisę, parašams dėl iniciatyvos projekto surinkti nustatomas dviejų mėnesių terminas nuo piliečių parašų rinkimo lapų išdavimo. 
 
 2. Ne mažiau kaip 300 tūkstančių rinkėjų parašams dėl pateikimo Seimui sumanymo keisti ar papildyti Lietuvos Respublikos Konstituciją surinkti nustatomas keturių mėnesių terminas nuo piliečių parašų rinkimo lapų išdavimo. 
+
+3. Jeigu per šiame straipsnyje nustatytus terminus nesurenkamas reikiamas piliečių parašų skaičius, piliečių parašų rinkimas nutraukiamas.
+Papildyta straipsnio dalimi:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
 10 straipsnis. Agitacija dėl iniciatyvos projekto
 
-Lietuvos Respublikos piliečiams ir nustatyta tvarka įregistruotoms politinėms partijoms, kitoms politinėms ir visuomeninėms organizacijoms suteikiama teisė nekliudomai agituoti už iniciatyvinės grupės pateiktą iniciatyvos projektą arba sumanymą keisti ar papildyti Lietuvos Respublikos Konstituciją. 
+1. Lietuvos Respublikos piliečiams ir nustatyta tvarka įregistruotoms politinėms partijoms, kitoms politinėms ir visuomeninėms organizacijoms suteikiama teisė nekliudomai agituoti už iniciatyvinės grupės pateiktą iniciatyvos projektą arba sumanymą keisti ar papildyti Lietuvos Respublikos Konstituciją.
+
+2. Piliečių parašai gali būti renkami viešose vietose, piliečių sutikimu – jų gyvenamosiose patalpose. Draudžiama klastoti piliečių parašus.
+
+3. Nuo piliečių iniciatyvinės grupės prašymo pateikimo Vyriausiajai rinkimų komisijai dienos iki tos dienos, kai iniciatyvinė grupė ar jos įgaliotas atstovas grąžina Vyriausiajai rinkimų komisijai piliečių parašų rinkimo lapus, draudžiama tiesiogiai ar netiesiogiai dovanomis ar kitokiu būdu atlyginti ar žadėti atlyginti piliečiams už pasirašymą piliečių parašų rinkimo lapuose. Atlyginimu nelaikomas spausdintos medžiagos (teikiamo įstatymo projekto teksto, informacijos ar nuomonių, pritariančių arba prieštaraujančių teikiamam tekstui) neatlygintinas platinimas.
+
+Straipsnio pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
 11 straipsnis. Piliečių parašų rinkimo lapų pateikimas
 
-Piliečių parašų rinkimo lapus su parašais per nustatytą terminą iniciatyvinė grupė privalo pateikti Vyriausiajai rinkimų komisijai. Jeigu per nustatytą terminą nesurenkamas piliečių parašų reikiamas skaičius, toks iniciatyvos projektas Seime nesvarstomas. 
+Piliečių parašų rinkimo lapus, įskaitant tuos, kuriuose nėra piliečių parašų, per nustatytą terminą iniciatyvinė grupė arba jos įgalioti atstovai privalo pateikti Vyriausiajai rinkimų komisijai. Jeigu per nustatytą terminą nesurenkamas reikiamas piliečių parašų skaičius, toks iniciatyvos projektas Seime nesvarstomas.
+
+Straipsnio pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
-12 straipsnis. Piliečių parašų rinkimo lapų patikrinimas
+12 straipsnis. Piliečių parašų patikrinimas
 
-Vyriausioji rinkimų komisija, gavusi parašų rinkimo lapus su piliečių parašais, per penkiolika dienų patikrina jų autentiškumą ir pateikia išvadą, ar per nustatytą terminą yra surinktas reikiamas parašų skaičius. 
+Vyriausioji rinkimų komisija, gavusi piliečių parašų rinkimo lapus su piliečių parašais ir elektroninės formos piliečių parašų rinkimo lape įrašytus duomenis, per 15 dienų nuo jų gavimo dienos patikrina ir suskaičiuoja elektroninio ryšio priemonėmis pasirašytame piliečių parašų rinkimo lape esančius piliečių parašus. Jeigu skaičiuojant gautus piliečių parašus nustatoma, kad pilietis pasirašė du ar daugiau kartų arba pasirašė ir piliečių parašų rinkimo lape, ir elektroninės formos piliečių parašų rinkimo lape, jo visi parašai neįskaičiuojami. Vyriausioji rinkimų komisija, nustačiusi, kad piliečių parašai ir jų rinkimo būdas atitinka šio įstatymo ir kitų teisės aktų reikalavimus, elektroninio ryšio priemonėmis pasirašiusių reikalavimą pakeisti ar papildyti Lietuvos Respublikos Konstituciją ar priimti įstatymą piliečių parašų skaičių prideda prie piliečių iniciatyvinės grupės piliečių parašų rinkimo lapuose surinktų piliečių parašų skaičiaus ir pateikia išvadą, ar per nustatytą terminą yra surinktas reikiamas piliečių parašų skaičius.
+
+Straipsnio pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
 13 straipsnis. Iniciatyvos projekto registravimas Seime
 
-1. Vyriausioji rinkimų komisija savo išvadą kartu su piliečių parašų rinkimo lapais pateikia Seimui.
+1. Vyriausioji rinkimų komisija savo išvadą kartu su piliečių parašų rinkimo lapais, atspausdintais elektroninės formos piliečių parašų rinkimo lape įrašytais duomenimis, pateikia Seimui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
+ 
 
 2. Seime gavus Vyriausiosios rinkimų komisijos išvadą, kad surinkti parašai atitinka įstatymų reikalavimus, išvados gavimo dieną įregistruojamas iniciatyvos projektas ir apie tai pranešama iniciatyvinei grupei. 
 
@@ -181,4 +213,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1977, 2000-10-10, Žin., 2000, Nr. 90-2772 (2000-10-27), i. k. 1001010ISTAIII-1977
 Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
+Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo Nr. VIII-1003 3, 6, 7, 8, 9, 10, 11, 12 ir 13 straipsnių pakeitimo įstatymas
 
