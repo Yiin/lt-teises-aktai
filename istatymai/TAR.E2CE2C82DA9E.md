@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
  
@@ -472,7 +472,10 @@ BENDRIEJI APSKAITOS PRINCIPAI
 
 
 
-2. Apskaitoje registruojamas tik to viešojo sektoriaus subjekto nuosavas ir patikėjimo teise valdomas, naudojamas ir disponuojamas valstybės ar savivaldybės turtas, finansavimo sumos ir įsipareigojimai, pajamos ir sąnaudos.
+2. Apskaitoje registruojamas tik to viešojo sektoriaus subjekto nuosavas ir patikėjimo teise valdomas, naudojamas ir disponuojamas valstybės ar savivaldybės turtas, finansavimo sumos ir įsipareigojimai, pajamos ir sąnaudos. Viešojo sektoriaus subjektai, įgyvendinantys valstybinių miškų valdytojų, kurie nėra viešojo sektoriaus subjektai ir kuriems valstybiniai miškai perduoti valdyti patikėjimo teise, savininko teises ir pareigas, savo buhalterinėje apskaitoje registruoja tų valstybinių miškų valdytojų patikėjimo teise valdomų valstybinių miškų vertę.
+Straipsnio dalies pakeitimai:
+Nr. XII-2585, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20666
+ 
 
 
 
@@ -1499,3 +1502,8 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2217, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21013
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2585, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20666
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 4 straipsnio pakeitimo įstatymas
