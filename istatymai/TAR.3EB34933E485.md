@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -562,7 +562,7 @@ Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
 
 
-27) (neteko galios nuo 2007-11-22);
+27) (neteko galios nuo 2007-11-22).
 
 
 
@@ -1821,7 +1821,26 @@ Mokesčių mokėtojas privalo:
 
 
 
-11) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
+11) šio Įstatymo 422 straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai pridėtinės vertės mokesčio sąskaitų faktūrų duomenis; 
+Papildyta straipsnio punktu:
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+ 
+
+
+
+
+12) šio Įstatymo 423 straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai važtaraščių ir kitų prekių gabenimo dokumentų duomenis; 
+Papildyta straipsnio punktu:
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+ 
+
+
+
+
+13) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+ 
 
 
 
@@ -1906,6 +1925,42 @@ Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
 
 Papildyta straipsniu:
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
+ 
+
+
+
+
+422 straipsnis. Pridėtinės vertės mokesčio sąskaitų faktūrų duomenų pateikimas
+
+
+1. Pridėtinės vertės mokesčio mokėtojai, kaip jie apibrėžti Pridėtinės vertės mokesčio įstatyme, mokesčių teisės aktų nustatyta tvarka privalantys tvarkyti gaunamų ir išrašomų pridėtinės vertės mokesčio sąskaitų faktūrų apskaitą, privalo pateikti Valstybinei mokesčių inspekcijai gaunamų ir išrašomų pridėtinės vertės mokesčio sąskaitų faktūrų registrų duomenis. Šių duomenų turinį nustato centrinis mokesčių administratorius.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti duomenys pateikiami centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+
+
+Papildyta straipsniu:
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+ 
+
+
+
+
+423 straipsnis. Važtaraščių ir kitų krovinių gabenimo dokumentų duomenų pateikimas
+
+
+1. Mokesčių mokėtojai, kurie siunčia, veža ar gauna krovinius Lietuvos Respublikoje kelių transportu, privalo pateikti Valstybinei mokesčių inspekcijai važtaraščių ir kitų krovinių gabenimo dokumentų, jeigu šie teisės aktų nustatyta tvarka turi būti išrašyti, duomenis. Šių duomenų turinį nustato centrinis mokesčių administratorius.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti duomenys pateikiami centrinio mokesčių administratoriaus nustatyta tvarka ir terminais.
+
+
+Papildyta straipsniu:
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
  
 
 
@@ -2513,20 +2568,32 @@ Jei mokesčio įstatymas nenustato kitaip, atitinkamo mokesčio deklaracijos for
 75 straipsnis. Mokesčio deklaracijos pateikimo būdai
 
 
-1. Mokesčio deklaracija pateikiama raštu.
+1. Mokesčio deklaracija pateikiama centrinio mokesčių administratoriaus nustatyta tvarka elektroniniu būdu, išskyrus šiame straipsnyje nustatytus atvejus, kuriais mokesčių mokėtojas turi teisę pasirinkti mokesčio deklaraciją pateikti raštu.
 
 
 
 
-2. Šio Įstatymo nurodytais atvejais, taip pat centrinio mokesčių administratoriaus nustatytais kitais atvejais ir tvarka mokesčio deklaracija gali būti pateikta elektroniniu būdu. 
+2. Mokesčio deklaracija gali būti pateikiama raštu šiais atvejais:
+
+
+1) kai teikiama gyventojų pajamų mokesčio metinė deklaracija;
 
 
 
 
-3. Mokesčių mokėtojas turi teisę pasirinkti mokesčio deklaracijos pateikimo būdą.
+2) kai mokesčio deklaracijos pateikti elektroniniu būdu neįmanoma dėl objektyvių priežasčių arba elektroninis deklaracijos pateikimo būdas lemtų akivaizdžiai neproporcingą administracinę naštą.
+
+
+
+
+
+
+3. Su mokesčio apskaičiavimu ir sumokėjimu susijusių apyskaitų, ataskaitų, duomenų ir kitų dokumentų pateikimui mutatis mutandis taikomos šio straipsnio nuostatos dėl mokesčio deklaracijos pateikimo.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
  
-
-
 
 
 
@@ -6063,3 +6130,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 28, 41, 55,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40, 75 straipsnių pakeitimo ir Įstatymo papildymo 42-2, 42-3 straipsniais įstatymas
