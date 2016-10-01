@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2016-09-29 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -948,7 +948,10 @@ PENKTASIS SKIRSNIS
 
 
 
-2. Asmenys, atliekantys žvalgybos institucijų veiklos kontrolę, turi turėti leidimus dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“, ir asmens patikimumo pažymėjimus, suteikiančius teisę dirbti ar susipažinti su užsienio valstybių ar tarptautinių organizacijų perduota įslaptinta informacija, žymima slaptumo žymos „Visiškai slaptai“ atitikmeniu.
+2. Asmenys, atliekantys žvalgybos institucijų veiklos kontrolę, turi turėti leidimus dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“.
+Straipsnio dalies pakeitimai:
+Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
+ 
 
 
 
@@ -1455,7 +1458,10 @@ PRIĖMIMAS Į TARNYBĄ (DARBĄ) ŽVALGYBOS INSTITUCIJOJE
 
 
 
-6) atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimą, jeigu pareigos susijusios su įslaptintos informacijos naudojimu;
+6) atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, jeigu pareigos susijusios su įslaptintos informacijos naudojimu;
+Straipsnio punkto pakeitimai:
+Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
+ 
 
 
 
@@ -3571,6 +3577,14 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 
 
 8. Mokėtinos kompensacijos dydis apskaičiuojamas pagal vidutinį žuvusio ar nukentėjusio žvalgybos pareigūno tarnybinį atlyginimą.
+
+
+
+
+9. Žvalgybos pareigūnai, žuvę (mirę) dėl tarnybos žvalgybos institucijoje, laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų dydį nustato ir Žvalgybos pareigūnų, žuvusių (mirusių) dėl tarnybos žvalgybos institucijoje, valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
+ 
 
 
 
