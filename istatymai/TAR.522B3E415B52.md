@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-09-30 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1543,7 +1543,10 @@ TEISMO TEISĖJUS IR JŲ ATRANKA
 51 straipsnis. Reikalavimai pretendentui į apylinkės teismo teisėjus
 
 
-1. Apylinkės teismo teisėju gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą), atitinkantis įstatymų nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, pateikęs sveikatos pažymėjimą, turintis ne mažesnį kaip penkerių metų teisinio darbo stažą ir išlaikęs pretendentų į teisėjus egzaminą. Nuo pretendentų į teisėjus egzamino atleidžiamas teisės krypties socialinių mokslų daktaras ir habilituotas daktaras, asmuo, turintis ne mažesnį kaip penkerių metų teisėjo darbo stažą, jeigu nuo darbo teisėju pabaigos praėjo ne daugiau kaip penkeri metai.
+1. Apylinkės teismo teisėju gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą), atitinkantis įstatymų nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, pateikęs sveikatos pažymėjimą, turintis ne mažesnį kaip penkerių metų teisinio darbo stažą ir išlaikęs pretendentų į teisėjus egzaminą. Nuo pretendentų į teisėjus egzamino atleidžiamas teisės krypties socialinių mokslų daktaras ir habilituotas daktaras, asmuo, turintis ne mažesnį kaip penkerių metų teisėjo darbo stažą, jeigu nuo darbo teisėju pabaigos praėjo ne daugiau kaip penkeri metai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2379, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14740
+ 
 
 
 
@@ -1668,9 +1671,10 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 
 
 
-2. Nacionalinė teismų administracija patikrina pretendento į teisėjus pateiktus dokumentus. Siekdama nustatyti, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija kreipiasi į Valstybės saugumo departamentą prašydama Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka ir terminais patikrinti asmens kandidatūrą.
+2. Nacionalinė teismų administracija patikrina pretendento į teisėjus pateiktus dokumentus. Siekdama nustatyti, ar pretendentas į teisėjus atitinka reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija kreipiasi į Valstybės saugumo departamentą prašydama Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka ir terminais patikrinti asmens kandidatūrą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1564, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05016
+Nr. XII-2379, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14740
  
 
 
@@ -1691,7 +1695,10 @@ Nr. XII-1564, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05016
 
 
 
-4. Nustačiusi, kad pateikti dokumentai nepatvirtina, kad pretendentas į teisėjus atitinka šio Įstatymo 51 straipsnio 1 dalyje nurodytus reikalavimus, arba jei Valstybės saugumo departamentas pateikia išvadą, kad pretendentas į teisėjus neatitinka reikalavimų, būtinų išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija motyvuotu sprendimu grąžina šiuos dokumentus juos pateikusiam pretendentui į teisėjus. Šis Nacionalinės teismų administracijos sprendimas gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+4. Nustačiusi, kad pateikti dokumentai nepatvirtina, kad pretendentas į teisėjus atitinka šio Įstatymo 51 straipsnio 1 dalyje nurodytus reikalavimus, arba jei Valstybės saugumo departamentas pateikia išvadą, kad pretendentas į teisėjus neatitinka reikalavimų, būtinų išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, Nacionalinė teismų administracija motyvuotu sprendimu grąžina šiuos dokumentus juos pateikusiam pretendentui į teisėjus. Šis Nacionalinės teismų administracijos sprendimas gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2379, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14740
+ 
 
 
 Įstatymas papildytas straipsniu:
