@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-07-15 iki 2016-09-30
+Suvestinė redakcija nuo 2016-10-01 iki 2016-10-06
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -5617,7 +5617,10 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 
 
-4. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino.
+4. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino. Šio straipsnio 3 dalyje nurodyti teisės aktai privalo būti pateikti juridinių asmenų registrui per šiuose aktuose nustatytą terminą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
+ 
 
 
 
@@ -49452,3 +49455,8 @@ Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
 Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.50 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
+Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas
