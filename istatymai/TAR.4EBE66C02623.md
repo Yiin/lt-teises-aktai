@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-07-16 iki 2016-10-06
+Suvestinė redakcija nuo 2016-10-07 iki 2016-10-17
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2029,40 +2029,48 @@ užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eur
 
 
 
-4. Veikliųjų medžiagų, įskaitant eksportui skirtas veikliąsias medžiagas, gamyba, importas iš trečiųjų šalių ir platinimas nesilaikant nustatytų veiklos sąlygų
+4. Ikiklinikiniam tyrimui atlikti reikalingų vaistų (vaistinių preparatų), kurie nėra šio tyrimo objektas, įsigijimą, laikymą, apskaitą reglamentuojančių Lietuvos Respublikos farmacijos įstatymo nuostatų pažeidimas
+užtraukia baudą mokslo ir studijų institucijų, kitų juridinių asmenų, organizacijų ir jų padalinių vadovams ar kitiems atsakingiems asmenims, taip pat asmenims, turintiems Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą atlikti bandymą su gyvūnais, nuo vieno šimto keturiasdešimt iki penkių šimtų aštuoniasdešimt eurų.
+
+
+
+
+5. Veikliųjų medžiagų, įskaitant eksportui skirtas veikliąsias medžiagas, gamyba, importas iš trečiųjų šalių ir platinimas nesilaikant nustatytų veiklos sąlygų
 užtraukia baudą nuo dviejų šimtų šešiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-5. Vaistų (vaistinių preparatų) pardavimo (išdavimo) gyventojams sąlygų nesilaikymas
+6. Vaistų (vaistinių preparatų) pardavimo (išdavimo) gyventojams sąlygų nesilaikymas
 užtraukia baudą farmacinės veiklos vadovams nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
 
 
 
-6. Vaistinės veikla nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
+7. Vaistinės veikla nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
 užtraukia baudą vaistinės veiklos ir gamybinės vaistinės veiklos licenciją turinčių juridinių asmenų vadovams nuo šešių šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
 
 
-7. Teisės aktuose nustatytų kvalifikuoto asmens arba farmacinės veiklos vadovo pareigų nevykdymas ar netinkamas vykdymas
+8. Teisės aktuose nustatytų kvalifikuoto asmens arba farmacinės veiklos vadovo pareigų nevykdymas ar netinkamas vykdymas
 užtraukia baudą kvalifikuotiems asmenims arba farmacinės veiklos vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-8. Vaistų (vaistinių preparatų) gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
+9. Vaistų (vaistinių preparatų) gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
 užtraukia baudą farmacinės veiklos licenciją turinčių juridinių asmenų vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-9. Už šio straipsnio 4, 5 dalyse numatytus administracinius nusižengimus gali būti skiriamas vaistų (vaistinių preparatų) ar veikliųjų medžiagų konfiskavimas.
+10. Už šio straipsnio 4, 5, 6 dalyse numatytus administracinius nusižengimus gali būti skiriamas vaistų (vaistinių preparatų) ar veikliųjų medžiagų konfiskavimas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2649, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24689
  
-
-
 
 
 
@@ -21018,3 +21026,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 235, 356, 357, 360, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 28, 29, 291, 294, 295, 297, 299, 301, 302, 589, 681, 684, 686 straipsnių ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2649, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24689
+Lietuvos Respublikos administracinių nusižengimų kodekso 66 straipsnio pakeitimo įstatymas
