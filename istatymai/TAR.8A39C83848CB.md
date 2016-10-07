@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-10-06
+Suvestinė redakcija nuo 2016-10-07 iki 2016-11-17
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -35670,10 +35670,12 @@ Devintasis skirsnis
 6.410 straipsnis. Atvejai, kuriais šio skirsnio normos netaikomos
 
 
-Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar teismo antstolis.
+Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar antstolis.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
  
-
-
 
 
 
@@ -36024,7 +36026,10 @@ Teisių pirkimo–pardavimo sutarčiai taikomos šio skyriaus nuostatos tiek, ki
 
 
 
-2. Ginčijamų teisių, kurios yra ginčo objektas, neturi teisės pirkti advokatai, teisėjai, notarai, teismo antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
+2. Ginčijamų teisių, kurios yra ginčo objektas, neturi teisės pirkti advokatai, teisėjai, notarai, antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
+Straipsnio dalies pakeitimai:
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
+ 
 
 
 
@@ -45603,7 +45608,9 @@ Specialios pasaugos rūšys
 
 
 
-8. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, teismo antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos.
+8. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
  
 
 
@@ -49460,3 +49467,8 @@ Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
 Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
+Lietuvos Respublikos civilinio kodekso 6.410, 6.427 ir 6.863 straipsnių pakeitimo įstatymas
