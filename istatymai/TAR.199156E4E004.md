@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2016-10-06
+Suvestinė redakcija nuo 2016-10-07 iki 2017-09-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -1010,7 +1010,44 @@ SPECIALIŲJŲ POREIKIŲ NUSTATYMAS IR TENKINIMAS
 
 
 
-3. Specialiųjų poreikių ir jų lygio nustatymo, specialiųjų poreikių tenkinimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+3. Specialieji poreikiai gali būti nustatomi tokiais terminais:
+
+
+1) 6 mėnesiams, kai specialieji poreikiai vertinami pirmą kartą ir prognozuojamas greitas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens savarankiškumui, per artimiausius 6 mėnesius;
+
+
+
+
+2) vieniems metams, kai specialieji poreikiai vertinami pirmą kartą ir (ar) prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens savarankiškumui, per artimiausius 12 mėnesių;
+
+
+
+
+3) 2 metams, kai prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens savarankiškumui, per artimiausius 24 mėnesius;
+
+
+
+
+4) 6 metams, kai vertinamas lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis ir prognozuojamas asmens sveikatos būklės pasikeitimas per artimiausius 72 mėnesius;
+
+
+
+
+5) neterminuotai, kai asmens sveikatos sutrikimai yra nuolatinio, nekintančio pobūdžio. 
+
+
+Papildyta straipsnio dalimi:
+TAR pastaba. Specialiųjų poreikių ir specialiųjų poreikių lygio terminai, nustatyti iki įstatymo Nr. XII-2658 įsigaliojimo (2016-10-07), galioja iki nustatyto termino pabaigos.  Jeigu nustatant specialiuosius poreikius specialiųjų poreikių terminas nenustatytas, jis turi būti nustatytas per 180 dienų įsigaliojus įstatymui Nr. XII-2658 , termino pradžią skaičiuojant nuo specialiųjų poreikių nustatymo dienos. Specialiųjų poreikių terminas nustatomas asmeniui nedalyvaujant. Apie nustatytą specialiųjų poreikių terminą per 5 dienas nuo sprendimo dėl specialiųjų poreikių nustatymo termino priėmimo dienos informuojamas asmuo, kuriam nustatyti specialieji poreikiai, ir tikslines kompensacijas mokančios institucijos.
+Nr. XII-2658, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24700
+ 
+
+
+
+
+4. Specialiųjų poreikių ir jų lygio nustatymo, specialiųjų poreikių tenkinimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2658, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24700
+ 
 
 
 Straipsnio pakeitimai:
@@ -1359,3 +1396,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 16 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 11, 16, 17, 18, 25 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2658, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24700
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 24 straipsnio pakeitimo įstatymas
