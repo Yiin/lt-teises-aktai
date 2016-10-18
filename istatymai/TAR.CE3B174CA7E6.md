@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CE3B174CA7E6"
 
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-10-17
+Suvestinė redakcija nuo 2016-10-18 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1909, i. k. 0981010ISTAVIII-822
  
@@ -311,7 +311,17 @@ Formaliojo švietimo programas vykdančios mokyklos:
 
 
 
-2. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi kokybės gerinimo, veiklos įsivertinimo, išorinio vertinimo, dalyvių pažangos ir pasiekimų įsivertinimo, finansuojamų iš valstybės ir (arba) savivaldybių biudžetų lėšų, kokybės užtikrinimo tvarką nustato Vyriausybė, pasikonsultavusi su Lietuvos neformaliojo suaugusiųjų švietimo taryba.
+2. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi kokybė užtikrinama vykdant neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi stebėseną, atliekant tyrimus, taip pat vykdant neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjų įsivertinimą ir išorinį vertinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
+ 
+
+
+
+
+3. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjų, finansuojamų iš valstybės ir (arba) savivaldybių biudžetų lėšų, veiklos įsivertinimas atliekamas švietimo teikėjui pasirenkant įsivertinimo sritis, metodiką, analizuojant įsivertinimo rezultatus ir priimant sprendimus dėl veiklos tobulinimo. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjų, finansuojamų iš valstybės ir (arba) savivaldybių biudžetų lėšų, veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų, švietimo teikėjų – savininkas (dalyvių susirinkimas), atsižvelgdami į šias kokybės vertinimo sritis: mokymo programų vertinimo, mokymo paslaugų viešinimo vertinimo, vadybinio (organizacinio) vertinimo, projektinės veiklos vertinimo, švietimo teikėjo vadovo ir kitų darbuotojų kvalifikacijos vertinimo.
+Papildyta straipsnio dalimi:
+Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
  
 
 
@@ -552,3 +562,8 @@ Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo 13 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1018, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10429
 Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo Nr. VIII-822 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
+Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 10 straipsnio pakeitimo įstatymas
