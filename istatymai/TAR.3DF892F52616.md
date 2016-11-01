@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2015-12-04 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
  
@@ -2860,10 +2860,13 @@ PENKTASIS SKIRSNIS
 
 
 
-51 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+51 straipsnis. Atsakomybė už teisės aktų pažeidimus 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+ 
 
 
-1. Poveikio priemonės Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka taikomos už šio įstatymo ar jo pagrindu priimtų teisės aktų ir (arba) 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (toliau – Reglamentas (EB) Nr. 1060/2009) nustatytų reikalavimų ir (arba) priežiūros institucijos duotų privalomų vykdyti nurodymų nesilaikymą:
+1. Poveikio priemonės Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka taikomos už šio įstatymo ar jo pagrindu priimtų teisės aktų ir (arba) 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (toliau – Reglamentas (EB) Nr. 1060/2009) nustatytų reikalavimų arba Lietuvos Respublikos akcinių bendrovių įstatyme ar šio įstatymo pagrindu priimtuose teisės aktuose viešam vertybinių popierių siūlymui nustatytų sąlygų ir reikalavimų ir (arba) priežiūros institucijos duotų privalomų vykdyti nurodymų nesilaikymą:
 
 
 1) paskelbimas asmens (tarp jų ir emitento), nurodant jo padarytą pažeidimą; 
@@ -2879,6 +2882,9 @@ PENKTASIS SKIRSNIS
 3) piniginė bauda.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+ 
 
 
 
@@ -2942,7 +2948,10 @@ PENKTASIS SKIRSNIS
 
 
 
-3) asmenims, organizuojantiems ar įgyvendinantiems vertybinių popierių viešą siūlymą arba prekybą reguliuojamoje rinkoje, jeigu prieš tai nebuvo patvirtintas ir (arba) paskelbtas prospektas arba šių vertybinių popierių viešas siūlymas ar prekyba reguliuojamoje rinkoje yra uždrausti arba sustabdyti, – iki viešai siūlytų ar į prekybą reguliuojamoje rinkoje įtrauktų vertybinių popierių bendros nominaliosios vertės dydžio;
+3) asmenims, organizuojantiems ar įgyvendinantiems vertybinių popierių viešą siūlymą arba prekybą reguliuojamoje rinkoje, jeigu prieš tai nebuvo patvirtintas ir (arba) paskelbtas prospektas arba šių vertybinių popierių viešas siūlymas ar prekyba reguliuojamoje rinkoje yra uždrausti, sustabdyti arba neatitinka šiame įstatyme, Lietuvos Respublikos akcinių bendrovių įstatyme ar šių įstatymų pagrindu priimtuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų, – iki viešai siūlytų ar į prekybą reguliuojamoje rinkoje įtrauktų vertybinių popierių bendros nominaliosios vertės dydžio;
+Straipsnio punkto pakeitimai:
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+ 
 
 
 
@@ -3125,7 +3134,10 @@ priedas
 
 
 
-5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d.  Europos Parlamento ir Tarybos direktyva 2014/51/ES (OL 2014 L 153, p. 1).
+Punkto pakeitimai:
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+ 
 
 
 
@@ -3215,3 +3227,8 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 46, 47 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2074, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19282
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 51 ir 52 straipsnių ir priedo pakeitimo įstatymas
