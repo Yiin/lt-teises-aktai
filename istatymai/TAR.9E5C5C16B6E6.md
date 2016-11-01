@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-10-08 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -453,10 +453,17 @@ Lietuvos Respublikoje gaminami, į Lietuvos Respubliką importuojami, įvežami 
 9 straipsnis. Alkoholinių gėrimų ženklinimas
 
 
-Lietuvos Respublikoje parduodami alkoholiniai gėrimai turi būti paženklinti teisės aktų nustatyta tvarka.
+1. Lietuvos Respublikoje parduodami alkoholiniai gėrimai turi būti paženklinti teisės aktų nustatyta tvarka.
+
+
+
+
+2. Kiekvienas supakuotas parduoti skirtas alkoholinio gėrimo vienetas turi būti paženklintas įspėjamaisiais grafiniais ženklais apie alkoholio žalą nėščioms moterims Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2012, 2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18576
  
-
-
 
 
 
@@ -1796,14 +1803,17 @@ Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
 
 
 TREČIASIS SKIRSNIS
-ALKOHOLINIŲ GĖRIMŲ PARDAVIMO SKATINIMO IR REKLAMOS RIBOJIMAS
+SU ALKOHOLINIAIS GĖRIMAIS SUSIJĘ DRAUDIMAI IR ALKOHOLIO REKLAMOS RIBOJIMAS 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
  
 
 
-28 straipsnis. Alkoholinių gėrimų pardavimo skatinimo ribojimas
+28 straipsnis. Su alkoholiniais gėrimais susiję draudimai
 
 
-1. Teisę prekiauti alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams draudžiama naudoti tokius alkoholinių gėrimų pardavimo skatinimo būdus:
+1. Įmonėms, Europos juridiniams asmenims ir jų filialams Lietuvos Respublikoje draudžiama:
 
 
 1) alkoholinius gėrimus duoti kaip premiją, kaip prekės priedą arba dovanoti;
@@ -1811,7 +1821,7 @@ ALKOHOLINIŲ GĖRIMŲ PARDAVIMO SKATINIMO IR REKLAMOS RIBOJIMAS
 
 
 
-2) taikyti fiksuotas nuolaidas visuomenės informavimo priemonėse išspausdintų kuponų savininkams;
+2) visuomenės informavimo priemonėse išspausdintų ar kitokiais būdais išplatintų kuponų savininkams taikyti fiksuotas nuolaidas alkoholiniams gėrimams arba laikyti šiuos kuponus kitokiomis dalinio arba viso mokėjimo priemonėmis;
 
 
 
@@ -1821,23 +1831,35 @@ ALKOHOLINIŲ GĖRIMŲ PARDAVIMO SKATINIMO IR REKLAMOS RIBOJIMAS
 
 
 
-4) organizuoti mažmeninės prekybos subjektų konkursus alkoholinių gėrimų pardavimui skatinti;
+4) organizuoti žaidimus, akcijas, konkursus ar loterijas, kurie skatintų įsigyti ir (ar) vartoti alkoholinius gėrimus;
 
 
 
 
-5) parduoti Lietuvos Respublikoje ar užsienio šalyse išspausdintus, įvežtus į Lietuvos Respubliką specializuotus reklaminius leidinius, skirtus alkoholinių gėrimų pardavimui skatinti.
+5) parduoti Lietuvos Respublikoje ar užsienio šalyse išspausdintus, įvežtus į Lietuvos Respubliką specializuotus reklaminius leidinius, skirtus alkoholinių gėrimų pardavimui skatinti;
+
+
+
+
+6) sudaryti galimybę pirkėjui iš karto ir (ar) per tam tikrą terminą arba įvykdžius tam tikras sąlygas po vartojimo pirkimo–pardavimo sutarties sudarymo laimėti prizą, gauti dovanų ar priedą prie alkoholinių gėrimų;
+
+
+
+
+7) skelbti apie alkoholinių gėrimų kainų sumažinimą. 
 
 
 
 
 
 
-2. Draudžiama skatinimo veiklai pasitelkti asmenis iki 18 metų.
+2. Įmonėms, Europos juridiniams asmenims ir jų filialams draudžiama alkoholinių gėrimų pardavimo skatinimo veiklai pasitelkti asmenis iki 18 metų.
 
 
 Straipsnio pakeitimai:
 Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
+Straipsnio pakeitimai:
+Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
  
 
 
@@ -3028,3 +3050,13 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 12, 16, 17, 18,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2651, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24833
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2012, 2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18576
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 9 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 IV skyriaus trečiojo skirsnio pavadinimo ir 28 straipsnio pakeitimo įstatymas
