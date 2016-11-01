@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-06-28 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2016-11-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1531,7 +1531,10 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 
 
-35) savivaldybės triukšmo prevencijos ir mažinimo priemonių, triukšmo savivaldybės teritorijoje rodiklių, aglomeracijų strateginių triukšmo žemėlapių, gyvenamųjų vietovių teritorijų, kuriose būtina įgyvendinti triukšmo prevencijos ir mažinimo priemones (triukšmo prevencijos zonų), ir triukšmo prevencijos viešosiose vietose taisyklių tvirtinimas, tyliųjų zonų nustatymas. Savivaldybės vykdomosios institucijos, kitų pavaldžių viešojo administravimo subjektų funkcijų triukšmo valdymo srityje įgyvendinimo priežiūra;
+35) savivaldybės triukšmo prevencijos ir mažinimo priemonių nustatymas savivaldybės strateginio planavimo dokumentuose, triukšmo savivaldybės teritorijoje rodiklių, aglomeracijų strateginių triukšmo žemėlapių, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginių triukšmo žemėlapių ir aglomeracijų triukšmo prevencijos veiksmų planų, kurie įgyvendinami savivaldybės strateginio planavimo dokumentais, bei gyvenamųjų vietovių teritorijų, kuriose būtina įgyvendinti triukšmo prevencijos ir mažinimo priemones (triukšmo prevencijos zonų), ir triukšmo prevencijos viešosiose vietose taisyklių tvirtinimas, tyliųjų aglomeracijos zonų, tyliųjų gamtos zonų ir tyliųjų viešųjų zonų nustatymas. Savivaldybės vykdomosios institucijos, kitų pavaldžių viešojo administravimo subjektų funkcijų triukšmo valdymo srityje įgyvendinimo priežiūra;
+Straipsnio punkto pakeitimai:
+Nr. XII-2342, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13909
+ 
 
 
 
