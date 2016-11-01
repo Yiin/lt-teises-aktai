@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -415,13 +415,13 @@ Transporto priemonių valdytojų kasmetinio mokesčio už Lietuvos Respublikoje 
 
 
 
+ Eil. Nr. 
  Transporto priemonės kategorija ir klasė, didžiausioji leidžiamoji masė*** 
  Ribiniai tarifai, eurais 
 
 
-
-
- N2 ir N3 klasių krovininiai automobiliai, O4 klasės krovininių automobilių priekabos ir puspriekabės  
+ 1. 
+ N2 ir N3 klasių krovininiai automobiliai,  O4 klasės krovininių automobilių priekabos ir puspriekabės 
  nuo 12 t (įskaitytinai) iki 15 t didžiausiosios leidžiamosios masės* 
  86–179 
 
@@ -462,13 +462,24 @@ Transporto priemonių valdytojų kasmetinio mokesčio už Lietuvos Respublikoje 
  735–1 471 
 
 
- Krovininių transporto priemonių junginys – N3O4 vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus) 
- nuo 40 t (įskaitytinai) iki 44 t didžiausiosios leidžiamosios masės* 
- 654–1 309 
+ 2. 
+ Krovininių transporto priemonių junginys – N3O4, susidedantis iš dviašio vilkiko ir triašės puspriekabės, kuriuo, vykdant kombinuotą vežimą, vežami vienas arba keli kombinuoto vežimo vienetai (puspriekabės, nuimamieji kėbulai ir konteineriai, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) 
+ nuo 40 t (įskaitytinai) iki 42 t didžiausiosios leidžiamosios masės* 
+ 654–1 222 
+
+
+ nuo 40 t (įskaitytinai) iki 42 t didžiausiosios leidžiamosios masės** 
+ 967–1 778 
+
+
+ 3. 
+ Krovininių transporto priemonių junginys – N3O4, susidedantis iš triašio vilkiko ir dviašės ar triašės puspriekabės, kuriuo, vykdant kombinuotą vežimą, vežami vienas arba keli kombinuoto vežimo vienetai (puspriekabės, nuimamieji kėbulai ir konteineriai, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) 
+ nuo 40 t (įskaitytinai) iki 44 t didžiausiosios leidžiamosios masės*     
+ 654–1 309   
 
 
  nuo 40 t (įskaitytinai) iki 44 t didžiausiosios leidžiamosios masės** 
- 967–1 937 
+ 967–1 937 
 
 
 
@@ -477,6 +488,7 @@ Transporto priemonių valdytojų kasmetinio mokesčio už Lietuvos Respublikoje 
 *** Didžiausioji leidžiama naudojantis keliais transporto priemonės ar jų junginio masė pagal Kelių įstatymą arba didžiausioji leidžiamoji masė pagal Saugaus eismo automobilių keliais įstatymą (taikoma ta, kuri yra mažesnė).
 Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
+Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
 
 
@@ -877,7 +889,7 @@ MOKESČIO UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT SUNKIASVORĖMIS TRANSPORTO PRIEMO
  
 
 
-8. Mokesčio už naudojimąsi keliais važiuojant sunkiasvorėmis motorinėmis transporto priemonėmis, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginių masę (40 t, o vežant 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, – 44 t) (toliau – didžiausioji leidžiamoji masė), ribiniai tarifai:
+8. Mokesčio už naudojimąsi keliais važiuojant Lietuvos Respublikos teritorijoje sunkiasvorėmis motorinėmis transporto priemonėmis, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginių masę (40 t, o vežant vieną arba kelis kombinuoto vežimo vienetus (puspriekabes, nuimamuosius kėbulus ir konteinerius, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) magistraliniais keliais ir kitais keliais 50 km spinduliu nuo Klaipėdos valstybinio jūrų uosto, oro uostų, geležinkelio ir vidaus vandenų stočių teritorijų, kuriuose iškraunami ir (arba) pakraunami kombinuoto vežimo vienetai, – 44 t) (toliau – didžiausioji leidžiamoji masė), ribiniai tarifai:
  
 
 
@@ -904,6 +916,8 @@ MOKESČIO UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT SUNKIASVORĖMIS TRANSPORTO PRIEMO
 
 
 * Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabė) su suporintais ratais ir kurių ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 t.
+Punkto pakeitimai:
+Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
 
 
@@ -1276,3 +1290,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 1, 2, 3 ir 4 priedų pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2315, 2016-04-14, paskelbta TAR 2016-04-18, i. k. 2016-09858
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 1, 3 ir 5 priedų pakeitimo įstatymas
