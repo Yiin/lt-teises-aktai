@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-02-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2016-11-17
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -1561,6 +1561,49 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 Straipsnio pakeitimai:
+Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
+ 
+
+
+
+
+211 straipsnis. Prašymas neleisti arba uždrausti sudaryti vartojimo kredito sutartis
+
+
+1. Kiekvienas fizinis asmuo (toliau šiame straipsnyje – asmuo) turi teisę priežiūros institucijai pateikti prašymą neleisti jam sudaryti vartojimo kredito sutarčių, pakeisti šį prašymą ar jo atsisakyti. Prašyme neleisti sudaryti vartojimo kredito sutarčių turi būti nurodytas terminas, per kurį asmeniui nebūtų leidžiama sudaryti minėtų sutarčių. Prašymų neleisti sudaryti vartojimo kredito sutarčių pateikimo, šių prašymų pakeitimo ir atsisakymo tvarką nustato priežiūros institucija.
+
+
+
+
+2. Prašymą neleisti sudaryti vartojimo kredito sutarčių pateikęs asmuo nedelsiant įrašomas į priežiūros institucijos tvarkomą Asmenų, dėl kurių yra pateikti prašymai neleisti jiems sudaryti vartojimo kredito sutarčių, sąrašą (toliau šiame straipsnyje – Sąrašas). Pasibaigus šio straipsnio 4 dalyje nurodytam terminui, asmuo, kuriam neleidžiama sudaryti minėtų sutarčių, išbraukiamas iš Sąrašo.
+
+
+
+
+3. Asmenys įrašomi į Sąrašą ir išbraukiami iš jo priežiūros institucijos nustatyta tvarka.
+
+
+
+
+4. Asmeniui, įrašytam į Sąrašą, neleidžiama sudaryti vartojimo kredito sutarčių jo prašyme nurodytą laikotarpį. Jeigu asmens prašyme neleisti jam sudaryti vartojimo kredito sutarčių nenurodytas terminas, per kurį jam nebūtų leidžiama sudaryti minėtų sutarčių, laikoma, kad šis terminas yra 2 metai nuo asmens įrašymo į Sąrašą dienos.
+
+
+
+
+5. Asmeniui, piktnaudžiaujančiam teise sudaryti vartojimo kredito sutartis, teismas įstatymų nustatyta tvarka gali uždrausti sudaryti vartojimo kredito sutartis. Prašymą uždrausti asmeniui sudaryti vartojimo kredito sutartis arba prašymą panaikinti draudimą sudaryti vartojimo kredito sutartis turi teisę teismui pateikti asmens sutuoktinis, tėvai, pilnamečiai vaikai, globos (rūpybos) institucija arba prokuroras. Kreiptis į teismą dėl draudimo sudaryti vartojimo kredito sutartis panaikinimo turi teisę taip pat ir asmuo, kuriam buvo uždrausta sudaryti vartojimo kredito sutartis. Prašymai uždrausti asmeniui, piktnaudžiaujančiam šia teise, sudaryti vartojimo kredito sutartis arba prašymai panaikinti draudimą sudaryti vartojimo kredito sutartis mutatis mutandis nagrinėjami Lietuvos Respublikos civilinio proceso kodekso V dalies XXVIII skyriuje nustatyta tvarka. Teismas per 3 darbo dienas nuo teismo sprendimo uždrausti asmeniui, piktnaudžiaujančiam šia teise, sudaryti vartojimo kredito sutartis arba panaikinti draudimą sudaryti vartojimo kredito sutartis įsiteisėjimo dienos privalo išsiųsti sprendimo kopiją priežiūros institucijai. Priežiūros institucija gauto teismo sprendimo pagrindu asmenis įrašo į Sąrašą teismo sprendime nurodytam laikotarpiui arba išbraukia iš jo. 
+
+
+
+
+6. Vartojimo kredito davėjams ir vartojimo kredito tarpininkams draudžiama sudaryti vartojimo kredito sutartį su įrašytu į Sąrašą asmeniu. Patikra, ar asmuo nėra įrašytas į Sąrašą, atliekama sprendimo dėl vartojimo kredito suteikimo priėmimo momentu. Vartojimo kredito sutartis, sudaryta su į Sąrašą įrašytu asmeniu, laikoma negaliojančia.
+
+
+
+
+7. Vartojimo kredito davėjai ir vartojimo kredito tarpininkai turi teisę naudotis asmenų, įtrauktų į Sąrašą, duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+
+
+Papildyta straipsniu:
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
  
 
