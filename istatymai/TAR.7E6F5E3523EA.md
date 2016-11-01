@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
  
@@ -68,7 +68,10 @@ bendrosios nuostatos
 
 
 
-3. Dienos triukšmo rodiklis (Ldienos) – dienos metu (nuo 6 val. iki 18 val.) triukšmo sukelto dirginimo rodiklis, t. y. vidutinis ilgalaikis A svertinis garso lygis, nustatytas vienerių metų dienos laikotarpiui.
+3. Dienos triukšmo rodiklis (Ldienos) – dienos metu (nuo 7 val. iki 19 val.) triukšmo sukelto dirginimo rodiklis – vidutinis ilgalaikis A svertinis garso lygis, nustatytas kaip vienų metų dienos vidurkis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -101,22 +104,42 @@ bendrosios nuostatos
 
 
 
-9. Nakties triukšmo rodiklis (Lnakties) – nakties metu (nuo 22 val. iki 6 val.) triukšmo sukelto dirginimo rodiklis, t. y. vidutinis ilgalaikis A svertinis garso lygis, nustatytas vienerių metų nakties laikotarpiui. 
+9. Nakties triukšmo rodiklis (Lnakties) – nakties metu (nuo 22 val. iki 7 val.) triukšmo sukelto miego trikdymo rodiklis – vidutinis ilgalaikis A svertinis garso lygis, nustatytas kaip vienų metų nakties vidurkis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
 
-10. Pagrindinė gatvė – miesto ar kaimo gyvenamosios vietovės teritorijoje esantis ir paprastai turintis pavadinimą kelias ar jo ruožas, kuriuo vyksta intensyviausias transporto priemonių eismas.
+10. Neteko galios nuo 2016-11-01
+Straipsnio dalies naikinimas:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
 
-11. Pagrindinis geležinkelis – geležinkelio kelias, kuriuo per metus važiuoja daugiau kaip 30 tūkstančių traukinių. 
+11. Pagrindinio geležinkelio kelio ruožas – geležinkelio kelio ruožas, kuriuo per metus važiuoja daugiau kaip 30 tūkstančių traukinių. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
 
-12. Pagrindinis kelias – magistralinis, krašto ar rajoninis valstybinės reikšmės kelias, kuriuo per metus važiuoja daugiau kaip 3 milijonai transporto priemonių.
+12. Pagrindinio kelio ruožas – magistralinio, krašto ar rajoninio valstybinės reikšmės kelio ruožas, kuriuo per metus važiuoja daugiau kaip 3 milijonai transporto priemonių. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
+
+
+
+
+121. Pramoninės veiklos zona – teritorija, kurioje ūkio subjektai vykdo veiklą, kuriai vykdyti pagal Lietuvos Respublikos aplinkos apsaugos įstatymą būtinas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas arba dėl kurios pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą būtina atlikti poveikio aplinkai vertinimą ar pagal Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymą būtina atlikti poveikio visuomenės sveikatai vertinimą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -166,6 +189,28 @@ bendrosios nuostatos
 
 
 
+211. Triukšmo prevencijos priemonių įgyvendinimo poreikio prioriteto rodiklis (NS) – rodiklis, kuriuo išreiškiamas ilgalaikio triukšmo sukeltą stiprų dirginimą patiriančių žmonių skaičius, pagal kurį nustatomas triukšmo prevencijos priemonių įgyvendinimo poreikio prioritetas ir kuris apskaičiuojamas pagal tokią formulę:
+ 
+
+ 
+Šioje formulėje:
+ni – atitinkamo Ldvn triukšmo lygio triukšmo veikiamame pastate gyvenančių žmonių, ugdomų mokinių, stacionarinės asmens sveikatos priežiūros įstaigos pastate gydomų pacientų skaičius;
+Ldvn,i – dienos, vakaro ir nakties triukšmo lygis Ldvn ties nagrinėjamo pastato fasadu. 
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
+
+
+
+
+212. Triukšmo prevencijos veiksmų planas – dokumentas, kuriame siekiant valdyti triukšmo problemas ir poveikį planuojamos triukšmo prevencijos ir mažinimo priemonės. 
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
+
+
+
+
 22. Triukšmo prevencijos zona – gyvenamosios (-ųjų) vietovės (-ių) teritorija, kurioje triukšmas viršija ribinius dydžius ir kurioje būtina įgyvendinti triukšmo prevencijos ir mažinimo priemones. 
 Papildyta straipsnio dalimi:
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
@@ -182,7 +227,9 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 
 
 
-24. Triukšmo ribinis dydis – Ldienos, Lvakaro arba Lnakties rodiklio vidutinis dydis, kurį viršijus triukšmo šaltinio valdytojas privalo imtis priemonių skleidžiamam triukšmui šalinti ir (ar) mažinti.
+24. Triukšmo ribinis dydis – triukšmo rodiklio vertė, kurią viršijus triukšmo šaltinio valdytojas privalo imtis priemonių skleidžiamam triukšmui šalinti ar mažinti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
  
@@ -206,7 +253,17 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 
 
 
-27. Urbanizuota teritorija – teritorija, užimta statinių ir jų priklausinių (su naudojamais žemės sklypais, inžinerinėmis komunikacijomis ir bendrojo naudojimo želdynais), taip pat valstybinių kelių ir geležinkelių kompleksų teritorija. 
+261. Triukšmo valdymas – visuma teisinių, organizacinių ir techninių priemonių, kurių tikslas – užtikrinti gyventojų ir aplinkos apsaugą nuo žalingo triukšmo poveikio, įskaitant gyventojų apsaugą nuo triukšmo sukeliamo dirginimo ir miego trikdymo, ir išsaugoti tyliąsias zonas. 
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
+
+
+
+
+27. Neteko galios nuo 2016-11-01
+Straipsnio dalies naikinimas:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
  
@@ -214,9 +271,19 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 
 
 
-28. Vakaro triukšmo rodiklis (Lvakaro) – vakaro metu (nuo 18 val. iki 22 val.) triukšmo sukelto dirginimo rodiklis, t. y. vidutinis ilgalaikis A svertinis garso lygis, nustatytas vienerių metų vakaro laikotarpiui.
+28. Vakaro triukšmo rodiklis (Lvakaro) – vakaro metu (nuo 19 val. iki 22 val.) triukšmo sukelto dirginimo rodiklis – vidutinis ilgalaikis A svertinis garso lygis, nustatytas kaip vienų metų vakaro vidurkis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+ 
+
+
+
+
+29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
 
 
@@ -361,74 +428,40 @@ Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA0
 
 
 
-5 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija 
+5 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija
 
 
-1. Lietuvos Respublikos Vyriausybė, įgyvendindama triukšmo prevencijos valstybės politiką, Vyriausybės įgaliotų valstybės institucijų teikimu:
+1. Lietuvos Respublikos Vyriausybė:
 
 
-1) tvirtina Valstybinę triukšmo strateginio kartografavimo programą ir Valstybinę triukšmo prevencijos veiksmų programą; 
-
-
-
-
-2) priima nutarimus dėl valstybės investicijų programų, skirtų užtikrinti triukšmo prevenciją gyvenamosiose teritorijose, rengimo ir įgyvendinimo;
+1) koordinuoja ministerijų ir Vyriausybės įstaigų veiklą įgyvendinant šį įstatymą;
 
 
 
 
-3) koordinuoja ministerijų ir Vyriausybės įstaigų veiklą įgyvendinant šį įstatymą;
+2) tvirtina Valstybinės triukšmo kontrolės tvarkos aprašą ir įgalioja atitinkamas valstybės institucijas atlikti triukšmo kontrolę;
 
 
 
 
-4) tvirtina Valstybinės triukšmo kontrolės tvarkos aprašą ir įgalioja atitinkamas valstybės institucijas atlikti triukšmo kontrolę. 
+3) tvirtina Triukšmo, kylančio atliekant statybos darbus gyvenamosiose patalpose ir gyvenamosiose teritorijose, kontrolės vykdymo tvarkos aprašą;
+
+
+
+
+4) nustato triukšmo prevencijos ir mažinimo veiksmų planavimo ir įgyvendinimo aglomeracijose ir ne aglomeracijose esančiuose pagrindinių kelių ruožuose, pagrindinių geležinkelio kelių ruožuose ir stambiuose oro uostuose reikalavimus.
 
 
 
 
 
 
-2. Lietuvos Respublikos Vyriausybė, priimdama nutarimą dėl valstybės investicijų programų, skirtų užtikrinti triukšmo prevenciją gyvenamosiose teritorijose, rengimo ir įgyvendinimo, atsižvelgia į:
+2. Lietuvos Respublikos Vyriausybė atlieka ir kitas šiame ir kituose įstatymuose nustatytas triukšmo valdymo funkcijas.
 
 
-1) teritorijos gyventojų apklausos duomenis;
-
-
-
-
-2) triukšmo poveikio visuomenės sveikatai ir aplinkai vertinimo duomenis;
-
-
-
-
-3) triukšmo kartografavimo duomenis;
-
-
-
-
-4) savivaldybių, kurių teritorijose yra triukšmo prevencijos zonos, institucijų nuomonę ir pasiūlymus; 
-Straipsnio punkto pakeitimai:
-Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+Straipsnio pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
-
-
-
-
-5) savivaldybių, kurių teritorijos patenka į saugomų teritorijų ribas, saugomų teritorijų administracijų nuomonę ir pasiūlymus.
-Papildyta straipsnio punktu:
-Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
- 
-
-
-
-
-
-
-3. Lietuvos Respublikos Vyriausybė atlieka ir kitas šiame ir kituose įstatymuose nustatytas triukšmo valdymo funkcijas. 
- 
-
-
 
 
 
@@ -483,7 +516,10 @@ Nr. X-692, 2006-06-15, Žin., 2006, Nr. 73-2760 (2006-06-30), i. k. 1061010ISTA0
 Sveikatos apsaugos ministerija:
 
 
-1) organizuoja ir koordinuoja Valstybinės triukšmo strateginio kartografavimo programos ir Valstybinės triukšmo prevencijos veiksmų programos rengimą;
+1) formuoja triukšmo prevencijos valstybės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -539,7 +575,10 @@ Aplinkos ministerija:
 
 
 
-4) įstatymų nustatyta tvarka išduoda leidimus naudoti triukšmą skleidžiančius įrenginius ir vertina, ar šių įrenginių skleidžiamas triukšmas atitinka teisės aktų patvirtintus ribinius dydžius;
+4) įstatymų nustatyta tvarka išduoda leidimus naudoti triukšmą skleidžiančius įrenginius, kai Sveikatos apsaugos ministerijos įgaliota institucija įvertina, ar šių įrenginių skleidžiamas triukšmas atitinka teisės aktais patvirtintus ribinius dydžius;
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -565,12 +604,18 @@ Aplinkos ministerija:
 Susisiekimo ministerija:
 
 
-1) atlieka pagrindinių kelių, pagrindinių geležinkelių ir oro transporto keliamo triukšmo valdymą;
+1) atlieka ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir oro transporto keliamo triukšmo valdymą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
 
-2) sudaro ir tvarko pagrindinių kelių, pagrindinių geležinkelių ir stambių oro uostų strateginius triukšmo žemėlapius; 
+2) sudaro ir tvarko ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius ir Vyriausybės nustatyta tvarka įgyvendina ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos ir mažinimo priemones;
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -639,9 +684,10 @@ Susisiekimo ministerija:
 11 straipsnis. Triukšmo prevencijos taryba
 
 
-1. Triukšmo prevencijos plėtros klausimus nagrinėja ir pasiūlymus valstybės ir savivaldybių institucijoms, įgyvendinančioms valstybės politiką triukšmo prevencijos srityje ir Valstybinę triukšmo prevencijos veiksmų programą, teikia nuolatinė Triukšmo prevencijos taryba. Ši taryba sudaroma iš valstybės institucijų, saugomų teritorijų administracijų, Lietuvos savivaldybių asociacijos, mokslo institucijų ir visuomenės atstovų. Ne mažiau kaip pusė Triukšmo prevencijos tarybos narių turi būti mokslininkai ir specialistai, dirbantys triukšmo prevencijos srityje. 
+1. Triukšmo prevencijos plėtros klausimus nagrinėja ir pasiūlymus valstybės ir savivaldybių institucijoms, įgyvendinančioms valstybės politiką triukšmo prevencijos srityje, teikia nuolatinė Triukšmo prevencijos taryba. Ši taryba sudaroma iš valstybės institucijų, saugomų teritorijų administracijų, Lietuvos savivaldybių asociacijos, mokslo institucijų ir visuomenės atstovų. Ne mažiau kaip pusė Triukšmo prevencijos tarybos narių turi būti mokslininkai ir specialistai, dirbantys triukšmo prevencijos srityje. 
 Straipsnio dalies pakeitimai:
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
 
 
@@ -655,7 +701,10 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 3. Triukšmo prevencijos taryba:
 
 
-1) kasmet įvertina, kaip įgyvendinamos Valstybinė triukšmo strateginio kartografavimo programa ir Valstybinė triukšmo prevencijos veiksmų programa, ir teikia Vyriausybei šio vertinimo išvadas;
+1) Neteko galios nuo 2016-11-01
+Straipsnio punkto naikinimas:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -670,23 +719,34 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 
 
 
-4) pritaria Valstybinės triukšmo prevencijos veiksmų programos projektui ir strateginių triukšmo žemėlapių projektams; 
+4) pritaria strateginių triukšmo žemėlapių projektams; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
 
-5) Vyriausybei, valstybės ir savivaldybių institucijoms teikia pasiūlymus dėl triukšmo valdymo problemų sprendimo;
+5) valstybės politiką triukšmo prevencijos srityje įgyvendinančioms valstybės ir savivaldybių institucijoms teikia pasiūlymus dėl triukšmo valdymo problemų sprendimo; 
 Straipsnio punkto pakeitimai:
 Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA00XI-769
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
 
 
 
 
 6) atlieka kitas funkcijas, numatytas šiame įstatyme ir Triukšmo prevencijos tarybos nuostatuose. 
+
+
+
+
+
+
+4. Triukšmo prevencijos tarybos ūkinio ir techninio aptarnavimo veikla finansuojama iš Sveikatos apsaugos ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų.
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
-
-
 
 
 
@@ -707,7 +767,10 @@ Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA0
 1. Savivaldybių tarybos:
 
 
-1) nustato tyliąsias zonas;
+1) aglomeracijose nustato tyliąsias aglomeracijos zonas ir tyliąsias gamtos zonas; ne aglomeracijose, atsižvelgdamos į vietos gyventojų apklausos rezultatus dėl tyliųjų zonų nustatymo poreikio, – tyliąsias viešąsias zonas ir tyliąsias gamtos zonas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -722,7 +785,10 @@ Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA0
 
 
 
-4) tvirtina aglomeracijų strateginius triukšmo žemėlapius; 
+4) tvirtina aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius ir aglomeracijų triukšmo prevencijos veiksmų planus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -750,7 +816,10 @@ Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010IST
 2. Savivaldybių vykdomosios institucijos, kiti pavaldūs viešojo administravimo subjektai:
 
 
-1) įgyvendina patvirtintą Valstybinę triukšmo prevencijos veiksmų programą;
+1) Neteko galios nuo 2016-11-01
+Straipsnio punkto naikinimas:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -765,12 +834,18 @@ Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010IST
 
 
 
-4) nustato muzikinių ir kitų masinių renginių, kuriuos organizuoja juridiniai ir fiziniai asmenys, trukmę; 
+4) nustato muzikinių ir kitų masinių renginių, kuriuos organizuoja juridiniai ir fiziniai asmenys, trukmę ir leidžiamą statybos darbų pradžios ir pabaigos laiką; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
 
-5) rengia aglomeracijų strateginius triukšmo žemėlapius; 
+5) sudaro aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius ir aglomeracijų triukšmo prevencijos veiksmų planus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -793,7 +868,10 @@ Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010IST
 
 
 
-9) vykdo triukšmo, kylančio atliekant statybos, remonto darbus gyvenamosiose patalpose ir gyvenamosiose teritorijose, kontrolę, atlieka triukšmo prevencijos viešosiose vietose taisyklių vykdymo kontrolę;
+9) vykdo triukšmo, kylančio atliekant statybos darbus gyvenamosiose patalpose ir gyvenamosiose teritorijose, kontrolę Vyriausybės nustatyta tvarka, atlieka triukšmo prevencijos viešosiose vietose taisyklių laikymosi kontrolę;
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -848,7 +926,10 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 
 
 
-3. Triukšmo šaltinių valdytojai privalo laikytis nustatytų triukšmo ribinių dydžių ir užtikrinti, kad naudojamų įrenginių triukšmo lygis neviršytų vietovei, kurioje naudojami triukšmo šaltiniai, nustatytų triukšmo ribinių dydžių.
+3. Triukšmo šaltinių valdytojai privalo laikytis nustatytų triukšmo ribinių dydžių ir užtikrinti, kad naudojamų įrenginių, inžinerinių statinių ir sistemų, vykdomos ūkinės veiklos ir jos lemiamo triukšmo lygis neviršytų vietovei, kurioje naudojami triukšmo šaltiniai, nustatytų triukšmo ribinių dydžių.
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -930,171 +1011,217 @@ strateginis triukšmo kartografavimas IR PREVENCIJOS PRIEMONIŲ PLANAVIMAS
  
 
 
-17 straipsnis. Strateginis triukšmo kartografavimas
+17 straipsnis. Strateginis triukšmo kartografavimas 
 
 
 1. Lietuvos Respublikoje sudaromi strateginiai triukšmo žemėlapiai:
 
 
-1) visų jos teritorijoje esančių aglomeracijų;
+1) aglomeracijų;
 
 
 
 
-2) pagrindinių kelių;
+2) pagrindinių kelių ruožų;
 
 
 
 
-3) pagrindinių gatvių
+3) pagrindinių geležinkelio kelių ruožų;
 
 
 
 
-4) pagrindinių geležinkelių;
+4) stambių oro uostų.
 
 
+TAR pastaba. 1 dalyje nurodyti strateginiai triukšmo žemėlapiai turi būti sudaryti pagal 2016 metų duomenis ir patvirtinti ne vėliau kaip iki 2017 m. birželio 30 d. Po 2017 m. birželio 30 d. strateginiai triukšmo žemėlapiai sudaromi (tikslinami) pagal 17 straipsnio 7 dalį.
 
 
-5) stambių oro uostų.
 
 
+2. Strateginiai triukšmo žemėlapiai ir pagal šių žemėlapių rezultatus parengiami duomenys bei informacija visuomenei gali būti pateikti šių formų:
 
 
+1) grafiniais brėžiniais – spausdintiniais žemėlapiais;
 
 
-2. Strateginiai triukšmo žemėlapiai gali būti šių formų:
 
 
-1) grafiniai brėžiniai;
+2) skaitmeniniais duomenimis lentelėse;
 
 
 
 
-2) duomenys lentelėse;
+3) elektroninio formato skaitmeniniais duomenimis – erdvinių duomenų rinkiniais.
 
 
 
 
-3) elektroniniai duomenys.
 
 
+3. Strateginis triukšmo žemėlapis skirtas pateikti duomenims ir informacijai apie:
 
 
+1) buvusį ar esamą, ar prognozuojamą triukšmo lygį; 
 
 
-3. Strateginiuose triukšmo žemėlapiuose turi būti pateikti šie duomenys:
 
 
-1) esami arba prognozuojami triukšmo lygiai; 
+2) triukšmo ribinio dydžio viršijimą; 
 
 
 
 
-2) kiek viršijami triukšmo ribiniai dydžiai; 
+3) prognozuojamą būstų, ikimokyklinio ugdymo įstaigų, bendrojo ugdymo mokyklų, stacionarinių asmens sveikatos priežiūros įstaigų pastatų, kuriuos veikia tam tikro lygio triukšmas, skaičių tam tikroje teritorijoje; 
 
 
 
 
-3) prognozuojamas mokyklų, ligoninių, būstų, kuriuos veikia atitinkamais rodikliais apibūdintas triukšmas, skaičius nustatytoje teritorijoje; 
+4) triukšmo veikiamoje zonoje gyvenančių žmonių, ugdomų mokinių, stacionarinėse asmens sveikatos priežiūros įstaigose gydomų pacientų skaičių.
 
 
 
 
-4) triukšmo veikiamoje zonoje gyvenančių ir dirbančių žmonių skaičius.
 
 
+4. Aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius sudaro savivaldybių, kuriose yra aglomeracijų, vykdomosios institucijos, kiti joms pavaldūs viešojo administravimo subjektai. Ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius sudaro Susisiekimo ministerija.
 
 
 
 
-4. Valstybės institucijas, atsakingas už šio straipsnio 1 dalyje nurodytų strateginių triukšmo žemėlapių rengimą, rengimo terminus ir tvirtinimą nustato Vyriausybė.
+5. Sudarant aglomeracijų strateginius triukšmo žemėlapius, aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų strateginius triukšmo žemėlapius įvertinami šalia aglomeracijų esantys triukšmo šaltiniai, jeigu šių triukšmo šaltinių skleidžiamas triukšmas daro įtaką aglomeracijų akustinei aplinkai.
 
 
 
 
-5. Strateginiai triukšmo žemėlapiai peržiūrimi ir, jei reikia, pataisomi ne rečiau kaip kas penkeri metai nuo jų patvirtinimo datos. Rengiant ir tikslinant strateginius triukšmo žemėlapius, taikomi Ldvn ir Lnakties.
+6. Sudarant ar tikslinant strateginius triukšmo žemėlapius, taikomi Ldvn, Ldienos, Lvakaro ir Lnakties triukšmo rodikliai.
 
 
 
 
-6. Strateginiai triukšmo žemėlapiai naudojami sudarant triukšmo prevencinių veiksmų planus, informuojant visuomenę, teikiant duomenis Europos Komisijai. 
+7. Strateginiai triukšmo žemėlapiai sudaromi (jau sudaryti patikslinami) ir kompetentingų institucijų patvirtinami ne rečiau kaip kas penkerius metus.
 
 
 
 
-7. Lietuvos Respublika bendradarbiauja su kaimyninėmis valstybėmis atliekant strateginį triukšmo kartografavimą netoli jų bendros valstybės sienos.
+8. Strateginiams triukšmo žemėlapiams sudaryti (jau sudarytiems patikslinti) turi būti naudojami duomenys ir informacija apie triukšmo šaltinius, garso sklidimui įtaką darančias aplinkybes, triukšmo veikiamus statinius ir juose gyvenančius gyventojus, ugdomus mokinius, stacionarinėse asmens sveikatos priežiūros įstaigose gydomus pacientus kalendoriniais metais, buvusiais prieš strateginių triukšmo žemėlapių patvirtinimo metus.
+
+
+
+
+9. Strateginio triukšmo kartografavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+10. Strateginiai triukšmo žemėlapiai naudojami Vyriausybės nustatyta tvarka planuojant triukšmo problemoms ir poveikiui valdyti, įskaitant ir triukšmo mažinimą, skirtas priemones, strateginius triukšmo žemėlapius sudarančioms institucijoms ir Sveikatos apsaugos ministerijai ar jos įgaliotai institucijai informuojant visuomenę apie aplinkos triukšmą, teritorijų planavimo dokumentų rengėjams rengiant teritorijų planavimo dokumentus, Sveikatos apsaugos ministerijai ar jos įgaliotai institucijai teikiant šio įstatymo priede nurodyto Europos Sąjungos teisės akto įgyvendinimo ataskaitas Europos Komisijai.
+
+
+
+
+11. Lietuvos Respublika bendradarbiauja su kaimyninėmis valstybėmis, kai strateginis triukšmo kartografavimas atliekamas netoli jų bendros valstybės sienos. Lietuvos Respublikos bendradarbiavimas su kaimyninėmis valstybėmis strateginio triukšmo kartografavimo srityje vykdomas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+TAR pastaba. 17 straipsnio nuostatos dėl strateginių triukšmo žemėlapių reikalavimų taikomos strateginiams triukšmo žemėlapiams, kurie kompetentingų institucijų sudaromi ir patvirtinami įsigaliojus  įstatymui Nr. XII-2341, bei strateginiams triukšmo žemėlapiams, kurie sudaromi siekiant patikslinti iki šio įstatymo įsigaliojimo dienos (2016-11-01) sudarytus strateginius triukšmo žemėlapius. Iki šio įstatymo įsigaliojimo dienos kompetentingų institucijų sudaryti bei patvirtinti ir, įsigaliojus šiam įstatymui, patikslinti strateginiai triukšmo žemėlapiai galioja iki šio straipsnio 2 dalyje nurodyto termino.
+Straipsnio pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
 
 
 
 
+18 straipsnis. Triukšmo prevencijos ir mažinimo priemonių planavimas aglomeracijose, pagrindinių kelių ruožuose, pagrindinių geležinkelio kelių ruožuose, stambiuose oro uostuose ir šių priemonių įgyvendinimas
 
 
-18 straipsnis. Valstybinė triukšmo strateginio kartografavimo programa
+1. Aglomeracijose, pagrindinių kelių ruožuose, pagrindinių geležinkelio kelių ruožuose ir stambiuose oro uostuose įgyvendinamos triukšmo prevencijos ir mažinimo priemonės planuojamos sudarant:
 
 
-1. Strateginiams triukšmo žemėlapiams rengti Vyriausybės įgaliotos valstybės institucijos rengia ir teikia Vyriausybei tvirtinti Valstybinę triukšmo strateginio kartografavimo programą.
+1) savivaldybių, kuriose yra aglomeracijų, tarybų tvirtinamus aglomeracijų triukšmo prevencijos veiksmų planus;
 
 
 
 
-2. Strateginiai triukšmo žemėlapiai teikiami Sveikatos apsaugos ministerijai ar jos įgaliotai institucijai, o ši suvestinę informaciją naudoja Valstybinei triukšmo prevencijos veiksmų programai rengti ar tikslinti.
+2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus.
+
+
+TAR pastaba. 18 straipsnio 1 dalyje nurodyti triukšmo prevencijos veiksmų planai Vyriausybės nustatyta tvarka sudaromi ir patvirtinami ne vėliau kaip iki 2018 m. liepos 18 d. Šioje dalyje nurodyti triukšmo prevencijos veiksmų planai sudaromi pagal 2016 metų padėtį parodančių strateginių triukšmo žemėlapių rezultatus. Toliau triukšmo prevencijos veiksmų planai sudaromi ir patvirtinami ne vėliau kaip kas 5 metus, skaičiuojant nuo šioje dalyje nurodyto termino.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti triukšmo prevencijos veiksmų planai Vyriausybės nustatyta tvarka sudaromi ir patvirtinami ne rečiau kaip kas penkerius metus. Triukšmo prevencijos veiksmų planai sudaromi ir patvirtinami ne anksčiau negu strateginiai triukšmo žemėlapiai.
+
+
+
+
+3. Sudarant aglomeracijų triukšmo prevencijos veiksmų planus, šiuose planuose planuojamos priemonės, skirtos kelių transporto (įskaitant aglomeracijose esančių pagrindinių kelių ruožų transportą) triukšmo, geležinkelių transporto (įskaitant aglomeracijose esančių pagrindinių geležinkelio kelių ruožų transportą) triukšmo, oro uostų ir aerodromų (įskaitant aglomeracijose esančius stambius oro uostus) triukšmo bei triukšmo iš pramoninės veiklos zonų prevencijai ir mažinimui.
+
+
+
+
+4. Aglomeracijų triukšmo prevencijos veiksmų planų priemonės įgyvendinamos  savivaldybių, kuriose yra aglomeracijų, strateginio planavimo dokumentais.
+
+
+
+
+5. Triukšmo prevencijos veiksmų planai patikslinami, kai strateginio triukšmo kartografavimo metu nustatoma, kad viršyti triukšmo ribiniai dydžiai. Savivaldybių tarybų tvirtinamuose aglomeracijų triukšmo prevencijos veiksmų planuose nustatomos tyliosioms zonoms išsaugoti skirtos priemonės gali būti patikslinamos, kai šio straipsnio 7 dalyje nustatytais būdais tyliosiose zonose nustatomas triukšmo padidėjimas.
+
+
+
+
+6. Aglomeracijose, pagrindinių kelių ruožuose, pagrindinių geležinkelio kelių ruožuose ir stambiuose oro uostuose įgyvendinamos triukšmo mažinimo priemonės parenkamos atsižvelgiant į strateginio triukšmo kartografavimo metu nustatytus triukšmo ribinių dydžių viršijimo atvejus, triukšmo prevencijos priemonės parenkamos atsižvelgiant į planuojamą triukšmo ribinius dydžius viršijantį triukšmą patirsiančių gyventojų skaičių, jeigu per artimiausius penkerius metus nebūtų imtasi veiksmų triukšmo ribinių dydžių viršijimui išvengti.
+
+
+
+
+7. Tyliosioms zonoms išsaugoti skirtos priemonės savivaldybių tarybų tvirtinamuose aglomeracijų triukšmo prevencijos veiksmų planuose planuojamos ir įgyvendinamos, kai triukšmo kartografavimo arba triukšmo stebėsenos (monitoringo) tyliosiose zonose metu nustatoma, kad triukšmo lygis tyliojoje zonoje padidėjo daugiau kaip 2 dB, palyginti su triukšmo lygiu tyliojoje zonoje šios zonos nustatymo metu, arba gyventojų apklausų triukšmo padidėjimui tyliosiose zonose subjektyviai įvertinti metu yra nustatoma, kad tylioji zona nebeatitinka šiame įstatyme pateiktos atitinkamos tyliosios zonos rūšies požymių.
+
+
+
+
+8. Aglomeracijose, pagrindinių kelių ruožuose, pagrindinių geležinkelio kelių ruožuose ir stambiuose oro uostuose triukšmo prevencijos ir mažinimo priemonės įgyvendinamos prioriteto tvarka – pirmiausia įgyvendinamos triukšmo prevencijos ir mažinimo priemonės, kurias įgyvendinus triukšmas būtų sumažintas ties pastatais ar pastatų grupėmis, kurių triukšmo prevencijos priemonių įgyvendinimo poreikio prioriteto rodiklis yra didesnis. Triukšmo prevencijos priemonių įgyvendinimo poreikio prioriteto rodiklį apskaičiuoja šio straipsnio 1 dalyje nurodytus triukšmo prevencijos veiksmų planus rengiančios institucijos.
+
+
+
+
+9. Tyliosioms zonoms išsaugoti skirtų priemonių įgyvendinimo prioritetas nustatomas pagal tyliosios zonos plotą, kuriame triukšmo lygis yra didesnis, negu tyliosios zonos nustatymo metu. Tyliosioms zonoms išsaugoti skirtų priemonių įgyvendinimo prioritetą nustato aglomeracijų triukšmo prevencijos veiksmų planus rengiančios institucijos.
+
+
+
+
+10. Informacijos, pateikiamos aglomeracijų, ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planuose, reikalavimus, šiuose veiksmų planuose nustatomų triukšmo prevencijos ir mažinimo priemonių reikalavimus bei konsultavimosi su visuomene triukšmo prevencijos ir mažinimo priemonių planavimo klausimais reikalavimus nustato Vyriausybė.
+
+
+
+
+11. Lietuvos Respublika bendradarbiauja su kaimyninėmis valstybėmis planuojant triukšmo prevencijos ir mažinimo priemones, įgyvendinamas pasienio regionuose. Lietuvos Respublikos bendradarbiavimas su kaimyninėmis valstybėmis triukšmo prevencijos priemonių planavimo srityje vykdomas Vyriausybės nustatyta tvarka.
+
+
+
+
+12. Rengiant teritorijų planavimo dokumentus, privaloma atsižvelgti į šio straipsnio 1 dalyje nurodytuose triukšmo prevencijos veiksmų planuose nustatytas triukšmo prevencijos ir mažinimo priemones, kurių įgyvendinimas daro įtaką rengiamų teritorijų planavimo dokumentų sprendiniams.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
 
 
 
 
-
-
-19 straipsnis. Valstybinė triukšmo prevencijos veiksmų programa
-
-
-1. Valstybinė triukšmo prevencijos veiksmų programa rengiama ir įgyvendinama siekiant valdyti triukšmą ir jo poveikį sveikatai. Valstybinė triukšmo prevencijos veiksmų programa turi apimti Lietuvos teritorijoje esančias aglomeracijas, pagrindinius kelius, pagrindinius geležinkelius ir stambius oro uostus.
-
-
-
-
-2. Valstybinės triukšmo prevencijos veiksmų programos prioritetinės priemonės parenkamos pagal bet kuriuos viršytus taikomus triukšmo ribinius dydžius arba pagal kitus Triukšmo prevencijos tarybos nustatytus kriterijus ir taikomos svarbiausiose srityse, nustatytose atliekant strateginį triukšmo kartografavimą.
-
-
-
-
-3. Valstybinę triukšmo prevencijos veiksmų programą rengia ir teikia Vyriausybei tvirtinti Sveikatos apsaugos ministerija ir Susisiekimo ministerija.
-
-
-
-
-4. Valstybinė triukšmo prevencijos veiksmų programa peržiūrima ir taisoma, kai pasikeičia esamo triukšmo lygiai, bet ne rečiau kaip kas penkeri metai nuo patvirtinimo datos.
+19 straipsnis. Neteko galios nuo 2016-11-01
+Straipsnio naikinimas:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
 
 
 
 
-
-
-20 straipsnis. Valstybinės triukšmo prevencijos veiksmų programos struktūra
-
-
-1. Valstybinėje triukšmo prevencijos veiksmų programoje turi būti:
-
-
-1) aglomeracijų pagrindinių kelių, pagrindinių geležinkelių arba stambių oro uostų ar kitų įvertintų triukšmo šaltinių aprašymas, teisinė priklausomybė, triukšmo ribiniai dydžiai, triukšmo kartografavimo rezultatų suvestinė, prognozuojamas triukšmo veikiamų žmonių skaičius, nurodytos problemos ir kas taisytina, organizuotų konsultacijų su visuomene įrašai, nurodytos taikomos triukšmą mažinančios priemonės ir visi rengiami projektai, veiksmai, kurių ketinama imtis per artimiausius penkerius metus, įskaitant visas tyliosioms zonoms išsaugoti skirtas priemones, ilgalaikė strategija, nuostatos dėl numatomo veiksmų plano įgyvendinimo ir rezultatų vertinimo;
-
-
-
-
-2) nurodyti veiksmai, kurių valstybės ir savivaldybių institucijos planuoja imtis pagal savo kompetenciją (transporto planavimas, žemėtvarka, techninės priemonės triukšmo šaltiniuose, mažesnių triukšmo šaltinių parinkimas, garso perdavimo sumažinimas, teisinės ar kitos priemonės ar paskatos).
-
-
-
-
-
-
-2. Valstybinėje triukšmo prevencijos veiksmų programoje turi būti nurodyta, kiek turėtų sumažėti triukšmo veikiamų (dirginamų, tokių, kuriems trikdomas miegas, ar kt.) žmonių skaičius.
+20 straipsnis. Neteko galios nuo 2016-11-01
+Straipsnio naikinimas:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
-
-
 
 
 
@@ -1252,7 +1379,10 @@ TRIUKŠMO KONTROLĖ
 
 
 
-5. Orlaivių keliamo triukšmo stebėsenos (monitoringo) sistemos privalo turėti galimybę nenutrūkstamai stebėti triukšmo lygius dieną ir naktį ne mažiau kaip tris paras iš eilės. Stebėjimo vietų ir stebėjimo taškų skaičių ir stebėjimo tvarką, teisę atlikti orlaivių triukšmo matavimus, licencijų išdavimo, jų galiojimo sustabdymo ir panaikinimo tvarką nustato Civilinės aviacijos administracija.
+5. Orlaivių keliamo triukšmo stebėsenos (monitoringo) sistemos privalo turėti galimybę nenutrūkstamai stebėti triukšmo lygius dieną ir naktį ne mažiau kaip tris paras iš eilės. Stebėjimo vietų ir stebėjimo taškų skaičių bei stebėjimo tvarką nustato Civilinės aviacijos administracija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -1317,7 +1447,10 @@ Nr. XI-769, 2010-04-20, Žin., 2010, Nr. 51-2479 (2010-05-04), i. k. 1101010ISTA
 
 
 
-2) pagrindiniais keliais, pagrindiniais geležinkeliais važiuojančių transporto priemonių ir orlaivių keliamo triukšmo lygis ir jo mažinimo priemonės;
+2) pagrindinių kelių ruožais, pagrindinių geležinkelio kelių ruožais važiuojančių transporto priemonių ir orlaivių keliamo triukšmo lygis ir jo mažinimo priemonės; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+ 
 
 
 
@@ -1381,9 +1514,16 @@ TRIUKŠMO REGULIAVIMAS
 
 
 3) suderinusios su Susisiekimo ministerija, nustatytoje teritorijoje apriboti arba uždrausti transporto priemonių eismą. 
+
+
+
+
+
+
+3. Valstybinės reikšmės nepagrindinių kelių, kurie yra ne aglomeracijose, triukšmo mažinimo priemonių reikalavimus nustato Vyriausybė ar jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
-
-
 
 
 
@@ -1411,18 +1551,15 @@ TRIUKŠMO REGULIAVIMAS
 
 
 
-29 straipsnis. Gaminių ženklinimas
+29 straipsnis. Triukšmą skleidžiančių gaminių ženklinimas ir šių gaminių skleidžiamo triukšmo ribojimas
 
 
-1. Importuojami į Lietuvos Respubliką ir Lietuvos Respublikoje gaminami gaminiai (jų grupės), skleidžiantys triukšmą, išskyrus orlaivius, turi būti ženklinami nurodant triukšmo lygį arba triukšmo mažinimo efektyvumą. Tokie gaminiai (jų grupės) yra ženklinami teisės aktų nustatyta tvarka.
+Importuojami į Lietuvos Respubliką ir Lietuvos Respublikoje gaminami gaminiai (jų grupės), skleidžiantys triukšmą, išskyrus orlaivius, turi atitikti teisės aktuose nustatytus gaminių skleidžiamo triukšmo įvertinimo, skleidžiamo triukšmo ribojimo ir gaminių ženklinimo, pateikiant informaciją apie gaminių skleidžiamą triukšmą, reikalavimus.
 
 
-
-
-2. Kiekvienas skleidžiančių triukšmą gaminių gamintojas turi užtikrinti tokius triukšmo tyrimus, apskaitos sistemas ir testus, kurie galėtų kontroliuojančioms institucijoms įrodyti, kad gamintojas laikosi šio įstatymo reikalavimų.
+Straipsnio pakeitimai:
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
  
-
-
 
 
 
@@ -1605,3 +1742,8 @@ Lietuvos Respublikos triukšmo valdymo įstatymo 2, 4, 5, 6, 11, 13, 14, 25 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. 1131010ISTA0XII-467
 Lietuvos Respublikos triukšmo valdymo įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 2, 5, 7, 8, 9, 11, 13, 14, 17, 18, 24, 26, 27, 29 straipsnių pakeitimo ir 19, 20 straipsnių pripažinimo netekusiais galios įstatymas
