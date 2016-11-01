@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1746D2A4EFB9"
 
 # Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2727, i. k. 0971010ISTAVIII-499
  
@@ -61,7 +61,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Europos bendrijos svarbos rūšys – gyvūnų ir augalų, egzistuojančių europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis, rūšys, kurios:
+3. Europos bendrijos svarbos rūšys – gyvūnų ir augalų, egzistuojančių europinėje teritorijoje valstybių narių, kurioms taikoma Sutartis dėl Europos Sąjungos veikimo, rūšys, kurios:
 
 
 1) yra nykstančios, išskyrus rūšis, kurių natūralaus arealo pakraščio dalis toje teritorijoje yra nedidelė ir kurioms negresia išnykimas ar kurios nėra pažeidžiamos Vakarų Palearktikos regione;
@@ -84,9 +84,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-5) yra išvardytos šios dalies 1–4 punktuose ir yra arba gali būti įtrauktos į šio įstatymo 2 priedo 2 punkte nurodyto Europos Sąjungos teisės akto II ir (arba) IV ar V priedus.
+5) yra išvardytos šios dalies 1–4 punktuose ir yra arba gali būti įtrauktos į šio įstatymo 2 priedo 2 punkte nurodyto Europos Sąjungos teisės akto II ir (arba) IV ar V priedus. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
+ 
 
 
 
@@ -126,7 +129,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Prioritetinė Europos bendrijos svarbos rūšis – šio straipsnio 3 dalies 1 punkte nurodyta augalų ar gyvūnų rūšis, už kurios apsaugą Europos bendrija yra ypač atsakinga dėl to, kad didelė jų natūralaus paplitimo arealo dalis patenka į europinę teritoriją valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis.
+11. Prioritetinė Europos bendrijos svarbos rūšis – šio straipsnio 3 dalies 1 punkte nurodyta augalų ar gyvūnų rūšis, už kurios apsaugą Europos bendrija yra ypač atsakinga dėl to, kad didelė jų natūralaus paplitimo arealo dalis patenka į europinę teritoriją valstybių narių, kurioms taikoma Sutartis dėl Europos Sąjungos veikimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
+ 
 
 
 
@@ -141,7 +147,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Rūšies apsaugos būklė – apsaugos kokybę rodanti rūšį veikiančių poveikių visuma, galinti turėti ilgalaikį poveikį rūšies paplitimui, jos populiacijų gausumui europinėje teritorijoje valstybių narių, kurioms taikoma Europos bendrijos steigimo sutartis.
+14. Rūšies apsaugos būklė – rūšį veikiančių poveikių visuma, galinti turėti ilgalaikį poveikį rūšies paplitimui, jos populiacijų gausumui, atsižvelgiant į vertinimą, europinėje teritorijoje valstybių narių, kurioms taikoma Sutartis dėl Europos Sąjungos veikimo, arba Lietuvos Respublikos teritorijoje, arba šios rūšies natūraliame areale.
+Straipsnio dalies pakeitimai:
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
+ 
 
 
 
@@ -756,7 +765,15 @@ Saugomų rūšių apsauga užtikrinama:
 
 
 
-2) prekiauja laukiniais paukščiais, jų lengvai atpažįstamomis dalimis arba gaminiais iš jų laikydamasis Aplinkos ministerijos, Muitinės departamento ir Valstybinės maisto ir veterinarijos tarnybos tvirtinamų Prekybos laukiniais gyvūnais taisyklių, kuriose nustatytos laukinių paukščių rūšys, kuriomis leidžiama prekiauti, ir prekybos jomis sąlygos.
+2) prekiauja laukiniais paukščiais, jų lengvai atpažįstamomis dalimis arba gaminiais iš jų laikydamasis Aplinkos ministerijos, Muitinės departamento ir Valstybinės maisto ir veterinarijos tarnybos tvirtinamų Prekybos laukiniais gyvūnais taisyklių, kuriose nustatytos laukinių paukščių rūšys, kuriomis leidžiama prekiauti, ir prekybos jomis sąlygos;
+
+
+
+
+3) visą laukinio paukščio lizdo medžiagą ar jos dalį perkelia į kitą vietą artimoje aplinkoje arba ant artimoje aplinkoje įrengtos atitinkamai laukinių paukščių rūšiai tinkamos dirbtinės lizdavietės arba pritaiko lizdo aplinkos sąlygas siekdamas, kad laukiniai paukščiai toliau perėtų toje vietoje ar artimoje aplinkoje ir perėjimas būtų jiems saugesnis arba darytų mažiau žalos ūkinės veiklos objektams. Taikant šią nuostatą artima aplinka laikoma vieta, esanti ne toliau kaip 100 metrų atstumu nuo pirminės laukinio paukščio lizdo vietos. 
+Papildyta straipsnio punktu:
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
+ 
 
 
 
@@ -764,6 +781,13 @@ Saugomų rūšių apsauga užtikrinama:
 
 
 3. Kad būtų išvengta laukinių paukščių rūšių išnykimo kuriose nors vietovėse medžiojant ar kitaip gaudant arba žudant paukščius (įskaitant atvejus, kai taikomos šio įstatymo 16 straipsnyje nustatytos išimtys), draudžiama naudoti didelio masto ar neatrankines priemones, įrankius ar būdus, taip pat paukščių medžioklėje naudoti tam tikrų rūšių transporto priemones arba jas naudoti tam tikromis sąlygomis. Didelio masto ar neatrankinės priemonės, įrankiai, būdai ir transporto priemonės, kuriuos yra draudžiama naudoti, transporto priemonių naudojimo sąlygos, kuriomis tos transporto priemonės negali būti naudojamos, nustatomos Aplinkos ministerijos tvirtinamuose Medžioklės Lietuvos Respublikos teritorijoje taisyklėse ir Saugomų rūšių naudojimo tvarkos apraše.
+
+
+
+
+4. Taikant šio įstatymo 16 straipsnio numatytas išimtis dėl tyčinio baltųjų gandrų lizdų naikinimo arba pažeidimo, būtina įgyvendinti kompensacines priemones – dirbtinių lizdaviečių įrengimą artimoje aplinkoje (iki 100 metrų atstumu). Ši sąlyga įtraukiama į išduodamą šio įstatymo 16 straipsnyje nurodytą leidimą.
+Papildyta straipsnio dalimi:
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
  
 
 
@@ -1340,22 +1364,30 @@ _________________
 
 
 
-Lietuvos Respublikos saugomų gyvūnų, 
-augalų, grybų rūšių įstatymo 
+Lietuvos Respublikos
+saugomų gyvūnų, augalų, grybų rūšių įstatymo 
 2 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1979 m. balandžio 2 d. Tarybos direktyva 79/409/EEB dėl laukinių paukščių apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 98) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/105/EB (OL 2006 L 363, p. 368).
+1. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES (OL 2013 L 158, p. 193).
 
 
 
 
-2. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 45 skyrius, 2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/105/EB (OL 2006 L 363, p. 368).
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 357) su paskutiniais pakeitimais, padarytais 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/30/ES (OL 2013 L 178, p. 66).
 
 
+
+
+3. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos (kodifikuota redakcija) (OL 2010 L 20, p. 7) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES (OL 2013 L 158, p. 193).
+
+
+Priedo pakeitimai:
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
+ 
  
  
 Pakeitimai:
@@ -1369,3 +1401,8 @@ Lietuvos Respublikos saugomų gyvūnų, augalų, grybų rūšių ir bendrijų į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-578, 2009-12-17, Žin., 2009, Nr. 159-7200 (2009-12-31), i. k. 1091010ISTA00XI-578
 Lietuvos Respublikos saugomų gyvūnų, augalų, grybų rūšių ir bendrijų įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2 ir 15 straipsnių ir 2 priedo pakeitimo įstatymas
