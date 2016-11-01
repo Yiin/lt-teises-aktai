@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -1073,12 +1073,6 @@ BENDROVĖS VALDYMAS
 
 
 1. Bendrovė turi turėti visuotinį akcininkų susirinkimą ir vienasmenį valdymo organą − bendrovės vadovą. 
-
-
-
-
-2. Bendrovėje gali būti sudaromas kolegialus priežiūros organas − stebėtojų taryba ir kolegialus valdymo organas − valdyba.
-Redakcija nuo 2015 07 01:
 
 
 
@@ -4251,12 +4245,12 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 55 straipsnis. Obligacijos
 
 
-1. Bendrovės obligacija yra terminuotas ne nuosavybės vertybinis popierius, pagal kurį bendrovė, išleidžianti obligacijas, tampa obligacijos savininko skolininke ir prisiima įsipareigojimus obligacijos savininko naudai. Šie įsipareigojimai turi būti nurodyti sprendime išleisti obligacijas ir obligacijų pasirašymo sutartyje.
+1. Bendrovės obligacija yra terminuotas ne nuosavybės vertybinis popierius, pagal kurį bendrovė, išleidžianti obligacijas, tampa obligacijos savininko skolininke ir prisiima įsipareigojimus obligacijos savininko naudai. Šie įsipareigojimai turi būti nurodyti sprendime išleisti obligacijas.
 
 
 
 
-2. Visuotinio akcininkų susirinkimo sprendime išleisti obligacijas ir obligacijų pasirašymo sutartyje turi būti nurodyta obligacijos nominali vertė, metinių palūkanų dydis, fiksuota obligacijos išpirkimo data, nuo kurios obligacijos savininkas įgyja teisę gauti iš bendrovės pinigų sumą, kurią sudaro obligacijos nominali vertė ir metinės palūkanos. 
+2. Visuotinio akcininkų susirinkimo sprendime išleisti obligacijas turi būti nurodyta obligacijos nominali vertė, metinių palūkanų dydis arba šio dydžio apskaičiavimo tvarka, palūkanų mokėjimo tvarka, fiksuota obligacijos išpirkimo data, nuo kurios obligacijos savininkas įgyja teisę gauti iš bendrovės pinigų sumą, kurią sudaro obligacijos nominali vertė ir metinės palūkanos. 
 
 
 
@@ -4266,7 +4260,7 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-4. Sprendimą išleisti obligacijas priima visuotinis akcininkų susirinkimas paprasta balsų dauguma. Įstatuose gali būti numatyta, kad sprendimą išleisti obligacijas priima valdyba (jei valdyba nesudaroma − bendrovės vadovas). Sprendimas išleisti konvertuojamąsias obligacijas priimamas šio Įstatymo 56 straipsnyje nustatyta tvarka.
+4. Sprendimą išleisti obligacijas priima visuotinis akcininkų susirinkimas paprasta balsų dauguma. Įstatuose gali būti numatyta, kad sprendimą išleisti obligacijas priima valdyba (jei valdyba nesudaroma, − bendrovės vadovas). Sprendimas išleisti konvertuojamąsias obligacijas priimamas šio Įstatymo 56 straipsnyje nustatyta tvarka.
 
 
 
@@ -4276,32 +4270,22 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-6. Akcinė bendrovė prieš išleisdama viešai platinamas obligacijas turi sudaryti sutartį su vertybinių popierių viešosios apyvartos tarpininku. Šia sutartimi vertybinių popierių viešosios apyvartos tarpininkas įsipareigoja ginti tam tikros emisijos obligacijų savininkų interesus santykiuose su akcine bendrove, o akcinė bendrovė įsipareigoja jam už tai atlyginti. Vertybinių popierių viešosios apyvartos tarpininkas privalo taip ginti obligacijų savininkų teises ir teisėtus interesus, kaip jis gintų savo teises ir teisėtus interesus būdamas visų šios emisijos obligacijų savininkas. Vertybinių popierių viešosios apyvartos tarpininkas turi teisę kreiptis į teismą, kad būtų apgintos obligacijų savininkų teisės.
+6. Tais atvejais, kai taikomas Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas (toliau – Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas), bendrovė prieš išleisdama obligacijas turi sudaryti sutartį su obligacijų savininkų patikėtiniu. Šiais atvejais obligacijų savininkų interesų gynimą santykiuose su bendrove reguliuoja Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas ir šis Įstatymas.
 
 
 
 
-7. Daugiau kaip 1/2 vienos konkrečios emisijos obligacijų turintys obligacijų savininkai turi teisę:
-
-
-1) nušalinti jų interesus ginantį vertybinių popierių viešosios apyvartos tarpininką ir reikalauti, kad akcinė bendrovė sudarytų sutartį su jų siūlomu vertybinių popierių viešosios apyvartos tarpininku;
+7. Obligacijos (obligacijų) savininkas (savininkai) turi teisę duoti paprastos rašytinės formos įgaliojimą kitam asmeniui jo (jų) vardu atlikti veiksmus, susijusius su įgaliojimą davusių obligacijos (obligacijų) savininko (savininkų) interesų gynimu santykiuose su bendrove ir su obligacijų savininkų patikėtiniu.
 
 
 
 
-2) nurodyti jų interesus ginančiam vertybinių popierių viešosios apyvartos tarpininkui, kad akcinės bendrovės padarytas pažeidimas, susijęs su viešai platinama konkrečia obligacijų emisija, yra neesminis ir todėl nereikia tam tikrų veiksmų jų interesams ginti (ši nuostata netaikoma akcinės bendrovės padarytiems pažeidimams, susijusiems su obligacijų išpirkimu ir palūkanų mokėjimu).
+8. Bendrovė ir (ar) tretieji asmenys obligacijų savininkui tiesiogiai ar, kai taikomas Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas, obligacijų savininkų naudai per obligacijų savininkų patikėtinį gali užtikrinti bendrovės prievolių, atsirandančių dėl obligacijų išleidimo, įvykdymą. 
 
 
 
 
-
-
-8. Tais atvejais, kai akcinės bendrovės išleidžiamos obligacijos yra užtikrintos turto įkeitimu ar hipoteka, įkaito turėtojo teises visų obligacijų savininkų naudai įgyvendina vertybinių popierių viešosios apyvartos tarpininkas. Tretieji asmenys obligacijų savininkui tiesiogiai ar per vertybinių popierių viešosios apyvartos tarpininką gali laiduoti ar garantuoti už akcinės bendrovės prievolių, atsirandančių dėl obligacijų išleidimo, įvykdymą. Šių prievolių ar jų dalies neįvykdžius, gautas iš trečiųjų asmenų lėšas vertybinių popierių viešosios apyvartos tarpininkas privalo perduoti obligacijų savininkams.
-
-
-
-
-9. Jeigu obligacijos savininkas ar jo vertybinių popierių sąskaitas tvarkantis vertybinių popierių viešosios apyvartos tarpininkas per 3 metus nuo obligacijų pasirašymo sutartyje nurodytos obligacijų išpirkimo datos nepateikia reikalavimo išpirkti obligaciją, obligacijos savininkas praranda šio reikalavimo teisę.
+9. Jeigu obligacijos savininkas per 3 metus nuo sprendime išleisti obligacijas nurodytos obligacijų išpirkimo datos nepateikia reikalavimo išpirkti obligaciją, obligacijos savininkas praranda šio reikalavimo teisę.
 
 
 
@@ -4311,11 +4295,45 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-11. Uždarosioms akcinėms bendrovėms draudžiama obligacijas platinti viešai.
+11. Uždarosios akcinės bendrovės obligacijas, išskyrus konvertuojamąsias obligacijas, gali siūlyti viešai, jei laikomasi šiame straipsnyje nustatytų reikalavimų. Uždarosios akcinės bendrovės obligacijų, įskaitant konvertuojamąsias obligacijas, siūlymui šio Įstatymo 2 straipsnio 4 dalies nuostatos taikomos mutatis mutandis. 
+
+
+
+
+12. Viešai siūlyti obligacijas gali uždaroji akcinė bendrovė, kurios paskutinių finansinių metų, einančių prieš finansinius metus, kuriais priimtas sprendimas išleisti obligacijas, metinių finansinių ataskaitų rinkinys yra audituotas, ir tik tada, kai ji:
+
+
+1) sudarė sutartį su finansinių priemonių asmeninių sąskaitų tvarkytoju dėl viešai siūlomų vertybinių popierių (obligacijų) sąskaitų tvarkymo; 
+
+
+
+
+2) paskelbė vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka parengtą ir patvirtintą prospektą ar parengė šio Įstatymo 78 straipsnio 2 dalyje nurodytą informacinį dokumentą apie bendrovę ir jos siūlomą obligacijų emisiją tais atvejais, kai vieną iš šių dokumentų privalu rengti ar skelbti.
+
+
+
+
+
+
+13. Uždarosios akcinės bendrovės, kuri obligacijas siūlo viešai, metinių finansinių ataskaitų rinkinio auditas yra privalomas iki finansinių metų, kuriais įvykdyti visi įsipareigojimai obligacijų savininkams.
+
+
+
+
+14. Viešai siūlomų obligacijų sąskaitos tvarkomos vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka. 
+
+
+
+
+15. Vertybinių popierių viešosios apyvartos tarpininko ir viešo vertybinių popierių siūlymo sąvokos šiame Įstatyme yra suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vertybinių popierių įstatyme. Obligacijų savininkų patikėtinio sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžta Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatyme.
+TAR pastaba. 55 straipsnio nuostatos taikomos akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kurios sprendimą dėl obligacijų emisijos priėmė įsigaliojus (2016-11-01) įstatymui Nr. XII-2444.
+Akcinių bendrovių, kurios sprendimą dėl obligacijų emisijos priėmė iki įstatymo Nr. XII-2444 įsigaliojimo dienos (2016-11-01), obligacijų savininkų interesai ginami vadovaujantis sprendimo priėmimo metu galiojusiomis Lietuvos Respublikos akcinių bendrovių įstatymo 55 straipsnio 6, 7 ir 8 dalių nuostatomis.
 
 
 Straipsnio pakeitimai:
 Nr. X-271, 2005-06-23, Žin., 2005, Nr. 84-3109 (2005-07-12)
+Straipsnio pakeitimai:
+Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
  
 
 
@@ -5882,12 +5900,6 @@ Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 
 
 
-3) užsienio bendrovės metinių finansinių ataskaitų rinkinys, kuris yra sudarytas, audituotas ir atskleistas pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę;
-Redakcija nuo 2014-10-01:
-
-
-
-
 3) užsienio bendrovės metinių finansinių ataskaitų rinkinys ir metinis pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinis konsoliduotųjų finansinių ataskaitų rinkinys ir konsoliduotasis metinis pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), kurie yra sudaryti (parengti) ir atskleisti pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę;
 
 
@@ -6029,9 +6041,11 @@ BAIGIAMOSIOS NUOSTATOS ir įstatymo įsigaliojimas
 
 
 
-2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių viešas platinimas nepatenka į vertybinių popierių rinką reglamentuojančių teisės aktų reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė viršija 100 tūkstančių eurų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę ir siūlomus perleidžiamuosius vertybinius popierius, ir sudaryta galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio dokumento parengti nereikalaujama. 
+2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų viešas platinimas nepatenka į vertybinių popierių rinką reglamentuojančių teisės aktų reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė viršija 100 tūkstančių eurų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę ir siūlomus perleidžiamuosius vertybinius popierius arba uždarąją akcinę bendrovę ir siūlomas obligacijas, ir sudaryta galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio dokumento parengti nereikalaujama.
+TAR pastaba. 78 straipsnio 2 dalies nuostatos taikomos akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kurios sprendimą dėl obligacijų emisijos priėmė įsigaliojus (2016-11-01)  įstatymui Nr. XII-2444.
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
  
 
 
@@ -6435,3 +6449,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 40 ir 78 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 55 ir 78 straipsnių pakeitimo įstatymas
