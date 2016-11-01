@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -792,6 +792,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 82. Ženklinimas – informacija ant vidinės arba išorinės pakuotės.
 
 
+
+
+83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme bei Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-59, 2008-12-16, Žin., 2008, Nr. 149-5991 (2008-12-30)
 Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
@@ -1559,7 +1567,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-4. Įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus ar importuoti iš trečiosios šalies vardinius vaistinius preparatus į Lietuvos Respubliką gali tik juridiniai asmenys, šio įstatymo nustatyta tvarka gavę didmeninio platinimo licenciją. 
+4. Įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus arba importuoti iš trečiosios šalies vardinius vaistinius preparatus ir šio straipsnio 18 dalyje nurodytus neregistruotus vaistinius preparatus į Lietuvos Respubliką gali tik juridiniai asmenys, šio įstatymo nustatyta tvarka gavę didmeninio platinimo licenciją. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -1625,7 +1636,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-10. Juridiniai asmenys, neturintys asmens sveikatos priežiūros veiklos licencijos ar licencijos verstis farmacine veikla, vaistinių preparatų gali įsigyti tik iš vaistinių. 
+10. Juridiniai asmenys, neturintys asmens sveikatos priežiūros veiklos licencijos ar licencijos verstis farmacine veikla, išskyrus šio straipsnio 17 dalyje nurodytus asmenis, vaistinių preparatų gali įsigyti tik iš vaistinių. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -1681,6 +1695,38 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 16. Sveikatos apsaugos ministerija gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir nėra galimybės šio vaistinio preparato pakeisti kitais registruotais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 10 darbo dienų ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus pakuotės ženklinimą ir pakuotės lapelį lietuvių kalba, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Leidimo galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarką, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą ir jų taikymo sąlygas.
+
+
+
+
+17. Mokslo ir studijų institucijos, kurios atlieka ikiklinikinius tyrimus, bei fiziniai, juridiniai asmenys, kitos organizacijos ir jų padaliniai, kurie atlieka ikiklinikinius tyrimus (bandymus) su bandomaisiais gyvūnais turėdami Valstybinės maisto ir veterinarijos tarnybos išduotus leidimus atlikti bandymus su gyvūnais (toliau – ikiklinikinius tyrimus atliekantys asmenys), ikiklinikinio tyrimo reikmėms naudojantys vaistinius preparatus, kurie nėra šio tyrimo objektas, gali naudoti tik registruotus vaistinius preparatus. Jeigu ikiklinikiniam tyrimui atlikti reikalingas registruotas vaistinis preparatas, kuris nėra šio tyrimo objektas, netiekiamas Lietuvos Respublikos rinkai lietuviškomis pakuotėmis arba nėra galimybės tinkamai atlikti ikiklinikinį tyrimą naudojant registruotus vaistinius preparatus, kurie nėra šio tyrimo objektas, gali būti naudojami atitinkamai pagal šio straipsnio 16 dalį laikinai leisti tiekti Lietuvos Respublikos rinkai registruoti vaistiniai preparatai pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, arba neregistruoti vaistiniai preparatai. 
+Papildyta straipsnio dalimi:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
+
+
+
+
+18. Ikiklinikiniam tyrimui reikalingi neregistruoti vaistiniai preparatai, kurie nėra šio tyrimo objektas, gali būti įvežami iš kitos EEE valstybės ar importuojami iš trečiosios šalies kiekiais, reikalingais ikiklinikiniam tyrimui atlikti, ir tiekiami tik šį ikiklinikinį tyrimą atliekantiems asmenims. 
+Papildyta straipsnio dalimi:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
+
+
+
+
+19. Ikiklinikinius tyrimus atliekantys asmenys, neturintys asmens sveikatos priežiūros veiklos licencijos ar licencijos verstis farmacine veikla, gali įsigyti ikiklinikiniam tyrimui atlikti reikalingų vaistinių preparatų, kurie nėra šio tyrimo objektas, iš juridinių asmenų, šio įstatymo nustatyta tvarka gavusių gamybos arba didmeninio platinimo licenciją. Įsigyti vaistiniai preparatai gali būti naudojami tik konkrečiam ikiklinikiniam tyrimui atlikti. 
+Papildyta straipsnio dalimi:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
+
+
+
+
+20. Ikiklinikinius tyrimus atliekančio asmens vadovas ar jo paskirtas asmuo, taip pat ikiklinikinius tyrimus atliekantis asmuo, kuris yra fizinis asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą atlikti bandymą su gyvūnais, atsako už tai, kad būtų įsigyjami tik tie vaistiniai preparatai ir tokiais kiekiais, kurie reikalingi ikiklinikiniam tyrimui atlikti, kad įsigyti vaistiniai preparatai būtų laikomi gamintojo nurodytomis sąlygomis ir būtų tvarkoma jų apskaita, leidžianti nustatyti įsigyto ir ikiklinikiniam tyrimui sunaudoto vaistinio preparato pavadinimą, seriją, kiekį, taip pat vaistinio preparato tiekėją ir gavimo datą.
+Papildyta straipsnio dalimi:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 Straipsnio pakeitimai:
@@ -3093,7 +3139,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-5) vardinių vaistinių preparatų importui iš trečiųjų šalių. 
+5) vardinių vaistinių preparatų ir šio įstatymo 8 straipsnio 18 dalyje nurodytų vaistinių preparatų importui iš trečiųjų šalių.
+Straipsnio punkto pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -3286,7 +3335,10 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Juridinis asmuo, norintis gauti gamybos licenciją, privalo:
 
 
-1) nurodyti paraiškoje numatomus gaminti ar importuoti vaistinius preparatus ir jų farmacines formas, tiriamųjų vaistinių preparatų grupes ir farmacines formas, taip pat vietą, kur jie gaminami ir (ar) vykdoma jų kontrolė;
+1) nurodyti paraiškoje numatomus gaminti ar importuoti vaistinius preparatus ir jų farmacines formas, tiriamųjų vaistinių preparatų grupes ir farmacines formas, vietą, kur jie gaminami ir (ar) vykdoma jų kontrolė, taip pat vietą, kur importuoti vaistiniai preparatai, tiriamieji vaistiniai preparatai gaunami ir laikomi (saugomi) iki serijos sertifikavimo (fizinio importo vietą);
+Straipsnio punkto pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -3562,7 +3614,9 @@ PLAZMOS RUOŠIMAS
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos licencijos nereikia įgyti, jeigu juridinis asmuo turi gamybos licenciją, suteikiančią teisę gaminti kraujo preparatus, kurioje yra nurodytas ir plazmos ruošimas.
+3. Neteko galios nuo 2016-11-01
+Straipsnio dalies naikinimas:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
  
 
 
@@ -3581,7 +3635,10 @@ PLAZMOS RUOŠIMAS
 
 
 
-2) turėti pakankamai ir tinkamų patalpų, techninių įrengimų, kontrolės įrangą, kurie atitiktų šio įstatymo, Farmacinės veiklos licencijavimo taisyklių ir geros gamybos praktikos reikalavimus, užtikrintų plazmos ruošimo ir tyrimų metodų, nurodytų Europos farmakopėjoje, taikymą;
+2) turėti pakankamai ir tinkamų patalpų, techninių įrengimų, kontrolės įrangą, kurie atitiktų šio įstatymo ir geros gamybos praktikos reikalavimus, užtikrintų plazmos ruošimo ir tyrimų metodų, nurodytų Europos farmakopėjoje, taikymą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -3846,12 +3903,18 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-8) tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus ir šio įstatymo 8 straipsnio 3, 5 dalyse nustatytais atvejais neregistruotus vaistinius preparatus;
+8) tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus ir šio įstatymo 8 straipsnio 3, 5 ir 18 dalyse nustatytais atvejais neregistruotus vaistinius preparatus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
 
-9) tiekti vaistinius preparatus tik asmenims, kurie turi didmeninio platinimo, vaistinės veiklos ir (ar) asmens sveikatos priežiūros veiklos licencijas, arba kitos EEE valstybės asmenims pagal tos valstybės teisės aktus; 
+9) tiekti vaistinius preparatus tik asmenims, kurie turi didmeninio platinimo, vaistinės veiklos ir (ar) asmens sveikatos priežiūros veiklos licencijas, ikiklinikinius tyrimus atliekantiems asmenims arba kitos EEE valstybės asmenims pagal tos valstybės teisės aktus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -3954,7 +4017,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-3. Jeigu didmeninio platinimo licencijos turėtojas vaistinius preparatus, skirtus tik eksportuoti, gauna tiesiogiai iš trečiosios šalies, tačiau jų neimportuoja, arba importuoja vardinius ar pagal šio įstatymo 8 straipsnio 5 dalį leistus neregistruotus vaistinius preparatus, šio straipsnio 1 dalies 5 ir 6 punktų nuostatos netaikomos. Šiuo atveju didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistinius preparatus gauna iš asmenų, kurie turi teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Eksportuojant vaistinius preparatus į trečiąją šalį, netaikomos šio įstatymo 17 straipsnio 11 dalies ir šio straipsnio 1 dalies 9 ir 20 punktų nuostatos, tačiau didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistiniai preparatai būtų tiekiami asmenims, kurie turi teisę gauti vaistinius preparatus didmeninio platinimo tikslu arba juos išduoti (parduoti) gyventojams pagal tos šalies teisės aktus. Jeigu vaistiniai preparatai tiekiami trečiosios šalies asmeniui, kuris turi teisę pagal tos šalies teisės aktus išduoti (parduoti) vaistinius preparatus gyventojams, šio straipsnio 1 dalies 14 punkte nurodyta pareiga turi būti vykdoma. Vaistiniams preparatams, kurie skirti tik eksportuoti, netaikomos šio įstatymo 8 straipsnio 1 dalies nuostatos.
+3. Jeigu didmeninio platinimo licencijos turėtojas vaistinius preparatus, skirtus tik eksportuoti, gauna tiesiogiai iš trečiosios šalies, tačiau jų neimportuoja arba importuoja vardinius ar pagal šio įstatymo 8 straipsnio 5 ir 18 dalis leistus neregistruotus vaistinius preparatus, šio straipsnio 1 dalies 5 ir 6 punktų nuostatos netaikomos. Šiuo atveju didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistinius preparatus gauna iš asmenų, kurie turi teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Eksportuojant vaistinius preparatus į trečiąją šalį, netaikomos šio įstatymo 17 straipsnio 11 dalies ir šio straipsnio 1 dalies 9 ir 20 punktų nuostatos, tačiau didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistiniai preparatai būtų tiekiami asmenims, kurie turi teisę gauti vaistinius preparatus didmeninio platinimo tikslu arba juos išduoti (parduoti) gyventojams pagal tos šalies teisės aktus. Jeigu vaistiniai preparatai tiekiami trečiosios šalies asmeniui, kuris turi teisę pagal tos šalies teisės aktus išduoti (parduoti) vaistinius preparatus gyventojams, šio straipsnio 1 dalies 14 punkte nurodyta pareiga turi būti vykdoma.
+Straipsnio dalies pakeitimai:
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+ 
 
 
 
@@ -7431,3 +7497,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 58, 59 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 4, 5, 7, 8, 19, 20, 21, 22, 23, 24, 24-2, 25, 26, 27, 29, 29-3, 29-4, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 57, 61, 64 straipsnių, aštuonioliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 7-1, 23-1, 75-1 straipsniais įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 24, 25, 29-2, 29-3 ir 33 straipsnių pakeitimo įstatymas
