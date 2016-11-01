@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
+ 
+TAR pastaba. Pripažinimas kooperatinėms bendrovėms (kooperatyvams), kurių prašymai pripažinti žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pateikti iki įstatymo Nr.XII-2266 įsigaliojimo (2016-11-01), suteikiamas pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas. Kooperatinėms bendrovėms (kooperatyvams), kurios žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažintos pagal iki įstatymo Nr. XII-2266 įsigaliojimo (2016-11-01) galiojusias nuostatas, šio įstatymo nuostatos netaikomos iki suteikto pripažinimo laikotarpio pabaigos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 2 ir 3-1 straipsnių pakeitimo ir Įstatymo papildymo 3-2 straipsniu įstatymas
  
 Nauja redakcija nuo 2003-01-01:
 Nr. IX-903, 2002-05-28, Žin. 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
@@ -90,6 +95,13 @@ Nr. X-1586, 2008-06-05, Žin., 2008, Nr. 71-2712 (2008-06-21), i. k. 1081010ISTA
 
 
 7. Dividendas – kooperatinės bendrovės nariams išmokama pelno dalis, skirstoma proporcingai kiekvieno nario turimo pajaus dydžiui. 
+
+
+
+
+8. Produkcijos standartine verte išreikštas žemės ūkio valdos ekonominis dydis – piniginiais vienetais išreikštas rodiklis, kuriuo apibūdinamas žemės ūkio valdos dydis ir kuris yra lygus valdos visos produkcijos standartinės vertės ir valdos pajamų, gautų už paslaugas žemės ūkiui, sumai ir kurio apskaičiavimas reglamentuojamas žemės ūkio ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
  
 
 
@@ -133,89 +145,145 @@ Nr. XI-1021, 2010-09-21, Žin. 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010IST
 31 straipsnis. Žemės ūkio kooperatinė bendrovė (kooperatyvas)
 
 
-1. Žemės ūkio kooperatinė bendrovė (kooperatyvas) – kooperatinė bendrovė (kooperatyvas), kuri nustatyta tvarka pripažinta žemės ūkio kooperatine bendrove (kooperatyvu). Teisę būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu) turi įstatymų ir kitų teisės aktų nustatyta tvarka įregistruota kooperatinė bendrovė (kooperatyvas), jei ji atitinka vieną iš šių pripažinimo kriterijų:
+1. Žemės ūkio kooperatinė bendrovė (kooperatyvas) – kooperatinė bendrovė (kooperatyvas), kuri (kuris) pagal šio straipsnio reikalavimus yra pripažinta žemės ūkio kooperatine bendrove (kooperatyvu). Teisę būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu) turi įregistruota kooperatinė bendrovė (kooperatyvas), jeigu ji (jis) atitinka šiuos reikalavimus:
 
 
-1) daugiau kaip 70 procentų jos narių yra fiziniai ir (ar) juridiniai asmenys, kurių pajamų iš žemės ūkio veiklos dalis praėjusiais metais sudarė 50 ir daugiau procentų visų pajamų, o jų pajų vertė – daugiau kaip 70 procentų visų kooperatinės bendrovės (kooperatyvo) narių pajų vertės;
-
-
-
-
-2) turi daugiau kaip 20 narių ir daugiau kaip 70 procentų jos narių yra fiziniai ir (ar) juridiniai asmenys, kurie nustatyta tvarka yra įregistravę žemės ūkio valdą Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, o jų pajų vertė sudaro daugiau kaip 70 procentų visų kooperatinės bendrovės (kooperatyvo) narių pajų vertės;
+1) iš narių supirktų produktų ir nariams parduotų prekių bei suteiktų paslaugų vertė yra didesnė kaip 50 procentų visų kooperatinės bendrovės (kooperatyvo) supirktų produktų ir visų parduotų prekių bei suteiktų paslaugų vertės;
 
 
 
 
-3) daugiau kaip 70 procentų jos narių pajų vertės sudaro narių – kooperatinių bendrovių (kooperatyvų), pripažintų žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais), pajų vertė.
+2) pardavimo pajamos, nurodytos praėjusio ataskaitinio laikotarpio (praėjusių finansinių metų) pelno (nuostolių) ataskaitoje, yra didesnės už šio straipsnio 7 dalyje nustatytą mažiausią pardavimo pajamų dydį;
 
 
 
 
-
-
-2. Kooperatinė bendrovė (kooperatyvas), siekianti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), pateikia valstybės įmonei Žemės ūkio informacijos ir kaimo verslo centrui šiuos dokumentus:
-
-
-1) kooperatinės bendrovės (kooperatyvo) registravimo pažymėjimo kopiją;
+3) neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir skolų Valstybinio socialinio draudimo fondo biudžetui;
 
 
 
 
-2) kooperatinės bendrovės (kooperatyvo) narių registre esančių narių fizinių ir (ar) juridinių asmenų, atitinkančių pasirinktą pripažinimo kriterijų, sąrašą ir kooperatinės bendrovės (kooperatyvo) narių registre esančių narių fizinių ir (ar) juridinių asmenų, neatitinkančių pasirinkto pripažinimo kriterijaus, sąrašą. Sąrašuose nurodomas eilės numeris, nario fizinio asmens vardas, pavardė ir asmens kodas arba nario juridinio asmens pavadinimas ir kodas, pajaus dydis (vertė pinigais);
+4) nė vienas kooperatinės bendrovės (kooperatyvo) narys nėra kitos tokios pačios rūšies produktus superkančios arba tokios pačios rūšies prekes parduodančios, arba tokios pačios rūšies paslaugas teikiančios žemės ūkio kooperatinės bendrovės (kooperatyvo) narys; 
 
 
 
 
-3) kiekvieno kooperatinės bendrovės (kooperatyvo) nario fizinio ar juridinio asmens, įtraukto į narių, atitinkančių pasirinktą pripažinimo kriterijų, sąrašą, parengtą ir kooperatinei bendrovei (kooperatyvui) pateiktą Lietuvos Respublikos žemės ūkio ministro nustatytos formos pažymą, patvirtinančią, kad šio fizinio ar juridinio asmens pajamų iš žemės ūkio veiklos dalis praėjusiais metais sudarė 50 ir daugiau procentų visų pajamų, jei sąrašas sudaromas pripažinimo kriterijumi pasirinkus šio straipsnio 1 dalies 1 punkte nurodytą pripažinimo kriterijų;
-
-
-
-
-4) Lietuvos Respublikos žemės ūkio ministro nustatytos formos pažymą, liudijančią, kad kooperatinė bendrovė (kooperatyvas) atitinka šio įstatymo nustatytus reikalavimus. Šią pažymą parengia kooperatinė bendrovė (kooperatyvas).
+5) atitinka vieną iš šio straipsnio 2 dalyje nurodytų kriterijų ir pateikė tai įrodantį narių – fizinių ir (ar) juridinių asmenų, atitinkančių ir neatitinkančių kooperatinės bendrovės (kooperatyvo) pasirinktą pripažinimo kriterijų, sąrašą, kuriame nurodomi kiekvieno nario tapatybės nustatymo, įskaitant nario – fizinio asmens – asmens kodą arba nario – juridinio asmens – kodą, duomenys.
 
 
 
 
 
 
-3. Kooperatinė bendrovė (kooperatyvas) žemės ūkio kooperatine bendrove (kooperatyvu) nepripažįstama, jeigu:
+2. Kooperatinės bendrovės (kooperatyvo) pasirenkami pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) kriterijai:
 
 
-1) neatitinka šio įstatymo nustatytų reikalavimų;
-
-
-
-
-2) turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), skolų Valstybinio socialinio draudimo fondo biudžetui;
+1) daugiau kaip 80 procentų jos narių yra fiziniai ir (ar) juridiniai asmenys, kurių pajamų iš žemės ūkio veiklos dalis praėjusiais metais sudarė daugiau kaip 50 procentų visų pajamų ir kurių pajamos, gautos praėjusiais metais iš kooperatinei bendrovei (kooperatyvui) parduotų žemės ūkio produktų, superkamų kooperatinės bendrovės (kooperatyvo), sudaro daugiau kaip 50 procentų pajamų, gautų iš šių žemės ūkio produktų, parduotų visiems ūkio subjektams, ir kurių kooperatinei bendrovei (kooperatyvui) parduoto kiekvieno žemės ūkio produkto, superkamo kooperatinės bendrovės (kooperatyvo), kiekis sudaro daugiau kaip 50 procentų šio žemės ūkio produkto, parduoto visiems ūkio subjektams, kiekio, o bendra šių narių pajų vertė sudaro daugiau kaip 80 procentų visų kooperatinės bendrovės (kooperatyvo) narių pajų vertės. Šiame punkte žemės ūkio produktai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme;
 
 
 
 
-3) pateikti ne visi šio straipsnio 2 dalyje nurodyti dokumentai arba juose pateikti klaidingi duomenys.
+2) daugiau kaip 80 procentų jos narių yra fiziniai ir (ar) juridiniai asmenys, kurių pajamų iš žemės ūkio veiklos dalis praėjusiais metais sudarė daugiau kaip 50 procentų visų pajamų ir kurių praėjusiais metais iš kooperatinės bendrovės (kooperatyvo) nupirktų prekių ir (ar) paslaugų, parduodamų kooperatinės bendrovės (kooperatyvo), vertė sudaro daugiau kaip 50 procentų šių prekių ir paslaugų, nupirktų iš visų ūkio subjektų, vertės, o bendra šių narių pajų vertė sudaro daugiau kaip 80 procentų visų kooperatinės bendrovės (kooperatyvo) narių pajų vertės;
+
+
+
+
+3) turi daugiau kaip 30 narių ir daugiau kaip 70 procentų jos narių yra fiziniai ir (ar) juridiniai asmenys, kurių produkcijos standartine verte išreikštas žemės ūkio valdos ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus per praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne mažesnis kaip 2 000 eurų, o bendra šių narių pajų vertė sudaro daugiau kaip 70 procentų visų kooperatinės bendrovės (kooperatyvo) narių pajų vertės;
+
+
+
+
+4) daugiau kaip 90 procentų jos narių pajų vertės sudaro narių – žemės ūkio kooperatinių bendrovių (kooperatyvų) pajų vertė.
 
 
 
 
 
 
-4. Kooperatinės bendrovės (kooperatyvo) pripažinimas žemės ūkio kooperatine bendrove (kooperatyvu) gali būti panaikintas, jeigu kooperatinė bendrovė (kooperatyvas) pateikė klaidingus arba suklastotus duomenis.
+3. Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarką nustato Vyriausybės įgaliota institucija. Kooperatinė bendrovė (kooperatyvas), siekianti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), pateikia valstybės įmonei Žemės ūkio informacijos ir kaimo verslo centrui prašymą pripažinti žemės ūkio kooperatine bendrove (kooperatyvu) ir Vyriausybės įgaliotos institucijos priimtame Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarkos apraše nurodytus dokumentus. 
 
 
 
 
-5. Kooperatines bendroves (kooperatyvus) žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažįsta Vyriausybės įgaliota institucija pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro teikime pateiktą išvadą dėl pripažinimo ir įgalioja valstybės įmonę Žemės ūkio informacijos ir kaimo verslo centrą išduoti pažymėjimą. Teritorinė valstybinė mokesčių inspekcija ir Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro prašymu teikia šio straipsnio 3 dalies 2 punkte nurodytą informaciją. Pripažinimas suteikiamas ir pažymėjimas išduodamas dvejiems kalendoriniams metams. Pasibaigus pripažinimo galiojimui, kooperatinė bendrovė (kooperatyvas) iš naujo gali siekti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu).
-Straipsnio dalies pakeitimai:
-Nr. X-1804, 2008-11-11, Žin., 2008, Nr. 135-5240 (2008-11-25), i. k. 1081010ISTA00X-1804
+4. Kooperatinė bendrovė (kooperatyvas) žemės ūkio kooperatine bendrove (kooperatyvu) nepripažįstama, jeigu:
+
+
+1) neatitinka šiame straipsnyje nurodytų reikalavimų;
+
+
+
+
+2) pateikti ne visi šio straipsnio 1 dalyje nurodytus reikalavimus patvirtinantys Vyriausybės įgaliotos institucijos priimtame Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarkos apraše nurodyti dokumentai arba pateikti neteisingi duomenys.
+
+
+
+
+
+
+5. Kooperatines bendroves (kooperatyvus) žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažįsta Vyriausybės įgaliota institucija pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro teikime pateiktą išvadą dėl pripažinimo ir įgalioja valstybės įmonę Žemės ūkio informacijos ir kaimo verslo centrą išduoti pažymėjimą. Teritorinė valstybinė mokesčių inspekcija ir Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro prašymu teikia šio straipsnio 1 dalies 3 punkte nurodytą informaciją. Pripažinimas suteikiamas ir pažymėjimas išduodamas dvejiems kalendoriniams metams. Kooperatinė bendrovė (kooperatyvas) gali iš naujo siekti pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) kitam dvejų kalendorinių metų pripažinimo laikotarpiui.
+
+
+
+
+6. Kooperatinė bendrovė (kooperatyvas) visą pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) laikotarpį privalo atitikti šiame straipsnyje nurodytus reikalavimus, pagal kuriuos ji yra pripažinta. Valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras pripažinimą atliekančios Vyriausybės įgaliotos institucijos nustatyta tvarka inicijuoja kooperatinių bendrovių (kooperatyvų) atitikties šiame straipsnyje nurodytiems reikalavimams patikras. Pripažinimą atliekanti Vyriausybės įgaliota institucija, gavusi valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro išvadą, kad kooperatinė bendrovė (kooperatyvas) yra pripažinta pagal pateiktus neteisingus duomenis arba neatitinka šiame straipsnyje nurodytų reikalavimų, priima sprendimą dėl suteikto pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) panaikinimo.
+
+
+
+
+7. Mažiausias pardavimo pajamų, nurodytų praėjusio ataskaitinio laikotarpio (praėjusių finansinių metų) pelno (nuostolių) ataskaitoje, dydis:
+
+
+1) grūdų ir pieno sektoriaus kooperatinėms bendrovėms (kooperatyvams) – 20 000 eurų, o jeigu pripažinimo siekiama pirmą kartą, – 10 000 eurų;
+
+
+
+
+2) kitų sektorių kooperatinėms bendrovėms (kooperatyvams) – 10 000 eurų, o jeigu pripažinimo siekiama pirmą kartą, – 5 000 eurų.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. X-1154, 2007-05-24, Žin., 2007, Nr. 64-2458 (2007-06-09), i. k. 1071010ISTA00X-1154
+Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
  
 
 
 
 
-6. Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarką nustato Vyriausybės įgaliota institucija.
+32 straipsnis. Miško savininkų kooperatinė bendrovė (kooperatyvas) 
 
 
-Straipsnio pakeitimai:
-Nr. X-1154, 2007-05-24, Žin., 2007, Nr. 64-2458 (2007-06-09), i. k. 1071010ISTA00X-1154
+1. Miško savininkų kooperatyvas – kooperatinė bendrovė, kuri pagal šio straipsnio reikalavimus yra pripažinta miško savininkų kooperatyvu. Miško savininkų kooperatyvams taikomas žemės ūkio kooperatyvų statusas. Teisę būti pripažinta miško savininkų kooperatyvu turi įstatymų ir kitų teisės aktų nustatyta tvarka įregistruota kooperatinė bendrovė, jeigu ji atitinka šiuos pripažinimo kriterijus:
+
+
+1) daugiau kaip 70 procentų jos narių yra miškų savininkai fiziniai ir (ar) juridiniai asmenys, kurie yra įregistravę žemės ūkio ir kaimo valdą ir kurių pajų vertė yra daugiau kaip 70 procentų visų kooperatinės bendrovės narių pajų vertės;
+
+
+
+
+2) kooperatinės bendrovės pajamų iš miškų ūkio veiklos dalis sudarė 50 ir daugiau procentų visų pajamų;
+
+
+
+
+3) turi daugiau kaip 10 narių;
+
+
+
+
+4) kooperatinė bendrovė neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir skolų Valstybinio socialinio draudimo fondo biudžetui.
+
+
+
+
+
+
+2. Kooperatinių bendrovių pripažinimo miško savininkų kooperatyvais tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+
+Papildyta straipsniu:
+Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
  
 
 
@@ -1649,3 +1717,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 20 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 21 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 2 ir 3-1 straipsnių pakeitimo ir Įstatymo papildymo 3-2 straipsniu įstatymas
