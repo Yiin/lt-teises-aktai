@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2016-10-31
+Suvestinė redakcija nuo 2016-11-01 iki 2018-01-23
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -59,6 +59,14 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 
 
 
+11. Aerobiškai skaidus plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio medžiagos sudėtyje yra aerobinį skilimą į mikrodaleles spartinančių priedų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+ 
+
+
+
+
 2. Daugkartinis pakuočių naudojimas (toliau – pakartotinis naudojimas) – operacija, kai pakuotės (sukonstruotos taip, kad naudojimo laikotarpiu galima būtų transportuoti daugiau nei vieną kartą) yra vėl pripildomos naudojant pripildant reikalingus papildomus rinkoje esančius produktus ar jų nenaudojant ar panaudojamos tam pačiam tikslui, kuriam jos buvo pagamintos. Jei tokios daugkartinės pakuotės daugiau nebenaudojamos pagal paskirtį, jos tampa pakuočių atliekomis. 
 
 
@@ -85,6 +93,22 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 
 
 6. Importuotojas – kaip ši sąvoka apibrėžta Lietuvos Respublikos atliekų tvarkymo įstatyme.
+
+
+
+
+61. Labai lengvas plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 15 mikronų ir kuris būtinas higienos tikslais arba pateikiamas kaip nefasuotiems maisto produktams skirta pirminė pakuotė siekiant išvengti maisto švaistymo. 
+Papildyta straipsnio dalimi:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+ 
+
+
+
+
+62. Lengvasis plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 50 mikronų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+ 
 
 
 
@@ -183,6 +207,14 @@ Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
 
 
 22. Perdirbimas – pakuočių atliekas sudarančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį perdirbimą, bet išskyrus naudojimą energijai gauti, norint pakuočių atliekas sudarančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
+
+
+
+
+221. Plastikinis pirkinių maišelis – iš plastiko pagamintas maišelis (su rankenomis arba be jų), teikiamas vartotojui prekių ar produktų pardavimo vietoje.
+Papildyta straipsnio dalimi:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+ 
 
 
 
@@ -1383,6 +1415,14 @@ tvarkymo įstatymo
 3. 2013 m. vasario 7 d. Komisijos direktyva 2013/2/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 94/62/EB dėl pakuočių ir pakuočių atliekų I priedas (OL 2013 L 37, p. 10).
 
 
+
+
+4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB (OL 2015 L 115, p. 11).
+Papildyta punktu:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+ 
+
+
 Įstatymas papildytas priedu:
 Nr. X-286, 2005-06-30, Žin., 2005, Nr. 86-3206 (2005-07-16)
 Priedo pakeitimai:
@@ -1457,3 +1497,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, 12 straipsnių pakeitimo ir 12-1, 12-2, 12-3 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2 straipsnio ir 2 priedo pakeitimo ir Įstatymo papildymo 8-2 straipsniu įstatymas
