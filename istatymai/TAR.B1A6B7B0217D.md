@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b1a6b7b0217d11e5b336e9064144f02a"
 
 # Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-11-09
+Suvestinė redakcija nuo 2016-11-10
  
 Įstatymas paskelbtas: TAR 2015-07-03, i. k. 2015-10814
  
@@ -4557,7 +4557,11 @@ Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 strai
 
 
 
-23. Jeigu nuo 2016 m. sausio 1 d. pareigūnams, tapusiems apdraustaisiais pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalį, apskaičiuojant kompensuojamąjį uždarbį, pagal kurį mokamos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos, patenka laikotarpiai, kuriais jie nebuvo apdrausti ligos ir motinystės socialiniu draudimu ir nelaimingų atsitikimų darbe socialiniu draudimu, šios socialinio draudimo pašalpos apskaičiuojamos pagal šių pareigūnų faktiškai turėtas draudžiamąsias pajamas. Šiais atvejais vidaus reikalų statutinė įstaiga iš jai skirtų valstybės biudžeto asignavimų pareigūnui skiria ir iki draudžiamojo įvykio pabaigos moka jo kompensuojamojo uždarbio dalį. Ši dalis apskaičiuojama kaip mokėtinos ir išmokėtos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą pašalpas), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpų skirtumas.
+23. Jeigu pareigūnams ir atleistiems vidaus tarnybos sistemos pareigūnams, tapusiems apdraustaisiais pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalį, nuo 2016 m. sausio 1 d. apskaičiuojant kompensuojamąjį uždarbį, pagal kurį mokamos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą pašalpas), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos, patenka laikotarpiai, kuriais jie nebuvo apdrausti ligos ir motinystės socialiniu draudimu ir nelaimingų atsitikimų darbe socialiniu draudimu, šios socialinio draudimo pašalpos apskaičiuojamos pagal šių pareigūnų faktiškai turėtas draudžiamąsias pajamas. Šiais atvejais vidaus reikalų statutinė įstaiga, kurioje tarnauja pareigūnas arba kurioje atleistas vidaus tarnybos sistemos pareigūnas tarnavo paskiausiai, iš jai skirtų valstybės biudžeto asignavimų skiria ir iki draudžiamojo įvykio pabaigos moka to pareigūno kompensuojamojo uždarbio dalį. Ši dalis apskaičiuojama kaip mokėtinos ir išmokėtos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą pašalpas), motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpų skirtumas.
+TAR pastaba. Atleistiems vidaus tarnybos sistemos pareigūnams nuo 2016 m. sausio 1 d. iki įstatymo Nr. XII-2738 įsigaliojimo (2016-11-01) nepaskirta kompensuojamojo uždarbio dalis, nurodyta 23 dalyje, skiriama, apskaičiuojama ir išmokama Lietuvos Respublikos Vyriausybės nustatyta tvarka, šiems pareigūnams ne vėliau kaip per šešis mėnesius nuo šio įstatymo įsigaliojimo pateikus rašytinį laisvos formos prašymą vidaus reikalų statutinei įstaigai, kurioje jie tarnavo paskiausiai, ir nurodžius sąskaitą mokėjimo įstaigoje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2738, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26510
+ 
 
 
 
@@ -4606,3 +4610,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2096, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19290
 Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XII-1855 1 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2738, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26510
+Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XII-1855 3 straipsnio pakeitimo įstatymas
