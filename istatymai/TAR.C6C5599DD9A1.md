@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-11-09
+Suvestinė redakcija nuo 2016-11-10 iki 2017-01-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -700,7 +700,10 @@ Mokėjimo paslaugų teikėjai yra:
 
 
 
-3. Jeigu vykdant mokėjimo operaciją valiuta nėra keičiama, gavėjas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą, o mokėtojas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą. Vykdant kredito pervedimus ir tiesioginio debeto operacijas eurais pagal Europos Sąjungoje veikiančios mokėjimo schemos taisykles, mokėjimo paslaugų teikėjai negali diferencijuoti gavėjui taikomo komisinio atlyginimo pagal tai, kurioje mokėjimo paslaugų teikėjo įstaigoje mokėtojas turi mokėjimo sąskaitą.
+3. Jeigu vykdant mokėjimo operaciją valiuta nėra keičiama, gavėjas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą, o mokėtojas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2699, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26476
+ 
 
 
 
@@ -3192,3 +3195,8 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 4, 30, 36 ir 45 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2561, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20315
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2699, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26476
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9 straipsnio pakeitimo įstatymas
