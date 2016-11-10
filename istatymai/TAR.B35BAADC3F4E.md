@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B35BAADC3F4E"
 
 # Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymas
 
-Suvestinė redakcija nuo 1999-07-23 iki 2016-11-09
+Suvestinė redakcija nuo 2016-11-10 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 99-2201, i. k. 0951010ISTA00I-1093
  
@@ -184,7 +184,9 @@ Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010I
 
 
 
-10) Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda įvairių formų prekių kilmės dokumentus ir force majeure aplinkybes liudijančias pažymas;
+10) Rūmų nustatyta tvarka išduoda įvairių formų prekių kilmės dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
  
@@ -192,73 +194,90 @@ Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010I
 
 
 
-11) tvirtina užsienio prekyboje naudojamų dokumentų autentiškumą;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+11) Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda nenugalimos jėgos (force majeure) aplinkybes liudijančias pažymas; 
+Papildyta straipsnio punktu:
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-12) steigia Rūmų arbitražą;
+12) tvirtina užsienio prekyboje naudojamų dokumentų autentiškumą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-13) renka ir platina informaciją apie užsienio prekybą bei teikia užsienio partneriams informaciją apie Lietuvos įmonių veiklą;
+13) steigia Rūmų arbitražą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-14) Lietuvos Respublikos įstatymų nustatyta tvarka padeda organizuoti profesinį mokymą bei suaugusiųjų švietimą;
+14) renka ir platina informaciją apie užsienio prekybą bei teikia užsienio partneriams informaciją apie Lietuvos įmonių veiklą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-15) organizuoja parodas, muges, konferencijas bei kitus renginius;
+15) Lietuvos Respublikos įstatymų nustatyta tvarka padeda organizuoti profesinį mokymą bei suaugusiųjų švietimą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-16) užsiima leidyba;
+16) organizuoja parodas, muges, konferencijas bei kitus renginius;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-17) atlieka nevyriausybinių dokumentų oficialius vertimus į lietuvių ir užsienio kalbas;
+17) užsiima leidyba;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-18) steigia įvairių rūšių įmones, kurios realizuoja Rūmų funkcijas;
+18) atlieka nevyriausybinių dokumentų oficialius vertimus į lietuvių ir užsienio kalbas;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
 
 
-19) steigia Rūmų filialus bei atstovybes savo regione ir užsienyje.
+19) steigia įvairių rūšių įmones, kurios realizuoja Rūmų funkcijas;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
+ 
+
+
+
+
+20) steigia Rūmų filialus bei atstovybes savo regione ir užsienyje.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
  
 
 
@@ -514,3 +533,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1294, 1999-07-07, Žin., 1999, Nr. 64-2071 (1999-07-23), i. k. 0991010ISTAIII-1294
 Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymo 2, 3, 5, 9, 10 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2700, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26478
+Lietuvos Respublikos prekybos, pramonės ir amatų rūmų įstatymo Nr. I-1093 5 straipsnio pakeitimo įstatymas
