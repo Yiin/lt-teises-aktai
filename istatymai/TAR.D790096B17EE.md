@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-11-14
+Suvestinė redakcija nuo 2016-11-15 iki 2016-11-17
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -1071,7 +1071,10 @@ TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo pr
 
 
 
-4) Valstybinė energetikos inspekcija prie Energetikos ministerijos – vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo;
+4) Valstybinė energetikos inspekcija prie Energetikos ministerijos – vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-2707, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26491
+ 
 
 
 
@@ -3181,3 +3184,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 papildymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2564, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20318
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2707, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26491
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsnio pakeitimo įstatymas
