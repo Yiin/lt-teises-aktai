@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
+Suvestinė redakcija nuo 2016-11-15 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -3433,6 +3433,14 @@ priedas
 
 
 
+3. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo (OL 2014 L 307, p. 1).
+Papildyta punktu:
+Nr. XII-2706, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26488
+ 
+
+
+
+
 
 
  
@@ -3519,3 +3527,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2091, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19369
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 63 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2706, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26488
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 57 straipsnio ir priedo pakeitimo įstatymas
