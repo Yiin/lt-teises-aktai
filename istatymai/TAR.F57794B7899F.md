@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-11-14
+Suvestinė redakcija nuo 2016-11-15 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
- 
-TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir elektros energetikos įmonių ginčai, taip pat asmenų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2090, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19368
-Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 78 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -68,6 +63,14 @@ BENDROSIOS NUOSTATOS
 
 
 3. Buitinis elektros energijos vartotojas (toliau – buitinis vartotojas) – fizinis asmuo, perkantis elektros energiją asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su ūkine komercine ar profesine veikla.
+
+
+
+
+31. Didelio naudingumo kogeneracija – kombinuotas šilumos ir elektros energijos gamybos procesas, kai sutaupoma ne mažiau kaip 10 procentų kuro (pirminės energijos), palyginti su atskira palyginamąja šilumos ir elektros energijos gamyba, arba sutaupoma kuro mažesnės negu 1 MW elektrinės galios kogeneracijos blokui. 
+Papildyta straipsnio dalimi:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
@@ -145,6 +148,14 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
+141. Elektros energijos paklausos valdymo paslaugos teikėjas – asmuo, atsakingas už elektros energijos vartotojų grupės faktinės maksimalios leistinos naudoti galios atitiktį tų vartotojų ir perdavimo sistemos ar skirstomųjų tinklų operatoriaus nustatytai leistinų naudoti galių sumai. 
+Papildyta straipsnio dalimi:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
 15. Elektros energijos rinka – asmenų, kurie verčiasi elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veikla, santykių visuma, kuri apima didmeninę ir mažmeninę prekybą elektros energija ir sisteminių paslaugų teikimą ir yra paremta teisėtumo ir lygiateisiškumo principais, taikant reguliuojamojo trečiųjų asmenų dalyvavimo principą elektros energijai persiųsti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
@@ -153,7 +164,9 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
-16. Elektros energijos rinkos dalyvis (toliau – rinkos dalyvis) – asmuo, kuris verčiasi didmenine prekyba elektros energija Prekybos elektros energija taisyklėse nustatytais būdais. Rinkos dalyviais laikomi perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, elektros energijos gamintojai, tiekėjai, teisės aktų nustatyta tvarka sudarę balansavimo energijos pirkimo–pardavimo sutartis su balansavimo energijos tiekėjais, balansavimo energijos tiekėjai, taip pat asmenys, turintys leidimą eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, ar importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
+16. Elektros energijos rinkos dalyvis (toliau – rinkos dalyvis) – asmuo, kuris verčiasi didmenine prekyba elektros energija Prekybos elektros energija taisyklėse nustatytais būdais. Rinkos dalyviais laikomi perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, elektros energijos gamintojai, tiekėjai, teisės aktų nustatyta tvarka sudarę balansavimo energijos pirkimo–pardavimo sutartis su balansavimo energijos tiekėjais, balansavimo energijos tiekėjai, elektros energijos paklausos valdymo paslaugos teikėjai, taip pat asmenys, turintys leidimą eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, ar importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
  
@@ -792,7 +805,17 @@ Energetikos ministerija:
 
 
 
-15) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+15) nustato didelio naudingumo kogeneracijos būdu pagamintos elektros energijos ir elektros energijos priėmimo į perdavimo ir (ar) skirstymo tinklus bei persiuntimo, užtikrinant sistemos darbo saugumą ir patikimumą, tvarką; 
+Papildyta straipsnio punktu:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+16) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
 
 
@@ -1806,6 +1829,23 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 
 6. Gamintojų, gaminančių elektros energiją iš atsinaujinančių energijos išteklių, elektros įrenginių prijungimą prie elektros tinklų reglamentuoja Atsinaujinančių išteklių energetikos įstatymas.
+
+
+
+
+7. Tinklų operatoriai, sudarydami sąlygas didelio naudingumo kogeneracijos būdu pagamintai elektros energijai persiųsti:
+
+
+1) parengia ir interneto svetainėje paskelbia nediskriminacines technines didelio naudingumo kogeneracijos būdu pagamintą elektros energiją tiekiančių gamintojų prisijungimo prie tinklų sąlygas;
+
+
+
+
+2) didelio naudingumo kogeneracijos būdu gaminamos elektros energijos gamintojo ar planuojančio juo tapti asmens prašymu teikia išsamią informaciją dėl prijungimo prie sistemos sąlygų (informaciją apie prijungimo sąnaudas, prašymo prijungti prie tinklo nagrinėjimo ir prijungimo prie tinklo terminus).
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
 
 
@@ -2161,7 +2201,7 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 31 straipsnis. Perdavimo sistemos operatoriaus pareigos
 
 
-Perdavimo sistemos operatorius privalo:
+1. Perdavimo sistemos operatorius privalo:
 
 
 1) prognozuoti ilgalaikį elektros energetikos sistemos galios balansą ir teikti rinkos dalyviams informaciją apie prognozuojamą generuojamos ar perdavimo galios trūkumą arba ribojimus;
@@ -2204,7 +2244,7 @@ Perdavimo sistemos operatorius privalo:
 
 
 
-9) užtikrinti trečiųjų asmenų prieigą prie perdavimo tinklų, ją valdyti ir pateikti išsamius paaiškinimus, kai tokia prieiga nesuteikiama;
+9) užtikrinti trečiųjų asmenų prieigą prie perdavimo tinklų, ją valdyti ir pateikti išsamius paaiškinimus, kai tokia prieiga nesuteikiama;
 
 
 
@@ -2234,12 +2274,12 @@ Perdavimo sistemos operatorius privalo:
 
 
 
-15) garantuoti perdavimo tinklų darbo saugumą, patikimumą ir efektyvumą, užtikrinti visas tam būtinas papildomas paslaugas;
+15) garantuoti perdavimo tinklų darbo saugumą, patikimumą ir efektyvumą, užtikrinti sisteminių paslaugų teikimą visiems rinkos dalyviams;
 
 
 
 
-16) kaip dispečeris valdydamas gamybos pajėgumus nacionalinei balansavimo funkcijai užtikrinti, laikytis sąlygų nustatytų Prekybos elektros energija taisyklėse ir sutartyse su sisteminių paslaugų teikėjais;
+16) kaip dispečeris valdydamas gamybos pajėgumus nacionalinei balansavimo funkcijai užtikrinti, laikytis sąlygų, nustatytų Prekybos elektros energija taisyklėse ir sutartyse su sisteminių paslaugų teikėjais;
 
 
 
@@ -2249,51 +2289,64 @@ Perdavimo sistemos operatorius privalo:
 
 
 
-18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, nustatytus principus;
+18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, nustatytus principus;
 
 
 
 
-19) rengti ir teikti Komisijai tvirtinti perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles; 
-Papildyta straipsnio punktu:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+19) rengti ir teikti Komisijai tvirtinti perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles;
 
 
 
 
 20) užtikrinti informacijos, gautos atliekant savo funkcijas ir sudarančios komercinę ar kitokią paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir nenaudoti šios informacijos kitų elektros energetikos sektoriaus dalyvių diskriminavimo tikslais. Komisija prižiūri ir kontroliuoja, kad perdavimo sistemos operatoriaus gauta informacija, sudaranti komercinę ar kitokią paslaptį, nebūtų perduodama jokiems tretiesiems asmenims, išskyrus įstatymų nustatytus atvejus, o perdavimo sistemos operatoriaus personalas neteiktų paslaugų ar nebūtų perleidžiamas įmonėms, vykdančioms elektros energijos gamybos ar tiekimo veiklą;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
 
 
 
 
 21) pateikti kitos sistemos, su kuria sujungta Lietuvos Respublikos elektros energetikos sistema, perdavimo sistemos operatoriui pakankamai informacijos, kad būtų užtikrinamas saugus ir efektyvus jungtinės sistemos eksploatavimas, koordinuojama jos plėtra ir sąveika;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
 
 
 
 
 22) savo interneto svetainėje skelbti atitinkamą informaciją, susijusią su jungiamosiomis linijomis, sistemos naudojimu ir pajėgumų paskirstymu suinteresuotosioms šalims, atsižvelgdamas į tai, kad neapibendrinta informacija turi būti tvarkoma kaip konfidenciali komercinė informacija;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
 
 
 
 
 23) teisės aktų nustatyta tvarka skelbti ir teikti nurodytą informaciją.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+
+
+
+
+
+
+2. Perdavimo sistemos operatorius, atlikdamas elektros energijos srautų perdavimo tinkluose dispečerinį valdymą ir atsižvelgdamas į perdavimo sistemos darbo saugumo reikalavimus, pirmumo teise toliau nustatyta prioriteto tvarka užtikrina elektros energijos priėmimą ir persiuntimą perdavimo tinklais, pagamintos:
+
+
+1) iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+
+
+
+
+2) iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu;
+
+
+
+
+3) ne iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+
+
+
+
+4) ne iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
-
-
-
-
 
 
 
@@ -2469,7 +2522,10 @@ ELEKTROS ENERGIJOS SKIRSTYMAS
 
 
 
-2. Skirstomųjų tinklų operatorius privalo užtikrinti elektros tinklų naudotojams nediskriminuojančias naudojimosi skirstomaisiais tinklais sąlygas.
+2. Skirstomųjų tinklų operatorius privalo užtikrinti elektros tinklų naudotojams ir elektros energijos paklausos valdymo paslaugų teikėjams nediskriminuojančias naudojimosi skirstomaisiais tinklais sąlygas, atsižvelgiant į technines ir elektros energijos paklausos valdymo galimybes.
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
@@ -2543,7 +2599,7 @@ Skirstomųjų tinklų operatorius turi teisę:
 39 straipsnis. Skirstomųjų tinklų operatoriaus pareigos
 
 
-Skirstomųjų tinklų operatorius privalo:
+1. Skirstomųjų tinklų operatorius privalo:
 
 
 1) teikti skirstomųjų tinklų naudotojams elektros energijos persiuntimo skirstomaisiais tinklais paslaugą;
@@ -2597,11 +2653,38 @@ Skirstomųjų tinklų operatorius privalo:
 
 
 11) leisti perdavimo sistemos operatoriui patekti į skirstomųjų tinklų teritorijas ir (ar) patalpas įrengti, prižiūrėti ar keisti perdavimo sistemos operatoriui priklausančius elektros energijos apskaitos prietaisus arba nuskaityti jų rodmenis.
+
+
+
+
+
+
+2. Skirstomųjų tinklų operatorius, atlikdamas elektros energijos srautų paskirstymo tinkluose dispečerinį valdymą ir atsižvelgdamas į skirstymo sistemos darbo saugumo reikalavimus, pirmumo teise toliau nustatyta prioriteto tvarka užtikrina elektros energijos priėmimą ir persiuntimą skirstomaisiais tinklais, pagamintos:
+
+
+1) iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+
+
+
+
+2) iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu;
+
+
+
+
+3) ne iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+
+
+
+
+4) ne iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
-
-
-
-
 
 
 
@@ -3460,6 +3543,13 @@ ELEKTROS ENERGIJOS RINKA
 
 
 6. Perdavimo sistemos operatorius, atlikdamas nacionalinę balansavimo funkciją, sudaro nacionalinį balansą, atitinkantį nupirktos ir parduotos elektros energijos kiekį, pagal balansavimo energijos tiekėjų pateiktus duomenis ir patikrina pateiktų duomenų tikslumą pagal prekybos elektros energija elektros biržoje ir prekybos pagal dvišales sutartis duomenis, taip pat sutrikimų ir avarijų atveju koordinuoja gamintojų veiksmus, perka elektros energiją, reikalingą elektros energijos sąnaudoms perdavimo tinkle kompensuoti, teikia viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje.
+
+
+
+
+7. Perdavimo sistemos operatorius negali riboti gamintojų, gaminančių elektros energiją ir šilumą didelio naudingumo kogeneracijos būdu, galimybių teikti reguliavimo ir papildomas paslaugas, jeigu užtikrinamas perdavimo tinklo saugumas ir patikimumas.
+Papildyta straipsnio dalimi:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
 
 
@@ -3752,12 +3842,26 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 
 
 
-3. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 44 straipsnio 2 dalies 3 punkte nustatyta tvarka ir sąlygomis.
+3. Nustatant šio straipsnio 2 dalyje nurodytas viršutines kainų ribas ir įvertinus kiekvienos energijos vartojimo efektyvumą didinančios priemonės kaštus ir naudą, turi būti numatytos būtinos ir pagrįstos tinklų operatorių reguliuojamos veiklos investicijos į energijos vartojimo efektyvumo didinimo priemones, įskaitant išmaniųjų elektros tinklų plėtrą, kurios leistų tinklų operatoriams efektyviau vykdyti reguliuojamą veiklą ir teikti papildomas paslaugas asmenims, įgyvendinantiems energijos vartojimo efektyvumą didinančias priemones. Teikiamos papildomos paslaugos negali turėti neigiamos įtakos sistemos saugumui ir patikimumui. 
+Papildyta straipsnio dalimi:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-4. Vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką tvirtina, įkainius nustato ir juos diferencijuoja Komisija, vadovaudamasi šiais bendraisiais kriterijais:
+4. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 44 straipsnio 2 dalies 3 punkte nustatyta tvarka ir sąlygomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+5. Vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką tvirtina, įkainius nustato ir juos diferencijuoja Komisija, vadovaudamasi šiais bendraisiais kriterijais:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 1) tinklų naudotojų nediskriminavimo;
@@ -3812,12 +3916,18 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 
 
 
-5. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie perdavimo tinklų, vartotojas ir (ar) gamintojas apmoka visas sąnaudas, susijusias su įrenginių prijungimu prie elektros perdavimo tinklų.
+6. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie perdavimo tinklų, vartotojas ir (ar) gamintojas apmoka visas sąnaudas, susijusias su įrenginių prijungimu prie elektros perdavimo tinklų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-6. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie skirstomųjų tinklų, sąnaudos paskirstomos tokia tvarka:
+7. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie skirstomųjų tinklų, sąnaudos paskirstomos tokia tvarka:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 1) buitiniai vartotojai, taip pat kiti vartotojai, Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodyti kaip socialiai pažeidžiami vartotojai, apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Komisijos patvirtintą įkainį;
@@ -3842,32 +3952,45 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 
 
 
-7. Tinklų operatorių sąnaudos, susijusios su gamintojo, gaminančio elektros energiją iš atsinaujinančių energijos išteklių, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gamintojo ir tinklų operatoriaus Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis.
-
-
-
-
-8. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 6 ir 7 dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 6 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
-
-
-
-
-9. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 6 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 6 dalies 2 punkte nustatyta tvarka.
-
-
-
-
-10. Komisija, vadovaudamasi jos patvirtinta metodika, nustato naudojimosi jungiamosiomis linijomis paslaugų kainą, kuri nustatoma ir pradedama taikyti atsižvelgus į motyvuotą Energetikos ministerijos pranešimą. Nustatant naudojimosi jungiamosiomis linijomis paslaugų kainą nėra vertinamos sąnaudos, kompensuojamos vadovaujantis 2010 m. rugsėjo 23 d. Europos Komisijos reglamento (ES) Nr. 838/2010 dėl perdavimo sistemos operatorių tarpusavio kompensavimo mechanizmo ir bendro perdavimo mokesčių reguliavimo metodo taikymo gairių nustatymo (OL 2010 L 250, p. 5) nuostatomis. Naudojimosi jungiamosiomis linijomis paslaugų kainos įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Tinklų naudotojai ir (ar) rinkos dalyviai, atsižvelgdami į tai, kas sukelia papildomas sąnaudas, už naudojimosi jungiamosiomis linijomis paslaugas atskirai moka tik tuo atveju, kai šių paslaugų sąnaudos teisės aktuose nustatyta tvarka nėra įtrauktos į elektros energijos perdavimo paslaugos kainą ar į Komisijos nustatomą įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką. 
-Papildyta straipsnio dalimi:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+8. Tinklų operatorių sąnaudos, susijusios su gamintojo, gaminančio elektros energiją iš atsinaujinančių energijos išteklių, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gamintojo ir tinklų operatoriaus Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
 
 
 
 
-11. Komisija, vadovaudamasi Vyriausybės nustatytais principais, reglamentuojančiais elektros energijos gamybą iš atsinaujinančių energijos išteklių, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą. Naudojimosi elektros tinklais paslaugų kaina turi padengti visas pagrįstas skirstomųjų tinklų operatoriaus sąnaudas, įvertinant skirstomųjų tinklų operatoriaus gaunamą naudą. 
+9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 ir 8 dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 2 punkte nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+11. Komisija, vadovaudamasi jos patvirtinta metodika, nustato naudojimosi jungiamosiomis linijomis paslaugų kainą, kuri nustatoma ir pradedama taikyti atsižvelgus į motyvuotą Energetikos ministerijos pranešimą. Nustatant naudojimosi jungiamosiomis linijomis paslaugų kainą nėra vertinamos sąnaudos, kompensuojamos vadovaujantis 2010 m. rugsėjo 23 d. Europos Komisijos reglamento (ES) Nr. 838/2010 dėl perdavimo sistemos operatorių tarpusavio kompensavimo mechanizmo ir bendro perdavimo mokesčių reguliavimo metodo taikymo gairių nustatymo (OL 2010 L 250, p. 5) nuostatomis. Naudojimosi jungiamosiomis linijomis paslaugų kainos įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Tinklų naudotojai ir (ar) rinkos dalyviai, atsižvelgdami į tai, kas sukelia papildomas sąnaudas, už naudojimosi jungiamosiomis linijomis paslaugas atskirai moka tik tuo atveju, kai šių paslaugų sąnaudos teisės aktuose nustatyta tvarka nėra įtrauktos į elektros energijos perdavimo paslaugos kainą ar į Komisijos nustatomą įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką. 
+Papildyta straipsnio dalimi:
+Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+12. Komisija, vadovaudamasi Vyriausybės nustatytais principais, reglamentuojančiais elektros energijos gamybą iš atsinaujinančių energijos išteklių, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą. Naudojimosi elektros tinklais paslaugų kaina turi padengti visas pagrįstas skirstomųjų tinklų operatoriaus sąnaudas, įvertinant skirstomųjų tinklų operatoriaus gaunamą naudą. 
 Papildyta straipsnio dalimi:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
 
 
@@ -3979,62 +4102,135 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
-4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Komisija užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti elektros energijos vartojimo efektyvumą, skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus.
+4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Komisija užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo ir reagavimo į paklausą paslaugas, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekiant elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Komisija įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos, reagavimo į paklausą priemonių diegimo, gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-5. Viršutinė perdavimo paslaugos kainos riba turi būti nustatyta ar perskaičiuota ne vėliau kaip likus 90 kalendorinių dienų, viršutinės skirstymo ir visuomeninio tiekimo paslaugų kainų ribos – ne vėliau kaip likus 75 kalendorinėms dienoms iki reguliavimo periodo arba atitinkamų reguliavimo periodo metų pradžios.
+5. Elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų reguliavimas neturi riboti paslaugų, susijusių su elektros energijos paklausos valdymu, reagavimu į paklausą, elektros energijos pajėgumų plėtra, plėtojimo, įskaitant:
+
+
+1) vartotojų elektros energijos vartojimo perkėlimą iš piko meto, atsižvelgiant į elektros energijos gamybą iš atsinaujinančių energijos išteklių, kogeneracijos būdu pagamintą elektros energiją ir gamybos pajėgumų plėtrą;
 
 
 
 
-6. Komisijai nustačius viršutines kainų ribas, paslaugų teikėjai turi teisę diferencijuoti paslaugos kainas pagal objektyvius požymius. Paslaugų teikėjai, diferencijuodami kainas, privalo laikytis nediskriminavimo principo ir tinkamai atsižvelgti į energijos vartojimo efektyvumo didinimo principą. Perdavimo paslaugos kaina gali būti diferencijuojama į dedamąsias elektros energijos vartotojams, gamintojams ir importuotojams, importuojantiems elektros energiją iš valstybių, kurios nėra valstybės narės. Perdavimo paslaugos kaina, persiuntimo paslaugos kaina, skirstymo paslaugos kaina visais atvejais, išskyrus viešuosius interesus atitinkančių paslaugų kainos dalį, gali būti diferencijuojamos į galios ir elektros energijos dedamąsias. Visuomeninė elektros energijos kaina gali būti diferencijuojama į prieigos ir elektros energijos dedamąsias. Paslaugų teikėjai nustato kainų diferencijavimo tvarką, kurios aprašą tvirtina Komisija.
+2) elektros energijos sutaupymą reaguojant į vartojimo paklausą ir pasitelkiant elektros energijos paklausos valdymo paslaugų teikėjus;
 
 
 
 
-7. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeninis tiekėjas 6 kalendoriniams mėnesiams. Visuomeninės elektros energijos kaina nustatoma kaip elektros energijos įsigijimo kainos, perdavimo, viešuosius interesus atitinkančių paslaugų, skirstymo, visuomeninio tiekimo kainos ir faktinės elektros energijos įsigijimo kainos bei ankstesnio laikotarpio prognozuotos elektros energijos kainos skirtumo suma. Visuomeninio tiekėjo nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Komisija šio straipsnio 8 dalyje nustatyta tvarka.
+3) elektros energijos paklausos sumažinimą, pasitelkiant energijos taupymo paslaugų teikėjus;
 
 
 
 
-8. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo Komisijai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Komisija ne vėliau kaip per 30 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia.
+4) elektrinių prijungimą prie atitinkamos įtampos tinklų;
 
 
 
 
-9. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo kaina ir perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos bei tarifai ir visuomeninės elektros energijos kainos bei tarifai įsigalioja praėjus vienam mėnesiui nuo jų paskelbimo.
+5) arčiau vartojimo vietų esančių elektrinių prijungimą;
 
 
 
 
-10. Pasibaigus kiekvieniems reguliavimo periodo metams, Komisija kontroliuoja, ar paslaugos teikėjas užtikrino Komisijos nustatytos viršutinės kainų ribos įgyvendinimą. Nustačiusi skirtumą tarp Komisijos nustatytos viršutinės kainų ribos ir paslaugos teikėjo faktiškai taikyto kainų ir tarifų svertinio vidurkio, Komisija įpareigoja paslaugos teikėją atitinkamai koreguoti kitų reguliavimo periodo metų kainas ir tarifus.
+6) elektros energijos kaupimą. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-11. Ūkininkų ūkių registre įregistruotiems ūkininkų ūkiams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra lygus 14 ekonominio dydžio vienetų arba mažesnis, taikomos tokios pačios elektros energijos kainos ir tarifai, kaip buitiniams vartotojams.
+6. Viršutinė perdavimo paslaugos kainos riba turi būti nustatyta ar perskaičiuota ne vėliau kaip likus 90 kalendorinių dienų, viršutinės skirstymo ir visuomeninio tiekimo paslaugų kainų ribos – ne vėliau kaip likus 75 kalendorinėms dienoms iki reguliavimo periodo arba atitinkamų reguliavimo periodo metų pradžios.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-12. Žemės ūkio veiklos subjektams, kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ir kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų, ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemos įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais.
+7. Komisijai nustačius viršutines kainų ribas, paslaugų teikėjai turi teisę diferencijuoti paslaugos kainas pagal objektyvius požymius. Paslaugų teikėjai, diferencijuodami kainas, privalo laikytis nediskriminavimo principo ir tinkamai atsižvelgti į energijos vartojimo efektyvumo didinimo principą. Perdavimo paslaugos kaina gali būti diferencijuojama į dedamąsias elektros energijos vartotojams, gamintojams ir importuotojams, importuojantiems elektros energiją iš valstybių, kurios nėra valstybės narės. Perdavimo paslaugos kaina, persiuntimo paslaugos kaina, skirstymo paslaugos kaina visais atvejais, išskyrus viešuosius interesus atitinkančių paslaugų kainos dalį, gali būti diferencijuojamos į galios ir elektros energijos dedamąsias. Visuomeninė elektros energijos kaina gali būti diferencijuojama į prieigos ir elektros energijos dedamąsias. Paslaugų kainos taip pat gali būti diferencijuojamos pagal elektros energijos vartojimo laiką, realų valandinį elektros energijos vartojimą, taikant su vartojimo perkėlimu iš piko meto susijusias nuolaidas ir kitaip sudarant sąlygas reaguoti į elektros energijos paklausą. Paslaugų teikėjai nustato kainų diferencijavimo tvarką, kurios aprašą tvirtina Komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-13. Sodininkų, individualių automobilių garažų savininkų bendrijoms, perkančioms elektros energiją bendrijų narių bendroms reikmėms, taip pat daugiabučių gyvenamųjų namų arba bendrabučio tipo daugiabučių gyvenamųjų namų savininkų bendrijoms arba minėtų namų jungtinės veiklos sutarties dalyvių įgaliotiems atstovams, arba minėtų namų butų ir kitų patalpų savininkų bendrojo naudojimo objektų administratoriams, perkantiems elektros energiją daugiabučių gyvenamųjų namų bendroms reikmėms ir (ar) liftams, bendrabučio tipo daugiabučiams gyvenamiesiems namams (butams, kambariams, bendroms reikmėms ir (ar) liftams), taikomos tokios pačios elektros energijos kainos ir tarifai, kaip buitiniams vartotojams.
+8. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeninis tiekėjas 6 kalendoriniams mėnesiams. Visuomeninė elektros energijos kaina nustatoma kaip elektros energijos įsigijimo kainos, perdavimo, viešuosius interesus atitinkančių paslaugų, skirstymo, visuomeninio tiekimo kainos ir faktinės elektros energijos įsigijimo kainos bei ankstesnio laikotarpio prognozuotos elektros energijos kainos skirtumo suma. Visuomeninio tiekėjo nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Komisija šio straipsnio 9 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-14. Bendruomeninėms organizacijoms ir asociacijoms, perkančioms elektros energiją iš žemos įtampos elektros tinklų savo dalyvių fizinių asmenų poreikiams, nesusijusiems su verslu ar profesija, tenkinti ir kurių steigimo dokumentuose nurodyta veikla nėra susijusi su verslu ar profesija, jų prašymu taikomos tokios pačios elektros energijos kainos ir tarifai kaip ir buitiniams vartotojams. Bendruomeninės organizacijos ir asociacijos kartu su prašymu taikyti elektros energijos kainas ir tarifus kaip ir buitiniams vartotojams turi pateikti visuomeniniam tiekėjui ir (ar) skirstomųjų tinklų operatoriui bendruomeninės organizacijos ir asociacijos steigimo dokumentų kopijas ir dokumentus, patvirtinančius objekto, kuriame vartojama elektros energija, valdymą nuosavybės ar kita teise.
+9. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo Komisijai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Komisija ne vėliau kaip per 30 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
 
 
 
 
-15. Laikotarpiu, kol bus nustatytos elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainos šiame straipsnyje nustatyta tvarka, galioja ir yra taikomos atitinkamų paslaugų kainos, nustatytos iki šio įstatymo įsigaliojimo dienos.
+10. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo kaina ir perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos bei tarifai ir visuomeninės elektros energijos kainos bei tarifai įsigalioja praėjus vienam mėnesiui nuo jų paskelbimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+11. Pasibaigus kiekvieniems reguliavimo periodo metams, Komisija kontroliuoja, ar paslaugos teikėjas užtikrino Komisijos nustatytos viršutinės kainų ribos įgyvendinimą. Nustačiusi skirtumą tarp Komisijos nustatytos viršutinės kainų ribos ir paslaugos teikėjo faktiškai taikyto kainų ir tarifų svertinio vidurkio, Komisija įpareigoja paslaugos teikėją atitinkamai koreguoti kitų reguliavimo periodo metų kainas ir tarifus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+12. Ūkininkų ūkių registre įregistruotiems ūkininkų ūkiams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra lygus 14 ekonominio dydžio vienetų arba mažesnis, taikomos tokios pačios elektros energijos kainos ir tarifai, kaip buitiniams vartotojams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+13. Žemės ūkio veiklos subjektams, kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ir kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, kurių ekonominis dydis praėjusių metų mokestiniu laikotarpiu nuo sausio 1 dienos iki gruodžio 31 dienos pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus yra didesnis negu 14 ekonominio dydžio vienetų, ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemos įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+14. Sodininkų, individualių automobilių garažų savininkų bendrijoms, perkančioms elektros energiją bendrijų narių bendroms reikmėms, taip pat daugiabučių gyvenamųjų namų arba bendrabučio tipo daugiabučių gyvenamųjų namų savininkų bendrijoms arba minėtų namų jungtinės veiklos sutarties dalyvių įgaliotiems atstovams, arba minėtų namų butų ir kitų patalpų savininkų bendrojo naudojimo objektų administratoriams, perkantiems elektros energiją daugiabučių gyvenamųjų namų bendroms reikmėms ir (ar) liftams, bendrabučio tipo daugiabučiams gyvenamiesiems namams (butams, kambariams, bendroms reikmėms ir (ar) liftams), taikomos tokios pačios elektros energijos kainos ir tarifai, kaip buitiniams vartotojams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+15. Bendruomeninėms organizacijoms ir asociacijoms, perkančioms elektros energiją iš žemos įtampos elektros tinklų savo dalyvių fizinių asmenų poreikiams, nesusijusiems su verslu ar profesija, tenkinti ir kurių steigimo dokumentuose nurodyta veikla nėra susijusi su verslu ar profesija, jų prašymu taikomos tokios pačios elektros energijos kainos ir tarifai kaip ir buitiniams vartotojams. Bendruomeninės organizacijos ir asociacijos kartu su prašymu taikyti elektros energijos kainas ir tarifus kaip ir buitiniams vartotojams turi pateikti visuomeniniam tiekėjui ir (ar) skirstomųjų tinklų operatoriui bendruomeninės organizacijos ir asociacijos steigimo dokumentų kopijas ir dokumentus, patvirtinančius objekto, kuriame vartojama elektros energija, valdymą nuosavybės ar kita teise.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+16. Laikotarpiu, kol bus nustatytos elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainos šiame straipsnyje nustatyta tvarka, galioja ir yra taikomos atitinkamų paslaugų kainos, nustatytos iki šio įstatymo įsigaliojimo dienos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
 
 
@@ -4633,6 +4829,14 @@ priedas
 8. 2010 m. rugsėjo 21 d. Komisijos reglamentas (ES, Euratomas) Nr. 833/2010, kuriuo įgyvendinamas Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje (OL 2010 L 248, p. 36).
 
 
+
+
+9. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo (OL 2014 L 307, p. 1).
+Papildyta punktu:
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
  
  
 Pakeitimai:
@@ -4716,3 +4920,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 18, 20, 70
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2090, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19368
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 78 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 22, 31, 35, 39, 51, 59, 67, 69 straipsnių ir priedo pakeitimo įstatymas
