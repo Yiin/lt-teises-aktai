@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2016-11-15
+Suvestinė redakcija nuo 2016-11-16 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
+ 
+TAR pastaba. Jeigu nuo 2017 m. sausio 1 d. kariams, tapusiems apdraustaisiais ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, apskaičiuojant kompensuojamąjį uždarbį, pagal kurį mokamos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą išmokas), motinystės, tėvystės, vaiko priežiūros socialinio draudimo išmokos, patenka laikotarpiai, kuriais jie nebuvo apdrausti ligos ir motinystės socialiniu draudimu ir nelaimingų atsitikimų darbe socialiniu draudimu, šios socialinio draudimo išmokos apskaičiuojamos pagal šių karių draudžiamąsias pajamas. Šiais atvejais krašto apsaugos sistemos institucija kariui iš jai skirtų valstybės biudžeto asignavimų socialinio draudimo išmokos gavimo laikotarpiu skiria ir moka jo kompensuojamojo uždarbio dalį. Ši dalis apskaičiuojama kaip mokėtinos ir išmokėtos ligos (įskaitant profesinės ligos ir ligos pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą išmokas), motinystės, tėvystės, vaiko priežiūros socialinio draudimo išmokų skirtumas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 12, 13, 18, 20, 21, 28, 29, 44, 53, 55, 59, 62, 65, 65-1, 67, 68 ir 77-2 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMAS
  
@@ -3704,7 +3709,7 @@ vyresnysis eilinis                               �
 
 
 2) puskarininkių
-grandinis                                                                               grandinis
+grandinis                                                                               grandinis
 seržantas, seržantas specialistas                       seržantas, seržantas specialistas
 vyresnysis seržantas, vyresnysis seržantas       vyresnysis seržantas, vyresnysis
 specialistas                                                                            seržantas specialistas
@@ -4157,9 +4162,10 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 
 
-8. Profesinės karo tarnybos kariams dėl paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą, taip pat dėl grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos, kurių pradžia – kita darbo diena po paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą arba kario grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
+8. Profesinės karo tarnybos kariams dėl paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas ar tarnybą, pasibaigus šių pareigų ar tarnybos terminui ir grįžtantiems į pareigas ar tarnybą Lietuvos Respublikoje, taip pat pasibaigus tarptautinės operacijos ar ilgalaikio plaukiojimo terminui ir grįžtantiems į pareigas ar tarnybą Lietuvos Respublikoje, suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
+Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
  
 
 
@@ -4909,71 +4915,6 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 
 
 68 straipsnis. Socialinės ir kitos su karo tarnyba susijusios garantijos
-
-
-1. Iš Krašto apsaugos ministerijai skiriamų biudžeto asignavimų kariams taikomos šio ir kitų įstatymų nustatytos su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines garantijas valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos kariui taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
-
-
-
-
-2. Laikinojo nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, dėl nelaimingo atsitikimo tarnyboje, susijusio su kario tarnybinių pareigų atlikimu karinių operacijų metu, taip pat susijusio su kariniais veiksmais vykdant strategines ar taktines karines užduotis (misijas), mokymus ar pratybas, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo) laikotarpiu profesinės karo tarnybos kariams mokamas vidutinis jų darbo užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo, atveju profesinės karo tarnybos kariams mokama 100 procentų jų vidutinio darbo užmokesčio, taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo. Laikinojo nedarbingumo dėl nelaimingo atsitikimo tarnyboje, susijusio su kario tarnybinių pareigų atlikimu karinių operacijų metu, taip pat susijusio su kariniais veiksmais vykdant strategines ar taktines karines užduotis (misijas), mokymus ar pratybas, atveju mokama 100 procentų jų gaunamo vidutinio atlyginimo dydžio ligos pašalpa, netaikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžių.
-
-
-
-
-3. Tapusiam laikinai nedarbingam pašauktam į pratybas, mokymus arba kitų tarnybos užduočių vykdymo metu nedirbančiam ir neturinčiam kitų draudžiamųjų pajamų kariui savanoriui ir kitam aktyviojo rezervo ir parengtojo rezervo kariui laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama šio straipsnio 2 dalyje nustatyto dydžio ligos pašalpa.
-
-
-
-
-4. Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę (mirę) kariai laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė arba jos įgaliota institucija. Tikrosios karo tarnybos metu kariui žuvus (mirus) kitomis aplinkybėmis arba jam mirus dėl ligos, karį laidojančiam asmeniui skiriama pusės Vyriausybės nustatyto laidojimo išlaidų dydžio parama laidojimo išlaidoms iš dalies padengti. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
- 
-
-
-
-
-5. Kario, kuris žuvo (mirė) užsienyje su tarnyba susijusiomis aplinkybėmis, taip pat užsienyje žuvusių (mirusių) kartu su kariu užsienyje gyvenusių asmenų, nurodytų šio įstatymo 61 straipsnio 3 dalyje, palaikų pervežimo į Lietuvą išlaidas apmoka valstybė Vyriausybės nustatytomis sąlygomis ir tvarka. Karių, žuvusių (mirusių) tarnybos tarptautinės operacijos kariniame vienete, tarptautinėje operacijoje ar pasirengimo tarptautinei operacijai už Lietuvos Respublikos teritorijos ribų metu, palaikų pervežimo sąlygas ir tvarką nustato krašto apsaugos ministras. 
-Papildyta straipsnio dalimi:
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
- 
-
-
-
-
-6. Tikrosios karo tarnybos metu dėl susijusių su tarnyba priežasčių žuvusiam arba tikrosios karo tarnybos metu dėl ligos mirusiam kariui, jeigu jo šeima (artimieji) sutinka, Krašto apsaugos ministerijos lėšomis pastatomas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas. Jeigu kario artimieji palaidoja žuvusį ar mirusį karį šeimos kape ir stato kitokį nei kario paminklą, Krašto apsaugos ministerija apmoka paminklo išlaidų dalį, neviršijančią kario antkapinio paminklo vertės. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
- 
-
-
-
-
-7. Šio įstatymo 59 straipsnyje numatytų nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, profesinės karo tarnybos kariams mokamos Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo arba jo dalies dydžio išmokos, neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatomis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
- 
-
-
-
-
-7. Neteko galios nuo 2011 m. liepos 1 d.
-
-
-
-
-8. Neteko galios nuo 2011 m. liepos 1 d.
-
-
-
-
-9. Neteko galios nuo 2015-04-21
-Straipsnio dalies naikinimas:
-Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
- 
-
-
 Straipsnio pakeitimai:
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. IX-1359, 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
@@ -4987,7 +4928,6 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Nr. XI-1858, 2011-12-22, Žin., 2011, Nr. 163-7756 (2011-12-31)
 Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 Nr. XII-285, 2013-05-09, Žin., 2013, Nr. 54-2690 (2013-05-25)
- 
 
 
 
@@ -5728,3 +5668,13 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10-1, 11 ir 59 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 65, 66, 67, 68, 70 ir 72 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 12, 13, 18, 20, 21, 28, 29, 44, 53, 55, 59, 62, 65, 65-1, 67, 68 ir 77-2 straipsnių pakeitimo įstatymas
