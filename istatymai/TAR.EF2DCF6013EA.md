@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ef2dcf6013ea11e58569be21ff080a8c"
 
 # Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2016-06-09 iki 2016-11-16
+Suvestinė redakcija nuo 2016-11-17
  
 Įstatymas paskelbtas: TAR 2015-06-16, i. k. 2015-09613
  
@@ -171,14 +171,16 @@ Pakeisti 366 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-„1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;“.
+„1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;“. 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
  
-
-
-
-
-
-
 
 
 
@@ -214,3 +216,8 @@ Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2410, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15665
 Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
+Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 4 straipsnio pakeitimo įstatymas
