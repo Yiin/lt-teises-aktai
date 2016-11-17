@@ -15,8 +15,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2016-10-18
-iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-17
+iki 2016-11-30
 Kodeksas paskelbtas: Vyriausybės
 žinios 1985, Nr. 1-1, i. k.
 0841010KODE00X-4449
@@ -53,10 +53,10 @@ Pastaba.
 y. ji apima ne tik Lietuvos Respublikos piliečius, bet ir užsienio valstybių
 piliečius bei asmenis be pilietybės.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 2
 straipsnis. Lietuvos Respublikos įstatymai dėl administracinių teisės pažeidimų
@@ -68,8 +68,8 @@ Respublikos įstatymai dėl administracinių teisės pažeidimų, kol jie nustat
 tvarka neįtraukti į šį kodeksą, Lietuvos Respublikos teritorijoje taikomi
 tiesiogiai.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 3
 straipsnis. Neteko
@@ -79,15 +79,15 @@ Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228
 Nr. XI-3745, 1990.03.07, Žin.,
 1990, Nr. 9-267
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 4
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 5
 straipsnis. Savivaldybių tarybų įgaliojimai priimti sprendimus ir savivaldybių 
@@ -108,20 +108,20 @@ administracinė atsakomybė pagal šio kodekso 424 straipsnio trečiąją
 dalį, 1245, 1246, 158, 161, 1611, 162, 166,
 167, 185 straipsnius, 1851 straipsnio pirmąją dalį.
  Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30)
-Nr. VIII-640, 98.02.24, Žin., 1998,
-Nr. 25-636 (98.03.13)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-588, 2001-11-08, Žin., 2001,
-Nr. 99-3522 (2001-11-28)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30)
+Nr. VIII-640,
+98.02.24, Žin., 1998, Nr. 25-636 (98.03.13)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-588,
+2001-11-08, Žin., 2001, Nr. 99-3522 (2001-11-28)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
@@ -135,11 +135,11 @@ Nr. X-1246, 2007-07-03, Žin., 2007,
 Nr. 81-3316 (2007-07-21, šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
  
 6 straipsnis.
 Administracinių teisės pažeidimų prevencija
@@ -156,12 +156,12 @@ savivaldybių policijos, administracinių komisijų, savivaldybių seniūnijų k
 vietovėse seniūnų ir kitų joms atskaitingų organų, turinčių kovoti su
 administraciniais teisės pažeidimais, veiklai.
  Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
  
 7
 straipsnis. Teisėtumo užtikrinimas taikant poveikio priemones už
@@ -181,10 +181,10 @@ reikalavimų laikymasis taikant poveikio priemones už administracinius teisės
 pažeidimus užtikrinamas sisteminga aukštesniųjų organų ir pareigūnų kontrole,
 teise apskųsti, kitais įstatymų nustatytais būdais.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
  
 8
 straipsnis. Įstatymų dėl atsakomybės už administracinius teisės pažeidimus 
@@ -205,8 +205,8 @@ Administracinių
 teisės pažeidimų bylų teisena vykdoma pagal įstatymus, galiojančius teisės
 pažeidimo bylos nagrinėjimo metu ir nagrinėjimo vietoje. 
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 II SKYRIUS
 ADMINISTRACINIS
@@ -232,8 +232,8 @@ atsakomybė už šiame kodekse numatytus teisės pažeidimus atsiranda, jeigu sa
 pobūdžiu šie pažeidimai pagal galiojančius įstatymus neužtraukia baudžiamosios
 atsakomybės.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 10
 straipsnis. Administracinio teisės pažeidimo padarymas tyčia
@@ -275,30 +275,26 @@ administracinėn atsakomybėn traukiami tėvai arba globėjai (rūpintojai).
 Straipsnio pakeitimai:
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
 Nr.
-XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
+XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
  
 14
 straipsnis. Pareigūnų atsakomybė
@@ -316,10 +312,10 @@ taip pat už pažeidimus, susijusius su nesilaikymu nustatytų valdymo tvarkos,
 valstybinės ir viešosios tvarkos, aplinkos, gyventojų sveikatos apsaugos bei
 kitų taisyklių, kurių laikymąsi užtikrinti yra jų tarnybinė pareiga.
 Straipsnio pakeitimai:
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
 15
 straipsnis. Statutinių valstybės tarnautojų atsakomybė už administracinius
@@ -329,31 +325,29 @@ atsakomybėn traukiami bendrais pagrindais.
 Straipsnio pakeitimai:
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-VIII-1651, 00.05.02, Žin., 2000,
-Nr. 41-1164 (00.05.19)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+VIII-1651,
+00.05.02, Žin., 2000, Nr. 41-1164 (00.05.19)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. X-1019, 2007-01-16, Žin., 2007,
 Nr. 12-492 (2007-01-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo
 priede, įgyvendinimą
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
  
 16
 straipsnis. Užsieniečių atsakomybė
@@ -362,8 +356,8 @@ Respublikoje esantys užsieniečiai, padarę administracinės teisės pažeidim�
 atsako pagal šį kodeksą, jeigu ko kito nenumato kiti įstatymai ir Lietuvos
 Respublikos tarptautinės sutartys.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 17
 straipsnis. Būtinasis reikalingumas
@@ -376,8 +370,8 @@ laisvėms bei nustatytai valdymo tvarkai, jeigu šis pavojus tomis aplinkybėmis
 negalėjo būti pašalintas kitomis priemonėmis ir jeigu padarytoji žala yra
 mažiau reikšminga negu išvengtoji žala.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 18
 straipsnis. Būtinoji gintis
@@ -410,8 +404,8 @@ pažeidimą padariusiems asmenims nubausti bei siekiant auklėti, kad jie
 laikytųsi įstatymų, gerbtų bendro gyvenimo taisykles, taip pat kad tiek pats
 teisės pažeidėjas, tiek ir kiti asmenys nepadarytų naujų teisės pažeidimų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 21
 straipsnis. Administracinių nuobaudų rūšys
@@ -458,14 +452,14 @@ straipsnio 1 dalies 4 punkte ir 27, 152, 1521, 1523, 1524,
 įrenginių sąvokos suprantamos taip, kaip jos apibrėžtos Elektroninių ryšių
 įstatyme.
 Straipsnio pakeitimai:
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-1573,
+1991.07.18, Žin., 1991, Nr. 22-568
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-134, 2005-03-17, Žin., 2005,
@@ -480,14 +474,14 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -498,10 +492,10 @@ administracinių teisės pažeidimų padarymą nepilnamečiams gali būti skiria
 visos administracinės nuobaudos, numatytos šio kodekso 21 straipsnyje, išskyrus
 administracinį areštą.
 Straipsnio pakeitimai:
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-590, 1994.09.13, Žin., 1994,
-Nr. 73-1372 (94.09.21)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-590,
+1994.09.13, Žin., 1994, Nr. 73-1372 (94.09.21)
  
 22
 straipsnis. Pagrindinės ir papildomosios administracinės nuobaudos
@@ -514,12 +508,12 @@ Už vieną
 administracinį teisės pažeidimą gali būti paskirta pagrindinė arba pagrindinė
 ir papildomoji nuobauda.
 Straipsnio pakeitimai: 
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1573,
+1991.07.18, Žin., 1991, Nr. 22-568
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 23
 straipsnis. Įspėjimas
@@ -556,12 +550,12 @@ Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -569,10 +563,10 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 26
 straipsnis. Daikto, kuris buvo administracinio teisės pažeidimo padarymo
@@ -634,17 +628,17 @@ Lietuvos Respublikos įstatymai.
 Straipsnio pakeitimai:
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-249, 2005-06-16, Žin., 2005,
@@ -662,29 +656,28 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr.
-XI-2272, 2012-10-03, Žin., 2012,
-Nr. 122-6127 (2012-10-20)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
+XI-2272,
+2012-10-03, Žin., 2012, Nr. 122-6127 (2012-10-20)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 27
 straipsnis. Specialiosios teisės atėmimas
@@ -715,12 +708,12 @@ vairuoti transporto priemones negali būti skiriamas asmenims, kurie naudojasi
 šiomis priemonėmis dėl neįgalumo, išskyrus atvejus, kai jas vairuoja neblaivūs
 arba apsvaigę nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų asmenys.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-134, 2005-03-17, Žin., 2005,
@@ -735,25 +728,25 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
  
 28
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 29
 straipsnis. Administracinis areštas
@@ -777,17 +770,17 @@ suvaržyti šių asmenų laisvę, o tarp Seimo sesijų – Respublikos Prezident
 išankstinį sutikimą suvaržyti Ministro Pirmininko, ministrų, Konstitucinio
 Teismo teisėjų, teisėjų laisvę.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1152, 2014-09-25, paskelbta
 TAR 2014-10-03, i. k. 2014-13601
  
@@ -799,8 +792,8 @@ padarytus ryšium su darbuotojo tarnybinių pareigų atlikimu.
 Nušalinimą nuo
 darbo (pareigų) skiria rajono (miesto) apylinkės teismas (teisėjas).
 Straipsnio pakeitimai:
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568 
+Nr. I-1573,
+1991.07.18, Žin., 1991, Nr. 22-568 
  
 Ketvirtasis
 skirsnis
@@ -820,10 +813,10 @@ bei atsakomybę lengvinančias ir sunkinančias aplinkybes. Atsakomybę
 lengvinančių ir sunkinančių aplinkybių sąrašą nustato šio kodekso 31 ir 32
 straipsniai.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26; Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26; Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 301
 straipsnis. Mažesnės nei įstatymo numatyta administracinės nuobaudos skyrimas
@@ -840,8 +833,8 @@ Organas
 (pareigūnas) kiekvieną savo sprendimą, priimtą vadovaujantis šio straipsnio pirmąja
 dalimi, privalo motyvuoti. Sprendimą sankcionuoja apylinkės teismo teisėjas.
 Straipsnio pakeitimai:
-Nr. VIII-1407, 99.11.11, Žin., 1999,
-Nr. 101-2906 (99.11.26)
+Nr. VIII-1407,
+99.11.11, Žin., 1999, Nr. 101-2906 (99.11.26)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-1365, 2007-12-13, Žin., 2007,
@@ -851,8 +844,8 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2012-09-25,
 Žin., 2012, Nr. 113-5737 (2012-09-29)
 Nr.
-XII-247, 2013-04-23, Žin., 2013,
-Nr. 46-2248 (2013-05-07)
+XII-247,
+2013-04-23, Žin., 2013, Nr. 46-2248 (2013-05-07)
  
 302
 straipsnis. Baudos skyrimas
@@ -877,10 +870,10 @@ Baudos dydis
 pagal baudos dydžio sankcijoje minimumo ir maksimumo vidurkį turi būti
 išreikštas sveikuoju skaičiumi.
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -915,10 +908,10 @@ Lietuvos
 Respublikos įstatymai gali numatyti ir kitokių atsakomybę už administracinį
 teisės pažeidimą lengvinančių aplinkybių.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1152, 2014-09-25, paskelbta
 TAR 2014-10-03, i. k. 2014-13601
  
@@ -962,8 +955,8 @@ Pastaba.
 Šiame straipsnyje numatytas turtinis nuostolis yra didelis, kai jis viršija
 penkių minimalaus gyvenimo lygio (MGL) dydžio sumą.
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
  
@@ -988,8 +981,8 @@ Administracinio
 arešto terminas skaičiuojamas paromis, specialiosios teisės atėmimas – metais
 arba mėnesiais.
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 35
 straipsnis. Administracinės nuobaudos skyrimo terminai
@@ -1051,33 +1044,31 @@ nutarimas panaikinamas apeliacine tvarka, šiame straipsnyje nurodyti terminai
 pradedami skaičiuoti iš naujo nuo teismo ar apeliacinės instancijos sprendimo
 įsiteisėjimo dienos.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08) 
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-830, 98.07.01, Žin., 1998,
-Nr. 63-1803 (98.07.15)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08) 
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-830,
+98.07.01, Žin., 1998, Nr. 63-1803 (98.07.15)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XI-1477, 2011-06-21, Žin., 2011,
-Nr. 81-3964 (2011-07-05)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XI-1477,
+2011-06-21, Žin., 2011, Nr. 81-3964 (2011-07-05)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 36
 straipsnis. Terminas, kuriam pasibaigus laikoma, kad asmeniui nebuvo paskirta 
@@ -1102,14 +1093,14 @@ Kitais atvejais
 klausimas dėl administraciniu teisės pažeidimu padaryto turtinio nuostolio
 atlyginimo sprendžiamas civilinio proceso tvarka.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -1126,8 +1117,8 @@ Kitais atvejais
 klausimas dėl administracinių teisės pažeidimų padaryto turtinio nuostolio
 atlyginimo sprendžiamas civilinio proceso tvarka.
 Straipsnio pakeitimai:
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -1142,15 +1133,13 @@ vengiantys vykdyti šį įpareigojimą, traukiami administracinėn atsakomybėn 
 šio kodekso 1814 straipsnyje nurodytą administracinį teisės
 pažeidimą.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio pakeitimai:
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
  
 38
 straipsnis. Pareigos, už kurios nevykdymą buvo paskirta administracinė 
@@ -1169,15 +1158,15 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370
 Nr. I-1691, 1987.06.09, Žin.,
 1987, Nr. 17-189
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 40
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai:
-Nr. VIII-762, 98.06.02, Žin., 1998,
-Nr. 55-1518 (98.06.17)
+Nr. VIII-762,
+98.06.02, Žin., 1998, Nr. 55-1518 (98.06.17)
  
 II. YPATINGOJI
 DALIS
@@ -1720,8 +1709,8 @@ penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems
 asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų
 penkiasdešimt eurų.“
 Papildyta straipsniu:
-Nr. XII-1960, 2015-10-15, paskelbta
-TAR 2015-10-23, i. k. 2015-16729
+Nr. XII-1960,
+2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16729
  
 43
 straipsnis. Kliudymas Valstybinės maisto ir veterinarijos tarnybos pareigūnams
@@ -1919,8 +1908,8 @@ piliečiams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir pareigūnams – nuo penkių šimtų septyniasdešimt
 devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. XII-1708, 2015-05-14, paskelbta
-TAR 2015-05-25, i. k. 2015-08040
+Nr. XII-1708,
+2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08040
  
 4310 straipsnis.
 Medicinos prietaisų saugą, kokybę, veikimą, naudojimą, tiekimą rinkai,
@@ -2094,8 +2083,8 @@ nuo vieno tūkstančio septynių šimtų trisdešimt septynių iki dviejų tūks
 aštuonių šimtų devyniasdešimt šešių eurų su narkotinių ar psichotropinių
 medžiagų pirmtakų (prekursorių) konfiskavimu arba be konfiskavimo.
 Straipsnio pakeitimai:
-Nr. XII-1904, 2015-06-25, paskelbta
-TAR 2015-07-07, i. k. 2015-11090
+Nr. XII-1904,
+2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11090
  
 443
 straipsnis. Farmacijos praktikos, veiklos, susijusios su vaistais (vaistiniais
@@ -2164,8 +2153,8 @@ išduotą leidimą atlikti bandymą su gyvūnais, nuo vieno šimto
 keturiasdešimties iki penkių šimtų aštuoniasdešimties eurų su vaistų (vaistinių
 preparatų) konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai:
-Nr. XII-1551, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04833
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
 Nr. XII-2648,
 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24618 
  
@@ -2216,8 +2205,8 @@ užtraukia baudą
 juridinių asmenų vadovams nuo vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. XII-1552, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04835
+Nr. XII-1552,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04835
  
 445
 straipsnis. Kliudymas Valstybinės vaistų kontrolės tarnybos prie Lietuvos
@@ -2249,8 +2238,8 @@ preparatais), jų filialų ar atstovybių vadovams nuo vieno tūkstančio keturi
 devyniasdešimt šešių eurų ir kitiems darbuotojams – nuo dviejų šimtų
 aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. XII-1551, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04833
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
  
 446 straipsnis. Reikalavimų,
 susijusių su vaistinio preparato registravimu ir vaistinio preparato
@@ -2286,10 +2275,10 @@ lygiagretaus importo leidimo turėtojų atstovų vadovams nuo aštuonių šimtų
 šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. XII-1551, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04833
-Nr. XII-1552, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04835
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
+Nr. XII-1552,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04835
  
 447
 straipsnis. Falsifikuotų vaistinių preparatų gamyba, importas iš trečiųjų
@@ -2410,8 +2399,8 @@ nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturi�
 keturiasdešimt aštuonių eurų su vaistų (vaistinių preparatų) konfiskavimu ar be
 konfiskavimo.
 Papildyta straipsniu:
-Nr. XII-1551, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04833
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
  
 449
 straipsnis. Neteisėtas disponavimas Lietuvos Respublikos tam tikrų
@@ -2445,8 +2434,8 @@ konfiskavimu.
 Papildyta
 straipsniu:
 Nr.
-XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
+XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
  
 4410
 straipsnis. Teisės aktų, reglamentuojančių ligų, vaistinių
@@ -2469,8 +2458,8 @@ nagrinėjančios skundus dėl nuolatinės komisijos priimtų sprendimų, nariams
 šimto keturiasdešimt penkių iki septynių šimtų dvidešimt penkių eurų.
 Papildyta
 straipsniu:
-Nr. XII-1876, 2015-06-25, paskelbta
-TAR 2015-07-09, i. k. 2015-11210
+Nr. XII-1876,
+2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11210
  
 Šeštasis
 skirsnis
@@ -2497,12 +2486,12 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-454, 1994.05.10, Žin., 1994,
-Nr. 37-668 (94.05.18)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-454,
+1994.05.10, Žin., 1994, Nr. 37-668 (94.05.18)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2510,10 +2499,10 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai:
-Nr. I-454, 1994.05.10, Žin., 1994,
-Nr. 37-668 (94.05.18)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-454,
+1994.05.10, Žin., 1994, Nr. 37-668 (94.05.18)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 46 straipsnis. Žemės gelmių
 valstybinės nuosavybės teisės pažeidimas
@@ -2536,14 +2525,14 @@ piliečiams nuo vieno šimto penkiolikos iki dviejų šimtų aštuoniasdešimt d
 eurų ir pareigūnams – nuo dviejų šimtų dviejų iki keturių šimtų trisdešimt
 keturių eurų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2564,10 +2553,10 @@ piliečiams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt
 devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -2582,12 +2571,12 @@ Pastovių
 užtraukia baudą
 nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-454, 1994.05.10, Žin., 1994,
-Nr. 37-668 (94.05.18)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-454,
+1994.05.10, Žin., 1994, Nr. 37-668 (94.05.18)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2599,12 +2588,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-454, 1994.05.10, Žin., 1994,
-Nr. 37-668 (94.05.18)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-454,
+1994.05.10, Žin., 1994, Nr. 37-668 (94.05.18)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2621,10 +2610,10 @@ penkių eurų baudą.
 Straipsnio pakeitimai:
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2644,18 +2633,18 @@ pat atsižvelgiama į pagrobtų daiktų natūralų kiekį (svorį, dydį).
 Straipsnio pakeitimai:
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. I-653, 94.11.10, Žin., 1994,
-Nr. 89-1724 (94.11.18) 
-Nr. I-1141, 95.12.20, Žin., 1995,
-Nr. 104-2325 (95.12.22)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. I-653,
+94.11.10, Žin., 1994, Nr. 89-1724 (94.11.18) 
+Nr. I-1141,
+95.12.20, Žin., 1995, Nr. 104-2325 (95.12.22)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -2679,14 +2668,14 @@ septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-631, 1994.11.08, Žin., 1994,
-Nr. 88-1670
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-631,
+1994.11.08, Žin., 1994, Nr. 88-1670
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2700,8 +2689,8 @@ užtraukia
 Straipsnio pakeitimai:
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2712,10 +2701,10 @@ sunaikinimas ar sužalojimas, nepadaręs nukentėjusiajam žymios žalos, –
 užtraukia baudą
 nuo dvidešimt aštuonių iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2764,10 +2753,10 @@ piliečiams nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimt�
 šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -2805,14 +2794,14 @@ nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki keturi
 tūkstančių keturių šimtų aštuoniasdešimt vieno euro su nušalinimu nuo darbo
 (pareigų).
 Straipsnio pakeitimai:
-Nr. VIII-638, 98.02.24, Žin., 1998,
-Nr. 25-634 (98.03.13)
+Nr. VIII-638,
+98.02.24, Žin., 1998, Nr. 25-634 (98.03.13)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2835,8 +2824,8 @@ nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki keturi
 tūkstančių keturių šimtų aštuoniasdešimt vieno euro su nušalinimu nuo darbo
 (pareigų).
 Straipsnio pakeitimai:
-Nr. VIII-638, 98.02.24, Žin., 1998,
-Nr. 25-634 (98.03.13)
+Nr. VIII-638,
+98.02.24, Žin., 1998, Nr. 25-634 (98.03.13)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2850,8 +2839,8 @@ užtraukia
 baudą nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
@@ -2904,18 +2893,18 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai:
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-442, 1994.04.21,
+Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XII-292, 2013-05-09, Žin., 2013,
-Nr. 55-2730 (2013-05-28)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XII-292,
+2013-05-09, Žin., 2013, Nr. 55-2730 (2013-05-28)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -2938,12 +2927,12 @@ užtraukia baudą
 pareigūnams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3023,16 +3012,16 @@ tūkstančio vieno šimto penkiasdešimt aštuonių eurų ir juridinių asmenų 
 trisdešimt septynių eurų.
 Straipsnio
 pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3237,14 +3226,14 @@ dokumentų saugojimo reikalavimų pažeidimas –
 užtraukia baudą
 nuo penkiasdešimt septynių iki dviejų šimtų trisdešimt vieno euro.
 Straipsnio pakeitimai:
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -3256,15 +3245,14 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1325, 2011-04-19, Žin., 2011,
-Nr. 52-2502 (2011-05-03), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
+Nr. XI-1325,
+2011-04-19, Žin., 2011, Nr. 52-2502 (2011-05-03), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1785, 2015-06-11, paskelbta
-TAR 2015-06-19,  i. k. 2015-09822
+XII-1785,
+2015-06-11, paskelbta TAR 2015-06-19,  i. k. 2015-09822
  
 514
 straipsnis. Aplinkos teršimas pavojingomis cheminėmis medžiagomis ir
@@ -3282,12 +3270,12 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -3317,12 +3305,12 @@ užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3354,18 +3342,17 @@ piliečiams nuo dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstanči
 septyniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt
 šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3382,12 +3369,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3429,14 +3416,14 @@ poveikio aplinkai vertinimo dokumentų rengėjų – juridinių asmenų vadovams
 įgaliotiems asmenims – nuo vieno šimto keturiasdešimt keturių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3452,16 +3439,16 @@ piliečiams nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų ir
 pareigūnams – nuo aštuoniasdešimt šešių iki vieno šimto septyniasdešimt trijų
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3489,16 +3476,16 @@ apsaugos valstybinės kontrolės pareigūno garbės ir orumo įžeidimas, reišk
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3520,8 +3507,8 @@ transporto priemonės savininkui nuo vieno šimto keturiasdešimt keturių iki
 dviejų šimtų aštuoniasdešimt devynių eurų su transporto priemonės konfiskavimu
 ar be konfiskavimo.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -3583,8 +3570,8 @@ pareigūnams nuo
 keturių šimtų trisdešimt keturių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Straipsnio
 pakeitimai:
 Nr.
@@ -3630,13 +3617,12 @@ penkių šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų ir pareigūnams – nuo vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių iki dviejų tūkstančių trijų šimtų šešiolikos eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Straipsnio pakeitimai: 
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3661,8 +3647,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Straipsnio pakeitimai: 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -3740,9 +3726,9 @@ Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1846, 2015-06-23, paskelbta
-TAR 2015-07-01, i. k. 2015-10591, šiuo įstatymu įgyvendinamas Europos Sąjungos
-teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-1846,
+2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10591, šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
  
 5117
 straipsnis. Nepaklusimas aplinkos apsaugos valstybinės kontrolės pareigūno
@@ -4018,9 +4004,9 @@ Nr. 73-2759 (2006-06-30), šis
 įstatymo priede, įgyvendinimą 
 Straipsnio
 pakeitimai:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4284,11 +4270,9 @@ penkių šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-XI-1464, 2011-06-20, Žin., 2011,
-Nr. 85-4125 (2011-07-13)
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XI-1464,
+2011-06-20, Žin., 2011, Nr. 85-4125 (2011-07-13) šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -4314,10 +4298,9 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo dviejų šimtų trisdešimt vieno iki trijų šimtų keturiasdešimt septynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1551, 2011-06-28, Žin., 2011,
-Nr. 91-4326 (2011-07-19), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
+Nr. XI-1551,
+2011-06-28, Žin., 2011, Nr. 91-4326 (2011-07-19), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -4339,8 +4322,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -4361,12 +4344,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4385,14 +4368,14 @@ nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt 
 eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4412,16 +4395,15 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4463,11 +4445,9 @@ piliečiams nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų ir
 pareigūnams – nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno
 euro.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -4506,11 +4486,9 @@ piliečiams nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų ir
 pareigūnams – nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno
 euro.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -4538,16 +4516,16 @@ septyniasdešimt devynių eurų ir pareigūnams – nuo penkių šimtų septynia
 devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų arba
 nušalinimą nuo darbo (pareigų).
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4568,14 +4546,14 @@ piliečiams nuo dviejų šimtų aštuoniasdešimt devynių iki keturių šimtų
 trisdešimt keturių eurų ir pareigūnams – nuo keturių šimtų trisdešimt keturių
 iki septynių šimtų dvidešimt keturių eurų arba nušalinimą nuo darbo (pareigų).
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4598,14 +4576,14 @@ trisdešimt keturių eurų ir pareigūnams – nuo dviejų šimtų aštuoniasde�
 devynių iki penkių šimtų septyniasdešimt devynių eurų arba nušalinimą nuo darbo
 (pareigų).
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589, 1992.05.26,
+Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4640,26 +4618,25 @@ dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt 
 eurų ir pareigūnams – nuo penkių šimtų septyniasdešimt devynių iki vieno
 tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1785, 2015-06-11, paskelbta
-TAR 2015-06-19,  i. k. 2015-09822
+XII-1785,
+2015-06-11, paskelbta TAR 2015-06-19,  i. k. 2015-09822
  
 56
 straipsnis. Jūros aplinkos apsaugos reikalavimų pažeidimas
@@ -4776,19 +4753,17 @@ aštuonių šimtų devyniasdešimt šešių eurų ir pareigūnams – nuo dviej�
 aštuoniasdešimt devynių iki keturiolikos tūkstančių keturių šimtų
 aštuoniasdešimt vieno euro.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-857, 2010-05-28, Žin., 2010,
-Nr. 70-3471 (2010-06-17),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-857,
+2010-05-28, Žin., 2010, Nr. 70-3471 (2010-06-17), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4811,16 +4786,16 @@ teisės vairuoti vidaus vandenų transporto priemones atėmimą nuo vienerių ik
 trejų metų su mažųjų laivų ir kitų vidaus vandenų transporto priemonių
 konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -4956,16 +4931,15 @@ nuo vieno šimto septyniasdešimt trijų iki dviejų šimtų aštuoniasdešimt d
 eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -4987,12 +4961,12 @@ pirmojoje ir antrojoje dalyse numatytus pažeidimus, –
 užtraukia baudą
 nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -5010,23 +4984,22 @@ Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
 Straipsnio pakeitimai: 
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
  
 59
 straipsnis. Neteko
 galios nuo 2006 m. gruodžio 5 d.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-2051, 00.10.17, Žin., 2000,
-Nr. 92-2884 (00.10.31)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-2051,
+00.10.17, Žin., 2000, Nr. 92-2884 (00.10.31)
 Nr. X-906, 2006-11-16, Žin., 2006,
 Nr. 132-4986 (2006-12-05), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
@@ -5041,12 +5014,12 @@ piliečiams nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturi
 eurų ir pareigūnams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5091,18 +5064,18 @@ piliečiams nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturi
 eurų ir pareigūnams – nuo vieno šimto penkiolikos iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5185,16 +5158,16 @@ piliečiams nuo keturiolikos tūkstančių keturių šimtų aštuoniasdešimt vi
 septyniolikos tūkstančių trijų šimtų septyniasdešimt septynių eurų su pažeidimo
 padarymo įrankių ir priemonių konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5285,11 +5258,11 @@ septyniolikos tūkstančių trijų šimtų septyniasdešimt septynių eurų su p
 padarymo įrankių ir priemonių bei iškirstos medienos arba pajamų iš šios
 veiklos konfiskavimu.
 Kodeksas papildytas straipsniu:
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 Straipsnio pakeitimai: 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5371,8 +5344,8 @@ piliečiams nuo keturiolikos tūkstančių keturių šimtų aštuoniasdešimt vi
 septyniolikos tūkstančių trijų šimtų septyniasdešimt septynių eurų su traukimo
 ar vežimo priemonių konfiskavimu.
 Kodeksas papildytas straipsniu:
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -5388,12 +5361,12 @@ užtraukia baudą
 piliečiams nuo keturiolikos iki dvidešimt aštuonių eurų ir pareigūnams – nuo
 dvidešimt aštuonių iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5437,14 +5410,14 @@ piliečiams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų dviej�
 ir pareigūnams – nuo vieno šimto septyniasdešimt trijų iki dviejų šimtų
 šešiasdešimties eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996, Nr.
-73-1741 (96.07.31) 
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -5467,12 +5440,12 @@ užtraukia baudą
 piliečiams nuo keturiolikos iki dvidešimt aštuonių eurų ir pareigūnams –
 nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5526,16 +5499,16 @@ užtraukia baudą
 piliečiams nuo septynių iki dvidešimt aštuonių eurų ir pareigūnams – nuo
 dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5568,17 +5541,17 @@ gyvūnų, augalų ir grybų rūšių sąraše ir (arba) Europos Bendrijos svarbo
 ir augalų rūšių sąrašuose nurodytų rūšių arba pagal tarptautinius susitarimus
 pripažintų saugomomis rūšių augalai ir grybai.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5590,16 +5563,16 @@ užtraukia baudą
 piliečiams nuo keturiolikos iki penkiasdešimt septynių eurų ir pareigūnams –
 nuo keturiasdešimt trijų iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5617,14 +5590,14 @@ piliečiams nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturi
 eurų ir pareigūnams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5641,21 +5614,21 @@ kur tai daryti draudžiama, –
 užtraukia baudą
 piliečiams nuo keturiolikos iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5669,12 +5642,12 @@ užtraukia baudą
 piliečiams nuo keturiolikos iki dvidešimt aštuonių eurų ir pareigūnams – nuo
 keturiasdešimt trijų iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5691,12 +5664,12 @@ piliečiams nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų ir
 pareigūnams – nuo keturiasdešimt trijų iki dviejų šimtų septyniolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5704,12 +5677,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 74
 straipsnis. Skruzdėlynų naikinimas arba žalojimas
@@ -5719,12 +5692,12 @@ užtraukia baudą
 piliečiams nuo keturiolikos iki dvidešimt aštuonių eurų ir pareigūnams –
 nuo keturiasdešimt trijų iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5742,16 +5715,16 @@ piliečiams nuo aštuoniasdešimt šešių iki dviejų šimtų dviejų eurų ir
 pareigūnams – nuo dviejų šimtų dviejų iki keturių šimtų trisdešimt keturių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5828,21 +5801,21 @@ piliečiams nuo vieno šimto keturiasdešimt keturių iki penkių šimtų
 septyniasdešimt devynių eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt
 devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5865,14 +5838,14 @@ piliečiams nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio
 Straipsnio pakeitimai: 
 Nr. XI-3195, 1989.09.11, Žin.,
 1989, Nr. 27-329 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -5881,8 +5854,8 @@ Nr. 73-2759 (2006-06-30), šis
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5907,17 +5880,17 @@ piliečiams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų ir pareigūnams – nuo penkių šimtų septyniasdešimt
 devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -5977,18 +5950,18 @@ aštuoniasdešimt šešių iki dviejų šimtų trisdešimt vieno euro.
 Straipsnio pakeitimai: 
 Nr. XI-3195, 1989.09.11, Žin.,
 1989, Nr. 27-329 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6014,8 +5987,8 @@ Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
 Straipsnio pakeitimai: 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6048,17 +6021,15 @@ piliečiams nuo dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstanči
 septyniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt
 šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6071,12 +6042,12 @@ kontroliuoti naudojimo taisyklių pažeidimas, taip pat jų nenaudojimas –
 užtraukia baudą
 nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno euro.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6096,12 +6067,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -6125,14 +6096,14 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -6152,8 +6123,8 @@ viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai, nevykdymas �
 užtraukia baudą
 pareigūnams nuo dvidešimt aštuonių iki vieno šimto penkiolikos eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6166,14 +6137,14 @@ užtraukia baudą
 piliečiams nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų ir
 pareigūnams – nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000, Nr.
-22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6200,13 +6171,13 @@ savo žemėje žolės, ražienų ar nesugrėbtų (nesurinktų) šiaudų gaisrą,
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto septyniasdešimt trijų eurų.
 Kodeksas papildytas straipsniu: 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -6224,8 +6195,8 @@ priešgaisrinėms tarnyboms apie degančius durpynus –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
@@ -6250,12 +6221,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6531,8 +6502,8 @@ juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu susijusia ve
 vadovams ar jų įgaliotiems asmenims nuo dviejų šimtų aštuoniasdešimt devynių
 iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
@@ -6543,11 +6514,9 @@ Nr. 73-2759 (2006-06-30), šis
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1294, 2011-03-24, Žin., 2011,
-Nr. 40-1918 (2011-04-05),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1294,
+2011-03-24, Žin., 2011, Nr. 40-1918 (2011-04-05), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6847,22 +6816,22 @@ atsakomybės neužtraukia Medžioklės Lietuvos Respublikos teritorijoje taisykl
 nustatyta tvarka įforminti gyvūno, kurį sumedžioti medžiotojas neturi teisės,
 sumedžiojimo atvejai.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-382, 2005-11-10, Žin., 2005,
 Nr. 137-4911 (2005-11-19)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6876,14 +6845,14 @@ užtraukia baudą
 pareigūnams nuo vieno šimto keturiasdešimt keturių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6926,34 +6895,34 @@ užtraukia baudą
 nuo dviejų šimtų trisdešimt vieno iki penkių šimtų septyniasdešimt devynių eurų
 su pažeidimo padarymo įrankių ir priemonių konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
-Nr. IX-463,
-2001-07-12, Žin., 2001, Nr. 66-2409 (2001-08-01)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. IX-463, 2001-07-12, Žin., 2001, Nr. 66-2409
+(2001-08-01)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr.
-XI-2057, 2012-06-12, Žin., 2012,
-Nr. 72-3707 (2012-06-27)
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+XI-2057,
+2012-06-12, Žin., 2012, Nr. 72-3707 (2012-06-27)
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -6974,13 +6943,13 @@ reglamentuojančių žuvivaisą vandens telkiniuose, nuostatų pažeidimas –
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto septyniasdešimt trijų eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7006,11 +6975,11 @@ perdirbimą neteikimas –
 užtraukia baudą
 nuo keturiolikos iki penkių šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -7040,18 +7009,18 @@ priemonių konfiskavimu ar be konfiskavimo arba teisės užsiimti žvejyba atėm
 iki šešių mėnesių su pažeidimo padarymo įrankių ir priemonių konfiskavimu ar be
 konfiskavimo.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7063,13 +7032,13 @@ užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų su
 pažeidimo padarymo įrankių konfiskavimu ar be konfiskavimo.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -7088,16 +7057,16 @@ užtraukia
 Pastaba. Šio
 straipsnio reikalavimai netaikomi vidaus vandenų žvejybos produktams.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7110,16 +7079,16 @@ užtraukia
 įspėjimą arba baudą nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7162,12 +7131,12 @@ Nr. 47-1553 (2005-04-12)
 Straipsnio pakeitimai:
 Nr. X-1437, 2008-01-29, Žin., 2008,
 Nr. 18-630 (2008-02-12)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai,
-nurodyti šio įstatymo priede
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7307,9 +7276,9 @@ užtraukia
 žvejybos laivų kapitonams teisės eiti žvejybos laivo kapitono pareigas atėmimą
 nuo dviejų mėnesių iki vienų metų.
 Kodeksas papildytas straipsniu:
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -7334,9 +7303,9 @@ aštuoniasdešimt devynių eurų su teisės užsiimti žvejyba atėmimu iki še�
 mėnesių ar be šios teisės atėmimo.
 Kodeksas
 papildytas straipsniu:
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -7378,8 +7347,8 @@ užtraukia baudą
 nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno euro.
 Kodeksas
 papildytas straipsniu:
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -7436,21 +7405,21 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-2287, 1988.04.28, Žin.,
 1988, Nr. 14-111 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-382, 2005-11-10, Žin., 2005,
 Nr. 137-4911 (2005-11-19)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7466,12 +7435,12 @@ keturiasdešimt trijų iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7545,11 +7514,11 @@ X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7643,19 +7612,19 @@ trijų šimtų eurų su gyvūno (gyvūnų) konfiskavimu arba be konfiskavimo.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
  
 91
 straipsnis. Nekilnojamojo kultūros paveldo apsaugos įstatymo ar Kilnojamųjų
@@ -7669,18 +7638,18 @@ aštuonių šimtų šešiasdešimt aštuonių eurų ir baudą pareigūnams – n
 šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-435, 1990.07.30, Žin., 1990,
-Nr. 23-565 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-743, 94.12.28, Žin., 1995,
-Nr. 3-39 (95.01.06) 
-Nr. I-1180, 96.01.23, Žin., 1996,
-Nr. 14-353 (96.02.14)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-435,
+1990.07.30, Žin., 1990, Nr. 23-565 
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-743,
+94.12.28, Žin., 1995, Nr. 3-39 (95.01.06) 
+Nr. I-1180,
+96.01.23, Žin., 1996, Nr. 14-353 (96.02.14)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -7709,12 +7678,12 @@ pirmojoje ir antrojoje dalyse numatytus pažeidimus, –
 užtraukia baudą nuo
 vieno šimto septyniasdešimt trijų iki dviejų šimtų trisdešimt vieno euro.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7736,15 +7705,15 @@ užtraukia baudą
 nuo vieno šimto septyniasdešimt trijų iki keturių šimtų trisdešimt keturių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7765,10 +7734,10 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7787,10 +7756,10 @@ pirmojoje dalyje numatytą pažeidimą, –
 užtraukia baudą
 nuo dviejų šimtų dviejų iki dviejų šimtų šešiasdešimties eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7810,10 +7779,10 @@ pirmojoje dalyje numatytą pažeidimą, –
 užtraukia baudą
 nuo dviejų šimtų dviejų iki dviejų šimtų šešiasdešimties eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7833,10 +7802,10 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki trijų šimtų keturiasdešimt
 septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7856,10 +7825,10 @@ pirmojoje dalyje numatytą pažeidimą, –
 užtraukia baudą nuo
 vieno šimto septyniasdešimt trijų iki dviejų šimtų trisdešimt vieno euro.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7880,10 +7849,10 @@ piliečiams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt
 devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -7902,15 +7871,15 @@ ELEKTROS IR
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 93
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 94
 straipsnis. Branduolinės saugos ir branduolinės energetikos srities veiklos su
@@ -7932,14 +7901,14 @@ fiziniams asmenims nuo vieno šimto keturiasdešimt keturių iki penkių
 šimtų septyniasdešimt devynių eurų ir pareigūnams – nuo penkių šimtų
 septyniasdešimt devynių iki dviejų tūkstančių trijų šimtų šešiolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-620, 98.02.03, Žin., 1998,
-Nr. 16-377 (98.02.13)
-Nr. XI-1493, 2011-06-21, Žin., 2011,
-Nr. 91-4313 (2011-07-19)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-620,
+98.02.03, Žin., 1998, Nr. 16-377 (98.02.13)
+Nr. XI-1493,
+2011-06-21, Žin., 2011, Nr. 91-4313 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7972,10 +7941,10 @@ užtraukia baudą
 pareigūnams nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki
 dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-620, 98.02.03, Žin., 1998,
-Nr. 16-377 (98.02.13)
-Nr. XI-1493, 2011-06-21, Žin., 2011,
-Nr. 91-4313 (2011-07-19)
+Nr. VIII-620,
+98.02.03, Žin., 1998, Nr. 16-377 (98.02.13)
+Nr. XI-1493,
+2011-06-21, Žin., 2011, Nr. 91-4313 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -7983,35 +7952,35 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios 
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 96
 straipsnis. Neteko galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
  
 97
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
  
 98
 straipsnis. Dujų naudojimo normų pažeidimas
@@ -8022,12 +7991,12 @@ užtraukia
 įspėjimą arba baudą pareigūnams nuo penkiasdešimt septynių iki vieno šimto
 keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8046,12 +8015,12 @@ Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8069,15 +8038,15 @@ eurų.
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8092,10 +8061,10 @@ užtraukia
 keturiasdešimt keturių eurų ir įspėjimą arba baudą pareigūnams – nuo dviejų
 šimtų dviejų iki keturių šimtų trisdešimt keturių eurų.
 Straipsnio pakeitimai:
-Nr. I-1281, 96.04.04, Žin., 1996,
-Nr. 37-930 (96.04.26)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8127,13 +8096,13 @@ keturiasdešimt keturių eurų ir įspėjimą arba baudą pareigūnams –
 nuo vieno šimto keturiasdešimt keturių iki keturių šimtų trisdešimt keturių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-1281, 96.04.04, Žin., 1996, Nr.
-37-930 (96.04.26)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8150,17 +8119,16 @@ užtraukia baudą
 pareigūnams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1281, 96.04.04, Žin., 1996,
-Nr. 37-930 (96.04.26)
-Nr. VIII-698, 98.04.15, Žin., 1998,
-Nr. 41-1094 (98.05.01)
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26)
+Nr. VIII-698,
+98.04.15, Žin., 1998, Nr. 41-1094 (98.05.01)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1551, 2011-06-28, Žin., 2011,
-Nr. 91-4326 (2011-07-19), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1551,
+2011-06-28, Žin., 2011, Nr. 91-4326 (2011-07-19), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8173,8 +8141,8 @@ užtraukia
 baudą pareigūnams – nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt
 keturių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-698, 98.04.15, Žin., 1998,
-Nr. 41-1094 (98.05.01)
+Nr. VIII-698,
+98.04.15, Žin., 1998, Nr. 41-1094 (98.05.01)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8203,11 +8171,11 @@ užtraukia baudą
 pareigūnams nuo vieno šimto keturiasdešimt keturių iki keturių šimtų trisdešimt
 keturių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-990, 98.12.21, Žin., 1999,
-Nr. 3-58 (99.01.08)
+Nr. VIII-990,
+98.12.21, Žin., 1999, Nr. 3-58 (99.01.08)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8227,8 +8195,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai:
-Nr. VIII-990, 98.12.21, Žin., 1999,
-Nr. 3-58 (99.01.08)
+Nr. VIII-990,
+98.12.21, Žin., 1999, Nr. 3-58 (99.01.08)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8271,8 +8239,8 @@ X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1133, 2010-11-16, Žin., 2010,
-Nr. 139-7114 (2010-11-27)
+Nr. XI-1133,
+2010-11-16, Žin., 2010, Nr. 139-7114 (2010-11-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8373,11 +8341,9 @@ užtraukia baudą
 nuo keturių šimtų trisdešimt keturių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8399,12 +8365,12 @@ nesutvarkymas taip, kad ji būtų tinkama naudoti pagal paskirtį, –
 užtraukia baudą
 nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-454, 1994.05.10, Žin., 1994,
-Nr. 37-668 (94.05.18)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-454,
+1994.05.10, Žin., 1994, Nr. 37-668 (94.05.18)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8420,23 +8386,23 @@ užtraukia baudą asmenims,
 atliekantiems geodezijos ir kartografijos darbus ar kadastrinius matavimus, nuo
 penkiasdešimties iki trijų šimtų eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1874, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10779
+Nr. XII-1874,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10779
  
 102
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 103
 straipsnis. Žemės ūkio įmonių ir ūkininkų ūkių pasėlių nuganymas, laukuose
@@ -8458,12 +8424,12 @@ nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
 Nr. I-2143, 1988.01.27, Žin.,
 1988, Nr. 4-29 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8480,12 +8446,12 @@ pasėlius ar želdinius automobiliu, traktoriumi, kombainu arba kita mašina –
 užtraukia baudą
 nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8503,12 +8469,12 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8529,12 +8495,12 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8542,10 +8508,10 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 107
 straipsnis. Žemės savininkų arba kitų žemės naudotojų nesiėmimas kovos su
@@ -8563,10 +8529,10 @@ nuo dvidešimt aštuonių iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-870, 1986.05.28, Žin.,
 1986, Nr. 16-158 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8582,10 +8548,10 @@ iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1788, 1987.07.29, Žin.,
 1987, Nr. 21-261 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8598,15 +8564,15 @@ dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1788, 1987.07.29, Žin.,
 1987, Nr. 21-261 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-XII-349, 2013-05-30, Žin., 2013,
-Nr. 62-3061 (2013-06-12)
+XII-349,
+2013-05-30, Žin., 2013, Nr. 62-3061 (2013-06-12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8648,15 +8614,13 @@ užtraukia baudą nuo
 septynių šimtų dvidešimt keturių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-2022, 2012-05-22, Žin., 2012,
-Nr. 63-3163 (2012-06-05),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-2022,
+2012-05-22, Žin., 2012, Nr. 63-3163 (2012-06-05), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -8666,10 +8630,10 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 1075
 straipsnis. Pluoštinių kanapių auginimo, importo, tiekimo rinkai,
@@ -8681,8 +8645,8 @@ užtraukia
 įspėjimą arba baudą iki aštuoniasdešimt šešių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-XII-349, 2013-05-30, Žin., 2013,
-Nr. 62-3061 (2013-06-12)
+XII-349,
+2013-05-30, Žin., 2013, Nr. 62-3061 (2013-06-12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8697,10 +8661,10 @@ užtraukia baudą
 nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų arba teisės vairuoti
 šias mašinas atėmimą iki vieno mėnesio.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8725,26 +8689,26 @@ piliečiams nuo penkiasdešimt aštuonių iki penkių šimtų septyniasdešimt d
 eurų ir pareigūnams – nuo šimto keturiasdešimt penkių iki dviejų tūkstančių
 trijų šimtų septyniolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-2112, 1991.12.17, Žin., 1991,
-Nr. 2-17 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2112,
+1991.12.17, Žin., 1991, Nr. 2-17 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1847, 2015-06-23, paskelbta
-TAR 2015-06-30, i. k. 2015-10373 
+XII-1847,
+2015-06-23, paskelbta TAR 2015-06-30, i. k. 2015-10373 
  
 1091
 straipsnis. Gyvulių veislininkystės norminių aktų pažeidimas
@@ -8766,15 +8730,13 @@ Nr. XI-870, 1986.05.28, Žin.,
 1986, Nr. 16-158 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8885,30 +8847,30 @@ užtraukia baudą
 nuo keturių šimtų penkių iki šešių šimtų devyniasdešimt penkių eurų su gyvūnų
 konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-640, 98.02.24, Žin., 1998,
-Nr. 25-636 (98.03.13)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-588, 2001-11-08, Žin., 2001,
-Nr. 99-3522 (2001-11-28)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-640,
+98.02.24, Žin., 1998, Nr. 25-636 (98.03.13)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-588,
+2001-11-08, Žin., 2001, Nr. 99-3522 (2001-11-28)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr.
-XI-2272, 2012-10-03, Žin., 2012,
-Nr. 122-6127 (2012-10-20)
+XI-2272,
+2012-10-03, Žin., 2012, Nr. 122-6127 (2012-10-20)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1847, 2015-06-23, paskelbta
-TAR 2015-06-30, i. k. 2015-10373 
+XII-1847,
+2015-06-23, paskelbta TAR 2015-06-30, i. k. 2015-10373 
  
 1101
 straipsnis. Žemės ūkio produktų gamybos, perdirbimo ar tiekimo rinkai,
@@ -8937,11 +8899,9 @@ Straipsnio pakeitimai:
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -8981,26 +8941,24 @@ nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 112
 straipsnis. Naudojimosi geležinkelių transporto priemonėmis taisyklių
@@ -9024,21 +8982,19 @@ nuo keturiolikos iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9056,19 +9012,17 @@ reikalavimų pažeidimas, sukėlęs geležinkelių transporto eismo įvykį, –
 užtraukia baudą nuo aštuoniasdešimt
 šešių iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9085,10 +9039,10 @@ transporto katastrofų, eismo įvykių ar riktų tyrimo tvarkos pažeidimas –
 užtraukia baudą
 pareigūnams nuo dvidešimt aštuonių iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -9096,8 +9050,8 @@ priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 1123
 straipsnis. Mokymo pajėgumų teikimo taisyklių pažeidimas 
@@ -9120,8 +9074,8 @@ pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 1124
 straipsnis. Geležinkelių posistemių naudojimas
@@ -9141,8 +9095,8 @@ pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 1125 straipsnis. Geležinkelių riedmenų valdymas, kai
 tai daro (yra atsakingi už valdymą) neblaivūs arba apsvaigę nuo narkotinių,
@@ -9208,16 +9162,14 @@ Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1794, 2015-06-16, paskelbta TAR
-2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 1127
 straipsnis. Neteko galios nuo 2012-01-01
@@ -9228,11 +9180,9 @@ Nr. 81-3181 (2008-07-17), šiuo
 priede
 Straipsnio
 pakeitimai:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1128
 straipsnis. Geležinkelių infrastruktūros reikalavimų nesilaikymas
@@ -9247,11 +9197,9 @@ Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 Straipsnio pakeitimai:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9268,18 +9216,16 @@ užtraukia baudą
 traukinio mašinisto sertifikatą išdavusiam asmeniui nuo dviejų šimtų
 aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 11210
 straipsnis. Geležinkelių transporto keleivių teisių pažeidimas traukinių
@@ -9296,15 +9242,13 @@ baudą
 įmonės vadovui ar jo įgaliotam asmeniui nuo dviejų šimtų aštuoniasdešimt
 devynių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9322,15 +9266,13 @@ užtraukia baudą
 įmonės vadovui ar jo įgaliotam asmeniui nuo dviejų šimtų aštuoniasdešimt
 devynių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9363,15 +9305,15 @@ transporto priemonių ir mašinų judėjimo aerodrome ir darbų saugos taisykles
 užtraukia baudą
 nuo keturiolikos iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9396,12 +9338,12 @@ atsakomybė, sąrašus nustato oro transporte galiojančios vežimo taisyklės.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9412,12 +9354,12 @@ esančių asmenų nevykdymas laivo vado teisėtų nurodymų –
 užtraukia
 įspėjimą arba baudą nuo keturiasdešimt trijų iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9484,9 +9426,9 @@ užtraukia baudą
 juridinio asmens vadovui nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių
 šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -9542,18 +9484,18 @@ fiziniams asmenims nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų arba juridinio asmens vadovui – nuo dviejų šimtų
 aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9574,11 +9516,11 @@ teisėtų nurodymų nevykdymas –
 užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų. 
-Orlaivio skrydis
-be specialaus leidimo draudžiamose zonose – 
-užtraukia baudą
-nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
-eurų. 
+Orlaivio skrydis be specialaus leidimo draudžiamose, ribojamose
+zonose ar pasienio zonoje, kai specialus leidimas reikalingas, – 
+užtraukia
+baudą nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt
+devynių eurų.
 Orlaivio skrydis
 valdomoje oro erdvėje be atitinkamo leidimo, jeigu toks leidimas
 reikalingas, – 
@@ -9591,15 +9533,17 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
+Nr. XII-2748,
+2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26870
  
 1162
 straipsnis. Aerodromo naudojimo ir priežiūros taisyklių pažeidimas 
@@ -9614,13 +9558,13 @@ aerodromo teritorijoje nenustatytose vietose –
 užtraukia baudą
 nuo penkių iki keturiolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9634,8 +9578,8 @@ vieno šimto keturiasdešimt keturių iki penkių šimtų septyniasdešimt devyn
 eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -9653,12 +9597,47 @@ pareigūnams – nuo aštuoniasdešimt šešių iki vieno šimto septyniasdešim
 eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
+ 
+1165 straipsnis. Informacijos
+apie civilinės aviacijos įvykius nuslėpimas
+Pagal
+2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamento (ES) 
+Nr. 376/2014 dėl pranešimo apie civilinės
+aviacijos įvykius, jų analizės ir tolesnės veiklos, kuriuo iš dalies keičiamas
+Europos Parlamento ir Tarybos reglamentas (ES) Nr.
+996/2010 ir panaikinama Europos Parlamento ir Tarybos direktyva 2003/42/EB
+ir Komisijos reglamentai (EB) Nr. 1321/2007 ir (EB) Nr. 1330/2007, reikalavimus
+nepranešimas
+kompetentingai institucijai apie įvykusią civilinės aviacijos avariją,
+pavojingą incidentą ar kitą aviacijos įvykį, apie kurį privaloma pranešti, –
+užtraukia baudą
+nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+Kodeksas papildytas straipsniu:
+Nr. XII-2748,
+2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26870
+ 
+1166
+straipsnis. Bendrųjų oro eismo srautų valdymo taisyklių pažeidimas
+Bendrųjų oro eismo
+srautų valdymo taisyklių, nustatytų 2010 m. kovo 25 d. Komisijos reglamente
+(ES) Nr. 255/2010, kuriuo nustatomos bendrosios oro eismo srautų valdymo
+taisyklės,  pažeidimas –
+užtraukia baudą
+orlaivių naudotojams – fiziniams asmenims arba juridinių asmenų vadovams nuo
+vieno šimto keturiasdešimt iki šešių šimtų eurų ir oro navigacijos paslaugų
+teikėjų vadovams, oro uostus valdančių įmonių vadovams, koordinuojamų oro uostų
+laiko tarpsnių koordinatoriams – fiziniams asmenims ir koordinatorių –
+juridinių asmenų vadovams – nuo trijų šimtų iki
+aštuonių šimtų penkiasdešimt eurų.
+Kodeksas papildytas straipsniu:
+Nr. XII-2748,
+2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26870
  
 117
 straipsnis. Uosto laivybos ir Uosto naudojimo taisyklių pažeidimas
@@ -9669,17 +9648,17 @@ piliečiams nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturi
 eurų ir pareigūnams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Laivo kapitono
-nesinaudojimas locmano paslaugomis, kai tomis paslaugomis naudotis yra privaloma,
-–
+nesinaudojimas locmano paslaugomis, kai tomis paslaugomis naudotis yra
+privaloma, –
 užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Povandeninių
 darbų vykdymas uosto akvatorijoje be uosto kapitono leidimo, signalizavimo šių
 darbų metu taisyklių nesilaikymas –
-užtraukia baudą pareigūnams
-nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
-eurų.
+užtraukia baudą
+pareigūnams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
+aštuoniasdešimt devynių eurų.
 Navigacinių
 ženklų ar įrenginių, signalizacijos ir ryšių įrenginių gadinimas arba jų
 perkėlimas be reikiamo leidimo –
@@ -9696,14 +9675,14 @@ septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1341, 96.05.16, Žin., 1996,
-Nr. 57-1334 (96.06.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1341,
+96.05.16, Žin., 1996, Nr. 57-1334 (96.06.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9719,10 +9698,10 @@ piliečiams nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturi
 eurų ir pareigūnams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1341, 96.05.16, Žin., 1996,
-Nr. 57-1334 (96.06.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1341,
+96.05.16, Žin., 1996, Nr. 57-1334 (96.06.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9894,7 +9873,8 @@ TAR 2014-10-28, i. k. 2014-15013
  
 1175
 straipsnis. Privalomos išankstinės informacijos apie galimą laivo
-išplėstinį inspektavimą uoste, jūriniame terminale ar inkaravietėje nepateikimas
+išplėstinį inspektavimą uoste, jūriniame terminale ar inkaravietėje
+nepateikimas
 Privalomos
 išankstinės informacijos apie galimą laivo išplėstinį inspektavimą Lietuvos
 Respublikos jūrų uoste, jūriniame terminale ar inkaravietėje nepateikimas
@@ -9912,11 +9892,9 @@ Lietuvos Respublikos jūrų uostų ar jūrinių terminalų administracijų vadov
 jų įgaliotiems asmenims nuo penkiasdešimt septynių iki vieno šimto
 septyniasdešimt trijų eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -9931,12 +9909,12 @@ užtraukia
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -9952,9 +9930,9 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki keturių šimtų trisdešimt keturių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-227, 2013-04-11, Žin., 2013,
-Nr. 42-2043 (2013-04-24), šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
+Nr. XII-227,
+2013-04-11, Žin., 2013, Nr. 42-2043 (2013-04-24), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -10019,12 +9997,12 @@ keturiolikos iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -10060,14 +10038,15 @@ septyniasdešimt devynių eurų.
 antrojoje dalyje numatyti veiksmai, padaryti neblaivaus, taip pat apsvaigusio
 nuo narkotikų, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, –
 užtraukia baudą
-laivavedžiams nuo penkių šimtų septyniasdešimt devynių iki aštuonių šimtų šešiasdešimt
-aštuonių eurų arba teisės vairuoti vidaus vandenų transporto priemones atėmimą
-nuo dvejų iki trejų metų, o asmenims, neturintiems teisės vairuoti vidaus
-vandenų transporto priemones, – baudą nuo aštuonių šimtų šešiasdešimt aštuonių
-iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
+laivavedžiams nuo penkių šimtų septyniasdešimt devynių iki aštuonių šimtų
+šešiasdešimt aštuonių eurų arba teisės vairuoti vidaus vandenų transporto
+priemones atėmimą nuo dvejų iki trejų metų, o asmenims, neturintiems teisės
+vairuoti vidaus vandenų transporto priemones, – baudą nuo aštuonių šimtų
+šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų keturiasdešimt
+aštuonių eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -10100,21 +10079,21 @@ tūkstančio vieno šimto penkiasdešimt aštuonių iki vieno tūkstančio ketur
 šimtų keturiasdešimt aštuonių eurų.
 Pastaba.
 Uniformuoto Lietuvos saugios laivybos administracijos pareigūno reikalavimas
-sustabdyti vidaus vandenų transporto priemonę išreiškiamas duodant signalą
-balta vėliavėle arba per garsiakalbį. Neturėdamas tarnybinio ženklo, pareigūnas
-bet kokiu atveju parodo vidaus vandenų transporto priemonės vairuotojui tarnybinį
+sustabdyti vidaus vandenų transporto priemonę išreiškiamas duodant signalą balta
+vėliavėle arba per garsiakalbį. Neturėdamas tarnybinio ženklo, pareigūnas bet
+kokiu atveju parodo vidaus vandenų transporto priemonės vairuotojui tarnybinį
 pažymėjimą.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-892, 2010-06-10, Žin., 2010,
-Nr. 72-3614 (2010-06-22)
+Nr. XI-892,
+2010-06-10, Žin., 2010, Nr. 72-3614 (2010-06-22)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -10146,12 +10125,12 @@ užtraukia
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -10176,12 +10155,12 @@ dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -10225,23 +10204,23 @@ stovėjimo saugumą, pažeidimas arba nesiėmimas priemonių laiku uždrausti ar
 apriboti šių uostų, prieplaukų, stovėjimo vietų, įrengimų ir mechanizmų
 eksploatavimą, kai jų naudojimas gresia žmonių ir vidaus vandenų transporto
 priemonių saugumui, taip pat vidaus vandenų uoste, prieplaukoje nustatyto
-išleidimo režimo neužtikrinimas arba leidimas vidaus vandenų uoste,
-prieplaukoje stovėti nustatyta tvarka neįregistruotoms vidaus vandenų
-transporto priemonėms, arba neįregistruotų nustatyta tvarka vidaus vandenų
-uostų, vidaus vandenų prieplaukų, išskyrus nekomercinių mažųjų, pramoginių ir
-sportinių laivų prieplaukas, eksploatavimas ar jų eksploatavimas neatlikus
-esamos būklės patikrinimo ar be techninės apžiūros –
+išleidimo režimo neužtikrinimas arba leidimas vidaus vandenų uoste, prieplaukoje
+stovėti nustatyta tvarka neįregistruotoms vidaus vandenų transporto priemonėms,
+arba neįregistruotų nustatyta tvarka vidaus vandenų uostų, vidaus vandenų
+prieplaukų, išskyrus nekomercinių mažųjų, pramoginių ir sportinių laivų
+prieplaukas, eksploatavimas ar jų eksploatavimas neatlikus esamos būklės
+patikrinimo ar be techninės apžiūros –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -10260,10 +10239,10 @@ užtraukia baudą
 piliečiams nuo septynių iki keturiolikos eurų ir pareigūnams – nuo keturiolikos
 iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -10292,8 +10271,9 @@ vairuotojams nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų arba t
 vairuoti transporto priemones atėmimą nuo vieno iki trijų mėnesių.
 Transporto
 priemonių vairavimas su suklastotais valstybinio numerio ženklais (ženklu),
-uždengtais ar kitaip užmaskuotais valstybinio numerio ženklais arba su pritvirtintais
-ne tai transporto priemonei išduotais valstybinio numerio ženklais (ženklu) – 
+uždengtais ar kitaip užmaskuotais valstybinio numerio ženklais arba su
+pritvirtintais ne tai transporto priemonei išduotais valstybinio numerio
+ženklais (ženklu) – 
 užtraukia baudą
 vairuotojams nuo
 dviejų šimtų trisdešimt vieno iki trijų šimtų keturiasdešimt septynių eurų arba
@@ -10322,24 +10302,24 @@ motociklus ir kitas motorines transporto priemones.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
-Nr. IX-825, 2002-03-28, Žin., 2002,
-Nr. 33-1257 (2002-03-30)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
+Nr. IX-825,
+2002-03-28, Žin., 2002, Nr. 33-1257 (2002-03-30)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -10392,12 +10372,12 @@ keturių šimtų trisdešimt keturių iki septynių šimtų dvidešimt keturių 
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29),
@@ -10482,23 +10462,22 @@ vairuotojams įspėjimą arba baudą nuo penkių iki vienuolikos eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -10520,10 +10499,10 @@ vairavimas, tai yra Kelių eismo taisyklių pažeidimas dėl chuliganiškų pask
 keliantis pavojų eismo saugumui arba savo ar kitų žmonių saugumui, – 
 užtraukia baudą
 vairuotojams nuo
-dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių eurų
-su teisės vairuoti transporto priemones atėmimu nuo vienerių iki dvejų metų, o
-asmenims, neturintiems teisės vairuoti transporto priemones, – baudą nuo
-septynių šimtų dvidešimt keturių iki vieno tūkstančio trylikos eurų.
+dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
+eurų su teisės vairuoti transporto priemones atėmimu nuo vienerių iki dvejų
+metų, o asmenims, neturintiems teisės vairuoti transporto priemones, – baudą
+nuo septynių šimtų dvidešimt keturių iki vieno tūkstančio trylikos eurų.
 Šio straipsnio
 pirmojoje dalyje numatyti veiksmai, padaryti neblaivaus arba apsvaigusio nuo
 narkotikų arba vaistų ar kitų svaigiųjų medžiagų asmens, –
@@ -10540,24 +10519,24 @@ antrojoje dalyje numatyti veiksmai, padaryti neblaivaus arba apsvaigusio nuo
 narkotikų arba vaistų ar kitų svaigiųjų medžiagų asmens, –
 užtraukia baudą
 vairuotojams nuo
-aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio vieno šimto
-penkiasdešimt aštuonių eurų su teisės vairuoti transporto priemones atėmimu nuo
-trejų iki penkerių metų arba administracinį areštą nuo dešimties iki
-dvidešimties parų su teisės vairuoti transporto priemones atėmimu nuo trejų iki
-penkerių metų, o asmenims, neturintiems teisės vairuoti transporto priemones, –
-baudą nuo vieno tūkstančio vieno šimto penkiasdešimt aštuonių iki vieno
-tūkstančio keturių šimtų keturiasdešimt aštuonių eurų su transporto priemonės
-konfiskavimu arba administracinį areštą nuo dvidešimties iki trisdešimties parų
-su transporto priemonės konfiskavimu.
+aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio vieno šimto penkiasdešimt
+aštuonių eurų su teisės vairuoti transporto priemones atėmimu nuo trejų iki
+penkerių metų arba administracinį areštą nuo dešimties iki dvidešimties parų su
+teisės vairuoti transporto priemones atėmimu nuo trejų iki penkerių metų, o
+asmenims, neturintiems teisės vairuoti transporto priemones, – baudą nuo vieno
+tūkstančio vieno šimto penkiasdešimt aštuonių iki vieno tūkstančio keturių
+šimtų keturiasdešimt aštuonių eurų su transporto priemonės konfiskavimu arba
+administracinį areštą nuo dvidešimties iki trisdešimties parų su transporto
+priemonės konfiskavimu.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -10569,10 +10548,10 @@ galios nuo 2008 m. sausio 1 d.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
  
@@ -10580,15 +10559,15 @@ Nr. 138-5641 (2007-12-29)
 straipsnis. Neteko
 galios nuo 2011 m. birželio 1 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1245
 straipsnis. Vietinės rinkliavos už naudojimąsi savivaldybių tarybų nustatytomis
@@ -10601,9 +10580,9 @@ tvarkos pažeidimas −
 užtraukia baudą
 vairuotojams nuo dvidešimt trijų iki keturiasdešimties eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -10622,9 +10601,9 @@ zonas nuostatų pažeidimas −
 užtraukia baudą
 vairuotojams nuo dvidešimt trijų iki keturiasdešimties eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -10651,22 +10630,20 @@ Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -10744,15 +10721,15 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -10764,11 +10741,11 @@ sutrikdymą arba nulėmęs turto sugadinimą
 Kelių eismo
 taisyklių pažeidimas, sukėlęs kitų asmenų nežymų sveikatos sutrikdymą, –
 užtraukia baudą
-vairuotojams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
-aštuoniasdešimt devynių eurų arba teisės vairuoti transporto priemones atėmimą
-nuo vienerių iki dvejų metų, o asmenims, neturintiems teisės vairuoti transporto
-priemones, – baudą nuo penkių šimtų septyniasdešimt devynių iki aštuonių šimtų
-šešiasdešimt aštuonių eurų.
+vairuotojams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt
+devynių eurų arba teisės vairuoti transporto priemones atėmimą nuo vienerių iki
+dvejų metų, o asmenims, neturintiems teisės vairuoti transporto priemones, –
+baudą nuo penkių šimtų septyniasdešimt devynių iki aštuonių šimtų šešiasdešimt
+aštuonių eurų.
 Kelių eismo
 taisyklių pažeidimas, nulėmęs kitiems asmenims priklausančių transporto
 priemonių, krovinių, kelių, kelio ir kitų įrenginių arba kitokio turto
@@ -10786,28 +10763,28 @@ užtraukia baudą
 vairuotojams nuo vieno tūkstančio vieno šimto penkiasdešimt aštuonių iki vieno
 tūkstančio keturių šimtų keturiasdešimt aštuonių eurų su teisės vairuoti
 transporto priemones atėmimu nuo trejų iki penkerių metų arba administracinį
-areštą nuo penkiolikos iki trisdešimties parų su teisės vairuoti transporto
-priemones atėmimu nuo trejų iki penkerių metų, o asmenims, neturintiems teisės
-vairuoti transporto priemones, – baudą nuo vieno tūkstančio keturių šimtų keturiasdešimt
+areštą nuo penkiolikos iki trisdešimties parų su teisės vairuoti transporto priemones
+atėmimu nuo trejų iki penkerių metų, o asmenims, neturintiems teisės vairuoti
+transporto priemones, – baudą nuo vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių iki vieno tūkstančio penkių šimtų devyniasdešimt dviejų eurų su
 transporto priemonės konfiskavimu ar be jo arba administracinį areštą
 nuo dešimties iki dvidešimties parų su transporto priemonės konfiskavimu.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-653, 94.11.10, Žin., 1994,
-Nr. 89-1724 (94.11.18)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-653,
+94.11.10, Žin., 1994, Nr. 89-1724 (94.11.18)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -10833,12 +10810,12 @@ nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -10853,8 +10830,8 @@ priemonių vairavimas neblaivių ar apsvaigusių nuo narkotinių, psichotropini�
 kitų psichiką veikiančių medžiagų vairuotojų, neturinčių teisės vairuoti ar
 neturinčių teisės vairuoti tos rūšies transporto priemones, arba neblaivumo ar
 apsvaigimo patikrinimo vengimas, taip pat alkoholio, narkotinių, psichotropinių
-ar kitų psichiką veikiančių medžiagų vartojimas po eismo įvykio iki jo aplinkybių
-nustatymo – 
+ar kitų psichiką veikiančių medžiagų vartojimas po eismo įvykio iki jo
+aplinkybių nustatymo – 
 užtraukia baudą
 nuo vieno tūkstančio vieno šimto penkiasdešimt aštuonių iki vieno tūkstančio
 keturių šimtų keturiasdešimt aštuonių eurų su transporto priemonės konfiskavimu
@@ -10865,21 +10842,20 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -10924,35 +10900,36 @@ policijos, Valstybės sienos apsaugos tarnybos arba muitinės pareigūno
 reikalavimas sustabdyti transporto priemonę išreiškiamas duodant signalą
 lazdele arba mojant skrituliu su raudonu atšvaitu skersai judėjimo krypties,
 arba per garsiakalbį liepiant sustoti. Uniformuoto policijos, Valstybės sienos
-apsaugos tarnybos arba muitinės pareigūno reikalavimas sustabdyti transporto priemonę
-taip pat gali būti išreiškiamas įjungus specialiomis spalvomis nudažyto ir
-policijos, Valstybės sienos apsaugos tarnybos arba muitinės ženklu pažymėto
-automobilio švieslentę su užrašu STOP POLICIJA arba STOP. Neturintis tarnybinio
-ženklo muitinės pareigūnas bet kokiu atveju parodo transporto priemonės
-vairuotojui tarnybinį pažymėjimą. Tamsiuoju paros metu policijos, Valstybės
-sienos apsaugos tarnybos arba muitinės pareigūnas, stabdydamas transporto
-priemonę, turi vilkėti uniformą su šviesą atspindinčiais elementais (vilkėti
-specialiąsias liemenes, mūvėti rankogalius ar turėti kitus šviesą atspindinčius
-elementus). Patrulyje turi dirbti ne mažiau kaip du policijos, Valstybės sienos
-apsaugos tarnybos arba muitinės pareigūnai, turintys specialiomis spalvomis
-nudažytą ir policijos, Valstybės sienos apsaugos tarnybos skiriamaisiais
-ženklais arba muitinės ženklu pažymėtą automobilį, stabdyti transporto priemonę
-šviečiančia reguliuotojo lazdele arba minėtu šviesą atspindinčiu skrituliu,
-įjungus patrulinio automobilio mėlynos ir (arba) raudonos spalvos švyturėlius.
+apsaugos tarnybos arba muitinės pareigūno reikalavimas sustabdyti transporto
+priemonę taip pat gali būti išreiškiamas įjungus specialiomis spalvomis
+nudažyto ir policijos, Valstybės sienos apsaugos tarnybos arba muitinės ženklu
+pažymėto automobilio švieslentę su užrašu STOP POLICIJA arba STOP. Neturintis
+tarnybinio ženklo muitinės pareigūnas bet kokiu atveju parodo transporto
+priemonės vairuotojui tarnybinį pažymėjimą. Tamsiuoju paros metu policijos,
+Valstybės sienos apsaugos tarnybos arba muitinės pareigūnas, stabdydamas
+transporto priemonę, turi vilkėti uniformą su šviesą atspindinčiais elementais
+(vilkėti specialiąsias liemenes, mūvėti rankogalius ar turėti kitus šviesą
+atspindinčius elementus). Patrulyje turi dirbti ne mažiau kaip du policijos,
+Valstybės sienos apsaugos tarnybos arba muitinės pareigūnai, turintys
+specialiomis spalvomis nudažytą ir policijos, Valstybės sienos apsaugos
+tarnybos skiriamaisiais ženklais arba muitinės ženklu pažymėtą automobilį,
+stabdyti transporto priemonę šviečiančia reguliuotojo lazdele arba minėtu
+šviesą atspindinčiu skrituliu, įjungus patrulinio automobilio mėlynos ir (arba)
+raudonos spalvos švyturėlius.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-82, 2005-01-20, Žin., 2005,
 Nr. 18-576 (2005-02-08)
 Nr. X-1365, 2007-12-13, Žin., 2007,
@@ -10968,10 +10945,10 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 1302
 straipsnis. Pakartotinis transporto priemonių vairavimas neblaivių arba
@@ -10998,32 +10975,32 @@ negali būti skiriamas, – baudą nuo vieno tūkstančio vieno šimto penkiasde
 aštuonių iki vieno tūkstančio penkių šimtų devyniasdešimt dviejų eurų su
 transporto priemonės konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
 131
 straipsnis. Pėsčiųjų ir kitų kelių eismo dalyvių padarytas Kelių eismo
 taisyklių pažeidimas
-Pėsčiųjų važiuojamosios
-kelio dalies perėjimas arba ėjimas ja ten, kur draudžiama, taip pat asmenų,
-vairuojančių dviračius, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi
-keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo
-reikalavimų, taip pat eismo tvarkos automagistralėse nesilaikymas, Kelių eismo
-taisyklėse pėstiesiems, vadeliotojams, dviračių vairuotojams nustatytų elgesio
-tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas –
+Pėsčiųjų
+važiuojamosios kelio dalies perėjimas arba ėjimas ja ten, kur draudžiama, taip
+pat asmenų, vairuojančių dviračius, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie
+naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų,
+ženklinimo reikalavimų, taip pat eismo tvarkos automagistralėse nesilaikymas,
+Kelių eismo taisyklėse pėstiesiems, vadeliotojams, dviračių vairuotojams
+nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų
+nesilaikymas –
 užtraukia baudą
 nuo dvidešimt trijų iki keturiasdešimties eurų.
 Šio straipsnio
@@ -11074,17 +11051,17 @@ eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11102,12 +11079,12 @@ nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11115,15 +11092,15 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2011 m. kovo 1 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 133
 straipsnis. Leidimas vairuoti transporto priemones neblaiviems arba
@@ -11138,10 +11115,10 @@ nuo aštuoniasdešimt šešių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11153,8 +11130,8 @@ priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme
 nustatytų reikalavimų nevykdymas –
 užtraukia baudą
 fiziniam asmeniui nuo aštuoniasdešimt šešių iki dviejų šimtų trisdešimt vieno
-euro ir įmonės, įstaigos, organizacijos ar jos filialo vadovui – nuo aštuoniasdešimt
-šešių iki dviejų šimtų aštuoniasdešimt devynių eurų.
+euro ir įmonės, įstaigos, organizacijos ar jos filialo vadovui – nuo
+aštuoniasdešimt šešių iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Tokia pat veika,
 padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
 dalyje numatytą pažeidimą, –
@@ -11180,13 +11157,13 @@ Nr. 81-3316 (2007-07-21, šis
 įstatymo priede, įgyvendinimą.
 Straipsnio
 pakeitimai:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 134
 straipsnis. Naudojimosi saugos diržais, vaikų ūgiui ir svoriui pritaikytomis
@@ -11206,12 +11183,12 @@ nuo penkiasdešimt septynių iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -11240,10 +11217,10 @@ galios
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 136
 straipsnis. Pavojingų medžiagų ir daiktų vežimo geležinkelių, jūrų, vidaus
@@ -11273,10 +11250,10 @@ transporte galiojančios vežimo taisyklės.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -11292,9 +11269,8 @@ straipsnis. Pavojingųjų krovinių vežimo saugos specialisto paskyrimo įmonė
 pavojinguosius krovinius ataskaitų pateikimo reikalavimų pažeidimas, kai
 pavojingieji kroviniai vežami automobilių ar geležinkelių keliais 
 Įmonių veiklos
-ataskaitų ir avarijų ar įvykių kraunant, pripildant ar vežant pavojinguosius
-krovinius ataskaitų nepateikimas arba neteisingų ataskaitos duomenų pateikimas
-–
+ataskaitų ir avarijų ar įvykių kraunant, pripildant ar vežant pavojinguosius krovinius
+ataskaitų nepateikimas arba neteisingų ataskaitos duomenų pateikimas –
 užtraukia baudą
 įmonių vadovams ar kitiems atsakingiems asmenims nuo penkiasdešimt septynių iki
 vieno šimto penkiolikos eurų.
@@ -11309,8 +11285,8 @@ Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
 Straipsnio pakeitimai:
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11325,16 +11301,16 @@ užtraukia baudą
 pakrovimo darbus atliekančių įmonių vadovams ar kitiems atsakingiems asmenims
 arba pakrovėjams nuo dvidešimt aštuonių iki vieno šimto penkiolikos eurų.
 Pavojingųjų
-krovinių vežimas automobilių keliais, kai pavojinguosius krovinius vežanti transporto
-priemonė (transporto vienetas) neatitinka patvirtintų standartų, tačiau tai
-nekelia tiesioginio pavojaus vežimo saugai, arba kai pavojinguosius krovinius
-vežančioje transporto priemonėje (transporto vienete) nėra įrangos, nurodytos
-rašytinėse instrukcijose, arba kai pavojingieji kroviniai vežami supakuoti į
-pažeistą tarą ar vežami pažeistame nesupakuotų krovinių vidutinės talpos
-konteineryje arba pažeistoje didelėje taroje, arba kai supakuoti pavojingieji
-kroviniai vežami struktūriškai nepatvariame konteineryje, arba kai vežama
-pažeista tuščia ir neišvalyta tara, arba kai pavojinguosius krovinius vežanti
-transporto priemonė (transporto vienetas) netinkamai paženklinta
+krovinių vežimas automobilių keliais, kai pavojinguosius krovinius vežanti
+transporto priemonė (transporto vienetas) neatitinka patvirtintų standartų,
+tačiau tai nekelia tiesioginio pavojaus vežimo saugai, arba kai pavojinguosius
+krovinius vežančioje transporto priemonėje (transporto vienete) nėra įrangos,
+nurodytos rašytinėse instrukcijose, arba kai pavojingieji kroviniai vežami
+supakuoti į pažeistą tarą ar vežami pažeistame nesupakuotų krovinių vidutinės
+talpos konteineryje arba pažeistoje didelėje taroje, arba kai supakuoti
+pavojingieji kroviniai vežami struktūriškai nepatvariame konteineryje, arba kai
+vežama pažeista tuščia ir neišvalyta tara, arba kai pavojinguosius krovinius
+vežanti transporto priemonė (transporto vienetas) netinkamai paženklinta
 (paženklintas), arba kai pavojingieji kroviniai vežami neturint nustatytus
 reikalavimus atitinkančių rašytinių instrukcijų, arba kai pavojinguosius
 krovinius vežančioje transporto priemonėje (transporto vienete) nėra
@@ -11412,12 +11388,12 @@ automobilių keliais pavojingųjų krovinių pateikimas vežti, pakrovimas arba
 vežimas – 
 užtraukia baudą
 krovinius vežti pateikusių įmonių vadovams ar kitiems atsakingiems asmenims
-(siuntėjams) arba krovinius vežančių įmonių vadovams ar kitiems atsakingiems asmenims
-nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
-devynių eurų, arba vairuotojams – nuo penkiasdešimt septynių iki vieno
-šimto penkiolikos eurų, o pakrovimo darbus atliekančių įmonių vadovams ar
-kitiems atsakingiems asmenims arba pakrovėjams – nuo vieno šimto penkiolikos
-iki dviejų šimtų trisdešimt vieno euro.
+(siuntėjams) arba krovinius vežančių įmonių vadovams ar kitiems atsakingiems
+asmenims nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
+septyniasdešimt devynių eurų, arba vairuotojams – nuo penkiasdešimt
+septynių iki vieno šimto penkiolikos eurų, o pakrovimo darbus atliekančių
+įmonių vadovams ar kitiems atsakingiems asmenims arba pakrovėjams – nuo vieno
+šimto penkiolikos iki dviejų šimtų trisdešimt vieno euro.
 Pavojingųjų
 krovinių pateikimas vežti automobilių keliais, kai transporto dokumentuose
 nepateikta kita su vežamu pavojinguoju kroviniu susijusi informacija (išskyrus
@@ -11455,8 +11431,8 @@ Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
 Straipsnio pakeitimai:
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11464,12 +11440,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Pavojingųjų krovinių vežimo geležinkelių keliais ar su tuo
 susijusios veiklos reikalavimų pažeidimas
 Pavojingųjų
-krovinių, kurių tara pažeista ar nesandari (įskaitant pažeistą ar nesandarią tuščią
-ir neišvalytą tarą), pakrovimas į pavojinguosius krovinius vežančią transporto
-priemonę – 
+krovinių, kurių tara pažeista ar nesandari (įskaitant pažeistą ar nesandarią
+tuščią ir neišvalytą tarą), pakrovimas į pavojinguosius krovinius vežančią
+transporto priemonę – 
 užtraukia baudą
-pakrovimo darbus atliekančių įmonių vadovams ar kitiems atsakingiems asmenims
-arba pakrovėjams nuo dvidešimt aštuonių iki vieno šimto penkiolikos eurų.
+pakrovimo darbus atliekančių įmonių vadovams ar kitiems atsakingiems asmenims arba
+pakrovėjams nuo dvidešimt aštuonių iki vieno šimto penkiolikos eurų.
 Pavojingųjų
 krovinių vežimas geležinkelių keliais, kai pavojinguosius krovinius vežanti
 transporto priemonė neatitinka patvirtintų standartų, tačiau tai nekelia
@@ -11509,13 +11485,13 @@ kroviniai vežami draudžiamu būdu, –
 užtraukia baudą
 geležinkelio įmonių (vežėjų) vadovams ar kitiems atsakingiems asmenims nuo
 vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno euro.
-Pavojingųjų
-krovinių pateikimas vežti geležinkelių keliais, kai pavojingųjų krovinių
-pakavimui naudojama tara neatitinka nustatytų reikalavimų arba kai pavojingieji
-kroviniai pateikiami vežti draudžiamu būdu arba suverstinai struktūriškai
-nepatvariame konteineryje, arba kai nesilaikoma cisternų ar taros pripildymo
-reikalavimų, arba kai siuntėjas galėjo žinoti ar žinojo, kad pavojinguosius
-krovinius vežanti transporto priemonė neatitinka keliamų reikalavimų, – 
+Pavojingųjų krovinių
+pateikimas vežti geležinkelių keliais, kai pavojingųjų krovinių pakavimui
+naudojama tara neatitinka nustatytų reikalavimų arba kai pavojingieji kroviniai
+pateikiami vežti draudžiamu būdu arba suverstinai struktūriškai nepatvariame
+konteineryje, arba kai nesilaikoma cisternų ar taros pripildymo reikalavimų,
+arba kai siuntėjas galėjo žinoti ar žinojo, kad pavojinguosius krovinius
+vežanti transporto priemonė neatitinka keliamų reikalavimų, – 
 užtraukia baudą
 krovinius vežti pateikusių įmonių vadovams ar kitiems atsakingiems asmenims
 (siuntėjams) nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno
@@ -11569,22 +11545,22 @@ užtraukia
 atsakingiems asmenims nuo dviejų iki dvidešimt aštuonių eurų.
 Geležinkelio
 įmonių (vežėjų) vadovai, kiti atsakingi asmenys neatsako už šio straipsnio
-antrojoje, ketvirtojoje, šeštojoje, septintojoje ir devintojoje dalyse numatytus
-pažeidimus, o krovimo darbus atliekančių įmonių vadovai, kiti atsakingi
-asmenys, pakrovėjai – už pirmojoje, šeštojoje ir septintojoje dalyse numatytus
-pažeidimus, kurie padaryti dėl neteisingos informacijos, nurodytos kitų asmenų
-pateiktuose transporto dokumentuose.
+antrojoje, ketvirtojoje, šeštojoje, septintojoje ir devintojoje dalyse
+numatytus pažeidimus, o krovimo darbus atliekančių įmonių vadovai, kiti
+atsakingi asmenys, pakrovėjai – už pirmojoje, šeštojoje ir septintojoje dalyse
+numatytus pažeidimus, kurie padaryti dėl neteisingos informacijos, nurodytos
+kitų asmenų pateiktuose transporto dokumentuose.
 Kodeksas papildytas straipsniu:
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
 1364
-straipsnis. Pavojingųjų krovinių vežimo vidaus vandenų keliais ar su tuo
-susijusios veiklos reikalavimų pažeidimas
+straipsnis. Pavojingųjų krovinių vežimo vidaus vandenų keliais ar su tuo susijusios
+veiklos reikalavimų pažeidimas
 Pavojingųjų
 krovinių vežimo vidaus vandenų keliais ar su tuo susijusios veiklos reikalavimų
 pažeidimas – 
@@ -11594,8 +11570,8 @@ aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių eurų a
 kitiems asmenims – nuo penkiasdešimt septynių iki dviejų šimtų trisdešimt vieno
 euro.
 Kodeksas papildytas straipsniu:
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -11603,11 +11579,11 @@ TAR 2014-10-28, i. k. 2014-15013
  
 137
 straipsnis. Naudojimosi automobilių ir elektros transportu tvarkos pažeidimas
-Važiavimas ne transporto
-priemonės salone (kabinoje, kėbule), stovint ant autobuso arba troleibuso
-laiptelių, neleidžiant vairuotojui uždaryti durų, taip pat važiavimas autobusu
-arba troleibusu nešvariais drabužiais, kurie gali sutepti autobuso, troleibuso
-apmušalus ar keleivių drabužius, –
+Važiavimas ne
+transporto priemonės salone (kabinoje, kėbule), stovint ant autobuso arba
+troleibuso laiptelių, neleidžiant vairuotojui uždaryti durų, taip pat
+važiavimas autobusu arba troleibusu nešvariais drabužiais, kurie gali sutepti
+autobuso, troleibuso apmušalus ar keleivių drabužius, –
 užtraukia
 įspėjimą arba baudą nuo dviejų iki penkių eurų.
 Šiukšlių,
@@ -11622,12 +11598,12 @@ nuo dviejų iki penkių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11648,15 +11624,15 @@ veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 transporto priemonių vairuotojams, vairuotojams-konduktoriams, konduktoriams ir
-vežėjams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt
-devynių eurų.
+vežėjams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
+aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996, Nr.
-73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11664,21 +11640,21 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Kelių transporto priemonių valstybinių techninių apžiūrų atlikimo
 reikalavimų nesilaikymas
 Techninių
-apžiūrų centrų, atliekančių kelių transporto priemonių valstybines technines apžiūras
-bei ekspertizes, veiklą reglamentuojančių norminių aktų reikalavimų nevykdymas
-–
+apžiūrų centrų, atliekančių kelių transporto priemonių valstybines technines
+apžiūras bei ekspertizes, veiklą reglamentuojančių norminių aktų reikalavimų
+nevykdymas –
 užtraukia baudą
 kelių transporto priemonių valstybinių techninių apžiūrų kontrolieriams ir
 ekspertams nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių
 eurų ir šių centrų vadovams – nuo vieno šimto keturiasdešimt keturių iki dviejų
 šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11701,10 +11677,10 @@ užtraukia baudą
 dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11729,21 +11705,19 @@ nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11764,8 +11738,8 @@ pareigas arba jų teisėtų reikalavimų nevykdymas –
 užtraukia baudą nuo
 keturiolikos iki dvidešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -11779,18 +11753,18 @@ TAR 2014-10-28, i. k. 2014-15013
 reikalavimų pažeidimas
 Nustatytų aviacijos saugumo
 reikalavimų pažeidimas –
-užtraukia baudą nuo
-dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
+užtraukia baudą nuo dvidešimt
+aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11809,10 +11783,10 @@ eurų baudą.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -11834,10 +11808,10 @@ eurų baudą.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -11867,10 +11841,9 @@ su nuolaida, tačiau nepateikus reikiamų dokumentų, patvirtinančių teisę į
 transporto lengvatas, –
 užtraukia baudą nuo
 penkių iki vienuolikos eurų.
-Keleivių
-važiavimas be bilieto keleivinėmis kelių transporto priemonėmis arba važiavimas
-įsigijus važiavimo bilietą su nuolaida, neturint teisės į transporto lengvatas,
-–
+Keleivių važiavimas
+be bilieto keleivinėmis kelių transporto priemonėmis arba važiavimas įsigijus
+važiavimo bilietą su nuolaida, neturint teisės į transporto lengvatas, –
 užtraukia baudą
 nuo septyniolikos iki dvidešimt aštuonių eurų.
 Atsisakymas
@@ -11883,8 +11856,8 @@ bilietus su nuolaida, tačiau nepateikusių reikiamų dokumentų, patvirtinanči
 teisę į transporto lengvatas, vežimas, arba dviejų ar daugiau važiavimo bilietų
 su nuolaida pardavimas vietoj vieno važiavimo bilieto, arba važiavimo bilietų
 su nuolaida išspausdinimas, kai nėra keleivių, arba dviejų ar daugiau važiavimo
-bilietų su nuolaida duomenų išspausdinimas viename važiavimo biliete keleiviniame
-kelių transporte –
+bilietų su nuolaida duomenų išspausdinimas viename važiavimo biliete
+keleiviniame kelių transporte –
 užtraukia baudą
 nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Tokie pat
@@ -11895,19 +11868,17 @@ nuo vieno šimto vieno iki dviejų šimtų dviejų eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11923,10 +11894,10 @@ užtraukia baudą
 asmenims, atsakingiems už šių objektų eksploatavimą, nuo septyniasdešimt dviejų
 iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -11942,8 +11913,8 @@ Keleivinio kelių
 transporto eismo tvarkaraščių nesilaikymas, nukrypimas nuo nurodytos maršrutų
 trasos –
 užtraukia baudą
-vairuotojams nuo keturiolikos iki dvidešimt aštuonių eurų ir vežėjams – nuo
-septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
+vairuotojams nuo keturiolikos iki dvidešimt aštuonių eurų ir vežėjams – nuo septyniasdešimt
+dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Keleivių vežimas
 keleivinio kelių transporto priemonėmis neturint keleivinį kelių transportą
 reglamentuojančiuose teisės aktuose nurodytų dokumentų arba turint
@@ -11952,13 +11923,13 @@ užtraukia baudą
 vairuotojams nuo keturiolikos iki dvidešimt aštuonių eurų ir vežėjams – nuo
 keturiasdešimt trijų iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -12009,12 +11980,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-528, 97.11.20, Žin., 1997,
-Nr. 112-2823 (97.12.10)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-528,
+97.11.20, Žin., 1997, Nr. 112-2823 (97.12.10)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12025,8 +11996,8 @@ Krovinių vežimas
 kelių transporto priemonėmis tarptautiniais maršrutais be kelionės leidimo, su
 neatitinkančiu važiavimo pobūdžio ar neužpildytu leidimu – 
 užtraukia baudą
-vairuotojams nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio
-keturių šimtų keturiasdešimt aštuonių eurų.
+vairuotojams nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių
+šimtų keturiasdešimt aštuonių eurų.
 Krovinių vežimas
 kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais neturint
 krovininį kelių transportą reglamentuojančiuose teisės aktuose nurodytų
@@ -12042,18 +12013,18 @@ užtraukia baudą
 vairuotojams nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki
 dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XII-585, 2013-11-07, Žin., 2013,
-Nr. 120-6054 (2013-11-23)
+Nr. XII-585,
+2013-11-07, Žin., 2013, Nr. 120-6054 (2013-11-23)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12075,10 +12046,10 @@ daugiau kaip 1 valandą, –
 užtraukia baudą
 vairuotojams nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Kelių transporto
-priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais,
-ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba
-kasdienio vairavimo trukmės viršijimas daugiau kaip 1 valandą, bet ne daugiau
-kaip 2 valandas, – 
+priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais
+maršrutais, ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės
+arba kasdienio vairavimo trukmės viršijimas daugiau kaip 1 valandą, bet ne
+daugiau kaip 2 valandas, – 
 užtraukia baudą
 vairuotojams nuo penkiasdešimt septynių iki aštuoniasdešimt šešių eurų.
 Kelių transporto
@@ -12319,13 +12290,13 @@ ar keleivių vežimo veiklai, nuo vieno šimto keturiasdešimt keturių iki dvie
 šimtų aštuoniasdešimt devynių eurų.
 Daugiau kaip 20
 procentų kelių transporto priemonių, vežančių keleivius ar krovinius vidaus ir
-(ar) tarptautinio susisiekimo maršrutais, ekipažams (vairuotojams) privalomų tachografo
-registracijos lapų ir (ar) duomenų, perkeltų iš skaitmeninio tachografo ir (ar)
-vairuotojo kortelės (iš patikrintų vairuotojo darbo dienų), nesaugojimas
-nustatytą laiką įmonėje arba nuo tachografo registracijos lapuose ir (ar)
-duomenyse, perkeltuose iš skaitmeninio tachografo ir (ar) vairuotojo kortelės
-(iš įmonėje patikrintų vairuotojo darbo dienų), nustatytų daugiau kaip 20
-procentų vairuotojų darbo ir poilsio režimo pažeidimų –
+(ar) tarptautinio susisiekimo maršrutais, ekipažams (vairuotojams) privalomų
+tachografo registracijos lapų ir (ar) duomenų, perkeltų iš skaitmeninio
+tachografo ir (ar) vairuotojo kortelės (iš patikrintų vairuotojo darbo dienų),
+nesaugojimas nustatytą laiką įmonėje arba nuo tachografo registracijos lapuose
+ir (ar) duomenyse, perkeltuose iš skaitmeninio tachografo ir (ar) vairuotojo
+kortelės (iš įmonėje patikrintų vairuotojo darbo dienų), nustatytų daugiau kaip
+20 procentų vairuotojų darbo ir poilsio režimo pažeidimų –
 užtraukia baudą
 įmonių vadovams ar jų įgaliotiems asmenims, kuriems pavesta vadovauti krovinių
 ar keleivių vežimo veiklai, nuo dviejų šimtų aštuoniasdešimt devynių iki penkių
@@ -12350,9 +12321,9 @@ ribojimo prietaisu –
 užtraukia baudą
 vairuotojams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų arba įmonių vadovams ar jų įgaliotiems asmenims,
-kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo penkių
-šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto penkiasdešimt
-aštuonių eurų.
+kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo penkių šimtų
+septyniasdešimt devynių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių
+eurų.
 Kodeksas papildytas straipsniu:
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
@@ -12383,11 +12354,9 @@ aštuoniasdešimt devynių eurų arba įmonės vadovui ar jo įgaliotam asmeniui
 kuriam pavesta vadovauti keleivių vežimo veiklai, – nuo dviejų šimtų
 aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -12406,11 +12375,9 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-265, 2013-05-07, Žin., 2013,
-Nr. 54-2670 (2013-05-25),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XII-265,
+2013-05-07, Žin., 2013, Nr. 54-2670 (2013-05-25), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -12433,10 +12400,10 @@ uostų (prieplaukų), šliuzų ir nurodytų sandėlių teritorijoje –
 užtraukia baudą
 nuo aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26; Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18; Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26; Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18; Žin., 1994, Nr. 58-1132
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -12452,17 +12419,17 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 145
-straipsnis. Automobilių kelių, jų statinių ir įrenginių sugadinimas, sunkiasvorių
-ir didelių matmenų krovinių vežimas be leidimo
+straipsnis. Automobilių kelių, jų statinių ir įrenginių sugadinimas,
+sunkiasvorių ir didelių matmenų krovinių vežimas be leidimo
 Kelio dangos
 užteršimas –
 užtraukia baudą
@@ -12478,8 +12445,8 @@ Važiavimas be
 leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies
 (ašių) apkrovą daugiau kaip 0,6 t, bet ne daugiau kaip 2 t ir (ar) didžiausiąją
 leidžiamąją masę daugiau kaip 1 t, bet ne daugiau kaip 4 t, taip pat važiavimas
-be leidimo kelių transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu
-ar be jo viršija leidžiamus, –
+be leidimo kelių transporto priemonėmis (jų junginiais), kurių matmenys su
+kroviniu ar be jo viršija leidžiamus, –
 užtraukia baudą
 vairuotojams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir (ar) įmonių vadovams ar jų įgaliotiems
@@ -12506,11 +12473,11 @@ dvidešimt septynių eurų ir (ar) įmonių vadovams ar jų įgaliotiems asmenim
 kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo vieno
 tūkstančio vieno šimto penkiasdešimt aštuonių iki trijų tūkstančių keturių
 šimtų septyniasdešimt penkių eurų.
-Krovinių
-pateikimas ar pakrovimas vežti kelių transporto priemone (jų junginiu), kai
-viršijama leidžiama ašies (ašių) apkrova ir (ar) didžiausioji leidžiamoji
-masė arba viršijami leidžiami kelių transporto priemonės (jų junginio)
-matmenys, neįsitikinus, kad gautas leidimas vežti tokius krovinius, –
+Krovinių pateikimas
+ar pakrovimas vežti kelių transporto priemone (jų junginiu), kai viršijama
+leidžiama ašies (ašių) apkrova ir (ar) didžiausioji leidžiamoji masė
+arba viršijami leidžiami kelių transporto priemonės (jų junginio) matmenys,
+neįsitikinus, kad gautas leidimas vežti tokius krovinius, –
 užtraukia baudą
 krovinius vežti pateikusių įmonių vadovams ar kitiems atsakingiems asmenims
 (siuntėjams) arba pakrovimo darbus atliekančių įmonių vadovams ar kitiems
@@ -12519,29 +12486,27 @@ aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
 1451
-straipsnis. Darbų automobilių keliuose vykdymo, techninių eismo reguliavimo
-priemonių įrengimo ir priežiūros bei kitų eismo saugumo reikalavimų pažeidimas
+straipsnis. Darbų automobilių keliuose vykdymo, techninių eismo reguliavimo priemonių
+įrengimo ir priežiūros bei kitų eismo saugumo reikalavimų pažeidimas
 Darbų
 automobilių keliuose ir prie jų vykdymas, prekybos, maitinimo ir kitokių
 aptarnavimo punktų įrengimas arba kelių tiesimas ar statinių pakelėse statymas,
@@ -12556,10 +12521,10 @@ renginių keliuose organizavimo nesuderinimas su policija –
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12580,19 +12545,18 @@ Automobilių
 kelių juostoje ir kelių apsaugos zonoje esančių tiltų, viadukų, tunelių,
 požeminių pėsčiųjų perėjų, garso slopinimo sienučių gadinimas –
 užtraukia baudą nuo
-vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių eurų.
+vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
+eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12608,15 +12572,13 @@ reikalavimus –
 užtraukia baudą nuo
 keturiolikos iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12691,17 +12653,15 @@ užtraukia baudą
 pareigūnams nuo
 septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12713,12 +12673,12 @@ užtraukia įspėjimą arba baudą piliečiams
 nuo keturiolikos iki dvidešimt aštuonių eurų ir baudą pareigūnams – nuo
 penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-698, 98.04.15, Žin., 1998,
-Nr. 41-1094 (98.05.01)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-698,
+98.04.15, Žin., 1998, Nr. 41-1094 (98.05.01)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12726,12 +12686,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 152
 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas 
@@ -12762,19 +12722,19 @@ siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginius atėmimą.
 Straipsnio pakeitimai: 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12800,16 +12760,16 @@ elektroninių ryšių veikla, nuo keturių šimtų trisdešimt keturių iki ašt
 šimtų šešiasdešimt aštuonių eurų su aparatūros arba įrenginių konfiskavimu ar
 be konfiskavimo.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio pakeitimai: 
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12817,12 +12777,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2004 m. gegužės 1 d.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio pakeitimai: 
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
  
@@ -12850,19 +12810,20 @@ aparatūros arba įrenginių konfiskavimu ar be konfiskavimo arba teisės naudot
 elektroninių ryšių išteklius atėmimą.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
 1524 straipsnis. Radijo ryšio
 įrenginių techninio reglamento sąlygų, gamintojo kodų,
-skirtų nestandartinių galinių įrenginių gamintojams, naudojimo sąlygų pažeidimas
+skirtų nestandartinių galinių įrenginių gamintojams, naudojimo sąlygų
+pažeidimas
 Radijo
 ryšio įrenginių techninio reglamento sąlygų, gamintojo kodų,
 skirtų nestandartinių galinių įrenginių gamintojams, naudojimo sąlygų
@@ -12877,25 +12838,25 @@ Tokie
 pat veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytą pažeidimą, – 
 užtraukia baudą asmenims, kurie
-nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų, organizacijų vadovams,
-jeigu tos įmonės, įstaigos, organizacijos nesiverčia elektroninių ryšių veikla,
-nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
-tūkstančių aštuonių šimtų devyniasdešimt šešių eurų su radijo ryšio įrenginių
-arba galinių įrenginių konfiskavimu ar be konfiskavimo.
+nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų, organizacijų
+vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia elektroninių
+ryšių veikla, nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki
+dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų su radijo ryšio
+įrenginių arba galinių įrenginių konfiskavimu ar be konfiskavimo.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
 XII-2671,
-2016-10-11, paskelbta TAR, 2016-10-17, i. k. 2016-25267
+2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25267
  
 1525
 straipsnis. Teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų
@@ -12922,13 +12883,13 @@ be konfiskavimo arba teisės užsiimti radijo mėgėjų ir kitų radijo stočių
 naudotojų veikla atėmimą.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -12936,8 +12897,8 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko galios nuo 2004 m. gegužės 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
@@ -12946,8 +12907,8 @@ Nr. 68-2368 (2004-04-29)
 straipsnis. Neteko galios nuo 2004 m. gegužės 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
@@ -12956,8 +12917,8 @@ Nr. 68-2368 (2004-04-29)
 straipsnis. Neteko galios nuo 2011 m. rugpjūčio 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
@@ -12966,8 +12927,8 @@ Nr. 68-2368 (2004-04-29)
 straipsnis. Neteko galios nuo 2004 m. gegužės 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
@@ -12983,9 +12944,9 @@ asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaig
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
 elektroninių ryšių veikla, nuo vieno šimto keturiasdešimt keturių iki
 dviejų šimtų aštuoniasdešimt devynių eurų.
-Tokie pat veiksmai,
-padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, – 
+Tokie pat
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
@@ -12995,8 +12956,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Straipsnio pakeitimai: 
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13011,9 +12972,9 @@ organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
 elektroninių ryšių veikla, nuo septynių šimtų dvidešimt keturių iki vieno
 tūkstančio keturių šimtų keturiasdešimt aštuonių eurų su aparatūros arba
 įrenginių konfiskavimu ar be konfiskavimo.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytą pažeidimą, – 
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytą pažeidimą, – 
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
@@ -13024,8 +12985,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Straipsnio pakeitimai: 
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -13055,8 +13016,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Straipsnio pakeitimai: 
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13067,10 +13028,10 @@ Draudimo siųsti
 arba perduoti netikrus arba klaidinančius nelaimės, skubos, saugumo ar
 identifikacijos signalus nevykdymas – 
 užtraukia baudą
-asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų, organizacijų
-vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia elektroninių
-ryšių veikla, nuo septynių šimtų dvidešimt keturių iki vieno tūkstančio keturių
-šimtų keturiasdešimt aštuonių eurų.
+asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
+organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
+elektroninių ryšių veikla, nuo septynių šimtų dvidešimt keturių iki vieno
+tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
@@ -13083,8 +13044,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Straipsnio pakeitimai: 
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13105,8 +13066,8 @@ Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytą pažeidimą, – 
 užtraukia baudą
-nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
-eurų.
+nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
+devynių eurų.
 Vertimasis
 komercine veikla, susijusia su gamintojo nustatytų priemonių, naudojamų
 galiniam įrenginiui identifikuoti viešajame judriojo telefono ryšio tinkle,
@@ -13132,15 +13093,15 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1531
 straipsnis. Elektroninių ryšių tinklo gadinimas ar savavališkas prisijungimas
@@ -13169,8 +13130,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų su šių įrenginių konfiskavimu.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
@@ -13181,96 +13142,96 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1533
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1534
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1535
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1536
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1537
 straipsnis. Neteko galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1538straipsnis.
 Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1539
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Kodeksas papildytas straipsniu:
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 15310
 straipsnis. Dekoderių, kitų dekoduojančių įrenginių ar programinės įrangos,
@@ -13282,18 +13243,18 @@ reklamavimas
 Dekoderių, kitų
 dekoduojančių įrenginių ar programinės įrangos, kurie suteiktų galimybę
 neteisėtai gauti prieigą prie apsaugotųjų paslaugų, paprastai teikiamų už
-mokestį, gaminimas, laikymas, naudojimas, importavimas, eksportavimas,
-pardavimas, nuoma ar kitoks perleidimas, pakeitimas, instaliavimas arba
-prižiūrėjimas komerciniais tikslais, taip pat šios įrangos reklamavimas –
+mokestį, gaminimas, laikymas, naudojimas, importavimas, eksportavimas, pardavimas,
+nuoma ar kitoks perleidimas, pakeitimas, instaliavimas arba prižiūrėjimas
+komerciniais tikslais, taip pat šios įrangos reklamavimas –
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
-organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia elektroninių
-ryšių veikla, nuo keturių šimtų trisdešimt keturių iki aštuonių šimtų
-šešiasdešimt aštuonių eurų su dekoderių, kitų dekoduojančių įrenginių ar
+organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
+elektroninių ryšių veikla, nuo keturių šimtų trisdešimt keturių iki aštuonių
+šimtų šešiasdešimt aštuonių eurų su dekoderių, kitų dekoduojančių įrenginių ar
 programinės įrangos konfiskavimu.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, – 
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, – 
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
@@ -13302,13 +13263,13 @@ tūkstančio vieno šimto penkiasdešimt aštuonių eurų su dekoderių, kitų
 dekoduojančių įrenginių ar programinės įrangos konfiskavimu.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -13334,16 +13295,16 @@ organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
 elektroninių ryšių veikla, nuo septynių šimtų dvidešimt keturių iki vieno
 tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13368,13 +13329,13 @@ elektroninių ryšių veikla, nuo keturių šimtų trisdešimt keturių iki ašt
 šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13387,8 +13348,8 @@ tikrovės neatitinkančios informacijos pateikimas –
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
-elektroninių ryšių veikla, nuo septyniasdešimt dviejų iki vieno šimto
-keturiasdešimt keturių eurų.
+elektroninių ryšių veikla, nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt
+keturių eurų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
@@ -13399,13 +13360,13 @@ elektroninių ryšių veikla, nuo dviejų šimtų aštuoniasdešimt devynių iki
 šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13426,13 +13387,13 @@ nuo aštuonių šimtų šešiasdešimt aštuonių iki dviejų tūkstančių ašt
 devyniasdešimt šešių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13440,63 +13401,63 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko galios nuo 2011 m. sausio 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 1545
 straipsnis. Neteko
 galios nuo 2011 m. sausio 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 1546
 straipsnis. Neteko galios nuo 2011 m. sausio 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 1547
 straipsnis. Neteko galios nuo 2011 m. sausio 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 1548
 straipsnis. Neteko
 galios nuo 2011 m. sausio 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 1549
 straipsnis. Neteko galios nuo 2011 m. sausio 1 d.
@@ -13504,8 +13465,8 @@ Kodeksas papildytas straipsniu:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Straipsnio pakeitimai:
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 15410
 straipsnis. Neteko galios nuo 2011 m. sausio 1 d.
@@ -13513,8 +13474,8 @@ Kodeksas papildytas straipsniu:
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Straipsnio pakeitimai:
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 15411
 straipsnis. Lietuvos Respublikos kibernetinio saugumo
@@ -13542,11 +13503,11 @@ pažeidimas –
 užtraukia
 įspėjimą arba baudą juridinių asmenų vadovams iki dviejų šimtų aštuoniasdešimt
 devynių eurų.
-Informacijos, reikalingos
-vertinti viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir (arba)
-elektroninės informacijos prieglobos paslaugų kibernetinio saugumo būseną,
-nepateikimas Ryšių reguliavimo tarnybai arba šios informacijos pateikimo
-tvarkos pažeidimas –
+Informacijos,
+reikalingos vertinti viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų
+ir (arba) elektroninės informacijos prieglobos paslaugų kibernetinio saugumo
+būseną, nepateikimas Ryšių reguliavimo tarnybai arba šios informacijos
+pateikimo tvarkos pažeidimas –
 užtraukia
 įspėjimą arba baudą juridinių asmenų vadovams iki dviejų šimtų aštuoniasdešimt
 devynių eurų.
@@ -13570,12 +13531,12 @@ Nr. XII-1431, 2014-12-11, paskelbta
 TAR 2014-12-23, i. k. 2014-20556
  
 15412
-straipsnis. Lietuvos Respublikos kibernetinio saugumo įstatymo pažeidimai, susiję
-su ypatingos svarbos informacine infrastruktūra ir elektroninės informacijos
-prieglobos paslaugomis
-Teisėtų
-Nacionalinio kibernetinio saugumo centro nurodymų, susijusių su kibernetinio
-saugumo užtikrinimu, nevykdymas –
+straipsnis. Lietuvos Respublikos kibernetinio saugumo įstatymo pažeidimai,
+susiję su ypatingos svarbos informacine infrastruktūra ir elektroninės
+informacijos prieglobos paslaugomis
+Teisėtų Nacionalinio
+kibernetinio saugumo centro nurodymų, susijusių su kibernetinio saugumo
+užtikrinimu, nevykdymas –
 užtraukia
 įspėjimą arba baudą juridinių asmenų vadovams nuo septyniasdešimt dviejų iki
 vieno šimto keturiasdešimt keturių eurų.
@@ -13585,10 +13546,10 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 juridinių asmenų vadovams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių
 šimtų septyniasdešimt devynių eurų.
-Kibernetinių
-incidentų valdymo ypatingos svarbos informacinėje infrastruktūroje plano
-neparengimas ar nepatvirtinimas arba nepateikimas Nacionaliniam kibernetinio
-saugumo centrui –
+Kibernetinių incidentų
+valdymo ypatingos svarbos informacinėje infrastruktūroje plano neparengimas ar
+nepatvirtinimas arba nepateikimas Nacionaliniam kibernetinio saugumo
+centrui –
 užtraukia
 įspėjimą arba baudą juridinių asmenų vadovams iki vieno tūkstančio keturių
 šimtų keturiasdešimt aštuonių eurų.
@@ -13618,10 +13579,10 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -13646,11 +13607,12 @@ užtraukia
 keturiasdešimt keturių eurų.
  
 157
-straipsnis. Gyvenamųjų namų ir gyvenamųjų patalpų apgyvendinimo terminų nesilaikymas
+straipsnis. Gyvenamųjų namų ir gyvenamųjų patalpų apgyvendinimo terminų
+nesilaikymas
 Nesilaikymas
 nustatytų gyvenamųjų namų ir gyvenamųjų patalpų apgyvendinimo terminų –
-užtraukia
-įspėjimą arba baudą pareigūnams iki vieno šimto keturiasdešimt keturių eurų.
+užtraukia įspėjimą
+arba baudą pareigūnams iki vieno šimto keturiasdešimt keturių eurų.
  
 158
 straipsnis. Gyvenamųjų ir bendrojo naudojimo patalpų naudojimo taisyklių
@@ -13663,9 +13625,9 @@ gadinimas –
 užtraukia
 įspėjimą arba baudą nuo dvidešimt aštuonių iki dviejų šimtų aštuoniasdešimt
 devynių eurų.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, – 
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, – 
 užtraukia baudą nuo
 vieno šimto keturiasdešimt keturių iki penkių šimtų septyniasdešimt devynių
 eurų su daikto, kuris buvo administracinio teisės pažeidimo padarymo įrankis
@@ -13678,9 +13640,9 @@ pažeidžiant statinio projekto sprendinius, išskyrus esminius statinio projekt
 sprendinius, nurodytus Statybos įstatyme, – 
 užtraukia baudą
 nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
-Tokie pat veiksmai,
-padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+Tokie pat
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
  
@@ -13706,8 +13668,8 @@ objektų administratoriams – fiziniams asmenims arba administratorių – juri
 asmenų vadovams ar vadovų įgaliotiems asmenims nuo
 penkiasdešimt septynių iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą nuo
 vieno šimto penkiolikos iki penkių šimtų septyniasdešimt devynių eurų.
  
@@ -13729,8 +13691,8 @@ nesudėtingo statinio savavališka statyba kultūros paveldo objekto teritorijoj
 kultūros paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje,
 kompleksinėje saugomoje teritorijoje ar pajūrio juostoje –
 užtraukia baudą
-nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
-devynių eurų. 
+nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
+eurų. 
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 trečiojoje dalyje numatytus pažeidimus, –
@@ -13740,8 +13702,8 @@ penkiasdešimt aštuonių eurų.
 Naujo neypatingo
 statinio savavališka statyba –
 užtraukia baudą
-nuo aštuonių šimtų šešiasdešimt aštuonių iki dviejų tūkstančių trijų šimtų šešiolikos
-eurų. 
+nuo aštuonių šimtų šešiasdešimt aštuonių iki dviejų tūkstančių trijų šimtų
+šešiolikos eurų. 
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 penktojoje dalyje numatytus pažeidimus, –
@@ -13774,8 +13736,8 @@ nuo penkių tūkstančių septynių šimtų devyniasdešimt dviejų iki vienuoli
 tūkstančių penkių šimtų aštuoniasdešimt keturių eurų. 
 Naujo ypatingo
 statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros
-paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje
-saugomoje teritorijoje ar pajūrio juostoje –
+paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje,
+kompleksinėje saugomoje teritorijoje ar pajūrio juostoje –
 užtraukia baudą
 nuo penkių tūkstančių septynių šimtų devyniasdešimt dviejų iki dešimties
 tūkstančių vieno šimto trisdešimt šešių eurų. 
@@ -13873,9 +13835,9 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo aštuoniasdešimt šešių iki dviejų šimtų trisdešimt vieno euro. 
 Nesudėtingo
-statinio savavališkas kapitalinis remontas kultūros paveldo objekto
-teritorijoje, kultūros paveldo vietovėje, konservacinės apsaugos prioriteto
-teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje –
+statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje,
+kultūros paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje,
+kompleksinėje saugomoje teritorijoje ar pajūrio juostoje –
 užtraukia baudą
 nuo aštuoniasdešimt šešių iki dviejų šimtų trisdešimt vieno euro. 
 Tokie pat
@@ -13940,9 +13902,9 @@ Nesudėtingo
 statinio savavališkas paprastasis remontas – 
 užtraukia
 įspėjimą arba baudą nuo keturiolikos iki dvidešimt aštuonių eurų.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, –
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Nesudėtingo
@@ -14017,8 +13979,8 @@ nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno euro.
 Neypatingo
 statinio savavališkas griovimas – 
 užtraukia baudą nuo
-penkių šimtų septyniasdešimt devynių iki vieno tūkstančio keturių šimtų keturiasdešimt
-aštuonių eurų.
+penkių šimtų septyniasdešimt devynių iki vieno tūkstančio keturių šimtų
+keturiasdešimt aštuonių eurų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 trečiojoje dalyje numatytus pažeidimus, – 
@@ -14131,8 +14093,8 @@ devyniasdešimties eurų.
 Kodeksas
 papildyta straipsniu:
 Nr.
-XII-1835, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10585 
+XII-1835,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10585 
  
 160
 straipsnis. Savavališkas kasinėjimas bendrojo naudojimo teritorijoje ir
@@ -14169,15 +14131,15 @@ nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt 
 eurų.
 Gatvių, jų
 statinių ir sankryžų įrengimo bei apželdinimo projektų, techninių eismo
-reguliavimo priemonių įrengimo (nuėmimo) arba masinių ir sporto renginių
-gatvėse organizavimo nesuderinimas su policija –
+reguliavimo priemonių įrengimo (nuėmimo) arba masinių ir sporto renginių gatvėse
+organizavimo nesuderinimas su policija –
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
-Taisyklių, reikalaujančių
-prižiūrėti gatves, jų statinius bei įrenginius taip, kad jie būtų saugūs
-eismui, pažeidimas arba nesiėmimas priemonių laiku uždrausti ar apriboti eismą
-atskiruose gatvių ruožuose, kai naudojimasis jais kelia grėsmę eismo saugumui,
-–
+Taisyklių,
+reikalaujančių prižiūrėti gatves, jų statinius bei įrenginius taip, kad jie
+būtų saugūs eismui, pažeidimas arba nesiėmimas priemonių laiku uždrausti ar
+apriboti eismą atskiruose gatvių ruožuose, kai naudojimasis jais kelia grėsmę
+eismo saugumui, –
 užtraukia baudą
 nuo keturiolikos iki penkiasdešimt septynių eurų.
  
@@ -14223,9 +14185,9 @@ veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytą pažeidimą, –
 užtraukia baudą nuo
 penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų.
-Kapinių
-prižiūrėtojų kaupiamų duomenų tvarkymas pažeidžiant kapinių prižiūrėtojo
-kaupiamų duomenų tvarkymo reikalavimus –
+Kapinių prižiūrėtojų
+kaupiamų duomenų tvarkymas pažeidžiant kapinių prižiūrėtojo kaupiamų duomenų
+tvarkymo reikalavimus –
 užtraukia baudą nuo
 dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Tokie pat
@@ -14254,8 +14216,8 @@ TEISĖS PAŽEIDIMAI PREKYBOS, FINANSŲ,
 APSKAITOS IR
 STATISTIKOS SRITYJE
  
-163
-straipsnis. Mažmeninės prekybos taisyklių pažeidimas
+163 straipsnis.
+Mažmeninės prekybos taisyklių pažeidimas
 Mažmeninės prekybos taisyklių
 pažeidimas – 
 užtraukia
@@ -14271,43 +14233,40 @@ užtraukia baudą
 asmenims nuo dvidešimt aštuonių iki vieno šimto penkiolikos eurų ir pareigūnams
 – nuo vieno šimto penkiolikos iki dviejų šimtų trisdešimt vieno euro.
 Pastaba. Šiame
-ir 1631, 1639, 16313, 189 straipsniuose
-nurodyta individuali veikla suprantama taip, kaip ji apibrėžta Lietuvos
-Respublikos gyventojų pajamų mokesčio įstatyme.
+ir 1631, 1639, 16313, 189 straipsniuose nurodyta
+individuali veikla suprantama taip, kaip ji apibrėžta Lietuvos Respublikos
+gyventojų pajamų mokesčio įstatyme.
 Straipsnio pakeitimai: 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1037, 95.09.12, Žin., 1995,
-Nr. 79-1818 (95.09.27) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1037,
+95.09.12, Žin., 1995, Nr. 79-1818 (95.09.27) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
 1631
 straipsnis. Pirkėjų ir klientų apgaudinėjimas
 Pirkėjų ir
-klientų apgaudinėjimas sveriant, padidinant nustatytas prekių ir paslaugų
-kainas ir tarifus, nesilaikant kainų nurodymo reikalavimų, nustatytų teisės
-aktuose, arba kitoks jų apgaudinėjimas parduodant prekes ar teikiant paslaugas
-– 
+klientų apgaudinėjimas sveriant, padidinant nustatytas prekių ir paslaugų kainas
+ir tarifus, nesilaikant kainų nurodymo reikalavimų, nustatytų teisės aktuose,
+arba kitoks jų apgaudinėjimas parduodant prekes ar teikiant paslaugas – 
 užtraukia baudą
 įmonių darbuotojams, taip pat individualia veikla besiverčiantiems fiziniams
 asmenims nuo penkių iki vieno šimto keturiasdešimt keturių eurų ir
@@ -14324,18 +14283,18 @@ devynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-713, 98.04.21, Žin., 1998,
-Nr. 44-1198 (98.05.13)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-713,
+98.04.21, Žin., 1998, Nr. 44-1198 (98.05.13)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -14378,8 +14337,8 @@ lygių (MGL), –
 užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki penkių tūkstančių
 septynių šimtų devyniasdešimt dviejų eurų su šių prekių konfiskavimu ir
-gabenimo priemonės, kuria šios prekės buvo neteisėtai gabenamos, konfiskavimu
-arba be jos konfiskavimo.
+gabenimo priemonės, kuria šios prekės buvo neteisėtai gabenamos, konfiskavimu arba
+be jos konfiskavimo.
 Šio straipsnio
 pirmojoje dalyje numatyti veiksmai, padaryti asmens, bausto administracine
 nuobauda už šio straipsnio pirmojoje dalyje numatytus pažeidimus, –
@@ -14405,8 +14364,8 @@ ir gabenimo priemonės, kuria šios prekės buvo neteisėtai gabenamos,
 konfiskavimu arba be jos konfiskavimo.
 Įstatymuose
 nustatytos turgavietę administruojančio fizinio asmens, Lietuvos Respublikoje
-įsteigto juridinio asmens vadovo, užsienio juridinio asmens ar jo filialo vadovo
-arba jų įgalioto asmens pareigos vykdyti jų administruojamų turgaviečių
+įsteigto juridinio asmens vadovo, užsienio juridinio asmens ar jo filialo
+vadovo arba jų įgalioto asmens pareigos vykdyti jų administruojamų turgaviečių
 stebėseną (imtis visų teisinių ir organizacinių priemonių) siekiant, kad jų
 administruojamoje turgavietėje nebūtų prekiaujama tabako gaminiais ir (ar)
 alkoholiniais gėrimais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos
@@ -14423,31 +14382,31 @@ vadovui nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų
 vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti
 mokesčius.
 Straipsnio pakeitimai: 
-Nr. I-387, 1994.02.10, Žin., 1994,
-Nr. 14-228 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
-Nr. VIII-604, 98.01.08, Žin., 1998,
-Nr. 6-116 (98.01.16)
-Nr. VIII-1235, 99.06.17, Žin., 1999,
-Nr. 60-1946 (99.07.09)
+Nr. I-387,
+1994.02.10, Žin., 1994, Nr. 14-228 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
+Nr. VIII-604,
+98.01.08, Žin., 1998, Nr. 6-116 (98.01.16)
+Nr. VIII-1235,
+99.06.17, Žin., 1999, Nr. 60-1946 (99.07.09)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
-Nr. XII-1736, 2015-05-21, paskelbta
-TAR 2015-06-01, i. k. 2015-08523
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
+Nr. XII-1736,
+2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08523
  
 1633
 straipsnis. Prekyba ar paslaugos be kasos aparatų
@@ -14465,12 +14424,12 @@ užtraukia baudą
 nuo septynių šimtų dvidešimt keturių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -14495,12 +14454,12 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14528,14 +14487,14 @@ užtraukia baudą
 šimtų dvidešimt keturių iki vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19)
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14578,14 +14537,14 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio septynių šimtų
 trisdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14626,14 +14585,14 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio septynių šimtų
 trisdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19)
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14656,10 +14615,10 @@ užtraukia baudą
 nuo septynių šimtų dvidešimt keturių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14681,16 +14640,16 @@ asmenims nuo keturiasdešimt trijų iki vieno šimto keturiasdešimt keturių eu
 ir pareigūnams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1037, 95.09.12, Žin., 1995,
-Nr. 79-1818 (95.09.27)
+Nr. I-1037,
+95.09.12, Žin., 1995, Nr. 79-1818 (95.09.27)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14713,10 +14672,10 @@ užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki keturių
 tūkstančių trijų šimtų keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14755,11 +14714,11 @@ Lietuvoje pagamintas prekes, bei fiziniai asmenys (vartotojai), gabenantys
 prekes, iš kurių kiekio (svorio, dydžio) akivaizdžiai matyti, kad jos skirtos
 asmeninėms kasdienėms reikmėms tenkinti.
 Straipsnio pakeitimai:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14785,10 +14744,10 @@ užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14846,29 +14805,25 @@ asmenims nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt
 devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-384, 2013-06-18, Žin., 2013,
-Nr. 68-3416 (2013-06-28),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XII-384,
+2013-06-18, Žin., 2013, Nr. 68-3416 (2013-06-28), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -14936,19 +14891,19 @@ ar be konfiskavimo.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-57, 1993.01.28, Žin., 1993,
-Nr. 5-90 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-57,
+1993.01.28, Žin., 1993, Nr. 5-90 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1827, 2015-06-23, paskelbta
-TAR 2015-07-01, i. k. 2015-10577 
+XII-1827,
+2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10577 
  
 165
 straipsnis. Prekybos ginklais ir šaudmenimis tvarkos pažeidimas 
@@ -14957,17 +14912,17 @@ ginklais ir šaudmenimis tvarkos pažeidimas –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -14977,27 +14932,27 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1652
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1653
 straipsnis. Prekybos antikvarinėmis kultūros vertybėmis taisyklių pažeidimas 
@@ -15007,12 +14962,12 @@ užtraukia
 įspėjimą arba baudą nuo vieno šimto keturiasdešimt keturių iki dviejų
 šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1180, 96.01.23, Žin., 1996,
-Nr. 14-353 (96.02.14)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1180,
+96.01.23, Žin., 1996, Nr. 14-353 (96.02.14)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15025,14 +14980,14 @@ nuo penkių iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957, 95.06.20,
+Žin., 1995, Nr. 55-1356 (95.07.05)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15045,14 +15000,14 @@ nuo penkių iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -15077,21 +15032,22 @@ eurų su civilinių pirotechnikos priemonių konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2007, 2015-11-12, paskelbta
-TAR 2015-11-23, i. k. 2015-18575, šiuo įstatymu
-įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-2007,
+2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18575, šiuo
+įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
+priede
  
 1672
 straipsnis. Civilinių pirotechnikos priemonių, kurių tiekimas rinkai, laikymas,
@@ -15119,17 +15075,18 @@ nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdeš
 devynių eurų su šių priemonių konfiskavimu.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2007, 2015-11-12, paskelbta
-TAR 2015-11-23, i. k. 2015-18575, šiuo įstatymu
-įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-2007,
+2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18575, šiuo
+įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
+priede
  
 1673
 straipsnis. Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo ir kitų
@@ -15171,8 +15128,8 @@ Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Straipsnio pakeitimai: 
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15184,10 +15141,10 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
 169
 straipsnis. Prekybos transporto priemonėmis tvarkos pažeidimas
@@ -15200,10 +15157,10 @@ eurų.
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -15226,8 +15183,8 @@ devynių eurų su valiutos konfiskavimu.
 Straipsnio pakeitimai: 
 Nr. I-1691, 1987.06.09, Žin., Nr.
 17-189 
-Nr. I-252, 1993.09.28, Žin., 1993,
-Nr. 52-993 
+Nr. I-252,
+1993.09.28, Žin., 1993, Nr. 52-993 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15253,16 +15210,16 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt aštuonių
 eurų su naftos produktų konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15290,13 +15247,13 @@ padalinių vadovams nuo aštuonių šimtų šešiasdešimt aštuonių iki aštuo
 tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų su biokuro, bioalyvos,
 naftos produktų konfiskavimu arba be konfiskavimo.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1877, 00.07.18, Žin., 2000,
-Nr. 64-1942 (00.07.31)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1877,
+00.07.18, Žin., 2000, Nr. 64-1942 (00.07.31)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15318,10 +15275,10 @@ nuo aštuonių šimtų šešiasdešimt aštuonių iki aštuonių tūkstančių �
 aštuoniasdešimt aštuonių eurų su biokuro, bioalyvos, naftos produktų
 konfiskavimu arba be konfiskavimo.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1877, 00.07.18, Žin., 2000,
-Nr. 64-1942 (00.07.31)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1877,
+00.07.18, Žin., 2000, Nr. 64-1942 (00.07.31)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15358,22 +15315,20 @@ užtraukia baudą nuo
 septynių šimtų dvidešimt keturių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-XI-1492, 2011-06-21, Žin., 2011,
-Nr. 85-4136 (2011-07-13)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XI-1492,
+2011-06-21, Žin., 2011, Nr. 85-4136 (2011-07-13)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1767, 2015-06-09, paskelbta
-TAR 2015-06-16, i. k. 2015-09609
+Nr. XII-1767,
+2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09609
  
 1714
 straipsnis. Akcizo mokesčiu neapmokestinamų suskystintų dujų panaudojimas kaip
@@ -15394,16 +15349,14 @@ aštuoniasdešimt devynių eurų ir pareigūnams, atsakingiems už transporto
 priemonių eksploatavimą, – nuo penkių šimtų septyniasdešimt devynių iki vieno
 tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-108, 2000 12 21, Žin., 2000,
-Nr. 113-3610 (2000 12 30)
+Nr. IX-108,
+2000 12 21, Žin., 2000, Nr. 113-3610 (2000 12 30)
 Straipsnio pakeitimai:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15486,16 +15439,16 @@ devynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58- 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58- 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15533,29 +15486,29 @@ penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12) 
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. IX-463,
-2001-07-12, Žin., 2001, Nr. 66-2409 (2001-08-01)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12) 
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. IX-463, 2001-07-12, Žin., 2001, Nr. 66-2409
+(2001-08-01)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. XI-1952, 2012-03-29, Žin., 2012,
-Nr. 44-2145 (2012-04-14)
-Nr. XI-2173, 2012-06-29, Žin., 2012,
-Nr. 83-4347 (2012-07-14)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. XI-1952,
+2012-03-29, Žin., 2012, Nr. 44-2145 (2012-04-14)
+Nr. XI-2173,
+2012-06-29, Žin., 2012, Nr. 83-4347 (2012-07-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15605,16 +15558,16 @@ vadovui ar kitam įstatymuose arba steigimo dokumentuose nurodytam asmeniui nuo
 dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų
 devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-57, 1993.01.28, Žin., 1993,
-Nr. 5-90 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-57,
+1993.01.28, Žin., 1993, Nr. 5-90 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20)
 Nr.
 IX-2168, 2004-04-27, Žin., 2004,
 Nr. 72-2491 (2004-04-30), šis
@@ -15624,15 +15577,15 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1447, 2011-06-16, Žin., 2011,
-Nr. 78-3795 (2011-06-30)
+Nr. XI-1447,
+2011-06-16, Žin., 2011, Nr. 78-3795 (2011-06-30)
 Nr.
-XII-314, 2013-05-16, Žin., 2013,
-Nr. 57-2853 (2013-06-01)
+XII-314,
+2013-05-16, Žin., 2013, Nr. 57-2853 (2013-06-01)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1699, 2015-05-14, paskelbta
-TAR 2015-05-27, i. k. 2015-08121 
+Nr. XII-1699,
+2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08121 
  
 1723
 straipsnis. Valstybinės mokesčių inspekcijos vadovų ir kitų pareigūnų nurodymų
@@ -15644,12 +15597,12 @@ biudžetą apskaičiavimo bei mokėjimo klausimais nevykdymas, taip pat trukdyma
 užtraukia baudą nuo
 keturiolikos iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15678,15 +15631,13 @@ užtraukia baudą
 finansų rinkos institucijų vadovams nuo dviejų šimtų aštuoniasdešimt devynių
 iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-721, 94.12.21, Žin., 1995,
-Nr. 3-36 (95.01.06) 
-Nr. I-1602, 96.10.23, Žin., 1996,
-Nr. 105-2398 (96.11.02)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-721,
+94.12.21, Žin., 1995, Nr. 3-36 (95.01.06) 
+Nr. I-1602,
+96.10.23, Žin., 1996, Nr. 105-2398 (96.11.02)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15698,8 +15649,8 @@ užtraukia baudą
 įmonių registro tvarkymą vykdantiems asmenims nuo keturiolikos
 iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20) 
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20) 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15712,8 +15663,8 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki penkių tūkstančių septynių šimtų
 devyniasdešimt dviejų eurų.
 Straipsnio pakeitimai: 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20)
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15725,8 +15676,8 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki penkių tūkstančių septynių šimtų
 devyniasdešimt dviejų eurų.
 Straipsnio pakeitimai: 
-Nr. I-1174, 96.01.18, Žin., 1996,
-Nr. 9-218 (96.01.31) 
+Nr. I-1174,
+96.01.18, Žin., 1996, Nr. 9-218 (96.01.31) 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15734,17 +15685,15 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2012-01-01
 Straipsnio pakeitimai: 
-Nr. I-1457, 96.07.10, Žin., 1996,
-Nr. 73-1743 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1457,
+96.07.10, Žin., 1996, Nr. 73-1743 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1729
 straipsnis. Mokesčio mokėtojo registravimo duomenų pateikimo tvarkos pažeidimas
@@ -15763,8 +15712,8 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15789,14 +15738,14 @@ užtraukia baudą
 šimto keturiasdešimt keturių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2042, 2015-11-19, paskelbta
-TAR 2015-11-27, i. k. 2015-18856
+Nr. XII-2042,
+2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18856
  
 17211
 straipsnis. Komercinės ar ūkinės veiklos vykdymas neteisėtai naudojantis įmonės
@@ -15808,8 +15757,8 @@ fiziniams asmenims nuo penkių šimtų septyniasdešimt devynių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų su pajamų, gautų iš tokios
 veiklos, konfiskavimu.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -15823,8 +15772,8 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -15839,11 +15788,11 @@ biudžeto asignavimų valdytojams ir jiems pavaldžių biudžetinių įstaigų v
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15889,14 +15838,15 @@ iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų, įmon
 devyniasdešimt dviejų iki dešimties tūkstančių vieno šimto trisdešimt šešių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-278, 97.06.19, Žin., 1997,
-Nr. 64-1505 (97.07.04)
+Nr. VIII-278,
+97.06.19, Žin., 1997, Nr. 64-1505 (97.07.04)
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1321, 2011-04-14, Žin., 2011,
-Nr. 49-2373 (2011-04-28), šis įstatymas skirtas užtikrinti Europos Sąjungos
-teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1321,
+2011-04-14, Žin., 2011, Nr. 49-2373 (2011-04-28), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
+įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15912,13 +15862,13 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15946,12 +15896,12 @@ vadovams nuo
 vieno šimto keturiasdešimt keturių iki penkių šimtų septyniasdešimt devynių
 eurų.
 Straipsnio pakeitimai:
-Nr. VIII-839, 98.07.02, Žin., 1998,
-Nr. 68-1979 (98.07.31)
+Nr. VIII-839,
+98.07.02, Žin., 1998, Nr. 68-1979 (98.07.31)
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
-Nr. XI-1952, 2012-03-29, Žin., 2012,
-Nr. 44-2145 (2012-04-14)
+Nr. XI-1952,
+2012-03-29, Žin., 2012, Nr. 44-2145 (2012-04-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -15977,12 +15927,12 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
-Nr. VIII-1486, 99.12.21, Žin., 1999,
-Nr. 113-3286 (99.12.30)
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -15998,8 +15948,8 @@ užtraukia baudą
 nuo penkių tūkstančių septynių šimtų devyniasdešimt dviejų iki keturiolikos
 tūkstančių keturių šimtų aštuoniasdešimt vieno euro.
 Straipsnio pakeitimai:
-Nr. VIII-1081, 99.02.11, Žin., 1999,
-Nr. 23-649 (99.03.10)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16026,13 +15976,11 @@ užtraukia baudą
 šią produkciją superkančių įmonių vadovams nuo penkių šimtų septyniasdešimt
 devynių iki vieno tūkstančio septynių šimtų trisdešimt septynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1136, 99.04.08, Žin., 1999,
-Nr. 36-1066 (99.04.23)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. VIII-1136,
+99.04.08, Žin., 1999, Nr. 36-1066 (99.04.23)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16050,8 +15998,8 @@ užtraukia baudą
 įmonių, įstaigų ir organizacijų vadovams nuo vieno šimto keturiasdešimt keturių
 iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16088,13 +16036,11 @@ užtraukia baudą
 keturiasdešimt keturių iki vieno tūkstančio septynių šimtų trisdešimt septynių
 eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1486, 99.12.21, Žin., 1999,
-Nr. 113-3286 (99.12.30)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16108,8 +16054,8 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
@@ -16127,14 +16073,14 @@ užtraukia baudą
 įmonių valdybų nariams ar vadovams nuo dviejų šimtų aštuoniasdešimt devynių iki
 penkių šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Straipsnio
 pakeitimai:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16142,11 +16088,11 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
  
 17225
 straipsnis.
@@ -16165,12 +16111,12 @@ nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdeš
 devynių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-VIII-1750, 00.06.27, Žin., 2000,
-Nr. 56-1645 (00.07.12)
+VIII-1750,
+00.06.27, Žin., 2000, Nr. 56-1645 (00.07.12)
 Straipsnio pakeitimai:
 Nr.
-IX-1386, 2003-03-20, Žin., 2003,
-Nr. 35-1462 (2003-04-11)
+IX-1386,
+2003-03-20, Žin., 2003, Nr. 35-1462 (2003-04-11)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16190,12 +16136,12 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio vieno šimto
 penkiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-2051, 00.10.17, Žin., 2000,
-Nr. 92-2884 (00.10.31)
+Nr. VIII-2051,
+00.10.17, Žin., 2000, Nr. 92-2884 (00.10.31)
 Straipsnio pakeitimai:
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16243,11 +16189,9 @@ darbuotojams arba buvusiems darbuotojams ir Turto arba verslo vertintojų garbė
 teismo nariams arba buvusiems nariams nuo dviejų šimtų aštuoniasdešimt devynių
 iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -16275,8 +16219,8 @@ užtraukia baudą nuo
 vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-638, 2013-12-03, Žin., 2013,
-Nr. 130-6622 (2013-12-19)
+Nr. XII-638,
+2013-12-03, Žin., 2013, Nr. 130-6622 (2013-12-19)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -16291,8 +16235,8 @@ užtraukia baudą
 kelionių organizatoriui – fiziniam asmeniui ar kelionių organizatoriaus –
 juridinio asmens vadovui nuo vieno šimto iki trijų tūkstančių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-1873, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10773
+Nr. XII-1873,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10773
  
 17231
 straipsnis. Kliudymas Valstybinio turizmo departamento prie Ūkio ministerijos
@@ -16308,8 +16252,8 @@ duomenis, dokumentų nuslėpimas –
 užtraukia baudą
 nuo vieno šimto iki dviejų tūkstančių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-1873, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10773
+Nr. XII-1873,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10773
  
 173
 straipsnis. Neteisėtas vertimasis komercine, ūkine, finansine ar profesine
@@ -16349,23 +16293,23 @@ Vyriausybės nustatyti netiesioginiai apmokestinamų pajamų skaičiavimo metoda
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16415,18 +16359,18 @@ užtraukia baudą
 nuo penkių tūkstančių septynių šimtų devyniasdešimt dviejų iki vienuolikos
 tūkstančių penkių šimtų aštuoniasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1016, 2010-09-21, Žin., 2010,
-Nr. 118-5991 (2010-10-02)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1016,
+2010-09-21, Žin., 2010, Nr. 118-5991 (2010-10-02)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16453,12 +16397,12 @@ užtraukia baudą
 pareigūnams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-286, 1993.10.19, Žin., 1993,
-Nr. 56-1079
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-286,
+1993.10.19, Žin., 1993, Nr. 56-1079
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16475,10 +16419,10 @@ nuo dvidešimt aštuonių iki vieno tūkstančio keturių šimtų keturiasdešim
 aštuonių eurų su prekių, įgytų be dokumento ar suklastojus dokumentą,
 konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16486,17 +16430,15 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2012-01-01
 Straipsnio pakeitimai: 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
  
 1735
@@ -16536,22 +16478,18 @@ užtraukia baudą
 nuo aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių iki septyniolikos
 tūkstančių trijų šimtų septyniasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16571,8 +16509,8 @@ užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki penkių tūkstančių
 septynių šimtų devyniasdešimt dviejų eurų su šių prekių konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-387, 1994.02.10, Žin., 1994,
-Nr. 14-228
+Nr. I-387,
+1994.02.10, Žin., 1994, Nr. 14-228
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16584,8 +16522,8 @@ užtraukia įmonių
 vadovams baudą nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių
 aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-580, 94.07.21, Žin., 1994,
-Nr. 59-1164 (94.08.03)
+Nr. I-580,
+94.07.21, Žin., 1994, Nr. 59-1164 (94.08.03)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16593,12 +16531,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-631, 94.11.08, Žin., 1994,
-Nr. 88-1670 (94.11.16)
-Nr. I-1007, 95.07.04, Žin., 1995,
-Nr. 59-1473 (95.07.19)
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. I-631,
+94.11.08, Žin., 1994, Nr. 88-1670 (94.11.16)
+Nr. I-1007,
+95.07.04, Žin., 1995, Nr. 59-1473 (95.07.19)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
  
 1739
 straipsnis. Atsiskaitymų tvarkos pažeidimas
@@ -16619,12 +16557,12 @@ užtraukia baudą
 bankų vadovams nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki
 dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. I-910, 95.05.30, Žin., 1995,
-Nr. 48-1162 (95.06.09)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-403,
-2001-06-26, Žin., 2001, Nr. 62-2220 (2001-07-18)
+Nr. I-910,
+95.05.30, Žin., 1995, Nr. 48-1162 (95.06.09)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-403, 2001-06-26, Žin., 2001, Nr. 62-2220
+(2001-07-18)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16642,8 +16580,8 @@ užtraukia baudą
 prekybos makleriui (brokeriui) nuo vieno šimto keturiasdešimt keturių iki
 aštuonių šimtų šešiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1373, 96.06.06, Žin., 1996,
-Nr. 57-1345 (96.06.19) 
+Nr. I-1373,
+96.06.06, Žin., 1996, Nr. 57-1345 (96.06.19) 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16663,15 +16601,15 @@ užtraukia baudą nuo
 aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
-Nr. XI-1952, 2012-03-29, Žin., 2012,
-Nr. 44-2145 (2012-04-14)
+Nr. XI-1952,
+2012-03-29, Žin., 2012, Nr. 44-2145 (2012-04-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16687,20 +16625,20 @@ užtraukia baudą
 tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų tūkstančių aštuonių
 šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. XI-1952, 2012-03-29, Žin., 2012,
-Nr. 44-2145 (2012-04-14)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. XI-1952,
+2012-03-29, Žin., 2012, Nr. 44-2145 (2012-04-14)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
  
 17313
 straipsnis. Tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimas
@@ -16717,10 +16655,10 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1076, 99.02.11, Žin., 1999,
-Nr. 19-517 (99.02.24)
-Nr. XI-590, 2009-12-21, Žin., 2010,
-Nr. 1-5 (2010-01-05)
+Nr. VIII-1076,
+99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
+Nr. XI-590,
+2009-12-21, Žin., 2010, Nr. 1-5 (2010-01-05)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16747,12 +16685,12 @@ užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-815, 2006-09-19, Žin., 2006,
 Nr. 102-3937 (2006-09-26), šio įstatymo nuostatos yra suderintos su šio
 įstatymo priede nurodytais Europos Sąjungos teisės aktais.
@@ -16773,11 +16711,11 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16814,25 +16752,23 @@ užtraukia baudą
 depozitoriumų arba turto saugotojų vadovams nuo aštuonių šimtų šešiasdešimt
 aštuonių iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-872, 2010-06-03, Žin., 2010,
-Nr. 71-3549 (2010-06-19)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-872,
+2010-06-03, Žin., 2010, Nr. 71-3549 (2010-06-19)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-379, 2013-06-18, Žin., 2013,
-Nr. 68-3413 (2013-06-28)
+XII-379,
+2013-06-18, Žin., 2013, Nr. 68-3413 (2013-06-28)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr. XII-1468, 2014-12-18, paskelbta
@@ -16850,8 +16786,8 @@ oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarn
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -16873,8 +16809,8 @@ užtraukia baudą
 nuo keturių tūkstančių trijų šimtų keturiasdešimt keturių iki septynių
 tūkstančių dviejų šimtų keturiasdešimties eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-256,
-2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05 09)
+Nr. IX-256, 2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05
+09)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -16970,11 +16906,9 @@ X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -16994,11 +16928,9 @@ užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -17022,12 +16954,12 @@ areštą iki trisdešimties parų.
 Straipsnio pakeitimai:
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000, Nr.
-22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17041,12 +16973,12 @@ užtraukia baudą
 tėvams arba globėjams (rūpintojams) nuo keturiolikos iki dvidešimt aštuonių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17056,8 +16988,8 @@ galios
 Straipsnio pakeitimai: 
 Nr. I-1691, 1987.06.09, Žin.,
 1987, Nr. 17-189 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 176
 straipsnis. Neteisėtas šaudymas iš ginklo
@@ -17074,15 +17006,15 @@ užtraukia baudą
 nuo vieno šimto penkiolikos iki dviejų šimtų dviejų eurų su ginklo konfiskavimu
 ar be konfiskavimo.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -17111,14 +17043,14 @@ užtraukia
 dvidešimt aštuonių eurų su civilinių pirotechnikos priemonių konfiskavimu ar be
 konfiskavimo.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17155,20 +17087,20 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1425, 96.07.02, Žin., 1996,
-Nr. 67-1598 (96.07.17) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-2104, 2012-06-21, Žin., 2012,
-Nr. 78-4026 (2012-07-04)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1425,
+96.07.02, Žin., 1996, Nr. 67-1598 (96.07.17) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-2104,
+2012-06-21, Žin., 2012, Nr. 78-4026 (2012-07-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 1771
 straipsnis. Naminių alkoholinių gėrimų pardavimas ar kitoks realizavimas
@@ -17189,14 +17121,14 @@ konfiskavimu.
 Straipsnio pakeitimai: 
 Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-2104, 2012-06-21, Žin., 2012,
-Nr. 78-4026 (2012-07-04)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-2104,
+2012-06-21, Žin., 2012, Nr. 78-4026 (2012-07-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17207,20 +17139,20 @@ galios nuo 2016-01-01.
 Straipsnio pakeitimai: 
 Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
-Nr. I-1926, 1991.10.29, Žin., 1991,
-Nr. 32-858 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1425, 96.07.02, Žin., 1996,
-Nr. 67-1598 (96.07.17) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-2104, 2012-06-21, Žin., 2012,
-Nr. 78-4026 (2012-07-04)
+Nr. I-1926,
+1991.10.29, Žin., 1991, Nr. 32-858 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1425,
+96.07.02, Žin., 1996, Nr. 67-1598 (96.07.17) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-2104,
+2012-06-21, Žin., 2012, Nr. 78-4026 (2012-07-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 178
 straipsnis. Alkoholinių gėrimų gėrimas viešosiose vietose arba girto
@@ -17275,22 +17207,22 @@ nuo keturiasdešimt trijų iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. IX-2153, 2004-04-22, Žin., 2004,
-Nr. 68-2368 (2004-04-29)
-Nr. X-1751, 2008-10-14, Žin., 2008,
-Nr. 123-4661 (2008-10-25)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-2153,
+2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. X-1751,
+2008-10-14, Žin., 2008, Nr. 123-4661 (2008-10-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1746, 2015-05-21, paskelbta
-TAR 2015-06-01, i. k. 2015-08527
+Nr. XII-1746,
+2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08527
  
 1781
 straipsnis. Asmenų iki aštuoniolikos metų alkoholinių gėrimų vartojimas
@@ -17332,14 +17264,14 @@ galios
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
  
 180
 straipsnis.
@@ -17353,14 +17285,14 @@ nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -17381,14 +17313,14 @@ tėvams iki vieno šimto penkiolikos eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17401,8 +17333,8 @@ interesams –
 užtraukia
 įspėjimą arba baudą globėjui (rūpintojui) iki penkiasdešimt septynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -17427,8 +17359,8 @@ užtraukia
 bei įstaigų, kurių žinioje yra vaikas, vadovams, kitiems pareigūnams ir
 asmenims nuo dvidešimt aštuonių iki vieno šimto penkiolikos eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -17467,11 +17399,9 @@ teismo įpareigojimą išklausyti bendravimo su vaikais tobulinimo kursus –
 užtraukia baudą
 iki vieno šimto penkiolikos eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -17490,10 +17420,10 @@ užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų arba
 administracinį areštą iki trisdešimties parų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17520,10 +17450,10 @@ nukentėjusiuoju baudžiamajame procese.
 Straipsnio pakeitimai: 
 Nr. I-1691, 1987.06.09, Žin., 1987,
 Nr. 17-189 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -17552,19 +17482,19 @@ užtraukia
 įspėjimą arba baudą tėvams arba globėjams (rūpintojams) iki
 aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1438, 2011-06-09, Žin., 2011,
-Nr. 74-3542 (2011-06-18)
+Nr. XI-1438,
+2011-06-09, Žin., 2011, Nr. 74-3542 (2011-06-18)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17578,12 +17508,12 @@ nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-924, 1986.06.26, Žin.,
 1986, Nr. 18-184 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-290, 1993.10.26, Žin., 1993,
-Nr. 59-1142
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-290,
+1993.10.26, Žin., 1993, Nr. 59-1142
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17610,15 +17540,15 @@ nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17633,21 +17563,21 @@ kuriose pagal įstatymus draudžiama tai daryti, –
 užtraukia
 įspėjimą arba baudą nuo dvidešimties iki penkiasdešimties eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05) 
-Nr. I-1172, 96.01.16, Žin., 1996,
-Nr. 9-216 (96.01.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05) 
+Nr. I-1172,
+96.01.16, Žin., 1996, Nr. 9-216 (96.01.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1872, 2015-06-25, paskelbta
-TAR 2015-07-01, i. k. 2015-10506 
+XII-1872,
+2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10506 
  
 1852
 straipsnis. Prekybos tabako gaminiais ar susijusiais gaminiais pažeidimas
@@ -17676,15 +17606,15 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų su tabako gaminių ar susijusių gaminių konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1172, 96.01.16, Žin., 1996,
-Nr. 9-216 (96.01.31)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1172,
+96.01.16, Žin., 1996, Nr. 9-216 (96.01.31)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
  
 1853
 straipsnis. Kliudymas Narkotikų, tabako ir alkoholio kontrolės departamento
@@ -17698,10 +17628,10 @@ aštuoniasdešimt devynių eurų ir pareigūnams nuo vieno tūkstančio keturių
 keturiasdešimt aštuonių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt
 šešių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-432, 97.10.07, Žin., 1997,
-Nr. 94-2358 (97.10.17)
-Nr. XI-1183, 2010-11-30, Žin., 2010,
-Nr. 145-7436 (2010-12-11)
+Nr. VIII-432,
+97.10.07, Žin., 1997, Nr. 94-2358 (97.10.17)
+Nr. XI-1183,
+2010-11-30, Žin., 2010, Nr. 145-7436 (2010-12-11)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17716,16 +17646,16 @@ užtraukia baudą
 nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Straipsnio pakeitimai:
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
  
 1855
 straipsnis. Cigarų ir pypkių klubų steigimo tvarkos ir sąlygų aprašo
@@ -17785,8 +17715,8 @@ nuo dvidešimt aštuonių iki aštuoniasdešimt šešių eurų su tabako gamini�
 susijusių gaminių konfiskavimu.
 Kodeksas papildytas straipsniu:
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
  
 186
 straipsnis. Žinomai melagingas specialiųjų tarnybų iškvietimas
@@ -17797,12 +17727,12 @@ užtraukia baudą
 nuo aštuoniasdešimt šešių iki vieno šimto septyniasdešimt trijų eurų arba
 administracinį areštą iki trisdešimties parų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17820,12 +17750,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-659, 98.03.12, Žin., 1998,
-Nr. 32-851 (98.04.03)
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-659,
+98.03.12, Žin., 1998, Nr. 32-851 (98.04.03)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17838,10 +17768,10 @@ užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų arba
 administracinį areštą iki trisdešimties parų.
 Straipsnio pakeitimai: 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
@@ -17852,12 +17782,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. sausio 1 d.
 Straipsnio pakeitimai: 
-Nr. I-504, 94.06.23, Žin., 1994, Nr.
-51-949 (94.07.08)
-Nr. VIII-2023, 00.10.12, Žin., 2000,
-Nr. 92-2871 (00.10.31)
-Nr. IX-744, 2002-02-28, Žin., 2002,
-Nr. 29-1031 (2002-03-20)
+Nr. I-504,
+94.06.23, Žin., 1994, Nr. 51-949 (94.07.08)
+Nr. VIII-2023,
+00.10.12, Žin., 2000, Nr. 92-2871 (00.10.31)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
  
 1864
 straipsnis. Draudimo naudoti technines priemones teismo posėdžio metu
@@ -17875,10 +17805,10 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-504, 94.06.23, Žin., 1994,
-Nr. 51-949 (94.07.08)
-Nr. VIII-659, 98.03.12, Žin., 1998,
-Nr. 32-851 (98.04.03)
+Nr. I-504,
+94.06.23, Žin., 1994, Nr. 51-949 (94.07.08)
+Nr. VIII-659,
+98.03.12, Žin., 1998, Nr. 32-851 (98.04.03)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17892,8 +17822,8 @@ užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki keturiolikos
 tūkstančių keturių šimtų aštuoniasdešimt vieno euro.
 Straipsnio pakeitimai: 
-Nr. I-1141, 95.12.20, Žin., 1995,
-Nr. 104-2325 (95.12.22)
+Nr. I-1141,
+95.12.20, Žin., 1995, Nr. 104-2325 (95.12.22)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -17901,11 +17831,11 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. sausio 1 d.
 Kodeksas papildytas straipsniu:
-Nr. VIII-2023, 00.10.12, Žin., 2000,
-Nr. 92-2871 (00.10.31)
+Nr. VIII-2023,
+00.10.12, Žin., 2000, Nr. 92-2871 (00.10.31)
 Straipsnio pakeitimai:
-Nr. IX-744, 2002-02-28, Žin., 2002,
-Nr. 29-1031 (2002-03-20)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
  
 Keturioliktasis
 skirsnis
@@ -17914,8 +17844,8 @@ TEISĖS PAŽEIDIMAI, KURIAIS KĖSINAMASI Į
 NUSTATYTĄ
 VALDYMO TVARKĄ
 Kodeksas papildytas skirsniu:
-Nr. I-504, 94.06.23, Žin., 1994,
-Nr. 51-949
+Nr. I-504,
+94.06.23, Žin., 1994, Nr. 51-949
  
 187
 straipsnis. Pasipriešinimas policijos, Viešojo saugumo tarnybos pareigūnui ar
@@ -17953,23 +17883,23 @@ nugriovimas –
 užtraukia baudą
 nuo dvidešimt aštuonių iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr.
-VIII-1441, 99.11.25, Žin., 1999,
-Nr. 106-3061 (99.12.15)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+VIII-1441,
+99.11.25, Žin., 1999, Nr. 106-3061 (99.12.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-VIII-1651, 00.05.02, Žin., 2000,
-Nr. 41-1164 (00.05.19)
+VIII-1651,
+00.05.02, Žin., 2000, Nr. 41-1164 (00.05.19)
 Nr.
-VIII-2014, 00.10.10, Žin., 2000,
-Nr. 92-2866 (00.10.31)
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+VIII-2014,
+00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Nr. X-382, 2005-11-10, Žin., 2005,
 Nr. 137-4911 (2005-11-19)
 Nr. X-815, 2006-09-19, Žin., 2006,
@@ -17977,11 +17907,9 @@ Nr. 102-3937 (2006-09-26), šio įstatymo nuostatos yra suderintos su šio
 įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18000,14 +17928,14 @@ piliečiams nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų ir pareigūnams – nuo dviejų šimtų aštuoniasdešimt
 devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1399, 1991.06.04, Žin., 1991,
-Nr. 17-453 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1399,
+1991.06.04, Žin., 1991, Nr. 17-453 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18023,12 +17951,12 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt aštuonių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1931, 00.09.19, Žin., 2000,
-Nr. 85-2570 (00.10.11)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1931,
+00.09.19, Žin., 2000, Nr. 85-2570 (00.10.11)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18049,8 +17977,8 @@ užtraukia baudą
 pareigūnams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-216, 97.05.08, Žin., 1997,
-Nr. 41-996 (97.05.14)
+Nr. VIII-216,
+97.05.08, Žin., 1997, Nr. 41-996 (97.05.14)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18072,10 +18000,10 @@ pirmojoje dalyje numatytą pažeidimą, –
 užtraukia
 administracinį areštą nuo dvidešimties iki trisdešimties parų.
 Straipsnio pakeitimai:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18098,8 +18026,8 @@ užtraukia baudą
 pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo dviejų šimtų
 aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
 Nr. X-343, 2005-09-27, Žin., 2005,
 Nr. 122-4359 (2005-10-13)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18118,8 +18046,8 @@ užtraukia baudą
 darbdaviams ar jų įgaliotiems asmenims nuo aštuonių šimtų šešiasdešimt aštuonių
 iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18135,8 +18063,8 @@ pareigūnams nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimt
 šešiasdešimt aštuonių eurų, o kitiems asmenims – nuo vieno šimto keturiasdešimt
 keturių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18154,12 +18082,12 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18179,8 +18107,8 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18205,8 +18133,8 @@ vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devy
 eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-VIII-1735, 00.06.15, Žin., 2000,
-Nr. 54-1558 (00.07.05)
+VIII-1735,
+00.06.15, Žin., 2000, Nr. 54-1558 (00.07.05)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18229,8 +18157,8 @@ dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešim
 eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18271,11 +18199,9 @@ viešosios informacijos rengėjams, skleidėjams ir (ar) už visuomenės informa
 priemonės turinį atsakingiems asmenims nuo dviejų šimtų aštuoniasdešimt
 devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18298,8 +18224,8 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt aštuonių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1422, 2011-05-26, Žin., 2011,
-Nr. 72-3473 (2011-06-14)
+Nr. XI-1422,
+2011-05-26, Žin., 2011, Nr. 72-3473 (2011-06-14)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18325,8 +18251,8 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1422, 2011-05-26, Žin., 2011,
-Nr. 72-3473 (2011-06-14)
+Nr. XI-1422,
+2011-05-26, Žin., 2011, Nr. 72-3473 (2011-06-14)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18347,8 +18273,8 @@ užtraukia baudą nuo trijų šimtų
 iki šešių šimtų eurų.
 Kodeksas
 papildytas straipsniu:
-Nr. XII-2184, 2015-12-15, paskelbta
-TAR 2015-12-29, i. k. 2015-20888
+Nr. XII-2184,
+2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20888
  
 188
 straipsnis. Savavaldžiavimas
@@ -18362,12 +18288,12 @@ užtraukia
 septynių eurų ir baudą pareigūnams – nuo penkiasdešimt septynių iki vieno šimto
 keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18393,15 +18319,15 @@ administracijos vadovams – nuo septyniolikos iki trisdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. I-139, 1985.05.29, Žin.,
 1985, Nr. 16-178 
-Nr. I-1631, 1991.07.30, Žin., 1991,
-Nr. 23-600 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1631,
+1991.07.30, Žin., 1991, Nr. 23-600 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-890, 2002-05-16, Žin., 2002,
-Nr. 55-2165 (2002-06-05)
+IX-890,
+2002-05-16, Žin., 2002, Nr. 55-2165 (2002-06-05)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18421,12 +18347,12 @@ užtraukia baudą
 piliečiams nuo keturiolikos iki dvidešimt aštuonių eurų ir pareigūnams – nuo
 dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1631, 1991.07.30, Žin., 1991,
-Nr. 23-600 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1631,
+1991.07.30, Žin., 1991, Nr. 23-600 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2335, 2004-07-08, Žin., 2004,
 Nr. 115-4275 (2004-07-24)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18451,14 +18377,14 @@ užtraukia baudą
 pareigūnams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-901, 1990.12.28, Žin., 1991,
-Nr. 2-37 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-908, 95.05.30, Žin., 1995,
-Nr. 51-1244 (95.06.21)
+Nr. I-901,
+1990.12.28, Žin., 1991, Nr. 2-37 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-908,
+95.05.30, Žin., 1995, Nr. 51-1244 (95.06.21)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18483,14 +18409,14 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt
 aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-743, 94.12.28, Žin., 1995,
-Nr. 3-39 (95.01.06) 
-Nr. I-1180, 96.01.23, Žin., 1996,
-Nr. 14-353 (96.02.14)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-743,
+94.12.28, Žin., 1995, Nr. 3-39 (95.01.06) 
+Nr. I-1180,
+96.01.23, Žin., 1996, Nr. 14-353 (96.02.14)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -18507,10 +18433,10 @@ simbolio nešiojimas neturint tam teisės –
 užtraukia baudą
 iki keturiolikos eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18542,26 +18468,24 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki dviejų tūkstančių aštuonių šimtų
 devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-457, 1994.05.12, Žin., 1994,
-Nr. 39-704 (94.05.25) 
-Nr. I-1099, 95.11.28, Žin., 1995,
-Nr. 103-2294 (95.12.20) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-457,
+1994.05.12, Žin., 1994, Nr. 39-704 (94.05.25) 
+Nr. I-1099,
+95.11.28, Žin., 1995, Nr. 103-2294 (95.12.20) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1234, 2002-12-10, Žin., 2002,
-Nr. 123-5526 (2002-12-24)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1234,
+2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
 Nr. X-163, 2005-04-21, Žin., 2005,
 Nr. 58-2001 (2005-05-07)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18577,8 +18501,8 @@ renginių nustatytos tvarkos pažeidimas –
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18586,13 +18510,13 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03) 
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03) 
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1889
 straipsnis. Kliudymas Valstybinei kultūros paveldo komisijai, jos nariams
@@ -18619,8 +18543,8 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-880, 95.05.04, Žin., 1995,
-Nr. 43-1045 (95.05.24)
+Nr. I-880,
+95.05.04, Žin., 1995, Nr. 43-1045 (95.05.24)
 Nr. IX-2569, 2004-11-11, Žin., 2004,
 Nr. 171-6317 (2004-11-26)
 Nr.
@@ -18654,17 +18578,15 @@ piliečiams nuo dvidešimt aštuonių iki aštuoniasdešimt šešių eurų ir pa
 – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29) 
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29) 
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18678,10 +18600,10 @@ objekto teritorijoje ir sanitarinėje apsaugos zonoje rengimas –
 užtraukia baudą nuo vieno šimto keturiasdešimt keturių iki septynių
 šimtų dvidešimt keturių eurų arba administracinį areštą iki trisdešimties parų.
 Straipsnio pakeitimai:
-Nr. VIII-461, 97.10.16, Žin., 1997,
-Nr. 97-2446 (97.10.29)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-461,
+97.10.16, Žin., 1997, Nr. 97-2446 (97.10.29)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18704,8 +18626,8 @@ užtraukia baudą
 pareigūnams nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18726,8 +18648,8 @@ piliečiams nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų ir
 pareigūnams – nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
@@ -18758,14 +18680,14 @@ užtraukia baudą nuo
 vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
 Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18790,8 +18712,8 @@ pareigūnams – nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šim
 septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-VIII-1979, 00.10.10, Žin., 2000,
-Nr. 89-2745 (00.10.25)
+VIII-1979,
+00.10.10, Žin., 2000, Nr. 89-2745 (00.10.25)
 Straipsnio pakeitimai:
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
@@ -18818,8 +18740,8 @@ nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt 
 eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18842,14 +18764,12 @@ užtraukia baudą
 nuo dviejų šimtų dviejų iki keturių šimtų penkių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18884,8 +18804,8 @@ Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 Straipsnio pakeitimai: 
-Nr. XI-305, 2009-06-16, Žin., 2009,
-Nr. 77-3169 (2009-06-30)
+Nr. XI-305,
+2009-06-16, Žin., 2009, Nr. 77-3169 (2009-06-30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -18908,8 +18828,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1309, 2011-04-12, Žin., 2011,
-Nr. 49-2364 (2011-04-28)
+Nr. XI-1309,
+2011-04-12, Žin., 2011, Nr. 49-2364 (2011-04-28)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -18924,11 +18844,9 @@ užtraukia
 įspėjimą arba baudą nuo aštuoniasdešimt šešių iki vieno šimto keturiasdešimt
 keturių eurų arba administracinį areštą nuo penkiolikos iki trisdešimties parų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -19004,44 +18922,40 @@ užtraukia baudą
 keturiasdešimt keturių iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02) 
-Nr. VIII-104, 97.02.11, žin., 1997,
-Nr. 15-305(97.02.19) 
-Nr. VIII-713, 98.04.21, Žin., 1998,
-Nr. 44-1198 (98.05.13)
-Nr. VIII-851, 98.07.02, Žin., 1998,
-Nr. 67-1939 (98.07.29)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02) 
+Nr. VIII-104,
+97.02.11, žin., 1997, Nr. 15-305(97.02.19) 
+Nr. VIII-713,
+98.04.21, Žin., 1998, Nr. 44-1198 (98.05.13)
+Nr. VIII-851,
+98.07.02, Žin., 1998, Nr. 67-1939 (98.07.29)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1824, 2003-11-13, Žin., 2003,
 Nr. 112-4997 (2003-11-28), šis Įstatymas skirtas užtikrinti Europos Sąjungos
 teisės aktų, nurodytų šio Įstatymo priede, taikymą
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-384, 2013-06-18, Žin., 2013,
-Nr. 68-3416 (2013-06-28),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XII-384,
+2013-06-18, Žin., 2013, Nr. 68-3416 (2013-06-28), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19093,15 +19007,15 @@ septynių šimtų devyniasdešimt dviejų eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3745, 1990.03.07, Žin.,
 1990, Nr. 9-267 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -19109,8 +19023,8 @@ Nr. 73-2759 (2006-06-30), šis
 įstatymo priede, įgyvendinimą 
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19132,25 +19046,23 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų
 devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr.
-XII-384, 2013-06-18, Žin., 2013,
-Nr. 68-3416 (2013-06-28),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XII-384,
+2013-06-18, Žin., 2013, Nr. 68-3416 (2013-06-28), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19169,12 +19081,12 @@ užtraukia
 įspėjimą arba baudą nuo penkiasdešimt septynių iki dviejų šimtų aštuoniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -19234,14 +19146,14 @@ piliečiams nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų ir
 pareigūnams – nuo aštuoniasdešimt šešių iki vieno šimto septyniasdešimt trijų
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19263,30 +19175,30 @@ vietas be jos įsigijimo dokumentų –
 užtraukia baudą nuo
 dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
 1896
 straipsnis. Neteko galios nuo 2016-01-01.
 Straipsnio pakeitimai: 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
  
 1897
 straipsnis. Teisinės metrologijos reikalavimų pažeidimas
@@ -19348,10 +19260,10 @@ užsienio valstybių įmonių filialų Lietuvos Respublikoje vadovams ar jų
 įgaliotiems asmenims – nuo vieno tūkstančio keturių šimtų keturiasdešimt
 aštuonių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1019, 2007-01-16, Žin., 2007,
 Nr. 12-492 (2007-01-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
@@ -19374,8 +19286,8 @@ dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų ir
 pareigūnams – nuo vieno šimto keturiasdešimt keturių iki penkių šimtų
 septyniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19405,8 +19317,8 @@ aštuoniasdešimt devynių eurų, juridinių asmenų arba užsienio juridinių a
 ir kitų organizacijų filialų vadovams – nuo dviejų šimtų aštuoniasdešimt
 devynių iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-604, 98.01.08, Žin., 1998,
-Nr. 6-116 (98.01.16)
+Nr. VIII-604,
+98.01.08, Žin., 1998, Nr. 6-116 (98.01.16)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
@@ -19432,8 +19344,8 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-713, 98.04.21, Žin., 1998,
-Nr. 44-1198 (98.05.13)
+Nr. VIII-713,
+98.04.21, Žin., 1998, Nr. 44-1198 (98.05.13)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19458,8 +19370,8 @@ užtraukia baudą nuo
 penkių šimtų septyniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1081, 99.02.11, Žin., 1999,
-Nr. 23-649 (99.03.10)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19474,11 +19386,11 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -19521,15 +19433,15 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19565,17 +19477,17 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Straipsnio pakeitimai:
 Nr. X-1415, 2008-01-11, Žin., 2008,
 Nr. 11-375 (2008-01-26)
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
  
 18915
 straipsnis. Statinio projektavimas, vadovavimas statinio projekto rengimui,
@@ -19596,8 +19508,8 @@ Kodeksas papildytas straipsniu:
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Straipsnio pakeitimai:
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19668,15 +19580,14 @@ užtraukia baudą nuo
 penkių šimtų septyniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Straipsnio pakeitimai: 
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)(papildyta 9-10 dalimis)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)(papildyta 9-10 dalimis)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19684,12 +19595,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 191
 straipsnis. Neteisėtas perdavimas asmenims, laikomiems laisvės atėmimo vietose,
@@ -19713,15 +19624,15 @@ dirbinių, daiktų ir reikmenų konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai: 
 Nr. XI-1187, 1986.10.31, Žin.,
 1986, Nr. 31-321 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19744,15 +19655,15 @@ nuo dvidešimt aštuonių iki septyniasdešimt dviejų eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19768,13 +19679,13 @@ piliečiams nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturi
 eurų ir pareigūnams – nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų
 aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19794,9 +19705,9 @@ užtraukia baudą
 piliečiams nuo dvidešimt aštuonių iki keturiasdešimt trijų eurų ir pareigūnams
 – nuo penkiasdešimt septynių iki aštuoniasdešimt šešių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -19811,13 +19722,13 @@ pažeidimas –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19836,12 +19747,12 @@ laužo ir atliekų konfiskavimu arba be konfiskavimo.
 Straipsnio pakeitimai: 
 Nr. XI-870, 1986.05.28, Žin.,
 1986, Nr. 16-158 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-997, 95.07.03, Žin., 1995,
-Nr. 61-1529 (95.07.26)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-997,
+95.07.03, Žin., 1995, Nr. 61-1529 (95.07.26)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -19860,12 +19771,12 @@ penkių šimtų septyniasdešimt devynių iki vieno tūkstančio keturių šimt�
 keturiasdešimt aštuonių eurų su netauriųjų metalų laužo ir atliekų konfiskavimu
 ar be konfiskavimo.
 Straipsnio pakeitimai: 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -19876,10 +19787,10 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. sausio 1 d.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
  
 194
 straipsnis. Ginklo, šaudmenų nešiojimas, gabenimas, kai tai daro neblaivus,
@@ -19907,17 +19818,17 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų arba ginklo, šaudmenų konfiskavimą.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19925,13 +19836,13 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 195
 straipsnis. Ginklo registravimo (perregistravimo) terminų arba jo įrašymo į
@@ -19943,17 +19854,17 @@ pasikeitus gyvenamajai vietai tvarkos pažeidimas –
 užtraukia
 įspėjimą arba baudą iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -19984,15 +19895,15 @@ trečiojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo aštuoniasdešimt šešių iki vieno šimto septyniasdešimt trijų eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20010,8 +19921,8 @@ dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20021,28 +19932,28 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. liepos 25 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 1971
 straipsnis. Neteko galios nuo 2011 m. kovo 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 198
 straipsnis. Kliudymas policijos pareigūnams atlikti pavestas pareigas arba jų
@@ -20058,11 +19969,11 @@ užtraukia baudą
 šimto septyniasdešimt trijų eurų ir ginklininkams arba asmenims, atsakingiems
 už sprogmenų laikymą, – nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
@@ -20079,11 +19990,11 @@ užtraukia baudą
 asmenims, atsakingiems už ginklo ir šaudmenų išvežimą, nuo dvidešimt aštuonių
 iki penkiasdešimt septynių eurų su šių daiktų konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20099,8 +20010,8 @@ nuo penkiasdešimt septynių iki vieno šimto penkiolikos eurų su šių daiktų
 konfiskavimu.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20126,14 +20037,14 @@ kortelės arba paso ar su negaliojančiais asmens tapatybės kortele arba pasu, 
 užtraukia baudą
 nuo keturiolikos iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-1060, 2010-10-12, Žin., 2010,
-Nr. 125-6383 (2010-10-23)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-1060,
+2010-10-12, Žin., 2010, Nr. 125-6383 (2010-10-23)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20141,12 +20052,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2000 m. rugsėjo 26 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
  
 2011
 straipsnis. Neteisingų duomenų apie gautas pajamas įrašymas į išduodamas
@@ -20171,8 +20082,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki keturių šimtų trisdešimt keturių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-1099, 95.11.28, Žin., 1995,
-Nr. 103-2294 (95.12.20)
+Nr. I-1099,
+95.11.28, Žin., 1995, Nr. 103-2294 (95.12.20)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20191,8 +20102,8 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo keturiolikos iki dvidešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20213,8 +20124,8 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo dvidešimt aštuonių iki keturių šimtų trisdešimt keturių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-274, 2013-05-09, Žin., 2013,
-Nr. 54-2679 (2013-05-25)
+Nr. XII-274,
+2013-05-09, Žin., 2013, Nr. 54-2679 (2013-05-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20231,10 +20142,10 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-340, 1993.12.16, Žin., 1993,
-Nr. 73-1369
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-340,
+1993.12.16, Žin., 1993, Nr. 73-1369
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20255,11 +20166,11 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų arba nušalinimą nuo darbo (pareigų).
 Straipsnio pakeitimai:
-Nr. VIII-695, 98.04.08, Žin., 1998,
-Nr. 40-1066 (98.04.29)
+Nr. VIII-695,
+98.04.08, Žin., 1998, Nr. 40-1066 (98.04.29)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20267,12 +20178,12 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2003 m. sausio 1 d.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
  
 204
 straipsnis. Asmens tapatybės kortelės ar paso paėmimas kaip užstato 
@@ -20281,12 +20192,12 @@ kortelės ar paso paėmimas kaip užstato –
 užtraukia baudą
 nuo keturiolikos iki dvidešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-512, 2006-01-20, Žin., 2006,
 Nr. 17-606 (2006-02-11)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20306,8 +20217,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki dviejų šimtų aštuoniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. VIII-1076, 99.02.11, Žin., 1999,
-Nr. 19-517 (99.02.24)
+Nr. VIII-1076,
+99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
 Nr. X-512, 2006-01-20, Žin., 2006,
 Nr. 17-606 (2006-02-11)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20326,17 +20237,17 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo aštuoniasdešimt šešių iki vieno šimto septyniasdešimt trijų eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20352,8 +20263,8 @@ pirmojoje dalyje numatytą pažeidimą,–
 užtraukia baudą
 nuo keturiasdešimt trijų iki dviejų šimtų trisdešimt vieno euro.
 Straipsnio pakeitimai:
-Nr. VIII-461, 97.10.16, Žin., 1997,
-Nr. 97-2446 (97.10.29)
+Nr. VIII-461,
+97.10.16, Žin., 1997, Nr. 97-2446 (97.10.29)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20365,8 +20276,8 @@ užtraukia baudą
 nuo septyniasdešimt dviejų iki vieno šimto keturiasdešimt keturių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20383,19 +20294,17 @@ užtraukia
 įspėjimą arba baudą nuo septyniasdešimt dviejų iki dviejų šimtų aštuoniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-386, 1994.02.10, Žin., 1994,
-Nr. 14-227
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-386,
+1994.02.10, Žin., 1994, Nr. 14-227
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20403,17 +20312,15 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios nuo 2012-01-01
 Straipsnio pakeitimai: 
-Nr. I-386, 1994.02.10, Žin., 1994,
-Nr. 14-227
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-386,
+1994.02.10, Žin., 1994, Nr. 14-227
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2062
 straipsnis. Gyvenamojo ploto suteikimas užsieniečiams, neturintiems paso ar jį
@@ -20434,17 +20341,15 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki aštuonių šimtų šešiasdešimt
 aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-386, 1994.02.10, Žin., 1994,
-Nr. 14-227
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-386,
+1994.02.10, Žin., 1994, Nr. 14-227
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20463,20 +20368,18 @@ fiziniams asmenims, juridinių asmenų vadovams ar juridinių asmenų vadovų
 įgaliotiems asmenims už kiekvieną asmenį nuo penkių šimtų septyniasdešimt
 devynių iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-386, 1994.02.10, Žin., 1994,
-Nr. 14-227
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XI-2192, 2012-06-30, Žin., 2012,
-Nr. 82-4271 (2012-07-13), šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
+Nr. I-386,
+1994.02.10, Žin., 1994, Nr. 14-227
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-2192,
+2012-06-30, Žin., 2012, Nr. 82-4271 (2012-07-13), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20497,9 +20400,9 @@ eurų.
 Kodeksas
 papildytas straipsniu:
 Nr.
-XI-1549, 2011-06-28, Žin., 2011,
-Nr. 86-4175 (2011-07-13) ), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+XI-1549,
+2011-06-28, Žin., 2011, Nr. 86-4175 (2011-07-13) ), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20524,15 +20427,13 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Nr. XII-1236, 2014-10-16, paskelbta TAR
 2014-10-28, i. k. 2014-15013
  
@@ -20554,8 +20455,8 @@ užtraukia baudą
 darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt keturių iki
 penkių šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20570,12 +20471,12 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20599,8 +20500,8 @@ užtraukia baudą
 nuo vieno tūkstančio vieno šimto penkiasdešimt aštuonių iki dviejų tūkstančių
 aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
 Nr. IX-2430, 2004-08-23, Žin., 2004,
 Nr. 135-4896 (2004-09-04)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20657,11 +20558,11 @@ rinkimų komisijų ar referendumo komisijų nariams arba kitiems pareigūnams, t
 pat rinkimų ar referendumo stebėtojams – nuo vieno šimto keturiasdešimt keturių
 iki penkių šimtų septyniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. X-389, 2005-11-15, Žin., 2005,
 Nr. 143-5167 (2005-12-08)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20688,8 +20589,8 @@ užtraukia baudą
 pareigūnams nuo vieno šimto keturiasdešimt keturių iki dviejų tūkstančių
 aštuonių šimtų devyniasdešimt šešių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
 Nr. IX-2430, 2004-08-23, Žin., 2004,
 Nr. 135-4896 (2004-09-04)
 Nr. X-389, 2005-11-15, Žin., 2005,
@@ -20707,8 +20608,8 @@ nuo dvidešimt aštuonių iki dviejų šimtų aštuoniasdešimt devynių eurų, 
 komisijų ar referendumo komisijų nariams arba kitiems pareigūnams – nuo dviejų
 šimtų dviejų iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20726,8 +20627,8 @@ užtraukia
 rinkėjui baudą nuo
 dvidešimt aštuonių iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
 Nr. X-389, 2005-11-15, Žin., 2005,
 Nr. 143-5167 (2005-12-08)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -20751,12 +20652,12 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-1363, 2003-03-13, Žin., 2003,
-Nr. 28-1126 (2003-03-21)
+Nr. IX-1363,
+2003-03-13, Žin., 2003, Nr. 28-1126 (2003-03-21)
 Straipsnio pakeitimai:
-Nr. XI-2009, 2012-05-10, Žin., 2012,
-Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
+Nr. XI-2009,
+2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20831,8 +20732,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-2430, 2004-08-23, Žin., 2004,
 Nr. 135-4896 (2004-09-04)
 Straipsnio pakeitimai:
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20868,8 +20769,8 @@ Nr. 135-4896 (2004-09-04)
 Straipsnio pakeitimai:
 Nr. X-389, 2005-11-15, Žin., 2005,
 Nr. 143-5167 (2005-12-08)
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20928,11 +20829,11 @@ Nr. 135-4896 (2004-09-04)
 Straipsnio pakeitimai:
 Nr. X-389, 2005-11-15, Žin., 2005,
 Nr. 143-5167 (2005-12-08)
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
 Nr.
-XI-2101, 2012-06-21, Žin., 2012,
-Nr. 78-4023 (2012-07-04)
+XI-2101,
+2012-06-21, Žin., 2012, Nr. 78-4023 (2012-07-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -20976,8 +20877,8 @@ politinės partijos apskaitą atsakingam asmeniui ar politinės partijos
 pirmininkui nuo dvidešimt aštuonių iki aštuonių šimtų šešiasdešimt aštuonių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -21013,12 +20914,12 @@ savarankiškam politinės kampanijos dalyviui teikiančios telekomunikacijų
 bendrovės vadovui nuo vieno šimto keturiasdešimt keturių iki penkių
 šimtų septyniasdešimt devynių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
 Straipsnio pakeitimai:
 Nr.
-XI-2101, 2012-06-21, Žin., 2012,
-Nr. 78-4023 (2012-07-04)
+XI-2101,
+2012-06-21, Žin., 2012, Nr. 78-4023 (2012-07-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21050,9 +20951,9 @@ Europos Komisijos registruotiems Europos Sąjungos piliečių iniciatyvos
 organizatoriams nuo penkių šimtų septyniasdešimt devynių iki vieno tūkstančio
 keturių šimtų keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. XI-2009, 2012-05-10, Žin., 2012,
-Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
+Nr. XI-2009,
+2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -21073,14 +20974,14 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08) 
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08) 
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21117,18 +21018,18 @@ užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki penkių tūkstančių
 septynių šimtų devyniasdešimt dviejų eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-214, 1993.07.13, Žin., 1993,
-Nr. 30-683 
-Nr. I-391, 1994.02.15, Žin., 1994,
-Nr. 15-250 
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08)
-Nr. VIII-354, 97.07.01, Žin., 1997, Nr.
-69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-214,
+1993.07.13, Žin., 1993, Nr. 30-683 
+Nr. I-391,
+1994.02.15, Žin., 1994, Nr. 15-250 
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -21159,12 +21060,12 @@ užtraukia baudą
 nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki dviejų
 tūkstančių aštuonių šimtų devyniasdešimt šešių eurų su prekių (daiktų) konfiskavimu.
 Straipsnio pakeitimai:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21207,14 +21108,14 @@ netaikymui, –
 užtraukia
 įspėjimą arba baudą iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21270,12 +21171,12 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki dviejų tūkstančių trijų šimtų
 šešiolikos eurų su prekių (daiktų) konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
 X-1246, 2007-07-03, Žin., 2007,
 Nr. 81-3316 (2007-07-21, šis
@@ -21319,10 +21220,10 @@ nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki keturi
 tūkstančių keturių šimtų aštuoniasdešimt vieno euro su prekių (daiktų)
 konfiskavimu.
 Straipsnio pakeitimai:
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21336,8 +21237,8 @@ užtraukia baudą
 nuo vieno šimto keturiasdešimt keturių iki aštuonių šimtų šešiasdešimt aštuonių
 eurų.
 Kodeksas papildytas straipsniu:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -21360,8 +21261,8 @@ užtraukia
 keturiasdešimt keturių eurų su neteisėtai gabenamų daiktų
 konfiskavimu.
 Kodeksas papildytas straipsniu:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Straipsnio pakeitimai:
 Nr.
 IX-2424, 2004-08-23, Žin., 2004,
@@ -21390,8 +21291,8 @@ užtraukia baudą
 nuo aštuonių šimtų šešiasdešimt aštuonių iki dviejų tūkstančių aštuonių šimtų
 devyniasdešimt šešių eurų su grynųjų pinigų konfiskavimu ar be konfiskavimo.
 Kodeksas papildytas straipsniu:
-Nr. XI-1385, 2011-05-19, Žin., 2011,
-Nr. 68-3216 (2011-06-04)
+Nr. XI-1385,
+2011-05-19, Žin., 2011, Nr. 68-3216 (2011-06-04)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -21425,9 +21326,9 @@ fiziniams asmenims nuo šešiasdešimties iki vieno šimto penkiasdešimties eur
 juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto
 penkiasdešimties iki trijų šimtų eurų.
 Kodeksas papildytas straipsniu:
-Nr. XII-2421, 2016-06-09, paskelbta
-TAR 2016-06-22, i. k. 2016-17407, šiuo įstatymu įgyvendinamas
-Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-2421,
+2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17407, šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
  
 210
 straipsnis. Kontrabanda
@@ -21481,27 +21382,27 @@ eurų su kontrabandos daiktų, taip pat gabenimo ir kitų priemonių, skirtų
 kontrabandos daiktams per Lietuvos Respublikos valstybės sieną gabenti arba
 jiems slėpti, konfiskavimu ar be konfiskavimo.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-391, 1994.02.15, Žin., 1994,
-Nr. 15-250 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-391,
+1994.02.15, Žin., 1994, Nr. 15-250 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
+XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
  
 211 straipsnis.
 Tyčinis antspaudo (plombos) sužalojimas arba nuplėšimas
@@ -21512,23 +21413,23 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-391, 1994.02.15, Žin., 1994,
-Nr. 15-250 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-391,
+1994.02.15, Žin., 1994, Nr. 15-250 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21549,23 +21450,23 @@ du šimtus aštuoniasdešimt devynis eurus.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232 
-Nr. I-751, 1990.11.06, Žin., 1990,
-Nr. 32-776 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1594, 96.10.22, Žin., 1996,
-Nr. 106-2428 (96.11.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232 
+Nr. I-751,
+1990.11.06, Žin., 1990, Nr. 32-776 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1594,
+96.10.22, Žin., 1996, Nr. 106-2428 (96.11.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-XI-1521, 2011-06-23, Žin., 2011,
-Nr. 86-4163 (2011-07-13)
+XI-1521,
+2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21595,25 +21496,25 @@ keturiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232 
-Nr. I-751, 1990.11.06, Žin., 1990,
-Nr. 32-776 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. I-1594, 96.10.22, Žin., 1996,
-Nr. 106-2428 (96.11.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232 
+Nr. I-751,
+1990.11.06, Žin., 1990, Nr. 32-776 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. I-1594,
+96.10.22, Žin., 1996, Nr. 106-2428 (96.11.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-XI-1521, 2011-06-23, Žin., 2011,
-Nr. 86-4163 (2011-07-13)
+XI-1521,
+2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21635,21 +21536,21 @@ eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1594, 96.10.22, Žin., 1996,
-Nr. 106-2428 (96.11.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1594,
+96.10.22, Žin., 1996, Nr. 106-2428 (96.11.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-XI-1521, 2011-06-23, Žin., 2011,
-Nr. 86-4163 (2011-07-13)
+XI-1521,
+2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21664,19 +21565,19 @@ dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1594, 96.10.22, Žin., 1996,
-Nr. 106-2428 (96.11.06)
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1594,
+96.10.22, Žin., 1996, Nr. 106-2428 (96.11.06)
 Nr.
-XI-1521, 2011-06-23, Žin., 2011,
-Nr. 86-4163 (2011-07-13)
+XI-1521,
+2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21692,14 +21593,14 @@ nuo dvidešimt aštuonių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1646, 2015-04-23, paskelbta
-TAR 2015-04-28, i. k. 2015-06454
+Nr. XII-1646,
+2015-04-23, paskelbta TAR 2015-04-28, i. k. 2015-06454
  
 2134
 straipsnis. Neteko
@@ -21707,8 +21608,8 @@ galios
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232
  
 2135
 straipsnis. Neteko
@@ -21716,8 +21617,8 @@ galios
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-16, 1990.03.12, Žin., 1990, Nr.
-9-232
+Nr. I-16,
+1990.03.12, Žin., 1990, Nr. 9-232
  
 2136 straipsnis. Karių
 teisėtų reikalavimų nevykdymas
@@ -21759,17 +21660,15 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21804,19 +21703,19 @@ užtraukia baudą
 nuo dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt
 devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-520, 97.11.18, Žin., 1997,
-Nr. 108-2735 (97.11.28)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-520,
+97.11.18, Žin., 1997, Nr. 108-2735 (97.11.28)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21830,13 +21729,13 @@ užtraukia baudą
 piliečiams iki dvidešimt aštuonių eurų ir pareigūnams – iki penkiasdešimt
 septynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
  
 2143
 straipsnis. Atsisakymas teikti informaciją masinės informacijos priemonės
@@ -21855,8 +21754,8 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą nuo
 penkiasdešimt septynių iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
@@ -21869,19 +21768,19 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30)
  
 2145
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 2146
 straipsnis. Respublikos Prezidento įžeidimas arba šmeižimas masinės
@@ -21898,8 +21797,8 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki aštuonių šimtų šešiasdešimt aštuonių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21928,8 +21827,8 @@ užtraukia baudą nuo
 penkių šimtų septyniasdešimt devynių iki dviejų tūkstančių dvidešimt septynių
 eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -21956,12 +21855,12 @@ užtraukia baudą
 nuo penkių šimtų septyniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų
 devyniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-881, 95.05.04, Žin., 1995,
-Nr. 43-1046 (95.05.24)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-881,
+95.05.04, Žin., 1995, Nr. 43-1046 (95.05.24)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -21979,10 +21878,10 @@ užtraukia baudą
 nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki penkių tūkstančių
 septynių šimtų devyniasdešimt dviejų eurų.
 Straipsnio pakeitimai:
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22013,17 +21912,15 @@ kūrinio ar fonogramos neteisėtoms kopijoms atgaminti ir (ar) platinti arba
 kurių paskirtis ir naudojimo tiesioginis tikslas – atgaminti ir (ar) platinti
 neteisėtas kūrinio ar fonogramos kopijas.
 Straipsnio pakeitimai: 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-643, 98.02.24, Žin., 1998,
-Nr. 25-637 (98.03.13)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-643,
+98.02.24, Žin., 1998, Nr. 25-637 (98.03.13)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22048,11 +21945,11 @@ užtraukia baudą nuo
 penkių šimtų septyniasdešimt devynių iki vieno tūkstančio keturių šimtų
 keturiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22060,28 +21957,24 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. (Neteko
 galios nuo 2009 m. liepos 28 d.)
 Straipsnio pakeitimai:
-Nr. VIII-520, 97.11.18, Žin., 1997,
-Nr. 108-2735 (97.11.28)
+Nr. VIII-520,
+97.11.18, Žin., 1997, Nr. 108-2735 (97.11.28)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
  
 21413
 straipsnis. (Neteko
 galios nuo 2009 m. liepos 28 d.)
 Straipsnio pakeitimai:
-Nr. VIII-520, 97.11.18, Žin., 1997,
-Nr. 108-2735 (97.11.28)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. VIII-520,
+97.11.18, Žin., 1997, Nr. 108-2735 (97.11.28)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
  
 21414
 straipsnis. Neteisėtas asmens duomenų tvarkymas
@@ -22098,8 +21991,8 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
 eurų.
 Straipsnio pakeitimai:
-Nr. VIII-687, 98.04.07, Žin., 1998,
-Nr. 40-1065 (98.04.29)
+Nr. VIII-687,
+98.04.07, Žin., 1998, Nr. 40-1065 (98.04.29)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -22120,8 +22013,8 @@ pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą nuo
 vieno šimto septyniasdešimt trijų iki trijų šimtų keturiasdešimt septynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-687, 98.04.07, Žin., 1998,
-Nr. 40-1065 (98.04.29)
+Nr. VIII-687,
+98.04.07, Žin., 1998, Nr. 40-1065 (98.04.29)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22140,8 +22033,8 @@ užtraukia baudą nuo
 dviejų šimtų aštuoniasdešimt devynių iki penkių šimtų septyniasdešimt devynių
 eurų.
 Straipsnio pakeitimai:
-Nr. VIII-687, 98.04.07, Žin., 1998,
-Nr. 40-1065 (98.04.29)
+Nr. VIII-687,
+98.04.07, Žin., 1998, Nr. 40-1065 (98.04.29)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -22158,8 +22051,8 @@ tikrinimus įstatymų ir kitų teisės aktų nustatyta tvarka –
 užtraukia baudą
 nuo dvidešimt aštuonių iki penkiasdešimt septynių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-687, 98.04.07, Žin., 1998,
-Nr. 40-1065 (98.04.29)
+Nr. VIII-687,
+98.04.07, Žin., 1998, Nr. 40-1065 (98.04.29)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -22174,8 +22067,8 @@ sugadinimas, jeigu tai padarė asmuo, kuriam ši informacija buvo patikėta
 užtraukia baudą
 iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai:
-Nr. VIII-1486, 99.12.21, Žin., 1999,
-Nr. 113-3286 (99.12.30)
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -22232,11 +22125,9 @@ Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
 Straipsnio
 pakeitimai:
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
@@ -22471,8 +22362,8 @@ Nr. 12-492 (2007-01-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
 įstatymo priede, įgyvendinimą
 Straipsnio pakeitimai:
-Nr. XI-801, 2010-05-11, Žin., 2010,
-Nr. 60-2960 (2010-05-25)
+Nr. XI-801,
+2010-05-11, Žin., 2010, Nr. 60-2960 (2010-05-25)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22606,12 +22497,12 @@ penkiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-382, 1994.01.20, Žin., 1994,
-Nr. 8-123
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-382,
+1994.01.20, Žin., 1994, Nr. 8-123
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22620,8 +22511,8 @@ skirsnis
 ADMINISTRACINIAI
 TEISĖS PAŽEIDIMAI VALSTYBĖS IR SAVIVALDYBIŲ AKCIJŲ PRIVATIZAVIMO SRITYJE
 Skirsnio pakeitimai:
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -22709,12 +22600,12 @@ organai (pareigūnai).
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
  
 217
 straipsnis. Organų, įgaliotų nagrinėti administracinių teisės pažeidimų bylas, 
@@ -22728,12 +22619,12 @@ ir kiti Lietuvos Respublikos įstatymai priskiria jų kompetencijai.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
  
 218
 straipsnis. Kolegialių organų, įgaliotų nagrinėti administracinių teisės
@@ -22749,12 +22640,12 @@ tvarką nustato Lietuvos Respublikos įstatymai.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
  
 219
 straipsnis. Kolegialių organų posėdžių teisėtumas
@@ -22766,10 +22657,10 @@ organų posėdžių teisėtumą nustato Lietuvos Respublikos įstatymai.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
 220
 straipsnis. Pareigūnų įgaliojimai
@@ -22782,8 +22673,8 @@ Pareigūnai,
 kodekso ypatingosios dalies numatytas administracines nuobaudas jiems suteiktų
 įgaliojimų ribose ir tik eidami tarnybines pareigas.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
  
 Šešioliktasis
 skirsnis
@@ -22840,57 +22731,57 @@ Nr. I-2574, 1988.09.28, Žin.,
 1988, Nr. 29-301 
 Nr. I-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-435, 1990.07.30, Žin., 1990,
-Nr. 23-565
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-853, 1990.12.11, Žin., 1990,
-Nr. 36-866
-Nr. I-1631, 1991.07.30, Žin., 1991,
-Nr. 23-600
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-57, 1993.01.28, Žin., 1993,
-Nr. 5-90 
-Nr. I-252, 1993.09.28, Žin., 1993,
-Nr. 52-993
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05) 
-Nr. I-1037, 95.09.12, Žin., 1995,
-Nr. 79-1818 (95.09.27)
-Nr. I-1281, 96.04.04, Žin., 1996,
-Nr. 37-930 (96.04.26)
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30)
-Nr. VIII-461, 97.10.16, Žin., 1997,
-Nr. 97-2446 (97.10.29)
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-435,
+1990.07.30, Žin., 1990, Nr. 23-565
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-853,
+1990.12.11, Žin., 1990, Nr. 36-866
+Nr. I-1631,
+1991.07.30, Žin., 1991, Nr. 23-600
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-57,
+1993.01.28, Žin., 1993, Nr. 5-90 
+Nr. I-252,
+1993.09.28, Žin., 1993, Nr. 52-993
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05) 
+Nr. I-1037,
+95.09.12, Žin., 1995, Nr. 79-1818 (95.09.27)
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30)
+Nr. VIII-461,
+97.10.16, Žin., 1997, Nr. 97-2446 (97.10.29)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr.
@@ -22908,34 +22799,29 @@ X-1246, 2007-07-03, Žin., 2007,
 Nr. 81-3316 (2007-07-21, šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą.
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis įstatymas
-skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
-įgyvendinimą
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr.
-XI-788, 2010-04-27, Žin., 2010,
-Nr. 55-2680 (2010-05-13)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XI-1968, 2012-04-12, Žin., 2012,
-Nr. 50-2441 (2012-04-28)
+XI-788,
+2010-04-27, Žin., 2010, Nr. 55-2680 (2010-05-13)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1968,
+2012-04-12, Žin., 2012, Nr. 50-2441 (2012-04-28)
 Nr.
-XI-2272, 2012-10-03, Žin., 2012,
-Nr. 122-6127 (2012-10-20)
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+XI-2272,
+2012-10-03, Žin., 2012, Nr. 122-6127 (2012-10-20)
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 222 straipsnis. Savivaldybių vykdomosios institucijos
 Savivaldybių
@@ -22995,50 +22881,49 @@ Nr. XI-501, 1985.11.28,
 Žin., 1985, Nr. 33-370 
 Nr. XI-924, 1986.06.26,
 Žin., 1986, Nr. 18-184 
-Nr. I-435, 1990.07.30, Žin., 1990,
-Nr. 23-565 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-57, 1993.01.28, Žin., 1993,
-Nr. 5-90 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. I-1037, 95.09.12, Žin., 1995,
-Nr. 79-1818 (95.09.27)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
-Nr. IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+Nr. I-435,
+1990.07.30, Žin., 1990, Nr. 23-565 
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-57,
+1993.01.28, Žin., 1993, Nr. 5-90 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. I-1037,
+95.09.12, Žin., 1995, Nr. 79-1818 (95.09.27)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
+Nr. IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. X-906, 2006-11-16, Žin., 2006,
 Nr. 132-4986 (2006-12-05), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1968, 2012-04-12, Žin., 2012,
-Nr. 50-2441 (2012-04-28)
-Nr. XI-2272, 2012-10-03, Žin., 2012,
-Nr. 122-6127 (2012-10-20)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1968,
+2012-04-12, Žin., 2012, Nr. 50-2441 (2012-04-28)
+Nr. XI-2272,
+2012-10-03, Žin., 2012, Nr. 122-6127 (2012-10-20)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1237, 2014-10-16, paskelbta
 TAR 2014-10-22, i. k. 2014-14520
-Nr. XII-1920, 2015-06-30, paskelbta
-TAR 2015-07-09, i. k. 2015-11183
+Nr. XII-1920,
+2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11183
  
 223
 straipsnis. Neteko
@@ -23048,10 +22933,10 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
 2231
 straipsnis. Neteko
@@ -23059,8 +22944,8 @@ galios
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 224
 straipsnis. Rajonų (miestų) apylinkių teismai (apylinkių teismų teisėjai)
@@ -23180,167 +23065,167 @@ Nr. XI-1788, 1987.07.29, Žin.,
 1987, Nr. 21-261 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-751, 1990.11.06, Žin., 1990,
-Nr. 32-776 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-901, 1990.12.28, Žin., 1991,
-Nr. 2-37 
-Nr. I-1026, 1991.01.31, Žin., 1991,
-Nr. 6-162 
-Nr. I-1399, 1991.06.04, Žin., 1991,
-Nr. 17-453 
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568 
-Nr. I-1631, 1991.07.30, Žin., 1991,
-Nr. 23-600 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-57, 1993.01.28, Žin., 1993,
-Nr. 5-90 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-286, 1993.10.19, Žin., 1993,
-Nr. 56-1079 
-Nr. I-340, 1993.12.16, Žin., 1993,
-Nr. 73-1369 
-Nr. I-387, 1994.02.10, Žin., 1994,
-Nr. 14-228 
-Nr. I-454, 1994.05.10, Žin., 1994,
-Nr. 37-668 
-Nr. I-457, 1994.05.12, Žin., 1994,
-Nr. 39-704 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-580, 1994.07.21, Žin., 1994,
-Nr. 59-1164 
-Nr. I-625, 1994.11.03, Žin., 1994,
-Nr. 88-1668 
-Nr. I-631, 94.11.08, Žin., 1994,
-Nr. 88-1670 (94.11.16)
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03) 
-Nr. I-908, 95.05.30, Žin., 1995,
-Nr. 51-1244 (95.06.21) 
-Nr. I-910, 95.05.30, Žin., 1995,
-Nr. 48-1162 (95.06.09) 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20) 
-Nr. I-1099, 95.11.28, Žin., 1995,
-Nr. 103-2294 (95.12.20) 
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29) 
-Nr. I-1141, 95.12.20, Žin., 1995,
-Nr. 104-2325 (95.12.22) 
-Nr. I-1180, 96.01.23, Žin., 1996,
-Nr. 14-353 (96.02.14) 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28) 
-Nr. I-1281, 96.04.04, Žin., 1996,
-Nr. 37-930 (96.04.26) 
-Nr. I-1341, 96.05.16, Žin., 1996,
-Nr. 57-1334 (96.06.19)
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-216, 97.05.08, Žin., 1997,
-Nr. 41-996 (97.05.14)
-Nr. VIII-278, 97.06.19, Žin., 1997,
-Nr. 64-1505 (97.07.04)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-432, 97.10.07, Žin., 1997,
-Nr. 94-2358 (97.10.17)
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
-Nr. VIII-461, 97.10.16, Žin., 1997,
-Nr. 97-2446 (97.10.29)
-Nr. VIII-520, 97.11.18, Žin., 1997,
-Nr. 108-2735 (97.11.28)
-Nr. VIII-604, 98.01.08, Žin., 1998,
-Nr. 6-116 (98.01.16)
-Nr. VIII-620, 98.02.03, Žin., 1998,
-Nr. 16-377 (98.02.13)
-Nr. VIII-638, 98.02.24, Žin., 1998,
-Nr. 25-634 (98.03.13)
-Nr. VIII-678, 98.03.24, Žin., 1998,
-Nr. 33-874 (98.04.08)
-Nr. VIII-687, 98.04.07, Žin., 1998,
-Nr. 40-1065 (98.04.29)
-Nr. VIII-695, 98.04.08, Žin., 1998,
-Nr. 40-1066 (98.04.29)
-Nr. VIII-713, 98.04.21, Žin., 1998,
-Nr. 44-1198 (98.05.13)
-Nr. VIII-990, 98.12.21, Žin., 1999,
-Nr. 3-58 (99.01.08)
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
-Nr. VIII-1076, 99.02.11, Žin., 1999,
-Nr. 19-517 (99.02.24)
-Nr. VIII-1081, 99.02.11, Žin., 1999,
-Nr. 23-649 (99.03.10)
-Nr. VIII-1136, 99.04.08, Žin., 1999,
-Nr. 36-1066 (99.04.23)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. VIII-1486, 99.12.21, Žin., 1999,
-Nr. 113-3286 (99.12.30)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-751,
+1990.11.06, Žin., 1990, Nr. 32-776 
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-901,
+1990.12.28, Žin., 1991, Nr. 2-37 
+Nr. I-1026,
+1991.01.31, Žin., 1991, Nr. 6-162 
+Nr. I-1399,
+1991.06.04, Žin., 1991, Nr. 17-453 
+Nr. I-1573,
+1991.07.18, Žin., 1991, Nr. 22-568 
+Nr. I-1631,
+1991.07.30, Žin., 1991, Nr. 23-600 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-57,
+1993.01.28, Žin., 1993, Nr. 5-90 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-286,
+1993.10.19, Žin., 1993, Nr. 56-1079 
+Nr. I-340,
+1993.12.16, Žin., 1993, Nr. 73-1369 
+Nr. I-387,
+1994.02.10, Žin., 1994, Nr. 14-228 
+Nr. I-454,
+1994.05.10, Žin., 1994, Nr. 37-668 
+Nr. I-457,
+1994.05.12, Žin., 1994, Nr. 39-704 
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-580,
+1994.07.21, Žin., 1994, Nr. 59-1164 
+Nr. I-625,
+1994.11.03, Žin., 1994, Nr. 88-1668 
+Nr. I-631,
+94.11.08, Žin., 1994, Nr. 88-1670 (94.11.16)
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03) 
+Nr. I-908,
+95.05.30, Žin., 1995, Nr. 51-1244 (95.06.21) 
+Nr. I-910,
+95.05.30, Žin., 1995, Nr. 48-1162 (95.06.09) 
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20) 
+Nr. I-1099,
+95.11.28, Žin., 1995, Nr. 103-2294 (95.12.20) 
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29) 
+Nr. I-1141,
+95.12.20, Žin., 1995, Nr. 104-2325 (95.12.22) 
+Nr. I-1180,
+96.01.23, Žin., 1996, Nr. 14-353 (96.02.14) 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28) 
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26) 
+Nr. I-1341,
+96.05.16, Žin., 1996, Nr. 57-1334 (96.06.19)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-216,
+97.05.08, Žin., 1997, Nr. 41-996 (97.05.14)
+Nr. VIII-278,
+97.06.19, Žin., 1997, Nr. 64-1505 (97.07.04)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-432,
+97.10.07, Žin., 1997, Nr. 94-2358 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
+Nr. VIII-461,
+97.10.16, Žin., 1997, Nr. 97-2446 (97.10.29)
+Nr. VIII-520,
+97.11.18, Žin., 1997, Nr. 108-2735 (97.11.28)
+Nr. VIII-604,
+98.01.08, Žin., 1998, Nr. 6-116 (98.01.16)
+Nr. VIII-620,
+98.02.03, Žin., 1998, Nr. 16-377 (98.02.13)
+Nr. VIII-638,
+98.02.24, Žin., 1998, Nr. 25-634 (98.03.13)
+Nr. VIII-678,
+98.03.24, Žin., 1998, Nr. 33-874 (98.04.08)
+Nr. VIII-687,
+98.04.07, Žin., 1998, Nr. 40-1065 (98.04.29)
+Nr. VIII-695,
+98.04.08, Žin., 1998, Nr. 40-1066 (98.04.29)
+Nr. VIII-713,
+98.04.21, Žin., 1998, Nr. 44-1198 (98.05.13)
+Nr. VIII-990,
+98.12.21, Žin., 1999, Nr. 3-58 (99.01.08)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
+Nr. VIII-1076,
+99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
+Nr. VIII-1136,
+99.04.08, Žin., 1999, Nr. 36-1066 (99.04.23)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
 Nr.
-VIII-1735, 00.06.15, Žin., 2000,
-Nr. 54-1558 (00.07.05)
+VIII-1735,
+00.06.15, Žin., 2000, Nr. 54-1558 (00.07.05)
 Nr.
-VIII-1750, 00.06.27, Žin., 2000,
-Nr. 56-1645 (00.07.12)
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+VIII-1750,
+00.06.27, Žin., 2000, Nr. 56-1645 (00.07.12)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 Nr.
-VIII-1979, 00.10.10, Žin., 2000,
-Nr. 89-2745 (00.10.25)
-Nr. VIII-2023, 00.10.12, Žin., 2000,
-Nr. 92-2871 (00.10.31)
-Nr. VIII-2051, 00.10.17, Žin., 2000,
-Nr. 92-2884 (00.10.31)
-Nr. IX-108, 2000 12 21, Žin., 2000,
-Nr. 113-3610 (2000 12 30)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-256,
-2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05 09)
-Nr. IX-651, 2001-12-13, Žin., 2001,
-Nr. 112-4071 (2001-12-30)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
-Nr. IX-744, 2002-02-28, Žin., 2002,
-Nr. 29-1031 (2002-03-20)
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+VIII-1979,
+00.10.10, Žin., 2000, Nr. 89-2745 (00.10.25)
+Nr. VIII-2023,
+00.10.12, Žin., 2000, Nr. 92-2871 (00.10.31)
+Nr. VIII-2051,
+00.10.17, Žin., 2000, Nr. 92-2884 (00.10.31)
+Nr. IX-108,
+2000 12 21, Žin., 2000, Nr. 113-3610 (2000 12 30)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-256, 2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05
+09)
+Nr. IX-651,
+2001-12-13, Žin., 2001, Nr. 112-4071 (2001-12-30)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. IX-1288, 2002-12-10, Žin., 2002,
-Nr. 124-5629 (2002-12-27)
-Nr. IX-1363, 2003-03-13, Žin., 2003,
-Nr. 28-1126 (2003-03-21)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1288,
+2002-12-10, Žin., 2002, Nr. 124-5629 (2002-12-27)
+Nr. IX-1363,
+2003-03-13, Žin., 2003, Nr. 28-1126 (2003-03-21)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
 Nr. IX-1824, 2003-11-13, Žin., 2003,
@@ -23397,78 +23282,72 @@ Nr. 123-4661 (2008-10-25)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1385, 2011-05-19, Žin., 2011,
-Nr. 68-3216 (2011-06-04)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XI-1551, 2011-06-28, Žin., 2011,
-Nr. 91-4326 (2011-07-19), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1385,
+2011-05-19, Žin., 2011, Nr. 68-3216 (2011-06-04)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1551,
+2011-06-28, Žin., 2011, Nr. 91-4326 (2011-07-19), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1902, 2011-12-22, Žin., 2011,
 Nr. 163-7778 (2011-12-31),
 šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 
-Nr. XI-2009, 2012-05-10, Žin., 2012,
-Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
-Nr. XII-274, 2013-05-09, Žin., 2013,
-Nr. 54-2679 (2013-05-25)
-Nr. XII-703, 2013-12-19, Žin., 2013,
-Nr. 140-7073 (2013-12-30)
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
-Nr. XII-486, 2013-07-02, Žin., 2013,
-Nr. 76-3855 (2013-07-16)
+Nr. XI-2009,
+2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-274,
+2013-05-09, Žin., 2013, Nr. 54-2679 (2013-05-25)
+Nr. XII-703,
+2013-12-19, Žin., 2013, Nr. 140-7073 (2013-12-30)
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
+Nr. XII-486,
+2013-07-02, Žin., 2013, Nr. 76-3855 (2013-07-16)
 Nr.
-XII-389, 2013-06-18, Žin., 2013,
-Nr. 68-3418 (2013-06-28)
-Nr. XII-638, 2013-12-03, Žin., 2013,
-Nr. 130-6622 (2013-12-19)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+XII-389,
+2013-06-18, Žin., 2013, Nr. 68-3418 (2013-06-28)
+Nr. XII-638,
+2013-12-03, Žin., 2013, Nr. 130-6622 (2013-12-19)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Nr. XII-1431, 2014-12-11, paskelbta
 TAR 2014-12-23, i. k. 2014-20556
 Nr. XII-1433, 2014-12-16, paskelbta
 TAR 2014-12-24, i. k. 2014-20628
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
 Nr.
-XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
+XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
-Nr. XII-1873, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10773
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
-Nr. XII-1876, 2015-06-25, paskelbta
-TAR 2015-07-09, i. k. 2015-11210
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
-Nr. XII-2184, 2015-12-15, paskelbta
-TAR 2015-12-29, i. k. 2015-20888
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
+Nr. XII-1873,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10773
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
+Nr. XII-1876,
+2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11210
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2184,
+2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20888
  
 225
 straipsnis. Policija
@@ -23577,52 +23456,52 @@ Nr. XI-1789, 1987.07.29,
 Žin., 1987, Nr. 21-262 
 Nr. XI-3058, 1989.07.03,
 Žin., 1989, Nr. 20-228 
-Nr. I-853, 1990.12.11, Žin., 1990,
-Nr. 36-866 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-386, 1994.02.10, Žin., 1994,
-Nr. 14-227 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-590, 1994.09.13, Žin., 1994,
-Nr. 73-1372 
-Nr. I-625, 1994.11.03, Žin., 1994,
-Nr. 88-1668 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-504, 97.11.11, Žin., 1997,
-Nr. 104-2625 (97.11.19)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. VIII-1076, 99.02.11, Žin., 1999,
-Nr. 19-517 (99.02.24)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
-Nr. VIII-2014, 00.10.10, Žin., 2000,
-Nr. 92-2866 (00.10.31)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-748, 2002-02-28, Žin., 2002,
-Nr. 23-852 (2002-03-01)
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
-Nr. IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+Nr. I-853,
+1990.12.11, Žin., 1990, Nr. 36-866 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-386,
+1994.02.10, Žin., 1994, Nr. 14-227 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-590,
+1994.09.13, Žin., 1994, Nr. 73-1372 
+Nr. I-625,
+1994.11.03, Žin., 1994, Nr. 88-1668 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-504,
+97.11.11, Žin., 1997, Nr. 104-2625 (97.11.19)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. VIII-1076,
+99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
+Nr. VIII-2014,
+00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-748,
+2002-02-28, Žin., 2002, Nr. 23-852 (2002-03-01)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
+Nr. IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
@@ -23645,46 +23524,46 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1309, 2011-04-12, Žin., 2011,
-Nr. 49-2364 (2011-04-28)
-Nr. XI-1549, 2011-06-28, Žin., 2011,
-Nr. 86-4175 (2011-07-13) ), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
-Nr. XII-585, 2013-11-07, Žin., 2013,
-Nr. 120-6054 (2013-11-23)
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1309,
+2011-04-12, Žin., 2011, Nr. 49-2364 (2011-04-28)
+Nr. XI-1549,
+2011-06-28, Žin., 2011, Nr. 86-4175 (2011-07-13) ), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
+Nr. XII-585,
+2013-11-07, Žin., 2013, Nr. 120-6054 (2013-11-23)
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr. XII-1237, 2014-10-16, paskelbta
 TAR 2014-10-22, i. k. 2014-14520
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 2251
 straipsnis. Neteko
 galios nuo 2002 m. kovo 1 d.
 Straipsnio pakeitimai: 
-Nr. I-908, 95.05.30, Žin., 1995,
-Nr. 51-1244 (95.06.21) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. IX-651, 2001-12-13, Žin., 2001,
-Nr. 112-4071 (2001-12-30)
-Nr. IX-748, 2002-02-28, Žin., 2002,
-Nr. 23-852 (2002-03-01)
+Nr. I-908,
+95.05.30, Žin., 1995, Nr. 51-1244 (95.06.21) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. IX-651,
+2001-12-13, Žin., 2001, Nr. 112-4071 (2001-12-30)
+Nr. IX-748,
+2002-02-28, Žin., 2002, Nr. 23-852 (2002-03-01)
  
 2252
 straipsnis. Valstybės sienos apsaugos tarnyba
@@ -23706,11 +23585,11 @@ skirti administracines nuobaudas turi teisę Valstybės sienos apsaugos tarnybos
 įstaigų ir struktūrinių padalinių vadai ir jų pavaduotojai bei kiti tam
 įgalioti Valstybės sienos apsaugos tarnybos pareigūnai.
 Kodeksas papildytas straipsniu:
-Nr. VIII-2014, 00.10.10, Žin., 2000,
-Nr. 92-2866 (00.10.31)
+Nr. VIII-2014,
+00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
 Straipsnio pakeitimai:
-Nr. IX-825, 2002-03-28, Žin., 2002,
-Nr. 33-1257 (2002-03-30)
+Nr. IX-825,
+2002-03-28, Žin., 2002, Nr. 33-1257 (2002-03-30)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-1381, 2007-12-18, Žin., 2007,
@@ -23721,20 +23600,18 @@ Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 Nr.
-XI-1549, 2011-06-28, Žin., 2011,
-Nr. 86-4175 (2011-07-13) ), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
-Nr. XII-585, 2013-11-07, Žin., 2013,
-Nr. 120-6054 (2013-11-23)
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+XI-1549,
+2011-06-28, Žin., 2011, Nr. 86-4175 (2011-07-13) ), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
+Nr. XII-585,
+2013-11-07, Žin., 2013, Nr. 120-6054 (2013-11-23)
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 2253
 straipsnis. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos 
@@ -23753,14 +23630,12 @@ prie Lietuvos Respublikos vidaus reikalų ministerijos vadovas, jo pavaduotojas,
 apygardų valdybų ir šių valdybų nusikalstamų veikų tyrimo skyrių vadovai ir tam
 įgalioti kitų administracijos padalinių vadovai.
 Kodeksas papildytas straipsniu:
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Straipsnio pakeitimai:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 226
 straipsnis.
@@ -23796,28 +23671,28 @@ septynių eurų ir pareigūnams – iki vieno šimto keturiasdešimt keturių eu
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1846, 2015-06-23, paskelbta
-TAR 2015-07-01, i. k. 2015-10591, šiuo įstatymu įgyvendinamas Europos Sąjungos
-teisės aktas, nurodytas šio įstatymo priede 
+XII-1846,
+2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10591, šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede 
  
 227
 straipsnis. Geležinkelių transporto kontrolės pareigūnai
@@ -23846,12 +23721,12 @@ teisę keleivių vežimą geležinkelių transportu vykdančių geležinkelio į
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -23859,13 +23734,11 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
  
 228
 straipsnis. Jūrų transporto organai
@@ -23893,20 +23766,18 @@ skiriama bauda negali būti didesnė kaip penki eurai.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-227, 2013-04-11, Žin., 2013,
-Nr. 42-2043 (2013-04-24), šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-227,
+2013-04-11, Žin., 2013, Nr. 42-2043 (2013-04-24), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -23940,12 +23811,12 @@ Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
@@ -23953,13 +23824,13 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-892, 2010-06-10, Žin., 2010,
-Nr. 72-3614 (2010-06-22)
-Nr. XII-227, 2013-04-11, Žin., 2013,
-Nr. 42-2043 (2013-04-24), šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XI-892,
+2010-06-10, Žin., 2010, Nr. 72-3614 (2010-06-22)
+Nr. XII-227,
+2013-04-11, Žin., 2013, Nr. 42-2043 (2013-04-24), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -23967,20 +23838,20 @@ TAR 2014-10-28, i. k. 2014-15013
 straipsnis. Neteko
 galios.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
-231 straipsnis. Civilinės
-aviacijos administracija
+231
+straipsnis. Civilinės aviacijos administracija
 Civilinės
 aviacijos administracija nagrinėja šio kodekso 113, 114, 115, 1151,
-1152, 1153, 1154, 116 straipsniuose,
-1161 straipsnio pirmojoje, antrojoje, ketvirtojoje, penktojoje ir
-šeštojoje dalyse, 1162, 1163 straipsniuose, 121
-straipsnio antrojoje dalyje ir 139 straipsnyje numatytų administracinių teisės
-pažeidimų bylas.
+1152, 1153, 1154, 116 straipsniuose, 1161
+straipsnio pirmojoje, antrojoje, ketvirtojoje, penktojoje ir šeštojoje dalyse,
+1162, 1163, 1165, 1166
+straipsniuose, 121 straipsnio antrojoje dalyje ir 139 straipsnyje numatytų
+administracinių teisės pažeidimų bylas.
 Civilinės
 aviacijos administracijos vardu nagrinėti administracinių teisės pažeidimų
 bylas ir skirti administracines nuobaudas turi teisę: 
@@ -23988,42 +23859,40 @@ bylas ir skirti administracines nuobaudas turi teisę:
 aviacijos administracijos direktorius ir direktoriaus pavaduotojas – baudą iki
 aštuonių šimtų šešiasdešimt aštuonių eurų ir atimti teisę skraidyti orlaivių
 įgulos nariu, atlikti orlaivių techninę priežiūrą, dirbti skrydžių vadovu; 
-2) Civilinės
-aviacijos administracijos Skrydžių saugos departamento direktorius ir skyrių
-vedėjai – baudą iki keturių šimtų trisdešimt keturių eurų; 
-3) Civilinės
-aviacijos administracijos Aviacijos saugumo skyriaus vedėjas, Skrydžių saugos
-departamento vyriausieji specialistai – baudą iki dviejų šimtų aštuoniasdešimt
-devynių eurų; 
-4) Civilinės
-aviacijos administracijos Aviacijos saugumo skyriaus vyriausieji specialistai –
-baudą iki aštuoniasdešimt šešių eurų.
+2) įgalioti
+Civilinės aviacijos administracijos skyrių vedėjai – baudą iki keturių šimtų
+trisdešimt keturių eurų; 
+3) įgalioti
+Civilinės aviacijos administracijos vyriausieji specialistai – baudą iki dviejų
+šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-906, 2006-11-16, Žin., 2006,
 Nr. 132-4986 (2006-12-05), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
+Nr. XII-2748,
+2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26870
  
-232
-straipsnis. Keleivinio automobilių ir elektros transporto organai
+232 straipsnis.
+Keleivinio automobilių ir elektros transporto organai
 Keleivinio
 automobilių ir elektros transporto organai nagrinėja administracinių teisės
 pažeidimų, susijusių su naudojimosi automobilių ir elektros transportu
@@ -24038,21 +23907,19 @@ transporto kontrolės teisė.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. XI-1595, 1987.04.29, Žin.,
-1987, Nr. 13-134 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1595, 1987.04.29, Žin., 1987,
+Nr. 13-134 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 2321
 straipsnis. Valstybinė kelių transporto inspekcija prie Susisiekimo
@@ -24073,15 +23940,15 @@ ir jų pavaduotojai, skyrių viršininkai, vedėjai ir jų pavaduotojai, vyriaus
 inspektoriai ir vyriausieji specialistai, vyresnieji inspektoriai ir vyresnieji
 specialistai, inspektoriai.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-590, 1994.09.13, Žin., 1994,
-Nr. 73-1372 (94.09.21)
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132 
+Nr. I-590,
+1994.09.13, Žin., 1994, Nr. 73-1372 (94.09.21)
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
 Nr. X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
@@ -24089,25 +23956,19 @@ Nr. 73-2759 (2006-06-30), šis
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-265, 2013-05-07, Žin., 2013,
-Nr. 54-2670 (2013-05-25),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-265,
+2013-05-07, Žin., 2013, Nr. 54-2670 (2013-05-25), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -24124,10 +23985,10 @@ pavaduotojai ir kiti pareigūnai, kuriems suteikta teisė kontroliuoti kelių
 tiesimo ir priežiūros darbus, įvertinti kelių ir jų statinių bei įrenginių
 būklę.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. IX-463,
-2001-07-12, Žin., 2001, Nr. 66-2409 (2001-08-01)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. IX-463, 2001-07-12, Žin., 2001, Nr. 66-2409
+(2001-08-01)
  
 233
 straipsnis. Valstybinė darbo inspekcija
@@ -24147,20 +24008,20 @@ skirti administracines nuobaudas turi teisę Lietuvos Respublikos vyriausiasis
 valstybinis darbo inspektorius, jo pavaduotojai, vyriausieji darbo
 inspektoriai, vyresnieji darbo inspektoriai ir darbo inspektoriai.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-1290, 96.04.17, Žin., 1996,
-Nr. 41-988 (96.05.08)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-678, 98.03.24, Žin., 1998,
-Nr. 33-874 (98.04.08)
-Nr. VIII-1486, 99.12.21, Žin., 1999,
-Nr. 113-3286 (99.12.30)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-1290,
+96.04.17, Žin., 1996, Nr. 41-988 (96.05.08)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-678,
+98.03.24, Žin., 1998, Nr. 33-874 (98.04.08)
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2335, 2004-07-08, Žin., 2004,
 Nr. 115-4275 (2004-07-24)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
@@ -24182,23 +24043,19 @@ priede
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1381, 2011-05-19, Žin., 2011,
-Nr. 69-3289 (2011-06-07)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XI-2192, 2012-06-30, Žin., 2012,
-Nr. 82-4271 (2012-07-13), šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1381,
+2011-05-19, Žin., 2011, Nr. 69-3289 (2011-06-07)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-2192,
+2012-06-30, Žin., 2012, Nr. 82-4271 (2012-07-13), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
  
 234
 straipsnis. Lietuvos geologijos tarnyba
@@ -24212,14 +24069,14 @@ geologijos tarnybos vardu nagrinėti administracinių teisės pažeidimų bylas 
 skirti administracines nuobaudas turi teisę šios tarnybos direktorius ir jo
 įgalioti pareigūnai.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -24229,8 +24086,8 @@ priede
 straipsnis. Valstybinė atominės energetikos saugos inspekcija
 Valstybinė
 atominės energetikos saugos inspekcija nagrinėja šio kodekso 515
-straipsnio pirmojoje ir antrojoje dalyse, 79 ir 80 straipsniuose – kai pažeidžiami
-branduolinės
+straipsnio pirmojoje ir antrojoje dalyse, 79 ir 80 straipsniuose – kai
+pažeidžiami branduolinės
 energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais radiacinės
 saugos
 norminiai
@@ -24254,14 +24111,14 @@ iki vieno tūkstančio vieno šimto penkiasdešimt aštuonių eurų;
 atominės energetikos saugos inspekcijos įgalioti pareigūnai – įspėjimą arba
 baudą iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-620, 98.02.03, Žin., 1998,
-Nr. 16-377 (98.02.13)
-Nr. XI-1493, 2011-06-21, Žin., 2011,
-Nr. 91-4313 (2011-07-19)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-620,
+98.02.03, Žin., 1998, Nr. 16-377 (98.02.13)
+Nr. XI-1493,
+2011-06-21, Žin., 2011, Nr. 91-4313 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -24290,28 +24147,25 @@ energetikos inspekcijos vyriausieji inžinieriai-inspektoriai, vyresnieji
 inžinieriai-inspektoriai ir inžinieriai-inspektoriai – baudą piliečiams iki
 keturiolikos eurų, pareigūnams – iki aštuoniasdešimt šešių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1281, 96.04.04, Žin., 1996,
-Nr. 37-930 (96.04.26)
-Nr. VIII-698, 98.04.15, Žin., 1998,
-Nr. 41-1094 (98.05.01)
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26)
+Nr. VIII-698,
+98.04.15, Žin., 1998, Nr. 41-1094 (98.05.01)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1824, 2003-11-13, Žin., 2003,
 Nr. 112-4997 (2003-11-28), šis Įstatymas skirtas užtikrinti Europos Sąjungos
 teisės aktų, nurodytų šio Įstatymo priede, taikymą.
-Nr. XI-1551, 2011-06-28, Žin., 2011,
-Nr. 91-4326 (2011-07-19), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1551,
+2011-06-28, Žin., 2011, Nr. 91-4326 (2011-07-19), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -24323,11 +24177,11 @@ pirmojoje dalyje, 99(6) straipsnio pirmojoje ir antrojoje dalyse
 numatytų administracinių teisės pažeidimų bylas ir skiria administracines
 nuobaudas.
 Straipsnio pakeitimai:
-Nr. VIII-990, 98.12.21, Žin., 1999,
-Nr. 3-58 (99.01.08)
+Nr. VIII-990,
+98.12.21, Žin., 1999, Nr. 3-58 (99.01.08)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
  
 236
 straipsnis. Lietuvos statistikos departamentas 
@@ -24340,19 +24194,19 @@ statistikos departamento vardu nagrinėti administracinių teisės pažeidimų b
 ir skirti administracines baudas turi teisę Lietuvos statistikos departamento
 generalinis direktorius ir jo pavaduotojai.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-286, 1993.10.19, Žin., 1993,
-Nr. 56-1079 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-286,
+1993.10.19, Žin., 1993, Nr. 56-1079 
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-1086, 2010-11-04, Žin., 2010,
-Nr. 137-6987 (2010-11-23)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-1086,
+2010-11-04, Žin., 2010, Nr. 137-6987 (2010-11-23)
  
 237 straipsnis.
 Teritorinė muitinė
@@ -24378,22 +24232,22 @@ muitinės vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti
 administracines nuobaudas turi teisę teritorinių muitinių viršininkai ir jų
 pavaduotojai.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
 IX-2424, 2004-08-23, Žin., 2004,
 Nr. 134-4840 (2004-09-02)
@@ -24416,36 +24270,34 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1294, 2011-03-24, Žin., 2011,
-Nr. 40-1918 (2011-04-05),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1294,
+2011-03-24, Žin., 2011, Nr. 40-1918 (2011-04-05), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1902, 2011-12-22, Žin., 2011,
 Nr. 163-7778 (2011-12-31),
 šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede 
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
+priede
+
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Nr.
-XII-349, 2013-05-30, Žin., 2013,
-Nr. 62-3061 (2013-06-12)
-Nr. XII-704, 2013-12-19, Žin., 2013,
-Nr. 140-7074 (2013-12-30)
-Nr. XII-585, 2013-11-07, Žin., 2013,
-Nr. 120-6054 (2013-11-23)
+XII-349,
+2013-05-30, Žin., 2013, Nr. 62-3061 (2013-06-12)
+Nr. XII-704,
+2013-12-19, Žin., 2013, Nr. 140-7074 (2013-12-30)
+Nr. XII-585,
+2013-11-07, Žin., 2013, Nr. 120-6054 (2013-11-23)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
-Nr. XII-2421, 2016-06-09, paskelbta
-TAR 2016-06-22, i. k. 2016-17407, šiuo įstatymu įgyvendinamas
-Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2421,
+2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17407, šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
  
 238 straipsnis. Krašto apsaugos
 sistemos institucijos
@@ -24470,18 +24322,18 @@ Nr. XI-501, 1985.11.28,
 Žin., 1985, Nr. 33-370 
 Nr. XI-3058, 1989.07.03,
 Žin., 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28) 
-Nr. I-1594, 96.10.22, Žin., 1996,
-Nr. 106-2428 (96.11.06)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1521, 2011-06-23, Žin., 2011,
-Nr. 86-4163 (2011-07-13)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28) 
+Nr. I-1594,
+96.10.22, Žin., 1996, Nr. 106-2428 (96.11.06)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1521,
+2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
 Nr. XII-1494, 2014-12-18, paskelbta
 TAR 2014-12-29, i. k. 2014-20791
  
@@ -24504,8 +24356,8 @@ Nr. IX-2511, 2004-10-28, Žin., 2004,
 Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos Sąjungos
 teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Straipsnio pakeitimai: 
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
  
 2382
 straipsnis. Mobilizacijos departamentas prie Krašto apsaugos ministerijos
@@ -24518,8 +24370,8 @@ departamento prie Krašto apsaugos ministerijos vardu nagrinėti administracini�
 teisės pažeidimų bylas ir skirti nuobaudas turi teisę Mobilizacijos
 departamento prie Krašto apsaugos ministerijos direktorius ir jo pavaduotojai.
 Kodeksas papildytas straipsniu:
-Nr. XI-1422, 2011-05-26, Žin., 2011,
-Nr. 72-3473 (2011-06-14)
+Nr. XI-1422,
+2011-05-26, Žin., 2011, Nr. 72-3473 (2011-06-14)
  
 239
 straipsnis. Valstybinė maisto ir veterinarijos tarnyba
@@ -24543,47 +24395,44 @@ maisto ir veterinarijos tarnybos direktorius, jo pavaduotojai ir direktoriaus
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai,
-nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1237, 2014-10-16, paskelbta
 TAR 2014-10-22, i. k. 2014-14520
-Nr. XII-1960, 2015-10-15, paskelbta
-TAR 2015-10-23, i. k. 2015-16729
+Nr. XII-1960,
+2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16729
  
 2391
 straipsnis. Valstybinė ligonių kasa ir teritorinės ligonių kasos
@@ -24598,8 +24447,8 @@ ligonių kasos ir teritorinių ligonių kasų vardu nagrinėti administracinių
 teisės pažeidimų bylas ir skirti administracines nuobaudas turi teisę
 Valstybinės ligonių kasos ir teritorinių ligonių kasų direktoriai.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 2392
 straipsnis. Radiacinės saugos centras
@@ -24624,15 +24473,15 @@ vyriausiasis kontrolierius – įspėjimą arba baudą iki vieno tūkstančio ke
 saugos centro valstybinės radiacinės saugos priežiūros ir kontrolės pareigūnai
 – įspėjimą arba baudą iki aštuonių šimtų šešiasdešimt aštuonių eurų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1493, 2011-06-21, Žin., 2011,
-Nr. 91-4313 (2011-07-19)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1493,
+2011-06-21, Žin., 2011, Nr. 91-4313 (2011-07-19)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -24647,11 +24496,11 @@ sanitarijos inspekcijos vardu nagrinėti administracinių teisės pažeidimų by
 ir skirti administracines nuobaudas turi teisę savivaldybių sanitarijos
 inspekcijos vyriausiasis inspektorius, jo pavaduotojai ir inspektoriai.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 2394
 straipsnis.
@@ -24659,9 +24508,9 @@ Nacionalinis
 visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos
 Nacionalinis
 visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos nagrinėja šio
-kodekso 42 straipsnyje (išskyrus darbo, darbuotojų saugos ir sveikatos,
-radiacinės saugos, maisto saugos ir kokybės, ne maisto produktų (gaminių)
-saugos ir kokybės higienos norminių aktų pažeidimus), 425 straipsnio
+kodekso 42 straipsnyje (išskyrus darbo, darbuotojų saugos ir sveikatos, radiacinės
+saugos, maisto saugos ir kokybės, ne maisto produktų (gaminių) saugos ir
+kokybės higienos norminių aktų pažeidimus), 425 straipsnio
 trečiojoje, ketvirtojoje dalyse ir penktojoje dalyje (dėl reikalavimų
 biocidinių produktų gamintojui kaupti ir (ar) saugoti informaciją pažeidimo),
 512 straipsnio ketvirtojoje ir penktojoje dalyse, 79–84
@@ -24681,24 +24530,23 @@ pareigūnai – įspėjimą arba baudą nuo penkių iki penkių šimtų septynia
 devynių eurų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Straipsnio pakeitimai:
 Nr. X-497, 2006-01-19, Žin., 2006,
 Nr. 17-593 (2006-02-11)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr.
-XI-1767, 2011-12-01, Žin., 2011,
-Nr. 153-7204 (2011-12-15)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+XI-1767,
+2011-12-01, Žin., 2011, Nr. 153-7204 (2011-12-15)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-1708, 2015-05-14, paskelbta
-TAR 2015-05-25, i. k. 2015-08040
+Nr. XII-1708,
+2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08040
  
 240
 straipsnis. Valstybinės gyvulių veislininkystės priežiūros organai
@@ -24718,19 +24566,17 @@ specialistai – valstybiniai veislininkystės inspektoriai – įspėjimą arba
 asmenims iki vieno šimto septyniasdešimt trijų eurų ir pareigūnams – iki dviejų
 šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 241
 straipsnis. Neteko
@@ -24738,26 +24584,24 @@ galios nuo 2012-01-01.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-2112, 1991.12.17, Žin., 1991,
-Nr. 2-17 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-588, 2001-11-08, Žin., 2001,
-Nr. 99-3522 (2001-11-28)
+Nr. I-2112,
+1991.12.17, Žin., 1991, Nr. 2-17 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-588,
+2001-11-08, Žin., 2001, Nr. 99-3522 (2001-11-28)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2411
 straipsnis.
@@ -24793,30 +24637,30 @@ arba baudą iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
 Nr. XI-3745, 1990.03.07, Žin.,
 1990, Nr. 9-267 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-590, 1994.09.13, Žin., 1994,
-Nr. 73-1372 (94.09.21) 
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02)
-Nr. VIII-851, 98.07.02, Žin., 1998,
-Nr. 67-1939 (98.07.29)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-590,
+1994.09.13, Žin., 1994, Nr. 73-1372 (94.09.21) 
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02)
+Nr. VIII-851,
+98.07.02, Žin., 1998, Nr. 67-1939 (98.07.29)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. IX-2511, 2004-10-28, Žin., 2004,
@@ -24829,30 +24673,29 @@ priede
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
 Nr. XI-1902, 2011-12-22, Žin., 2011,
 Nr. 163-7778 (2011-12-31),
 šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
 Nr.
 XII-2671,
-2016-10-11, paskelbta TAR, 2016-10-17, i. k. 2016-25267
+2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25267
  
 2412
 straipsnis. Lietuvos metrologijos inspekcija
@@ -24875,10 +24718,10 @@ padalinių viršininkai ir vyriausieji valstybiniai inspektoriai – iki penkių
 metrologijos inspekcijos vyresnieji valstybiniai inspektoriai, valstybiniai
 inspektoriai – baudą iki dviejų šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -24901,32 +24744,33 @@ tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos vardu nagrinėti
 administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas turi
 teisę žuvininkystės kontrolės pareigūnai.
 Valstybinės
-augalininkystės tarnybos prie Žemės ūkio ministerijos vardu nagrinėti
-administracinių teisės pažeidimų bylas turi teisę tam įgalioti Valstybinės
-augalininkystės tarnybos prie Žemės ūkio ministerijos pareigūnai.
+augalininkystės tarnybos prie Žemės ūkio ministerijos vardu nagrinėti administracinių
+teisės pažeidimų bylas turi teisę tam įgalioti Valstybinės augalininkystės
+tarnybos prie Žemės ūkio ministerijos pareigūnai.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Straipsnio pakeitimai: 
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
-Nr. XI-698, 2010-03-18, Žin., 2010,
-Nr. 34-1615 (2010-03-25)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
+Nr. XI-698,
+2010-03-18, Žin., 2010, Nr. 34-1615 (2010-03-25)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XI-2158, 2012-06-29, Žin., 2012,
-Nr. 82-4263 (2012-07-13)
+XI-2158,
+2012-06-29, Žin., 2012, Nr. 82-4263 (2012-07-13)
 Nr.
-XII-349, 2013-05-30, Žin., 2013,
-Nr. 62-3061 (2013-06-12)
+XII-349,
+2013-05-30, Žin., 2013, Nr. 62-3061 (2013-06-12)
  
 2414
-straipsnis. Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos
+straipsnis. Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio
+ministerijos
 Žuvininkystės
 tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos nagrinėja šio kodekso
 87 straipsnyje (kai pažeidimai padaryti jūrų vandenyse), 872
@@ -24948,12 +24792,12 @@ Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos 
 teisės aktai, nurodyti šio
 įstatymo priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 242
 straipsnis. Aplinkos apsaugos organai
@@ -25066,51 +24910,51 @@ antrojoje ir trečiojoje dalyse, 5122, 5124, 5125,
 dalyse, 622 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 64,
 66–70, 72–781 straipsniuose, 79–82 ir 83–84 straipsniuose
 (kai administraciniai teisės pažeidimai nėra higienos norminių aktų,
-reglamentuojančių atmosferos apsaugą, pažeidimai), 841 straipsnio
-pirmojoje, penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje,
-vienuoliktojoje, dvyliktojoje, penkioliktojoje, devynioliktojoje,
-dvidešimtojoje, dvidešimt pirmojoje, dvidešimt antrojoje (dėl draudimo maišyti
-metalinį gyvsidabrį su kitomis cheminėmis medžiagomis eksporto tikslais
-nesilaikymo) ir dvidešimt trečiojoje dalyse, 842 straipsnio
-antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje ir septintojoje
-dalyse, 843 straipsnyje, 85 straipsnio pirmojoje, antrojoje ir
-trečiojoje dalyse, 86, 87, 871 straipsniuose, 873
-straipsnio pirmojoje ir antrojoje dalyse, 874 straipsnyje (kai
-pažeidimai padaryti vidaus vandenyse), 876 straipsnyje (kai
-pažeidimai padaryti parduodant ar superkant vidaus vandenų žvejybos produktus),
-877 straipsnyje (kai pažeidimai padaryti ne jūrų vandenyse), 8712
-straipsnio pirmojoje, trečiojoje, ketvirtojoje ir penktojoje dalyse, 88,
-89 straipsniuose, 211 straipsnyje (dėl aplinkos apsaugos valstybinės kontrolės
-pareigūno uždėtos plombos sužalojimo arba nuplėšimo) numatytus administracinius
-teisės pažeidimus – valstybiniai aplinkos apsaugos inspektoriai.
+reglamentuojančių atmosferos apsaugą, pažeidimai), 841 straipsnio pirmojoje,
+penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje, vienuoliktojoje,
+dvyliktojoje, penkioliktojoje, devynioliktojoje, dvidešimtojoje, dvidešimt
+pirmojoje, dvidešimt antrojoje (dėl draudimo maišyti metalinį gyvsidabrį su
+kitomis cheminėmis medžiagomis eksporto tikslais nesilaikymo) ir dvidešimt
+trečiojoje dalyse, 842 straipsnio antrojoje, trečiojoje,
+ketvirtojoje, penktojoje, šeštojoje ir septintojoje dalyse, 843
+straipsnyje, 85 straipsnio pirmojoje, antrojoje ir trečiojoje dalyse, 86, 87,
+871 straipsniuose, 873 straipsnio pirmojoje ir antrojoje
+dalyse, 874 straipsnyje (kai pažeidimai padaryti vidaus vandenyse),
+876 straipsnyje (kai pažeidimai padaryti parduodant ar superkant
+vidaus vandenų žvejybos produktus), 877 straipsnyje (kai pažeidimai
+padaryti ne jūrų vandenyse), 8712 straipsnio pirmojoje, trečiojoje,
+ketvirtojoje ir penktojoje dalyse, 88, 89 straipsniuose, 211 straipsnyje (dėl
+aplinkos apsaugos valstybinės kontrolės pareigūno uždėtos plombos sužalojimo
+arba nuplėšimo) numatytus administracinius teisės pažeidimus – valstybiniai
+aplinkos apsaugos inspektoriai.
 Straipsnio pakeitimai: 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-661, 94.11.15, Žin., 1994,
-Nr. 91-1766 (94.11.25) 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-661,
+94.11.15, Žin., 1994, Nr. 91-1766 (94.11.25) 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1234, 2002-12-10, Žin., 2002,
-Nr. 123-5526 (2002-12-24)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1234,
+2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
@@ -25129,57 +24973,49 @@ priede
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1294, 2011-03-24, Žin., 2011,
-Nr. 40-1918 (2011-04-05),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XI-1325, 2011-04-19, Žin., 2011,
-Nr. 52-2502 (2011-05-03), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1294,
+2011-03-24, Žin., 2011, Nr. 40-1918 (2011-04-05), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1325,
+2011-04-19, Žin., 2011, Nr. 52-2502 (2011-05-03), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 Nr.
-XI-1464, 2011-06-20, Žin., 2011,
-Nr. 85-4125 (2011-07-13)
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XI-1464,
+2011-06-20, Žin., 2011, Nr. 85-4125 (2011-07-13) šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1902, 2011-12-22, Žin., 2011,
 Nr. 163-7778 (2011-12-31),
 šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 
-Nr. XII-292, 2013-05-09, Žin., 2013,
-Nr. 55-2730 (2013-05-28)
+Nr. XII-292,
+2013-05-09, Žin., 2013, Nr. 55-2730 (2013-05-28)
 Nr.
-XII-361, 2013-06-13, Žin., 2013,
-Nr. 68-3402 (2013-06-28)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+XII-361,
+2013-06-13, Žin., 2013, Nr. 68-3402 (2013-06-28)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
 Nr.
-XII-1846, 2015-06-23, paskelbta
-TAR 2015-07-01, i. k. 2015-10591, šiuo įstatymu įgyvendinamas Europos Sąjungos
-teisės aktas, nurodytas šio įstatymo priede 
+XII-1846,
+2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10591, šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede 
  
 243
 straipsnis. Valstybinė geodezijos ir kartografijos tarnyba prie Lietuvos
@@ -25197,14 +25033,14 @@ pavaduotojai.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
  
 244
 straipsnis. Valstybiniai miškų ir saugomų teritorijų organai
@@ -25222,8 +25058,8 @@ straipsnio pirmojoje ir antrojoje dalyse, 874 straipsnyje (kai
 pažeidimai padaryti vidaus vandenyse), 876 straipsnyje (kai
 pažeidimai padaryti parduodant ar superkant vidaus vandenų žvejybos produktus),
 88, 89, 91, 107, 110 straipsniuose (kai pažeidimai padaryti valstybinių parkų
-kaimų ir rekreacinių įstaigų teritorijose), 1895 straipsnio pirmojoje
-ir trečiojoje dalyse numatytų administracinių teisės pažeidimų bylas.
+kaimų ir rekreacinių įstaigų teritorijose), 1895 straipsnio
+pirmojoje ir trečiojoje dalyse numatytų administracinių teisės pažeidimų bylas.
 Valstybinių
 miškų ir saugomų teritorijų organų vardu nagrinėti administracinių teisės
 pažeidimų bylas ir skirti administracines nuobaudas turi teisę:
@@ -25232,15 +25068,14 @@ kodekso 47 straipsnyje, 51(3) straipsnio pirmojoje, antrojoje,
 trečiojoje ir ketvirtojoje dalyse, 52(2), 55, 60, 61 straipsniuose,
 62 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 62(1)
 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 62(2)
-straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 63–66, 68–74
-straipsniuose, 76, 77, 77(1), 78(1), 83(1), 85
-straipsniuose, 189(5) straipsnio pirmojoje ir trečiojoje dalyse
-numatytus administracinius teisės pažeidimus – vyriausieji valstybiniai miškų
-pareigūnai;
-2) už šio kodekso
-47 straipsnyje, 51(3) straipsnio pirmojoje, antrojoje, trečiojoje ir
-ketvirtojoje dalyse, 55, 60 straipsniuose, 61 straipsnio šeštojoje dalyje, 62
-straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 62(1)
+straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 63–66, 68–74 straipsniuose,
+76, 77, 77(1), 78(1), 83(1), 85 straipsniuose,
+189(5) straipsnio pirmojoje ir trečiojoje dalyse numatytus
+administracinius teisės pažeidimus – vyriausieji valstybiniai miškų pareigūnai;
+2) už šio
+kodekso 47 straipsnyje, 51(3) straipsnio pirmojoje, antrojoje,
+trečiojoje ir ketvirtojoje dalyse, 55, 60 straipsniuose, 61 straipsnio
+šeštojoje dalyje, 62 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 62(1)
 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 62(2)
 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 63, 65, 66, 68–74
 straipsniuose, 76, 77, 77(1), 78(1), 83(1), 85
@@ -25273,22 +25108,22 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
 Nr.
@@ -25302,14 +25137,14 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XII-292, 2013-05-09, Žin., 2013,
-Nr. 55-2730 (2013-05-28)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XII-292,
+2013-05-09, Žin., 2013, Nr. 55-2730 (2013-05-28)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
  
 245 straipsnis. Nacionalinė žemės tarnyba prie Žemės ūkio
 ministerijos 
@@ -25323,39 +25158,37 @@ vadovas.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-XI-788, 2010-04-27, Žin., 2010,
-Nr. 55-2680 (2010-05-13)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XI-788,
+2010-04-27, Žin., 2010, Nr. 55-2680 (2010-05-13)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2451
 straipsnis. Neteko
 galios nuo 2010 m. liepos 1 d.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
-Nr. XI-698, 2010-03-18, Žin., 2010,
-Nr. 34-1615 (2010-03-25)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
+Nr. XI-698,
+2010-03-18, Žin., 2010, Nr. 34-1615 (2010-03-25)
  
 246
 straipsnis. Ryšių reguliavimo tarnyba
@@ -25373,33 +25206,31 @@ reguliavimo tarnybos vardu nagrinėti administracinių teisės pažeidimų bylas
 skirti administracines nuobaudas turi teisę šios tarnybos direktorius ir jo
 pavaduotojai.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
 XII-2671,
-2016-10-11, paskelbta TAR, 2016-10-17, i. k. 2016-25267
+2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25267
  
 2461
 straipsnis. Valstybinės mokesčių inspekcijos
@@ -25429,46 +25260,44 @@ viršininko įgaliotas asmuo;
 numatytus administracinius teisės pažeidimus – valstybinės mokesčių inspekcijos
 pareigūnai.
 Straipsnio pakeitimai: 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-994, 95.07.03, Žin., 1995,
-Nr. 59-1470 (95.07.19) 
-Nr. I-1373, 96.06.06, Žin., 1996,
-Nr. 57-1345 (96.06.19) 
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-839, 98.07.02, Žin., 1998,
-Nr. 68-1979 (98.07.31)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-994,
+95.07.03, Žin., 1995, Nr. 59-1470 (95.07.19) 
+Nr. I-1373,
+96.06.06, Žin., 1996, Nr. 57-1345 (96.06.19) 
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-839,
+98.07.02, Žin., 1998, Nr. 68-1979 (98.07.31)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1234, 2002-12-10, Žin., 2002,
-Nr. 123-5526 (2002-12-24)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1234,
+2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 2462
 straipsnis. Kultūros paveldo departamentas prie Kultūros ministerijos 
@@ -25490,8 +25319,8 @@ iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų;
 2) Kultūros
 paveldo departamento prie Kultūros ministerijos vyriausieji valstybiniai
 inspektoriai, Kultūros paveldo departamento prie Kultūros ministerijos
-teritorinių padalinių vyriausieji valstybiniai inspektoriai – įspėjimą arba baudą
-iki aštuonių šimtų šešiasdešimt aštuonių eurų;
+teritorinių padalinių vyriausieji valstybiniai inspektoriai – įspėjimą arba
+baudą iki aštuonių šimtų šešiasdešimt aštuonių eurų;
 3) Kultūros
 paveldo departamento prie Kultūros ministerijos vyresnieji valstybiniai
 inspektoriai ir valstybiniai inspektoriai ir Kultūros paveldo departamento prie
@@ -25499,34 +25328,33 @@ Kultūros ministerijos teritorinių padalinių vyresnieji valstybiniai
 inspektoriai ir valstybiniai inspektoriai – įspėjimą arba baudą iki dviejų
 šimtų aštuoniasdešimt devynių eurų.
 Straipsnio pakeitimai: 
-Nr. I-435, 1990.07.30, Žin., 1990,
-Nr. 23-565 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-743, 94.12.28, Žin., 1995,
-Nr. 3-39 (95.01.06) 
-Nr. I-1180, 96.01.23, Žin., 1996,
-Nr. 14-353 (96.02.14)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+Nr. I-435,
+1990.07.30, Žin., 1990, Nr. 23-565 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-743,
+94.12.28, Žin., 1995, Nr. 3-39 (95.01.06) 
+Nr. I-1180,
+96.01.23, Žin., 1996, Nr. 14-353 (96.02.14)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr.
 X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XII-1236, 2014-10-16, paskelbta
-TAR 2014-10-28, i. k. 2014-15013
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XII-1236, 2014-10-16, paskelbta TAR
+2014-10-28, i. k. 2014-15013
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 2463
 straipsnis.
-Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos
-ministerijos
+Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos
 Valstybinė
 teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos
 nagrinėja šio kodekso 1581 straipsnyje, 159 straipsnio pirmojoje,
@@ -25543,32 +25371,32 @@ nuobaudas turi teisę Valstybinės teritorijų planavimo ir statybos inspekcijos
 prie Aplinkos ministerijos viršininkas, viršininko pavaduotojas ir viršininko
 įgalioti departamentų ir (ar) skyrių vadovai.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-463,
-2001-07-12, Žin., 2001, Nr. 66-2409 (2001-08-01)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-463, 2001-07-12, Žin., 2001, Nr. 66-2409
+(2001-08-01)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-507, 2009-12-01, Žin., 2009,
-Nr. 147-6550 (2009-12-12)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-507,
+2009-12-01, Žin., 2009, Nr. 147-6550 (2009-12-12)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr.
-XII-1835, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10585 
+XII-1835,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10585 
  
 2464
 straipsnis. Valstybinio socialinio draudimo fondo administravimo įstaigos
@@ -25586,50 +25414,44 @@ struktūrų skyriaus direktorius ir jo pavaduotojai, Valstybinio socialinio
 draudimo fondo valdybos Užsienio išmokų tarnybos direktorius ir jo
 pavaduotojai.
 Straipsnio pakeitimai: 
-Nr. I-457, 1994.05.12, Žin., 1994,
-Nr. 39-704 (94.05.25)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-457,
+1994.05.12, Žin., 1994, Nr. 39-704 (94.05.25)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2465
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1156, 95.12.21, Žin., 1996,
-Nr. 8-195 (96.01.26) 
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1156,
+95.12.21, Žin., 1996, Nr. 8-195 (96.01.26) 
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30)
  
 2466
 straipsnis. Neteko
 galios nuo 2012-01-01
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2467
 straipsnis. Valstybinė kalbos inspekcija
@@ -25637,8 +25459,8 @@ Valstybinė
 kalbos inspekcija nagrinėja šio kodekso 91(1)–91(7)
 straipsniuose numatytų administracinių teisės pažeidimų bylas.
 Valstybinės
-kalbos inspekcijos vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti
-administracines nuobaudas turi teisę:
+kalbos inspekcijos vardu nagrinėti administracinių teisės pažeidimų bylas ir
+skirti administracines nuobaudas turi teisę:
 1) Valstybinės
 kalbos inspekcijos viršininkas ir jo pavaduotojas – įspėjimą arba baudą įmonių,
 įstaigų, organizacijų vadovams, pareigūnams ir kitiems asmenims nuo
@@ -25651,15 +25473,15 @@ septynių iki dviejų šimtų aštuoniasdešimt devynių eurų;
 savivaldybių kalbos tvarkytojai – įspėjimą arba baudą nuo penkiasdešimt
 septynių iki vieno šimto keturiasdešimt keturių eurų.
 Straipsnio pakeitimai: 
-Nr. I-880, 95.05.04, Žin., 1995,
-Nr. 43-1045 (95.05.24)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-880,
+95.05.04, Žin., 1995, Nr. 43-1045 (95.05.24)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -25674,15 +25496,13 @@ archyvaro tarnybos vardu nagrinėti administracinių teisės pažeidimų bylas i
 skirti administracines nuobaudas turi teisę Lietuvos vyriausiasis archyvaras,
 jo įgalioti asmenys, valstybės archyvų direktoriai.
 Straipsnio pakeitimai: 
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2469
 straipsnis. Valstybės dokumentų technologinės apsaugos tarnyba prie Finansų 
@@ -25697,26 +25517,26 @@ nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines
 nuobaudas turi teisę Valstybės dokumentų technologinės apsaugos tarnybos prie
 Finansų ministerijos direktorius ir jo pavaduotojai.
 Kodeksas papildytas straipsniu: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
  
 247
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
  
 2471
 straipsnis. Tauriųjų metalų ir brangakmenių valstybinės priežiūros institucijos
@@ -25730,10 +25550,10 @@ teisę Prabavimo rūmų vadovas, jo nesant – jo pavaduotojas.
 Straipsnio pakeitimai: 
 Nr. I-870, 1986.05.28, Žin.,
 1986, Nr. 16-158 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-997, 95.07.03, Žin., 1995,
-Nr. 61-1529 (95.07.26)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-997,
+95.07.03, Žin., 1995, Nr. 61-1529 (95.07.26)
  
 2472
 straipsnis. Lietuvos bankas
@@ -25748,35 +25568,31 @@ Lietuvos banko
 vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti
 administracines nuobaudas turi teisę Lietuvos banko valdyba.
 Straipsnio pakeitimai: 
-Nr. I-721, 94.12.21, Žin., 1995,
-Nr. 3-36 (95.01.06) 
-Nr. I-1174, 96.01.18, Žin., 1996,
-Nr. 9-218 (96.01.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-721,
+94.12.21, Žin., 1995, Nr. 3-36 (95.01.06) 
+Nr. I-1174,
+96.01.18, Žin., 1996, Nr. 9-218 (96.01.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2473
 straipsnis. Neteko
 galios nuo 2012-01-01
 Straipsnio pakeitimai: 
-Nr. I-1457, 96.07.10, Žin., 1996,
-Nr. 73-1743 (96.07.31)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1457,
+96.07.10, Žin., 1996, Nr. 73-1743 (96.07.31)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 2474
 straipsnis. Lietuvos Respublikos konkurencijos taryba
@@ -25786,45 +25602,45 @@ Respublikos konkurencijos taryba nagrinėja šio kodekso 163, 163(9),
 pirmojoje dalyje (dėl paslaugų teikimo taisyklių pažeidimo) numatytų
 administracinių teisės pažeidimų bylas ir skiria administracines nuobaudas.
 Straipsnio pakeitimai: 
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02)
-Nr. VIII-1081, 99.02.11, Žin., 1999,
-Nr. 23-649 (99.03.10)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 2475
 straipsnis. Narkotikų, tabako ir alkoholio kontrolės departamentas 
 Narkotikų,
-tabako ir alkoholio kontrolės departamentas nagrinėja šio kodekso 163 straipsnyje
-(dėl mažmeninės prekybos alkoholiniais gėrimais taisyklių ir prekybos jais
-viešojo maitinimo įmonėse taisyklių pažeidimo), 1632 straipsnio
-pirmojoje dalyje (dėl prekybos alkoholiniais gėrimais ir tabako gaminiais, taip
-pat dėl šių prekių laikymo), 173 straipsnyje (dėl vertimosi komercine-ūkine
-veikla, susijusia su alkoholinių gėrimų ir tabako gaminių gaminimu ir didmenine
-bei mažmenine prekyba), 177, 1852, 2142 straipsniuose
-numatytų administracinių teisės pažeidimų bylas.
+tabako ir alkoholio kontrolės departamentas nagrinėja šio kodekso 163
+straipsnyje (dėl mažmeninės prekybos alkoholiniais gėrimais taisyklių ir
+prekybos jais viešojo maitinimo įmonėse taisyklių pažeidimo), 1632
+straipsnio pirmojoje dalyje (dėl prekybos alkoholiniais gėrimais ir tabako
+gaminiais, taip pat dėl šių prekių laikymo), 173 straipsnyje (dėl vertimosi
+komercine-ūkine veikla, susijusia su alkoholinių gėrimų ir tabako gaminių
+gaminimu ir didmenine bei mažmenine prekyba), 177, 1852, 2142
+straipsniuose numatytų administracinių teisės pažeidimų bylas.
 Narkotikų,
 tabako ir alkoholio kontrolės departamento vardu nagrinėti administracinių
 teisės pažeidimų bylas ir skirti administracines nuobaudas turi teisę šios
 tarnybos direktorius ir jo pavaduotojai.
 Straipsnio pakeitimai:
-Nr. VIII-432, 97.10.07, Žin., 1997,
-Nr. 94-2358 (97.10.17)
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-432,
+97.10.07, Žin., 1997, Nr. 94-2358 (97.10.17)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. XI-1183, 2010-11-30, Žin., 2010,
-Nr. 145-7436 (2010-12-11)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. XI-1183,
+2010-11-30, Žin., 2010, Nr. 145-7436 (2010-12-11)
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 2476
 straipsnis. Lygių galimybių kontrolieriaus tarnyba
@@ -25836,8 +25652,8 @@ kontrolieriaus tarnybos vardu nagrinėti administracinių teisės pažeidimų by
 ir skirti administracines nuobaudas turi teisę moterų ir vyrų lygių galimybių
 kontrolierius.
 Straipsnio pakeitimai:
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
 Nr. X-343, 2005-09-27, Žin., 2005,
 Nr. 122-4359 (2005-10-13)
  
@@ -25854,16 +25670,14 @@ direktoriaus pavaduotojas ir direktoriaus įgalioti Viešųjų pirkimų tarnybos
 skyrių vadovai ir jų pavaduotojai.
 Kodeksas papildytas
 straipsniu:
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Straipsnio pakeitimai:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Straipsnio
 pakeitimai:
 Nr. XII-1433, 2014-12-16, paskelbta
@@ -25908,13 +25722,11 @@ Nr. X-1019, 2007-01-16, Žin., 2007,
 Nr. 12-492 (2007-01-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
 įstatymo priede, įgyvendinimą
-Nr. XI-801, 2010-05-11, Žin., 2010,
-Nr. 60-2960 (2010-05-25)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-801,
+2010-05-11, Žin., 2010, Nr. 60-2960 (2010-05-25)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 24711
 straipsnis. Statinių naudojimo priežiūros viešojo administravimo subjektai 
@@ -25941,8 +25753,8 @@ Kodeksas papildytas straipsniu:
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Straipsnio pakeitimai: 
-Nr. XI-507, 2009-12-01, Žin., 2009,
-Nr. 147-6550 (2009-12-12)
+Nr. XI-507,
+2009-12-01, Žin., 2009, Nr. 147-6550 (2009-12-12)
  
 24712
 straipsnis. Valstybinis turizmo departamentas prie Ūkio ministerijos
@@ -25954,8 +25766,8 @@ prie Ūkio ministerijos vardu nagrinėti administracinių teisės pažeidimų by
 ir skirti administracines nuobaudas turi teisę šio departamento direktorius ir
 jo įgalioti departamento pareigūnai.
 Kodeksas papildytas straipsniu:
-Nr. XII-1873, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10773
+Nr. XII-1873,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10773
  
 IV skyrius
 ADMINISTRACINIŲ
@@ -25963,21 +25775,20 @@ TEISĖS PAŽEIDIMŲ BYLŲ TEISENA
  
 Septynioliktasis
 skirsnis
-PAGRINDINIAI
-NUOSTATAI
+PAGRINDINIAI NUOSTATAI
  
 248
 straipsnis. Administracinių teisės pažeidimų bylų teisenos uždaviniai
 Administracinių
 teisės pažeidimų bylų teisenos uždaviniai yra: laiku, visapusiškai, pilnutinai
-ir objektyviai išaiškinti kiekvienos bylos aplinkybes, išspręsti ją tiksliai
-pagal įstatymus, užtikrinti priimto nutarimo įvykdymą, taip pat išaiškinti
-priežastis ir sąlygas, padedančias padaryti administracinius teisės pažeidimus,
-užkirsti kelią teisės pažeidimams, auklėti piliečius, kad jie laikytųsi
-įstatymų, stiprintų teisėtumą.
+ir objektyviai išaiškinti kiekvienos bylos aplinkybes, išspręsti ją tiksliai pagal
+įstatymus, užtikrinti priimto nutarimo įvykdymą, taip pat išaiškinti priežastis
+ir sąlygas, padedančias padaryti administracinius teisės pažeidimus, užkirsti
+kelią teisės pažeidimams, auklėti piliečius, kad jie laikytųsi įstatymų,
+stiprintų teisėtumą.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 249
 straipsnis. Administracinių teisės pažeidimų bylų teisenos tvarka
@@ -25993,10 +25804,10 @@ teisės pažeidimų bylų teisenoje negali būti taikomos atsakomybėn traukiamo
 (patraukto) asmens teisių ribojimą nustatančios Lietuvos Respublikos
 baudžiamojo proceso kodekso normos.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 250
 straipsnis. Aplinkybės, darančios administracinio teisės pažeidimo bylos
@@ -26031,8 +25842,8 @@ asmuo, kurio atžvilgiu buvo pradėta bylos teisena.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 251
 straipsnis. Administracinio teisės pažeidimo bylos nutraukimas dėl kitų 
@@ -26044,13 +25855,13 @@ arba kvotos organui.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-762, 98.06.02, Žin., 1998,
-Nr. 55-1518 (98.06.17)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-762,
+98.06.02, Žin., 1998, Nr. 55-1518 (98.06.17)
  
-252 straipsnis.
-Administracinio teisės pažeidimo bylos nagrinėjimas vadovaujantis 
+252
+straipsnis. Administracinio teisės pažeidimo bylos nagrinėjimas vadovaujantis 
 piliečių
 lygybe
 Administracinio
@@ -26071,22 +25882,22 @@ kalba arba ta kalba, kurią jis moka, ir naudotis vertėjo paslaugomis.
 Organas
 (pareigūnas), įgaliotas surašyti administracinio teisės pažeidimo protokolą
 arba nagrinėjantis administracinio teisės pažeidimo bylą, turi teisę nuspręsti
-pridėti prie bylos ne lietuvių kalba surašytus dokumentus. Tokiu atveju, nagrinėjant
-bylą, jeigu prireikia, turi būti užtikrintas dokumentų vertimas į lietuvių
-kalbą.
+pridėti prie bylos ne lietuvių kalba surašytus dokumentus. Tokiu atveju,
+nagrinėjant bylą, jeigu prireikia, turi būti užtikrintas dokumentų vertimas į
+lietuvių kalbą.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1931, 00.09.19, Žin., 2000,
-Nr. 85-2570 (00.10.11)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1931,
+00.09.19, Žin., 2000, Nr. 85-2570 (00.10.11)
  
 254
 straipsnis. Viešas administracinio teisės pažeidimo bylos nagrinėjimas
 Administracinio
 teisės pažeidimo byla nagrinėjama viešai.
 Siekiant didinti
-auklėjamąjį ir prevencinį administracinių teisės pažeidimų bylų proceso
-vaidmenį, tokios bylos gali būti nagrinėjamos tiesiogiai darbo kolektyvuose, administracinėn
+auklėjamąjį ir prevencinį administracinių teisės pažeidimų bylų proceso vaidmenį,
+tokios bylos gali būti nagrinėjamos tiesiogiai darbo kolektyvuose, administracinėn
 atsakomybėn traukiamo asmens mokymosi arba gyvenamojoje vietoje.
 Straipsnio pakeitimai: 
 Nr. IX-1995, 2004-01-29, Žin., 2004,
@@ -26103,12 +25914,12 @@ baudžiamoji byla buvo nutraukta, dalyvauti teisme nagrinėjant tokias
 administracinių teisės pažeidimų bylas, pareikšti prašymus ir apskųsti šiose
 bylose priimtus nutarimus.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 256
 straipsnis. Įrodymai
@@ -26129,10 +25940,10 @@ prireikus ekspertą ar specialistą skiria pareigūnai, turintys teisę surašyt
 administracinio teisės pažeidimo protokolą, taip pat administracinio teisės
 pažeidimo bylą nagrinėjantis organas (pareigūnas).
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. VIII-1931, 00.09.19, Žin., 2000,
-Nr. 85-2570 (00.10.11)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1931,
+00.09.19, Žin., 2000, Nr. 85-2570 (00.10.11)
  
 257
 straipsnis. Įrodymų įvertinimas
@@ -26141,18 +25952,18 @@ Organas
 visapusišku, pilnutiniu ir objektyviu visų bylos aplinkybių viseto
 išnagrinėjimu, vadovaudamasis įstatymu ir teisine sąmone.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 2571
 straipsnis. Šaukimų ir kitų dokumentų įteikimas administracinių teisės
 pažeidimų bylų procese dalyvaujantiems asmenims
 Šaukimai ir kiti
-procesiniai dokumentai administracinio teisės pažeidimo bylos procese dalyvaujančiam
-asmeniui siunčiami į oficialiai deklaruotą asmens gyvenamąją vietą arba jo
-darbovietę registruotu laišku. Šaukimai ir kiti procesiniai dokumentai
-įteikiami asmeniškai, jeigu administracinio teisės pažeidimo bylos procese
-dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo
+procesiniai dokumentai administracinio teisės pažeidimo bylos procese
+dalyvaujančiam asmeniui siunčiami į oficialiai deklaruotą asmens gyvenamąją
+vietą arba jo darbovietę registruotu laišku. Šaukimai ir kiti procesiniai
+dokumentai įteikiami asmeniškai, jeigu administracinio teisės pažeidimo bylos
+procese dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo
 gyvenančių pilnamečių šeimos narių, o darbovietėje – asmeniui, atsakingam už
 korespondencijos priėmimą.
 Administracinėn
@@ -26187,12 +25998,12 @@ bylos procese dalyvaujančiam asmeniui diena laikoma po procesinio dokumento
 išsiuntimo dienos einanti darbo diena.
 Įstatymas papildytas
 straipsniu:
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 2572
 straipsnis. Su administraciniu teisės pažeidimu susijusių duomenų tvarkymas
@@ -26203,10 +26014,10 @@ Respublikos administracinių teisės pažeidimų registro įstatyme nurodytais
 teisės aktais.
 Įstatymas papildytas
 straipsniu:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 258
 straipsnis. Medžiagos perdavimas prokurorui, parengtinio tardymo arba 
@@ -26244,17 +26055,17 @@ egzempliorius nedelsiant įteikiamas, o šio kodekso 2602 straipsnyje
 numatytais atvejais – nusiunčiamas administracinėn atsakomybėn traukiamam
 asmeniui.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 2591
 straipsnis. Asmenys, turintys teisę surašyti administracinių teisės pažeidimų 
@@ -26300,31 +26111,32 @@ inspekcijos pareigūno ar aplinkos apsaugos valstybinės kontrolės pareigūno
 uždėtos plombos sužalojimą arba nuplėšimą), 214 straipsnis, 2148
 straipsnis – dėl įstatymų uždraustos informacijos ir informacijos apie įstatymų
 uždraustą ar neteisėtą veiklą skleidimo);
-Aplinkos ministerijos
-organų pareigūnai (424 straipsnio pirmoji ir antroji dalys, 45, 49
-straipsniai, 513 straipsnio penktoji, šeštoji, septintoji,
-aštuntoji, devintoji, dešimtoji, vienuoliktoji ir dvyliktoji dalys, 515
-straipsnio trečioji dalis, 518, 519 straipsniai, 5110
-straipsnio antroji ir trečioji dalys, 5114 straipsnio antroji dalis,
-5115 straipsnis, 5118 straipsnio septintoji, aštuntoji,
-devintoji, dešimtoji ir vienuoliktoji dalys, 5119 straipsnio
-penktoji, šeštoji ir septintoji dalys, 5120 straipsnio trečioji,
-ketvirtoji ir penktoji dalys, 5121 straipsnio ketvirtoji dalis, 5123
-straipsnio šeštoji, devintoji, dvyliktoji, aštuonioliktoji ir devynioliktoji
-dalys, 5126, 5127 straipsniai, 56 straipsnio septintoji,
-aštuntoji, devintoji, dešimtoji, vienuoliktoji, dvyliktoji ir tryliktoji dalys,
-62 straipsnio trečioji, ketvirtoji, penktoji, septintoji, aštuntoji, devintoji
-ir dešimtoji dalys, 621 straipsnio trečioji, ketvirtoji, penktoji,
-septintoji, aštuntoji, devintoji ir dešimtoji dalys, 622 straipsnio
-trečioji, ketvirtoji, penktoji, septintoji, aštuntoji, devintoji ir dešimtoji
-dalys, 841 straipsnio trečioji, ketvirtoji, dešimtoji, tryliktoji,
-keturioliktoji, šešioliktoji, septynioliktoji ir aštuonioliktoji dalys, 842
-straipsnio pirmoji dalis, 85 straipsnio ketvirtoji, penktoji, šeštoji,
-septintoji ir aštuntoji dalys, 8712 straipsnio antroji dalis, 891,
-892 straipsniai, 90 straipsnis (dėl pažeidimų, susijusių su
-laukiniais gyvūnais), 162, 1899, 1932 straipsniai, 2141
-straipsnio trečioji ir ketvirtoji dalys – dėl išorinės reklamos saugomose
-teritorijose įrengimo reikalavimų ir draudimų pažeidimų);
+Aplinkos
+ministerijos organų pareigūnai (424 straipsnio pirmoji ir antroji
+dalys, 45, 49 straipsniai, 513 straipsnio penktoji, šeštoji,
+septintoji, aštuntoji, devintoji, dešimtoji, vienuoliktoji ir dvyliktoji dalys,
+515 straipsnio trečioji dalis, 518, 519
+straipsniai, 5110 straipsnio antroji ir trečioji dalys, 5114
+straipsnio antroji dalis, 5115 straipsnis, 5118
+straipsnio septintoji, aštuntoji, devintoji, dešimtoji ir vienuoliktoji dalys,
+5119 straipsnio penktoji, šeštoji ir septintoji dalys, 5120
+straipsnio trečioji, ketvirtoji ir penktoji dalys, 5121 straipsnio
+ketvirtoji dalis, 5123 straipsnio šeštoji, devintoji, dvyliktoji,
+aštuonioliktoji ir devynioliktoji dalys, 5126, 5127
+straipsniai, 56 straipsnio septintoji, aštuntoji, devintoji, dešimtoji,
+vienuoliktoji, dvyliktoji ir tryliktoji dalys, 62 straipsnio trečioji, ketvirtoji,
+penktoji, septintoji, aštuntoji, devintoji ir dešimtoji dalys, 621
+straipsnio trečioji, ketvirtoji, penktoji, septintoji, aštuntoji, devintoji ir
+dešimtoji dalys, 622 straipsnio trečioji, ketvirtoji, penktoji,
+septintoji, aštuntoji, devintoji ir dešimtoji dalys, 841 straipsnio
+trečioji, ketvirtoji, dešimtoji, tryliktoji, keturioliktoji, šešioliktoji,
+septynioliktoji ir aštuonioliktoji dalys, 842 straipsnio pirmoji
+dalis, 85 straipsnio ketvirtoji, penktoji, šeštoji, septintoji ir aštuntoji
+dalys, 8712 straipsnio antroji dalis, 891, 892
+straipsniai, 90 straipsnis (dėl pažeidimų, susijusių su laukiniais gyvūnais),
+162, 1899, 1932 straipsniai, 2141 straipsnio
+trečioji ir ketvirtoji dalys – dėl išorinės reklamos saugomose teritorijose
+įrengimo reikalavimų ir draudimų pažeidimų);
 Lietuvos
 Respublikos Vyriausybės įgaliotos atlikti auditorių ir audito įmonių viešąją
 priežiūrą įstaigos įgalioti asmenys (17315 straipsnis);
@@ -26394,13 +26206,12 @@ centralizuotai
 valdomo valstybės turto valdytojo vadovas arba jo įgalioti asmenys (2151,
 2152, 2153 straipsniai);
 Narkotikų,
-tabako ir alkoholio kontrolės departamento pareigūnai (442
-straipsnio pirmoji ir antroji dalys, 1632 straipsnio antroji,
-trečioji, ketvirtoji, penktoji, šeštoji, septintoji dalys – dėl prekybos
-alkoholiniais gėrimais ir tabako gaminiais, taip pat dėl tokių prekių laikymo,
-164, 17312 straipsniai, 1851 straipsnio antroji dalis,
-1853, 1855 straipsniai, 210 straipsnio pirmoji ir antroji
-dalys);
+tabako ir alkoholio kontrolės departamento pareigūnai (442 straipsnio
+pirmoji ir antroji dalys, 1632 straipsnio antroji, trečioji,
+ketvirtoji, penktoji, šeštoji, septintoji dalys – dėl prekybos alkoholiniais
+gėrimais ir tabako gaminiais, taip pat dėl tokių prekių laikymo, 164, 17312
+straipsniai, 1851 straipsnio antroji dalis, 1853, 1855
+straipsniai, 210 straipsnio pirmoji ir antroji dalys);
 Viešųjų pirkimų
 tarnybos pareigūnai (1713 straipsnio antroji, trečioji ir ketvirtoji
 dalys, 1716 straipsnio antroji, trečioji ir ketvirtoji dalys);
@@ -26432,17 +26243,17 @@ tarnautojai (1735 straipsnio ketvirtoji ir penktoji dalys, 18712
 straipsnis – dėl ekonominių ir finansinių sankcijų pažeidimo);
 kooperatinės
 bendrovės Lietuvos kooperatyvų sąjungos organų pareigūnai (163, 1631 straipsniai,
-1632 straipsnio antroji, trečioji, ketvirtoji, penktoji, šeštoji, septintoji
-dalys, 1639, 16313, 164, 1736 straipsniai –
-dėl kooperatinėse bendrovėse padarytų pažeidimų);
+1632 straipsnio antroji, trečioji, ketvirtoji, penktoji, šeštoji,
+septintoji dalys, 1639, 16313, 164, 1736
+straipsniai – dėl kooperatinėse bendrovėse padarytų pažeidimų);
 Valstybinės
 energetikos inspekcijos prie Energetikos ministerijos pareigūnai (994,
 998, 9910 straipsniai, 9911 straipsnio antroji
 dalis); 
-Valstybinės atominės
-energetikos saugos inspekcijos pareigūnai (515 straipsnio trečioji
-dalis, 941, 173 straipsniai, 1892 straipsnio antroji
-dalis, 1899 straipsnis, 211 straipsnis (išskyrus Lietuvos
+Valstybinės
+atominės energetikos saugos inspekcijos pareigūnai (515 straipsnio
+trečioji dalis, 941, 173 straipsniai, 1892 straipsnio
+antroji dalis, 1899 straipsnis, 211 straipsnis (išskyrus Lietuvos
 metrologijos inspekcijos pareigūno ar aplinkos apsaugos valstybinės kontrolės
 pareigūno uždėtos plombos sužalojimą arba nuplėšimą);
 Valstybinės
@@ -26495,8 +26306,8 @@ pažeidimų, susijusių su augalo veislės, kuriai suteikta teisinė apsauga,
 dauginamosios medžiagos importu ir eksportu, 5123 straipsnio
 šeštoji, devintoji, dvyliktoji, aštuonioliktoji ir devynioliktoji dalys – dėl
 atliekų eksporto, importo ir vežimo tranzitu reikalavimų pažeidimų, 842
-straipsnio pirmoji dalis – dėl gaminių ir įrangos importo, 1331
-straipsnio trečioji dalis, 1632 straipsnio antroji, trečioji,
+straipsnio pirmoji dalis – dėl gaminių ir įrangos importo, 1331 straipsnio
+trečioji dalis, 1632 straipsnio antroji, trečioji,
 ketvirtoji, penktoji, šeštoji, septintoji dalys, 16311 straipsnis,
 171 straipsnio pirmoji ir antroji dalys, 1712 straipsnio antroji
 dalis, 1714, 1715 straipsniai, 1732 straipsnio
@@ -26566,13 +26377,13 @@ straipsnio antroji dalis, 1714, 1715, 1723,
 antroji dalis, 1932 straipsnis, 211 straipsnis (išskyrus Lietuvos
 metrologijos inspekcijos pareigūno ar aplinkos apsaugos valstybinės kontrolės
 pareigūno uždėtos plombos sužalojimą arba nuplėšimą);
-žurnalistų
-etikos inspektorius (18713, 2146 straipsniai, 2147
+žurnalistų etikos
+inspektorius (18713, 2146 straipsniai, 2147
 straipsnio pirmoji ir antroji dalys, 21414 straipsnis – dėl asmens
 duomenų tvarkymo visuomenės informavimo priemonėse pažeidžiant Lietuvos
 Respublikos asmens duomenų teisinės apsaugos įstatymą);
-Seimo
-kontrolieriai (1873 straipsnis);
+Seimo kontrolieriai
+(1873 straipsnis);
 Seimo
 laikinosios tyrimo komisijos nariai (1877 straipsnis);
 savivaldybės
@@ -26605,8 +26416,8 @@ dokumentų ir žemės valdos projektų rengimu, pateikimu, derinimu ar tvirtinim
 Lietuvos
 Respublikos konkurencijos tarybos įgalioti pareigūnai (18911
 straipsnis, 2141 straipsnio pirmoji ir antroji dalys);
-vaiko teisių apsaugos
-kontrolierius (18710 straipsnis);
+vaiko teisių
+apsaugos kontrolierius (18710 straipsnis);
 Valstybinės
 vartotojų teisių apsaugos tarnybos pareigūnai (425 straipsnio
 pirmoji ir antroji dalys, 841 straipsnio ketvirtoji, dešimtoji,
@@ -26644,8 +26455,8 @@ Registrų centro darbuotojai (1722, 1725, 1726,
 17227 straipsniai);
 Civilinės
 aviacijos administracijos pareigūnai (1161 straipsnio trečioji
-dalis, 1164 straipsnis, 18712 straipsnis – dėl
-susisiekimo sankcijų pažeidimo);
+dalis, 1164 straipsnis, 18712 straipsnis – dėl susisiekimo
+sankcijų pažeidimo);
 Valstybinės
 akreditavimo sveikatos priežiūros veiklai tarnybos valstybės tarnautojai (431,
 432, 433, 434, 4310, 4313
@@ -26728,8 +26539,8 @@ Vyriausiosios tarnybinės etikos komisijos nariai ar jos įgalioti pareigūnai
 Administracinių
 teisės pažeidimų bylose, kurias nagrinėti priskirta šio kodekso 222, 225–24712
 straipsniuose nurodytų organų kompetencijai, administracinių teisės pažeidimų
-protokolus turi teisę surašyti tam įgalioti šių organų pareigūnai. Be to, administracinių
-teisės pažeidimų protokolus turi teisę surašyti:
+protokolus turi teisę surašyti tam įgalioti šių organų pareigūnai. Be to,
+administracinių teisės pažeidimų protokolus turi teisę surašyti:
 1) tam įgalioti:
 vidaus reikalų
 ir policijos pareigūnai (513, 515, 516, 52,
@@ -26760,8 +26571,8 @@ apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūna
 (843 straipsnio šeštoji, aštuntoji, devintoji, dešimtoji ir
 vienuoliktoji dalys – dėl eksploatavimo reikalavimų, taikomų priešgaisrinėms
 sistemoms ir gesintuvams, kuriuose yra ozono sluoksnį ardančių medžiagų ar jų
-mišinių, arba priešgaisrinėms sistemoms ir gesintuvams, kurių veikimas nuo ozono
-sluoksnį ardančių medžiagų ar jų mišinių priklauso, pažeidimo);
+mišinių, arba priešgaisrinėms sistemoms ir gesintuvams, kurių veikimas nuo
+ozono sluoksnį ardančių medžiagų ar jų mišinių priklauso, pažeidimo);
 Ūkio
 ministerijos ir jos tam įgalioti pareigūnai (996 straipsnio trečioji
 dalis);
@@ -26773,8 +26584,8 @@ Nacionalinės
 žemės tarnybos prie Žemės ūkio ministerijos pareigūnai (52, 521
 straipsniai);
 Finansinių
-nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos
-pareigūnai (1632 straipsnio pirmoji dalis);
+nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos vidaus reikalų
+ministerijos pareigūnai (1632 straipsnio pirmoji dalis);
 oro uostų
 (aerodromų) ir vežėjų pareigūnai (113, 114, 1162, 139 straipsniai);
 muitinės
@@ -26829,13 +26640,13 @@ organizacijų arba visuomeninių savaveiksmių organų atstovai:
 neetatinis
 aplinkos apsaugos inspektorius (51–58, 60–871 straipsniai, 873
 straipsnio pirmoji ir antroji dalys, 874 straipsnis – dėl pažeidimų
-vidaus vandenyse, 876 straipsnis – dėl pažeidimų parduodant ar
-superkant vidaus vandenų žvejybos produktus, 877
-straipsnis – dėl pažeidimų ne jūrų vandenyse, 88 ir 89 straipsniai);
+vidaus vandenyse, 876 straipsnis – dėl pažeidimų parduodant ar superkant
+vidaus vandenų žvejybos produktus, 877 straipsnis – dėl
+pažeidimų ne jūrų vandenyse, 88 ir 89 straipsniai);
 priešgaisrinės
-apsaugos įgalioti asmenys, įmonių gaisrinės komisijos nariai ir asmenys, kuriems
-pavesta priešgaisrinė priežiūra įmonėse, organizacijose, ministerijose ir
-žinybose (77, 831, 832, 121, 192 straipsniai).
+apsaugos įgalioti asmenys, įmonių gaisrinės komisijos nariai ir asmenys,
+kuriems pavesta priešgaisrinė priežiūra įmonėse, organizacijose, ministerijose
+ir žinybose (77, 831, 832, 121, 192 straipsniai).
 Įstatymų
 tiesiogiai numatytais atvejais administracinių teisės pažeidimų protokolus taip
 pat gali surašyti kitų valstybinių organų pareigūnai, visuomeninių organizacijų
@@ -26867,197 +26678,198 @@ Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-435, 1990.07.30, Žin., 1990,
-Nr. 23-565 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-853, 1990.12.11, Žin., 1990,
-Nr. 36-866 
-Nr. I-901, 1990.12.28, Žin., 1991,
-Nr. 2-37 
-Nr. I-1026, 1991.01.31, Žin., 1991,
-Nr. 6-162 
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568 
-Nr. I-1631, 1991.07.30, Žin., 1991,
-Nr. 23-600 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-252, 1993.09.28, Žin., 1993,
-Nr. 52-993 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-286, 1993.10.19, Žin., 1993,
-Nr. 56-1079 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-340, 1993.12.16, Žin., 1993,
-Nr. 73-1369 
-Nr. I-387, 1994.02.10, Žin., 1994,
-Nr. 14-228 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-580, 1994.07.21, Žin., 1994,
-Nr. 59-1164 
-Nr. I-590, 1994.09.13, Žin., 1994,
-Nr. 73-1372 
-Nr. I-625, 1994.11.03, Žin., 1994,
-Nr. 88-1668 
-Nr. I-631, 94.11.08, Žin., 1994,
-Nr. 88-1670 (94.11.16) 
-Nr. I-661, 94.11.15, Žin., 1994,
-Nr. 91-1766 (94.11.25) 
-Nr. I-721, 94.12.21, Žin., 1995,
-Nr. 3-36 (95.01.06) 
-Nr. I-743, 94.12.28, Žin., 1995,
-Nr. 3-39 (95.01.06) 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03) 
-Nr. I-880, 95.05.04, Žin., 1995,
-Nr. 43-1045 (95.05.24) 
-Nr. I-910, 95.05.30, Žin., 1995,
-Nr. 48-1162 (95.06.09) 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05) 
-Nr. I-1037, 95.09.12, Žin., 1995,
-Nr. 79-1818 (95.09.27) 
-Nr. I-1056, 95.10.03, Žin., 1995,
-Nr. 86-1942 (95.10.20) 
-Nr. I-1099, 95.11.28, Žin., 1995,
-Nr. 103-2294 (95.12.20) 
-Nr. I-1127, 95.12.14, Žin., 1995,
-Nr. 106-2350 (95.12.29) 
-Nr. I-1141, 95.12.20, Žin., 1995,
-Nr. 104-2325 (95.12.22) 
-Nr. I-1156, 95.12.21, Žin., 1996,
-Nr. 8-195 (96.01.26) 
-Nr. I-1180, 96.01.23, Žin., 1996,
-Nr. 14-353 (96.02.14) 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28) 
-Nr. I-1281, 96.04.04, Žin., 1996,
-Nr. 37-930 (96.04.26) 
-Nr. I-1341, 96.05.16, Žin., 1996,
-Nr. 57-1334 (96.06.19) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. I-1469, 96.07.11, Žin., 1996,
-Nr. 74-1769 (96.08.02) 
-Nr. I-1551, 96.09.25, Žin., 1996,
-Nr. 104-2362 (96.10.30)
-Nr. VIII-216, 97.05.08, Žin., 1997,
-Nr. 41-996 (97.05.14)
-Nr. VIII-278, 97.06.19, Žin., 1997,
-Nr. 64-1505 (97.07.04)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-432, 97.10.07, Žin., 1997,
-Nr. 94-2358 (97.10.17)
-Nr. VIII-440, 97.10.09, Žin., 1997,
-Nr. 94-2359 (97.10.17)
-Nr. VIII-461, 97.10.16, Žin., 1997,
-Nr. 97-2446 (97.10.29)
-Nr. VIII-520, 97.11.18, Žin., 1997,
-Nr. 108-2735 (97.11.28)
-Nr. VIII-545, 97.12.02, Žin., 1997,
-Nr. 116-2954 (97.12.19)
-Nr. VIII-604, 98.01.08, Žin., 1998,
-Nr. 6-116 (98.01.16)
-Nr. VIII-620, 98.02.03, Žin., 1998,
-Nr. 16-377 (98.02.13)
-Nr. VIII-643, 98.02.24, Žin., 1998,
-Nr. 25-637 (98.03.13)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-678, 98.03.24, Žin., 1998,
-Nr. 33-874 (98.04.08)
-Nr. VIII-687, 98.04.07, Žin., 1998,
-Nr. 40-1065 (98.04.29)
-Nr. VIII-695, 98.04.08, Žin., 1998,
-Nr. 40-1066 (98.04.29)
-Nr. VIII-698, 98.04.15, Žin., 1998,
-Nr. 41-1094 (98.05.01)
-Nr. VIII-713, 98.04.21, Žin., 1998,
-Nr. 44-1198 (98.05.13)
-Nr. VIII-990, 98.12.21, Žin., 1999,
-Nr. 3-58 (99.01.08)
-Nr. VIII-1017, 99.01.05, Žin., 1999,
-Nr. 11-237 (99.01.27)
-Nr. VIII-1076, 99.02.11, Žin., 1999,
-Nr. 19-517 (99.02.24)
-Nr. VIII-1081, 99.02.11, Žin., 1999,
-Nr. 23-649 (99.03.10)
-Nr. VIII-1136, 99.04.08, Žin., 1999,
-Nr. 36-1066 (99.04.23)
-Nr. VIII-1278, 99.07.01, Žin., 1999,
-Nr. 66-2111 (99.07.30)
-Nr. VIII-1486, 99.12.21, Žin., 1999,
-Nr. 113-3286 (99.12.30)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-435,
+1990.07.30, Žin., 1990, Nr. 23-565 
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-853,
+1990.12.11, Žin., 1990, Nr. 36-866 
+Nr. I-901,
+1990.12.28, Žin., 1991, Nr. 2-37 
+Nr. I-1026,
+1991.01.31, Žin., 1991, Nr. 6-162 
+Nr. I-1573,
+1991.07.18, Žin., 1991, Nr. 22-568 
+Nr. I-1631,
+1991.07.30, Žin., 1991, Nr. 23-600 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-252,
+1993.09.28, Žin., 1993, Nr. 52-993 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-286,
+1993.10.19, Žin., 1993, Nr. 56-1079 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-340,
+1993.12.16, Žin., 1993, Nr. 73-1369 
+Nr. I-387,
+1994.02.10, Žin., 1994, Nr. 14-228 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132 
+Nr. I-580,
+1994.07.21, Žin., 1994, Nr. 59-1164 
+Nr. I-590,
+1994.09.13, Žin., 1994, Nr. 73-1372 
+Nr. I-625,
+1994.11.03, Žin., 1994, Nr. 88-1668 
+Nr. I-631,
+94.11.08, Žin., 1994, Nr. 88-1670 (94.11.16) 
+Nr. I-661,
+94.11.15, Žin., 1994, Nr. 91-1766 (94.11.25) 
+Nr. I-721,
+94.12.21, Žin., 1995, Nr. 3-36 (95.01.06) 
+Nr. I-743,
+94.12.28, Žin., 1995, Nr. 3-39 (95.01.06) 
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03) 
+Nr. I-880,
+95.05.04, Žin., 1995, Nr. 43-1045 (95.05.24) 
+Nr. I-910,
+95.05.30, Žin., 1995, Nr. 48-1162 (95.06.09) 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05) 
+Nr. I-1037,
+95.09.12, Žin., 1995, Nr. 79-1818 (95.09.27) 
+Nr. I-1056,
+95.10.03, Žin., 1995, Nr. 86-1942 (95.10.20) 
+Nr. I-1099,
+95.11.28, Žin., 1995, Nr. 103-2294 (95.12.20) 
+Nr. I-1127,
+95.12.14, Žin., 1995, Nr. 106-2350 (95.12.29) 
+Nr. I-1141,
+95.12.20, Žin., 1995, Nr. 104-2325 (95.12.22) 
+Nr. I-1156,
+95.12.21, Žin., 1996, Nr. 8-195 (96.01.26) 
+Nr. I-1180,
+96.01.23, Žin., 1996, Nr. 14-353 (96.02.14) 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28) 
+Nr. I-1281,
+96.04.04, Žin., 1996, Nr. 37-930 (96.04.26) 
+Nr. I-1341,
+96.05.16, Žin., 1996, Nr. 57-1334 (96.06.19) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. I-1469,
+96.07.11, Žin., 1996, Nr. 74-1769 (96.08.02) 
+Nr. I-1551,
+96.09.25, Žin., 1996, Nr. 104-2362 (96.10.30)
+Nr. VIII-216,
+97.05.08, Žin., 1997, Nr. 41-996 (97.05.14)
+Nr. VIII-278,
+97.06.19, Žin., 1997, Nr. 64-1505 (97.07.04)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-432,
+97.10.07, Žin., 1997, Nr. 94-2358 (97.10.17)
+Nr. VIII-440,
+97.10.09, Žin., 1997, Nr. 94-2359 (97.10.17)
+Nr. VIII-461,
+97.10.16, Žin., 1997, Nr. 97-2446 (97.10.29)
+Nr. VIII-520,
+97.11.18, Žin., 1997, Nr. 108-2735 (97.11.28)
+Nr. VIII-545,
+97.12.02, Žin., 1997, Nr. 116-2954 (97.12.19)
+Nr. VIII-604,
+98.01.08, Žin., 1998, Nr. 6-116 (98.01.16)
+Nr. VIII-620,
+98.02.03, Žin., 1998, Nr. 16-377 (98.02.13)
+Nr. VIII-643,
+98.02.24, Žin., 1998, Nr. 25-637 (98.03.13)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-678,
+98.03.24, Žin., 1998, Nr. 33-874 (98.04.08)
+Nr. VIII-687,
+98.04.07, Žin., 1998, Nr. 40-1065 (98.04.29)
+Nr. VIII-695,
+98.04.08, Žin., 1998, Nr. 40-1066 (98.04.29)
+Nr. VIII-698,
+98.04.15, Žin., 1998, Nr. 41-1094 (98.05.01)
+Nr. VIII-713,
+98.04.21, Žin., 1998, Nr. 44-1198 (98.05.13)
+Nr. VIII-990,
+98.12.21, Žin., 1999, Nr. 3-58 (99.01.08)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
+Nr. VIII-1076,
+99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
+Nr. VIII-1136,
+99.04.08, Žin., 1999, Nr. 36-1066 (99.04.23)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
 Nr.
-VIII-1651, 00.05.02, Žin., 2000,
-Nr. 41-1164 (00.05.19)
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+VIII-1651,
+00.05.02, Žin., 2000, Nr. 41-1164 (00.05.19)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
 Nr.
-VIII-1735, 00.06.15, Žin., 2000,
-Nr. 54-1558 (00.07.05)
+VIII-1735,
+00.06.15, Žin., 2000, Nr. 54-1558 (00.07.05)
 Nr.
-VIII-1750, 00.06.27, Žin., 2000,
-Nr. 56-1645 (00.07.12)
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+VIII-1750,
+00.06.27, Žin., 2000, Nr. 56-1645 (00.07.12)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 Nr.
-VIII-1979, 00.10.10, Žin., 2000,
-Nr. 89-2745 (00.10.25)
-Nr. VIII-2023, 00.10.12, Žin., 2000,
-Nr. 92-2871 (00.10.31)
-Nr. VIII-2051, 00.10.17, Žin., 2000,
-Nr. 92-2884 (00.10.31)
-Nr. IX-108, 2000 12 21, Žin., 2000,
-Nr. 113-3610 (2000 12 30)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-256,
-2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05 09)
-Nr. IX-651, 2001-12-13, Žin., 2001,
-Nr. 112-4071 (2001-12-30)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
-Nr. IX-748, 2002-02-28, Žin., 2002,
-Nr. 23-852 (2002-03-01)
-Nr. IX-744, 2002-02-28, Žin., 2002,
-Nr. 29-1031 (2002-03-20)
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+VIII-1979,
+00.10.10, Žin., 2000, Nr. 89-2745 (00.10.25)
+Nr. VIII-2023,
+00.10.12, Žin., 2000, Nr. 92-2871 (00.10.31)
+Nr. VIII-2051,
+00.10.17, Žin., 2000, Nr. 92-2884 (00.10.31)
+Nr. IX-108,
+2000 12 21, Žin., 2000, Nr. 113-3610 (2000 12 30)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-256, 2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05
+09)
+Nr. IX-651,
+2001-12-13, Žin., 2001, Nr. 112-4071 (2001-12-30)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
+Nr. IX-748,
+2002-02-28, Žin., 2002, Nr. 23-852 (2002-03-01)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1234, 2002-12-10, Žin., 2002,
-Nr. 123-5526 (2002-12-24)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27), atitaisymas skelbtas:Žin., 2003, Nr. 2
-Nr. IX-1363, 2003-03-13, Žin., 2003,
-Nr. 28-1126 (2003-03-21)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1234,
+2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27), atitaisymas
+skelbtas:Žin., 2003, Nr. 2
+Nr. IX-1363,
+2003-03-13, Žin., 2003, Nr. 28-1126 (2003-03-21)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1758, 2003-10-14, Žin., 2003,
 Nr. 102-4581 (2003-10-31)
 Nr. IX-1824, 2003-11-13, Žin., 2003,
@@ -27111,8 +26923,8 @@ Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
 Nr. X-1246, 2007-07-03, Žin., 2007,
 Nr. 81-3316 (2007-07-21, šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo
-priede, įgyvendinimą.
+įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
+įstatymo priede, įgyvendinimą.
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. X-1381, 2007-12-18, Žin., 2007,
@@ -27131,120 +26943,113 @@ Nr. 123-4661 (2008-10-25)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-507, 2009-12-01, Žin., 2009,
-Nr. 147-6550 (2009-12-12)
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05),
-šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio
-įstatymo priede
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-507,
+2009-12-01, Žin., 2009, Nr. 147-6550 (2009-12-12)
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu
+įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
 Nr.
-XI-788, 2010-04-27, Žin., 2010,
-Nr. 55-2680 (2010-05-13)
-Nr. XI-801, 2010-05-11, Žin., 2010,
-Nr. 60-2960 (2010-05-25)
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
-Nr. XI-1086, 2010-11-04, Žin., 2010,
-Nr. 137-6987 (2010-11-23)
-Nr. XI-1183, 2010-11-30, Žin., 2010,
-Nr. 145-7436 (2010-12-11)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1293, 2011-03-22, Žin., 2011,
-Nr. 40-1917 (2011-04-05)
-Nr. XI-1385, 2011-05-19, Žin., 2011,
-Nr. 68-3216 (2011-06-04)
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
-Nr. XI-1493, 2011-06-21, Žin., 2011,
-Nr. 91-4313 (2011-07-19)
-Nr. XI-1551, 2011-06-28, Žin., 2011,
-Nr. 91-4326 (2011-07-19), šiuo
-įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo
-priede
-Nr. XI-1589, 2011-09-15, Žin., 2011,
-Nr. 117-5507 (2011-09-28)
+XI-788,
+2010-04-27, Žin., 2010, Nr. 55-2680 (2010-05-13)
+Nr. XI-801,
+2010-05-11, Žin., 2010, Nr. 60-2960 (2010-05-25)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
+Nr. XI-1036,
+2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1086,
+2010-11-04, Žin., 2010, Nr. 137-6987 (2010-11-23)
+Nr. XI-1183,
+2010-11-30, Žin., 2010, Nr. 145-7436 (2010-12-11)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1293,
+2011-03-22, Žin., 2011, Nr. 40-1917 (2011-04-05)
+Nr. XI-1385,
+2011-05-19, Žin., 2011, Nr. 68-3216 (2011-06-04)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1493,
+2011-06-21, Žin., 2011, Nr. 91-4313 (2011-07-19)
+Nr. XI-1551,
+2011-06-28, Žin., 2011, Nr. 91-4326 (2011-07-19), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-1589,
+2011-09-15, Žin., 2011, Nr. 117-5507 (2011-09-28)
 Nr.
-XI-1767, 2011-12-01, Žin., 2011,
-Nr. 153-7204 (2011-12-15)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+XI-1767,
+2011-12-01, Žin., 2011, Nr. 153-7204 (2011-12-15)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1902, 2011-12-22, Žin., 2011,
 Nr. 163-7778 (2011-12-31),
 šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
 
-Nr. XI-1968, 2012-04-12, Žin., 2012,
-Nr. 50-2441 (2012-04-28)
-Nr. XI-2009, 2012-05-10, Žin., 2012,
-Nr. 57-2832 (2012-05-19), šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
-aktas, nurodytas šio įstatymo priede
-Nr. XI-2374, 2012-11-06, Žin., 2012,
-Nr. 132-6695 (2012-11-15)
-Nr. XII-274, 2013-05-09, Žin., 2013,
-Nr. 54-2679 (2013-05-25)
-Nr. XII-703, 2013-12-19, Žin., 2013,
-Nr. 140-7073 (2013-12-30)
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
-Nr. XII-486, 2013-07-02, Žin., 2013,
-Nr. 76-3855 (2013-07-16)
+Nr. XI-1968,
+2012-04-12, Žin., 2012, Nr. 50-2441 (2012-04-28)
+Nr. XI-2009,
+2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19), šiuo įstatymu įgyvendinamas
+Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-2374,
+2012-11-06, Žin., 2012, Nr. 132-6695 (2012-11-15)
+Nr. XII-274,
+2013-05-09, Žin., 2013, Nr. 54-2679 (2013-05-25)
+Nr. XII-703,
+2013-12-19, Žin., 2013, Nr. 140-7073 (2013-12-30)
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
+Nr. XII-486,
+2013-07-02, Žin., 2013, Nr. 76-3855 (2013-07-16)
 Nr.
-XII-389, 2013-06-18, Žin., 2013,
-Nr. 68-3418 (2013-06-28)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-638, 2013-12-03, Žin., 2013,
-Nr. 130-6622 (2013-12-19)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+XII-389,
+2013-06-18, Žin., 2013, Nr. 68-3418 (2013-06-28)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-638,
+2013-12-03, Žin., 2013, Nr. 130-6622 (2013-12-19)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 Nr. XII-1431, 2014-12-11, paskelbta
 TAR 2014-12-23, i. k. 2014-20556
 Nr. XII-1433, 2014-12-16, paskelbta
 TAR 2014-12-24, i. k. 2014-20628
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
-Nr. XII-1551, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04833
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
 Nr.
-XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
-Nr. XII-1708, 2015-05-14, paskelbta
-TAR 2015-05-25, i. k. 2015-08040
+XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
+Nr. XII-1708,
+2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08040
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
-Nr. XII-1873, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10773
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
-Nr. XII-1876, 2015-06-25, paskelbta
-TAR 2015-07-09, i. k. 2015-11210
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
-Nr. XII-2184, 2015-12-15, paskelbta
-TAR 2015-12-29, i. k. 2015-20888
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
+Nr. XII-1873,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10773
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
+Nr. XII-1876,
+2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11210
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
+Nr. XII-2184,
+2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20888
 Nr.
 XII-2557,
 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20294
@@ -27261,10 +27066,11 @@ liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai;
 administracinėn atsakomybėn traukiamo asmens pasiaiškinimas; administracinėn
 atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei
 asmuo dėl to kreipėsi į protokolą rašantį pareigūną; administracinėn
-atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius
-dokumentus elektroninių ryšių priemonėmis; kitokios žinios, būtinos bylai
-išspręsti. Administracinio teisės pažeidimo protokolo formą ir jos pildymo
-taisykles tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti
+procesinius dokumentus elektroninių ryšių priemonėmis; kitokios žinios, būtinos
+bylai išspręsti. Administracinio teisės pažeidimo protokolo formą ir jos
+pildymo taisykles tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota
+institucija.
 Jeigu yra šio
 kodekso 2601 straipsnyje nurodyti pagrindai, pareigūnas į
 administracinio teisės pažeidimo protokolą įrašo administracinį nurodymą,
@@ -27292,11 +27098,12 @@ protokolas gali
 būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; jeigu
 yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti taip pat ir šie
 asmenys.
-Jeigu administracinėn
-atsakomybėn traukiamas asmuo atsisako suteikti žinias apie save arba pasirašyti
-protokolą, tai įrašoma protokole. Administracinėn atsakomybėn traukiamas asmuo
-turi teisę pateikti prie protokolo pridedamus paaiškinimus ir pastabas dėl
-protokolo turinio, taip pat išdėstyti savo atsisakymo jį pasirašyti motyvus.
+Jeigu
+administracinėn atsakomybėn traukiamas asmuo atsisako suteikti žinias apie save
+arba pasirašyti protokolą, tai įrašoma protokole. Administracinėn atsakomybėn
+traukiamas asmuo turi teisę pateikti prie protokolo pridedamus paaiškinimus ir
+pastabas dėl protokolo turinio, taip pat išdėstyti savo atsisakymo jį
+pasirašyti motyvus.
 Surašant
 protokolą, administracinėn atsakomybėn traukiamam asmeniui išaiškinamos jo
 teisės ir pareigos, numatytos šio kodekso 272 straipsnyje, ir tai pažymima
@@ -27308,22 +27115,22 @@ asmuo turi teisę pateikti administracinio teisės pažeidimo bylos nagrinėjimo
 metu. Kitos administracinėn atsakomybėn traukiamo asmens teisės ir pareigos,
 numatytos šio kodekso 272 straipsnyje, išdėstomos protokole.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04), atitaisymas skelbtas: Žin., 2011,
-Nr. 8
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04), atitaisymas
+skelbtas: Žin., 2011, Nr. 8
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 2601
 straipsnis. Administracinio nurodymo surašymo pagrindai ir jo įvykdymo pasekmės
@@ -27342,8 +27149,8 @@ numatytos šio kodekso II skyriaus ypatingosios dalies straipsnyje, kuriame
 nustatyta atsakomybė už asmens padarytą administracinį teisės pažeidimą, bet ne
 mažesnę kaip du eurai.
 Administraciniu
-nurodymu siūloma bauda turi būti išreikšta sveikuoju skaičiumi, apvalinant vieno
-euro tikslumu ir visais atvejais paliekant perskaičiuotą skaičių eurais
+nurodymu siūloma bauda turi būti išreikšta sveikuoju skaičiumi, apvalinant
+vieno euro tikslumu ir visais atvejais paliekant perskaičiuotą skaičių eurais
 nepakitusį.
 Administracinis
 nurodymas negali būti surašomas, jei šio kodekso II skyriaus ypatingosios
@@ -27360,8 +27167,8 @@ nurodymas yra neskundžiamas. Asmeniui įvykdžius administracinį nurodymą,
 administracinio teisės pažeidimo bylos teisena baigiama.
 Įstatymas papildytas
 straipsniu:
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
 Straipsnio
 pakeitimai:
 Nr. XII-1236, 2014-10-16, paskelbta
@@ -27397,13 +27204,13 @@ o transporto priemonės savininkui (valdytojui) surašytas administracinio teis�
 pažeidimo protokolas su administraciniu nurodymu laikomas negaliojančiu.
 Jeigu transporto
 priemonės savininkas (valdytojas) yra juridinis asmuo, šio juridinio asmens
-vadovui pranešama apie administracinį teisės pažeidimą. Juridinio asmens
-vadovas per tris darbo dienas privalo pranešti duomenis apie asmenį (vardą,
-pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris
-administracinio teisės pažeidimo padarymo metu naudojosi transporto priemonės
-savininkui (valdytojui) priklausančia transporto priemone. Transporto priemonės
-savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas
-administracinio teisės pažeidimo protokolas su administraciniu nurodymu. 
+vadovui pranešama apie administracinį teisės pažeidimą. Juridinio asmens vadovas
+per tris darbo dienas privalo pranešti duomenis apie asmenį (vardą, pavardę,
+asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio
+teisės pažeidimo padarymo metu naudojosi transporto priemonės savininkui
+(valdytojui) priklausančia transporto priemone. Transporto priemonės savininko
+(valdytojo) nurodytam asmeniui surašomas ir siunčiamas administracinio teisės
+pažeidimo protokolas su administraciniu nurodymu. 
 Nustatant šio
 straipsnio pirmojoje dalyje nurodytus administracinius teisės pažeidimus,
 daromos transporto priemonės nuotraukos, kuriose užfiksuojami pažeidimai, arba
@@ -27411,21 +27218,20 @@ pažeidimai užfiksuojami stacionariomis ar mobiliosiomis teisės pažeidimo
 fiksavimo sistemomis.
 Įstatymas papildytas
 straipsniu:
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
 Straipsnio pakeitimai: 
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-361, 2013-06-13, Žin., 2013,
-Nr. 68-3402 (2013-06-28)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
+XII-361,
+2013-06-13, Žin., 2013, Nr. 68-3402 (2013-06-28)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
  
 261
 straipsnis. Protokolo ar medžiagos pasiuntimas
@@ -27475,18 +27281,18 @@ I-501, 1985.11.28, Žin., 1985,
 Nr. 33-370 
 I-870, 1986.05.28, Žin., 1986,
 Nr. 16-158 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 262
 straipsnis. Atvejai ir aplinkybės, kai administracinio teisės pažeidimo
@@ -27532,41 +27338,41 @@ Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-1399, 1991.06.04, Žin., 1991,
-Nr. 17-453 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 (94.05.06) 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03) 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05) 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-638, 98.02.24, Žin., 1998,
-Nr. 25-634 (98.03.13)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-1399,
+1991.06.04, Žin., 1991, Nr. 17-453 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 (94.05.06) 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03) 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05) 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-638,
+98.02.24, Žin., 1998, Nr. 25-634 (98.03.13)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-382, 2005-11-10, Žin., 2005,
@@ -27583,31 +27389,28 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04), kai yra šio
-kodekso 262 straipsnyje nurodyti pagrindai, pradėtų ir nebaigtų administracinių
-teisės pažeidimų bylų, taip pat administracinių teisės pažeidimų, kurių
-protokolai surašyti iki šio įstatymo įsigaliojimo, bylų teisena vyksta iki šio
-įstatymo įsigaliojimo galiojusia tvarka
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04), kai yra šio kodekso 262 straipsnyje nurodyti pagrindai, pradėtų ir
+nebaigtų administracinių teisės pažeidimų bylų, taip pat administracinių teisės
+pažeidimų, kurių protokolai surašyti iki šio įstatymo įsigaliojimo, bylų
+teisena vyksta iki šio įstatymo įsigaliojimo galiojusia tvarka
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
-263 straipsnis.
-Administracinėn atsakomybėn traukiamo asmens pristatymas 
+263
+straipsnis. Administracinėn atsakomybėn traukiamo asmens pristatymas 
 Administracinio
 teisės pažeidimo protokolui surašyti, kai negalima jo surašyti pažeidimo
 padarymo vietoje, o protokolas yra būtinas, policijos ar Viešojo saugumo
-tarnybos pareigūnas administracinėn atsakomybėn traukiamą asmenį gali
-pristatyti į policiją arba į savivaldybės seniūnijos kaimo vietovėje patalpas.
-Jeigu teisės pažeidimo protokolo negalima surašyti pažeidimo padarymo vietoje
-ir pagal įgalioto šią bylą nagrinėti arba surašyti šioje byloje protokolą
-organo (pareigūno) šaukimą administracinėn atsakomybėn traukiamas asmuo vengia
+tarnybos pareigūnas administracinėn atsakomybėn traukiamą asmenį gali pristatyti
+į policiją arba į savivaldybės seniūnijos kaimo vietovėje patalpas. Jeigu
+teisės pažeidimo protokolo negalima surašyti pažeidimo padarymo vietoje ir
+pagal įgalioto šią bylą nagrinėti arba surašyti šioje byloje protokolą organo
+(pareigūno) šaukimą administracinėn atsakomybėn traukiamas asmuo vengia
 atvykti, pagal tokio organo (pareigūno) pranešimą administracinio teisės
 pažeidimo protokolui surašyti policijos ar Viešojo saugumo tarnybos pareigūnas
 administracinėn atsakomybėn traukiamą asmenį gali pristatyti į minėto organo
@@ -27647,18 +27450,18 @@ valandas.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-134, 2005-03-17, Žin., 2005,
@@ -27671,9 +27474,9 @@ Nr. 73-2759 (2006-06-30), šis
 Nr. X-815, 2006-09-19, Žin., 2006,
 Nr. 102-3937 (2006-09-26, šio įstatymo nuostatos yra suderintos su šio įstatymo
 priede nurodytais Europos Sąjungos teisės aktais
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 Devynioliktasis
 skirsnis
@@ -27715,20 +27518,20 @@ neblaivūs arba apsvaigę nuo narkotinių ar psichotropinių medžiagų, patikri
 neblaivumui arba apsvaigimui nustatyti, laivo stabdymo, laivo tikrinimo, laivo
 sulaikymo tvarką nustato šis kodeksas ir kiti Lietuvos Respublikos įstatymai.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. IX-316,
-2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05 30)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. IX-316, 2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05
+30)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 265
 straipsnis. Administracinis sulaikymas
@@ -27738,13 +27541,13 @@ data ir vieta; protokolą surašiusio asmens pareigybė, pavardė, vardas ir tė
 vardas; žinios apie sulaikytojo asmenybę; sulaikymo laikas, vieta ir motyvai.
 Protokolą pasirašo jį surašęs pareigūnas ir sulaikytasis. Jeigu sulaikytasis
 atsisako pasirašyti protokolą, apie tai įrašoma protokole.
-Sulaikyto administracinėn
-atsakomybėn traukiamo asmens prašymu pranešama, kur jis yra, jo giminaičiams,
-darbovietės arba mokyklos administracijai. Apie nepilnamečio sulaikymą būtina
-pranešti jo tėvams arba globėjams (rūpintojams).
+Sulaikyto
+administracinėn atsakomybėn traukiamo asmens prašymu pranešama, kur jis yra, jo
+giminaičiams, darbovietės arba mokyklos administracijai. Apie nepilnamečio
+sulaikymą būtina pranešti jo tėvams arba globėjams (rūpintojams).
 Straipsnio pakeitimai:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
  
 266
 straipsnis. Organai (pareigūnai), turintys teisę vykdyti administracinį
@@ -27772,35 +27575,36 @@ Valstybės sienos apsaugos tarnybos pareigūno teisėtam reikalavimui sustabdyti
 transporto priemonę;
 4)
 saugomo objekto vietoje objektų apsaugos vyresnysis pareigūnas – už teisės
-pažeidimus, susijusius su kėsinimusi į saugomus objektus, kitą valstybinį ar
-visuomeninį turtą;
+pažeidimus, susijusius su kėsinimusi į saugomus objektus, kitą valstybinį ar visuomeninį
+turtą;
 5) laisvės
 atėmimo vietų pareigūnai – už Lietuvos Respublikos įstatymų ar kitų teisės aktų
 uždraustų medžiagų, dirbinių, daiktų ir reikmenų perdavimą arba bandymą juos
 perduoti;
-6) muitinės
-pareigūnai – už muitų taisyklių pažeidimus, taip pat už nepaklusimą uniformuoto
-muitinės pareigūno teisėtam reikalavimui sustabdyti transporto priemonę.
+6)
+muitinės pareigūnai – už muitų taisyklių pažeidimus, taip pat už nepaklusimą
+uniformuoto muitinės pareigūno teisėtam reikalavimui sustabdyti transporto
+priemonę.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
-Nr. I-1691, 1987.06.09, Žin.,
-1987, Nr. 17-189 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28)
-Nr. VIII-2014, 00.10.10, Žin., 2000,
-Nr. 92-2866 (00.10.31)
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+Nr. I-1691, 1987.06.09, Žin., 1987,
+Nr. 17-189 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28)
+Nr. VIII-2014,
+00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
@@ -27811,9 +27615,9 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 267
 straipsnis. Administracinio sulaikymo terminai 
@@ -27839,22 +27643,22 @@ pristatymo protokolui surašyti momento, o girto asmens – nuo jo išblaivėjim
 Straipsnio pakeitimai: 
 Nr. XI-3489, 1989.12.18, Žin.,
 1990, Nr. 1-8 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai,
-nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 268
 straipsnis. Asmens apžiūra ir daiktų patikrinimas
@@ -27874,12 +27678,11 @@ saugomų teritorijų pareigūnai, Ryšių reguliavimo tarnybos inspektoriai,
 Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos
 žuvininkystės kontrolės pareigūnai, taip pat kitų tam įgaliotų organų
 pareigūnai Lietuvos Respublikos įstatymų numatytais atvejais.
-Daiktai, rankinis
-bagažas, bagažas, medžioklės ir žvejybos įrankiai, įgyta produkcija ir kiti
-daiktai tikrinami paprastai asmens, kurio nuosavybė yra tie daiktai arba jo
-valdomi, akivaizdoje. Tais atvejais, kai atidėlioti negalima, nurodyti daiktai
-gali būti patikrinti ir be savininko (valdytojo), dalyvaujant dviem
-kviestiniams.
+Daiktai,
+rankinis bagažas, bagažas, medžioklės ir žvejybos įrankiai, įgyta produkcija ir
+kiti daiktai tikrinami paprastai asmens, kurio nuosavybė yra tie daiktai arba
+jo valdomi, akivaizdoje. Tais atvejais, kai atidėlioti negalima, nurodyti
+daiktai gali būti patikrinti ir be savininko (valdytojo), dalyvaujant dviem kviestiniams.
 Dėl asmens
 apžiūros ir daiktų patikrinimo surašomas protokolas arba tai įrašoma
 administracinio teisės pažeidimo protokole ar administracinio sulaikymo
@@ -27889,20 +27692,20 @@ ir daiktų patikrinimas muitų įstaigose vykdomas įstatymų nustatyta tvarka.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
 Nr.
@@ -27910,9 +27713,9 @@ X-691, 2006-06-15, Žin., 2006,
 Nr. 73-2759 (2006-06-30), šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą 
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 269
 straipsnis. Daiktų ir dokumentų paėmimas, priverstinis transporto priemonės 
@@ -27959,19 +27762,19 @@ vairuotojo pažymėjimas (vidaus vandenų transporto specialisto laipsnio
 diplomas, kvalifikacijos liudijimas arba laivavedžio pažymėjimas) negrąžinamas,
 o laikino leidimo galiojimas pratęsiamas, iki baigsis terminas, nustatytas
 skundui paduoti, arba iki bus priimtas sprendimas dėl skundo.
-Padarius šio kodekso
-165, 1671, 1672, 176, 1761, 194, 195, 196,
-199, 1991 straipsniuose numatytus pažeidimus, policijos darbuotojai
-turi teisę paimti šiuose straipsniuose išvardytus ginklus, šaudmenis, civilines
-pirotechnikos priemones, ginklų taikiklius ar kitus priedėlius, kuriuos Ginklų
-ir šaudmenų kontrolės įstatymas su tokios rūšies ginklais draudžia naudoti, iki
-bylos išnagrinėjimo ir tai įrašoma protokole nurodant paimto ginklo markę ar
-modelį, kalibrą, seriją ir numerį, šaudmenų kiekį ir rūšį, civilinių pirotechnikos
-priemonių, ginklų taikiklių ar kitų priedėlių, kuriuos Ginklų ir šaudmenų
-kontrolės įstatymas su tokios rūšies ginklais draudžia naudoti, kiekį ir klasę.
-Kai administracinį teisės pažeidimą padaro asmuo, eidamas tarnybines pareigas,
-daiktų paėmimas, asmens apžiūra ir daiktų patikrinimas taikomas tik tais
-atvejais, kai atidėlioti negalima.
+Padarius šio
+kodekso 165, 1671, 1672, 176, 1761, 194, 195,
+196, 199, 1991 straipsniuose numatytus pažeidimus, policijos
+darbuotojai turi teisę paimti šiuose straipsniuose išvardytus ginklus,
+šaudmenis, civilines pirotechnikos priemones, ginklų taikiklius ar kitus
+priedėlius, kuriuos Ginklų ir šaudmenų kontrolės įstatymas su tokios rūšies
+ginklais draudžia naudoti, iki bylos išnagrinėjimo ir tai įrašoma protokole
+nurodant paimto ginklo markę ar modelį, kalibrą, seriją ir numerį, šaudmenų
+kiekį ir rūšį, civilinių pirotechnikos priemonių, ginklų taikiklių ar kitų
+priedėlių, kuriuos Ginklų ir šaudmenų kontrolės įstatymas su tokios rūšies
+ginklais draudžia naudoti, kiekį ir klasę. Kai administracinį teisės pažeidimą
+padaro asmuo, eidamas tarnybines pareigas, daiktų paėmimas, asmens apžiūra ir
+daiktų patikrinimas taikomas tik tais atvejais, kai atidėlioti negalima.
 Padarius šio
 kodekso 188(5) straipsnyje numatytus pažeidimus, policijos
 pareigūnai turi teisę paimti Lietuvos Respublikos ordiną, medalį ar kitokio
@@ -27983,13 +27786,13 @@ Padarius
 pažeidimus, numatytus šio kodekso 1241 straipsnyje (sustojimas ar
 stovėjimas vietose, kuriose Kelių eismo taisyklės draudžia sustoti ar stovėti,
 taip pat sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo
-reikalavimų), 1242 straipsnyje (pavojingas ir chuliganiškas
-vairavimas), 126 straipsnyje (transporto priemonių vairavimas neblaivių arba
-apsvaigusių nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų
-vairuotojų), 127 straipsnio pirmojoje ir trečiojoje dalyse (Kelių eismo
-taisyklių pažeidimas, sukėlęs kitų asmenų nežymų sveikatos sutrikdymą), 128
-straipsnyje (transporto priemonių vairavimas neturint teisės vairuoti), 129
-straipsnyje (transporto priemonių vairavimas neblaivių ar apsvaigusių nuo narkotinių,
+reikalavimų), 1242 straipsnyje (pavojingas ir chuliganiškas vairavimas),
+126 straipsnyje (transporto priemonių vairavimas neblaivių arba apsvaigusių nuo
+narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vairuotojų),
+127 straipsnio pirmojoje ir trečiojoje dalyse (Kelių eismo taisyklių
+pažeidimas, sukėlęs kitų asmenų nežymų sveikatos sutrikdymą), 128 straipsnyje
+(transporto priemonių vairavimas neturint teisės vairuoti), 129 straipsnyje
+(transporto priemonių vairavimas neblaivių ar apsvaigusių nuo narkotinių,
 psichotropinių ar kitų psichiką veikiančių medžiagų asmenų, neturinčių teisės
 vairuoti), 130 straipsnio pirmojoje dalyje (transporto priemonės vairuotojui
 nepaklusus reikalavimui sustabdyti transporto priemonę arba pasitraukus iš
@@ -28032,29 +27835,29 @@ Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-1425, 96.07.02, Žin., 1996,
-Nr. 67-1598 (96.07.17)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-316,
-2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05 30)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-1425,
+96.07.02, Žin., 1996, Nr. 67-1598 (96.07.17)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-316, 2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05
+30)
 Lietuvos Respublikos
 Konstitucinis Teismas, Nutarimas
 Nr. 11/2000, 2001-10-02, Žin.,
 2001, Nr. 85-2977 (2001-10-05)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
@@ -28065,24 +27868,24 @@ Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
 Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
+priede
 Lietuvos Respublikos
 Konstitucinis Teismas, Nutarimas
 2009-04-10, Žin., 2009,
 Nr. 42-1624 (2009-04-16)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-2104, 2012-06-21, Žin., 2012,
-Nr. 78-4026 (2012-07-04)
-Nr. XII-585, 2013-11-07, Žin., 2013,
-Nr. 120-6054 (2013-11-23)
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-2104,
+2012-06-21, Žin., 2012, Nr. 78-4026 (2012-07-04)
+Nr. XII-585,
+2013-11-07, Žin., 2013, Nr. 120-6054 (2013-11-23)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 2691
 straipsnis. Neteisėtai pastatytų, laikomų ar naudojamų apgyvendinimui,
@@ -28093,11 +27896,11 @@ kodekso 76 straipsnio dešimtojoje dalyje numatytą pažeidimą, valstybiniai
 saugomų teritorijų pareigūnai ir aplinkos apsaugos valstybinės kontrolės
 pareigūnai turi teisę priverstinai nuvežti neteisėtai pastatytus, laikomus ar
 naudojamus apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius
-ar kitus kilnojamuosius objektus arba įrenginius Lietuvos Respublikos
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+ar kitus kilnojamuosius objektus arba įrenginius Lietuvos Respublikos Vyriausybės
+ar jos įgaliotos institucijos nustatyta tvarka.
 Kodeksas papildytas straipsniu:
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 270
 straipsnis. Nušalinimas nuo transporto priemonių vairavimo ir patikrinimas 
@@ -28118,11 +27921,11 @@ siunčiami neblaivumo ar apsvaigimo nuo narkotinių priemonių būsenai nustatyt
 ir jie tikrinami Lietuvos Respublikos vidaus reikalų ministerijos, Sveikatos
 apsaugos ministerijos ir Teisingumo ministerijos nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1675, 2008-07-03, Žin., 2008,
@@ -28147,8 +27950,8 @@ asmenys siunčiami neblaivumui arba apsvaigimui nuo narkotinių ar psichotropini
 medžiagų nustatyti ir tikrinami Lietuvos Respublikos Vyriausybės nustatyta
 tvarka.
 Kodeksas papildytas straipsniu:
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
  
 2702
 straipsnis. Laivo stabdymas, tikrinimas ar sulaikymas
@@ -28156,8 +27959,8 @@ Aplinkos
 apsaugos valstybinės kontrolės pareigūnas, siekdamas atlikti Lietuvos
 Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 391
 straipsnio 2 ir 3 punktuose nurodytų pažeidimų tyrimą, turi teisę Lietuvos
-Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo ir Lietuvos Respublikos
-Vyriausybės nustatyta tvarka stabdyti laivą.
+Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo ir Lietuvos
+Respublikos Vyriausybės nustatyta tvarka stabdyti laivą.
 Aplinkos
 apsaugos valstybinės kontrolės pareigūnas, siekdamas išaiškinti Lietuvos
 Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 391
@@ -28165,11 +27968,11 @@ straipsnyje nurodytus pažeidimus, turi teisę tikrinti laivą Lietuvos
 Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka.
 Aplinkos
 apsaugos valstybinės kontrolės pareigūnas, surinkęs pakankamai duomenų,
-leidžiančių manyti, kad laivas įvykdė Lietuvos Respublikos aplinkos apsaugos valstybinės
-kontrolės įstatymo 391 straipsnio 1, 2 ir 3 punktuose nurodytus
-pažeidimus ir siekdamas išsamiai ir objektyviai juos ištirti, turi teisę
-sulaikyti laivą Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės
-įstatymo nustatyta tvarka.
+leidžiančių manyti, kad laivas įvykdė Lietuvos Respublikos aplinkos apsaugos
+valstybinės kontrolės įstatymo 391 straipsnio 1, 2 ir 3 punktuose
+nurodytus pažeidimus ir siekdamas išsamiai ir objektyviai juos ištirti, turi
+teisę sulaikyti laivą Lietuvos Respublikos aplinkos apsaugos valstybinės
+kontrolės įstatymo nustatyta tvarka.
 Kodeksas papildytas straipsniu:
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
@@ -28187,22 +27990,22 @@ svaigiųjų medžiagų nustatyti, asmenų, sulaikytų už administracinių teis�
 pažeidimų padarymą ir įtariamų, kad jie neblaivūs arba apsvaigę nuo narkotinių
 ar psichotropinių medžiagų, patikrinimą neblaivumui arba apsvaigimui nustatyti,
 laivo stabdymą, laivo tikrinimą suinteresuotas asmuo gali apskųsti
-aukštesniajam organui (pareigūnui) arba rajono (miesto) apylinkės teismui, o laivo
-sulaikymą – rajono (miesto) apylinkės teismui Lietuvos Respublikos aplinkos
-apsaugos valstybinės kontrolės įstatymo nustatyta tvarka.
+aukštesniajam organui (pareigūnui) arba rajono (miesto) apylinkės teismui, o
+laivo sulaikymą – rajono (miesto) apylinkės teismui Lietuvos Respublikos
+aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-316,
-2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05 30)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-316, 2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05
+30)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-1381, 2007-12-18, Žin., 2007,
 Nr. 138-5644 (2007-12-29), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 Dvidešimtasis
 skirsnis
@@ -28244,25 +28047,25 @@ pažeidimo byla nagrinėjama jam nedalyvaujant.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 (94.07.08) 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-365,
-2001-06-07, Žin., 2001, Nr. 52-1818 (2001-06-20)
-Nr. IX-744, 2002-02-28, Žin., 2002,
-Nr. 29-1031 (2002-03-20)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 (94.07.08) 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-365, 2001-06-07, Žin., 2001, Nr. 52-1818
+(2001-06-20)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 273
 straipsnis. Nukentėjusysis
@@ -28278,8 +28081,8 @@ pažeidimo byloje.
 Nukentėjusysis
 gali būti apklaustas kaip liudytojas pagal šio kodekso 276 straipsnį.
 Straipsnio pakeitimai: 
-Nr. IX-365,
-2001-06-07, Žin., 2001, Nr. 52-1818 (2001-06-20)
+Nr. IX-365, 2001-06-07, Žin., 2001, Nr. 52-1818
+(2001-06-20)
  
 274
 straipsnis. Įstatyminiai atstovai
@@ -28304,10 +28107,10 @@ Advokato
 atstovo, turinčio aukštąjį teisinį universitetinį arba jam prilyginamą
 išsilavinimą, – notaro patvirtintu įgaliojimu arba pavedimo sutartimi.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. IX-365,
-2001-06-07, Žin., 2001, Nr. 52-1818 (2001-06-20)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. IX-365, 2001-06-07, Žin., 2001, Nr. 52-1818
+(2001-06-20)
  
 276
 straipsnis. Liudytojas
@@ -28335,21 +28138,21 @@ atstovo ar gynėjo pareigas, o advokatas – taip pat ir dėl aplinkybių, kuria
 sužinojo atlikdamas kitas savo profesines pareigas;
 3) dvasininkas –
 dėl aplinkybių, kurias jis sužinojo tikinčiojo išpažinties metu;
-4) viešosios informacijos
-rengėjas, platintojas, viešosios informacijos rengėjo ir (ar) platintojo
-savininkas, žurnalistas – dėl to, kas pagal Lietuvos Respublikos visuomenės
-informavimo įstatymą sudaro informacijos šaltinio paslaptį, išskyrus atvejus,
-kai šie asmenys patys sutinka duoti parodymus arba kai teismas priėmė
-sprendimą, kad būtina atskleisti informacijos šaltinio paslaptį dėl gyvybiškai
-svarbių ar kitų ypač reikšmingų visuomenės interesų, taip pat siekiant
-užtikrinti, kad būtų apgintos asmenų konstitucinės teisės ir laisvės ir kad
-būtų vykdomas teisingumas.
+4) viešosios
+informacijos rengėjas, platintojas, viešosios informacijos rengėjo ir (ar)
+platintojo savininkas, žurnalistas – dėl to, kas pagal Lietuvos Respublikos
+visuomenės informavimo įstatymą sudaro informacijos šaltinio paslaptį, išskyrus
+atvejus, kai šie asmenys patys sutinka duoti parodymus arba kai teismas priėmė sprendimą,
+kad būtina atskleisti informacijos šaltinio paslaptį dėl gyvybiškai svarbių ar
+kitų ypač reikšmingų visuomenės interesų, taip pat siekiant užtikrinti, kad
+būtų apgintos asmenų konstitucinės teisės ir laisvės ir kad būtų vykdomas
+teisingumas.
 Asmuo gali
 atsisakyti duoti parodymus prieš savo šeimos narius ar artimuosius giminaičius.
 Straipsnio pakeitimai: 
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 277
 straipsnis. Ekspertas
@@ -28377,8 +28180,8 @@ liečiančius ekspertizės dalyką;
 4) dalyvauti
 nagrinėjant bylą.
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 278
 straipsnis. Vertėjas
@@ -28409,8 +28212,8 @@ nagrinėja teisėjas, mokama iš biudžeto lėšų, pagal sąmatą tam skiriamų
 kitais atvejais – iš organų, kuris ar jo pareigūnas nagrinėja bylą, lėšų.
 Išmokėtinų sumų dydžius nustato Lietuvos Respublikos Vyriausybė.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26; Žin., 1992,
-Nr. 21-610 
+Nr. I-2589,
+1992.05.26; Žin., 1992, Nr. 21-610 
  
 Dvidešimt
 pirmasis skirsnis
@@ -28437,8 +28240,8 @@ tenkintini, ar atmestini administracinėn atsakomybėn traukiamo asmens,
 nukentėjusiojo, jų atstovų pagal įstatymą, advokatų ar kitų įgaliotų atstovų
 prašymai.
 Straipsnio pakeitimai: 
-Nr. IX-365,
-2001-06-07, Žin., 2001, Nr. 52-1818 (2001-06-20)
+Nr. IX-365, 2001-06-07, Žin., 2001, Nr. 52-1818
+(2001-06-20)
  
 281
 straipsnis. Administracinio teisės pažeidimo bylos nagrinėjimo vieta
@@ -28471,30 +28274,30 @@ Administracinės
 komisijos, savivaldybių seniūnijų kaimo vietovėse seniūnai administracinių
 teisės pažeidimų bylas nagrinėja pagal pažeidėjo gyvenamąją vietą.
 Nepilnamečių, jų
-tėvų ar juos atstojančių asmenų administracinių teisės pažeidimų bylos
-nagrinėjamos pagal pažeidėjo gyvenamąją vietą.
+tėvų ar juos atstojančių asmenų administracinių teisės pažeidimų bylos nagrinėjamos
+pagal pažeidėjo gyvenamąją vietą.
 Lietuvos
 Respublikos įstatymai gali numatyti ir kitokią administracinio teisės pažeidimo
 bylos nagrinėjimo vietą.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-VIII-1603, 00.03.30, Žin., 2000,
-Nr. 32-888 (00.04.19)
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
@@ -28515,27 +28318,21 @@ Nr. X-1675, 2008-07-03, Žin., 2008,
 Nr. 81-3181 (2008-07-17), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-265, 2013-05-07, Žin., 2013,
-Nr. 54-2670 (2013-05-25),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-265,
+2013-05-07, Žin., 2013, Nr. 54-2670 (2013-05-25), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -28561,9 +28358,9 @@ Kai asmuo vengia
 administracinės atsakomybės, neturi nuolatinės gyvenamosios vietos, ilgam
 išvykęs ar gyvena užsienyje, ilgai serga, paskelbiama jo paieška arba kai dėl
 pažeidimo tyrimo arba kitų objektyvių priežasčių nustatytais terminais
-neįmanoma išnagrinėti administracinio teisės pažeidimo bylos, šio straipsnio pirmojoje
-ir antrojoje dalyse nurodyti terminai pratęsiami, bet ne ilgiau, negu numatyta
-šio kodekso 35 straipsnyje.
+neįmanoma išnagrinėti administracinio teisės pažeidimo bylos, šio straipsnio
+pirmojoje ir antrojoje dalyse nurodyti terminai pratęsiami, bet ne ilgiau, negu
+numatyta šio kodekso 35 straipsnyje.
 Lietuvos
 Respublikos įstatymai gali nustatyti ir kitokius administracinių teisės
 pažeidimų bylų nagrinėjimo terminus.
@@ -28580,31 +28377,31 @@ Nr. I-1691, 1987.06.09, Žin.,
 1987, Nr. 17-189 
 I-1788, 1987.07.29, Žin., 1987,
 Nr. 21-261 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
 Nr.
 X-1246, 2007-07-03, Žin., 2007,
 Nr. 81-3316 (2007-07-21, šis
 įstatymas skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, įgyvendinimą.
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
  
 283
 straipsnis. Administracinio teisės pažeidimo bylos nagrinėjimo tvarka
 Byla nagrinėti
-pradedama paskelbiant kolegialaus organo sudėtį ar pristatant tą bylą
-nagrinėjantį pareigūną.
+pradedama paskelbiant kolegialaus organo sudėtį ar pristatant tą bylą nagrinėjantį
+pareigūną.
 Kolegialaus
 organo posėdžio pirmininkas arba bylą nagrinėjantis pareigūnas paskelbia, kokia
 byla bus nagrinėjama, kas traukiamas administracinėn atsakomybėn, išaiškina
@@ -28633,10 +28430,10 @@ numatantį atsakomybę už padarytą administracinį teisės pažeidimą.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 285
 straipsnis. Kolegialaus organo posėdžio protokolas
@@ -28698,10 +28495,10 @@ Lietuvos
 Respublikos įstatymų numatytais atvejais apie nuobaudą įrašoma administracinio
 teisės pažeidimo protokole arba nutarimas įforminamas kitokiu nustatytu būdu.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
  
@@ -28721,15 +28518,15 @@ Nutarimas
 nutraukti bylą gali būti priimamas esant vienai iš aplinkybių, numatytų šio
 kodekso 250 ir 251 straipsniuose.
 Straipsnio pakeitimai:
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
  
 288
 straipsnis. Nutarimo byloje paskelbimas ir nutarimo nuorašo įteikimas
 Nutarimas
 skelbiamas tuojau pat, baigus bylos nagrinėjimą.
-Nutarimo nuorašas
-per tris darbo dienas įteikiamas arba išsiunčiamas asmeniui, dėl kurio
+Nutarimo
+nuorašas per tris darbo dienas įteikiamas arba išsiunčiamas asmeniui, dėl kurio
 nutarimas priimtas, organui, kurio pareigūnas surašė administracinio teisės
 pažeidimo protokolą, taip pat nukentėjusiajam. Šio kodekso 2571
 straipsnio trečiojoje dalyje numatytais atvejais nutarimas siunčiamas
@@ -28750,27 +28547,25 @@ administracinių teisės pažeidimų, kuriuos padarė statutiniai valstybės
 tarnautojai arba kariai, nutarimų nuorašai išsiunčiami institucijoms, kuriose
 šie asmenys tarnauja.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 289
 straipsnis. Neteko
@@ -28782,8 +28577,8 @@ Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
 Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 290
 straipsnis. Pasiūlymai pašalinti priežastis ir sąlygas, padėjusias padaryti 
@@ -28803,15 +28598,15 @@ ORGANŲ
 (PAREIGŪNŲ) PRIIMTŲ NUTARIMŲ APSKUNDIMAS PIRMOSIOS INSTANCIJOS TEISMUI
 Skirsnio
 pakeitimas:
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 291
 straipsnis. Teisė apskųsti nutarimą administracinio teisės pažeidimo byloje
 Šio kodekso 216
-straipsnio 1, 2 ir 5 punktuose nurodytų organų (pareigūnų) nutarimus
-administracinių teisės pažeidimų bylose apylinkės teismui gali apskųsti asmuo,
-dėl kurio atitinkamas nutarimas priimtas, institucija, kurios pareigūnas surašė
+straipsnio 1, 2 ir 5 punktuose nurodytų organų (pareigūnų) nutarimus administracinių
+teisės pažeidimų bylose apylinkės teismui gali apskųsti asmuo, dėl kurio
+atitinkamas nutarimas priimtas, institucija, kurios pareigūnas surašė
 administracinio teisės pažeidimo protokolą, taip pat nukentėjusysis (ar
 atstovai). Atstovai turi teisę paduoti skundą tik tuo atveju, kai tai
 neprieštarauja raštu išreikštai atstovaujamųjų valiai. Nepaisyti atstovaujamojo
@@ -28830,13 +28625,13 @@ paduodamas per nutarimą administracinio teisės pažeidimo byloje priėmusį or
 (pareigūną); skundo kopijų turi būti pateikta tiek, kad po vieną būtų galima
 įteikti visiems šio kodekso 291 straipsnyje nurodytiems subjektams, išskyrus
 atvejus, kai skundas paduodamas elektroninių ryšių priemonėmis. Organas
-(pareigūnas) per tris darbo dienas, jeigu įstatymuose nenustatytas kitoks
-terminas, skundą kartu su byla pasiunčia atitinkamam apylinkės teismui.
+(pareigūnas) per tris darbo dienas, jeigu įstatymuose nenustatytas kitoks terminas,
+skundą kartu su byla pasiunčia atitinkamam apylinkės teismui.
 Straipsnio pakeitimai:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 293
 straipsnis. Nutarimo administracinio teisės pažeidimo byloje apskundimo
@@ -28874,10 +28669,10 @@ skunde turi būti nurodytas asmens, paduodančio skundą, ar jo atstovo
 elektroninio pašto adresas, telefono ir fakso numeriai, kitų elektroninių ryšių
 priemonių adresai.
 Straipsnio pakeitimai:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 295
 straipsnis. Nutarimą administracinio teisės pažeidimo byloje priėmusio organo
@@ -28886,13 +28681,13 @@ Nutarimą
 administracinio teisės pažeidimo byloje priėmęs organas (pareigūnas),
 nepažeisdamas šio kodekso 292 straipsnio antrojoje dalyje nustatyto termino,
 gali visiškai ar iš dalies sutikti su skundu, panaikinti skundžiamą nutarimą ir
-priimti naują nutarimą išnagrinėtoje administracinio teisės pažeidimo byloje. Organui
-(pareigūnui) priėmus naują nutarimą išnagrinėtoje administracinio teisės
-pažeidimo byloje, šio kodekso 293 straipsnyje numatytas terminas skaičiuojamas
-nuo naujo nutarimo priėmimo dienos. Apskundus naują nutarimą, jį priėmęs
-organas (pareigūnas) negali priimti kito naujo nutarimo ir privalo šio kodekso
-292 straipsnio antrosios dalies nustatyta tvarka pasiųsti skundą kartu su byla
-apylinkės teismui.
+priimti naują nutarimą išnagrinėtoje administracinio teisės pažeidimo byloje.
+Organui (pareigūnui) priėmus naują nutarimą išnagrinėtoje administracinio
+teisės pažeidimo byloje, šio kodekso 293 straipsnyje numatytas terminas
+skaičiuojamas nuo naujo nutarimo priėmimo dienos. Apskundus naują nutarimą, jį
+priėmęs organas (pareigūnas) negali priimti kito naujo nutarimo ir privalo šio
+kodekso 292 straipsnio antrosios dalies nustatyta tvarka pasiųsti skundą kartu
+su byla apylinkės teismui.
  
 296
 straipsnis. Skundo dėl nutarimo administracinio
@@ -28924,10 +28719,10 @@ skundas.
 Jeigu skundas
 dėl nutarimo administracinio teisės pažeidimo byloje neatitinka jo formai ir
 turiniui keliamų reikalavimų ir dėl to neįmanoma suprasti, koks nutarimas
-skundžiamas ar kokiomis aplinkybėmis grindžiamas skundas, apylinkės teismas priima
-nutartį ir nustato pakankamą, tačiau ne trumpesnį kaip septynių dienų terminą
-šiems trūkumams pašalinti. Ši nutartis išsiunčiama skundą padavusiam asmeniui
-ne vėliau kaip kitą dieną po jos priėmimo dienos.
+skundžiamas ar kokiomis aplinkybėmis grindžiamas skundas, apylinkės teismas
+priima nutartį ir nustato pakankamą, tačiau ne trumpesnį kaip septynių dienų
+terminą šiems trūkumams pašalinti. Ši nutartis išsiunčiama skundą padavusiam
+asmeniui ne vėliau kaip kitą dieną po jos priėmimo dienos.
 Jeigu skundą
 padavęs šio kodekso 291 straipsnyje nurodytas asmuo pagal teismo nurodymus per
 nustatytą terminą pašalina trūkumus, laikoma, kad skundas paduotas pirminio
@@ -28960,9 +28755,9 @@ byloje išnagrinėjimo terminas
 Bylą dėl skundo
 dėl nutarimo administracinio teisės pažeidimo byloje apylinkės teismas pradeda
 nagrinėti ne vėliau kaip per trisdešimt dienų nuo administracinio teisės
-pažeidimo bylos gavimo dienos, jeigu kitaip nenustato Lietuvos Respublikos
-įstatymai. Teisėjas turi taip pasirengti nagrinėti bylą, kad ji būtų
-išnagrinėta paprastai per vieną teismo posėdį.
+pažeidimo bylos gavimo dienos, jeigu kitaip nenustato Lietuvos Respublikos įstatymai.
+Teisėjas turi taip pasirengti nagrinėti bylą, kad ji būtų išnagrinėta paprastai
+per vieną teismo posėdį.
  
 299
 straipsnis. Pasirengimas nagrinėti bylą dėl skundo dėl nutarimo administracinio
@@ -28981,7 +28776,8 @@ atvejais teismas skundo, prireikus ir jo priedų, skaitmenines kopijas siunčia
 elektroninių ryšių priemonėmis. Nutarimą administracinio teisės pažeidimo
 byloje priėmęs organas (pareigūnas) privalo pateikti atsiliepimą į skundą
 tokios formos, kokios pageidauja pareiškėjas, o jei pareiškėjas pageidavimo dėl
-procesinių dokumentų formos nepareiškė, – tokios formos, kokios buvo paduotas skundas;
+procesinių dokumentų formos nepareiškė, – tokios formos, kokios buvo paduotas
+skundas;
 2) šalių prašymu
 arba savo iniciatyva išreikalauja įrodymus, kurių šalys negali gauti, arba
 išduoda liudijimą tiems įrodymams gauti;
@@ -28994,13 +28790,13 @@ skirdamas ekspertizę pasirengimo teisme nagrinėti bylą dėl skundo dėl nutar
 administracinio teisės pažeidimo byloje metu, priima nutartį, prieš tai
 pranešęs byloje dalyvaujantiems asmenims.
 Kitais atvejais
-pasirengimo teisme nagrinėti bylą dėl skundo dėl nutarimo administracinio
-teisės pažeidimo byloje klausimai išsprendžiami teisėjo rezoliucija.
+pasirengimo teisme nagrinėti bylą dėl skundo dėl nutarimo administracinio teisės
+pažeidimo byloje klausimai išsprendžiami teisėjo rezoliucija.
 Straipsnio pakeitimai:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 300
 straipsnis. Bylos dėl skundo dėl nutarimo administracinio teisės pažeidimo
@@ -29013,8 +28809,8 @@ asmenims. Šių asmenų ar jų atstovų neatvykimas į teismo posėdį, jeigu ji
 apie posėdį buvo pranešta ir nėra pagrindų atidėti bylos nagrinėjimą, nėra
 kliūtis nagrinėti bylą ir priimti sprendimą.
 Nagrinėjant bylą
-dėl skundo dėl nutarimo administracinio teisės pažeidimo byloje, šalių procesinė
-padėtis nesikeičia.
+dėl skundo dėl nutarimo administracinio teisės pažeidimo byloje, šalių
+procesinė padėtis nesikeičia.
 Kai bylos dėl
 skundo dėl nutarimo administracinio teisės pažeidimo byloje nagrinėjimo metu
 yra apklausiami liudytojai ar nukentėjusysis duoda paaiškinimus, rašomas teismo
@@ -29030,8 +28826,8 @@ posėdžio dienos, pranešęs nutarimo (nutarties) paskelbimo laiką.
 straipsnis. Bylos dėl skundo dėl nutarimo administracinio teisės pažeidimo
 byloje nagrinėjimo ribos apylinkės teisme
 Teismas,
-nagrinėdamas bylą dėl skundo dėl nutarimo administracinio teisės pažeidimo
-byloje, patikrina organo (pareigūno) priimto nutarimo teisėtumą ir pagrįstumą.
+nagrinėdamas bylą dėl skundo dėl nutarimo administracinio teisės pažeidimo byloje,
+patikrina organo (pareigūno) priimto nutarimo teisėtumą ir pagrįstumą.
  
 302 straipsnis. Apylinkės teismo sprendimas byloje dėl skundo dėl
 nutarimo administracinio teisės pažeidimo byloje
@@ -29051,10 +28847,9 @@ Apylinkės teismas, atsižvelgdamas į nustatytas bylos aplinkybes, turi teisę
 pakeisti administracinio teisės pažeidimo kvalifikavimą ir paskirti nuobaudą,
 atitinkančią pažeidimo kvalifikavimą;
 4) panaikinti
-nutarimą ir grąžinti bylą organui (pareigūnui), įgaliotam surašyti
-administracinių teisės pažeidimų protokolus. Šis sprendimas priimamas tik
-išimtiniais atvejais, kai reikia atlikti didelės apimties papildomą bylos
-aplinkybių tyrimą;
+nutarimą ir grąžinti bylą organui (pareigūnui), įgaliotam surašyti administracinių
+teisės pažeidimų protokolus. Šis sprendimas priimamas tik išimtiniais atvejais,
+kai reikia atlikti didelės apimties papildomą bylos aplinkybių tyrimą;
 5) pakeisti
 nutarimą ir paskirti švelnesnę nuobaudą arba neskirti administracinės
 nuobaudos.
@@ -29079,9 +28874,8 @@ Nutarimo
 priimtas, institucijai, kurios pareigūnas surašė administracinio teisės
 pažeidimo protokolą, ir nukentėjusiajam. Nutarimo (nutarties) nuorašai
 įteikiami pasirašytinai. Jeigu nutarimo (nutarties) nuorašas išsiunčiamas, tai
-pažymima byloje. Šio kodekso 2571 straipsnio trečiojoje dalyje
-numatytais atvejais nutarimas (nutartis) siunčiamas elektroninių ryšių
-priemonėmis.
+pažymima byloje. Šio kodekso 2571 straipsnio trečiojoje dalyje numatytais
+atvejais nutarimas (nutartis) siunčiamas elektroninių ryšių priemonėmis.
 Apylinkių teismų
 nutarimai ir nutartys, kuriais baigiamos nagrinėti administracinių teisės
 pažeidimų bylos, įsiteisėja per dvidešimt dienų nuo atitinkamo nutarimo ar
@@ -29090,10 +28884,10 @@ tvarka apskųstas apylinkės teismo nutarimas ar nutartis, jeigu jie nėra
 panaikinti, įsiteisėja, apeliacine tvarka išnagrinėjus bylą, ta apimtimi, kiek
 nebuvo pakeisti apeliacinės instancijos teismo nutartimi.
 Straipsnio pakeitimai:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 3021
 straipsnis. Nutarimo panaikinimo nutraukiant
@@ -29113,8 +28907,8 @@ APELIACINIS
 PROCESAS DĖL PIRMOSIOS INSTANCIJOS TEISMO PROCESINIŲ SPRENDIMŲ 
 Kodeksas
 papildytas skirsniu:
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 3022
 straipsnis. Apylinkės teismų nutarimų (nutarčių) apskundimas apeliacine tvarka
@@ -29176,17 +28970,17 @@ ir jo priedų kopijų, kad po vieną tektų visiems šio kodekso 291 straipsnyje
 nurodytiems asmenims, išskyrus atvejus, kai skundas paduodamas elektroninių
 ryšių priemonėmis.
 Straipsnio pakeitimai:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 3026
 straipsnis. Apeliacinio skundo dėl nutarimo (nutarties) administracinio teisės
 pažeidimo byloje priėmimas
 Apeliacinio
-skundo dėl apylinkės teismo nutarimo (nutarties) administracinio teisės pažeidimo
-byloje priėmimo klausimą sprendžia apylinkės teismas.
+skundo dėl apylinkės teismo nutarimo (nutarties) administracinio teisės
+pažeidimo byloje priėmimo klausimą sprendžia apylinkės teismas.
 Teismas
 apeliacinio skundo priėmimo klausimą išsprendžia rezoliucija ne vėliau kaip per
 septynias dienas. Tais atvejais, kai skundžiamu nutarimu yra paskirtas
@@ -29247,8 +29041,8 @@ apeliacinį skundą, apylinkės teismas per tris dienas išsiunčia jo kopijas �
 kodekso 291 straipsnyje nurodytiems asmenims, išskyrus skundą padavusį asmenį.
 Šie asmenys turi teisę, o valstybės ir savivaldybių institucijos ir įstaigos
 privalo per keturiolika dienų nuo apeliacinio skundo kopijų išsiuntimo dienos
-raštu pateikti apygardos teismui atsiliepimus į apeliacinį skundą ir juose
-išdėstyti savo nuomonę dėl paduoto apeliacinio skundo. Šio kodekso 2571
+raštu pateikti apygardos teismui atsiliepimus į apeliacinį skundą ir juose išdėstyti
+savo nuomonę dėl paduoto apeliacinio skundo. Šio kodekso 2571
 straipsnio trečiojoje dalyje numatytais atvejais teismas apeliacinio skundo
 skaitmenines kopijas siunčia elektroninių ryšių priemonėmis.
 Apylinkės
@@ -29258,10 +29052,10 @@ pirmojoje dalyje nustatytiems atsiliepimų į apeliacinį skundą pateikimo
 apygardos teismui terminams, apylinkės teisme gauti atsiliepimai į apeliacinį
 skundą persiunčiami apygardos teismui papildomai.
 Straipsnio pakeitimai:
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 3029
 straipsnis. Pasirengimas nagrinėti bylą dėl apeliacinio skundo administracinio teisės pažeidimo
@@ -29364,9 +29158,9 @@ procesą apygardos teisme, išskyrus šiame straipsnyje numatytas išimtis.
 Atskirasis
 skundas paduodamas per tą teismą, kurio nutartis yra skundžiama, ne vėliau kaip
 per septynias dienas nuo nutarties paskelbimo. Jeigu skundžiama nutartis, šio
-kodekso nustatyta tvarka priimta nagrinėjant bylą šalims nedalyvaujant, atskirasis
-skundas gali būti paduodamas per septynias dienas nuo nutarties nuorašo
-įteikimo dienos. 
+kodekso nustatyta tvarka priimta nagrinėjant bylą šalims nedalyvaujant,
+atskirasis skundas gali būti paduodamas per septynias dienas nuo nutarties
+nuorašo įteikimo dienos. 
 Gavęs atskirąjį skundą, apylinkės
 teismas per tris dienas nuo jo gavimo:
 1) sutikdamas su
@@ -29397,8 +29191,8 @@ ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ BYLŲ ATNAUJINIMAS
 Kodeksas
 papildytas skirsniu:
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 30216
 straipsnis. Administracinių teisės pažeidimų bylų atnaujinimas
@@ -29433,22 +29227,20 @@ atsakomybėn nepatrauktas asmuo yra kaltas;
 padarytas esminis materialiosios ar proceso teisės pažeidimas, jeigu šis
 pažeidimas galėjo turėti įtakos neteisėto nutarimo ar nutarties priėmimui;
 6) Jungtinių
-Tautų Žmogaus teisių komitetas pripažįsta, kad sprendimas patraukti asmenį
-administracinėn atsakomybėn yra priimtas pažeidžiant Tarptautinį pilietinių ir
-politinių teisių paktą ar jo papildomus protokolus, arba Europos žmogaus teisių
-teismas pripažįsta, kad sprendimas patraukti asmenį administracinėn atsakomybėn
-yra priimtas pažeidžiant Žmogaus teisių ir pagrindinių laisvių apsaugos
-konvenciją ar jos papildomus protokolus, jeigu šie pažeidimai pagal pobūdį ir
-sunkumą kelia pagrįstų abejonių dėl asmens patraukimo administracinėn
-atsakomybėn ir besitęsiantys pažeidimai gali būti ištaisyti tik atnaujinus
-bylą.
+Tautų Žmogaus teisių komitetas pripažįsta, kad sprendimas patraukti asmenį administracinėn
+atsakomybėn yra priimtas pažeidžiant Tarptautinį pilietinių ir politinių teisių
+paktą ar jo papildomus protokolus, arba Europos žmogaus teisių teismas
+pripažįsta, kad sprendimas patraukti asmenį administracinėn atsakomybėn yra
+priimtas pažeidžiant Žmogaus teisių ir pagrindinių laisvių apsaugos konvenciją
+ar jos papildomus protokolus, jeigu šie pažeidimai pagal pobūdį ir sunkumą
+kelia pagrįstų abejonių dėl asmens patraukimo administracinėn atsakomybėn ir
+besitęsiantys pažeidimai gali būti ištaisyti tik atnaujinus bylą.
 Kai
 šio straipsnio pirmosios dalies 1, 2 ir 3 punktuose išvardytiems asmenims
 negalima priimti nuosprendžio, nutarimo ar nutarties, nes kaltinamasis
-administracinėn atsakomybėn patrauktas asmuo miręs arba suėjo baudžiamosios ar
-administracinės atsakomybės senaties terminai, paaiškėjusios naujos aplinkybės
-nustatomos atliekant tyrimą šio kodekso 30220 straipsnyje nustatyta
-tvarka.
+administracinėn atsakomybėn patrauktas asmuo miręs arba suėjo baudžiamosios ar administracinės
+atsakomybės senaties terminai, paaiškėjusios naujos aplinkybės nustatomos
+atliekant tyrimą šio kodekso 30220 straipsnyje nustatyta tvarka.
  
 30218
 straipsnis. Teisė paduoti prašymą atnaujinti administracinio teisės pažeidimo
@@ -29484,11 +29276,11 @@ Asmenys
 turi teisę paduoti prašymą atnaujinti administracinio teisės pažeidimo bylą dėl
 paaiškėjusių naujų aplinkybių (šio kodekso 30217 straipsnio
 pirmosios dalies 1, 2, 3 ir 4 punktai) organui (pareigūnui), kurio sprendimu
-buvo pradėta byla, ne vėliau kaip per vienus metus nuo tos dienos, kurią sužinojo
-ar turėjo sužinoti apie šias aplinkybes. Šis organas (pareigūnas), gavęs
-prašymą atnaujinti administracinio teisės pažeidimo bylą dėl paaiškėjusių naujų
-aplinkybių arba pats sužinojęs apie šias aplinkybes, prašymo atnaujinti bylą
-padavimo klausimą turi išspręsti per kiek įmanoma trumpiausią laiką.
+buvo pradėta byla, ne vėliau kaip per vienus metus nuo tos dienos, kurią
+sužinojo ar turėjo sužinoti apie šias aplinkybes. Šis organas (pareigūnas),
+gavęs prašymą atnaujinti administracinio teisės pažeidimo bylą dėl paaiškėjusių
+naujų aplinkybių arba pats sužinojęs apie šias aplinkybes, prašymo atnaujinti
+bylą padavimo klausimą turi išspręsti per kiek įmanoma trumpiausią laiką.
 Prašymas
 atnaujinti administracinio teisės pažeidimo bylą šio kodekso 30217
 straipsnio pirmosios dalies 5 punkte nurodytais pagrindais gali būti paduotas
@@ -29496,11 +29288,11 @@ Lietuvos Aukščiausiajam Teismui per tris mėnesius nuo nutarimo ar nutarties
 administracinio teisės pažeidimo byloje įsiteisėjimo dienos. Asmenims,
 praleidusiems šį prašymo atnaujinti administracinio teisės pažeidimo bylą
 padavimo terminą dėl priežasčių, kurias teismas pripažįsta svarbiomis,
-praleistas terminas gali būti atnaujintas. Prašymas atnaujinti praleistą
-prašymo padavimo terminą negali būti pateikiamas praėjus daugiau kaip vieniems
-metams po nutarimo ar nutarties įsiteisėjimo. Dėl šio termino atnaujinimo
-sprendžia šio kodekso 30221 straipsnio ketvirtojoje dalyje nurodyta
-teisėjų kolegija.
+praleistas terminas gali būti atnaujintas. Prašymas atnaujinti praleistą prašymo
+padavimo terminą negali būti pateikiamas praėjus daugiau kaip vieniems metams
+po nutarimo ar nutarties įsiteisėjimo. Dėl šio termino atnaujinimo sprendžia
+šio kodekso 30221 straipsnio ketvirtojoje dalyje nurodyta teisėjų
+kolegija.
 Prašymas
 atnaujinti administracinio teisės pažeidimo bylą šio kodekso 30217
 straipsnio pirmosios dalies 6 punkte nurodytais pagrindais paduodamas Lietuvos
@@ -29528,17 +29320,17 @@ suinteresuotiems asmenims ir jiems išaiškinama teisė apskųsti sprendimą
 aukštesniajam pareigūnui, o kai tokio pareigūno nėra, – teismui. Aukštesniojo
 pareigūno sprendimą suinteresuotas asmuo gali apskųsti teismui šio straipsnio
 trečiojoje dalyje nustatyta tvarka ir terminais.
-Kai
-paaiškėjusios naujos aplinkybės baigiamos tirti ir nėra pagrindo atnaujinti
-administracinio teisės pažeidimo bylą, organas (pareigūnas) savo sprendimu
-tyrimą nutraukia. Apie šį sprendimą pranešama suinteresuotiems asmenims ir
-jiems išaiškinama teisė jį apskųsti. Organo (pareigūno) sprendimas nutraukti
-tyrimą per penkias dienas nuo pranešimo apie jį gavimo gali būti apskųstas
-aukštesniajam pareigūnui, o išnagrinėjusio šį skundą aukštesniojo pareigūno
-sprendimas – per penkias dienas apylinkės teismui. Kai aukštesniojo pareigūno
-nėra, organo (pareigūno) sprendimas per šį terminą gali būti skundžiamas
-apylinkės teismui. Išnagrinėjusio skundą apylinkės teismo nutartis gali būti
-skundžiama atskiruoju skundu.
+Kai paaiškėjusios
+naujos aplinkybės baigiamos tirti ir nėra pagrindo atnaujinti administracinio
+teisės pažeidimo bylą, organas (pareigūnas) savo sprendimu tyrimą nutraukia.
+Apie šį sprendimą pranešama suinteresuotiems asmenims ir jiems išaiškinama
+teisė jį apskųsti. Organo (pareigūno) sprendimas nutraukti tyrimą per penkias
+dienas nuo pranešimo apie jį gavimo gali būti apskųstas aukštesniajam
+pareigūnui, o išnagrinėjusio šį skundą aukštesniojo pareigūno sprendimas – per
+penkias dienas apylinkės teismui. Kai aukštesniojo pareigūno nėra, organo
+(pareigūno) sprendimas per šį terminą gali būti skundžiamas apylinkės teismui.
+Išnagrinėjusio skundą apylinkės teismo nutartis gali būti skundžiama atskiruoju
+skundu.
 Jeigu yra
 pagrindas atnaujinti administracinio teisės pažeidimo bylą, organas
 (pareigūnas) tyrimo medžiagą ir savo prašymą atnaujinti bylą perduoda organui
@@ -29571,15 +29363,14 @@ Prašyme
 atnaujinti administracinio teisės pažeidimo bylą turi būti nurodyta: teismo,
 kuriam paduodamas prašymas, pavadinimas; pareiškėjo vardas, pavardė
 (pavadinimas), asmens kodas, gyvenamoji vieta (buveinė); organas (pareigūnas),
-kurio įsiteisėjęs nutarimas ar nutartis ginčijami, ginčijamo nutarimo ar
-nutarties priėmimo data ir esmė, jais nustatytos bylos aplinkybės; šio kodekso
-30217 straipsnio pirmosios dalies 5 punkte nurodyti bylos
-atnaujinimo pagrindai ir išsamūs teisiniai argumentai, pagrindžiantys šių
-pagrindų buvimą; pareiškėjo prašymas, atitinkantis šio straipsnio
-keturioliktojoje dalyje nurodytus Lietuvos Aukščiausiojo Teismo įgaliojimus.
-Prašymas turi būti jį paduodančio asmens pasirašytas. Prie prašymo turi būti
-pridėti ginčijamo nutarimo ar nutarties ir su ginčijamu sprendimu susijusių
-nutarimų ar nutarčių nuorašai.
+kurio įsiteisėjęs nutarimas ar nutartis ginčijami, ginčijamo nutarimo ar nutarties
+priėmimo data ir esmė, jais nustatytos bylos aplinkybės; šio kodekso 30217
+straipsnio pirmosios dalies 5 punkte nurodyti bylos atnaujinimo pagrindai ir
+išsamūs teisiniai argumentai, pagrindžiantys šių pagrindų buvimą; pareiškėjo
+prašymas, atitinkantis šio straipsnio keturioliktojoje dalyje nurodytus
+Lietuvos Aukščiausiojo Teismo įgaliojimus. Prašymas turi būti jį paduodančio
+asmens pasirašytas. Prie prašymo turi būti pridėti ginčijamo nutarimo ar
+nutarties ir su ginčijamu sprendimu susijusių nutarimų ar nutarčių nuorašai.
 Pareiškėjas
 turi teisę iki prašymo atnaujinti administracinio teisės pažeidimo bylą
 nagrinėjimo teismo posėdyje dienos šį prašymą atšaukti. Tokiu atveju prašymas
@@ -29654,12 +29445,12 @@ nepateikimas nagrinėti bylą rašytinio proceso tvarka netrukdo.
 Kai tai būtina,
 atrankos kolegija ar administracinio teisės pažeidimo bylą nagrinėjanti teisėjų
 kolegija gali nuspręsti, kad byla turi būti nagrinėjama žodinio proceso tvarka.
-Teisėjų
-kolegija, nagrinėdama administracinio teisės pažeidimo bylą nustačiusi šio
-straipsnio penktosios dalies 1, 2, 3, 4 ar 5 punktuose nurodytus pagrindus,
-priima nutartį nutraukti atnaujintos bylos nagrinėjimą, išskyrus atvejį, kai
-toje pačioje byloje nagrinėjamas kitas prašymas atnaujinti bylą, dėl kurio nėra
-pagrindo priimti tokią nutartį.
+Teisėjų kolegija,
+nagrinėdama administracinio teisės pažeidimo bylą nustačiusi šio straipsnio
+penktosios dalies 1, 2, 3, 4 ar 5 punktuose nurodytus pagrindus, priima nutartį
+nutraukti atnaujintos bylos nagrinėjimą, išskyrus atvejį, kai toje pačioje
+byloje nagrinėjamas kitas prašymas atnaujinti bylą, dėl kurio nėra pagrindo
+priimti tokią nutartį.
 Teismas gali
 atidėti atnaujintos administracinio teisės pažeidimo bylos nagrinėjimą, jeigu
 tam yra svarbių priežasčių.
@@ -29667,11 +29458,11 @@ Nagrinėdamas
 atnaujintą administracinio teisės pažeidimo bylą, teismas teisės taikymo
 aspektu patikrina priimtus nutarimus ir nutartis, kurių teisėtumas ginčijamas
 prašyme. Teismas yra saistomas toje administracinio teisės pažeidimo byloje
-įsiteisėjusiu nutarimu ar nutartimi nustatytų aplinkybių. Jeigu esminiai
-materialiosios ar proceso teisės pažeidimai byloje galėjo turėti įtakos ir
-tiems toje pačioje byloje administracinėn atsakomybėn patrauktiems asmenims,
-kurie nepadavė prašymų atnaujinti bylą, teismas patikrina, ar nutarimas arba
-nutartis teisėti ir šiems asmenims.
+įsiteisėjusiu nutarimu ar nutartimi nustatytų aplinkybių. Jeigu esminiai materialiosios
+ar proceso teisės pažeidimai byloje galėjo turėti įtakos ir tiems toje pačioje
+byloje administracinėn atsakomybėn patrauktiems asmenims, kurie nepadavė
+prašymų atnaujinti bylą, teismas patikrina, ar nutarimas arba nutartis teisėti
+ir šiems asmenims.
 Teismas,
 išnagrinėjęs administracinio teisės pažeidimo bylą, priima nutarimą arba
 nutartį:
@@ -29694,8 +29485,8 @@ Nutarimas ar
 nutartis turi būti surašyti ir paskelbti ne vėliau kaip per keturiolika dienų
 nuo atnaujintos administracinio teisės pažeidimo bylos išnagrinėjimo teismo
 posėdyje dienos, o jei byla sudėtinga ar didelės apimties, – per teismo
-nustatytą kiek įmanoma trumpesnį laiką, bet ne vėliau kaip per keturiasdešimt penkias
-dienas.
+nustatytą kiek įmanoma trumpesnį laiką, bet ne vėliau kaip per keturiasdešimt
+penkias dienas.
  
 30222
 straipsnis. Administracinio teisės pažeidimo bylos atnaujinimas dėl Jungtinių
@@ -29751,18 +29542,16 @@ skirti administracinę nuobaudą vykdyti nukreipia nutarimą priėmęs organas
 (pareigūnas), o jeigu nutarimą priima teismai ar administracinės komisijos prie
 savivaldybių tarybų, – protokolą surašęs organas (pareigūnas).
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 305
 straipsnis. Kelių nutarimų vieno asmens atžvilgiu vykdymas
@@ -29783,18 +29572,18 @@ priėmimo metu atidėti priimamo nutarimo vykdymą iki vieno mėnesio. Po nutari
 priėmimo nutarimo skirti baudą vykdymo atidėjimo klausimai sprendžiami Mokesčių
 administravimo įstatymo nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
-307
-straipsnis. Nutarimo skirti administracinę nuobaudą vykdymo nutraukimas
+307 straipsnis.
+Nutarimo skirti administracinę nuobaudą vykdymo nutraukimas
 Priėmęs nutarimą
 skirti administracinę nuobaudą organas (pareigūnas) nutarimo vykdymą nutraukia
 šiais atvejais:
@@ -29813,15 +29602,15 @@ vykdymo procesas negali būti pradėtas iš naujo.
 straipsnis. Nutarimų skirti administracinę nuobaudą vykdymo senatis
 Negali būti
 vykdomas nutarimas skirti administracinę nuobaudą, jeigu jis nebuvo perduotas
-vykdyti per tris mėnesius nuo priėmimo dienos, išskyrus šio kodekso 314
-straipsnyje numatytus atvejus. Jeigu nutarimo vykdymas sustabdytas
-vadovaujantis šio kodekso 295 straipsniu, senaties termino eiga sustabdoma iki
-skundo išnagrinėjimo. Vadovaujantis šio kodekso 306 straipsniu arba 313
-straipsniu atidėjus nutarimo vykdymą arba išdėsčius nutarimu paskirtos baudos
-mokėjimą, senaties termino eiga sustabdoma iki atidėjimo arba išdėstymo termino
-pabaigos. Nutarimo skirti baudą priverstinio vykdymo senaties terminas –
-penkeri metai nuo šio kodekso 313 straipsnio 1 dalyje nustatyto termino jį
-geruoju įvykdyti pabaigos. 
+vykdyti per tris mėnesius nuo priėmimo dienos, išskyrus šio kodekso 314 straipsnyje
+numatytus atvejus. Jeigu nutarimo vykdymas sustabdytas vadovaujantis šio
+kodekso 295 straipsniu, senaties termino eiga sustabdoma iki skundo
+išnagrinėjimo. Vadovaujantis šio kodekso 306 straipsniu arba 313 straipsniu
+atidėjus nutarimo vykdymą arba išdėsčius nutarimu paskirtos baudos mokėjimą,
+senaties termino eiga sustabdoma iki atidėjimo arba išdėstymo termino pabaigos.
+Nutarimo skirti baudą priverstinio vykdymo senaties terminas – penkeri metai
+nuo šio kodekso 313 straipsnio 1 dalyje nustatyto termino jį geruoju įvykdyti
+pabaigos. 
 Nutarimo dėl
 administracinio arešto vykdymo senatis – vieneri metai. Šio kodekso 3381
 straipsnyje numatytu atveju šis terminas skaičiuojamas nuo nutarimo panaikinti
@@ -29830,19 +29619,19 @@ Lietuvos
 Respublikos įstatymai gali nustatyti kitokius, ilgesnius nutarimų atskirų
 administracinių teisės pažeidimų rūšių bylose vykdymo terminus.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 309
 straipsnis. Klausimų, susijusių su nutarimų vykdymu, sprendimas
@@ -29867,15 +29656,13 @@ organų (pareigūnų), vykdančių nutarimus skirti administracines nuobaudas,
 veiksmų sprendžia šio kodekso 292 straipsnyje nurodyti organai, laikydamiesi
 296 ir 297 straipsnių reikalavimų.
 Straipsnio pakeitimai: 
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 Dvidešimt
 penktasis skirsnis
@@ -29889,23 +29676,23 @@ Nutarimą skirti
 įspėjimą vykdo nutarimą priėmęs organas (pareigūnas) šio kodekso ir kitų
 Lietuvos Respublikos įstatymų nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 311
 straipsnis. Nutarimo skirti įspėjimą vykdymo tvarka
 Nutarimas skirti
 įspėjimą įvykdomas paskelbiant nutarimą, baigus nagrinėti bylą.
 Kai nutarimas
-skirti įspėjimą priimamas nedalyvaujant pažeidėjui, jam šio kodekso 288
-straipsnyje numatyta tvarka įteikiamas nutarimo nuorašas.
+skirti įspėjimą priimamas nedalyvaujant pažeidėjui, jam šio kodekso 288 straipsnyje
+numatyta tvarka įteikiamas nutarimo nuorašas.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
  
 Dvidešimt
 šeštasis skirsnis
@@ -29919,14 +29706,14 @@ Nutarimą skirti
 baudą vykdo Valstybinė mokesčių inspekcija, antstolis šio kodekso, Civilinio
 proceso kodekso, Mokesčių administravimo įstatymo nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 313
 straipsnis. Nutarimo skirti baudą įvykdymo terminai ir tvarka
@@ -29935,10 +29722,10 @@ administracinėn atsakomybėn asmuo turi sumokėti ne vėliau kaip per
 keturiasdešimt dienų nuo nutarimo skirti baudą įteikimo jam dienos, o apskundus
 tokį nutarimą – ne vėliau kaip per keturiasdešimt dienų nuo pranešimo apie
 skundo nepatenkinimą dienos.
-Kai teisės pažeidimą
-padarę nepilnamečiai nuo šešiolikos iki aštuoniolikos metų amžiaus neturi
-savarankiškų pajamų, bauda išieškoma iš tėvų arba juos atstojančių asmenų šio
-kodekso 314 straipsnyje nustatyta tvarka.
+Kai teisės
+pažeidimą padarę nepilnamečiai nuo šešiolikos iki aštuoniolikos metų amžiaus
+neturi savarankiškų pajamų, bauda išieškoma iš tėvų arba juos atstojančių
+asmenų šio kodekso 314 straipsnyje nustatyta tvarka.
 Atsižvelgdamas į
 traukiamo ar patraukto administracinėn atsakomybėn asmens turtinę padėtį, kitas
 reikšmingas aplinkybes, asmens rašytiniu prašymu organas (pareigūnas),
@@ -29961,25 +29748,25 @@ euras, pakeitimo nemokamais viešaisiais darbais.
 Straipsnio pakeitimai: 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
-Nr. XII-1510, 2014-12-18, paskelbta TAR
-2014-12-31, i. k. 2014-21276
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
 Nr. XII-1236, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15013
  
@@ -30001,8 +29788,8 @@ administravimo įstatymo nustatyta tvarka.
 Jeigu
 nepilnametis neturi savo turto ar jo dalies bendrojoje nuosavybėje, bauda
 išieškoma iš jo tėvų arba globėjų (rūpintojų). 
-Baudą priverstinai
-išieško antstoliai Civilinio proceso kodekso nustatyta tvarka.
+Baudą
+priverstinai išieško antstoliai Civilinio proceso kodekso nustatyta tvarka.
 Jeigu nėra
 turto, į kurį gali būti nukreiptas baudos išieškojimas, rajono (miesto)
 apylinkės teismo (apylinkės teismo teisėjo) arba kito organo (pareigūno)
@@ -30024,34 +29811,35 @@ netaikant 6 mėnesių baudos perdavimo priverstinai išieškoti termino, kai
 pasikeičia baudos pripažinimo beviltiška sąlygos – atsiranda turto ar pajamų,
 iš kurių gali būti vykdomas išieškojimas.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 (94.07.08) 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-2511, 2004-10-28, Žin.,
-2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti Europos
-Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
-Nr. X-1365, 2007-12-13, Žin.,
-2007, Nr. 138-5641 (2007-12-29)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 (94.07.08) 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-2511,
+2004-10-28, Žin., 2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
+įgyvendinimą
+Nr. X-1365,
+2007-12-13, Žin., 2007, Nr. 138-5641 (2007-12-29)
 Nr.
-XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05), iki šio įstatymo įsigaliojimo paskirtų baudų
-už administracinius teisės pažeidimus išieškojimas vykdomas iki šio įstatymo įsigaliojimo
-galiojusia tvarka.
+XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05), iki šio įstatymo
+įsigaliojimo paskirtų baudų už administracinius teisės pažeidimus išieškojimas
+vykdomas iki šio įstatymo įsigaliojimo galiojusia tvarka.
 Nr. XII-1238, 2014-10-16, paskelbta
 TAR 2014-10-28, i. k. 2014-15012
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
  
 315
 straipsnis. Neteko
@@ -30061,9 +29849,9 @@ Nr. I-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 316
 straipsnis. Nutarimo skirti baudą vykdymo proceso užbaigimas
@@ -30072,13 +29860,13 @@ baudą, pagal kurį išieškota visa bauda, su atžyma apie įvykdymą per deši
 dienų grąžinamas nutarimą priėmusiam organui (pareigūnui). 
  
  
-Dvidešimt septintasis
-skirsnis 
+Dvidešimt
+septintasis skirsnis 
 (Neteko galios)
  
 Skirsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 Dvidešimt
 aštuntasis skirsnis
@@ -30086,59 +29874,31 @@ aštuntasis skirsnis
 NUTARIMO
 KONFISKUOTI DAIKTĄ IR PAJAMAS VYKDYMO PROCESAS
 Skirsnio pavadinimas pakeistas:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 319
 straipsnis. Nutarimo konfiskuoti daiktą ir pajamas vykdymas
 Nutarimą
-konfiskuoti daiktą, kuris buvo administracinio teisės pažeidimo padarymo
-įrankis arba tiesioginis objektas, ir pajamas, kurios buvo gautos
-administracinio teisės pažeidimo padarymu, vykdo šio kodekso 320 straipsnyje
-išvardyti organai šio kodekso ir kitų Lietuvos Respublikos įstatymų nustatyta
-tvarka.
+konfiskuoti daiktą, kuris buvo administracinio teisės pažeidimo padarymo įrankis
+arba tiesioginis objektas, ir pajamas, kurios buvo gautos administracinio
+teisės pažeidimo padarymu, vykdo šio kodekso 320 straipsnyje išvardyti organai
+šio kodekso ir kitų Lietuvos Respublikos įstatymų nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000, Nr.
-22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 320
 straipsnis. Nutarimą konfiskuoti daiktą ir pajamas vykdantys organai
 Nutarimą
 konfiskuoti daiktą, kuris buvo administracinio teisės pažeidimo padarymo
-įrankis arba tiesioginis objektas, ir pajamas, kurios buvo gautos administracinio
-teisės pažeidimo padarymu, vykdo:
-1 punkto redakcija iki 2016-10-31:
-1) antstoliai –
-padarius šio kodekso 4311 straipsnio trečiojoje dalyje,
-44 straipsnio pirmojoje ir trečiojoje dalyse, 441, 442
-straipsniuose, 443 straipsnio trečiojoje, ketvirtojoje ir penktojoje
-dalyse, 447 straipsnio pirmojoje, trečiojoje, penktojoje,
-septintojoje ir devintojoje dalyse, 448, 449
-straipsniuose, 62 straipsnio trečiojoje, ketvirtojoje, penktojoje,
-septintojoje, aštuntojoje, devintojoje ir dešimtojoje dalyse, 621
-straipsnio trečiojoje, ketvirtojoje, penktojoje, septintojoje, aštuntojoje,
-devintojoje ir dešimtojoje dalyse, 622 straipsnio trečiojoje,
-ketvirtojoje, penktojoje, septintojoje, aštuntojoje, devintojoje ir dešimtojoje
-dalyse, 842 straipsnio pirmojoje dalyje, 1242 straipsnio
-trečiojoje ir ketvirtojoje dalyse, 127 straipsnio trečiojoje dalyje, 130
-straipsnio pirmojoje dalyje, 1302 straipsnyje, 15214
-straipsnio ketvirtojoje dalyje, 1531 straipsnio ketvirtojoje dalyje,
-1632 straipsnio antrojoje, trečiojoje, ketvirtojoje, penktojoje,
-šeštojoje ir septintojoje dalyse, 16311, 164 straipsniuose, 1711
-straipsnio antrojoje dalyje, 1712 straipsnio antrojoje dalyje, 17211,
-173, 1733, 1736, 17320, 18818
-straipsniuose, 1932 straipsnyje, 2091 straipsnio
-antrojoje dalyje, 2092 straipsnio trečiojoje dalyje, 2093
-straipsnio antrojoje, trečiojoje, šeštojoje ir septintojoje dalyse, 2094
-straipsnio trečiojoje ir ketvirtojoje dalyse, 210 straipsnio pirmojoje ir
-antrojoje dalyse, 214, 21410, 21427 straipsniuose
-numatytus teisės pažeidimus;
-1 punkto redakcija nuo 2016-11-01:
-1) antstoliai –
-padarius šio kodekso 4311 straipsnio trečiojoje dalyje,
-44 straipsnio pirmojoje ir trečiojoje dalyse, 441, 442
+įrankis arba tiesioginis objektas, ir pajamas, kurios buvo gautos
+administracinio teisės pažeidimo padarymu, vykdo:
+1) antstoliai – padarius
+šio kodekso 4311 straipsnio trečiojoje dalyje, 44
+straipsnio pirmojoje ir trečiojoje dalyse, 441, 442
 straipsniuose, 443 straipsnio ketvirtojoje, penktojoje ir
 devintojoje dalyse, 447 straipsnio pirmojoje, trečiojoje,
 penktojoje, septintojoje ir devintojoje dalyse, 448, 449
@@ -30161,7 +29921,6 @@ antrojoje, trečiojoje, šeštojoje ir septintojoje dalyse, 2094
 straipsnio trečiojoje ir ketvirtojoje dalyse, 210 straipsnio pirmojoje ir
 antrojoje dalyse, 214, 21410, 21427 straipsniuose
 numatytus teisės pažeidimus;
- 
 2) tam įgalioti
 policijos įstaigų pareigūnai – padarius šio kodekso 5111 straipsnio
 antrojoje dalyje, 90 straipsnyje (išskyrus pažeidimus, susijusius su laukiniais
@@ -30186,8 +29945,8 @@ pirmojoje, antrojoje, trečiojoje, ketvirtojoje ir šeštojoje dalyse, 873
 straipsnio pirmojoje ir antrojoje dalyse, 874 straipsnyje (kai
 pažeidimai padaryti vidaus vandenyse), 877 straipsnio pirmojoje ir
 antrojoje dalyse, 8712 straipsnio trečiojoje dalyje, 88 straipsnyje,
-90 straipsnyje (dėl pažeidimų, susijusių su laukiniais gyvūnais) numatytus teisės
-pažeidimus;
+90 straipsnyje (dėl pažeidimų, susijusių su laukiniais gyvūnais) numatytus
+teisės pažeidimus;
 4) tam įgalioti
 vidaus vandenų transporto organų pareigūnai – padarius šio kodekso 56(1)
 straipsnio antrojoje dalyje numatytus teisės pažeidimus;
@@ -30258,8 +30017,8 @@ savivaldybių sanitarijos inspekcijos pareigūnai – padarius šio kodekso 90
 straipsnyje (išskyrus pažeidimus, susijusius su laukiniais gyvūnais), 110
 straipsnio antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje,
 septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje,
-dvyliktojoje, tryliktojoje, keturioliktojoje ir penkioliktojoje dalyse numatytus
-pažeidimus;
+dvyliktojoje, tryliktojoje, keturioliktojoje ir penkioliktojoje dalyse
+numatytus pažeidimus;
 17) tam įgalioti
 valstybinės veterinarijos priežiūros organų pareigūnai – padarius šio kodekso
 90 straipsnyje (išskyrus pažeidimus, susijusius su laukiniais gyvūnais), 110
@@ -30284,76 +30043,76 @@ Nr. XI-1691, 1987.06.09, Žin.,
 1987, Nr. 17-189 
 Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
-Nr. I-326, 1990.06.26, Žin., 1990,
-Nr. 19-495 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-180, 1993.06.10, Žin., 1993,
-Nr. 26-597 
-Nr. I-214, 1993.07.13, Žin., 1993,
-Nr. 30-683 
-Nr. I-263, 1993.10.05, Žin., 1993,
-Nr. 54-1047 
-Nr. I-290, 1993.10.26, Žin., 1993,
-Nr. 59-1142 
-Nr. I-334, 1993.12.14, Žin., 1993,
-Nr. 72-1344 
-Nr. I-387, 1994.02.10, Žin., 1994,
-Nr. 14-228 
-Nr. I-391, 1994.02.15, Žin., 1994,
-Nr. 15-250 
-Nr. I-442, 1994.04.21, Žin., 1994,
-Nr. 34-618 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. I-590, 1994.09.13, Žin., 1994,
-Nr. 73-1372 
-Nr. I-625, 1994.11.03, Žin., 1994,
-Nr. 88-1668 
-Nr. I-661, 94.11.15, Žin., 1994,
-Nr. 91-1766 (94.11.25) 
-Nr. I-997, 95.07.03, Žin., 1995,
-Nr. 61-1529 (95.07.26)
-Nr. I-1203, 96.02.13, Žin., 1996,
-Nr. 18-460 (96.02.28)
-Nr. I-1297, 96.04.23, Žin., 1996,
-Nr. 41-990 (96.05.08) 
-Nr. I-1431, 96.07.03, Žin., 1996,
-Nr. 73-1741 (96.07.31) 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12)
-Nr. VIII-354, 97.07.01, Žin., 1997,
-Nr. 69-1732 (97.07.23)
-Nr. VIII-432, 97.10.07, Žin., 1997,
-Nr. 94-2358 (97.10.17)
-Nr. VIII-520, 97.11.18, Žin., 1997,
-Nr. 108-2735 (97.11.28)
-Nr. VIII-604, 98.01.08, Žin., 1998,
-Nr. 6-116 (98.01.16)
-Nr. VIII-677, 98.03.24, Žin., 1998,
-Nr. 32-854 (98.04.03)
-Nr. VIII-1041, 99.02.02, Žin., 1999,
-Nr. 18-443 (99.02.19)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+Nr. I-326,
+1990.06.26, Žin., 1990, Nr. 19-495 
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-180,
+1993.06.10, Žin., 1993, Nr. 26-597 
+Nr. I-214,
+1993.07.13, Žin., 1993, Nr. 30-683 
+Nr. I-263,
+1993.10.05, Žin., 1993, Nr. 54-1047 
+Nr. I-290,
+1993.10.26, Žin., 1993, Nr. 59-1142 
+Nr. I-334,
+1993.12.14, Žin., 1993, Nr. 72-1344 
+Nr. I-387,
+1994.02.10, Žin., 1994, Nr. 14-228 
+Nr. I-391,
+1994.02.15, Žin., 1994, Nr. 15-250 
+Nr. I-442,
+1994.04.21, Žin., 1994, Nr. 34-618 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. I-590, 1994.09.13,
+Žin., 1994, Nr. 73-1372 
+Nr. I-625,
+1994.11.03, Žin., 1994, Nr. 88-1668 
+Nr. I-661,
+94.11.15, Žin., 1994, Nr. 91-1766 (94.11.25) 
+Nr. I-997,
+95.07.03, Žin., 1995, Nr. 61-1529 (95.07.26)
+Nr. I-1203,
+96.02.13, Žin., 1996, Nr. 18-460 (96.02.28)
+Nr. I-1297,
+96.04.23, Žin., 1996, Nr. 41-990 (96.05.08) 
+Nr. I-1431,
+96.07.03, Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12)
+Nr. VIII-354,
+97.07.01, Žin., 1997, Nr. 69-1732 (97.07.23)
+Nr. VIII-432,
+97.10.07, Žin., 1997, Nr. 94-2358 (97.10.17)
+Nr. VIII-520,
+97.11.18, Žin., 1997, Nr. 108-2735 (97.11.28)
+Nr. VIII-604,
+98.01.08, Žin., 1998, Nr. 6-116 (98.01.16)
+Nr. VIII-677,
+98.03.24, Žin., 1998, Nr. 32-854 (98.04.03)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. IX-199,
+2001 03 01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
-Nr. IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
@@ -30395,56 +30154,53 @@ priede
 Nr. X-1766, 2008-11-06, Žin., 2008,
 Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28),
-šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
-Nr. XI-1183, 2010-11-30, Žin., 2010,
-Nr. 145-7436 (2010-12-11)
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XI-1385, 2011-05-19, Žin., 2011,
-Nr. 68-3216 (2011-06-04)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
+Nr. XI-1183,
+2010-11-30, Žin., 2010, Nr. 145-7436 (2010-12-11)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1385,
+2011-05-19, Žin., 2011, Nr. 68-3216 (2011-06-04)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 Nr.
-XI-2272, 2012-10-03, Žin., 2012,
-Nr. 122-6127 (2012-10-20)
+XI-2272,
+2012-10-03, Žin., 2012, Nr. 122-6127 (2012-10-20)
 Nr.
-XII-389, 2013-06-18, Žin., 2013,
-Nr. 68-3418 (2013-06-28)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21),
-šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio
-įstatymo priede
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
-Nr. XII-1551, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04833
+XII-389,
+2013-06-18, Žin., 2013, Nr. 68-3418 (2013-06-28)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
 Nr.
-XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
+XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
 Nr. XII-2648,
 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24618 
  
@@ -30452,12 +30208,12 @@ Nr. XII-2648,
 straipsnis. Neteko
 galios nuo 2016-01-01.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
  
 322
 straipsnis. Konfiskuotų daiktų ir pajamų realizavimo tvarka
@@ -30467,10 +30223,10 @@ tiesioginis objektas, ir pajamos, kurios buvo gautos administracinio teisės
 pažeidimo padarymu, realizuojami Lietuvos Respublikos finansų ministro
 nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. VIII-124, 97.02.25, Žin., 1997,
-Nr. 21-488 (97.03.12) 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-124,
+97.02.25, Žin., 1997, Nr. 21-488 (97.03.12) 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 323
 straipsnis. Nutarimo konfiskuoti daiktą ir pajamas vykdymo proceso užbaigimas
@@ -30478,8 +30234,8 @@ Nutarimas
 konfiskuoti daiktą ir pajamas su žyma apie įvykdymą per dešimt dienų grąžinamas
 nutarimą priėmusiam organui (pareigūnui).
 Straipsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 Dvidešimt
 devintasis skirsnis
@@ -30493,21 +30249,21 @@ Nutarimą atimti
 asmeniui suteiktą specialiąją teisę (teisę vairuoti transporto priemones, teisę
 valdyti geležinkelių riedmenis, teisę skraidyti orlaivio įgulos nariu,
 atlikti orlaivių techninę priežiūrą, dirbti skrydžių vadovu, teisę medžioti
-arba užsiimti žvejyba, teisę eiti žvejybos laivo kapitono pareigas, teisę
-vairuoti vidaus vandenų transporto priemones, teisę naudoti arba įvežti
-aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo
-stebėsenos įrenginius, naudoti elektroninių ryšių išteklius, užsiimti radijo
-mėgėjų ar kitų radijo stočių naudotojų veikla, teisę eiti tam tikras pareigas
-jūrų laive, teisę projektuoti statinius ar atlikti statinių projektų
-ekspertizę) vykdo šio kodekso 325 straipsnyje išvardyti organai šio kodekso ir
-kitų Lietuvos Respublikos įstatymų nustatyta tvarka.
+arba užsiimti žvejyba, teisę eiti žvejybos laivo kapitono pareigas, teisę vairuoti
+vidaus vandenų transporto priemones, teisę naudoti arba įvežti aparatūrą,
+įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos
+įrenginius, naudoti elektroninių ryšių išteklius, užsiimti radijo mėgėjų ar
+kitų radijo stočių naudotojų veikla, teisę eiti tam tikras pareigas jūrų laive,
+teisę projektuoti statinius ar atlikti statinių projektų ekspertizę) vykdo šio
+kodekso 325 straipsnyje išvardyti organai šio kodekso ir kitų Lietuvos
+Respublikos įstatymų nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-134, 2005-03-17, Žin., 2005,
@@ -30516,14 +30272,14 @@ Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 325
 straipsnis. Nutarimą atimti specialiąją teisę vykdantys organai
@@ -30556,14 +30312,14 @@ Nutarimą atimti
 teisę valdyti geležinkelių riedmenis vykdo šio kodekso 227 straipsnyje nurodyti
 pareigūnai.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-134, 2005-03-17, Žin., 2005,
@@ -30572,38 +30328,37 @@ Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
-Nr. XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
+Nr. XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
  
 326
 straipsnis. Nutarimo atimti teisę vairuoti transporto priemones vykdymo tvarka
 Nutarimas atimti
 teisę vairuoti transporto priemones vykdomas paimant vairuotojo pažymėjimą.
-Jeigu
-vairuotojas, iš kurio atimta teisė vairuoti transporto priemonę, vengia
-atiduoti policijai vairuotojo pažymėjimą ir teisės vairuoti transporto priemonę
-atėmimo laikotarpiu toliau ją vairuoja, šio kodekso 225 straipsnio
-antrosios dalies 2 punkte nurodyti policijos pareigūnai gali pratęsti šios
-teisės atėmimą tam laikui, per kurį buvo neteisėtai naudotasi vairuotojo
-pažymėjimu.
+Jeigu vairuotojas,
+iš kurio atimta teisė vairuoti transporto priemonę, vengia atiduoti policijai
+vairuotojo pažymėjimą ir teisės vairuoti transporto priemonę atėmimo
+laikotarpiu toliau ją vairuoja, šio kodekso 225 straipsnio antrosios
+dalies 2 punkte nurodyti policijos pareigūnai gali pratęsti šios teisės atėmimą
+tam laikui, per kurį buvo neteisėtai naudotasi vairuotojo pažymėjimu.
 Straipsnio pakeitimai: 
 Nr. I-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 327
 straipsnis. Nutarimo atimti teisę medžioti arba užsiimti žvejyba vykdymo tvarka
@@ -30614,12 +30369,12 @@ bilieto paėmimo tvarką nustato Lietuvos Respublikos aplinkos ministerija.
 Nutarimas atimti
 teisę užsiimti žvejyba vykdomas nustatyta tvarka panaikinus žvejybos leidimą.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. I-661, 94.11.15, Žin., 1994,
-Nr. 91-1766 (94.11.25)
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. I-661,
+94.11.15, Žin., 1994, Nr. 91-1766 (94.11.25)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
  
@@ -30646,10 +30401,10 @@ susisiekimo ministerija.
 Straipsnio pakeitimai: 
 Nr. I-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
  
@@ -30671,20 +30426,20 @@ kaip ir tų elektroninių ryšių išteklių, kuriuos naudoti teisė atimta.
 Kodeksas papildytas straipsniu:
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
  
 3282 straipsnis. Nutarimo atimti teisę projektuoti
 statinius ar atlikti statinių projektų ekspertizę vykdymo tvarka
 Nutarimas
-atimti teisę projektuoti statinius vykdomas paimant teisės projektuoti
-statinius kvalifikacinį atestatą.
+atimti teisę projektuoti statinius vykdomas paimant teisės projektuoti statinius
+kvalifikacinį atestatą.
 Nutarimas
 atimti teisę atlikti statinių projektų ekspertizę vykdomas paimant teisės
 atlikti statinių projektų ekspertizę kvalifikacinį atestatą.
 Šio
-straipsnio pirmojoje ir antrojoje dalyse nurodytų kvalifikacinių atestatų
-paėmimo tvarką nustato Lietuvos Respublikos aplinkos ministerija.
+straipsnio pirmojoje ir antrojoje dalyse nurodytų kvalifikacinių atestatų paėmimo
+tvarką nustato Lietuvos Respublikos aplinkos ministerija.
 Kodeksas papildytas straipsniu:
 Nr. X-1101, 2007-04-19, Žin., 2007,
 Nr. 49-1880 (2007-05-05)
@@ -30702,19 +30457,19 @@ neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiag�
 pat gavęs ir Vyriausybės įgaliotų atlikti medicininę ir švietėjišką atestaciją
 institucijų pažymą, sutrumpinti nurodytos teisės atėmimo terminą.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. X-134, 2005-03-17, Žin., 2005,
 Nr. 47-1553 (2005-04-12)
 Nr. X-249, 2005-06-16, Žin., 2005,
 Nr. 83-3040 (2005-07-07)
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 330
 straipsnis. Nutarimo atimti specialiąją teisę vykdymo terminų skaičiavimas 
@@ -30725,13 +30480,13 @@ techninę priežiūrą, apsvaigę nuo alkoholinių gėrimų, narkotinių ar
 psichotropinių medžiagų, laikomi netekę specialiosios teisės nuo nutarimo
 atimti šią teisę priėmimo dienos. 
 Pasibaigus
-paskirtajam specialiosios teisės atėmimo terminui, taip pat jį sutrumpinus vadovaujantis
-šio kodekso 329 straipsniu, asmeniui, kuriam specialioji teisė atimta
-trumpesniam negu vienerių metų terminui, nustatyta tvarka grąžinami iš jo
-paimti dokumentai. Jei specialioji teisė atimta vieneriems metams ar ilgesniam
-laikui, iš asmens paimti dokumentai grąžinami tada, kai jis Vyriausybės ar jos
-įgaliotų institucijų nustatyta tvarka užbaigia papildomus vairuotojų mokymus ir
-išlaiko kvalifikacinius egzaminus.
+paskirtajam specialiosios teisės atėmimo terminui, taip pat jį sutrumpinus
+vadovaujantis šio kodekso 329 straipsniu, asmeniui, kuriam specialioji teisė
+atimta trumpesniam negu vienerių metų terminui, nustatyta tvarka grąžinami iš
+jo paimti dokumentai. Jei specialioji teisė atimta vieneriems metams ar
+ilgesniam laikui, iš asmens paimti dokumentai grąžinami tada, kai jis
+Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka užbaigia papildomus
+vairuotojų mokymus ir išlaiko kvalifikacinius egzaminus.
 Jeigu
 specialioji teisė buvo atimta už tai, kad asmuo padarė teisės pažeidimą būdamas
 neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų,
@@ -30745,18 +30500,18 @@ naudoti elektroninių ryšių išteklius, užsiimti radijo mėgėjų ar kitų ra
 stočių naudotojų veikla atėmimo terminui, asmuo turi teisę kreiptis į Ryšių
 reguliavimo tarnybą dėl tokios teisės suteikimo.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04, Žin., 1990,
-Nr. 36-862 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-830,
+1990.12.04, Žin., 1990, Nr. 36-862 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995, 2004-01-29, Žin., 2004,
 Nr. 25-763 (2004-02-14)
 Nr. IX-2153, 2004-04-22, Žin., 2004,
 Nr. 68-2368 (2004-04-29)
 Nr. X-1365, 2007-12-13, Žin., 2007,
 Nr. 138-5641 (2007-12-29)
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
  
 Trisdešimtasis
 skirsnis
@@ -30772,8 +30527,8 @@ Nutarimą dėl
 baudos pakeitimo nemokamais viešaisiais darbais vykdo vidaus reikalų įstaigos
 Vidaus reikalų ministerijos nustatyta tvarka.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 332
 straipsnis. Nutarimo dėl baudos pakeitimo nemokamais viešaisiais darbais
@@ -30810,36 +30565,36 @@ Pažeidėjas,
 kuris vengia atlikti nemokamus viešuosius darbus, privalo sumokėti ankstesniu
 nutarimu jam paskirtą baudą ar jos dalį, už kurią nebuvo atlikti nemokami
 viešieji darbai. Šiuo atveju įstaigos, kurios žinioje yra nemokamų viešųjų
-darbų atlikimas, teikimu sprendimą priima organas (pareigūnas), paskyręs
-nemokamus viešuosius darbus. Pakartotinis baudos pakeitimas nemokamais
-viešaisiais darbais negalimas.
+darbų atlikimas, teikimu sprendimą priima organas (pareigūnas), paskyręs nemokamus
+viešuosius darbus. Pakartotinis baudos pakeitimas nemokamais viešaisiais
+darbais negalimas.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 335
 straipsnis. Neteko
 galios.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-504, 1994.06.23, Žin., 1994,
-Nr. 51-949 (94.07.08) 
-Nr. I-545, 1994.07.18, Žin., 1994,
-Nr. 58-1132 
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-504,
+1994.06.23, Žin., 1994, Nr. 51-949 (94.07.08) 
+Nr. I-545,
+1994.07.18, Žin., 1994, Nr. 58-1132 
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 Trisdešimt
 pirmasis skirsnis
 NUTARIMO DĖL
 ADMINISTRACINIO AREŠTO VYKDYMO PROCESAS
 Skirsnio pakeitimai:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 336
 straipsnis. Nutarimo dėl administracinio arešto vykdymas
@@ -30848,11 +30603,11 @@ administracinio arešto vykdo policijos įstaigos Lietuvos Respublikos įstatym�
 nustatyta tvarka. Jeigu asmens, kuriam paskirtas administracinis areštas,
 buvimo vieta nežinoma, policija paskelbia jo paiešką.
 Straipsnio pakeitimai:
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 337
 straipsnis. Nutarimo dėl administracinio arešto vykdymo ypatumai
@@ -30868,9 +30623,9 @@ administracinio arešto atlikimo poilsio dienomis tvarką, šią tvarką teismas
 (teisėjas) savo sprendimu gali pakeisti įprastine administracinio arešto
 atlikimo tvarka.
 Straipsnio pakeitimai:
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 338
 straipsnis. Administracinio arešto atlikimo tvarka
@@ -30884,15 +30639,15 @@ Administracinis
 areštas atliekamas pagal Lietuvos Respublikos įstatymų aktų nustatytas
 taisykles.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 3381
 straipsnis. Sąlyginis administracinio arešto vykdymo atidėjimas
 Asmeniui, kuriam
-paskiriamas administracinis areštas, rajono (miesto) apylinkės teismas (apylinkės
-teismo teisėjas) tuo pačiu nutarimu, jeigu pažeidėjas sutinka, gali atidėti
-administracinio arešto vykdymą nuo 1 iki 12 mėnesių.
+paskiriamas administracinis areštas, rajono (miesto) apylinkės teismas
+(apylinkės teismo teisėjas) tuo pačiu nutarimu, jeigu pažeidėjas sutinka, gali
+atidėti administracinio arešto vykdymą nuo 1 iki 12 mėnesių.
 Atidėdamas
 paskirto administracinio arešto vykdymą, teismas paskiria pažeidėjui atlikti
 nemokamų viešųjų darbų nuo 25 iki 400 valandų. Kartu teismas nustato laiką, per
@@ -30911,12 +30666,12 @@ Nutarimo dėl
 sąlyginio administracinio arešto vykdymo atidėjimo vykdymo procesas
 įgyvendinamas šio kodekso 331-334 straipsniuose nustatyta tvarka.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17, Žin., 2000,
-Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos Sąjungos teisės
-aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 339
 straipsnis. Asmenų, kuriems paskirtas administracinis areštas, panaudojimas
@@ -30935,21 +30690,21 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. XI-1788, 1987.07.29, Žin.,
 1987, Nr. 21-261 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610 
-Nr. I-957, 95.06.20, Žin., 1995,
-Nr. 55-1356 (95.07.05)
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610 
+Nr. I-957,
+95.06.20, Žin., 1995, Nr. 55-1356 (95.07.05)
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
  
 Trisdešimt
 pirmasis(1) skirsnis
 NUTARIMO DĖL
 NUŠALINIMO NUO DARBO (PAREIGŲ) VYKDYMO PROCESAS
 Straipsnio pakeitimai: 
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568 
+Nr. I-1573,
+1991.07.18, Žin., 1991, Nr. 22-568 
  
 3391
 straipsnis. Nutarimo dėl nušalinimo nuo darbo (pareigų) vykdymas
@@ -30957,13 +30712,14 @@ Nutarimą dėl
 nušalinimo nuo darbo (pareigų) vykdo darbovietės administracija, kurioje dirba
 nušalintas nuo darbo (pareigų) darbuotojas.
 Straipsnio pakeitimai: 
-Nr. I-1573, 1991.07.18, Žin., 1991,
-Nr. 22-568
+Nr. I-1573, 1991.07.18,
+Žin., 1991, Nr. 22-568
  
 3392
 straipsnis. Nutarimo dėl nušalinimo nuo darbo(pareigų) vykdymo tvarka
 Nutarimas dėl
-nušalinimo nuo darbo (pareigų) išsiunčiamas vykdyti per tris dienas po jo priėmimo.
+nušalinimo nuo darbo (pareigų) išsiunčiamas vykdyti per tris dienas po jo
+priėmimo.
 Darbovietės
 administracija ne vėliau kaip kitą dieną po nutarimo gavimo privalo nušalintąjį
 darbuotoją atleisti iš darbo (pareigų) įstatymo nustatyta tvarka.
@@ -30983,19 +30739,19 @@ Administracinio
 teisės pažeidimo byloje nutarimas, kiek jis liečia turtinio nuostolio
 atlyginimą, yra vykdomasis dokumentas.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin., 1992,
-Nr. 21-610
+Nr. I-2589,
+1992.05.26, Žin., 1992, Nr. 21-610
  
 341
 straipsnis. Nutarimo dalies dėl turtinio nuostolio atlyginimo įvykdymo terminai
 Turtinį nuostolį
 pažeidėjas turi atlyginti ne vėliau kaip per penkiolika dienų nuo nutarimo jam
-įteikimo dienos (šio kodekso 288 straipsnis), o jeigu toks nutarimas
-apskundžiamas – ne vėliau kaip per penkiolika dienų nuo pranešimo, kad skundas
-nepatenkintas, dienos.
+įteikimo dienos (šio kodekso 288 straipsnis), o jeigu toks nutarimas apskundžiamas
+– ne vėliau kaip per penkiolika dienų nuo pranešimo, kad skundas nepatenkintas,
+dienos.
 Straipsnio pakeitimai:
-Nr. I-847, 95.04.11, Žin., 1995,
-Nr. 36-886 (95.05.03)
+Nr. I-847,
+95.04.11, Žin., 1995, Nr. 36-886 (95.05.03)
  
 342
 straipsnis. Nutarimo dalies dėl turtinio nuostolio atlyginimo neįvykdymo 
@@ -31012,11 +30768,9 @@ NUTARIMO DALIES
 DĖL ĮPAREIGOJIMO IŠKLAUSYTI BENDRAVIMO SU VAIKAIS TOBULINIMO KURSUS VYKDYMO
 PROCESAS
 Kodeksas papildytas skirsniu:
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31),
-šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 343
 straipsnis. Nutarimo dalies dėl įpareigojimo išklausyti bendravimo su vaikais
@@ -31049,7 +30803,8 @@ Pakeitimų sąrašas nuo 1990-03-11:
 1.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-16, 90.03.12, Žin., 1990, Nr. 9-232
+Nr. I-16, 90.03.12, Žin.,
+1990, Nr. 9-232
 DĖL KAI KURIŲ LIETUVOS TSR BAUDŽIAMOJO KODEKSO IR
 LIETUVOS TSR ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO STRAIPSNIŲ PRIPAŽINIMO
 NETEKUSIAIS GALIOS
@@ -31057,8 +30812,8 @@ NETEKUSIAIS GALIOS
 2.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-326, 90.06.26, Žin., 1990, Nr.
-19-495
+Nr. I-326, 90.06.26,
+Žin., 1990, Nr. 19-495
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO IR LIETUVOS RESPUBLIKOS BAUDŽIAMOJO
 KODEKSO PAKEITIMO
@@ -31066,46 +30821,48 @@ KODEKSO PAKEITIMO
 3.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-435, 90.07.30, Žin., 1990, Nr.
-23-565
+Nr. I-435, 90.07.30,
+Žin., 1990, Nr. 23-565
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO KAI KURIŲ STRAIPSNIŲ PAKEITIMO
  
 4.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-751, 90.11.06, Žin., 1990, Nr.
-32-776
+Nr. I-751, 90.11.06,
+Žin., 1990, Nr. 32-776
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 5.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-830, 90.12.04, Žin., 1990, Nr.
-36-862
+Nr. I-830, 90.12.04,
+Žin., 1990, Nr. 36-862
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 6.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-853, 90.12.11, Žin., 1990, Nr.
-36-866
+Nr. I-853, 90.12.11,
+Žin., 1990, Nr. 36-866
 DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO
 IR ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 7.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-901, 90.12.28, Žin., 1991, Nr. 2-37
+Nr. I-901, 90.12.28,
+Žin., 1991, Nr. 2-37
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 8.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-1026, 91.01.31, Žin., 1991, Nr. 6-162
+Nr. I-1026, 91.01.31,
+Žin., 1991, Nr. 6-162
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO, BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO KODEKSO PAPILDYMO IR
 PAKEITIMO
@@ -31113,16 +30870,16 @@ PAKEITIMO
 9.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-1399, 91.06.04, Žin., 1991, Nr.
-17-453
+Nr. I-1399, 91.06.04,
+Žin., 1991, Nr. 17-453
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 10.
-Lietuvos Respublikos Aukščiausioji Taryba-Atkuriamasis
-Seimas, Įstatymas
-Nr. I-1573, 91.07.18, Žin., 1991, Nr.
-22-568
+Lietuvos Respublikos Aukščiausioji
+Taryba-Atkuriamasis Seimas, Įstatymas
+Nr. I-1573, 91.07.18,
+Žin., 1991, Nr. 22-568
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO, BAUDŽIAMOJO KODEKSO IR DARBO ĮSTATYMŲ KODEKSO PAKEITIMO IR
 PAPILDYMO
@@ -31130,16 +30887,16 @@ PAPILDYMO
 11.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-1631, 91.07.30, Žin., 1991, Nr.
-23-600
+Nr. I-1631, 91.07.30,
+Žin., 1991, Nr. 23-600
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 12.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-1926, 91.10.29, Žin., 1991, Nr.
-32-858
+Nr. I-1926, 91.10.29,
+Žin., 1991, Nr. 32-858
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 177(2) STRAIPSNIO IR BAUDŽIAMOJO KODEKSO 163 IR 239
 STRAIPSNIŲ PAKEITIMO
@@ -31147,444 +30904,446 @@ STRAIPSNIŲ PAKEITIMO
 13.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-2112, 91.12.17, Žin., 1992, Nr. 2-17
+Nr. I-2112, 91.12.17,
+Žin., 1992, Nr. 2-17
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 109 IR 241 STRAIPSNIŲ PAKEITIMO
  
 14.
 Lietuvos Respublikos Aukščiausioji
 Taryba-Atkuriamasis Seimas, Įstatymas
-Nr. I-2589, 92.05.26, Žin., 1992, Nr.
-21-610
+Nr. I-2589, 92.05.26,
+Žin., 1992, Nr. 21-610
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 15.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-57, 93.01.28, Žin., 1993, Nr. 5-90
+Nr. I-57, 93.01.28,
+Žin., 1993, Nr. 5-90
 DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO, BAUDŽIAMOJO
 PROCESO IR ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSŲ PAKEITIMO IR PAPILDYMO
  
 16.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-180, 93.06.10, Žin., 1993, Nr.
-26-597 (93.07.02)
+Nr. I-180, 93.06.10,
+Žin., 1993, Nr. 26-597 (93.07.02)
 DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO,
 BAUDŽIAMOJO IR ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSŲ PAKEITIMO IR PAPILDYMO
  
 17.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-214, 93.07.13, Žin., 1993, Nr.
-30-683 (93.07.21)
+Nr. I-214, 93.07.13, Žin.,
+1993, Nr. 30-683 (93.07.21)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO IR PAKEITIMO
  
 18.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-252, 93.09.28, Žin., 1993, Nr.
-52-993 (93.10.13)
+Nr. I-252, 93.09.28,
+Žin., 1993, Nr. 52-993 (93.10.13)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO
  
 19.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-263, 93.10.05, Žin., 1993, Nr.
-54-1047 (93.10.20)
+Nr. I-263, 93.10.05,
+Žin., 1993, Nr. 54-1047 (93.10.20)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 20.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-286, 93.10.19, Žin., 1993, Nr.
-56-1079 (93.10.27)
+Nr. I-286, 93.10.19,
+Žin., 1993, Nr. 56-1079 (93.10.27)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 21.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-290, 93.10.26, Žin., 1993, Nr.
-59-1142 (93.11.10)
+Nr. I-290, 93.10.26,
+Žin., 1993, Nr. 59-1142 (93.11.10)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ IR BAUDŽIAMOJO KODEKSŲ PAKEITIMO
  
 22.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-334, 93.12.14, Žin., 1993, Nr.
-72-1344 (93.12.24)
+Nr. I-334, 93.12.14,
+Žin., 1993, Nr. 72-1344 (93.12.24)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ IR BAUDŽIAMOJO KODEKSŲ PAKEITIMO IR PAPILDYMO
  
 23.
 Lietuvos Respublikos Seimas, Įstatymas 
-Nr. I-340, 93.12.16, Žin., 1993, Nr.
-73-1369 (93.12.29)
+Nr. I-340, 93.12.16,
+Žin., 1993, Nr. 73-1369 (93.12.29)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO
  
 24.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-382, 94.01.20, Žin., 1994, Nr. 8-123
-(94.01.28)
+Nr. I-382, 94.01.20,
+Žin., 1994, Nr. 8-123 (94.01.28)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 215 STRAIPSNIO PAKEITIMO
  
 25.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-386, 94.02.10, Žin., 1994, Nr.
-14-227 (94.02.23)
+Nr. I-386, 94.02.10,
+Žin., 1994, Nr. 14-227 (94.02.23)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO IR LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO PAKEITIMO IR
 PAPILDYMO
  
 26.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-387, 94.02.10, Žin., 1994, Nr.
-14-228 (94.02.23)
+Nr. I-387, 94.02.10,
+Žin., 1994, Nr. 14-228 (94.02.23)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 27.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-391, 94.02.15, Žin., 1994, Nr.
-15-250 (94.02.25)
+Nr. I-391, 94.02.15,
+Žin., 1994, Nr. 15-250 (94.02.25)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 28.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-442, 94.04.21, Žin., 1994, Nr.
-34-618 (94.05.06)
+Nr. I-442, 94.04.21,
+Žin., 1994, Nr. 34-618 (94.05.06)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 29.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-454, 94.05.10, Žin., 1994, Nr.
-37-668 (94.05.18)
+Nr. I-454, 94.05.10,
+Žin., 1994, Nr. 37-668 (94.05.18)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 30.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-457, 94.05.12, Žin., 1994, Nr.
-39-704 (94.05.25)
+Nr. I-457, 94.05.12,
+Žin., 1994, Nr. 39-704 (94.05.25)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 31.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-504, 94.06.23, Žin., 1994, Nr. 51-949
-(94.07.08)
+Nr. I-504, 94.06.23,
+Žin., 1994, Nr. 51-949 (94.07.08)
 DĖL LIETUVOS RESPUBLIKOS CIVILINIO PROCESO,
 BAUDŽIAMOJO PROCESO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSŲ PAKEITIMO IR
 PAPILDYMO
  
 32.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-545, 94.07.18, Žin., 1994, Nr.
-58-1132 (94.07.29)
+Nr. I-545, 94.07.18,
+Žin., 1994, Nr. 58-1132 (94.07.29)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 33.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-580, 94.07.21, Žin., 1994, Nr.
-59-1164 (94.08.03)
+Nr. I-580, 94.07.21,
+Žin., 1994, Nr. 59-1164 (94.08.03)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 34.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-590, 94.09.13, Žin., 1994, Nr.
-73-1372 (94.09.21)
+Nr. I-590, 94.09.13,
+Žin., 1994, Nr. 73-1372 (94.09.21)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 35.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-625, 94.11.03, Žin., 1994, Nr.
-88-1668 (94.11.16)
+Nr. I-625, 94.11.03,
+Žin., 1994, Nr. 88-1668 (94.11.16)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 36.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-631, 94.11.08, Žin., 1994, Nr.
-88-1670 (94.11.16)
+Nr. I-631, 94.11.08,
+Žin., 1994, Nr. 88-1670 (94.11.16)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 37.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-653, 94.11.10, Žin., 1994, Nr. 89-1724
-(94.11.18)
+Nr. I-653, 94.11.10,
+Žin., 1994, Nr. 89-1724 (94.11.18)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO
  
 38.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-661, 94.11.15, Žin., 1994, Nr.
-91-1766 (94.11.25)
+Nr. I-661, 94.11.15,
+Žin., 1994, Nr. 91-1766 (94.11.25)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 39.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-721, 94.12.21, Žin., 1995, Nr. 3-36
-(95.01.06)
+Nr. I-721, 94.12.21,
+Žin., 1995, Nr. 3-36 (95.01.06)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO
  
 40.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-743, 94.12.28, Žin., 1995, Nr. 3-39
-(95.01.06)
+Nr. I-743, 94.12.28,
+Žin., 1995, Nr. 3-39 (95.01.06)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO, BAUDŽIAMOJO KODEKSO IR CIVILINIO KODEKSO PAKEITIMO IR
 PAPILDYMO
  
 41.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-847, 95.04.11, Žin., 1995, Nr.
-36-886 (95.05.03)
+Nr. I-847, 95.04.11,
+Žin., 1995, Nr. 36-886 (95.05.03)
 DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO IR
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSŲ PAKEITIMO IR PAPILDYMO
  
 42.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-880, 95.05.04, Žin., 1995, Nr. 43-1045
-(95.05.24)
+Nr. I-880, 95.05.04,
+Žin., 1995, Nr. 43-1045 (95.05.24)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO IR PAKEITIMO
  
 43.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-881, 95.05.04, Žin., 1995, Nr.
-43-1046 (95.05.24)
+Nr. I-881, 95.05.04,
+Žin., 1995, Nr. 43-1046 (95.05.24)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 214(8) STRAIPSNIO PAKEITIMO
  
 44.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-908, 95.05.30, Žin., 1995, Nr.
-51-1244 (95.06.21)
-DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ,
-LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS PRIIMTŲ NUTARIMŲ PRIPAŽINIMO
-NETEKUSIAIS GALIOS, LIETUVOS RESPUBLIKOS CIVILINIO PROCESO BEI ADMINISTRACINIŲ
-TEISĖS PAŽEIDIMŲ KODEKSŲ PAKEITIMO IR PAPILDYMO
+Nr. I-908, 95.05.30,
+Žin., 1995, Nr. 51-1244 (95.06.21)
+DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ, LIETUVOS
+RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS PRIIMTŲ NUTARIMŲ PRIPAŽINIMO NETEKUSIAIS
+GALIOS, LIETUVOS RESPUBLIKOS CIVILINIO PROCESO BEI ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSŲ PAKEITIMO IR PAPILDYMO
  
 45.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-910, 95.05.30, Žin., 1995, Nr.
-48-1162 (95.06.09)
+Nr. I-910, 95.05.30,
+Žin., 1995, Nr. 48-1162 (95.06.09)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO IR PAKEITIMO
  
 46.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-957, 95.06.20, Žin., 1995, Nr.
-55-1356 (95.07.05)
+Nr. I-957, 95.06.20,
+Žin., 1995, Nr. 55-1356 (95.07.05)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 47.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-994, 95.07.03, Žin., 1995, Nr.
-59-1470 (95.07.19)
+Nr. I-994, 95.07.03,
+Žin., 1995, Nr. 59-1470 (95.07.19)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 48.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-997, 95.07.03, Žin., 1995, Nr.
-61-1529 (95.07.26)
+Nr. I-997, 95.07.03,
+Žin., 1995, Nr. 61-1529 (95.07.26)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO IR LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO PAKEITIMO IR
 PAPILDYMO
  
 49.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1007, 95.07.04, Žin., 1995, Nr.
-59-1473 (95.07.19)
+Nr. I-1007, 95.07.04,
+Žin., 1995, Nr. 59-1473 (95.07.19)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 173(8) STRAIPSNIO PAKEITIMO
  
 50.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1037, 95.09.12, Žin., 1995, Nr.
-79-1818 (95.09.27)
+Nr. I-1037, 95.09.12,
+Žin., 1995, Nr. 79-1818 (95.09.27)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 51.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1056, 95.10.03, Žin., 1995, Nr.
-86-1942 (95.10.20)
+Nr. I-1056, 95.10.03,
+Žin., 1995, Nr. 86-1942 (95.10.20)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 52.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1099, 95.11.28, Žin., 1995, Nr.
-103-2294 (95.12.20)
+Nr. I-1099, 95.11.28,
+Žin., 1995, Nr. 103-2294 (95.12.20)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO
  
 53.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1127, 95.12.14, Žin., 1995, Nr.
-106-2350 (95.12.29)
+Nr. I-1127, 95.12.14,
+Žin., 1995, Nr. 106-2350 (95.12.29)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO
  
 54.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1141, 95.12.20, Žin., 1995, Nr.
-104-2325 (95.12.22)
+Nr. I-1141, 95.12.20,
+Žin., 1995, Nr. 104-2325 (95.12.22)
 DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO, BAUDŽIAMOJO
 PROCESO, CIVILINIO PROCESO IR ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSŲ
 PAKEITIMO IR PAPILDYMO
  
 55.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1156, 95.12.21, Žin., 1996, Nr. 8-195
-(96.01.26)
+Nr. I-1156, 95.12.21,
+Žin., 1996, Nr. 8-195 (96.01.26)
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO, ĮMONIŲ ĮSTATYMO IR ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO
  
 56.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1172, 96.01.16, Žin., 1996, Nr. 9-216
-(96.01.31)
+Nr. I-1172, 96.01.16,
+Žin., 1996, Nr. 9-216 (96.01.31)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 185(1) IR 185(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 57.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1174, 96.01.18, Žin., 1996, Nr. 9-218
-(96.01.31)
+Nr. I-1174, 96.01.18,
+Žin., 1996, Nr. 9-218 (96.01.31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 172(7) STRAIPSNIU IR 247(2) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 58.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1180, 96.01.23, Žin., 1996, Nr.
-14-353 (96.02.14)
+Nr. I-1180, 96.01.23,
+Žin., 1996, Nr. 14-353 (96.02.14)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 91, 165(3), 188(4), 224, 246(2), 259(1) STRAIPSNIŲ PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
  
 59.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1203, 96.02.13, Žin., 1996, Nr.
-18-460 (96.02.28)
+Nr. I-1203, 96.02.13,
+Žin., 1996, Nr. 18-460 (96.02.28)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 205, 224, 225, 238, 259-1, 262, 266, 267, 268, 320 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 60.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1281, 96.04.04, Žin., 1996, Nr.
-37-930 (96.04.26)
+Nr. I-1281, 96.04.04,
+Žin., 1996, Nr. 37-930 (96.04.26)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 99(2), 99(3), 99(4), 235(1) STRAIPSNIAIS IR 221,
 224, 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 61.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1290, 96.04.17, Žin., 1996, Nr.
-41-988 (96.05.08)
+Nr. I-1290, 96.04.17,
+Žin., 1996, Nr. 41-988 (96.05.08)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 41 IR 233 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 62.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1297, 96.04.23, Žin., 1996, Nr.
-41-990 (96.05.08)
+Nr. I-1297, 96.04.23,
+Žin., 1996, Nr. 41-990 (96.05.08)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 26, 35, 208, 209, 210, 211, 237, 292, 320 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 63.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1341, 96.05.16, Žin., 1996, Nr.
-57-1334 (96.06.19)
+Nr. I-1341, 96.05.16,
+Žin., 1996, Nr. 57-1334 (96.06.19)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 117, 224, 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 117(1)
 STRAIPSNIU ĮSTATYMAS
  
 64.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1373, 96.06.06, Žin., 1996, Nr.
-57-1345 (96.06.19)
+Nr. I-1373, 96.06.06,
+Žin., 1996, Nr. 57-1345 (96.06.19)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 173(10) STRAIPSNIU IR 246(1) STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 65.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1425, 96.07.02, Žin., 1996, Nr.
-67-1598 (96.07.17)
+Nr. I-1425, 96.07.02,
+Žin., 1996, Nr. 67-1598 (96.07.17)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 177, 177(2), 269 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 66.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1431, 96.07.03, Žin., 1996, Nr.
-73-1741 (96.07.31)
+Nr. I-1431, 96.07.03,
+Žin., 1996, Nr. 73-1741 (96.07.31)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 67.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1457, 96.07.10, Žin., 1996, Nr.
-73-1743 (96.07.31)
+Nr. I-1457, 96.07.10,
+Žin., 1996, Nr. 73-1743 (96.07.31)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 172-8 IR 247-3 STRAIPSNIAIS ĮSTATYMAS
  
 68.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1469, 96.07.11, Žin., 1996, Nr.
-74-1769 (96.08.02)
+Nr. I-1469, 96.07.11,
+Žin., 1996, Nr. 74-1769 (96.08.02)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 15, 189, 241(1), 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 189(7), 241(2), 247(4) STRAIPSNIAIS ĮSTATYMAS
  
 69.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1551, 96.09.25, Žin., 1996, Nr.
-104-2362 (96.10.30)
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 5, 42, 221, 224, 246(1), 259(1) STRAIPSNIŲ PAKEITIMO, 214(4), 246(5)
-STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR PAPILDYMO 42(1) STRAIPSNIU
+Nr. I-1551, 96.09.25,
+Žin., 1996, Nr. 104-2362 (96.10.30)
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 5, 42, 221, 224, 246(1), 259(1) STRAIPSNIŲ PAKEITIMO, 214(4),
+246(5) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR PAPILDYMO 42(1) STRAIPSNIU
 ĮSTATYMAS
  
 70.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1602, 96.10.23, Žin., 1996, Nr.
-105-2398 (96.11.02)
+Nr. I-1602, 96.10.23,
+Žin., 1996, Nr. 105-2398 (96.11.02)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 172(4) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 71.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-1594, 96.10.22, Žin., 1996, Nr.
-106-2428 (96.11.06)
+Nr. I-1594, 96.10.22,
+Žin., 1996, Nr. 106-2428 (96.11.06)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 212, 213, 213(1), 213(2) IR 238 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
 72.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-104, 97.02.11, žin., 1997, Nr.
-15-305(97.02.19)
+Nr. VIII-104, 97.02.11,
+žin., 1997, Nr. 15-305(97.02.19)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 189 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 73.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-124, 97.02.25, Žin., 1997, Nr.
-21-488 (97.03.12)
+Nr. VIII-124, 97.02.25,
+Žin., 1997, Nr. 21-488 (97.03.12)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 163(6), 163(7), 171, 172(1), 173(1), 224, 225(1), 246(1),
 259(1), 268, 320, 322 STRAIPSNIŲ PAKEITIMO, PAPILDYMO 163(10), 171(1), 171(2),
@@ -31593,16 +31352,16 @@ STRAIPSNIAIS IR 173(8) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 74.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-216, 97.05.08, Žin., 1997, Nr.
-41-996 (97.05.14)
+Nr. VIII-216, 97.05.08,
+Žin., 1997, Nr. 41-996 (97.05.14)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 187(3) STRAIPSNIU BEI KODEKSO 224 IR 259(1)
 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS 
  
 75.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-278, 97.06.19, Žin., 1997, Nr.
-64-1505 (97.07.04)
+Nr. VIII-278, 97.06.19,
+Žin., 1997, Nr. 64-1505 (97.07.04)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 172(14) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -31610,8 +31369,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 76.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-354, 97.07.01, Žin., 1997, Nr.
-69-1732 (97.07.23)
+Nr. VIII-354, 97.07.01,
+Žin., 1997, Nr. 69-1732 (97.07.23)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 35, 41, 188(8), 209, 210, 211, 224, 225, 233, 237, 246(1),
 259(1), 269, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 41(3), 41(4), 163(11),
@@ -31619,209 +31378,209 @@ PAŽEIDIMŲ KODEKSO 35, 41, 188(8), 209, 210, 211, 224, 225, 233, 237, 246(1),
  
 77.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-432, 97.10.07, Žin., 1997, Nr.
-94-2358 (97.10.17)
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO PAPILDYMO 185(3), 247(5) STRAIPSNIAIS IR 224, 259(1), 320 STRAIPSNIŲ
-PAKEITIMO
+Nr. VIII-432, 97.10.07,
+Žin., 1997, Nr. 94-2358 (97.10.17)
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO PAPILDYMO 185(3), 247(5) STRAIPSNIAIS IR 224, 259(1), 320
+STRAIPSNIŲ PAKEITIMO
  
 78.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-440, 97.10.09, Žin., 1997, Nr.
-94-2359 (97.10.17)
+Nr. VIII-440, 97.10.09,
+Žin., 1997, Nr. 94-2359 (97.10.17)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 207(1), 207(2), 207(3), 207(4), 207(5) STRAIPSNIAIS
 IR 224, 259(1) STRAIPSNIŲ PAKEITIMO
  
 79.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-461, 97.10.16, Žin., 1997, Nr.
-97-2446 (97.10.29)
+Nr. VIII-461, 97.10.16,
+Žin., 1997, Nr. 97-2446 (97.10.29)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 188(11), 205(1) STRAIPSNIAIS IR 221, 224, 259(1)
 STRAIPSNIŲ PAKEITIMO
  
 80.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-504, 97.11.11, Žin., 1997, Nr.
-104-2625 (97.11.19)
+Nr. VIII-504, 97.11.11,
+Žin., 1997, Nr. 104-2625 (97.11.19)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 225 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 81.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-520, 97.11.18, Žin., 1997, Nr.
-108-2735 (97.11.28)
+Nr. VIII-520, 97.11.18,
+Žin., 1997, Nr. 108-2735 (97.11.28)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 214(12), 214(13) STRAIPSNIAIS, 214(1) STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS IR 224, 259(1), 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 82.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-528, 97.11.20, Žin., 1997, Nr.
-112-2823 (97.12.10)
+Nr. VIII-528, 97.11.20,
+Žin., 1997, Nr. 112-2823 (97.12.10)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 142(3) STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 83.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-545, 97.12.02, Žin., 1997, Nr.
-116-2954 (97.12.19)
+Nr. VIII-545, 97.12.02,
+Žin., 1997, Nr. 116-2954 (97.12.19)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 163(5), 172(1), 173(1), 246(1), 247(5), 259(1), 291
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 163(12), 173(12) STRAIPSNIAIS ĮSTATYMAS
  
 86.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-604, 98.01.08, Žin., 1998, Nr. 6-116
-(98.01.16)
+Nr. VIII-604, 98.01.08,
+Žin., 1998, Nr. 6-116 (98.01.16)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 189(9) STRAIPSNIU IR 163(2), 224, 259(1), 320
 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
  
 87.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-620, 98.02.03, Žin., 1998, Nr.
-16-377 (98.02.13)
+Nr. VIII-620, 98.02.03,
+Žin., 1998, Nr. 16-377 (98.02.13)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 94(1) STRAIPSNIU IR 94, 224, 235, 259(1) STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 88.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-638, 98.02.24, Žin., 1998, Nr.
-25-634 (98.03.13)
+Nr. VIII-638, 98.02.24,
+Žin., 1998, Nr. 25-634 (98.03.13)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 50(5), 50(6) STRAIPSNIAIS, 224, 262 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 89.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-640, 98.02.24, Žin., 1998, Nr.
-25-636 (98.03.13)
+Nr. VIII-640, 98.02.24,
+Žin., 1998, Nr. 25-636 (98.03.13)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 5 IR 110 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 90.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-643, 98.02.24, Žin., 1998, Nr.
-25-637 (98.03.13)
+Nr. VIII-643, 98.02.24,
+Žin., 1998, Nr. 25-637 (98.03.13)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 214(10) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 91.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-659, 98.03.12, Žin., 1998, Nr.
-32-851 (98.04.03)
+Nr. VIII-659, 98.03.12,
+Žin., 1998, Nr. 32-851 (98.04.03)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 186(1), 186(4) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 92.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-677, 98.03.24, Žin., 1998, Nr.
-32-854 (98.04.03)
+Nr. VIII-677, 98.03.24,
+Žin., 1998, Nr. 32-854 (98.04.03)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 51(3), 61, 62, 64, 72, 242, 243, 244, 245, 246(3), 247,
 259(1), 263, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 93.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-678, 98.03.24, Žin., 1998, Nr.
-33-874 (98.04.08)
+Nr. VIII-678, 98.03.24,
+Žin., 1998, Nr. 33-874 (98.04.08)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 41(5) STRAIPSNIU IR 224, 233, 259(1) STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
  
 94.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-687, 98.04.07, Žin., 1998, Nr.
-40-1065 (98.04.29)
+Nr. VIII-687, 98.04.07,
+Žin., 1998, Nr. 40-1065 (98.04.29)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 214(14), 214(15), 214(16), 214(17) STRAIPSNIAIS IR
 224, 259(1) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 96.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-695, 98.04.08, Žin., 1998, Nr.
-40-1066 (98.04.29)
+Nr. VIII-695, 98.04.08,
+Žin., 1998, Nr. 40-1066 (98.04.29)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 202(1) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
  
 97.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-698, 98.04.15, Žin., 1998, Nr.
-41-1094 (98.05.01)
+Nr. VIII-698, 98.04.15,
+Žin., 1998, Nr. 41-1094 (98.05.01)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 99(4), 150, 235(1), 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 99(5) STRAIPSNIU ĮSTATYMAS
  
 98.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-713, 98.04.21, Žin., 1998, Nr.
-44-1198 (98.05.13)
+Nr. VIII-713, 98.04.21,
+Žin., 1998, Nr. 44-1198 (98.05.13)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 189(10) STRAIPSNIU IR 163(1), 189, 224, 259(1)
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 99.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-762, 98.06.02, Žin., 1998, Nr.
-55-1518 (98.06.17)
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 40 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR 251 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+Nr. VIII-762, 98.06.02,
+Žin., 1998, Nr. 55-1518 (98.06.17)
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 40 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR 251 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 100.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-830, 98.07.01, Žin., 1998, Nr.
-63-1803 (98.07.15)
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+Nr. VIII-830, 98.07.01,
+Žin., 1998, Nr. 63-1803 (98.07.15)
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 101.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-851, 98.07.02, Žin., 1998, Nr.
-67-1939 (98.07.29)
+Nr. VIII-851, 98.07.02,
+Žin., 1998, Nr. 67-1939 (98.07.29)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 189, 241(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 102.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-839, 98.07.02, Žin., 1998, Nr.
-68-1979 (98.07.31)
+Nr. VIII-839, 98.07.02,
+Žin., 1998, Nr. 68-1979 (98.07.31)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 172(16) STRAIPSNIU IR 246(1) STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 103.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-990, 98.12.21, Žin., 1999, Nr. 3-58
-(99.01.08)
+Nr. VIII-990, 98.12.21,
+Žin., 1999, Nr. 3-58 (99.01.08)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 99(6), 99(7), 235(2) STRAIPSNIAIS IR 224, 259(1)
 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 104.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1017, 99.01.05, Žin., 1999, Nr.
-11-237 (99.01.27)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO PAPILDYMO 41(6), 172(17), 187(5), 188(12), 247(6) STRAIPSNIAIS
-IR 221, 224, 259(1) STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+PAŽEIDIMŲ KODEKSO PAPILDYMO 41(6), 172(17), 187(5), 188(12), 247(6)
+STRAIPSNIAIS IR 221, 224, 259(1) STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
 105.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1041, 99.02.02, Žin., 1999, Nr.
-18-443 (99.02.19)
+Nr. VIII-1041,
+99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 35, 189, 208, 209, 209(1), 209(2), 209(3), 209(4), 210, 225,
 237, 282, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 106.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1046, 99.02.09, Žin., 1999, Nr.
-19-510 (99.02.24)
+Nr. VIII-1046,
+99.02.09, Žin., 1999, Nr. 19-510 (99.02.24)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 292, 293, 296, 297, 298 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1999 m. gegužės 1 d.
@@ -31832,39 +31591,39 @@ procesines normas.
  
 107.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1076, 99.02.11, Žin., 1999, Nr.
-19-517 (99.02.24)
+Nr. VIII-1076,
+99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 173(13), 204(1) STRAIPSNIAIS IR 224, 225, 259(1)
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 108.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1081, 99.02.11, Žin., 1999, Nr.
-23-649 (99.03.10)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 172(18), 189(11) STRAIPSNIAIS IR 224, 247(4),
 259(1) STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
  
 109.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1136, 99.04.08, Žin., 1999, Nr.
-36-1066 (99.04.23)
+Nr. VIII-1136,
+99.04.08, Žin., 1999, Nr. 36-1066 (99.04.23)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 172(19) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
  
 110.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1235, 99.06.17, Žin., 1999, Nr.
-60-1946 (99.07.09)
+Nr. VIII-1235,
+99.06.17, Žin., 1999, Nr. 60-1946 (99.07.09)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 163(2) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 111.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1278, 99.07.01, Žin., 1999, Nr.
-66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 158, 159(2), 160, 161, 172(1), 187(4), 189(2), 189(3), 224,
 225(1), 246(1), 246(3), 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO
@@ -31873,8 +31632,8 @@ STRAIPSNIAIS ĮSTATYMAS
  
 112.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1407, 99.11.11, Žin., 1999, Nr.
-101-2906 (99.11.26) 
+Nr. VIII-1407,
+99.11.11, Žin., 1999, Nr. 101-2906 (99.11.26) 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 30(1) STRAIPSNIU IR 298 STRAIPSNIO PAPILDYMO
 ĮSTATYMAS
@@ -31883,47 +31642,47 @@ PAŽEIDIMŲ KODEKSO PAPILDYMO 30(1) STRAIPSNIU IR 298 STRAIPSNIO PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-1441, 99.11.25, Žin., 1999,
-Nr. 106-3061 (99.12.15)
+VIII-1441,
+99.11.25, Žin., 1999, Nr. 106-3061 (99.12.15)
 LIETUVOS
 RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 187 STRAIPSNIO PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
  
 114.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1486, 99.12.21, Žin., 1999, Nr.
-113-3286 (99.12.30)
+Nr. VIII-1486,
+99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 41(4), 172(17), 224, 233, 259(1) STRAIPSNIŲ PAKEITIMO BEI
 PAPILDYMO IR KODEKSO PAPILDYMO 172(21), 214(18) STRAIPSNIAIS ĮSTATYMAS
  
 115.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1543, 00.02.17, Žin., 2000, Nr.
-22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
  
 116.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1603, 00.03.30, Žin., 2000, Nr.
-32-888 (00.04.19)
+Nr. VIII-1603,
+00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 142(2),
 142(4), 145, 163(11), 221, 232(1), 259(1), 262, 281 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
 117.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1651, 00.05.02, Žin., 2000,
-Nr. 41-1164 (00.05.19)
+Nr. VIII-1651,
+00.05.02, Žin., 2000, Nr. 41-1164 (00.05.19)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 15, 187,
 259(1) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m. birželio 1 d.
  
 118.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1734, 00.06.15, Žin., 2000,
-Nr. 54-1557 (00.07.05)
+Nr. VIII-1734,
+00.06.15, Žin., 2000, Nr. 54-1557 (00.07.05)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 15, 123,
 173(2), 221, 222, 224, 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 179 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS BEI KODEKSO PAPILDYMO 173(17 )STRAIPSNIU ĮSTATYMAS
@@ -31932,8 +31691,8 @@ PRIPAŽINIMO NETEKUSIU GALIOS BEI KODEKSO PAPILDYMO 173(17 )STRAIPSNIU ĮSTATYMA
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-1735, 00.06.15, Žin., 2000,
-Nr. 54-1558 (00.07.05)
+VIII-1735,
+00.06.15, Žin., 2000, Nr. 54-1558 (00.07.05)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 187(10) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ
 PAPILDYMO ĮSTATYMAS
@@ -31942,38 +31701,38 @@ PAPILDYMO ĮSTATYMAS
  
 120.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1750, 00.06.27, Žin., 2000,
-Nr. 56-1645 (00.07.12)
+Nr. VIII-1750,
+00.06.27, Žin., 2000, Nr. 56-1645 (00.07.12)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 172(25) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 121.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1824, 00.07.11, Žin., 2000,
-Nr. 64-1913 (00.07.31)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 41(3), 43,
 87, 87(2), 87(3), 87(4), 87(5), 87(6), 189, 189(6), 239, 241(1), 259(1)
 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
 122.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1877, 00.07.18, Žin., 2000,
-Nr. 64-1942 (00.07.31)
+Nr. VIII-1877,
+00.07.18, Žin., 2000, Nr. 64-1942 (00.07.31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 171(1) IR
 171(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 123.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1922, 00.09.12, Žin., 2000,
-Nr. 81-2443 (00.09.26)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 173(15),
 224, 225, 246(6), 259(1), 281 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 201
 STRAIPSNIO PRIPAŽINIMO NEGALIOJANČIU ĮSTATYMAS
  
 124.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1931, 00.09.19, Žin., 2000,
-Nr. 85-2570 (00.10.11)
+Nr. VIII-1931,
+00.09.19, Žin., 2000, Nr. 85-2570 (00.10.11)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 187(2),
 253, 256, 292, 293, 296 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 298 IR 300
 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
@@ -31981,15 +31740,15 @@ STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
  
 125.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1979, 00.10.10, Žin., 2000,
-Nr. 89-2745 (00.10.25)
+Nr. VIII-1979,
+00.10.10, Žin., 2000, Nr. 89-2745 (00.10.25)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 188(15) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 126.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2014, 00.10.10, Žin., 2000,
-Nr. 92-2866 (00.10.31)
+Nr. VIII-2014,
+00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 187, 225,
 266 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 225(2) STRAIPSNIU
 ĮSTATYMAS
@@ -31997,40 +31756,40 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 187, 225,
  
 127.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2023, 00.10.12, Žin., 2000,
-Nr. 92-2871 (00.10.31)
+Nr. VIII-2023,
+00.10.12, Žin., 2000, Nr. 92-2871 (00.10.31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 186(3),
 224, 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 186(6
 )STRAIPSNIU ĮSTATYMAS
  
 128.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2051, 00.10.17, Žin., 2000,
-Nr. 92-2884 (00.10.31)
+Nr. VIII-2051,
+00.10.17, Žin., 2000, Nr. 92-2884 (00.10.31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 59, 224,
 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 172(26)
 STRAIPSNIU ĮSTATYMAS
  
 129.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-108, 2000 12 21, Žin., 2000,
-Nr. 113-3610 (2000 12 30)
+Nr. IX-108, 2000 12
+21, Žin., 2000, Nr. 113-3610 (2000 12 30)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 171(4) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m. kovo 1 d.
  
 130.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-199, 2001 03 01, Žin., 2001,
-Nr. 25-826 (2001 03 23)
+Nr. IX-199, 2001 03
+01, Žin., 2001, Nr. 25-826 (2001 03 23)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 189(14), 214(1) STRAIPSNIAIS, 209(3), 214(8), 221, 224, 225, 237, 239, 241(1),
 244, 246(2), 259(1), 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 131.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-256,
-2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05 09)
+Nr. IX-256, 2001 04 17, Žin., 2001, Nr. 39-1328 (2001 05
+09)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 173(18) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
@@ -32038,25 +31797,25 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 132.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-316,
-2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05 30)
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 264, 269, 271 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Nr. IX-316, 2001 05 10, Žin., 2001, Nr. 45-1571 (2001 05
+30)
+ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 264, 269, 271 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d.
  
 133.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-365,
-2001-06-07, Žin., 2001, Nr. 52-1818 (2001-06-20)
+Nr. IX-365, 2001-06-07, Žin., 2001, Nr. 52-1818
+(2001-06-20)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 272, 273, 275, 280 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
 134.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-403,
-2001-06-26, Žin., 2001, Nr. 62-2220 (2001-07-18)
+Nr. IX-403, 2001-06-26, Žin., 2001, Nr. 62-2220
+(2001-07-18)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 173(9)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m. rusėjo 1 d.
@@ -32064,24 +31823,24 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 135.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-463,
-2001-07-12, Žin., 2001, Nr. 66-2409 (2001-08-01)
+Nr. IX-463, 2001-07-12, Žin., 2001, Nr. 66-2409
+(2001-08-01)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 87, 172(1), 232(2), 246(3) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
 136.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-588, 2001-11-08, Žin., 2001,
-Nr. 99-3522 (2001-11-28)
+Nr. IX-588,
+2001-11-08, Žin., 2001, Nr. 99-3522 (2001-11-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 5, 110, 241
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Įstatymas įsigalioja nuo 2002 m. sausio 1 d.
  
 137.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-651, 2001-12-13, Žin., 2001,
-Nr. 112-4071 (2001-12-30)
+Nr. IX-651,
+2001-12-13, Žin., 2001, Nr. 112-4071 (2001-12-30)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 224, 259(1)
 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR 225(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU
 GALIOS ĮSTATYMAS
@@ -32090,8 +31849,8 @@ GALIOS ĮSTATYMAS
 įstatymas netenka galios nuo 2002 m. kovo 1 d.:
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. IX-748, 2002-02-28, Žin., 2002,
-Nr. 23-852 (2002-03-01)
+Nr. IX-748,
+2002-02-28, Žin., 2002, Nr. 23-852 (2002-03-01)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 224, 259(1) STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR 225(1)
 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
@@ -32099,8 +31858,8 @@ STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 138.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-707, 2002-01-15, Žin., 2002,
-Nr. 13-468 (2002-02-06)
+Nr. IX-707,
+2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 142(2),
 142(4), 153, 165(2), 224, 259(1), 268, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 BEI KODEKSO PAPILDYMO 152(1), 152(2), 153(5), 153(6), 153(7), 153(8), 153(9),
@@ -32108,20 +31867,21 @@ BEI KODEKSO PAPILDYMO 152(1), 152(2), 153(5), 153(6), 153(7), 153(8), 153(9),
  
 139.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-726, 2002-01-22, Žin., 2002,
-Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(24)
 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS, 180, 181, 206, 206(1), 206(2), 206(3),
 224, 237, 241(1), 242, 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO
 PAPILDYMO 84(1), 181(1), 181(2) STRAIPSNIAIS ĮSTATYMAS
 Šio Įstatymo 1, 12, 13, 14 straipsniai įsigalioja
-nuo Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr. VIII-1641 (Žin., 2000, Nr. 36-987) 28 straipsnyje
-išvardytų jo straipsnių (jų dalių) įsigaliojimo.
+nuo Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr.
+VIII-1641 (Žin., 2000, Nr. 36-987) 28
+straipsnyje išvardytų jo straipsnių (jų dalių) įsigaliojimo.
  
 140.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-748, 2002-02-28, Žin., 2002,
-Nr. 23-852 (2002-03-01)
+Nr. IX-748,
+2002-02-28, Žin., 2002, Nr. 23-852 (2002-03-01)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 224, 259(1)
 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR 225(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU
 GALIOS ĮSTATYMAS
@@ -32130,8 +31890,8 @@ GALIOS ĮSTATYMAS
  
 141.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-744, 2002-02-28, Žin., 2002,
-Nr. 29-1031 (2002-03-20)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 186(3),
 186(6) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR 224, 259(1), 272 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
@@ -32139,8 +31899,8 @@ PAKEITIMO ĮSTATYMAS
 Pakeitimai:
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. IX-1288, 2002-12-10, Žin., 2002,
-Nr. 124-5629 (2002-12-27)
+Nr. IX-1288,
+2002-12-10, Žin., 2002, Nr. 124-5629 (2002-12-27)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 186(3), 186(6) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR
 224, 259(1), 272 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PRIPAŽINIMO
@@ -32148,23 +31908,23 @@ NETEKUSIU GALIOS ĮSTATYMAS
  
 142.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-770, 2002-03-07, Žin., 2002,
-Nr. 31-1121 (2002-03-27)
+Nr. IX-770,
+2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 62, 224,
 242, 244, 259(1), 268, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO
 PAPILDYMO 62(1), 62(2) STRAIPSNIAIS ĮSTATYMAS
  
 143.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-781, 2002-03-12, Žin., 2002,
-Nr. 31-1129 (2002-03-27)
+Nr. IX-781,
+2002-03-12, Žin., 2002, Nr. 31-1129 (2002-03-27)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 159
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 144.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-818, 2002-03-28, Žin., 2002,
-Nr. 33-1252 (2002-03-30)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(15),
 187, 225, 259(1), 266, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO
 PAPILDYMO 225(3) STRAIPSNIU ĮSTATYMAS
@@ -32172,8 +31932,8 @@ PAPILDYMO 225(3) STRAIPSNIU ĮSTATYMAS
  
 145.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-825, 2002-03-28, Žin., 2002,
-Nr. 33-1257 (2002-03-30)
+Nr. IX-825,
+2002-03-28, Žin., 2002, Nr. 33-1257 (2002-03-30)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 123 IR
 225(2) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
@@ -32181,8 +31941,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 123 IR
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-890, 2002-05-16, Žin., 2002,
-Nr. 55-2165 (2002-06-05)
+IX-890,
+2002-05-16, Žin., 2002, Nr. 55-2165 (2002-06-05)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 188(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -32190,8 +31950,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 188(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1049, 2002-07-05, Žin., 2002,
-Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio Įstatymo įsigaliojimas
@@ -32208,8 +31968,8 @@ straipsnio 1 dalies 1 punkto keturiasdešimt antroji pastraipa, įsigalioja nuo
 Pakeitimai:
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1234, 2002-12-10, Žin., 2002,
-Nr. 123-5526 (2002-12-24)
+Nr. IX-1234,
+2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
 KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO 41 IR 52 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
@@ -32217,8 +31977,8 @@ KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO 41 IR 52 STRAIPSNIŲ PAKEITIMO ĮSTATYM
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1260, 2002-12-10, Žin., 2002,
-Nr. 124-5623 (2002-12-27)
+IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
@@ -32230,8 +31990,8 @@ su Lietuvos Respublikos baudžiamuoju kodeksu, patvirtintu 2000 m. rugsėjo 25 d
  
 149.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-1363, 2003-03-13, Žin., 2003,
-Nr. 28-1126 (2003-03-21)
+Nr. IX-1363,
+2003-03-13, Žin., 2003, Nr. 28-1126 (2003-03-21)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 207(6) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
@@ -32239,8 +31999,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1386, 2003-03-20, Žin., 2003,
-Nr. 35-1462 (2003-04-11)
+IX-1386,
+2003-03-20, Žin., 2003, Nr. 35-1462 (2003-04-11)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 172(25) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
@@ -32249,8 +32009,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 172(25) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1702, 2003-07-04, Žin., 2003,
-Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -32283,8 +32043,8 @@ Nr. 25-763 (2004-02-14)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 30(1), 35,
 51, 124(1), 209, 214(14), 214(16), 214(17), 214(18), 224, 225(2), 239, 241(3),
 242, 254, 259, 259(1), 260, 261, 262, 263, 265, 266, 267, 269, 281, 286, 288,
-320, 329, 330 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 51(14), 51(15),
-51(16), 51(17), 89(1), 214(23) STRAIPSNIAIS ĮSTATYMAS
+320, 329, 330 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 51(14),
+51(15), 51(16), 51(17), 89(1), 214(23) STRAIPSNIAIS ĮSTATYMAS
  
 155.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -32389,8 +32149,8 @@ Nr. 83-3040 (2005-07-07)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 21, 26, 27,
 35, 119, 121, 122, 136, 143, 154(3), 154(4), 154(5), 154(6), 154(7), 154(8),
 182(1), 221, 224, 225, 228, 241(2), 246, 259(1), 269, 270, 281, 320, 324, 325,
-328, 329 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 110(1), 117(2), 117(3),
-117(4), 152(14), 154(9), 154(10), 163(14) STRAIPSNIAIS ĮSTATYMAS
+328, 329 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 110(1), 117(2), 117(3), 117(4),
+152(14), 154(9), 154(10), 163(14) STRAIPSNIAIS ĮSTATYMAS
  
 166.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -32517,8 +32277,8 @@ Nr.
 X-1246, 2007-07-03, Žin., 2007,
 Nr. 81-3316 (2007-07-21)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 5, 26, 158,
-209(3), 221, 224, 237, 259(1), 282, 320 STRAIPSNIŲ PAKEITIMO IR KODEKSO
-PAPILDYMO 133(1), 214(27) STRAIPSNIAIS ĮSTATYMAS
+209(3), 221, 224, 237, 259(1), 282, 320 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO
+133(1), 214(27) STRAIPSNIAIS ĮSTATYMAS
  
 179.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -32635,15 +32395,15 @@ paskelbimo leidinyje „Valstybės žinios“.
  
 188.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-305, 2009-06-16, Žin., 2009,
-Nr. 77-3169 (2009-06-30)
+Nr. XI-305,
+2009-06-16, Žin., 2009, Nr. 77-3169 (2009-06-30)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 188(18)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 189.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-349, 2009-07-15, Žin., 2009,
-Nr. 89-3805 (2009-07-28)
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 13, 15, 41,
 142, 172(19), 172(21), 173(5), 214, 214(10), 214(19), 221, 224, 232, 232(1),
 233, 246(1), 246(6), 259(1), 262, 281, 288, 320 STRAIPSNIŲ PAKEITIMO IR
@@ -32651,8 +32411,8 @@ PAPILDYMO, KODEKSO PAPILDYMO 41(12), 43(11), 43(12), 142(11), 187(13)
 STRAIPSNIAIS IR 214(12), 214(13) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
 Šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą.
+įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo
+priede, įgyvendinimą.
 Šio įstatymo 10 ir 11 straipsniai įsigalioja 2009 m.
 spalio 1 d.
 Šio įstatymo 3 ir 29 straipsniai įsigalioja 2010 m.
@@ -32663,8 +32423,8 @@ kovo 1 d.
 190.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-507, 2009-12-01, Žin., 2009,
-Nr. 147-6550 (2009-12-12)
+Nr. XI-507,
+2009-12-01, Žin., 2009, Nr. 147-6550 (2009-12-12)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 246(3), 247(11) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.
@@ -32672,8 +32432,8 @@ PAŽEIDIMŲ KODEKSO 246(3), 247(11) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 191.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-581, 2009-12-17, Žin., 2010,
-Nr. 1-2 (2010-01-05)
+Nr. XI-581,
+2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 51(6), 51(13), 55, 57, 221, 242, 259(1) STRAIPSNIŲ PAKEITIMO
 IR 58(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
@@ -32683,16 +32443,16 @@ priede.
  
 192.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-590, 2009-12-21, Žin., 2010,
-Nr. 1-5 (2010-01-05)
+Nr. XI-590,
+2009-12-21, Žin., 2010, Nr. 1-5 (2010-01-05)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 173(13)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 193.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-645, 2010-01-14, Žin., 2010,
-Nr. 13-613 (2010-02-02)
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 89(1), 167(3), 188(14), 238(1), 239, 241(3), 259(1), 320
 STRAIPSNIŲ PAKEITIMO IR 245(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
@@ -32701,11 +32461,12 @@ STRAIPSNIŲ PAKEITIMO IR 245(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 straipsnius, įsigalioja 2010 m. balandžio 1 d. 
 Šio
 įstatymo 2, 3, 4, 6, 7, 8 ir 9 straipsniai įsigalioja 2010 m. liepos 1 d.
-Šio įstatymo įsigaliojimas pakeistas:
+Šio įstatymo įsigaliojimas
+pakeistas:
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-698, 2010-03-18, Žin., 2010,
-Nr. 34-1615 (2010-03-25)
+Nr. XI-698,
+2010-03-18, Žin., 2010, Nr. 34-1615 (2010-03-25)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 89(1), 167(3), 188(14), 238(1), 239, 241(3), 259(1), 320
 STRAIPSNIŲ PAKEITIMO IR 245(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO
@@ -32715,8 +32476,8 @@ STRAIPSNIŲ PAKEITIMO IR 245(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATY
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-788, 2010-04-27, Žin., 2010,
-Nr. 55-2680 (2010-05-13)
+XI-788,
+2010-04-27, Žin., 2010, Nr. 55-2680 (2010-05-13)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 221, 245 IR
 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -32729,16 +32490,16 @@ surašymo procedūros baigiamos pagal šio įstatymo nuostatas.
 195.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-801, 2010-05-11, Žin., 2010,
-Nr. 60-2960 (2010-05-25)
+Nr. XI-801,
+2010-05-11, Žin., 2010, Nr. 60-2960 (2010-05-25)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 214(26), 247(10) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 196.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-820, 2010-05-18, Žin., 2010,
-Nr. 63-3098 (2010-05-31)
+Nr. XI-820, 2010-05-18,
+Žin., 2010, Nr. 63-3098 (2010-05-31)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 207(8), 207(9), 207(10), 224, 259(1) STRAIPSNIŲ PAKEITIMO IR
 KODEKSO PAPILDYMO 207(12), 207(13) STRAIPSNIAIS ĮSTATYMAS
@@ -32747,8 +32508,8 @@ KODEKSO PAPILDYMO 207(12), 207(13) STRAIPSNIAIS ĮSTATYMAS
  
 197.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-857, 2010-05-28, Žin., 2010,
-Nr. 70-3471 (2010-06-17)
+Nr. XI-857,
+2010-05-28, Žin., 2010, Nr. 70-3471 (2010-06-17)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 56
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šiuo
@@ -32757,15 +32518,15 @@ priede.
  
 198.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-872, 2010-06-03, Žin., 2010,
-Nr. 71-3549 (2010-06-19)
+Nr. XI-872,
+2010-06-03, Žin., 2010, Nr. 71-3549 (2010-06-19)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 173(16)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 199.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-892, 2010-06-10, Žin., 2010,
-Nr. 72-3614 (2010-06-22)
+Nr. XI-892,
+2010-06-10, Žin., 2010, Nr. 72-3614 (2010-06-22)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 119(2) IR 229 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį,
@@ -32774,51 +32535,51 @@ PAŽEIDIMŲ KODEKSO 119(2) IR 229 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 200.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1036, 2010-09-28, Žin., 2010,
-Nr. 116-5918 (2010-09-30)
+Nr. XI-1036, 2010-09-28,
+Žin., 2010, Nr. 116-5918 (2010-09-30)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 51(2), 158(1), 159, 159(1), 159(2), 189(1), 189(2), 189(4),
 189(13), 189(15), 221, 222, 224, 239(2), 239(4), 242, 246(3), 259(1) STRAIPSNIŲ
 PAKEITIMO IR KODEKSO PAPILDYMO 159(3), 159(4), 159(5), 159(6) IR 189(16)
 STRAIPSNIAIS ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. spalio 1 d.
-Šio įstatymo atitaisymas skelbtas: Žin., 2010,
-Nr. 117
+Šio įstatymo atitaisymas
+skelbtas: Žin., 2010, Nr. 117
  
 201.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1016, 2010-09-21, Žin., 2010,
-Nr. 118-5991 (2010-10-02)
+Nr. XI-1016,
+2010-09-21, Žin., 2010, Nr. 118-5991 (2010-10-02)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 173(1)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 202.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1060, 2010-10-12, Žin., 2010,
-Nr. 125-6383 (2010-10-23)
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 200 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+Nr. XI-1060,
+2010-10-12, Žin., 2010, Nr. 125-6383 (2010-10-23)
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 200
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.
  
 203.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1086, 2010-11-04, Žin., 2010,
-Nr. 137-6987 (2010-11-23)
+Nr. XI-1086,
+2010-11-04, Žin., 2010, Nr. 137-6987 (2010-11-23)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 236 IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 204.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1133, 2010-11-16, Žin., 2010,
-Nr. 139-7114 (2010-11-27)
+Nr. XI-1133,
+2010-11-16, Žin., 2010, Nr. 139-7114 (2010-11-27)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 99(8)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 205.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1142, 2010-11-18, Žin., 2010,
-Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 30(2), 226, 232, 232(1), 239, 239(3), 241, 241(1), 246(1),
 246(2), 246(7), 249, 259, 260, 261, 262, 282, 313 STRAIPSNIŲ IR DVIDEŠIMT
@@ -32832,14 +32593,14 @@ straipsnyje nurodyti pagrindai, pradėtų ir nebaigtų administracinių teisės
 pažeidimų bylų, taip pat administracinių teisės pažeidimų, kurių protokolai
 surašyti iki šio įstatymo įsigaliojimo, bylų teisena vyksta iki šio įstatymo
 įsigaliojimo galiojusia tvarka.
-Šio įstatymo atitaisymas skelbtas: Žin., 2011,
-Nr. 8 (2011-01-20)
+Šio įstatymo atitaisymas
+skelbtas: Žin., 2011, Nr. 8 (2011-01-20)
  
 206.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1183, 2010-11-30, Žin., 2010,
-Nr. 145-7436 (2010-12-11)
+Nr. XI-1183,
+2010-11-30, Žin., 2010, Nr. 145-7436 (2010-12-11)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 185(3), 247(5), 259(1), 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. balandžio 1 d.
@@ -32847,8 +32608,8 @@ PAŽEIDIMŲ KODEKSO 185(3), 247(5), 259(1), 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 įstatymo pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1293, 2011-03-22, Žin., 2011,
-Nr. 40-1917 (2011-04-05)
+Nr. XI-1293,
+2011-03-22, Žin., 2011, Nr. 40-1917 (2011-04-05)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 185(3), 247(5), 259(1), 320 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -32858,8 +32619,8 @@ balandžio 1 d.
 207.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1217, 2010-12-09, Žin., 2010,
-Nr. 153-7786 (2010-12-28)
+Nr. XI-1217, 2010-12-09,
+Žin., 2010, Nr. 153-7786 (2010-12-28)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 26, 154(3), 246, 281, 320 STRAIPSNIŲ PAKEITIMO IR 154(4),
 154(5), 154(6), 154(7), 154(8), 154(9), 154(10) STRAIPSNIŲ PRIPAŽINIMO
@@ -32870,8 +32631,8 @@ NETEKUSIAIS GALIOS ĮSTATYMAS
 208.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1223, 2010-12-14, Žin., 2010,
-Nr. 157-7968 (2010-12-31)
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 5, 21, 26, 27, 29, 35, 51(22), 87(7), 89(1), 116, 123,
 124(1), 125, 127, 130(2), 131, 133(1), 167(1), 167(2), 172(23), 185, 187(8),
@@ -32879,8 +32640,7 @@ PAŽEIDIMŲ KODEKSO 5, 21, 26, 27, 29, 35, 51(22), 87(7), 89(1), 116, 123,
 260, 260(2), 262, 263, 264, 266, 267, 268, 269, 271, 272, 276, 282, 288, 304,
 306, 308, 313, 314, 320, 326, 329, 334, 336, 337, 338(1) STRAIPSNIŲ PAKEITIMO
 IR PAPILDYMO, 124(4), 132(1), 197(1), 315 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
-GALIOS IR KODEKSO PAPILDYMO 115(4), 124(5), 124(6), 192(2) STRAIPSNIAIS
-ĮSTATYMAS
+GALIOS IR KODEKSO PAPILDYMO 115(4), 124(5), 124(6), 192(2) STRAIPSNIAIS ĮSTATYMAS
 Šis įstatymas, išskyrus 3, 15, 48 straipsnius, 52
 straipsnio 4 ir 5 dalis, 53, 61, 62 ir 67 straipsnius, įsigalioja 2011 m. kovo
 1 d.
@@ -32892,32 +32652,32 @@ straipsnio 4 ir 5 dalis, 53, 61, 62 ir 67 straipsnius, įsigalioja 2011 m. kovo
 209.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1294, 2011-03-24, Žin., 2011,
-Nr. 40-1918 (2011-04-05)
-ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 84(1), 237 IR 242 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Nr. XI-1294,
+2011-03-24, Žin., 2011, Nr. 40-1918 (2011-04-05)
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 84(1), 237 IR 242 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 210.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1309, 2011-04-12, Žin., 2011,
-Nr. 49-2364 (2011-04-28)
+Nr. XI-1309,
+2011-04-12, Žin., 2011, Nr. 49-2364 (2011-04-28)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 188(19) STRAIPSNIU IR 225 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 211.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1321, 2011-04-14, Žin., 2011,
-Nr. 49-2373 (2011-04-28)
+Nr. XI-1321,
+2011-04-14, Žin., 2011, Nr. 49-2373 (2011-04-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(14)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 212.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1325, 2011-04-19, Žin., 2011,
-Nr. 52-2502 (2011-05-03)
+Nr. XI-1325,
+2011-04-19, Žin., 2011, Nr. 52-2502 (2011-05-03)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 51(3) IR 242 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šiuo
@@ -32927,8 +32687,8 @@ priede.
 213.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1385, 2011-05-19, Žin., 2011,
-Nr. 68-3216 (2011-06-04)
+Nr. XI-1385,
+2011-05-19, Žin., 2011, Nr. 68-3216 (2011-06-04)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 209(7) STRAIPSNIU IR 224, 259(1), 320 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
@@ -32937,18 +32697,17 @@ PAKEITIMO ĮSTATYMAS
 214.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1381, 2011-05-19, Žin., 2011,
-Nr. 69-3289 (2011-06-07)
+Nr. XI-1381,
+2011-05-19, Žin., 2011, Nr. 69-3289 (2011-06-07)
 ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO PAPILDYMO 41(13) STRAIPSNIU IR 233 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+PAŽEIDIMŲ KODEKSO PAPILDYMO 41(13) STRAIPSNIU IR 233 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. gruodžio 1 d.
  
 215.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1407, 2011-05-24, Žin., 2011,
-Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 42, 46, 51, 51(2), 51(8), 51(10), 51(14), 52(2), 53, 61,
 62(1), 67, 68, 70, 75, 76, 77, 77(1), 78, 78(1), 85, 86, 87, 88, 90, 159(3),
@@ -32964,10 +32723,10 @@ kodekso 76 straipsnio 10 dalis, 40 ir 41 straipsniai įsigalioja 2012 m. sausio
 1 d.
  
 216.
-Lietuvos Respublikos Seimas,
-Įstatymas
-Nr. XI-1422, 2011-05-26, Žin., 2011,
-Nr. 72-3473 (2011-06-14)
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. XI-1422,
+2011-05-26, Žin., 2011, Nr. 72-3473 (2011-06-14)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 187(14), 187(15), 238(2) STRAIPSNIAIS IR 259(1)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -32975,15 +32734,15 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 217.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1438, 2011-06-09, Žin., 2011,
-Nr. 74-3542 (2011-06-18)
+Nr. XI-1438,
+2011-06-09, Žin., 2011, Nr. 74-3542 (2011-06-18)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 183
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 218.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1447, 2011-06-16, Žin., 2011,
-Nr. 78-3795 (2011-06-30)
+Nr. XI-1447,
+2011-06-16, Žin., 2011, Nr. 78-3795 (2011-06-30)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(2)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja
@@ -32993,8 +32752,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1477, 2011-06-21, Žin., 2011,
-Nr. 81-3964 (2011-07-05)
+XI-1477,
+2011-06-21, Žin., 2011, Nr. 81-3964 (2011-07-05)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -33002,8 +32761,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1464, 2011-06-20, Žin., 2011,
-Nr. 85-4125 (2011-07-13)
+XI-1464,
+2011-06-20, Žin., 2011, Nr. 85-4125 (2011-07-13)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 51(25) STRAIPSNIU IR 242 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -33011,8 +32770,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1492, 2011-06-21, Žin., 2011,
-Nr. 85-4136 (2011-07-13)
+XI-1492,
+2011-06-21, Žin., 2011, Nr. 85-4136 (2011-07-13)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 171(3)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -33022,8 +32781,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1521, 2011-06-23, Žin., 2011,
-Nr. 86-4163 (2011-07-13)
+XI-1521,
+2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 212, 213,
 213(1), 213(2) IR 238 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -33033,15 +32792,15 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 212, 213,
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1549, 2011-06-28, Žin., 2011,
-Nr. 86-4175 (2011-07-13)
+XI-1549,
+2011-06-28, Žin., 2011, Nr. 86-4175 (2011-07-13)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 206(4) STRAIPSNIU IR 225, 225(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 224.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1493, 2011-06-21, Žin., 2011,
-Nr. 91-4313 (2011-07-19)
+Nr. XI-1493,
+2011-06-21, Žin., 2011, Nr. 91-4313 (2011-07-19)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 94, 94(1), 235, 239(2) IR 259(1) STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -33049,8 +32808,8 @@ PAŽEIDIMŲ KODEKSO 94, 94(1), 235, 239(2) IR 259(1) STRAIPSNIŲ PAKEITIMO
 Šio įstatymo pakeitimas:
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-1589, 2011-09-15, Žin., 2011,
-Nr. 117-5507 (2011-09-28)
+Nr. XI-1589,
+2011-09-15, Žin., 2011, Nr. 117-5507 (2011-09-28)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 94, 94(1), 235, 239(2) IR 259(1) STRAIPSNIŲ PAKEITIMO
 ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -33058,8 +32817,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 94, 94(1), 235, 239(2) IR 259(1) STRAIPSNIŲ PAKEITI
 225.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1551, 2011-06-28, Žin., 2011,
-Nr. 91-4326 (2011-07-19)
+Nr. XI-1551,
+2011-06-28, Žin., 2011, Nr. 91-4326 (2011-07-19)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 51(26) STRAIPSNIU, 99(4), 224, 235(1) IR 259(1)
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -33069,29 +32828,29 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 226.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XI-1553, 2011-06-28, Žin., 2011,
-Nr. 91-4328 (2011-07-19)
+Nr. XI-1553,
+2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 21, 26, 27, 152, 152(1), 152(3), 152(4), 152(5), 152(10),
-152(11), 152(12), 152(13), 153(10), 154, 154(1), 154(2), 246, 281, 320, 324,
-325, 328(1), 330 STRAIPSNIŲ PAKEITIMO IR 152(8) STRAIPSNIO PRIPAČINIMO
-NETEKUSIU GALIOS ĮSTATYMAS
+152(11), 152(12), 152(13), 153(10), 154, 154(1), 154(2), 246, 281, 320, 324, 325,
+328(1), 330 STRAIPSNIŲ PAKEITIMO IR 152(8) STRAIPSNIO PRIPAČINIMO NETEKUSIU
+GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
  
 227.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1767, 2011-12-01, Žin., 2011,
-Nr. 153-7204 (2011-12-15)
+XI-1767,
+2011-12-01, Žin., 2011, Nr. 153-7204 (2011-12-15)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 43(9),
 239(4) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
  
 228.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1866, 2011-12-22, Žin., 2011,
-Nr. 163-7758 (2011-12-31)
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 13, 35,
 43(6), 43(7), 43(8), 43(10), 79, 109(1), 110(1), 111, 112, 112(1), 112(6),
 112(8), 125, 138, 145, 146, 147, 149, 163, 163(13), 171(3), 172(4), 173(5),
@@ -33100,9 +32859,9 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 13, 35,
 246, 246(4), 246(8), 247(2), 247(7), 247(10), 259(1), 281, 304, 309, 314
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 37(2), 43(13), 52(3),
 52(4), 99(11), 112(9), 112(10), 112(11), 117(5), 172(28), 173(22), 181(4),
-188(20), 206(5) STRAIPSNIAIS IR TRISDEŠIMT TREČIUOJU SKIRSNIU IR 112(7),
-172(8), 173(4), 206(1), 241, 246(6), 247(3) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
-GALIOS ĮSTATYMAS
+188(20), 206(5) STRAIPSNIAIS IR TRISDEŠIMT TREČIUOJU SKIRSNIU IR 112(7), 172(8),
+173(4), 206(1), 241, 246(6), 247(3) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
+ĮSTATYMAS
 Šiuo įstatymu įgyvendinami
 Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 Šis įstatymas, išskyrus šio įstatymo 4, 13, 37, 43
@@ -33117,8 +32876,8 @@ dalis, 78 straipsnio 2 dalis ir 83 straipsnis įsigalioja 2012 m. gegužės 1 d.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1902, 2011-12-22, Žin., 2011,
-Nr. 163-7778 (2011-12-31)
+XI-1902,
+2011-12-22, Žin., 2011, Nr. 163-7778 (2011-12-31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 51(23),
 84(3), 224, 237, 241(1), 242, 259(1) STRAIPSNIŲ PAKEITIMO IR 84(4) STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
@@ -33128,15 +32887,15 @@ aktai, nurodyti šio įstatymo priede.
  
 230.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1952, 2012-03-29, Žin., 2012,
-Nr. 44-2145 (2012-04-14)
+Nr. XI-1952,
+2012-03-29, Žin., 2012, Nr. 44-2145 (2012-04-14)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(1),
 172(16), 173(11), 173(12) IR 215(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 231.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1968, 2012-04-12, Žin., 2012,
-Nr. 50-2441 (2012-04-28)
+Nr. XI-1968,
+2012-04-12, Žin., 2012, Nr. 50-2441 (2012-04-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 158(2) STRAIPSNIU IR 221, 222, 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
@@ -33145,8 +32904,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2009, 2012-05-10, Žin., 2012,
-Nr. 57-2832 (2012-05-19)
+XI-2009,
+2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 207(6), 224, 259(1) STRAIPSNIŲ PAKEITIMO IR KODEKSO
 PAPILDYMO 207(14) STRAIPSNIU ĮSTATYMAS
@@ -33155,8 +32914,8 @@ PAPILDYMO 207(14) STRAIPSNIU ĮSTATYMAS
 233.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-2022, 2012-05-22, Žin., 2012,
-Nr. 63-3163 (2012-06-05)
+Nr. XI-2022,
+2012-05-22, Žin., 2012, Nr. 63-3163 (2012-06-05)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 107(3)
 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
@@ -33166,8 +32925,8 @@ aktas, nurodytas šio įstatymo priede.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2057, 2012-06-12, Žin., 2012,
-Nr. 72-3707 (2012-06-27)
+XI-2057,
+2012-06-12, Žin., 2012, Nr. 72-3707 (2012-06-27)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 87
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -33177,8 +32936,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2101, 2012-06-21, Žin., 2012,
-Nr. 78-4023 (2012-07-04)
+XI-2101,
+2012-06-21, Žin., 2012, Nr. 78-4023 (2012-07-04)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 207(10) IR 207(13) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -33186,8 +32945,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 207(10) IR 207(13) STRAIPSNIŲ PAKEITIMO IR PAPILDYM
 236.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-2104, 2012-06-21, Žin., 2012,
-Nr. 78-4026 (2012-07-04)
+Nr. XI-2104,
+2012-06-21, Žin., 2012, Nr. 78-4026 (2012-07-04)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 177,
 177(1), 177(2) IR 269 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
@@ -33196,8 +32955,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 177,
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2158, 2012-06-29, Žin., 2012,
-Nr. 82-4263 (2012-07-13)
+XI-2158,
+2012-06-29, Žin., 2012, Nr. 82-4263 (2012-07-13)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 241(3) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -33205,8 +32964,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 241(3) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 238.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-2192, 2012-06-30, Žin., 2012,
-Nr. 82-4271 (2012-07-13)
+Nr. XI-2192,
+2012-06-30, Žin., 2012, Nr. 82-4271 (2012-07-13)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 206(3) IR
 233 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
@@ -33215,8 +32974,8 @@ aktas, nurodytas šio įstatymo priede.
  
 239.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-2173, 2012-06-29, Žin., 2012,
-Nr. 83-4347 (2012-07-14)
+Nr. XI-2173,
+2012-06-29, Žin., 2012, Nr. 83-4347 (2012-07-14)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(1)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
@@ -33225,24 +32984,25 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2272, 2012-10-03, Žin., 2012,
-Nr. 122-6127 (2012-10-20)
+XI-2272,
+2012-10-03, Žin., 2012, Nr. 122-6127 (2012-10-20)
 ADMINISTRACINIŲ
-TEISĖS PAŽEIDIMŲ KODEKSO 26, 110, 221, 222 IR 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+TEISĖS PAŽEIDIMŲ KODEKSO 26, 110, 221, 222 IR 320 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
 241.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-2374, 2012-11-06, Žin., 2012,
-Nr. 132-6695 (2012-11-15)
+Nr. XI-2374,
+2012-11-06, Žin., 2012, Nr. 132-6695 (2012-11-15)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 43(1),
 43(2) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 242.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-227, 2013-04-11, Žin., 2013,
-Nr. 42-2043 (2013-04-24)
+Nr. XII-227,
+2013-04-11, Žin., 2013, Nr. 42-2043 (2013-04-24)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 118(1) STRAIPSNIU IR 228, 229 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
@@ -33252,8 +33012,8 @@ aktas, nurodytas šio įstatymo priede.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-247, 2013-04-23, Žin., 2013,
-Nr. 46-2248 (2013-05-07)
+XII-247,
+2013-04-23, Žin., 2013, Nr. 46-2248 (2013-05-07)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 30(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -33261,8 +33021,8 @@ TEISĖS PAŽEIDIMŲ KODEKSO 30(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-265, 2013-05-07, Žin., 2013,
-Nr. 54-2670 (2013-05-25)
+XII-265,
+2013-05-07, Žin., 2013, Nr. 54-2670 (2013-05-25)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 142(12) STRAIPSNIU IR 232(1), 281 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
@@ -33271,8 +33031,8 @@ aktas, nurodytas šio įstatymo priede.
  
 245.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-274, 2013-05-09, Žin., 2013,
-Nr. 54-2679 (2013-05-25)
+Nr. XII-274,
+2013-05-09, Žin., 2013, Nr. 54-2679 (2013-05-25)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 201(3) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
@@ -33280,25 +33040,25 @@ Pakeitimas:
 245.1.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XII-703, 2013-12-19, Žin., 2013,
-Nr. 140-7073 (2013-12-30)
-LIETUVOS RESPUBLIKOS
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 201(3) STRAIPSNIU IR 224,
-259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Nr. XII-703,
+2013-12-19, Žin., 2013, Nr. 140-7073 (2013-12-30)
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ
+TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 201(3) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ
+PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m.
 sausio 1 d.
  
 246.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-278, 2013-05-09, Žin., 2013,
-Nr. 54-2683 (2013-05-25)
+Nr. XII-278,
+2013-05-09, Žin., 2013, Nr. 54-2683 (2013-05-25)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 41(2) IR
 41(5) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 247.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-292, 2013-05-09, Žin., 2013,
-Nr. 55-2730 (2013-05-28)
+Nr. XII-292,
+2013-05-09, Žin., 2013, Nr. 55-2730 (2013-05-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 51(2)
 STRAIPSNIO PAPILDYMO IR 242, 244 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. birželio 1 d.
@@ -33307,24 +33067,24 @@ STRAIPSNIO PAPILDYMO IR 242, 244 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-314, 2013-05-16, Žin., 2013,
-Nr. 57-2853 (2013-06-01)
+XII-314,
+2013-05-16, Žin., 2013, Nr. 57-2853 (2013-06-01)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 172(2) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. rugsėjo 1 d.
  
 249.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-316, 2013-05-16, Žin., 2013,
-Nr. 57-2855 (2013-06-01)
+Nr. XII-316,
+2013-05-16, Žin., 2013, Nr. 57-2855 (2013-06-01)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 5, 189(14),
 214(1), 224, 239, 241(1) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. rugpjūčio 1 d.
 Šis įstatymas keistas:
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XII-486, 2013-07-02, Žin., 2013,
-Nr. 76-3855 (2013-07-16)
+Nr. XII-486,
+2013-07-02, Žin., 2013, Nr. 76-3855 (2013-07-16)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
 KODEKSO 5, 189(1)4, 214(1), 224, 239, 241(1) IR 259(1) STRAIPSNIŲ PAKEITIMO
 ĮSTATYMO 4 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -33333,8 +33093,8 @@ rugpjūčio 1 d.
  
 250.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-347, 2013-05-30, Žin., 2013,
-Nr. 62-3059 (2013-06-12)
+Nr. XII-347,
+2013-05-30, Žin., 2013, Nr. 62-3059 (2013-06-12)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 136(1),
 136(2), 225, 225(2), 227, 229, 237 IR 281 STRAIPSNIŲ PAKEITIMO IR KODEKSO
 PAPILDYMO 136(3) IR 136(4) STRAIPSNIAIS ĮSTATYMAS
@@ -33343,8 +33103,8 @@ PAPILDYMO 136(3) IR 136(4) STRAIPSNIAIS ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-349, 2013-05-30, Žin., 2013,
-Nr. 62-3061 (2013-06-12)
+XII-349,
+2013-05-30, Žin., 2013, Nr. 62-3061 (2013-06-12)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 107(2),
 237, 241(3) STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 107(5) STRAIPSNIU
 ĮSTATYMAS
@@ -33353,12 +33113,12 @@ Pakeitimai:
 251.1.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XII-704, 2013-12-19, Žin., 2013,
-Nr. 140-7074 (2013-12-30)
+Nr. XII-704,
+2013-12-19, Žin., 2013, Nr. 140-7074 (2013-12-30)
 LIETUVOS RESPUBLIKOS
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 107(2), 237, 241(3) STRAIPSNIŲ PAKEITIMO
-IR KODEKSO PAPILDYMO 107(5) STRAIPSNIU ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 107(2), 237, 241(3) STRAIPSNIŲ
+PAKEITIMO IR KODEKSO PAPILDYMO 107(5) STRAIPSNIU ĮSTATYMO 3 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m.
 sausio 1 d.
  
@@ -33366,8 +33126,8 @@ sausio 1 d.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-361, 2013-06-13, Žin., 2013,
-Nr. 68-3402 (2013-06-28)
+XII-361,
+2013-06-13, Žin., 2013, Nr. 68-3402 (2013-06-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 242 IR
 260(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
@@ -33375,8 +33135,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 242 IR
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-379, 2013-06-18, Žin., 2013,
-Nr. 68-3413 (2013-06-28)
+XII-379,
+2013-06-18, Žin., 2013, Nr. 68-3413 (2013-06-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 173(16)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. liepos 1 d.
@@ -33385,8 +33145,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-384, 2013-06-18, Žin., 2013,
-Nr. 68-3416 (2013-06-28)
+XII-384,
+2013-06-18, Žin., 2013, Nr. 68-3416 (2013-06-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 163(13),
 189 IR 189(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2013
@@ -33396,8 +33156,8 @@ m. liepos 1 d.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-389, 2013-06-18, Žin., 2013,
-Nr. 68-3418 (2013-06-28)
+XII-389,
+2013-06-18, Žin., 2013, Nr. 68-3418 (2013-06-28)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 44(3), 224,
 259(1), 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 44(7)
 STRAIPSNIU ĮSTATYMAS
@@ -33407,8 +33167,8 @@ STRAIPSNIU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-399, 2013-06-20, Žin., 2013,
-Nr. 71-3580 (2013-07-01)
+XII-399,
+2013-06-20, Žin., 2013, Nr. 71-3580 (2013-07-01)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 21, 27,
 87(3), 87(5), 87(6), 87(7), 241(4), 242, 244, 259(1), 320, 324, 325 STRAIPSNIŲ
 PAKEITIMO IR KODEKSO PAPILDYMO 87(10), 87(11) STRAIPSNIAIS ĮSTATYMAS
@@ -33418,16 +33178,16 @@ aktas, nurodytas šio įstatymo priede.
  
 257.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-585, 2013-11-07, Žin., 2013,
-Nr. 120-6054 (2013-11-23)
+Nr. XII-585,
+2013-11-07, Žin., 2013, Nr. 120-6054 (2013-11-23)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 142(4),
 225, 225(2), 237, 269 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. gruodžio 1 d.
  
 258.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-601, 2013-11-19, Žin., 2013,
-Nr. 124-6280 (2013-12-05)
+Nr. XII-601,
+2013-11-19, Žin., 2013, Nr. 124-6280 (2013-12-05)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 257(1),
 260, 272, 288, 292, 294, 299, 302, 302(5), 302(8), 306, 308, 309, 312, 313, 314
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 257(2) STRAIPSNIU
@@ -33452,8 +33212,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 258.2.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. XII-1510, 2014-12-18, paskelbta
-TAR 2014-12-31, i. k. 2014-21276
+Nr. XII-1510,
+2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21276
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 257(1), 260, 272, 288, 292, 294, 299, 302, 302(5), 302(8),
 306, 308, 309, 312, 313, 314 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO
@@ -33462,16 +33222,16 @@ PAPILDYMO 257(2) STRAIPSNIU ĮSTATYMO NR. XII-601 18 STRAIPSNIO PAKEITIMO
  
 259.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-638, 2013-12-03, Žin., 2013,
-Nr. 130-6622 (2013-12-19)
+Nr. XII-638,
+2013-12-03, Žin., 2013, Nr. 130-6622 (2013-12-19)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 172(29) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
  
 260.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-653, 2013-12-10, Žin., 2013,
-Nr. 132-6733 (2013-12-21)
+Nr. XII-653,
+2013-12-10, Žin., 2013, Nr. 132-6733 (2013-12-21)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 42(5), 42(6) STRAIPSNIAIS, 26, 43(11), 52(2), 124(1), 129, 130(2), 189(16),
 222, 224, 239, 239(4), 241(1), 259(1), 260(2), 269, 320 STRAIPSNIŲ PAKEITIMO IR
@@ -33483,16 +33243,16 @@ aktai, nurodyti šio įstatymo priede.
 261.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-893, 2014-05-15, paskelbta
-TAR 2014-05-27, i. k. 2014-05731
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 26, 27, 51-10, 85, 87, 87-1, 224, 242, 259-1, 260-2, 320 STRAIPSNIŲ
-PAKEITIMO IR KODEKSO PAPILDYMO 51-27, 87-12 STRAIPSNIAIS ĮSTATYMAS
+Nr. XII-893,
+2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05731
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 26, 27, 51-10, 85, 87, 87-1, 224, 242, 259-1, 260-2, 320
+STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 51-27, 87-12 STRAIPSNIAIS ĮSTATYMAS
  
 262.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-972, 2014-06-26, paskelbta
-TAR 2014-07-10, i. k. 2014-09972
+Nr. XII-972,
+2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09972
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 41-5, 112-10, 112-11, 172-17, 206-5, 225, 233, 259-1
 STRAIPSNIŲ IR KETURIOLIKTOJO-1 SKIRSNIO PAKEITIMO IR KODEKSO PAPILDYMO 206-6
@@ -33537,9 +33297,9 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1433, 2014-12-16, paskelbta
 TAR 2014-12-24, i. k. 2014-20628
-Lietuvos Respublikos administracinių teisės
-pažeidimų kodekso papildymo 171-6 straipsniu ir 224, 247-7, 259-1 straipsnių
-pakeitimo įstatymas
+Lietuvos Respublikos administracinių teisės pažeidimų
+kodekso papildymo 171-6 straipsniu ir 224, 247-7, 259-1 straipsnių pakeitimo
+įstatymas
 Šis įstatymas įsigalioja 2015 m. sausio 1 d.
  
 268.
@@ -33554,8 +33314,8 @@ PAŽEIDIMŲ KODEKSO 173-16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1482, 2014-12-18, paskelbta
 TAR 2014-12-31, i. k. 2014-21143
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. sausio 1 d.
  
 270.
@@ -33569,8 +33329,8 @@ PAŽEIDIMŲ KODEKSO PAPILDYMO 213-6 STRAIPSNIU IR 238 STRAIPSNIO PAKEITIMO
  
 271.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1528, 2014-12-23, paskelbta
-TAR 2014-12-31, i. k. 2014-21289
+Nr. XII-1528,
+2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21289
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 26, 163-2, 224, 225, 259-1 IR 320 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -33578,8 +33338,8 @@ PAŽEIDIMŲ KODEKSO 26, 163-2, 224, 225, 259-1 IR 320 STRAIPSNIŲ PAKEITIMO
  
 272.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1551, 2015-03-19, paskelbta TAR
-2015-03-31, i. k. 2015-04833
+Nr. XII-1551,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04833
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 44-3, 44-5, 44-6, 224, 259-1, 320 STRAIPSNIŲ PAKEITIMO IR
 KODEKSO PAPILDYMO 44-8 STRAIPSNIU ĮSTATYMAS
@@ -33587,8 +33347,8 @@ KODEKSO PAPILDYMO 44-8 STRAIPSNIU ĮSTATYMAS
  
 273.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1552, 2015-03-19, paskelbta
-TAR 2015-03-31, i. k. 2015-04835
+Nr. XII-1552,
+2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04835
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 44-4 IR 44-6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. liepos 1 d.
@@ -33597,8 +33357,8 @@ PAŽEIDIMŲ KODEKSO 44-4 IR 44-6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1631, 2015-04-21, paskelbta
-TAR 2015-04-28, i. k. 2015-06453
+XII-1631,
+2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06453
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 13, 37-2, 173-12, 185-2, 185-4, 214-2, 225, 241-1, 247-5, 320
 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 185-6 STRAIPSNIU ĮSTATYMAS
@@ -33609,25 +33369,25 @@ STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 185-6 STRAIPSNIU ĮSTATYMAS
  
 275.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1646, 2015-04-23, paskelbta
-TAR 2015-04-28, i. k. 2015-06454
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 213-3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Nr. XII-1646,
+2015-04-23, paskelbta TAR 2015-04-28, i. k. 2015-06454
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 213-3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015-05-01.
  
 276.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1673, 2015-05-07, paskelbta
-TAR 2015-05-15, i. k. 2015-07407
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 13, 210, 224, 259-1, 320 STRAIPSNIŲ PAKEITIMO IR KODEKSO
-PAPILDYMO 44-9 STRAIPSNIU ĮSTATYMAS
+Nr. XII-1673,
+2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07407
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 13, 210, 224, 259-1, 320 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 44-9
+STRAIPSNIU ĮSTATYMAS
  
 277.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-1708, 2015-05-14, paskelbta
-TAR 2015-05-25, i. k. 2015-08040
+Nr. XII-1708,
+2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08040
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 43-9, 239-4 IR 259-1 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -33635,31 +33395,31 @@ PAŽEIDIMŲ KODEKSO 43-9, 239-4 IR 259-1 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 278.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1699, 2015-05-14, paskelbta
-TAR 2015-05-27, i. k. 2015-08121 
+Nr. XII-1699,
+2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08121 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 172-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. liepos 1 d.
  
 279.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1736, 2015-05-21, paskelbta
-TAR 2015-06-01, i. k. 2015-08523
+Nr. XII-1736,
+2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08523
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 163-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 280.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1746, 2015-05-21, paskelbta
-TAR 2015-06-01, i. k. 2015-08527
+Nr. XII-1746,
+2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08527
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 178 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. lapkričio 1 d.
  
 281.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1767, 2015-06-09, paskelbta
-TAR 2015-06-16, i. k. 2015-09609
+Nr. XII-1767,
+2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09609
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 171-3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -33667,8 +33427,8 @@ PAŽEIDIMŲ KODEKSO 171-3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1785, 2015-06-11, paskelbta
-TAR 2015-06-19,  i. k. 2015-09822
+XII-1785,
+2015-06-11, paskelbta TAR 2015-06-19,  i. k. 2015-09822
 LIETUVOS
 RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 51-3 IR 55 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
@@ -33678,8 +33438,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1794, 2015-06-16, paskelbta
-TAR 2015-06-29, i. k. 2015-10360
+XII-1794,
+2015-06-16, paskelbta TAR 2015-06-29, i. k. 2015-10360
 LIETUVOS
 RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 111, 112-2, 112-3, 112-4,
 112-6, 112-9, 324 IR 325 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -33689,17 +33449,17 @@ RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 111, 112-2, 112-3, 112-
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1847, 2015-06-23, paskelbta
-TAR 2015-06-30, i. k. 2015-10373 
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 109 IR 110 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+XII-1847,
+2015-06-23, paskelbta TAR 2015-06-30, i. k. 2015-10373 
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 109 IR 110 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 285.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1872, 2015-06-25, paskelbta TAR
-2015-07-01, i. k. 2015-10506 
+XII-1872,
+2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10506 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 185-1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. liepos 1 d.
@@ -33708,8 +33468,8 @@ PAŽEIDIMŲ KODEKSO 185-1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1827, 2015-06-23, paskelbta
-TAR 2015-07-01, i. k. 2015-10577 
+XII-1827,
+2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10577 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 164 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. lapkričio 1 d.
@@ -33718,8 +33478,8 @@ PAŽEIDIMŲ KODEKSO 164 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1829, 2015-06-23, paskelbta
-TAR, 2015-07-01, i. k. 2015-10579 
+XII-1829,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10579 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 26, 90, 224, 242, 244, 259-1, 282 IR 320 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -33729,8 +33489,8 @@ PAŽEIDIMŲ KODEKSO 26, 90, 224, 242, 244, 259-1, 282 IR 320 STRAIPSNIŲ PAKEITI
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1835, 2015-06-23, paskelbta TAR,
-2015-07-01, i. k. 2015-10585 
+XII-1835,
+2015-06-23, paskelbta TAR, 2015-07-01, i. k. 2015-10585 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 159-7 STRAIPSNIU IR 246-3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -33740,8 +33500,8 @@ PAŽEIDIMŲ KODEKSO PAPILDYMO 159-7 STRAIPSNIU IR 246-3 STRAIPSNIO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-1846, 2015-06-23, paskelbta
-TAR 2015-07-01, i. k. 2015-10591 
+XII-1846,
+2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10591 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 51-16, 226 IR 242 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
@@ -33749,8 +33509,8 @@ aktas, nurodytas šio įstatymo priede.
  
 290.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1873, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10773
+Nr. XII-1873,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10773
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 172-30, 172-31 IR 247-12 STRAIPSNIAIS IR 224, 259-1
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -33759,16 +33519,16 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 291.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-1874, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10779
+Nr. XII-1874, 2015-06-25,
+paskelbta TAR 2015-07-03, i. k. 2015-10779
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 101 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 292.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-1893, 2015-06-25, paskelbta
-TAR 2015-07-03, i. k. 2015-10784 
+Nr. XII-1893,
+2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10784 
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 189-14, 224, 241-1, 259-1, 320 STRAIPSNIŲ PAKEITIMO IR 189-6
 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
@@ -33778,16 +33538,16 @@ STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 293.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-1904, 2015-06-25, paskelbta
-TAR 2015-07-07, i. k. 2015-11090
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 44-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Nr. XII-1904,
+2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11090
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 44-2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. lapkričio 1 d.
  
 294.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1876, 2015-06-25, paskelbta
-TAR 2015-07-09, i. k. 2015-11210
+Nr. XII-1876,
+2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11210
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 44-10 STRAIPSNIU IR 224, 259-1 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -33796,24 +33556,24 @@ PAŽEIDIMŲ KODEKSO PAPILDYMO 44-10 STRAIPSNIU IR 224, 259-1 STRAIPSNIŲ PAKEITI
 295.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XII-1920, 2015-06-30, paskelbta
-TAR 2015-07-09, i. k. 2015-11183
+Nr. XII-1920,
+2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11183
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 222 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2016 m. sausio 1 d.
  
 296.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1960, 2015-10-15, paskelbta
-TAR 2015-10-23, i. k. 2015-16729
+Nr. XII-1960,
+2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16729
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO PAPILDYMO 42-7 STRAIPSNIU IR 239 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 297.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2007, 2015-11-12, paskelbta
-TAR 2015-11-23, i. k. 2015-18575
+Nr. XII-2007,
+2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18575
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 167-1 IR 167-2 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės
@@ -33822,25 +33582,25 @@ aktas, nurodytas šio įstatymo priede.
  
 298.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2042, 2015-11-19, paskelbta
-TAR 2015-11-27, i. k. 2015-18856
+Nr. XII-2042,
+2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18856
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 172-10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2016 m. sausio 1 d.
  
 299.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2049, 2015-11-19, paskelbta
-TAR 2015-12-01, i. k. 2015-19106
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 26, 133-1, 177, 221, 224, 225, 225-2, 237, 240, 246-2, 247-5,
-259, 259-1, 269, 320, 321 STRAIPSNIŲ PAKEITIMO IR 177-2 STRAIPSNIO PRIPAŽINIMO
+Nr. XII-2049,
+2015-11-19, paskelbta TAR 2015-12-01, i. k. 2015-19106
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 26, 133-1, 177, 221, 224, 225, 225-2, 237, 240, 246-2, 247-5, 259,
+259-1, 269, 320, 321 STRAIPSNIŲ PAKEITIMO IR 177-2 STRAIPSNIO PRIPAŽINIMO
 NETEKUSIU GALIOS ĮSTATYMAS
  
 300.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2184, 2015-12-15, paskelbta
-TAR 2015-12-29, i. k. 2015-20888
+Nr. XII-2184,
+2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20888
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 224 IR 259-1 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 187-16
 STRAIPSNIU ĮSTATYMAS
@@ -33851,8 +33611,8 @@ STRAIPSNIU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-2421, 2016-06-09, paskelbta
-TAR 2016-06-22, i. k. 2016-17407
+XII-2421,
+2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17407
 LIETUVOS
 RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 209-8 STRAIPSNIU
 IR 237 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -33885,16 +33645,26 @@ RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 214-19, 214-20, 214-21 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2648,
 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24618 
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 44-3 IR 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 44-3 IR 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2016 m. lapkričio 1 d. 
  
 305.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2671,
-2016-10-11, paskelbta TAR, 2016-10-17, i. k. 2016-25267
+2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25267
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 152-4, 241-1 IR 246 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+306.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2748,
+2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26870
+LIETUVOS
+RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 1161,
+231 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 1165, 1166
+STRAIPSNIAIS ĮSTATYMAS
+ 
  
  
 Konstitucinio Teismo nutarimai:
@@ -33932,7 +33702,7 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2016-10-18)
+Aušrinė Trapinskienė (2016-11-21)
                  
 ausrine.trapinskiene@lrs.lt
 
