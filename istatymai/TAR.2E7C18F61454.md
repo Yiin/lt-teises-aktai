@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2016-07-15 iki 2016-11-16
+Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -10704,9 +10704,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1) kai Europos žmogaus teisių teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
 1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
-1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika;
+1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
 Straipsnio punkto pakeitimai:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
+Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
  
 
 
@@ -16458,7 +16459,6 @@ Teismas, pripažinęs, kad daiktas neturi savininko, sąžiningo įgijėjo ar te
 
 
 
- 
 XXXV SKYRIUS
 BYLOS DĖL SANTUOKOS NUTRAUKIMO ABIEJŲ SUTUOKTINIŲ BENDRU SUTIKIMU AR VIENO SUTUOKTINIO PRAŠYMU
  
@@ -23965,3 +23965,28 @@ Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2543, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20311
 Lietuvos Respublikos civilinio proceso kodekso 690 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2518, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20310
+Lietuvos Respublikos civilinio proceso kodekso 737, 738 ir 739 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2580, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20333
+Lietuvos Respublikos civilinio proceso kodekso 273, 771 straipsnių pakeitimo ir Kodekso papildymo 771-1 straipsniu įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2553, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19359
+Lietuvos Respublikos civilinio proceso kodekso 385 ir 541 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
+Lietuvos Respublikos civilinio proceso kodekso 34, 62, 111, 130, 134, 154, 220-1, 220-2, 258, 268, 269, 325, 590, 591, 594, 631, 637 ir 646 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
+Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 4 straipsnio pakeitimo įstatymas
