@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2015-12-04 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18 iki 2016-12-31
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -1732,7 +1732,9 @@ DEPOZITORIUMAS
 
 
 
-10. Depozitoriumas užtikrina tinkamą kolektyvinio investavimo subjekto pinigų srautų priežiūrą, ypač užtikrindamas, kad būtų gauti visi investuotojų arba jų vardu atliekami mokėjimai įsigijus kolektyvinio investavimo subjekto investicinius vienetus ar akcijas ir visos kolektyvinio investavimo subjekto lėšos būtų įrašytos sąskaitose, atidarytose kolektyvinio investavimo subjekto vardu arba kolektyvinio investavimo subjekto vardu veikiančios valdymo įmonės vardu, arba kolektyvinio investavimo subjekto vardu veikiančio depozitoriumo vardu subjekte arba kitame to paties pobūdžio subjekte atitinkamoje rinkoje, kurioje reikalingos sąskaitos, jeigu tokiam subjektui taikomas Europos Sąjungos teisę atitinkantis rizikos ribojimo reguliavimas ir priežiūra, o jų įgyvendinimas veiksmingai užtikrinamas.
+10. Depozitoriumas užtikrina tinkamą kolektyvinio investavimo subjekto pinigų srautų priežiūrą, ypač užtikrindamas, kad būtų gauti visi investuotojų arba jų vardu atliekami mokėjimai įsigijus kolektyvinio investavimo subjekto investicinius vienetus ar akcijas ir visos kolektyvinio investavimo subjekto lėšos būtų įrašytos sąskaitose, atidarytose kolektyvinio investavimo subjekto vardu arba kolektyvinio investavimo subjekto vardu veikiančios valdymo įmonės vardu, arba kolektyvinio investavimo subjekto vardu veikiančio depozitoriumo vardu subjekte arba kitame to paties pobūdžio subjekte atitinkamoje rinkoje, kurioje reikalingos sąskaitos, jeigu tokiam subjektui taikomas Europos Sąjungos teisę atitinkantis rizikos ribojimo reguliavimas ir priežiūra, o jų įgyvendinimas veiksmingai užtikrinamas (toliau – sąskaitos atidarymo subjektas). Į sąskaitos atidarymo subjekte kolektyvinio investavimo subjekto vardu veikiančio depozitoriumo vardu atidarytas sąskaitas neįskaitomi sąskaitos atidarymo subjekto ir depozitoriumo pinigai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2774, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26975
  
 
 
@@ -3876,3 +3878,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2079, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19287
 Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo Nr. XII-1467 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2452, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17720
+Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo Nr. XII-1467 55 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2774, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26975
+Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo Nr. XII-1467 23 straipsnio pakeitimo įstatymas
