@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-11-17 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18 iki 2016-12-23
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -5350,17 +5350,19 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 202 straipsnis. Investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių, investicinių akcinių bendrovių ar depozitoriumų veiklos tvarkos pažeidimas
 
 
-1. Investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių bendrovių steigimą, reorganizavimą, likvidavimą, valdymą ar veiklą reglamentuojančių Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos akcinių bendrovių įstatymo ar kitų teisės aktų pažeidimas arba Reglamento (ES) Nr. 345/2013 ir Reglamento (ES) Nr. 346/2013 nuostatų pažeidimas
+1. Investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių bendrovių steigimą, reorganizavimą, likvidavimą, valdymą ar veiklą reglamentuojančių Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos akcinių bendrovių įstatymo ar kitų teisės aktų pažeidimas arba Reglamento (ES) Nr. 345/2013 ir Reglamento (ES) Nr. 346/2013 nuostatų pažeidimas
 užtraukia baudą investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių bendrovių vadovams, likvidatoriams ir kitiems tiesiogiai už teisės aktuose nustatytų reikalavimų vykdymą atsakingiems asmenims nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-2. Depozitoriumų veiklą reglamentuojančių Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo ar kitų teisės aktų pažeidimas arba turto saugotojų veiklą reglamentuojančių Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo ar kitų teisės aktų pažeidimas
-užtraukia baudą depozitoriumų arba turto saugotojų vadovams nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+2. Depozitoriumų veiklą reglamentuojančių Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo ar kitų teisės aktų pažeidimas arba turto saugotojų veiklą reglamentuojančių Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo ar kitų teisės aktų pažeidimas
+užtraukia baudą depozitoriumų arba turto saugotojų vadovams nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2776, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26977
  
-
-
 
 
 
@@ -21183,3 +21185,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 415 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Lietuvos Respublikos administracinių nusižengimų kodekso 29, 71, 401, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 234-1, 234-2, 270-1 straipsniais įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2776, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26977
+Lietuvos Respublikos administracinių nusižengimų kodekso 202 straipsnio pakeitimo įstatymas
