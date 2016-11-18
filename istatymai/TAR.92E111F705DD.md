@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.92E111F705DD"
 
 # Lietuvos Respublikos jaunimo politikos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 119-5406, i. k. 1031010ISTA0IX-1871
  
@@ -316,6 +316,19 @@ Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA
 
 
 
+72 straipsnis. Jaunimo tarptautinio bendradarbiavimo agentūra
+
+
+Viešoji įstaiga Jaunimo tarptautinio bendradarbiavimo agentūra įgyvendina ir (ar) administruoja tarptautines ir Europos Sąjungos programas jaunimo politikos srityje. Šioms funkcijoms atlikti gali būti skiriamos valstybės biudžeto lėšos (įskaitant ir Europos Sąjungos lėšas).
+
+
+Papildyta straipsniu:
+Nr. XII-2778, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26979
+ 
+
+
+
+
 8 straipsnis. Jaunimo politikos formavimas ir įgyvendinimas savivaldybėse
 
 
@@ -548,3 +561,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
 Lietuvos Respublikos jaunimo politikos pagrindų įstatymo 2, 4, 5, 6, 7, 10, 13 straipsnių pakeitimo ir įstatymo papildymo 7(1) straipsniu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2778, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26979
+Lietuvos Respublikos jaunimo politikos pagrindų įstatymo Nr. IX-1871 papildymo 7-2 straipsniu įstatymas
