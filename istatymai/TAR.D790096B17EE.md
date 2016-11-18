@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-11-15 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -2652,10 +2652,11 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba už Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 3, 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.359 straipsnyje, 6.3591 straipsnyje, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse ir šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje, 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo vieno šimto keturiasdešimt keturių iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo 5 straipsnio 3–5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo septyniasdešimt dviejų iki septynių šimtų dvidešimt keturių eurų baudą.
+1. Valstybinė vartotojų teisių apsaugos tarnyba už Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 3, 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.359, 6.3591 straipsniuose, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse ir šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje, 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo vieno šimto keturiasdešimt keturių iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB, 14 straipsnyje, šio įstatymo 5 straipsnio 3–5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo septyniasdešimt dviejų iki septynių šimtų dvidešimt keturių eurų baudą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1256, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14862
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
  
 
 
@@ -3075,6 +3076,14 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
  
 
 
+
+
+9. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 1).
+Papildyta punktu:
+Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-562, 2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
@@ -3189,3 +3198,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2707, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26491
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 40 straipsnio ir priedo pakeitimo įstatymas
