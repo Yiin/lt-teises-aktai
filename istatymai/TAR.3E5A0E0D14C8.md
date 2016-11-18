@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-11-17
+Suvestinė redakcija nuo 2016-11-18
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -1110,7 +1110,10 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 
-2. Vartojimo kredito sutartis negali būti sudaroma su neveiksniu tam tikroje srityje asmeniu, ribotai veiksniu tam tikroje srityje asmeniu arba asmeniu, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, išskyrus atvejus, kai vartojimo kredito davėjas ar vartojimo kredito tarpininkas turi pagrindžiančius dokumentus, kad neveiksnaus tam tikroje srityje asmens vardu vartojimo kredito sutartį sudaro jo globėjas, ribotai veiksnus tam tikroje srityje asmuo vartojimo kredito sutarčiai sudaryti turi rūpintojo sutikimą arba asmuo, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, sudarydamas vartojimo kredito sutartį naudojasi pagalba toje srityje. Vartojimo kredito davėjas ir vartojimo kredito tarpininkas privalo įsitikinti, kad asmuo, norintis sudaryti vartojimo kredito sutartį, nėra pripažintas neveiksniu tam tikroje srityje, ribotai veiksniu tam tikroje srityje arba asmeniu, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba.
+2. Vartojimo kredito sutartis negali būti sudaroma su neveiksniu tam tikroje srityje asmeniu, ribotai veiksniu tam tikroje srityje asmeniu arba asmeniu, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, išskyrus atvejus, kai vartojimo kredito davėjas ar vartojimo kredito tarpininkas turi pagrindžiančius dokumentus, kad neveiksnaus tam tikroje srityje asmens vardu vartojimo kredito sutartį sudaro jo globėjas, ribotai veiksnus tam tikroje srityje asmuo vartojimo kredito sutarčiai sudaryti turi rūpintojo sutikimą arba asmuo, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, sudarydamas vartojimo kredito sutartį naudojasi pagalba toje srityje. Asmuo, kuris vartojimo kredito sutarties sudarymo metu įstatymų nustatyta tvarka yra pripažintas neveiksniu tam tikroje srityje, ribotai veiksniu tam tikroje srityje arba asmeniu, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, yra atleidžiamas nuo išmokėtos vartojimo kredito sumos grąžinimo, palūkanų, netesybų ir kitų mokesčių mokėjimo, išskyrus atvejus, kai vartojimo kredito davėjas ar vartojimo kredito tarpininkas turi pagrindžiančius dokumentus, kad neveiksnaus tam tikroje srityje asmens vardu vartojimo kredito sutartį sudarė jo globėjas, ribotai veiksnus tam tikroje srityje asmuo vartojimo kredito sutarčiai sudaryti turėjo rūpintojo sutikimą arba asmuo, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, sudarydamas vartojimo kredito sutartį naudojosi pagalba toje srityje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
 
 
 
@@ -1705,7 +1708,10 @@ TAR pastaba. Įstatymo XII-1989 (2015-11-05) 41 straipsnio 6 dalies reikalavimas
 
 
 
-9. Vartojimo kredito davėjas nedelsdamas privalo pateikti priežiūros institucijai informaciją apie aplinkybių, buvusių įrašant asmenį į viešąjį vartojimo kredito davėjų sąrašą, ir teisės aktuose nurodytų dokumentų, duomenų ir (arba) informacijos pasikeitimus, kai tik šie pasikeitimai įvyksta.
+9. Vartojimo kredito davėjas nedelsdamas privalo pateikti priežiūros institucijai informaciją apie aplinkybių, buvusių įrašant asmenį į viešąjį vartojimo kredito davėjų sąrašą, ir teisės aktuose nurodytų dokumentų, duomenų ir (arba) informacijos pasikeitimus, kai tik šie pasikeitimai įvyksta, išskyrus šio straipsnio 6 dalies 6 punkte nurodytos informacijos pasikeitimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
 
 
 
@@ -1999,20 +2005,17 @@ TARPUSAVIO SKOLINIMAS
 252 straipsnis. Reikalavimai tarpusavio skolinimui
 
 
-1. Paskolos davėjas vienam vartojimo kredito gavėjui gali suteikti ne didesnį kaip 500 eurų vartojimo kreditą per dvylikos mėnesių laikotarpį.
+1. Paskolos davėjas vienam vartojimo kredito gavėjui gali suteikti ne didesnį kaip 500 eurų vartojimo kreditą per dvylikos mėnesių laikotarpį nuo pirmo kredito suteikimo dienos vienoje tarpusavio skolinimo platformoje.
 
 
 
 
-2. Bendra visiems vartojimo kredito gavėjams paskolos davėjo suteiktų vartojimo kreditų suma negali būti didesnė kaip 5 000 eurų per dvylikos mėnesių laikotarpį. 
+2. Šio straipsnio 1 dalyje nustatyto reikalavimo laikymąsi tarpusavio skolinimo platformoje privalo užtikrinti tos platformos operatorius.
 
 
-
-
-3. Šiame straipsnyje nustatytų reikalavimų laikymąsi tarpusavio skolinimo platformoje privalo užtikrinti tos platformos operatorius.
+Straipsnio pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
  
-
-
 
 
 
@@ -2578,7 +2581,10 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 
-4. Tais atvejais, kai neįmanoma nustatyti juridinio asmens praėjusių metų bendrųjų metinių veiklos pajamų, priežiūros institucija turi teisę vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skirti juridiniam asmeniui baudą iki 80 000 eurų.
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens praėjusių metų bendrųjų metinių veiklos pajamų, priežiūros institucija turi teisę vietoj šio straipsnio 1 dalies 2 ar 3 punkte arba šio straipsnio 2 dalyje nurodytos baudos skirti juridiniam asmeniui baudą iki 80 000 eurų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
 
 
 
@@ -3258,16 +3264,30 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 
-Lietuvos Respublikos vartojimo kredito įstatymo
+Lietuvos Respublikos 
+vartojimo kredito įstatymo
 3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2008/48/EB dėl vartojimo kredito sutarčių ir panaikinanti Tarybos direktyvą 87/102/EEB (OL 2008 L 133, p. 66; klaidų ištaisymas – OL 2009 L 207, p. 14).
+1. 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2008/48/EB dėl vartojimo kredito sutarčių ir panaikinanti Tarybos direktyvą 87/102/EEB (OL 2008 L 133, p. 66).
 
 
+
+
+2. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 60, p. 34).
+
+
+
+
+3. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014 (OL 2016 L 171, p. 1).
+
+
+Priedo pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
  
  
 Pakeitimai:
@@ -3286,3 +3306,8 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir 34 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 1, 2, 3, 4, 5, 6, 8, 9, 11, 15, 16, 17, 20, 21, 22, 23, 24, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 40 straipsnių, trečiojo ir penktojo skirsnių pavadinimų ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 11-1, 14-1, 21-1, 22-1, 22-2, 23-1, 25-1 straipsniais ir penktuoju-1 skirsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 5, 11-1, 22, 25-2, 34 straipsnių ir 3 priedo pakeitimo įstatymas
