@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2017-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -214,7 +214,23 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 
 
-3) lėšų priėmimas išduodant korteles ar kitas priemones, kurios naudojamos įsigyjant prekes arba paslaugas tik iš šias korteles ar kitas priemones išdavusio asmens. 
+3) lėšų priėmimas išduodant korteles ar kitas priemones, kurios naudojamos įsigyjant prekes arba paslaugas tik iš šias korteles ar kitas priemones išdavusio asmens; 
+
+
+
+
+4) sutelktinio finansavimo sandorių sudarymas per sutelktinio finansavimo platformą, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme, jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu; 
+Papildyta straipsnio punktu:
+Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+ 
+
+
+
+
+5) viešas skolos vertybinių popierių leidimas, jeigu emitentas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu.
+Papildyta straipsnio punktu:
+Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -710,9 +726,17 @@ Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010IST
 
 
 
-20) finansinių priemonių saugojimas, apskaita ir valdymas klientų sąskaita, įskaitant turto saugojimą ir kitas su tuo susijusias paslaugas, tokias kaip pinigų ar finansinio užstato valdymas. 
+20) finansinių priemonių saugojimas, apskaita ir valdymas klientų sąskaita, įskaitant turto saugojimą ir kitas su tuo susijusias paslaugas, tokias kaip pinigų ar finansinio užstato valdymas; 
 Papildyta straipsnio punktu:
 Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
+ 
+
+
+
+
+21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme. 
+Papildyta straipsnio punktu:
+Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
  
 
 
@@ -730,33 +754,10 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA
 
 
 
-4. Tik kredito įstaiga turi išimtinę teisę:
-
-
-1) priimti indėlius ir kitas grąžintinas lėšas iš neprofesionalių rinkos dalyvių;
-
-
-
-
-2) skolintis iš neprofesionalių rinkos dalyvių viršydama nuosavo kapitalo dydį;
-
-
-
-
-3) Neteko galios nuo 2009-12-28
-Straipsnio punkto naikinimas:
-Nr. XI-554, 2009-12-10, Žin. 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
+4. Tik kredito įstaiga turi išimtinę teisę priimti indėlius ir kitas grąžintinas lėšas iš neprofesionalių rinkos dalyvių.
+Straipsnio dalies pakeitimai:
+Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
  
-
-
-
-
-4) Neteko galios nuo 2012-01-01
-Straipsnio punkto naikinimas:
-Nr. XI-1872, 2011-12-22, Žin. 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
- 
-
-
 
 
 
@@ -3104,3 +3105,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4 ir 38-1 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2059, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19170
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 57 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 ir 3 straipsnių pakeitimo įstatymas
