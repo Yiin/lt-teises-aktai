@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2017-07-12
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -105,7 +105,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimų įstatyme apibrėžtos elektroninių pinigų įstaigos ir mokėjimo įstaigos, Lietuvos Respublikos valiutos keityklos operatorių įstatyme apibrėžti valiutos keityklos operatoriai, taip pat investicinės kintamojo kapitalo bendrovės.
+8. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimų įstatyme apibrėžtos elektroninių pinigų įstaigos ir mokėjimo įstaigos, Lietuvos Respublikos valiutos keityklos operatorių įstatyme apibrėžti valiutos keityklos operatoriai, Lietuvos Respublikos sutelktinio finansavimo įstatyme apibrėžti sutelktinio finansavimo platformų operatoriai, taip pat investicinės kintamojo kapitalo bendrovės.
+Straipsnio dalies pakeitimai:
+Nr. XII-2693, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26831
+ 
 
 
 
@@ -375,7 +378,10 @@ Nr. XI-1687, 2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
 4 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingų institucijų pareigos 
 
 
-1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms ir depozitoriumui skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo klausimais.
+1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms ir depozitoriumui skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo klausimais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2693, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26831
+ 
 
 
 
@@ -1767,3 +1773,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1139, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13462
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 22 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2693, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26831
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir 4 straipsnių pakeitimo įstatymas
