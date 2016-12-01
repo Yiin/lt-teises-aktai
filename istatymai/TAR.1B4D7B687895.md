@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2016-07-14 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1250,7 +1250,10 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai ir valiutos keityklų operatoriai.
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai ir valiutos keityklų operatoriai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
+ 
 
 
 
@@ -1306,9 +1309,17 @@ Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
 
 
 
-10) atlieka Reglamento (EB) Nr. 1060/2009 kompetentingai institucijai priskirtas funkcijas.
+10) atlieka Reglamento (EB) Nr. 1060/2009 kompetentingai institucijai priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
+ 
+
+
+
+
+11) atlieka sutelktinio finansavimo platformos operatorių priežiūrą ir kitas Lietuvos Respublikos sutelktinio finansavimo įstatyme Lietuvos bankui priskirtas funkcijas.
+Papildyta straipsnio punktu:
+Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
  
 
 
@@ -2086,8 +2097,15 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
  19. 
  Valiutos keityklos operatoriai          
  – 
- 434 Eur“ 
+ 434 Eur 
 
+
+
+ 20. 
+ Sutelktinio finansavimo platformos operatoriai 
+ – 
+ 3 000 Eur 
+   
 
 
 
@@ -2097,6 +2115,7 @@ Priedo pakeitimai:
 Nr. XII-1035, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10871
 Priedo pakeitimai:
 Nr. XII-1118, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13410
+Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
@@ -2456,3 +2475,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2562, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20316
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 priedo pakeitimo įstatymas
