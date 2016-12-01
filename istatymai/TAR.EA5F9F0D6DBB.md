@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EA5F9F0D6DBB"
 
 # Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas
 
-Suvestinė redakcija nuo 2003-06-13 iki 2016-11-30
+Suvestinė redakcija nuo 2016-12-01 iki 2019-02-28
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 31-701, i. k. 0951010ISTA000I-830
  
@@ -64,7 +64,10 @@ Vilnius
 
 
 
-3) savivaldybės taryba per Vietos savivaldos įstatyme nustatytą laiką neišrenka mero ir nepaskiria mero pavaduotojo bei savivaldybės administracijos direktoriaus;
+3) savivaldybės taryba per Vietos savivaldos įstatyme nustatytą laiką nepaskiria mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, nesudaro savivaldybės tarybos Kontrolės komiteto ir (ar) nepaskiria šio komiteto pirmininko, nesudaro Vietos savivaldos įstatyme nustatytų savivaldybės tarybos komisijų ir (ar) nepaskiria šių komisijų pirmininkų;
+Straipsnio punkto pakeitimai:
+Nr. XII-2637, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24612
+ 
 
 
 
@@ -240,7 +243,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                              ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
 
 
@@ -268,3 +271,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų lai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1584, 2003-05-27, Žin., 2003, Nr. 57-2532 (2003-06-13), i. k. 1031010ISTA0IX-1584
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2637, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24612
+Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2 straipsnio pakeitimo įstatymas
