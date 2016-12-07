@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŽEMĖS MOKESČIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-06
+Suvestinė redakcija nuo 2016-12-07
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7743, i. k. 1111010ISTA0XI-1829
  
@@ -550,9 +550,12 @@ Nr. XII-1134, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13608
 
 
 2. Vyriausybė iki šio įstatymo įsigaliojimo dienos parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
+
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymo 3 straipsnis (Žin., 2011, Nr. 163-7743) tiek, kiek jame eksplicitiškai nenustatyti iš visuminio teisinio reguliavimo, nustatyto Žemės mokesčio įstatymo pakeitimo įstatymo 3 straipsnio 1 dalyje, šio įstatymo 2 straipsnio 1 dalyje, Žemės mokesčio įstatymo (2011 m. gruodžio 21 d. redakcija) 6 straipsnyje, Vietos savivaldos įstatymo (2008 m. rugsėjo 15 d. redakcija) 16 straipsnio 2 dalies 37 punkte, kylantys savivaldybių tarybų įgaliojimai nustatyti žemės mokesčio tarifus 2013 metų mokestiniam laikotarpiui, prieštarauja konstituciniam teisinės valstybės principui.
+Straipsnio pakeitimai:
+Nr. KT30-N16/2016, 2016-12-07, paskelbta TAR 2016-12-07, i. k. 2016-28387
  
-
-
 
 
 
@@ -594,3 +597,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1134, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13608
 Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymo Nr. XI-1829 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT30-N16/2016, 2016-12-07, paskelbta TAR 2016-12-07, i. k. 2016-28387
+Dėl Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymo 3 straipsnio atitikties Lietuvos Respublikos Konstitucijai
