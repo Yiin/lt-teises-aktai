@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-12-14
+Suvestinė redakcija nuo 2016-12-15 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -1830,9 +1830,12 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos įstaigos savivaldybės tarybos motyvuotu sprendimu gali veikti kaip atskiri juridiniai asmenys arba kaip šio straipsnio 1 dalyje nurodytų įstaigų padaliniai (filialai).
+3. Šio straipsnio 1 dalies 1–7 punktuose nurodytos LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai savivaldybės tarybos motyvuotu sprendimu gali veikti kaip atskiri juridiniai asmenys arba kaip šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai). 
+TAR pastaba. 3 dalis taikoma tik po įstatymo Nr. XIII-63 įsigaliojimo (2016-12-15) reorganizuojamoms Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 39 straipsnio 1 dalyje nurodytos LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros įstaigoms
 Papildyta straipsnio dalimi:
 Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
+Straipsnio dalies pakeitimai:
+Nr. XIII-63, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28883
  
 
 
@@ -3017,3 +3020,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 24, 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1, 2, 3, 5, 10, 12, 25, 45, 50, 52, 53, 54, 59 straipsnių, I dalies II skyriaus pavadinimo pakeitimo ir 7, 8, 60 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-63, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28883
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 39 straipsnio pakeitimo įstatymas
