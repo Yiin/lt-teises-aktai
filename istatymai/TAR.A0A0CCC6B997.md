@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-20
+Suvestinė redakcija nuo 2016-12-21 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -4197,7 +4197,10 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 145 straipsnis. Nuteistųjų laikymo sąlygos kamerų tipo patalpose
 
 
-1. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodytą nuobaudą, kamerų tipo patalpose laikomi po vieną ir į darbą nevedami. Perkelti į kamerų tipo patalpas nuteistieji neturi teisės gauti pasimatymų, smulkiųjų paketų, siųsti laiškų (išskyrus atvejus, kai jie įgyvendina šio Kodekso 100, 109 ir 183 straipsniuose nurodytas teises), taip pat paskambinti telefonu. Jiems neleidžiama apsipirkti pataisos įstaigos parduotuvėje, išskyrus higienos reikmenų įsigijimą, turėti maisto produktų ir kitų Pataisos įstaigų vidaus tvarkos taisyklėse nurodytų daiktų. Šioje dalyje nurodytiems nuteistiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) – dvi valandas pasivaikščioti.
+1. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodytą nuobaudą, kamerų tipo patalpose laikomi po vieną, o jeigu nėra tokios galimybės, – po du ir į darbą nevedami. Perkelti į kamerų tipo patalpas nuteistieji neturi teisės gauti pasimatymų, smulkiųjų paketų, siųsti laiškų (išskyrus atvejus, kai jie įgyvendina šio Kodekso 100, 109 ir 183 straipsniuose nurodytas teises), taip pat paskambinti telefonu. Jiems neleidžiama apsipirkti pataisos įstaigos parduotuvėje, išskyrus higienos reikmenų įsigijimą, turėti maisto produktų ir kitų Pataisos įstaigų vidaus tvarkos taisyklėse nurodytų daiktų. Šioje dalyje nurodytiems nuteistiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) – dvi valandas pasivaikščioti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-67, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29147
+ 
 
 
 
@@ -5486,3 +5489,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2195, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20997
 Lietuvos Respublikos bausmių vykdymo kodekso 180 straipsnio ir 3 priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-67, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29147
+Lietuvos Respublikos bausmių vykdymo kodekso 145 straipsnio pakeitimo įstatymas
