@@ -13,14 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 
 # Lietuvos Respublikos peticijų įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2016-12-20
+Suvestinė redakcija nuo 2016-12-21 iki 2019-06-19
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
  
  
-LIETUVOS RESPUBLIKOS
-PETICIJŲ
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PETICIJŲ ĮSTATYMAS
  
 1999 m. liepos 7 d. Nr. VIII-1313
 Vilnius
@@ -225,10 +223,10 @@ Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010IS
 
 1) Seimui dėl Seimo Peticijų komisijos sprendimo;
 
-2) Vyriausybės kancleriui dėl Vyriausybės Peticijų komisijos sprendimo;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos peticijų įstatymo 10 straipsnio 1 dalies 2 punktas prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+2) Vyriausybei dėl Vyriausybės Peticijų komisijos sprendimo;
 Straipsnio punkto pakeitimai:
 2006-01-26, Žin., 2006, Nr. 11-410 (2006-01-28), i. k. 1061000NUTARG060499            
+Nr. XIII-68, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29149
  
 
 3) savivaldybės tarybai dėl savivaldybės peticijų komisijos sprendimo.
@@ -237,10 +235,10 @@ Straipsnio punkto pakeitimai:
 
 3. Gautas skundas išnagrinėjamas ne vėliau kaip per 30 dienų nuo jo gavimo dienos ir apie priimtą sprendimą pranešama pareiškėjui ar jo atstovui. 
 
-4. Nusprendus patenkinti skundą ir priėmus sprendimą pripažinti kreipimąsi peticija, peticija perduodama peticijų komisijai spręsti peticijos priėmimo nagrinėti klausimą. Nusprendus patenkinti skundą ir priėmus sprendimą priimti peticiją nagrinėti, peticija perduodama peticijų komisijai nagrinėti. Sprendimas atsisakyti tenkinti skundą yra galutinis ir neskundžiamas.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos peticijų įstatymo 10 straipsnio 4 dalies nuostata „sprendimas atsisakyti tenkinti skundą yra galutinis ir neskundžiamas“ ta apimtimi, kuria įtvirtinta, jog asmuo, manantis, kad Seimo, savivaldybės tarybos sprendimas atsisakyti tenkinti skundą dėl peticijų komisijos sprendimo nepripažinti kreipimosi peticija ar peticijos nepriimti nagrinėti nėra grindžiamas Lietuvos Respublikos peticijų įstatyme ar kituose įstatymuose nustatytais pagrindais arba yra grindžiamas tokiais pagrindais, kurie nėra nustatyti Lietuvos Respublikos peticijų įstatyme ar kituose įstatymuose, negali tokio sprendimo apskųsti teismui, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 33 straipsnio 2 ir 3 dalims.
+4. Nusprendus patenkinti skundą ir priėmus sprendimą pripažinti kreipimąsi peticija, peticija perduodama peticijų komisijai spręsti peticijos priėmimo nagrinėti klausimą. Nusprendus patenkinti skundą ir priėmus sprendimą priimti peticiją nagrinėti, peticija perduodama peticijų komisijai nagrinėti. Seimo, Vyriausybės ar savivaldybės tarybos sprendimas atsisakyti tenkinti skundą dėl peticijų komisijos sprendimo nepripažinti kreipimosi peticija ar peticijos nepriimti nagrinėti, nepagrįstas šiame įstatyme ar kituose įstatymuose nustatytais pagrindais arba grindžiamas pagrindais, kurie nenustatyti šiame įstatyme ar kituose įstatymuose, gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatyme nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 2006-01-26, Žin., 2006, Nr. 11-410 (2006-01-28), i. k. 1061000NUTARG060499            
+Nr. XIII-68, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29149
  
 
 Trečiasis skirsnis
@@ -359,4 +357,9 @@ Lietuvos Respublikos peticijų įstatymo 2, 4, 5, 7, 9, 15 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-559, 2013-10-15, Žin., 2013, Nr. 111-5493 (2013-10-24), i. k. 1131010ISTA0XII-559
 Lietuvos Respublikos peticijų įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-68, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29149
+Lietuvos Respublikos peticijų įstatymo Nr. VIII-1313 10 straipsnio pakeitimo įstatymas
 
