@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2016-11-18 iki 2016-12-23
+Suvestinė redakcija nuo 2016-12-24 iki 2016-12-28
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -577,10 +577,11 @@ APLINKYBĖS, KAI ASMUO NETRAUKIAMAS ADMINISTRACINĖN ATSAKOMYBĖN
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
  
 
 
@@ -18350,7 +18351,10 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 609 straipsnis. Administracinio nusižengimo protokolo turinys
 
 
-1. Administracinio nusižengimo protokole nurodoma: jo surašymo data ir vieta, tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, darbo vieta, telefono numeris ir kt., užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta, laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai, telefono numeriai ir kt.; administracinėn atsakomybėn traukiamo asmens pasiaiškinimas; administracinėn atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to kreipėsi į protokolą rašantį pareigūną; administracinėn atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis; kiti bylai išnagrinėti būtini duomenys. Protokolą pasirašo jį surašęs asmuo ir administracinėn atsakomybėn traukiamas asmuo, išskyrus šio kodekso 608 straipsnio 1 dalyje nustatytus atvejus, kai protokolas gali būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; kai yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti ir šie asmenys. 
+1. Administracinio nusižengimo protokole nurodoma: jo surašymo data ir vieta, tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, darbo vieta, telefono numeris ir kt., užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta, laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai, telefono numeriai ir kt.; administracinėn atsakomybėn traukiamo asmens paaiškinimas dėl administracinio nusižengimo, jo aplinkybių; administracinėn atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to kreipėsi į protokolą rašantį pareigūną; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo surašymo metu; administracinėn atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis; administracinėn atsakomybėn traukiamo asmens reikalavimas nagrinėti bylą žodinio proceso tvarka, jei šis reikalavimas buvo pareikštas; kiti bylai išnagrinėti būtini duomenys. Protokolą pasirašo jį surašęs asmuo ir administracinėn atsakomybėn traukiamas asmuo, išskyrus šio kodekso 608 straipsnio 1 dalyje nustatytus atvejus, kai protokolas gali būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; kai yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti ir šie asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
+ 
 
 
 
@@ -18621,20 +18625,22 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-2. Institucija, gavusi administracinio nusižengimo protokolą ir kitą bylos medžiagą, registruotu paštu siunčia administracinėn atsakomybėn traukiamam asmeniui ir nukentėjusiajam prašymus pateikti paaiškinimus dėl administracinio nusižengimo, jo aplinkybių. Prireikus prašymas pateikti parodymus, eksperto išvada ar specialisto paaiškinimas pateikiamas ir liudytojams, ekspertams ir specialistams. Šioje dalyje nurodyti paaiškinimai ir parodymai turi būti pateikti per keturiolika kalendorinių dienų nuo prašymo išsiuntimo dienos. Paaiškinimų ar parodymų nepateikimas laiku neužkerta kelio nagrinėti administracinio nusižengimo bylą.
+2. Jeigu paaiškinimai nebuvo pateikti administracinio nusižengimo tyrimo metu arba nagrinėti administracinio nusižengimo bylą įgaliotas pareigūnas nusprendžia, kad paaiškinimai yra nepakankami ir būtina juos papildyti, institucija, gavusi administracinio nusižengimo protokolą ir kitą bylos medžiagą, registruotu paštu siunčia administracinėn atsakomybėn traukiamam asmeniui ir nukentėjusiajam prašymus pateikti paaiškinimus dėl administracinio nusižengimo, jo aplinkybių. Prireikus prašymas pateikti parodymus, eksperto išvadą ar specialisto paaiškinimą pateikiamas ir liudytojams, ekspertams ir specialistams. Šioje dalyje nurodyti paaiškinimai ir parodymai turi būti pateikti per keturiolika kalendorinių dienų nuo prašymo išsiuntimo dienos. Paaiškinimų ar parodymų nepateikimas laiku neužkerta kelio nagrinėti administracinio nusižengimo bylą.
 
 
 
 
-3. Administracinėn atsakomybėn traukiamo asmens reikalavimu bylos nagrinėjimas vyksta žodinio proceso tvarka. Apie tai pranešama administracinio nusižengimo teisenoje dalyvaujantiems asmenims. Reikalavimas dėl žodinio bylos nagrinėjimo turi būti pateiktas ne vėliau kaip per septynias kalendorines dienas nuo šio straipsnio 2 dalyje nurodyto prašymo išsiuntimo dienos. Jeigu administracinėn atsakomybėn traukiamas asmuo ir nukentėjusysis neatvyksta į žodinį bylos nagrinėjimą, byla nagrinėjama jiems nedalyvaujant rašytinio proceso tvarka. Administracinių nusižengimų bylų nagrinėjimui žodinio proceso tvarka mutatis mutandis taikomos šio kodekso XXXV skyriaus nuostatos, reglamentuojančios administracinių nusižengimų bylų nagrinėjimą pirmosios instancijos teisme.
+3. Administracinėn atsakomybėn traukiamo asmens reikalavimu bylos nagrinėjimas vyksta žodinio proceso tvarka. Apie tai pranešama administracinio nusižengimo teisenoje dalyvaujantiems asmenims. Jeigu reikalavimas nagrinėti bylą žodinio proceso tvarka nebuvo įrašytas administracinio nusižengimo protokole, administracinėn atsakomybėn traukiamas asmuo turi teisę šį reikalavimą pateikti ne vėliau kaip iki administracinio nusižengimo bylos nagrinėjimo pradžios. Jeigu administracinio nusižengimo protokole nenurodyta, kad administracinėn atsakomybėn traukiamas asmuo reikalauja nagrinėti bylą žodinio proceso tvarka, ir per šioje dalyje nustatytą terminą nepateiktas reikalavimas nagrinėti bylą žodinio proceso tvarka arba jeigu administracinėn atsakomybėn traukiamas asmuo ir nukentėjusysis neatvyksta į žodinį bylos nagrinėjimą, byla nagrinėjama jiems nedalyvaujant rašytinio proceso tvarka. Administracinių nusižengimų bylų nagrinėjimui žodinio proceso tvarka mutatis mutandis taikomos šio kodekso XXXV skyriaus nuostatos, reglamentuojančios administracinių nusižengimų bylų nagrinėjimą pirmosios instancijos teisme.
 
 
 
 
-4. Administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo šio straipsnio 2 dalyje nurodyto termino pabaigos.
+4. Administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai surašomas administracinio nusižengimo protokolas su administraciniu nurodymu, – per dvidešimt darbo dienų nuo šio kodekso 610 straipsnio 1 dalyje nurodytų terminų pabaigos. Tais atvejais, kai asmeniui siunčiamas šio straipsnio 2 dalyje nurodytas prašymas, administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo šio straipsnio 2 dalyje nurodyto termino pabaigos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
  
-
-
 
 
 
@@ -19206,7 +19212,6 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 3. Rašytinio proceso tvarka priimti nutarimai ir nutartys administracinių nusižengimų bylose laikomi paskelbtais jų priėmimo dieną.
- 
 
 
 
@@ -19376,7 +19381,6 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 6. Apylinkių teismų nutarimai ir nutartys, kuriais baigiamos nagrinėti administracinio nusižengimo bylos, įsiteisėja per dvidešimt kalendorinių dienų nuo atitinkamo nutarimo ar nutarties paskelbimo, jeigu jie nebuvo apskųsti apeliacine tvarka. Nutarimas skirti administracinę nuobaudą – įspėjimą įsiteisėja jo paskelbimo momentu. Apeliacine tvarka apskųstas apylinkės teismo nutarimas ar nutartis, jeigu jie nepanaikinti, įsiteisėja apeliacine tvarka išnagrinėjus bylą.
- 
  
 
 
@@ -21190,3 +21194,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 29, 71, 401, 589 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2776, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26977
 Lietuvos Respublikos administracinių nusižengimų kodekso 202 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2482, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17980
+Lietuvos Respublikos administracinių nusižengimų kodekso 590, 637, 646 ir 650 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 609 ir 616 straipsnių pakeitimo įstatymas
