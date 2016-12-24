@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2016-08-31 iki 2016-12-23
+Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -898,7 +898,10 @@ Nr. XI-1987, 2012-04-24, Žin., 2012, Nr. 53-2639 (2012-05-08)
 
 
 
-2. Studijų kokybės vertinimo centro kolegialus valdymo organas yra Studijų kokybės vertinimo centro taryba, sudaroma iš 11 narių. Juos 6 metams skiria: Seimas Švietimo, mokslo ir kultūros komiteto teikimu, Vyriausybė, švietimo ir mokslo ministras, Lietuvos mokslo taryba kartu su Lietuvos mokslų akademija, universitetų senatai, kolegijų akademinės tarybos, Lietuvos aukštųjų mokyklų studentų atstovybių sąjungos, Lietuvos kultūros ir meno taryba, Lietuvos pramonininkų konfederacija, Lietuvos pramonės, prekybos ir amatų rūmai, Žinių ekonomikos forumas. Studijų kokybės vertinimo centro tarybos sudėtį skelbia švietimo ir mokslo ministras. Studijų kokybės vertinimo centro taryba rengia ir tvirtina savo veiklos reglamentą.
+2. Studijų kokybės vertinimo centro kolegialus valdymo organas yra Studijų kokybės vertinimo centro taryba, sudaroma iš 11 narių. Juos 6 metams skiria: Seimas Švietimo ir mokslo komiteto teikimu, Vyriausybė, švietimo ir mokslo ministras, Lietuvos mokslo taryba kartu su Lietuvos mokslų akademija, universitetų senatai, kolegijų akademinės tarybos, Lietuvos aukštųjų mokyklų studentų atstovybių sąjungos, Lietuvos kultūros ir meno taryba, Lietuvos pramonininkų konfederacija, Lietuvos pramonės, prekybos ir amatų rūmai, Žinių ekonomikos forumas. Studijų kokybės vertinimo centro tarybos sudėtį skelbia švietimo ir mokslo ministras. Studijų kokybės vertinimo centro taryba rengia ir tvirtina savo veiklos reglamentą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-116, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29420
+ 
 
 
 
@@ -4939,3 +4942,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 7, 42 ir 52 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2388, 2016-05-19, paskelbta TAR 2016-05-31, i. k. 2016-14399
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 70 straipsnio pakeitimo ir Įstatymo papildymo 70-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-116, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29420
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
