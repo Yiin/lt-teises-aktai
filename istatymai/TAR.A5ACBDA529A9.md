@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-03-26 iki 2016-12-23
+Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -2590,23 +2590,9 @@ Nr. IX-1972, 2004-01-22, Žin., 2004, Nr. 25-748 (2004-02-14)
 
 
 
-401 straipsnis. Fiziniams asmenims paskirstyto pelno apmokestinimas pelno mokesčiu 
-
-
-1. Lietuvos vieneto, kuris nėra laisvosios ekonominės zonos įmonė, fiziniams asmenims paskirstomas 2009 metų ir vėlesnių metų pelnas (ar jo dalis), proporcingai tenkantis dėl šio Įstatymo 12 straipsnio 5, 15, 16 punktuose, 461 straipsnyje nustatytų lengvatų neapmokestintam ir (arba) taikant 0 procentų tarifą apmokestintam apmokestinamajam pelnui, apmokestinamas taikant 15 procentų mokesčio tarifą.
-
-
-
-
-2. Lietuvos vienetas nuo šio straipsnio 1 dalyje nurodyto paskirstomo pelno apskaičiuotą pelno mokestį į biudžetą sumoka ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį toks paskirstytas pelnas buvo išmokėtas fiziniams asmenims, dešimtos dienos.
-
-
-Įstatymas papildytas straipsniu:
-Nr. XI-73, 2008-12-18, Žin., 2008, Nr. 149-6000 (2008-12-30)
-Straipsnio pakeitimai:
-Nr. XI-174, 2009-02-19, Žin., 2009, Nr. 25-976 (2009-03-05)
-Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
-Nr. XI-1156, 2010-11-23, Žin., 2010, Nr. 145-7413 (2010-12-11)
+401 straipsnis. Neteko galios nuo 2016-12-24
+Straipsnio naikinimas:
+Nr. XIII-88, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29276
  
 
 
@@ -4410,3 +4396,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 51 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 32, 33, 34, 35, 36, 40-1, 47, 51, 53 straipsnių ir 3 priedėlio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-88, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29276
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 40-1 straipsnio pripažinimo netekusiu galios įstatymas
