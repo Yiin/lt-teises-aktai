@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b857dcd0f28b11e5989ee743dd0efbb0"
 
 # Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 32, 33, 34, 35, 36, 40-1, 47, 51, 53 straipsnių ir 3 priedėlio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2016-12-24
+ 
+Įstatymas paskelbtas: TAR 2016-03-25, i. k. 2016-06346
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PELNO MOKESČIO ĮSTATYMO NR. IX-675 32, 33, 34, 35, 36, 401, 47, 51, 53 STRAIPSNIŲ IR 3 PRIEDĖLIO PAKEITIMO
 ĮSTATYMAS
@@ -143,22 +150,10 @@ Deklaracija apie dividendų išmokėjimą vienetui ar dividendų gavimą iš vie
 
 
 
-6 straipsnis. 401 straipsnio pakeitimas
-
-
-Pakeisti 401 straipsnio 2 dalį ir ją išdėstyti taip:
-
-
-
-
-„2. Lietuvos vienetas nuo šio straipsnio 1 dalyje nurodyto paskirstomo pelno apskaičiuotą pelno mokestį į biudžetą sumoka ne vėliau kaip iki kito mėnesio, einančio po mėnesio, kurį toks paskirstytas pelnas buvo išmokėtas fiziniams asmenims, penkioliktos dienos.“
+6 straipsnis. Neteko galios nuo 2016-12-24
+Straipsnio naikinimas:
+Nr. XIII-89, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29278
  
-
-
-
-
-
-
 
 
 
@@ -328,3 +323,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-89, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29278
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 32, 33, 34, 35, 36, 40-1, 47, 51, 53 straipsnių ir 3 priedėlio pakeitimo įstatymo Nr. XII-2262 6 straipsnio pripažinimo netekusiu galios įstatymas
