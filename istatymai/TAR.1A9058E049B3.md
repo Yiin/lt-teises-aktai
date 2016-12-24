@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1a9058e049b311e6b5d09300a16a686c"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2016-12-24 iki 2016-12-29
+ 
+Įstatymas paskelbtas: TAR 2016-07-14, i. k. 2016-20555
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MOKSLO IR STUDIJŲ ĮSTATYMO NR. XI-242 PAKEITIMO
 ĮSTATYMAS
@@ -1253,7 +1260,10 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-4. Mokslo ir studijų stebėsenos ir analizės centro kolegialus patariamasis organas yra taryba, tarybos tikslas – patarti Mokslo ir studijų stebėsenos ir analizės centro direktoriui. Taryba veikia visuomeniniais pagrindais. Mokslo ir studijų stebėsenos ir analizės centro tarybą sudaro 7 nariai: vieną narį skiria Seimo Švietimo, mokslo ir kultūros komitetas, 3 narius – Vyriausybė, vieną – Lietuvos pramonininkų konfederacija, vieną – Lietuvos universitetų rektorių konferencija (konferencijos), vieną – Lietuvos kolegijų direktorių konferencija (konferencijos). Taryba sudaroma 5 metams, o tarybos kadencija pradedama skaičiuoti nuo tada, kai savininko teises ir pareigas įgyvendinanti institucija paskelbia Tarybos sudėtį. 
+4. Mokslo ir studijų stebėsenos ir analizės centro kolegialus patariamasis organas yra taryba, tarybos tikslas – patarti Mokslo ir studijų stebėsenos ir analizės centro direktoriui. Taryba veikia visuomeniniais pagrindais. Mokslo ir studijų stebėsenos ir analizės centro tarybą sudaro 7 nariai: vieną narį skiria Seimo Švietimo ir mokslo komitetas, 3 narius – Vyriausybė, vieną – Lietuvos pramonininkų konfederacija, vieną – Lietuvos universitetų rektorių konferencija (konferencijos), vieną – Lietuvos kolegijų direktorių konferencija (konferencijos). Taryba sudaroma 5 metams, o tarybos kadencija pradedama skaičiuoti nuo tada, kai savininko teises ir pareigas įgyvendinanti institucija paskelbia tarybos sudėtį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-117, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29421
+ 
 
 
 
@@ -1299,7 +1309,10 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-3. Studijų kokybės vertinimo centro kolegialus valdymo organas yra Studijų kokybės vertinimo centro taryba, sudaroma iš 11 narių. Po vieną Studijų kokybės vertinimo centro tarybos narį 6 metų kadencijai deleguoja Seimo komitetas, kuriam priskirta pagal kompetenciją nagrinėti klausimus švietimo ir mokslo srityje, švietimo ir mokslo ministras, po du narius 6 metų kadencijai deleguoja universitetus, kolegijas vienijančios organizacijos, keturis narius 6 metų kadencijai deleguoja socialinius partnerius vienijančios organizacijos, vienas tarybos narys 2 metų kadencijai deleguojamas studentus vienijančios organizacijos. Seimo komiteto, kuriam priskirta pagal kompetenciją nagrinėti klausimus švietimo ir mokslo srityje, deleguojamas tarybos narys turi būti tarptautinis ekspertas, gyvenantis ir dirbantis ne Lietuvos Respublikoje. Studijų kokybės vertinimo centro tarybos sudėtį skelbia švietimo ir mokslo ministras.
+3. Studijų kokybės vertinimo centro kolegialus valdymo organas yra Studijų kokybės vertinimo centro taryba, sudaroma iš 11 narių. Po vieną Studijų kokybės vertinimo centro tarybos narį 6 metų kadencijai deleguoja Seimo Švietimo ir mokslo komitetas, švietimo ir mokslo ministras, po du narius 6 metų kadencijai deleguoja universitetus, kolegijas vienijančios organizacijos, keturis narius 6 metų kadencijai deleguoja socialinius partnerius vienijančios organizacijos, vienas tarybos narys 2 metų kadencijai deleguojamas studentus vienijančios organizacijos. Seimo Švietimo ir mokslo komiteto deleguojamas tarybos narys turi būti tarptautinis ekspertas, gyvenantis ir dirbantis ne Lietuvos Respublikoje. Studijų kokybės vertinimo centro tarybos sudėtį skelbia švietimo ir mokslo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIII-117, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29421
+ 
 
 
 
@@ -4598,3 +4611,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-117, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29421
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo Nr. XII-2534 1 straipsnio pakeitimo įstatymas
