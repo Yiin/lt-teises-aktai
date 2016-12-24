@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2015-12-17 iki 2016-12-23
+Suvestinė redakcija nuo 2016-12-24 iki 2017-12-13
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
  
@@ -84,10 +84,10 @@ SAVIVALDYBIŲ BIUDŽETŲ PAJAMOS
 
 
 
-3 straipsnis. Mokestinių ir nemokestinių pajamų pervedimas į savivaldybės biudžetą
+3 straipsnis. Mokestinių ir nemokestinių pajamų pervedimas 
 
 
-Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinė valstybinė mokesčių inspekcija – vietos mokesčių administratorius į savivaldybės biudžetą perveda: 
+Valstybinė mokesčių inspekcija prie Finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) perveda: 
 
 
 1) savivaldybės biudžetui priskirtas mokestines pajamas; 
@@ -95,16 +95,13 @@ Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinė valst
 
 
 
-2) atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytą savivaldybei skiriamą gyventojų pajamų mokesčio dalį (procentais), iš apskaičiuotos gyventojų pajamų mokesčio sumos atskaitęs pajamas už išduotus verslo liudijimus ir atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintą šio mokesčio į valstybės biudžetą dalį (procentais). Likusi gyventojų pajamų mokesčio dalis pervedama į Valstybės iždo sąskaitą;
-TAR pastaba. 2 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2016 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-Straipsnio punkto pakeitimai:
-Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
- 
+2) į Valstybinės mokesčių inspekcijos surenkamąją sąskaitą atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme patvirtintą gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo įplaukų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gaunamas iš veiklos, kuria verčiamasi turint verslo liudijimą;
 
 
 
 
-3) nemokestines pajamas, kurias savivaldybės biudžetui pagal įstatymus sumoka fiziniai ir juridiniai asmenys.
+3) savivaldybės biudžetui priskirtas nemokestines pajamas, kurias pagal įstatymus sumoka fiziniai ir juridiniai asmenys. 
+TAR pastaba. 3 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 
 
 
@@ -112,6 +109,8 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 Straipsnio pakeitimai:
 Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr. XI-509, 2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
+Straipsnio pakeitimai:
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
  
 
 
@@ -131,7 +130,8 @@ Savivaldybės gauna valstybės biudžeto dotacijų. Jų apskaičiavimo, tvirtini
 
 
 TREČIASIS SKIRSNIS
-SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NUSTATYMO TVARKA
+SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR PROGNOZUOJAMŲ LĖŠŲ NUSTATYMO TVARKA
+TAR pastaba. Trečiojo skirsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
  
 
 
@@ -141,12 +141,12 @@ SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NU
 1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių biudžetams skiriama: 
 
 
-1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL1i > åPi , tai BD1 = åL1i – åPi ; kai åL1i <= åPi , tai BD1 = 0);]
+1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL1i > åPi , tai BD1 = åL1i – åPi ; kai åL1i <= åPi , tai BD1 = 0);
 
 
 
 
-2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2), kai prognozuojama, kad Valstybės iždo sąskaitoje šiam tikslui trūks lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 8 straipsnius (kai L2 = 0, tai BD2 = 0,1 BD1).
+2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2), kai prognozuojama, kad šiam tikslui trūks lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 8 straipsnius (kai L2 = 0, tai BD2 = 0,1 BD1).
 
 
 
@@ -161,7 +161,7 @@ SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NU
 
 
 
-2) mokinio krepšeliui finansuoti vykdant Vietos savivaldos įstatymo 6 straipsnio 8 punkte nustatytą savarankiškąją savivaldybių funkciją ir Vietos savivaldos įstatymo 7 straipsnio 7 punkte nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką;
+2) mokinio krepšeliui finansuoti vykdant Vietos savivaldos įstatymo 6 straipsnio 8 punkte nustatytą savarankiškąją savivaldybių funkciją ir Vietos savivaldos įstatymo 7 straipsnio 7 punkte nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką;
 
 
 
@@ -174,47 +174,42 @@ SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NU
 
 
 3. Valstybės biudžeto bendrosios dotacijos kompensacijos (BDK) savivaldybių biudžetams skiriamos dėl Seimo ar Vyriausybės priimtų sprendimų atsirandantiems savivaldybių biudžetų pajamų ir išlaidų pokyčiams kompensuoti.
-
-
-
-
-4. Dotacijų dydžiai savivaldybėms tvirtinami atitinkamų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
-Nr. XI-117, 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
-Nr. XI-1164, 2010-11-23, Žin., 2010, Nr. 145-7421 (2010-12-11)
  
 
 
 
 
-6 straipsnis. Lėšų, skiriamų savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dydis
 
 
-Lėšas (L), skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų pajamų mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2 punktas, (L = åPi).]
+6 straipsnis. Prognozuojamos lėšos savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti
 
 
-Straipsnio pakeitimai:
-Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
+1. Savivaldybės biudžetui yra prognozuojamos lėšos, kurios apskaičiuojamos pagal šio Įstatymo 7 straipsnį taikant savivaldybių gyventojų pajamų mokesčio skirtumų išlyginimą ir pagal šio Įstatymo 8 straipsnį taikant išlaidų struktūrų skirtumų išlyginimą. 
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytiems išlyginimams prognozuojamas lėšas (L) sudaro likusi apskaičiuota atskirų savivaldybių prognozuojama gyventojų pajamų mokesčio dalis nuo savivaldybei taikytinos gyventojų pajamų mokesčio dalies (procentais), reikalingos prognozuojamoms pajamoms iš gyventojų pajamų mokesčio tos savivaldybės biudžetui apskaičiuoti, Pi (procentais), kuri apskaičiuojama pagal formulę: 
+Pi = 100 % – GPMi%, čia GPMi% – savivaldybės gyventojų pajamų mokesčio dalis (procentais), apskaičiuota pagal šio Įstatymo 10 straipsnio 1 dalies 6 punkto a papunktį (L = åPi).
  
 
 
 
 
-7 straipsnis. Lėšų, skiriamų savivaldybių gyventojų pajamų mokesčiui išlyginti, paskirstymas
 
 
-1. Iš lėšų (L), skiriamų savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dalies savivaldybių gyventojų pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės, kurių faktinės praėjusio mėnesio pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui yra mažesnės už faktines praėjusio mėnesio visų savivaldybių vidutines pajamas iš gyventojų pajamų mokesčio vienam gyventojui. 
+7 straipsnis. Lėšų, prognozuojamų savivaldybių gyventojų pajamų mokesčiui išlyginti, apskaičiavimas
+
+
+1. Iš lėšų (L), nurodytų šio Įstatymo 6 straipsnyje, dalies savivaldybių gyventojų pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės, kurių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui yra mažesnės už prognozuojamas visų savivaldybių vidutines pajamas iš gyventojų pajamų mokesčio vienam gyventojui, kaip nurodyta šio straipsnio 2 dalyje.
 
 
 
 
-2. Remiama savivaldybė gauna nustatytą vienodą dalį (h) skirtumo, susidarančio tarp faktinių praėjusio mėnesio visų savivaldybių vidutinių pajamų iš gyventojų pajamų mokesčio vienam gyventojui (xf) ir faktinių praėjusio mėnesio pajamų iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (xif), pagal formulę L1i = Gi · h · (xf – xif ) – (BD1i /12), čia:
+2. Remiamai savivaldybei apskaičiuojama nustatyta vienoda dalis (h) skirtumo, susidarančio tarp prognozuojamų visų savivaldybių vidutinių pajamų iš gyventojų pajamų mokesčio vienam gyventojui (xp) ir prognozuojamų pajamų iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (xip), pagal formulę L1i = Gi · h · (xp – xip ) – (BD1i), čia:
 
 
-1) L1i – i-ajai savivaldybei skiriama lėšų dalis gyventojų pajamų mokesčiui išlyginti; 
+1) L1i – i-ajai savivaldybei prognozuojama lėšų dalis gyventojų pajamų mokesčiui išlyginti; 
 
 
 
@@ -224,12 +219,12 @@ Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 
 
 
-3) xf – faktinės praėjusio mėnesio visų savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui; 
+3) xp – prognozuojamos visų savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui. Prognozuojamos visų savivaldybių pajamos iš gyventojų pajamų mokesčio yra visų savivaldybių prognozuojamų pajamų iš gyventojų pajamų mokesčio suma, apskaičiuota pagal šio Įstatymo 10 straipsnio 1 dalies 6 punkto a ir b papunkčius; 
 
 
 
 
-4) xif – faktinės praėjusio mėnesio i-osios savivaldybės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui;
+4) xip – prognozuojamos i-osios savivaldybės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui. Prognozuojamos i-osios savivaldybės pajamos iš gyventojų pajamų mokesčio yra apskaičiuojamos pagal šio Įstatymo 10 straipsnio 1 dalies 6 punkto a ir b papunkčius;
 
 
 
@@ -246,12 +241,7 @@ Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 
 
 
-3. Kai Valstybės iždo sąskaitoje pritrūksta lėšų gyventojų pajamų mokesčiui išlyginti, apskaičiuota trūkstama suma pervedama kiekvienai savivaldybei iš kito mėnesio įplaukų Valstybės iždo sąskaitoje. Jei pajamos iš gyventojų pajamų mokesčio, apskaičiuotos pagal šio straipsnio 2 dalies formulę, liktų neišlygintos, trūkstama suma dengiama iš valstybės biudžeto.
-
-
-
-
-4. Valstybės biudžeto bendrosios dotacijos dalis (BD1), skiriama savivaldybei ateinančių biudžetinių metų gyventojų pajamų mokesčiui išlyginti, apskaičiuojama pagal formulę  BD1i= BD1 · [Gi · h · (xf – xif )] / åGi · h · (xf – xif ), čia:
+3. Valstybės biudžeto bendrosios dotacijos dalis (BD1), skiriama savivaldybei ateinančių biudžetinių metų gyventojų pajamų mokesčiui išlyginti, apskaičiuojama pagal formulę BD1i = BD1 · [Gi · h · (xp – xip )] / åGi · h · (xp – xip ), čia:
 
 
 1) BD1i – i-ajai savivaldybei skiriama valstybės biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;
@@ -264,45 +254,38 @@ Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 
 
 
-3) xf – faktinės (arba numatomos faktiškai gauti) biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui;
+3) xp – prognozuojamos biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui. Prognozuojamos visų savivaldybių pajamos iš gyventojų pajamų mokesčio yra visų savivaldybių prognozuojamų pajamų iš gyventojų pajamų mokesčio suma, apskaičiuota pagal šio Įstatymo 10 straipsnio 1 dalies 6 punkto a ir b papunkčius;
 
 
 
 
-4) xif – faktinės (arba numatomos faktiškai gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui.
-
-
-
-
-
-
-5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
+4) xip – prognozuojamos biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui. Prognozuojamos i-osios savivaldybės pajamos iš gyventojų pajamų mokesčio yra apskaičiuojamos pagal šio Įstatymo 10 straipsnio 1 dalies 6 punkto a ir b papunkčius.
  
 
 
 
 
-8 straipsnis. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir paskirstymas savivaldybėms 
-
-
-1. Lėšų, skiriamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas pagal formulę L2 = L – L1.
 
 
 
 
-2. Lėšos savivaldybių išlaidų struktūrų skirtumams išlyginti (L2) skiriamos savivaldybei atsižvelgiant į jai tenkančią visų savivaldybių demografinių, socialinių ir kitų rodiklių, kurie turi įtakos objektyviems savivaldybių išlaidų struktūrų skirtumų pasikeitimams, dalį bei šių rodiklių svarbą.
+8 straipsnis. Lėšų, prognozuojamų savivaldybių išlaidų struktūrų skirtumams išlyginti, dydžio nustatymas ir apskaičiavimas savivaldybėms 
+
+
+1. Lėšų, prognozuojamų savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys veiksniai, išlyginti, dydis apskaičiuojamas pagal formulę L2 = L – L1.
 
 
 
 
-3. Savivaldybių išlaidų struktūrų skirtumams išlyginti skiriamos lėšos apskaičiuojamos pagal formulę , čia:
+2. Lėšos savivaldybių išlaidų struktūrų skirtumams išlyginti (L2) prognozuojamos savivaldybei atsižvelgiant į jai tenkančią visų savivaldybių demografinių, socialinių ir kitų rodiklių, kurie turi įtakos objektyviems savivaldybių išlaidų struktūrų skirtumų pasikeitimams, dalį bei šių rodiklių svarbą.
 
 
-1) L2i – i-ajai savivaldybei skiriama lėšų dalis išlaidų struktūrų skirtumams išlyginti;
+
+
+3. Savivaldybių išlaidų struktūrų skirtumams išlyginti prognozuojamos lėšos apskaičiuojamos pagal formulę , čia:
+
+
+1) L2i – i-ajai savivaldybei prognozuojama lėšų dalis išlaidų struktūrų skirtumams išlyginti;
 
 
 
@@ -312,11 +295,7 @@ Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 
 
 
-3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuota pagal formulę , čia Rni – i-osios savivaldybės  n-ojo rodiklio reikšmė. 
-TAR pastaba. 3 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2016 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-Straipsnio punkto pakeitimai:
-Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
- 
+3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuota pagal formulę , čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė.
 
 
 
@@ -331,25 +310,16 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 
 
-3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuojama pagal formulę , čia Rni – i-osios savivaldybės  n-ojo rodiklio reikšmė.
-TAR pastaba. 3 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2016 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-Straipsnio punkto pakeitimai:
-Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
+2) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuojama pagal formulę , čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė.
+
+
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
  
-
-
-
-
-3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuojama pagal formulę , čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. IX-1235, 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
- 
-
-
 
 
 
@@ -522,23 +492,37 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 
 
-6) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais). Savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais) nustatoma palyginus prognozuojamas savivaldybės ateinančių metų pajamas iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) su vidutinėmis visų savivaldybių prognozuojamomis ateinančių metų pajamomis iš gyventojų pajamų mokesčio vienam gyventojui (pp):
+6) savivaldybės gyventojų pajamų mokesčio dalį (procentais), reikalingą prognozuojamoms pajamoms iš gyventojų pajamų mokesčio kiekvienos savivaldybės biudžetui apskaičiuoti. Savivaldybės gyventojų pajamų mokesčio dalis (procentais) nustatoma palyginus prognozuojamas savivaldybės ateinančių metų pajamas iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) su vidutinėmis visų savivaldybių prognozuojamomis ateinančių metų pajamomis iš gyventojų pajamų mokesčio vienam gyventojui (pp):
 
 
-a) jeigu prognozuojamos savivaldybės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) yra didesnės negu vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (pp), savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama pagal formulę GPMi% = pp / pip × 100%, čia:
-GPMi% – savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais);
+a) jeigu prognozuojamos savivaldybės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) yra didesnės negu vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (pp), savivaldybės gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama pagal formulę GPMi% = pp / pip × 100 %, čia:
+GPMi% – savivaldybės gyventojų pajamų mokesčio dalis (procentais);
 pp – vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (apskaičiuojamos pagal formulę pp = yp / åGi , čia yp – visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio, apskaičiuojamos pagal šio straipsnio 1 dalies 1 punkte nustatomą rodiklį – gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams);
 pip – i-osios savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (apskaičiuojamos pagal formulę pip = yip / Gi , čia yip – savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio (yp = å yip);
 
 
 
 
-b) jeigu savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) yra mažesnės negu vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (pp), savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais) yra 100 procentų.
-TAR pastaba. 6 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2016 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+b) jeigu savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (pip) yra mažesnės negu vidutinės visų savivaldybių prognozuojamos pajamos iš gyventojų pajamų mokesčio vienam gyventojui (pp), savivaldybės gyventojų pajamų mokesčio dalis (procentais) yra 100 procentų;
 
 
+
+
+c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal nuolatinę gyvenamąją vietą ar gyvenamąją vietą Lietuvoje, apie kurią gyventojas informavo Gyventojų pajamų mokesčio įstatymo 35 straipsnio 3 dalyje nustatyta tvarka; 
+TAR pastaba. 6 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
+ 
+
+
+
+
+7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šio straipsnio 1 dalies 6 punktą, šio Įstatymo 7 ir 8 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šio straipsnio 1 dalies 1 punktą, išreikštas procentais. 
+TAR pastaba. 7 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
 Papildyta straipsnio punktu:
-Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
  
 
 
@@ -546,7 +530,11 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 
 
-2. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis – savivaldybių prognozuojamos pajamos. Skaičiuojant šį rodiklį, neįskaitomos savivaldybių biudžetinių įstaigų pajamos, vietinės rinkliavos, pajamos, priskirtos pagal Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymą.
+2. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis – savivaldybių prognozuojamos pajamos. Skaičiuojant šį rodiklį, neįskaitomos savivaldybių biudžetinių įstaigų pajamos, vietinės rinkliavos, pajamos, priskirtos pagal Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymą, įmokos už ilgalaikio materialiojo ir nematerialiojo turto realizavimą. 
+TAR pastaba. 2 dalies nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
+ 
 
 
 
@@ -566,7 +554,11 @@ Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 
 
 
-4. Faktiškai gautas į Valstybės iždo sąskaitą lėšas, nurodytas šio Įstatymo 6 straipsnyje, Finansų ministerija apskaičiuoja pagal šio Įstatymo 7 ir 8 straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį skiria savivaldybėms.
+4. Faktiškai gautas į Valstybinės mokesčių inspekcijos surenkamąją sąskaitą iš gyventojų pajamų mokesčio lėšas, nurodytas šio Įstatymo 3 straipsnio 2 punkte, Valstybinė mokesčių inspekcija ne rečiau kaip du kartus per mėnesį perveda savivaldybėms pagal atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme savivaldybės biudžetui patvirtintą gyventojų pajamų mokesčio dalį (procentais). 
+TAR pastaba. 4 dalies nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
+ 
 
 
 
@@ -624,9 +616,11 @@ Vyriausybė ir Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytu
 12 straipsnis. Valstybės biudžeto bendrosios dotacijos kompensacijos savivaldybių biudžetams
 
 
-Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos, skirtos 100 procentų kompensuoti ateinantiems biudžetiniams metams prognozuojamų palyginamaisiais dydžiais ir sąlygomis pajamų (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) mažėjimą, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis.
-TAR pastaba. 12 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2016 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą ir Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
-Straipsnio pakeitimai
+Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos, skirtos 100 procentų kompensuoti ateinantiems biudžetiniams metams prognozuojamų palyginamaisiais dydžiais ir sąlygomis pajamų mažėjimą, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. 
+TAR pastaba. 12 straipsnio nuostatos taikomos rengiant Lietuvos Respublikos 2017 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+
+Straipsnio pakeitimai:
 Nr. IX-1857, 2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
 Nr. X-434, 2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
 Nr. X-1359, 2007-12-06, Žin., 2007, Nr. 132-5361 (2007-12-15)
@@ -634,10 +628,9 @@ Nr. XI-117, 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
 Nr. XI-509, 2009-12-02, Žin., 2009, Nr. 147-6552 (2009-12-12)
 Nr. XI-1739, 2011-11-29, Žin., 2011, Nr. 150-7046 (2011-12-08)
 Nr. XII-660, 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
-
-
 Straipsnio pakeitimai:
 Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
  
 
 
@@ -839,3 +832,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
 Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 3, 8, 9, 10, 12 straipsnių pakeitimo, Įstatymo papildymo 9-1 straipsniu ir priedėlio pripažinimo netekusiu galios įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 3, 10, 12 straipsnių ir trečiojo skirsnio pakeitimo įstatymas
