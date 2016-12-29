@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2016-01-07 iki 2016-12-28
+Suvestinė redakcija nuo 2016-12-29 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -1570,7 +1570,10 @@ Nr. XI-1820, 2011-12-20, Žin., 2011, Nr. 163-7740 (2011-12-31)
 
 
 
-15. Fondo tarybos parengtus bendruosius konkursų nuostatus, kuriuose atsispindi programų ir finansavimo proporcijos ir kurie suderinti bendrame Seimo Švietimo, mokslo ir kultūros ir Seimo Informacinės visuomenės plėtros komitetų posėdyje, tvirtina Vyriausybė. 
+15. Fondo tarybos parengtus bendruosius konkursų nuostatus, kuriuose atsispindi programų ir finansavimo proporcijos ir kurie suderinti su Seimo Kultūros komitetu, tvirtina Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+ 
 
 
 
@@ -3183,7 +3186,10 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-4. Komisiją sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną – iš opozicinių frakcijų) – Seimas Švietimo, mokslo ir kultūros komiteto ir Informacinės visuomenės plėtros komiteto teikimu, tris narius – Lietuvos meno kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse, profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros, mokslo ar žmogaus teisių srityse. Komisijos nariui taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui, pirmininko pavaduotojui ir nariams taikomos Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytos darbo apmokėjimo sąlygos ir Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo laiką.
+4. Komisiją sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną – iš opozicinių frakcijų) – Seimas Kultūros komiteto teikimu, tris narius – Lietuvos meno kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse, profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros, mokslo ar žmogaus teisių srityse. Komisijos nariui taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui, pirmininko pavaduotojui ir nariams taikomos Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytos darbo apmokėjimo sąlygos ir Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo laiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+ 
 
 
 
@@ -3261,9 +3267,10 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-10. Komisijos pirmininką ir jo pavaduotoją bendru Seimo Švietimo, mokslo ir kultūros komiteto ir Seimo Informacinės visuomenės plėtros komiteto teikimu iš Komisijos narių ketverių metų laikotarpiui skiria ir atleidžia Seimas. Kol Komisijos pirmininkas nėra paskirtas, jo pareigas eina vyriausias pagal amžių Komisijos narys. Asmuo negali būti Komisijos pirmininku ilgiau kaip dvi kadencijas iš eilės.
+10. Komisijos pirmininką ir jo pavaduotoją Seimo Kultūros komiteto teikimu iš Komisijos narių ketverių metų laikotarpiui skiria ir atleidžia Seimas. Kol Komisijos pirmininkas nėra paskirtas, jo pareigas eina vyriausias pagal amžių Komisijos narys. Asmuo negali būti Komisijos pirmininku ilgiau kaip dvi kadencijas iš eilės. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1489, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21244
+Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
  
 
 
@@ -3313,7 +3320,10 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-18. Kiekvienais metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo auditoriaus išvada ir audito ataskaita. Šias ataskaitas svarsto Seimo Audito komitetas, Informacinės visuomenės plėtros komitetas ir Švietimo, mokslo ir kultūros komitetas. Jeigu bent du iš šių komitetų nepritaria Komisijos veiklos ataskaitai ar finansinių ataskaitų rinkiniui, jie svarstomi Seimo plenariniame posėdyje ne vėliau kaip per 30 dienų nuo komitetų pateiktos neigiamos išvados. Jeigu Seimo plenariniame posėdyje Komisijos veiklos ataskaita ar finansinių ataskaitų rinkinys nepatvirtinami, Seimas kreipiasi į Komisijos narius skyrusias institucijas ar organizacijas, kad jos priimtų sprendimus dėl savo paskirtų Komisijos narių veiklos tęstinumo. Jeigu daugiau kaip pusė Komisijos narių nėra patvirtinami toliau tęsti veiklą Komisijoje, Komisijos narius skyrusios institucijos ar organizacijos privalo paskirti kitus Komisijos narius ir pradedama skaičiuoti nauja Komisijos kadencija.
+18. Kiekvienais metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo auditoriaus išvada ir audito ataskaita. Šias ataskaitas svarsto Seimo Audito komitetas ir Kultūros komitetas. Jeigu komitetai nepritaria Komisijos veiklos ataskaitai ar finansinių ataskaitų rinkiniui, jie svarstomi Seimo posėdyje ne vėliau kaip per 30 dienų nuo komitetų pateiktos neigiamos išvados. Jeigu Seimo posėdyje Komisijos veiklos ataskaita ar finansinių ataskaitų rinkinys nepatvirtinami, Seimas kreipiasi į Komisijos narius skyrusias institucijas ar organizacijas, kad jos priimtų sprendimus dėl savo paskirtų Komisijos narių veiklos tęstinumo. Jeigu daugiau kaip pusė Komisijos narių nėra patvirtinami toliau tęsti veiklą Komisijoje, Komisijos narius skyrusios institucijos ar organizacijos privalo paskirti kitus Komisijos narius ir pradedama skaičiuoti nauja Komisijos kadencija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+ 
 
 
 
@@ -4499,3 +4509,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 28 ir 47 straipsnių pakeitimo įstatymas
