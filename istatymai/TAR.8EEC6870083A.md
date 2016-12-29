@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EEC6870083A"
 
 # Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymas
 
-Suvestinė redakcija nuo 2016-05-25 iki 2016-12-28
+Suvestinė redakcija nuo 2016-12-29 iki 2017-09-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 153-5572, i. k. 1041010ISTA0IX-2453
  
@@ -69,7 +69,10 @@ Vilnius
 3 straipsnis. Komisijos sudėtis ir sudarymo tvarka
 
 
-1. Komisiją sudaro 12 narių: 2 narius skiria ir atleidžia Respublikos Prezidentas, 4 narius – Seimas Seimo Švietimo, mokslo ir kultūros komiteto (toliau – Švietimo, mokslo ir kultūros komitetas) teikimu, 4 narius – Ministras Pirmininkas kultūros ministro teikimu, 2 narius renka ir atšaukia įstatymų nustatyta tvarka įregistruotos asociacijos, kurių veikla susijusi su kultūros paveldo paieška, saugojimu ir propagavimu.
+1. Komisiją sudaro 12 narių: 2 narius skiria ir atleidžia Respublikos Prezidentas, 4 narius – Seimas Seimo Kultūros komiteto (toliau – Kultūros komitetas) teikimu, 4 narius – Ministras Pirmininkas kultūros ministro teikimu, 2 narius renka ir atšaukia įstatymų nustatyta tvarka įregistruotos asociacijos, kurių veikla susijusi su kultūros paveldo paieška, saugojimu ir propagavimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
+ 
 
 
 
@@ -84,7 +87,10 @@ Vilnius
 
 
 
-4. Komisijai vadovauja pirmininkas. Pirmininką Švietimo, mokslo ir kultūros komiteto teikimu iš Komisijos narių 4 metams skiria ir atleidžia Seimas. Komisijos pirmininko kandidatūrą Švietimo, mokslo ir kultūros komitetui teikia Komisija. Pasibaigus Komisijos pirmininko kadencijai, Komisijos pirmininkas eina pareigas tol, kol į jas šio įstatymo nustatyta tvarka paskiriamas naujas asmuo. 
+4. Komisijai vadovauja pirmininkas. Pirmininką Kultūros komiteto teikimu iš Komisijos narių 4 metams skiria ir atleidžia Seimas. Komisijos pirmininko kandidatūrą Kultūros komitetui teikia Komisija. Pasibaigus Komisijos pirmininko kadencijai, Komisijos pirmininkas eina pareigas tol, kol į jas šio įstatymo nustatyta tvarka paskiriamas naujas asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
+ 
 
 
 
@@ -417,4 +423,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2355, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13916
+Lietuvos Respublikos valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
 Lietuvos Respublikos valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
