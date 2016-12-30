@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e05c3e1024aa11e5b336e9064144f02a"
 
 # Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymas
 
+Suvestinė redakcija nuo 2016-12-30
+ 
+Įstatymas paskelbtas: TAR 2015-07-07, i. k. 2015-11098
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IR VALSTYBINIŲ PENSIJŲ, SUMAŽINTŲ DĖL DRAUDŽIAMŲJŲ PAJAMŲ TURĖJIMO, KOMPENSAVIMO
 ĮSTATYMAS
@@ -65,12 +72,12 @@ priima šį įstatymą, nustatantį praradimų, atsiradusių dėl valstybinių s
 2 straipsnis. Senatvės pensijų kompensavimo dydžiai ir terminai 
 
 
-1. Pagal šį įstatymą senatvės pensijos kompensuojamoji suma yra asmeniui paskirtos senatvės pensijos, perskaičiuotos taikant Laikinojo įstatymo 6 ir 7 straipsnių nuostatas, ir senatvės pensijos, kuri buvo apskaičiuota taikant Laikinojo įstatymo 8 straipsnio nuostatas, skirtumas (toliau – senatvės pensijos kompensuojamoji suma). 
+1. Pagal šį įstatymą senatvės pensijos kompensuojamoji suma yra asmeniui paskirtos senatvės pensijos, perskaičiuotos taikant Laikinojo įstatymo 6 ir 7 straipsnių nuostatas, ir senatvės pensijos, kuri buvo apskaičiuota taikant Laikinojo įstatymo 8 straipsnio nuostatas, skirtumas (toliau – senatvės pensijos kompensuojamoji suma). 
 
 
 
 
-2. Senatvės pensijos kompensuojamoji suma išmokama 2016–2018 metais šio straipsnio 3 ir 4 dalyse nustatytų dydžių, išskyrus atvejus, nurodytus šio straipsnio 5 ir 6 dalyse ir šio įstatymo 3 straipsnio 3 dalyje. 
+2. Senatvės pensijos kompensuojamoji suma išmokama 2016–2017 metais šio straipsnio 3 ir 4 dalyse nustatytų dydžių, išskyrus atvejus, nurodytus šio straipsnio 5 ir 6 dalyse ir šio įstatymo 3 straipsnio 3 dalyje. 
 
 
 
@@ -80,30 +87,22 @@ priima šį įstatymą, nustatantį praradimų, atsiradusių dėl valstybinių s
 
 
 
-4. 2017 metų pirmojo ketvirčio paskutinį mėnesį senatvės pensijų gavėjams išmokama 33 procentai senatvės pensijos kompensuojamosios sumos, 2018 metų pirmojo ketvirčio paskutinį mėnesį išmokama 34 procentai senatvės pensijos kompensuojamosios sumos. 
+4. 2017 metų pirmojo ketvirčio paskutinį mėnesį senatvės pensijų gavėjams išmokama 67 procentai senatvės pensijos kompensuojamosios sumos. 
 
 
 
 
-5. Senatvės pensijos kompensuojamoji suma išmokama nesilaikant šio straipsnio 3 ir 4 dalyse nustatytų terminų ir dydžių šiais atvejais: 
-
-
-1) jeigu asmeniui apskaičiuota senatvės pensijos kompensuojamoji suma yra ne didesnė kaip 100 eurų, ji išmokama visa 2016 metų antrojo ketvirčio paskutinį mėnesį; 
+5. Jeigu asmeniui apskaičiuota senatvės pensijos kompensuojamoji suma yra ne didesnė kaip 100 eurų, ji išmokama visa 2016 metų antrojo ketvirčio paskutinį mėnesį. 
 
 
 
 
-2) jeigu asmeniui apskaičiuota senatvės pensijos kompensuojamoji suma yra didesnė kaip 100 eurų, tačiau, išmokėjus jos dalį 2016 metų antrąjį ketvirtį, lieka 100 eurų ar mažiau, likusi suma išmokama 2017 metų pirmojo ketvirčio paskutinį mėnesį. 
+6. Asmenims, kuriems paveldėjimo tvarka pereina (perėjo) mirusio asmens turtas, senatvės pensijos kompensuojamosios sumos išmokamos 2017 metų pirmojo ketvirčio paskutinį mėnesį, jeigu jie dėl mirusiajam priklausiusios senatvės pensijos kompensuojamosios sumos išmokėjimo kreipiasi iki 2017 m. sausio 31 d. Jeigu dėl senatvės pensijos kompensuojamosios sumos išmokėjimo kreipiamasi po 2017 m. sausio 31 d., bet ne vėliau kaip iki 2018 m. gruodžio 31 d., senatvės pensijos kompensuojamoji suma išmokama ne vėliau kaip per 3 mėnesius nuo kreipimosi dienos. 
 
 
-
-
-
-
-6. Asmenims, kuriems paveldėjimo tvarka pereina (perėjo) mirusio asmens turtas, senatvės pensijos kompensuojamosios sumos išmokamos 2018 metų ketvirtojo ketvirčio paskutinį mėnesį, jeigu jie dėl mirusiajam priklausiusios senatvės pensijos kompensuojamosios sumos išmokėjimo kreipiasi iki 2018 m. spalio 31 d. Jeigu dėl senatvės pensijos kompensuojamosios sumos išmokėjimo kreipiamasi po 2018 m. spalio 31 d., bet ne vėliau kaip iki 2018 m. gruodžio 31 d., senatvės pensijos kompensuojamoji suma išmokama ne vėliau kaip per 3 mėnesius nuo kreipimosi dienos.
+Straipsnio pakeitimai:
+Nr. XIII-129, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29834
  
-
-
 
 
 
@@ -142,45 +141,37 @@ priima šį įstatymą, nustatantį praradimų, atsiradusių dėl valstybinių s
 4 straipsnis. Valstybinių pensijų kompensavimo dydžiai ir terminai 
 
 
-1. Pagal šį įstatymą valstybinės pensijos kompensuojamoji suma yra valstybinės pensijos, perskaičiuotos pagal Laikinojo įstatymo 4 straipsnio 1 dalies nuostatas (jeigu valstybinė pensija pagal šias nuostatas perskaičiuota nebuvo – paskirtos valstybinės pensijos), ir valstybinės pensijos, kuri buvo apskaičiuota taikant Laikinojo įstatymo 5 straipsnio nuostatas, skirtumas (toliau – valstybinės pensijos kompensuojamoji suma). 
+1. Pagal šį įstatymą valstybinės pensijos kompensuojamoji suma yra valstybinės pensijos, perskaičiuotos pagal Laikinojo įstatymo 4 straipsnio 1 dalies nuostatas (jeigu valstybinė pensija pagal šias nuostatas perskaičiuota nebuvo, – paskirtos valstybinės pensijos), ir valstybinės pensijos, kuri buvo apskaičiuota taikant Laikinojo įstatymo 5 straipsnio nuostatas, skirtumas (toliau – valstybinės pensijos kompensuojamoji suma). 
 
 
 
 
-2. Valstybinės pensijos kompensuojamoji suma išmokama 2016–2018 metais šio straipsnio 3 ir 4 dalyse nustatytų dydžių, išskyrus atvejus, nurodytus šio straipsnio 5 ir 6 dalyse ir šio įstatymo 5 straipsnio 3 dalyje.
+2. Valstybinės pensijos kompensuojamoji suma išmokama 2016–2017 metais šio straipsnio 3 ir 4 dalyse nustatytų dydžių, išskyrus atvejus, nurodytus šio straipsnio 5 ir 6 dalyse ir šio įstatymo 5 straipsnio 3 dalyje.
 
 
 
 
-3. 2016 metų antrojo ketvirčio paskutinį mėnesį šio įstatymo 1 straipsnio 2 dalies 2 punkte nurodytų valstybinių pensijų gavėjams išmokama 33 procentai valstybinės pensijos kompensuojamosios sumos. 
+3. 2016 metų antrojo ketvirčio paskutinį mėnesį šio įstatymo 1 straipsnio 2 dalies 2 punkte nurodytų valstybinių pensijų gavėjams išmokama 33 procentai valstybinės pensijos kompensuojamosios sumos. 
 
 
 
 
-4. 2017 metų pirmojo ketvirčio paskutinį mėnesį šio įstatymo 1 straipsnio 2 dalies 2 punkte nurodytų valstybinių pensijų gavėjams išmokama 33 procentai valstybinės pensijos kompensuojamosios sumos, 2018 metų pirmojo ketvirčio paskutinį mėnesį išmokama 34 procentai valstybinės pensijos kompensuojamosios sumos. 
+4. 2017 metų pirmojo ketvirčio paskutinį mėnesį šio įstatymo 1 straipsnio 2 dalies 2 punkte nurodytų valstybinių pensijų gavėjams išmokama 67 procentai valstybinės pensijos kompensuojamosios sumos. 
 
 
 
 
-5. Valstybinės pensijos kompensuojamoji suma išmokama nesilaikant šio straipsnio 3 ir 4 dalyse nustatytų terminų ir dydžių šiais atvejais: 
-
-
-1) jeigu asmeniui apskaičiuota valstybinės pensijos kompensuojamoji suma yra ne didesnė kaip 100 eurų, ji išmokama visa 2016 metų antrojo ketvirčio paskutinį mėnesį; 
+5. Jeigu asmeniui apskaičiuota valstybinės pensijos kompensuojamoji suma yra ne didesnė kaip 100 eurų, ji išmokama visa 2016 metų antrojo ketvirčio paskutinį mėnesį. 
 
 
 
 
-2) jeigu asmeniui apskaičiuota valstybinės pensijos kompensuojamoji suma yra didesnė kaip 100 eurų, tačiau, išmokėjus jos dalį 2016 metų antrąjį ketvirtį, lieka 100 eurų ar mažiau, likusi suma išmokama 2017 metų pirmojo ketvirčio paskutinį mėnesį. 
+6. Asmenims, kuriems paveldėjimo tvarka pereina (perėjo) mirusio asmens turtas, valstybinės pensijos kompensuojamoji suma išmokama 2017 metų pirmojo ketvirčio paskutinį mėnesį, jeigu jie dėl mirusiajam priklausiusios valstybinės pensijos kompensuojamosios sumos išmokėjimo kreipiasi iki 2017 m. sausio 31 d. Jeigu dėl valstybinės pensijos kompensuojamosios sumos išmokėjimo kreipiamasi po 2017 m. sausio 31 d., bet ne vėliau kaip iki 2018 m. gruodžio 31 d., valstybinės pensijos kompensuojamoji suma išmokama ne vėliau kaip per 3 mėnesius nuo kreipimosi dienos. 
 
 
-
-
-
-
-6. Asmenims, kuriems paveldėjimo tvarka pereina (perėjo) mirusio asmens turtas, valstybinės pensijos kompensuojamoji suma išmokama 2018 metų ketvirtojo ketvirčio paskutinį mėnesį, jeigu jie dėl mirusiajam priklausiusios valstybinės pensijos kompensuojamosios sumos išmokėjimo kreipiasi iki 2018 m. spalio 31 d. Jeigu dėl valstybinės pensijos kompensuojamosios sumos išmokėjimo kreipiamasi po 2018 m. spalio 31 d., bet ne vėliau kaip iki 2018 m. gruodžio 31 d., valstybinės pensijos kompensuojamoji suma išmokama ne vėliau kaip per 3 mėnesius nuo kreipimosi dienos.
+Straipsnio pakeitimai:
+Nr. XIII-129, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29834
  
-
-
 
 
 
@@ -275,3 +266,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-129, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29834
+Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymo Nr. XII-1923 2 ir 4 straipsnių pakeitimo įstatymas
