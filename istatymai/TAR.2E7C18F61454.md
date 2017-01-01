@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -827,7 +827,6 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 
 
 2. Jeigu iškyla abejonių arba galiojančių įstatymų kolizija dėl konkretaus ginčo priskyrimo teismui ar kitai institucijai, ginčas nagrinėjamas teisme.
- 
 
 
 
@@ -1637,7 +1636,6 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 5. Dalyvaujantys byloje asmenys privalo pirmame teismui pateikiamame procesiniame dokumente nurodyti, ar byloje dalyvaus patys, ar ves bylą per atstovą.
 
 
- 
 
 
 6. Atstovas ir atstovaujamasis privalo nedelsdami pranešti teismui apie atstovavimo santykių pabaigą ar pasikeitimą. Jeigu dėl šios pareigos neįvykdymo arba netinkamo įvykdymo prireikia atidėti bylos nagrinėjimą, teismas gali atstovui ir (arba) atstovaujamajam skirti baudą iki dviejų šimtų aštuoniasdešimt devynių eurų.
@@ -2809,7 +2807,10 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-3. Žyminį mokestį grąžina Valstybinė mokesčių inspekcija remdamasi teismo nutartimi.
+3. Žyminį mokestį grąžina Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) remdamasi teismo nutartimi. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -5820,7 +5821,11 @@ Nereikia įrodinėti aplinkybių:
 
 
 
-3) asmens nusikalstamų veiksmų pasekmių, nustatytų įsiteisėjusiu teismo nuosprendžiu baudžiamojoje byloje (prejudiciniai faktai);
+3) asmens nusikalstamų veikų padarinių, nustatytų įsiteisėjusiu teismo nuosprendžiu baudžiamojoje byloje, ar administracinio nusižengimo padarinių, nustatytų įsiteisėjusiu teismo nutarimu (prejudiciniai faktai); 
+TAR pastaba. 182 straipsnio 3 punkto nuostatos taikomos ir įsiteisėjusiu teismo nutarimu nustatytoms administracinio teisės pažeidimo, numatyto Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas), pasekmėms.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -5995,7 +6000,11 @@ Liudytojų parodymai
 2. Negali būti apklausiami kaip liudytojai:
 
 
-1) atstovai civilinėje ir administracinėje byloje ar gynėjai baudžiamojoje byloje – apie aplinkybes, kurias jie sužinojo, būdami atstovu ar gynėju;
+1) atstovai civilinėje, administracinėje ar administracinio nusižengimo byloje ar gynėjai baudžiamojoje byloje – apie aplinkybes, kurias jie sužinojo būdami atstovu ar gynėju; 
+TAR pastaba. 189 straipsnio 2 dalies 1 punkto nuostatos taikomos ir atstovams administracinio teisės pažeidimo, numatyto Administracinių teisės pažeidimų kodekse, bylose.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -7962,16 +7971,18 @@ Priteisdamas turtą natūra, teismas sprendime nurodo turto vertę, kuri turi b�
 
 
 
-2. Teismas, nagrinėdamas klausimus, susijusius su savavališkos statybos padarinių šalinimu ar statybos pagal neteisėtai išduotą statybą leidžiantį dokumentą padarinių šalinimu, gali priimti sprendimus, nurodytus statybų santykius reglamentuojančiuose teisės aktuose.
+2. Teismas, nagrinėdamas klausimus, susijusius su statybos pažeidžiant teisės aktų reikalavimus padarinių šalinimu, gali priimti sprendimus, nurodytus statybų santykius reglamentuojančiuose teisės aktuose.
 
 
 
 
-3. Jeigu nurodytus veiksmus gali atlikti arba nutraukti tik atsakovas, tai teismas sprendime nustato terminą, per kurį sprendimas turi būti įvykdytas, ir nurodo, kokio dydžio bauda atsakovui yra skiriama, jeigu jis per nustatytą terminą neįvykdys sprendimo ar nenutrauks nurodytų veiksmų.
+3. Jeigu nurodytus veiksmus gali atlikti arba nutraukti tik atsakovas arba jeigu atsakovas įpareigojamas pašalinti statybos pažeidžiant teisės aktų reikalavimus padarinius, teismas sprendime nustato terminą, per kurį sprendimas turi būti įvykdytas, ir nurodo, kokio dydžio bauda atsakovui yra skiriama, jeigu jis per nustatytą terminą neįvykdys sprendimo ar nenutrauks nurodytų veiksmų.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2580, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20333
  
 
 
@@ -11241,7 +11252,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-2. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos. Teismas per tris darbo dienas po teismo sprendimo nutraukti santuoką ar pripažinti santuoką negaliojančia įsiteisėjimo dienos privalo išsiųsti sprendimo patvirtintą kopiją teismo buvimo vietos civilinės metrikacijos įstaigai, kad ši įregistruotų santuokos nutraukimo faktą.
+2. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nutraukti santuoką ar pripažinti santuoką negaliojančia įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų santuokos nutraukimą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 Straipsnio pakeitimai:
@@ -11345,7 +11360,10 @@ Teismas nutraukia bylą, jeigu:
 
 
 
-2) atsakovas kreipiasi į civilinės metrikacijos įstaigą su pareiškimu dėl tėvystės pripažinimo ir civilinės metrikacijos įstaiga įregistruoja atsakovą vaiko tėvu.
+2) atsakovas pripažįsta tėvystę Civilinio kodekso nustatyta tvarka ir civilinės metrikacijos įstaiga įregistruoja atsakovą vaiko tėvu.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio punkto pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
  
 
 
@@ -11379,7 +11397,11 @@ Teismas nutraukia bylą, jeigu:
 
 
 
-2. Teismas per tris darbo dienas po teismo sprendimo nustatyti tėvystę įsiteisėjimo dienos privalo išsiųsti sprendimo patvirtintą kopiją civilinės metrikacijos įstaigai, įregistravusiai vaiko gimimą, kad ši įregistruotų tėvystės nustatymą.
+2. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nustatyti tėvystę įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų tėvystės nustatymą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 Straipsnio pakeitimai:
@@ -11465,11 +11487,14 @@ Nagrinėjant ginčus dėl tėvystės (motinystės) nuginčijimo, būtina, kad da
 399 straipsnis. Teismo sprendimas
 
 
-Teismas per tris darbo dienas po teismo sprendimo nuginčyti tėvystę (motinystę) įsiteisėjimo dienos privalo išsiųsti sprendimo patvirtintą kopiją vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai, kad ši išregistruotų tėvystę (motinystę).
+Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nuginčyti tėvystę (motinystę) įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų tėvystės (motinystės) nuginčijimą.
 
 
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
  
 
 
@@ -11713,7 +11738,6 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 3. Teismas turi įspėti šalis apie teismo teisę viršyti pareikštus reikalavimus ir taikyti įstatymuose numatytą alternatyvų darbuotojo teisių ar teisėtų interesų gynimo būdą.
- 
 
 
 
@@ -12518,7 +12542,7 @@ BYLŲ DĖL TEISMO ĮSAKYMO IŠDAVIMO NAGRINĖJIMO YPATUMAI
 
 
 
-4) skolininko gyvenamoji ir darbo vietos yra nežinomos.
+4) skolininko gyvenamoji ir darbo vietos yra nežinomos;
 
 
 
@@ -13410,7 +13434,7 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 44110 straipsnis. Grupės ieškinio ir individualių ieškinių santykis
 
 
-Kai iki  galutinio grupės sąrašo patvirtinimo pagal šio Kodekso 4418 straipsnio 5 dalį buvo pareikštas tapačiomis arba panašiomis faktinėmis aplinkybėmis grindžiamas individualus ieškinys, kuriame keliami tapatūs arba panašūs reikalavimai tam pačiam atsakovui ir siekiama tuo pačiu teisinės gynybos būdu apginti materialines teises ar įstatymų saugomus interesus, ieškovas savo iniciatyva arba teismo siūlymu gali pasinaudoti šio Kodekso 139 straipsnyje numatyta teise atsiimti ieškinį ir tapti grupės nariu pagal šio Kodekso 4418 straipsnyje nustatytas taisykles. Šiuo atveju, jeigu grupės ieškinį nagrinėjantis teismas patvirtina asmenį grupės nariu, ieškovo individualus reikalavimas paliekamas nenagrinėtas teismo iniciatyva be atsakovo sutikimo.
+Kai iki  galutinio grupės sąrašo patvirtinimo pagal šio Kodekso 4418 straipsnio 5 dalį buvo pareikštas tapačiomis arba panašiomis faktinėmis aplinkybėmis grindžiamas individualus ieškinys, kuriame keliami tapatūs arba panašūs reikalavimai tam pačiam atsakovui ir siekiama tuo pačiu teisinės gynybos būdu apginti materialines teises ar įstatymų saugomus interesus, ieškovas savo iniciatyva arba teismo siūlymu gali pasinaudoti šio Kodekso 139 straipsnyje numatyta teise atsiimti ieškinį ir tapti grupės nariu pagal šio Kodekso 4418 straipsnyje nustatytas taisykles. Šiuo atveju, jeigu grupės ieškinį nagrinėjantis teismas patvirtina asmenį grupės nariu, ieškovo individualus reikalavimas paliekamas nenagrinėtas teismo iniciatyva be atsakovo sutikimo.
  
 
 
@@ -13776,12 +13800,20 @@ nustatymO
 
 
 
-3) dėl gimimo, įvaikinimo, santuokos sudarymo ar nutraukimo, partnerystės, mirties įregistravimo fakto nustatymo ar kitų civilinės būklės aktų;
+3) dėl gimimo, įvaikinimo, santuokos sudarymo ar nutraukimo, mirties įregistravimo fakto nustatymo ar kitų civilinės būklės aktų; 
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio punkto pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
 
-4) dėl fakto, kad teisę nustatantys dokumentai, išskyrus asmens dokumentą, patvirtinantį asmens tapatybę, ir civilinės metrikacijos įstaigų išduodamus liudijimus, priklauso asmeniui, kurio vardas, pavardė ar tėvo vardas, nurodyti dokumente, nesutampa su to asmens dokumente, patvirtinančiame jo tapatybę, ar gimimo liudijime nurodytais vardu, pavarde ar tėvo vardu, nustatymo;
+4) dėl fakto, kad teisę nustatantys dokumentai, išskyrus asmens dokumentą, patvirtinantį asmens tapatybę, ir civilinės metrikacijos įstaigų išduodamus liudijimus (civilinės būklės aktų įrašus liudijančius išrašus), priklauso asmeniui, kurio vardas, pavardė ar tėvo vardas, nurodyti dokumente, nesutampa su to asmens dokumente, patvirtinančiame jo tapatybę, ar gimimo liudijime (gimimo įraše) nurodytais vardu, pavarde ar tėvo vardu, nustatymo;
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio punkto pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -13873,6 +13905,15 @@ Pareiškime turi būti nurodoma:
 
 
 2. Įsiteisėjęs teismo sprendimas nustatyti faktą, kuris turi būti įregistruotas civilinės metrikacijos įstaigoje arba įformintas kitose institucijose, yra pagrindas šį faktą ten įregistruoti arba įforminti, tačiau neprilygsta tų institucijų išduodamiems dokumentams.
+
+
+
+
+3. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nustatyti faktą, kuris turi būti įregistruotas civilinės metrikacijos įstaigoje, įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti teismo buvimo vietos civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų teismo sprendimu nustatytą faktą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Papildyta straipsnio dalimi:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -14040,7 +14081,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 453 straipsnis. Teismo sprendimas
 
 
-1. Teismo sprendimas paskelbti asmenį mirusiu yra pagrindas teismo buveinės vietos civilinės metrikacijos įstaigai įrašyti į civilinės metrikacijos knygą mirties įrašą.
+1. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo paskelbti asmenį mirusiu įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti teismo buvimo vietos civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų asmens mirtį.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -14225,6 +14270,15 @@ Jeigu byla nagrinėjama žodinio proceso tvarka, į teismo posėdį šaukiami as
 
 
 3. Jeigu fizinis asmuo, kuris teismo sprendimu paskelbtas mirusiu ar pripažintas nežinia kur esančiu, pats atvyksta į teismą ir patvirtina savo tapatybę, teismas rašytinio proceso tvarka nutartimi nedelsdamas panaikina sprendimą.
+
+
+
+
+4. Teismas ne vėliau kaip kitą darbo dieną po teismo nutarties panaikinti teismo sprendimą paskelbti fizinį asmenį mirusiu įsiteisėjimo dienos privalo šią nutartį elektroninių ryšių priemonėmis išsiųsti teismo buvimo vietos civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka anuliuotų mirties įrašą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Papildyta straipsnio dalimi:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -14680,7 +14734,11 @@ Teismas, rengdamasis nagrinėti bylą:
 
 
 
-2) išreikalauja duomenis, ar nepilnametis nėra teistas ar įvykdęs administracinių ir kitų teisės pažeidimų;
+2) išreikalauja duomenis, ar nepilnametis nėra teistas ar įvykdęs administracinių nusižengimų ir kitų teisės pažeidimų; 
+TAR pastaba. 476 straipsnio 2 punkto nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -15038,12 +15096,19 @@ Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 
 
-5. Įsiteisėjęs teismo sprendimas įvaikinti per tris darbo dienas išsiunčiamas civilinės metrikacijos įstaigai, kuri yra įregistravusi vaiko gimimą.
+5. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo įvaikinti įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų įvaikinimą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
 
-6. Teismo sprendimas įvaikinti yra pagrindas civilinės būklės aktų įrašų įstaigai pakeisti įvaikio gimimo įrašą ir išduoti naują gimimo liudijimą.
+6. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -15531,7 +15596,10 @@ Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 
 
-2. Priėmęs valstybinės vaiko teisių apsaugos institucijos pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo, teismas, jeigu globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių kitų asmenų ar šeimynos narių teistumą ir administracinės teisės pažeidimus.
+2. Priėmęs valstybinės vaiko teisių apsaugos institucijos pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo, teismas, jeigu globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių kitų asmenų ar šeimynos narių teistumą ir padarytus administracinius nusižengimus. 
+TAR pastaba. 501 straipsnio 2 dalies nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
  
 
 
@@ -15696,7 +15764,11 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-3. Jeigu reikalinga skirti globėją ar rūpintoją, teismas išreikalauja duomenis apie asmens, rekomenduojamo paskirti globėju ar rūpintoju, teistumą ir administracinės teisės pažeidimus.
+3. Jeigu reikalinga skirti globėją ar rūpintoją, teismas išreikalauja duomenis apie asmens, rekomenduojamo paskirti globėju ar rūpintoju, teistumą ir padarytus administracinius nusižengimus. 
+TAR pastaba. 506 straipsnio 3 dalies nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -15810,7 +15882,11 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-5. Teismas, rengdamasis nagrinėti bylą, išreikalauja duomenis apie asmens, rekomenduojamo paskirti rūpintoju, teistumą ir administracinius teisės pažeidimus.
+5. Teismas, rengdamasis nagrinėti bylą, išreikalauja duomenis apie asmens, rekomenduojamo paskirti rūpintoju, teistumą ir padarytus administracinius nusižengimus. 
+TAR pastaba. 509 straipsnio 5 dalies nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -15970,7 +16046,11 @@ Bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo
 514 straipsnis. Pareiškimo padavimas 
 
 
-1. Pareiškimas dėl civilinės būklės akto registravimo, akto įrašo atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo paduodamas pareiškėjo gyvenamosios vietos apylinkės teismui.
+1. Pareiškimas dėl civilinės būklės akto registravimo, akto įrašo atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo paduodamas civilinės metrikacijos įstaigos, atsisakiusios registruoti civilinės būklės aktą, atkurti, papildyti, pakeisti, ištaisyti ar anuliuoti civilinės būklės akto įrašą, buveinės apylinkės teismui. Pareiškimas dėl Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos atsisakymo registruoti civilinės būklės aktą paduodamas Lietuvos Respublikos užsienio reikalų ministerijos buveinės apylinkės teismui ir nagrinėjamas mutatis mutandis taikant šio skyriaus nuostatas.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -16013,6 +16093,15 @@ Pareiškimą dėl civilinės būklės akto įregistravimo, akto įrašo atkūrim
 
 
 2. Teismo sprendimo rezoliucinėje dalyje turi būti nurodyta, kuri civilinės metrikacijos įstaiga turi įrašą padaryti, atkurti, papildyti, pakeisti, ištaisyti ar anuliuoti, kada įrašas padarytas, su kuriais asmenimis jis susijęs, įrašo numeris ir data, koks įrašas turi būti padarytas, atkurtas ar anuliuotas arba kas turi būti įraše papildyta, pakeista ar ištaisyta.
+
+
+
+
+3. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo įregistruoti civilinės būklės aktą, atkurti, papildyti, pakeisti, ištaisyti ar anuliuoti civilinės būklės akto įrašą įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti jame nurodytai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų civilinės būklės aktą, atkurtų, papildytų, pakeistų, ištaisytų ar anuliuotų civilinės būklės akto įrašą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Papildyta straipsnio dalimi:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 
@@ -16605,7 +16694,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-3. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos. Teismas per tris darbo dienas po teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo išsiųsti sprendimo patvirtintą kopiją teismo buvimo vietos civilinės metrikacijos įstaigai, kad ši įregistruotų santuokos nutraukimo faktą.
+3. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai, kad ši Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka įregistruotų santuokos nutraukimą.
+TAR pastaba. Iki įstatymo Nr. XII-2113 įsigaliojimo (2017-01-01) pradėtos nagrinėti bylos dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis bylų dėl civilinės būklės aktų registravimo, įrašų atkūrimo, pakeitimo, papildymo, ištaisymo ar anuliavimo nagrinėjimą reglamentuojančiomis nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
+ 
 
 
 Straipsnio pakeitimai:
@@ -17265,7 +17358,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-3) teismo nutarimai administracinėse bylose tiek, kiek jie susiję su turtinio pobūdžio išieškojimais; 
+3) teismo nutarimai administracinių nusižengimų bylose tiek, kiek jie susiję su turtinio pobūdžio išieškojimais; 
+TAR pastaba. 584 straipsnio 1 dalies 3 punkto nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, bylose.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -17285,7 +17382,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 2. Pagal šio Kodekso VI dalyje numatytas taisykles taip pat vykdomi: 
 
 
-1) institucijų ir pareigūnų nutarimai administracinių teisės pažeidimų bylose tiek, kiek jie susiję su turtinio pobūdžio išieškojimais;
+1) institucijų ir pareigūnų nutarimai administracinių nusižengimų bylose tiek, kiek jie susiję su turtinio pobūdžio išieškojimais; 
+TAR pastaba. 584 straipsnio 2 dalies 1 punkto nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, bylose.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -17390,7 +17491,11 @@ Vykdomieji dokumentai yra:
 
 
 
-6) institucijų ir pareigūnų nutarimai administracinių teisės pažeidimų bylose tiek – kiek jie susiję su turtinio pobūdžio išieškojimais;
+6) institucijų ir pareigūnų nutarimai administracinių nusižengimų bylose tiek – kiek jie susiję su turtinio pobūdžio išieškojimais; 
+TAR pastaba. 587 straipsnio 6 punkto nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, bylose.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -18934,7 +19039,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-2. Kai pagal vykdomąjį dokumentą turi būti išieškoma į valstybės biudžetą, valstybei atstovauja valstybinė mokesčių inspekcija, išskyrus atvejus, kai įstatymuose nustatyti kiti subjektai.
+2. Kai pagal vykdomąjį dokumentą turi būti išieškoma į valstybės biudžetą, valstybei atstovauja Valstybinė mokesčių inspekcija, išskyrus atvejus, kai įstatymuose nustatyti kiti subjektai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 Straipsnio pakeitimai:
@@ -19380,7 +19488,11 @@ XLV SKYRIUS VYKDOMŲJŲ DOKUMENTŲ PATEIKIMO IR  PRIĖMIMO VYKDYTI TVARKA
 
 
 
-2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, išieškotojas, institucija ar pareigūnai administracinių teisės pažeidimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą.
+2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, Valstybinė mokesčių inspekcija administracinių nusižengimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą. 
+TAR pastaba. 650 straipsnio 2 dalies nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 Straipsnio pakeitimai:
@@ -19431,7 +19543,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-7) ar išieškotojas, institucija ar pareigūnai administracinių teisės pažeidimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymą civilinio proceso tvarka nustato įstatymai, patikrino, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka;
+7) ar Valstybinė mokesčių inspekcija administracinių nusižengimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymą civilinio proceso tvarka nustato įstatymai, patikrino, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka; 
+TAR pastaba. 651 straipsnio 2 dalies 7 punkto nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
+Straipsnio punkto pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 
@@ -20402,7 +20518,10 @@ Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 
 
 
-9. Piniginių lėšų apribojimų informacinės sistemos tvarkytojas gauna iš Valstybinės mokesčių inspekcijos prie Finansų ministerijos informaciją apie Lietuvos ir užsienio juridinių asmenų (jų filialų ir atstovybių) bei fizinių asmenų atidarytas ir uždarytas sąskaitas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose.
+9. Piniginių lėšų apribojimų informacinės sistemos tvarkytojas gauna iš Valstybinės mokesčių inspekcijos informaciją apie Lietuvos ir užsienio juridinių asmenų (jų filialų ir atstovybių) bei fizinių asmenų atidarytas ir uždarytas sąskaitas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
 
 
 Straipsnio pakeitimai:
@@ -20446,7 +20565,9 @@ TURTO REALIZAVIMO TVARKA
 
 
 
-2. Areštuotą turtą, atsižvelgiant į arešto pagrindus ir turto rūšis, įstatymų nustatyta tvarka realizuoja antstolis, Valstybinės mokesčių inspekcijos įstaigos, vertybinių popierių viešosios apyvartos tarpininkai ir prekybos įmonės.
+2. Areštuotą turtą, atsižvelgiant į arešto pagrindus ir turto rūšis, įstatymų nustatyta tvarka realizuoja antstolis, Valstybinė mokesčių inspekcija, vertybinių popierių viešosios apyvartos tarpininkai ir prekybos įmonės. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
  
 
 
@@ -21625,7 +21746,10 @@ Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
 
 
 
-7) pensijų.
+7) pensijų, išskyrus mokamas pagal Lietuvos Respublikos šalpos pensijų įstatymą (toliau – Šalpos pensijų įstatymas).
+Straipsnio punkto pakeitimai:
+Nr. XII-2518, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20310
+ 
 
 
 
@@ -21637,14 +21761,16 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-738 straipsnis. Išieškojimas iš socialinio draudimo pašalpų ir išmokų
+738 straipsnis. Išieškojimas iš socialinio draudimo išmokų
 
 
-Iš laikinojo nedarbingumo atvejais mokamų socialinio draudimo pašalpų, nedarbo socialinio draudimo išmokų išieškoti galima tik pagal teismo sprendimą dėl išlaikymo išieškojimo ir pagal teismo sprendimą dėl žalos, padarytos suluošinimu ar kitaip sužalojus sveikatą, taip pat atėmus maitintojo gyvybę, atlyginimo.
+Iš laikinojo nedarbingumo atvejais mokamų socialinio draudimo išmokų, nedarbo socialinio draudimo išmokų išieškoti galima tik pagal teismo sprendimą dėl išlaikymo išieškojimo ir pagal teismo sprendimą dėl žalos, padarytos suluošinimu ar kitaip sužalojus sveikatą, taip pat atėmus maitintojo gyvybę, atlyginimo.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2518, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20310
  
 
 
@@ -21666,12 +21792,12 @@ Negalima išieškoti iš sumų, kurios priklauso skolininkui kaip:
 
 
 
-3) valstybinio socialinio draudimo motinystės, tėvystės ir motinystės (tėvystės) pašalpos;
+3) motinystės, tėvystės ir vaiko priežiūros išmokos;
 
 
 
 
-4) išmokos vaikams, mokamos pagal Išmokų vaikams įstatymą;
+4) išmokos vaikams, mokamos pagal Lietuvos Respublikos išmokų vaikams įstatymą;
 
 
 
@@ -21681,18 +21807,26 @@ Negalima išieškoti iš sumų, kurios priklauso skolininkui kaip:
 
 
 
-6) išmokos, mokamos pagal Valstybinių šalpos išmokų įstatymą, ir kitos tikslinės socialinės išmokos, pašalpos ir kompensacijos iš valstybės ir savivaldybių biudžetų nepasiturinčioms šeimoms ar asmenų socialinei paramai;
+6) išmokos, mokamos pagal Šalpos pensijų įstatymą ir Lietuvos Respublikos tikslinių kompensacijų įstatymą, ir kitos tikslinės socialinės išmokos, pašalpos ir kompensacijos iš valstybės ir savivaldybių biudžetų nepasiturinčių gyventojų socialinei paramai;
 
 
 
 
-7) išeitinės išmokos.
+7) valstybinė socialinio draudimo našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinio socialinio draudimo pensijų įstatymą, valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinių pensijų įstatymą, pareigūnų ir karių valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą, valstybinė signataro našlaičių renta, Respublikos Prezidento našlaičių valstybinė renta;
+
+
+
+
+8) išeitinės išmokos. 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2518, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20310
+Nr. XIII-140, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29844
  
 
 
@@ -22493,52 +22627,74 @@ Vykdant sprendimus dėl garbės ir orumo gynimo, taikomos Civilinio kodekso 2.2
 
 
 
-771 straipsnis. Sprendimų, įpareigojančių skolininką atlikti arba nutraukti tam tikrus veiksmus, įvykdymas 
+771 straipsnis. Sprendimų, įpareigojančių skolininką atlikti arba nutraukti tam tikrus veiksmus, ir privalomųjų nurodymų įvykdymas
 
 
-1. Jeigu neįvykdytas sprendimas, įpareigojantis skolininką atlikti arba nutraukti tam tikrus veiksmus, nesusijusius su turto ar lėšų perdavimu, antstolis apie tai surašo Sprendimų vykdymo instrukcijoje nustatytos formos aktą. 
-
-
-
-
-2. Jeigu sprendime yra nurodytos sprendimo neįvykdymo pasekmės, numatytos šio Kodekso 273 straipsnyje, surašytas aktas perduodamas antstolio kontoros buveinės vietos apylinkės teismui, o šis priima nutartį taikyti sprendime nurodytas pasekmes, kadangi skolininkas neatliko tam tikrų veiksmų.
+1. Jeigu neįvykdytas sprendimas, įpareigojantis skolininką atlikti arba nutraukti tam tikrus veiksmus, nesusijusius su turto ar lėšų perdavimu, arba jeigu neįvykdytas privalomasis nurodymas, kuris pagal Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymą yra vykdomasis dokumentas, antstolis apie tai surašo Sprendimų vykdymo instrukcijoje nustatytos formos aktą.
 
 
 
 
-3. Jeigu sprendime nenurodytos sprendimo neįvykdymo pasekmės, surašytasis aktas perduodamas priėmusiam sprendimą teismui, o šis išsprendžia sprendimo vykdymo tvarkos pakeitimo klausimą pagal šio Kodekso 284 straipsnyje numatytas taisykles. 
+2. Jeigu sprendime yra nurodytos sprendimo neįvykdymo pasekmės, numatytos šio Kodekso 273 straipsnyje, arba jeigu privalomajame nurodyme yra nurodytos jo neįvykdymo pasekmės, surašytas aktas perduodamas antstolio kontoros buveinės vietos apylinkės teismui, o šis priima nutartį taikyti sprendime arba privalomajame nurodyme nurodytas pasekmes, kadangi skolininkas neatliko tam tikrų veiksmų.
 
 
 
 
-4. Jeigu nagrinėjant klausimą dėl sprendimo neįvykdymo paaiškėja, kad išieškotojas neturi lėšų sprendimui įvykdyti, teismas išieškotojo prašymu priima nutartį išieškoti reikiamas lėšas iš skolininko. 
+3. Jeigu sprendime nenurodytos sprendimo neįvykdymo pasekmės, surašytasis aktas perduodamas priėmusiam sprendimą teismui, o šis išsprendžia sprendimo vykdymo tvarkos pakeitimo klausimą pagal šio Kodekso 284 straipsnyje numatytas taisykles.
 
 
 
 
-5. Jeigu per teismo nustatytą terminą neįvykdytas sprendimas, įpareigojąs skolininką atlikti arba nutraukti tam tikrus veiksmus, kuriuos gali atlikti arba nutraukti tiktai pats skolininkas, surašytą aktą antstolis perduoda antstolio kontoros buveinės vietos apylinkės teismui. Sprendimo neįvykdymo klausimas išsprendžiamas teismo posėdyje. Apie teismo posėdžio laiką ir vietą pranešama išieškotojui ir skolininkui, tačiau jų neatvykimas nekliudo išnagrinėti klausimą, kodėl neįvykdytas sprendimas. Teismas, nustatęs, kad skolininkas sprendimo neįvykdė, gali jam skirti iki dviejų šimtų aštuoniasdešimt devynių eurų baudą už kiekvieną uždelstą įvykdyti sprendimą dieną išieškotojo naudai.
-Straipsnio dalies pakeitimai:
-Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
+4. Jeigu privalomajame nurodyme nenurodytos jo neįvykdymo pasekmės, surašytą aktą antstolis perduoda šio straipsnio 6 dalyje nurodytam teismui, o šis privalomojo nurodymo neįvykdymo klausimą sprendžia šio straipsnio 6 dalyje nustatyta tvarka. 
+
+
+
+
+5. Jeigu nagrinėjant klausimą dėl sprendimo ar privalomojo nurodymo neįvykdymo paaiškėja, kad išieškotojas neturi lėšų sprendimui ar privalomajam nurodymui įvykdyti, teismas išieškotojo prašymu priima nutartį išieškoti reikiamas lėšas iš skolininko.
+
+
+
+
+6. Jeigu per teismo nustatytą terminą neįvykdytas sprendimas, įpareigojęs skolininką atlikti arba nutraukti tam tikrus veiksmus, kuriuos gali atlikti arba nutraukti tiktai pats skolininkas, ar sprendimas, įpareigojęs pašalinti statybos pažeidžiant teisės aktų reikalavimus padarinius, arba jeigu per nustatytą terminą neįvykdytas privalomasis nurodymas ar nevykdomas privalomasis nurodymas, kurio įvykdymo terminas nenustatytas, surašytą aktą antstolis perduoda antstolio kontoros buveinės vietos apylinkės teismui. Sprendimo arba privalomojo nurodymo neįvykdymo klausimas išsprendžiamas teismo posėdyje. Apie teismo posėdžio laiką ir vietą pranešama išieškotojui ir skolininkui, tačiau jų neatvykimas nekliudo išnagrinėti klausimą, kodėl neįvykdytas sprendimas ar privalomasis nurodymas. Teismas, nustatęs, kad skolininkas sprendimo arba privalomojo nurodymo neįvykdė, gali jam skirti iki trijų šimtų eurų baudą už kiekvieną uždelstą įvykdyti sprendimą arba privalomąjį nurodymą dieną išieškotojo naudai.
+
+
+
+
+7. Jeigu skolininkas antrą kartą ir daugiau kartų pažeidžia sprendimui įvykdyti nustatytus terminus ar toliau nevykdo privalomojo nurodymo, teismas skolininkui vėl pritaiko priemones, numatytas šio straipsnio 6 dalyje. Baudos sumokėjimas neatleidžia skolininko nuo pareigos atlikti arba nutraukti teismo sprendime ar privalomajame nurodyme numatytus veiksmus.
+
+
+
+
+8. Tuo atveju, kai sprendimo, įpareigojančio atlikti arba nutraukti tam tikrus veiksmus, nesusijusius su turto ar lėšų perdavimu, arba privalomojo nurodymo neįvykdo juridinis asmuo, priemones, numatytas šio straipsnio 6 ir 7 dalyse, teismas gali pritaikyti juridinio asmens vadovui arba kitam už sprendimo ar privalomojo nurodymo įvykdymą atsakingam asmeniui.
+
+
+
+
+9. Dėl nutarčių šiame straipsnyje nurodytais klausimais gali būti duodamas atskirasis skundas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XII-2580, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20333
  
 
 
 
 
-6. Jeigu skolininkas antrą kartą ir daugiau kartų pažeidžia sprendimui įvykdyti nustatytus terminus, teismas vėl pritaiko skolininkui priemones, numatytas šio straipsnio 5 dalyje. Baudos sumokėjimas skolininko neatleidžia nuo pareigos atlikti arba nutraukti teismo sprendime numatytus veiksmus. 
+7711 straipsnis. Griautiname statinyje ar ardytinoje jo dalyje esančių kliūčių pašalinimas ir turto apsauga
+
+
+1. Jeigu vykdant savavališkai pastatyto statinio griovimą (ar jo dalies ardymą) paaiškėja, kad statinyje ar jo dalyje yra asmenų, antstolis veikia šio Kodekso 585 straipsnio 2 dalyje nustatyta tvarka. Šiuo atveju policijos dalyvavimas būtinas.
 
 
 
 
-7. Tuo atveju, kai sprendimo, įpareigojančio atlikti arba nutraukti tam tikrus veiksmus, nesusijusius su turto ar lėšų perdavimu, neįvykdo juridinis asmuo, priemones, numatytas šio straipsnio 5 ir 6 dalyse, teismas gali pritaikyti juridinio asmens vadovui arba kitam už sprendimo įvykdymą atsakingam asmeniui.
+2. Jeigu vykdant teismo sprendimus ar privalomuosius nurodymus dėl statybos pažeidžiant teisės aktų reikalavimus griautiname statinyje ar ardytinoje jo dalyje yra turto ir skolininkas jo nepasiima, šis turtas saugomas (aprašomas, įkainojamas, perduodamas) ir realizuojamas šio Kodekso 766 straipsnyje nustatyta tvarka.
 
 
-
-
-8. Dėl nutarčių šiame straipsnyje nurodytais klausimais gali būti duodamas atskirasis skundas.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Papildyta straipsniu:
+Nr. XII-2580, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20333
  
 
 
@@ -23990,3 +24146,18 @@ Lietuvos Respublikos civilinio proceso kodekso 34, 62, 111, 130, 134, 154, 220-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
 Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir 366 straipsnių pakeitimo įstatymo Nr. XII-1772 4 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+Lietuvos Respublikos civilinio proceso kodekso 87, 182, 189, 476, 501, 506, 509, 584, 587, 638, 650, 651, 689 ir 691 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Lietuvos Respublikos civilinio proceso kodekso pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-140, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29844
+Lietuvos Respublikos civilinio proceso kodekso 737, 738 ir 739 straipsnių pakeitimo įstatymo Nr. XII-2518 3 straipsnio pakeitimo įstatymas
