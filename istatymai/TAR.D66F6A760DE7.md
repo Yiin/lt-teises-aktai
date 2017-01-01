@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
+ 
+TAR pastaba. Uosto žemės naudotojai, įgiję leidimus vykdyti veiklą ar veiklas laisvajame uoste iki įstatymo Nr. XII-2540 įsigaliojimo (2017-01-01), laisvajame uoste gali verstis ūkine ir komercine veikla jų leidimuose nustatytais terminais. Įsigaliojus šiam įstatymui, prašymai vykdyti veiklą laisvajame uoste, kurie buvo pateikti iki šio įstatymo įsigaliojimo ir kurių Lietuvos Respublikos susisiekimo ministerija nespėjo išnagrinėti, prilyginami deklaracijoms dėl uosto žemės naudotojų atitikties ir uosto žemės naudotojas įgyja teisę vykdyti veiklą laisvajame uoste nuo to momento, kai Lietuvos Respublikos susisiekimo ministerijai jis pateikia pasirašytos (galiojančios) sutarties su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos ar Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga dėl prekių muitinės priežiūros laisvajame uoste kopiją.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 7, 10, 14, 17, 18, 21, 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir 13, 15, 20 straipsnių pripažinimo netekusiais galios įstatymas
  
  
 LIETUVOS RESPUBLIKOS
@@ -32,19 +37,21 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo tikslas, paskirtis ir taikymas
 
 
-1. Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas reguliuoja Klaipėdos valstybinio jūrų uosto (toliau - uostas) veiklą bei valdymą.
+1. Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas reguliuoja Klaipėdos valstybinio jūrų uosto (toliau – uostas) veiklą ir valdymą. 
 
 
 
 
-2. Kitų Lietuvos Respublikos jūrų uostų, naftos bei chemijos produktų terminalų, neįeinančių į jūrų uostų teritorijas, veiklą bei valdymą reguliuoja kiti Lietuvos Respublikos įstatymai, o iki jų įsigaliojimo - Lietuvos Respublikos Vyriausybės nutarimai.
+2. Uosto ir uosto naudotojų veiklą reglamentuojantys kiti Lietuvos Respublikos įstatymai taikomi tiek, kiek šios veiklos nereglamentuoja šis įstatymas.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
+Straipsnio pakeitimai:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
  
 
 
@@ -102,7 +109,10 @@ Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
 
 
 
-9. Laisvasis uostas – nuo uosto teritorijos atskirta uosto teritorijos dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, Muitinės kodekso ar kitų teisės aktų.
+9. Laisvasis uostas – nuo uosto teritorijos atskirta uosto teritorijos dalis, kurioje ne Bendrijos prekės importo muitų, mokesčių, ekonominių draudimų ir apribojimų požiūriu laikomos esančiomis ne Bendrijos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos į laisvą apyvartą, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo ir muitų teisės aktų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+ 
 
 
 
@@ -303,7 +313,9 @@ Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 
 
 
-2. Kiti uoste esantys valstybės nuosavybės objektai gali būti privatizuojami pagal Valstybės ir savivaldybių turto privatizavimo įstatymą, suderinus su Susisiekimo ministerija.
+2. Kiti uoste esantys valstybės nuosavybės objektai gali būti parduodami pagal Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymą, tai suderinus su Susisiekimo ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
@@ -385,12 +397,14 @@ UOSTO VALDYMAS
 10 straipsnis. Uosto valdymas
 
 
-Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, jomis disponuoja ir naudoja Uosto direkcija savo įstatų, jos veiklą reglamentuojančių teisės aktų nustatyta tvarka ir sąlygomis. Uosto direkcija yra Lietuvos Respublikos Vyriausybės nutarimu įsteigta valstybės įmonė. Jos savininko teises ir pareigas įgyvendina Susisiekimo ministerija. Uosto direkcijos metinę pajamų ir išlaidų sąmatą  tvirtina susisiekimo ministras.
+Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, naudoja ir jomis disponuoja Uosto direkcija savo įstatų, jos veiklą reglamentuojančių teisės aktų nustatyta tvarka ir sąlygomis. Uosto direkcija yra Lietuvos Respublikos Vyriausybės nutarimu įsteigta valstybės įmonė. Jos savininko teises ir pareigas įgyvendina Susisiekimo ministerija.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
+Straipsnio pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
@@ -562,40 +576,48 @@ Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
  
 
 
-13 straipsnis. Laisvojo uosto steigimas
-
-
-Laisvasis uostas steigiamas Klaipėdos valstybinio jūrų uosto teritorijos dalyje, kurios ribas ir veiklos sąlygas nustato Lietuvos Respublikos Vyriausybė.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
-Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
-Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+13 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
 
 
-14 straipsnis. Laisvojo uosto įrengimo sutartis
+14 straipsnis. Laisvojo uosto steigimas ir įrengimas
 
 
-1. Uosto žemės naudotojas, norėdamas pradėti veiklą laisvajame uoste, su Uosto direkcija sudaro laisvojo uosto įrengimo sutartį.
-
-
-
-
-2. Laisvojo uosto įrengimo tvarka nustatoma laisvojo uosto įrengimo sutartyje.
+1. Laisvasis uostas steigiamas uosto žemės naudotojo Klaipėdos valstybinio jūrų uosto teritorijos dalyje, išsinuomotame uosto žemės sklype, dėl kurio uosto žemės naudotojas sudarė su Uosto direkcija uosto žemės nuomos sutartį tokiai laisvojo uosto veiklai vykdyti.
 
 
 
 
-3. Laisvojo uosto įrengimo sutarties formą nustato susisiekimo ministras, suderinęs su finansų ministru ir vidaus reikalų ministru.
+2. Uosto žemės naudotojas, pageidaujantis uosto teritorijoje išsinuomotame žemės sklype vykdyti laisvojo uosto veiklą, turi parengti laisvojo uosto įrengimo projektą, kuriame turi būti nurodyti visi statiniai (esami ir numatyti statyti, rekonstruoti ar atnaujinti statiniai, reikalingi laisvojo uosto veiklai vykdyti), taip pat numatytos muitinio tikrinimo ir prekių įvežimo į laisvąjį uostą ir išvežimo iš jo vietos (toliau – laisvojo uosto įrengimo projektas). Laisvojo uosto įrengimo projektas turi būti suderintas su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos (toliau – Muitinės departamentas) ar Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga ir, atsižvelgiant į numatomą vykdyti veiklą laisvajame uoste, su valstybės institucijomis, vykdančiomis atitinkamos numatomos vykdyti veiklos priežiūrą ir kontrolę. Kai laisvojo uosto įrengimo projekte nurodomi numatyti statyti, rekonstruoti ar atnaujinti statiniai, statybą reglamentuojančių teisės aktų nustatyta tvarka turi būti gauti statybą leidžiantys dokumentai. 
 
 
 
 
-4. Uosto žemės naudotojui, įvykdžiusiam visus laisvojo uosto įrengimo sutarties reikalavimus, šio įstatymo 17 straipsnio nustatyta tvarka išduodamas leidimas veiklai laisvajame uoste.
+3. Uosto žemės naudotojas, įvykdęs šio straipsnio 2 dalyje nurodytus reikalavimus, pagal laisvojo uosto įrengimo projektą ir gautus statybą leidžiančius dokumentus įrengia laisvąjį uostą, gauna statybos užbaigimo aktą ir (ar) deklaraciją apie statybos užbaigimą ir apie tai raštu informuoja Uosto direkciją. 
+
+
+
+
+4. Uosto direkcijos vadovas ne vėliau kaip per 15 darbo dienų nuo šio straipsnio 3 dalyje nurodytos informacijos gavimo sudaro laisvojo uosto priėmimo komisiją (toliau – priėmimo komisija), į kurią skiriami Uosto direkcijos ir šio straipsnio 2 dalyje nurodytų institucijų, su kuriomis buvo derintas laisvojo uosto įrengimo projektas, atstovai. Priėmimo komisiją sudaro ne mažiau kaip 5 nariai. Priėmimo komisijos pirmininku skiriamas Uosto direkcijos atstovas. Priėmimo komisija vertina, ar laisvasis uostas yra įrengtas pagal laisvojo uosto įrengimo projektą.
+
+
+
+
+5. Priėmimo komisijos nariai pagal kompetenciją per 20 darbo dienų nuo priėmimo komisijos sudarymo patikrina, ar laisvasis uostas yra įrengtas pagal laisvojo uosto įrengimo projektą, ir, jeigu nenustato trūkumų, pasirašo laisvojo uosto priėmimo aktą (toliau – priėmimo aktas). Priėmimo aktas per 2 darbo dienas nuo jo pasirašymo pateikiamas Susisiekimo ministerijai ir uosto žemės naudotojui.
+
+
+
+
+6. Jeigu priėmimo komisijos nariai nustato, kad laisvasis uostas neatitinka laisvojo uosto įrengimo projekto, jie tą pačią dieną surašo motyvuotą laisvojo uosto įrengimo trūkumų aktą (toliau – trūkumų aktas), nurodydami trūkumus, kuriuos uosto žemės naudotojas turi pašalinti. Trūkumų pašalinimo terminas trūkumų akte neribojamas. Uosto žemės naudotojas, pašalinęs nurodytus trūkumus, apie tai informuoja priėmimo komisiją ir pateikia tai patvirtinančius dokumentus. Priėmimo komisija, gavusi pranešimą apie pašalintus trūkumus, neviršydama šio straipsnio 5 dalyje nustatyto termino, patikrina, ar laisvasis uostas yra įrengtas pagal laisvojo uosto įrengimo projektą. Į šio straipsnio 5 dalyje nurodytą terminą neįskaitomas laikotarpis, per kurį uosto žemės naudotojas atlieka trūkumų akte nurodytų trūkumų šalinimą. Jeigu pakartotinio patikrinimo metu nustatoma, kad trūkumų akte nurodyti trūkumai nėra pašalinti, pakartotinai tą pačią dieną surašomas motyvuotas trūkumų aktas.
+
+
+
+
+7. Šiame straipsnyje nurodyti priėmimo komisijos priėmimo aktai ir trūkumų aktai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -603,21 +625,16 @@ Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
 Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Straipsnio pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
 
 
-15 straipsnis. Veikla laisvajame uoste
-
-
-Uosto žemės naudotojai veiklą laisvajame uoste vykdo tik gavę šio įstatymo 17 straipsnyje nurodytą leidimą veiklai laisvajame uoste.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
-Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
-Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+15 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
@@ -636,45 +653,159 @@ Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 
 
 
-17 straipsnis. Leidimas veiklai laisvajame uoste
+17 straipsnis. Teisės vykdyti veiklą laisvajame uoste įgijimas, jos sustabdymas, sustabdymo panaikinimas ir teisės vykdyti veiklą laisvajame uoste panaikinimas
 
 
-1. Uosto žemės naudotojai laisvajame uoste gali verstis ūkine ir komercine veikla tik gavę leidimą veiklai laisvajame uoste.
-
-
-
-
-2. Leidimo, suteikiančio jo turėtojui teisę verstis veikla laisvajame uoste, formą, jo išdavimo, galiojimo sustabdymo ir panaikinimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+1. Uosto žemės naudotojas kitą dieną po atitikties šio straipsnio 2 dalyje nurodytiems reikalavimams deklaravimo Susisiekimo ministerijai šio straipsnio 3 dalyje nustatyta tvarka dienos įgyja teisę vykdyti veiklą laisvajame uoste. Uosto žemės naudotojas laisvajame uoste gali verstis ūkine komercine veikla ne ilgesnį kaip uosto žemės nuomos sutarties galiojimo laikotarpį. 
 
 
 
 
-3. Uosto žemės naudotojai laisvajame uoste gali verstis tik leidime nurodyta veikla.
+2. Uosto žemės naudotojas, pageidaujantis įgyti teisę vykdyti veiklą laisvajame uoste ar vykdantis veiklą laisvajame uoste, turi atitikti šiuos reikalavimus:
+
+
+1) neturėti įsiskolinimų Lietuvos Respublikos valstybės biudžetui, Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetams, muitinei ir Uosto direkcijai (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas);
 
 
 
 
-4. Leidimus veiklai laisvajame uoste išduoda susisiekimo ministras.
+2) turėti atestuotų auditorių audituotas 2 paskutinių finansinių metų uosto žemės naudotojo finansinių ataskaitų audito ataskaitas (išskyrus atvejus, kai uosto žemės naudotojas veiklą uoste vykdo mažiau kaip 2 metus);
+
+
+
+
+3) turėti galiojantį priėmimo komisijos išduotą priėmimo aktą (išskyrus šio straipsnio 12 dalyje nurodytą atvejį);
+
+
+
+
+4) turėti galiojančią, su Uosto direkcija sudarytą žemės sklypo, kuriame bus steigiamas laisvasis uostas, nuomos sutartį;
+
+
+
+
+5) turėti galiojančią, su Muitinės departamentu ar Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga sudarytą sutartį dėl prekių muitinės priežiūros laisvajame uoste. Pavyzdinę šios sutarties formą nustato Muitinės departamentas. 
+
+
+
+
+
+
+3. Uosto žemės naudotojas, pageidaujantis įgyti teisę vykdyti veiklą laisvajame uoste, turi deklaruoti Susisiekimo ministerijai savo atitiktį šio straipsnio 2 dalyje nurodytiems reikalavimams – pateikti susisiekimo ministro nustatytos formos deklaraciją, laisvos formos numatomos vykdyti laisvajame uoste veiklos rūšių sąrašą ir dokumentų, pagrindžiančių atitiktį šio straipsnio 2 dalies reikalavimams, kopijas.
+
+
+
+
+4. Uosto žemės naudotojas laisvajame uoste gali verstis tik ta veikla, kurią deklaruoja šio straipsnio 3 dalyje nustatyta tvarka. Uosto žemės naudotojas gali keisti numatomų vykdyti laisvajame uoste veiklos rūšių sąrašą, tačiau apie tai turi būti deklaruojama Susisiekimo ministerijai šio straipsnio 3 dalyje nustatyta tvarka ir tokia veikla uosto žemės naudotojas laisvajame uoste gali pradėti verstis tik kitą dieną po atitikties deklaravimo Susisiekimo ministerijai.
+
+
+
+
+5. Laisvojo uosto veiklos reikalavimų laikymosi priežiūrą atlieka Uosto direkcija Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka. Planinis uosto žemės naudotojo, vykdančio veiklą laisvajame uoste, patikrinimas atliekamas ne rečiau kaip kartą per 3 metus.
+
+
+
+
+6. Susisiekimo ministerija, gavusi Uosto direkcijos išvadas, kad uosto žemės naudotojas, vykdantis veiklą laisvajame uoste, pažeidžia šio straipsnio 1, 2 ir (ar) 11 dalyse nurodytus reikalavimus (arba vieną iš jų) arba deklaravo savo atitiktį šio straipsnio 2 dalyje nustatytiems reikalavimams pateikdamas netikslius duomenis, per 2 darbo dienas nuo šių išvadų gavimo dienos, įspėja uosto žemės naudotoją, vykdantį veiklą laisvajame uoste, apie galimą teisės vykdyti veiklą laisvajame uoste sustabdymą, informuoja apie nustatytus pažeidimus (pažeidimų rūšį, turinį ir esmę) ir nustato ne trumpesnį kaip 30 darbo dienų nuo įspėjimo apie galimą teisės vykdyti veiklą laisvajame uoste sustabdymą gavimo terminą, per kurį nustatyti pažeidimai privalo būti pašalinti. Uosto žemės naudotojas, vykdantis veiklą laisvajame uoste, per nustatytą terminą pašalinęs visus pažeidimus, ne vėliau kaip per 5 darbo dienas privalo apie tai deklaruoti Susisiekimo ministerijai ir pateikti tai patvirtinančią informaciją. Jeigu per nustatytą terminą pažeidimai nepašalinami ir (ar) apie tai nedeklaruojama, Susisiekimo ministerija per 5 darbo dienas nuo termino, per kurį nustatyti pažeidimai privalėjo būti pašalinti, pabaigos sustabdo teisę vykdyti veiklą laisvajame uoste ir apie tai praneša uosto žemės naudotojui. Draudžiama vykdyti veiklą laisvajame uoste, jeigu Susisiekimo ministerija sustabdė teisę vykdyti veiklą laisvajame uoste ir uosto žemės naudotojas apie tai yra informuotas.
+
+
+
+
+7. Sustabdžiusi teisę vykdyti veiklą laisvajame uoste, Susisiekimo ministerija kartu su pranešimu apie teisės vykdyti veiklą laisvajame uoste sustabdymą nurodo pašalinti pažeidimus ne vėliau kaip per 10 darbo dienų nuo šio pranešimo gavimo dienos. Pašalinęs visus pažeidimus, uosto žemės naudotojas ne vėliau kaip per 2 darbo dienas pateikia tai patvirtinančią informaciją Susisiekimo ministerijai. Susisiekimo ministerija, per 5 darbo dienas nuo informacijos gavimo dienos nustačiusi, kad pažeidimai yra pašalinti, išsiunčia uosto žemės naudotojui pranešimą apie teisės vykdyti veiklą laisvajame uoste sustabdymo panaikinimą. 
+
+
+
+
+8. Susisiekimo ministerija per 3 darbo dienas nuo šios dalies 1–5 punktuose nurodytų atvejų nustatymo momento panaikina uosto žemės naudotojo teisę vykdyti veiklą laisvajame uoste ir apie tai per 2 darbo dienas nuo šios teisės panaikinimo momento be atskiro įspėjimo informuoja uosto žemės naudotoją, jeigu nustatoma, kad uosto žemės naudotojas, vykdantis veiklą laisvajame uoste:
+
+
+1) pateikė deklaraciją apie nutraukiamą veiklą laisvajame uoste;
+
+
+
+
+2) per šio straipsnio 7 dalyje nustatytą terminą nepašalino pažeidimų, dėl kurių buvo sustabdyta teisė vykdyti veiklą laisvajame uoste, ir (ar) apie pažeidimų pašalinimą nustatytais terminais nepranešė Susisiekimo ministerijai;
+
+
+
+
+3) yra likviduotas;
+
+
+
+
+4) nevykdo veiklos laisvajame uoste ilgiau kaip 6 mėnesius;
+
+
+
+
+5) vykdo veiklą laisvajame uoste, kai teisė vykdyti veiklą laisvajame uoste buvo sustabdyta ir uosto žemės naudotojas apie tai buvo informuotas (ir uosto žemės naudotojas informaciją buvo gavęs), arba vykdo veiklą, kurios nedeklaravo Susisiekimo ministerijai šio straipsnio 3 ir 4 dalyse nustatyta tvarka.
+
+
+
+
+
+
+9. Panaikinus teisę vykdyti veiklą laisvajame uoste šio straipsnio 8 dalyje nustatyta tvarka, uosto žemės naudotojas, pašalinęs aplinkybes, dėl kurių teisė vykdyti veiklą laisvajame uoste buvo panaikinta, gali deklaruoti Susisiekimo ministerijai atitiktį uosto žemės naudotojui keliamiems reikalavimams šio straipsnio 3 dalyje nustatyta tvarka (ši nuostata netaikoma šio straipsnio 8 dalies 3 punkte nustatytu atveju) ir įgyti teisę vykdyti veiklą laisvajame uoste. Jeigu teisė vykdyti veiklą laisvajame uoste buvo panaikinta trečią kartą per pastaruosius 24 mėnesius, uosto žemės naudotojas negali 6 mėnesius nuo teisės vykdyti veiklą laisvajame uoste panaikinimo (arba kol Uosto direkcija nepatikrino ir neįsitikino, kad šioje dalyje minimi pažeidimai pašalinti) deklaruoti Susisiekimo ministerijai šioje dalyje nurodytos atitikties. 
+
+
+
+
+10. Susisiekimo ministerija ir uosto žemės naudotojas šiame straipsnyje nurodytus dokumentus ir pranešimus teikia per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai.
+
+
+
+
+11. Uosto žemės naudotojas, vykdantis veiklą laisvajame uoste:
+
+
+1) neturi teisės įgalioti kitų asmenų ar teisės perduoti vykdyti veiklą kitiems asmenims;
+
+
+
+
+2) privalo pranešti Susisiekimo ministerijai apie pasikeitusius savo duomenis (pavadinimą, teisinę formą, juridinio asmens kodą, buveinę ir adresą korespondencijai) ne vėliau kaip per 5 darbo dienas nuo tokių duomenų pasikeitimo momento ir pateikti duomenų pasikeitimą patvirtinančius dokumentus.
+
+
+
+
+
+
+12. Uosto žemės naudotojas, įgijęs teisę valdyti statinius, esančius jo naudojamame žemės sklype, pastatytus kito (ankstesnio) uosto žemės naudotojo ir skirtus veiklai laisvajame uoste vykdyti, gali deklaruoti Susisiekimo ministerijai atitiktį uosto žemės naudotojui keliamiems reikalavimams šio straipsnio 3 dalyje nustatyta tvarka, tačiau šiuo atveju šio straipsnio 2 dalies 3 punkte nurodyto priėmimo komisijos išduoto priėmimo akto kopija Susisiekimo ministerijai nėra teikiama.
+
+
+
+
+13. Šiame straipsnyje nurodyti Susisiekimo ministerijos priimti sprendimai dėl teisės vykdyti veiklą laisvajame uoste sustabdymo, sustabdymo panaikinimo ir panaikinimo turi būti skelbiami Uosto direkcijos interneto svetainėje.
+
+
+
+
+14. Šiame straipsnyje nurodyti Susisiekimo ministerijos priimti sprendimai dėl teisės vykdyti veiklą laisvajame uoste sustabdymo, sustabdymo panaikinimo ir panaikinimo gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
 Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Straipsnio pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
 
 
-18 straipsnis. Prekių įvežimas į laisvąjį uostą ir išvežimas iš jo, prekių laikymas ir apskaita laisvajame uoste
+18 straipsnis. Prekių įvežimas į laisvąjį uostą ir išvežimas iš jo, prekių laikymas ir  apskaita laisvajame uoste
 
 
-Prekių įvežimo į laisvąjį uostą, išvežimo iš jo, laikymo ir apskaitos laisvajame uoste tvarką nustato Muitinės kodeksas ir jo taikymą reglamentuojantys teisės aktai.
+Prekių įvežimo į laisvąjį uostą, išvežimo iš jo, laikymo ir apskaitos laisvajame uoste tvarką nustato muitų teisės aktai.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1344, 99.10.05, Žin., 1999, Nr.86-2561 (99.10.15)
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
+Straipsnio pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
@@ -700,46 +831,36 @@ Nr. VIII-2017, 00.10.10, Žin., 2000, Nr.92-2869 (00.10.31)
 
 
 
-20 straipsnis. Muitai ir mokesčiai
-
-
-1. Prekėms, įvežamoms į Lietuvos Respubliką iš laisvojo uosto, taikomi Lietuvos Respublikos teisės aktų šioms prekėms nustatyti importo muitai ir mokesčiai, taip pat importo draudimai bei apribojimai.
-
-
-
-
-2. Prekėms, išvežamoms iš Lietuvos Respublikos į laisvąjį uostą, taikomi Lietuvos Respublikos teisės aktų šioms prekėms nustatyti eksporto muitai ir mokesčiai, taip pat eksporto draudimai ir apribojimai.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
-Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
-Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+20 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
 
 
-21 straipsnis. Laisvojo uosto priežiūra
+21 straipsnis. Asmenų ir prekių patekimas į laisvąjį uostą 
 
 
-1. Laisvojo uosto ribas ir prekių įvežimo bei išvežimo vietas prižiūri muitinė. Teisės aktų nustatyta tvarka ji tikrina į laisvąjį uostą atvykstančius ir iš jo išvykstančius fizinius asmenis bei transporto priemones. Laisvojo uosto pagal perimetrą apsaugą organizuoja ir vykdo uosto žemės naudotojai.
-
-
-
-
-2. Prekės iš Lietuvos Respublikos muitų teritorijos į laisvąjį uostą įvežamos ir iš laisvojo uosto į Lietuvos Respublikos muitų teritoriją išvežamos per tam tikslui įrengtas vietas. Postų ir muitinio tikrinimo vietų įrengimą organizuoja Vyriausybės įgaliota institucija, patalpų, muitinio tikrinimo vietų bei infrastruktūros projektus suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos.
+1. Prekių įvežimo į laisvąjį uostą ir išvežimo iš jo vietas nustato Muitinės departamentas ar Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga, derindama šio įstatymo 14 straipsnio 2 dalyje nurodytą laisvojo uosto įrengimo projektą. Teisės aktų nustatyta tvarka ji tikrina į laisvąjį uostą atvykstančius ir iš jo išvykstančius fizinius asmenis ir transporto priemones. Laisvojo uosto apsaugą pagal perimetrą organizuoja ir vykdo uosto žemės naudotojai.
 
 
 
 
-3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes Muitinės kodekso nustatyta tvarka.
+2. Prekės iš Bendrijos muitų teritorijos į laisvąjį uostą įvežamos ir iš laisvojo uosto į Bendrijos muitų teritoriją išvežamos per tam tikslui įrengtas vietas. Muitinio tikrinimo ir prekių įvežimo į laisvąjį uostą ir išvežimo iš jo vietas įrengia uosto žemės naudotojas pagal laisvojo uosto įrengimo projektą. 
+
+
+
+
+3. Muitinės departamentas ar Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes muitų teisės aktų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
 Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Straipsnio pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
  
 
 
@@ -790,19 +911,16 @@ Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 
 
 1. Uosto direkcija uosto žemę gali išnuomoti tik viešosios procedūros tvarka, išskyrus atvejus, kai uosto žemė išnuomojama uosto žemėje veiklą vykdančioms strateginę reikšmę nacionaliniam saugumui turinčioms įmonėms, nuosavybės teise valdančioms statinius uosto žemėje ar patikėjimo teise valdančioms valstybės ar savivaldybės joms perduotus statinius uosto žemėje, tokių statinių tiesioginei paskirčiai, ar įmonėms, valdančioms ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčius įrenginius, esančius uosto žemėje, tokių įrenginių tiesioginei paskirčiai, kaip tai apibrėžta Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
- 
 
 
 
 
-2. Uosto žemės nuomos konkurso sąlygas, uosto žemės nuomos sutarties formą, uosto žemės nuomos mokesčio apskaičiavimo tvarką ir uosto žemės nuomos mokesčio dydžius Uosto direkcijos teikimu tvirtina susisiekimo ministras. Uosto žemės nuomos mokesčio apskaičiavimo tvarka ir uosto žemės nuomos mokesčio dydžiai tvirtinami ne trumpesniam kaip 5 metų terminui. Uosto žemės nuomos mokesčio apskaičiavimo tvarkoje nustatoma, kad uosto žemės nuomos mokesčio dydis uosto žemės naudotojams gali būti didinamas arba mažinamas atsižvelgiant į uosto žemės naudotojo atliekamų krovos ar kitų darbų, susijusių su uosto funkcine paskirtimi, mastus (didėjant atliekamų krovos ar kitų darbų, susijusių su uosto funkcine paskirtimi, mastams, uosto žemės nuomos mokesčio dydis mažinamas, mažėjant – didinamas).
+2. Uosto žemės nuomos sutarties formą, uosto žemės nuomos mokesčio apskaičiavimo tvarkos aprašą ir uosto žemės nuomos mokesčio dydžius Uosto direkcijos teikimu tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Uosto žemės nuomos mokesčio apskaičiavimo tvarkos aprašas ir uosto žemės nuomos mokesčio dydžiai tvirtinami ne trumpesniam kaip 5 metų terminui. Uosto žemės nuomos mokesčio apskaičiavimo tvarkos apraše nustatoma, kad uosto žemės nuomos mokesčio dydis uosto žemės naudotojams gali būti didinamas arba mažinamas atsižvelgiant į uosto žemės naudotojo atliekamų krovos ar kitų darbų, susijusių su uosto funkcine paskirtimi, mastus (didėjant atliekamų krovos ar kitų darbų, susijusių su uosto funkcine paskirtimi, mastams, uosto žemės nuomos mokesčio dydis mažinamas, mažėjant – didinamas).
 
 
 
 
-3. Uosto žemė gali būti perduota laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus, taip pat uoste esančiai viešajai geležinkelių infrastruktūrai eksploatuoti ir naujai viešajai geležinkelių infrastruktūrai statyti. Sprendimą perduoti laikinai neatlygintinai naudotis uosto žeme priima Uosto direkcija. Uosto žemė perduodama laikinai neatlygintinai naudotis Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+3. Uosto žemė gali būti perduota laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus, taip pat uoste esančiai viešajai geležinkelių infrastruktūrai eksploatuoti ir naujai viešajai geležinkelių infrastruktūrai statyti.
 
 
 Straipsnio pakeitimai:
@@ -811,6 +929,8 @@ Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
 Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
 Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 Nr. X-950, 2006-12-05, Žin., 2006, Nr. 141-5392 (2006-12-28)
+Straipsnio pakeitimai:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
  
 
 
@@ -842,17 +962,35 @@ Nr. XII-1509, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21275
 
 
 
-2. Uosto žemės nuomos sutartyje turi būti:
+2. Uosto žemės nuomos sutartyje turi būti nustatyta:
 
 
-1) nustatyti nuomininko krovos ir kitų darbų, susijusių su uosto funkcine paskirtimi, minimalūs mastai;
+1) nuomininko krovos ir kitų darbų, susijusių su uosto funkcine paskirtimi, minimalūs mastai; 
 
 
 
 
-2) uosto žemės nuomos mokesčio dydžio apskaičiavimo, keitimo sąlygos bei tvarka.
+2) uosto žemės nuomos mokesčio apskaičiavimo, mokėjimo, keitimo sąlygos ir tvarka;
 
 
+
+
+3) nuomininko įsipareigojimas, nelaimėjus uosto žemės nuomos viešosios procedūros, perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, viešosios procedūros laimėtojui;
+
+
+
+
+4) nuomininko įsipareigojimas ne vėliau kaip per vienus metus iki viešosios procedūros paskelbimo Lietuvos Respublikos Vyriausybės nustatyta tvarka pateikti Uosto direkcijai reikalaujamą informaciją ir dokumentus apie turtą, kuris nelaimėjus uosto žemės nuomos viešosios procedūros bus perleidžiamas viešosios procedūros laimėtojui;
+
+
+
+
+5) nuomininko įsipareigojimas pateikti Uosto direkcijai reikalaujamą informaciją ir dokumentus apie pas viešosios procedūros laimėtoją perkeliamus darbuotojus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
+ 
 
 
 
@@ -895,11 +1033,47 @@ Nr. XII-1509, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21275
 6. Uosto žemę subnuomoti draudžiama.
 
 
+
+
+7. Uosto žemės nuomos sutartis įsigalioja po to, kai viešosios procedūros laimėtojas visiškai sumoka šio įstatymo 251 straipsnio 1 dalyje nurodyto perleidžiamo turto kainą nuomininkui šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka ir sąlygomis. Šio įstatymo 251 straipsnio 1 dalyje nurodyto perleidžiamo turto kaina sumokama ne vėliau kaip iki viešosios procedūros dokumentuose nurodyto perleidžiamo turto kainos sumokėjimo termino pabaigos. Iki naujos uosto žemės nuomos sutarties su viešosios procedūros laimėtoju įsigaliojimo esamas nuomininkas tomis pačiomis sąlygomis toliau naudojasi uosto žemės sklypu ir jame esančiu turtu, šiuo laikotarpiu nesudarydamas naujos uosto žemės nuomos sutarties.
+Papildyta straipsnio dalimi:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
+ 
+
+
 Straipsnio pakeitimai:
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
 Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
 Nr. IX-2489, 2004-10-12, Žin., 2004, Nr. 156-5694 (2004-10-26)
+ 
+
+
+
+
+251 straipsnis. Turto naudojimo, valdymo ir disponavimo juo sąlygos 
+
+
+1. Vykdydamas žemės nuomos sutartyje nustatytą įsipareigojimą, nuomininkas, nelaimėjęs uosto žemės nuomos viešosios procedūros, privalo perleisti nuosavybės teisę į jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, viešosios procedūros laimėtojui. Nuomininkas turi teisę nuspręsti, kokį kitą turtą, reikalingą su uostu susijusiai veiklai vykdyti uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype, jis perleis kartu su nekilnojamuoju turtu. Informacija apie perleidžiamą turtą, jo vertę, atsiskaitymo už jį ir kitas esmines sąlygas yra viešai skelbiama informaciniame skelbime apie viešąją procedūrą.
+
+
+
+
+2. Sudaromų sutarčių, kuriomis nustatomi suvaržymai nekilnojamajam turtui, esančiam uosto žemės nuomos sutarties pagrindu naudojamame žemės sklype, terminas negali būti ilgesnis už uosto žemės nuomos sutarties terminą. Viešosios procedūros laimėtojui perleidžiamas turtas negali būti įkeistas, išnuomotas, suteiktas panaudai, taip pat negali būti sudaromi sandoriai, kurie apsunkintų galimybę valdyti, naudoti turtą ar juo disponuoti.
+
+
+
+
+3. Viešosios procedūros laimėtojui turtas perleidžiamas turto rinkos verte, kurią nustato nepriklausomas turto vertintojas teisės aktų nustatyta tvarka. 
+
+
+
+
+4. Nuomininkas iki uosto žemės nuomos termino pabaigos turi teisę uosto žemės nuomos sutartyje nustatyta tvarka ir sąlygomis uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype statyti statinius, valdyti, naudoti uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype esantį turtą ar juo disponuoti. Kai nuomos sutarties galiojimo metu yra perleidžiamas nuomininkui priklausantis nekilnojamasis turtas, esantis šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype (išskyrus nekilnojamojo turto perleidimą viešosios procedūros laimėtojui), nekilnojamojo turto įgijėjas (perėmėjas) įgyja teisę ir pareigą naudotis uosto žeme tokiomis pačiomis sąlygomis kaip nuomininkas, perleidžiantis jam priklausantį nekilnojamąjį turtą, esantį šios uosto žemės nuomos sutarties pagrindu naudojamame uosto žemės sklype.
+
+
+Papildyta straipsniu:
+Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
  
 
 
@@ -1052,6 +1226,99 @@ Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
 
 
 
+312 straipsnis. Uosto ir uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) apsaugą patvirtinančių dokumentų išdavimas, galiojimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
+
+
+1. Šio straipsnio nuostatomis įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede. Pažymos dėl uosto infrastruktūros ir suprastruktūros įrenginio (terminalo) (toliau – uosto įrenginys (terminalas) atitikties reikalavimams (toliau – uosto įrenginio (terminalo) atitikties aktai) išduodamos vadovaujantis 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 725/2004 dėl laivų ir uostų įrenginių apsaugos stiprinimo.
+
+
+
+
+2. Uosto įrenginio (terminalo) atitikties aktas išduodamas tam pačiam 5 metų laikotarpiui ir tuo pačiu susisiekimo ministro sprendimu, kuriuo patvirtinamas uosto įrenginio (terminalo) apsaugos planas ar jo pakeitimas. Uosto įrenginio (terminalo) atitikties akto galiojimas turi būti patvirtinamas kiekvienais metais.
+
+
+
+
+3. Uosto įrenginio (terminalo) atitikties akto išdavimo, galiojimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato susisiekimo ministras.
+
+
+
+
+4. Uosto įrenginio (terminalo) atitikties aktas išduodamas, jeigu uosto įrenginys (terminalas) atitinka 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje  XI-2 skyriaus ir Tarptautinio laivų ir uosto įrenginių apsaugos kodekso A dalies nuostatas ir šis uosto įrenginys (terminalas) yra eksploatuojamas pagal susisiekimo ministro patvirtintą uosto įrenginio (terminalo) apsaugos planą ir kitus uosto įrenginio (terminalo) veiklą kontroliuojančių institucijų patvirtintų norminių teisės aktų reikalavimus.
+
+
+
+
+5. Šio straipsnio 4 dalyje nurodytų reikalavimų laikymosi priežiūrą atlieka Uosto direkcija.
+
+
+
+
+6. Uosto direkcija kiekvienais metais atlieka uosto įrenginio (terminalo) apsaugos patikrinimą. Atlikusi patikrinimą, Uosto direkcija pateikia Susisiekimo ministerijai patikrinimo aktą. Jeigu šio patikrinimo akto išvada yra teigiama, susisiekimo ministras ar jo įgaliotas asmuo patvirtina uosto įrenginio (terminalo) atitikties akto galiojimą.
+
+
+
+
+7. Uosto direkcija, patikrinimo metu nustačiusi, kad uosto įrenginio (terminalo) apsauga neatitinka šio uosto įrenginio (terminalo) apsaugos plane nustatytų arba teisės aktų, nurodytų šio straipsnio 5 dalyje, reikalavimų, nedelsdama, bet ne vėliau kaip per 2 darbo dienas (nuo šioje dalyje nurodyto uosto įrenginio (terminalo) apsaugos neatitikties nustatymo momento) įspėja paskirtąjį uosto įrenginio (terminalo) vadovą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir nuo šioje dalyje nurodyto įspėjimo pateikimo nustato ne ilgesnį kaip 12 mėnesių, bet ne trumpesnį kaip 10 darbo dienų terminą, per kurį nustatyti trūkumai turi būti pašalinti. Pasibaigus nustatytam terminui, Uosto direkcija be atskiro pranešimo atlieka pakartotinį patikrinimą. Jeigu pakartotinio patikrinimo metu Uosto direkcija nustato, kad visi uosto įrenginio (terminalo) apsaugos trūkumai pašalinti, ji panaikina įspėjimą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir patikrinimo aktą su teigiama išvada pateikia Susisiekimo ministerijai. Tais atvejais, kai nurodyti trūkumai yra pašalinti, suderinus su paskirtuoju uosto įrenginio (terminalo) vadovu, pakartotinis patikrinimas gali būti atliekamas ir nepasibaigus nustatytam terminui.
+
+
+
+
+8. Uosto direkcija, pakartotinio patikrinimo metu nustačiusi, kad nustatyti trūkumai nepašalinti, kreipiasi į Susisiekimo ministeriją su prašymu sustabdyti išduoto uosto įrenginio (terminalo) atitikties akto galiojimą ir pateikia patikrinimo aktą su neigiama išvada. Susisiekimo ministras per 10 darbo dienų nuo minimo kreipimosi gavimo sustabdo uosto įrenginio (terminalo) atitikties akto galiojimą ir nustato terminą nustatytiems trūkumams pašalinti. Sprendimo kopija per 2 darbo dienas nuo tokio sprendimo priėmimo perduodama Uosto direkcijai, kuri su sprendimu per 2 darbo dienas nuo jo gavimo supažindina paskirtąjį uosto įrenginio (terminalo) vadovą.
+
+
+
+
+9. Uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymas panaikinamas, kai paskirtasis uosto įrenginio (terminalo) vadovas, pašalinęs trūkumus, kreipiasi į Uosto direkciją, kuri ne vėliau kaip per 5 darbo dienas nuo šio kreipimosi gavimo dienos nustato, ar trūkumai pašalinti, apie tai informuoja Susisiekimo ministeriją ir pateikia jai patikrinimo aktą su teigiama išvada, o susisiekimo ministras, gavęs patikrinimo aktą su teigiama išvada, per 3 darbo dienas panaikina uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir per vieną darbo dieną nuo šio akto galiojimo sustabdymo panaikinimo dienos perduoda sprendimo kopiją Uosto direkcijai. Uosto direkcija per 2 darbo dienas supažindina su sprendimu paskirtąjį uosto įrenginio (terminalo) vadovą.
+
+
+
+
+10. Uosto įrenginio (terminalo) atitikties akto galiojimas panaikinamas, jeigu:
+
+
+1) per šio straipsnio 8 dalyje nurodytą terminą nepašalinami trūkumai, dėl kurių uosto įrenginio (terminalo) atitikties akto galiojimas buvo sustabdytas;
+
+
+
+
+2) uosto žemės nuomos sutartis, sudaryta su Uosto direkcija, nutraukiama arba ši sutartis pasibaigė;
+
+
+
+
+3) nustatoma, kad uosto žemės naudotojas, eksploatuojantis uosto įrenginį (terminalą), yra likviduotas;
+
+
+
+
+4) sustabdžius uosto įrenginio (terminalo) atitikties akto galiojimą ir apie tai informavus paskirtąjį uosto įrenginio (terminalo) vadovą (ir jeigu paskirtasis uosto įrenginio (terminalo) vadovas yra gavęs šią informaciją), uosto įrenginys (terminalas) yra toliau eksploatuojamas;
+
+
+
+
+5) Susisiekimo ministerija gavo uosto įrenginį (terminalą) eksploatuojančio subjekto rašytinį prašymą panaikinti šio uosto įrenginio (terminalo) atitikties akto galiojimą.
+
+
+
+
+
+
+11. Susisiekimo ministerija, Uosto direkcija ir paskirtasis uosto įrenginio (terminalo) vadovas šiame straipsnyje nurodytus dokumentus ir pranešimus teikia per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai.
+
+
+
+
+12. Informacija apie uosto įrenginio (terminalo) apsaugą patvirtinančių dokumentų išdavimą, galiojimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą skelbiama Uosto direkcijos interneto svetainėje.
+
+
+Papildyta straipsniu:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+ 
+
+
+
+
 TREČIASIS SKIRSNIS
 UOSTO LĖŠOS
  
@@ -1179,7 +1446,10 @@ Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir kitoms išlaidoms, sus
 
 
 
-15) kitoms išlaidoms, numatytoms susisiekimo ministro patvirtintoje pajamų ir išlaidų sąmatoje.
+15) kitoms išlaidoms, numatytoms susisiekimo ministro patvirtintoje Uosto direkcijos veiklos strategijoje.
+Straipsnio punkto pakeitimai:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+ 
 
 
 
@@ -1422,6 +1692,25 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
+Lietuvos Respublikos 
+Klaipėdos valstybinio
+jūrų uosto įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 725/2004 dėl laivų ir uostų įrenginių apsaugos stiprinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 74).
+
+
+Papildyta priedu:
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+ 
+
+
+
+
 Pakeitimai:
  
 1.
@@ -1524,3 +1813,8 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 24
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 1, 2, 23, 25 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 7, 10, 14, 17, 18, 21, 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir 13, 15, 20 straipsnių pripažinimo netekusiais galios įstatymas
