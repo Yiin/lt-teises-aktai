@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -176,7 +176,10 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 
 
 
-22. Žemės ūkio veikla – veikla, apimanti žemės ūkio produktų gamybą, savos gamybos žemės ūkio produktų perdirbimą ir iš jų pagamintų maisto ar ne maisto produktų realizavimą, taip pat paslaugų žemės ūkiui teikimą ir (arba) geros agrarinės ir aplinkosauginės žemės būklės palaikymą. 
+22. Žemės ūkio veikla – veikla, apimanti žemės ūkio produktų gamybą, savos gamybos žemės ūkio produktų perdirbimą ir iš jų pagamintų maisto ar ne maisto produktų realizavimą, taip pat paslaugų žemės ūkiui teikimą ir (arba) geros agrarinės bei aplinkosaugos žemės būklės palaikymą, žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažintų kooperatinių bendrovių (kooperatyvų) žemės ūkio produktų supirkimą iš savo kooperatinės bendrovės (kooperatyvo) narių, jų realizavimą, iš savo narių supirktų žemės ūkio produktų perdirbimą ir iš jų pagamintų maisto ir ne maisto produktų realizavimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2759, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26875
+ 
 
 
 
@@ -705,3 +708,8 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 1, 2, 3, 4 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2759, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26875
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2 straipsnio pakeitimo įstatymas
