@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -851,7 +851,10 @@ Valdymo įmonės akcijų paketo įsigijimui ir perleidimui mutatis mutandis taik
 
 
 
-2. Priežiūros institucija turi teisę skirti Lietuvos Respublikos administracinių teisės pažeidimų kodekse numatytas nuobaudas valdymo įmonės vadovams ar darbuotojams.
+2. Neteko galios nuo 2017-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
+ 
 
 
 
@@ -2044,10 +2047,12 @@ Pensijų turtas privalo būti saugomas viename depozitoriume.
 41 straipsnis. Depozitoriumo teisės ir pareigos
 
 
-Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti Kolektyvinio investavimo subjektų įstatyme.
+Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti Kolektyvinio investavimo subjektų įstatyme ir 2015 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2016/438, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl depozitoriumų pareigų (OL 2016 L 78, p. 11) (toliau – Reglamentas (ES) 2016/438), jeigu šis įstatymas nenustato kitaip. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
  
-
-
 
 
 
@@ -2071,15 +2076,22 @@ Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti
 43 straipsnis. Valdymo įmonės atskyrimas nuo depozitoriumo
 
 
-1. Depozitoriumas negali kartu verstis ir valdymo įmonės veikla, išskyrus šio įstatymo 42 straipsnyje numatytą atvejį. 
+1. Depozitoriumas negali kartu verstis ir valdymo įmonės veikla, išskyrus šio įstatymo 42 straipsnyje numatytą atvejį. 
 
 
 
 
-2. Valdymo įmonės atskyrimui nuo depozitoriumo taikomi Kolektyvinio investavimo subjektų įstatymo nustatyti reikalavimai.
+2. Valdymo įmonės atskyrimui nuo depozitoriumo taikomi Kolektyvinio investavimo subjektų įstatyme ir Reglamente (ES) 2016/438 nustatyti reikalavimai, išskyrus šio straipsnio 3 dalyje numatytą atvejį.
+
+
+
+
+3. Jeigu valdymo įmonė ir depozitoriumas priklauso tai pačiai įmonių grupei ir valdymo įmonė nevaldo suderintųjų kolektyvinio investavimo subjektų, valdymo įmonė ir depozitoriumas gali pasirinkti valdymo organų ir priežiūros funkcijų nepriklausomumą užtikrinti laikydamiesi arba Reglamento (ES) 2016/438 24 straipsnyje nustatytų reikalavimų, arba šio įstatymo 55 straipsnio 31 dalyje nustatytų papildomų reikalavimų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
  
-
-
 
 
 
@@ -2597,15 +2609,23 @@ Valdymo įmonė privalo priežiūros institucijos nustatyta tvarka skelbti kiekv
 
 
 
+31. Šio įstatymo 43 straipsnio 3 dalyje nustatytu atveju valdymo įmonės audito ataskaitoje auditorius turi papildomai pateikti informaciją apie tai, ar valdymo įmonės ir depozitoriumo priklausymas tai pačiai įmonių grupei nedaro neigiamo poveikio patikimam ir veiksmingam pensijų fondo valdymui ir depozitoriumo funkcijų tinkamam atlikimui, įskaitant (bet neapsiribojant) tinkamą valdymo įmonės ir depozitoriumo funkcijų atskyrimą ir pareigų pasidalijimą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
+ 
+
+
+
+
 4. Priežiūros institucijos reikalavimu valdymo įmonė privalo pateikti paaiškinimus dėl pensijų fondo finansinių ataskaitų, o auditorius – paaiškinimus dėl audito ataskaitos ir nustatytų šio įstatymo ir (ar) kitų teisės aktų pažeidimų.
 
 
 
 
-5. Auditorius, atlikdamas valdymo įmonės auditą, privalo nedelsdamas raštu pranešti priežiūros institucijai apie aplinkybes ar faktus, kurie gali:
+5. Auditorius, atlikdamas valdymo įmonės ar pensijų fondo auditą, privalo nedelsdamas raštu pranešti priežiūros institucijai apie aplinkybes ar faktus, kurie gali:
 
 
-1) iš esmės pažeisti įstatymus ir kitus teisės aktus, kuriais nustatomos leidimų išdavimą reglamentuojančios sąlygos ar kurie konkrečiai reglamentuoja valdymo įmonių veiklą, arba
+1) iš esmės pažeisti įstatymus ir kitus teisės aktus, kuriais nustatomos leidimų išdavimą reglamentuojančios sąlygos ar kurie konkrečiai reglamentuoja valdymo įmonių ar depozitoriumų veiklą, arba
 
 
 
@@ -2615,9 +2635,12 @@ Valdymo įmonė privalo priežiūros institucijos nustatyta tvarka skelbti kiekv
 
 
 
-3) sudaryti pagrindą atsisakyti pareikšti nuomonę apie finansines ataskaitas ar formuoti sąlyginę nuomonę.
+3) sudaryti pagrindą atsisakyti pareikšti nuomonę apie finansines ataskaitas ar formuoti sąlyginę nuomonę. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
+ 
 
 
 
@@ -2679,7 +2702,10 @@ VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-3) taiko administracines nuobaudas asmenims;
+3) Neteko galios 2017-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
+ 
 
 
 
@@ -2941,3 +2967,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 34 ir 59 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 15 ir 57 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 41, 43 ir 55 straipsnių pakeitimo įstatymas
