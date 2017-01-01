@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 2016-05-12 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
  
@@ -334,6 +334,24 @@ Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 
 
 
+71 straipsnis. Muziejaus emeritas
+
+
+1. Didelę profesinę patirtį turinčiam, nacionaliniame, respublikiniame ar savivaldybės muziejuje aktyviai dirbusiam ir kūrusiam muziejininkui, su kuriuo darbo sutartis buvo nutraukta, už nuopelnus Lietuvos kultūrai, kultūros paveldo apsaugai ir veiklą, padėjusią įgyvendinti muziejaus tikslus, gali būti suteiktas muziejaus emerito vardas. Muziejaus emerito vardą suteikia muziejaus vadovas kultūros ministro nustatyta tvarka. 
+
+
+
+
+2. Muziejaus emeritui sudaromos sąlygos prisidėti prie muziejaus darbuotojų kvalifikacijos tobulinimo ir gebėjimų ugdymo, konsultuoti muziejaus darbuotojus veiklos klausimais, dalyvauti šio muziejaus edukacinėse ir veiklos populiarinimo programose.
+
+
+Papildyta straipsniu:
+Nr. XII-2330, 2016-05-03, paskelbta TAR 2016-05-11, i. k. 2016-12224
+ 
+
+
+
+
 
 
 TREČIASIS SKIRSNIS
@@ -595,7 +613,7 @@ Lietuvos Respublikos muziejų įstatymo 9 ir 21 straipsnių pakeitimo įstatymas
  
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487                
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487                
 Dėl Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalies atitikimo Lietuvos Respublikos Konstitucijai
  
 3.
