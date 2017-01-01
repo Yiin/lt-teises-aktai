@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-09
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
  
@@ -363,7 +363,9 @@ Pagrindinės branduolinės saugos reglamentavimo sritys yra:
 
 
 
-5. Valstybinės atominės energetikos saugos inspekcijos viršininko įgalioti darbuotojai turi teisę teisės aktų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus ir skirti administracines nuobaudas.
+5. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2610, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24184
  
 
 
@@ -2094,7 +2096,9 @@ Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
 
 
 
-14. Šio įstatymo 47 straipsnio 1 ir 2 dalyse nurodyti pažeidimai tiriami, nagrinėjami, sprendimai dėl baudos skyrimo skundžiami ir vykdomi Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka, kiek šios tvarkos nereglamentuoja šis įstatymas.
+14. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2610, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24184
  
 
 
@@ -2260,3 +2264,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1175, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13572
 Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 47 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2610, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24184
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 6 ir 48 straipsnių pakeitimo įstatymas
