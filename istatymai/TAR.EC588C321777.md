@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -1024,7 +1024,10 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 1. Svarbiomis asmens nedalyvavimo baudžiamajame procese priežastimis laikomos šios:
 
 
-1) laisvės atėmimas dėl administracinio arešto, sulaikymo, suėmimo ar bausmės atlikimo;
+1) laisvės atėmimas dėl sulaikymo, suėmimo ar bausmės atlikimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
+ 
 
 
 
@@ -4207,7 +4210,10 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 
 
 
-6. Suėmimo termino pratęsimo ikiteisminio tyrimo metu klausimui išspręsti ikiteisminio tyrimo teisėjas ar apygardos teismo teisėjas privalo surengti posėdį, į kurį šaukiami gynėjas ir prokuroras. Šių asmenų dalyvavimas šiame posėdyje būtinas. Prireikus į posėdį gali būti pristatomas suimtasis. Suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip šešis mėnesius trunkančio suėmimo termino pratęsimo klausimas. Nepilnametį suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip keturis mėnesius trunkančio suėmimo termino pratęsimo klausimas. Suimtasis, kuris dalyvauja šioje dalyje nurodytame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga, pagal kurią prašoma pratęsti suėmimo terminą.
+6. Suėmimo termino pratęsimo ikiteisminio tyrimo metu klausimui išspręsti ikiteisminio tyrimo teisėjas ar apygardos teismo teisėjas privalo surengti posėdį, į kurį šaukiami gynėjas ir prokuroras. Šių asmenų dalyvavimas šiame posėdyje būtinas. Prireikus į posėdį gali būti pristatomas suimtasis. Suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip šešis mėnesius trunkančio suėmimo termino pratęsimo klausimas. Nepilnametį suimtąjį privaloma pristatyti į posėdį tuo atveju, kai sprendžiamas ilgiau kaip keturis mėnesius trunkančio suėmimo termino pratęsimo klausimas. Suimtojo dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis. Suimtasis, kuris dalyvauja šioje dalyje nurodytame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga, pagal kurią prašoma pratęsti suėmimo terminą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -4302,7 +4308,10 @@ Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17)
 130 straipsnis. Suimtojo arba jo gynėjo teisė apskųsti nutartį paskirti suėmimą arba nutartį pratęsti suėmimo terminą, arba nutartį atsisakyti skirti suėmimą ir skirti kitą kardomąją priemonę
 
 
-1. Suimtasis arba jo gynėjas turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo paskyrimo, dėl šios kardomosios priemonės termino pratęsimo ir dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo. Skundą dėl suėmimo paskyrimo ar šios kardomosios priemonės termino pratęsimo arba dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo galima paduoti per dvidešimt dienų nuo atitinkamos nutarties priėmimo. Skundas paduodamas per suėmimą paskyrusį ar jo terminą pratęsusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo trijų teisėjų kolegija privalo išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami suimtasis ir gynėjas ar vien tik gynėjas. Prokuroro dalyvavimas šiame posėdyje būtinas. Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Suimtasis, kuris dalyvauja šioje dalyje nurodytame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
+1. Suimtasis arba jo gynėjas turi teisę aukštesniajam teismui paduoti skundą dėl suėmimo paskyrimo, dėl šios kardomosios priemonės termino pratęsimo ir dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo. Skundą dėl suėmimo paskyrimo ar šios kardomosios priemonės termino pratęsimo arba dėl atsisakymo skirti suėmimą ir kitos kardomosios priemonės skyrimo galima paduoti per dvidešimt dienų nuo atitinkamos nutarties priėmimo. Skundas paduodamas per suėmimą paskyrusį ar jo terminą pratęsusį teismą, o šis privalo nedelsdamas perduoti skundą aukštesniajam teismui. Aukštesniojo teismo trijų teisėjų kolegija privalo išnagrinėti skundą ne vėliau kaip per septynias dienas nuo jo gavimo dienos. Skundui nagrinėti rengiamas posėdis; į jį šaukiami suimtasis ir gynėjas ar vien tik gynėjas. Prokuroro dalyvavimas šiame posėdyje būtinas. Suimtojo dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis. Prokuroras turi pateikti aukštesniajam teismui skundui nagrinėti reikalingą ikiteisminio tyrimo medžiagą. Suimtasis, kuris dalyvauja šioje dalyje nurodytame posėdyje, ir gynėjas turi teisę susipažinti su visa prokuroro pateikta medžiaga. Jei skundas paduotas nagrinėjant bylą teisme, teismas, kurio nutartis apskųsta, privalo aukštesniajam teismui perduoti skundui nagrinėti reikalingą bylos medžiagą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -5791,7 +5800,11 @@ Nr. XII-502, 2013-07-02, Žin., 2013, Nr. 75-3773 (2013-07-13)
 
 
 
-5. Atsisakius pradėti ikiteisminį tyrimą šio straipsnio 1 dalyje nustatytais atvejais ir esant duomenų apie administracinį teisės pažeidimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti Administracinių teisės pažeidimų kodekse ar kituose teisės aktuose nustatyta tvarka.
+5. Atsisakius pradėti ikiteisminį tyrimą šio straipsnio 1 dalyje nustatytais atvejais ir esant duomenų apie administracinį nusižengimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti Lietuvos Respublikos administracinių nusižengimų kodekse ar kituose teisės aktuose nustatyta tvarka.
+TAR pastaba. 168 straipsnio 5 dalies nuostatos taikomos ir tais atvejais, kai yra duomenų apie administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+Straipsnio dalies pakeitimai:
+Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
+ 
 
 
 Straipsnio pakeitimai:
@@ -7334,7 +7347,11 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 
 
-6. Jeigu ikiteisminio tyrimo medžiagoje yra duomenų apie administracinį teisės pažeidimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras nutarimu nutraukti ikiteisminį tyrimą perduoda šią medžiagą spręsti Administracinių teisės pažeidimų kodekse ar kituose teisės aktuose nustatyta tvarka.
+6. Jeigu ikiteisminio tyrimo medžiagoje yra duomenų apie administracinį nusižengimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras nutarimu nutraukti ikiteisminį tyrimą perduoda šią medžiagą spręsti Lietuvos Respublikos administracinių nusižengimų kodekse ar kituose teisės aktuose nustatyta tvarka.
+TAR pastaba. 214 straipsnio 6 dalies nuostatos taikomos ir tais atvejais, kai yra duomenų apie administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+Straipsnio dalies pakeitimai:
+Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
+ 
 
 
 
@@ -7907,7 +7924,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir gynėjas. Suimtas kaltinamasis pristatomas į posėdį.
+5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir gynėjas. Suimtas kaltinamasis pristatomas į posėdį. Suimto kaltinamojo dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 Straipsnio pakeitimai:
@@ -9972,7 +9992,10 @@ Nr. XII-551, 2013-10-10, Žin., 2013, Nr. 109-5365 (2013-10-17)
 
 
 
-4. Teisėjas, paskelbęs nuosprendį, išaiškina nagrinėjimo teisme dalyviams nuosprendžio apskundimo tvarką ir terminus, o kaltinamajam – dar ir paskirtų bausmių vykdymo ypatumus.
+4. Teisėjas, paskelbęs nuosprendį, išaiškina nagrinėjimo teisme dalyviams nuosprendžio apskundimo tvarką ir terminus, žodinio ir rašytinio apeliacinio proceso sąlygas, o kaltinamajam – dar ir paskirtų bausmių vykdymo ypatumus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10183,7 +10206,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 313 straipsnis. Nuosprendžio apskundimo tvarka ir terminai
 
 
-1. Apeliacinis skundas dėl neįsiteisėjusio teismo nuosprendžio turi būti rašytinis ir apelianto pasirašytas. Apeliaciniame skunde turi būti nurodyta: apeliacinės instancijos teismo pavadinimas; byla, dėl kurios paduodamas skundas; skundžiamos nuosprendžio dalies esmė; nuosprendžio apskundimo pagrindai ir motyvai; apelianto prašymai.
+1. Apeliacinis skundas dėl neįsiteisėjusio teismo nuosprendžio turi būti rašytinis ir apelianto pasirašytas. Apeliaciniame skunde turi būti nurodyta apeliacinės instancijos teismo pavadinimas, byla, dėl kurios paduodamas skundas, ir išdėstyta skundžiamos nuosprendžio dalies esmė, nuosprendžio apskundimo pagrindai ir motyvai, apelianto motyvuoti prašymai dėl įrodymų priėmimo, išreikalavimo, įrodymų tyrimo atlikimo ir apimties, dėl bylos nagrinėjimo žodinio ar rašytinio proceso tvarkos, prašymai kitais klausimais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10376,6 +10402,14 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 3. Jeigu byloje yra daug nukentėjusiųjų ar civilinių ieškovų, apie bylos nagrinėjimo apeliacinės instancijos teisme laiką jiems gali būti pranešama specialiame interneto tinklalapyje ir proceso dalyvių nurodytais elektroninio pašto adresais. Šis pranešimas turi būti paskelbtas ne vėliau kaip likus dešimčiai dienų iki bylos nagrinėjimo teisme dienos.
 
 
+
+
+4. Jeigu byloje paduotas tik skundas, kuriuo nesiekiama bloginti nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, padėties ir neprašoma bylą apeliacinės instancijos teisme nagrinėti žodinio proceso tvarka, pirmosios instancijos teismas pranešime apie bylos nagrinėjimą kitiems proceso dalyviams išaiškina teisę prašyti bylą nagrinėti žodinio proceso tvarka. Šis prašymas turi būti pateiktas raštu apeliacinės instancijos teismui per dvidešimt dienų nuo šio pranešimo gavimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
@@ -10420,12 +10454,18 @@ Apeliacinis procesas
 
 
 
-6. Apeliacinės instancijos teismas bylas nagrinėja viešai, išskyrus šio Kodekso 9 straipsnyje numatytus atvejus. Nagrinėjant bylą apeliacine tvarka, taikomos šio Kodekso XIX skyriaus bendrosios nagrinėjimo teisme nuostatos, atsižvelgiant į šiame skyriuje numatytus ypatumus.
+6. Apeliacinės instancijos teismas bylas nagrinėja viešai, išskyrus šio Kodekso 9 straipsnyje numatytus atvejus. Nagrinėjant bylą apeliacine tvarka, taikomos šio Kodekso XIX skyriaus bendrosios nagrinėjimo teisme nuostatos, atsižvelgiant į šiame skyriuje numatytus ypatumus. Šio Kodekso 3251 straipsnyje nurodytais atvejais byla gali būti nagrinėjama rašytinio proceso tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
 
-7. Nagrinėjant bylą apeliacine tvarka, rašomas teismo posėdžio protokolas.
+7. Nagrinėjant bylą apeliacinės instancijos teisme žodinio proceso tvarka, rašomas teismo posėdžio protokolas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 Straipsnio pakeitimai:
@@ -10581,7 +10621,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 325 straipsnis. Skundų dėl pirmosios instancijos teismo nutarčių nagrinėjimo tvarka
 
 
-1. Skundus dėl pirmosios instancijos teismo ar teisėjo nutarčių apeliacinės instancijos teismas nagrinėja teismo posėdyje šio Kodekso 323 ir 324 straipsniuose nustatyta tvarka.
+1. Skundus dėl pirmosios instancijos teismo ar teisėjo nutarčių apeliacinės instancijos teismas nagrinėja teismo posėdyje šio Kodekso 323 ir 324 arba 3251 straipsniuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -10590,6 +10633,59 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
  
 
 
+
+
+
+
+3251 straipsnis. Apeliacinės bylos nagrinėjimas rašytinio proceso tvarka
+
+
+1. Kai apeliacinis skundas paduotas dėl pirmosios instancijos teismo nutarties arba tik šio Kodekso 327 straipsnyje, 328 straipsnio 1, 2 ar 4 punkte nurodytais pagrindais ir nėra šio straipsnio 4 dalyje nurodytų aplinkybių, byla nagrinėjama rašytinio proceso tvarka. Sprendimą dėl bylos nagrinėjimo rašytinio proceso tvarka priima bylai nagrinėti sudaryta teisėjų kolegija ir prireikus pakeičia bylos nagrinėjimo laiką. 
+
+
+
+
+2. Kai priimamas sprendimas nagrinėti bylą rašytinio proceso tvarka, proceso dalyviams teisėjo pranešėjo nurodymu pranešama apie šį sprendimą, skundo nagrinėjimo vietą ir laiką, skundą nagrinėsiančios teisėjų kolegijos sudėtį ir pasiūloma pateikti atsiliepimus į kito proceso dalyvio skundą bei išaiškinama teisė raštu pareikšti nušalinimus ir prašymus. Prie pranešimo proceso dalyviams, kurie nėra susipažinę su apeliaciniu skundu, pridedama šio skundo kopija. Atsiliepimai į apeliacinį skundą, pareiškimai dėl nušalinimo ir prašymai turi būti pateikti per dvidešimt dienų nuo pranešimo apie bylos nagrinėjimą rašytinio proceso tvarka gavimo dienos. Prokuroras privalo pateikti atsiliepimą į apeliacinį skundą. Kitų proceso dalyvių atsiliepimų į apeliacinį skundą nepateikimas netrukdo nagrinėti bylą rašytinio proceso tvarka. Prokuroras savo atsiliepimo į apeliacinį skundą kopiją išsiunčia kitiems proceso dalyviams, su kurių interesais tas skundas susijęs. Kitų atsiliepimų į apeliacinį skundą kopijas proceso dalyviams išsiunčia apeliacinės instancijos teismas. Prokurorui, nukentėjusiajam, civiliniam ieškovui ir jų atstovams atsiliepimų į apeliacinį skundą kopijos nesiunčiamos. 
+
+
+
+
+3. Išnagrinėjus bylą rašytinio proceso tvarka, teismo nuosprendis ar nutartis priimami ir jų nuorašai proceso dalyviams įteikiami ar išsiunčiami šio Kodekso 324 straipsnyje nustatytais pagrindais ir tvarka. Teismo nuosprendis ar nutartis teismo posėdžių salėje neskelbiami, jeigu teismas nenusprendžia kitaip.
+
+
+
+
+4. Apeliacinės instancijos teisme byla negali būti nagrinėjama rašytinio proceso tvarka, kai: 
+
+
+1) apeliacinis skundas paduotas nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, padėtį bloginančiais pagrindais, šio Kodekso 328 straipsnio 3 punkte arba 329 straipsnyje nurodytais pagrindais arba tuo pagrindu, kad nuteistajam turėjo būti taikomos priverčiamosios medicinos prievartos priemonės, arba 
+
+
+
+
+2) proceso dalyvis prašo nagrinėti bylą žodinio proceso tvarka, arba 
+
+
+
+
+3) bylą pirmosios instancijos tvarka nagrinėjo apygardos teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija, arba
+
+
+
+
+4) byloje būtina atlikti įrodymų tyrimą arba išklausyti žodinius proceso dalyvių paaiškinimus.
+
+
+
+
+
+
+5. Rašytinio proceso tvarka bylą nagrinėjanti teisėjų kolegija, paaiškėjus šio straipsnio 4 dalyje nurodytoms aplinkybėms, priima sprendimą nagrinėti bylą žodinio proceso tvarka.
+
+
+Papildyta straipsniu:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -12508,7 +12604,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 3741 straipsnis. Kasacinės bylos nagrinėjimas rašytinio proceso tvarka
 
 
-1. Kai priimtas sprendimas dėl kasacinės bylos nagrinėjimo rašytinio proceso tvarka ir paskirta kasacinės bylos nagrinėjimo data, kasatoriui, prokurorui ir proceso dalyviams, su kurių interesais kasacinis skundas susijęs, teisėjo pranešėjo nurodymu pranešama, kad byla bus nagrinėjama rašytinio proceso tvarka, bylą nagrinėsiančios teisėjų kolegijos sudėtis ir pasiūloma pateikti atsiliepimus į kasacinį skundą bei išaiškinama teisė raštu pareikšti nušalinimus ir prašymus. Atsiliepimai į kasacinius skundus, pareiškimai dėl nušalinimo ir prašymai turi būti pateikti per trisdešimt dienų nuo pranešimo apie bylos nagrinėjimą rašytinio proceso tvarka išsiuntimo dienos. Prokuroras privalo pateikti atsiliepimą į kasacinį skundą. Kitų proceso dalyvių atsiliepimų į kasacinį skundą nepateikimas nagrinėti bylą rašytinio proceso tvarka netrukdo.
+1. Kai priimtas sprendimas dėl kasacinės bylos nagrinėjimo rašytinio proceso tvarka ir paskirta kasacinės bylos nagrinėjimo data, kasatoriui, prokurorui ir proceso dalyviams, su kurių interesais kasacinis skundas susijęs, teisėjo pranešėjo nurodymu pranešama, kad byla bus nagrinėjama rašytinio proceso tvarka, bylą nagrinėsiančios teisėjų kolegijos sudėtis ir pasiūloma pateikti atsiliepimus į kasacinį skundą bei išaiškinama teisė raštu pareikšti nušalinimus ir prašymus. Atsiliepimai į kasacinius skundus, pareiškimai dėl nušalinimo ir prašymai turi būti pateikti per dvidešimt dienų nuo pranešimo apie bylos nagrinėjimą rašytinio proceso tvarka gavimo dienos. Prokuroras privalo pateikti atsiliepimą į kasacinį skundą. Kitų proceso dalyvių atsiliepimų į kasacinį skundą nepateikimas netrukdo nagrinėti bylą rašytinio proceso tvarka. Prokuroras savo atsiliepimo į kasacinį skundą kopiją išsiunčia kitiems proceso dalyviams, su kurių interesais kasacinis skundas susijęs. Kitų atsiliepimų į kasacinį skundą kopijas šiems proceso dalyviams išsiunčia kasacinės instancijos teismas. Prokurorui, nukentėjusiajam, civiliniam ieškovui ir jų atstovams atsiliepimų į kasacinį skundą kopijos nesiunčiamos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -12518,7 +12617,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-3. Išnagrinėjus bylą rašytinio proceso tvarka, nutartis priimama ir paskelbiama šio Kodekso 377 straipsnyje nurodyta tvarka. Apie nutarties paskelbimo laiką ir vietą kasatoriui, prokurorui ir proceso dalyviams, su kurių interesais kasacinis skundas susijęs, pranešama raštu likus ne mažiau kaip septynioms dienoms iki nutarties paskelbimo.
+3. Išnagrinėjus bylą rašytinio proceso tvarka, nutartis priimama šio Kodekso 377 straipsnyje nustatyta tvarka. Nutarties nuorašai proceso dalyviams įteikiami ar išsiunčiami šio Kodekso 385 straipsnyje nustatytais pagrindais ir tvarka. Teismo nutartis teismo posėdžių salėje neskelbiama, jeigu teismas nenusprendžia kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 
@@ -12601,6 +12703,14 @@ Kasacinės bylos nagrinėjimas
 
 
 3. Jeigu kasacinis skundas paduodamas remiantis nuteistojo ar išteisintojo padėtį bloginančiais pagrindais, suimtas nuteistasis turi būti pristatytas į teismą. Laisvėje esantis nuteistasis, išteisintasis ar asmuo, kuriam byla nutraukta, į teismo posėdį kviečiamas šaukimu. Jeigu nuteistasis, išteisintasis ar asmuo, kuriam byla nutraukta, laikinai išvykęs, šaukimas jam perduoti įteikiamas pasirašytinai kam nors iš kartu su juo gyvenančių pilnamečių asmenų arba nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, darbovietės administracijai. Asmenų, kuriems pranešta apie teismo posėdį, neatvykimas nekliudo nagrinėti bylą.
+
+
+
+
+4. Nuteistojo, išteisintojo, asmens, kuriam byla nutraukta, taip pat asmens, kuriam paskirtos ar nepaskirtos priverčiamosios medicinos priemonės, dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+Papildyta straipsnio dalimi:
+Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
+ 
 
 
 Straipsnio pakeitimai:
@@ -15753,3 +15863,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 102, 127, 130, 233, 257, 276, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2781, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26877
 Lietuvos Respublikos baudžiamojo proceso kodekso 387, 390 straipsnių ir priedo pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
+Lietuvos Respublikos baudžiamojo proceso kodekso 37, 168 ir 214 straipsnių pakeitimo įstatymas
