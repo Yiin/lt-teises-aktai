@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -671,7 +671,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-69. Vaistinių prekės – prekės, kurių grupių sąrašą tvirtina sveikatos apsaugos ministras ir kurias leidžiama įsigyti, laikyti ir parduoti (išduoti) vaistinėse. Ši sąvoka neapima vaistinių preparatų.
+69. Vaistinių prekės – gyventojų sveikatos stiprinimui ir išsaugojimui, ligų prevencijai, taip pat asmens higienai ir kūno priežiūrai skirtos prekės, kurias galima įsigyti, laikyti ir parduoti (išduoti) vaistinėse laikantis šio įstatymo ir kitų teisės aktų, reglamentuojančių vaistinių veiklą, reikalavimų. Ši sąvoka neapima vaistinių preparatų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2646, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24686
+ 
 
 
 
@@ -4275,7 +4278,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-14. Be vaistinių preparatų, vaistinės gali parduoti (išduoti) sveikatos apsaugos ministro nustatytas vaistinių prekes.
+14. Be vaistinių preparatų, vaistinės gali parduoti (išduoti) saugos, kokybės, ženklinimo ir kitus atitinkamoms prekių grupėms teisės aktų nustatytus reikalavimus atitinkančias vaistinių prekes, jeigu atitinkamoms prekėms įsigyti, laikyti ir parduoti (išduoti) yra gauti Lietuvos Respublikos ar Europos Sąjungos kompetentingų institucijų leidimai, kai pagal teisės aktų reikalavimus tokie leidimai yra būtini. Vaistinių prekės laikomos atskirai nuo vaistinių preparatų sveikatos apsaugos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2646, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24686
+ 
 
 
 
@@ -7502,3 +7508,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 4, 5, 7, 8, 19, 20, 21, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 24, 25, 29-2, 29-3 ir 33 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2646, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24686
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 ir 35 straipsnių pakeitimo įstatymas
