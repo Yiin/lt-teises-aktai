@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-09
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -2076,7 +2076,10 @@ Nr. XI-1156, 2010-11-23, Žin., 2010, Nr. 145-7413 (2010-12-11)
 33 straipsnis. Dividendų, išmokamų Lietuvos vienetams, apmokestinimo tvarka
 
 
-1. Lietuvos vieneto gaunami dividendai už turimas Lietuvos vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą apmokestinami taikant 15 procentų pelno mokesčio tarifą. Mokestį apskaičiuoja, išskaito ir sumoka į biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti, dešimtos dienos.
+1. Lietuvos vieneto gaunami dividendai už turimas Lietuvos vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą apmokestinami taikant 15 procentų pelno mokesčio tarifą. Mokestį apskaičiuoja, išskaito ir sumoka į biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti, penkioliktos dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 
@@ -2108,7 +2111,11 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 34 straipsnis. Dividendai, išmokami užsienio vienetams
 
 
-1. Užsienio vienetų gaunami už turimas Lietuvos vieneto akcijas, kapitalo dalį ar kitų teisių turėjimą dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą. Mokestį apskaičiuoja, išskaito ir sumoka į biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti, dešimtos dienos.
+1. Užsienio vienetų gaunami už turimas Lietuvos vieneto akcijas, kapitalo dalį ar kitų teisių turėjimą dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą. Mokestį apskaičiuoja, išskaito ir sumoka į biudžetą dividendus išmokantis Lietuvos vienetas ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti, penkioliktos dienos.
+ 
+Straipsnio dalies pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 
@@ -2135,7 +2142,10 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 35 straipsnis. Užsienio vienetų dividendai
 
 
-1. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus. Mokestį apskaičiuoja ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo gauti, dešimtos dienos.
+1. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus. Mokestį apskaičiuoja ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo gauti, penkioliktos dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 
@@ -2175,11 +2185,13 @@ Nr. XI-539, 2009-12-09, Žin., 2009, Nr. 153-6880 (2009-12-28)
 36 straipsnis. Dividendų deklaracija
 
 
-Deklaracija apie dividendų išmokėjimą vienetui ar dividendų gavimą iš vieneto ir pelno mokesčio apskaičiavimą pateikiama tam vietos mokesčio administratoriui, kurio veiklos teritorijoje įregistruotas pelno mokestį apskaičiuojantis ir sumokantis vienetas ar nuolatinė buveinė, iki mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti arba gauti, dešimtos dienos.
+Deklaracija apie dividendų išmokėjimą vienetui ar dividendų gavimą iš vieneto ir pelno mokesčio apskaičiavimą pateikiama tam vietos mokesčio administratoriui, kurio veiklos teritorijoje įregistruotas pelno mokestį apskaičiuojantis ir sumokantis vienetas ar nuolatinė buveinė, iki mėnesio, einančio po mėnesio, kurį dividendai buvo išmokėti arba gauti, penkioliktos dienos.
 
 
- Straipsnio pakeitimai:
+Straipsnio pakeitimai:
 Nr. IX-2201, 2004-04-29, Žin., 2004, Nr. 73-2534 (2004-04-30)
+Straipsnio pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
  
 
 
@@ -2962,7 +2974,10 @@ IŠIEŠKOJIMAS IR GRĄŽINIMAS
 2. Mokesčio mokėtojai avansinio pelno mokesčio sumą apskaičiuoja šia tvarka:
 
 
-1) pagal praėjusių metų veiklos rezultatus. Avansinis pelno mokestis už pirmuosius devynis mokestinio laikotarpio mėnesius apskaičiuojamas pagal faktiškai apskaičiuotą pelno mokesčio sumą už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį. Avansinis pelno mokestis už dešimtą – dvyliktą mokestinio laikotarpio mėnesius apskaičiuojamas pagal praėjusį mokestinį laikotarpį faktiškai apskaičiuotą pelno mokesčio sumą. Kiekvieno ketvirčio avansinis pelno mokestis sudarys atitinkamai 1/4 faktiškai per minėtus mokestinius laikotarpius apskaičiuoto pelno mokesčio sumos;
+1) pagal praėjusių metų veiklos rezultatus. Avansinis pelno mokestis už pirmuosius šešis mokestinio laikotarpio mėnesius apskaičiuojamas pagal faktiškai apskaičiuotą pelno mokesčio sumą už mokestinį laikotarpį, buvusį prieš praėjusį mokestinį laikotarpį. Avansinis pelno mokestis už septintą–dvyliktą mokestinio laikotarpio mėnesius apskaičiuojamas pagal praėjusį mokestinį laikotarpį faktiškai apskaičiuotą pelno mokesčio sumą. Kiekvieno ketvirčio avansinis pelno mokestis sudarys atitinkamai 1/4 faktiškai per minėtus mokestinius laikotarpius apskaičiuoto pelno mokesčio sumos; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 
@@ -2979,7 +2994,10 @@ IŠIEŠKOJIMAS IR GRĄŽINIMAS
 
 
 
-4. Pirmaisiais mokestiniais metais įregistruoti vienetai nuo avansinio pelno mokesčio atleidžiami, o antraisiais mokestiniais metais mokesčio mokėtojas, pasirinkęs avansinį pelno mokestį mokėti pagal praėjusių metų veiklos rezultatus, pradeda mokėti avansinį pelno mokestį nuo mokestinio laikotarpio dešimto mėnesio. Jeigu mokestinis laikotarpis, buvęs prieš praėjusį mokestinį laikotarpį, buvo trumpesnis negu dvylika mėnesių, apskaičiuojant avansinį pelno mokestį faktiškai sumokėta pelno mokesčio suma laikoma už tą mokestinį laikotarpį apskaičiuota pelno mokesčio suma, padalyta iš to mokestinio laikotarpio mėnesių skaičiaus ir padauginta iš dvylikos. 
+4. Pirmaisiais mokestiniais metais įregistruoti vienetai nuo avansinio pelno mokesčio atleidžiami, o antraisiais mokestiniais metais mokesčio mokėtojas, pasirinkęs avansinį pelno mokestį mokėti pagal praėjusių metų veiklos rezultatus, pradeda mokėti avansinį pelno mokestį nuo mokestinio laikotarpio septinto mėnesio. Jeigu mokestinis laikotarpis, buvęs prieš praėjusį mokestinį laikotarpį, buvo trumpesnis negu dvylika mėnesių, apskaičiuojant avansinį pelno mokestį faktiškai sumokėta pelno mokesčio suma laikoma už tą mokestinį laikotarpį apskaičiuota pelno mokesčio suma, padalyta iš to mokestinio laikotarpio mėnesių skaičiaus ir padauginta iš dvylikos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 
@@ -2993,7 +3011,10 @@ Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 
 
 
-6. Avansinis pelno mokestis turi būti sumokėtas ne vėliau kaip paskutinę kiekvieno mokestinio laikotarpio ketvirčio dieną, o už paskutinį mokestinio laikotarpio ketvirtį – ne vėliau kaip iki šio ketvirčio paskutinio mėnesio 25 dienos.
+6. Avansinis pelno mokestis turi būti sumokėtas ne vėliau kaip kiekvieno mokestinio laikotarpio ketvirčio paskutinio mėnesio penkioliktą dieną.
+Straipsnio dalies pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 Straipsnio pakeitimai:
@@ -3124,11 +3145,7 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
 
 
-2. Metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos pateikiamos pasibaigus mokestiniam laikotarpiui iki kito mokestinio laikotarpio šešto mėnesio pirmos dienos. Lietuvos vieneto arba nuolatinės buveinės paskutinio mokestinio laikotarpio metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos pateikiamos per 30 dienų nuo veiklos pabaigos.
-TAR pastaba. 2 dalies nuostatos taikomos deklaruojant 2015 m. sausio 1 d. ir vėliau prasidedančių mokestinių laikotarpių pelno mokestį.
-Straipsnio dalies pakeitimai:
-Nr. XII-1654, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06528
- 
+2. Metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos pateikiamos pasibaigus mokestiniam laikotarpiui iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Lietuvos vieneto arba nuolatinės buveinės paskutinio mokestinio laikotarpio metinė pelno mokesčio ir (arba) metinė fiksuoto pelno mokesčio deklaracijos pateikiamos per 30 dienų nuo veiklos pabaigos.
 
 
 
@@ -3136,12 +3153,12 @@ Nr. XII-1654, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06528
 3. Avansinio pelno mokesčio deklaracijos pateikimas:
 
 
-1) jei avansinis pelno mokestis apskaičiuojamas pagal praėjusių metų veiklos rezultatus, avansinio pelno mokesčio deklaracija už pirmuosius devynis mokestinio laikotarpio mėnesius pateikiama ne vėliau kaip mokestinio laikotarpio pirmo mėnesio paskutinę dieną. Avansinio pelno mokesčio apyskaita už mokestinio laikotarpio dešimtą – dvyliktą mėnesius pateikiama ne vėliau kaip mokestinio laikotarpio dešimto mėnesio paskutinę dieną;
+1) jei avansinis pelno mokestis apskaičiuojamas pagal praėjusių metų veiklos rezultatus, avansinio pelno mokesčio deklaracija už pirmuosius šešis mokestinio laikotarpio mėnesius pateikiama ne vėliau kaip mokestinio laikotarpio trečio mėnesio penkioliktą dieną. Avansinio pelno mokesčio deklaracija už mokestinio laikotarpio septintą–dvyliktą mėnesius pateikiama ne vėliau kaip mokestinio laikotarpio devinto mėnesio penkioliktą dieną;
 
 
 
 
-2) jei avansinis pelno mokestis apskaičiuojamas pagal numatomą mokestinio laikotarpio pelno mokesčio sumą, avansinio pelno mokesčio deklaracija pateikiama ne vėliau kaip mokestinio laikotarpio pirmo mėnesio paskutinę dieną. 
+2) jei avansinis pelno mokestis apskaičiuojamas pagal numatomą mokestinio laikotarpio pelno mokesčio sumą, avansinio pelno mokesčio deklaracija pateikiama ne vėliau kaip mokestinio laikotarpio trečio mėnesio penkioliktą dieną.
 
 
 
@@ -3150,6 +3167,8 @@ Straipsnio pakeitimai:
 Nr. X-456, 2005-12-20, Žin., 2005, Nr. 153-5635 (2005-12-31)
 Nr. X-1110, 2007-05-03, Žin., 2007, Nr. 55-2126 (2007-05-19)
 Nr. XI-1156, 2010-11-23, Žin., 2010, Nr. 145-7413 (2010-12-11)
+Straipsnio pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
  
 
 
@@ -3175,7 +3194,10 @@ apskaičiuotą bei į biudžetą sumokėtą pelno mokestį pateikimas
 53 straipsnis. Pelno mokesčio sumokėjimas ir grąžinimas
 
 
-1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip iki kito mokestinio laikotarpio šešto mėnesio pirmos dienos. Veiklą baigiančių mokesčio mokėtojų pelno mokestis ir (arba) fiksuotas pelno mokestis pagal paskutinio mokestinio laikotarpio metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.
+1. Pelno mokestis ir (arba) fiksuotas pelno mokestis mokami pagal metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas. Pelno mokestis ir (arba) fiksuotas pelno mokestis turi būti sumokėti ne vėliau kaip iki kito mokestinio laikotarpio šešto mėnesio penkioliktos dienos. Veiklą baigiančių mokesčio mokėtojų pelno mokestis ir (arba) fiksuotas pelno mokestis pagal paskutinio mokestinio laikotarpio metines pelno mokesčio ir (arba) fiksuoto pelno mokesčio deklaracijas turi būti sumokėti ne vėliau kaip paskutinę metinės pelno mokesčio ir (arba) metinės fiksuoto pelno mokesčio deklaracijų pateikimo termino dieną. Jeigu metinėje pelno mokesčio deklaracijoje apskaičiuota pelno mokesčio suma viršija už mokestinį laikotarpį sumokėtą avansinio pelno mokesčio sumą, mokesčio mokėtojas privalo šį skirtumą sumokėti į biudžetą. Mokesčio permoka grąžinama Mokesčių administravimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
+ 
 
 
 
@@ -3557,17 +3579,18 @@ Fizinių asmenų pajamų mokesčio laikinojo įstatymo IV skyrių tvarka
 16. Iki atskiro Lietuvos Respublikos Seimo sprendimo laisvųjų ekonominių zonų įmonių, juridinių asmenų (išskyrus nurodytus šio Įstatymo 5 straipsnio 5 dalyje), kuriuose dirba riboto darbingumo asmenys, apmokestinamasis pelnas apmokestinamas šioje dalyje nustatyta tvarka:
 
 
-1) (neteko galios nuo 2008 m. gruodžio 30 d.);
+1) laisvosios ekonominės zonos įmonė, kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 milijono eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos prekių gamybos, apdirbimo, perdirbimo, sandėliavimo veiklos, orlaivių ir erdvėlaivių bei susijusios įrangos gamybos, orlaivių ir erdvėlaivių remonto ir techninės priežiūros, su orlaivių techniniu aptarnavimu ir remontu susijusios veiklos (elektroninės ir optinės įrangos remonto, techninio tikrinimo ir analizės), kompiuterių programavimo veiklos, kompiuterių konsultacinės veiklos, kompiuterinės įrangos tvarkybos, kitos informacinių technologijų ir kompiuterių paslaugų veiklos, duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos, užsakomųjų informacinių paslaugų centrų veiklos, didmeninės prekybos zonoje sandėliuojamomis prekėmis ir (arba) teikiamų paslaugų, susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų, apdirbtų, perdirbtų ar sandėliuojamų, taip pat zonoje vykdomai gamybai, apdirbimui ar perdirbimui reikalingų prekių transportavimo, aptarnavimo, statybos zonos teritorijoje ir kitų su minėtomis veiklomis susijusių paslaugų). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 milijoną eurų. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
 
 
 
 
-2) laisvosios ekonominės zonos įmonė, kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 milijono eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos prekių gamybos, apdirbimo, perdirbimo, sandėliavimo veiklos, orlaivių ir erdvėlaivių bei susijusios įrangos gamybos, orlaivių ir erdvėlaivių remonto ir techninės priežiūros, su orlaivių techniniu aptarnavimu ir remontu susijusios veiklos (elektroninės ir optinės įrangos remonto, techninio tikrinimo ir analizės), kompiuterių programavimo veiklos, kompiuterių konsultacinės veiklos, kompiuterinės įrangos tvarkybos, kitos informacinių technologijų ir kompiuterių paslaugų veiklos, duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos, užsakomųjų informacinių paslaugų centrų veiklos, didmeninės prekybos zonoje sandėliuojamomis prekėmis ir (arba) teikiamų paslaugų, susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų, apdirbtų, perdirbtų ar sandėliuojamų, taip pat zonoje vykdomai gamybai, apdirbimui ar perdirbimui reikalingų prekių transportavimo, aptarnavimo, statybos zonos teritorijoje ir kitų su minėtomis veiklomis susijusių paslaugų). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 milijoną eurų. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
+2) laisvosios ekonominės zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos apskaitos, buhalterijos ir konsultacinės veiklos (išskyrus auditą, sąskaitų ekspertizės ir teisingumo paliudijimą), įstaigų administracinės ir aptarnavimo veiklos, žmogiškųjų išteklių veiklos, architektūros ir inžinerijos ir su ja susijusių techninių konsultacijų veiklos (išskyrus statybos darbų kontrolę, vietovės nuotraukų darymą). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis darbuotojų skaičius mokestiniais metais tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
 
 
 
 
 3) juridiniai asmenys (išskyrus nurodytus šio Įstatymo 5 straipsnio 5 dalyje), kurių pajamos už pačių pagamintą produkciją sudaro daugiau kaip 50 procentų visų gautų pajamų ir kuriuose dirba riboto darbingumo asmenys, mažina apskaičiuotą pelno mokestį tokia tvarka:
+ 
 
 
 
@@ -3593,24 +3616,13 @@ Fizinių asmenų pajamų mokesčio laikinojo įstatymo IV skyrių tvarka
 
 
  
-Asmenų, kuriems taikomas riboto darbingumo asmenų statusas, kategorijas, šių asmenų dalies tarp visų dirbančių asmenų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką nustato Lietuvos Respublikos Vyriausybė;
+Asmenų, kuriems taikomas riboto darbingumo asmenų statusas, kategorijas, šių asmenų dalies tarp visų dirbančių asmenų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+TAR pastaba. 16 dalies nuostatos taikomos apskaičiuojant 2017 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 
-
-
-4) neteko galios nuo 2004-01-01;
-
-
-
-
-5) neteko galios nuo 2008-12-30;
-
-
-
-
-6) neteko galios nuo 2008-12-30.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XII-2565, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19387
+ 
 
 
 
@@ -4401,3 +4413,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 32, 33, 34, 35, 36, 40
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-88, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29276
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 40-1 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2565, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19387
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 58 straipsnio pakeitimo įstatymas
