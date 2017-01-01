@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -167,17 +167,26 @@ Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
 Valstybės rinkliava neimama už:
 
 
-1) gimimo, mirties, įvaikinimo ir tėvystės nustatymo registravimą, už klaidų, padarytų registruojant civilinės būklės aktus, ištaisymą, nepilnamečių vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams tėvų civilinės būklės aktuose; 
+1) gimimo registravimą, civilinės būklės aktų įrašų ištaisymą, nepilnamečių vaikų civilinės būklės aktų įrašų pakeitimą ar papildymą pasikeitus tėvų civilinės būklės aktų įrašų duomenims; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
+ 
 
 
 
 
-2) vardo, pavardės, tėvo vardo pakeitimą, papildymą ir ištaisymą tikslinant įrašus, padarytus registruojant aktus okupacijų metais; 
+2) vardo, pavardės, tėvo vardo pakeitimą, papildymą ir ištaisymą tikslinant civilinės būklės aktų įrašus, padarytus registruojant aktus okupacijų metais; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
+ 
 
 
 
 
-3) Užsienio reikalų ministerijai išduodamus metrikacijos liudijimų dublikatus;
+3) Neteko galios nuo 2017-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
+ 
 
 
 
@@ -899,3 +908,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 papildymo 13-1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
