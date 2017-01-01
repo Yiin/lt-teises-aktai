@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -1279,9 +1279,11 @@ BIUDŽETŲ VYKDYMAS
 
 
 
-3. Baudos už administracinius teisės pažeidimus įskaitomos į tą biudžetą, iš kurio išlaikoma institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio teisės pažeidimo protokolą arba skyrė baudą, išskyrus kituose įstatymuose nustatytus atvejus. Tokių baudų ir kitų iš valstybės ar savivaldybių biudžetų neišlaikomų subjektų paskirtų baudų už administracinius teisės pažeidimus įskaitymo ir paskirstymo tvarką nustato Vyriausybė ar jos įgaliota institucija. Tais atvejais, kai administracinis teisės pažeidimas yra užfiksuotas iš savivaldybės biudžeto išlaikomomis arba eksploatuojamomis stacionariomis ar mobiliosiomis teisės pažeidimo fiksavimo sistemomis, bauda už administracinį teisės pažeidimą įskaitoma taip: 50 procentų įskaitoma į savivaldybės biudžetą, 50 procentų – į valstybės biudžetą.
+3. Baudos už administracinius nusižengimus įskaitomos į tą biudžetą, iš kurio išlaikoma institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio nusižengimo protokolą arba skyrė baudą, išskyrus kituose įstatymuose nustatytus atvejus. Tokių baudų ir kitų iš valstybės ar savivaldybių biudžetų neišlaikomų subjektų paskirtų baudų už administracinius nusižengimus įskaitymo ir paskirstymo tvarką nustato Vyriausybė ar jos įgaliota institucija. Tais atvejais, kai administracinis nusižengimas yra užfiksuotas iš savivaldybės biudžeto išlaikomomis arba eksploatuojamomis stacionariomis ar mobiliosiomis teisės pažeidimo fiksavimo sistemomis, bauda už administracinį nusižengimą įskaitoma taip: 50 procentų įskaitoma į savivaldybės biudžetą, 50 procentų – į valstybės biudžetą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1513, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21279
+Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
+Nr. XII-2284, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06436
  
 
 
