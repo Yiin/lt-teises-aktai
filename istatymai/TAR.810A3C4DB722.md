@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.810A3C4DB722"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1764, i. k. 0991010ISTAIII-1207
  
@@ -115,7 +115,9 @@ Nepriekaištingos reputacijos subjektu nelaikomas:
 
 
 
-3) fizinis asmuo, kuris padarė administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 443, 1071 ar 1072 straipsnyje, – vienus metus nuo administracinio nurodymo ar administracinės nuobaudos įvykdymo dienos.
+3) fizinis asmuo, kuris padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 62, 65, 66, 71, 339 ar 340 straipsnyje, – vienus metus nuo administracinio nurodymo ar administracinės nuobaudos įvykdymo dienos.
+Straipsnio punkto pakeitimai:
+Nr. XIII-160, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29854
  
 
 
@@ -754,3 +756,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1903, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11089
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo Nr. VIII-1207 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-160, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29854
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo Nr. VIII-1207 3 straipsnio pakeitimo įstatymas
