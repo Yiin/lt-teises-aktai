@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4"
 
 # Lietuvos Respublikos kibernetinio saugumo įstatymas
 
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+ 
+Įstatymas paskelbtas: TAR 2014-12-23, i. k. 2014-20553
+ 
+
+ 
 LIETUVOS RESPUBLIKOS KIBERNETINIO SAUGUMO ĮSTATYMAS
  
 2014 m. gruodžio 11 d. Nr. XII-1428
@@ -763,10 +769,13 @@ TARPINSTITUCINIS BENDRADARBIAVIMAS, INFORMACIJOS PASIKEITIMO TVARKA IR ATSAKOMYB
 19 straipsnis. Atsakomybė už šio įstatymo ir jo įgyvendinamųjų teisės aktų pažeidimus
 
 
-Už šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytų reikalavimų pažeidimus viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų, elektroninės informacijos prieglobos paslaugų teikėjų ir ypatingos svarbos informacinės infrastruktūros valdytojų administracijos vadovai atsako Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka.
+Už šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytų reikalavimų pažeidimus viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų, elektroninės informacijos prieglobos paslaugų teikėjų ir ypatingos svarbos informacinės infrastruktūros valdytojų administracijos vadovai atsako Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+TAR pastaba. 19 straipsnio nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2524, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20282
  
-
-
 
 
 
@@ -801,3 +810,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2524, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20282
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 19 straipsnio pakeitimo įstatymas
