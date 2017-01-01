@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.17D427E4AAD3"
 
 # Lietuvos Respublikos policijos rėmėjų įstatymas
 
-Suvestinė redakcija nuo 2015-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 60-1705, i. k. 0981010ISTAVIII-800
  
@@ -57,6 +57,21 @@ BENDROSIOS NUOSTATOS
 
 
 3. Policijos rėmėjas – policijoje ar Lietuvos kariuomenėje netarnaujantis Lietuvos Respublikos pilietis ar Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos valstybės narės pilietis, kurie šio bei kitų įstatymų ir teisės aktų nustatyta tvarka aktyviais veiksmais savo noru padeda policijai saugoti viešąją tvarką ar kitaip užkerta kelią nusikalstamoms veikoms ir kitiems teisės pažeidimams.
+
+
+
+
+4. Prievarta – policijos rėmėjų veiklos metodas, kuriuo siekiama padėti policijai įgyvendinti jai pavestus uždavinius ir kuris taikomas, kai nevykdomi policijos rėmėjų reikalavimai ar nurodymai arba siekiama išvengti pavojaus. Policijos rėmėjas šio įstatymo nustatytais atvejais ir tvarka gali naudoti psichinę ir (ar) fizinę prievartą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
+ 
+
+
+
+
+5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos policijos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
  
 
 
@@ -544,7 +559,10 @@ Policijos rėmėjų veikla saugant viešąją tvarką ar kitaip užkertant keli�
 
 
 ŠEŠTASIS SKIRSNIS
-SPECIALIŲJŲ PRIEMONIŲ NAUDOJIMAS IR POLICIJOS RĖMĖJŲ VEIKLOS FINANSAVIMAS
+PRIEVARTOS NAUDOJIMAS IR POLICIJOS RĖMĖJŲ VEIKLOS FINANSAVIMAS 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
  
 
 
@@ -564,54 +582,88 @@ SPECIALIŲJŲ PRIEMONIŲ NAUDOJIMAS IR POLICIJOS RĖMĖJŲ VEIKLOS FINANSAVIMAS
 
 
 
-17 straipsnis. Specialiųjų priemonių naudojimas
+17 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Policijos rėmėjai kartu su policijos pareigūnais turi teisę naudoti specialiąsias priemones, kai būtina nutraukti nusikalstamas veikas ar užkirsti kelią administraciniams teisės pažeidimams, sulaikyti juos padariusius asmenis ir ginant asmens teisėtus interesus. Naudoti specialiąsias priemones galima tik tiek, kiek to reikia šioje dalyje nurodytiems veiksmams atlikti, ir tik po to, kai visos įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos. Specialiųjų priemonių rūšį ir jų naudojimo ribas pasirenka policijos rėmėjas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodami prievartą, policijos rėmėjai privalo stengtis išvengti sunkių padarinių žmonėms ir turtui.
-
-
-
-
-2. Policijos rėmėjai įstatymų nustatytais atvejais ir tvarka gali naudoti šias specialiąsias priemones: policijos ginkluotėje esančias lazdas, antrankius ir dujas. 
+1. Policijos rėmėjai, kartu su policijos pareigūnais šio įstatymo nustatytais atvejais ir tvarka vykdydami pareigas, gali panaudoti prievartą. Policijos rėmėjai turi teisę panaudoti prievartą tik būtinais atvejais ir tik tiek, kiek to reikia policijos rėmėjo pareigoms įvykdyti. Policijos rėmėjai naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdami į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų policijos rėmėjo ar kito asmens gyvybei ar sveikatai.
 
 
 
 
-3. Prieš naudodami specialiąsias priemones, policijos rėmėjai privalo įspėti apie šį ketinimą, suteikdami galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę policijos rėmėjo ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+2. Psichinę ar fizinę prievartą policijos rėmėjas turi teisę panaudoti šiais atvejais:
+
+
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
 
 
 
 
-4. Policijos rėmėjai, panaudoję specialiąsias priemones nepažeisdami šio įstatymo reikalavimų ir padarę žalos įstatymų saugomoms vertybėms, atsakomybėn netraukiami. 
+2) sulaikydamas asmenis (jeigu jie priešinasi);
+
+
+
+
+3) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimus;
+
+
+
+
+4) stabdydamas transporto priemonę, laivą ar orlaivį;
+
+
+
+
+5) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
+
+
+
+
+
+
+3. Specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
+
+
+1) prieš asmenis, jei akivaizdu arba policijos rėmėjui žinoma, kad jie neįgalūs;
+
+
+
+
+2) prieš asmenis, jei policijos rėmėjui yra žinoma, kad jie turi neliečiamybės teisę;
+
+
+
+
+3) prieš moteris, jei akivaizdu arba policijos rėmėjui žinoma, kad jos nėščios;
+
+
+
+
+4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+
+
+
+
+
+
+4. Policijos rėmėjas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie policijos rėmėjo panaudotą psichinę ar fizinę prievartą, jei tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+5. Specialiųjų priemonių specifikaciją ir panaudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
  
 
 
 
 
-
-
-18 straipsnis. Specialiųjų priemonių naudojimo pagrindai 
-
-
-1. Policijos rėmėjas turi teisę panaudoti specialiąsias priemones:
-
-
-1) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
-
-
-
-
-2) sulaikydamas teisės pažeidimą darantį arba padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo.
-
-
-
-
-
-
-2. Draudžiama naudoti specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs ar nepilnamečiai (jei jų amžius žinomas policijos rėmėjui arba išvaizda atitinka amžių), išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai tokių asmenų grupė užpuola ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+18 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
  
-
-
 
 
 
@@ -652,3 +704,8 @@ Lietuvos Respublikos policijos rėmėjų įstatymo 5, 11 ir 13 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1766, 2015-06-09, paskelbta TAR 2015-06-16, i. k. 2015-09608
 Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
+Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 2 ir 17 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas
