@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2016-11-17 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -6288,27 +6288,23 @@ NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS SOCIALINĖMS TEISĖMS
  
 
 
-176 straipsnis. Darbų saugos ir sveikatos apsaugos darbe reikalavimų pažeidimas
+176 straipsnis. Darbuotojų saugos ir sveikatos reikalavimų pažeidimas
 
 
-1. Darbdavys ar jo įgaliotas asmuo, pažeidęs darbų saugos įstatymuose ar kituose teisės aktuose nustatytus darbų saugos ar sveikatos apsaugos darbe reikalavimus, jeigu dėl to įvyko nelaimingas atsitikimas žmonėms, avarija ar atsirado kitokių sunkių padarinių, 
+1. Darbdavys ar jo įgaliotas asmuo, pažeidęs Darbuotojų saugos ir sveikatos įstatyme ar kituose teisės aktuose nustatytus darbuotojų saugos ir sveikatos reikalavimus, jeigu dėl to įvyko nelaimingas atsitikimas darbe, avarija ar atsirado kitokių sunkių padarinių, 
 baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
 
 
-2. Darbdavys ar jo įgaliotas asmuo, padaręs šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to galėjo įvykti nelaimingas atsitikimas žmonėms, avarija ar atsirasti kitokių sunkių padarinių, padarė baudžiamąjį nusižengimą ir
-baudžiamas bauda arba laisvės apribojimu, arba areštu.
-
-
-
-
-3. Šiame straipsnyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
+2. Šiame straipsnyje numatyta veika yra nusikalstama ir tais atvejais, kai ji padaryta dėl neatsargumo.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+Straipsnio pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
  
 
 
@@ -6502,6 +6498,30 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 Straipsnio pakeitimai:
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+ 
+
+
+
+
+1821 straipsnis. Manipuliavimas sporto varžybomis
+
+
+1. Tas, kas neteisėtai paveikė sąžiningą profesionalių sporto varžybų eigą arba rezultatą,
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+
+
+
+2. Asmuo, kuris padarė šio straipsnio 1 dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu jis iki jo pripažinimo įtariamuoju savanoriškai apie tai pranešė teisėsaugos institucijai ir aktyviai bendradarbiavo išaiškinant šią nusikalstamą veiką.
+
+
+
+
+3. Už šio straipsnio 1 dalyje numatytą veiką atsako ir juridinis asmuo.
+
+
+Papildyta straipsniu:
+Nr. XII-2589, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20302
  
 
 
@@ -7605,27 +7625,23 @@ Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 
 
 
-220 straipsnis. Neteisingų duomenų apie pajamas, pelną ar turtą pateikimas 
+220 straipsnis. Neteisingų duomenų apie pajamas, pelną ar turtą pateikimas
 
 
-1. Tas, kas siekdamas išvengti mokesčių įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie asmens pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai,
+1. Tas, kas siekdamas išvengti mokesčių, kurių suma viršija 10 MGL, įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie asmens pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai, 
 baudžiamas bauda arba laisvės apribojimu, arba laisvės atėmimu iki trejų metų.
 
 
 
 
-2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, siekdamas išvengti mokesčių, kurių suma neviršijo 10 MGL, padarė baudžiamąjį nusižengimą ir
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.
-
-
-
-
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+Straipsnio pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
  
 
 
@@ -7634,24 +7650,20 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 221 straipsnis. Deklaracijos, ataskaitos ar kito dokumento nepateikimas
 
 
-1. Tas, kas teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie asmens pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti, padarė baudžiamąjį nusižengimą ir
-baudžiamas viešaisiais darbais arba bauda, arba areštu.
-
-
-
-
-2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką siekdamas išvengti daugiau kaip 500 MGL dydžio mokesčių ar kitokių įmokų, 
+1. Tas, kas siekdamas išvengti daugiau kaip 500 MGL dydžio mokesčių ar kitokių įmokų teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie asmens pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti, 
 baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 
 
 
 
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+Straipsnio pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
  
 
 
@@ -9356,8 +9368,11 @@ Nr. XI-994, 2010-07-02, Žin., 2010, Nr. 84-4403 (2010-07-15)
 272 straipsnis. Neteisėtas medžiojimas ar žvejojimas arba kitoks laukinės gyvūnijos išteklių naudojimas
 
 
-1. Tas, kas medžiojo ar žvejojo uždraustu laiku, uždraustose vietose ar draudžiamais būdais, įrankiais, priemonėmis arba kitaip neteisėtai naudojo ar naikino laukinės gyvūnijos išteklius ir padarė didelės žalos gyvūnijai,
+1. Tas, kas medžiojo ar žvejojo uždraustu laiku, uždraustose vietose ar draudžiamais būdais, įrankiais, priemonėmis arba kitaip neteisėtai naudojo ar naikino laukinės gyvūnijos išteklius ir padarė didelės žalos gyvūnijai, taip pat tas, kas žvejojo naudodamas elektros ar ultragarso žvejybos prietaisus,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+Straipsnio dalies pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
 
 
 
@@ -9400,16 +9415,18 @@ Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05), įstatymo atitaisymas
 273 straipsnis. Neteisėtas miško kirtimas ar pelkių naikinimas
 
 
-1. Tas, kas neturėdamas leidimo iškirto ar kitaip išnaikino didesnį negu vieno hektaro savo miško plotą arba nusausino pelkę,
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+1. Tas, kas neturėdamas leidimo iškirto, sunaikino ar sužalojo miško žemėje daugiau negu 500 kietmetrių medžių arba nusausino pelkę,
+baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
 
 
 2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+
+Straipsnio pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
  
-
-
 
 
 
@@ -9749,17 +9766,35 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 
 
-7. Asmuo atsako pagal šio straipsnio 1–6 dalis tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo.
+7. Tas, kas vairavo kelių transporto priemonę arba mokė praktinio vairavimo būdamas apsvaigęs nuo alkoholio, kai jo kraujyje buvo daugiau negu 1,5 promilės alkoholio, 
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų. 
+Papildyta straipsnio dalimi:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
 
 
 
 
-8. Laikoma, kad asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,4 promilės ir daugiau alkoholio.
+8. Asmuo atsako pagal šio straipsnio 1–6 dalis tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
 
 
 
 
-9. Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir kitos mechaninės transporto priemonės.
+9. Laikoma, kad šio straipsnio 2, 4 ar 6 dalyje numatytą veiką padaręs asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,41 promilės ir daugiau alkoholio arba kai jis vengia neblaivumo patikrinimo arba vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo.
+Straipsnio dalies pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
+
+
+
+
+10. Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir kitos mechaninės transporto priemonės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+ 
 
 
 Straipsnio pakeitimai:
@@ -9816,18 +9851,14 @@ baudžiamas laisvės atėmimu iki šešerių metų.
 284 straipsnis. Viešosios tvarkos pažeidimas
 
 
-1. Tas, kas viešoje vietoje įžūliu elgesiu, grasinimais, patyčiomis arba vandališkais veiksmais demonstravo nepagarbą aplinkiniams ar aplinkai ir sutrikdė visuomenės rimtį ar tvarką,
+Tas, kas viešoje vietoje įžūliu elgesiu, grasinimais, piktybiškai tyčiodamasis arba vandališkais veiksmais demonstravo nepagarbą aplinkiniams ar aplinkai ir sutrikdė visuomenės rimtį ar tvarką,
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-
-
-
-2. Tas, kas viešoje vietoje necenzūriniais žodžiais ar nepadoriu elgesiu trikdė visuomenės rimtį ar tvarką, padarė baudžiamąjį nusižengimą ir
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
 Straipsnio pakeitimai:
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
  
 
 
@@ -11543,3 +11574,8 @@ Lietuvos Respublikos baudžiamojo kodekso 7, 213, 217, 218, 224-1 straipsnių ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 Lietuvos Respublikos baudžiamojo kodekso 20, 225, 226, 227, 230 straipsnių ir priedo pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2589, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20302
+Lietuvos Respublikos baudžiamojo kodekso papildymo 182-1 straipsniu įstatymas
