@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-05-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -974,7 +974,10 @@ biudžetą
 
 
 
-2. Šio straipsnio 1 dalyje nustatytos įmokos dydis vienam apdraustajam, draudžiamam valstybės lėšomis, nuo 2009 metų yra 32 procentai, 2010 metais – 33 procentai, 2011 metais – 34 procentai, 2012 metais – 35 procentai, 2013 metais – 36 procentai, 2014 ir tolesniais metais – 37 procentai Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio.
+2. Šio straipsnio 1 dalyje nustatytos įmokos dydis vienam apdraustajam, draudžiamam valstybės lėšomis, nuo 2009 metų yra 32 procentai, 2010 metais – 33 procentai, 2011 metais – 34 procentai, 2012 metais – 35 procentai, 2013 metais – 36 procentai, 2014, 2015 ir 2016 metais – 37 procentai Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio, o nuo 2017 metų šios įmokos dydis kiekvienais metais didinamas 2 procentiniais punktais, kol sudarys ne mažiau kaip 9 procentus užpraeitų metų 12 minimaliųjų mėnesinių algų dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XII-2187, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20891
+ 
 
 
 
@@ -2601,3 +2604,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 15, 18 ir 19 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2003, 2015-11-10, paskelbta TAR 2015-11-17, i. k. 2015-18263
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2187, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20891
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 16 straipsnio pakeitimo įstatymas
