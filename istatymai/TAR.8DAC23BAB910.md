@@ -20,24 +20,34 @@ LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ REGISTRO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 124-6282, i. k. 1131010ISTA0XII-603
  
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ REGISTRO ĮSTATYMAS
+TAR pastaba. Iki 2017 m. sausio 1 d. padaryti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449, numatyti administraciniai teisės pažeidimai, kurie neperkvalifikuoti į administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo nustatyta tvarka, laikomi Administracinių nusižengimų registro objektais.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+Lietuvos Respublikos administracinių teisės pažeidimų registro įstatymo Nr. XII-603 pavadinimo ir 1, 3, 5, 6, 7 straipsnių pakeitimo įstatymas
+ 
+LIETUVOS RESPUBLIKOS  ADMINISTRACINIŲ NUSIŽENGIMŲ REGISTRO  ĮSTATYMAS
  
 2013 m. lapkričio 19 d. Nr. XII-603 
 Vilnius
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Administracinių teisės pažeidimų registro (toliau – Registras) sukūrimą, Registro objektus ir jų registravimą, Registro valdytoją ir Registro tvarkytojų skyrimą, Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymo, teikimo, perdavimo ir skelbimo pagrindus, Registro finansavimą, reorganizavimą ir likvidavimą. 
+Šis įstatymas nustato Administracinių nusižengimų registro (toliau – Registras) sukūrimą, Registro objektus ir jų registravimą, Registro valdytoją ir Registro tvarkytojų skyrimą, Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymo, teikimo, perdavimo ir skelbimo pagrindus, Registro finansavimą, reorganizavimą ir likvidavimą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
  
-
-
 
 
 
@@ -61,7 +71,10 @@ Vilnius
 3 straipsnis. Registro objektai ir jų registravimas
 
 
-1. Registro objektai yra Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka užfiksuoti administraciniai teisės pažeidimai. 
+1. Registro objektai yra Lietuvos Respublikos administracinių nusižengimų kodekso (toliau – Administracinių nusižengimų kodeksas) nustatyta tvarka užfiksuoti administraciniai nusižengimai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+ 
 
 
 
@@ -108,7 +121,17 @@ Vilnius
 
 
 
-2. Registro tvarkytojai paskiriami Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Registro nuostatai. 
+2. Registro tvarkytojais skiriami juridiniai asmenys, kurių pareigūnai Administracinių nusižengimų kodekso nustatyta tvarka turi teisę pradėti administracinių nusižengimų teiseną, atlikti administracinių nusižengimų tyrimą, surašyti administracinių nusižengimų protokolus ir (ar) kurie turi teisę ne teismo tvarka nagrinėti administracinių nusižengimų bylas. 
+Papildyta straipsnio dalimi:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+ 
+
+
+
+
+3. Registro tvarkytojai paskiriami Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Registro nuostatai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
  
 
 
@@ -119,10 +142,12 @@ Vilnius
 6 straipsnis. Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas
 
 
-Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos administracinių teisės pažeidimų kodeksu, Lietuvos Respublikos civilinio proceso kodeksu, Lietuvos Respublikos mokesčių administravimo įstatymu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
+Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Administracinių nusižengimų kodeksu, Lietuvos Respublikos civilinio proceso kodeksu, Lietuvos Respublikos mokesčių administravimo įstatymu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
  
-
-
 
 
 
@@ -145,7 +170,9 @@ Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba)
 
 
 
-4. Viešai gali būti skelbiami statistiniai Registro duomenys ir Registro tvarkytojo, kuris įregistravo Registro objektą, arba Registro valdytojo sprendimu administracinio teisės pažeidimo, kurio viešas paskelbimas nepakenktų tyrimui, trumpas aprašymas, neatskleidžiant asmens duomenų.
+4. Viešai gali būti skelbiami statistiniai Registro duomenys ir Registro tvarkytojo, kuris įregistravo Registro objektą, arba Registro valdytojo sprendimu administracinio nusižengimo, kurio viešas paskelbimas nepakenktų tyrimui, trumpas aprašymas, neatskleidžiant asmens duomenų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
  
 
 
@@ -210,3 +237,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1512, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21278
 Lietuvos Respublikos administracinių teisės pažeidimų registro įstatymo Nr. XII-603 10 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+Lietuvos Respublikos administracinių teisės pažeidimų registro įstatymo Nr. XII-603 pavadinimo ir 1, 3, 5, 6, 7 straipsnių pakeitimo įstatymas
