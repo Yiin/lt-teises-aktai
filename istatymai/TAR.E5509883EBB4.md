@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -740,7 +740,10 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
-4. Asmenys, pažeidę šiame straipsnyje nustatytus reikalavimus, atsako Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka.
+4. Asmenys, pažeidę šiame straipsnyje nustatytus reikalavimus, atsako Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2447, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17715
+ 
 
 
 Papildyta straipsniu:
@@ -2242,3 +2245,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 13, 19 ir 20 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 3, 4, 8, 10, 12, 14, 16, 17, 19, 21, 22, 23, 24, 28 straipsnių pakeitimo, Įstatymo papildymo 8-1, 10-1, 10-2, 10-3 straipsniais ir antruoju-1 skirsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2447, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17715
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10-2 straipsnio pakeitimo įstatymas
