@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -236,7 +236,10 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 
 
-15. Europos Sąjungos muitų teritorija – teritorija, kurioje taikomos 1992 m. spalio 12 d. Tarybos reglamento Nr. (EEB) 2913/92, nustatančio Bendrijos muitinės kodeksą (toliau – Bendrijos muitinės kodeksas), nuostatos.
+15. Sąjungos muitų teritorija – teritorija, apibrėžta 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Sąjungos muitinės kodeksas), 4 straipsnyje. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -251,7 +254,10 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 
 
-18. Importo vieta – vieta, kurioje prekės yra tuo metu, kai jos išleidžiamos į laisvą apyvartą pagal Bendrijos muitinės kodekso 79 straipsnį.
+18. Importo vieta – vieta, kurioje prekės yra tuo metu, kai jos išleidžiamos į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -351,7 +357,10 @@ b) didesnė kaip 15 procentų, bet ne didesnė kaip 18 procentų ir yra gauta ti
 
 
 
-26. Registruotas akcizais apmokestinamų prekių siuntėjas (toliau – registruotas siuntėjas) – asmuo, kuris šio įstatymo ir kitų teisės aktų nustatyta tvarka yra įsiregistravęs verslo tikslais tik išgabenti akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, jas išleidžiant į laisvą apyvartą pagal Bendrijos muitinės kodekso 79 straipsnį. Registruotais siuntėjais laikomi ir kitų valstybių narių kompetentingų institucijų pripažinti asmenys.
+26. Registruotas akcizais apmokestinamų prekių siuntėjas (toliau – registruotas siuntėjas) – asmuo, kuris šio įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka yra įsiregistravęs verslo tikslais tik išgabenti akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, jas išleidžiant į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį. Registruotais siuntėjais laikomi ir kitų valstybių narių kompetentingų institucijų pripažinti asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -371,7 +380,10 @@ b) didesnė kaip 15 procentų, bet ne didesnė kaip 18 procentų ir yra gauta ti
 
 
 
-28. Sąlyginio neapmokestinimo muitinės procedūra arba priemonė – viena iš Bendrijos muitinės kodekse nustatytų specialiųjų muitinės vykdomos priežiūros procedūrų, kuri taikoma ne Europos Sąjungos prekėms, įvežamoms į Europos Sąjungos muitų teritoriją, laikino saugojimo vietą, laisvąsias zonas ar laisvuosius sandėlius, taip pat bet kuri iš Bendrijos muitinės kodekso 84 straipsnio 1 dalies a punkte nurodytų muitinės priemonių.
+28. Sąlyginio neapmokestinimo muitinės procedūra arba priemonė – į Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms taikoma išorinio tranzito, muitinio sandėliavimo, laisvosios zonos, laikinojo įvežimo ar laikinojo įvežimo perdirbti muitinės procedūra arba šių prekių laikinasis saugojimas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -431,7 +443,10 @@ b) didesnė kaip 15 procentų, bet ne didesnė kaip 18 procentų ir yra gauta ti
 
 
 
-37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas) ir Bendrijos muitinės kodekse, tačiau mokesčių administratoriumi šiame įstatyme vadinama tik Valstybinė mokesčių inspekcija.
+37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas) ir Sąjungos muitinės kodekse, tačiau mokesčių administratoriumi šiame įstatyme vadinama tik Valstybinė mokesčių inspekcija.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -840,19 +855,25 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 2. Be šio straipsnio 1 dalyje nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas (įskaitant neteisėto importo atvejus) akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai:
 
 
-1) ne Europos Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją. Jeigu į Europos Sąjungos teritoriją įvežtos ne Europos Sąjungos prekės ne išleidžiamos į laisvą apyvartą, o joms pradedama taikyti sąlyginio neapmokestinimo procedūra arba priemonė, laikoma, kad ne Europos Sąjungos prekės yra importuotos Lietuvos Respublikos teritorijoje tuo atveju, jeigu, nustojus taikyti šias procedūras arba priemones, prekės yra Lietuvos Respublikos teritorijoje;
+1) ne Europos Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją. Jeigu į Europos Sąjungos teritoriją įvežtoms ne Europos Sąjungos prekėms pradedama taikyti sąlyginio neapmokestinimo muitinės procedūra arba priemonė, laikoma, kad ne Europos Sąjungos prekės yra importuotos Lietuvos Respublikos teritorijoje tuo atveju, jeigu, nustojus taikyti šias procedūras arba priemones, prekės yra Lietuvos Respublikos teritorijoje;
 
 
 
 
-2) Europos Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją iš trečiųjų teritorijų. Jeigu į Europos Sąjungos teritoriją įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, leistų joms taikyti sąlyginio neapmokestinimo muitinės procedūrą arba priemonę, arba vidinio tranzito muitinės procedūrą, laikoma, kad šios Europos Sąjungos prekės importuotos Lietuvos Respublikos teritorijoje tuo atveju, jeigu, nustojus taikyti minėtą režimą arba vidinio tranzito muitinės procedūrą, prekės yra Lietuvos Respublikos teritorijoje.
+2) Europos Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją iš trečiųjų teritorijų. Jeigu į Europos Sąjungos teritoriją įvežtoms šioms prekėms taikomas toks režimas, kuris, jeigu šios prekės būtų ne Europos Sąjungos prekės, leistų joms taikyti sąlyginio neapmokestinimo muitinės procedūrą arba priemonę, arba vidinio tranzito muitinės procedūra, laikoma, kad šios Europos Sąjungos prekės importuotos Lietuvos Respublikos teritorijoje tuo atveju, jeigu, nustojus taikyti minėtą režimą arba vidinio tranzito muitinės procedūrą, prekės yra Lietuvos Respublikos teritorijoje. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
 
-
-
-3. Prievolė mokėti akcizus už šio straipsnio 1 dalyje nurodytas prekes atsiranda tuo metu, kai susidaro šio straipsnio 1 dalyje nurodytos aplinkybės. Prievolė mokėti akcizus už šio straipsnio 2 dalyje nurodytas prekes, kurioms pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal atitinkamus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Jeigu šio straipsnio 2 dalyje nurodytoms prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė mokėti akcizus už jas atsiranda tada, jeigu pagal atitinkamas Bendrijos muitinės kodekso nuostatas atsirastų importo skola muitinei ir jeigu šioms prekėms šie muitai ar rinkliavos būtų nustatyti.
+3. Prievolė mokėti akcizus už šio straipsnio 1 dalyje nurodytas prekes atsiranda tuo metu, kai susidaro šio straipsnio 1 dalyje nurodytos aplinkybės. Prievolė mokėti akcizus už šio straipsnio 2 dalyje nurodytas prekes, kurioms pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, atsiranda tuo metu, kai pagal teisės aktus, reguliuojančius importo muitų apskaičiavimą, atsiranda prievolė už jas apskaičiuoti importo muitus. Jeigu šio straipsnio 2 dalyje nurodytoms prekėms netaikomi jokie importo muitai, prievolė mokėti akcizus už jas atsiranda tada, jeigu pagal atitinkamas Sąjungos muitinės kodekso nuostatas atsirastų importo skola muitinei ir jeigu šioms prekėms šie muitai būtų nustatyti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -915,7 +936,9 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
-13. Prievolė mokėti akcizus šio straipsnio 2 dalyje nurodytu atveju tenka importuotojui. Importuotoju laikomas asmuo, kuris turi sumokėti už prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu prekėms būtų nustatyti importo muitai, žemės ūkio ar kitos rinkliavos. Kai akcizais apmokestinamos prekės importuojamos neteisėtai, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai importuojant šias prekes. 
+13. Prievolė mokėti akcizus šio straipsnio 2 dalyje nurodytu atveju tenka importuotojui. Importuotoju laikomas asmuo, kuris turi sumokėti už prekes nustatytą importo skolą muitinei arba turėtų sumokėti importo skolą muitinei, jeigu prekėms būtų nustatyti importo muitai. Kai akcizais apmokestinamos prekės importuojamos neteisėtai, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai importuojant šias prekes.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
  
@@ -1043,7 +1066,9 @@ Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
 
 
-4. Už importuotas akcizais apmokestinamas prekes akcizai mokami Vyriausybės nustatyta tvarka. Muitinė tais atvejais, kai akcizai nesumokami iš anksto ar iš karto atsiradus prievolei juos mokėti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, turi teisę pareikalauti, kad būtų įmokėtas piniginis užstatas ar pateiktas laidavimo (garantijos), užtikrinančio (užtikrinančios) šių įsipareigojimų įvykdymą, dokumentas. Šios nuostatos įgyvendinamos ta pačia tvarka kaip ir su importo muitais susiję skolininko įsipareigojimai.
+4. Už importuotas akcizais apmokestinamas prekes akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. Tais atvejais, kai akcizai nesumokami iš anksto ar iš karto atsiradus prievolei juos mokėti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, atsiradusios mokestinės prievolės įvykdymas užtikrinamas ta pačia tvarka, kokia užtikrinami įsipareigojimai, susiję su importo skola muitinei, kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
  
 
 
@@ -1100,7 +1125,9 @@ Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais akcizais apmoke
 
 
 
-8. Šio straipsnio nuostatos mutatis mutandis taikomos registruoto siuntėjo iš akcizais apmokestinamų prekių importo vietos išgabenamoms akcizais apmokestinamoms prekėms, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Šiuo atveju akcizais apmokestinamų prekių gabenimas laikomas prasidėjusiu, kai jos yra išleidžiamos į laisvą apyvartą pagal Bendrijos muitinės kodekso 79 straipsnį. 
+8. Šio straipsnio nuostatos mutatis mutandis taikomos registruoto siuntėjo iš akcizais apmokestinamų prekių importo vietos išgabenamoms akcizais apmokestinamoms prekėms, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Šiuo atveju akcizais apmokestinamų prekių gabenimas laikomas prasidėjusiu, kai jos yra išleidžiamos į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
  
 
 
@@ -1156,7 +1183,10 @@ Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais akcizais apmoke
 
 
 
-3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Bendrijos muitinės kodekso nuostatas, kompetentingoms institucijoms. Iš valstybės narės, iš kurios akcizais apmokestinamos prekės išgabenamos iš Europos Sąjungos teritorijos, kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui.
+3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų nuostatas, kompetentingoms institucijoms. Iš valstybės narės, iš kurios akcizais apmokestinamos prekės išgabenamos iš Europos Sąjungos teritorijos, kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -1384,8 +1414,6 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 1. Nuo akcizų atleidžiamos akcizais apmokestinamos prekės, už kurias pagal šio įstatymo 9 straipsnio nuostatas atsiranda prievolė mokėti akcizus, jeigu jos:
 
 
-1) eksportuotos, iš specialių prekybos vietų, esančių tarptautiniame jūrų ar oro uoste ir Lietuvos Respublikos valstybės sienos su trečiosiomis valstybėmis perėjimo punkte, patiektos išvykstantiems į trečiąsias teritorijas ar trečiąsias valstybes keleiviams, taip pat patiektos reiso metu keleiviams, oro ar jūrų transportu vykstantiems į paskirties tašką už Europos Sąjungos teritorijos. Taikant šio punkto nuostatas, susijusias su keleivio vykimu oro ar jūrų transportu, keleivio vykimo vieta laikoma artimiausia keleivio išlipimo iš orlaivio ar laivo vieta po įlipimo Lietuvos Respublikoje, o paskirties tašku laikoma pirmoji vieta, esanti oro ar jūrų uoste, už Lietuvos Respublikos ribų, kurioje orlaivis ar laivas sustoja išlaipinti ir (arba) įlaipinti keleivių;
-1 dalies 1 punkto redakcija nuo 2017-01-01:
 1) eksportuotos, iš specialių prekybos vietų, esančių tarptautiniame jūrų ar oro uoste, patiektos išvykstantiems į trečiąsias teritorijas ar trečiąsias valstybes keleiviams, taip pat patiektos reiso metu keleiviams, oro ar jūrų transportu vykstantiems į paskirties tašką už Europos Sąjungos teritorijos. Taikant šio punkto nuostatas, susijusias su keleivio vykimu oro ar jūrų transportu, keleivio vykimo vieta laikoma artimiausia keleivio išlipimo iš orlaivio ar laivo vieta po įlipimo Lietuvos Respublikoje, o paskirties tašku laikoma pirmoji vieta, esanti oro ar jūrų uoste, už Lietuvos Respublikos ribų, kurioje orlaivis ar laivas sustoja išlaipinti ir (arba) įlaipinti keleivių;
 
 
@@ -1492,7 +1520,9 @@ Nr. XI-1186, 2010-11-30, Žin., 2010, Nr. 148-7561 (2010-12-18)
 
 
 
-2. Už importuojamas prekes sumokėti akcizai grąžinami arba atsisakoma juos išieškoti Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais. Prašymai grąžinti sumokėtus akcizus arba atsisakyti juos išieškoti nagrinėjami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Nepagrįstai sumokėtus (išieškotus) importo akcizus grąžina muitinė Muitinės departamento nustatyta tvarka.
+2. Prievolė mokėti akcizus muitinei mutatis mutandis išnyksta Sąjungos muitinės kodekso 124 straipsnio 1 dalies d–g punktuose nustatytais atvejais. Už importuojamas prekes sumokėti akcizai grąžinami arba atsisakoma juos išieškoti Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais. Sprendimai dėl pateiktų prašymų grąžinti sumokėtus akcizus arba atsisakyti juos išieškoti priimami vadovaujantis Lietuvos Respublikos muitinės įstatymo VIII skyriaus nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
  
 
 
@@ -1503,12 +1533,12 @@ Nr. XI-1186, 2010-11-30, Žin., 2010, Nr. 148-7561 (2010-12-18)
 21 straipsnis. Akcizų sumokėjimo kontrolė
 
 
-1. Akcizų sumokėjimą, išskyrus šio straipsnio 2 dalyje nurodytą atvejį, kontroliuoja Valstybinė mokesčių inspekcija. Valstybinė mokesčių inspekcija kontroliuoja ir akcizų už importuotas prekes sumokėjimą, jeigu jos šio įstatymo nustatyta tvarka nugabenamos į akcizais apmokestinamų prekių sandėlį arba registruoto siuntėjo išgabenamos į šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytas vietas. 
+1. Akcizų sumokėjimą, išskyrus šio straipsnio 2 dalyje nurodytą atvejį, kontroliuoja Valstybinė mokesčių inspekcija. Valstybinė mokesčių inspekcija kontroliuoja ir akcizų už importuotas prekes sumokėjimą, jeigu jos šio įstatymo nustatyta tvarka nugabenamos į akcizais apmokestinamų prekių sandėlį arba registruoto siuntėjo išgabenamos į šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytas vietas.
 
 
 
 
-2. Akcizų už importuojamas prekes, nenurodytas šio straipsnio 1 dalyje, sumokėjimą kontroliuoja teritorinės muitinės.
+2. Akcizų už importuojamas prekes, nenurodytas šio straipsnio 1 dalyje, sumokėjimą kontroliuoja muitinė.
 
 
 
@@ -1523,31 +1553,34 @@ Nr. XI-1186, 2010-11-30, Žin., 2010, Nr. 148-7561 (2010-12-18)
 
 
 
-5. Europos Sąjungos prekių įvežimui iš Prancūzijos užjūrio departamentų, Kanarų, Alandų ir Normandijos salų į Europos Sąjungos teritoriją taikomi tokie patys muitinės formalumai, kokie yra taikomi į Europos Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Tuo atveju, kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai Bendrijos muitinės kodekse, įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurioms, jeigu jos būtų įvežtos iš trečiųjų valstybių, galėtų būti taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė, tai joms taikomos tos pačios sąlygos, kurios būtų taikomos atlikus minėtus muitinės sankcionuotus veiksmus ar įforminus atitinkamas procedūras.
+5. Europos Sąjungos prekių įvežimui iš Prancūzijos užjūrio departamentų, Kanarų, Alandų ir Normandijos salų į Europos Sąjungos teritoriją taikomi tokie patys muitinės formalumai, kokie yra taikomi į Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Tuo atveju, kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito muitinės procedūrai, numatytai Sąjungos muitinės kodekso 227 straipsnyje, įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurioms, jeigu jos būtų įvežtos iš trečiųjų valstybių, galėtų būti taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė, tai joms taikomos tos pačios sąlygos, kurios būtų taikomos įforminus atitinkamas procedūras ar priemonę.
 
 
 
 
-6. Prekių išvežimui iš Europos Sąjungos teritorijos į Prancūzijos užjūrio departamentus, Kanarų, Alandų ir Normandijos salas taikomi tokie patys muitinės formalumai, kokie yra taikomi eksportuojant prekes iš Europos Sąjungos muitų teritorijos. Tuo atveju, kai prekės laikinai išvežamos iš Europos Sąjungos teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tos pačios nuostatos, kurios būtų taikomos, jei šios prekės būtų laikinai išvežtos iš Europos Sąjungos muitų teritorijos.
+6. Prekių išvežimui iš Europos Sąjungos teritorijos į Prancūzijos užjūrio departamentus, Kanarų, Alandų ir Normandijos salas taikomi tokie patys muitinės formalumai, kokie yra taikomi eksportuojant prekes iš Sąjungos muitų teritorijos. Tuo atveju, kai prekės laikinai išvežamos iš Europos Sąjungos teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tos pačios nuostatos, kurios būtų taikomos, jeigu šios prekės būtų laikinai išvežtos iš Sąjungos muitų teritorijos.
 
 
 
 
-7. Šio straipsnio 4, 5 ir 6 dalių nuostatų įgyvendinimo tvarką nustato Muitinės departamento generalinis direktorius.
+7. Šio straipsnio 4, 5 ir 6 dalys įgyvendinamos Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų nustatyta tvarka.
 
 
 
 
-8. Tais atvejais, kai prekės išgabenamos į trečiąją valstybę ar trečiąsias teritorijas arba prekės atgabenamos iš jų ir joms taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė, taip pat tais atvejais, kai prekės gabenamos tarp valstybių narių per valstybės, kuri nėra valstybė narė, tačiau yra Europos laisvosios prekybos asociacijos (toliau – ELPA) narė, teritoriją arba tarp valstybės narės ir ELPA narės, taikant vidinio tranzito procedūrą, arba per vieną ar kelias trečiąsias valstybes ne ELPA nares su TIR ar ATA knygele, laikoma, kad akcizų mokėjimas už šias prekes atidėtas. Šioje dalyje nurodytais atvejais naudojamas bendrasis administracinis dokumentas.
+8. Tais atvejais, kai prekės išgabenamos į trečiąją valstybę ar trečiąsias teritorijas arba prekės atgabenamos iš jų ir joms taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė, taip pat tais atvejais, kai prekės gabenamos tarp valstybių narių per valstybės, kuri nėra valstybė narė, tačiau yra Europos laisvosios prekybos asociacijos (toliau – ELPA) narė, teritoriją arba tarp valstybės narės ir ELPA narės, taikant vidinio tranzito muitinės procedūrą, arba per vieną ar kelias trečiąsias valstybes ne ELPA nares su TIR ar ATA knygele, laikoma, kad akcizų mokėjimas už šias prekes atidėtas. Šioje dalyje nurodytais atvejais naudojama muitinės deklaracija.
 
 
 
 
-9. Jeigu šiame įstatyme nenustatyta kitaip, centrinis mokesčių administratorius, siekdamas kontroliuoti akcizų sumokėjimą, gali nustatyti specialius akcizais apmokestinamų prekių, taip pat produktų, galinčių tapti akcizų objektu, gabenimo, laikymo ir apskaitos tvarkos reikalavimus.
+9. Jeigu šiame įstatyme nenustatyta kitaip, centrinis mokesčių administratorius, siekdamas kontroliuoti akcizų sumokėjimą, gali nustatyti specialius akcizais apmokestinamų prekių, taip pat produktų, galinčių tapti akcizų objektu, gabenimo, laikymo ir apskaitos tvarkos reikalavimus. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+Straipsnio pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+Nr. XIII-172, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29862
  
 
 
@@ -1886,7 +1919,10 @@ Skirtas parduoti Lietuvos Respublikoje apdorotas tabakas turi būti paženklinta
 33 straipsnis. Specialūs atvejai, kai apdorotas tabakas atleidžiamas nuo akcizų
 
 
-1. Be šio įstatymo 19 straipsnyje nurodytų atvejų, nuo akcizų atleidžiamas apdorotas tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Europos Sąjungos reglamentų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam apdorotam tabakui, kuris pagamintas ar laikomas pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabentas ar importuotas.
+1. Be šio įstatymo 19 straipsnyje nurodytų atvejų, nuo akcizų atleidžiamas apdorotas tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam apdorotam tabakui, kuris pagamintas ar laikomas pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabentas ar importuotas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -2170,7 +2206,10 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
-8) energiniai produktai, į Lietuvos Respubliką įvežami transporto priemonių stacionariose gamintojo techniniuose dokumentuose nurodytose variklių degalų ir tepalų talpyklose, iš kurių variklių degalai ir tepalai tiesiogiai patenka į stacionarias transporto priemonės variklių degalų tiekimo ir tepimo sistemas.
+8) energiniai produktai, į Lietuvos Respubliką įvežami standartiniuose gamintojo prie visų to paties tipo transporto priemonių nuolatinai pritvirtinamuose gamintojo techninėje dokumentacijoje numatytuose kuro bakuose ir tepalų talpyklose, iš kurių kuras ir tepalai tiesiogiai patenka į transporto priemonės kuro tiekimo ir tepimo sistemas arba naudojamas aušinimo ar kitose sistemose.
+Straipsnio punkto pakeitimai:
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+ 
 
 
 
@@ -3164,6 +3203,16 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 40 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 3, 9, 12, 14, 15, 20, 21, 33 ir 43 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-172, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29862
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 3, 9, 12, 14, 15, 20, 21, 33 ir 43 straipsnių pakeitimo įstatymo Nr. XII-2696 7 straipsnio pakeitimo įstatymas
  
  
 
