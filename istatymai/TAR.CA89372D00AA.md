@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
@@ -53,7 +53,10 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 
 
-2. Fizinė prievarta – fizinės jėgos ar kovinių imtynių veiksmų ir (arba) specialiųjų policijos priemonių naudojimas.
+2. Fizinė prievarta – fizinės jėgos ir (ar) specialiųjų priemonių naudojimas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+ 
 
 
 
@@ -93,7 +96,10 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 
 
-10. Psichinė prievarta – įspėjimas (žodžiu arba veiksmu) apie ketinimą naudoti fizinę prievartą. Psichinei prievartai prilyginamas specialiosios policijos priemonės parengimas prireikus naudoti, šaunamojo ginklo demonstravimas arba įspėjamieji šūviai. 
+10. Psichinė prievarta – įspėjimas apie ketinimą naudoti fizinę prievartą, šaunamąjį ginklą arba sprogmenis. Psichinei prievartai prilyginamas specialiosios priemonės ar šaunamojo ginklo parengimas prireikus naudoti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+ 
 
 
 
@@ -153,12 +159,22 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 
 
-13. Specialiosios policijos priemonės – įstatymų ir tarptautinių teisės aktų nedraudžiamos vidaus reikalų ministro įsakymu patvirtintos policijos gynybos priemonės, kurios gali būti naudojamos psichinės ar fizinės prievartos metu.
+13. Specialiosios priemonės – tiesioginio pavojaus asmens gyvybei nekeliančios priemonės, kuriomis siekiama atgrasyti galimus teisės pažeidėjus, nustumti arba išsklaidyti minią, sulaikyti arba pažymėti administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, šiuos asmenis bei agresyvius ar linkusius žalotis asmenis sutramdyti ir pristatyti į atitinkamą įstaigą, priverstinai sustabdyti transporto priemones ar jas pažymėti, priverstinai patekti į teritorijas, patalpas ar transporto priemones, atremti kėsinimąsi į asmenį ar turtą, taip pat ardyti šiems veiksmams kliudančius objektus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+ 
 
 
 
 
 14. Studentas – asmuo, kuris policijos generalinio komisaro siuntimu studijuoja aukštojoje policijos pareigūnus rengiančioje ne vidaus reikalų sistemos švietimo įstaigoje (toliau – kita švietimo įstaiga) pagal nustatyta tvarka akredituotas ir su policijos generaliniu komisaru suderintas studijų programas ir yra pasirašęs stojimo į vidaus tarnybą sutartį.
+
+
+
+
+15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Statute, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
  
 
 
@@ -355,7 +371,15 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 
 
-22) rengia pareigūnus ir tobulina jų kvalifikaciją.
+22) rengia pareigūnus ir tobulina jų kvalifikaciją;
+
+
+
+
+23) vidaus reikalų centrinių įstaigų vadovų prašymu padeda atlikti vidaus reikalų statutinėms įstaigoms pavestas funkcijas. Pareigūnų pasitelkimo tvarką ir konkrečias užduotis nustato Lietuvos Respublikos vidaus reikalų ministras.
+Papildyta straipsnio punktu:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+ 
 
 
 
@@ -1209,130 +1233,231 @@ TREČIASIS SKIRSNIS PRIEVARTOS PANAUDOJIMAS
  
 
 
-26 straipsnis. Prievartos panaudojimo sąlygos 
-
-
-1. Pareigūnas turi teisę panaudoti prievartą, kai būtina užkirsti kelią nusikalstamai veikai ar administraciniam teisės pažeidimui (nusižengimui), sulaikyti nusikalstamą veiką ar administracinį teisės pažeidimą (nusižengimą) padariusį asmenį ir kitais atvejais, saugant ir ginant asmens, visuomenės, valstybės teisėtus interesus. Prievarta, dėl kurios žmogaus sveikata gali sutrikti ar jis gali mirti, gali būti naudojama tik tiek, kiek to reikia tarnybinei pareigai atlikti, ir tik po to, kai visos įmanomos įtikinėjimo ar kitos priemonės nebuvo veiksmingos. Prievartos rūšį ir jos naudojimo mastą pasirenka pareigūnas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą, pareigūnas privalo stengtis išvengti sunkių padarinių.
-
-
-
-
-2. Prieš naudodamas fizinę prievartą arba specialiąsias policijos priemones, pareigūnas privalo įspėti apie šį ketinimą, suteikdamas asmeniui galimybę įvykdyti pareigūno reikalavimus ar nurodymus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba kai įspėti yra neįmanoma.
-
-
-
-
-3. Pareigūnas prireikus gali panaudoti bet kokias priemones, būtinas policijos funkcijoms įgyvendinti. 
-
-
-
-
-4. Apie pareigūno panaudotą prievartą, dėl kurios asmuo mirė arba buvo sutrikdyta jo sveikata, nedelsiant pranešama prokurorui.
-
-
-
-
-5. Pareigūnai neatsako už žalą, atsiradusią dėl teisėto prievartos panaudojimo.
+26 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
  
 
 
 
 
+27 straipsnis. Prievartos naudojimo sąlygos
 
 
-27 straipsnis. Prievartos panaudojimo pagrindai 
-
-
-1. Pareigūnas turi teisę panaudoti prievartą:
-
-
-1) gindamasis ar gindamas kitus asmenis, nuosavybę, kitas teises, visuomenės ar valstybės interesus nuo pradėto ar tiesiogiai gresiančio pavojingo kėsinimosi ar pavojaus;
+1. Pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai.
 
 
 
 
-2) sulaikydamas, pristatydamas, konvojuodamas ar atvesdindamas asmenį, padariusį nusikalstamą veiką ar administracinį teisės pažeidimą (nusižengimą) ar įtariamą jų padarymu, taip pat asmenį, kuris vengia sulaikymo, pristatymo, konvojavimo ar atvesdinimo, arba sulaikius ar pristatant asmenį, siekdamas užtikrinti savo ar kitų asmenų saugumą;
+2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 3, 4 dalyse arba šio įstatymo 28 straipsnio 2 dalyje nurodytais atvejais.
 
 
 
 
-3) kai kėsinamasi į policijos saugomą asmenį, objektą, transporto priemonę, specialiąsias policijos priemones ar kitą policijos turtą;
+3. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais:
+
+
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
 
 
 
 
-4) riaušių ar grupinių veiksmų, kuriais pažeidžiama viešoji tvarka, metu;
+2) kai asmenys vengia vykdyti pareigūnų reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), taip pat sulaikydamas asmenis (jeigu jie priešinasi);
 
 
 
 
-5) prieš transporto priemonę, kai jos vairuotojas nepakluso pareigūno aiškiai išreikštam reikalavimui sustoti;
+3) atremdamas kėsinimąsi į šaunamąjį ginklą, sprogmenis, specialiąsias priemones, ryšio priemones ir siekdamas šiuos objektus susigrąžinti;
 
 
 
 
-6) kai būtina išlaisvinti įkaitus ar užkirsti kelią teroro aktui;
+4) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimus arba šiuos užimtus objektus išlaisvindamas;
 
 
 
 
-7) pabėgimo konvojuojant ar iš laisvės atėmimo vietų ar areštinių atvejais;
+5) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį arba kai turimais duomenimis jose gali būti laikomi įkaitai arba slėptis asmenys, galimai padarę administracinius nusižengimus ar nusikalstamas veikas;
 
 
 
 
-8) prieš asmenį, kai šis bando naudoti prievartą arba artinasi prie pareigūno ir neklauso reikalavimo laikytis nurodyto atstumo;
+6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
 
 
 
 
-9) patekdamas į patalpas ar transporto priemonę, kad sulaikytų asmenį, įtariamą nusikalstamos veikos padarymu arba ją padariusį, taip pat asmenį, padariusį administracinį teisės pažeidimą (nusižengimą);
-
-
-
-
-10) prieš gyvūną, kuris kelia grėsmę policijos pareigūno ar kito asmens gyvybei ar sveikatai.
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
 
 
 
 
 
 
-2. Draudžiama naudoti fizinę prievartą ir specialiąsias policijos priemones, išskyrus antrankius arba surišimo priemones, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs ar nepilnamečiai (jeigu jų amžius žinomas pareigūnui arba išvaizda atitinka amžių), išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai šių asmenų grupė užpuola ir šis užpuolimas kelia grėsmę žmonių gyvybei ar sveikatai.
+4. Pareigūnas turi teisę naudoti antrankius ir surišimo priemones:
+
+
+1) prieš agresyvius ar linkusius žalotis asmenis;
 
 
 
 
-3. Pareigūnas turi teisę tarnybine transporto priemone blokuoti arba taranuoti kitą transporto priemonę, kurios vairuotojas ar kitas joje esantis asmuo nepaklūsta aiškiai išreikštam pareigūno reikalavimui ir (ar) savo veiksmais kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai, taip pat siekdamas sulaikyti asmenį, padariusį nusikalstamą veiką ar administracinį teisės pažeidimą (nusižengimą) ar įtariamą jų padarymu. Pareigūnas, kuris tarnybine transporto priemone blokuoja arba taranuoja kitą transporto priemonę, jeigu dėl to kyla grėsmė asmenų gyvybei ar sveikatai, po šių veiksmų turi neatidėliodamas imtis priemonių padariniams pašalinti.
+2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą, taip pat vykdydamas asmenų išsiuntimą iš Lietuvos Respublikos ar vykdydamas šių asmenų grąžinimą į Lietuvos Respubliką.
 
 
 
 
-4. Specialiųjų policijos priemonių naudojimo tvarką nustato policijos generalinis komisaras.
+
+
+5. Pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę šią blokuodamas. Kai stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno ar kito asmens gyvybei ar sveikatai, pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone stabdomą transporto priemonę taranuoti. Jei pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po šių veiksmų nedelsdamas turi imtis priemonių šių veiksmų padariniams pašalinti.
+
+
+
+
+6. Pareigūnas turi teisę kaip specialiąją priemonę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių specifikaciją įtrauktus užtaisus, kurių keliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
+
+
+
+
+7. Kai nėra neišvengiamo pavojaus pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
+
+
+1) prieš asmenis, jei akivaizdu arba pareigūnui žinoma, kad jie neįgalūs;
+
+
+
+
+2) prieš asmenis, jei pareigūnui yra žinoma, kad jie turi neliečiamybės teisę;
+
+
+
+
+3) prieš moteris, jei akivaizdu arba pareigūnui žinoma, kad jos nėščios;
+
+
+
+
+4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+
+
+
+
+
+
+8. Pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pareigūno panaudotą psichinę ar fizinę prievartą, jei tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+9. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos panaudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+10. Specialiųjų priemonių specifikaciją ir panaudojimo tvarką nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
  
 
 
 
 
+28 straipsnis. Šaunamųjų ginklų ir sprogmenų naudojimas
 
 
-28 straipsnis. Specialiosios policijos priemonės – šaunamojo ginklo panaudojimas
-
-
-1. Kai kita prievarta yra neveiksminga ar negalima ir yra šio įstatymo 27 straipsnio 1 dalyje nustatyti pagrindai, policijos pareigūnas turi teisę panaudoti šaunamąjį ginklą.
-
-
-
-
-2. Pareigūnas, manydamas, kad gali tekti panaudoti šaunamąjį ginklą, turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį panaudoti. Pareigūnas turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą.
+1. Šaunamieji ginklai ar sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
 
 
 
 
-3. Draudžiama naudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola šių asmenų grupė ir (ar) šis užpuolimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai.
+2. Pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis:
+
+
+1) atremdamas ginkluotą įsiveržimą į Lietuvos Respublikos teritoriją;
+
+
+
+
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+
+
+
+
+3) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+
+
+
+
+4) išlaisvindamas įkaitus, užkirsdamas kelią įkaitų pagrobimui arba teroro aktui;
+
+
+
+
+5) sulaikydamas nusikalstamą veiką galimai padariusį asmenį, jeigu kyla neišvengiamas pavojus pareigūno ar kito asmens gyvybei ar sveikatai;
+
+
+
+
+6) sulaikydamas transporto priemonę vairuojantį asmenį, kuris savo veiksmais kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei.
+
+
+
+
+
+
+3. Pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jei kyla neišvengiamas pavojus pareigūno arba kitų asmenų gyvybei ar sveikatai.
+
+
+
+
+4. Ketindamas naudoti šaunamąjį ginklą ar sprogmenis, pareigūnas privalo įspėti apie šį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
+
+
+
+
+5. Pareigūnas, nekeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą ar išsikviesti pagalbą.
+
+
+
+
+6. Šio straipsnio 2 dalies 1, 2 ir 4 punktuose nustatytais atvejais pareigūnas turi teisę panaudoti sprogmenis prieš asmenis. Be to, nesukeldamas tiesioginio pavojaus asmens gyvybei, pareigūnas turi teisę sprogmenis panaudoti sprogstamiesiems įtaisams sunaikinti, patekdamas į patalpą (vietą), kurioje laikomi įkaitai ar daromi kiti pavojų asmens gyvybei ar sveikatai keliantys nusikalstami veiksmai.
+
+
+
+
+7. Kai nėra neišvengiamo pavojaus pareigūno arba kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą ar sprogmenis draudžiama:
+
+
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus šio straipsnio 2 dalies 1 ir 2 punktuose nurodytus atvejus;
+
+
+
+
+2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui.
+
+
+
+
+
+
+8. Pareigūnas, panaudojęs šaunamąjį ginklą ar sprogmenis ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pareigūno panaudotą šaunamąjį ginklą ar sprogmenis, jei tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+9. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamojo ginklo ar sprogmenų naudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+10. Šio straipsnio 1, 2, 3 dalys ir 7 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
  
-
-
 
 
 
@@ -1418,6 +1543,7 @@ priedas
 
 
 3. 2008 m. birželio 23 d. Tarybos sprendimas 2008/617/TVR dėl Europos Sąjungos valstybių narių specialiųjų intervencijos padalinių bendradarbiavimo krizinėse situacijose gerinimo (OL 2008 L 210, p. 73).
+ 
 
 
 
@@ -1492,3 +1618,8 @@ Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 18 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1856, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10818
 Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 6, 27 ir 28 straipsnių pakeitimo ir 26 straipsnio pripažinimo netekusiu galios įstatymas
