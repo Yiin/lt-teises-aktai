@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -893,13 +893,15 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-25 straipsnis. Atsakomybė 
+25 straipsnis. Atsakomybė
 
 
-Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos administracinių teisių pažeidimų kodekso ir kitų įstatymų nustatyta tvarka.
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2486, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18456
  
-
-
 
 
 
@@ -992,3 +994,8 @@ Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1890, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11084
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 4 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2486, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18456
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 25 straipsnio pakeitimo įstatymas
