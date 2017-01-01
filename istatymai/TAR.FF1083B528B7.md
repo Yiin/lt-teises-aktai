@@ -20,7 +20,7 @@ Redaguota : 1995 07 21
 
 
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -2419,7 +2419,10 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 
 
 
-2) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse;
+2) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių nusižengimų kodekse; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
+ 
 
 
 
@@ -2437,7 +2440,10 @@ Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 
 
-5) pristatyti pažeidėjus į policiją arba į patalpas savivaldybės seniūnijos kaimo vietovėje asmenų tapatybei nustatyti, protokolams, aktams surašyti;
+5) pažeidėjus, jų sutikimu, pristatyti į policiją arba į patalpas savivaldybės seniūnijos kaimo vietovėje asmens tapatybei nustatyti, protokolams, aktams surašyti, o jiems nesutinkant – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo;
+Straipsnio punkto pakeitimai:
+Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
+ 
 
 
 
@@ -2911,3 +2917,18 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 27, 30, 32 ir 33 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 30 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-292, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06970
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymo Nr. XII-2683 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 30 straipsnio pakeitimo įstatymas
