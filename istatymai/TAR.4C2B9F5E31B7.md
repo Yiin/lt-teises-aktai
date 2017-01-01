@@ -13,62 +13,60 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
-Suvestinė redakcija nuo 2014-11-27 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
  
-Nauja redakcija nuo 2005-07-14:
-Nr. X-295, 2005-06-30, Žin. 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+Nauja redakcija nuo 2017-01-01:
+Nr. XII-2601, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23695
  
 LIETUVOS RESPUBLIKOS 
-KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 11–13 D. IR PO TO VYKDYTOS SSRS AGRESIJOS, BEI JŲ ŠEIMOMS
+KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 11–13 D. IR PO TO VYKDYTOS SSRS AGRESIJOS, BEI JŲ ŠEIMOMS
 ĮSTATYMAS
+ 
  
 
 
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šio įstatymo paskirtis – nustatyti nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms (toliau – kompensacijų gavėjai) kompensacijas už vieno būsto, kuriame deklaruota gyvenamoji vieta, šildymą, karštą vandenį, šaltą vandenį ir nuotekas, dujas, kietą ir skystą kurą, elektros energiją, laidinio telefono abonentinį mokestį ir kitas paslaugas, jų dydį, teikimo tvarką bei finansavimo šaltinius. 
-Straipsnio dalies pakeitimai:
-Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
+1. Šis įstatymas nustato kompensacijų už vieno būsto, kuriame deklaruota asmens gyvenamoji vieta, šildymą, karštą vandenį, geriamąjį vandenį ir nuotekas, dujas, kietąjį ir skystąjį kurą, elektros energiją, laidinio telefono abonentinį (mėnesinį) mokestį, žemės, esančios po daugiaaukščiu gyvenamuoju namu, mokestį ir kitas paslaugas (toliau – kompensacijos už būstą) nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (toliau – nepriklausomybės gynėjai), bei jų šeimoms, taip pat laidojimo išlaidų kompensacijos mirus nepriklausomybės gynėjui, pripažintam nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (toliau – laidojimo išlaidų kompensacija), teikimo sąlygas, tvarką ir dydį.
+
+
+
+
+2. Kompensacijos už būstą teikiamos:
+
+
+1) žuvusių nepriklausomybės gynėjų šeimoms (tėvams (įtėviams), sutuoktiniams, vaikams (įvaikiams) iki 18 metų bei pilnamečiams vaikams, kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių ar ištęstinių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti kompensacijas iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresniems negu 24 metų); 
+
+
+
+
+2) nepriklausomybės gynėjams, kurie buvo sunkiai ar apysunkiai sužaloti;
+
+
+
+
+3) nepriklausomybės gynėjams, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, ir jų šeimoms (kartu gyvenantiems sutuoktiniams ir vaikams (įvaikiams) iki 18 metų bei pilnamečiams vaikams, kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių ar ištęstinių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti kompensacijas iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresniems negu 24 metų).
+
+
+
+
+
+
+3. Laidojimo išlaidų kompensacija skiriama nepriklausomybės gynėją laidojančiam asmeniui, kaip ši sąvoka apibrėžta Lietuvos Respublikos paramos mirties atveju įstatyme.
  
 
 
 
 
-2. Šis įstatymas taikomas:
 
 
-1) žuvusių Lietuvos Respublikos nepriklausomybės gynėjų, nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (tėvams (įtėviams), sutuoktiniams, vaikams (įvaikiams) iki 18 metų bei pilnamečiams vaikams, kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių ar dieninių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti kompensacijas iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresniems negu 24 metų); 
-Straipsnio punkto pakeitimai:
-Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
- 
+2 straipsnis. Kompensacijų už būstą dydis ir lėšos
 
 
-
-
-2) Lietuvos Respublikos nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, kurie buvo sunkiai ar apysunkiai sužaloti;
-
-
-
-
-3) Lietuvos Respublikos nepriklausomybės gynėjų, kurie pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, šeimoms (kartu gyvenantiems sutuoktiniams ir vaikams (įvaikiams) iki 18 metų bei pilnamečiams vaikams, kurie mokosi pagal bendrojo ugdymo programą, pirmą kartą įgyja pirmąją kvalifikaciją pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinių ar dieninių studijų programą ir pirmą kartą įgyja bakalauro ar magistro laipsnį, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti kompensacijas iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresniems negu 24 metų).
-Straipsnio punkto pakeitimai:
-Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
- 
-
-
-
-
-
-
-
-
-2 straipsnis. Kompensacijų dydis 
-
-
-1. Kompensacijų gavėjams kompensuojama 50 procentų išlaidų už: 
+1. Šio įstatymo 1 straipsnio 2 dalyje nurodytiems asmenims (toliau – kompensacijų už būstą gavėjai) kompensuojama 50 procentų išlaidų už: 
 
 
 1) būsto šildymą;
@@ -81,7 +79,7 @@ Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
 
 
 
-3) šaltą vandenį ir nuotekas;
+3) geriamąjį vandenį ir nuotekas;
 
 
 
@@ -91,7 +89,7 @@ Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
 
 
 
-5) kietą ir skystą kurą;
+5) kietąjį ir skystąjį kurą;
 
 
 
@@ -101,29 +99,39 @@ Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
 
 
 
-7) laidinio telefono abonentinį mokestį; 
+7) laidinio telefono abonentinį (mėnesinį) mokestį; 
 
 
 
 
-8) kitas paslaugas (namo ir šilumos tinklų eksploatacijos išlaidas, laiptinių ir rūsių apšvietimą, bendrų patalpų valymą, šiukšlių ir skystųjų nešvarumų išvežimą, liftą, laidinio radijo imtuvą, kolektyvinę TV anteną, žemę, esančią po daugiaaukščiu gyvenamuoju namu ir priskirtą šiems asmenims). 
+8) žemės, esančios po daugiaaukščiu gyvenamuoju namu ir priskirtos kompensacijų už būstą gavėjams, mokestį;
+
+
+
+
+9) bendrojo naudojimo objektų naudojimo išlaikymą ir naudojimąsi jais;
+
+
+
+
+10) komunalinių atliekų išvežimą.
 
 
 
 
 
 
-2. Jeigu viename būste gyvena kompensacijų gavėjai ir kiti asmenys (šeimos), neturintys teisės į šio įstatymo nustatytas kompensacijas, tačiau už išlaidas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), išlaidos, tenkančios kompensacijų gavėjams, apskaičiuojamos lygiomis dalimis, atsižvelgiant į tame būste gyvenamąją vietą deklaravusių asmenų skaičių. 
-Straipsnio dalies pakeitimai:
-Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
- 
+2. Jeigu viename būste gyvena kompensacijų už būstą gavėjai ir kiti asmenys (šeimos), neturintys teisės į šio įstatymo nustatytas kompensacijas už būstą, tačiau už išlaidas jie atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), išlaidos, tenkančios kompensacijų už būstą gavėjams, apskaičiuojamos lygiomis dalimis, atsižvelgiant į tame būste gyvenamąją vietą deklaravusių asmenų skaičių. 
 
 
 
 
 3. Šio straipsnio 1 dalyje nurodytos išlaidos, jeigu jos padarytos vykdant ūkinę ar komercinę veiklą, nekompensuojamos.
-Papildyta straipsnio dalimi:
-Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
+
+
+
+
+4. Kompensacijos už būstą mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams.
  
 
 
@@ -131,28 +139,15 @@ Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000
 
 
 
-3 straipsnis. Kompensacijų teikimo tvarka
+3 straipsnis. Laidojimo išlaidų kompensacijos dydis ir lėšos
 
 
-Kompensacijos teikiamos savivaldybės administracijos direktoriaus nustatyta tvarka.
-
-
-Straipsnio pakeitimai:
-Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
- 
+1. Nepriklausomybės gynėjai, pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, laidojami valstybės biudžeto lėšomis, juos laidojančiam asmeniui skiriant 40 bazinių socialinių išmokų dydžio laidojimo išlaidų kompensaciją.
 
 
 
 
-4 straipsnis. Kompensacijų lėšos 
-
-
-1. Kompensacijos mokamos iš valstybės biudžeto specialios tikslinės dotacijos, teikiamos savivaldybių biudžetams.
-
-
-
-
-2. Iki 2005 m. gruodžio 31 d. kompensacijos mokamos iš savivaldybių biudžetų.
+2. Laidojimo išlaidų kompensacijos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams.
  
 
 
@@ -160,22 +155,32 @@ Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000
 
 
 
-5 straipsnis. Kompensacijų administravimas 
+4 straipsnis. Kompensacijų už būstą ir laidojimo išlaidų kompensacijų administravimas
 
 
-Kompensacijas administruoja kompensacijų gavėjų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai kompensacijoms mokėti skirtų lėšų administravimo išlaidoms padengti.
+1. Kompensacijas už būstą skiria ir išmoka kompensacijų už būstą gavėjų deklaruotos gyvenamosios vietos savivaldybės administracija savivaldybės administracijos direktoriaus nustatyta tvarka.
+
+
+
+
+2. Laidojimo išlaidų kompensaciją nepriklausomybės gynėją laidojančiam asmeniui skiria ir išmoka nepriklausomybės gynėjo, pripažinto nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, paskutinės buvusios deklaruotos gyvenamosios vietos savivaldybės administracija Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+3. Šiuo įstatymu nustatytoms kompensacijoms administruoti skiriami 2 procentai šioms kompensacijoms mokėti skirtų lėšų.
+
+
+
+
+
+
  
-
-
-
-
-
-
  
  
 LIETUVOS RESPUBLIKOS 
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                                    V. LANDSBERGIS
+PIRMININKAS                                                                                                     V. LANDSBERGIS
  
 Vilnius, 1991 m. sausio 16 d. 
 Nr. I-954 
@@ -215,3 +220,8 @@ Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1334, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17987
 Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo Nr. I-954 1 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2601, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23695
+Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo Nr. I-954 pakeitimo įstatymas
