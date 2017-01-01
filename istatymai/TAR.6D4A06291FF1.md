@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6D4A06291FF1"
 
 # Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2017-01-01
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 171-6298, i. k. 1041010ISTA0IX-2538
+ 
+ 
 LIETUVOS RESPUBLIKOS
 GARANTINIO FONDO ĮSTATYMO, ĮMONIŲ BANKROTO ĮSTATYMO, LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO, ŽEMĖS ŪKIO BENDROVIŲ ĮSTATYMO, ŪKININKO ŪKIO ĮSTATYMO PAKEITIMO
 Į S T A T Y M A S
@@ -22,31 +27,10 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS
-GARANTINIO FONDO ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS
+1 skirsnis. Neteko galios nuo 2017-01-01
+Skirsnio naikinimas:
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
  
-(Žin., 2000, Nr. 82-2478; 2001, Nr. 22-716)
- 
-
-
-1 straipsnis. 4 straipsnio 1 dalies 1 punkto pakeitimas
-
-
-4 straipsnio 1 dalies 1 punkte išbraukti žodį „privalomojo“ ir šį punktą išdėstyti taip:
-
-
-
-
-„1) įmonių, nurodytų šio įstatymo 1 straipsnio 2 dalyje, įmokos – 0,2 proc. priskaičiuoto darbuotojams darbo užmokesčio (nuo kurio skaičiuojamos valstybinio socialinio draudimo įmokos);“.
- 
-
-
-
-
-
-
-
-
 
 
 
@@ -349,3 +333,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
