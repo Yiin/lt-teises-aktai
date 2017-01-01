@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
- 
-TAR pastaba. Daugiabučio gyvenamojo namo ar kitos paskirties pastato savininkų bendrijos, įsteigtos ir Juridinių asmenų registre įregistruotos iki šio įstatymo įsigaliojimo dienos, pirmininkas per 3 mėnesius nuo šio įstatymo įsigaliojimo dienos pateikia Nekilnojamojo turto registro tvarkytojui prašymą bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre faktą įregistruoti Nekilnojamojo turto registre, jeigu toks faktas nebuvo įregistruotas iki šio įstatymo įsigaliojimo dienos. Bendrijos, steigiamos ir Juridinių asmenų registre įregistruojamos nuo šio įstatymo įsigaliojimo dienos iki 2015 m. sausio 1 d., pirmininkas prašymą Nekilnojamojo turto registro tvarkytojui dėl bendrijos įsteigimo ir įregistravimo Juridinių asmenų registre fakto įregistravimo Nekilnojamojo turto registre teikia per 3 mėnesius nuo bendrijos įsteigimo ir Juridinių asmenų registre įregistravimo dienos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
-Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-07-01:
 Nr. XI-1967, 2012-04-12, Žin. 2012, Nr. 50-2440 (2012-04-28), i. k. 1121010ISTA0XI-1967
@@ -196,7 +191,7 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 3. Bendrijai draudžiama: 
 
 
-1) bendrijos lėšas naudoti sprendžiant teisminius ginčus tarp bendrijos valdymo organo ir bendrijos narių dėl bendrijos valdymo klausimų ir kitiems tikslams, negu nustatyta bendrijos įstatuose;                   
+1) bendrijos lėšas naudoti sprendžiant teisminius ginčus tarp bendrijos valdymo organo ir bendrijos narių dėl bendrijos valdymo klausimų ir kitiems tikslams, negu nustatyta bendrijos įstatuose;            
 
 
 
@@ -1156,7 +1151,9 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 
 
-2. Savivaldybės vykdomoji institucija ar jos įgaliotas asmuo turi teisę kontroliuoti, kaip bendrijos valdymo organai atlieka pagal šį įstatymą jiems priskirtas funkcijas ir, vadovaudamasis Lietuvos Respublikos administracinių teisės pažeidimų kodeksu, surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba perduoti administracinių teisės pažeidimų bylas nagrinėti teismui.
+2. Savivaldybės vykdomoji institucija ar jos įgaliotas asmuo turi teisę kontroliuoti, kaip bendrijos valdymo organai atlieka pagal šį įstatymą jiems priskirtas funkcijas, ir, vadovaudamiesi Lietuvos Respublikos administracinių nusižengimų kodeksu, surašyti administracinių nusižengimų protokolus, nagrinėti administracinių nusižengimų bylas ir skirti administracines nuobaudas arba perduoti administracinių nusižengimų bylas nagrinėti teismui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2639, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24672
  
 
 
@@ -1529,7 +1526,7 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
  
 
@@ -1578,3 +1575,8 @@ Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir 14 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2639, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24672
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 20 straipsnio pakeitimo įstatymas
