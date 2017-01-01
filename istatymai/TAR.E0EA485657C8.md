@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-09
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
  
@@ -1421,9 +1421,12 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-8) teisės aktų nustatyta tvarka pripažintas padaręs teisės pažeidimą, kuris gali diskredituoti LŠS ar žeminti  šaulio vardą, jei nuo administracinės  ar drausminės nuobaudos skyrimo už tokį pažeidimą arba bausmės už baudžiamąjį nusižengimą skyrimo  nepraėjo vieneri  metai ar  įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikalstamą veiką ir turi neišnykusį ar nepanaikintą teistumą. 
+8) Lietuvos Respublikos baudžiamojo kodekso, Lietuvos Respublikos administracinių nusižengimų kodekso ar Lietuvos šaulių sąjungos statuto nustatyta tvarka pripažintas padaręs teisės pažeidimą, kuris gali diskredituoti LŠS ar žeminti šaulio vardą, jeigu nuo administracinės nuobaudos, administracinio poveikio priemonės ar drausminės nuobaudos skyrimo už tokį pažeidimą, arba bausmės už baudžiamąjį nusižengimą skyrimo nepraėjo vieni metai ar įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikalstamą veiką ir turi neišnykusį ar nepanaikintą teistumą.
+TAR pastaba. 30 straipsnio 3 dalies 8 punkto nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
 Papildyta straipsnio punktu:
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+Straipsnio punkto pakeitimai:
+Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
  
 
 
@@ -1534,10 +1537,10 @@ Nr. XII-1444, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20785
 33 straipsnis. Šaulių teisės ir pareigos, kai LŠS teikia pagalbą policijai, Valstybės sienos apsaugos tarnybai bei civilinės saugos ir gelbėjimo sistemos pajėgoms
 
 
-1. Kai LŠS teikia šio įstatymo 16 straipsnio 1 dalyje nustatytą pagalbą policijai, 17 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 18 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms, šauliai turi šias teises:
+1. Kai LŠS teikia šio įstatymo 16 straipsnio 1 dalyje nustatytą pagalbą policijai, 17 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 18 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms, šauliai turi šias teises:
 
 
-1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su vidaus tarnybos sistemos pareigūnais panaudoti specialiąsias priemones;
+1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su policijos ir Valstybės sienos apsaugos tarnybos pareigūnais panaudoti specialiąsias priemones;
 
 
 
@@ -1547,19 +1550,22 @@ Nr. XII-1444, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20785
 
 
 
-3) įstatymų nustatytais atvejais padėti vidaus tarnybos sistemos pareigūnams sulaikyti ir pristatyti asmenį į vidaus reikalų statutinę įstaigą;
+3) įstatymų nustatytais atvejais padėti policijos ir Valstybės sienos apsaugos tarnybos pareigūnams sulaikyti ir pristatyti asmenį į vidaus reikalų statutinę įstaigą;
 
 
 
 
-4) kartu su vidaus tarnybos sistemos pareigūnais įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar sulaikytas nusikaltėlis, taip pat įvykus stichinei nelaimei ar kitam ypatingam įvykiui, keliančiam grėsmę žmonių gyvybei, sveikatai ar turtui;
+4) kartu su policijos ir Valstybės sienos apsaugos tarnybos pareigūnais įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar sulaikytas nusikaltėlis, taip pat įvykus stichinei nelaimei ar kitam ypatingam įvykiui, keliančiam grėsmę žmonių gyvybei, sveikatai ar turtui;
 
 
 
 
-5) jei įtariama, kad yra padaryta nusikalstama veika ar administracinis teisės pažeidimas, kartu su vidaus tarnybos sistemos pareigūnais stabdyti transporto priemones.
+5) jeigu įtariama, kad yra padaryta nusikalstama veika ar administracinis nusižengimas, kartu su policijos ir Valstybės sienos apsaugos tarnybos pareigūnais stabdyti transporto priemones.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
+ 
 
 
 
@@ -2133,3 +2139,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 32 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26, 30, 36 ir 41 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30 ir 33 straipsnių pakeitimo įstatymas
