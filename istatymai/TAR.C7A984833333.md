@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
  
@@ -2463,7 +2463,10 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS, ŠIOS TEISĖS ATĖMIMAS IR 
 
 
 
-3. Teisė valdyti geležinkelių riedmenis traukinio mašinistui, iš kurio vadovaujantis Lietuvos Respublikos administracinių teisės pažeidimų kodeksu ji buvo atimta vieniems metams ir ilgiau, grąžinama tik pasibaigus šios teisės atėmimo laikotarpiui ir iš naujo išlaikius egzaminą.
+3. Teisė valdyti geležinkelių riedmenis traukinio mašinistui, iš kurio vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu ji buvo atimta vieniems metams ir ilgiau, grąžinama tik pasibaigus šios teisės atėmimo terminui ir iš naujo išlaikius egzaminą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2600, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23694
+ 
 
 
 
