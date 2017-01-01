@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2016-11-15 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -1393,24 +1393,36 @@ AŠTUNTASIS SKIRSNIS
  
 
 
-29 straipsnis. Šilumos pirkimo–pardavimo sutarčių nutraukimas vartotojo iniciatyva 
+29 straipsnis. Šilumos pirkimo–pardavimo sutarčių nutraukimas vartotojo iniciatyva
 
 
-1. Šilumos vartotojas, pakeitęs buto (butų), kitų patalpų šildymo ir apsirūpinimo karštu vandeniu būdą, turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartį. Buto (butų) ir kitų patalpų šildymo būdas keičiamas Lietuvos Respublikos statybos įstatymo nustatyta tvarka rekonstruojant pastatą (inžinerines sistemas). 
-
-
-
-
-2. Kai rekonstravus pastatą (inžinerines sistemas) pakeičiamas viso pastato šildymo ar apsirūpinimo karštu vandeniu būdas, to pastato butų ir kitų patalpų savininkų ir šilumos ir (ar) karšto vandens tiekėjo sutartys laikomos nutrauktomis nuo statinio pripažinimo tinkamu naudoti momento. 
+1. Šilumos vartotojas, pakeitęs buto (butų), kitų patalpų šildymo ir (ar) apsirūpinimo karštu vandeniu būdą, turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartį. Buto (butų) ir kitų patalpų šildymo ir (ar) apsirūpinimo karštu vandeniu būdas keičiamas Lietuvos Respublikos statybos įstatymo nustatyta tvarka remontuojant pastatą.
 
 
 
 
-3. Kai rekonstravus pastatą (inžinerines sistemas) pakeičiamas ne viso pastato šildymo ar apsirūpinimo karštu vandeniu būdas, nuo statinio pripažinimo tinkamu naudoti momento laikomos nutrauktomis to pastato butų ir kitų patalpų, kurių šildymo būdas pakeistas, savininkų ir šilumos ir (ar) karšto vandens tiekėjo sutartys. Šių butų ir kitų patalpų savininkai energetikos ministro patvirtintose Šilumos tiekimo ir vartojimo taisyklėse nustatyta tvarka šilumos ir (ar) karšto vandens tiekėjams kiekvieną mėnesį apmoka už jiems tenkančią pastato bendrosioms reikmėms sunaudotos šilumos ir (ar) karšto vandens dalį.
+2. Kai pakeičiamas viso pastato šildymo ar apsirūpinimo karštu vandeniu būdas, to pastato butų ir kitų patalpų savininkų ir šilumos ir (ar) karšto vandens tiekėjo sutartys laikomos nutrauktomis nuo statybos užbaigimo akto surašymo momento.
+
+
+
+
+3. Kai pakeičiamas ne viso pastato šildymo ar apsirūpinimo karštu vandeniu būdas, nuo statybos užbaigimo akto surašymo momento laikomos nutrauktomis to pastato butų ir kitų patalpų, kurių šildymo būdas pakeistas, savininkų ir šilumos ir (ar) karšto vandens tiekėjo sutartys. Šių butų ir kitų patalpų savininkai:
+
+
+1) vadovaudamiesi Valstybinės kainų ir energetikos kontrolės komisijos nustatytais metodais, šilumos ir (ar) karšto vandens tiekėjams kiekvieną mėnesį apmoka už jiems tenkančią pastato bendrosioms reikmėms sunaudotos šilumos dalį;
+
+
+
+
+2) atlygina dėl šildymo būdo keitimo atsiradusias pastato remonto ir (ar) pastato šilumos įrenginių rekonstravimo, techninių sprendimų, pastato šildymo ir karšto vandens sistemos balansavimo, pastato šildymo ir karšto vandens sistemos dokumentų pakeitimo išlaidas.
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
+Straipsnio pakeitimai:
+Nr. XII-2701, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26480
  
 
 
@@ -1992,3 +2004,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 21 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 11, 12, 14 ir 16 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2701, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26480
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 29 straipsnio pakeitimo įstatymas
