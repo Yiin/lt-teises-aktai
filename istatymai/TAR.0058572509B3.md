@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0058572509B3"
 
 # Lietuvos Respublikos valstybinės kalbos inspekcijos įstatymas
 
+Suvestinė redakcija nuo 2017-01-01
+ 
+Įstatymas paskelbtas: Žin. 2001, Nr. 111-4027, i. k. 1011010ISTA00IX-672
+ 
 LIETUVOS RESPUBLIKOS VALSTYBINĖS KALBOS INSPEKCIJOS ĮSTATYMAS
  
 2001 m. gruodžio 18 d. Nr. IX-672
@@ -79,7 +83,10 @@ Vilnius
 2. Kalbos inspekcija, įgyvendindama jai pavestus uždavinius, atlieka šias funkcijas:
 
 
-1) nagrinėja jos įgaliojimų sričiai priskirtas administracinių teisės pažeidimų bylas;
+1) nagrinėja jos įgaliojimų sričiai priskirtas administracinių nusižengimų bylas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
+ 
 
 
 
@@ -145,12 +152,18 @@ Vilnius
 
 
 
-6) įstatymų nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus;
+6) įstatymų nustatytais atvejais surašyti administracinių nusižengimų protokolus; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
+ 
 
 
 
 
-7) nagrinėti administracinių teisės pažeidimų bylas ir taikyti administracines nuobaudas;
+7) nagrinėti administracinių nusižengimų bylas ir taikyti administracines nuobaudas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
+ 
 
 
 
@@ -317,3 +330,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
+Lietuvos Respublikos valstybinės kalbos inspekcijos įstatymo Nr. IX-672 4 ir 5 straipsnių pakeitimo įstatymas
