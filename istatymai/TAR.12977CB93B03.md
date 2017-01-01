@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2016-09-30 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
- 
-TAR pastaba. Jeigu teisė gauti paramą užsienyje mirusių (žuvusių) piliečių palaikams parvežti į Lietuvos Respubliką atsirado iki šio įstatymo įsigaliojimo, ši parama skiriama ir mokama pagal šio įstatymo nuostatas. Jeigu teisė gauti laidojimo pašalpą atsirado iki šio įstatymo įsigaliojimo, skiriant laidojimo pašalpą taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos paramos mirties atveju įstatymo nuostatos. Jeigu asmuo mirė iki 2017 m. sausio 1 d., laidojimo pašalpa išmokama remiantis mirties liudijimu (tais atvejais, kai vaikas gimė negyvas, – gimimo įrašo nuorašu), jeigu mirusio asmens mirtis neįregistruota Lietuvos Respublikos gyventojų registre.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2612, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24186
-Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 pakeitimo įstatymas
  
 Nauja redakcija nuo 2016-09-30:
 Nr. XII-2612, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24186
@@ -98,7 +93,7 @@ Nustatomos šios paramos mirties atveju rūšys:
 
 
 
-2. Paramai mirties atveju administruoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriama nuo 2 iki 4 procentų paramai mirties atveju skirtų lėšų. Paramai mirties atveju administruoti panaudojama ne didesnė lėšų suma, negu nustatytas paramai mirties atveju administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų šiai paramai mokėti. 
+2. Paramai mirties atveju administruoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriama 3 procentai paramai mirties atveju skirtų lėšų. Paramai mirties atveju administruoti panaudojama ne didesnė lėšų suma, negu nustatytas paramai mirties atveju administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų šiai paramai mokėti. 
 
 
 
@@ -176,7 +171,7 @@ LAIDOJIMO PAŠALPA
 
 
 
-5. Teisės į laidojimo pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – mirties liudijimo išdavimo data).
+5. Teisės į laidojimo pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – medicininio mirties liudijimo (tais atvejais, kai vaikas gimė negyvas, – medicininio perinatalinės mirties liudijimo) išrašymo data). 
  
 
 
@@ -254,7 +249,7 @@ PARAMOS MIRTIES ATVEJU TEIKIMO TVARKA
 
 
 
-3. Kreipiantis dėl paramos mirties atveju, turi būti pateiktas asmens, turinčio teisę gauti minėtą paramą, tapatybę patvirtinantis dokumentas, socialinės apsaugos ir darbo ministro patvirtintos formos prašymas (toliau – prašymas), mirusio asmens mirties liudijimas (tais atvejais, kai vaikas gimė negyvas, – jo gimimo įrašo nuorašas), o kai kreipiamasi dėl paramos palaikams parvežti, – ir dokumentai, įrodantys patirtas palaikų parvežimo į Lietuvos Respubliką išlaidas, ir Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 20 straipsnio 3 dalyje nurodyti dokumentai apie bendrai gyvenančių asmenų ar vieno gyvenančio asmens gautas pajamas. Mirties liudijimo pateikti nereikia, jeigu mirusio asmens mirtis įregistruota Lietuvos Respublikos gyventojų registre, kituose valstybės registruose ar informacinėse sistemose. 
+3. Kreipiantis dėl paramos mirties atveju, turi būti pateiktas asmens, turinčio teisę gauti minėtą paramą, tapatybę patvirtinantis dokumentas, socialinės apsaugos ir darbo ministro patvirtintos formos prašymas (toliau – prašymas), jeigu asmens mirtis neįregistruota Lietuvos Respublikos gyventojų registre, turi būti pateiktas medicininis mirties liudijimas (tais atvejais, kai vaikas gimė negyvas, – medicininis perinatalinės mirties liudijimas), o kai kreipiamasi dėl paramos palaikams parvežti, – ir dokumentai, įrodantys patirtas palaikų parvežimo į Lietuvos Respubliką išlaidas, ir Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 20 straipsnio 3 dalyje nurodyti dokumentai apie vieno gyvenančio asmens gautas vidutines pajamas arba vienam asmeniui tenkančias vidutines pajamas (kai jis yra vienas iš bendrai gyvenančių asmenų). 
 
 
 
