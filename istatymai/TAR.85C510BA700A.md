@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-05-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-03-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -345,19 +345,32 @@ Vyriausybė:
 
 
 
-2) koordinuoja valstybės informacinių išteklių politikos formavimą;
+2) koordinuoja ir derina institucijų tarpžinybinius veiksmus joms pagal kompetenciją formuojant ir įgyvendinant valstybės informacinių išteklių politiką;
 
 
 
 
-3) koordinuoja ir derina institucijų tarpžinybinius veiksmus, joms įgyvendinant valstybės informacinių išteklių politiką;
+3) planuoja lėšų paskirstymą valstybės informacinių išteklių plėtrai;
 
 
 
 
-4) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+4) koordinuoja valstybės informacinių išteklių sąveikumą ir pakartotinį naudojimą užtikrinančių technologinių priemonių kūrimą ir funkcionavimą;
 
 
+
+
+5) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas;
+
+
+
+
+6) valdo Saugų valstybinį duomenų perdavimo tinklą ir skiria jo tvarkytoją. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
+ 
 
 
 
@@ -435,7 +448,9 @@ Vyriausybė:
 
 
 
-9) valdo Saugų valstybinį duomenų perdavimo tinklą ir skiria jo tvarkytoją; 
+9) Neteko galios nuo 2017-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
 Papildyta straipsnio punktu:
 Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
  
@@ -469,59 +484,42 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 2. Susisiekimo ministerijos įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
 
 
-1) derina teisės aktų, nustatančių valstybės informacinių sistemų steigimą, valstybės informacinių sistemų ir registrų kūrimą, valstybės informacinių sistemų ir registrų funkcionavimą, projektus;
+1) derina registrų sukūrimo kalendorinius darbų grafikus, valstybės informacinių sistemų ir registrų techninių aprašymų (specifikacijų) atitiktį nuostatams;
 
 
 
 
-2) derina registrų ir valstybės informacinių sistemų nuostatų projektus, registrų sukūrimo kalendorinius darbų grafikus, techninių aprašymų (specifikacijų) atitiktį nuostatams, registrų techninių ir programinių priemonių kūrimo ir plėtros investicinius projektus;
+2) atlieka registrų ir valstybės informacinių sistemų steigimo, kūrimo ir funkcionavimo stebėseną;
 
 
 
 
-3) planuoja lėšų paskirstymą valstybės informacinių išteklių plėtrai;
+3) koordinuoja registrų ir valstybės informacinių sistemų kūrimo ir funkcionavimo procesus, teikia pasiūlymus dėl registrų ir valstybės informacinių sistemų funkcionalumo ir jų sąveikos tobulinimo;
 
 
 
 
-4) atlieka registrų ir valstybės informacinių sistemų steigimo, kūrimo ir funkcionavimo stebėseną;
+4) derina informacinių technologijų plėtros planų projektus, renka, analizuoja informaciją apie informacinių technologijų plėtros planų įgyvendinimą, institucijų valdomų informacinių išteklių kūrimą, plėtrą, tvarkymą ir tam panaudotas lėšas;
 
 
 
 
-5) koordinuoja registrų ir valstybės informacinių sistemų kūrimo ir funkcionavimo procesus, teikia pasiūlymus dėl registrų, valstybės informacinių sistemų funkcionalumo ir jų sąveikos tobulinimo;
+5) nagrinėja šio įstatymo 19 straipsnio 6 dalyje ir 31 straipsnio 3 dalyje nustatyta tvarka pateiktas ataskaitas, apibendrintą informaciją teikia valstybės informacinių išteklių plėtros politiką formuojančiai institucijai;
 
 
 
 
-6) derina informacinių technologijų plėtros planų projektus, renka ir analizuoja informaciją apie planų įgyvendinimą, institucijų valdomų informacinių išteklių kūrimą, plėtrą ir tvarkymą ir tam panaudotas lėšas;
+6) analizuoja, kaip valstybės informaciniai ištekliai panaudojami valstybės valdymui ir viešosioms ir administracinėms paslaugoms teikti, rengia pasiūlymus dėl valstybės informacinių išteklių panaudojimo valstybės valdymui ir viešosioms ir administracinėms paslaugoms teikti tobulinimo;
 
 
 
 
-7) nagrinėja šio įstatymo 19 straipsnio 6 dalyje ir 31 straipsnio 3 dalyje nustatyta tvarka pateiktas ataskaitas, apibendrintą informaciją teikia valstybės informacinių išteklių plėtros politiką formuojančiai institucijai;
+7) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas. 
 
 
-
-
-8) koordinuoja informacinių technologijų priemonių, leidžiančių naudotis valstybės informaciniais ištekliais, kūrimą;
-
-
-
-
-9) analizuoja, kaip valstybės informaciniai ištekliai panaudojami valstybės valdymui ir viešosioms ir administracinėms paslaugoms teikti, rengia ir teikia su tuo susijusius pasiūlymus;
-
-
-
-
-10) konsultuoja institucijas valstybės informacinių išteklių funkcinio suderinamumo, kūrimo ir tvarkymo klausimais, registrų ir valstybės informacinių sistemų valdytojus, registrų ir valstybės informacinių sistemų tvarkytojus, kitas institucijas valstybės informacinių sistemų steigimo, registrų ir valstybės informacinių sistemų kūrimo, funkcionavimo ir registrų sistemos plėtros, techninės ir programinės įrangos priežiūros ir duomenų tvarkymo funkcijų perdavimo klausimais;
-
-
-
-
-11) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
+ 
 
 
 
@@ -1544,7 +1542,10 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 
 
-2) nusikaltimo, baudžiamojo nusižengimo ar administracinių teisės pažeidimų tyrimui;
+2) nusikaltimo, baudžiamojo nusižengimo ar administracinių nusižengimų tyrimui; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
+ 
 
 
 
@@ -2257,9 +2258,10 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 
 
-6. Duomenys tarp institucijų teikiami saugiais elektroninių ryšių tinklais. Elektroninių ryšių tinklo saugumo lygio reikalavimus nustato Vyriausybė. Atlyginimo už naudojimąsi Saugiu valstybiniu duomenų perdavimo tinklu dydį pagal Vyriausybės patvirtintus kriterijus nustato vidaus reikalų ministras.
+6. Duomenys tarp institucijų teikiami saugiais elektroninių ryšių tinklais. Elektroninių ryšių tinklo saugumo lygio reikalavimus nustato Vyriausybė. Atlyginimo už naudojimąsi Saugiu valstybiniu duomenų perdavimo tinklu dydį pagal Vyriausybės patvirtintus kriterijus nustato susisiekimo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
+Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
  
 
 
@@ -2541,3 +2543,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2, 5 ir 43 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 5, 6, 27 ir 43 straipsnių pakeitimo įstatymas
