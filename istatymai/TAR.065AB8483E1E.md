@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2016-12-29 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -3286,9 +3286,10 @@ Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
 
 
 
-13. Komisijos posėdžiai laikomi teisėtais, jeigu juose dalyvauja ne mažiau kaip 2/3 Komisijos narių. Komisija priima sprendimus. Sprendimai priimami atviru balsavimu paprasta visų Komisijos narių balsų dauguma, išskyrus šiame įstatyme nustatytus atvejus. Sprendimai išduoti licenciją, atsisakyti ją išduoti, taip pat dėl Administracinių teisės pažeidimų kodekse ir šiame įstatyme numatytų nuobaudų skyrimo, konkursų sąlygų ir rezultatų, licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo priimami ne mažesne kaip 2/3 visų Komisijos narių balsų dauguma. 
+13. Komisijos posėdžiai laikomi teisėtais, jeigu juose dalyvauja ne mažiau kaip 2/3 Komisijos narių. Komisija priima sprendimus. Sprendimai priimami atviru balsavimu paprasta visų Komisijos narių balsų dauguma, išskyrus šiame įstatyme nustatytus atvejus. Sprendimai išduoti licenciją, atsisakyti ją išduoti, taip pat dėl Administracinių nusižengimų kodekse ir šiame įstatyme numatytų nuobaudų skyrimo, konkursų sąlygų ir rezultatų, licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo priimami ne mažesne kaip 2/3 visų Komisijos narių balsų dauguma. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1487, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21232
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
  
 
 
@@ -3479,7 +3480,10 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-3) už transliavimo licencijoje ir (ar) retransliuojamo turinio licencijoje nurodytų reikalavimų pažeidimą ir (ar) Komisijos sprendimų, išskyrus šio straipsnio 2 dalies 2 punkte nurodytų sprendimų, nevykdymą – skirti Administracinių teisės pažeidimų kodekse nurodytas nuobaudas;
+3) už transliavimo licencijoje ir (ar) retransliuojamo turinio licencijoje nurodytų reikalavimų pažeidimą ir (ar) Komisijos sprendimų, išskyrus šio straipsnio 2 dalies 2 punkte nurodytus sprendimus, nevykdymą skirti Administracinių nusižengimų kodekse nurodytas nuobaudas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
+ 
 
 
 
@@ -3611,7 +3615,10 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-17. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos. Jeigu teismas, nagrinėdamas Komisijos prašymą laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklą, nustato administracinio teisės pažeidimo arba nusikalstamos veikos požymių, apie tai praneša atitinkamai institucijai, įgaliotai surašyti administracinio teisės pažeidimo protokolą, arba prokurorui.
+17. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
+ 
 
 
 
@@ -3929,12 +3936,18 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus;
+4) Administracinių nusižengimų kodekso nustatytais atvejais pradėti administracinio nusižengimo teiseną; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
+ 
 
 
 
 
-5) Administracinių teisės pažeidimų kodekso nustatytais atvejais nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas;
+5) Administracinių nusižengimų kodekso nustatytais atvejais nagrinėti administracinių nusižengimų bylas ir skirti administracines nuobaudas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
+ 
 
 
 
@@ -4514,3 +4527,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 28 ir 47 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47, 48 ir 50 straipsnių pakeitimo įstatymas
