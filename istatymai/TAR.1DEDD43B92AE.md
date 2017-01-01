@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-03
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
- 
-TAR pastaba. Jeigu dėl išmokos vaikui kreipiamasi įsigaliojus šiam įstatymui ir, vadovaujantis Lietuvos Respublikos išmokų vaikams įstatymo 13 straipsnio 2 dalimi, išmoka vaikui skiriama už praėjusius mėnesius iki šio įstatymo įsigaliojimo, taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos išmokų vaikams įstatymo nuostatos. Jeigu teisė gauti vienkartinę išmoką vaikui atsirado iki šio įstatymo įsigaliojimo, skiriant vienkartinę išmoką vaikui taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos išmokų vaikams įstatymo nuostatos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 8, 12, 20 straipsnių ir priedo pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2004-07-01:
 Nr. IX-2237, 2004-05-18, Žin., 2004 Nr. 88-3208 (2004-06-30)
@@ -95,12 +90,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 7 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5 ar 7 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2 ar 7 punkte.
+3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 7 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5 ar 7 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2 ar 7 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas.
 
 
 
 
-4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
 
 Straipsnio pakeitimai:
@@ -201,7 +196,26 @@ Nustatomos šios išmokų rūšys:
 
 
 
-7) globos (rūpybos) išmokos tikslinis priedas.
+7) išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai; 
+Papildyta straipsnio punktu:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
+ 
+
+
+
+
+8) išmoka gimus vienu metu daugiau kaip vienam vaikui; 
+Papildyta straipsnio punktu:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
+ 
+
+
+
+
+9) globos (rūpybos) išmokos tikslinis priedas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
+ 
 
 
 
@@ -303,22 +317,18 @@ Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
 6 straipsnis. Išmoka vaikui
 
 
-1. Bendrai gyvenančių asmenų auginamam ir (ar) globojamam vaikui nuo gimimo dienos iki 2 metų yra skiriama ir mokama 0,75 bazinės socialinės išmokos dydžio išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų pajamų dydžio.
+1. Bendrai gyvenančių asmenų, išskyrus asmenis, kurie augina ir (ar) globoja tris ar daugiau vaikų, auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba) nustatyta šeimoje, nuo gimimo dienos iki 2 metų yra skiriama ir mokama 0,75 bazinės socialinės išmokos dydžio išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų pajamų dydžio. Bendrai gyvenančių asmenų, kurie augina ir (ar) globoja tris ar daugiau vaikų, auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba) nustatyta šeimoje, nuo gimimo dienos iki 2 metų yra skiriama ir mokama 0,75 bazinės socialinės išmokos dydžio išmoka per mėnesį. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
+ 
 
 
 
 
-2. Bendrai gyvenančių asmenų auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba) nustatyta šeimoje, yra skiriama ir mokama 0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų pajamų dydžio: 
-
-
-1) kai vaikas yra nuo 2 iki 7 metų; 
-
-
-
-
-2) kai vaikas yra nuo 7 iki 18 metų, jeigu bendrai gyvenantys asmenys augina ir (ar) šeimoje globoja tris ar daugiau vaikų. Išmoka mokama, kol kiekvienam vaikui sukaks 18 metų, jeigu šių bendrai gyvenančių asmenų vyresni kaip 18 metų vaikai ar buvę šeimoje globojami vaikai mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti arba studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau kaip iki jiems sukaks 24 metai.
-
-
+2. Bendrai gyvenančių asmenų, išskyrus asmenis, kurie augina ir (ar) globoja tris ar daugiau vaikų, auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba) nustatyta šeimoje, nuo 2 iki 18 metų yra skiriama ir mokama 0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį, jeigu vidutinės bendrai gyvenančių asmenų pajamos, nustatytos Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalyje, vienam asmeniui per mėnesį yra mažesnės negu 1,5 valstybės remiamų pajamų dydžio. Bendrai gyvenančių asmenų, kurie augina ir (ar) globoja tris ar daugiau vaikų, auginamam ir (ar) globojamam vaikui, kuriam globa (rūpyba) nustatyta šeimoje, nuo 2 iki 18 metų yra skiriama ir mokama 0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+Straipsnio dalies pakeitimai:
+Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
+ 
 
 
 
@@ -566,19 +576,64 @@ Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 
 
 KETVIRTASIS SKIRSNIS 
-Vienkartinė Išmoka nėščiai moteriai
+VIENKARTINĖ IŠMOKA NĖŠČIAI MOTERIAI, IŠMOKA BESIMOKANČIO AR STUDIJUOJANČIO ASMENS VAIKO PRIEŽIŪRAI IR IŠMOKA GIMUS VIENU METU DAUGIAU KAIP VIENAM VAIKUI
+Pakeistas skirsnio pavadinimas:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
  
 
 
 10 straipsnis. Vienkartinė išmoka nėščiai moteriai
 
 
-Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės pašalpos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2 bazinių socialinių išmokų dydžio vienkartinė išmoka.
+Nėščiai moteriai, pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės išmokos, likus 70 kalendorinių dienų iki numatomos gimdymo datos, skiriama 2 bazinių socialinių išmokų dydžio vienkartinė išmoka.
 
 
 Straipsnio pakeitimai:
 Nr. X-641, 2006-06-01, Žin., 2006, Nr. 68-2496 (2006-06-17)
 Nr. X-1664, 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
+Straipsnio pakeitimai:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
+ 
+
+
+
+
+101 straipsnis. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai
+
+
+1. Auginančiam vaiką vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų), įtėvių ar vaiko globėjui mokslo ar studijų laikotarpiu ir 12 mėnesių po mokslo ar studijų baigimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą), jeigu jis mokosi (mokėsi) pagal formaliojo profesinio mokymo programą ar studijuoja (studijavo) aukštojoje mokykloje pagal nuolatinę studijų formą, iki jam sukaks 26 metai, arba jeigu jis studijuoja (studijavo) doktorantūroje ar medicinos rezidentūroje, iki jam sukaks 30 metų (įskaitant ir akademinių atostogų dėl nėštumo ar vaiko priežiūros laikotarpį), ir jeigu pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą jis neturi teisės gauti vaiko priežiūros išmokos, skiriama 4 bazinių socialinių išmokų dydžio išmoka per mėnesį. Ši išmoka mokama vaiko priežiūros laikotarpiu nuo vaiko gimimo dienos, iki vaikui sukaks vieni metai.
+
+
+
+
+2. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai neskiriama, kai kitam iš vaiko tėvų (įtėvių) ar globėjui už tą patį vaiką paskirta vaiko priežiūros išmoka pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą.
+
+
+
+
+3. Gimus ar įvaikinus du ir daugiau vaikų, išmokos besimokančio ar studijuojančio asmens vaiko priežiūrai dydis nedidinamas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-180, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29868
+ 
+
+
+
+
+102 straipsnis. Išmoka gimus vienu metu daugiau kaip vienam vaikui 
+
+
+1. Kai vienu metu gimsta du ar daugiau vaikų, vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) skiriama išmoka gimus vienu metu daugiau kaip vienam vaikui ir ši išmoka mokama nuo vaikų gimimo dienos, iki jiems sukaks 2 metai.
+
+
+
+
+2. Kai vienu metu gimsta du vaikai, skiriama 4 bazinių socialinių išmokų dydžio išmoka per mėnesį. Kai vienu metu gimsta daugiau kaip du vaikai, išmokos dydis atitinkamai didinamas 4 bazinių socialinių išmokų dydžiu.
+
+
+Papildyta straipsniu:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
  
 
 
@@ -641,7 +696,10 @@ Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
 
 
 
-7. Vienkartinės išmokos vaikui, vienkartinės išmokos įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės išmokos dydžius. Išmokos vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui ir globos (rūpybos) išmokos dydis ir globos (rūpybos) išmokos tikslinis priedas apskaičiuojami pagal tą mėnesį, už kurį išmoka mokama, galiojančius išmokos ir bazinės socialinės išmokos dydžius.
+7. Vienkartinės išmokos vaikui, vienkartinės išmokos įsikurti ir vienkartinės išmokos nėščiai moteriai dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės išmokos dydžius. Išmokos vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui, išmokos besimokančio ar studijuojančio asmens vaiko priežiūrai, išmokos gimus vienu metu daugiau kaip vienam vaikui ir globos (rūpybos) išmokos dydis ir globos (rūpybos) išmokos tikslinis priedas apskaičiuojami pagal tą mėnesį, už kurį išmoka mokama, galiojančius išmokos ir bazinės socialinės išmokos dydžius.
+Straipsnio dalies pakeitimai:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
+ 
 
 
 
@@ -688,7 +746,10 @@ Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
 
 
-2. Išmoka privalomosios pradinės karo tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo 6 straipsnio 1 ir 2 dalyse nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų pajamas.
+2. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo 6 straipsnio 1 ir 2 dalyse nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
+ 
 
 
 
@@ -1181,3 +1242,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 10, 12, 13 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 8, 12, 20 straipsnių ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-180, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29868
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 10, 12, 13 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XII-2500 5 straipsnio pakeitimo įstatymas
