@@ -20,14 +20,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-05-25 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
- 
-TAR pastaba. Įstatymo taikymas nuo 2016-05-25 yra papildytas įstatymu Nr. XII-2359.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
-Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymo Nr. XII-407 3 straipsnio pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2014-01-01:
 Nr. XII-407, 2013-06-27, Žin., 2013, Nr. 76-3824 (2013-07-16)
@@ -2008,7 +2003,9 @@ Nr. XII-1022, 2014-07-15, paskelbta TAR 2014-07-22, i. k. 2014-10425
 
 
 
-7. Jeigu savivaldybės administracijos direktorius nepatvirtina detaliojo plano per šiame įstatyme nustatytus terminus arba atsisako patvirtinti detalųjį planą ir nepraneša atsisakymo derinti motyvų, planavimo iniciatorius turi teisę per 10 darbo dienų kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kuri Lietuvos Respublikos administracinių teisės pažeidimų kodekso (toliau – Administracinių teisės pažeidimų kodeksas) nustatyta tvarka atsakingiems už teritorijų planavimo dokumento tvirtinimą asmenims surašo administracinių teisės pažeidimų protokolus, taip pat planavimo iniciatorius turi teisę kreiptis į teismą su prašymu įpareigoti savivaldybės administracijos direktorių per nustatytą terminą, ne ilgesnį kaip 7 darbo dienos, priimti sprendimą tvirtinti arba motyvuotai atsisakyti tvirtinti detalųjį planą.
+7. Jeigu savivaldybės administracijos direktorius nepatvirtina detaliojo plano per šiame įstatyme nustatytus terminus arba atsisako patvirtinti detalųjį planą ir nepraneša atsisakymo derinti motyvų, planavimo iniciatorius turi teisę per 10 darbo dienų kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kurios pareigūnai Lietuvos Respublikos administracinių nusižengimų kodekso (toliau – Administracinių nusižengimų kodeksas) nustatyta tvarka pradeda administracinių nusižengimų teiseną, taip pat planavimo iniciatorius turi teisę kreiptis į teismą su prašymu įpareigoti savivaldybės administracijos direktorių per nustatytą terminą, ne ilgesnį kaip 7 darbo dienos, priimti sprendimą tvirtinti arba motyvuotai atsisakyti tvirtinti detalųjį planą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
  
 
 
@@ -2526,18 +2523,18 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
  
 
 
-40 straipsnis. Teritorijų planavimo dokumentų rengėjai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
+40 straipsnis. Teritorijų planavimo dokumentų rengėjai ir vadovai, jų atestavimo tvarka ir kvalifikaciniai reikalavimai
 
 
 1. Kompleksinio teritorijų planavimo dokumentų rengėjų ir vadovų teisės:
 
 
-1) rengti kompleksinio teritorijų planavimo dokumentus turi teisę fiziniai asmenys, šio įstatymo ir kitų teisės aktų nustatyta tvarka turintys teisę vadovauti kompleksinio teritorijų planavimo dokumentų rengimui, juridiniai asmenys ir jų padaliniai, kitos užsienio organizacijos ir jų padaliniai, jeigu šių organizacijų įstatuose numatyta teritorijų planavimo veikla, kai tiems darbams vadovauja atestuoti teritorijų planavimo vadovai;
+1) rengti kompleksinio teritorijų planavimo dokumentus turi teisę fiziniai asmenys, šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka turintys teisę vadovauti kompleksinio teritorijų planavimo dokumentų rengimui, juridiniai asmenys ir jų padaliniai, užsienio organizacijos ir jų padaliniai, užsiimantys teritorijų planavimo veikla, kai tiems darbams vadovauja atestuoti teritorijų planavimo vadovai. Jeigu planavimo darbų programoje, atsižvelgiant į teritorijų planavimo dokumento lygmenį, planavimo tikslus, teritorijų planavimo dokumento uždavinius ir planuojamą teritoriją, numatoma spręsti ir specialiojo teritorijų planavimo dokumentams priskirtinus uždavinius, nustatytus šio įstatymo 21 straipsnio 2 dalyje, rengiant kompleksinio teritorijų planavimo dokumentą privalo dalyvauti fiziniai asmenys, turintys teisę vadovauti šio įstatymo 5 straipsnio 4 dalyje nurodytų specialiojo teritorijų planavimo dokumentų rengimui. Ši nuostata netaikoma, kai teritorijų planavimo vadovas pats turi kvalifikacijos atestatą, suteikiantį teisę vadovauti atitinkamo specialiojo teritorijų planavimo dokumento rengimui, arba kai į kompleksinio teritorijų planavimo dokumentą, vadovaujantis šio įstatymo 22 straipsnio 2 dalimi, integruojami patvirtintų specialiojo teritorijų planavimo dokumentų sprendiniai; 
 
 
 
 
-2) vadovauti kompleksinio teritorijų planavimo dokumentų rengimui turi teisę asmuo, įgijęs aukštąjį universitetinį meno studijų srities architektūros krypties, o valstybės lygmens ir savivaldybės lygmens (išskyrus miestų savivaldybes) kompleksinio teritorijų planavimo dokumentų rengimui – ir socialinių mokslų srities visuomeninės geografijos krypties ir teritorijų planavimo krypties bei technologijos mokslų srities statybos inžinerijos krypties urbanistinės inžinerijos šakos ar lygiavertį aukštąjį universitetinį išsilavinimą ir gavęs Aplinkos ministerijos šios veiklos atestatą pagal teritorijų planavimo dokumentų rūšis. Šis reikalavimas netaikomas Europos ekonominės erdvės valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems fiziniams asmenis, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie turi teisę vadovauti tokių dokumentų rengimui.
+2) vadovauti kompleksinio teritorijų planavimo dokumentų rengimui turi teisę fizinis asmuo, įgijęs aukštąjį universitetinį meno studijų srities architektūros krypties arba jam lygiavertį išsilavinimą ir gavęs atestavimą atliekančios organizacijos kvalifikacijos atestatą (toliau – atestatas), suteikiantį teisę vadovauti kompleksinio teritorijų planavimo dokumentų rengimui pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis. Šiame punkte nurodytų asmenų atestavimą atlieka Lietuvos Respublikos architektų rūmai. Šis reikalavimas netaikomas kitos Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, jeigu jie turi kitos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie kilmės valstybėje turi teisę užsiimti kompleksinio teritorijų planavimo dokumentų rengimą atitinkančia veikla. 
 
 
 
@@ -2547,39 +2544,44 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 2. Specialiojo teritorijų planavimo dokumentų rengėjų ir vadovų, jeigu atitinkamos rūšies specialiojo teritorijų planavimo dokumentų rengimą reglamentuojantys įstatymai nenustato kitaip, teisės:
 
 
-1) rengti specialiojo teritorijų planavimo dokumentus turi teisę fiziniai asmenys, šio įstatymo ir kitų teisės aktų nustatyta tvarka turintys teisę vadovauti specialiojo teritorijų planavimo dokumentų rengimui, juridiniai asmenys ir jų padaliniai, kitos užsienio organizacijos ir jų padaliniai, jeigu šių organizacijų įstatuose numatyta teritorijų planavimo veikla, kai tiems darbams vadovauja atestuoti teritorijų planavimo vadovai, išskyrus atvejus, kai įstatymai ar teisės aktai nenustato privalomo tokių specialistų atestavimo;
+1) rengti specialiojo teritorijų planavimo dokumentus turi teisę fiziniai asmenys, šio įstatymo ir kitų įstatymų nustatyta tvarka turintys teisę vadovauti specialiojo teritorijų planavimo dokumentų rengimui, juridiniai asmenys ir jų padaliniai, užsienio organizacijos ir jų padaliniai, užsiimantys teritorijų planavimo veikla, kai tiems darbams vadovauja fiziniai asmenys, turintys teisę vadovauti šiems darbams, išskyrus atvejus, kai konkrečių specialiojo teritorijų planavimo dokumentų rengimą reglamentuojantys įstatymai nenustato privalomo tokių vadovų atestavimo;
 
 
 
 
-2) vadovauti specialiojo teritorijų planavimo dokumento rengimui (jeigu teritorijų planavimo dokumento rengimo vadovo privalomumas nustatytas konkretaus specialiojo teritorijų planavimo dokumento rengimą reglamentuojančiose teisės aktuose) turi teisę asmuo, įgijęs aukštąjį (universitetinį ar koleginį) arba lygiavertį išsilavinimą, pagal Vyriausybės nustatytas studijų sritis ir kryptis atitinkantį specialiojo teritorijų planavimo dokumento rūšį, ir gavęs Aplinkos ministerijos šios veiklos atestatą pagal teritorijų planavimo dokumentų rūšis. Šis reikalavimas netaikomas Europos ekonominės erdvės valstybių piliečiams ir Šveicarijos Konfederacijos piliečiams, kitiems fiziniams asmenis, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje teisėmis, jeigu jie turi kitos valstybės narės kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie turi teisę vadovauti tokių dokumentų rengimui.
-
-
-
-
-
-
-3. Atestatų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato Aplinkos ministerija. Atestavimo komisija sudaroma aplinkos ministro nustatyta tvarka. Atestatai išduodami ne vėliau kaip per vieną mėnesį nuo visų dokumentų atestatui gauti pateikimo dienos. 
-
-
-
-
-4. Atestatas pagal teritorijų planavimo dokumentų rūšis išduodamas neterminuotam laikui šio straipsnio 1 ir 2 dalyse nurodytiems asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus:
-
-
-1) asmenys, vadovaujantys kompleksinio teritorijų planavimo dokumentų rengimui, privalo turėti šio straipsnio 1 dalies 2 punkte nurodytą išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį rengiant atitinkamo lygmens kompleksinio teritorijų planavimo dokumentus arba teritorijų planavimo vadovo patirtį rengiant žemesnio lygmens kompleksinio teritorijų planavimo dokumentus ir išlaikę teisinių žinių egzaminą pagal Aplinkos ministerijos patvirtintą programą;
-
-
-
-
-2) asmenys, vadovaujantys specialiojo teritorijų planavimo dokumento rengimui, privalo turėti šio straipsnio 2 dalies 2 punkte nurodytą išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį rengiant atitinkamo lygmens specialiojo teritorijų planavimo dokumentus arba teritorijų planavimo vadovo patirtį rengiant žemesnio lygmens specialiojo teritorijų planavimo dokumentus ir išlaikę teisinių žinių egzaminą pagal Aplinkos ministerijos patvirtintą programą.
+2) vadovauti specialiojo teritorijų planavimo dokumentų rengimui (išskyrus atvejus, kai konkrečių specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose įstatymuose nustatyta kitaip) turi teisę teritorijų planavimo vadovas, turintis profesinę patirtį vadovaujant aukštesnio ar atitinkamo lygmens kompleksinio teritorijų planavimo dokumentų rengimui, jeigu juose buvo sprendžiami atitinkami specialiojo teritorijų planavimo dokumentui priskirtini uždaviniai, arba fizinis asmuo, pagal Vyriausybės nustatytas studijų sritis ir kryptis įgijęs aukštąjį (universitetinį ar koleginį) arba jam lygiavertį išsilavinimą, atitinkantį specialiojo teritorijų planavimo dokumento rūšį, ir turintis atestatą, suteikiantį teisę vadovauti specialiojo teritorijų planavimo dokumentų rengimui pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis. Šiame punkte nurodytų asmenų atestavimą atlieka valstybės įmonė Statybos produkcijos sertifikavimo centras, išskyrus asmenų, įgijusių aukštąjį universitetinį meno studijų srities architektūros krypties arba jam lygiavertį išsilavinimą, kurių atestavimą atlieka Lietuvos Respublikos architektų rūmai. Šis reikalavimas netaikomas kitos Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, jeigu jie turi kitos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie kilmės valstybėje turi teisę užsiimti specialiojo teritorijų planavimo dokumentų rengimą atitinkančia veikla.
 
 
 
 
 
 
-5. Asmenys, gavę atestatus, kas 5 metai privalo tobulinti savo kvalifikaciją kvalifikacijos tobulinimo kursuose, išklausydami ne mažiau kaip 20 val. teritorijų planavimo dokumentų rengimo, teisinių ir profesinių žinių srities paskaitų pagal Aplinkos ministerijos suderintą programą, taip pat išlaikyti teisinių žinių egzaminą pagal Aplinkos ministerijos patvirtintą programą. Jeigu atestavimo komisija nustato, kad atestato turėtojas nevykdė šio reikalavimo, atestavimo komisijos sprendimu atestato galiojimas gali būti sustabdomas 6 mėnesiams.
+3. Atestatų (išskyrus nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovų, kurių atestavimas vykdomas Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka) išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, atestavimą vykdančios atestavimo komisijos nuostatus ir jos sudėtį nustato aplinkos ministras kartu su kultūros ministru. Atestavimo komisija įvertina pretendento išsilavinimą, profesinę patirtį, gebėjimus ir kūrybingumą, profesinių ir teisinių žinių egzamino rezultatus, kvalifikacijos tobulinimo dokumentus, kitą pretendento pateiktą medžiagą ir pateikia išvadą atestatą išduoti arba prašymo netenkinti. Atestavimą atliekanti organizacija, remdamasi atestavimo komisijos išvada, priima atitinkamą sprendimą ir išduoda atestatą arba informuoja pretendentą apie prašymo netenkinimo motyvus ne vėliau kaip per 30 darbo dienų nuo visų dokumentų atestatui gauti gavimo dienos. Fiziniai asmenys turi teisę visas su atestavimu susijusias procedūras atestavimą atliekančios organizacijos nustatyta tvarka atlikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipdamiesi į atestavimą atliekančias organizacijas.
+
+
+
+
+4. Atestatas pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis išduodamas neterminuotam laikui šio straipsnio 1 ir 2 dalyse nurodytiems fiziniams asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus:
+
+
+1) fiziniai asmenys, siekiantys įgyti teisę vadovauti kompleksinio teritorijų planavimo dokumentų rengimui, privalo turėti šio straipsnio 1 dalies 2 punkte nurodytą išsilavinimą, ne mažesnę kaip 3 metų profesinę patirtį (jos trukmė skaičiuojama pradedant nuo šio straipsnio 1 dalies 2 punkte nurodyto išsilavinimo įgijimo dienos) dalyvaujant rengiant atitinkamo lygmens kompleksinio teritorijų planavimo dokumentus arba profesinę patirtį vadovaujant žemesnio lygmens kompleksinio teritorijų planavimo dokumentų rengimui, taip pat būti atestavimą atliekančios institucijos nustatyta tvarka išlaikę profesinių ir teisinių žinių egzaminą pagal aplinkos ministro patvirtintą programą;
+
+
+
+
+2) fiziniai asmenys, siekiantys įgyti teisę vadovauti specialiojo teritorijų planavimo dokumento rengimui (išskyrus atvejus, kai konkrečių specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose įstatymuose nustatyta kitaip), privalo turėti šio straipsnio 2 dalies 2 punkte nurodytą teritorijų planavimo vadovo patirtį arba ten pat nurodytą išsilavinimą ir ne mažesnę kaip 3 metų profesinę patirtį (jos trukmė skaičiuojama pradedant nuo šio straipsnio 2 dalies 2 punkte nurodyto išsilavinimo įgijimo dienos) dalyvaujant rengiant atitinkamo lygmens specialiojo teritorijų planavimo dokumentus arba profesinę patirtį vadovaujant žemesnio lygmens specialiojo teritorijų planavimo dokumentų rengimui, taip pat būti atestavimą atliekančios institucijos nustatyta tvarka išlaikę profesinių ir teisinių žinių egzaminą pagal aplinkos ministro patvirtintą programą (nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovai – pagal aplinkos ministro ir kultūros ministro patvirtintą programą). Profesinių žinių egzaminų rezultatai atestuotiems, nustatyta tvarka tobulinantiems kvalifikaciją architektams, neturintiems administracinių nuobaudų profesinėje srityje ir dėl kurių nėra nustatytų profesinės etikos pažeidimų, galioja neterminuotai;
+
+
+
+
+3) profesinė patirtis dalyvaujant rengiant teritorijų planavimo dokumentus ar vadovaujant teritorijų planavimo dokumentų rengimui įrodoma pateikiant patvirtinto teritorijų planavimo dokumento pagrindinio ir (ar) kitų brėžinių su asmens pavarde ir parašu kampiniame brėžinio spaude kopijas. Atestavimo komisijos vertinimui papildomai gali būti pateiktos teritorijų planavimo viešinimo procedūrų, numatytų atitinkamose teritorijų planavimo dokumentų rengimo taisyklėse, dokumentų kopijos ir (ar) patvirtinto teritorijų planavimo dokumento rengėjo pažyma, nurodanti, kokiuose teritorijų planavimo proceso etapuose ir stadijose asmuo dalyvavo. Atestavimo komisija vertina asmens profesinę patirtį atsižvelgdama į pateiktų teritorijų planavimo dokumentų planavimo tikslus ir uždavinius bei asmens indėlį dalyvaujant rengiant šiuos dokumentus ir (ar) vadovaujant jų rengimui.
+
+
+
+
+
+
+5. Fiziniai asmenys, gavę atestatus, ne rečiau kaip kas 5 metai privalo tobulinti savo kvalifikaciją kvalifikacijos tobulinimo kursuose, išklausydami ne mažiau kaip 20 valandų teritorijų planavimo dokumentų rengimo, teisinių ir profesinių žinių srities paskaitų pagal aukštųjų mokyklų, asociacijų, mokymo įstaigų patvirtintas mokymo programas, suderintas su atestavimą atliekančia organizacija. Kvalifikacijos tobulinimą patvirtinantys dokumentai pateikiami atestavimą atliekančiai organizacijai šios organizacijos nustatyta tvarka. Jeigu atestavimą atliekanti organizacija nustato, kad atestato turėtojas nevykdė šio reikalavimo, atestato galiojimas sustabdomas iki 6 mėnesių terminui, iki atestuotas asmuo pateikia atestavimą atliekančiai organizacijai kvalifikacijos tobulinimą patvirtinančius dokumentus šios organizacijos nustatyta tvarka.
 
 
 
@@ -2589,7 +2591,7 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 
 
 
-7. Atestato turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas atestato galiojimas, pašalinti, atestato galiojimo sustabdymas panaikinamas per 10 darbo dienų nuo šių dokumentų pateikimo dienos.
+7. Atestato turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas atestato galiojimas, pašalinti, atestato galiojimo sustabdymas panaikinamas per 10 darbo dienų nuo šių dokumentų pateikimo dienos.
 
 
 
@@ -2607,7 +2609,7 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 
 
 
-3) atestato turėtojas po atestato galiojimo sustabdymo per nustatytą terminą nepašalino nustatytų pažeidimų, dėl kurių atestato galiojimas buvo sustabdytas;
+3) atestato turėtojas, sustabdžius atestato galiojimą, per nustatytą terminą nepašalino nustatytų pažeidimų, dėl kurių atestato galiojimas buvo sustabdytas;
 
 
 
@@ -2629,15 +2631,22 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 
 
 
-9. Jeigu pažeidimai, nurodyti šiame straipsnyje, nepadarė esminės žalos konkrečia teisine norma saugomam visuomenės (viešajam) interesui ar žmonių sveikatai, gyvybei ir kitiems konkrečia teisės norma saugomiems interesams arba tokia žala yra labai nežymi, asmuo nutraukia teisę pažeidžiančius veiksmus ir pašalina veiksmų padarinius, atlygina žalą, atestavimo komisija, vadovaudamasi teisingumo ir protingumo kriterijais, gali priimti sprendimą atestato galiojimo nestabdyti ir (ar) atestato galiojimo nenaikinti. 
+9. Panaikinus atestato galiojimą, šio straipsnio 1 ir 2 dalyse nurodyti fiziniai asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po vienų metų, išskyrus šio straipsnio 8 dalies 6 punkte nurodytą atvejį.
 
 
 
 
-10. Panaikinus atestato galiojimą, šio straipsnio 1 ir 2 dalyse nurodyti asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po 2 metų, išskyrus šio straipsnio 8 dalies 6 punkte nurodytą atvejį.
+10. Fizinis asmuo, pageidaujantis gauti arba pakeisti teritorijų planavimo vadovo atestatą, už šias paslaugas turi sumokėti atestavimą atliekančiai organizacijai aplinkos ministro nustatytą įmoką. Nustatant šios įmokos dydį, turi būti laikomasi nuostatos, kad jis turi padengti ekonomiškai pagrįstas atestavimo paslaugos teikimo sąnaudas ir užtikrinti pajamas, reikalingas šių paslaugų teikimui reikiamos infrastruktūros plėtrai ir gerinimui.
+
+
+
+
+11. Esant techninėms galimybėms, atestavimą atliekanti organizacija turi sudaryti sąlygas fiziniams asmenims, įgijusiems teisę vadovauti teritorijų planavimo dokumentų rengimui, atestatą gauti elektronine forma.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2576, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20325
  
-
-
 
 
 
@@ -2717,7 +2726,10 @@ Nr. XII-1197, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14126
 45 straipsnis. Atsakomybė už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus ir jų nagrinėjimo tvarka
 
 
-1. Už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Nurodyti pažeidimai tiriami, nagrinėjami, nutarimai priimami, skundžiami ir vykdomi taikant administracinių teisės pažeidimų bylų nagrinėjimo procedūrą pagal Administracinių teisės pažeidimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus.
+1. Už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Nurodyti pažeidimai tiriami, protokolai surašomi ir pažeidimų bylos nagrinėjamos ne teismo tvarka pagal Administracinių nusižengimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
+ 
 
 
 
@@ -3097,3 +3109,13 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 26 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2359, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13920
 Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymo Nr. XII-407 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2576, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20325
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 27 ir 45 straipsnių pakeitimo įstatymas
