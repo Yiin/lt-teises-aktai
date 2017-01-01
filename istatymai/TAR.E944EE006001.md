@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-24
+ 
+Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI
 ĮSTATYMAS
@@ -438,7 +445,10 @@ Teisę į paramą būstui įsigyti turi asmenys ir šeimos, kurie atitinka visus
 
 
 
-2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus deklaruotas turtas (įskaitant gautas pajamas) iki prašymo suteikti paramą būstui įsigyti pateikimo dienos neviršija šio įstatymo 11 straipsnio 1 dalyje nustatytų pajamų ir turto dydžių;
+2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaravo turtą ir gautas pajamas. Deklaruoto turto vertė ir pajamos, kurios, vadovaujantis Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo (toliau – Piniginės socialinės paramos nepasiturintiems gyventojams įstatymas) 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, neviršija šio įstatymo 11 straipsnio 1 dalyje nustatytų pajamų ir turto dydžių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -479,7 +489,10 @@ c) neįgalusis ar šeima, kurioje yra neįgalusis, nuosavybės teise turi būst�
 
 
 
-2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus deklaruotas turtas (įskaitant gautas pajamas) iki prašymo suteikti paramą būstui išsinuomoti pateikimo dienos neviršija šio įstatymo 11 straipsnio 2 dalyje nustatytų pajamų ir turto dydžių; 
+2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaravo turtą ir gautas pajamas. Deklaruoto turto vertė ir pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, neviršija šio įstatymo 11 straipsnio 2 dalyje nustatytų pajamų ir turto dydžių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -520,13 +533,13 @@ Teisę į būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompen
 
 
 
-11 straipsnis. Asmenų ir šeimų vertinamų pajamų ir turto metiniai dydžiai, pagal kuriuos nustatoma teisė į paramą būstui įsigyti ar išsinuomoti 
+11 straipsnis. Asmenų ir šeimų vertinamų pajamų ir turto metiniai dydžiai, pagal kuriuos nustatoma teisė į paramą būstui įsigyti ar išsinuomoti
 
 
-1. Teisę į paramą būstui įsigyti turi asmenys ir šeimos, jeigu jų Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus deklaruotas turtas (įskaitant gautas pajamas) neviršija šių dydžių: 
+1. Teisę į paramą būstui įsigyti turi asmenys ir šeimos, jeigu jų deklaruoto turto vertė ir pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, neviršija šių dydžių: 
 
 
-1) asmens be šeimos grynosios metinės pajamos – 88 valstybės remiamų pajamų (toliau – VRP) dydžių ir turtas – 129 VRP dydžių;
+1) asmens be šeimos grynosios metinės pajamos – 88 valstybės remiamų pajamų (toliau – VRP) dydžių ir turtas – 129 VRP dydžių;
 
 
 
@@ -536,42 +549,44 @@ Teisę į būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompen
 
 
 
-3) keturių ar penkių asmenų šeimos grynosios metinės pajamos – 148 VRP dydžių ir turtas – 349 VRP dydžių;
+3) keturių ar penkių asmenų šeimos grynosios metinės pajamos – 148 VRP dydžių ir turtas – 349 VRP dydžių;
 
 
 
 
-4) šešių ar daugiau asmenų šeimos grynosios metinės pajamos vienam asmeniui – 25 VRP dydžių ir turtas vienam asmeniui – 83 VRP dydžių.
-
-
-
-
-
-
-2. Teisę į paramą būstui išsinuomoti turi asmenys ir šeimos, jeigu jų Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus deklaruotas turtas (įskaitant gautas pajamas) neviršija šių dydžių:
-
-
-1) asmens be šeimos, gyvenančio Vilniaus miesto ar rajono, Kauno miesto ar rajono, Klaipėdos miesto ar rajono, Palangos miesto ar Neringos savivaldybėje, grynosios metinės pajamos – 38 VRP dydžių ir turtas – 93 VRP dydžių; asmens be šeimos, gyvenančio kitoje savivaldybėje, grynosios metinės pajamos – 32 VRP dydžių ir turtas – 56 VRP dydžių;
-
-
-
-
-2) dviejų ar trijų asmenų šeimos, gyvenančios Vilniaus miesto ar rajono, Kauno miesto ar rajono, Klaipėdos miesto ar rajono, Palangos miesto ar Neringos savivaldybėje, grynosios metinės pajamos – 76 VRP dydžių ir turtas – 168 VRP dydžių; dviejų ar trijų asmenų šeimos, gyvenančios kitoje savivaldybėje, grynosios metinės pajamos – 63 VRP dydžių ir turtas – 112 VRP dydžių;
-
-
-
-
-3) keturių ar daugiau asmenų šeimos, gyvenančios Vilniaus miesto ar rajono, Kauno miesto ar rajono, Klaipėdos miesto ar rajono, Palangos miesto ar Neringos savivaldybėje, grynosios metinės pajamos vienam asmeniui neturi viršyti 22 VRP dydžių ir turtas vienam asmeniui – 75 VRP dydžių; keturių ar daugiau asmenų šeimos, gyvenančios kitoje savivaldybėje, grynosios metinės pajamos vienam asmeniui neturi viršyti 19 VRP dydžių ir turtas vienam asmeniui – 56 VRP dydžių.
+4) šešių ar daugiau asmenų šeimos grynosios metinės pajamos vienam asmeniui – 25 VRP dydžių ir turtas vienam asmeniui – 83 VRP dydžių.
 
 
 
 
 
 
-3. Deklaruojamo nekilnojamojo turto ploto vieneto normatyvinę vertę nustato ir savo interneto svetainėje skelbia valstybės įmonė Registrų centras pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose.
+2. Teisę į paramą būstui išsinuomoti turi asmenys ir šeimos, jeigu jų deklaruoto turto vertė ir pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, neviršija šių dydžių:
+
+
+1) asmens be šeimos, gyvenančio Vilniaus miesto ar rajono, Kauno miesto ar rajono, Klaipėdos miesto ar rajono, Palangos miesto ar Neringos savivaldybėje, grynosios metinės pajamos – 38 VRP dydžių ir turtas – 93 VRP dydžių; asmens be šeimos, gyvenančio kitoje savivaldybėje, grynosios metinės pajamos – 32 VRP dydžių ir turtas – 56 VRP dydžių;
+
+
+
+
+2) dviejų ar trijų asmenų šeimos, gyvenančios Vilniaus miesto ar rajono, Kauno miesto ar rajono, Klaipėdos miesto ar rajono, Palangos miesto ar Neringos savivaldybėje, grynosios metinės pajamos – 76 VRP dydžių ir turtas – 168 VRP dydžių; dviejų ar trijų asmenų šeimos, gyvenančios kitoje savivaldybėje, grynosios metinės pajamos – 63 VRP dydžių ir turtas – 112 VRP dydžių;
+
+
+
+
+3) keturių ar daugiau asmenų šeimos, gyvenančios Vilniaus miesto ar rajono, Kauno miesto ar rajono, Klaipėdos miesto ar rajono, Palangos miesto ar Neringos savivaldybėje, grynosios metinės pajamos vienam asmeniui – 22 VRP dydžių ir turtas vienam asmeniui – 75 VRP dydžių; keturių ar daugiau asmenų šeimos, gyvenančios kitoje savivaldybėje, grynosios metinės pajamos vienam asmeniui – 19 VRP dydžių ir turtas vienam asmeniui – 56 VRP dydžių.
+
+
+
+
+
+
+3. Deklaruojamo nekilnojamojo turto ploto vieneto normatyvinę vertę nustato ir savo interneto svetainėje skelbia valstybės įmonė Registrų centras pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
  
-
-
 
 
 
@@ -830,7 +845,10 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 
-6. Asmenys ir šeimos, gaunantys būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensaciją, neišbraukiami iš asmenų ir šeimų, turinčių teisę į paramą būstui išsinuomoti, sąrašų, tačiau būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensacijos gavimo laikotarpis neįskaitomas į buvimo tokių asmenų ir šeimų sąrašuose laikotarpį.
+6. Asmenys ir šeimos, gaunantys būsto nuomos mokesčių dalies kompensaciją, neišbraukiami iš asmenų ir šeimų, turinčių teisę į paramą būstui išsinuomoti sąrašų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -843,7 +861,10 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 
-2) jų Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus deklaruotas turtas (įskaitant gautas pajamas) daugiau kaip 20 procentų viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius;
+2) jų deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -853,7 +874,10 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 
-4) asmuo ar šeima (visi šeimos nariai) išvyksta gyventi į kitos savivaldybės teritoriją ar kitą valstybę, kuri tampa jo (jų) gyvenamąja vieta, kaip tai apibrėžta Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatyme (toliau – Gyvenamosios vietos deklaravimo įstatymas);
+4) asmuo ar šeima (visi šeimos nariai) išvyksta gyventi į kitos savivaldybės teritoriją ar kitą valstybę, kuri tampa jo (jų) gyvenamąja vieta, kaip tai apibrėžta Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatyme (toliau – Gyvenamosios vietos deklaravimo įstatymas). Asmuo ar šeima (visi šeimos nariai), išvykę gyventi į kitos savivaldybės teritoriją ir šios savivaldybės vykdomajai institucijai pateikę prašymą, įrašomi į asmenų ir šeimų, turinčių teisę į paramą būstui išsinuomoti, sąrašą šioje savivaldybėje, įskaitant jų buvimo ankstesnės savivaldybės asmenų ir šeimų, turinčių teisę į paramą būstui išsinuomoti, sąraše laikotarpį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -967,7 +991,10 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 
-3. Vyriausybė, tvirtindama šio straipsnio 2 dalyje nurodytą koeficientą, turi užtikrinti, kad būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensacijos dydis būtų ne mažesnis kaip 50 procentų rinkos vidutinio nuomos mokesčio, apskaičiuoto asmeniui pagal tinkamo būsto naudingojo ploto normatyvą.
+3. Vyriausybė, tvirtindama šio straipsnio 2 dalyje nurodytą koeficientą, turi užtikrinti, kad būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensacijos dydis būtų ne mažesnis kaip 50 procentų rinkos vidutinio nuomos mokesčio, apskaičiuoto asmeniui pagal tinkamo būsto naudingojo ploto normatyvą. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacija negali viršyti būsto nuomos ar išperkamosios būsto nuomos mokesčio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -991,7 +1018,10 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 
-2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus asmens ar šeimos deklaruotas turtas (įskaitant gautas pajamas) daugiau kaip 20 procentų viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius;
+2) deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -1052,7 +1082,10 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 
-2) kai Gyventojų turto deklaravimo įstatyme nustatyta tvarka už kalendorinius metus asmens ar šeimos deklaruotas turtas (įskaitant gautas pajamas) daugiau kaip 20 procentų viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius;
+2) kai deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -1124,7 +1157,14 @@ Paramą būstui įsigyti ar išsinuomoti gaunantys asmenys ir šeimos privalo:
 
 
 
-5) pateikti savivaldybės vykdomajai institucijai sutikimą gauti informaciją apie jų turimus indėlius bankuose ir kitose finansų įstaigose ir iš bankų ir kitų finansų įstaigų gautas paskolas.
+5) pateikti savivaldybės vykdomajai institucijai sutikimą gauti informaciją apie jų turimus indėlius bankuose ir kitose finansų įstaigose ir iš bankų ir kitų finansų įstaigų gautas paskolas;
+
+
+
+
+6) iki einamųjų metų gegužės 1 dienos savivaldybės vykdomajai institucijai pateikti užpildytą socialinės apsaugos ir darbo ministro patvirtintos formos prašymo priedą, jame nurodydami gautas pajamas, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnio 1 dalimi, neįskaitomos į asmenų ar šeimų gaunamas pajamas. 
+Papildyta straipsnio punktu:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
  
 
 
@@ -1262,7 +1302,10 @@ SAVIVALDYBĖS BŪSTO IR PAGALBINIO ŪKIO PASKIRTIES PASTATŲ PARDAVIMAS
 26 straipsnis. Atsiskaitymo už parduodamus savivaldybės būstus ir pagalbinio ūkio paskirties pastatus tvarka
 
 
-1. Už parduodamus savivaldybės būstus ir pagalbinio ūkio paskirties pastatus pagal šiame įstatyme nurodytas sąlygas atsiskaitoma sumokant nustatytą kainą per 10 kalendorinių dienų po pirkimo–pardavimo sutarties pasirašymo. 
+1. Už parduodamus savivaldybės būstus ir pagalbinio ūkio paskirties pastatus pagal šiame įstatyme nurodytas sąlygas atsiskaitoma sumokant nustatytą kainą ne vėliau kaip per 3 mėnesius nuo pirkimo–pardavimo sutarties pasirašymo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+ 
 
 
 
@@ -1399,3 +1442,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 11, 16, 18, 19, 20, 22 ir 26 straipsnių pakeitimo įstatymas
