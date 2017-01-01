@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.286DC4AF9827"
 
 # Lietuvos Respublikos teismo ekspertizės įstatymas
 
-Suvestinė redakcija nuo 2014-03-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-04-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4969, i. k. 1021010ISTA0IX-1161
  
@@ -720,14 +720,15 @@ Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2
 
 
 
-15 straipsnis. Teismo ekspertizių apmokėjimas baudžiamosiose, civilinėse ir administracinėse bylose
+15 straipsnis. Teismo ekspertizių apmokėjimas baudžiamosiose, civilinėse, administracinėse ir administracinių nusižengimų bylose
 
 
-Už paskirtas teismo ekspertizes baudžiamosiose, civilinėse ir administracinėse bylose apmokama įstatymų nustatyta tvarka.
+Už paskirtas teismo ekspertizes baudžiamosiose, civilinėse, administracinėse ir administracinių nusižengimų bylose apmokama įstatymų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XI-2068, 2012-06-14, Žin., 2012, Nr. 76-3922 (2012-06-30), i. k. 1121010ISTA0XI-2068
+Nr. XII-2721, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26507
  
 
 
@@ -861,9 +862,10 @@ TEISMO EKSPERTIZĖS ĮSTAIGOS
 1. Teismo ekspertizės įstaigos:
 
 
-1) atlieka teismo ekspertizes pagal teismo ar teisėjo nutartis, kitus ekspertinius tyrimus – pagal prokurorų ar ikiteisminio tyrimo įstaigų pareigūnų užduotis; 
+1) atlieka teismo ekspertizes pagal teismo ar teisėjo nutartis, kitus ekspertinius tyrimus – pagal prokurorų, ikiteisminio tyrimo įstaigų pareigūnų ar pagal kitus įstatymus įgaliotų pareigūnų užduotis;
 Straipsnio punkto pakeitimai:
 Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
+Nr. XII-2721, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26507
  
 
 
@@ -1128,3 +1130,8 @@ Lietuvos Respublikos teismo ekspertizės įstatymo 8 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
 Lietuvos Respublikos teismo ekspertizės įstatymo 1, 2, 3, 5, 6, 7, 9, 11, 12, 16, 20, 23 straipsnių pakeitimo ir Įstatymo papildymo 4(1), 24(1) straipsniais ir priedu ĮSTATYMAS
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2721, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26507
+Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 15 ir 20 straipsnių pakeitimo įstatymas
