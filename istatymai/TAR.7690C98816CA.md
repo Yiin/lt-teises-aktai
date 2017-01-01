@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Įstatymas netenka galios 2018-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-938, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21647
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 pakeitimo įstatymas
+ 
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 38-1656, i. k. 1031010ISTA0IX-1409
  
@@ -77,7 +82,19 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos statutas (toliau – Statuta
 
 2. Pareigūno vardo pažeminimas – kaltas pareigūno veikimas ar neveikimas, susijęs ar nesusijęs su tarnybinių pareigų atlikimu, tačiau akivaizdžiai žeminantis Specialiųjų tyrimų tarnybos autoritetą, griaunantis pasitikėjimą ja arba ją kompromituojantis.
 
-3. Tarnybinis nusižengimas – šio statuto ir kitų teisės aktų nustatytos tarnybos tvarkos pažeidimas ar pareigūno pareigų neatlikimas arba netinkamas atlikimas dėl paties pareigūno kaltės.
+3. Prievarta − Specialiųjų tyrimų tarnybos veiklos metodas, taikomas atskleidžiant, tiriant ir užkardant nusikalstamas veikas ir administracinius nusižengimus, kai nevykdomi pareigūno teisėti reikalavimai ar nurodymai arba siekiama išvengti pavojaus. Prievarta gali būti psichinė ir fizinė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-166, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29795
+ 
+
+4. Tarnybinis nusižengimas – šio statuto ir kitų teisės aktų nustatytos tarnybos tvarkos pažeidimas ar pareigūno pareigų neatlikimas arba netinkamas atlikimas dėl paties pareigūno kaltės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-166, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29795
+ 
+
+5. Kitos šio statuto 43 ir 44 straipsniuose vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos policijos įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-166, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29795
  
 
 II SKYRIUS
@@ -671,7 +688,10 @@ SKATINIMAS IR ATSAKOMYBĖ
 
 3. Pareigūnas, įtariamas padaręs tarnybinį nusižengimą, gali pateikti raštu paaiškinimą dėl tarnybinio nusižengimo. Jeigu pareigūnas paaiškinimo raštu nepateikia, surašomas aktas, kurį pasirašo tarnybinį tyrimą atlikęs pareigūnas ir du kiti pareigūnai arba tarnybinį tyrimą atlikusios komisijos nariai. Šiuo aktu patvirtinama, kad pareigūnas nepateikė paaiškinimo raštu.
 
-4. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo) požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl šios pareigūno veikos yra pradėtas baudžiamasis procesas arba bylos dėl administracinio teisės pažeidimo (nusižengimo) teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar bylos dėl administracinio teisės pažeidimo (nusižengimo) teiseną arba pasibaigia baudžiamasis procesas ar bylos dėl administracinio teisės pažeidimo (nusižengimo) teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo), tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio teisės pažeidimo (nusižengimo) teisenos eigą.
+4. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl šios pareigūno veikos yra pradėtas baudžiamasis procesas arba administracinio nusižengimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinio nusižengimo teiseną arba pasibaigia baudžiamasis procesas ar administracinio nusižengimo teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo, tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar administracinio nusižengimo teisenos eigą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2714, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26499
+ 
 
 5. Tarnybinė nuobauda skiriama Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
 
@@ -841,7 +861,10 @@ SOCIALINĖS GARANTIJOS
 
 40 straipsnis. Pareigūnams teikiama pagalba
 
-1. Pareigūnui, vykdžiusiam pavestas funkcijas ir viršijusiam tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį teisės pažeidimą (nusižengimą) arba nukentėjusiam atliekant tarnybines funkcijas ar dėl tarnybos, iš Specialiųjų tyrimų tarnybai skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų dalis. Kompensaciją skiria Specialiųjų tyrimų tarnybos direktorius.
+1. Pareigūnui, vykdžiusiam pavestas funkcijas ir viršijusiam tarnybinės rizikos ribas, ir tuo padariusiam nusikalstamą veiką ar administracinį nusižengimą arba nukentėjusiam atliekant tarnybines funkcijas ar dėl tarnybos, iš Specialiųjų tyrimų tarnybai skirtų lėšų gali būti kompensuojamos teisinių paslaugų išlaidos ar jų dalis. Kompensaciją skiria Specialiųjų tyrimų tarnybos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XII-2714, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26499
+ 
 
 2. Pareigūnams, kurių materialinė būklė tapo sunki dėl ligos, šeimos nario ligos ar mirties, stichinės nelaimės, turto netekimo, taip pat kitais ypatingais atvejais gali būti skiriama iki penkių minimaliųjų mėnesinių algų dydžio pašalpa. Pašalpa mokama iš Specialiųjų tyrimų tarnybai skirtų lėšų.
  
@@ -882,106 +905,91 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 43 straipsnis. Prievartos priemonės ir jų naudojimo sąlygos
 
-1. Pareigūnas teisės aktų nustatytais atvejais ir tvarka vykdydamas pareigas gali panaudoti prievartą.
+1. Pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai.
 
-2. Prievarta šiame statute suprantama kaip Specialiųjų tyrimų tarnybos veiklos metodas, kuriuo siekiama įgyvendinti Specialiųjų tyrimų tarnybai pavestus uždavinius ir kuris taikomas, kai nevykdomi pareigūno reikalavimai ar nurodymai arba siekiama išvengti pavojaus. Prievarta gali būti psichinė ir fizinė.
+2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 3 ir 4 dalyse arba šio statuto 44 straipsnio 2 dalyje nurodytais atvejais.
 
-3. Psichinė prievarta suprantama kaip įspėjimas apie ketinimą naudoti fizinę prievartą, šaunamąjį ginklą. Psichinei prievartai prilyginamas specialiosios priemonės ar šaunamojo ginklo parengimas prireikus naudoti.
-
-4. Fizinė prievarta suprantama kaip fizinės jėgos ir (arba) specialiųjų priemonių naudojimas.
-
-5. Specialiosios priemonės suprantamos kaip tiesioginio pavojaus asmens gyvybei nekeliančios prievartos priemonės, kuriomis siekiama atgrasyti galimus teisės pažeidėjus, nustumti arba išsklaidyti minią, įtariamus teisės pažeidėjus sulaikyti arba pažymėti, priverstinai sustabdyti transporto priemones ar jas pažymėti, priverstinai patekti į teritorijas, patalpas ar transporto priemones, atremti neteisėtą kėsinimąsi, taip pat ardyti šiems veiksmams kliudančius objektus.
-
-6. Kitos šiame straipsnyje vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
-
-7. Pareigūnas turi teisę panaudoti prievartą tik esant tarnybiniam būtinumui ir tik tiek, kiek to reikia tarnybinei pareigai įvykdyti. Fizinė prievarta ir specialiosios priemonės naudojamos tik tada, kai psichinė prievarta buvo neveiksminga arba negalima.
-
-8. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 9 ir 11 dalyse arba šio statuto 44 straipsnio 2 dalyje nurodytais atvejais.
-
-9. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais:
+3. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais:
 
 1) apsisaugodamas ar apsaugodamas asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
 
-2) asmeniui vengiant vykdyti teisėtus pareigūnų reikalavimus (siekdamas priversti asmenį paklusti), asmenį sulaikydamas (jeigu asmuo priešinasi);
+2) asmenims vengiant vykdyti teisėtus pareigūnų reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), sulaikydamas asmenis (jeigu jie priešinasi);
 
 3) atremdamas kėsinimąsi į šaunamąjį ginklą, specialiąsias priemones, ryšio priemones ir siekdamas šiuos objektus susigrąžinti;
 
-4) atremdamas valstybės pareigūnų, saugomų asmenų, statinių (įskaitant pavienes patalpas), teritorijų, transporto priemonių užpuolimus;
+4) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimus arba šiuos užimtus objektus išlaisvindamas;
 
-5) atremdamas valstybės institucijų, jų turto ar transporto priemonių užpuolimus;
+5) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį arba kai turimais duomenimis juose gali slėptis asmenys, galimai padarę nusikalstamas veikas ar administracinius nusižengimus;
 
-6) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį, taip pat jeigu jose, turimais duomenimis, gali slėptis asmenys, galbūt padarę nusikalstamas veikas ar administracinius teisės pažeidimus (nusižengimus);
+6) stabdydamas transporto priemonę, laivą ar orlaivį (esant tarnybiniam būtinumui);
 
-7) chuliganiškų veiksmų, lydimų aiškaus nepaklusnumo teisėtiems pareigūnų reikalavimams, metu; 
+7) užkirsdamas kelią nusikalstamoms veikoms ar administraciniams nusižengimams.
 
-8) stabdydamas transporto priemonę (esant tarnybiniam būtinumui);
+4. Pareigūnas turi teisę naudoti antrankius ir surišimo priemones: 
 
-9) užkirsdamas kelią nusikalstamoms veikoms ar administraciniams teisės pažeidimams (nusižengimams).
+1) prieš agresyvius ar linkusius žalotis asmenis;
 
-10. Prievartos priemones pareigūnas naudoja adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Naudodamas prievartą pareigūnas prioritetą privalo teikti psichinei prievartai, išskyrus atvejus, kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai arba psichinė prievarta buvo negalima dėl kitų priežasčių.
+2) pristatydamas į Specialiųjų tyrimų tarnybos patalpas, kitą instituciją ar įstaigą bėgti linkusius nusikalstamas veikas ar administracinius nusižengimus padariusius (galimai padariusius) asmenis ir atlikdamas minėtų asmenų apžiūrą.
 
-11. Pareigūnas turi teisę naudoti antrankius ir surišimo priemones prieš agresyvius, linkusius smurtauti ar žaloti save asmenis, taip pat bėgti linkusius asmenis, kurie įtariami padarę administracinį teisės pažeidimą (nusižengimą) ir (ar) nusikalstamą veiką, pristatydamas juos į Specialiųjų tyrimų tarnybos patalpas, policijos įstaigą ar kitą teisėsaugos instituciją, atlikdamas šių asmenų apžiūrą.
+5. Pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę ją blokuodamas. Jeigu stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno ar kito asmens gyvybei ar sveikatai, pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone stabdomą transporto priemonę taranuoti. Jeigu pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po tokių veiksmų jis asmeniui turi suteikti reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti.
 
-12. Pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę ją blokuodamas. Jeigu stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno ar kito asmens gyvybei ar sveikatai, pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone stabdomą transporto priemonę taranuoti. Jeigu pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po tokių veiksmų jis turi imtis priemonių šių veiksmų padariniams pašalinti.
+6. Pareigūnas kaip specialiąją priemonę turi teisę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių specifikaciją įtrauktus užtaisus, kurių sukeliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
 
-13. Jeigu teisėti pareigūnų reikalavimai atidaryti patalpas ir transporto priemones nevykdomi, pareigūnai turi teisę jas atidaryti naudodami prievartą.
-
-14. Pareigūnas kaip specialiąją priemonę turi teisę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių sąrašą įtrauktus užtaisus (kulkas, sviedinius arba kenksmingąsias, dirginančiąsias medžiagas), kurių mechaninis, terminis, cheminis ar kitoks sukeliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
-
-15. Jeigu nėra neišvengiamo pavojaus pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius ir surišimo priemones) naudoti draudžiama: 
+7. Kai nėra neišvengiamo pavojaus pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
 
 1) prieš asmenis, jeigu pareigūnui žinoma arba yra akivaizdu, kad jie neįgalieji;
 
-2) prieš asmenis, turinčius neliečiamumo teisę, jeigu pareigūnui žinoma, kad asmuo tokią teisę turi;
+2) prieš asmenis, turinčius neliečiamybės teisę, jeigu pareigūnui žinoma, kad asmuo tokią teisę turi;
 
 3) prieš moteris, jeigu pareigūnui žinoma arba yra akivaizdu, kad jos nėščios;
 
-4) prieš nepilnamečius asmenis, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu jų išvaizda atitinka amžių.
 
-16. Apie pareigūno panaudotą prievartą, jeigu tai lėmė asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
+8. Pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, asmeniui turi suteikti reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pareigūno panaudotą fizinę ar psichinę prievartą, jeigu tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
 
-17. Pareigūnas, panaudojęs fizinę ar psichinę prievartą nepažeisdamas šio statuto reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+9. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos naudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
 
-18. Specialiųjų priemonių sąrašą nustato Specialiųjų tyrimų tarnybos direktorius.
+10. Specialiųjų priemonių specifikaciją ir panaudojimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
 
-19. Šis straipsnis nereglamentuoja specialiųjų priemonių naudojimo per mokymus.
+Straipsnio pakeitimai:
+Nr. XIII-166, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29795
  
 
 44 straipsnis. Šaunamojo ginklo naudojimas
 
-1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kitos prievartos priemonės yra neveiksmingos arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
 
-2. Pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis šiais atvejais:
+2. Pareigūnas, įgyvendindamas Specialiųjų tyrimų tarnybos įstatyme nustatytas teises ir pareigas, turi teisę panaudoti šaunamąjį ginklą prieš asmenis šiais atvejais:
 
-1) atremdamas ginkluotą įsiveržimą į Lietuvos Respublikos teritoriją;
+1) atremdamas ginkluotus Specialiųjų tyrimų tarnybos patalpų (įskaitant teritorinių padalinių patalpas) ir teritorijų, transporto priemonių užpuolimus; 
 
-2) atremdamas ginkluotus valstybės pareigūnų, saugomų asmenų, statinių (įskaitant pavienes patalpas), teritorijų, transporto priemonių užpuolimus; 
+2) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
 
-3) gindamasis ar gindamas asmenį nuo netikėto, pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+3) sulaikydamas nusikalstamą veiką galimai padariusį asmenį, jeigu kyla neišvengiamas pavojus pareigūno ar kito asmens gyvybei ar sveikatai;
 
-4) sulaikydamas nusikalstamą veiką padariusį asmenį, jeigu kyla neišvengiamas pavojus pareigūno ar kito žmogaus gyvybei ar sveikatai;
+4) sulaikydamas transporto priemonę vairuojantį asmenį, kuris savo veiksmais kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei ar sveikatai.
 
-5) sulaikydamas transporto priemonę, jeigu jos vairuotojas ar kiti transporto priemonėje esantys asmenys savo veiksmais kelia neišvengiamą pavojų pareigūno arba kito asmens gyvybei.
+3. Pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei ar sveikatai, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus pareigūno ar kitų asmenų gyvybei ar sveikatai.
 
-3. Pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš gyvūną arba transporto priemonę, jeigu kyla neišvengiamas pavojus pareigūno ar kitų asmenų gyvybei ar sveikatai.
+4. Ketindamas naudoti šaunamąjį ginklą, pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti pareigūno teisėtus reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų pareigūno ar kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
 
-4. Ketindamas naudoti šaunamąjį ginklą, pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+5. Pareigūnas, nesukeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą ar išsikviesti pagalbą.
 
-5. Pareigūnas, nesukeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą.
+6. Jeigu neišvengiamo pavojaus pareigūno ar kitų asmenų gyvybei ar sveikatai nėra, šaunamąjį ginklą panaudoti draudžiama:
 
-6. Jeigu nėra neišvengiamo pavojaus pareigūno ar kitų asmenų gyvybei ar sveikatai, šaunamąjį ginklą panaudoti draudžiama žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus tiesioginio ginkluoto kėsinimosi į saugomus asmenis ar objektus atvejus, taip pat patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų žmonių gyvybei ir sveikatai ar visuomenės saugumui.
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus šio straipsnio 2 dalies 1 ir 2 punktuose nurodytus atvejus;
 
-7. Pareigūnas turi teisę parengti šaunamąjį ginklą naudoti, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį panaudoti. 
+2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei bei sveikatai ar visuomenės saugumui.
 
-8. Apie šaunamojo ginklo panaudojimą, jeigu tai lėmė asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
+7. Pareigūnas, panaudojęs šaunamąjį ginklą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pareigūno panaudotą šaunamąjį ginklą, jeigu tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
 
-9. Pareigūnas, panaudojęs šaunamąjį ginklą nepažeisdamas šio statuto reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+8. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamojo ginklo panaudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
-10. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijose, susijusiose su šaunamojo ginklo panaudojimu. 
+9. Šio straipsnio 1, 2 ir 3 dalys ir 6 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. 
 
-11. Šis straipsnis netaikomas tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
-
-12. Šis straipsnis nereglamentuoja šaunamojo ginklo naudojimo per mokymus.
+Straipsnio pakeitimai:
+Nr. XIII-166, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29795
+ 
 
 Priedo pakeitimai:
 Nr. XII-2136, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19844
@@ -1107,4 +1115,14 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 31 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2136, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19844
 Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2714, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26499
+Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 32, 40 ir 43 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-166, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29795
+Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 2, 43 ir 44 straipsnių pakeitimo įstatymas
 
