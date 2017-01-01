@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-28
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
  
@@ -2350,18 +2350,15 @@ Biuras, palyginęs duomenis apie transporto priemones, gautus iš institucijų, 
 
 
 
-43 straipsnis. Atsakomybė už draudimo sutarties, atitinkančios šio įstatymo reikalavimus, nesudarymą 
+43 straipsnis. Atsakomybė už draudimo sutarties, atitinkančios šio įstatymo reikalavimus, nesudarymą
 
 
-1. Atsakingi už draudimo sutarties sudarymą fiziniai ir juridiniai asmenys, nesudarę šio įstatymo reikalavimus atitinkančios draudimo sutarties, taip pat transporto priemonių valdytojai, neturintys galiojančio draudimo liudijimo ar kito dokumento, kitos valstybės teisės aktų nustatyta tvarka patvirtinančio draudimo sutarties sudarymą, atsako pagal Administracinių teisės pažeidimų kodeksą.
+Atsakingi už draudimo sutarties sudarymą asmenys, nesudarę šio įstatymo reikalavimus atitinkančios draudimo sutarties, taip pat transporto priemonių valdytojai, neturintys galiojančio draudimo liudijimo ar kito dokumento, kitos valstybės teisės aktų nustatyta tvarka patvirtinančio draudimo sutarties sudarymą, atsako pagal Lietuvos Respublikos administracinių nusižengimų kodeksą.
 
 
-
-
-2. Nuobaudų taikymas neatleidžia nuo pareigos sudaryti draudimo sutartį.
+Straipsnio pakeitimai:
+Nr. XII-2745, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26865
  
-
-
 
 
 
@@ -2471,13 +2468,15 @@ priedas
 
 
 12. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/14/EB, iš dalies keičianti Tarybos direktyvas 72/166/EEB, 84/5/EEB, 88/357/EEB ir 90/232/EEB bei Europos Parlamento ir Tarybos direktyvą 2000/26/EB, susijusias su motorinių transporto priemonių valdytojų civilinės atsakomybės draudimu (OL 2005 m. L 149, p. 14).
+ 
+ 
+ 
 
 
 
 
 
 
- 
  
 Pakeitimai:
  
@@ -2529,3 +2528,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1116, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13413
 Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 44 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2745, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26865
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 43 straipsnio pakeitimo įstatymas
