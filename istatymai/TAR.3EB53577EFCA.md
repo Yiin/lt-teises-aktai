@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
-Suvestinė redakcija nuo 2015-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -572,12 +572,18 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 
 
 
-5. Administracinių teisės pažeidimų kodekso nustatyta tvarka prokuroras gali būti patrauktas administracinėn atsakomybėn.
+5. Prokuroras gali būti patrauktas administracinėn atsakomybėn Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2717, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26502
+ 
 
 
 
 
-6. Prokuroras, sulaikytas be prokuroro pažymėjimo, turi būti nedelsiant paleistas, kai nustatomas jo statusas. Ši nuostata netaikoma, kai prokuroras yra užkluptas darantis administracinį teisės pažeidimą ar tuoj po jo, nusikalstamą veiką ar tuoj po jos arba kai dėl jo padarytos nusikalstamos veikos yra pradėtas ikiteisminis tyrimas.
+6. Prokuroras, sulaikytas be prokuroro pažymėjimo, turi būti nedelsiant paleistas, kai nustatomas jo statusas. Ši nuostata netaikoma, kai prokuroras yra užkluptas darantis administracinį nusižengimą ar tuoj po jo, nusikalstamą veiką ar tuoj po jos arba kai dėl jo padarytos nusikalstamos veikos yra pradėtas ikiteisminis tyrimas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2717, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26502
+ 
 
 
 Straipsnio pakeitimai:
@@ -805,7 +811,10 @@ Nr. XII-1779, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09699
 
 
 
-10) nutarimu perduoti tyrimo medžiagą nagrinėti administracine tvarka, kai ikiteisminis tyrimas nutraukiamas, tačiau yra duomenų apie asmens padarytą administracinį teisės pažeidimą;
+10) nutarimu perduoti tyrimo medžiagą įgaliotai institucijai administracinio nusižengimo teisenai pradėti ir administracinio nusižengimo protokolui surašyti, kai ikiteisminis tyrimas nutraukiamas, tačiau yra duomenų apie asmens padarytą administracinį nusižengimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2717, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26502
+ 
 
 
 
@@ -2211,7 +2220,10 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 
 
 
-7. Jeigu prokuroro, dėl kurio baigtas administracinio teisės pažeidimo bylos nagrinėjimas, atsisakyta pradėti ikiteisminį tyrimą, baudžiamasis procesas nutrauktas, baudžiamoji byla nutraukta arba priimtas išteisinamasis teismo nuosprendis, veiksmuose yra įstatymo pažeidimo, tarnybinio nusižengimo, prokuroro vardą žeminančio poelgio, taip pat kito Prokurorų etikos kodekso pažeidimo požymių, tarnybinė nuobauda gali būti paskirta ne vėliau kaip per šešis mėnesius nuo sprendimo, kuriuo baigiamas administracinio teisės pažeidimo bylos nagrinėjimas, nuo sprendimo atsisakyti pradėti ikiteisminį tyrimą, nuo sprendimo nutraukti baudžiamąjį procesą, nuo sprendimo nutraukti baudžiamąją bylą arba nuo išteisinamojo teismo nuosprendžio įsiteisėjimo dienos.
+7. Jeigu prokuroro, dėl kurio baigta administracinio nusižengimo byla, atsisakyta pradėti ikiteisminį tyrimą, baudžiamasis procesas nutrauktas, baudžiamoji byla nutraukta arba priimtas išteisinamasis teismo nuosprendis, veiksmuose yra įstatymo pažeidimo, tarnybinio nusižengimo, prokuroro vardą žeminančio poelgio, taip pat kito Prokurorų etikos kodekso pažeidimo požymių, tarnybinė nuobauda gali būti paskirta ne vėliau kaip per šešis mėnesius nuo sprendimo, kuriuo baigta  administracinio nusižengimo byla, nuo sprendimo atsisakyti pradėti ikiteisminį tyrimą, nuo sprendimo nutraukti baudžiamąjį procesą, nuo sprendimo nutraukti baudžiamąją bylą arba nuo išteisinamojo teismo nuosprendžio įsiteisėjimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2717, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26502
+ 
 
 
 
@@ -3175,3 +3187,8 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1 straipsnio pakeitimo ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1779, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09699
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 19 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2717, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26502
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 12, 19 ir 41 straipsnių pakeitimo įstatymas
