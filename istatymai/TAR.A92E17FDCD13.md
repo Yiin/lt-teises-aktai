@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -965,12 +965,19 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 
 
 
-3) atlieka bausmę už kriminalinius nusikaltimus;
+3) atlieka bausmę už nusikalstamas veikas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
+ 
 
 
 
 
-4) padarė administracinį teisės pažeidimą, susijusį su medžioklę ar žūklę reglamentuojančių teisės aktų reikalavimų nesilaikymu, neteisėtu ginklo panaudojimu, kėsindamiesi į nuosavybę ar viešąją tvarką, jeigu nuo nuobaudos vykdymo pabaigos praėjo mažiau kaip 1 metai;
+4) padarė administracinį nusižengimą, susijusį su medžioklę ar žvejybą reglamentuojančių teisės aktų reikalavimų nesilaikymu, neteisėtu ginklo panaudojimu, jeigu nuo administracinės nuobaudos ar (ir) administracinio poveikio priemonės įvykdymo pabaigos praėjo mažiau kaip 1 metai;
+TAR pastaba. 14 straipsnio 2 dalies 4 punkto nuostatos taikomos ir tais atvejais, kai padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+Straipsnio punkto pakeitimai:
+Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
+ 
 
 
 
@@ -1121,7 +1128,10 @@ Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA
 
 
 
-3. Administracinių teisės pažeidimų bylas dėl Medžioklės Lietuvos Respublikos teritorijoje taisyklių ir kitų medžioklę reglamentuojančių teisės aktų pažeidimo Administracinių teisės pažeidimų kodekso nustatyta tvarka nagrinėja ir teisę medžioti atima valstybiniai aplinkos apsaugos inspektoriai, valstybiniai miškų pareigūnai ir valstybiniai saugomų teritorijų pareigūnai.
+3. Administracinių nusižengimų bylas dėl Medžioklės Lietuvos Respublikos teritorijoje taisyklių ir kitų medžioklę reglamentuojančių teisės aktų pažeidimo Administracinių nusižengimų kodekso nustatyta tvarka nagrinėja ir teisę medžioti atima valstybiniai aplinkos apsaugos inspektoriai, valstybiniai miškų pareigūnai ir valstybiniai saugomų teritorijų pareigūnai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
+ 
 
 
 
@@ -1348,7 +1358,7 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 7. Iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis šio Įstatymo 8 straipsnio 9, 10 ir 11 dalyse nustatytų sąlygų.
 TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 7 dalis ta apimtimi, kuria įtvirtinta, kad iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis: 1) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje; 2) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo 13 straipsnio 2 dalyje nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto; 3) Medžioklės įstatymo 8 straipsnio 9 dalies nuostatos „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“; 4) Medžioklės įstatymo 8 straipsnio 10 dalies ta apimtimi, kuria nustatyta, kad komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
  
 
 
@@ -1417,3 +1427,8 @@ Lietuvos Respublikos medžioklės įstatymo 5, 8, 14, 15, 16 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010ISTA0XII-372
 Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas
