@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -83,165 +83,276 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Kompetencija – gebėjimas atlikti tam tikrą veiklą, remiantis įgytų žinių, mokėjimų, įgūdžių, vertybinių nuostatų visuma.
-
-
-
-
-6. Kvalifikacija – Lietuvos Respublikos teisės aktų nustatyta tvarka pripažįstama asmens turimų kompetencijų arba profesinės patirties ir turimų kompetencijų, reikalingų tam tikrai veiklai, visuma. 
-
-
-
-
-7. Laisvasis mokytojas – fizinis asmuo, užsiimantis individualia švietimo teikėjo veikla.
-
-
-
-
-8. Lietuvos kvalifikacijų sandara – Lietuvos Respublikoje nustatytų kvalifikacijų, grindžiamų asmens veiklai reikalingomis kompetencijomis, lygių sistema.
-
-
-
-
-9. Lituanistinis švietimas – lietuvių kalbos, Lietuvos valstybės istorijos, kultūros mokymas ir supažindinimas su Lietuvos dabartimi, taip pat sąlygų saviraiškai lietuvių kalba užsienio valstybėse sudarymas.
-
-
-
-
-10. Mokykla – juridinis asmuo, valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje teisės aktų nustatyta tvarka, kurio pagrindinė veikla yra formalusis arba (ir) neformalusis švietimas.
-
-
-
-
-11. Mokyklos bendruomenė – mokyklos mokytojai, mokiniai, jų tėvai (globėjai, rūpintojai) ir kiti asmenys, vienijami mokymo santykių ir bendrų švietimo tikslų.
-
-
-
-
-12. Mokyklos ūkio lėšos – netiesiogiai su švietimo procesu susijusios lėšos mokyklos ūkiui valdyti ir naudoti, mokiniams vežioti ir kitoms ūkio išlaidoms skiriamos lėšos.
-
-
-
-
-13. Mokymo lėšos – tiesiogiai švietimo procesui būtinos lėšos – darbo užmokesčiui pagal ugdymo planą, mokytojų ir kitų ugdymo procese dalyvaujančių asmenų kvalifikacijai tobulinti, vadovėliams ir kitoms mokymo priemonėms, taip pat ugdymo procesui organizuoti ir valdyti, mokyklos bibliotekai, psichologinei, specialiajai pedagoginei, specialiajai ir socialinei pedagoginei pagalbai, profesiniam orientavimui, mokyklų vykdomai sveikatos stiprinimo veiklai ir kitoms ugdymo reikmėms skiriamos lėšos.
-
-
-
-
-14. Mokymosi forma – švietimo teikėjo siūlomas ir asmens pasirinktas mokymosi organizavimo būdas.
-
-
-
-
-15. Mokinys – asmuo, kuris mokosi.
-
-
-
-
-16. Mokytojas – asmuo, ugdantis mokinius pagal formaliojo arba neformaliojo švietimo programas.
-
-
-
-
-17. Neformalusis švietimas – švietimas pagal įvairias švietimo poreikių tenkinimo, kvalifikacijos tobulinimo, papildomos kompetencijos įgijimo programas, išskyrus formaliojo švietimo programas.
-
-
-
-
-18. Nevalstybinė mokykla – mokykla, kurios savininkė ar viena iš dalininkų nėra valstybė ar savivaldybė.
-
-
-
-
-19. Pedagogas – asmuo, įgijęs aukštąjį (aukštesnįjį, įgytą iki 2009 metų, arba specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir pedagogo kvalifikaciją.
-
-
-
-
-20. Pedagogo kvalifikacija – Lietuvos Respublikos teisės aktų nustatyta tvarka pripažįstama asmens turimų kompetencijų arba profesinės patirties ir turimų kompetencijų, reikalingų mokiniams ugdyti, visuma. 
-
-
-
-
-21. Privalomasis švietimas – Lietuvos Respublikos piliečiams, gyvenantiems Lietuvos Respublikoje, ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, privalomas ir valstybės garantuojamas ugdymas iki 16 metų pagal priešmokyklinio, pradinio, pagrindinio ugdymo programas.
-Straipsnio dalies pakeitimai:
-Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+5. Karjera – asmeniui ir visuomenei reikšminga jo mokymosi, saviraiškos ir darbo veiklų bei vaidmenų visuma per visą jo gyvenimą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
  
 
 
 
 
-22. Savišvieta – savarankiškas mokymasis, kuris remiasi asmens iš įvairių šaltinių gaunamomis žiniomis ir jo praktine patirtimi.
+6. Karjeros specialistas – asmuo, teikiantis profesinio informavimo ir konsultavimo, ugdymo karjerai paslaugas. 
+Papildyta straipsnio dalimi:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-23. Savivaldybės mokykla – mokykla, kurios savininkė arba viena iš dalininkų yra savivaldybė (kai valstybė nedalyvauja dalininkės teisėmis).
+7. Kompetencija – gebėjimas atlikti tam tikrą veiklą, remiantis įgytų žinių, mokėjimų, įgūdžių, vertybinių nuostatų visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-24. Specialieji ugdymosi poreikiai – pagalbos ir paslaugų ugdymo procese reikmė, atsirandanti dėl išskirtinių asmens gabumų, įgimtų ar įgytų sutrikimų, nepalankių aplinkos veiksnių. 
+8. Kvalifikacija – Lietuvos Respublikos teisės aktų nustatyta tvarka pripažįstama asmens turimų kompetencijų arba profesinės patirties ir turimų kompetencijų, reikalingų tam tikrai veiklai, visuma. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-25. Švietimas – ugdymas ir išsilavinimo teikimas, savišvieta; taip pat mokinių, jų tėvų (globėjų, rūpintojų), švietimo įstaigų, mokytojų ir kitų švietimo teikėjų, švietimo pagalbos specialistų veiklų visuma. 
+9. Laisvasis mokytojas – fizinis asmuo, užsiimantis individualia švietimo teikėjo veikla.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-26. Švietimo įstaiga – mokykla arba švietimo pagalbos įstaiga.
+10. Lietuvos kvalifikacijų sandara – Lietuvos Respublikoje nustatytų kvalifikacijų, grindžiamų asmens veiklai reikalingomis kompetencijomis, lygių sistema.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-27. Švietimo pagalba – mokiniams, jų tėvams (globėjams, rūpintojams), mokytojams ir švietimo teikėjams specialistų teikiama pagalba, kurios tikslas – didinti švietimo veiksmingumą.
+11. Lituanistinis švietimas – lietuvių kalbos, Lietuvos valstybės istorijos, kultūros mokymas ir supažindinimas su Lietuvos dabartimi, taip pat sąlygų saviraiškai lietuvių kalba užsienio valstybėse sudarymas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-28. Švietimo pagalbos įstaiga – įstaiga, kurios pagrindinė veikla – švietimo pagalbos teikimas.
+12. Mokykla – juridinis asmuo, valstybės narės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje teisės aktų nustatyta tvarka, kurio pagrindinė veikla yra formalusis arba (ir) neformalusis švietimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-29. Švietimo programa – iš anksto apibrėžtos formaliojo arba neformaliojo švietimo veiklos, kuria siekiama numatyto rezultato, aprašymas.
+13. Mokyklos bendruomenė – mokyklos mokytojai, mokiniai, jų tėvai (globėjai, rūpintojai) ir kiti asmenys, vienijami mokymo santykių ir bendrų švietimo tikslų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-30. Švietimo programos modulis – iš anksto apibrėžta savarankiška švietimo programos dalis. 
+14. Mokyklos ūkio lėšos – netiesiogiai su švietimo procesu susijusios lėšos mokyklos ūkiui valdyti ir naudoti, mokiniams vežioti ir kitoms ūkio išlaidoms skiriamos lėšos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-31. Švietimo stebėsena – nuolatinė švietimo būklės ir kaitos analizė, vertinimas, prognozavimas.
+15. Mokymo lėšos – tiesiogiai švietimo procesui būtinos lėšos – darbo užmokesčiui pagal ugdymo planą, mokytojų ir kitų ugdymo procese dalyvaujančių asmenų kvalifikacijai tobulinti, vadovėliams ir kitoms mokymo priemonėms, taip pat ugdymo procesui organizuoti ir valdyti, mokyklos bibliotekai, psichologinei, specialiajai pedagoginei, specialiajai ir socialinei pedagoginei pagalbai, profesiniam orientavimui, mokyklų vykdomai sveikatos stiprinimo veiklai ir kitoms ugdymo reikmėms skiriamos lėšos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-32. Švietimo teikėjas – mokykla, laisvasis mokytojas arba kitas švietimo teikėjas (įstaiga, įmonė, organizacija, taip pat valstybės narės juridinis asmuo ar kita organizacija, ar jų padaliniai, įsteigti Lietuvos Respublikoje, kuriems švietimas nėra pagrindinė veikla), Lietuvos Respublikos įstatymų nustatyta tvarka turintys teisę vykdyti švietimą.
+16. Mokymosi forma – švietimo teikėjo siūlomas ir asmens pasirinktas mokymosi organizavimo būdas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-33. Ugdymas – dvasinių, intelektinių, fizinių asmens galių auginimas bendraujant ir mokant.
+17. Mokinys – asmuo, kuris mokosi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-34. Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.
+18. Mokytojas – asmuo, ugdantis mokinius pagal formaliojo arba neformaliojo švietimo programas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-35. Valstybinė mokykla – mokykla, kurios savininkė arba viena iš dalininkų yra valstybė.
+19. Neformalusis švietimas – švietimas pagal įvairias švietimo poreikių tenkinimo, kvalifikacijos tobulinimo, papildomos kompetencijos įgijimo programas, išskyrus formaliojo švietimo programas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
 
-36. Visuotinis švietimas – visiems Lietuvos Respublikos piliečiams ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, valstybės laiduojamas švietimas.
+20. Nevalstybinė mokykla – mokykla, kurios savininkė ar viena iš dalininkų nėra valstybė ar savivaldybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+21. Pedagogas – asmuo, įgijęs aukštąjį (aukštesnįjį, įgytą iki 2009 metų, arba specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir pedagogo kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+22. Pedagogo kvalifikacija – Lietuvos Respublikos teisės aktų nustatyta tvarka pripažįstama asmens turimų kompetencijų arba profesinės patirties ir turimų kompetencijų, reikalingų mokiniams ugdyti, visuma. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+23. Privalomasis švietimas – Lietuvos Respublikos piliečiams, gyvenantiems Lietuvos Respublikoje, ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, privalomas ir valstybės garantuojamas ugdymas iki 16 metų pagal priešmokyklinio, pradinio, pagrindinio ugdymo programas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+24. Savišvieta – savarankiškas mokymasis, kuris remiasi asmens iš įvairių šaltinių gaunamomis žiniomis ir jo praktine patirtimi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+25. Savivaldybės mokykla – mokykla, kurios savininkė arba viena iš dalininkų yra savivaldybė (kai valstybė nedalyvauja dalininkės teisėmis).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+26. Specialieji ugdymosi poreikiai – pagalbos ir paslaugų ugdymo procese reikmė, atsirandanti dėl išskirtinių asmens gabumų, įgimtų ar įgytų sutrikimų, nepalankių aplinkos veiksnių. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+27. Švietimas – ugdymas ir išsilavinimo teikimas, savišvieta; taip pat mokinių, jų tėvų (globėjų, rūpintojų), švietimo įstaigų, mokytojų ir kitų švietimo teikėjų, švietimo pagalbos specialistų veiklų visuma. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+28. Švietimo įstaiga – mokykla arba švietimo pagalbos įstaiga.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+29. Švietimo pagalba – mokiniams, jų tėvams (globėjams, rūpintojams), mokytojams ir švietimo teikėjams specialistų teikiama pagalba, kurios tikslas – didinti švietimo veiksmingumą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+30. Švietimo pagalbos įstaiga – įstaiga, kurios pagrindinė veikla – švietimo pagalbos teikimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+31. Švietimo programa – iš anksto apibrėžtos formaliojo arba neformaliojo švietimo veiklos, kuria siekiama numatyto rezultato, aprašymas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+32. Švietimo programos modulis – iš anksto apibrėžta savarankiška švietimo programos dalis. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+33. Švietimo stebėsena – nuolatinė švietimo būklės ir kaitos analizė, vertinimas, prognozavimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+34. Švietimo teikėjas – mokykla, laisvasis mokytojas arba kitas švietimo teikėjas (įstaiga, įmonė, organizacija, taip pat valstybės narės juridinis asmuo ar kita organizacija, ar jų padaliniai, įsteigti Lietuvos Respublikoje, kuriems švietimas nėra pagrindinė veikla), Lietuvos Respublikos įstatymų nustatyta tvarka turintys teisę vykdyti švietimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+35. Ugdymas – dvasinių, intelektinių, fizinių asmens galių auginimas bendraujant ir mokant.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+36. Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+37. Valstybinė mokykla – mokykla, kurios savininkė arba viena iš dalininkų yra valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+38. Visuotinis švietimas – visiems Lietuvos Respublikos piliečiams ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, valstybės laiduojamas švietimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 Straipsnio pakeitimai:
@@ -725,7 +836,10 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 18 straipsnis. Profesinis orientavimas ir švietimo informacinė pagalba 
 
 
-1. Profesinio orientavimo paskirtis – profesinio informavimo, profesinio konsultavimo ir ugdymo karjerai priemonėmis padėti asmeniui rinktis jam tinkamą švietimą ir užimtumą, įgyti karjeros planavimo ir valdymo kompetencijas ir aktyviai kurti savo profesinę karjerą.
+1. Profesinio orientavimo paskirtis – teikiant ugdymo karjerai, profesinio informavimo ir profesinio konsultavimo paslaugas padėti asmeniui rinktis jam tinkamas švietimo ir užimtumo galimybes, sudaryti sąlygas įgyti karjeros kompetencijų ir aktyviai kurti savo karjerą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
 
 
 
@@ -746,6 +860,13 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 5. Švietimo informacinę pagalbą valstybės, savivaldybės, mokyklos lygiais teikia švietimo, kultūros, mokslo ir kitos įstaigos bei asmenys.
+
+
+
+
+6. Karjeros specialistai teikia ugdymo karjerai, profesinio informavimo ir profesinio konsultavimo paslaugas bendrojo ugdymo mokyklose, profesinio mokymo ir kitose švietimo įstaigose, aukštosiose mokyklose, profesinio orientavimo centruose ir kitose institucijose, palaiko ryšius su darbdaviais, konsultuoja profesinio mokymo įstaigų mokinius ir aukštųjų mokyklų studentus dėl darbo galimybių pagal įgyjamą kvalifikaciją, dalyvauja vykdant baigusių profesinio mokymo ir studijų programas asmenų karjeros stebėseną. Karjeros specialistui keliamus išsilavinimo ir (ar) profesinių žinių reikalavimus nustato švietimo ir mokslo ministras, suderinęs su socialinės apsaugos ir darbo bei ūkio ministrais.
+Papildyta straipsnio dalimi:
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
  
 
 
@@ -1332,7 +1453,10 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 35 straipsnis. Švietimo prieinamumas riboto judumo asmenims
 
 
-1. Vaikui, dėl ligos ar patologinės būklės negalinčiam mokytis bendrojo ugdymo mokykloje, sudaromos sąlygos mokytis stacionarinėje asmens sveikatos priežiūros įstaigoje, namuose, savarankiškai mokytis ir laikyti egzaminus. Mokinių mokymo stacionarinėje asmens sveikatos priežiūros įstaigoje ir namuose organizavimo tvarką nustato švietimo ir mokslo ministras, suderinęs su sveikatos apsaugos ministru.
+1. Vaikui, dėl ligos ar patologinės būklės negalinčiam mokytis bendrojo ugdymo mokykloje, sudaromos sąlygos mokytis namuose, savarankiškai mokytis ir laikyti egzaminus, gydytojui leidus – mokytis stacionarinėje asmens sveikatos priežiūros įstaigoje nuo antros patekimo į šią įstaigą dienos. Mokinių mokymo stacionarinėje asmens sveikatos priežiūros įstaigoje ir namuose organizavimo tvarką nustato švietimo ir mokslo ministras, suderinęs su sveikatos apsaugos ministru.
+Straipsnio dalies pakeitimai:
+Nr. XII-2537, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20659
+ 
 
 
 
@@ -3646,7 +3770,6 @@ DĖL LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 1 STRAIPSNIO 5 PUNKTO, 10 STRAIPSN
  
  
  
- 
 Pakeitimai:
  
 1.
@@ -3673,3 +3796,13 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 9, 24, 27, 36, 37, 43, 46 ir 47 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2 ir 18 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2537, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20659
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 35 straipsnio pakeitimo įstatymas
