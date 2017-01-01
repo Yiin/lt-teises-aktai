@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -298,7 +298,10 @@ LIETUVOS RESPUBLIKOS TEISMAI
 
 
 
-3. Lietuvos Aukščiausiasis Teismas, apygardų ir apylinkių teismai yra bendrosios kompetencijos teismai, nagrinėjantys civilines, baudžiamąsias ir administracinių teisės pažeidimų bylas, Lietuvos apeliacinis teismas yra bendrosios kompetencijos teismas, nagrinėjantis civilines ir baudžiamąsias bylas. Bendrosios kompetencijos teismas, nagrinėdamas civilinę bylą, kartu gali nuspręsti ir dėl individualaus administracinio akto teisėtumo.
+3. Lietuvos Aukščiausiasis Teismas, apygardų ir apylinkių teismai yra bendrosios kompetencijos teismai, nagrinėjantys civilines, baudžiamąsias ir administracinių nusižengimų bylas, Lietuvos apeliacinis teismas yra bendrosios kompetencijos teismas, nagrinėjantis civilines ir baudžiamąsias bylas. Bendrosios kompetencijos teismas, nagrinėdamas civilinę bylą, kartu gali nuspręsti ir dėl individualaus administracinio akto teisėtumo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
+ 
 
 
 
@@ -413,7 +416,10 @@ Nr. XI-2313, 2012-11-06, Žin., 2012, Nr. 132-6641 (2012-11-15)
 
 
 
-4) administracinių teisės pažeidimų byloms;
+4) administracinių nusižengimų byloms;
+Straipsnio punkto pakeitimai:
+Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
+ 
 
 
 
@@ -613,7 +619,10 @@ Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
 23 straipsnis. Aukščiausiojo Teismo kompetencija
 
 
-1. Aukščiausiasis Teismas yra vienintelis kasacinės instancijos teismas įsiteisėjusiems bendrosios kompetencijos teismų sprendimams, nuosprendžiams, nutartims, nutarimams (išskyrus nutarimus administracinių teisės pažeidimų bylose) ir įsakymams peržiūrėti. Aukščiausiasis Teismas nagrinėja prašymus dėl proceso atnaujinimo užbaigtose administracinių teisės pažeidimų bylose.
+1. Aukščiausiasis Teismas yra vienintelis kasacinės instancijos teismas įsiteisėjusiems bendrosios kompetencijos teismų sprendimams, nuosprendžiams, nutartims, nutarimams (išskyrus nutarimus administracinių nusižengimų bylose) ir įsakymams peržiūrėti. Aukščiausiasis Teismas nagrinėja prašymus dėl proceso atnaujinimo užbaigtose administracinių nusižengimų bylose.
+Straipsnio dalies pakeitimai:
+Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
+ 
 
 
 
@@ -1420,12 +1429,18 @@ Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 
 
 
-5. Teisėjas, padaręs administracinį teisės pažeidimą, už kurį numatyta laisvės nevaržanti nuobauda, traukiamas administracinėn atsakomybėn bendra tvarka. Apie šį teisėjo padarytą administracinį teisės pažeidimą jį užfiksavęs pareigūnas per 3 dienas praneša Teisėjų tarybai.
+5. Apie teisėjo galimai padarytą administracinį nusižengimą administracinio nusižengimo protokolą surašęs pareigūnas, o tais atvejais, kai administracinio nusižengimo protokolas nesurašomas, nutarimą priėmęs pareigūnas nedelsdamas, ne vėliau kaip per 3 dienas, elektroninių ryšių priemonėmis praneša Teisėjų tarybai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
+ 
 
 
 
 
-6. Teisėjas, padaręs administracinį teisės pažeidimą, už kurį numatyta laisvę varžanti nuobauda, traukiamas administracinėn atsakomybėn gavus Seimo, o tarp Seimo sesijų – Respublikos Prezidento sutikimą. Apie šį teisėjo padarytą administracinį teisės pažeidimą jį užfiksavęs pareigūnas per 3 dienas praneša Teisėjų tarybai.
+6. Neteko galios nuo 2017-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
+ 
 
 
 
@@ -5148,3 +5163,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 14, 28, 34, 36, 41, 45, 55-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2628, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24200
 Lietuvos Respublikos teismų įstatymo Nr. I-480 48 ir 61 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
+Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 15, 23 ir 47 straipsnių pakeitimo įstatymas
