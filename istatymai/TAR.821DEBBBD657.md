@@ -21,7 +21,7 @@ APSAUGOS IŠMOKŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO INDEKSAVIMO ĮSTATYMA
 
 
 
-Suvestinė redakcija nuo 2009-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 83-3294, i. k. 1081010ISTA00X-1710
  
@@ -46,10 +46,10 @@ Vilnius
 
 
 
-2 straipsnis. Socialinės apsaugos išmokų atskaitos rodikliai
+2 straipsnis. Socialinės apsaugos išmokų atskaitos rodikliai 
 
 
-1. Socialinės apsaugos išmokos – įstatymų nustatytos piniginės išmokos, skirtos asmenų, atitinkančių įstatymų nustatytus reikalavimus, socialinei apsaugai ir mokamos iš valstybės biudžeto, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto.
+1. Socialinės apsaugos išmokos – įstatymų nustatytos piniginės išmokos, skirtos asmenų, atitinkančių įstatymų nustatytus reikalavimus, socialinei apsaugai ir mokamos iš valstybės biudžeto, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto. 
 
 
 
@@ -57,42 +57,54 @@ Vilnius
 2. Socialinės apsaugos išmokų atskaitos rodikliai yra šie:
 
 
-1) bazinė socialinė išmoka – rodiklis socialinės apsaugos išmokoms ir kitiems teisės aktų nustatytiems dydžiams apibrėžti ir apskaičiuoti;
+1) bazinė socialinė išmoka – rodiklis socialinės apsaugos išmokoms ir kitiems teisės aktų nustatytiems dydžiams apibrėžti ir apskaičiuoti; 
 
 
 
 
-2) valstybės remiamos pajamos – rodiklis, taikomas nustatant pajamas ir turto lygį, suteikiančius teisę asmenims gauti teisės aktų reglamentuotą socialinę paramą, taip pat apibrėžiant ir apskaičiuojant teisės aktų nustatytus dydžius;
+2) šalpos pensijų bazė – rodiklis šalpos išmokų dydžiams, kurie siejami su šalpos pensijų baze, apibrėžti ir apskaičiuoti;
 
 
 
 
-3) valstybinė socialinio draudimo bazinė pensija – rodiklis valstybinių socialinio draudimo pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybine socialinio draudimo bazine pensija, apibrėžti ir apskaičiuoti;
+3) tikslinių kompensacijų bazė – rodiklis slaugos ir priežiūros (pagalbos) išlaidų tikslinių kompensacijų dydžiams apibrėžti ir apskaičiuoti; 
 
 
 
 
-4) valstybinės socialinio draudimo našlių pensijos bazinis dydis – rodiklis valstybinių socialinio draudimo našlių pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybinės socialinio draudimo našlių pensijos baziniu dydžiu, apibrėžti ir apskaičiuoti;
+4) valstybės remiamos pajamos – rodiklis, taikomas nustatant pajamas ir turto vertę, suteikiančias teisę asmenims gauti teisės aktų reglamentuotą socialinę paramą, taip pat apibrėžiant ir apskaičiuojant teisės aktų nustatytus dydžius;
 
 
 
 
-5) valstybinių pensijų bazė – rodiklis Lietuvos Respublikos valstybinių pensijų dydžiams, kurie siejami su valstybinių pensijų baze, apibrėžti ir apskaičiuoti.
+5) valstybinė socialinio draudimo bazinė pensija – rodiklis valstybinių socialinio draudimo pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybine socialinio draudimo bazine pensija, apibrėžti ir apskaičiuoti; 
+
+
+
+
+6) valstybinės socialinio draudimo našlių pensijos bazinis dydis – rodiklis valstybinių socialinio draudimo našlių pensijų dydžiams ir kitiems įstatymų nustatytiems dydžiams, kurie siejami su valstybinės socialinio draudimo našlių pensijos baziniu dydžiu, apibrėžti ir apskaičiuoti; 
+
+
+
+
+7) valstybinių pensijų bazė – rodiklis Lietuvos Respublikos valstybinių pensijų dydžiams, kurie siejami su valstybinių pensijų baze, apibrėžti ir apskaičiuoti.
 
 
 
 
 
 
-3. Valstybinių pensijų bazės dydis negali būti didesnis už galiojančios valstybinės socialinio draudimo bazinės pensijos dydį.
+3. Valstybinių pensijų bazės dydis negali būti didesnis už galiojančios valstybinės socialinio draudimo bazinės pensijos dydį. 
 
 
 
 
-4. Bazinės socialinės išmokos dydį, valstybės remiamų pajamų dydį, valstybinės socialinio draudimo bazinės pensijos dydį, valstybinės socialinio draudimo našlių pensijos bazinį dydį ir valstybinių pensijų bazės dydį tvirtina Lietuvos Respublikos Vyriausybė.
+4. Bazinės socialinės išmokos dydį, šalpos pensijų bazės dydį, tikslinių kompensacijų bazės dydį, valstybės remiamų pajamų dydį, valstybinės socialinio draudimo bazinės pensijos dydį, valstybinės socialinio draudimo našlių pensijos bazinį dydį ir valstybinių pensijų bazės dydį tvirtina Lietuvos Respublikos Vyriausybė 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2516, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20672
  
-
-
 
 
 
@@ -147,3 +159,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-87, 2008-12-19, Žin., 2008, Nr. 149-6013 (2008-12-30), i. k. 1081010ISTA000XI-87
 Lietuvos Respublikos minimaliojo darbo užmokesčio dydžių, socialinės apsaugos išmokų ir bazinio bausmių ir nuobaudų dydžio indeksavimo įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2516, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20672
+Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 2 straipsnio pakeitimo įstatymas
