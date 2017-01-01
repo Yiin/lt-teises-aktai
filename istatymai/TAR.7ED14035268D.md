@@ -13,9 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7ED14035268D"
 
 # Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2016-12-31
+Įstatymas netenka galios 2024-09-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2857, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12642
+Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo Nr. IX-1046 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2017-01-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 74-3139, i. k. 1021010ISTA0IX-1046
+ 
+TAR pastaba. Iki šio įstatymo įsigaliojimo dienos licencijas išduodančiai institucijai pateikti fizinių ir juridinių asmenų prašymai dėl licencijų išdavimo, jų patikslinimo, licencijų galiojimo sustabdymo, licencijų galiojimo sustabdymo panaikinimo ir licencijų galiojimo panaikinimo baigiami nagrinėti ir sprendimai priimami vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusio Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo ir kitų teisės aktų nuostatomis.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo Nr. IX-1046 2, 3, 5, 6, 7, 8, 11, 12, 13, 20 ir 21 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2010-07-01:
 Nr. XI-852, 2010-05-27, Žin. 2010, Nr. 70-3469 (2010-06-17), i. k. 1101010ISTA00XI-852
@@ -72,15 +82,34 @@ BENDROSIOS NUOSTATOS
 
 15. Sandėliavimo liudijimas – pirmoji dvidalio sandėliavimo liudijimo dalis, kuri gali būti atskirta nuo antrosios dalies – įkeitimo liudijimo – ir kuria remiantis iš sandėlio gali būti išduodamos prekės jos turėtojui šio įstatymo nustatyta tvarka. Sandėliavimo liudijimo turėtojas turi teisę disponuoti prekėmis, tačiau neturi teisės atsiimti jų iš sandėlio tol, kol nebus visiškai atsiskaitęs su sandėliu už tų prekių saugojimą ir kitas paslaugas ir nebus įvykdęs visų šių prekių įkeitimu užtikrintų prievolių.
 
-16. Sandėlio registras – įrašų sistema, kurią sudaro sandėliuojamų prekių ir sandėliavimo dokumentų registrai.
+16. Sandėliavimo paskirties pastatas – grūdų saugykla (elevatorius, antžeminis sandėlis ar bokštinis aruodas), bulvių, daržovių ir (arba) vaisių saugykla, bendro naudojimo sandėlis, specialusis sandėlis ar kitas pastatas, kurių paskirtis – laikyti prekes, nurodytas šio įstatymo 3 straipsnyje. 
+Papildyta straipsnio dalimi:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
-17. Sandėlio veikla – sandėliavimo veikla, apimanti šiame įstatyme nurodytų prekių priėmimą į sandėlį, jų saugojimą, išdavimą ir tų prekių kokybei išsaugoti būtinų paslaugų teikimą, taip pat sandėliavimo dokumentų išdavimą, jų priėmimą ir sandėlio registro tvarkymą.
+17. Sandėlio registras – įrašų sistema, kurią sudaro sandėliuojamų prekių ir sandėliavimo dokumentų registrai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
-18. Sandėliuojamos prekės – šio įstatymo 3 straipsnyje nurodytos prekės.
+18. Sandėlio veikla – sandėliavimo veikla, apimanti šiame įstatyme nurodytų prekių priėmimą į sandėlį, jų saugojimą, išdavimą ir tų prekių kokybei išsaugoti būtinų paslaugų teikimą, taip pat sandėliavimo dokumentų išdavimą, jų priėmimą ir sandėlio registro tvarkymą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
-19. Sandėliuojamų prekių registras – įrašų sistema, kuria rodoma priimtų saugoti prekių judėjimo ir kokybės pokyčių apskaita.
+19. Sandėliuojamos prekės – šio įstatymo 3 straipsnyje nurodytos prekės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
-20. Sandėliuojamų prekių savininkas – asmuo, kuriam nuosavybės teise priklauso sandėliuojamos prekės ir kuris turi tai patvirtinantį paprastą sandėliavimo liudijimą, dvidalį sandėliavimo liudijimą ar atskirą jo dalį – sandėliavimo liudijimą.
+20. Sandėliuojamų prekių registras – įrašų sistema, kuria rodoma priimtų saugoti prekių judėjimo ir kokybės pokyčių apskaita.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
+
+21. Sandėliuojamų prekių savininkas – asmuo, kuriam nuosavybės teise priklauso sandėliuojamos prekės ir kuris turi tai patvirtinantį paprastą sandėliavimo liudijimą, dvidalį sandėliavimo liudijimą ar atskirą jo dalį – sandėliavimo liudijimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 3 straipsnis. Sandėliuojamos prekės
@@ -89,17 +118,22 @@ BENDROSIOS NUOSTATOS
 
 1) varpinių ir ankštinių augalų grūdai, įskaitant kukurūzus;
 
-2) aliejinių augalų (rapsų) sėklos, linų sėmenys;
+2) grikiai;
 
-3) daugiamečių ankštinių ir varpinių žolių sėklos;
+3) aliejinių augalų (rapsų) sėklos, linų sėmenys;
 
-4) daržovės;
+4) daugiamečių ankštinių ir varpinių žolių sėklos;
 
-5) vaisiai;
+5) daržovės;
 
-6) kitos Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatytos prekės.
+6) vaisiai;
 
-2. Prekės turi būti sandėliuojamos atskirai pagal jų rūšis, numatomą vartojimo būdą ir kokybines savybes, vadovaujantis šiuo įstatymu ir Vyriausybės įgaliotos institucijos patvirtintais teisės aktais.
+7) kitos Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatytos prekės.
+
+2. Prekės turi būti sandėliuojamos atskirai pagal jų rūšis, numatomą vartojimo būdą ir kokybės savybes, vadovaujantis šiuo įstatymu ir Vyriausybės įgaliotos institucijos patvirtintais teisės aktais. 
+
+Straipsnio pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 ANTRASIS SKIRSNIS
@@ -115,69 +149,82 @@ SANDĖLIAI
 3. Sandėlis, sukūręs papildomų prekių sandėliavimo pajėgumų, gali pradėti juos naudoti tik gavęs patikslintą licenciją šio įstatymo nustatyta tvarka.
  
 
-5 straipsnis. Licencijų išdavimas, jų galiojimo sustabdymas, sustabdymo galiojimo panaikinimas, licencijų galiojimo panaikinimas, patikslintų licencijų išdavimas 
+5 straipsnis. Licencijų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo, licencijų galiojimo panaikinimas, patikslintų licencijų išdavimas 
 
 1. Licencija išduodama juridiniam ar fiziniam asmeniui pagal jo rašytinį prašymą. Prašymo turinys ir dokumentai, reikalingi licencijai gauti, nustatomi Licencijavimo taisyklėse. 
 
-2. Už licencijos ir jos dublikato išdavimą mokama valstybės rinkliava. 
+2. Licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą ar licencijų galiojimą ir patikslintas licencijas išduoda licencijas išduodanti institucija šio įstatymo ir Licencijavimo taisyklių nustatyta tvarka. Licencijas atsisakoma išduoti, jeigu asmuo neatitinka šio įstatymo nustatytų reikalavimų verstis sandėlio veikla. Licencijas išduodanti institucija išduoda licencijas arba motyvuotai atsisako jas išduoti ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų licencijai išduoti, gavimo dienos. 
 
-3. Licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą ar licencijų galiojimą ir patikslintas licencijas išduoda licencijas išduodanti institucija šio įstatymo nustatyta tvarka. Licencijas atsisakoma išduoti, jeigu neatitinkama šio įstatymo nustatytų reikalavimų verstis sandėlio veikla. Licencijas išduodanti institucija išduoda licencijas arba motyvuotai atsisako jas išduoti ne vėliau kaip per 30 dienų nuo dokumentų, reikalingų licencijoms išduoti, gavimo dienos. Jeigu licencijas išduodančiai institucijai pateikti ne visi reikalingi dokumentai licencijai gauti ar jie netinkamai įforminti, ar pateikti neteisingi duomenys, ji raštu apie tai praneša pareiškėjui ir nustato ne trumpesnį kaip 15 kalendorinių dienų terminą trūkumams pašalinti. 
+3. Licencijas išduodanti institucija, jeigu jai pateikti ne visi Licencijavimo taisyklėse nustatyti dokumentai, reikalingi licencijai gauti, ar jie netinkamai įforminti arba pateiktuose dokumentuose yra klaidingų ir (ar) netikslių duomenų, ne vėliau kaip per 5 darbo dienas nuo dokumentų gavimo dienos raštu apie tai praneša licenciją siekiančiam gauti juridiniam ar fiziniam asmeniui ir nustato ne trumpesnį kaip 15 kalendorinių dienų terminą pateikti licencijas išduodančiai institucijai visus reikalingus, tinkamai įformintus ir patikslintus dokumentus. Per nustatytą terminą nepateikus šių dokumentų, juridiniam ar fiziniam asmeniui licencija neišduodama ir apie tai jam raštu pranešama per 3 darbo dienas nuo sprendimo atsisakyti išduoti licenciją priėmimo dienos. Juridinis ar fizinis asmuo, kuriam nebuvo išduota licencija, pakartotinai dėl licencijos gavimo į licencijas išduodančią instituciją gali kreiptis ne anksčiau kaip po 6 mėnesių. Licencijos išdavimo terminas skaičiuojamas nuo visų reikalingų, tinkamai įformintų dokumentų ir informacijos pateikimo dienos.
 
-4. Licencijas išduodanti institucija kontroliuoja, kaip licencijų turėtojai laikosi licencijuojamos veiklos sąlygų.
+4. Licencija neterminuotam laikui išduodama juridiniam ar fiziniam asmeniui, jeigu jis:
 
-5. Licencija neterminuotam laikui išduodama juridiniam ar fiziniam asmeniui, jeigu:
+1) pagal Lietuvos Respublikos įmonių bankroto įstatymą ar Lietuvos Respublikos fizinių asmenų bankroto įstatymą nėra nemokus;
 
-1) juridinis ar fizinis asmuo yra įregistruotas įstatymų nustatyta tvarka;
+2) pagal šio straipsnio 5 dalį yra laikomas tinkamai pasirengusiu vykdyti sandėlio veiklą, nuosavybės, nuomos, panaudos teise arba kitais teisėtais pagrindais valdo sandėliavimo paskirties pastatus, tinkamus prekėms laikyti, ir yra apsirūpinęs laboratorine įranga prekių kokybės rodikliams nustatyti arba yra sudaręs prekių kokybės rodiklių nustatymo paslaugų pirkimo sutartį su kitais juridiniais ar fiziniais asmenimis, turinčiais tokią laboratorinę įrangą;
 
-2) pagal Lietuvos Respublikos įmonių bankroto įstatymą jie nėra nemokūs;
+3) pagal šio įstatymo 7 straipsnio 4 dalies reikalavimus yra apdraudęs sandėliavimo paskirties pastatus ir juose laikomas prekes; 
 
-3) jie yra tinkamai pasirengę prekių sandėliavimo veiklai vykdyti, nuosavybės, nuomos arba panaudos teise valdo nekilnojamąjį turtą, tinkamą prekėms sandėliuoti, ir yra apsirūpinę reikiama laboratorine įranga prekių kokybiniams rodikliams nustatyti; 
+4) pateikia Prekių sandėliavimo taisyklių projektą, atitinkantį šio įstatymo  6 straipsnyje nustatytus reikalavimus;
 
-4) jų viso turto vertė yra pakankama prievolėms, atsirandančioms iš sandėlio veiklos, vykdyti; 
+5) paskiria sandėlininką ir užtikrina, kad sandėlininkas atitiktų šio įstatymo  11 straipsnyje nustatytus reikalavimus. 
 
-5) jie yra apsidraudę pagal šio įstatymo 7 straipsnio 2 dalies reikalavimus; 
+5. Juridinis ar fizinis asmuo laikomas tinkamai pasirengusiu vykdyti sandėlio veiklą, jeigu prekių sandėliavimo sąlygos atitinka techninius, technologinius, veterinarijos, higienos, priešgaisrinius ir kitus šio įstatymo ir Vyriausybės įgaliotos institucijos sandėliavimo paskirties pastatams nustatytus specialiuosius reikalavimus: prekių sandėliavimo talpyklos, įrenginiai ir instaliacijos turi nepakenkti prekių išsaugojimui, jų kokybei, užtikrinti tinkamą prekių kiekio ir kokybės nustatymą bei patikrą. 
 
-6) jie pateikia Prekių sandėliavimo taisyklių projektą, atitinkantį nustatytus reikalavimus.
+6. Licencijos turėtojas negali licencijos ar jos suteiktų teisių perduoti kitiems juridiniams ar fiziniams asmenims. 
 
-6. Pagal šio straipsnio 5 dalies 3 punktą juridinis ar fizinis asmuo laikomas tinkamai pasirengusiu prekių sandėliavimo veiklai vykdyti, jeigu prekių sandėliavimo sąlygos atitinka techninius, technologinius, veterinarijos, higienos, priešgaisrinius ir kitus šio įstatymo ir Vyriausybės įgaliotos institucijos gamybiniams pastatams (statiniams) nustatytus specialiuosius reikalavimus: prekių sandėliavimui skirtos talpyklos, įrenginiai ir instaliacijos, taip pat procedūros, taikomos priimant, sandėliuojant ir išduodant prekes, turi nepakenkti prekių išsaugojimui, jų kokybei, užtikrinti tinkamą prekių kiekio ir kokybės nustatymą bei patikrą. 
+7. Patikslinta licencija išduodama juridiniam ar fiziniam asmeniui, jeigu: 
 
-7. Pagal šio straipsnio 5 dalies 4 punktą viso turto vertė yra pakankama prievolėms, atsirandančioms iš sandėlio veiklos, vykdyti, jeigu ji yra ne mažesnė už sumą, gautą pageidaujamų sandėliuoti prekių rūšių sandėliavimo pajėgumus (tonomis) padauginus iš tos prekės rūšies normatyvinės kainos, kuri yra patvirtinta Vyriausybės įgaliotos institucijos. 
+1) numatoma pakeisti priimamų saugoti prekių rūšis;
 
-8. Licencijos turėtojas negali licencijos ar jos suteiktų teisių perduoti kitiems juridiniams ar fiziniams asmenims. 
+2) numatoma pradėti naudoti papildomas prekių sandėliavimo talpyklas, atsiradusias naujai pastačius ar rekonstravus esamą sandėliavimo paskirties pastatą;
 
-9. Licencijos galiojimas negali būti sustabdytas ar panaikintas licencijos galiojimas, jeigu į sandėlį ne dėl sandėlio kaltės neatvežama saugoti prekių. 
+3) pasikeičia juridinio asmens ar ūkininko ūkio pavadinimas, buveinės ar prekių saugyklų adresai, fizinio asmens vardas ir (ar) pavardė, gyvenamosios vietos adresas;
 
-10. Patikslinta licencija išduodama juridiniam ar fiziniam asmeniui, jeigu: 
+4) ūkininko ūkis išregistruojamas iš Ūkininkų ūkių registro, tačiau tas pats fizinis asmuo tęsia sandėlio veiklą.
 
-1) pakeičiama priimamų saugoti prekių rūšis;
+8. Licencijų tikslinimo ir patikslintų licencijų išdavimo tvarka nustatoma Licencijavimo taisyklėse.
 
-2) pasikeičia prekių saugyklų adresai, jų skaičius ir sukuriami papildomi sandėliavimo pajėgumai;
+9. Licencijas išduodanti institucija raštu įspėja licencijos turėtoją apie galimą licencijos galiojimo sustabdymą, kai nesilaikoma bent vieno iš šių reikalavimų:
 
-3) pakeičiamos Prekių sandėliavimo taisyklės.
+1) nustatoma, kad licencijos turėtojas nesilaiko šio įstatymo 3 straipsnio 2 dalyje,  7 straipsnio 3, 4 ir 5 dalyse, 21 straipsnyje, 27 straipsnio 2, 3 ir 4 dalyse nustatytų reikalavimų; 
 
-11. Licencijos galiojimas sustabdomas, kai nesilaikoma bent vieno iš šių reikalavimų:
+2) licencijas išduodanti institucija nustato, kad licencijos turėtojas pagal Lietuvos Respublikos įmonių bankroto įstatymą ar Lietuvos Respublikos fizinių asmenų bankroto įstatymą yra nemokus, išskyrus atvejus, kai jam iškeliama bankroto byla arba taikoma neteisminė bankroto procedūra;
 
-1) nustatoma, kad licencijos turėtojas nesilaiko šio įstatymo nustatytų reikalavimų; 
+3) paaiškėja, kad licencijai gauti pateiktuose dokumentuose buvo nurodyti klaidingi duomenys; 
 
-2) paaiškėja, kad licencijai gauti pateiktuose dokumentuose buvo nurodyti klaidinantys duomenys; 
+4) licencijos turėtojas, priėmęs iš sandėliuojamų prekių savininkų saugoti prekes, ilgiau nei 2 mėnesius Kompensavimo fondo nuostatuose nustatyta tvarka ir terminais nesumoka šio fondo nuostatuose nustatyto dydžio įmokos ir priskaičiuotų palūkanų nuo nesumokėtos įmokos sumos; 
 
-3) yra pažeidžiami sandėliuojamų prekių saugojimo sanitariniai, veterinariniai, higieniniai ar priešgaisriniai reikalavimai; 
+5) Prekių sandėliavimo taisyklės neatitinka šio įstatymo 6 straipsnio reikalavimų. 
 
-4) sandėlis laiku nesumoka įmokos į Licencijuotų sandėlių kompensavimo fondą.
+10. Licencijos turėtojas, raštu įspėtas apie galimą licencijos galiojimo sustabdymą šio straipsnio 9 dalyje nurodytais pagrindais, turi pašalinti licencijas išduodančios institucijos nustatytus sandėlio veiklos pažeidimus per 30 dienų nuo įspėjimo išsiuntimo dienos. 
 
-12. Nustatyti sandėlio veiklos trūkumai, dėl kurių buvo sustabdytas licencijos galiojimas, turi būti pašalinti ne vėliau kaip per 3 mėnesius nuo licencijos galiojimo sustabdymo. Jeigu sandėlis per nustatytą laiką nurodytus pažeidimus pašalina, licencijos galiojimo sustabdymas panaikinamas.
+11. Licencijos galiojimas sustabdomas, kai:
+
+1) licencijos turėtojas buvo raštu licencijas išduodančios institucijos įspėtas apie galimą licencijos galiojimo sustabdymą ir per 30 dienų nuo įspėjimo išsiuntimo dienos nepašalino šios institucijos nurodytų pažeidimų;
+
+2) yra pažeidžiamos prekių sandėliavimo sąlygos, nurodytos šio straipsnio 5 dalyje; 
+
+3) licencijos turėtojas pateikia licencijas išduodančiai institucijai prašymą sustabdyti licencijos galiojimą.
+
+12. Apie priimtą sprendimą sustabdyti licencijos galiojimą šio straipsnio 11 dalyje nurodytais pagrindais licencijas išduodanti institucija per 3 darbo dienas nuo sprendimo priėmimo dienos raštu praneša licencijos turėtojui ir motyvuotai nurodo licencijos galiojimo sustabdymo priežastis. Nustatyti sandėlio veiklos pažeidimai, dėl kurių buvo sustabdytas licencijos galiojimas, turi būti pašalinti ne vėliau kaip per licencijas išduodančios institucijos nustatytą terminą, kuris negali būti ilgesnis kaip 6 mėnesiai nuo pranešimo apie licencijos galiojimo sustabdymą išsiuntimo licencijos turėtojui dienos. Licencijas išduodanti institucija, gavusi dokumentus, kuriais įrodoma, kad sandėlio veiklos pažeidimai, dėl kurių buvo sustabdytas licencijos galiojimas, per šioje dalyje nustatytą terminą pašalinti, o sustabdžius licencijos galiojimą šio straipsnio 11 dalies 3 punkto pagrindu, – gavusi licencijos turėtojo prašymą panaikinti licencijos galiojimo sustabdymą, ne vėliau kaip per 5 darbo dienas nuo šių dokumentų ar prašymo gavimo dienos panaikina licencijos galiojimo sustabdymą ir per 3 darbo dienas nuo sprendimo priėmimo dienos raštu apie tai praneša licencijos turėtojui. 
 
 13. Licencijos galiojimas panaikinamas, jeigu:
 
-1) licencijos turėtojas pateikia licenciją išduodančiai institucijai prašymą panaikinti licencijos galiojimą;
+1) licencijos turėtojas pateikia licencijas išduodančiai institucijai prašymą panaikinti licencijos galiojimą;
 
-2) juridinis asmuo likviduojamas, reorganizuojamas ar jam iškeliama bankroto byla arba taikoma neteisminė bankroto procedūra, ūkininko ūkis išregistruojamas iš Ūkininkų ūkių registro;
+2) licencijos turėtojas likviduojamas, miršta, jam iškeliama bankroto byla, taikoma neteisminė bankroto procedūra arba ūkininkas išregistruoja savo ūkį iš Ūkininkų ūkių registro ir nutraukia sandėlio veiklą;
 
-3) paaiškėja, kad licencijai gauti pateiktuose dokumentuose buvo nurodyti klaidingi duomenys;
+3) sustabdžius licencijos galiojimą per šio straipsnio 12 dalyje nustatytą terminą nepašalinami nustatyti sandėlio veiklos pažeidimai;
 
-4) po licencijos galiojimo sustabdymo per šio straipsnio 12 dalyje nustatytą terminą nepašalinami nustatyti sandėlio veiklos pažeidimai. 
+4) licencijos turėtojas, sustabdžius licencijos galiojimą šio straipsnio 11 dalies  3 punkto pagrindu, per 12 mėnesių nepateikia prašymo panaikinti licencijos galiojimo sustabdymą;
 
-14. Apie priimtą sprendimą sustabdyti licencijos galiojimą ar panaikinti jos galiojimą licenciją išduodanti institucija per 10 darbo dienų nuo sprendimo priėmimo dienos raštu praneša licencijos turėtojui ir motyvuotai nurodo galiojimo sustabdymo ar panaikinimo priežastis.
+5) licencijos turėtojas, praėjus 5 darbo dienoms nuo pranešimo apie licencijos galiojimo sustabdymą išsiuntimo dienos, sudaro naujas prekių sandėliavimo sutartis. 
+
+14. Apie priimtą sprendimą panaikinti licencijos galiojimą licencijas išduodanti institucija per 5 darbo dienas nuo sprendimo priėmimo dienos raštu praneša licencijos turėtojui ir motyvuotai nurodo licencijos galiojimo panaikinimo priežastis.
+
+Straipsnio pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 6 straipsnis. Prekių sandėliavimo taisyklės
@@ -210,29 +257,46 @@ SANDĖLIAI
 
 5. Sandėlis privalo kitai prekių sandėliavimo sutarties šaliai sudaryti tinkamas sąlygas susipažinti su Prekių sandėliavimo taisyklėmis.
 
-6. Pakeitus Prekių sandėliavimo taisykles, turi būti gaunama patikslinta licencija Licencijavimo taisyklėse nustatyta tvarka. 
+6. Pakeitus Prekių sandėliavimo taisykles, jų kopija turi būti nusiųsta licencijas išduodančiai institucijai, ši įvertina jų atitiktį šio straipsnio reikalavimams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
-7 straipsnis. Sandėlio pareigos
+7 straipsnis. Sandėlio pareigos 
 
-1. Sandėlis, kai yra laisvų prekių sandėliavimo talpyklų, privalo sudaryti prekių sandėliavimo sutartį su bet kuriuo asmeniu, kai šis kreipiasi, išskyrus šio ir kitų įstatymų nustatyta tvarka patvirtintas išimtis (viešoji sutartis). Sandėlis neturi teisės susieti prekių sandėliavimo sutarties sudarymo su paslaugų siūlomoms priimti sandėliuoti prekėms teikimo sąlyga, išskyrus atvejus, kai tai yra būtina dėl tinkamo prekių išsaugojimo ir tokie apribojimai taikomi visais atvejais ar yra įprasta sandėlių veiklos praktika.
+1. Prekės, priimtos saugoti pagal dvidalį ar paprastą sandėliavimo liudijimą, turi būti saugomos atskirai nuo kitos rūšies prekių.
 
-2. Sandėlis, kuriame sandėliuojamos prekės, apdraudžia savo turtą nuo gaisro, sprogimo, trečiųjų asmenų neteisėtos veiklos ir gamtinių jėgų sumai, ne mažesnei negu viso draudžiamo turto atkuriamoji vertė. Licencijos galiojimo metu sandėlis taip pat turi turėti civilinės atsakomybės draudimą.
+2. Sandėlis privalo atsisakyti priimti saugoti prekes bendroje talpykloje, jeigu jų kokybė neatitinka nustatytų reikalavimų ir dėl to gali būti pakenkta kitoms sandėliuojamoms prekėms.
 
-3. Sandėlis privalo ne vėliau kaip prieš 15 dienų iki sandėlio veiklos nutraukimo raštu įspėti apie tai licenciją išdavusią instituciją ir vykdyti kitus šio ir kitų įstatymų nustatytus reikalavimus. Iki to laiko sandėlio prisiimti įsipareigojimai pagal sandėliavimo sutartis turi būti tinkamai vykdomi.
+3. Sandėlis privalo nuosavybės, nuomos, panaudos teise arba kitais teisėtais pagrindais valdyti sandėliavimo paskirties pastatus, tinkamus prekėms sandėliuoti, ir būti apsirūpinęs laboratorine įranga prekių kokybės rodikliams nustatyti arba būti sudaręs prekių kokybės rodiklių nustatymo paslaugų pirkimo sutartį su kitais juridiniais ar fiziniais asmenimis, turinčiais tokią laboratorinę įrangą.
 
-4. Licencijos galiojimo sustabdymo laikotarpiu sandėlis neturi teisės sudaryti naujų prekių sandėliavimo sutarčių, tačiau visi anksčiau prisiimti įsipareigojimai turi būti tęsiami. 
+4. Sandėlis, kuriame sandėliuojamos prekės, apdraudžia savo turtą nuo gaisro, sprogimo, trečiųjų asmenų neteisėtos veiklos ir gamtinių jėgų neigiamo poveikio sumai, ne mažesnei negu viso draudžiamo turto atkuriamoji vertė. 
 
-5. Sandėlis privalo raštu pranešti licenciją išduodančiai institucijai apie sandėlininko atleidimą iš pareigų ir naujo sandėlininko paskyrimą ne vėliau kaip per 15 kalendorinių dienų po šių procedūrų atlikimo.
+5. Sandėlis privalo turėti paskirtą sandėlininką ir užtikrinti, kad sandėlininkas atitiktų šio įstatymo 11 straipsnyje nustatytus reikalavimus.
+
+6. Sandėlis privalo ne vėliau kaip prieš 15 dienų iki sandėlio veiklos nutraukimo raštu įspėti apie tai licencijas išdavusią instituciją ir vykdyti kitus šio ir kitų įstatymų nustatytus reikalavimus. Iki to laiko sandėlio prisiimti įsipareigojimai pagal sandėliavimo sutartis turi būti tinkamai vykdomi.
+
+7. Licencijos galiojimo sustabdymo laikotarpiu sandėlis neturi teisės sudaryti naujų prekių sandėliavimo sutarčių, tačiau visi anksčiau prisiimti įsipareigojimai turi būti tęsiami. 
+
+8. Sandėlis privalo raštu pranešti licencijas išduodančiai institucijai apie sandėlininko atleidimą iš pareigų ir naujo sandėlininko paskyrimą ne vėliau kaip per 15 kalendorinių dienų nuo šių procedūrų atlikimo. 
+
+Straipsnio pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 8 straipsnis. Sandėlio teisės ir jų apribojimai
 
-1. Prekės, priimtos saugoti pagal dvidalį ar paprastą sandėliavimo liudijimą, turi būti saugomos atskirai nuo kitų prekių.
+1. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
 2. Sandėlis turi teisę bendroje talpykloje saugoti kelių savininkų tos pačios rūšies ir kokybės prekes, priimtas saugoti pagal paprastą ar dvidalį sandėliavimo liudijimą. Išduodant iš sandėlio bendros talpyklos savininkui priklausantį prekių kiekį, kitų prekių, saugomų toje talpykloje, savininkų sutikimo nereikia.
 
-3. Sandėlis neturi teisės atsisakyti priimti saugoti prekių, kurios gali būti saugomos bendroje talpykloje, jeigu sandėliavimo pajėgumai yra pakankami ir siūlomos priimti saugoti prekės yra tinkamos sandėliuoti ir parduoti. Sandėlis privalo atsisakyti priimti saugoti prekes, jeigu jų kokybė neatitinka nustatytų reikalavimų ir dėl to gali būti pakenkta kitoms sandėliuojamoms prekėms.
+3. Sudarant prekių sandėliavimo sutartį su prekių savininku, sandėlis negali reikalauti iš jo priimti sandėlio teikiamas paslaugas (prekių valymo, džiovinimo, rūšiavimo ir kt.), išskyrus atvejus, kai tai yra būtina dėl tinkamo prekių išsaugojimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
 4. Sandėlis negali priimti sandėliuoti prekių, kurioms disponavimo teisės yra apribotos ar dėl kurių taikomos laikinos apsaugos priemonės, ar į kurias yra nukreiptas išieškojimas, išskyrus atvejus, kai sandėlis apie nuosavybės teisių apribojimus arba apie tai, kad prekėms taikomos laikinos apsaugos priemonės ar į jas yra nukreiptas išieškojimas, nežino ir negali žinoti, taip pat išskyrus kitų įstatymų nustatytas išimtis.
 
@@ -257,34 +321,18 @@ SANDĖLIAI
 
 11 straipsnis. Sandėlininkas
 
-1. Sandėlis kartu su prašymu licencijai gauti pateikia šiuos duomenis apie sandėlininką:
+Asmuo, einantis sandėlininko pareigas, turi būti susipažinęs su Lietuvos standartais ir teisės aktais, reglamentuojančiais sandėliuojamų prekių kokybės reikalavimus, kokybės tyrimų metodus, prekių supirkimą, laikymą, apdorojimą, apskaitą, atskaitomybę ir inventorizacijos tvarką. 
 
-1) sandėlio vadovo įsakymą dėl paskyrimo eiti sandėlininko pareigas kopiją; 
-
-2) sandėlininko asmens dokumento kopiją; 
-
-3) dokumento, patvirtinančio įgytą išsilavinimą, ne žemesnį, negu nurodyta šio straipsnio 2 dalies 1 punkte, kopiją; 
-
-4) su sandėlininku sudarytos sutarties, nurodytos šio straipsnio 4 dalyje, kopiją. 
-
-2. Asmuo, einantis sandėlininko pareigas, turi: 
-
-1) turėti ne žemesnį kaip aukštesnįjį išsilavinimą; 
-
-2) būti susipažinęs su Lietuvos standartais, taikomais sandėliuojamoms prekėms, ir teisės aktais, reglamentuojančiais sandėliuojamų prekių supirkimą, laikymą, apdorojimą, apskaitą, atskaitomybę ir inventorizacijos tvarką;
-
-3) būti sudaręs visiškos materialinės atsakomybės sutartį.
-
-3. Kai paskiriamas naujas sandėlininkas, apie tai ne vėliau kaip per 15 dienų pranešama licenciją išdavusiai institucijai.
-
-4. Su sandėlininku yra sudaroma visiškos materialinės atsakomybės sutartis. Sandėlininkas pagal visiškos materialinės atsakomybės sutartį yra atsakingas už saugomas prekes.
+Straipsnio pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 12 straipsnis. Sandėlio veiklos priežiūra
 
-1. Licenciją išduodanti institucija ne rečiau kaip kartą per metus privalo atlikti sandėlio veiklos patikrinimą, siekdama nustatyti, ar sandėlis laikosi šio įstatymo ir kitų teisės aktų nustatytų reikalavimų.
+Licencijas išduodanti institucija su sandėlio veiklos priežiūra susijusius veiksmus atlieka vadovaudamasi Lietuvos Respublikos viešojo administravimo įstatymu. 
 
-2. Licencijas išduodančios institucijos darbuotojai, atlikdami šio straipsnio 1 dalyje nurodytą veiklą, turi teisę nekliudomi įeiti į sandėlį, paimti sandėliuojamų prekių mėginius, susipažinti su visais patikrinimui reikalingais dokumentais, taip pat kitas teisės aktų nustatytas teises.
+Straipsnio pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 13 straipsnis. Kompensavimo fondas
@@ -299,7 +347,10 @@ SANDĖLIAI
 
 2) pajamos, gautos iš Kompensavimo fondo lėšų investavimo į vertybinius popierius, arba palūkanos iš depozitų;
 
-3) Žemės ūkio ministerijos administruojamos Specialiosios kaimo rėmimo programos lėšos;
+3) Žemės ūkio ministerijos skirtos Specialiosios kaimo rėmimo programos lėšos;
+Straipsnio punkto pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
 4) kitos teisėtai įgytos lėšos. 
  
@@ -408,18 +459,24 @@ Paprastas arba dvidalis sandėliavimo liudijimai išrašomi ant specialių blank
 
 1. Priimdamas prekes saugoti, sandėlis turi nustatyti prekių rūšį, kiekį, kokybę ir vertę.
 
-2. Prekių kokybė nustatoma pagal galiojančius standartus, technines sąlygas, prekių kokybės sertifikatus, prekių kokybinių charakteristikų suderinimo protokolus, prekių pavyzdžių etalonus arba prekių įvertinimo ekspertizes liudijančius dokumentus.
+2. Prekių kokybė nustatoma pagal galiojančius standartus, technines sąlygas, prekių kokybės sertifikatus, prekių kokybės charakteristikų suderinimo protokolus, prekių pavyzdžių etalonus arba prekių įvertinimo ekspertizes liudijančius dokumentus.
 
-3. Prekių vertė nustatoma prekių sandėliavimo sutarties šalių susitarimu, o sutarties šalims nesutarus prekių vertę nustato nepriklausomas vertintojas. Prekių savininkas apmoka prekių vertės nustatymo išlaidas, jeigu šalys nesusitaria kitaip.
+3. Prekių vertė nustatoma prekių sandėliavimo sutarties šalių susitarimu, atsižvelgiant į Vyriausybės ar jos įgaliotos institucijos patvirtintas sandėliuose saugomų prekių normatyvines kainas, o sutarties šalims nesutarus prekių vertę nustato nepriklausomas vertintojas Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. Prekių savininkas apmoka prekių vertės nustatymo išlaidas, jeigu šalys nesusitaria kitaip.
 
 4. Sandėliuojamų prekių nustatyta vertė turi būti įrašyta sandėliavimo dokumentuose.
+
+Straipsnio pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
  
 
 21 straipsnis. Draudimas priimti prekes sandėliuoti 
 
 Draudžiama priimti sandėliuoti prekes: 
 
-1) kurių negalima išsaugoti sandėliavimo sutartyje nustatytą terminą be kokybinių charakteristikų ar kiekio, viršijančio nustatytus natūralaus sumažėjimo ar sugedimo normatyvus, pasikeitimo;
+1) kurių negalima išsaugoti sandėliavimo sutartyje nustatytą terminą be kokybės charakteristikų ar kiekio, viršijančio nustatytus natūralaus sumažėjimo ar sugedimo normatyvus, pasikeitimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+ 
 
 2) kurioms taikomos laikinos apsaugos priemonės ar į kurias nukreiptas išieškojimas pagal vykdomuosius dokumentus, išskyrus atvejus, kai sandėlis apie tai nežino ir negali žinoti.
  
@@ -558,7 +615,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -576,4 +633,9 @@ Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-852, 2010-05-27, Žin., 2010, Nr. 70-3469 (2010-06-17), i. k. 1101010ISTA00XI-852
 Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2622, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24195
+Lietuvos Respublikos licencijuotų sandėlių ir sandėliavimo dokumentų įstatymo Nr. IX-1046 2, 3, 5, 6, 7, 8, 11, 12, 13, 20 ir 21 straipsnių pakeitimo įstatymas
 
