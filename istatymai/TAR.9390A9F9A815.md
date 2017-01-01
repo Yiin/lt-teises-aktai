@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -59,10 +59,17 @@ Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikal�
 
 
 
-2. Tarnyba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+2. Tarnyba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos vidaus tarnybos statutu (toliau – Vidaus tarnybos statutas), šiuo įstatymu ir kitais Lietuvos Respublikos teisės aktais.
+
+
+
+
+3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Vidaus tarnybos statute, Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
  
-
-
 
 
 
@@ -218,12 +225,26 @@ Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. 1121010IS
 
 
 
-12) kaupti, saugoti ir analizuoti informaciją, reikalingą Tarnybos uždaviniams ir funkcijoms įgyvendinti;
+12) vidaus reikalų centrinių įstaigų vadovų prašymu padėti atlikti vidaus reikalų statutinėms įstaigoms pavestas funkcijas. Tarnybos pareigūnų pasitelkimo tvarką ir konkrečias užduotis nustato vidaus reikalų ministras; 
+Papildyta straipsnio punktu:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
+ 
 
 
 
 
-13) vykdyti kitas įstatymų numatytas funkcijas. 
+13) kaupti, saugoti ir analizuoti informaciją, reikalingą Tarnybos uždaviniams ir funkcijoms įgyvendinti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
+ 
+
+
+
+
+14) vykdyti kitas įstatymų numatytas funkcijas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
+ 
 
 
 
@@ -524,159 +545,240 @@ Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. 1121010IS
 
 
 V SKYRIUS
-ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR KITOKIOS PRIEVARTOS PANAUDOJIMAS
+ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR PSICHINĖS PRIEVARTOS PANAUDOJIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
  
 
 
-15 straipsnis. Prievartos rūšys ir jos panaudojimo atvejai 
+15 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Tarnybos pareigūnas turi teisę panaudoti prievartą, kai būtina užkirsti kelią teisės pažeidimams, sulaikyti juos padariusius asmenis ir kitais atvejais saugant bei ginant asmens, visuomenės, valstybės teisėtus interesus. Prievartos rūšį ir jos panaudojimo ribas pasirenka Tarnybos pareigūnas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį bei individualias pažeidėjo savybes. Naudodamas prievartą, Tarnybos pareigūnas privalo stengtis išvengti sunkių padarinių.
-
-
-
-
-2. Tarnybos pareigūnas įstatymų nustatytais atvejais ir tvarka gali panaudoti psichinę ar fizinę prievartą, šaunamąjį ginklą.
+1. Tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų Tarnybos pareigūno ar kito asmens gyvybei ar sveikatai.
 
 
 
 
-3. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio Įstatymo 17 straipsnio 2 dalyje išvardytais atvejais.
+2. Prievarta šiame Įstatyme suprantama kaip Tarnybos veiklos metodas, kuriuo siekiama įgyvendinti Tarnybos uždavinius ir kuris taikomas, kai nevykdomi Tarnybos pareigūno reikalavimai ar nurodymai arba siekiama išvengti pavojaus.
 
 
 
 
-4. Fizinė prievarta šiame Įstatyme suprantama kaip:
-
-
-1) bet kokio pobūdžio fizinės jėgos bei kovinių imtynių veiksmų naudojimas;
+3. Psichinę prievartą Tarnybos pareigūnas turi teisę panaudoti šio straipsnio 6, 7 dalyse arba šio Įstatymo 17 straipsnio 2 dalyje nurodytais atvejais.
 
 
 
 
-2) specialiųjų priemonių, t. y. Tarnybos ginkluotėje esamų lazdų, antrankių bei surišimo priemonių, dujų, transporto priverstinio sustabdymo bei kitų įstatymais leidžiamų ir vidaus reikalų ministro įsakymu patvirtintų priemonių, Tarnybos aktyvios ir pasyvios gynybos priemonių naudojimas.
+4. Fizinę prievartą Tarnybos pareigūnas turi teisę panaudoti šiais atvejais:
+
+
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+
+
+
+
+2) kai asmenys vengia vykdyti pareigūnų reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), taip pat sulaikydamas asmenis (jeigu jie priešinasi);
+
+
+
+
+3) atremdamas kėsinimąsi į šaunamąjį ginklą, specialiąsias priemones, ryšio priemones ir siekdamas šiuos objektus susigrąžinti;
+
+
+
+
+4) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimą arba šiuos užimtus objektus išlaisvindamas;
+
+
+
+
+5) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį arba kai turimais duomenimis jose gali slėptis asmenys, galimai padarę administracinius nusižengimus ar nusikalstamas veikas;
+
+
+
+
+6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+
+
+
+
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
 
 
 
 
 
 
-5. Prieš naudodamas fizinę prievartą arba šaunamąjį ginklą, Tarnybos pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
+5. Tarnybos pareigūnas turi teisę naudoti antrankius ir surišimo priemones:
+
+
+1) prieš agresyvius ar linkusius žalotis asmenis;
 
 
 
 
-6. Tarnybos pareigūnas, jei jis su savimi neturi specialiųjų priemonių ar šaunamojo ginklo, gali panaudoti bet kokias pagalbines priemones, būtinas kėsinimuisi atremti ar pavojaus šaltiniui likviduoti. 
+2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą.
 
 
 
 
-7. Tarnybos pareigūnas, panaudojęs prievartą nepažeisdamas šio Įstatymo reikalavimų ir padaręs žalos įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+
+
+6. Tarnybos pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę šią blokuodamas. Kai stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų Tarnybos pareigūno ar kito asmens gyvybei ar sveikatai, Tarnybos pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone taranuoti stabdomą transporto priemonę. Jei Tarnybos pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po šių veiksmų nedelsdamas turi imtis priemonių šių veiksmų padariniams pašalinti.
 
 
 
 
-8. Apie pareigūno panaudotą prievartą, lėmusią asmens mirtį arba sužeidimą, nedelsiant informuojamas prokuroras.
+7. Tarnybos pareigūnas turi teisę kaip specialiąją priemonę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių specifikaciją įtrauktus užtaisus, kurių keliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
 
 
 
 
-9. Tarnybos pareigūnai turi būti specialiai parengti ir ne rečiau kaip kasmet tikrinami, ar jie sugeba veikti situacijose, susijusiose su fizinės prievartos, šaunamojo ginklo panaudojimu.
+8. Kai nėra neišvengiamo pavojaus Tarnybos pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama: 
+
+
+1) prieš asmenis, jei akivaizdu arba Tarnybos pareigūnui žinoma, kad jie neįgalūs;
+
+
+
+
+2) prieš asmenis, jei Tarnybos pareigūnui yra žinoma, kad jie turi neliečiamybės teisę;
+
+
+
+
+3) prieš moteris, jei akivaizdu arba Tarnybos pareigūnui žinoma, kad jos nėščios;
+
+
+
+
+4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+
+
+
+
+
+
+9. Tarnybos pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Tarnybos pareigūno panaudotą fizinę ar psichinę prievartą, jei tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+10. Tarnybos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos panaudojimu. Tarnybos pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+11. Specialiųjų priemonių specifikaciją ir panaudojimo tvarką nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
  
 
 
 
 
-
-
-16 straipsnis. Fizinės prievartos panaudojimo pagrindai 
-
-
-1. Tarnybos pareigūnas turi teisę panaudoti fizinę prievartą šio Įstatymo 15 straipsnio 1 dalyje numatytais atvejais, taip pat:
-
-
-1) gindamasis arba gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
-
-
-
-
-2) kai kėsinamasi į Tarnybos kontroliuojamą ar saugomą objektą, transporto priemonę, šaunamąjį ginklą, specialiąsias ryšio, aktyvios ar pasyvios gynybos priemones ar kitą Tarnybos turtą.
-
-
-
-
-
-
-2. Draudžiama panaudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai).
-Straipsnio dalies pakeitimai:
-Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
+16 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
  
 
 
 
 
+17 straipsnis. Šaunamojo ginklo naudojimas
 
 
-17 straipsnis. Šaunamojo ginklo panaudojimas
-
-
-1. Tarnybos pareigūnas, kai kitos prievartos priemonės yra neveiksmingos, kaip išimtinę priemonę turi teisę panaudoti šaunamąjį ginklą. 
-
-
-
-
-2. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį tokiais atvejais:
-
-
-1) gindamasis arba gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
 
 
 
 
-2) sulaikydamas nusikalstamą veiką padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kyla pavojus Tarnybos pareigūno ar kito žmogaus gyvybei ar sveikatai ir kitaip jo neįmanoma nuginkluoti;
+2. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis šiais atvejais:
+
+
+1) atremdamas ginkluotą įsiveržimą į Lietuvos Respublikos teritoriją;
 
 
 
 
-3) atremdamas saugomų objektų užpuolimą.
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus;
+
+
+
+
+3) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+
+
+
+
+4) sulaikydamas nusikalstamą veiką galimai padariusį asmenį, jeigu kyla neišvengiamas pavojus Tarnybos pareigūno ar kito asmens gyvybei ar sveikatai;
+
+
+
+
+5) sulaikydamas transporto priemonę vairuojantį asmenį, kuris savo veiksmais kelia neišvengiamą pavojų Tarnybos pareigūno arba kito asmens gyvybei.
 
 
 
 
 
 
-3. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį ginklą šio straipsnio 2 dalyje numatytais atvejais prieš transporto priemonę ir gyvūnus. 
+3. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jei kyla neišvengiamas pavojus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai.
 
 
 
 
-4. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
-Straipsnio dalies pakeitimai:
-Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
+4. Ketindamas naudoti šaunamąjį ginklą, Tarnybos pareigūnas privalo įspėti apie šį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų Tarnybos pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
+
+
+
+
+5. Tarnybos pareigūnas, nekeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą. 
+
+
+
+
+6. Kai nėra neišvengiamo pavojaus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą draudžiama:
+
+
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus šio straipsnio 2 dalies 1 ir 2 punktuose nurodytus atvejus;
+
+
+
+
+2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui.
+
+
+
+
+
+
+7. Tarnybos pareigūnas, panaudojęs šaunamąjį ginklą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Tarnybos pareigūno panaudotą šaunamąjį ginklą, jei tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+8. Tarnybos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamojo ginklo naudojimu. Tarnybos pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+9. Šio straipsnio 1, 2, 3 dalies ir 6 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
  
 
 
 
 
-
-
-18 straipsnis. Ginkluoto Tarnybos pareigūno asmens saugumo garantijos 
-
-
-1. Tarnybos pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį panaudoti, jei jis mano, kad konkrečioje situacijoje gali tekti jį panaudoti. 
-
-
-
-
-2. Tarnybos pareigūnas, nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą arba įspėti apie galimą šaunamojo ginklo panaudojimą. 
-
-
-
-
-3. Tarnybos pareigūnas turi teisę panaudoti psichinę ar fizinę prievartą, jeigu sulaikomas ar sulaikytas asmuo bando panaudoti prievartą arba artinasi prie Tarnybos pareigūno bei neklauso jo reikalavimo laikytis nurodyto atstumo, arba kėsinasi atimti iš Tarnybos pareigūno šaunamąjį ginklą. Jeigu panaudotos prievartos priemonės yra neveiksmingos arba jų panaudojimas yra neįmanomas dėl asmens daromų veiksmų intensyvumo, o delsimas kelia grėsmę Tarnybos pareigūno gyvybei, Tarnybos pareigūnas gali panaudoti šaunamąjį ginklą.
+18 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
  
-
-
 
 
 
@@ -868,3 +970,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1858, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10819
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 10 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 7, 15, 17 straipsnių, V skyriaus pavadinimo pakeitimo ir 16, 18 straipsnių pripažinimo netekusiais galios įstatymas
