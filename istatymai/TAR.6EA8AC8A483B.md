@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-07
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -545,6 +545,14 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 4. Specialieji viešosios geležinkelių infrastruktūros valdymo apskaitos reikalavimai nustatyti šio Kodekso 23 straipsnio 2 ir 11 dalyse. 
 Straipsnio dalies pakeitimai:
+Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+ 
+
+
+
+
+5. Specialieji geležinkelių paslaugų įrenginių valdymo apskaitos reikalavimai nustatyti šio Kodekso 302 straipsnio 5 dalyje.
+Papildyta straipsnio dalimi:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
  
 
