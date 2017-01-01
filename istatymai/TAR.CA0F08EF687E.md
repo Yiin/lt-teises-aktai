@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 
 # Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas
 
-Suvestinė redakcija nuo 2014-11-27 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 91-3190, i. k. 1011010ISTA00IX-547
  
@@ -170,7 +170,9 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-19. Įmokų tarifai – draudėjų, apdraustųjų, savarankiškai dirbančių ar valstybiniu savanoriškuoju socialiniu draudimu apsidraudusių asmenų mokamų įmokų dydžių matas atskiroms socialinio draudimo rūšims, nustatomas siekiant užtikrinti pakankamą finansavimą šių rūšių socialiniam draudimui vykdyti. Tarifai yra išreiškiami procentais nuo draudžiamųjų pajamų bazės arba socialiniam draudimui deklaruojamų pajamų sumos, arba valstybinės socialinio draudimo bazinės pensijos dydžio ir tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu kiekvieniems biudžetiniams metams.
+19. Įmokų tarifai – draudėjų, apdraustųjų, savarankiškai dirbančių ar valstybiniu savanoriškuoju socialiniu draudimu apsidraudusių asmenų mokamų įmokų dydžių matas atskiroms socialinio draudimo rūšims, nustatomas siekiant užtikrinti pakankamą finansavimą šių rūšių socialiniam draudimui vykdyti. Tarifai yra išreiškiami procentais nuo draudžiamųjų pajamų bazės arba socialiniam draudimui deklaruojamų pajamų sumos ir tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu kiekvieniems biudžetiniams metams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
  
@@ -284,7 +286,7 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 4 straipsnis. Fondo biudžeto pajamų planavimas kitiems biudžetiniams metams
 
 
-1. Fondo biudžeto pajamos, gaunamos iš įmokų, kitiems biudžetiniams metams planuojamos kiekvienai valstybinio socialinio draudimo įmokų mokėtojų grupei taip:
+1. Fondo biudžeto pajamos, gaunamos iš įmokų, kitiems biudžetiniams metams planuojamos kiekvienai įmokų mokėtojų grupei taip:
 
 
 1) draudėjų ir apdraustųjų įmokos – atsižvelgiant į Finansų ministerijos parengtą atitinkamų metų šalies ekonominės raidos scenarijų (toliau – šalies ekonominės raidos scenarijus), kitiems biudžetiniams metams numatomus įmokų tarifus atskiroms socialinio draudimo rūšims, draudžiamųjų pajamų bazės ir apdraustųjų skaičiaus kitimą per paskutinius dvejus metus;
@@ -292,19 +294,22 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-2) savarankiškai dirbančių asmenų įmokos – atsižvelgiant į šių asmenų socialiniam draudimui deklaruotų pajamų ir šių asmenų skaičiaus kitimą per paskutinius dvejus metus, kitiems biudžetiniams metams numatomus valstybinės socialinio draudimo pagrindinės pensijos dalies (toliau – bazinė pensija) ir minimaliosios mėnesinės algos (toliau – MMA) dydžius;
+2) savarankiškai dirbančių asmenų įmokos – atsižvelgiant į šių asmenų socialiniam draudimui deklaruotų pajamų ir šių asmenų skaičiaus kitimą per paskutinius dvejus metus, kitiems biudžetiniams metams numatomus minimaliosios mėnesinės algos (toliau – MMA) dydžius;
 
 
 
 
-3) savanoriškuoju socialiniu draudimu apsidraudusių asmenų įmokos – atsižvelgiant į šių asmenų socialiniam draudimui deklaruotų draudžiamųjų pajamų ir savanoriškojo socialinio draudimo sutarčių skaičiaus kitimą per paskutinius dvejus metus, numatomus savanoriškojo socialinio draudimo įmokų tarifus, kitiems biudžetiniams metams numatomus bazinės pensijos ir MMA dydžius;
+3) savanoriškuoju socialiniu draudimu apsidraudusių asmenų įmokos – atsižvelgiant į šių asmenų socialiniam draudimui deklaruotų draudžiamųjų pajamų ir savanoriškojo socialinio draudimo sutarčių skaičiaus kitimą per paskutinius dvejus metus, numatomus savanoriškojo socialinio draudimo įmokų tarifus, kitiems biudžetiniams metams numatomus valstybinės socialinio draudimo pagrindinės pensijos dalies (toliau – bazinė pensija) ir MMA dydžius;
 
 
 
 
-4) valstybės biudžeto už valstybės lėšomis draudžiamus asmenis įmokos – atsižvelgiant į šių asmenų skaičiaus kitimą per paskutinius dvejus metus, kitiems biudžetiniams metams numatomus bazinės pensijos ir MMA dydžius.
+4) valstybės biudžeto už valstybės lėšomis draudžiamus asmenis įmokos – atsižvelgiant į šių asmenų skaičiaus kitimą per paskutinius dvejus metus, kitiems biudžetiniams metams numatomus MMA dydžius. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+ 
 
 
 
@@ -334,7 +339,10 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-4. Asignavimai iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių Fondo biudžetui taip pat skiriami atsižvelgiant į Fondo finansinę padėtį, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja Fondo išlaidos arba sumažėja jo pajamos, o įmokų tarifai atskiroms socialinio draudimo rūšims nekeičiami arba keičiami nepakankamai. Sprendimą dėl šių papildomų asignavimų priima Seimas, tvirtindamas Fondo biudžetą atitinkamiems biudžetiniams metams.
+4. Asignavimai iš valstybės biudžeto Fondo biudžetui skiriami atsižvelgiant į Fondo finansinę padėtį, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja Fondo išlaidos arba sumažėja jo pajamos, o įmokų tarifai atskiroms socialinio draudimo rūšims nekeičiami arba keičiami nepakankamai. Sprendimą dėl šių papildomų asignavimų priima Seimas, tvirtindamas Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų atitinkamų metų finansinių rodiklių patvirtinimo įstatymą ir Fondo biudžetą atitinkamiems biudžetiniams metams.
+Straipsnio dalies pakeitimai:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+ 
 
 
 Straipsnio pakeitimai:
@@ -348,37 +356,40 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 5 straipsnis. Fondo biudžeto išlaidos
 
 
-1. Fondo biudžeto išlaidų pagrindą sudaro Fondo išlaidos atskiroms socialinio draudimo rūšims, tai yra:
+1. Fondo biudžeto išlaidų pagrindą sudaro Fondo išlaidos atskirų rūšių socialiniam draudimui, tai yra:
 
 
-1) pensijų socialiniam draudimui – Fondo išlaidos valstybinėms socialinio draudimo pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms Valstybinių socialinio draudimo pensijų įstatyme, išankstinėms valstybinėms socialinio draudimo senatvės pensijoms, numatytoms Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatyme, taip pat šių išmokų gavėjus laidojusiems asmenims nurodytų įstatymų nustatyta tvarka išmokėtos sumos;
-
-
-
-
-2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos Pensijų sistemos reformos įstatyme, sumos;
+1) pensijų socialiniam draudimui – Fondo išlaidos valstybinėms socialinio draudimo pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme, išankstinėms valstybinėms socialinio draudimo senatvės pensijoms, numatytoms Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatyme, taip pat šių išmokų gavėjus laidojusiems asmenims šioje dalyje nurodytų įstatymų nustatyta tvarka išmokėtos sumos;
 
 
 
 
-3) ligos ir motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo pašalpoms, numatytoms Ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms;
+2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos Lietuvos Respublikos pensijų sistemos reformos įstatyme, sumos;
 
 
 
 
-4) nedarbo socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo išmokoms ir (arba) Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti;
+3) ligos socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo ligos išmokoms;
 
 
 
 
-5) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui (toliau – nelaimingų atsitikimų darbe socialinis draudimas) – Fondo biudžeto išlaidos visų rūšių socialinio draudimo išmokoms, numatytoms Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. Šioms Fondo biudžeto išlaidoms taip pat priskiriamos lėšos nelaimingų atsitikimų darbe ir profesinių ligų prevencijai; 
+4) motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo motinystės išmokoms;
 
 
 
 
-6) (neteko galios 2013-01-01).
+5) nedarbo socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo išmokoms ir dalinio darbo išmokoms, numatytoms Lietuvos Respublikos nedarbo socialinio draudimo įstatyme, bei Lietuvos Respublikos užimtumo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti;
 
 
+
+
+6) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui (toliau – nelaimingų atsitikimų darbe socialinis draudimas) – Fondo biudžeto išlaidos visų rūšių socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+ 
 
 
 
@@ -399,6 +410,14 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 3. Fondo išlaidos išmokoms, kurioms taikomos tarptautinės sutartys ar Europos Sąjungos reglamentai dėl socialinės apsaugos, priskiriamos Fondo išlaidoms atskiroms socialinio draudimo rūšims pagal šių išmokų pobūdį.
+
+
+
+
+4. Fondo administravimo įstaigų veiklos sąnaudoms gali būti skiriama iki 3 procentų Fondo biudžeto išlaidų.
+Papildyta straipsnio dalimi:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+ 
 
 
 Straipsnio pakeitimas:
@@ -436,7 +455,10 @@ Fondo biudžeto išlaidos kitiems biudžetiniams metams planuojamos:
 
 
 
-5) Fondo veiklos sąnaudos, skirtos išmokų, finansuojamų iš valstybės biudžeto, skyrimo, mokėjimo ir pristatymo sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą išmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. Fondo veiklos sąnaudos, skirtos įmokų surinkimo ir pervedimo į fondus sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą įmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti.
+5) Fondo veiklos sąnaudos, skirtos išmokų, finansuojamų iš valstybės biudžeto, skyrimo, mokėjimo ir pristatymo sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą išmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. Fondo veiklos sąnaudos, skirtos įmokų pervedimo ar įmokų surinkimo ir pervedimo į fondus sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą įmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti.
+Straipsnio punkto pakeitimai:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+ 
 
 
 
@@ -606,125 +628,53 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-3) įmokų tarifai (draudėjų bendrasis pensijų, ligos ir motinystės, nedarbo įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupės ir šių grupių tarifai; apdraustųjų bendrasis įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims);
+3) įmokų tarifai (draudėjų bendrasis pensijų, ligos, motinystės ir nedarbo įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupių skaičius ir šių grupių tarifai; apdraustųjų bendrasis įmokų tarifas);
 
 
 
 
-4) įmokų valstybinės socialinio draudimo pensijos pagrindinei ir papildomai dalims gauti tarifai;
+4) nedarbo socialinio draudimo lėšų Lietuvos Respublikos užimtumo rėmimo įstatymo (įsigaliojus Lietuvos Respublikos užimtumo įstatymui – Lietuvos Respublikos užimtumo įstatymo) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis;
 
 
 
 
-5) nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis;
+5) apdraustųjų, dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos pensijų kaupimo bendrovėms, tarifas;
 
 
 
 
-6) įmokų savanoriškojo pensijų socialinio draudimo pagrindinei ir papildomai pensijos dalims gauti tarifai;
+6) pensijų socialinio draudimo įmokų tarifo dalis, skirta valstybinės socialinio draudimo senatvės pensijos papildomai daliai gauti; 
 
 
 
 
-7) apdraustųjų, dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos pensijų kaupimo bendrovėms, tarifas;
+7) valstybės biudžeto asignavimų, skirtų pagrindinei (bendrajai) pensijos daliai finansuoti, dydis;
 
 
 
 
-8) pensijų socialinio draudimo įmokų tarifo dalis, skirta valstybinės socialinio draudimo senatvės pensijos papildomai daliai;
+8) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
 
 
 
 
-9) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
+9) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
 
 
 
 
-10) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
+10) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų pervedimą ar įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos šių įmokų surinkimo sumos;
 
 
 
 
-11) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos surinkti šių įmokų sumos;
-
-
-
-
-12) kiti rodikliai, būtini Fondo biudžetui vykdyti.
+11) kiti rodikliai, būtini Fondo biudžetui vykdyti. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-667, 2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00384
- 
-
-
-
-
-1. (Dalies redakcija nuo 2015-01-01)
-Fondo biudžeto rodiklių patvirtinimo įstatymu atitinkamiems biudžetiniams metams tvirtinami:
-
-
-1) Fondo biudžetas (pajamos, išlaidos, planuojamas metų rezultatas);
-
-
-
-
-2) Fondo biudžeto atitinkamų biudžetinių metų piniginės įplaukos ir išlaidos bei kasos apyvartos lėšos; 
-
-
-
-
-3) įmokų tarifai (draudėjų bendrasis pensijų, ligos ir motinystės, nedarbo įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupės ir šių grupių tarifai; apdraustųjų bendrasis įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims);
-
-
-
-
-4) įmokų valstybinės socialinio draudimo pensijos pagrindinei ir papildomai dalims gauti tarifai;
-
-
-
-
-5) nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis;
-
-
-
-
-6) įmokų savanoriškojo pensijų socialinio draudimo pagrindinei ir papildomai pensijos dalims gauti tarifai;
-
-
-
-
-7) apdraustųjų, dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos pensijų kaupimo bendrovėms, tarifas;
-
-
-
-
-8) pensijų socialinio draudimo įmokų tarifo dalis, skirta valstybinės socialinio draudimo senatvės pensijos papildomai daliai;
-
-
-
-
-9) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
-
-
-
-
-10) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
-
-
-
-
-11) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos šių įmokų surinkimo sumos;
-
-
-
-
-12) kiti rodikliai, būtini Fondo biudžetui vykdyti.
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-667, 2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00384
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+Nr. XIII-131, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29835
  
 
 
@@ -814,7 +764,10 @@ FONDO BIUDŽETO VYKDYMAS
 
 
 
-3. Pasibaigus biudžetiniams metams, Fondo administravimo įstaigų, pavaldžių Fondo valdybai, veiklos finansavimo sąskaitose esamų lėšų likučiai kasmet Fondo valdybos nustatyta tvarka pervedami į šios valdybos veiklos finansavimo sąskaitą. Šiems likučiams, įvertinus nebaigtus atsiskaitymus ir per praėjusius metus neatliktus socialinio draudimo sistemos palaikymo ir plėtojimo darbus, sudaroma nepanaudotų lėšų likučių sumai lygi išlaidų sąmata. Šią sąmatą kasmet sudaro ir tvirtina Fondo valdyba, suderinusi ją su Socialinės apsaugos ir darbo ministerija bei Fondo taryba.
+3. Pasibaigus biudžetiniams metams, Fondo administravimo įstaigų, pavaldžių Fondo valdybai, veiklos finansavimo sąskaitose esamų lėšų likučiai, įvertinus pinigų principu atitinkamų metų pabaigoje susidariusius nebaigtus vykdyti įsipareigojimus, kiekvienais metais iki vasario 1 dienos pervedami į Fondo lėšų sąskaitą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+ 
 
 
 
@@ -1051,3 +1004,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 9, 11, 15 straipsnių pakeitimo ir Įstatymo papildymo 16 straipsniu ir priedu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 2, 4, 5, 6, 11 ir 14 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-131, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29835
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 2, 4, 5, 6, 11 ir 14 straipsnių pakeitimo įstatymo Nr. XII-2511 5 straipsnio pakeitimo įstatymas
