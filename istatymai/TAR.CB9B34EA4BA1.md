@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB9B34EA4BA1"
 
 # Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2002, i. k. 0961010ISTA00I-1494
  
@@ -137,12 +137,18 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 3. Meno kūrėjų organizacijos statusas suteikiamas asociacijai, jeigu ji atitinka visus meno kūrėjų organizacijos statuso suteikimo pagrindus:
 
 
-1) asociaciją yra įsteigę ne mažiau kaip 25 meno kūrėjai;
+1) asociaciją yra įsteigę ne mažiau kaip 25 meno kūrėjai arba ne mažiau kaip penkios meno kūrėjo statusą turinčios organizacijos;
+Straipsnio punkto pakeitimai:
+Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
+ 
 
 
 
 
-2) asociacijos nariai yra tik meno kūrėjai ar meno kūrėjo statusą turinčios organizacijos, vienijančios ne mažiau kaip 5 narius – meno kūrėjų organizacijas;
+2) asociacijos nariai yra tik meno kūrėjai ar meno kūrėjo statusą turinčios organizacijos;
+Straipsnio punkto pakeitimai:
+Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
+ 
 
 
 
@@ -175,10 +181,12 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 4 straipsnis. Meno kūrėjų organizacijos įstatai
 
 
-Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir Lietuvos Respublikos asociacijų įstatyme (toliau – Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio  1 dalyje nustatytus reikalavimus.
+Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir Lietuvos Respublikos asociacijų įstatyme (toliau – Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio 1 ir 2 dalyse nustatytus reikalavimus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
  
-
-
 
 
 
@@ -700,3 +708,8 @@ Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2001, 2015-11-10, paskelbta TAR 2015-11-18, i. k. 2015-18316
 Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 10 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
+Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 3 ir 4 straipsnių pakeitimo įstatymas
