@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8939f2090d811e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymas
 
+Suvestinė redakcija nuo 2017-01-01 iki 2019-04-30
+ 
+Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21281
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ASMENS TAPATYBĖS KORTELĖS IR PASO 
 ĮSTATYMAS
@@ -427,7 +434,10 @@ Vilnius
 
 
 
-4. Mirusio piliečio asmens tapatybės kortelė ar pasas grąžinami gyvenamosios vietos arba mirties vietos civilinės metrikacijos įstaigai ar Lietuvos Respublikos konsulinei įstaigai, o šios įstaigos asmens tapatybės kortelę ar pasą perduoda teritorinei policijos įstaigai.
+4. Mirusio piliečio asmens tapatybės kortelė ar pasas grąžinami teritorinei policijos įstaigai tiesiogiai, per Lietuvos Respublikos konsulinę įstaigą ar per sveikatos priežiūros įstaigą, nustačiusią asmens mirties faktą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2122, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19715
+ 
 
 
 
@@ -516,8 +526,6 @@ Pripažinti netekusiais galios:
 
 3) Lietuvos Respublikos paso įstatymą Nr. IX-590 su visais pakeitimais ir papildymais. 
  
- 
- 
 
 
 
@@ -532,21 +540,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 
 
 
 
+ 
 Lietuvos Respublikos 
 asmens tapatybės kortelės 
 ir paso įstatymo 
@@ -557,4 +557,16 @@ priedas
  
 
 
-1. 2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004  L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1).
+1. 2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004 L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1). 
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2122, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19715
+Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 7 straipsnio pakeitimo įstatymas
