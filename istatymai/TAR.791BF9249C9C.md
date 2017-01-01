@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -103,122 +103,201 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Neįgaliųjų sportas – organizuota laikinos arba visiškos kūno ir (ar) proto negalios žmonių sportinė veikla, kurios tikslas – stiprinti sveikatą, siekti geriausių sporto rezultatų.
+12. Manipuliavimas sporto varžybomis – tyčinis susitarimas, veikimas arba neveikimas, kuriuo bandoma pakeisti sporto varžybų eigą ar rezultatą siekiant visiškai arba iš dalies panaikinti šių sporto varžybų nenuspėjamumą ir taip sau ar kitiems suteikti nepelnytą pranašumą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-13. Olimpinė pamaina – tikslingai sudaroma sportininkų grupė, galinti ar galėsianti pakeisti šalies olimpinių rinktinių didelio meistriškumo sportininkus.
+13. Neįgaliųjų sportas – organizuota laikinos arba visiškos kūno ir (ar) proto negalios žmonių sportinė veikla, kurios tikslas – stiprinti sveikatą, siekti geriausių sporto rezultatų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-14. Rinktinė – geriausių vienos ar kelių šakų sportininkų grupė, sporto varžybose atstovaujanti sporto organizacijai, miestui, savivaldybei, apskričiai, šaliai.
+14. Olimpinė pamaina – tikslingai sudaroma sportininkų grupė, galinti ar galėsianti pakeisti šalies olimpinių rinktinių didelio meistriškumo sportininkus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-15. Sportas – visos fizinės veiklos formos, kuriomis organizuotai ar individualiai siekiama tobulinti fizinę ištvermę ir psichinę sveikatą (gerovę), formuoti socialinius santykius ar siekti rezultatų įvairaus lygio varžybose.
+15. Rinktinė – geriausių vienos ar kelių šakų sportininkų grupė, sporto varžybose atstovaujanti sporto organizacijai, miestui, savivaldybei, apskričiai, šaliai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-16. Sportas visiems – sportinė veikla, palaikanti būtiną sportuotojų fizinį aktyvumą, sudaranti sąlygas varžytis, pagal išgales siekti sporto rezultatų.
+16. Sportas – visos fizinės veiklos formos, kuriomis organizuotai ar individualiai siekiama tobulinti fizinę ištvermę ir psichinę sveikatą (gerovę), formuoti socialinius santykius ar siekti rezultatų įvairaus lygio varžybose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-17. Sportinės veiklos sutartis – sportininko profesionalo, sportininko ar trenerio ir sporto organizacijos susitarimas, kuriuo sportininkas profesionalas, sportininkas ar treneris įsipareigoja rengtis sporto varžyboms arba rengti sportininkus, dalyvauti varžybose laikantis nustatytos sporto organizacijos vidaus tvarkos, o sporto organizacija įsipareigoja mokėti atlygį už sportinę ar treniravimo veiklą ir užtikrina pasirengimo ir dalyvavimo varžyboms sąlygas ir jose dalyvauti, taip pat įsipareigoja vykdyti kitas sutartyje numatytas sąlygas.
+17. Sportas visiems – sportinė veikla, palaikanti būtiną sportuotojų fizinį aktyvumą, sudaranti sąlygas varžytis, pagal išgales siekti sporto rezultatų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-18. Sportininkas – žmogus, sistemingai besitreniruojantis, dalyvaujantis sporto varžybose, siekiantis kuo geresnių sporto rezultatų, nuosekliai didinantis savo sportinį meistriškumą.
+18. Sportinės veiklos sutartis – sportininko profesionalo, sportininko ar trenerio ir sporto organizacijos susitarimas, kuriuo sportininkas profesionalas, sportininkas ar treneris įsipareigoja rengtis sporto varžyboms arba rengti sportininkus, dalyvauti varžybose laikantis nustatytos sporto organizacijos vidaus tvarkos, o sporto organizacija įsipareigoja mokėti atlygį už sportinę ar treniravimo veiklą ir užtikrina pasirengimo ir dalyvavimo varžyboms sąlygas ir jose dalyvauti, taip pat įsipareigoja vykdyti kitas sutartyje numatytas sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-19. Sportininkas profesionalas – sportininkas, už rengimąsi varžyboms ir dalyvavimą jose gaunantis atlygį iš sporto organizacijos, su kuria jis yra sudaręs sportinės veiklos sutartį.
+19. Sportininkas – žmogus, sistemingai besitreniruojantis, dalyvaujantis sporto varžybose, siekiantis kuo geresnių sporto rezultatų, nuosekliai didinantis savo sportinį meistriškumą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-20. Sportininkų ugdymo centras – sporto mokymo įstaiga, sporto centras, specializuota vienos ar kelių sporto šakų įstaiga, kuri gali vykdyti neformalųjį vaikų bei suaugusiųjų švietimą, rengia tam tikros kvalifikacijos sportininkus ir sportuotojus, taip pat atlieka kitas steigėjų jiems priskirtas funkcijas.
+20. Sportininkas profesionalas – sportininkas, už rengimąsi varžyboms ir dalyvavimą jose gaunantis atlygį iš sporto organizacijos, su kuria jis yra sudaręs sportinės veiklos sutartį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-21. Sporto bazė – statinys, skirtas vienos ar įvairių sporto šakų pratyboms ir varžyboms rengti, sportininkų reabilitacijai, sporto specialistų kvalifikacijai kelti.
+21. Sportininkų ugdymo centras – sporto mokymo įstaiga, sporto centras, specializuota vienos ar kelių sporto šakų įstaiga, kuri gali vykdyti neformalųjį vaikų bei suaugusiųjų švietimą, rengia tam tikros kvalifikacijos sportininkus ir sportuotojus, taip pat atlieka kitas steigėjų jiems priskirtas funkcijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-22. Sporto pratybos – savarankiška sportininko arba bendra sportininkų ir trenerio veikla, planingas treniravimasis.
+22. Sporto bazė – statinys, skirtas vienos ar įvairių sporto šakų pratyboms ir varžyboms rengti, sportininkų reabilitacijai, sporto specialistų kvalifikacijai kelti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-23. Sporto renginys – kūno kultūros, sporto propagavimo, žmonių ugdymo, jų gebėjimų rodymo priemonė: sporto rungtynės, varžybos, žaidynės, šventė, konferencija, konkursas, vakaras, paroda, susitikimas.
+23. Sporto pratybos – savarankiška sportininko arba bendra sportininkų ir trenerio veikla, planingas treniravimasis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-24. Sporto rezultatas – kiekybinis sportinės veiklos rodiklis, reiškiamas pagal sporto šakų specifiką laiko, erdvės ar masės matavimo vienetais, balais, arba kokybinis rodiklis, reiškiamas pergale rungtynėse ar varžybose.
+24. Sporto renginys – kūno kultūros, sporto propagavimo, žmonių ugdymo, jų gebėjimų rodymo priemonė: sporto rungtynės, varžybos, žaidynės, šventė, konferencija, konkursas, vakaras, paroda, susitikimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-25. Sporto stovykla – tikslingas trumpalaikis sportininkų arba komandos rengimas(is) varžyboms sporto bazėje.
+25. Sporto rezultatas – kiekybinis sportinės veiklos rodiklis, reiškiamas pagal sporto šakų specifiką laiko, erdvės ar masės matavimo vienetais, balais, arba kokybinis rodiklis, reiškiamas pergale rungtynėse ar varžybose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-26. Sporto (šakos) federacija – nevyriausybinė sporto organizacija, kuri rūpinasi sporto šakos plėtra tam tikroje teritorijoje (mieste, šalyje, žemyne, pasaulyje) arba veikla, susijusia su sportu (sporto medicina, sporto žurnalistika ir kita).
+26. Sporto stovykla – tikslingas trumpalaikis sportininkų arba komandos rengimas(is) varžyboms sporto bazėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-27. Sporto varžybos – dviejų ar daugiau sportininkų, komandų, sporto klubų varžymasis pagal iš anksto paskelbtus nuostatus, laikantis tarptautinės sporto šakos federacijos nustatytų taisyklių, turint tikslą nustatyti nugalėtojus, prizininkus.
+27. Sporto (šakos) federacija – nevyriausybinė sporto organizacija, kuri rūpinasi sporto šakos plėtra tam tikroje teritorijoje (mieste, šalyje, žemyne, pasaulyje) arba veikla, susijusia su sportu (sporto medicina, sporto žurnalistika ir kita).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-28. Sportuotojas – žmogus, kuris reguliariai mankštinasi, lanko pamėgtos sporto šakos pratybas, dalyvauja varžybose, fiziniais pratimais stiprina ir palaiko savo sveikatą, fizines ir dvasines galias.
+28. Sporto varžybos – dviejų ar daugiau sportininkų, komandų, sporto klubų varžymasis pagal iš anksto paskelbtus nuostatus, laikantis tarptautinės sporto šakos federacijos nustatytų taisyklių, turint tikslą nustatyti nugalėtojus, prizininkus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-29. Strateginės sporto šakos – Kūno kultūros ir sporto departamento prie Lietuvos Respublikos Vyriausybės (toliau – Kūno kultūros ir sporto departamentas) į prioritetinių valstybės sporto šakų sąrašą įtrauktos sporto šakos.
+29. Sportuotojas – žmogus, kuris reguliariai mankštinasi, lanko pamėgtos sporto šakos pratybas, dalyvauja varžybose, fiziniais pratimais stiprina ir palaiko savo sveikatą, fizines ir dvasines galias.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-30. Tarptautinis kompleksinis renginys – sporto renginys, kuriame dalyvauja įvairių šalių ir įvairių sporto šakų atstovai (universiada, žaidynės, festivalis).
+30. Strateginės sporto šakos – Kūno kultūros ir sporto departamento prie Lietuvos Respublikos Vyriausybės (toliau – Kūno kultūros ir sporto departamentas) į prioritetinių valstybės sporto šakų sąrašą įtrauktos sporto šakos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-31. Teisėjo veiklos sutartis – teisėjo ir sporto organizacijos susitarimas, kuriuo teisėjas įsipareigoja, laikydamasis atitinkamos sporto šakos taisyklių ir (ar) varžybų nuostatų, objektyviai prižiūrėti varžybų eigą ir rezultatus, o sporto organizaciją – sudaryti sąlygas teisėjui objektyviai atlikti savo pareigas ir atlyginti už suteiktas pasaugas.
+31. Tarptautinis kompleksinis renginys – sporto renginys, kuriame dalyvauja įvairių šalių ir įvairių sporto šakų atstovai (universiada, žaidynės, festivalis).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-32. Treneris – asmuo, sporto (šakos) federacijos (nacionalinės arba tarptautinės) nustatyta tvarka įgijęs kvalifikaciją ar kvalifikacinę kategoriją, kurios nors sporto šakos specialistas, turintis teisę rengti ir rengiantis sportininkus arba komandą varžyboms.
+32. Teisėjo veiklos sutartis – teisėjo ir sporto organizacijos susitarimas, kuriuo teisėjas įsipareigoja, laikydamasis atitinkamos sporto šakos taisyklių ir (ar) varžybų nuostatų, objektyviai prižiūrėti varžybų eigą ir rezultatus, o sporto organizaciją – sudaryti sąlygas teisėjui objektyviai atlikti savo pareigas ir atlyginti už suteiktas pasaugas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-33. Universiada – pasaulinės studentų vasaros arba žiemos sporto šakų kompleksinės žaidynės.
+33. Treneris – asmuo, sporto (šakos) federacijos (nacionalinės arba tarptautinės) nustatyta tvarka įgijęs kvalifikaciją ar kvalifikacinę kategoriją, kurios nors sporto šakos specialistas, turintis teisę rengti ir rengiantis sportininkus arba komandą varžyboms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-34. Varžybų nuostatai – varžybų organizatoriaus parengtas ir patvirtintas dokumentas, kuriame nurodomas varžybų tikslas ir uždaviniai, vykdymo vieta, laikas, programa, sistema, reikalavimai varžybų dalyviams ir komandoms, nugalėtojų nustatymo būdai ir kita.
+34. Universiada – pasaulinės studentų vasaros arba žiemos sporto šakų kompleksinės žaidynės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
 
-35. Žiūrovas – asmuo, stebintis sporto renginį. Žiūrovai turi laikytis nustatytų saugumo reikalavimų.
+35. Varžybų nuostatai – varžybų organizatoriaus parengtas ir patvirtintas dokumentas, kuriame nurodomas varžybų tikslas ir uždaviniai, vykdymo vieta, laikas, programa, sistema, reikalavimai varžybų dalyviams ir komandoms, nugalėtojų nustatymo būdai ir kita.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
+
+
+
+
+36. Žiūrovas – asmuo, stebintis sporto renginį. Žiūrovai turi laikytis nustatytų saugumo reikalavimų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
  
 
 
@@ -252,7 +331,10 @@ Kūno kultūros ir sporto veikla grindžiama šiais principais:
 
 
 
-5) nešališkumo – užtikrinti, kad rezultatai nebūtų iš anksto aiškūs, ir išlaikyti konkurencinę pusiausvyrą tarp varžybose dalyvaujančių sportininkų ar komandų;
+5) manipuliavimo sporto varžybomis draudimo – apsaugoti visuomenės teisę į sąžiningas sporto varžybas ir užtikrinti sąžiningą sportininkų varžymąsi sporto varžybų metu;
+Straipsnio punkto pakeitimai:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
@@ -743,7 +825,18 @@ Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010IST
 
 
 
-6) atlieka kitas Lietuvos sporto (šakos) federacijos įstatuose nurodytas funkcijas.
+6) taiko sankcijas už dalyvavimą manipuliuojant sporto varžybomis, vykdo manipuliavimo sporto varžybomis prevenciją ir šviečiamąją veiklą šioje srityje; 
+Papildyta straipsnio punktu:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
+
+
+
+
+7) atlieka kitas Lietuvos sporto (šakos) federacijos įstatuose nurodytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
@@ -1153,7 +1246,17 @@ SPORTININKŲ TEISĖS IR PAREIGOS
 
 
 
-6) varžytis garbingai, laikytis visuotinai priimtinų elgesio taisyklių, nediskredituoti šalies, federacijos, sporto organizacijos vardo.
+6) nedalyvauti manipuliuojant sporto varžybomis; 
+Papildyta straipsnio punktu:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
+
+
+
+
+7) varžytis garbingai, laikytis visuotinai priimtinų elgesio taisyklių, nediskredituoti šalies, federacijos, sporto organizacijos vardo.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
  
 
 
@@ -1568,7 +1671,15 @@ Nr. XII-699, 2013-12-19, Žin., 2013, Nr. 140-7072 (2013-12-30); paskelbta TAR 2
 
 
 
-5) sportininkas buvo diskvalifikuotas dėl dopingo preparatų vartojimo ar sporto organizacijų uždraustų metodų taikymo ir jo sportiniai rezultatai, numatyti šio straipsnio 1 dalyje, buvo anuliuoti.
+5) sportininkas buvo diskvalifikuotas dėl dopingo preparatų vartojimo ar sporto organizacijų uždraustų metodų taikymo ir jo sportiniai rezultatai, numatyti šio straipsnio 1 dalyje, buvo anuliuoti;
+
+
+
+
+6) sportininkas buvo diskvalifikuotas dėl dalyvavimo manipuliuojant sporto varžybomis ir jo sportiniai rezultatai, numatyti šio straipsnio 1 dalyje, buvo anuliuoti.
+Papildyta straipsnio punktu:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
 
 
 
@@ -1776,6 +1887,24 @@ Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010IST
 
 
 
+461 straipsnis. Draudimas dalyvauti manipuliuojant sporto varžybomis
+
+
+1. Asmenims draudžiama dalyvauti manipuliuojant sporto varžybomis.
+
+
+
+
+2. Asmenims, dalyvavusiems manipuliuojant sporto varžybomis, taikomos tarptautinių ir Lietuvos sporto organizacijų numatytos sankcijos. 
+
+
+Papildyta straipsniu:
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+ 
+
+
+
+
 47 straipsnis. Sporto varžybų transliacija per televiziją
 
 
@@ -1922,3 +2051,8 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1722, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08065
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 41 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
