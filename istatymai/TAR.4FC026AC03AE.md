@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -2289,30 +2289,27 @@ PAREIGŪNŲ DARBO LAIKAS IR ATOSTOGOS
 37 straipsnis. Pareigūnų darbo laikas
 
 
-1. Pareigūnų darbo laiko trukmė negali būti ilgesnė kaip 40 valandų per savaitę (7 dienų laikotarpį).
+1. Pareigūnų darbo laiko trukmė yra 40 valandų per savaitę (7 dienų laikotarpį). 
 
 
 
 
-2. Vidaus reikalų įstaigos vadovas gali šio statuto 38 straipsnyje nurodytais atvejais pavesti pareigūnui dirbti iki 8 valandų viršvalandžių per savaitę. 
+2. Vidaus reikalų įstaigos vadovas ar jo įgalioti asmenys gali šio statuto 38 straipsnyje nurodytais atvejais pavesti pareigūnui dirbti iki 8 valandų viršvalandžių per savaitę (7 dienų laikotarpį), o jeigu pareigūnas sutinka, – iki 24 valandų viršvalandžių per savaitę (7 dienų laikotarpį). Šioje dalyje nurodyti pareigūno dirbti viršvalandžiai per kalendorinius metus negali viršyti 250 valandų.
 
 
 
 
-3. Maksimalus darbo laikas per savaitę, įskaitant viršvalandžius, negali viršyti 48 valandų. Viršvalandžiai per metus negali viršyti 180 valandų. 
+3. Tam tikras pareigas einantiems pareigūnams, dirbantiems ne ilgesnėmis kaip 24 valandų trukmės pamainomis, gali būti taikoma suminė darbo laiko apskaita. Šių pareigūnų pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos, vidutinis darbo laikas per savaitę (7 dienų laikotarpį), įskaitant viršvalandžius, neturi viršyti 48 valandų, o nepertraukiamo poilsio tarp darbo dienų (pamainų) laikas, kai pamaina ilgesnė kaip 12 valandų, privalo būti ne trumpesnis kaip iki nepertraukiamo poilsio buvusios pamainos kartu su viršvalandžiais trukmė. Suminės darbo laiko apskaitos laikotarpio trukmė negali būti ilgesnė negu 4 mėnesiai. Šioje dalyje nurodytų pareigūnų pareigybių sąrašą tvirtina vidaus reikalų centrinės įstaigos vadovas.
 
 
 
 
-4. Nustatytas funkcijas nepertraukiamai atliekantiems tam tikras pareigas einantiems pareigūnams, dirbantiems ne ilgesnėmis kaip 24 valandų trukmės pamainomis, gali būti taikoma suminė darbo laiko apskaita. Šių pareigūnų vidutinis darbo laikas per 7 dienų laikotarpį, įskaitant viršvalandžius, neturi viršyti 48 valandų, o nepertraukiamo poilsio tarp darbo dienų laikas privalo būti ne trumpesnis kaip 24 valandos. Suminės darbo laiko apskaitos laikotarpio trukmė negali būti ilgesnė negu 4 mėnesiai. Šioje dalyje nurodytų pareigūnų pareigybių sąrašą tvirtina vidaus reikalų centrinės įstaigos vadovas.
+4. Į darbo laiką įskaičiuojamas laikas, skirtas pareigūnams instruktuoti, apginkluoti ar pamainai perduoti (priimti).
 
 
-
-
-5. Į darbo laiką įskaičiuojamas laikas, skirtas pareigūnams instruktuoti, apginkluoti ar pamainai perduoti (priimti).
+Straipsnio pakeitimai:
+Nr. XII-2739, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26512
  
-
-
 
 
 
@@ -2609,72 +2606,6 @@ PAREIGŪNŲ DARBO UŽMOKESTIS IR KITOS IŠMOKOS
 45 straipsnis. Pareigūnų pareiginės algos priedų už turimus laipsnius koeficientai
 
 
-Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 straipsnyje nurodytus laipsnius apskaičiavimo pagal pareiginės algos bazinį dydį (toliau – bazinis dydis) koeficientai:
-
-
-1) grandiniui, jaunesniajam policininkui – 0,1 bazinio dydžio;
-
-
-
-
-2) jaunesniajam puskarininkiui, policininkui – 0,15 bazinio dydžio;
-
-
-
-
-3) puskarininkiui, vyresniajam policininkui – 0,2 bazinio dydžio;
-
-
-
-
-4) vyresniajam puskarininkiui, viršilai – 0,3 bazinio dydžio;
-
-
-
-
-5) leitenantui, inspektoriui – 0,4 bazinio dydžio;
-
-
-
-
-6) vyresniajam leitenantui, vyresniajam inspektoriui – 0,5 bazinio dydžio;
-
-
-
-
-7) kapitonui, komisarui inspektoriui – 0,6 bazinio dydžio;
-
-
-
-
-8) majorui, komisarui – 0,7 bazinio dydžio;
-
-
-
-
-9) pulkininkui leitenantui, vyresniajam komisarui – 0,8 bazinio dydžio;
-
-
-
-
-10) pulkininkui, vyriausiajam komisarui – 0,9 bazinio dydžio;
-
-
-
-
-11) generolui, generaliniam komisarui – 1,0 bazinio dydžio. 
-45 straipsnio redakcija nuo 2017-01-01 iki 2017-12-31:
-
-
-
-
-
-
-
-
-45 straipsnis. Pareigūnų pareiginės algos priedų už turimus laipsnius koeficientai
-
-
 Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 straipsnyje nurodytus laipsnius apskaičiavimo pagal pareiginės algos bazinį dydį koeficientai:
 
 
@@ -2891,14 +2822,33 @@ Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 strai
 
 
 
-3) už darbą, kuris tiesiogiai susijęs su tarnybinių gyvūnų priežiūra ir parengimu tarnybinėms užduotims atlikti.
+3) už darbą, kuris tiesiogiai susijęs su tarnybinių gyvūnų priežiūra ir parengimu tarnybinėms užduotims atlikti;
+
+
+
+
+4) už darbą, kuris tiesiogiai susijęs su saugomų asmenų fizine apsauga; 
+Papildyta straipsnio punktu:
+Nr. XII-2739, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26512
+ 
+
+
+
+
+5) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės. 
+Papildyta straipsnio punktu:
+Nr. XII-2739, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26512
+ 
 
 
 
 
 
 
-2. Priemokos dydį nustato pareigūną į pareigas paskyręs asmuo. Šio straipsnio 1 dalies 1 punkte nurodyta priemoka negali viršyti 30 procentų pareiginės algos, o 1 dalies 2 ir 3 punktuose nurodytos priemokos negali viršyti 20 procentų pareiginės algos.
+2. Priemokos dydį nustato pareigūną į pareigas paskyręs asmuo. Šio straipsnio 1 dalies 1 ir 5 punktuose nurodytos priemokos negali viršyti 50 procentų pareiginės algos, o 1 dalies 2, 3 ir 4 punktuose nurodytos priemokos negali viršyti 20 procentų pareiginės algos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2739, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26512
+ 
 
 
 
@@ -3266,47 +3216,35 @@ Pareigūnai specialių tarnybinių užduočių, susijusių su apribojimu palikti
 
 
 
-57 straipsnis. Pareigūnų ir kursantų draudimas ir pareigūnų pensijos 
+57 straipsnis. Pareigūnų ir kursantų draudimas ir pareigūnų pensijos
 
 
-1. Pareigūnai draudžiami visų Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nurodytų rūšių socialiniu draudimu. Draudimo tvarką ir sąlygas nustato atskiras socialinio draudimo rūšis reglamentuojantys teisės aktai. Pareigūnų draudimo nuo nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos ypatumus nustato Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2096, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19290
+1. Pareigūnai draudžiami visų Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nurodytų rūšių socialiniu draudimu. Draudimo tvarką ir sąlygas nustato atskiras socialinio draudimo rūšis reglamentuojantys teisės aktai. 
+
+
+
+
+2. Kursantai Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nustatyta tvarka draudžiami nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
+
+
+
+
+3. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos, taip pat nelaimingų atsitikimų profesinio ar įvadinio mokymo metu bei profesinių ligų tyrimo ir apskaitos tvarką nustato vidaus reikalų ministras.
+
+
+
+
+4. Pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos), iš vidaus reikalų įstaigos, kurioje tarnauja pareigūnas, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.
+
+
+
+
+5. Pareigūnai įgyja teisę gauti pareigūnų ir karių valstybinę pensiją šios pensijos skyrimą reglamentuojančiuose teisės aktuose nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2509, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20646
  
-
-
-
-
-2. Kursantų sveikata ir gyvybė visam jų profesinio ar įvadinio mokymo laikotarpiui valstybės biudžeto lėšomis privalomai draudžiama nuo nelaimingų atsitikimų profesinio ar įvadinio mokymo metu. Kursantams viso jų profesinio ar įvadinio mokymo laikotarpiu nelaimingų atsitikimų atvejais mokama išmoka, kuri lygi draudžiamojo įvykio mėnesį buvusiai Vyriausybės nustatytai minimaliajai mėnesinei algai, padaugintai iš 12.
-
-
-
-
-3. Šio straipsnio 2 dalyje nurodytų įvykių pripažinimo draudžiamaisiais įvykiais tvarką, draudimo išmokų dydžio nustatymo ir mokėjimo tvarką nustato Vyriausybė. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos, taip pat nelaimingų atsitikimų profesinio ar įvadinio mokymo metu tyrimo ir apskaitos tvarką nustato vidaus reikalų ministras. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2096, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19290
- 
-
-
-
-
-4. Šio straipsnio 2 dalyje nurodytos išmokos nemokamos šio statuto 50 straipsnio 7 dalyje nustatytais atvejais.
-
-
-
-
-5. Pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje, nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos), iš vidaus reikalų įstaigos, kurioje tarnauja pareigūnas, lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.
-Straipsnio dalies pakeitimai:
-Nr. XII-2096, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19290
- 
-
-
-
-
-6. Pareigūnai įgyja teisę gauti pareigūnų ir karių valstybinę pensiją šios pensijos skyrimą reglamentuojančiuose teisės aktuose nustatyta tvarka.
- 
-
-
 
 
 
@@ -4628,3 +4566,13 @@ Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2096, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19290
 Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XII-1855 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2509, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20646
+Lietuvos Respublikos vidaus tarnybos statuto 57 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2739, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26512
+Lietuvos Respublikos vidaus tarnybos statuto 37 ir 47 straipsnių pakeitimo įstatymas
