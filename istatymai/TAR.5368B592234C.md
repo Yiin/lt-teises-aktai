@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-07-15
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -1836,7 +1836,10 @@ Valstybinė duomenų apsaugos inspekcija turi teisę:
 
 
 
-6) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus;
+6) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus;
+Straipsnio punkto pakeitimai:
+Nr. XII-2709, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26494
+ 
 
 
 
@@ -2290,3 +2293,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 15 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2103, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19490
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 36 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2709, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26494
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 41 straipsnio pakeitimo įstatymas
