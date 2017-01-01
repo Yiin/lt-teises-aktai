@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2016-11-18 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-06-14
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -3488,7 +3488,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Priežiūros institucija turi teisę skirti Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatytas nuobaudas valdymo įmonės vadovams ir kitiems tiesiogiai už teisės aktuose nustatytų reikalavimų vykdymą atsakingiems asmenims.
+2. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2452, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17720
+ 
 
 
 
@@ -3506,7 +3509,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-3) skirti Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatytas nuobaudas valdymo įmonės vadovams ir kitiems tiesiogiai už teisės aktuose nustatytų reikalavimų vykdymą atsakingiems asmenims.
+3) Neteko galios nuo 2017-01-01
+Straipsnio punkto naikinimas:
+Nr. XII-2452, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17720
+ 
 
 
 
