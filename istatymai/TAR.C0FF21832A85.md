@@ -13,16 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
-Nauja redakcija nuo 2001-01-01:
-Nr. VIII-1811, 2000-07-11, Žin. 2000, Nr. 61-1818 (2000-07-26), i. k. 1001010ISTAIII-1811
+Nauja redakcija nuo 2017-01-01:
+Nr. XII-2202, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21003
  
-LIETUVOS RESPUBLIKOS
-LABDAROS IR PARAMOS 
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS  LABDAROS IR PARAMOS  ĮSTATYMAS
  
 1993 m. birželio 4 d. Nr. I-172
 Vilnius
@@ -32,30 +30,33 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jos teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos tiekėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis.
+1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jų teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos tiekėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis.
 
 
 
 
 2. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios negu šio įstatymo ir kitų Lietuvos Respublikos įstatymų normos, taikomos Lietuvos Respublikos tarptautinių sutarčių normos.
-
-
-Straipsnio pakeitimai:
-Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
  
 
 
 
 
-2 straipsnis. Labdaros ir paramos samprata
 
 
-1. Labdara yra labdaros teikėjų savanoriškas ir neatlygintinas labdaros dalykų teikimas šiame įstatyme nurodytiems labdaros gavėjams šio įstatymo nustatytais tikslais ir būdais. 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Labdara – labdaros teikėjų savanoriškas ir neatlygintinas labdaros dalykų teikimas šiame įstatyme nurodytiems labdaros gavėjams šio įstatymo nustatytais tikslais ir būdais. 
 
 
 
 
-2. Parama yra paramos teikėjų savanoriškas ir neatlygintinas, išskyrus pagal šio įstatymo 8 straipsnio leidžiamus gavėjo įsipareigojimus, paramos dalykų teikimas šiame įstatyme nurodytiems paramos gavėjams šio įstatymo nustatytais tikslais ir būdais, įskaitant tuos atvejus, kai paramos dalykai perduodami anonimiškai ar kitu būdu, kai negalima nustatyti konkretaus paramos teikėjo.
+2. Parama – paramos teikėjų savanoriškas ir neatlygintinas, išskyrus pagal šio įstatymo 8 straipsnį leidžiamus gavėjo įsipareigojimus, paramos dalykų teikimas šiame įstatyme nurodytiems paramos gavėjams šio įstatymo nustatytais tikslais ir būdais, įskaitant tuos atvejus, kai paramos dalykai perduodami anonimiškai ar kitu būdu, kai negalima nustatyti konkretaus paramos teikėjo.
+
+
+
+
+3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme ir Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatyme.
  
 
 
@@ -66,24 +67,17 @@ Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA
 3 straipsnis. Labdaros ir paramos tikslai
 
 
-1. Labdaros tikslas – šiame įstatyme nurodytų labdaros gavėjų minimalių socialiai priimtinų poreikių tenkinimas, sveikatos priežiūros užtikrinimas, pagalba likviduojant karo ir gaivalines nelaimes, gaisrus, ekologines katastrofas, užkrečiamųjų ligų protrūkius ir epidemijų padarinius. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
- 
+1. Labdaros tikslas – šiame įstatyme nurodytų labdaros gavėjų minimalių socialiai priimtinų poreikių tenkinimas, sveikatos priežiūros užtikrinimas, pagalba likviduojant karo ir gaivalines nelaimes, gaisrus, ekologines katastrofas, užkrečiamųjų ligų protrūkius ir epidemijų padarinius.
 
 
 
 
-2. Paramos tikslas – teikti paramos dalykus šiame įstatyme nurodytiems paramos gavėjams jų įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams.
-Straipsnio dalies pakeitimai:
-Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
- 
+2. Paramos tikslas – teikti paramos dalykus šiame įstatyme nurodytiems paramos gavėjams jų įstatuose, nuostatuose ar kitose normose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams.
 
 
 
 
-3. Visuomenei naudingais tikslais šiame įstatyme laikoma veikla tarptautinio bendradarbiavimo, žmogaus teisių apsaugos, mažumų integracijos, kultūros, religinių ir etinių vertybių puoselėjimo, švietimo, mokslo ir profesinio tobulinimo, neformalaus ir pilietinio ugdymo, sporto, socialinės apsaugos ir darbo, sveikatos priežiūros, nacionalinio saugumo ir gynybos, teisėtvarkos, nusikalstamumo prevencijos, gyvenamosios aplinkos pritaikymo ir būsto plėtros, autorių teisių ir gretutinių teisių apsaugos, aplinkos apsaugos ir kitose visuomenei naudingomis ir nesavanaudiškomis pripažįstamose srityse.
+3. Visuomenei naudingais tikslais šiame įstatyme laikoma veikla tarptautinio bendradarbiavimo, žmogaus teisių apsaugos, mažumų integracijos, kultūros, religinių ir etinių vertybių puoselėjimo, švietimo, mokslo ir profesinio tobulinimo, neformaliojo ir pilietinio ugdymo, sporto, socialinės apsaugos ir darbo, sveikatos priežiūros, nacionalinio saugumo ir gynybos, teisėtvarkos, nusikalstamumo prevencijos, gyvenamosios aplinkos pritaikymo ir būsto plėtros, autorių teisių ir gretutinių teisių apsaugos, aplinkos apsaugos ir kitose visuomenei naudingomis ir nesavanaudiškomis pripažįstamose srityse.
  
 
 
@@ -94,7 +88,7 @@ Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010IST
 4 straipsnis. Labdaros ir paramos dalykai
 
 
-1. Labdaros ir paramos dalykai yra labdaros ir paramos teikėjo:
+1. Labdaros dalykai yra:
 
 
 1) piniginės lėšos;
@@ -114,10 +108,37 @@ Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010IST
 
 
 
-2. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, taip pat tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai.
-Straipsnio dalies pakeitimai:
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
-Nr. XII-2027, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18619
+2. Paramos gavėjams – juridiniams asmenims teikiamos paramos dalykai yra: 
+
+
+1) piniginės lėšos;
+
+
+
+
+2) piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+
+
+
+
+3) bet koks kitas turtas, įskaitant pagamintas ar įsigytas prekes;
+
+
+
+
+4) suteiktos paslaugos.
+
+
+
+
+
+
+3. Paramos gavėjams – fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, teikiamos paramos dalykas yra piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos. 
+
+
+
+
+4. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, taip pat tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai, taip pat nuolatinio Lietuvos gyventojo pačiam sau skiriamos piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
  
 
 
@@ -128,11 +149,7 @@ Nr. XII-2027, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18619
 5 straipsnis. Labdaros ir paramos teikėjai
 
 
-1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų, ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) bei suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
-Straipsnio dalies pakeitimai:
-Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
- 
+1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) ir suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
 
 
 
@@ -140,18 +157,45 @@ Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X
 2. Parama pagal šį įstatymą pripažįstama, jeigu ją teikia:
 
 
-1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines partijas, politines organizacijas, valstybės ir savivaldybės įmones, biudžetines įstaigas, valstybės bei savivaldybių institucijas ir Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Finansų ministerija, arba pagal sutartis su valstybės garantija;
-Straipsnio punkto pakeitimai:
-Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010ISTA0IX-1519
- 
+1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines partijas, politines organizacijas, valstybės ir savivaldybių įmones, biudžetines įstaigas, valstybės ir savivaldybių institucijas bei Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija), arba pagal sutartis su valstybės garantija;
 
 
 
 
 2) užsienio valstybės, užsienio valstybių fiziniai ir juridiniai asmenys, tarptautinės organizacijos.
+
+
+
+
+
+
+3. Parama pagal šį įstatymą nepripažįstama, jeigu ji teikiama įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, tais atvejais, kai ji teikiama šios įmonės dalyviui, kitiems juridiniams asmenims, kuriuose šios įmonės dalyvis turi įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią teisę kontroliuoti juridinio asmens veiklą, arba juridiniams asmenims, kurie yra susiję su šios įmonės dalyviu, išskyrus visus atvejus, kai parama teikiama juridiniams asmenims, kurių veikla yra bibliotekų, archyvų, muziejų ir kita kultūrinė veikla, švietimas, sportas, socialinių paslaugų gyventojams teikimas arba visuomenės sveikatos priežiūra. 
+Papildyta straipsnio dalimi:
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
+
+
+4. Šio straipsnio 3 dalyje nurodytais su įmonės dalyviu susijusiais juridiniais asmenimis laikomi:
+
+
+1) juridiniai asmenys, kuriuose tas pats dalyvis turi 1/3 ar daugiau įstatinio kapitalo arba turi teises į 1/3 ar daugiau visų balsų;
+
+
+
+
+2) juridiniai asmenys, kurie su dalyviu yra bendrai valdomi ar turi bendrą administracinį padalinį arba kurių valdymo ar priežiūros organe yra pusė ar daugiau tų pačių narių kaip ir dalyvio valdymo ar priežiūros organuose;
+
+
+
+
+3) juridiniai asmenys, su kuriais yra įsipareigojęs derinti savo veiklos sprendimus dalyvis arba už kurių prievolių tretiesiems asmenims įvykdymą yra įsipareigojęs atsakyti dalyvis, arba kurie yra įsipareigoję perduoti visą arba dalį pelno ar suteikę teisę naudoti 1/3 ar daugiau savo turto dalyviui.
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
+ 
 
 
 
@@ -165,9 +209,6 @@ Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010IST
 
 
 1) neįgalieji;
-Straipsnio punkto pakeitimai:
-Nr. XII-1159, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13593
- 
 
 
 
@@ -238,32 +279,24 @@ Nr. XII-1159, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13593
 
 
 
-4) Neteko galios nuo 2006-01-12
-Straipsnio punkto naikinimas:
-Nr. X-461, 2005-12-20, Žin. 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
- 
+4) viešosios įstaigos;
 
 
 
 
-5) viešosios įstaigos;
+5) religinės bendruomenės, bendrijos ir religiniai centrai;
 
 
 
 
-6) religinės bendruomenės, bendrijos ir religiniai centrai;
+6) tarptautinių visuomeninių organizacijų skyriai (padaliniai);
 
 
 
 
-7) tarptautinių visuomeninių organizacijų skyriai (padaliniai);
-
-
-
-
-8) kiti juridiniai asmenys, kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams.
+7) kiti juridiniai asmenys (išskyrus politines partijas), kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams.
 Straipsnio punkto pakeitimai:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
@@ -271,24 +304,22 @@ Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti juridiniai asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą.
-TAR pastaba. Straipsnio dalis (reikalavimas paramos gavėjui turėti paramos gavėjo statusą) įsigalioja po 6 mėnesių nuo juridinių asmenų registro veiklos pradžios 2004-07-02. Iki šio įstatymo 7 straipsnio 2 dalies įsigaliojimo visi šio įstatymo 7 straipsnio 1 dalyje nurodyti juridiniai asmenys yra paramos gavėjai ir turi teisę ją gauti.
- 
+2. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 3 dalyje, gavėjais gali būti fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas.
 
 
 
 
-3. Paramos gavėjais gali būti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše nurodytos užsienyje įsteigtos lietuvių bendruomenės ir kitos lietuviškos įstaigos ar organizacijos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
- 
+3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą.
 
 
 
 
-4. Parama pagal šį įstatymą pripažįstama ir tais atvejais, kai ji teikiama Europos ekonominės erdvės valstybėse įsteigtiems juridiniams asmenims ar kitoms organizacijoms, kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams. Paramos teikėjas Valstybinei mokesčių inspekcijai pateikia Vyriausybės įgaliotos institucijos nustatytus dokumentus, įrodančius, kad jo parama teikiama šių juridinių asmenų ar kitų organizacijų veiklos dokumentuose numatytiems visuomenei naudingiems tikslams, nurodytiems šio įstatymo 3 straipsnio 3 dalyje. Vyriausybės įgaliota institucija nustato šių dokumentų pateikimo Valstybinei mokesčių inspekcijai tvarką. Šios dalies nuostatos šio straipsnio 3 dalyje nurodytiems juridiniams asmenims ar organizacijoms netaikomos.
-Papildyta straipsnio dalimi:
-Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
+4. Paramos gavėjais gali būti Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos patvirtintame sąraše nurodytos užsienyje įsteigtos lietuvių bendruomenės ir kitos lietuviškos įstaigos ar organizacijos.
+
+
+
+
+5. Parama pagal šį įstatymą pripažįstama ir tais atvejais, kai ji teikiama Europos ekonominės erdvės valstybėse įsteigtiems juridiniams asmenims ar kitoms organizacijoms, kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams. Paramos teikėjas Valstybinei mokesčių inspekcijai pateikia Vyriausybės įgaliotos institucijos nustatytus dokumentus, įrodančius, kad jo parama teikiama šių juridinių asmenų ar kitų organizacijų veiklos dokumentuose numatytiems visuomenei naudingiems tikslams, nurodytiems šio įstatymo 3 straipsnio 3 dalyje. Vyriausybės įgaliota institucija nustato šių dokumentų pateikimo Valstybinei mokesčių inspekcijai tvarką. Šios dalies nuostatos netaikomos šio straipsnio 4 dalyje nurodytiems juridiniams asmenims ar organizacijoms.
  
 
 
@@ -337,9 +368,12 @@ Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
 5. Paramos gavėjo prisiimami įsipareigojimai paramos teikėjui turi būti nurodyti sutartyje, kuria įforminamas paramos teikimas.
 
 
-Straipsnio pakeitimai:
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
+
+
+6. Šio straipsnio nuostatos netaikomos fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas.
  
+
+
 
 
 
@@ -347,7 +381,42 @@ Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010IST
 9 straipsnis. Labdaros ir paramos teikimo būdai
 
 
-Labdara ir parama teikiama:
+1. Juridiniams asmenims parama teikiama:
+
+
+1) neatlygintinai perduodant pinigines lėšas ar bet kokį kitą turtą (įskaitant pagamintas arba įsigytas prekes), suteikiant paslaugas;
+
+
+
+
+2) skiriant iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+
+
+
+
+3) suteikiant turtą naudotis panaudos teise;
+
+
+
+
+4) testamentu paliekant bet kokį turtą;
+
+
+
+
+5) kitais būdais, kurių nedraudžia Lietuvos Respublikos įstatymai ir tarptautinės sutartys.
+
+
+
+
+
+
+2. Fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, parama teikiama skiriant iki 2 procentų gyventojo metinės pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos nuolatinio Lietuvos gyventojo pajamų mokesčio sumos.
+
+
+
+
+3. Labdara teikiama:
 
 
 1) neatlygintinai perduodant pinigines lėšas ar bet kokį kitą turtą (įskaitant pagamintas arba įsigytas prekes), suteikiant paslaugas;
@@ -365,7 +434,7 @@ Labdara ir parama teikiama:
 
 
 
-4) kitais būdais, kurių nedraudžia Lietuvos Respublikos įstatymai bei tarptautinės sutartys.
+4) kitais būdais, kurių nedraudžia Lietuvos Respublikos įstatymai ir tarptautinės sutartys.
  
 
 
@@ -378,148 +447,102 @@ Labdara ir parama teikiama:
 10 straipsnis. Paramos panaudojimas
 
 
-1. Paramos gavėjai pagal šį įstatymą gautą paramą gali naudoti savo įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą). 
+1. Paramos gavėjai pagal šį įstatymą gautą paramą gali naudoti:
+
+
+1) fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, – meno kūrybai, kaip tai apibrėžta Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo 2 straipsnio 3 dalyje;
+
+
+
+
+2) juridiniai asmenys – jų įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą).
+
+
+
+
+
+
+2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. 
 Straipsnio dalies pakeitimai:
-Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
 
 
-2. Pagal šį įstatymą kaip parama gautos lėšos ir kitas turtas negali būti:
-
-
-1) naudojami politinėms partijoms ar politinėms kampanijoms finansuoti bei politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti;
-
-
-
-
-2) perduodami kaip įnašas juridiniam asmeniui, kurio dalyvis yra paramos gavėjas.
-
-
-
-
-3. Lėšų perdavimas labdaros ir paramos fondui neliečiamajam kapitalui formuoti, neliečiamojo kapitalo valdymas ir iš neliečiamojo kapitalo investavimo gautų pajamų panaudojimas Labdaros ir paramos fondų įstatymo nustatyta tvarka labdaros ir paramos fondo įstatuose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams laikomas paramos panaudojimu pagal šiame įstatyme nustatytą paramos paskirtį.
+3. Pagal šį įstatymą kaip parama gautos lėšos ir kitas turtas negali būti perduodami kaip įnašas juridiniam asmeniui, kurio dalyvis yra paramos gavėjas. 
 Papildyta straipsnio dalimi:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
 
 
-
-
-11 straipsnis. Labdaros ir paramos teikėjų ir gavėjų apmokestinimas
-
-
-Labdaros ir paramos teikėjų ir gavėjų apmokestinimą Lietuvos Respublikoje nustato mokesčių įstatymai.
-
-
-Straipsnio pakeitimai:
-Nr. IX-2190, 2004-04-27, Žin., 2004, Nr. 73-2524 (2004-04-30), i. k. 1041010ISTA0IX-2190
+4. Lėšų perdavimas labdaros ir paramos fondui neliečiamajam kapitalui formuoti, neliečiamojo kapitalo valdymas ir iš neliečiamojo kapitalo investavimo gautų pajamų panaudojimas Lietuvos Respublikos labdaros ir paramos fondų įstatymo nustatyta tvarka labdaros ir paramos fondo įstatuose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams laikomas paramos panaudojimu pagal šiame įstatyme nustatytą paramos paskirtį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
 
 
-12 straipsnis. Labdaros ir paramos apskaita
 
 
-1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie suteiktą paramą. Mėnesio ataskaita teikiama tais atvejais, kai nuo kalendorinių metų pradžios vienam paramos gavėjui suteiktos paramos suma viršija 15 000 eurų. 
-Straipsnio dalies pakeitimai:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
-Nr. XII-1135, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13607
+11 straipsnis. Labdaros ir paramos apskaita ir viešinimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
-
-
-2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, išskyrus šeimynas, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jei parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, t. y. įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie gautą paramą ir jos panaudojimą, apie pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Juridiniai asmenys mėnesio ataskaitą teikia tais atvejais, kai nuo kalendorinių metų pradžios iš vieno paramos teikėjo gautos paramos arba šių juridinių asmenų vienam paramos ir (arba) labdaros gavėjui suteiktos paramos ir (arba) labdaros suma viršija 15 000 eurų. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
-Straipsnio dalies pakeitimai:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
-Nr. XII-1135, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13607
- 
+1. Paramos teikėjai, išskyrus fizinius asmenis ir asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie suteiktą paramą. Mėnesio ataskaita teikiama tais atvejais, kai nuo kalendorinių metų pradžios vienam paramos gavėjui suteiktos paramos suma viršija 15 000 eurų. 
 
 
 
 
-3. Valstybinė mokesčių inspekcija šio straipsnio 1 ir 2 dalyse nurodytose ataskaitose pateiktą informaciją Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui.
-Straipsnio dalies pakeitimai:
-Nr. XI-1093, 2010-11-04, Žin., 2010, Nr. 137-6994 (2010-11-23), i. k. 1101010ISTA0XI-1093
- 
+2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, išskyrus šeimynas, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jeigu parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, tai yra įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) ir jų pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) bei Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie gautą paramą ir jos panaudojimą, apie jų pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Juridiniai asmenys mėnesio ataskaitą teikia tais atvejais, kai nuo kalendorinių metų pradžios iš vieno paramos teikėjo gautos paramos arba šių juridinių asmenų vienam paramos ir (arba) labdaros gavėjui suteiktos paramos ir (arba) labdaros suma viršija 15 000 eurų. Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
 
 
 
 
-4. Religinės bendruomenės, bendrijos ir centrai pagal šį įstatymą gaunamos paramos apskaitą bei pačių teikiamos paramos ir (arba) labdaros apskaitą tvarko pagal savo kanonus, statutus ir kitas normas. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi teisę teikiamose ataskaitose neatsiskaityti už anonimiškai gautą paramą ir jos panaudojimą, o jeigu per ataskaitinį laikotarpį gauta ir panaudota vien tokia parama – iš viso nepateikti to laikotarpio ataskaitos. Tradicinėms Lietuvos religinėms bendruomenėms, bendrijoms ir centrams, per kalendorinius metus gavusiems paramą vien anonimiškai, netaikomi šio straipsnio 3 dalies reikalavimai dėl metinių ataskaitų pateikimo.
+3. Fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas ir kurie pagal šį įstatymą turi teisę gauti paramą, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos vertę ir kaip ši parama buvo panaudota) ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie gautą paramą ir jos panaudojimą.
+
+
+
+
+4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir 3 dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui.
+
+
+
+
+5. Religinės bendruomenės, bendrijos ir centrai pagal šį įstatymą gaunamos paramos apskaitą bei pačių teikiamos paramos ir (arba) labdaros apskaitą tvarko pagal savo kanonus, statutus ir kitas normas. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi teisę teikiamose ataskaitose neatsiskaityti už anonimiškai gautą paramą ir jos panaudojimą, o jeigu per ataskaitinį laikotarpį gauta ir panaudota vien tokia parama, – iš viso nepateikti to laikotarpio ataskaitos. Tradicinėms Lietuvos religinėms bendruomenėms, bendrijoms ir centrams, per kalendorinius metus gavusiems paramą vien anonimiškai, netaikomi šio straipsnio 4 dalyje nustatyti reikalavimai dėl metinių ataskaitų pateikimo.
+
+
+
+
+6. Paramą pagal šį įstatymą teikiančios įmonės, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, apie suteiktą paramą (paramos gavėją (gavėjus), paramos tikslą, paramos sumą, paramos teikimo laikotarpį) ne vėliau kaip per vieną mėnesį nuo paramos suteikimo privalo paskelbti savo interneto svetainėje. Tais atvejais, kai paramos teikimas yra tęstinis, informacija apie teikiamą paramą turi būti atnaujinama ne vėliau kaip per vieną mėnesį po atitinkamos paramos dalies suteikimo.
 Papildyta straipsnio dalimi:
-Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
  
 
 
 
 
-13 straipsnis. Labdaros ir paramos kontrolė
+
+
+12 straipsnis. Labdaros ir paramos kontrolė
 
 
 1. Valstybinė mokesčių inspekcija kontroliuoja labdaros ir paramos teikimą, gavimą ir naudojimą.
-Straipsnio dalies pakeitimai:
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
- 
 
 
 
 
-2. Kitos valstybės ir savivaldybių institucijos bei įstaigos kontroliuoja labdaros ir paramos teikimą, gavimą ir naudojimą pagal savo kompetenciją, jeigu tai numato įstatymai ir kiti teisės aktai.
+2. Kitos valstybės ir savivaldybių institucijos bei įstaigos kontroliuoja labdaros ir paramos teikimą, gavimą ir naudojimą pagal savo kompetenciją, jeigu tai numatyta įstatymuose.
 
 
 
 
-3. Nustačiusios labdaros ir paramos teikimo, gavimo arba naudojimo pažeidimus, kontrolės institucijos (valstybinė mokesčių inspekcija ir (arba) muitinė) panaikina mokesčių lengvatas ir taiko įstatymų nustatytas sankcijas. 
- 
-
-
-
-
-
-
-14 straipsnis. Neteko galios nuo 2013-01-01
-Straipsnio naikinimas:
-Nr. XI-2077, 2012-06-19, Žin. 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
- 
-
-
-
-
-15 straipsnis. Paramos gavėjo statusas
-
-
-1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu šių asmenų įstatuose (nuostatuose) numatyta:
-
-
-1) šio įstatymo 3 straipsnio 3 dalyje nurodyta visuomenei naudinga veikla; 
-Straipsnio punkto pakeitimai:
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
- 
-
-
-
-
-2) Neteko galios nuo 2006-01-12
-Straipsnio punkto naikinimas:
-Nr. X-461, 2005-12-20, Žin. 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+3. Nustačiusios labdaros ir paramos teikimo, gavimo arba naudojimo pažeidimus, kontrolės institucijos (Valstybinė mokesčių inspekcija ir (arba) muitinė) panaikina mokesčių lengvatas ir taiko įstatymų nustatytas sankcijas. 
  
 
 
@@ -527,15 +550,30 @@ Nr. X-461, 2005-12-20, Žin. 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-
 
 
 
-2. Paramos gavėjo statuso suteikimo, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Juridinių asmenų registro nuostatuose, kuriuos tvirtina Lietuvos Respublikos Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
- 
+13 straipsnis. Paramos gavėjo statusas
+
+
+1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į Juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo 3 straipsnio 3 dalyje nurodytą visuomenei naudingą veiklą.
 
 
 
 
-3. Juridinių asmenų registro tvarkytojas paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad:
+2. Paramos gavėjo statuso suteikimo juridiniams asmenims, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Juridinių asmenų registro nuostatuose, kuriuos tvirtina Vyriausybė.
+
+
+
+
+3. Šio įstatymo 7 straipsnio 2 dalyje nurodyti asmenys gali kreiptis į Meno kūrėjo ir meno kūrėjų organizacijų informacinės sistemos tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas suteikiamas įregistravus asmenį Meno kūrėjo ir meno kūrėjų organizacijų informacinėje sistemoje, kurią tvarko Lietuvos Respublikos kultūros ministerija (toliau – Kultūros ministerija). 
+
+
+
+
+4. Paramos gavėjo statuso suteikimo fiziniams asmenims, nurodytiems šio įstatymo 7 straipsnio 2 dalyje, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Meno kūrėjo ir meno kūrėjų organizacijų informacinės sistemos nuostatuose, kuriuos tvirtina kultūros ministras.
+
+
+
+
+5. Juridinių asmenų registro tvarkytojas arba Kultūros ministerija paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į Juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso arba Kultūros ministeriją dėl fiziniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad:
 
 
 1) asmeniui yra įsiteisėjęs teismo nuosprendis už Lietuvos Respublikos baudžiamajame kodekse numatytą nusikaltimą ar baudžiamąjį nusižengimą ekonomikai ir verslo tvarkai ar finansų sistemai;
@@ -543,53 +581,52 @@ Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010IST
 
 
 
-2) asmuo pažeidė Pinigų plovimo prevencijos įstatymą;
+2) asmuo pažeidė Lietuvos Respublikos pinigų plovimo prevencijos įstatymą;
 
 
 
 
-3) asmuo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas;
+3) asmuo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 11 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
 
 
 
 
-4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per trejus kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
-Straipsnio punkto pakeitimai:
-Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
- 
+4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per 3 kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
 
 
 
 
-5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnio nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas. 
+5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnyje nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas;
 
 
 
 
-6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja pagal šiame įstatyme nustatytą paramos paskirtį.
-Papildyta straipsnio punktu:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
- 
+6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties.
 
 
 
 
-4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 3 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 3 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per metų laikotarpį nebuvo nustatyta Pinigų plovimo prevencijos įstatymo pažeidimų.
-Straipsnio dalies pakeitimai:
-Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
- 
 
 
-
-
-5. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1, 2, 3 ir 4 dalių nuostatos.
+6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą, kai šį statusą turinčiam juridiniam asmeniui įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas likvidavimas arba įregistruojamas jo kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros. 
 Papildyta straipsnio dalimi:
-Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
+ 
+
+
+
+
+7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis ar fizinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 5 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 5 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per vienų metų laikotarpį nebuvo nustatyta Pinigų plovimo prevencijos įstatymo pažeidimų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
+ 
+
+
+
+
+8. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1–7 dalių nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
  
 
 
@@ -597,18 +634,7 @@ Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA
 
 
 
-16 straipsnis. Atsakomybė už įstatymo pažeidimą
-
-
-Labdaros ir paramos teikėjai bei gavėjai už šio įstatymo pažeidimus atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-17 straipsnis. Ginčų nagrinėjimas
+14 straipsnis. Ginčų nagrinėjimas
 
 
 Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
@@ -620,6 +646,8 @@ Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nu
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
+ 
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
@@ -704,3 +732,18 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 ir 15 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2027, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18619
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2202, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21003
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatymo Nr. XII-2202 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatymo Nr. XII-2202 1 ir 2 straipsnių pakeitimo įstatymas
