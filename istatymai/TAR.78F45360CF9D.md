@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/78f45360cf9d11e3a8ded1a0f5aff0a9"
 
 # Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymas
 
-Suvestinė redakcija nuo 2015-01-08 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01
  
 Įstatymas paskelbtas: TAR 2014-04-29, i. k. 2014-04875
  
@@ -731,12 +731,19 @@ Nr. XII-1424, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20441
 
 
 
-8. Administracinių teisės pažeidimų protokolus dėl šio įstatymo pažeidimų surašo šio straipsnio 4 dalyje nurodytų institucijų tam įgalioti pareigūnai ar darbuotojai, dirbantys pagal darbo sutartis. 
+8. Administracinių nusižengimų protokolus dėl šio įstatymo pažeidimų surašo šio straipsnio 4 dalyje nurodytų institucijų tam įgalioti pareigūnai ar darbuotojai, dirbantys pagal darbo sutartis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2104, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19291
+Nr. XII-2283, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06435
+ 
 
 
 
 
-9. Šio įstatymo pažeidimų bylų teisena vyksta, šio straipsnio 2 ir 3 dalyse numatytos administracinės nuobaudos parenkamos ir baudų dydžiai nustatomi bei nutarimai skirti administracines nuobaudas vykdomi vadovaujantis Lietuvos Respublikos administracinių teisės pažeidimų kodeksu.
+9. Šio įstatymo pažeidimų bylų teisena vyksta, šio straipsnio 2 ir 3 dalyse numatytos administracinės nuobaudos parenkamos ir baudų dydžiai nustatomi bei nutarimai skirti administracines nuobaudas vykdomi vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2104, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19291
+Nr. XII-2283, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06435
  
 
 
@@ -883,3 +890,13 @@ Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1535, 2014-12-23, paskelbta TAR 2015-01-07, i. k. 2015-00226
 Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 12 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2104, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19291
+Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 29 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2283, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06435
+Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymo Nr. XII-828 29 straipsnio pakeitimo įstatymo Nr. XII-2104 2 straipsnio pakeitimo įstatymas
