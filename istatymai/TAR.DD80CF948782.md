@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
+ 
+TAR pastaba. Licencijos, dėl kurių išdavimo buvo kreiptasi iki įstatymo Nr. XII-2662 įsigaliojimo (2017-01-01), išduodamos šio įstatymo nustatyta tvarka.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 VI skyriaus pavadinimo ir 43 straipsnio pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS SVEIKATOS PRIEŽIŪROS
@@ -1575,14 +1580,16 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 
 VI SKYRIUS
-VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
+PAGRINDINĖS LICENCIJUOJAMOS VISUOMENĖS SVEIKATOS PRIEŽIŪROS VEIKLOS SĄLYGOS 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
  
 
 
-43 straipsnis. Teisė verstis visuomenės sveikatos priežiūros veikla
+43 straipsnis. Teisė verstis licencijuojama visuomenės sveikatos priežiūros veikla
 
 
-1. Visuomenės sveikatos priežiūros veikla Lietuvos Respublikoje turi teisę verstis Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės piliečiai, kiti fiziniai asmenys, kurie naudojasi Lietuvos Respublikos ar Europos Sąjungos teisės aktų jiems suteiktomis judėjimo Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse teisėmis, Lietuvos Respublikoje įsteigti juridiniai asmenys, kitų Europos Sąjungos valstybių narių juridiniai asmenys, organizacijos ar jų filialai, taip pat kitose Europos Sąjungos valstybėse narėse ar kitose užsienio valstybėse įsteigtų juridinių asmenų ar organizacijų registruoti filialai Lietuvos Respublikoje (toliau – fizinis, juridinis asmuo ar filialas), turintys šio įstatymo ir kitų teisės aktų nustatyta tvarka tam išduotą ir galiojančią licenciją.
+1. Visuomenės sveikatos priežiūros veikla Lietuvos Respublikoje turi teisę verstis Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės piliečiai, kiti fiziniai asmenys, kurie naudojasi Lietuvos Respublikos ar Europos Sąjungos teisės aktų jiems suteiktomis judėjimo Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse teisėmis, Lietuvos Respublikoje įsteigti juridiniai asmenys, kitų Europos Sąjungos valstybių narių juridiniai asmenys, organizacijos ar jų filialai, taip pat kitose Europos Sąjungos valstybėse narėse ar kitose užsienio valstybėse įsteigtų juridinių asmenų ar organizacijų Lietuvos Respublikoje registruoti filialai (toliau – fizinis, juridinis asmuo ar filialas), turintys šio įstatymo nustatyta tvarka tam išduotą ir galiojančią licenciją.
 
 
 
@@ -1600,7 +1607,7 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-3) privalomasis mokymas apie alkoholio ir narkotikų žalą žmogaus sveikatai;
+3) privalomasis mokymas apie alkoholio, narkotinių ir psichotropinių ar kitų psichiką veikiančių medžiagų vartojimo poveikį žmogaus sveikatai;
 
 
 
@@ -1622,22 +1629,37 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-3. Fiziniam asmeniui, siekiančiam verstis licencijuojama visuomenės sveikatos priežiūros veikla, Visuomenės sveikatos priežiūros veiklos licencija išduodama Visuomenės sveikatos priežiūros veiklos licencijavimo nuostatuose (toliau – Nuostatai) nustatyta tvarka, jeigu pateikiami visi Nuostatuose nurodyti dokumentai ir fizinis asmuo atitinka šios dalies 1 ir 2 punktuose nustatytus reikalavimus. Visuomenės sveikatos priežiūros veiklos licencija neišduodama, jeigu fizinis asmuo nepateikė visų reikiamų dokumentų, neatitinka šios dalies 1 ir 2 punktuose nustatytų reikalavimų ir (ar) neįvykdė kitų Nuostatuose nurodytų sąlygų. Nuostatus tvirtina sveikatos apsaugos ministras. Fizinis asmuo, norintis gauti Visuomenės sveikatos priežiūros veiklos licenciją, turi atitikti šiuos reikalavimus:
+3. Licencijuojama visuomenės sveikatos priežiūros veikla siekiantis verstis fizinis asmuo turi turėti sveikatos apsaugos ministro patvirtintame Priemonių ir įrangos licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše nurodytas atitinkamai licencijuojamai veiklos rūšiai privalomas priemones bei įrangą ir:
 
 
-1) išsilavinimas, kvalifikacija ir patirtis turi atitikti Nuostatuose nustatytus kvalifikacinius reikalavimus asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla;
-
-
-
-
-2) turėti sveikatos apsaugos ministro patvirtintame Priemonių ir įrangos licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše nurodytas atitinkamai licencijuojamai veiklos rūšiai privalomas priemones ir įrangą.
+1) siekiantis verstis privalomuoju pirmosios pagalbos mokymu – turėti aukštąjį ar jam prilygintą biomedicinos mokslų studijų srities medicinos, visuomenės sveikatos arba slaugos studijų krypties išsilavinimą ar aukštąjį arba specialųjį vidurinį medicininį išsilavinimą, jeigu mokslai buvo baigti iki 1995 metų, ar būti įgijęs paramediko profesinę kvalifikaciją;
 
 
 
 
+2) siekiantis verstis privalomuoju higienos įgūdžių mokymu – turėti aukštąjį ar jam prilygintą biomedicinos mokslų studijų srities medicinos, visuomenės sveikatos, slaugos arba biologijos studijų krypties išsilavinimą ar aukštąjį arba specialųjį vidurinį medicininį išsilavinimą, jeigu mokslai buvo baigti iki 1995 metų;
 
 
-4. Juridiniam asmeniui ar filialui, siekiančiam verstis licencijuojama visuomenės sveikatos priežiūros veikla, Visuomenės sveikatos priežiūros veiklos licencija išduodama Nuostatuose nustatyta tvarka, jeigu pateikiami visi Nuostatuose nurodyti dokumentai ir juridinis asmuo ar filialas atitinka šios dalies 1 ir 2 punktuose nustatytus reikalavimus. Visuomenės sveikatos priežiūros veiklos licencija neišduodama, jeigu juridinis asmuo ar filialas nepateikia visų reikiamų dokumentų, neatitinka šios dalies 1 ir 2 punktuose nustatytų reikalavimų ir (ar) neįvykdė kitų Nuostatuose nurodytų sąlygų. Juridinis asmuo ar filialas, norintis gauti Visuomenės sveikatos priežiūros veiklos licenciją, turi atitikti šiuos reikalavimus:
+
+
+3) siekiantis verstis privalomuoju mokymu apie alkoholio, narkotinių ir psichotropinių ar kitų psichiką veikiančių medžiagų vartojimo poveikį žmogaus sveikatai – turėti aukštąjį ar jam prilygintą biomedicinos mokslų studijų srities medicinos arba visuomenės sveikatos studijų krypties išsilavinimą ar aukštąjį medicininį išsilavinimą, jeigu mokslai buvo baigti iki 1995 metų;
+
+
+
+
+4) siekiantis verstis visuomenės sveikatos saugos ekspertize ar poveikio visuomenės sveikatai vertinimu – turėti aukštąjį universitetinį ar jam prilygintą biomedicinos mokslų studijų srities visuomenės sveikatos studijų krypties išsilavinimą ar aukštąjį medicininį išsilavinimą pagal sanitarijos, higienos ir epidemiologijos programas, jeigu mokslai buvo baigti iki 1995 metų;
+
+
+
+
+5) siekiantis verstis kenkėjų kontrole (dezinfekcija, dezinsekcija, deratizacija) – turėti aukštąjį ar jam prilygintą biomedicinos mokslų studijų srities visuomenės sveikatos arba biologijos studijų krypties išsilavinimą ar aukštąjį medicininį arba biologijos išsilavinimą, jeigu mokslai buvo baigti iki 1995 metų.
+
+
+
+
+
+
+4. Licencijuojama visuomenės sveikatos priežiūros veikla siekiantis verstis juridinis asmuo ar filialas turi atitikti šiuos reikalavimus:
 
 
 1) turėti sveikatos apsaugos ministro patvirtintame Priemonių ir įrangos licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše nurodytas atitinkamai licencijuojamai veiklos rūšiai privalomas priemones ir įrangą;
@@ -1645,44 +1667,99 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-2) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su licencijuojama veikla, išsilavinimas, kvalifikacija ir patirtis atitiktų Nuostatuose nustatytus kvalifikacinius reikalavimus asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla.
+2) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su šio straipsnio 2 dalies 1–5 punktuose išvardyta licencijuojama veikla, išsilavinimas atitiktų šio straipsnio 3 dalies 1–4 punktuose nustatytus reikalavimus fiziniams asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla;
+
+
+
+
+3) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su šio straipsnio 2 dalies 6 punkte nurodyta licencijuojama veikla, išsilavinimas atitiktų šio straipsnio 3 dalies 5 punkte nustatytus reikalavimus fiziniams asmenims.
 
 
 
 
 
 
-5. Iš fizinio, juridinio asmens ar filialo nereikalaujama įvykdyti šio straipsnio 3 ir 4 dalyse nurodytų reikalavimų ar sąlygų, jeigu per Nuostatuose nustatytą terminą nustatoma, kad tokius pačius ar iš esmės panašius reikalavimus ar sąlygas jis yra įvykdęs kitoje Europos Sąjungos valstybėje narėje ir jų laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje valstybėje narėje išduota licencija ar kitas dokumentas, suteikiantis teisę verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla, yra pripažįstami Lietuvos Respublikoje, jeigu per Nuostatuose nurodytą terminą nustatoma, kad jo turimos licencijos ar kito dokumento, suteikiančio teisę verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla, išdavimo sąlygos ir reikalavimai yra tokie patys ar iš esmės panašūs į šio Įstatymo 43 straipsnyje nustatytus Visuomenės sveikatos priežiūros veiklos licencijos išdavimo sąlygas ir reikalavimus, keliamus atitinkamai veiklos rūšiai. 
+5. Fizinis, juridinis asmuo ar filialas, siekiantis verstis licencijuojama visuomenės sveikatos priežiūros veikla, sveikatos apsaugos ministro tvirtinamų Visuomenės sveikatos priežiūros veiklos licencijavimo taisyklių (toliau – Licencijavimo taisyklės) nustatyta tvarka licencijas išduodančiai institucijai pateikia deklaraciją apie ketinimą verstis visuomenės sveikatos priežiūros veikla (toliau – deklaracija), kurioje deklaruoja, kad jis atitinka šio straipsnio 3 dalyje atitinkama licencijuojama visuomenės sveikatos priežiūros veikla siekiantiems verstis fiziniams asmenims nustatytus reikalavimus arba šio straipsnio 4 dalyje juridiniams asmenims ar filialams nustatytus reikalavimus. Laikoma, kad licencija yra išduota kitą dieną nuo deklaracijos pateikimo licencijas išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu deklaracijos pateikimo diena.
 
 
 
 
-6. Licencija patikslinama išduodant naują licenciją, jeigu pasikeičia licencijoje nurodyti duomenys: fizinio asmens duomenys, adresas, kuriuo galima siųsti korespondenciją, juridinio asmens, kitos organizacijos ar filialo pavadinimas, buveinės adresas, juridinio asmens kodas ar kiti su licencijuojama visuomenės sveikatos priežiūros veikla nesusiję duomenys (rekvizitai), taip pat siekiant ištaisyti klaidas, padarytas išduodant licenciją. Licencija patikslinama remiantis pateiktais atitinkamais dokumentais. 
+6. Deklaracijoje pateiktos informacijos patikrinimas atliekamas per 30 dienų nuo deklaracijos gavimo licencijas išduodančioje institucijoje dienos Licencijavimo taisyklėse nustatyta tvarka.
 
 
 
 
-7. Licencijos galiojimas sustabdomas, jeigu:
-
-
-1) licencijos turėtojas nesilaiko licencijuojamos veiklos sąlygų, neatitinka kvalifikacinių reikalavimų ar pažeidžia įstatymų ir kitų teisės aktų, susijusių su licencijuojama veikla, reikalavimus ir Nuostatų nustatyta tvarka įspėtas apie nustatytus trūkumus ir (ar) pažeidimus per nustatytą terminą nepašalina licencijuojamos veiklos trūkumų ir (ar) pažeidimų ar nepateikia tai įrodančių dokumentų;
+7. Deklaraciją pateikęs licencijos turėtojas per 15 dienų nuo deklaracijos licencijai gauti pateikimo licencijas išduodančiai institucijai dienos turi pateikti licencijai gauti šio straipsnio 3 ar 4 dalyje nurodytas aplinkybes ir valstybės rinkliavos sumokėjimą patvirtinančius dokumentus, jeigu jie nebuvo pateikti kartu su deklaracija.
 
 
 
 
-2) licencijos turėtojas raštu prašo sustabdyti licencijos galiojimą. 
+8. Fiziniai, juridiniai asmenys ar filialai pateikti šio straipsnio 5 dalyje nurodytas deklaracijas bei pateikti ir gauti kitus dokumentus ir (ar) informaciją, susijusius su teisės verstis licencijuojama visuomenės sveikatos priežiūros veikla įgijimu arba šios veiklos vykdymu, Licencijavimo taisyklėse nustatyta tvarka gali per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi į licencijas išduodančią instituciją.
+
+
+
+
+9. Licencijos išduodamos neribotam laikui.
+
+
+
+
+10. Licencijos turėtojas neturi teisės savo vardu įgalioti kitų fizinių, juridinių asmenų ar filialų, organizacijų ar pagal sutartį perduoti jiems teisę vykdyti licencijoje nurodytą veiklą. 
+
+
+
+
+11. Licencija patikslinama, jeigu pasikeičia licencijoje nurodyti fizinio, juridinio asmens ar filialo duomenys, nustatyti Licencijavimo taisyklėse, taip pat siekiant ištaisyti klaidas. Licencija patikslinama Licencijavimo taisyklėse nustatyta tvarka, remiantis pateiktais atitinkamais dokumentais.
+
+
+
+
+12. Nustačiusi, kad deklaracijoje pateikta neteisinga informacija apie atitiktį šio straipsnio 3 ar 4 dalyje nustatytiems reikalavimams, licencijos turėtojas nesilaiko šio straipsnio 18 dalyje nustatytų licencijuojamos veiklos sąlygų arba kai yra šio straipsnio 13 dalies 2, 3 punktuose nustatyti pagrindai, licencijas išduodanti institucija Licencijavimo taisyklėse nustatyta tvarka įspėja licencijos turėtoją, kad per įspėjime nurodytą terminą – 30 dienų laikotarpį nuo įspėjimo gavimo dienos, nepašalinus nustatytų trūkumų ar pažeidimų bei nesumokėjus valstybės rinkliavos, licencijos galiojimas bus sustabdytas. Jeigu per įspėjime nurodytą terminą licencijos turėtojas jų nepašalina, licencijas išduodanti institucija Licencijavimo taisyklėse nustatyta tvarka priima sprendimą ir praneša licencijos turėtojui apie licencijos galiojimo sustabdymą, nurodo licencijos galiojimo sustabdymo terminą ir įspėja, kad nepašalinus pažeidimų, dėl kurių sustabdytas licencijos galiojimas, licencijos galiojimas bus panaikintas. Draudžiama vykdyti licencijuojamą veiklą po licencijos galiojimo sustabdymo. 
+
+
+
+
+13. Licencijos galiojimas sustabdomas, jeigu:
+
+
+1) deklaraciją pateikęs licencijos turėtojas per 15 dienų nuo deklaracijos gavimo licencijas išduodančioje institucijoje dienos licencijas išduodančiai institucijai nepateikė licencijai gauti reikalingų dokumentų, jeigu jie nebuvo pateikti kartu su deklaracija, – 30 dienų laikotarpiui;
+
+
+
+
+2) licencijos turėtojas deklaracijoje pateikė netikslią ar neišsamią informaciją, kurią reikia tikslinti, netinkamai įformintus dokumentus apie atitiktį šio straipsnio 3 ar 4 dalyje nustatytiems reikalavimams, – 30 dienų laikotarpiui nuo licencijas išduodančios institucijos pranešimo gavimo dienos; 
+
+
+
+
+3) licencijos turėtojas nesilaiko šio straipsnio 18 dalyje nustatytų licencijuojamos veiklos sąlygų, – 90 dienų laikotarpiui nuo licencijas išduodančios institucijos pranešimo gavimo dienos; 
+
+
+
+
+4) licencijos turėtojas raštu prašo sustabdyti licencijos galiojimą, – prašomam laikotarpiui;
+
+
+
+
+5) per 15 dienų nuo deklaracijos gavimo licencijas išduodančioje institucijoje dienos licencijas išduodančiai institucijai nepateikia valstybės rinkliavos sumokėjimą įrodančių dokumentų, – 30 dienų laikotarpiui.
 
 
 
 
 
 
-8. Licencijos galiojimo sustabdymas panaikinamas, jeigu licencijos, kurios galiojimas buvo sustabdytas, turėtojas pateikia licencijuojamos veiklos sąlygų neatitikčių, trūkumų ir (ar) pažeidimų, dėl kurių buvo sustabdytas jo licencijos galiojimas, pašalinimą įrodančius dokumentus, arba licencijos turėtojo prašymu, jeigu licencija buvo sustabdyta jo paties prašymu. Licencijos galiojimas sustabdomas ir galiojimo sustabdymas panaikinamas Nuostatuose nustatyta tvarka.
+14. Licencijos galiojimo sustabdymas panaikinamas, jeigu licencijos, kurios galiojimas buvo sustabdytas, turėtojas nustatytais terminais arba anksčiau licencijas išduodančiai institucijai pateikia šio straipsnio 13 dalies 1, 2, 3, 5 punktuose nurodytų licencijos galiojimo sustabdymo priežasčių pašalinimą įrodančius dokumentus, arba licencijos turėtojo prašymu, jeigu licencija buvo sustabdyta jo paties prašymu.
 
 
 
 
-9. Licencijos galiojimas panaikinamas, jeigu:
+15. Licencijos galiojimo sustabdymas panaikinamas ne vėliau kaip per 15 dienų nuo visų licencijos galiojimo sustabdymo priežasčių pašalinimą įrodančių dokumentų gavimo licencijas išduodančioje institucijoje dienos Licencijavimo taisyklėse nustatyta tvarka. 
+
+
+
+
+16. Licencijos galiojimas panaikinamas, jeigu:
 
 
 1) licencijos turėtojas raštu prašo panaikinti licencijos galiojimą;
@@ -1690,22 +1767,22 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-2) licencijos turėtojas – juridinis asmuo ar filialas – yra likviduotas;
+2) licencijos turėtojo – juridinio asmens ar filialo veikla nutraukiama;
 
 
 
 
-3) licencijos turėtojas – fizinis asmuo – miršta;
+3) licencijos turėtojas – fizinis asmuo miršta;
 
 
 
 
-4) paaiškėja, kad licencijai gauti buvo pateikti suklastoti ar klaidingi dokumentai ar duomenys;
+4) paaiškėja, kad licencijai gauti buvo pateikti suklastoti duomenys ir (ar) informacija;
 
 
 
 
-5) licencijos turėtojas, kurio licencijos galiojimas buvo sustabdytas, Nuostatų nustatyta tvarka įspėtas dėl licencijos galiojimo panaikinimo, per nustatytą terminą nepašalino nustatytų trūkumų ar pažeidimų ir (ar) nesikreipė dėl licencijos galiojimo sustabdymo panaikinimo arba kreipėsi, tačiau buvo priimtas sprendimas atsisakyti panaikinti licencijos galiojimo sustabdymą;
+5) licencijos turėtojas, kurio licencijos galiojimas buvo sustabdytas šio straipsnio 13 dalies 1, 2, 3, 5 punktuose nurodytais pagrindais, per nustatytą terminą nepašalino pažeidimų, dėl kurių buvo sustabdytas licencijos galiojimas, ir (ar) nesikreipė dėl licencijos galiojimo sustabdymo panaikinimo;
 
 
 
@@ -1722,51 +1799,115 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-10. Licencijų turėtojai, vykdydami licencijuojamą veiklą, privalo laikytis Nuostatuose nurodytų licencijuojamos veiklos sąlygų. Licencijos išduodamos neribotam laikui.
+17. Licencijas išduodanti institucija licencijos turėtojui Licencijavimo taisyklėse nustatyta tvarka per 3 dienas nuo sprendimo priėmimo praneša apie sprendimą panaikinti licencijos galiojimą, nurodydama licencijos galiojimo panaikinimo priežastis, pagrindą ir sprendimo panaikinti licencijos galiojimą apskundimo tvarką. 
 
 
 
 
-11. Sveikatos apsaugos ministro įsakymu nustatomas minimalus asmenų, kurie gali vykdyti kenkėjų kontrolės (dezinfekcijos, dezinsekcijos, deratizacijos) veiklą, skaičius, jeigu tai yra būtina, siekiant užtikrinti kenkėjų kontrolę atliekančių asmenų ir visuomenės sveikatos saugą. Kenkėjų kontrolė (dezinfekcija, dezinsekcija, deratizacija), jos vykdymo atvejai ir sąlygos, taip pat šiai veiklai naudojamos priemonės turi atitikti sveikatos apsaugos ministro nustatytus reikalavimus.
+18. Licencijų turėtojai privalo laikytis šių licencijuojamos veiklos sąlygų:
+
+
+1) fiziniai asmenys:
+
+
+a) sveikatos apsaugos ministro nustatyta tvarka per 6 mėnesius nuo licencijos išdavimo dienos išklausyti atitinkamos licencijuojamos visuomenės sveikatos priežiūros veiklos įvadinius kvalifikacijos tobulinimo kursus (18 valandų) ir per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi pranešti apie tai licencijas išduodančiai institucijai, išskyrus atvejus, kai licencijos turėtojas jau yra išklausęs tokius pačius ar iš esmės panašius kvalifikacijos tobulinimo kursus Lietuvoje ar kitoje valstybėje narėje ir pateikia tai patvirtinančius dokumentus;
 
 
 
 
-12. Privalomieji pirmosios pagalbos, higienos įgūdžių, alkoholio ir narkotikų žalos žmogaus sveikatai mokymai vykdomi sveikatos apsaugos ministro nustatyta tvarka.
+b) tobulinti kvalifikaciją sveikatos apsaugos ministro nustatyta tvarka ir ne rečiau kaip kas 5 metus Licencijavimo taisyklėse nustatyta tvarka apie kvalifikacijos tobulinimą per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi pranešti licencijas išduodančiai institucijai;
 
 
 
 
-13. Visuomenės sveikatos saugos ekspertizė atliekama Vyriausybės nustatyta tvarka.
+c) prievolė teikti informaciją apie šios dalies 1 punkto a ir b papunkčiuose nurodytą kvalifikacijos tobulinimą netaikoma asmenims, atliekantiems visuomenės sveikatos priežiūros funkcijas Lietuvos nacionalinės sveikatos sistemos visuomenės sveikatos priežiūros įstaigose, kurių duomenys apie kvalifikacijos tobulinimą centralizuotai teikiami žinybiniam Visuomenės sveikatos priežiūros specialistų registrui;
 
 
 
 
-14. Poveikio visuomenės sveikatai vertinimas atliekamas pagal sveikatos apsaugos ministro patvirtintus metodinius nurodymus.
+
+
+2) juridiniai asmenys ar filialai:
+
+
+a) užtikrinti, kad funkcijas, tiesiogiai susijusias su licencijuojama veikla, vykdytų tik juridinio asmens ar filialo darbuotojai, atitinkantys šios dalies 1 punkto a ir b papunkčiuose bei šio straipsnio 4 dalies 2 ir 3 punktuose nustatytus reikalavimus fiziniams asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla;
 
 
 
 
-15. Licencijas išduoda, registruoja, patikslina, sustabdo, jų galiojimą panaikina ir apie tai skelbia Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba „Valstybės žinių“ priede „Informaciniai pranešimai“ arba institucijos interneto svetainėje. 
+b) Licencijavimo taisyklėse nustatyta tvarka ir ne rečiau kaip kas 5 metus per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi pranešti licencijas išduodančiai institucijai apie juridinio asmens darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su licencijuojama veikla, kvalifikacijos tobulinimą, išskyrus Lietuvos nacionalinės sveikatos sistemos visuomenės sveikatos priežiūros įstaigas, kurios duomenis apie fizinių asmenų kvalifikacijos tobulinimą teikia žinybiniam Visuomenės sveikatos priežiūros specialistų registrui;
 
 
 
 
-16. Už licencijos, suteikiančios teisę fiziniams, juridiniams asmenims ir filialams verstis licencijuojamos visuomenės sveikatos priežiūros veiklos atitinkama rūšimi, išdavimą, šių licencijų dublikatų išdavimą, licencijų patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai licencija patikslinama siekiant ištaisyti klaidas, padarytas išduodant licenciją. 
+
+
+3) fiziniai, juridiniai asmenys ar filialai:
+
+
+a) vykdyti licencijuojamą veiklą, užtikrinti vykdant licencijuojamą veiklą teikiamų paslaugų kokybę laikydamiesi šio įstatymo ir šio straipsnio 19–22 dalyse nurodytų teisės aktų reikalavimų;
 
 
 
 
-17. Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos apsaugos ministro nustatyta tvarka vykdo Nacionalinis visuomenės sveikatos centras.
-Straipsnio dalies pakeitimai:
-Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
- 
+b) verstis licencijoje nurodyta licencijuojama visuomenės sveikatos priežiūros veikla tik pagal joje nurodytą (nurodytas) veiklos rūšį (rūšis);
+
+
+
+
+c) turėti visas sveikatos apsaugos ministro patvirtintame Priemonių ir įrangos licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše nurodytas atitinkamai licencijuojamos veiklos rūšiai privalomas priemones ir įrangą;
+
+
+
+
+d) Licencijavimo taisyklėse nustatyta tvarka per licencijas išduodančią instituciją teikti Sveikatos apsaugos ministerijai pavaldžioms įstaigoms jų prašymu informaciją apie vykdomos licencijuojamos visuomenės sveikatos priežiūros veiklos rūšis, taip pat teikti informaciją teisėtvarkos ar kitoms institucijoms, teisės aktų nustatyta tvarka turinčioms teisę gauti tokią informaciją.
+
+
+
+
+
+
+
+
+19. Kenkėjų kontrolė (dezinfekcija, dezinsekcija, deratizacija), jos vykdymo atvejai ir sąlygos, taip pat šiai veiklai naudojamos priemonės turi atitikti sveikatos apsaugos ministro nustatytus reikalavimus.
+
+
+
+
+20. Privalomieji pirmosios pagalbos, higienos įgūdžių, alkoholio, narkotinių ir psichotropinių ar kitų psichiką veikiančių medžiagų vartojimo poveikio žmogaus sveikatai mokymai vykdomi sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+21. Visuomenės sveikatos saugos ekspertizė atliekama Vyriausybės nustatyta tvarka.
+
+
+
+
+22. Poveikio visuomenės sveikatai vertinimas atliekamas sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+23. Licencijas Licencijavimo taisyklėse nustatyta tvarka registruoja, išduoda, patikslina, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina ir apie tai savo interneto svetainėje skelbia bei šią informaciją teikia Licencijų informacinei sistemai licencijas išduodanti institucija. Už licencijos išdavimą, licencijos duomenų tikslinimą ar licencijos dublikato išdavimą imama nustatyto dydžio valstybės rinkliava.
+
+
+
+
+24. Licencijas išduoda sveikatos apsaugos ministro įgaliota institucija.
+
+
+
+
+25. Licencijuojamos visuomenės sveikatos priežiūros veiklos priežiūrą šalyje vykdo sveikatos apsaugos ministro įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 Nr. XI-1757, 2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
+Straipsnio pakeitimai:
+Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
  
 
 
@@ -1960,3 +2101,8 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 6, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2, 26 straipsnių pakeitimo ir 30 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 VI skyriaus pavadinimo ir 43 straipsnio pakeitimo įstatymas
