@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-02-20
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -1158,7 +1158,10 @@ Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010IST
 
 
 
-3. Už administracinius teisės pažeidimus įstatymų nustatyta tvarka atsako vaikai, kuriems yra suėję 16 metų.
+3. Už administracinius nusižengimus įstatymų nustatyta tvarka atsako vaikai, kuriems yra suėję 16 metų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2689, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26475
+ 
 
 
 
@@ -1627,3 +1630,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43, 47 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2689, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26475
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 50 straipsnio pakeitimo įstatymas
