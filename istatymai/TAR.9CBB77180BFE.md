@@ -13,14 +13,17 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
  
+TAR pastaba. Savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojai, dirbantys pagal darbo sutartis ir gesinantys gaisrus bei atliekantys žmonių ir turto gelbėjimo darbus, kurie priimti į pareigas iki įstatymo Nr. XII-2572 įsigaliojimo (2017-01-01) ir neturi pagrindinio išsilavinimo, privalo jį įgyti per dvejus metus nuo šio įstatymo įsigaliojimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
+Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 7 ir 18-2 straipsnių pakeitimo ir Įstatymo papildymo V-2 skyriumi įstatymas
  
-LIETUVOS RESPUBLIKOS
-PRIEŠGAISRINĖS SAUGOS
-Į S T A T Y M A S
+ 
+LIETUVOS RESPUBLIKOS PRIEŠGAISRINĖS SAUGOS ĮSTATYMAS
  
 2002 m. gruodžio 5 d. Nr. IX-1225
 Vilnius
@@ -35,11 +38,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas nustato priešgaisrinės saugos užtikrinimo ir organizavimo Lietuvos Respublikoje teisinius pagrindus, priešgaisrinės saugos užtikrinimo sistemą, valstybės ir savivaldybių institucijų ir įstaigų funkcijas, savanorių ugniagesių statusą ir veiklą, gyventojų, įmonių, įstaigų ir organizacijų teises ir pareigas priešgaisrinės saugos srityje.
+Šis Įstatymas nustato priešgaisrinės saugos užtikrinimo ir organizavimo Lietuvos Respublikoje teisinius pagrindus, priešgaisrinės saugos užtikrinimo sistemą, valstybės ir savivaldybių institucijų ir įstaigų funkcijas, priėmimą į savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų, gesinančių gaisrus ir atliekančių žmonių ir turto gelbėjimo darbus (toliau – savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojai), pareigas, atleidimą iš jų ir savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų kvalifikacijos tobulinimą, savanorių ugniagesių statusą ir veiklą, gyventojų, įmonių, įstaigų ir organizacijų teises ir pareigas priešgaisrinės saugos srityje.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
+Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
  
 
 
@@ -366,7 +370,9 @@ Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
 
 
 
-15) atlieka kitas teisės aktų nustatytas funkcijas.
+15) atlieka kitas šio Įstatymo ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto pakeitimai:
+Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
  
@@ -1102,7 +1108,10 @@ SAVANORIAI UGNIAGESIAI IR JŲ VEIKLOS ORGANIZATORIAI
 
 
 
-3. Savanoriais ugniagesiais negali būti teismo tvarka pripažinti neveiksniais ar ribotai veiksniais Lietuvos Respublikos nuolatiniai gyventojai, taip pat kiti asmenys, kuriems užsiimti tokia veikla draudžia įstatymai. Asmenys, jaunesni kaip 18 metų, savanorių ugniagesių savanoriškoje veikloje gali dalyvauti, jeigu tam neprieštarauja vaiko atstovas pagal įstatymą.
+3. Savanoriais ugniagesiais negali būti teismo tvarka pripažinti neveiksniais šioje srityje ar ribotai veiksniais šioje srityje Lietuvos Respublikos nuolatiniai gyventojai, taip pat kiti asmenys, kuriems užsiimti tokia veikla draudžia įstatymai. Asmenys, jaunesni kaip 18 metų, savanorių ugniagesių savanoriškoje veikloje gali dalyvauti, jeigu tam neprieštarauja vaiko atstovas pagal įstatymą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
+ 
 
 
 
@@ -1286,6 +1295,194 @@ Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
 
 
 
+V2 SKYRIUS
+PRIĖMIMAS Į SAVIVALDYBIŲ PRIEŠGAISRINIŲ TARNYBŲ IR VALSTYBINĖS PRIEŠGAISRINĖS GELBĖJIMO TARNYBOS DARBUOTOJŲ PAREIGAS, ATLEIDIMAS IŠ JŲ IR ŠIŲ DARBUOTOJŲ KVALIFIKACIJOS TOBULINIMAS
+ 
+
+
+185 straipsnis. Priėmimas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas ir atleidimas iš jų
+
+
+1. Su asmeniu, priimamu į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, sudaroma darbo sutartis. Asmuo, priimamas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, turi atitikti šiuos bendruosius reikalavimus:
+
+
+1) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip 65 metų;
+
+
+
+
+2) turėti ne žemesnį kaip pagrindinį išsilavinimą;
+
+
+
+
+3) būti nepriekaištingos reputacijos. Asmuo laikomas nepriekaištingos reputacijos, jeigu nėra šio straipsnio 4 dalies 2–5 punktuose nurodytų aplinkybių;
+
+
+
+
+4) būti tokios sveikatos būklės, kuri leistų eiti savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas. Sveikatos būklės reikalavimus nustato sveikatos apsaugos ministras; 
+TAR pastaba. 185 straipsnio 1 dalies 4 ir 5 punktų nuostatos savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojams, dirbantiems pagal darbo sutartis ir gesinantiems gaisrus bei atliekantiems žmonių ir turto gelbėjimo darbus, kurie priimti į pareigas iki šio įstatymo įsigaliojimo, taikomos nuo 2019 m. sausio 1 d.
+
+
+
+
+5) būti tokio fizinio parengtumo, kuris leistų eiti savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas. Fizinio parengtumo reikalavimus nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius;
+TAR pastaba. 185 straipsnio 1 dalies 4 ir 5 punktų nuostatos savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojams, dirbantiems pagal darbo sutartis ir gesinantiems gaisrus bei atliekantiems žmonių ir turto gelbėjimo darbus, kurie priimti į pareigas iki šio įstatymo įsigaliojimo, taikomos nuo 2019 m. sausio 1 d.
+
+
+
+
+6) Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka būti baigęs įvadinius mokymus ir išlaikęs egzaminą.
+
+
+
+
+
+
+2. Asmuo, priimamas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, taip pat turi atitikti specialius reikalavimus, nustatytus pareigybės aprašyme. Pareigybės aprašyme negali būti nustatyti tokie specialūs reikalavimai, kurie nebūtini pareigybės aprašyme nustatytoms funkcijoms atlikti. 
+
+
+
+
+3. Asmuo, priimamas į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas, įvadinius mokymus baigia ir egzaminą laiko tik tada, kai atitinka šio straipsnio 1 dalies 1–5 punktuose ir 2 dalyje nustatytus reikalavimus ir kai nėra šio straipsnio 4 dalyje nurodytų aplinkybių.
+
+
+
+
+4. Į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas negali būti priimamas asmuo:
+
+
+1) teismo tvarka pripažintas neveiksniu ar ribotai veiksniu tam tikroje srityje;
+
+
+
+
+2) kurio teisę dirbti su gaisrų gesinimu, žmonių ir turto gelbėjimu susijusį darbą yra atėmęs teismas;
+
+
+
+
+3) pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+4) atleistas iš savivaldybės priešgaisrinės tarnybos, Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo ar pareigūno pareigų už šiurkštų darbo pareigų pažeidimą ar tarnybinį nusižengimą, jei nuo atleidimo dienos nepraėjo 3 metai;
+
+
+
+
+5) kuris yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
+
+
+
+
+
+
+5. Jeigu į savivaldybės priešgaisrinės tarnybos ar Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas pretenduoja daugiau negu vienas asmuo, baigęs įvadinius mokymus ir išlaikęs egzaminą, pirmenybė priimant į savivaldybės priešgaisrinės tarnybos ar Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas (prioriteto mažėjimo tvarka) teikiama atsižvelgiant į:
+
+
+1) šio straipsnio 1 dalies 6 punkte nurodyto egzamino išlaikymo rezultatus;
+
+
+
+
+2) turimą gaisrų gesinimo ir žmonių bei turto gelbėjimo darbų atlikimo patirtį;
+
+
+
+
+3) fizinį parengtumą;
+
+
+
+
+4) sveikatos būklę.
+
+
+
+
+
+
+6. Apie planuojamą priėmimą į laisvas savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas skelbiama Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka.
+
+
+
+
+7. Asmenų, priimamų į savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, ir savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų sveikatos būklės atitiktis sveikatos būklės reikalavimams tikrinama sveikatos apsaugos ministro nustatyta tvarka ir periodiškumu. 
+
+
+
+
+8. Asmenų, priimamų į savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, ir savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų fizinio parengtumo atitiktis fizinio parengtumo reikalavimams tikrinama Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyta tvarka ir periodiškumu. 
+
+
+
+
+9. Asmenų, priimamų į savivaldybių priešgaisrinių tarnybų darbuotojų pareigas, ir savivaldybių priešgaisrinių tarnybų darbuotojų fizinio parengtumo atitiktį fizinio parengtumo reikalavimams tikrina ir asmenų, priimamų į savivaldybių priešgaisrinių tarnybų darbuotojų pareigas, įvadinius mokymus ir egzaminų laikymą organizuoja savivaldybių priešgaisrinės tarnybos.
+
+
+
+
+10. Asmenų, priimamų į Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų fizinio parengtumo atitiktį fizinio parengtumo reikalavimams tikrina ir asmenų, priimamų į Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų pareigas, įvadinius mokymus ir egzaminų laikymą organizuoja Valstybinė priešgaisrinė gelbėjimo tarnyba.
+
+
+
+
+11. Darbo sutartis su savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotoju nutraukiama Lietuvos Respublikos darbo kodekse nustatytais pagrindais ir tvarka, taip pat jeigu yra bent vienas iš šių pagrindų:
+
+
+1) nustatoma, kad savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo sveikatos būklė ir (ar) fizinis parengtumas neatitinka sveikatos būklės ir (ar) fizinio parengtumo reikalavimų;
+
+
+
+
+2) nustatoma, kad priėmimo į savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojo pareigas metu asmuo nuslėpė ar pateikė tikrovės neatitinkančius duomenis dėl jo atitikties bendriesiems ir (ar) pareigybės aprašyme nustatytiems specialiems reikalavimams;
+
+
+
+
+3) atsiranda ar paaiškėja bent viena šio straipsnio 4 dalyje nurodytų aplinkybių. 
+
+
+
+
+
+
+12. Jeigu yra bent vienas iš šio straipsnio 11 dalyje nustatytų pagrindų, darbo sutartis su savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotoju nutraukiama kitą darbo dieną po šio straipsnio 11 dalyje nurodytų aplinkybių atsiradimo ar paaiškėjimo. Šio straipsnio 11 dalies 1 punkte nustatytu pagrindu nutraukus darbo sutartį, savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojui išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka, jeigu kolektyvinėse sutartyse nenustatyta kitaip.
+ 
+
+
+
+
+
+
+186 straipsnis. Savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų kvalifikacijos tobulinimas
+
+
+1. Savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojai privalo tobulinti savo kvalifikaciją. 
+
+
+
+
+2. Savivaldybės priešgaisrinės tarnybos darbuotojų kvalifikacijos tobulinimą organizuoja savivaldybės priešgaisrinė tarnyba, o Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų – Valstybinė priešgaisrinė gelbėjimo tarnyba.
+
+
+
+
+3. Reikalavimus savivaldybės priešgaisrinės tarnybos ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojų kvalifikacijai, šių darbuotojų kvalifikacijos tobulinimo tvarką ir periodiškumą nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius.
+
+
+
+
+Papildyta skyriumi:
+Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
+ 
+
+
+
+
 VI SKYRIUS
 VALSTYBINĖ GAISRŲ IR GELBĖJIMO DARBŲ APSKAITA.
 GYVENTOJŲ ŠVIETIMAS PRIEŠGAISRINĖS SAUGOS SRITYJE
@@ -1399,3 +1596,8 @@ Lietuvos Respublikos priešgaisrinės saugos įstatymo 19 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
 Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 2, 7, 9, 10, 11, 14, 16, 17, 18 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
+Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 7 ir 18-2 straipsnių pakeitimo ir Įstatymo papildymo V-2 skyriumi įstatymas
