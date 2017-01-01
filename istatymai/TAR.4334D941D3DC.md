@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
  
@@ -364,7 +364,11 @@ IMPORTAS
 
 
 
-4) per pastaruosius metus nustatyta tvarka pripažintas padaręs administracinį teisės pažeidimą, nurodytą Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 1071 ir 1072 straipsniuose. 
+4) per pastaruosius metus nustatyta tvarka pripažintas padaręs administracinį nusižengimą, nurodytą Lietuvos Respublikos administracinių nusižengimų kodekso 65, 67, 71, 339 ir 340 straipsniuose.
+Straipsnio punkto pakeitimai:
+Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
+Nr. XII-2285, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06437
+ 
 
 
 
@@ -859,3 +863,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2285, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06437
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir 10 straipsnių pakeitimo įstatymo Nr. XII-2130 7 straipsnio pakeitimo įstatymas
