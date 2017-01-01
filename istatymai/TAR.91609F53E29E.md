@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -1351,9 +1351,10 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-7. Mokėjimo už trumpalaikę socialinę globą dydis neturi viršyti 80 procentų asmens pajamų. Tais atvejais, kai asmuo pagal Valstybinių šalpos išmokų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už trumpalaikę socialinę globą padengti. 
+7. Mokėjimo už trumpalaikę socialinę globą dydis neturi viršyti 80 procentų asmens pajamų. Tais atvejais, kai asmuo pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už trumpalaikę socialinę globą padengti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
  
 
 
@@ -1364,9 +1365,10 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-9. Mokėjimo už ilgalaikę socialinę globą suaugusiam asmeniui dydis neturi viršyti 80 procentų asmens pajamų, jeigu asmens turto vertė yra mažesnė už jo gyvenamosios vietos savivaldybėje nustatytą turto vertės normatyvą. Tais atvejais, kai asmuo pagal Valstybinių šalpos išmokų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už ilgalaikę socialinę globą padengti. 
+9. Mokėjimo už ilgalaikę socialinę globą suaugusiam asmeniui dydis neturi viršyti 80 procentų asmens pajamų, jeigu asmens turto vertė yra mažesnė už jo gyvenamosios vietos savivaldybėje nustatytą turto vertės normatyvą. Tais atvejais, kai asmuo pagal Tikslinių kompensacijų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už ilgalaikę socialinę globą padengti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
  
 
 
@@ -1377,9 +1379,10 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-11. Mokėjimo už ilgalaikę socialinę globą vaikui su negalia dydis neturi viršyti 80 procentų jo pajamų. Tais atvejais, kai vaikas su negalia pagal Valstybinių šalpos išmokų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už ilgalaikę socialinę globą padengti. 
+11. Mokėjimo už ilgalaikę socialinę globą vaikui su negalia dydis neturi viršyti 80 procentų jo pajamų. Tais atvejais, kai vaikas su negalia pagal Tikslinių kompensacijų įstatymą gauna slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją, 100 procentų šios kompensacijos skiriama mokėjimui už ilgalaikę socialinę globą padengti.
 Straipsnio dalies pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
  
 
 
@@ -1432,12 +1435,19 @@ Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010IST
 
 
 
-7) valstybinės šalpos išmokos, mokamos pagal Valstybinių šalpos išmokų įstatymą; 
+7) šalpos išmokos, mokamos pagal Lietuvos Respublikos šalpos pensijų įstatymą, ir slaugos ar priežiūros (pagalbos) išlaidų tikslinės kompensacijos bei tikslinis priedas, mokami pagal Tikslinių kompensacijų įstatymą; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
+Nr. XIII-175, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29864
+ 
 
 
 
 
-8) ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos, statutiniams valstybės tarnautojams mokamos išmokos ligos, motinystės, tėvystės ir motinystės (tėvystės) atveju;
+8) ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos, statutiniams valstybės tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar atostogų vaikui prižiūrėti laikotarpiais išmokėtos išmokos; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
+ 
 
 
 
@@ -1492,7 +1502,10 @@ Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010IST
 
 
 
-19) išmoka vaikui, mokama pagal Išmokų vaikams įstatymą; 
+19) išmoka vaikui, išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, mokamos pagal Išmokų vaikams įstatymą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
+ 
 
 
 
@@ -2006,3 +2019,13 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 11, 13, 14, 19
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2193, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20220
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 18 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir 30 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-175, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29864
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir 30 straipsnių pakeitimo įstatymo Nr. XII-2520 2 straipsnio pakeitimo įstatymas
