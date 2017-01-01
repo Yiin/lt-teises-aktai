@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
- 
-TAR pastaba. Iki įstatymo Nr. XII-2255 įsigaliojimo (2016-05-01) išduoti leidimai verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais, vidaus vandenų uostų ir prieplaukų įregistravimas ir įtraukimas į Įregistruotų vidaus vandenų uostų sąrašą ar Įregistruotų komercinių prieplaukų sąrašą laikomi galiojančiais pagal šį įstatymą. Prašymai dėl leidimų verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais, vidaus vandenų uostų ir komercinių prieplaukų įregistravimo, pateikti iki įstatymo Nr. XII-2255 įsigaliojimo (2016-05-01), baigiami nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2255, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06344
-Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4-1, 7, 9, 13, 14 ir 15 straipsnių pakeitimo įstatymas
  
  
 LIETUVOS RESPUBLIKOS
@@ -2280,43 +2275,31 @@ Bet kokie vežėjo susitarimai su keleiviu, krovinio ar bagažo siuntėju ar gav
 
 
 
-70 straipsnis. Atsakomybė už saugios laivybos reikalavimų pažeidimą
+70 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2599, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23693
+ 
 
 
-Vidaus vandenų transporto priemonių bei vidaus vandenų uostų ir prieplaukų registravimo ir eksploatavimo, taip pat saugios laivybos vidaus vandenimis reikalavimų pažeidimai užtraukia atsakomybę pagal Lietuvos Respublikos administracinių teisės pažeidimų kodeksą.
+
+
+71 straipsnis. Žalos, susijusios su navigacinių įrenginių ar hidrotechnikos statinių sugadinimu ar sunaikinimu, atlyginimas ir išlaidų, susijusių su navigacinio ar uosto įrenginio sugadinimu, atlyginimas 
+
+
+Juridinis ar fizinis asmuo, sugadinęs ar sunaikinęs vidaus vandenų keliuose ar uostų akvatorijose navigacinius įrenginius ar hidrotechninius statinius, privalo atlyginti žalą, taip pat avarijų, įvykusių dėl navigacinio ar uosto įrenginio sugadinimo, pasekmių likvidavimo išlaidas.
 
 
 Straipsnio pakeitimai:
-Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
+Nr. XII-2599, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23693
  
 
 
 
 
-71 straipsnis. Atsakomybė už vidaus vandenų transporto laivybos ir 
-eksploatacijos taisyklių pažeidimą
-
-
-1. Vidaus vandenų transporto laivybos ir eksploatacijos taisyklių pažeidimas, tyčinis vandens kelių, juose esančių įrenginių, laivų, signalizacijos ar ryšių priemonių išardymas, sužalojimas, taip pat blogas jų remontas, sukėlęs ar galėjęs sukelti nelaimingų atsitikimų žmonėms, laivo katastrofą, avariją ar kitas sunkias pasekmes, užtraukia atsakomybę pagal baudžiamuosius įstatymus.
-
-
-
-
-2. Juridinis ar fizinis asmuo, sugadinęs ar sunaikinęs vidaus vandenų keliuose ar uostų akvatorijose navigacinius įrenginius ar hidrotechninius statinius, privalo atlyginti žalą, taip pat avarijų, įvykusių dėl navigacinio ar uosto įrenginio sugadinimo, pasekmių likvidavimo išlaidas.
+72 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2599, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23693
  
-
-
-
-
-
-
-72 straipsnis. Atsakomybė už vidaus vandenų teršimą
-
-
-Vidaus vandenų transporto priemonėms užteršus vidaus vandenų telkinius medžiagomis, kenksmingomis žmonių sveikatai, žemės ūkiui ar gyvajai gamtai, taikoma įstatymų numatyta civilinė, administracinė ar baudžiamoji atsakomybė.
- 
-
-
 
 
 
@@ -2474,3 +2457,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2255, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06344
 Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4-1, 7, 9, 13, 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2599, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23693
+Lietuvos Respublikos vidaus vandenų transporto kodekso 71 straipsnio pakeitimo ir 70, 72 straipsnių pripažinimo netekusiu galios įstatymas
