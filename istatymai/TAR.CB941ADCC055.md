@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -99,7 +99,10 @@ Nr. X-648, 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
 
 
 
-10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme ir Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme.
+10. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
+ 
 
 
 Straipsnio pakeitimai:
@@ -497,7 +500,10 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 
 
-9) įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas;
+9) įstatymų nustatyta tvarka nagrinėti administracinių nusižengimų bylas ir skirti administracines nuobaudas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+ 
 
 
 
@@ -507,7 +513,10 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 
 
-11) šio ir kitų įstatymų nustatyta tvarka saugoti, nešioti ir panaudoti šaunamąjį ginklą bei specialiąsias priemones – antrankius, asmens savigynai skirtas dujas, tarnybinius šunis, transporto priverstinio stabdymo priemones;
+11) šio ir kitų įstatymų nustatyta tvarka saugoti, nešioti ir panaudoti šaunamąjį ginklą bei specialiąsias priemones;
+Straipsnio punkto pakeitimai:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
+ 
 
 
 
@@ -1479,7 +1488,7 @@ Jei aplinkos apsaugos valstybinės kontrolės pareigūnas pagrįstai įtaria, ka
 
 
 
-6. Sprendimas sulaikyti laivą per dešimt dienų nuo jo priėmimo dienos gali būti skundžiamas apygardos administraciniam teismui, kai sprendimas sulaikyti laivą priimtas užtikrinant bylos dėl ekonominės sankcijos skyrimo teiseną, arba rajono (miesto) apylinkės teismui, kai sprendimas sulaikyti laivą priimtas užtikrinant administracinio teisės pažeidimo bylos teiseną. Teismas skundą dėl sprendimo sulaikyti laivą išnagrinėja per penkias dienas nuo skundo priėmimo dienos. Teismo sprendimas dėl skundo dėl sprendimo sulaikyti laivą yra neskundžiamas. 
+6. Sprendimas sulaikyti laivą per dešimt dienų nuo jo priėmimo dienos gali būti skundžiamas apygardos administraciniam teismui, kai sprendimas sulaikyti laivą priimtas užtikrinant bylos dėl ekonominės sankcijos skyrimo teiseną, arba rajono (miesto) apylinkės teismui, kai sprendimas sulaikyti laivą priimtas užtikrinant administracinio nusižengimo bylos teiseną. Teismas skundą dėl sprendimo sulaikyti laivą išnagrinėja per penkias dienas nuo skundo priėmimo dienos. Teismo sprendimas dėl skundo dėl sprendimo sulaikyti laivą yra neskundžiamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
  
@@ -1492,7 +1501,10 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 
 
-8. Laivo savininkas (valdytojas) apmoka sulaikyto laivo stovėjimo uoste išlaidas, išskyrus tuos atvejus, kai nepasitvirtinus 39(1) straipsnyje nurodytiems įtarimams nusprendžiama nutraukti laivo sulaikymą ar pasibaigia laivo sulaikymo galiojimo terminas. Sulaikytam laivui neleidžiama išplaukti iš uosto tol, kol neapmokėtos sulaikyto laivo stovėjimo uoste išlaidos ar sulaikyto laivo kapitonas arba savininkas, arba valdytojas nepateikia garantijų aplinkos apsaugos valstybinės kontrolės pareigūnui arba įstatymų įgaliotam nagrinėti administracinio teisės pažeidimo bylą teismui, prokurorui ar įstatymų įgaliotam nagrinėti baudžiamąją bylą teismui, kuriems yra perduota bylos medžiaga, kad šios išlaidos bus apmokėtos po laivo išplaukimo.
+8. Laivo savininkas (valdytojas) apmoka sulaikyto laivo stovėjimo uoste išlaidas, išskyrus atvejus, kai nepasitvirtinus 391 straipsnyje nurodytiems įtarimams nusprendžiama nutraukti laivo sulaikymą ar pasibaigia laivo sulaikymo galiojimo terminas. Sulaikytam laivui neleidžiama išplaukti iš uosto tol, kol neapmokėtos sulaikyto laivo stovėjimo uoste išlaidos ar sulaikyto laivo kapitonas arba savininkas, arba valdytojas nepateikia garantijų priėmusiam sprendimą sulaikyti laivą aplinkos apsaugos valstybinės kontrolės pareigūnui arba administracinio nusižengimo bylą nagrinėjančiam teismui, ikiteisminį tyrimą atliekančiam prokurorui ar baudžiamąją bylą nagrinėjančiam teismui, kuriems yra perduota bylos medžiaga, kad šios išlaidos bus apmokėtos po laivo išplaukimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+ 
 
 
 
@@ -1531,7 +1543,10 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 
 
-2. Kai aplinkos apsaugos valstybinės kontrolės pareigūnas perduoda bylos medžiagą teismui, įstatymų įgaliotam nagrinėti administracinio teisės pažeidimo bylą, teismas patikrina laivo sulaikymo pagrįstumą ir, jei reikia, priima nutartį dėl laivo sulaikymo nutraukimo.
+2. Kai aplinkos apsaugos valstybinės kontrolės pareigūnas, priėmęs sprendimą sulaikyti laivą, perduoda bylos medžiagą teismui, nagrinėjančiam administracinio nusižengimo bylą, teismas patikrina laivo sulaikymo pagrįstumą ir, jei reikia, priima nutartį dėl laivo sulaikymo nutraukimo. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+ 
 
 
 
@@ -1541,7 +1556,10 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 
 
-4. Priimto aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo panaikinti sprendimą sulaikyti laivą ar įstatymų įgalioto nagrinėti administracinio teisės pažeidimo bylą teismo nutarties, prokuroro nutarimo nutraukti laivo sulaikymą ar nutarimo dėl laikino nuosavybės teisės apribojimo paskyrimo, ikiteisminio tyrimo teisėjo nutarties dėl laikino nuosavybės teisės apribojimo panaikinimo ar termino pratęsimo, įstatymų įgalioto nagrinėti baudžiamąją bylą teismo nutarties dėl laikino nuosavybės teisės apribojimo paskyrimo, termino pratęsimo ar panaikinimo kopijos nedelsiant išsiunčiamos sulaikyto laivo kapitonui, valstybės, su kurios vėliava plaukia laivas, kompetentingoms institucijoms, Lietuvos saugios laivybos administracijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir jūrų uosto kapitonui.
+4. Priimto aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo panaikinti sprendimą sulaikyti laivą administracinio nusižengimo bylą nagrinėjančio teismo nutarties, prokuroro nutarimo nutraukti laivo sulaikymą ar nutarimo dėl laikino nuosavybės teisės apribojimo paskyrimo, ikiteisminio tyrimo teisėjo nutarties dėl laikino nuosavybės teisės apribojimo panaikinimo ar termino pratęsimo, baudžiamąją bylą nagrinėjančio teismo nutarties dėl laikino nuosavybės teisės apribojimo paskyrimo, termino pratęsimo ar panaikinimo kopijos nedelsiant išsiunčiamos sulaikyto laivo kapitonui, valstybės, su kurios vėliava plaukia laivas, kompetentingoms institucijoms, Lietuvos saugios laivybos administracijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir jūrų uosto kapitonui.
+Straipsnio dalies pakeitimai:
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+ 
 
 
 
@@ -1573,109 +1591,165 @@ Aplinkos apsaugos valstybinės kontrolės pareigūnai ir institucijos privalo u�
 
 
 V SKYRIUS
-ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR KITOKIOS 
-PRIEVARTOS NAUDOJIMAS 
+ŠAUNAMŲJŲ GINKLŲ, FIZINĖS IR PSICHINĖS PRIEVARTOS PANAUDOJIMAS 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
  
 
 
 40 straipsnis. Aplinkos apsaugos valstybinės kontrolės pareigūnai, turintys teisę panaudoti fizinę prievartą 
 
 
-Aplinkos apsaugos valstybinės kontrolės pareigūnai, pagal pareigas vykdantys miškų bei jų išteklių, gyvosios gamtos (įskaitant žuvis), apsaugos ir naudojimo teisėtumo valstybinę kontrolę, atlikdami tarnybines pareigas, šio bei kitų įstatymų nustatytais atvejais ir tvarka turi teisę panaudoti fizinę prievartą bei šaunamuosius ginklus.
+Aplinkos apsaugos valstybinės kontrolės pareigūnai, pagal pareigas vykdantys miškų ir jų išteklių, gyvosios gamtos (įskaitant žuvis) apsaugos ir naudojimo teisėtumo valstybinę kontrolę, atlikdami tarnybines pareigas, šio ir kitų įstatymų nustatytais atvejais ir tvarka turi teisę panaudoti psichinę ir fizinę prievartą bei šaunamuosius ginklus.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
  
 
 
 
 
+41 straipsnis. Prievartos naudojimo sąlygos
 
 
-41 straipsnis. Prievartos rūšys ir naudojimo sąlygos
-
-
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti prievartą, kai ji yra būtina užkertant kelią teisės pažeidimams, sulaikyti pažeidimus padariusius asmenis ir kitais atvejais, saugant bei ginant asmens, visuomenės, valstybės teisėtus interesus. Prievarta, galinti sukelti pavojų sveikatai ar gyvybei, gali būti naudojama tik tiek, kiek to reikia tarnybinei pareigai atlikti, ir tik po to, kai visos įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos. Prievartos rūšį ir jos panaudojimo ribas pasirenka aplinkos apsaugos valstybinės kontrolės pareigūnas, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį bei individualias teisės pažeidėjo savybes. Naudodami prievartą, aplinkos apsaugos valstybinės kontrolės pareigūnai privalo stengtis išvengti sunkių pasekmių. 
-
-
-
-
-2. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą nedelsiant panaudoti fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas bei įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik esant šio Įstatymo 42 straipsnio 1 dalyje išvardytoms sąlygoms. 
+1. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Aplinkos apsaugos valstybinės kontrolės pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų aplinkos apsaugos valstybinės kontrolės pareigūno ar kito asmens gyvybei ar sveikatai.
 
 
 
 
-3. Fizinė prievarta šiame Įstatyme suprantama kaip: 
-
-
-1) bet kokio pobūdžio fizinės jėgos bei kovinių imtynių veiksmų panaudojimas; 
+2. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą naudoti fizinę prievartą ar šaunamąjį ginklą.
 
 
 
 
-2) specialiųjų priemonių, t. y. ginkluotėje esamų lazdų, antrankių bei rišimo priemonių, dujų, tarnybinių šunų, transporto priverstinio sustabdymo bei kitų įstatymų leidžiamų aktyvios ir pasyvios gynybos priemonių panaudojimas. 
+3. Fizinė prievarta šiame Įstatyme suprantama kaip fizinės jėgos ir (ar) specialiųjų priemonių panaudojimas.
+
+
+
+
+4. Psichinę prievartą aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti šio straipsnio 5 ir 6 dalyse arba šio Įstatymo 43 straipsnio 2 dalyje nurodytais atvejais.
+
+
+
+
+5. Fizinę prievartą aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti šiais atvejais:
+
+
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+
+
+
+
+2) kai asmenys vengia vykdyti pareigūnų reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), taip pat sulaikydamas asmenis (jeigu jie priešinasi);
+
+
+
+
+3) atremdamas kėsinimąsi į šaunamąjį ginklą, specialiąsias priemones, ryšio priemones ir siekdamas šiuos objektus susigrąžinti;
+
+
+
+
+4) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimą arba šiuos užimtus objektus išlaisvindamas;
+
+
+
+
+5) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį arba kai, turimais duomenimis, jose gali slėptis asmenys, galimai padarę administracinius nusižengimus ar nusikalstamas veikas;
+
+
+
+
+6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+
+
+
+
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
 
 
 
 
 
 
-4. Prieš naudodamas fizinę prievartą arba šaunamąjį ginklą, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas. 
+6. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę naudoti antrankius ir surišimo priemones:
+
+
+1) prieš agresyvius ar linkusius žalotis asmenis;
 
 
 
 
-5. Aplinkos apsaugos valstybinės kontrolės pareigūnai rengiami ir apmokomi naudoti fizinę prievartą, specialiąsias priemones ir šaunamuosius ginklus, tobulinama jų kvalifikacija pagal aplinkos ministro įsakymu patvirtintas mokymo programas.
+2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą.
 
 
 
 
-6. Aplinkos apsaugos valstybinės kontrolės pareigūnas, panaudojęs prievartą nepažeisdamas šio Įstatymo reikalavimų ir padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas. 
+
+
+7. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę šią blokuodamas. Kai stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų aplinkos apsaugos valstybinės kontrolės pareigūno ar kito asmens gyvybei ar sveikatai, aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone taranuoti stabdomą transporto priemonę. Jeigu aplinkos apsaugos valstybinės kontrolės pareigūnas, vairuodamas transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po šių veiksmų jis nedelsdamas turi imtis priemonių šių veiksmų padariniams pašalinti.
 
 
 
 
-7. Jei dėl aplinkos apsaugos valstybinės kontrolės pareigūno panaudotos prievartos asmuo mirė arba patyrė sveikatos sutrikimą, aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos ar regiono aplinkos apsaugos departamento vadovas apie tai privalo pranešti prokurorui. 
+8. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę kaip specialiąją priemonę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių specifikaciją įtrauktus užtaisus, kurių keliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
+
+
+
+
+9. Kai nėra neišvengiamo pavojaus aplinkos apsaugos valstybinės kontrolės pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama: 
+
+
+1) prieš asmenis, jeigu akivaizdu arba aplinkos apsaugos valstybinės kontrolės pareigūnui žinoma, kad jie neįgalūs;
+
+
+
+
+2) prieš asmenis, jeigu aplinkos apsaugos valstybinės kontrolės pareigūnui yra žinoma, kad jie turi neliečiamybės teisę;
+
+
+
+
+3) prieš moteris, jeigu akivaizdu arba aplinkos apsaugos valstybinės kontrolės pareigūnui žinoma, kad jos nėščios;
+
+
+
+
+4) prieš nepilnamečius asmenis, jeigu jų išvaizda atitinka amžių.
+
+
+
+
+
+
+10. Aplinkos apsaugos valstybinės kontrolės pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie aplinkos apsaugos valstybinės kontrolės pareigūno panaudotą fizinę ar psichinę prievartą, jeigu tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+11. Aplinkos apsaugos valstybinės kontrolės pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie geba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos panaudojimu. Aplinkos apsaugos valstybinės kontrolės pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+12. Specialiųjų priemonių specifikaciją ir jų panaudojimo tvarką nustato Vyriausybė.
 
 
 Straipsnio pakeitimai:
 Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
+Straipsnio pakeitimai:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
  
 
 
 
 
-42 straipsnis. Fizinės prievartos naudojimas
-
-
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti fizinę prievartą: 
-
-
-1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi; 
-
-
-
-
-2) sulaikydamas teisės pažeidimą padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo;
-
-
-
-
-3) vykstant pasikėsinimui į aplinkos apsaugos valstybinę kontrolę vykdančių institucijų transporto priemonę, šaunamąjį ginklą, specialiąsias ryšio, aktyvios ar pasyvios gynybos priemones ar kitą aplinkos apsaugos ir gamtos išteklių naudojimo valstybinę kontrolę vykdančių institucijų turtą, taip pat kai būtina juos atgauti; 
-
-
-
-
-4) esant tarnybiniam būtinumui sulaikyti transporto priemonę vairuojantį asmenį. 
-
-
-
-
-
-
-2. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš nėščias moteris, taip pat prieš neįgaliuosius ar nepilnamečius, jei šie asmenų požymiai pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar sveikatai būdu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1151, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13602
+42 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
  
-
-
 
 
 
@@ -1683,53 +1757,77 @@ Nr. XII-1151, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13602
 43 straipsnis. Šaunamojo ginklo naudojimas
 
 
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas kaip išimtinę priemonę turi teisę panaudoti šaunamąjį ginklą, kai kitos prievartos priemonės yra neveiksmingos. 
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
 
 
 
 
-2. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį šiais atvejais: 
+2. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis šiais atvejais:
 
 
-1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai kėsinimosi; 
-
-
-
-
-2) sulaikydamas nusikaltimą padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kitaip šio asmens neįmanoma nuginkluoti; 
+1) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
 
 
 
 
-3) vykstant pasikėsinimui į šaunamąjį ginklą.
+2) sulaikydamas nusikalstamą veiką galimai padariusį asmenį, jeigu kyla neišvengiamas pavojus aplinkos apsaugos valstybinės kontrolės pareigūno ar kito asmens gyvybei ar sveikatai;
+
+
+
+
+3) sulaikydamas transporto priemonę vairuojantį asmenį, kuris savo veiksmais kelia neišvengiamą pavojų aplinkos apsaugos valstybinės kontrolės pareigūno arba kito asmens gyvybei.
 
 
 
 
 
 
-3. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti psichinę ar fizinę prievartą, jeigu sulaikomas ar sulaikytas asmuo bando panaudoti prievartą arba artinasi prie aplinkos apsaugos valstybinės kontrolės pareigūno ir neklauso jo reikalavimo laikytis nurodyto atstumo arba kėsinasi atimti iš aplinkos apsaugos valstybinės kontrolės pareigūno šaunamąjį ginklą. Jeigu panaudotos prievartos priemonės yra neveiksmingos arba jų panaudoti neįmanoma dėl asmens veiksmų intensyvumo, o delsimas kelia grėsmę aplinkos apsaugos valstybinės kontrolės pareigūno gyvybei, aplinkos apsaugos valstybinės kontrolės pareigūnas gali panaudoti šaunamąjį ginklą.
+3. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus aplinkos apsaugos valstybinės kontrolės pareigūno arba kitų asmenų gyvybei ar sveikatai.
 
 
 
 
-4. Draudžiama naudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš nėščias moteris, taip pat prieš neįgaliuosius, nepilnamečius, jei šie asmenų požymiai pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar sveikatai būdu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1151, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13602
+4. Ketindamas naudoti šaunamąjį ginklą, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo įspėti apie šį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų aplinkos apsaugos valstybinės kontrolės pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
+
+
+
+
+5. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nekeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą. 
+
+
+
+
+6. Kai nėra neišvengiamo pavojaus aplinkos apsaugos valstybinės kontrolės pareigūno arba kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą draudžiama:
+
+
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys;
+
+
+
+
+2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui.
+
+
+
+
+
+
+7. Aplinkos apsaugos valstybinės kontrolės pareigūnas, panaudojęs šaunamąjį ginklą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie aplinkos apsaugos valstybinės kontrolės pareigūno panaudotą šaunamąjį ginklą, jeigu tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+8. Aplinkos apsaugos valstybinės kontrolės pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie geba veikti situacijomis, susijusiomis su šaunamojo ginklo panaudojimu. Aplinkos apsaugos valstybinės kontrolės pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+9. Šio straipsnio 1, 2, 3 dalių ir 6 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
  
-
-
-
-
-5. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį naudoti, jeigu mano, kad konkrečioje situacijoje gali tekti jį panaudoti. 
-
-
-
-
-6. Aplinkos apsaugos kontrolės pareigūnas, nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą arba išsikviesti pagalbą. 
- 
-
-
 
 
 
@@ -1818,22 +1916,25 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 49 straipsnis. Neetatinių aplinkos apsaugos inspektorių pareigos
 
 
-1. Neetatiniai aplinkos apsaugos inspektoriai, kontroliuodami, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų reikalavimų, privalo: 
+1. Neetatiniai aplinkos apsaugos inspektoriai, tikrindami, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų reikalavimų, privalo:
 
 
-1) nustatę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti jam kelią, išsiaiškinti priežastis bei nustatyti asmenis, kaltus šio pažeidimo padarymu. Kai neetatiniai aplinkos apsaugos inspektoriai pagal savo kompetenciją negali imtis priemonių dėl aplinkos apsaugos įstatymų pažeidimų, jie privalo apie tokius pažeidimus pranešti aplinkos apsaugos valstybinę kontrolę vykdančioms institucijoms ar pareigūnams;
-
-
-
-
-2) pranešti aplinkos apsaugos valstybinės kontrolės institucijoms ar pareigūnams apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo bei ekologinių pokyčių atvejus ir dalyvauti organizuojant pasekmių likvidavimą; 
+1) užfiksavę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti jam kelią, išsiaiškinti priežastis bei pažeidimą padariusius asmenis. Kai neetatiniai aplinkos apsaugos inspektoriai pagal savo kompetenciją negali imtis priemonių dėl aplinkos apsaugos įstatymų pažeidimų, jie privalo apie tokius pažeidimus pranešti aplinkos apsaugos valstybinę kontrolę vykdančioms institucijoms ar pareigūnams;
 
 
 
 
-3) išsiaiškinę aplinkos apsaugos įstatymų pažeidimą, privalo nustatyta tvarka perduoti aplinkos apsaugos valstybinės kontrolės pareigūnams arba įstatymų nustatyta tvarka kitiems pareigūnams ar institucijoms surašytus, pažeidimą fiksuojančius dokumentus, paimtus neteisėtai įgytus gamtos išteklius, produkciją, pažeidimo padarymo įrankius, kitus daiktinius ir dokumentinius įrodymus.
+2) pranešti aplinkos apsaugos valstybinės kontrolės institucijoms ar pareigūnams apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo bei ekologinių pokyčių atvejus ir dalyvauti organizuojant pasekmių likvidavimą;
 
 
+
+
+3) išsiaiškinę aplinkos apsaugos įstatymų pažeidimą, nustatyta tvarka perduoti aplinkos apsaugos valstybinės kontrolės pareigūnams arba įstatymų nustatyta tvarka kitiems pareigūnams ar institucijoms pažeidimą fiksuojančius įrodymus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+ 
 
 
 
@@ -1848,38 +1949,35 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 
 
-50 straipsnis. Neetatinių aplinkos apsaugos inspektorių teisės 
+50 straipsnis. Neetatinių aplinkos apsaugos inspektorių teisės
 
 
-Neetatiniai aplinkos apsaugos inspektoriai turi teisę: 
-
-
-1) tikrinti fizinių ir juridinių asmenų bei pareigūnų dokumentus, suteikiančius teisę naudoti gamtos išteklius; 
+1. Neetatiniai aplinkos apsaugos inspektoriai turi teisę naudodami technines priemones fiksuoti asmenis, įtariamus darant ar darančius aplinkos apsaugos ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, šių asmenų veiksmus ir jų transporto priemones. 
 
 
 
 
-2) aiškintis aplinkos apsaugos įstatymų pažeidėjų asmenybes, pristatyti juos šiuo tikslu į policiją; 
+2. Neetatiniai aplinkos apsaugos inspektoriai kartu su aplinkos apsaugos valstybinės kontrolės pareigūnais, vykdančiais valstybinę aplinkos apsaugos kontrolę, turi teisę:
+
+
+1) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, patekti į ūkinių objektų teritorijas ir atlikti aplinkos apsaugos valstybinės kontrolės pareigūnų pavestas užduotis aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimams išaiškinti ar jų pasekmėms likviduoti;
 
 
 
 
-3) surašyti administracinių teisės pažeidimų protokolus, aktus, kitus pažeidimą fiksuojančius dokumentus ir dalyvauti nagrinėjant jų pagrindu iškeltas administracines bylas; 
+2) tikrinti asmenų ir pareigūnų dokumentus, suteikiančius teisę naudoti gamtos išteklius; 
 
 
 
 
-4) įstatymų nustatyta tvarka paimti iš aplinkos apsaugos įstatymų pažeidėjų neteisėtai įgytus gamtos išteklius, produkciją, pažeidimo padarymo įrankius, kitus daiktinius pažeidimo padarymo įrodymus, gauti paaiškinimus, dokumentų nuorašus; 
+3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams pristatyti administracinėn atsakomybėn traukiamą asmenį, jo sutikimu, į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, o jos nenustačius – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo.
 
 
 
 
-5) kartu su aplinkos apsaugos valstybinės kontrolės pareigūnais patekti į ūkinių objektų teritorijas ir atlikti jų užduotis aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimams išaiškinti ar pasekmėms likviduoti.
+Straipsnio pakeitimai:
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
  
-
-
-
-
 
 
 
@@ -2149,3 +2247,13 @@ Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 12, 39-5, 39-6 ir 55 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 12, 40, 41, 43 straipsnių, V skyriaus pavadinimo pakeitimo ir 42 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 12, 39-5, 39-6, 49 ir 50 straipsnių pakeitimo įstatymas
