@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -132,12 +132,14 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-3. Nuo 2014 m. sausio 1 d. už vieną iš tėvų, auginantį vaiką iki 3 metų ir gaunantį motinystės (tėvystės) socialinio draudimo pašalpą arba draudžiamą valstybiniu socialiniu pensijų draudimu valstybės lėšomis, į pensijų fondą pervedama 2 procentų Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio dydžio pensijų įmoka iš valstybės biudžeto lėšų. Vienam iš tėvų, auginančiam daugiau negu vieną vaiką iki 3 metų, pensijų įmoka pervedama už kiekvieną vaiką.
+3. Nuo 2014 m. sausio 1 d. už vieną iš tėvų, auginantį vaiką iki 3 metų ir gaunantį vaiko priežiūros išmoką arba draudžiamą valstybiniu socialiniu pensijų draudimu valstybės lėšomis, į pensijų fondą pervedama 2 procentų Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio dydžio pensijų įmoka iš valstybės biudžeto lėšų. Vienam iš tėvų, auginančiam daugiau negu vieną vaiką iki 3 metų, pensijų įmoka pervedama už kiekvieną vaiką.
+TAR pastaba. 4 straipsnio 3 dalis įsigalioja 2017-01-01 ir galioja iki 2017-12-31.
 Papildyta straipsnio dalimi:
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
 Straipsnio dalies pakeitimai:
 Nr. XI-169, 2009-02-17, Žin., 2009, Nr. 25-971 (2009-03-05), i. k. 1091010ISTA00XI-169
 Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
+Nr. XII-2513, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20650
  
 
 4. Pensijų įmokos už asmenis, draudžiamus valstybės biudžeto lėšomis, neskaičiuojamos ir nemokamos.
@@ -307,4 +309,9 @@ Lietuvos Respublikos pensijų sistemos reformos įstatymo 7 ir 8 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 1, 2, 3, 4, 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2513, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20650
+Lietuvos Respublikos pensijų sistemos reformos įstatymo Nr. IX-1215 3, 4, 5 ir 6 straipsnių pakeitimo įstatymas
 
