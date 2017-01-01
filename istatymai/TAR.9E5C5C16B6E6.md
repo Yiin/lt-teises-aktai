@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -2071,23 +2071,24 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 33 straipsnis. Administracinės ir baudžiamosios atsakomybės už šio Įstatymo pažeidimus taikymo tvarka
 
 
-1. Fiziniai asmenys už šio Įstatymo pažeidimus atsako Lietuvos Respublikos administracinių teisės pažeidimų kodekse (toliau – Administracinių teisės pažeidimų kodeksas) ir Lietuvos Respublikos baudžiamajame kodekse (toliau – Baudžiamasis kodeksas) nustatyta tvarka.
+1. Fiziniai asmenys už šio Įstatymo pažeidimus atsako Lietuvos Respublikos administracinių nusižengimų kodekse (toliau – Administracinių nusižengimų kodeksas) ir Lietuvos Respublikos baudžiamajame kodekse (toliau – Baudžiamasis kodeksas) nustatyta tvarka.
 
 
 
 
-2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, be nustatyta tvarka išduotos licencijos, taip pat alkoholio produktai, kurie neatitinka Lietuvos Respublikoje galiojančių saugos ir kokybės reikalavimų ar kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, konfiskuojami vadovaujantis arba Administracinių teisės pažeidimų kodeksu, arba Baudžiamuoju kodeksu.
+2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, be nustatyta tvarka išduotos licencijos, taip pat alkoholio produktai, kurie neatitinka Lietuvos Respublikoje galiojančių saugos ir kokybės reikalavimų ar kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, konfiskuojami vadovaujantis arba Administracinių nusižengimų kodeksu, arba Baudžiamuoju kodeksu.
 
 
 
 
-3. Konfiskuoti alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3. Konfiskuoti alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1198, 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
 Straipsnio pakeitimai:
 Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
+Nr. XIII-156, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29848
  
 
 
@@ -2460,7 +2461,10 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 35 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
 
 
-1. Šio Įstatymo 34 straipsnio 1 dalyje nurodytų kontrolės institucijų tam įgalioti darbuotojai (pareigūnai), nustatę, kad šio Įstatymo reikalavimai pažeisti, surašo Administracinių teisės pažeidimų kodekse nustatyto turinio protokolą. 
+1. Šio Įstatymo 34 straipsnio 1 dalyje nurodytų kontrolės institucijų tam įgalioti darbuotojai (pareigūnai), nustatę, kad šio Įstatymo reikalavimai pažeisti, surašo Administracinių nusižengimų kodekse nustatyto turinio protokolą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-156, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29848
+ 
 
 
 
@@ -3060,3 +3064,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 9 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 IV skyriaus trečiojo skirsnio pavadinimo ir 28 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-156, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29848
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 33 ir 35 straipsnių pakeitimo įstatymas
