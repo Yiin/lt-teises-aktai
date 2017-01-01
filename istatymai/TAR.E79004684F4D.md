@@ -20,14 +20,12 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
  
  
-LIETUVOS RESPUBLIKOS
-LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ
-ĮSTATYMAS 
+LIETUVOS RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMAS 
  
 1995 m. birželio 28 d. Nr. I-976
 Vilnius 
@@ -572,6 +570,14 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr. 39-1355 (2001 05 09)
 
 
 
+31. Zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos apskaitos, buhalterijos ir konsultacinės veiklos (išskyrus auditą, sąskaitų ekspertizės ir teisingumo paliudijimą), įstaigų administracinės ir aptarnavimo veiklos, žmogiškųjų išteklių veiklos, architektūros ir inžinerijos ir su ja susijusių techninių konsultacijų veiklos (išskyrus statybos darbų kontrolę, vietovės nuotraukų darymą). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis mokestinių metų darbuotojų skaičius tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų sumą ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms.
+Papildyta straipsnio dalimi:
+Nr. XII-2698, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26862
+ 
+
+
+
+
 4. Pelno mokesčio lengvatos taikomos ir laisvojoje ekonominėje zonoje gauti dividendai neapmokestinami Lietuvos Respublikos pelno mokesčio įstatymo nustatytais atvejais ir tvarka.
 
 
@@ -988,3 +994,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1263, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14855
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 17 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2698, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26862
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 15 straipsnio pakeitimo įstatymas
