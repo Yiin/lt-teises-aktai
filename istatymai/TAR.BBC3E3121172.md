@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 39-1088, i. k. 1001010ISTAIII-1631
  
@@ -205,7 +205,6 @@ PATAISOS PAREIGŪNŲ PRIĖMIMAS Į TARNYBĄ
 13 straipsnis. Skyrimas į pataisos pareigūno pareigas
 
 1. Asmuo, baigęs profesinio mokymo programą pataisos pareigūnų švietimo įstaigoje, šios įstaigos vadovo įsakymu siunčiamas į Kalėjimų departamentui pavaldžią įstaigą, išdavusią šio statuto 18 straipsnio 3 dalyje nurodytą siuntimą. Kalėjimų departamentui pavaldžios įstaigos vadovas ne vėliau kaip per 5 darbo dienas nuo pataisos pareigūnų švietimo įstaigos vadovo įsakymo dėl asmens siuntimo gavimo privalo savo įsakymu paskirti asmenį į pataisos pareigūno pareigas.
-TAR pastaba. 13 straipsnio 1 dalis įsigalioja 2015-09-01.
 
 2. Šio statuto 12 straipsnyje nustatyta tvarka atrinktas asmuo į pataisos pareigūno pareigas skiriamas į pataisos pareigūno pareigas skiriančio vadovo sprendimu.
 
@@ -289,7 +288,6 @@ prisiekiu būti ištikimas (ištikima) Lietuvos Respublikai, gerbti ir vykdyti L
 
 KETVIRTASIS SKIRSNIS
 PATAISOS PAREIGŪNŲ MOKYMAS
-TAR pastaba. Ketvirtasis skirsnis įsigalioja 2015-09-01.
  
 
 17 straipsnis. Mokymo organizavimas
@@ -571,7 +569,10 @@ PATAISOS PAREIGŪNŲ SKATINIMAS IR TARNYBINĖ ATSAKOMYBĖ
 
 2) kai pataisos pareigūnas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš tarnybos. Sprendimą dėl pataisos pareigūno, atleisto iš tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima pataisos pareigūną į pareigas skyręs vadovas, atsižvelgdamas į šio straipsnio 3 dalyje nustatytus reikalavimus. Šis sprendimas teisingumo ministro nustatyta tvarka perduodamas valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir atleistajam iš pataisos pareigūno pareigų.
 
-8. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl pataisos pareigūno veikos yra pradėtas baudžiamasis procesas ar bylos dėl administracinio teisės pažeidimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar bylos dėl administracinio teisės pažeidimo teiseną arba pasibaigia baudžiamasis procesas ar bylos dėl administracinio teisės pažeidimo teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pataisos pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio teisės pažeidimo, tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio teisės pažeidimo teisenos eigą.
+8. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl pataisos pareigūno veikos yra pradėtas baudžiamasis procesas ar administracinio nusižengimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinio nusižengimo teiseną arba pasibaigia baudžiamasis procesas ar administracinio nusižengimo teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pataisos pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo, tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar administracinio nusižengimo teisenos eigą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2713, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26497
+ 
 
 9. Tarnybinę nuobaudą pataisos pareigūnui skiria arba sprendimą dėl pataisos pareigūno, atleisto iš tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir sprendimą dėl tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima pataisos pareigūną į pareigas skyręs vadovas. 
 
@@ -857,8 +858,6 @@ Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
 4) 45 kalendorinės dienos – ištarnavusiems daugiau kaip 20 metų.
 
 2. Ištarnavusiam iki 10 metų pataisos pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų arba neįgalų vaiką (vaikus) iki 18 metų, suteikiamos kasmetinės 35 kalendorinių dienų atostogos.
-TAR pastaba. 42 straipsnio 2 dalis įsigalioja 2015-09-01.
- 
 
 3. Pataisos pareigūnams kasmetinės atostogos suteikiamos už kalendorinius metus. Pirmaisiais kalendoriniais tarnybos metais atostogų trukmė apskaičiuojama proporcingai ištarnautam laikui.
 
@@ -1225,4 +1224,9 @@ Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
 Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto pakeitimo įstatymo Nr. XII-1447 3 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2713, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26497
+Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 30 straipsnio pakeitimo įstatymas
 
