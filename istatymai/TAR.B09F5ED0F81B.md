@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B09F5ED0F81B"
 
 # Lietuvos Respublikos vaiko gimimo momento nustatymo įstatymas
 
+Suvestinė redakcija nuo 2017-01-01
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 43-1602, i. k. 1021010ISTA00IX-837
+ 
 LIETUVOS RESPUBLIKOS VAIKO GIMIMO MOMENTO NUSTATYMO ĮSTATYMAS
  
 2002 m. balandžio 4 d. Nr. IX-837
@@ -100,12 +104,21 @@ Vaiko gimimo momentą nustatantys asmenys privalo:
 
 
 
-6 straipsnis. Vaiko gimimo pažymėjimo išdavimas
+6 straipsnis. Vaiko gimimo pažymėjimo sudarymas ir išdavimas
 
 
-Vaiko gimimo pažymėjimą Vyriausybės nustatyta tvarka išduoda asmens sveikatos priežiūros įstaiga arba gydytojų konsultacinė komisija.
+1. Vaiko gimimo pažymėjimą Lietuvos Respublikos Vyriausybės nustatyta tvarka sudaro ir išduoda sveikatos priežiūros įstaiga.
 
 
+
+
+2. Sveikatos priežiūros įstaiga sudarytą vaiko gimimo pažymėjimą privalo nedelsdama, ne vėliau kaip kitą darbo dieną po jo išdavimo, elektroninių ryšių priemonėmis perduoti civilinės metrikacijos įstaigai, registruojančiai vaiko gimimą.
+
+
+TAR pastaba. Iki 2018 m. kovo 1 d. sveikatos priežiūros įstaigos, nesinaudojančios valstybės elektronine sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacine sistema, sudarytus vaiko gimimo pažymėjimus perduoda civilinės metrikacijos įstaigoms Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XII-2121, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19714
+ 
 
 
 
@@ -116,3 +129,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2121, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19714
+Lietuvos Respublikos vaiko gimimo momento nustatymo įstatymo Nr. IX-837 6 straipsnio pakeitimo įstatymas
