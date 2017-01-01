@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2016-01-01
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -374,18 +374,59 @@ Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
 5 straipsnis. Piniginis matas
 
 
-1. Apskaita tvarkoma ir apskaitos dokumentai surašomi naudojant eurą, o prireikus – ir eurą, ir užsienio valiutą.
+1. Apskaita tvarkoma ir apskaitos dokumentai surašomi naudojant eurą, o prireikus – ir eurą, ir užsienio valiutą.
 
 
 
 
-2. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į eurus pagal Europos centrinio banko paskelbtą orientacinį euro ir užsienio valiutos santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutos santykį, jeigu kiti teisės aktai nenustato kitaip. Europos centrinio banko ir Lietuvos banko paskelbti orientaciniai euro ir užsienio valiutų santykiai apskaitoje taikomi nuo kitos darbo dienos Lietuvos Respublikoje po jų paskelbimo.
+2. Ūkio subjektas apskaitos politikoje turi nurodyti, kokios dienos euro ir užsienio valiutos santykį taiko apskaitoje ūkinėms operacijoms ir ūkiniams įvykiams, kurių atlikimas ir buvimas ar rezultatų įforminimas susijęs su užsienio valiuta, perskaičiuoti, ir konkretų euro ir užsienio valiutos santykio paskelbimo šaltinį.
+
+
+
+
+3. Jeigu kiti teisės aktai nenustato kitaip, ūkio subjektas apskaitos politikoje gali pasirinkti:
+
+
+1) Europos Centrinio Banko paskelbtą orientacinį euro ir užsienio valiutos santykį arba Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutos santykį tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos Centrinis Bankas neskelbia;
+
+
+
+
+2) kituose visuotinai pripažintuose rinkos informacijos šaltiniuose paskelbtą rinkos euro ir užsienio valiutos santykį.
+
+
+
+
+
+
+4. Ūkio subjektas, pasirinkęs šio straipsnio 3 dalies 1 punkte nurodytą euro ir užsienio valiutos santykio paskelbimo šaltinį, gali taikyti:
+
+
+1) ūkinio įvykio arba ūkinės operacijos dieną paskelbtą euro ir užsienio valiutos santykį, o jeigu tą dieną euro ir užsienio valiutos santykis nebuvo paskelbtas, – paskutinį paskelbtą euro ir užsienio valiutos santykį arba
+
+
+
+
+2) paskutinį iki ūkinio įvykio arba ūkinės operacijos dienos paskelbtą euro ir užsienio valiutos santykį.
+
+
+
+
+
+
+5. Viešojo sektoriaus subjektai taiko šio straipsnio 3 dalies 1 punkte nurodytame euro ir užsienio valiutos santykio paskelbimo šaltinyje paskelbtą šio straipsnio 4 dalies 2 punkte nurodytą euro ir užsienio valiutos santykį.
+
+
+
+
+6. Ūkio subjektas, pasirinkęs šio straipsnio 3 dalies 2 punkte nurodytą euro ir užsienio valiutos santykio paskelbimo šaltinį, taiko šio straipsnio 4 dalies 1 punkte nurodytą euro ir užsienio valiutos santykį.
+
+
 Straipsnio pakeitimai:
 Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1119, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13408
+Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
  
 
 
