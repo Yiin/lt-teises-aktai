@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -98,6 +98,21 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 
 
 10. Prevencinės priemonės – galimų teisės pažeidimų priežasčių ir sąlygų šalinimas.
+
+
+
+
+11. Prievarta – Vadovybės apsaugos departamento veiklos metodas, kuriuo siekiama įgyvendinti Vadovybės apsaugos departamento uždavinius ir kuris taikomas, kai nevykdomi Vadovybės apsaugos departamento pareigūno reikalavimai ar nurodymai arba siekiama išvengti pavojaus. Vadovybės apsaugos departamento pareigūnas šio įstatymo nustatytais atvejais ir tvarka gali naudoti psichinę ir (ar) fizinę prievartą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
+ 
+
+
+
+
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vidaus tarnybos statute (toliau – Vidaus tarnybos statutas), Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
  
 
 
@@ -498,9 +513,18 @@ Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
 
 
 
-8) atlieka kitas teisės aktų nustatytas funkcijas.
+8) vidaus reikalų centrinių įstaigų vadovų prašymu padeda atlikti vidaus reikalų statutinėms įstaigoms pavestas funkcijas. Vadovybės apsaugos departamento pareigūnų pasitelkimo tvarką ir konkrečias užduotis nustato Lietuvos Respublikos vidaus reikalų ministras; 
+Papildyta straipsnio punktu:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
+ 
+
+
+
+
+9) atlieka kitas teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
  
 
 
@@ -963,207 +987,238 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
  
 
 
-22 straipsnis. Prievartos priemonės ir jų naudojimo sąlygos
+22 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Vadovybės apsaugos departamento pareigūnas šio Įstatymo ir kitų teisės aktų nustatytais atvejais ir tvarka turi teisę panaudoti psichinę ar (ir) fizinę prievartą, šaunamąjį ginklą bei sprogstamąsias medžiagas. 
-Straipsnio dalies pakeitimai:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+1. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Vadovybės apsaugos departamento pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų Vadovybės apsaugos departamento pareigūno ar kito asmens gyvybei ar sveikatai.
+
+
+
+
+2. Psichinę prievartą Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šio straipsnio 3, 4 dalyse arba šio įstatymo 23 straipsnio 2 dalyje nurodytais atvejais.
+
+
+
+
+3. Fizinę prievartą Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šiais atvejais:
+
+
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+
+
+
+
+2) kai asmenys vengia vykdyti Vadovybės apsaugos departamento pareigūnų reikalavimus ar nurodymus (siekdamas priversti asmenis paklusti), taip pat sulaikydamas asmenis (jeigu jie priešinasi);
+
+
+
+
+3) atremdamas kėsinimąsi į šaunamąjį ginklą, sprogmenis, specialiąsias priemones, ryšio priemones ir siekdamas šiuos objektus susigrąžinti;
+
+
+
+
+4) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimus arba šiuos užimtus objektus išlaisvindamas;
+
+
+
+
+5) patekdamas į teritorijas, patalpas ar transporto priemones per kratą ar poėmį arba kai turimais duomenimis jose gali būti laikomi įkaitai arba slėptis asmenys, galimai padarę administracinius nusižengimus ar nusikalstamas veikas;
+
+
+
+
+6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+
+
+
+
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
+
+
+
+
+
+
+4. Vadovybės apsaugos departamento pareigūnas turi teisę naudoti antrankius ir surišimo priemones:
+
+
+1) prieš agresyvius ar linkusius žalotis asmenis;
+
+
+
+
+2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą, taip pat vykdydamas asmenų išsiuntimą iš Lietuvos Respublikos ar vykdydamas šių asmenų grąžinimą į Lietuvos Respubliką.
+
+
+
+
+
+
+5. Vadovybės apsaugos departamento pareigūnas turi teisę transporto priemone stabdyti kitą transporto priemonę šią blokuodamas. Kai stabdoma transporto priemonė ar joje esantys asmenys savo veiksmais kelia neišvengiamą pavojų Vadovybės apsaugos departamento pareigūno ar kito asmens gyvybei ar sveikatai, Vadovybės apsaugos departamento pareigūnas turi teisę kita transporto priemone ar tam skirta specialiąja priemone taranuoti stabdomą transporto priemonę. Jei Vadovybės apsaugos departamento pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla pavojus asmenų gyvybei ar sveikatai, po šių veiksmų nedelsdamas turi imtis priemonių šių veiksmų padariniams pašalinti.
+
+
+
+
+6. Vadovybės apsaugos departamento pareigūnas turi teisę kaip specialiąją priemonę panaudoti šaunamąjį ginklą, iššaudamas į specialiųjų priemonių specifikaciją įtrauktus užtaisus, kurių keliamas poveikis sukurtas nesukelti tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
+
+
+
+
+7. Kai nėra neišvengiamo pavojaus Vadovybės apsaugos departamento pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
+
+
+1) prieš asmenis, jei akivaizdu arba Vadovybės apsaugos departamento pareigūnui žinoma, kad jie neįgalūs;
+
+
+
+
+2) prieš asmenis, jei Vadovybės apsaugos departamento pareigūnui yra žinoma, kad jie turi neliečiamybės teisę;
+
+
+
+
+3) prieš moteris, jei akivaizdu arba Vadovybės apsaugos departamento pareigūnui žinoma, kad jos nėščios;
+
+
+
+
+4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+
+
+
+
+
+
+8. Vadovybės apsaugos departamento pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Vadovybės apsaugos departamento pareigūno panaudotą fizinę ar psichinę prievartą, jei tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+9. Vadovybės apsaugos departamento pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos panaudojimu. Vadovybės apsaugos departamento pareigūnų parengimo ir tikrinimo tvarką nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+
+
+
+
+10. Specialiųjų priemonių specifikaciją ir naudojimo tvarką nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
  
 
 
 
 
-2. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas ir įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio Įstatymo 24 straipsnio 2, 4, 5 dalyse išvardytomis sąlygomis. 
-Papildyta straipsnio dalimi:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+23 straipsnis. Šaunamųjų ginklų ir sprogmenų naudojimas
+
+
+1. Šaunamieji ginklai ar sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+
+
+
+
+2. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenis šiais atvejais:
+
+
+1) atremdamas ginkluotą įsiveržimą į Lietuvos Respublikos teritoriją;
+
+
+
+
+2) atremdamas ginkluotus saugomų objektų, užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+
+
+
+
+3) gindamasis ar gindamas kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai nusikalstamo kėsinimosi;
+
+
+
+
+4) išlaisvindamas įkaitus arba užkirsdamas kelią įkaitų pagrobimui arba teroro aktui;
+
+
+
+
+5) sulaikydamas nusikalstamą veiką galimai padariusį asmenį, jeigu kyla neišvengiamas pavojus Vadovybės apsaugos departamento pareigūno ar kito asmens gyvybei ar sveikatai;
+
+
+
+
+6) sulaikydamas transporto priemonę vairuojantį asmenį, kuris savo veiksmais kelia neišvengiamą pavojų Vadovybės apsaugos departamento pareigūno ar kito asmens gyvybei.
+
+
+
+
+
+
+3. Vadovybės apsaugos departamento pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jei kyla neišvengiamas pavojus Vadovybės apsaugos departamento pareigūno arba kitų asmenų gyvybei ar sveikatai.
+
+
+
+
+4. Ketindamas naudoti šaunamąjį ginklą ar sprogmenis, Vadovybės apsaugos departamento pareigūnas privalo įspėti apie šį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų Vadovybės apsaugos departamento pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
+
+
+
+
+5. Vadovybės apsaugos departamento pareigūnas, nekeldamas pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą ar išsikviesti pagalbą.
+
+
+
+
+6. Šio straipsnio 2 dalies 1, 2 ir 4 punktuose nustatytais atvejais Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti sprogmenis prieš asmenis. Be to, nesukeldamas tiesioginio pavojaus asmens gyvybei, Vadovybės apsaugos departamento pareigūnas sprogmenis turi teisę panaudoti sprogstamiesiems įtaisams sunaikinti, patekdamas į patalpą (vietą), kurioje laikomi įkaitai ar daromi kiti pavojų asmens gyvybei ar sveikatai keliantys nusikalstami veiksmai.
+
+
+
+
+7. Kai nėra neišvengiamo pavojaus Vadovybės apsaugos departamento pareigūno arba kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą ar sprogmenis draudžiama:
+
+
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus šio straipsnio 2 dalies 1 ir 2 punktuose nurodytus atvejus;
+
+
+
+
+2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui.
+
+
+
+
+
+
+8. Vadovybės apsaugos departamento pareigūnas panaudojęs šaunamąjį ginklą ar sprogmenis ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Vadovybės apsaugos departamento pareigūno panaudotą šaunamąjį ginklą ar sprogmenis, jei tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+
+
+
+
+9. Vadovybės apsaugos departamento pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamojo ginklo ar sprogmenų panaudojimu. Vadovybės apsaugos departamento pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+10. Šio straipsnio 1, 2, 3 dalių ir 7 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
  
 
 
 
 
-3. Fizinė prievarta šiame Įstatyme suprantama kaip:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
- 
-
-
-1) bet kokio pobūdžio fizinės jėgos bei kovinių imtynių veiksmų panaudojimas;
-
-
-
-
-2) specialiųjų priemonių, t.y. guminių lazdų, antrankių bei surišimo priemonių, dujų, tarnybinių šunų, transporto priverstinio sustabdymo ir kitų teisės aktų patvirtintų aktyvios ir pasyvios gynybos nuo pasikėsinimo priemonių panaudojimas.
-
-
-
-
-
-
-4. Kai būtina, Vadovybės apsaugos departamento pareigūnas kaip prievartos priemonę gali panaudoti transporto priemonę, taip pat įvairius pagalbinius įrankius.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+24 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
  
 
 
 
 
-5. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti prievartos priemones tik esant tarnybiniam būtinumui ir tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai įtikinimo ir kitos neprievartinės priemonės buvo neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo ribas Vadovybės apsaugos departamento pareigūnas pasirenka atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą Vadovybės apsaugos departamento pareigūnas privalo stengtis išvengti sunkių padarinių žmonėms ir turtui. Prieš panaudodamas prievartą Vadovybės apsaugos departamento pareigūnas privalo įspėti teisės pažeidėją apie tokį ketinimą, išskyrus atvejus, kai bet koks delsimas kelia grėsmę saugomo asmens, pareigūno ar kito asmens gyvybei ir (ar) sveikatai arba įspėti neįmanoma dėl kitų priežasčių.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
- 
-
-
-
-
-6. Apie Vadovybės apsaugos departamento pareigūno panaudotą prievartą, sukėlusią asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
- 
-
-
-
-
-
-
-23 straipsnis. Fizinės prievartos naudojimas
-
-
-1. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti fizinę prievartą šiais atvejais:
-
-
-1) gindamas saugomą asmenį, save ar kitą asmenį nuo pradėto ar tiesiogiai gresiančio gyvybei ar sveikatai kėsinimosi;
-
-
-
-
-2) kai kėsinamasi į saugomą objektą ar kitą turtą;
-
-
-
-
-3) sulaikydamas teisės pažeidimą padariusį asmenį, kuris priešinasi arba kitaip aktyviai vengia sulaikymo;
-
-
-
-
-4) užtikrindamas teisėto reikalavimo įvykdymą, kai asmuo vengia tai padaryti;
-
-
-
-
-5) esant tarnybiniam būtinumui, stabdydamas transporto priemonę.
-
-
-
-
-
-
-2. Vadovybės apsaugos departamento pareigūnas turi teisę transporto priemone stabdyti, blokuoti arba taranuoti kitą transporto priemonę, jeigu jos vairuotojas ar kitas toje transporto priemonėje esantis asmuo savo veiksmais kelia pavojų saugomo asmens gyvybei ar sveikatai. Apie tokius įvykius turi būti nedelsiant pranešama policijai. Jei Vadovybės apsaugos departamento pareigūnas, vairuojantis transporto priemonę, blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla grėsmė asmenų gyvybei ar sveikatai, po tokių veiksmų jis turi imtis priemonių šių veiksmų padariniams pašalinti.
-
-
-
-
-3. Draudžiama naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys užpuola saugomą asmenį, pareigūną ar kitą asmenį arba, nevykdydami teisėtų pareigūno reikalavimų, priešinasi pavojingu gyvybei ar sveikatai būdu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
- 
-
-
-
-
-
-
-24 straipsnis. Šaunamojo ginklo naudojimas
-
-
-1. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį, gyvūną arba transporto priemonę. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai kitos priemonės yra neveiksmingos.
-
-
-
-
-2. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį šiais atvejais:
-
-
-1) gindamas saugomą asmenį, save ar kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai kėsinimosi;
-
-
-
-
-2) gindamas saugomą objektą nuo kėsinimosi, jei jis yra susijęs su pavojumi asmenų gyvybei ar sveikatai;
-
-
-
-
-3) sulaikydamas pasikėsinimą į asmens gyvybę ar sveikatą įvykdžiusį asmenį, kuris priešinasi arba kitaip aktyviai vengia sulaikymo;
-
-
-
-
-4) sulaikydamas asmenį, kuris kėsinasi padaryti gyvybei ar sveikatai pavojingą nusikalstamą veiką, kai šis asmuo atsisako vykdyti reikalavimą padėti ginklą arba kitą daiktą, kuriuo galima atimti gyvybę žmogui ar jį sužaloti;
-
-
-
-
-5) vykstant pasikėsinimui į šaunamąjį ginklą, jeigu kyla pavojus asmens gyvybei.
-
-
-
-
-
-
-3. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, kai jis kelia grėsmę saugomo asmens, paties pareigūno ar kitų asmenų gyvybei ar sveikatai. Vadovybės apsaugos departamento pareigūnas taip pat turi teisę panaudoti šaunamąjį ginklą kitais būtinojo reikalingumo atvejais.
-
-
-
-
-4. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš transporto priemonę šiais atvejais:
-
-
-1) kai transporto priemonė naudojama pavojingam gyvybei ar sveikatai kėsinimuisi prieš saugomą asmenį, pareigūną ar kitą asmenį;
-
-
-
-
-2) sulaikydamas nusikalstamą veiką padariusį asmenį, kai jis bando pabėgti transporto priemone.
-
-
-
-
-
-
-5. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, išskyrus tiesioginio ginkluoto kėsinimosi į saugomus asmenis ar objektus atvejus, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai tokie asmenys priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
- 
-
-
-
-
-6. Užtikrindamas vadovybės apsaugą užsienyje, Vadovybės apsaugos departamento pareigūnas savo teisę panaudoti šaunamąjį ginklą įgyvendina vadovaudamasis tos šalies, kurioje užtikrinama apsauga, teisės aktais.
- 
-
-
-
-
-
-
-25 straipsnis. Sprogstamųjų medžiagų naudojimas
-
-
-Vadovybės apsaugos departamento pareigūnas, nesukeldamas grėsmės žmogaus gyvybei ir sveikatai, turi teisę panaudoti sprogstamąsias medžiagas šiais atvejais:
-
-
-1) sprogstamiesiems užtaisams sunaikinti;
-
-
-
-
-2) patekti į patalpą (vietą) ar transporto priemonę arba evakuoti iš patalpos (vietos) ar transporto priemonės, kai daromos žmogaus gyvybei ar sveikatai grėsmę keliančios nusikalstamos veikos arba jų gyvybei ar sveikatai kyla realus pavojus dėl kitų priežasčių.
-
-
-
-
+25 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
 Straipsnio pakeitimai:
 Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
  
@@ -1171,18 +1226,10 @@ Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010IST
 
 
 
-26 straipsnis. Vadovybės apsaugos departamento pareigūno saugumo garantijos
-
-
-1. Vadovybės apsaugos departamento pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį panaudoti visais atvejais, kai yra pagrindas manyti, kad gali prireikti jį panaudoti.
-
-
-
-
-2. Vadovybės apsaugos departamento pareigūnas, nesukeldamas grėsmės įstatymo saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, iškviesti pagalbą arba įspėti asmenį apie galimą šaunamojo ginklo panaudojimą prieš jį.
+26 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
  
-
-
 
 
 
@@ -1348,3 +1395,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 16 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 6 ir 9 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 12, 22, 23 straipsnių pakeitimo ir 24, 25, 26 straipsnių pripažinimo netekusiais galios įstatymas
