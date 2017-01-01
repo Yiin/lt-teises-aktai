@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -846,7 +846,10 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 
 
-3) nagrinėja, ar viešojo administravimo subjektų priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnyje nustatytus reikalavimus ir, jeigu yra pagrindas, kreipiasi į viešojo administravimo subjektus su reikalavimu pakeisti ar panaikinti teisės aktus ar kitus konkurenciją ribojančius sprendimus. Jeigu reikalavimas neįvykdytas, Konkurencijos taryba turi teisę valstybinio administravimo subjektų sprendimus, išskyrus Vyriausybės norminius teisės aktus, apskųsti Lietuvos vyriausiajam administraciniam teismui, savivaldybių administravimo subjektų ir kitų viešojo administravimo subjektų sprendimus – apygardos administraciniam teismui;
+3) nagrinėja, ar viešojo administravimo subjektų, išskyrus Lietuvos Respublikos Vyriausybės priimtus teisės aktus, priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnyje nustatytus reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1179,7 +1182,10 @@ KONKURENCIJOS TARYBOS ATLIEKAMAS ŠIO ĮSTATYMO PAŽEIDIMO TYRIMAS
 
 
 
-6) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo numatytais atvejais informacija nepateikiama nustatytu laiku, pažeidžiamas ar nuplėšiamas antspaudas, uždėtas pagal šio įstatymo 25 straipsnio 1 dalies 4 punktą, kliudoma Konkurencijos tarybos pareigūnams atlikti tyrimą arba nevykdomos Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 28 straipsnio 3 dalies 2 punktą. Ši tvarka netaikoma tiriant pažeidimus, kai nevykdomi ar vykdomi ne laiku Konkurencijos tarybos nutarimais paskirti įpareigojimai pakeisti ar panaikinti teisės aktus ar kitus konkurenciją ribojančius sprendimus, pažeidžiančius šio įstatymo 4 straipsnio reikalavimus. Šie pažeidimai tiriami Konkurencijos tarybos nustatyta tvarka.
+6) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo numatytais atvejais informacija nepateikiama nustatytu laiku, pažeidžiamas ar nuplėšiamas antspaudas, uždėtas pagal šio įstatymo 25 straipsnio 1 dalies 4 punktą, kliudoma Konkurencijos tarybos pareigūnams atlikti tyrimą arba nevykdomi Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 28 straipsnio 3 dalies 2 punktą.
+Straipsnio punkto pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1435,22 +1441,28 @@ KONKURENCIJOS TARYBOS ATLIEKAMAS ŠIO ĮSTATYMO PAŽEIDIMO TYRIMAS
 
 
 
-2. Šio straipsnio 1 dalyje numatytais atvejais ūkio subjektui, įtariamam padarius šio įstatymo pažeidimą, Konkurencijos taryba turi teisę taikyti šias laikinąsias priemones:
+2. Šio straipsnio 1 dalyje nurodytais atvejais ūkio subjektui ar viešojo administravimo subjektui, įtariamam padarius šio įstatymo pažeidimą, Konkurencijos taryba turi teisę taikyti šias laikinąsias priemones:
 
 
-1) įpareigoti ūkio subjektus nutraukti neteisėtą veiklą;
-
-
-
-
-2) gavusi Vilniaus apygardos administracinio teismo leidimą, įpareigoti ūkio subjektus atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar atsirastų nepataisomų pasekmių.
+1) įpareigoti ūkio subjektus ar viešojo administravimo subjektus nutraukti neteisėtą veiklą;
 
 
 
 
+2) gavusi Vilniaus apygardos administracinio teismo leidimą, įpareigoti ūkio subjektus ar viešojo administravimo subjektus atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminės žalos ar atsirastų nepataisomų pasekmių. 
 
 
-3. Prieš priimdama nutarimą taikyti laikinąsias priemones, Konkurencijos taryba ūkio subjektui, įtariamam pažeidus šį įstatymą, turi suteikti galimybę per nustatytą terminą duoti paaiškinimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
+
+
+
+
+3. Prieš priimdama nutarimą taikyti laikinąsias priemones, Konkurencijos taryba ūkio subjektui ar viešojo administravimo subjektui, įtariamam pažeidus šį įstatymą, turi suteikti galimybę per nustatytą terminą duoti paaiškinimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1471,7 +1483,10 @@ KONKURENCIJOS TARYBOS ATLIEKAMAS ŠIO ĮSTATYMO PAŽEIDIMO TYRIMAS
 
 
 
-2. Prašyme turi būti nurodytas ūkio subjekto pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai, taikytinos laikinosios priemonės arba ūkinės veiklos apribojimai.
+2. Prašyme turi būti nurodytas ūkio subjekto ar viešojo administravimo subjekto pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai, taikytinos laikinosios priemonės arba ūkinės veiklos apribojimai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1631,7 +1646,10 @@ PROCEDŪROS DALYVIŲ IŠKLAUSYMAS KONKURENCIJOS TARYBOJE IR KONKURENCIJOS TARYBO
 
 
 
-3. Konkurencijos tarybos nutarimas turi remtis tik tomis tyrimo išvadomis ir faktinėmis aplinkybėmis, dėl kurių ūkio subjektas, įtariamas šio įstatymo pažeidimu, turėjo galimybę duoti paaiškinimus šio įstatymo 29 straipsnyje nustatyta tvarka.
+3. Konkurencijos tarybos nutarimas turi remtis tik tomis tyrimo išvadomis ir faktinėmis aplinkybėmis, dėl kurių ūkio subjektas ar viešojo administravimo subjektas, įtariamas šio įstatymo pažeidimu, turėjo galimybę duoti paaiškinimus šio įstatymo 29 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1706,9 +1724,10 @@ KONKURENCIJOS TARYBOS IR JOS ĮGALIOTŲ PAREIGŪNŲ SPRENDIMŲ IR VEIKSMŲ APSKU
 
 
 
-3. Skundo padavimas dėl Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui paskirta bauda, sustabdo baudos ir palūkanų priverstinį išieškojimą iki teismo sprendimo įsiteisėjimo dienos. 
+3. Skundo padavimas dėl Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui paskirta bauda, sustabdo baudos ir palūkanų priverstinį išieškojimą iki teismo sprendimo įsiteisėjimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XII-743, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00064
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
  
 
 
@@ -1756,10 +1775,15 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
  
 
 
-35 straipsnis. Ūkio subjektams taikomos sankcijos
+35 straipsnis. Ūkio subjektams ir viešojo administravimo subjektams taikomos sankcijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
-1. Konkurencijos taryba, nustačiusi, kad ūkio subjektai atliko šio įstatymo draudžiamus veiksmus ar padarė kitus šio įstatymo pažeidimus, vadovaudamasi objektyvumo ir proporcingumo principais, turi teisę:
+1. Konkurencijos taryba, nustačiusi, kad ūkio subjektai ar viešojo administravimo subjektai atliko šio įstatymo draudžiamus veiksmus ar padarė kitus šio įstatymo pažeidimus, vadovaudamasi objektyvumo ir proporcingumo principais, turi teisę: 
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
 
 
 1) įpareigoti ūkio subjektus nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant įpareigojimą nutraukti, pakeisti ar sudaryti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
@@ -1772,7 +1796,18 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-3) skirti ūkio subjektams šiame įstatyme nustatytas pinigines baudas.
+3) viešojo administravimo subjektui nurodyti per nustatytą terminą pakeisti ar panaikinti teisės aktus, kitus šio įstatymo 4 straipsnio reikalavimams prieštaraujančius sprendimus, ar atlikti kitus šio įstatymo 4 straipsnio pažeidimą šalinančius veiksmus; 
+Papildyta straipsnio punktu:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
+
+
+
+
+4) skirti ūkio subjektams ir viešojo administravimo subjektams šiame įstatyme nustatytas pinigines baudas.
+Straipsnio punkto pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1831,6 +1866,29 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku, už nurodymų pateikti informaciją vykdymą ne laiku, už prisiimtų įsipareigojimų nesilaikymą šio įstatymo numatytais atvejais ūkio subjektams gali būti skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pajamų praėjusiais ūkiniais metais.
+
+
+
+
+5. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat ne visos ar neteisingos informacijos pateikimą viešojo administravimo subjektams gali būti skiriama piniginė bauda iki šešių tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
+
+
+
+
+6. Už per Konkurencijos tarybos nustatytą arba šio įstatymo 39 straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 3 punkte nurodytų įpareigojimų neįvykdymą viešojo administravimo subjektams gali būti skiriama piniginė bauda iki šešių šimtų eurų už kiekvieną pažeidimo vykdymo dieną po termino įvykdyti įpareigojimus pašalinti pažeidimą pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
+
+
+
+
+7. Už šio įstatymo 4 straipsnio pažeidimus viešojo administravimo subjektams gali būti skiriama piniginė bauda iki 0,5 procento viešojo administravimo subjekto metinio biudžeto einamaisiais metais ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne daugiau negu šešiasdešimt tūkstančių eurų.
+Papildyta straipsnio dalimi:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
  
 
 
@@ -1841,7 +1899,9 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 37 straipsnis. Baudų skyrimas ir jų dydžio nustatymas
 
 
-1. Skiriamos ūkio subjektams baudos diferencijuojamos atsižvelgiant į:
+1. Skiriamos ūkio subjektams ir viešojo administravimo subjektams baudos diferencijuojamos atsižvelgiant į: 
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
 
 
 1) pažeidimo pavojingumą;
@@ -1854,7 +1914,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-3) ūkio subjekto atsakomybę lengvinančias ar sunkinančias aplinkybes;
+3) ūkio subjekto ir viešojo administravimo subjekto atsakomybę lengvinančias ar sunkinančias aplinkybes; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1871,12 +1934,18 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai, padarę pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Konkurencijos tarybai tyrimo metu, atlygino nuostolius, pašalino padarytą žalą, savo valia nutraukė pažeidimą, neatliko konkurenciją ribojančių veiksmų, pripažino Konkurencijos tarybos atlikto tyrimo metu nustatytas esmines aplinkybes, taip pat tai, kad pažeidimą sudarantis elgesys buvo nulemtas valdžios institucijų veiksmų ir ūkio subjekto finansinė padėtis yra labai sunki.
+2. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai ar viešojo administravimo subjektai, padarę pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Konkurencijos tarybai tyrimo metu, atlygino nuostolius, pašalino padarytą žalą, savo valia nutraukė pažeidimą, neatliko konkurenciją ribojančių veiksmų, pripažino Konkurencijos tarybos atlikto tyrimo metu nustatytas esmines aplinkybes, taip pat tai, kad pažeidimą sudarantis elgesys buvo nulemtas valdžios institucijų veiksmų ir ūkio subjekto finansinė padėtis yra labai sunki. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
 
-3. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami Konkurencijos tarybos įpareigojimo nutraukti neteisėtus veiksmus arba pakartotinai per septynerius metus padarė pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šiame įstatyme numatytos sankcijos.
+3. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai ar viešojo administravimo subjektai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami Konkurencijos tarybos įpareigojimo nutraukti neteisėtus veiksmus arba pakartotinai per septynerius metus padarė pažeidimą, už kurį ūkio subjektams ar viešojo administravimo subjektams jau buvo paskirtos šiame įstatyme numatytos sankcijos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+ 
 
 
 
@@ -1930,39 +1999,45 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-39 straipsnis. Ūkio subjektams paskirtų sankcijų vykdymas
+39 straipsnis. Ūkio subjektams ir viešojo administravimo subjektams paskirtų sankcijų vykdymas
 
 
-1. Ūkio subjektas Konkurencijos tarybos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per tris mėnesius nuo nutarimo paskelbimo Konkurencijos tarybos interneto svetainėje dienos. 
-
-
-
-
-2. Ūkio subjektui nesumokėjus baudos per šio straipsnio 1 dalyje nustatytą terminą, skaičiuojamos Lietuvos Respublikos civilinio kodekso 6.210 straipsnio 2 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šio straipsnio 1 dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų. Šis 180 dienų terminas pratęsiamas tiek, kiek laiko, suėjus šio straipsnio 1 dalyje nustatytam terminui, buvo sustabdytas baudos ir palūkanų priverstinis išieškojimas. Palūkanos neskaičiuojamos šio straipsnio 4 dalyje nustatytu baudos ar jos dalies mokėjimo atidėjimo laikotarpiu. 
+1. Ūkio subjektas ar viešojo administravimo subjektas Konkurencijos tarybos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per tris mėnesius nuo nutarimo paskelbimo Konkurencijos tarybos interneto svetainėje dienos.
 
 
 
 
-3. Jeigu ūkio subjektas sumoka baudą, o įsiteisėjusiu teismo sprendimu ūkio subjektui Konkurencijos tarybos paskirta bauda sumažinama arba panaikinama, permokėta piniginė suma įskaitoma arba grąžinama ūkio subjektui mutatis mutandis vadovaujantis Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta mokesčių permokų įskaitymo arba grąžinimo tvarka.
+2. Ūkio subjektui ar viešojo administravimo subjektui nesumokėjus baudos per šio straipsnio 1 dalyje nustatytą terminą, skaičiuojamos Lietuvos Respublikos civilinio kodekso 6.210 straipsnio 2 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šio straipsnio 1 dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų. Šis 180 dienų terminas pratęsiamas tiek, kiek laiko, suėjus šio straipsnio 1 dalyje nustatytam terminui, buvo sustabdytas baudos ir palūkanų priverstinis išieškojimas. Palūkanos neskaičiuojamos šio straipsnio 4 dalyje nustatytu baudos ar jos dalies mokėjimo atidėjimo laikotarpiu.
 
 
 
 
-4. Jeigu yra motyvuotas ūkio subjekto prašymas, Konkurencijos taryba turi teisę baudos ar jos dalies mokėjimą atidėti iki šešių mėnesių, jeigu sumokėti baudos laiku ūkio subjektas negali dėl objektyvių priežasčių. 
+3. Jeigu ūkio subjektas ar viešojo administravimo subjektas sumoka baudą, o įsiteisėjusiu teismo sprendimu ūkio subjektui ar viešojo administravimo subjektui Konkurencijos tarybos paskirta bauda sumažinama arba panaikinama, permokėta piniginė suma įskaitoma arba grąžinama ūkio subjektui ar viešojo administravimo subjektui mutatis mutandis vadovaujantis Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta mokesčių permokų įskaitymo arba grąžinimo tvarka.
 
 
 
 
-5. Ūkio subjektas privalo įvykdyti jam pagal šio įstatymo 35 straipsnio 1 dalies 1 ir 2 punktus skirtus Konkurencijos tarybos nutarime numatytus įpareigojimus nustatytomis sąlygomis ir terminais. Motyvuotu ūkio subjekto prašymu Konkurencijos taryba turi teisę įpareigojimų įvykdymo terminą atidėti iki dvigubai ilgesnio termino, negu buvo numatytas nutarime, jeigu įvykdyti nustatytų įpareigojimų laiku ūkio subjektas negali dėl objektyvių priežasčių. 
+4. Jeigu yra motyvuotas ūkio subjekto ar viešojo administravimo subjekto prašymas, Konkurencijos taryba turi teisę baudos ar jos dalies mokėjimą atidėti iki šešių mėnesių, jeigu sumokėti baudos laiku ūkio subjektas ar viešojo administravimo subjektas negali dėl objektyvių priežasčių.
 
 
 
 
-6. Ūkio subjekto nesumokėta bauda ir palūkanos išieškomi į valstybės biudžetą. Konkurencijos tarybos sprendimas dėl priverstinio baudos ir palūkanų išieškojimo yra vykdomasis dokumentas, kuris pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienus metus nuo Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas tiek laiko, kiek buvo atidėtas baudos mokėjimas ir sustabdytas baudos ir palūkanų priverstinis išieškojimas. 
+5. Ūkio subjektas ar viešojo administravimo subjektas privalo įvykdyti jam pagal šio įstatymo 35 straipsnio 1 dalį skirtus Konkurencijos tarybos nutarime numatytus įpareigojimus nustatytomis sąlygomis ir terminais. Motyvuotu ūkio subjekto ar viešojo administravimo subjekto prašymu Konkurencijos taryba turi teisę įpareigojimų įvykdymo terminą atidėti iki dvigubai ilgesnio termino, negu buvo numatytas nutarime, jeigu įvykdyti nustatytų įpareigojimų laiku ūkio subjektas ar viešojo administravimo subjektas negali dėl objektyvių priežasčių.
+
+
+
+
+6. Ūkio subjekto ar viešojo administravimo subjekto nesumokėta bauda ir palūkanos išieškomi į valstybės biudžetą. Konkurencijos tarybos sprendimas dėl priverstinio baudos ir palūkanų išieškojimo yra vykdomasis dokumentas, kuris pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienerius metus nuo Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas tiek laiko, kiek buvo atidėtas baudos mokėjimas ir sustabdytas baudos ir palūkanų priverstinis išieškojimas.
+
+
+
+
+7. Jeigu viešojo administravimo subjektas neįvykdo per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 3 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo termino įpareigojimui įvykdyti pabaigos kreiptis į administracinį teismą Administracinių bylų teisenos įstatymo nustatyta tvarka, prašydama panaikinti Konkurencijos įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu. Šiuos Konkurencijos tarybos prašymus pirmąja instancija nagrinėja Vilniaus apygardos administracinis teismas.
 
 
 Straipsnio pakeitimai:
 Nr. XII-743, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00064
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
  
 
 
@@ -2346,3 +2421,8 @@ Lietuvos Respublikos konkurencijos įstatymo 33, 39 straipsnių pakeitimo ir pap
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1178, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13567
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 8 ir 40 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18, 22, 26, 27, 30, 33, 35, 36, 37 ir 39 straipsnių pakeitimo įstatymas
