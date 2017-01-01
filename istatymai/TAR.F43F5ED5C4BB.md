@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
-Suvestinė redakcija nuo 2013-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
  
@@ -548,9 +548,10 @@ Nr. XI-1514, 2011-06-23, Žin. 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA
 
 
 
-3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos, administracinės teisės pažeidimo ar drausmės pažeidimo požymių;
+3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos, administracinio nusižengimo ar drausmės pažeidimo požymių;
 Straipsnio punkto pakeitimai:
 Nr. IX-1421, 2003-04-03, Žin., 2003, Nr. 38-1666 (2003-04-24), i. k. 1031010ISTA0IX-1421
+Nr. XII-2521, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20279
  
 
 
@@ -1217,3 +1218,8 @@ Lietuvos Respublikos karių materialinės atsakomybės įstatymo 1, 2, 4, 5, 7, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 Lietuvos Respublikos karių materialinės atsakomybės įstatymo 4, 5, 7, 8, 9, 11, 20, 21, 25 straipsnių pakeitimo ir papildymo bei 27 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2521, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20279
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 12 straipsnio pakeitimo įstatymas
