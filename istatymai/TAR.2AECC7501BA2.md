@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2aecc7501ba211e4b542dec0b12e28b0"
 
 # Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, 11 straipsnių pripažinimo netekusiais galios įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01
  
 Įstatymas paskelbtas: TAR 2014-08-04, i. k. 2014-10853
  
@@ -2420,22 +2420,9 @@ Papildyti 74 straipsnį 9 dalimi:
 47 straipsnis. Įstatymo įgyvendinimas 
 
 
-1. Iki šio įstatymo įsigaliojimo veikiančių kredito unijų mažiausio kredito unijos kapitalo dydis, jeigu kredito unija neketina teikti Lietuvos Respublikos kredito unijų įstatymo 4 straipsnio 2 dalies 4 punkte nurodytos licencinės finansinės paslaugos, privalo atitikti:
-
-
-1) 4 300 eurų – iki 2015 m. gruodžio 31 d.;
-
-
-
-
-2) 85 000 eurų – nuo 2016 m. sausio 1 d.;
-
-
-
-
-3) 145 000 eurų – nuo 2018 m. sausio 1 d.
-
-
+1. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
 Straipsnio dalies pakeitimai:
 Nr. XII-1105, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13432
  
@@ -2443,7 +2430,10 @@ Nr. XII-1105, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13432
 
 
 
-2. Iki šio įstatymo įsigaliojimo veikiančios kredito unijos šio įstatymo 33 straipsnyje išdėstyto Lietuvos Respublikos kredito unijų įstatymo 45 straipsnyje nustatytų apribojimų investicijoms į nekilnojamąjį turtą privalo laikytis nuo 2017 m. sausio 1 d. 
+2. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
+ 
 
 
 
@@ -2486,3 +2476,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1105, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13432
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, 74 straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, 11 straipsnių pripažinimo netekusiais galios įstatymo Nr. XII-1047 47 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas
