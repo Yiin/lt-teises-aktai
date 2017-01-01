@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -357,8 +357,10 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 
 
-331. Žuvininkystę reglamentuojančių teisės aktų pažeidimas (toliau – pažeidimas) – teisės aktų, kuriais nustatomi reikalavimai žuvininkystės veiklai, pažeidimas, už kurį taikoma administracinė atsakomybė, numatyta Lietuvos Respublikos administracinių teisės pažeidimų kodekse, ir (arba) atsakomybė, numatyta šiame įstatyme. 
+331. Žuvininkystę reglamentuojančių teisės aktų pažeidimas (toliau – pažeidimas) – teisės aktų, kuriais nustatomi reikalavimai žuvininkystės veiklai, pažeidimas, už kurį taikoma administracinė atsakomybė, numatyta Lietuvos Respublikos administracinių nusižengimų kodekse, ir (arba) atsakomybė, numatyta šiame įstatyme. 
 Papildyta straipsnio dalimi:
+Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+Straipsnio dalies pakeitimai:
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
  
 
@@ -1596,7 +1598,7 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 
 
-3) ūkio subjektas yra traukiamas administracinėn atsakomybėn už šiurkštų pažeidimą, – iki bus priimtas nutarimas ir sumokėta paskirta bauda;
+3) ūkio subjektas yra traukiamas administracinėn atsakomybėn už šiurkštų nusižengimą, – iki bus priimtas nutarimas ir sumokėta paskirta bauda;
 
 
 
@@ -1616,7 +1618,7 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 15 straipsnis. Verslinės žvejybos vidaus vandenyse leidimų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir leidimų galiojimo panaikinimas
 
 
-1. Verslinės žvejybos vidaus vandenyse leidimai išduodami ne trumpesniam kaip vienos paros ir ne ilgesniam nei 5 metų laikotarpiui, bet leidimo galiojimas negali būti ilgesnis nei tame vidaus vandenų telkinyje nustatyto žvejybos limito galiojimo laikotarpis. 
+1. Verslinės žvejybos vidaus vandenyse leidimo galiojimo laikotarpis sutampa su teisės į žvejybos kvotą galiojimo laikotarpiu, išskyrus verslinės žvejybos vidaus vandenyse leidimus, išduotus žvejybos ploto naudotojams.
 
 
 
@@ -1624,39 +1626,39 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 2. Ūkio subjektui išduodamas verslinės žvejybos vidaus vandenyse leidimas pateikus prašymą, jeigu yra visos šios sąlygos:
 
 
-1) ūkio subjektas turi teisę į žvejybos kvotą ir jam skirtą žvejybos vidaus vandenyse kvotą;
+1) ūkio subjektas turi teisę į žvejybos kvotą ir jam skirtą žvejybos vidaus vandenyse kvotą, išskyrus žvejybos ploto naudotojus;
 
 
 
 
-2) ūkio subjektui teisės aktų nustatyta tvarka nėra atimta teisė žvejoti;
+2) žvejybos ploto naudotojui – jeigu vidaus vandenų telkinyje, kuriame žvejybos ploto naudotojas turi leidimą naudoti žvejybos plotą, yra nustatytas žvejybos limitas;
 
 
 
 
-3) ūkio subjektas Aplinkos ministerijos nustatyta tvarka yra skyręs lėšų žuvų ištekliams vidaus vandenyse atkurti ir išsaugoti, jeigu jam anksčiau buvo išduotas verslinės žvejybos vidaus vandenyse leidimas;
+3) ūkio subjektas žemės ūkio ministro nustatyta tvarka yra skyręs lėšų žuvų ištekliams vidaus vandenyse atkurti ir išsaugoti, jeigu jam anksčiau buvo išduotas verslinės žvejybos vidaus vandenyse leidimas, išskyrus žvejybos ploto naudotojus; 
 
 
 
 
-4) ūkio subjektas Aplinkos ministerijos arba jos įgaliotos institucijos nustatyta tvarka yra pateikęs duomenis apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą, jeigu jam anksčiau buvo išduotas verslinės žvejybos vidaus vandenyse leidimas. 
+4) ūkio subjektas aplinkos ministro arba jo įgaliotos institucijos nustatyta tvarka yra pateikęs duomenis apie žvejybos produktus, įrankius, trukmę ir žvejybos produktų pirminio pardavimo kainą, jeigu jam anksčiau buvo išduotas verslinės žvejybos vidaus vandenyse leidimas. 
 
 
 
 
 
 
-3. Prašymą išduoti verslinės žvejybos vidaus vandenyse leidimą galima pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į Aplinkos ministerijos įgaliotą instituciją. Aplinkos ministerijos įgaliota institucija per 5 darbo dienas nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautą prašymą.
+3. Prašymą išduoti verslinės žvejybos vidaus vandenyse leidimą galima pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į aplinkos ministro įgaliotą instituciją. Aplinkos ministro įgaliota institucija per 2 darbo dienas nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išsiunčia pareiškėjui patvirtinimą apie gautą prašymą.
 
 
 
 
-4. Aplinkos ministerijos įgaliota institucija ne vėliau kaip per 10 darbo dienų nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išduoda verslinės žvejybos vidaus vandenyse leidimą arba informuoja apie atsisakymą jį išduoti, nurodydama atsisakymo priežastis, tokiu būdu, kokiu buvo gautas prašymas išduoti verslinės žvejybos vidaus vandenyse leidimą, arba kitu prašyme nurodytu būdu. 
+4. Aplinkos ministro įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo prašymo išduoti verslinės žvejybos vidaus vandenyse leidimą gavimo dienos išduoda verslinės žvejybos vidaus vandenyse leidimą arba informuoja apie atsisakymą jį išduoti, nurodydama atsisakymo priežastis, tokiu būdu, kokiu buvo gautas prašymas išduoti verslinės žvejybos vidaus vandenyse leidimą, arba kitu prašyme nurodytu būdu. 
 
 
 
 
-5. Jeigu pareiškėjas prašyme išduoti verslinės žvejybos vidaus vandenyse leidimą pateikia ne visą privalomą pateikti informaciją, verslinės žvejybos vidaus vandenyse leidimą išduodanti institucija per 5 darbo dienas nuo prašymo gavimo dienos apie tai raštu praneša pareiškėjui ir informuoja, kad terminas verslinės žvejybos vidaus vandenyse leidimui išduoti bus pradedamas skaičiuoti gavus trūkstamą informaciją. 
+5. Jeigu pareiškėjas prašyme išduoti verslinės žvejybos vidaus vandenyse leidimą pateikia ne visą privalomą pateikti informaciją, verslinės žvejybos vidaus vandenyse leidimą išduodanti institucija per 2 darbo dienas nuo prašymo gavimo dienos apie tai raštu praneša pareiškėjui ir informuoja, kad terminas verslinės žvejybos vidaus vandenyse leidimui išduoti bus pradedamas skaičiuoti gavus trūkstamą informaciją. 
 
 
 
@@ -1686,10 +1688,10 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 
 
-8. Verslinės žvejybos leidimo galiojimo sustabdymas panaikinamas, kai nebelieka aplinkybių, dėl kurių buvo sustabdytas to leidimo galiojimas:
+8. Verslinės žvejybos leidimo galiojimo sustabdymas panaikinamas, kai nebelieka aplinkybių, dėl kurių buvo sustabdytas šio leidimo galiojimas:
 
 
-1) panaikintas teisės į žvejybos kvotą sustabdymas;
+1) panaikintas teisės į žvejybos kvotą galiojimo sustabdymas;
 
 
 
@@ -1706,7 +1708,7 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 
 
-9. Iš dalies sustabdžius teisės į žvejybos kvotą galiojimą arba perleidus dalį žvejybos kvotos, verslinės žvejybos vidaus vandenyse leidimas turi būti keičiamas. Atšaukus teisę į žvejybos kvotą arba kai ją ūkio subjektas visam teisės į žvejybos kvotą galiojimo laikotarpiui perleidžia kitam ūkio subjektui, verslinės žvejybos vidaus vandenyse leidimo galiojimas panaikinamas. 
+9. Iš dalies sustabdžius teisės į žvejybos kvotą galiojimą arba perleidus, arba gavus dalį žvejybos kvotos ar dalį teisės į žvejybos kvotą, pasikeitus leidime nurodytiems duomenims ir (ar) žvejybos sąlygoms, verslinės žvejybos vidaus vandenyse leidimas turi būti keičiamas. 
 
 
 
@@ -1714,12 +1716,12 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 10. Verslinės žvejybos vidaus vandenyse leidimo galiojimas panaikinamas, jeigu yra bent viena iš šių sąlygų:
 
 
-1)  rašytiniu ūkio subjekto prašymu;
+1) rašytiniu ūkio subjekto prašymu;
 
 
 
 
-2) atšaukiama ūkio subjektui suteikta teisė į žvejybos kvotą;
+2) panaikinama ūkio subjektui suteikta teisė į žvejybos kvotą;
 
 
 
@@ -1746,20 +1748,21 @@ Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
 
 
 
-12. Verslinės žvejybos vidaus vandenyse leidimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo ir leidimų pakeitimo tvarką nustato Aplinkos ministerija.
+12. Verslinės žvejybos vidaus vandenyse leidimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo ir leidimų pakeitimo tvarką nustato aplinkos ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
+Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
  
 
 
 
 
-16 straipsnis. Šiurkštūs verslinės žvejybos vidaus vandenyse tvarkos pažeidimai
+16 straipsnis. Šiurkštūs verslinės žvejybos vidaus vandenyse tvarkos pažeidimai 
 
 
-1. Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais, už kuriuos taikoma Administracinių teisės pažeidimų kodekse numatyta atsakomybė, laikomi:
+1. Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais, už kuriuos taikoma Lietuvos Respublikos administracinių nusižengimų kodekse numatyta atsakomybė, laikomi:
 
 
 1) žvejyba be verslinės žvejybos vidaus vandenyse leidimo arba žuvų išteklių naudotojui daugiau kaip 10 procentų viršijus jam skirtą žvejybos vidaus vandenyse kvotą;
@@ -1787,14 +1790,14 @@ Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
 
 
 
-6) įtariamas padaręs pažeidimą ūkio subjektas nuslepia, pakeičia ar sunaikina su pažeidimo tyrimu susijusius įrodymus.
+6) įtariamas padaręs nusižengimą ūkio subjektas nuslepia, pakeičia ar sunaikina su nusižengimo tyrimu susijusius įrodymus.
 
 
 
 
 
 
-2. Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais taip pat laikomi aplinkos ministro nustatytų žvejybos vidaus vandenyse žurnalų pildymo taisyklių pažeidimai nenurodant žvejybos datos ar žvejybos įrankių, naudojant draudžiamus ar tuo metu draudžiamus žvejybos įrankius, jeigu žvejybos įrankių leistini parametrai neatitinka mažiau kaip 5 procentais, arba žvejybos įrankius, jeigu jų parametrai neatitinka nurodytų verslinės žvejybos vidaus vandenyse leidime mažiau kaip 5 procentais, jeigu tokio pat pobūdžio pažeidimas padaromas antrą kartą per metus.
+2. Šiurkščiais verslinės žvejybos vidaus vandenyse tvarkos pažeidimais taip pat laikomi aplinkos ministro nustatytų žvejybos vidaus vandenyse žurnalų pildymo taisyklių pažeidimai nenurodant žvejybos datos ar žvejybos įrankių, naudojant draudžiamus ar tuo metu draudžiamus žvejybos įrankius, jeigu žvejybos įrankių leistini parametrai neatitinka mažiau kaip 5 procentais, arba žvejybos įrankius, jeigu jų parametrai neatitinka nurodytų verslinės žvejybos vidaus vandenyse leidime mažiau kaip 5 procentais, jeigu tokio pat pobūdžio nusižengimas padaromas antrą kartą per metus.
 
 
 Straipsnio pakeitimai:
@@ -2913,12 +2916,18 @@ Mėgėjų žvejyba vidaus ir jūrų vandenyse leidžiama Mėgėjų žvejybos įs
 
 
 
-8. Specialiosios žvejybos leidimo galiojimas sustabdomas, iki bus išnagrinėta administracinio teisės pažeidimo byla, jeigu fizinis arba juridinis asmuo yra įtariamas specialiąją žvejybą reglamentuojančių teisės aktų pažeidimu, kurio metu padaryta žala žuvų ištekliams.
+8. Specialiosios žvejybos leidimo galiojimas sustabdomas, iki vadovaujantis Administracinių nusižengimų kodeksu bus išnagrinėta pažeidimo byla, jeigu fizinis arba juridinis asmuo yra įtariamas specialiąją žvejybą reglamentuojančių teisės aktų pažeidimu, kurio metu padaryta žala žuvų ištekliams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+ 
 
 
 
 
-9. Specialiosios žvejybos leidimo galiojimo sustabdymas panaikinamas, kai priimamas nutarimas administracinio teisės pažeidimo byloje ir pažeidėjas sumoka jam skirtą baudą ir atlygina žuvų ištekliams padarytą žalą arba kai administracinio teisės pažeidimo byloje priimamas nutarimas nutraukti bylą.
+9. Specialiosios žvejybos leidimo galiojimo sustabdymas panaikinamas, kai priimamas nutarimas pažeidimo byloje ir pažeidėjas sumoka jam skirtą baudą ir atlygina žuvų ištekliams padarytą žalą arba kai pažeidimo byloje priimamas nutarimas nutraukti bylą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
+ 
 
 
 
@@ -2943,7 +2952,9 @@ Mėgėjų žvejyba vidaus ir jūrų vandenyse leidžiama Mėgėjų žvejybos įs
 
 
 
-11. Vadovaujantis teisingumo ir protingumo kriterijais, specialiosios žvejybos leidimo galiojimas gali būti nenaikinamas, o pateikiama žodinė pastaba arba rašytinis nurodymas ir nustatomas protingas terminas pažeidimams pašalinti, kuris, atsižvelgiant į objektyvias aplinkybes, gali būti pratęstas, jeigu šio straipsnio 10 dalies 2 punkte nurodytas teisės aktų pažeidimas yra mažareikšmis, tai yra nepadaryta žalos viešiesiems ar šio įstatymo saugomiems interesams arba tokia žala labai nežymi. 
+11. Neteko galios nuo 2017-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
  
 
 
@@ -4810,20 +4821,47 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 61 straipsnis. Taškų skyrimas žvejybos laivų kapitonams
 
 
-1. Už Administracinių teisės pažeidimų kodekso 8710 straipsnyje numatytų pažeidimų padarymą Žuvininkystės tarnyba žvejybos laivo kapitonui skiria Reglamento (ES) Nr. 404/2011 XXX priede nurodytą atitinkamą taškų skaičių. 
+1. Už Administracinių nusižengimų kodekso 301 straipsnyje numatytų pažeidimų padarymą Žuvininkystės tarnyba nutarimu pažeidimo byloje žvejybos laivo kapitonui skiria Reglamento (ES) Nr. 404/2011 XXX priede nurodytą atitinkamą taškų skaičių.
 
 
 
 
-2. Jeigu žvejybos laivo kapitonas per 3 metus nuo paskutinio sunkaus pažeidimo padarymo dienos nepadaro kito sunkaus pažeidimo, visus jam skirtus taškus Žuvininkystės tarnyba panaikina. 
+2. Teisė eiti žvejybos laivo kapitono pareigas atimama už Reglamento (ES) Nr. 404/2011 XXX priede nurodytų trijų ir daugiau sunkių pažeidimų padarymą per 3 metus nuo paskutinio sunkaus pažeidimo padarymo dienos, už kuriuos skirtų taškų suma yra:
+
+
+1) nuo 18 iki 35 taškų – teisė atimama dviem mėnesiams;
 
 
 
 
-3. Taškų žvejybos laivų kapitonams skyrimo ir jų apskaitos tvarką nustato Žemės ūkio ministerija arba jos įgaliota institucija.
+2) nuo 36 iki 53 taškų – teisė atimama keturiems mėnesiams;
+
+
+
+
+3) nuo 54 iki 71 taško – teisė atimama aštuoniems mėnesiams;
+
+
+
+
+4) 72 ir daugiau taškų – teisė atimama vieniems metams.
+
+
+
+
+
+
+3. Jeigu žvejybos laivo kapitonas per 3 metus nuo paskutinio sunkaus pažeidimo padarymo dienos nepadaro kito sunkaus pažeidimo, visus jam skirtus taškus Žuvininkystės tarnyba panaikina.
+
+
+
+
+4. Taškų žvejybos laivų kapitonams skyrimo ir jų apskaitos tvarką nustato žemės ūkio ministras arba jo įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
  
-
-
 
 
 
