@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -248,6 +248,14 @@ Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010IS
 Straipsnio dalies pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
+ 
+
+
+
+
+3. Keleivių vežimo organizatorius – fizinis ar juridinis asmuo, organizuojantis keleivių vežimą ar sudarantis technines ir organizacines sąlygas vežėjui ir keleiviui susitarti dėl keleivių vežimo už atlygį lengvaisiais automobiliais paslaugų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
  
 
 
@@ -829,7 +837,10 @@ Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010IST
 18 straipsnis. Keleivių vežimas
 
 
-1. Keleiviai vežami keleiviams vežti pagamintomis keleivinėmis kelių transporto priemonėmis – autobusais, troleibusais, lengvaisiais automobiliais, lengvaisiais automobiliais taksi. Keleivių vežimą reglamentuoja Susisiekimo ministerijos patvirtintos Keleivių ir bagažo vežimo taisyklės bei Keleivių vežimo lengvaisiais automobiliais taksi taisyklės. 
+1. Keleiviai vežami keleiviams vežti pagamintomis keleivinėmis kelių transporto priemonėmis – autobusais, troleibusais, lengvaisiais automobiliais, lengvaisiais automobiliais taksi. Keleivių vežimą reglamentuoja Susisiekimo ministerijos patvirtintos Keleivių ir bagažo vežimo taisyklės ir Keleivių vežimo už atlygį lengvaisiais automobiliais ir lengvaisiais automobiliais taksi taisyklės. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
+ 
 
 
 
@@ -906,6 +917,22 @@ Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010IST
 12. Keleiviams vežti lengvaisiais automobiliais taksi išduodamas leidimas. Leidimus vežti keleivius lengvaisiais automobiliais taksi išduoda, galiojimą sustabdo, leidimo galiojimo sustabdymą ar leidimo galiojimą naikina savivaldybės, kurios teritorijoje keleiviai bus vežami lengvaisiais automobiliais taksi, vykdomosios institucijos Susisiekimo ministerijos nustatyta tvarka. Leidimai išduodami vežėjams, pageidaujantiems verstis keleivių vežimo lengvaisiais automobiliais taksi veikla ir turintiems lengvuosius automobilius, atitinkančius Susisiekimo ministerijos ar jos įgaliotos institucijos nustatytus reikalavimus. Kiekvienam lengvajam automobiliui išduodamas atskiras leidimas. Leidimas išduodamas arba atsisakoma (nurodžius priežastis raštu) jį išduoti per 20 darbo dienų nuo prašymo išduoti leidimą ir visų dokumentų, reikalingų jam gauti, gavimo leidimus išduodančioje institucijoje dienos. Leidimas neišduodamas, jeigu vežėjo lengvasis automobilis neatitinka Susisiekimo ministerijos ar jos įgaliotos institucijos nustatytų reikalavimų, pateikiami ne visi reikiami, nevisiškai, netaisyklingai užpildyti dokumentai, pateikti dokumentai neatitinka jiems keliamų reikalavimų arba pateikti klaidingi duomenys ir vežėjas neįvykdo leidimus išduodančios institucijos reikalavimo pateikti trūkstamus dokumentus ar ištaisyti trūkumus. Leidimo galiojimas sustabdomas, kai vežėjas pažeidžia Keleivių vežimo lengvaisiais automobiliais taksi taisyklių reikalavimus, lengvasis automobilis, kuris įrašytas leidime, neatitinka nustatytų reikalavimų ir vežėjui nustatomas ne trumpesnis kaip 30 darbo dienų terminas trūkumams pašalinti. Leidimo galiojimas panaikinamas, kai vežėjas pats atsisako naudotis leidimu, perleidžia kitam asmeniui lengvąjį automobilį, kuris įrašytas leidime, paaiškėja, kad leidimui gauti buvo pateikti klaidingi duomenys, per nustatytą terminą nepanaikinamos priežastys, dėl kurių buvo sustabdytas leidimo galiojimas. 
 Papildyta straipsnio dalimi:
 Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
+ 
+
+
+
+
+13. Keleivių vežimas už atlygį lengvuoju automobiliu – vežimo paslauga, vežėjo atlygintinai teikiama lengvuoju automobiliu pagal su keleiviu sudarytą rašytinę sutartį arba dėl kurios vežėjas su keleiviu susitaria tarpininkaujant keleivių vežimo organizatoriui. Sutartį dėl keleivių vežimo už atlygį lengvuoju automobiliu, o tais atvejais, kai keleivių vežimo sutartis sudaroma telekomunikacijų galiniais įrenginiais, – duomenis apie susitarimą dėl keleivių vežimo už atlygį sąlygų Keleivių ir bagažo vežimo taisyklėse arba Keleivių vežimo už atlygį lengvaisiais automobiliais ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka vežėjas ar jo pavedimu – keleivių vežimo organizatorius privalo pateikti kelių transporto kontrolės institucijoms. Kai dėl keleivių vežimo už atlygį lengvuoju automobiliu susitariama tarpininkaujant keleivių vežimo organizatoriui, keleivių vežimo organizatorius užtikrina, kad keleiviui bus suteikta teisės aktų reikalavimus atitinkanti keleivių vežimo už atlygį lengvuoju automobiliu paslauga. 
+Papildyta straipsnio dalimi:
+Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
+ 
+
+
+
+
+14. Vežėjai keleivių vežimo už atlygį lengvaisiais automobiliais paslaugas gali teikti tik turėdami teisėtai valdomus lengvuosius automobilius, atitinkančius bendruosius motorinių transporto priemonių reikalavimus, nustatytus Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, ir Keleivių vežimo už atlygį lengvaisiais automobiliais ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka pateikę deklaraciją apie ketinimą vykdyti veiklą savivaldybės institucijai pagal vežėjo įmonės buveinės registracijos vietą arba gyvenamąją vietą, jeigu vežėjas yra fizinis asmuo. Vežėjui leidimas teikti keleivių vežimo už atlygį lengvaisiais automobiliais paslaugas laikomas išduotu kitą dieną nuo deklaracijos apie ketinimą vykdyti šią veiklą pateikimo savivaldybės institucijai arba nuo deklaracijoje apie ketinimą vykdyti veiklą nurodytos dienos, jeigu ši diena yra vėlesnė negu deklaracijos apie ketinimą vykdyti veiklą pateikimo savivaldybės institucijai diena. Vežėjas turi teisę pavesti keleivių vežimo organizatoriui pateikti deklaraciją savivaldybės institucijai vežėjo vardu. Leidimo teikti keleivių vežimo už atlygį lengvaisiais automobiliais paslaugas galiojimas sustabdomas, kai vežėjas pažeidžia Keleivių vežimo už atlygį lengvaisiais automobiliais ir lengvaisiais automobiliais taksi taisyklių reikalavimus, lengvasis automobilis, kuris įrašytas šiame leidime, neatitinka nustatytų reikalavimų ir vežėjui nustatomas ne trumpesnis kaip 30 darbo dienų terminas trūkumams pašalinti. Leidimo galiojimas panaikinamas, kai vežėjas pats atsisako naudotis leidimu, perleidžia kitam asmeniui lengvąjį automobilį, kuris įrašytas leidime, paaiškėja, kad leidimui gauti buvo pateikti klaidingi duomenys, per nustatytą terminą nepanaikinamos priežastys, dėl kurių buvo sustabdytas šio leidimo galiojimas. Keleivių vežimo už atlygį lengvaisiais automobiliais paslaugas teikiantys vežėjai Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka ir mokesčių įstatymuose nustatytais terminais privalo teikti informaciją apie iš keleivių vežimo už atlygį lengvaisiais automobiliais veiklos gaunamas pajamas arba pavesti šią informaciją Valstybinei mokesčių inspekcijai vežėjo vardu teikti keleivių vežimo organizatoriui, su kuriuo vežėjas yra sudaręs sutartį. 
+Papildyta straipsnio dalimi:
+Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
  
 
 
@@ -2114,3 +2141,8 @@ Lietuvos Respublikos kelių transporto kodekso 18 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2040, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18917
 Lietuvos Respublikos kelių transporto kodekso Nr. I-1628 29 ir 38 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
+Lietuvos Respublikos kelių transporto kodekso 7 ir 18 straipsnių pakeitimo įstatymas
