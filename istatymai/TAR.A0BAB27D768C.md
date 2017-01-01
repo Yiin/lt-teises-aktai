@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2016-09-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -791,10 +791,10 @@ Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (gink
 Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai. 
 Lietuvos kariuomenė yra valstybės ginkluotos gynybos institucija, pagrindinė krašto apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių demokratiškai išrinktai valstybės valdžiai.
 Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato Lietuvos Respublikos Konstitucija, įstatymai bei kiti teisės aktai.
-Taikos metu kariuomenė:
-– savarankiškai ir bendradarbiaudama su NATO institucijomis bei kitų NATO valstybių ginkluotosiomis pajėgomis saugo valstybės teritoriją ir karines teritorijas, taip pat bendradarbiaudama su kitomis valstybės ir NATO institucijomis bei kitų NATO valstybių ginkluotosiomis pajėgomis stebi ir kontroliuoja išskirtinę ekonominę zoną bei kontinentinį šelfą;
+Taikos metu kariuomenė savarankiškai ir bendradarbiaudama su NATO institucijomis bei kitų NATO valstybių ginkluotosiomis pajėgomis:
+– saugo valstybės teritoriją ir karines teritorijas, taip pat bendradarbiaudama su kitomis valstybės institucijomis stebi ir kontroliuoja išskirtinę ekonominę zoną bei kontinentinį šelfą;
 – palaiko kovinę parengtį;
-– rengiasi ir Konstitucijos bei įstatymų nustatyta tvarka Respublikos Prezidentui bei Seimui nusprendus dalyvauja tarptautinėse karinėse operacijose;
+– rengiasi ir Konstitucijos bei įstatymų nustatyta tvarka Respublikos Prezidentui ir Seimui nusprendus dalyvauja tarptautinėse karinėse operacijose;
 – įstatymų nustatytais atvejais ir tvarka gali būti pasiųsta padėti kitoms valstybės ir savivaldybių institucijoms, taip pat įstatymų nustatyta tvarka organizuoja, koordinuoja, vadovauja ir vykdo žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
@@ -814,6 +814,7 @@ Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
 Skyriaus pakeitimai:
 Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
+Nr. XII-2723, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26834
  
 
 
@@ -1065,3 +1066,8 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 15 ir 18 skyrių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2723, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26834
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 18 skyriaus pakeitimo įstatymas
