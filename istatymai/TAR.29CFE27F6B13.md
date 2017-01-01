@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
@@ -128,7 +128,10 @@ Lietuvos kariuomenės (toliau – kariuomenė) drausmės statuto (toliau – Sta
 
 
 
-4. Karys, padaręs Lietuvos Respublikos administracinių teisės pažeidimų kodekse apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais.
+4. Karys, padaręs Lietuvos Respublikos administracinių nusižengimų kodekse apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
  
 
 
@@ -621,7 +624,11 @@ Drausmės pažeidimų ir skundų tyrimo tikslas:
 
 
 
-3. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma administracinio teisės pažeidimo požymių, tyrimo medžiaga perduodama kompetentingiems organams (pareigūnams), įgaliotiems nagrinėti administracinių teisės pažeidimų bylas.
+3. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma administracinio nusižengimo požymių, tyrimo medžiaga perduodama kompetentingoms institucijoms (pareigūnams), įgaliotoms (įgaliotiems) tirti administracinių nusižengimų bylas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
+ 
 
 
 
@@ -737,7 +744,11 @@ Tarnybinis patikrinimas neatliekamas:
 
 
 
-4) nedelsdamas informuoti tarnybinį patikrinimą paskyrusį vadą (viršininką) apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio teisės pažeidimo požymių;
+4) nedelsdamas informuoti tarnybinį patikrinimą paskyrusį vadą (viršininką) apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio nusižengimo požymių;
+Straipsnio punkto pakeitimai:
+Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
+ 
 
 
 
@@ -2856,3 +2867,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto 42 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
+Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2101 17 straipsnio pakeitimo įstatymas
