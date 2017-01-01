@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2016-04-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -368,7 +368,10 @@ KREMAVIMAS
 2. Kartu su prašymu kremuoti žmogaus palaikus laidojantis asmuo kremavimo įmonei arba laidojimo paslaugų teikėjui privalo pateikti šiuos dokumentus:
 
 
-1) asmens, kurio palaikai kremuojami, mirties liudijimą;
+1) asmens, kurio palaikai kremuojami, medicininį mirties liudijimą, išduotą Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+ 
 
 
 
@@ -383,7 +386,10 @@ KREMAVIMAS
 
 
 
-4) jeigu asmuo, kurio palaikus prašoma kremuoti, nebuvo šio įstatymo 3 straipsnio 2 ir 4 dalyse nustatyta tvarka pareiškęs sutikimo dėl jo palaikų kremavimo, – santuokos liudijimą, kai laidojantis asmuo yra sutuoktinis, arba giminystės ryšį patvirtinantį dokumentą, kai laidojantis asmuo yra artimasis giminaitis. Šiuo atveju laidojantis asmuo taip pat turi pateikti rašytinį patvirtinimą (artimųjų giminaičių parašais patvirtintą susitarimą ir apie tai pažymėti prašyme kremuoti palaikus), kad tarp mirusiojo artimųjų giminaičių nėra nesutarimų dėl palaikų kremavimo; 
+4) jeigu asmuo, kurio palaikus prašoma kremuoti, nebuvo šio įstatymo 3 straipsnio 2 ir 4 dalyse nustatyta tvarka pareiškęs sutikimo dėl jo palaikų kremavimo, – santuokos liudijimą ar santuokos sudarymo įrašą liudijantį išrašą, išduotą Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo nustatyta tvarka, kai laidojantis asmuo yra sutuoktinis, arba giminystės ryšį patvirtinantį dokumentą, kai laidojantis asmuo yra artimasis giminaitis. Šiuo atveju laidojantis asmuo taip pat turi pateikti rašytinį patvirtinimą (artimųjų giminaičių parašais patvirtintą susitarimą ir apie tai pažymėti prašyme kremuoti palaikus), kad tarp mirusiojo artimųjų giminaičių nėra nesutarimų dėl palaikų kremavimo;
+Straipsnio punkto pakeitimai:
+Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+ 
 
 
 
@@ -712,7 +718,10 @@ Kremavimo įmonė turi užtikrinti, kad žmogaus palaikai būtų tinkamai paruo�
 13 straipsnis. Kremavimo procedūros reikalavimai
 
 
-1. Draudžiama kremuoti žmogaus palaikus tą pačią dieną, kurią yra išduotas medicininis mirties liudijimas.
+1. Draudžiama kremuoti žmogaus palaikus jo mirties dieną.
+Straipsnio dalies pakeitimai:
+Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+ 
 
 
 
@@ -807,7 +816,10 @@ Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
 
 
 
-2. Žmogaus palaikus galima balzamuoti tik gavus jo mirties liudijimą. 
+2. Žmogaus palaikus galima balzamuoti tik gavus medicininį jo mirties liudijimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+ 
 
 
 Straipsnio pakeitimai:
@@ -1015,17 +1027,42 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 22 straipsnis. Žmogaus palaikų gabenimas
 
 
-1. Teikiant laidojimo paslaugas, žmogaus palaikai gabenami Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis ir laikantis Vyriausybės įgaliotos institucijos patvirtintų žmonių palaikų gabenimo reikalavimų. Žmogaus palaikų gabenimo patologinės anatomijos tyrimams ar teismo medicinos ekspertizėms ir tyrimams tvarką nustato Vyriausybės įgaliotos institucijos.
+1. Teikiant laidojimo paslaugas, žmogaus palaikai gabenami Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis ir laikantis Vyriausybės įgaliotos institucijos patvirtintų žmonių palaikų gabenimo reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
+ 
 
 
 
 
-2. Asmenų, kurie sirgo pavojingomis arba ypač pavojingomis užkrečiamosiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą, arba buvo šių ligų sukėlėjų nešiotojai, palaikų gabenimo tvarką nustato Sveikatos apsaugos ministerija.
+2. Žmogaus palaikai į užsienio valstybes vežami turint Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduotą leidimą vežti mirusiojo kūną (laissez-passer), išskyrus atvejus, kai žmogaus palaikai per Lietuvos Respublikos teritoriją gabenami tranzitu turint užsienio valstybės kompetentingos institucijos išduota leidimą vežti mirusiojo kūną (laissez-passer). 
+Papildyta straipsnio dalimi:
+Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
+ 
 
 
 
 
-3. Žmogaus palaikams gabenti iš užsienio valstybių į Lietuvos Respublikos teritoriją būtinas Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų išduotas leidimas mirusiojo palaikus parvežti į Lietuvą. Šis leidimas išduodamas vadovaujantis Lietuvos Respublikos sveikatos apsaugos ir Lietuvos Respublikos užsienio reikalų ministrų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip.
+3. Žmogaus palaikų pirminis vežimas atliekamas gavus Vyriausybės įgaliotos institucijos išduotą mirties liudijimą, kuriame pažymima, ar nėra šio įstatymo 7 straipsnio 1 dalyje, 19 straipsnyje ar kituose teisės aktuose nurodytų apribojimų, dėl kurių žmogaus palaikai negali būti vežami kremuoti ar balzamuoti. Žmogaus palaikų gabenimo patologinės anatomijos tyrimams ar teismo medicinos ekspertizėms ir tyrimams tvarką nustato Vyriausybės įgaliotos institucijos. 
+Papildyta straipsnio dalimi:
+Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
+ 
+
+
+
+
+4. Asmenų, kurie sirgo pavojingomis arba ypač pavojingomis užkrečiamosiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą, arba buvo šių ligų sukėlėjų nešiotojai, palaikų gabenimo tvarką nustato Sveikatos apsaugos ministerija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
+ 
+
+
+
+
+5. Žmogaus palaikams gabenti iš užsienio valstybių į Lietuvos Respublikos teritoriją būtinas Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų išduotas leidimas mirusiojo palaikus parvežti į Lietuvą. Šis leidimas išduodamas vadovaujantis Lietuvos Respublikos sveikatos apsaugos ir Lietuvos Respublikos užsienio reikalų ministrų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
+ 
 
 
 Straipsnio pakeitimai:
@@ -1226,7 +1263,10 @@ Nr. XII-834, 2014-04-17, paskelbta TAR 2014-04-24, i. k 2014-04698
 Kapinių prižiūrėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kaupia šiuos duomenis:
 
 
-1) asmens, kurio palaikai palaidoti kapinėse, vardą, pavardę, gimimo ir mirties vietą ir datą, asmens kodą, mirties liudijimo išdavimo datą ir numerį;
+1) asmens, kurio palaikai palaidoti kapinėse, vardą, pavardę, gimimo ir mirties vietą ir datą, asmens kodą, medicininio mirties liudijimo išdavimo datą ir numerį;
+Straipsnio punkto pakeitimai:
+Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+ 
 
 
 
@@ -1519,3 +1559,13 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 16, 30 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1802, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10361
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir 30 straipsnių pakeitimo įstatymo Nr. XII-1711 3 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 6, 13, 16 ir 27 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 22 straipsnio pakeitimo įstatymas
