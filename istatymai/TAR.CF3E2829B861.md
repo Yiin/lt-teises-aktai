@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -670,8 +670,11 @@ Juridinis asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
 
 
 
-4) juridinio asmens valdymo organų nariai per pastaruosius vienus metus padarė administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 443, 1071 ir 1072 straipsniuose, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose, reglamentuojančiuose tokius pažeidimus.
-TAR pastaba. 103 straipsnyje nustatyti apribojimai netaikomi juridiniams asmenims ir užsienio juridinių asmenų filialams, kurie iki 2014 m. gruodžio 31 d. turėjo licenciją verstis veikla, susijusia su II ir III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, arba verstis veikla, susijusia su III sąrašo psichotropinėmis medžiagomis, jeigu aplinkybės, dėl kurių gali būti taikomi apribojimai, atsirado iki įstatymo (Nr. XII-1344) įsigaliojimo (2015-01-01).
+4) juridinio asmens valdymo organų nariai per pastaruosius vienus metus padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 62, 65, 66, 71, 339 ir 340 straipsniuose, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose.
+TAR pastaba. Administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 443, 1071 ir 1072 straipsniuose, padariusiems asmenims, kuriems administracinė nuobauda paskirta iki 2017 m. sausio 1 d., taikoma iki įstatymo Nr. XIII-161 įsigaliojimo (2017-01-01) galiojusi Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 103 straipsnio 4 punkto nuostata.
+Straipsnio punkto pakeitimai:
+Nr. XIII-161, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29855
+ 
 
 
 
@@ -1290,3 +1293,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1972, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16902
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 17, 18 ir 20 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-161, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29855
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 10-3 straipsnio pakeitimo įstatymas
