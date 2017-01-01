@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -571,6 +571,14 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 
 
 3. Medicininius mirties liudijimus išduodančios asmens sveikatos priežiūros įstaigos privalo užtikrinti, kad liudijimai būtų išduodami ir poilsio bei švenčių dienomis.
+
+
+
+
+4. Asmens sveikatos priežiūros įstaiga nedelsdama, ne vėliau kaip kitą darbo dieną po medicininio mirties liudijimo išrašymo dienos, privalo medicininį mirties liudijimą elektroninių ryšių priemonėmis perduoti mirusio asmens gyvenamosios vietos, o kai asmuo neturi gyvenamosios vietos, – asmens mirties vietos civilinės metrikacijos įstaigai.
+TAR pastaba. Iki 2018 m. kovo 1 d. sveikatos priežiūros įstaigos, nesinaudojančios valstybės elektronine sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacine sistema, sudarytą medicininį mirties liudijimą perduoda civilinės metrikacijos įstaigoms Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XII-2119, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19712
  
 
 
@@ -581,17 +589,17 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 151 straipsnis. Mirties atvejų ir jų priežasčių valstybės registras
 
 
-1. Mirties atvejų ir jų priežasčių valstybės registro objektas – Lietuvos Respublikos teritorijoje mirusių asmenų ir Lietuvos Respublikos piliečių, mirusių užsienyje, mirties atvejai ir jų priežastys. Mirties atvejų ir jų priežasčių valstybės registre kaupiami šio Įstatymo 14 straipsnio 2 dalies 1–7 punktuose ir 4 dalyje bei kiti Registro nuostatuose išvardyti duomenys.
+1. Mirties atvejų ir jų priežasčių valstybės registro objektas – Lietuvos Respublikos teritorijoje mirusių asmenų ir Lietuvos Respublikos piliečių, mirusių užsienyje, mirties atvejai ir jų priežastys. Mirties atvejų ir jų priežasčių valstybės registre kaupiami šio Įstatymo 14 straipsnio 2 dalies 1–7 punktuose ir 4 dalyje bei kiti Registro nuostatuose nurodyti duomenys, pateikiami registro tvarkytojui Registro nuostatuose nustatyta tvarka.
 
 
 
 
-2. Mirties atvejų ir jų priežasčių valstybės registrą (toliau – Registras) steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+2. Mirties atvejų ir jų priežasčių valstybės registrą (toliau – Registras) steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė. 
 
 
 
 
-3. Užregistravus asmens mirtį Lietuvos Respublikos teritorijoje, medicininis mirties liudijimas iš mirtis registruojančios įstaigos perduodamas registro tvarkymo įstaigai Registro nuostatuose nustatyta tvarka.
+3. Šio straipsnio 1 dalyje nurodytus duomenis registro tvarkytojui pateikia Registro nuostatuose nurodyti duomenų teikėjai.
 
 
 
@@ -599,8 +607,8 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 4. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos Registro nuostatuose nustatyta tvarka registro tvarkymo įstaigai pateikia iš užsienio valstybių kompetentingų institucijų gautus duomenis apie Lietuvos Respublikos piliečių, mirusių užsienyje, mirties atvejus ir jų priežastis.
 
 
-Papildyta straipsniu:
-Nr. X-1564, 2008-06-03, Žin., 2008, Nr. 68-2567 (2008-06-14), i. k. 1081010ISTA00X-1564
+Straipsnio pakeitimai:
+Nr. XII-2119, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19712
  
 
 
@@ -670,3 +678,8 @@ Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 2, 5, 7, 8, 9, 13, 14, 15, 16 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2119, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19712
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 15 ir 15-1 straipsnių pakeitimo įstatymas
