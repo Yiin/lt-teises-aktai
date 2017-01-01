@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-07-14
+Suvestinė redakcija nuo 2017-01-01 iki 2017-09-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -165,7 +165,10 @@ Nr. X-1531, 2008-05-08, Žin., 2008, Nr. 59-2203 (2008-05-24)
 
 
 
-16. Kultūros paveldo statinio remontas – statinio remontas, kaip apibrėžta Statybos įstatyme, kai darbai nesusiję su statinio vertingųjų savybių keitimu. Kitais atvejais atliekami šio įstatymo apibrėžti konservavimo, restauravimo, pritaikymo ar atkūrimo darbai.
+16. Kultūros paveldo statinio remontas – kultūros paveldo statinio darbai, kuriuos atliekant išsaugomos (nekeičiamos) jo vertingosios savybės, autentiškumas, esamoms konstrukcijoms, elementams panaudotos medžiagos ar statybos produktai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -661,7 +664,10 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-21) organizuoja šio įstatymo nustatytą fizinių ir juridinių asmenų atestavimą;
+21) neteko galios nuo 2017-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -676,7 +682,10 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-24) įstatymų nustatytais atvejais ir tvarka surašo administracinės teisės pažeidimo protokolus, nagrinėja jo įgaliojimų sričiai priskirtas administracinių teisės pažeidimų bylas;
+24) įstatymų nustatytais atvejais ir tvarka surašo administracinių nusižengimų protokolus, nagrinėja jo įgaliojimų sričiai priskirtas administracinių nusižengimų bylas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2619, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24193
+ 
 
 
 
@@ -755,7 +764,10 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 
 
-6) įstatymų nustatytais atvejais surašo administracinių teisės pažeidimų protokolus;
+6) įstatymų nustatytais atvejais surašo administracinių nusižengimų protokolus;
+Straipsnio punkto pakeitimai:
+Nr. XII-2619, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24193
+ 
 
 
 
@@ -1353,7 +1365,10 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 
 
 
-2. Nekilnojamojo kultūros paveldo fundamentinį mokslinį tyrimą, atliekamą valstybės biudžeto lėšomis, pagal valstybines programas vykdo mokslo ir studijų bei kitos valstybinės tyrimų institucijos. Taikomuosius mokslinius ardomuosius tyrimus vykdo atitinkamos srities institucijos, mokslininkai ir kultūros ministro patvirtinta tvarka atestuoti tyrėjai.
+2. Nekilnojamojo kultūros paveldo fundamentinius mokslinius tyrimus, atliekamus valstybės biudžeto lėšomis, vykdo mokslo ir studijų bei kitos valstybinės ir nevalstybinės mokslo tyrimų institucijos, mokslo tyrėjai. Taikomuosius mokslinius ir ardomuosius tyrimus gali atlikti asmenys, šio įstatymo 231 straipsnyje nustatyta tvarka gavę kvalifikacijos atestatą ar teisės pripažinimo dokumentą, suteikiančius teisę atlikti nekilnojamojo kultūros paveldo tyrimus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -1373,7 +1388,10 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 
 
 
-6. Ardomieji tyrimai atliekami paveldo tvarkybos reglamentų nustatyta tvarka. Tyrimų ataskaitos rengiamos kultūros ministro patvirtinta tvarka. Leidimus ardomiesiems tyrimams išduoda Departamentas ir praneša apie tai savivaldybės paveldosaugos padaliniams. Tyrimų ataskaitų ir publikacijų kopijos turi būti pateiktos Departamentui ir registruojamos Kultūros vertybių registre.
+6. Ardomieji ir taikomieji moksliniai tyrimai atliekami ir jų ataskaitos rengiamos šiuos tyrimus reglamentuojančių paveldo tvarkybos reglamentų nustatyta tvarka. Leidimus tyrimams išduoda Departamentas ir apie tai praneša savivaldybės paveldosaugos padaliniams. Tyrimus atlikę tyrėjai tyrimų ataskaitas ir publikacijų, parengtų remiantis tyrimų duomenimis, kopijas jų autoriai turi pateikti Departamentui, kuris jas registruoja Kultūros vertybių registre.
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -1612,7 +1630,10 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 
 
 
-6. Nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentai rengiami pagal Kultūros ministerijos parengtas ir kultūros ministro ir aplinkos ministro patvirtintas šių dokumentų rengimo taisykles. Taisyklėse nurodomos nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentais nustatomos teritorinės apsaugos priemonės, šių dokumentų rengimo, derinimo, tvirtinimo, registravimo ir galiojimo tvarka.
+6. Nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentai rengiami pagal Kultūros ministerijos parengtas ir kultūros ministro ir aplinkos ministro patvirtintas šių dokumentų rengimo taisykles. Taisyklėse nurodomos nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentais nustatomos teritorinės apsaugos priemonės, šių dokumentų organizavimo, rengimo, koregavimo, keitimo, derinimo, tikrinimo ir tvirtinimo tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -1632,17 +1653,81 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 
 
 
-8. Nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus rengia atestuoti specialistai ir gali rengti juridiniai asmenys, kai tiems darbams vadovauja atestuoti specialistai ir jeigu juridinių asmenų įstatuose numatyta teritorijų planavimo veikla. Specialistų atestavimo tvarką nustato aplinkos ministras ir kultūros ministras.
+8. Rengti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus turi teisę fiziniai asmenys, šio įstatymo ir kitų įstatymų nustatyta tvarka turintys teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimui, juridiniai asmenys ir jų padaliniai, užsienio organizacijos ir jų padaliniai, užsiimantys teritorijų planavimo veikla, kai tiems darbams vadovauja tokią teisę turintys fiziniai asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
 
-9. Valstybės skelbiamų saugomais ir valstybės saugomų kultūros paveldo vietovių ir kompleksinių kultūros paveldo objektų, jų apsaugos zonų tvarkymo planus tvirtina kultūros ministras, savivaldybės skelbiamų saugomais ir savivaldybės saugomų kultūros paveldo vietovių ir kompleksinių kultūros paveldo objektų, jų apsaugos zonų tvarkymo planus tvirtina savivaldybės taryba.
+9. Vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimui turi teisę fizinis asmuo, įgijęs aukštąjį universitetinį meno studijų srities architektūros krypties arba jam lygiavertį išsilavinimą ir gavęs atestavimą atliekančios organizacijos – Lietuvos Respublikos architektų rūmų – išduodamą nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovo kvalifikacijos atestatą, suteikiantį teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimui. Šie reikalavimai netaikomi Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, jeigu jie turi kitos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, kompetentingos institucijos išduotą kvalifikacijos atestatą arba kitą dokumentą, įrodantį, kad jie kilmės valstybėje turi teisę užsiimti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimą atitinkančia veikla. 
+Papildyta straipsnio dalimi:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
 
-10. Šiame straipsnyje nustatytų nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimą finansuoti gali ir kultūros paveldo objekto valdytojai bei kitų nekilnojamųjų daiktų, esančių nekilnojamosios kultūros vertybės teritorijoje arba apsaugos zonoje, savininkai ar kiti valdymo teisių turėtojai.
+10. Fiziniai asmenys, siekiantys įgyti teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumento rengimui, privalo atitikti šiuos kvalifikacinius reikalavimus (išskyrus Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečius ir kitus fizinius asmenis, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis):
+
+
+1) turėti šio straipsnio 9 dalyje nurodytą išsilavinimą;
+
+
+
+
+2) turėti profesinės patirties, kurios trukmė skaičiuojama nuo šio straipsnio 9 dalyje nurodyto išsilavinimo įgijimo dienos: turėti ne mažesnę kaip 3 metų dalyvavimo rengiant nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus profesinę patirtį arba profesinę patirtį rengiant kitus teritorijų planavimo dokumentus, kuriais buvo sprendžiami atitinkami nekilnojamojo kultūros paveldo apsaugos uždaviniai. Dalyvavimo rengiant nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus profesinės patirties vertinimo pagrindus nustato šis įstatymas ir Teritorijų planavimo įstatymas;
+
+
+
+
+3) Lietuvos Respublikos architektų rūmuose jų nustatyta tvarka išlaikyti profesinių ir teisinių žinių egzaminą pagal kultūros ministro ir aplinkos ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kėlusiems kvalifikaciją nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovams, neturintiems administracinių nuobaudų profesinėje srityje ir kurių atžvilgiu nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
+
+
+
+
+11. Nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovo kvalifikacijos atestatai išduodami, keičiami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas, galiojimas panaikinamas kultūros ministro ir aplinkos ministro nustatyta tvarka. Atestavimo komisija sudaroma aplinkos ministro ir kultūros ministro nustatyta tvarka. Nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovų atestavimo komisijos nuostatus ir jos sudėtį tvirtina kultūros ministras, suderinęs su aplinkos ministru. 
+Papildyta straipsnio dalimi:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
+
+
+
+
+12. Fiziniai asmenys, siekiantys įgyti teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumento rengimui, turi teisę su atestavimu susijusias procedūras atestavimą atliekančios organizacijos nustatyta tvarka atlikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipdamiesi į atestavimą atliekančią organizaciją. Nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovo kvalifikacijos atestatai išduodami atestavimo komisijai pateikus išvadą atestatą išduoti ne vėliau kaip per 30 darbo dienų nuo visų dokumentų šiam kvalifikacijos atestatui gauti gavimo atestavimą atliekančioje organizacijoje dienos. Fiziniai asmenys, gavę nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovo kvalifikacijos atestatus, privalo tobulinti savo kvalifikaciją Teritorijų planavimo įstatyme nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
+
+
+
+
+13. Jeigu yra techninių galimybių, atestavimą atliekanti organizacija turi sudaryti sąlygas fiziniams asmenims, įgijusiems teisę vadovauti nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumento rengimui, nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo vadovo kvalifikacijos atestatą gauti elektronine forma. 
+Papildyta straipsnio dalimi:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
+
+
+
+
+14. Valstybės skelbiamų saugomais ir valstybės saugomų kultūros paveldo vietovių ir kompleksinių kultūros paveldo objektų, jų apsaugos zonų tvarkymo planus tvirtina kultūros ministras, savivaldybės skelbiamų saugomais ir savivaldybės saugomų kultūros paveldo vietovių ir kompleksinių kultūros paveldo objektų, jų apsaugos zonų tvarkymo planus tvirtina savivaldybės taryba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
+
+
+
+
+15. Šiame straipsnyje nustatytų nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų rengimą finansuoti gali ir kultūros paveldo objekto valdytojai bei kitų nekilnojamųjų daiktų, esančių nekilnojamosios kultūros vertybės teritorijoje arba apsaugos zonoje, savininkai ar kiti valdymo teisių turėtojai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 Straipsnio pakeitimai:
@@ -1712,22 +1797,34 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 
 
-6. Parengti tvarkomųjų paveldosaugos darbų projektus, atlikti tvarkomuosius paveldosaugos darbus, paveldosaugos (specialiąją) ekspertizę, vadovauti tokiems darbams turi teisę kultūros ministro patvirtinta tvarka atestuotas specialistas. Kai kuriuos darbus gali atlikti neatestuoti pagalbininkai, prižiūrimi atestuoto specialisto, atsakančio už tokius darbus. Teisę fiziniams ir juridiniams asmenims būti tokios veiklos rangovais ar paslaugų teikėjais nustato šis ir kiti įstatymai. 
+6. Neteko galios nuo 2017-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
 
-7. Vadovauti kultūros paveldo statinių tvarkomųjų statybos darbų projektams, tokiems darbams, projekto vykdymo priežiūrai, tokio statinio projekto ekspertizei, statinio statybos techninei priežiūrai turi teisę aplinkos ir kultūros ministrų patvirtinta tvarka atestuotas darbų vadovas, jei jis turi verslo liudijimą arba dirba įmonėje, kuri yra atestuota aplinkos ir kultūros ministrų patvirtinta tvarka.
+7. Neteko galios nuo 2017-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
 
-8. Specialieji paveldosaugos reikalavimai tvarkomiesiems statybos darbams (laikinieji apsaugos reglamentai) ir statybą leidžiantys dokumentai juos atlikti išduodami Statybos įstatymo nustatyta tvarka. Iki statybą leidžiančio dokumento išdavimo ne vėliau kaip per vieną mėnesį nuo projekto pateikimo dienos kultūros ministro nustatyta tvarka turi būti atlikta šių darbų projekto paveldosaugos (specialioji) ekspertizė ir statinio projekto ekspertizė – aplinkos ir kultūros ministrų nustatytais atvejais ir tvarka. Projektas turi būti pataisytas pagal šių ekspertizių aktų privalomas pastabas prieš išduodant statybą leidžiantį dokumentą. Statybą leidžiantis dokumentas atlikti kultūros paveldo statinio tvarkomuosius statybos darbus išduodamas, kai toks projektas neprieštarauja paveldosaugos reikalavimams ir jam pritaria Departamento ir savivaldybės atstovai.
+8. Specialieji paveldosaugos reikalavimai tvarkomiesiems statybos darbams ir statybą leidžiantys dokumentai juos atlikti išduodami Statybos įstatymo nustatyta tvarka. Iki statybą leidžiančio dokumento išdavimo dienos kultūros ministro nustatyta tvarka turi būti atlikta šių darbų projekto paveldosaugos (specialioji) ekspertizė ir statinio projekto ekspertizė – aplinkos ministro ir kultūros ministro nustatytais atvejais ir tvarka. Projektas turi būti pataisytas pagal šių ekspertizių aktų privalomas pastabas prieš išduodant statybą leidžiantį dokumentą. Statybą leidžiantis dokumentas atlikti kultūros paveldo statinio tvarkomuosius statybos darbus išduodamas, kai toks projektas neprieštarauja paveldosaugos reikalavimams ir jam pritaria Departamento ir savivaldybės atstovai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
 
-9. Kultūros ministro patvirtintais atvejais ir tvarka iki leidimo atlikti tvarkomuosius paveldosaugos darbus išdavimo turi būti atlikta šių darbų projekto paveldosaugos (specialioji) ekspertizė. Projektas turi būti pataisytas pagal šios ekspertizės akto privalomas pastabas. Tvarkomųjų paveldosaugos darbų projektavimo sąlygos (laikinieji apsaugos reglamentai) ir leidimai atlikti darbus išduodami kultūros ministro patvirtinta tvarka. Leidimai išduodami ne vėliau kaip per vieną mėnesį nuo projekto ar pataisyto projekto pateikimo dienos. 
+9. Kultūros ministro nustatytais atvejais ir tvarka iki leidimo atlikti tvarkomuosius paveldosaugos darbus išdavimo turi būti atlikta šių darbų projekto paveldosaugos (specialioji) ekspertizė. Projektas turi būti pataisytas pagal šios ekspertizės akto privalomas pastabas. Tvarkomųjų paveldosaugos darbų projektavimo sąlygos ir leidimai atlikti darbus išduodami kultūros ministro nustatyta tvarka. Leidimai išduodami ne vėliau kaip per vieną mėnesį nuo projekto ar pataisyto projekto pateikimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
+ 
 
 
 
@@ -1747,6 +1844,223 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 Straipsnio pakeitimai:
 Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
+ 
+
+
+
+
+231 straipsnis. Teisė vykdyti su nekilnojamojo kultūros paveldo tvarkyba susijusią veiklą
+
+
+1. Atlikti nekilnojamojo kultūros paveldo tvarkybą (išskyrus šio straipsnio 2 dalyje nurodytus atvejus) ir paveldosaugos (specialiąją) ekspertizę turi teisę šiame straipsnyje nustatytus kvalifikacinius reikalavimus atitinkantys ir šiame straipsnyje nustatyta tvarka atestuoti specialistai, gavę nekilnojamojo kultūros paveldo specialisto kvalifikacijos atestatą (toliau – kvalifikacijos atestatas), ir neatestuoti jų pagalbininkai, vadovaujami atestuoto specialisto. Už atliekamus darbus atsako atestuotas specialistas.
+TAR pastaba. Atestatai, suteikiantys teisę vykdyti 231 straipsnio 1 dalyje nurodytą veiklą, įgyti iki įstatymo Nr. XII-2574 įsigaliojimo (2017-01-01), prilyginami šio įstatymo nustatyta tvarka išduotiems kvalifikacijos atestatams, suteikiantiems teisę vykdyti atitinkamos rūšies ir specializacijos veiklą. Šioje dalyje nurodyti atestatai keičiami iki pasibaigiant tokių atestatų galiojimo terminui, atestavimą atliekančiai organizacijai kultūros ministro nustatyta tvarka įvertinus atestato turėtojo patirtį vykdant veiklą pagal jam išduotame atestate nurodytą veiklos rūšį ir specializaciją, – išduodamas kvalifikacijos atestatas, suteikiantis teisę vykdyti atitinkamą veiklą.
+
+
+
+
+2. Atlikti kilnojamųjų daiktų, esančių viena iš kultūros paveldo objekto vertingųjų savybių, dailės nekilnojamojo kultūros paveldo objektų, taip pat statinių vertingųjų savybių (sienų tapybos, polichromijos, lipdybos, skulptūros, vitražo, drožybos) tyrimų, konservavimo ir restauravimo darbus turi teisę Kilnojamųjų kultūros vertybių apsaugos įstatymo nustatyta tvarka atestuoti restauratoriai. 
+
+
+
+
+3. Kvalifikacijos atestatus Nekilnojamojo kultūros paveldo apsaugos specialistų atestavimo komisijos (toliau – Atestavimo komisija) teikimu išduoda kultūros ministras, kuris tvirtina atestuojamos veiklos specializacijas, atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos aprašą, vadovaudamasis šiame įstatyme nustatytais pagrindais.
+
+
+
+
+4. Fiziniai asmenys, siekiantys rengti tvarkybos darbų projektus, atlikti tvarkybos darbų projekto vykdymo priežiūrą, privalo atitikti šiuos kvalifikacinius reikalavimus:
+
+
+1) turėti aukštąjį meno studijų srities architektūros krypties, technologijų studijų srities statybos inžinerijos arba statybų technologijų studijų krypties arba jam lygiavertį išsilavinimą;
+
+
+
+
+2) turėti profesinės patirties, kurios trukmė skaičiuojama nuo šio straipsnio 4 dalies 1 punkte nurodyto išsilavinimo įgijimo dienos: tvarkybos darbų projektavimui – ne mažesnę kaip 2 metų dalyvavimo projektuojant tvarkybos darbus, kai veikla vykdoma kultūros paveldo objektuose, vietovėse ar kultūros paveldo statiniuose, profesinę patirtį. Dalyvavimo projektuojant tvarkomuosius paveldosaugos tvarkybos darbus profesinė patirtis nustatoma pagal pateiktus darbo patirtį patvirtinančius dokumentus, projektus ir kultūros paveldo objektų, vietovių ir kultūros paveldo statinių, kurių tvarkybos darbus projektuojant buvo dalyvauta, sąrašą; tvarkybos darbų projekto vykdymo priežiūrai – ne mažesnę kaip 2 metų dalyvavimo įgyvendinant tvarkybos darbų projektą, kai veikla vykdoma kultūros paveldo objektuose, vietovėse ir kultūros paveldo statiniuose, profesinę patirtį. Dalyvavimo įgyvendinant tvarkybos darbų projektą profesinė patirtis nustatoma pagal pateiktus darbo patirtį patvirtinančius dokumentus ir kultūros paveldo objektų, kultūros paveldo statinių, kurių tvarkybos darbų projektą įgyvendinant buvo dalyvauta, sąrašą;
+
+
+
+
+3) kultūros ministro nustatyta tvarka Atestavimo komisijoje išlaikyti profesinių ir teisinių žinių egzaminą pagal kultūros ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kėlusiems kvalifikaciją atestuotiems specialistams, kurių kvalifikacijos atestatas ar teisės pripažinimo dokumento galiojimas nėra panaikintas dėl šio įstatymo 17 dalies 1 ir 2 punktuose nurodytų priežasčių bei neturintiems administracinių nuobaudų profesinėje srityje ir kurių atžvilgiu nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
+
+
+
+
+
+
+5. Nekilnojamojo kultūros paveldo tyrimus, konservavimą, restauravimą, kultūros paveldo statinio remontą (toliau – remontas) siekiantys atlikti specialistai pagal atitinkamas veiklos rūšis privalo atitikti šiuos kvalifikacinius reikalavimus:
+
+
+1) nekilnojamojo kultūros paveldo tyrimus atliekantys specialistai privalo turėti aukštąjį humanitarinių mokslų studijų srities archeologijos krypties, istorijos krypties, menotyros studijų krypties, paveldosaugos studijų krypties, meno studijų srities architektūros krypties, technologijų studijų srities statybos inžinerijos arba statybų technologijų studijų krypties arba jam lygiavertį išsilavinimą; remontą, konservavimą, restauravimą atliekantys specialistai privalo būti baigę nekilnojamųjų kultūros vertybių tvarkybos darbų specialistų kvalifikacijos kėlimo kursus, kurių programą ir organizavimo tvarką nustato kultūros ministras;
+
+
+
+
+2) turėti profesinės patirties: nekilnojamojo kultūros paveldo tyrimus atliekantys specialistai privalo turėti ne mažesnę kaip 3 metų dalyvavimo atliekant nekilnojamojo kultūros paveldo tyrimus profesinę patirtį (jos trukmė skaičiuojama nuo šio straipsnio 5 dalies 1 punkte jiems nurodyto išsilavinimo įgijimo dienos). Dalyvavimo atliekant šiuos tyrimus profesinė patirtis nustatoma pagal tyrimų ataskaitose pateiktus duomenis apie tyrimuose dalyvavusius asmenis; remontą, konservavimą, restauravimą atliekantys specialistai privalo turėti ne mažesnę kaip 3 metų dalyvavimo atliekant remonto, konservavimo ar restauravimo darbus, kai veikla vykdoma nekilnojamosiose kultūros vertybėse, profesinę patirtį. Dalyvavimo atliekant remonto, konservavimo, restauravimo darbus profesinė patirtis nustatoma pagal pateiktus darbo patirtį patvirtinančius dokumentus ir nekilnojamųjų kultūros vertybių, kurių remonto, konservavimo ar restauravimo darbus atliekant buvo dalyvauta, sąrašą;
+
+
+
+
+3) kultūros ministro nustatyta tvarka Atestavimo komisijoje išlaikyti profesinių ir teisinių žinių egzaminą pagal kultūros ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kėlusiems kvalifikaciją atestuotiems specialistams, kurių kvalifikacijos atestatas ar teisės pripažinimo dokumento galiojimas nėra panaikintas dėl šio įstatymo 17 dalies 1 ir 2 punktuose nurodytų priežasčių bei neturintiems administracinių nuobaudų profesinėje srityje ir kurių atžvilgiu nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
+
+
+
+
+
+
+6. Paveldosaugos (specialiąją) ekspertizę siekiantys atlikti specialistai privalo atitikti šiuos kvalifikacinius reikalavimus:
+
+
+1) turėti ne mažesnį negu antrosios pakopos aukštąjį universitetinį humanitarinių mokslų studijų srities archeologijos krypties, istorijos krypties, menotyros krypties, paveldosaugos studijų krypties, meno studijų srities architektūros krypties, technologijų studijų srities statybos inžinerijos arba statybų technologijų studijų krypties arba jam lygiavertį išsilavinimą;
+
+
+
+
+2) turėti profesinės patirties, kurios trukmė skaičiuojama nuo šio straipsnio 6 dalies 1 punkte nurodyto išsilavinimo įgijimo dienos, – ne mažesnę kaip 7 metų profesinę patirtį kultūros paveldo apsaugos srityje. Profesinė patirtis kultūros paveldo apsaugos srityje nustatoma pagal pateiktus darbo patirtį patvirtinančius dokumentus, tirtų, rengtų kultūros paveldo objektų, kultūros paveldo vietovių ir kultūros paveldo statinių tvarkybos darbų projektų ir nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentų sąrašą, paveldosaugos (specialiosios) ekspertizės aktuose pateiktus duomenis apie asmenis, dalyvavusius juos rengiant;
+
+
+
+
+3) kultūros ministro nustatyta tvarka Atestavimo komisijoje išlaikyti profesinių ir teisinių žinių egzaminą pagal kultūros ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kėlusiems kvalifikaciją atestuotiems specialistams, kurių kvalifikacijos atestatas ar teisės pripažinimo dokumento galiojimas nėra panaikintas dėl šio įstatymo 17 dalies 1 ir 2 punktuose nurodytų priežasčių bei neturintiems administracinių nuobaudų profesinėje srityje ir kurių atžvilgiu nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
+
+
+
+
+
+
+7. Vadovauti kultūros paveldo objektų ir kultūros paveldo statinių tvarkybos darbų projektavimui ir tvarkybos darbų projekto vykdymo priežiūrai siekiantys atestuoti specialistai privalo atitikti šiuos kvalifikacinius reikalavimus: 
+
+
+1) turėti šio straipsnio 4 dalies 1 punkte nurodytą išsilavinimą;
+
+
+
+
+2) turėti profesinės patirties, kurios trukmė skaičiuojama nuo šio straipsnio 4 dalies 1 punkte nurodyto išsilavinimo įgijimo dienos: tvarkybos darbų projektavimui vadovaujantys specialistai – ne mažesnę kaip 3 metų dalyvavimo projektuojant tvarkybos darbus, kai veikla vykdoma kultūros paveldo objektuose ir kultūros paveldo statiniuose, profesinę patirtį. Dalyvavimo projektuojant tvarkomuosius paveldosaugos tvarkybos darbus profesinė patirtis nustatoma pagal pateiktus darbo patirtį patvirtinančius dokumentus, projektus ir kultūros paveldo objektų, kultūros paveldo statinių, kurių tvarkybos darbus projektuojant buvo dalyvauta, sąrašą; tvarkybos darbų projekto vykdymo priežiūrai vadovaujantys fiziniai asmenys – ne mažesnę kaip 3 metų dalyvavimo įgyvendinant tvarkybos darbų projektą, kai veikla vykdoma kultūros paveldo objektuose ir kultūros paveldo statiniuose, profesinę patirtį. Dalyvavimo įgyvendinant tvarkybos darbų projektą profesinė patirtis nustatoma pagal pateiktus darbo patirtį patvirtinančius dokumentus ir kultūros paveldo objektų, kultūros paveldo statinių, kurių tvarkybos darbų projektą įgyvendinant buvo dalyvauta, sąrašą;
+
+
+
+
+3) kultūros ministro nustatyta tvarka Atestavimo komisijoje išlaikyti profesinių ir teisinių žinių egzaminą pagal kultūros ministro patvirtintą programą. Profesinių žinių egzaminų rezultatai nustatyta tvarka kėlusiems kvalifikaciją atestuotiems specialistams, kurių kvalifikacijos atestatas ar teisės pripažinimo dokumento galiojimas nėra panaikintas dėl šio įstatymo 17 dalies 1 ir 2 punktuose nurodytų priežasčių bei neturintiems administracinių nuobaudų profesinėje srityje ir kurių atžvilgiu nėra nustatyta profesinės etikos pažeidimų, galioja neterminuotai.
+
+
+
+
+
+
+8. Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, turi teisę atlikti šio straipsnio 1 dalyje nurodytas funkcijas, pripažinus jų kilmės valstybėje turimą teisę vykdyti atitinkamą veiklą. Turimos teisės pripažinimo tvarką, išduoto teisės pripažinimo dokumento keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, vadovaudamasis šiame įstatyme nustatytais pagrindais, nustato kultūros ministras. Teisės pripažinimą atlieka Kultūros ministerija.
+
+
+
+
+9. Fiziniai asmenys, siekiantys įgyti teisę atlikti nekilnojamojo kultūros paveldo tvarkybos darbus ar paveldosaugos (specialiąją) ekspertizę arba siekiantys, kad ši teisė būtų pripažinta, turi teisę su atestavimu ir teisės pripažinimu susijusias procedūras (išskyrus profesinių ir teisinių žinių egzamino laikymą) kultūros ministro nustatyta tvarka atlikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, Kultūros paveldo elektroninių paslaugų informacinę sistemą arba tiesiogiai kreipdamiesi į Kultūros ministeriją. Sprendimas dėl kvalifikacijos atestato išdavimo ar neišdavimo arba teisės pripažinimo ar nepripažinimo priimamas ir priėmus atitinkamą sprendimą kvalifikacijos atestatas ar teisės pripažinimo dokumentas išduodamas neterminuotam laikui ne vėliau kaip per 30 darbo dienų nuo visų dokumentų kvalifikacijos atestatui ar teisės pripažinimo dokumentui gauti gavimo Kultūros ministerijoje dienos. Fiziniai asmenys, gavę kvalifikacijos atestatą, ne rečiau kaip kas 5 metus privalo tobulinti savo kvalifikaciją, kvalifikacijos tobulinimo kursuose išklausydami ne mažiau kaip 20 valandų paskaitų pagal aukštųjų mokyklų, asociacijų, mokymo įstaigų patvirtintas mokymo programas, suderintas su Kultūros ministerija. Kvalifikacijos tobulinimą patvirtinantys dokumentai pateikiami Kultūros ministerijai kultūros ministro nustatyta tvarka.
+
+
+
+
+10. Vadovauti ypatingojo ar neypatingojo statinio (išskyrus kultūros paveldo objektus ir kultūros paveldo statinius), esančio kultūros paveldo objekto teritorijoje, jo apsaugos zonoje ar kultūros paveldo vietovėje, projektavimui, tokio statinio projekto vykdymo priežiūrai turi teisę Statybos įstatyme nustatyta tvarka atestuoti ir jame nustatytus reikalavimus atitinkantys architektai ir statybos inžinieriai.
+TAR pastaba. Teisę užsiimti 231 straipsnio 10, 11 ir 12 dalyse nurodyta veikla ypatinguose statiniuose turi ir asmenys, iki įstatymo Nr. XII-2574 įsigaliojimo (2017-01-01) Lietuvos Respublikos statybos įstatymo, šiuo įstatymu keičiamo Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo, jų įgyvendinamųjų teisės aktų nustatyta tvarka gavę atestatus ar teisės pripažinimo dokumentus, suteikiančius teisę vykdyti atitinkamą veiklą. Ši teisė galioja iki atestato ar teisės pripažinimo dokumento galiojimo pabaigos dienos.
+
+
+
+
+11. Vadovauti kultūros paveldo objekto ir kultūros paveldo statinio tvarkomųjų statybos darbų projektavimui, atlikti tokio statinio projekto vykdymo priežiūrą turi teisę šio straipsnio 10 dalyje nustatyta tvarka atestuoti architektai ir statybos inžinieriai, šio įstatymo nustatyta tvarka įgiję teisę vadovauti kultūros paveldo objektų ir kultūros paveldo statinių tvarkybos darbų projektavimui ar tvarkybos darbų projekto vykdymo priežiūrai.
+TAR pastaba. Teisę užsiimti 231 straipsnio 10, 11 ir 12 dalyse nurodyta veikla ypatinguose statiniuose turi ir asmenys, iki įstatymo Nr. XII-2574 įsigaliojimo (2017-01-01) Lietuvos Respublikos statybos įstatymo, šiuo įstatymu keičiamo Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo, jų įgyvendinamųjų teisės aktų nustatyta tvarka gavę atestatus ar teisės pripažinimo dokumentus, suteikiančius teisę vykdyti atitinkamą veiklą. Ši teisė galioja iki atestato ar teisės pripažinimo dokumento galiojimo pabaigos dienos.
+
+
+
+
+12. Vadovauti kultūros paveldo objekto ir kultūros paveldo statinio, kito ypatingojo ar neypatingojo statinio, esančio kultūros paveldo objekto teritorijoje, jo apsaugos zonoje ar kultūros paveldo vietovėje, tvarkomiesiems statybos darbams, tokio statinio ekspertizei, tokio statinio statybos techninei priežiūrai turi teisę Statybos įstatyme nustatyta tvarka ir jame nustatytus reikalavimus atitinkantys atestuoti architektai ir statybos inžinieriai.
+TAR pastaba. Teisę užsiimti 231 straipsnio 10, 11 ir 12 dalyse nurodyta veikla ypatinguose statiniuose turi ir asmenys, iki įstatymo Nr. XII-2574 įsigaliojimo (2017-01-01) Lietuvos Respublikos statybos įstatymo, šiuo įstatymu keičiamo Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo, jų įgyvendinamųjų teisės aktų nustatyta tvarka gavę atestatus ar teisės pripažinimo dokumentus, suteikiančius teisę vykdyti atitinkamą veiklą. Ši teisė galioja iki atestato ar teisės pripažinimo dokumento galiojimo pabaigos dienos.
+
+
+
+
+13. Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turi teisę užsiimti šio straipsnio 10, 11 ir 12 dalyse nurodyta veikla, šio įstatymo ir Statybos įstatymo nustatyta tvarka pripažinus jų kilmės valstybėje turimą teisę vykdyti atitinkamą veiklą.
+
+
+
+
+14. Kultūros ministras sustabdo kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimą iki 6 mėnesių (konkretus terminas nustatomas atsižvelgiant į pažeidimo pobūdį, pavojingumo kultūros paveldo objektams ir (ar) vietovėms laipsnį, kilusius padarinius, o kai sustabdyta kilmės valstybėje turima fizinio asmens teisė, kuri buvo pripažinta išduodant jam teisės pripažinimo dokumentą, – atsižvelgiant į šios teisės sustabdymo aplinkybes ir terminą) šiais atvejais:
+
+
+1) kai Atestavimo komisija Kultūros ministerijos ar Departamento teikimu nustato, kad asmuo, vykdydamas kvalifikacijos atestate ar teisės pripažinimo dokumente nurodytą veiklą, nešiurkščiai pažeidė šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus. Nešiurkščiu pažeidimu laikomas toks šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų pažeidimas, dėl kurio nėra sunaikinta (sunaikintos) nekilnojamojo kultūros paveldo vertingoji (vertingosios) savybė (savybės) ar autentiškumas;
+
+
+
+
+2) kai teisė, kuri buvo pripažinta išduodant teisės pripažinimo dokumentą, sustabdyta asmens, gavusio teisės pripažinimo dokumentą, kilmės valstybėje;
+
+
+
+
+3) kai asmuo netobulino kvalifikacijos pagal šio straipsnio 9 dalyje nustatytus reikalavimus.
+
+
+
+
+
+
+15. Kvalifikacijos atestato ar teisės pripažinimo dokumento turėtojas, pašalinęs šio straipsnio 14 dalies 1 punkte nurodytus pažeidimus, dėl kurių buvo sustabdytas kvalifikacijos atestato galiojimas, pateikia Kultūros ministerijai tai įrodančius dokumentus. Ne vėliau kaip per 20 darbo dienų nuo šių dokumentų pateikimo Kultūros ministerijai dienos Atestavimo komisijos teikimu kultūros ministras priima sprendimą dėl kvalifikacijos atestato ar teisės pripažinimo dokumento sustabdymo panaikinimo (nepanaikinimo, jeigu patikrinus dokumentus ir kitus faktinius duomenis paaiškėja, kad neišnyko šioje dalyje nurodytos aplinkybės, dėl kurių buvo sustabdytas kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimas). Kultūros ministerija ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos apie jį raštu informuoja kvalifikacijos atestato ar teisės pripažinimo dokumento turėtoją. Priėmus sprendimą, kad pažeidimai nepašalinti, pranešime turi būti nurodyti šio sprendimo motyvai.
+
+
+
+
+16. Kvalifikacijos atestato turėtojas, pašalinęs šio straipsnio 14 dalies 3 punkte nurodytą pažeidimą ar per teisės pripažinimo dokumento galiojimo sustabdymo laikotarpį fizinio asmens kilmės valstybėje išnykus aplinkybėms, dėl kurių sustabdyta šio straipsnio 8 dalyje nurodyta jo turima teisė, pateikia Kultūros ministerijai tai įrodančius dokumentus. Ne vėliau kaip per 10 darbo dienų nuo šių dokumentų pateikimo Kultūros ministerijai dienos kultūros ministras priima sprendimą dėl kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo panaikinimo (nepanaikinimo, jeigu patikrinus dokumentus ir kitus faktinius duomenis paaiškėja, kad neišnyko šioje dalyje nurodytos aplinkybės, dėl kurių buvo sustabdytas kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimas). Kultūros ministerija ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos apie jį raštu informuoja kvalifikacijos atestato ar teisės pripažinimo dokumento turėtoją. Priėmus sprendimą nepanaikinti kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo, pranešime turi būti nurodyti šio sprendimo motyvai.
+
+
+
+
+17. Kultūros ministras Atestavimo komisijos teikimu panaikina asmenų kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimą šiais atvejais: 
+
+
+1) kai nustatoma, kad asmuo, vykdydamas kvalifikacijos atestate ar teisės pripažinimo dokumente nurodytą veiklą, šiurkščiai pažeidė šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus. Šiurkščiu pažeidimu laikomas toks šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų pažeidimas, dėl kurio sunaikinta (sunaikintos) nekilnojamojo kultūros paveldo vertingoji (vertingosios) savybė (savybės) ar autentiškumas;
+
+
+
+
+2) nustatoma, kad sustabdžius kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimą, asmuo tęsia veiklą, kuriai reikalingas kvalifikacijos atestatas ar teisės pripažinimo dokumentas;
+
+
+
+
+3) asmuo, kurio kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimas sustabdytas, per nustatytą terminą nepašalino pažeidimų, dėl kurių kvalifikacijos atestato ar teisės pripažinimo galiojimas buvo sustabdytas;
+
+
+
+
+4) asmuo per nustatytą terminą nepateikė prašomų dokumentų ir (ar) duomenų, reikalingų tiriant jo padarytus pažeidimus;
+
+
+
+
+5) paaiškėja, kad asmuo pateikė neteisingus duomenis, siekdamas gauti kvalifikacijos atestatą ar teisės pripažinimo dokumentą;
+
+
+
+
+6) kai teisė, kuri buvo pripažinta išduodant teisės pripažinimo dokumentą, panaikinta fizinio asmens, gavusio teisės pripažinimo dokumentą, kilmės valstybėje;
+
+
+
+
+7) kai to prašo kvalifikacijos atestato ar teisės pripažinimo dokumento turėtojas.
+
+
+
+
+
+
+18. Asmuo, kurio kvalifikacijos atestatas ar teisės pripažinimo dokumento galiojimas panaikintas dėl šio įstatymo 17 dalies 1 ir 2 punktuose nurodytų priežasčių, gali pateikti prašymą dėl naujo kvalifikacijos atestato ar teisės pripažinimo dokumento išdavimo ne anksčiau kaip po 3 metų nuo kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo panaikinimo.
+
+
+
+
+19. Būti kultūros paveldo statinių statybos, statinių projektų ekspertizės, statinio ekspertizės rangovu turi teisę Statybos įstatymo nustatyta tvarka ir jame nustatytus reikalavimus atitinkantys atestuoti asmenys.
+
+
+Papildyta straipsniu:
+Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
  
 
 
@@ -2095,7 +2409,10 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 311 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
 
 
-1. Už šio įstatymo pažeidimus 31 straipsnio 2 dalyje nurodytiems subjektams tam įgalioti Departamento pareigūnai, nustatę, kad šio įstatymo reikalavimai pažeisti, surašo Administracinių teisės pažeidimų kodekse nustatyto turinio protokolą. 
+1. Už šio įstatymo pažeidimus 31 straipsnio 2 dalyje nurodytiems subjektams tam įgalioti Departamento pareigūnai, nustatę, kad šio įstatymo reikalavimai pažeisti, surašo Lietuvos Respublikos administracinių nusižengimų kodekse nustatyto turinio protokolą.
+Straipsnio dalies pakeitimai:
+Nr. XII-2619, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24193
+ 
 
 
 
@@ -2369,3 +2686,8 @@ Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-73
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 5, 8, 18, 22, 23 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2619, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24193
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 5, 6 ir 31-1 straipsnių pakeitimo įstatymas
