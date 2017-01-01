@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-11-15 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-07-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -947,7 +947,10 @@ Susisiekimo ministerija:
 
 
 
-21) pagal kompetenciją taiko Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatytas poveikio priemones už administracinius teisės pažeidimus;
+21) Neteko galios nuo 2017-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-2485, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18455
+ 
 
 
 
@@ -1692,27 +1695,33 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-2. Energetikos įrenginių eksploatavimo veiklos atestatai išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje. Atestatai išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Energetikos ministerijos patvirtintose Asmenų, turinčių teisę eksploatuoti energetikos įrenginius, atestavimo taisyklėse.
+2. Energetikos įrenginių eksploatavimo veiklos atestatai išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Energetikos ministerijos patvirtintose Asmenų, turinčių teisę eksploatuoti energetikos įrenginius, atestavimo taisyklėse.
+Straipsnio dalies pakeitimai:
+Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
+ 
 
 
 
 
-3. Energetikos įrenginių eksploatavimo veiklos atestatai išduodami šio straipsnio  2 dalyje nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus:
+3. Energetikos įrenginių eksploatavimo veiklos atestatai išduodami asmenims, nurodytiems šio įstatymo 2 straipsnio 1 dalyje, jeigu jie atitinka šiuos reikalavimus:
 
 
-1) turi technologinę įrangą, prietaisus ir kitas priemones, reikalingus veiksmams, kurių reikia energetikos įrenginiams eksploatuoti, atlikti;
-
-
-
-
-2) turi technologinius, techninius dokumentus, kuriuose nurodyti eksploatuojamų energetikos įrenginių techniniai duomenys ir rekomenduojamos eksploatavimo procedūros;
+1) turi technologinę įrangą, prietaisus ir kitas priemones, reikalingus veiksmams, kurių reikia energetikos įrenginiams eksploatuoti, atlikti;
 
 
 
 
-3) energetikos darbuotojai, kurie eksploatuos energetikos įrenginius, ir darbų vadovai, kurie vadovaus energetikos įrenginių eksploatavimo darbams, yra reikiamos kvalifikacijos ir yra atestuoti šio įstatymo 28 straipsnyje nustatyta tvarka.
+2) turi technologinius, techninius dokumentus, kuriuose nurodyti eksploatuojamų energetikos įrenginių techniniai duomenys ir rekomenduojamos eksploatavimo procedūros;
 
 
+
+
+3) energetikos darbuotojai, kurie eksploatuos energetikos įrenginius, ir darbų vadovai, kurie vadovaus energetikos įrenginių eksploatavimo darbams, yra reikiamos kvalifikacijos ir yra atestuoti šio įstatymo 28 straipsnyje nustatyta tvarka.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
+ 
 
 
 
@@ -2886,3 +2895,13 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 34 straipsnio pakeitimo ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 34 straipsnių ir priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2485, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18455
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22 straipsnio pakeitimo įstatymas
