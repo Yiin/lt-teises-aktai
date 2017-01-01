@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2016-11-18 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -339,6 +339,9 @@ Civilinio kodekso 3.14 straipsnio 2, 3, 4 ir 5 dalyse nustatytos normos dėl san
 
 
 1. Civilinio kodekso 3.24 straipsnyje nustatyta norma dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikoma po šio kodekso įsigaliojimo sudarytoms santuokoms.
+Straipsnio dalies pakeitimai:
+Nr. XII-2125, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19718
+ 
 
 
 
@@ -4842,6 +4845,9 @@ Valstybė privalomai registruoja šiuos civilinės būklės aktus:
 
 
 6) tėvystės pripažinimą, tėvystės (motinystės) nustatymą ir tėvystės (motinystės) nuginčijimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -4872,6 +4878,9 @@ Valstybė privalomai registruoja šiuos civilinės būklės aktus:
 Civilinės būklės aktai, išskyrus partnerystę, registruojami civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka.
 
 
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -10012,6 +10021,9 @@ Susitarimas tuoktis ir jo teisinės pasekmės
 
 
 3. Civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka paduotas prašymas įregistruoti santuoką laikomas viešu susitarimu tuoktis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -10209,96 +10221,49 @@ Santuokos sudarymas
 Santuoka sudaroma norintiems susituokti asmenims padavus prašymą įregistruoti santuoką ir ją įregistravus civilinės būklės aktų registravimą reglamentuojančio įstatymo arba šio kodekso 3.24 straipsnio nustatyta tvarka.
 
 
-
-
-
-
-3.19 straipsnis. Prašymo įregistruoti santuoką viešas skelbimas
-
-
-Prašymo įregistruoti santuoką padavimo faktas viešai skelbiamas šio kodekso 3.302 straipsnio nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
 
 
 
 
-
-
-3.20 straipsnis. Santuokos sudarymo sąlygų įvykdymo patvirtinimas
-
-
-1. Norintys susituokti asmenys, paduodami prašymą įregistruoti santuoką, privalo raštu patvirtinti, kad yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose nustatytos santuokos sudarymo sąlygos.
-
-
-
-
-2. Civilinės metrikacijos įstaigos pareigūnai, prieš įregistruodami santuoką, privalo patikrinti, ar yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose nustatytos santuokos sudarymo sąlygos.
+3.19 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
 
 
 
 
-
-
-3.21 straipsnis. Norinčių susituokti asmenų sveikatos tikrinimas
-
-
-1. Norintiems susituokti asmenims, padavusiems prašymą įregistruoti santuoką, civilinės metrikacijos įstaigos pareigūnai pasiūlo pasitikrinti sveikatą ir iki santuokos įregistravimo dienos pateikti Vyriausybės įgaliotos institucijos nustatytos formos sveikatos dokumentą.
-
-
-
-
-2. Sveikatos dokumento nepateikimas nėra kliūtis įregistruoti santuoką.
-
-
-
-
-3. Vieno iš norinčių tuoktis asmenų nepranešimas kitam apie tai, kad jis serga venerine liga arba AIDS, yra pagrindas santuoką pripažinti negaliojančia.
+3.20 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
 
 
 
 
-
-
-3.22 straipsnis. Prašymas dėl kliūčių sudaryti santuoką 
-
-
-1. Bet kuris suinteresuotas asmuo turi teisę raštu pareikšti civilinės metrikacijos įstaigai, paskelbusiai apie prašymą įregistruoti santuoką, kad yra šioje knygoje numatytų kliūčių sudaryti santuoką.
-
-
-
-
-2. Civilinės metrikacijos įstaigos pareigūnas, gavęs prašymą dėl kliūčių sudaryti santuoką, atideda santuokos registravimą ir įpareigoja prašymą padavusį asmenį per tris dienas pateikti rašytinius prašyme nurodytų faktų įrodymus. Jeigu asmuo per tris dienas tokių įrodymų nepateikia, santuoka registruojama bendra tvarka.
-
-
-
-
-3. Jeigu pateikiami rašytiniai įrodymai apie esančias kliūtis sudaryti santuoką, civilinės metrikacijos įstaigos pareigūnas sustabdo santuokos registravimą ir, jei kyla ginčas, išaiškina norintiems tuoktis asmenims jų teisę kreiptis į teismą dėl tokio prašymo paneigimo. Tokiais atvejais santuoka registruojama tik tada, kai norintys tuoktis asmenys pateikia civilinės metrikacijos įstaigai įsiteisėjusį teismo sprendimą, kuriuo prašymas dėl kliūčių sudaryti santuoką yra paneigtas kaip nepagrįstas.
-
-
-
-
-4. Jeigu teismas savo sprendimu prašymą dėl kliūčių sudaryti santuoką pripažįsta nepagrįstu, tai norintys tuoktis asmenys, o po santuokos sudarymo – sutuoktiniai turi teisę per vienerius metus nuo tokio teismo sprendimo įsiteisėjimo dienos reikalauti tiesioginių nuostolių atlyginimo iš prašymą dėl kliūčių sudaryti santuoką padavusio asmens, išskyrus atvejus, kai prašymą buvo padavę vieno iš sutuoktinių tėvai ar prokuroras.
+3.21 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
 
 
 
 
-
-
-3.23 straipsnis. Santuokos įrodymas
-
-
-1. Civilinės metrikacijos įstaiga, įregistravusi santuoką, išduoda santuokos liudijimą.
-
-
-
-
-2. Santuokos akto įrašas ir jo pagrindu išduotas santuokos liudijimas yra santuokos įrodymas.
+3.22 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
 
 
+
+
+3.23 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -10339,17 +10304,17 @@ Prašymo įregistruoti santuoką padavimo faktas viešai skelbiamas šio kodekso
 4. Jeigu per šio straipsnio 3 dalyje nustatytą terminą pranešimas apie santuokos sudarymą bažnyčios (konfesijų) nustatyta tvarka nepateikiamas, santuoka laikoma sudaryta nuo tos dienos, kurią ji buvo įtraukta į apskaitą civilinės metrikacijos įstaigoje.
 
 
-
-
-
-
-3.25 straipsnis. Bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficiali apskaita
-
-
-Bažnyčios (konfesijų) nustatyta tvarka sudarytos santuokos įtraukiamos į oficialią apskaitą šio kodekso 3.304 straipsnio nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
 
 
+
+
+3.25 straipsnis. Neteko galios nuo 2017-01-01
+Straipsnio naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -10555,6 +10520,9 @@ SANTUOKOS NEGALIOJIMAS
 
 
 1. Santuoka gali būti pripažinta negaliojančia, jeigu buvo pažeistos šio kodekso 3.12–3.17 straipsniuose nustatytos santuokos sudarymo sąlygos, taip pat šio kodekso 3.39 ir 3.40 straipsniuose nustatytais pagrindais arba jeigu vienas iš norinčių tuoktis nepranešė kitam apie tai, kad jis serga lytiškai plintančia liga arba AIDS. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -10570,6 +10538,9 @@ SANTUOKOS NEGALIOJIMAS
 
 
 4. Teismas ne vėliau kaip kitą darbo dieną nuo teismo sprendimo pripažinti santuoką negaliojančia įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -11265,6 +11236,9 @@ Santuokos nutraukimo teisinės pasekmės
 
 
 2. Teismas ne vėliau kaip kitą darbo dieną nuo teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13027,6 +13001,9 @@ Bendrieji vaiko kilmės nustatymo pagrindai
 Vaiko tėvus patvirtina gimimo įrašas, sudarytas civilinės būklės aktų registravimą reglamentuojančio įstatymo nustatyta tvarka.
 
 
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13047,6 +13024,9 @@ Vaiko tėvus patvirtina gimimo įrašas, sudarytas civilinės būklės aktų reg
 3. Kai vaiko gimimo įraše nėra duomenų apie motiną arba kai motinystė nuginčyta, motinystę gali nustatyti teismas pagal moters, laikančios save vaiko motina, pilnamečio vaiko, vaiko tėvo, globėjo (rūpintojo) ar valstybinės vaiko teisių apsaugos institucijos ieškinį.
 
 
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13055,6 +13035,9 @@ Vaiko tėvus patvirtina gimimo įrašas, sudarytas civilinės būklės aktų reg
 
 
 1. Jei vaiką pagimdė motina, kuri yra susituokusi, nors vaikas pradėtas iki santuokos, kaip vaiko tėvas gimimo įraše įrašomas vaiko motinos sutuoktinis.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13141,6 +13124,9 @@ Tėvystės pripažinimas
 5. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo patvirtinimo dienos privalo šį pareiškimą elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
 
 
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13149,6 +13135,9 @@ Tėvystės pripažinimas
 
 
 1. Jei yra aplinkybių, dėl kurių vaikui gimus nebus galima kreiptis į notarą dėl tėvystės pripažinimo, vyras, laikantis save pradėto, bet dar negimusio vaiko tėvu, kartu su būsima vaiko motina gali kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo vaiko motinos nėštumo laikotarpiu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13164,11 +13153,17 @@ Tėvystės pripažinimas
 
 
 4. Jei vaiko motina arba vyras atšaukė pareiškimą dėl tėvystės pripažinimo, patvirtintą šio straipsnio nustatyta tvarka, kol vaiko gimimas nebuvo įregistruotas civilinės metrikacijos įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės pripažinimo, neregistruojama. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
 
 5. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo ar pareiškimo dėl tėvystės pripažinimo atšaukimo patvirtinimo dienos privalo šį pareiškimą elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
+Papildyta straipsnio dalimi:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13189,6 +13184,9 @@ Tėvystės pripažinimas
 
 
 3. Pareiškimas dėl tėvystės pripažinimo negali būti tvirtinamas, jeigu dėl tėvystės pripažinimo nesutinka pilnametis vaikas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 Straipsnio pakeitimai:
@@ -13207,6 +13205,9 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 2. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo, kuriuo patvirtinamas pareiškimas dėl tėvystės pripažinimo, įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13263,6 +13264,9 @@ Tėvystės nustatymas
 
 
 3. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nustatyti tėvystę įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13365,6 +13369,9 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 3. Teismas ne vėliau kaip kitą darbo dieną po teismo sprendimo nuginčyti tėvystę (motinystę) įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13452,6 +13459,9 @@ Tėvų valdžia
 Tėvai yra savo neveiksnių nepilnamečių vaikų atstovai pagal įstatymą, išskyrus tėvus, teismo sprendimu pripažintus neveiksniais šioje srityje arba ribotai veiksniais šioje srityje.
 
 
+Straipsnio pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13678,6 +13688,9 @@ Asmeninės tėvų teisės ir pareigos
 
 
 2. Kai tėvų pavardės skirtingos, vaikui tėvų susitarimu suteikiama tėvo ar motinos pavardė arba dviguba pavardė, sudaryta iš tėvo ir motinos pavardžių. Tėvui ir motinai nesusitarus dėl vaiko pavardės, vaikui pavardė suteikiama teismo nutartimi. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -13688,6 +13701,9 @@ Asmeninės tėvų teisės ir pareigos
 
 
 4. Vaiko vardo ir pavardės pakeitimo pagrindus ir tvarką nustato teisingumo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -14965,6 +14981,9 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 3. Prašymas įvaikinti nagrinėjamas ypatingosios teisenos tvarka. Įsiteisėjusį teismo sprendimą įvaikinti teismas ne vėliau kaip kitą darbo dieną po šio sprendimo įsiteisėjimo dienos privalo elektroninių ryšių priemonėmis išsiųsti vaiko gimimą įregistravusiai civilinės metrikacijos įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -15700,6 +15719,9 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 
 
 1) geriausių vaiko interesų pirmumas;
+Straipsnio punkto pakeitimai:
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+ 
 
 
 
@@ -15819,6 +15841,9 @@ NEPILNAMEČIŲ GLOBA IR RŪPYBA
 TAR pastaba. Iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko laikinajai globai (rūpybai) 3.253 straipsnio 2 dalyje nustatytas dvylikos mėnesių terminas pradedamas skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
 
 
+Straipsnio pakeitimai:
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+ 
 
 
 
@@ -16044,6 +16069,9 @@ Vaiko nuolatinė globa (rūpyba) baigiasi, kai vaikas:
 
 
 TAR pastaba. 3.261 straipsnio nuostatos dėl apribojimo nustatant vaiko iki trejų metų globą vaikų globos institucijoje netaikomos iki įstatymo Nr. XII-1879 įsigaliojimo (2017-01-01) nustatytai vaiko globai.
+Straipsnio pakeitimai:
+Nr. XII-1879, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11177
+ 
 
 
 
@@ -16526,610 +16554,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-VIII dalis 
-CIVILINĖS BŪKLĖS AKTŲ REGISTRAVIMAS
+8 dalis. Neteko galios nuo 2017-01-01
+Dalies naikinimas:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
  
-
-
-XX skyrius
-BENDROSIOS NUOSTATOS
- 
-
-
-3.280 straipsnis. Civilinės būklės aktus registruojančios įstaigos ir jų kompetencija
-
-
-1. Miestų ir rajonų civilinės metrikacijos įstaigos registruoja gimimą, tėvystės pripažinimą, tėvystės nustatymą, santuokos sudarymą, santuokos nutraukimą, įvaikinimą, vardo, pavardės, tautybės pakeitimą ir mirtį.
-
-
-
-
-2. Miestų, kuriuose nėra civilinės metrikacijos įstaigų, seniūnijų (išskyrus savivaldybių centrų seniūnijas) seniūnai turi teisę registruoti mirtį.
-
-
-
-
-3. Lietuvos Respublikos konsulinės įstaigos turi teisę registruoti Lietuvos Respublikos piliečių gimimą, santuoką ir mirtį.
- 
-
-
-
-
-
-
-3.281 straipsnis. Civilinės būklės aktų registravimo taisyklės
-
-
-Civilinės būklės aktai registruojami, atkuriami, keičiami, papildomi ir ištaisomi, laikantis Civilinės metrikacijos taisyklių, kurias tvirtina teisingumo ministras.
- 
-
-
-
-
-
-
-3.282 straipsnis. Civilinės būklės aktų įrašų kalba
-
-
-Civilinės būklės aktų įrašai įrašomi lietuvių kalba. Vardas, pavardė ir vietovardžiai rašomi pagal lietuvių kalbos taisykles.
- 
-
-
-
-
-
-
-3.283 straipsnis. Draudimas įrašyti civilinės būklės aktų įrašus sau ir giminaičiams
-
-
-Draudžiama įrašyti civilinės būklės aktų įrašus sau, savo sutuoktiniui, tėvams, vaikams, broliams ir seserims.
- 
-
-
-
-
-
-
-3.284 straipsnis. Dokumentai, pateikiami įrašant civilinės būklės aktų įrašus
-
-
-Įrašant civilinės būklės aktų įrašus, turi būti pateikiami dokumentai, patvirtinantys pareiškėjų asmens tapatybę ir aktus, registruotinus civilinės metrikacijos įstaigose.
- 
-
-
-
-
-
-
-3.285 straipsnis. Civilinės būklės aktų įrašų įrašymas
-
-
-Kiekvienas įrašomas civilinės būklės akto įrašas turi būti perskaitomas pareiškėjams, jų ir aktą surašančio pareigūno pasirašomas ir patvirtinamas civilinės būklės aktus registruojančios įstaigos antspaudu. Apie gimimo, santuokos sudarymo, santuokos nutraukimo, pavardės, vardo, tautybės pakeitimo ir mirties įrašų įrašymą pareiškėjams išduodami atitinkami liudijimai.
- 
-
-
-
-
-
-
-3.286 straipsnis. Civilinės būklės aktų įrašų nuginčijimo ir anuliavimo tvarka
-
-
-1. Civilinės būklės aktų įrašai gali būti nuginčyti tik teismo tvarka.
-
-
-
-
-2. Atkurtieji civilinės būklės aktų įrašai, kai surandami pirminiai įrašai, anuliuojami civilinės metrikacijos įstaigos vadovo sprendimu.
- 
-
-
-
-
-
-
-3.287 straipsnis. Civilinės būklės aktų įrašų įrašymo teisėtumo priežiūra
-
-
-Civilinės būklės aktų įrašų įrašymo civilinės metrikacijos įstaigose ir seniūnijose teisėtumą prižiūri Teisingumo ministerija jos nuostatuose nustatyta tvarka.
- 
-
-
-
-
-
-
-3.288 straipsnis. Valstybės rinkliava už civilinės būklės aktų registravimą
-
-
-Civilinės metrikacijos įstaigose registruojant civilinės būklės aktus, taip pat ištaisant ir keičiant aktų įrašus, valstybės rinkliava imama įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
-XXI skyrius
-GIMIMO REGISTRAVIMAS
- 
-
-
-3.289 straipsnis. Gimimo registravimo tvarka
-
-
-1. Gimimas registruojamas vaiko gimimo vietos arba tėvų ar vieno iš jų gyvenamosios vietos civilinės metrikacijos įstaigoje.
-
-
-
-
-2. Vaiko tėvų pageidavimu civilinės metrikacijos įstaiga sukuria iškilmingą gimimo registravimo aplinką.
- 
-
-
-
-
-
-
-3.290 straipsnis. Pareiškimas apie gimimą
-
-
-1. Apie gimimą žodžiu arba raštu pareiškia tėvai ar vienas iš jų, o jeigu tėvai serga, yra mirę ar dėl kitų priežasčių negali to atlikti, pareiškia giminaičiai, kaimynai, medicinos įstaigos, kurioje motina pagimdė vaiką, administracija, taip pat valstybinė vaiko teisių apsaugos institucija.
-
-
-
-
-2. Rasto vaiko gimimas įregistruojamas jį radusio asmens arba valstybinės vaiko teisių apsaugos institucijos pareiškimu.
- 
-
-
-
-
-
-
-3.291 straipsnis. Terminai vaiko gimimui įregistruoti
-
-
-1. Apie vaiko gimimą turi būti pareikšta ir vaiko gimimas turi būti įregistruotas per tris mėnesius nuo jo gimimo dienos, o jeigu vaikas gimė negyvas, – per tris paras nuo gimimo laiko.
-
-
-
-
-2. Pareiškimas dėl rasto vaiko gimimo įregistravimo turi būti paduotas per tris paras nuo vaiko radimo laiko.
- 
-
-
-
-
-
-
-3.292 straipsnis. Gimimo įrašas
-
-
-1. Gimimo įraše vaiko vardas, pavardė ir tautybė, taip pat duomenys apie jo tėvus įrašomi laikantis šio kodekso 3.139, 3.140, 3.166 ir 3.167 straipsniuose nustatytų taisyklių. 
-
-
-
-
-2. Jeigu vaiko tėvystė nenustatyta, duomenys apie tėvą neįrašomi.
-
-
-
-
-3. Vaiko, kurio tėvai nežinomi, vardas ir pavardė įrašomi valstybinės vaiko teisių apsaugos institucijos nurodymu. Vaiko tautybė šiuo atveju neįrašoma.
-
-
-
-
-4. Įregistravus vaiko gimimą, išduodamas gimimo liudijimas.
- 
-
-
-
-
-
-
-
-
-XXII skyrius
-TĖVYSTĖS PRIPAŽINIMO IR TĖVYSTĖS NUSTATYMO REGISTRAVIMAS
- 
-
-
-3.293 straipsnis. Tėvystės pripažinimo registravimas
-
-
-1. Tėvystės pripažinimas registruojamas vaiko motinos gyvenamosios vietos civilinės metrikacijos įstaigoje remiantis motinos ir tėvo prašymais dėl tėvystės pripažinimo. Jeigu tėvystė pripažįstama po to, kai vaiko gimimas buvo įregistruotas, tėvystės pripažinimas registruojamas vaiko gimimą įregistravusioje civilinės metrikacijos įstaigoje.
-
-
-
-
-2. Šio kodekso 3.140 straipsnio 5 dalyje ir 3.144 straipsnyje numatytais atvejais tėvystės pripažinimas registruojamas pateikus teismo patvirtintą prašymą dėl tėvystės pripažinimo.
- 
-
-
-
-
-
-
-3.294 straipsnis. Tėvystės nustatymo registravimas
-
-
-Tėvystės nustatymas registruojamas vaiko gimimą įregistravusioje civilinės metrikacijos įstaigoje remiantis teismo sprendimu nustatyti tėvystę.
- 
-
-
-
-
-
-
-3.295 straipsnis. Duomenų apie tėvą įrašas vaiko gimimo įraše
-
-
-Civilinės metrikacijos įstaiga, remdamasi prašymu dėl tėvystės pripažinimo arba teismo sprendimu nustatyti tėvystę, įrašo į vaiko gimimo įrašą duomenis apie tėvą ir išduoda naują gimimo liudijimą.
- 
-
-
-
-
-
-
-
-
-XXIII skyrius
-ĮVAIKINIMO REGISTRAVIMAS
- 
-
-
-3.296 straipsnis. Įvaikinimo registravimo vieta
-
-
-Įvaikinimas registruojamas civilinės metrikacijos įstaigoje, įregistravusioje vaiko gimimą, remiantis teismo sprendimu įvaikinti.
- 
-
-
-
-
-
-
-3.297 straipsnis. Duomenų įrašymas įvaikio gimimo įraše
-
-
-1. Jeigu teismo sprendimu įvaikiui suteiktas kitas vardas ar įtėvių pavardė, šie duomenys jo gimimo įraše atitinkamai pakeičiami.
-
-
-
-
-2. Įvaikio gimimo įraše jo tėvų duomenys pakeičiami duomenimis apie įtėvius.
-
-
-
-
-3. Jeigu vaiką įvaikino vienas vyras arba viena moteris, antrojo iš vaiko tėvų duomenys išbraukiami ir nauji duomenys neįrašomi.
-
-
-
-
-4. Pakeitus įvaikio gimimo įraše duomenis, išduodamas naujas jo gimimo liudijimas.
- 
-
-
-
-
-
-
-
-
-XXIV skyrius
-SANTUOKOS REGISTRAVIMAS
- 
-
-
-3.298 straipsnis. Santuokos registravimo vieta
-
-
-Santuoka registruojama civilinės metrikacijos įstaigose, taip pat Lietuvos Respublikos konsulinėse įstaigose.
-
-
-Straipsnio pakeitimai:
-Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
- 
-
-
-
-
-3.299 straipsnis. Prašymas įregistruoti santuoką
-
-
-1. Norintys susituokti asmeniškai paduoda nustatytos formos prašymą pasirinktai civilinės metrikacijos įstaigai.
-Straipsnio dalies pakeitimai:
-Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
- 
-
-
-
-
-2. Prašyme jie turi patvirtinti, kad yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose numatytos santuokos sudarymo sąlygos, taip pat nurodyti, kelintą kartą kiekvienas iš jų tuokiasi ir kiek turi vaikų.
-
-
-
-
-3. Prašymas įregistruoti santuoką netenka galios, jeigu bent vienas asmenų, padavusių prašymą, nustatytu laiku neatvyksta įregistruoti santuokos arba prašymas atsiimamas.
- 
-
-
-
-
-
-
-3.300 straipsnis. Dokumentai, pateikiami kartu su prašymu įregistruoti santuoką
-
-
-1. Norintys susituokti kartu su prašymu įregistruoti santuoką pateikia savo gimimo liudijimą ir pasą arba jį atstojantį dokumentą.
-
-
-
-
-2. Ištuoktas asmuo pateikia taip pat ištuokos liudijimą.
-
-
-
-
-3. Užsienio valstybių piliečiai, paduodami prašymus įregistruoti santuoką, privalo pateikti taip pat savo valstybės kompetentingos įstaigos išduotą dokumentą, patvirtinantį, kad santuokai nėra kliūčių.
- 
-
-
-
-
-
-
-3.301 straipsnis. Santuokos registravimo laikas
-
-
-1. Santuoka registruojama praėjus ne mažiau kaip vienam mėnesiui nuo prašymo įregistruoti santuoką padavimo dienos.
-
-
-
-
-2. Civilinės metrikacijos įstaigos vadovas norinčių susituokti prašymu ir tuo atveju, kai yra svarbių priežasčių, turi teisę leisti registruoti santuoką nepraėjus vienam mėnesiui nuo prašymo padavimo dienos.
- 
-
-
-
-
-
-
-3.302 straipsnis. Prašymo įregistruoti santuoką viešas skelbimas
-
-
-1. Prašymo įregistruoti santuoką padavimo faktas skelbiamas viešai teisingumo ministro nustatyta tvarka ne vėliau kaip prieš dvi savaites iki santuokos registravimo dienos.
-TAR pastaba. Iki įstatymo Nr. XII-1880 įsigaliojimo (2015-07-10) pateikti, bet civilinės metrikacijos įstaigoje viešai nepaskelbti prašymai įregistruoti santuoką skelbiami šio įstatymo nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
- 
-
-
-
-
-2. Skelbime nurodoma ketinančių susituokti asmenų vardai, pavardės, gimimo data ir būsimos santuokos registravimo data.
- 
-
-
-
-
-
-
-3.303 straipsnis. Santuokos registravimas
-
-
-1. Santuoka registruojama, kai dalyvauja ketinantys susituokti asmenys ir du liudytojai.
-
-
-
-
-2. Civilinės metrikacijos įstaigos pareigūnas, prieš įregistruodamas santuoką, privalo dar kartą patikrinti, ar yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose numatytos santuokos sudarymo sąlygos.
-
-
-
-
-3. Įrašius santuokos sudarymo įrašą, sutuoktiniams išduodamas santuokos liudijimas.
-
-
-
-
-4. Santuoką sudariusių asmenų pasuose arba kituose jų asmens tapatybę patvirtinančiuose dokumentuose įrašoma apie santuokos įregistravimą ir nurodoma kito sutuoktinio vardas, pavardė ir gimimo metai, santuokos įregistravimo vieta ir data.
- 
-
-
-
-
-
-
-3.304 straipsnis. Bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų apskaita
-
-
-1. Atitinkamos religinės organizacijos įgaliotas asmuo privalo per dešimt dienų po santuokos sudarymo bažnyčios nustatyta tvarka pateikti santuokos sudarymo vietos civilinės metrikacijos įstaigai Teisingumo ministerijos nustatytos formos pranešimą apie santuokos įregistravimą bažnyčios (konfesijų) nustatyta tvarka.
-
-
-
-
-2. Civilinės metrikacijos įstaiga, gavusi pranešimą apie santuokos sudarymą bažnyčios nustatyta tvarka, įrašo santuokos įrašą ir išduoda santuokos liudijimą pagal šio kodekso 3.303 straipsnio 2, 3 ir 4 dalyse nustatytas taisykles tuo atveju, jeigu yra laikytasi šio kodekso 3.12–3.17 straipsnių reikalavimų. Tokiu atveju santuoka laikoma sudaryta nuo jos įregistravimo bažnyčios nustatyta tvarka dienos.
-
-
-
-
-3. Jeigu per šio straipsnio 1 dalyje nustatytą terminą pranešimas apie santuokos įregistravimą bažnyčios nustatyta tvarka civilinės metrikacijos įstaigai nepateikiamas, santuoka laikoma sudaryta nuo tos dienos, kai ji buvo įtraukta į apskaitą civilinės metrikacijos įstaigoje.
- 
-
-
-
-
-
-
-
-
-XXV skyrius
-SANTUOKOS NUTRAUKIMO REGISTRAVIMAS
- 
-
-
-3.305 straipsnis. Santuokos nutraukimo registravimo vieta
-
-
-Santuokos nutraukimas registruojamas teismo, priėmusio sprendimą nutraukti santuoką, buvimo vietos civilinės metrikacijos įstaigoje.
- 
-
-
-
-
-
-
-3.306 straipsnis. Santuokos nutraukimo registravimo tvarka
-
-
-1. Civilinės metrikacijos įstaiga, gavusi teismo sprendimą nutraukti santuoką, įrašo santuokos nutraukimo įrašą, abiem buvusiems sutuoktiniams išduoda ištuokos liudijimus ir pažymi apie ištuoką jų pasuose ar kituose jų asmens tapatybę patvirtinančiuose dokumentuose.
-
-
-
-
-2. Civilinės metrikacijos įstaiga, įregistravusi santuokos nutraukimą, išsiunčia civilinės metrikacijos įstaigai, įregistravusiai santuoką, nustatytos formos pranešimą, o pastaroji padaro pakeitimą santuokos sudarymo akto įraše.
- 
-
-
-
-
-
-
-
-
-XXVI skyrius
-VARDO, PAVARDĖS, TAUTYBĖS PAKEITIMO REGISTRAVIMAS
- 
-
-
-3.307 straipsnis. Vardo, pavardės, tautybės pakeitimo registravimo tvarka
-
-
-Vardo, pavardės, tautybės pakeitimas registruojamas pareiškėjo gyvenamosios vietos civilinės metrikacijos įstaigoje Teisingumo ministerijos leidimu.
- 
-
-
-
-
-
-
-3.308 straipsnis. Civilinės būklės aktų įrašuose pakeitimų dėl vardo, pavardės, tautybės pakeitimo padarymas
-
-
-Jeigu Teisingumo ministerija leido pakeisti vardą, pavardę, tautybę, civilinės metrikacijos įstaiga padaro atitinkamus pakeitimus gimimo, santuokos sudarymo, santuokos nutraukimo įrašuose ir išduoda vardo, pavardės, tautybės pakeitimo liudijimą bei naujus gimimo, santuokos, ištuokos liudijimus.
- 
-
-
-
-
-
-
-
-
-XXVII skyrius
-MIRTIES REGISTRAVIMAS
- 
-
-
-3.309 straipsnis. Mirties registravimo tvarka
-
-
-1. Mirtis registruojama mirusiojo gyvenamosios vietos arba mirimo vietos vienoje iš įstaigų, nurodytų šio kodekso 3.280 straipsnyje, remiantis medicininiu mirties liudijimu.
-
-
-
-
-2. Mirtis, remiantis teismo sprendimu paskelbti asmenį mirusiu ar nustačius asmens mirties faktą, registruojama sprendimą priėmusio teismo buvimo vietos civilinės metrikacijos įstaigoje.
- 
-
-
-
-
-
-
-3.310 straipsnis. Pareiškimas apie mirtį
-
-
-Mirtis registruojama mirusiojo giminaičių, jo kaimynų, gyvenamosios patalpos savininko pareiškimu, taip pat medicinos įstaigos, kurioje šis asmuo mirė, administracijos ar policijos komisariato pranešimu.
- 
-
-
-
-
-
-
-3.311 straipsnis. Terminas mirčiai įregistruoti
-
-
-Apie mirtį turi būti pareikšta ir mirtis turi būti įregistruota ne vėliau kaip per tris paras nuo mirimo arba mirusiojo suradimo laiko.
- 
-
-
-
-
-
-
-3.312 straipsnis. Mirties įrašas
-
-
-Registruodama mirtį, šio kodekso 3.280 straipsnyje nurodyta įstaiga įrašo mirties įrašą ir išduoda mirties liudijimą.
- 
-
-
-
-
-
-
-
-
-XXVIII skyrius
-CIVILINĖS BŪKLĖS AKTŲ ĮRAŠŲ ATKŪRIMAS,
-PAPILDYMAS IR IŠTAISYMAS
- 
-
-
-3.313 straipsnis. Civilinės būklės aktų įrašų atkūrimo, papildymo ir ištaisymo tvarka
-
-
-1. Civilinės būklės aktų įrašus atkuria, papildo ir ištaiso, jeigu dėl to yra pakankamas pagrindas ir nėra suinteresuotų asmenų ginčo, civilinės metrikacijos įstaigos.
-
-
-
-
-2. Jei tarp suinteresuotų asmenų iškyla ginčas, civilinės būklės aktų įrašai atkuriami, papildomi ir ištaisomi teismo sprendimu.
- 
-
-
-
-
-
-
-
-
-XXIX Skyrius
-CIVILINĖS BŪKLĖS AKTŲ ĮRAŠŲ IR JŲ KEITIMO DOKUMENTŲ SAUGOJIMAS
- 
-
-
-3.314 straipsnis. Civilinės būklės aktų įrašų ir jų keitimo dokumentų saugojimo tvarka
-
-
-Civilinės būklės aktų įrašų ir jų keitimo dokumentų saugojimo tvarką nustato Teisingumo ministerija kartu su Lietuvos archyvų departamentu.
- 
- 
-
-
-
-
-
-
 
 
 
@@ -23145,6 +22573,9 @@ Juridinių faktų įvykimą patvirtinantys dokumentai, kuriais remiantis šie ju
 
 
 4) turto savininko santuoką, ištuoką, vardo, pavardės pakeitimą, mirtį liudijantys dokumentai;
+Straipsnio punkto pakeitimai:
+Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
 
 
 
@@ -41771,25 +41202,28 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 6.696 straipsnis. Atsakomybė už statinio sugriuvimą
 
 
-1. Už statinio sugriuvimą ir tuo padarytą žalą atitinkamai atsako rangovas, projektuotojas ir statybos techninis prižiūrėtojas, jeigu objektas sugriuvo dėl projektavimo, konstrukcijų ar statybos darbų defektų ar netinkamo žemės grunto.
+1. Už statinio sugriuvimą ir tuo padarytą žalą atitinkamai atsako rangovas, projektuotojas, statinio projekto ekspertizės rangovas ir statybos techninis prižiūrėtojas, jeigu objektas sugriuvo dėl projektavimo, konstrukcijų ar statybos darbų defektų ar netinkamo žemės grunto.
 
 
 
 
-2. Projektuotojas arba statybos techninis prižiūrėtojas gali būti atleisti nuo atsakomybės, jeigu jie įrodo, kad objektas sugriuvo ne dėl jo projektavimo ar konstrukcinių defektų arba ne dėl nepakankamos statybos darbų priežiūros ar kontrolės, o dėl rangovo ar užsakovo kaltų veiksmų.
+2. Projektuotojas, statinio projekto ekspertizės rangovas arba statybos techninis prižiūrėtojas gali būti atleisti nuo atsakomybės, jeigu jie įrodo, kad objektas sugriuvo ne dėl jo projektavimo ar konstrukcinių defektų arba ne dėl nepakankamos statybos darbų priežiūros ar kontrolės, o dėl rangovo ar užsakovo kaltų veiksmų.
 
 
 
 
-3. Rangovas gali būti atleistas nuo atsakomybės, jeigu įrodo, kad objektas sugriuvo dėl projektuotojo ar statybos techninio prižiūrėtojo, kuriuos pasirinko užsakovas, kaltės arba dėl užsakovo kaltų veiksmų.
+3. Rangovas gali būti atleistas nuo atsakomybės, jeigu įrodo, kad objektas sugriuvo dėl projektuotojo, statinio projekto ekspertizės rangovo ar statybos techninio prižiūrėtojo, kuriuos pasirinko užsakovas, kaltės arba dėl užsakovo kaltų veiksmų.
 
 
 
 
-4. Jeigu negalima nustatyti, dėl kurių konkrečiai iš šio straipsnio 1 dalyje numatytų asmenų kaltės statinys sugriuvo, jie visi atsako solidariai.
+4. Jeigu negalima nustatyti, dėl kurių konkrečiai iš šio straipsnio 1 dalyje numatytų asmenų kaltės statinys sugriuvo, jie visi atsako solidariai. 
+
+
+Straipsnio pakeitimai:
+TAR pastaba. Statinio projekto ekspertizės rangovai atsako pagal 6.696 straipsnį tik dėl tų statinių projektų, kurių ekspertizė atliekama po įstatymo Nr. XII-2579 įsigaliojimo (2017-01-01).
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
  
-
-
 
 
 
@@ -41807,7 +41241,10 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 
 
 
-3. Rangovas, projektuotojas ir statybos techninis prižiūrėtojas atsako už defektus, nustatytus per garantinį terminą, jeigu neįrodo, kad jie atsirado dėl objekto ar jo dalių normalaus susidėvėjimo, jo netinkamo naudojimo ar užsakovo arba jo pasamdytų asmenų netinkamai atlikto remonto arba dėl užsakovo ar jo pasamdytų asmenų kitokių kaltų veiksmų.
+3. Rangovas, projektuotojas, statinio projekto ekspertizės rangovas ir statybos techninis prižiūrėtojas atsako už defektus, nustatytus per garantinį terminą, jeigu neįrodo, kad jie atsirado dėl objekto ar jo dalių normalaus susidėvėjimo, jo netinkamo naudojimo ar užsakovo arba jo pasamdytų asmenų netinkamai atlikto remonto arba dėl užsakovo ar jo pasamdytų asmenų kitokių kaltų veiksmų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
+ 
 
 
 
@@ -41828,7 +41265,7 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 6.698 straipsnis. Garantiniai terminai
 
 
-1. Rangovas, projektuotojas ar statybos techninis prižiūrėtojas atsako už objekto sugriuvimą ar defektus, jeigu objektas sugriuvo ar defektai buvo nustatyti per:
+1. Rangovas, projektuotojas, statinio projekto ekspertizės rangovas ar statybos techninis prižiūrėtojas atsako už objekto sugriuvimą ar defektus, jeigu objektas sugriuvo ar defektai buvo nustatyti per:
 
 
 1) penkerius metus;
@@ -41848,10 +41285,12 @@ Jeigu dėl nuo šalių nepriklausančių priežasčių statybos darbai buvo sust
 
 
 
-2. Šio straipsnio 1 dalyje nustatyti terminai pradedami skaičiuoti nuo darbų rezultato atidavimo naudoti dienos.
+2. Šio straipsnio 1 dalyje nustatyti terminai pradedami skaičiuoti nuo visų rangovo atliktų statybos darbų rezultatų perdavimo užsakovui dienos (kai statyba vyko rangos būdu) arba nuo statybos užbaigimo dienos (kai statyba vyko ūkio arba mišriu būdu). 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
  
-
-
 
 
 
@@ -49571,3 +49010,8 @@ Lietuvos Respublikos civilinio kodekso 6.895, 6.896 straipsnių pakeitimo ir Kod
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-5, 6.228-6, 6.228-7, 6.228-9, 6.228-10, 6.228-11 ir 6.228-12 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
+Lietuvos Respublikos civilinio kodekso 6.696, 6.697 ir 6.698 straipsnių pakeitimo įstatymas
