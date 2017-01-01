@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -345,15 +345,26 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 
 
-2. Nacionalinio dokumentų fondo dokumentai yra išimti iš civilinės apyvartos. Jeigu šio fondo dokumentais disponuoja privatūs juridiniai ar fiziniai asmenys, jie turi būti perduoti valstybės ar savivaldybės institucijai, įstaigai ar įmonei, kuriai pagal kompetenciją priklausytų, o jeigu tokia institucija, įstaiga ar įmonė jau neveikia, sprendimą dėl dokumentų saugojimo priima Lietuvos vyriausiasis archyvaras. Kai juridinis ar fizinis asmuo, disponuojantis Nacionalinio dokumentų fondo dokumentais, perduoti šiuos dokumentus atsisako, kompetentinga valstybės ar savivaldybės institucija, įstaiga ar įmonė, o jeigu tokios nėra, – Lietuvos vyriausiasis archyvaras turi imtis priemonių įstatymų nustatyta tvarka.
+2. Nacionalinio dokumentų fondo dokumentai yra išimti iš civilinės apyvartos. Jeigu šio fondo dokumentais disponuoja privatūs juridiniai ar fiziniai asmenys, apie tokių dokumentų turėjimą jie privalo pranešti Lietuvos vyriausiajam archyvarui, kuris priima sprendimą dėl dokumentų perdavimo valstybės archyvui ar savivaldybei, kurios teritorijoje buvo valstybės įstaigos ar įmonės buveinė. 
 Straipsnio dalies pakeitimai:
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
  
 
 
 
 
-3. Nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentai yra jų nuosavybė.
+3. Kai privatus juridinis ar fizinis asmuo, disponuojantys Nacionalinio dokumentų fondo dokumentais, perduoti šiuos dokumentus atsisako, Lietuvos vyriausiasis archyvaras ar jo įgaliotas valstybės archyvas turi imtis priemonių įstatymų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
+ 
+
+
+
+
+4. Nevalstybinių organizacijų ir privačių juridinių asmenų veiklos dokumentai yra jų nuosavybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
  
 
 
@@ -977,7 +988,10 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 
 
-2. Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentai, kurių saugojimo terminas, nustatytas norminiuose teisės aktuose, nėra pasibaigęs, perduodami likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – savininko teises ir pareigas įgyvendinančiai institucijai ar jos įgaliotai įstaigai arba, jeigu likviduojamos valstybės institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinanti institucija yra Lietuvos Respublikos Seimas arba Lietuvos Respublikos Vyriausybė, – savivaldybei, kurios teritorijoje buvo valstybės institucijos, įstaigos ar įmonės buveinė.
+2. Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentai, kurių saugojimo terminas, nustatytas norminiuose teisės aktuose, nėra pasibaigęs, perduodami likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – savininko teises ir pareigas įgyvendinančiai institucijai ar jos įgaliotai įstaigai arba, jeigu likviduojamos valstybės institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinanti institucija yra Lietuvos Respublikos Seimas, Lietuvos Respublikos Vyriausybė arba ministerija, – savivaldybei, kurios teritorijoje buvo valstybės institucijos, įstaigos ar įmonės buveinė.
+Straipsnio dalies pakeitimai:
+Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
+ 
 
 
 Straipsnio pakeitimai:
@@ -1465,3 +1479,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 5 ir 18 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 4 ir 16 straipsnių pakeitimo įstatymas
