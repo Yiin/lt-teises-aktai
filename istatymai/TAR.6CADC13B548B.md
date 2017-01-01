@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
  
@@ -24,6 +24,7 @@ LIETUVOS RESPUBLIKOS KARINĖS JĖGOS NAUDOJIMO STATUTO PATVIRTINIMO  ĮSTATYMAS
  
 2000 m. balandžio 13 d. Nr. VIII-1621
 Vilnius
+ 
  
 
 
@@ -82,7 +83,10 @@ Karinės jėgos naudojimo statuto (toliau – Statutas) paskirtis – nustatyti 
 2 straipsnis. Pagrindinės Statuto sąvokos
 
 
-1. Individualusis ginklas – kariui skiriamas trumpasis šaunamasis ginklas, snaiperinis šaunamasis ginklas, ne didesnio kaip 7,62 mm kalibro automatinis ar kitas šaunamasis ginklas, taip pat nešaunamasis ginklas.
+1. Individualusis ginklas – kariui skiriamas trumpasis šaunamasis ginklas, pertaisomas arba pusiau automatinis graižtvinis šaunamasis ginklas, kurio konstrukcija užtikrina didesnį šaudymo taiklumą, automatinis ar kitas šaunamasis ginklas, ne didesnio kaip 7,62 mm kalibro, taip pat nešaunamasis ginklas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
+ 
 
 
 
@@ -695,3 +699,8 @@ Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statu
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1441, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20780
 Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statuto patvirtinimo įstatymo Nr. VIII-1621 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
+Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymu Nr. VIII-1621 patvirtinto karinės jėgos naudojimo statuto 2 straipsnio pakeitimo įstatymas
