@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2F2B455B6D12"
 
 # Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymo, Kelių priežiūros ir plėtros programos finansavimo įstatymo, Garantinio fondo įstatymo, Rinkliavų įstatymo, Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo, Mokesčio už aplinkos teršimą įstatymo, Konsulinio mokesčio įstatymo, Lietuvos banko įstatymo pakeitimo ir papildymo įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2188, i. k. 1041010ISTA0IX-2139
  
@@ -64,31 +64,10 @@ Papildyti 4 straipsnio 6 dalį 10 punktu:
 
 
 
-TREČIASIS SKIRSNIS
-GARANTINIO FONDO ĮSTATYMO 1 STRAIPSNIO PAKEITIMAS
+3 skirsnis. Neteko galios nuo 2017-01-01
+Skirsnio naikinimas:
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
  
-(Žin., 2000, Nr. 82-2478)
- 
-
-
-1 straipsnis. 1 straipsnio 2 dalies pakeitimas 
-
-
-1 straipsnio 2 dalyje po žodžio „bankams“ įrašyti žodžius „išskyrus Lietuvos banką“ ir šią dalį išdėstyti taip:
-
-
-
-
-„2. Šio įstatymo nuostatos taikomos visoms įmonėms, viešosioms įstaigoms, bankams, išskyrus Lietuvos banką, ir kredito unijoms (toliau – įmonės), kurios įregistruotos Lietuvos Respublikos įstatymų nustatyta tvarka.“
- 
-
-
-
-
-
-
-
-
 
 
 
@@ -280,3 +259,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-233, 2005-06-07, Žin., 2005, Nr. 76-2741 (2005-06-18), i. k. 1051010ISTA000X-233
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2604, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23708
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
