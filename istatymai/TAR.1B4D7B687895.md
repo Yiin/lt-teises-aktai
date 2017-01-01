@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2016-12-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1459,7 +1459,10 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 
 
-2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltų baudžiamųjų ar administracinių teisės pažeidimų bylų ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų, arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba.
+2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltos baudžiamosios bylos ar pradėtos administracinio nusižengimo teisenos, ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2450, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17718
+ 
 
 
 
@@ -1467,7 +1470,10 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 3. Lietuvos banko tarnautojas ar jame dirbęs tarnautojas privalo grąžinti Lietuvos banko jam išmokėtą šio straipsnio 2 dalyje nustatytą kompensaciją šiais atvejais:
 
 
-1) kai jis, išnagrinėjus baudžiamąją ar administracinių teisės pažeidimų bylą, pripažintas kaltu padaręs nusikalstamą veiką ar administracinį teisės pažeidimą arba teismo sprendimu pripažintas kaltu dėl žalos padarymo;
+1) kai jis, išnagrinėjus baudžiamąją ar administracinio nusižengimo bylą, pripažintas kaltu dėl nusikalstamos veikos ar administracinio nusižengimo padarymo arba teismo sprendimu pripažintas kaltu dėl žalos padarymo; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2450, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17718
+ 
 
 
 
@@ -2480,3 +2486,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2450, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17718
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 45 straipsnio pakeitimo įstatymas
