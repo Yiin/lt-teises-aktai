@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2016-10-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -754,12 +754,18 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 
 
-4) įstatymų nustatyta tvarka paimti iš asmenų, padariusių administracinės teisės pažeidimus, neteisėtai įsigytą medieną, kitus miško išteklius ar sumedžiotus gyvūnus, brakonieriavimo priemones;
+4) įstatymų nustatyta tvarka paimti iš asmenų, padariusių administracinius nusižengimus, neteisėtai įsigytą medieną, kitus miško išteklius ar sumedžiotus gyvūnus, brakonieriavimo priemones; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
+ 
 
 
 
 
-5) asmenis, padariusius administracinius teisės pažeidimus, įstatymų nustatyta tvarka pristatyti į policiją arba į savivaldybės seniūnijos patalpas kaimo gyvenamojoje vietovėje asmens tapatybei nustatyti;
+5) asmenis, padariusius administracinius nusižengimus, jų sutikimu, įstatymų nustatyta tvarka pristatyti į policiją arba į savivaldybės seniūnijos patalpas kaimo gyvenamojoje vietovėje asmens tapatybei nustatyti, o jiems nesutinkant – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
+ 
 
 
 
@@ -769,7 +775,10 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 
 
-7) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse;
+7) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių nusižengimų kodekse;
+Straipsnio punkto pakeitimai:
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
+ 
 
 
 
@@ -1838,3 +1847,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 6, 8, 9 ir 22 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
+Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas
