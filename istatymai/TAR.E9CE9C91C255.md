@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-11-16 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -1327,23 +1327,12 @@ Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
 33 straipsnis. Policijos pareigos administruojant karo prievolę 
 
 
-Karo prievolę administruojančios krašto apsaugos sistemos institucijos vadovo ar jo įgalioto atstovo prašymu policija privalo:
+Karo prievolę administruojančios krašto apsaugos sistemos institucijos vadovo ar jo įgalioto atstovo prašymu policija privalo atlikti karo prievolininkų paiešką ir informuoti karo prievolininkus apie prievolę vykdyti karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymus.
 
 
-1) atlikti karo prievolininkų paiešką ir informuoti karo prievolininkus apie prievolę vykdyti karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymus;
-Straipsnio punkto pakeitimai:
-Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+Straipsnio pakeitimai:
+Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
  
-
-
-
-
-2) pristatyti karo prievolininkus, padariusius administracinių teisės pažeidimų, susijusių su šio įstatymo įgyvendinimu, ir vengiančius atvykti surašyti administracinių teisės pažeidimų protokolą, į karo prievolę administruojančią krašto apsaugos sistemos instituciją.
- 
-
-
-
-
 
 
 
@@ -1398,7 +1387,9 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 
 
 
-8) įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas, susijusias su šio įstatymo pažeidimais, ir skirti administracines nuobaudas;
+8) neteko galios nuo 2017-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
  
@@ -1406,7 +1397,9 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 
 
 
-9) įstatymų nustatyta tvarka inicijuoti ikiteisminį tyrimą dėl nusikalstamų veikų, susijusių su šio įstatymo pažeidimais;
+9) neteko galios nuo 2017-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
  
@@ -1980,3 +1973,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 2, 4, 6, 16, 17, 20, 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 6, 17, 32, 37 ir 41-1 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 33 ir 34 straipsnių pakeitimo įstatymas
