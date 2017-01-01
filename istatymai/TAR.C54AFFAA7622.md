@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -468,7 +468,7 @@ Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
 
 
 
-3. Perkančioji organizacija apie pradedamą bet kurį pirkimą, taip pat nustatytą laimėtoją ir ketinamą sudaryti bei sudarytą pirkimo sutartį nedelsdama, tačiau ne anksčiau negu skelbimas bus išsiųstas Europos Sąjungos oficialiųjų leidinių biurui ir (ar) paskelbtas Centrinėje viešųjų pirkimų informacinėje sistemoje, informuoja savo tinklalapyje bei leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ (mažos vertės pirkimų atveju – tik savo tinklalapyje) nurodydama:
+3. Perkančioji organizacija apie pradedamą bet kurį pirkimą, taip pat nustatytą laimėtoją ir ketinamą sudaryti bei sudarytą pirkimo sutartį nedelsdama, tačiau ne anksčiau negu skelbimas bus išsiųstas Europos Sąjungos oficialiųjų leidinių biurui ir (ar) paskelbtas Centrinėje viešųjų pirkimų informacinėje sistemoje, informuoja savo interneto svetainėje nurodydama:
 
 
 1) apie pradedamą pirkimą – pirkimo objektą, pirkimo būdą ir jo pasirinkimo priežastis;
@@ -489,6 +489,9 @@ Nr. XII-569, 2013-10-22, Žin., 2013, Nr. 112-5575 (2013-10-26)
 4) taip pat kitą Viešųjų pirkimų tarnybos nustatytą informaciją.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2624, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24197
+ 
 
 
 
@@ -6774,3 +6777,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8-2, 10, 21-1, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1852, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10598
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 33 ir 38 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2624, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24197
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 7 straipsnio pakeitimo įstatymas
