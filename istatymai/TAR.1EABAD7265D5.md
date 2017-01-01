@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -2701,7 +2701,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Priežiūros institucija turi teisę skirti Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatytas nuobaudas valdymo įmonės ar investicinės bendrovės vadovams ar darbuotojams.
+2. Neteko galios nuo 2017-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2451, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17719
+ 
 
 
 
@@ -2924,3 +2927,8 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2216, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21011
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 39 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2451, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17719
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 53 straipsnio pakeitimo įstatymas
