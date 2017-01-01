@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2016-12-24 iki 2016-12-31
+Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -1283,7 +1283,10 @@ Nr. XII-1891, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10508
 5. Valstybinė duomenų apsaugos inspekcija:
 
 
-1) prižiūri, kaip vykdomos šio Įstatymo devintojo skirsnio, išskyrus šio Įstatymo 61 straipsnio 5 dalį, 64 straipsnio 7 dalį ir 68 straipsnio 2 dalį, nuostatos, Asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka nagrinėja skundus dėl duomenų tvarkymo ir privatumo apsaugos ir surašo administracinių teisės pažeidimų protokolus Administracinių teisės pažeidimų kodekso nustatyta tvarka, atlieka šio Įstatymo 77 straipsnio 2 dalyje ir kitas įstatymų nustatytas funkcijas; 
+1) prižiūri, kaip vykdomos šio Įstatymo devintojo skirsnio, išskyrus šio Įstatymo 61 straipsnio 5 dalį, 64 straipsnio 7 dalį ir 68 straipsnio 2 dalį, nuostatos, Asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka nagrinėja skundus dėl duomenų tvarkymo ir privatumo apsaugos, atlieka šio Įstatymo 77 straipsnio 2 dalyje ir kitas įstatymų nustatytas funkcijas;
+Straipsnio punkto pakeitimai:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+ 
 
 
 
@@ -2307,7 +2310,7 @@ Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
 
 
-14. Ryšių reguliavimo tarnyba priima sprendimą dėl ginčo dėl šio Įstatymo reglamentuotų visuomeninių santykių ne vėliau kaip per keturis mėnesius nuo prašymo priėmimo dienos, išskyrus ginčus dėl šio Įstatymo 381 straipsnyje, 39 straipsnio 8 dalyje reglamentuotų visuomeninių santykių ir dėl statinio ir (ar) jo inžinerinių sistemų bendro naudojimo, dėl kurių sprendimus priima ne vėliau kaip per du mėnesius nuo prašymo priėmimo dienos. Šioje dalyje nurodyti terminai Ryšių reguliavimo tarnybos motyvuotu sprendimu gali būti pratęsti, kai dėl išimtinių aplinkybių (pavyzdžiui, daug įrodymų, sudėtingos ginčo aplinkybės) ginčui nagrinėti reikia ilgesnio laiko. 
+14. Ryšių reguliavimo tarnyba priima sprendimą dėl ginčo dėl šio Įstatymo reglamentuotų visuomeninių santykių ne vėliau kaip per keturis mėnesius nuo prašymo priėmimo dienos, išskyrus ginčus dėl šio Įstatymo 381 straipsnyje reglamentuotų visuomeninių santykių ir 39 straipsnio 8 dalyje reglamentuotų visuomeninių santykių, kiek jie yra susiję su informacijos iš infrastruktūros valdytojų gavimu ir infrastruktūros apžiūra jos įrengimo vietoje, ir dėl statinio ir (arba) jo inžinerinių sistemų bendro naudojimo, dėl kurių sprendimus priima ne vėliau kaip per du mėnesius nuo prašymo priėmimo dienos. Šioje dalyje nurodyti terminai Ryšių reguliavimo tarnybos motyvuotu sprendimu gali būti pratęsti, kai dėl išimtinių aplinkybių (pavyzdžiui, daug įrodymų, sudėtingos ginčo aplinkybės) ginčui nagrinėti reikia ilgesnio laiko. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
  
@@ -3141,12 +3144,15 @@ Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
 
 
-8. Infrastruktūros naudotojai turi teisę proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis gauti iš infrastruktūros valdytojų informaciją apie jų valdomą esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą, taip pat apžiūrėti ją vietoje elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis. Infrastruktūros naudotojai informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą taip pat turi teisę gauti šio straipsnio 9 dalies 2 punkte nustatyta tvarka.
+8. Ryšių reguliavimo tarnyba sudaro galimybę infrastruktūros naudotojams proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis elektroniniu būdu gauti valstybės ar savivaldybių institucijų, valstybės ar savivaldybių įstaigų, valstybės ar savivaldybių įmonių ir viešųjų įstaigų, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, (toliau – valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos) elektroniniu būdu valdomą ir (arba) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą. Tuo atveju, kai infrastruktūros naudotojams reikalinga informacija valstybės ar savivaldybių institucijų, įstaigų, įmonių ir viešųjų įstaigų yra valdoma ir (arba) tvarkoma ne elektroniniu būdu, infrastruktūros naudotojai šią informaciją turi teisę proporcingomis, nediskriminacinėmis ir skaidriomis sąlygomis gauti šio straipsnio 9 dalies 2 punkte nustatyta tvarka, taip pat elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis iš infrastruktūros valdytojų. Infrastruktūros naudotojai turi teisę apžiūrėti esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą vietoje elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
+ 
 
 
 
 
-9. Valstybės ar savivaldybių institucijos, valstybės ar savivaldybių įstaigos, valstybės ar savivaldybių įmonės ir viešosios įstaigos, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė (toliau – valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos), valdančios ir (arba) tvarkančios informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą, privalo:
+9. Valstybės ar savivaldybių institucijos, įstaigos, įmonės ir viešosios įstaigos, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, valdančios ir (arba) tvarkančios informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą, privalo:
 
 
 1) Lietuvos Respublikos Vyriausybės nustatyta tvarka ir sąlygomis suteikti Ryšių reguliavimo tarnybai prieigą prie jų elektroniniu būdu valdomos ir (arba) tvarkomos informacijos apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir panašiai); prieiga prie atnaujintos informacijos Ryšių reguliavimo tarnybai turi būti suteikta ne vėliau kaip per du mėnesius nuo naujos šiame punkte nurodytos informacijos gavimo valstybės ar savivaldybių institucijoje, įstaigoje, įmonėje ar viešojoje įstaigoje dienos; šis terminas gali būti pratęstas ne ilgesniam kaip vieno mėnesio terminui, jeigu tai yra būtina pateikiamos informacijos patikimumui užtikrinti;
@@ -3154,9 +3160,12 @@ Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
 
 
-2) infrastruktūros naudotojų prašymu pateikti jiems informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir panašiai), nepaisant informacijos valdymo ir (arba) tvarkymo būdo.
+2) infrastruktūros naudotojų prašymu pateikti jiems ne elektroniniu būdu valdomą ir (ar) tvarkomą informaciją apie esamą elektroninių ryšių infrastruktūrą ir (arba) tinkamos paskirties fizinę infrastruktūrą (infrastruktūros rūšį, įrengimo vietą, maršrutą, užpildymą ir panašiai). 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
+ 
 
 
 
@@ -4503,12 +4512,18 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-8. Šio skyriaus, išskyrus šią dalį ir šio Įstatymo 71 straipsnį, nuostatos taikomos ūkio subjektams, kiek tai susiję su vertimusi elektroninių ryšių veikla. Kai teisės naudoti elektroninių ryšių išteklius sustabdymui ir (ar) panaikinimui dėl teisės aktų pažeidimo netaikomos šio skyriaus, išskyrus šio Įstatymo 71 straipsnį ir šią dalį, nuostatos, teisė naudoti elektroninių ryšių išteklius sustabdoma ir (ar) panaikinama Administracinių teisės pažeidimų kodekso ir elektroninių išteklių naudojimo ir skyrimo taisyklių nustatytais atvejais, tvarka ir sąlygomis.
+8. Šio skirsnio, išskyrus šią dalį ir šio Įstatymo 71 straipsnį, nuostatos taikomos ūkio subjektams, kiek tai susiję su vertimusi elektroninių ryšių veikla. Fiziniai asmenys, kurie nesiverčia elektroninių ryšių veikla, ir juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovai ar kiti atsakingi asmenys už šio Įstatymo ir (ar) jo įgyvendinamųjų teisės aktų nesilaikymą atsako Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka ir sąlygomis. Kai teisės naudoti elektroninių ryšių išteklius sustabdymui ir (ar) panaikinimui dėl teisės aktų pažeidimo netaikomos šio skirsnio, išskyrus šio Įstatymo 71 straipsnį ir šią dalį, nuostatos, teisė naudoti elektroninių ryšių išteklius atimama Lietuvos Respublikos administracinių nusižengimų kodekso nustatytais atvejais, tvarka ir sąlygomis arba sustabdoma ir (ar) panaikinama elektroninių ryšių išteklių naudojimo ir skyrimo taisyklių nustatytais atvejais, tvarka ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+ 
 
 
 
 
-9. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei duomenų apsaugos inspekcijai, kiek tai susiję su priežiūra, kaip ūkio subjektai, kurie verčiasi elektroninių ryšių veikla, laikosi šio Įstatymo devintojo skirsnio nuostatų, tačiau Valstybinė duomenų apsaugos inspekcija netaiko ekonominių sankcijų, o atitinkamais atvejais Administracinių teisės pažeidimų kodekso nustatyta tvarka ir sąlygomis surašo administracinių teisės pažeidimų protokolus. 
+9. Šio straipsnio nuostatos, išskyrus ekonominių sankcijų skyrimą, mutatis mutandis taikomos Valstybinei duomenų apsaugos inspekcijai, kiek tai susiję su priežiūra, kaip ūkio subjektai, kurie verčiasi elektroninių ryšių veikla, laikosi šio Įstatymo devintojo skirsnio nuostatų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+ 
 
 
 Straipsnio pakeitimai:
