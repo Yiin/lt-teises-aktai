@@ -20,16 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-01-01
+Suvestinė redakcija nuo 2017-01-02 iki 2017-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
 Nauja įstatymo redakcija nuo 2011-07-01:
 Nr. XI-1281, 2011-03-17, Žin., 2011, Nr. 38-1804 (2011-03-31)
  
-LIETUVOS RESPUBLIKOS
-ŠVIETIMO 
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŠVIETIMO  ĮSTATYMAS
  
 1991 m. birželio 25 d. Nr. I-1489
 Vilnius
@@ -583,7 +581,6 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 6. Pradinis išsilavinimas įgyjamas baigus pradinio ugdymo programą.
- 
 
 
 
@@ -609,7 +606,6 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 4. Pagrindinis išsilavinimas įgyjamas baigus pagrindinio ugdymo programą ir patikrinus mokymosi pasiekimus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo mokymosi pasiekimų patikrinimo.
- 
 
 
 
@@ -640,7 +636,6 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius brandos egzaminus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų.
- 
 
 
 
@@ -676,7 +671,6 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 6. Profesinį mokymą nustato Lietuvos Respublikos profesinio mokymo įstatymas (toliau – Profesinio mokymo įstatymas).
- 
 
 
 
@@ -748,7 +742,6 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 7. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos, kiti švietimo teikėjai, atskirais atvejais – mokyklos (klasės), skirtos mokiniams, turintiems specialiųjų ugdymosi poreikių, ugdyti.
- 
 
 
 
@@ -1754,8 +1747,7 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 
 
-6. Vidurinės mokyklos tipui priskiriamos mokyklos, vykdančios vidurinio ugdymo programą ar vidurinio ir pagrindinio ugdymo programas arba vidurinio, pagrindinio ir pradinio ugdymo programas.
-6 dalis pripažįstama netekusia galios 2017-09-01. 
+6. netenka galios nuo 2017-09-01. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
  
@@ -2136,7 +2128,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 
 
-11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo įstatymo ir kitų įstatymų nustatytomis teisėmis.
+11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo įstatymo ir kitų įstatymų nustatytomis teisėmis;
 
 
 
@@ -2156,7 +2148,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 
 
-3) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų.
+3) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
  
@@ -2263,8 +2255,7 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 
-8) dalyvauti parenkant vaikui, turinčiam specialiųjų ugdymosi poreikių, ugdymo programą ir mokyklą.
- 
+8) dalyvauti parenkant vaikui, turinčiam specialiųjų ugdymosi poreikių, ugdymo programą ir mokyklą;
 
 
 
@@ -2849,8 +2840,7 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 
 
-16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus.
- 
+16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus;
 
 
 
@@ -3408,6 +3398,10 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
 
 3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio skyriaus vedėjo, mokytojo, pagalbos mokiniui specialisto ir kito ugdymo procese dalyvaujančio darbuotojo darbo apmokėjimo tvarką nustato Vyriausybė.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo (2011 m. kovo 17 d. redakcija; Žin., 2011, Nr. 38-1804) 68 straipsnio 3 dalis tiek, kiek ja Vyriausybei pavesta nustatyti šioje dalyje nurodytų pedagogų darbo apmokėjimo tvarką, įstatymų leidėjui nenustačius esminių jų darbo apmokėjimo sąlygų, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą už darbą“, 128 straipsnio 1 dalies nuostatai „sprendimus dėl <...> valstybės <...> esminių turtinių įsipareigojimų priima Seimas Vyriausybės siūlymu“, konstituciniams teisinės valstybės, valdžių padalijimo principams.
+Straipsnio dalies pakeitimai:
+Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
+ 
 
 
 
@@ -3806,3 +3800,18 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2 ir 18 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2537, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20659
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 35 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 12, 14, 20, 21, 23 ir 58 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 1, 2, 19, 23, 43, 46, 47, 49, 56, 58, 59 straipsnių pakeitimo ir Įstatymo papildymo 23-1, 23-2 straipsniais įstatymas
+ 
+10.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
+Dėl Lietuvos Respublikos švietimo įstatymo 68  straipsnio 3 dalies ir Lietuvos Respublikos Vyriausybės 1993 m. liepos 8 d. nutarimo Nr. 511 „Dėl biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarkos tobulinimo“ atitikties Lietuvos Respublikos Konstitucijai
