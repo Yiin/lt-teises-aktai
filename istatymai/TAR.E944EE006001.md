@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-01-24
+Suvestinė redakcija nuo 2017-01-25 iki 2019-08-31
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
  
@@ -1107,7 +1107,9 @@ Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
 
 
 
-6. Jeigu asmens ar šeimos, nuomojančio (nuomojančios) socialinį būstą, deklaruotas turtas (įskaitant gautas pajamas) už kalendorinius metus daugiau kaip 20 procentų viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius, asmens ar šeimos prašymu savivaldybės taryba, įvertinusi socialinio būsto poreikį savivaldybėje, gali priimti sprendimą šį būstą nuomoti kaip savivaldybės būstą rinkos kainomis vadovaudamasi savivaldybės būsto, socialinio būsto nuomos mokesčių ir būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensacijos dydžio apskaičiavimo metodika, jeigu asmuo ar šeima neturi nuosavybės teise kito tinkamo būsto. Savivaldybės būsto nuomos sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Civiliniu kodeksu.
+6. Jeigu asmens ar šeimos, nuomojančio (nuomojančios) socialinį būstą, deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 2 dalyje nustatytus metinius pajamų ir turto dydžius, asmens ar šeimos prašymu savivaldybės taryba, įvertinusi socialinio būsto poreikį savivaldybėje, gali priimti sprendimą šį būstą nuomoti kaip savivaldybės būstą rinkos kainomis vadovaudamasi savivaldybės būsto, socialinio būsto nuomos mokesčių ir būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensacijos dydžio apskaičiavimo metodika, jeigu asmuo ar šeima neturi nuosavybės teise kito tinkamo būsto. Savivaldybės būsto nuomos sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Civiliniu kodeksu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-199, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01326
  
 
 
@@ -1453,3 +1455,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-152, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29790
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 11, 16, 18, 19, 20, 22 ir 26 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-199, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01326
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 20 straipsnio pakeitimo įstatymas
