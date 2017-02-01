@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-01-31
+Suvestinė redakcija nuo 2017-02-01 iki 2017-05-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -50,7 +50,10 @@ Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Valstybės rinkliava - privaloma įmoka už valstybės ir vietos savivaldos institucijų, įstaigų, tarnybų ar organizacijų (toliau - institucijos), išskyrus teismus, teikiamas paslaugas.
+1. Valstybės rinkliava – privaloma įmoka  už valstybės ir vietos savivaldos institucijų, įstaigų, tarnybų ar organizacijų (toliau – institucijos), išskyrus teismus, teikiamas paslaugas, išskyrus specialiuose įstatymuose nustatytas paslaugas, už kurias šiuose įstatymuose nustatyta tvarka numatytas kitoks atlyginimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-200, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01327
+ 
 
 
 
@@ -751,6 +754,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
+ 
 
 
 
@@ -777,6 +781,7 @@ Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
 
 
 
+ 
  
 Pakeitimai:
  
@@ -913,3 +918,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-200, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01327
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2  straipsnio pakeitimo įstatymas
