@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-20
+Suvestinė redakcija nuo 2017-02-21 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -55,13 +55,58 @@ Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
 
 
 
-2 straipsnis. Vaiko sąvoka
+2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-Vaikas yra žmogus, neturintis 18 metų, išskyrus atvejus, kai įstatymai numato kitaip.
+1. Fizinė bausmė – bet kokia bausmė, kai fizinė jėga naudojama fiziniam skausmui, net ir nedideliam, sukelti ar vaikui fiziškai kankinti.
+
+
+
+
+2. Smurtas prieš vaiką – veikimu ar neveikimu vaikui daromas tiesioginis ar netiesioginis tyčinis fizinis, psichologinis, seksualinis poveikis, garbės ir orumo nepaisymas ar nepriežiūra, dėl kurių vaikas patiria žalą ar pavojų gyvybei, sveikatai, raidai. 
+
+
+
+
+3. Vaikas – žmogus iki 18 metų, išskyrus atvejus, kai Lietuvos Respublikos įstatymuose nustatyta kitaip.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
  
 
 
+
+
+21 straipsnis. Smurto prieš vaiką formos
+
+
+Smurto prieš vaiką formos yra šios:
+
+
+1) fizinis smurtas – tiesioginiai ar netiesioginiai tyčiniai fiziniai veiksmai prieš vaiką, taip pat fizinės bausmės, sukeliantys vaikui skausmą, darantys žalą arba keliantys pavojų jo gyvybei, sveikatai, raidai ar žalą garbei ir orumui; 
+
+
+
+
+2) psichologinis smurtas – nuolatinis vaiko teisės į individualumą pažeidinėjimas, vaiko žeminimas, patyčios, gąsdinimas, būtinos vaiko raidai veiklos trikdymas, asocialaus elgesio skatinimas ar kitokia nefizinio kontakto elgsena, darantys žalą arba keliantys pavojų vaiko gyvybei, sveikatai, raidai ar žalą garbei ir orumui;
+
+
+
+
+3) seksualinis smurtas – seksualiniai veiksmai su vaiku, kuris pagal Lietuvos Respublikos teisės aktų nuostatas nėra sulaukęs amžiaus, nuo kurio seksualiniai veiksmai su juo neužtraukia baudžiamosios atsakomybės, arba seksualiniai veiksmai su vaiku, kai naudojama prievarta, jėga ar grasinama arba piktnaudžiaujama pasitikėjimu, valdžia ar įtaka vaikui, taip pat ir šeimoje, arba piktnaudžiaujama itin pažeidžiama vaiko padėtimi, ypač dėl jo psichinės ar fizinės negalios ar priklausomumo; taip pat vaikų išnaudojimas prostitucijos tikslams, vaikų pornografija, verbavimas, vertimas ar įtraukimas dalyvauti pornografinio pobūdžio renginyje, pornografijos rodymas arba kitos vaikų seksualinio išnaudojimo formos, vaikų tvirkinimas;
+
+
+
+
+4) nepriežiūra – nuolatinis vaikui būtinų fizinių, emocinių ir socialinių poreikių netenkinimas ar aplaidus tenkinimas, darantys žalą ar keliantys pavojų vaiko gyvybei, sveikatai, raidai.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
+ 
 
 
 
@@ -180,7 +225,14 @@ Vaiko teisės saugomos ir garantuojamos taip:
 
 
 
-8) skatinama ir remiama atitinkama visuomenės, visuomeninių organizacijų, tradicinių ir valstybės pripažintų religinių bendruomenių veikla vaiko teisių bei laisvių apsaugos srityje.
+8) skatinama ir remiama atitinkama visuomenės, visuomeninių organizacijų, tradicinių ir valstybės pripažintų religinių bendruomenių veikla vaiko teisių bei laisvių apsaugos srityje;
+
+
+
+
+9) valstybė imasi visų reikiamų teisinių, administracinių, socialinių, švietimo ir kitų priemonių, skirtų vaiko apsaugai užtikrinti nuo visų formų smurto (įskaitant fizines bausmes), kurį jis gali patirti iš tėvų, kitų teisėtų vaiko atstovų ar kurio nors kito vaiką prižiūrinčio asmens.
+Papildyta straipsnio punktu:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
  
 
 
@@ -278,7 +330,9 @@ Vaiko teisė būti sveikam garantuojama:
 
 
 
-2. Draudžiama vaiką kankinti, žaloti, žeminti jo garbę ir orumą, žiauriai su juo elgtis.
+2. Draudžiamas visų formų smurtas prieš vaiką, įskaitant fizines bausmes. Tėvai, kiti teisėti vaiko atstovai ir valstybė turi užtikrinti vaikų apsaugą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
  
 
 
@@ -1079,7 +1133,10 @@ Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010IST
  
 
 
-1. Vaiką, vengiantį atlikti savo pareigas, už drausmės pažeidimus tėvai, kiti teisėti vaiko atstovai gali atitinkamai drausminti savo nuožiūra, išskyrus fizinį ar psichinį kankinimą, kitokį žiaurų elgesį, vaiko garbės ir orumo žeminimą.
+1. Vaiką, vengiantį atlikti savo pareigas, už drausmės pažeidimus tėvai, kiti teisėti vaiko atstovai gali drausminti savo nuožiūra, išskyrus fizines bausmes ir (ar) bet kokį kitą smurtą prieš vaiką.
+Straipsnio dalies pakeitimai:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
+ 
 
 
 
@@ -1305,22 +1362,22 @@ Asmenys, pažeidę vaiko teises, numatytas Lietuvos Respublikos Konstitucijoje, 
 56 straipsnis. Tėvų ir kitų teisėtų vaiko atstovų atsakomybė
 
 
-1. Tėvams ir kitiems teisėtiems vaiko atstovams, kurie pažeidžia vaiko teises, vengia arba nevykdo pareigos auklėti, mokyti, prižiūrėti, išlaikyti vaiką, žiauriai elgiasi su vaiku ar kitaip piktnaudžiauja savo teisėmis bei pareigomis, taikoma įstatymų nustatyta civilinė, administracinė arba baudžiamoji atsakomybė.
+1. Tėvams ir kitiems teisėtiems vaiko atstovams, kurie pažeidžia vaiko teises, piktnaudžiauja savo teisėmis (pareigomis), vengia arba nevykdo pareigos auklėti, mokyti, prižiūrėti, išlaikyti vaiką, drausmina vaiką fizinėmis bausmėmis ar kitaip smurtauja prieš jį, taikoma įstatymų nustatyta civilinė, administracinė arba baudžiamoji atsakomybė.
 
 
 
 
-2. Jeigu tėvas (motina) arba kitas teisėtas vaiko atstovas pažeidžia vaiko teises, žiauriai elgiasi su juo arba kitaip piktnaudžiauja savo teisėmis (pareigomis), pats vaikas ir kiti asmenys turi teisę kreiptis pagalbos į vaiko teisių apsaugos, teisėsaugos ar kitą instituciją, kuri privalo imtis įstatymų nustatytų priemonių.
+2. Kai tėvas (motina) ar kitas teisėtas vaiko atstovas arba kitas vaiką prižiūrintis asmuo pažeidžia vaiko teises, piktnaudžiauja savo teisėmis (pareigomis), drausmina vaiką fizinėmis bausmėmis ar kitaip smurtauja prieš jį, vaikas ir kiti asmenys turi teisę kreiptis pagalbos į vaiko teisių apsaugos, teisėsaugos ar kitą instituciją, kuri privalo imtis įstatymų nustatytų priemonių.
 
 
 
 
-3. Kai tėvai (tėvas, motina) arba kitas teisėtas vaiko atstovas smurtaudamas arba kitaip sukeldamas pavojų vaikui piktnaudžiauja tėvų valdžia ir dėl to kyla reali grėsmė vaiko sveikatai ar gyvybei, valstybinė vaiko teisių apsaugos institucija arba valstybinė vaiko teisių apsaugos institucija kartu su policija nedelsdama paima vaiką iš tėvų arba kitų teisėtų vaiko atstovų ir perduoda jį globoti (rūpintis) Civilinio kodekso nustatyta tvarka. Šiuo atveju policijos pareigūnas turi teises, numatytas Lietuvos Respublikos policijos veiklos įstatymo 18 straipsnio 1 dalies 3 punkte. Paėmusi vaiką, valstybinė vaiko teisių apsaugos institucija apie tai nedelsdama praneša vaiko tėvams ar kitiems teisėtiems jo atstovams. 
-Papildyta straipsnio dalimi:
-Nr. IX-495, 2001-08-03, Žin., 2001, Nr. 71-2523 (2001-08-17), i. k. 1011010ISTA00IX-495
+3. Kai tėvai (tėvas, motina) arba kitas teisėtas vaiko atstovas smurtaudamas arba kitaip sukeldamas pavojų vaikui piktnaudžiauja tėvų valdžia ir dėl to kyla reali grėsmė vaiko sveikatai ar gyvybei, valstybinė vaiko teisių apsaugos institucija arba valstybinė vaiko teisių apsaugos institucija kartu su policija nedelsdama paima vaiką iš tėvų arba kitų teisėtų vaiko atstovų ir perduoda jį globoti (rūpintis) Civilinio kodekso nustatyta tvarka. Šiuo atveju policijos pareigūnas turi teises, numatytas Lietuvos Respublikos policijos veiklos įstatymo 18 straipsnio 1 dalies 3 punkte. Paėmusi vaiką, valstybinė vaiko teisių apsaugos institucija apie tai nedelsdama praneša vaiko tėvams ar kitiems teisėtiems jo atstovams.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
  
-
-
 
 
 
@@ -1333,7 +1390,10 @@ Nr. IX-495, 2001-08-03, Žin., 2001, Nr. 71-2523 (2001-08-17), i. k. 1011010ISTA
 
 
 
-2. Mokymo, auklėjimo, gydymo ir kitų įstaigų vadovai, auklėtojai ar jiems prilygstantys asmenys, šių įstaigų administracija atsako už jų prižiūrimų vaikų auklėjimą. Jeigu šie asmenys nevykdo savo pareigų arba vykdo jas netinkamai, fiziškai, psichiškai žaloja auklėtinius arba kitaip pažeidžia vaiko teises, jie atsako įstatymų nustatyta tvarka.
+2. Mokymo, auklėjimo, gydymo ir kitų įstaigų vadovai, auklėtojai ar jiems prilygstantys asmenys, šių įstaigų administracija atsako už jų prižiūrimų vaikų auklėjimą. Kai šie asmenys pažeidžia vaiko teises, nevykdo savo pareigų arba vykdo jas netinkamai, taiko fizines bausmes ar kitaip smurtauja prieš vaikus, jie atsako įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
+ 
 
 
 
@@ -1635,3 +1695,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2689, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26475
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 50 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 6, 10, 49, 56, 57 straipsnių pakeitimo ir Įstatymo papildymo 2-1 straipsniu įstatymas
