@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2017-06-27
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -90,7 +90,9 @@ BENDROSIOS NUOSTATOS
 
 17. Tarpinių finansinių ataskaitų rinkinys (toliau – tarpinės finansinės ataskaitos) – finansinių ataskaitų rinkinys, sudaromas apibendrinus laikotarpio, trumpesnio negu finansiniai metai, duomenis.
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos audito įstatyme (toliau – Audito įstatymas), Lietuvos Respublikos buhalterinės apskaitos įstatyme (toliau – Buhalterinės apskaitos įstatymas), Lietuvos Respublikos vertybinių popierių įstatyme ir kituose teisės aktuose.
+18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme (toliau – Finansinių ataskaitų audito įstatymas), Lietuvos Respublikos buhalterinės apskaitos įstatyme (toliau – Buhalterinės apskaitos įstatymas), Lietuvos Respublikos vertybinių popierių įstatyme ir kituose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
  
 
 ANTRASIS SKIRSNIS
@@ -133,7 +135,10 @@ ANTRASIS SKIRSNIS
 
 8. Kai labai maža įmonė nepasirenka taikyti išimčių, leidžiamų labai mažoms įmonėms, nustatytų šio įstatymo 20, 22 ir 23 straipsniuose, jai taikomi tokie patys reikalavimai kaip mažoms įmonėms. Labai mažoms įmonėms leidžiamos išimtys netaikomos finansų kontroliuojančiosioms įmonėms, taip pat akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka.
 
-9. Viešojo intereso įmonėms, valstybės ir savivaldybės įmonėms visais atvejais taikomi tokie patys reikalavimai kaip didelėms įmonėms.
+9. Viešojo intereso įmonėms visais atvejais taikomi tokie patys reikalavimai kaip ir didelėms įmonėms. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
+ 
 
 10. Šio straipsnio 7 dalies nuostata netaikoma rengiant šio įstatymo 23 straipsnio 3 dalyje nurodytą bendrovių valdymo ataskaitą, šio įstatymo 23 straipsnio 4 dalyje nurodytą socialinės atsakomybės ataskaitą, šio įstatymo 29 straipsnyje nurodytą mokėjimų valdžios institucijoms ataskaitą ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo 15 straipsnyje nurodytą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą. 
 TAR pastaba. 10 dalis taikoma rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
@@ -440,7 +445,10 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 2. Nepaisant šio įstatymo 4 straipsnio 9 dalies, mažoms ir vidutinėms įmonėms netaikomas šio straipsnio 1 dalies 11 punktas.
 
-3. Auditorius ar audito įmonė auditoriaus išvadoje pateikia nuomonę dėl pagal šio straipsnio 1 dalies 3–8 punktus parengtos informacijos ir nurodo, ar nustatyta reikšmingų iškraipymų, kaip nustatyta Audito įstatyme.
+3. Auditorius ar audito įmonė auditoriaus išvadoje pateikia nuomonę dėl pagal šio straipsnio 1 dalies 3–8 punktus parengtos informacijos ir nurodo, ar nustatyta reikšmingų iškraipymų, kaip nustatyta Finansinių ataskaitų audito įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+ 
 
 4. Auditorius ar audito įmonė patikrina, ar buvo pateikta šio straipsnio 1 dalies 1, 2, 9, 10 ir 11 punktuose nurodyta informacija, ir tai nurodo auditoriaus išvadoje. 
 TAR pastaba. 231 straipsnis taikomas rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
@@ -492,7 +500,10 @@ FINANSINIŲ ATASKAITŲ AUDITAS. FINANSINIŲ ATASKAITŲ IR METINIO PRANEŠIMO PAS
 
 24 straipsnis. Finansinių ataskaitų auditas
 
-1. Valstybės ir savivaldybės įmonėse, viešojo intereso įmonėse, akcinėse bendrovėse, šio straipsnio 2 dalyje nurodytose uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, taip pat uždarosiose akcinėse bendrovėse, kuriose akcininkė yra valstybė ir (arba) savivaldybė, uždarosiose akcinėse bendrovėse, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, turi būti atliktas metinių finansinių ataskaitų auditas.
+1. Viešojo intereso įmonėse, akcinėse bendrovėse, šio straipsnio 2 dalyje nurodytose uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, taip pat uždarosiose akcinėse bendrovėse, kuriose akcininkė yra valstybė ir (arba) savivaldybė, uždarosiose akcinėse bendrovėse, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, turi būti atliktas metinių finansinių ataskaitų auditas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
+ 
 
 2. Metinių finansinių ataskaitų auditas turi būti atliktas uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, jeigu jų ne mažiau kaip du rodikliai paskutinę finansinių metų dieną viršija šiuos dydžius:
 
@@ -502,7 +513,9 @@ FINANSINIŲ ATASKAITŲ AUDITAS. FINANSINIŲ ATASKAITŲ IR METINIO PRANEŠIMO PAS
 
 3) vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus – 50 darbuotojų.
 
-3. Metinių finansinių ataskaitų auditas, tarpinių finansinių ataskaitų auditas, kai to reikia arba kai tai nustato kiti įstatymai, atliekamas pagal Audito įstatymą ir kitus teisės aktus.
+3. Metinių finansinių ataskaitų auditas, tarpinių finansinių ataskaitų auditas, kai to reikia arba kai tai nustato kiti įstatymai, atliekamas pagal Finansinių ataskaitų audito įstatymą ir kitus teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
  
 
 25 straipsnis. Finansinių ataskaitų, metinio pranešimo pasirašymas ir tvirtinimas
@@ -656,4 +669,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4, 22, 23, 25, 27, 28 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 23-1, 23-2 straipsniais įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3, 4 ir 24 straipsnių pakeitimo įstatymas
 
