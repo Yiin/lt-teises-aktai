@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -1619,11 +1619,12 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 23 straipsnis. Alui taikomi akcizų tarifai 
 
 
-1. Alui taikomas 3,36 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą. 
+1. Alui taikomas 7,11 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
  
 
 
@@ -1642,15 +1643,15 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 24 straipsnis. Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai 
 
 
-Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie akcizų tarifai:
+Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai:
 
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 30,96 euro už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 65,46 euro už produkto hektolitrą;
 
 
 
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 77,89 euro už produkto hektolitrą. 
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 164,67 euro už produkto hektolitrą. 
 
 
 
@@ -1662,6 +1663,7 @@ Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
  
 
 
@@ -1673,12 +1675,12 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 96,65 euro už produkto hektolitrą; 
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 185,82 euro už produkto hektolitrą; 
 
 
 
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 136,37 euro už produkto hektolitrą. 
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 264,52 euro už produkto hektolitrą. 
 
 
 
@@ -1690,6 +1692,7 @@ Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
  
 
 
@@ -1698,11 +1701,12 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
 
-1. Etilo alkoholiui taikomas 1 353,69 euro už gryno etilo alkoholio hektolitrą akcizų tarifas. 
+1. Etilo alkoholiui taikomas 1 665,04 euro už gryno etilo alkoholio hektolitrą akcizų tarifas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
  
 
 
@@ -1829,10 +1833,11 @@ APDOROTAS TABAKAS
 2. Cigaretėms taikomas toks akcizų tarifas:
 
 
-1) specifinis elementas – 50,68 euro; 
+1) specifinis elementas – 56 eurai; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
  
 
 
@@ -1845,10 +1850,11 @@ Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 
 
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 85 eurai už 1 000 cigarečių.
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 90 eurų už 1 000 cigarečių. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
  
 
 
@@ -1877,11 +1883,12 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai 
 
 
-1. Cigarams ir cigarilėms taikomas 29,54 euro už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 33 eurų už kilogramą produkto akcizų tarifas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
+Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
  
 
 
@@ -3213,6 +3220,16 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 3, 9, 12, 14, 15, 20, 21, 33 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-172, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29862
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 3, 9, 12, 14, 15, 20, 21, 33 ir 43 straipsnių pakeitimo įstatymo Nr. XII-2696 7 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir 31 straipsnių pakeitimo įstatymo Nr. XII-2145 1, 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas
  
  
 
