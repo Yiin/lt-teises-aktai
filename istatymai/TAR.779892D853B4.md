@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2016-12-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -813,9 +813,11 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-6. Šio įstatymo 20 straipsnio 2 dalyje, 44 straipsnio 3 dalyje, 45 straipsnio 4 dalyje ir 46 straipsnio 2 dalyje nustatyta tvarka netaikoma finansų įstaigoms, kurios teikia tik nelicencines finansines paslaugas, nustatytas Lietuvos Respublikos vartojimo kredito įstatyme. 
+6. Šio įstatymo 20 straipsnio 2 dalyje, 44 straipsnio 3 dalyje ir 46 straipsnio 3 dalyje nustatyta tvarka netaikoma finansų įstaigoms, kurios teikia tik nelicencines finansines paslaugas, nustatytas Lietuvos Respublikos vartojimo kredito įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
+Straipsnio dalies pakeitimai:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
  
 
 
@@ -2506,74 +2508,15 @@ Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA
 
 
 
-45 straipsnis. Reikalavimai auditoriui ir audito įmonei 
+45 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų atsakomybė
 
 
-1. Finansų įstaigos metinių finansinių ataskaitų rinkinių auditą gali atlikti tik toks auditorius, kuris atitinka šiuos reikalavimus:  
-Straipsnio dalies pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
+Reikalavimus auditoriui ir audito įmonei, jų atsakomybę nustato šis įstatymas ir Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
 
 
-1) turi galiojantį atestuoto auditoriaus pažymėjimą; 
-
-
-
-
-2) neturi turtinių įsipareigojimų audituojamai finansų įstaigai; 
-
-
-
-
-3) nėra artimais ryšiais susijęs nė su vienu iš audituojamos finansų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies savininkų;
-
-
-
-
-4) nėra veikiamas kitų Lietuvos Respublikos audito įstatymo nustatytų sąlygų, galinčių turėti įtakos jo nepriklausomybei.
-
-
-
-
-
-
-2. Finansų įstaigos metinių finansinių ataskaitų rinkinių auditą gali atlikti tokia audito įmonė, kuri atitinka šiuos reikalavimus:  
-Straipsnio dalies pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
-
-
-1) jos civilinė atsakomybė yra apdrausta Lietuvos Respublikos įstatymų nustatyta tvarka; 
-
-
-
-
-2) iš vienos audituojamos finansų įstaigos per 1 metus už audito paslaugas gautos pajamos neviršija 20 procentų visų audito įmonės per 2 metus iš eilės gautų pajamų;
-
-
-
-
-3) kitus Lietuvos Respublikos audito įstatymo nustatytus reikalavimus. 
-
-
-
-
-
-
-3. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu su auditoriumi atliekant auditą, negali atlikti tos pačios finansų įstaigos audito ilgiau kaip 5 finansinius metus iš eilės, jeigu Lietuvos Respublikos įstatymuose, reglamentuojančiuose tokių įstaigų veiklą, nenustatyta kitaip.
-TAR pastaba. Taikant 3 dalies nuostatą, atsižvelgiama ir į iki šio įstatymo įsigaliojimo prasidėjusius finansinius metus, dėl kurių audito yra sudaryta finansinių ataskaitų audito sutartis.
-Straipsnio dalies pakeitimai:
-Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
-Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
+Straipsnio pakeitimai:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
  
-
-
-
-
-4. Priežiūros institucijos sprendimu finansų įstaigoms, kurių veiklos priežiūrą nustato Lietuvos Respublikos įstatymai, gali būti uždrausta sudaryti sutartis dėl finansinių ataskaitų rinkinių audito su tomis audito įmonėmis, kurios neatitinka (nevykdo) šio straipsnio reikalavimų. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
- 
-
-
 
 
 
@@ -2581,12 +2524,26 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 46 straipsnis. Auditoriaus ir audito įmonės pareigos 
 
 
-1. Audito įmonė privalo finansų įstaigos ir audito įmonės sutartyje numatytais terminais, bet ne vėliau kaip likus 15 dienų iki eilinio visuotinio finansų įstaigos dalyvių susirinkimo, pateikti finansų įstaigai auditoriaus išvadą. 
+1. Auditoriaus ir audito įmonės pareigas nustato šis įstatymas ir Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+ 
 
 
 
 
-2. Audito įmonė nedelsdama raštiškai praneša finansų įstaigos valdymo organams ir, gavusi jų nuomonę (komentarus) šiais klausimais, – priežiūros institucijai (jei audituojamos finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai), jeigu nustato faktus: 
+2. Audito įmonė privalo finansų įstaigos ir audito įmonės sutartyje numatytais terminais, bet ne vėliau kaip likus 15 dienų iki eilinio visuotinio finansų įstaigos dalyvių susirinkimo, pateikti finansų įstaigai auditoriaus išvadą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+ 
+
+
+
+
+3. Audito įmonė nedelsdama raštiškai praneša finansų įstaigos valdymo organams ir, gavusi jų nuomonę (komentarus) šiais klausimais, – priežiūros institucijai (jei audituojamos finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai), jeigu nustato faktus: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+ 
 
 
 1) dėl kurių auditorius bus priverstas atsisakyti pareikšti nuomonę apie finansų įstaigos metinių finansinių ataskaitų rinkinius arba pareikšti sąlyginę arba neigiamą nuomonę; 
@@ -2629,39 +2586,36 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 
 
-3. Šio straipsnio 2 dalyje nustatytą pareigą audito įmonė turi ir tuo atveju, jei sužino apie nurodytus faktus atlikdama savo darbą kitoje, su šia finansų įstaiga artimais ryšiais susijusioje, įmonėje. 
-
-
-
-
-4. Audito įmonė gali suteikti priežiūros institucijai konsultacijas arba perspėti ją apie patikrinimo rezultatus šio straipsnio 2 dalyje nenumatytais atvejais. 
-
-
-
-
-5. Priežiūros institucija gali pareikalauti iš audito įmonės, o ši privalo pateikti priežiūros institucijai visą turimą informaciją apie finansų įstaigoje atlikto patikrinimo rezultatus. 
- 
-
-
-
-
-
-
-47 straipsnis. Audito įmonės ir auditoriaus atsakomybė 
-
-
-1. Audito įmonė ir auditorius už audito atlikimą, auditoriaus išvados dėl audituotuose finansų įstaigos metinių finansinių ataskaitų rinkiniuose pateiktų duomenų išsamumo, tikrumo ir tikslumo pateikimą atsako Lietuvos Respublikos įstatymuose ir audito įmonės ir užsakovo pasirašytoje sutartyje dėl audito atlikimo nustatyta tvarka. 
+4. Šio straipsnio 3 dalyje nustatytą pareigą audito įmonė turi ir tuo atveju, jei sužino apie nurodytus faktus atlikdama savo darbą kitoje, su šia finansų įstaiga artimais ryšiais susijusioje, įmonėje. 
 Straipsnio dalies pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
  
 
 
 
 
-2. Audito įmonė turi atlyginti užsakovo, audituotos finansų įstaigos ar trečiųjų asmenų patirtus nuostolius įstatymų ir audito įmonės bei užsakovo pasirašytos sutarties dėl audito atlikimo nustatyta tvarka.
+5. Audito įmonė gali suteikti priežiūros institucijai konsultacijas arba perspėti ją apie patikrinimo rezultatus šio straipsnio 3 dalyje nenumatytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
  
 
 
+
+
+6. Priežiūros institucija gali pareikalauti iš audito įmonės, o ši privalo pateikti priežiūros institucijai visą turimą informaciją apie finansų įstaigoje atlikto patikrinimo rezultatus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+ 
+
+
+
+
+
+
+47 straipsnis. Neteko galios nuo 2017-03-01
+Straipsnio naikinimas:
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+ 
 
 
 
@@ -3110,3 +3064,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 57 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4, 45, 46 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
