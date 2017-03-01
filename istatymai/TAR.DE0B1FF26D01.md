@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2018-04-27
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -999,7 +999,10 @@ KREDITO UNIJOS VALDYMAS
 
 
 
-3) rinkti ir atšaukti stebėtojų tarybos, valdybos, paskolų komiteto narius ir iš jų atitinkamai – stebėtojų tarybos, valdybos, paskolų komiteto pirmininkus, atestuotą auditorių ar audito įmonę;
+3) rinkti ir atšaukti stebėtojų tarybos, valdybos, paskolų komiteto narius ir iš jų atitinkamai – stebėtojų tarybos, valdybos, paskolų komiteto pirmininkus, auditorių ar audito įmonę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -1014,7 +1017,10 @@ KREDITO UNIJOS VALDYMAS
 
 
 
-6) nustatyti lėšų, kurias galima skirti atestuoto auditoriaus arba audito įmonės darbui apmokėti, limitą;
+6) nustatyti lėšų, kurias galima skirti auditoriaus arba audito įmonės darbui apmokėti, limitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -1325,7 +1331,10 @@ KREDITO UNIJOS VALDYMAS
 
 
 
-6) pateikia visuotiniam narių susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo tvarkos projektų bei valdybos parengtos kredito unijos veiklos ataskaitos, taip pat dėl vidaus audito tarnybos ir atestuoto auditoriaus ar audito įmonės nustatytų pažeidimų ir kitų trūkumų;
+6) pateikia visuotiniam narių susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo tvarkos projektų bei valdybos parengtos kredito unijos veiklos ataskaitos, taip pat dėl vidaus audito tarnybos ir auditoriaus ar audito įmonės nustatytų pažeidimų ir kitų trūkumų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -1392,7 +1401,10 @@ KREDITO UNIJOS VALDYMAS
 
 
 
-7. Stebėtojų taryba turi teisę pasikviesti atestuotą auditorių arba audito įmonę patikrinti ir įvertinti kredito unijos finansines ataskaitas ir buhalterinę apskaitą.
+7. Stebėtojų taryba turi teisę pasikviesti auditorių arba audito įmonę patikrinti ir įvertinti kredito unijos finansines ataskaitas ir buhalterinę apskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -2598,7 +2610,10 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 4. Pasibaigus finansiniams metams, kredito unija privalo:
 
 
-1) ne vėliau kaip prieš 10 dienų iki eilinio kredito unijos visuotinio narių susirinkimo sudaryti sąlygas kredito unijos nariams susipažinti su atestuoto auditoriaus ar audito įmonės patikrintu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada;
+1) ne vėliau kaip prieš 10 dienų iki eilinio kredito unijos visuotinio narių susirinkimo sudaryti sąlygas kredito unijos nariams susipažinti su auditoriaus ar audito įmonės audituotu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -2608,7 +2623,10 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 
 
 
-3) per 5 darbo dienas po kredito unijos visuotinio narių susirinkimo sprendimo dėl metinių finansinių ataskaitų rinkinio patvirtinimo priėmimo dienos pateikti priežiūros institucijai atestuoto auditoriaus arba audito įmonės patikrintą ir šio susirinkimo patvirtintą metinių finansinių ataskaitų rinkinį ir sprendimą dėl pelno paskirstymo;
+3) per 5 darbo dienas po kredito unijos visuotinio narių susirinkimo sprendimo dėl metinių finansinių ataskaitų rinkinio patvirtinimo priėmimo dienos pateikti priežiūros institucijai auditoriaus arba audito įmonės audituotą ir šio susirinkimo patvirtintą metinių finansinių ataskaitų rinkinį ir sprendimą dėl pelno paskirstymo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -2620,7 +2638,10 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 
 
 
-5. Kredito unijos visuotinis narių susirinkimas negali priimti sprendimo dėl pelno paskirstymo, jeigu nėra atestuoto auditoriaus ar audito įmonės atliktas metinių finansinių ataskaitų rinkinio patikrinimas.
+5. Kredito unijos visuotinis narių susirinkimas negali priimti sprendimo dėl pelno paskirstymo, jeigu nėra auditoriaus ar audito įmonės atlikto metinių finansinių ataskaitų rinkinio audito. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -2636,7 +2657,7 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 52 straipsnis. Auditas
 
 
-1. Atestuotas auditorius ar audito įmonė turi atlikti kredito unijos metinių finansinių ataskaitų rinkinių auditą ir tuo remdamiesi pateikti auditoriaus išvadą dėl šių ataskaitų rinkinių ir audito ataskaitą. Audito ataskaitoje auditorius turi pateikti informaciją apie tai, ar kredito unija:
+1. Auditorius ar audito įmonė turi atlikti kredito unijos metinių finansinių ataskaitų rinkinių auditą ir tuo remdamiesi pateikti auditoriaus išvadą dėl šių ataskaitų rinkinių ir audito ataskaitą. Audito ataskaitoje auditorius turi pateikti informaciją apie tai, ar kredito unija:
 
 
 1) tiksliai ir kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės aktus;
@@ -2671,15 +2692,17 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 
 
 
-2. Kredito unijos visuotinis narių susirinkimas renka atestuotą auditorių ar audito įmonę einamųjų ir ne daugiau kaip dvejų ateinančių finansinių metų metinių finansinių ataskaitų rinkiniams patikrinti.
+2. Kredito unijos, kuri nėra pripažinta viešojo intereso įmone pagal Lietuvos Respublikos finansinių ataskaitų audito įstatymą, auditorius negali atlikti tos pačios kredito unijos audito ilgiau kaip 5 finansinius metus iš eilės.
 
 
 
 
-3. Kredito unija iki einamųjų finansinių metų pirmojo pusmečio pabaigos privalo su kredito unijos visuotinio narių susirinkimo išrinktu atestuotu auditoriumi ar audito įmone sudaryti sutartį dėl metinių finansinių ataskaitų rinkinių audito.
+3. Kredito unija iki einamųjų finansinių metų pirmojo pusmečio pabaigos privalo su kredito unijos visuotinio narių susirinkimo išrinktu auditoriumi ar audito įmone sudaryti sutartį dėl metinių finansinių ataskaitų rinkinių audito. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
  
-
-
 
 
 
@@ -2687,10 +2710,12 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 53 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
 
-Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Lietuvos Respublikos finansų įstaigų įstatymas.
+Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Lietuvos Respublikos finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
  
-
-
 
 
 
@@ -2781,12 +2806,18 @@ KREDITO UNIJŲ PRIEŽIŪRA
 
 
 
-3) sudaryti sutartis su atestuotais auditoriais ar audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl kredito unijos patikrinimo atlikimo, kad būtų nustatyta kredito unijos turto vertė, kredito unijos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti kredito unijos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad kredito unija priežiūros institucijai pateikė neteisingą informaciją, ar nustatomi kiti padaryti teisės aktų pažeidimai, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina kredito unija. Kai pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys atlieka kredito unijos patikrinimą, šiems asmenims taikomos šio įstatymo 59 straipsnio 2 ir 3 dalių nuostatos; 
+3) sudaryti sutartis su auditoriais ar audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl kredito unijos patikrinimo atlikimo, kad būtų nustatyta kredito unijos turto vertė, kredito unijos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti kredito unijos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad kredito unija priežiūros institucijai pateikė neteisingą informaciją, ar nustatomi kiti padaryti teisės aktų pažeidimai, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina kredito unija. Kai pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys atlieka kredito unijos patikrinimą, šiems asmenims taikomos šio įstatymo 59 straipsnio 2 ir 3 dalių nuostatos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
 
-4) reikalauti, kad būtų pakeistas atestuotas auditorius ar audito įmonė, atliekantys kredito unijos finansinių ataskaitų rinkinių patikrinimą, jeigu audito įmonė ar atestuotas auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų.
+4) reikalauti, kad būtų pakeistas auditorius ar audito įmonė, atliekantys kredito unijos finansinių ataskaitų rinkinių auditą, jeigu audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+ 
 
 
 
@@ -3529,7 +3560,9 @@ Kredito unija reorganizuojama ir likviduojama Lietuvos Respublikos civilinio kod
 
 
 
-10. Atsiskaitant su pertvarkomos kredito unijos nariais, kurie atsisako tapti po pertvarkymo veiksiančios bendrovės akcininkais, taikomos šio įstatymo 14 straipsnio 2 dalies nuostatos arba atsiskaitymas gali būti atliekamas atsižvelgiant į kredito unijos tarpinę balansinę ataskaitą, jeigu ji patikrinta atestuoto auditoriaus ar audito įmonės, ir netaikomos šio įstatymo 14 straipsnio 3 dalies nuostatos. Su šiais asmenimis turi būti atsiskaitoma ne vėliau kaip iki kredito unijos pertvarkymo baigimo dienos.
+10. Atsiskaitant su pertvarkomos kredito unijos nariais, kurie atsisako tapti po pertvarkymo veiksiančios bendrovės akcininkais, taikomos šio įstatymo 14 straipsnio 2 dalies nuostatos arba atsiskaitymas gali būti atliekamas atsižvelgiant į kredito unijos tarpinę balansinę ataskaitą, jeigu ji patikrinta auditoriaus ar audito įmonės, ir netaikomos šio įstatymo 14 straipsnio 3 dalies nuostatos. Su šiais asmenimis turi būti atsiskaitoma ne vėliau kaip iki kredito unijos pertvarkymo baigimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
  
 
 
@@ -3941,3 +3974,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 62, 73 straipsnių ir pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymo Nr. XII-2567 2 straipsnio pakeitimo įstatymas
