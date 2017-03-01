@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2017-07-12
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -1339,7 +1339,10 @@ CENTRINĖS KREDITO UNIJOS VALDYMAS
 24 straipsnis. Centrinės kredito unijos komitetai
 
 
-1. Centrinė kredito unija privalo turėti nuolat veikiantį vidaus audito komitetą. Vidaus audito komitetą sudaro ir šio komiteto veiklą kontroliuoja centrinės kredito unijos stebėtojų taryba. Centrinė kredito unija, jeigu ji yra svarbi dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo, turi sudaryti rizikos, skyrimo ir atlygio komitetus. Rizikos, skyrimo ir atlygio komitetų nariais gali būti tik stebėtojų tarybos nariai. Priežiūros institucija nustato kriterijus, kuriais vadovaujantis centrinė kredito unija pripažįstama svarbia dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo. 
+1. Centrinė kredito unija privalo turėti nuolat veikiantį audito komitetą. Audito komitetą sudaro ir jo veiklą kontroliuoja centrinės kredito unijos stebėtojų taryba. Centrinė kredito unija, jeigu ji yra svarbi dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo, turi sudaryti rizikos, skyrimo ir atlygio komitetus. Rizikos, skyrimo ir atlygio komitetų nariais gali būti tik stebėtojų tarybos nariai. Priežiūros institucija nustato kriterijus, kuriais vadovaujantis centrinė kredito unija pripažįstama svarbia dėl savo dydžio, organizacinės struktūros ir veiklos pobūdžio, apimties ir sudėtingumo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
+ 
 
 
 
@@ -2113,7 +2116,10 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 4. Pasibaigus finansiniams metams, centrinė kredito unija privalo:
 
 
-1) ne vėliau kaip prieš 10 dienų iki eilinio visuotinio narių susirinkimo sudaryti sąlygas centrinės kredito unijos nariams ir priežiūros institucijai susipažinti su audito įmonės patikrintu audituotu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada;
+1) ne vėliau kaip prieš 10 dienų iki eilinio visuotinio narių susirinkimo sudaryti sąlygas centrinės kredito unijos nariams ir priežiūros institucijai susipažinti su audito įmonės audituotu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
+ 
 
 
 
@@ -2181,7 +2187,10 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 
 
 
-2. Centrinės kredito unijos visuotinis narių susirinkimas renka audito įmonę einamųjų ir ne daugiau kaip 2 būsimųjų finansinių metų metinių finansinių ataskaitų rinkinių auditui atlikti.
+2. Neteko galios nuo 2017-03-01
+Straipsnio dalies naikinimas:
+Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
+ 
 
 
 
@@ -2197,10 +2206,12 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 44 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
 
-Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas.
+Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
  
-
-
 
 
 
@@ -3531,3 +3542,8 @@ Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 2, 10, 47
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2566, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20319
 Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
+Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymo Nr. XII-2566 2 straipsnio pakeitimo įstatymas
