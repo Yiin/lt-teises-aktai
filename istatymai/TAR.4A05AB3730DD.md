@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-02-28
+Suvestinė redakcija nuo 2017-03-01 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -297,7 +297,10 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 
 
 
-11) auditą atliekančios (atliksiančios) audito įmonės, atitinkančios Finansų įstaigų įstatyme ir Lietuvos Respublikos audito įstatyme nustatytus reikalavimus, duomenys.
+11) auditą atliekančios (atliksiančios) audito įmonės, atitinkančios Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme (toliau – Finansinių ataskaitų audito įstatymas) nustatytus reikalavimus, duomenys. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
+ 
 
 
 
@@ -1084,7 +1087,10 @@ KITI MOKĖJIMO ĮSTAIGAI KELIAMI REIKALAVIMAI
 
 
 
-4. Mokėjimo įstaigos auditą, reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Akcinių bendrovių įstatymas ir Audito įstatymas.
+4. Mokėjimo įstaigos auditą, reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Akcinių bendrovių įstatymas ir Finansinių ataskaitų audito įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
+ 
 
 
 
@@ -1815,6 +1821,7 @@ Lietuvos bankas priima šio įstatymo įgyvendinamuosius teisės aktus.
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
  
 
@@ -1823,7 +1830,7 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
 
- 
+ 
 Lietuvos Respublikos
 mokėjimo įstaigų įstatymo
 priedas
@@ -1831,8 +1838,6 @@ priedas
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
  
 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
- 
- 
  
  
  
@@ -1857,3 +1862,8 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 4, 6 ir 8 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5 ir 19 straipsnių pakeitimo įstatymas
