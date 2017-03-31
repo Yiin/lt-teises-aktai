@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2017-03-30
+Suvestinė redakcija nuo 2017-03-31 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -36,11 +36,13 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas sudaro prielaidas įgyvendinti Lietuvos Respublikos Konstitucijos nuostatą, kad visos valdžios įstaigos tarnauja žmonėms; nustato viešojo administravimo principus, viešojo administravimo sritis, viešojo administravimo subjektų sistemą ir administracinės procedūros organizavimo pagrindus; garantuoja asmenų teisę apskųsti viešojo administravimo subjektų veiksmus, neveikimą ar administracinius sprendimus, taip pat teisę į įstatymais pagrįstą ir objektyvų asmenų prašymų, skundų ir pranešimų nagrinėjimą; įtvirtina kitas asmenų ir viešojo administravimo subjektų teises ir pareigas viešojo administravimo srityje.
+Šis įstatymas sudaro prielaidas įgyvendinti Lietuvos Respublikos Konstitucijos nuostatą, kad visos valdžios įstaigos tarnauja žmonėms; nustato viešojo administravimo principus, viešojo administravimo sritis, viešojo administravimo subjektų sistemą ir administracinės procedūros organizavimo pagrindus; garantuoja asmenų teisę apskųsti viešojo administravimo subjektų veiksmus, neveikimą ar administracinius sprendimus, taip pat teisę į įstatymais pagrįstą ir objektyvų asmenų prašymų ir skundų nagrinėjimą; įtvirtina kitas asmenų ir viešojo administravimo subjektų teises ir pareigas viešojo administravimo srityje. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -114,17 +116,26 @@ Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
 
 
 
-14. Prašymas – su asmens teisių ar teisėtų interesų pažeidimu nesusijęs asmens kreipimasis į viešojo administravimo subjektą prašant priimti administracinį sprendimą arba atlikti kitus teisės aktuose nustatytus veiksmus.
+14. Prašymas – su asmens teisių ar teisėtų interesų pažeidimu nesusijęs asmens kreipimasis į viešojo administravimo subjektą prašant suteikti administracinę paslaugą, priimti administracinį sprendimą arba atlikti kitus teisės aktuose nustatytus veiksmus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
 
-15. Skundas – asmens rašytinis kreipimasis į viešojo administravimo subjektą, kuriame nurodoma, kad yra pažeistos jo teisės ar teisėti interesai, ir prašoma juos apginti.
+15. Skundas – asmens rašytinis kreipimasis į viešojo administravimo subjektą, kuriame nurodoma, kad yra pažeistos jo ar kito asmens teisės ar teisėti interesai, ir prašoma juos apginti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
 
-16. Pranešimas – asmens rašytinis kreipimasis į viešojo administravimo subjektą, kuriame nurodoma, kad yra pažeistos kito asmens teisės ar teisėti interesai, ir prašoma juos apginti.
+16. Neteko galios nuo 2017-03-31
+Straipsnio dalies naikinimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -164,7 +175,10 @@ Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
 
 
 
-24. Asmuo, dėl kurio yra pradėta administracinė procedūra, – asmuo, kuris yra padavęs skundą, arba asmuo, dėl kurio galimai pažeistų viešojo administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais teisių ir teisėtų interesų yra gautas pranešimas, ir viešojo administravimo subjekto vadovas arba jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu dėl tokio asmens skundo ar pranešimo yra pradėjęs administracinę procedūrą.
+24. Asmuo, dėl kurio yra pradėta administracinė procedūra, – asmuo, kuris yra padavęs skundą, arba asmuo, dėl kurio galimai pažeistų viešojo administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais teisių ir teisėtų interesų yra gautas skundas, ir viešojo administravimo subjekto vadovas arba jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu dėl tokio skundo yra pradėjęs administracinę procedūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -172,6 +186,14 @@ Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
 25. Mažareikšmis teisės aktų reikalavimų pažeidimas – teisės aktų reikalavimų pažeidimas, kuriuo padaryta žala konkrečia teisės norma saugomoms vertybėms yra labai nedidelė.
 Papildyta straipsnio dalimi:
 Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
+ 
+
+
+
+
+26. Administracinių ir viešųjų paslaugų stebėsenos rodiklis – vidaus reikalų ministro nustatyta tvarka apskaičiuotas viešojo administravimo subjektų teikiamos ir (arba) administruojamos administracinės ir viešosios paslaugos įvertis, kuriuo remiantis analizuojama paslaugos teikimo kokybė pagal pasirinktus parametrus (paslaugos teikimo kainą, trukmę, finansines sąnaudas ir kita). 
+Papildyta straipsnio dalimi:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -227,7 +249,10 @@ Viešojo administravimo subjektai savo veikloje vadovaujasi šiais principais:
 
 
 
-8) „vieno langelio“. Šis principas reiškia, kad asmeniui informacija suteikiama, prašymas, skundas ar pranešimas priimamas ir atsakymas į juos pateikiamas vienoje darbo vietoje. Prašymą, skundą ar pranešimą nagrinėja ir informaciją iš savo administracijos padalinių, pavaldžių subjektų, prireikus – ir iš kitų viešojo administravimo subjektų gauna pats prašymą, skundą ar pranešimą nagrinėjantis ir administracinį sprendimą priimantis viešojo administravimo subjektas, neįpareigodamas tai atlikti prašymą, skundą ar pranešimą padavusį asmenį;
+8) vieno langelio. Šis principas reiškia, kad asmeniui informacija suteikiama, prašymas ar skundas priimamas ir atsakymas į juos pateikiamas vienoje darbo vietoje. Prašymą ar skundą nagrinėja ir informaciją iš savo administracijos padalinių, pavaldžių subjektų, prireikus – ir iš kitų viešojo administravimo subjektų gauna pats prašymą ar skundą nagrinėjantis ir administracinį sprendimą priimantis viešojo administravimo subjektas, neįpareigodamas tai atlikti prašymą ar skundą padavusį asmenį; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -247,7 +272,15 @@ Viešojo administravimo subjektai savo veikloje vadovaujasi šiais principais:
 
 
 
-12) naujovių ir atvirumo permainoms principas. Šis principas reiškia, kad viešojo administravimo subjektas turi ieškoti naujų ir veiksmingų būdų, kaip spręsti problemas, ir nuolat mokytis iš gerosios patirties pavyzdžių.
+12) naujovių ir atvirumo permainoms principas. Šis principas reiškia, kad viešojo administravimo subjektas turi ieškoti naujų ir veiksmingų būdų, kaip spręsti problemas, ir nuolat mokytis iš gerosios patirties pavyzdžių;
+
+
+
+
+13) išsamumo. Šis principas reiškia, kad viešojo administravimo subjektas į prašymą ar skundą turi atsakyti aiškiai ir argumentuotai, nurodydamas visas prašymo ar skundo nagrinėjimui įtakos turėjusias aplinkybes ir konkrečias teisės aktų nuostatas, kuriomis rėmėsi vertindamas prašymo ar skundo turinį. 
+Papildyta straipsnio punktu:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -644,40 +677,87 @@ Viešojo administravimo subjekto vidaus administravimo kontrolės formos gali b�
 
 
 
-14 straipsnis. Asmenų prašymų, pranešimų ir skundų nagrinėjimas
+14 straipsnis. Prašymų ir skundų nagrinėjimas
 
 
-1. Asmenų prašymus viešojo administravimo subjektai nagrinėja pagal Vyriausybės patvirtintas taisykles.
-
-
-
-
-2. Nagrinėjant asmenų prašymus, Vyriausybės patvirtintų taisyklių nuostatos taikomos tiek, kiek tų klausimų nereglamentuoja įstatymai, tiesiogiai taikomi Europos Sąjungos teisės aktai, ratifikuotos Lietuvos Respublikos tarptautinės sutartys arba vadovaujantis šiais teisės aktais priimti kiti teisės aktai.
+1. Prašymų ir skundų nagrinėjimo ir asmenų aptarnavimo viešojo administravimo subjektuose taisykles tvirtina Vyriausybė.
 
 
 
 
-3. Asmenų skundai ir pranešimai dėl viešojo administravimo subjekto veiksmų, neveikimo ar administracinių sprendimų nagrinėjami šio įstatymo trečiajame skirsnyje nustatyta tvarka. Kiti asmenų skundai ir pranešimai nagrinėjami atskirų rūšių skundų ir pranešimų nagrinėjimą reglamentuojančių įstatymų ir kitų teisės aktų nustatytais terminais ir tvarka, kiek tai neprieštarauja šiems bendriesiems reikalavimams:
-
-
-1) nustatytiems šio įstatymo 23 straipsnio 1, 2, 3, 4, 7 ir 8 dalyse ir 24, 34 straipsniuose dėl pranešimų ir skundų, kuriais skundžiami viešojo administravimo subjekto veiksmai ar neveikimas; 
+2. Viešojo administravimo subjektas privalo organizuoti savo darbą taip, kad asmenys pateikti prašymą ar skundą asmeniškai galėtų visą darbo dienos laiką, taip pat ir pietų pertraukos metu. Viešojo administravimo subjektas privalo nustatyti ne mažiau kaip 2 papildomas prašymų ir skundų priėmimo valandas per savaitę prieš arba po viešojo administravimo subjekto darbo dienos laiko.
 
 
 
 
-2) jeigu viešojo administravimo subjektas neturi įgaliojimų priimti sprendimą dėl pranešime ar skunde išdėstyto klausimo ir nėra kito viešojo administravimo subjekto, kuriam galėtų perduoti šį pranešimą ar skundą nagrinėti pagal kompetenciją, jis ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos apie tai praneša asmeniui;
+3. Skundai dėl viešojo administravimo subjekto veiksmų, neveikimo ar administracinių sprendimų nagrinėjami šio įstatymo trečiajame skirsnyje nustatyta tvarka. 
 
 
 
 
-3) pranešimas ar skundas nenagrinėjamas, jeigu teismas ar tas pats viešojo administravimo subjektas jau yra priėmęs sprendimą tuo pačiu klausimu ir asmuo nepateikia naujų faktinių duomenų, leidžiančių ginčyti sprendimą, taip pat jeigu yra suėjęs pranešimo ar skundo padavimo senaties terminas. Apie sprendimą nenagrinėti pranešimo ar skundo pranešama asmeniui ne vėliau kaip per 5 darbo dienas nuo pranešimo ar skundo gavimo dienos.
+4. Draudžiama persiųsti skundą nagrinėti viešojo administravimo subjektui, jo administracijos padaliniui arba perduoti nagrinėti pareigūnui, valstybės tarnautojui ar darbuotojui, kurių veiksmai yra skundžiami.
 
 
+
+
+5. Prašymas ar skundas viešojo administravimo subjekto vadovo arba jo įgalioto pareigūno ar valstybės tarnautojo sprendimu gali būti nenagrinėjamas:
+
+
+1) jeigu jame nėra asmens vardo ir pavardės ar pavadinimo, adreso arba kitų duomenų ryšiui palaikyti ir nėra galimybės kitaip identifikuoti prašymą ar skundą pateikusį asmenį;
+
+
+
+
+2) jeigu prašymas ar skundas, teikiamas raštu tiesiogiai ar atsiųstas paštu, arba prašymo ar skundo skaitmeninė kopija, atsiųsta faksu ar elektroniniu paštu, nepasirašyti ir nėra galimybės kitaip patikrinti prašymo ar skundo autentiškumo;
+
+
+
+
+3) jeigu jis grindžiamas akivaizdžiai tikrovės neatitinkančiais faktais arba jeigu jo turinys nekonkretus ir nesuprantamas ir dėl to viešojo administravimo subjektas negali tokio prašymo ar skundo išnagrinėti; 
+
+
+
+
+4) jeigu paaiškėja, kad tuo pačiu klausimu atsakymą yra pateikęs arba sprendimą yra priėmęs viešojo administravimo subjektas, į kurį kreiptasi, arba kitas kompetentingas viešojo administravimo subjektas ir asmuo nepateikia naujų faktinių duomenų, leidžiančių abejoti ankstesnio atsakymo pagrįstumu ar ginčyti viešojo administravimo subjekto priimtą sprendimą;
+
+
+
+
+5) jeigu nuo skunde nurodytų pažeidimų paaiškėjimo asmeniui dienos iki skundo padavimo dienos yra praėję daugiau kaip 6 mėnesiai.
+
+
+
+
+
+
+6. Skundai, pateikti elektroniniu paštu, turi būti pasirašyti elektroniniu parašu. Atsakymai į šiuos skundus pateikiami asmeniui elektroniniu paštu, o asmenų pageidavimu – siunčiami paštu skunde nurodytu adresu arba įteikiami asmeniškai. Atsakymas, siunčiamas elektroniniu paštu, turi būti pasirašytas viešojo administravimo subjekto vadovo arba jo įgalioto pareigūno ar valstybės tarnautojo saugiu elektroniniu parašu.
+
+
+
+
+7. Apie prašymo ar skundo nenagrinėjimą asmeniui pranešama ne vėliau kaip per 5 darbo dienas nuo prašymo ar skundo gavimo viešojo administravimo subjekte dienos, išskyrus atvejus, kai prašyme ar skunde nenurodyta jokių asmens duomenų ryšiui palaikyti.
+
+
+
+
+8. Jeigu viešojo administravimo subjektas pagal kompetenciją negali spręsti prašyme išdėstytų klausimų ar priimti administracinės procedūros sprendimo dėl skunde išdėstyto klausimo, jis jo nenagrinėja ir ne vėliau kaip per 5 darbo dienas nuo prašymo ar skundo gavimo dienos persiunčia jį kompetentingam viešojo administravimo subjektui, ir apie tai praneša asmeniui. Jeigu nėra kito viešojo administravimo subjekto, kuriam galėtų perduoti prašymą ar skundą nagrinėti pagal kompetenciją, jis ne vėliau kaip per 5 darbo dienas nuo prašymo ar skundo gavimo dienos apie tai praneša asmeniui paaiškindamas jo prašymo ar skundo nenagrinėjimo priežastis.
+
+
+
+
+9. Dėl skundo, adresuoto keliems viešojo administravimo subjektams ir priklausančio kelių viešojo administravimo subjektų kompetencijai, administracinę procedūrą pradeda ir skundo nagrinėjimą organizuoja pirmasis skunde nurodytas viešojo administravimo subjektas. Kiti administracinėje procedūroje dalyvaujantys viešojo administravimo subjektai privalo per 10 darbo dienų nuo skundo gavimo dienos pateikti pagal kompetenciją savo pasiūlymus dėl skundo sprendimo administracinę procedūrą pradėjusiam viešojo administravimo subjektui.
+
+
+
+
+10. Viešojo administravimo subjekto vadovas ar jo įgaliotas pareigūnas ar valstybės tarnautojas, kai prašymą nagrinėjantys arba administracinėje procedūroje dalyvaujantys pareigūnai, valstybės tarnautojai ar darbuotojai laikinai negali eiti pareigų (dėl laikinojo nedarbingumo, atostogų, komandiruočių, kvalifikacijos tobulinimo ir kitų priežasčių), paveda nagrinėti prašymą arba dalyvauti administracinėje procedūroje kitiems pareigūnams, valstybės tarnautojams ar darbuotojams. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-283, 2009-06-11, Žin., 2009, Nr. 75-3062 (2009-06-25)
 Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -701,7 +781,10 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 
 
 
-4. Tuo atveju, kai neteisėtą poveikį darantis suinteresuotas asmuo yra viešojo administravimo subjekto, kuriame neteisėtą poveikį patiriantis pareigūnas, valstybės tarnautojas ar darbuotojas eina pareigas, vadovas arba jo įgaliotas asmuo, pareigūnas, valstybės tarnautojas ar darbuotojas, kuriam pavesta parengti administracinio sprendimo projektą ir kuriam daromas neteisėtas poveikis, gali kreiptis į instituciją, kuriai pavesta tirti fizinių ir juridinių asmenų pranešimus, skundus ir prašymus dėl valstybinėje tarnyboje dirbančių asmenų veiklos atitikties Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatoms.
+4. Tuo atveju, kai neteisėtą poveikį darantis suinteresuotas asmuo yra viešojo administravimo subjekto, kuriame neteisėtą poveikį patiriantis pareigūnas, valstybės tarnautojas ar darbuotojas eina pareigas, vadovas arba jo įgaliotas asmuo, pareigūnas, valstybės tarnautojas ar darbuotojas, kuriam pavesta parengti administracinio sprendimo projektą ir kuriam daromas neteisėtas poveikis, gali kreiptis į instituciją, kuriai pavesta tirti fizinių ir juridinių asmenų skundus ir prašymus dėl valstybinėje tarnyboje dirbančių asmenų veiklos atitikties Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatoms. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 Papildyta straipsniu:
@@ -749,14 +832,35 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 
 
 
-2. Administracines paslaugas teikia tik viešojo administravimo subjektai. Viešojo administravimo subjektas sudaro teikiamų administracinių paslaugų sąrašą ir, vadovaudamasis šių paslaugų teikimą reglamentuojančiais teisės aktais, parengia informacinio pobūdžio administracinių paslaugų teikimo aprašymus ir viešai juos paskelbia. Administracinių paslaugų teikimo aprašymai rengiami vadovaujantis vidaus reikalų ministro patvirtintomis rekomendacijomis.
+2. Administracines paslaugas teikia tik viešojo administravimo subjektai. Viešojo administravimo subjektas turi sudaryti savo teikiamų administracinių paslaugų sąrašą ir, vadovaudamasis vidaus reikalų ministro nustatyta tvarka ir kitais teisės aktais, reguliuojančiais šių paslaugų teikimą, patvirtinti administracinių paslaugų teikimo aprašymus. Administracinių paslaugų teikimo aprašymai turi būti atnaujinti kartą per 3 mėnesius, atsižvelgiant į viešojo administravimo subjekto veiklos ir teisės aktų, reguliuojančių šių paslaugų teikimą, pasikeitimus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
 
-3. Rinkliavas ar kitokį atlyginimą už administracines paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliavos nustatomos vadovaujantis Lietuvos Respublikos rinkliavų įstatymu, o kitokio atlyginimo už administracines paslaugas dydį pagal Vyriausybės patvirtintus kriterijus nustato viešojo administravimo institucijos, kurios nustato atitinkamų administracinių paslaugų teikimo tvarką, jeigu kiti įstatymai nenustato kitaip. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytas administracines paslaugas, taip pat už viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę paslaugą nagrinėjimą.
+3. Viešojo administravimo subjektas turi patvirtintus administracinių paslaugų teikimo aprašymus paskelbti Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinėje sistemoje, taip pat savo interneto svetainėje pateikti nuorodą į šioje sistemoje paskelbtą administracinės paslaugos teikimo aprašymą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
+4. Tais atvejais, kai administracines paslaugas teikia Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos, šio straipsnio 2 ir 3 dalių nuostatas dėl teikiamų administracinių paslaugų sąrašo sudarymo, administracinių paslaugų teikimo aprašymų patvirtinimo, jų atnaujinimo ir paskelbimo, taip pat šio įstatymo 171 straipsnio 2 dalies nuostatas dėl informacijos apie administracinių ir viešųjų paslaugų stebėsenos rodiklius pateikimo įgyvendina Lietuvos Respublikos užsienio reikalų ministerija. 
+Papildyta straipsnio dalimi:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
+5. Rinkliavas ar kitokį atlyginimą už administracines paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliavos nustatomos vadovaujantis Lietuvos Respublikos rinkliavų įstatymu, o kitokio atlyginimo už administracines paslaugas dydį pagal Vyriausybės patvirtintus kriterijus nustato viešojo administravimo institucijos, kurios nustato atitinkamų administracinių paslaugų teikimo tvarką, jeigu kiti įstatymai nenustato kitaip. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytas administracines paslaugas, taip pat už viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę paslaugą nagrinėjimą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -783,14 +887,35 @@ Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
 
 
 
-3. Rinkliavas ar kitokį atlyginimą už viešųjų paslaugų teikimo administravimą gali nustatyti tik įstatymai.
+3. Viešojo administravimo subjektas, administruojantis viešųjų paslaugų teikimą, įpareigoja viešųjų paslaugų teikėjus sudaryti jų teikiamų viešųjų paslaugų sąrašą ir, vadovaujantis vidaus reikalų ministro nustatyta tvarka ir kitais teisės aktais, reguliuojančiais šių paslaugų teikimą, patvirtinti viešųjų paslaugų teikimo aprašymus. Viešųjų paslaugų teikimo aprašymai turi būti atnaujinti kartą per 3 mėnesius, atsižvelgiant į viešąsias paslaugas teikiančio subjekto veiklos ir teisės aktų, reguliuojančių šių paslaugų teikimą, pasikeitimus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
 
-4. Rinkliavas ar kitokį atlyginimą už viešąsias paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliavos nustatomos vadovaujantis Lietuvos Respublikos rinkliavų įstatymu, o kitokio atlyginimo dydį pagal Vyriausybės patvirtintus kriterijus nustato viešojo administravimo subjektas, kuris administruoja tos viešosios paslaugos teikimą, jeigu kiti įstatymai nenustato kitaip.
+4. Viešojo administravimo subjektas, administruojantis viešųjų paslaugų teikimą, įpareigoja viešųjų paslaugų teikėjus patvirtintus viešųjų paslaugų teikimo aprašymus paskelbti Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinėje sistemoje ir savo interneto svetainėje pateikti nuorodą į šioje sistemoje paskelbtus viešųjų paslaugų teikimo aprašymus. 
+Papildyta straipsnio dalimi:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
+5. Rinkliavas ar kitokį atlyginimą už viešųjų paslaugų teikimo administravimą gali nustatyti tik įstatymai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
+6. Rinkliavas ar kitokį atlyginimą už viešąsias paslaugas nustato įstatymai ar jų pagrindu priimti teisės aktai. Rinkliavos nustatomos vadovaujantis Lietuvos Respublikos rinkliavų įstatymu, o kitokio atlyginimo dydį pagal Vyriausybės patvirtintus kriterijus nustato viešojo administravimo subjektas, kuris administruoja tos viešosios paslaugos teikimą, jeigu kiti įstatymai nenustato kitaip.
 Papildyta straipsnio dalimi:
 Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -832,6 +957,40 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 
 
 
+171 straipsnis. Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinė sistema
+
+
+1. Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinė sistema yra vadovaujantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu įsteigta valstybės informacinė sistema, kurios paskirtis – sudaryti sąlygas operatyviai rinkti ir kaupti administracinių ir viešųjų paslaugų teikimo aprašymus, informaciją apie administracinių ir viešųjų paslaugų teikimo stebėsenos rodiklius ir atlikti administracinių ir viešųjų paslaugų ir jų teikimo aprašymų paiešką viešame kataloge.
+
+
+
+
+2. Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinės sistemos ir šioje valstybės informacinėje sistemoje esančių asmens duomenų valdytoja yra Vidaus reikalų ministerija.
+
+
+
+
+3. Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinės sistemos tvarkytojas (tvarkytojai) skiriamas (skiriami) teisės aktu, kuriuo tvirtinami Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinės sistemos nuostatai.
+
+
+
+
+4. Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinės sistemos valdytojas ir tvarkytojas (tvarkytojai) pagal kompetenciją užtikrina šios valstybės informacinės sistemos duomenų saugą, kaip to reikalauja Lietuvos Respublikos įstatymai ir kiti teisės aktai.
+
+
+
+
+5. Viešojo administravimo subjektas, teikiantis administracines paslaugas ar administruojantis viešųjų paslaugų teikimą, taip pat šio įstatymo 15 straipsnio 4 dalyje nurodytas viešojo administravimo subjektas informaciją apie administracinių ir viešųjų paslaugų stebėsenos rodiklius Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinės sistemos nuostatų nustatyta tvarka privalo teikti Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinės sistemos tvarkytojui. 
+
+
+Papildyta straipsniu:
+TAR pastaba. 17-1 straipsnio 5 dalyje nurodyti viešojo administravimo subjektai iki 2017 m. gegužės 31 d. į Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinę sistemą šios sistemos nuostatų nustatyta tvarka pateikia administracinių ir viešųjų paslaugų teikimo aprašymus ir 2016 metų paslaugų stebėsenos rodiklius.
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
 18 straipsnis. Informacinių technologijų naudojimas viešajam administravimui 
 
 
@@ -853,16 +1012,18 @@ Administracinė procedūra
 19 straipsnis. Administracinė procedūra ir jos dalyviai
 
 
-1. Administracinė procedūra – pagal šį įstatymą viešojo administravimo subjekto atliekami privalomi veiksmai nagrinėjant asmens skundą ar pranešimą apie viešojo administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais galimai padarytą asmens, nurodyto skunde ar pranešime, teisių ir teisėtų interesų pažeidimą ir priimant dėl to administracinės procedūros sprendimą.
+1. Administracinė procedūra – pagal šį įstatymą viešojo administravimo subjekto atliekami privalomi veiksmai nagrinėjant skundą apie viešojo administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais galimai padarytą asmens, nurodyto skunde, teisių ir teisėtų interesų pažeidimą ir priimant dėl to administracinės procedūros sprendimą.
 
 
 
 
-2. Administracinės procedūros dalyviai: asmuo, dėl kurio yra pradėta administracinė procedūra, ir viešojo administravimo subjektas, kuris dėl skundo ar gauto pranešimo pradėjo administracinę procedūrą.
+2. Administracinės procedūros dalyviai: asmuo, dėl kurio yra pradėta administracinė procedūra, ir viešojo administravimo subjektas, kuris dėl gauto skundo pradėjo administracinę procedūrą. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -936,33 +1097,10 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 
 
 
-21 straipsnis. Pagrindas pradėti administracinę procedūrą 
-
-
-1. Pagrindas pradėti administracinę procedūrą yra:
-
-
-1) asmens skundas;
-
-
-
-
-2) valstybės politiko, pareigūno ar valstybės tarnautojo pranešimas;
-
-
-
-
-3) kito asmens pranešimas. 
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodyti pagrindai pradėti administracinę procedūrą toliau vadinami skundu.
+21 straipsnis. Neteko galios nuo 2017-03-31
+Straipsnio naikinimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
-
-
 
 
 
@@ -970,7 +1108,10 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 22 straipsnis. Administracinės procedūros pradžia 
 
 
-1. Administracinę procedūrą pradeda viešojo administravimo subjekto vadovas arba jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu (įsakymu, potvarkiu, rezoliucija) per 3 darbo dienas nuo 21 straipsnyje nurodytų dokumentų gavimo dienos.
+1. Administracinę procedūrą pradeda viešojo administravimo subjekto vadovas arba jo įgaliotas pareigūnas ar valstybės tarnautojas arba viešojo administravimo subjekto vadovo sudaryta komisija rašytiniu pavedimu (įsakymu, potvarkiu, rezoliucija) per 3 darbo dienas nuo skundo gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -983,67 +1124,17 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 
 
 
-23 straipsnis. Skundo priėmimas ir nagrinėjimas
-
-
-1. Kiekvienas viešojo administravimo subjektas privalo priimti skundus ir juos nagrinėti pagal įgaliojimus. Skundo priėmimo faktas patvirtinamas tam tikru dokumentu, kuriame nurodoma skundo priėmimo data, skundą priėmusio pareigūno, valstybės tarnautojo ar darbuotojo vardas, pavardė, telefono numeris, skundo registracijos numeris. Skundo priėmimo faktą patvirtinantis dokumentas asmeniui įteikiamas arba siunčiamas paštu ar elektroniniu paštu. Skundo priėmimo faktą patvirtinančio dokumento formą nustato Vyriausybė.
-
-
-
-
-2. Skundai, pateikti elektroniniu paštu, turi būti pasirašyti elektroniniu parašu. Atsakymai į šiuos skundus pateikiami asmeniui elektroniniu paštu, o asmenų pageidavimu – siunčiami paštu skunde nurodytu adresu arba įteikiami asmeniškai. Atsakymas, siunčiamas elektroniniu paštu, turi būti pasirašytas viešojo administravimo subjekto vadovo arba jo įgalioto pareigūno ar valstybės tarnautojo saugiu elektroniniu parašu.
-
-
-
-
-3. Skundai, kuriuose nenurodytas asmens vardas, pavardė ar pavadinimas, adresas arba asmens nepasirašyti, viešojo administravimo subjekto vadovo arba jo įgalioto pareigūno ar valstybės tarnautojo sprendimu gali būti nenagrinėjami. Apie sprendimą nenagrinėti skundo pranešama asmeniui ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos, išskyrus atvejus, kai skunde nenurodyta jokių asmens kontaktinių duomenų.
-
-
-
-
-4. Jeigu viešojo administravimo subjektas neturi įgaliojimų priimti administracinės procedūros sprendimą dėl skunde išdėstyto klausimo, jis ne vėliau kaip per 5 darbo dienas perduoda skundą viešojo administravimo subjektui, kuris turi reikiamus įgaliojimus, ir apie tai praneša asmeniui. Jeigu paaiškėja, kad, pradėjus administracinę procedūrą, skundą tuo pačiu klausimu pradėjo nagrinėti ir teismas, administracinė procedūra sustabdoma, kol teismas išnagrinės skundą, ir apie tai pranešama asmeniui.
-
-
-
-
-5. Draudžiama persiųsti skundą nagrinėti viešojo administravimo subjektui, jo administracijos padaliniui arba perduoti nagrinėti pareigūnui, valstybės tarnautojui ar darbuotojui, kurių veiksmai yra skundžiami. 
-
-
-
-
-6. Skundas nenagrinėjamas, jeigu tuo pačiu klausimu teismas jau yra priėmęs sprendimą arba tas pats viešojo administravimo subjektas yra priėmęs administracinės procedūros sprendimą ir asmuo nepateikia naujų faktinių duomenų, leidžiančių ginčyti viešojo administravimo subjekto priimtą administracinės procedūros sprendimą, taip pat jeigu nuo skunde nurodytų pažeidimų paaiškėjimo dienos iki skundo padavimo dienos yra praėję daugiau kaip 6 mėnesiai. Apie sprendimą nenagrinėti skundo pranešama asmeniui ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos.
-
-
-
-
-7. Dėl skundo, adresuoto keliems viešojo administravimo subjektams ir priklausančio kelių viešojo administravimo subjektų kompetencijai, administracinę procedūrą pradeda ir skundo nagrinėjimą organizuoja pirmasis skunde nurodytas viešojo administravimo subjektas. Kiti administracinėje procedūroje dalyvaujantys viešojo administravimo subjektai privalo per 10 darbo dienų nuo skundo gavimo dienos pateikti pagal kompetenciją savo pasiūlymus dėl skundo sprendimo administracinę procedūrą pradėjusiam viešojo administravimo subjektui.
-
-
-
-
-8. Viešojo administravimo subjekto vadovas pareigūnų, valstybės tarnautojų ar darbuotojų, dalyvaujančių administracinėje procedūroje, atostogų, komandiruočių, seminarų metu ir kitais nebuvimo darbe atvejais paveda dalyvauti administracinėje procedūroje kitiems pareigūnams, valstybės tarnautojams ar darbuotojams, turintiems ne mažesnius įgaliojimus.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
+23 straipsnis. Neteko galios nuo 2017-03-31
+Straipsnio naikinimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
 
 
-24 straipsnis. Prašymų ir skundų priėmimo laikas
-
-
-1. Viešojo administravimo subjektas privalo organizuoti savo darbą taip, kad asmenys, norintys ar privalantys pateikti prašymą ar skundą asmeniškai, galėtų tai padaryti visą darbo dienos laiką. 
-
-
-
-
-2. Viešojo administravimo subjektas privalo nustatyti ne mažiau kaip dvi papildomas prašymų ir skundų priėmimo valandas per savaitę prieš arba po viešojo administravimo subjekto darbo dienos laiko.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
+24 straipsnis. Neteko galios nuo 2017-03-31
+Straipsnio naikinimas:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -1104,15 +1195,32 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 27 straipsnis. Administracinės procedūros sustabdymas 
 
 
-1. Jeigu administracinės procedūros sprendimas gali pakeisti administracinėje procedūroje nedalyvaujančių asmenų teisinį statusą, administracinė procedūra sustabdoma ir šiems asmenims raštu pranešama apie teisę dalyvauti šioje procedūroje, o asmeniui, dėl kurio pradėta administracinė procedūra, – apie administracinės procedūros sustabdymo pagrindą.
+1. Jeigu administracinės procedūros sprendimas gali pakeisti administracinėje procedūroje nedalyvaujančių asmenų teisinį statusą, administracinė procedūra sustabdoma ir šiems asmenims raštu per 3 darbo dienas nuo administracinės procedūros sustabdymo dienos pranešama apie teisę dalyvauti šioje procedūroje. Kai šie asmenys pareiškia norą dalyvauti procedūroje arba raštu atsisako joje dalyvauti arba jeigu per 10 darbo dienų nuo pranešimo apie teisę dalyvauti administracinėje procedūroje išsiuntimo dienos negautas jų atsakymas dėl dalyvavimo administracinėje procedūroje, administracinė procedūra atnaujinama.
 
 
 
 
-2. Administracinė procedūra tęsiama, kai šio straipsnio 1 dalyje nurodyti asmenys pareiškia norą dalyvauti procedūroje arba raštu atsisako joje dalyvauti, arba jeigu per 10 darbo dienų nuo rašto apie administracinės procedūros sustabdymą išsiuntimo dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti administracinėje procedūroje. 
+2. Jeigu paaiškėja, kad skundo ir (ar) prie jo pridedamų dokumentų turinyje yra nusikalstamos veikos ar administracinių nusižengimų požymių, administracinė procedūra sustabdoma ir tokio skundo kopija ir prie jo pridedamų dokumentų kopijos persiunčiamos institucijai, kompetentingai tirti šiuos teisės pažeidimus. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinių nusižengimų teiseną, administracinė procedūra atnaujinama.
+
+
+
+
+3. Sustabdžius administracinę procedūrą, sustabdomi ir šio įstatymo 31 straipsnyje nustatyti terminai. Administracinę procedūrą atnaujinus, jai nustatyti terminai atnaujinami.
+
+
+
+
+4. Apie sprendimą sustabdyti administracinę procedūrą ir apie sprendimą ją atnaujinti per 3 darbo dienas nuo atitinkamo sprendimo priėmimo dienos raštu informuojamas asmuo, dėl kurio pradėta administracinė procedūra.
+
+
+
+
+5. Jeigu paaiškėja, kad, pradėjus administracinę procedūrą, skundą tuo pačiu klausimu pradėjo nagrinėti ir teismas, administracinė procedūra nutraukiama ir per 5 darbo dienas nuo tokio paaiškėjimo dienos apie tai raštu informuojamas skundą pateikęs asmuo. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
-
-
 
 
 
@@ -1120,12 +1228,12 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 28 straipsnis. Apklausa
 
 
-1. Prieš priimant administracinės procedūros sprendimą, asmuo, dėl kurio yra pradėta administracinė procedūra, taip pat kiti asmenys gali būti apklausiami siekiant išsiaiškinti ginčijamo klausimo esmę ir su juo susijusias aplinkybes, išskyrus šio straipsnio 2 dalyje nustatytą atvejį, kai apklausa privaloma. 
+1. Prieš priimant administracinės procedūros sprendimą, asmuo, dėl kurio yra pradėta administracinė procedūra, taip pat kiti asmenys gali būti apklausiami siekiant išsiaiškinti ginčijamo klausimo esmę ir su juo susijusias aplinkybes.
 
 
 
 
-2. Administracinės procedūros sprendimas priimamas tik apklausus asmenį, dėl kurio galimai pažeistų teisių ir teisėtų interesų buvo gautas pranešimas ir dėl gauto pranešimo pradėta administracinė procedūra. Jeigu šis asmuo atsisako atvykti į apklausą arba yra kitos objektyvios priežastys, dėl kurių apklausti asmenį per administracinei procedūrai nustatytą laiką neįmanoma, administracinė procedūra nutraukiama.
+2. Jeigu skunde nėra aiški ginčijamo klausimo esmė ir su juo susijusios aplinkybės arba asmuo išreiškė pageidavimą būti apklausiamas, administracinės procedūros sprendimas priimamas tik apklausus asmenį, dėl kurio galimai pažeistų teisių ir teisėtų interesų buvo gautas skundas ir dėl gauto skundo pradėta administracinė procedūra. Jeigu dėl objektyvių priežasčių apklausti asmenį per administracinei procedūrai nustatytą laiką neįmanoma, administracinė procedūra nutraukiama.
 
 
 
@@ -1138,12 +1246,14 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 
 
 
-2) pagal teisės aktų reikalavimus administracinės procedūros sprendimas turi būti priimtas nedelsiant.
+2) administracinės procedūros sprendimas turi būti priimtas nedelsiant. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
-
-
-
-
 
 
 
@@ -1183,10 +1293,12 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 31 straipsnis. Administracinės procedūros terminai
 
 
-Administracinė procedūra turi būti baigta ir administracinės procedūros sprendimas priimtas per 20 darbo dienų nuo jos pradžios. Kai dėl objektyvių priežasčių per šį terminą administracinė procedūra negali būti baigta, administracinę procedūrą pradėjęs viešojo administravimo subjektas gali ją pratęsti, bet ne ilgiau kaip 10 darbo dienų. Asmeniui apie administracinės procedūros termino pratęsimą pranešama raštu arba elektroniniu paštu (kai skundas gautas elektroniniu paštu) ir nurodomos pratęsimo priežastys.
+Administracinė procedūra turi būti baigta ir administracinės procedūros sprendimas priimtas per 20 darbo dienų nuo jos pradžios. Kai dėl objektyvių priežasčių per šį terminą administracinė procedūra negali būti baigta, administracinę procedūrą pradėjęs viešojo administravimo subjektas gali ją pratęsti, bet ne ilgiau kaip 10 darbo dienų. Asmeniui apie administracinės procedūros termino pratęsimą per 2 darbo dienas nuo sprendimo pratęsti administracinės procedūros terminą priėmimo dienos pranešama raštu ir nurodomos pratęsimo priežastys. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
-
-
 
 
 
@@ -1223,20 +1335,22 @@ Pareigūnas, valstybės tarnautojas ar darbuotojas, atlikęs administracinę pro
 
 
 
-34 straipsnis. Administracinės procedūros sprendimo priėmimas 
+34 straipsnis. Administracinės procedūros sprendimo priėmimas, įteikimas (išsiuntimas) ir saugojimas 
 
 
-1. Administracinė procedūra baigiama administracinės procedūros sprendimo priėmimu. Asmeniui, dėl kurio pradėta administracinė procedūra, ne vėliau kaip per 3 darbo dienas raštu pranešama apie priimtą administracinės procedūros sprendimą ir nurodomos faktinės aplinkybės, nustatytos skundo nagrinėjimo metu, teisės aktai, kuriais vadovaujantis priimtas administracinės procedūros sprendimas, ir sprendimo apskundimo tvarka.
+1. Administracinė procedūra baigiama administracinės procedūros sprendimo priėmimu. Asmeniui, dėl kurio pradėta administracinė procedūra, ne vėliau kaip per 3 darbo dienas nuo administracinės procedūros sprendimo priėmimo dienos raštu pranešama apie priimtą administracinės procedūros sprendimą ir nurodomos faktinės aplinkybės, nustatytos skundo nagrinėjimo metu, teisės aktai, kuriais vadovaujantis priimtas administracinės procedūros sprendimas, ir sprendimo apskundimo tvarka. Asmeniui, kuris kreipėsi dėl administracinės procedūros pradėjimo, per 3 darbo dienas nuo administracinės procedūros sprendimo priėmimo dienos, laikantis asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų reikalavimų, raštu pateikiama informacija apie priimtą administracinės procedūros sprendimą.
 
 
 
 
-2. Administracinės procedūros sprendimas parengiamas trimis egzemplioriais, vienas iš jų įteikiamas ar išsiunčiamas asmeniui, dėl kurio buvo pradėta administracinė procedūra, antras įteikiamas ar išsiunčiamas viešojo administravimo subjektui, kurio veiksmai buvo skundžiami, trečias lieka viešojo administravimo subjektui, kuris atliko administracinę procedūrą, ir saugomas teisės aktų nustatyta tvarka.
+2. Viešojo administravimo subjektas, atlikęs administracinę procedūrą, administracinės procedūros sprendimo originalą įteikia, kai pats asmuo ar jo įgaliotas asmuo atvyksta jo atsiimti, ar išsiunčia asmeniui, dėl kurio buvo pradėta administracinė procedūra, ir viešojo administravimo subjektui, kurio veiksmai buvo skundžiami, ir vieną administracinės procedūros sprendimo egzempliorių pasilieka saugoti laikydamasis teisės aktų, reglamentuojančių dokumentų valdymą, reikalavimų. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -1245,7 +1359,10 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 35 straipsnis. Klaidų ištaisymo procedūra
 
 
-1. Administracinės procedūros sprendimą priėmęs viešojo administravimo subjektas, gavęs asmens, dėl kurio buvo pradėta administracinė procedūra, ar kito suinteresuoto asmens motyvuotą pranešimą apie skaičiavimo, spausdinimo, faktinių duomenų neatitikimo ar kitas technines klaidas, imasi reikalingų priemonių klaidoms ištaisyti. 
+1. Administracinės procedūros sprendimą priėmęs viešojo administravimo subjektas, gavęs asmens, dėl kurio buvo pradėta administracinė procedūra, ar kito asmens motyvuotą informaciją apie skaičiavimo, spausdinimo, faktinių duomenų neatitikimo ar kitas technines klaidas, imasi reikalingų priemonių klaidoms ištaisyti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -1255,7 +1372,9 @@ Nr. XII-935, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09160
 
 
 
-3. Klaidos turi būti ištaisytos administracinės procedūros sprendimo egzemplioriuje, kurį saugo administracinės procedūros sprendimą priėmęs viešojo administravimo subjektas. Asmeniui per 3 darbo dienas įteikiamas naujas arba pataisytas dokumentas (administracinės procedūros sprendimas).
+3. Asmeniui, dėl kurio buvo pradėta administracinė procedūra, ir viešojo administravimo subjektui, kurio veiksmai buvo skundžiami, per 3 darbo dienas nuo klaidų ištaisymo dienos įteikiamas ar išsiunčiamas pataisytas dokumentas (administracinės procedūros sprendimas). 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
 
 
@@ -1727,25 +1846,27 @@ Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
 37 straipsnis. Tarnybinės pagalbos prašymo atvejai
 
 
-Viešojo administravimo subjektas gali prašyti kito viešojo administravimo subjekto tarnybinės pagalbos administracinės procedūros sprendimui priimti, jeigu:
+Viešojo administravimo subjektas gali prašyti kito viešojo administravimo subjekto tarnybinės pagalbos prašymui nagrinėti ar administracinės procedūros sprendimui priimti:
 
 
-1) administracinės procedūros sprendimui priimti reikia informacijos, kurios jis pats neturi;
-
-
-
-
-2) reikalingi dokumentai, kuriuos turi tik viešojo administravimo subjektas, į kurį kreipiamasi;
+1) jeigu reikia informacijos, kurios jis pats neturi;
 
 
 
 
-3) kitais būtinais atvejais.
+2) jeigu reikalingi dokumentai, kuriuos turi tik viešojo administravimo subjektas, į kurį kreipiamasi;
+
+
+
+
+3) kitais būtinais atvejais. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
-
-
-
-
 
 
 
@@ -1795,7 +1916,10 @@ Kai tarnybinę pagalbą gali suteikti keli viešojo administravimo subjektai, pi
 
 
 
-2. Viešojo administravimo subjektas, į kurį kreipiamasi tarnybinės pagalbos, privalo ją suteikti, išskyrus 38 straipsnyje išvardytus atvejus. Tarnybinė pagalba suteikiama ne vėliau kaip per 5 darbo dienas nuo kreipimosi dėl tarnybinės pagalbos suteikimo gavimo dienos.
+2. Viešojo administravimo subjektas, į kurį kreipiamasi tarnybinės pagalbos, privalo ją suteikti, išskyrus šio įstatymo 38 straipsnyje išvardytus atvejus. Tarnybinė pagalba suteikiama ne vėliau kaip per 5 darbo dienas nuo kreipimosi dėl tarnybinės pagalbos suteikimo gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
 
 
 
@@ -1829,13 +1953,20 @@ Nr. XI-934, 2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 
 
-41 straipsnis. Trečiojo skirsnio nuostatų taikymas
+41 straipsnis. 14 straipsnio ir trečiojo skirsnio nuostatų taikymas
 
 
-Šio įstatymo trečiojo skirsnio nuostatos Valstybės kontrolei, Seimo kontrolieriams, Vyriausybės atstovams apskrityse, kitiems viešojo administravimo subjektams, atliekantiems funkcijas pagal atskiruose įstatymuose ar kituose teisės aktuose nustatytą tvarką, taikomos tiek, kiek jų veiklos priimant sprendimus dėl prašymų ar skundų nenustato jų veiklą reglamentuojantys įstatymai ar kiti teisės aktai.
+1. Šio įstatymo 14 straipsnio 2 dalis netaikoma Lietuvos Respublikos diplomatinėms atstovybėms ir konsulinėms įstaigoms. 
+
+
+
+
+2. Šio įstatymo trečiojo skirsnio nuostatos Valstybės kontrolei, Seimo kontrolieriams, Vyriausybės atstovams apskrityse, kitiems viešojo administravimo subjektams, atliekantiems funkcijas pagal atskiruose įstatymuose ar kituose teisės aktuose nustatytą tvarką, taikomos tiek, kiek jų veiklos priimant sprendimus dėl prašymų ar skundų nenustato jų veiklą reglamentuojantys įstatymai. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
  
-
-
 
 
 
@@ -2019,3 +2150,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 4-1, 15 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2, 8, 36-1, 36-2, 36-4 straipsnių pakeitimo ir Įstatymo papildymo 36-8 ir 36-9 straipsniais įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 3, 14, 14-1, 15, 16, 19, 22, 27, 28, 31, 34, 35, 37, 40 ir 41 straipsnių pakeitimo, Įstatymo papildymo 17-1 straipsniu, 21, 23 ir 24 straipsnių pripažinimo netekusiais galios įstatymas
