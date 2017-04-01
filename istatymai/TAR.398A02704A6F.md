@@ -13,6 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
+Suvestinė redakcija nuo 2017-04-01 iki 2017-09-30
+ 
+Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TIKSLINIŲ KOMPENSACIJŲ
 ĮSTATYMAS
@@ -190,12 +198,12 @@ Tikslines kompensacijas skiria ir moka savivaldybių administracijos, vadovaudam
 
 
 
-3. Savivaldybės administracija sprendimą dėl tikslinės kompensacijos skyrimo privalo priimti ne vėliau kaip per 10 darbo dienų nuo prašymo skirti tikslinę kompensaciją su visais reikiamais dokumentais arba papildomų dokumentų gavimo.
+3. Kreipiantis dėl tikslinės kompensacijos skyrimo arba paskirtos tikslinės kompensacijos mokėjimo, privaloma pateikti visus šiame įstatyme ir Tikslinių kompensacijų skyrimo ir mokėjimo nuostatuose nurodytus dokumentus. Asmens sveikatos būklė šio straipsnio 4 dalies 3 ir 4 punktuose numatytais atvejais patvirtinama medicininiais dokumentais, o šio straipsnio 5 dalies 3 punkte nurodyta aplinkybė – savivaldybės administracijos surašytu buities ir gyvenimo sąlygų patikrinimo aktu. 
 
 
 
 
-4. Tikslinės kompensacijos skiriamos ir mokamos asmenims, kurie turi teisę gauti šias išmokas, išskyrus šiuos atvejus:
+4. Tikslinės kompensacijos mokamos asmenims, kurie turi teisę gauti šias išmokas, išskyrus šiuos atvejus:
 
 
 1) tikslinės kompensacijos, paskirtos asmenims iki 18 metų, mokamos vienam iš neįgalaus vaiko (įvaikio) tėvų (įtėvių), globėjui arba rūpintojui; 
@@ -203,27 +211,74 @@ Tikslines kompensacijas skiria ir moka savivaldybių administracijos, vadovaudam
 
 
 
-2) tikslinės kompensacijos, paskirtos sukakusiems 18 metų asmenims, kuriems įstatymų nustatyta tvarka yra paskirti globėjai ar rūpintojai, mokamos jų globėjams ar rūpintojams. Jeigu rūpintojas įstatymų nustatyta tvarka paskirtas asmens prašymu, tikslinė kompensacija rūpintojui mokama tik tuo atveju, jeigu šios išmokos gavėjas sutinka.
+2) tikslinės kompensacijos, paskirtos sukakusiems 18 metų asmenims, kuriems yra paskirti globėjai ar rūpintojai, mokamos jų globėjams ar rūpintojams;
+
+
+
+
+3) tikslinė kompensacija ar tikslinis priedas, paskirti 18 metų sukakusiems asmenims, kurie dėl sveikatos būklės negali patys atsiimti paskirtos išmokos ir įgalioti, kad ją atsiimtų kitas asmuo (negali išreikšti savo valios), ir kuriems nepaskirti globėjai ar rūpintojai (toliau – slaugomas asmuo), mokami veiksniam šioje srityje ne socialinės rizikos asmeniui, kuris yra kreipęsis į teismą dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba dėl globos (rūpybos) nustatymo ir ši civilinė byla yra iškelta, išskyrus šios dalies 4 punkte nurodytą atvejį;
+
+
+
+
+4) jeigu į teismą dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba dėl globos (rūpybos) nustatymo kreipėsi prokuroras arba globos ir rūpybos institucija ir ši civilinė byla yra iškelta, tikslinė kompensacija ar tikslinis priedas mokami veiksniam šioje srityje ne socialinės rizikos asmeniui, kuris kreipėsi į prokurorą ar globos ir rūpybos instituciją dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba dėl globos (rūpybos) nustatymo.
 
 
 
 
 
 
-5. Tikslinės kompensacijos didinamos kiekvieną kartą patvirtinus naują tikslinių kompensacijų bazės dydį. 
+5. Šio straipsnio 4 dalies 4 punkte nurodytu atveju asmuo, kuris kreipiasi dėl tikslinės kompensacijos ar tikslinio priedo mokėjimo, turi atitikti bent vieną iš šių sąlygų:
+
+
+1) yra deklaravęs gyvenamąją vietą tuo pačiu adresu kaip ir slaugomas asmuo;
 
 
 
 
-6. Tikslinės kompensacijos gavėjas ar vienas iš jo tėvų (įtėvių), globėjas ar rūpintojas privalo pranešti savivaldybės administracijai apie aplinkybes, turinčias įtakos tikslinės kompensacijos dydžiui ar mokėjimui, per 10 dienų nuo šių aplinkybių atsiradimo dienos. Savivaldybės administracija privalo pranešti tikslinės kompensacijos gavėjui arba vienam iš jo tėvų (įtėvių), globėjui ar rūpintojui, kokios aplinkybės turi įtakos šių išmokų mokėjimui. Jeigu tikslinės kompensacijos gavėjas arba vienas iš jo tėvų (įtėvių), globėjas ar rūpintojas apie tokias aplinkybes savivaldybės administracijai laiku nepraneša ir dėl to permokama tikslinė kompensacija, permokėta suma grąžinama arba iš gavėjo išieškoma savivaldybės administracijos direktoriaus sprendimu.
+2) yra slaugomo asmens artimasis giminaitis;
 
 
 
 
-7. Išskaitant permoką šio straipsnio 6 dalyje numatytu atveju iš gavėjui priklausančios tikslinės kompensacijos per mėnesį išskaitoma ne daugiau kaip po 20 procentų mokėtinos tikslinės kompensacijos sumos tol, kol bus visiškai padengta permokėta suma. Gavėjo rašytiniu prašymu ar sutikimu gali būti išskaičiuojama daugiau kaip 20 procentų mokėtinos tikslinės kompensacijos sumos. Jeigu tikslinės kompensacijos mokėjimas gavėjui nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota, likęs įsiskolinimas išieškomas teismo tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.
+3) yra asmuo, neįregistravęs santuokos su slaugomu asmeniu, tačiau tvarkantis su juo bendrą ūkį;
+
+
+
+
+4) iki slaugomo asmens pilnametystės buvo jo globėjas (rūpintojas).
+
+
+
+
+
+
+6. Tikslinė kompensacija ar tikslinis priedas šio straipsnio 4 dalies 3 arba 4 punkte nurodytam asmeniui (toliau – slaugantis asmuo) mokami jo prašymu ir tol, kol išlieka visos šio straipsnio 4 dalies 3 punkte nurodytos aplinkybės ir kol šio straipsnio 4 dalies 4 punkte nurodytas asmuo atitinka bent vieną iš šio straipsnio 5 dalyje nurodytų sąlygų, tačiau ne ilgiau, negu įsiteisėja teismo sprendimas dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje ir globos (rūpybos) nustatymo. 
+
+
+
+
+7. Savivaldybės administracija per Tikslinių kompensacijų skyrimo ir mokėjimo nuostatuose nustatytą terminą privalo priimti sprendimą dėl tikslinės kompensacijos skyrimo arba jau paskirtų tikslinės kompensacijos ar tikslinio priedo mokėjimo slaugančiam asmeniui ir apie tai raštu pranešti pareiškėjui. 
+
+
+
+
+8. Tikslinės kompensacijos didinamos kiekvieną kartą patvirtinus naują tikslinių kompensacijų bazės dydį. 
+
+
+
+
+9. Tikslinės kompensacijos gavėjas ar vienas iš jo tėvų (įtėvių), globėjas, rūpintojas arba slaugantis asmuo privalo pranešti savivaldybės administracijai apie aplinkybes, turinčias įtakos tikslinės kompensacijos mokėjimui, per 10 dienų nuo šių aplinkybių atsiradimo dienos. Savivaldybės administracija, informuodama pareiškėją apie priimtą sprendimą paskirti tikslinę kompensaciją ar mokėti jau paskirtus tikslinę kompensaciją ar tikslinį priedą, kartu privalo pranešti tikslinės kompensacijos gavėjui arba vienam iš jo tėvų (įtėvių), globėjui, rūpintojui arba slaugančiam asmeniui, kokios aplinkybės turi įtakos šių išmokų mokėjimui. Permokėta tikslinės kompensacijos suma arba tikslinės kompensacijos ar tikslinio priedo gavėjui priklausiusi, tačiau slaugančiam asmeniui neteisėtai išmokėta tikslinės kompensacijos ar tikslinio priedo suma grąžinama savivaldybės administracijos nustatyta tvarka arba išieškoma šio straipsnio 10 dalyje nustatyta tvarka. Jeigu tikslinė kompensacija permokama dėl savivaldybės administracijos kaltės, nereikalaujama, kad tikslinės kompensacijos gavėjas permokėtą sumą grąžintų, ir permokėta suma iš jo neišieškoma.
+
+
+
+
+10. Jeigu slaugantis asmuo negrąžina tikslinės kompensacijos ar tikslinio priedo gavėjui priklausiusios, tačiau slaugančiam asmeniui neteisėtai išmokėtos tikslinės kompensacijos ar tikslinio priedo sumos, ši suma išieškoma iš slaugančio asmens teismo tvarka. Permokėta, tačiau negrąžinta tikslinės kompensacijos suma išieškoma iš tikslinės kompensacijos gavėjui priklausančios tikslinės kompensacijos. Išieškoma suma per mėnesį negali viršyti 20 procentų asmeniui priklausančios tikslinės kompensacijos. Rašytiniu gavėjo prašymu gali būti išieškoma daugiau kaip 20 procentų, tačiau ne daugiau kaip 50 procentų mokėtinos tikslinės kompensacijos sumos per mėnesį. Jeigu tikslinės kompensacijos mokėjimas gavėjui nutraukiamas, o visa permokėta suma neišieškota, likusi skola išieškoma teismo tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-150, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29783
  
-
-
 
 
 
@@ -283,7 +338,10 @@ Tikslines kompensacijas skiria ir moka savivaldybių administracijos, vadovaudam
 10 straipsnis. Tikslinių kompensacijų skyrimo ir mokėjimo ypatumai
 
 
-1. Tikslinės kompensacijos asmenims, gyvenantiems ar slaugomiems (prižiūrimiems) stacionariose socialinės globos, auklėjimo ar slaugos įstaigose, neskiriamos ir nemokamos. Kai šie asmenys laikinai ar visam laikui išvyksta iš šių įstaigų, tikslinės kompensacijos neįgalaus asmens arba vieno iš jo tėvų (įtėvių), globėjo ar rūpintojo prašymu skiriamos, o paskirtosios pradedamos mokėti nuo kitos dienos po to, kai jie išvyko iš šių įstaigų. Jeigu šie asmenys vėl grįžta į nurodytas įstaigas, tikslinės kompensacijos nemokamos nuo kitos dienos po to, kai jie vėl apgyvendinti ar pradėti slaugyti šiose įstaigose.
+1. Tikslinės kompensacijos asmenims, gyvenantiems ar slaugomiems (prižiūrimiems) stacionariose socialinės globos, auklėjimo ar slaugos įstaigose, neskiriamos ir nemokamos. Kai šie asmenys laikinai ar visam laikui išvyksta iš šių įstaigų, tikslinės kompensacijos skiriamos, o paskirtosios pradedamos mokėti nuo kitos dienos po to, kai jie išvyko iš šių įstaigų. Jeigu šie asmenys vėl grįžta į stacionarias socialinės globos, auklėjimo ar slaugos įstaigas, tikslinės kompensacijos nemokamos nuo kitos dienos po to, kai jie vėl apgyvendinti ar pradėti slaugyti šiose įstaigose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-150, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29783
+ 
 
 
 
@@ -444,3 +502,15 @@ priedas
 
 
 1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-150, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29783
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 7 ir 10 straipsnių pakeitimo įstatymas
