@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-03
+Suvestinė redakcija nuo 2017-04-04 iki 2017-05-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -624,7 +624,11 @@ Nr. XIII-180, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29868
 102 straipsnis. Išmoka gimus vienu metu daugiau kaip vienam vaikui 
 
 
-1. Kai vienu metu gimsta du ar daugiau vaikų, vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) skiriama išmoka gimus vienu metu daugiau kaip vienam vaikui ir ši išmoka mokama nuo vaikų gimimo dienos, iki jiems sukaks 2 metai.
+1. Kai vienu metu gimsta du ar daugiau vaikų, vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) skiriama išmoka gimus vienu metu daugiau kaip vienam vaikui ir ši išmoka mokama nuo vaikų, įskaitant gimusius iki 2017 m. sausio 1 d., gimimo dienos, iki jiems sukaks 2 metai. 
+TAR pastaba. Jeigu iki šio įstatymo (Nr. XIII-237)  įsigaliojimo vienu metu gimė du ar daugiau vaikų ir jiems nebuvo sukakę 2 metai, išmoka gimus vienu metu daugiau kaip vienam vaikui vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) skiriama ir mokama (išmokama) už praėjusius mėnesius nuo 2017 m. sausio 1 d. iki vaikams sukaks (sukako) 2 metai
+Straipsnio dalies pakeitimai:
+Nr. XIII-237, 2017-03-28, paskelbta TAR 2017-04-03, i. k. 2017-05490
+ 
 
 
 
@@ -1247,3 +1251,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 8, 12, 20 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-180, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29868
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 10, 12, 13 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XII-2500 5 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-237, 2017-03-28, paskelbta TAR 2017-04-03, i. k. 2017-05490
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 10-2 straipsnio pakeitimo įstatymas
