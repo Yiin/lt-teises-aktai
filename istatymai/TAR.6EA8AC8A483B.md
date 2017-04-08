@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-07
+Suvestinė redakcija nuo 2017-04-08 iki 2017-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -69,7 +69,10 @@ Nr. XI-1596, 2011-09-22, Žin., 2011, Nr. 121-5704 (2011-10-08)
 4 straipsnis. Geležinkelių transporto kodekso taikymas
 
 
-1. Geležinkelių transporto kodeksas taikomas santykiams, atsirandantiems iš naudojimosi viešąja geležinkelių infrastruktūra, geležinkelių infrastruktūros valdymo, naudojimo ir disponavimo ja, keleivių, bagažo ir (ar) krovinių vežimo Lietuvos Respublikos geležinkelių transportu, išskyrus šiame straipsnyje nustatytas išimtis. Kiti Lietuvos Respublikos įstatymai nurodytiems santykiams taikomi tiek, kiek šis Kodeksas nenustato kitaip.
+1. Geležinkelių transporto kodeksas taikomas santykiams, atsirandantiems iš naudojimosi viešąja geležinkelių infrastruktūra, geležinkelių infrastruktūros valdymo, naudojimo ir disponavimo ja, geležinkelių paslaugų įrenginių valdymo, keleivių, bagažo ir (ar) krovinių vežimo Lietuvos Respublikos geležinkelių transportu, išskyrus šiame straipsnyje nustatytas išimtis. Kiti Lietuvos Respublikos įstatymai nurodytiems santykiams taikomi tiek, kiek šis Kodeksas nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-268, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05922
+ 
 
 
 
