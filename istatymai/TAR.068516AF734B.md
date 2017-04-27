@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
+Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
- 
-TAR pastaba. Asmenims, įgijusiems teisę gauti socialinio draudimo išmokas iki šio įstatymo įsigaliojimo, išskyrus asmenis, kurie nuo 2016 m. kovo 15 d. iki šio įstatymo įsigaliojimo įgijo teisę gauti motinystės pašalpą (motinystės išmoką), socialinio draudimo išmokos neperskaičiuojamos ir mokamos pagal iki šio įstatymo įsigaliojimo nustatytą tvarką. Asmenims, nuo 2016 m. kovo 15 d. iki šio įstatymo įsigaliojimo įgijusiems teisę gauti motinystės pašalpą (motinystės išmoką), motinystės pašalpos (motinystės išmokos), apskaičiuotos pagal vidutinį mėnesinį kompensuojamąjį uždarbį, apribotą teisės į šią pašalpą (išmoką) atsiradimo mėnesį galiojusių Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų 3,2 dydžio suma, iki 2017 m. kovo 31 d. perskaičiuojamos taikant šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatas ir iki 2017 m. birželio 30 d. išmokamas susidaręs motinystės pašalpos (motinystės išmokos) skirtumas. Šis skirtumas mokamas tuo pačiu būdu, kuriuo buvo mokama neperskaičiuota motinystės pašalpa (motinystės išmoka), jeigu asmuo, kuriam jis turi būti išmokėtas iki jo išmokėjimo nepateikia prašymo dėl kito išmokėjimo būdo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo įstatymo Nr. XII-2501 1 ir 2 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2501, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20641
@@ -231,7 +226,10 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 
 
-3. Jeigu visą šio straipsnio 2 dalyje nurodytą laikotarpį arba jo dalį apdraustajam asmeniui buvo mokama vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką arba jam buvo suteiktos prieš tai gimusio vaiko nėštumo ir gimdymo, tėvystės, vaiko priežiūros atostogos, globojamo vaiko nėštumo ir gimdymo, vaiko priežiūros atostogos arba įvaikinto vaiko tėvystės, vaiko priežiūros atostogos, jo prašymu nauja motinystės, tėvystės ar vaiko priežiūros išmoka gali būti apskaičiuota iš kompensuojamojo uždarbio, pagal kurį buvo apskaičiuota atitinkama ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką.
+3. Jeigu visą šio straipsnio 2 dalyje nurodytą laikotarpį arba jo dalį apdraustajam asmeniui buvo mokama vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką arba jam buvo suteiktos prieš tai gimusio vaiko nėštumo ir gimdymo, tėvystės, vaiko priežiūros atostogos, globojamo vaiko nėštumo ir gimdymo, vaiko priežiūros atostogos arba įvaikinto vaiko tėvystės, vaiko priežiūros atostogos, jo prašymu nauja motinystės, tėvystės ar vaiko priežiūros išmoka gali būti apskaičiuota iš kompensuojamojo uždarbio, pagal kurį buvo apskaičiuota atitinkama ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką. Kai ankstesnė (pirmesnė) motinystės, tėvystės ar vaiko priežiūros išmoka už prieš tai gimusį (globojamą ar įvaikintą) vaiką buvo apskaičiuota iš kompensuojamojo uždarbio, apriboto maksimaliu kompensuojamojo uždarbio dydžiu, nauja motinystės, tėvystės ar vaiko priežiūros išmoka apskaičiuojama pagal faktinį asmens kompensuojamąjį uždarbį, apskaičiuotą teisės į atitinkamą ankstesnę (pirmesnę) motinystės, tėvystės ar vaiko priežiūros išmoką dieną. Apskaičiuojant tėvystės ar vaiko priežiūros išmoką, taikomas šio straipsnio 5 dalyje nurodytas maksimalus kompensuojamojo uždarbio dydis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
+ 
 
 
 
@@ -367,7 +365,10 @@ LIGOS IŠMOKA
 
 
 
-3. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui, kuris dėl savo ar kito vaiko iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus.
+3. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui) ar globėjui, prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui), kuris dėl savo ar kito vaiko (globojamo vaiko) iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
+ 
 
 
 
@@ -1266,3 +1267,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo įstatymo Nr. XII-2501 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 6 ir 10 straipsnių pakeitimo įstatymas
