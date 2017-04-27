@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
+Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -714,12 +714,12 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 
 
-3) kontroliuoja, kaip miško valdytojai, savininkai ir naudotojai saugo miškus nuo gaisrų, kenkėjų, ligų ir kitų neigiamų veiksnių, laiku ir tinkamai atkuria iškirstą mišką, mišką naudoja tokiais būdais, kurie padėtų mažinti neigiamą poveikį aplinkai, racionaliai ūkininkauja miško žemėje (miške), palaiko dirvožemio našumą, saugo biologinę įvairovę, laikosi įstatymų ir kitų teisės aktų nustatytų reikalavimų;
+3) kontroliuoja, kaip miško valdytojai, savininkai ir naudotojai saugo mišką nuo gaisrų, kenkėjų, ligų ir kitų neigiamų veiksnių, laiku ir tinkamai atkuria iškirstą mišką, mišką naudoja tokiais būdais, kurie padėtų mažinti neigiamą poveikį aplinkai, racionaliai ūkininkauja miško žemėje (miške), palaiko dirvožemio našumą, saugo biologinę įvairovę, laikosi įstatymų ir kitų teisės aktų nustatytų reikalavimų;
 
 
 
 
-4) gavę pranešimą apie šio įstatymo bei kitų gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, imasi visų priemonių, kad būtų išaiškintas pažeidimas ir nustatyti pažeidėjai, o jei patys to padaryti negali, informuoja kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti ir pažeidėjui nustatyti;
+4) gavę pranešimą apie šio įstatymo ir kitų gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, imasi visų priemonių, kad būtų išaiškintas pažeidimas ir nustatyti pažeidėjai, o jei patys to padaryti negali, informuoja kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti ir pažeidėjui nustatyti;
 
 
 
@@ -744,28 +744,22 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 
 
-2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka stabdyti ir tikrinti transportą ir dokumentus, įtarus, kad šiuo transportu gabenama mediena, kiti miško ištekliai, įsigyti neturint nustatyta tvarka išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas, arba gabenami teisės aktų nustatytą tvarką pažeidžiant sumedžioti gyvūnai;
+2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka stabdyti ir tikrinti transportą ir dokumentus, įtarus, kad šiuo transportu gabenama mediena, kiti miško ištekliai, įsigyti neturint nustatyta tvarka išduoto leidimo, kai pagal galiojančius teisės aktus toks leidimas reikalingas, arba gabenami pažeidžiant teisės aktų nustatytą tvarką sumedžioti gyvūnai;
 
 
 
 
-3) reikalauti iš juridinių ir fizinių asmenų pažymų apie miško išteklių įsigijimą ir naudojimą, o jeigu jų nėra, – reikalauti žodinių ir raštiškų pasiaiškinimų dėl veiksmų, susijusių su miško išteklių naudojimu;
+3) reikalauti iš juridinių ir fizinių asmenų pažymų apie miško išteklių įsigijimą ir naudojimą, o jeigu jų nėra, – reikalauti žodinių ir rašytinių pasiaiškinimų dėl veiksmų, susijusių su miško išteklių naudojimu;
 
 
 
 
 4) įstatymų nustatyta tvarka paimti iš asmenų, padariusių administracinius nusižengimus, neteisėtai įsigytą medieną, kitus miško išteklius ar sumedžiotus gyvūnus, brakonieriavimo priemones; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
- 
 
 
 
 
-5) asmenis, padariusius administracinius nusižengimus, jų sutikimu, įstatymų nustatyta tvarka pristatyti į policiją arba į savivaldybės seniūnijos patalpas kaimo gyvenamojoje vietovėje asmens tapatybei nustatyti, o jiems nesutinkant – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
- 
+5) asmenis, padariusius administracinius nusižengimus, jų sutikimu įstatymų nustatyta tvarka pristatyti į policiją arba į savivaldybės seniūnijos patalpas kaimo gyvenamojoje vietovėje asmens tapatybei nustatyti, o kai jie nesutinka, – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo; 
 
 
 
@@ -775,119 +769,41 @@ Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
 
 
 
-7) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių nusižengimų kodekse;
-Straipsnio punkto pakeitimai:
-Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
- 
+7) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Lietuvos Respublikos administracinių nusižengimų kodekse;
 
 
 
 
-8) Ginklų ir šaudmenų kontrolės įstatymo nustatyta tvarka saugoti, laikyti ir nešioti šaunamąjį ginklą, o šio straipsnio 3–9 dalyse nustatyta tvarka naudoti šaunamąjį ginklą, fizinę ir psichinę prievartą bei specialiąsias priemones;
+8) Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo nustatyta tvarka saugoti, nešioti šaunamąjį ginklą, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo, išskyrus 41 straipsnio 5 dalies 4 ir 5 punktus, nustatytais atvejais ir tvarka panaudoti psichinę ir fizinę prievartą bei šaunamąjį ginklą;
 
 
 
 
 9) įstatymų nustatyta tvarka surašyti juridinių asmenų padarytų pažeidimų protokolus, nagrinėti bylas dėl ekonominių sankcijų skyrimo, skirti ekonomines sankcijas juridiniams asmenims už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Lietuvos Respublikos aplinkos apsaugos įstatyme; 
-Papildyta straipsnio punktu:
-Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
- 
 
 
 
 
-10) valstybiniai miškų pareigūnai turi ir kitų įstatymų suteiktų teisių.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
- 
+10) kitų įstatymų suteiktas teises.
 
 
 
 
 
 
-3. Atlikdamas tarnybines pareigas valstybinis miškų pareigūnas turi teisę panaudoti fizinę prievartą (fizinę jėgą, kovinių imtynių veiksmus) ir psichinę prievartą (įspėjimą apie ketinimą panaudoti fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą), specialiąsias priemones (įstatymų leidžiamas priemones (gumines lazdas, antrankius ir surišimo priemones, asmens apsaugai skirtas dujas, transporto priemonių priverstinio stabdymo priemones, elektrošoko įrenginius, tarnybinius šunis), skirtas savigynai, asmenims sulaikyti, sutramdyti, kai jie kelia ar gali kelti grėsmę valstybiniam miškų pareigūnui, taip pat skirtas transporto priemonėms priverstinai stabdyti):
+3. Valstybiniai miškų pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti pagal darbo sutartis, būti privačių medienos ruošos, medienos perdirbimo, prekybos mediena ir medžioklės aptarnavimo įmonių steigėjais ar juridinio asmens dalyviais (akcininkais, nariais, dalininkais), vykdyti nepriklausomo medienos matuotojo veiklą ir kitų įstatymų draudžiamą veiklą.
 
 
-1) siekdamas apsaugoti save nuo gresiančio pavojaus gyvybei;
 
 
-
-
-2) kai asmuo vengia vykdyti teisėtą valstybinio miškų pareigūno reikalavimą;
-
-
-
-
-3) prieš transporto priemonę, kai jos vairuotojas nepakluso valstybinio miškų pareigūno aiškiai išreikštam teisėtam reikalavimui sustoti.
-
-
-
-
-
-
-4. Valstybinis miškų pareigūnas, atlikdamas tarnybines pareigas, turi teisę panaudoti šaunamąjį ginklą:
-
-
-1) prieš asmenį gindamas save nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei nusikalstamo kėsinimosi;
-
-
-
-
-2) sulaikydamas asmenį, įtariamą nusikalstamos veikos padarymu, ar ją padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, taip pat atsisakantį įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų;
-
-
-
-
-3) prieš gyvūną, kai jis kelia grėsmę pareigūno gyvybei ar sveikatai.
-
-
-
-
-
-
-5. Valstybinis miškų pareigūnas turi teisę panaudoti prievartos priemones tik esant tarnybiniam būtinumui ir tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, tik po to, kai įtikinimo priemonės buvo neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo ribas valstybinis miškų pareigūnas pasirenka atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą valstybinis miškų pareigūnas privalo stengtis išvengti didelės žalos žmonėms ir turtui.
-
-
-
-
-6. Prieš naudodamas prievartą, valstybinis miškų pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę valstybinio miškų pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas yra neįmanomas.
-
-
-
-
-7. Apie valstybinio miškų pareigūno panaudotą prievartą, sukėlusią asmens mirtį arba sužalojimą, nedelsiant informuojamas prokuroras.
-
-
-
-
-8. Draudžiama panaudoti kovinių imtynių veiksmus, specialiąsias priemones ir šaunamąjį ginklą prieš moteris, kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie invalidai ar nepilnamečiai (jeigu jų amžius žinomas pareigūnui arba išvaizda atitinka amžių), išskyrus atvejus, kai jie priešinasi pavojingu gyvybei būdu arba kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę žmogaus gyvybei ar sveikatai.
-Straipsnio dalies pakeitimai:
-Nr. XII-1160, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13594
- 
-
-
-
-
-9. Valstybinis miškų pareigūnas, nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina duoti pavojaus signalą, išsikviesti pagalbą arba įspėti apie galimą šaunamojo ginklo panaudojimą.
-
-
-
-
-10. Valstybiniai miškų pareigūnai ir miškų urėdijos darbuotojai neturi teisės dirbti pagal darbo sutartis, būti steigėjais ar juridinio asmens dalyviais (akcininkais, nariais, dalininkais) privačiose medienos ruošos, medienos perdirbimo, prekybos mediena ir medžioklės aptarnavimo įmonėse, vykdyti nepriklausomo medienos matuotojo veiklą ir kitais įstatymais draudžiamą veiklą.
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-
-
-11. Valstybinių miškų pareigūnų – miškų urėdijų miško apsaugos darbuotojų, dirbančių pagal darbo sutartis, gyvybė ir sveikata papildomai privalomai draudžiamos nuo nelaimingų atsitikimų, susijusių su nustatytų pareigų vykdymu, tais atvejais, kai netaikomos Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatos. Draudimo išmokų dydžiai nustatomi kolektyvinėse arba darbo sutartyse ir negali būti mažesni už nurodytus Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme.
+4. Valstybinių miškų pareigūnų – miškų urėdijų miško apsaugos darbuotojų, dirbančių pagal darbo sutartis, gyvybė ir sveikata papildomai privalomai draudžiamos nuo nelaimingų atsitikimų, susijusių su nustatytų pareigų vykdymu, tais atvejais, kai netaikomos Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatos. Draudimo išmokų dydžiai nustatomi kolektyvinėse arba darbo sutartyse ir negali būti mažesni už nurodytus Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1447, 2003-04-03, Žin., 2003, Nr. 38-1692 (2003-04-24)
 Nr. X-119, 2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
+Straipsnio pakeitimai:
+Nr. XIII-291, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06969
  
 
 
@@ -1851,4 +1767,9 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pa
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2641, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24677
+Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-291, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06969
 Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas
