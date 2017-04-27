@@ -20,7 +20,7 @@ Redaguota : 1995 07 21
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-26
+Suvestinė redakcija nuo 2017-04-27 iki 2017-04-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -2453,7 +2453,10 @@ Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
 
 
 
-7) Ginklų ir šaudmenų kontrolės bei kitų įstatymų nustatyta tvarka saugoti, nešioti ir šio Įstatymo 30 straipsnio 4 dalyje nurodytais atvejais naudoti šaunamąjį ginklą bei specialiąsias priemones. Jeigu atsisakoma vykdyti teisėtus pareigūno reikalavimus, pareigūnas turi teisę panaudoti prievartą, tačiau tik tiek, kiek to reikia vykdant tarnybinę pareigą, ir tik po to, kai visos įmanomos ar kitos priemonės nebuvo veiksmingos;
+7) Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo nustatyta tvarka saugoti, nešioti šaunamąjį ginklą, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo, išskyrus 41 straipsnio 5 dalies 4 ir 5 punktus, nustatytais atvejais ir tvarka panaudoti psichinę ir fizinę prievartą bei šaunamąjį ginklą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
+ 
 
 
 
@@ -2465,27 +2468,17 @@ Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
 
 
 
-4. Valstybiniai saugomų teritorijų pareigūnai turi teisę panaudoti fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, kai tai susiję su tarnybinių pareigų atlikimu:
-
-
-1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai kėsinimosi;
-
-
-
-
-2) sulaikydamas pažeidėją ar nusikaltimą padariusį asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kitaip jo neįmanoma nuginkluoti;
+4. Neteko galios nuo 2017-04-27
+Straipsnio dalies naikinimas:
+Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
+ 
 
 
 
 
-3) vykstant pasikėsinimui į šaunamąjį ginklą ar kilus pavojui asmens gyvybei.
-
-
-
-
-
-
-5. Draudžiama panaudoti fizinę prievartą bei specialiąsias priemones ar šaunamąjį ginklą prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas pareigūnui arba jų išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai. Draudžiama panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys.
+5. Neteko galios nuo 2017-04-27
+Straipsnio dalies naikinimas:
+Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
 Straipsnio dalies pakeitimai:
 Nr. XII-1163, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13590
  
