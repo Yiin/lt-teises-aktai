@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2017-04-26
+Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -762,9 +762,11 @@ Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010IST
 
 
 
-4. Valstybė, siekdama skatinti investicijas smulkiojo ir vidutinio verslo ir ūkio subjektų veiklos pradžios, vykdymo ir plėtros, būsto ir viešosios infrastruktūros objektų atnaujinimo, energijos vartojimo efektyvumo, žemės ūkio produktų gamybos ir perdirbimo srityse, gali skirti lėšų finansinėms priemonėms įgyvendinti ir (arba) fondų fondams valdyti. 
+4. Valstybė, siekdama skatinti investicijas smulkiojo ir vidutinio verslo ir ūkio subjektų veiklos pradžios, vykdymo ir plėtros, urbanizuotų ar urbanizuojamų teritorijų plėtros, būsto ir viešosios arba viešajam interesui tenkinti skirtos infrastruktūros objektų atnaujinimo ir plėtros, energijos vartojimo efektyvumo, žemės ūkio produktų gamybos ir perdirbimo srityse, gali skirti lėšų finansinėms priemonėms įgyvendinti ir (arba) fondų fondams valdyti.
 Papildyta straipsnio dalimi:
 Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
+Straipsnio dalies pakeitimai:
+Nr. XIII-296, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06974
  
 
 
@@ -1310,3 +1312,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-296, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06974
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 straipsnio pakeitimo įstatymas
