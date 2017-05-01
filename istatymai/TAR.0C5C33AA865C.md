@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2016-11-15 iki 2017-04-30
+Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
+ 
+TAR pastaba. Iki šio įstatymo (Nr. XIII-267) įsigaliojimo (2017-05-01) pagal mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo sutartis pradėtos konkrečių mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo procedūros baigiamos vykdyti pagal teisės aktus, galiojusius iki šio įstatymo įsigaliojimo.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas
  
 Nauja įstatymo redakcija nuo 2011-08-01:
 Nr. XI-1564, 2011-06-30, Žin., 2011, Nr. 87-4186 (2011-07-14)
@@ -301,6 +306,46 @@ Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
 
 
 
+451. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektas – visuma teisės aktų nustatytų dokumentų, kuriuose pateikiami mažo ir (ar) vidutinio slėgio dujotiekių ir jų įrengimo sprendiniai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
+452. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys Lietuvos Respublikos gamtinių dujų įstatymo nustatytą teisę įrengti mažo ir (ar) vidutinio slėgio dujotiekius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
+453. Mažo ir (ar) vidutinio slėgio dujotiekių projektuotojas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys Lietuvos Respublikos gamtinių dujų įstatymo nustatytą teisę projektuoti mažo ir (ar) vidutinio slėgio dujotiekius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
+454. Mažo ir (ar) vidutinio slėgio dujotiekių užsakovas (toliau – užsakovas) – Lietuvos Respublikos ar kitos valstybės narės, taip pat trečiosios šalies fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, užsakantys mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo paslaugas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
+455. Mažo slėgio dujotiekis – ne didesnio kaip 0,1 bar didžiausiojo darbinio dujų slėgio skirstymo sistemos, vartotojo sistemos vamzdynai, taip pat įrenginiai ir priemonės šiems vamzdynams veikti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
 46. Nebuitinis gamtinių dujų vartotojas (toliau – nebuitinis vartotojas) – vartotojas, perkantis gamtines dujas naudoti ne savo namų ūkio reikmėms.
 
 
@@ -359,6 +404,14 @@ Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
 54. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+ 
+
+
+
+
+561. Vidutinio slėgio dujotiekis – didesnio kaip 0,1 bar, bet ne didesnio kaip 5 bar didžiausiojo darbinio dujų slėgio skirstymo sistemos, vartotojo sistemos vamzdynai, taip pat įrenginiai ir priemonės šiems vamzdynams veikti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
  
 
 
@@ -1095,6 +1148,180 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 
 
 
+131 straipsnis. Mažo ir (ar) vidutinio slėgio dujotiekių projektavimas ir įrengimas 
+
+
+1. Gamtinių dujų sistema, išskyrus šio straipsnio 2 dalyje nurodytus objektus, statoma Lietuvos Respublikos statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Šio straipsnio 2 dalyje nurodyti objektai projektuojami, įrengiami bei informacija apie įrengtus objektus (techniniai bei buvimo vietos duomenys) skelbiama viešai Lietuvos Respublikos energetikos ministerijos (toliau – Energetikos ministerija) nustatyta tvarka.
+
+
+
+
+2. Mažo ir vidutinio slėgio dujotiekiai laikomi kilnojamaisiais daiktais. 
+
+
+Papildyta straipsniu:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
+132 straipsnis. Teisė būti mažo ir (ar) vidutinio slėgio dujotiekių projektuotoju. Projektuotojo teisės ir pareigos 
+
+
+1. Būti mažo ir (ar) vidutinio slėgio dujotiekių projektuotoju turi teisę:
+
+
+1) Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys ne mažiau kaip vieną šios dalies 2 punkte nurodytus reikalavimus atitinkantį darbuotoją;
+
+
+
+
+2) Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo, įgijęs ne žemesnį kaip aukštąjį koleginį arba jam prilygintą inžinerijos mokslų studijų krypčių grupės statybos inžinerijos krypties išsilavinimą ir turintis žinių apie projektuojamų mažo ir (ar) vidutinio slėgio dujotiekių parametrus. 
+
+
+
+
+
+
+2. Mažo ir (ar) vidutinio slėgio dujotiekių projektuotojas privalo:
+
+
+1) užsakovo pavedimu, vadovaudamasis šio įstatymo ir kitų teisės aktų nurodytais dokumentais, parengti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą;
+
+
+
+
+2) pasirašyti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą (privalo pasirašyti juridinio asmens vadovas ar jo įgaliotas kitas darbuotojas ir projektą rengęs darbuotojas, o kai projektuotojas yra fizinis asmuo, – tik šis asmuo), tuo prisiimdamas atsakomybę, kad mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektas atitinka teisės aktų nuostatas; 
+
+
+
+
+3) teisės aktų nustatyta tvarka suderinti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą su kompetentingomis institucijomis ir (ar) asmenimis, išspręsti mažo ir (ar) vidutinio slėgio dujotiekiams įrengti reikalingos žemės naudojimo klausimą šiame įstatyme nurodytais būdais ir sąlygomis, parengti visus mažo ir (ar) vidutinio slėgio dujotiekių įrengimui būtinus dokumentus;
+
+
+
+
+4) pataisyti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą pagal užsakovo pastabas, jeigu jos neprieštarauja teisės aktų reikalavimams;
+
+
+
+
+5) pataisyti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą pagal šį projektą derinančių institucijų, subjektų (jų padalinių) pastabas;
+
+
+
+
+6) pagal sutartį atlikti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projekto vykdymo priežiūrą;
+
+
+
+
+7) jeigu mažo ir (ar) vidutinio slėgio dujotiekių įrengimo darbai atliekami pažeidžiant mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą, nedelsdamas informuoti užsakovą, o tais atvejais, kai nustatoma avarijos grėsmė, – užsakovą ir Valstybinę energetikos inspekciją prie Energetikos ministerijos.
+
+
+
+
+
+
+3. Mažo ir (ar) vidutinio slėgio dujotiekių projektuotojas turi teisę mažo ir (ar) vidutinio slėgio dujotiekių ir įrenginių įrengimo metu įrengimo vietoje patikrinti, kaip laikomasi mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projekto sprendinių.
+
+
+
+
+4. Mažo ir (ar) vidutinio slėgio dujotiekių projektuotojas turi ir kitų teisių ir pareigų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir kituose įstatymuose. 
+
+
+Papildyta straipsniu:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
+133 straipsnis. Teisė būti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovu. Rangovo teisės ir pareigos
+
+
+1. Būti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovu turi teisę:
+
+
+1) Lietuvos Respublikos juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius;
+
+
+
+
+2) valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.
+
+
+
+
+
+
+2. Įrengti mažo ir (ar) vidutinio slėgio kriterijus atitinkančias dujų sistemas pastatuose turi teisę šio straipsnio 1 dalies 1 ir 2 punktuose nurodyti asmenys ir Lietuvos Respublikos ar kitos valstybės narės fiziniai asmenys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.
+
+
+
+
+3. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas privalo:
+
+
+1) vykdyti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo darbus pagal mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą, šio įstatymo ir kitų teisės aktų nuostatas;
+
+
+
+
+2) pagal rangos sutartį iš užsakovo gavęs mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą, nuvykti į mažo ir (ar) vidutinio slėgio dujotiekių įrengimo vietą, įvertinti projekto sprendinių įgyvendinimo galimybes ir prireikus pateikti pastabas užsakovui dėl projekto sprendinių įgyvendinimo. Jeigu per rangos sutartyje nurodytą terminą mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas pastabų nepateikia, laikoma, kad mažo ar vidutinio slėgio dujotiekių įrengimo projekte nurodyti sprendiniai galimi įgyvendinti;
+
+
+
+
+3) vykdyti viešojo administravimo subjektų, atliekančių mažo ir (ar) vidutinio slėgio dujotiekių įrengimo valstybinę priežiūrą, reikalavimus; 
+
+
+
+
+4) užtikrinti darbuotojų saugą ir sveikatą, gaisrinę saugą ir aplinkos apsaugą mažo ir (ar) vidutinio slėgio dujotiekių įrengimo vietoje, taip pat gretimos aplinkos bei gamtos ir nekilnojamųjų kultūros vertybių apsaugą, mažo ir (ar) vidutinio slėgio dujotiekių įrengimo vietoje ir šalia jos esančių žmonių apsaugą nuo įrengimo darbų keliamo pavojaus;
+
+
+
+
+5) prieš pradėdamas žemės darbus inžinerinių tinklų, susisiekimo komunikacijų ir kitų objektų apsaugos zonose, teisės aktų nustatyta tvarka gauti savivaldybės leidimą (rašytinį pritarimą) žemės darbams vykdyti, gauti žemės darbų vykdymo vietoje esančių požeminių statinių, susisiekimo komunikacijų, kitų inžinerinių tinklų savininkų (naudotojų, valdytojų) rašytinius sutikimus, teisės aktuose nustatytais atvejais organizuoti inžinerinių tinklų savininkų (naudotojų, valdytojų) atstovų dalyvavimą vykdant žemės darbus; 
+
+
+
+
+6) gauti skirstymo sistemos operatoriaus leidimą, suteikiantį teisę vykdyti darbus skirstymo sistemos objektuose.
+
+
+
+
+
+
+4. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas turi teisę:
+
+
+1) pasitelkti savo prievolėms įvykdyti kitus asmenis (subrangovus), jeigu kiti įstatymai ar rangos sutartis nenustato, kad užduotį privalo įvykdyti pats rangovas;
+
+
+
+
+2) gauti iš užsakovo mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą.
+
+
+
+
+
+
+5. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose. 
+
+
+Papildyta straipsniu:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
+
+
+
+
 14 straipsnis. Gamtinių dujų įmonių, vartotojų ir sistemos naudotojų sudaromos sutartys
 
 
@@ -1407,7 +1634,10 @@ Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
 
 
 
-3) Licencijavimo taisyklėse nustatyta tvarka teikti Komisijai ir Lietuvos Respublikos energetikos ministerijai (toliau – Energetikos ministerija) informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+3) Licencijavimo taisyklėse nustatyta tvarka teikti Komisijai ir Energetikos ministerijai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+ 
 
 
 
@@ -3532,3 +3762,13 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 63 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2706, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26488
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 57 straipsnio ir priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir 13 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas
