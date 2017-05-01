@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
+Suvestinė redakcija nuo 2017-05-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
- 
-TAR pastaba. Licencijos, dėl kurių išdavimo buvo kreiptasi iki įstatymo Nr. XII-2662 įsigaliojimo (2017-01-01), išduodamos šio įstatymo nustatyta tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 VI skyriaus pavadinimo ir 43 straipsnio pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS SVEIKATOS PRIEŽIŪROS
@@ -582,17 +577,34 @@ Nacionalinis visuomenės sveikatos centras:
 
 
 
-11) sveikatos apsaugos ministro nustatyta tvarka išduoda nuodingąsias medžiagas gaminančių, tiekiančių rinkai, įsigyjančių, laikančių, naudojančių, taip pat jomis prekiaujančių asmenų kompetenciją patvirtinančius liudijimus; už nuodingąsias medžiagas gaminančių, tiekiančių rinkai, įsigyjančių, laikančių, naudojančių, taip pat jomis prekiaujančių asmenų kompetenciją patvirtinančių liudijimų išdavimą, šių liudijimų dublikatų išdavimą ir liudijimų patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai liudijimas patikslinamas siekiant ištaisyti klaidas, padarytas išduodant liudijimą;
+11) išduoda asmenų kompetenciją patvirtinančius liudijimus fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, iš Lietuvos Respublikos išvykstantiems į kitą valstybę narę vykdyti veiklos, susijusios su nuodingosiomis medžiagomis, taip pat Lietuvos Respublikoje įsisteigusiems juridiniams asmenims ar filialams, kurie veiklą, susijusią su nuodingosiomis medžiagomis, ketina vykdyti kitoje valstybėje narėje; išduoda leidimus vykdyti veiklą, susijusią su nuodingosiomis medžiagomis; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
+ 
 
 
 
 
-12) teikia savivaldybių institucijoms šio Įstatymo 6 straipsnio 1 dalies 2 punkte numatytoms funkcijoms atlikti reikalingą informaciją apie savivaldybės teritorijoje padarytus teisės aktų pažeidimus, susijusius su žmogaus gyvenamosios aplinkos tarša;
+12) pagal Nuodingųjų medžiagų priežiūros įstatyme nustatytą kompetenciją vykdo veiklos, susijusios su nuodingosiomis medžiagomis, priežiūrą; 
+Papildyta straipsnio punktu:
+Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
+ 
 
 
 
 
-13) atlieka kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias reglamentuoja šis ir kiti įstatymai bei teisės aktai.
+13) teikia savivaldybių institucijoms šio Įstatymo 6 straipsnio 1 dalies 2 punkte numatytoms funkcijoms atlikti reikalingą informaciją apie savivaldybės teritorijoje padarytus teisės aktų pažeidimus, susijusius su žmogaus gyvenamosios aplinkos tarša;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
+ 
+
+
+
+
+14) atlieka kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias reglamentuoja šis ir kiti įstatymai bei teisės aktai.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
+ 
 
 
 
@@ -2106,3 +2118,8 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 VI skyriaus pavadinimo ir 43 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2728, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26838
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
