@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-11-15 iki 2017-04-30
+Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
+ 
+TAR pastaba. Iki šio įstatymo (Nr. XIII-262) įsigaliojimo (2017-05-01) pagal kilnojamųjų elektros energetikos objektų ir įrenginių projektavimo ir (ar) įrengimo sutartis pradėtos konkrečių kilnojamųjų elektros energetikos objektų ir įrenginių projektavimo ir (ar) įrengimo procedūros baigiamos vykdyti pagal teisės aktus, galiojusius iki šio įstatymo įsigaliojimo.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 75 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 75-1, 75-2 straipsniais įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -243,6 +248,38 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 24. Jungtinė sistema – kelios elektros energijos perdavimo ir skirstymo sistemos, sujungtos viena ar daugiau jungiamųjų linijų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+ 
+
+
+
+
+241. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektas – visuma teisės aktų nustatytų dokumentų, kuriuose pateikiami šio įstatymo 75 straipsnio 2 dalyje nurodytų kilnojamųjų elektros energetikos objektų ir įrenginių ir jų įrengimo sprendiniai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+ 
+
+
+
+
+242. Kilnojamųjų elektros energetikos objektų ir įrenginių projektuotojas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys šio įstatymo nustatytą teisę projektuoti kilnojamuosius elektros energetikos objektus ir įrenginius, nurodytus šio įstatymo 75 straipsnio 2 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+ 
+
+
+
+
+243. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas – Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys šio įstatymo nustatytą teisę įrengti kilnojamuosius elektros energetikos objektus ir įrenginius, nurodytus šio įstatymo 75 straipsnio 2 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+ 
+
+
+
+
+244. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo užsakovas (toliau – užsakovas) – Lietuvos Respublikos ar kitos valstybės narės, taip pat trečiosios šalies fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, užsakantys šio įstatymo 75 straipsnio 2 dalyje nurodytų kilnojamųjų elektros energetikos objektų ir įrenginių projektavimo ir (ar) įrengimo paslaugas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
  
 
 
@@ -4375,7 +4412,9 @@ APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO RE
 
 
 DVYLIKTASIS SKIRSNIS
-VIEŠIEJI INTERESAI ELEKTROS ENERGETIKOS SEKTORIUJE
+VIEŠIEJI INTERESAI ELEKTROS ENERGETIKOS SEKTORIUJE. ELEKTROS ENERGETIKOS OBJEKTŲ IR ĮRENGINIŲ PROJEKTAVIMAS IR ĮRENGIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
  
 
 
@@ -4453,7 +4492,10 @@ VIEŠIEJI INTERESAI ELEKTROS ENERGETIKOS SEKTORIUJE
 75 straipsnis. Žemės naudojimas elektros energetikos objektams
 
 
-1. Elektros energetikos objektai ir įrenginiai statomi Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Užbaigus šio straipsnio 2 dalyje nurodytų elektros energetikos objektų ir įrenginių statybą, rekonstravimą ar kapitališkai juos suremontavus, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka surašomas statybos užbaigimo aktas. Šio straipsnio 2 dalyje nurodytų elektros energetikos objektų ir įrenginių statybos užbaigimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+1. Elektros energetikos objektai ir įrenginiai, išskyrus nurodytus šio straipsnio 2 dalyje, statomi Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Šio straipsnio 2 dalyje nurodyti elektros energetikos objektai ir įrenginiai projektuojami, įrengiami ir informacija apie įrengtus objektus ir įrenginius (techniniai ir buvimo vietos duomenys) skelbiama viešai Energetikos ministerijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+ 
 
 
 
@@ -4492,6 +4534,147 @@ VIEŠIEJI INTERESAI ELEKTROS ENERGETIKOS SEKTORIUJE
  
 
 
+
+
+
+
+751 straipsnis. Teisė būti kilnojamųjų elektros energetikos objektų ir įrenginių projektuotoju. Projektuotojo teisės ir pareigos
+
+
+1. Būti kilnojamųjų elektros energetikos objektų ir įrenginių, nurodytų šio įstatymo 75 straipsnio 2 dalyje, projektuotoju turi teisę:
+
+
+1) Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys ne mažiau negu vieną šios dalies 2 punkte nurodytus reikalavimus atitinkantį darbuotoją;
+
+
+
+
+2) Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo, įgijęs ne žemesnį kaip aukštąjį koleginį arba jam prilygintą inžinerijos mokslų studijų krypčių grupės elektros inžinerijos krypties išsilavinimą.
+
+
+
+
+
+
+2. Kilnojamųjų elektros energetikos objektų ir įrenginių projektuotojas privalo:
+
+
+1) užsakovo pavedimu, vadovaudamasis šio įstatymo ir kitų teisės aktų nuostatomis, parengti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą;
+
+
+
+
+2) pasirašyti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą (privalo pasirašyti juridinio asmens vadovas ar jo įgaliotas kitas darbuotojas ir projektą rengęs darbuotojas, o kai projektuotojas yra fizinis asmuo, – tik šis asmuo), tuo prisiimdamas atsakomybę, kad kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektas atitinka teisės aktų nuostatas; 
+
+
+
+
+3) teisės aktų nustatyta tvarka suderinti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą su kompetentingomis institucijomis ir (ar) asmenimis, išspręsti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimui reikalingos žemės naudojimo klausimą šiame įstatyme nurodytais būdais ir sąlygomis, parengti visus kilnojamųjų elektros energetikos objektų ir įrenginių įrengimui būtinus dokumentus;
+
+
+
+
+4) pataisyti kilnojamų elektros energetikos objektų ir įrenginių įrengimo projektą pagal užsakovo pastabas, jeigu jos neprieštarauja teisės aktų reikalavimams;
+
+
+
+
+5) pataisyti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą pagal šį projektą derinančių institucijų, subjektų (jų padalinių) pastabas;
+
+
+
+
+6) pagal sutartį atlikti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projekto vykdymo priežiūrą;
+
+
+
+
+7) jeigu kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo darbai atliekami pažeidžiant kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą, nedelsdamas informuoti užsakovą, o tais atvejais, kai nustatoma avarijos grėsmė, – užsakovą ir Valstybinę energetikos inspekciją prie Energetikos ministerijos.
+
+
+
+
+
+
+3. Kilnojamųjų elektros energetikos objektų ir įrenginių projektuotojas turi teisę kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo metu įrengimo vietoje patikrinti, kaip laikomasi kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projekto sprendinių. 
+
+
+
+
+4. Kilnojamųjų elektros energetikos objektų ir įrenginių projektuotojas turi ir kitų teisių ir pareigų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir kituose įstatymuose. 
+
+
+Papildyta straipsniu:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+ 
+
+
+
+
+752 straipsnis. Teisė būti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovu. Rangovo teisės ir pareigos
+
+
+1. Būti kilnojamųjų elektros energetikos objektų ir įrenginių, nurodytų šio įstatymo 75 straipsnio 2 dalyje, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti elektros įrenginius.
+
+
+
+
+2. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas privalo:
+
+
+1) vykdyti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo darbus pagal kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą, šio įstatymo ir kitų teisės aktų nuostatas;
+
+
+
+
+2) pagal rangos sutartį iš užsakovo gavęs kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą, nuvykti į elektros energetikos objektų ir įrenginių įrengimo vietą, įvertinti projekto sprendinių įgyvendinimo galimybes ir prireikus pateikti pastabas užsakovui dėl projekto sprendinių įgyvendinimo. Jeigu per rangos sutartyje nustatytą terminą kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas pastabų nepateikia, laikoma, kad kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projekte nurodyti sprendiniai galimi įgyvendinti;
+
+
+
+
+3) vykdyti viešojo administravimo subjektų, atliekančių kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo valstybinę priežiūrą, reikalavimus; 
+
+
+
+
+4) užtikrinti darbuotojų saugą ir sveikatą, gaisrinę saugą ir aplinkos apsaugą kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo vietoje bei įrengiamame elektros energetikos objekte ar įrenginyje, taip pat gretimos aplinkos bei gamtos ir nekilnojamųjų kultūros vertybių apsaugą, kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo vietoje ir šalia jos esančių žmonių apsaugą nuo įrengimo darbų keliamo pavojaus;
+
+
+
+
+5) prieš pradėdamas žemės darbus inžinerinių tinklų, susisiekimo komunikacijų ir kitų objektų apsaugos zonose, teisės aktų nustatyta tvarka gauti savivaldybės leidimą (rašytinį pritarimą) žemės darbams vykdyti, gauti žemės darbų vykdymo vietoje esančių požeminių statinių, susisiekimo komunikacijų, kitų inžinerinių tinklų savininkų (naudotojų, valdytojų) rašytinius sutikimus, teisės aktuose nustatytais atvejais organizuoti inžinerinių tinklų savininkų (naudotojų, valdytojų) atstovų dalyvavimą vykdant žemės darbus;
+
+
+
+
+6) gauti skirstomųjų tinklų operatoriaus leidimą, suteikiantį teisę vykdyti darbus skirstomųjų tinklų operatoriaus elektros įrenginiuose.
+
+
+
+
+
+
+3. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas turi teisę:
+
+
+1) pasitelkti savo prievolėms įvykdyti kitus asmenis (subrangovus), jeigu kiti įstatymai ar rangos sutartis nenustato, kad užduotį privalo įvykdyti pats rangovas;
+
+
+
+
+2) gauti iš užsakovo kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą. 
+
+
+
+
+
+
+4. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose. 
+
+
+Papildyta straipsniu:
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+ 
 
 
 
@@ -4925,3 +5108,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 78 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 22, 31, 35, 39, 51, 59, 67, 69 straipsnių ir priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 75 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 75-1, 75-2 straipsniais įstatymas
