@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-04-30
+Suvestinė redakcija nuo 2017-05-01 iki 2017-10-25
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -3328,7 +3328,10 @@ Elektromagnetinio suderinamumo reikalavimų taikymo sąlygas, aparatūros ir įr
 
 
 
-2. Aparatūros ir (ar) įrenginių savininkas ar naudotojas privalo leisti Ryšių reguliavimo tarnybos pareigūnams patikrinti aparatūrą ir (ar) įrenginius, taip pat ir paimti aparatūrą ir (ar) įrenginius.
+2. Aparatūros ir (ar) įrenginių savininkas ar naudotojas privalo leisti Ryšių reguliavimo tarnybos įgaliotiems pareigūnams patikrinti aparatūrą ir (ar) įrenginius, taip pat paimti aparatūrą ir (ar) įrenginius.
+Straipsnio dalies pakeitimai:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+ 
 
 
 
@@ -3349,7 +3352,10 @@ Elektromagnetinio suderinamumo reikalavimų taikymo sąlygas, aparatūros ir įr
 
 
 
-2. Ryšių reguliavimo tarnybos fiksuotų radijo stebėsenos stočių apsauga nuo stiprių elektromagnetinių laukų, kuriuos sukelia jų aplinkoje veikiantys radijo siųstuvai, atliekama Ryšių reguliavimo tarnybos nustatyta tvarka ir sąlygomis.
+2. Ryšių reguliavimo tarnybos fiksuotųjų radijo stebėsenos stočių apsauga nuo stiprių elektromagnetinių laukų, kuriuos sukelia jų aplinkoje veikiančios radijo ryšio stotys, atliekama Ryšių reguliavimo tarnybos nustatyta tvarka ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+ 
 
 
 
@@ -4533,10 +4539,10 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-73 straipsnis. Ryšių reguliavimo tarnybos pareigūnai
+73 straipsnis. Ryšių reguliavimo tarnybos įgalioti pareigūnai
 
 
-1. Ryšių reguliavimo tarnybos įgalioti pareigūnai, vadovaudamiesi Viešojo administravimo įstatymo nuostatomis, prižiūrėdami, kaip vykdomas šis Įstatymas, pateikę tarnybinį pažymėjimą bei Ryšių reguliavimo tarnybos išduotą dokumentą, patvirtinantį jų įgaliojimus ir atliekamas funkcijas, turi šias teises, kurias įgyvendina Ryšių reguliavimo tarnybos vardu:
+1. Ryšių reguliavimo tarnybos įgalioti pareigūnai, vadovaudamiesi Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, prižiūrėdami, kaip vykdomas šis Įstatymas, pateikę tarnybinį pažymėjimą ir Ryšių reguliavimo tarnybos išduotą dokumentą, kuriuo patvirtinami jų įgaliojimai ir atliekamos funkcijos, turi šias teises, kurias įgyvendina Ryšių reguliavimo tarnybos vardu:
 
 
 1) pagal šio ir kitų įstatymų bei kitų teisės aktų nustatytas sąlygas ir procedūras gauti jiems reikalingą informaciją;
@@ -4544,17 +4550,17 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-2) pateikę teismo išduotą leidimą, įeiti ir atlikti patikrinimą ūkio subjekto naudojamose patalpose, teritorijoje ir transporto priemonėse, peržiūrėti tyrimui reikalingus ūkio subjekto dokumentus, gauti jų kopijas ir išrašus, kompiuteriuose ir magnetinėse laikmenose esančią informaciją;
+2) pateikę teismo išduotą leidimą, įeiti ir atlikti patikrinimą asmens naudojamose ir (ar) gyvenamosiose patalpose, teritorijoje ir transporto priemonėse, peržiūrėti tyrimui reikalingus duomenis ir (ar) dokumentus, gauti jų kopijas ir išrašus, kompiuteriuose ir laikmenose esančią informaciją;
 
 
 
 
-3) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamų ūkio subjektų veikla, reikalauti, kad jie atvyktų duoti paaiškinimus į tyrimą atliekančio įgalioto pareigūno tarnybines patalpas;
+3) gauti žodinius ir rašytinius paaiškinimus iš tikrinamų asmenų, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio įgalioto pareigūno tarnybines patalpas;
 
 
 
 
-4) gauti duomenis ir dokumentus arba jų nuorašus apie tikrinamo ūkio subjekto ūkines operacijas iš kitų ūkio subjektų, neatsižvelgiant į jų pavaldumą, taip pat iš valstybės ir savivaldybių institucijų ir asmenų;
+4) gauti duomenis ir dokumentus arba jų nuorašus apie tikrinamo asmens ūkines operacijas iš ūkio subjektų, neatsižvelgiant į jų pavaldumą, taip pat iš valstybės ir savivaldybių institucijų ir kitų asmenų;
 
 
 
@@ -4564,7 +4570,7 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-6) laikinai – iki 30 dienų – paimti dokumentus ir daiktus, kurie būtini ar turi įrodomosios reikšmės tiriant pažeidimą, palikdami motyvuotą sprendimą dėl dokumentų ir (arba) daiktų poėmio bei paimtų dokumentų ir (arba) daiktų apyrašą; išreikalauti nurodytų dokumentų kopijas;
+6) laikinai – iki 30 dienų – paimti dokumentus ir daiktus, kurie būtini ar turi įrodomosios reikšmės tiriant pažeidimą, palikdami asmeniui motyvuotą sprendimą dėl dokumentų ir (arba) daiktų poėmio bei paimtų dokumentų ir (arba) daiktų apyrašą; išreikalauti nurodytų dokumentų kopijas;
 
 
 
@@ -4574,12 +4580,12 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-8) laikydamiesi įstatymų nustatytos tvarkos, tyrimo metu naudoti technines priemones;
+8) laikydamiesi įstatymų nustatytos tvarkos, tyrimo metu naudoti technines priemones, taip pat, nepažeisdami įstatymų garantuojamo asmens privataus gyvenimo neliečiamumo, fotografuoti, daryti garso ir vaizdo įrašus;
 
 
 
 
-9) patikrinti aparatūrą ir (arba) įrenginius, taip pat ir paimti aparatūrą ir (arba) įrenginius;
+9) patikrinti aparatūrą ir (arba) įrenginius, taip pat paimti aparatūrą ir (arba) įrenginius;
 
 
 
@@ -4596,7 +4602,7 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-3. Ryšių reguliavimo tarnybos įgalioti pareigūnai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus ir pan.). Jų formas ir pildymo tvarką nustato Ryšių reguliavimo tarnyba.
+3. Ryšių reguliavimo tarnybos įgalioti pareigūnai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus ir panašiai). Jų formas ir pildymo tvarką nustato Ryšių reguliavimo tarnyba.
 
 
 
@@ -4606,21 +4612,18 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-5. Ūkio subjektai turi teisę apskųsti neteisėtus Ryšių reguliavimo tarnybos pareigūnų veiksmus Ryšių reguliavimo tarnybos direktoriui. Skundas pateikiamas ne vėliau kaip per 10 dienų nuo sužinojimo apie skundžiamus veiksmus dienos. Ryšių reguliavimo tarnybos direktorius sprendimą dėl skundo turi priimti per 10 dienų nuo jo gavimo dienos. Jeigu asmenys nesutinka su Ryšių reguliavimo tarnybos direktoriaus sprendimu arba Ryšių reguliavimo tarnybos direktorius nepriėmė sprendimo per 10 dienų, asmenys turi teisę paduoti skundą teismui. Skundo pateikimas pareigūnų atitinkamų veiksmų nesustabdo.
+5. Asmenys turi teisę apskųsti neteisėtus Ryšių reguliavimo tarnybos įgaliotų pareigūnų veiksmus Ryšių reguliavimo tarnybos direktoriui. Skundas pateikiamas ne vėliau kaip per 10 dienų nuo sužinojimo apie skundžiamus veiksmus dienos. Ryšių reguliavimo tarnybos direktorius sprendimą dėl skundo turi priimti per 10 dienų nuo jo gavimo dienos. Jeigu asmenys nesutinka su Ryšių reguliavimo tarnybos direktoriaus sprendimu arba Ryšių reguliavimo tarnybos direktorius nepriėmė sprendimo per 10 dienų, asmenys turi teisę paduoti skundą teismui. Skundo pateikimas Ryšių reguliavimo tarnybos įgaliotų pareigūnų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
 
 
 
 
-6. Prašymas išduoti leidimą atlikti šio straipsnio 1 dalies 2 punkte nurodytus veiksmus pateikiamas Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas ūkio subjekto pavadinimas (asmens vardas, pavardė), įtariamų pažeidimų pobūdis ir numatomi veiksmai. Prašymą dėl veiksmų išnagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas dėl veiksmų turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Ryšių reguliavimo tarnybos įgaliotas pareigūnas nesutinka su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, jis turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Ryšių reguliavimo tarnybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl veiksmų leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Neatidėliotinais atvejais atitinkami Ryšių reguliavimo tarnybos pareigūnų veiksmai gali būti atliekami Ryšių reguliavimo tarnybos direktoriaus sprendimu. Pastaruoju atveju prašymas išduoti leidimą atlikti veiksmus pateikiamas teismui pirmiau nurodyta tvarka per 24 valandas po tokio sprendimo priėmimo. Jeigu teisėjas (teismas) atsisako išduoti leidimą atlikti veiksmus, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
-
-
-
-
-7. Žala, padaryta ūkio subjektams neteisėtais elektroninių ryšių veiklą reguliuojančių institucijų ar jos pareigūnų veiksmais, atlyginama įstatymų nustatyta tvarka.
+6. Prašymas išduoti leidimą atlikti šio straipsnio 1 dalies 2 punkte nurodytus veiksmus pateikiamas Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas teismo, kuriam šis prašymas paduodamas, pavadinimas, Ryšių reguliavimo tarnybos įgalioto pareigūno vardas, pavardė, asmens kodas, tikrinamo fizinio asmens vardas ir pavardė (jeigu žinomi) arba juridinio asmens pavadinimas, kodas, buveinė, tikrinamo juridinio asmens vadovo ar įgalioto atstovo vardas ir pavardė (jeigu žinomi), įtariamų pažeidimų pobūdis ir numatomi veiksmai, aplinkybės, svarbios numatomiems veiksmams, tai patvirtinantys įrodymai, kitų įrodymų buvimo vieta, Ryšių reguliavimo tarnybos įgalioto pareigūno prašymas, pridedamų dokumentų sąrašas, prašymo surašymo vieta ir data. Prašymą išnagrinėja Vilniaus apygardos administracinis teismas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Ryšių reguliavimo tarnybos įgaliotas pareigūnas nesutinka su Vilniaus apygardos administracinio teismo sprendimu atmesti prašymą, jis turi teisę per 7 dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Ryšių reguliavimo tarnybos įgaliotas pareigūnas ir (arba) Ryšių reguliavimo tarnybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Neatidėliotinais atvejais šio straipsnio 1 dalies 2 punkte nurodyti Ryšių reguliavimo tarnybos įgaliotų pareigūnų veiksmai gali būti atliekami Ryšių reguliavimo tarnybos direktoriaus sprendimu. Pastaruoju atveju prašymas pateikiamas teismui šioje dalyje nurodyta tvarka per 24 valandas po tokio sprendimo priėmimo. Jeigu teismas atsisako išduoti leidimą atlikti atitinkamus veiksmus, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+Straipsnio pakeitimai:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
  
 
 
