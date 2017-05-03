@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C88302C3186F"
 
 # Lietuvos Respublikos Europos darbo tarybų įstatymas
 
-Suvestinė redakcija nuo 2011-07-13 iki 2017-05-02
+Suvestinė redakcija nuo 2017-05-03
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 39-1271, i. k. 1041010ISTA0IX-2031
- 
-TAR pastaba. Šio įstatymo (Nr. XI-1507)  nuostatos netaikomos Europos Sąjungos įmonių ir Europos Sąjungos įmonių grupių susitarimams dėl Europos darbo tarybos sudarymo arba darbuotojų informavimo ir konsultavimo tvarkos parengimo, sudarytiems iki 2011 m. birželio 5 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1507, 2011-06-22, Žin., 2011, Nr. 86-4149 (2011-07-13), i. k. 1111010ISTA0XI-1507
-Lietuvos Respublikos Europos darbo tarybų įstatymo pakeitimo įstatymas
  
 Nauja redakcija nuo 2011-07-13:
 Nr. XI-1507, 2011-06-22, Žin. 2011, Nr. 86-4149 (2011-07-13), i. k. 1111010ISTA0XI-1507
@@ -302,7 +297,10 @@ Europos Sąjungos įmonių grupė – tai įmonių grupė, atitinkanti šiuos re
 
 
 
-4. Nustatant darbuotojų Lietuvos Respublikoje skaičių, neįskaitomi darbuotojai, kuriems darbuotojų skaičiaus nustatymo dieną yra atostogos vaikui prižiūrėti, kol jam sueis treji metai, bei dirbę ar dirbantys pagal laikinąsias darbo sutartis.
+4. Nustatant darbuotojų Lietuvos Respublikoje skaičių, neįskaitomi darbuotojai, kurie darbuotojų skaičiaus nustatymo dieną yra išėję vaiko priežiūros atostogų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
 
 
 
@@ -1406,8 +1404,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
- 
 Lietuvos Respublikos 
 2011 m. birželio 22 d. įstatymo Nr. XI-1507
 priedas
@@ -1428,3 +1424,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1507, 2011-06-22, Žin., 2011, Nr. 86-4149 (2011-07-13), i. k. 1111010ISTA0XI-1507
 Lietuvos Respublikos Europos darbo tarybų įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+Lietuvos Respublikos Europos darbo tarybų įstatymo Nr. IX-2031 1, 3, 7, 13, 16 straipsnių ir priedo pakeitimo įstatymas
