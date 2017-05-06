@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-05
+Suvestinė redakcija nuo 2017-05-06 iki 2017-05-24
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -323,22 +323,32 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 
 
-2. Lietuvių kalbos nemokantiems baudžiamojo proceso dalyviams užtikrinama teisė daryti pareiškimus, duoti parodymus ir paaiškinimus, paduoti prašymus ir skundus, kalbėti teisme gimtąja kalba arba kita kalba, kurią jie moka. Visais šiais atvejais, taip pat susipažindami su bylos medžiaga proceso dalyviai turi teisę naudotis vertėjo paslaugomis šio Kodekso nustatyta tvarka.
+2. Ikiteisminio tyrimo pareigūnas, prokuroras ar teismas per įmanomai trumpiausią laiką privalo nustatyti, ar baudžiamojo proceso dalyvis moka lietuvių kalbą ir ar tam, kad jis tinkamai pasinaudotų savo teisėmis arba suprastų vykstantį baudžiamąjį procesą, jam baudžiamojo proceso metu būtina naudotis vertėjo paslaugomis. 
 
 
 
 
-3. Bylos dokumentai, kurie šio Kodekso nustatytais atvejais įteikiami įtariamajam, kaltinamajam ar nuteistajam, taip pat kitiems proceso dalyviams, turi būti išversti į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka.
+3. Lietuvių kalbos nemokantiems baudžiamojo proceso dalyviams užtikrinama teisė daryti pareiškimus, duoti parodymus ir paaiškinimus, paduoti prašymus ir skundus, kalbėti teisme gimtąja kalba arba kita kalba, kurią jie moka. Visais šiais atvejais, taip pat susipažindami su bylos medžiaga proceso dalyviai turi teisę naudotis vertėjo paslaugomis šio Kodekso nustatyta tvarka.
 
 
 
 
-4. Lietuvių kalbos nemokančiam nuo nusikalstamos veikos nukentėjusiam asmeniui ar jo atstovui užtikrinama teisė paduoti skundą ar pareiškimą dėl nusikalstamos veikos gimtąja kalba arba kita kalba, kurią jie moka, arba užtikrinama teisė naudotis vertėjo paslaugomis pateikiant skundą žodžiu.
-Papildyta straipsnio dalimi:
-Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+4. Gynėjas privalo su lietuvių kalbos nemokančiu įtariamuoju, kaltinamuoju, nuteistuoju ar išteisintuoju baudžiamojo proceso metu bendrauti jiems suprantama kalba, o jeigu tai neįmanoma, turi būti užtikrintas jų bendravimo vertimas žodžiu. 
+
+
+
+
+5. Bylos dokumentai, kurie šio Kodekso nustatytais atvejais įteikiami įtariamajam, kaltinamajam ar nuteistajam, taip pat kitiems proceso dalyviams, turi būti raštu išversti į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka. Lietuvių kalbos nemokantis įtariamasis, kaltinamasis, nuteistasis, išteisintasis ar tokio asmens gynėjas turi teisę ikiteisminio tyrimo pareigūnui, prokurorui ar teismui pateikti motyvuotą prašymą ir dėl kitų svarbių bylos dokumentų, su kuriais šio Kodekso nustatyta tvarka jie turi teisę susipažinti, ar jų dalių vertimo raštu į jų gimtąją kalbą arba į kitą kalbą, kurią jie moka. Toks prašymas gali būti teikiamas tik tais atvejais, kai šių dokumentų ar jų dalių vertimas yra būtinas tam, kad įtariamasis, kaltinamasis, nuteistasis ar išteisintasis tinkamai pasinaudotų savo teise į gynybą arba suprastų vykstantį baudžiamąjį procesą. Šį prašymą ikiteisminio tyrimo pareigūnas, prokuroras ar teismas ne vėliau kaip per penkias dienas nuo jo gavimo dienos išnagrinėja ir išsprendžia motyvuotu nutarimu ar nutartimi. Šis nutarimas ar nutartis gali būti skundžiami šio Kodekso nustatyta tvarka. 
+
+
+
+
+6. Lietuvių kalbos nemokančiam nuo nusikalstamos veikos nukentėjusiam asmeniui ar jo atstovui užtikrinama teisė paduoti skundą ar pareiškimą dėl nusikalstamos veikos gimtąja kalba arba kita kalba, kurią jie moka, arba užtikrinama teisė naudotis vertėjo paslaugomis pateikiant skundą žodžiu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
  
-
-
 
 
 
@@ -2335,37 +2345,66 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-2. Asmuo Europos arešto orderį išdavusiai valstybei perduodamas šio Kodekso 72–77 straipsniuose nustatyta tvarka. Jeigu asmuo sutiko būti perduotas Europos arešto orderį išdavusiai valstybei, sprendimas dėl jo perdavimo turi būti priimtas ne vėliau kaip per dešimt dienų nuo jo rašytinio sutikimo dienos. Kitais atvejais sprendimas dėl asmens perdavimo turi būti priimtas ne vėliau kaip per šešiasdešimt dienų nuo jo suėmimo dienos.
+2. Jeigu asmuo, dėl kurio išduotas Europos arešto orderis, nesupranta kalbos, kuria yra parengtas arba į kurią Europos arešto orderį išdavusios valstybės yra išverstas Europos arešto orderis, Europos arešto orderis turi būti raštu išverstas į šio asmens gimtąją kalbą arba į kitą kalbą, kurią jis moka. Asmens, dėl kurio išduotas Europos arešto orderis, sutikimu gali būti užtikrintas Europos arešto orderio vertimas žodžiu, jeigu tai neprieštarauja teisingumo interesams. 
+Papildyta straipsnio dalimi:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
 
-3. Išimtiniais atvejais šio straipsnio 2 dalyje nustatyti terminai gali būti pratęsti iki trisdešimties dienų, tačiau apie pratęsimo priežastis būtina nedelsiant pranešti Europos arešto orderį išdavusios valstybės institucijai. Jeigu ypatingais atvejais ir pratęstas terminas nėra pakankamas, apie uždelsimo priežastis turi būti pranešama Europos Sąjungos baudžiamojo persekiojimo institucijai (Eurojustui). 
+3. Asmuo Europos arešto orderį išdavusiai valstybei perduodamas šio Kodekso 72–77 straipsniuose nustatyta tvarka. Jeigu asmuo sutiko būti perduotas Europos arešto orderį išdavusiai valstybei, sprendimas dėl jo perdavimo turi būti priimtas ne vėliau kaip per dešimt dienų nuo jo rašytinio sutikimo dienos. Kitais atvejais sprendimas dėl asmens perdavimo turi būti priimtas ne vėliau kaip per šešiasdešimt dienų nuo jo suėmimo dienos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
 
-4. Jeigu Europos arešto orderis išduotas dėl asmens, pagal tarptautinės teisės normas turinčio imunitetą nuo baudžiamosios jurisdikcijos, arba jeigu nėra kompetentingos institucijos leidimo patraukti baudžiamojon atsakomybėn asmenį, kai šis leidimas pagal įstatymus būtinas, šio straipsnio 2 ir 3 dalyse nurodyti terminai prasideda nuo to laiko, kada šis asmuo prarado imunitetą ar kada gautas kompetentingos institucijos leidimas. Lietuvos Respublikos generalinė prokuratūra privalo kreiptis į kompetentingą Lietuvos Respublikos instituciją dėl tokio leidimo suteikimo ar imuniteto panaikinimo. 
+4. Išimtiniais atvejais šio straipsnio 2 dalyje nustatyti terminai gali būti pratęsti iki trisdešimties dienų, tačiau apie pratęsimo priežastis būtina nedelsiant pranešti Europos arešto orderį išdavusios valstybės institucijai. Jeigu ypatingais atvejais ir pratęstas terminas nėra pakankamas, apie uždelsimo priežastis turi būti pranešama Europos Sąjungos baudžiamojo persekiojimo institucijai (Eurojustui). 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
 
-5. Asmuo Europos arešto orderį išdavusiai valstybei perduodamas tik dėl baudžiamojo persekiojimo už tame orderyje nurodytą nusikalstamą veiką ar paskirtos bausmės vykdymo. Jeigu užsienio valstybė kartu su išduotu Europos arešto orderiu pateikia prašymą perduoti asmenį ir dėl jo baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios negali būti išduodamas Europos arešto orderis, šis prašymas nagrinėjamas kartu su Europos arešto orderiu. Sprendimą dėl asmens perdavimo pagal Europos arešto orderį priimantis teismas gali sutikti, kad asmuo būtų perduotas ir dėl šios nusikalstamos veikos, jeigu ji pripažįstama nusikalstama pagal Lietuvos Respublikos baudžiamuosius įstatymus. 
+5. Jeigu Europos arešto orderis išduotas dėl asmens, pagal tarptautinės teisės normas turinčio imunitetą nuo baudžiamosios jurisdikcijos, arba jeigu nėra kompetentingos institucijos leidimo patraukti baudžiamojon atsakomybėn asmenį, kai šis leidimas pagal įstatymus būtinas, šio straipsnio 2 ir 3 dalyse nurodyti terminai prasideda nuo to laiko, kada šis asmuo prarado imunitetą ar kada gautas kompetentingos institucijos leidimas. Lietuvos Respublikos generalinė prokuratūra privalo kreiptis į kompetentingą Lietuvos Respublikos instituciją dėl tokio leidimo suteikimo ar imuniteto panaikinimo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
 
-6. Jeigu užsienio valstybė po to, kai Lietuvos Respublika jai perdavė asmenį pagal Europos arešto orderį, pateikia prašymą dėl šio asmens baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis nebuvo perduotas pagal Europos arešto orderį, arba prašymą dėl šio asmens perdavimo ar išdavimo trečiajai valstybei, šį prašymą nagrinėja ir sutikimą duoda Lietuvos Respublikos generalinė prokuratūra. Lietuvos Respublikos generalinė prokuratūra gali motyvuotai nesutikti dėl asmens baudžiamojo persekiojimo ar bausmės vykdymo už nusikalstamą veiką, dėl kurios nebuvo išduotas Europos arešto orderis, arba dėl asmens perdavimo kitai Europos Sąjungos valstybei narei, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 9(1) straipsnyje nustatyti Europos arešto orderio nevykdymo pagrindai ir (ar) sąlygos. Sutikimas pagal Europos arešto orderį užsienio valstybei perduotą asmenį išduoti trečiajai (ne Europos Sąjungos) valstybei gali būti duodamas vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. Lietuvos Respublikos generalinė prokuratūra sutikimą arba nesutikimą dėl asmens baudžiamojo persekiojimo, paskirtos bausmės vykdymo arba asmens perdavimo ar išdavimo trečiajai valstybei turi duoti per dvidešimt dienų nuo prašymo gavimo dienos. Lietuvos Respublikos generalinės prokuratūros sutikimą dėl pagal Europos arešto orderį užsienio valstybei perduoto asmens baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis nebuvo perduotas pagal Europos arešto orderį, arba dėl šio asmens perdavimo ar išdavimo trečiajai valstybei per dešimt dienų nutartimi patvirtina Vilniaus apygardos teismo teisėjas. 
+6. Asmuo Europos arešto orderį išdavusiai valstybei perduodamas tik dėl baudžiamojo persekiojimo už tame orderyje nurodytą nusikalstamą veiką ar paskirtos bausmės vykdymo. Jeigu užsienio valstybė kartu su išduotu Europos arešto orderiu pateikia prašymą perduoti asmenį ir dėl jo baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios negali būti išduodamas Europos arešto orderis, šis prašymas nagrinėjamas kartu su Europos arešto orderiu. Sprendimą dėl asmens perdavimo pagal Europos arešto orderį priimantis teismas gali sutikti, kad asmuo būtų perduotas ir dėl šios nusikalstamos veikos, jeigu ji pripažįstama nusikalstama pagal Lietuvos Respublikos baudžiamuosius įstatymus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
 
-7. Europos arešto orderį išdavusios valstybės prašymu Lietuvos Respublikos generalinė prokuratūra užtikrina daiktų ir dokumentų, turinčių reikšmės nusikalstamai veikai tirti, ir asmens, dėl kurio išduotas Europos arešto orderis, nusikalstamu būdu įgyto turto paėmimą ir perdavimą Europos arešto orderį išdavusiai valstybei. Jeigu šie daiktai turi būti konfiskuojami ar perduodami teisėtiems savininkams pagal Lietuvos Respublikos įstatymus, Lietuvos Respublikos generalinė prokuratūra juos gali perduoti tik laikinai, kol jie reikalingi baudžiamajam procesui Europos arešto orderį išdavusioje valstybėje.
+7. Jeigu užsienio valstybė po to, kai Lietuvos Respublika jai perdavė asmenį pagal Europos arešto orderį, pateikia prašymą dėl šio asmens baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis nebuvo perduotas pagal Europos arešto orderį, arba prašymą dėl šio asmens perdavimo ar išdavimo trečiajai valstybei, šį prašymą nagrinėja ir sutikimą duoda Lietuvos Respublikos generalinė prokuratūra. Lietuvos Respublikos generalinė prokuratūra gali motyvuotai nesutikti dėl asmens baudžiamojo persekiojimo ar bausmės vykdymo už nusikalstamą veiką, dėl kurios nebuvo išduotas Europos arešto orderis, arba dėl asmens perdavimo kitai Europos Sąjungos valstybei narei, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 9(1) straipsnyje nustatyti Europos arešto orderio nevykdymo pagrindai ir (ar) sąlygos. Sutikimas pagal Europos arešto orderį užsienio valstybei perduotą asmenį išduoti trečiajai (ne Europos Sąjungos) valstybei gali būti duodamas vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. Lietuvos Respublikos generalinė prokuratūra sutikimą arba nesutikimą dėl asmens baudžiamojo persekiojimo, paskirtos bausmės vykdymo arba asmens perdavimo ar išdavimo trečiajai valstybei turi duoti per dvidešimt dienų nuo prašymo gavimo dienos. Lietuvos Respublikos generalinės prokuratūros sutikimą dėl pagal Europos arešto orderį užsienio valstybei perduoto asmens baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios jis nebuvo perduotas pagal Europos arešto orderį, arba dėl šio asmens perdavimo ar išdavimo trečiajai valstybei per dešimt dienų nutartimi patvirtina Vilniaus apygardos teismo teisėjas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
 
-8. Lietuvos Respublikos pilietis ar užsienietis, dėl kurio yra išduotas Lietuvos Respublikos baudžiamojo kodekso 91 straipsnio 5 dalies 4 punkte nustatytas sąlygas atitinkantis Europos arešto orderis dėl paskirtos su laisvės atėmimu susijusios bausmės vykdymo, turi teisę prašyti, kad jam būtų pateikta teismo sprendimo, kuriuo jam paskirta su laisvės atėmimu susijusi bausmė, kopija. Gavęs šį prašymą, apygardos teismas tiesiogiai kreipiasi į kompetentingą Europos arešto orderį išdavusios valstybės instituciją su prašymu pateikti teismo sprendimo, kuriuo asmeniui paskirta su laisvės atėmimu susijusi bausmė, kopiją. Asmens prašymas pateikti teismo sprendimo kopiją nesustabdo klausimo dėl asmens išdavimo (perdavimo) iš Lietuvos Respublikos pagal Europos arešto orderį nagrinėjimo ir asmens, dėl kurio yra įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos pagal Europos arešto orderį, perdavimo vykdymo.
+8. Europos arešto orderį išdavusios valstybės prašymu Lietuvos Respublikos generalinė prokuratūra užtikrina daiktų ir dokumentų, turinčių reikšmės nusikalstamai veikai tirti, ir asmens, dėl kurio išduotas Europos arešto orderis, nusikalstamu būdu įgyto turto paėmimą ir perdavimą Europos arešto orderį išdavusiai valstybei. Jeigu šie daiktai turi būti konfiskuojami ar perduodami teisėtiems savininkams pagal Lietuvos Respublikos įstatymus, Lietuvos Respublikos generalinė prokuratūra juos gali perduoti tik laikinai, kol jie reikalingi baudžiamajam procesui Europos arešto orderį išdavusioje valstybėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
+
+
+
+
+9. Lietuvos Respublikos pilietis ar užsienietis, dėl kurio yra išduotas Lietuvos Respublikos baudžiamojo kodekso 91 straipsnio 5 dalies 4 punkte nustatytas sąlygas atitinkantis Europos arešto orderis dėl paskirtos su laisvės atėmimu susijusios bausmės vykdymo, turi teisę prašyti, kad jam būtų pateikta teismo sprendimo, kuriuo jam paskirta su laisvės atėmimu susijusi bausmė, kopija. Gavęs šį prašymą, apygardos teismas tiesiogiai kreipiasi į kompetentingą Europos arešto orderį išdavusios valstybės instituciją su prašymu pateikti teismo sprendimo, kuriuo asmeniui paskirta su laisvės atėmimu susijusi bausmė, kopiją. Asmens prašymas pateikti teismo sprendimo kopiją nesustabdo klausimo dėl asmens išdavimo (perdavimo) iš Lietuvos Respublikos pagal Europos arešto orderį nagrinėjimo ir asmens, dėl kurio yra įsiteisėjusi nutartis išduoti iš Lietuvos Respublikos pagal Europos arešto orderį, perdavimo vykdymo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 Kodeksas papildytas straipsniu:
@@ -2755,7 +2794,10 @@ Kaip liudytojas negali būti apklausiamas:
 
 
 
-3) įtariamojo, kaltinamojo, išteisintojo ar nuteistojo gynėjas, nukentėjusiojo, civilinio ieškovo, civilinio atsakovo atstovai – dėl aplinkybių, kurias jie sužinojo atlikdami gynėjo arba atstovo pareigas;
+3) įtariamojo, kaltinamojo, išteisintojo ar nuteistojo gynėjas, nukentėjusiojo, civilinio ieškovo, civilinio atsakovo atstovai – dėl aplinkybių, kurias jie sužinojo atlikdami gynėjo arba atstovo pareigas, taip pat vertėjas – dėl aplinkybių, kurias jis sužinojo atlikdamas vertėjo pareigas pagal šio Kodekso 8 straipsnio 4 dalies nuostatas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+ 
 
 
 
@@ -15868,3 +15910,23 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 387, 390 straipsnių ir priedo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
 Lietuvos Respublikos baudžiamojo proceso kodekso 37, 168 ir 214 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
+Lietuvos Respublikos baudžiamojo proceso kodekso 51 ir 106 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
+Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 11-1 straipsniu ir 40, 59, 60, 123, 124, 127, 221 ir 229 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
+Lietuvos Respublikos baudžiamojo proceso kodekso 186, 188, 272, 280 ir 283 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
+Lietuvos Respublikos baudžiamojo proceso kodekso 8, 71-1 ir 80 straipsnių pakeitimo įstatymas
