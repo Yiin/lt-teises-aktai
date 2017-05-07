@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-06
+Suvestinė redakcija nuo 2017-05-07 iki 2017-12-13
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -1138,7 +1138,10 @@ programos finansavimo
  
 
 
-1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
+1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719 (OL 2015 L 115, p. 1).
+Punkto pakeitimai:
+Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
+ 
 
 
 
