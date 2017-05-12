@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-11
+Suvestinė redakcija nuo 2017-05-12 iki 2017-06-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -6078,15 +6078,17 @@ ASMENS LYGIATEISIŠKUMUI IR SĄŽINĖS LAISVEI
 169 straipsnis. Diskriminavimas dėl tautybės, rasės, lyties, kilmės, religijos ar kitos grupinės priklausomybės
 
 
-Tas, kas atliko veiksmus, kuriais siekta žmonių grupei ar jai priklausančiam asmeniui dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų sutrukdyti lygiomis teisėmis su kitais dalyvauti politinėje, ekonominėje, socialinėje, kultūrinėje, darbo ar kitoje veikloje arba suvaržyti tokios žmonių grupės ar jai priklausančio asmens teises ir laisves,
+Tas, kas atliko veiksmus, kuriais siekta žmonių grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų sutrukdyti lygiomis teisėmis su kitais dalyvauti politinėje, ekonominėje, socialinėje, kultūrinėje, darbo ar kitoje veikloje arba suvaržyti tokios žmonių grupės ar jai priklausančio asmens teises ir laisves,
 
 
 
 
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026
  
-
-
 
 
 
@@ -6094,29 +6096,31 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 170 straipsnis. Kurstymas prieš bet kokios tautos, rasės, etninę, religinę ar kitokią žmonių grupę
 
 
-1. Tas, kas turėdamas tikslą platinti gamino, įsigijo, siuntė, gabeno, laikė dalykus, kuriuose tyčiojamasi, niekinama, skatinama neapykanta ar kurstoma diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstoma smurtauti, fiziškai susidoroti su tokia žmonių grupe ar jai priklausančiu asmeniu, arba juos platino,
+1. Tas, kas turėdamas tikslą platinti gamino, įsigijo, siuntė, gabeno, laikė dalykus, kuriuose tyčiojamasi, niekinama, skatinama neapykanta ar kurstoma diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstoma smurtauti, fiziškai susidoroti su tokia žmonių grupe ar jai priklausančiu asmeniu, arba juos platino,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
 
 
 
-2. Tas, kas viešai tyčiojosi, niekino, skatino neapykantą ar kurstė diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
+2. Tas, kas viešai tyčiojosi, niekino, skatino neapykantą ar kurstė diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
 
 
-3. Tas, kas viešai kurstė smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba finansavo ar kitaip materialiai rėmė tokią veiklą,
+3. Tas, kas viešai kurstė smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba finansavo ar kitaip materialiai rėmė tokią veiklą,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
 
 
 
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
+Straipsnio pakeitimai:
+Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026
  
 
 
@@ -6125,8 +6129,11 @@ Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
 1701 straipsnis. Grupių ir organizacijų, turinčių tikslą diskriminuoti žmonių grupę arba kurstyti prieš ją, kūrimas ir veikla
 
 
-1. Tas, kas kūrė bendrininkų ar organizuotą grupę arba organizaciją, turinčią tikslą diskriminuoti žmonių grupę dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstyti prieš ją, arba dalyvavo tokios grupės ar organizacijos veikloje, arba finansavo ar kitaip materialiai rėmė tokią grupę ar organizaciją,
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+1. Tas, kas kūrė bendrininkų ar organizuotą grupę arba organizaciją, turinčią tikslą diskriminuoti žmonių grupę dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstyti prieš ją, arba dalyvavo tokios grupės ar organizacijos veikloje, arba finansavo ar kitaip materialiai rėmė tokią grupę ar organizaciją,
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026
+ 
 
 
 
@@ -8557,8 +8564,11 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 2504 straipsnis. Teroristinės veiklos finansavimas ir rėmimas
 
 
-1. Tas, kas tiesiogiai ar netiesiogiai rinko, kaupė arba teikė lėšas ar kitą turtą arba teikė kitokią materialinę paramą kitam asmeniui, žinodamas arba siekdamas, kad šis turtas, parama ar jų dalis būtų panaudota teroristiniam ar su teroristine veikla susijusiam nusikaltimui daryti arba vienam ar keliems teroristams remti,
-baudžiamas laisvės atėmimu iki dešimties metų.
+1. Tas, kas tiesiogiai ar netiesiogiai rinko, kaupė arba teikė lėšas ar kitą turtą arba teikė kitokią materialinę paramą kitam asmeniui, žinodamas arba siekdamas, kad šis turtas, parama ar jų dalis būtų panaudota teroristiniam ar su teroristine veikla susijusiam nusikaltimui rengti ar daryti arba vienam ar keliems teroristams arba grupei, kurios tikslas – daryti teroristinius nusikaltimus, arba asmenims ar grupėms, kurie verbuoja, rengia teroristus ar kitaip dalyvauja teroristinėje veikloje, remti,
+baudžiamas laisvės atėmimu iki dešimties metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
+ 
 
 
 
@@ -8573,20 +8583,41 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 
 
 
-2505 straipsnis. Teroristų rengimas
+2505 straipsnis. Teroristų rengimas ir mokymasis teroristiniais tikslais
 
 
-1. Tas, kas kitam asmeniui suteikė specialių žinių ar įgūdžių, būtinų teroristiniam nusikaltimui daryti arba dalyvauti darant teroristinį nusikaltimą, žinodamas, kad asmuo suteiktas žinias ar įgūdžius ketina panaudoti teroristiniais tikslais,
+1. Tas, kas kitam asmeniui suteikė specialių žinių ar įgūdžių, būtinų teroristiniam nusikaltimui rengti, daryti arba dalyvauti darant teroristinį nusikaltimą, žinodamas, kad asmuo suteiktas žinias ar įgūdžius ketina panaudoti teroristiniais tikslais, taip pat tas, kas, siekdamas gautas žinias ar įgūdžius panaudoti teroristiniais tikslais, sistemingai rinko specialias žinias ar įgijo specialių įgūdžių, būtinų teroristiniam nusikaltimui rengti, daryti arba dalyvauti darant teroristinį nusikaltimą, 
 baudžiamas laisvės atėmimu iki septynerių metų. 
 
 
 
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Kodeksas papildytas straipsniu:
 Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
+Straipsnio pakeitimai:
+Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
+ 
+
+
+
+
+2506 straipsnis. Vykimas teroristiniais tikslais
+
+
+1. Tas, kas atvyko į Lietuvos Respubliką ar vyko į kitą valstybę, siekdamas rengti ar daryti teroristinį nusikaltimą arba dalyvauti darant teroristinį nusikaltimą, arba dalyvauti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje, arba rengti teroristus, arba mokytis teroristiniais tikslais, 
+baudžiamas laisvės atėmimu iki penkerių metų. 
+
+
+
+
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+
+
+Papildyta straipsniu:
+Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
  
 
 
@@ -8708,7 +8739,10 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 
 
 
-2. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 2491, 2501, 2502, 2503, 2504 ir 2505 straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veiklą.
+2. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 2491, 2501, 2502, 2503, 2504, 2505 ir 2506 straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
+ 
 
 
 
@@ -11579,3 +11613,13 @@ Lietuvos Respublikos baudžiamojo kodekso 20, 225, 226, 227, 230 straipsnių ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2589, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20302
 Lietuvos Respublikos baudžiamojo kodekso papildymo 182-1 straipsniu įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
+Lietuvos Respublikos baudžiamojo kodekso 250-4, 250-5, 252-1 straipsnių pakeitimo ir Kodekso papildymo 250-6 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026
+Lietuvos Respublikos baudžiamojo kodekso 169, 170 ir 170-1 straipsnių pakeitimo įstatymas
