@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-24
+Suvestinė redakcija nuo 2017-05-25 iki 2017-06-14
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -595,7 +595,17 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-2. Suimtųjų susitikimų su savo gynėju tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+2. Suimtųjų susitikimų su savo gynėju metu turi būti užtikrinamas suimtojo ir jo gynėjo bendravimo konfidencialumas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+ 
+
+
+
+
+3. Suimtųjų susitikimų su savo gynėju tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
  
 
 
@@ -814,17 +824,34 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 23 straipsnis. Suimtųjų teisė paskambinti telefonu
 
 
-1. Tardymo izoliatoriaus administracija suimtajam leidžia paskambinti telefonu, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas neleisti suimtajam paskambinti telefonu. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo skambinimas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo neleisti suimtajam paskambinti telefonu, jam ir tardymo izoliatoriaus administracijai turi būti nurodoma šio draudimo trukmė, asmenys, kuriems neleidžiama paskambinti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti.
+1. Tardymo izoliatoriaus administracija suimtajam leidžia paskambinti telefonu, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas neleisti suimtajam paskambinti telefonu. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo skambinimas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo neleisti suimtajam paskambinti telefonu, jam ir tardymo izoliatoriaus administracijai turi būti nurodoma šio draudimo trukmė, asmenys, kuriems neleidžiama paskambinti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti. Šioje dalyje nurodyti suimtųjų teisės paskambinti telefonu apribojimai netaikomi suimtųjų telefoniniams pokalbiams su savo gynėju. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+ 
 
 
 
 
-2. Suimtajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita. Skambinti ir kalbėti telefonu galima ne ilgiau kaip 15 minučių. Telefoninio pokalbio išlaidas, kai nesinaudojama ryšio paslauga kalbėti telefonu kito abonento sąskaita, apmoka pats suimtasis.
+2. Suimtųjų telefoninių pokalbių su savo gynėju metu turi būti užtikrinamas suimtojo ir jo gynėjo bendravimo konfidencialumas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+ 
 
 
 
 
-3. Šiame straipsnyje numatytos suimtųjų teisės paskambinti telefonu įgyvendinimo tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+3. Suimtajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita. Skambinti ir kalbėti telefonu galima ne ilgiau kaip 15 minučių. Telefoninio pokalbio išlaidas, kai nesinaudojama ryšio paslauga kalbėti telefonu kito abonento sąskaita, apmoka pats suimtasis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+ 
+
+
+
+
+4. Šiame straipsnyje numatytos suimtųjų teisės paskambinti telefonu įgyvendinimo tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+ 
 
 
 Straipsnio pakeitimai:
@@ -1020,13 +1047,15 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-31 straipsnis. Suimtųjų užsieniečių teisė palaikyti ryšius su savo valstybių atstovais
+31 straipsnis. Suimtųjų užsieniečių teisė palaikyti ryšius su savo valstybės atstovais
 
 
-Suimtieji užsieniečiai turi teisę palaikyti ryšius su savo valstybių diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis.
+Suimtieji užsieniečiai turi teisę palaikyti ryšius su savo valstybės diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis, įskaitant teisę susitikti, paskambinti telefonu ar susirašinėti su savo valstybės diplomatinės atstovybės ar konsulinės įstaigos atstovais. Suimtojo pageidavimu jo valstybės konsulinės įstaigos turi teisę užtikrinti suimtojo teisinį atstovavimą, įskaitant suimtojo teisę į gynybą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
  
-
-
 
 
 
@@ -1713,6 +1742,14 @@ priedas
 2. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR (OL 2012 L 315, p. 57).
 
 
+
+
+3. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu (OL 2013 L 294, p. 1). 
+Papildyta straipsnio dalimi:
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+ 
+
+
 Priedo pakeitimai:
 Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
 Nr. XII-2196, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20998
@@ -1779,3 +1816,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2196, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20998
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 48 straipsnio ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 14, 23, 31 straipsnių ir priedo pakeitimo įstatymas
