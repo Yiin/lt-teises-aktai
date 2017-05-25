@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-09-01 iki 2017-05-24
+Suvestinė redakcija nuo 2017-05-25 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
  
@@ -905,7 +905,20 @@ Nr. XII-414, 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
 22 straipsnis. Specialiosios nuostatos
 
 
-1. Savivaldybių institucijos iki 2002 m. liepos 1 d. savo biudžeto lėšomis parengia ir patvirtina miestų vietovių, kuriose numatoma už nuosavybės teise turėtą žemę suteikti žemės sklypus individualaus gyvenamojo namo statybai ar kitai paskirčiai, teritorijų planavimo dokumentus (detaliuosius planus).
+1. Savivaldybės administracijos direktorius:
+
+
+1) iki 2018 m. sausio 1 d. įsakymu patvirtina miesto teritorijų, kuriose bus formuojami perduodami neatlygintinai nuosavybėn nauji žemės sklypai piliečiams nuosavybės teisėms į miesto žemę atkurti, sąrašą (su gatvių pavadinimais ir grafine informacija – planu ar schema, kuriame (kurioje) pažymėtos teritorijų ribos) ir jį viešai paskelbia savivaldybės interneto svetainėje;
+
+
+
+
+2) iki 2019 m. sausio 1 d. privalo įstatymų ir Vyriausybės nustatyta tvarka į savivaldybės biudžetą pardavus valstybinės žemės sklypus pervestomis lėšomis organizuoti miesto teritorijose, nurodytose šios dalies 1 punkte, žemės valdos projektų ar teritorijų planavimo dokumentų rengimą ir juos patvirtinti. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-367, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08726
+ 
 
 
 
@@ -925,10 +938,10 @@ Nr. IX-1415, 2003-04-03, Žin., 2003, Nr. 38-1660 (2003-04-24)
 
 
 
+ 
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
 PIRMININKAS                                                                        VYTAUTAS LANDSBERGIS
- 
  
 Vilnius, 1991 m. liepos 25 d.
 Nr. I-1607
@@ -1127,3 +1140,8 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 14 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1810, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10573
 Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-367, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08726
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 22 straipsnio pakeitimo įstatymas
