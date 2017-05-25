@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2016-01-18 iki 2017-05-24
+Suvestinė redakcija nuo 2017-05-25 iki 2017-07-12
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
  
@@ -1457,18 +1457,20 @@ Advokatas, vykdydamas advokato veiklą, turi teisę:
 
 
 
-45 straipsnis. Advokato teisė susitikti su klientu
+45 straipsnis. Advokato teisė bendrauti ir susitikti su klientu
 
 
-1. Draudžiama kliudyti advokatui be pašalinių susitikti su klientu.
+1. Draudžiama kliudyti advokatui bendrauti ar be pašalinių susitikti su klientu.
 
 
 
 
-2. Advokato ir jo kliento susitikimo duomenys negali būti panaudoti kaip įrodymai.
+2. Advokato ir jo kliento susitikimo ar bendravimo duomenys negali būti panaudoti kaip įrodymai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
  
-
-
 
 
 
@@ -1496,7 +1498,10 @@ Advokatas, vykdydamas advokato veiklą, turi teisę:
 
 
 
-5. Draudžiama viešai arba slaptai susipažinti su advokato profesinę paslaptį sudarančia informacija ir ją naudoti kaip įrodymą. Advokato profesinę paslaptį sudaro kreipimosi į advokatą faktas, sutarties su klientu sąlygos, kliento suteikta informacija ir pateikti duomenys, konsultacijos pobūdis bei pagal kliento pavedimą advokato surinkti duomenys.
+5. Draudžiama viešai arba slaptai susipažinti su advokato profesinę paslaptį sudarančia informacija ir ją naudoti kaip įrodymą. Advokato profesinę paslaptį sudaro kreipimosi į advokatą faktas, sutarties su klientu sąlygos, kliento suteikta informacija ir pateikti duomenys, konsultacijos pobūdis bei pagal kliento pavedimą advokato surinkti duomenys, taip pat kitas advokato ir kliento bendravimo (susitikimų, korespondencijos, pokalbių telefonu ar kitų formų bendravimo) turinys. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
+ 
 
 
 
@@ -2563,6 +2568,14 @@ priedas
 2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/5/EB, skirta padėti teisininkams verstis nuolatine advokato praktika kitoje valstybėje narėje nei ta, kurioje buvo įgyta kvalifikacija (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 83), su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/100/EB dėl Bulgarijos ir Rumunijos stojimo, adaptuojančia tam tikras direktyvas laisvo asmenų judėjimo srityje (OL 2006 L 363, p. 141).
 
 
+
+
+3. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu (OL 2013 L 294, p. 1). 
+Papildyta straipsnio dalimi:
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
+ 
+
+
 Priedo pakeitimai:
 Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
  
@@ -2570,6 +2583,8 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 
 
+ 
+ 
 Pakeitimai:
  
 1.
@@ -2655,3 +2670,8 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 17, 22, 51 ir 60 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
 Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 60 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 45, 46 straipsnių ir priedo pakeitimo įstatymas
