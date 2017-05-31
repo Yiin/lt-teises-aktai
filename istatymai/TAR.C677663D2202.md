@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-30
+Suvestinė redakcija nuo 2017-05-31 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -2483,7 +2483,10 @@ PAJAMŲ MOKESČIO, SUMOKĖTO UŽSIENIO VALSTYBĖSE, ATSKAITYMAS
 
 
 
-6. Jeigu nuo palūkanų buvo išskaičiuotas pajamų mokestis, nustatytas 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo 11 straipsnio 1 dalyje arba su šios Direktyvos 17 straipsnio 2 dalyje nurodytomis valstybėmis ar teritorijomis sudarytose ir taikomose sutartyse, tai visa išskaičiuoto pajamų mokesčio suma grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta mokesčio permokos grąžinimo (įskaitymo) tvarka, kai nuolatinis Lietuvos gyventojas pateikia metinę pajamų mokesčio deklaraciją.
+6. Neteko galios nuo 2017-05-31.
+Straipsnio dalies pakeitimai:
+Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
+ 
 
 
 Straipsnio pakeitimai:
@@ -2661,7 +2664,10 @@ gyventojų pajamų mokesčio
 
 
 
-3. 2003 m. birželio 3 d. Tarybos direktyva 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo.
+3. Neteko galios nuo 2017-05-31.
+Punkto pakeitimai:
+Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
+ 
 
 
 
@@ -3101,3 +3107,18 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 ir 38
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 21 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2502, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18829
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 38 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-142, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29771
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 38 straipsnių pakeitimo įstatymo Nr. XII-2502 2 straipsnio pripažinimo netekusiu galios ir 3 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 37 straipsnio ir priedo pakeitimo įstatymas
