@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-30
+Suvestinė redakcija nuo 2017-05-31 iki 2017-06-04
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -6019,44 +6019,35 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LAIKINAI EINANTIS 
 RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS 
+
+
+
+
+
+
  
  
-
-
-
-
-
-
-Lietuvos Respublikos 
-2004 m. balandžio 23 d. 
-įstatymo Nr. IX-2112
+Lietuvos Respublikos
+mokesčių administravimo įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1976 m. kovo 15 d. Tarybos direktyva 76/308/EEB dėl savitarpio pagalbos patenkinant pretenzijas, kylančias dėl operacijų, kurios įeina į Europos žemės ūkio orientavimo ir garantijų fondo finansavimo sistemą, ir dėl žemės ūkio produktų importo išlyginamųjų bei muito mokesčių susigrąžinimo (papildyta 1979 m. gruodžio 6 d. Tarybos direktyva 79/1071/EEB, 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 44 (su paskutiniais pakeitimais, padarytais 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB, OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 179).
+1. 2008 m. gegužės 26 d. Tarybos direktyva 2008/55/EB dėl tarpusavio pagalbos vykdant reikalavimus, susijusius su tam tikromis rinkliavomis, muitais, mokesčiais ir kitomis priemonėmis (OL 2008 L 150, p. 28).
 
 
 
 
-2. 2002 m. gruodžio 9 d. Komisijos direktyva 2002/94/EB, nustatanti išsamias Tarybos direktyvos 76/308/EEB dėl savitarpio pagalbos patenkinant pretenzijas, susijusias su dėl tam tikromis rinkliavomis, muitais ir mokesčiais bei kitomis priemonėmis, tam tikrų nuostatų taikymo taisykles (OL 2004 m. specialusis leidimas, 2 skyrius, 12 tomas, p. 299). 
-
-
-
-
-3. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (pakeista 2014 m. gruodžio 9 d. Tarybos direktyva 2014/107/ES) (OL 2011 L 64, p. 1).
-Punkto pakeitimai:
-Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
- 
+2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gegužės 25 d. Tarybos direktyva (ES) 2016/881 (OL 2016 L 146, p. 8).
 
 
 Priedo pakeitimai:
 Nr. X-247, 2005-06-16, Žin., 2005, Nr. 81-2939 (2005-06-30)
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
- 
- 
+Priedo pakeitimai:
+Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
  
 
 
@@ -6237,3 +6228,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 14, 26, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 5, 14, 68, 81, 87, 88, 93, 97, 98, 99, 100, 104, 105 straipsnių pakeitimo ir 161 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14, 61 straipsnių ir priedo pakeitimo įstatymas
