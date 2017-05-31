@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2017-02-01 iki 2017-05-30
+Suvestinė redakcija nuo 2017-05-31 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -452,7 +452,10 @@ Nr.IX-847, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
 
 
 
-2. Valstybės rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio administratoriui pateiktas per Mokesčių administravimo įstatyme nustatytą terminą. 
+2. Valstybės rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio administratoriui pateiktas per Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas) nustatytą terminą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
 
 
 
@@ -511,7 +514,11 @@ Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
 
 
 
-7) gyvūnų (šunų, kačių) registravimą ir laikymą daugiabučiuose namuose;
+7) gyvūnų (šunų, kačių) laikymą daugiabučiuose namuose;
+TAR pastaba. 11 straipsnio 1 dalies 7 punkto nuostatos galioja iki 2017-12-31.
+Straipsnio punkto pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
 
 
 
@@ -526,7 +533,10 @@ Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
 
 
 
-10) leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones išdavimą;
+10) neteko galios nuo 2017-05-31;
+Straipsnio punkto pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
 
 
 
@@ -632,9 +642,10 @@ RINKLIAVŲ RINKIMO KONTROLĖ IR ATSAKOMYBĖ
 14 straipsnis. Rinkliavų rinkimo kontrolė
 
 
-1. Valstybės rinkliavų rinkimą kontroliuoja Valstybinė mokesčių inspekcija, Valstybės kontrolė, o vietinių rinkliavų rinkimą – savivaldybės, nustačiusios vietinę rinkliavą, kontrolierius (savivaldybės kontrolės ir audito tarnyba).
+1. Valstybės rinkliavų rinkimą kontroliuoja mokesčių administratorius, Valstybės kontrolė, o vietinių rinkliavų rinkimą – savivaldybės, nustačiusios vietinę rinkliavą, kontrolierius (savivaldybės kontrolės ir audito tarnyba).
 Straipsnio dalies pakeitimai:
 Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
 
 
@@ -923,3 +934,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-200, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01327
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2  straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 5, 6, 9, 10, 11, 12, 13, 14, 15 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas
