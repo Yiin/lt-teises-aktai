@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-31
+Suvestinė redakcija nuo 2017-06-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1246,7 +1246,18 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-8) dirba pagal savivaldybės tarybos patvirtintą veiklos programą ir kiekvienų metų pabaigoje už savo veiklą atsiskaito savivaldybės tarybai.
+8) dirba pagal savivaldybės tarybos patvirtintą veiklos programą ir kiekvienų metų pradžioje už savo veiklą atsiskaito savivaldybės tarybai reglamento nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
+ 
+
+
+
+
+9) nagrinėja iš asmenų gaunamus pranešimus ir pareiškimus apie savivaldybės administracijos, įmonių, įstaigų ir jų vadovų veiklą ir teikia dėl jų siūlymus savivaldybės administracijai ir savivaldybės tarybai.
+Papildyta straipsnio punktu:
+Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
+ 
 
 
 
@@ -5022,3 +5033,13 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir 27 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 9 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-185, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29871
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 9 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymo Nr. XII-2741 4 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 14 straipsnio pakeitimo įstatymas
