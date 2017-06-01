@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-05-31
+Suvestinė redakcija nuo 2017-06-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1448,23 +1448,23 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
  
 
 
-28 straipsnis. Privalomojo sveikatos draudimo taryba 
+28 straipsnis. Privalomojo sveikatos draudimo taryba
 
 
-1. Privalomojo sveikatos draudimo taryba yra kolegiali patariamoji institucija. Privalomojo sveikatos draudimo tarybą sudaro, jos sudėtį ir nuostatus tvirtina Sveikatos apsaugos ministerija. 
-
-
-
-
-2. Privalomojo sveikatos draudimo taryba: 
-
-
-1) svarsto perspektyvinius ir einamuosius privalomojo sveikatos draudimo uždavinius; 
+1. Privalomojo sveikatos draudimo taryba yra trišalio atstovavimo pagrindu sudaryta kolegiali patariamoji institucija. Privalomojo sveikatos draudimo tarybą sudaro, jos sudėtį ir Privalomojo sveikatos draudimo tarybos nuostatus (toliau – Tarybos nuostatai) tvirtina sveikatos apsaugos ministras. 
 
 
 
 
-2) teikia siūlymus Sveikatos apsaugos ministerijai dėl asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, sąrašo; 
+2. Privalomojo sveikatos draudimo taryba vykdo šias funkcijas:
+
+
+1) svarsto perspektyvinius ir einamuosius privalomojo sveikatos draudimo uždavinius;
+
+
+
+
+2) teikia siūlymus Sveikatos apsaugos ministerijai dėl asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, sąrašo;
 
 
 
@@ -1474,17 +1474,17 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 
 
 
-4) teikia siūlymus dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų; 
+4) teikia siūlymus dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų;
 
 
 
 
-5) teikia siūlymus dėl Valstybinės ligonių kasos ir teritorinių ligonių kasų struktūros reikalavimų ir veiklos išlaidų normatyvų bei Privalomojo sveikatos draudimo fondo biudžeto paskirstymo; 
+5) teikia siūlymus dėl Valstybinės ligonių kasos ir teritorinių ligonių kasų struktūros reikalavimų ir veiklos išlaidų normatyvų bei Privalomojo sveikatos draudimo fondo biudžeto paskirstymo;
 
 
 
 
-6) teikia siūlymus dėl sutarčių tarp teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigų bei teritorinių ligonių kasų ir vaistinių sudarymo tvarkos;
+6) teikia siūlymus dėl teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigų sutarčių bei teritorinių ligonių kasų ir vaistinių sutarčių sudarymo tvarkos;
 
 
 
@@ -1501,32 +1501,169 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 
 
 
-3. Į Privalomojo sveikatos draudimo tarybą įeina: 
+3. Privalomojo sveikatos draudimo tarybą sudaro 15 narių. Privalomojo sveikatos draudimo taryba sudaroma taip, kad būtų vienodai ir lygiateisiškai atstovaujama valstybės institucijoms, draudėjų (darbdavių) organizacijoms ir apdraustųjų interesus ginančioms organizacijoms. Į Privalomojo sveikatos draudimo tarybą įeina: 
 
 
-1) šeši valstybės valdymo institucijų atstovai – po vieną Nacionalinės sveikatos tarybos, Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Valstybinės ligonių kasos ir teritorinių ligonių kasų atstovą; 
-
-
-
-
-2) penki apdraustųjų atstovai – du darbdavių organizacijų atstovai, vienas ne medikų profesinių sąjungų atstovas, vienas pacientų organizacijų atstovas, vienas savivaldybių asociacijos atstovas;
+1) penki Vyriausybės deleguojami valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą Tarybos nuostatuose nustatyta tvarka;
 
 
 
 
-3) penki sveikatos priežiūros ir farmacijos paslaugų teikėjų atstovai – du medikų profesinių sąjungų atstovai (iš jų – vienas gydytojų profesinės sąjungos, vienas slaugos specialistų profesinės sąjungos), du sveikatos priežiūros paslaugų teikėjų organizacijų atstovai, vienas farmacininkų organizacijų atstovas.
+2) penki draudėjų (darbdavių) atstovai, iš kurių:
+
+
+a) du darbdavių organizacijų atstovai, kurie deleguojami bendru Lietuvos pramonininkų konfederacijos, Lietuvos verslo darbdavių konfederacijos, Lietuvos verslo konfederacijos, Lietuvos Respublikos žemės ūkio rūmų, Lietuvos prekybos, pramonės ir amatų rūmų asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkami du darbdavių organizacijų atstovai;
+
+
+
+
+b) vienas Lietuvos savivaldybių asociacijos deleguotas atstovas;
+
+
+
+
+c) vienas asmens sveikatos priežiūros įstaigų organizacijų atstovas, kuris deleguojamas bendru Lietuvos gydytojų vadovų sąjungos, Lietuvos ligoninių asociacijos, Lietuvos rajonų ligoninių asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas asmens sveikatos priežiūros įstaigų organizacijų atstovas;
+
+
+
+
+d) vienas asmens sveikatos priežiūros įstaigų darbuotojų atstovas, kuris deleguojamas bendru Lietuvos gydytojų sąjungos, Jaunųjų gydytojų asociacijos, Lietuvos slaugos specialistų organizacijos, Lietuvos sveikatos apsaugos darbuotojų profesinės sąjungos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas asmens sveikatos priežiūros įstaigų darbuotojų atstovas;
 
 
 
 
 
 
-4. Privalomojo sveikatos draudimo tarybos darbui vadovauja pirmininkas. Jis renkamas paprasta balsų dauguma dalyvaujant ne mažiau kaip 2/3 Privalomojo sveikatos draudimo tarybos narių. 
+3) penki apdraustųjų atstovai, iš kurių:
+
+
+a) vienas pacientų interesus ginančių organizacijų atstovas, atrenkamas šio straipsnio 4 dalyje nustatyta tvarka;
+
+
+
+
+b) vienas sveiką gyvenseną propaguojančių organizacijų atstovas, atrenkamas šio straipsnio 4 dalyje nustatyta tvarka;
+
+
+
+
+c) vienas pensininkų ir neįgaliųjų interesus ginančių organizacijų atstovas, deleguojamas bendru Pensininkų reikalų tarybos ir Neįgaliųjų reikalų tarybos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas pensininkų ir neįgaliųjų interesus ginančių organizacijų atstovas;
+
+
+
+
+d) vienas Lietuvos jaunimo organizacijų tarybos deleguotas atstovas;
+
+
+
+
+e) vienas Lietuvos profesinių sąjungų konfederacijos deleguotas atstovas.
+
+
+
+
+
+
+
+
+4. Likus ne mažiau kaip 40 dienų iki Privalomojo sveikatos draudimo tarybos kadencijos pabaigos, sveikatos apsaugos ministras kreipiasi į šio straipsnio 3 dalies 1, 2 punktuose ir 3 punkto c, d, e papunkčiuose nurodytus subjektus dėl naujų narių delegavimo ir viešai paskelbia kvietimą teikti šio straipsnio 3 dalies 3 punkto a ir b papunkčiuose nurodytų organizacijų kandidatus į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas pacientų interesus ginančių ir vienas sveiką gyvenseną propaguojančių organizacijų atstovas.
+
+
+
+
+5. Privalomojo sveikatos draudimo taryba sudaroma dvejų metų kadencijai. Privalomojo sveikatos draudimo tarybos nariu asmuo gali būti ne ilgiau kaip dvi kadencijas iš eilės.
+
+
+
+
+6. Privalomojo sveikatos draudimo tarybos darbui vadovauja pirmininkas. Sveikatos apsaugos ministrui patvirtinus Privalomojo sveikatos draudimo tarybos sudėtį, ne vėliau kaip per 10 darbo dienų pradedami pirmininko rinkimai. Privalomojo sveikatos draudimo taryba, dalyvaujant ne mažiau kaip 4/5 Privalomojo sveikatos draudimo tarybos narių, iš šio straipsnio 3 dalies 1 punkte nurodytų subjektų renka Privalomojo sveikatos draudimo tarybos pirmininką. Išrinktu laikomas asmuo, surinkęs ne mažiau kaip pusę visų Privalomojo sveikatos draudimo tarybos narių balsų. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, Privalomojo sveikatos draudimo taryba, dalyvaujant ne mažiau kaip 4/5 Privalomojo sveikatos draudimo tarybos narių, Privalomojo sveikatos draudimo tarybos pirmininką renka pakartotiniuose rinkimuose, kuriuose dalyvauja du daugiausia balsų surinkę kandidatai. Išrinktu Privalomojo sveikatos draudimo tarybos pirmininku laikomas asmuo, surinkęs posėdyje dalyvaujančių Privalomojo sveikatos draudimo tarybos narių balsų daugumą.
+
+
+
+
+7. Privalomojo sveikatos draudimo tarybos nariu gali būti tvirtinamas tik nepriekaištingos reputacijos, turintis aukštąjį universitetinį arba jam prilygintą išsilavinimą Lietuvos Respublikos pilietis. Privalomojo sveikatos draudimo tarybos nariu, atstovaujančiu valstybės institucijoms, gali būti tvirtinamas tik asmuo, turintis ne trumpesnę kaip dvejų metų darbo (valstybės tarnybos) patirtį šio straipsnio 3 dalies 1 punkte nurodytose Privalomojo sveikatos draudimo tarybos narius deleguojančiose valstybės institucijose, o Privalomojo sveikatos draudimo tarybos nariu, atstovaujančiu draudėjų (darbdavių) ir apdraustųjų interesams, – ne trumpesnę kaip dvejų metų narystės (atstovavimo) šio straipsnio 3 dalies 2 ir 3 punktuose nurodytose organizacijose patirtį. Kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos, taikomi tokie patys, kokie yra nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams. 
+
+
+
+
+8. Privalomojo sveikatos draudimo tarybos nariais negali būti:
+
+
+1) įstaigų, įmonių ir organizacijų, kurios verčiasi farmacine veikla, išskyrus asmens sveikatos priežiūros įstaigas, kuriose veikia ligoninės vaistinės, ortopedijos įmonių, medicinos priemonių rinkos subjektų valdymo organų nariai ir darbuotojai bei asmenys, ėję šias pareigas paskutinius vienus metus iki jų patvirtinimo Privalomojo sveikatos draudimo tarybos nariais dienos;
+
+
+
+
+2) asmenys, pagal pareigas susiję tarpusavyje tiesioginio pavaldumo santykiais.
+
+
+
+
+
+
+9. Privalomojo sveikatos draudimo taryba gali turėti visuomeninių patarėjų. Jų skaičius, funkcijos, kompetencija ir skyrimo (atrankos) tvarka nustatyta Tarybos nuostatuose.
+
+
+
+
+10. Privalomojo sveikatos draudimo tarybos nariai ir visuomeniniai patarėjai privalo deklaruoti privačius interesus Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo ir kitų teisės aktų nustatyta tvarka. 
+
+
+
+
+11. Privalomojo sveikatos draudimo tarybos posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip 1/2 Privalomojo sveikatos draudimo tarybos narių. Privalomojo sveikatos draudimo tarybos sprendimai priimami posėdyje dalyvaujančių Privalomojo sveikatos draudimo tarybos narių balsų dauguma. Kai balsai pasiskirsto po lygiai, Privalomojo sveikatos draudimo tarybos pirmininko balsas yra lemiamas.
+
+
+
+
+12. Privalomojo sveikatos draudimo tarybos nario įgaliojimai nutrūksta, kai:
+
+
+1) pasibaigia Privalomojo sveikatos draudimo tarybos kadencijos laikas ir sveikatos apsaugos ministras patvirtina naują Privalomojo sveikatos draudimo tarybos sudėtį;
+
+
+
+
+2) jis miršta;
+
+
+
+
+3) jis atsistatydina ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos; 
+
+
+
+
+4) jį atšaukia deleguojanti institucija ar organizacija ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos;
+
+
+
+
+5) teismas pripažįsta jį neveiksniu;
+
+
+
+
+6) jis neatitinka šio straipsnio 7, 8 ir 10 dalyse nustatytų reikalavimų ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos.
+
+
+
+
+
+
+13. Privalomojo sveikatos draudimo tarybos nario įgaliojimams nutrūkus šio straipsnio 12 dalies 2–6 punktuose nurodytais pagrindais, likusiam Privalomojo sveikatos draudimo tarybos kadencijos laikui į atsilaisvinusią vietą skiriamas naujas tarybos narys šio straipsnio 4 dalyje nustatyta tvarka.
+
+
+
+
+14. Tarybos nuostatuose nustatyta tvarka Privalomojo sveikatos draudimo tarybos nario įgaliojimai stabdomi, jeigu jam įstatymų nustatyta tvarka yra pradėtas ikiteisminis tyrimas dėl sunkaus ar labai sunkaus nusikaltimo padarymo, dėl nusikaltimo ar baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar baudžiamojo nusižengimo padarymo ar dėl nusikaltimų, kuriais padaryta turtinė žala valstybei. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1220, 2007-06-26, Žin., 2007, Nr. 77-3052 (2007-07-12)
 Nr. X-1828, 2008-11-14, Žin., 2008, Nr. 137-5377 (2008-11-29)
+Straipsnio pakeitimai:
+Nr. XIII-361, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08720
  
 
 
@@ -2609,3 +2746,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2187, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20891
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 16 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-361, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08720
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 28 straipsnio pakeitimo įstatymas
