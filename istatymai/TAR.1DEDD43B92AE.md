@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2017-04-04 iki 2017-05-31
+Suvestinė redakcija nuo 2017-06-01 iki 2017-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -68,7 +68,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“; 
+4) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+ 
 
 
 
@@ -83,14 +86,25 @@ BENDROSIOS NUOSTATOS
 
 
 
-7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją.
+7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
+
+
+
+
+8) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip perkeltiems įmonės viduje ne trumpesniam kaip 9 mėnesių laikotarpiui. 
+Papildyta straipsnio punktu:
+Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+ 
 
 
 
 
 
 
-3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 7 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5 ar 7 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2 ar 7 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas.
+3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 7 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5, 7 ar 8 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2 ar 7 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+ 
 
 
 
@@ -147,6 +161,14 @@ Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
 
 
 7. Vaiko globėjas (rūpintojas) – fizinis ar juridinis asmuo, kuriam įstatymų nustatyta tvarka pavesta be tėvų globos likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam.
+
+
+
+
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“. 
+Papildyta straipsnio dalimi:
+Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+ 
 
 
 Straipsnio pakeitimai:
@@ -1047,6 +1069,7 @@ Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS
  
 
@@ -1055,6 +1078,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
+ 
 Lietuvos Respublikos 
 išmokų vaikams įstatymo 
 priedas
@@ -1076,6 +1100,14 @@ priedas
 3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
 Papildyta punktu:
 Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
+ 
+
+
+
+
+4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1).
+Papildyta punktu:
+Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
  
 
 
@@ -1256,3 +1288,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 10, 12, 13 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-237, 2017-03-28, paskelbta TAR 2017-04-03, i. k. 2017-05490
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 10-2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2 straipsnių ir priedo pakeitimo įstatymas
