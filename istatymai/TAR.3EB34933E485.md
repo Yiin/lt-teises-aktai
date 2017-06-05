@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2017-05-31 iki 2017-06-04
+Suvestinė redakcija nuo 2017-06-05 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2289,13 +2289,30 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 
 
-61 straipsnis. Informacijos, būtinos Europos Bendrijos Tarybos direktyvai 2003/48/EB įgyvendinti, pateikimas
+61 straipsnis. Ataskaitų apie tarptautinių įmonių grupių dalyvius pateikimas
 
 
-Tretieji asmenys privalo centrinio mokesčių administratoriaus nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai informaciją, būtiną Europos Bendrijos Tarybos direktyvai 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo įgyvendinti. Pateiktinų duomenų sąrašą bei juos privalančių teikti subjektų kategorijas, atsižvelgdama į minėtosios direktyvos nuostatas, nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+1. Tarptautinėms įmonių grupėms (toliau šiame straipsnyje – TĮG) priklausantys mokesčių mokėjai ir kiti asmenys, jeigu jie apibrėžti kaip ataskaitas teikiantys subjektai pagal Direktyvą 2011/16/ES ir (arba) pagal tarptautines sutartis ar susitarimus dėl informacijos apie TĮG dalyvius mainų, privalo pateikti Valstybinei mokesčių inspekcijai ataskaitas, kurias sudaro duomenys apie pajamas, pelną (nuostolį), privalomą sumokėti ir sumokėtą pelno mokestį, įstatinį kapitalą, darbuotojų skaičių, materialųjį turtą, išskyrus grynuosius pinigus ir grynųjų pinigų ekvivalentus, išskiriant nurodytus duomenis pagal atskiras jurisdikcijas, kuriose TĮG vykdo veiklą, taip pat kiekvieno į TĮG įeinančio subjekto identifikavimo duomenys, duomenys apie pagrindinės veiklos rūšis, kiti duomenys, jeigu jie apibrėžti kaip teiktina informacija pagal tarptautinių sutarčių ar susitarimų dėl informacijos apie TĮG dalyvius mainų nuostatas. 
+
+
+
+
+2. Pagal šį straipsnį TĮG laikoma įmonių grupė, kurią sudaro dvi ar daugiau įmonių, kurių rezidavimo vieta mokesčių tikslais priklauso skirtingoms jurisdikcijoms, arba kurios sudėtyje yra įmonė, kurios rezidavimo vieta mokesčių tikslais priklauso vienai jurisdikcijai, o jos apmokestinamoji verslo veikla vykdoma per kitai jurisdikcijai priklausančią nuolatinę buveinę. Šis straipsnis netaikomas TĮG, kurios konsoliduotos pajamos pagal pateiktas konsoliduotas finansines ataskaitas yra mažesnės negu 750 000 000 eurų finansiniais metais, ėjusiais iš karto prieš ataskaitinius finansinius metus, už kuriuos būtų teikiama šio straipsnio 1 dalyje nurodyta ataskaita.
+
+
+
+
+3. Ataskaita pateikiama per 12 mėnesių nuo TĮG ataskaitinių finansinių metų paskutinės dienos.
+
+
+
+
+4. Ataskaitos teikimo tvarką nustato centrinis mokesčių administratorius.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
  
-
-
 
 
 
