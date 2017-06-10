@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-05-31 iki 2017-06-09
+Suvestinė redakcija nuo 2017-06-10 iki 2017-06-27
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -957,7 +957,7 @@ Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 
 
 
-4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 211 straipsnio 2 dalyje, 213 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 215 straipsnio 3, 4 dalyse, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 423 straipsnio 3 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu: 
+4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 211 straipsnio 2 dalyje, 213 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 215 straipsnio 3, 4 dalyse, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 7 dalyje, 423 straipsnio 3 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
 
 
 1) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
@@ -987,6 +987,7 @@ Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
+Nr. XIII-402, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09786
  
 
 
@@ -11742,7 +11743,6 @@ užtraukia baudą nuo šešiasdešimt iki dviejų šimtų eurų.
 3. Geležinkelių transporto eismo įvykį sukėlęs geležinkelių transporto eismo saugą reglamentuojančiuose teisės aktuose nustatytų reikalavimų pažeidimas
 užtraukia baudą nuo devyniasdešimt iki trijų šimtų eurų.
  
- 
 
 
 
@@ -11760,7 +11760,6 @@ užtraukia baudą nuo trisdešimt iki devyniasdešimt eurų.
 
 2. Geležinkelių transporto eismo įvykių, katastrofų ar riktų nuslėpimas
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
- 
  
 
 
@@ -12067,7 +12066,6 @@ Teisės aktuose nustatytų informavimo apie oro susisiekimo paslaugų kainas ir 
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
  
- 
 
 
 
@@ -12101,40 +12099,65 @@ užtraukia baudą nuo keturiasdešimt iki devyniasdešimt eurų.
 
 
 
-2. Orlaivio įgulos nario skrydis be galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros ir remonto darbų atlikimas neturint galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros taisyklių pažeidimas arba skrydžių saugos taisyklių pažeidimas
+2. Bepiločių orlaivių naudojimo taisyklių pažeidimas
+užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+
+
+
+
+3. Orlaivio įgulos nario skrydis be galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros ir remonto darbų atlikimas neturint galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros taisyklių pažeidimas arba skrydžių saugos taisyklių pažeidimas
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. 
 
 
 
 
-3. Teisės aktuose oro vežėjams ir orlaivių naudotojams nustatytų reikalavimų apdrausti civilinę atsakomybę už keleiviams, bagažui, kroviniams ir tretiesiems asmenims padarytą žalą nesilaikymas 
+4. Teisės aktuose oro vežėjams ir orlaivių naudotojams nustatytų reikalavimų apdrausti civilinę atsakomybę už keleiviams, bagažui, kroviniams ir tretiesiems asmenims padarytą žalą nesilaikymas 
 užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
 
 
-4. Nustatyta tvarka neįregistruoto orlaivio, orlaivio be atpažinimo ženklų arba su padirbtais atpažinimo ženklais naudojimas, galiojančio tinkamumo skraidyti pažymėjimo neturinčio orlaivio skrydžiai (išskyrus nustatyta tvarka bandomuosius skrydžius atliekančius orlaivius), orlaivio, žinant, kad jis neatitinka tinkamumo skraidyti reikalavimų, naudojimas 
+5. Nustatyta tvarka neįregistruoto orlaivio, orlaivio be atpažinimo ženklų arba su padirbtais atpažinimo ženklais naudojimas, galiojančio tinkamumo skraidyti pažymėjimo neturinčio orlaivio skrydžiai (išskyrus nustatyta tvarka bandomuosius skrydžius atliekančius orlaivius), orlaivio, žinant, kad jis neatitinka tinkamumo skraidyti reikalavimų, naudojimas 
 užtraukia baudą nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų. 
 
 
 
 
-5. Lietuvos Respublikos aviacijos įstatyme nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas, avarinę situaciją sukėlęs skrydžių saugos taisyklių pažeidimas
+6. Bendrosios aviacijos eksperimentinės kategorijos lėktuvų ir sraigtasparnių naudojimo skrydžiams reikalavimų pažeidimas
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+7. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+8. Lietuvos Respublikos aviacijos įstatyme nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas, avarinę situaciją sukėlęs skrydžių saugos taisyklių pažeidimas
 užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų. 
 
 
 
 
-6. Pakartotinis Lietuvos Respublikos aviacijos įstatyme nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas,
+9. Pakartotinis Lietuvos Respublikos aviacijos įstatyme nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas,
 užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-7. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą privaloma skirti teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės dirbti skrydžių vadovu atėmimą nuo šešių mėnesių iki penkerių metų.
+10. Už šio straipsnio 8 dalyje numatytą administracinį nusižengimą privaloma skirti teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės dirbti skrydžių vadovu atėmimą nuo šešių mėnesių iki penkerių metų.
+
+
+
+
+11. Už šio straipsnio 7 dalyje numatytą administracinį nusižengimą gali būti skiriamas bepiločio orlaivio konfiskavimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-402, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09786
  
-
-
 
 
 
@@ -14954,8 +14977,11 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 488 straipsnis. Viešosios rimties trikdymas
 
 
-1. Šauksmai, švilpimas, garsus dainavimas arba grojimas muzikos instrumentais, kitokiais garsiniais aparatais ar kiti triukšmą keliantys veiksmai gatvėse, aikštėse, parkuose, paplūdimiuose, viešajame transporte ir kitose viešosiose vietose, o vakaro (nuo 18 val. iki 22 val.) ir nakties (nuo 22 val. iki 6 val.) metu – ir gyvenamosiose patalpose, įmonėse, įstaigose ar organizacijose, kai tai trikdo asmenų ramybę, poilsį ar darbą,
-užtraukia baudą nuo dvidešimt iki aštuoniasdešimt eurų.
+1. Šauksmai, švilpimas, garsus dainavimas arba grojimas muzikos instrumentais, kitokiais garsiniais aparatais ar kiti triukšmą keliantys veiksmai gatvėse, aikštėse, parkuose, paplūdimiuose, viešajame transporte ir kitose viešosiose vietose, o vakaro (nuo 19 val. iki 22 val.) ir nakties (nuo 22 val. iki 7 val.) metu – ir gyvenamosiose patalpose, įmonėse, įstaigose ar organizacijose, kai tai trikdo asmenų ramybę, poilsį ar darbą,
+užtraukia baudą nuo dvidešimt iki aštuoniasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-401, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09785
+ 
 
 
 
@@ -15976,7 +16002,6 @@ užtraukia baudą švietimo įstaigos ar mokslo ir studijų institucijos vadovui
 
 2. Informacijos apie darbo sutarties su leidimą laikinai gyventi Lietuvos Respublikoje turinčiu užsieniečiu nutraukimą, o nustatytais atvejais – apie jo darbo užmokesčio sumažėjimą nepateikimas laiku vidaus reikalų ministro įgaliotai institucijai 
 užtraukia baudą darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
- 
 
 
 
@@ -21236,3 +21261,18 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 184 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-375, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09155
 Lietuvos Respublikos administracinių nusižengimų kodekso 187 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
+Lietuvos Respublikos administracinių nusižengimų kodekso 542, 589 straipsnių ir priedo pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-401, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09785
+Lietuvos Respublikos administracinių nusižengimų kodekso 488 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-402, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09786
+Lietuvos Respublikos administracinių nusižengimų kodekso 29 ir 393 straipsnių pakeitimo įstatymas
