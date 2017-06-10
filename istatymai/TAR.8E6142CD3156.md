@@ -21,6 +21,10 @@ PASLAUGŲ KVITĄ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2017-06-10 iki 2021-08-31
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 136-6965, i. k. 1121010ISTA0XI-2411
+ 
 LIETUVOS RESPUBLIKOS  ŽEMĖS ŪKIO IR MIŠKININKYSTĖS PASLAUGŲ TEIKIMO  PAGAL PASLAUGŲ KVITĄ  ĮSTATYMAS
  
 2012 m. lapkričio 13 d. Nr. XI-2411 
@@ -191,12 +195,10 @@ Vyriausybė ar jos įgaliota institucija iki 2013 m. kovo 31 d. priima šio įst
 
 
 
-8 straipsnis. Įstatymo stebėsena ir rezultatų įvertinimas
-
-
-Lietuvos Respublikos socialinės apsaugos ir darbo ministerija atlieka šio įstatymo įgyvendinimo stebėseną ir nuo 2013 metų kiekvienais metais iki gruodžio 31 dienos pateikia Vyriausybei šio įstatymo įgyvendinimo stebėsenos ir pasiektų rezultatų įvertinimo pažymą, kurioje nurodomos teigiamos ir neigiamos šio įstatymo įgyvendinimo pasekmės bei pasiūlymai dėl šio įstatymo ir kitų, su jo įgyvendinimu susijusių, įstatymų tobulinimo.
-
-
+8 straipsnis. Neteko galios nuo 2017-06-10
+Straipsnio naikinimas:
+Nr. XIII-407, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09792
+ 
 
 
 
@@ -207,3 +209,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-407, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09792
+Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 8 straipsnio pripažinimo netekusiu galios įstatymas
