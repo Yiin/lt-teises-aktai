@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-09
+Suvestinė redakcija nuo 2017-06-10 iki 2017-06-19
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
+ 
+TAR pastaba. Įsigaliojus šiam įstatymui (Nr. XIII-404), kitiems, ne Lietuvos šaulių sąjungos vado, vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigas einantiems šauliams, kuriems darbo užmokestis mokamas iš Lietuvos Respublikos krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, mutatis mutandis taikomos Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo 17 straipsnio 2–5 dalių nuostatos, taikytinos biudžetinių įstaigų darbuotojams.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26 ir 36 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2010-01-01:
 Nr. XI-408, 2009-07-23, Žin. 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
@@ -533,9 +538,11 @@ Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
 
 
 
-4. Pagrindinis darbo užmokestis, piniginės premijos LŠS vadui, jo pavaduotojams, rinktinių vadams ir rinktinių vadų pavaduotojams, taip pat pagrindinis darbo užmokestis, priedai ir priemokos kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina krašto apsaugos ministras, einantiems šauliams mokami iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, neviršijant LŠS darbo užmokesčiui skirtų lėšų. 
+4. Pareiginė alga, piniginės premijos LŠS vadui, jo pavaduotojams, rinktinių vadams ir rinktinių vadų pavaduotojams, taip pat pareiginė alga, priemokos ir premijos kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina krašto apsaugos ministras, einantiems šauliams mokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, neviršijant LŠS darbo užmokesčiui skirtų lėšų. 
 Papildyta straipsnio dalimi:
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+Straipsnio dalies pakeitimai:
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
  
 
 
@@ -1002,10 +1009,11 @@ Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010IST
 
 
 
-10. Jeigu LŠS vadas yra tarnybą rezerve atliekantis arba atsargos karys, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus pulkininko leitenanto (komandoro) laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą iš eilės į LŠS vado pareigas paskirtam asmeniui mokamo pagrindinio darbo užmokesčio dydis yra lygus pulkininko leitenanto (komandoro) laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
+10. Jeigu LŠS vadas yra tarnybą rezerve atliekantis arba atsargos karys, jam mokamos pareiginės algos dydis yra lygus pulkininko leitenanto (komandoro) laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą iš eilės į LŠS vado pareigas paskirtam asmeniui mokamos pareiginės algos dydis yra lygus pulkininko leitenanto (komandoro) laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1523, 2011-06-23, Žin., 2011, Nr. 86-4165 (2011-07-13), i. k. 1111010ISTA0XI-1523
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
  
 
 
@@ -1854,12 +1862,18 @@ TAR pastaba. 1 dalyje nustatyti reikalavimai dėl turimo kario laipsnio taikomi 
 
 
 
-5. LŠS vado pavaduotojui, kuris nėra profesinės karo tarnybos karys, mokamo pagrindinio darbo užmokesčio dydis yra lygus majoro (komandoro leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Rinktinės vadui, kuris nėra profesinės karo tarnybos karys, mokamo pagrindinio darbo užmokesčio dydis yra lygus kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą į LŠS vado pavaduotojo ar rinktinės vado pareigas paskirtam asmeniui mokamo pagrindinio darbo užmokesčio dydis yra lygus atitinkamai majoro (komandoro leitenanto) ar kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, trečią ir kitus kartus paskirtam į šias pareigas asmeniui – atitinkamai majoro (komandoro leitenanto) ar kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui trečiaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+5. LŠS vado pavaduotojui, kuris nėra profesinės karo tarnybos karys, mokamos pareiginės algos dydis yra lygus majoro (komandoro leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Rinktinės vadui, kuris nėra profesinės karo tarnybos karys, mokamos pareiginės algos dydis yra lygus kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą į LŠS vado pavaduotojo ar rinktinės vado pareigas paskirtam asmeniui mokamos pareiginės algos dydis yra lygus atitinkamai majoro (komandoro leitenanto) ar kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, trečią ir kitus kartus paskirtam į šias pareigas asmeniui – atitinkamai majoro (komandoro leitenanto) ar kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui trečiaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
+ 
 
 
 
 
-6. Šaulys eiti rinktinės vado pavaduotojo pareigas skiriamas LŠS vado įsakymu, LŠS su juo sudaro darbo sutartį. Rinktinės vado pavaduotojui mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą į rinktinės vado pavaduotojo pareigas paskirtam asmeniui mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, trečią ir kitus kartus paskirtam į šias pareigas asmeniui – leitenanto laipsnį turinčiam profesinės karo tarnybos kariui trečiaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+6. Šaulys eiti rinktinės vado pavaduotojo pareigas skiriamas LŠS vado įsakymu, LŠS su juo sudaro darbo sutartį. Rinktinės vado pavaduotojui mokamos pareiginės algos dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. Antrą kartą į rinktinės vado pavaduotojo pareigas paskirtam asmeniui mokamos pareiginės algos dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui antraisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, trečią ir kitus kartus paskirtam į šias pareigas asmeniui – leitenanto laipsnį turinčiam profesinės karo tarnybos kariui trečiaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
+ 
 
 
 
@@ -1874,12 +1888,18 @@ TAR pastaba. 1 dalyje nustatyti reikalavimai dėl turimo kario laipsnio taikomi 
 
 
 
-9. Kitoms, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo nuolatinės šaulio tarnybos pareigoms eiti šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Šias pareigas einantiems šauliams mokamo pagrindinio darbo užmokesčio dydis nustatomas vadovaujantis Lietuvos Respublikos Vyriausybės nustatyta biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarka ir krašto apsaugos ministro nustatytais jo valdymo srities biudžetinių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, taikomais tarnybinio atlyginimo koeficientais. Nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, sąrašą tvirtina krašto apsaugos ministras LŠS vado teikimu, kuriam pritarė LŠS Centro valdyba. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu  nustato LŠS vadas.
+9. Kitoms, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigoms eiti šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Kitų, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, sąrašą tvirtina krašto apsaugos ministras LŠS vado teikimu, kuriam pritarė LŠS Centro valdyba, o šias pareigas einančių šaulių pareigybių aprašymus tvirtina, darbo apmokėjimo sistemą ir pareiginės algos pastoviosios dalies dydžius nustato LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, mutatis mutandis vadovaudamasis Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo nuostatomis, taikomomis biudžetinių įstaigų darbuotojų pareigybių aprašymams, darbo apmokėjimo sistemai ir pareiginės algos pastoviosios dalies dydžio nustatymui. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu nustato LŠS vadas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
+ 
 
 
 
 
-10. LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, gali skirti priedus ir priemokas kitiems, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigas einantiems šauliams, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Priedų ir priemokų skyrimo atvejai ir dydžiai nustatomi vadovaujantis Lietuvos Respublikos Vyriausybės nustatyta biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarka.
+10. Kitų, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigas einančių šaulių, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, kasmetinės veiklos vertinimas atliekamas mutatis mutandis vadovaujantis Vyriausybės nustatyta biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, veiklos vertinimo tvarka. LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, nustato pareiginės algos kintamąją dalį, skiria priemokas ir premijas kitiems, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigas einantiems šauliams, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Pareiginės algos kintamosios dalies nustatymo, priemokų ir premijų skyrimo atvejai ir dydžiai nustatomi mutatis mutandis taikant Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo nuostatas, taikomas biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, pareiginės algos kintamosios dalies nustatymui, priemokų ir premijų skyrimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
+ 
 
 
 
@@ -2144,3 +2164,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30 ir 33 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26 ir 36 straipsnių pakeitimo įstatymas
