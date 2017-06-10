@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2016-03-01 iki 2017-06-09
+Suvestinė redakcija nuo 2017-06-10
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -170,7 +170,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Elektromobilis – transporto priemonė, kurioje energija mechaniniam judesiui atlikti tiekiama tik iš elektros energijos kaupiklio.
+18. Elektromobilis – motorinė transporto priemonė, kurioje sumontuota jėgos pavara, turinti bent vieną ne išorinį elektros energijos keitiklį su elektrine įkraunamąja energijos kaupimo sistema, kurią galima įkrauti iš išorės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
 
 
 
@@ -384,7 +387,9 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 
 
-50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme, Statybos įstatyme, Vandens įstatyme ir Žemės įstatyme.
+50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Šilumos ūkio įstatyme, Statybos įstatyme, Vandens įstatyme, Žemės įstatyme ir Atliekų tvarkymo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
  
@@ -3711,15 +3716,13 @@ priedas
 
 
 3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+
+
+
+
+
+
  
- 
- 
-
-
-
-
-
-
 Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3795,3 +3798,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 4, 6, 11, 20, 46 straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 6, 38, 58 straipsnių ir priedo pakeitimo įstatymas
