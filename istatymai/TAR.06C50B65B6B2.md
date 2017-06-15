@@ -13,11 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-14
+Suvestinė redakcija nuo 2017-06-15 iki 2017-12-19
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
  
-LIETUVOS RESPUBLIKOS  ŽALOS, ATSIRADUSIOS DĖL VALDŽIOS INSTITUCIJŲ NETEISĖTŲ VEIKSMŲ, ATLYGINIMO IR ATSTOVAVIMO VALSTYBEI IR  LIETUVOS  RESPUBLIKOS VYRIAUSYBEI   ĮSTATYMAS   
+LIETUVOS RESPUBLIKOS  ŽALOS, ATSIRADUSIOS DĖL VALDŽIOS INSTITUCIJŲ NETEISĖTŲ VEIKSMŲ, ATLYGINIMO IR ATSTOVAVIMO VALSTYBEI IR  LIETUVOS  RESPUBLIKOS VYRIAUSYBEI  ĮSTATYMAS   
 2002 m. gegužės 21 d. Nr. IX-895
 Vilnius
  
@@ -415,34 +415,34 @@ Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 
 
 
-52 straipsnis. Bendrų jungtinių tyrimo grupių pareigūnų padarytos žalos atlyginimas
+52 straipsnis. Bendrų (jungtinių) tyrimo grupių pareigūnų ir vykdant Europos tyrimo orderį ar turto (arba įrodymų) arešto aktą padarytos žalos atlyginimas
 
 
-1. Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje dalyvavusių ir baudžiamojo proceso veiksmus Lietuvos Respublikoje atlikusių užsienio valstybių pareigūnų veiksmais (neveikimu) Lietuvos Respublikoje padaryta žala atlyginama tokiomis pat sąlygomis ir tvarka kaip ir Lietuvos Respublikos pareigūnų padaryta žala. Šalių teisės ir pareigos pagal prievoles, atsirandančias dėl padarytos žalos, nustatomos pagal Lietuvos Respublikos teisę. 
-
-
-
-
-2. Bylose dėl Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje dalyvavusių ir baudžiamojo proceso veiksmus Lietuvos Respublikoje atlikusių užsienio valstybių pareigūnų veiksmais (neveikimu) Lietuvos Respublikoje padarytos žalos atlyginimo Lietuvos valstybei atstovauja Lietuvos Respublikos generalinė prokuratūra. 
+1. Pagal Lietuvos Respublikos įstatymą „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Lietuvos Respublikoje vykdant Europos tyrimo orderį dalyvavusių arba Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje dalyvavusių ir baudžiamojo proceso veiksmus Lietuvos Respublikoje atlikusių užsienio valstybių pareigūnų veiksmais (neveikimu) Lietuvos Respublikoje padaryta žala arba žala, atsiradusi taikant turto (arba įrodymų) arešto akte nurodytas procesines prievartos priemones pagal Lietuvos Respublikos įstatymą „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“, atlyginama tokiomis pačiomis sąlygomis ir tvarka kaip ir Lietuvos Respublikos pareigūnų padaryta žala. Šalių teisės ir pareigos pagal prievoles, atsirandančias dėl padarytos žalos, nustatomos pagal Lietuvos Respublikos teisę.
 
 
 
 
-3. Teisingumo ministerija, atlyginusi žalą pagal šio straipsnio 1 dalį, kreipiasi į valstybės, kurios pareigūnai, veikdami Lietuvos Respublikos teritorijoje, padarė žalą asmeniui, kompetentingą instituciją dėl nukentėjusiam ar turinčiam teisę gauti išmoką asmeniui išmokėtų lėšų kompensavimo. 
+2. Bylose dėl šio straipsnio 1 dalyje nurodytos žalos atlyginimo Lietuvos valstybei pagal kompetenciją atstovauja Lietuvos Respublikos generalinė prokuratūra arba Teisingumo ministerija.
 
 
 
 
-4. Kai Lietuvos Respublikos pareigūnai, dalyvaudami Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje, padaro žalą užsienio valstybės teritorijoje, Teisingumo ministerija pagal užsienio valstybės pateiktus dokumentus kompensuoja šiai valstybei visas lėšas, kurias ji sumokėjo nukentėjusiems ar turintiems teisę gauti išmokas asmenims. 
+3. Teisingumo ministerija, atlyginusi žalą pagal šio straipsnio 1 dalį, kreipiasi į valstybės, kurios pareigūnai, veikdami Lietuvos Respublikos teritorijoje, padarė žalą asmeniui, arba valstybės, kurios institucija išdavė turto (arba įrodymų) arešto aktą, kurį vykdant Lietuvos Respublikoje asmeniui buvo padaryta žala, išskyrus atvejus, kai žala buvo padaryta išimtinai dėl Lietuvos Respublikos pareigūnų veiksmų, kompetentingą instituciją dėl nukentėjusiam ar turinčiam teisę gauti išmoką asmeniui išmokėtų lėšų kompensavimo.
 
 
 
 
-5. Šio straipsnio nuostatos dėl žalos atlyginimo, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip, taikomos ir tais atvejais, kai bendroji (jungtinė) tyrimo grupė yra sudaryta vadovaujantis tarptautinėmis sutartimis.
+4. Kai Lietuvos Respublikos pareigūnai, dalyvaudami Europos Sąjungos bendroje (jungtinėje) tyrimo grupėje arba dalyvaudami kitoje Europos Sąjungos valstybėje narėje vykdant Europos tyrimo orderį, padaro žalą užsienio valstybės teritorijoje arba kai žala atsirado dėl Lietuvos Respublikos institucijos išduoto turto (arba įrodymų) arešto akto liudijimo vykdymo kitoje Europos Sąjungos valstybėje narėje, išskyrus atvejus, kai ši žala buvo padaryta išimtinai dėl kitos Europos Sąjungos valstybės narės pareigūnų veiksmų, Teisingumo ministerija pagal užsienio valstybės pateiktus dokumentus kompensuoja šiai valstybei visas lėšas, kurias ji sumokėjo nukentėjusiems ar turintiems teisę gauti išmokas asmenims.
 
 
-Papildyta straipsniu:
-Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
+
+
+5. Šio straipsnio nuostatos dėl žalos atlyginimo, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip, taikomos ir tais atvejais, kai bendroji (jungtinė) tyrimo grupė yra sudaryta vadovaujantis tarptautinėmis sutartimis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-400, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09784
  
 
 
@@ -487,27 +487,43 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
 
 
 
 
 
 
-Lietuvos Respublikos
-žalos, atsiradusios dėl valdžios
-institucijų neteisėtų veiksmų, 
-atlyginimo ir atstovavimo valstybei
-ir Lietuvos Respublikos 
-Vyriausybei įstatymo 
+Lietuvos Respublikos 
+žalos, atsiradusios dėl valdžios institucijų
+neteisėtų veiksmų, atlyginimo ir
+atstovavimo valstybei ir Lietuvos 
+Respublikos Vyriausybei įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2002 m. birželio 13 d. Tarybos pagrindų sprendimas (2002/465/TVR) dėl bendrų tyrimo grupių.
+
+
+1. 2002 m. birželio 13 d. Tarybos pamatinis sprendimas (2002/465/TVR) dėl jungtinių tyrimo grupių (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 15).
+
+
+
+
+2. 2003 m. liepos 22 d. Tarybos pamatinis sprendimas 2003/577/TVR dėl turto arba įrodymų arešto aktų vykdymo Europos Sąjungoje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 185).
+
+
+
+
+3. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose (OL 2014 L 130, p. 1).
+
+
 Papildyta priedu:
 Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA000X-370
 Priedo pakeitimai:
 Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+Nr. XIII-400, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09784
  
  
  
@@ -542,3 +558,8 @@ Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėt�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2716, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26501
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-400, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09784
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 5-2 straipsnio ir priedo pakeitimo įstatymas
