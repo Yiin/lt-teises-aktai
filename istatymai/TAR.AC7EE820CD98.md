@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ac7ee820cd9811e6a2cac7383cbb90a3"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymo Nr. XII-2508 1 ir 2 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2017-06-15
+ 
+Įstatymas paskelbtas: TAR 2016-12-29, i. k. 2016-29843
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 PAKEITIMO ĮSTATYMO NR. XII-2508 1 IR 2 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -243,16 +250,10 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio d
 
 
 
-2. Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 11 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
-
-
-
-
-„3) išmokų už buto nuomą, elektros, šilumos energiją, karštą ir geriamąjį vandenį, komunalines ir ryšių paslaugas, asmeninio transporto naudojimą, darbuotojų maitinimą, mokamų įstatymuose nustatyto dydžio ir nustatytais atvejais;“.
-
-
-
-
+2. Neteko galios nuo 2017-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-415, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10023
+ 
 
 
 
@@ -444,10 +445,12 @@ Pakeisti 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio d
 12 straipsnis. Įstatymo įsigaliojimas
 
 
-Šio įstatymo 3 straipsnio 2 dalis, 5 straipsnio 3 dalis ir 6 straipsnio 2 ir 4 dalys įsigalioja 2017 m. liepos 1 d.
+Šio įstatymo 3 straipsnio 2 dalis, 5 straipsnio 3 dalis ir 6 straipsnio 4 dalis įsigalioja 2017 m. liepos 1 d. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-415, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10023
  
-
-
 
 
 
@@ -457,3 +460,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-415, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10023
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymo Nr. XII-2508 1 ir 2 straipsnių pakeitimo įstatymo Nr. XIII-139 6 ir 12 straipsnių pakeitimo įstatymas
