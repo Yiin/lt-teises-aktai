@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2017-05-25 iki 2017-06-14
+Suvestinė redakcija nuo 2017-06-15 iki 2017-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -159,47 +159,77 @@ ASMENŲ SUĖMIMAS, PRISTATYMAS IR PRIĖMIMAS Į TARDYMO IZOLIATORIUS
 
 
 
-2) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems teismo nuosprendis įsiteisėjo, taip pat nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į areštines ar pataisos įstaigas;
-
-
-
-
-3) nuteistieji, kurie perduodami į jų pilietybės valstybę toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų perdavimo jų pilietybės valstybei;
-
-
-
-
-4) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkių parų perkelti į tardymo izoliatorius iš areštinių ar pataisos įstaigų dėl bylų nagrinėjimo teisme; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+2) kitoje valstybėje suimti arba su laisvės atėmimu susijusią bausmę kitoje valstybėje atliekantys asmenys, laikinai perimti iš kitos valstybės į Lietuvos Respubliką Baudžiamojo proceso kodekso 77 straipsnyje arba Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
  
 
 
 
 
-5) nuteistieji, kuriems panaikintas bausmės vykdymo atidėjimas, siunčiami atlikti pagal nuosprendį paskirtą bausmę, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+3) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems teismo nuosprendis įsiteisėjo, taip pat nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į areštines ar pataisos įstaigas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
 
 
 
 
-6) nuteistieji, kuriems panaikintas lygtinis paleidimas iš pataisos įstaigų arba lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą, siunčiami į pataisos įstaigas atlikti likusią laisvės atėmimo bausmės dalį, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+4) nuteistieji, kurie perduodami į jų pilietybės valstybę toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų perdavimo jų pilietybės valstybei;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
 
 
 
 
-7) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus Bausmių vykdymo kodekso 68 straipsnyje nustatyta tvarka;
+5) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkių parų perkelti į tardymo izoliatorius iš areštinių ar pataisos įstaigų dėl bylų nagrinėjimo teisme; 
+Straipsnio punkto pakeitimai:
+Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
 
 
 
 
-8) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje;
+6) nuteistieji, kuriems panaikintas bausmės vykdymo atidėjimas, siunčiami atlikti pagal nuosprendį paskirtą bausmę, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
 
 
 
 
-9) Bausmių vykdymo kodekso 69 straipsnio 3 dalyje nustatyta tvarka į tardymo izoliatorių specialius padalinius (pusiaukelės namus) perkelti nuteistieji.
+7) nuteistieji, kuriems panaikintas lygtinis paleidimas iš pataisos įstaigų arba lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą, siunčiami į pataisos įstaigas atlikti likusią laisvės atėmimo bausmės dalį, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
+
+
+
+
+8) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus Bausmių vykdymo kodekso 68 straipsnyje nustatyta tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
+
+
+
+
+9) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
+
+
+
+
+10) Bausmių vykdymo kodekso 69 straipsnio 3 dalyje nustatyta tvarka į tardymo izoliatorių specialius padalinius (pusiaukelės namus) perkelti nuteistieji.
 Papildyta straipsnio punktu:
 Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
  
 
 
@@ -231,7 +261,15 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-3) teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkių parų nuteistąjį arešto ar laisvės atėmimo bausme iš areštinės ar pataisos įstaigos į tardymo izoliatorių dėl bylos nagrinėjimo teisme.
+3) teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkių parų nuteistąjį arešto ar laisvės atėmimo bausme iš areštinės ar pataisos įstaigos į tardymo izoliatorių dėl bylos nagrinėjimo teisme;
+
+
+
+
+4) Baudžiamojo proceso kodekso 77 straipsnyje arba Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nustatyta tvarka priimtas Lietuvos Respublikos generalinės prokuratūros prokuroro sprendimas dėl suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perėmimo į Lietuvos Respubliką arba Lietuvos Respublikos generalinės prokuratūros išduotas ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos pripažintas Europos tyrimo orderis dėl suimto arba su laisvės atėmimu susijusią bausmę atliekančio asmens laikino perdavimo į Lietuvos Respubliką. 
+Papildyta straipsnio punktu:
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
 
 
 
@@ -1821,3 +1859,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 48 straipsnio ir prie
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 14, 23, 31 straipsnių ir priedo pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir 8 straipsnių pakeitimo įstatymas
