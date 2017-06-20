@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2017-06-10 iki 2017-06-19
+Suvestinė redakcija nuo 2017-06-20 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
- 
-TAR pastaba. Įsigaliojus šiam įstatymui (Nr. XIII-404), kitiems, ne Lietuvos šaulių sąjungos vado, vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigas einantiems šauliams, kuriems darbo užmokestis mokamas iš Lietuvos Respublikos krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, mutatis mutandis taikomos Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo 17 straipsnio 2–5 dalių nuostatos, taikytinos biudžetinių įstaigų darbuotojams.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26 ir 36 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2010-01-01:
 Nr. XI-408, 2009-07-23, Žin. 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
@@ -1878,7 +1873,7 @@ Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
 
 
-7. Krašto apsaugos ministras LŠS vado teikimu, LŠS Centro valdybos pritarimu gali apdovanoti piniginėmis premijomis už ypatingą pasižymėjimą tarnyboje LŠS vado pavaduotojus ir rinktinių vadus, LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, – rinktinių vadų pavaduotojus. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatyto pagrindinio darbo užmokesčio dydžio.
+7. Krašto apsaugos ministras LŠS vado teikimu gali apdovanoti piniginėmis premijomis už labai gerą tarnybos įvertinimą LŠS vado pavaduotojus ir rinktinių vadus, LŠS vadas – rinktinių vadų pavaduotojus. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio. LŠS vado pavaduotojų, rinktinių vadų ir rinktinių vadų pavaduotojų tarnybos vertinimo tvarką nustato krašto apsaugos ministras. 
 
 
 
@@ -1909,6 +1904,24 @@ Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
 Straipsnio pakeitimai:
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
+ 
+
+
+
+
+361 straipsnis. Šaulių teisė susipažinti su įslaptinta informacija ir ją naudoti
+
+
+1. Jeigu šaulio tarnybai nustatytas specialus reikalavimas turėti leidimą dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, šaulys į šaulio tarnybą gali būti skiriamas tik suteikus jam tokį leidimą ar teisę. 
+
+
+
+
+2. Kai šaulys netenka leidimo dirbti ar susipažinti su įslaptinta informacija arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, jis gali būti skiriamas į kitą su tokios informacijos naudojimu nesusijusią šaulio tarnybą.
+
+
+Papildyta straipsniu:
+Nr. XIII-438, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10254
  
 
 
@@ -2169,3 +2182,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30 ir 33
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26 ir 36 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-438, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10254
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 papildymo 36-1 straipsniu įstatymas
