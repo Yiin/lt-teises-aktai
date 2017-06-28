@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2016-06-03 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -275,36 +275,27 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 4 straipsnis. Kelių suskirstymas pagal nuosavybės formas
 
 
-1. Keliai nuosavybės teise priklauso valstybei, savivaldybėms, fiziniams ar juridiniams asmenims. 
-Straipsnio dalies pakeitimai:
-Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+1. Keliai nuosavybės teise priklauso valstybei, savivaldybėms, fiziniams ar juridiniams asmenims.
+
+
+
+
+2. Valstybinės reikšmės keliai išimtine nuosavybės teise priklauso valstybei. Juos turto patikėjimo teise valdo, naudoja ir jais disponuoja Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos.
+
+
+
+
+3. Vietinės reikšmės viešieji keliai ir gatvės nuosavybės teise priklauso savivaldybėms, o vidaus keliai – valstybei, savivaldybėms, kitiems juridiniams ir (ar) fiziniams asmenims.
+
+
+
+
+4. Valstybinės reikšmės kelias ar jo ruožas Susisiekimo ministerijos teikimu išbraukiamas iš valstybinės reikšmės kelių sąrašo, kai nutiesiamas naujas valstybinės reikšmės kelias arba miestų ar kitų gyvenamųjų vietovių aplinkkelis, pasikeičia kelio socialinė ekonominė reikšmė ir (ar) kelyje sumažėja transporto priemonių eismo intensyvumas, rekonstrukcijos metu kelių ruožai ištiesinami ir (ar) nutiesiamas to paties pavadinimo kelio ruožas naujoje vietoje. Gavus atitinkamos savivaldybės tarybos sutikimą, tokie keliai teisės aktų nustatyta tvarka perduodami savivaldybių nuosavybėn su visais jiems priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis ir įrašomi į vietinės reikšmės kelių sąrašą. Savivaldybės tarybos sutikimu vietinės reikšmės kelias ar (ir) kelio ruožas išbraukiamas iš vietinės reikšmės kelių sąrašo, kai pasikeičia to kelio socialinė ekonominė reikšmė ir kelyje padidėja transporto priemonių eismo intensyvumas ir (ar) jis rekonstruojamas į valstybinės reikšmės kelią ir suderinus su Susisiekimo ministerija perduodamas su visais jam priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis valstybės nuosavybėn bei turto patikėjimo teise valdyti, naudotis ir juo disponuoti Lietuvos automobilių kelių direkcijai prie Susisiekimo ministerijos ir įrašomas į valstybinės reikšmės kelių sąrašą.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
  
-
-
-
-
-2. Valstybinės reikšmės keliai išimtine nuosavybės teise priklauso valstybei. Juos turto patikėjimo teise įstatymų ir kitų teisės aktų nustatyta tvarka valdo, naudoja ir jais disponuoja Susisiekimo ministerijos įsteigtos valstybės įmonės ar jos įgaliota Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos.
-
-
-
-
-3. Vietinės reikšmės viešieji keliai ir gatvės nuosavybės teise priklauso savivaldybėms, o vidaus keliai - valstybei, savivaldybėms, kitiems juridiniams ir (ar) fiziniams asmenims.
-
-
-
-
-4. Valstybinės reikšmės kelias ar jo ruožas Susisiekimo ministerijos teikimu išbraukiamas iš valstybinės reikšmės kelių sąrašo, kai nutiesiamas naujas valstybinės reikšmės kelias arba miestų ar kitų gyvenamųjų vietovių aplinkkelis, pasikeičia kelio socialinė ekonominė reikšmė ir (ar) kelyje sumažėja transporto priemonių eismo intensyvumas, rekonstrukcijos metu kelių ruožai ištiesinami ir (ar) nutiesiamas to paties pavadinimo kelio ruožas naujoje vietoje. Gavus atitinkamos savivaldybės tarybos sutikimą, tokie keliai teisės aktų nustatyta tvarka perduodami savivaldybių nuosavybėn su visais jiems priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis ir įrašomi į vietinės reikšmės kelių sąrašą. Savivaldybės tarybos sutikimu vietinės reikšmės kelias ar (ir) kelio ruožas išbraukiamas iš vietinės reikšmės kelių sąrašo, kai pasikeičia to kelio socialinė ekonominė reikšmė ir kelyje padidėja transporto priemonių eismo intensyvumas ir (ar) jis rekonstruojamas į valstybinės reikšmės kelią ir suderinus su Susisiekimo ministerija ir Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos teisės aktų nustatyta tvarka perduodamas su visais jam priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis valstybės nuosavybėn bei patikėjimo teise valdyti, naudotis ir juo disponuoti šio straipsnio 2 dalyje nurodytiems juridiniams asmenims ir įrašomas į valstybinės reikšmės kelių sąrašą.
-Straipsnio dalies pakeitimai:
-Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
- 
-
-
-
-
-5. Kai kurie valstybinės reikšmės kelių statiniai ar įrenginiai (tarp jų kelių tiesimo ir priežiūros gamybinės bazės ar gamybiniai buitiniai pastatai), tapę nereikalingi šio straipsnio 2 dalyje nurodytiems juridiniams asmenims, įstatymų ir kitų teisės aktų nustatyta tvarka savivaldybės tarybos sutikimu gali būti perduodami jos nuosavybėn.
- 
-
-
 
 
 
@@ -328,7 +319,10 @@ Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010IS
 3. Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos yra Lietuvos Respublikos Vyriausybės įsteigta biudžetinė įstaiga, kuri organizuoja ir koordinuoja valstybinės reikšmės kelių atkūrimą, priežiūrą ir plėtrą ir kuri: 
 
 
-1) nustato valstybinės reikšmės kelius prižiūrinčioms valstybės įmonėms privalomus kelių priežiūros darbus (užduotis);
+1) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
+ 
 
 
 
@@ -537,7 +531,10 @@ Kelių kategorijos nustatomos atsižvelgiant į transporto priemonių eismo pral
 
 
 
-2. Įstatymų ar Vyriausybės nustatyta tvarka valstybinės reikšmės keliams priskirta žemė priklauso Lietuvos valstybei išimtine nuosavybės teise.
+2. Įstatymų ar Vyriausybės nustatyta tvarka valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
+ 
 
 
 Straipsnio pakeitimai:
@@ -1175,3 +1172,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
+Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5 ir 10 straipsnių pakeitimo įstatymas
