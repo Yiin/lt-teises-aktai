@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D38B48DC3EF0"
 
 # Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2754, i. k. 1031010ISTA0IX-1597
  
@@ -275,7 +275,10 @@ MOKĖJIMO IR VERTYBINIŲ POPIERIŲ ATSISKAITYMO SISTEMOS
 
 
 
-2. Sistemos operatoriumi gali būti tik Lietuvos bankas, Lietuvos centrinis vertybinių popierių depozitoriumas, Lietuvos Respublikos arba kitos valstybės narės finansų įstaiga ar tokios įstaigos dukterinė įmonė arba sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma kitos valstybės narės teisė, operatorius.
+2. Sistemos operatoriumi gali būti tik Lietuvos bankas, Centrinis vertybinių popierių depozitoriumas, Lietuvos Respublikos arba kitos valstybės narės finansų įstaiga ar tokios įstaigos dukterinė įmonė arba sistemos, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma kitos valstybės narės teisė, operatorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-466, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10827
+ 
 
 
 
@@ -620,7 +623,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
  
  
 
@@ -672,3 +675,8 @@ Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1479, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21140
 Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. IX-1597 9 straipsnio ir priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-466, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10827
+Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo Nr. IX-1597 4 straipsnio pakeitimo įstatymas
