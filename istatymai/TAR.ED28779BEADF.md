@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2016-12-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -591,7 +591,10 @@ Nr. XII-375, 2013-06-18, Žin., 2013, Nr. 68-3409 (2013-06-28)
 
 
 
-5) nė vienas valdymo įmonės ar investicinės bendrovės darbuotojas nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus darbuotojas, kurio funkcijos tiesiogiai susijusios su reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus veikla, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+5) nė vienas valdymo įmonės ar investicinės bendrovės darbuotojas nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus darbuotojas, kurio funkcijos tiesiogiai susijusios su reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus veikla, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-472, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10836
+ 
 
 
 
@@ -7983,3 +7986,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2773, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26974
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 9, 18, 31, 32, 33, 34, 35, 124, 152, 167, 168, 170, 171, 173, 174 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 14-1, 32-1, 163-1 straipsniais ir Kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 170 straipsnio pakeitimo įstatymo Nr. XII-2453 pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-472, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10836
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 5 straipsnio pakeitimo įstatymas
