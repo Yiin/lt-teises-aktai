@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-11-16
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -1731,7 +1731,10 @@ ADMINISTRACINĖS BYLOS PROCESO DALYVIAI
 
 
 
-7) profesinės sąjungos, jeigu jos atstovauja profesinės sąjungos nariams tarnybos teisinių santykių bylose. Šiuo atveju bylą teisme veda profesinės sąjungos vienasmenis valdymo organas, įstatymų ar steigimo dokumentų nustatyta tvarka įgalioti kolegialių valdymo organų nariai arba atstovai pagal pavedimą – darbuotojai (apeliacinės instancijos teisme – turintys aukštąjį universitetinį teisinį išsilavinimą) ir (ar) advokatai (advokatų padėjėjai).
+7) profesinės sąjungos, jeigu jos atstovauja profesinės sąjungos nariams tarnybos teisinių santykių bylose, o šio įstatymo 1268 straipsnio 1 dalyje nurodytu atveju – profesinės sąjungos arba asociacijos. Šiame punkte nurodytais atvejais bylą teisme veda profesinės sąjungos ar asociacijos vienasmenis valdymo organas, įstatymų ar steigimo dokumentų nustatyta tvarka įgalioti kolegialių valdymo organų nariai arba atstovai pagal pavedimą – darbuotojai (apeliacinės instancijos teisme – turintys aukštąjį universitetinį teisinį išsilavinimą) ir (ar) advokatai (advokatų padėjėjai). 
+Straipsnio punkto pakeitimai:
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
+ 
 
 
 
@@ -3570,12 +3573,18 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-11) šio įstatymo 128 straipsnio 4 dalyje nurodytu atveju;
+12) šio įstatymo 128 straipsnio 4 dalyje nurodytu atveju;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
+ 
 
 
 
 
-12) kitais atvejais, kai teismas pripažįsta, kad bylos nagrinėjimą sustabdyti yra būtina.
+13) kitais atvejais, kai teismas pripažįsta, kad bylos nagrinėjimą sustabdyti yra būtina.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
+ 
 
 
 
@@ -3641,7 +3650,9 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-7) šio įstatymo 100 straipsnio 1 dalies 11 ir 12 punktuose nurodytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdytas bylos nagrinėjimas.
+8) šio įstatymo 100 straipsnio 1 dalies 12 ir 13 punktuose nurodytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdytas bylos nagrinėjimas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
  
 
 
@@ -3802,7 +3813,9 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-7) šio įstatymo 130 straipsnio 2 dalyje nurodytu atveju.
+8) šio įstatymo 130 straipsnio 2 dalyje nurodytu atveju.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
  
 
 
