@@ -15,14 +15,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3517, i. k. 1011010ISTA00IX-576
- 
-TAR pastaba. Šis įstatymas taikomas rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių grupės konsoliduotuosius metinius pranešimus.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
-Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 4, 6, 10, 12, 13, 14 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
  
 Nauja redakcija nuo 2015-07-01:
 Nr. XII-1697, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08119
@@ -51,7 +46,9 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas taikomas šioms įmonėms: akcinėms bendrovėms, uždarosioms akcinėms bendrovėms, tikrosioms ūkinėms bendrijoms ir komanditinėms ūkinėms bendrijoms, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, galinčioms daryti tiesioginį ar netiesioginį lemiamą poveikį vienai ar kelioms įmonėms, kurios yra pelno siekiantys juridiniai asmenys.
 
-2. Bankams, kitoms kredito ir finansų įstaigoms, reguliuojamos rinkos operatoriui, Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms šis įstatymas taikomas tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+2. Bankams, kitoms kredito ir finansų įstaigoms, reguliuojamos rinkos operatoriui, Centriniam vertybinių popierių depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms šis įstatymas taikomas tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-469, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10831
  
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
@@ -385,11 +382,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
  
- 
- 
 
  
 
+ 
+ 
+ 
+ 
 Lietuvos Respublikos
 įmonių grupių konsoliduotosios
 finansinės atskaitomybės įstatymo
@@ -409,6 +408,9 @@ Papildyta punktu:
 Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
  
 
+ 
+ 
+ 
 Pakeitimai:
  
 1.
@@ -476,4 +478,9 @@ Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybė
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
 Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 4, 6, 10, 12, 13, 14 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-469, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10831
+Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 2 straipsnio pakeitimo įstatymas
 
