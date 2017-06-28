@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -2775,7 +2775,10 @@ Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
 
 
 
-7) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Lietuvos centriniam vertybinių popierių depozitoriumui;
+7) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+ 
 
 
 
@@ -3701,7 +3704,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-3) akcinių bendrovių akcijoms – Lietuvos centrinio vertybinių popierių depozitoriumo suteiktas akcijų emisijos kodas (jei akcinė bendrovė, kurios akcijos perleidžiamos, yra išleidusi skirtingų emisijų akcijas);
+3) akcinių bendrovių akcijoms – Centrinio vertybinių popierių depozitoriumo suteiktas akcijų emisijos kodas (jei akcinė bendrovė, kurios akcijos perleidžiamos, yra išleidusi skirtingų emisijų akcijas); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+ 
 
 
 
@@ -4036,7 +4042,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-9. Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti tas jos išleistas akcijas, kurias yra įgijusi pati bendrovė ar jos dukterinės bendrovės. Likusių akcijų nominali vertė ar akcijų skaičius visiems akcininkams mažinamas proporcingai jiems nuosavybės teise priklausančių akcijų, kurias jie turi pakeistų bendrovės įstatų įregistravimo juridinių asmenų registre dienos pabaigoje, nominaliai vertei. Pakeistus bendrovės įstatus įregistravus juridinių asmenų registre, akcinė bendrovė per vieną darbo dieną privalo Lietuvos centriniam vertybinių popierių depozitoriumui pateikti jo nustatytus dokumentus įrašams vertybinių popierių sąskaitose pakeisti.
+9. Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti tas jos išleistas akcijas, kurias yra įgijusi pati bendrovė ar jos dukterinės bendrovės. Likusių akcijų nominali vertė ar akcijų skaičius visiems akcininkams mažinamas proporcingai jiems nuosavybės teise priklausančių akcijų, kurias jie turi pakeistų bendrovės įstatų įregistravimo juridinių asmenų registre dienos pabaigoje, nominaliai vertei. Pakeistus bendrovės įstatus įregistravus juridinių asmenų registre, akcinė bendrovė per vieną darbo dieną privalo Centriniam vertybinių popierių depozitoriumui pateikti jo nustatytus dokumentus įrašams vertybinių popierių sąskaitose pakeisti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+ 
 
 
 
@@ -5498,7 +5507,10 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 
 
 
-8. Pertvarkant akcinę bendrovę į kitos teisinės formos juridinį asmenį, iki naujos teisinės formos juridinio asmens steigimo dokumentų įregistravimo, be kita ko, turi būti uždaryta bendroji vertybinių popierių sąskaita akcinėje bendrovėje Lietuvos centriniame vertybinių popierių depozitoriume. Akcinėje bendrovėje, kuri pagal Vertybinių popierių įstatymą laikoma vertybinių popierių emitentu, be kita ko, turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti akcinės bendrovės akcijas.
+8. Pertvarkant akcinę bendrovę į kitos teisinės formos juridinį asmenį, iki naujos teisinės formos juridinio asmens steigimo dokumentų įregistravimo, be kita ko, turi būti uždaryta bendroji vertybinių popierių sąskaita Centriniame vertybinių popierių depozitoriume. Akcinėje bendrovėje, kuri pagal Vertybinių popierių įstatymą laikoma vertybinių popierių emitentu, be kita ko, turi būti pateiktas ir įgyvendintas oficialus siūlymas supirkti akcinės bendrovės akcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+ 
 
 
 
@@ -5738,7 +5750,10 @@ Nr. XII-1072, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10459
 
 
 
-3) jeigu likviduojama akcinė bendrovė, uždaryti bendrąją vertybinių popierių sąskaitą akcinėje bendrovėje Lietuvos centriniame vertybinių popierių depozitoriume;
+3) jeigu likviduojama akcinė bendrovė, uždaryti bendrąją vertybinių popierių sąskaitą Centriniame vertybinių popierių depozitoriume; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+ 
 
 
 
@@ -6056,7 +6071,10 @@ Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
 
 
 
-4. Šio Įstatymo nuostatos dėl dividendų už trumpesnį negu finansiniai metai skyrimo netaikomos bankams, kitoms kredito ir finansų įstaigoms, reguliuojamosios rinkos operatoriui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme, Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo ir perdraudimo įmonėms.
+4. Šio Įstatymo nuostatos dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo netaikomos bankams, kitoms kredito ir finansų įstaigoms, reguliuojamosios rinkos operatoriui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme, Centriniam vertybinių popierių depozitoriumui, draudimo ir perdraudimo įmonėms. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+ 
 
 
 
@@ -6454,3 +6472,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 55 ir 78 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 37, 46, 52, 72, 74 ir 78 straipsnių pakeitimo įstatymas
