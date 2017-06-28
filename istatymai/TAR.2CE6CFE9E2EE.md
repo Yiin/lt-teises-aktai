@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -131,7 +131,10 @@ Nustatomos šios šalpos pensijų rūšys:
 
 
 
-3. Valstybės biudžeto lėšų šalpos išmokoms administruoti paskirstymo, pervedimo, naudojimo, atsiskaitymo ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+3. Valstybės biudžeto lėšų šalpos išmokoms mokėti ir administruoti paskirstymo, pervedimo, naudojimo, atsiskaitymo ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
+ 
 
 
 
@@ -241,7 +244,9 @@ Teisę gauti šalpos senatvės pensiją turi:
 
 
 
-3. Šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnio 3 punkte nurodytiems asmenims šalpos pensijos skiriamos ir mokamos, jeigu jie nėra vienas iš asmenų, privalomai draudžiamų valstybiniu socialiniu draudimu pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą, nėra ūkininkai ar jų partneriai pagal Lietuvos Respublikos ūkininko ūkio įstatymą.
+3. Šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnio 3 punkte nurodytiems asmenims šalpos pensijos skiriamos ir mokamos, jeigu jie nėra privalomai draudžiami valstybiniu socialiniu draudimu pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, nėra ūkininkai ar jų partneriai pagal Lietuvos Respublikos ūkininko ūkio įstatymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
  
 
 
@@ -1069,3 +1074,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 15 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2506, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20643
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4 ir 7 straipsnių pakeitimo įstatymas
