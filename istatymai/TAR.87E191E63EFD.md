@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.87E191E63EFD"
 
 # Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3425, i. k. 1031010ISTA0IX-1710
  
@@ -391,10 +391,12 @@ Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA
 13 straipsnis. Kontroliuojančiosios investicinės bendrovės pareiga savo turtą saugoti depozitoriume
 
 
-Kontroliuojančiosios investicinės bendrovės turimi vertybiniai popieriai turi būti saugomi viename banke, turinčiame teisę teikti investicines paslaugas, arba Lietuvos centriniame vertybinių popierių depozitoriume.
+Kontroliuojančiosios investicinės bendrovės turimi vertybiniai popieriai turi būti saugomi viename banke, turinčiame teisę teikti investicines paslaugas, arba Centriniame vertybinių popierių depozitoriume. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-471, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10835
  
-
-
 
 
 
@@ -579,3 +581,8 @@ Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-797, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04026
 Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Nr. IX-1710 19 straipsnio pakeitimo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-471, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10835
+Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Nr. IX-1710 13 straipsnio pakeitimo įstatymas
