@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2017-11-28
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -51,7 +51,9 @@ BENDROSIOS NUOSTATOS
 
 5. Šis įstatymas netaikomas pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims. Jų finansinių ataskaitų sudarymo ir pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, jeigu jų veiklą reglamentuojantys įstatymai nenustato kitaip.
 
-6. Šio įstatymo reikalavimai bankams, kitoms kredito ir finansų įstaigoms, reguliuojamos rinkos operatoriui, Lietuvos centriniam vertybinių popierių depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms taikomi tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+6. Šio įstatymo reikalavimai bankams, kitoms kredito ir finansų įstaigoms, reguliuojamos rinkos operatoriui, Centriniam vertybinių popierių depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms taikomi tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-468, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10830
  
 
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
@@ -674,4 +676,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3, 4 ir 24 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-468, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10830
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 2 straipsnio pakeitimo įstatymas
 
