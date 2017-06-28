@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-27
+Suvestinė redakcija nuo 2017-06-28 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -489,7 +489,10 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS VEIKLOS LEIDIMO IŠDAVIMAS
 
 
 
-6) duomenis, patvirtinančius, kad nė vienas iš valdymo įmonės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+6) duomenis, patvirtinančius, kad nė vienas iš valdymo įmonės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
+ 
 
 
 
@@ -554,7 +557,10 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS VEIKLOS LEIDIMO IŠDAVIMAS
 
 
 
-9) duomenis, patvirtinančius, kad nė vienas iš investicinės bendrovės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+9) duomenis, patvirtinančius, kad nė vienas iš investicinės bendrovės darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
+ 
 
 
 
@@ -609,7 +615,10 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS VEIKLOS LEIDIMO IŠDAVIMAS
 
 
 
-5) bent vienas valdymo įmonės ar investicinės bendrovės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+5) bent vienas valdymo įmonės ar investicinės bendrovės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos ir (ar) daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar Centrinio vertybinių popierių depozitoriumo darbuotojas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
+ 
 
 
 
@@ -2932,3 +2941,8 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2451, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17719
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 53 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-470, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10833
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 9 straipsnio pakeitimo įstatymas
