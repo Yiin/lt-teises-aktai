@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2017-06-20 iki 2017-06-28
+Suvestinė redakcija nuo 2017-06-29 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -1123,7 +1123,9 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-20. Mokslo ir studijų institucija per 30 kalendorinių dienų nuo kontrolieriaus sprendimo priėmimo dienos privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą.
+20. Mokslo ir studijų institucija privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą. Informacija kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
  
 
 
@@ -4466,7 +4468,6 @@ VALSTYBINIŲ AUKŠTŲJŲ MOKYKLŲ TURTO VALDYMAS, NAUDOJIMAS IR DISPONAVIMAS JUO
 
 7. Valstybinės aukštosios mokyklos Vyriausybės nustatyta tvarka, kai yra Švietimo ir mokslo ministerijos sutikimas, priima sprendimus dėl valstybės nekilnojamųjų daiktų, kurie joms perduoti valdyti, naudoti ir jais disponuoti patikėjimo teise pagal patikėjimo sutartis, pripažinimo nereikalingais arba netinkamais (negalimais) naudoti.
  
- 
 
 
 
@@ -4694,3 +4695,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 12 straipsnio pakeitimo ir Įstatymo papildymo 72-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
