@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-06-01 iki 2017-06-29
+Suvestinė redakcija nuo 2017-06-30 iki 2019-05-28
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
  
@@ -1043,9 +1043,10 @@ Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
 
 
 
-3. VTEK pateiktą rekomendaciją turi svarstyti valstybės ar savivaldybės institucija ar įstaiga, ar kitas juridinis asmuo, kuriam rekomendacija pateikta, ir per vieną kalendorinį mėnesį, jeigu VTEK nenurodo vėlesnio termino, nuo rekomendacijos gavimo dienos informuoti VTEK apie svarstymo rezultatus.
+3. VTEK pateiktą rekomendaciją turi svarstyti valstybės ar savivaldybės institucija ar įstaiga, ar kitas juridinis asmuo, kuriems rekomendacija pateikta, ir informuoti VTEK apie svarstymo rezultatus. Informacija VTEK pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į VTEK pateiktą rekomendaciją, bet ne vėliau kaip per 30 dienų nuo VTEK rekomendacijos gavimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2179, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20864
+Nr. XIII-454, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11068
  
 
 
@@ -1301,3 +1302,8 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 ir 16-1 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-454, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11068
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 27 straipsnio pakeitimo įstatymas
