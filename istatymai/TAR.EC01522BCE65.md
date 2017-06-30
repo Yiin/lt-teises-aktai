@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2014-02-19 iki 2017-06-29
+Suvestinė redakcija nuo 2017-06-30 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -784,7 +784,10 @@ Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010IS
 
 
 
-3. Seimo kontrolieriaus siūlymą (rekomendaciją) privalo nagrinėti institucija ir įstaiga ar pareigūnas, kuriems toks siūlymas (rekomendacija) adresuojamas, ir apie nagrinėjimo rezultatus informuoti Seimo kontrolierių.
+3. Seimo kontrolieriaus siūlymą (rekomendaciją) privalo nagrinėti institucija ir įstaiga ar pareigūnas, kuriems toks siūlymas (rekomendacija) adresuojamas (adresuojama), ir apie nagrinėjimo rezultatus informuoti Seimo kontrolierių. Informacija Seimo kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į Seimo kontrolieriaus siūlymą (rekomendaciją), bet ne vėliau kaip per 30 dienų nuo siūlymo (rekomendacijos) gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
+ 
 
 
 
@@ -1106,3 +1109,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 11 straipsnio pakeitimo ir pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
 Lietuvos Respublikos Seimo kontrolierių įstatymo 3 straipsnio pakeitimo ir įstatymo papildymo 19-1 straipsniu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 20 straipsnio pakeitimo įstatymas
