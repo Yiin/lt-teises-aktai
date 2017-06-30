@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2012-10-04 iki 2017-06-29
+Suvestinė redakcija nuo 2017-06-30 iki 2017-12-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
  
@@ -437,7 +437,9 @@ Vaiko teisių apsaugos kontrolierius ir Vaiko teisių apsaugos kontrolieriaus į
 
 
 
-5. Vaiko teisių apsaugos kontrolieriaus sprendimą privalo nagrinėti asmenys, kuriems sprendimas adresuojamas, ir apie nagrinėjimo rezultatus bei sprendimo vykdymą informuoti vaiko teisių apsaugos kontrolierių.
+5. Vaiko teisių apsaugos kontrolieriaus sprendimą privalo nagrinėti asmenys, kuriems sprendimas adresuojamas, ir apie nagrinėjimo rezultatus bei sprendimo vykdymą informuoti vaiko teisių apsaugos kontrolierių. Informacija vaiko teisių apsaugos kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į vaiko teisių apsaugos kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-456, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11070
  
 
 
@@ -975,3 +977,8 @@ Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010ISTA0XI-2229
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 12 ir 27 straipsnių papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-456, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11070
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 14 straipsnio pakeitimo įstatymas
