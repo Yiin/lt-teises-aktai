@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2023-12-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -258,7 +258,10 @@ Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA0
 
 
 
-5) užtikrina, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
+5) užtikrina, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-518, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11227
+ 
 
 
 
@@ -380,7 +383,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
  
 
@@ -431,3 +434,8 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-946, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07825
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 3 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-518, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11227
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 7 straipsnio pakeitimo įstatymas
