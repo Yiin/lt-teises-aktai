@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-04-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -734,9 +734,17 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA
 
 
 
-21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme. 
+21) sutelktinio finansavimo platformos operatoriaus veikla, kaip tai apibrėžta Lietuvos Respublikos sutelktinio finansavimo įstatyme;
 Papildyta straipsnio punktu:
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
+ 
+
+
+
+
+22) tarpusavio skolinimo platformos operatoriaus veikla.
+Papildyta straipsnio punktu:
+Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
  
 
 
@@ -3069,3 +3077,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 ir 3 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4, 45, 46 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 3 straipsnio pakeitimo įstatymas
