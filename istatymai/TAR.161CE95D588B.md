@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS KĖDAINIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 33-1543, i. k. 1121010ISTA0XI-1923
  
@@ -322,7 +322,10 @@ Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė (toliau – Vyr
 
 
 
-4) užtikrina, organizuodamas zonos priežiūrą, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
+4) užtikrina, organizuodamas zonos priežiūrą, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-523, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11232
+ 
 
 
 
@@ -465,3 +468,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-942, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07830
 Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-523, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11232
+Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 8 straipsnio pakeitimo įstatymas
