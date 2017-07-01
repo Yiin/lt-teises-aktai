@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-07-05
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
  
@@ -45,9 +45,10 @@ Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 129 straipsnyje nustatytais pagrindais dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo. 
+1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 57 straipsnio 1 dalies 1 punkte nustatytu pagrindu dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo. 
 Straipsnio dalies pakeitimai:
 Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
  
 
 
@@ -58,7 +59,10 @@ Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-3. Atleisti iš darbo darbuotojai – Ignalinos AE darbuotojai, su kuriais yra nutrauktos darbo sutartys Darbo kodekso 129 straipsnio nustatytais pagrindais dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo.
+3. Atleisti iš darbo darbuotojai – Ignalinos AE darbuotojai, su kuriais yra nutrauktos darbo sutartys Darbo kodekso 57 straipsnio 1 dalies 1 punkte nustatytu pagrindu dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo.
+Straipsnio dalies pakeitimai:
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+ 
 
 
 
@@ -118,9 +122,10 @@ Atleidžiamų ir atleistų iš darbo darbuotojų bei jų šeimos narių užimtum
 
 
 
-2. Atleisti iš darbo darbuotojai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo rėmimo įstatymas. 
+2. Atleisti iš darbo darbuotojai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo įstatymas.
 Straipsnio dalies pakeitimai:
 Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
  
 
 
@@ -165,10 +170,11 @@ Nr. X-1373, 2007-12-13, Žin. 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA
 5 straipsnis. Nedirbančių šeimos narių užimtumo garantijos
 
 
-1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo rėmimo įstatymas. Teritorinėje darbo biržoje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama pagal Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalį, o išmokama – 7 straipsnyje nustatyta tvarka.
+1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo įstatymas. Teritorinėje darbo biržoje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems darbingiems darbingo amžiaus šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatyta tvarka, o išmokama – 7 straipsnyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
 Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
  
 
 
@@ -200,59 +206,48 @@ Patvirtinus techninius Ignalinos AE eksploatavimo nutraukimo planus, Ignalinos A
 
 
 
-7 straipsnis. Darbuotojų draudimas 
-
-
-1. Už branduolinę saugą atsakingi Ignalinos AE darbuotojai, kurių kvalifikacija bei darbas yra ypač svarbūs Ignalinos AE saugiam ir nenutrūkstamam darbui užtikrinti, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ne trumpesniam kaip 5 metų laikotarpiui draudžiami kaupiamuoju gyvybės draudimu nuo 12 iki 24 mėnesių šių darbuotojų vidutinio darbo užmokesčio dydžio suma.
-
-
-
-
-2. Darbuotojų, draudžiamų kaupiamuoju gyvybės draudimu, pareigybių sąrašą tvirtina Ignalinos AE administracija, suderinusi su steigėju. 
-
-
-
-
-3. Draudimo išmoka mokama darbuotojui. Darbuotojas, savo pareiškimu nutraukęs darbo sutartį su Ignalinos AE pagal Darbo kodekso 127 straipsnio 1 dalį iki draudimo sutartyje numatyto termino pabaigos arba atleistas iš darbo Darbo kodekso 136 straipsnio 1 dalies 1, 2, 3 punktuose ir 3 dalyje nustatytais pagrindais, netenka teisės į draudimo išmoką. 
+7 straipsnis. Neteko galios nuo 2017-07-01
+Straipsnio naikinimas:
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
  
 
 
 
 
+8 straipsnis. Išeitinės išmokos ir papildomos išeitinės išmokos skyrimas 
 
 
-8 straipsnis. Papildomos išeitinės išmokos skyrimas
+1. Pagal Darbo kodekso 57 straipsnio 1 dalies 1 punktą iš darbo atleistiems darbuotojams skiriamos ir išmokamos Darbo kodekso 57 straipsnio 8 ir 9 dalyse numatytos išeitinės išmokos bei papildomos išeitinės išmokos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Papildomų išeitinių išmokų dydis, atsižvelgiant į darbuotojų nepertraukiamąjį darbo stažą Ignalinos AE:
 
 
-1. Atleistiems iš darbo darbuotojams skiriamos išeitinės išmokos, nustatytos Darbo kodekso 140 straipsnyje, ir papildomos išeitinės išmokos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, atsižvelgiant į šių darbuotojų nepertraukiamąjį darbo stažą Ignalinos AE:
-
-
-1) kai darbo stažas nuo 5 iki 10 metų – 3 mėnesių vidutinio darbo užmokesčio dydžio;
-
-
-
-
-2) kai darbo stažas nuo 10 iki 15 metų – 4 mėnesių vidutinio darbo užmokesčio dydžio;
+1) kai darbo stažas nuo 5 iki 10 metų, – trijų darbuotojo vidutinių darbo užmokesčių dydžio;
 
 
 
 
-3) kai darbo stažas nuo 15 iki 20 metų – 5 mėnesių vidutinio darbo užmokesčio dydžio;
+2) kai darbo stažas nuo 10 iki 15 metų, – keturių darbuotojo vidutinių darbo užmokesčių dydžio;
 
 
 
 
-4) kai darbo stažas didesnis kaip 20 metų – 6 mėnesių vidutinio darbo užmokesčio dydžio.
+3) kai darbo stažas nuo 15 iki 20 metų, – penkių darbuotojo vidutinių darbo užmokesčių dydžio;
+
+
+
+
+4) kai darbo stažas didesnis kaip 20 metų, – šešių darbuotojo vidutinių darbo užmokesčių dydžio.
 
 
 
 
 
 
-2. Jeigu atleistam iš darbo darbuotojui buvo išmokėta papildoma išeitinė išmoka ir jis vėl buvo priimtas dirbti į Ignalinos AE, vėl jį atleidus iš darbo, papildoma išeitinė išmoka neskiriama. 
+2. Jeigu atleistam iš darbo darbuotojui buvo išmokėta papildoma išeitinė išmoka ir jis vėl buvo priimtas dirbti į Ignalinos AE, vėl jį atleidus iš darbo, papildoma išeitinė išmoka neskiriama.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
  
-
-
 
 
 
@@ -411,3 +406,13 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuot
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, 8 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-148, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29781
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, 8 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2504 6 straipsnio pakeitimo įstatymas
