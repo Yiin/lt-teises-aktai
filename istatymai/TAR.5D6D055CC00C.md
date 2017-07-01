@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-17
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -677,6 +677,14 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 Papildyta straipsnio dalimi:
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+ 
+
+
+
+
+51. Savivaldybės atlieka valstybinę funkciją – prižiūri, saugo ir tvarko joms viešosios paskirties rekreacijai ir poilsiui patikėjimo teise perduotus valstybinės miško žemės sklypus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-424, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10028
  
 
 
@@ -1773,3 +1781,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-291, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06969
 Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-424, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10028
+Lietuvos Respublikos miškų įstatymo Nr. I-671 5 straipsnio pakeitimo įstatymas
