@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
  
@@ -979,7 +979,10 @@ Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010IS
 21 straipsnis. Lietuvos Respublikos prekių ženklų registras
 
 
-1. Lietuvos Respublikos prekių ženklų registras yra valstybės registras. Jį tvarko Valstybinis patentų biuras.
+1. Lietuvos Respublikos prekių ženklų registras yra valstybės registras. Registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-264, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06264
+ 
 
 
 
@@ -992,88 +995,10 @@ Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010IS
 
 
 
-22 straipsnis. Lietuvos Respublikos prekių ženklų registro duomenys
-
-
-1. Lietuvos Respublikos prekių ženklų registre registruojami ir kaupiami šie duomenys:
-
-
-1) ženklo vaizdas;
-
-
-
-
-2) prekių ir (ar) paslaugų, kurioms žymėti pareikštas registruoti ženklas, pavadinimai, suskirstyti pagal paraiškos padavimo dieną galiojančią Nicos klasifikaciją;
-
-
-
-
-3) paraiškos padavimo data ir numeris;
-
-
-
-
-4) ženklo įregistravimo data ir numeris;
-
-
-
-
-5) pareiškėjo pavadinimas arba vardas, pavardė ir adresas (buveinė);
-
-
-
-
-6) ženklo savininko pavadinimas arba vardas, pavardė ir adresas (buveinė);
-
-
-
-
-7) registracijos galiojimo termino pasibaigimo data;
-
-
-
-
-8) prioriteto data, pirmosios paraiškos numeris, valstybės kodas, jei pagal šio įstatymo 10 straipsnio 1 dalį suteiktas prioritetas;
-
-
-
-
-9) parodos pavadinimas, prekių ir (ar) paslaugų eksponavimo data, jei pagal šio įstatymo 10 straipsnio 2 dalį suteiktas prioritetas; 
-
-
-
-
-10) atstovo (jei jis yra) vardas, pavardė, adresas (buveinė);
-
-
-
-
-11) nuoroda, kad ženklas yra kolektyvinis, erdvinis ar kad spalva yra skiriamasis ženklo požymis;
-
-
-
-
-12) kiti duomenys, susiję su ženklo registracija, naudojimu ir apsauga;
-
-
-
-
-13) duomenų keitimo pagrindai ir data.
-
-
-
-
-
-
-2. Lietuvos Respublikos prekių ženklų registro nuostatų nustatyta tvarka naudotis Lietuvos Respublikos prekių ženklų registro duomenimis turi teisę visi fiziniai ir juridiniai asmenys. 
-
-
-
-
-3. Bet kurių asmenų, sumokėjusių nustatytą mokestį, prašymu Valstybinis patentų biuras išduoda išrašą iš Lietuvos Respublikos prekių ženklų registro.
+22 straipsnis. Neteko galios nuo 2017-07-01
+Straipsnio naikinimas:
+Nr. XIII-264, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06264
  
-
-
 
 
 
@@ -2714,3 +2639,8 @@ Lietuvos Respublikos prekių ženklų įstatymo dešimtojo skirsnio ir 56 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
 Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 9, 11, 12, 13, 15, 16, 19, 23, 25, 26, 27, 32, 34, 36, 38, 43, 44, 46, 47, 49 straipsnių, Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 23-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-264, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06264
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 21 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
