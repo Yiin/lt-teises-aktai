@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-06-26 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -1539,7 +1539,10 @@ Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
 
 
 
-3. Šiame straipsnyje nurodytais atvejais, taip pat šio Kodekso 50 straipsnio 4 dalyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo išaiškinti įtariamajam, kaltinamajam ar nuteistajam, kad paskirtos valstybės garantuojamos teisinės pagalbos išlaidos dėl būtino gynėjo dalyvavimo, atsižvelgiant į įtariamojo, kaltinamojo ar nuteistojo turtinę padėtį, išskyrus šio straipsnio 1 dalies 1 ir 2 punktuose numatytus atvejus, gali būti išieškotos į valstybės biudžetą šio Kodekso nustatyta tvarka, ir pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, ir paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais.
+3. Šiame straipsnyje nurodytais atvejais, taip pat šio Kodekso 50 straipsnio 4 dalyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, ir paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
+ 
 
 
 
@@ -3599,17 +3602,19 @@ Nr. X-81, 2005-01-20, Žin., 2005, Nr. 18-575 (2005-02-08)
 106 straipsnis. Advokato darbo apmokėjimas
 
 
-1. Kai įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, advokatui apmokama Valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka. Kitais atvejais advokatui moka įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu – kiti asmenys. 
+1. Kai įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, advokatui apmokama įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka. Kitais atvejais advokatui moka įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu – kiti asmenys.
 
 
 
 
-2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, turi teisę nuspręsti iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, išskyrus šio Kodekso 51 straipsnio 1 dalies 1 ir 2 punktuose numatytus atvejus, taip pat nukentėjusiojo ir civilinio ieškovo turėtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. Teismas, atsižvelgdamas į nuteistojo turtinę padėtį, gali šių išlaidų kaltinamajam nepriteisti ar jų dydį sumažinti.
+2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo turėtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. Teismas, atsižvelgdamas į nuteistojo turtinę padėtį, gali šių išlaidų kaltinamajam nepriteisti ar jų dydį sumažinti. 
 
 
 Straipsnio pakeitimai:
 Nr. X-81, 2005-01-20, Žin., 2005, Nr. 18-575 (2005-02-08)
 Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
+Straipsnio pakeitimai:
+Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
  
 
 
