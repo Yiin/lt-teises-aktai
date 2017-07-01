@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2017-06-29 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -1423,7 +1423,7 @@ AUKŠTOSIOS MOKYKLOS VALDYMAS
 27 straipsnis. Valstybinės aukštosios mokyklos taryba
 
 
-1. Valstybinės aukštosios mokyklos valdymo organas yra taryba.
+1. Valstybinės aukštosios mokyklos taryba yra aukštosios mokyklos strateginių reikalų valdymo organas, užtikrinantis jos atskaitomybę visuomenei, socialinę atsakomybę bei sparčią ir veiksmingą reakciją į aplinkos pokyčius.
 
 
 
@@ -1431,109 +1431,84 @@ AUKŠTOSIOS MOKYKLOS VALDYMAS
 2. Aukštosios mokyklos taryba atlieka šias funkcijas:
 
 
-1) įvertinusi senato (akademinės tarybos) siūlymus, tvirtina aukštosios mokyklos viziją ir misiją;
+1) suderinusi su senatu (akademine taryba), teikia Seimui tvirtinti universiteto (kolegijos taryba – Vyriausybei) statuto pakeitimus; 
 
 
 
 
-2) įvertinusi senato (akademinės tarybos) siūlymus, teikia Seimui tvirtinti universiteto (Vyriausybei – kolegijos) statuto pakeitimus;
+2) įvertinusi senato (akademinės tarybos) nuomonę, tvirtina rektoriaus (direktoriaus) pateiktą aukštosios mokyklos strateginį veiklos planą, kuriame apibrėžiama jos misija ir vizija, numato turtinius, finansinius ir žmogiškuosius išteklius strateginiam planui įgyvendinti;
 
 
 
 
-3) įvertinusi senato (akademinės tarybos) siūlymus, tvirtina rektoriaus (direktoriaus) pateiktą aukštosios mokyklos strateginį veiklos planą;
+3) įvertinusi senato (akademinės tarybos) nuomonę, tvirtina rektoriaus (direktoriaus) teikiamus aukštosios mokyklos struktūros pertvarkos planus, būtinus strateginiam veiklos planui įgyvendinti; 
 
 
 
 
-4) svarsto ir tvirtina rektoriaus (direktoriaus) teikiamus aukštosios mokyklos struktūros pertvarkos planus;
+4) įvertinusi senato (akademinės tarybos) siūlymus, nustato aukštosios mokyklos lėšų (taip pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir nuosavybės teise valdomo turto valdymo, naudojimo ir disponavimo jais tvarką;
 
 
 
 
-5) įvertinusi senato (akademinės tarybos) siūlymus, nustato aukštosios mokyklos lėšų (taip pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir nuosavybės teise valdomo turto valdymo, naudojimo ir disponavimo jais tvarką;
+5) įvertinusi senato (akademinės tarybos) siūlymus, tvirtina aukštosios mokyklos rektoriaus (direktoriaus) rinkimų viešo konkurso būdu organizavimo tvarkos aprašą;
 
 
 
 
-6) įvertinusi senato (akademinės tarybos) siūlymus, tvirtina aukštosios mokyklos rektoriaus (direktoriaus) rinkimų viešo konkurso būdu organizavimo tvarką; 
+6) renka, skiria ir atleidžia rektorių (direktorių);
 
 
 
 
-7) renka, skiria ir atleidžia rektorių (direktorių);
+7) svarsto ir tvirtina rektoriaus (direktoriaus) pateiktą aukštosios mokyklos metinę pajamų ir išlaidų sąmatą ir tvirtina šios sąmatos įvykdymo ataskaitą; 
 
 
 
 
-8) nustato aukštosios mokyklos administracijos ir kitų darbuotojų parinkimo ir vertinimo principus;
+8) tvirtina rektoriaus (direktoriaus) pateiktą aukštosios mokyklos metinę veiklos ataskaitą, kurioje aptariamas ir strateginio plano įgyvendinimas;
 
 
 
 
-9) tvirtina aukštosios mokyklos vidaus tvarkos taisykles;
+9) suderinusi su senatu (akademine taryba), tvirtina aukštosios mokyklos reorganizavimo arba likvidavimo planus ir teikia juos Seimui (Vyriausybei);
 
 
 
 
-10) rektoriaus (direktoriaus) teikimu nustato studijų kainą ir įmokų, tiesiogiai nesusijusių su studijų programos įgyvendinimu, dydžius;
+10) rengia metinę savo veiklos ataskaitą ir ją skelbia viešai aukštosios mokyklos interneto svetainėje, taip pat kiekvienais metais iki balandžio 1 dienos ją pristato aukštosios mokyklos bendruomenei;
 
 
 
 
-11) įvertinusi senato (akademinės tarybos) siūlymus, nustato bendrą studijų vietų skaičių, atsižvelgdama į galimybes užtikrinti studijų ir mokslo, meno veiklos kokybę;
+11) atlieka kitas funkcijas, nustatytas aukštosios mokyklos statute ir kituose teisės aktuose. 
 
 
 
 
-12) svarsto rektoriaus (direktoriaus) pateiktą aukštosios mokyklos metinę pajamų ir išlaidų sąmatą ir tvirtina šios sąmatos įvykdymo ataskaitą;
 
 
+3. Aukštosios mokyklos tarybą sudaro 9 arba 11 narių. Konkretus aukštosios mokyklos tarybos narių skaičius nustatytas aukštosios mokyklos statute. Vieną narį skiria ir atšaukia studentų atstovybė savo nustatyta tvarka, jeigu jos nėra, – visuotinis studentų susirinkimas (konferencija), kiti akademinės bendruomenės nariai senato (akademinės tarybos) nustatyta tvarka renka ir atšaukia atitinkamai ne daugiau kaip 4 arba 5 narius, priklausančius aukštosios mokyklos personalui. Senato (akademinės tarybos) nustatyta tvarka renkami ir atšaukiami atitinkamai 4 arba 5 nariai, nepriklausantys aukštosios mokyklos personalui ir studentams, iš jų vienas narys – studentų atstovybės savo nustatyta tvarka. Šie 3 arba 4 nariai atrenkami viešo konkurso būdu. Tarybos nariai renkami atskirai į kiekvieną iš atitinkamai 8 ar 10 vietų, senato (akademinės tarybos) apibrėžtų atsižvelgiant į skirtingus aukštosios mokyklos interesus. Tarybos sudėtį viešai skelbia senato (akademinės tarybos) pirmininkas.
 
 
-13) tvirtina rektoriaus (direktoriaus) pateiktą aukštosios mokyklos metinę veiklos ataskaitą;
 
 
+4. Tarybos nariu gali būti nepriekaištingos reputacijos asmuo, turintis žinių bei gebėjimų, padedančių siekti aukštosios mokyklos strateginių tikslų ir įgyvendinti aukštosios mokyklos misiją. Tarybos nariu tas pats asmuo gali būti ne ilgiau kaip dvi tarybos kadencijas iš eilės. 
 
 
-14) įvertinusi senato (akademinės tarybos) siūlymus, tvirtina aukštosios mokyklos reorganizavimo arba likvidavimo planus ir teikia juos Seimui (Vyriausybei);
 
 
+5. Tarybos nariais negali būti Respublikos Prezidentas, Seimo ir Vyriausybės nariai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai, taip pat aukštosios mokyklos darbuotojai, tiesiogiai pavaldūs rektoriui (direktoriui), bei įstaigų, įmonių ar organizacijų, kuriose aukštoji mokykla visuotiniame dalyvių susirinkime turi ne mažiau kaip 50 procentų visų juridinio asmens dalyvių balsų, vadovai ir jų pavaduotojai. Tarybos nariu negali būti senato (akademinės tarybos) narys.
 
 
-15) rengia metinę savo veiklos ataskaitą ir ją skelbia viešai aukštosios mokyklos interneto svetainėje kiekvienais metais iki balandžio 1 dienos;
 
 
+6. Tarybos kadencija – 5 metai. Ne vėliau kaip prieš mėnesį iki tarybos kadencijos pabaigos senato (akademinės tarybos) pirmininkas paskelbia naujai sudaromos tarybos sudėtį.
 
 
-16) atlieka aukštosios mokyklos statute ir kituose teisės aktuose nustatytas kitas funkcijas.
 
 
-
-
-
-
-3. Aukštosios mokyklos tarybą sudaro 9 arba 11 narių. Aukštosios mokyklos statutas nustato tikslų tarybos narių skaičių. Vieną narį skiria studentų atstovybė savo nustatyta tvarka, jeigu jos nėra, – visuotinis studentų susirinkimas (konferencija), kiti akademinės bendruomenės nariai aukštosios mokyklos nustatyta tvarka skiria atitinkamai ne daugiau kaip 4 arba 5 narius. Senato (akademinės tarybos) nustatyta tvarka atrenkami, skiriami ir atšaukiami atitinkamai 4 arba 5 nariai, nepriklausantys aukštosios mokyklos personalui ir studentams, iš jų vienas narys – studentų atstovybės savo nustatyta tvarka. Šie 4 arba 5 nariai atrenkami viešo konkurso būdu ir skiriami įvertinus Aukštojo mokslo tarybos atliktą kandidatų įvertinimą. Tarybos sudėtį viešai skelbia senato (akademinės tarybos) pirmininkas.
-
-
-
-
-4. Tarybos nariu gali būti nepriekaištingos reputacijos asmuo, ėjęs ar einantis atsakingas pareigas švietimo, mokslo, kultūros, viešosios veiklos ar verslo srityje (šis reikalavimas netaikomas studentų atstovui) ir turintis žinių bei gebėjimų, padedančių siekti aukštosios mokyklos tikslų ir įgyvendinti aukštosios mokyklos misiją. Tarybos nariu tas pats asmuo gali būti ne ilgiau kaip dvi tarybos kadencijas iš eilės.
-
-
-
-
-5. Tarybos nariais negali būti Respublikos Prezidentas, Seimo ir Vyriausybės nariai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. 
-
-
-
-
-6. Tarybos kadencija – 5 metai. Ne vėliau kaip prieš mėnesį iki tarybos nario kadencijos pabaigos senato (akademinės tarybos) pirmininkas paskelbia naujai sudaromos tarybos sudėtį.
-
-
-
-
-7. Pradėdamas eiti pareigas, tarybos narys tarybos posėdyje aukštosios mokyklos statute nustatyta tvarka pasirašo įsipareigojimą vadovautis aukštosios mokyklos ir visuomenės interesais ir sąžiningai atlikti šiame įstatyme nustatytas funkcijas.
+7. Pradėdamas eiti pareigas tarybos narys tarybos posėdyje aukštosios mokyklos statuto nustatyta tvarka pasirašo įsipareigojimą vadovautis aukštosios mokyklos ir visuomenės interesais ir sąžiningai atlikti šio įstatymo nustatytas funkcijas.
 
 
 
@@ -1543,7 +1518,7 @@ AUKŠTOSIOS MOKYKLOS VALDYMAS
 
 
 
-9. Taryba tvirtina savo darbo reglamentą. Taryba sprendimus priima paprasta posėdyje dalyvaujančių tarybos narių balsų dauguma. Tarybos posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip du trečdaliai tarybos narių. Savo sprendimus taryba skelbia viešai aukštosios mokyklos interneto svetainėje.
+9. Taryba tvirtina savo darbo reglamentą. Tarybos posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip du trečdaliai tarybos narių. Savo sprendimus taryba skelbia viešai aukštosios mokyklos interneto svetainėje.
 
 
 
@@ -1553,12 +1528,12 @@ AUKŠTOSIOS MOKYKLOS VALDYMAS
 
 
 
-11. Jeigu tarybos narys netinkamai vykdo aukštosios mokyklos statute, tarybos darbo reglamente ar šio straipsnio 7 dalyje nurodytame įsipareigojime nustatytas pareigas arba nepasirašo šio straipsnio 7 dalyje nurodyto įsipareigojimo, tarybos pirmininkas turi teisę kreiptis į tą narį paskyrusį asmenį su prašymu atšaukti paskirtą tarybos narį. 
+11. Jeigu tarybos narys netinkamai vykdo aukštosios mokyklos statute, tarybos darbo reglamente ar šio straipsnio 7 dalyje nustatytas pareigas arba nepasirašo šio straipsnio 7 dalyje nurodyto įsipareigojimo, tarybos pirmininkas turi teisę kreiptis į tą narį paskyrusį asmenį su prašymu atšaukti paskirtą tarybos narį.
 
 
 
 
-12. Jeigu tarybos nario įgaliojimai nutrūksta iki kadencijos pabaigos, naują tarybos narį šio straipsnio 3 dalyje nustatyta tvarka skiria asmuo, skyręs tarybos narį, kurio įgaliojimai nutrūko. Naujas tarybos narys pareigas pradeda eiti po to, kai apie jo paskyrimą paskelbia aukštosios mokyklos senato (akademinės tarybos) pirmininkas ir tarybos narys pasirašo šio straipsnio 7 dalyje nurodytą įsipareigojimą.
+12. Jeigu tarybos nario įgaliojimai nutrūksta iki kadencijos pabaigos, naują tarybos narį likusiam Tarybos kadencijos laikui šio straipsnio 3 dalyje nustatyta tvarka skiria asmuo, skyręs tarybos narį, kurio įgaliojimai nutrūko. Naujas tarybos narys pareigas pradeda eiti po to, kai apie jo paskyrimą paskelbia aukštosios mokyklos senato (akademinės tarybos) pirmininkas ir tarybos narys pasirašo šio straipsnio 7 dalyje nurodytą įsipareigojimą.
 
 
 
@@ -1568,7 +1543,7 @@ AUKŠTOSIOS MOKYKLOS VALDYMAS
 
 
 
-14. Aukštosios mokyklos rektorius (direktorius) užtikrina tarybos veiklai reikiamas organizacines sąlygas. 
+14. Aukštosios mokyklos rektorius (direktorius) užtikrina tarybos veiklai reikiamas organizacines sąlygas.
 
 
 Straipsnio pakeitimai:
@@ -1594,12 +1569,12 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-2) universitetuose tvirtina studijų, mokslinių tyrimų ir eksperimentinės (socialinės, kultūrinės) plėtros, meno programas ir teikia rektoriui siūlymus dėl šių programų finansavimo ir universiteto struktūros pertvarkos, reikalingos toms programoms įgyvendinti, vertina atliktų tyrimų rezultatus ir visos universiteto mokslo ir meno veiklos kokybę ir lygį;
+2) universitetuose tvirtina studijų, mokslinių tyrimų ir eksperimentinės plėtros, meno programas ir teikia rektoriui siūlymus dėl šių programų finansavimo ir universiteto struktūros pertvarkos, reikalingos toms programoms įgyvendinti, vertina atliktų mokslinių tyrimų ir eksperimentinės plėtros rezultatus ir visos universiteto mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos kokybę ir lygį;
 
 
 
 
-3) kolegijose tvirtina studijų programas ir teikia direktoriui siūlymus dėl šių programų finansavimo ir dėl kolegijos struktūros pertvarkos, reikalingos toms programoms įgyvendinti, vertina atliktų tyrimų rezultatus ir kolegijos mokslo taikomosios ir meno veiklos kokybę ir lygį;
+3) kolegijose tvirtina studijų programas ir teikia direktoriui siūlymus dėl šių programų finansavimo ir dėl kolegijos struktūros pertvarkos, reikalingos toms programoms įgyvendinti, vertina atliktų taikomųjų mokslinių tyrimų ir eksperimentinės plėtros rezultatus ir kolegijos taikomųjų mokslinių tyrimų ir eksperimentinės plėtros ir meno veiklos kokybę ir lygį;
 
 
 
@@ -1609,74 +1584,79 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-5) nustato dėstytojų ir mokslo darbuotojų pareigybių kvalifikacinius reikalavimus, taip pat dėstytojų ir mokslo darbuotojų atestavimo ir konkursų eiti pareigas organizavimo tvarką;
+5) nustato dėstytojų ir mokslo darbuotojų pareigybių kvalifikacinius reikalavimus, nustato dėstytojų ir mokslo darbuotojų atestavimo ir konkursų pareigoms eiti organizavimo tvarką;
 
 
 
 
-6) aukštosios mokyklos statute nustatyta tvarka šaukia aukštosios mokyklos akademinės bendruomenės susirinkimus (konferencijas) svarbiems aukštosios mokyklos veiklos klausimams aptarti;
+6) aukštosios mokyklos statuto nustatyta tvarka šaukia aukštosios mokyklos akademinės bendruomenės susirinkimus (konferencijas) svarbiems aukštosios mokyklos veiklos klausimams aptarti;
 
 
 
 
-7) aukštosios mokyklos statute nustatyta tvarka teikia garbės ir kitus vardus;
+7) savo nustatyta tvarka teikia garbės ir kitus vardus;
 
 
 
 
-8) svarsto ir teikia siūlymus tarybai dėl aukštosios mokyklos vizijos ir misijos, strateginio veiklos plano; 
+8) svarsto ir derina su taryba siūlymus dėl aukštosios mokyklos statuto pakeitimų;
 
 
 
 
-9) svarsto ir teikia siūlymus tarybai dėl aukštosios mokyklos statuto pakeitimų; 
+9) svarsto rektoriaus pateiktą aukštosios mokyklos strateginį veiklos planą, kuriame apibrėžiama ir aukštosios mokyklos misija ir vizija, ir teikia dėl jo nuomonę tarybai;
 
 
 
 
-10) svarsto ir teikia siūlymus tarybai dėl kandidatų tinkamumo eiti rektoriaus (direktoriaus) pareigas;
+10) svarsto rektoriaus (direktoriaus) teikiamus aukštosios mokyklos struktūros pertvarkos planus, būtinus strateginiam veiklos planui įgyvendinti, ir teikia dėl jų nuomonę tarybai;
 
 
 
 
-11) svarsto ir teikia siūlymus tarybai dėl aukštosios mokyklos reorganizavimo arba likvidavimo planų; 
+11) svarsto ir teikia siūlymus tarybai dėl kandidatų tinkamumo eiti rektoriaus (direktoriaus) pareigas;
 
 
 
 
-12) svarsto ir teikia siūlymus tarybai dėl aukštosios mokyklos lėšų (taip pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir nuosavybės teise valdomo turto valdymo, naudojimo ir disponavimo jais tvarkos;
+12) svarsto ir teikia siūlymus tarybai dėl aukštosios mokyklos reorganizavimo arba likvidavimo planų;
 
 
 
 
-13) svarsto ir teikia siūlymus tarybai dėl bendro studijų vietų skaičiaus nustatymo, atsižvelgiant į galimybes užtikrinti studijų ir mokslo, meno veiklos kokybę; 
+13) svarsto ir teikia siūlymus tarybai dėl aukštosios mokyklos lėšų (taip pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir nuosavybės teise valdomo turto valdymo, naudojimo ir disponavimo jais tvarkos;
 
 
 
 
-14) atlieka kitas teisės aktuose ir aukštosios mokyklos statute nustatytas funkcijas.
+14) tvirtina studijų kainas ir nustato bendrą studijų vietų skaičių, atsižvelgdamas į galimybes užtikrinti studijų ir mokslo, meno veiklos kokybę;
+
+
+
+
+15) atlieka kitas teisės aktuose ir aukštosios mokyklos statute nustatytas funkcijas.
 
 
 
 
 
 
-3. Senatas (akademinė taryba) savo sprendimus skelbia viešai teisės aktų nustatyta tvarka.
+3. Senatas (akademinė taryba) savo sprendimus skelbia aukštosios mokyklos interneto svetainėje.
 
 
 
 
-4. Senatas (akademinė taryba) sudaromas (sudaroma) aukštosios mokyklos statute nustatyta tvarka ne ilgiau kaip 5 metams.
+4. Senatas (akademinė taryba) sudaromas (sudaroma) aukštosios mokyklos statute nustatyta tvarka ne ilgesniam kaip 5 metų laikotarpiui.
 
 
 
 
-5. Senato (akademinės tarybos) nariais gali būti universiteto (kolegijos) akademinės bendruomenės nariai, universiteto administracijos nariai, patenkantys į senatą (akademinę tarybą) pagal pareigas, taip pat kitų mokslo ir studijų institucijų mokslininkai, dėstytojai ir pripažinti menininkai. Studentų skiriami atstovai turi sudaryti ne mažiau kaip 20 procentų senato (akademinės tarybos) narių. Studentų atstovus į senatą (akademinę tarybą) skiria studentų atstovybė, o jeigu jos nėra, – visuotinis studentų susirinkimas (konferencija). Profesoriaus ir vyriausiojo mokslo darbuotojo pareigas einantys asmenys turi sudaryti ne mažiau kaip 20 procentų senato narių. Docento ir vyresniojo mokslo darbuotojo pareigas einantys asmenys turi sudaryti ne mažiau kaip 20 procentų senato (akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas turi sudaryti ne daugiau kaip 10 procentų senato (akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas gali būti ir kitų mokslo ir studijų institucijų darbuotojai. Aukštosios mokyklos rektorius (direktorius) yra senato (akademinės tarybos) narys pagal pareigas.
+5. Senato (akademinės tarybos) nariais gali būti universiteto (kolegijos) akademinės bendruomenės nariai, universiteto (kolegijos) administracijos nariai, patenkantys į senatą (akademinę tarybą) pagal pareigas, taip pat kitų mokslo ir studijų institucijų mokslininkai, dėstytojai ir pripažinti menininkai. Studentų skiriami atstovai turi sudaryti ne mažiau kaip 20 procentų senato (akademinės tarybos) narių. Studentų atstovus į senatą (akademinę tarybą) skiria studentų atstovybė, o jeigu jos nėra, – visuotinis studentų susirinkimas (konferencija). Profesoriaus ir vyriausiojo mokslo darbuotojo pareigas einantys asmenys turi sudaryti ne mažiau kaip 20 procentų senato narių. Docento ir vyresniojo mokslo darbuotojo pareigas einantys asmenys turi sudaryti ne mažiau kaip 20 procentų senato (akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas turi sudaryti ne daugiau kaip 10 procentų senato (akademinės tarybos) narių. Senato (akademinės tarybos) nariai pagal pareigas gali būti ir kitų mokslo ir studijų institucijų darbuotojai. Aukštosios mokyklos rektorius (direktorius) yra senato (akademinės tarybos) narys pagal pareigas.
 
 
 
 
-6. Senato (akademinės tarybos) veiklą reglamentuoja aukštosios mokyklos senato (akademinės tarybos) patvirtintas senato (akademinės tarybos) darbo reglamentas. 
+6. Senato (akademinės tarybos) veiklą reglamentuoja aukštosios mokyklos senato (akademinės tarybos) patvirtintas senato (akademinės tarybos) darbo reglamentas.
 
 
 
@@ -1686,7 +1666,7 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-8. Senatas (akademinė taryba) apie savo sprendimus aukštosios mokyklos statute nustatyta tvarka informuoja aukštosios mokyklos bendruomenę ir kartą per metus jai atsiskaito už savo veiklą. 
+8. Senatas (akademinė taryba) apie savo sprendimus aukštosios mokyklos statuto nustatyta tvarka informuoja aukštosios mokyklos bendruomenę ir kartą per metus jai atsiskaito už savo veiklą, pateikdamas praėjusių kalendorinių metų veiklos ataskaitą.
 
 
 Straipsnio pakeitimai:
@@ -1712,59 +1692,69 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-2) leidžia įsakymus;
+2) priima ir atleidžia aukštosios mokyklos darbuotojus;
 
 
 
 
-3) priima ir atleidžia aukštosios mokyklos darbuotojus;
+3) aukštosios mokyklos statuto nustatyta tvarka priima ir šalina studentus;
 
 
 
 
-4) aukštosios mokyklos statute nustatyta tvarka priima ir šalina studentus;
+4) teikia senatui siūlymus dėl studijų kainos; 
 
 
 
 
-5) teikia tarybai siūlymus dėl studijų kainos ir įmokų, tiesiogiai nesusijusių su studijų programos įgyvendinimu, dydžių nustatymo;
+5) tvirtina įmokų, tiesiogiai nesusijusių su studijų programų įgyvendinimu, dydžius;
 
 
 
 
-6) atsako už aukštosios mokyklos finansinę veiklą, tinkamą lėšų ir turto valdymą, naudojimą ir disponavimą jais; 
+6) atsako už aukštosios mokyklos finansinę veiklą, tinkamą lėšų ir turto valdymą, naudojimą ir disponavimą jais;
 
 
 
 
-7) teikia aukštosios mokyklos tarybai tvirtinti aukštosios mokyklos metinę veiklos ataskaitą;
+7) teikia aukštosios mokyklos tarybai tvirtinti aukštosios mokyklos metinę pajamų ir išlaidų sąmatą ir šios sąmatos įvykdymo ataskaitą;
 
 
 
 
-8) skelbia viešai aukštosios mokyklos tarybos patvirtintą aukštosios mokyklos metinę veiklos ataskaitą;
+8) teikia aukštosios mokyklos tarybai tvirtinti aukštosios mokyklos metinę veiklos ataskaitą, kurioje aptariamas ir strateginio veiklos plano įgyvendinimas;
 
 
 
 
-9) teikia senatui svarstyti ir aukštosios mokyklos tarybai tvirtinti strateginį aukštosios mokyklos veiklos ir aukštosios mokyklos struktūros pertvarkos planus;
+9) skelbia viešai aukštosios mokyklos tarybos patvirtintą aukštosios mokyklos metinę veiklos ataskaitą;
 
 
 
 
-10) svarsto ir priima sprendimus, susijusius su aukštosios mokyklos lėšų (taip pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir turto valdymu, naudojimu ir disponavimu jais;
+10) teikia senatui svarstyti ir aukštosios mokyklos tarybai tvirtinti strateginį aukštosios mokyklos veiklos ir aukštosios mokyklos struktūros pertvarkos planus;
 
 
 
 
-11) atlieka kitas teisės aktuose ir aukštosios mokyklos statute nustatytas funkcijas.
+11) svarsto ir priima sprendimus, susijusius su aukštosios mokyklos lėšų (taip pat lėšų, skirtų administracijos ir kitų darbuotojų darbo užmokesčiui) ir turto valdymu, naudojimu ir disponavimu jais;
+
+
+
+
+12) tvirtina aukštosios mokyklos vidaus tvarkos taisykles;
+
+
+
+
+13) atlieka kitas teisės aktuose ir aukštosios mokyklos statute nustatytas funkcijas.
 
 
 
 
 
 
-3. Rektorių (direktorių) renka taryba aukštosios mokyklos tarybos nustatyta tvarka.
+3. Rektorių (direktorių) renka taryba aukštosios mokyklos tarybos nustatyta tvarka. 
 
 
 
@@ -1774,27 +1764,22 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-5. Rektoriumi gali būti asmuo, turintis mokslo laipsnį arba esantis pripažintas menininkas, turintis pedagoginės ir vadybinės patirties.
+5. Rektoriumi (direktoriumi) gali būti nepriekaištingos reputacijos, pedagoginės ir vadybinės patirties turintis asmuo, kuris turi mokslo arba meno daktaro laipsnį, arba yra pripažintas menininkas. Rektoriui (direktoriui) keliami kvalifikaciniai reikalavimai, ne žemesni kaip šiame straipsnyje nurodyti, nustatomi aukštosios mokyklos statute. 
 
 
 
 
-6. Direktoriumi gali būti asmuo, turintis pedagoginės ir vadybinės patirties.
+6. Su išrinktu rektoriumi (direktoriumi) jo kadencijos laikotarpiui darbo sutartį aukštosios mokyklos vardu pasirašo tarybos pirmininkas arba kitas tarybos įgaliotas asmuo.
 
 
 
 
-7. Su išrinktu rektoriumi (direktoriumi) jo kadencijos laikotarpiui darbo sutartį aukštosios mokyklos vardu pasirašo tarybos pirmininkas arba kitas tarybos įgaliotas asmuo.
+7. Rektoriaus (direktoriaus) kadencija – 5 metai. Tas pats asmuo tos pačios aukštosios mokyklos rektoriumi (direktoriumi) gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės ir ne anksčiau kaip po 5 metų nuo paskutinės kadencijos pabaigos, jeigu paskutinė kadencija buvo iš eilės antra.
 
 
 
 
-8. Rektoriaus (direktoriaus) kadencija – 5 metai. Tas pats asmuo tos pačios aukštosios mokyklos rektoriumi (direktoriumi) gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės ir ne anksčiau kaip po 5 metų nuo paskutinės kadencijos pabaigos, jeigu paskutinė kadencija buvo iš eilės antra.
-
-
-
-
-9. Jeigu rektoriaus (direktoriaus) pateikta aukštosios mokyklos metinė veiklos ataskaita aukštosios mokyklos tarybos visų narių balsų dauguma nepatvirtinama, rektorius (direktorius) teisės aktų nustatyta tvarka atleidžiamas iš pareigų ne mažiau kaip 6 (kai tarybą sudaro 9 nariai) arba 7 (kai tarybą sudaro 11 narių) aukštosios mokyklos tarybos narių balsų dauguma. 
+8. Jeigu rektoriaus (direktoriaus) pateikta aukštosios mokyklos metinė veiklos ataskaita aukštosios mokyklos tarybos visų narių balsų dauguma nepatvirtinama, rektorius (direktorius) gali būti atleidžiamas iš pareigų ne mažesne kaip dviejų trečiųjų aukštosios mokyklos tarybos narių balsų dauguma.
 
 
 Straipsnio pakeitimai:
@@ -3827,7 +3812,6 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 
 
 
- 
 75 straipsnis. Valstybės biudžeto bazinio finansavimo lėšos
 
 
@@ -3839,7 +3823,7 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 
 
 
-2) administravimui ir ūkiui;
+2) administravimui ir ūkiui, susijusiems su moksliniais tyrimais, eksperimentine plėtra ir meno veikla;
 
 
 
@@ -3856,17 +3840,17 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 
 
 
-2. Nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos Vyriausybės nustatyta tvarka skiriamos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti.
+2. Nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos Vyriausybės nustatyta tvarka skiriamos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti. 
 
 
 
 
-3. Valstybės biudžeto lėšos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka pagal mokslo ir studijų institucijų mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos vertinimo rezultatus ir finansines galimybes.
+3. Valstybės biudžeto lėšos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti ir lėšos su moksliniais tyrimais, eksperimentine plėtra ir meno veikla susijusiam administravimui ir ūkiui, mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka pagal mokslo ir studijų institucijų mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos vertinimo rezultatus bei finansines galimybes.
 
 
 
 
-4. Valstybės biudžeto lėšos sudėtingos infrastruktūros objektų priežiūrai Vyriausybės nustatyta tvarka skiriamos valstybinėms mokslo ir studijų institucijoms. 
+4. Valstybės biudžeto lėšos sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
@@ -4269,7 +4253,12 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-3) studentams skatinti.  
+3) studentams skatinti;
+
+
+
+
+4) ūkiui ir administravimui, susijusiems su studijomis.
 
 
 Straipsnio dalies pakeitimai:
