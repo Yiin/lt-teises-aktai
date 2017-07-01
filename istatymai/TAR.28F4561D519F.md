@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS PASLAUGŲ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2017-07-01
+ 
+Įstatymas paskelbtas: Žin. 2009, Nr. 153-6901, i. k. 1091010ISTA00XI-570
+ 
 LIETUVOS RESPUBLIKOS 
 PASLAUGŲ 
 ĮSTATYMAS 
@@ -1694,7 +1698,10 @@ TEISĖS AKTUOSE NURODYTI DOKUMENTAI, KURIEMS NETAIKOMOS LIETUVOS RESPUBLIKOS PAS
 
 
 
-2. Lietuvos Respublikos viešųjų pirkimų įstatymo 33 straipsnio 3 dalyje, 34 ir 37 straipsniuose nurodyti dokumentai.
+2. Lietuvos Respublikos viešųjų pirkimų įstatymo 48 straipsnyje ir 51 straipsnio 2 ir 4 dalyse nurodyti dokumentai. 
+Punkto pakeitimai:
+Nr. XIII-332, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07555
+ 
 
 
 
@@ -1733,3 +1740,14 @@ Lietuvos Respublikos paslaugų įstatymo
 
 
 _________________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-332, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07555
+Lietuvos Respublikos paslaugų įstatymo Nr. XI-570 3 priedo pakeitimo įstatymas
