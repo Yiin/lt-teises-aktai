@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -1835,7 +1835,10 @@ Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 37 straipsnis. Reikalavimai valdymą perėmusiam subjektui
 
 
-1. Valdymą perėmęs subjektas pirkimus vykdo pagal Viešųjų pirkimų įstatymą.
+1. Valdymą perėmęs subjektas pirkimus vykdo pagal Lietuvos Respublikos viešųjų pirkimų įstatymą ir (arba) Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-335, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07558
+ 
 
 
 
@@ -2009,3 +2012,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 11, 12, 14 ir 16 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2701, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26480
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 29 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-335, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07558
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 37 straipsnio pakeitimo įstatymas
