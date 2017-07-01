@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-05-31 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -825,7 +825,6 @@ SPECIALIOSIOS NUOSTATOS NUSTATANT KAI KURIAS PAJAMAS
 
 
 1) gyventojo gautos iš asmens, nesusijusio su gyventoju darbo santykiais arba jų esmę atitinkančiais santykiais, nepiniginės dovanos ir laimėjimai (prizai), jeigu jų vertė neviršija 100 eurų;
-TAR pastaba. 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -986,7 +985,6 @@ Nr. XI-2166, 2012-06-29, Žin., 2012, Nr. 83-4340 (2012-07-14)
 
 
 4. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną.
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1119,7 +1117,11 @@ Nr. XII-427, 2013-06-27, Žin., 2013, Nr. 75-3756 (2013-07-13)
 
 
 
-2) pašalpos, mokamos iš valstybės, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto, išskyrus ligos, motinystės, tėvystės ir motinystės (tėvystės) pašalpas;
+2) pašalpos, mokamos iš valstybės ir savivaldybių biudžetų, taip pat Valstybinio socialinio draudimo fondo administravimo įstaigų mokamos nepensinės išmokos, išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2502, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18829
+Nr. XIII-418, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10026
+ 
 
 
 
@@ -1225,7 +1227,6 @@ Nr. XII-427, 2013-06-27, Žin., 2013, Nr. 75-3756 (2013-07-13)
 
 
 20) palūkanų už ne nuosavybės vertybinius popierius (išskyrus asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, išleistus ne nuosavybės vertybinius popierius, jeigu už šiuos ne nuosavybės vertybinius popierius asmuo, susijęs su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes palūkanas negu kitiems tų pačių ne nuosavybės vertybinių popierių turėtojams), palūkanų už Lietuvos ir užsienio valstybių vyriausybių, taip pat jų politinių ar teritorijos administracinių padalinių, vietos valdžios ne nuosavybės vertybinius popierius, palūkanų už Lietuvos ir užsienio valstybių bankuose ir kitose kredito įstaigose laikomus indėlius suma, neviršijanti 500 eurų per mokestinį laikotarpį, jeigu ne nuosavybės vertybiniai popieriai įsigyti ar sutartys dėl indėlių sudarytos nuo 2014 m. sausio 1d.; 
-TAR pastaba. 20 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
@@ -1254,8 +1255,7 @@ Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 
 
 
-24) gyventojų pajamos už parduodamas pačių surinktas miško gėrybes (grybus, uogas, riešutus, vaistažoles), neviršijančios 3 000 eurų per mokestinį laikotarpį; 
-TAR pastaba. 24 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+24) gyventojų pajamos už parduodamas pačių surinktas miško gėrybes (grybus, uogas, riešutus, vaistažoles), neviršijančios 3 000 eurų per mokestinį laikotarpį;
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1271,8 +1271,7 @@ Nr. XII-2203, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21005
 
 
 
-26) paveldėjimo būdu gautos pajamos, kurios yra mokesčio objektas pagal Lietuvos Respublikos paveldimo turto mokestį reglamentuojančius teisės aktus; dovanojimo būdu gautos pajamos iš sutuoktinių, vaikų (įvaikių), tėvų (įtėvių), brolių, seserų, vaikaičių ir senelių; taip pat iš kitų gyventojų dovanojimo būdu per mokestinį laikotarpį gautų pajamų suma (vertė), neviršijanti 2 500 eurų; 
-TAR pastaba. 26 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+26) paveldėjimo būdu gautos pajamos, kurios yra mokesčio objektas pagal Lietuvos Respublikos paveldimo turto mokestį reglamentuojančius teisės aktus; dovanojimo būdu gautos pajamos iš sutuoktinių, vaikų (įvaikių), tėvų (įtėvių), brolių, seserų, vaikaičių ir senelių; taip pat iš kitų gyventojų dovanojimo būdu per mokestinį laikotarpį gautų pajamų suma (vertė), neviršijanti 2 500 eurų;
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1280,8 +1279,7 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-27) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamų, gautų pardavus ar kitaip perleidus nuosavybėn šios dalies 28, 30, 53 ir 54 punktuose nenurodytą turtą, išskyrus netauriųjų metalų laužą, ir to turto įsigijimo kainos ir kitų šio Įstatymo 19 straipsnyje nurodytų su šio turto pardavimu ar kitokiu perleidimu nuosavybėn susijusių išlaidų skirtumas, neviršijantis 2 500 eurų per mokestinį laikotarpį; 
-TAR pastaba. 27 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+27) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamų, gautų pardavus ar kitaip perleidus nuosavybėn šios dalies 28, 30, 53 ir 54 punktuose nenurodytą turtą, išskyrus netauriųjų metalų laužą, ir to turto įsigijimo kainos ir kitų šio Įstatymo 19 straipsnyje nurodytų su šio turto pardavimu ar kitokiu perleidimu nuosavybėn susijusių išlaidų skirtumas, neviršijantis 2 500 eurų per mokestinį laikotarpį;
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1289,8 +1287,7 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą (įskaitant kilnojamąjį pagal prigimtį daiktą, kuris nekilnojamuoju pripažįstamas pagal įstatymus), jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir 54 punktuose nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 10 metų iki jo pardavimo ar kitokio perleidimo nuosavybėn; 
-TAR pastaba. 28 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
+28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą (įskaitant kilnojamąjį pagal prigimtį daiktą, kuris nekilnojamuoju pripažįstamas pagal įstatymus), jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir 54 punktuose nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 10 metų iki jo pardavimo ar kitokio perleidimo nuosavybėn;
 Straipsnio punkto pakeitimai:
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
@@ -1304,7 +1301,6 @@ Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 
 
 30) pajamų iš finansinių priemonių pardavimo ar kitokio perleidimo nuosavybėn ar išvestinių finansinių priemonių realizavimo, išskyrus tikslinėse teritorijose įsteigtų vienetų išleistas finansines priemones, ir šių finansinių priemonių įsigijimo kainos ir kitų šio Įstatymo 19 straipsnyje nurodytų su jų pardavimu ar kitokiu perleidimu nuosavybėn bei išvestinių finansinių priemonių realizavimu susijusių išlaidų skirtumas, neviršijantis 500 eurų per mokestinį laikotarpį. Ši lengvata netaikoma tuo atveju, kai akcininkas akcijas parduoda arba kitaip perleidžia nuosavybėn šias akcijas išleidusiam vienetui, kai vertybiniai popieriai laikomi parduotais pagal šio Įstatymo 11 straipsnį, taip pat parduodant ar kitaip perleidžiant akcijas, kurios gautos šio Įstatymo 2 straipsnio 14 dalies 1 punkte nurodytu atveju (akcijų nominalios vertės padidinimo atveju lengvata netaikoma pajamų daliai, kuri lygi akcijos nominalios vertės padidinimo sumai);
-TAR pastaba. 30 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
@@ -1360,8 +1356,7 @@ Nr. XII-1573, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05687
 
 
 
-39) iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, per mokestinį laikotarpį gautų prizų vertė, neviršijanti 200 eurų; 
-TAR pastaba. 39 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+39) iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, per mokestinį laikotarpį gautų prizų vertė, neviršijanti 200 eurų;
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1369,8 +1364,7 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-40) šios dalies 37 ir 38 punktuose nenurodyti 200 eurų vertės neviršijantys sporto varžybų ir kiti prizai ir laimėjimai, jeigu jie iš to paties asmens gaunami ne daugiau kaip 6 kartus per mokestinį laikotarpį; 
-TAR pastaba. 40 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+40) šios dalies 37 ir 38 punktuose nenurodyti 200 eurų vertės neviršijantys sporto varžybų ir kiti prizai ir laimėjimai, jeigu jie iš to paties asmens gaunami ne daugiau kaip 6 kartus per mokestinį laikotarpį;
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1449,7 +1443,6 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 55) 1 750 eurų per mokestinį laikotarpį neviršijančios pajamos, gautos kaip atlygis teikiant paslaugas pagal paslaugų kvitą, kai šių paslaugų teikimą nustato Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas.
-TAR pastaba. 55 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2015 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
  
@@ -1965,8 +1958,7 @@ Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
 
 
 
-6. Gyvybės draudimo sutartims, sudarytoms nuo 2004 m. gegužės 1 d., šio straipsnio 1 dalies 1 punkto nuostatos taikomos, jeigu įmokų gavėjas pagal šias sutartis yra vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje. 
-TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
+6. Gyvybės draudimo sutartims, sudarytoms nuo 2004 m. gegužės 1 d., šio straipsnio 1 dalies 1 punkto nuostatos taikomos, jeigu įmokų gavėjas pagal šias sutartis yra vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje.
 Straipsnio dalies pakeitimai:
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
@@ -1975,7 +1967,6 @@ Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 
 
 7. Šio straipsnio 1 dalies 2 punkto nuostatos taikomos, jeigu įmokų gavėjas yra Europos ekonominės erdvės valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje įregistruotas ar kitaip organizuotas užsienio vienetas.
-TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2016 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
  
@@ -3122,3 +3113,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 38
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-376, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09156
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 37 straipsnio ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-418, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10026
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 38 straipsnių pakeitimo įstatymo Nr. XII-2502 1 straipsnio pakeitimo įstatymas
