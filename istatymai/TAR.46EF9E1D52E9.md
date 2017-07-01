@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -502,7 +502,10 @@ Nr. XI-870, 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
 
 
 
-4. Priimant asmenį į Lietuvos Respublikos diplomatinę tarnybą arba atsisakius jį priimti į Lietuvos Respublikos diplomatinę tarnybą, šio straipsnio 1 dalyje nurodyta terminuota 1 metų darbo sutartis dėl darbo Užsienio reikalų ministerijoje nutraukiama pagal Lietuvos Respublikos darbo kodekso 126 straipsnio 1 dalį.
+4. Priimant asmenį į Lietuvos Respublikos diplomatinę tarnybą arba atsisakius jį priimti į Lietuvos Respublikos diplomatinę tarnybą, šio straipsnio 1 dalyje nurodyta terminuota 1 metų darbo sutartis dėl darbo Užsienio reikalų ministerijoje pasibaigia pagal Lietuvos Respublikos darbo kodekso 69 straipsnio 1 dalį.
+Straipsnio dalies pakeitimai:
+Nr. XII-2466, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18822
+ 
 
 
 Straipsnio pakeitimai:
@@ -2061,9 +2064,10 @@ Nr. X-401, 2005-11-17, Žin., 2005, Nr. 144-5235 (2005-12-10)
 70 straipsnis. Kompensacijos diplomato žūties ar sužalojimo atveju. Palaikų pervežimas
 
 
-1. Jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos Respublikos valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems po jo mirties), iki jiems sukaks 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), – iki jiems sukaks 24 metai, sutuoktiniui, tėvui (įtėviui), motinai (įmotei) ir dėl amžiaus ar neįgalumo nedarbingiems asmenims, kurie buvo diplomato išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, lygiomis dalimis išmokama 48 mėnesių diplomato gauto vidutinio darbo užmokesčio dydžio kompensacija, o jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – 100 mėnesių jo gauto vidutinio darbo užmokesčio dydžio kompensacija. Visais atvejais bendra diplomatui žuvus atliekant tarnybines pareigas arba mirus dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, išmokamos kompensacijos suma negali viršyti 101 370 eurų. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 3 metus.
+1. Jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos Respublikos valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems po jo mirties), iki jiems sukaks 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), – iki jiems sukaks 24 metai, sutuoktiniui, tėvui (įtėviui), motinai (įmotei) ir dėl amžiaus ar neįgalumo nedarbingiems asmenims, kurie buvo diplomato išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, lygiomis dalimis išmokama 48 mėnesių diplomato gauto vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme (toliau – Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas) nustatytos vienkartinės socialinio draudimo išmokos apdraustajam asmeniui mirus dydžiu, o jeigu diplomatas žuvo atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – 100 mėnesių jo gauto vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam asmeniui mirus dydžiu. Visais atvejais bendra diplomatui žuvus atliekant tarnybines pareigas arba mirus dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, išmokamos kompensacijos suma negali viršyti 101 370 eurų. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 3 metus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1138, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13605
+Nr. XII-2466, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18822
  
 
 
@@ -2079,7 +2083,10 @@ Nr. XII-1138, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13605
 
 
 
-4. Diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, atsižvelgiant į jo sveikatos sutrikimo laipsnį Vyriausybės nustatyta tvarka išmokama vienkartinė nuo 12 iki 48 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija, o diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – nuo 30 iki 50 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija.
+4. Diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu, atsižvelgiant į jo sveikatos sutrikimo laipsnį Vyriausybės nustatyta tvarka išmokama vienkartinė nuo 12 iki 48 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne ilgiau kaip 12 mėnesių, dydžiu, o diplomatui, kuris buvo sužalotas atlikdamas tarnybines pareigas arba susirgo sunkia liga dėl priežasčių, susijusių su tarnybinių pareigų atlikimu užsienio valstybėje, kurioje vyksta ginkluotas konfliktas, ar dėl užsienio valstybėje įvykdyto teroro akto, – nuo 30 iki 50 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne ilgiau kaip 12 mėnesių, dydžiu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2466, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18822
+ 
 
 
 
@@ -2414,7 +2421,7 @@ Darbdavio atstovas              __________________        �
 (parašas)                                            (vardas ir pavardė)
 A. V.
  
-Diplomatas                        __________________              ________________________
+Diplomatas                        __________________              ________________________
 (parašas)                                                     (vardas ir pavardė)
  
  
@@ -2695,3 +2702,13 @@ Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 54, 55 ir 70
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2029, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18706
 Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 14 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2466, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18822
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 19 ir 70 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-147, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29847
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 19 ir 70 straipsnių pakeitimo įstatymo Nr. XII-2466 3 straipsnio pakeitimo įstatymas
