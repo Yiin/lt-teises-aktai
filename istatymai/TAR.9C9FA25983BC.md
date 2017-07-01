@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -132,9 +132,18 @@ Nr. XI-2343, 2012-11-06, Žin., 2012, Nr. 132-6671 (2012-11-15), i. k. 1121010IS
 
 
 
-2. Valstybės ir savivaldybių institucijos, įstaigos bei įmonės privalo sudaryti sąlygas Specialiųjų tyrimų tarnybai neatlygintinai ir netrukdomai naudotis valstybės registrų, kadastrų, klasifikatorių duomenimis ir kitais valstybės ir savivaldybių institucijų, įstaigų bei įmonių duomenų bankais, o kitų įmonių, įstaigų, organizacijų bei fizinių asmenų – pagal sutartis. 
+2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, valstybės ir savivaldybių valdomos įmonės, įmonės, kurių akcininkė yra valstybė ar savivaldybė, viešosios įstaigos, kurių steigėja, savininkė ar dalininkė yra valstybė ar savivaldybė, pagal Specialiųjų tyrimų tarnybos prašymą arba pagal sudarytas duomenų teikimo sutartis neatlygintinai teikia tarnybos funkcijoms atlikti reikalingus valstybės informacinių išteklių duomenis ir dokumentus bei kitą informaciją. 
 Straipsnio dalies pakeitimai:
 Nr. X-1271, 2007-07-04, Žin., 2007, Nr. 81-3328 (2007-07-21), i. k. 1071010ISTA00X-1271
+Nr. XIII-360, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08719
+ 
+
+
+
+
+3. Bankai, finansų ir kredito įmonės bei kredito įstaigos ir kiti juridiniai asmenys pagal Specialiųjų tyrimų tarnybos prašymą neatlygintinai teikia tarnybos funkcijoms atlikti reikalingą informaciją apie juridinio asmens ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-360, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08719
  
 
 
@@ -922,3 +931,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 10, 11-1, 12, 14, 15 ir 17 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-360, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08719
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 6 straipsnio pakeitimo įstatymas
