@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
  
@@ -21,6 +21,7 @@ LIETUVOS RESPUBLIKOS APLINKOS ORO APSAUGOS ĮSTATYMAS
  
 1999 m. lapkričio 4 d. Nr. VIII-1392
 Vilnius
+ 
  
 
 
@@ -53,6 +54,13 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šis įstatymas nereglamentuoja radioaktyviosios taršos, taip pat aplinkos oro taršos, kuri gali atsirasti dėl gamtos procesų ar dėl teršalų pernašų iš kitų valstybių.
+
+
+
+
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+Papildyta straipsnio dalimi:
+Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
  
 
 
@@ -63,7 +71,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Aplinkos oras – troposferos oras, išskyrus darbo aplinkos orą.
+1. Aplinkos oras – troposferos oras (ne patalpų), išskyrus darbo aplinkos darbovietėse orą, kuriam taikomi socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyti darbuotojų saugos ir sveikatos reikalavimai ir su kuriuo kiti visuomenės nariai įprastai sąlyčio neturi. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
+ 
 
 
 
@@ -73,12 +84,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Ribinė užterštumo vertė – mokslinių tyrimų nustatytas aplinkos oro užterštumo lygis, pagal turimas žinias nedarantis žalingo poveikio žmonių sveikatai ir aplinkai.
+3. Ribinė aplinkos oro užterštumo vertė (toliau – ribinė užterštumo vertė) – mokslinėmis žiniomis pagrįsta aplinkos oro užterštumo lygio vertė, kuri nustatyta aplinkos ministro ir sveikatos apsaugos ministro siekiant išvengti kenksmingo poveikio žmonių sveikatai ir (arba) aplinkai, užkirsti jam kelią ar jį sumažinti ir kurios negalima viršyti nuo aplinkos ministro ir sveikatos apsaugos ministro nustatytos datos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
+ 
 
 
 
 
-4. Siektina užterštumo vertė – aplinkos oro užterštumo lygis, kuris nustatomas siekiant išvengti didesnio ilgalaikio kenksmingo poveikio žmonių sveikatai ir aplinkai ir kuris turi būti pasiektas per nustatytą laiką.
+4. Siektina aplinkos oro užterštumo vertė (toliau – siektina užterštumo vertė) – aplinkos oro užterštumo lygio vertė, kuri nustatyta aplinkos ministro ir sveikatos apsaugos ministro siekiant išvengti kenksmingo poveikio žmonių sveikatai ir (arba) aplinkai, užkirsti jam kelią ar jį sumažinti ir kuri negali būti viršijama, jeigu įmanoma, nuo aplinkos ministro ir sveikatos apsaugos ministro nustatytos datos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
+ 
 
 
 
@@ -165,6 +182,21 @@ Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
 
 
 20. Geriausias prieinamas gamybos būdas – veiksmingiausia ir pažangiausia ūkio subjektų veiklos ir jos vykdymo metodų plėtojimo pakopa, kuri rodo, ar tam tikras būdas gali būti naudojamas kaip pagrindas išmetamų teršalų ribinėms vertėms, skirtoms užkirsti kelią teršalų išmetimui, nustatyti.
+
+
+
+
+21. Elektrinė transporto priemonė – tik elektra varoma motorinė transporto priemonė, kuri turi bent vieną ne išorinį elektros energijos keitiklį ir kuriai elektros energija gali būti tiekiama įvairiais būdais: kontaktiniais laidais (trolėjais), naudojant pantografus, įkraunamus akumuliatorius, indukcijos ir kitais būdais, naudojant bet kokius šių būdų derinius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
+ 
+
+
+
+
+22. Darnus susisiekimo paslaugų organizavimo būdas – veiksmingiausia ir pažangiausia susisiekimo paslaugas teikiančių ūkio subjektų veikla ir jos metodų plėtojimas, kai sudaromos sąlygos išsaugoti esamą elektrinių transporto priemonių tinklą ir jį plėtoti, mažinti vidaus degimo varikliais varomų transporto priemonių naudojimą ir (arba) rinktis pažangiausias degalų rūšis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
  
 
 
@@ -178,22 +210,24 @@ Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
 Aplinkos oro apsaugos prioritetai yra:
 
 
-1) energijos naudojimo veiksmingumo didinimas;
+1) energijos naudojimo veiksmingumo didinimas ir šilumos energijos gamybai naudojamų kuro deginimo įrenginių sukeliamos taršos mažinimas griežtinant kietojo kuro vartojimo, kurą deginančių įrenginių eksploatavimo reikalavimus, plėtojant centralizuoto šilumos tiekimo sistemas, teisinėmis ir finansinėmis priemonėmis užtikrinant, kad didinant gyventojų tankumą teritorijose, kuriose galima užtikrinti centralizuotą šilumos tiekimą, nauji šilumos vartotojai šilumos energija būtų aprūpinami centralizuotai arba šilumos energijos gamybai naudotų netaršias šilumos gamybos technologijas (elektros, saulės ar geoterminę energiją);
 
 
 
 
-2) motorinių transporto priemonių sukeliamos taršos mažinimas;
+2) transporto priemonių sukeliamos taršos mažinimas mažinant vidaus degimo varikliais varomų transporto priemonių naudojimą ir didinant elektrinių transporto priemonių naudojimą; 
 
 
 
 
-3) geriausių prieinamų gamybos būdų ir technologijų diegimas.
+3) geriausių prieinamų gamybos, darnaus susisiekimo paslaugų organizavimo būdų ir technologijų diegimas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
  
-
-
-
-
 
 
 
@@ -211,9 +245,10 @@ Aplinkos oro apsaugos prioritetai yra:
 
 
 
-3. Savivaldybių institucijos, siekdamos užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti, savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose numato aplinkos oro kokybės valdymo priemones. Kokios minimalios priemonės ir informacija turi būti numatytos savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose, nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija. 
+3. Savivaldybių institucijos, siekdamos užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti, savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane numato aplinkos oro kokybės valdymo priemones. Priemonės numatomos atsižvelgiant į šio įstatymo 3 straipsnyje nustatytus aplinkos oro apsaugos prioritetus. Kokios minimalios priemonės ir informacija turi būti numatytos savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane, nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija. 
 Straipsnio dalies pakeitimai:
 Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
  
 
 
@@ -799,8 +834,35 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
+ 
 
 
+
+
+
+
+Lietuvos Respublikos 
+aplinkos oro apsaugos įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje (OL 2008 L 152, p. 1). 
+
+
+
+
+2. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2284 dėl tam tikrų valstybėse narėse į atmosferą išmetamų teršalų kiekio mažinimo, kuria iš dalies keičiama Direktyva 2003/35/EB ir panaikinama Direktyva 2001/81/EB (OL 2016 L 344, p. 1). 
+Papildyta punktu:
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
+ 
+
+
+Papildyta priedu:
+Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
+ 
  
  
 Pakeitimai:
@@ -824,3 +886,13 @@ Lietuvos Respublikos aplinkos oro apsaugos įstatymo 4 ir 7 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
 Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2 ir 20 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2, 3, 4, 10 straipsnių ir priedo pakeitimo įstatymas
