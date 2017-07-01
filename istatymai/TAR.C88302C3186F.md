@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C88302C3186F"
 
 # Lietuvos Respublikos Europos darbo tarybų įstatymas
 
-Suvestinė redakcija nuo 2017-05-03
+Suvestinė redakcija nuo 2017-07-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 39-1271, i. k. 1041010ISTA0IX-2031
  
@@ -57,7 +57,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taip pat taikomas, jeigu Europos Sąjungos įmonės ar Europos Sąjungos įmonių grupės kontroliuojančiosios įmonės buveinė nėra valstybėje narėje, o Lietuvos Respublikoje veikia Europos Sąjungos įmonės padalinys ar yra registruota Europos Sąjungos įmonių grupės įmonė, kuris ar kuri yra paskirtas ar paskirta atitinkamai Europos Sąjungos įmonės ar Europos Sąjungos įmonių grupės kontroliuojančiosios įmonės atstovu šio įstatymo tikslui pasiekti. Kai toks atstovas nė vienoje valstybėje narėje nėra paskirtas, šis įstatymas taikomas tuo atveju, jeigu Lietuvos Respublikoje veikiančio Europos Sąjungos įmonės padalinio arba buveinę Lietuvos Respublikoje turinčios Europos Sąjungos įmonių grupės įmonės darbuotojų skaičius, apskaičiuotas šio įstatymo nustatyta tvarka, yra didžiausias, palyginti su darbuotojų skaičiumi kituose Europos Sąjungos įmonės padaliniuose ar Europos Sąjungos įmonių grupės įmonėse, kurie ar kurios yra kitose valstybėse narėse.
+2. Darbuotojų atstovai – Europos Sąjungos įmonės ar jos padalinių, taip pat Europos Sąjungos įmonių grupės įmonių ar jų padalinių darbuotojų atstovai; Lietuvos Respublikoje buveinę turinčios Europos Sąjungos įmonės ar jos padalinio, veikiančio Lietuvos Respublikoje, taip pat Lietuvos Respublikoje buveinę turinčios Europos Sąjungos įmonių grupės įmonės darbuotojų atstovai – kaip reglamentuota Lietuvos Respublikos darbo kodekso 165 straipsnyje; kitoje valstybėje buveinę turinčių Europos Sąjungos įmonės ar Europos Sąjungos įmonių grupės įmonės, taip pat kitoje valstybėje veikiančių šių įmonių padalinių darbuotojų atstovai – kaip jie apibūdinti pagal tų valstybių teisės aktus ir (arba) nusistovėjusią tvarką. Darbuotojų atstovais laikomi ir Europos darbo taryba, Europos darbo tarybos komitetas, specialusis derybų komitetas, taip pat kiti darbuotojams atstovaujantys asmenys, jeigu nesudaroma Europos darbo taryba, bet parengiama darbuotojų informavimo ir konsultavimo tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
 
 
 
@@ -494,7 +497,10 @@ DARBUOTOJŲ INFORMAVIMO IR KONSULTAVIMO PAGRINDAI
 
 
 
-2. Su šio straipsnio 1 dalyje nurodytais asmenimis jų narystės Europos darbo taryboje ar specialiajame derybų komitete laikotarpiu darbo sutartis negali būti nutraukta darbdavio iniciatyva be juos skyrusio darbuotojų atstovo sutikimo. Jeigu šie asmenys buvo išrinkti darbuotojų susirinkime ar konferencijoje, sutikimą juos atleisti iš darbo turi teisę duoti Valstybinės darbo inspekcijos teritorinis skyrius, kurio teritorijoje yra įmonės arba įmonės padalinio buveinė. Tokiu atveju atleidimo iš darbo tvarkai mutatis mutandis taikomas Lietuvos Respublikos darbo kodekso 134 straipsnis.
+2. Su šio straipsnio 1 dalyje nurodytais asmenimis jų narystės Europos darbo taryboje ar specialiajame derybų komitete laikotarpiu darbo sutartis negali būti nutraukta darbdavio iniciatyva be juos skyrusio darbuotojų atstovo sutikimo. Jeigu šie asmenys buvo išrinkti darbuotojų susirinkime ar konferencijoje, sutikimą juos atleisti iš darbo turi teisę duoti Valstybinės darbo inspekcijos teritorinis skyrius, kurio teritorijoje yra įmonės arba įmonės padalinio buveinė. Tokiu atveju atleidimo iš darbo tvarkai mutatis mutandis taikomas Lietuvos Respublikos darbo kodekso 168 straipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
 
 
 
@@ -644,7 +650,10 @@ DERYBOS DĖL EUROPOS DARBO TARYBOS SUDARYMO AR DARBUOTOJŲ INFORMAVIMO IR KONSUL
 
 
 
-4. Visuotiniam darbuotojų susirinkimui ir bendrajai įmonės padalinių ar įmonių darbuotojų delegatų konferencijai mutatis mutandis taikomos Lietuvos Respublikos darbo kodekso 62 straipsnio 5 dalies nuostatos. 
+4. Neteko galios nuo 2017-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
 
 
 
