@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-18
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -39,6 +39,22 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatomis.
+
+
+
+
+3. Šio Įstatymo ketvirtasis1 skirsnis taikomas vykdant valstybių narių kompetentingų institucijų paskirtų arba administracinių ar teisminių institucijų patvirtintų arba darbo ginčus nagrinėjančių organų paskirtų finansinių administracinių sankcijų ir (ar) baudų, įskaitant mokesčius ir priemokas, susijusių su Lietuvos Respublikos darbo kodekso 108 straipsnio 2 dalyje nustatytų analogiškų garantijų pažeidimu, išieškojimą ir pranešimus apie sprendimus dėl tokių sankcijų ir (ar) baudų skyrimo. 
+Papildyta straipsnio dalimi:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
+
+
+
+
+4. Šio Įstatymo ketvirtasis1 skirsnis netaikomas vykdant sankcijas, kurioms taikomas 2005 m. vasario 24 d. Tarybos pamatinis sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms (OL 2005 L 76, p. 16), 2000 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 44/2001 dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (OL 2001 L 12, p. 1) ar 2006 m. balandžio 27 d. Tarybos sprendimas 2006/325/EB dėl Europos bendrijos ir Danijos Karalystės susitarimo dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo sudarymo (OL 2006 L 120, p. 22).
+Papildyta straipsnio dalimi:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
 
 
 Straipsnio pakeitimai:
@@ -162,9 +178,10 @@ Valstybinė darbo inspekcija pagal jai priskirtą kompetenciją:
 
 
 
-8) tikrina įstatymų ir kitų norminių teisės aktų nustatytų saugos ir sveikatos garantijų, darbo ir poilsio organizavimo taikymą asmenims iki 18 metų, nėščioms, neseniai pagimdžiusioms, krūtimi maitinančioms moterims ir dirbantiems neįgaliesiems; 
+8) tikrina įstatymų ir kitų norminių teisės aktų nustatytų saugos ir sveikatos garantijų, darbo ir poilsio organizavimo taikymą asmenims iki 18 metų, nėščioms, neseniai pagimdžiusioms, krūtimi maitinančioms darbuotojoms ir neįgaliesiems; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1155, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13598
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
  
 
 
@@ -211,17 +228,26 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-16) vykdo nelegalaus darbo reiškinių kontrolę, Vyriausybės nustatyta tvarka koordinuoja nelegalaus darbo kontrolę vykdančių institucijų veiklą;
+16) vykdo nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos prevenciją, Vyriausybės nustatyta tvarka koordinuoja nelegalaus darbo kontrolę vykdančių institucijų veiklą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
 
 
 
 
-17) teikia išvadas dėl rengiamų darbuotojų saugos ir sveikatos mokymo programų, skirtų darbuotojų, valdančių potencialiai pavojingus įrenginius, atliekančių šių įrenginių nuolatinę privalomą priežiūrą jų eksploatavimo metu, darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų saugos ir sveikatos tarnybų specialistų mokymui, dalyvauja tikrinant jų žinias. Tikrina, ar darbuotojai nustatyta tvarka instruktuoti, apmokyti, atestuoti darbuotojų saugos ir sveikatos klausimais; 
+17) teikia išvadas dėl rengiamų darbuotojų saugos ir sveikatos mokymo programų, skirtų darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų saugos ir sveikatos specialistų, darbų su potencialiai pavojingais įrenginiais, kurių kategorijų sąrašą tvirtina Vyriausybė, vadovų ir darbuotojų, prižiūrinčių, pertvarkančių šiuos įrenginius, mokymui. Tikrina darbdaviams atstovaujančių asmenų žinias darbuotojų saugos ir sveikatos klausimais Mokymo ir žinių darbuotojų saugos ir sveikatos klausimais tikrinimo bendruosiuose nuostatuose nustatyta tvarka prieš darbdaviui atstovaujančiam asmeniui pradedant eksploatuoti įmonę ar teikti paslaugas, dalyvauja tikrinant darbuotojų saugos ir sveikatos tarnybų specialistų darbų su potencialiai pavojingais įrenginiais, kurių kategorijų sąrašą tvirtina Vyriausybė, vadovų ir darbuotojų, prižiūrinčių, pertvarkančių šiuos įrenginius, žinias. Tikrina, ar darbuotojai nustatyta tvarka instruktuoti, apmokyti, atestuoti darbuotojų saugos ir sveikatos klausimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
 
 
 
 
-18) teikia pastabas bei pasiūlymus dėl rengiamų norminių teisės aktų projektų darbuotojų saugos ir sveikatos, darbo santykių srityse;
+18) teikia pastabas bei pasiūlymus dėl rengiamų norminių teisės aktų projektų darbuotojų saugos ir sveikatos, darbo santykių srityse, tvirtina atskirų rūšių veiklos ar darbų bendrąsias saugos taisykles; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
 
 
 
@@ -261,35 +287,70 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-26) nustato ir viešai skelbia rizikingiausius ūkio sektorius, kuriuose yra naudojamas trečiųjų šalių piliečių nelegalus darbas;
-
-
-
-
-27) kasmet iki liepos 1 d. teikia Europos Komisijai praėjusiais metais atliktų patikrinimų duomenis (apie kiekvieną tikrintą sektorių absoliučiais skaičiais ir nurodant trečiųjų šalių piliečių dalį procentais) ir patikrinimų dėl trečiųjų šalių piliečių darbo rezultatus ir juos registruoja Darbo sąlygų darbo vietose nuolatinės stebėsenos informacinėje sistemoje;
-
-
-
-
-28) teikia ir gauna prašymus dėl finansinių administracinių sankcijų ir (ar) baudų išieškojimo arba pranešimus apie sprendimus dėl tokių sankcijų ir (ar) baudų skyrimo Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatymo nustatyta tvarka; 
+26) organizuoja darbo arbitražo darbą; 
 Papildyta straipsnio punktu:
-Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
  
 
 
 
 
-29) tikrina, ar nepažeidžiamos komandiruotų darbuotojų garantijos; 
+27) nagrinėja darbdavių prašymus dėl darbuotojų atstovavimą įgyvendinančių asmenų darbo sutarčių nutraukimo darbdavio iniciatyva, darbdavio valia ir jų būtinųjų darbo sutarties sąlygų, palyginti su ankstesnėmis jų būtinosiomis darbo sutarties sąlygomis ar palyginti su kitų tos pačios kategorijos darbuotojų būtinosiomis darbo sutarties sąlygomis, pabloginimo; 
 Papildyta straipsnio punktu:
-Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
  
 
 
 
 
-30) atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
+28) kontroliuoja, ar darbdaviai tinkamai vykdo darbuotojų informavimo ir konsultavimosi su jais pareigą; 
+Papildyta straipsnio punktu:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
+
+
+
+
+29) nustato ir viešai skelbia rizikingiausius ūkio sektorius, kuriuose yra naudojamas trečiųjų šalių piliečių nelegalus darbas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
+
+
+
+
+30) kasmet iki liepos 1 d. teikia Europos Komisijai praėjusiais metais atliktų patikrinimų duomenis (apie kiekvieną tikrintą sektorių absoliučiais skaičiais ir nurodant trečiųjų šalių piliečių dalį procentais) ir patikrinimų dėl trečiųjų šalių piliečių darbo rezultatus ir juos registruoja Darbo sąlygų darbo vietose nuolatinės stebėsenos informacinėje sistemoje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
+
+
+
+
+31) teikia ir gauna prašymus dėl finansinių administracinių sankcijų ir (ar) baudų išieškojimo arba pranešimus apie sprendimus dėl tokių sankcijų ir (ar) baudų skyrimo šio Įstatymo ketvirtajame1 skirsnyje nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+Straipsnio punkto pakeitimai:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
+
+
+
+
+32) tikrina, ar nepažeidžiamos komandiruotų darbuotojų garantijos; 
+Papildyta straipsnio punktu:
+Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+ 
+
+
+
+
+33) atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
  
 
 
@@ -434,12 +495,26 @@ Nr. XII-1994, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18262
 
 
 
-11) skiria darbo ginčų komisijų pirmininkus;
+11) skiria darbo ginčų komisijos pirmininkus ir, gavęs profesinių sąjungų ir darbdavių organizacijų teikimus, tvirtina darbo ginčų komisijos narių vardinį sąrašą, priskirdamas  šiuos narius konkrečioms darbo ginčų komisijoms; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
 
 
 
 
-12) vykdo socialinės apsaugos ir darbo ministro pavedimus. 
+12) skiria Valstybinės darbo inspekcijos teritorinio skyriaus valstybės tarnautoją ar darbuotoją, dirbantį pagal darbo sutartį, atsakingą už darbo arbitražo darbo organizavimą; 
+Papildyta straipsnio punktu:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
+
+
+
+
+13) vykdo socialinės apsaugos ir darbo ministro pavedimus. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
 
 
 
@@ -550,7 +625,18 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-13) gali turėti ir kitų teisių, nustatytų kitais norminiais teisės aktais. 
+13) įpareigoti darbdavį atkurti iškreipiamas ar slepiamas aplinkybes, dėl kurių buvo konstatuotas nedeklaruotas darbas; 
+Papildyta straipsnio punktu:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
+
+
+
+
+14) gali turėti ir kitų teisių, nustatytų kitais norminiais teisės aktais. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
 
 
 
@@ -607,7 +693,10 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-3. Valstybinės darbo inspekcijos inspektoriai inspektavimo metu turi informuoti trečiosios šalies piliečius apie jų teises, numatytas teisės aktuose ir šio Įstatymo 131 straipsnyje.
+3. Valstybinės darbo inspekcijos inspektoriai inspektavimo metu turi informuoti trečiosios šalies piliečius apie jų teises, numatytas Lietuvos Respublikos darbo kodekse ir kituose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
 
 
 
@@ -701,112 +790,186 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-Įstatymas papildytas ketvirtuoju1 skirsniu:
-Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
 KETVIRTASIS1 SKIRSNIS
-DARBDAVIŲ, LEIDUSIŲ DIRBTI NELEGALIAI TREČIOSIOS ŠALIES PILIEČIAMS, ATSAKOMYBĖ
+TARPVALSTYBINIS PRAŠYMŲ DĖL FINANSINIŲ ADMINISTRACINIŲ SANKCIJŲ IR (AR) BAUDŲ IŠIEŠKOJIMO ARBA PRANEŠIMŲ APIE SPRENDIMUS DĖL TOKIŲ SANKCIJŲ IR (AR) BAUDŲ SKYRIMO VYKDYMAS
  
 
 
-121 straipsnis. Nuobaudų ir kitų apribojimų taikymas
+121 straipsnis. Bendradarbiavimas vykdant prašymus dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ir pranešimus apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo
 
 
-1. Darbdaviams – juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, skiriama nuo 868 iki 2 896 eurų bauda už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kai paskirta bauda baigta vykdyti, užtraukia baudą juridiniam asmeniui už kiekvieną trečiosios šalies pilietį nuo 2 896 iki 5 792 eurų.
-TAR pastaba. 121 straipsnio 1 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
-Straipsnio dalies pakeitimai:
-Nr. XII-1144, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13456
-Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
- 
+1. Valstybinė darbo inspekcija, gavusi kitos valstybės narės kompetentingos institucijos (toliau – prašančioji institucija) prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo arba pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo, vadovaudamasi šio Įstatymo 122 straipsniu:
 
 
-
-
-2. Šio straipsnio 1 dalyje numatyta bauda skiriama, jeigu padaryta veika neužtraukia baudžiamosios atsakomybės.
+1) išieško prašančiosios institucijos paskirtą arba administracinių ar teisminių institucijų arba, kai taikytina, darbo ginčų teismų, vadovaujantis prašančiosios institucijos valstybės narės (toliau – prašančiosios institucijos valstybė) įstatymais ir procedūromis patvirtintą finansinę administracinę sankciją ir (ar) baudą, kurios yra toliau neskundžiamos;
 
 
 
 
-3. Darbdavys privalo sumokėti nelegaliai dirbusiam trečiosios šalies piliečiui atlyginimą už darbą, dėl kurio buvo susitarta, bet ne mažesnį kaip Lietuvos Respublikos Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio ir ne mažiau kaip už tris mėnesius (nebent darbdavys arba nelegaliai dirbęs trečiosios šalies pilietis gali įrodyti, kad nelegalus darbas buvo atliekamas trumpesnį laiką), ir nuo šios sumos sumokėti teisės aktų nustatytus mokesčius, įskaitant susidariusius delspinigius ir baudas, taip pat visas šioje dalyje numatytų sumų pervedimo į šalį, į kurią grįžo ar buvo sugrąžintas trečiosios šalies pilietis, išlaidas ir trečiosios šalies piliečio grąžinimo išlaidas.
+2) praneša atsakovui apie sprendimą, kuriuo skiriama finansinė administracinė sankcija ir (ar) bauda;
 
 
 
 
-4. Šio straipsnio 1 dalyje nurodytų pažeidimų bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis Administracinių teisės pažeidimų kodekso nuostatomis.
-
-
-
-
-5. Skiriamos baudos dydis nustatomas pagal didžiausios ir mažiausios baudų vidurkį, atsižvelgiant į šio straipsnio 6 ir 7 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra ir atsakomybę lengvinančių, ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas nutarime skirti baudą. 
-
-
-
-
-6. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo, padaręs pažeidimą, užkirto kelią žalingoms pažeidimo pasekmėms, iki pažeidimo tyrimo pradžios pažeidimą nutraukė, pripažino padaręs pažeidimą, padėjo šio straipsnio 7 dalyje nurodytų institucijų įgaliotiems pareigūnams atlikti pažeidimo tyrimą, geranoriškai atlygino žalą, taip pat labai sunki juridinio asmens finansinė padėtis.
-
-
-
-
-7. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo kliudė atlikti pažeidimo tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydamas Valstybinės darbo inspekcijos, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos ar policijos įgaliotų pareigūnų įpareigojimo nutraukti neteisėtus veiksmus.
-
-
-
-
-8. Šio straipsnio 1 dalyje numatytos baudos gali būti skiriamos ne vėliau kaip per 3 metus nuo pažeidimo nustatymo dienos.
-
-
-
-
-9. Be šiame straipsnyje numatytų baudų, darbdaviams, leidusiems dirbti nelegaliai trečiosios šalies piliečiams, atitinkamai taikoma:
-
-
-1) apribojimas dalyvauti viešuosiuose pirkimuose Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka;
-
-
-
-
-2) teisės gauti subsidijas, išmokas ar kitą valstybės pagalbą, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, atėmimas iki 5 metų Lietuvos Respublikos Vyriausybės nustatyta tvarka; 
-
-
-
-
-3) įpareigojimas Lietuvos Respublikos Vyriausybės nustatyta tvarka sugrąžinti tam tikrą dalį arba visas per 12 mėnesių laikotarpį iki nelegalaus darbo nustatymo suteiktų subsidijų, išmokų ar kitos valstybės pagalbos, įskaitant Europos Sąjungos struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos paramą, lėšas.
+3) praneša atsakovui apie kitus atitinkamus dokumentus, susijusius su finansinės administracinės sankcijos ir (ar) baudos išieškojimu, įskaitant teismo sprendimą ar galutinį sprendimą, kuris gali būti pateiktas patvirtintos kopijos forma, sudarančius prašymo dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo teisinį pagrindą ir teisę jį vykdyti.
 
 
 
 
 
 
-10. Už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui rangovas, kai darbdavys yra subrangovas, atsako subsidiariai, išskyrus šio straipsnio 11 dalyje nurodytą atvejį.
-TAR pastaba. 121 straipsnio 10 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
-Papildyta straipsnio dalimi:
-Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
-Straipsnio dalies pakeitimai:
-Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
+2. Valstybinė darbo inspekcija atlieka šio straipsnio 1 dalyje numatytus veiksmus, jeigu prašančiosios institucijos prašymas dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo arba pranešimas apie sprendimą, kuriuo skiriama finansinė administracinė sankcija ir (ar) bauda, pateiktas pagal prašančiosios institucijos valstybėje narėje galiojančius įstatymus, kitus teisės aktus ir administracinę praktiką. Toks prašymas pateikiamas tuo atveju, kai prašančioji institucija negali įvykdyti išieškojimo ar pateikti pranešimo pagal savo įstatymus, kitus teisės aktus ir administracinę praktiką. 
+
+
+
+
+3. Valstybinė darbo inspekcija, gavusi prašymą išieškoti finansinę administracinę sankciją ir (ar) baudą arba pranešimą apie sprendimą, kuriuo skiriama tokia sankcija ir (ar) bauda, perduotą per Vidaus rinkos informacinę sistemą ir laikantis šiame skirsnyje nurodytų reikalavimų, jį pripažįsta nereikalaudama atlikti papildomų formalumų ir nedelsdama imasi visų būtinų priemonių jam įvykdyti, išskyrus atvejus, kai Valstybinė darbo inspekcija nusprendžia vadovautis šio Įstatymo 123 straipsnyje numatytais atsisakymo vykdyti prašymą pagrindais.
+
+
+
+
+4. Siekdama išieškoti finansinę administracinę sankciją ir (ar) baudą ar pateikti pranešimą apie sprendimą, kuriuo skiriama tokia sankcija ir (ar) bauda, Valstybinė darbo inspekcija vadovaujasi Lietuvos Respublikos teisės aktais, taikomais dėl tokio paties, o jeigu toks nenumatytas, – panašaus pobūdžio pažeidimo ar sprendimo.
  
 
 
 
 
-11. Rangovui, kai darbdavys yra subrangovas, kuris įvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje nurodytas pareigas, arba kai subrangovas, kuris yra darbdavys, neįvykdė Lietuvos Respublikos darbo kodekso 981 straipsnio 1 dalies 5 punkte nurodytos pareigos, nekyla subsidiari atsakomybė už šio straipsnio 3 dalyje nurodytų piniginių įpareigojimų įvykdymą nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui, išskyrus atvejus, kai rangovas žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, buvo suklastotas.
-TAR pastaba. 121 straipsnio 11 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
-Papildyta straipsnio dalimi:
-Nr. XII-1617, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06061
-Straipsnio dalies pakeitimai:
-Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
+
+
+122 straipsnis. Prašymas dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimas apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo
+
+
+1. Prašančiosios institucijos prašymas dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo, taip pat pranešimas apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo vykdomi nedelsiant, remiantis duomenimis, nurodytais Europos Komisijos patvirtintame bendrajame dokumente (toliau – bendrasis dokumentas), kuriame turi būti nurodoma:
+
+
+1) adresato vardas ir pavardė (pavadinimas) ir žinomas adresas, taip pat bet kokie kiti susiję duomenys ar informacija adresato tapatybei nustatyti;
+
+
+
+
+2) pažeidimo faktų ir aplinkybių santrauka, pažeidimo pobūdis ir atitinkamos taikytinos taisyklės;
+
+
+
+
+3) dokumentas, kuriuo leidžiama vykdyti reikalavimą prašančiosios institucijos valstybėje, ir visa kita svarbi informacija ar dokumentas, įskaitant teisinio pobūdžio informaciją ar dokumentus, susijusius su pagrindiniu reikalavimu, finansine administracine sankcija ir (ar) bauda;
+
+
+
+
+4) kompetentingos institucijos, atsakingos už finansinės administracinės sankcijos ir (ar) baudos įvertinimą, ir, jeigu tai kita institucija, kompetentingos institucijos, iš kurios galima gauti papildomos informacijos apie finansinę administracinę sankciją ir (ar) baudą arba galimybes ginčyti mokėjimo pareigą ar sprendimą, kuriuo ji paskirta, pavadinimas, adresas ir kiti kontaktiniai duomenys. 
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytame bendrajame dokumente taip pat nurodoma:
+
+
+1) kai pateikiamas pranešimas apie sprendimą dėl finansinės administracinės sankcijos ir (ar) baudos skyrimo – pranešimo tikslas ir laikotarpis, per kurį jis turi būti įvykdytas;
+
+
+
+
+2) kai pateikiamas prašymas dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo – data, kada teismo sprendimas arba sprendimas tampa vykdytinas arba galutinis, finansinės administracinės sankcijos ir (ar) baudos pobūdžio ir dydžio aprašymas, visos datos, turinčios reikšmės sprendimo vykdymui, įskaitant tai, ar teismo sprendimas arba sprendimas buvo įteiktas atsakovui (atsakovams) ir kaip buvo įteiktas, ar jis buvo paskelbtas atsakovui (atsakovams) nedalyvaujant, taip pat prašančiosios institucijos patvirtinimas, kad sankcija ir (ar) bauda yra neskundžiama, ir pagrindinis reikalavimas, dėl kurio teikiamas prašymas, ir jį sudarančių elementų apibūdinimas.
+
+
+
+
+
+
+3. Valstybinė darbo inspekcija, vadovaudamasi Lietuvos Respublikos teisės aktais, imasi visų būtinų veiksmų, kad ne vėliau kaip per 20 darbo dienų nuo prašymo ar pranešimo gavimo dienos informuotų atsakovą apie prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo ir, kai būtina, apie atitinkamus Valstybinei darbo inspekcijai pateiktus dokumentus.
+
+
+
+
+4. Valstybinė darbo inspekcija ne vėliau kaip per 10 darbo dienų nuo prašymo ar pranešimo gavimo dienos informuoja prašančiąją instituciją apie:
+
+
+1) veiksmus, kurių ji ėmėsi vykdydama prašančiosios institucijos prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo, ir nurodo datą, kada adresatui buvo įteiktas pranešimas;
+
+
+
+
+2) atsisakymo vykdyti prašymą priežastis, jeigu ji, vadovaudamasi šio Įstatymo 124 straipsnio nuostatomis, atsisako vykdyti prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo.
  
 
 
 
 
-12. Rangovui, neįvykdžiusiam Lietuvos Respublikos darbo kodekso 981 straipsnio 2 dalyje nurodytų pareigų, kai subrangovas, kuris yra darbdavys, leido dirbti nelegaliai Lietuvos Respublikoje esančiam trečiosios šalies piliečiui, skiriama nuo 868 iki 2 896 eurų bauda už kiekvieną nelegaliai Lietuvos Respublikoje esantį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už šį pažeidimą bausto rangovo per metus nuo tos dienos, kai paskirta bauda baigta vykdyti, užtraukia baudą rangovui už kiekvieną nelegaliai Lietuvos Respublikoje esantį trečiosios šalies pilietį nuo 2 896 iki 5 792 eurų.
-TAR pastaba. 121 straipsnio 12 dalies nuostatos taikomos, kai nelegaliai Lietuvos Respublikoje esantys trečiųjų šalių piliečiai įdarbinami po įstatymo Nr. XII-2435 įsigaliojimo dienos (2016-07-01).
-Papildyta straipsnio dalimi:
-Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
+
+
+
+
+123 straipsnis. Atsisakymo vykdyti prašymą ar pranešimą pagrindai
+
+
+1. Valstybinė darbo inspekcija turi teisę atsisakyti vykdyti prašančiosios institucijos prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo, jeigu prašančiosios institucijos prašyme nėra pateikta šio Įstatymo 122 straipsnio 1 ir 2 dalyse nurodyta informacija, prašymas nėra išsamus arba akivaizdžiai neatitinka pagrindinio sprendimo. 
+
+
+
+
+2. Valstybinė darbo inspekcija gali atsisakyti vykdyti prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo šiomis aplinkybėmis:
+
+
+1) Valstybinei darbo inspekcijai atlikus tyrimą paaiškėja, kad numatytos išlaidos ar ištekliai, reikalingi finansinei administracinei sankcijai ir (ar) baudai išieškoti, yra neproporcingi išieškotinai sumai arba dėl to kiltų didelių sunkumų;
+
+
+
+
+2) bendra finansinė administracinė sankcija ir (ar) bauda yra mažesnė negu 350 eurų arba tos sumos atitikmuo;
+
+
+
+
+3) negerbiamos atsakovų pagrindinės teisės ir laisvės, įtvirtintos Lietuvos Respublikos Konstitucijoje.
  
 
 
 
 
+
+
+
+
+124 straipsnis. Procedūros sustabdymas
+
+
+1. Jeigu vykdant prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo atsakovas ar suinteresuotoji šalis prašančiosios institucijos valstybėje narėje užginčija arba apskundžia finansinę administracinę sankciją ir (ar) baudą ir (arba) pagrindinį reikalavimą, Valstybinė darbo inspekcija sustabdo tarpvalstybinę paskirtos finansinės administracinės sankcijos ir (ar) baudos vykdymo procedūrą iki tol, kol valstybės narės atitinkama kompetentinga įstaiga ar institucija šiuo klausimu priims sprendimą.
+
+
+
+
+2. Ginčai dėl Valstybinės darbo inspekcijos taikytų priemonių nagrinėjant prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo nagrinėjami Lietuvos Respublikos teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+125 straipsnis. Išlaidų atlyginimas
+
+
+1. Šiame skirsnyje nurodytos išieškotų finansinių administracinių sankcijų ir (ar) baudų sumos įskaitomos į valstybės biudžetą. 
+
+
+
+
+2. Valstybinė darbo inspekcija, vadovaudamasi Lietuvos Respublikos teisės aktais, užsienio valiuta apskaičiuotą baudą perskaičiuoja į eurus pagal oficialų Lietuvos banko skelbiamą euro ir užsienio valiutų kursą, skelbtą finansinės administracinės sankcijos ir (ar) baudos paskyrimo dieną.
+
+
+
+
+3. Valstybinė darbo inspekcija prisiima visas išlaidas, patirtas teikiant pagalbą prašančiosioms institucijoms pagal šio skirsnio nuostatas.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+ 
 
 
 
@@ -827,14 +990,9 @@ Valstybinė darbo inspekcija, atlikdama jai pavestas funkcijas, bendradarbiauja 
 
 
 
-131 straipsnis. Trečiosios šalies piliečio atstovavimas
-
-
-Profesinės sąjungos trečiosios šalies piliečio pavedimu gali įstatymų nustatyta tvarka atstovauti jam teisminėse arba administracinėse procedūrose.
-
-
-Įstatymas papildytas straipsniu:
-Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+131 straipsnis. Neteko galios nuo 2017-07-01
+Straipsnio naikinimas:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
  
 
 
@@ -914,13 +1072,13 @@ priedas
 
 
 2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas) (OL L 159, p. 11).
+
+
 Įstatymas papildytas priedu:
-Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13) 
-Papildyta punktu:
-Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
+Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+Priedo pakeitimai:
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
  
-
-
 
 
 
@@ -996,3 +1154,13 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2435, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17708
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 8, 9 straipsnių, ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 8, 9 straipsnių, ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2606 2 ir 8 straipsnių pakeitimo įstatymas
