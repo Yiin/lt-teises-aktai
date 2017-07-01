@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/89ccbb604a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20645
  
@@ -364,7 +364,7 @@ SOCIALINIO DRAUDIMO ĮMOKOS IR IŠMOKOS
 
 
 
-2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. 
+2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. Terminuotoms darbo sutartims nedarbo draudimo įmokos tarifas, nustatytas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu, didinamas du kartus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
  
@@ -442,7 +442,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas, už išmokas, mokamas pagal Darbo kodekso 300 straipsnio 4 dalį, ar už prastovos laiką; 
+5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas, už kompensacijas, mokamas pagal Darbo kodekso 218 straipsnio 4 dalį, ar už prastovos laiką; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
  
@@ -649,7 +649,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-22) Darbo kodekso 141 straipsnyje numatyto vidutinio darbo užmokesčio, sumokamo atleistam iš darbo darbuotojui už uždelstą laiką, kai su darbuotoju delsiama atsiskaityti ne dėl darbuotojo kaltės; 
+22) Darbo kodekso 147 straipsnyje numatyto vidutinio darbo užmokesčio, sumokamo atleistam iš darbo darbuotojui už uždelstą laiką, kai su darbuotoju delsiama atsiskaityti ne dėl darbuotojo kaltės; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
  
@@ -2239,3 +2239,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymo Nr. XII-2508 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-415, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10023
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymo Nr. XII-2508 1 ir 2 straipsnių pakeitimo įstatymo Nr. XIII-139 6 ir 12 straipsnių pakeitimo įstatymas
