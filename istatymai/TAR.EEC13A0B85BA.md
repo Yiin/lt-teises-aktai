@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2015-12-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -261,7 +261,10 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 3. Šio straipsnio 1 dalyje nurodyta subsidija yra skiriama įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytai tikslinei asmenų grupei priklausantį darbuotoją ir mokama visą jo darbo laikotarpį, o įdarbinus šio įstatymo 4 straipsnio 1 dalies 3–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančius darbuotojus, ši kompensacija skiriama ir mokama ne ilgiau kaip 12 mėnesių po įdarbinimo. Tuo atveju, kai šio įstatymo 4 straipsnio 1 dalies 2–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančių darbuotojų nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip dveji metai, tinkamomis finansuoti išlaidomis yra laikomos išlaidos darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms kompensuoti per ne ilgesnį kaip 24 mėnesių po įdarbinimo laikotarpį. 
 
-4. Subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms yra skiriama, jeigu įdarbinus asmenis padidėja atitinkamos socialinės įmonės faktinis įdarbinimo metu sąrašuose esančių tikslinėms grupėms priklausančių darbuotojų skaičius, palyginti su vidutiniu sąrašuose esančių darbuotojų skaičiumi per praėjusius 12 kalendorinių mėnesių. Subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms taip pat yra skiriama, jeigu įdarbinus asmenis atitinkamos socialinės įmonės faktinis įdarbinimo metu sąrašuose esančių tikslinėms grupėms priklausančių darbuotojų skaičius, palyginti su vidutiniu sąrašuose esančių darbuotojų skaičiumi per praėjusius 12 kalendorinių mėnesių, nepadidėja dėl darbuotojų atleidimo Darbo kodekso 127 straipsnyje arba 136 straipsnyje nustatytais pagrindais.
+4. Subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms yra skiriama, jeigu įdarbinus asmenis padidėja atitinkamos socialinės įmonės faktinis įdarbinimo metu sąrašuose esančių tikslinėms grupėms priklausančių darbuotojų skaičius, palyginti su vidutiniu sąrašuose esančių darbuotojų skaičiumi per praėjusius 12 kalendorinių mėnesių. Subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms taip pat yra skiriama, jeigu įdarbinus asmenis atitinkamos socialinės įmonės faktinis įdarbinimo metu sąrašuose esančių tikslinėms grupėms priklausančių darbuotojų skaičius, palyginti su vidutiniu sąrašuose esančių darbuotojų skaičiumi per praėjusius 12 kalendorinių mėnesių, nepadidėja dėl darbuotojų atleidimo Darbo kodekso 55, 56, 58 ir 60 straipsniuose nustatytais pagrindais.
+Straipsnio dalies pakeitimai:
+Nr. XII-2467, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18823
+ 
 
 5. Šio straipsnio 1 dalyje nurodyta subsidija apskaičiuojama procentais nuo kiekvienam socialinėje įmonėje dirbančiam tikslinei asmenų grupei priklausančiam darbuotojui tą mėnesį apskaičiuoto visų rūšių darbo užmokesčio, tačiau neviršijant dviejų tą mėnesį galiojančios Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių, ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos. 
 
@@ -510,4 +513,14 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 24 ir 26 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 16, 22 straipsnių ir priedo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2467, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18823
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-133, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29837
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymo Nr. XII-2467 2 straipsnio pakeitimo įstatymas
 
