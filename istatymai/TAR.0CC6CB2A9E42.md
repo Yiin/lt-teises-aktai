@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2017-06-30 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-24
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
  
@@ -316,12 +316,18 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 
 
 
-6) imtis priemonių, kad darbuotojas ar valstybės tarnautojas darbo vietoje nepatirtų priekabiavimo ir nebūtų duodami nurodymai diskriminuoti;
+6) užtikrinti, kad darbuotojas ar valstybės tarnautojas darbo vietoje nepatirtų priekabiavimo ir nebūtų duodami nurodymai diskriminuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-365, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08724
+ 
 
 
 
 
-7) imtis priemonių, kad darbuotojas, valstybės tarnautojas nepatirtų seksualinio priekabiavimo;
+7) užtikrinti, kad siekiantis įsidarbinti asmuo, darbuotojas, valstybės tarnautojas nepatirtų seksualinio priekabiavimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-365, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08724
+ 
 
 
 
