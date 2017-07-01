@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-11-18
+Suvestinė redakcija nuo 2017-07-01 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -230,19 +230,26 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 2. Šis įstatymas netaikomas:
 
 
-1) kredito sutartims, užtikrintoms nekilnojamojo turto įkeitimu (hipoteka);
+1) kredito sutartims, kurių įvykdymas užtikrinamas nekilnojamojo turto hipoteka arba su nekilnojamuoju turtu susijusia teise; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
 
 
 
 
-2) kredito sutartims, kurių paskirtis – įgyti arba išlaikyti nuosavybės teises į žemę arba į esamą ar projektuojamą statinį, išskyrus atvejus, kai vartojimo kredito sutarties sudarymo paskirtis yra esamo pastato renovacija ar jo vertės padidinimas;
+2) kredito sutartims, kurių paskirtis – įgyti arba išlaikyti teisę į žemės arba kito esamo ar projektuojamo nekilnojamojo turto nuosavybę, išskyrus atvejus, kai vartojimo kredito sutarties sudarymo paskirtis yra esamo gyvenamosios paskirties nekilnojamojo turto atnaujinimas (modernizacija) ar jo vertės padidinimas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
 
 
 
 
-3) kredito sutartims, kai bendra suteikiamo kredito suma yra didesnė negu 75 000 eurų;
+3) kredito sutartims, kai bendra suteikiamo kredito suma yra didesnė negu 75 000 eurų, išskyrus kredito sutartis, kurių įvykdymas neužtikrinamas nekilnojamojo turto hipoteka arba su nekilnojamuoju turtu susijusia teise ir kurių paskirtis yra gyvenamosios paskirties nekilnojamojo turto atnaujinimas (modernizacija) ar jo vertės padidinimas. Šis įstatymas visais atvejais netaikomas kredito sutartims, kurios sudaromos pagal Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymą;
 Straipsnio punkto pakeitimai:
 Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
  
 
 
