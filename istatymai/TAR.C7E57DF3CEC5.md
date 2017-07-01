@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -983,7 +983,9 @@ INVESTAVIMAS SUDARANT VALDŽIOS IR PRIVATAUS SUBJEKTŲ PARTNERYSTĖS SUTARTIS
 
 
 
-3. Valdžios ir privataus subjektų partnerystės sutartis turi būti rašytinė, sudaroma ne trumpesniam kaip 3 metų ir ne ilgesniam kaip 25 metų laikotarpiui vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos viešųjų pirkimų įstatymu, šio skirsnio nuostatomis ir kitais teisės aktais. Kitos šio įstatymo nuostatos valdžios ir privataus subjektų partnerystei taikomos tiek, kiek neprieštarauja šiam skirsniui.
+3. Valdžios ir privataus subjektų partnerystės sutartis turi būti rašytinė, sudaroma ne trumpesniam kaip 3 metų ir ne ilgesniam kaip 25 metų laikotarpiui vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos viešųjų pirkimų įstatymu, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu, šio skirsnio nuostatomis ir kitais teisės aktais. Kitos šio įstatymo nuostatos valdžios ir privataus subjektų partnerystei taikomos tiek, kiek jos neprieštarauja šiam skirsniui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
  
 
 
@@ -1080,7 +1082,9 @@ Nr. XII-1359, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18646
 
 
 
-13. Paslaugos ir darbai, kuriems sudaroma valdžios ir privataus subjekto partnerystės sutartis, perkami vadovaujantis Lietuvos Respublikos viešųjų pirkimų įstatymu.
+13. Paslaugos ir darbai, kuriems sudaroma valdžios ir privataus subjekto partnerystės sutartis, perkami vadovaujantis Viešųjų pirkimų įstatymu arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
  
 
 
@@ -1317,3 +1321,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-296, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06974
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-334, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07557
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-1 ir 15-2 straipsnių pakeitimo įstatymas
