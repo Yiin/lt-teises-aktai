@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2024-10-10
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 112-3100, i. k. 0981010ISTAVIII-947
  
@@ -174,7 +174,10 @@ MOTERŲ IR VYRŲ LYGIŲ TEISIŲ ĮGYVENDINIMAS
 
 
 
-5) imtis priemonių, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ir darbuotojai nepatirtų seksualinio priekabiavimo;
+5) užtikrinti, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ir darbuotojai nepatirtų seksualinio priekabiavimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
+ 
 
 
 
@@ -215,7 +218,10 @@ MOTERŲ IR VYRŲ LYGIŲ TEISIŲ ĮGYVENDINIMAS
 
 
 
-4) imtis priemonių, kad darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo;
+4) užtikrinti, kad siekiantis įsidarbinti asmuo ar darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
+ 
 
 
 
@@ -387,7 +393,9 @@ Darbdavio arba darbdavio atstovo veiksmai yra pripažįstami pažeidžiančiais 
 
 
 
-5) nesiima priemonių, kad darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo.
+5) neužtikrina, kad siekiantis įsidarbinti asmuo ar darbuotojas nepatirtų priekabiavimo ir seksualinio priekabiavimo. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
  
 
 
@@ -749,3 +757,8 @@ Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2767, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26966
 Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
+Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 5, 6 ir 11 straipsnių pakeitimo įstatymas
