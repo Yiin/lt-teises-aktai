@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/473b1f30bb3311e38766a859941f6073"
 
 # Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymas
 
-Suvestinė redakcija nuo 2015-04-15 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: TAR 2014-04-03, i. k. 2014-04033
  
@@ -103,7 +103,10 @@ Vilnius
 
 
 
-5) atlieka valstybės įmonių, akcinių bendrovių ir uždarųjų akcinių bendrovių, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, (toliau – valstybės valdomos įmonės) valdymo politikos įgyvendinimą koordinuojančios institucijos funkciją. 
+5) Neteko galios nuo 2017-07-01
+Straipsnio punkto naikinimas:
+Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+ 
 
 
 
@@ -235,42 +238,10 @@ Vilnius
 
 
 
-5. Įmonė, atlikdama valstybės valdomų įmonių valdymo politikos įgyvendinimą koordinuojančios institucijos funkciją: 
-
-
-1) turi teisę iš institucijų, įgyvendinančių valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse, gauti informaciją apie šių įmonių veiklą, jų rezultatus ir sprendimus, susijusius su šių įmonių valdymu, valstybei įgyvendinant turtines ir neturtines teises; gavusi šią informaciją stebi ir analizuoja, kaip šios įmonės laikosi teisės aktuose joms nustatytų reikalavimų;
-
-
-
-
-2) rengia ir viešai skelbia apibendrinamąsias ataskaitas apie valstybės valdomas įmones ir jų veiklą;
-
-
-
-
-3) konsultuoja institucijas, įgyvendinančias valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse, dėl šių įmonių veiksmingo valdymo, strategijų įgyvendinimo, ilgalaikių ir trumpalaikių tikslų ir pasiektų konkrečių rodiklių įgyvendinimo rezultatų ir teikia rekomendacijas dėl šių rodiklių gerinimo;
-
-
-
-
-4) konsultuoja ir teikia metodinę pagalbą valstybės valdomoms įmonėms dėl strategijų rengimo ir valstybės valdomų įmonių valdymo tobulinimo;
-
-
-
-
-5) teikia siūlymus institucijoms, įgyvendinančioms valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse, dividendų ar pelno įmokų nustatymo klausimais;
-
-
-
-
-6) teikia siūlymus institucijoms, įgyvendinančioms valstybės, kaip juridinio asmens dalyvio, teises ir pareigas valstybės valdomose įmonėse, dėl šių įmonių atliekamų nekomercinių funkcijų;
-
-
-
-
-7) atlieka kitas Vyriausybės nutarimuose jai priskirtas funkcijas, susijusias su valstybės valdomų įmonių valdymo politikos įgyvendinimo koordinavimu.
-
-
+5. Neteko galios nuo 2017-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+ 
 
 
 Straipsnio pakeitimai:
@@ -408,7 +379,10 @@ Nr. XII-1591, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04841
 
 
 
-4. Valdybos narius Vyriausybės siūlymu skiria ir atšaukia įmonės savininko teises ir pareigas įgyvendinanti institucija. Įmonės valdybos nariais gali būti savininko teises ir pareigas įgyvendinančios institucijos ir kitų valstybės institucijų valstybės tarnautojai.
+4. Neteko galios nuo 2017-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+ 
 
 
 
@@ -700,7 +674,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
- 
 
 
  
@@ -711,3 +684,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1591, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04841
 Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 ir 5 straipsnių pakeitimo įstatymas
