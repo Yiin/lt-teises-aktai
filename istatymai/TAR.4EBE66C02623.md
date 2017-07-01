@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-12
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2949,7 +2949,6 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 3. Tyčinis Lietuvos Respublikos darbo kodekse, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas arba darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų, neįtrauktų į buhalterinės apskaitos dokumentus, išmokėjimas 
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
  
- 
 
 
 
@@ -2959,8 +2958,11 @@ užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo dviejų tūks
 100 straipsnis. Darbo laiko apskaitos pažeidimas
 
 
-1. Darbuotojų darbo laiko nežymėjimas darbo laiko apskaitos žiniaraštyje arba žinomai neteisingų duomenų apie įmonėse, įstaigose, organizacijose pagal darbo sutartis dirbančių asmenų darbo laiką (įskaitant viršvalandinius darbus, darbą nakties metu, poilsio ir švenčių dienomis, kai yra nukrypimų nuo normalių darbo sąlygų) įrašymas į darbo laiko apskaitos žiniaraštį
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+1. Darbuotojų, išskyrus dirbančius nekintančių darbo dienos (pamainos) trukmės ir darbo dienų per savaitę skaičiaus darbo laiko režimu, darbo laiko nežymėjimas darbo laiko apskaitos žiniaraštyje, taip pat į darbo laiko apskaitą privalomai įtrauktino darbuotojų darbo laiko (viršvalandžių, darbo laiko švenčių dieną, poilsio dieną (jeigu jis nenustatytas pagal grafiką), naktį, dėl papildomo darbo) nežymėjimas darbo laiko apskaitos žiniaraštyje arba žinomai neteisingų duomenų apie įmonėse, įstaigose, organizacijose dirbančių asmenų į darbo laiko apskaitą privalomai įtrauktiną darbo laiką įrašymas į darbo laiko apskaitos žiniaraštį
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
+ 
 
 
 
@@ -2974,10 +2976,10 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 
 
 
-101 straipsnis. Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatymo pažeidimas 
+101 straipsnis. Komandiruotų darbuotojų darbo sąlygų pažeidimas 
 
 
-1. Informacijos apie komandiruotam darbuotojui taikomas Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatyme nustatytas garantijas nepateikimas nustatyta tvarka Valstybinės darbo inspekcijos teritoriniam skyriui
+1. Informacijos apie komandiruotam darbuotojui taikomas Lietuvos Respublikos darbo kodekso 108 straipsnio 2 dalyje nustatytas darbo sąlygas nepateikimas nustatyta tvarka Valstybinės darbo inspekcijos teritoriniam skyriui
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
 
@@ -2989,17 +2991,19 @@ užtraukia baudą nuo dviejų šimtų keturiasdešimt iki keturių šimtų ketur
 
 
 
-3. Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatyme nustatytų garantijų komandiruojamiems darbuotojams netaikymas
+3. Lietuvos Respublikos darbo kodekso II dalies VII skyriaus antrajame skirsnyje nustatytų garantijų komandiruotiems darbuotojams netaikymas arba netinkamas taikymas
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų. 
 
 
 
 
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
  
-
-
 
 
 
@@ -3112,20 +3116,22 @@ užtraukia baudą nuo trijų šimtų iki septynių šimtų eurų.
 
 
 
-106 straipsnis. Lietuvos Respublikos įdarbinimo per laikinojo įdarbinimo įmones įstatymo pažeidimas 
+106 straipsnis. Laikinųjų darbuotojų darbo sąlygų pažeidimas 
 
 
-1. Lietuvos Respublikos įdarbinimo per laikinojo įdarbinimo įmones įstatymo pažeidimas
+1. Lietuvos Respublikos darbo kodekso II dalies VI skyriaus antrajame skirsnyje nustatytų laikinųjų darbuotojų darbo sąlygų pažeidimas
 užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno šimto šešiasdešimt iki aštuonių šimtų šešiasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo aštuonių šimtų šešiasdešimt iki vieno tūkstančio keturių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo aštuonių šimtų šešiasdešimt iki vieno tūkstančio keturių šimtų šešiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
  
-
-
 
 
 
@@ -3233,7 +3239,6 @@ Nuolatinių žemėnaudos riboženklių sunaikinimas arba sugadinimas
 
 užtraukia baudą nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
  
- 
 
 
 
@@ -3249,7 +3254,6 @@ Geodezinio punkto sunaikinimas arba sugadinimas
 
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
- 
  
 
 
@@ -3720,8 +3724,11 @@ užtraukia baudą įmonių vadovams ir (ar) jų vyriausiesiems finansininkams nu
 133 straipsnis. Tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimas
 
 
-1. Lietuvos Respublikos darbo kodekse nustatytų tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimas
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+1. Lietuvos Respublikos užimtumo įstatyme nustatytų tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimas
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
+ 
 
 
 
@@ -4993,23 +5000,21 @@ užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
-184 straipsnis. Viešųjų pirkimų tvarkos pažeidimas
+184 straipsnis. Viešųjų pirkimų ir pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, tvarkos pažeidimas
 
 
-1. Lietuvos Respublikos viešųjų pirkimų įstatymo, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo ir šių įstatymų įgyvendinamųjų teisės aktų pažeidimas 
-užtraukia įspėjimą arba baudą perkančiųjų organizacijų vadovams ar jų įgaliotiems asmenims, viešojo pirkimo komisijos nariams, balsavusiems už neteisėto sprendimo priėmimą, ekspertams, perkančiųjų organizacijų valstybės tarnautojams ar darbuotojams nuo vieno šimto keturiasdešimt iki septynių šimtų keturiasdešimt eurų.
-Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+1. Lietuvos Respublikos viešųjų pirkimų įstatymo, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo ir šių įstatymų įgyvendinamųjų teisės aktų pažeidimas 
+užtraukia įspėjimą arba baudą perkančiųjų organizacijų ir perkančiųjų subjektų vadovams ar jų įgaliotiems asmenims, viešojo pirkimo ar pirkimo, atliekamo vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiojo subjekto, komisijos nariams, balsavusiems už neteisėto sprendimo priėmimą, ekspertams, perkančiųjų organizacijų valstybės tarnautojams ar darbuotojams nuo dviejų šimtų penkiasdešimt iki trijų tūkstančių eurų. 
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-330, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07553
  
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno tūkstančio penkiasdešimt iki dviejų tūkstančių trijų šimtų eurų.
- 
-
-
 
 
 
@@ -21300,3 +21305,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 505 ir 589 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821
 Lietuvos Respublikos administracinių nusižengimų kodekso 200 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
+Lietuvos Respublikos administracinių nusižengimų kodekso 100, 101, 106 ir 133 straipsnių pakeitimo įstatymas
