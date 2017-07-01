@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1250,9 +1250,10 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai ir valiutos keityklų operatoriai. 
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai ir valiutos keityklų operatoriai.
 Straipsnio dalies pakeitimai:
 Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
+Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
  
 
 
@@ -1317,9 +1318,17 @@ Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
 
 
 
-11) atlieka sutelktinio finansavimo platformos operatorių priežiūrą ir kitas Lietuvos Respublikos sutelktinio finansavimo įstatyme Lietuvos bankui priskirtas funkcijas.
+11) atlieka sutelktinio finansavimo platformos operatorių priežiūrą ir kitas Lietuvos Respublikos sutelktinio finansavimo įstatyme Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
+ 
+
+
+
+
+12) atlieka kredito davėjų, tarpusavio skolinimo platformos operatorių ir kredito tarpininkų priežiūrą ir kitas Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymu Lietuvos bankui priskirtas funkcijas.
+Papildyta straipsnio punktu:
+Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
  
 
 
@@ -1960,7 +1969,7 @@ Lietuvos banko įstatymo
 1 priedas
  
  
-FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI 
+FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
  
 
 
@@ -1969,159 +1978,158 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
  Rinkos dalyviai 
  Įmokų bazė 
  Maksimalus įmokų dydis 
-   
-
-
 
 
  1. 
  Kredito įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje 
  Vidutinis metinis turtas 
  0,017 proc. 
-   
 
 
  2. 
  Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje 
  Vidutinis metinis turtas 
  0,0057 proc. 
-   
 
 
  3. 
  Vartojimo kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje 
  Vidutinis metinis turtas 
  0,0085 proc. 
-   
 
 
  4. 
  Elektroninių pinigų įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje 
  Neapmokėtų elektroninių pinigų metinis vidurkis ir  mokėjimo paslaugų metinė apyvarta 
  0,01 proc. 
-   
 
 
  5. 
  Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje 
  Neapmokėtų elektroninių pinigų metinis vidurkis ir  mokėjimo paslaugų metinė apyvarta 
  0,005 proc. 
-   
 
 
  6. 
  Mokėjimo įstaigos 
  Mokėjimo paslaugų metinė apyvarta 
  0,01 proc. 
-   
 
 
  7. 
  Europos ekonominės erdvės valstybėse licencijuotų mokėjimo įstaigų filialai, įsteigti Lietuvos Respublikoje 
  Mokėjimo paslaugų metinė apyvarta 
  0,005 proc. 
-   
 
 
  8. 
  Draudimo ir perdraudimo įmonės; kitose negu Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje  
  Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos 
  0,26 proc. 
-   
 
 
  9. 
  Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje 
  Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos 
  0,13 proc. 
-   
 
 
  10. 
  Finansų maklerio įmonės 
  Metinės pajamos 
  0,3 proc. 
-   
 
 
  11. 
  Kitose Europos ekonominės erdvės valstybėse licencijuotų finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje 
  Metinės pajamos 
  0,15 proc. 
-   
 
 
  12. 
  Valdymo įmonės, investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės ir šių subjektų filialai, įsteigti Lietuvos Respublikoje 
  Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų turtas 
  0,05 proc. 
-   
 
 
  13. 
  Reguliuojamos rinkos operatoriai 
  – 
  21 721 Eur 
-   
 
 
  14. 
  Centrinis vertybinių popierių depozitoriumas 
  – 
  28 962 Eur 
-   
 
 
  15. 
  Emitentai, kurių nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas 
  – 
  868 Eur 
-   
 
 
  16. 
  Emitentai, kurių ne nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas 
  – 
  434 Eur 
-   
 
 
  17. 
  Draudimo brokerių įmonės 
  – 
  434 Eur 
-   
 
 
  18. 
  Finansų patarėjo įmonės 
  – 
  434 Eur 
-   
 
 
  19. 
- Valiutos keityklos operatoriai          
+ Valiutos keityklos operatoriai 
  – 
  434 Eur 
-
 
 
  20. 
  Sutelktinio finansavimo platformos operatoriai 
  – 
  3 000 Eur 
-   
+
+
+ 21. 
+ Kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje  
+ Vidutinė metinė likusi grąžinti išmokėtų kreditų suma 
+ 0,0125 proc., bet ne mažiau kaip 100 Eur 
+
+
+ 22. 
+ Tarpusavio skolinimo platformos operatoriai 
+ – 
+ 3 000 Eur 
+
+
+ 23. 
+ Nepriklausomi kredito tarpininkai 
+ – 
+ 217 Eur 
+
+
+ 24. 
+ Nepriklausomi vartojimo kredito tarpininkai  
+ – 
+ 217 Eur 
 
 
 
-Įstatymas papildytas nauju 1 priedu:
-Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
-Priedo pakeitimai:
-Nr. XII-1035, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10871
+ 
 Priedo pakeitimai:
 Nr. XII-1118, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13410
 Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
+Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
@@ -2491,3 +2499,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 pried
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2450, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17718
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 45 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 priedo pakeitimo įstatymas
