@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2016-06-03 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -422,7 +422,10 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 
 
-2) savivaldybės – valstybinės žemės, perduotos savivaldybėms patikėjimo teise Vyriausybės nutarimais ir jos nustatyta tvarka;
+2) savivaldybės – valstybinės žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nutarimais ir jos nustatyta tvarka šio straipsnio 2 dalyje nurodytoms reikmėms, taip pat valstybinės miško žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nutarimais šio straipsnio 3–5 dalyse nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-423, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10027
+ 
 
 
 
@@ -442,7 +445,10 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 
 
-6) šio straipsnio 3 dalyje nurodyti subjektai;
+6) kiti šio straipsnio 3 dalyje nurodyti subjektai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-423, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10027
+ 
 
 
 
@@ -490,6 +496,14 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 
 3. Vyriausybės nutarimais valstybinės miško žemės sklypai gali būti perduodami patikėjimo teise Miškų įstatymo nustatytiems subjektams valstybinėms funkcijoms atlikti. Valstybinės žemės sklypai Vyriausybės nutarimais gali būti perduodami patikėjimo teise ir kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nurodytiems subjektams, kai įstatymais jiems priskiriamos valstybinės funkcijos. Nacionalinė žemės tarnyba privalo prižiūrėti, kad Vyriausybės nutarimas perduoti žemės sklypą patikėjimo teise būtų tinkamai vykdomas. Jeigu šie subjektai nebeatlieka funkcijų, kurioms įgyvendinti jiems patikėjimo teise buvo perduoti valstybinės miško žemės sklypai ar kiti žemės sklypai, Vyriausybė priima nutarimą dėl šių subjektų patikėjimo teisės pasibaigimo ir nuo šio Vyriausybės nutarimo įsigaliojimo šių valstybinės miško žemės sklypų ar kitų žemės sklypų patikėtiniu laikoma Nacionalinė žemės tarnyba.
+
+
+
+
+31. Nacionalinė žemės tarnyba privalo prižiūrėti, kad Vyriausybės nutarimas perduoti valstybinės žemės sklypą patikėjimo teise šio straipsnio 2 ir 3 dalyse nurodytiems subjektams būtų tinkamai vykdomas. Jeigu šie subjektai nebeatlieka funkcijų, kurioms įgyvendinti jiems patikėjimo teise buvo perduoti valstybinės žemės sklypai, Vyriausybė priima nutarimą dėl šių subjektų patikėjimo teisės pasibaigimo ir nuo šio Vyriausybės nutarimo įsigaliojimo šių valstybinės žemės sklypų patikėtiniu laikoma Nacionalinė žemės tarnyba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-423, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10027
+ 
 
 
 
@@ -3782,3 +3796,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 1, 2 ir 41 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2362, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14732
 Lietuvos Respublikos žemės įstatymo Nr. I-446 23 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-423, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10027
+Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas
