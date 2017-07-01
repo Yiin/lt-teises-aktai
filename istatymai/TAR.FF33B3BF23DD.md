@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -5652,7 +5652,10 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 57 straipsnis. Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių kainodaros bendrieji reikalavimai
 
 
-1. Sveikatos apsaugos ministras tvirtina bazines ir didžiausias mažmenines kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainas. Vieną kartą per metus jos skelbiamos Kompensuojamųjų vaistinių preparatų kainyne ir Kompensuojamųjų medicinos pagalbos priemonių kainyne. Šie kainynai papildomi ir (ar) patikslinami ne rečiau kaip kartą per ketvirtį. Visi kainynai ir jų papildymai skelbiami Teisės aktų registre. Kainynai įsigalioja po vieno mėnesio nuo jų paskelbimo, jų papildymai ir (ar) patikslinimai – teisės aktų nustatyta tvarka.
+1. Sveikatos apsaugos ministras tvirtina Kompensuojamųjų vaistinių preparatų kainyną ir Kompensuojamųjų medicinos pagalbos priemonių kainyną (toliau – Kainynai), kuriuose nustatomos bazinės ir didžiausios mažmeninės kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainos. Kompensuojamųjų vaistinių preparatų kainynas turi būti patvirtintas ne vėliau kaip iki kiekvieno einamųjų metų ketvirčio paskutinio mėnesio 15 dienos, o jo įsigaliojimas numatytas artimiausio ketvirčio pirmą dieną. Kompensuojamųjų medicinos pagalbos priemonių kainynas turi būti patvirtintas ne vėliau kaip iki einamųjų metų birželio 15 dienos, o jo įsigaliojimas numatytas liepos 1 dieną. Kainynų pakeitimai tvirtinami pagal poreikį. Kainynai ir jų pakeitimai skelbiami Sveikatos apsaugos ministerijos interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-362, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08721
+ 
 
 
 
@@ -7513,3 +7516,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 24, 25, 29-2, 29-3 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2646, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24686
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 ir 35 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-362, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08721
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 57 straipsnio pakeitimo įstatymas
