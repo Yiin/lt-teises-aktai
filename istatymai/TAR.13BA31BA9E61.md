@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-11
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
  
@@ -1122,7 +1122,10 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 26 straipsnis. Lietuvos Respublikos dizaino registras
 
 
-1. Lietuvos Respublikos dizaino registras yra valstybės registras. Jį tvarko Valstybinis patentų biuras. 
+1. Lietuvos Respublikos dizaino registras yra valstybės registras. Registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
+ 
 
 
 
@@ -1135,88 +1138,10 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-27 straipsnis. Lietuvos Respublikos dizaino registro duomenys
-
-
-1. Lietuvos Respublikos dizaino registre registruojami ir kaupiami šie duomenys:
-
-
-1) paraiškos padavimo data ir numeris;
-
-
-
-
-2) dizaino gaminio pavadinimas ir klasės (poklasiai) pagal Lokarno klasifikaciją;
-
-
-
-
-3) dizaino vaizdas ir pavyzdžių skaičius;
-
-
-
-
-4) dizaino įregistravimo data ir numeris;
-
-
-
-
-5) pareiškėjo pavadinimas arba vardas, pavardė ir adresas (buveinė);
-
-
-
-
-6) dizainerio vardas, pavardė ir adresas (buveinė);
-
-
-
-
-7) dizaino savininko pavadinimas arba vardas, pavardė ir adresas (buveinė);
-
-
-
-
-8) registracijos galiojimo termino pabaigos data;
-
-
-
-
-9) prioriteto data, pirmosios paraiškos numeris, valstybės kodas, jeigu pagal šio Įstatymo 11 straipsnio 1 dalį suteiktas prioritetas;
-
-
-
-
-10) parodos pavadinimas ir dizaino eksponavimo data, jeigu pagal šio Įstatymo 11 straipsnio 2 dalį suteiktas prioritetas; 
-
-
-
-
-11) atstovo (jeigu jis yra) vardas, pavardė, adresas (buveinė);
-
-
-
-
-12) kiti duomenys, susiję su dizaino registracija, naudojimu ir apsauga;
-
-
-
-
-13) duomenų keitimo pagrindai ir data.
-
-
-
-
-
-
-2. Lietuvos Respublikos dizaino registro nuostatų nustatyta tvarka naudotis Lietuvos Respublikos dizaino registro duomenimis turi teisę visi fiziniai ir juridiniai asmenys. 
-
-
-
-
-3. Kiekvieno asmens, sumokėjusio nustatytą mokestį, prašymu Valstybinis patentų biuras išduoda išrašą iš Lietuvos Respublikos dizaino registro.
+27 straipsnis. Neteko galios nuo 2017-07-01
+Straipsnio naikinimas:
+Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
  
-
-
 
 
 
@@ -2549,3 +2474,8 @@ Lietuvos Respublikos dizaino įstatymo 2, 3, 10, 16, 21, 31, 35, 44 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
 Lietuvos Respublikos dizaino įstatymo 16, 17, 18, 20, 21, 24, 29, 31, 32, 33-4, 35, 40, 41 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
+Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 26 straipsnio pakeitimo ir 27 straipsnio pripažinimo netekusiu galios įstatymas
