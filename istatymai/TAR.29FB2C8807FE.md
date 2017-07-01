@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-10-25
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -1361,14 +1361,18 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 17 straipsnis. Įmonės auditas 
 
 
-1. Valstybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti įmonės savininko teises ir pareigas įgyvendinančios institucijos parinktas auditorius ar audito įmonė. Auditorius ar audito įmonė parenkama Viešųjų pirkimų įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir įmonės savininko teises ir pareigas įgyvendinančios institucijos. Audito paslaugas apmoka įmonė.
+1. Valstybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti įmonės savininko teises ir pareigas įgyvendinančios institucijos parinktas auditorius ar audito įmonė. Auditorius ar audito įmonė parenkami Lietuvos Respublikos viešųjų pirkimų įstatymo arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir įmonės savininko teises ir pareigas įgyvendinančios institucijos. Audito paslaugas apmoka įmonė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
+ 
 
 
 
 
-2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba). Savivaldybės taryba gali priimti sprendimą atlikti tam tikros veiklos nepriklausomą auditą. Auditorius ar audito įmonė metinių finansinių ataskaitų rinkinio auditui atlikti parenkama Viešųjų pirkimų įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
+2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba). Savivaldybės taryba gali priimti sprendimą atlikti tam tikros veiklos nepriklausomą auditą. Auditorius ar audito įmonė metinių finansinių ataskaitų rinkinio auditui atlikti parenkami Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
 Straipsnio dalies pakeitimai:
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
  
 
 
@@ -2070,3 +2074,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2613, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24187
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 13 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 17 straipsnio pakeitimo įstatymas
