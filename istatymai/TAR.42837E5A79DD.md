@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -3847,9 +3847,10 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-4. Užsieniečio darbo santykius reglamentuoja Lietuvos Respublikos darbo kodeksas, Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatymas, šis Įstatymas ir Europos Sąjungos teisės aktai.
+4. Užsieniečio darbo santykius reglamentuoja Lietuvos Respublikos darbo kodeksas, šis Įstatymas ir Europos Sąjungos teisės aktai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
  
 
 
@@ -3867,7 +3868,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 1. Užsieniečiui, kuris ketina dirbti Lietuvos Respublikoje sezoninį darbą, leidimas dirbti gali būti išduodamas, jeigu: 
 
 
-1) Lietuvos Respublikoje nėra tinkamo darbuotojo dirbti sezoninį darbą. Sąvoka „tinkamas darbuotojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos užimtumo rėmimo įstatyme; 
+1) Lietuvos Respublikoje nėra tinkamo darbuotojo dirbti sezoninį darbą. Sąvoka „tinkamas darbuotojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos užimtumo įstatyme; 
 
 
 
@@ -3882,7 +3883,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 
 
-4) užsienietis Lietuvos Respublikoje nuosavybės teise turi tinkamą gyvenamąją patalpą, kurios gyvenamasis plotas, tenkantis kiekvienam pilnamečiam asmeniui, deklaravusiam joje gyvenamąją vietą, būtų ne mažesnis kaip 7 kvadratiniai metrai, ar tokia patalpa naudojasi nuomos ar panaudos pagrindais (jei atitinkama sutartis sudaryta ne trumpesniam kaip leidimo dirbti galiojimo laikotarpiui ir yra įregistruota Lietuvos Respublikos nekilnojamojo turto registre) arba pateikia patvirtintą fizinio ar juridinio asmens įsipareigojimą leidimo dirbti galiojimo laikotarpiu suteikti jam tinkamą gyvenamąją patalpą, atitinkančią šiame punkte nurodytą vienam asmeniui tenkančio gyvenamojo ploto reikalavimą. Kai užsieniečiui tinkamą gyvenamąją patalpą parūpina darbdavys arba jis tarpininkauja surandant tinkamą gyvenamąją patalpą užsieniečiui, turi būti nurodomos nuomos sąlygos leidimo dirbti galiojimo laikotarpiu, o nuomos mokestis leidimo dirbti galiojimo laikotarpiu turi būti ne didesnis negu 30 procentų užsieniečio darbo užmokesčio, atskaičius mokesčius ir  valstybinio socialinio draudimo įmokas, ir negali būti automatiškai atskaitomas iš užsieniečio darbo užmokesčio;
+4) užsienietis Lietuvos Respublikoje nuosavybės teise turi tinkamą gyvenamąją patalpą, kurios gyvenamasis plotas, tenkantis kiekvienam pilnamečiam asmeniui, deklaravusiam joje gyvenamąją vietą, būtų ne mažesnis kaip 7 kvadratiniai metrai, ar tokia patalpa naudojasi nuomos ar panaudos pagrindais (jei atitinkama sutartis sudaryta ne trumpesniam kaip leidimo dirbti galiojimo laikotarpiui ir yra įregistruota Lietuvos Respublikos nekilnojamojo turto registre) arba pateikia patvirtintą fizinio ar juridinio asmens įsipareigojimą leidimo dirbti galiojimo laikotarpiu suteikti jam tinkamą gyvenamąją patalpą, atitinkančią šiame punkte nurodytą vienam asmeniui tenkančio gyvenamojo ploto reikalavimą. Kai užsieniečiui tinkamą gyvenamąją patalpą parūpina darbdavys arba jis tarpininkauja surandant tinkamą gyvenamąją patalpą užsieniečiui, turi būti nurodomos nuomos sąlygos leidimo dirbti galiojimo laikotarpiu, o nuomos mokestis leidimo dirbti galiojimo laikotarpiu turi būti ne didesnis negu 30 procentų užsieniečio darbo užmokesčio, atskaičius mokesčius ir  valstybinio socialinio draudimo įmokas, ir negali būti automatiškai atskaitomas iš užsieniečio darbo užmokesčio; 
 
 
 
@@ -3912,7 +3913,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 5. Leidimų dirbti sezoninį darbą užsieniečiams išdavimo tvarką ir sezoninių darbų sąrašą nustato socialinės apsaugos ir darbo ministras. 
 
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
  
 
