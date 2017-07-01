@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-16
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -346,64 +346,96 @@ Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
 
 
 
-46. Nebuitinis gamtinių dujų vartotojas (toliau – nebuitinis vartotojas) – vartotojas, perkantis gamtines dujas naudoti ne savo namų ūkio reikmėms.
+46. Magistralinio dujotiekio vietovės klasė (toliau – vietovės klasė) – saugos kriterijus, kuriuo apibūdinamas magistralinio dujotiekio vamzdynas ir išilgai šio vamzdyno besitęsianti teritorija, esanti po 200 metrų į abi puses nuo jo ašies, ir pagal kurį nustatomi šioje teritorijoje taikomi užstatymo normatyvai (didžiausias leistinas pastatų ir jų aukštų skaičius, mažiausi leistini atstumai nuo magistralinio dujotiekio iki statinių ir kitų objektų, žemės ir vandens paviršiaus). 
+Papildyta straipsnio dalimi:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+ 
 
 
 
 
-47. Nedujofikuota teritorija – šalies teritorija, kurioje nėra įrengtų sistemų ir nė vienai gamtinių dujų įmonei nustatyta tvarka nėra išduota licencija verstis gamtinių dujų perdavimo ar skirstymo veikla.
+47. Magistralinio dujotiekio vietovės klasės vienetas (toliau – vietovės klasės vienetas) – bet kuri išilgai magistralinio dujotiekio vamzdyno besitęsiančios teritorijos atkarpa, esanti po 200 metrų į abi puses nuo magistralinio dujotiekio vamzdyno ašies ir besitęsianti 1 600 metrų išilgai magistralinio dujotiekio vamzdyno. 
+Papildyta straipsnio dalimi:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+ 
 
 
 
 
-48. Papildomos paslaugos – paslaugos, būtinos naudojantis perdavimo sistema, skirstymo sistema, suskystintų gamtinių dujų saugyklomis ir (arba) įrenginiais (išskyrus įrenginius, skirtus vien tik perdavimo sistemos operatoriams, atliekantiems savo funkcijas) ir juos eksploatuojant, įskaitant apkrovos balansavimo, maišymo ir inertinių dujų įleidimo paslaugas.
+48. Nebuitinis gamtinių dujų vartotojas (toliau – nebuitinis vartotojas) – vartotojas, perkantis gamtines dujas naudoti ne savo namų ūkio reikmėms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+ 
 
 
 
 
-49. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje. 
+49. Nedujofikuota teritorija – šalies teritorija, kurioje nėra įrengtų sistemų ir nė vienai gamtinių dujų įmonei nustatyta tvarka nėra išduota licencija verstis gamtinių dujų perdavimo ar skirstymo veikla.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+ 
+
+
+
+
+50. Papildomos paslaugos – paslaugos, būtinos naudojantis perdavimo sistema, skirstymo sistema, suskystintų gamtinių dujų saugyklomis ir (arba) įrenginiais (išskyrus įrenginius, skirtus vien tik perdavimo sistemos operatoriams, atliekantiems savo funkcijas) ir juos eksploatuojant, įskaitant apkrovos balansavimo, maišymo ir inertinių dujų įleidimo paslaugas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+ 
+
+
+
+
+51. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje. 
 Papildyta straipsnio dalimi:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-50. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
+52. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-51. Suskystintų gamtinių dujų sistema – terminalas gamtinėms dujoms skystinti, suskystintoms gamtinėms dujoms importuoti, priimti ir vėl joms dujinti, taip pat papildomoms paslaugoms teikti, įskaitant laikinąsias saugyklas, būtinas dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, tačiau išskyrus bet kurią suskystintų gamtinių dujų terminalų dalį, naudojamą gamtinėms dujoms laikyti. Suskystintų gamtinių dujų sistema (toliau – SGD sistema) dar vadinama suskystintų gamtinių dujų įrenginiais (toliau – SGD įrenginiai).
+53. Suskystintų gamtinių dujų sistema – terminalas gamtinėms dujoms skystinti, suskystintoms gamtinėms dujoms importuoti, priimti ir vėl joms dujinti, taip pat papildomoms paslaugoms teikti, įskaitant laikinąsias saugyklas, būtinas dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, tačiau išskyrus bet kurią suskystintų gamtinių dujų terminalų dalį, naudojamą gamtinėms dujoms laikyti. Suskystintų gamtinių dujų sistema (toliau – SGD sistema) dar vadinama suskystintų gamtinių dujų įrenginiais (toliau – SGD įrenginiai).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-52. Suskystintų gamtinių dujų sistemos operatorius – asmuo, kuris verčiasi gamtinių dujų skystinimu arba suskystintų gamtinių dujų importu, priėmimu ir kartotiniu jų dujinimu ir yra atsakingas už suskystintų gamtinių dujų įrenginių eksploatavimą.
+54. Suskystintų gamtinių dujų sistemos operatorius – asmuo, kuris verčiasi gamtinių dujų skystinimu arba suskystintų gamtinių dujų importu, priėmimu ir kartotiniu jų dujinimu ir yra atsakingas už suskystintų gamtinių dujų įrenginių eksploatavimą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-53. Tiesioginis gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) – gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
+55. Tiesioginis gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) – gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-54. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.
+56. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
@@ -417,33 +449,37 @@ Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
 
 
 
-55. Vartotojo gamtinių dujų sistema (toliau – vartotojo sistema) – vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir įrenginiai gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai panaudoti vartotojo reikmėms.
+57. Vartotojo gamtinių dujų sistema (toliau – vartotojo sistema) – vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir įrenginiai gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai panaudoti vartotojo reikmėms.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-56. Vertikaliai integruota gamtinių dujų įmonė (toliau – vertikaliai integruota įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš gamtinių dujų perdavimo, skirstymo, laikymo ar skystinimo sistemos funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
+58. Vertikaliai integruota gamtinių dujų įmonė (toliau – vertikaliai integruota įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš gamtinių dujų perdavimo, skirstymo, laikymo ar skystinimo sistemos funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-57. Vietinė gamtinių dujų bendrojo naudojimo sistema (toliau – vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem vartotojams.
+59. Vietinė gamtinių dujų bendrojo naudojimo sistema (toliau – vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem vartotojams.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
 
 
-58. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
+60. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
@@ -1140,7 +1176,17 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 
 
 
-3. Apsaugos zonų atstumai, apsaugos zonose galiojančios specialios žemės ir miško naudojimo sąlygos, apsaugos zonose ribojami darbai ir veiksmai, mažiausi leistini atstumai nuo vamzdynų ir kitų įrenginių iki statinių, žemės ir vandens paviršiaus nustatomi Vyriausybės ar jos įgaliotos institucijos patvirtintose gamtinių dujų vamzdynų ir kitų įrenginių apsaugos taisyklėse ir kituose teisės aktuose.
+3. Apsaugos zonų atstumai, apsaugos zonose galiojančios specialios žemės ir miško naudojimo sąlygos, apsaugos zonose ribojami darbai ir veiksmai, mažiausi leistini atstumai nuo vamzdynų ir kitų įrenginių iki statinių ir kitų objektų, žemės ir vandens paviršiaus nustatomi Vyriausybės ar jos įgaliotos institucijos patvirtintose gamtinių dujų vamzdynų ir kitų įrenginių apsaugos taisyklėse ir kituose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+ 
+
+
+
+
+4. Didžiausią leistiną pastatų ir jų aukštų skaičių vietovės klasės teritorijoje ir vietovės klasės vienete, atsižvelgiant į magistralinio dujotiekio vamzdyno pavojingumo ir rizikos laipsnį, nustato Vyriausybė ar jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
  
 
 
@@ -3321,7 +3367,10 @@ VARTOTOJŲ TEISIŲ APSAUGA
 
 
 
-9) be papildomo mokesčio gauti reguliarią ir tinkamą informaciją apie faktinį gamtinių dujų suvartojimą ir gamtinių dujų kainas, kuri sudaro vartotojui galimybę reguliuoti savo gamtinių dujų suvartojimą;
+9) be papildomo mokesčio ir ne rečiau kaip du kartus per kalendorinius metus, o vartotojų prašymu – kas ketvirtį, gauti sąskaitas ir tinkamą informaciją apie faktinį gamtinių dujų suvartojimą ir gamtinių dujų kainas, kuri sudaro vartotojui galimybę reguliuoti savo gamtinių dujų suvartojimą. Šis reikalavimas gali būti netaikomas vartotojams, kurie dujas naudoja tik maistui ruošti;
+Straipsnio punkto pakeitimai:
+Nr. XII-2706, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26488
+ 
 
 
 
