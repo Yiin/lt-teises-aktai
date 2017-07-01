@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-06-10
+Suvestinė redakcija nuo 2017-07-01
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -57,7 +57,7 @@ BENDROSIOS NUOSTATOS
 5. Šio įstatymo uždaviniai atskiruose energetikos sektoriuose 2020 metais:
 
 
-1) atsinaujinančių išteklių energijos dalį, palyginti su transporto sektoriaus galutiniu energijos suvartojimu, visų rūšių transporte padidinti ne mažiau kaip iki 10 procentų;
+1) atsinaujinančių išteklių energijos dalį, palyginti su transporto sektoriaus galutiniu energijos suvartojimu, visų rūšių transporte padidinti ne mažiau kaip iki 10 procentų. Didžiausia bendra biodegalų ir skystųjų bioproduktų, pagamintų iš javų ir kitų krakmolingų augalų, cukrų ir aliejinių augalų bei augalų, auginamų žemės ūkio paskirties žemėje kaip pagrindinis pasėlis energijos gamybos tikslais, dalis turi būti ne didesnė kaip 7 procentai transporto sektoriaus galutinio energijos suvartojimo, o siektina biodegalų, pagamintų iš žaliavų, ir kitų degalų, numatytų šio įstatymo 6 straipsnio 14 punkte nurodytame Lietuvos Respublikos energetikos ministro patvirtintame sąraše, dalis sudarytų ne mažiau kaip 0,5 procento transporto sektoriaus galutinio energijos suvartojimo; 
 
 
 
@@ -779,9 +779,18 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 
 
-14) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+14) tvirtina atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodiką, kurioje, vadovaujantis Direktyva (ES) 2015/1513, nurodomas žaliavų ir kitų degalų, kurių dalis, siekiant šio įstatymo 1 straipsnio 5 dalies 1 punkte nurodyto 0,5 procento rodiklio, turi būti laikoma du kartus didesne už jų energetinę vertę, sąrašas. Atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodika ir žaliavų ir kitų degalų, kurių dalis siekiant šio įstatymo 1 straipsnio 5 dalies 1 punkte nurodyto 0,5 procento rodiklio, turi būti laikoma du kartus didesne už jų energetinę vertę, sąrašas turi būti suderinti su Aplinkos ministerija ir Žemės ūkio ministerija; 
+Papildyta straipsnio punktu:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
+
+
+
+
+15) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
  
 
 
@@ -3716,6 +3725,22 @@ priedas
 
 
 3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+
+
+
+
+4. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo“ (OL 2014 L 307, p. 1). 
+Papildyta punktu:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
+
+
+
+
+5. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1513, kuria iš dalies keičiamos Direktyva 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės ir Direktyva 2009/25/EB dėl skatinimo naudoti atsinaujinančių išteklių energiją (OL 2015 L 239, p. 1). 
+Papildyta punktu:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
 
 
 
