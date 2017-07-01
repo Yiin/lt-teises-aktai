@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 164-7802, i. k. 1111010ISTA0XI-1909
  
@@ -80,7 +80,10 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 4 straipsnis. Zonos teritorija
 
 
-1. Zonos teritorija užima 218 ha.
+1. Zonos teritorija užima 132,517 ha. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
+ 
 
 
 
@@ -324,7 +327,10 @@ Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė (toliau – Vyr
 
 
 
-4) užtikrina, organizuodamas zonos priežiūrą, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų;
+4) užtikrina, organizuodamas zonos priežiūrą, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, neužsiimtų įstatymų draudžiama veikla, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų aplinkos apsaugos teisės aktų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
+ 
 
 
 
@@ -466,3 +472,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-945, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07826
 Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 ir 8 straipsnių pakeitimo įstatymas
