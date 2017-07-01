@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF66A99A0A20"
 
 # Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 59-1655, i. k. 0981010ISTAVIII-791
  
@@ -424,7 +424,10 @@ Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010IS
 
 
 
-2. Valstybinis patentų biuras tvarko Lietuvos Respublikos topografijų registrą. Valstybinis patentų biuras yra vadovaujančioji Lietuvos Respublikos topografijų registro tvarkymo įstaiga ir tvarkymo įstaiga.
+2. Lietuvos Respublikos topografijų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-266, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06266
+ 
 
 
 
@@ -439,7 +442,10 @@ Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010IS
 
 
 
-5. Kiekvieno asmens prašymu Valstybinis patentų biuras išduoda išrašą iš Lietuvos Respublikos topografijų registro. Patvirtintas registro išrašas yra oficialus dokumentas. 
+5. Neteko galios nuo 2017-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-266, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06266
+ 
 
 
 Straipsnio pakeitimai:
@@ -958,3 +964,8 @@ Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
 Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 10, 12, 13, 14, 17 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-266, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06266
+Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo Nr. VIII-791 13 straipsnio pakeitimo įstatymas
