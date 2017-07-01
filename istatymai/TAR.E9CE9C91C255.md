@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-07-04
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -193,7 +193,10 @@ Nuo karo prievolės atleidžiami:
 
 
 
-5) pagrindinio karinio parengtumo neįgiję asmenys, kai jiems sukanka 55 metai, o baigę aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas, – kai jiems sukanka 60 metų;
+5) pagrindinio karinio parengtumo neįgiję asmenys, kai jiems sukanka 60 metų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
+ 
 
 
 
@@ -925,14 +928,17 @@ TARNYBA REZERVE
 2. Karo prievolininkai atrenkami ir skiriami:
 
 
-1) tarnybą rezerve atlikti kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose nuo 18 iki 55 metų;
+1) tarnybą rezerve atlikti kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose nuo 18 iki 60 metų;
 
 
 
 
-2) tarnybą rezerve atlikti parengtojo rezervo kariniuose vienetuose nuo 19 metų (o pareiškę norą raštu – nuo 18 metų) iki 55 metų, atsargos karininkai, generolai (admirolai), atsargos kariai, turintys gydytojo ar gydytojo padėjėjo specialybę, – iki 60 metų.
+2) tarnybą rezerve atlikti parengtojo rezervo kariniuose vienetuose nuo 19 metų (o pareiškę norą raštu – nuo 18 metų) iki 60 metų, atsargos karo kapelionai – iki 65 metų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
+ 
 
 
 
@@ -1978,3 +1984,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 6, 17, 32, 37 ir 41-1 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 33 ir 34 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3 ir 21 straipsnių pakeitimo įstatymas
