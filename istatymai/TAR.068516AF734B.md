@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-04-27 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -190,7 +190,7 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 
 
-3) vaiko priežiūros – apdraustajam asmeniui vaiko priežiūros atostogų metu, kol vaikui sueis vieni arba 2 metai, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, arba vaiko priežiūros atostogų, suteiktų pagal Lietuvos Respublikos darbo kodekso 180 straipsnio 2 dalį, metu, jeigu įmotė (įtėvis) anksčiau negavo vaiko priežiūros išmokos tam pačiam vaikui prižiūrėti. 
+3) vaiko priežiūros – apdraustajam asmeniui vaiko priežiūros atostogų metu, kol vaikui sueis vieni arba 2 metai, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, arba vaiko priežiūros atostogų, suteiktų pagal Lietuvos Respublikos darbo kodekso 134 straipsnio 2 dalį, metu, jeigu įmotė (įtėvis) anksčiau negavo vaiko priežiūros išmokos tam pačiam vaikui prižiūrėti.
 
 
 Straipsnio dalies pakeitimai:
@@ -546,7 +546,7 @@ MOTINYSTĖS, TĖVYSTĖS IR VAIKO PRIEŽIŪROS IŠMOKOS
 
 
 
-3. Pagrindas skirti motinystės išmoką nėštumo ir gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas, išduotas pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles. 
+3. Pagrindas skirti motinystės išmoką nėštumo ir gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas, išduotas pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles, arba darbdavio suteiktos 14 kalendorinių dienų nėštumo ir gimdymo atostogos pagal Darbo kodekso 132 straipsnio 1 dalį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
  
@@ -586,6 +586,14 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 
 5. Apdraustajam asmeniui, paskirtam naujagimio globėju, motinystės išmoka mokama nuo globos nustatymo dienos tol, kol kūdikiui sueis 70 dienų.
+
+
+
+
+6. Moterims, kurioms darbdavys suteikė 14 kalendorinių dienų nėštumo ir gimdymo atostogas iš karto po gimdymo pagal Darbo kodekso 132 straipsnio 1 dalį, motinystės išmoka mokama už 14 kalendorinių dienų.
+Papildyta straipsnio dalimi:
+Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
+ 
 
 
 
@@ -647,7 +655,7 @@ Teisę gauti tėvystės išmoką turi tėvas (įtėvis), kuris:
 20 straipsnis. Tėvystės išmokos mokėjimo trukmė
 
 
-Tėvystės išmoka mokama tėvystės atostogų, suteiktų pagal Darbo kodekso 1791 straipsnio 1 dalį, laikotarpiu. 
+Tėvystės išmoka mokama tėvystės atostogų, suteiktų pagal Darbo kodekso 133 straipsnio 1 dalį, laikotarpiu.
 
 
 Straipsnio pakeitimai:
@@ -737,7 +745,7 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 23 straipsnis. Vaiko priežiūros išmokos mokėjimo trukmė
 
 
-1. Vaiko priežiūros išmoka mokama vaiko priežiūros atostogų laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, nuo nėštumo ir gimdymo atostogų pabaigos tol, kol vaikui sueis vieni arba 2 metai, arba vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 180 straipsnio 2 dalį, laikotarpiu. 
+1. Vaiko priežiūros išmoka mokama vaiko priežiūros atostogų laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, nuo nėštumo ir gimdymo atostogų pabaigos tol, kol vaikui sueis vieni arba 2 metai, arba vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, laikotarpiu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
  
@@ -771,7 +779,7 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 24 straipsnis. Vaiko priežiūros išmokos dydis
 
 
-1. Vaiko priežiūros išmokos dydis iki vaikui sueis vieni metai yra 100 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką, kol vaikui sueis vieni metai. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 2 metai, šios išmokos dydis iki vaikui sueis vieni metai yra 70 procentų, o iki vaikui sueis 2 metai – 40 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio. Vaiko priežiūros išmokos dydis vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 180 straipsnio 2 dalį, laikotarpiu yra 70 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+1. Vaiko priežiūros išmokos dydis iki vaikui sueis vieni metai yra 100 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką, kol vaikui sueis vieni metai. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 2 metai, šios išmokos dydis iki vaikui sueis vieni metai yra 70 procentų, o iki vaikui sueis 2 metai – 40 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio. Vaiko priežiūros išmokos dydis vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, laikotarpiu yra 70 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio.
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
  
