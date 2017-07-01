@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -163,7 +163,10 @@ Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 
 
 
-13. Viešasis subjektas – Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyta perkančioji organizacija.
+13. Viešasis subjektas – perkančioji organizacija, kaip tai apibrėžta Lietuvos Respublikos viešųjų pirkimų įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-259, 2017-03-30, paskelbta TAR 2017-04-19, i. k. 2017-06597
+ 
 
 
 
@@ -716,3 +719,8 @@ Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1172, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13577
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2, 8, 9, 10, 12, 14, 15 straipsnių ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-259, 2017-03-30, paskelbta TAR 2017-04-19, i. k. 2017-06597
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 2 straipsnio pakeitimo įstatymas
