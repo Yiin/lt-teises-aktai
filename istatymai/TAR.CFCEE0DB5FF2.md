@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-06-30
+Suvestinė redakcija nuo 2017-07-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
  
@@ -250,7 +250,10 @@ Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010IST
 
 
 
-5) užtikrina, kad zonoje registruoti ūkio subjektai laikytųsi zonos statuto, nesiverstų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų teisės aktų aplinkos apsaugos srityje reikalavimų;
+5) užtikrina, kad ūkio subjektai, turintys leidimą vykdyti veiklą zonoje, laikytųsi zonos statuto, nesiverstų veikla, draudžiama Lietuvos Respublikos įstatymų, veiktų pagal sutartyje nustatytas sąlygas, laikytųsi Aplinkos apsaugos įstatymo ir kitų teisės aktų aplinkos apsaugos srityje reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-519, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11228
+ 
 
 
 
@@ -393,3 +396,8 @@ Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-947, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07824
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo Nr. I-1516 3 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-519, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11228
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo Nr. I-1516 7 straipsnio pakeitimo įstatymas
