@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS KARO PRIEVOLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2017-07-05
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 86-4150, i. k. 1111010ISTA0XI-1508
+ 
 LIETUVOS RESPUBLIKOS 
 KARO PRIEVOLĖS ĮSTATYMO PAKEITIMO 
 ĮSTATYMAS
@@ -221,6 +225,9 @@ Nuo karo prievolės atleidžiami:
 
 
 7) valstybės pripažintų tradicinių Lietuvos religinių bendruomenių ir bendrijų dvasininkai.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo (2011 m. birželio 23 d. redakcija; Žin., 2011, Nr. 86-4150) 3 straipsnio 7 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 139 straipsnio 2 daliai.
+Straipsnio punkto pakeitimai:
+Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
  
 
 
@@ -1834,3 +1841,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
+Dėl Lietuvos Respublikos karo prievolės įstatymo nuostatos atitikties Lietuvos Respublikos Konstitucijai
