@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2017-07-11
+Suvestinė redakcija nuo 2017-07-12 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -2306,7 +2306,10 @@ Nr. IX-1615, 2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
 
 
 
-7. Programos lėšas administruoja Lietuvos aplinkos apsaugos investicijų fondas.
+7. Programos lėšas administruoja Aplinkos ministerijos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIII-584, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11952
+ 
 
 
 Straipsnio pakeitimai:
@@ -4621,3 +4624,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 33 ir 34 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4 ir 34-15 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-584, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11952
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 34 straipsnio pakeitimo įstatymas
