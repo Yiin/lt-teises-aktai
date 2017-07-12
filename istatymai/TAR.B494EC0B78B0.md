@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-11
+Suvestinė redakcija nuo 2017-07-12 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
  
@@ -2530,6 +2530,14 @@ Vyriausybė iki 2001 m. sausio 1 d. suderina teisės aktus, susijusius su šio �
 3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus padavus per Valstybinį patentų biurą paraišką Bendrijos prekių ženklui registruoti mokami Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo ir Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka.
 
 
+
+
+4. Lietuvos apeliacinis teismas pagal Reglamento dėl Bendrijos prekių ženklo 86 straipsnio 2 dalį suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo dėl atlyginamų išlaidų dydžio originalą ar patvirtintą kopiją kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą.
+Papildyta straipsnio dalimi:
+Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
+ 
+
+
 Papildyta straipsniu:
 Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
  
@@ -2644,3 +2652,8 @@ Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 9, 11, 12, 13, 15, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-264, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06264
 Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 21 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 2, 11 ir 55-1 straipsnių pakeitimo įstatymas
