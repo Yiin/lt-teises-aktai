@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-11
+Suvestinė redakcija nuo 2017-07-12 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
  
@@ -2363,6 +2363,14 @@ Vyriausybė iki 2003 m. sausio 1 d. suderina teisės aktus, susijusius su šio �
 3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus, kai per Valstybinį patentų biurą paduota paraiška Bendrijos dizainui registruoti, mokami Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo ir Reglamento dėl Bendrijos dizainų nustatyta tvarka. 
 
 
+
+
+4. Lietuvos apeliacinis teismas pagal Reglamento dėl Bendrijos dizaino 71 straipsnio 2 dalį suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo dėl atlyginamų išlaidų dydžio originalą ar patvirtintą kopiją kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą.
+Papildyta straipsnio dalimi:
+Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
+ 
+
+
 Papildyta straipsniu:
 Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
  
@@ -2479,3 +2487,8 @@ Lietuvos Respublikos dizaino įstatymo 16, 17, 18, 20, 21, 24, 29, 31, 32, 33-4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
 Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 26 straipsnio pakeitimo ir 27 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
+Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 2, 16, 51-1 straipsnių ir priedo pakeitimo įstatymas
