@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -236,25 +236,36 @@ Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
 
 
 
-21. Valdymo (vidaus) apskaita – informacijos, reikalingos ūkio subjektui valdyti, rinkimas, sisteminimas, įvertinimas ir pateikimas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
+21. Vadovaujamos pareigos – juridinio asmens valdymo ir priežiūros organų narių pareigos ir darbuotojų, turinčių viršesnius įgaliojimus duoti pavaldiems asmenims nurodymus, priimti reikšmingus sprendimus, susijusius su juridinio asmens valdymu ir veikla, pareigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
  
 
 
 
 
-22. Vyriausiasis buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto buhalterinę apskaitą, arba struktūrinio buhalterinės apskaitos padalinio vadovas.
+22. Valdymo (vidaus) apskaita – informacijos, reikalingos ūkio subjektui valdyti, rinkimas, sisteminimas, įvertinimas ir pateikimas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
  
 
 
 
 
-23. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme (toliau – Įmonių finansinės atskaitomybės įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme (toliau – Viešojo sektoriaus atskaitomybės įstatymas) ir kituose teisės aktuose.
+23. Vyriausiasis buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto buhalterinę apskaitą, arba struktūrinio buhalterinės apskaitos padalinio vadovas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+ 
+
+
+
+
+24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme (toliau – Įmonių finansinės atskaitomybės įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme (toliau – Viešojo sektoriaus atskaitomybės įstatymas) ir kituose teisės aktuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
  
 
 
@@ -652,24 +663,43 @@ Nr. XII-1727, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08379
 
 
 
-102 straipsnis. Apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens civilinės atsakomybės draudimas
+102 straipsnis. Reikalavimai apskaitos paslaugas teikiančiai įmonei arba apskaitos paslaugas savarankiškai teikiančiam asmeniui 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+ 
 
 
-1. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo apdrausti savo civilinę atsakomybę bendrosios civilinės atsakomybės draudimu. Bendrosios civilinės atsakomybės draudimo sutartis sudaroma Lietuvos Respublikos teisės aktų nustatyta tvarka. 
-
-
-
-
-2. Metinė bendrosios civilinės atsakomybės draudimo suma turi būti ne mažesnė kaip 2 900 eurų.
-TAR pastaba. 2 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. naujai sudaromoms bendrosios civilinės atsakomybės draudimo sutartims.
-Straipsnio dalies pakeitimai:
-Nr. XII-1126, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13623
+1. Apskaitos paslaugas teikiančios įmonės vadovaujamas pareigas einančiais asmenimis, dalyviais arba apskaitos paslaugas savarankiškai teikiančiu asmeniu negali būti asmenys, kurie buvo pripažinti kaltais dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, kol teistumas neišnykęs arba nepanaikintas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
  
 
 
 
 
-3. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo būti apsidraudę bendrosios civilinės atsakomybės draudimu visą apskaitos paslaugų teikimo laikotarpį.
+2. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo apdrausti savo civilinę atsakomybę bendrosios civilinės atsakomybės draudimu. Bendrosios civilinės atsakomybės draudimo sutartis sudaroma Lietuvos Respublikos teisės aktų nustatyta tvarka. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+ 
+
+
+
+
+3. Metinė bendrosios civilinės atsakomybės draudimo suma turi būti ne mažesnė kaip 2 900 eurų.
+TAR pastaba. 2 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. naujai sudaromoms bendrosios civilinės atsakomybės draudimo sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XII-1126, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13623
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+ 
+
+
+
+
+4. Apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo privalo būti apsidraudę bendrosios civilinės atsakomybės draudimu visą apskaitos paslaugų teikimo laikotarpį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+ 
 
 
 Įstatymas papildytas straipsniu :
@@ -1452,3 +1482,8 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 1, 2, 3, 5, 12
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-467, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10829
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 1 ir 3 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 2 ir 10-2 straipsnių pakeitimo įstatymas
