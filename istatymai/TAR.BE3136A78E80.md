@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2018-11-20
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -501,7 +501,10 @@ Svarbiausieji Notarų rūmų uždaviniai yra:
 
 
 
-9) įgyvendinti kitus Notarų rūmų statute numatytus uždavinius.
+9) įgyvendinti kitus kituose įstatymuose ir Notarų rūmų statute numatytus uždavinius. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+ 
 
 
 
@@ -569,7 +572,10 @@ Notarų rūmai, vykdydami savo uždavinius:
 
 
 
-11) atlieka kitas Notarų rūmų statute numatytas funkcijas.
+11) atlieka kitas kituose įstatymuose ir Notarų rūmų statute numatytas funkcijas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+ 
 
 
 
@@ -1147,12 +1153,28 @@ Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
 22(1) straipsnis. Notaro įgaliojimų sustabdymas
 
 
-Notaro įgaliojimai sustabdomi Lietuvos Respublikos teisingumo ministro įsakymu, jeigu notaras eina renkamas pareigas, išskyrus notarų savivaldos institucijose.
+Notaro įgaliojimai sustabdomi Lietuvos Respublikos teisingumo ministro įsakymu, jeigu:
+
+
+1) notaras eina renkamas pareigas, išskyrus pareigas notarų savivaldos institucijose;
 
 
 
 
-Notaro įgaliojimai gali būti sustabdomi šio straipsnio pirmojoje dalyje nustatyta tvarka, notarui iškėlus drausmės bylą, taip pat jeigu notaras įtariamas ar kaltinamas padaręs nusikalstamą veiką.
+2) notarui paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+ 
+
+
+
+
+Notaro įgaliojimai gali būti sustabdomi, Lietuvos Respublikos teisingumo ministro įsakymu notarui iškėlus drausmės bylą, taip pat jeigu notaras įtariamas ar kaltinamas padaręs nusikalstamą veiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+ 
 
 
 
@@ -1228,7 +1250,15 @@ Notaro įgaliojimai pasibaigia:
 
 
 
-11) jei notaras sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų rūmams.
+11) jei notaras sistemingai daugiau kaip 4 mėnesius iš eilės nemoka mokesčių Notarų rūmams;
+
+
+
+
+12) įsiteisėjus sprendimui, kuriuo notarui paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas. 
+Papildyta straipsnio punktu:
+Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+ 
 
 
 
@@ -2514,3 +2544,8 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 31 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 1, 2, 3, 4, 6, 6-1, 7, 10-1, 10-2, 14, 19, 20, 22, 24, 26, 29, 34, 37, 39, 40, 42, 43, 49-1, 54, 57, 59 straipsnių pakeitimo, Įstatymo papildymo 20-2 straipsniu ir 7-1, 61 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 9, 10, 22-1 ir 23 straipsnių pakeitimo įstatymas
