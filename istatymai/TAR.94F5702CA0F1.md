@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2015-12-22 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -329,9 +329,17 @@ Nr. XI-2094, 2012-06-21, Žin., 2012, Nr. 76-3937 (2012-06-30), i. k. 1121010IST
 
 
 
-3) antstolis nesumoka Lietuvos antstolių rūmams profesinės civilinės atsakomybės privalomojo draudimo įmokos.
+3) antstoliui paskiriama Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė;
 
 
+
+
+4) antstolis nesumoka Lietuvos antstolių rūmams profesinės civilinės atsakomybės privalomojo draudimo įmokos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
+ 
 
 
 
@@ -430,7 +438,15 @@ Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010IST
 
 
 
-9) jei po jo paskyrimo antstoliu paaiškėja anksčiau buvę faktai, kuriuos žinojus paskyrimo metu būtų buvę atsisakyta skirti jį antstoliu. 
+9) jei po jo paskyrimo antstoliu paaiškėja anksčiau buvę faktai, kuriuos žinojus paskyrimo metu būtų buvę atsisakyta skirti jį antstoliu; 
+
+
+
+
+10) įsiteisėjus sprendimui, kuriuo antstoliui paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas. 
+Papildyta straipsnio punktu:
+Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
+ 
 
 
 
@@ -792,9 +808,17 @@ ANTSTOLIO VEIKLA
 
 
 
-6) bankroto administravimo paslaugas.
+6) bankroto administravimo paslaugas;
 Papildyta straipsnio punktu:
 Nr. XII-806, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04325
+ 
+
+
+
+
+7) mediatoriaus paslaugas, kai sprendžiami ginčai.
+Papildyta straipsnio punktu:
+Nr. XIII-536, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12055
  
 
 
@@ -1858,3 +1882,13 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 17 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2168, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20138
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 46 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-536, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12055
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 11 ir 12 straipsnių pakeitimo įstatymas
