@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -87,17 +87,19 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-3. Akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 40 tūkstančių eurų. Jos akcijos gali būti platinamos ir jomis prekiaujama viešai, vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. 
+3. Akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 25 tūkstančiai eurų. Jos akcijos gali būti platinamos ir jomis prekiaujama viešai, vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais.
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
  
 
 
 
 
-4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Joje turi būti mažiau kaip 250 akcininkų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams ir kreditoriams nėra laikomas vertybinių popierių viešu siūlymu.
+4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme nustatytų sąlygų, kai vertybinius popierius viešai siūlant ar įtraukiant į prekybą reguliuojamoje rinkoje nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu.
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
  
 
 
@@ -380,7 +382,10 @@ BENDROVĖS STEIGIMAS
 2. Bendrovės steigimo sutartyje turi būti nurodyta:
 
 
-1) steigėjai (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį, bei juridinio asmens atstovo vardas, pavardė, asmens kodas, gyvenamoji vieta);
+1) duomenys apie steigėjus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -453,6 +458,39 @@ BENDROVĖS STEIGIMAS
 15) steigimo sutarties sudarymo data.
 
 
+
+
+
+
+21. Šio straipsnio 2 dalies 1 punkte nurodyti duomenys yra: 
+
+
+1) fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė ir juridinio asmens atstovo vardas, pavardė, asmens kodas, gyvenamoji vieta arba adresas korespondencijai; 
+
+
+
+
+2) jeigu steigėjas yra užsienio valstybės fizinis asmuo, be šios dalies 1 punkte nurodytų duomenų apie fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas; jeigu steigėjas yra užsienio valstybės juridinis asmuo, be šios dalies 1 punkte nurodytų duomenų apie juridinį asmenį, papildomai nurodoma valstybės, kurioje tas juridinis asmuo įregistruotas, pavadinimas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data; 
+
+
+
+
+3) jeigu steigėja yra valstybė ar savivaldybė, nurodomas valstybės ar savivaldybės pavadinimas, kodas ir valstybės ar savivaldybės, kaip steigėjos ir akcininkės, teises ir pareigas įgyvendinančios institucijos pavadinimas, teisinė forma, kodas, buveinė; 
+
+
+
+
+4) jeigu steigėjai yra juridinio asmens statuso neturinčio fondo dalyviai, nurodomas fondo pavadinimas, priežiūros institucijos suteiktas kodas, jeigu jis buvo suteiktas, ir šios dalies 1 ir 2 punktuose nurodyti duomenys apie fondo valdymo įmonę;
+
+
+
+
+5) jeigu steigėjai yra asmenys, įsigyjantys akcijų bendrosios nuosavybės teise, be šioje dalyje nurodytų duomenų apie kiekvieną asmenį, papildomai nurodoma, kuris iš jų yra šių steigėjų įgaliotas asmuo.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -536,7 +574,10 @@ Nr. XI-611, 2009-12-22, Žin., 2010, Nr. 1-22 (2010-01-05)
 8. Nepiniginį įnašą, kuriuo numatoma iš dalies apmokėti akcijas, turi įvertinti nepriklausomas turto vertintojas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaitoje, be kitos informacijos, turi būti: 
 
 
-1) nurodytas asmuo, kurio turtas įvertintas (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė);
+1) duomenys apie asmenį, kurio turtas įvertintas, nurodyti šio Įstatymo 7 straipsnio 21 dalyje;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -706,7 +747,10 @@ Nr. XII-594, 2013-11-14, Žin., 2013, Nr. 120-6058 (2013-11-23)
 
 
 
-4) duomenys apie bendrovės akcininką ir visų akcijų įgijimo data (steigiant bendrovę visų akcijų įgijimo data laikoma bendrovės įregistravimo juridinių asmenų registre data), kai bendrovės akcininkas yra vienas asmuo;
+4) duomenys apie bendrovės akcininką, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje, visų akcijų įgijimo ir visų ar dalies akcijų perleidimo datos (steigiant bendrovę visų akcijų įgijimo data laikoma bendrovės įregistravimo juridinių asmenų registre data), kai bendrovės akcininkas yra vienas asmuo;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -733,17 +777,26 @@ Nr. XII-594, 2013-11-14, Žin., 2013, Nr. 120-6058 (2013-11-23)
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti duomenys apie fizinius asmenis yra fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, o duomenys apie juridinius asmenis – juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė.
+2. Šio straipsnio 1 dalies 1, 2, 3 ir 7 punktuose nurodyti duomenys apie fizinius asmenis yra fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta, o duomenys apie juridinius asmenis – juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė. Apie užsienio valstybės fizinius asmenis papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o apie užsienio valstybės juridinius asmenis papildomai nurodoma valstybės, kurioje tas juridinis asmuo įregistruotas, pavadinimas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-3. Jeigu akcininkas – fizinis asmuo bendrovei yra nurodęs adresą korespondencijai, vietoj gyvenamosios vietos juridinių asmenų registre kaip duomuo nurodomas adresas korespondencijai.
+3. Neteko galios nuo 2017-07-13.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-4. Kai keičiami juridinių asmenų registro duomenys ar bendrovės įstatai arba turi būti teikiami kiti įstatymų numatyti dokumentai, bendrovės vadovas per įstatymų nustatytus terminus turi pateikti juridinių asmenų registro tvarkytojui bendrovės organo sprendimą patvirtinantį dokumentą, jeigu toks sprendimas būtinas pagal įstatymus, bei kitus teisės aktų nustatytus dokumentus. 
+4. Kai keičiami juridinių asmenų registro duomenys ar bendrovės įstatai arba turi būti teikiami kiti įstatymų numatyti dokumentai, bendrovės vadovas per įstatymų nustatytus terminus turi pateikti juridinių asmenų registro tvarkytojui bendrovės organo sprendimą patvirtinantį dokumentą, jeigu toks sprendimas būtinas pagal įstatymus, ir kitus teisės aktų nustatytus dokumentus, išskyrus šio straipsnio 5 dalyje nustatytą atvejį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -840,7 +893,10 @@ AKCININKŲ TEISĖS IR PAREIGOS
 
 
 
-4. Asmuo, įsigijęs visas bendrovės akcijas, arba šios bendrovės visų akcijų savininkas, perleidęs dalį bendrovės akcijų kitam asmeniui, apie akcijų įsigijimą ar perleidimą ne vėliau kaip per 5 dienas nuo sandorio sudarymo turi pranešti bendrovei. Pranešime turi būti nurodytas įsigytų ar perleistų akcijų skaičius, akcijos nominali vertė ir duomenys apie akcijas perleidusį ir jas įsigijusį asmenį (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė). Papildomai pranešime gali būti nurodytas adresas korespondencijai.
+4. Asmuo, įgijęs visas akcinės bendrovės akcijas arba įgijęs dalį akcinės bendrovės akcijų iš šios akcinės bendrovės visų akcijų savininko, taip pat asmuo, įgijęs uždarosios akcinės bendrovės akcijų, apie akcijų įgijimą ne vėliau kaip per 5 darbo dienas nuo akcijų įgijimo dienos turi raštu pranešti atitinkamai akcinei bendrovei ar uždarajai akcinei bendrovei. Pranešime turi būti nurodytas įgytų akcijų skaičius, įskaitant akcijų skaičių pagal klases, kai įgyjama skirtingų klasių akcijų, jų nominali vertė ir duomenys apie akcijas perleidusį ir jas įgijusį asmenį, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje. Kartu su pranešimu pateikiamas ir akcijų įgijimą patvirtinantis dokumentas ar jo išrašas. Jeigu pateikiamas dokumento išrašas, jame turi būti nurodytos sandorio šalys, sandorio objektas ir akcijų įgijimo data.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -1038,7 +1094,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 18 straipsnis. Akcininko teisė gauti informaciją
 
 
-1. Akcininkui raštu pareikalavus, bendrovė ne vėliau kaip per 7 dienas nuo reikalavimo gavimo dienos privalo sudaryti akcininkui galimybę susipažinti ir (ar) pateikti kopijas šių dokumentų: bendrovės įstatų, metinių ir tarpinių finansinių ataskaitų rinkinių, bendrovės metinių ir tarpinių pranešimų, auditoriaus išvadų ir audito ataskaitų, visuotinių akcininkų susirinkimų protokolų ar kitų dokumentų, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, stebėtojų tarybos pasiūlymų ar atsiliepimų visuotiniams akcininkų susirinkimams, akcininkų sąrašų, stebėtojų tarybos ir valdybos narių sąrašų, kitų bendrovės dokumentų, kurie turi būti vieši pagal įstatymus, taip pat stebėtojų tarybos ir valdybos posėdžių protokolų ar kitų dokumentų, kuriais įforminti šių bendrovės organų sprendimai, jeigu šie dokumentai nėra susiję su bendrovės komercine (gamybine) paslaptimi, konfidencialia informacija. Akcininkas arba akcininkų grupė, turintys ar valdantys 1/2 ir daugiau akcijų ir pateikę bendrovei jos nustatytos formos rašytinį įsipareigojimą neatskleisti komercinės (gamybinės) paslapties, konfidencialios informacijos, turi teisę susipažinti su visais bendrovės dokumentais. Bendrovė gali atsisakyti sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas, jeigu negalima nustatyti dokumentų pareikalavusio akcininko tapatybės. Atsisakymą sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas bendrovė turi įforminti raštu, jeigu akcininkas to pareikalauja. Ginčus dėl akcininko teisės gauti informaciją sprendžia teismas.
+1. Akcininkui raštu pareikalavus, bendrovė ne vėliau kaip per 7 dienas nuo reikalavimo gavimo dienos privalo sudaryti akcininkui galimybę susipažinti ir (ar) pateikti kopijas šių dokumentų: bendrovės įstatų, metinių ir tarpinių finansinių ataskaitų rinkinių, bendrovės metinių ir tarpinių pranešimų, auditoriaus išvadų ir audito ataskaitų, visuotinių akcininkų susirinkimų protokolų ar kitų dokumentų, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, stebėtojų tarybos pasiūlymų ar atsiliepimų visuotiniams akcininkų susirinkimams, akcininkų apskaitos dokumentų, stebėtojų tarybos ir valdybos narių sąrašų, kitų bendrovės dokumentų, kurie turi būti vieši pagal įstatymus, taip pat stebėtojų tarybos ir valdybos posėdžių protokolų ar kitų dokumentų, kuriais įforminti šių bendrovės organų sprendimai, jeigu šie dokumentai nėra susiję su bendrovės komercine (gamybine) paslaptimi, konfidencialia informacija. Akcininkas arba akcininkų grupė, turintys ar valdantys 1/2 ir daugiau akcijų ir pateikę bendrovei jos nustatytos formos rašytinį įsipareigojimą neatskleisti komercinės (gamybinės) paslapties, konfidencialios informacijos, turi teisę susipažinti su visais bendrovės dokumentais. Bendrovė gali atsisakyti sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas, jeigu negalima nustatyti dokumentų pareikalavusio akcininko tapatybės. Atsisakymą sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas bendrovė turi įforminti raštu, jeigu akcininkas to pareikalauja. Ginčus dėl akcininko teisės gauti informaciją sprendžia teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -1048,7 +1107,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-3. Akcinės bendrovės akcininkams pateikiamame akcinės bendrovės akcininkų sąraše turi būti nurodyti akcinės bendrovės turimi kiekvieno akcininko, o jei akcija priklauso keliems savininkams, – kiekvieno savininko ir jų atstovo duomenys (fizinio asmens vardas, pavardė, gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, buveinė), akcininkui nuosavybės teise priklausančių akcijų skaičius. Uždarosios akcinės bendrovės akcininkams pateikiamas šio Įstatymo 411 straipsnyje nurodytas sąrašas.
+3. Bendrovės akcininkams pateikiamame bendrovės akcininkų apskaitos dokumente turi būti nurodyti bendrovės turimi kiekvieno akcininko duomenys, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje, akcininkui nuosavybės teise priklausančių akcijų skaičius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 Straipsnio pakeitimai:
@@ -2252,6 +2314,7 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 3) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl bendrovės veiklos strategijos, metinių finansinių ataskaitų rinkinio, pelno (nuostolių) paskirstymo projekto ir bendrovės metinio pranešimo, taip pat valdybos bei bendrovės vadovo veiklos;
+4-6 punktų redakcija iki 2017-12-31:
 
 
 
@@ -2266,9 +2329,28 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 
-6) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus.
+6) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus. 
+1 dalis papildoma nauju 5 punktu, buvę 5 ir 6 punktai laikomi atitinkamai 6 ir 7 punktais nuo 2018-01-01:
 
 
+
+
+5) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl Akcijų suteikimo taisyklių projekto;
+
+
+
+
+6) teikia siūlymus valdybai ir bendrovės vadovui atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams ar visuotinio akcininkų susirinkimo sprendimams;
+
+
+
+
+7) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -2497,7 +2579,7 @@ Pastaba: šio įstatymo 33 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 
-7) Neteko galios nuo 2014-06-17;
+7) neteko galios nuo 2014-06-17;
 
 
 
@@ -2545,6 +2627,15 @@ Pastaba: šio įstatymo 33 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 8. Valdyba analizuoja, vertina bendrovės metinių finansinių ataskaitų rinkinį, pelno (nuostolių) paskirstymo projektą ir kartu su atsiliepimais ir pasiūlymais dėl jų bei bendrovės metiniu pranešimu teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.
+
+
+
+
+91. Valdyba analizuoja, vertina Akcijų suteikimo taisyklių projektą, kurį kartu su atsiliepimais ir pasiūlymais dėl jo teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.
+Straipsnis papildomas 91 dalimi nuo 2018-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -2732,7 +2823,10 @@ Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
 
 
 
-10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo 34 straipsnio 4 dalies 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 34 straipsnio 1, 3, 4, 5, 6, 8, 9, 11, 12 ir 13 dalyse.
+10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo 34 straipsnio 4 dalies 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 34 straipsnio 1, 3, 4, 5, 6, 8, 9, 91, 11, 12 ir 13 dalyse.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -2760,45 +2854,76 @@ Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
 
 
 
-4) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
-
-
-
-
-5) informacijos ir dokumentų pateikimą visuotiniam akcininkų susirinkimui, stebėtojų tarybai ir valdybai šio Įstatymo nustatytais atvejais ar jų prašymu;
-
-
-
-
-6) bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkytojui;
-
-
-
-
-7) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+4) Akcijų suteikimo taisyklių projekto parengimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
  
 
 
 
 
-8) šiame Įstatyme nustatytos informacijos viešą paskelbimą įstatuose nurodytame šaltinyje;
+5) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-9) informacijos pateikimą akcininkams;
+6) informacijos ir dokumentų pateikimą visuotiniam akcininkų susirinkimui, stebėtojų tarybai ir valdybai šio Įstatymo nustatytais atvejais ar jų prašymu;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-10) uždarosios akcinės bendrovės akcininkų sąrašo sudarymą;
+7) bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkytojui;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-11) kitų šiame ir kituose įstatymuose bei teisės aktuose, taip pat bendrovės įstatuose ir bendrovės vadovo pareiginiuose nuostatuose nustatytų pareigų vykdymą.
+8) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+9) šiame Įstatyme nustatytos informacijos viešą paskelbimą įstatuose nurodytame šaltinyje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+10) informacijos pateikimą akcininkams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+11) neteko galios nuo 2017-07-13;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+12) kitų šiame ir kituose įstatymuose bei teisės aktuose, taip pat bendrovės įstatuose ir bendrovės vadovo pareiginiuose nuostatuose nustatytų pareigų vykdymą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3038,7 +3163,10 @@ Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 
 
 
-6) akcijos savininko vardas, pavardė ir asmens kodas (juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė).
+6) duomenys apie akcijos savininką, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje.
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3088,7 +3216,10 @@ Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 
 
 
-8) akcijų sertifikato savininko vardas, pavardė ir asmens kodas (juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė).
+8) duomenys apie akcijų sertifikato savininką, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje.
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3136,12 +3267,18 @@ Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 
 
 
-4. Sąskaitų tvarkytojas, kuris yra atidaręs akcininko asmeninę vertybinių popierių sąskaitą, akcininko prašymu turi išduoti išrašą iš šios sąskaitos. Išraše turi būti nurodytas akcijų skaičius bei kita teisės aktuose nustatyta informacija apie akcijas, kurios įrašytos į sąskaitą. Uždaroji akcinė bendrovė akcininko prašymu turi išduoti išrašą iš materialių akcijų savininkų registravimo dokumentų ir jame turi būti nurodytas akcijų skaičius bei kita teisės aktuose nustatyta informacija apie įrašytas akcijas. 
+4. Juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, yra atidaręs akcininko asmeninę vertybinių popierių sąskaitą, akcininko prašymu turi išduoti išrašą iš šios sąskaitos. Išraše turi būti nurodytas akcijų skaičius bei kita teisės aktuose nustatyta informacija apie akcijas, kurios įrašytos į sąskaitą. Uždaroji akcinė bendrovė akcininko prašymu turi išduoti išrašą iš materialių akcijų savininkų registravimo dokumentų ir jame turi būti nurodytas akcijų skaičius bei kita teisės aktuose nustatyta informacija apie įrašytas akcijas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-5. Akcinė bendrovė turi teisę vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka gauti iš sąskaitų tvarkytojų informaciją apie jų tvarkomose akcininkų asmeninėse vertybinių popierių sąskaitose įrašytas tos bendrovės akcijas, akcininkų sąrašus ir duomenis apie juos.
+5. Akcinė bendrovė turi teisę vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka gauti iš juridinių asmenų, kurie, vadovaujantis Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, informaciją apie jų tvarkomose akcininkų asmeninėse vertybinių popierių sąskaitose įrašytas tos bendrovės akcijas, akcininkų sąrašus ir duomenis apie juos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 Straipsnio pakeitimai:
@@ -3151,100 +3288,65 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-411 straipsnis. Uždarosios akcinės bendrovės akcininkų sąrašas ir duomenų apie akcininkus pateikimas Juridinių asmenų dalyvių informacinės sistemos tvarkytojui
+411 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
 
 
-1. Uždarojoje akcinėje bendrovėje turi būti sudaromas jos akcininkų sąrašas, išskyrus atvejus, kai uždarosios akcinės bendrovės akcininkas yra vienas asmuo.
+1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie uždarosios akcinės bendrovės akcininkus:
 
 
+1) duomenys apie akcininką, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje;
 
 
-2. Uždarosios akcinės bendrovės akcininkų sąraše nurodoma:
 
 
-1) uždarosios akcinės bendrovės pavadinimas, kodas, buveinė;
+2) akcininkui nuosavybės teise priklausančių akcijų skaičius, įskaitant akcijų skaičių pagal klases, jeigu yra skirtingų klasių akcijų, akcijos nominali vertė;
 
 
 
 
-2) kiekvieno akcininko duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė);
+3) akcijų įgijimas, nurodant įgijimo būdą (įsteigus uždarąją akcinę bendrovę, padidinus jos įstatinį kapitalą ar įgijus iš kito asmens) ir įgijimo datą, įskaitant akcijų skaičių pagal klases, jeigu yra skirtingų klasių akcijų;
 
 
 
 
-3) kai akcija priklauso keliems savininkams, – kiekvieno savininko duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė) ir kuris iš savininkų yra atstovas;
+4) akcijų perleidimas, nurodant perleidimo datą, įskaitant akcijų skaičių pagal klases, jeigu yra skirtingų klasių akcijų;
 
 
 
 
-4) akcininkui nuosavybės teise priklausančių akcijų skaičius pagal klases, akcijos nominali vertė;
+5) akcijų anuliavimas, nurodant anuliavimo datą, įskaitant akcijų skaičių pagal klases, jeigu yra skirtingų klasių akcijų;
 
 
 
 
-5) akcijų įgijimo data, nurodant akcijų skaičių pagal akcijų klases;
+6) akcijų klasės konvertavimas, nurodant konvertavimo datą;
 
 
 
 
-6) akcijų perleidimo data, nurodant akcijų skaičių pagal akcijų klases;
+7) akcijų skaičiaus ir akcijos nominalios vertės keitimas nekeičiant įstatinio kapitalo dydžio, nurodant akcijų skaičiaus ir akcijos nominalios vertės keitimo datą.
 
 
 
 
-7) uždarosios akcinės bendrovės akcininkų sąrašo sudarymo data.
 
 
+2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka. Uždarąją akcinę bendrovę įregistravus juridinių asmenų registre, duomenys apie uždarosios akcinės bendrovės akcininkus, parengti steigimo akto ar steigimo sutarties pagrindu, pateikiami Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ne vėliau kaip per 5 dienas nuo uždarosios akcinės bendrovės įregistravimo juridinių asmenų registre. Pasikeitus uždarosios akcinės bendrovės akcininkams ar jų duomenims, duomenys apie uždarosios akcinės bendrovės akcininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami ne vėliau kaip per 5 dienas nuo dokumentų, kurių pagrindu daromi įrašai uždarosios akcinės bendrovės akcininkų – nematerialių akcijų savininkų – asmeninių vertybinių popierių sąskaitose ar materialių akcijų savininkų registravimo žurnale, gavimo dienos.
 
 
 
 
-3. Jeigu šio straipsnio 2 dalies 2 ir 3 punktuose nurodyti fiziniai asmenys uždarajai akcinei bendrovei yra nurodę adresą korespondencijai, uždarosios akcinės bendrovės akcininkų sąraše nurodomas tik adresas korespondencijai. 
+3. Už šio straipsnio 1 dalyje nurodytų duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsakingas bendrovės vadovas.
 
 
 
 
-4. Jeigu šio straipsnio 2 dalies 2 ir 3 punktuose nurodyti juridiniai asmenys įsteigti ir pagal taikomą teisę įregistruoti užsienio valstybėse, papildomai nurodomas registras, kuriame juridinis asmuo įregistruotas, ir jo registravimo numeris tame registre. 
+4. Ginčus dėl šio straipsnio 1 dalyje nurodytų duomenų ir jų pateikimo Juridinių asmenų dalyvių informacinės sistemos tvarkytojui sprendžia teismas.
 
 
 
 
-5. Kai uždaroji akcinė bendrovė yra išleidusi tik paprastąsias vardines akcijas, reikalavimai uždarosios akcinės bendrovės akcininkų sąraše nurodyti akcijų klases, nustatyti šio straipsnio 2 dalies 4, 5 ir 6 punktuose, netaikomi. 
-
-
-
-
-6. Uždarosios akcinės bendrovės akcininkų sąrašą pasirašo jos vadovas.
-
-
-
-
-7. Uždarosios akcinės bendrovės akcininkų sąrašas sudaromas steigimo sutarties pagrindu ne vėliau kaip per 5 dienas nuo uždarosios akcinės bendrovės įregistravimo juridinių asmenų registre. Jeigu pasikeičia šio straipsnio 2 dalies 1–6 punktuose nurodyti duomenys, sudaromas naujas uždarosios akcinės bendrovės akcininkų sąrašas. Naujas sąrašas sudaromas nedelsiant po dokumentų, kurių pagrindu daromi įrašai uždarosios akcinės bendrovės akcininkų – nematerialių akcijų savininkų – asmeninių vertybinių popierių sąskaitose ar materialių akcijų savininkų registravimo žurnale, gavimo. Įrašai akcininkų sąraše turi atitikti įrašus uždarosios akcinės bendrovės akcininkų – nematerialių akcijų savininkų – asmeninių vertybinių popierių sąskaitose ar materialių akcijų savininkų registravimo žurnale.
-
-
-
-
-8. Šio straipsnio 2 dalies 2–6 punktuose nurodyti duomenys apie uždarosios akcinės bendrovės akcininkus, išskyrus atvejus, kai uždarosios akcinės bendrovės akcininkas yra vienas asmuo, pateikiami Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka. Uždarąją akcinę bendrovę įregistravus juridinių asmenų registre, duomenys apie uždarosios akcinės bendrovės akcininkus, parengti steigimo sutarties pagrindu, pateikiami Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ne vėliau kaip per 5 dienas nuo uždarosios akcinės bendrovės įregistravimo juridinių asmenų registre. Uždarosios akcinės bendrovės akcininkams ar jų duomenims pasikeitus, duomenys apie uždarosios akcinės bendrovės akcininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami ne vėliau kaip per 5 dienas nuo dokumentų, kurių pagrindu daromi įrašai uždarosios akcinės bendrovės akcininkų – nematerialių akcijų savininkų – asmeninių vertybinių popierių sąskaitose ar materialių akcijų savininkų registravimo žurnale, gavimo.
-
-
-
-
-9. Už uždarosios akcinės bendrovės akcininkų sąrašo sudarymą ir duomenų apie uždarosios akcinės bendrovės akcininkus pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsakingas vadovas. 
-
-
-
-
-10. Neteko galios nuo 2014-01-01.
-
-
-
-
-11. Ginčus dėl uždarosios akcinės bendrovės akcininkų sąrašo ir duomenų apie uždarosios akcinės bendrovės akcininkus pateikimo Juridinių asmenų dalyvių informacinės sistemos tvarkytojui sprendžia teismas.
-
-
-
-
-12. Juridinių asmenų dalyvių informacinėje sistemoje kaupiama informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji:
+5. Juridinių asmenų dalyvių informacinėje sistemoje kaupiama informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji:
 
 
 1) teikiama uždarosios akcinės bendrovės akcininkams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
@@ -3264,13 +3366,15 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-13. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
+6. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
 
 
 Įstatymas papildytas straipsniu:
 Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 Straipsnio pakeitimai:
 Nr. XII-594, 2013-11-14, Žin., 2013, Nr. 120-6058 (2013-11-23)
+Straipsnio pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
  
 
 
@@ -3434,7 +3538,10 @@ Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
 
 
 
-10) pasirašančiojo fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta, juridinio asmens − pavadinimas, teisinė forma, kodas, buveinė ir jo atstovo vardas, pavardė;
+10) pasirašančiojo duomenys, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3605,7 +3712,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 5. Jeigu apmokėjimas nepiniginiu įnašu atliekamas nesilaikant šio Įstatymo 45 straipsnio 5 dalyje nustatytų nepiniginio įnašo įvertinimo reikalavimų, ne vėliau kaip per 10 dienų nuo apmokėjimo nepiniginiu įnašu dienos turi būti parengta pažyma. Pažymoje nurodoma:
 
 
-1) akcijų, apmokėtų nepiniginiu įnašu, skaičius, nominali vertė, kiekvieno iš įvertinto turto elementų aprašymas ir asmuo, kuris apmoka akcijas nepiniginiu įnašu (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė);
+1) akcijų, apmokėtų nepiniginiu įnašu, skaičius, nominali vertė, kiekvieno iš įvertinto turto elementų aprašymas ir duomenys apie asmenį, kuris apmoka akcijas nepiniginiu įnašu, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3681,7 +3791,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 46 straipsnis. Akcijų perleidimas
 
 
-1. Materialios akcijos ar akcijų sertifikatai perleidžiami kitų asmenų nuosavybėn perdavimu, padarius atitinkamą įrašą akcijoje ar akcijų sertifikate, tai yra indosamentą. Indosamente įrašomi duomenys apie asmenį, kuriam akcija ar akcijų sertifikatas perleidžiami (fizinio asmens vardas, pavardė, asmens kodas; juridinio asmens pavadinimas, buveinė, teisinė forma, kodas), taip pat įrašo data. Indosamentą pasirašo akciją ar akcijų sertifikatą perleidžiantis ir įsigyjantis asmenys.
+1. Materialios akcijos ar akcijų sertifikatai perleidžiami kitų asmenų nuosavybėn perdavimu, padarius atitinkamą įrašą akcijoje ar akcijų sertifikate, tai yra indosamentą. Indosamente įrašomi duomenys apie asmenį, kuriam akcija ar akcijų sertifikatas perleidžiami, tapatūs duomenims, nurodytiems šio Įstatymo 7 straipsnio 21 dalyje, taip pat įrašo data. Indosamentą pasirašo akciją ar akcijų sertifikatą perleidžiantis asmuo ir akciją ar akcijų sertifikatą įgyjantis asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3691,7 +3804,7 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-3. Sudariusios sandorį dėl nematerialių akcijų perleidimo, sandorio šalys jų sąskaitų tvarkytojams turi pateikti rašytinę sutartį, kurioje, be kitų sutarties sąlygų, turi būti nurodyta:
+3. Sudariusios sandorį dėl nematerialių akcijų perleidimo, sandorio šalys juridiniams asmenims, kurie, vadovaujantis Finansinių priemonių rinkų įstatymu, yra atidarę ir tvarko jų asmenines vertybinių popierių sąskaitas, turi pateikti rašytinę sutartį, kurioje, be kitų sutarties sąlygų, turi būti nurodyta:
 
 
 1) bendrovės, kurios akcijos perleidžiamos, pavadinimas, teisinė forma, kodas ir buveinė;
@@ -3699,15 +3812,12 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-2) perleidžiamų akcijų skaičius pagal klases ir nominali vertė;
+2) perleidžiamų akcijų skaičius pagal klases ir jų nominali vertė;
 
 
 
 
-3) akcinių bendrovių akcijoms – Centrinio vertybinių popierių depozitoriumo suteiktas akcijų emisijos kodas (jei akcinė bendrovė, kurios akcijos perleidžiamos, yra išleidusi skirtingų emisijų akcijas); 
-Straipsnio punkto pakeitimai:
-Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
- 
+3) akcinių bendrovių akcijoms – Centrinio vertybinių popierių depozitoriumo suteiktas akcijų emisijos kodas (jeigu akcinė bendrovė, kurios akcijos perleidžiamos, yra išleidusi skirtingų emisijų akcijas);
 
 
 
@@ -3715,11 +3825,17 @@ Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
 4) privilegijuotųjų akcijų dividendo dydis, balsavimo ir kitos teisės.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-4. Sutartis, kurioje nėra bent vieno iš šio straipsnio 3 dalyje nurodytų duomenų, yra negaliojanti nuo jos sudarymo ir sąskaitų tvarkytojai neturi teisės pagal ją daryti įrašų.
+4. Sutartis, kurioje nėra bent vieno iš šio straipsnio 3 dalyje nurodytų duomenų, yra negaliojanti nuo jos sudarymo momento ir juridiniai asmenys, kurie, vadovaujantis Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, neturi teisės pagal ją daryti įrašų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3806,7 +3922,9 @@ Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
 
 
 
-11. Jei uždarosios akcinės bendrovės akcijos perleidžiamos kitu įstatymų nustatytu būdu (ne pardavimo) arba vykdant teismo sprendimą, šis straipsnis netaikomas, tačiau bet kuriuo akcijų perleidimo atveju akcininkų skaičius uždarojoje akcinėje bendrovėje negali būti didesnis nei nustatyta šio Įstatymo 2 straipsnio 4 dalyje.
+11. Jei uždarosios akcinės bendrovės akcijos perleidžiamos kitu įstatymų nustatytu būdu (ne pardavimo) arba vykdant teismo sprendimą, šis straipsnis netaikomas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
  
@@ -5215,7 +5333,10 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 
 
 
-4. Kai skaidant bendrovę po reorganizavimo veiksiančių bendrovių akcijos skaidomos bendrovės akcininkams skirstomos neproporcingai jų dalims skaidomos bendrovės įstatiniame kapitale, akcininkai, kurių akcijų nominali vertė mažesnė kaip 1/10 skaidomos bendrovės įstatinio kapitalo, ne vėliau kaip per 45 dienas nuo visuotinio akcininkų susirinkimo sprendimo reorganizuoti bendrovę priėmimo turi teisę pareikalauti, kad jų akcijas iki reorganizavimo pabaigos išpirktų skaidoma bendrovė. Tokiam akcijų išpirkimui netaikomos šio Įstatymo 54 straipsnio nuostatos. Išpirktoms akcijoms taikoma šio straipsnio 4 dalis. Išperkamų akcijų apmokėjimo kaina nustatoma atsižvelgiant į vidutinę paskutinių 6 mėnesių iki visuotinio akcininkų susirinkimo sprendimo reorganizuoti bendrovę priėmimo šių akcijų rinkos kainą. Ginčus dėl atlyginimo už akcijas dydžio sprendžia teismas. Jei reikalaujamų išpirkti akcijų nominali vertė viršija 1/10 skaidomos bendrovės įstatinio kapitalo, toliau pagal patvirtintas reorganizavimo sąlygas bendrovė negali būti reorganizuojama.
+4. Kai skaidant bendrovę po reorganizavimo veiksiančių bendrovių akcijos skaidomos bendrovės akcininkams skirstomos neproporcingai jų dalims skaidomos bendrovės įstatiniame kapitale, akcininkai, kurių akcijų nominali vertė mažesnė kaip 1/10 skaidomos bendrovės įstatinio kapitalo, ne vėliau kaip per 45 dienas nuo visuotinio akcininkų susirinkimo sprendimo reorganizuoti bendrovę priėmimo turi teisę pareikalauti, kad jų akcijas iki reorganizavimo pabaigos išpirktų skaidoma bendrovė. Tokiam akcijų išpirkimui netaikomos šio Įstatymo 54 straipsnio nuostatos. Išpirktoms akcijoms taikoma šio straipsnio 5 dalis. Išperkamų akcijų apmokėjimo kaina nustatoma atsižvelgiant į vidutinę paskutinių 6 mėnesių iki visuotinio akcininkų susirinkimo sprendimo reorganizuoti bendrovę priėmimo šių akcijų rinkos kainą. Ginčus dėl atlyginimo už akcijas dydžio sprendžia teismas. Jeigu reikalaujamų išpirkti akcijų nominali vertė viršija 1/10 skaidomos bendrovės įstatinio kapitalo, toliau pagal patvirtintas reorganizavimo sąlygas bendrovė negali būti reorganizuojama.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -6477,3 +6598,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 55 ir 78 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 37, 46, 52, 72, 74 ir 78 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 7, 8, 12, 14, 15, 18, 20, 28, 32, 34, 37, 38, 39, 40, 41, 41-1, 43, 44, 45, 45-1, 46, 47, 51, 52, 54, 57, 59 ir 67 straipsnių pakeitimo ir Įstatymo papildymo 40-1, 47-1, 47-2 ir 53-1 straipsniais įstatymas
