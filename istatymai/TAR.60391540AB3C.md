@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60391540ab3c11e6a6f98c1425a5ffa8"
 
 # Lietuvos Respublikos sutelktinio finansavimo įstatymas
 
+Suvestinė redakcija nuo 2017-07-13 iki 2018-06-14
+ 
+Įstatymas paskelbtas: TAR 2016-11-15, i. k. 2016-26828
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SUTELKTINIO FINANSAVIMO
 ĮSTATYMAS
@@ -456,7 +463,10 @@ Poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių sutelktin
 
 4) nebetenkinamos sąlygos, kurių laikantis sutelktinio finansavimo platformos operatorius buvo įrašytas į viešąjį sutelktinio finansavimo platformų operatorių sąrašą;
 
-5) padaromas Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimas;
+5) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. XIII-578, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12079
+ 
 
 6) trukdoma priežiūros institucijai ar jos įgaliotiems asmenims atlikti sutelktinio finansavimo platformų operatorių veiklos patikrinimus;
 
@@ -517,4 +527,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-578, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12079
+Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 23 straipsnio pakeitimo įstatymas
 
