@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-08-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -17144,7 +17144,10 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 
 
-7) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 200, 201, 202, 203, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+7) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 200, 201, 202, 203, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+ 
 
 
 
@@ -17290,7 +17293,10 @@ Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 
 
 
-35) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 224, 314, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+35) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 198, 224, 314, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+ 
 
 
 
@@ -17331,7 +17337,10 @@ Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 
 
 
-42) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+42) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 198, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+ 
 
 
 
@@ -17655,7 +17664,9 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-91) valstybės įmonės Lietuvos prabavimo rūmų – dėl šio kodekso 142, 505 straipsniuose numatytų administracinių nusižengimų;
+91) valstybės įmonės Lietuvos prabavimo rūmų – dėl šio kodekso 142, 198, 505 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
  
@@ -21310,3 +21321,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 200 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
 Lietuvos Respublikos administracinių nusižengimų kodekso 100, 101, 106 ir 133 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
