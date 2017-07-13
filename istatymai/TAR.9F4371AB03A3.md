@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2017-05-25 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
  
@@ -386,7 +386,15 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 
 
-6) jeigu asmuo per penkerius metus nuo sprendimo pripažinti jį advokatu priėmimo dienos nepateikė prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą.
+6) jeigu asmuo per penkerius metus nuo sprendimo pripažinti jį advokatu priėmimo dienos nepateikė prašymo įrašyti į Lietuvos praktikuojančių advokatų sąrašą;
+
+
+
+
+7) jeigu Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka Lietuvos advokatūra pritaiko Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatytą poveikio priemonę – leidimo vykdyti veiklą panaikinimą. 
+Papildyta straipsnio punktu:
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+ 
 
 
 
@@ -801,7 +809,10 @@ Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
 
 
-2. Advokatas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, jei jis yra įtariamas ar kaltinamas nusikalstamos veikos padarymu. Šiais atvejais advokatas yra išbraukiamas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės. Šis sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos.
+2. Advokatas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, jei jis yra įtariamas ar kaltinamas nusikalstamos veikos padarymu, taip pat pritaikius Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatytą poveikio priemonę. Šiais atvejais advokatas yra išbraukiamas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės. Šis sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+ 
 
 
 Straipsnio pakeitimai:
@@ -1238,14 +1249,25 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 
 
 
-6) jis mirė.
+6) jis mirė;
+
+
+
+
+7) jeigu Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka jam pritaikyta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas. 
+Papildyta straipsnio punktu:
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+ 
 
 
 
 
 
 
-2. Lietuvos advokatūros sprendimą išbraukti asmenį iš Lietuvos advokatų padėjėjų sąrašo, priimtą šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytais pagrindais, išbrauktasis asmuo turi teisę per trisdešimt dienų nuo sprendimo priėmimo apskųsti Vilniaus apygardos teismui. 
+2. Lietuvos advokatūros sprendimą išbraukti asmenį iš Lietuvos advokatų padėjėjų sąrašo, priimtą šio straipsnio 1 dalies 3, 4, 5 ir 7 punktuose nurodytais pagrindais, išbrauktasis asmuo turi teisę per trisdešimt dienų nuo sprendimo priėmimo apskųsti Vilniaus apygardos teismui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+ 
 
 
 Straipsnio pakeitimai:
@@ -2675,3 +2697,8 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 60 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
 Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 45, 46 straipsnių ir priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 13, 23 ir 36 straipsnių pakeitimo įstatymas
