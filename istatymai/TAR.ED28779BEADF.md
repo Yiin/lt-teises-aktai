@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-07-12
+Suvestinė redakcija nuo 2017-07-13 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -7590,7 +7590,10 @@ Nr. XII-2773, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26974
 
 
 
-7) valdymo įmonė ar investicinė bendrovė nesilaiko Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų;
+7) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. XIII-579, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12080
+ 
 
 
 
@@ -7991,3 +7994,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-472, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10836
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-579, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12080
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 171 straipsnio pakeitimo įstatymas
