@@ -21,7 +21,7 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-01-18 iki 2017-07-13
+Suvestinė redakcija nuo 2017-07-14 iki 2018-03-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -48,15 +48,21 @@ BENDROSIOS NUOSTATOS
 
 
 ANTRASIS SKIRSNIS
-EUROPOS BENDRIJOS STEIGIMO SUTARTIES 244 IR 256 STRAIPSNIŲ ĮGYVENDINIMAS
+SUTARTIES DĖL EUROPOS SĄJUNGOS VEIKIMO 280 IR 299 STRAIPSNIŲ ĮGYVENDINIMAS
  
 
 
 2 straipsnis. Vykdomųjų raštų išdavimas
-Vykdomuosius raštus dėl Europos Sąjungos Tarybos ar Europos Bendrijų Komisijos sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Bendrijų Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas išduoda Lietuvos apeliacinis teismas.
+
+
+Vykdomuosius raštus dėl Europos Sąjungos Tarybos, Europos Komisijos ar Europos Centrinio Banko sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Sąjungos Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas, išduoda Lietuvos apeliacinis teismas.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
  
-
-
 
 
 
@@ -663,7 +669,9 @@ Bylose dėl Europos mokėjimo įsakymo išdavimo taikomos Lietuvos Respublikos c
 
 
 
-2. Reglamento (EB) Nr. 1896/2006 17 straipsnio 1 dalyje nurodytu atveju teismo procesas tęsiamas Lietuvos Respublikos civilinio proceso kodekso 439 straipsnio 3, 5 ir 6 dalyse nustatyta tvarka.
+2. Reglamento (EB) Nr. 1896/2006 17 straipsnio 1 dalyje nurodytais atvejais teismo procesas tęsiamas mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 439 straipsnio 3, 5 ir 6 dalių nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
  
 
 
@@ -741,6 +749,19 @@ Europos ieškiniai dėl nedidelių sumų apmokami Lietuvos Respublikos civilinio
 
 
 
+271 straipsnis. Praktinė pagalba ir informacija proceso šalims
+
+
+Reglamento (EB) Nr. 861/2007 11 straipsnio 1 dalyje nurodytą praktinę pagalbą ir informaciją proceso šalims teikia pirminę valstybės garantuojamą teisinę pagalbą teikiantys subjektai.
+
+
+Papildyta straipsniu:
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
+ 
+
+
+
+
 28 straipsnis. Bylų nagrinėjimas pagal nacionalinę proceso teisę
 
 
@@ -777,7 +798,10 @@ Teismų sprendimai, priimti pagal Europos ieškinių dėl nedidelių sumų nagri
 
 
 
-3. Paduotą prašymą dėl sprendimo peržiūrėjimo teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per keturiolika dienų nuo termino atsiliepimui į prašymą pateikti pabaigos dienos ir priima nutartį dėl vieno iš Reglamento (EB) Nr. 861/2007 18 straipsnio 2 dalyje nurodytų sprendimų.
+3. Paduotą prašymą dėl sprendimo peržiūrėjimo teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per keturiolika dienų nuo termino atsiliepimui į prašymą pateikti pabaigos dienos ir priima nutartį dėl vieno iš Reglamento (EB) Nr. 861/2007 18 straipsnio 3 dalyje nurodytų sprendimų.
+Straipsnio dalies pakeitimai:
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
+ 
 
 
 
@@ -1365,12 +1389,18 @@ Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
 
 
-5. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą (OL 2006 L 399, p. 1).
+5. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą (OL 2006 L 399, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/2421 (OL 2015 L 341, p. 1). 
+Punkto pakeitimai:
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
+ 
 
 
 
 
-6. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (OL 2007 L 199, p. 1).
+6. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (OL 2007 L 199, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/2421 (OL 2015 L 341, p. 1).
+Punkto pakeitimai:
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
+ 
 
 
 
@@ -1457,3 +1487,8 @@ Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 31-5, 31-9 straipsnių ir priedo pakeitimo ir Įstatymo papildymo devintuoju-5 skirsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
+Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 antrojo skirsnio, 22, 30 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 27-1 straipsniu įstatymas
