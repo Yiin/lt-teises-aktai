@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
+Suvestinė redakcija nuo 2017-07-14 iki 2017-12-31
+ 
+Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ DARBO APMOKĖJIMO
 ĮSTATYMAS
@@ -613,7 +620,10 @@ Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos kultūros ministras, Liet
 17 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šio įstatymo 8 straipsnis ir 5 priedas netenka galios 2017 m. rugpjūčio 31 d.
+1. Šio įstatymo 8 straipsnis ir 5 priedas netenka galios 2018 m. rugpjūčio 31 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
+ 
 
 
 
@@ -628,7 +638,10 @@ Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos kultūros ministras, Liet
 
 
 
-4. Biudžetinių įstaigų darbuotojams, kurių darbo užmokestis, įsigaliojus šiam įstatymui, yra mažesnis, palyginti su iki šio įstatymo įsigaliojimo buvusiu nustatytu darbo užmokesčiu, ne ilgiau kaip iki 2018 m. sausio 31 d. mokamas iki 2016 m. gruodžio 31 d. jiems nustatytas darbo užmokestis (tarnybinis atlyginimas su priedais). Biudžetinių įstaigų darbuotojams, kurių pareiginės algos pastovioji dalis, įsigaliojus šiam įstatymui, yra mažesnė, palyginti su iki 2016 m. gruodžio 31 d. buvusiu nustatytu tarnybiniu atlyginimu, mokama iki šio įstatymo įsigaliojimo nustatyto tarnybinio atlyginimo dydžio pareiginės algos pastovioji dalis tol, kol jie eina tas pačias pareigas.
+4. Biudžetinių įstaigų darbuotojams, kurių darbo užmokestis, įsigaliojus šiam įstatymui, yra mažesnis, palyginti su iki šio įstatymo įsigaliojimo buvusiu nustatytu darbo užmokesčiu, ne ilgiau kaip iki 2018 m. sausio 31 d. mokamas iki 2016 m. gruodžio 31 d. jiems nustatytas darbo užmokestis (tarnybinis atlyginimas su priedais), išskyrus šio įstatymo 8 straipsnyje ir 5 priede nurodytus darbuotojus, kuriems iki 2016 m. gruodžio 31 d. nustatytas darbo užmokestis mokamas ne ilgiau kaip iki 2018 m. rugpjūčio 31 d. Biudžetinių įstaigų darbuotojams, kurių pareiginės algos pastovioji dalis, įsigaliojus šiam įstatymui, yra mažesnė, palyginti su iki 2016 m. gruodžio 31 d. buvusiu nustatytu tarnybiniu atlyginimu, mokama iki šio įstatymo įsigaliojimo nustatyto tarnybinio atlyginimo dydžio pareiginės algos pastovioji dalis tol, kol jie eina tas pačias pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
+ 
 
 
 
@@ -648,22 +661,27 @@ Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos kultūros ministras, Liet
 
 
 
-8. Šio įstatymo 14 straipsnio 2 dalis įsigalioja 2017 m. rugsėjo 1 d. 
-
-
-
-
-9. Šio įstatymo 14 straipsnio 2 dalies redakcija, galiojanti iki 2017 m. rugpjūčio 31 d.:
-
-
-
-
-„2. Kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų praėjusių kalendorinių metų veikla vertinama vadovaujantis atitinkamai Lietuvos Respublikos kultūros ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos sveikatos apsaugos ministro patvirtintu atitinkamos srities kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų ar sveikatos priežiūros specialistų veiklos vertinimo tvarkos aprašu. Kitų biudžetinių įstaigų darbuotojų praėjusių kalendorinių metų veikla vertinama vadovaujantis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintu biudžetinių įstaigų darbuotojų veiklos vertinimo tvarkos aprašu.“
+8. Šio įstatymo 14 straipsnio 2 dalis įsigalioja 2018 m. rugsėjo 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
  
 
 
 
 
+9. Šio įstatymo 14 straipsnio 2 dalies redakcija, galiojanti iki 2018 m. rugpjūčio 31 d.:
+
+
+
+
+„2. Kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų praėjusių kalendorinių metų veikla vertinama vadovaujantis atitinkamai Lietuvos Respublikos kultūros ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos sveikatos apsaugos ministro patvirtintu atitinkamos srities kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų ar sveikatos priežiūros specialistų veiklos vertinimo tvarkos aprašu. Kitų biudžetinių įstaigų darbuotojų praėjusių kalendorinių metų veikla vertinama vadovaujantis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintu biudžetinių įstaigų darbuotojų veiklos vertinimo tvarkos aprašu.“ 
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
+ 
 
 
 
@@ -3851,3 +3869,14 @@ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTŲ DIDINIMAS DARBUOTOJAMS, DIRBA
 
  
 _____________________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 17 straipsnio pakeitimo įstatymas
