@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2017-07-13
+Suvestinė redakcija nuo 2017-07-14 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -1255,6 +1255,13 @@ LIETUVOS ERDVINĖS INFORMACIJOS INFRASTRUKTŪRA
 
 
 6. Erdvinių duomenų rinkiniai sudaromi taip, kad būtų galima juos sistemingai ir pagal bendrus sąveikumo reikalavimus kaupti, tvarkyti, saugoti, integruoti į kitus erdvinių duomenų rinkinius ir taikyti valstybės kadastruose, registruose ir informacinėse sistemose.
+
+
+
+
+7. Siekdama užtikrinti, kad erdviniai duomenys, kurie yra nustatomi abipus dviejų ar daugiau valstybių narių sienų, būtų darnūs, Žemės ūkio ministerija kartu su valstybėmis narėmis, turinčiomis su Lietuvos Respublika bendrą valstybės sieną, prireikus bendru sutarimu sprendžia dėl tokių bendrų elementų vaizdavimo ir padėties.
+Papildyta straipsnio dalimi:
+Nr. XIII-601, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12174
  
 
 
@@ -1380,45 +1387,102 @@ Lietuvos erdvinės informacijos portalo teikiamos paslaugos:
 23 straipsnis. Prieiga prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą
 
 
-1. Prieiga prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą yra vieša, jeigu kitų įstatymų nenustatyta kitaip.
+1. Prieiga prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą yra vieša, išskyrus šio straipsnio 5 ir 6 dalyse nurodytus atvejus.
 
 
 
 
-2. Paslaugos, nurodytos šio įstatymo 22 straipsnio 1 ir 2 punktuose, per Lietuvos erdvinės informacijos portalą teikiamos neatlygintinai, o paslaugos, nurodytos 22 straipsnio 3, 4 ir 5 punktuose, teikiamos neatlygintinai, jeigu kitų įstatymų nenustatyta kitaip.
+2. Paslaugos, nurodytos šio įstatymo 22 straipsnio 1 ir 2 punktuose, per Lietuvos erdvinės informacijos portalą teikiamos neatlygintinai, o paslaugos, nurodytos šio įstatymo 22 straipsnio 3, 4 ir 5 punktuose, teikiamos neatlygintinai, jeigu kitų įstatymų nenustatyta kitaip.
 
 
 
 
-3. Erdvinių duomenų rinkiniai ir paslaugos, kurių reikia Europos Sąjungos institucijoms, valstybės institucijoms ir savivaldybėms viešojo pobūdžio užduotims atlikti arba ataskaitoms teikti pagal Europos Sąjungos teisės aktus, susijusius su aplinka, teikiami neatlygintinai. 
+3. Erdvinių duomenų rinkiniai ir paslaugos, kurių reikia Europos Sąjungos institucijoms, valstybės institucijoms ir savivaldybėms viešojo pobūdžio užduotims atlikti arba ataskaitoms teikti pagal Europos Sąjungos teisės aktus, susijusius su aplinka, teikiami neatlygintinai.
 
 
 
 
-4. Valstybės kadastrų, registrų tvarkymo įstaigos, valstybės ir savivaldybių institucijos, tvarkančios erdvinių duomenų rinkinius, turi teisę riboti prieigą prie erdvinių duomenų rinkinių per Lietuvos erdvinės informacijos portalą, jeigu tai nustatyta kitų įstatymų.
+4. Valstybės kadastrų, registrų, valstybės informacinių sistemų tvarkytojai, valstybės ir savivaldybių institucijos, tvarkančios erdvinių duomenų rinkinius, turi teisę riboti prieigą prie erdvinių duomenų rinkinių per Lietuvos erdvinės informacijos portalą tik šio straipsnio 5 ir 6 dalyse nustatytais atvejais.
 
 
 
 
-5. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkinių ir paslaugų, išskyrus 22 straipsnio 1 ir 2 punktuose nurodytas paslaugas, naudotojai, įgydami teisę naudotis erdvinių duomenų rinkiniais ir paslaugomis per Lietuvos erdvinės informacijos portalą, privalo sudaryti naudojimosi sutartis su erdvinių duomenų ir paslaugų teikėjais ar jų įgaliotais platintojais.
+5. Prieiga prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą teikiant šio įstatymo 22 straipsnio 1 dalies 1 punkte nurodytas paslaugas įstatymų nustatyta tvarka gali būti apribota, jeigu tai kenkia arba gali pakenkti tarptautiniams santykiams, valstybės saugumui ar gynybai.
 
 
 
 
-6. Erdvinių duomenų rinkinių teikėjai gali būti valstybės kadastrų, registrų tvarkymo įstaigos, valstybės ir savivaldybių institucijos, tvarkančios erdvinių duomenų rinkinius. Asmenys, pageidaujantys sukurti pridėtinės vertės produktus naudojantis valstybės kadastrų, registrų, georeferencinių erdvinių duomenų rinkinių ar erdvinių duomenų rinkinių duomenimis ir teminių erdvinių duomenų rinkiniais, privalo įgyti tam teisę erdvinių duomenų rinkinių teikėjų nustatyta tvarka. Pridėtinės vertės produktus naudotojams teikia įgalioti platintojai erdvinių duomenų rinkinių teikėjų nustatyta tvarka.
+6. Prieiga prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą teikiant šio įstatymo 22 straipsnio 1 dalies 2–5 punktuose nurodytas paslaugas įstatymų nustatyta tvarka gali būti apribota, jeigu tai kenkia arba gali pakenkti:
+
+
+1) valstybės ir savivaldybių institucijų teikiamų administracinių paslaugų konfidencialumui, kai tokį konfidencialumą numato įstatymai;
 
 
 
 
-7. Vadovaujantis teisės aktų nustatyta tvarka, prieiga prie erdvinių duomenų rinkinių ir (ar) paslaugų per Lietuvos erdvinės informacijos portalą teikiama valstybių narių valstybės institucijoms, įmonėms ir organizacijoms, teikiančioms viešąsias paslaugas. Taip pat prieiga prie valstybių narių valstybinių įstaigų ir organizacijų erdvinių duomenų rinkinių ir paslaugų Lietuvos Respublikos naudotojams, teikiantiems viešąsias paslaugas, teikiama per Lietuvos erdvinės informacijos portalą, jeigu kitų įstatymų nenustatyta kitaip.
+2) tarptautiniams santykiams, valstybės saugumui ar gynybai;
 
 
 
 
-8. Jeigu kitų įstatymų nustatyta, kad šio įstatymo 22 straipsnio 3, 4, 5 punktuose nurodytos paslaugos teikiamos atlygintinai, paslaugos teikėjas turi užtikrinti Lietuvos Respublikos ir kitų valstybių narių naudotojams galimybes naudotis elektroninės prekybos paslaugomis.
+3) teisingumo vykdymui arba teisės pažeidimų tyrimui;
+
+
+
+
+4) informacijos, laikomos komercine (gamybine) paslaptimi, konfidencialumui, kai tokį konfidencialumą, siekiant apsaugoti teisėtus ekonominius interesus, įskaitant visuomenės interesus išlaikyti statistinių duomenų konfidencialumą ir informacijos apie mokesčių mokėtoją slaptumą, numato Lietuvos Respublikos arba Europos Sąjungos teisės aktai;
+
+
+
+
+5) intelektinės nuosavybės teisėms;
+
+
+
+
+6) asmens duomenų ir (arba) jų susistemintų rinkmenų konfidencialumui, jeigu duomenų subjektas nesutiko, kad jo asmens duomenys būtų paskelbti viešai, ir jeigu tokį konfidencialumą numato Lietuvos Respublikos arba Europos Sąjungos teisės aktai;
+
+
+
+
+7) asmens, savo noru pateikusio prašomą informaciją, interesams arba apsaugai, išskyrus atvejus, kai šis asmuo sutiko, kad atitinkama informacija būtų atskleista;
+
+
+
+
+8) aplinkos, su kuria susijusi tokia informacija, apsaugai.
+
+
+
+
+
+
+7. Šio straipsnio 5 ir 6 dalyse nurodytais atvejais apribojant prieigą prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą turi būti atsižvelgiama į visuomenės interesus. Kiekvienu konkrečiu atveju reikia palyginti, kaip tenkinami visuomenės interesai atskleidus informaciją ir kaip jie tenkinami apribojant ją arba suteikiant teisę ja naudotis tam tikromis sąlygomis.
+
+
+
+
+8. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkinių ir paslaugų, išskyrus šio įstatymo 22 straipsnio 1 ir 2 punktuose nurodytas paslaugas, naudotojai, įgydami teisę naudotis erdvinių duomenų rinkiniais ir paslaugomis per Lietuvos erdvinės informacijos portalą, privalo sudaryti naudojimosi sutartis su erdvinių duomenų ir paslaugų teikėjais ar jų įgaliotais platintojais.
+
+
+
+
+9. Erdvinių duomenų rinkinių teikėjai gali būti valstybės kadastrų, registrų, valstybės informacinių sistemų tvarkytojai, valstybės ir savivaldybių institucijos, tvarkančios erdvinių duomenų rinkinius. Erdvinių duomenų rinkinių teikėjai gali būti ir kiti asmenys, kurių erdvinių duomenų rinkiniai ir paslaugos atitinka 2010 m. lapkričio 23 d. Komisijos reglamento (ES) Nr. 1089/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2007/2/EB nuostatos dėl erdvinių duomenų rinkinių ir paslaugų sąveikumo, reikalavimus, susijusius su įsipareigojimais dėl metaduomenų, tinklo paslaugų ir sąveikumo (OL 2010 L 323, p. 11–102). Asmenys, pageidaujantys sukurti pridėtinės vertės produktus naudodamiesi valstybės kadastrų, registrų, georeferencinių erdvinių duomenų rinkinių ar erdvinių duomenų rinkinių duomenimis ir teminių erdvinių duomenų rinkiniais, privalo įgyti tam teisę erdvinių duomenų rinkinių teikėjų nustatyta tvarka. Pridėtinės vertės produktus naudotojams teikia įgalioti platintojai erdvinių duomenų rinkinių teikėjų nustatyta tvarka.
+
+
+
+
+10. Vadovaujantis teisės aktų nustatyta tvarka, prieiga prie erdvinių duomenų rinkinių ir (ar) paslaugų per Lietuvos erdvinės informacijos portalą teikiama valstybių narių valstybės institucijoms, įmonėms ir organizacijoms, teikiančioms viešąsias paslaugas. Taip pat prieiga prie valstybių narių valstybinių įstaigų ir organizacijų erdvinių duomenų rinkinių ir paslaugų Lietuvos Respublikos naudotojams, teikiantiems viešąsias paslaugas, teikiama per Lietuvos erdvinės informacijos portalą, jeigu kitų įstatymų nenustatyta kitaip.
+
+
+
+
+11. Jeigu kitų įstatymų nustatyta, kad šio įstatymo 22 straipsnio 3, 4, 5 punktuose nurodytos paslaugos teikiamos atlygintinai, paslaugos teikėjas turi užtikrinti Lietuvos Respublikos ir kitų valstybių narių naudotojams galimybes naudotis elektroninės prekybos paslaugomis.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-601, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12174
  
-
-
 
 
 
@@ -1643,3 +1707,8 @@ Lietuvos Respublikos geodezijos ir kartografijos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 12, 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-601, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12174
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 4, 6, 7, 8, 9, 10, 11, 18, 19, 20, 21, 23, 25 ir 27 straipsnių pakeitimo įstatymas
