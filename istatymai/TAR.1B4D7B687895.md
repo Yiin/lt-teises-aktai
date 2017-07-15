@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-14
+Suvestinė redakcija nuo 2017-07-15 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1250,10 +1250,11 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai ir valiutos keityklų operatoriai.
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, Centrinė kredito unija, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, valdymo įmonės, investicinės bendrovės, centriniai vertybinių popierių depozitoriumai, užsienio valstybių centrinių vertybinių popierių depozitoriumų filialai, įsteigti Lietuvos Respublikoje, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai ir vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai ir valiutos keityklų operatoriai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
 Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
+Nr. XIII-580, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11950
  
 
 
@@ -1277,9 +1278,10 @@ Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
 
 
 
-4) atlieka finansų maklerio įmonių, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, valdymo įmonių, investicinių bendrovių, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas; 
+4) atlieka finansų maklerio įmonių, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, valdymo įmonių, investicinių bendrovių, centrinių vertybinių popierių depozitoriumų, užsienio valstybių centrinių vertybinių popierių depozitoriumų filialų, įsteigtų Lietuvos Respublikoje, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1473, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21134
+Nr. XIII-580, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11950
  
 
 
@@ -2504,3 +2506,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 45 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 priedo pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-580, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11950
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
