@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-16
+Suvestinė redakcija nuo 2017-07-17 iki 2017-11-16
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
- 
-TAR pastaba. Iki šio įstatymo (Nr. XIII-267) įsigaliojimo (2017-05-01) pagal mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo sutartis pradėtos konkrečių mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo procedūros baigiamos vykdyti pagal teisės aktus, galiojusius iki šio įstatymo įsigaliojimo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas
  
 Nauja įstatymo redakcija nuo 2011-08-01:
 Nr. XI-1564, 2011-06-30, Žin., 2011, Nr. 87-4186 (2011-07-14)
@@ -2013,7 +2008,10 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-7. Nustačiusi, kad perdavimo sistemos operatorius nebeatitinka šio įstatymo aštuntojo skirsnio reikalavimų, Komisija gali skirti baudas, sudarančias iki 10 procentų šios gamtinių dujų įmonės metinių pajamų, gaunamų iš perdavimo veiklos, laikinai apriboti tas asmens ar asmens dalyvių teises, kurių įgyvendinimas pažeidžia šio įstatymo aštuntojo skirsnio reikalavimus, ir įpareigoti šią gamtinių dujų įmonę per Komisijos nurodytą protingą laikotarpį pašalinti atsiradusius trūkumus. Baudos skiriamos ir diferencijuojamos Energetikos įstatymo nustatyta tvarka ir sąlygomis. Jeigu perdavimo sistemos operatorius per nurodytą protingą laikotarpį trūkumų nepašalina, Komisija pradeda naujo operatoriaus licencijavimo ir paskyrimo procedūrą.
+7. Nustačiusi, kad perdavimo sistemos operatorius nebeatitinka šio įstatymo aštuntojo skirsnio reikalavimų, Komisija skiria baudas, sudarančias iki 10 procentų šios gamtinių dujų įmonės metinių pajamų, laikinai apriboja tas asmens ar asmens dalyvių teises, kurių įgyvendinimas pažeidžia šio įstatymo aštuntojo skirsnio reikalavimus, ir įpareigoja šią gamtinių dujų įmonę per Komisijos nurodytą protingą terminą, ne ilgesnį kaip du mėnesiai, pašalinti atsiradusius trūkumus. Baudos skiriamos Energetikos įstatymo nustatyta tvarka ir sąlygomis. Jeigu perdavimo sistemos operatorius per nurodytą protingą laikotarpį trūkumų nepašalina, Komisija pradeda naujo operatoriaus licencijavimo ir paskyrimo procedūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-555, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12058
+ 
 
 
 Straipsnio pakeitimai:
@@ -3821,3 +3819,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir 13 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-555, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12058
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 28 straipsnio pakeitimo įstatymas
