@@ -13,20 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-16
+Suvestinė redakcija nuo 2017-07-17 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
- 
-TAR pastaba. Iki šio įstatymo (Nr. XIII-262) įsigaliojimo (2017-05-01) pagal kilnojamųjų elektros energetikos objektų ir įrenginių projektavimo ir (ar) įrengimo sutartis pradėtos konkrečių kilnojamųjų elektros energetikos objektų ir įrenginių projektavimo ir (ar) įrengimo procedūros baigiamos vykdyti pagal teisės aktus, galiojusius iki šio įstatymo įsigaliojimo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
-Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 75 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 75-1, 75-2 straipsniais įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
  
-LIETUVOS RESPUBLIKOS ELEKTROS ENERGETIKOS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ELEKTROS ENERGETIKOS ĮSTATYMAS
  
 2000 m. liepos 20 d. Nr. VIII-1881
 Vilnius
@@ -711,7 +705,10 @@ Elektros energetikos sektoriaus veiklos valstybinis valdymas, reguliavimas, prie
 
 
 
-4) tvirtina valstybės reguliuojamų kainų nustatymo principus;
+4) neteko galios nuo 2017-07-17;
+Straipsnio punkto pakeitimai:
+Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
+ 
 
 
 
@@ -899,7 +896,10 @@ Valstybinės energetikos inspekcijos funkcijas, uždavinius, teises ir pareigas 
 
 
 
-3) rengia ir teikia Vyriausybei valstybės reguliuojamų kainų nustatymo principus;
+3) neteko galios nuo 2017-07-17;
+Straipsnio punkto pakeitimai:
+Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
+ 
 
 
 
@@ -934,7 +934,10 @@ Valstybinės energetikos inspekcijos funkcijas, uždavinius, teises ir pareigas 
 
 
 
-10) tvirtina vartotojų ir gamintojų elektros įrenginių prijungimo prie elektros tinklų įkainius, vadovaudamasi šiame įstatyme nustatytais bendraisiais įkainių nustatymo reikalavimais;
+10) tvirtina vartotojų ir gamintojų elektros įrenginių prijungimo prie elektros tinklų įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi šiame įstatyme nustatytais bendraisiais įkainių nustatymo reikalavimais;
+Straipsnio punkto pakeitimai:
+Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
+ 
 
 
 
@@ -1135,7 +1138,6 @@ Tarnyba:
 
 
 
- 
 11 straipsnis. Viešasis konsultavimasis
 
 
@@ -3447,13 +3449,15 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 
 
 
-55 straipsnis. Veiklos atskyrimo reikalavimų nesilaikymo pasekmės
+55 straipsnis. Veiklos atskyrimo reikalavimų nesilaikymo pasekmės 
 
 
-Už elektros energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos atskyrimo reikalavimų nevykdymą ar jų netinkamą vykdymą šiame įstatyme nustatyta tvarka ir sąlygomis, jeigu per Komisijos nustatytą protingą terminą šie pažeidimai nebuvo pašalinti, vertikaliai integruotai įmonei ir (ar) tinklų operatoriui gali būti skiriama piniginė bauda – iki 10 procentų įmonės metinių pajamų, gautų iš konkrečios reguliuojamos veiklos, kurią vykdant padarytas pažeidimas, praėjusiais metais. Baudos skiriamos Energetikos įstatymo nustatyta tvarka ir sąlygomis.
+Už elektros energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos atskyrimo reikalavimų nevykdymą ar jų netinkamą vykdymą šiame įstatyme nustatyta tvarka ir sąlygomis vertikaliai integruotai įmonei ir (ar) tinklų operatoriui skiriama piniginė bauda – iki 10 procentų įmonės metinių pajamų, gautų praėjusiais metais. Baudos skiriamos Energetikos įstatymo nustatyta tvarka ir sąlygomis.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
  
-
-
 
 
 
@@ -3920,9 +3924,11 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-5. Vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką tvirtina, įkainius nustato ir juos diferencijuoja Komisija, vadovaudamasi šiais bendraisiais kriterijais:
+5. Vartotojų ir gamintojų elektros įrenginių prijungimo prie elektros tinklų įkainių nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, tvirtina, įkainius nustato ir juos diferencijuoja Komisija, vadovaudamasi šiais bendraisiais kriterijais:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Straipsnio dalies pakeitimai:
+Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
  
 
 
@@ -5138,3 +5144,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 22, 31, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 75 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 75-1, 75-2 straipsniais įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 6, 9, 55 ir 67 straipsnių pakeitimo įstatymas
