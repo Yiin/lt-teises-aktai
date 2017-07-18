@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-17
+Suvestinė redakcija nuo 2017-07-18
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -1075,7 +1075,10 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 
 
 
-5) krašto apsaugos teritorijoms, skirtoms valstybės sienos apsaugai ir specialiems krašto apsaugos tikslams, formuoti;
+5) teritorijose, skirtose valstybės sienos apsaugos tikslams ir krašto apsaugos tikslams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+ 
 
 
 
@@ -1110,22 +1113,22 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 
 
 
-2) II grupės – ekosistemų apsaugos miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 7 ir 9 punktuose nustatytus atvejus;
+2) II grupės – ekosistemų apsaugos miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 5, 7 ir 9 punktuose nustatytus atvejus;
 
 
 
 
-3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 7 ir 9 punktuose nustatytus atvejus;
+3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 3, 5, 7 ir 9 punktuose nustatytus atvejus;
 
 
 
 
-4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 8 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 7 ir 9 punktuose nustatytais atvejais ir 4 punkte nustatytu atveju, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje.
-Straipsnio punkto pakeitimai:
-Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 8 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 5, 7 ir 9 punktuose nustatytais atvejais ir 4 punkte nustatytu atveju, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
  
-
-
 
 
 
@@ -1148,7 +1151,10 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 
 
-4) šio straipsnio 1 dalies 7 ir 9 punktuose nustatytais atvejais.
+4) šio straipsnio 1 dalies 5, 7 ir 9 punktuose nustatytais atvejais. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+ 
 
 
 
@@ -1786,3 +1792,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-424, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10028
 Lietuvos Respublikos miškų įstatymo Nr. I-671 5 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
