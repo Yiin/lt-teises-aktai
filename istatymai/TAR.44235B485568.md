@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-07-17 iki 2017-07-17
+Suvestinė redakcija nuo 2017-07-18
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -172,99 +172,153 @@ Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 
 
-22. Magistralinis dujotiekis – aukšto slėgio vamzdynas, su juo susiję įrenginiai, įskaitant dujų skirstymo stotis, dujoms iš verslovių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat statiniai ir priemonės šiam vamzdynui veikti.
+22. Išmanioji energijos apskaitos sistema – elektroninė energijos vartojimo ir gamybos matavimo sistema, kurią naudojant gaunama daugiau informacijos nei naudojant įprastą energijos apskaitos prietaisą ir kuri gali perduoti ir gauti duomenis elektroniniu ryšiu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-23. Magistralinis naftotiekis (produktotiekis) – aukšto slėgio vamzdynas, su juo susiję statiniai ir įrenginiai naftai perduoti į naftos terminalus ir saugyklas arba į naftos perdirbimo įrenginius ir naftos produktams perduoti į naftos produktų terminalus ir saugyklas.
+23. Išmanusis energijos tinklas – energijos transportavimo, perdavimo ir (ar) skirstomasis tinklas, kuriame veikia abipusis skaitmeninis tiekėjo ir vartotojo ryšys ir yra įdiegtos išmaniosios energijos apskaitos, stebėjimo ir valdymo sistemos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-24. Reguliuojamoji energetikos veikla (toliau – reguliuojamoji veikla) – energetikos veikla, kuriai reikalingi licencijos, leidimai, atestatai ir (ar) kuriai taikomos valstybės reguliuojamos kainos.
+24. Magistralinis dujotiekis – aukšto slėgio vamzdynas, su juo susiję įrenginiai, įskaitant dujų skirstymo stotis, dujoms iš verslovių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat statiniai ir priemonės šiam vamzdynui veikti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-25. Neteko galios nuo 2016-11-15. 
+25. Magistralinis naftotiekis (produktotiekis) – aukšto slėgio vamzdynas, su juo susiję statiniai ir įrenginiai naftai perduoti į naftos terminalus ir saugyklas arba į naftos perdirbimo įrenginius ir naftos produktams perduoti į naftos produktų terminalus ir saugyklas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
+
+
+
+
+26. Reguliuojamoji energetikos veikla (toliau – reguliuojamoji veikla) – energetikos veikla, kuriai reikalingi licencijos, leidimai, atestatai ir (ar) kuriai taikomos valstybės reguliuojamos kainos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
+
+
+
+
+27. Neteko galios nuo 2016-11-15. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-26. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos.
+28. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-27. Techninė sauga – šio įstatymo ir kitų teisės aktų nustatytų priemonių ir reikalavimų, kuriais užtikrinamas energetikos objektų ir įrenginių patikimumas ir saugumas, visuma.
+29. Techninė sauga – šio įstatymo ir kitų teisės aktų nustatytų priemonių ir reikalavimų, kuriais užtikrinamas energetikos objektų ir įrenginių patikimumas ir saugumas, visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-28. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas.
+30. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-29. Trečioji šalis – valstybė, kuri nėra Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+31. Trečioji šalis – valstybė, kuri nėra Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-30. Tretieji asmenys – energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka ir sąlygomis įgyja teisę naudotis energijos perdavimo ar skirstymo tinklais energijai persiųsti teisės aktų nustatyta tvarka.
+32. Tretieji asmenys – energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka ir sąlygomis įgyja teisę naudotis energijos perdavimo ar skirstymo tinklais energijai persiųsti teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-31. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+33. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-32. Valstybinės svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės ir katilinės; 110 kV ir aukštesnės įtampos elektros energijos perdavimo tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai; 25 000 000 kubinių metrų ir didesnės gamtinių dujų saugyklos; suskystintų gamtinių dujų importo terminalai ir saugyklos, kurių pakartotinio suskystintų gamtinių dujų dujinimo pajėgumas yra 0,5 mlrd. kubinių metrų per metus arba didesnis; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 kubinių metrų ir didesni naftos ir (ar) naftos produktų terminalai ir saugyklos; branduolinės energetikos objektai; energetikos objektai, kurių svarba valstybei pripažįstama Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+34. Valstybinės svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės ir katilinės; 110 kV ir aukštesnės įtampos elektros energijos perdavimo tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai; 25 000 000 kubinių metrų ir didesnės gamtinių dujų saugyklos; suskystintų gamtinių dujų importo terminalai ir saugyklos, kurių pakartotinio suskystintų gamtinių dujų dujinimo pajėgumas yra 0,5 mlrd. kubinių metrų per metus arba didesnis; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 kubinių metrų ir didesni naftos ir (ar) naftos produktų terminalai ir saugyklos; branduolinės energetikos objektai; energetikos objektai, kurių svarba valstybei pripažįstama Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-33. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės politikos strategines kryptis ir Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo priemones ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra. 
+35. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės politikos strategines kryptis ir Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo priemones ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra. 
 Papildyta straipsnio dalimi:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-34. Vardinė (nominali) šiluminė galia – gamintojo nustatyta didžiausia kurą deginančio įrenginio galia, kurią įrenginys gali pasiekti ir išlaikyti ilgalaikio nenutrūkstamo eksploatavimo metu.
+36. Vardinė (nominali) šiluminė galia – gamintojo nustatyta didžiausia kurą deginančio įrenginio galia, kurią įrenginys gali pasiekti ir išlaikyti ilgalaikio nenutrūkstamo eksploatavimo metu.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-35. Vartotojų energetikos įrenginiai (toliau – vartotojų energetikos įrenginiai) – elektros, šilumos, dujų, naftos produktų energetikos įrenginiai, skirti vartotojų poreikiams tenkinti.
+37. Vartotojų energetikos įrenginiai (toliau – vartotojų energetikos įrenginiai) – elektros, šilumos, dujų, naftos produktų energetikos įrenginiai, skirti vartotojų poreikiams tenkinti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-36. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos viešuosius interesus atitinkančios paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
+38. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos viešuosius interesus atitinkančios paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus energetikos sektoriuje ir apginti teisėtus visuomenės interesus.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-37. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius.
+39. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
@@ -2228,7 +2282,6 @@ Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 
 5. Energetikos įmonių informacija apie sąnaudas, susijusias su teisės aktų nustatyta tvarka licencijuojama veikla arba su veikla, kuriai taikomos valstybės reguliuojamos kainos, yra vieša. Energetikos įmonės, kurios vykdo licencijuojamą veiklą arba kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, viešai skelbia įmonių valdymo organų nariams nustatytą darbo užmokestį ir kitas su valdymo organų narių funkcijomis susijusias išmokas.
- 
 
 
 
@@ -2442,7 +2495,10 @@ Nr. XII-554, 2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
 
 
 
-2. Šio straipsnio 1 dalyje nurodytos energijos apskaita turi būti tvarkoma Lietuvos Respublikos matavimo priemonių registre įregistruotomis energijos matavimo priemonėmis. 
+2. Šio straipsnio 1 dalyje nurodytos energijos apskaita turi būti tvarkoma energijos matavimo priemonėmis, kurių teisinis metrologinis patvirtinimas yra atliktas Lietuvos Respublikos metrologijos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
@@ -3189,3 +3245,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 5, 6, 8, 16, 36 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 25, 30 ir 37 straipsnių pakeitimo įstatymas
