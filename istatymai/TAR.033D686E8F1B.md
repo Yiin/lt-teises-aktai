@@ -13,11 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2015-09-01 iki 2017-07-24
+Suvestinė redakcija nuo 2017-07-25 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
- 
- 
  
  
 LIETUVOS RESPUBLIKOS TRANSPORTO LENGVATŲ ĮSTATYMAS
@@ -40,21 +38,55 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Važiavimo keleiviniu transportu lengvatos, numatytos šiame įstatyme, pagal šio įstatymo nuostatas teikiamos važiuojantiems tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais (2 ir 3 klasės sėdimuose vagonuose, kai keleivio kelionės pradinė ir galinė stotys yra Lietuvos Respublikos teritorijoje), reguliaraus susisiekimo laivais ir keltais Lietuvos Respublikos piliečiams, kitų Europos Sąjungos valstybių narių piliečiams ir turintiems leidimą laikinai ar nuolat gyventi Lietuvos Respublikoje užsienio valstybių piliečiams ar asmenims be pilietybės. Šiame įstatyme numatytos lengvatos netaikomos važiuojantiesiems tarptautinio reguliaraus susisiekimo autobusais, lengvaisiais automobiliais taksi ir maršrutiniais taksi.
+2. Važiavimo keleiviniu transportu lengvatos, numatytos šiame įstatyme, pagal šio įstatymo nuostatas teikiamos važiuojantiems tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais (2 ir 3 klasės sėdimuose vagonuose, kai keleivio kelionės pradinė ir galinė stotys yra Lietuvos Respublikos teritorijoje), reguliaraus susisiekimo laivais ir keltais:
+
+
+1) Lietuvos Respublikos piliečiams;
 
 
 
 
-3. Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių piliečiams, studijuojantiems Europos Sąjungos valstybių narių aukštosiose mokyklose, teikiamos tokios pačios važiavimo keleiviniu transportu lengvatos kaip ir Lietuvos aukštųjų mokyklų studentams.
-Straipsnio dalies pakeitimai:
-Nr. XII-1505, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21264
- 
+2) kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiams;
+
+
+
+
+3) Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečių šeimos nariams, turintiems Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę; 
+
+
+
+
+4) užsienio valstybių piliečiams ar asmenims be pilietybės, turintiems leidimą laikinai gyventi Lietuvos Respublikoje; 
+
+
+
+
+5) užsienio valstybių piliečiams ar asmenims be pilietybės, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje. 
+
+
+
+
+
+
+3. Šiame įstatyme numatytos lengvatos netaikomos važiuojantiesiems tarptautinio reguliaraus susisiekimo autobusais, lengvaisiais automobiliais taksi ir maršrutiniais taksi.
+
+
+
+
+4. Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiams ir jų šeimos nariams, studijuojantiems Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose, teikiamos tokios pačios važiavimo keleiviniu transportu lengvatos kaip ir Lietuvos aukštųjų mokyklų studentams.
+
+
+
+
+5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1192, 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
 Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 Nr. XII-900, 2014-05-15, paskelbta TAR 2015-04-21, i. k. 2014-05567
+Straipsnio pakeitimai:
+Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
  
 
 
@@ -63,82 +95,64 @@ Nr. XII-900, 2014-05-15, paskelbta TAR 2015-04-21, i. k. 2014-05567
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Vežėjas - įmonė, įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius bei bagažą.
+1. Europos Sąjungos valstybės narės ir Europos ekonominės erdvės valstybės piliečio šeimos nariai – sutuoktinis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės piliečio, jo sutuoktinio išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją.
 
 
 
 
-2. Tolimojo reguliaraus susisiekimo autobusai - kelių transporto priemonės, vežančios keleivius pagal patvirtintus tvarkaraščius nustatytais maršrutais daugiau kaip per dviejų savivaldybių (neįskaitant miestų savivaldybių) teritorijas.
+2. Keleiviniai traukiniai – Lietuvos vietinio ir tarptautinio susisiekimo traukiniai:
+
+
+1) vietinio susisiekimo traukiniai – paprastieji ir greitieji keleiviniai traukiniai, kursuojantys Lietuvos Respublikos teritorijoje;
 
 
 
 
-3. Vietinio (miesto) reguliaraus susisiekimo autobusai ir troleibusai - kelių transporto priemonės, vežančios keleivius pagal patvirtintus tvarkaraščius miesto maršrutais, kuriuos nustato savivaldybės.
-
-
-
-
-4. Vietinio (priemiestinio) reguliaraus susisiekimo autobusai - kelių transporto priemonės, vežančios keleivius pagal patvirtintus tvarkaraščius nustatytais priemiestiniais maršrutais ne daugiau kaip per dviejų gretimų savivaldybių (neįskaitant miestų savivaldybių) teritorijas.
-
-
-
-
-5. Keleiviniai traukiniai - Lietuvos vietinio ir tarptautinio susisiekimo traukiniai:
-
-
-1) vietinio susisiekimo traukiniai - paprastieji ir greitieji keleiviniai traukiniai, kursuojantys Lietuvos Respublikos teritorijoje;
-
-
-
-
-2) tarptautinio susisiekimo traukiniai - keleiviniai traukiniai, vežantys keleivius į kitas valstybes.
+2) tarptautinio susisiekimo traukiniai – keleiviniai traukiniai, vežantys keleivius į kitas valstybes.
 
 
 
 
 
 
-6. Reguliaraus susisiekimo laivai ir keltai - vidaus vandenų transporto priemonės, vežančios keleivius miesto, priemiestiniais ir tarpmiestiniais maršrutais pagal patvirtintą tvarkaraštį.
+3. Lengvieji automobiliai taksi – motorinės kelių transporto priemonės, skirtos keleiviams ir jų bagažui vežti, turinčios, įskaitant vairuotojo vietą, ne daugiau kaip 7 sėdimas vietas, įrengtą taksometrą bei atpažinimo ženklą – plafoną ir atitinkančios lengviesiems automobiliams taksi keliamus techninius reikalavimus. Techninius reikalavimus lengviesiems automobiliams taksi nustato Lietuvos Respublikos susisiekimo ministerija.
 
 
 
 
-7. Lengvieji automobiliai taksi – motorinės kelių transporto priemonės, skirtos keleiviams ir bagažui vežti, turinčios, įskaitant vairuotojo vietą, ne daugiau kaip 7 sėdimas vietas, įrengtą taksometrą bei atpažinimo ženklą – plafoną ir atitinkančios lengviesiems automobiliams taksi keliamus techninius reikalavimus. Techninius reikalavimus lengviesiems automobiliams taksi nustato Susisiekimo ministerija.
+4. Maršrutiniai taksi – autobusai, turintys, įskaitant vairuotojo vietą, nuo 10 iki 17 sėdimų vietų ir atpažinimo ženklą – plafoną, vežantys keleivius tik sėdimose vietose pagal patvirtintus tvarkaraščius nustatytais vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais, paimantys ir išleidžiantys keleivius stotelėse arba pagal keleivių pageidavimą vietose, kuriose nedraudžia sustoti Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintos Kelių eismo taisyklės.
 
 
 
 
-8. Maršrutiniai taksi – autobusai, turintys, įskaitant vairuotojo vietą, nuo 10 iki 17 sėdimų vietų ir atpažinimo ženklą – plafoną, vežantys keleivius tik sėdimose vietose pagal patvirtintus tvarkaraščius nustatytais vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais, paimantys ir išleidžiantys keleivius stotelėse arba pagal pageidavimą vietose, kuriose nedraudžia sustoti Kelių eismo taisyklės.
+5. Reguliaraus susisiekimo laivai ir keltai – vidaus vandenų transporto priemonės, vežančios keleivius miesto, priemiestiniais ir tarpmiestiniais maršrutais pagal patvirtintą tvarkaraštį.
 
 
 
 
-9. Neteko galios nuo 2008 m. liepos 1 d.
+6. Tolimojo reguliaraus susisiekimo autobusai – kelių transporto priemonės, vežančios keleivius pagal patvirtintus tvarkaraščius nustatytais maršrutais daugiau kaip per dviejų savivaldybių (neįskaitant miestų savivaldybių) teritorijas.
 
 
 
 
-10. Neteko galios nuo 2008 m. liepos 1 d.
+7. Vežėjas – įmonė, įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius ir jų bagažą.
 
 
 
 
-11. Neteko galios nuo 2008 m. liepos 1 d.
+8. Vietinio (miesto) reguliaraus susisiekimo autobusai ir troleibusai – kelių transporto priemonės, vežančios keleivius pagal patvirtintus tvarkaraščius miesto maršrutais, kuriuos nustato savivaldybės administracija.
 
 
 
 
-12. Neteko galios nuo 2008 m. liepos 1 d.
-
-
-
-
-13. Neteko galios nuo 2008 m. liepos 1 d.
+9. Vietinio (priemiestinio) reguliaraus susisiekimo autobusai – kelių transporto priemonės, vežančios keleivius pagal patvirtintus tvarkaraščius nustatytais priemiestiniais maršrutais ne daugiau kaip per dviejų gretimų savivaldybių (neįskaitant miestų savivaldybių) teritorijas.
 
 
 Straipsnio pakeitimai:
 Nr. IX-791, 2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
 Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+Straipsnio pakeitimai:
+Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
  
 
 
@@ -268,7 +282,10 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 
 
-3. Teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo arba vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais bilietą su 50 procentų nuolaida turi aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, taip pat mokiniai, kurie mokosi pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu, pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu.
+3. Teisę įsigyti vienkartinį arba terminuotą vardinį važiavimo tolimojo arba vietinio (priemiestinio) reguliaraus susisiekimo autobusais, keleiviniais traukiniais bilietą su 50 procentų nuolaida turi aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai bei jų šeimos nariai, studijuojantys Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, taip pat mokiniai, kurie mokosi pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu, pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
+ 
 
 
 
@@ -283,7 +300,7 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 
 
-6. Aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, vaikai nuo 7 iki 8 metų, mokiniai, kurie mokosi mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, ir mokyklų, vykdančių specializuoto ugdymo krypties programas, mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
+6. Aukštųjų mokyklų studentai, studijuojantys pagal nuolatinę arba dieninę studijų formą, Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių piliečiai bei jų šeimos nariai, studijuojantys Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių aukštosiose mokyklose pagal nuolatinę arba dieninę studijų formą, vaikai nuo 7 iki 8 metų, mokiniai, kurie mokosi mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, ir mokyklų, vykdančių specializuoto ugdymo krypties programas, mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
 
 
 1) terminuotą vardinį važiavimo bilietą – su 80 procentų nuolaida;
@@ -294,6 +311,9 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 2) vienkartinį važiavimo bilietą – su 50 procentų nuolaida.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
+ 
 
 
 
@@ -523,6 +543,25 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+Lietuvos Respublikos 
+transporto lengvatų įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+
+
+Papildyta priedu:
+Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
+ 
+
+
+
+
+ 
 Pakeitimai:
  
 1.
@@ -614,3 +653,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1505, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21264
 Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 1, 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
+Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 1, 2 ir 5 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
