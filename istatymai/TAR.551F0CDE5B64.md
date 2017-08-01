@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-07-31
+Suvestinė redakcija nuo 2017-08-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -835,7 +835,10 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 
 
-5) platinti kūrinio originalą ar jo kopijas parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat importuojant, eksportuojant; 
+5) platinti kūrinio originalą ar jo kopijas parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę kūrinio originalo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti kūrinio originalą ar jo kopijas nuosavybėn arba valdyti, importuoti ar eksportuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+ 
 
 
 
@@ -2172,7 +2175,10 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 
 
-5) platinti atlikimo įrašą arba jo kopijas juos parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat juos importuojant ir eksportuojant.
+5) platinti atlikimo įrašą arba jo kopijas juos parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę atlikimo įrašo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti atlikimo įrašą ar jo kopijas nuosavybėn arba valdyti, importuoti ar eksportuoti. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+ 
 
 
 
@@ -2241,7 +2247,10 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 
 
-4) platinti fonogramą ar jos kopijas parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat jas importuojant ir eksportuojant.
+4) platinti fonogramą ar jos kopijas parduodant, įskaitant viešą siūlymą jas pirkti ar tikslinę fonogramos ar jos kopijų reklamą, skatinančią vartotojus jas įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti nuosavybėn arba valdyti, importuoti ar eksportuoti. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+ 
 
 
 
@@ -2334,7 +2343,10 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-7) platinti savo transliacijų įrašus ar jų kopijas parduodant ar kitaip perduodant nuosavybėn arba valdyti, taip pat importuojant ir eksportuojant.
+7) platinti savo transliacijų įrašus ar jų kopijas parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę transliacijos įrašo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat importuoti ar eksportuoti. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+ 
 
 
 
@@ -2372,7 +2384,10 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 
 
-3) platinti audiovizualinio kūrinio (filmo) įrašą ar jo kopijas parduodant, nuomojant, teikiant panaudai ar kitaip perduodant nuosavybėn arba valdyti, taip pat juos importuojant ir eksportuojant;
+3) platinti audiovizualinio kūrinio (filmo) įrašą ar jo kopijas parduodant, įskaitant viešą siūlymą juos pirkti ar tikslinę audiovizualinio kūrinio (filmo) įrašo ar jo kopijų reklamą, skatinančią vartotojus juos įsigyti, taip pat nuomoti, teikti panaudai ar kitaip perduoti nuosavybėn arba valdyti, importuoti ar eksportuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+ 
 
 
 
@@ -2656,7 +2671,10 @@ DUOMENŲ BAZIŲ GAMINTOJŲ TEISĖS
 
 
 
-2) bet kokiu būdu padaryti viešai prieinamą visą duomenų bazės turinį ar esminę jo dalį platinant duomenų bazės kopijas, jas nuomojant, perduodant visą duomenų bazės turinį ar esminę jo dalį kompiuterių tinklais (internete) ar kitais perdavimo būdais.
+2) bet kokiu būdu padaryti viešai prieinamą visą duomenų bazės turinį ar esminę jo dalį kompiuterių tinklais (internete) ar kitais perdavimo būdais, taip pat platinti duomenų bazės kopijas, jas nuomojant, parduodant, įskaitant viešą siūlymą jas pirkti ar tikslinę duomenų bazės kopijų reklamą, skatinančią vartotojus jas įsigyti. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+ 
 
 
 
@@ -5599,3 +5617,8 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 11, 15, 16, 17, 20, 20-1, 40, 53, 55, 58, 59-2, 75, 77, 86, 95, 96 straipsnių, V skyriaus ir 3 priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 15, 53, 54, 56, 57 ir 61 straipsnių pakeitimo įstatymas
