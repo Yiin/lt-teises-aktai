@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-31
+Suvestinė redakcija nuo 2017-08-01 iki 2017-12-13
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -196,7 +196,10 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas
 
 
-1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys narystės pagrindu renkamąsias ar skiriamąsias pareigas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šioje dalyje ir šio straipsnio 2, 3, 4 ir 5 dalyse bei 6 straipsnio 1, 2 ir 3 dalyse nurodyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti Gyventojų pajamų mokesčio įstatyme (toliau – nuolatiniai Lietuvos gyventojai), gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta Gyventojų pajamų mokesčio įstatyme (toliau – Lietuvos vienetas), draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys narystės pagrindu renkamąsias ar skiriamąsias pareigas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas pagal autorines sutartis, iš sporto veiklos ar atlikėjo veiklos, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
+ 
 
 
 
@@ -473,7 +476,10 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-2. Šio įstatymo 5 straipsnio 1 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos nuo apskaičiuoto atlygio pagal sudarytas sutartis.
+2. Meno kūrėjo statusą turinčių darbingo amžiaus asmenų ir šio įstatymo 5 straipsnio 1 dalyje nurodytų asmenų, gaunančių pajamas pagal autorines sutartis, iš sporto ar atlikėjo veiklos, socialinio draudimo įmokos skaičiuojamos nuo apskaičiuoto 50 procentų atlygio pagal sudarytas sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
+ 
 
 
 
@@ -648,7 +654,10 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-23) kolektyvinio administravimo būdu autoriams ir gretutinių teisių subjektams mokamo atlyginimo už kūrinių ir gretutinių teisių objektų panaudojimą pagal suteiktas licencijas panaudoti kūrinius ar gretutinių teisių objektus, taip pat nuo autoriams ir gretutinių teisių subjektams mokamo kompensacinio atlyginimo už knygų panaudą bibliotekose, kūrinių atgaminimą reprografijos būdu ir kūrinių bei gretutinių teisių objektų atgaminimą asmeniniais tikslais, pajamų, gautų už perduotą ar pagal licencinę sutartį suteiktą teisę naudotis pramoninės nuosavybės objektu;
+23) autoriams ir gretutinių teisių subjektams mokamo atlyginimo už kūrinių ir gretutinių teisių objektų panaudojimą pagal suteiktas licencijas panaudoti kūrinius ar gretutinių teisių objektus, taip pat nuo autoriams ir gretutinių teisių subjektams mokamo kompensacinio atlyginimo už knygų panaudą bibliotekose, kūrinių atgaminimą reprografijos būdu ir kūrinių bei gretutinių teisių objektų atgaminimą asmeniniais tikslais, pajamų, gautų už perduotą ar pagal licencinę sutartį suteiktą teisę naudotis pramoninės nuosavybės objektu;
+Straipsnio punkto pakeitimai:
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
+ 
 
 
 
@@ -2762,3 +2771,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-415, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10023
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo įstatymo Nr. XII-2508 1 ir 2 straipsnių pakeitimo įstatymo Nr. XIII-139 6 ir 12 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 10 ir 11 straipsnių pakeitimo įstatymas
