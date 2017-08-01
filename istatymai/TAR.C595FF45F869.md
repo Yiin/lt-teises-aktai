@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-07-31
+Suvestinė redakcija nuo 2017-08-01 iki 2017-12-29
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -3823,7 +3823,10 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 
 
 
-2) administravimui ir ūkiui, susijusiems su moksliniais tyrimais, eksperimentine plėtra ir meno veikla;
+2) administravimui ir ūkiui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
+ 
 
 
 
@@ -3845,12 +3848,18 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 
 
 
-3. Valstybės biudžeto lėšos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti ir lėšos su moksliniais tyrimais, eksperimentine plėtra ir meno veikla susijusiam administravimui ir ūkiui, mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka pagal mokslo ir studijų institucijų mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos vertinimo rezultatus bei finansines galimybes.
+3. Valstybės biudžeto lėšos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka pagal mokslo ir studijų institucijų mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos vertinimo rezultatus ir finansines galimybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
+ 
 
 
 
 
-4. Valstybės biudžeto lėšos sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka. 
+4. Valstybės biudžeto lėšos administravimui ir ūkiui skiriamos pagal vykdomus mokslinius tyrimus, eksperimentinę plėtrą, meno veiklą ir studijas. Valstybės biudžeto lėšos administravimui ir ūkiui bei sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
+ 
 
 
 Straipsnio pakeitimai:
@@ -4258,7 +4267,10 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-4) ūkiui ir administravimui, susijusiems su studijomis.
+4) neteko galios.
+Straipsnio punkto pakeitimai:
+Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -4689,3 +4701,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 12 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75 ir 83 straipsnių pakeitimo įstatymas
