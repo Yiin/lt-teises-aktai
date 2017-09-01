@@ -13,17 +13,20 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7B9B89F840E2"
 
 # Lietuvos Respublikos lobistinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1644, i. k. 1001010ISTAIII-1749
  
-Nauja redakcija nuo 2003-05-01:
-Nr. IX-1385, 2003-03-20, Žin. 2003, Nr. 35-1461 (2003-04-11), i. k. 1031010ISTA0IX-1385
+Nauja redakcija nuo 2017-09-01:
+Nr. XIII-453, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11067
  
-LIETUVOS RESPUBLIKOS LOBISTINĖS VEIKLOS  ĮSTATYMAS
+LIETUVOS RESPUBLIKOS 
+LOBISTINĖS VEIKLOS 
+ĮSTATYMAS 
  
 2000 m. birželio 27 d. Nr. VIII-1749
 Vilnius
+ 
  
 
 
@@ -32,10 +35,20 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis ir uždaviniai
+1 straipsnis. Įstatymo tikslas ir paskirtis
 
 
-Šis Įstatymas reglamentuoja lobistinę veiklą, jos kontrolę ir atsakomybę už šio Įstatymo pažeidimus. Įstatymu siekiama užtikrinti lobistinės veiklos viešumą ir skaidrumą, užkirsti kelią nelegaliai lobistinei veiklai.
+1. Šiuo įstatymu siekiama užtikrinti lobistinės veiklos viešumą ir skaidrumą, užkirsti kelią neteisėtai lobistinei veiklai. 
+
+
+
+
+2. Šis įstatymas reglamentuoja lobistinę veiklą, jos priežiūrą ir atsakomybę už šio įstatymo pažeidimus. 
+
+
+
+
+3. Šio įstatymo nuostatos netaikomos nevyriausybinėms organizacijoms, kaip jos apibrėžtos Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme.
  
 
 
@@ -43,40 +56,25 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės Įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Asmuo – fizinis ar juridinis asmuo.
-
-
-
-
-2. Lobistas – fizinis ar juridinis asmuo, šio Įstatymo nustatyta tvarka įrašytas į lobistų sąrašą.
+1. Asmenys, kuriems lobistine veikla siekiama daryti įtaką – valstybės politikai, valstybės pareigūnai, valstybės tarnautojai ir kiti asmenys, kurie pagal teisės aktų nustatyta tvarka jiems suteiktas pareigines funkcijas dalyvauja rengiant, svarstant ir priimant teisės aktus, administracinius sprendimus.
 
 
 
 
-3. Lobistinė veikla – fizinio ar juridinio asmens atlygintini ar neatlygintini veiksmai, kuriais siekiama daryti įtaką, kad lobistinės veiklos užsakovo interesais būtų keičiami, papildomi ar pripažįstami netekusiais galios teisės aktai, priimami ar nepriimami nauji teisės aktai.
+2. Lobistas – fizinis asmuo, vykdantis lobistinę veiklą.
 
 
 
 
-4. Lobistinės veiklos užsakovas – fizinis ar juridinis asmuo (išskyrus šio Įstatymo 8 straipsnyje nurodytus asmenis), kuris sudarė su lobistu lobistinės veiklos sutartį pagal Lietuvos Respublikos civilinio kodekso ar kitų Lietuvos Respublikos teisės aktų reikalavimus. 
+3. Lobistinė veikla – fizinio asmens veiksmai, kuriais siekiama daryti įtaką šio straipsnio 1 dalyje nurodytiems asmenims, kad lobistinės veiklos užsakovo interesais būtų priimami arba nepriimami teisės aktai, administraciniai sprendimai.
 
 
 
 
-5. Lobisto ataskaita – lobisto šio Įstatymo nustatyta tvarka privalomai teikiamas oficialus pranešimas apie lobistinę veiklą, pajamas ir išlaidas.
-
-
-
-
-6. Lobisto išlaidos – lobisto išlaidos, turėtos dėl lobistinės veiklos.
-
-
-
-
-7. Lobisto pajamos – teisėtas atlyginimas, gaunamas iš lobistinės veiklos užsakovo už lobistinę veiklą.
+4. Lobistinės veiklos užsakovas – fizinis ar juridinis asmuo arba kita organizacija ar jos padalinys, kurie sudarė rašytinę sutartį su lobistu dėl lobistinės veiklos vykdymo, arba juridinis asmuo, kuris savo dalyviui, valdymo organo nariui ar darbuotojui pavedė arba nurodė vykdyti lobistinę veiklą.
  
 
 
@@ -84,7 +82,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Teisės būti lobistais neturintys asmenys
+3 straipsnis. Teisės būti lobistais neturintys asmenys 
 
 
 1. Lobistu neturi teisės būti fizinis asmuo, kuris yra:
@@ -95,39 +93,24 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) valstybės politikas, valstybės pareigūnas, valstybės tarnautojas ar teisėjas;
+2) šio įstatymo 2 straipsnio 1 dalyje nurodytas asmuo, kuriam lobistine veikla siekiama daryti įtaką;
 
 
 
 
-3) buvęs valstybės politikas, valstybės pareigūnas, valstybės tarnautojas ar teisėjas, jeigu iki prašymo įrašyti į lobistų sąrašą pateikimo dienos nesuėjo vieneri metai po to, kai pasibaigė jo kadencija ar įgaliojimai arba jis buvo atleistas iš šių pareigų;
+3) įstatymų nustatyta tvarka pripažintas kaltu dėl korupcinio pobūdžio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą arba įstatymų nustatyta tvarka pripažintas kaltu dėl korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo vieni metai;
 
 
 
 
-4) teistas už tyčinį nusikaltimą, jei teistumas neišnykęs ar nepanaikintas.
-
-
-
-
-
-
-2. Lobistu neturi teisės būti juridinis asmuo:
-
-
-1) jeigu vykdysiantis ar vykdantis lobistinę veiklą juridinio asmens darbuotojas atitinka bent vieną šio straipsnio 1 dalyje nustatytų sąlygų; 
-
-
-
-
-2) kuris yra valstybės ar savivaldybių institucija.
+4) administracine nuobauda baustas už šio įstatymo pažeidimą ir nuo šios nuobaudos įvykdymo dienos nepraėjo vieni metai.
 
 
 
 
 
 
-3. Lobistais neturi teisės būti fiziniai ar juridiniai asmenys, jei yra nepasibaigęs šio Įstatymo 10 straipsnio 8 dalyje nurodytas terminas.
+2. Lobistu neturi teisės būti asmuo, kurio lobistinė veikla nutraukta šio įstatymo 11 straipsnio 3 dalies 2, 3 ir 4 punktuose nurodytais atvejais, ir nuo sprendimo nutraukti lobistinę veiklą priėmimo dienos nepraėjo vieni metai.
  
 
 
@@ -141,67 +124,47 @@ BENDROSIOS NUOSTATOS
 1. Lobistas turi teisę:
 
 
-1) teisės aktų nustatyta tvarka dalyvauti rengiant ir rengti teisės aktų projektus, teikti pasiūlymus ir paaiškinimus teisės aktų projektų rengimo klausimais;
+1) teisės aktų nustatyta tvarka dalyvauti rengiant ir rengti teisės aktų projektus, teikti pasiūlymus ir paaiškinimus dėl teisės aktų projektų, administracinių sprendimų projektų turinio ir rengimo;
 
 
 
 
-2) savo iniciatyva atlikti teisės aktų ar teisės aktų projektų ekspertizę, teikti išvadas ir projektų komentarus lobistinės veiklos užsakovams;
+2) savo iniciatyva atlikti teisės aktų, teisės aktų projektų, administracinių sprendimų ar jų projektų vertinimą, teikti išvadas ir komentarus dėl teisės aktų projektų lobistinės veiklos užsakovams; 
 
 
 
 
-3) aiškinti visuomenei, įtikinėti valstybės ir savivaldybių institucijas ar įstaigas, kad tikslinga priimti tam tikrą teisės aktą arba jo nepriimti, pakeisti ar papildyti galiojantį teisės aktą arba pripažinti jį netekusiu galios;
+3) aiškinti visuomenei, įtikinėti asmenis, kuriems lobistine veikla siekiama daryti įtaką, kad yra tikslinga priimti tam tikrą teisės aktą ar administracinį sprendimą arba jo nepriimti;
 
 
 
 
-4) supažindinti visuomenę, įmones, įstaigas ar organizacijas su Seime, Vyriausybėje arba kitose valstybės ar savivaldybių institucijose rengiamais teisės aktų projektais;
+4) susitaręs su asmeniu, kuriam lobistine veikla siekiama daryti įtaką, dalyvauti rengiamuose susitikimuose, posėdžiuose, pasitarimuose dėl teisės akto ar administracinio sprendimo projekto;
 
 
 
 
-5) per visuomenės informavimo priemones daryti pranešimus bei dalyvauti masiniuose renginiuose;
+5) siekdamas vykdyti lobistinę veiklą, gauti iš valstybės ir savivaldybių institucijų ir įstaigų leidimus patekti į jų patalpas;
 
 
 
 
-6) rinkti duomenis bei informaciją apie teisės aktų leidybą ir teikti juos lobistinės veiklos užsakovams;
+6) rinkti duomenis ir informaciją apie teisėkūros procedūras ir teikti juos lobistinės veiklos užsakovams;
 
 
 
 
-7) siūlyti teisės aktų leidėjams inicijuoti teisės aktų pakeitimus; 
+7) siūlyti asmenims, kuriems lobistine veikla siekiama daryti įtaką, susitikti su visuomene, lobistinės veiklos užsakovais ir jų atstovais;
 
 
 
 
-8) organizuoti teisės aktų leidėjų susitikimus su lobistinės veiklos užsakovo atstovais;
+8) organizuoti visuomenės apklausą dėl teisės akto ar administracinio sprendimo projekto priėmimo ar įgyvendinimo;
 
 
 
 
-9) organizuoti visuomenės apklausą dėl teisės akto projekto priėmimo ar teisės akto įgyvendinimo;
-
-
-
-
-10) organizuoti reprezentacinius ir kitokius renginius teisės aktų leidybos klausimais;
-
-
-
-
-11) organizuoti valstybės politikų, valstybės pareigūnų bei valstybės tarnautojų susitikimus su visuomene teisės aktų leidybos klausimais;
-
-
-
-
-12) iš valstybės ar savivaldybių institucijų bei įstaigų gauti teisės aktų projektų kopijas ir kitą informaciją, jei tai neprieštarauja Lietuvos Respublikos įstatymams;
-
-
-
-
-13) įstatymų nustatyta tvarka įgalioti kitą asmenį lobisto vardu pateikti lobistinės veiklos ataskaitą.
+9) iš valstybės ar savivaldybių institucijų ir įstaigų gauti teisės aktų ir administracinių sprendimų projektų kopijas ir kitą informaciją, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams ir jeigu lobisto prašoma informacija nėra viešai paskelbta kibernetinėje erdvėje ar visuomenės informavimo priemonėse. 
 
 
 
@@ -211,15 +174,30 @@ BENDROSIOS NUOSTATOS
 2. Lobistas privalo:
 
 
-1) ne vėliau kaip per vieną darbo dieną nuo lobisto (ar lobistinę veiklą vykdančio asmens) išrinkimo valstybės politiku ar nuo jo paskyrimo valstybės pareigūnu, valstybės tarnautoju ar teisėju dienos nutraukti lobistinę veiklą ir apie tai nedelsdamas raštu pareikšti Vyriausiajai tarnybinės etikos komisijai;
+1) prisistatyti asmeniui, kuriam lobistine veikla siekiama daryti įtaką, pateikti lobisto pažymėjimą, išduotą Vyriausiosios tarnybinės etikos komisijos, nurodyti lobistinės veiklos užsakovą ir norimą priimti arba nepriimti teisės akto ar administracinio sprendimo projektą, prireikus susitarti dėl susitikimo vietos ir laiko; 
 
 
 
 
-2) laikytis šio Įstatymo, kitų Lietuvos Respublikos teisės aktų ir Lobistų etikos kodekso reikalavimų.
+2) šio įstatymo nustatyta tvarka teikti lobistinės veiklos deklaracijas;
+
+
+
+
+3) ne vėliau kaip per vieną darbo dieną nuo lobisto išrinkimo ar paskyrimo į šio įstatymo 2 straipsnio 1 dalyje nustatytas pareigas dienos apie tai nedelsdamas raštu pranešti Vyriausiajai tarnybinės etikos komisijai;
+
+
+
+
+4) laikytis šio įstatymo, kitų Lietuvos Respublikos teisės aktų ir Lobistų etikos kodekso reikalavimų.
+
+
+
+
+
+
+3. Lobistui draudžiama teikti asmeniui, kuriam lobistine veikla siekiama daryti įtaką, dovanas arba žadėti atlygį už priimtą arba nepriimtą teisės aktą ar administracinį sprendimą.
  
-
-
 
 
 
@@ -229,12 +207,12 @@ BENDROSIOS NUOSTATOS
 5 straipsnis. Kitų asmenų pareigos
 
 
-1. Valstybės ar savivaldybių institucijos privalo sudaryti sąlygas teisėtiems lobistų veiksmams.
+1. Valstybės ir savivaldybių institucijos, įstaigos ir asmenys, kuriems lobistine veikla siekiama daryti įtaką, privalo sudaryti sąlygas lobistams atlikti šio įstatymo 4 straipsnio 1 dalyje nustatytus teisėtus veiksmus, nevaržyti teisėtos lobistų veiklos ir leisti jiems nekliudomai įgyvendinti lobistinės veiklos užsakovų teisėtus interesus, taip pat sudaryti sąlygas Vyriausiajai tarnybinės etikos komisijai įgyvendinti įstatymuose nustatytas lobistinės veiklos priežiūros funkcijas. 
 
 
 
 
-2. Valstybės politikai, valstybės pareigūnai ar valstybės tarnautojai privalo nevaržyti teisėtos lobistų veiklos ir leisti jiems nekliudomai įgyvendinti lobistinės veiklos užsakovų teisėtus interesus.
+2. Asmeniui, kuriam lobistine veikla siekiama daryti įtaką, draudžiama iš lobistų priimti dovanas ar kitokį atlygį.
  
 
 
@@ -248,42 +226,37 @@ BENDROSIOS NUOSTATOS
 Lobistinė veikla yra neteisėta, jeigu:
 
 
-1) ją vykdo į lobistų sąrašą neįrašytas asmuo arba teisės būti lobistu neturinis asmuo;
+1) ją vykdo į lobistų sąrašą neįrašytas asmuo;
 
 
 
 
-2) lobistas ją vykdo po to, kai jo lobistinė veikla šio Įstatymo nustatyta tvarka buvo sustabdyta;
+2) asmuo ją vykdo po to, kai jo lobistinė veikla šio įstatymo nustatyta tvarka buvo sustabdyta ir apie sustabdymą jis buvo informuotas;
 
 
 
 
-3) buvęs lobistas ją vykdo po to, kai jo lobistinė veikla šio Įstatymo nustatyta tvarka buvo nutraukta;
+3) asmuo ją vykdo po to, kai jo lobistinė veikla šio įstatymo nustatyta tvarka buvo nutraukta ir apie nutraukimą jis buvo informuotas;
 
 
 
 
-4) valstybės politikai, valstybės pareigūnai ar valstybės tarnautojai tyčia klaidinami ar apgaudinėjami nurodant faktus ar aplinkybes, kurie gali lemti sprendimą dėl teisės akto pakeitimo, papildymo ar pripažinimo netekusiu galios ar dėl naujo teisės akto priėmimo;
+4) lobistas klaidina ar apgaudinėja asmenį, kuriam lobistine veikla siekiama daryti įtaką, pateikdamas tikrovės neatitinkančius faktus ar aplinkybes dėl teisės akto ar administracinio sprendimo priėmimo arba nepriėmimo;
 
 
 
 
-5) ja siekiama daryti įtaką, kad būtų priimtas ar nepriimtas, pakeistas, papildytas ar pripažintas netekusiu galios teisės aktas, kuris tiesiogiai susijęs su lobisto išrinkimu valstybės politiku ar skyrimu valstybės pareigūnu arba į valstybės tarnautojo ar teisėjo pareigas;
+5) ja siekiama daryti įtaką, kad būtų priimtas arba nepriimtas teisės aktas, administracinis sprendimas, kuris tiesiogiai susijęs su lobisto išrinkimu valstybės politiku ar skyrimu į valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar teisėjo pareigas;
 
 
 
 
-6) veikiama nesamo lobistinės veiklos užsakovo vardu;
+6) veikiama nesudarius lobistinės veiklos sutarties, be juridinio asmens pavedimo ar nesamo lobistinės veiklos užsakovo vardu;
 
 
 
 
-7) lobistas tiesiogiai ar netiesiogiai skelbia ar pareiškia, galįs turėti įtakos teisės aktų leidybai, valstybės politikui, valstybės pareigūnui ar valstybės tarnautojui;
-
-
-
-
-8) lobistas vienu metu atstovauja priešingus interesus turintiems lobistinės veiklos užsakovams.
+7) lobistas vienu metu atstovauja priešingus interesus turintiems lobistinės veiklos užsakovams.
  
 
 
@@ -296,35 +269,40 @@ Lobistinė veikla yra neteisėta, jeigu:
 7 straipsnis. Veikla, kuri nelaikoma lobistine
 
 
-Lobistine veikla nelaikoma: 
+Lobistine veikla nelaikoma:
 
 
-1) visuomenės informavimo priemonių savininkų, leidėjų ar jų darbuotojų veikla ar darbas, susiję su informacija apie teisės aktus bei jų projektus: viso ar dalies teksto paskelbimas, apžvalga, komentarai. Ši nuostata netaikoma, kai visuomenės informavimo priemonių savininkai, leidėjai ar jų darbuotojai gauna atlyginimą už lobistinę veiklą;
-
-
-
-
-2) asmenų veikla, kai jie valstybės ir savivaldybių institucijų ar įstaigų kvietimu atlygintinai ar neatlygintinai kaip ekspertai ar specialistai dalyvauja rengiant, svarstant ar aiškinant teisės aktų projektus; 
+1) viešosios informacijos rengėjų, skleidėjų, jų dalyvių, žurnalistų veikla renkant, rengiant, skelbiant ir skleidžiant viešąją informaciją pagal Lietuvos Respublikos visuomenės informavimo įstatymą;
 
 
 
 
-3) valstybės politikų, valstybės pareigūnų ar valstybės tarnautojų veiksmai inicijuojant, rengiant, svarstant, priimant bei aiškinant įstatymų ar kitų teisės aktų projektus, atliekami pagal teisės aktų jiems suteiktas pareigines teises;
+2) asmenų veikla, kai jie valstybės ir savivaldybių institucijų ar įstaigų iniciatyva ir kvietimu atlygintinai ar neatlygintinai kaip ekspertai ar specialistai dalyvauja susitikimuose, posėdžiuose, pasitarimuose teisės aktų projektams rengti pagal Lietuvos Respublikos teisėkūros pagrindų įstatymą;
 
 
 
 
-4) pelno nesiekiančių organizacijų veikla, kuria siekiama savo narių bendrais interesais daryti įtaką, kad būtų pakeisti, papildyti ar pripažinti netekusiais galios teisės aktai, priimti ar nepriimti nauji teisės aktai;
+3) valstybės politikų, valstybės pareigūnų ar valstybės tarnautojų veiksmai inicijuojant, rengiant, svarstant teisės aktų projektus ir priimant teisės aktus, atliekami pagal teisės aktų nustatyta tvarka jiems suteiktas pareigines funkcijas, ir kitų asmenų, kurie pagal teisės aktų nustatyta tvarka jiems suteiktas pareigines funkcijas dalyvauja rengiant, svarstant ir priimant teisės aktus ar administracinius sprendimus, veikla;
 
 
 
 
-5) mokslininkų (pedagogų) veikla, išskyrus atvejus, kai jie veikia lobistinės veiklos užsakovo interesais;
+4) konsultavimosi su visuomene metu gauti pasiūlymai ir vertinimai pagal Lietuvos Respublikos teisėkūros pagrindų įstatymą;
 
 
 
 
-6) fizinio asmens pareikšta nuomonė dėl teisės aktų pakeitimo, papildymo, pripažinimo netekusiais galios, naujų teisės aktų priėmimo ar nepriėmimo, išskyrus atvejus, kuriais tas fizinis asmuo veikia lobistinės veiklos užsakovo interesais.
+5) peticijos, referendumo, piliečių įstatymų leidybos iniciatyvos teisės įgyvendinimas atitinkamai pagal Lietuvos Respublikos peticijų įstatymą, Lietuvos Respublikos referendumo įstatymą ir Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymą;
+
+
+
+
+6) fizinio asmens pareikšta nuomonė dėl teisėkūros;
+
+
+
+
+7) kitos specialiųjų įstatymų arba įstatų nustatyta tvarka vykdomos veiklos, kurios tenkina viešąjį interesą.
  
 
 
@@ -334,31 +312,32 @@ Lobistine veikla nelaikoma:
 
 
 
-8 straipsnis. Asmuo, kuriam draudžiama būti lobistinės veiklos užsakovu
+8 straipsnis. Asmenys, kuriems draudžiama būti lobistinės veiklos užsakovu
 
 
 Būti lobistinės veiklos užsakovu draudžiama:
 
 
-1) valstybės politikui;
+1) valstybės politikui, valstybės pareigūnui, valstybės tarnautojui ir kitiems asmenims, kurie pagal teisės aktų nustatyta tvarka jiems suteiktas pareigines funkcijas dalyvauja rengiant, svarstant ir priimant teisės aktus, administracinius sprendimus;
 
 
 
 
-2) valstybės pareigūnui, valstybės tarnautojui ar teisėjui;
-
-
-
-
-3) valstybės ir savivaldybių institucijoms ar įstaigoms;
-
-
-
-
-4) valstybės ar savivaldybių įmonėms.
+2) viešojo administravimo subjektams, kaip jie apibrėžti Lietuvos Respublikos viešojo administravimo įstatyme.
  
 
 
+
+
+
+
+
+
+9 straipsnis. Kiti lobistinės veiklos apribojimai
+
+
+Draudžiama lobistinę veiklą finansuoti iš valstybės ar savivaldybių biudžetų, valstybės ir savivaldybių įsteigtų pinigų fondų. 
+ 
 
 
 
@@ -368,14 +347,14 @@ Būti lobistinės veiklos užsakovu draudžiama:
 
 
 ANTRASIS SKIRSNIS
-LOBISTŲ SĄRAŠAS
+LOBISTINĖS VEIKLOS PRADŽIA, SUSTABDYMAS, ATNAUJINIMAS, NUTRAUKIMAS IR PABAIGA
  
 
 
-9 straipsnis. Asmens įrašymas į lobistų sąrašą
+10 straipsnis. Asmens įrašymas į lobistų sąrašą
 
 
-1. Asmuo, norintis vykdyti lobistinę veiklą, pateikia Vyriausiajai tarnybinės etikos komisijai nustatytos formos dokumentus: prašymą įrašyti į lobistų sąrašą, lobisto anketą ir pasižadėjimą.
+1. Lobistinę veiklą turi teisę vykdyti tik į lobistų sąrašą įrašytas ir valstybės rinkliavos už įrašymą į lobistų sąrašą sumokėjimą patvirtinantį dokumentą pateikęs asmuo. Asmuo, norintis būti įrašytas į lobistų sąrašą, pateikia Vyriausiajai tarnybinės etikos komisijai jos nustatytos formos prašymą įrašyti į lobistų sąrašą. Jeigu lobistinę veiklą ketina vykdyti fizinis asmuo, kuriam vykdyti lobistinę veiklą kaip savo dalyviui, valdymo organo nariui ar darbuotojui pavedė arba nurodė vykdyti juridinis asmuo, prašymą Vyriausiajai tarnybinės etikos komisijai pateikia juridinis asmuo.
 
 
 
@@ -383,59 +362,64 @@ LOBISTŲ SĄRAŠAS
 2. Prašyme įrašyti į lobistų sąrašą nurodoma:
 
 
-1) vardas ir pavardė, asmens kodas, gyvenamoji vieta, darbo vieta per paskutinius vienerius metus, – jei prašymą pateikia fizinis asmuo;
+1) vardas ir pavardė, asmens kodas, gyvenamoji vieta, darbo vieta ir pareigos per paskutinius vienus metus, jeigu prašymą pateikia fizinis asmuo;
 
 
 
 
-2) pavadinimas, registro kodas, buveinės adresas, – jei prašymą pateikia juridinis asmuo;
+2) pavadinimas, juridinio asmens kodas, jeigu prašymą pateikia juridinis asmuo;
 
 
 
 
-3) duomenys apie juridinio asmens darbuotojus (vardas, pavardė, asmens kodas), kurie vykdys lobistinę veiklą, – jei prašymą pateikia juridinis asmuo.
-
-
-
-
-
-
-3. Šio straipsnio 1 dalyje nurodytų dokumentų formas nustato Vyriausioji tarnybinės etikos komisija. Vyriausioji tarnybinės etikos komisija turi teisę pareikalauti iš asmenų, norinčių vykdyti lobistinę veiklą, taip pat iš valstybės ir savivaldybių institucijų ar įstaigų papildomos informacijos ir dokumentų, kurie reikalingi sprendimui dėl asmens įrašymo į lobistų sąrašą priimti. 
-
-
-
-
-4. Lobistų skaičius neribojamas.
-
-
-
-
-5. Vyriausioji tarnybinės etikos komisija per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų pateikimo dienos šiuos dokumentus išnagrinėja ir priima sprendimą dėl asmens įrašymo į lobistų sąrašą. Jei reikia papildomos informacijos, klausimo nagrinėjimo terminas skaičiuojamas nuo visos reikiamos informacijos gavimo dienos.
-
-
-
-
-6. Vyriausioji tarnybinės etikos komisija atsisako įrašyti asmenį į lobistų sąrašą tik tuo atveju, kai dokumentus pateikęs asmuo:
-
-
-1) pagal šio Įstatymo 3 straipsnį neturi teisės būti lobistu;
-
-
-
-
-2) pateikė neteisingus ar neišsamius šiame straipsnyje nurodytus duomenis ir papildomą informaciją;
-
-
-
-
-3) buvo administracine tvarka baustas už Lobistinės veiklos įstatymo pažeidimą ir nuo šios nuobaudos paskyrimo nepraėjo vieneri metai.
+3) juridinio asmens dalyvių, valdymo organų narių ir darbuotojų, kurie vykdys lobistinę veiklą, vardas, pavardė, asmens kodas, darbo vieta ir pareigos per paskutinius vienus metus, įgaliojimų vykdyti lobistinę veiklą laikotarpis, jeigu prašymą pateikia juridinis asmuo.
 
 
 
 
 
 
-7. Vyriausioji tarnybinės etikos komisija apie priimtą sprendimą įrašyti ar atsisakyti įrašyti asmenį į lobistų sąrašą praneša jam raštu per 5 darbo dienas nuo sprendimo priėmimo. Asmuo, gavęs pranešimą apie sprendimą įrašyti jį į lobistų sąrašą, per 1 mėnesį nuo pranešimo gavimo dienos turi sumokėti valstybės rinkliavą ir pateikti Vyriausiajai tarnybinės etikos komisijai jos sumokėjimą patvirtinantį dokumentą. Asmeniui, nustatytu laiku pateikusiam valstybės rinkliavos sumokėjimą patvirtinantį dokumentą, išduodamas lobisto pažymėjimas. Lobisto pažymėjimo formą nustato Vyriausioji tarnybinės etikos komisija. Jeigu asmuo nustatytu laiku nepateikia valstybės rinkliavos sumokėjimą patvirtinančio dokumento, Vyriausioji tarnybinės etikos komisija sprendimą įrašyti asmenį į lobistų sąrašą pripažįsta netekusiu galios ir priima sprendimą atsisakyti įrašyti asmenį į lobistų sąrašą.
+3. Vyriausioji tarnybinės etikos komisija gali pareikalauti iš asmenų, pateikusių prašymą įrašyti į lobistų sąrašą, taip pat iš valstybės ir savivaldybių institucijų ar įstaigų papildomų dokumentų ar informacijos, pagrindžiančių, kad nėra šio įstatymo 3 straipsnyje nurodytų pagrindų, kuriems esant asmuo negalėtų būti įrašytas į lobistų sąrašą.
+
+
+
+
+4. Vyriausioji tarnybinės etikos komisija per penkias darbo dienas nuo šio straipsnio 1 dalyje nurodyto prašymo pateikimo dienos jį išnagrinėja ir priima sprendimą dėl asmens įrašymo į lobistų sąrašą. Jeigu reikia papildomos informacijos ar dokumentų, klausimo nagrinėjimo terminas skaičiuojamas nuo visos reikiamos informacijos ar dokumentų gavimo dienos.
+
+
+
+
+5. Vyriausioji tarnybinės etikos komisija atsisako įrašyti asmenį į lobistų sąrašą tik tuo atveju, kai prašymą pateikęs asmuo:
+
+
+1) pagal šio įstatymo 3 straipsnį neturi teisės būti lobistu;
+
+
+
+
+2) pateikė neteisingus ar neišsamius šiame straipsnyje nurodytus duomenis ir papildomą informaciją.
+
+
+
+
+
+
+6. Vyriausioji tarnybinės etikos komisija apie priimtą sprendimą įrašyti ar atsisakyti įrašyti asmenį į lobistų sąrašą prašymą pateikusiam asmeniui praneša raštu per tris darbo dienas nuo sprendimo priėmimo dienos. 
+
+
+
+
+7. Asmuo, gavęs pranešimą apie sprendimą įrašyti jį į lobistų sąrašą, per vieną mėnesį nuo pranešimo gavimo dienos turi sumokėti valstybės rinkliavą ir pateikti Vyriausiajai tarnybinės etikos komisijai jos sumokėjimą patvirtinantį dokumentą. Jeigu prašymą įtraukti fizinį asmenį į lobistų sąrašą pateikia juridinis asmuo, jis taip pat turi sumokėti valstybės rinkliavą. Asmeniui, nustatytu laiku pateikusiam valstybės rinkliavos sumokėjimą patvirtinantį dokumentą, išduodamas lobisto pažymėjimas.
+
+
+
+
+8. Lobisto pažymėjimo formą nustato Vyriausioji tarnybinės etikos komisija. 
+
+
+
+
+9. Jeigu asmuo nustatytu laiku nepateikia valstybės rinkliavos sumokėjimą patvirtinančio dokumento, Vyriausioji tarnybinės etikos komisija sprendimą įrašyti asmenį į lobistų sąrašą pripažįsta netekusiu galios.
  
 
 
@@ -443,38 +427,38 @@ LOBISTŲ SĄRAŠAS
 
 
 
-10 straipsnis. Lobistinės veiklos sustabdymas, atnaujinimas, nutraukimas ir pabaiga 
+11 straipsnis. Lobistinės veiklos sustabdymas, nutraukimas, atnaujinimas ir pabaiga 
 
 
-1. Lobistinė veikla sustabdoma, jei:
+1. Lobistinė veikla Vyriausiosios tarnybinės etikos komisijos sprendimu sustabdoma, jeigu:
 
 
-1) lobistas pats ar per savo įgaliotą atstovą kreipėsi raštu į Vyriausiąją tarnybinės etikos komisiją dėl lobistinės veiklos sustabdymo;
-
-
-
-
-2) lobistas nustatytu laiku nepateikė lobistinės veiklos ataskaitos;
+1) lobistas ar vykdyti lobistinę veiklą jam pavedęs arba nurodęs juridinis asmuo kreipėsi raštu į Vyriausiąją tarnybinės etikos komisiją dėl lobistinės veiklos sustabdymo;
 
 
 
 
-3) lobistas įtariamas padaręs tyčinį nusikaltimą.
+2) lobistas nustatytu laiku nepateikė lobistinės veiklos deklaracijos;
+
+
+
+
+3) lobistas įtariamas arba kaltinamas padaręs korupcinio pobūdžio nusikalstamą veiką.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalies 1 punkte nurodytu atveju lobistinė veikla sustabdoma tokiam laikui, kaip nurodė lobistas. Šio straipsnio 1 dalies 2 punkte nurodytu atveju lobistinė veikla sustabdoma ne ilgesniam kaip 1 mėnesio terminui, per kurį turi būti pašalinti pažeidimai. Šio straipsnio 1 dalies 3 punkte nurodytu atveju lobistinė veikla fiziniam asmeniui sustabdoma, iki bus nutrauktas ikiteisminis tyrimas, nutraukta baudžiamoji byla ar priimtas išteisinamasis nuosprendis.
+2. Šio straipsnio 1 dalies 1 punkte nurodytu atveju lobistinė veikla sustabdoma lobisto ar vykdyti lobistinę veiklą jam pavedusio arba nurodžiusio juridinio asmens kreipimesi į Vyriausiąją tarnybinės etikos komisiją nurodytam laikotarpiui. Šio straipsnio 1 dalies 2 punkte nurodytu atveju lobistinė veikla sustabdoma ne ilgesniam kaip vieno mėnesio terminui, per kurį turi būti pateikta lobistinės veiklos deklaracija. Šio straipsnio 1 dalies 3 punkte nurodytu atveju lobistinė veikla sustabdoma, iki bus nutrauktas ikiteisminis tyrimas, nutraukta baudžiamoji byla ar priimtas išteisinamasis nuosprendis.
 
 
 
 
-3. Lobistinė veikla nutraukiama, jei:
+3. Lobistinė veikla Vyriausiosios tarnybinės etikos komisijos sprendimu nutraukiama, jeigu:
 
 
-1) lobistas pats ar per savo įgaliotą atstovą kreipėsi raštu į Vyriausiąją tarnybinės etikos komisiją dėl lobistinės veiklos nutraukimo; 
+1) lobistas ar vykdyti lobistinę veiklą jam pavedęs arba nurodęs juridinis asmuo kreipėsi raštu į Vyriausiąją tarnybinės etikos komisiją dėl lobistinės veiklos nutraukimo; 
 
 
 
@@ -484,59 +468,54 @@ LOBISTŲ SĄRAŠAS
 
 
 
-3) Vyriausioji tarnybinės etikos komisija nustato, kad lobistas vykdo 6 straipsnyje nurodytą neteisėtą lobistinę veiklą; 
+3) Vyriausioji tarnybinės etikos komisija nustato, kad lobistas vykdo šio įstatymo 6 straipsnyje nurodytą neteisėtą lobistinę veiklą; 
 
 
 
 
-4) per šio straipsnio 2 dalyje nustatytą terminą nepašalinami pažeidimai, dėl kurių lobistinė veikla buvo sustabdyta; 
+4) per vieną mėnesį nuo lobistinės veiklos sustabdymo nepateikiama lobistinės veiklos deklaracija; 
 
 
 
 
-5) įsiteisėja apkaltinamasis nuosprendis už tyčinį nusikaltimą.
-
-
-
-
-
-
-4. Sprendimą sustabdyti ar nutraukti lobistinę veiklą priima Vyriausioji tarnybinės etikos komisija. Vyriausioji tarnybinės etikos komisija apie priimtą sprendimą sustabdyti ar nutraukti lobistinę veiklą privalo pranešti lobistui raštu per 5 darbo dienas nuo sprendimo priėmimo.
-
-
-
-
-5. Vyriausioji tarnybinės etikos komisija priima sprendimą atnaujinti sustabdytą lobistinę veiklą ne vėliau kaip per 5 darbo dienas nuo tos dienos, kai:
-
-
-1) pašalinti pažeidimai, dėl kurių lobistinė veikla buvo sustabdyta;
-
-
-
-
-2) gautas lobisto rašytinis prašymas, kad jis nori atnaujinti jo paties prašymu sustabdytą lobistinę veiklą;
-
-
-
-
-3) nutraukta baudžiamoji byla arba įsiteisėjo išteisinamasis nuosprendis.
+5) įsiteisėja apkaltinamasis nuosprendis už korupcinio pobūdžio nusikalstamą veiką.
 
 
 
 
 
 
-6. Lobistinė veikla pasibaigia, jei lobistas fizinis asmuo miršta arba juridinis asmuo likviduojamas.
+4. Vyriausioji tarnybinės etikos komisija apie priimtą sprendimą sustabdyti ar nutraukti lobistinę veiklą privalo pranešti lobistui raštu per tris darbo dienas nuo sprendimo priėmimo dienos.
+
+
+
+
+5. Vyriausioji tarnybinės etikos komisija priima sprendimą atnaujinti sustabdytą lobistinę veiklą ne vėliau kaip per penkias darbo dienas nuo tos dienos, kai:
+
+
+1) pateikta lobistinės veiklos deklaracija;
+
+
+
+
+2) gautas lobisto ar vykdyti lobistinę veiklą jam pavedusio juridinio asmens rašytinis prašymas, kad jis nori atnaujinti jo paties prašymu sustabdytą lobistinę veiklą;
+
+
+
+
+3) nutrauktas ikiteisminis tyrimas, nutraukta baudžiamoji byla arba įsiteisėjo išteisinamasis nuosprendis.
+
+
+
+
+
+
+6. Lobistinė veikla pasibaigia mirus lobistui.
 
 
 
 
 7. Nutraukus lobistinę veiklą ar jai pasibaigus, lobistas išbraukiamas iš lobistų sąrašo.
-
-
-
-
-8. Asmuo, kurio lobistinė veikla nutraukta šio straipsnio 3 dalies 2–4 punktuose nurodytais atvejais, neturi teisės vykdyti lobistinę veiklą 5 metus nuo sprendimo nutraukti lobistinę veiklą priėmimo dienos. 
  
 
 
@@ -544,81 +523,50 @@ LOBISTŲ SĄRAŠAS
 
 
 
-11 straipsnis. Lobistinės veiklos ataskaita 
+12 straipsnis. Lobistinės veiklos deklaracija
 
 
-1. Lobistas privalo pateikti Vyriausiajai tarnybinės etikos komisijai praėjusių kalendorinių metų lobistinės veiklos ataskaitą ne vėliau kaip iki einamųjų metų vasario 15 dienos. Lobistinės veiklos ataskaitos formą nustato Vyriausioji tarnybinės etikos komisija. 
-
-
-
-
-2. Lobistas turi teisę motyvuotu raštu kreiptis į Vyriausiąją tarnybinės etikos komisiją, kad būtų pratęstas lobistinės veiklos ataskaitos pateikimo terminas. Vyriausioji tarnybinės etikos komisija turi teisę pratęsti lobistinės veiklos ataskaitos pateikimo terminą ne ilgiau kaip 30 dienų. 
+1. Lobistas Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka elektroninėmis priemonėmis privalo deklaruoti lobistinę veiklą dėl kiekvieno teisės akto projekto ar administracinio sprendimo ne vėliau kaip per septynias dienas nuo lobistinės veiklos dėl konkretaus teisės akto projekto ar administracinio sprendimo pradžios (žodinio ar rašytinio (taip pat ir elektroninėmis priemonėmis), dėl teisės akto projekto ar administracinio sprendimo nuostatų aptarimo su asmeniu, kuriam lobistine veikla siekiama daryti įtaką). 
 
 
 
 
-3. Lobistinės veiklos ataskaitoje lobistas privalo nurodyti:
+2. Šio straipsnio 1 dalyje nurodytoje deklaracijoje lobistas privalo nurodyti:
 
 
-1) savo vardą, pavardę (jei lobistas yra fizinis asmuo), pavadinimą (jei lobistas yra juridinis asmuo), lobisto pažymėjimo numerį;
-
-
-
-
-2) kiekvieno lobistinės veiklos užsakovo vardą, pavardę ar pavadinimą, asmens ar registro kodą, gyvenamosios vietos ar buveinės adresą;
+1) savo vardą, pavardę, lobisto pažymėjimo numerį;
 
 
 
 
-3) teisės akto ar teisės akto projekto, dėl kurio jis veikia kaip lobistas, pavadinimą;
+2) lobistinės veiklos užsakovo vardą, pavardę ar pavadinimą, asmens ar juridinio asmens kodą; tais atvejais, kai lobistinė veikla vykdoma ne lobistinės veiklos užsakovo, o trečiosios šalies interesais, nurodyti ir fizinį arba juridinį asmenį, kurio interesu siekiama vykdyti lobistinę veiklą;
 
 
 
 
-4) lobisto pajamas, gautas už lobistinę veiklą;
+3) teisės akto, teisės akto projekto ar administracinio sprendimo, dėl kurio jis veikia kaip lobistas, pavadinimą;
 
 
 
 
-5) lobisto išlaidas, susijusias su lobistine veikla.
+4) teisės akto, teisės akto projekto ar administracinio sprendimo, dėl kurio jis veikia kaip lobistas, norimo pakeisti dalyko trumpą apibūdinimą;
 
 
 
 
-
-
-4. Lobistas privalo pateikti lobistinės veiklos ataskaitą ir tuo atveju, jei jis per atsiskaitomąjį laikotarpį negavo lobisto pajamų ir neturėjo lobisto išlaidų.
-
-
-
-
-5. Lobistas arba jo įgaliotas asmuo (jei lobistas yra juridinis asmuo) pats privalo pateikti pasirašytą lobistinės veiklos ataskaitą.
+5) institucijos ar įstaigos (jeigu yra, ir padalinio), kurioje eina pareigas asmuo, kuriam buvo siekiama daryti įtaką, kad būtų priimami ar nepriimami teisės aktai, administraciniai sprendimai, pavadinimą;
 
 
 
 
-6. Lobistinės veiklos sustabdymas neatleidžia lobisto nuo pareigos laiku pateikti lobistinės veiklos ataskaitą.
-
-
-
-
-7. Jei lobistinė veikla nutraukiama, lobistas privalo ne vėliau kaip per 10 darbo dienų nuo pranešimo apie sprendimo nutraukti lobistinę veiklą priėmimą gavimo dienos pateikti galutinę lobistinės veiklos laikotarpiu nuo praėjusių kalendorinių metų lobistinės veiklos ataskaitos iki lobistinės veiklos nutraukimo dienos ataskaitą.
- 
+6) asmens, kuriam lobistine veikla buvo siekiama daryti įtaką, vardą, pavardę, pareigas.
 
 
 
 
 
 
-12 straipsnis. Kiti lobistinės veiklos apribojimai
-
-
-1. Lobistui ir lobistinės veiklos užsakovui draudžiama sulygti dėl tokio lobistinių paslaugų apmokėjimo, kai atlyginimo dydis priklauso nuo konkretaus teisės akto pakeitimo, papildymo, pripažinimo netekusiu galios ar atmetimo arba naujo teisės akto priėmimo ar nepriėmimo. 
-
-
-
-
-2. Draudžiama lobistinę veiklą finansuoti iš valstybės ar savivaldybių biudžetų.
+3. Lobistinės veiklos deklaracijos formą nustato Vyriausioji tarnybinės etikos komisija. 
  
 
 
@@ -629,14 +577,14 @@ LOBISTŲ SĄRAŠAS
 
 
 TREČIASIS SKIRSNIS
-LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS TEIKIMAS
+LOBISTINĖS VEIKLOS PRIEŽIŪRA
  
 
 
-13 straipsnis. Lobistinės veiklos kontrolė
+13 straipsnis. Lobistinės veiklos priežiūra
 
 
-1. Šio Įstatymo nustatyta tvarka lobistinę veiklą kontroliuoja Vyriausioji tarnybinės etikos komisija. 
+1. Įstatymų nustatyta tvarka lobistinę veiklą prižiūri Vyriausioji tarnybinės etikos komisija. 
 
 
 
@@ -644,22 +592,22 @@ LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS TEIKIMAS
 2. Vyriausioji tarnybinės etikos komisija:
 
 
-1) analizuoja ir apibendrina šio Įstatymo taikymo praktiką;
+1) analizuoja ir apibendrina šio įstatymo taikymo praktiką;
 
 
 
 
-2) teismo tvarka kreipiasi dėl sprendimų ar sandorių, priimtų ar sudarytų pažeidžiant šio Įstatymo reikalavimus, nutraukimo ar pripažinimo netekusiais galios;
+2) kreipiasi į teismą dėl sprendimų ar sandorių, priimtų ar sudarytų pažeidžiant šio įstatymo reikalavimus, nutraukimo ar pripažinimo netekusiais galios;
 
 
 
 
-3) gali pavesti institucijos vadovui ar jo įgaliotam atstovui atlikti arba pati atlikti tyrimą, jeigu yra gauta informacija, kad asmenys nesilaiko šio Įstatymo reikalavimų;
+3) atlieka tyrimą, jeigu yra gauta informacija, kad asmenys nesilaiko šio įstatymo reikalavimų;
 
 
 
 
-4) rengia ir tvirtina Lobistų etikos kodeksą.
+4) teikia lobistams metodinę pagalbą ir rekomendacijas lobistinės veiklos klausimais.
 
 
 
@@ -674,29 +622,19 @@ LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS TEIKIMAS
 
 
 
-2) gauti iš valstybės ar savivaldybių institucijų ir iš kitų asmenų visą reikiamą informaciją, paaiškinimus, įsakymus, sprendimus bei kitus dokumentus, susijusius su šio Įstatymo vykdymu;
+2) gauti iš asmenų visą reikiamą informaciją, paaiškinimus, įsakymus, sprendimus ir kitus dokumentus, susijusius su šio įstatymo vykdymu;
 
 
 
 
-3) tikrinti lobistinės veiklos ataskaitas;
-
-
-
-
-4) tikrinti asmenų veiklą, jeigu yra gauta informacija, kad jie vykdo neteisėtą lobistinę veiklą.
+3) tikrinti lobistinės veiklos deklaracijas.
 
 
 
 
 
 
-3. Vyriausiosios tarnybinės etikos komisijos sprendimus suinteresuotas asmuo turi teisę apskųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo ar jo įteikimo suinteresuotam asmeniui dienos.
-
-
-
-
-4. Vyriausioji tarnybinės etikos komisija kasmet iki gegužės 15 dienos pateikia Lietuvos Respublikos Seimui lobistinės veiklos kontrolės metinę ataskaitą.
+4. Vyriausiosios tarnybinės etikos komisijos sprendimus suinteresuotas asmuo turi teisę apskųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo ar jo įteikimo suinteresuotam asmeniui dienos.
  
 
 
@@ -707,22 +645,10 @@ LOBISTINĖS VEIKLOS KONTROLĖ IR INFORMACIJOS TEIKIMAS
 14 straipsnis. Informacija apie lobistinę veiklą
 
 
-1. Informacija apie lobistinę veiklą yra vieša. Vyriausioji tarnybinės etikos komisija negali riboti asmenų teisės gauti duomenis ir informaciją apie lobistinę veiklą (lobistus, teisės aktus ar jų projektus, dėl kurių buvo vykdoma lobistinė veikla).
-
-
-
-
-2. Informacija apie įrašytus į lobistų sąrašą lobistus, lobistinės veiklos sustabdymą, atnaujinimą, nutraukimą ar pasibaigimą skelbiama Vyriausiosios tarnybinės etikos komisijos interneto svetainėje.
-
-
-
-
-3. Vyriausiosios tarnybinės etikos komisijos interneto svetainėje gali būti skelbiama ir kita informacija apie lobistinę veiklą. 
-
-
-Straipsnio pakeitimai:
-Nr. XI-2331, 2012-11-06, Žin., 2012, Nr. 132-6659 (2012-11-15), i. k. 1121010ISTA0XI-2331
+Informacija apie įrašytus į lobistų sąrašą lobistus, lobistinės veiklos sustabdymą, nutraukimą, atnaujinimą ar pasibaigimą, lobistinės veiklos deklaracijų duomenys skelbiami Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka.
  
+
+
 
 
 
@@ -734,15 +660,15 @@ ATSAKOMYBĖ
  
 
 
-15 straipsnis. Atsakomybė už šio Įstatymo pažeidimus 
+15 straipsnis. Atsakomybė už šio įstatymo pažeidimus 
 
 
-1. Šio Įstatymo reikalavimus pažeidę asmenys atsako įstatymų nustatyta tvarka. 
+1. Šio įstatymo reikalavimus pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka. 
 
 
 
 
-2. Asmenys, savo neteisėta lobistine veikla padarę žalos kitiems asmenims, ją atlygina įstatymų nustatyta tvarka.
+2. Asmenys, neteisėta lobistine veikla padarę žalos kitiems asmenims, ją atlygina Lietuvos Respublikos įstatymų nustatyta tvarka. 
 
 
 
@@ -780,3 +706,8 @@ Lietuvos Respublikos lobistinės veiklos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2331, 2012-11-06, Žin., 2012, Nr. 132-6659 (2012-11-15), i. k. 1121010ISTA0XI-2331
 Lietuvos Respublikos lobistinės veiklos įstatymo 14 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-453, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11067
+Lietuvos Respublikos lobistinės veiklos įstatymo Nr. VIII-1749 pakeitimo įstatymas
