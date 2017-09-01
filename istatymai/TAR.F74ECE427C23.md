@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2016-11-18 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
- 
-TAR pastaba. Asmenys, kurie iki šio įstatymo įsigaliojimo buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje jie gyvena, privalo per 24 mėnesius, įsigaliojus šiam įstatymui, šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaruoti savo gyvenamąją vietą arba, jeigu atitinka šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 ar 2 dalyje nustatytas sąlygas, pateikti prašymus įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą. Asmenys, kurie iki šio įstatymo įsigaliojimo deklaruodami savo gyvenamąją vietą nebuvo nurodę visų gyvenamosios vietos adresą sudarančių duomenų (buvo nurodyta tik gyvenamoji vietovė), privalo per 24 mėnesius, įsigaliojus šiam įstatymui, kreiptis į gyvenamosios vietos deklaravimo įstaigą dėl deklaruotos gyvenamosios vietos adreso pakeitimo (tikslinimo). (Įstatymo Nr. VIII-840 naujos redakcijos įstatymo Nr. XII-1919 2 straipsnio 2 ir 3 dalių pakeitimo įstatymas)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2766, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26965
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymo Nr. XII-1919 2 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2016-01-01:
 Nr. XII-1919, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11182
@@ -162,7 +157,9 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-6. Užsienio valstybių piliečiai ar asmenys be pilietybės, kuriems patvirtinta ar suteikta teisė gyventi Lietuvos Respublikoje, gyvenamosios vietos deklaraciją pateikia gyvenamosios vietos deklaravimo įstaigai (toliau – deklaravimo įstaiga) per Lietuvos Respublikos vidaus reikalų ministro įgaliotas institucijas. Deklaravimo įstaiga šiems asmenims išduoda dokumentą, patvirtinantį ar suteikiantį teisę gyventi Lietuvos Respublikoje. Šie asmenys, pakeitę gyvenamąją vietą, gyvenamosios vietos deklaraciją pateikia tiesiogiai vienai iš deklaravimo įstaigų.
+6. Užsienio valstybių piliečiai ar asmenys be pilietybės (toliau – užsieniečiai), kuriems patvirtinta ar suteikta teisė gyventi Lietuvos Respublikoje, gyvenamosios vietos deklaraciją pateikia gyvenamosios vietos deklaravimo įstaigai (toliau – deklaravimo įstaiga) per Lietuvos Respublikos vidaus reikalų ministro įgaliotas institucijas. Šie asmenys, pakeitę gyvenamąją vietą, gyvenamosios vietos deklaraciją pateikia tiesiogiai vienai iš deklaravimo įstaigų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
  
 
 
@@ -191,14 +188,25 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-3) asmenys, laikomi tardymo izoliatoriuose ir pataisos įstaigose, visą buvimo šiose įstaigose laikotarpį – pagal savivaldybę, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta arba kurios teritorijoje jie faktiškai gyveno iki suėmimo arba bausmės atlikimo.
+3) asmenys, laikomi tardymo izoliatoriuose ir pataisos įstaigose, visą buvimo šiose įstaigose laikotarpį – pagal savivaldybę, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta arba kurios teritorijoje jie faktiškai gyveno iki suėmimo arba bausmės atlikimo;
+
+
+
+
+4) užsieniečiai, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka suteiktas prieglobstis Lietuvos Respublikoje, Lietuvos valstybės paramos integracijai teikimo laikotarpiu – pagal savivaldybę, kurios teritorijoje jie faktiškai gyvena. 
+Papildyta straipsnio punktu:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+ 
 
 
 
 
 
 
-3. Šio straipsnio 1 dalyje ir 2 dalies 1 ir 3 punktuose nurodyti asmenys į gyvenamosios vietos neturinčių asmenų apskaitą įtraukiami, kai jie deklaravimo įstaigai pateikia šio įstatymo 9 straipsnio 2 dalies 1–7 punktuose nurodytus duomenis.
+3. Šio straipsnio 1 dalyje ir 2 dalies 1, 3 ir 4 punktuose nurodyti asmenys į gyvenamosios vietos neturinčių asmenų apskaitą įtraukiami, kai jie deklaravimo įstaigai pateikia šio įstatymo 9 straipsnio 2 dalies 1–7 punktuose nurodytus duomenis. Šio straipsnio 2 dalies 4 punkte nurodyti užsieniečiai papildomai pateikia sutartį dėl Lietuvos valstybės paramos integracijai teikimo gyvenamojoje vietoje savivaldybės teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+ 
 
 
 
@@ -208,7 +216,10 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-5. Į gyvenamosios vietos neturinčių asmenų apskaitą gali būti įtraukiami tik tie šio straipsnio 1 ir 2 dalyse nurodyti asmenys, kurie yra Lietuvos Respublikos piliečiai arba užsienio valstybių piliečiai ar asmenys be pilietybės, turintys Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje arba pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti, arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę. 
+5. Į gyvenamosios vietos neturinčių asmenų apskaitą gali būti įtraukiami tik tie šio straipsnio 1 ir 2 dalyse nurodyti asmenys, kurie yra Lietuvos Respublikos piliečiai arba užsieniečiai, turintys Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, pažymą Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti arba Sąjungos piliečio šeimos nario leidimo nuolat gyventi šalyje kortelę, taip pat šio straipsnio 2 dalies 4 punkte nurodyti užsieniečiai, turintys leidimą laikinai gyventi Lietuvos Respublikoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+ 
 
 
 
@@ -304,7 +315,10 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-6) asmens tapatybę patvirtinančių dokumentų, taip pat užsieniečių asmens dokumentų, patvirtinančių jų teisėtą atvykimą į Lietuvos Respubliką ir buvimą joje, kurie gali būti naudojami deklaruojant gyvenamąją vietą, duomenys (asmens dokumentą išdavusios valstybės pavadinimas, asmens dokumento rūšis, serija ir numeris, išdavimo data ir galiojimo data);
+6) asmens tapatybę patvirtinančių dokumentų, taip pat užsieniečių asmens dokumentų, patvirtinančių jų teisėtą buvimą Lietuvos Respublikoje, kurie gali būti naudojami deklaruojant gyvenamąją vietą, duomenys (asmens dokumentą išdavusios valstybės pavadinimas, asmens dokumento rūšis, serija ir numeris, išdavimo data ir galiojimo data); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+ 
 
 
 
@@ -422,7 +436,10 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-7. Jeigu šio įstatymo 5 straipsnio 6 dalyje nustatytu atveju gyvenamosios vietos deklaracija pateikiama deklaravimo įstaigai per Lietuvos Respublikos vidaus reikalų ministro įgaliotas institucijas, institucija, priėmusi užsienio valstybės piliečio ar asmens be pilietybės gyvenamosios vietos deklaraciją, deklaravimo įstaigai ją pateikia ne vėliau kaip per 3 darbo dienas nuo gyvenamosios vietos deklaracijos priėmimo dienos. 
+7. Jeigu šio įstatymo 5 straipsnio 6 dalyje nustatytu atveju gyvenamosios vietos deklaracija pateikiama deklaravimo įstaigai per Lietuvos Respublikos vidaus reikalų ministro įgaliotas institucijas, institucija, priėmusi užsieniečio gyvenamosios vietos deklaraciją, deklaravimo įstaigai ją pateikia ne vėliau kaip per 3 darbo dienas nuo gyvenamosios vietos deklaracijos priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+ 
 
 
 
@@ -535,7 +552,10 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-2. Užsienio valstybės piliečiai ir asmenys be pilietybės, nurodyti šio įstatymo 5 straipsnio 6 dalyje, gyvenamosios vietos deklaracijas pateikia dokumento, patvirtinančio ar suteikiančio teisę gyventi Lietuvos Respublikoje, atsiėmimo Lietuvos Respublikos vidaus reikalų ministro įgaliotoje institucijoje dieną.
+2. Užsieniečiai, nurodyti šio įstatymo 5 straipsnio 6 dalyje, gyvenamosios vietos deklaracijas pateikia dokumento, patvirtinančio ar suteikiančio teisę gyventi Lietuvos Respublikoje, atsiėmimo Lietuvos Respublikos vidaus reikalų ministro įgaliotoje institucijoje dieną. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+ 
 
 
 
@@ -737,3 +757,8 @@ Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2766, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26965
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymo Nr. XII-1919 2 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-600, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12172
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 5, 6, 9, 10 ir 13 straipsnių pakeitimo įstatymas
