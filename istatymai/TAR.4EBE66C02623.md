@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-09-26
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -6429,6 +6429,32 @@ užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimt
 
 
 
+2361 straipsnis. Reglamente (ES) 2015/757 nustatytų laivo išmetamo anglies dioksido kiekio stebėsenos ir ataskaitų teikimo reikalavimų pažeidimas
+
+
+1. Laivo išmetamo anglies dioksido kiekio metinės stebėsenos nevykdymas 
+užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadovams nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+2. Laivo išmetamo anglies dioksido kiekio apskaitos ataskaitos nepateikimas laiku Europos Komisijai ir (ar) Lietuvos Respublikos kompetentingai institucijai
+užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadovams nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+
+
+
+3. Prievolės laive turėti galiojantį atitikties patvirtinimo dokumentą, nurodytą Reglamente (ES) 2015/757, nevykdymas
+užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadovams nuo dviejų tūkstančių iki trijų tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
 237 straipsnis. Aplinkosauginio ženklinimo reikalavimų pažeidimas 
 
 
@@ -6609,6 +6635,26 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eur�
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+ 
+
+
+
+
+2431 straipsnis. Kuro ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų kiekio mažinimą reglamentuojančių teisės aktų pažeidimas
+
+
+1. Kuro ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų kiekio, tenkančio energijos vienetui, ataskaitos nepateikimas Lietuvos Respublikos kompetentingai institucijai nustatytu laiku 
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+2. Teisės aktuose nustatyto reikalavimo sumažinti rinkai patiektų kuro ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų kiekį, tenkantį energijos vienetui, neįgyvendinimas
+užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
  
 
 
@@ -7132,8 +7178,11 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 
 
-5. Alyvos atliekų tvarkymas atliekų tvarkymą reglamentuojančiuose teisės aktuose nenumatytais būdais 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+5. Alyvos atliekų tvarkymas atliekų tvarkymą reglamentuojančiuose teisės aktuose nenumatytais būdais ir (ar) deginimas, kai tai daro ne atliekų tvarkytojas, 
+užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki penkių šimtų keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
@@ -7144,8 +7193,11 @@ užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsaki
 
 
 
-7. Alyvos atliekų atlygintinas ar neatlygintinas perleidimas neturintiems teisės tvarkyti alyvos atliekas asmenims 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų. 
+7. Alyvos atliekų atlygintinas ar neatlygintinas perdavimas neturintiems teisės tvarkyti alyvos atliekas asmenims 
+užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
@@ -7892,7 +7944,10 @@ užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio vieno šim
 
 
 6. Išgaunamo vandens, išleidžiamų nuotekų arba su nuotekomis išleidžiamų teršalų apskaitos ir ataskaitų teikimo reikalavimų pažeidimas
-užtraukia baudą asmenims nuo šešių šimtų iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dešimt iki trijų šimtų eurų.
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dešimt iki trijų šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
@@ -9097,28 +9152,18 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkias
 
 
 
-4. Invazinių rūšių gyvūnų išleidimas į laisvę pažeidžiant nustatytą tvarką 
-užtraukia baudą asmenims nuo trisdešimt iki penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
-
-
-
-
-5. Invazinių rūšių gyvūnų kontrolės ir naikinimo tvarkos pažeidimas 
-užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
-
-
-
-
-6. Prekybos laukiniais gyvūnais taisyklių pažeidimas
+4. Prekybos laukiniais gyvūnais taisyklių pažeidimas
 užtraukia baudą nuo trisdešimt iki trijų šimtų eurų.
 
 
 
 
-7. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą gali būti skiriamas nusižengimo padarymo įrankių ir priemonių, laukinių gyvūnų, jų dalių ar gaminių iš jų konfiskavimas. Už šio straipsnio 2, 3, 6 dalyse numatytus administracinius nusižengimus privaloma skirti nusižengimo padarymo įrankių ir priemonių, laukinių gyvūnų, jų dalių ar gaminių iš jų konfiskavimą.
+5. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą gali būti skiriamas nusižengimo padarymo įrankių ir priemonių, laukinių gyvūnų, jų dalių ar gaminių iš jų konfiskavimas. Už šio straipsnio 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti nusižengimo padarymo įrankių ir priemonių, laukinių gyvūnų, jų dalių ar gaminių iš jų konfiskavimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
  
-
-
 
 
 
@@ -9137,6 +9182,74 @@ užtraukia baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir juridini
  
 
 
+
+
+
+
+3041 straipsnis. Genetinių išteklių ir su genetiniais ištekliais susijusių tradicinių žinių naudojimo pažeidimas 
+
+
+1. Genetinių išteklių naudojimo reikalavimų pažeidimas 
+užtraukia baudą nuo vieno šimto iki keturių šimtų eurų.
+
+
+
+
+2. Reglamente (ES) Nr. 511/2014 nustatytų genetinių išteklių ir su genetiniais ištekliais susijusių tradicinių žinių naudotojų pareigų pažeidimas
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+3. Mokslinių tyrimų, kuriuose naudojami genetiniai ištekliai ir su genetiniais ištekliais susijusios tradicinės žinios, vykdymas ir galutinių produktų, panaudojant genetinius išteklius ir su genetiniais ištekliais susijusias tradicines žinias, kūrimas pažeidžiant Reglamentą (ES) Nr. 511/2014
+užtraukia baudą nuo septynių šimtų iki vieno tūkstančio dviejų šimtų eurų. 
+
+
+
+
+4. Veiklos naudojant genetinius išteklius arba su genetiniais ištekliais susijusias tradicines žinias nenutraukimas, kai nutraukti šią veiklą privaloma Reglamente (ES) Nr. 511/2014 numatytais atvejais,
+užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+3042 straipsnis. Invazinių rūšių neteisėtas naudojimas ir valdymo priemonių nevykdymas
+
+
+1. Invazinių rūšių naikinimo, izoliavimo ar gausos reguliavimo priemonių nevykdymas 
+užtraukia baudą asmenims nuo trisdešimt iki vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki dviejų šimtų eurų.
+
+
+
+
+2. Invazinių rūšių laikymas, auginimas, veisimas, dauginimas, mainymas, įvežimas į Lietuvos Respubliką, išvežimas iš Lietuvos Respublikos, vežimas per Lietuvos Respublikos teritoriją ar kitoks naudojimas pažeidžiant nustatytą tvarką 
+užtraukia baudą asmenims nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki šešių šimtų eurų.
+
+
+
+
+3. Invazinių rūšių patiekimas rinkai, tyčinis paleidimas į aplinką ar tyčinė introdukcija pažeidžiant nustatytą tvarką 
+užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+4. Už šio straipsnio 2 dalyje numatytus administracinius nusižengimus gali būti skiriamas invazinių rūšių konfiskavimas. Už šio straipsnio 3 dalyje numatytus administracinius nusižengimus privaloma skirti invazinių rūšių konfiskavimą.
+
+
+
+
+5. Invazinėmis rūšimis laikomi Invazinių Lietuvoje rūšių sąraše ir Reglamente (ES) Nr. 1143/2014 nurodytame Sąjungai susirūpinimą keliančių invazinių svetimų rūšių sąraše nurodytų rūšių gyvūnai, augalai, grybai ar mikroorganizmai. Šio straipsnio nuostatos taikomos tik gyviems invazinių rūšių egzemplioriams ir galinčioms daugintis jų dalims, gametoms, sėkloms, kiaušiniams ar auginiams, taip pat visiems šių rūšių hibridams, kurių atstovai gali išgyventi ir toliau daugintis. 
+
+
+Papildyta straipsniu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
@@ -9571,53 +9684,55 @@ užtraukia baudą asmenims nuo dviejų šimtų trisdešimt iki trijų šimtų eu
 312 straipsnis. Genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimas
 
 
-1. Genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų išleidimas į aplinką, tiekimas rinkai be teisės aktuose nustatyta tvarka išduoto leidimo ar neturint teisės aktuose nustatyta tvarka išduoto sutikimo, teisės aktuose nustatytų genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų naudojimo ar ženklinimo reikalavimų pažeidimas, genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų įvežimas į Lietuvos Respublikos teritoriją ar vežimas per Lietuvos Respublikos teritoriją, ar išvežimas iš Lietuvos Respublikos nesilaikant teisės aktuose nustatytų reikalavimų, išskyrus šio straipsnio 3, 4, 5, 6, 7, 8 dalyse numatytus nusižengimus,
-užtraukia baudą nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų.
+1. Genetiškai modifikuotų organizmų ar produktų pakavimo, fasavimo ar ženklinimo reikalavimų pažeidimas
+užtraukia baudą nuo dviejų šimtų iki penkių šimtų eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo penkių šimtų aštuoniasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+2. Genetiškai modifikuotų augalų pasėlių sambūvio su tradicinių ir ekologiškų augalų pasėliais taisyklėse nustatytų reikalavimų pažeidimas, išskyrus šio straipsnio 5 dalyje numatytą nusižengimą,
+užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių eurų.
 
 
 
 
-3. Genetiškai modifikuotų augalų pasėlių sambūvio su tradicinių ir ekologiškų augalų pasėliais taisyklėse nustatytų reikalavimų pažeidimas
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
+3. Genetiškai modifikuotų organizmų išleidimas į aplinką, genetiškai modifikuotų organizmų ar produktų tiekimas rinkai pažeidžiant teisės aktuose nustatytus apgalvoto išleidimo į aplinką ar tiekimo rinkai reikalavimus, genetiškai modifikuotų organizmų ar genetiškai modifikuotų produktų įvežimas į Lietuvos Respublikos teritoriją ar vežimas per Lietuvos Respublikos teritoriją, ar išvežimas iš Lietuvos Respublikos nesilaikant teisės aktuose nustatytų reikalavimų, išskyrus šio straipsnio 1, 2, 5, 6, 7, 8 dalyse numatytus nusižengimus, 
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-4. Dauginamosios medžiagos, turinčios Europos Sąjungoje auginti neįteisintų genetiškai modifikuotų organizmų priemaišų, tiekimas rinkai 
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-5. Ne daugiau kaip pusės hektaro ploto genetiškai modifikuotų augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo rinkai tikslais
-užtraukia baudą nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų.
+5. Genetiškai modifikuotų augalų pasėlių auginimas pažeidžiant pareigą apie tai pranešti atsakingoms institucijoms
+užtraukia baudą nuo dviejų tūkstančių iki trijų tūkstančių eurų. 
 
 
 
 
-6. Daugiau kaip pusės hektaro, bet ne daugiau kaip penkių hektarų ploto genetiškai modifikuotų augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo rinkai tikslais
-užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+6. Dauginamosios medžiagos, turinčios Europos Sąjungoje auginti neįteisintų genetiškai modifikuotų organizmų priemaišų, tiekimas rinkai 
+užtraukia baudą nuo trijų tūkstančių iki keturių tūkstančių eurų.
 
 
 
 
-7. Daugiau kaip penkių hektarų ploto, bet ne daugiau kaip dvidešimt hektarų ploto genetiškai modifikuotų augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo rinkai tikslais
-užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
+7. Genetiškai modifikuotų augalų, kurių auginimas įteisintas Europos Sąjungoje, bet apribotas ar uždraustas Lietuvos Respublikos teritorijoje arba jos dalyje, auginimas tiekimo rinkai tikslais
+užtraukia baudą nuo keturių tūkstančių iki penkių tūkstančių eurų.
 
 
 
 
-8. Daugiau kaip dvidešimt hektarų ploto genetiškai modifikuotų augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo rinkai tikslais
-užtraukia baudą nuo dviejų tūkstančių iki trijų tūkstančių eurų.
+8. Genetiškai modifikuotų augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo rinkai tikslais 
+užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
  
-
-
 
 
 
@@ -16023,6 +16138,24 @@ užtraukia baudą darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturias
 
 
 
+3. Informacijos apie sąlygų, kurios pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą nepateikimas laiku vidaus reikalų ministro įgaliotai institucijai
+užtraukia baudą priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
+ 
+
+
+
+
+4. Informacijos apie užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės atsiųsto laikinai dirbti į įmonę Lietuvos Respublikoje užsieniečio darbo pradžią įmonėje Lietuvos Respublikoje nepateikimas laiku Valstybinės darbo inspekcijos teritoriniam skyriui
+užtraukia baudą įmonės vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+Papildyta straipsnio dalimi:
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
+ 
+
+
+
+
 
 
 543 straipsnis. Vietinio eismo per sieną režimo pažeidimas
@@ -17262,17 +17395,19 @@ Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
 
 
 
-30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 291 straipsnio 5 dalyje, 299 straipsnio 2, 3, 4 dalyse, 312, 343, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 291 straipsnio 5 dalyje, 299 straipsnio 2, 3, 4 dalyse, 3042 straipsnio 2 dalyje, 312, 343, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
  
 
 
 
 
-31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 237, 238, 239, 241, 242, 243, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 306, 307, 308, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
  
 
 
@@ -17324,9 +17459,10 @@ Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 308 straipsnio 3, 6 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 2 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 3, 6 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
  
 
 
@@ -17378,9 +17514,10 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-49) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342  straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 5, 6 dalyse, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541, 542, 543, 546, 553 straipsniuose numatytų administracinių nusižengimų; 
+49) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 5, 6 dalyse, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
  
 
 
@@ -17426,7 +17563,10 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 11, 17, 20, 21, 22, 23 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2 dalyje numatytų administracinių nusižengimų;
+58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 11, 17, 20, 21, 22, 23 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3, 4 dalyse numatytų administracinių nusižengimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
+ 
 
 
 
@@ -17441,17 +17581,26 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-61) Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos – dėl šio kodekso 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384 straipsniuose, 413 straipsnio 1 dalyje, 434 straipsnio 1 dalyje, 435, 437, 442, 458, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+61) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
+ 
 
 
 
 
-62) Valstybinės gyvulių veislininkystės priežiūros tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 345, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+62) Valstybinės gyvulių veislininkystės priežiūros tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 3041, 345, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-63) Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 434 straipsnio 2 dalyje, 435, 436, 439, 440, 441, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457 straipsniuose, 459 straipsnio 3, 4, 5, 7, 8 dalyse, 463, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+63) Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384 straipsniuose, 413 straipsnio 1 dalyje, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 434 straipsnio 1, 2 dalyse, 435, 436, 437, 439, 440, 441, 442, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 3, 4, 5, 7, 8 dalyse, 463, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
+ 
 
 
 
@@ -17632,7 +17781,9 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-87) valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų ir saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų valstybiniai saugomų teritorijų pareigūnai – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 256, 266, 278, 283 straipsniuose, 284 straipsnio 1, 2, 3, 4, 7, 8, 9 dalyse, 285, 287, 304, 305, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+87) valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų ir saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų valstybiniai saugomų teritorijų pareigūnai – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 256, 266, 278, 283 straipsniuose, 284 straipsnio 1, 2, 3, 4, 7, 8, 9 dalyse, 285, 287, 304, 3042, 305, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
  
@@ -20787,407 +20938,717 @@ priedas
 
 
 
-3. 2001 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2001/80/EB dėl tam tikrų teršalų, išmetamų į orą iš didelių kurą deginančių įrenginių, kiekio apribojimo (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 299) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+3. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77) su paskutiniais pakeitimas, padarytais 2015 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/412 (OL 2015 L 68, p. 1). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-4. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/26/ES (OL 2012 L 299, p. 1).
+4. 2001 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2001/80/EB dėl tam tikrų teršalų, išmetamų į orą iš didelių kurą deginančių įrenginių, kiekio apribojimo (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 299) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-5. 2002 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2002/59/EB, įdiegianti Bendrijos laivų eismo stebėsenos ir informacijos sistemą ir panaikinanti Tarybos direktyvą 93/75/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 12), su paskutiniais pakeitimais, padarytais 2014 m. spalio 28 d. Komisijos direktyva 2014/100/ES (OL 2014 L 308, p. 82).
+5. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/26/ES (OL 2012 L 299, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-6. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 64).
+6. 2002 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2002/59/EB, įdiegianti Bendrijos laivų eismo stebėsenos ir informacijos sistemą ir panaikinanti Tarybos direktyvą 93/75/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 12), su paskutiniais pakeitimais, padarytais 2014 m. spalio 28 d. Komisijos direktyva 2014/100/ES (OL 2014 L 308, p. 82).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-7. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 650).
+7. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 64).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-8. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432).
+8. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 650).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-9. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).
+9. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-10. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos sprendimu (ES) 2015/1814 (OL 2015 L 264, p. 1). 
+10. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-11. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
+11. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos sprendimu (ES) 2015/1814 (OL 2015 L 264, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-12. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 46) su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1258/2013) (OL 2013 L 333, p. 21). 
+12. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-13. 2004 m. kovo 31 d.  Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 291).
+13. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 46) su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1258/2013) (OL 2013 L 333, p. 21). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-14. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 376) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/112/EB (OL 2008 L 345, p. 68).
+14. 2004 m. kovo 31 d.  Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 291).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-15. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160) su paskutiniais pakeitimais, padarytais 2010 m. balandžio 6 d. Komisijos reglamentu (ES) Nr. 285/2010 (OL 2010 L 87, p. 19).
+15. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 376) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/112/EB (OL 2008 L 345, p. 68).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-16. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
+16. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160) su paskutiniais pakeitimais, padarytais 2010 m. balandžio 6 d. Komisijos reglamentu (ES) Nr. 285/2010 (OL 2010 L 87, p. 19).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-17. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 850/2004 dėl patvariųjų organinių teršalų ir iš dalies keičiantis Direktyvą 79/117/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 465) su paskutiniais pakeitimais, padarytais 2014 m. gruodžio 17 d. Komisijos reglamentu (ES) Nr. 1342/2014 (OL 2014 L 363, p. 67). 
+17. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-18. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200), su paskutiniais pakeitimais, padarytais 2011 m. kovo 2 d. Komisijos reglamentu (ES) Nr. 208/2011 (OL 2011 L 58, p. 29).
+18. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 850/2004 dėl patvariųjų organinių teršalų ir iš dalies keičiantis Direktyvą 79/117/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 465) su paskutiniais pakeitimais, padarytais 2014 m. gruodžio 17 d. Komisijos reglamentu (ES) Nr. 1342/2014 (OL 2014 L 363, p. 67). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-19. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų (OL 2004 L 373, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 46/2009 (OL 2009 L 17, p. 5).
+19. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200), su paskutiniais pakeitimais, padarytais 2011 m. kovo 2 d. Komisijos reglamentu (ES) Nr. 208/2011 (OL 2011 L 58, p. 29).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-20. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2183/2004, išplečiantis Reglamento (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų taikymą nedalyvaujančioms valstybėms narėms (OL 2004 L 373, p. 7), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 47/2009 (OL 2009 L 17, p. 7).
+20. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų (OL 2004 L 373, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 46/2009 (OL 2009 L 17, p. 5).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-21. 2004 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (OL 2005 L 22, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1259/2013 (OL 2013 L 330, p. 30).
+21. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2183/2004, išplečiantis Reglamento (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų taikymą nedalyvaujančioms valstybėms narėms (OL 2004 L 373, p. 7), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 47/2009 (OL 2009 L 17, p. 7).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-22. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB (OL 2009 L 280, p. 52).
+22. 2004 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (OL 2005 L 22, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1259/2013 (OL 2013 L 330, p. 30).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-23. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/60/EB dėl finansų sistemos apsaugos nuo jos panaudojimo pinigų plovimui ir teroristų finansavimui (OL 2005 L 309, p. 15).
+23. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB (OL 2009 L 280, p. 52).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-24. 2005 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2111/2005 dėl oro vežėjų, kuriems taikomas draudimas vykdyti veiklą Bendrijoje, Bendrijos sąrašo sudarymo ir oro transporto keleivių informavimo apie skrydį vykdančio oro vežėjo tapatybę bei panaikinantis Direktyvos 2004/36/EB 9 straipsnį (OL 2005 L 344, p. 15).
+24. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/60/EB dėl finansų sistemos apsaugos nuo jos panaudojimo pinigų plovimui ir teroristų finansavimui (OL 2005 L 309, p. 15).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-25. 2005 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2173/2005 dėl FLEGT licencijavimo schemos medienos importui į Europos bendriją sukūrimo (OL 2005 L 347, p. 1).
+25. 2005 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2111/2005 dėl oro vežėjų, kuriems taikomas draudimas vykdyti veiklą Bendrijoje, Bendrijos sąrašo sudarymo ir oro transporto keleivių informavimo apie skrydį vykdančio oro vežėjo tapatybę bei panaikinantis Direktyvos 2004/36/EB 9 straipsnį (OL 2005 L 344, p. 15).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-26. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1).
+26. 2005 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2173/2005 dėl FLEGT licencijavimo schemos medienos importui į Europos bendriją sukūrimo (OL 2005 L 347, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-27. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2011 m. liepos 11 d. Komisijos reglamentu (ES) Nr. 664/2011 (OL 2011 L 182, p. 2).
+27. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-28. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).      
+28. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2011 m. liepos 11 d. Komisijos reglamentu (ES) Nr. 664/2011 (OL 2011 L 182, p. 2).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-29. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/103/EB (OL 2008 L 327, p. 7).
+29. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).      
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-30. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1901/2006 dėl pediatrijoje vartojamų vaistinių preparatų, iš dalies keičiantis Reglamentą (EEB) Nr. 1768/92, Direktyvą 2001/20/EB, Direktyvą 2001/83/EB ir Reglamentą (EB) Nr. 726/2004 (OL 2006 L 378, p. 1).
+30. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/103/EB (OL 2008 L 327, p. 7).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-31. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. gegužės 20 d. Komisijos reglamentu (ES) Nr. 494/2011 (OL 2011 L 134, p. 2). 
+31. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1901/2006 dėl pediatrijoje vartojamų vaistinių preparatų, iš dalies keičiantis Reglamentą (EEB) Nr. 1768/92, Direktyvą 2001/20/EB, Direktyvą 2001/83/EB ir Reglamentą (EB) Nr. 726/2004 (OL 2006 L 378, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-32. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1931/2006, nustatantis vietinio eismo per valstybių narių išorines sausumos sienas taisykles ir iš dalies keičiantis Šengeno konvencijos nuostatas (OL 2006 L 405, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1342/2011 (OL 2011 L 347, p. 41). 
+32. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. gegužės 20 d. Komisijos reglamentu (ES) Nr. 494/2011 (OL 2011 L 134, p. 2). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-33. 2006 m. gruodžio 22 d. Komisijos reglamentas (EB) Nr. 2023/2006 dėl medžiagų ir gaminių, skirtų liestis su maistu, geros gamybos praktikos (OL 2006 L 384, p. 75).
+33. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1931/2006, nustatantis vietinio eismo per valstybių narių išorines sausumos sienas taisykles ir iš dalies keičiantis Šengeno konvencijos nuostatas (OL 2006 L 405, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1342/2011 (OL 2011 L 347, p. 41). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-34. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
+34. 2006 m. gruodžio 22 d. Komisijos reglamentas (EB) Nr. 2023/2006 dėl medžiagų ir gaminių, skirtų liestis su maistu, geros gamybos praktikos (OL 2006 L 384, p. 75).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-35. 2008 m. sausio 15 d. Europos Parlamento ir Tarybos direktyvos 2008/1/EB dėl taršos integruotos prevencijos ir kontrolės (OL 2008 L 24, p. 8) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+35. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-36. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje (OL 2008 L 152, p. 1).
+36. 2008 m. sausio 15 d. Europos Parlamento ir Tarybos direktyvos 2008/1/EB dėl taršos integruotos prevencijos ir kontrolės (OL 2008 L 24, p. 8) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-37. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93 (OL 2008 L 218, p. 30).
+37. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje (OL 2008 L 152, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-38. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).
+38. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93 (OL 2008 L 218, p. 30).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-39. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos reglamentu (ES) Nr. 202/2011 (OL 2011 L 57, p. 10).
+39. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-40. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1102/2008 dėl metalinio gyvsidabrio ir tam tikrų gyvsidabrio junginių ir mišinių eksporto uždraudimo bei metalinio gyvsidabrio saugaus saugojimo (OL 2008 L 304, p. 75).
+40. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos reglamentu (ES) Nr. 202/2011 (OL 2011 L 57, p. 10).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-41. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas (OL 2008 L 312, p. 3).
+41. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1102/2008 dėl metalinio gyvsidabrio ir tam tikrų gyvsidabrio junginių ir mišinių eksporto uždraudimo bei metalinio gyvsidabrio saugaus saugojimo (OL 2008 L 304, p. 75).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-42. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/104/EB dėl darbo per laikinojo įdarbinimo įmones (OL 2008 L 327, p. 9).
+42. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas (OL 2008 L 312, p. 3).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-43. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 10 d. Komisijos reglamentu (ES) Nr. 286/2011 (OL 2011 L 83, p. 1).
+43. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/104/EB dėl darbo per laikinojo įdarbinimo įmones (OL 2008 L 327, p. 9).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-44. 2008 m. gruodžio 18 d.  Tarybos reglamentas (EB) Nr. 44/2009, iš dalies keičiantis Reglamentą (EB) Nr. 1338/2001, nustatantį priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2009 L 17, p. 1).
+44. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 10 d. Komisijos reglamentu (ES) Nr. 286/2011 (OL 2011 L 83, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-45. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/16/EB dėl uosto valstybės kontrolės (OL 2009 L 131, p. 57) su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu  (ES) 2015/757 (OL 2015 L 123, p. 55). 
+45. 2008 m. gruodžio 18 d.  Tarybos reglamentas (EB) Nr. 44/2009, iš dalies keičiantis Reglamentą (EB) Nr. 1338/2001, nustatantį priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2009 L 17, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-46. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).
+46. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/16/EB dėl uosto valstybės kontrolės (OL 2009 L 131, p. 57) su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu  (ES) 2015/757 (OL 2015 L 123, p. 55). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-47. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11).
+47. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/30/EB, iš dalies keičianti Direktyvos 98/70/EB nuostatas dėl benzino, dyzelinių degalų (dyzelino) ir gazolių kokybės rodiklių, nustatanti šiltnamio efektą sukeliančių dujų stebėsenos ir mažinimo mechanizmą, iš dalies keičianti Tarybos direktyvos 1999/32/EB nuostatas dėl vidaus vandens kelių laivų kuro kokybės rodiklių ir panaikinanti Direktyvą 93/12/EEB (OL 2009 L 140, p. 88), su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1513 (OL 2015 L 239, p. 1). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-48. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų (OL 2009 L 286, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. rugpjūčio 18 d. Komisijos reglamentu (ES) Nr. 744/2010 (OL 2010 L 218, p. 2).
+48. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-49. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/126/EB dėl II pakopos benzino garų grąžinimo degalinėse variklinių transporto priemonių bakus pildant degalų (OL 2009 L 285, p. 36). 
+49. 2009 m. gegužės 6 d. Parlamento ir Tarybos direktyva 2009/41/EB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo (OL 2009 L 125, p. 75). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-50. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB (OL 2009 L 309, p. 1).
+50. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-51. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1). 
+51. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų (OL 2009 L 286, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. rugpjūčio 18 d. Komisijos reglamentu (ES) Nr. 744/2010 (OL 2010 L 218, p. 2).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-52. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 66/2010 dėl ES ekologinio ženklo (OL 2010 L 27, p. 1).
+52. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/126/EB dėl II pakopos benzino garų grąžinimo degalinėse variklinių transporto priemonių bakus pildant degalų (OL 2009 L 285, p. 36). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-53. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinantis Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1).
+53. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB (OL 2009 L 309, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-54. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1223/2009 dėl kosmetikos gaminių (OL 2009 L 342, p. 59).
+54. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-55. 2010 m. kovo 25 d. Komisijos reglamentas (ES) Nr. 255/2010, kuriuo nustatomos bendrosios oro eismo srautų valdymo taisyklės (OL 2010 L 80, p. 10). 
+55. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 66/2010 dėl ES ekologinio ženklo (OL 2010 L 27, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-56. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 995/2010, kuriuo nustatomos veiklos vykdytojų, pateikiančių rinkai medieną ir medienos produktus, pareigos (OL 2010 L 295, p. 23).
+56. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinantis Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-57. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
+57. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1223/2009 dėl kosmetikos gaminių (OL 2009 L 342, p. 59).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-58. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+58. 2010 m. kovo 25 d. Komisijos reglamentas (ES) Nr. 255/2010, kuriuo nustatomos bendrosios oro eismo srautų valdymo taisyklės (OL 2010 L 80, p. 10). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-59. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).
+59. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 995/2010, kuriuo nustatomos veiklos vykdytojų, pateikiančių rinkai medieną ir medienos produktus, pareigos (OL 2010 L 295, p. 23).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-60. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 211/2011 dėl piliečių iniciatyvos (OL 2011 L 65, p. 1).
+60. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-61. 2011 m. kovo  9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (OL 2011 L 88, p. 5).  
+61. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-62. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
+62. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-63. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+63. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 211/2011 dėl piliečių iniciatyvos (OL 2011 L 65, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-64. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1). 
+64. 2011 m. kovo  9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (OL 2011 L 88, p. 5).  
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-65. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012  dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
+65. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-66. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 600/2012 dėl išmetamo šiltnamio efektą sukeliančių dujų kiekio ataskaitų ir tonkilometrių duomenų ataskaitų patikros ir vertintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 1). 
+66. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-67. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 601/2012 dėl išmetamųjų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 30). 
+67. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-68. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38). 
+68. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012  dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-69. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB (OL 2012 L 197, p. 1).
+69. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 600/2012 dėl išmetamo šiltnamio efektą sukeliančių dujų kiekio ataskaitų ir tonkilometrių duomenų ataskaitų patikros ir vertintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-70. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas Nr. (ES) 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60). 
+70. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 601/2012 dėl išmetamųjų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 30). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-71. 2013 m. sausio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 98/2013 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo (OL 2013 L 39, p. 1).
+71. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-72. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1). 
+72. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB (OL 2012 L 197, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-73. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18). 
+73. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas Nr. (ES) 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-74. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1). 
+74. 2013 m. sausio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 98/2013 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo (OL 2013 L 39, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-75. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija) (OL 2013 L 178, p. 27).
+75. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-76. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
+76. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-77. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000 (OL 2013 L 354, p. 1).
+77. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-78. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB (OL 2013 L 354, p. 22). 
+78. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija) (OL 2013 L 178, p. 27).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-79. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1).
+79. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-80. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79). 
+80. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000 (OL 2013 L 354, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-81. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62). 
+81. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB (OL 2013 L 354, p. 22). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-82. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
+82. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 
 
-83. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+83. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+84. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+85. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 511/2014 dėl Nagojos protokolo dėl galimybės naudotis genetiniais ištekliais ir sąžiningo bei teisingo naudos, gaunamos juos naudojant, pasidalijimo naudotojams skirtų atitikties priemonių Sąjungoje (OL 2014 L 150, p. 59). 
+Papildyta straipsnio dalimi:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+86. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+87. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1). 
+Papildyta punktu:
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
+Punkto numeracijos pakeitimas:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+88. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo (OL 2014 L 317, p. 35). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+89. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+90. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB (OL 2015 L 123, p. 55). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
+
+
+
+
+91. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+Punkto numeracijos pakeitimas:
+Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+ 
 
 
 Priedo pakeitimai:
@@ -21325,4 +21786,14 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 100, 101, 106 ir 133
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+Lietuvos Respublikos administracinių nusižengimų kodekso 250, 268, 303, 312, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 236-1, 243-1, 304-1, 304-2 straipsniais įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
