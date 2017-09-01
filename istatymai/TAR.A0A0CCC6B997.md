@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -1139,7 +1139,10 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-8. Režimui areštinėse užtikrinti gali būti naudojamos šio Kodekso 118–124 straipsniuose nustatytos priemonės. 
+8. Režimui areštinėse užtikrinti gali būti naudojamos šio Kodekso 118 ir 119 straipsniuose nustatytos priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
+ 
 
 
 Straipsnio pakeitimai:
@@ -2957,10 +2960,12 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 113 straipsnis. Pataisos įstaigų režimo užtikrinimo priemonės
 
 
-Pataisos įstaigų režimo užtikrinimo priemonės yra šios: pataisos įstaigų apsauga; teisės bei režimo pažeidimų prevencija ir atskleidimas; įėjimo į pataisos įstaigas ir išėjimo iš jų tvarka; pataisos įstaigų vidaus tvarka; dienotvarkė; pataisos įstaigų administracijos veiksmai nuteistųjų badavimo arba atsisakymo dirbti ar vykdyti kitus administracijos įsakymus ir nurodymus atvejais arba nuteistųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, atvejais, taip pat specialiųjų priemonių ir šaunamojo ginklo panaudojimo pagrindai ir tvarka.
+Pataisos įstaigų režimo užtikrinimo priemonės yra šios: pataisos įstaigų apsauga; teisės pažeidimų prevencija ir atskleidimas; įėjimo į pataisos įstaigas ir išėjimo iš jų tvarka; pataisos įstaigų vidaus tvarka; dienotvarkė; pataisos įstaigų administracijos veiksmai nuteistųjų badavimo arba atsisakymo dirbti ar vykdyti kitus administracijos įsakymus ir nurodymus atvejais arba nuteistųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, atvejais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
  
-
-
 
 
 
@@ -2973,7 +2978,10 @@ Pataisos įstaigų režimo užtikrinimo priemonės yra šios: pataisos įstaigų
 
 
 
-2. Jeigu pataisos įstaigoje susidaro ypatinga situacija, numatyta šio Kodekso 123 straipsnio 1 dalyje, įstaigos apsaugai ir tvarkai palaikyti gali būti pasitelktos Viešojo saugumo tarnyba ir policija. Tokio pasitelkimo tvarką nustato Vidaus reikalų ministerija ir Teisingumo ministerija.
+2. Jeigu pataisos įstaigoje susidaro ypatinga situacija (nuteistųjų riaušių, grupinio pasipriešinimo pataisos įstaigos administracijai ar neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, įkaitų grobimo atvejais), tvarkai įstaigoje atkurti ir visuomenės saugumui užtikrinti gali būti pasitelkti Kalėjimų departamento ir jam pavaldžių įstaigų pareigūnai, taip pat Viešojo saugumo tarnybos ir policijos pareigūnai teisingumo ir vidaus reikalų ministrų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
+ 
 
 
 
@@ -3119,285 +3127,42 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-120 straipsnis. Specialiosios priemonės, jų panaudojimo tikslas ir ribos
-
-
-1. Šio Kodekso 121, 122, 123 straipsniuose nustatytais pagrindais ir tvarka pataisos įstaigose gali būti panaudotos specialiosios priemonės: antrankiai, tramdomieji marškiniai ar surišimo priemonės, elektroimpulsiniai prietaisai, lazdos, koviniai imtynių veiksmai, dujos, vandensvaidžiai, tarnybiniai šunys, šarvuočiai ir kita technika.
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+120 straipsnis. Neteko galios nuo 2017-09-01
+Straipsnio naikinimas:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
  
 
 
 
 
-2. Specialiosios priemonės naudojamos atsižvelgiant į teisėtvarkos pažeidimo pobūdį, pažeidėjo asmenybę ir konkrečias aplinkybes bei situaciją. Naudodami specialiąsias priemones, pareigūnai privalo stengtis išvengti sunkių pasekmių.
-
-
-
-
-3. Prieš naudojant specialiąsias priemones, jei leidžia aplinkybės, asmenys, prieš kuriuos jos bus panaudotos, įspėjami.
-
-
-
-
-4. Specialiųjų priemonių naudojimas privalo būti nutrauktas, kai išnyksta jų panaudojimo pagrindai. Panaudojęs specialiąsias priemones pareigūnas privalo suteikti neatidėliotiną medicinos pagalbą, jei tai būtina.
-
-
-
-
-5. Apie specialiųjų priemonių panaudojimo atvejį, jei dėl to padaryta asmens kūno sužalojimų, nedelsiant pranešama prokurorui ir atliekamas tarnybinis patikrinimas.
-
-
-Straipsnio pakeitimai:
-Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
+121 straipsnis. Neteko galios nuo 2017-09-01
+Straipsnio naikinimas:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
  
 
 
 
 
-121 straipsnis. Antrankių, tramdomųjų marškinių ar surišimo priemonių, elektroimpulsinių prietaisų, lazdų, kovinių imtynių veiksmų bei asmens apsaugai skirtų dujų panaudojimo pagrindai 
-Pakeistas straipsnio pavadinimas:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
-
-
-1. Kalėjimų departamento, pataisos įstaigos, policijos ir Viešojo saugumo tarnybos pareigūnai gali panaudoti prieš nuteistuosius antrankius, tramdomuosius marškinius ar surišimo priemones, elektroimpulsinius prietaisus, lazdas, kovinius imtynių veiksmus bei asmens apsaugai skirtas dujas šiais atvejais:
-
-
-1) kai reikia apginti pataisos įstaigos darbuotojus ir kitus asmenis nuo užpuolimo, gresiančio jų gyvybei ar sveikatai, taip pat vaduoti įkaitus;
-
-
-
-
-2) kai reikia sulaikyti teisėtvarkos pažeidimą padariusį nuteistąjį, kuris nevykdo pataisos įstaigos darbuotojo reikalavimų ar priešinasi jėga;
-
-
-
-
-3) kai reikia atremti saugomų objektų bei transporto priemonių užpuolimą;
-
-
-
-
-4) kai prasideda riaušės ar grupiniai tyčiniai veiksmai, šiurkščiai pažeidžiantys pataisos įstaigos vidaus tvarką. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+122 straipsnis. Neteko galios nuo 2017-09-01
+Straipsnio naikinimas:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
  
 
 
 
 
-2. Be šio straipsnio 1 dalyje nurodytų atvejų, antrankiai arba tramdomieji marškiniai ar surišimo priemonės naudojami šiomis aplinkybėmis:
-
-
-1) kai nuteistasis siautėja, – iki nusiraminimo;
-
-
-
-
-2) kai nuteistasis atsisako konvojavimo, sekti į kamerų tipo patalpas, – konvojavimo arba palydos metu;
-Straipsnio punkto pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+123 straipsnis. Neteko galios nuo 2017-09-01
+Straipsnio naikinimas:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
  
 
 
 
 
-3) kai nuteistasis bando žudytis ar susižaloti;
-
-
-
-
-4) konvojuojant nuteistąjį specialiai neįrengtomis transporto priemonėmis;
-
-
-
-
-5) konvojuojant sulaikytą pabėgusį nuteistąjį.
-
-
-
-
-
-
-3. Šio straipsnio 1 ir 2 dalyse nurodytas priemones (išskyrus antrankius ir surišimo priemones) draudžiama panaudoti prieš nepilnamečius, moteris ir neįgaliuosius su akivaizdžiais neįgalumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi jėga ar ginklu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1153, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13600
+124 straipsnis. Neteko galios nuo 2017-09-01
+Straipsnio naikinimas:
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
  
-
-
-Straipsnio pakeitimai:
-Nr. IX-2338, 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
-Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
- 
-
-
-
-
-122 straipsnis. Tarnybinių šunų panaudojimo pagrindai
-
-
-1. Tarnybiniai šunys pataisos įstaigose gali būti panaudoti šiais atvejais:
-
-
-1) saugant pataisos įstaigos teritoriją;
-
-
-
-
-2) konvojuojant nuteistuosius;
-
-
-
-
-3) apžiūrint pataisos įstaigos teritorijas, kuriose draudžiama būti nuteistiesiems, ir šalia esančias teritorijas;
-
-
-
-
-4) tikrinant atvykstančias į pataisos įstaigą ir iš jos išvykstančias transporto priemones ir gabenamus krovinius;
-
-
-
-
-5) ieškant paslėptų narkotinių, psichotropinių ir toksinių medžiagų;
-
-
-
-
-6) atliekant pabėgusių nuteistųjų paiešką ir sulaikant pabėgusius nuteistuosius;
-
-
-
-
-7) siekiant apginti pataisos įstaigos darbuotojus ir kitus asmenis nuo užpuolimo, gresiančio jų gyvybei, kai kitos panaudotos priemonės neveiksmingos.
-
-
-
-
-
-
-2. Draudžiama tarnybinius šunis naudoti prieš moteris, nepilnamečius ir neįgaliuosius su akivaizdžiais neįgalumo požymiais, išskyrus atvejus, kai šie asmenys patys užpuola arba priešinasi ginklu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1153, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13600
- 
-
-
-
-
-
-
-123 straipsnis. Vandensvaidžių, specialios paskirties dujų, šarvuočių ir kitos technikos panaudojimo pagrindai
-
-
-1. Nuteistųjų riaušių arba grupinio pasipriešinimo pataisos įstaigos administracijai atvejais, kai jų metu vyksta pogromai, padegimai, įkaitų grobimai ir kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys pataisos įstaigos vidaus tvarką, Kalėjimų departamento direktoriaus arba jį pavaduojančio pareigūno žodiniu nurodymu prieš nuteistuosius gali būti panaudoti vandensvaidžiai, specialios paskirties dujos, šarvuočiai ir kita technika.
-
-
-
-
-2. Vandensvaidžiai gali būti panaudoti ir pataisos įstaigos direktoriaus arba jį pavaduojančio pareigūno žodiniu nurodymu.
-
-
-
-
-3. Šio straipsnio 1 dalyje nurodytas priemones draudžiama panaudoti prieš nepilnamečius, moteris ir neįgaliuosius su akivaizdžiais neįgalumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi šaunamuoju ginklu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1153, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13600
- 
-
-
-
-
-4. Apie šio straipsnio 1 dalyje nurodytų priemonių panaudojimą nedelsiant pranešama prokurorui. Prokuroras gali nurodyti atlikti tarnybinį patikrinimą. 
- 
-
-
-
-
-
-
-124 straipsnis. Šaunamųjų ginklų panaudojimo tikslas, pagrindai ir tvarka
-
-
-1. Šaunamieji ginklai pataisos įstaigose gali būti panaudoti tik išimtiniais atvejais, kai visi kiti įmanomi būdai ir priemonės panaudoti arba kai dėl laiko stygiaus jų panaudoti nėra galimybės.
-
-
-
-
-2. Šaunamieji ginklai gali būti panaudoti be įspėjimo šiais atvejais:
-
-
-1) atremiant ginkluotą pataisos įstaigos ar konvojaus užpuolimą;
-
-
-
-
-2) kai nuteistieji akivaizdžiai užpuola saugomus objektus, pataisos įstaigos darbuotojus ar kitus asmenis arba daro kitokius tyčinius veiksmus, kurie kelia tiesioginį pavojų pataisos įstaigos darbuotojų ar kitų asmenų gyvybei;
-
-
-
-
-3) kai nuteistieji bando pabėgti transporto priemonėmis arba bando pabėgti iš judančių transporto priemonių;
-
-
-
-
-4) sulaikant besipriešinantį ginklu nuteistąjį;
-
-
-
-
-5) sulaikant bandantį pabėgti naktį ar esant blogam matomumui nuteistąjį; 
-
-
-
-
-6) grupinio bėgimo iš pataisos įstaigos metu.
-
-
-
-
-
-
-3. Šaunamieji ginklai gali būti panaudoti po įspėjimo balsu ir įspėjamojo šūvio į viršų šiais atvejais:
-
-
-1) saugomų objektų, pataisos įstaigos darbuotojų ar kitų asmenų užpuolimo metu;
-
-
-
-
-2) kai nuteistasis bando pabėgti iš pataisos įstaigos arba persekiojant bėgantį nuteistąjį.
-
-
-
-
-
-
-4. Šaunamieji ginklai taip pat gali būti panaudoti Kalėjimų departamento direktoriaus arba jį pavaduojančio pareigūno žodiniu nurodymu nuteistųjų riaušių ar grupinio pasipriešinimo pataisos įstaigos administracijai atvejais, kai jų metu vyksta pogromai, padegimai, įkaitų grobimas ir kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys pataisos įstaigos vidaus tvarką, jeigu kitais būdais ir priemonėmis nutraukti šiuos veiksmus nėra galimybės.
-
-
-
-
-5. Šaunamuosius ginklus draudžiama naudoti, jeigu dėl to gali nukentėti pašaliniai asmenys ir jeigu netoliese yra lengvai užsidegančių ar sprogstamųjų medžiagų saugyklos.
-
-
-
-
-6. Šaunamuosius ginklus draudžiama panaudoti prieš nepilnamečius, moteris ir neįgaliuosius su akivaizdžiais neįgalumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi šaunamuoju ginklu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1153, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13600
- 
-
-
-
-
-7. Naudodami šaunamąjį ginklą, pareigūnai privalo stengtis išvengti sunkių pasekmių. Panaudojęs šaunamąjį ginklą, pareigūnas privalo suteikti neatidėliotiną medicinos pagalbą, jeigu ji būtina. Apie kiekvieną šaunamojo ginklo panaudojimo prieš asmenį atvejį, aplinkybes ir pasekmes nedelsiant pranešama Teisingumo ministerijai ir prokurorui. Prokuroras gali nurodyti atlikti tarnybinį patikrinimą.
- 
-
-
 
 
 
@@ -5545,3 +5310,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso 180 straipsnio ir 3 priedo pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-67, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29147
 Lietuvos Respublikos bausmių vykdymo kodekso 145 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
+Lietuvos Respublikos bausmių vykdymo kodekso 54, 113, 114 straipsnių pakeitimo ir 120, 121, 122, 123, 124 straipsnių pripažinimo netekusiais galios įstatymas
