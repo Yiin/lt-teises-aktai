@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-11-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
- 
-TAR pastaba. Iki įstatymo Nr. XII-2652 įsigaliojimo (2016-12-01) parengtos ir pasirašytos Europos Bendrijos patikros deklaracijos ir Lietuvos Respublikos patikros deklaracijos galioja po šio įstatymo įsigaliojimo, jeigu nėra keičiami šiose deklaracijose nurodytų geležinkelių sistemos struktūrinių posistemių pagrindiniai parametrai ir (ar) geležinkelių sistemos struktūriniams posistemiams nėra atliekamos papildomos Europos Bendrijos ir (ar) Lietuvos Respublikos patikros procedūros. Po šio įstatymo įsigaliojimo pakeitus geležinkelių sistemos struktūrinių posistemių pagrindinius parametrus ir (ar) atlikus papildomas Europos Bendrijos ir (ar) Lietuvos Respublikos patikros procedūras, Europos Bendrijos patikros deklaracija rengiama Lietuvos Respublikos susisiekimo ministro nustatyta Europos Bendrijos patikros deklaracijos rengimo tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
-Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 2, 6, 9 straipsnių ir priedo pakeitimo įstatymas
  
 Nauja redakcija nuo 2015-09-01:
 Nr. XII-1793, 2015-06-16, paskelbta TAR 2015-06-30, i. k. 2015-10382
@@ -502,7 +497,10 @@ Eismo SAUGOS UŽTIKRINIMAS IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 
 
-2. Eismo saugos institucijos funkcijas atlieka Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos, kurios savininko teises ir pareigas įgyvendina Lietuvos Respublikos Vyriausybės įgaliota ministerija.
+2. Neteko galios.
+Straipsnio dalies pakeitimai:
+Nr. XIII-589, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11958
+ 
 
 
 
@@ -2975,3 +2973,8 @@ Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-190
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 2, 6, 9 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-589, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11958
+Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 6 straipsnio pakeitimo įstatymas
