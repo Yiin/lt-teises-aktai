@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2901,7 +2901,10 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 
 
 
-6) Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos;
+6) susisiekimo ministro įgaliota įstaiga, atsakinga už geležinkelių transporto eismo saugą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-591, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11960
+ 
 
 
 
@@ -5033,3 +5036,13 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-336, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07559
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 14 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-591, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11960
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 straipsnio pakeitimo įstatymas
