@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-07-18
+Suvestinė redakcija nuo 2017-09-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -1181,7 +1181,10 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės.
+8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės, taip pat kurioje įgyvendinami ypatingos valstybinės svarbos krašto apsaugos srities projektai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+ 
 
 
 
@@ -1197,6 +1200,14 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 11. Miško iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (medelynams įrengti, miško ūkiniams keliams tiesti, priešgaisrinėms juostoms, technologiniams proskiebiams, poilsio aikštelėms ir medienos sandėliams įrengti, nustatyta tvarka žvyrui ir smėliui kasti miško ūkio reikmėms) nėra miško žemės pavertimas kitomis naudmenomis.
+
+
+
+
+12. Teritorijose, skirtose krašto apsaugos tikslams, miško žemė paverčiama kitomis naudmenomis netaikant šio straipsnio 4, 5 ir 6 dalyse nustatytų reikalavimų, kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+ 
 
 
 Straipsnio pakeitimai:
