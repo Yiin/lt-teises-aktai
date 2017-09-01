@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2017-04-08 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -620,7 +620,10 @@ GELEŽINKELIŲ TRANSPORTO VIEŠASIS ADMINISTRAVIMAS
 7 straipsnis. Geležinkelių transporto viešojo administravimo subjektai
 
 
-1. Geležinkelių transporto viešąjį administravimą vykdo Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija) – Vyriausybės įgaliota institucija, šio straipsnio 3 dalyje nurodyta įstaiga ir Lietuvos Respublikos ryšių reguliavimo tarnyba.
+1. Geležinkelių transporto viešąjį administravimą vykdo Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), geležinkelių transporto eismo saugos institucija ir Lietuvos Respublikos ryšių reguliavimo tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
+ 
 
 
 
@@ -630,7 +633,7 @@ GELEŽINKELIŲ TRANSPORTO VIEŠASIS ADMINISTRAVIMAS
 
 
 
-3. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos: 
+3. Geležinkelių transporto eismo saugos institucija:
 
 
 1) įgyvendina geležinkelių transporto politiką;
@@ -663,9 +666,12 @@ GELEŽINKELIŲ TRANSPORTO VIEŠASIS ADMINISTRAVIMAS
 
 
 
-7) atlieka eismo saugos institucijos ir kitas šiame Kodekse ir kituose teisės aktuose nustatytas funkcijas.
+7) atlieka kitas šiame Kodekse ir kituose teisės aktuose nustatytas funkcijas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
+ 
 
 
 
@@ -998,12 +1004,12 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-3. Geležinkelio įmonės (vežėjo) licencijas, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo, operatyvumo principais, išduoda, jų galiojimą sustabdo, galiojimo sustabdymą ir galiojimą panaikina Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos. Dokumentai geležinkelio įmonės (vežėjo) licencijai gauti gali būti pateikiami per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į Valstybinę geležinkelio inspekciją prie Susisiekimo ministerijos. 
+3. Geležinkelio įmonės (vežėjo) licencijas, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo, operatyvumo principais, išduoda, jų galiojimą sustabdo, galiojimo sustabdymą ir galiojimą panaikina geležinkelių transporto eismo saugos institucija. Dokumentai geležinkelio įmonės (vežėjo) licencijai gauti gali būti pateikiami per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipiantis į geležinkelių transporto eismo saugos instituciją. 
 
 
 
 
-4. Išduodama elektroninės formos geležinkelio įmonės (vežėjo) licencija. Geležinkelio įmonės (vežėjo) licencijos galiojimą patvirtina įrašas Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos viešai skelbiamame Geležinkelio įmonių (vežėjų) licencijų turėtojų sąraše. Geležinkelio įmonės (vežėjo) pageidavimu Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos išduoda pažymą, patvirtinančią, kad geležinkelio įmonei (vežėjui) išduota geležinkelio įmonės (vežėjo) licencija. Geležinkelio įmonės (vežėjo) licencijos išduodamos neterminuotam laikui. 
+4. Išduodama elektroninės formos geležinkelio įmonės (vežėjo) licencija. Geležinkelio įmonės (vežėjo) licencijos galiojimą patvirtina įrašas geležinkelių transporto eismo saugos institucijos viešai skelbiamame Geležinkelio įmonių (vežėjų) licencijų turėtojų sąraše. Geležinkelio įmonės (vežėjo) pageidavimu geležinkelių transporto eismo saugos institucija išduoda pažymą, patvirtinančią, kad geležinkelio įmonei (vežėjui) išduota geležinkelio įmonės (vežėjo) licencija. Geležinkelio įmonės (vežėjo) licencijos išduodamos neterminuotam laikui. 
 
 
 
@@ -1013,15 +1019,12 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-6. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos, nustačiusi, kad įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, pateikė ne visus reikiamus dokumentus, dokumentuose yra klaidingų ir (ar) netikslių duomenų, apie nustatytus trūkumus per 5 dienas nuo prašymo išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedamų dokumentų gavimo dienos kartu su pranešimu, kad prašymas išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedami dokumentai yra gauti, informuoja įmonę ir nustato 30 dienų terminą trūkumams pašalinti. Jeigu įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, per nustatytą laiką nepašalina nustatytų trūkumų ir (ar) nepateikia reikalaujamų dokumentų, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos ne vėliau kaip per 5 dienas pasibaigus terminui pašalinti nustatytus trūkumus ir (ar) pateikti reikalaujamus dokumentus priima sprendimą prašymą išduoti geležinkelio įmonės (vežėjo) licenciją palikti nenagrinėtą ir per 5 dienas nuo šio sprendimo priėmimo apie tai informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Įmonė, kuri pakartotinai pateikia prašymą išduoti geležinkelio įmonės (vežėjo) licenciją, gali neteikti dokumentų, kurie jau buvo pateikti pirmą kartą prašant išduoti geležinkelio įmonės (vežėjo) licenciją, jeigu nepasikeitė pateiktuose dokumentuose nurodyta informacija. Tuo atveju, kai pateikiami visi reikalaujami dokumentai ar per nustatytą terminą pateikiami trūkstami dokumentai, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos apie tai per 5 dienas nuo šių dokumentų gavimo informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Šioje dalyje nurodyta informacija įmonei, pageidaujančiai gauti geležinkelio įmonės (vežėjo) licenciją, pateikiama tokiu būdu, kokiu pateiktas prašymas išduoti geležinkelio įmonės (vežėjo) licenciją, išskyrus atvejus, kai prašyme išduoti geležinkelio įmonės (vežėjo) licenciją nurodytas kitoks informacijos gavimo būdas. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
- 
+6. Geležinkelių transporto eismo saugos institucija, nustačiusi, kad įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, pateikė ne visus reikiamus dokumentus, dokumentuose yra klaidingų ir (ar) netikslių duomenų, apie nustatytus trūkumus per 5 dienas nuo prašymo išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedamų dokumentų gavimo dienos kartu su pranešimu, kad prašymas išduoti geležinkelio įmonės (vežėjo) licenciją ir pridedami dokumentai yra gauti, informuoja įmonę ir nustato 30 dienų terminą trūkumams pašalinti. Jeigu įmonė, pageidaujanti gauti geležinkelio įmonės (vežėjo) licenciją, per nustatytą laiką nepašalina nustatytų trūkumų ir (ar) nepateikia reikalaujamų dokumentų, geležinkelių transporto eismo saugos institucija ne vėliau kaip per 5 dienas pasibaigus terminui pašalinti nustatytus trūkumus ir (ar) pateikti reikalaujamus dokumentus priima sprendimą prašymą išduoti geležinkelio įmonės (vežėjo) licenciją palikti nenagrinėtą ir per 5 dienas nuo šio sprendimo priėmimo apie tai informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Įmonė, kuri pakartotinai pateikia prašymą išduoti geležinkelio įmonės (vežėjo) licenciją, gali neteikti dokumentų, kurie jau buvo pateikti pirmą kartą prašant išduoti geležinkelio įmonės (vežėjo) licenciją, jeigu nepasikeitė pateiktuose dokumentuose nurodyta informacija. Tuo atveju, kai pateikiami visi reikalaujami dokumentai ar per nustatytą terminą pateikiami trūkstami dokumentai, geležinkelių transporto eismo saugos institucija apie tai per 5 dienas nuo šių dokumentų gavimo informuoja įmonę, pageidaujančią gauti geležinkelio įmonės (vežėjo) licenciją. Šioje dalyje nurodyta informacija įmonei, pageidaujančiai gauti geležinkelio įmonės (vežėjo) licenciją, pateikiama tokiu būdu, kokiu pateiktas prašymas išduoti geležinkelio įmonės (vežėjo) licenciją, išskyrus atvejus, kai prašyme išduoti geležinkelio įmonės (vežėjo) licenciją nurodytas kitoks informacijos gavimo būdas.
 
 
 
 
-7. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos priima sprendimą neišduoti geležinkelio įmonės (vežėjo) licencijos, jeigu įmonė, kuri pageidauja gauti geležinkelio įmonės (vežėjo) licenciją, neatitinka šio straipsnio 2 dalyje nustatytų reikalavimų. Sprendime neišduoti geležinkelio įmonės (vežėjo) licencijos privalo būti nurodytos tokio spendimo priežastys.
+7. Geležinkelių transporto eismo saugos institucija priima sprendimą neišduoti geležinkelio įmonės (vežėjo) licencijos, jeigu įmonė, kuri pageidauja gauti geležinkelio įmonės (vežėjo) licenciją, neatitinka šio straipsnio 2 dalyje nustatytų reikalavimų. Sprendime neišduoti geležinkelio įmonės (vežėjo) licencijos privalo būti nurodytos tokio spendimo priežastys.
 
 
 
@@ -1049,7 +1052,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-2) pateikti prašymą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu geležinkelio įmonė (vežėjas) neketina vykdyti licencijuojamos veiklos ilgiau kaip 6 mėnesius arba neketina pradėti vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos;
+2) pateikti prašymą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu geležinkelio įmonė (vežėjas) neketina vykdyti licencijuojamos veiklos ilgiau kaip 6 mėnesius arba neketina pradėti vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos;
 
 
 
@@ -1059,70 +1062,64 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-4) geležinkelio įmonė (vežėjas) per 10 dienų nuo geležinkelio įmonės (vežėjo) pavadinimo, teisinės formos arba buveinės adreso pasikeitimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti prašymą pakeisti turimą licenciją; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
- 
+4) geležinkelio įmonė (vežėjas) per 10 dienų nuo geležinkelio įmonės (vežėjo) pavadinimo, teisinės formos arba buveinės adreso pasikeitimo turi apie tai pranešti geležinkelių transporto eismo saugos institucijai ir pateikti prašymą pakeisti turimą licenciją;
 
 
 
 
-5) geležinkelio įmonė (vežėjas) ne vėliau kaip per 3 darbo dienas nuo geležinkelio įmonės (vežėjo) apdraudimo šio Kodekso 101 straipsnyje nustatytu civilinės atsakomybės draudimu turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti tai patvirtinančių dokumentų kopijas;
+5) geležinkelio įmonė (vežėjas) ne vėliau kaip per 3 darbo dienas nuo geležinkelio įmonės (vežėjo) apdraudimo šio Kodekso 101 straipsnyje nustatytu civilinės atsakomybės draudimu turi apie tai pranešti geležinkelių transporto eismo saugos institucijai ir pateikti tai patvirtinančių dokumentų kopijas;
 
 
 
 
-6) susijungus įmonėms arba įsigijus naują įmonę, pasikeitus geležinkelio įmonės (vežėjo) valdymo organų nariui ar nariams, vadovui ar jo įgaliotiems asmenims, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu veiklai, taip pat kai dalyvaujanti reorganizavime įmonė nepasibaigia, bet pasikeičia geležinkelio įmonės (vežėjo) dalyviai, nuosavybės teise tiesiogiai arba netiesiogiai valdantys mažiausiai 34 procentus įmonės akcijų (pajų, įnašų ir panašiai), geležinkelio įmonė (vežėjas) per 10 dienų atitinkamai nuo geležinkelio įmonės (vežėjo) reorganizavimo pabaigos, valdymo organų narių, vadovo ar jo įgaliotų asmenų pasikeitimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti šiame punkte nurodytų asmenų atitiktį šio straipsnio 2 dalies 1 punkte nustatytiems reikalavimams patvirtinančių dokumentų kopijas, jeigu tokie dokumentai nebuvo pateikti kartu su prašymu išduoti geležinkelio įmonės (vežėjo) licenciją; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
- 
+6) susijungus įmonėms arba įsigijus naują įmonę, pasikeitus geležinkelio įmonės (vežėjo) valdymo organų nariui ar nariams, vadovui ar jo įgaliotiems asmenims, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu veiklai, taip pat kai dalyvaujanti reorganizavime įmonė nepasibaigia, bet pasikeičia geležinkelio įmonės (vežėjo) dalyviai, nuosavybės teise tiesiogiai arba netiesiogiai valdantys mažiausiai 34 procentus įmonės akcijų (pajų, įnašų ir panašiai), geležinkelio įmonė (vežėjas) per 10 dienų atitinkamai nuo geležinkelio įmonės (vežėjo) reorganizavimo pabaigos, valdymo organų narių, vadovo ar jo įgaliotų asmenų pasikeitimo turi apie tai pranešti geležinkelių transporto eismo saugos institucijai ir pateikti šiame punkte nurodytų asmenų atitiktį šio straipsnio 2 dalies 1 punkte nustatytiems reikalavimams patvirtinančių dokumentų kopijas, jeigu tokie dokumentai nebuvo pateikti kartu su prašymu išduoti geležinkelio įmonės (vežėjo) licenciją;
 
 
 
 
-7) geležinkelio įmonė (vežėjas), ketinanti pakeisti arba išplėsti licencijuojamą veiklą, nurodytą geležinkelio įmonės (vežėjo) licencijoje, per 10 dienų nuo sprendimo pakeisti arba išplėsti licencijuojamą veiklą priėmimo turi apie tai pranešti Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos ir pateikti prašymą pakeisti turimą licenciją, taip pat geležinkelio įmonės (vežėjo) atitiktį šio straipsnio 2 dalyje nustatytiems reikalavimams patvirtinančių dokumentų kopijas, jeigu ji tokių dokumentų nebuvo pateikusi kartu su prašymu išduoti turimą geležinkelio įmonės (vežėjo) licenciją;
+7) geležinkelio įmonė (vežėjas), ketinanti pakeisti arba išplėsti licencijuojamą veiklą, nurodytą geležinkelio įmonės (vežėjo) licencijoje, per 10 dienų nuo sprendimo pakeisti arba išplėsti licencijuojamą veiklą priėmimo turi apie tai pranešti geležinkelių transporto eismo saugos institucijai ir pateikti prašymą pakeisti turimą licenciją, taip pat geležinkelio įmonės (vežėjo) atitiktį šio straipsnio 2 dalyje nustatytiems reikalavimams patvirtinančių dokumentų kopijas, jeigu ji tokių dokumentų nebuvo pateikusi kartu su prašymu išduoti turimą geležinkelio įmonės (vežėjo) licenciją;
 
 
 
 
-8) sudaryti sąlygas Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos darbuotojams tikrinti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimą naudojantis geležinkelių linijomis ir pateiktą informaciją, susijusią su licencijuojama veikla.
+8) sudaryti sąlygas geležinkelių transporto eismo saugos institucijos darbuotojams tikrinti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimą naudojantis geležinkelių linijomis ir pateiktą informaciją, susijusią su licencijuojama veikla.
 
 
 
 
 
 
-10. Geležinkelio įmonės (vežėjo) licencijuojamos veiklos priežiūrą atlieka Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos Viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+10. Geležinkelio įmonės (vežėjo) licencijuojamos veiklos priežiūrą atlieka geležinkelių transporto eismo saugos institucija Viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
 
 
 
 
-11. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos priima sprendimą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu:
+11. Geležinkelių transporto eismo saugos institucija priima sprendimą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu:
 
 
-1) geležinkelio įmonė (vežėjas) pateikia prašymą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, kadangi geležinkelio įmonė (vežėjas) neketina vykdyti licencijuojamos veiklos ilgiau kaip 6 mėnesius arba neketina pradėti vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos;
-
-
-
-
-2) per Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos nustatytą terminą nepašalinami licencijuojamos veiklos sąlygų, nurodytų šio straipsnio 8 dalyje, pažeidimai, dėl kurių geležinkelio įmonė (vežėjas) įspėta Viešojo administravimo įstatymo nustatyta tvarka;
+1) geležinkelio įmonė (vežėjas) pateikia prašymą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, kadangi geležinkelio įmonė (vežėjas) neketina vykdyti licencijuojamos veiklos ilgiau kaip 6 mėnesius arba neketina pradėti vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos;
 
 
 
 
-3) paaiškėja, kad geležinkelio įmonės (vežėjo) licencijai gauti pateikti klaidingi duomenys ir geležinkelio įmonė (vežėjas) per Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos nustatytą terminą nepateikia ištaisytų ar tikrovę atitinkančių dokumentų.
+2) per geležinkelių transporto eismo saugos institucijos nustatytą terminą nepašalinami licencijuojamos veiklos sąlygų, nurodytų šio straipsnio 8 dalyje, pažeidimai, dėl kurių geležinkelio įmonė (vežėjas) įspėta Viešojo administravimo įstatymo nustatyta tvarka;
+
+
+
+
+3) paaiškėja, kad geležinkelio įmonės (vežėjo) licencijai gauti pateikti klaidingi duomenys ir geležinkelio įmonė (vežėjas) per geležinkelių transporto eismo saugos institucijos nustatytą terminą nepateikia ištaisytų ar tikrovę atitinkančių dokumentų.
 
 
 
 
 
 
-12. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos priima sprendimą panaikinti geležinkelio įmonės (vežėjo) licencijos galiojimo sustabdymą, kai geležinkelio įmonė (vežėjas) pateikia dokumentus, įrodančius, kad pažeidimai ar priežastys, dėl kurių geležinkelio įmonės (vežėjo) licencijos galiojimas sustabdytas, yra pašalinti.
+12. Geležinkelių transporto eismo saugos institucija priima sprendimą panaikinti geležinkelio įmonės (vežėjo) licencijos galiojimo sustabdymą, kai geležinkelio įmonė (vežėjas) pateikia dokumentus, įrodančius, kad pažeidimai ar priežastys, dėl kurių geležinkelio įmonės (vežėjo) licencijos galiojimas sustabdytas, yra pašalinti.
 
 
 
 
-13. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos priima sprendimą panaikinti geležinkelio įmonės (vežėjo) licencijos galiojimą, kai:
+13. Geležinkelių transporto eismo saugos institucija priima sprendimą panaikinti geležinkelio įmonės (vežėjo) licencijos galiojimą, kai:
 
 
 1) geležinkelio įmonė (vežėjas) pateikia prašymą panaikinti geležinkelio įmonės (vežėjo) licencijos galiojimą;
@@ -1130,7 +1127,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-2) per Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos nustatytą laiką nepašalinamos priežastys ar pažeidimai, dėl kurių sustabdytas geležinkelio įmonės (vežėjo) licencijos galiojimas;
+2) per geležinkelių transporto eismo saugos institucijos nustatytą laiką nepašalinamos priežastys ar pažeidimai, dėl kurių sustabdytas geležinkelio įmonės (vežėjo) licencijos galiojimas;
 
 
 
@@ -1145,7 +1142,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-5) geležinkelio įmonei (vežėjui) pradėta bankroto procedūra (jeigu Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos yra įsitikinusi, kad per pagrįstą laikotarpį pertvarkyti geležinkelio įmonę (vežėją) finansiškai nėra realios galimybės);
+5) geležinkelio įmonei (vežėjui) pradėta bankroto procedūra (jeigu geležinkelių transporto eismo saugos institucija yra įsitikinusi, kad per pagrįstą laikotarpį pertvarkyti geležinkelio įmonę (vežėją) finansiškai nėra realios galimybės);
 
 
 
@@ -1155,7 +1152,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-7) geležinkelio įmonė (vežėjas) nevykdo licencijuojamos veiklos ilgiau kaip pastaruosius 6 mėnesius arba nepradėjo vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos ir nepateikė Valstybinei geležinkelio inspekcijai prie Susisiekimo ministerijos prašymo sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą;
+7) geležinkelio įmonė (vežėjas) nevykdo licencijuojamos veiklos ilgiau kaip pastaruosius 6 mėnesius arba nepradėjo vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos ir nepateikė geležinkelių transporto eismo saugos institucijai prašymo sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą;
 
 
 
@@ -1167,20 +1164,19 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-14. Nustačiusi šio straipsnio 11 dalyje nurodytų reikalavimų nesilaikymo ar netinkamo taikymo faktą, kurį atsižvelgiant į konkrečias aplinkybes ir veiksnius galima vertinti kaip mažareikšmį, Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos turi teisę priimti sprendimą nestabdyti geležinkelio įmonės (vežėjo) licencijos galiojimo, o pareikšti geležinkelio įmonei (vežėjui) žodinę pastabą arba pateikti rašytinį nurodymą ir nustatyti protingą terminą pažeidimams pašalinti. Šis terminas, atsižvelgiant į objektyvias aplinkybes, gali būti pratęstas. Mažareikšmis teisės aktų reikalavimų pažeidimas suprantamas kaip veika, pažeidžianti teisės aktų reikalavimus, kurių pažeidimas nepadarė žalos viešajam interesui ar žmonių sveikatai, gyvybei ir kitiems šio Kodekso saugomiems interesams, arba tokia žala labai nedidelė.
+14. Nustačiusi šio straipsnio 11 dalyje nurodytų reikalavimų nesilaikymo ar netinkamo taikymo faktą, kurį atsižvelgiant į konkrečias aplinkybes ir veiksnius galima vertinti kaip mažareikšmį, geležinkelių transporto eismo saugos institucija turi teisę priimti sprendimą nestabdyti geležinkelio įmonės (vežėjo) licencijos galiojimo, o pareikšti geležinkelio įmonei (vežėjui) žodinę pastabą arba pateikti rašytinį nurodymą ir nustatyti protingą terminą pažeidimams pašalinti. Šis terminas, atsižvelgiant į objektyvias aplinkybes, gali būti pratęstas. Mažareikšmis teisės aktų reikalavimų pažeidimas suprantamas kaip veika, pažeidžianti teisės aktų reikalavimus, kurių pažeidimas nepadarė žalos viešajam interesui ar žmonių sveikatai, gyvybei ir kitiems šio Kodekso saugomiems interesams arba tokia žala labai nedidelė.
 
 
 
 
-15. Reikalavimai, susiję su geležinkelio įmonės (vežėjo) licencijos išdavimu, pakeitimu, atsisakymu išduoti licenciją, geležinkelio įmonės (vežėjo) licencijos galiojimo sustabdymu, galiojimo sustabdymo panaikinimu, galiojimo panaikinimu, licencijuojamos veiklos sąlygų laikymusi, įgyvendinimo tvarka nustatomi Geležinkelio įmonių (vežėjų) licencijavimo taisyklėse, kurias tvirtina Vyriausybė.
-Straipsnio dalies pakeitimai:
-Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
- 
+15. Reikalavimai, susiję su geležinkelio įmonės (vežėjo) licencijos išdavimu, pakeitimu, atsisakymu išduoti licenciją, geležinkelio įmonės (vežėjo) licencijos galiojimo sustabdymu, galiojimo sustabdymo panaikinimu, galiojimo panaikinimu, licencijuojamos veiklos sąlygų laikymusi, įgyvendinimo tvarka, nustatomi Geležinkelio įmonių (vežėjų) licencijavimo taisyklėse, kurias tvirtina Vyriausybė. 
 
 
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+Straipsnio pakeitimai:
+Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
  
 
 
@@ -1363,7 +1359,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-5. Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos priima sprendimus:
+5. Geležinkelių transporto eismo saugos institucija priima sprendimus:
 
 
 1) dėl saugos sertifikatų, nurodytų šio straipsnio 3 dalyje, išdavimo Lietuvos Respublikoje registruotoms geležinkelio įmonėms (vežėjams), taip pat įmonėms, nurodytoms šio Kodekso 28 straipsnio 3 dalyje, šių sertifikatų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo, atnaujinimo, papildymo ir pakeitimo;
@@ -1381,6 +1377,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 Straipsnio dalies pakeitimai:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
  
 
 
@@ -1564,7 +1561,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-3. Lietuvos Respublikos geležinkelių infrastruktūros registro valdytoja yra Susisiekimo ministerija. Registro tvarkytojo funkcijas atlieka Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos.
+3. Lietuvos Respublikos geležinkelių infrastruktūros registro valdytoja yra Susisiekimo ministerija. Registro tvarkytojo funkcijas atlieka geležinkelių transporto eismo saugos institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
+ 
 
 
 Straipsnio pakeitimai:
@@ -1775,7 +1775,10 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 
 
 
-4. Privažiuojamųjų geležinkelio kelių būklei, eksploatacijai, geležinkelių riedmenims ir juos prižiūrinčiam personalui taikomi viešosios geležinkelių infrastruktūros reikalavimai, nustatyti Geležinkelių transporto eismo saugos įstatyme ir susisiekimo ministro tvirtinamose taisyklėse. Kaip jų laikomasi, kontroliuoja Valstybinė geležinkelio inspekcija prie Susisiekimo ministerijos.
+4. Privažiuojamųjų geležinkelio kelių būklei, eksploatacijai, geležinkelių riedmenims ir juos prižiūrinčiam personalui taikomi viešosios geležinkelių infrastruktūros reikalavimai, nustatyti Geležinkelių transporto eismo saugos įstatyme ir susisiekimo ministro tvirtinamose taisyklėse. Kaip jų laikomasi, kontroliuoja geležinkelių transporto eismo saugos institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
+ 
 
 
 
