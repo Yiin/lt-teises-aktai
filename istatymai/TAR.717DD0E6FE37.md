@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
  
@@ -62,37 +62,22 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Saugomas asmuo – asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės.
+1. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.
 
 
 
 
-2. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.
+2. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.
 
 
 
 
-3. Psichinė prievarta – įspėjimas apie ketinimą panaudoti specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginami šaunamojo ginklo demonstravimas ir įspėjamieji šūviai.
+3. Saugomas asmuo – asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės. 
 
 
-
-
-4. Speciali jėga – bet kokio pobūdžio fizinė jėga, koviniai imtynių veiksmai ir specialiųjų priemonių naudojimas.
-
-
-
-
-5. Specialiosios priemonės – guminės lazdos, antrankiai, surišimo priemonės, dujos, tarnybiniai šunys, transporto priverstinio sustabdymo ir kitos teisės aktų nustatytos aktyvios ir pasyvios gynybos priemonės.
-
-
-
-
-6. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.
-Straipsnio dalies pakeitimai:
-Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
+Straipsnio pakeitimai:
+Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
  
-
-
 
 
 
@@ -549,149 +534,10 @@ Kai išnyksta šio įstatymo 5 straipsnyje nurodyti pagrindai arba yra šio įst
 
 
 
-KETVIRTASIS SKIRSNIS
-PSICHINĖS PRIEVARTOS, SPECIALIOS JĖGOS, ŠAUNAMOJO GINKLO AR SPROGSTAMŲJŲ MEDŽIAGŲ PANAUDOJIMAS
+4 skirsnis. Neteko galios nuo 2017-09-01
+Skirsnio naikinimas:
+Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
  
-
-
-20 straipsnis. Psichinės prievartos, specialios jėgos, šaunamojo ginklo ar sprogstamųjų medžiagų panaudojimo bendrosios sąlygos
-
-
-1. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti psichinę prievartą, specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, kai būtina užkirsti kelią nusikalstamai veikai prieš saugomą asmenį ar pareigūną ir sulaikyti ją padariusius asmenis.
-
-
-
-
-2. Psichinė prievarta, speciali jėga, šaunamasis ginklas ar sprogstamosios medžiagos, dėl kurių žmogus gali būti sužalotas ar mirti arba būti kitokių sunkių padarinių, gali būti naudojamos tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik tada, jei visos įmanomos įtikinimo priemonės nėra veiksmingos. Ar naudoti psichinę prievartą, specialią jėgą, šaunamąjį ginklą, sprogstamąsias medžiagas, sprendžia ir jų panaudojimo ribas pasirenka policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, atsižvelgdamas į konkrečią situaciją ir nusikalstamos veikos pobūdį. Naudodamas specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas privalo stengtis išvengti sunkių padarinių.
-
-
-
-
-3. Prieš naudodamas specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas privalo apie tai įspėti, suteikdamas asmeniui galimybę įvykdyti reikalavimus ar nurodymus, išskyrus atvejus, kai delsimas kelia grėsmę saugomo asmens ar pareigūno gyvybei ar sveikatai arba kai įspėti neįmanoma.
-
-
-
-
-4. Apie pareigūno panaudotą specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, jei dėl to mirė ar buvo sužalotas žmogus, nedelsiant pranešama prokurorui.
- 
-
-
-
-
-
-
-21 straipsnis. Psichinės prievartos panaudojimo pagrindai
-
-
-Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas turi teisę panaudoti psichinę prievartą, jei yra šio įstatymo 22 ir 23 straipsniuose nurodyti pagrindai.
- 
-
-
-
-
-
-
-22 straipsnis. Specialios jėgos panaudojimo pagrindai
-
-
-1. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti specialią jėgą:
-
-
-1) gindamas saugomą asmenį, gindamasis pats ar gindamas kitą pareigūną, įgyvendinantį apsaugos nuo nusikalstamo poveikio priemones, nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai kėsinimosi arba siekdamas išgelbėti saugomą asmenį nuo susižalojimo ar savižudybės;
-
-
-
-
-2) sulaikydamas pasikėsinusį į saugomo asmens ar pareigūno sveikatą ar gyvybę asmenį, kuris aktyviais veiksmais vengia sulaikymo, arba kai yra pakankamas pagrindas manyti, kad jis gali pasipriešinti policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnui;
-
-
-
-
-3) jeigu sulaikomas, pristatomas, konvojuojamas ar sulaikytas asmuo bando priešintis aktyviais ar pasyviais veiksmais arba artinasi prie policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūno ir nevykdo pareigūno reikalavimo laikytis nurodyto atstumo;
-
-
-
-
-4) kai kėsinamasi į policijos, Kalėjimų departamento ar jam pavaldžios įstaigos transporto priemonę, šaunamąjį ginklą, sprogstamąsias medžiagas, sprogmenis, specialiąsias ryšio ar kitas priemones.
-
-
-
-
-
-
-2. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę transporto priemone stabdyti, blokuoti arba taranuoti kitą transporto priemonę, jeigu jos vairuotojas ar kitas toje transporto priemonėje esantis asmuo savo veiksmais kelia pavojų saugomo asmens gyvybei. Jei pareigūnas blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla grėsmė asmenų gyvybei, po tokių veiksmų jis turi imtis priemonių šių veiksmų padariniams pašalinti.
-
-
-
-
-3. Specialią jėgą (išskyrus antrankius ir surišimo priemones) draudžiama naudoti prieš moteris, nepilnamečius ir neįgalius asmenis, kai jų negalia akivaizdi, išskyrus atvejus, kai jie patys užpuola arba priešinasi jėga ar ginklu.
- 
-
-
-
-
-
-
-23 straipsnis. Šaunamojo ginklo panaudojimo pagrindai
-
-
-1. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę kaip išimtinę priemonę panaudoti šaunamąjį ginklą prieš asmenį:
-
-
-1) gindamas saugomą asmenį, gindamasis pats ar gindamas kitą pareigūną, taikantį apsaugos nuo nusikalstamo poveikio priemones, nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei nusikalstamo kėsinimosi;
-
-
-
-
-2) sulaikydamas pasikėsinusį į saugomo asmens ar pareigūno gyvybę asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako vykdyti reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kyla pavojus saugomo asmens ar pareigūno gyvybei ir kitaip jo neįmanoma nuginkluoti;
-
-
-
-
-3) atremdamas saugomų objektų ginkluotą užpuolimą.
-
-
-
-
-
-
-2. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti šaunamąjį ginklą prieš transporto priemonę:
-
-
-1) kai transporto priemonė naudojama pavojingam gyvybei kėsinimuisi į saugomą asmenį ar pareigūną;
-
-
-
-
-2) sulaikydamas pasikėsinimą į saugomo asmens ar pareigūno gyvybę padariusį asmenį, kai jis bando transporto priemone pabėgti.
-
-
-
-
-
-
-3. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, kai jis kelia grėsmę pareigūno, saugomo ar kito asmens sveikatai ir gyvybei.
-
-
-
-
-4. Draudžiama naudoti šaunamuosius ginklus žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, taip pat prieš moteris, nepilnamečius ir neįgalius asmenis, kai jų negalia akivaizdi, išskyrus atvejus, kai jie patys užpuola arba priešinasi šaunamuoju ginklu.
- 
-
-
-
-
-
-
-24 straipsnis. Sprogstamųjų medžiagų panaudojimo pagrindai
-
-
-Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, nekeldamas grėsmės žmogaus gyvybei, turi teisę panaudoti sprogstamąsias medžiagas, kai atliekami saugomo asmens ar pareigūno gyvybei keliantys grėsmę nusikalstami veiksmai, taip pat būtinojo reikalingumo ar būtinosios ginties sąlygomis, išskyrus atvejus, kai sprogstamosios medžiagos naudojamos kaip specialiosios priemonės.
- 
-
-
-
-
 
 
 
@@ -768,3 +614,8 @@ Lietuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, te
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010ISTA0XI-2242
 Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo pavadinimo ir 1, 2, 4, 5, 6, 15 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
+Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 2 straipsnio pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymas
