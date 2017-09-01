@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2017-06-15 iki 2017-08-31
+Suvestinė redakcija nuo 2017-09-01 iki 2019-07-05
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -500,7 +500,9 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-7. Tardymo izoliatoriaus administracija ypatingų situacijų metu veikia vadovaudamasi Bausmių vykdymo kodekso 118 ir 119 straipsnių, o specialiąsias priemones ir šaunamuosius ginklus naudoja vadovaudamasi Bausmių vykdymo kodekso 120–124 straipsnių nuostatomis.
+7. Tardymo izoliatoriaus administracija ypatingų situacijų metu veikia vadovaudamasi Bausmių vykdymo kodekso 118 ir 119 straipsnių nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-495, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10916
  
 
 
@@ -1864,3 +1866,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 14, 23, 31 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-495, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10916
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 11 straipsnio pakeitimo įstatymas
