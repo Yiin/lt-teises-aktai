@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01
+Suvestinė redakcija nuo 2017-09-10 iki 2017-10-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -2305,19 +2305,22 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 2. Išmetamųjų šiltnamio efektą sukeliančių dujų, susidarančių dėl biodegalų ir skystųjų bioproduktų naudojimo, kiekis, palyginti su išmetamųjų dujų, susidarančių dėl iškastinio kuro naudojimo, kiekiu, turi sumažėti:
 
 
-1) mažiausiai 35 procentais, o jeigu biodegalai ir skystieji bioproduktai pagaminti įrenginiuose, kurie buvo pradėti eksploatuoti iki 2008 m. sausio 23 d. ir yra toliau eksploatuojami, šis reikalavimas taikomas nuo 2013 m. balandžio 1 d.;
+1) mažiausiai 35 procentais, jeigu biodegalai ir skystieji bioproduktai pagaminti įrenginiuose, kurie buvo pradėti eksploatuoti iki 2015 m. spalio 5 d. ir yra toliau eksploatuojami, iki 2017 m. gruodžio 31 d.;
 
 
 
 
-2) mažiausiai 50 procentų nuo 2017 m. sausio 1 d.;
+2) mažiausiai 50 procentų, jeigu biodegalai ir skystieji bioproduktai pagaminti įrenginiuose, kurie buvo pradėti eksploatuoti iki 2015 m. spalio 5 d., nuo 2018 m. sausio 1 d.;
 
 
 
 
-3) mažiausiai 60 procentų nuo 2018 m. sausio 1 d. dėl biodegalų ir skystųjų bioproduktų, pagamintų įrenginiuose, kuriuose gamyba pradedama 2017 m. sausio 1 d. ar vėliau, naudojimo.
+3) mažiausiai 60 procentų dėl biodegalų ir skystųjų bioproduktų, pagamintų įrenginiuose, kuriuose gamyba pradėta 2015 m. spalio 6 d. ar vėliau, naudojimo. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
 
 
 
@@ -3239,19 +3242,25 @@ TARPTAUTINIS BENDRADARBIAVIMAS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS SEKTORIU
 5. Perduotas atsinaujinančių išteklių energijos kiekis yra:
 
 
-1) atimamas iš atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš Lietuvos Respublikos į kitą valstybę narę;
+1) atimamas iš atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 1 straipsnio 5 dalies 1 punkte nustatytus rodiklius ir 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš Lietuvos Respublikos į kitą valstybę narę;
 
 
 
 
-2) pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš kitos valstybės narės į Lietuvos Respubliką.
+2) pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 1 straipsnio 5 dalies 1 punkte nustatytus rodiklius ir 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš kitos valstybės narės į Lietuvos Respubliką. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
 
 
 
 
-
-
-6. Lietuvos Respublikos atliekami statistiniai energijos perdavimai negali turėti neigiamos įtakos šio įstatymo 55 straipsnio 2 dalyje nustatytų tarpinių nacionalinių planinių rodiklių įgyvendinimui.
+6. Neteko galios 2017-09-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
 
 
 
