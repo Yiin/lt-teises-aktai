@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-09-26
+Suvestinė redakcija nuo 2017-09-27 iki 2017-10-02
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2454,6 +2454,26 @@ užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstanč
  
 
 
+
+
+
+
+791 straipsnis. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti patyčių kibernetinėje erdvėje vaizdinę informaciją ir (ar) pagal Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą draudžiamą skleisti viešąją informaciją ar nurodymų panaikinti galimybę pasiekti šią informaciją nevykdymas
+
+
+1. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų elektroninės informacijos prieglobos paslaugų teikėjams, viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams pašalinti jų tarnybinėse stotyse saugomą patyčių kibernetinėje erdvėje vaizdinę informaciją ir (ar) pagal Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą draudžiamą skleisti viešąją informaciją ar nurodymų panaikinti galimybę pasiekti šią informaciją nevykdymas
+užtraukia baudą nuo dviejų šimtų dvidešimt iki šešių šimtų keturiasdešimt eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo šešių šimtų septyniasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
+ 
 
 
 
@@ -17365,7 +17385,10 @@ Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
 
 
 
-24) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 147 straipsnyje, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476 straipsniuose, 479 straipsnio 3, 4, 6 dalyse, 480 straipsnio 4, 5 dalyse, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+24) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 791, 147 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476 straipsniuose, 479 straipsnio 3, 4, 6 dalyse, 480 straipsnio 4, 5 dalyse, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
+ 
 
 
 
@@ -18277,7 +18300,6 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 10. Šio straipsnio 9 dalyje nenurodytų institucijų pareigūnai gali kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo. Kai administracinis nusižengimas padaromas karinėse, karinių poligonų ir karinio mokymo teritorijose, karinio vieneto vado įsakymu administracinėn atsakomybėn traukiamas asmuo gali būti faktiškai sulaikytas (faktiškai apribota asmens laisvė), kol atvyks policijos ar Karo policijos pareigūnai, bet ne ilgiau negu dvi valandas. Kai administracinis nusižengimas padaromas laisvės atėmimo vietose ar jų prieigose, laisvės atėmimo vietos direktoriaus ar jo įgalioto pareigūno nurodymu administracinėn atsakomybėn traukiamas asmuo gali būti sulaikytas, kol atvyks policijos pareigūnai, bet ne ilgiau negu dvi valandas.
  
- 
 
 
 
@@ -18304,7 +18326,6 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 4. Dėl asmens apžiūros ar daiktų patikrinimo atlikimo surašomas protokolas.
  
- 
 
 
 
@@ -18330,7 +18351,6 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 
 4. Paėmus daiktus ir dokumentus, surašomas jų paėmimo protokolas arba apie daiktų ir dokumentų paėmimą įrašoma administracinio nusižengimo, asmens apžiūros, daiktų patikrinimo ar administracinio sulaikymo protokoluose.
- 
  
 
 
@@ -18363,7 +18383,6 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 5. Dėl poėmio surašomas protokolas. Poėmio protokole turi būti nurodyti paimti daiktai ir dokumentai ir aprašyti pagrindiniai jų požymiai. Jei poėmio metu jokie daiktai ir dokumentai nebuvo paimti, tai nurodoma protokole. Vienas poėmio protokolo egzempliorius paliekamas asmeniui, pas kurį buvo daromas poėmis.
  
- 
 
 
 
@@ -18389,7 +18408,6 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 
 4. Administracinį nusižengimą tiriantis pareigūnas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) turi teisę neatlygintinai gauti valstybės registrų duomenis, reikalingus funkcijoms atlikti.
- 
  
 
 
@@ -21797,3 +21815,33 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 250, 268, 303, 312, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-567, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12066
+Lietuvos Respublikos administracinių nusižengimų kodekso 172 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-442, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10803
+Lietuvos Respublikos administracinių nusižengimų kodekso 184 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
+Lietuvos Respublikos administracinių nusižengimų kodekso 536 ir 589 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 226-1 straipsniu ir 570, 589, 633 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935
+Lietuvos Respublikos administracinių nusižengimų kodekso 130, 131 ir 506 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 79-1 straipsniu įstatymas
