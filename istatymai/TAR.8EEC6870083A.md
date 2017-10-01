@@ -13,21 +13,27 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EEC6870083A"
 
 # Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymas
 
-Suvestinė redakcija nuo 2016-12-29 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 153-5572, i. k. 1041010ISTA0IX-2453
  
-LIETUVOS RESPUBLIKOS VALSTYBINĖS KULTŪROS PAVELDO KOMISIJOS ĮSTATYMAS
+Nauja redakcija nuo 2017-10-01:
+Nr. XIII-581, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12166
+ 
+LIETUVOS RESPUBLIKOS 
+VALSTYBINĖS KULTŪROS PAVELDO KOMISIJOS
+ĮSTATYMAS
  
 2004 m. rugsėjo 28 d. Nr. IX-2453
 Vilnius
+ 
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Valstybinės kultūros paveldo komisijos (toliau – Komisija) valdymą, finansavimą, uždavinius ir teises.
+Šis įstatymas nustato Valstybinės kultūros paveldo komisijos (toliau – Paveldo komisija) teisinį statusą, valdymą, uždavinius, funkcijas, teises ir finansavimą.
  
 
 
@@ -35,30 +41,25 @@ Vilnius
 
 
 
-2 straipsnis. Komisijos teisinė padėtis
+2 straipsnis. Paveldo komisijos teisinė padėtis
 
 
-1. Komisija įsteigta Lietuvos Respublikos įstatymu „Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo“ (Žin., 1995, Nr. 9-184) ir vadinosi Valstybine paminklosaugos komisija. Šiuo įstatymu Valstybinės paminklosaugos komisijos pavadinimas keičiamas į Valstybinės kultūros paveldo komisijos pavadinimą.
-
-
-
-
-2. Komisija yra Seimo, Respublikos Prezidento ir Vyriausybės ekspertė bei patarėja kultūros paveldo valstybinės politikos ir jos įgyvendinimo klausimais. Komisija atskaitinga Seimui.
+1. Paveldo komisija yra Lietuvos Respublikos Seimo (toliau – Seimas), Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ekspertė ir patarėja valstybinės kultūros paveldo apsaugos politikos, jos įgyvendinimo, vertinimo ir tobulinimo klausimais. Komisija atskaitinga Seimui.
 
 
 
 
-3. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, kultūros paveldo apsaugą reglamentuojančiais įstatymais, šiuo ir kitais įstatymais, Komisijos patvirtintais Valstybinės kultūros paveldo komisijos nuostatais bei kitais norminiais teisės aktais.
+2. Paveldo komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, kultūros paveldo apsaugą reglamentuojančiais, šiuo ir kitais įstatymais, Paveldo komisijos patvirtintais Valstybinės kultūros paveldo komisijos nuostatais ir kitais norminiais teisės aktais.
 
 
 
 
-4. Komisija yra juridinis asmuo, turi savo antspaudą su Lietuvos valstybės herbu bei savo pavadinimu ir sąskaitą banke.
+3. Paveldo komisija yra juridinis asmuo, turi antspaudą su Lietuvos valstybės herbu bei savo pavadinimu ir sąskaitą banke.
 
 
 
 
-5. Komisijos buveinė yra Vilniuje. Patalpas Komisijai suteikia Vyriausybė.
+4. Paveldo komisijos buveinė yra Vilniuje. Patalpas Paveldo komisijai suteikia Vyriausybė.
  
 
 
@@ -66,102 +67,20 @@ Vilnius
 
 
 
-3 straipsnis. Komisijos sudėtis ir sudarymo tvarka
+3 straipsnis. Paveldo komisijos veiklos principai
 
 
-1. Komisiją sudaro 12 narių: 2 narius skiria ir atleidžia Respublikos Prezidentas, 4 narius – Seimas Seimo Kultūros komiteto (toliau – Kultūros komitetas) teikimu, 4 narius – Ministras Pirmininkas kultūros ministro teikimu, 2 narius renka ir atšaukia įstatymų nustatyta tvarka įregistruotos asociacijos, kurių veikla susijusi su kultūros paveldo paieška, saugojimu ir propagavimu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
- 
+1. Paveldo komisijos veiklos kryptis ir uždavinius lemia svarbūs visuomenės gerovės, kultūros pažangos ir valstybės poreikiai.
 
 
 
 
-2. Komisijos nariai skiriami (renkami) 4 metams. Pasibaigus Komisijos narių kadencijai, Komisijos nariai pareigas eina tol, kol į jas šio įstatymo nustatyta tvarka paskiriami nauji asmenys.
+2. Paveldo komisija siekia kultūros paveldo integralumo su kitomis politikos valdymo sritimis taip užtikrinant kompleksišką jo pažinimą, išsaugojimą, atskleidimą ir perdavimą ateities kartoms.
 
 
 
 
-3. Komisijos nariai iš asociacijų renkami vadovaujantis Valstybinės kultūros paveldo komisijos narių iš asociacijų rinkimų nuostatuose, patvirtintuose Lietuvos Respublikos Seimo nutarimu „Dėl Valstybinės kultūros paveldo komisijos narių iš asociacijų rinkimų nuostatų patvirtinimo“, nustatyta tvarka. 
-
-
-
-
-4. Komisijai vadovauja pirmininkas. Pirmininką Kultūros komiteto teikimu iš Komisijos narių 4 metams skiria ir atleidžia Seimas. Komisijos pirmininko kandidatūrą Kultūros komitetui teikia Komisija. Pasibaigus Komisijos pirmininko kadencijai, Komisijos pirmininkas eina pareigas tol, kol į jas šio įstatymo nustatyta tvarka paskiriamas naujas asmuo. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
- 
-
-
-
-
-5. Komisijos pirmininkas turi pavaduotoją. Jį pirmininko teikimu skiria Komisija iš savo narių. Pirmininkas ne vėliau kaip per 30 dienų nuo jo paskyrimo teikia pirmininko pavaduotojo kandidatūrą Komisijai skirti.
-
-
-Straipsnio pakeitimai:
-Nr. XII-2355, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13916
- 
-
-
-
-
-4 straipsnis. Komisijos uždaviniai
-
-
-Komisijos uždaviniai:
-
-
-1) dalyvauti formuojant kultūros paveldo apsaugos politiką ir strategiją;
-
-
-
-
-2) teikti siūlymus Seimui, Respublikos Prezidentui, Vyriausybei ir kitoms valstybės institucijoms dėl kultūros paveldo apsaugos politikos ir strategijos;
-
-
-
-
-3) teikti išvadas ir siūlymus valstybės institucijoms kultūros paveldo apsaugos klausimais;
-
-
-
-
-4) vertinti kultūros paveldo apsaugos politiką ir strategiją įgyvendinančias programas ir biudžeto lėšų, skirtų kultūros paveldo apsaugai, panaudojimą;
-
-
-
-
-5) svarstyti ir aprobuoti siūlymus kultūros paveldo vertybes paskelbti kultūros paminklais ar panaikinti jų apsaugą;
-
-
-
-
-6) svarstyti ir aprobuoti siūlymus kilnojamąsias kultūros vertybes įrašyti į Kultūros vertybių registrą ir išbraukti iš jo;
-
-
-
-
-7) vertinti kultūros paveldo apsaugos funkcijas atliekančių atsakingų valstybės institucijų ir įstaigų metines ataskaitas ir savivaldybių institucijų, įstaigų veiklą kultūros paveldo apsaugos požiūriu;
-
-
-
-
-8) informuoti Seimą, Respublikos Prezidentą ir Vyriausybę apie kultūros paveldo apsaugos valstybinės politikos įgyvendinimo problemas;
-
-
-
-
-9) rengti įstatymų ir kitų teisės aktų, susijusių su kultūros paveldo apsauga, projektus;
-
-
-
-
-10) svarstyti kultūros paveldo apsaugos problemas bei pasiūlymus;
-
-
-
-
-11) atlikti kitas įstatymų nustatytas funkcijas.
+3. Paveldo komisija veiklą grindžia pagarbos žmogui ir valstybei, teisėtumo, nešališkumo, politinio neutralumo, nepriklausomumo ir kitais teisinės valstybės principais ir nacionalinio saugumo pagrindais. 
  
 
 
@@ -169,12 +88,162 @@ Komisijos uždaviniai:
 
 
 
+4 straipsnis. Paveldo komisijos sudėtis ir sudarymo tvarka
 
 
-5 straipsnis. Komisijos teisės
+1. Paveldo komisiją sudaro 12 narių: 2 narius skiria ir atleidžia Respublikos Prezidentas, 4 narius – Seimas Seimo Kultūros komiteto (toliau – Kultūros komitetas) teikimu, 4 narius – Lietuvos Respublikos Ministras Pirmininkas Lietuvos Respublikos kultūros ministro teikimu, 2 narius renka ir atšaukia įstatymų nustatyta tvarka įregistruotos asociacijos, kurių veikla susijusi su kultūros paveldo paieška, saugojimu ir propagavimu. Skiriant Paveldo komisijos narius, gali būti atsižvelgiama į skirtingų kultūros paveldo apsaugos specialistų poreikį Paveldo komisijoje. Paveldo komisijos nariu gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį išsilavinimą ir 5 metų darbo patirtį kultūros paveldo apsaugos srityje. Kriterijai, kuriais remiantis asmuo laikomas nepriekaištingos reputacijos, taikomi tokie patys, kokie yra nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams.
 
 
-Komisija turi teisę:
+
+
+2. Paveldo komisijos nario kadencija – 4 metai. Pasibaigus Paveldo komisijos narių kadencijai, Paveldo komisijos nariai pareigas eina tol, kol į jas šio įstatymo nustatyta tvarka paskiriami nauji asmenys. Tas pats asmuo Paveldo komisijos nariu gali būti ne ilgiau kaip dvi kadencijas iš eilės. Paveldo komisijos narys yra valstybės pareigūnas.
+
+
+
+
+3. Paveldo komisijos nariai iš šio straipsnio 1 dalyje nurodytų asociacijų renkami vadovaujantis Seimo patvirtintuose Valstybinės kultūros paveldo komisijos narių iš asociacijų rinkimo nuostatuose nustatyta tvarka. 
+
+
+
+
+4. Paveldo komisijai vadovauja pirmininkas. Paveldo komisijos pirmininką Kultūros komiteto teikimu iš Paveldo komisijos narių 4 metams skiria ir atleidžia Seimas. Paveldo komisijos pirmininko kandidatūrą Kultūros komitetui teikia Paveldo komisija likus ne mažiau kaip 2 mėnesiams iki Paveldo komisijos pirmininko kadencijos pabaigos. Pasibaigus Paveldo komisijos pirmininko kadencijai, Paveldo komisijos pirmininkas eina pareigas tol, kol į jas šio įstatymo nustatyta tvarka paskiriamas naujas asmuo. Tas pats asmuo Paveldo komisijos pirmininku gali būti ne ilgiau kaip dvi kadencijas iš eilės.
+
+
+
+
+5. Paveldo komisijos pirmininkas turi pavaduotoją. Jį Paveldo komisijos pirmininko teikimu skiria ir atleidžia Paveldo komisija iš savo narių. Paveldo komisijos pirmininkas ne vėliau kaip per 30 dienų nuo paskyrimo teikia Paveldo komisijos pirmininko pavaduotojo kandidatūrą Paveldo komisijai. Paveldo komisijos pirmininko pavaduotojo kandidatūrai turi pritarti dauguma Paveldo komisijos narių.
+
+
+
+
+6. Paveldo komisijos pirmininkas ir (ar) jo pavaduotojas gali būti atšaukti iš pareigų, jeigu jie atsisako jas eiti, arba Paveldo komisijos narių motyvuotu sprendimu, jeigu už jį balsavo dauguma Paveldo komisijos narių.
+ 
+
+
+
+
+
+
+5 straipsnis. Paveldo komisijos uždaviniai ir funkcijos
+
+
+1. Paveldo komisijos uždaviniai:
+
+
+1) dalyvauti rengiant kultūros paveldo apsaugos politiką ir strategiją reglamentuojančių teisės aktų projektus ir stebėti, kaip jie įgyvendinami;
+
+
+
+
+2) teikti išvadas Seimui, Respublikos Prezidentui, Vyriausybei, Lietuvos Respublikos kultūros ministerijai (toliau – Kultūros ministerija), Kultūros paveldo departamentui prie Kultūros ministerijos (toliau – Kultūros paveldo departamentas), savivaldybių institucijoms, įstaigoms, kitoms valstybės institucijoms dėl kultūros paveldo apsaugos ir būklės;
+
+
+
+
+3) aktualizuoti kultūros paveldą visuomenėje;
+
+
+
+
+4) vertinti UNESCO Pasaulio paveldo komitetui teikiamas periodines pasaulio paveldo objektų Lietuvoje būklės ataskaitas;
+
+
+
+
+5) bendradarbiauti su Lietuvos ir tarptautinėmis institucijomis sprendžiant aktualias kultūros paveldo problemas.
+
+
+
+
+
+
+2. Paveldo komisija, įgyvendindama jai pavestus uždavinius, atlieka šias funkcijas:
+
+
+1) konsultuoja ir (ar) teikia siūlymus Seimui, Respublikos Prezidentui, Vyriausybei, Kultūros ministerijai, Kultūros paveldo departamentui, savivaldybių institucijoms, įstaigoms, kitoms valstybės institucijoms kultūros paveldo apsaugos politikos ir strategijos formavimo ir jų gyvendinimo klausimais;
+
+
+
+
+2) rengia įstatymų ir kitų teisės aktų, susijusių su kultūros paveldo apsauga, projektus ir teikia išvadas ir siūlymus Seimui, Respublikos Prezidentui, Vyriausybei, Kultūros ministerijai, Kultūros paveldo departamentui ir kitoms valstybės institucijoms dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių kultūros paveldo apsaugą, projektų; 
+
+
+
+
+3) teikia išvadas ir siūlymus Seimui, Respublikos Prezidentui, Vyriausybei dėl kultūros paveldo apsaugos institucijų veiklos ir tarpinstitucinio bendradarbiavimo gerinimo;
+
+
+
+
+4) teikia išvadas Seimui, Respublikos Prezidentui, Vyriausybei, Kultūros ministerijai, Kultūros paveldo departamentui, savivaldybių institucijoms, kitoms valstybės institucijoms dėl kultūros paveldo apsaugos strategijos įgyvendinimo ir prioritetinio finansavimo;
+
+
+
+
+5) teikia siūlymus Seimui, Respublikos Prezidentui, Vyriausybei dėl Lietuvos Respublikos tarptautinių sutarčių, susijusių su kultūros paveldo apsauga, pasirašymo, ratifikavimo ir denonsavimo;
+
+
+
+
+6) analizuoja ir vertina kultūros paveldo apsaugos tendencijas, jų ryšį su valstybės vykdoma kitų valdymo sričių politika;
+
+
+
+
+7) vertina ir teikia išvadas dėl kultūros paveldo apsaugos politikos ir strategijos įgyvendinimo programų ir dėl biudžeto lėšų, skirtų kultūros paveldo apsaugai, panaudojimo;
+
+
+
+
+8) vertina kultūros paveldo apsaugos valstybinio administravimo funkcijas atliekančios institucijos metines veiklos ataskaitas ir savivaldybių institucijų, įstaigų veiklą kultūros paveldo apsaugos požiūriu;
+
+
+
+
+9) svarsto ir aprobuoja siūlymus kultūros paveldo objektus ar vietoves skelbti kultūros paminklais ar panaikinti jų apsaugą;
+
+
+
+
+10) svarsto ir aprobuoja siūlymus nacionalinio reikšmingumo lygmens kultūros paveldo objektus ir vietoves, kurie neskelbiami kultūros paminklais, skelbti valstybės saugomais ar panaikinti jų apsaugą;
+
+
+
+
+11) svarsto ir aprobuoja siūlymus kilnojamąsias kultūros vertybes įrašyti į Kultūros vertybių registrą ar išbraukti iš jo;
+
+
+
+
+12) bendradarbiauja su kitų valstybių institucijomis ir tarptautinėmis organizacijomis kultūros paveldo apsaugos klausimais;
+
+
+
+
+13) svarsto visuomenės keliamus klausimus dėl kultūros paveldo apsaugos;
+
+
+
+
+14) teikia visuomenei informaciją apie Paveldo komisijos veiklą;
+
+
+
+
+15) atlieka kitas įstatymų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+6 straipsnis. Paveldo komisijos teisės
+
+
+1. Paveldo komisija turi teisę:
 
 
 1) gauti iš valstybės ir savivaldybių institucijų, kultūros paveldo objektų valdytojų, kitų fizinių ir juridinių asmenų informaciją apie kultūros paveldą;
@@ -187,27 +256,24 @@ Komisija turi teisę:
 
 
 
-3) Vyriausybės nustatyta tvarka neatlygintinai naudotis valstybės ir savivaldybių registrų, kadastrų, klasifikatorių, duomenų bazių duomenimis, reikalingais jai nustatytoms funkcijoms atlikti;
+3) dalyvauti pagal kompetenciją valstybės ir savivaldybių institucijų posėdžiuose, konferencijose ir pasitarimuose, kuriuose svarstomi kultūros paveldo apsaugos klausimai, teikti pasiūlymus, kaip spręsti šiuos klausimus;
 
 
 
 
-4) dalyvauti pagal kompetenciją valstybės ir savivaldybių institucijų posėdžiuose, konferencijose ir pasitarimuose, kuriuose svarstomi kultūros paveldo klausimai, teikti pasiūlymus, kaip spręsti šiuos klausimus;
+4) sudaryti pakomises, nuolatines, laikinąsias komisijas ir darbo grupes kultūros paveldo apsaugos problemoms nagrinėti; 
 
 
 
 
-5)sudaryti pakomises, nuolatines, laikinąsias komisijas ir darbo grupes kultūros paveldo apsaugos problemoms nagrinėti; 
+5) leisti leidinius, organizuoti konferencijas kultūros paveldo apsaugos politikos ir strategijos klausimais.
 
 
 
 
-6)organizuoti konferencijas kultūros paveldo apsaugos politikos ir strategijos klausimais;
 
 
-
-
-7) jeigu Komisijos narys be pateisinamos priežasties nedalyvavo trijuose posėdžiuose iš eilės, Komisija gali priimti sprendimą kreiptis į jį rinkusią ar skyrusią instituciją dėl šio nario atšaukimo.
+2. Jeigu Paveldo komisijos narys be pateisinamos priežasties nedalyvavo trijuose posėdžiuose iš eilės arba praleido daugiau nei pusę vykusių posėdžių per metus, Paveldo komisija gali priimti sprendimą kreiptis į šį narį rinkusią ar skyrusią instituciją dėl jo atšaukimo.
  
 
 
@@ -215,42 +281,40 @@ Komisija turi teisę:
 
 
 
+7 straipsnis. Paveldo komisijos darbo organizavimas
 
 
-6 straipsnis. Komisijos darbo organizavimas
-
-
-1. Komisijos įgaliojimų sričiai priklausantys klausimai svarstomi ir sprendžiami Komisijos posėdžiuose.
-
-
-
-
-2. Eiliniai Komisijos posėdžiai vyksta kartą per mėnesį.
+1. Paveldo komisijos įgaliojimų sričiai priklausantys klausimai svarstomi ir sprendžiami Paveldo komisijos posėdžiuose.
 
 
 
 
-3. Komisija priima sprendimus ir nutarimus. Juos savo parašu tvirtina Komisijos pirmininkas.
+2. Eiliniai Paveldo komisijos posėdžiai vyksta kartą per mėnesį.
 
 
 
 
-4. Kultūros paveldo apsaugos politikos ir strategijos problemas Komisija sprendžia posėdyje, dalyvaujant ne mažiau kaip 2/3 Komisijos narių, ir sprendimus priima ne mažiau kaip 2/3 dalyvaujančių narių balsais. 
+3. Paveldo komisija priima sprendimus ir nutarimus, juos pasirašo Paveldo komisijos pirmininkas.
 
 
 
 
-5. Kitais klausimais priimami nutarimai paprasta balsų dauguma posėdyje, dalyvaujant ne mažiau kaip pusei Komisijos narių. Komisijos nutarimai skelbiami Komisijos interneto tinklalapyje.
+4. Kultūros paveldo apsaugos politikos ir strategijos problemas Paveldo komisija sprendžia posėdyje, kuriame dalyvauja ne mažiau kaip 2/3 Paveldo komisijos narių, ir sprendimus priima ne mažiau kaip 2/3 dalyvaujančių narių balsais. 
 
 
 
 
-6. Komisijos sprendimai skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“.
+5. Kitais klausimais priimami nutarimai paprasta balsų dauguma, kai posėdyje dalyvauja ne mažiau kaip 1/2 Paveldo komisijos narių. 
 
 
 
 
-7. Komisija turi administraciją. Ji veikia pagal Komisijos patvirtintus nuostatus.
+6. Paveldo komisijos sprendimai ir nutarimai oficialiai skelbiami Teisės aktų registre, taip pat skelbiami Paveldo komisijos interneto svetainėje.
+
+
+
+
+7. Paveldo komisija turi administraciją. Ji veikia pagal Paveldo komisijos patvirtintus administracijos nuostatus.
 
 
 
@@ -258,12 +322,12 @@ Komisija turi teisę:
 8. Administracija:
 
 
-1) aptarnauja Komisijos, pakomisių ir darbo grupių veiklą;
+1) aptarnauja Paveldo komisijos, pakomisių, nuolatinių, laikinųjų komisijų ir darbo grupių veiklą;
 
 
 
 
-2) rengia Komisijos dokumentų projektus ir kitą medžiagą;
+2) rengia Paveldo komisijos dokumentų projektus ir kitą medžiagą;
 
 
 
@@ -275,7 +339,7 @@ Komisija turi teisę:
 
 
 
-9. Administracijai vadovauja, valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, įstatymų nustatyta tvarka priima į pareigas (darbą) ir atleidžia iš jų (jo) Komisijos pirmininkas.
+9. Administracijai vadovauja, valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, įstatymų nustatyta tvarka priima į pareigas (darbą) ir atleidžia iš jų (jo) Paveldo komisijos pirmininkas.
  
 
 
@@ -283,33 +347,45 @@ Komisija turi teisę:
 
 
 
-7 straipsnis. Komisijos pirmininkas
+8 straipsnis. Paveldo komisijos pirmininkas
 
 
-Komisijos pirmininkas:
+1. Paveldo komisijos pirmininkas:
 
 
-1) organizuoja Komisijos darbą, yra biudžeto asignavimų valdytojas, atsako už valstybės biudžeto gautų lėšų tinkamą naudojimą;
-
-
-
-
-2) atsako už tai, kad Komisija atliktų jai numatytas funkcijas, pavestus darbus;
+1) organizuoja Paveldo komisijos darbą, valdo biudžeto asignavimus, atsako už lėšų, gautų iš valstybės biudžeto, tinkamą panaudojimą;
 
 
 
 
-3) atstovauja Komisijai;
+2) atsako už tai, kad Paveldo komisija atliktų jai pavestas funkcijas, darbus;
 
 
 
 
-4) teikia Komisijai tvirtinti jos išlaidų sąmatą, administracijos struktūrą ir pareigybių sąrašus;
+3) atstovauja Paveldo komisijai;
 
 
 
 
-5) kasmet iki kovo 1 dienos pateikia Seimui savo veiklos ataskaitą.
+4) teikia Paveldo komisijai tvirtinti jos išlaidų sąmatą, administracijos struktūrą ir pareigybių sąrašus;
+
+
+
+
+5) kiekvienais metais iki kovo 1 dienos pateikia Seimui Paveldo komisijos veiklos ataskaitą;
+
+
+
+
+6) kas dveji metai teikia pranešimą Seimui apie kultūros paveldo apsaugos raidą, būklę ir pažangą.
+
+
+
+
+
+
+2. Paveldo komisijos pirmininkas negali dirbti verslo, komercijos ar kitose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą.
  
 
 
@@ -317,12 +393,30 @@ Komisijos pirmininkas:
 
 
 
+9 straipsnis. Paveldo komisijos nario pareigos ir teisės
 
 
-8 straipsnis. Komisijos nario teisės ir pareigos
+1. Paveldo komisijos nario pareigos:
 
 
-1. Komisijos narys turi teisę:
+1) dalyvauti Paveldo komisijos posėdžiuose;
+
+
+
+
+2) dalyvauti rengiant Paveldo komisijos sprendimų ir nutarimų projektus;
+
+
+
+
+3) Paveldo komisijos pirmininko pavedimu rengti medžiagą Paveldo komisijos posėdžiams.
+
+
+
+
+
+
+2. Paveldo komisijos narys turi teisę:
 
 
 1) nekliudomas patekti į kultūros paveldo objektus;
@@ -330,32 +424,12 @@ Komisijos pirmininkas:
 
 
 
-2) siūlyti sušaukti neeilinį Komisijos posėdį;
+2) siūlyti sušaukti neeilinį Paveldo komisijos posėdį;
 
 
 
 
-3) siūlyti įrašyti į Komisijos posėdžio darbotvarkę papildomą klausimą.
-
-
-
-
-
-
-2. Komisijos nario pareigos:
-
-
-1) dalyvauti Komisijos posėdžiuose;
-
-
-
-
-2) dalyvauti rengiant Komisijos sprendimų ir nutarimų projektus;
-
-
-
-
-3) pirmininko pavedimu rengti medžiagą Komisijos posėdžiams. 
+3) siūlyti įrašyti į Paveldo komisijos posėdžio darbotvarkę papildomą klausimą.
  
 
 
@@ -365,20 +439,20 @@ Komisijos pirmininkas:
 
 
 
-9 straipsnis. Komisijos lėšos
+10 straipsnis. Paveldo komisijos lėšos
 
 
-1. Komisijos veikla finansuojama iš valstybės biudžeto.
-
-
-
-
-2. Komisijos lėšos naudojamos komisijos uždaviniams įgyvendinti, komisijos narių ir ekspertų darbui apmokėti, administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, darbo užmokesčiui ir ūkio išlaidoms. 
+1. Paveldo komisijos veiklos finansavimo šaltiniai: valstybės biudžeto asignavimai, Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšos, Lietuvos Respublikos, tarptautinių ir užsienio fondų bei organizacijų lėšos ir kitos teisėtai gautos lėšos. 
 
 
 
 
-3. Komisijos lėšos naudojamos įstatymų ir kitų teisės aktų nustatyta tvarka. Komisijos finansinę veiklą kontroliuoja įstatymų nustatytos institucijos.
+2. Paveldo komisijos lėšos naudojamos Paveldo komisijos uždaviniams įgyvendinti, Paveldo komisijos narių ir ekspertų darbui apmokėti, administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, darbo užmokesčio, leidybos ir ūkio išlaidoms. 
+
+
+
+
+3. Paveldo komisijos lėšos naudojamos įstatymų ir kitų teisės aktų nustatyta tvarka. Paveldo komisijos finansinę veiklą kontroliuoja įstatymų nustatytos institucijos.
  
 
 
@@ -386,21 +460,10 @@ Komisijos pirmininkas:
 
 
 
-10 straipsnis. Komisijos pertvarkymas, reorganizavimas, likvidavimas
+11 straipsnis. Paveldo komisijos pertvarkymas, reorganizavimas, likvidavimas
 
 
-Komisija pertvarkoma, reorganizuojama ar likviduojama įstatymų ir kitų teisės aktų nustatyta tvarka.
- 
-
-
-
-
-
-
-11 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d., išskyrus 3 straipsnio 1 dalį. 3 straipsnio 1 dalis įsigalioja nuo 2007 m. kovo 10 d.
+Paveldo komisija pertvarkoma, reorganizuojama ar likviduojama įstatymų ir kitų teisės aktų nustatyta tvarka.
 
 
 
@@ -412,10 +475,12 @@ Komisija pertvarkoma, reorganizuojama ar likviduojama įstatymų ir kitų teisė
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
+ 
  
  
 Pakeitimai:
@@ -423,9 +488,14 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2355, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13916
-Lietuvos Respublikos valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-114, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29765
-Lietuvos Respublikos valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 3 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-581, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12166
+Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 pakeitimo įstatymas
