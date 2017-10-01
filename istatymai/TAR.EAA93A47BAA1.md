@@ -13,21 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
- 
-TAR pastaba. Iki įstatymo Nr. XIII-164 įsigaliojimo (2017-07-01) su advokatais, kurie nuolat teikia antrinę teisinę pagalbą, sudarytoms sutartims 5 metų laikotarpis skaičiuojamas nuo šio įstatymo įsigaliojimo dienos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
-Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 9, 17, 18, 21 ir 24 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2014-01-01:
 Nr. XII-270, 2013-05-09, Žin., 2013, Nr. 54-2675 (2013-05-25)
  
-LIETUVOS RESPUBLIKOS
-VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMAS
  
 2000 m. kovo 28 d. Nr. VIII-1591 Vilnius
  
@@ -671,9 +664,10 @@ VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS TEIKIMO SĄLYGOS
 
 
 
-8. Šio straipsnio 7 dalies 1, 2, 3, 4, 10, 13 punktai netaikomi antrinės teisinės pagalbos teikimui administracinių nusižengimų bylose, kai antrinės teisinės pagalbos kreipiasi administracinėn atsakomybėn traukiamas asmuo, ir baudžiamosiose bylose, išskyrus prašymus dėl proceso atnaujinimo, skundus ar pareiškimus privataus kaltinimo tvarka, procesinius dokumentus, kuriems paduoti įstatymų nustatytas naikinamasis terminas yra pasibaigęs. Šio straipsnio 7 dalies 1, 2, 3, 4, 10, 13 punktai netaikomi antrinės teisinės pagalbos teikimui tarptautinėse teisminėse institucijose.
+8. Šio straipsnio 7 dalies 1, 2, 3, 4, 10, 13 punktai netaikomi antrinės teisinės pagalbos teikimui administracinių nusižengimų bylose, kai antrinės teisinės pagalbos kreipiasi administracinėn atsakomybėn traukiamas asmuo, ir baudžiamosiose bylose, išskyrus prašymus dėl proceso atnaujinimo, procesinius dokumentus, kuriems paduoti įstatymų nustatytas naikinamasis terminas yra pasibaigęs. Šio straipsnio 7 dalies 1, 2, 3, 4, 10, 13 punktai netaikomi antrinės teisinės pagalbos teikimui tarptautinėse teisminėse institucijose.
 Straipsnio dalies pakeitimai:
 Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
+Nr. XIII-629, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12576
  
 
 
@@ -962,7 +956,10 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 
 
-9. Šio straipsnio 7 ir 8 dalys netaikomos baudžiamosiose bylose, išskyrus skundus ir pareiškimus privataus kaltinimo tvarka. 
+9. Šio straipsnio 7 ir 8 dalys netaikomos baudžiamosiose bylose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-629, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12576
+ 
 
 
 
@@ -2022,3 +2019,8 @@ Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 9, 17, 18, 21 ir 24 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-629, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12576
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 11 ir 14 straipsnių pakeitimo įstatymas
