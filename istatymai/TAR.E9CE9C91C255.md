@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-07-05 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -351,10 +351,11 @@ Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
 
 
 
-5. Kalendorinių metų karo prievolininkų sąrašas sudaromas į jį atsitiktine tvarka, naudojantis kompiuterių programa, surašant karo prievolininkus, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą. Sudarant kalendorinių metų karo prievolininkų sąrašą, užtikrinama, kad atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamų karo prievolininkų skaičius būtų proporcingas karo prievolę administruojančios krašto apsaugos sistemos institucijos padalinių administruojamose savivaldybėse paskutinę gyvenamąją vietą deklaravusių karo prievolininkų, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą, skaičiui. Jeigu atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamas karo prievolininkas gyvenamosios vietos nėra deklaravęs, kalendorinių metų karo prievolininkų sąrašas sudaromas, atsižvelgiant į jo esamą faktinę gyvenamąją vietą ar iki išvykimo iš Lietuvos Respublikos buvusią gyvenamąją vietą. Kalendorinių metų karo prievolininkų sąrašas sudaromas ir paskelbiamas Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje (www.kam.lt) ne vėliau kaip per vieną mėnesį nuo šaukimo į nuolatinę privalomąją pradinę karo tarnybą pradžios. Kalendorinių metų karo prievolininkų sąrašo sudarymo eiga, taip pat kiti duomenys, susiję su šaukimo vykdymu, skelbiami Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje, taip pat per kitas Lietuvos Respublikos krašto apsaugos ministerijos ir karo prievolę administruojančios krašto apsaugos sistemos institucijos informacinės visuomenės informavimo priemones. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras stebi visuomenės atstovai, skiriami Vyriausybės nustatyta tvarka.
+5. Kalendorinių metų karo prievolininkų sąrašas sudaromas į jį atsitiktine tvarka, naudojantis kompiuterių programa, surašant karo prievolininkus, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą. Sudarant kalendorinių metų karo prievolininkų sąrašą, užtikrinama, kad atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamų karo prievolininkų skaičius būtų proporcingas karo prievolę administruojančios krašto apsaugos sistemos institucijos padalinių administruojamose savivaldybėse paskutinę gyvenamąją vietą deklaravusių karo prievolininkų, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą, skaičiui. Jeigu atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamas karo prievolininkas gyvenamosios vietos nėra deklaravęs, kalendorinių metų karo prievolininkų sąrašas sudaromas, atsižvelgiant į jo esamą faktinę gyvenamąją vietą ar iki išvykimo iš Lietuvos Respublikos buvusią gyvenamąją vietą. Kalendorinių metų karo prievolininkų sąrašas sudaromas ir paskelbiamas Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje (www.kam.lt) ne vėliau kaip per vieną mėnesį nuo šaukimo į nuolatinę privalomąją pradinę karo tarnybą pradžios. Kalendorinių metų karo prievolininkų sąrašo sudarymo eiga, kiti duomenys, susiję su šaukimo vykdymu, skelbiami Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje, taip pat per kitas Lietuvos Respublikos krašto apsaugos ministerijos ir karo prievolę administruojančios krašto apsaugos sistemos institucijos informacines visuomenės informavimo priemones. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras stebi šio įstatymo 61 straipsnyje nurodyti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
+Nr. XIII-586, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11956
  
 
 
@@ -420,6 +421,79 @@ Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
  
 
 
+
+
+
+
+61 straipsnis. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūrų stebėjimas
+
+
+1. Stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras skiriami Lietuvos Respublikoje įregistruotų viešųjų juridinių asmenų, kurių veikla yra susijusi su krašto apsaugos sistemos stiprinimu ir visuomenės parengimu gynybai, jaunimo ugdymu ir pilietiniu, patriotiniu auklėjimu, žmogaus teisių gynimu, vienasmeniai valdymo organai, kolegialių valdymo organų nariai, kiti darbo, tarnybos ar narystės santykiais su nurodytais juridiniais asmenimis susiję fiziniai asmenys.
+
+
+
+
+2. Stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūrų negali būti skiriami šie asmenys:
+
+
+1) įsiteisėjusiu teismo nuosprendžiu pripažinti kaltais dėl sunkaus arba labai sunkaus nusikaltimo padarymo ir turintys neišnykusį arba nepanaikintą teistumą;
+
+
+
+
+2) įsiteisėjusiu teismo nuosprendžiu pripažinti kaltais dėl nusikaltimo valstybės tarnybai ir viešiesiems interesams arba korupcinio pobūdžio nusikaltimo padarymo ir turintys neišnykusį arba nepanaikintą teistumą;
+
+
+
+
+3) įsiteisėjusiu teismo nuosprendžiu pripažinti kaltais dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams arba korupcinio pobūdžio baudžiamojo nusižengimo padarymo, jeigu nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+
+
+
+
+4) įsiteisėjusiu teismo nuosprendžiu pripažinti kaltais dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turintys neišnykusį arba nepanaikintą teistumą;
+
+
+
+
+5) įstatymų nustatyta tvarka uždraustos organizacijos nariai;
+
+
+
+
+6) atleisti iš skiriamų arba renkamų pareigų dėl priesaikos arba pasižadėjimo sulaužymo, pareigūno vardo pažeminimo, jeigu nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
+
+
+
+
+7) teismo tvarka pripažinti neveiksniais arba ribotai veiksniais bent vienoje srityje;
+
+
+
+
+8) tarnaujantys arba dirbantys krašto apsaugos sistemos institucijose arba jų padaliniuose.
+
+
+
+
+
+
+3. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras turi stebėti ne mažiau kaip 3 ir ne daugiau kaip 10 asmenų, kurių iš to paties viešojo juridinio asmens negali būti daugiau kaip 2/3 visų sudarant kalendorinių metų karo prievolininkų sąrašą dalyvaujančių asmenų.
+
+
+
+
+4. Asmenys, stebintys kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras, jų prašymu gali susipažinti su informacija, susijusia su kalendorinių metų karo prievolininkų sąrašo sudarymu ir karo prievolininkų įtraukimu į jį, išskyrus atvejus, kai susipažinimą su šia informacija riboja teisės aktai, reglamentuojantys šios informacijos tvarkymo ir apsaugos reikalavimus.
+
+
+
+
+5. Asmenų skyrimo stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras tvarką nustato Vyriausybė. 
+
+
+Papildyta straipsniu:
+Nr. XIII-586, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11956
+ 
 
 
 
@@ -1997,3 +2071,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3 ir 21 straipsnių pa
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
 Dėl Lietuvos Respublikos karo prievolės įstatymo nuostatos atitikties Lietuvos Respublikos Konstitucijai
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-586, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11956
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 6 straipsnio pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
