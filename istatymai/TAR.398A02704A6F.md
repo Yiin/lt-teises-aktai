@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2017-04-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -53,15 +53,42 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Šis įstatymas taikomas Europos Sąjungos valstybių narių ar Europos ekonominės erdvės susitarimą sudariusių valstybių piliečiams ir jų šeimų nariams, nuolat Lietuvos Respublikoje gyvenantiems užsieniečiams, Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravusiems gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – įtrauktiems į gyvenamosios vietos neturinčių asmenų apskaitą pagal savivaldybę, kurios teritorijoje gyvena), asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis įstatymas.
+4. Šis įstatymas taikomas asmenims, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena) yra įrašyti į Lietuvos Respublikos gyventojų registrą:
+
+
+1) Lietuvos Respublikos piliečiams;
 
 
 
 
-5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+2) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje;
+
+
+
+
+3) užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje;
+
+
+
+
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+
+
+
+
+
+
+5. Šis įstatymas taip pat taikomas asmenims, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai.
+
+
+
+
+6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-450, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10814
  
-
-
 
 
 
@@ -105,7 +132,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Valstybės biudžeto lėšų tikslinėms kompensacijoms administruoti paskirstymo, pervedimo, naudojimo, atsiskaitymo ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+4. Valstybės biudžeto lėšų tikslinėms kompensacijoms mokėti ir administruoti paskirstymo, pervedimo, naudojimo, atsiskaitymo ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-450, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10814
  
 
 
@@ -514,3 +543,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-150, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29783
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 7 ir 10 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-450, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10814
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 ir 3 straipsnių pakeitimo įstatymas
