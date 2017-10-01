@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2017-06-20
+Suvestinė redakcija nuo 2017-10-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
  
@@ -2499,7 +2499,18 @@ SEPTINTASIS SKIRSNIS
 
 
 
-3. Tiekėjo darbuotojus dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo tikrina ir jiems tokius leidimus išduoda arba teisę suteikia Valstybės saugumo departamentas. 
+3. Tiekėjo darbuotojus, išskyrus šio straipsnio 31 dalyje nurodytus atvejus, dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo tikrina ir jiems tokius leidimus išduoda arba teisę suteikia Valstybės saugumo departamentas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+ 
+
+
+
+
+31. Kai krašto apsaugos sistemos institucijos sudaro įslaptintus sandorius su Lietuvos šaulių sąjunga, šaulius dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo tikrina Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, o leidimus išduoda krašto apsaugos ministras ar jo įgaliotas asmuo. Jeigu sudarant įslaptintus sandorius su Lietuvos šaulių sąjunga šauliams yra reikalinga teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, juos tikrina ir šią teisę suteikia krašto apsaugos ministras ar jo įgaliotas asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+ 
 
 
 
