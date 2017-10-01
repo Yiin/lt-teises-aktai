@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2016-10-07 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -37,9 +37,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems teisės aktų nustatyta tvarka išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, ir užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje. 
+2. Šis Įstatymas taikomas Lietuvos Respublikos piliečiams, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės susitarimą sudariusios valstybės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys jų teisę gyventi Lietuvos Respublikoje, asmenims, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas, užsieniečiams, turintiems Lietuvos Respublikos ilgalaikio gyventojo leidimą gyventi Europos Sąjungoje, ir užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
+Nr. XIII-445, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10807
  
 
 
@@ -1266,6 +1267,7 @@ AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                     �
 Vilnius, 1991 m. lapkričio 28 d. 
 Nr. I-2044
  
+ 
 
 
  
@@ -1401,3 +1403,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2658, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24700
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 24 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-445, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10807
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio pakeitimo įstatymas
