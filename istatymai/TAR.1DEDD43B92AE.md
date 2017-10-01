@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2017-06-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -91,7 +91,7 @@ Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
 
 
 
-8) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip perkeltiems įmonės viduje ne trumpesniam kaip 9 mėnesių laikotarpiui. 
+8) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip perkeltiems įmonės viduje ne trumpesniam kaip 9 mėnesių laikotarpiui; 
 Papildyta straipsnio punktu:
 Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
  
@@ -99,11 +99,20 @@ Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
 
 
 
+9) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje. 
+Papildyta straipsnio punktu:
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
+ 
 
 
-3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 7 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5, 7 ar 8 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2 ar 7 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas.
+
+
+
+
+3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5, 7, 8 ar 9 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2, 7 ar 9 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 9 punkto nuostatas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
  
 
 
@@ -265,7 +274,10 @@ Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
 
 
 
-3. Valstybės biudžeto lėšų išmokoms administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+3. Valstybės biudžeto lėšų išmokoms mokėti ir administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
+ 
 
 
 Straipsnio pakeitimai:
@@ -1293,3 +1305,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 10-2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 ir 4 straipsnių pakeitimo įstatymas
