@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-09-30
+Suvestinė redakcija nuo 2017-10-01 iki 2017-10-25
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -158,7 +158,10 @@ Prokuroras ir ikiteisminio tyrimo įstaigos kiekvienu atveju, kai paaiškėja nu
 
 
 
-5) jeigu nukentėjusysis susitaikė su asmeniu, kaltinamu šio Kodekso 407 straipsnyje nurodytos nusikalstamos veikos padarymu;
+5) neteko galios nuo 2017-10-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -776,7 +779,10 @@ Nr. XII-891, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05570
 
 
 
-2. Kaltinamuoju laikomas asmuo, dėl kurio šio Kodekso nustatyta tvarka yra prokuroro priimtas kaltinamasis aktas arba prokuroro pareiškimas nubausti asmenį teismo baudžiamojo įsakymo tvarka, taip pat asmuo, prieš kurį teisme nagrinėjama byla privataus kaltinimo ar pagreitinto proceso tvarka.
+2. Kaltinamuoju laikomas asmuo, dėl kurio šio Kodekso nustatyta tvarka yra prokuroro priimtas kaltinamasis aktas arba prokuroro pareiškimas nubausti asmenį teismo baudžiamojo įsakymo tvarka, taip pat asmuo, prieš kurį teisme nagrinėjama byla pagreitinto proceso tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -962,23 +968,10 @@ Pirmosios instancijos teismas yra apylinkės teismas ar apygardos teismas, priim
 
 
 
-34 straipsnis. Privatus kaltintojas
-
-
-1. Privatus kaltintojas yra nukentėjusysis arba jo atstovas, palaikantys kaltinimą šio Kodekso numatytose privataus kaltinimo bylose.
-
-
-
-
-2. Privatus kaltintojas, dalyvaudamas nagrinėjant bylą pirmosios instancijos teisme, palaiko kaltinimą, pateikia įrodymus ir dalyvauja juos tiriant, dalyvauja baigiamosiose kalbose, pateikia pasiūlymų dėl teisiamajame posėdyje ištirtų įrodymų vertinimo, baudžiamųjų įstatymų taikymo, bausmės rūšies ir dydžio, nusikalstama veika padarytos žalos atlyginimo.
-
-
-
-
-3. Privatus kaltintojas turi teisę dalyvauti apeliaciniame procese.
+34 straipsnis. Neteko galios nuo 2017-10-01
+Straipsnio naikinimas:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
  
-
-
 
 
 
@@ -1735,7 +1728,10 @@ Nušalinimas
 57 straipsnis. Nušalinimo teisė
 
 
-1. Nušalinimą gali pareikšti įtariamasis, kaltinamasis, nuteistasis, išteisintasis, gynėjas, prokuroras, taip pat nukentėjusysis, privatus kaltintojas, civilinis ieškovas, civilinis atsakovas arba jų atstovai.
+1. Nušalinimą gali pareikšti įtariamasis, kaltinamasis, nuteistasis, išteisintasis, gynėjas, prokuroras, taip pat nukentėjusysis, civilinis ieškovas, civilinis atsakovas arba jų atstovai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -1754,12 +1750,18 @@ Nušalinimas
 1. Šio Kodekso 57 straipsnio 2 dalyje nurodytas asmuo negali dalyvauti procese, jeigu:
 
 
-1) jis toje byloje yra nukentėjusysis, privatus kaltintojas, civilinis ieškovas, civilinis atsakovas, bet kurio iš šių asmenų šeimos narys ar giminaitis, įtariamojo, kaltinamojo bei nuteistojo ar atstovo pagal įstatymą, teisėjo, ikiteisminio tyrimo teisėjo, prokuroro, ikiteisminio tyrimo pareigūno ar gynėjo toje byloje šeimos narys ar giminaitis;
+1) jis toje byloje yra nukentėjusysis, civilinis ieškovas, civilinis atsakovas, bet kurio iš šių asmenų šeimos narys ar giminaitis, įtariamojo, kaltinamojo bei nuteistojo ar atstovo pagal įstatymą, teisėjo, ikiteisminio tyrimo teisėjo, prokuroro, ikiteisminio tyrimo pareigūno ar gynėjo toje byloje šeimos narys ar giminaitis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
 
-2) jis yra dalyvavęs toje byloje kaip liudytojas, įtariamojo, kaltinamojo ar nuteistojo atstovas pagal įstatymą, nukentėjusiojo, privataus kaltintojo, civilinio ieškovo ar civilinio atsakovo atstovas;
+2) jis yra dalyvavęs toje byloje kaip liudytojas, įtariamojo, kaltinamojo ar nuteistojo atstovas pagal įstatymą, nukentėjusiojo, civilinio ieškovo ar civilinio atsakovo atstovas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -5788,7 +5790,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 167 straipsnis. Ikiteisminio tyrimo pradžia tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar prokuroro reikalavimą
 
 
-1. Dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 145 straipsnyje, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 178 straipsnio 1 ir 4 dalyse, 179 straipsnio 1 ir 3 dalyse, 182 straipsnio 1 ir 3 dalyse, 183 straipsnio 1 ir 3 dalyse, 184 straipsnio 1 ir 3 dalyse, 186 straipsnyje, 294 straipsnio 1 dalyje, ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiais atvejais procesas vyksta bendra tvarka. 
+1. Dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 145, 148 straipsniuose, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 152, 154, 165, 168 straipsniuose, 178 straipsnio 1 ir 4 dalyse, 179 straipsnio 1 ir 3 dalyse, 182 straipsnio 1 ir 3 dalyse, 183 straipsnio 1 ir 3 dalyse, 184 straipsnio 1 ir 3 dalyse, 186 straipsnyje, 187 straipsnio 1 ir 3 dalyse, 188 straipsnyje, 294 straipsnio 1 dalyje, 313 straipsnyje, ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiais atvejais procesas vyksta bendra tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -8606,12 +8611,12 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 256 straipsnis. Kaltinime nurodytos veikos esminių faktinių aplinkybių ir jos kvalifikavimo pakeitimas teisme
 
 
-1. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis. Šiame prašyme turi būti išdėstytos šios iš esmės skirtingos faktinės aplinkybės. Teismas, gavęs tokį prašymą, taip pat tais atvejais, kai yra pagrindas manyti, kad kaltinime nurodytos veikos faktinės aplinkybės gali būti pakeistos iš esmės skirtingomis, apie tai nedelsdamas praneša nagrinėjimo teisme dalyviams. Jeigu yra gautas prokuroro, privataus kaltintojo ar nukentėjusiojo prašymas kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis, šio prašymo nuorašai įteikiami nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, nuosprendyje gali būti paliekamos ir kaltinamajame akte nurodytos veikos faktinės aplinkybės.
+1. Prokuroras ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis. Šiame prašyme turi būti išdėstytos šios iš esmės skirtingos faktinės aplinkybės. Teismas, gavęs tokį prašymą, taip pat tais atvejais, kai yra pagrindas manyti, kad kaltinime nurodytos veikos faktinės aplinkybės gali būti pakeistos iš esmės skirtingomis, apie tai nedelsdamas praneša nagrinėjimo teisme dalyviams. Jeigu yra gautas prokuroro ar nukentėjusiojo prašymas kaltinime nurodytos veikos faktines aplinkybes pakeisti iš esmės skirtingomis, šio prašymo nuorašai įteikiami nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, nuosprendyje gali būti paliekamos ir kaltinamajame akte nurodytos veikos faktinės aplinkybės.
 
 
 
 
-2. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą pakeisti kaltinime nurodytos veikos kvalifikavimą. Teismas, gavęs tokį prašymą, taip pat tais atvejais, kai yra pagrindas manyti, kad kaltinime nurodyta veika gali būti perkvalifikuota, apie šią galimybę nedelsdamas praneša nagrinėjimo teisme dalyviams. Jeigu yra gautas prokuroro, privataus kaltintojo ar nukentėjusiojo prašymas pakeisti kaltinime nurodytos veikos kvalifikavimą, šio prašymo nuorašai įteikiami kaltinamajam, jo gynėjui ir kitiems nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, kaltinamasis gali būti pripažintas kaltu ir remiantis kaltinamajame akte pateiktu veikos kvalifikavimu.
+2. Prokuroras ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą pakeisti kaltinime nurodytos veikos kvalifikavimą. Teismas, gavęs tokį prašymą, taip pat tais atvejais, kai yra pagrindas manyti, kad kaltinime nurodyta veika gali būti perkvalifikuota, apie šią galimybę nedelsdamas praneša nagrinėjimo teisme dalyviams. Jeigu yra gautas prokuroro ar nukentėjusiojo prašymas pakeisti kaltinime nurodytos veikos kvalifikavimą, šio prašymo nuorašai įteikiami kaltinamajam, jo gynėjui ir kitiems nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, kaltinamasis gali būti pripažintas kaltu ir remiantis kaltinamajame akte pateiktu veikos kvalifikavimu.
 
 
 
@@ -8627,6 +8632,7 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2013-11-15, Žin., 2013, Nr. 119-6005 (2013-11-20)
 Straipsnio pakeitimai:
 Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
  
 
 
@@ -9558,7 +9564,10 @@ BAIGIAMOSIOS KALBOS ir kaltinamojo paskutinis žodis
 
 
 
-3. Jeigu privataus kaltinimo byloje yra sujungti priešpriešiniai kaltinimai, baigiamųjų kalbų eiliškumą nustato teismas.
+3. Neteko galios nuo 2017-10-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -10249,7 +10258,10 @@ Neįsiteisėjusio nuosprendžio ar nutarties apskundimas
 312 straipsnis. Teisė apskųsti teismo nuosprendį apeliacine tvarka
 
 
-1. Apeliacinius skundus dėl neįsiteisėjusio nuosprendžio bet kokiais pagrindais ir motyvais turi teisę paduoti prokuroras, privatus kaltintojas, nuteistasis, asmuo, kuriam byla nutraukta, jų gynėjas ir atstovas pagal įstatymą, nukentėjusysis ir jo atstovas.
+1. Apeliacinius skundus dėl neįsiteisėjusio nuosprendžio bet kokiais pagrindais ir motyvais turi teisę paduoti prokuroras, nuteistasis, asmuo, kuriam byla nutraukta, jų gynėjas ir atstovas pagal įstatymą, nukentėjusysis ir jo atstovas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -10422,7 +10434,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-2. Nuteistajam, išteisintajam ir asmeniui, kuriam byla nutraukta, išsiunčiamas prokuroro, privataus kaltintojo ar nukentėjusiojo, ar jo atstovo skundo nuorašas. Kitiems proceso dalyviams skundo nuorašai įteikiami jų prašymu.
+2. Nuteistajam, išteisintajam ir asmeniui, kuriam byla nutraukta, išsiunčiamas prokuroro, nukentėjusiojo ar jo atstovo skundo nuorašas. Kitiems proceso dalyviams tokie nuorašai įteikiami jų prašymu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -10530,7 +10545,10 @@ Apeliacinis procesas
 
 
 
-4. Pabloginti nuteistojo ar išteisintojo, taip pat asmens, kuriam byla nutraukta, padėtį apeliacinės instancijos teismas gali tik tuo atveju, kai dėl to yra prokuroro, privataus kaltintojo, nukentėjusiojo ir civilinio ieškovo skundai. Nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, padėtis negali būti pabloginta daugiau, negu to prašoma apeliaciniame skunde.
+4. Pabloginti nuteistojo ar išteisintojo, taip pat asmens, kuriam byla nutraukta, padėtį apeliacinės instancijos teismas gali tik tuo atveju, kai dėl to yra prokuroro, nukentėjusiojo ir civilinio ieškovo skundai. Nuteistojo, išteisintojo ar asmens, kuriam byla nutraukta, padėtis negali būti pabloginta daugiau, negu to prašoma apeliaciniame skunde.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -10589,7 +10607,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-2. Šiame posėdyje turi teisę dalyvauti nuteistasis, išteisintasis, asmuo, kuriam paskirtos ar nepaskirtos priverčiamosios medicinos priemonės, jų atstovai pagal įstatymą, nukentėjusysis, privatus kaltintojas, civilinis ieškovas, civilinis atsakovas ir jų atstovai. Šių asmenų, jeigu jiems buvo laiku pranešta apie bylos nagrinėjimo laiką, neatvykimas nekliudo nagrinėti bylą.
+2. Šiame posėdyje turi teisę dalyvauti nuteistasis, išteisintasis, asmuo, kuriam paskirtos ar nepaskirtos priverčiamosios medicinos priemonės, jų atstovai pagal įstatymą, nukentėjusysis, civilinis ieškovas, civilinis atsakovas ir jų atstovai. Šių asmenų, jeigu jiems buvo laiku pranešta apie bylos nagrinėjimo laiką, neatvykimas nekliudo nagrinėti bylą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 Straipsnio pakeitimai:
@@ -10672,7 +10693,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-8. Baigiamosios kalbos prasideda apeliantų kalbomis. Jeigu yra prokuroro, privataus kaltintojo, nukentėjusiojo ar jo atstovo skundas, pirmiausia kalba šie asmenys, pirmas iš jų – padavęs skundą. Kitais atvejais pirmiausia kalba nuteistasis, išteisintasis, asmuo, kuriam byla nutraukta, jo gynėjas ir atstovas pagal įstatymą, pirmas iš jų – padavęs skundą. Po to baigiamąsias kalbas pasako kiti proceso dalyviai. Baigiamąsias kalbas pasakę proceso dalyviai turi teisę atsikirsti ir pasakyti pastabas dėl to, kas buvo pasakyta per pirmesnes kalbas. Paskutinis atsikerta ir pasako pastabas nuteistasis, išteisintasis, asmuo, kuriam byla nutraukta, arba jo gynėjas ar atstovas pagal įstatymą. Po baigiamųjų kalbų nuteistajam, išteisintajam ar asmeniui, kuriam byla nutraukta, suteikiamas paskutinis žodis.
+8. Baigiamosios kalbos prasideda apeliantų kalbomis. Jeigu yra prokuroro, nukentėjusiojo ar jo atstovo skundas, pirmiausia kalba šie asmenys, pirmas iš jų – padavęs skundą. Kitais atvejais pirmiausia kalba nuteistasis, išteisintasis, asmuo, kuriam byla nutraukta, jo gynėjas ir atstovas pagal įstatymą, pirmas iš jų – padavęs skundą. Po to baigiamąsias kalbas pasako kiti proceso dalyviai. Baigiamąsias kalbas pasakę proceso dalyviai turi teisę atsikirsti ir pasakyti pastabas dėl to, kas buvo pasakyta per pirmesnes kalbas. Paskutinis atsikerta ir pasako pastabas nuteistasis, išteisintasis, asmuo, kuriam byla nutraukta, arba jo gynėjas ar atstovas pagal įstatymą. Po baigiamųjų kalbų nuteistajam, išteisintajam ar asmeniui, kuriam byla nutraukta, suteikiamas paskutinis žodis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+ 
 
 
 
@@ -13823,297 +13847,10 @@ Teismo nutartį taikyti priverčiamąją medicinos priemonę turi teisę apskųs
 
 
 
-XXX skyrius
-privataus kaltinimo bylų Procesas
+30 skyrius. Neteko galios nuo 2017-10-01
+Skyriaus naikinimas:
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
  
-
-
-407 straipsnis. Privataus kaltinimo bylos
-
-
-Baudžiamųjų bylų dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 148, 152, 154, 155, 165, 168 straipsniuose, 187 straipsnio 1 ir 3 dalyse, 188, 313 straipsniuose, procesas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiose bylose ikiteisminis tyrimas neatliekamas, išskyrus šio Kodekso 409 straipsnyje numatytus atvejus.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1637, 2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
- 
-
-
-
-
-408 straipsnis. Asmenys, turintys teisę paduoti skundą ar pareiškimą ir palaikyti kaltinimą teisme
-
-
-1. Privataus kaltinimo bylose skundą paduoda ir kaltinimą teisme palaiko nukentėjusysis. Teisme jis įgyja privataus kaltintojo statusą.
-
-
-
-
-2. Jeigu nukentėjusysis dėl nepilnametystės, fizinių ar psichinių trūkumų negali pasinaudoti visomis nukentėjusiojo teisėmis, paduoti pareiškimą ir palaikyti kaltinimą teisme gali jo teisėtas atstovas.
-
-
-
-
-3. Jeigu procesas pradėtas dėl nukentėjusiojo teisėto atstovo pareiškimo, toks atstovas teisme įgyja privataus kaltintojo statusą ir kaltinimą teisme palaiko vienas arba kartu su nukentėjusiuoju.
- 
-
-
-
-
-
-
-409 straipsnis. Perėjimas iš privataus kaltinimo į valstybinį kaltinimą
-
-
-1. Jeigu šio Kodekso 407 straipsnyje nurodytos nusikalstamos veikos turi visuomeninę reikšmę ar jomis padaryta žala asmeniui, kuris dėl svarbių priežasčių negali ginti teisėtų savo interesų, prokuroras, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas, dėl šių veikų privalo pradėti baudžiamąjį procesą.
-
-
-
-
-2. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės paaiškėja privataus kaltinimo bylos proceso metu, iki įrodymų tyrimo pradžios, prokuroras privalo pateikti teismui rašytinį pareiškimą, kad šioje byloje palaikys valstybinį kaltinimą. Šiuo atveju byla perduodama prokurorui. Ikiteisminis bylos tyrimas ir bylos nagrinėjimas teisme vyksta bendra tvarka.
-
-
-
-
-3. Jeigu Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio 1 dalyje, 148, 152 ir 165 straipsniuose numatytos nusikalstamos veikos turi smurto artimoje aplinkoje požymių, ikiteisminis tyrimas pradedamas, nesvarbu, ar yra nukentėjusiojo skundas arba jo teisėto atstovo pareiškimas. Dėl šių veikų privaloma pradėti baudžiamąjį procesą bendra tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-1650, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06589
- 
-
-
-
-
-4. Ikiteisminis tyrimas dėl nusikalstamų veikų, numatytų šio Kodekso 407 straipsnyje, atliekamas bendra tvarka, jeigu nusikalstamos veikos padarymu įtariamas asmuo nėra žinomas.
-
-
-
-
-5. Jeigu nagrinėjant privataus kaltinimo bylą teisme paaiškėja, kad kaltinamasis padarė nusikalstamą veiką, dėl kurios turi būti palaikomas valstybinis kaltinimas, privataus kaltinimo procesas nutraukiamas ir bylos medžiaga perduodama prokurorui.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1637, 2003-06-19, Žin., 2003, Nr. 68-3070 (2003-07-09)
-Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
-Nr. XII-502, 2013-07-02, Žin., 2013, Nr. 75-3773 (2013-07-13)
- 
-
-
-
-
-410 straipsnis. Priešpriešinio skundo nagrinėjimas
-
-
-1. Kaltinamasis privataus kaltinimo byloje iki įrodymų tyrimo teisme pradžios turi teisę paduoti skundą prieš nukentėjusįjį, kaltindamas jį nusikalstamos veikos, nagrinėjamos privataus kaltinimo tvarka, padarymu, jeigu ši veika yra susijusi su jam pareikštu kaltinimu. Jeigu tokie asmenys nesusitaiko, kaltinimai nagrinėjami vienoje byloje.
-
-
-
-
-2. Nagrinėjant byloje priešpriešinius kaltinimus, pirmas užduoda klausimus, duoda paaiškinimus, pasako baigiamąją kalbą kaltinamasis, kuris pirmas padavė skundą. Jam pirmam suteikiamas ir paskutinis žodis.
- 
-
-
-
-
-
-
-411 straipsnis. Prisijungimas prie privataus kaltinimo
-
-
-Privataus kaltinimo tvarka nagrinėjamose bylose asmenys, nukentėję nuo kaltinamojo nusikalstamų veikų, kurios susijusios su jau pareikštu privačiu kaltinimu, turi teisę iki įrodymų tyrimo teisme pradžios prisidėti prie jau nagrinėjamo kaltinimo. Jeigu tokie asmenys nesusitaiko, kaltinimai nagrinėjami vienoje byloje.
- 
-
-
-
-
-
-
-412 straipsnis. Nukentėjusiojo skundo ar teisėto atstovo pareiškimo turinys
-
-
-1. Skundas ar pareiškimas privataus kaltinimo tvarka paduodamas raštu.
-
-
-
-
-2. Skunde ar pareiškime turi būti nurodyta: teismo, kuriam teisminga byla, pavadinimas; nusikalstamos veikos, kuria kaltinamas asmuo, padarymo vieta, laikas, padariniai ir kitos esminės aplinkybės; duomenys, kurie patvirtina skunde ar pareiškime išdėstytas aplinkybes; nukentėjusiojo, nusikalstamos veikos padarymu įtariamo asmens bei liudytojų vardai, pavardės ir gyvenamoji vieta. Skundas turi būti pasirašytas nukentėjusiojo, o 408 straipsnio 2 dalyje numatytu atveju pareiškimas – nukentėjusiojo teisėto atstovo.
-
-
-
-
-3. Šio straipsnio reikalavimų neatitinkantis skundas nepriimamas ir grąžinamas jį padavusiam asmeniui.
-
-
-
-
-4. Šio straipsnio 2 dalyje nurodyti reikalavimai taikomi ir nukentėjusiojo teisėto atstovo pareiškimui.
- 
-
-
-
-
-
-
-4121 straipsnis. Atsisakymas pradėti privataus kaltinimo bylų procesą
-
-
-1. Teisėjas, gavęs nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, atsisako pradėti privataus kaltinimo bylų procesą, jeigu skunde ar pareiškime nurodyti faktai apie nusikalstamą veiką yra akivaizdžiai neteisingi ar yra aiškios šio Kodekso 3 straipsnio 1 dalyje nurodytos aplinkybės.
-
-
-
-
-2. Atsisakydamas pradėti privataus kaltinimo bylų procesą, teisėjas priima nutartį.
-
-
-
-
-3. Nutarties atsisakyti pradėti privataus kaltinimo bylų procesą nuorašas siunčiamas skundą ar pareiškimą padavusiam asmeniui.
-
-
-
-
-4. Teisėjo nutartį atsisakyti pradėti privataus kaltinimo bylų procesą nukentėjusysis ar jo teisėtas atstovas turi teisę per septynias dienas nuo nutarties nuorašo gavimo apskųsti šio Kodekso X dalyje nustatyta tvarka.
-
-
-Kodeksas papildytas straipsniu:
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
- 
-
-
-
-
-413 straipsnis. Taikinamasis posėdis
-
-
-1. Jeigu nėra šio Kodekso 412(1) straipsnio 1 dalyje numatytų pagrindų atsisakyti pradėti privataus kaltinimo bylų procesą, nukentėjusysis ir (ar) jo teisėtas atstovas, ir nusikalstamos veikos padarymu kaltinamas asmuo šaukiami pas teisėją sutaikinti. Nusikalstamos veikos padarymu kaltinamam asmeniui kartu su šaukimu išsiunčiamas ir skundo nuorašas.
-
-
-
-
-2. Taikinamasis posėdis prasideda teisėjo pranešimu apie nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo turinį ir kvietimu susitaikyti. Po to pasisako nukentėjusysis ir (ar) jo teisėtas atstovas, ir nusikalstamos veikos padarymu kaltinamas asmuo. Jeigu šie asmenys susitaiko, procesas dėl skundo nutraukiamas.
-
-
-
-
-3. Nukentėjusysis ir (ar) jo teisėtas atstovas, ir nusikalstamos veikos padarymu kaltinamas asmuo susitaikydami gali sudaryti sutartį dėl žalos atlyginimo. Pagal sutartį dėl žalos atlyginimo vėliau gali būti išduotas vykdomasis dokumentas.
-
-
-
-
-4. Tiek pareikštas nuomones dėl susitaikymo, tiek sutartį dėl žalos atlyginimo taikinamojo posėdžio protokole pasirašo nukentėjusysis ir (ar) jo teisėtas atstovas, ir  nusikalstamos veikos padarymu kaltinamas asmuo.
-
-
-
-
-5. Jeigu nukentėjusysis ir (ar) jo teisėtas atstovas, ir nusikalstamos veikos padarymu kaltinamas asmuo nesusitaiko, teisėjas priima nutartį nukentėjusiojo skundą perduoti nagrinėti teisiamajame posėdyje.
-
-
-
-
-6. Jeigu nukentėjusysis ir (ar) jo teisėtas atstovas į taikinamąjį posėdį neatvyko be svarbios priežasties, laikoma, kad privatus kaltintojas kaltinimo atsisakė. Tokiu atveju procesas dėl skundo nutraukiamas.
-
-
-
-
-7. Jeigu be svarbios priežasties į taikinamąjį posėdį neatvyksta nusikalstamos veikos padarymu kaltinamas asmuo, teisėjas nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą perduoda nagrinėti teisiamajame posėdyje.
-
-
-Straipsnio pakeitimai:
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
- 
-
-
-
-
-414 straipsnis. Teismo veiksmai iki teisiamojo posėdžio
-
-
-1. Teismo veiksmus po nukentėjusiojo skundo perdavimo nagrinėti teisiamajame posėdyje iki teisiamojo posėdžio nustato šio Kodekso XVIII skyriaus taisyklės su šiame straipsnyje numatytomis išimtimis.
-
-
-
-
-2. Jeigu byloje yra aplinkybių, kurių teismas negali savarankiškai nustatyti, teisėjas, priimdamas nutartį nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą perduoti nagrinėti teisiamajame posėdyje, paveda prokurorui per nustatytą laikotarpį ištirti šias aplinkybes, o bylos nagrinėjimą tam laikui atideda.
-
-
-
-
-3. Privataus kaltinimo bylose kaltinamajam ne vėliau kaip prieš tris dienas iki teisiamojo posėdžio pradžios turi būti įteiktas nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo nuorašas.
-
-
-
-
-4. Dėl nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo perdavimo nagrinėti teisiamajame posėdyje nusprendžiama per dvidešimt dienų nuo skundo ar pareiškimo gavimo dienos, o byla teisiamajame posėdyje pradedama nagrinėti ne vėliau kaip per keturiolika dienų nuo teisėjo nutarties skundą ar pareiškimą perduoti nagrinėti teisiamajame posėdyje priėmimo.
-
-
-Straipsnio pakeitimai:
-Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
- 
-
-
-
-
-415 straipsnis. Privataus kaltinimo bylų nagrinėjimas teisme
-
-
-1. Privataus kaltinimo bylų nagrinėjimas teisme vyksta pagal šio Kodekso V dalyje nustatytas taisykles su šio Kodekso 415–417 straipsniuose numatytomis išimtimis.
-
-
-
-
-2. Privatus kaltintojas turi šio Kodekso 34 straipsnyje numatytas teises.
-
-
-
-
-3. Privataus kaltinimo bylose įrodymų tyrimas pradedamas nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo paskelbimu. Jį balsu perskaito privatus kaltintojas arba jo atstovas.
- 
-
-
-
-
-
-
-416 straipsnis. Kaltinimo atsisakymas 
-
-
-1. Privatus kaltintojas turi teisę iki baigiamųjų kalbų pabaigos atsisakyti kaltinimo arba susitaikyti su kaltinamuoju.
-
-
-
-
-2. Jeigu privatus kaltintojas į teisiamąjį posėdį neatvyksta be svarbios priežasties, laikoma, kad jis kaltinimo atsisako.
-
-
-
-
-3. Jei privatus kaltintojas atsisakė kaltinimo arba su kaltinamuoju susitaikė, bylos procesas teismo nutartimi nutraukiamas.
- 
-
-
-
-
-
-
-417 straipsnis. Perėjimas iš valstybinio kaltinimo į privatų kaltinimą
-
-
-1. Jeigu ikiteisminio tyrimo metu paaiškėja, kad įtariamojo veika turi šio Kodekso 407 straipsnyje nurodytų nusikalstamų veikų požymių, tyrimą atliekantis pareigūnas išaiškina nukentėjusiajam šio teisę kreiptis į teismą privataus kaltinimo tvarka. Dėl šios nusikalstamos veikos bendra tvarka pradėtas ikiteisminis tyrimas nutraukiamas.
-
-
-
-
-2. Bylą nagrinėjant teisme, kai yra pagrindas manyti, kad kaltinamojo veika gali būti perkvalifikuota iš nusikalstamos veikos, nagrinėjamos valstybinio kaltinimo tvarka, į nusikalstamą veiką, nagrinėjamą privataus kaltinimo tvarka, teisiamojo posėdžio pirmininkas iki įrodymų tyrimo pabaigos paklausia nukentėjusįjį, ar šis nesusitaikytų su kaltinamuoju, jei veika būtų perkvalifikuota pagal šio Kodekso 407 straipsnyje nurodytus Lietuvos Respublikos baudžiamojo kodekso straipsnius.
-
-
-
-
-3. Kai yra galimybė perkvalifikuoti nusikalstamą veiką ir nukentėjusysis reikalauja, kad kaltinamasis būtų nuteistas už nusikalstamą veiką, nagrinėjamą privataus kaltinimo tvarka, teismas dėl šios veikos pasitarimų kambaryje priima nuosprendį, jei yra įstatymų numatytos kitos sąlygos.
- 
-
-
-
-
 
 
 
@@ -16008,3 +15745,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 66, 67, 77 straipsnių ir prie
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT8-N6/2017, 2017-06-26, paskelbta TAR 2017-06-26, i. k. 2017-10749
 Dėl Lietuvos Respublikos baudžiamojo proceso kodekso 320 straipsnio 4 dalies, 326 straipsnio 1 dalies 4 punkto atitikties Lietuvos Respublikos Konstitucijai
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
+Lietuvos Respublikos baudžiamojo proceso kodekso 3, 22, 57, 58, 167, 256, 293, 312, 317, 320, 322, 324 straipsnių pakeitimo ir 34 straipsnio ir XXX skyriaus pripažinimo netekusiais galios įstatymas
