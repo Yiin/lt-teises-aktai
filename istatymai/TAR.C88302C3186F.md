@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C88302C3186F"
 
 # Lietuvos Respublikos Europos darbo tarybų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01
+Suvestinė redakcija nuo 2017-10-10
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 39-1271, i. k. 1041010ISTA0IX-2031
  
@@ -36,7 +36,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šio įstatymo tikslas yra užtikrinti Europos Sąjungos įmonės ir Europos Sąjungos įmonių grupės darbuotojų, jeigu darbuotojai nėra laivo, kuriam taikytinas Lietuvos Respublikos prekybinės laivybos įstatymas, įgulos nariai, teisę būti išklausytiems, taip pat teisę į informavimą ir konsultavimą.
+1. Šio įstatymo tikslas – užtikrinti Europos Sąjungos įmonės ir Europos Sąjungos įmonių grupės darbuotojų teisę būti išklausytiems, taip pat teisę į darbuotojų informavimą ir konsultavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
 
 
 
@@ -510,7 +513,25 @@ Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
 
 
 
-4. Europos darbo tarybos, specialiojo derybų komiteto nariams nuo jų paskyrimo (išrinkimo) į pareigas, taip pat darbuotojų atstovams, dalyvaujantiems informavimo ir konsultavimo procedūrose pagal darbuotojų informavimo ir konsultavimo tvarką, taikoma teisių apsauga ir garantijos pagal tos valstybės narės, kurioje jie dirba, teisės aktus ir (arba) nusistovėjusią praktiką. 
+4. Specialiojo derybų komiteto arba Europos darbo tarybos narys, kuris yra jūrų laivo įgulos narys, arba jūrų laivo įgulos narys, kuris yra darbuotojų atstovas, dalyvaujantis susitarime dėl darbuotojų informavimo ir konsultavimo tvarkos Europos Sąjungos įmonėje ar Europos Sąjungos įmonių grupėje parengimo, gali turėti pakaitinį narį. Specialiojo derybų komiteto arba Europos darbo tarybos nariui, kuris yra jūrų laivo įgulos narys, arba jūrų laivo įgulos nariui, kuris yra darbuotojų atstovas, dalyvaujantis susitarime dėl darbuotojų informavimo ir konsultavimo tvarkos Europos Sąjungos įmonėje ar Europos Sąjungos įmonių grupėje parengimo, arba jūrų laivo įgulos narių pakaitiniams nariams, jeigu pakaitiniai nariai yra jūrų laivo įgulos nariai, turi būti užtikrinta teisė ir sudarytos sąlygos dalyvauti Europos darbo tarybos ar specialiojo derybų komiteto posėdžiuose arba dalyvauti kituose susitikimuose siekiant aptarti jiems pateiktą informaciją, jeigu tuo metu, kai vyksta posėdžiai ar susitikimai, jūrų laivo įgulos nariai arba jų pakaitiniai nariai nėra išplaukę į jūrą arba jūrų laivo įgulos narių arba jų pakaitinių narių nėra kitos valstybės uoste, kai Europos Sąjungos įmonės, taip pat Europos Sąjungos įmonių grupės kontroliuojančiosios įmonės buveinė yra Lietuvos Respublikoje. Posėdžiai ir susitikimai, kai tik įmanoma, turėtų būti suplanuoti taip, kad būtų sudarytos sąlygos dalyvauti specialiojo derybų komiteto arba Europos darbo tarybos nariams arba darbuotojų atstovams, dalyvaujantiems susitarime dėl darbuotojų informavimo ir konsultavimo tvarkos Europos Sąjungos įmonėje ar Europos Sąjungos įmonių grupėje parengimo, arba jų pakaitiniams nariams, jeigu jie yra jūrų laivo įgulos nariai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
+
+
+
+
+5. Kai specialiojo derybų komiteto arba Europos darbo tarybos nariai arba jų pakaitiniai nariai, jeigu jie yra jūrų laivo įgulos nariai, negali dalyvauti Europos darbo tarybos arba specialiojo derybų komiteto posėdyje, apsvarstoma galimybė, jeigu tai įmanoma, naudotis ryšio priemonėmis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
+ 
+
+
+
+
+6. Europos darbo tarybos, specialiojo derybų komiteto nariams nuo jų paskyrimo (išrinkimo) į pareigas, taip pat darbuotojų atstovams, dalyvaujantiems informavimo ir konsultavimo procedūrose pagal darbuotojų informavimo ir konsultavimo tvarką, taikoma teisių apsauga ir garantijos pagal tos valstybės narės, kurioje jie dirba, teisės aktus ir (arba) nusistovėjusią praktiką. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
  
 
 
@@ -1421,7 +1442,9 @@ priedas
  
 
 
-1. 2009 m. gegužės 6 d. Europos Parlamento ir Tarybos direktyva 2009/38/EB dėl Europos darbo tarybos steigimo arba Bendrijos mastu veikiančių įmonių ir Bendrijos mastu veikiančių įmonių grupių darbuotojų informavimo bei konsultavimosi su jais tvarkos nustatymo (OL 2009 L 122, p. 28–44).
+1. 2009 m. gegužės 6 d. Europos Parlamento ir Tarybos direktyva 2009/38/EB dėl Europos darbo tarybos steigimo arba Bendrijos mastu veikiančių įmonių ir Bendrijos mastu veikiančių įmonių grupių darbuotojų informavimo bei konsultavimosi su jais tvarkos nustatymo (OL 2009 L 122, p. 28) su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794 (OL 2015 L 263, p. 1). 
+Punkto pakeitimai:
+Nr. XIII-301, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07279
  
 
 
