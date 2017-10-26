@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-10-25
+Suvestinė redakcija nuo 2017-10-26 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -966,11 +966,13 @@ Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 
 
 
 
-6. Kiti rezervai sudaromi įmonės įstatuose nustatyta tvarka iš įmonės paskirstytinojo pelno, naudojami įmonės įstatuose nustatytiems tikslams ir naikinami įmonės įstatuose nustatyta tvarka. Šie rezervai gali būti sudaromi tik po to, kai yra atliktas atskaitymas į privalomąjį rezervą. Skirstant finansinių metų pelną, kiti nepanaudoti rezervai gali būti pervedami į paskirstytinąjį pelną (nuostolius).
+6. Kiti rezervai sudaromi įmonės įstatuose nustatyta tvarka iš įmonės paskirstytinojo pelno, naudojami įmonės įstatuose nustatytiems tikslams ir naikinami įmonės įstatuose nustatyta tvarka. Šie rezervai gali būti sudaromi tik po to, kai yra atliktas atskaitymas į privalomąjį rezervą. Skirstant finansinių metų pelną, kiti nepanaudoti rezervai, jeigu jų nenumatoma panaudoti, gali būti pervedami į paskirstytinąjį pelną (nuostolius).
+TAR pastaba. 12 straipsnio 6 dalies nuostatos taikomos paskirstant įmonių 2017 metų ir vėlesnių metų paskirstytinąjį pelną.
 Straipsnio dalies pakeitimai:
 Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+Nr. XIII-701, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16809
  
 
 
@@ -1152,9 +1154,6 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 11) nepaskirstytasis pelnas (nuostoliai), perkeliamas (perkeliami) į kitus finansinius metus.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
- 
 
 
 
@@ -1164,7 +1163,7 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-4. Įmonės paskirstytinąjį pelną (nuostolius) sudaro ataskaitinių finansinių metų pelno (nuostolių) ir ankstesnių finansinių metų nepaskirstytojo pelno (nuostolių) ataskaitinių finansinių metų pabaigoje bei pervedimų iš rezervų suma. 
+4. Įmonės paskirstytinąjį pelną (nuostolius) sudaro ataskaitinių finansinių metų pelno (nuostolių) ir ankstesnių finansinių metų nepaskirstytojo pelno (nuostolių) ataskaitinių finansinių metų pabaigoje bei pervedimų iš rezervų suma.
 
 
 
@@ -1182,7 +1181,7 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-3) įmonės nuosavas kapitalas yra mažesnis arba įmokėjus į valstybės ar savivaldybės biudžetą ne mažesnę negu šio straipsnio 6 dalyje nustatyto dydžio įmonės pelno įmoką taptų mažesnis už įmonės savininko kapitalo, privalomojo rezervo, perkainojimo rezervo sumą;
+3) įmonės nuosavas kapitalas, įmokėjus į valstybės ar savivaldybės biudžetą ne mažesnę negu šio straipsnio 6 dalyje nustatyto dydžio įmonės pelno įmoką, taptų mažesnis už įmonės savininko kapitalo, turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo bei turtą, kuris yra naudojamas valstybės institucijų ir įstaigų funkcijoms atlikti ir yra perduotas centralizuotai valdomo valstybės turto valdytojui valdyti, naudoti ir disponuoti juo patikėjimo teise, atitinkančio kapitalo, privalomojo rezervo ir perkainojimo rezervo sumą;
 
 
 
@@ -1194,70 +1193,93 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-6. Įmonės savininko teises ir pareigas įgyvendinanti institucija privalo užtikrinti, kad iš įmonės paskirstytinojo pelno į valstybės ar savivaldybės biudžetą įmokama įmonės pelno įmoka būtų 50 procentų įmonės ataskaitinių finansinių metų pelno. Vyriausybė ar savivaldybės taryba jų nustatyta tvarka gali nustatyti mažesnę įmonės pelno įmoką, jeigu:
+6. Įmonės savininko teises ir pareigas įgyvendinanti institucija privalo užtikrinti, kad iš įmonės paskirstytinojo pelno į valstybės ar savivaldybės biudžetą įmokama įmonės pelno įmoka būtų:
 
 
-1) įmonės įgyvendina arba dalyvauja įgyvendinant Vyriausybės sprendimu pripažintą valstybei svarbų ekonominį projektą;
-
-
-
-
-2) įmonės nuosavas kapitalas po į valstybės ar savivaldybės biudžetą sumokėtos įmonės pelno įmokos taptų mažesnis už įmonės savininko kapitalo, privalomojo rezervo ir perkainojimo rezervo sumą. 
+1) ne mažesnė kaip 85 procentai įmonės paskirstytinojo pelno, jei įmonės ataskaitinių finansinių metų nuosavo kapitalo grąža neviršija 1 procento nuosavo kapitalo grąžos; 
 
 
 
 
-
-
-7. Nuo į valstybės ar savivaldybės biudžetą įmokamų įmonės pelno įmokų mokėjimo atleidžiamos valstybės įmonės, kurios ataskaitiniais finansiniais metais atitinka šias sąlygas:
-
-
-1) yra išvardytos Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo (toliau – Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymas) 3 straipsnio 1 dalyje kaip strateginę reikšmę nacionaliniam saugumui turinčios valstybės įmonės; 
+2) ne mažesnė kaip 80 procentų įmonės paskirstytinojo pelno, jei įmonės ataskaitinių finansinių metų nuosavo kapitalo grąža yra didesnė negu 1 procentas, bet neviršija 3 procentų nuosavo kapitalo grąžos;
 
 
 
 
-2) valdo, naudoja ir disponuoja strateginę reikšmę nacionaliniam saugumui turinčius valstybei nuosavybės teise priklausančius įrenginius, išvardytus Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio 2 dalyje;
+3) ne mažesnė kaip 75 procentai įmonės paskirstytinojo pelno, jei įmonės ataskaitinių finansinių metų nuosavo kapitalo grąža yra didesnė negu 3 procentai, bet neviršija 5 procentų nuosavo kapitalo grąžos;
 
 
 
 
-3) įgyvendina ar dalyvauja įgyvendinant teisės aktu pripažintą ypatingos valstybinės svarbos ar valstybei svarbų ekonominį projektą. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
- 
+4) ne mažesnė kaip 70 procentų įmonės paskirstytinojo pelno, jei įmonės ataskaitinių finansinių metų nuosavo kapitalo grąža yra didesnė negu 5 procentai, bet neviršija 10 procentų nuosavo kapitalo grąžos;
 
 
 
 
-8. Šio straipsnio 2 dalies 10 punktas ir 6 dalis netaikomi įmonei, kuri yra centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija Lietuvos Respublikoje ir kurios pelno panaudojimą reglamentuoja Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas. 
-Papildyta straipsnio dalimi:
-Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
- 
+5) ne mažesnė kaip 65 procentai įmonės paskirstytinojo pelno, jei įmonės ataskaitinių finansinių metų nuosavo kapitalo grąža yra didesnė negu 10 procentų, bet neviršija 15 procentų nuosavo kapitalo grąžos;
 
 
 
 
-9. Valstybės įmonės pelno dalis, atitinkanti valstybės įmonės pelno įmokos, nuo kurios mokėjimo į valstybės biudžetą ji atleidžiama vadovaujantis šio straipsnio 7 dalimi, dydį, taip pat valstybės įmonės pelno dalis, atitinkanti valstybės įmonės pelno įmokos, kurios mokėjimo į valstybės biudžetą dydis yra mažinamas vadovaujantis šio straipsnio 6 dalies 1 punktu, sumažintą dalį, turi būti skiriamos teisės aktais pripažintiems ypatingos valstybinės svarbos arba valstybei svarbiems ekonominiams projektams, kuriuos ši valstybės įmonė įgyvendina arba dalyvauja juos įgyvendinant. 
-Papildyta straipsnio dalimi:
-Nr. XII-1620, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06580
- 
+6) ne mažesnė kaip 60 procentų įmonės paskirstytinojo pelno, jei įmonės ataskaitinių finansinių metų nuosavo kapitalo grąža yra didesnė negu 15 procentų nuosavo kapitalo grąžos.
 
 
 
 
-10. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-525a, 2013-10-01, Žin., 2013, Nr. 116-5805 (2013-11-09), i. k. 1131010ISTAXII-525A
-Nr. XII-1451, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20566
-Nr. XII-1620, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06580
- 
+
+
+7. Įmonės nuosavo kapitalo grąža apskaičiuojama naudojant audituoto metinių finansinių ataskaitų rinkinio duomenis, ataskaitinių finansinių metų grynąjį pelną (nuostolius) dalijant iš nuosavo kapitalo šio laikotarpio pradžioje ir pabaigoje vidurkio.
+
+
+
+
+8. Skaičiuojant valstybės įmonės nuosavo kapitalo grąžą, ataskaitinių finansinių metų grynasis pelnas (nuostoliai) koreguojamas:
+
+
+1) ataskaitinių finansinių metų grynąjį pelną padidinant (grynuosius nuostolius sumažinant) mokesčio už valstybės turto naudojimą patikėjimo teise, nustatyto Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatyme, suma, sumažinant apskaičiuoto pelno mokesčio, nustatyto Lietuvos Respublikos pelno mokesčio įstatyme, suma;
+
+
+
+
+2) ataskaitinių finansinių metų grynąjį pelną padidinant (grynuosius nuostolius sumažinant) atskaitymų į valstybės biudžetą nuo pajamų pagal Lietuvos Respublikos miškų įstatymą suma, sumažinant apskaičiuoto pelno mokesčio, nustatyto Lietuvos Respublikos pelno mokesčio įstatyme, suma.
+
+
+
+
+
+
+9. Vyriausybė ar savivaldybės taryba jų nustatyta tvarka gali nustatyti mažesnę, negu nurodyta šio straipsnio 6 dalyje, įmonės pelno įmoką į valstybės ar savivaldybės biudžetą, jeigu yra tenkinama bent viena iš šių sąlygų:
+
+
+1) įmonė įgyvendina arba dalyvauja įgyvendinant Vyriausybės sprendimu pripažintą valstybei svarbų ekonominį projektą arba valstybės įmonė įgyvendina ar dalyvauja įgyvendinant Lietuvos Respublikos Seimo sprendimu pripažintą ypatingos valstybinės svarbos projektą;
+
+
+
+
+2) įmonės paskolos, išperkamosios nuomos įsipareigojimai ir kitos ilgalaikės mokėtinos sumos ir įsipareigojimai (išskyrus ateinančių laikotarpių pajamas, atidėtojo pelno mokesčio įsipareigojimus ir dotacijas), kurie nurodyti įmonės audituotame ataskaitinių metinių finansinių ataskaitų rinkinyje, sumokėjus pelno įmoką, viršytų įmonės nuosavo kapitalo dydį. 
+
+
+
+
+
+
+10. Šio straipsnio 2 dalies 10 punktas ir 6 dalis netaikomi įmonei, kuri yra centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija Lietuvos Respublikoje ir kurios pelno panaudojimą reglamentuoja Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas. 
+
+
+
+
+11. Įmonės pelno dalis, likusi pagal šio straipsnio 9 dalies 1 punktą sumažinus įmonės pelno įmoką, turi būti skiriama Lietuvos Respublikos Seimo sprendimu pripažintiems ypatingos valstybinės svarbos arba Vyriausybės sprendimu pripažintiems valstybei svarbiems ekonominiams projektams, kuriuos ši įmonė įgyvendina arba dalyvauja juos įgyvendinant.
+
+
+
+
+12. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+TAR pastaba. 15 straipsnio nuostatos taikomos paskirstant įmonių 2017 metų ir vėlesnių metų paskirstytinąjį pelną.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
+Nr. XIII-701, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16809
  
 
 
@@ -2079,3 +2101,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 13
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 17 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-701, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16809
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 12 ir 15 straipsnių pakeitimo įstatymas
