@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -55,9 +55,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Įpareigotosios įmonės – naftos perdirbimo įmonės, naftos produktus ir (ar) naftą importuojančios įmonės ir įvežančios įmonės, išskyrus valstybės įmonę Lietuvos naftos produktų agentūrą, kurios pagal šio įstatymo nuostatas kaupia ir tvarko naftos produktų ir naftos atsargas ir kurių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekis per metus viršija 1 000 tonų benzino ar mazuto arba 2 500 tonų dyzelino. Nurodyti kiekiai skaičiuojami sumuojant įpareigotųjų įmonių ir su jomis susijusių asmenų, kaip tai yra apibrėžta Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, įmonių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekį per metus.
+2. Įpareigotosios įmonės – naftos perdirbimo įmonės, naftos produktus ir (ar) naftą importuojančios įmonės ir įvežančios įmonės, išskyrus valstybės įmonę Lietuvos naftos produktų agentūrą, kurios pagal šio įstatymo nuostatas kaupia ir tvarko naftos produktų ir naftos atsargas ir kurių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekis per metus viršija 100 tonų. Nurodytas kiekis skaičiuojamas sumuojant įpareigotųjų įmonių ir su jomis susijusių asmenų, kaip tai yra apibrėžta Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, įmonių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekį per metus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
+Nr. XIII-566, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12065
  
 
 
@@ -914,6 +915,8 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
  
+ 
+ 
 
 
 
@@ -938,6 +941,7 @@ priedas
 
 
 
+ 
 Pakeitimai:
  
 1.
@@ -999,3 +1003,8 @@ Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2486, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18456
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 25 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-566, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12065
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2 straipsnio pakeitimo įstatymas
