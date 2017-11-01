@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-11-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -30061,6 +30061,14 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 
 
+7. Verslininkui, parduodančiam sveriamas prekes, draudžiama į sveriamos prekės masę ir kainą įskaičiuoti šiai prekei sverti ir pakuoti naudojamos pakavimo medžiagos masę ir vertę.
+Papildyta straipsnio dalimi:
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+ 
+
+
+
+
 
 
 6.2286 straipsnis. Bendrieji vartotojų teisės į informaciją reikalavimai
@@ -30699,7 +30707,9 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 
 
-2. Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas pasibaigęs.
+2. Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas pasibaigęs arba kurios buvo perženklintos, perpakuotos ar kitaip apdorotos siekiant pratęsti jų tinkamumo naudoti terminą. Gamintojas neatsako už prekių saugą ir tinkamumą naudoti pagal paskirtį (prekės savybes) suėjus prekės tinkamumo naudoti terminui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
  
 
 
@@ -33830,7 +33840,11 @@ Jeigu įstatymai ar sutartis nenumato ko kita, laikoma, kad vartojimo pirkimo–
 
 
 
-9. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–7 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. 
+9. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–7 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. Pardavėjas turi grąžinti pirkėjui sumokėtą kainą ir atlyginti kitus nuostolius nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo sutarties nutraukimo dienos ar pirkėjo reikalavimo atlyginti nuostolius gavimo dienos.
+TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+ 
 
 
 
@@ -33929,6 +33943,19 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 
 
+6.3581 straipsnis. Reikalavimai dėl atskirų rūšių daiktų pardavimo ir atskirų rūšių prekybos vietų 
+
+
+Reikalavimai dėl atskirų rūšių daiktų pardavimo tik nustatytose prekybos vietose (specializuotose parduotuvėse, specializuotuose parduotuvių skyriuose, turgavietėse ar kitose prekybos vietose), taip pat reikalavimai, taikomi atskirų rūšių prekybos vietoms, gali būti nustatyti įstatymuose. 
+
+
+Papildyta straipsniu:
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+ 
+
+
+
+
 6.359 straipsnis. Daiktų pardavimas su sąlyga juos pristatyti pirkėjui
 
 
@@ -34012,7 +34039,11 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 
 
-2. Jeigu pardavėjas neturi pakeitimui tinkamų daiktų, tai pirkėjas turi teisę per šio straipsnio 1 dalyje nustatytą terminą grąžinti daiktus pardavėjui ir atgauti už juos sumokėtą kainą.
+2. Jeigu pardavėjas neturi pakeitimui tinkamų daiktų, tai pirkėjas turi teisę per šio straipsnio 1 dalyje nustatytą terminą grąžinti daiktus pardavėjui ir atgauti už juos sumokėtą kainą. Pardavėjas turi grąžinti pirkėjui pastarojo sumokėtą kainą nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo daikto grąžinimo dienos.
+TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+ 
 
 
 
@@ -34125,7 +34156,11 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 
 
-8. Pirkėjas neturi teisės nutraukti sutarties, jeigu daikto trūkumas yra mažareikšmis. Pirkėjui nutraukus sutartį dėl daikto netinkamos kokybės, pardavėjas privalo grąžinti sumokėtą kainą. Netinkamos kokybės daikto grąžinimo išlaidos tenka pardavėjui. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių. 
+8. Pirkėjas neturi teisės nutraukti sutarties, jeigu daikto trūkumas yra mažareikšmis. Pirkėjui nutraukus sutartį dėl daikto netinkamos kokybės, pardavėjas privalo nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo daikto grąžinimo dienos, grąžinti sumokėtą kainą. Netinkamos kokybės daikto grąžinimo išlaidos tenka pardavėjui. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių.
+TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+ 
 
 
 
@@ -49109,3 +49144,8 @@ Lietuvos Respublikos civilinio kodekso 3.43, 3.48, 3.53, 3.59, 3.64, 3.65, 3.76,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873
 Lietuvos Respublikos civilinio kodekso 3.183 ir 4.236 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
+Lietuvos Respublikos civilinio kodekso 6.228-5, 6.228-13, 6.353, 6.362, 6.363 straipsnių pakeitimo ir Kodekso papildymo 6.358-1 straipsniu įstatymas
