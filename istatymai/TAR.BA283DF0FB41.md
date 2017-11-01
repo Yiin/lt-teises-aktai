@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2014-10-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
  
@@ -528,7 +528,10 @@ III SKYRIUS
 5. Susisiekimo ministerija:
 
 
-1) koordinuoja geležinkelio kelių ir jų įrenginių apsaugos zonų ir valstybinės reikšmės automobilių kelių želdinių apsaugą, tvarkymą ir naujų želdinių veisimą;
+1) koordinuoja geležinkelio kelių ir jų įrenginių apsaugos zonų želdinių apsaugą, tvarkymą ir naujų želdinių veisimą ir valstybinės reikšmės automobilių kelių želdinių tvarkymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
+ 
 
 
 
@@ -538,7 +541,10 @@ III SKYRIUS
 
 
 
-3) koordinuoja valstybinės reikšmės automobilių kelių želdinių ir geležinkelio kelių bei jų įrenginių apsaugos zonų želdinių inventorizavimą, apskaitą ir būklės stebėseną.
+3) koordinuoja geležinkelio kelių ir jų įrenginių apsaugos zonų želdinių inventorizavimą, apskaitą ir būklės stebėseną. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
+ 
 
 
 
@@ -692,10 +698,17 @@ Nr. XII-461, 2013-07-02, Žin. 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA
 
 
 
-2. Valstybinės reikšmės automobilių kelių želdinius saugo, tvarko ir naujus veisia valstybinės kelių priežiūros įmonės.
+2. Valstybinės reikšmės automobilių kelių želdinius saugo ir tvarko valstybinės kelių priežiūros įmonės.
+
+
+
+
+3. Želdinius, kurie auga viešosios geležinkelių infrastruktūros objektų užimamoje žemėje ir patenka į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos zonas ir geležinkelio želdinių apsaugos zonas, inventorizuoja, įtraukia į apskaitą, tvarko ir naujus želdinius šiose zonose veisia viešosios geležinkelių infrastruktūros valdytojas. Želdinius, kurie auga privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos zonose, saugo ir tvarko privažiuojamųjų geležinkelio kelių savininkas arba naudotojas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
  
-
-
 
 
 
@@ -971,7 +984,9 @@ VI SKYRIUS
 
 
 
-6. Želdinių apsauga vykdant valstybinės reikšmės kelių ir geležinkelio kelių tiesimo ir remonto, geležinkelių įrenginių statybos ir remonto darbus nustatoma Aplinkos ministerijos ir Susisiekimo ministerijos patvirtinta tvarka.
+6. Neteko galios 2017-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
  
 
 
@@ -1267,3 +1282,8 @@ Lietuvos Respublikos želdynų įstatymo 4, 6, 10, 16, 19 ir 25 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-461, 2013-07-02, Žin., 2013, Nr. 79-3982 (2013-07-23), i. k. 1131010ISTA0XII-461
 Lietuvos Respublikos želdynų įstatymo 10, 25 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 9, 13 ir 20 straipsnių pakeitimo įstatymas
