@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -83,17 +83,26 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Architektas – fizinis asmuo, baigęs universitetines menų studijų srities architektūros krypties studijas ir įgijęs architektūros krypties kvalifikacinį laipsnį arba lygiavertę aukštojo mokslo kvalifikaciją, atitinkančią Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo aštuntajame skirsnyje nustatytus architektų rengimo reikalavimus.
+1. Architektas – fizinis asmuo, atitinkantis Lietuvos Respublikos architektūros įstatyme nustatytą apibrėžtį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+ 
 
 
 
 
-2. Architekto veikla – veikla, kuriai vykdyti reikia architekto profesinės kvalifikacijos.
+2. Architekto veikla – Architektūros įstatyme nustatyta veikla. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+ 
 
 
 
 
-3. Architektūra – funkcinis erdvinis ir vizualiai suvokiamas meninis statinių, kraštovaizdžio ir teritorijų planavimo objektų formavimas. 
+3. Architektūra – sritis, kaip ji apibrėžta Architektūros įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+ 
 
 
 
@@ -303,7 +312,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-45. Projektiniai pasiūlymai – pasiūlymai, kurių tikslas – išreikšti projektuojamo statinio architektūros ir kitų pagrindinių sprendinių idėją ir kurie pateikiami kaip statinio projektuotojo parinkimo konkurso medžiaga ir (ar) informacija visuomenei apie numatomą statinių projektavimą bei gali būti naudojami rengiant specialiuosius architektūros reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius paveldosaugos reikalavimus.
+45. Projektiniai pasiūlymai – pasiūlymai, kurių tikslas – išreikšti projektuojamo statinio architektūros ir kitų pagrindinių sprendinių idėją ir kurie pateikiami kaip informacija visuomenei apie numatomą statinių projektavimą bei gali būti naudojami rengiant specialiuosius architektūros reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius paveldosaugos reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+ 
 
 
 
@@ -318,7 +330,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-48. Statinio architektas – architektas, kuris yra statinio, kaip architektūros kūrinio, autorius ir (ar) statinio projekto architektūrinės dalies vadovas. Statinio architektu gali būti ir fizinių asmenų grupė.
+48. Statinio architektas – architektas, kuris yra statinio, kaip architektūros kūrinio, autorius ir (ar) statinio projekto architektūrinės dalies vadovas. Statinio architektu gali būti ir fizinių asmenų grupė, sudaryta iš architektų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
+ 
 
 
 
