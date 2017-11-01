@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2015-07-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -631,7 +631,10 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 
 
-17) tvirtina valstybinį gyventojų apsaugos planą branduolinės avarijos atveju;
+17) tvirtina valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
+ 
 
 
 
@@ -1879,7 +1882,9 @@ Didelių pramoninių avarijų prevencijos, likvidavimo ir tyrimo tvarką nustato
 
 
 
-3. Įvykus branduolinei avarijai Ignalinos atominėje elektrinėje, gyventojai evakuojami pagal Vyriausybės patvirtintą valstybinį gyventojų apsaugos planą branduolinės avarijos atveju. Pagal šį planą Ignalinos rajono, Zarasų rajono ir Visagino savivaldybių tarybos tvirtina savivaldybių administracijų direktorių parengtus detaliuosius gyventojų evakavimo planus, šių savivaldybių administracijų direktoriai evakuojamų gyventojų apgyvendinimo klausimus derina su savivaldybių, į kurias evakuojami gyventojai, administracijų direktoriais, organizuojančiais evakuotų gyventojų apgyvendinimą. 
+3. Įvykus branduolinei ar radiologinei avarijai branduolinės energetikos objekte, esančiame Lietuvos Respublikoje ar kaimyninėje valstybėje, kai jo avarinės parengties zonos ir (ar) avarinio planavimo atstumai patenka į Lietuvos Respublikos teritoriją, Lietuvos Respublikos gyventojai evakuojami pagal Vyriausybės patvirtintą valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju. Pagal šį planą šiame plane nurodytų savivaldybių tarybos tvirtina savivaldybių administracijų direktorių parengtus detaliuosius gyventojų evakavimo planus, šių savivaldybių administracijų direktoriai evakuojamų gyventojų apgyvendinimo klausimus derina su savivaldybių, į kurias evakuojami gyventojai, administracijų direktoriais, organizuojančiais evakuotų gyventojų apgyvendinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
  
 
 
@@ -2145,3 +2150,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 5, 6, 12, 14, 15, 22 straipsnių ir priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 ir 30 straipsnių pakeitimo įstatymas
