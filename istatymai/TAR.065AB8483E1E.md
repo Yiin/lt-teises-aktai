@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-12-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -246,336 +246,465 @@ BENDROSIOS NUOSTATOS
 
 
 
-38. Palydovinė televizija – televizijos programų transliavimas ir (ar) retransliavimas per dirbtinį Žemės palydovą (palydovus).
-
-
-
-
-39. Palydovinis radijas – radijo programų transliavimas ir (ar) retransliavimas per dirbtinį Žemės palydovą (palydovus).
-
-
-
-
-40. Paslėpta reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie gamintoją ar paslaugos teikėją, jo pavadinimą ar veiklą, prekių ženklą, pateikiama taip, kad reklamos vartotojas gali nesuprasti, kad tai reklama, arba gali suklysti dėl pateiktos reklamos tikrojo tikslo. Toks informacijos pateikimas visais atvejais laikomas paslėpta reklama, kai už ją užmokama ar kitaip atsilyginama. 
-
-
-
-
-41. Paslėptas komercinis audiovizualinis pranešimas – bet kokia forma ir bet kokiomis priemonėmis reklamos tikslais skleidžiama informacija apie prekių gamintojo ir (ar) paslaugos teikėjo pavadinimą ir (ar) veiklą, prekes, paslaugas ar prekių ženklą, pateikiama taip, kad vartotojas gali nesuprasti, kad tai komercinis audiovizualinis pranešimas. Toks informacijos pateikimas yra laikomas paslėptu komerciniu audiovizualiniu pranešimu, ypač kai tai daroma už užmokestį ar kitokį atlygį. 
-
-
-
-
-42. Pornografinio pobūdžio informacija – informacija, kai atvirai ir detaliai rodomas tikras ar suvaidintas lytinis aktas, lytiniai organai, tuštinimasis, masturbacija arba lytiniai iškrypimai (pedofilija, sadizmas, mazochizmas, zoofilija, nekrofilija ir kt.), ir tai yra pagrindinis tokios informacijos tikslas.
-
-
-
-
-43. Prekių rodymas – komerciniu audiovizualiniu pranešimu už užmokestį ar kitokį atlygį programoje aiškiai pateikiama informacija apie prekę, paslaugą ar prekių ženklą ir (ar) nuorodas į juos.
-
-
-
-
-44. Privataus pobūdžio informacija – žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija apie žmogaus asmeninį ir jo šeimos gyvenimą, jo sveikatą ir kt. 
-
-
-
-
-45. Privatus gyvenimas – asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro fizinio asmens gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias fizinis asmuo naudoja savo ūkinei, komercinei ar profesinei veiklai, taip pat fizinio asmens psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, fizinio asmens fotonuotraukos ar kiti atvaizdai, informacija apie fizinio asmens sveikatą, privatus susirašinėjimas ar kitoks ryšio palaikymas, fizinio asmens pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
-
-
-
-
-46. Programa – savarankiškų savo turiniu ir struktūra garsų arba vaizdų, perteikiančių judesį, lydimą arba nelydimą garso, visuma, paprastai sudaranti atskirą nustatyto programų tvarkaraščio arba katalogo vienetą ir atitinkanti radijo ir (ar) televizijos programų formą ir turinį (vaidybinis filmas, sporto ar kitoks renginys, situacijų komedija, dokumentinis filmas, programa vaikams, originalus dramos kūrinys, anonsas, komercinis audiovizualinis pranešimas, pokalbių programa, žinių programa ir kt.).
-
-
-
-
-47. Programų tvarkaraštis – numatomų transliuoti radijo programų ar televizijos programų išankstinis planas, paprastai skelbiamas visuomenės informavimo priemonėse, nurodant programų pavadinimus ir jų transliavimo laiką.
-
-
-
-
-48. Radijo dažnis (kanalas) – radijo bangų dažnių juosta, būtina bent vienai radijo ar televizijos programai perduoti.
-
-
-
-
-49. Radijo programa – radijo transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma.
-
-
-
-
-50. Radijo programų transliavimas – visuomenės informavimo paslauga, kurią teikia radijo programų transliuotojas, skirta tuo pačiu metu klausyti programas pagal programų tvarkaraštį.
-
-
-
-
-51. Radijo programų transliuotojas – radijo programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už radijo programų turinio parinkimą ir jo išdėstymą radijo programų tvarkaraštyje ir kuris kuria, rengia radijo programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
-
-
-
-
-52. Radijo stotis – technikos kompleksas, kurį sudaro radijo siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo programoms transliuoti, retransliuoti ar siųsti.
-
-
-
-
-53. Redakcinė atsakomybė – viešosios informacijos rengėjui ir (ar) viešosios informacijos skleidėjui, išskyrus retransliuotoją, tenkanti atsakomybė už kontrolę, atliekamą rengiant viešąją informaciją visuomenei, ruošiant ją skleisti ir šią informaciją skleidžiant, taip pat atrenkant programas ir jas išdėstant chronologine tvarka programų tvarkaraštyje ir (ar) pateikiant programas kataloge. 
-
-
-
-
-54. Regioninis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos Lietuvos Respublikos apskrities teritorijoje.
-
-
-
-
-55. Regioninis programų transliuotojas – radijo ar televizijos programos transliuotojas, kurio antžeminiu televizijos, radijo tinklu transliuojama programa yra priimama teritorijoje, kurioje gyvena mažiau negu 60 procentų Lietuvos Respublikos gyventojų.
-
-
-
-
-56. Reklama – bet kokia forma ir bet kokiomis priemonėmis reklamos užsakovo interesais arba savireklamos tikslais skleidžiama informacija, išskyrus televizijos reklamą, apie asmens ūkinę, komercinę, finansinę ar profesinę veiklą, skatinanti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą. 
-
-
-
-
-57. Rėmimas – bet kokia pagalba, kurią asmuo, nedalyvaujantis transliuojant radijo programą ir (ar) teikiant visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, ir (ar) kuriant audiovizualinius ar garso kūrinius, teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugoms ir (ar) programoms finansuoti, siekdamas skleisti informaciją apie savo pavadinimą, prekių ženklą, įvaizdį, veiklą arba prekes ar paslaugas.
-
-
-
-
-58. Retransliavimas – transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, šiuo tikslu jas priimant ir tuo pačiu metu nepakeistas perduodant visuomenei elektroninių ryšių tinklais arba techninėmis ir (ar) programinėmis priemonėmis sudarant visuomenei galimybę priimti elektroninių ryšių tinklais perduodamas sąlygine prieiga apsaugotas radijo ir (ar) televizijos programas ar atskiras programas. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+38. Pagrindinis televizijos programų paketas – televizijos programų paketas, teikiamas visiems vartotojams už nustatytą mokestį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-59. Retransliuojamo turinio licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimu ir teikimu skleisti visuomenei radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nustatytoje teritorijoje ir kuriame nustatomos tokios veiklos sąlygos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+39. Palydovinė televizija – televizijos programų transliavimas ir (ar) retransliavimas per dirbtinį Žemės palydovą (palydovus).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-60. Retransliuotojas – asmuo, kuris retransliuoja visuomenei nepakeistas transliuojamas radijo ir (ar) televizijos programas arba atskiras programas. 
+40. Palydovinis radijas – radijo programų transliavimas ir (ar) retransliavimas per dirbtinį Žemės palydovą (palydovus).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-61. Siuntimas – su radijo ir (ar) televizijos programų transliavimu ir (ar) retransliavimu susijusi elektroninių ryšių veiklos sritis, apimanti radijo ir (ar) televizijos programos elektromagnetinių signalų perdavimą elektroninių ryšių tinklais į galinius įrenginius.
+41. Paslėpta reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie gamintoją ar paslaugos teikėją, jo pavadinimą ar veiklą, prekių ženklą, pateikiama taip, kad reklamos vartotojas gali nesuprasti, kad tai reklama, arba gali suklysti dėl pateiktos reklamos tikrojo tikslo. Toks informacijos pateikimas visais atvejais laikomas paslėpta reklama, kai už ją užmokama ar kitaip atsilyginama. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-62. Siuntimo stotis – technikos kompleksas, kurį sudaro radijo ir (ar) televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo ir (ar) televizijos programoms transliuoti, retransliuoti ar siųsti.
+42. Paslėptas komercinis audiovizualinis pranešimas – bet kokia forma ir bet kokiomis priemonėmis reklamos tikslais skleidžiama informacija apie prekių gamintojo ir (ar) paslaugos teikėjo pavadinimą ir (ar) veiklą, prekes, paslaugas ar prekių ženklą, pateikiama taip, kad vartotojas gali nesuprasti, kad tai komercinis audiovizualinis pranešimas. Toks informacijos pateikimas yra laikomas paslėptu komerciniu audiovizualiniu pranešimu, ypač kai tai daroma už užmokestį ar kitokį atlygį. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-63. Smurtinio pobūdžio informacija – informacija, kai detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks prieš žmogų, bet kokią kitą gyvą būtybę nukreiptas elgesys, sukeliantis skausmą, diskomfortą arba darantis kitokią žalą (fizinę, psichologinę, materialinę), taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgavimasis tuo. 
+43. Pornografinio pobūdžio informacija – informacija, kai atvirai ir detaliai rodomas tikras ar suvaidintas lytinis aktas, lytiniai organai, tuštinimasis, masturbacija arba lytiniai iškrypimai (pedofilija, sadizmas, mazochizmas, zoofilija, nekrofilija ir kt.), ir tai yra pagrindinis tokios informacijos tikslas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-64. Teleparduotuvė – televizijos programų transliuotojo už užmokestį visuomenei transliuojami tiesioginiai siūlymai pirkti prekių ar naudotis paslaugomis, tarp jų ir siūlymai įsigyti nekilnojamojo turto, turtinių teisių ir įsipareigojimų.
+44. Prekių rodymas – komerciniu audiovizualiniu pranešimu už užmokestį ar kitokį atlygį programoje aiškiai pateikiama informacija apie prekę, paslaugą ar prekių ženklą ir (ar) nuorodas į juos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-65. Televitrina – teleparduotuvės intarpams skirta programa, transliuojama televizijos programose, kurios nėra skirtos tik teleparduotuvei.
+45. Privataus pobūdžio informacija – žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija apie žmogaus asmeninį ir jo šeimos gyvenimą, jo sveikatą ir kt. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-66. Televizijos programa – televizijos programų transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma.
+46. Privatus gyvenimas – asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro fizinio asmens gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias fizinis asmuo naudoja savo ūkinei, komercinei ar profesinei veiklai, taip pat fizinio asmens psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, fizinio asmens fotonuotraukos ar kiti atvaizdai, informacija apie fizinio asmens sveikatą, privatus susirašinėjimas ar kitoks ryšio palaikymas, fizinio asmens pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-67. Televizijos programų ir (ar) atskirų programų platinimo internete paslauga – transliuojamų televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, jas priimant ir tuo pačiu metu nepakeistas skleidžiant visuomenei internete, įskaitant apsaugotų televizijos programų ar atskirų programų skleidimą visuomenei internete naudojant sąlyginę prieigą. 
+47. Programa – savarankiškų savo turiniu ir struktūra garsų arba vaizdų, perteikiančių judesį, lydimą arba nelydimą garso, visuma, paprastai sudaranti atskirą nustatyto programų tvarkaraščio arba katalogo vienetą ir atitinkanti radijo ir (ar) televizijos programų formą ir turinį (vaidybinis filmas, sporto ar kitoks renginys, situacijų komedija, dokumentinis filmas, programa vaikams, originalus dramos kūrinys, anonsas, komercinis audiovizualinis pranešimas, pokalbių programa, žinių programa ir kt.).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+48. Programų tvarkaraštis – numatomų transliuoti radijo programų ar televizijos programų išankstinis planas, paprastai skelbiamas visuomenės informavimo priemonėse, nurodant programų pavadinimus ir jų transliavimo laiką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+49. Radijo dažnis (kanalas) – radijo bangų dažnių juosta, būtina bent vienai radijo ar televizijos programai perduoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+50. Radijo programa – radijo transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+51. Radijo programų transliavimas – visuomenės informavimo paslauga, kurią teikia radijo programų transliuotojas, skirta tuo pačiu metu klausyti programas pagal programų tvarkaraštį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+52. Radijo programų transliuotojas – radijo programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už radijo programų turinio parinkimą ir jo išdėstymą radijo programų tvarkaraštyje ir kuris kuria, rengia radijo programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+53. Radijo stotis – technikos kompleksas, kurį sudaro radijo siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo programoms transliuoti, retransliuoti ar siųsti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+54. Redakcinė atsakomybė – viešosios informacijos rengėjui ir (ar) viešosios informacijos skleidėjui, išskyrus retransliuotoją, tenkanti atsakomybė už kontrolę, atliekamą rengiant viešąją informaciją visuomenei, ruošiant ją skleisti ir šią informaciją skleidžiant, taip pat atrenkant programas ir jas išdėstant chronologine tvarka programų tvarkaraštyje ir (ar) pateikiant programas kataloge. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+55. Regioninis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos Lietuvos Respublikos apskrities teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+56. Regioninis programų transliuotojas – radijo ar televizijos programos transliuotojas, kurio antžeminiu televizijos, radijo tinklu transliuojama programa yra priimama teritorijoje, kurioje gyvena mažiau negu 60 procentų Lietuvos Respublikos gyventojų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+57. Reklama – bet kokia forma ir bet kokiomis priemonėmis reklamos užsakovo interesais arba savireklamos tikslais skleidžiama informacija, išskyrus televizijos reklamą, apie asmens ūkinę, komercinę, finansinę ar profesinę veiklą, skatinanti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+58. Rėmimas – bet kokia pagalba, kurią asmuo, nedalyvaujantis transliuojant radijo programą ir (ar) teikiant visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, ir (ar) kuriant audiovizualinius ar garso kūrinius, teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugoms ir (ar) programoms finansuoti, siekdamas skleisti informaciją apie savo pavadinimą, prekių ženklą, įvaizdį, veiklą arba prekes ar paslaugas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+59. Retransliavimas – transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, šiuo tikslu jas priimant ir tuo pačiu metu nepakeistas perduodant visuomenei elektroninių ryšių tinklais arba techninėmis ir (ar) programinėmis priemonėmis sudarant visuomenei galimybę priimti elektroninių ryšių tinklais perduodamas sąlygine prieiga apsaugotas radijo ir (ar) televizijos programas ar atskiras programas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+60. Retransliuojamo turinio licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimu ir teikimu skleisti visuomenei radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nustatytoje teritorijoje ir kuriame nustatomos tokios veiklos sąlygos. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+61. Retransliuotojas – asmuo, kuris retransliuoja visuomenei nepakeistas transliuojamas radijo ir (ar) televizijos programas arba atskiras programas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+62. Siuntimas – su radijo ir (ar) televizijos programų transliavimu ir (ar) retransliavimu susijusi elektroninių ryšių veiklos sritis, apimanti radijo ir (ar) televizijos programos elektromagnetinių signalų perdavimą elektroninių ryšių tinklais į galinius įrenginius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+63. Siuntimo stotis – technikos kompleksas, kurį sudaro radijo ir (ar) televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo ir (ar) televizijos programoms transliuoti, retransliuoti ar siųsti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+64. Smurtinio pobūdžio informacija – informacija, kai detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks prieš žmogų, bet kokią kitą gyvą būtybę nukreiptas elgesys, sukeliantis skausmą, diskomfortą arba darantis kitokią žalą (fizinę, psichologinę, materialinę), taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgavimasis tuo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+65. Už papildomą mokestį platinamas televizijos programų paketas – televizijos programų paketas, teikiamas vartotojams už mokestį, neįtrauktą į mokestį už pagrindinį televizijos programų paketą. Už papildomą mokestį platinamą televizijos programų paketą gali sudaryti ir viena atskira televizijos programa. 
+Papildyta straipsnio dalimi:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+66. Teleparduotuvė – televizijos programų transliuotojo už užmokestį visuomenei transliuojami tiesioginiai siūlymai pirkti prekių ar naudotis paslaugomis, tarp jų ir siūlymai įsigyti nekilnojamojo turto, turtinių teisių ir įsipareigojimų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+67. Televitrina – teleparduotuvės intarpams skirta programa, transliuojama televizijos programose, kurios nėra skirtos tik teleparduotuvei.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+68. Televizijos programa – televizijos programų transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+69. Televizijos programų ir (ar) atskirų programų platinimo internete paslauga – transliuojamų televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, jas priimant ir tuo pačiu metu nepakeistas skleidžiant visuomenei internete, įskaitant apsaugotų televizijos programų ar atskirų programų skleidimą visuomenei internete naudojant sąlyginę prieigą. 
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-68. Televizijos programų paketas – televizijos programų retransliuotojo ir (ar) kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, sudaromas ir vartotojams siūlomas televizijos programų rinkinys. 
+70. Televizijos programų paketas – televizijos programų retransliuotojo ir (ar) kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, sudaromas ir vartotojams siūlomas televizijos programų rinkinys. 
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-69. Televizijos programų transliavimas – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti pagal programų tvarkaraštį jų transliavimo metu.
+71. Televizijos programų transliavimas – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti pagal programų tvarkaraštį jų transliavimo metu.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-70. Televizijos programų transliuotojas – televizijos programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir jo išdėstymą televizijos programų tvarkaraštyje ir kuris kuria, rengia televizijos programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
+72. Televizijos programų transliuotojas – televizijos programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir jo išdėstymą televizijos programų tvarkaraštyje ir kuris kuria, rengia televizijos programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-71. Televizijos reklama – už užmokestį ar kitokį atlygį bet kokia forma visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo skelbiama informacija, kurią vykdantis ūkinę, komercinę ar profesinę veiklą asmuo užsako skleisti ar skleidžia savireklamos tikslais ar siekdamas reklamuoti prekes ar paslaugas, įskaitant nekilnojamąjį turtą, teises ir pareigas.
+73. Televizijos reklama – už užmokestį ar kitokį atlygį bet kokia forma visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo skelbiama informacija, kurią vykdantis ūkinę, komercinę ar profesinę veiklą asmuo užsako skleisti ar skleidžia savireklamos tikslais ar siekdamas reklamuoti prekes ar paslaugas, įskaitant nekilnojamąjį turtą, teises ir pareigas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-72. Televizijos stotis – technikos kompleksas, kurį sudaro televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas televizijos programoms transliuoti, retransliuoti ar siųsti.
+74. Televizijos stotis – technikos kompleksas, kurį sudaro televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas televizijos programoms transliuoti, retransliuoti ar siųsti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-73. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos. 
+75. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-74. Užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti vartotojo pasirinktu laiku ir jo individualiu prašymu pagal visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo siūlomą katalogą.
+76. Užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti vartotojo pasirinktu laiku ir jo individualiu prašymu pagal visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo siūlomą katalogą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-75. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
+77. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-76. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus šio straipsnio 42 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
+78. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus šio straipsnio 42 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-77. Viešosios informacijos rengėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
+79. Viešosios informacijos rengėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-78. Viešosios informacijos skleidėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą. 
+80. Viešosios informacijos skleidėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-79. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos miesto ar rajono savivaldybės teritorijoje.
+81. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos miesto ar rajono savivaldybės teritorijoje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-80. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
+82. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-81. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
+83. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-82. Visuomenės informavimo audiovizualinėmis priemonėmis paslauga – televizijos programų transliavimas, užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga, komercinių audiovizualinių pranešimų skelbimo paslauga, už kurių turinio parinkimą redakcinė atsakomybė tenka visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjui, vykdančiam ūkinę komercinę veiklą informavimo, pramogų ar švietimo tikslais, elektroninių ryšių tinklais transliuojančiam (perduodančiam) visuomenei programas.
+84. Visuomenės informavimo audiovizualinėmis priemonėmis paslauga – televizijos programų transliavimas, užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga, komercinių audiovizualinių pranešimų skelbimo paslauga, už kurių turinio parinkimą redakcinė atsakomybė tenka visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjui, vykdančiam ūkinę komercinę veiklą informavimo, pramogų ar švietimo tikslais, elektroninių ryšių tinklais transliuojančiam (perduodančiam) visuomenei programas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-83. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas – asmuo, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir kuris sprendžia, kokia tvarka pateikiamas paslaugos turinys.
+85. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas – asmuo, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir kuris sprendžia, kokia tvarka pateikiamas paslaugos turinys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-84. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
+86. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-85. Žalingas įprotis – piktnaudžiavimas alkoholiu, narkotinių, toksinių, psichotropinių ir kitų psichologinę priklausomybę sukeliančių medžiagų vartojimas, taip pat psichologinė priklausomybė nuo azartinių lošimų.
+87. Žalingas įprotis – piktnaudžiavimas alkoholiu, narkotinių, toksinių, psichotropinių ir kitų psichologinę priklausomybę sukeliančių medžiagų vartojimas, taip pat psichologinė priklausomybė nuo azartinių lošimų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-86. Žinia – visuomenės informavimo priemonėse skelbiamas faktas arba tikri (teisingi) duomenys.
+88. Žinia – visuomenės informavimo priemonėse skelbiamas faktas arba tikri (teisingi) duomenys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-87. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
+89. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-88. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
+90. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
 
 
-89. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
+91. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
@@ -2109,14 +2238,27 @@ viešosios informacijos rengimo ir platinimo Reikalavimai
 
 
 
-4. Retransliuotojai, retransliuodami televizijos programas, pirmenybę turi teikti oficialioms Europos Sąjungos kalboms, todėl esant galimybei pasirinkti, kuria kalba retransliuoti tokią pačią televizijos programą – oficialia Europos Sąjungos ar kita kalba, privalo sudaryti visas sąlygas, kad televizijos programa ar atskira programa būtų retransliuojama oficialia Europos Sąjungos kalba.
+4. Retransliuotojai, retransliuodami televizijos programas, ir (ar) kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, pirmenybę turi teikti oficialioms Europos Sąjungos kalboms. Televizijos programos oficialiomis Europos Sąjungos kalbomis, taip pat programos neoficialiomis Europos Sąjungos kalbomis, sukurtos kitoje valstybėje narėje, turi sudaryti ne mažiau kaip 90 procentų programų kiekio teikiant Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas ir (ar) ne mažiau kaip 90 procentų retransliuojamų televizijos programų kiekio kiekviename jų vartotojams siūlomame pagrindiniame televizijos programų pakete. Šis reikalavimas netaikomas už papildomą mokestį platinamiems televizijos programų paketams. Esant galimybei pasirinkti, kuria kalba retransliuoti ir (ar) platinti internete tokią pačią televizijos programą – oficialia Europos Sąjungos ar kita kalba, retransliuotojai ir (ar) asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, privalo sudaryti visas sąlygas, kad televizijos programa ar atskira programa būtų retransliuojama ir (ar) platinama internete oficialia Europos Sąjungos kalba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
 
 
 
 
-5. Jeigu televizijos programa transliuojama, retransliuojama ir (ar) platinama internete keliomis kalbomis, įskaitant ir oficialias Europos Sąjungos kalbas, tokia programa prilyginama programai, perduodamai ir (ar) skleidžiamai oficialia Europos Sąjungos kalba, tik tokiu atveju, kai esant techninėms galimybėms tokia programa vartotojams siunčiama ir (ar) skleidžiama su pirminiu nustatymu oficialia Europos Sąjungos kalba, o papildomų kalbų parinkimas yra galimas tik vartotojo valios veiksmu.
+5. Neoficialia Europos Sąjungos kalba retransliuojama ir (ar) platinama internete televizijos programa, kuri verčiama į oficialią Europos Sąjungos kalbą arba rodoma su oficialios Europos Sąjungos kalbos subtitrais, prilyginama programai, retransliuojamai ir (ar) platinamai internete oficialia Europos Sąjungos kalba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+ 
+
+
+
+
+6. Jeigu televizijos programa transliuojama, retransliuojama ir (ar) platinama internete keliomis kalbomis, įskaitant ir oficialias Europos Sąjungos kalbas, tokia programa prilyginama programai, perduodamai ir (ar) skleidžiamai oficialia Europos Sąjungos kalba, tik tokiu atveju, kai esant techninėms galimybėms tokia programa vartotojams siunčiama ir (ar) skleidžiama su pirminiu nustatymu oficialia Europos Sąjungos kalba, o papildomų kalbų parinkimas yra galimas tik vartotojo valios veiksmu.
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
  
 
 
@@ -4532,3 +4674,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 28 ir 47 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47, 48 ir 50 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 34 straipsnių pakeitimo įstatymas
