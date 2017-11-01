@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-06-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -497,6 +497,90 @@ Nr. XI-606, 2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
 
 
 
+81 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
+
+
+1. Juridinių asmenų dalyvių informacinės sistemos, įsteigtos vadovaujantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, tvarkytojui teikiami šie duomenys apie viešosios įstaigos dalininkus: 
+
+
+1) kiekvieno dalininko duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė). Teikiant duomenis apie dalininką – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie dalininką – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+
+
+
+
+2) dalininko teisių įgijimo data;
+
+
+
+
+3) dalininko teisių perleidimo data;
+
+
+
+
+4) dalininko įnašo vertė. 
+
+
+TAR pastaba. Viešosios įstaigos, įsteigtos iki 2017 m. spalio 31 d., kurių dalininkai ar duomenys apie juos nesikeitė nuo 2017 m. spalio 31 d. iki 2018 m. gegužės 1 d.,  81 straipsnio 1 dalyje nurodytus duomenis apie savo dalininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui turi pateikti iki 2018 m. liepos 1 d.
+
+
+
+
+2. Jeigu dalininkas – fizinis asmuo viešajai įstaigai yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai. 
+
+
+
+
+3. Jeigu dalininkė yra valstybė ar savivaldybė, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiant duomenis apie šį dalininką nurodoma, kad dalininkė yra valstybė ar savivaldybė (kartu nurodomas valstybės ar savivaldybės kodas), ir pateikiami dalininko teises ir pareigas įgyvendinančios institucijos pavadinimas, teisinė forma, kodas, buveinė.
+
+
+
+
+4. Duomenys apie viešosios įstaigos dalininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami šios informacinės sistemos nuostatuose nustatyta tvarka. 
+
+
+
+
+5. Įregistravus viešąją įstaigą Juridinių asmenų registre, duomenys apie viešosios įstaigos dalininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami ne vėliau kaip per 5 dienas nuo momento, kai steigėjas perdavė viešajai įstaigai įnašą, vykdydamas steigimo sandoryje nurodytus turtinius įsipareigojimus, ir tapo dalininku, o pasikeitus viešosios įstaigos dalininkams ar jų skaičiui, taip pat šio straipsnio 1 ir 3 dalyse nurodytiems duomenims, – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos. 
+
+
+
+
+6. Už duomenų apie viešosios įstaigos dalininkus pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsakingas viešosios įstaigos vadovas.
+
+
+
+
+7. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji:
+
+
+1) teikiama viešosios įstaigos dalininkams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
+
+
+
+
+2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
+
+
+
+
+3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti.
+
+
+
+
+
+
+8. Atlyginimo už Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengtos informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos administravimo išlaidų kartu su pagrįsta investicijų grąža.
+
+
+Papildyta straipsniu:
+Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
+ 
+
+
+
+
 9 straipsnis. Viešosios įstaigos organai
 
 
@@ -515,7 +599,10 @@ Nr. XI-606, 2009-12-22, Žin., 2010, Nr. 1-17 (2010-01-05)
 
 
 
-4. Viešosios įstaigos vadovas organizuoja viešosios įstaigos veiklą ir veikia viešosios įstaigos vardu santykiuose su kitais asmenimis, sudaro ir nutraukia darbo sutartis su viešosios įstaigos darbuotojais. Viešosios įstaigos vadovas atsako už finansinių ataskaitų rinkinių sudarymą, visuotinio dalininkų susirinkimo sušaukimą, duomenų ir dokumentų pateikimą juridinių asmenų registrui, pranešimą dalininkams apie įvykius, turinčius esminės reikšmės viešosios įstaigos veiklai, viešosios įstaigos dalininkų apskaitą, informacijos apie viešosios įstaigos veiklą pateikimą visuomenei, veiklos ataskaitos parengimą, viešų pranešimų paskelbimą, kitus veiksmus, kurie yra vadovui numatyti teisės aktuose ir viešosios įstaigos įstatuose. Viešosios įstaigos vadovas pradeda eiti pareigas nuo jo paskyrimo dienos, jeigu jį paskyrusio visuotinio dalininkų susirinkimo sprendime nenustatyta kitaip, o kai viešoji įstaiga steigiama, – nuo viešosios įstaigos įregistravimo dienos.
+4. Viešosios įstaigos vadovas organizuoja viešosios įstaigos veiklą ir veikia viešosios įstaigos vardu santykiuose su kitais asmenimis, sudaro ir nutraukia darbo sutartis su viešosios įstaigos darbuotojais. Viešosios įstaigos vadovas atsako už finansinių ataskaitų rinkinių sudarymą, visuotinio dalininkų susirinkimo sušaukimą, duomenų ir dokumentų pateikimą juridinių asmenų registrui, pranešimą dalininkams apie įvykius, turinčius esminės reikšmės viešosios įstaigos veiklai, viešosios įstaigos dalininkų apskaitą, informacijos apie viešosios įstaigos veiklą pateikimą visuomenei, veiklos ataskaitos parengimą, viešų pranešimų paskelbimą, kitus veiksmus, kurie yra vadovui numatyti šiame Įstatyme, kituose teisės aktuose ir viešosios įstaigos įstatuose. Viešosios įstaigos vadovas pradeda eiti pareigas nuo jo paskyrimo dienos, jeigu jį paskyrusio visuotinio dalininkų susirinkimo sprendime nenustatyta kitaip, o kai viešoji įstaiga steigiama, – nuo viešosios įstaigos įregistravimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
+ 
 
 
 
@@ -1315,3 +1402,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 papildymo 8-1 straipsniu ir 9 straipsnio pakeitimo įstatymas
