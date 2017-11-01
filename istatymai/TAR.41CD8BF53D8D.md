@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2017-05-31 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -122,7 +122,9 @@ Nr. X-1277, 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 5 straipsnis. Valstybės rinkliavos dydžiai
 
 
-1. Valstybės rinkliava yra ne didesnė kaip 80 000 eurų ir apskaičiuojama atsižvelgiant į paslaugos suteikimo išlaidas, kurias sudaro išlaidos:
+1. Valstybės rinkliava yra ne mažesnė kaip vienas euras ir ne didesnė kaip 80 000 eurų ir apskaičiuojama atsižvelgiant į paslaugos suteikimo išlaidas, kurias sudaro išlaidos: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 
 1) darbui, susijusiam su paslaugos suteikimu, apmokėti;
@@ -135,7 +137,15 @@ Nr. X-1277, 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 
 
 
-3) teisės aktų nustatytų reikalavimų įvykdymui patikrinti.
+3) teisės aktų nustatytų reikalavimų įvykdymui patikrinti;
+
+
+
+
+4) institucijos teikiamą paslaugą reglamentuojančiame Europos Sąjungos reglamente nustatytos kitos išlaidos. 
+Papildyta straipsnio punktu:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
 
 
 
@@ -152,11 +162,14 @@ Nr. X-1277, 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 
 
 
-4. Valstybės rinkliava mokama eurais iki institucijų teikiamų paslaugų suteikimo ir yra mokėjimo dieną galiojančio dydžio.
+4. Neteko galios nuo 2017-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1277, 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
  
@@ -335,7 +348,15 @@ Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 
 
-28) išduotų Šengeno vizų galiojimo laiko ir (arba) buvimo trukmės pratęsimą asmenims, nurodytiems Reglamento (EB) Nr. 810/2009 33 straipsnio 1 dalyje. 
+28) išduotų Šengeno vizų galiojimo laiko ir (arba) buvimo trukmės pratęsimą asmenims, nurodytiems Reglamento (EB) Nr. 810/2009 33 straipsnio 1 dalyje;
+
+
+
+
+29) profesinės kvalifikacijos pripažinimą asmenims, kvalifikaciją įgijusiems kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje (Islandijos Respublikoje, Lichtenšteino Kunigaikštystėje, Norvegijos Karalystėje) arba Šveicarijos Konfederacijoje ir siekiantiems įsisteigti ar laikinai ir kartais teikti paslaugas Lietuvos Respublikoje pagal reglamentuojamą profesiją, remiantis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu.
+Papildyta straipsnio punktu:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
 
 
 Straipsnio pakeitimai:
@@ -416,19 +437,31 @@ Nr. XI-1462, 2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
 
 
 
-9 straipsnis. Valstybės rinkliavos mokėjimas
+9 straipsnis. Valstybės rinkliavos mokėjimo tvarka
 
 
-1. Valstybės rinkliavos mokėjimo tvarką nustato Vyriausybė. 
+1. Valstybės rinkliava yra mokėjimo dieną galiojančio dydžio ir mokama iki institucijų teikiamų paslaugų suteikimo momento, išskyrus šio straipsnio 2 ir 3 dalyse nurodytus atvejus.
 
 
 
 
-2. Neteko galios (2002-05-04).
+2. Kai įstatymuose, Europos Sąjungos reglamentuose ar sprendimuose, reglamentuojančiuose dokumento (leidimo, licencijos, liudijimo, teikimo, atestato, sprendimo, sertifikato, pažymėjimo ar panašiai), reikalingo tam tikrai ūkinei veiklai pradėti ar vykdyti, išdavimą, įrašymą ar įsirašymą į sąrašą, registrą ar valstybės informacinę sistemą, kuriuo įgyjama teisė pradėti ar vykdyti tam tikrą ūkinę veiklą, privalomą informacijos pateikimą prieš pradedant teisėtai vykdyti ūkinę veiklą, taip pat kitokį leidimo vykdyti ūkinę veiklą suteikimą (toliau – leidimas vykdyti ūkinę veiklą), nustatyta, kad leidimas vykdyti ūkinę veiklą laikomas išduotu asmeniui kitą dieną nuo pranešimo ar kito dokumento apie ketinimą vykdyti veiklą (toliau – pranešimas) pateikimo institucijai dienos arba nuo pranešime nurodytos dienos, jeigu ji yra vėlesnė negu pranešimo pateikimo institucijai diena, valstybės rinkliava turi būti sumokama iki pranešimo pateikimo momento.
+
+
+
+
+3. Kai pagal institucijų teikiamas paslaugas reglamentuojančius įstatymus, Europos Sąjungos reglamentus ar sprendimus valstybės rinkliavos dydis yra apskaičiuojamas tik suteikus paslaugą, valstybės rinkliava sumokama per 10 darbo dienų nuo institucijos pranešimo ar kito dokumento, kuriame nurodytas valstybės rinkliavos dydis, išsiuntimo asmeniui dienos. 
+
+
+
+
+4. Valstybės rinkliavos mokėjimo tvarką nustato Vyriausybė.
 
 
 Straipsnio pakeitimai:
 Nr.IX-847, 2002-04-18, Žin., 2002, Nr. 45-1705 (2002-05-04)
+Straipsnio pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
 
 
@@ -564,33 +597,40 @@ Nr. XII-304, 2013-05-14, Žin., 2013, Nr. 57-2848 (2013-06-01)
 
 
 
-12 straipsnis. Vietinių rinkliavų nustatymas
+12 straipsnis. Vietinių rinkliavų nustatymas 
 
 
-Savivaldybės taryba savo sprendimu:
+Savivaldybės taryba savo sprendimu tvirtina vietinės rinkliavos nuostatus, kuriuose nustato:
 
 
-1) nustato vietinę rinkliavą;
-
-
-
-
-2) tvirtina vietinės rinkliavos nuostatus;
+1) vietinės rinkliavos dydį;
 
 
 
 
-3) nustato lengvatas vietinių rinkliavų mokėtojams;
+2) vietinės rinkliavos mokėjimo tvarką;
 
 
 
 
-4) nustato vietinės rinkliavos grąžinimo atvejus.
+3) vietinės rinkliavos lengvatas;
+
+
+
+
+4) vietinės rinkliavos grąžinimo atvejus;
+
+
+
+
+5) delspinigių dydį, jų apskaičiavimo, mokėjimo tvarką ir atleidimo nuo delspinigių atvejus.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
-
-
-
-
 
 
 
@@ -598,7 +638,10 @@ Savivaldybės taryba savo sprendimu:
 13 straipsnis. Vietinių rinkliavų dydžiai 
 
 
-1. Vietinės rinkliavos dydis nustatomas vietinės rinkliavos nuostatuose. 
+1. Neteko galios nuo 2017-11-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
 
 
 
@@ -635,7 +678,9 @@ Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
 
 
 IV SKYRIUS
-RINKLIAVŲ RINKIMO KONTROLĖ IR ATSAKOMYBĖ
+RINKLIAVŲ RINKIMO KONTROLĖ IR RINKLIAVŲ MOKĖJIMO TVARKOS PAŽEIDIMO TEISINĖS PASEKMĖS 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
 
 
@@ -652,6 +697,13 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 
 2. Jeigu patikrinimo metu nustatyta, kad valstybės rinkliavos buvo paimta per mažai arba ji iš viso nebuvo paimta, tai trūkstama arba visa valstybės rinkliavos suma išieškoma į atitinkamą biudžetą iš institucijos, dėl kurios kaltės paimta per maža arba visai nepaimta valstybės rinkliava, Mokesčių administravimo įstatymo nustatyta tvarka. Institucijai žalą atlygina atsakingi valstybės tarnautojai įstatymų nustatyta tvarka.
+
+
+
+
+3. Institucijos, teikiančios paslaugas, už kurias valstybės rinkliava mokama šio įstatymo 9 straipsnio 3 dalyje nurodytu terminu, keičiasi su centriniu mokesčių administratoriumi informacija, būtina valstybės rinkliavai administruoti.
+Papildyta straipsnio dalimi:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
 
 
@@ -659,13 +711,40 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 
 
-15 straipsnis. Atsakomybė už rinkliavų rinkimo tvarkos pažeidimus
+15 straipsnis. Rinkliavų mokėjimo tvarkos pažeidimo teisinės pasekmės
 
 
-Asmenys, pažeidę šį įstatymą ar su juo susijusius kitus teisės aktus, atsako įstatymų nustatyta tvarka.
+1. Jeigu asmuo nesumoka valstybės rinkliavos šio įstatymo 9 straipsnio 1 dalyje nurodytu terminu arba vietinės rinkliavos iki šio įstatymo 11 straipsnio 1 dalyje nurodytų leidimų (toliau – leidimas) išdavimo momento, jei vietinės rinkliavos nuostatuose nustatyta, kad vietinė rinkliava už leidimo išdavimą turi būti sumokėta iki leidimo išdavimo, institucija atsisako suteikti paslaugą. 
+
+
+
+
+2. Jeigu asmuo nesumoka valstybės rinkliavos šio įstatymo 9 straipsnio 2 dalyje nurodytu terminu arba vietinės rinkliavos po leidimo išdavimo per vietinės rinkliavos nuostatuose nustatytą terminą, jei vietinės rinkliavos nuostatuose nustatyta, kad vietinė rinkliava už leidimo išdavimą mokama po leidimo išdavimo:
+
+
+1) teisės aktų, reglamentuojančių leidimo vykdyti ūkinę veiklą išdavimą, nustatyta tvarka leidimo vykdyti ūkinę veiklą, už kurios išdavimą imama valstybės rinkliava, galiojimas sustabdomas, kol bus sumokėta valstybės rinkliava;
+
+
+
+
+2) teisės aktų, reglamentuojančių leidimo išdavimą, nustatyta tvarka leidimo, už kurio išdavimą imama vietinė rinkliava, galiojimas stabdomas, kol bus sumokėta vietinė rinkliava, išskyrus atvejus, kai leidimo galiojimo sustabdymas nėra taikomas; šiuo atveju vietinės rinkliavos nesumokėjus per institucijos nurodytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos nuo įspėjimo apie galimą leidimo galiojimo panaikinimą gavimo dienos, leidimo galiojimas panaikinamas.
+
+
+
+
+
+
+3. Jeigu asmuo nesumoka valstybės rinkliavos šio įstatymo 9 straipsnio 3 dalyje nurodytu terminu, jam Mokesčių administravimo įstatymo nustatyta tvarka skaičiuojami delspinigiai, kurie administruojami pagal Mokesčių administravimo įstatymą tokia pačia tvarka, kokia taikoma skaičiuojant nedeklaruojamo mokesčio delspinigius. Nesumokėta valstybės rinkliava ir delspinigiai išieškomi Mokesčių administravimo įstatymo nustatyta tvarka.
+
+
+
+
+4. Už nesumokėtą arba pavėluotai sumokėtą vietinę rinkliavą, išskyrus atvejus, kai už vietinės rinkliavos mokėjimo tvarkos pažeidimus taikomos šios straipsnio 1 ir 2 dalyse nurodytos teisinės pasekmės, savivaldybės taryba turi teisę nustatyti delspinigius. Delspinigių dydis neturi viršyti Lietuvos Respublikos finansų ministro pagal Mokesčių administravimo įstatymą nustatyto delspinigių dydžio.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
-
-
 
 
 
