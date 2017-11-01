@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -3597,6 +3597,14 @@ Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 
 
 
+10. Žvalgybos pareigūno, kuris žuvo (mirė) užsienyje dėl tarnybos žvalgybos institucijoje, taip pat užsienyje žuvusių (mirusių) kartu su žvalgybos pareigūnu užsienyje gyvenusių asmenų: sutuoktinio, nepilnamečių vaikų (įvaikių), kurie nėra emancipuoti ar sudarę santuokos, pilnamečių vaikų (įvaikių) iki 20 metų, kurie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečių vaikų (įvaikių), kurių gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir kurie nėra emancipuoti ar sudarę santuokos, pilnamečių vaikų (įvaikių) iki 20 metų, kurių gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir kurie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, išlaikytinių, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis, palaikų parvežimo į Lietuvos Respubliką išlaidos apmokamos valstybės lėšomis Vyriausybės nustatytomis sąlygomis ir tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-675, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16705
+ 
+
+
+
+
 
 
 70 straipsnis. Kitos žvalgybos pareigūnų garantijos
@@ -3789,3 +3797,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 52 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 ir 70 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-675, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16705
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas
