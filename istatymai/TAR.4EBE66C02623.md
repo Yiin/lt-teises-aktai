@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-10-26 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-11-28
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -4734,31 +4734,33 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-172 straipsnis. Prekybos naftos produktais licencijose nustatytos tvarkos pažeidimas
+172 straipsnis. Prekybos naftos produktais reguliuojamos veiklos sąlygų pažeidimas
 
 
-1. Naftos produktų pardavimas nesilaikant licencijuojamos veiklos sąlygų mažmeninėje prekyboje
+1. Naftos produktų pardavimas arba įsigijimas nesilaikant reguliuojamos veiklos sąlygų mažmeninėje prekyboje
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
 
 
-2. Naftos produktų pardavimas neturint licencijos
+2. Naftos produktų pardavimas neturint licencijos 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-3. Naftos produktų pardavimas nesilaikant licencijuojamos veiklos sąlygų didmeninėje prekyboje 
+3. Naftos produktų pardavimas arba įsigijimas nesilaikant reguliuojamos veiklos sąlygų didmeninėje prekyboje
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-4. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus privaloma skirti naftos produktų konfiskavimą. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti iš naftos produktų pardavimo neturint licencijos gautų pajamų konfiskavimą.
+4. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus privaloma skirti naftos produktų konfiskavimą. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti iš naftos produktų pardavimo neturint licencijos gautų pajamų konfiskavimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-567, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12066
  
-
-
 
 
 
@@ -9967,20 +9969,22 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų
 
 
 
-321 straipsnis. Patekimas be leidimo į branduolinės energetikos objekto teritoriją
+321 straipsnis. Patekimas į branduolinės energetikos objekto aikštelę neturint tam teisės
 
 
-1. Patekimas be leidimo į branduolinės energetikos objekto teritoriją 
+1. Patekimas ar bandymas patekti į branduolinės energetikos objekto aikštelę neturint tam teisės
 užtraukia baudą nuo trisdešimt iki septyniasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo penkiasdešimt iki dviejų šimtų penkiasdešimt eurų.
+užtraukia baudą nuo penkiasdešimt iki dviejų šimtų penkiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-289, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07278
  
-
-
 
 
 
