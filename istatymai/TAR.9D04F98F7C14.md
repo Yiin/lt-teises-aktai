@@ -20,19 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-07-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 79-0; Žin. 1992, Nr.14-378, i. k. 0921010ISTA00I-2455
  
-Nauja įstatymo redakcija nuo 2015-01-01:
-Nr. XII-1054, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10479
+Nauja redakcija nuo 2017-11-01:
+Nr. XIII-498, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10841
  
-LIETUVOS RESPUBLIKOS VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS  ATNAUJINTI (MODERNIZUOTI)  ĮSTATYMAS
-Keistas įstatymo pavadinimas:
-Nr. IX-1188, 2002-11-12, Žin., 2002, Nr. 116-5188 (2002-12-06)
-Nr. X-143, 2005-03-24, Žin., 2005, Nr. 47-1554 (2005-04-12)
-Nr. XI-355, 2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)
-Nr. XII-1054, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10479
+LIETUVOS RESPUBLIKOS VALSTYBĖS PARAMOS DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMAS
  
  
 
@@ -42,15 +37,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis ir taikymas
+1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato valstybės paramos teikimo daugiabučio namo butų ir kitų patalpų savininkams, savivaldybėms, savivaldybių programų įgyvendinimo administratoriams ir bendrojo naudojimo objektų valdytojams daugiabučiams namams atnaujinti (modernizuoti) sąlygas ir tvarką.
-
-
-
-
-2. Šis įstatymas taikomas daugiabučių namų atnaujinimo (modernizavimo) projektams (išskyrus iki šio įstatymo įsigaliojimo įgyvendintus projektus), parengtiems ir įgyvendinamiems nuo 2009 m. rugsėjo 20 d. pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos ar ją atitinkančių savivaldybių tarybų patvirtintų programų įgyvendinimo ir finansavimo modelį, sukurtą pagal Europos Komisijos, Europos investicijų banko ir Europos plėtros banko tarybos iniciatyvą JESSICA.
+Šis įstatymas nustato valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo sąlygas, būdus ir tvarką, lengvatinių kreditų daugiabučiams namams atnaujinti (modernizuoti) teikimą.
  
 
 
@@ -61,22 +51,32 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Daugiabučio namo atnaujinimas (modernizavimas) – statybos darbai, kuriais atkuriamos ar pagerinamos pastato ir (ar) jo inžinerinių sistemų fizinės ir energinės savybės ir (ar) kuriais užtikrinamas iš atsinaujinančių energijos šaltinių gaunamos energijos naudojimas.
+1. Daugiabučio namo atnaujinimas (modernizavimas) (toliau – atnaujinimas) – statybos darbai, kuriais atkuriamos ar pagerinamos daugiabučio namo ir (ar) jo inžinerinių sistemų fizinės ir energinės savybės ir (ar) kuriais užtikrinamas iš atsinaujinančių energijos šaltinių gaunamos energijos naudojimas.
 
 
 
 
-2. Bendrojo naudojimo objektų valdytojas – daugiabučio namo butų ir kitų patalpų savininkų bendrija, jungtinės veiklos sutartimi įgaliotas asmuo arba pagal Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.84 straipsnį paskirtas bendrojo naudojimo objektų administratorius.
+2. Daugiabučio namo atnaujinimo (modernizavimo) investicijų planas (toliau – investicijų planas) – daugiabučio namo atnaujinimo projekto dalis, kurioje pagal namo energinio naudingumo sertifikato ir namo fizinės būklės tyrimo ir vertinimo duomenis ir reikalavimus pagrindžiamos namo atnaujinimo priemonės, nustatant jų energinį ir ekonominį efektyvumą, investicijų dydį ir jų paskirstymą butų ir kitų patalpų savininkams, taip pat nustatomos pagrindinės techninės užduoties sąlygos kitoms atnaujinimo projekto dalims parengti.
 
 
 
 
-3. Savivaldybės programos įgyvendinimo administratorius – savivaldybės paskirtas asmuo (savivaldybės įsteigta pelno nesiekianti įstaiga arba kita jos kontroliuojama įmonė), kuriam butų ir kitų patalpų savininkų sprendimu gali būti pavedama organizuoti daugiabučio namo atnaujinimo (modernizavimo) projekto (toliau – atnaujinimo (modernizavimo) projektas) įgyvendinimą ir (ar) finansavimą.
+3. Daugiabučio namo atnaujinimo (modernizavimo) projekto administratorius (toliau – projekto administratorius) – bendrojo naudojimo objektų valdytojas arba butų ir kitų patalpų savininkų sprendimu pagal pavedimo sutartį veikiantis asmuo, teikiantis atnaujinimo projekto įgyvendinimo administravimo paslaugas, ar savivaldybės programos įgyvendinimo administratorius.
 
 
 
 
-4. Sąvoka „nepasiturintys gyventojai“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme (toliau – Piniginės socialinės paramos nepasiturintiems gyventojams įstatymas).
+4. Daugiabučio namo bendrojo naudojimo objektų valdytojas (toliau – bendrojo naudojimo objektų valdytojas) – daugiabučio namo butų ir kitų patalpų savininkų bendrija, jungtinės veiklos sutartimi įgaliotas asmuo arba pagal Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.84 straipsnį paskirtas daugiabučio namo bendrojo naudojimo objektų administratorius.
+
+
+
+
+5. Savivaldybės programos įgyvendinimo administratorius – savivaldybės paskirta jos įsteigta pelno nesiekianti įstaiga arba kita kontroliuojama įmonė, kuriai butų ir kitų patalpų savininkų sprendimu gali būti pavedama organizuoti atnaujinimo projekto įgyvendinimo administravimą.
+
+
+
+
+6. Kitos šiame įstatyme vartojamas sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas), Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme (toliau – Piniginės socialinės paramos nepasiturintiems gyventojams įstatymas), Lietuvos Respublikos konkurencijos įstatyme ir kituose įstatymuose.
  
 
 
@@ -87,79 +87,59 @@ BENDROSIOS NUOSTATOS
 
 
 ANTRASIS SKIRSNIS
-VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
+VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI
  
 
 
-3 straipsnis. Valstybės paramos teikimo sąlygos ir būdai, lėšų kaupimas daugiabučiams namams atnaujinti (modernizuoti)
+3 straipsnis. Valstybės paramos daugiabučiams namams atnaujinti teikimo sąlygos ir būdai
 
 
-1. Valstybės parama daugiabučio namo butų ir kitų patalpų savininkams, įgyvendinantiems atnaujinimo (modernizavimo) projektus pagal Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas, teikiama, jeigu pagal atnaujinimo (modernizavimo) projekte numatytas priemones pasiekiama ne mažesnė kaip D pastato energinio naudingumo klasė, kuri nustatoma pagal Lietuvos Respublikos statybos įstatymą (toliau – Statybos įstatymas) įgyvendinančius statybos techninius reglamentus, ir skaičiuojamosios šiluminės energijos sąnaudos įgyvendinus atnaujinimo (modernizavimo) projektą sumažinamos ne mažiau kaip 20 procentų, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo (modernizavimo) projekto įgyvendinimo. Valstybės parama teikiama šiais būdais:
+1. Valstybės parama daugiabučio namo butų ir kitų patalpų savininkams, įgyvendinantiems atnaujinimo projektus pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas, teikiama, jeigu pagal atnaujinimo projekte numatytas priemones pasiekiama ne mažesnė kaip C pastato energinio naudingumo klasė, nustatoma pagal Statybos įstatymą įgyvendinančius statybos techninius reglamentus, ir skaičiuojamosios šiluminės energijos sąnaudos įgyvendinus atnaujinimo projektą sumažinamos ne mažiau kaip 40 procentų, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo projekto įgyvendinimo. Jeigu atnaujinamas daugiabutis, kuriam pagal Statybos įstatymą minimalūs privalomi pastatų energinio naudingumo reikalavimai nenustatomi, valstybės parama pagal šį įstatymą teikiama, jeigu skaičiuojamosios šiluminės energijos sąnaudos sumažinamos ne mažiau kaip 25 procentais, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo projekto įgyvendinimo. Valstybės parama teikiama šiais būdais:
 
 
-1) suteikiant lengvatinį kreditą atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir (ar) įgyvendinti (rangos darbams atlikti ir (ar) statybos techninei priežiūrai vykdyti) su Vyriausybės nustatyto dydžio, tačiau ne didesnėmis kaip 3 procentų, fiksuotomis metinėmis palūkanomis ir
-
-
-
-
-2) apmokant Vyriausybės nustatytą, tačiau ne mažesnę kaip 50 procentų, išlaidų dalį atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti, kai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parengtą daugiabučio namo atnaujinimo (modernizavimo) investicijų planą (toliau – investicijų planas) patvirtina butų ir kitų patalpų savininkai; apmokant Vyriausybės nustatytą, tačiau ne mažesnę kaip 50 procentų, išlaidų dalį statybos techninei priežiūrai vykdyti, taip pat apmokant ne didesnę kaip Vyriausybės nustatytą atnaujinimo (modernizavimo) projekto įgyvendinimo administravimo išlaidų dalį arba šias atnaujinimo (modernizavimo) projekto (ar jo dalies) parengimo, jo įgyvendinimo administravimo ir statybos techninės priežiūros išlaidas kompensuojant, jeigu jas butų ir kitų patalpų savininkai apmokėjo savo ar skolintomis lėšomis, ir
+1) suteikiant lengvatinį kreditą atnaujinimo projekto daliai (techniniam darbo projektui) parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, ir (ar) įgyvendinti (rangos darbams atlikti) ir penkerius metus nuo pirmosios kredito dalies išmokėjimo už atnaujinimo projekto dalies (techninio darbo projekto) parengimą ir (ar) atliktus rangos darbus dienos apmokant šio kredito bendrų metinių palūkanų dalį, viršijančią 3 procentus, tuo atveju, jeigu kredito metinės palūkanos viršija 3 procentus, ir
 
 
 
 
-3) kompensuojant 15 procentų investicijų, tenkančių Vyriausybės nustatytoms energinį efektyvumą didinančioms priemonėms, ir
+2) apmokant arba kompensuojant 100 procentu ne didesnę kaip Vyriausybės nustatyto dydžio išlaidų dalį atnaujinimo projektui ar jo daliai parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, kai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parengtą investicijų planą patvirtina butų ir kitų patalpų savininkai, ir
 
 
 
 
-4) apmokant nepasiturintiems gyventojams tenkančias atnaujinimo (modernizavimo) projekto parengimo, jo įgyvendinimo administravimo, statybos techninės priežiūros išlaidas, kredito draudimo įmoką, kiekvieno mėnesio kredito ir palūkanų įmokas, ir
+3) apmokant arba kompensuojant 100 procentu ne didesnes kaip Vyriausybės nustatyto dydžio atnaujinimo projekto įgyvendinimo administravimo ir statybos techninės priežiūros išlaidas, ir
 
 
 
 
-5) papildomai Klimato kaitos specialiosios programos lėšomis Vyriausybės nustatytais terminais kompensuojant Vyriausybės nustatytą, tačiau ne didesnę kaip 25 procentų, investicijų, tenkančių Vyriausybės nustatytoms energinį efektyvumą didinančioms priemonėms, dalį, jeigu įgyvendinus atnaujinimo (modernizavimo) projektą pasiekiama ne mažesnė kaip C pastato energinio naudingumo klasė ir skaičiuojamosios šiluminės energijos sąnaudos sumažinamos ne mažiau kaip 40 procentų, palyginti su skaičiuojamosiomis šiluminės energijos sąnaudomis iki atnaujinimo (modernizavimo) projekto įgyvendinimo, ir
+4) kompensuojant 30 procentų investicijų, tenkančių Vyriausybės nustatytoms energinio efektyvumo didinimo priemonėms, ir
 
 
 
 
-6) apmokant savivaldybėms tenkančias jų nuosavybės teise valdomų gyvenamųjų patalpų atnaujinimo (modernizavimo) projekto parengimo, jo įgyvendinimo administravimo, statybos techninės priežiūros išlaidas, kredito draudimo įmoką, kiekvieno mėnesio kredito ir palūkanų įmokas arba šias išlaidas ir įmokas kompensuojant, jeigu jas savo lėšomis apmokėjo savivaldybė ar savivaldybės programos įgyvendinimo administratorius.
+5) teikiant papildomą valstybės paramą, kai įgyvendinant atnaujinimo projektą daugiabučiame name įrengiamas atskiras ar modernizuojamas esamas neautomatizuotas šilumos punktas, įrengiami balansiniai ventiliai ant stovų ir (ar) pertvarkoma ar keičiama šildymo sistema, butuose ir kitose patalpose įrengiant individualios šilumos apskaitos prietaisus ar daliklių sistemą ir (ar) termostatinius ventilius, papildomai kompensuojant 10 procentų šių priemonių įgyvendinimo kainos;
+
+
+
+
+6) apmokant nepasiturintiems gyventojams tenkančias atnaujinimo projekto parengimo, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, jo įgyvendinimo administravimo, statybos techninės priežiūros išlaidas, kredito draudimo įmoką, kiekvieno mėnesio kredito ir palūkanų įmokas.
 
 
 
 
 
 
-2. Jeigu atnaujinimo (modernizavimo) projekto (ar jo dalies) parengimą pirkdama paslaugas teisės aktų nustatyta tvarka savo iniciatyva organizuoja savivaldybė ar savivaldybės programos įgyvendinimo administratorius arba bendrojo naudojimo objektų valdytojas, šio projekto (ar jo dalies) parengimo išlaidos šio straipsnio 1 dalies 2 punkte nurodytomis lėšomis apmokamos teisės aktų nustatyta tvarka atrinktam atnaujinimo (modernizavimo) projekto (ar jo dalies) rengėjui arba kompensuojamos savivaldybei ar savivaldybės programos įgyvendinimo administratoriui arba bendrojo naudojimo objektų valdytojui, jeigu atnaujinimo (modernizavimo) projekto (ar jo dalies) parengimo išlaidas šie asmenys apmokėjo savo lėšomis, kai investicijų planą patvirtina daugiabučio namo butų ir kitų patalpų savininkai.
+2. Jeigu atnaujinimo projekto ar jo dalies parengimą pirkdamas paslaugas teisės aktų nustatyta tvarka savo iniciatyva organizuoja projekto administratorius ar savivaldybė, šio atnaujinimo projekto ar jo dalies parengimo išlaidos, neviršijant šio straipsnio 1 dalies 2 punkte nurodytos paramos dydžio, apmokamos pirkimo metu projekto administratoriaus ar savivaldybės atrinktam atnaujinimo projekto ar jo dalies rengėjui arba kompensuojamos projekto administratoriui ar savivaldybei, jeigu atnaujinimo projekto ar jo dalies parengimo išlaidas jis (ji) apmokėjo savo lėšomis, kai investicijų planą patvirtina daugiabučio namo butų ir kitų patalpų savininkai.
 
 
 
 
-3. Daugiabučio namo butų ir kitų patalpų savininkų lėšos, skirtos daugiabučiam namui atnaujinti (modernizuoti), laikomos atskiroje kaupiamųjų lėšų sąskaitoje, turi būti atskirtos nuo bendrojo naudojimo objektų valdytojo lėšų ir į apskaitą įtraukiamos atskirai. Į kaupiamųjų lėšų sąskaitą draudžiama nukreipti išieškojimą pagal bendrojo naudojimo objektų valdytojo ar butų ir kitų patalpų savininkų prievoles. Atnaujinimo (modernizavimo) projektui įgyvendinti skirta kaupiamojo įnašo ir (ar) kitų įmokų mėnesinė įmoka, tenkanti buto naudingojo ploto vienam kvadratiniam metrui, neturi būti didesnė už Vyriausybės nustatytąją (išskyrus atvejus, kai didesniam įmokos dydžiui raštu pritaria daugiabučio namo buto savininkas). Kaupiamojo įnašo daugiabučiam namui atnaujinti (modernizuoti) apskaičiavimo metodiką tvirtina Vyriausybė ar jos įgaliota institucija.
+3. Šio straipsnio 1 ir 2 dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti teikimo ir atnaujinimo projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė.
 
 
 
 
-4. Daugiabučio namo, kuriame yra įsteigta daugiabučio namo butų ir kitų patalpų savininkų bendrija arba kurio butų ir kitų patalpų savininkai yra sudarę jungtinės veiklos sutartį, kaupiamojo įnašo daugiabučiam namui atnaujinti (modernizuoti) konkretų dydį, vadovaudamiesi šio straipsnio 3 dalyje nurodyta metodika, nustato daugiabučio namo butų ir kitų patalpų savininkai bendrijos įstatuose ar jungtinės veiklos sutartyje nustatyta tvarka.
-
-
-
-
-5. Daugiabučio namo, kuriame daugiabučio namo butų ir kitų patalpų savininkų bendrija neįsteigta arba kurio butų ir kitų patalpų savininkai nėra sudarę jungtinės veiklos sutarties, kaupiamojo įnašo daugiabučiam namui atnaujinti (modernizuoti) dydį, vadovaudamasis šio straipsnio 3 dalyje nurodyta metodika, apskaičiuoja bendrojo naudojimo objektų administratorius ir patvirtina daugiabučio namo butų ir kitų patalpų savininkai, priimdami sprendimą pagal Civilinio kodekso 4.85 straipsnį.
-
-
-
-
-6. Daugiabučio namo butų ir kitų patalpų savininkai, įgyvendinantys atnaujinimo (modernizavimo) projektą, gali priimti sprendimą nekaupti šio straipsnio 3 dalyje nurodytų lėšų, jeigu yra pasirašyta kreditavimo sutartis su bankais ar kitomis kredito įstaigomis arba iš nuosavų ar (ir) skolintų lėšų pradėtas įgyvendinti daugiabučio namo atnaujinimas (modernizavimas). Šioje dalyje nurodytos lėšos gali būti nekaupiamos nuo minėtos kreditavimo sutarties su banku ar kita kredito įstaiga pasirašymo iki šio kredito sugrąžinimo dienos arba nuo daugiabučio namo atnaujinimo (modernizavimo) iš nuosavų ar (ir) skolintų lėšų įgyvendinimo pradžios iki šio namo atnaujinimo (modernizavimo) pabaigos.
-
-
-
-
-7. Šio straipsnio 1 ir 2 dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo ir atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė.
-
-
-
-
-8. Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimą administruoja Vyriausybės įsteigta viešoji įstaiga Būsto energijos taupymo agentūra, kurios veikla finansuojama valstybės biudžeto lėšomis. Ši įstaiga atlieka šias funkcijas:
+4. Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimą administruoja Vyriausybės įsteigta viešoji įstaiga Būsto energijos taupymo agentūra (toliau – Agentūra), kurios veikla finansuojama valstybės biudžeto lėšomis. Agentūra atlieka šias funkcijas:
 
 
 1) vertina savivaldybių programų atitiktį Vyriausybės patvirtintai Daugiabučių namų atnaujinimo (modernizavimo) programai;
@@ -167,27 +147,32 @@ VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
 
 
 
-2) vykdo atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūrą;
+2) vertina investicijų planus ir vykdo atnaujinimo projektų įgyvendinimo priežiūrą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
 
 
 
-3) administruoja ir teikia šio straipsnio 1 dalyje nurodytą valstybės paramą (išskyrus lengvatinių kreditų teikimą ir kredito ir palūkanų apmokėjimą už nepasiturinčius gyventojus);
+3) administruoja ir teikia šio straipsnio 1 ir 2 dalyse nurodytą valstybės paramą (išskyrus lengvatinių kreditų teikimą ir kredito bei palūkanų apmokėjimą už nepasiturinčius gyventojus);
 
 
 
 
-4) teikia nereikšmingą pagalbą;
+4) teikia ūkinę veiklą vykdantiems butų ir kitų patalpų savininkams nereikšmingą valstybės pagalbą, kuriai taikomos Europos Sąjungos valstybės pagalbos taisyklės;
 
 
 
 
-5) konsultuoja daugiabučio namo atnaujinimo (modernizavimo) proceso dalyvius (daugiabučio namo butų ir kitų patalpų savininkus, bendrojo naudojimo objektų valdytojus, savivaldybes ir savivaldybių programų įgyvendinimo administratorius) daugiabučių namų atnaujinimo (modernizavimo) ir valstybės paramos teikimo klausimais, organizuoja visuomenės informavimą, švietimą ir mokymą;
+5) kompensuoja bankams ar kitoms finansų įstaigoms lengvatinio kredito bendrą metinių palūkanų dalį, viršijančią šio įstatymo 3 straipsnio 1 dalies 1 punkte nurodytą lengvatinio kredito palūkanų dydį, pagal šio straipsnio 3 dalyje nurodytas taisykles;
 
 
 
 
-6) organizuoja Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimo stebėseną.
+6) konsultuoja daugiabučio namo atnaujinimo proceso dalyvius (daugiabučio namo butų ir kitų patalpų savininkus, bendrojo naudojimo objektų valdytojus, savivaldybes ir savivaldybių programų įgyvendinimo administratorius) atnaujinimo ir valstybės paramos teikimo klausimais, organizuoja ir vykdo visuomenės informavimą, švietimą ir mokymą;
+
+
+
+
+7) organizuoja ir vykdo Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimo stebėseną.
  
 
 
@@ -197,44 +182,20 @@ VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI)
 
 
 
-4 straipsnis. Valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimas
+4 straipsnis. Valstybės paramos daugiabučiams namams atnaujinti finansavimas
 
 
-1. Valstybės parama daugiabučiams namams atnaujinti (modernizuoti) teikiama ir jos administravimo išlaidos padengiamos iš Lietuvos Respublikos valstybės biudžeto ir kitų lėšų.
-Straipsnio dalies pakeitimai:
-Nr. XII-2026, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18618
- 
+1. Valstybės parama daugiabučiams namams atnaujinti teikiama ir jos administravimo išlaidos, taip pat lengvatinio kredito bendra metinių palūkanų dalis, viršijanti šio įstatymo 3 straipsnio 1 dalies 1 punkte nurodytą lengvatinio kredito palūkanų dydį, padengiamos Lietuvos Respublikos valstybės biudžeto lėšomis ir (ar) Europos Sąjungos fondų, ir (ar) kitomis teisėtai gautomis lėšomis.
 
 
 
 
-2. Valstybės parama nepasiturintiems gyventojams, apmokant jiems tenkančias kiekvieno mėnesio kredito ir palūkanų įmokas, teikiama pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą.
- 
+2. Atnaujinimo projektus įgyvendinantiems daugiabučio namo butų ir kitų patalpų savininkams papildomą paramą savivaldybės tarybos nustatyta tvarka gali teikti ir savivaldybės.
 
 
 
 
-
-
-5 straipsnis. Sprendimų dėl atnaujinimo (modernizavimo) projektų įgyvendinimo ir finansavimo priėmimo ir vykdymo tvarka
-
-
-1. Sprendimą dėl atnaujinimo (modernizavimo) projekto įgyvendinimo pagal Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas ir investicijų plano patvirtinimo, lėšų skolinimosi atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir įgyvendinti ir kreditavimo sutarties sąlygų butų ir kitų patalpų savininkai priima balsų dauguma Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka. Butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo (modernizavimo) protokolo pavyzdinę formą nustato Vyriausybės įgaliota institucija.
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodyto sprendimo dėl daugiabučio namo atnaujinimo (modernizavimo) įgyvendinimą, vadovaudamasis butų ir kitų patalpų savininkų patvirtintu investicijų planu, organizuoja bendrojo naudojimo objektų valdytojas, atlikdamas Statybos įstatyme nurodytas statytojo (užsakovo) pareigas. Butų ir kitų patalpų savininkų sprendimu statytojo (užsakovo) ir kitos su projekto įgyvendinimu susijusios pareigos pavedimo sutartimi gali būti pavedamos kitam asmeniui, teikiančiam projekto įgyvendinimo administravimo paslaugas, arba savivaldybės programos įgyvendinimo administratoriui. Pavedimo sutartį pagal butų ir kitų patalpų savininkų sprendime nustatytas sąlygas sudaro ir jos vykdymą kontroliuoja bendrojo naudojimo objektų valdytojas. Pavedimo sutarties pavyzdinę formą nustato Vyriausybės įgaliota institucija.
-
-
-
-
-3. Sutartis su bankais ar kitomis kredito įstaigomis dėl kredito atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir (ar) įgyvendinti (rangos darbams atlikti ir (ar) statybos techninei priežiūrai vykdyti) butų ir kitų patalpų savininkų vardu arba savo vardu, veikdamas butų ir kitų patalpų savininkų naudai, sudaro bendrojo naudojimo objektų valdytojas. Jeigu projekto (ar jo dalies) parengimo ir (ar) įgyvendinimo administravimas pagal pavedimo sutartį pavedamas savivaldybės programos įgyvendinimo administratoriui, šis asmuo, jeigu tai nurodyta pavedimo sutartyje, gali sudaryti kreditavimo sutartį su bankais ar kitomis kredito įstaigomis dėl lengvatinio kredito atnaujinimo (modernizavimo) projektui (ar jo daliai) parengti ir (ar) įgyvendinti (rangos darbams atlikti ir (ar) statybos techninei priežiūrai vykdyti).
-
-
-
-
-4. Dėl būsto šildymo išlaidų kompensavimo nepasiturintiems gyventojams pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo (modernizavimo) protokolo išrašą teikia savivaldybės administracijai.
+3. Valstybės parama nepasiturintiems gyventojams, apmokant jiems tenkančias kiekvieno mėnesio kredito ir palūkanų įmokas, teikiama pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą.
  
 
 
@@ -242,16 +203,56 @@ Nr. XII-2026, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18618
 
 
 
-6 straipsnis. Butų ir kitų patalpų savininkų, įgyvendinančių daugiabučio namo atnaujinimo (modernizavimo) projektus, interesų apsauga
+5 straipsnis. Sprendimų dėl atnaujinimo projektų įgyvendinimo priėmimo ir vykdymo tvarka
 
 
-1. Daugiabučio namo atnaujinimo (modernizavimo) projektai turi atitikti teisingumo, protingumo, sąžiningumo kriterijus. Atnaujinimo (modernizavimo) projektui įgyvendinti skirta kaupiamojo įnašo ir (ar) kitų įmokų mėnesinė įmoka, tenkanti buto naudingojo ploto vienam kvadratiniam metrui, turi atitikti vykdomų darbų mastą ir buto savininkų pajamas.
+1. Sprendimą dėl atnaujinimo projekto įgyvendinimo pagal Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančias savivaldybių programas ir investicijų plano patvirtinimo, lėšų skolinimosi atnaujinimo projekto daliai (techniniam darbo projektui) parengti, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, ir (ar) įgyvendinti (rangos darbams atlikti) ir kreditavimo sutarties sąlygų butų ir kitų patalpų savininkai priima balsų dauguma Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka. Butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo protokolo pavyzdinę formą nustato Vyriausybės įgaliota institucija.
 
 
 
 
-2. Draudžiama nukreipti išieškojimą pagal buto savininko neįvykdytas prievoles dėl atnaujinimo (modernizavimo) projektų jo dalies apmokėjimo į jo butą atnaujintame (modernizuotame) name, jeigu tai yra vienintelis šeimos (vieno gyvenančio asmens) būstas.
-3. Buto ar kitų patalpų perleidimo (paveldėjimo) metu buvę įsiskolinimai pagal atnaujinimo (modernizavimo) projektus padengiami, o vykdytinos prievolės perduodamos buto ar kitų patalpų pirkėjui (įgijėjui).
+2. Šio straipsnio 1 dalyje nurodyto sprendimo dėl daugiabučio namo atnaujinimo įgyvendinimą, vadovaudamasis butų ir kitų patalpų savininkų patvirtintu investicijų planu, organizuoja projekto administratorius, atlikdamas Statybos įstatyme nurodytas statytojo (užsakovo) pareigas. Kai butų ir kitų patalpų savininkų sprendimu statytojo (užsakovo) ir kitos su projekto įgyvendinimu susijusios pareigos pavedamos asmeniui, teikiančiam projekto įgyvendinimo administravimo paslaugas, arba savivaldybės programos įgyvendinimo administratoriui, sudaroma pavedimo sutartis. Pavedimo sutartį pagal butų ir kitų patalpų savininkų sprendime nustatytas sąlygas sudaro ir jos vykdymą kontroliuoja bendrojo naudojimo objektų valdytojas. Pavedimo sutarties pavyzdinę formą nustato Vyriausybės įgaliota institucija.
+
+
+
+
+3. Dėl būsto šildymo išlaidų kompensavimo nepasiturintiems gyventojams pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius teikia savivaldybės administracijai butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo protokolo išrašą.
+ 
+
+
+
+
+
+
+6 straipsnis. Butų ir kitų patalpų savininkų, įgyvendinančių daugiabučio namo atnaujinimo projektus, interesų apsauga
+
+
+1. Daugiabučio namo atnaujinimo projektai turi atitikti teisingumo, protingumo, sąžiningumo kriterijus. Atnaujinimo projektui įgyvendinti skirta kaupiamojo įnašo ir (ar) kitų įmokų mėnesinė įmoka, tenkanti buto ar kitos patalpos naudingojo ploto vienam kvadratiniam metrui, turi atitikti vykdomų darbų mastą ir buto savininkų pajamas.
+
+
+
+
+2. Atnaujinimo projektui įgyvendinti skirta kaupiamojo įnašo ir (ar) kitų įmokų mėnesinė įmoka, tenkanti buto ar kitos patalpos naudingojo ploto vienam kvadratiniam metrui, neturi būti didesnė už Vyriausybės nustatytąją (išskyrus atvejus, kai didesniam įmokos dydžiui raštu pritaria daugiabučio namo buto ar kitos patalpos savininkas). Kaupiamojo įnašo daugiabučiam namui atnaujinti apskaičiavimo metodiką tvirtina Vyriausybė ar jos įgaliota institucija. Kaupiamojo įnašo daugiabučiam namui atnaujinti dydį, vadovaudamasis šioje dalyje nurodyta metodika, apskaičiuoja bendrojo naudojimo objektų valdytojas ir patvirtina daugiabučio namo butų ir kitų patalpų savininkai, priimdami sprendimą balsų dauguma Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka.
+
+
+
+
+3. Daugiabučio namo butų ir kitų patalpų savininkų lėšos, skirtos daugiabučiam namui atnaujinti ir (ar) kiekvieno mėnesio lengvatinio kredito ir palūkanų įmokoms apmokėti, laikomos atskirose kaupiamųjų lėšų sąskaitose, turi būti atskirtos nuo bendrojo naudojimo objektų valdytojo ar savivaldybės programos įgyvendinimo administratoriaus lėšų ir į apskaitą įtraukiamos atskirai. Į kaupiamųjų lėšų sąskaitą draudžiama nukreipti išieškojimą pagal bendrojo naudojimo objektų valdytojo, savivaldybės programos įgyvendinimo administratoriaus ar butų ir kitų patalpų savininkų prievoles.
+
+
+
+
+4. Daugiabučio namo butų ir kitų patalpų savininkai, įgyvendinantys atnaujinimo projektą, gali priimti sprendimą nekaupti šio straipsnio 2 dalyje nurodytų lėšų, jeigu daugiabučio namo atnaujinimo projektui parengti ir (ar) įgyvendinti (rangos darbams atlikti) yra pasirašyta kreditavimo sutartis su bankais ar kitomis kredito įstaigomis arba iš nuosavų ar (ir) skolintų lėšų pradėtas įgyvendinti daugiabučio namo atnaujinimas.
+
+
+
+
+5. Draudžiama nukreipti išieškojimą pagal buto savininko neįvykdytas prievoles dėl atnaujinimo projektų jo dalies apmokėjimo į jo butą atnaujintame name, jeigu tai yra vienintelis šeimos (vieno gyvenančio asmens) būstas.
+
+
+
+
+6. Buto ar kitų patalpų perleidimo atveju, išskyrus paveldėjimo atvejus, įsiskolinimus pagal atnaujinimo projektą, susidariusius iki buto ar kitos patalpos perleidimo dienos, padengia buto ar kitos patalpos pardavėjas (perleidėjas), o vykdytinos prievolės perduodamos buto ar kitų patalpų pirkėjui (įgijėjui). Paveldėjimo atveju įsiskolinimus, susidariusius iki buto ar kitos patalpos paveldėjimo momento, apmoka ir vykdytinas prievoles pagal atnaujinimo projektą perima paveldėtojas.
  
 
 
@@ -261,6 +262,72 @@ Nr. XII-2026, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18618
 
 
 
+TREČIASIS SKIRSNIS
+LENGVATINIO KREDITO TEIKIMAS
+ 
+
+
+7 straipsnis. Lengvatinio kredito sutarties sudarymas
+
+
+Sutartį su bankais ar kitomis finansų įstaigomis dėl lengvatinio kredito, nurodyto šio įstatymo 3 straipsnio 1 dalies 1 punkte, sudaro bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius, jeigu tai numatyta pavedimo sutartyje:
+
+
+1) daugiabučio namo butų ir kitų patalpų savininkų vardu arba 
+
+
+
+
+2) savo vardu, veikdamas daugiabučio namo butų ir kitų patalpų savininkų naudai.
+ 
+
+
+
+
+
+
+
+
+8 straipsnis. Lengvatinio kredito įmokų mokėjimas
+
+
+1. Bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius lengvatinio kredito įmokas lengvatinį kreditą suteikusiam bankui ar kitai finansų įstaigai moka tik iš daugiabučio namo butų ir kitų patalpų savininkų lėšų, skirtų kiekvieno mėnesio lengvatinio kredito ir palūkanų įmokoms apmokėti. Bendrojo naudojimo objekto valdytojo ir savivaldybės programos įgyvendinimo administratoriaus atsakomybė už kitų įstatymuose ar sutartyje nustatytų pareigų, susijusių su atnaujinimo projekto įgyvendinimo administravimu, įmokų iš gyventojų surinkimu ir (ar) lengvatinio kredito grąžinimo administravimu, nevykdymą ar netinkamą vykdymą šia nuostata nėra ribojama.
+
+
+
+
+2. Kai bendrojo naudojimo objektų valdytojas ar savivaldybės programos įgyvendinimo administratorius lengvatinio kredito sutartį su bankais ar kitomis kredito įstaigomis sudaro savo vardu daugiabučio namo butų ir kitų patalpų savininkų naudai, pareiga butų ir kitų patalpų savininkams mokėti įmokas lengvatiniam kreditui grąžinti, įskaitant šio įstatymo 9 straipsnyje numatytą atvejį, kyla pagal Civilinio kodekso 4.85 straipsnyje nustatyta tvarka balsų dauguma priimtą sprendimą ir šį įstatymą, o lengvatinio kredito įmokos mokamos iki visiško daugiabučio namo butui ar kitai patalpai tenkančių investicijų padengimo.
+ 
+
+
+
+
+
+
+9 straipsnis. Projekto administratoriaus pakeitimas
+
+
+Projekto administratorius, kurio vardu gyventojų naudai sudaroma lengvatinio kredito sutartis atnaujinimo projektui parengti ir (ar) įgyvendinti, gali būti keičiamas butų ir kitų patalpų savininkų sprendimu, tai suderinus su lengvatinį kreditą suteikusiu banku ar kita finansų įstaiga šio įstatymo 3 straipsnio 3 dalyje nurodytose taisyklėse nustatyta tvarka.
+ 
+
+
+
+
+
+
+10 straipsnis. Informacijos apie lengvatinį kreditą viešumas
+
+
+Kai atnaujinimo projektui parengti ir (ar) įgyvendinti suteiktas lengvatinis kreditas, projekto administratorius įregistruoja daugiabučio namo atnaujinimo įgyvendinimo faktą, Lietuvos Respublikos nekilnojamojo turto registro įstatymo nustatyta tvarka pateikdamas lengvatinio kredito sutarties kopiją.
+
+
+
+
+
+
+
+
+ 
  
  
 LIETUVOS RESPUBLIKOS 
@@ -273,6 +340,7 @@ Nr. I-2455
  
 
 
+ 
 
 
 
@@ -452,3 +520,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2026, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18618
 Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-498, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10841
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas
