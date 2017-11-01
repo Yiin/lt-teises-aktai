@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-11-18 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -872,14 +872,11 @@ Nr. XII-701, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
 
 
 
-15 straipsnis. Draudimas parduoti prekes pasibaigus jų tinkamumo naudoti terminui
-
-
-Draudžiama parduoti prekes, kurių tinkamumo naudoti terminas yra pasibaigęs. Gamintojas neatsako už prekių saugą ir tinkamumą naudoti pagal paskirtį (prekės savybes) suėjus šiam terminui.
-
-
+15 straipsnis. Neteko galios nuo 2017-11-01.
 Straipsnio pakeitimai:
 Nr. XII-701, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
+Straipsnio pakeitimai:
+Nr. XIII-65, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29146
  
 
 
@@ -3203,3 +3200,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 40 straipsnio ir priedo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-65, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29146
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 15 straipsnio pripažinimo netekusiu galios įstatymas
