@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -1616,7 +1616,7 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-81. Lietuvos Respublikos rinkai tiekiamų vaistinių preparatų pakuotės turi būti paženklintos ir pakuotės lapeliai parengti sveikatos apsaugos ministro nustatyta tvarka. Registruotų vaistinių preparatų, išskyrus radiofarmacinius preparatus, pakuotės turi būti su apsaugos priemonėmis, kuriomis būtų galima patikrinti vaistinio preparato autentiškumą, identifikuoti atskiras pakuotes ir nustatyti, ar nebuvo pažeista išorinė pakuotė, šiais atvejais: 
+81. Lietuvos Respublikos rinkai tiekiamų registruotų vaistinių preparatų, išskyrus retuosius vaistinius preparatus, pakuotės turi būti paženklintos ir pakuotės lapeliai parengti sveikatos apsaugos ministro nustatyta tvarka ir vadovaujantis Lietuvos Respublikos valstybinės kalbos įstatymu bei Lietuvos Respublikos vartotojų teisių apsaugos įstatymu. Sveikatos apsaugos ministras, siekdamas užtikrinti tinkamą ir reikiamo dažnumo vaistinių preparatų tiekimą, gali nustatyti, kad tam tikri pakuotės ženklinimo elementai gali būti pateikti užsienio kalba. Registruotų vaistinių preparatų, išskyrus radiofarmacinius preparatus, pakuotės turi būti su apsaugos priemonėmis, kuriomis būtų galima patikrinti vaistinio preparato autentiškumą, identifikuoti atskiras pakuotes ir nustatyti, ar nebuvo pažeista išorinė pakuotė, šiais atvejais:
 
 
 1) jeigu vaistinis preparatas yra receptinis vaistinis preparatas, išskyrus įrašytus į Europos Komisijos vaistinių preparatų ir jų grupių sąrašą, kuriame nurodyti receptiniai vaistiniai preparatai ar grupės, kuriems netaikomas reikalavimas, kad pakuotės turi būti su apsaugos priemonėmis; 
@@ -1624,9 +1624,12 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-2) jeigu vaistinis preparatas yra nereceptinis vaistinis preparatas, kuris įrašytas į Europos Komisijos vaistinių preparatų ir jų grupių sąrašą, kuriame nurodyti nereceptiniai vaistiniai preparatai ar grupės, kuriems taikomas reikalavimas, kad pakuotės turi būti su apsaugos priemonėmis.
+2) jeigu vaistinis preparatas yra nereceptinis vaistinis preparatas, kuris įrašytas į Europos Komisijos vaistinių preparatų ir jų grupių sąrašą, kuriame nurodyti nereceptiniai vaistiniai preparatai ar grupės, kuriems taikomas reikalavimas, kad pakuotės turi būti su apsaugos priemonėmis. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+ 
 
 
 
@@ -1697,7 +1700,18 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-16. Sveikatos apsaugos ministerija gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir nėra galimybės šio vaistinio preparato pakeisti kitais registruotais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 10 darbo dienų ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus pakuotės ženklinimą ir pakuotės lapelį lietuvių kalba, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Leidimo galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarką, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą ir jų taikymo sąlygas.
+16. Sveikatos apsaugos ministerija, išskyrus šio straipsnio 161 dalyje nurodytą atvejį, gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir nėra galimybės šio vaistinio preparato pakeisti kitais registruotais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 10 darbo dienų ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Leidimo galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarkos aprašą, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą bei jų taikymo sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+ 
+
+
+
+
+161. Registruoti vaistiniai preparatai pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, gali būti tiekiami asmens sveikatos priežiūros įstaigoms taikant sveikatos apsaugos ministro nustatytas būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Tiekiami vaistiniai preparatai turi atitikti vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, bei gali būti vartojami tik toje asmens sveikatos priežiūros įstaigoje teikiamoms asmens sveikatos priežiūros paslaugoms suteikti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+ 
 
 
 
@@ -2315,6 +2329,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
+81. Vaistinio preparato registruotojas, bendradarbiaudamas su platintojais, turi užtikrinti, kad vaistiniai preparatai, tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, pagal šio įstatymo 8 straipsnio 161 dalį, atitiktų vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį. Vaistinio preparato registruotojas ar jo atstovas Lietuvos Respublikoje turi pateikti informaciją apie tokius tiekiamus vaistinius preparatus Valstybinei vaistų kontrolės tarnybai, vadovaudamasis sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras nustato, kokie duomenys (informacija) ir kokiais terminais turi būti pateikiami. 
+Papildyta straipsnio dalimi:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+ 
+
+
+
+
 9. Imuniniai ir (ar) kraujo preparatai gali būti tiekiami rinkai tik gavus Valstybinės vaistų kontrolės tarnybos išduotą EEE oficialios kontrolės institucijos serijos išleidimo pažymėjimą, išskyrus šio straipsnio 92 dalyje nurodytą atvejį. Vaistinio preparato registruotojas, norėdamas gauti šį pažymėjimą, Valstybinei vaistų kontrolės tarnybai turi pateikti:
 
 
@@ -2544,6 +2566,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 3) prieš tiekiant rinkai imuninių ir (ar) kraujo preparatų serijas, pateikti Valstybinei vaistų kontrolės tarnybai EEE valstybės oficialios kontrolės institucijos išduoto serijos išleidimo pažymėjimo kopiją; 
+
+
+
+
+31) užtikrinti, kad vaistiniai preparatai, tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, pagal šio įstatymo 8 straipsnio 161 dalį, atitiktų lygiagretaus importo leidimo sąlygas, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį. Lygiagretaus importo leidimo turėtojas turi pateikti informaciją apie tokius tiekiamus vaistinius preparatus Valstybinei vaistų kontrolės tarnybai, vadovaudamasis šio įstatymo 15 straipsnio 81  dalyje nustatyta tvarka;
+Papildyta straipsnio punktu:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+ 
 
 
 
@@ -3884,6 +3914,14 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 4) pateikti Valstybinei vaistų kontrolės tarnybai duomenis apie vykdomą ir numatomą vykdyti vaistinių preparatų platinimą;
+
+
+
+
+41) pateikti Valstybinei vaistų kontrolės tarnybai informaciją apie vaistinius preparatus pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, tiekiamus pagal šio įstatymo 8 straipsnio 161 dalį asmens sveikatos priežiūros įstaigoms, vadovaudamasis šio įstatymo 15 straipsnio 81 dalyje nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+ 
 
 
 
@@ -5993,7 +6031,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-5. Subjektų, vykdančių veiklą su farmacijos produktais, patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis gerai gamybos, platinimo, klinikinei, farmakologinio budrumo ar vaistinės praktikai, atlieka atitinkamai geros gamybos praktikos, geros platinimo praktikos, geros farmakologinio budrumo praktikos, geros klinikinės praktikos ar geros vaistinių praktikos inspektoriai. Patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis kitiems šio įstatymo reikalavimams, gali atlikti inspektoriai ir (ar) kiti Valstybinės vaistų kontrolės tarnybos darbuotojai, įgalioti vykdyti priežiūrą.
+5. Subjektų, vykdančių veiklą su farmacijos produktais, patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis gerai gamybos, platinimo, klinikinei, farmakologinio budrumo ar vaistinės praktikai, atlieka atitinkamai geros gamybos praktikos, geros platinimo praktikos, geros farmakologinio budrumo praktikos, geros klinikinės praktikos ar geros vaistinių praktikos inspektoriai, išskyrus vaistinių preparatų kontrolinius pirkimus, kuriuos taip pat turi teisę atlikti kiti Valstybinės vaistų kontrolės tarnybos darbuotojai, įgalioti vykdyti priežiūrą. Patikrinimus, kurių metu vertinama vykdomos veiklos atitiktis kitiems šio įstatymo reikalavimams, gali atlikti inspektoriai ir (ar) kiti Valstybinės vaistų kontrolės tarnybos darbuotojai, įgalioti vykdyti priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-393, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09672
+ 
 
 
 
@@ -6210,7 +6251,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-6) atlikti kontrolinius vaistinių preparatų pirkimus; 
+6) atlikti vaistinių preparatų kontrolinius pirkimus. Juos atliekant, tarnybinis pažymėjimas ir pavedimas atlikti patikrinimą turi būti pateikiami ne prieš pradedant patikrinimą, bet iš karto po atlikto kontrolinio pirkimo;
+Straipsnio punkto pakeitimai:
+Nr. XIII-393, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09672
+ 
 
 
 
@@ -7230,7 +7274,7 @@ Lietuvos Respublikos Vyriausybė ir kitos Įstatyme nurodytos valstybės institu
 
 
 
-3) Lietuvos Respublikos farmacinės veiklos įstatymo 1, 5, 7, 10, 12, 14, 16, 17, 19, 21, 22, 23, 24 straipsnių pakeitimo ir papildymo 25 straipsniu įstatymas (Žin., 1996,  Nr. 69-1667);
+3) Lietuvos Respublikos farmacinės veiklos įstatymo 1, 5, 7, 10, 12, 14, 16, 17, 19, 21, 22, 23, 24 straipsnių pakeitimo ir papildymo 25 straipsniu įstatymas (Žin., 1996, Nr. 69-1667);
 
 
 
@@ -7245,7 +7289,7 @@ Lietuvos Respublikos Vyriausybė ir kitos Įstatyme nurodytos valstybės institu
 
 
 
-6) Lietuvos Respublikos farmacinės veiklos įstatymo 1, 4, 5, 10, 11, 15, 17, 19, 20 straipsnių pakeitimo ir Įstatymo papildymo 10¹, 17¹ straipsniais įstatymas (Žin., 2002,  Nr. 58-2348);
+6) Lietuvos Respublikos farmacinės veiklos įstatymo 1, 4, 5, 10, 11, 15, 17, 19, 20 straipsnių pakeitimo ir Įstatymo papildymo 10¹, 17¹ straipsniais įstatymas (Žin., 2002, Nr. 58-2348);
 
 
 
@@ -7260,7 +7304,7 @@ Lietuvos Respublikos Vyriausybė ir kitos Įstatyme nurodytos valstybės institu
 
 
 
-9) Lietuvos Respublikos vaistų įstatymo 11 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 44-1246);
+9) Lietuvos Respublikos vaistų įstatymo 11 straipsnio pakeitimo įstatymas (Žin., 2000,  Nr. 44-1246);
 
 
 
@@ -7288,12 +7332,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
+ 
 
 
 
 
 
 
+ 
 Lietuvos Respublikos
 2006 m. birželio 22 d. 
 įstatymo Nr. X-709
@@ -7359,6 +7405,7 @@ Nr. XI-1383, 2011-05-19, Žin., 2011, Nr. 69-3291 (2011-06-07)
 Nr. XI-2376, 2012-11-06, Žin., 2012, Nr. 135-6865 (2012-11-22)
 Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
+ 
  
 
 
@@ -7520,4 +7567,14 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 ir 35 straipsnių pakeitim
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-362, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08721
-Lietuvos Respublikos farmacijos įstatymo Nr. X-709 57 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 57 straipsnio pakeitimo įstatymas 
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-393, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09672
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 61 ir 63 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 8, 15, 17 ir 33 straipsnių pakeitimo įstatymas
