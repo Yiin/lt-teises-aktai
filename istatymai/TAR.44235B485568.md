@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-07-18
+Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -744,25 +744,37 @@ Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 
 
-21) nustato susitarimų dėl vartotojų švietimo ir konsultavimo sudarymo su energijos tiekėjais tvarką; 
+21) tvirtina išmaniųjų tinklų ir išmaniųjų energijos apskaitos sistemų plėtros planus ir nustato reikalavimus šiems tinklams ir sistemoms (planai ir reikalavimai gali būti nustatomi atskirai kiekvienam energetikos sektoriui, jeigu tai lemia objektyvios priežastys). Įgyvendindama šią funkciją Energetikos ministerija privalo vadovautis veiksmingo ribotų išteklių valdymo ir naudojimo, technologinio neutralumo, funkcinio lygiavertiškumo, proporcingumo, teisinio tikrumo kintančioje rinkoje, ekonominės plėtros, veiksmingos konkurencijos užtikrinimo, vartotojų teisių apsaugos, reguliavimo kriterijų, sąlygų ir procedūrų objektyvumo, skaidrumo ir nediskriminavimo principais; 
+Papildyta straipsnio punktu:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
+
+
+
+
+22) nustato susitarimų dėl vartotojų švietimo ir konsultavimo sudarymo su energijos tiekėjais tvarką; 
 Papildyta straipsnio punktu:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-22) organizuoja keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu;
+23) organizuoja keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
 
 
-23) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+24) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
  
 
 
@@ -1152,12 +1164,18 @@ Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 
 
 
-3) organizuoja atitikties šio įstatymo 27 straipsnio 5 ir 6 dalyse nustatytiems efektyvumo reikalavimams patikrinimą. Buitiniams vartotojams atitikties patikrinimo paslauga teikiama neatlygintinai;
+3) organizuoja šio įstatymo 27 straipsnio 6 dalyje nustatytų sistemų energijos vartojimo efektyvumo patikrinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-4) tiria energetikos objektų, įrenginių avarijas ir darbo sutrikimus, dalyvauja tiriant nelaimingus atsitikimus darbe, tiria nelaimingus atsitikimus buityje, susijusius su energijos vartojimu;
+4) tiria energetikos objektų, įrenginių avarijas ir darbo sutrikimus, dalyvauja tiriant nelaimingus atsitikimus darbe ir buityje, susijusius su energijos vartojimu;
+Straipsnio punkto pakeitimai:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
@@ -1654,12 +1672,31 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, jeigu šios nusikalstamos veikos padarytos disponuojant naftos produktais;
+4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla ar jas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
 
-5) energetikos įmonė pateikia prašymą sustabdyti licencijos, leidimo ar atestato galiojimą.
+5) energetikos įmonė pateikia prašymą sustabdyti licencijos, leidimo ar atestato galiojimą;
+
+
+
+
+6) paaiškėja, kad asmens, turinčio leidimą verstis didmenine prekyba nefasuotais naftos produktais, mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; 
+Papildyta straipsnio punktu:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės, – licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną dieną nuo pažeidimų nustatymo dienos.
+Papildyta straipsnio punktu:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
@@ -1882,7 +1919,10 @@ Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
 
 
 
-3) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar tokio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, jeigu šios nusikalstamos veikos padarytos disponuojant naftos produktais.
+3) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla ar jas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus.
+Straipsnio punkto pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
@@ -1944,7 +1984,10 @@ Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
 
 
 
-7. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba suskystintomis naftos dujomis išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja savivaldybės administracijos direktorius Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis.
+7. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba suskystintomis naftos dujomis išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja savivaldybės administracijos direktorius Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. Informaciją apie išduotus leidimus juos išduodančios institucijos skelbia Licencijų informacinėje sistemoje teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
@@ -1992,7 +2035,10 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-3. Leidimas verstis didmenine prekyba nefasuotais naftos produktais išduodamas asmenims, nurodytiems šio įstatymo 2 straipsnio 1 dalyje.
+3. Leidimas verstis didmenine prekyba nefasuotais naftos produktais išduodamas šio įstatymo 2 straipsnio 1 dalyje nurodytiems asmenims, kurie atitinka šio straipsnio 4 dalyje nustatytus reikalavimus ir pateikia šio straipsnio 8 dalyje nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančius dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
@@ -2005,7 +2051,18 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-2) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, jeigu šios nusikalstamos veikos padarytos disponuojant naftos produktais.
+2) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla ar jas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+3) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi. 
+Papildyta straipsnio punktu:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
@@ -2050,19 +2107,100 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-8) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų.
+8) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų;
+
+
+
+
+9) visą leidimo verstis didmenine prekyba nefasuotais naftos produktais galiojimo laiką turėti šio straipsnio 8 dalyje arba šio straipsnio 9 dalyje nustatytomis sąlygomis – šio straipsnio 9 dalyje nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančius dokumentus; 
+Papildyta straipsnio punktu:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+10) nefasuotus naftos produktus Lietuvos Respublikoje didmeninėje prekyboje gali įsigyti tik iš asmenų, turinčių galiojantį leidimą verstis prekyba nefasuotais naftos produktais. 
+Papildyta straipsnio punktu:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
 
 
 
-6. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba nefasuotais naftos produktais išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja savivaldybės administracijos direktorius Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis.
+6. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba nefasuotais naftos produktais išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja savivaldybės administracijos direktorius Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. Informaciją apie išduotus leidimus juos išduodančios institucijos skelbia Licencijų informacinėje sistemoje teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
 
 
 
 
 7. Prekybos nefasuotais naftos produktais tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatyti Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse.
+
+
+
+
+8. Asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, Valstybinei mokesčių inspekcijai pateikia Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės išduotą vieno milijono eurų vertės galiojantį laidavimo draudimą, laidavimą arba garantijos dokumentą (toliau – prievolių įvykdymo užtikrinimo dokumentas), pagal kurį prievolių įvykdymo užtikrintojas įsipareigoja įvykdyti asmens, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, mokestines prievoles, jeigu asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, šių prievolių neįvykdys arba jas įvykdys netinkamai. Leidimą išduodanti institucija privalo įsitikinti, ar asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, įvykdė šioje dalyje įtvirtintą prievolę. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+9. Šio straipsnio 8 dalyje numatytos vertės prievolių įvykdymo užtikrinimo dydis gali būti sumažintas iki ne mažesnės kaip 100 tūkstančių eurų sumos, jeigu to prašantis asmuo atitinka visas šias sąlygas:
+
+
+1) turi ne mažesnį kaip 250 tūkstančių eurų dydžio nuosavą kapitalą;
+
+
+
+
+2) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 1 500 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; 
+
+
+
+
+3) verčiasi didmenine prekyba nefasuotais naftos produktais ne trumpiau kaip vienus metus iki prašymo pateikimo dienos. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+10. Naudos gavėju pagal šio straipsnio 8 ir 9 dalyse nustatytus prievolių įvykdymo užtikrinimo dokumentus privalo būti nurodoma Valstybinė mokesčių inspekcija. Prievolių įvykdymo užtikrinimo dokumente turi būti nurodyti Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės, išdavusios prievolių įvykdymo užtikrinimo dokumentą, rekvizitai ir kontaktiniai duomenys. 
+Papildyta straipsnio dalimi:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+11. Prievolių įvykdymo užtikrinimo sumos dydį nustato Valstybinė mokesčių inspekcija, atsižvelgdama į tai, ar ūkio subjektas atitinka šio straipsnio 9 dalyje nustatytas sąlygas. Jeigu netenkinama bent viena iš šio straipsnio 9 dalyje nustatytų sąlygų, taikoma šio straipsnio 8 dalyje nustatyto dydžio prievolių įvykdymo užtikrinimo suma. Prašymų nustatyti prievolių įvykdymo užtikrinimo sumos dydį pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+12. Jeigu asmens, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, prievolių įvykdymo užtikrinimo suma tampa mažesnė, negu nustatyta Valstybinės mokesčių inspekcijos, asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šioje dalyje numatytos aplinkybės atsiradimo, kreiptis į Europos ekonominėje erdvėje veikiančią kredito įstaigą, jos padalinį arba draudimo bendrovę dėl prievolių įvykdymo užtikrinimo sumos patikslinimo. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, ne vėliau kaip per 5 darbo dienas nuo kreipimosi į Europos ekonominėje erdvėje veikiančią kredito įstaigą, jos padalinį arba draudimo bendrovę dienos privalo pateikti Valstybinei mokesčių inspekcijai galiojantį prievolių įvykdymo užtikrinimo dokumentą, atitinkantį šiam asmeniui nustatytą prievolių įvykdymo užtikrinimo sumą. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+13. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo atnaujinti šio straipsnio 8 ar 9 dalyje nurodyto dydžio prievolių įvykdymo užtikrinimo dokumentą ir pateikti jį Valstybinei mokesčių inspekcijai ne vėliau kaip iki besibaigiančio prievolių įvykdymo užtikrinimo dokumento galiojimo termino pabaigos. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
  
 
 
@@ -2282,6 +2420,14 @@ Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 
 5. Energetikos įmonių informacija apie sąnaudas, susijusias su teisės aktų nustatyta tvarka licencijuojama veikla arba su veikla, kuriai taikomos valstybės reguliuojamos kainos, yra vieša. Energetikos įmonės, kurios vykdo licencijuojamą veiklą arba kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, viešai skelbia įmonių valdymo organų nariams nustatytą darbo užmokestį ir kitas su valdymo organų narių funkcijomis susijusias išmokas.
+
+
+
+
+6. Fiziniai ir (ar) juridiniai asmenys Komisijos prašymu teikia jai informaciją apie energetikos įmonėms suteiktų paslaugų teikimo ar parduotų prekių tiekimo sąnaudas, pajamas, sutartinius įsipareigojimus ir kainodaras, kurie turi įtakos valstybės reguliuojamoms kainoms, kai energetikos įmonės, kurių veiklai yra taikomos valstybės reguliuojamos kainos, su fiziniais ir (ar) juridiniais asmenimis sudaro paslaugų teikimo ar prekių pirkimo sandorius. Komisija, naudodamasi teise gauti iš fizinių ir (ar) juridinių asmenų informaciją, privalo užtikrinti gautos informacijos ar duomenų konfidencialumą, jeigu juos pateikęs asmuo to prašo, tačiau ši pareiga neapriboja galimybės Komisijai skelbti ar kitaip naudoti apibendrintą ar nuasmenintą informaciją ar duomenis, kai iš pateikiamos informacijos ar duomenų negalima nustatyti konkrečių asmenų.
+Papildyta straipsnio dalimi:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
@@ -2994,12 +3140,18 @@ BAIGIAMOSIOS NUOSTATOS
 37 straipsnis. Įstatymo įgyvendinimo tvarka
 
 
-1. Energetikos įmonės, gavusios vartotojų (fizinių ar juridinių asmenų) prašymą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis išperka arba eksploatuoja vartotojams nuosavybės teise priklausančius ir jų lėšomis iki šio įstatymo įsigaliojimo įrengtus bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti. Energetikos įmonė ir prašymą pateikęs vartotojas tarpusavio sutarimu derina energetikos objektų išpirkimo ar perėmimo eksploatuoti tvarką ir sąlygas, kiek tai neprieštarauja Vyriausybės ar jos įgaliotos institucijos nustatytiems reikalavimams. Jeigu energetikos įmonė ir vartotojas nesusitaria dėl energetikos objektų išpirkimo ar perėmimo eksploatuoti tvarkos ir sąlygų, abiem šalims privalomas vykdyti įpareigojančias sąlygas nustato Komisija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos nustatytais reikalavimais. Valstybei ar savivaldybei nuosavybės teise priklausantys bendrai naudojami energetikos objektai, sodininkų bendrijoms ir (ar) kitiems asmenims nuosavybės teise priklausantys bendrai naudojami energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, įrengti iki šio įstatymo įsigaliojimo, gali būti parduoti energetikos įmonei už kainą, nustatomą šalių susitarimu atsižvelgiant į nepriklausomo vertintojo nustatytą bendrai naudojamų energetikos objektų vertę sutarties sudarymo metu, vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais. 
+1. Energetikos įmonės, gavusios vartotojų (fizinių ar juridinių asmenų) prašymą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis išperka arba eksploatuoja vartotojams nuosavybės teise priklausančius ir jų lėšomis iki 2002 m. liepos 1 d. įrengtus bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti. Energetikos įmonė ir prašymą pateikęs vartotojas tarpusavio sutarimu derina vartotojams nuosavybės teise priklausančių ir jų lėšomis iki 2002 m. liepos 1 d. įrengtų bendrai naudojamų energetikos objektų išpirkimo ar eksploatavimo tvarką ir sąlygas, kiek tai neprieštarauja Vyriausybės ar jos įgaliotos institucijos nustatytiems reikalavimams. Jeigu energetikos įmonė ir vartotojas nesusitaria dėl energetikos objektų išpirkimo ar eksploatavimo tvarkos ir sąlygų, energetikos įmonė ir (ar) vartotojas gali kreiptis į Komisiją dėl šios tvarkos ir sąlygų nustatymo. Komisija, nustatydama energetikos objektų išpirkimo ar eksploatavimo tvarką ir sąlygas, vadovaujasi sąžiningumo, protingumo ir teisingumo reikalavimais bei atitinkamais energetikos srities teisės aktais.
+Straipsnio dalies pakeitimai:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
 
-2. Valstybei ar savivaldybei nuosavybės teise priklausantys bendrai naudojami energetikos objektai perduodami energetikos įmonei po to, kai valstybės ar savivaldybės institucija, Lietuvos bankas, valstybės ar savivaldybės įmonė, įstaiga, organizacija, patikėjimo teise valdantys šiuos objektus, sudaro pirkimo–pardavimo sutartį (toliau – sutartis) su energetikos įmone. Sutartyje turi būti nustatytas atlyginimo už perduodamą energetikos objektą būdas, terminai, energetikos objekto naudojimo tikslas. Sutartis pasirašoma tik po to, kai energetikos objektų pardavimui ir sutarties projektui pritaria atitinkamai Vyriausybė arba savivaldybės taryba. Teikiant Vyriausybei ar savivaldybės tarybai sutarties projektą dėl pritarimo, pagrindžiama būtinybė parduoti energetikos objektą energetikos įmonei ir kartu pateikiama energetikos objekto vertinimo ataskaita.
+2. Valstybei ar savivaldybei nuosavybės teise priklausantys energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parduodami energetikos įmonėms, turinčioms teisę verstis atitinkama energetikos veikla, už kainą, nustatomą pagal energetikos objektų vertę, nustatytą vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais. Parduodamų energetikos objektų vertės nustatymą gali inicijuoti ir energetikos įmonė, jeigu asmenys, patikėjimo teise valdantys valstybei ar savivaldybei nuosavybės teise priklausančius energetikos objektus, sutinka su tuo. Parduodamų energetikos objektų kaina gali būti mažinama atsižvelgiant į objektų nusidėvėjimą per laikotarpį nuo turto vertinimo atlikimo iki sutarties sudarymo, energetikos įmonės patirtų turto vertinimo sąnaudų sumą ar kitus objektyvius vertę mažinančius veiksnius, vertintus turto vertinimo metu ir pasikeitusius po jo atlikimo. Valstybei ar savivaldybei nuosavybės teise priklausantys energetikos objektai perduodami energetikos įmonei po to, kai asmenys, patikėjimo teise valdantys šiuos objektus, sudaro pirkimo–pardavimo sutartį (toliau – sutartis) su energetikos įmone. Sutartyje turi būti nustatytas atlyginimo už perduodamą energetikos objektą būdas, terminai, energetikos objekto naudojimo tikslas. Sutartis sudaroma tik po to, kai energetikos objektų pardavimui ir sutarties projektui pritaria atitinkamai Vyriausybė arba savivaldybės taryba. Teikiant Vyriausybei ar savivaldybės tarybai sutarties projektą dėl pritarimo, pagrindžiama būtinybė parduoti energetikos objektą energetikos įmonei ir kartu pateikiama energetikos objekto turto vertinimo ataskaita. Asmenys, patikėjimo teise valdę valstybei ar savivaldybei nuosavybės teise priklausančius energetikos objektus, už šių objektų pardavimą gautas lėšas, atskaitę parduotų objektų vertės nustatymo paslaugas įsigyjant patirtas išlaidas, atitinkamai perveda į valstybės ar savivaldybės biudžetą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
+ 
 
 
 
@@ -3250,3 +3402,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 5, 6, 8, 16, 36 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 25, 30 ir 37 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 21, 23 ir 24 straipsnių pakeitimo įstatymas
