@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2017-03-31 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-04-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -194,6 +194,14 @@ Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
 26. Administracinių ir viešųjų paslaugų stebėsenos rodiklis – vidaus reikalų ministro nustatyta tvarka apskaičiuotas viešojo administravimo subjektų teikiamos ir (arba) administruojamos administracinės ir viešosios paslaugos įvertis, kuriuo remiantis analizuojama paslaugos teikimo kokybė pagal pasirinktus parametrus (paslaugos teikimo kainą, trukmę, finansines sąnaudas ir kita). 
 Papildyta straipsnio dalimi:
 Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
+27. Kontrolinis pirkimas – prekių ir (ar) paslaugų pirkimas, vykdomas atliekant ūkio subjekto veiklos neplaninį patikrinimą, kurio tikslas – nustatyti, ar ūkio subjektas parduoda prekes ir (ar) teikia paslaugas laikydamasis teisės aktų nustatytų reikalavimų.
+Papildyta straipsnio dalimi:
+Nr. XIII-392, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09671
  
 
 
@@ -1605,7 +1613,10 @@ Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
 
 
 
-11. Ūkio subjekto veiklos neplaninis patikrinimas atliekamas priežiūrą atliekančio subjekto iniciatyva, kai priežiūrą atliekančio subjekto vadovas ar jo įgaliotas asmuo arba reikiamus įgaliojimus turinti priežiūrą atliekančio subjekto kolegiali institucija priima motyvuotą sprendimą atlikti šį patikrinimą. Neplaninis patikrinimas turi atitikti neplaninių patikrinimų taisykles ir turi būti atliekamas šio straipsnio 12 dalyje nurodytu pagrindu. Priežiūrą atliekantis subjektas, pradėdamas ūkio subjekto neplaninį patikrinimą, pateikia tikrinamam ūkio subjektui teisės aktų nustatyta tvarka patvirtintą sprendimo atlikti neplaninį patikrinimą kopiją. 
+11. Ūkio subjekto veiklos neplaninis patikrinimas atliekamas priežiūrą atliekančio subjekto iniciatyva, kai priežiūrą atliekančio subjekto vadovas ar jo įgaliotas asmuo arba reikiamus įgaliojimus turinti priežiūrą atliekančio subjekto kolegiali institucija priima motyvuotą sprendimą atlikti šį patikrinimą. Neplaninis patikrinimas turi atitikti neplaninių patikrinimų taisykles ir turi būti atliekamas šio straipsnio 12 dalyje nurodytu pagrindu. Priežiūrą atliekantis subjektas, pradėdamas ūkio subjekto veiklos neplaninį patikrinimą, pateikia tikrinamam ūkio subjektui teisės aktų nustatyta tvarka patvirtintą sprendimo atlikti neplaninį patikrinimą kopiją. Įstatymų nustatytais atvejais kontroliniai pirkimai gali būti atliekami nepateikus ūkio subjektui teisės aktų nustatyta tvarka patvirtintos sprendimo atlikti neplaninį patikrinimą kopijos. Šiais atvejais teisės aktų nustatyta tvarka patvirtinta sprendimo atlikti neplaninį patikrinimą kopija ūkio subjektui turi būti pateikta iš karto po atlikto kontrolinio pirkimo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-392, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09671
+ 
 
 
 
@@ -2155,3 +2166,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2, 8, 36-1,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 3, 14, 14-1, 15, 16, 19, 22, 27, 28, 31, 34, 35, 37, 40 ir 41 straipsnių pakeitimo, Įstatymo papildymo 17-1 straipsniu, 21, 23 ir 24 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-392, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09671
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2 ir 36-4 straipsnių pakeitimo įstatymas
