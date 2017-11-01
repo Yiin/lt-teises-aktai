@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2016-07-15 iki 2017-10-31
+Suvestinė redakcija nuo 2017-11-01 iki 2018-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -681,6 +681,14 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 11) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
 
 
+
+
+
+
+11. Valstybinė atominės energetikos saugos inspekcija kartu su Sveikatos apsaugos ministerija, suderinę su Vidaus reikalų ministerija, tvirtina aprašą, kuriuo nustatoma branduolinės energetikos objektų, esančių Lietuvos Respublikoje ir kaimyninėse valstybėse, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir veiklos su jonizuojančiosios spinduliuotės šaltiniais pavojų įvertinimo tvarka, skirta avarinės parengties kategorijoms, avarijų klasėms, avarinės parengties zonoms ir avarinio planavimo atstumams nustatyti pasirengiant branduoliniams ir radiologiniams incidentams bei branduolinėms ir radiologinėms avarijoms. 
+Papildyta straipsnio dalimi:
+Nr. XIII-656, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16014
+ 
 
 
 
@@ -1909,3 +1917,8 @@ Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 6, 7, 7-1, 8,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2551, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19357
 Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 7 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-656, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16014
+Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 7-1 straipsnio pakeitimo įstatymas
