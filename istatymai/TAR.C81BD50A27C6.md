@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-11-10
+Suvestinė redakcija nuo 2017-11-11 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -812,7 +812,10 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-15 straipsnis. LNSS biudžetinių ir viešųjų įstaigų, jų padalinių, filialų vadovų ir sveikatos priežiūros specialistų priėmimo į darbą tvarka
+15 straipsnis. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, jų padalinių, filialų vadovų ir sveikatos priežiūros specialistų priėmimo į darbą ir atleidimo iš darbo tvarka 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+ 
 
 
 1. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, išskyrus įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų susirinkimas.
@@ -840,12 +843,26 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-6. Universitetų ligoninių sveikatos priežiūros specialistai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. LNSS biudžetinių ir viešųjų įstaigų ar jų filialų ir padalinių vadovai bei šių įstaigų sveikatos priežiūros specialistai į darbą priimami ir iš darbo atleidžiami Darbo kodekso nustatyta tvarka ir pagrindais.
+6. Universitetų ligoninių sveikatos priežiūros specialistai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+ 
 
 
 
 
-7. Šio straipsnio 1–5 dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.
+7. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų ar jų filialų ir padalinių vadovai bei šių įstaigų sveikatos priežiūros specialistai į darbą priimami ir iš darbo atleidžiami Darbo kodekso nustatyta tvarka ir pagrindais. Su LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovais, be Darbo kodekse nustatytų darbo sutarties pasibaigimo pagrindų, darbo sutartis nutraukiama LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos savininko teises ir pareigas įgyvendinančiai institucijai arba visuotiniam dalininkų susirinkimui priėmus sprendimą atšaukti įstaigos vadovą steigimo dokumentuose nustatyta tvarka ir dėl steigimo dokumentuose nurodytų priežasčių. 
+Papildyta straipsnio dalimi:
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+ 
+
+
+
+
+8. Šio straipsnio 1–5 dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+ 
 
 
 Straipsnio pakeitimai:
@@ -1095,7 +1112,10 @@ Biudžetinių įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavim
 22 straipsnis. Biudžetinių įstaigų valdymo, veiklos ir lėšų naudojimo ypatumai
 
 
-1. Biudžetinių įstaigų valdymo organų sudarymo tvarką, kompetenciją, funkcijas ir atsakomybę nustato Biudžetinių įstaigų nuostatai. Biudžetinės įstaigos valdymo organas yra administracija, kuri valdo įstaigą jos nuostatuose nustatyta tvarka. Biudžetinėje įstaigoje gali būti sudaromi kolegialūs valdymo organai, kurių nuostatus tvirtina įstaigos administracijos vadovas.
+1. Biudžetinių įstaigų valdymo organų sudarymo ir atšaukimo tvarką, kompetenciją, funkcijas ir atsakomybę nustato Biudžetinių įstaigų nuostatai. Biudžetinės įstaigos valdymo organas yra administracija, kuri valdo įstaigą jos nuostatuose nustatyta tvarka. Biudžetinėje įstaigoje gali būti sudaromi kolegialūs valdymo organai, kurių nuostatus tvirtina įstaigos administracijos vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+ 
 
 
 
@@ -1440,7 +1460,10 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 
 
 
-8) viešo konkurso administracijos, padalinių, filialų vadovų priėmimo į darbą organizavimo ir sveikatos priežiūros specialistų priėmimo į darbą tvarka;
+8) viešo konkurso administracijos, padalinių, filialų vadovų priėmimo į darbą organizavimo ir sveikatos priežiūros specialistų priėmimo į darbą tvarka, administracijos vadovo atšaukimo iš pareigų pagrindai ir tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+ 
 
 
 
@@ -3038,3 +3061,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-136, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29840
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 straipsnio pakeitimo įstatymo Nr. XII-2468 2 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15, 22 ir 29 straipsnių pakeitimo įstatymas
