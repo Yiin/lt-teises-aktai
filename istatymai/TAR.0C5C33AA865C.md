@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2017-07-17 iki 2017-11-16
+Suvestinė redakcija nuo 2017-11-17
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -57,216 +57,210 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Buitinis gamtinių dujų vartotojas (toliau – buitinis vartotojas) – fizinis asmuo, perkantis gamtines dujas asmeninėms, šeimos ar namų ūkio reikmėms, nesusijusioms su ūkine komercine ar profesine veikla. 
+1. Buitinis gamtinių dujų vartotojas (toliau – buitinis vartotojas) – fizinis asmuo, perkantis gamtines dujas asmeninėms, šeimos ar namų ūkio reikmėms, nesusijusioms su ūkine komercine ar profesine veikla. 
 
 
 
 
-2. Didmeninis gamtinių dujų vartotojas (toliau – didmeninis vartotojas) – asmuo, išskyrus perdavimo sistemos operatorių ar skirstymo sistemos operatorių, perkantis gamtines dujas perparduoti.
+2. Didmeninis gamtinių dujų vartotojas (toliau – didmeninis vartotojas) – asmuo, išskyrus perdavimo sistemos operatorių ar skirstymo sistemos operatorių, perkantis gamtines dujas perparduoti.
 
 
 
 
-3. Energetikos reguliavimo institucijų bendradarbiavimo agentūra – agentūra, įkurta 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 713/2009, įsteigiančiu Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1).
+3. Energetikos reguliavimo institucijų bendradarbiavimo agentūra – agentūra, įkurta 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 713/2009, įsteigiančiu Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1).
 
 
 
 
-4. Gamtinės dujos – iš žemės gelmių išgaunamų angliavandenilių mišinys, kuris normaliomis sąlygomis yra dujinės būsenos, taip pat suskystintos gamtinės dujos, biodujos, dujos, pagamintos iš biomasės, ir kitos nustatytus reikalavimus atitinkančios dujos, kurios gali būti tiekiamos į gamtinių dujų sistemą arba ja transportuojamos.
+4. Gamtinės dujos – iš žemės gelmių išgaunamų angliavandenilių mišinys, kuris normaliomis sąlygomis yra dujinės būsenos, taip pat SGD, biodujos, dujos, pagamintos iš biomasės, ir kitos nustatytus reikalavimus atitinkančios dujos, kurios gali būti tiekiamos į gamtinių dujų sistemą arba ja transportuojamos.
 
 
 
 
-5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta Lietuvos Respublikos energijos išteklių rinkos įstatyme, Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
- 
+5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta Lietuvos Respublikos energijos išteklių rinkos įstatyme, Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.
 
 
 
 
-6. Gamtinių dujų gavybos tinklas (toliau – gavybos tinklas) – vamzdynas ar vamzdynų tinklas, eksploatuojamas ir (arba) įrengtas kaip naftos ar gamtinių dujų gavybos objekto dalis arba naudojamas gamtinėms dujoms perduoti iš vieno ar kelių tokių objektų į perdirbimo gamyklą, galutinį pakrantės terminalą arba kitą terminalą.
+6. Gamtinių dujų gavybos tinklas (toliau – gavybos tinklas) – vamzdynas ar vamzdynų tinklas, eksploatuojamas ir (arba) įrengtas kaip naftos ar gamtinių dujų gavybos objekto dalis arba naudojamas gamtinėms dujoms perduoti iš vieno ar kelių tokių objektų į perdirbimo gamyklą, galutinį pakrantės terminalą arba kitą terminalą.
 
 
 
 
-7. Gamtinių dujų įmonė – asmuo, kuris verčiasi bent viena iš šių veiklos rūšių: gamtinių dujų gavyba, perdavimu, skirstymu, skystinimu, tiekimu ir laikymu ir yra atsakingas už susijusius su šių rūšių veikla komercinius, techninius ir (arba) eksploatavimo įpareigojimus.
+7. Gamtinių dujų įmonė – asmuo, kuris verčiasi bent viena iš šių rūšių veikla: gamtinių dujų gavyba, perdavimu, skirstymu, skystinimu, tiekimu, laikymu, SGD pakartotiniu dujinimu ir SGD perkrova, ir yra atsakingas už susijusius su šių rūšių veikla komercinius, techninius ir (arba) eksploatavimo įpareigojimus.
 
 
 
 
-8. Gamtinių dujų įmonių paslaugos – gamtinių dujų įmonių teikiamos paslaugos sistemos naudotojams ir gamtinių dujų vartotojams: gamtinių dujų perdavimas, skirstymas, skystinimas, laikymas, vartotojų sistemų prijungimas, balansavimas ar kitos su gamtinėmis dujomis susijusios paslaugos.
+8. Gamtinių dujų įmonių paslaugos – gamtinių dujų įmonių teikiamos paslaugos sistemos naudotojams ir gamtinių dujų vartotojams: gamtinių dujų perdavimas, skirstymas, skystinimas, laikymas, tiekimas, garantinis tiekimas, SGD pakartotinis dujinimas, vartotojų sistemų prijungimas, balansavimas ar kitos su gamtinėmis dujomis susijusios papildomos paslaugos, būtinos naudojantis perdavimo sistema, skirstymo sistema, SGD saugyklomis ir (arba) SGD sistema (išskyrus įrenginius, skirtus vien tik perdavimo sistemos operatoriams, atliekantiems savo funkcijas) ir jas eksploatuojant, įskaitant apkrovos balansavimo, gamtinių dujų maišymo, inertinių gamtinių dujų įleidimo paslaugas ir SGD perkrovą.
 
 
 
 
-9. Gamtinių dujų kainų reguliavimo periodas – penkerių metų laikotarpis, kuriam yra nustatoma reguliuojamos gamtinių dujų kainos viršutinė riba ir principai, kuriais remiantis šios kainos viršutinė riba gali būti koreguojama iki reguliavimo periodo pabaigos.
+9. Gamtinių dujų kainų reguliavimo periodas – penkerių metų laikotarpis, kuriam yra nustatoma reguliuojamos gamtinių dujų kainos viršutinė riba ir principai, kuriais remiantis šios kainos viršutinė riba gali būti koreguojama iki reguliavimo periodo pabaigos.
 
 
 
 
-10. Gamtinių dujų laikymas – gamtinių dujų sandėliavimas gamtinių dujų saugykloje.
+10. Gamtinių dujų laikymas – gamtinių dujų sandėliavimas gamtinių dujų saugykloje.
 
 
 
 
-11. Gamtinių dujų laikymas vamzdyne – suslėgtų gamtinių dujų laikymas jų perdavimo ir skirstymo sistemoje, išskyrus laikymą įrenginiuose, skirtuose perdavimo sistemos operatoriams, atliekantiems savo funkcijas.
+11. Gamtinių dujų laikymas vamzdyne – suslėgtų gamtinių dujų laikymas jų perdavimo ir skirstymo sistemoje, išskyrus laikymą įrenginiuose, skirtuose perdavimo sistemos operatoriams, atliekantiems savo funkcijas.
 
 
 
 
-12. Gamtinių dujų laikymo sistemos operatorius (toliau – laikymo sistemos operatorius) – asmuo, kuris verčiasi gamtinių dujų laikymo veikla ir yra atsakingas už gamtinių dujų saugyklos eksploatavimą.
+12. Gamtinių dujų laikymo sistemos operatorius (toliau – laikymo sistemos operatorius) – asmuo, kuris verčiasi gamtinių dujų laikymo veikla ir yra atsakingas už gamtinių dujų saugyklos eksploatavimą.
 
 
 
 
-13. Gamtinių dujų perdavimas (toliau – perdavimas) – gamtinių dujų transportavimas, išskyrus tiekimą, sistema, kurią paprastai sudaro aukšto slėgio vamzdynai, išskyrus gavybos tinklą ir aukšto slėgio vamzdynų dalį, daugiausia naudojamą paskirstyti gamtines dujas vietoje, siekiant pristatyti jas gamtinių dujų vartotojams.
+13. Gamtinių dujų perdavimas (toliau – perdavimas) – gamtinių dujų transportavimas, išskyrus tiekimą, sistema, kurią paprastai sudaro aukšto slėgio vamzdynai, išskyrus gavybos tinklą ir aukšto slėgio vamzdynų dalį, daugiausia naudojamą gamtinėms dujoms paskirstyti vietoje, siekiant pristatyti jas gamtinių dujų vartotojams.
 
 
 
 
-14. Gamtinių dujų perdavimo sistema (toliau – perdavimo sistema) – aukšto slėgio vamzdynai ir įrenginiai, įskaitant gamtinių dujų skirstymo stotis, dujoms iš įmonių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat statiniai ir priemonės šiems vamzdynams veikti. Perdavimo sistema taip pat vadinama magistraliniu dujotiekiu.
+14. Gamtinių dujų perdavimo sistema (toliau – perdavimo sistema) – aukšto slėgio vamzdynai ir įrenginiai, įskaitant gamtinių dujų skirstymo stotis, dujoms iš įmonių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat statiniai ir priemonės šiems vamzdynams veikti. Perdavimo sistema taip pat vadinama magistraliniu dujotiekiu.
 
 
 
 
-15. Gamtinių dujų perdavimo sistemos operatorius (toliau – perdavimo sistemos operatorius) – asmuo, kuris licencijoje nurodytoje teritorijoje verčiasi gamtinių dujų perdavimo veikla ir yra atsakingas už šių dujų perdavimo sistemos eksploatavimą, techninės priežiūros užtikrinimą, prireikus – už jos plėtrą konkrečioje teritorijoje ir sujungimą su kitomis sistemomis bei už tai, kad būtų užtikrintas ilgalaikis sistemos pajėgumas patenkinti pagrįstus gamtinių dujų transportavimo poreikius.
+15. Gamtinių dujų perdavimo sistemos operatorius (toliau – perdavimo sistemos operatorius) – asmuo, kuris licencijoje nurodytoje teritorijoje verčiasi gamtinių dujų perdavimo veikla ir yra atsakingas už šių dujų perdavimo sistemos eksploatavimą, techninės priežiūros užtikrinimą, prireikus – už jos plėtrą konkrečioje teritorijoje ir sujungimą su kitomis sistemomis, taip pat už tai, kad būtų užtikrintas ilgalaikis sistemos pajėgumas patenkinti pagrįstus gamtinių dujų transportavimo poreikius.
 
 
 
 
-16. Gamtinių dujų perdavimo sistemos savininkas – asmuo, kuriam nuosavybės teise priklauso gamtinių dujų perdavimo sistema (magistralinis dujotiekis). 
+16. Gamtinių dujų perdavimo sistemos savininkas – asmuo, kuriam nuosavybės teise priklauso gamtinių dujų perdavimo sistema (magistralinis dujotiekis).
 
 
 
 
-17. Gamtinių dujų perdavimo sistemos valdytojas – asmuo, kuris valdo gamtinių dujų perdavimo sistemą (magistralinį dujotiekį) kitais negu nuosavybės teisė teisėtais pagrindais.
+17. Gamtinių dujų perdavimo sistemos valdytojas – asmuo, kuris valdo gamtinių dujų perdavimo sistemą (magistralinį dujotiekį) kitais negu nuosavybės teisė teisėtais pagrindais.
 
 
 
 
-18. Gamtinių dujų pristatymo vieta – vieta, kurioje baigiasi gamtinių dujų perdavimas magistraliniu dujotiekiu ar skirstymas skirstomuoju dujotiekiu ir kurioje perdavimo ar skirstymo sistemos operatorius pateikia gamtines dujas sistemos naudotojui ar gamtinių dujų vartotojui.
+18. Gamtinių dujų pristatymo vieta – vieta, kurioje baigiasi gamtinių dujų perdavimas perdavimo sistema (magistraliniu dujotiekiu) ar skirstymas skirstomuoju dujotiekiu ir kurioje perdavimo ar skirstymo sistemos operatorius pateikia gamtines dujas sistemos naudotojui ar gamtinių dujų vartotojui.
 
 
 
 
-19. Gamtinių dujų rinka – asmenų, vykdančių gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą, skystinimą ir laikymą, santykių visuma, apimanti didmeninę ir mažmeninę prekybą gamtinėmis dujomis, paslaugų teikimą ir pagrįsta teisėtumo ir lygiateisiškumo principais bei reguliuojamojo trečiųjų asmenų dalyvavimo transportuojant gamtines dujas principu.
+19. Gamtinių dujų rinka – asmenų, vykdančių gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą, skystinimą, laikymą, SGD pakartotinį dujinimą ir SGD perkrovą, santykių visuma, apimanti didmeninę ir mažmeninę prekybą gamtinėmis dujomis, paslaugų teikimą ir pagrįsta teisėtumo ir lygiateisiškumo principais bei trečiųjų šalių prieigos principu.
 
 
 
 
-20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. 
+20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis.
 
 
 
 
-21. Gamtinių dujų rinkos operatorius (toliau – rinkos operatorius) – asmuo, organizuojantis prekybą gamtinėmis dujomis gamtinių dujų biržoje ir turintis šios veiklos licenciją.
+21. Gamtinių dujų rinkos operatorius (toliau – rinkos operatorius) – asmuo, organizuojantis prekybą gamtinėmis dujomis gamtinių dujų biržoje ir turintis šios veiklos licenciją.
 
 
 
 
-22. Gamtinių dujų saugykla (toliau – saugykla) – gamtinių dujų įmonei nuosavybės teise priklausantis ir (arba) jos eksploatuojamas įrenginys gamtinėms dujoms laikyti, įskaitant įrenginius suskystintoms gamtinėms dujoms laikyti, išskyrus tuos įrenginius ar įrenginių dalį, kurie naudojami gavybos operacijoms vykdyti, ir įrenginius, skirtus vien tik perdavimo sistemos operatoriams, atliekantiems savo funkcijas. 
+22. Gamtinių dujų saugykla (toliau – saugykla) – gamtinių dujų įmonei nuosavybės teise priklausantis ir (arba) jos eksploatuojamas įrenginys gamtinėms dujoms laikyti, įskaitant įrenginius SGD laikyti, išskyrus tuos įrenginius ar įrenginių dalį, kurie naudojami gamtinių dujų gavybos operacijoms, SGD pakartotiniam dujinimui, mažos apimties SGD pakartotiniam dujinimui ir (arba) SGD perkrovai vykdyti, ir įrenginius, skirtus vien tik perdavimo sistemos operatoriams, atliekantiems savo funkcijas.
 
 
 
 
-23. Gamtinių dujų sektorius – energetikos sritis, apimanti gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą, didmeninę ir mažmeninę prekybą, skystinimą, laikymą ir tranzitą.
+23. Gamtinių dujų sektorius – energetikos sritis, apimanti gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą, didmeninę ir mažmeninę prekybą, skystinimą, laikymą, tranzitą, SGD pakartotinį dujinimą ir SGD perkrovą.
 
 
 
 
-24. Gamtinių dujų sistema – gamtinių dujų įmonei nuosavybės teise priklausantys ir (ar) gamtinių dujų įmonės valdomi magistraliniai dujotiekiai, skirstomieji dujotiekiai, suskystintų gamtinių dujų įrenginiai ir (arba) gamtinių dujų saugyklos, gamtinių dujų laikymo vamzdyne įrenginiai ir įrenginiai papildomoms paslaugoms teikti bei susijusių įmonių įrenginiai, kurie reikalingi suteikiant teisę naudotis perdavimo, skirstymo ir suskystintų gamtinių dujų sistema.
+24. Gamtinių dujų sistema – gamtinių dujų įmonei nuosavybės teise priklausantys ir (ar) gamtinių dujų įmonės valdomi magistraliniai dujotiekiai, skirstomieji dujotiekiai, SGD sistema ir (arba) gamtinių dujų saugyklos, gamtinių dujų laikymo vamzdyne įrenginiai ir įrenginiai papildomoms paslaugoms teikti bei susijusių įmonių įrenginiai, kurie reikalingi suteikiant teisę naudotis perdavimo, skirstymo ir SGD sistema.
 
 
 
 
-25. Gamtinių dujų sistemos balansavimas (toliau – sistemos balansavimas) – pristatomo ir paimamo gamtinių dujų kiekio perdavimo ir (ar) skirstymo sistemose išlyginimas.
+25. Gamtinių dujų sistemos balansavimas (toliau – sistemos balansavimas) – pristatomo ir paimamo gamtinių dujų kiekio perdavimo ir (ar) skirstymo sistemose išlyginimas.
 
 
 
 
-26. Gamtinių dujų sistemos naudotojas (toliau – sistemos naudotojas) – su gamtinių dujų sistemos operatoriumi sudaręs sutartį asmuo, kuris tiekia gamtines dujas į sistemą arba kuriam jos tiekiamos iš sistemos.
+26. Gamtinių dujų sistemos naudotojas (toliau – sistemos naudotojas) – su gamtinių dujų sistemos operatoriumi sudaręs sutartį asmuo, kuris tiekia gamtines dujas į sistemą arba kuriam jos tiekiamos iš sistemos.
 
 
 
 
-27. Gamtinių dujų sistemos pajėgumai (toliau – sistemos pajėgumai) – didžiausias gamtinių dujų srautas, kuris išreiškiamas kubiniais metrais per laiko vienetą arba energijos vienetu per laiko vienetą ir kuriuo gamtinių dujų sistemos naudotojas turi teisę naudotis pagal gamtinių dujų perdavimo ir (ar) skirstymo sutarties nuostatas.
+27. Gamtinių dujų sistemos pajėgumai (toliau – sistemos pajėgumai) – didžiausias gamtinių dujų srautas, kuris išreiškiamas kubiniais metrais per laiko vienetą arba energijos vienetu per laiko vienetą ir kuriuo gamtinių dujų sistemos naudotojas turi teisę naudotis pagal gamtinių dujų perdavimo ir (ar) skirstymo sutarties nuostatas.
 
 
 
 
-28. Gamtinių dujų skirstymas (toliau – skirstymas) – gamtinių dujų transportavimas skirstomuoju dujotiekiu siekiant pristatyti jas gamtinių dujų vartotojams, išskyrus tiekimą.
+28. Gamtinių dujų skirstymas (toliau – skirstymas) – gamtinių dujų transportavimas skirstomuoju dujotiekiu siekiant pristatyti jas gamtinių dujų vartotojams, išskyrus tiekimą.
 
 
 
 
-29. Gamtinių dujų skirstymo sistema (toliau – skirstymo sistema) – žemo slėgio vamzdynai gamtinėms dujoms iš magistralinio dujotiekio gamtinių dujų skirstymo stočių pristatyti iki gamtinių dujų vartotojo sistemų, taip pat statiniai, įrenginiai ir priemonės šiems vamzdynams veikti. Gamtinių dujų skirstymo sistema taip pat vadinama skirstomuoju dujotiekiu.
+29. Gamtinių dujų skirstymo sistema (toliau – skirstymo sistema) – vamzdynai gamtinėms dujoms iš magistralinio dujotiekio gamtinių dujų skirstymo stočių arba iš mažos apimties SGD pakartotinio dujinimo įrenginių pristatyti iki gamtinių dujų vartotojo sistemų, taip pat statiniai, įrenginiai, mažos apimties SGD pakartotinio dujinimo įrenginiai ir priemonės šiems vamzdynams veikti. Gamtinių dujų skirstymo sistema taip pat vadinama skirstomuoju dujotiekiu.
 
 
 
 
-30. Gamtinių dujų skirstymo sistemos operatorius (toliau – skirstymo sistemos operatorius) – asmuo, kuris licencijoje nurodytoje teritorijoje verčiasi gamtinių dujų skirstymo veikla ir yra atsakingas už gamtinių dujų skirstymo sistemos eksploatavimą, techninės priežiūros užtikrinimą, prireikus – už jos plėtrą konkrečioje teritorijoje, sujungimą su kitomis sistemomis, taip pat už ilgalaikio sistemos pajėgumo užtikrinimą, pagrįstą gamtinių dujų skirstymo paklausa.
+30. Gamtinių dujų skirstymo sistemos operatorius (toliau – skirstymo sistemos operatorius) – asmuo, kuris licencijoje nurodytoje teritorijoje verčiasi gamtinių dujų skirstymo veikla ir yra atsakingas už gamtinių dujų skirstymo sistemos eksploatavimą, techninės priežiūros užtikrinimą, prireikus – už jos plėtrą konkrečioje teritorijoje, sujungimą su kitomis sistemomis, taip pat už ilgalaikio sistemos pajėgumo užtikrinimą, pagrįstą gamtinių dujų skirstymo paklausa.
 
 
 
 
-31. Gamtinių dujų skystinimas (toliau – skystinimas) – gamtinių dujų vertimas skysčiu, taip pat suskystintų gamtinių dujų priėmimas, laikymas ir dujinimas.
+31. Gamtinių dujų skystinimas (toliau – skystinimas) – procesas, kai gamtinės dujos priimamos, laikomos ir verčiamos į skystą formą.
 
 
 
 
-32. Gamtinių dujų tiekimas (toliau – tiekimas) – gamtinių dujų pardavimas ir (ar) perpardavimas gamtinių dujų vartotojams. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
- 
+32. Gamtinių dujų tiekimas (toliau – tiekimas) – gamtinių dujų pardavimas ir (ar) perpardavimas gamtinių dujų vartotojams.
 
 
 
 
-33. Gamtinių dujų tiekimo įmonė (toliau – tiekimo įmonė) – asmuo, kuris verčiasi gamtinių dujų tiekimo veikla.
+33. Gamtinių dujų tiekimo įmonė (toliau – tiekimo įmonė) – asmuo, kuris verčiasi gamtinių dujų tiekimo veikla.
 
 
 
 
-34. Gamtinių dujų tiekimo rinkos dalis – asmens ar susijusių asmenų grupės perkamo ar parduodamo gamtinių dujų kiekio procentinis santykis su bendru perkamu ar parduodamu gamtinių dujų kiekiu atitinkamoje rinkoje.
+34. Gamtinių dujų tiekimo rinkos dalis – asmens ar susijusių asmenų grupės perkamo ar parduodamo gamtinių dujų kiekio procentinis santykis su bendru perkamu ar parduodamu gamtinių dujų kiekiu atitinkamoje rinkoje.
 
 
 
 
-35. Gamtinių dujų tiekimo saugumas (toliau – tiekimo saugumas) – gamtinių dujų tiekimo patikimumas ir techninis saugumas.
+35. Gamtinių dujų tiekimo saugumas (toliau – tiekimo saugumas) – gamtinių dujų tiekimo patikimumas ir techninis saugumas.
 
 
 
 
-36. Gamtinių dujų tiekimo sutartis (toliau – tiekimo sutartis) – sutartis dėl gamtinių dujų tiekimo, išskyrus sutartis dėl gamtinių dujų rinkos finansinių priemonių.
+36. Gamtinių dujų tiekimo sutartis (toliau – tiekimo sutartis) – sutartis dėl gamtinių dujų tiekimo, išskyrus sutartis dėl gamtinių dujų rinkos finansinių priemonių.
 
 
 
 
-37. Gamtinių dujų tranzitas – gamtinių dujų, kilusių iš trečiosios valstybės ir skirtų tai ir (ar) kitai trečiajai valstybei, transportavimas per Lietuvos Respublikos teritoriją.
+37. Gamtinių dujų tranzitas – gamtinių dujų, kilusių iš trečiosios valstybės ir skirtų tai ir (ar) kitai trečiajai valstybei, transportavimas per Lietuvos Respublikos teritoriją.
 
 
 
 
-38. Gamtinių dujų vartotojas (toliau – vartotojas) – asmuo, perkantis gamtines dujas.
+38. Gamtinių dujų vartotojas (toliau – vartotojas) – asmuo, perkantis gamtines dujas.
 
 
 
 
-39. Garantinis gamtinių dujų tiekimas (toliau – garantinis tiekimas) – vartotojams užtikrinamas gamtinių dujų tiekimas, teikiant viešuosiuos interesus atitinkančias paslaugas. 
+39. Garantinis gamtinių dujų tiekimas (toliau – garantinis tiekimas) – vartotojams užtikrinamas gamtinių dujų tiekimas, garantuojantis saugų, patikimą ir nepertraukiamą gamtinių dujų tiekimą, kai gamtinių dujų tiekimo įmonė nebegali užtikrinti šios pareigos įgyvendinimo.
 
 
 
 
-40. Horizontaliai integruota gamtinių dujų įmonė – įmonė ar įmonių grupė, kuri verčiasi bent viena iš šių veiklos rūšių – gamtinių dujų gavybos, perdavimo, skirstymo, tiekimo ar laikymo – ir kartu verčiasi kuria nors kita, su gamtinėmis dujomis nesusijusia veikla.
+40. Horizontaliai integruota gamtinių dujų įmonė – įmonė ar įmonių grupė, kuri verčiasi bent viena iš šių rūšių veikla: gamtinių dujų gavybos, perdavimo, skirstymo, tiekimo ar laikymo, ir kartu verčiasi kuria nors kita, su gamtinėmis dujomis nesusijusia veikla.
 
 
 
 
-41. Įmonės kontrolė – teisės, susitarimai ar kitos priemonės, kurios kiekviena atskirai ar visos kartu, atsižvelgiant į atitinkamas faktines ir (ar) teisines aplinkybes, suteikia galimybę daryti lemiamą poveikį įmonei, visų pirma naudojantis:
+41. Įmonės kontrolė – teisės, susitarimai ar kitos priemonės, kurios kiekviena atskirai ar visos kartu, atsižvelgiant į atitinkamas faktines ir (ar) teisines aplinkybes, suteikia galimybę daryti lemiamą poveikį įmonei, visų pirma naudojantis:
 
 
 1) nuosavybės teise arba teise naudotis visu įmonės turtu ar jo dalimi;
@@ -281,205 +275,148 @@ Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
 
 
 
-42. Integruota gamtinių dujų įmonė – vertikaliai ar horizontaliai integruota įmonė ar įmonių grupė.
+42. Integruota gamtinių dujų įmonė – vertikaliai ar horizontaliai integruota įmonė ar įmonių grupė.
 
 
 
 
-43. Įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutartis – gamtinių dujų tiekimo (pirkimo–pardavimo) sutartis, kurios viena pagrindinių sąlygų yra įsipareigojimas mokėti už numatytas pirkti, bet nepaimtas gamtines dujas. Įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutartis dar vadinama sutartimi „imk arba mokėk“.
+43. Įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutartis – gamtinių dujų tiekimo sutartis, kurios viena pagrindinių sąlygų yra įsipareigojimas mokėti už numatytas pirkti, bet nepaimtas gamtines dujas. Įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutartis dar vadinama sutartimi „imk arba mokėk“.
 
 
 
 
-44. Jungiamasis gamtinių dujų vamzdynas (toliau – jungiamasis vamzdynas) – valstybių narių sienas kertantis ar tarp valstybių narių nutiestas gamtinių dujų perdavimo vamzdynas, kurio paskirtis – sujungti tų valstybių narių nacionalines gamtinių dujų perdavimo sistemas.
+44. Jungiamasis gamtinių dujų vamzdynas (toliau – jungiamasis vamzdynas) – valstybių narių sienas kertantis ar tarp valstybių narių nutiestas gamtinių dujų perdavimo vamzdynas, kurio paskirtis – sujungti tų valstybių narių nacionalines gamtinių dujų perdavimo sistemas.
 
 
 
 
-45. Jungtinė gamtinių dujų sistema (toliau – jungtinė sistema) – keletas viena su kita sujungtų gamtinių dujų sistemų, neįskaitant vartotojų sistemų.
-
-
-
-
-451. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektas – visuma teisės aktų nustatytų dokumentų, kuriuose pateikiami mažo ir (ar) vidutinio slėgio dujotiekių ir jų įrengimo sprendiniai. 
-Papildyta straipsnio dalimi:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
- 
-
-
-
-
-452. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys Lietuvos Respublikos gamtinių dujų įstatymo nustatytą teisę įrengti mažo ir (ar) vidutinio slėgio dujotiekius. 
-Papildyta straipsnio dalimi:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
- 
-
-
-
-
-453. Mažo ir (ar) vidutinio slėgio dujotiekių projektuotojas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys Lietuvos Respublikos gamtinių dujų įstatymo nustatytą teisę projektuoti mažo ir (ar) vidutinio slėgio dujotiekius. 
-Papildyta straipsnio dalimi:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
- 
-
-
-
-
-454. Mažo ir (ar) vidutinio slėgio dujotiekių užsakovas (toliau – užsakovas) – Lietuvos Respublikos ar kitos valstybės narės, taip pat trečiosios šalies fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, užsakantys mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo paslaugas. 
-Papildyta straipsnio dalimi:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
- 
-
-
-
-
-455. Mažo slėgio dujotiekis – ne didesnio kaip 0,1 bar didžiausiojo darbinio dujų slėgio skirstymo sistemos, vartotojo sistemos vamzdynai, taip pat įrenginiai ir priemonės šiems vamzdynams veikti. 
-Papildyta straipsnio dalimi:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
- 
+45. Jungtinė gamtinių dujų sistema (toliau – jungtinė sistema) – keletas viena su kita sujungtų gamtinių dujų sistemų, neįskaitant vartotojų sistemų.
 
 
 
 
 46. Magistralinio dujotiekio vietovės klasė (toliau – vietovės klasė) – saugos kriterijus, kuriuo apibūdinamas magistralinio dujotiekio vamzdynas ir išilgai šio vamzdyno besitęsianti teritorija, esanti po 200 metrų į abi puses nuo jo ašies, ir pagal kurį nustatomi šioje teritorijoje taikomi užstatymo normatyvai (didžiausias leistinas pastatų ir jų aukštų skaičius, mažiausi leistini atstumai nuo magistralinio dujotiekio iki statinių ir kitų objektų, žemės ir vandens paviršiaus). 
-Papildyta straipsnio dalimi:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
 
 
 
 
-47. Magistralinio dujotiekio vietovės klasės vienetas (toliau – vietovės klasės vienetas) – bet kuri išilgai magistralinio dujotiekio vamzdyno besitęsiančios teritorijos atkarpa, esanti po 200 metrų į abi puses nuo magistralinio dujotiekio vamzdyno ašies ir besitęsianti 1 600 metrų išilgai magistralinio dujotiekio vamzdyno. 
-Papildyta straipsnio dalimi:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+47. Magistralinio dujotiekio vietovės klasės vienetas (toliau – vietovės klasės vienetas) – bet kuri išilgai magistralinio dujotiekio vamzdyno besitęsiančios teritorijos atkarpa, esanti po 200 metrų į abi puses nuo magistralinio dujotiekio vamzdyno ašies ir besitęsianti 1 600 metrų išilgai magistralinio dujotiekio vamzdyno.
 
 
 
 
-48. Nebuitinis gamtinių dujų vartotojas (toliau – nebuitinis vartotojas) – vartotojas, perkantis gamtines dujas naudoti ne savo namų ūkio reikmėms.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+48. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektas – visuma teisės aktų nustatytų dokumentų, kuriuose pateikiami mažo ir (ar) vidutinio slėgio dujotiekių ir jų įrengimo sprendiniai.
 
 
 
 
-49. Nedujofikuota teritorija – šalies teritorija, kurioje nėra įrengtų sistemų ir nė vienai gamtinių dujų įmonei nustatyta tvarka nėra išduota licencija verstis gamtinių dujų perdavimo ar skirstymo veikla.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+49. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys šiame įstatyme nustatytą teisę įrengti mažo ir (ar) vidutinio slėgio dujotiekius.
 
 
 
 
-50. Papildomos paslaugos – paslaugos, būtinos naudojantis perdavimo sistema, skirstymo sistema, suskystintų gamtinių dujų saugyklomis ir (arba) įrenginiais (išskyrus įrenginius, skirtus vien tik perdavimo sistemos operatoriams, atliekantiems savo funkcijas) ir juos eksploatuojant, įskaitant apkrovos balansavimo, maišymo ir inertinių dujų įleidimo paslaugas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+50. Mažo ir (ar) vidutinio slėgio dujotiekių projektuotojas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys šiame įstatyme nustatytą teisę projektuoti mažo ir (ar) vidutinio slėgio dujotiekius.
 
 
 
 
-51. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje. 
-Papildyta straipsnio dalimi:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+51. Mažo ir (ar) vidutinio slėgio dujotiekių užsakovas (toliau – užsakovas) – Lietuvos Respublikos ar kitos valstybės narės, taip pat trečiosios šalies fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, užsakantys mažo ir (ar) vidutinio slėgio dujotiekių projektavimo ir (ar) įrengimo paslaugas.
 
 
 
 
-52. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+52. Mažo slėgio dujotiekis – ne didesnio kaip 0,1 bar didžiausiojo darbinio dujų slėgio skirstymo sistemos, vartotojo sistemos vamzdynai, taip pat įrenginiai ir priemonės šiems vamzdynams veikti.
 
 
 
 
-53. Suskystintų gamtinių dujų sistema – terminalas gamtinėms dujoms skystinti, suskystintoms gamtinėms dujoms importuoti, priimti ir vėl joms dujinti, taip pat papildomoms paslaugoms teikti, įskaitant laikinąsias saugyklas, būtinas dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, tačiau išskyrus bet kurią suskystintų gamtinių dujų terminalų dalį, naudojamą gamtinėms dujoms laikyti. Suskystintų gamtinių dujų sistema (toliau – SGD sistema) dar vadinama suskystintų gamtinių dujų įrenginiais (toliau – SGD įrenginiai).
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+53. Mažos apimties suskystintų gamtinių dujų pakartotinio dujinimo įrenginys (toliau – mažos apimties SGD pakartotinio dujinimo įrenginys) – skirstymo sistemos įrenginys, skirtas SGD priimti, laikyti ir mažos apimties SGD pakartotiniam dujinimui atlikti.
 
 
 
 
-54. Suskystintų gamtinių dujų sistemos operatorius – asmuo, kuris verčiasi gamtinių dujų skystinimu arba suskystintų gamtinių dujų importu, priėmimu ir kartotiniu jų dujinimu ir yra atsakingas už suskystintų gamtinių dujų įrenginių eksploatavimą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+54. Mažos apimties suskystintų gamtinių dujų pakartotinis dujinimas (toliau – mažos apimties SGD pakartotinis dujinimas) – procesas, kai SGD verčiamos į dujinę formą mažos apimties SGD pakartotinio dujinimo įrenginyje vėlesniam pateikimui į skirstymo sistemą.
 
 
 
 
-55. Tiesioginis gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) – gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+55. Nebuitinis gamtinių dujų vartotojas (toliau – nebuitinis vartotojas) – vartotojas, perkantis gamtines dujas naudoti ne savo namų ūkio reikmėms.
 
 
 
 
-56. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas sistemos naudotojui.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+56. Nedujofikuota teritorija – šalies teritorija, kurioje nėra įrengtų sistemų ir nė vienai gamtinių dujų įmonei nustatyta tvarka nėra išduota licencija verstis gamtinių dujų perdavimo ar skirstymo veikla.
 
 
 
 
-561. Vidutinio slėgio dujotiekis – didesnio kaip 0,1 bar, bet ne didesnio kaip 5 bar didžiausiojo darbinio dujų slėgio skirstymo sistemos, vartotojo sistemos vamzdynai, taip pat įrenginiai ir priemonės šiems vamzdynams veikti. 
-Papildyta straipsnio dalimi:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
- 
+57. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje. 
 
 
 
 
-57. Vartotojo gamtinių dujų sistema (toliau – vartotojo sistema) – vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir įrenginiai gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai panaudoti vartotojo reikmėms.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+58. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
 
 
 
 
-58. Vertikaliai integruota gamtinių dujų įmonė (toliau – vertikaliai integruota įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš gamtinių dujų perdavimo, skirstymo, laikymo ar skystinimo sistemos funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+59. Suskystintų gamtinių dujų pakartotinis dujinimas (toliau – SGD pakartotinis dujinimas) – procesas, kai SGD priimamos, laikomos ir verčiamos į dujinę formą SGD terminale vėlesniam pateikimui į perdavimo sistemą.
 
 
 
 
-59. Vietinė gamtinių dujų bendrojo naudojimo sistema (toliau – vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem vartotojams.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+60. Suskystintų gamtinių dujų perkrova (toliau – SGD perkrova) – procesas, apimantis SGD krovą į SGD terminalą, jų laikiną laikymą SGD terminale ir SGD iškrovimą iš SGD terminalo į laivus, gabenančius SGD.
 
 
 
 
-60. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
+61. Suskystintų gamtinių dujų sistema (toliau – SGD sistema) – SGD terminalas gamtinėms dujoms skystinti arba SGD importuoti, priimti ir pakartotinai dujinti, įskaitant paslaugas ir SGD laikiną laikymą, būtinus pakartotinio dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, išskyrus bet kurią SGD terminalų dalį, naudojamą gamtinėms dujoms laikyti. 
+
+
+
+
+62. Suskystintų gamtinių dujų sistemos operatorius (toliau – SGD sistemos operatorius) – asmuo, kuris atlieka gamtinių dujų skystinimo arba SGD importo, priėmimo ir pakartotinio jų dujinimo funkciją ir yra atsakingas už SGD sistemos eksploatavimą.
+
+
+
+
+63. Tiesioginis gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) – gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
+
+
+
+
+64. Trečiosios šalies teisė naudotis sistema – prieigos suteikimas gamtinių dujų sistemos naudotojui.
+
+
+
+
+65. Vartotojo gamtinių dujų sistema (toliau – vartotojo sistema) – vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir įrenginiai, skirti gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai naudoti vartotojo reikmėms.
+
+
+
+
+66. Vertikaliai integruota gamtinių dujų įmonė (toliau – vertikaliai integruota įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš gamtinių dujų perdavimo, skirstymo, laikymo, skystinimo ar SGD pakartotinio dujinimo funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
+
+
+
+
+67. Vidutinio slėgio dujotiekis – didesnio kaip 0,1 bar, bet ne didesnio kaip 5 bar didžiausiojo darbinio dujų slėgio skirstymo sistemos, vartotojo sistemos vamzdynai, taip pat įrenginiai ir priemonės šiems vamzdynams veikti.
+
+
+
+
+68. Vietinė gamtinių dujų bendrojo naudojimo sistema (toliau – vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem vartotojams.
+
+
+
+
+69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose. 
+Straipsnio pakeitimai:
+Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 Straipsnio pakeitimai:
-Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
  
 
 
@@ -1012,7 +949,9 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 
 
 
-17. Gamtinių dujų įmonės buitiniams vartotojams tarifus nustato kas pusę metų. Buitiniams vartotojams nustatytą tarifą sudaro prognozuojamų gamtinių dujų (produkto), konkrečių perdavimo, skirstymo, laikymo, skystinimo, tiekimo kainų ir skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir faktinių gamtinių dujų (produkto) kainų suma. Gamtinių dujų įmonės konkrečius tarifus pateikia tvirtinti Komisijai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šiame straipsnyje nustatyta tvarka.
+17. Gamtinių dujų įmonės buitiniams vartotojams tarifus nustato kas pusę metų. Buitiniams vartotojams nustatytą tarifą sudaro prognozuojamų gamtinių dujų (produkto), įskaitant SGD pakartotinį dujinimą, SGD perkrovą ir gamtinių dujų pristatymą iki mažos apimties SGD pakartotinio dujinimo įrenginio, konkrečių perdavimo, skirstymo, laikymo, tiekimo, papildomos dedamosios kainų ir skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir faktinių gamtinių dujų (produkto) kainų suma. Gamtinių dujų įmonės konkrečius tarifus pateikia tvirtinti Komisijai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šiame straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
  
 
 
@@ -3824,3 +3763,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-555, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12058
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 28 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 pakeitimo įstatymas
