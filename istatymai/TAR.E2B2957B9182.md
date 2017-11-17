@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-11-16
+Suvestinė redakcija nuo 2017-11-17 iki 2017-11-23
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -3805,6 +3805,14 @@ SVEIKATINIMO VEIKLOS KOORDINAVIMO SUBJEKTAI
 
 
 
+21. Jeigu Taryba šio straipsnio 2 dalyje nustatyta tvarka neišrenka kandidato į Tarybos pirmininko pareigas per 5 mėnesius nuo Tarybos patvirtinimo, taip pat jeigu Seimas nepaskiria Tarybos išrinkto kandidato į Tarybos pirmininko pareigas du kartus iš eilės, sudaroma naujos sudėties Taryba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
+ 
+
+
+
+
 3. Tarybos pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui. Tarybos pirmininko įgaliojimai tęsiasi iki naujos sudėties Tarybos įgaliojimų pradžios.
 
 
@@ -5191,3 +5199,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-298, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06975
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 77 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas
