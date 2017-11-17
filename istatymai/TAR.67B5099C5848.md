@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-11-16
+Suvestinė redakcija nuo 2017-11-17 iki 2017-12-19
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -2639,7 +2639,10 @@ Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiški
 
 
 
-7. Advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, Seimo kontrolieriams, viešojo administravimo subjektams, valstybės ir savivaldybių įmonėms, finansų įstaigoms, draudimo įmonėms, teismo ekspertams, bankroto administratoriams ir restruktūrizavimo administratoriams teismas šaukimus ir pranešimus įteikia elektroninių ryšių priemonėmis. Be to, elektroninių ryšių priemonėmis teismo šaukimai ir pranešimai įteikiami asmenims, kuriems teisės aktuose ar su teismų informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga priimti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas šaukimus ir pranešimus įteikia elektroninių ryšių priemonėmis, jeigu jie pageidauja procesinius dokumentus gauti tokiu būdu ir yra nurodę gavėjo elektroninio pašto adresą arba kitą elektroninių ryšių priemonių adresą. Šaukimų, pranešimų ir kitų procesinių dokumentų įteikimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras.
+7. Advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, Seimo kontrolieriams, viešojo administravimo subjektams, valstybės ir savivaldybių įmonėms, finansų įstaigoms, draudimo ir audito įmonėms, teismo ekspertams, bankroto administratoriams ir restruktūrizavimo administratoriams teismas šaukimus ir pranešimus įteikia elektroninių ryšių priemonėmis. Be to, elektroninių ryšių priemonėmis teismo šaukimai ir pranešimai įteikiami asmenims, kuriems teisės aktuose ar su teismų informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga priimti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas šaukimus ir pranešimus įteikia elektroninių ryšių priemonėmis, jeigu jie pageidauja procesinius dokumentus gauti tokiu būdu ir yra nurodę gavėjo elektroninio pašto adresą arba kitą elektroninių ryšių priemonių adresą. Šaukimų, pranešimų ir kitų procesinių dokumentų įteikimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-716, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18148
+ 
 
 
 
