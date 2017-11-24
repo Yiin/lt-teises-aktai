@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-17 iki 2017-11-23
+Suvestinė redakcija nuo 2017-11-24 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -4535,72 +4535,18 @@ Nr. XI-2369, 2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
 
 
 
-80 straipsnis. Lietuvos bioetikos komitetas 
+80 straipsnis. Lietuvos bioetikos komitetas
 
 
-1. Lietuvos bioetikos komitetas yra biudžetinė įstaiga, išlaikoma iš valstybės biudžeto ir kitų valstybės pinigų fondų. Lietuvos bioetikos komiteto savininko teises ir pareigas įgyvendina Sveikatos apsaugos ministerija.
-
-
-
-
-2. Lietuvos bioetikos komitetas: 
-
-
-1) analizuoja bioetikos problemas ir konsultuoja valstybės ir savivaldybių institucijas, įstaigas, organizacijas bioetikos klausimais, teikia išvadas ir pasiūlymus dėl šiuos klausimus reglamentuojančių įstatymų ir kitų teisės aktų projektų; 
-
-
-
-
-2) išduoda leidimus atlikti biomedicininius tyrimus, išskyrus leidimus atlikti klinikinius vaistinio preparato tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, ir atlieka šių biomedicininių tyrimų etinę priežiūrą;
-
-
-
-
-3) išduoda pritarimo atlikti klinikinius vaistinio preparato tyrimus liudijimus ir atlieka šių tyrimų etinę priežiūrą;
-
-
-
-
-4) išduoda leidimus teikti biobankuose tvarkomus žmogaus biologinius ėminius ir (ar) sveikatos informaciją Biomedicininių tyrimų etikos įstatyme nurodytais atvejais;
-
-
-
-
-5) prižiūri regioninių biomedicininių tyrimų etikos komitetų veiklą;
-
-
-
-
-6) kiekvienais metais atsiskaito Sveikatos apsaugos ministerijai už savo veiklą ir teikia pasiūlymus dėl bioetikos problemų sprendimo;
-
-
-
-
-7) prižiūri, kaip sveikatos priežiūros specialistai ir įstaigos, teikiančios asmens ir visuomenės sveikatos priežiūros paslaugas, laikosi bioetikos reikalavimų;
-
-
-
-
-8) teikia metodinę paramą ir konsultuoja sveikatos priežiūros įstaigų medicinos etikos komisijas ir kitas institucijas bioetikos klausimais;
-
-
-
-
-9) pagal savo kompetenciją atstovauja Lietuvai tarptautinėse organizacijose;
-
-
-
-
-10) atlieka kitas Lietuvos bioetikos komiteto nuostatuose nustatytas funkcijas.
-
-
-
-
+Lietuvos bioetikos komitetas atlieka Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 21 straipsnyje nurodytas funkcijas. 
 Straipsnio pakeitimai:
 Nr. VIII-1672, 00.05.11, Žin., 2000, Nr.44-1245 (00.05.31)
 Nr. IX-2165, 2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1939, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14256
+Nr. XIII-737, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18509
  
 
 
@@ -4902,22 +4848,18 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                        VALDAS ADAMKUS
-
-
-
-
-
-
- 
  
-Lietuvos Respublikos 
-1994 m. liepos 19 d. 
-įstatymo Nr. I-552
-priedas
  
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+
+
+
+
+
+
+Priedas. Neteko galios nuo 2017-11-24
+Priedo naikinimas:
+Nr. XIII-737, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18509
  
-2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo.
 
 
 
@@ -5204,3 +5146,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 77 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-737, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18509
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 80 straipsnio pakeitimo ir Įstatymo priedo pripažinimo netekusiu galios įstatymas
