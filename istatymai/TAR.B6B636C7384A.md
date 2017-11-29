@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2018-04-27
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -974,7 +974,9 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-7. Jei ne Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas, Lietuvos Respublikoje steigiantis banką, įsigyjantis banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba steigiantis filialą ar atstovybę, teisės aktai numato papildomus ar griežtesnius, negu numatyta šiame Įstatyme, banko steigimo, banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo arba filialo ar atstovybės steigimo reikalavimus ar sąlygas Lietuvos bankams, norintiems veikti toje valstybėje, tai priežiūros institucija turi teisę reikalauti, kad tokius pačius reikalavimus ir sąlygas įvykdytų ir užsienio bankas, norintis veikti Lietuvos Respublikoje. 
+7. Neteko galios 2017-11-29.
+Straipsnio dalies pakeitimai:
+Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
  
 
 
@@ -1839,7 +1841,10 @@ BANKO VALDYMAS
 
 
 
-3. Bent vienas banko administracijos vadovas turi mokėti lietuvių kalbą ir nuolat gyventi Lietuvos Respublikoje.
+3. Bent vienas banko administracijos vadovas turi mokėti lietuvių kalbą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
+ 
 
 
 
@@ -5468,3 +5473,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 36, 62 ir 63 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-576, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12077
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 73 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16 ir 34 straipsnių pakeitimo įstatymas
