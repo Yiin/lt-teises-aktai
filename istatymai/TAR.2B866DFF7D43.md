@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2017-10-06 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2018-07-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -7672,23 +7672,30 @@ Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 
 
 
-220 straipsnis. Neteisingų duomenų apie pajamas, pelną ar turtą pateikimas
+220 straipsnis. Neteisingų duomenų apie pajamas, pelną ar turtą pateikimas 
 
 
-1. Tas, kas siekdamas išvengti mokesčių, kurių suma viršija 10 MGL, įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie asmens pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai, 
-baudžiamas bauda arba laisvės apribojimu, arba laisvės atėmimu iki trejų metų.
+1. Tas, kas siekdamas išvengti mokesčių, kurių suma viršija 100 MGL, įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie asmens pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai, 
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, kai mokesčių suma viršija 750 MGL arba dalyvaudamas organizuotoje grupėje,
+baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 
+
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 Straipsnio pakeitimai:
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856
  
 
 
@@ -7697,20 +7704,27 @@ Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
 221 straipsnis. Deklaracijos, ataskaitos ar kito dokumento nepateikimas
 
 
-1. Tas, kas siekdamas išvengti daugiau kaip 500 MGL dydžio mokesčių ar kitokių įmokų teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie asmens pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti, 
-baudžiamas bauda arba laisvės atėmimu iki trejų metų.
+1. Tas, kas siekdamas išvengti daugiau kaip 100 MGL dydžio mokesčių ar kitokių įmokų teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie asmens pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti, 
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, kai mokesčių ar kitokių įmokų suma viršija 500 MGL,
+baudžiamas laisvės atėmimu nuo dvejų iki šešerių metų.
 
 
+
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 Straipsnio pakeitimai:
 Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
+Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856
  
 
 
@@ -11718,3 +11732,8 @@ Lietuvos Respublikos baudžiamojo kodekso 20, 225, 227 ir 230 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 Lietuvos Respublikos baudžiamojo kodekso 43, 47, 54, 62, 63, 64, 68-1, 68-2, 71, 75, 90, 226 ir 227 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856
+Lietuvos Respublikos baudžiamojo kodekso 220 ir 221 straipsnių pakeitimo įstatymas
