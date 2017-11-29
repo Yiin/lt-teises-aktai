@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2017-11-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -5090,14 +5090,20 @@ užtraukia įspėjimą arba baudą pateikti ataskaitas, deklaracijas ar kitus mo
 
 
 
-3. Deklaracijų arba nustatyta tvarka patvirtintų ataskaitų ar kitų dokumentų ir duomenų apie fizinio ar juridinio asmens pajamas, pelną ar turtą nepateikimas mokesčių administratoriui po to, kai ši institucija raštu priminė apie pareigą juos pateikti,
-užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus ir duomenis privalantiems asmenims nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
+3. Deklaracijų arba nustatyta tvarka patvirtintų ataskaitų ar kitų dokumentų ir duomenų apie fizinio ar juridinio asmens pajamas, pelną ar turtą nepateikimas mokesčių administratoriui, siekiant išvengti mokesčių ar kitokių įmokų, kurių suma neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių, po to, kai ši institucija raštu priminė apie pareigą juos pateikti,
+užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus ir duomenis privalantiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-792, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18857
+ 
 
 
 
 
-4. Duomenų apie fizinio ar juridinio asmens pajamas, pelną, turtą ar jų naudojimą, žinant, kad jie neteisingi, įrašymas į deklaracijas, nustatyta tvarka patvirtintas ataskaitas arba į kitus mokesčių administratoriui ar kitai valstybės įgaliotai institucijai pateikiamus dokumentus, siekiant išvengti mokesčių, kurių suma neviršija dešimt bazinių bausmių ir nuobaudų dydžių,
-užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus privalantiems asmenims nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
+4. Duomenų apie fizinio ar juridinio asmens pajamas, pelną, turtą ar jų naudojimą, žinant, kad jie neteisingi, įrašymas į deklaracijas, nustatyta tvarka patvirtintas ataskaitas arba į kitus mokesčių administratoriui ar kitai valstybės įgaliotai institucijai pateikiamus dokumentus, siekiant išvengti mokesčių, kurių suma neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių,
+užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus privalantiems asmenims nuo penkių šimtų iki šešių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-792, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18857
+ 
 
 
 Straipsnio pakeitimai:
@@ -21869,3 +21875,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 417 ir 420 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-699, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16808
 Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-792, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18857
+Lietuvos Respublikos administracinių nusižengimų kodekso 187 straipsnio pakeitimo įstatymas
