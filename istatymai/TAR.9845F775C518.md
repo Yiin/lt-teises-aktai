@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
  
@@ -292,7 +292,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-9) valstybės įmonė, savivaldybės įmonė, akcinė bendrovė, uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymą.
+9) valstybės įmonė ir (ar) savivaldybės įmonė, kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje, akcinė bendrovė ir (ar) uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise ir kurių ne mažiau kaip du rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių finansinės atskaitomybės įstatymo 4 straipsnio 3 dalyje. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
+ 
 
 
 
@@ -3902,8 +3905,17 @@ VIEŠOJO INTERESO ĮMONIŲ, JŲ AUDITORIŲ IR AUDITO ĮMONIŲ PAREIGOS
 
 
 
-6. Lietuvos bankas, vykdydamas Lietuvos Respublikos Lietuvos banko įstatyme jam pavestas funkcijas, gali nustatyti papildomas, negu nurodytos šio straipsnio 5 dalyje, audito komiteto pareigas.
-TAR pastaba. 2 straipsnio 32 dalies 9 punkte nurodytoms viešojo intereso įmonėms 69 straipsnio nuostatos taikomos nuo 2017 m. liepos 1 d., o šių įmonių finansinių ataskaitų auditui Lietuvos Respublikos finansinių ataskaitų audito įstatymo reikalavimai taikomi atliekant 2017 m. sausio 1 d. ir vėliau prasidedančių finansinių metų auditą.
+6. Viešojo intereso įmonėse, nustatytose šio įstatymo 2 straipsnio 32 dalies 1 punkte, audito komitetas, be šio straipsnio 5 dalyje nustatytų pareigų, taip pat teikia nuomones dėl šių įmonių sudaromų sandorių su susijusiomis šalimis, kaip nustatyta Lietuvos Respublikos akcinių bendrovių įstatymo 372 straipsnyje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
+ 
+
+
+
+
+7. Lietuvos bankas, vykdydamas Lietuvos Respublikos Lietuvos banko įstatyme jam pavestas funkcijas, gali nustatyti papildomas, negu nurodytos šio straipsnio 5 dalyje, audito komiteto pareigas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
  
 
 
@@ -4338,3 +4350,8 @@ Lietuvos Respublikos audito įstatymo Nr. VIII-1227 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
 Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 10, 14, 15, 20, 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 2 ir 69 straipsnių pakeitimo įstatymas
