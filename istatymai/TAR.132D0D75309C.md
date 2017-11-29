@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-11-28
+Suvestinė redakcija nuo 2017-11-29 iki 2019-07-05
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -137,9 +137,10 @@ ANTRASIS SKIRSNIS
 
 8. Kai labai maža įmonė nepasirenka taikyti išimčių, leidžiamų labai mažoms įmonėms, nustatytų šio įstatymo 20, 22 ir 23 straipsniuose, jai taikomi tokie patys reikalavimai kaip mažoms įmonėms. Labai mažoms įmonėms leidžiamos išimtys netaikomos finansų kontroliuojančiosioms įmonėms, taip pat akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka.
 
-9. Viešojo intereso įmonėms visais atvejais taikomi tokie patys reikalavimai kaip ir didelėms įmonėms. 
+9. Viešojo intereso įmonėms, valstybės ir savivaldybės įmonėms, kurios nelaikomos viešojo intereso įmonėmis pagal Finansinių ataskaitų audito įstatymą, visais atvejais taikomi tokie patys reikalavimai kaip ir didelėms įmonėms. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
 10. Šio straipsnio 7 dalies nuostata netaikoma rengiant šio įstatymo 23 straipsnio 3 dalyje nurodytą bendrovių valdymo ataskaitą, šio įstatymo 23 straipsnio 4 dalyje nurodytą socialinės atsakomybės ataskaitą, šio įstatymo 29 straipsnyje nurodytą mokėjimų valdžios institucijoms ataskaitą ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo 15 straipsnyje nurodytą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą. 
@@ -402,7 +403,11 @@ METINIS PRANEŠIMAS
 
 11) informacija apie finansinės rizikos valdymo tikslus, naudojamas apsidraudimo priemones, kurioms taikoma apsidraudimo sandorių apskaita, ir įmonės kainų rizikos, kredito rizikos, likvidumo rizikos ir pinigų srautų rizikos mastą, kai įmonė naudoja finansines priemones ir kai tai yra svarbu vertinant įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas;
 
-12) informacija apie akcinės bendrovės ir uždarosios akcinės bendrovės vadovo, valdybos narių kitas einamas vadovaujamas pareigas (juridinio asmens (teisinė forma, pavadinimas, kodas, buveinė (adresas) vadovo, juridinio asmens (teisinė forma, pavadinimas, kodas, buveinė (adresas) valdymo organo arba priežiūros organo nario) ir svarbiausia informacija apie pagrindinę jų darbovietę (pareigos, juridinio asmens teisinė forma, pavadinimas, kodas, buveinė (adresas).
+12) informacija apie akcinės bendrovės ir uždarosios akcinės bendrovės vadovo, valdybos narių, stebėtojų tarybos narių kitas einamas vadovaujamas pareigas (juridinio asmens (teisinė forma, pavadinimas, kodas, buveinė (adresas) vadovo, juridinio asmens (teisinė forma, pavadinimas, kodas, buveinė (adresas) valdymo organo arba priežiūros organo nario) ir svarbiausia informacija apie pagrindinę jų darbovietę (pareigos, juridinio asmens teisinė forma, pavadinimas, kodas, buveinė (adresas). 
+TAR pastaba. Pagal 23 straipsnio 2 dalies 12 punktą rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+Straipsnio punkto pakeitimai:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
 
 3. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, be šio straipsnio 2 dalyje nustatytos informacijos, į metinį pranešimą įtraukia bendrovių valdymo ataskaitą.
 
@@ -431,29 +436,77 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 4) informacija apie reikšmingus tiesiogiai arba netiesiogiai valdomus akcijų paketus;
 
-5) informacija apie akcininkus, turinčius specialias kontrolės teises, ir šių teisių aprašymas;
-
-6) informacija apie visus esamus balsavimo teisių apribojimus, tokius kaip tam tikrą balsų procentą arba skaičių turinčių asmenų balsavimo teisių apribojimai, terminus, iki kurių galima pasinaudoti balsavimo teisėmis, arba sistemas, pagal kurias vertybinių popierių suteikiamos turtinės teisės yra atskiriamos nuo vertybinių popierių turėtojo;
-
-7) informacija apie taisykles, reglamentuojančias valdybos narių išrinkimą ir pakeitimą, taip pat įmonės įstatų pakeitimus;
-
-8) informacija apie valdybos narių įgaliojimus;
-
-9) informacija apie visuotinio akcininkų susirinkimo kompetenciją, akcininkų teises ir jų įgyvendinimą, jeigu ši informacija nenustatyta įstatymuose;
-
-10) informacija apie valdymo, priežiūros organų ir jų komitetų sudėtį, jų ir įmonės vadovo veiklos sritis;
-
-11) įmonės vadovo, valdymo ir priežiūros organų narių išrinkimui taikomos įvairovės politikos, susijusios su tokiais aspektais, kaip pavyzdžiui amžius, lytis, išsilavinimas, profesinė patirtis, aprašymas, šios politikos tikslai, jos įgyvendinimo būdai ir rezultatai ataskaitiniu laikotarpiu. Jeigu įvairovės politika netaikoma, paaiškinamos netaikymo priežastys.
-
-2. Nepaisant šio įstatymo 4 straipsnio 9 dalies, mažoms ir vidutinėms įmonėms netaikomas šio straipsnio 1 dalies 11 punktas.
-
-3. Auditorius ar audito įmonė auditoriaus išvadoje pateikia nuomonę dėl pagal šio straipsnio 1 dalies 3–8 punktus parengtos informacijos ir nurodo, ar nustatyta reikšmingų iškraipymų, kaip nustatyta Finansinių ataskaitų audito įstatyme.
-Straipsnio dalies pakeitimai:
-Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+5) informacija apie sandorius su susijusiomis šalimis, kaip nustatyta Akcinių bendrovių įstatymo 372 straipsnyje (nurodant sandorio šalis (juridinio asmens teisinė forma, pavadinimas, kodas, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį, buveinė (adresas); fizinio asmens vardas, pavardė, adresas korespondencijai) ir sandorio vertę); 
+TAR pastaba. Pagal 5 punkto nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai
+Papildyta straipsnio punktu:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
-4. Auditorius ar audito įmonė patikrina, ar buvo pateikta šio straipsnio 1 dalies 1, 2, 9, 10 ir 11 punktuose nurodyta informacija, ir tai nurodo auditoriaus išvadoje. 
-TAR pastaba. 231 straipsnis taikomas rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
+6) informacija apie akcininkus, turinčius specialias kontrolės teises, ir šių teisių aprašymas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+7) informacija apie visus esamus balsavimo teisių apribojimus, tokius kaip tam tikrą balsų procentą arba skaičių turinčių asmenų balsavimo teisių apribojimai, terminus, iki kurių galima pasinaudoti balsavimo teisėmis, arba sistemas, pagal kurias vertybinių popierių suteikiamos turtinės teisės yra atskiriamos nuo vertybinių popierių turėtojo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+8) informacija apie taisykles, reglamentuojančias valdybos narių išrinkimą ir pakeitimą, taip pat įmonės įstatų pakeitimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+9) informacija apie valdybos narių įgaliojimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+10) informacija apie visuotinio akcininkų susirinkimo kompetenciją, akcininkų teises ir jų įgyvendinimą, jeigu ši informacija nenustatyta įstatymuose;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+11) informacija apie valdymo, priežiūros organų ir jų komitetų sudėtį, jų ir įmonės vadovo veiklos sritis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+12) įmonės vadovo, valdymo ir priežiūros organų narių išrinkimui taikomos įvairovės politikos, susijusios su tokiais aspektais, kaip pavyzdžiui amžius, lytis, išsilavinimas, profesinė patirtis, aprašymas, šios politikos tikslai, jos įgyvendinimo būdai ir rezultatai ataskaitiniu laikotarpiu. Jeigu įvairovės politika netaikoma, paaiškinamos netaikymo priežastys;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+13) informacija apie kiekvieno valdymo, priežiūros organo nario atlyginimą (vidutinius per ataskaitinį laikotarpį išmokėtus atlyginimus, atskirai nurodant premijas, priemokas, tantjemas ir kitokias išmokas); 
+TAR pastaba. Pagal 13 punkto nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+Papildyta straipsnio punktu:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+14) informacija apie visus akcininkų tarpusavio susitarimus (jų esmė, sąlygos). 
+TAR pastaba. Pagal 14 punkto nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+Papildyta straipsnio punktu:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+2. Nepaisant šio įstatymo 4 straipsnio 9 dalies nuostatų, mažoms ir vidutinėms įmonėms netaikomas šio straipsnio 1 dalies 12 punktas. 
+TAR pastaba. Pagal 2 dalies nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+3. Auditorius ar audito įmonė auditoriaus išvadoje pateikia nuomonę dėl pagal šio straipsnio 1 dalies 3–9 punktus parengtos informacijos ir nurodo, ar nustatyta reikšmingų iškraipymų, kaip nustatyta Finansinių ataskaitų audito įstatyme. 
+TAR pastaba. Pagal 3 dalies nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
+
+4. Auditorius ar audito įmonė patikrina, ar buvo pateikta šio straipsnio 1 dalies 1, 2, 10, 11, 12, 13 ir 14 punktuose nurodyta informacija, ir tai nurodo auditoriaus išvadoje. 
+TAR pastaba. Pagal 4 dalies nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+ 
 
 Papildyta straipsniu:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
@@ -502,9 +555,10 @@ FINANSINIŲ ATASKAITŲ AUDITAS. FINANSINIŲ ATASKAITŲ IR METINIO PRANEŠIMO PAS
 
 24 straipsnis. Finansinių ataskaitų auditas
 
-1. Viešojo intereso įmonėse, akcinėse bendrovėse, šio straipsnio 2 dalyje nurodytose uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, taip pat uždarosiose akcinėse bendrovėse, kuriose akcininkė yra valstybė ir (arba) savivaldybė, uždarosiose akcinėse bendrovėse, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, turi būti atliktas metinių finansinių ataskaitų auditas. 
+1. Valstybės ir savivaldybės įmonėse, kurios nelaikomos viešojo intereso įmonėmis pagal Finansinių ataskaitų audito įstatymą, viešojo intereso įmonėse, akcinėse bendrovėse, šio straipsnio 2 dalyje nurodytose uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, taip pat uždarosiose akcinėse bendrovėse, kuriose akcininkė yra valstybė ir (arba) savivaldybė, uždarosiose akcinėse bendrovėse, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, turi būti atliktas metinių finansinių ataskaitų auditas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
 2. Metinių finansinių ataskaitų auditas turi būti atliktas uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, jeigu jų ne mažiau kaip du rodikliai paskutinę finansinių metų dieną viršija šiuos dydžius:
@@ -585,10 +639,10 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
  
- 
 
  
 
+ 
 Lietuvos Respublikos
 įmonių finansinės atskaitomybės
 įstatymo
@@ -681,4 +735,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-468, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10830
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 2 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4, 23, 23-1 ir 24 straipsnių pakeitimo įstatymas
 
