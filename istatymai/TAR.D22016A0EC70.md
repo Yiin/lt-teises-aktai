@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2017-12-13
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -1005,7 +1005,10 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 
 
-4. Lietuvos saugios laivybos administracija, nustačiusi, kad Lietuvos Respublikos žvejybos laive sumontuotas naujas arba pakeistas ar techniškai modifikuotas esamas varomasis variklis, bet ūkio subjektas neturi Lietuvos Respublikos žvejybos laivo varomojo variklio galios sertifikato, praneša apie tai Žuvininkystės tarnybai.
+4. Lietuvos transporto saugos administracija, nustačiusi, kad Lietuvos Respublikos žvejybos laive sumontuotas naujas arba pakeistas ar techniškai modifikuotas esamas varomasis variklis, bet ūkio subjektas neturi Lietuvos Respublikos žvejybos laivo varomojo variklio galios sertifikato, praneša apie tai Žuvininkystės tarnybai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-765, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18818
+ 
 
 
 
@@ -5061,3 +5064,8 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 6, 7, 8, 14, 14-1, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 10, 11, 13, 17, 17-1, 18, 21, 24, 27, 29, 32, 36, 37, 39, 40, 41, 46, 48, 50, 51, 52, 53, 54, 61, 63 straipsnių ir priedo pakeitimo, Įstatymo papildymo 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11 straipsniais ir 35 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-765, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18818
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 12 straipsnio pakeitimo įstatymas
