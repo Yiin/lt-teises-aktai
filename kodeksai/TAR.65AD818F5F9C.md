@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-05-19
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -326,7 +326,10 @@ Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
 
 
 
-5. Licencijas, nurodytas šio straipsnio 2 dalies 1, 2, 3 ir 5 punktuose, ir jų kopijas išduoda, licencijos (licencijos kopijos) galiojimą sustabdo, licencijos (licencijos kopijos) galiojimo sustabdymą ar licencijos (licencijos kopijos) galiojimą naikina, pripažįsta fizinį asmenį, einantį transporto vadybininko pareigas, netinkamu vadovauti įmonės transporto veiklai, tikrina, ar vežėjai atitinka Reglamento (EB) Nr. 1071/2009 3 straipsnyje nurodytus reikalavimus, Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija), vadovaudamasi Reglamentu (EB) Nr. 1071/2009, Reglamentu (EB) Nr. 1072/2009, Reglamentu (EB) Nr. 1073/2009 ir Kelių transporto veiklos licencijavimo taisyklėmis, kurias tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). 
+5. Licencijas, nurodytas šio straipsnio 2 dalies 1, 2, 3 ir 5 punktuose, ir jų kopijas išduoda, licencijos (licencijos kopijos) galiojimą sustabdo, licencijos (licencijos kopijos) galiojimo sustabdymą ar licencijos (licencijos kopijos) galiojimą naikina, pripažįsta fizinį asmenį, einantį transporto vadybininko pareigas, netinkamu vadovauti įmonės transporto veiklai, tikrina, ar vežėjai atitinka Reglamento (EB) Nr. 1071/2009 3 straipsnyje nurodytus reikalavimus, Lietuvos transporto saugos administracija (toliau – Transporto saugos administracija), vadovaudamasi Reglamentu (EB) Nr. 1071/2009, Reglamentu (EB) Nr. 1072/2009, Reglamentu (EB) Nr. 1073/2009 ir Kelių transporto veiklos licencijavimo taisyklėmis, kurias tvirtina Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
+ 
 
 
 
@@ -501,16 +504,16 @@ Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010IS
 
 
 
-2. Už Lietuvos vežėjų informacinėje sistemoje kaupiamų duomenų tvarkymą, keitimąsi informacija su kitomis Europos Sąjungos valstybėmis narėmis ir ataskaitų, nurodytų Reglamento (EB) Nr. 1071/2009 26 straipsnyje, Reglamento (EB) Nr. 1072/2009 17 straipsnyje ir Reglamento (EB) Nr. 1073/2009 28 straipsnyje, teikimą Europos Komisijai atsakinga Valstybinė kelių transporto inspekcija.
+2. Už Lietuvos vežėjų informacinėje sistemoje kaupiamų duomenų tvarkymą, keitimąsi informacija su kitomis Europos Sąjungos valstybėmis narėmis ir ataskaitų, nurodytų Reglamento (EB) Nr. 1071/2009 26 straipsnyje, Reglamento (EB) Nr. 1072/2009 17 straipsnyje ir Reglamento (EB) Nr. 1073/2009 28 straipsnyje, teikimą Europos Komisijai atsakinga Lietuvos transporto saugos administracija.
 
 
 
 
-3. Savivaldybės vykdomosios institucijos teikia duomenis Lietuvos vežėjų informacinei sistemai Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos nustatyta tvarka. 
+3. Savivaldybės vykdomosios institucijos teikia duomenis Lietuvos vežėjų informacinei sistemai Transporto saugos administracijos nustatyta tvarka. 
 
 
-Papildyta straipsniu:
-Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
+Straipsnio pakeitimai:
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
  
 
 
@@ -627,7 +630,10 @@ Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010IS
 2. Valstybinę kelių transporto kontrolę atlieka:
 
 
-1) Valstybinė kelių transporto inspekcija;
+1) Transporto saugos administracija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
+ 
 
 
 
@@ -660,17 +666,19 @@ Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010IST
 14 straipsnis. Kelių transporto kontrolės įgaliojimai
 
 
-1. Valstybinės kelių transporto inspekcijos kelių transporto kontrolės įgaliojimus nustato šis kodeksas, Lietuvos Respublikos viešojo administravimo įstatymas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, ir Valstybinės kelių transporto inspekcijos nuostatai. 
+1. Transporto saugos administracijos kelių transporto kontrolės įgaliojimus nustato šis kodeksas, Lietuvos Respublikos viešojo administravimo įstatymas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, ir Transporto saugos administracijos nuostatai. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
  
 
 
 
 
-2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, nurodyti važiuoti paskui specialiąją transporto priemonę iki patikrinimo ar stovėjimo vietos, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, privalomosios techninės apžiūros atlikimo periodiškumą, ekipažo dokumentus, keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų keleivių bilietus ir bagažo kvitus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo, ar nesinaudojama įtaisais, pakeičiančiais darbo ir poilsio režimo apskaitos prietaisų rodmenis ir (ar) duomenis. Kontrolės teisę turintys pareigūnai, nustatę pažeidimus, turi teisę siųsti transporto priemonę į techninės apžiūros stotį ar tachografų dirbtuvę, uždrausti transporto priemonei toliau važiuoti ir laikinai paimti transporto priemonės registravimo dokumentą, kol bus pašalinti pažeidimai, taip pat gauti iš keleivių paaiškinimus raštu ir (ar) žodžiu. 
+2. Transporto saugos administracijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, nurodyti važiuoti paskui specialiąją transporto priemonę iki patikrinimo ar stovėjimo vietos, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, privalomosios techninės apžiūros atlikimo periodiškumą, ekipažo dokumentus, keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų keleivių bilietus ir bagažo kvitus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo, ar nesinaudojama įtaisais, pakeičiančiais darbo ir poilsio režimo apskaitos prietaisų rodmenis ir (ar) duomenis. Kontrolės teisę turintys pareigūnai, nustatę pažeidimus, turi teisę siųsti transporto priemonę į techninės apžiūros stotį ar tachografų dirbtuvę, uždrausti transporto priemonei toliau važiuoti ir laikinai paimti transporto priemonės registravimo dokumentą, kol bus pašalinti pažeidimai, taip pat gauti iš keleivių paaiškinimus raštu ir (ar) žodžiu. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
  
 
 
@@ -880,9 +888,10 @@ Nr. XII-1574, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05688
 
 
 
-7. Vietinio (priemiestinio) susisiekimo maršrutas – nustatyta gatvių (kelių) trasa, kuria keleiviai vežami vienos savivaldybės (neįskaitant miestų savivaldybių) teritorijoje. Atskirais atvejais, suderinus su Valstybine kelių transporto inspekcija, maršrutas gali tęstis per dviejų ir daugiau gretimų savivaldybių (neįskaitant miestų savivaldybių) teritorijas. Kai maršrutas tęsiasi per daugiau kaip dviejų savivaldybių (neįskaitant miestų savivaldybių) teritorijas, jo trasa negali būti ilgesnė kaip 50 km. 
+7. Vietinio (priemiestinio) susisiekimo maršrutas – nustatyta gatvių (kelių) trasa, kuria keleiviai vežami vienos savivaldybės (neįskaitant miestų savivaldybių) teritorijoje. Atskirais atvejais, suderinus su Transporto saugos administracija, maršrutas gali tęstis per dviejų ir daugiau gretimų savivaldybių (neįskaitant miestų savivaldybių) teritorijas. Kai maršrutas tęsiasi per daugiau kaip dviejų savivaldybių (neįskaitant miestų savivaldybių) teritorijas, jo trasa negali būti ilgesnė kaip 50 km. 
 Straipsnio dalies pakeitimai:
 Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010ISTA00XI-573
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
  
 
 
@@ -2020,6 +2029,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos kelių 
 transporto kodekso
 priedas
@@ -2146,3 +2156,8 @@ Lietuvos Respublikos kelių transporto kodekso Nr. I-1628 29 ir 38 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2653, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24834
 Lietuvos Respublikos kelių transporto kodekso 7 ir 18 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
+Lietuvos Respublikos kelių transporto kodekso 8, 8-1, 13, 14 ir 18 straipsnių pakeitimo įstatymas
