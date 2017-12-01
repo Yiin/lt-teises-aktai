@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
  
@@ -397,7 +397,10 @@ Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. 1101010ISTA
 
 
 
-2. Uosto kapitono veiklą nustato Lietuvos Respublikos saugios laivybos įstatymas, šis įstatymas ir Uosto kapitono nuostatai. Uosto kapitono nuostatus, suderintus su Lietuvos saugios laivybos administracija, tvirtina Šventosios uosto direkcijos vadovas.
+2. Uosto kapitono veiklą nustato Lietuvos Respublikos saugios laivybos įstatymas, šis įstatymas ir Šventosios valstybinio jūrų uosto kapitono nuostatai (toliau – Uosto kapitono nuostatai). Uosto kapitono nuostatus, suderintus su Lietuvos transporto saugos administracija, tvirtina Šventosios uosto direkcijos vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-763, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18815
+ 
 
 
 
@@ -982,3 +985,8 @@ Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
 Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 2, 4, 6, 10 ir 13 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-763, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18815
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 10 straipsnio pakeitimo įstatymas
