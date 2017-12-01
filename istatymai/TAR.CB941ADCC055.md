@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -1509,7 +1509,9 @@ Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
 
 
 
-9. Apie priimtą sprendimą sulaikyti laivą aplinkos apsaugos valstybinės kontrolės pareigūnas nedelsdamas informuoja valstybės, su kurios vėliava laivas plaukia, kompetentingas institucijas, Lietuvos saugios laivybos administraciją, Valstybės sienos apsaugos tarnybą prie Lietuos Respublikos vidaus reikalų ministerijos.
+9. Apie priimtą sprendimą sulaikyti laivą aplinkos apsaugos valstybinės kontrolės pareigūnas nedelsdamas informuoja valstybės, su kurios vėliava laivas plaukia, kompetentingas institucijas, Lietuvos transporto saugos administraciją, Valstybės sienos apsaugos tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
  
 
 
@@ -1556,9 +1558,10 @@ Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
 
 
 
-4. Priimto aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo panaikinti sprendimą sulaikyti laivą administracinio nusižengimo bylą nagrinėjančio teismo nutarties, prokuroro nutarimo nutraukti laivo sulaikymą ar nutarimo dėl laikino nuosavybės teisės apribojimo paskyrimo, ikiteisminio tyrimo teisėjo nutarties dėl laikino nuosavybės teisės apribojimo panaikinimo ar termino pratęsimo, baudžiamąją bylą nagrinėjančio teismo nutarties dėl laikino nuosavybės teisės apribojimo paskyrimo, termino pratęsimo ar panaikinimo kopijos nedelsiant išsiunčiamos sulaikyto laivo kapitonui, valstybės, su kurios vėliava plaukia laivas, kompetentingoms institucijoms, Lietuvos saugios laivybos administracijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir jūrų uosto kapitonui.
+4. Priimto aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo panaikinti sprendimą sulaikyti laivą administracinio nusižengimo bylą nagrinėjančio teismo nutarties, prokuroro nutarimo nutraukti laivo sulaikymą ar nutarimo dėl laikino nuosavybės teisės apribojimo paskyrimo, ikiteisminio tyrimo teisėjo nutarties dėl laikino nuosavybės teisės apribojimo panaikinimo ar termino pratęsimo, baudžiamąją bylą nagrinėjančio teismo nutarties dėl laikino nuosavybės teisės apribojimo paskyrimo, termino pratęsimo ar panaikinimo kopijos nedelsiant išsiunčiamos sulaikyto laivo kapitonui, valstybės, su kurios vėliava plaukia laivas, kompetentingoms institucijoms, Lietuvos transporto saugos administracijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir jūrų uosto kapitonui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
  
 
 
@@ -2257,3 +2260,8 @@ Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 12, 39-5, 39-6, 49 ir 50 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-755, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18806
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 39-5 ir 39-6 straipsnių pakeitimo įstatymas
