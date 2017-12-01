@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-15 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -2145,7 +2145,10 @@ Juridinių asmenų padarytus pažeidimus tiria, juridinių asmenų padarytų pa�
 
 
 
-5) Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo 90 straipsnio 1, 2, 5, 6 dalyse, 91 straipsnio 1, 2, 6, 7 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose;
+5) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo 90 straipsnio 1, 2, 5, 6 dalyse, 91 straipsnio 1, 2, 6, 7 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
+ 
 
 
 
@@ -2155,7 +2158,10 @@ Juridinių asmenų padarytus pažeidimus tiria, juridinių asmenų padarytų pa�
 
 
 
-7) Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos įgalioti pareigūnai – dėl šio įstatymo 97, 98, 100 straipsniuose, 109 straipsnio 1, 12, 13, 15, 19, 23 dalyse, 110 straipsnio 8, 9 dalyse numatytų pažeidimų;
+7) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo 97, 98, 100 straipsniuose, 109 straipsnio 1, 12, 13, 15, 19, 23 dalyse, 110 straipsnio 8, 9 dalyse numatytų pažeidimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
+ 
 
 
 
@@ -2180,7 +2186,10 @@ Teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asme
 
 
 
-3) Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo 90 straipsnio 3, 4, 7, 8 dalyse, 91 straipsnio 3, 4, 5, 8, 9, 10 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose;
+3) Lietuvos transporto saugos administracijos įgalioti pareigūnai, kitų valstybinę kelių transporto kontrolę atliekančių viešojo administravimo subjektų įgalioti pareigūnai – dėl šio įstatymo 90 straipsnio 3, 4, 7, 8 dalyse, 91 straipsnio 3, 4, 5, 8, 9, 10 dalyse numatytų pažeidimų, padarytų keliuose ir kelių apsaugos zonose; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
+ 
 
 
 
@@ -2195,7 +2204,10 @@ Teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asme
 
 
 
-6) Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 2, 20, 25, 26, 27 dalyse numatytų pažeidimų;
+6) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 2, 20, 25, 26, 27 dalyse numatytų pažeidimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
+ 
 
 
 
@@ -5940,3 +5952,13 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 7, 8, 15 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 32 ir 33 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 19, 19-1, 19-2, 55 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 19-3 straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37 straipsnio pakeitimo įstatymas
