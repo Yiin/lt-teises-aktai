@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-11-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 39-1088, i. k. 1001010ISTAIII-1631
  
@@ -40,9 +40,11 @@ Patvirtinti Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingum
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+ 
+RESPUBLIKOS PREZIDENTAS                                                   VALDAS ADAMKUS
  
 
+ 
 PATVIRTINTAS
 Lietuvos Respublikos 
 2000 m. balandžio 18 d.
@@ -125,18 +127,18 @@ Kalėjimų departamento ir jam pavaldžių įstaigų uždaviniams įgyvendinti b
  
 
 ANTRASIS SKIRSNIS
-KALĖJIMŲ DEPARTAMENTO IR JAM PAVALDŽIŲ ĮSTAIGŲ STRUKTŪRA. PATAISOS PAREIGŪNAI, KITI VALSTYBĖS TARNAUTOJAI IR DARBUOTOJAI, DIRBANTYS PAGAL DARBO SUTARTIS
+KALĖJIMŲ DEPARTAMENTO IR JAM PAVALDŽIŲ ĮSTAIGŲ VALDYMAS. PATAISOS PAREIGŪNAI, KARJEROS VALSTYBĖS TARNAUTOJAI IR DARBUOTOJAI, DIRBANTYS PAGAL DARBO SUTARTIS
  
 
-8 straipsnis.    Pataisos pareigūnai, kiti valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis 
+8 straipsnis. Pataisos pareigūnai, karjeros valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis
 
-1. Kalėjimų departamente ir jam pavaldžiose įstaigose dirba pataisos pareigūnai, kiti valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis (toliau – darbuotojai).
+1. Kalėjimų departamente ir jam pavaldžiose įstaigose dirba pataisos pareigūnai, karjeros valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis (toliau – darbuotojai).
 
-2. Pataisos pareigūnų tarnyba Kalėjimų departamente ir jam pavaldžiose įstaigose organizuojama statutinės drausmės pagrindais ir reglamentuojama įstatymuose, šiame statute ir kituose teisės aktuose. Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnams darbo santykius ir socialines garantijas reglamentuojantys įstatymai, kiti teisės aktai taikomi tiek, kiek jų statuso ir socialinių garantijų nereglamentuoja šis statutas ir Valstybės tarnybos įstatymas. Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnų darbo apmokėjimo tvarka nustatyta Valstybės tarnybos įstatyme ir šiame statute.
+2. Pataisos pareigūnų tarnyba Kalėjimų departamente ir jam pavaldžiose įstaigose organizuojama statutinės drausmės pagrindais ir reglamentuojama įstatymuose, šiame statute ir kituose teisės aktuose. Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnams darbo santykius, darbo apmokėjimo tvarką ir socialines garantijas reglamentuojantys įstatymai, kiti teisės aktai taikomi tiek, kiek jų statuso ir socialinių garantijų nereglamentuoja šis statutas. 
 
-3. Kalėjimų departamento ir jam pavaldžių įstaigų valstybės tarnautojų tarnybą reglamentuoja Valstybės tarnybos įstatymas. Be to, šiems valstybės tarnautojams taikomos šio statuto 10 straipsnio 2 dalies 2, 3, 4, 5 punktų ir 11 straipsnio 3 dalies nuostatos.
+3. Kalėjimų departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojų tarnybą reglamentuoja Valstybės tarnybos įstatymas. Be to, šiems karjeros valstybės tarnautojams taikomos šio statuto 10 straipsnio 3 dalies ir 11 straipsnio 3 dalies nuostatos.
 
-4. Kalėjimų departamento ir jam pavaldžių įstaigų darbuotojų darbo santykius reglamentuoja darbo įstatymai. Be to, šiems darbuotojams ir valstybės įmonių prie pataisos įstaigų darbuotojams taikomos šio statuto 10 straipsnio 2 dalies 2, 3, 4, 5 punktų ir 11 straipsnio 3 dalies nuostatos. 
+4. Kalėjimų departamento ir jam pavaldžių įstaigų darbuotojų darbo santykius reglamentuoja darbo įstatymai. Be to, šiems darbuotojams ir valstybės įmonių prie pataisos įstaigų darbuotojams taikomos šio statuto 10 straipsnio 3 dalies ir 11 straipsnio 3 dalies nuostatos. 
 
 5. Pataisos pareigūnų profesinė šventė yra vasario 11-oji.
  
@@ -147,15 +149,14 @@ KALĖJIMŲ DEPARTAMENTO IR JAM PAVALDŽIŲ ĮSTAIGŲ STRUKTŪRA. PATAISOS PAREIG
 
 2. Teisingumo ministras tvirtina pataisos pareigūnų pareigybių poreikio nustatymo, pareigybių aprašymų rengimo ir pataisos pareigūnų kompetencijos lygių nustatymo metodikas.
 
-3. Didžiausią leistiną valstybės tarnautojų ir darbuotojų pareigybių skaičių Kalėjimų departamente ir jam pavaldžiose įstaigose nustato teisingumo ministras, atsižvelgdamas į šių įstaigų poreikius.
+3. Didžiausią leistiną valstybės tarnautojų ir darbuotojų pareigybių skaičių Kalėjimų departamente ir jam pavaldžiose įstaigose ir Kalėjimų departamento struktūrą nustato teisingumo ministras. Kalėjimų departamentui pavaldžių įstaigų struktūrą nustato Kalėjimų departamento direktorius.
 
-4. Kalėjimų departamento struktūrą nustato teisingumo ministras, vadovaudamasis įstatymais ar jų įgyvendinamaisiais teisės aktais ir atsižvelgdamas į Kalėjimų departamento tikslus, uždavinius, strateginius ar metinius veiklos planus.
+4. Kalėjimų departamento ir jam pavaldžių įstaigų pareigybių sąrašus ir pareigybių aprašymus, išskyrus šio straipsnio 5 dalyje nurodytus pareigybių aprašymus, neviršydami darbo užmokesčiui nustatytų lėšų ir teisingumo ministro patvirtinto didžiausio leistino valstybės tarnautojų ir darbuotojų pareigybių skaičiaus, tvirtina šių įstaigų vadovai. 
 
-5. Kalėjimų departamentui pavaldžių įstaigų struktūrą nustato Kalėjimų departamento direktorius, vadovaudamasis įstatymais ar jų įgyvendinamaisiais teisės aktais ir atsižvelgdamas į šių įstaigų tikslus, uždavinius, strateginius ar metinius veiklos planus.
+5. Kalėjimų departamento direktoriaus, direktoriaus pavaduotojų, Kalėjimų departamentui pavaldžių įstaigų direktorių pareigybių aprašymus tvirtina teisingumo ministras, Kalėjimų departamentui pavaldžių įstaigų direktoriaus pavaduotojų pareigybių aprašymus – Kalėjimų departamento direktorius. 
 
-6. Kalėjimų departamento ir jam pavaldžių įstaigų pareigybių sąrašus ir pareigybių aprašymus, išskyrus šio straipsnio 7 dalyje nurodytus pareigybių aprašymus, neviršydami darbo užmokesčiui nustatytų lėšų ir teisingumo ministro patvirtinto didžiausio leistino valstybės tarnautojų ir darbuotojų pareigybių skaičiaus, tvirtina šių įstaigų vadovai.
-
-7. Kalėjimų departamento direktoriaus, direktoriaus pavaduotojų, Kalėjimų departamentui pavaldžių įstaigų direktorių pareigybių aprašymus tvirtina teisingumo ministras.
+Skirsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 TREČIASIS SKIRSNIS
@@ -170,7 +171,7 @@ PATAISOS PAREIGŪNŲ PRIĖMIMAS Į TARNYBĄ
 
 2) būti nepriekaištingos reputacijos; 
 
-3) būti ne jaunesnis kaip 18 metų; 
+3) būti ne jaunesnis kaip 18 metų ir ne vyresnis kaip įstatymuose nustatyto senatvės pensijos amžiaus;
 
 4) turėti pareigoms eiti nustatytą išsilavinimą;
 
@@ -178,28 +179,56 @@ PATAISOS PAREIGŪNŲ PRIĖMIMAS Į TARNYBĄ
 
 6) būti tokio bendrojo fizinio pasirengimo, kuris leistų eiti pareigas Kalėjimų departamente ir jam pavaldžiose įstaigose. Bendrojo fizinio pasirengimo reikalavimus nustato teisingumo ministras.
 
-2. Į tarnybą Kalėjimų departamente ir jam pavaldžiose įstaigose negali pretenduoti asmuo:
+2. Asmuo, pretenduojantis į tarnybą Kalėjimų departamente ir jam pavaldžiose įstaigose, nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
-1) kuris buvo atleistas iš tarnybos, pareigų ar darbo už tarnybinį (drausmės) nusižengimą ir nuo atleidimo dienos nepraėjo 3 metai;
+1) įstatymų nustatyta tvarka pripažintas kaltu už tyčinio nusikaltimo padarymą, nesvarbu, ar teistumas išnyko, ar panaikintas, arba pripažintas kaltu už kitos nusikalstamos veikos padarymą ir nuo teismo nuosprendžio (nutarties) įsiteisėjimo dienos nepraėjo 5 metai, arba turi teistumą dėl padaryto nusikaltimo;
 
-2) jeigu Kalėjimų departamente ir jam pavaldžiose įstaigose eina pareigas jo sutuoktinis, artimasis giminaitis ar svainystės ryšiais susijęs asmuo, su kuriais būtų tiesioginio pavaldumo ryšys;
+2) įstatymų nustatyta tvarka buvo atleistas nuo baudžiamosios atsakomybės (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 5 metai;
 
-3) kuris yra įtariamas arba kaltinamas nusikalstamos veikos padarymu;
+3) atleistas iš valstybės tarnautojo pareigų už šiurkščius tarnybinius nusižengimus arba pripažintas padaręs šiurkštų tarnybinį nusižengimą, už kurį būtų skiriama tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš pareigų dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai;
 
-4) kuris įstatymų nustatyta tvarka pripažintas kaltu už tyčinio nusikaltimo padarymą, nesvarbu, ar teistumas išnyko, ar panaikintas, arba pripažintas kaltu už kitos nusikalstamos veikos padarymą ir nuo teismo nuosprendžio (nutarties) įsiteisėjimo dienos nepraėjo 5 metai, arba kuris turi teistumą dėl (padaryto) nusikaltimo;
+4) atleistas iš darbo, pareigų ar praradęs teisę verstis atitinkama veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitikimą ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo 3 metai;
 
-5) kurio sutuoktinis, artimasis giminaitis ar svainystės ryšiais susijęs asmuo atlieka laisvės atėmimo bausmę ir tai gali sukelti viešųjų ir privačių interesų konfliktą.
+5) atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
 
-3. Atsisakymas priimti į tarnybą Kalėjimų departamente ir jam pavaldžiose įstaigose gali būti skundžiamas teismui teisės aktų nustatyta tvarka.
+6) yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
+
+3. Į tarnybą Kalėjimų departamente ir jam pavaldžiose įstaigose negali pretenduoti asmuo:
+
+1) kuris yra įtariamas arba kaltinamas nusikalstamos veikos padarymu;
+
+2) kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti viešųjų ir privačių interesų konfliktą;
+
+3) kuris Valstybės tarnybos įstatymo nustatytais atvejais negali eiti valstybės tarnautojo pareigų. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+101 straipsnis. Pataisos pareigūnų išsilavinimo reikalavimai
+
+1. Jaunesniųjų pataisos pareigūnų grandies pataisos pareigūnai turi turėti ne žemesnį kaip vidurinį išsilavinimą ir įgytą kvalifikaciją.
+
+2. Pataisos pareigūnų grandies pataisos pareigūnai turi turėti ne žemesnį kaip aukštąjį koleginį (aukštesnįjį, įgytą iki 2009 metų, ar specialųjį vidurinį, įgytą iki 1995 metų) arba jam lygiavertį išsilavinimą.
+
+3. Vyresniųjų pataisos pareigūnų grandies pataisos pareigūnai turi turėti aukštąjį universitetinį arba jam lygiavertį išsilavinimą.
+
+4. Vyriausiųjų pataisos pareigūnų grandies pataisos pareigūnai turi turėti ne žemesnį kaip magistro kvalifikacinį laipsnį arba jam lygiavertę aukštojo mokslo kvalifikaciją. 
+
+Papildyta straipsniu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 11 straipsnis. Asmenų, pretenduojančių į tarnybą Kalėjimų departamente ir jam pavaldžiose įstaigose, atitikties reikalavimams ir apribojimams tikrinimas
 
-1. Asmenų, pretenduojančių į tarnybą, sveikatos būklės tikrinimą į pataisos pareigūno pareigas skiriančio vadovo siuntimu atlieka Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras (toliau – Medicinos centras). 
+1. Asmenų, pretenduojančių į tarnybą (išskyrus asmenis, kurių sveikatos būklės tikrinimas buvo atliktas per paskutinius 12 mėnesių ir kuriems šio tikrinimo metu nustatyta, kad sveikatos būklė leidžia eiti pataisos pareigūno pareigas), sveikatos būklės tikrinimą į pataisos pareigūno pareigas skiriančio vadovo siuntimu atlieka Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras (toliau – Medicinos centras) iš valstybės biudžeto lėšų, skirtų Lietuvos Respublikos vidaus reikalų ministerijai.
 
 2. Asmenų, pretenduojančių į tarnybą, bendrasis fizinis pasirengimas tikrinamas šio statuto 12 straipsnyje nustatytos atrankos metu.
 
-3. Ar asmenys, pretenduojantys į tarnybą, atitinka šio statuto 10 straipsnio 1 dalies 2 punkte nustatytą reikalavimą, taip pat ar jiems taikytini šio statuto 10 straipsnio 2 dalyje nustatyti apribojimai, tikrinama renkant informaciją vidaus reikalų įstaigų informacinėse sistemose ir registruose.
+3. Ar asmenys, pretenduojantys į tarnybą, atitinka šio statuto 10 straipsnio 1 dalies 2 punkte nustatytus reikalavimus dėl nepriekaištingos reputacijos, taip pat ar jiems taikytini šio statuto 10 straipsnio 3 dalyje nustatyti apribojimai, tikrinama renkant informaciją vidaus reikalų įstaigų informacinėse sistemose ir registruose. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 12 straipsnis. Asmenų atranka į pataisos pareigūnų pareigas
@@ -215,10 +244,15 @@ PATAISOS PAREIGŪNŲ PRIĖMIMAS Į TARNYBĄ
 
 1. Asmuo, baigęs profesinio mokymo programą pataisos pareigūnų švietimo įstaigoje, šios įstaigos vadovo įsakymu siunčiamas į Kalėjimų departamentui pavaldžią įstaigą, išdavusią šio statuto 18 straipsnio 3 dalyje nurodytą siuntimą. Kalėjimų departamentui pavaldžios įstaigos vadovas ne vėliau kaip per 5 darbo dienas nuo pataisos pareigūnų švietimo įstaigos vadovo įsakymo dėl asmens siuntimo gavimo privalo savo įsakymu paskirti asmenį į pataisos pareigūno pareigas.
 
-2. Šio statuto 12 straipsnyje nustatyta tvarka atrinktas asmuo į pataisos pareigūno pareigas skiriamas į pataisos pareigūno pareigas skiriančio vadovo sprendimu.
+2. Šio statuto 12 straipsnyje nustatyta tvarka atrinktą asmenį į pataisos pareigūno pareigas skiria atitinkamą pataisos pareigūno pareigybės aprašymą patvirtinęs vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
-3. Šio statuto 12 straipsnyje nustatyta tvarka atrinktus asmenis į Kalėjimų departamento direktoriaus, direktoriaus pavaduotojo ir Kalėjimų departamentui pavaldžios įstaigos direktoriaus pareigas 5 metų kadencijai skiria teisingumo ministras. Kalėjimų departamento direktorius gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės.
-TAR pastaba. Iki 2015 m. kovo 1 d. į tarnybą Kalėjimų departamente arba jam pavaldžiose įstaigose priimtų pataisos pareigūnų kadencija, 13 straipsnio 3 dalyje, prasideda 2015 m. kovo 1 d.
+3. Šio statuto 12 straipsnyje nustatyta tvarka atrinkti asmenys į Kalėjimų departamento direktoriaus, direktoriaus pavaduotojo ir Kalėjimų departamentui pavaldžios įstaigos direktoriaus pareigas skiriami 5 metų kadencijai, tačiau ne ilgiau negu jiems sukaks įstatymų nustatytas senatvės pensijos amžius. Kalėjimų departamento direktorius gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 4. Asmenys, baigę profesinio mokymo programą pataisos pareigūnų švietimo įstaigoje, taip pat šio statuto 12 straipsnyje nustatyta tvarka atrinkti asmenys skiriami pakaitiniais pataisos pareigūnais į laikinai negalinčių eiti pareigų pataisos pareigūnų pareigas ir jas eina tol, kol sugrįžta arba atleidžiamas negalėjęs eiti pareigų pataisos pareigūnas. 
 
@@ -256,43 +290,80 @@ prisiekiu būti ištikimas (ištikima) Lietuvos Respublikai, gerbti ir vykdyti L
 5. Jeigu pataisos pareigūną į pareigas paskyręs vadovas pripažįsta, kad pataisos pareigūno tarnyba išbandymo laikotarpiu yra nepatenkinama, pataisos pareigūnas iki išbandymo termino pabaigos atleidžiamas iš tarnybos vadovaujantis šio statuto 33 straipsnio 2 dalies 6 punktu. Atleisti pataisos pareigūną iš tarnybos pagal šio statuto 33 straipsnio 2 dalies 6 punktą galima išbandymo terminui nepasibaigus.
  
 
-16 straipsnis. Perkėlimas į kitas pareigas 
+16 straipsnis. Perkėlimas į kitas pareigas
 
-1. Pataisos pareigūnas gali būti perkeltas į kitas pareigas vadovo, turinčio teisę skirti į pataisos pareigūno pareigas, įsakymu. 
+1. Pataisos pareigūnas gali būti perkeltas į kitas pataisos pareigūno pareigas vadovo, turinčio teisę skirti į pataisos pareigūno pareigas, įsakymu.
 
-2. Pataisos pareigūnas į aukštesnes pareigas gali būti perkeltas:
+2. Pataisos pareigūnas į aukštesnes pataisos pareigūno pareigas gali būti perkeltas:
 
 1) kai atrenkamas į aukštesnes pareigas;
 
-2) pagal tarnybinės veiklos vertinimo komisijos siūlymą, nustatytą šio statuto 40 straipsnio 10 dalies 3 arba 4 punkte.
+2) pagal tarnybinės veiklos vertinimo komisijos siūlymą, nustatytą šio statuto 40 straipsnio 13 dalies 2 punkte.
 
-3. Pataisos pareigūnas, išskyrus pataisos pareigūną, priimtą į pareigas, kurioms nustatyta kadencija, į to paties lygio pareigas gali būti perkeltas:
+3. Pataisos pareigūnas, išskyrus pataisos pareigūną, priimtą į pareigas, kurioms nustatyta kadencija, į to paties lygio pataisos pareigūno pareigas gali būti perkeltas:
 
 1) jo sutikimu ar prašymu;
 
 2) kai panaikinama pareigybė;
 
-3) kai įstatymų nustatytais atvejais į tarnybą grįžta pirmiau dirbęs pataisos pareigūnas.
+3) kai įstatymų nustatytais atvejais į tarnybą grįžta pirmiau tarnavęs pataisos pareigūnas.
 
-4. Pataisos pareigūnas į žemesnes pareigas, išskyrus Kalėjimų departamento direktoriaus pavaduotojo ir Kalėjimų departamentui pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojo ir šių įstaigų administracijos padalinių vadovų ir vadovų pavaduotojų pareigas, gali būti perkeltas:
+4. Pataisos pareigūnas į žemesnes pataisos pareigūno pareigas, išskyrus Kalėjimų departamento direktoriaus pavaduotojo ir Kalėjimų departamentui pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojo ir šių įstaigų administracijos padalinių vadovų ir vadovų pavaduotojų pareigas, gali būti perkeltas:
 
 1) jo sutikimu ar prašymu;
 
 2) kai panaikinama pareigybė ir nėra galimybės perkelti į to paties lygio pareigas;
 
-3) kai įstatymų nustatytais atvejais į tarnybą grįžta pirmiau dirbęs pataisos pareigūnas ir nėra galimybės perkelti į to paties lygio pareigas;
+3) kai įstatymų nustatytais atvejais į tarnybą grįžta pirmiau tarnavęs pataisos pareigūnas ir nėra galimybės perkelti į to paties lygio pareigas;
 
-4) pagal tarnybinės veiklos vertinimo komisijos siūlymą.
+4) pagal tarnybinės veiklos vertinimo komisijos siūlymą;
 
-5. Pataisos pareigūnas gali būti perkeltas į kitas pareigas, jeigu jis atitinka tos kitos pareigybės aprašyme nustatytus specialiuosius reikalavimus ir prašo arba sutinka būti perkeltas.
+5) kai paskiriama tarnybinė nuobauda – perkėlimas į žemesnes pataisos pareigūno pareigas.
 
-6. Draudžiama pataisos pareigūną perkelti į kitas pareigas, jeigu įstaigoje, į kurią jis būtų perkeliamas, pareigas eina jo sutuoktinis, artimasis giminaitis ar svainystės ryšiais susijęs asmuo ir tarp jų būtų tiesioginio pavaldumo ryšys.
+5. Pataisos pareigūnas gali būti perkeltas į kitas pataisos pareigūno pareigas, jeigu jis atitinka tos kitos pareigybės aprašyme nustatytus specialiuosius reikalavimus ir prašo arba sutinka būti perkeltas.
 
-7. Pataisos pareigūnų perkėlimo į kitas pareigas taisykles nustato teisingumo ministras.
+6. Pataisos pareigūną perkelti į kitas pataisos pareigūno pareigas draudžiama:
 
-8. Pataisos pareigūnas įsakymą dėl jo perkėlimo į kitas pareigas per vieną mėnesį nuo supažindinimo su įsakymu dienos gali teisės aktų nustatyta tvarka apskųsti tarnybinių ginčų komisijai arba teismui.
+1) jeigu įstaigoje, į kurią jis būtų perkeliamas, dirba jo sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo ir tarp jų būtų tiesioginio pavaldumo ryšys;
 
-9. Pataisos pareigūnai į kitas valstybės tarnautojų pareigas laikinai perkeliami Valstybės tarnybos įstatymo nustatyta tvarka.
+2) jeigu tardymo izoliatoriuje arba pataisos įstaigoje yra laikomas pataisos pareigūno sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo arba šių asmenų priežiūrą vykdo probacijos tarnyba ir pataisos pareigūno perkėlimas į kitas pataisos pareigūno pareigas gali sukelti viešųjų ir privačių interesų konfliktą.
+
+7. Pataisos pareigūnų perkėlimo į kitas pataisos pareigūno pareigas taisykles nustato teisingumo ministras.
+
+8. Pataisos pareigūnas įsakymą dėl jo perkėlimo į kitas pataisos pareigūno pareigas per vieną mėnesį nuo supažindinimo su įsakymu dienos gali teisės aktų nustatyta tvarka apskųsti tarnybinių ginčų komisijai arba teismui.
+
+9. Pataisos pareigūnai į kitas valstybės tarnautojų pareigas perkeliami Valstybės tarnybos įstatymo nustatyta tvarka.
+
+10. Aukštesnėmis pataisos pareigūno pareigomis laikomos pataisos pareigūnų pareigybės, kurių maksimalus pareiginės algos koeficientas, nustatytas šio statuto priede, yra didesnis už šio statuto priede nustatytą maksimalų pareigybės, į kurią yra paskirtas pataisos pareigūnas, pareiginės algos koeficientą. To paties lygio pareigomis laikomos pataisos pareigūnų pareigybės, kurių maksimalus pareiginės algos koeficientas, nustatytas šio statuto priede, yra vienodas. Žemesnėmis pataisos pareigūno pareigomis laikomos pataisos pareigūnų pareigybės, kurių maksimalus pareiginės algos koeficientas, nustatytas šio statuto priede, yra mažesnis už šios statuto priede nustatytą maksimalų pareigybės, į kurią yra paskirtas pataisos pareigūnas, pareiginės algos koeficientą.
+
+11. Karjeros valstybės tarnautojas jo prašymu arba sutikimu gali būti perkeltas į pataisos pareigūno pareigas (išskyrus pataisos pareigūno pareigas, kurioms nustatyta kadencija) toje pačioje ar kitoje įstaigoje, jeigu jis atitinka šio statuto 10 straipsnio 1 dalies 5 ir 6 punktuose nustatytus reikalavimus ir tos pataisos pareigūno pareigybės aprašyme nustatytus specialiuosius reikalavimus.
+
+12. Perkeliant karjeros valstybės tarnautojus į pataisos pareigūno pareigas, taikomos šio straipsnio 6 dalies nuostatos.
+
+13. Karjeros valstybės tarnautojų perkėlimo į pataisos pareigūno pareigas taisykles nustato teisingumo ministras. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+161 straipsnis. Laikinas perkėlimas į kitas pareigas
+
+1. Kai pataisos pareigūnas laikinai negali eiti pareigų arba kai yra laisvos pataisos pareigūno pareigos, tačiau nėra galimybių kitais būdais tam tikrą laiką užtikrinti šioms pareigoms nustatytų funkcijų atlikimo, į šias pareigas gali būti laikinai perkeltas kitas pataisos pareigūnas (išskyrus pataisos pareigūną, paskirtą į pareigas, kurioms nustatyta kadencija).
+
+2. Į pataisos pareigūno, laikinai negalinčio eiti pareigų, pareigas gali būti perkeliama, iki grįš negalintis eiti pareigų pataisos pareigūnas arba bus atleistas negalėjęs eiti pareigų pataisos pareigūnas.
+
+3. Į laisvas pataisos pareigūno pareigas negali būti perkeliama ilgiau negu 6 mėnesiams ir toks perkėlimas į tas pačias pataisos pareigūno pareigas galimas ne dažniau kaip vieną kartą per 3 metus. Šis apribojimas netaikomas karo padėties, nepaprastosios padėties ar ekstremaliųjų situacijų atvejais.
+
+4. Į šio straipsnio 1 dalyje nurodytas pataisos pareigūno pareigas kitoje įstaigoje perkeliama įstaigų vadovams, skiriantiems į pareigas, suderinus šį klausimą ir laikinai perkeliamo pataisos pareigūno rašytiniu sutikimu. Be pataisos pareigūno rašytinio sutikimo į kitą įstaigą pataisos pareigūnas gali būti laikinai perkeliamas karo padėties, nepaprastosios padėties ar ekstremaliųjų situacijų atvejais.
+
+5. Pataisos pareigūnas laikinai gali būti perkeliamas į kitas pataisos pareigūno pareigas, jeigu jis atitinka šios pareigybės aprašyme nustatytus specialiuosius reikalavimus.
+
+6. Šio statuto 16 straipsnio 6 dalyje nustatytais atvejais pataisos pareigūną laikinai perkelti į kitas pataisos pareigūno pareigas draudžiama. 
+
+7. Pataisos pareigūnai į karjeros valstybės tarnautojų pareigas laikinai perkeliami Valstybės tarnybos įstatymo nustatyta tvarka. 
+
+Papildyta straipsniu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 KETVIRTASIS SKIRSNIS
@@ -324,7 +395,10 @@ PATAISOS PAREIGŪNŲ MOKYMAS
 
 2. Asmenų, pageidaujančių mokytis pataisos pareigūnų švietimo įstaigose, tikrinimą organizuoja Kalėjimų departamentui pavaldžios įstaigos šio statuto 11 straipsnio 1 ir 3 dalyse nustatyta tvarka.
 
-3. Nustačiusi, kad asmuo, pageidaujantis mokytis pataisos pareigūnų švietimo įstaigoje, atitinka šio statuto 10 straipsnio 1 dalies 1, 2, 3, 5 ir 6 punktų ir 2 dalies reikalavimus, Kalėjimų departamentui pavaldi įstaiga išduoda jam siuntimą į pataisos pareigūnų švietimo įstaigą. 
+3. Nustačiusi, kad asmuo, pageidaujantis mokytis pataisos pareigūnų švietimo įstaigoje, atitinka šio statuto 10 straipsnio 1 dalies 1, 2, 3, 5 ir 6 punktuose nustatytus reikalavimus ir nėra šio statuto 10 straipsnio 2 ir 3 dalyse nurodytų aplinkybių, Kalėjimų departamentui pavaldi įstaiga išduoda jam siuntimą į pataisos pareigūnų švietimo įstaigą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 4. Šio straipsnio 3 dalyje nurodyti asmenys, pataisos pareigūnų švietimo įstaigos atrinkti mokytis pagal profesinio mokymo programą ir pasirašę mokymo sutartį, priimami į pataisos pareigūnų švietimo įstaigą ir įrašomi į kursantų sąrašus.
 
@@ -399,15 +473,19 @@ TARNYBINIAI RANGAI IR TARNYBINĖ UNIFORMA
 
 23 straipsnis. Tarnybinių rangų suteikimas
 
-1. Pasibaigus nustatytam išbandymo terminui, pataisos pareigūnui, paskirtam Kalėjimų departamente ar jam pavaldžioje įstaigoje:
+1. Pataisos pareigūnui, paskirtam Kalėjimų departamente ar jam pavaldžioje įstaigoje:
 
-1) eiti jaunesniųjų pataisos pareigūnų grandies pareigas, suteikiamas pataisos jaunesniojo pareigūno III rangas, o pataisos pareigūnui, turinčiam aukštąjį išsilavinimą, – pataisos jaunesniojo pareigūno II rangas;
+1) eiti jaunesniųjų pataisos pareigūnų grandies pareigas, suteikiamas pataisos jaunesniojo pareigūno III rangas, o pataisos pareigūnui, baigusiam profesinio mokymo programą pataisos pareigūnų švietimo įstaigoje arba turinčiam aukštąjį išsilavinimą, – pataisos jaunesniojo pareigūno II rangas;
 
 2) eiti pataisos pareigūnų grandies pareigas, suteikiamas pataisos pareigūno III rangas, o pataisos pareigūnui, turinčiam aukštąjį universitetinį ar jam prilygintą išsilavinimą, – pataisos pareigūno II rangas;
 
 3) eiti vyresniųjų pataisos pareigūnų grandies pareigas, suteikiamas pataisos vyresniojo pareigūno III rangas;
 
-4) eiti vyriausiųjų pataisos pareigūnų grandies pareigas, suteikiamas pataisos vyriausiojo pareigūno rangas.
+4) eiti vyriausiųjų pataisos pareigūnų grandies pareigas, suteikiamas pataisos vyriausiojo pareigūno rangas. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 2. Aukštesnis jaunesniųjų pataisos pareigūnų grandies rangas suteikiamas pataisos pareigūnui, turinčiam atitinkamą rangą ir ištarnavusiam:
 
@@ -439,16 +517,19 @@ TARNYBINIAI RANGAI IR TARNYBINĖ UNIFORMA
 
 10. Pataisos pareigūnui, kuris turi galiojančią tarnybinę nuobaudą arba kurio tarnybinė veikla paskutinio tarnybinės veiklos vertinimo metu buvo įvertinta patenkinamai arba nepatenkinamai, aukštesnis rangas nesuteikiamas.
 
-11. Pareigybių suskirstymą pagal pataisos pareigūnų grandis, tarnybinių rangų priskyrimą pareigybėms ir jų suteikimo taisykles nustato teisingumo ministras.
+11. Neteko galios nuo 2017-12-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
-24 straipsnis. Tarnybinė uniforma ir skiriamieji ženklai
+24 straipsnis. Tarnybinė uniforma 
 
-1. Teisingumo ministras tvirtina pataisos pareigūnų, dėvinčių Vyriausybės arba jos įgaliotos institucijos patvirtintas nustatyto pavyzdžio tarnybines uniformas su tarnybinių rangų ženklais ir simbolika, pareigybių sąrašą.
+1. Kursantai ir pataisos pareigūnai valstybės lėšomis aprūpinami tarnybine uniforma, išskyrus pataisos pareigūnus, kurie paskirti į pataisos pareigūnų, kuriems tarnybinė uniforma neišduodama, pareigas.
 
-2. Pataisos pareigūnams tarnybinė uniforma išduodama nemokamai.
+2. Tarnybinės uniformos pavyzdžius, išdavimo normas ir dėvėjimo tvarką, taip pat pataisos pareigūnų, kuriems tarnybinė uniforma neišduodama, pareigybes nustato teisingumo ministras. 
 
-3. Tarnybinės uniformos išdavimo normas ir dėvėjimo tvarką nustato teisingumo ministras.
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 ŠEŠTASIS SKIRSNIS
@@ -610,13 +691,19 @@ PATAISOS PAREIGŪNŲ SKATINIMAS IR TARNYBINĖ ATSAKOMYBĖ
 
 1) padėka;
 
-2) vienkartine pinigine išmoka, skiriama ir mokama Vyriausybės nustatyta tvarka;
+2) iki 2 pareiginių algų dydžio pinigine išmoka, skiriama ir mokama Vyriausybės nustatyta tvarka;
 
-3) vardine dovana;
+3) Vyriausybės nustatyta tvarka nuo 1 iki 3 pareiginių algų dydžio pinigine išmoka – už dalyvavimą atskleidžiant ar ištiriant nusikalstamas veikas ar kitus teisės pažeidimus, padarytus Kalėjimų departamente, jam pavaldžiose įstaigose ar įmonėse, kuriose dirba suimtieji ir nuteistieji;
 
-4) papildomomis mokamomis atostogomis iki 10 kalendorinių dienų;
+4) vardine dovana;
 
-5) žinybiniu ženklu.
+5) papildomomis mokamomis atostogomis iki 10 kalendorinių dienų;
+
+6) žinybiniu ženklu. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 2. Pataisos pareigūnams už tarnybinius nusižengimus gali būti skiriamos šios tarnybinės nuobaudos:
 
@@ -626,7 +713,15 @@ PATAISOS PAREIGŪNŲ SKATINIMAS IR TARNYBINĖ ATSAKOMYBĖ
 
 3) griežtas papeikimas;
 
-4) atleidimas iš tarnybos.
+4) tarnybinio rango pažeminimas viena pakopa;
+
+5) perkėlimas į žemesnes pataisos pareigūno pareigas;
+
+6) atleidimas iš tarnybos. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 3. Pataisos pareigūnai už padarytus tarnybinius nusižengimus tarnybinėn atsakomybėn traukiami neatsižvelgiant į tai, ar pataisos pareigūnas atsako baudžiamąja, ar administracine tvarka. 
 
@@ -637,6 +732,16 @@ PATAISOS PAREIGŪNŲ SKATINIMAS IR TARNYBINĖ ATSAKOMYBĖ
 6. Tarnybinės nuobaudos negali būti skiriamos profesinių sąjungų nariams dėl jų narystės profesinėse sąjungose, dėl atstovavimo profesinių sąjungų nariams arba dėl veiklos profesinėse sąjungose.
 
 7. Tarnybinė nuobauda išnyksta Valstybės tarnybos įstatymo nustatyta tvarka.
+ 
+
+291 straipsnis. Duomenų apie galimus pataisos pareigūnų tarnybinius nusižengimus teikimas
+
+1. Duomenys apie galimą pataisos pareigūno tarnybinį nusižengimą teikiami šį pataisos pareigūną į pareigas paskyrusiam vadovui.
+
+2. Kai duomenis apie galimą pataisos pareigūno tarnybinį nusižengimą pateikęs asmuo motyvuotai prašo neatskleisti jo asmens duomenų (vardo, pavardės, asmens kodo, einamų pareigų ir kitų duomenų, leidžiančių nustatyti jo asmens tapatybę), tokį prašymą gavęs šio straipsnio 1 dalyje nurodytas vadovas nuo prašymo gavimo užtikrina gautų asmens duomenų konfidencialumą. 
+
+Papildyta straipsniu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 30 straipsnis. Tarnybinių nuobaudų skyrimas
@@ -651,21 +756,32 @@ PATAISOS PAREIGŪNŲ SKATINIMAS IR TARNYBINĖ ATSAKOMYBĖ
 
 3. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 30 dienų nuo tarnybinio nusižengimo paaiškėjimo dienos, o kai kompetentinga institucija atlieka tyrimą, tarnybinį patikrinimą šio straipsnio 7 dalies 1 punkte nustatytu atveju, – ne vėliau kaip per 2 mėnesius nuo kompetentingos institucijos atlikto tyrimo pabaigos dienos ar motyvuotos tarnybinio patikrinimo išvados šio straipsnio 7 dalies 1 punkte nustatytu atveju surašymo dienos. Sprendimas šio straipsnio 7 dalies 2 punkte nustatytu atveju priimamas ne vėliau kaip per 2 mėnesius nuo motyvuotos tarnybinio patikrinimo išvados surašymo dienos. Negalima skirti tarnybinės nuobaudos, jeigu nuo tarnybinio nusižengimo padarymo dienos praėjo vieni metai, išskyrus šio straipsnio 7 dalyje nustatytus atvejus, kai tarnybinio nusižengimo tyrimas sustabdomas šio straipsnio 8 dalyje nustatytais atvejais arba kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių inventorizaciją arba kompetentingai institucijai atliekant tarnybinį ar kitą patikrinimą. Šiais atvejais tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 3 metus nuo tarnybinio nusižengimo padarymo dienos. 
 
-4. Į šio straipsnio 3 dalyje nustatytą 30 dienų terminą neįskaitomas laikas, kurį pataisos pareigūnas nebuvo tarnyboje dėl ligos, buvo komandiruotėje ar atostogavo, taip pat laikas, per kurį įstatymų nustatyta tvarka turi būti išnagrinėtas skundas dėl profesinės sąjungos renkamojo organo nesutikimo dėl tarnybinės nuobaudos skyrimo pataisos pareigūnui.
+4. Į šio straipsnio 3 dalyje nustatytus tarnybinės nuobaudos skyrimo terminus neįskaitomas laikas, kurį pataisos pareigūnas nebuvo tarnyboje dėl ligos, buvo komandiruotėje ar atostogavo, taip pat laikas, per kurį įstatymų nustatyta tvarka turi būti išnagrinėtas skundas dėl profesinės sąjungos renkamojo organo nesutikimo dėl tarnybinės nuobaudos skyrimo pataisos pareigūnui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 5. Už vieną tarnybinį nusižengimą galima skirti tik vieną tarnybinę nuobaudą. 
 
-6. Kai yra duomenų apie galimą pataisos pareigūno tarnybinį nusižengimą, atliekamas tarnybinis patikrinimas. Teisingumo ministras arba Kalėjimų departamento direktorius, gavęs duomenų apie galimą pataisos pareigūno tarnybinį nusižengimą, gali pavesti Teisingumo ministerijos administracijos padaliniui (Kalėjimų departamento direktorius – Kalėjimų departamento administracijos padaliniui), atliekančiam tarnybinius tyrimus ir patikrinimus (toliau – tyrimų padalinys), atlikti tarnybinį patikrinimą dėl galimo pataisos pareigūno tarnybinio nusižengimo. Jeigu dėl šio tarnybinio nusižengimo Kalėjimų departamentui pavaldžioje įstaigoje, kurioje pataisos pareigūnas eina pareigas, jau yra pradėtas tarnybinis patikrinimas, teisingumo ministro arba Kalėjimų departamento direktoriaus pavedimu šis tarnybinis patikrinimas perduodamas atlikti tyrimų padaliniui. Šiuo atveju tarnybinis patikrinimas Kalėjimų departamentui pavaldžioje įstaigoje nebeatliekamas. Teisingumo ministras arba Kalėjimų departamento direktorius gali pavesti tyrimų padaliniui įvertinti Kalėjimų departamentui pavaldžiose įstaigose, o teisingumo ministras – ir Kalėjimų departamente atliktų tarnybinių patikrinimų išvadų teisėtumą ir pagrįstumą. Pataisos pareigūną į pareigas skiriantis vadovas, priimdamas sprendimą dėl tarnybinės nuobaudos skyrimo pataisos pareigūnui, atsižvelgia į teisingumo ministro arba Kalėjimų departamento direktoriaus patvirtintą tyrimų padalinio atlikto tarnybinio patikrinimo išvadą arba į Kalėjimų departamentui pavaldžioje įstaigoje atliktų tarnybinių patikrinimų išvadų teisėtumo ir pagrįstumo įvertinimą, kuriam pritarė teisingumo ministras arba Kalėjimų departamento direktorius.
+6. Teisingumo ministras, gavęs informaciją, kuri leidžia pagrįstai manyti, kad Kalėjimų departamento direktorius ar direktoriaus pavaduotojas galimai padarė tarnybinį nusižengimą, per 7 darbo dienas paveda Teisingumo ministerijos administracijos padaliniui, atliekančiam personalo administravimo funkcijas, atlikti tarnybinį patikrinimą, o kai gauta informacija apie galimą šiurkštų tarnybinį nusižengimą, – gali sudaryti komisiją tarnybiniam patikrinimui atlikti. Kai informacija apie galimą Kalėjimų departamento direktoriaus ar direktoriaus pavaduotojo tarnybinį nusižengimą yra susijusi su finansų ir (ar) turto valdymu, gali būti atliekamas vidaus auditas ir tik gavus audito išvadą per 5 darbo dienas nuo jos gavimo dienos priimamas sprendimas dėl tarnybinio patikrinimo atlikimo. Teisingumo ministras, gavęs informaciją apie galimus kitų pataisos pareigūnų tarnybinius nusižengimus, per 3 darbo dienas paveda Kalėjimų departamento direktoriui atlikti tarnybinį patikrinimą. Kalėjimų departamento direktorius, gavęs duomenų apie galimą pataisos pareigūno, išskyrus Kalėjimų departamento direktorių ar direktoriaus pavaduotoją, tarnybinį nusižengimą, per 5 darbo dienas paveda Kalėjimų departamento administracijos padaliniui, atliekančiam tarnybinius patikrinimus, atlikti tarnybinį patikrinimą arba sudaro komisiją tarnybiniam patikrinimui atlikti, arba tarnybinį patikrinimą paveda atlikti jam pavaldžios įstaigos, kurioje tarnauja tarnybinį nusižengimą galimai padaręs pataisos pareigūnas, vadovui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
-7. Tarnybinio nusižengimo tyrimas, gavus informacijos apie galimą pataisos pareigūno tarnybinį nusižengimą, pradedamas, o pradėto tarnybinio nusižengimo tyrimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas:
+7. Tarnybinis patikrinimas, gavus informacijos apie galimą pataisos pareigūno tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas:
 
 1) kai pataisos pareigūnas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, perkeliamas į pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje. Šiuo atveju tarnybinį patikrinimą pradėjęs asmuo motyvuotą tarnybinio patikrinimo išvadą, kurioje konstatuojama, kad pataisos pareigūnas padarė tarnybinį nusižengimą, ir siūloma jam skirti tarnybinę nuobaudą, teisingumo ministro nustatyta tvarka perduoda valstybės ar savivaldybės institucijos ar įstaigos, į kurią perkeltas pataisos pareigūnas, vadovui, valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir pareigūnui, kuris pripažintas padaręs tarnybinį nusižengimą. Sprendimą dėl tarnybinės nuobaudos skyrimo pataisos pareigūnui priima valstybės ar savivaldybės institucijos ar įstaigos, į kurią pataisos pareigūnas perkeltas, vadovas, atsižvelgdamas į šio straipsnio 3 dalyje nustatytus reikalavimus;
 
-2) kai pataisos pareigūnas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš tarnybos. Sprendimą dėl pataisos pareigūno, atleisto iš tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima pataisos pareigūną į pareigas skyręs vadovas, atsižvelgdamas į šio straipsnio 3 dalyje nustatytus reikalavimus. Šis sprendimas teisingumo ministro nustatyta tvarka perduodamas valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir atleistajam iš pataisos pareigūno pareigų.
+2) kai pataisos pareigūnas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinis patikrinimas, atleidžiamas iš tarnybos. Sprendimą dėl pataisos pareigūno, atleisto iš tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima pataisos pareigūną į pareigas skyręs vadovas, atsižvelgdamas į šio straipsnio 3 dalyje nustatytus reikalavimus. Šis sprendimas teisingumo ministro nustatyta tvarka perduodamas valstybės tarnybos tvarkymo funkcijas atliekančiai įstaigai ir atleistajam iš pataisos pareigūno pareigų. 
 
-8. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai. Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl pataisos pareigūno veikos yra pradėtas baudžiamasis procesas ar administracinio nusižengimo teisena. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinio nusižengimo teiseną arba pasibaigia baudžiamasis procesas ar administracinio nusižengimo teisena, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pataisos pareigūno veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį nusižengimą atriboti nuo nusikalstamos veikos ar administracinio nusižengimo, tarnybinio nusižengimo tyrimas tęsiamas neatsižvelgiant į baudžiamojo proceso ar administracinio nusižengimo teisenos eigą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+8. Jeigu tarnybinio patikrinimo metu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar kito teisės pažeidimo, kurių tyrimas priskirtinas kitų institucijų kompetencijai, požymių, tarnybinis patikrinimas sustabdomas, o turima informacija perduodama kompetentingai institucijai. Gavus sprendimą atsisakyti pradėti ikiteisminį tyrimą ar administracinio nusižengimo teiseną arba nutraukti baudžiamąją bylą ar administracinio nusižengimo teiseną, taip pat kompetentingos institucijos išvadą dėl perduotos tirti tarnybinio patikrinimo medžiagos, tarnybinis patikrinimas tęsiamas ir tarnybinė nuobauda turi būti paskirta šiame straipsnyje nustatyta tvarka ir terminais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2713, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26497
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 9. Tarnybinę nuobaudą pataisos pareigūnui skiria arba sprendimą dėl pataisos pareigūno, atleisto iš tarnybos, pripažinimo padariusiu tarnybinį nusižengimą ir sprendimą dėl tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima pataisos pareigūną į pareigas skyręs vadovas. 
@@ -707,7 +823,10 @@ Pataisos pareigūnai nuo pareigų nušalinami Valstybės tarnybos įstatymo ir k
 
 4) kai negali eiti savo kaip pataisos pareigūno pareigų Kalėjimų departamente arba jam pavaldžiose įstaigose dėl sveikatos būklės (kai yra tai patvirtinanti Medicinos centro išvada), o perkelti pataisos pareigūną jo sutikimu į kitas pareigas, kurias jis pagal sveikatos būklę ir kvalifikaciją galėtų eiti, nėra galimybės;
 
-5) kai įsiteisėja teismo nuosprendis, kuriuo pataisos pareigūnas pripažįstamas kaltu dėl nusikalstamos veikos padarymo arba jam atimama teisė dirbti teisėsaugos institucijose, arba dėl kurio vykdymo jis negali atlikti savo pareigų, arba jei buvo padaręs tyčinį nusikaltimą ir buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą;
+5) kai įsiteisėja teismo nuosprendis, kuriuo pataisos pareigūnas pripažįstamas kaltu dėl nusikalstamos veikos padarymo arba jam atimama teisė dirbti teisėsaugos institucijose, arba dėl kurio vykdymo jis negali atlikti savo pareigų, arba kai buvo padaręs nusikalstamą veiką ir buvo atleistas nuo baudžiamosios atsakomybės (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai nusikalstama veika prarado pavojingumą); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 6) kai jo tarnyba išbandymo laikotarpiu įvertinama nepatenkinamai; 
 
@@ -717,7 +836,10 @@ Pataisos pareigūnai nuo pareigų nušalinami Valstybės tarnybos įstatymo ir k
 
 9) kai pereina į renkamas pareigas arba pareigas, į kurias skiriama atrankos būdu;
 
-10) kai paaiškėja šio statuto 10 straipsnio 2 dalyje nurodytų aplinkybių, dėl kurių asmuo į tarnybą Kalėjimų departamente arba jam pavaldžiose įstaigose negali būti priimtas ir kurios asmens priėmimo į tarnybą metu nebuvo žinomos;
+10) kai paaiškėja šio statuto 10 straipsnyje nurodytų aplinkybių, dėl kurių asmuo į tarnybą Kalėjimų departamente arba jam pavaldžiose įstaigose negali būti priimtas ir kurios asmens priėmimo į tarnybą metu nebuvo žinomos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 11) kai paaiškėja, kad priimant į tarnybą buvo pateikti suklastoti dokumentai;
 
@@ -745,18 +867,38 @@ Pataisos pareigūnai nuo pareigų nušalinami Valstybės tarnybos įstatymo ir k
 
 23) kai iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš valstybės tarnybos tvarkymo funkcijas atliekančios įstaigos pateiktos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš kitų duomenų pataisos pareigūną į pareigas priėmęs asmuo padaro išvadą, kad pataisos pareigūnas neatitinka nepriekaištingos reputacijos reikalavimų ir dėl to negali toliau eiti pataisos pareigūno pareigų;
 
-24) kai pataisos pareigūną į pareigas paskyręs vadovas nevykdo Valstybės tarnybos įstatymo 31 straipsnio 3 ir 4 dalyse nustatytų pareigų.
+24) kai sudaromas šalių susitarimas dėl pataisos pareigūno atleidimo iš tarnybos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+25) jo paties prašymu dėl išėjimo į pensiją; 
+Papildyta straipsnio punktu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+26) kai nustatoma, kad pataisos pareigūnas tarnybos (darbo), pertraukos pailsėti ir pavalgyti metu, papildomos ir specialios pertraukos pailsėti dienos (pamainos) laiku buvo apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų medžiagų. 
+Papildyta straipsnio punktu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 3. Pataisos pareigūnų atleidimo iš tarnybos tvarką nustato teisingumo ministras.
+
+4. Šio straipsnio 2 dalies 15 ir 16 punktų nuostatos netaikomos pataisos pareigūnams, kuriems pagal šio statuto 13 straipsnio 3 dalį nustatyta kadencija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 34 straipsnis. Tarnybos pratęsimo tvarka
 
-1. Pataisos pareigūnas tol, kol jam sukaks šio statuto 33 straipsnio 2 dalies 15 punkte nustatytas amžius arba kol baigsis šioje dalyje nurodyta tvarka nustatytas jo tarnybos pratęsimo terminas, turi teisę ne vėliau kaip prieš 4 mėnesius pateikti šio statuto 13 straipsnio 2 arba 3 dalyje nurodytiems vadovams rašytinį prašymą dėl tarnybos pratęsimo. Šie vadovai gali įsakymu pataisos pareigūno tarnybą pratęsti, jeigu nėra galimybių kitais būdais tam tikrą laiką užtikrinti pataisos pareigūnui nustatytų funkcijų atlikimą ir šio pareigūno paskutinių 2 metų tarnybinė veikla buvo įvertinta gerai arba labai gerai. Kiekvieną kartą pataisos pareigūno tarnybą galima pratęsti ne ilgesniam kaip 3 metų laikotarpiui, tačiau ne ilgiau, negu jam sukanka Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme nustatytas senatvės pensijos amžius.
+1. Pataisos pareigūnas tol, kol jam sukaks šio statuto 33 straipsnio 2 dalies 15 punkte nustatytas amžius arba kol baigsis šioje dalyje nurodyta tvarka nustatytas jo tarnybos pratęsimo terminas, turi teisę ne vėliau kaip prieš 4 mėnesius pateikti šio statuto 13 straipsnio 2 arba 3 dalyje nurodytiems vadovams rašytinį prašymą dėl tarnybos pratęsimo. Šie vadovai gali įsakymu pataisos pareigūno tarnybą pratęsti, jeigu nėra galimybių kitais būdais tam tikrą laiką užtikrinti pataisos pareigūnui nustatytų funkcijų atlikimą ir šio pareigūno paskutinių 2 metų tarnybinė veikla buvo įvertinta gerai arba labai gerai. Kiekvieną kartą pataisos pareigūno tarnybą galima pratęsti ne ilgesniam kaip 3 metų laikotarpiui, tačiau ne ilgiau, negu jam sukanka įstatymų nustatytas senatvės pensijos amžius.
 
-2. Skiriant į pataisos pareigūno pareigas vyresnį kaip 55 metų asmenį, nustatomas ne ilgesnis kaip 3 metų jo tarnybos laikas ir šio pataisos pareigūno tarnybos laikas negali tęstis ilgiau, negu jam sukanka Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme nustatytas senatvės pensijos amžius. Šioje dalyje nurodyto pataisos pareigūno tarnybos laikas gali būti pratęsiamas šio straipsnio 1 dalyje nustatyta tvarka tol, kol baigsis šioje dalyje nurodyta tvarka nustatytas jo tarnybos laikas arba sueis šioje dalyje nurodyta tvarka nustatytas jo tarnybos pratęsimo terminas.
+2. Skiriant į pataisos pareigūno pareigas vyresnį kaip 55 metų asmenį, nustatomas ne ilgesnis kaip 3 metų jo tarnybos laikas ir šio pataisos pareigūno tarnybos laikas negali tęstis ilgiau, negu jam sukanka įstatymų nustatytas senatvės pensijos amžius. Šioje dalyje nurodyto pataisos pareigūno tarnybos laikas gali būti pratęsiamas šio straipsnio 1 dalyje nustatyta tvarka tol, kol baigsis šioje dalyje nurodyta tvarka nustatytas jo tarnybos laikas arba sueis šioje dalyje nurodyta tvarka nustatytas jo tarnybos pratęsimo terminas.
 
-3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos pataisos pareigūnams, kurie paskirti į pareigas nustatytai kadencijai.
+3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos pataisos pareigūnams, kurie paskirti į pareigas nustatytai kadencijai. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 35 straipsnis. Atleidimas iš tarnybos pataisos pareigūno prašymu
@@ -766,9 +908,22 @@ Pataisos pareigūnai nuo pareigų nušalinami Valstybės tarnybos įstatymo ir k
 2. Pataisos pareigūnas, pateikęs prašymą atleisti jį iš tarnybos, turi teisę nė vėliau kaip per 3 darbo dienas nuo prašymo pateikimo dienos savo prašymą atšaukti. Po to jis gali atšaukti prašymą tik vadovo, turinčio įgaliojimus atleisti iš tarnybos, sutikimu.
  
 
+351 straipsnis. Atleidimas iš tarnybos šalių susitarimu
+
+1. Pataisos pareigūnas gali pateikti rašytinį pasiūlymą jį į pareigas paskyrusiam vadovui, o į pareigas paskyręs vadovas gali pateikti rašytinį pasiūlymą pataisos pareigūnui dėl atleidimo iš tarnybos šalių susitarimu. Šalis, sutikdama su tokiu gautu pasiūlymu, per 7 kalendorines dienas turi apie tai raštu pranešti kitai šaliai. Per šį terminą nepranešus apie sutikimą su pasiūlymu dėl atleidimo iš tarnybos šalių susitarimu, laikoma, kad šis pasiūlymas atmestas. 
+
+2. Gavus šio straipsnio 1 dalyje nurodytą sutikimą, sudaromas rašytinis susitarimas, kuriame nurodoma, nuo kurio laiko pataisos pareigūnas atleidžiamas iš tarnybos, nepanaudotų kasmetinių atostogų suteikimo ar kompensavimo, išeitinės išmokos mokėjimo, mokymo, kvalifikacijos tobulinimo išlaidų atlyginimo ir kitos sąlygos, kurios, be kita ko, gali būti nustatytos kolektyvinėje sutartyje. 
+
+Papildyta straipsniu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
 36 straipsnis. Reikalavimai, taikomi atleidžiant pataisos pareigūną iš tarnybos atskirais pagrindais
 
-1. Negalima atleisti pataisos pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu arba atostogų metu (išskyrus atleidimą pagal šio statuto 33 straipsnio 1 dalį ir 2 dalies 1, 3, 4, 5, 11, 12, 15, 16, 17, 18, 20, 21 ir 22 punktus). 
+1. Negalima atleisti pataisos pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu arba atostogų metu (išskyrus atleidimą pagal šio statuto 33 straipsnio 1 dalį ir 2 dalies 1, 3, 4, 5, 11, 12, 15, 16, 17, 18, 20, 21, 22, 24, 25 ir 26 punktus). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 2. Atleisti pataisos pareigūną iš tarnybos pagal šio statuto 33 straipsnio 1 dalį, 2 dalies 17 ir 19 punktus galima tik jį įspėjus raštu ne vėliau kaip prieš 2 mėnesius iki atleidimo dienos. Pataisos pareigūnui, kuriam iki teisės gauti visą valstybinio socialinio draudimo senatvės pensiją liko ne daugiau kaip 5 metai, nėščiai pataisos pareigūnei (kai likviduojama įstaiga, kurioje tarnauja ši pataisos pareigūnė), pataisos pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų, apie numatomą atleidimą iš tarnybos turi būti pranešta raštu ne vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas netenka galios, jeigu pasibaigus įspėjimo terminui praeina daugiau kaip vienas mėnuo, neįskaitant pataisos pareigūno laikinojo nedarbingumo ir atostogų laiko, ir pataisos pareigūnas neatleidžiamas iš tarnybos. Kai pataisos pareigūnas atleidžiamas iš tarnybos nepasibaigus įspėjimo terminui, jo atleidimo data nukeliama iki to laiko, kada turėjo pasibaigti įspėjimo terminas.
 
@@ -779,15 +934,19 @@ Pataisos pareigūnai nuo pareigų nušalinami Valstybės tarnybos įstatymo ir k
 
 37 straipsnis. Išeitinė išmoka 
 
-1. Pataisos pareigūnui, kuris atleidžiamas iš tarnybos pagal šio statuto 33 straipsnio 1 dalį, 2 dalies 4, 17, 19, 21 ir 22 punktus, išmokama jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, apskaičiuojama atsižvelgiant į nepertraukiamą jo tarnybos stažą Kalėjimų departamente (Pataisos reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje:
+1. Pataisos pareigūnui, kuris atleidžiamas iš tarnybos pagal šio statuto 33 straipsnio 1 dalį, 2 dalies 4, 17, 19, 21, 22 ir 24 punktus, išmokama išeitinė išmoka, apskaičiuojama atsižvelgiant į nepertraukiamą jo tarnybos stažą Kalėjimų departamente (Pataisos reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje:
 
-1) iki 5 metų – 2 mėnesių vidutinio darbo užmokesčio dydžio;
+1) iki 5 metų – 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka;
 
-2) nuo 5 iki 10 metų – 3 mėnesių vidutinio darbo užmokesčio dydžio;
+2) nuo 5 iki 10 metų – 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka;
 
-3) nuo 10 iki 20 metų – 4 mėnesių vidutinio darbo užmokesčio dydžio;
+3) nuo 10 iki 20 metų – 4 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka;
 
-4) daugiau kaip 20 metų – 6 mėnesių vidutinio darbo užmokesčio dydžio.
+4) daugiau kaip 20 metų – 6 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 2. Nustatant šio straipsnio 1 dalyje nurodytos išeitinės išmokos dydį, į nepertraukiamą pataisos pareigūno tarnybos stažą Kalėjimų departamente (Pataisos reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje taip pat įskaitomas laikas, kurį pataisos pareigūnas šio statuto 16 straipsnyje numatytais atvejais buvo perkeltas į kitas pareigas, ir laikas, kurį pataisos pareigūnas teisės aktų nustatyta tvarka buvo atrankos būdu paskirtas į kitas pareigas.
 
@@ -800,11 +959,15 @@ PATAISOS PAREIGŪNŲ DARBO UŽMOKESTIS
 
 38 straipsnis. Pataisos pareigūnų darbo užmokestis
 
-1. Pataisos pareigūnų darbo užmokestį sudaro pareiginė alga, priedai už tarnybos Lietuvos valstybei stažą, tarnybinį rangą, kvalifikacinę kategoriją, apmokėjimas už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, taip pat pareiginės algos dydžio vienkartinis priedas ir priemokos.
+1. Pataisos pareigūnų darbo užmokestį sudaro pareiginė alga, priedai, priemokos ir apmokėjimas už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, už dalyvavimą projektinėje veikloje.
 
-2. Pareiginė alga, priedai ir priemokos, taip pat už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą mokama Valstybės tarnybos įstatymo ir šio statuto nustatyta tvarka.
+2. Pataisos pareigūnams mokami šie priedai:
 
-3. Pataisos pareigūnams nustatomi tokie pareiginės algos priedų už tarnybinius rangus apskaičiavimo pagal pareiginės algos bazinį dydį (toliau – bazinis dydis) koeficientai:
+1) priedas už tarnybos Lietuvos valstybei stažą. Priedo už tarnybos Lietuvos valstybei stažą dydis yra 3 procentai pareiginės algos už kiekvienus 3 metus, įskaičiuojamus į pagal šio statuto 43 straipsnyje nustatytą pataisos pareigūnų tarnybos stažą. Šio priedo suma negali viršyti 30 procentų pareiginės algos; 
+
+2) priedas už tarnybinį rangą, kuris mokamas šiame straipsnyje nustatyta tvarka.
+
+3. Pataisos pareigūnams nustatomi tokie pareiginės algos priedų už tarnybinius rangus apskaičiavimo pagal valstybės tarnautojų pareiginės algos bazinį dydį (toliau – bazinis dydis), kuris yra lygus Lietuvos Respublikos Seimo patvirtintam atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos (atlyginimo) baziniam dydžiui, koeficientai:
 
 1) už pataisos jaunesniojo pareigūno III rangą – 0,2 bazinio dydžio;
 
@@ -828,17 +991,52 @@ PATAISOS PAREIGŪNŲ DARBO UŽMOKESTIS
 
 11) už pataisos generalinio pareigūno rangą – 1 bazinio dydžio.
 
-4. Pataisos pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines kategorijas:
+4. Pataisos pareigūnams mokamos šios priemokos:
 
-1) už 3 kategoriją – 15 procentų pareiginės algos;
+1) už darbą, kai raštu pavedama laikinai atlikti ir kito pataisos pareigūno, karjeros valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, funkcijas;
 
-2) už 2 kategoriją – 30 procentų pareiginės algos;
+2) už darbą pavojingomis darbo sąlygomis. Pareigybių, į kurias paskirtiems Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnams mokamos priemokos už darbą pavojingomis darbo sąlygomis, sąrašą tvirtina Kalėjimų departamento direktorius;
 
-3) už 1 kategoriją – 50 procentų pareiginės algos.
+3) už darbą, tiesiogiai susijusį su tarnybinių gyvūnų priežiūra ir parengimu atlikti tarnybines pareigas;
 
-5. Pareigybių, į kurias paskirtiems Kalėjimų departamentui pavaldžių įstaigų pataisos pareigūnams mokamos priemokos už darbą pavojingomis darbo sąlygomis, sąrašą tvirtina Kalėjimų departamento direktorius.
+4) 1 bazinio dydžio priemoka kuratoriais paskirtiems pataisos pareigūnams;
 
-6. Kuratoriais paskirtiems pataisos pareigūnams mokamos priemokos. Šių priemokų mokėjimo tvarką ir sąlygas nustato Kalėjimų departamento direktorius. 
+5) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas, bet neviršijama nustatyta darbo laiko trukmė.
+
+5. Šio straipsnio 4 dalies 1 ir 5 punktuose nurodytų priemokų dydis negali viršyti 50 procentų pareiginės algos, šio straipsnio 4 dalies 2 ir 3 punktuose nurodytų priemokų dydis negali viršyti 20 procentų pareiginės algos.
+
+6. Pataisos pareigūnams, kuriems pavesta laikinai atlikti ir kito pataisos pareigūno, karjeros valstybės tarnautojo ar darbuotojo, dalyvaujančio Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba vystomojo bendradarbiavimo projektuose ir teikiančio humanitarinę pagalbą, funkcijas, šio straipsnio 4 dalies 1 punkte nurodyta priemoka gali būti mokama iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamų paramos teikimo projektų lėšų.
+
+7. Už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą, už dalyvavimą projektinėje veikloje apmokama Valstybės tarnybos įstatymo nustatyta tvarka. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+381 straipsnis. Pareiginė alga
+
+1. Pareiginė alga nustatoma taikant šio statuto priede pataisos pareigūno pareigybei nustatytą pareiginės algos koeficientą iš atitinkamai pataisos pareigūno pareigybei nustatytų pareiginės algos koeficientų.
+
+2. Pareiginės algos koeficiento vienetas yra bazinis dydis. Pareiginė alga apskaičiuojama pareiginės algos koeficientą dauginant iš bazinio dydžio.
+
+3. Skiriant asmenį į pataisos pareigūno pareigas, pareiginė alga jam nustatoma taikant ne didesnį negu trečią, skaičiuojant nuo tai pataisos pareigūno pareigybei nustatyto žemiausiojo, šio statuto priede nustatytą pareiginės algos koeficientą. Asmeniui, ėjusiam šio statuto 13 straipsnio 3 dalyje nurodytas pareigas ir atrinktam eiti tas pačias arba kitas šio statuto 13 straipsnio 3 dalyje nurodytas pareigas, gali būti taikomas jo turėtas pareiginės algos koeficientas, jei jis buvo didesnis negu trečias, skaičiuojant nuo tai pataisos pareigūno pareigybei šio statuto priede nustatyto žemiausiojo, pareiginės algos koeficientas ir nuo šio statuto 13 straipsnio 3 dalyje nurodytų pareigų ėjimo praėjo ne daugiau kaip 6 mėnesiai.
+
+4. Aukštesnis arba žemesnis šio statuto priede nustatytas pareiginės algos koeficientas tarnaujančiam pataisos pareigūnui taikomas šio statuto nustatyta tvarka atlikus jo tarnybinės veiklos vertinimą.
+
+5. Pataisos pareigūnui, šio statuto nustatyta tvarka perkeltam į aukštesnes pareigas, pareiginė alga nustatoma taikant šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientą, kuris yra artimiausias, bet didesnis negu jo turėtas pareiginės algos koeficientas.
+
+6. Pataisos pareigūnui, šio statuto nustatyta tvarka perkeltam į to paties lygio pareigas, pareiginė alga nustatoma taikant šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientą, kuris yra tokio paties dydžio kaip taikytasis jam einant to paties lygio pareigas.
+
+7. Pataisos pareigūnui, šio statuto nustatyta tvarka perkeltam į žemesnes pareigas, pareiginė alga nustatoma taikant šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientą, kuris yra tokio paties dydžio kaip taikytasis iki perkėlimo, o jeigu tokio pareiginės algos koeficiento nėra arba pataisos pareigūnas perkeltas į žemesnes pareigas paskyrus tarnybinę nuobaudą – perkėlimą į žemesnes pataisos pareigūno pareigas, – artimiausią, bet mažesnį negu jo turėtasis pareiginės algos koeficientą.
+
+8. Laikinai perkeliamam į aukštesnes pataisos pareigūno pareigas pataisos pareigūnui taikomas šio statuto priede šiai pareigybei nustatytas pareiginės algos koeficientas, kuris yra artimiausias, bet didesnis negu jo turėtasis, o jeigu tokio nėra, – jo turėtas pareiginės algos koeficientas.
+
+9. Laikinai perkeliamam į to paties lygio ar žemesnes pareigas pataisos pareigūnui mokama iki jo perkėlimo nustatytoji pareiginė alga.
+
+10. Pataisos pareigūnų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama pareiginės algos dydį padalijant iš to mėnesio darbo valandų arba dienų skaičiaus pagal pataisos pareigūno darbo laiko apskaitos žiniaraštį ir gautą darbo valandos arba darbo dienos atlygį padauginant iš pataisos pareigūno dirbtų valandų arba dienų skaičiaus. 
+
+Papildyta straipsniu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 39 straipsnis.  Pavėluotas darbo užmokesčio ir kitų su tarnybos santykiais susijusių išmokų mokėjimas
@@ -848,77 +1046,80 @@ Kai dėl Kalėjimų departamento arba jam pavaldžios įstaigos kaltės pavėluo
 
 40 straipsnis. Tarnybinės veiklos vertinimas
 
-1. Pataisos pareigūnams, atsižvelgiant į jų tarnybinės veiklos rezultatus, dalykines savybes, profesinius įgūdžius, fizinį pasirengimą ir administracinius gebėjimus, gali būti suteiktos kvalifikacinės kategorijos. Kvalifikacinės kategorijos yra trys: aukščiausia yra 1 kvalifikacinė kategorija, žemiausia – 3 kvalifikacinė kategorija.
+1. Tarnybinės veiklos vertinimo metu vertinama pataisos pareigūno tarnybinė veikla per kalendorinius metus, dalykinės savybės, profesiniai įgūdžiai, fizinis ir specialusis pasirengimas, administraciniai gebėjimai.
 
-2. Kvalifikacines kategorijas pataisos pareigūnams, atsižvelgdamas į tarnybinės veiklos vertinimo komisijos siūlymą, suteikia į pareigas paskyręs vadovas.
+2. Pataisos pareigūno tarnybinė veikla vertinama, jei pataisos pareigūnas ne trumpiau kaip 6 mėnesius per kalendorinius metus eina pareigas Kalėjimų departamente arba jam pavaldžioje įstaigoje, kurioje vertinama jo tarnybinė veikla.
 
-3. Skiriant pataisos pareigūną į pareigas, jam gali būti suteikiama 3 kvalifikacinė kategorija, atsižvelgiant į jo kvalifikaciją, profesinius įgūdžius ir darbo patirtį.
+3. Pataisos pareigūno tarnybinę veiklą vertina jo tiesioginis vadovas.
 
-4. Kai iki paskyrimo į pataisos pareigūno pareigas asmeniui pagal Valstybės tarnybos įstatymą buvo suteikta 3, 2 ar 1 kvalifikacinė klasė arba pagal pareigūnų statusą reglamentuojančius teisės aktus buvo suteikta 3, 2 ar 1 kvalifikacinė kategorija, ta kvalifikacinė klasė ar kvalifikacinė kategorija, atsižvelgiant į asmens kvalifikaciją, profesinius įgūdžius ir darbo patirtį, gali būti atitinkamai prilyginamos pataisos pareigūnams suteikiamoms (paliekamoms) kvalifikacinėms kategorijoms, jeigu nuo asmens atleidimo iš buvusios tarnybos dienos iki paskyrimo į pataisos pareigūno pareigas dienos nepraėjo daugiau kaip 2 mėnesiai.
+4. Tiesioginis vadovas pataisos pareigūno tarnybinę veiklą gali įvertinti labai gerai, gerai, patenkinamai arba nepatenkinamai.
 
-5. Šio straipsnio 3 ir 4 dalyse numatytais atvejais pataisos pareigūnui kvalifikacinę kategoriją gali suteikti (palikti) šį pataisos pareigūną į pareigas skiriantis (perkeliantis) vadovas skyrimo (perkėlimo) į pareigas dieną.
+5. Tiesioginis vadovas, įvertinęs pataisos pareigūno tarnybinę veiklą labai gerai, tarnybinės veiklos vertinimo komisijai teikia vertinimo išvadą su vienu iš šio straipsnio 13 dalyje nurodytų siūlymų. Tiesioginis vadovas, įvertinęs pakaitinio pataisos pareigūno tarnybinę veiklą labai gerai arba nepatenkinamai, tarnybinės veiklos vertinimo komisijai teikia vertinimo išvadą atitinkamai su vienu iš šio straipsnio 13 dalies 1 arba 3 punkte arba šio straipsnio 16 dalies 1, 2 arba 4 punkte nurodytų siūlymų.
 
-6. Pataisos pareigūnų tarnybinę veiklą per kalendorinius metus vertina į pareigas skiriančio vadovo įsakymu sudaryta tarnybinės veiklos vertinimo komisija. 
+6. Tiesioginis vadovas, įvertinęs pataisos pareigūno tarnybinę veiklą gerai, pataisos pareigūną į pareigas paskyrusiam vadovui gali siūlyti skirti šio statuto 29 straipsnio 1 dalies 1 arba 5 punkte nurodytą skatinimo priemonę. Teisingumo ministras, įvertinęs pataisos pareigūno tarnybinę veiklą gerai, gali priimti sprendimą dėl šio statuto 29 straipsnio 1 dalies 1 arba 5 punkte nurodytos skatinimo priemonės skyrimo.
 
-7. Tarnybinės veiklos vertinimo komisija sudaroma 2 metams. Tarnybinės veiklos vertinimo komisija susideda iš 5 narių. Jeigu Kalėjimų departamente ar jam pavaldžioje įstaigoje veikia profesinė sąjunga, vienas tarnybinės veiklos vertinimo komisijos narys turi būti jos atstovas. Jeigu Kalėjimų departamente ar jam pavaldžioje įstaigoje veikia kelios profesinės sąjungos, jos susitarimu skiria bendrą atstovą į tarnybinės veiklos vertinimo komisijos narius. Jeigu profesinės sąjungos nesusitaria dėl bendro atstovo paskyrimo, profesinių sąjungų atstovas į tarnybinės veiklos vertinimo komisijos narius neskiriamas.
+7. Tiesioginis vadovas, įvertinęs pataisos pareigūno tarnybinę veiklą patenkinamai, tarnybinės veiklos vertinimo komisijai teikia vertinimo išvadą su vienu iš šio straipsnio 15 dalyje nurodytų siūlymų.
 
-8. Apie būsimą tarnybinės veiklos vertinimą Teisingumo ministerijoje, Kalėjimų departamente ar jam pavaldžioje įstaigoje pranešama pataisos pareigūnui ne vėliau kaip prieš 10 darbo dienų iki tarnybinės veiklos vertinimo pradžios.
+8. Tiesioginis vadovas, įvertinęs pataisos pareigūno tarnybinę veiklą nepatenkinamai, tarnybinės veiklos vertinimo komisijai teikia vertinimo išvadą su vienu iš šio straipsnio 16 dalyje nurodytų siūlymų.
 
-9. Tarnybinės veiklos vertinimo komisija pataisos pareigūno tarnybinę veiklą gali įvertinti labai gerai, gerai, patenkinamai arba nepatenkinamai.
+9. Pataisos pareigūnas, nesutinkantis su tiesioginio vadovo pateikta vertinimo išvada, turi teisę kreiptis į tarnybinės veiklos vertinimo komisiją su motyvuotu prašymu peržiūrėti tarnybinės veiklos įvertinimą ir dalyvauti tarnybinės veiklos vertinimo komisijos posėdyje svarstant jo tarnybinę veiklą.
 
-10. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą labai gerai, teisingumo ministrui, Kalėjimų departamento direktoriui ar jam pavaldžios įstaigos direktoriui siūlo:
+10. Tarnybinės veiklos vertinimo komisija sudaroma iš 5 narių į pareigas skiriančio vadovo įsakymu 2 metams. Jeigu Kalėjimų departamente arba jam pavaldžioje įstaigoje veikia profesinė sąjunga, vienas tarnybinės veiklos vertinimo komisijos narys turi būti jos atstovas. Jeigu Kalėjimų departamente ar jam pavaldžioje įstaigoje veikia kelios profesinės sąjungos, jos susitarimu skiria bendrą atstovą tarnybinės veiklos vertinimo komisijoje. Jeigu profesinės sąjungos nesusitaria dėl bendro atstovo paskyrimo, profesinių sąjungų atstovas į tarnybinės veiklos vertinimo komisiją neskiriamas.
 
-1) suteikti pataisos pareigūnui 3 kvalifikacinę kategoriją, jeigu ji dar nebuvo suteikta;
+11. Apie būsimą tarnybinės veiklos vertinimą Teisingumo ministerijoje, Kalėjimų departamente ar jam pavaldžioje įstaigoje pataisos pareigūnui pranešama ne vėliau kaip prieš 10 darbo dienų iki tarnybinės veiklos vertinimo pradžios.
 
-2) suteikti pataisos pareigūnui nuosekliai aukštesnę kvalifikacinę kategoriją;
+12. Tarnybinės veiklos vertinimo komisija pataisos pareigūno tarnybinę veiklą gali įvertinti labai gerai, gerai, patenkinamai arba nepatenkinamai.
 
-3) perkelti pataisos pareigūną į aukštesnes tos pačios pataisos pareigūnų grandies pareigas, išskyrus Kalėjimų departamento ir jam pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojų ir šių įstaigų administracijos padalinių vadovų ir jų pavaduotojų pareigas;
+13. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą labai gerai, pataisos pareigūną į pareigas paskyrusiam vadovui siūlo:
 
-4) perkelti pataisos pareigūną į aukštesnes tos pačios pataisos pareigūnų grandies pareigas, išskyrus Kalėjimų departamento ir jam pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojų ir šių įstaigų administracijos padalinių vadovų ir jų pavaduotojų pareigas, ir suteikti jam ne aukštesnę negu turėta kvalifikacinę kategoriją;
+1) nustatyti nuosekliai aukštesnį pareiginės algos koeficientą, tai pareigybei nustatytą šio statuto priede;
 
-5) palikti pataisos pareigūnui tą pačią (aukščiausią) kvalifikacinę kategoriją ir skirti jam pareiginės algos dydžio vienkartinį priedą;
+2) perkelti pataisos pareigūną į aukštesnes pataisos pareigūno pareigas, išskyrus Kalėjimų departamento ir jam pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojų ir šių įstaigų administracijos padalinių vadovų pareigas;
 
-6) taikyti šio statuto 29 straipsnio 1 dalies 1, 3, 4 ar 5 punkte numatytą skatinimo priemonę.
+3) skirti šio statuto 29 straipsnio 1 dalies 2, 4, 5 arba 6 punkte nurodytą skatinimo priemonę.
 
-11. Pataisos pareigūno, kurio tarnybinę veiklą tarnybinės veiklos vertinimo komisija įvertino gerai, iki vertinimo turėta teisinė padėtis nesikeičia.
+14. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą gerai, pataisos pareigūną į pareigas paskyrusiam vadovui gali siūlyti skirti šio statuto 29 straipsnio 1 dalies 1 arba 5 punkte nurodytą skatinimo priemonę.
 
-12. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą patenkinamai, teisingumo ministrui, Kalėjimų departamento direktoriui ar jam pavaldžios įstaigos direktoriui siūlo:
+15. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą patenkinamai, pataisos pareigūną į pareigas paskyrusiam vadovui siūlo:
 
-1) suteikti pataisos pareigūnui nuosekliai žemesnę kvalifikacinę kategoriją arba panaikinti jo turimą 3 kvalifikacinę kategoriją ir tobulinti pataisos pareigūno kvalifikaciją;
+1) nustatyti nuosekliai žemesnį tai pareigybei šio statuto priede nustatytą pareiginės algos koeficientą;
 
 2) tobulinti pataisos pareigūno kvalifikaciją.
 
-13. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą nepatenkinamai, teisingumo ministrui, Kalėjimų departamento direktoriui ar šiam departamentui pavaldžios įstaigos direktoriui siūlo:
+16. Tarnybinės veiklos vertinimo komisija, įvertinusi pataisos pareigūno tarnybinę veiklą nepatenkinamai, pataisos pareigūną į pareigas paskyrusiam vadovui siūlo:
 
-1) panaikinti pataisos pareigūno turimą kvalifikacinę kategoriją ir tobulinti jo kvalifikaciją;
+1) taikyti žemiausią tai pareigybei šio statuto priede nustatytą pareiginės algos koeficientą ir tobulinti pataisos pareigūno kvalifikaciją;
 
-2) tobulinti pataisos pareigūno, neturinčio kvalifikacinės kategorijos, kvalifikaciją;
+2) tobulinti pataisos pareigūno, kuriam pareiginė alga nustatyta taikant žemiausią tai pareigybei šio statuto priede nustatytą pareiginės algos koeficientą, kvalifikaciją;
 
-3) perkelti pataisos pareigūną į žemesnes pataisos pareigūno pareigas, išskyrus Kalėjimų departamento direktoriaus pavaduotojo ir šiam departamentui pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojo ir šių įstaigų administracijos padalinių vadovų ir jų pavaduotojų pareigas;
+3) perkelti pataisos pareigūną į žemesnes pataisos pareigūno pareigas, išskyrus Kalėjimų departamento direktoriaus pavaduotojo, Kalėjimų departamentui pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojų ir šių įstaigų administracijos padalinių vadovų pareigas;
 
-4) atleisti pataisos pareigūną iš tarnybos, jei paskutinio tarnybinės veiklos vertinimo metu jo tarnybinė veikla buvo įvertinta nepatenkinamai.
+4) atleisti pataisos pareigūną iš tarnybos, jeigu paskutinio tarnybinės veiklos vertinimo metu jo tarnybinė veikla buvo įvertinta nepatenkinamai.
 
-14. Tarnybinės veiklos vertinimo komisija, įvertinusi pakaitinio pataisos pareigūno tarnybinę veiklą labai gerai, teisingumo ministrui, Kalėjimų departamento direktoriui ar šiam departamentui pavaldžios įstaigos direktoriui siūlo:
+17. Tarnybinės veiklos vertinimo komisija, įvertinusi pakaitinio pataisos pareigūno tarnybinę veiklą labai gerai, pataisos pareigūną į pareigas paskyrusiam vadovui pateikia vieną iš šio straipsnio 13 dalies 1 arba 3 punkte nurodytų siūlymų.
 
-1) suteikti pataisos pareigūnui 3 kvalifikacinę kategoriją;
+18. Pataisos pareigūną į pareigas paskyrusio vadovo sprendimu neeilinis pataisos pareigūno tarnybinės veiklos vertinimas atliekamas, kai yra:
 
-2) palikti pataisos pareigūnui turimą kvalifikacinę kategoriją ir skirti jam pareiginės algos dydžio vienkartinį priedą.
+1) pagrįstų abejonių dėl pataisos pareigūno gebėjimo atlikti pareigybės aprašyme nustatytas funkcijas;
 
-15. Pataisos pareigūną į pareigas paskyrusio vadovo sprendimu neeilinis pataisos pareigūno tarnybinės veiklos vertinimas atliekamas, kai yra:
+2) pataisos pareigūno tiesioginio vadovo motyvuotas rašytinis siūlymas taikyti aukštesnį šio statuto priede tai pareigybei nustatytą pareiginės algos koeficientą arba perkelti pataisos pareigūną į aukštesnes pataisos pareigūno pareigas, išskyrus Kalėjimų departamento ir jam pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojų ir šių įstaigų administracijos padalinių vadovų pareigas;
 
-1) abejonių, ar pataisos pareigūnas turi reikiamą kvalifikaciją ar gebėjimų atlikti pareigybės aprašyme nustatytas funkcijas ir įgyvendinti įstaigos strateginius tikslus;
+3) pataisos pareigūno rašytinis prašymas;
 
-2) pataisos pareigūno tiesioginio vadovo motyvuotas rašytinis siūlymas suteikti pataisos pareigūnui kvalifikacinę kategoriją arba perkelti pataisos pareigūną į aukštesnes tos pačios pataisos pareigūnų grandies pareigas, išskyrus Kalėjimų departamento ir jam pavaldžių įstaigų direktoriaus, direktoriaus pavaduotojų ir šių įstaigų administracijos padalinių vadovų ir jų pavaduotojų pareigas;
+4) pakaitinio pataisos pareigūno tiesioginio vadovo motyvuotas rašytinis siūlymas atleisti pakaitinį pataisos pareigūną iš pareigų.
 
-3) pakaitinio pataisos pareigūno tiesioginio vadovo motyvuotas rašytinis siūlymas atleisti pakaitinį pataisos pareigūną iš pareigų.
+19. Neeilinis pataisos pareigūno tarnybinės veiklos vertinimas atliekamas ne dažniau kaip vieną kartą per kalendorinius metus ir tik tuo atveju, kai nuo kasmetinio to pataisos pareigūno tarnybinės veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai arba kai tas pareigūnas ne trumpiau kaip 6 mėnesius per kalendorinius metus ėjo pareigas toje įstaigoje, kurioje vertinama jo tarnybinė veikla.
 
-16. Neeilinis pataisos pareigūno tarnybinės veiklos vertinimas atliekamas ne dažniau kaip vieną kartą per kalendorinius metus ir tik tuo atveju, kai nuo kasmetinio to pataisos pareigūno tarnybinės veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai arba kai tas pareigūnas ne trumpiau kaip 6 mėnesius per kalendorinius metus ėjo pareigas toje įstaigoje, kurioje vertinama jo veikla.
+20. Nėščių ir krūtimi maitinančių pataisos pareigūnių ir pataisos pareigūnų, kuriems suteiktos atostogos vaikui prižiūrėti, tarnybinė veikla vertinama tik jų prašymu.
 
-17. Tarnybinės veiklos vertinimo komisija nėščių ir krūtimi maitinančių pataisos pareigūnių ir pataisos pareigūnų, išėjusių vaiko priežiūros atostogų, iki vaikui sueis 3 metai, tarnybinę veiklą vertina tik jų prašymu.
+21. Pataisos pareigūną į pareigas paskyręs vadovas tarnybinės veiklos vertinimo komisijos siūlymus įgyvendina per 10 darbo dienų nuo šių siūlymų gavimo.
 
-18. Pataisos pareigūnai sprendimus, priimtus pagal tarnybinės veiklos vertinimo komisijos pasiūlymus, ir šio straipsnio 5 dalyje numatytus sprendimus dėl kvalifikacinių kategorijų per vieną mėnesį nuo supažindinimo su šiais sprendimais dienos gali skųsti tarnybinių ginčų komisijai arba teismui teisės aktų nustatyta tvarka.
+22. Pataisos pareigūnai sprendimus, priimtus pagal tarnybinės veiklos vertinimo komisijos siūlymus, per vieną mėnesį nuo supažindinimo su šiais sprendimais dienos gali teisės aktų nustatyta tvarka skųsti tarnybinių ginčų komisijai arba teismui.
 
-19. Pataisos pareigūnų kvalifikacinių kategorijų suteikimo taisykles, taip pat konkrečius reikalavimus kvalifikacinėms kategorijoms gauti nustato ir tarnybinės veiklos vertinimo komisijos nuostatus tvirtina teisingumo ministras. 
+23. Pataisos pareigūnų tarnybinės veiklos vertinimo tvarką ir tarnybinės veiklos vertinimo kriterijus nustato teisingumo ministras. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 DEŠIMTASIS SKIRSNIS
@@ -992,7 +1193,10 @@ Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
 
 11) pareigūno laikinojo nedarbingumo laiką, atostogų laiką;
 
-12) Valstybės tarnybos įstatymo 42 straipsnyje numatytą tarnybos stažą einant valstybės tarnautojo pareigas.
+12) Valstybės tarnybos įstatyme nustatytą tarnybos Lietuvos valstybei stažą einant valstybės tarnautojo pareigas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 2. Tarnybos stažas, kai pataisos pareigūnas eina pareigas ne vienu metu, sudedamas.
 
@@ -1001,11 +1205,14 @@ Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
 
 44 straipsnis. Kompensacijos pataisos pareigūno mirties arba sveikatos sutrikdymo atvejais
 
-1. Pataisos pareigūno, žuvusio einant tarnybines pareigas arba jeigu tai susiję su tarnyba Kalėjimų departamente arba jam pavaldžiose įstaigose, šeimai išmokama vienkartinė 10 metų (120 mėnesių) žuvusio pataisos pareigūno darbo užmokesčio dydžio kompensacija. Ši kompensacija lygiomis dalimis išmokama kiekvienam žuvusio pataisos pareigūno šeimos nariui ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo gauti jo išlaikymą. Žuvęs pataisos pareigūnas laidojamas už valstybės lėšas, kurios negali viršyti 40 bazinių socialinių išmokų dydžio sumos, arba jį laidojančiam asmeniui išmokama 40 bazinių socialinių išmokų dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Valstybės apmokamų laidojimo išlaidų tvarkos aprašą tvirtina Vyriausybė. 
+1. Pataisos pareigūno, žuvusio einant tarnybines pareigas arba jeigu tai susiję su tarnyba Kalėjimų departamente arba jam pavaldžiose įstaigose, šeimai išmokama vienkartinė 10 metų (120 mėnesių) žuvusio pataisos pareigūno darbo užmokesčio dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme (toliau – Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas) nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Ši kompensacija lygiomis dalimis išmokama kiekvienam žuvusio pataisos pareigūno šeimos nariui ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo gauti jo išlaikymą. Žuvęs pataisos pareigūnas laidojamas už valstybės lėšas, kurios negali viršyti 40 bazinių socialinių išmokų dydžio sumos, arba jį laidojančiam asmeniui išmokama 40 bazinių socialinių išmokų dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Valstybės apmokamų laidojimo išlaidų tvarkos aprašą tvirtina Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 2. Žuvusio pataisos pareigūno šeimos nariais laikomi jo sutuoktinis, sugyventinis (partneris), nepilnamečiai vaikai (įvaikiai), iki jiems sukaks 18 metų, taip pat jo vaikai (įvaikiai), kurie mokosi nustatyta tvarka įregistruotose švietimo įstaigose pagal bendrojo ugdymo programą ar formaliojo profesinio mokymo programą arba studijuoja pagal dieninių ar nuolatinių studijų programą, – iki mokymosi ar studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukaks 24 metai, žuvusiojo vaikai (įvaikiai), vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, žuvusiojo vaikai, gimę po jo žūties, tėvas (įtėvis) ir motina (įmotė).
 
-3. Pataisos pareigūnui, kuriam buvo sutrikdyta sveikata einant tarnybines pareigas, jeigu tai susiję su didesniu pavojumi ar didesne rizika pataisos pareigūno gyvybei ar sveikatai arba jeigu sveikatos sutrikdymas yra susijęs su tarnybinių pareigų atlikimu Kalėjimų departamente ar jam pavaldžiose įstaigose, kai tarnybinių pareigų atlikimas buvo susijęs su didesne rizika pataisos pareigūno gyvybei ar sveikatai, atsižvelgiant į darbingumo lygį ar sveikatos sutrikdymo mastą, išmokama vienkartinė kompensacija:
+3. Pataisos pareigūnui, kuriam buvo sutrikdyta sveikata einant tarnybines pareigas, jeigu tai susiję su didesniu pavojumi ar didesne rizika pataisos pareigūno gyvybei ar sveikatai arba jeigu sveikatos sutrikdymas yra susijęs su tarnybinių pareigų atlikimu Kalėjimų departamente arba jam pavaldžiose įstaigose, kai tarnybinių pareigų atlikimas buvo susijęs su didesne rizika pataisos pareigūno gyvybei ar sveikatai, atsižvelgiant į darbingumo lygį ar sveikatos sutrikdymo mastą, išmokama vienkartinė kompensacija (sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu):
 
 1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo – 60 jo vidutinių mėnesinių darbo užmokesčių dydžio;
 
@@ -1017,11 +1224,18 @@ Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
 
 5) apysunkio sveikatos sutrikdymo atveju – 18 jo vidutinių mėnesinių darbo užmokesčių dydžio;
 
-6) lengvo sveikatos sutrikdymo atveju – nuo 1 iki 12 jo vidutinių mėnesinių darbo užmokesčių dydžio.
+6) lengvo sveikatos sutrikdymo atveju – nuo 1 iki 12 jo vidutinių mėnesinių darbo užmokesčių dydžio. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 4. Pataisos pareigūnui, kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 4, 5 arba 6 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir darbingumo lygio sumažėjimas, papildomai išmokamas pagal šio straipsnio 3 dalies 4, 5 arba 6 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2 arba 3 punkte nurodytos kompensacijos, atsižvelgiant į nustatytą darbingumo lygį, skirtumas.
 
-5. Pataisos pareigūnui šio straipsnio 3 dalyje nustatyta kompensacija yra mažinama jam pagal šio statuto 41 straipsnį priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. 
+5. Neteko galios 2017-12-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
 
 6. Didesnė kaip 6 vidutinių mėnesinių darbo užmokesčių dydžio kompensacija gali būti mokama dalimis, bet ne ilgiau negu per 12 mėnesių. Sprendimą dėl kompensacijos pataisos pareigūnui mokėjimo dalimis priima pataisos pareigūną į pareigas skyręs vadovas, atsižvelgdamas į pataisos pareigūno prašymą, jei šis prašymas buvo pateiktas, ir įstaigai skirtas valstybės biudžeto lėšas.
 
@@ -1049,37 +1263,39 @@ Nr. XII-1992, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18260
 5) pataisos pareigūno sveikata sutriko ar jis mirė dėl ligos ir tai nesusiję su tarnybinių pareigų ėjimu.
  
 
-46 straipsnis. Kitos kompensacijos
+46 straipsnis. Pašalpos ir kitos kompensacijos
 
-1. Pataisos pareigūnui, kuris paskyrimo vietoje arba laikino perkėlimo eiti kitas pareigas atveju kitoje gyvenamojoje vietovėje neturi gyvenamosios patalpos, Valstybės tarnybos įstatymo nustatyta tvarka kompensuojamos gyvenamosios patalpos nuomos išlaidos. Pataisos pareigūnui, kuris laikinai perkeltas eiti kitas pareigas kitoje gyvenamojoje vietovėje, jo ir jo šeimos turėtos persikėlimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka. Pataisos pareigūnui gyvenamosios patalpos nuomos išlaidas, taip pat vienkartinę negrąžintiną Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio išmoką skiria įstaiga, į kurią jis laikinai perkeltas eiti kitas pareigas. 
+1. Pataisos pareigūnui, kuris laikinai perkeltas eiti kitas pataisos pareigūno pareigas kitoje gyvenamojoje vietovėje, jo ir jo šeimos turėtos persikėlimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka. 
 
 2. Pataisos pareigūnui, kurio materialinė būklė sunki dėl jo paties ligos, šeimos narių ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa. Šią pašalpą skiria įstaigos, kurioje pataisos pareigūnas tarnauja, direktorius iš įstaigai skirtų lėšų. Įstaigos direktoriui pašalpa skiriama iš jo vadovaujamai įstaigai skirtų lėšų. 
 
-3. Pataisos pareigūnui, kuris pagal tarnybos pobūdį važinėja tarnybos tikslais keleiviniu ar asmeniniu transportu, taip pat vyksta į tarnybos vietą ir iš jos, kompensuojamos važiavimo išlaidos, išskyrus išlaidas taksi. Pataisos pareigūnų važiavimo išlaidų kompensavimo taisykles ir maksimalų važiavimo išlaidų kompensacijos dydį nustato Vyriausybė arba jos įgaliota institucija. 
+3. Pataisos pareigūnui, kuris pagal tarnybos pobūdį važinėja tarnybos tikslais keleiviniu ar asmeniniu transportu, taip pat vyksta į tarnybos vietą ir iš jos, apmokamos kelionės išlaidos, išskyrus išlaidas taksi. Pataisos pareigūnų važiavimo išlaidų dydį, apmokėjimo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija. 
 
-4. Pataisos pareigūnai gali būti vežami į tarnybos vietą tarnybiniu transportu. Pataisos pareigūnų vežimo į tarnybos vietą tvarką ir taisykles nustato Kalėjimų departamento direktorius. 
+4. Pataisos pareigūnai gali būti vežami į tarnybos vietą tarnybiniu transportu. Kartu su pataisos pareigūnais gali būti vežami ir karjeros valstybės tarnautojai ir darbuotojai, jei jų tarnybos (darbo) vieta yra ta pati kaip ir tarnybiniu transportu vežamų pataisos pareigūnų. Pataisos pareigūnų, karjeros valstybės tarnautojų ir darbuotojų vežimo į tarnybos vietą tvarką ir taisykles nustato Kalėjimų departamento direktorius.
+
+5. Pataisos pareigūną, kuris mirė dėl su tarnyba nesusijusių priežasčių, laidojančiam asmeniui išmokama 2 minimaliųjų mėnesinių algų dydžio pašalpa. Šią pašalpą skiria pataisos pareigūną į pareigas paskyręs vadovas iš įstaigai, kurioje tarnavo pataisos pareigūnas, skirtų lėšų. Pašalpa neskiriama šio statuto 45 straipsnio 1, 2 ir 4 punktuose nustatytais atvejais. 
+
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
-47 straipsnis. Pataisos pareigūnų sveikatos priežiūra
+47 straipsnis. Papildoma pataisos pareigūnų sveikatos priežiūra
 
-1. Pataisos pareigūnai turi teisę į šiame statute ir kituose įstatymuose nustatytą sveikatos priežiūrą. Asmens sveikatos priežiūros paslaugos pataisos pareigūnams Vyriausybės nustatyta tvarka apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės ir savivaldybių biudžetų lėšų.
+1. Pataisos pareigūnams užtikrinama papildoma valstybės biudžeto lėšomis finansuojama sveikatos priežiūra, apimanti specializuotąją medicininę ekspertizę, prevencinę medicinos pagalbą, medicininę reabilitaciją, sveikatos grąžinamąjį ir antirecidyvinį gydymą po sužalojimo einant tarnybines pareigas, kai šis gydymas neapmokamas iš Privalomojo sveikatos draudimo fondo biudžeto, prevencinę medicininę ir psichologinę reabilitaciją, psichologinės paramos, sveikatos ugdymo ir stiprinimo priemonių taikymą, taip pat iš Privalomojo sveikatos draudimo fondo biudžeto neapmokamą asmens sveikatos priežiūrą asmens sveikatos priežiūros įstaigose, papildomai remiamą iš valstybės biudžeto lėšų, skirtų Vidaus reikalų ministerijai. Pataisos pareigūnams užtikrinamos tokios pat apimties kaip ir vidaus tarnybos sistemos pareigūnams teikiamos papildomos sveikatos priežiūros paslaugos.
 
-2. Pataisos pareigūnų sveikatos priežiūra, apimanti specializuotąją medicininę ekspertizę, prevencinę medicinos pagalbą, šio statuto 48 straipsnyje numatytą asmens sveikatos priežiūrą, psichologinės paramos, sveikatos ugdymo ir stiprinimo priemonių taikymą, papildomai per programas remiama iš valstybės biudžeto lėšų, skirtų Teisingumo ministerijai. Papildomai per programas iš valstybės biudžeto remiamos pataisos pareigūnų sveikatos priežiūros mastą nustato teisingumo ministras, suderinęs su sveikatos apsaugos ministru.
+2. Vidaus reikalų ministerija ar jos įgaliota institucija organizuoja šio straipsnio 1 dalyje nurodytą pataisos pareigūnų sveikatos priežiūrą asmens sveikatos priežiūros įstaigose, kurių savininko teises ir pareigas įgyvendina Vidaus reikalų ministerija, taip pat naudodamasi pataisos pareigūnų tarnybos ir (arba) gyvenamųjų vietovių asmens sveikatos ir visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis. 
 
-3. Kalėjimų departamentas organizuoja šio straipsnio 2 dalyje nurodytą pataisos pareigūnų sveikatos priežiūrą asmens sveikatos priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija, ir naudodamasis pataisos pareigūnų tarnybos arba (ir) gyvenamųjų vietovių asmens ir visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis.
+3. Teisę į pataisos pareigūnams teikiamas iš valstybės biudžeto remiamas sveikatos priežiūros paslaugas asmens sveikatos priežiūros įstaigose, kurių savininko teises ir pareigas įgyvendina Vidaus reikalų ministerija, turi ir buvę pataisos pareigūnai – pareigūnų ir karių valstybinių pensijų gavėjai.
 
-4. Pataisos pareigūnų specializuotosios medicininės ekspertizės ir privalomų periodinių profilaktinių sveikatos patikrinimų tvarką nustato teisingumo ministras, suderinęs su vidaus reikalų ir sveikatos apsaugos ministrais.
+4. Pataisos pareigūnų specializuotosios medicininės ekspertizės tvarką ir privalomo periodinio profilaktinio sveikatos patikrinimo tvarką nustato teisingumo ministras, suderinęs su vidaus reikalų ir sveikatos apsaugos ministrais.
 
-5. Teisę į pataisos pareigūnams teikiamas iš valstybės biudžeto remiamas sveikatos priežiūros paslaugas asmens sveikatos priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija, turi ir buvę pataisos pareigūnai – pareigūnų ir karių valstybinių pensijų gavėjai.
+Straipsnio pakeitimai:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
-48 straipsnis. Medicininės reabilitacijos išlaidų apmokėjimas
-
-1. Iš valstybės biudžeto Teisingumo ministerijai ar Kalėjimų departamentui ir (ar) jam pavaldžioms įstaigoms skirtų lėšų apmokama pataisos pareigūnų medicininė reabilitacija po sužalojimo einant tarnybines pareigas, kai šis gydymas neapmokamas iš Privalomojo sveikatos draudimo fondo biudžeto.
-
-2. Iš valstybės biudžeto Vidaus reikalų ministerijai skirtų lėšų apmokama pataisos pareigūnų medicininė reabilitacija ir psichologinė reabilitacija asmenims sveikatos priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
-
-3. Pataisos pareigūnų medicininės reabilitacijos ir psichologinės reabilitacijos išlaidų, kurios iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos iš dalies arba neapmokamos, apmokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+48 straipsnis. Neteko galios nuo 2017-12-01
+Straipsnio naikinimas:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
  
 
 49 straipsnis. Pataisos pareigūnų darbo ir poilsio laiko ypatumai
@@ -1154,11 +1370,266 @@ BAIGIAMOSIOS NUOSTATOS
 
 Kalėjimų departamento ir jam pavaldžių įstaigų veiklą kontroliuoja Lietuvos Respublikos įstatymuose numatytos valstybės institucijos ir pareigūnai.
  
+ 
 
 Priedo pakeitimai:
 Nr. XII-1447, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21326
  
 
+ 
+Tarnybos Kalėjimų departamente prie
+Lietuvos Respublikos teisingumo ministerijos statuto
+priedas
+ 
+PATAISOS PAREIGŪNŲ GRANDYS, PAREIGYBĖS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
+
+ Eilės Nr. 
+ Pataisos pareigūnų grandys 
+ Pataisos pareigūnų pareigybės 
+ Pareiginės algos koeficientai (baziniais dydžiais) 
+
+ Kalėjimų departamento pataisos pareigūnų 
+ Kalėjimų departamentui pavaldžių įstaigų pataisos pareigūnų 
+
+ 1. 
+ Vyriausieji pataisos pareigūnai 
+ Direktorius 
+ 19 
+ 17 
+
+ 18,5 
+ 16,5 
+
+ 18 
+ 16 
+
+ 17,5 
+ 15,5 
+
+ 17 
+ 15 
+
+ 16,5 
+ 14,5 
+
+ 16 
+ 14 
+
+ 15,5 
+ 13,5 
+
+ 15 
+ 13 
+
+ Direktoriaus pavaduotojas 
+ 16 
+ 15 
+
+ 15,5 
+ 14,5 
+
+ 15 
+ 14 
+
+ 14,5 
+ 13,5 
+
+ 14 
+ 13 
+
+ 13,5 
+ 12,5 
+
+ 13 
+ 12 
+
+ 12,5 
+ 11,5 
+
+ 12 
+ 11 
+
+ Valdybos viršininkas 
+ 15 
+   
+
+ 14,5 
+   
+
+ 14 
+   
+
+ 13,5 
+   
+
+ 13 
+   
+
+ 12,5 
+   
+
+ 12 
+   
+
+ 11,5 
+   
+
+ 11 
+   
+
+ 2. 
+ Vyresnieji pataisos pareigūnai 
+ Skyriaus (tarnybos) viršininkas 
+ 13 
+ 12 
+
+ 12,5 
+ 11,5 
+
+ 12 
+ 11 
+
+ 11,5 
+ 10,5 
+
+ 11 
+ 10 
+
+ 10,5 
+ 9,5 
+
+ 10 
+ 9 
+
+ 9,5 
+ 8,5 
+
+ 9 
+ 8 
+
+ Skyriaus (tarnybos) viršininko pavaduotojas, poskyrio (grupės) viršininkas 
+ 12 
+ 11 
+
+ 11,5 
+ 10,5 
+
+ 11 
+ 10 
+
+ 10,5 
+ 9,5 
+
+ 10 
+ 9 
+
+ 9,5 
+ 8,5 
+
+ 9 
+ 8 
+
+ 8,5 
+ 7,5 
+
+ 8 
+ 7 
+
+ Vyriausiasis specialistas 
+ 11 
+ 10 
+
+ 10,5 
+ 9,5 
+
+ 10 
+ 9 
+
+ 9,5 
+ 8,5 
+
+ 9 
+ 8 
+
+ 8,5 
+ 7,5 
+
+ 8 
+ 7 
+
+ 7,5 
+ 6,5 
+
+ 7 
+ 6 
+
+ 3. 
+ Pataisos pareigūnai 
+ Specialistas 
+ 10 
+ 9 
+
+ 9,5 
+ 8,5 
+
+ 9 
+ 8 
+
+ 8,5 
+ 7,5 
+
+ 8 
+ 7 
+
+ 7,5 
+ 6,5 
+
+ 7 
+ 6 
+
+ 6,5 
+ 5,5 
+
+ 6 
+ 5 
+
+ 4. 
+ Jaunesnieji pataisos pareigūnai 
+ Jaunesnysis specialistas 
+   
+ 8 
+
+   
+ 7,5 
+
+   
+ 7 
+
+   
+ 6,5 
+
+   
+ 6 
+
+   
+ 5,5 
+
+   
+ 5 
+
+   
+ 4,5 
+
+   
+ 4 
+
+ 
+Papildyta priedu:
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+ 
+
+ 
+ 
 Pakeitimai:
  
 1.
@@ -1328,4 +1799,9 @@ Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-496, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10917
 Lietuvos Respublikos tarnybos kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 2, 26 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir Statuto papildymo 26-1, 26-2 straipsniais įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
+Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto antrojo skirsnio ir 10, 11, 13, 16, 18, 23, 24, 29, 30, 33, 34, 36, 37, 38, 40, 43, 44, 46, 47 straipsnių pakeitimo, Statuto papildymo 10-1, 16-1, 29-1, 35-1, 38-1 straipsniais ir priedu ir 48 straipsnio pripažinimo netekusiu galios įstatymas
 
