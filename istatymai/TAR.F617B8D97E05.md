@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -467,12 +467,18 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 
 
-2. Konsulinis pareigūnas, gavęs informacijos iš buvimo valstybės kompetentingų institucijų, kad Lietuvos Respublikos nacionalinę priklausomybę turintis laivas yra sulaikytas dėl tarptautinių saugios laivybos reikalavimų pažeidimų, praneša apie tai Lietuvos saugios laivybos administracijai.
+2. Konsulinis pareigūnas, gavęs informacijos iš buvimo valstybės kompetentingų institucijų, kad Lietuvos Respublikos nacionalinę priklausomybę turintis laivas yra sulaikytas dėl tarptautinių saugios laivybos reikalavimų pažeidimų, praneša apie tai Lietuvos transporto saugos administracijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
+ 
 
 
 
 
-3. Jeigu, konsulinio pareigūno žiniomis, laivo, turinčio Lietuvos Respublikos nacionalinę priklausomybę, įplaukimas į kurį nors uostą yra nesaugus, nepageidautinas arba negalimas, konsulinis pareigūnas privalo apie tai pranešti Lietuvos saugios laivybos administracijai, Lietuvos Respublikos užsienio reikalų ministerijai ir, esant galimybei, įspėti apie tai laivo kapitoną.
+3. Jeigu, konsulinio pareigūno žiniomis, laivo, turinčio Lietuvos Respublikos nacionalinę priklausomybę, įplaukimas į kurį nors uostą yra nesaugus, nepageidautinas arba negalimas, konsulinis pareigūnas privalo apie tai pranešti Lietuvos transporto saugos administracijai, Lietuvos Respublikos užsienio reikalų ministerijai ir, esant galimybei, įspėti apie tai laivo kapitoną. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
+ 
 
 
 
@@ -1049,3 +1055,8 @@ Lietuvos Respublikos konsulinio statuto Nr. I-886 22 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2117, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19706
 Lietuvos Respublikos konsulinio statuto Nr. I-886 31 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
+Lietuvos Respublikos konsulinio statuto Nr. I-886 21 straipsnio pakeitimo įstatymas
