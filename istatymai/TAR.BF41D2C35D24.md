@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-12-21
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -858,17 +858,10 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-3. Leidimą važiuoti valstybinės reikšmės keliais išduoda Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su:
-
-
-1) Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos;
-
-
-
-
-2) Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa.
-
-
+3. Leidimą važiuoti valstybinės reikšmės keliais išduoda Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-757, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18808
+ 
 
 
 
@@ -1177,3 +1170,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 3 straipsnių pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
 Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5 ir 10 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-757, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18808
+Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
