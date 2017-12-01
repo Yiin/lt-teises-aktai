@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
  
@@ -138,7 +138,9 @@ Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
 
 
-5. Įgaliotoji laivų klasifikavimo bendrovė – laivų klasifikavimo bendrovė, su kuria Lietuvos saugios laivybos administracija susisiekimo ministro nustatyta tvarka yra sudariusi sutartį dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų techninės priežiūros ir apžiūrų atlikimo ir dokumentų, kuriais tai patvirtinama, išdavimo.
+5. Įgaliotoji laivų klasifikavimo bendrovė – laivų klasifikavimo bendrovė, su kuria Lietuvos transporto saugos administracija susisiekimo ministro nustatyta tvarka yra sudariusi sutartį dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų techninės priežiūros ir apžiūrų atlikimo ir dokumentų, kuriais tai patvirtinama, išdavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
  
@@ -211,7 +213,9 @@ Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
 
 
-13. Laivybos inspektorius – Lietuvos saugios laivybos administracijos valstybės tarnautojas, atitinkantis įstatymų nustatytus kvalifikacinius reikalavimus ir įgaliotas vykdyti laivų, plaukiojančių su Lietuvos valstybės vėliava, ir užsienio valstybių laivų kontrolę.
+13. Laivybos inspektorius – Lietuvos transporto saugos administracijos valstybės tarnautojas, atitinkantis įstatymų nustatytus kvalifikacinius reikalavimus ir įgaliotas vykdyti laivų, plaukiojančių su Lietuvos valstybės vėliava, ir užsienio valstybių laivų kontrolę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
@@ -238,7 +242,9 @@ Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
 
 
-16. Laivo įrenginiai – įrenginiai, kurie pagal tarptautinius saugios laivybos reikalavimus turi būti naudojami laive saugiai laivybai ir jūros aplinkos apsaugai nuo taršos užtikrinti arba kurie laivybos bendrovės nurodymu yra papildomai naudojami laive ir kurių atitiktis tarptautiniams saugios laivybos reikalavimams, vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis, turi būti patvirtinta Lietuvos saugios laivybos administracijos arba įgaliotosios laivų klasifikavimo bendrovės.
+16. Laivo įrenginiai – įrenginiai, kurie pagal tarptautinius saugios laivybos reikalavimus turi būti naudojami laive saugiai laivybai ir jūros aplinkos apsaugai nuo taršos užtikrinti arba kurie laivybos bendrovės nurodymu yra papildomai naudojami laive ir kurių atitiktis tarptautiniams saugios laivybos reikalavimams, vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis, turi būti patvirtinta Lietuvos transporto saugos administracijos, arba įgaliotosios laivų klasifikavimo bendrovės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
@@ -256,7 +262,9 @@ Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 
 
 
-18. Laivo techninė priežiūra – visuma laivybos bendrovės organizuojamų ir įgaliotosios laivų klasifikavimo bendrovės vykdomų arba Lietuvos saugios laivybos administracijos pagal susisiekimo ministro nustatytus reikalavimus vykdomų priemonių, kuriomis užtikrinama laivo atitiktis konstrukcijos, mechaninės ir elektros įrangos, priešgaisrinės saugos, stovumo ir krovinių patalpų reikalavimams visą laivo eksploatavimo laiką.
+18. Laivo techninė priežiūra – visuma laivybos bendrovės organizuojamų ir įgaliotosios laivų klasifikavimo bendrovės vykdomų arba Lietuvos transporto saugos administracijos pagal susisiekimo ministro nustatytus reikalavimus vykdomų priemonių, kuriomis užtikrinama laivo atitiktis konstrukcijos, mechaninės ir elektros įrangos, priešgaisrinės saugos, stovumo ir krovinių patalpų reikalavimams visą laivo eksploatavimo laiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
@@ -464,9 +472,10 @@ SAUGIOS LAIVYBOS VALSTYBINIO VALDYMO INSTITUCIJOS
 3 straipsnis. Saugios laivybos valstybinio valdymo institucijos
 
 
-1. Saugios laivybos valstybinį valdymą vykdo Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Socialinės apsaugos ir darbo ministerija), Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija), Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) ir Lietuvos saugios laivybos administracija (toliau – Administracija). 
+1. Saugios laivybos valstybinį valdymą vykdo Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos socialinės apsaugos ir darbo ministerija, Lietuvos Respublikos sveikatos apsaugos ministerija, Lietuvos Respublikos teisingumo ministerija ir Lietuvos transporto saugos administracija (toliau – Administracija). 
 Straipsnio dalies pakeitimai:
 Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
  
 
 
@@ -505,7 +514,10 @@ Nr. XII-2072, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19359
 
 
 
-4 straipsnis. Lietuvos saugios laivybos administracija
+4 straipsnis. Administracija 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
+ 
 
 
 1. Administracija yra biudžetinė įstaiga prie Susisiekimo ministerijos. 
@@ -2656,3 +2668,8 @@ Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2248, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21033
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2 straipsnio pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymo Nr. XII-2129 1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2, 3 ir 4 straipsnių pakeitimo įstatymas
