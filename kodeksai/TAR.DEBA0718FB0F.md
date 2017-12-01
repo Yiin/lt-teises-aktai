@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-11-30
+Suvestinė redakcija nuo 2017-12-01 iki 2019-10-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -101,7 +101,10 @@ Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 4 straipsnis. Vidaus vandenų transporto valstybinis valdymas
 
 
-1. Vidaus vandenų transporto valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė, Susisiekimo ministerija ir Lietuvos saugios laivybos administracija.
+1. Vidaus vandenų transporto valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė, Susisiekimo ministerija ir Lietuvos transporto saugos administracija (toliau – Transporto saugos administracija). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -116,7 +119,10 @@ Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
 
 
-4. Lietuvos saugios laivybos administracija nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus, atlieka vidaus vandenų transporto veiklą reglamentuojančių teisės aktų vykdymo kontrolę ir vykdo kitas funkcijas, nustatytas šiame kodekse ir kituose teisės aktuose.
+4. Transporto saugos administracija nustato saugią laivybą reglamentuojančius techninius ir organizacinius reikalavimus, atlieka vidaus vandenų transporto veiklą reglamentuojančių teisės aktų vykdymo kontrolę ir vykdo kitas funkcijas, nustatytas šiame kodekse ir kituose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 Straipsnio pakeitimai:
@@ -132,12 +138,12 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 41 straipsnis. Krovinių vežimo krovininiais vidaus vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais tvarka
 
 
-1. Vežti krovinius krovininiais vidaus vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę Lietuvos Respublikos fiziniai ir juridiniai asmenys, taip pat Lietuvos Respublikoje veikiantys kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų padaliniai, turintys licenciją verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais (toliau šiame straipsnyje – licencija).
+1. Vežti krovinius krovininiais vidaus vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę Lietuvos Respublikos fiziniai ir juridiniai asmenys, taip pat Lietuvos Respublikoje veikiantys kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų padaliniai, turintys licenciją verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais (toliau šiame straipsnyje – licencija).
 
 
 
 
-2. Vežti krovinius krovininiais vidaus vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės fiziniai ir juridiniai asmenys, taip pat kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų padaliniai, turintys šios valstybės narės kompetentingų institucijų išduotą dokumentą, suteikiantį teisę vežti krovinius krovininiais vidaus vandenų laivais tarptautiniais vidaus vandenų keliais (toliau – vežėjo dokumentas). 
+2. Vežti krovinius krovininiais vidaus vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės fiziniai ir juridiniai asmenys, taip pat kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų padaliniai, turintys šios valstybės narės kompetentingų institucijų išduotą dokumentą, suteikiantį teisę vežti krovinius krovininiais vidaus vandenų laivais tarptautiniais vidaus vandenų keliais (toliau – vežėjo dokumentas). 
 
 
 
@@ -167,17 +173,17 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-5. Lietuvos saugios laivybos administracija įrašo šio straipsnio 1 dalyje nurodytus subjektus į Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašą, įspėja juos apie licencijos galiojimo sustabdymą, sustabdo licencijos galiojimą, panaikina licencijos galiojimo sustabdymą ir išbraukia šio straipsnio 1 dalyje nurodytus subjektus iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo.
+5. Transporto saugos administracija įrašo šio straipsnio 1 dalyje nurodytus subjektus į Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašą, įspėja juos apie licencijos galiojimo sustabdymą, sustabdo licencijos galiojimą, panaikina licencijos galiojimo sustabdymą ir išbraukia šio straipsnio 1 dalyje nurodytus subjektus iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo.
 
 
 
 
-6. Šio straipsnio 1 dalyje nurodyti subjektai, siekiantys vežti krovinius krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais, prašymą ir kitus dokumentus, kuriais patvirtinama atitiktis šio straipsnio 4 dalyje nustatytiems reikalavimams, pateikia per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipdamiesi į Lietuvos saugios laivybos administraciją.
+6. Šio straipsnio 1 dalyje nurodyti subjektai, siekiantys vežti krovinius krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais, prašymą ir kitus dokumentus, kuriais patvirtinama atitiktis šio straipsnio 4 dalyje nustatytiems reikalavimams, pateikia per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai kreipdamiesi į Transporto saugos administraciją.
 
 
 
 
-7. Lietuvos saugios laivybos administracija šiame straipsnyje nurodytus pranešimus teikia tiesiogiai, per atstumą ar elektroninėmis priemonėmis per kontaktinį centrą.
+7. Transporto saugos administracija šiame straipsnyje nurodytus pranešimus teikia tiesiogiai, per atstumą ar elektroninėmis priemonėmis per kontaktinį centrą.
 
 
 
@@ -187,12 +193,12 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-9. Lietuvos saugios laivybos administracija, gavusi šio straipsnio 1 dalyje nurodyto subjekto, siekiančio gauti licenciją, prašymą ir dokumentus, nedelsdama, bet ne vėliau kaip per 5 darbo dienas, patikrina gautą prašymą ir dokumentus. Nustačiusi, kad licencijos turėtojo pranešime pateikta netiksli, neišsami (ne visa) informacija, klaidingi duomenys, bet šie neatitikimai yra mažareikšmiai, Lietuvos saugios laivybos administracija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, įspėja licencijos turėtoją apie galimą licencijos galiojimo sustabdymą ir nustato ne trumpesnį kaip 5 darbo dienų nuo įspėjimo apie galimą licencijos galiojimo sustabdymą gavimo terminą, per kurį turi būti pateikti trūkstami dokumentai ir (ar) patikslinti pateikti duomenys.
+9. Transporto saugos administracija, gavusi šio straipsnio 1 dalyje nurodyto subjekto, siekiančio gauti licenciją, prašymą ir dokumentus, nedelsdama, bet ne vėliau kaip per 5 darbo dienas, patikrina gautą prašymą ir dokumentus. Nustačiusi, kad licencijos turėtojo pranešime pateikta netiksli, neišsami (ne visa) informacija, klaidingi duomenys, bet šie neatitikimai yra mažareikšmiai, Transporto saugos administracija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, įspėja licencijos turėtoją apie galimą licencijos galiojimo sustabdymą ir nustato ne trumpesnį kaip 5 darbo dienų nuo įspėjimo apie galimą licencijos galiojimo sustabdymą gavimo terminą, per kurį turi būti pateikti trūkstami dokumentai ir (ar) patikslinti pateikti duomenys.
 
 
 
 
-10. Lietuvos saugios laivybos administracija sustabdo licencijos galiojimą, jeigu:
+10. Transporto saugos administracija sustabdo licencijos galiojimą, jeigu:
 
 
 1) licencijos turėtojas pagal šio straipsnio 9 dalį per įspėjime apie galimą licencijos galiojimo sustabdymą nustatytą terminą nepateikė trūkstamų dokumentų ir (ar) nepatikslino pateiktų netikslių, klaidingų duomenų;
@@ -210,19 +216,19 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-4) licencijos turėtojas pateikia prašymą Lietuvos saugios laivybos administracijai sustabdyti licencijos galiojimą.   
+4) licencijos turėtojas pateikia prašymą Transporto saugos administracijai sustabdyti licencijos galiojimą. 
 
 
 
 
 
 
-11. Lietuvos saugios laivybos administracija uždraudžia vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais, jeigu paaiškėja, kad vežėjo dokumento turėtojas neatitinka šio straipsnio 4 dalyje nustatytų reikalavimų.
+11. Transporto saugos administracija uždraudžia vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais, jeigu paaiškėja, kad vežėjo dokumento turėtojas neatitinka šio straipsnio 4 dalyje nustatytų reikalavimų.
 
 
 
 
-12. Sustabdžiusi licencijos, išskyrus šio straipsnio 10 dalies 4 punkte nustatytą atvejį, galiojimą arba uždraudusi vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais, Lietuvos saugios laivybos administracija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, apie tai praneša licencijos arba vežėjo dokumento turėtojui, informuoja kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės kompetentingą instituciją, išdavusią vežėjo dokumentą, ir:
+12. Sustabdžiusi licencijos, išskyrus šio straipsnio 10 dalies 4 punkte nustatytą atvejį, galiojimą arba uždraudusi vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais, Transporto saugos administracija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, apie tai praneša licencijos arba vežėjo dokumento turėtojui, informuoja kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės kompetentingą instituciją, išdavusią vežėjo dokumentą, ir:
 
 
 1) nustato 5 darbo dienų nuo pranešimo apie licencijos galiojimo sustabdymą gavimo terminą (šis terminas gali būti pratęstas iki 30 darbo dienų motyvuotu licencijos turėtojo prašymu), per kurį licencijos turėtojas privalo pateikti trūkstamus dokumentus ir (ar) patikslinti pateiktus netikslius ar klaidingus duomenis; 
@@ -230,22 +236,22 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-2) nustato 5 darbo dienų nuo pranešimo apie licencijos galiojimo sustabdymą arba draudimą vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais gavimo terminą (šis terminas gali būti pratęstas iki 30 darbo dienų motyvuotu leidimo turėtojo ar vežėjo dokumento turėtojo prašymu), per kurį licencijos arba vežėjo dokumento turėtojas turi užtikrinti atitiktį šio straipsnio 4 dalyje nustatytiems reikalavimams.
+2) nustato 5 darbo dienų nuo pranešimo apie licencijos galiojimo sustabdymą arba draudimą vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais gavimo terminą (šis terminas gali būti pratęstas iki 30 darbo dienų motyvuotu leidimo turėtojo ar vežėjo dokumento turėtojo prašymu), per kurį licencijos arba vežėjo dokumento turėtojas turi užtikrinti atitiktį šio straipsnio 4 dalyje nustatytiems reikalavimams.
 
 
 
 
 
 
-13. Kai licencijos ar vežėjo dokumento turėtojas pateikia trūkstamus ir (ar) patikslintus dokumentus ir (ar) užtikrina atitiktį šio straipsnio 4 dalyje nustatytiems reikalavimams, Lietuvos saugios laivybos administracija nedelsdama, bet ne vėliau kaip per 3 darbo dienas nuo dokumentų gavimo dienos, patikrina duomenis ir (ar) atitiktį šio straipsnio 4 dalyje nustatytiems reikalavimams ir nustačiusi, kad pateikti visi dokumentai, duomenys patikslinti ir (ar) užtikrinta atitiktis šio straipsnio 4 dalyje nustatytiems reikalavimams, panaikina licencijos galiojimo sustabdymą ar draudimą vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais ir apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša licencijos ar vežėjo dokumento turėtojui.
+13. Kai licencijos ar vežėjo dokumento turėtojas pateikia trūkstamus ir (ar) patikslintus dokumentus ir (ar) užtikrina atitiktį šio straipsnio 4 dalyje nustatytiems reikalavimams, Transporto saugos administracija nedelsdama, bet ne vėliau kaip per 3 darbo dienas nuo dokumentų gavimo dienos, patikrina duomenis ir (ar) atitiktį šio straipsnio 4 dalyje nustatytiems reikalavimams ir nustačiusi, kad pateikti visi dokumentai, duomenys patikslinti ir (ar) užtikrinta atitiktis šio straipsnio 4 dalyje nustatytiems reikalavimams, panaikina licencijos galiojimo sustabdymą ar draudimą vežėjo dokumento turėtojui vežti krovinius Lietuvos Respublikos vidaus vandenų keliais ir apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša licencijos ar vežėjo dokumento turėtojui.
 
 
 
 
-14. Lietuvos saugios laivybos administracija išbraukia licencijos turėtojus iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo ir apie tai paskelbia šio straipsnio 19 dalyje nurodyta tvarka, jeigu:
+14. Transporto saugos administracija išbraukia licencijos turėtojus iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo ir apie tai paskelbia šio straipsnio 19 dalyje nurodyta tvarka, jeigu:
 
 
-1) licencijos turėtojas Lietuvos saugios laivybos administracijai pateikia prašymą išbraukti jį iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo;
+1) licencijos turėtojas Transporto saugos administracijai pateikia prašymą išbraukti jį iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo;
 
 
 
@@ -267,7 +273,7 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-15. Apie išbraukimą iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo ir jo priežastis Lietuvos saugios laivybos administracija licencijos turėtojui praneša nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo sprendimo dėl išbraukimo iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo priėmimo dienos.
+15. Apie išbraukimą iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo ir jo priežastis Transporto saugos administracija licencijos turėtojui praneša nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo sprendimo dėl išbraukimo iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo priėmimo dienos.
 
 
 
@@ -287,7 +293,7 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-19. Lietuvos saugios laivybos administracija, įrašiusi licencijos turėtoją į Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašą, sustabdžiusi licencijos galiojimą, panaikinusi licencijos galiojimo sustabdymą ar išbraukusi jį iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo, per 2 darbo dienas apie tai paskelbia savo interneto svetainėje. Skelbime nurodomi šie duomenys:
+19. Transporto saugos administracija, įrašiusi licencijos turėtoją į Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašą, sustabdžiusi licencijos galiojimą, panaikinusi licencijos galiojimo sustabdymą ar išbraukusi jį iš Subjektų, vežančių krovinius krovininiais vidaus vandenų laivais, sąrašo, per 2 darbo dienas apie tai paskelbia savo interneto svetainėje. Skelbime nurodomi šie duomenys:
 
 
 1) fizinio asmens vardas, pavardė, gimimo metai arba juridinio asmens, juridinio asmens ar kitos organizacijos padalinio pavadinimas, kodas ir buveinė;
@@ -315,24 +321,25 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-2) pranešti Lietuvos saugios laivybos administracijai apie pasikeitusius jo duomenis (jeigu asmuo yra juridinis, jo pavadinimą, juridinio asmens kodą, buveinę ir adresą korespondencijai; jeigu asmuo yra fizinis, jo vardą, pavardę, adresą korespondencijai) ne vėliau kaip per 5 darbo dienas nuo tokių duomenų pasikeitimo momento.
+2) pranešti Transporto saugos administracijai apie pasikeitusius jo duomenis (jeigu asmuo yra juridinis, jo pavadinimą, juridinio asmens kodą, buveinę ir adresą korespondencijai; jeigu asmuo yra fizinis, jo vardą, pavardę, adresą korespondencijai) ne vėliau kaip per 5 darbo dienas nuo tokių duomenų pasikeitimo momento.
 
 
 
 
 
 
-21. Licencijos ir vežėjo dokumentų turėtojų planinių ir neplaninių veiklos patikrinimų taisykles tvirtina ir šiuos patikrinimus atlieka Lietuvos saugios laivybos administracija.
-
-
+21. Licencijos ir vežėjo dokumentų turėtojų planinių ir neplaninių veiklos patikrinimų taisykles tvirtina ir šiuos patikrinimus atlieka Transporto saugos administracija. 
 Kodeksas papildytas straipsniu:
 Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
 Straipsnio pakeitimai:
 Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
 Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 Nr. XI-2132, 2012-06-26, Žin., 2012, Nr. 77-3982 (2012-07-01)
+
+
 Straipsnio pakeitimai:
 Nr. XII-2255, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06344
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
  
 
 
@@ -341,7 +348,10 @@ Nr. XII-2255, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06344
 42 straipsnis. Keleivių teisių užtikrinimas ir skundų nagrinėjimas
 
 
-1. Lietuvos saugios laivybos administracija užtikrina Reglamento (ES) Nr. 1177/2010 nuostatų, susijusių su keleivių vežimo paslaugomis, išskyrus keleivių skundų dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų nagrinėjimą, vykdymą.
+1. Transporto saugos administracija užtikrina Reglamento (ES) Nr. 1177/2010 nuostatų, susijusių su keleivių vežimo paslaugomis, išskyrus keleivių skundų dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų nagrinėjimą, vykdymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -407,7 +417,10 @@ VIDAUS VANDENŲ KELIAI IR JŲ ĮRENGINIAI
 
 
 
-7. Lietuvos saugios laivybos administracija atlieka vidaus vandenų kelių būklės ir juose esančių navigacinių įrenginių funkcionavimo valstybinę kontrolę.
+7. Transporto saugos administracija atlieka vidaus vandenų kelių būklės ir juose esančių navigacinių įrenginių funkcionavimo valstybinę kontrolę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 Straipsnio pakeitimai:
@@ -757,7 +770,10 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-8) Lietuvos saugios laivybos administracijos patvirtintas vidaus vandenų uosto kapitonas; 
+8) Transporto saugos administracijos patvirtintas vidaus vandenų uosto kapitonas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -812,7 +828,10 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 25. Vidaus vandenų uostus ir komercines prieplaukas registruoja ir į Įregistruotų vidaus vandenų uostų sąrašą ar Įregistruotų komercinių prieplaukų sąrašą įtraukia:
 
 
-1) Lietuvos saugios laivybos administracija – valstybinės reikšmės vidaus vandenų keliuose steigiamus vidaus vandenų uostus ir komercines prieplaukas Vyriausybės nustatyta tvarka; 
+1) Transporto saugos administracija – valstybinės reikšmės vidaus vandenų keliuose steigiamus vidaus vandenų uostus ir komercines prieplaukas Vyriausybės nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -824,7 +843,10 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-26. Steigėjas, pageidaujantis įregistruoti vidaus vandenų uostą ar komercinę prieplauką, Vyriausybės ar savivaldybės tarybos nustatyta tvarka pateikia Lietuvos saugios laivybos administracijai arba savivaldybės vykdomajai institucijai prašymą ir kitus dokumentus, kuriais patvirtinama atitiktis šio straipsnio 22 ar 24 dalyje nustatytiems reikalavimams.
+26. Steigėjas, pageidaujantis įregistruoti vidaus vandenų uostą ar komercinę prieplauką, Vyriausybės ar savivaldybės tarybos nustatyta tvarka pateikia Transporto saugos administracijai arba savivaldybės vykdomajai institucijai prašymą ir kitus dokumentus, kuriais patvirtinama atitiktis šio straipsnio 22 ar 24 dalyje nustatytiems reikalavimams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -834,12 +856,15 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-28. Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija, gavusi steigėjo prašymą ir dokumentus įregistruoti vidaus vandenų uostą ar komercinę prieplauką, nedelsdama, bet ne vėliau kaip per 5 darbo dienas, juos patikrina. Paaiškėjus, kad vidaus vandenų uosto ar komercinės prieplaukos valdytojo pateiktame pranešime pateikta netiksli, neišsami (ne visa) informacija, klaidingi duomenys, bet šie neatitikimai yra mažareikšmiai, Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, įspėja valdytoją apie galimą vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimo sustabdymą ir nustato ne trumpesnį kaip 15 darbo dienų nuo įspėjimo apie galimą registracijos galiojimo sustabdymą gavimo terminą, per kurį turi būti pateikti trūkstami dokumentai, patikslinti netikslūs ir (ar) klaidingi duomenys. Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija, gavusi trūkstamus ir (ar) patikslintus dokumentus ir duomenis, nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo dokumentų ir duomenų gavimo dienos, patikrina pateiktus dokumentus ir duomenis apie vidaus vandenų uostą ar komercinę prieplauką ir nustačiusi, kad pateikti trūkstami dokumentai, patikslinti netikslūs ir (ar) klaidingi duomenys, panaikina įspėjimą apie galimą registracijos galiojimo sustabdymą ir apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša vidaus vandenų uosto ar komercinės prieplaukos valdytojui. 
+28. Transporto saugos administracija ar savivaldybės vykdomoji institucija, gavusi steigėjo prašymą ir dokumentus įregistruoti vidaus vandenų uostą ar komercinę prieplauką, nedelsdama, bet ne vėliau kaip per 5 darbo dienas, juos patikrina. Paaiškėjus, kad vidaus vandenų uosto ar komercinės prieplaukos valdytojo pateiktame pranešime pateikta netiksli, neišsami (ne visa) informacija, klaidingi duomenys, bet šie neatitikimai yra mažareikšmiai, Transporto saugos administracija ar savivaldybės vykdomoji institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, įspėja valdytoją apie galimą vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimo sustabdymą ir nustato ne trumpesnį kaip 15 darbo dienų nuo įspėjimo apie galimą registracijos galiojimo sustabdymą gavimo terminą, per kurį turi būti pateikti trūkstami dokumentai, patikslinti netikslūs ir (ar) klaidingi duomenys. Transporto saugos administracija ar savivaldybės vykdomoji institucija, gavusi trūkstamus ir (ar) patikslintus dokumentus ir duomenis, nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo dokumentų ir duomenų gavimo dienos, patikrina pateiktus dokumentus ir duomenis apie vidaus vandenų uostą ar komercinę prieplauką ir nustačiusi, kad pateikti trūkstami dokumentai, patikslinti netikslūs ir (ar) klaidingi duomenys, panaikina įspėjimą apie galimą registracijos galiojimo sustabdymą ir apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša vidaus vandenų uosto ar komercinės prieplaukos valdytojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
 
-29. Vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimas sustabdomas Lietuvos saugios laivybos administracijos ar savivaldybės vykdomosios institucijos sprendimu, jeigu:
+29. Vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimas sustabdomas Transporto saugos administracijos ar savivaldybės vykdomosios institucijos sprendimu, jeigu:
 
 
 1) paaiškėja, kad vidaus vandenų uostui ar komercinei prieplaukai įsteigti buvo pateikti ne visi dokumentai, netikslūs ir (ar) klaidingi duomenys ir vidaus vandenų uosto ar komercinės prieplaukos valdytojas per įspėjime apie galimą registracijos galiojimo sustabdymą nustatytą terminą nepateikė trūkstamų dokumentų ir (ar) nepatikslino pateiktų netikslių, klaidingų duomenų;
@@ -857,24 +882,33 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-4) vidaus vandenų uosto ar komercinės prieplaukos valdytojas pateikia prašymą sustabdyti uosto ar komercinės prieplaukos registracijos galiojimą.
+4) vidaus vandenų uosto ar komercinės prieplaukos valdytojas pateikia prašymą sustabdyti uosto ar komercinės prieplaukos registracijos galiojimą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
 
-
-
-30. Sustabdžiusi vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimą, Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša apie tai vidaus vandenų uosto ar komercinės prieplaukos valdytojui ir nurodo pašalinti pažeidimus per 30 darbo dienų nuo pranešimo apie vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimo sustabdymą gavimo. Terminas pažeidimams pašalinti gali būti pratęstas iki 6 mėnesių motyvuotu vidaus vandenų uosto ar komercinės prieplaukos valdytojo prašymu. 
-
-
-
-
-31. Kai vidaus vandenų uosto ar komercinės prieplaukos valdytojas pašalina pažeidimus ir pateikia Lietuvos saugios laivybos administracijai ar savivaldybės vykdomajai institucijai tai pagrindžiančią informaciją, Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija per 5 darbo dienas nuo informacijos gavimo dienos patikrina pateiktą informaciją ir nustačiusi, kad pažeidimai buvo pašalinti, panaikina registracijos galiojimo sustabdymą bei apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša vidaus vandenų uosto ar komercinės prieplaukos valdytojui.
+30. Sustabdžiusi vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimą, Transporto saugos administracija ar savivaldybės vykdomoji institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša apie tai vidaus vandenų uosto ar komercinės prieplaukos valdytojui ir nurodo pašalinti pažeidimus per 30 darbo dienų nuo pranešimo apie vidaus vandenų uosto ar komercinės prieplaukos registracijos galiojimo sustabdymą gavimo. Terminas pažeidimams pašalinti gali būti pratęstas iki 6 mėnesių motyvuotu vidaus vandenų uosto ar komercinės prieplaukos valdytojo prašymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
 
-32. Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija išbraukia vidaus vandenų uostą ar komercinę prieplauką iš Įregistruotų vidaus vandenų uostų sąrašo ar Įregistruotų komercinių prieplaukų sąrašo, jeigu:
+31. Kai vidaus vandenų uosto ar komercinės prieplaukos valdytojas pašalina pažeidimus ir pateikia Transporto saugos administracijai ar savivaldybės vykdomajai institucijai tai pagrindžiančią informaciją, Transporto saugos administracija ar savivaldybės vykdomoji institucija per 5 darbo dienas nuo informacijos gavimo dienos patikrina pateiktą informaciją ir nustačiusi, kad pažeidimai buvo pašalinti, panaikina registracijos galiojimo sustabdymą bei apie tai nedelsdama, bet ne vėliau kaip per 2 darbo dienas, praneša vidaus vandenų uosto ar komercinės prieplaukos valdytojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
+
+
+
+
+32. Transporto saugos administracija ar savivaldybės vykdomoji institucija išbraukia vidaus vandenų uostą ar komercinę prieplauką iš Įregistruotų vidaus vandenų uostų sąrašo ar Įregistruotų komercinių prieplaukų sąrašo, jeigu:
 
 
 1) vidaus vandenų uosto ar komercinės prieplaukos valdytojas pateikia prašymą išbraukti vidaus vandenų uostą ar komercinę prieplauką iš Įregistruotų vidaus vandenų uostų sąrašo ar Įregistruotų komercinių prieplaukų sąrašo;
@@ -892,14 +926,20 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-4) vidaus vandenų uosto ar komercinės prieplaukos valdytojas likviduojamas arba miršta, o jo teisės ir pareigos nebuvo perimtos.
+4) vidaus vandenų uosto ar komercinės prieplaukos valdytojas likviduojamas arba miršta, o jo teisės ir pareigos nebuvo perimtos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
 
-
-
-33. Išbraukusi vidaus vandenų uostą ar komercinę prieplauką iš Įregistruotų vidaus vandenų uostų sąrašo ar Įregistruotų komercinių prieplaukų sąrašo, išskyrus šio straipsnio 32 dalies 4 punkte nurodytus atvejus, Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, apie tai praneša vidaus vandenų uosto ar komercinės prieplaukos valdytojui.
+33. Išbraukusi vidaus vandenų uostą ar komercinę prieplauką iš Įregistruotų vidaus vandenų uostų sąrašo ar Įregistruotų komercinių prieplaukų sąrašo, išskyrus šio straipsnio 32 dalies 4 punkte nurodytus atvejus, Transporto saugos administracija ar savivaldybės vykdomoji institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas, apie tai praneša vidaus vandenų uosto ar komercinės prieplaukos valdytojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -909,7 +949,10 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-35. Lietuvos saugios laivybos administracija ar savivaldybės institucijos, vidaus vandenų uosto ar komercinės prieplaukos steigėjas (valdytojas) šiame straipsnyje nurodytus pranešimus ir dokumentus teikia tiesiogiai, per atstumą ar elektroninėmis priemonėmis per kontaktinį centrą.
+35. Transporto saugos administracija ar savivaldybės institucijos, vidaus vandenų uosto ar komercinės prieplaukos steigėjas (valdytojas) šiame straipsnyje nurodytus pranešimus ir dokumentus teikia tiesiogiai, per atstumą ar elektroninėmis priemonėmis per kontaktinį centrą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -917,7 +960,10 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 36. Vidaus vandenų uosto ar komercinės prieplaukos valdytojas privalo: 
 
 
-1) pranešti Lietuvos saugios laivybos administracijai ar savivaldybės vykdomajai institucijai apie pasikeitusius duomenis, susijusius su vidaus vandenų uosto ar komercinės prieplaukos paskirtimi, vidaus vandenų uosto ar komercinės prieplaukos techniniais parametrais, arba pasikeitusius jų duomenis (jeigu asmuo yra juridinis, jo pavadinimą, juridinio asmens kodą, buveinę ir adresą korespondencijai; jeigu asmuo yra fizinis, jo vardą, pavardę, adresą korespondencijai) ne vėliau kaip per 5 darbo dienas nuo tokių duomenų pasikeitimo momento;
+1) pranešti Transporto saugos administracijai ar savivaldybės vykdomajai institucijai apie pasikeitusius duomenis, susijusius su vidaus vandenų uosto ar komercinės prieplaukos paskirtimi, vidaus vandenų uosto ar komercinės prieplaukos techniniais parametrais, arba pasikeitusius jų duomenis (jeigu asmuo yra juridinis, jo pavadinimą, juridinio asmens kodą, buveinę ir adresą korespondencijai; jeigu asmuo yra fizinis, jo vardą, pavardę, adresą korespondencijai) ne vėliau kaip per 5 darbo dienas nuo tokių duomenų pasikeitimo momento; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -929,7 +975,10 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-37. Įregistruotų vidaus vandenų uostų ar komercinių prieplaukų planinius ir neplaninius veiklos patikrinimus atlieka Lietuvos saugios laivybos administracija ar savivaldybės vykdomoji institucija pagal Lietuvos saugios laivybos administracijos ar savivaldybės tarybos patvirtintas Įregistruotų vidaus vandenų uostų ar komercinių prieplaukų planinių ir neplaninių veiklos patikrinimų taisykles.
+37. Įregistruotų vidaus vandenų uostų ar komercinių prieplaukų planinius ir neplaninius veiklos patikrinimus atlieka Transporto saugos administracija ar savivaldybės vykdomoji institucija pagal Transporto saugos administracijos ar savivaldybės tarybos patvirtintas Įregistruotų vidaus vandenų uostų ar komercinių prieplaukų planinių ir neplaninių veiklos patikrinimų taisykles. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 Straipsnio pakeitimai:
@@ -1058,12 +1107,18 @@ Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
 
 
-5. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių technines apžiūras atlieka ir atitinkamus dokumentus bei jų dublikatus išduoda Lietuvos saugios laivybos administracija susisiekimo ministro nustatyta tvarka. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių, esančių ne Lietuvos Respublikos teritorijoje, techninių apžiūrų atlikimo išlaidas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlygina vidaus vandenų transporto priemonių savininkai (valdytojai).
+5. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių technines apžiūras atlieka ir atitinkamus dokumentus bei jų dublikatus išduoda Transporto saugos administracija susisiekimo ministro nustatyta tvarka. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių, esančių ne Lietuvos Respublikos teritorijoje, techninių apžiūrų atlikimo išlaidas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlygina vidaus vandenų transporto priemonių savininkai (valdytojai). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
 
-6. Lietuvos saugios laivybos administracija išduoda to pageidaujantiems vidaus vandenų transporto priemonių, įregistruotų Lietuvos Respublikos vidaus vandenų laivų registre ir atitinkančių nustatytus techninius reikalavimus, savininkams (valdytojams) Europos Bendrijos vidaus vandenų laivybos sertifikatus, papildomus Europos Bendrijos vidaus vandenų laivybos sertifikatus ir laikinuosius Europos Bendrijos vidaus vandenų laivybos sertifikatus. Sertifikatų išdavimo tvarką ir sertifikatų formą tvirtina susisiekimo ministras.
+6. Transporto saugos administracija išduoda to pageidaujantiems vidaus vandenų transporto priemonių, įregistruotų Lietuvos Respublikos vidaus vandenų laivų registre ir atitinkančių nustatytus techninius reikalavimus, savininkams (valdytojams) Europos Bendrijos vidaus vandenų laivybos sertifikatus, papildomus Europos Bendrijos vidaus vandenų laivybos sertifikatus ir laikinuosius Europos Bendrijos vidaus vandenų laivybos sertifikatus. Sertifikatų išdavimo tvarką ir sertifikatų formą tvirtina susisiekimo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -1073,7 +1128,10 @@ Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 
 
 
-8. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių žurnalus registruoja, statybos, pertvarkymo, modernizavimo dokumentus ir brėžinius tvirtina, jų ekspertizę atlieka Lietuvos saugios laivybos administracija. Lietuvos saugios laivybos administracija atlieka vykdomų vidaus vandenų transporto priemonių statybos, pertvarkymo, rekonstrukcijos ar remonto darbų techninę priežiūrą.
+8. Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių žurnalus registruoja, statybos, pertvarkymo, modernizavimo dokumentus ir brėžinius tvirtina, jų ekspertizę atlieka Transporto saugos administracija. Transporto saugos administracija atlieka vykdomų vidaus vandenų transporto priemonių statybos, pertvarkymo, rekonstrukcijos ar remonto darbų techninę priežiūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -1133,7 +1191,10 @@ VIDAUS VANDENŲ TRANSPORTO PERSONALAS
 
 
 
-3. Vidaus vandenų transporto specialistus ir motorinių pramoginių laivų laivavedžius pagal susisiekimo ministro patvirtintas programas rengia susisiekimo ministro nustatyta tvarka akredituotos mokymo įstaigos, įmonės ar organizacijos. Juos egzaminuoja ir vidaus vandenų transporto specialisto laipsnio diplomus, diplomų patvirtinimus, vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių dokumentų dublikatus susisiekimo ministro nustatyta tvarka išduoda Lietuvos saugios laivybos administracija.
+3. Vidaus vandenų transporto specialistus ir motorinių pramoginių laivų laivavedžius pagal susisiekimo ministro patvirtintas programas rengia susisiekimo ministro nustatyta tvarka akredituotos mokymo įstaigos, įmonės ar organizacijos. Juos egzaminuoja ir vidaus vandenų transporto specialisto laipsnio diplomus, diplomų patvirtinimus, vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių dokumentų dublikatus susisiekimo ministro nustatyta tvarka išduoda Transporto saugos administracija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+ 
 
 
 
@@ -1159,24 +1220,26 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-2. Laivo įgulos minimalios sudėties reikalavimus tvirtina susisiekimo ministras. Vidaus vandenų laivo įgulos minimalios sudėties liudijimus bei jų dublikatus išduoda Lietuvos saugios laivybos administracija.
+2. Laivo įgulos minimalios sudėties reikalavimus tvirtina susisiekimo ministras. Vidaus vandenų laivo įgulos minimalios sudėties liudijimus ir jų dublikatus išduoda Transporto saugos administracija.
 
 
 
 
-3. Laivo kapitonu (škiperiu) ir kitais įgulos nariais gali būti asmenys, turintys Europos Bendrijos valstybių narių kompetentingų institucijų išduotus vidaus vandenų transporto priemonių įgulų narių kvalifikaciją patvirtinančius dokumentus arba atitinkamus vidaus vandenų transporto specialisto laipsnio diplomus ir diplomų patvirtinimus arba vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, kuriuos išduoda Lietuvos saugios laivybos administracija susisiekimo ministro nustatyta tvarka.
+3. Laivo kapitonu (škiperiu) ir kitais įgulos nariais gali būti asmenys, turintys Europos Bendrijos valstybių narių kompetentingų institucijų išduotus vidaus vandenų transporto priemonių įgulų narių kvalifikaciją patvirtinančius dokumentus arba atitinkamus vidaus vandenų transporto specialisto laipsnio diplomus ir diplomų patvirtinimus arba vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, kuriuos išduoda Transporto saugos administracija susisiekimo ministro nustatyta tvarka.
 
 
 
 
-4. Burinių jachtų laivavedžių diplomus ir kitus pažymėjimus išduoda Lietuvos buriuotojų sąjungos patvirtintos kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų išdavimo sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo taisyklės, kurias, suderinusi su Lietuvos saugios laivybos administracija, tvirtina Lietuvos buriuotojų sąjunga.
-
-
+4. Burinių jachtų laivavedžių diplomus ir kitus pažymėjimus išduoda Lietuvos buriuotojų sąjungos patvirtintos kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų išdavimo sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo taisyklės, kurias, suderinusi su Transporto saugos administracija, tvirtina Lietuvos buriuotojų sąjunga. 
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
  
 
 
@@ -1338,19 +1401,21 @@ Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 26 straipsnis. Valstybinė saugios laivybos Lietuvos Respublikos vidaus vandenyse kontrolė
 
 
-1. Valstybinę saugios laivybos Lietuvos Respublikos vidaus vandenyse kontrolę atlieka Lietuvos saugios laivybos administracija.
+1. Valstybinę saugios laivybos Lietuvos Respublikos vidaus vandenyse kontrolę atlieka Transporto saugos administracija.
 
 
 
 
-2. Lietuvos saugios laivybos administracijos pareigūnai, įtarę, kad vidaus vandenų transporto priemonę vairuojantis asmuo yra neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, turi nušalinti jį nuo vidaus vandenų transporto priemonės vairavimo, specialiosiomis techninėmis priemonėmis jį patikrinti arba Vyriausybės nustatyta tvarka siųsti neblaivumui (girtumui) arba apsvaigimui nuo psichiką veikiančių medžiagų nustatyti.
-
-
+2. Transporto saugos administracijos pareigūnai, įtarę, kad vidaus vandenų transporto priemonę vairuojantis asmuo yra neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, turi nušalinti jį nuo vidaus vandenų transporto priemonės vairavimo, specialiosiomis techninėmis priemonėmis jį patikrinti arba Vyriausybės nustatyta tvarka siųsti neblaivumui (girtumui) arba apsvaigimui nuo psichiką veikiančių medžiagų nustatyti. 
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
  
 
 
@@ -1359,14 +1424,16 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 27 straipsnis. Avarijų Lietuvos Respublikos vidaus vandenyse tyrimas
 
 
-Lietuvos Respublikos vidaus vandenyse įvykusias avarijas susisiekimo ministro nustatyta tvarka registruoja ir tiria Lietuvos saugios laivybos administracija.
-
-
+Lietuvos Respublikos vidaus vandenyse įvykusias avarijas susisiekimo ministro nustatyta tvarka registruoja ir tiria Transporto saugos administracija. 
 Straipsnio pakeitimai:
 Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
  
 
 
@@ -1384,14 +1451,16 @@ Nr. IX-289, 2001 04 19, Žin., 2001, Nr. 39-1359 (2001 05 09)
 28 straipsnis. Valstybės rinkliava
 
 
-Už Susisiekimo ministerijos ir Lietuvos saugios laivybos administracijos veiksmus, susijusius su šiame kodekse numatytų atitinkamų dokumentų išdavimu, mokama nustatyto dydžio valstybės rinkliava.
-
-
+Už Susisiekimo ministerijos ir Transporto saugos administracijos veiksmus, susijusius su šiame kodekse numatytų atitinkamų dokumentų išdavimu, mokama nustatyto dydžio valstybės rinkliava. 
 Straipsnio pakeitimai:
 Nr. IX-289, 2001 04 19, Žin., 2001, Nr. 39-1359 (2001 05 09)
 Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
  
 
 
@@ -2344,6 +2413,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 vidaus vandenų transporto kodekso 
 priedas
@@ -2363,7 +2433,6 @@ priedas
 
 
 3. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
- 
 
 
 Kodeksas papildytas priedu:
@@ -2462,3 +2531,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 3, 4-1, 7, 9, 13, 14 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2599, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23693
 Lietuvos Respublikos vidaus vandenų transporto kodekso 71 straipsnio pakeitimo ir 70, 72 straipsnių pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
+Lietuvos Respublikos vidaus vandenų transporto kodekso 4, 4-1, 4-2, 6, 13, 16, 18, 19, 26, 27 ir 28 straipsnių pakeitimo įstatymas
