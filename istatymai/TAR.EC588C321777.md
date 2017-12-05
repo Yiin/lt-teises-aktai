@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2017-10-26 iki 2017-12-04
+Suvestinė redakcija nuo 2017-12-05 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -143,56 +143,50 @@ Prokuroras ir ikiteisminio tyrimo įstaigos kiekvienu atveju, kai paaiškėja nu
 
 
 
-2) jeigu suėjo baudžiamosios atsakomybės senaties terminai;
+2) jeigu suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas;
 
 
 
 
-3) (neteko galios nuo 2011-09-01);
+3) asmeniui, kuris nusikalstamos veikos padarymo metu dar nebuvo tokio amžiaus, nuo kurio jis atsako pagal baudžiamuosius įstatymus;
 
 
 
 
-4) asmeniui, kuris nusikalstamos veikos padarymo metu dar nebuvo tokio amžiaus, nuo kurio jis atsako pagal baudžiamuosius įstatymus;
+4) jeigu nėra nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo arba prokuroro reikalavimo pradėti procesą tais atvejais, kai procesas gali būti pradėtas tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą arba prokuroro reikalavimą;
 
 
 
 
-5) neteko galios nuo 2017-10-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
- 
+5) mirusiajam, išskyrus tuos atvejus, kai byla reikalinga mirusiajam reabilituoti arba kitų asmenų bylai atnaujinti dėl naujai paaiškėjusių aplinkybių;
 
 
 
 
-6) jeigu nėra nukentėjusiojo skundo ar jo teisėto atstovo pareiškimo arba prokuroro reikalavimo pradėti procesą tais atvejais, kai procesas gali būti pradėtas tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą arba prokuroro reikalavimą;
+6) asmeniui, kuriam įsiteisėjo teismo nuosprendis dėl to paties kaltinimo arba teismo nutartis ar prokuroro nutarimas nutraukti procesą tuo pačiu pagrindu;
 
 
 
 
-7) mirusiajam, išskyrus tuos atvejus, kai byla reikalinga mirusiajam reabilituoti arba kitų asmenų bylai atnaujinti dėl naujai paaiškėjusių aplinkybių;
-
-
-
-
-8) asmeniui, kuriam įsiteisėjo teismo nuosprendis dėl to paties kaltinimo arba teismo nutartis ar prokuroro nutarimas nutraukti procesą tuo pačiu pagrindu;
-
-
-
-
-9) jeigu egzistuoja Lietuvos Respublikos baudžiamojo kodekso V skyriuje numatyta baudžiamąją atsakomybę šalinanti aplinkybė.
+7) jeigu egzistuoja Lietuvos Respublikos baudžiamojo kodekso V skyriuje numatyta baudžiamąją atsakomybę šalinanti aplinkybė.
 
 
 
 
 
 
-2. Jeigu šio straipsnio 1 dalies 1 punkte nurodyta aplinkybė paaiškėja nagrinėjimo teisme metu, teismas baigia nagrinėti bylą ir priima išteisinamąjį nuosprendį.
+2. Jeigu šio straipsnio 1 dalies 1 punkte nurodyta aplinkybė paaiškėja bylos nagrinėjimo teisme metu, teismas baigia nagrinėti bylą ir priima išteisinamąjį nuosprendį.
+
+
+
+
+3. Jeigu šio straipsnio 1 dalies 2 punkte nurodyta aplinkybė paaiškėja perdavus bylą teismui ar bylos nagrinėjimo teisme metu ir kaltinamasis reikalauja tęsti baudžiamąjį procesą, teismas baigia nagrinėti bylą ir nuosprendžiu nutraukia baudžiamąją bylą arba priima išteisinamąjį nuosprendį.  
+Straipsnio pakeitimai:
+Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 
 
 Straipsnio pakeitimai:
-Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
  
 
 
@@ -8038,10 +8032,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir gynėjas. Suimtas kaltinamasis pristatomas į posėdį. Apie kaltinamajam paskirtą suėmimą teismas (teisėjas) nedelsdamas praneša šio Kodekso 128 straipsnio 1, 3 ir 4 dalyse nustatyta tvarka. 
+5. Dėl kardomosios priemonės – suėmimo paskyrimo, termino pratęsimo, pakeitimo ar panaikinimo teismas nusprendžia posėdyje vadovaudamasis šio Kodekso XI skyriaus nuostatomis. Teismo posėdyje dalyvauja prokuroras ir gynėjas. Suimtas kaltinamasis pristatomas į posėdį. Suimto kaltinamojo dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis. Apie kaltinamajam paskirtą suėmimą teismas (teisėjas) nedelsdamas praneša šio Kodekso 128 straipsnio 1, 3 ir 4 dalyse nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
  
 
 
@@ -8115,10 +8110,10 @@ Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
 235 straipsnis. Bylos nutraukimas
 
 
-1. Byla nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš kardomojo kalinimo vietos, taip pat nusprendžiama dėl daiktinių įrodymų.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 235 straipsnio 1 dalis (Žin., 2002, Nr. 37-1341) tiek, kiek nustatyta, kad byla nutraukiama, kai yra Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+1. Byla nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės. Kai yra šio Kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, baudžiamoji byla nutraukiama tik tuo atveju, jeigu kaltinamasis nereikalauja tęsti baudžiamojo proceso. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš kardomojo kalinimo vietos, taip pat nusprendžiama dėl daiktinių įrodymų. 
 Straipsnio dalies pakeitimai:
 Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
  
 
 
@@ -8585,16 +8580,19 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 
 
-4. Nagrinėjimo teisme metu, kai nustatomos šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, byla nutraukiama teismo nutartimi.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 254 straipsnio 4 dalis (2003 m. balandžio 10 d. redakcija; Žin., 2003, Nr. 38-1734) tiek, kiek pagal ją nagrinėjimo teisme metu, kai nustatoma Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, byla nutraukiama teismo nutartimi, teismui neišsprendus, ar kaltinamasis pagrįstai buvo kaltinamas padaręs nusikalstamą veiką, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+4. Nagrinėjimo teisme metu, kai nustatomos šio Kodekso 3 straipsnio 1 dalies 2–7 punktuose numatytos aplinkybės, byla nutraukiama teismo nutartimi. Kai yra šio Kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, baudžiamoji byla nutraukiama teismo nutartimi tik tuo atveju, jeigu kaltinamasis nereikalauja tęsti baudžiamojo proceso. 
 Straipsnio dalies pakeitimai:
 Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
  
 
 
 
 
-5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 259 straipsnio 3 dalyje, 227 straipsnio 4 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.
+5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 Straipsnio pakeitimai:
@@ -9827,7 +9825,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-4. Teismas nuosprendžiu nutraukia baudžiamąją bylą, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.
+4. Teismas nuosprendžiu nutraukia baudžiamąją bylą, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės. Teismas taip pat nuosprendžiu nutraukia baudžiamąją bylą, jeigu bylos nagrinėjimo teisme metu nustatoma, kad kaltinamasis pagrįstai buvo kaltinamas nusikalstamos veikos padarymu, tačiau dėl šios nusikalstamos veikos suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -9949,7 +9950,10 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 
 
-4. Nuosprendžio, kuriuo baudžiamoji byla nutraukiama, aprašomojoje dalyje nurodomos šio straipsnio 1 dalies 1 ir 2 punktuose numatytos aplinkybės, nusikalstamos veikos kvalifikavimas, taip pat atleidimo nuo baudžiamosios atsakomybės pagrindai ir motyvai. Jeigu nutraukiant baudžiamąją bylą skiriama baudžiamojo poveikio priemonė ar auklėjamojo poveikio priemonė, nuosprendžio aprašomojoje dalyje nurodomi tos priemonės skyrimo motyvai.
+4. Nuosprendžio, kuriuo baudžiamoji byla nutraukiama, aprašomojoje dalyje nurodomos šio straipsnio 1 dalies 1 ir 2 punktuose numatytos aplinkybės, nusikalstamos veikos kvalifikavimas, taip pat atleidimo nuo baudžiamosios atsakomybės pagrindai ir motyvai arba duomenys apie suėjusį apkaltinamojo nuosprendžio priėmimo senaties terminą. Jeigu nutraukiant baudžiamąją bylą skiriama baudžiamojo poveikio priemonė ar auklėjamojo poveikio priemonė, nuosprendžio aprašomojoje dalyje nurodomi tos priemonės skyrimo motyvai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -10049,12 +10053,12 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 5. Nuosprendžio, kuriuo nutraukiama baudžiamoji byla, rezoliucinėje dalyje nurodoma:
 
 
-1) atleisto nuo baudžiamosios atsakomybės asmens vardas ir pavardė;
+1) kaltinamojo vardas ir pavardė;
 
 
 
 
-2) sprendimas atleisti asmenį nuo baudžiamosios atsakomybės;
+2) sprendimas atleisti asmenį nuo baudžiamosios atsakomybės arba sprendimas nutraukti baudžiamąją bylą, nes suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas;
 
 
 
@@ -10064,9 +10068,12 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-4) sprendimas dėl procesinių prievartos priemonių panaikinimo.
+4) sprendimas dėl procesinių prievartos priemonių panaikinimo. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -10182,7 +10189,10 @@ Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
 
 
 
-2) paskelbia nuosprendį, kuriuo nutraukiama baudžiamoji byla ir atleidžiama nuo baudžiamosios atsakomybės;
+2) paskelbia nuosprendį, kuriuo nutraukiama baudžiamoji byla; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -10944,25 +10954,23 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Apeliacinės instancijos teismas panaikina pirmosios instancijos teismo nuosprendį ir nutraukia bylą, jeigu:
 
 
-1) yra šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, dėl kurių baudžiamasis procesas negalimas;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 327 straipsnio 1 punktas (2007 m. birželio 28 d. redakcija; Žin., 2007, Nr. 81-3312) tiek, kiek pagal jį apeliacinės instancijos teismas panaikina pirmosios instancijos teismo išteisinamąjį nuosprendį ir nutraukia bylą, jeigu yra Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, teismui neišsprendus, ar išteisintasis pagrįstai išteisintas dėl nusikalstamos veikos, kurios padarymu buvo kaltinamas, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
- 
+1) yra šio Kodekso 3 straipsnio 1 dalies 3–7 punktuose numatytos aplinkybės, dėl kurių baudžiamasis procesas negalimas;
 
 
 
 
-2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose,  114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.
-
-
-
-
+2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės arba suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas. 
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 Nr. XI-2199, 2012-06-30, Žin., 2012, Nr. 82-4277 (2012-07-13)
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
  
 
 
@@ -11057,7 +11065,10 @@ Jeigu byloje, kurioje buvo išnagrinėti su keliais nuteistaisiais susiję apeli
 
 
 
-3. Jeigu pirmosios instancijos teismo nuosprendis panaikinamas ir byla nutraukiama, apeliacinės instancijos teismo nuosprendyje turi būti nurodomas bylos nutraukimo pagrindas.
+3. Jeigu pirmosios instancijos teismo nuosprendis panaikinamas ir byla nutraukiama, apeliacinės instancijos teismo nuosprendyje turi būti nurodomas bylos nutraukimo pagrindas. Jeigu pirmosios instancijos teismo nuosprendis panaikinamas ir byla nutraukiama dėl to, kad suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas, apeliacinės instancijos teismo nuosprendyje taip pat turi būti nurodomi teismo nustatytos bylos aplinkybės ir įrodymai, kuriais grindžiamos teismo išvados, kad kaltinamasis pagrįstai buvo kaltinamas nusikalstamos veikos padarymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -13251,7 +13262,10 @@ Bylų dėl juridinių asmenų padarytų nusikalstamų veikų procesas
 3. Procesas dėl nusikalstamos veikos juridiniam asmeniui gali būti pradedamas ar tęsiamas atskirai nuo jo naudai ar interesais nusikalstamą veiką galimai padariusio fizinio asmens:
 
 
-1) kai dėl fizinio asmens padarytos nusikalstamos veikos suėjo baudžiamosios atsakomybės senaties terminas, tačiau šis terminas dėl juridinio asmens dar nėra pasibaigęs; 
+1) kai dėl fizinio asmens padarytos nusikalstamos veikos suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas, tačiau šis terminas dėl juridinio asmens dar nėra pasibaigęs; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -14603,7 +14617,9 @@ Baudžiamosios bylos atnaujinimas dėl naujai paaiškėjusių aplinkybių
 
 
 
-2. Kai šio straipsnio 1 dalies 1–3 punktuose išvardytiems asmenims negalima priimti nuosprendžio, nes kaltinamasis miręs arba suėjo baudžiamosios atsakomybės senaties terminai, naujai paaiškėjusios aplinkybės nustatomos atliekant tyrimą šio Kodekso 446 ir 447 straipsniuose nustatyta tvarka.
+2. Kai šio straipsnio 1 dalies 1–3 punktuose išvardytiems asmenims negalima priimti nuosprendžio, nes kaltinamasis miręs arba suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas, naujai paaiškėjusios aplinkybės nustatomos atliekant tyrimą šio Kodekso 446 ir 447 straipsniuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
  
 
 
@@ -14786,7 +14802,10 @@ Baudžiamosios bylos, kurios išnagrinėtos arba paliktos nenagrinėtos kasacin�
 
 
 
-4) nuteistąjį atleisti nuo bausmės, nes suėjo senaties terminas;
+4) nuteistąjį atleisti nuo bausmės, nes suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+ 
 
 
 
@@ -15793,3 +15812,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 3, 22, 57, 58, 167, 256, 293, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 Lietuvos Respublikos baudžiamojo proceso kodekso 181, 184, 187, 188, 209, 218, 220, 256, 312 ir 367 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+Lietuvos Respublikos baudžiamojo proceso kodekso 3, 233, 235, 254, 303, 305, 307, 309, 327, 331, 387, 444 ir 451 straipsnių pakeitimo įstatymas
