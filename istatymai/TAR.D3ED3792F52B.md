@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -4168,7 +4168,7 @@ Nr. XII-687, 2013-12-17, Žin., 2013, Nr. 140-7064 (2013-12-30)
 Lietuvos Respublikos
 valstybės tarnybos įstatymo 
 3 priedas
-Priedo redakcija nuo 2017-01-01 iki 2017-12-31:
+Priedo redakcija nuo 2017-01-01 iki 2018-12-31:
 VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
  
 
@@ -4475,7 +4475,7 @@ Nr. XII-2763, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26900
 Lietuvos Respublikos
 valstybės tarnybos įstatymo 
 3 priedas
-Priedo redakcija nuo 2018-01-01:
+Priedo redakcija nuo 2019-01-01:
  
 VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
  
@@ -4797,6 +4797,7 @@ Nr. XII-1863, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10825
 Nr. XII-2174, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20141
 Nr. XII-2497, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19351
 Nr. XII-2763, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26900
+Nr. XIII-818, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20012
  
 
 
@@ -5458,3 +5459,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2496, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19350
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 4 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-818, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20012
+Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 6 straipsnio pakeitimo įstatymas
