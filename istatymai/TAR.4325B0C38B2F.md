@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
  
@@ -532,15 +532,17 @@ DRAUDIMO IŠMOKOS
 
 
 
-2. Mėnesio kompensuojamasis uždarbis ligos išmokoms apskaičiuoti negali viršyti užpraeito ketvirčio dviejų šalies vidutinių mėnesinių darbo užmokesčių dydžio. 
+2. Mėnesio kompensuojamasis uždarbis ligos išmokai apskaičiuoti negali viršyti šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki laikinojo nedarbingumo nustatymo mėnesio, dviejų dydžių.
 
 
 
 
-3. Mėnesio kompensuojamasis uždarbis ligos išmokai apskaičiuoti negali būti mažesnis negu užpraeito ketvirčio 15 procentų šalies vidutinio mėnesinio darbo užmokesčio, apskaičiuoto pirmąją laikinojo nedarbingumo nustatymo dieną. 
+3. Mėnesio kompensuojamasis uždarbis ligos išmokai apskaičiuoti negali būti mažesnis negu 15 procentų šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki laikinojo nedarbingumo nustatymo mėnesio. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
  
-
-
 
 
 
@@ -574,7 +576,9 @@ DRAUDIMO IŠMOKOS
 
 
 
-2. Jeigu nelaimingas atsitikimas darbe neištiriamas per 30 dienų nuo kreipimosi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių ar Karinių ir joms prilygintų struktūrų skyrių, ligos išmoka nuo trečios laikinojo nedarbingumo dienos mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyta tvarka. Tais atvejais, kai pagal Ligos ir motinystės socialinio draudimo įstatymą išmokėta ligos išmoka yra didesnė negu pagal šį įstatymą apskaičiuota ligos išmoka dėl nelaimingo atsitikimo darbe, išmokėtoji išmoka neperskaičiuojama.
+2. Jeigu nelaimingas atsitikimas darbe neištiriamas per 30 dienų nuo kreipimosi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių ar Karinių ir joms prilygintų struktūrų skyrių, ligos išmoka nuo trečios laikinojo nedarbingumo dienos mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyta tvarka. Tais atvejais, kai pagal Ligos ir motinystės socialinio draudimo įstatymą išmokėta ligos išmoka yra didesnė negu pagal šį įstatymą apskaičiuota ligos išmoka dėl nelaimingo atsitikimo darbe (ar jai lygi), išmokėtoji išmoka neperskaičiuojama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
  
 
 
@@ -633,7 +637,10 @@ Išmokų sumos, kurios priklausė nukentėjusiajam asmeniui ir kurių jis dėl m
 
 
 
-4. Mėnesio kompensuojamasis uždarbis vienkartinei kompensacijai apskaičiuojamas Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatyta tvarka pagal nukentėjusiojo draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos nustatymo mėnesį.
+4. Kompensuojamasis uždarbis netekto darbingumo vienkartinei kompensacijai apskaičiuojamas Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatyta tvarka pagal nukentėjusiojo draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos nustatymo mėnesį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+ 
 
 
 
@@ -864,7 +871,9 @@ NELAIMINGŲ ATSITIKIMŲ DARBE SOCIALINIO DRAUDIMO LĖŠOS
 
 
 
-2. Nelaimingų atsitikimų darbe socialinio draudimo pajamas sudaro draudėjų valstybės biudžeto asignavimų valdytojų šiai draudimo rūšiai mokamos valstybinio socialinio draudimo įmokos, delspinigiai, baudos ir atgręžtinio reikalavimo tvarka iš kaltų asmenų ar jų draudimo įstaigų gautos lėšos. Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali sudaryti lėšos iš Valstybinio socialinio draudimo rezervinio fondo. Jeigu einamaisiais metais šiai draudimo rūšiai yra panaudojamos Valstybinio socialinio draudimo rezervinio fondo lėšos, tai ateinančiais metais valstybinio socialinio draudimo įmokos tarifas šiai draudimo rūšiai didinamas ta dalimi, kurios reikia Valstybinio socialinio draudimo rezervinio fondo panaudotoms lėšoms atkurti.
+2. Nelaimingų atsitikimų darbe socialinio draudimo pajamas sudaro draudėjų, valstybės biudžeto asignavimų valdytojų šiai draudimo rūšiai mokamos valstybinio socialinio draudimo įmokos, delspinigiai, baudos ir atgręžtinio reikalavimo tvarka iš kaltų asmenų ar jų draudimo įstaigų gautos lėšos. Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali sudaryti lėšos iš Valstybinio socialinio draudimo rezervinio fondo. Jeigu einamaisiais metais šiai draudimo rūšiai yra panaudojamos Valstybinio socialinio draudimo rezervinio fondo lėšos, tai ateinančiais metais valstybinio socialinio draudimo įmokos tarifas šiai draudimo rūšiai didinamas ta dalimi, kurios reikia Valstybinio socialinio draudimo rezervinio fondo panaudotoms lėšoms atkurti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
  
 
 
@@ -1173,3 +1182,8 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2472, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18827
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 13, 15, 19, 20, 27 ir 28 straipsnių pakeitimo įstatymas
