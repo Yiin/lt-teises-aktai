@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2017-05-07 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -32,20 +32,22 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo lėšų šaltinius ir panaudojimo tvarką.
+1. Šis įstatymas nustato kelių naudojimo apmokestinimo ir Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo tvarką.
 
 
 
 
-2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo 5 priede. 
+2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo 5 priede. 
 
 
 
 
-3. Šio įstatymo tikslas – kaupti ir naudoti lėšas automobilių kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų.
+3. Šio įstatymo tikslas – kaupti ir naudoti lėšas automobilių kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
  
-
-
 
 
 
@@ -135,7 +137,11 @@ Programos finansavimo šaltiniai yra:
 4 straipsnis. Dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir dalis akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams
 
 
-1. Programai finansuoti skiriama 65 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai.
+1. Programai finansuoti skiriama 48 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai. 
+TAR pastaba. 1 dalies nuostatos taikomos rengiant 2018 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
+ 
 
 
 
@@ -366,14 +372,6 @@ Nr. XII-2315, 2016-04-14, paskelbta TAR 2016-04-18, i. k. 2016-09858
 
 
 
-8) darbo reikalais vykstančių miškų urėdijos, kuriai perduotas valdyti Kuršių nerijoje esantis valstybinės miško žemės sklypas, darbuotojų ir jos transporto priemonių.
-Papildyta straipsnio punktu:
-Nr. XII-2571, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20663
- 
-
-
-
-
 
 
 6. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
@@ -407,12 +405,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                   VALDAS ADAMKUS
  
+ 
 
 
 
 
 
 
+ 
+ 
+ 
 Lietuvos Respublikos 
 kelių priežiūros ir 
 plėtros programos 
@@ -1319,3 +1321,13 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2571, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20663
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 1 ir 4 straipsnių pakeitimo įstatymas
