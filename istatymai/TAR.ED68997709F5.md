@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-09-27 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -5213,7 +5213,10 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 
-3) PVM, apskaičiuotą už šio Įstatymo 7 straipsnio 4 punkte numatytus statybos darbus, kaip jie apibrėžti Lietuvos Respublikos statybos įstatymo 2 straipsnio 15 dalyje, t. y. apmokestinamasis asmuo PVM mokėtojas, kurio užsakymu atliekami statybos darbai; 
+3) PVM, apskaičiuotą už šio Įstatymo 7 straipsnio 4 punkte numatytus statybos darbus, kaip jie apibrėžti Lietuvos Respublikos statybos įstatymo 2 straipsnio 90 dalyje, t. y. apmokestinamasis asmuo PVM mokėtojas, kurio užsakymu atliekami statybos darbai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
+ 
 
 
 
@@ -6717,6 +6720,7 @@ SEIMO PIRMININKAS                               �
 
 
 
+ 
 Lietuvos Respublikos 
 2002 m. kovo 5 d.
 įstatymo Nr. IX-751 
@@ -6768,6 +6772,7 @@ Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
 
 
 
+ 
 Lietuvos Respublikos 
 pridėtinės vertės mokesčio
 įstatymo
@@ -6871,6 +6876,7 @@ Priedo pakeitimai:
 Nr. X-1322, 2007-11-13, Žin., 2007, Nr. 125-5091 (2007-12-01)
 Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+ 
  
 
 
@@ -7187,3 +7193,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-638, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15114
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 ir 96 straipsnių pakeitimo įstatymas
