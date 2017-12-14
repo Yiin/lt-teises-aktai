@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ec5efc201b3611e586708c6593c243ce"
 
 # Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 3 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2017-12-14
+ 
+Įstatymas paskelbtas: TAR 2015-06-25, i. k. 2015-10146
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO NR. VIII-1904 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -43,18 +50,15 @@ Papildyti 3 straipsnį 7 dalimi:
 
 
 
-2 straipsnis. Bendrosios nuostatos
+2 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šis įstatymas įsigalioja 2015 m. liepos 1 d. ir galioja iki 2017 m. gruodžio 31 d.
+Šis įstatymas įsigalioja 2015 m. liepos 1 d. 
 
 
-
-
-2. Nuo 2018 m. sausio 1 d. apskaičiuojant darbo užmokestį valstybės pareigūnams, nurodytiems šio įstatymo priedėlio IV skirsnyje, taikomi iki šio įstatymo įsigaliojimo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos.
+Straipsnio pakeitimai:
+Nr. XIII-819, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20023
  
-
-
 
 
 
@@ -64,3 +68,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-819, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20023
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 3 straipsnio pakeitimo įstatymo Nr. XII-1807 2 straipsnio pakeitimo įstatymas
