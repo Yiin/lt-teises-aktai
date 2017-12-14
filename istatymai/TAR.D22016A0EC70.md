@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2017-12-13
+Suvestinė redakcija nuo 2017-12-14 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -3314,7 +3314,28 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 
 
-4. Žuvininkystės srities priemonėms ir programoms vykdyti ir kontrolei stiprinti Žemės ūkio ministerija naudoja tikslinės paskirties pajamas, kurias sudaro:
+4. Neteko galios nuo 2017-12-14
+Straipsnio dalies naikinimas:
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
+ 
+
+
+
+
+5. Neteko galios nuo 2017-12-14
+Straipsnio dalies naikinimas:
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
+ 
+
+
+
+
+
+
+311 straipsnis. Lietuvos Respublikos valstybės biudžeto pajamos iš žuvininkystės sektoriaus
+
+
+Į Lietuvos Respublikos valstybės biudžetą pervedamos: 
 
 
 1) lėšos, nustatyta tvarka išieškotos už žuvų ištekliams padarytą žalą, pažeidus verslinę žvejybą jūrų vandenyse reglamentuojančius įstatymus ar kitus teisės aktus, taip pat konfiskuotos pajamos, kurios buvo gautos padarius sunkų pažeidimą, ir pajamos už konfiskuotus realizuotus žvejybos produktus ir žvejybos įrankius;
@@ -3337,67 +3358,20 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 
 
-5) savanoriškos asmenų įmokos;
+5) lėšos už aukciono būdu paskirstytas individualias žvejybos galimybes;
 
 
 
 
-6) lėšos už aukciono būdu paskirstytas individualias žvejybos galimybes; 
-Papildyta straipsnio punktu:
-Nr. XII-1523, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21157
+6) lėšos žuvų ištekliams atkurti ir saugoti, jeigu vykdoma verslinė žvejyba vidaus vandenyse. 
+TAR pastaba. 311 straipsnio nuostatos taikomas rengiant 2018 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
  
-
-
-
-
-7) lėšos žuvų ištekliams atkurti ir saugoti; 
-Papildyta straipsnio punktu:
-Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
- 
-
-
-
-
-8) kitos teisėtai gautos lėšos.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1523, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21157
-Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
- 
-
-
-
-
-
-
-5. Šio straipsnio 4 dalyje numatytos tikslinės paskirties pajamų lėšos naudojamos:
-
-
-1) priemonėms, kuriomis kompensuojama žuvininkystei padaryta žala, su žuvininkyste susijusiems objektams projektuoti, statyti, rekonstruoti, remontuoti, žuvų ištekliams atkurti, gausinti ir išsaugoti;
-
-
-
-
-2) žuvų išteklių naudojimo ir jų gausinimo programoms, žuvininkystės srities įstatymų ir kitų teisės aktų projektams rengti;
-
-
-
-
-3) mokslo darbams, susijusiems su žuvininkystės sritimi, žuvų išteklių stebėsenai ir poveikiui žuvų ištekliams įvertinti;
-
-
-
-
-4) žuvininkystės kontrolę atliekančioms valstybės įstaigoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis, reikalingais kontrolei atlikti, taip pat žuvininkystės duomenų valstybės informacinėms sistemoms kurti, tvarkyti ir prižiūrėti;
-
-
-
-
-5) švietimui, mokymui žuvininkystės kontrolės srityje, specialistų kvalifikacijai tobulinti, leidybai, informacijai apie žuvininkystės kontrolę skleisti, renginiams ir konkursams organizuoti, žvejybos tradicijoms puoselėti, tarptautinių projektų ir sutarčių žuvininkystės kontrolės srityje įgyvendinimo išlaidoms apmokėti.
- 
-
-
-
-
 
 
 
@@ -4922,6 +4896,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos
 žuvininkystės įstatymo
 priedas
@@ -5069,3 +5044,8 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 10, 11, 13, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-765, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18818
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 12 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 31 straipsnio pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
