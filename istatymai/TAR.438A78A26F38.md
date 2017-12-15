@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2017-12-14
+Suvestinė redakcija nuo 2017-12-15 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -677,6 +677,10 @@ RESPUBLIKOS PREZIDENTO MATERIALINĖS IR SOCIALINĖS GARANTIJOS NUTRŪKUS RESPUBL
 
 
 4. Jeigu Respublikos Prezidentas eidamas pareigas ar pasibaigus kadencijai miršta, jo sutuoktiniui, jei šis pageidauja, panaudos pagrindais suteikiamas būstas (gyvenamosios patalpos) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Prezidento įstatymo (Žin., 2008, Nr. 135-5234) 23 straipsnio 4 dalis prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 2 daliai, 90 straipsniui, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT19-N9/2017, 2017-12-15, paskelbta TAR 2017-12-15, i. k. 2017-20254
+ 
 
 
 
@@ -779,3 +783,8 @@ Lietuvos Respublikos Prezidento įstatymo, Valstybinių pensijų įstatymo, Vida
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1798, 2008-11-11, Žin., 2008, Nr. 135-5234 (2008-11-25), i. k. 1081010ISTA00X-1798
 Lietuvos Respublikos Prezidento įstatymo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT19-N9/2017, 2017-12-15, paskelbta TAR 2017-12-15, i. k. 2017-20254
+Dėl Lietuvos Respublikos Prezidento įstatymo 23 straipsnio 4 dalies atitikties Lietuvos Respublikos Konstitucijai
