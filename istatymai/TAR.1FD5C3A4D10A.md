@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-18
+Suvestinė redakcija nuo 2017-12-19 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -257,7 +257,10 @@ Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
 
 
 
-20) konsultuoja darbuotojus, darbuotojų atstovus, darbdaviams atstovaujančius asmenis, darbdavių įgaliotus asmenis, darbuotojų saugos ir sveikatos reikalavimų, darbo įstatymų vykdymo, kolektyvinių sutarčių sudarymo ir kitais klausimais; 
+20) konsultuoja darbuotojus, darbuotojų atstovus, darbdaviams atstovaujančius asmenis, darbdavių įgaliotus asmenis darbuotojų saugos ir sveikatos reikalavimų, darbo įstatymų vykdymo, kolektyvinių sutarčių sudarymo, profesinių sąjungų steigimo ir kitais klausimais;
+Straipsnio punkto pakeitimai:
+Nr. XIII-855, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20337
+ 
 
 
 
@@ -1049,7 +1052,8 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
+ 
+RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
  
 
 
@@ -1164,3 +1168,8 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 8, 9 straipsnių, ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2606 2 ir 8 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-855, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20337
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6 straipsnio pakeitimo įstatymas
