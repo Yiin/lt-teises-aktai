@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2017-11-17 iki 2017-12-19
+Suvestinė redakcija nuo 2017-12-20 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -467,7 +467,10 @@ ADMINISTRACINIŲ TEISMŲ KOMPETENCIJA
 
 
 
-5) tarnybinių ginčų, kai viena ginčo šalis yra valstybės tarnautojas ar pareigūnas;
+5) tarnybinių ginčų, kai viena ginčo šalis yra valstybės tarnautojas ar pareigūnas, taip pat ginčų, kylančių dėl materialinės atsakomybės ir regreso (atgręžtinio reikalavimo) teisės įgyvendinimo pagal Lietuvos Respublikos valstybės tarnybos įstatymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
+ 
 
 
 
@@ -593,7 +596,10 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-5) dėl tarnybinių ginčų, kai viena ginčo šalis yra valstybės tarnautojas ar pareigūnas, jeigu Lietuvos Respublikos valstybės tarnybos įstatymas nenustato kitokios tokių ginčų sprendimo tvarkos;
+5) dėl tarnybinių ginčų, kai viena ginčo šalis yra valstybės tarnautojas ar pareigūnas, taip pat ginčų, kylančių dėl materialinės atsakomybės ir regreso (atgręžtinio reikalavimo) teisės įgyvendinimo pagal Valstybės tarnybos įstatymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
+ 
 
 
 
@@ -1029,7 +1035,10 @@ PAGRINDINĖS SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ) PADAVIMO ADMINISTRACINIAM TEISMUI
 
 
 
-2. Bylose dėl žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo, bylose dėl pensijų skyrimo ar atsisakymo jas skirti, taip pat bylose dėl neįgaliųjų teisių gynimo, pareiškėjo pasirinkimu skundas (prašymas) administraciniam teismui gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal pareiškėjo gyvenamąją (buveinės) vietą. Tarnybiniuose ginčuose pareiškėjo pasirinkimu skundas (prašymas) gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal vietą, kurioje tarnyba yra atliekama, buvo atliekama ar turėjo būti atliekama.
+2. Bylose dėl žalos, atsiradusios dėl viešojo administravimo subjektų neteisėtų veiksmų, atlyginimo, bylose dėl pensijų skyrimo ar atsisakymo jas skirti, taip pat bylose dėl neįgaliųjų teisių gynimo, pareiškėjo pasirinkimu skundas (prašymas) administraciniam teismui gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal pareiškėjo gyvenamąją (buveinės) vietą. Tarnybiniuose ginčuose, taip pat ginčuose, kylančiuose dėl materialinės atsakomybės ir regreso (atgręžtinio reikalavimo) teisės įgyvendinimo pagal Valstybės tarnybos įstatymą, pareiškėjo pasirinkimu skundas (prašymas) gali būti paduodamas pagal šio straipsnio 1 dalyje nustatytas taisykles arba pagal vietą, kurioje tarnyba yra atliekama, buvo atliekama ar turėjo būti atliekama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
+ 
 
 
 
