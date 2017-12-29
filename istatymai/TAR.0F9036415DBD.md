@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-12-14 iki 2017-12-28
+Suvestinė redakcija nuo 2017-12-29 iki 2017-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -1588,7 +1588,10 @@ Fondo taryba:
 
 
 
-14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo išmokų gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų ir sprendimų;
+14) nagrinėja apdraustųjų asmenų, draudėjų, socialinio draudimo ir kitų išmokų, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms, gavėjų, asmens sveikatos priežiūros įstaigų, kitų suinteresuotų asmenų skundus dėl Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų veiksmų ir sprendimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
+ 
 
 
 
@@ -2137,7 +2140,10 @@ FONDO ADMINISTRAVIMO ĮSTAIGŲ TEISĖS, SPRENDIMŲ IR VEIKSMŲ APSKUNDIMAS
 
 
 
-2. Skundai Fondo valdybai dėl Fondo valdybos teritorinių skyrių sprendimų ir veiksmų (neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundai dėl sprendimų pensijų, rentų ir kompensacinių išmokų teatrų ir koncertinių įstaigų kūrybiniams darbuotojams skyrimo ir (ar) mokėjimo klausimais nagrinėjami, jeigu jie pateikti per 6 mėnesius nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas. Skundų nagrinėjimo tvarką Fondo valdyboje nustato Fondo valdybos direktorius.
+2. Skundai Fondo valdybai dėl Fondo valdybos teritorinių skyrių sprendimų ir veiksmų (neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundai dėl sprendimų pensijų, rentų ir pagal Lietuvos Respublikos profesionaliojo scenos meno įstatymą mokamų kompensacinių išmokų kūrybiniams darbuotojams skyrimo ir (ar) mokėjimo klausimais nagrinėjami, jeigu jie pateikti per 6 mėnesius nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas. Skundų nagrinėjimo tvarką Fondo valdyboje nustato Fondo valdybos direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
+ 
 
 
 
@@ -2784,3 +2790,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 10 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 ir 40 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-824, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20048
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 32 ir 41 straipsnių pakeitimo įstatymas
