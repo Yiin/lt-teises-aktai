@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -3463,9 +3463,10 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-18. Kiekvienais metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo auditoriaus išvada ir audito ataskaita. Šias ataskaitas svarsto Seimo Audito komitetas ir Kultūros komitetas. Jeigu komitetai nepritaria Komisijos veiklos ataskaitai ar finansinių ataskaitų rinkiniui, jie svarstomi Seimo posėdyje ne vėliau kaip per 30 dienų nuo komitetų pateiktos neigiamos išvados. Jeigu Seimo posėdyje Komisijos veiklos ataskaita ar finansinių ataskaitų rinkinys nepatvirtinami, Seimas kreipiasi į Komisijos narius skyrusias institucijas ar organizacijas, kad jos priimtų sprendimus dėl savo paskirtų Komisijos narių veiklos tęstinumo. Jeigu daugiau kaip pusė Komisijos narių nėra patvirtinami toliau tęsti veiklą Komisijoje, Komisijos narius skyrusios institucijos ar organizacijos privalo paskirti kitus Komisijos narius ir pradedama skaičiuoti nauja Komisijos kadencija. 
+18. Kiekvienais metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo auditoriaus išvada ir audito ataskaita. Šias ataskaitas išklauso Seimo Kultūros komitetas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+Nr. XIII-966, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21724
  
 
 
@@ -4679,3 +4680,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47, 48 ir 50 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 34 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-966, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21724
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio pakeitimo įstatymas
