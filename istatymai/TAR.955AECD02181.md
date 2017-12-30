@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/955aecd0218111e5b336e9064144f02a"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo Nr. IX-1539 1 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2017-12-30
+ 
+Įstatymas paskelbtas: TAR 2015-07-03, i. k. 2015-10827
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VIDAUS TARNYBOS STATUTO PATVIRTINIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO Nr. IX-1539 1 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -60,7 +67,10 @@ Vilnius
 2 straipsnis. Įstatymo įgyvendinimas
 
 
-1. Mykolo Romerio universiteto Viešojo saugumo fakulteto darbuotojai netenka statutinio valstybės tarnautojo statuso, kai pasibaigia jų terminuotos darbo sutartys, bet ne vėliau kaip 2018 m. kovo 1 d.
+1. Mykolo Romerio universiteto Viešojo saugumo fakulteto darbuotojai netenka statutinio valstybės tarnautojo statuso, kai pasibaigia jų terminuotos darbo sutartys, bet ne vėliau kaip 2020 m. birželio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-963, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21717
+ 
 
 
 
@@ -94,3 +104,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-963, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21717
+Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymo Nr. IX-1539 1 straipsnio pakeitimo įstatymo Nr. XII-1912 2 straipsnio pakeitimo įstatymas
