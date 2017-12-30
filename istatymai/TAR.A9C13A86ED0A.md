@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-07-08 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
  
@@ -100,7 +100,10 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 
 
 
-6. Kiti karinio bendradarbiavimo renginiai (toliau – kiti renginiai) – tarptautinei operacijai ir pratyboms nepriskiriami karinio bendradarbiavimo su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis renginiai.
+6. Kiti karinio bendradarbiavimo renginiai (toliau – kiti renginiai) – prie tarptautinių operacijų ir tarptautinių pratybų nepriskiriami Lietuvos Respublikos karinės ar gynybos institucijos bendradarbiavimo su tarptautinėmis organizacijomis ar institucijomis, kitų valstybių karinėmis, gynybos ar kitomis institucijomis, įmonėmis, įstaigomis ir organizacijomis renginiai ir kitų valstybių karinių ar gynybos institucijų bendradarbiavimo su Lietuvos Respublikos karinėmis, gynybos ar kitomis institucijomis, įmonėmis, įstaigomis ir organizacijomis renginiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-924, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21596
+ 
 
 
 
@@ -615,8 +618,8 @@ Jeigu Lietuvos Respublikos tarptautinės sutartys dėl karinių pajėgų statuso
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
  
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
  
  
 
@@ -703,3 +706,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 4, 8 ir 9 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-924, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21596
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 2 straipsnio pakeitimo įstatymas
