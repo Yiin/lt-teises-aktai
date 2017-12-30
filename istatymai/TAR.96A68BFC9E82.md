@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2018-03-04
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -1374,6 +1374,24 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 
 
+301 straipsnis. Vyriausybės įsteigtos kitos biudžetinės įstaigos
+
+
+1. Vyriausybė gali steigti biudžetines įstaigas, kurios centralizuotai atlieka dalį viešojo sektoriaus subjektų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo ir kitų pagalbinio pobūdžio funkcijų), kurios padeda įgyvendinti įstaigai teisės aktuose nustatytus uždavinius. Šių funkcijų apimtį nustato Vyriausybė. 
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų biudžetinių įstaigų nuostatus tvirtina Vyriausybė, o jų struktūrą – Vyriausybė arba jos pavedimu atitinkamos biudžetinės įstaigos vadovas.
+
+
+Papildyta straipsniu:
+Nr. XIII-934, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21609
+ 
+
+
+
+
 31 straipsnis. Ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai ir visuomeniniai konsultantai
 
 
@@ -2348,3 +2366,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1862, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10824
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-934, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21609
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-1 straipsniu įstatymas
