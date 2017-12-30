@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-29
+Suvestinė redakcija nuo 2017-12-30 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
  
@@ -631,7 +631,10 @@ Nr. XII-805, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04326
 
 2. Komisija sudaroma iš 5 narių: Ūkio ministerijos, Finansų ministerijos ar jos įgaliotos institucijos, Socialinės apsaugos ir darbo ministerijos ir dviejų šio įstatymo 11 straipsnio 12 dalyje nurodytos Vyriausybės įgaliotos institucijos atstovų. Visi Komisijos nariai privalo turėti aukštąjį universitetinį arba jam prilygintą išsilavinimą ir ne mažiau kaip 3 Komisijos nariai privalo turėti socialinių mokslų studijų srities teisės ar ekonomikos studijų krypties išsilavinimą (teisės ar ekonomikos bakalauro ir teisės ar ekonomikos magistro kvalifikacinį laipsnį) ar teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą).
 
-3. Komisijos personalinę sudėtį tvirtina ūkio ministras. Komisija sudaroma penkeriems metams. Komisija sudaroma ir veikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3. Komisijos personalinę sudėtį ir veiklos nuostatus tvirtina finansų ministras. Komisija sudaroma penkeriems metams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-959, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21691
+ 
 
 4. Komisija turi teisę gauti iš valstybės ir savivaldybių institucijų dokumentus ir kitą informaciją, susijusią su savo funkcijų įgyvendinimu.
 
@@ -1504,9 +1507,11 @@ Nr. XI-1867, 2011-12-22, Žin., 2012, Nr. 4-112 (2012-01-06)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
 
+ 
 Lietuvos Respublikos 
 įmonių bankroto įstatymo
 priedas
@@ -1518,9 +1523,11 @@ priedas
 
 Įstatymas papildytas priedu:
 Nr. X-1557, 2008-05-22, Žin., 2008, Nr. 65-2456 (2008-06-07)
- 
- 
 
+ 
+ 
+ 
+ 
 Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1711,4 +1718,14 @@ Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 19 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-134, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29838
 Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 19 straipsnio pakeitimo įstatymo Nr. XII-2463 2 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-774, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18828
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 32 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-959, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21691
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 11-4, 13, 19 ir 32 straipsnių pakeitimo įstatymas
 
