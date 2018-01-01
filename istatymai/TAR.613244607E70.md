@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
  
@@ -469,7 +469,9 @@ PAPILDOMOS FINANSINĖS GARANTIJOS ILGALAIKIO DARBO ATVEJU
 
 
 
-2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo vieno mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro (toliau – Registras) duomenimis pagal tam darbuotojui už praėjusių dvylika mėnesių, buvusių prieš darbuotojo atleidimo mėnesį, priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, vidurkį. 
+2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro (toliau – Registras) duomenimis pagal tam darbuotojui priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, vidurkį. Šis vidurkis apskaičiuojamas pagal paskutinių dvylikos mėnesių darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-830, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20027
  
 
 
@@ -1012,3 +1014,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 5, 6, 8, 14, 17, 18, 19, 20, 22 ir 24 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-830, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20027
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 10 straipsnio pakeitimo įstatymas
