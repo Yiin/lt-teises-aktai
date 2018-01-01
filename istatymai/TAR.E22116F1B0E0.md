@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2017-11-29 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -801,27 +801,50 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-5. Bendrovė, turėdama santykių su trečiaisiais asmenimis, gali remtis juridinių asmenų registro duomenimis, informacija ir dokumentais tiktai po to, kai jie buvo viešai paskelbti juridinių asmenų registro nuostatų nustatyta tvarka, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys žinojo apie juos. Tačiau vykdant sandorius, sudarytus anksčiau nei šešioliktą dieną po viešo paskelbimo, remtis juridinių asmenų registro duomenimis, informacija ir dokumentais bendrovė negali, jeigu tretieji asmenys įrodo, kad apie juos negalėjo žinoti. 
+5. Uždarosios akcinės bendrovės vadovas šio straipsnio 1 dalies 4 punkte nurodytus duomenis apie uždarosios akcinės bendrovės akcininką, visų akcijų įgijimo ir visų ar dalies akcijų perleidimo datas, kai uždarosios akcinės bendrovės akcininkas yra vienas asmuo, teikia Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šio Įstatymo 411 straipsnio 2 dalyje nustatyta tvarka. Teikiant Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šiuos duomenis, kartu Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka pateikiamas prašymas šiuos duomenis įregistruoti juridinių asmenų registre. Juridinių asmenų dalyvių informacinės sistemos tvarkytojas šiuos duomenis perduoda juridinių asmenų registro tvarkytojui per vieną darbo dieną nuo duomenų ir dokumentų pateikimo Juridinių asmenų dalyvių informacinės sistemos tvarkytojui dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-6. Tretieji asmenys gali remtis bendrovės duomenimis, informacija ir dokumentais, dėl kurių sprendimai yra priimti, bet kurių pateikimo juridinių asmenų registro tvarkytojui ar įregistravimo juridinių asmenų registre formalumai dar nėra baigti. Tačiau pakeistais bendrovės įstatais tretieji asmenys gali remtis tik nuo jų įregistravimo juridinių asmenų registre.
+6. Bendrovė, turėdama santykių su trečiaisiais asmenimis, gali remtis juridinių asmenų registro duomenimis, informacija ir dokumentais tiktai po to, kai jie buvo viešai paskelbti juridinių asmenų registro nuostatų nustatyta tvarka, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys žinojo apie juos. Tačiau vykdant sandorius, sudarytus anksčiau nei šešioliktą dieną po viešo paskelbimo, remtis juridinių asmenų registro duomenimis, informacija ir dokumentais bendrovė negali, jeigu tretieji asmenys įrodo, kad apie juos negalėjo žinoti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-7. Po to, kai juridinių asmenų registro tvarkytojas paskelbia duomenis apie asmenis, turinčius teisę veikti bendrovės vardu, bendrovė, turėdama santykių su trečiaisiais asmenimis, negali remtis asmenų, turinčių teisę veikti bendrovės vardu, išrinkimo procedūrų pažeidimu, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys apie tai žinojo.
+7. Tretieji asmenys gali remtis bendrovės duomenimis, informacija ir dokumentais, dėl kurių sprendimai yra priimti, bet kurių pateikimo juridinių asmenų registro tvarkytojui ar įregistravimo juridinių asmenų registre formalumai dar nėra baigti. Tačiau pakeistais bendrovės įstatais tretieji asmenys gali remtis tik nuo jų įregistravimo juridinių asmenų registre.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-8. Jeigu juridinių asmenų registro tvarkytojo paskelbti bendrovės duomenys ir informacija, taip pat bendrovės dokumentai ar nuorodos į dokumentus neatitinka juridinių asmenų registrui pateiktų dokumentų, bendrovė, turėdama santykių su trečiaisiais asmenimis, negali remtis paskelbtu tekstu, tačiau tretieji asmenys gali remtis paskelbtu tekstu, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys yra susipažinę su juridinių asmenų registrui pateiktais dokumentais.
+8. Po to, kai juridinių asmenų registro tvarkytojas paskelbia duomenis apie asmenis, turinčius teisę veikti bendrovės vardu, bendrovė, turėdama santykių su trečiaisiais asmenimis, negali remtis asmenų, turinčių teisę veikti bendrovės vardu, išrinkimo procedūrų pažeidimu, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys apie tai žinojo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-9. Bendrovė juridinių asmenų registro tvarkytojui gali savanoriškai teikti bendrovės įstatų ir kitų įstatymų numatytų dokumentų, taip pat juridinių asmenų registro duomenų vertimus į vieną ar kelias oficialias Europos Sąjungos valstybių narių kalbas. Pateikti vertimai turi būti viešai skelbiami juridinių asmenų registro nuostatų nustatyta tvarka. Jeigu juridinių asmenų registro tvarkytojui pateikti bendrovės duomenys ir dokumentai neatitinka jų vertimų, turėdama santykių su trečiaisiais asmenimis, bendrovė negali remtis šiais vertimais, tačiau tretieji asmenys gali jais remtis, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys yra susipažinę su juridinių asmenų registrui pateiktais bendrovės duomenimis ir dokumentais, kurių vertimais jie remiasi.
+9. Jeigu juridinių asmenų registro tvarkytojo paskelbti bendrovės duomenys ir informacija, taip pat bendrovės dokumentai ar nuorodos į dokumentus neatitinka juridinių asmenų registrui pateiktų dokumentų, bendrovė, turėdama santykių su trečiaisiais asmenimis, negali remtis paskelbtu tekstu, tačiau tretieji asmenys gali remtis paskelbtu tekstu, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys yra susipažinę su juridinių asmenų registrui pateiktais dokumentais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+10. Bendrovė juridinių asmenų registro tvarkytojui gali savanoriškai teikti bendrovės įstatų ir kitų įstatymų numatytų dokumentų, taip pat juridinių asmenų registro duomenų vertimus į vieną ar kelias oficialias Europos Sąjungos valstybių narių kalbas. Pateikti vertimai turi būti viešai skelbiami juridinių asmenų registro nuostatų nustatyta tvarka. Jeigu juridinių asmenų registro tvarkytojui pateikti bendrovės duomenys ir dokumentai neatitinka jų vertimų, turėdama santykių su trečiaisiais asmenimis, bendrovė negali remtis šiais vertimais, tačiau tretieji asmenys gali jais remtis, išskyrus atvejus, kai bendrovė įrodo, kad tretieji asmenys yra susipažinę su juridinių asmenų registrui pateiktais bendrovės duomenimis ir dokumentais, kurių vertimais jie remiasi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 Straipsnio pakeitimai:
@@ -939,7 +962,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-3) nemokamai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėšų, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytas išimtis;
+3) neatlygintinai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėšų, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą išimtį, ir šio Įstatymo 471 straipsnyje nustatytu atveju;
+Straipsnio punkto pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -1234,82 +1260,146 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-8) priimti sprendimą keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas; 
+8) priimti sprendimą keisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-9) tvirtinti metinių finansinių ataskaitų rinkinį;
+9) priimti sprendimą keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-10) priimti sprendimą dėl pelno (nuostolių) paskirstymo;
+10) tvirtinti metinių finansinių ataskaitų rinkinį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-11) priimti sprendimą dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo;
+11) priimti sprendimą dėl pelno (nuostolių) paskirstymo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-12) tvirtinti tarpinių finansinių ataskaitų rinkinį, sudarytą siekiant priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+12) priimti sprendimą dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-13) priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+13) tvirtinti tarpinių finansinių ataskaitų rinkinį, sudarytą siekiant priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-14) priimti sprendimą išleisti konvertuojamąsias obligacijas;
+14) priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-15) priimti sprendimą atšaukti visiems akcininkams pirmumo teisę įsigyti konkrečios emisijos bendrovės akcijų ar konvertuojamųjų obligacijų;
+15) priimti sprendimą išleisti konvertuojamąsias obligacijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-16) priimti sprendimą padidinti įstatinį kapitalą;
+16) priimti sprendimą atšaukti visiems akcininkams pirmumo teisę įsigyti konkrečios emisijos bendrovės akcijų ar konvertuojamųjų obligacijų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-17) priimti sprendimą sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis;
+17) priimti sprendimą padidinti įstatinį kapitalą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-18) priimti sprendimą bendrovei įsigyti savų akcijų;
+18) priimti sprendimą sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-19) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis;
+19) priimti sprendimą bendrovei įsigyti savų akcijų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-20) priimti sprendimą pertvarkyti bendrovę;
+20) priimti sprendimą dėl Akcijų suteikimo darbuotojams ir (ar) organų nariams taisyklių (toliau – Akcijų suteikimo taisyklės) patvirtinimo; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-21) priimti sprendimus dėl bendrovės restruktūrizavimo Įmonių restruktūrizavimo įstatymo nustatytais atvejais;
+21) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-22) priimti sprendimą likviduoti bendrovę, atšaukti bendrovės likvidavimą, išskyrus šiame Įstatyme nustatytas išimtis; 
+22) priimti sprendimą pertvarkyti bendrovę;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-23) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.
+23) priimti sprendimus dėl bendrovės restruktūrizavimo Įmonių restruktūrizavimo įstatymo nustatytais atvejais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+24) priimti sprendimą likviduoti bendrovę, atšaukti bendrovės likvidavimą, išskyrus šiame Įstatyme nustatytas išimtis; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+25) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -1966,57 +2056,106 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-4) keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas;
+4) keisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-5) dėl pelno (nuostolių) paskirstymo;
+5) keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-6) dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo;
+6) dėl pelno (nuostolių) paskirstymo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-7) dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+7) dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-8) išleisti konvertuojamąsias obligacijas;
+8) dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-9) padidinti įstatinį kapitalą;
+9) išleisti konvertuojamąsias obligacijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-10) sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis;
+10) padidinti įstatinį kapitalą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-11) dėl bendrovės reorganizavimo ar atskyrimo ir reorganizavimo ar atskyrimo sąlygų patvirtinimo;
+11) sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-12) dėl bendrovės pertvarkymo;
+12) patvirtinti Akcijų suteikimo taisykles; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-13) dėl bendrovės restruktūrizavimo;
+13) dėl bendrovės reorganizavimo ar atskyrimo ir reorganizavimo ar atskyrimo sąlygų patvirtinimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-14) dėl bendrovės likvidavimo ir likvidavimo atšaukimo, išskyrus šiame Įstatyme nustatytas išimtis. 
+14) dėl bendrovės pertvarkymo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+15) dėl bendrovės restruktūrizavimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+16) dėl bendrovės likvidavimo ir likvidavimo atšaukimo, išskyrus šiame Įstatyme nustatytas išimtis. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -2332,33 +2471,12 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 4) prižiūri valdybos ir bendrovės vadovo veiklą;
-5-8 punktų redakcija iki 2017-12-31:
+TAR pastaba. 1 dalis papildoma nauju 5 punktu, buvę 5 ir 6 punktai atitinkamai laikomi 6 ir 7 punktais, nuo 2018-01-01 (buvę 7 ir 8 punktai nepernumeruoti):
 
 
 
 
-5) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno (nuostolių) paskirstymo projekto ir bendrovės metinio pranešimo, taip pat valdybos ir bendrovės vadovo veiklos;
-
-
-
-
-6) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti sudaryto tarpinių finansinių ataskaitų rinkinio ir parengto tarpinio pranešimo;
-
-
-
-
-7) teikia siūlymus valdybai ir bendrovės vadovui atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams ar visuotinio akcininkų susirinkimo sprendimams;
-
-
-
-
-8) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus. 
-1 dalis papildoma nauju 5 punktu, buvę 5 ir 6 punktai atitinkamai laikomi 6 ir 7 punktais nuo 2018-01-01:
-
-
-
-
-5) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl Akcijų suteikimo taisyklių projekto
+5) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl Akcijų suteikimo taisyklių projekto;
 
 
 
@@ -3029,12 +3147,18 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-13. Uždarosios akcinės bendrovės vadovas atsako už akcininkų nematerialių akcijų savininkų asmeninių vertybinių popierių sąskaitų tvarkymą ir materialių akcijų savininkų registravimą bendrovėje, išskyrus atvejus, kai nematerialių akcijų apskaita yra perduota sąskaitų tvarkytojams.
+13. Uždarosios akcinės bendrovės vadovas atsako už akcininkų nematerialių akcijų savininkų asmeninių vertybinių popierių sąskaitų tvarkymą ir materialių akcijų savininkų registravimą bendrovėje, išskyrus atvejus, kai nematerialių akcijų apskaita yra perduota sąskaitų tvarkytojams juridiniams asmenims, kurie, vadovaujantis Lietuvos Respublikos finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-14. Kai visas bendrovės akcijas įsigyja vienas asmuo arba bendrovės visų akcijų savininkas perleidžia visas ar dalį bendrovės akcijų kitiems asmenims, bendrovės vadovas apie tai ne vėliau kaip per 5 dienas nuo šio Įstatymo 14 straipsnio 4 dalyje nurodyto pranešimo gavimo dienos turi pranešti juridinių asmenų registro tvarkytojui. 
+14. Kai visas akcinės bendrovės akcijas įgyja vienas asmuo arba bendrovės visų akcijų savininkas perleidžia visas ar dalį bendrovės akcijų kitiems asmenims, asmuo įgyja dalį akcinės bendrovės akcijų iš šios akcinės bendrovės visų akcijų savininko, akcinės bendrovės vadovas apie tai ne vėliau kaip per 5 dienas nuo šio Įstatymo 14 straipsnio 4 dalyje nurodyto pranešimo gavimo dienos turi pranešti juridinių asmenų registro tvarkytojui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3050,6 +3174,29 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 Nr. XI-1689, 2011-11-17, Žin., 2011, Nr. 146-6835 (2011-12-01)
 Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641 
+ 
+
+
+
+
+371 straipsnis. Bendrovės, kurios akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, priklauso valstybei ar savivaldybei nuosavybės teise, ir jos dukterinės įmonės vadovo priėmimo į darbą ypatumai 
+
+
+1. Bendrovės, taip pat jos dukterinės bendrovės (toliau – grupė) vadovas priimamas į darbą 5 metų kadencijai. Tas pats asmuo tos pačios grupės vadovu gali būti renkamas ne daugiau kaip dvi kadencijas iš eilės. 
+
+
+
+
+2. Pasibaigus pirmajai kadencijai, grupės vadovas gali būti renkamas antrajai 5 metų kadencijai, atsižvelgiant į tai, ar grupės vadovo pirmosios kadencijos laikotarpiu grupė pasiekė visus jai nustatytus veiklos tikslus. Grupės pasiektų veiklos tikslų atitiktis jai nustatytiems veiklos tikslams vertinama Vyriausybės ar savivaldybės tarybos nustatyta tvarka. Pasibaigus antrajai kadencijai, grupės vadovas yra atšaukiamas iš pareigų.
+
+
+
+
+3. Jeigu grupės vadovas buvo išrinktas grupės valdybos nariu, atšaukus jį iš pareigų, jis atšaukiamas ir iš grupės valdybos narių. 
+
+
+Papildyta straipsniu:
+Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
  
 
 
@@ -3206,12 +3353,26 @@ BENDROVĖS KAPITALAS
 
 
 
-6) kiti rezervai;
+6) rezervas akcijoms suteikti; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-7) nepaskirstytasis rezultatas − pelnas (nuostoliai).
+7) kiti rezervai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+8) nepaskirstytasis rezultatas − pelnas (nuostoliai).
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3223,12 +3384,18 @@ BENDROVĖS KAPITALAS
 
 
 
-3. Jeigu bendrovės nuosavas kapitalas tapo mažesnis kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio, valdyba (jeigu valdyba nesudaroma, − bendrovės vadovas) ne vėliau kaip per 3 mėnesius nuo dienos, kurią sužinojo ar turėjo sužinoti apie susidariusią padėtį, privalo sušaukti visuotinį akcininkų susirinkimą, kuris turi svarstyti klausimus dėl sprendimų, nurodytų šio Įstatymo 59 straipsnio 10 dalies 2 punkte ir 11 dalyje. Bendrovėje susidariusi padėtis turi būti ištaisyta ne vėliau kaip per 6 mėnesius nuo dienos, kurią valdyba sužinojo ar turėjo sužinoti apie susidariusią padėtį.
+3. Jeigu bendrovės nuosavas kapitalas tapo mažesnis kaip 1/2 įstatuose nurodyto įstatinio kapitalo dydžio, valdyba (jeigu valdyba nesudaroma, – bendrovės vadovas) ne vėliau kaip per 3 mėnesius nuo dienos, kurią sužinojo ar turėjo sužinoti apie susidariusią padėtį, privalo sušaukti visuotinį akcininkų susirinkimą, kuris turi svarstyti klausimus dėl sprendimų, nurodytų šio Įstatymo 59 straipsnio 10 dalies 2 punkte ir 11 dalyje. Bendrovėje susidariusi padėtis turi būti ištaisyta ne vėliau kaip per 6 mėnesius nuo dienos, kurią valdyba sužinojo ar turėjo sužinoti apie susidariusią padėtį. Jeigu tokia padėtis susidaro uždarojoje akcinėje bendrovėje, nuo kurios įsteigimo nepraėjo 18 mėnesių, susidariusi padėtis turi būti ištaisyta ne vėliau kaip per 12 mėnesių nuo dienos, kurią valdyba sužinojo ar turėjo sužinoti apie susidariusią padėtį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-4. Jeigu visuotinis akcininkų susirinkimas šio straipsnio 3 dalyje nurodytu atveju nepriėmė sprendimo ištaisyti bendrovėje susidariusią padėtį ar tokia padėtis nebuvo ištaisyta per 6 mėnesius nuo dienos, kurią valdyba sužinojo ar turėjo sužinoti apie susidariusią padėtį, bendrovės valdyba (jei valdyba nesudaroma − bendrovės vadovas) ne vėliau kaip per 2 mėnesius nuo įvykusio visuotinio akcininkų susirinkimo dienos privalo kreiptis į teismą dėl bendrovės įstatinio kapitalo sumažinimo suma, kuria nuosavas kapitalas tapo mažesnis už įstatinį kapitalą, tačiau, jeigu po sumažinimo įstatinis kapitalas būtų mažesnis už šio Įstatymo 2 straipsnyje nustatytą minimalų įstatinio kapitalo dydį, jis gali būti mažinamas tik iki šio Įstatymo 2 straipsnyje nustatyto minimalaus įstatinio kapitalo dydžio.
+4. Jeigu visuotinis akcininkų susirinkimas šio straipsnio 3 dalyje nurodytu atveju nepriėmė sprendimo ištaisyti bendrovėje susidariusią padėtį ar tokia padėtis nebuvo ištaisyta per šio straipsnio 3 dalyje nurodytus terminus, bendrovės valdyba (jeigu valdyba nesudaroma, − bendrovės vadovas) ne vėliau kaip per 2 mėnesius nuo įvykusio visuotinio akcininkų susirinkimo dienos privalo kreiptis į teismą dėl bendrovės įstatinio kapitalo sumažinimo suma, kuria nuosavas kapitalas tapo mažesnis už įstatinį kapitalą, tačiau, jeigu po sumažinimo įstatinis kapitalas būtų mažesnis už šio Įstatymo 2 straipsnyje nustatytą minimalų įstatinio kapitalo dydį, jis gali būti mažinamas tik iki šio Įstatymo 2 straipsnyje nustatyto minimalaus įstatinio kapitalo dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3256,7 +3423,10 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-3. Šio Įstatymo 54 straipsnio 6 dalyje nustatyto dydžio bendrovės rezervas savoms akcijoms įsigyti sudaromas iš paskirstytinojo pelno. 
+3. Šio Įstatymo 54 straipsnio 6 dalyje nustatyto dydžio bendrovės rezervas savoms akcijoms įsigyti ir šio Įstatymo 471 straipsnio 3 dalies 1 punkte nustatyto dydžio bendrovės rezervas akcijoms suteikti sudaromi iš paskirstytinojo pelno.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3474,7 +3644,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-3. Uždarųjų akcinių bendrovių akcininkų − nematerialių akcijų savininkų − asmeninių vertybinių popierių sąskaitų tvarkymo ir materialių akcijų savininkų registravimo uždarosiose akcinėse bendrovėse taisykles nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Uždarųjų akcinių bendrovių akcininkų − nematerialių akcijų savininkų − asmeninių vertybinių popierių sąskaitas tvarko jas išleidusi uždaroji akcinė bendrovė. Uždaroji akcinė bendrovė sutartimi gali perduoti akcininkų asmeninių vertybinių popierių sąskaitų tvarkymą sąskaitų tvarkytojui. Su šia sutartimi uždaroji akcinė bendrovė turi supažindinti akcininkus.
+3. Uždarųjų akcinių bendrovių akcininkų − nematerialių akcijų savininkų − asmeninių vertybinių popierių sąskaitų tvarkymo ir materialių akcijų savininkų registravimo uždarosiose akcinėse bendrovėse taisykles nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Uždarųjų akcinių bendrovių akcininkų − nematerialių akcijų savininkų − asmeninių vertybinių popierių sąskaitas tvarko jas išleidusi uždaroji akcinė bendrovė. Uždaroji akcinė bendrovė sutartimi gali perduoti akcininkų asmeninių vertybinių popierių sąskaitų tvarkymą juridiniam asmeniui, kuris, vadovaujantis Lietuvos Respublikos finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas. Su šia sutartimi uždaroji akcinė bendrovė turi supažindinti akcininkus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3658,7 +3831,10 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 43 straipsnis. Darbuotojų akcijos
 
 
-1. Bendrovė, jeigu tai yra nustatyta jos įstatuose, gali išleisti darbuotojų akcijų statusą turinčių paprastųjų akcijų emisiją. Ši emisija negali būti išleidžiama, kol nepasibaigęs akcijų, pasirašytų bendrovės steigimo metu, apmokėjimo terminas.
+1. Bendrovė, jeigu tai yra nustatyta jos įstatuose, gali išleisti darbuotojų akcijų statusą turinčių paprastųjų akcijų emisiją. Ši emisija negali būti išleidžiama tol, kol nepasibaigęs akcijų, pasirašytų bendrovės steigimo metu, apmokėjimo terminas. Darbuotojų akcijų statusą turinčioms akcijoms taikomus perleidimo apribojimus patvirtinantis dokumentas pateikiamas juridinių asmenų registro tvarkytojui per 10 dienų nuo sprendimo padidinti įstatinį kapitalą išleidžiant darbuotojų akcijų statusą turinčių paprastųjų akcijų emisiją priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -3811,7 +3987,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 45 straipsnis. Akcijų apmokėjimas 
 
 
-1. Akcijų apmokėjimas yra jų emisijos kainos apmokėjimas. Akcijos gali būti apmokamos pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais nepiniginiais įnašais. Šio Įstatymo 52 straipsnio 5 dalyje nurodytu atveju išleistos naujos akcijos turi būti apmokamos pinigais.
+1. Akcijų apmokėjimas yra jų emisijos kainos apmokėjimas. Akcijos gali būti apmokamos pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais nepiniginiais įnašais. Šio Įstatymo 52 straipsnio 5 dalyje nurodytu atveju išleistos naujos akcijos turi būti apmokamos pinigais. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteiktų akcijų, kai akcijos suteikiamos išleidžiant naują akcijų emisiją, apmokėjimo ypatumai nustatyti šio Įstatymo 472 straipsnyje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4067,7 +4246,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-8. Akcinė bendrovė neturi teisės varžyti akcininkų teisės šio Įstatymo ar kitų teisės aktų nustatyta tvarka perleisti visiškai apmokėtas akcijas kito asmens nuosavybėn, išskyrus atvejį, kai nepasibaigęs darbuotojų akcijų perleidimo apribojimo terminas.
+8. Akcinė bendrovė neturi teisės varžyti akcininkų teisės šio Įstatymo ar kitų teisės aktų nustatyta tvarka perleisti visiškai apmokėtas akcijas kito asmens nuosavybėn, išskyrus atvejus, kai nepasibaigęs darbuotojų akcijų perleidimo apribojimo terminas, taip pat kai disponavimo suteiktomis akcijomis sąlygos (suvaržymai) ir jų taikymo terminai buvo nustatyti Akcijų suteikimo taisyklėse.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 Straipsnio pakeitimai:
@@ -4144,6 +4326,163 @@ Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
 
 Straipsnio pakeitimai:
 Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
+ 
+
+
+
+
+471 straipsnis. Akcijų suteikimas
+
+
+1. Akcijos gali būti suteikiamos bendrovės, patronuojančios ar dukterinės bendrovės darbuotojams, įskaitant bendrovės, patronuojančios ar dukterinės bendrovės vadovą, bendrovės, patronuojančios ar dukterinės bendrovės stebėtojų tarybos nariams, valdybos nariams, kurie šias akcijas įgyja neatlygintinai arba iš dalies atlygintinai, šiame straipsnyje nustatyta tvarka. Akcijos gali būti suteikiamos tik fiziniams asmenims. Akcijos negali būti suteikiamos asmeniui, kuris yra bendrovės, patronuojančios ar dukterinės bendrovės akcininkas ir kuriam nuosavybės teise priklausančios akcijos suteikia 1/20 ar daugiau visų balsų. Kai akcijas suteikia bankas ar finansų maklerio įmonė, nustatant galimybę akcininkui šiame straipsnyje nustatyta tvarka suteikti akcijų ir tuo tikslu skaičiuojant akcininkui nuosavybės teise priklausančių akcijų suteikiamų balsų dydį, neįtraukiamos tos jam nuosavybės teise priklausančios akcijos, kurios skirtos kaip išmoka už veiklos rezultatus jam kaip darbuotojui, kurio profesinė veikla ir (ar) priimami sprendimai gali turėti reikšmingą įtaką prisiimamai rizikai.
+
+
+
+
+2. Akcijos suteikiamos išleidžiant naują akcijų (paprastųjų akcijų, privilegijuotųjų akcijų ar darbuotojų akcijų statusą turinčių paprastųjų akcijų) emisiją arba perleidžiant bendrovės turimas savas akcijas.
+
+
+
+
+3. Suteikti akcijas bendrovė gali šiais atvejais:
+
+
+1) bendrovėje yra sudarytas rezervas akcijoms suteikti, kai akcijos suteikiamos išleidžiant naują akcijų emisiją. Rezervo akcijoms suteikti dydis turi būti ne mažesnis už suteikiamų akcijų emisijos kainų sumą, kai akcijos suteikiamos neatlygintinai, ir (ar) suteikiamų akcijų emisijos kainų sumos ir sumų, kurias už akcijas moka jas įgyjantys asmenys, skirtumą, kai akcijos suteikiamos iš dalies atlygintinai;
+
+
+
+
+2) bendrovė turi įsigijusi savų akcijų šio Įstatymo 54 straipsnyje nustatyta tvarka, kai akcijos suteikiamos perleidžiant bendrovės savas akcijas. 
+
+
+
+
+
+
+4. Akcijos suteikiamos vadovaujantis Akcijų suteikimo taisyklėmis. Akcijų suteikimo taisyklių rengimo iniciatyvos teisę turi bendrovės akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, bendrovės darbuotojų grupė, kuri sudaro ne mažiau kaip 1/3 visų bendrovės darbuotojų, taip pat bendrovės vadovas, valdyba, stebėtojų taryba. Akcijų suteikimo taisyklių rengimo iniciatoriai, išskyrus bendrovės vadovą, bendrovės vadovui pateikia paraišką, kurioje turi būti pagrindžiamas akcijų suteikimo darbuotojams ir (ar) organų nariams tikslingumas ir pateikiami pasiūlymai dėl Akcijų suteikimo taisyklių turinio. Bendrovės vadovas Akcijų suteikimo taisyklių projektą parengia ne vėliau kaip per 30 dienų nuo paraiškos gavimo bendrovėje dienos ir pateikia jį svarstyti valdybos, jeigu valdyba nesudaryta, – stebėtojų tarybos posėdyje, o jeigu nesudaryta ir stebėtojų taryba, – inicijuoja visuotinio akcininkų susirinkimo sušaukimą. Visuotinio akcininkų susirinkimo sprendimas dėl Akcijų suteikimo taisyklių patvirtinimo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo paraiškos gavimo bendrovėje dienos arba nuo Akcijų suteikimo taisyklių projekto parengimo dienos, kai Akcijų suteikimo taisyklių rengimo iniciatorius yra bendrovės vadovas.
+
+
+
+
+5. Akcijų suteikimo taisyklėse turi būti nustatyta:
+
+
+1) suteikiamų akcijų klasė, nominali vertė; 
+
+
+
+
+2) asmenų grupės, kurioms suteikiamos akcijos;
+
+
+
+
+3) būdas, kuriuo suteikiamos akcijos (neatlygintinai ir (ar) iš dalies atlygintinai) (toliau šiame straipsnyje – akcijų suteikimo būdas);
+
+
+
+
+4) bendrovės organas (organai), kuris (kurie) priima sprendimą dėl akcijų suteikimo;
+
+
+
+
+5) tvarka, kuria privalo vadovautis bendrovės organas, priimdamas sprendimą dėl akcijų suteikimo;
+
+
+
+
+6) informacijos apie šių taisyklių taikymą pateikimo visuotiniam akcininkų susirinkimui tvarka;
+
+
+
+
+7) susipažinimo su šiomis taisyklėmis tvarka, jeigu šios taisyklės nėra skelbiamos bendrovės interneto svetainėje.
+
+
+
+
+
+
+6. Akcijų suteikimo taisyklėse gali būti nustatyta maksimali įstatinio kapitalo dalis, kurią gali sudaryti suteikiamos akcijos, akcijų suteikimo šaltinis (nauja akcijų emisija ir (ar) savų akcijų perleidimas), taip pat šio Įstatymo 15 straipsnio 1 dalies 2, 3 ir 6 punktuose nustatytų turtinių teisių apribojimai ir disponavimo suteiktomis akcijomis sąlygos (suvaržymai) bei šių apribojimų ir sąlygų (suvaržymų) taikymo terminai. 
+
+
+
+
+7. Akcijų suteikimo taisyklės gali būti nuolatinio pobūdžio arba jų taikymas gali būti apibrėžtas konkrečiu laikotarpiu ar įvykiu, kuris nurodomas Akcijų suteikimo taisyklėse.
+
+
+
+
+8. Kai Akcijų suteikimo taisyklėse nurodoma, kad akcijos gali būti suteikiamos iš dalies atlygintinai, Akcijų suteikimo taisyklėse papildomai nurodoma apmokėjimo už akcijas tvarka, nurodant, kokią akcijos nominalios vertės dalį (sumą) turi apmokėti ją įgyjantis asmuo, arba nustatoma šios dalies (sumos) apskaičiavimo tvarka. 
+
+
+
+
+9. Kai Akcijų suteikimo taisyklėse nurodoma, kad akcijos gali būti suteikiamos neatlygintinai arba iš dalies atlygintinai, Akcijų suteikimo taisyklėse turi būti nustatyta akcijų suteikimo būdo pasirinkimo tvarka.
+
+
+
+
+10. Jeigu Akcijų suteikimo taisyklėse nurodytos kelios asmenų grupės, kurioms suteikiamos akcijos ir atitinkamai keli bendrovės organai, kurie turi teisę priimti sprendimą dėl akcijų suteikimo, šiose taisyklėse turi būti aiškiai atskirta šių bendrovės organų kompetencija. 
+
+
+
+
+11. Sprendimo dėl akcijų suteikimo negali priimti bendrovės organas, kurio nariams akcijos suteikiamos. 
+
+
+
+
+12. Akcijų suteikimo taisyklės skelbiamos bendrovės interneto svetainėje arba sudaroma galimybė bendrovės akcininkams, darbuotojams ir (ar) organų nariams ir, jeigu taip nustatyta šiose taisyklėse, kitiems asmenims su jomis susipažinti bendrovės buveinėje. Kai Akcijų suteikimo taisyklėse nustatomos disponavimo suteiktomis akcijomis sąlygos (suvaržymai), šių sąlygų (suvaržymų) faktą patvirtinantis dokumentas pateikiamas juridinių asmenų registro tvarkytojui per 10 darbo dienų nuo visuotinio akcininkų susirinkimo sprendimo dėl Akcijų suteikimo taisyklių patvirtinimo dienos.
+TAR pastaba. 471 straipsnio nuostatos netaikomos grupei, kaip ši sąvoka apibrėžta Akcinių bendrovių įstatymo 371 straipsnyje.
+
+
+Papildyta straipsniu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+472 straipsnis. Suteiktų akcijų, kai akcijos suteikiamos išleidžiant naują akcijų emisiją, apmokėjimas
+
+
+1. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteikiant akcijas neatlygintinai, už akcijas apmokama bendrovės lėšomis iš bendrovės rezervo akcijoms suteikti. 
+
+
+
+
+2. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteikiant akcijas iš dalies atlygintinai, už akcijas apmokama Akcijų suteikimo taisyklėse nustatyta tvarka pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais nepiniginiais įnašais, taip pat bendrovės lėšomis iš bendrovės rezervo akcijoms suteikti. 
+
+
+
+
+3. Kai akcijos suteikiamos neatlygintinai arba iš dalies atlygintinai, terminas akcijoms apmokėti bendrovės lėšomis negali būti ilgesnis kaip 5 darbo dienos nuo akcijų pasirašymo sutarties sudarymo dienos. 
+
+
+
+
+4. Bendrovei įvykdžius savo įsipareigojimus dėl neatlygintinai arba iš dalies atlygintinai suteikiamų bendrovės akcijų apmokėjimo, atitinkama suma sumažinamas bendrovės rezervas akcijoms suteikti.
+
+
+
+
+5. Akcijas suteikiant neatlygintinai, šio Įstatymo 14 straipsnio 2 dalis, 43 straipsnio 4 ir 5 dalyse ir 44 straipsnio 1 dalyje nustatyti reikalavimai dėl pasirašytų akcijų apmokėjimo, taip pat šio Įstatymo 45 straipsnio 4, 8, 10, 11 ir 12 dalys netaikomos.
+
+
+
+
+6. Akcijas suteikiant iš dalies atlygintinai, šio Įstatymo 14 straipsnio 2 dalyje, 44 straipsnio 1 dalyje ir 45 straipsnio 9 dalyje įtvirtinti įsipareigojimai bendrovei, susiję su apmokėjimu už pasirašytas akcijas, taikomi akcijų emisijos kainos daliai (sumai), kurią turi apmokėti akcijas įgyjantis asmuo.
+
+
+
+
+7. Kai akcijos suteikiamos iš dalies atlygintinai, šio Įstatymo 45 straipsnio 4 dalyje nustatytas reikalavimas dėl pradinio įnašo pinigais dydžio netaikomas, o akcijas pasirašiusio asmens pradinis įnašas pinigais turi būti ne mažesnis kaip 1/4 visos jo už pasirašytas akcijas mokamos emisijos kainos dalies (sumos).
+
+
+Papildyta straipsniu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
  
 
 
@@ -4263,7 +4602,10 @@ Pastaba: Kai valstybė įsigyja naujai išleistas banko akcijas, Akcinių bendro
 51 straipsnis. Įstatinio kapitalo didinimas iš bendrovės lėšų
 
 
-1. Įstatinis kapitalas gali būti didinamas iš bendrovės lėšų, t.y. iš nepaskirstytojo pelno, akcijų priedų ir rezervų (išskyrus savų akcijų įsigijimo ir privalomąjį rezervus). Įstatinis kapitalas iš bendrovės lėšų didinamas išleidžiant naujas akcijas, kurios nemokamai išduodamos akcininkams, arba padidinant anksčiau išleistų akcijų nominalias vertes.
+1. Įstatinis kapitalas gali būti didinamas iš bendrovės lėšų, tai yra iš nepaskirstytojo pelno, akcijų priedų ir rezervų (išskyrus savų akcijų įsigijimo ir privalomąjį rezervus). Įstatinis kapitalas iš bendrovės lėšų didinamas išleidžiant naujas akcijas, kurios neatlygintinai išduodamos akcininkams arba šio Įstatymo 471 straipsnyje nustatyta tvarka suteikiamos bendrovės, patronuojančios ar dukterinės bendrovės darbuotojams, įskaitant bendrovės, patronuojančios ar dukterinės bendrovės vadovą, stebėtojų tarybos nariams, valdybos nariams, arba padidinant anksčiau išleistų akcijų nominalias vertes.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4278,7 +4620,10 @@ Pastaba: Kai valstybė įsigyja naujai išleistas banko akcijas, Akcinių bendro
 
 
 
-4. Kai bendrovė didina įstatinį kapitalą iš bendrovės lėšų išleisdama naujas akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą atvejį, turi teisę nemokamai gauti naujų paprastųjų akcijų, kurių skaičius būtų proporcingas jiems visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) nuosavybės teise priklausančių akcijų nominaliai vertei.
+4. Kai bendrovė didina įstatinį kapitalą iš bendrovės lėšų išleisdama naujas akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą atvejį, turi teisę neatlygintinai gauti naujų paprastųjų akcijų, kurių skaičius būtų proporcingas jiems visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) nuosavybės teise priklausančių akcijų nominaliai vertei.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 Straipsnio pakeitimai:
@@ -4367,7 +4712,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-8. Sumažinus įstatinį kapitalą, siekiant akcininkams išmokėti bendrovės lėšų, su akcininkais atsiskaitoma tik pinigais. Pinigai akcininkams gali būti išmokami ne anksčiau, negu pakeisti bendrovės įstatai įregistruojami juridinių asmenų registre, ir turi būti išmokėti per vieną mėnesį nuo pakeistų bendrovės įstatų įregistravimo dienos. Išmokas turi teisę gauti asmenys, kurie visuotinio akcininkų susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ar kitokiu teisėtu pagrindu turi tokią teisę, o išmokų dydžiai turi būti proporcingi jų turėtų akcijų nominalių verčių sumai. Per šioje dalyje nustatyto vieno mėnesio terminą išmokų negavę asmenys turi teisę jiems priklausančias lėšas išreikalauti iš bendrovės kaip jos kreditoriai. Akcininkui išmokėtą išmoką bendrovė gali išieškoti, jeigu akcininkas žinojo ar turėjo žinoti, kad išmoka yra paskirta ir (arba) išmokėta neteisėtai.
+8. Sumažinus įstatinį kapitalą, siekiant akcininkams išmokėti bendrovės lėšų, su akcininkais atsiskaitoma tik pinigais. Pinigai akcininkams gali būti išmokami ne anksčiau, negu pakeisti bendrovės įstatai įregistruojami juridinių asmenų registre, ir turi būti išmokėti per vieną mėnesį nuo pakeistų bendrovės įstatų įregistravimo dienos. Išmokas turi teisę gauti asmenys, kurie visuotinio akcininkų susirinkimo, priėmusio sprendimą sumažinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) buvo bendrovės akcininkai ir turi šią teisę ar kitokiu teisėtu pagrindu turi tokią teisę, o išmokų dydžiai turi būti proporcingi jų turėtų akcijų nominalių verčių sumai. Per šioje dalyje nustatyto vieno mėnesio terminą išmokų negavę asmenys turi teisę jiems priklausančias lėšas išreikalauti iš bendrovės kaip jos kreditoriai. Akcininkui išmokėtą išmoką bendrovė gali išieškoti, jeigu akcininkas žinojo ar turėjo žinoti, kad išmoka yra paskirta ir (arba) išmokėta neteisėtai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4477,6 +4825,59 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
+531 straipsnis. Akcijų skaičiaus ir akcijos nominalios vertės keitimas, nekeičiant įstatinio kapitalo dydžio
+
+
+1. Bendrovės išleistų tos pačios klasės akcijų skaičius ir akcijos nominali vertė keičiami, nekeičiant įstatinio kapitalo dydžio, visuotinio akcininkų susirinkimo sprendimu. Visuotinio akcininkų susirinkimo sprendimas gali būti priimamas, kai bendrovėje yra vienas akcininkas, taip pat kai bendrovėje yra daugiau negu vienas akcininkas, jeigu visų kiekvienam akcininkui nuosavybės teise priklausančių akcijų nominalių verčių suma išlieka tokia pati, kokia buvo visuotinio akcininkų susirinkimo, priėmusio sprendimą pakeisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje). 
+
+
+
+
+2. Keisti išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio, bendrovė gali tik tada, kai jos įstatinis kapitalas (paskutinės laidos akcijų emisijos kaina) yra visiškai apmokėtas.
+
+
+
+
+3. Bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimas, nekeičiant įstatinio kapitalo dydžio, negali turėti įtakos akcininkų turtinėms ir neturtinėms teisėms, kurias jiems suteikė iki sprendimo pakeisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio, priėmimo nuosavybės teise priklausiusių akcijų skaičius ir akcijos nominali vertė.
+
+
+
+
+4. Visuotinio akcininkų susirinkimo sprendime pakeisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio, be kita ko, turi būti nurodyta:
+
+
+1) bendrovės išleistų tos pačios klasės akcijų skaičius ir akcijos nominali vertė;
+
+
+
+
+2) bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimo taisyklės, atitinkančios šio straipsnio 1 ir 3 dalyse nustatytus principus;
+
+
+
+
+3) naujai nustatomas bendrovės išleistų tos pačios klasės akcijų skaičius ir akcijos nominali vertė.
+
+
+
+
+
+
+5. Bendrovės išleistų tos pačios klasės akcijų skaičius ir akcijos nominali vertė, nekeičiant įstatinio kapitalo dydžio, laikomi pakeistais tik įregistravus pakeistus bendrovės įstatus juridinių asmenų registre. 
+
+
+
+
+6. Bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimui, nekeičiant įstatinio kapitalo dydžio, mutatis mutandis taikomos šio Įstatymo 49 straipsnio 1, 4 ir 8 dalys.
+
+
+Papildyta straipsniu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
 54 straipsnis. Bendrovės teisė įsigyti savas akcijas
 
 
@@ -4485,7 +4886,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-2. Bendrovė savas akcijas gali įsigyti visuotinio akcininkų susirinkimo sprendimu. Visuotinio akcininkų susirinkimo sprendime, be kita ko, turi būti nustatyta:
+2. Bendrovė savas akcijas gali įsigyti visuotinio akcininkų susirinkimo sprendimu, išskyrus šio straipsnio 21 dalyje nustatytą atvejį. Visuotinio akcininkų susirinkimo sprendime, be kita ko, turi būti nustatyta:
 
 
 1) akcijų įsigijimo tikslas;
@@ -4498,7 +4899,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-3) terminas, per kurį bendrovė gali įsigyti savas akcijas. Terminas negali būti ilgesnis kaip 18 mėnesių;
+3) terminas, per kurį bendrovė gali įsigyti savas akcijas. Šis terminas negali būti ilgesnis kaip 18 mėnesių;
 
 
 
@@ -4508,9 +4909,20 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-5) savų akcijų pardavimo tvarka ir minimali pardavimo kaina. Pardavimo tvarka turi užtikrinti lygias galimybes visiems akcininkams įsigyti bendrovės akcijų.
+5) savų akcijų pardavimo tvarka ir minimali pardavimo kaina, išskyrus atvejus, kai akcijos įsigyjamos siekiant suteikti bendrovės akcijų bendrovės, patronuojančios ar dukterinės bendrovės darbuotojams, įskaitant bendrovės, patronuojančios ar dukterinės bendrovės vadovą, stebėtojų tarybos nariams, valdybos nariams šio Įstatymo 471 straipsnyje nustatyta tvarka, skirti bendrovės akcijų kaip išmoką už veiklos rezultatus darbuotojams, kurių profesinė veikla ir (ar) priimami sprendimai gali turėti reikšmingą įtaką prisiimamai rizikai, taip pat kai akcijos įsigyjamos siekiant bendrovės išleistas konvertuojamąsias obligacijas pakeisti į šios bendrovės akcijas. Savų akcijų pardavimo tvarka turi užtikrinti lygias galimybes visiems akcininkams įsigyti bendrovės akcijų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+21. Bendrovė savas akcijas gali įgyti bendrovės valdybos (jeigu ji nesudaroma, – bendrovės vadovo) sprendimu, jeigu šiais veiksmais siekiama sudaryti sąlygas suteikti bendrovės akcijų bendrovės, patronuojančios ar dukterinės bendrovės darbuotojams šio Įstatymo 471 straipsnyje nustatyta tvarka. Bendrovės valdybos (jeigu ji nesudaroma, – bendrovės vadovo) sprendimui mutatis mutandis taikomi šio straipsnio 2 dalies 1–4 punktuose nustatyti reikalavimai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4555,7 +4967,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-11. Bendrovės akcijos, įgytos pažeidžiant šio straipsnio 2, 3, 4 ir 6 dalyse nurodytas sąlygas, turi būti perleistos kitų asmenų nuosavybėn ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Jei akcijos neperleidžiamos per šį laiką, atitinkamai turi būti sumažintas įstatinis kapitalas, akcijos anuliuojamos ir paskelbiamos negaliojančiomis. 
+11. Bendrovės akcijos, įgytos šio straipsnio 21 dalyje nurodyto bendrovės valdymo organo sprendimu, turi būti perleistos (suteiktos) bendrovės, patronuojančios ar dukterinės bendrovės darbuotojų nuosavybėn šio Įstatymo 471 straipsnyje nustatyta tvarka ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Bendrovės akcijos, įgytos pažeidžiant šio straipsnio 2, 3, 4 ir 6 dalyse nurodytas sąlygas, turi būti perleistos kitų asmenų nuosavybėn ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Jeigu akcijos neperleidžiamos per šioje dalyje nustatytą laiką, atitinkamai turi būti sumažintas įstatinis kapitalas, akcijos anuliuojamos ir paskelbiamos negaliojančiomis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4571,6 +4986,14 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 14. Už šio straipsnio 3, 4, 5, 6, 7 ir 11 dalyse nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas.
+
+
+
+
+15. Šiame straipsnyje nustatyti reikalavimai netaikomi, kai akcijos įsigyjamos siekiant įvykdyti visuotinio akcininkų susirinkimo sprendimą sumažinti bendrovės įstatinį kapitalą. Šiuo atveju šio Įstatymo 52 straipsnio 6 ir 7 dalys taikomos mutatis mutandis.
+Papildyta straipsnio dalimi:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 Straipsnio pakeitimai:
@@ -4774,7 +5197,7 @@ Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 
 
-5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo sprendimu. Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas Vertybinių popierių įstatymo nustatyta tvarka. Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta: 
+5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo sprendimu. Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik tuo atveju, jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas Vertybinių popierių įstatymo nustatyta tvarka arba atšaukiama pirmumo teisė įsigyti bendrovės akcijų dėl ketinimo suteikti akcijas šio Įstatymo 471 straipsnyje nustatyta tvarka. Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta:
 
 
 1) pirmumo teisės atšaukimo priežastys;
@@ -4782,14 +5205,17 @@ Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 
 
-2) asmuo ar asmenys, kuriems suteikiama teisė įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), jei šiuos asmenis ir duomenis apie juos būtina nurodyti pagal šioje dalyje nustatytas sąlygas;
+2) asmuo ar asmenys, kuriems suteikiama teisė įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), jeigu šiuos asmenis ir duomenis apie juos būtina nurodyti pagal šioje dalyje nustatytas sąlygas;
 
 
 
 
-3) išleidžiamų akcijų ar konvertuojamųjų obligacijų skaičius, kurį kiekvienas iš nurodytų asmenų gali įsigyti (jei šiuos duomenis būtina nurodyti pagal šioje dalyje nustatytas sąlygas).
+3) išleidžiamų akcijų ar konvertuojamųjų obligacijų skaičius, kurį kiekvienas iš nurodytų asmenų gali įsigyti (jeigu šiuos duomenis būtina nurodyti pagal šioje dalyje nustatytas sąlygas).
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4929,22 +5355,42 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-9) pelno dalis, paskirta į kitus rezervus;
+9) pelno dalis, paskirta į rezervą akcijoms suteikti; 
+Papildyta straipsnio punktu:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-10) pelno dalis, paskirta dividendams išmokėti. Atskirai nurodoma per ataskaitinius finansinius metus akcininkams už trumpesnį negu finansiniai metai laikotarpį išmokėtų dividendų suma, jeigu jie buvo paskirti;
+10) pelno dalis, paskirta į kitus rezervus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-11) pelno dalis, paskirta metinėms išmokoms (tantjemoms) valdybos ir stebėtojų tarybos nariams, darbuotojų premijoms ir kitiems tikslams;
+11) pelno dalis, paskirta dividendams išmokėti. Atskirai nurodoma per ataskaitinius finansinius metus akcininkams už trumpesnį negu finansiniai metai laikotarpį išmokėtų dividendų suma, jeigu jie buvo paskirti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
 
-12) nepaskirstytasis pelnas (nuostoliai) ataskaitinių finansinių metų pabaigoje, perkeliamas į kitus finansinius metus. 
+12) pelno dalis, paskirta metinėms išmokoms (tantjemoms) valdybos ir stebėtojų tarybos nariams, darbuotojų premijoms ir kitiems tikslams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+13) nepaskirstytasis pelnas (nuostoliai) ataskaitinių finansinių metų pabaigoje, perkeliamas į kitus finansinius metus. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -4986,7 +5432,10 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-7. Bendrovė šio straipsnio 2 dalies 11 punkte nurodytiems tikslams gali skirti ne daugiau kaip 1/5 grynojo ataskaitinių finansinių metų pelno. Metinėms išmokoms (tantjemoms) valdybos ir stebėtojų tarybos nariams skiriama ataskaitinių finansinių metų pelno dalis negali būti didesnė kaip 1/3 pelno dalies, skirtos dividendams išmokėti.
+7. Bendrovė šio straipsnio 2 dalies 12 punkte nurodytiems tikslams gali skirti ne daugiau kaip 1/5 grynojo ataskaitinių finansinių metų pelno. Metinėms išmokoms (tantjemoms) valdybos ir stebėtojų tarybos nariams skiriama ataskaitinių finansinių metų pelno dalis negali būti didesnė kaip1/3 pelno dalies, skirtos dividendams išmokėti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
 
 
 
@@ -6820,3 +7269,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 7, 8, 12, 14
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 16-1, 18, 19, 20, 21, 25, 31, 32, 33, 34, 37 straipsnių pakeitimo ir Įstatymo papildymo 37-2 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 papildymo 37-1 straipsniu įstatymas
