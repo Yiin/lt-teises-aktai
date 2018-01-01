@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2017-02-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
- 
-TAR pastaba. Šis įstatymas taikomas tik žalos, atsiradusios dėl šiam įstatymui įsigaliojus padarytų ar besitęsiančių (trunkančių) šio įstatymo  5 ar 7 straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimų, atlyginimo atvejais, išskyrus numatytą atvejį:  49 straipsnio 2 dalyje nustatytas ieškinio senaties terminas taikomas, jeigu ieškinio senaties terminas prasidėjo įsigaliojus šiam įstatymui, taip pat jeigu reikalavimams pareikšti ieškinio senaties terminas, numatytas Lietuvos Respublikos civilinio kodekso 1.125 straipsnio 8 dalyje, nepasibaigė iki šio įstatymo įsigaliojimo. Iki šio įstatymo įsigaliojimo praėjusi ieškinio senaties termino dalis įskaitoma į šio įstatymo 49 straipsnio 2 dalyje nustatytą ieškinio senaties terminą.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-193, 2017-01-12, paskelbta TAR 2017-01-18, i. k. 2017-01075
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-02-01:
 Nr. XIII-193, 2017-01-12, paskelbta TAR 2017-01-18, i. k. 2017-01075
@@ -197,32 +192,35 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Susijusių ūkio subjektų grupė – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės ar priklausomybės ir galimų suderintų veiksmų yra laikomi vienu ūkio subjektu apskaičiuojant bendrąsias pajamas ir rinkos dalį. Jeigu neįrodoma priešingai, laikoma, kad susijusių ūkio subjektų grupę sudaro kiekvienas nagrinėjamas ūkio subjektas ir:
+18. Susijusių ūkio subjektų grupė – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės yra laikomi vienu ūkio subjektu koncentracijos priežiūros tikslais apskaičiuojant bendrąsias pajamas ir rinkos dalį. Jeigu neįrodoma priešingai, laikoma, kad susijusių ūkio subjektų grupę sudaro:
 
 
-1) ūkio subjektai, kuriuose, kaip ir nagrinėjamame ūkio subjekte, tas pats fizinis asmuo arba tie patys fiziniai asmenys turi akcijų dalį, kuri sudaro 1/3 ar daugiau įstatinio kapitalo, arba turi teises į 1/3 ar daugiau visų balsų;
-
-
-
-
-2) ūkio subjektai, kurie su nagrinėjamu ūkio subjektu yra bendrai valdomi ar turi bendrą administracinį padalinį arba kurių stebėtojų taryboje, valdyboje ar kitame valdymo ar priežiūros organe yra pusė ar daugiau tų pačių narių kaip ir nagrinėjamo ūkio subjekto valdymo ar priežiūros organuose;
+1) nagrinėjamas ūkio subjektas ir
 
 
 
 
-3) ūkio subjektai, kuriuose nagrinėjamas ūkio subjektas turi akcijų dalį, sudarančią 1/3 ar daugiau įstatinio kapitalo, arba turi teises į 1/3 ar daugiau visų balsų arba kurie yra įsipareigoję derinti savo ūkinės veiklos sprendimus su nagrinėjamu ūkio subjektu, arba už kurių prievolių tretiesiems asmenims įvykdymą yra įsipareigojęs atsakyti nagrinėjamas ūkio subjektas, arba kurie yra įsipareigoję perduoti visą arba dalį pelno ar suteikę teisę naudoti 1/3 ar daugiau savo turto nagrinėjamam ūkio subjektui;
+2) ūkio subjektai, kuriuose nagrinėjamas ūkio subjektas tiesiogiai arba netiesiogiai (per kitus ūkio subjektus) turi daugiau kaip pusę akcijų, kitokių vertybinių popierių ar turto arba turi teises į daugiau kaip pusę balsų, arba turi teisę skirti daugiau kaip pusę priežiūros ar valdymo organų narių, arba turi ūkio subjekto valdymo teisę, kaip ji suprantama pagal 2004 m. sausio 20 d. Tarybos reglamentą (EB) Nr. 139/2004 dėl koncentracijų tarp įmonių kontrolės (OL 2004 m. specialusis leidimas, 8 skyrius, 3 tomas, p. 40);
 
 
 
 
-4) ūkio subjektai, kurie nagrinėjamame ūkio subjekte turi akcijų dalį, sudarančią 1/3 ar daugiau įstatinio kapitalo, arba turi teises į 1/3 ar daugiau visų balsų arba su kuriais nagrinėjamas ūkio subjektas yra įsipareigojęs derinti savo ūkinės veiklos sprendimus, arba kurie yra įsipareigoję atsakyti už nagrinėjamo ūkio subjekto prievolių tretiesiems asmenims įvykdymą, arba kuriems nagrinėjamas ūkio subjektas yra įsipareigojęs perduoti visą arba dalį pelno ar suteikęs teisę naudoti 1/3 ar daugiau savo turto;
+3) ūkio subjektai, kurie nagrinėjamame ūkio subjekte turi šios dalies 2 punkte išvardytas teises;
 
 
 
 
-5) ūkio subjektai, kurie tiesiogiai ar netiesiogiai, per kitus ūkio subjektus, yra susiję su šios dalies 1, 2, 3 ir 4 punktuose nurodytais ūkio subjektais bet kuriuo iš šios dalies 1, 2, 3 ir 4 punktuose nurodytų būdų.
+4) ūkio subjektai, kuriuose šios dalies 3 punkte nurodyti ūkio subjektai arba kiti nagrinėjamą ūkio subjektą kontroliuojantys asmenys turi šios dalies 2 punkte išvardytas teises;
 
 
+
+
+5) ūkio subjektai, kuriuose šios dalies 1–4 punktuose nurodyti du arba daugiau ūkio subjektų bendrai turi šios dalies 2 punkte išvardytas teises. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
@@ -418,32 +416,18 @@ KONCENTRACIJOS PRIEŽIŪRA
 8 straipsnis. Pranešimas apie koncentraciją
 
 
-1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu keturiolika milijonų penki šimtai tūkstančių eurų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu vienas milijonas keturi šimtai penkiasdešimt tūkstančių eurų.
+1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos Lietuvos Respublikoje paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu dvidešimt milijonų eurų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos Lietuvos Respublikoje paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu du milijonai eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
 
-2. Koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos suprantamos kaip:
-
-
-1) ūkio subjektų, kurie jungiasi, bendrųjų pajamų suma;
-
-
-
-
-2) ūkio subjektų, iš kurių vienas ūkio subjektas ar keletas ūkio subjektų, veikdami susitarimo pagrindu, įsigyja kitą ūkio subjektą (įmonę ar jos dalį), visą ūkio subjekto turtą ar turto dalį arba įsigyja kito ūkio subjekto akcijų dalį, kuri, įskaitant viską, kas buvo anksčiau įsigyta, sudaro 1/3 ar daugiau įstatinio kapitalo, arba gauna teisę į kito ūkio subjekto 1/3 ar didesnę balsų dalį, bendrųjų pajamų suma. Jeigu ūkio subjektas, kuris įsigyja kito ūkio subjekto akcijų dalį, priklauso susijusių ūkio subjektų grupei, tai apskaičiuojant įsigyjamų akcijų dalį įskaitomos ir akcijos, kurias šiame ūkio subjekte turi tai pačiai susijusių ūkio subjektų grupei priklausantys ūkio subjektai. Jeigu įsigyjama ūkio subjekto (įmonės) dalis arba ūkio subjekto turto dalis, tai bendrosios pajamos ir rinkos dalis apskaičiuojamos proporcingai įsigyjamo turto daliai;
-
-
-
-
-3) koncentruojamų ūkio subjektų, iš kurių viename ar keliuose tas pats fizinis asmuo arba tie patys fiziniai asmenys, turėdami kontrolės teisę, įsigyja kitą ūkio subjektą (įmonę ar jos dalį), visą ūkio subjekto turtą ar turto dalį arba įsigyja kito ūkio subjekto akcijų dalį, kuri, įskaitant viską, kas buvo anksčiau įsigyta, sudaro 1/3 ar daugiau įstatinio kapitalo, arba gauna teisę į kito ūkio subjekto 1/3 ar didesnę balsų dalį, bendrųjų pajamų suma. Apskaičiuojant fizinio asmens ar fizinių asmenų įsigyjamų kito ūkio subjekto akcijų dalį, įskaitomos akcijos, kurias šiame ūkio subjekte turi fizinio asmens ar tų pačių fizinių asmenų kontroliuojami ūkio subjektai ir visi tai pačiai susijusių ūkio subjektų grupei priklausantys ūkio subjektai. Jeigu įsigyjama ūkio subjekto (įmonės) dalis arba ūkio subjekto turto dalis, tai bendrosios pajamos ir rinkos dalis apskaičiuojamos proporcingai įsigyjamo turto daliai;
-
-
-
-
-4) bendrųjų pajamų suma ūkio subjektų, kurie, veikdami susitarimo pagrindu, kartu steigia naują ūkio subjektą arba sukuria bendrą valdymo ar priežiūros organą ar bendrą administracinį padalinį arba kurie dėl priimamų sprendimų turės pusę ar daugiau tų pačių narių stebėtojų taryboje, valdyboje ar kitame valdymo ar priežiūros organe, arba kurie įsipareigoja vienas su kitu derinti savo ūkinės veiklos sprendimus arba perduoti vienas kitam visą ar tam tikrą dalį pelno, arba kurie vienas kitam suteikia teisę naudoti visą savo turtą ar jo dalį, arba vienas iš kurių ar keletas ūkio subjektų, veikdami susitarimo pagrindu, kitokiu būdu įgyja kito ūkio subjekto kontrolę. Jeigu vienas ūkio subjektas suteikia teisę kitam ūkio subjektui naudoti savo turto dalį, tai bendrosios pajamos ir rinkos dalis apskaičiuojamos proporcingai naudojamo turto daliai.
-
-
+2. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
@@ -466,7 +450,10 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 
-4) užsienio valstybių ūkio subjektas, bendrosios pajamos skaičiuojamos kaip pajamų, gautų Lietuvos Respublikos prekių rinkose, suma.
+4) Neteko galios nuo 2018-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
@@ -478,7 +465,18 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 
-5. Laikoma, kad koncentracija nevykdoma, kai komerciniai bankai, kitos kredito įstaigos, vertybinių popierių viešosios apyvartos tarpininkai, kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės ir draudimo įmonės įsigyja 1/3 ar daugiau kitos įmonės akcijų, turėdami tikslą jas perleisti, jeigu nesinaudojama šių akcijų suteikiama balsavimo teise ir šios akcijos perleidžiamos ne vėliau kaip per vienus metus, ir ne vėliau kaip per vieną mėnesį po įsigijimo pateikiama informacija Konkurencijos tarybai. Jeigu finansų įstaigos, įsigijusios 1/3 ar daugiau kitos įmonės akcijų, nusprendžia nesilaikyti šioje dalyje nustatytų sąlygų, jos privalo pateikti pranešimą apie koncentraciją bendra tvarka.
+5. Laikoma, kad koncentracija nevykdoma, kai komerciniai bankai, kitos kredito įstaigos, vertybinių popierių viešosios apyvartos tarpininkai, kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės ir draudimo įmonės įsigyja kitos įmonės vertybinių popierių, turėdami tikslą juos perleisti, jeigu nesinaudojama jų suteikiama balsavimo teise ir šie vertybiniai popieriai perleidžiami ne vėliau kaip per vienus metus, ir ne vėliau kaip per vieną mėnesį po įsigijimo pateikiama informacija Konkurencijos tarybai. Jeigu finansų įstaigos, įsigijusios kitos įmonės vertybinių popierių, nusprendžia nesilaikyti šioje dalyje nustatytų sąlygų, jos privalo pateikti pranešimą apie koncentraciją bendra tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
+
+
+
+
+6. Du arba daugiau sandorių, kurie per dvejų metų laikotarpį yra sudaromi tarp tų pačių asmenų arba ūkio subjektų, laikomi viena koncentracija, kuri atsiranda paskutinio sandorio sudarymo metu. 
+TAR pastaba. 8 straipsnio 6 dalis taikoma tik po įstatymo Nr. XIII-909 įsigaliojimo (2018-01-01) sudaromiems sandoriams.
+Papildyta straipsnio dalimi:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
  
 
 
@@ -489,17 +487,23 @@ KONCENTRACIJOS PRIEŽIŪRA
 9 straipsnis. Pranešimo apie koncentraciją pateikimas
 
 
-1. Pranešimą apie koncentraciją šio įstatymo 8 straipsnio 2 dalies 2 ir 3 punktuose numatytais atvejais teikia kontroliuojantys asmenys, kitais atvejais – bendrai visi koncentracijoje dalyvaujantys ūkio subjektai.
+1. Pranešimą apie koncentraciją kontrolės įgijimo atveju teikia kontroliuojantys asmenys, susijungimo atveju – bendrai visi koncentracijoje dalyvaujantys ūkio subjektai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
 
-2. Pranešimas apie koncentraciją turi būti pateiktas Konkurencijos tarybai iki koncentracijos įgyvendinimo. Pranešimas apie koncentraciją pateikiamas po pasiūlymo sudaryti sutartį arba įsigyti akcijas ar turtą pateikimo, pavedimo sudaryti sutartį, sutarties sudarymo, nuosavybės teisės ar teisės disponuoti tam tikru turtu įgijimo. Pranešimas apie koncentraciją gali būti pateiktas ir turint aiškius ketinimus sudaryti sutartį arba pateikti viešą siūlymą supirkti akcijas. Konkurencijos taryba nustato tipinę pranešimo apie koncentraciją formą.
+2. Pranešimas apie koncentraciją Konkurencijos tarybos nustatyta tvarka turi būti pateiktas Konkurencijos tarybai iki koncentracijos įgyvendinimo. Pranešimas apie koncentraciją pateikiamas po pasiūlymo sudaryti sutartį arba įsigyti akcijų, vertybinių popierių ar turto pateikimo, pavedimo sudaryti sutartį, sutarties sudarymo, nuosavybės teisės ar teisės disponuoti tam tikru turtu įgijimo. Pranešimas apie koncentraciją gali būti pateiktas ir turint aiškių ketinimų sudaryti sutartį arba pateikti viešą siūlymą supirkti akcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
 
-3. Pranešime apie koncentraciją turi būti pateikta:
+3. Konkurencijos taryba nustato pranešimo apie koncentraciją reikalavimus, reikalingus koncentracijos poveikio vertinimui atitinkamose rinkose atlikti, ir pranešimo apie koncentraciją formą. Pranešime apie koncentraciją turi būti pateikta Konkurencijos tarybos nustatytoje pranešimo apie koncentraciją formoje nurodyta informacija, įskaitant šią informaciją:
 
 
 1) koncentracijoje dalyvaujančių ūkio subjektų registravimo duomenys;
@@ -517,24 +521,27 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 
-4) kiekvieno koncentracijoje dalyvaujančio ūkio subjekto paskutinių trejų metų iki koncentracijos laikotarpio metinių finansinių ataskaitų rinkiniai;
+4) kiekvieno koncentracijoje dalyvaujančio ūkio subjekto paskutinių vienų metų iki koncentracijos laikotarpio metinių finansinių ataskaitų rinkiniai;
 
 
 
 
-5) duomenys apie kiekvieno koncentracijoje dalyvaujančio ūkio subjekto arba kontroliuojančių asmenų nuosavybei priklausančias įmones, taip pat įmones, kurių jie yra akcininkai arba pajininkai;
+5) duomenys apie kiekvieno koncentracijoje dalyvaujančio ūkio subjekto arba kontroliuojančių asmenų nuosavybei priklausančias įmones, taip pat įmones, kurių akcininkai arba pajininkai jie yra;
 
 
 
 
-6) kiekvieno koncentracijoje dalyvaujančio ūkio subjekto pirktų ir parduotų prekių kiekis per paskutinių trejų metų iki koncentracijos laikotarpį ir jų rinkos dalies atitinkamoje rinkoje įvertinimas;
+6) kiekvieno koncentracijoje dalyvaujančio ūkio subjekto rinkos dalies atitinkamoje rinkoje įvertinimas;
 
 
 
 
-7) kiekvieno koncentracijoje dalyvaujančio ūkio subjekto didžiausių pirkėjų ir tiekėjų bei pagrindinių konkurentų atitinkamose rinkose sąrašas.
+7) kiekvieno koncentracijoje dalyvaujančio ūkio subjekto pagrindinių konkurentų atitinkamose rinkose sąrašas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
@@ -544,7 +551,10 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 
-5. Jeigu teikiamas pranešimas dėl numatomos įvykdyti koncentracijos, kurioje dalyvauja komerciniai bankai ar kitos kredito įstaigos, Konkurencijos tarybai pateikiama ir Lietuvos banko išvada.
+5. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
@@ -591,7 +601,10 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 
-2. Konkurencijos taryba išnagrinėja pagal nustatytus reikalavimus pateiktus pranešimus apie koncentraciją ir priima šio įstatymo 12 straipsnio 1 dalyje nurodytus nutarimus ne vėliau kaip per keturis mėnesius. Šis laikotarpis prasideda kitą dieną po nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo. Jeigu pranešimas apie koncentraciją neatitinka nustatytų reikalavimų, Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis.
+2. Konkurencijos taryba išnagrinėja pagal nustatytus reikalavimus pateiktus pranešimus apie koncentraciją ir priima šio įstatymo 12 straipsnio 1 dalyje nurodytus nutarimus ne vėliau kaip per keturis mėnesius, išskyrus atvejus, kai šis terminas sustabdomas pagal šio straipsnio 6 dalį. Šis laikotarpis prasideda kitą dieną po nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo. Jeigu pranešimas apie koncentraciją neatitinka nustatytų reikalavimų, Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
@@ -607,6 +620,13 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 5. Konkurencijos taryba, nagrinėdama pranešimus apie koncentraciją, turi teisę gauti iš ūkio subjektų, kontroliuojančių asmenų ir viešojo administravimo subjektų informaciją, žodinius ir rašytinius paaiškinimus, reikalingus nutarimui dėl koncentracijos priimti.
+
+
+
+
+6. Konkurencijos taryba, nagrinėdama pranešimą apie koncentraciją, gali sustabdyti šio straipsnio 2 dalyje nurodytą terminą, jeigu bent vienas iš koncentracijoje dalyvaujančių ar su jais susijusių ūkio subjektų per Konkurencijos tarybos nustatytą terminą nepateikia pranešimui apie koncentraciją nagrinėti reikalingos informacijos arba pateikia ją ne visą. Konkurencijos taryba ne vėliau kaip per 7 darbo dienas nuo termino pateikti informaciją pasibaigimo priima motyvuotą sprendimą sustabdyti šio straipsnio 2 dalyje nurodytą terminą ir apie tai raštu informuoja koncentracijoje dalyvaujančius ūkio subjektus. Termino sustabdymas skaičiuojamas nuo kitos darbo dienos, kai pasibaigia nustatytas terminas pateikti informaciją, iki tos darbo dienos, kai Konkurencijos taryba gauna visą informaciją. Konkurencijos taryba ne vėliau kaip per 7 darbo dienas nuo visos informacijos gavimo priima sprendimą dėl termino sustabdymo pasibaigimo ir apie tai raštu informuoja koncentracijoje dalyvaujančius ūkio subjektus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
  
 
 
@@ -637,17 +657,33 @@ KONCENTRACIJOS PRIEŽIŪRA
 
 
 
-2. Konkurencijos tarybos nutarime, numatytame šio straipsnio 1 dalies 2 ar 3 punkte, nurodomi koncentracijos vykdymo sąlygų ir įpareigojimų nustatymo ar atsisakymo duoti leidimą vykdyti koncentraciją motyvai. Priimdama šį nutarimą, Konkurencijos taryba turi teisę remtis tik tokiais motyvais, dėl kurių turėjo galimybę duoti paaiškinimus koncentracijoje dalyvaujantys ūkio subjektai ar kontroliuojantys asmenys.
+2. Konkurencijos taryba, prieš priimdama šio straipsnio 1 dalies 3 punkte nurodytą nutarimą, koncentracijoje dalyvaujantiems ūkio subjektams ar kontroliuojantiems asmenims raštu pateikia motyvuotas pranešimo apie koncentraciją nagrinėjimo išvadas ir nuo šių išvadų pateikimo momento sudaro galimybę susipažinti su pranešimo apie koncentraciją nagrinėjimo medžiaga, išskyrus tarnybinio naudojimo dokumentus ir kitų ūkio subjektų komercines bei profesines paslaptis sudarančią informaciją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
 
-3. Apie Konkurencijos tarybos nutarimus raštu pranešama asmenims, pateikusiems pranešimus apie koncentraciją. Jeigu Konkurencijos taryba per šio įstatymo 11 straipsnio 2 dalyje nurodytą terminą nepriima šio straipsnio 1 dalyje nurodytų nutarimų, ūkio subjektai ar kontroliuojantys asmenys turi teisę vykdyti koncentraciją pagal pranešime apie koncentraciją nurodytas sąlygas.
+3. Konkurencijos tarybos nutarime, numatytame šio straipsnio 1 dalies 2 ar 3 punkte, nurodomi koncentracijos vykdymo sąlygų ir įpareigojimų nustatymo ar atsisakymo duoti leidimą vykdyti koncentraciją motyvai. Priimdama šį nutarimą, Konkurencijos taryba turi teisę remtis tik tokiais motyvais, dėl kurių turėjo galimybę duoti paaiškinimus koncentracijoje dalyvaujantys ūkio subjektai ar kontroliuojantys asmenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
 
 
 
 
-4. Šiame straipsnyje nustatyti Konkurencijos tarybos nutarimai skelbiami Konkurencijos tarybos interneto svetainėje.
+4. Apie Konkurencijos tarybos nutarimus raštu pranešama asmenims, pateikusiems pranešimus apie koncentraciją. Jeigu Konkurencijos taryba per šio įstatymo 11 straipsnio 2 dalyje nurodytą terminą nepriima šio straipsnio 1 dalyje nurodytų nutarimų, ūkio subjektai ar kontroliuojantys asmenys turi teisę vykdyti koncentraciją pagal pranešime apie koncentraciją nurodytas sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+ 
+
+
+
+
+5. Šiame straipsnyje nustatyti Konkurencijos tarybos nutarimai skelbiami Konkurencijos tarybos interneto svetainėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
  
 
 
@@ -2930,3 +2966,8 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18, 22, 26, 27, 30, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-193, 2017-01-12, paskelbta TAR 2017-01-18, i. k. 2017-01075
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 9, 11 ir 12 straipsnių pakeitimo įstatymas
