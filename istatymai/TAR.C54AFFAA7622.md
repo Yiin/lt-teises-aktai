@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -3399,8 +3399,6 @@ c) ėmėsi techninių, organizacinių, personalo valdymo priemonių, skirtų tol
 1) kainos ar sąnaudų ir kokybės santykį. Vertinant atsižvelgiama į kainą arba sąnaudas ir kriterijus, susijusius su pirkimo objektu, įskaitant kokybinius, aplinkosaugos ir (arba) socialinius kriterijus, pavyzdžiui:
 
 
-a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas (pavyzdžiui, taikant šį kriterijų gali būti vertinama, kiek tiekėjo siūlomas atlyginimas pirkimo sutartį vykdysiantiems darbuotojams viršija jo arba ūkio subjekto, kurio pajėgumais remiamasi, kilmės šalyje nustatytą minimalų darbo užmokestį); 
-1 punkto a papunkčio  redakcija nuo 2018-01-01:
 a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas. Darbų pirkimuose privaloma įtraukti šį kriterijų įvertinant, kiek tiekėjo siūlomas atlyginimas pirkimo sutartį vykdysiantiems darbuotojams viršija jo arba ūkio subjekto, kurio pajėgumais remiamasi, kilmės šalyje nustatytą minimalų darbo užmokestį;
 
 
@@ -6756,7 +6754,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
- 
  
  
 Lietuvos Respublikos
@@ -7001,6 +6998,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODY
 
  
  
+ 
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
 2 priedas 
@@ -7101,6 +7099,7 @@ SOCIALINĖS IR KITOS SPECIALIOSIOS PASLAUGOS
 
  
  
+ 
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -7231,6 +7230,7 @@ KVIETIMO PATEIKTI PASIŪLYMĄ, DALYVAUTI DIALOGE IR KVIETIMO PATVIRTINTI SUSIDOM
  
  
  
+ 
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo 
 4 priedas
@@ -7283,7 +7283,7 @@ Pasiūlymų, paraiškų, projekto konkursų planų ir projektų elektroninės ga
 
 
  
- 
+ 
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -7356,6 +7356,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 17 STRAIPSNIO 2 DALIES 2 PUN
 
 
 
+ 
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -7644,6 +7645,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 4 STRAIPSNIO 1 DALIES 1 PUNK
 
  
  
+ 
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
