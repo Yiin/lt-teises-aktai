@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -336,7 +336,10 @@ Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
 
 
 
-10. Kitų teismų teisėjų skaičių nustato Respublikos Prezidentas Teisėjų tarybos patarimu.
+10. Kitų teismų teisėjų skaičių nustato Respublikos Prezidentas Teisėjų tarybos patarimu. Kai teismas sudarytas iš teismo rūmų, teisėjų skaičių teismo rūmuose nustato Respublikos Prezidentas Teisėjų tarybos patarimu.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
@@ -384,12 +387,19 @@ APYLINKIŲ TEISMAI
 14 straipsnis. Apylinkės teismas
 
 
-Apylinkės teismas susideda iš šio teismo pirmininko, pirmininko pavaduotojo (pavaduotojų) ir kitų teisėjų. Teismo pirmininko pavaduotojas gali būti skiriamas apylinkės teisme, kuriame yra ne mažiau kaip dešimt teisėjų. Apylinkės teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti skiriami du teismo pirmininko pavaduotojai, apylinkės teisme, kuriame yra daugiau kaip penkiasdešimt teisėjų, – trys teismo pirmininko pavaduotojai, apylinkės teisme, kuriame yra daugiau kaip aštuoniasdešimt teisėjų, – keturi teismo pirmininko pavaduotojai.
+1. Apylinkės teismas susideda iš šio teismo pirmininko, pirmininko pavaduotojo (pavaduotojų) ir kitų teisėjų. Teismo pirmininko pavaduotojas gali būti skiriamas apylinkės teisme, kuriame yra ne mažiau kaip dešimt teisėjų. Apylinkės teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti skiriami du teismo pirmininko pavaduotojai, apylinkės teisme, kuriame yra daugiau kaip penkiasdešimt teisėjų, – trys teismo pirmininko pavaduotojai, apylinkės teisme, kuriame yra daugiau kaip aštuoniasdešimt teisėjų, – keturi teismo pirmininko pavaduotojai.
+
+
+
+
+2. Apylinkės teismas gali būti sudarytas iš teritorinių padalinių – apylinkės teismo rūmų. Apylinkės teismo rūmų skaičių, veiklos teritorijas ir apylinkės teismo rūmus, kuriuose yra teismo buveinė, nustato įstatymas.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1845, 2011-12-22, Žin., 2012, Nr. 6-181 (2012-01-10)
 Nr. XI-2313, 2012-11-06, Žin., 2012, Nr. 132-6641 (2012-11-15)
+Straipsnio pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
@@ -717,10 +727,17 @@ APYGARDŲ ADMINISTRACINIAI TEISMAI
 28 straipsnis. Apygardos administracinis teismas
 
 
-Apygardos administracinis teismas susideda iš šio teismo pirmininko, pirmininko pavaduotojo (-ų) ir kitų teisėjų. Teismo pirmininko pavaduotojas gali būti skiriamas teisme, kuriame yra ne mažiau kaip dešimt teisėjų. Apygardos administraciniame teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti skiriami du pirmininko pavaduotojai. 
+1. Apygardos administracinis teismas susideda iš šio teismo pirmininko, pirmininko pavaduotojo (pavaduotojų) ir kitų teisėjų. Teismo pirmininko pavaduotojas gali būti skiriamas teisme, kuriame yra ne mažiau kaip dešimt teisėjų. Apygardos administraciniame teisme, kuriame yra daugiau kaip dvidešimt teisėjų, gali būti skiriami du pirmininko pavaduotojai. 
+
+
+
+
+2. Apygardos administracinis teismas gali būti sudarytas iš teritorinių padalinių – apygardos administracinio teismo rūmų. Apygardos administracinio teismo rūmų skaičių, veiklos teritorijas ir apygardos administracinio teismo rūmus, kuriuose yra teismo buveinė, nustato įstatymas.
+
+
+Straipsnio pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
-
-
 
 
 
@@ -890,22 +907,39 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 
 
 
-2. Jeigu teisėjas byloje yra proceso šalis, o ta byla teisminga teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju (išskyrus Aukščiausiąjį Teismą, Apeliacinį teismą ir Vyriausiąjį administracinį teismą), aukštesnės pakopos teismo pirmininkas perduoda šią bylą nagrinėti kitam tos pačios pakopos teismui. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai. 
+2. Jeigu teisėjas byloje yra proceso šalis ir ta byla teisminga teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju (išskyrus Aukščiausiąjį Teismą, Apeliacinį teismą ir Vyriausiąjį administracinį teismą), aukštesnės pakopos teismo pirmininkas perduoda šią bylą nagrinėti kitam tos pačios pakopos teismui, išskyrus šio straipsnio 3 dalyje nurodytą atvejį. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai. 
 
 
 
 
-3. Teisėjas negali atlikti veiksmų, susijusių su išieškojimo nukreipimu į jo ar šio straipsnio 2 dalyje nurodytų asmenų turtą. Tokiu atveju apylinkės teismo pirmininkas šiuos veiksmus atlikti paveda kitam to paties teismo teisėjui.
+3. Jeigu teisėjas byloje yra proceso šalis ir ta byla teisminga iš teismo rūmų sudarytam teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, tokio teismo pirmininkas perduoda šią bylą nagrinėti to teismo kitiems teismo rūmams, kuriems šie asmenys nėra priskirti. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai. 
 
 
 
 
-4. Teismuose gali būti nustatyta teisėjų specializacija tam tikrų kategorijų byloms nagrinėti. Teisėjų specializacijos nustatymo tvarkos aprašą ir pagrindus tvirtina Teisėjų taryba.
+4. Jeigu teismo pirmininkas ar teismo pirmininko pavaduotojas byloje yra proceso šalis ir ta byla teisminga iš teismo rūmų sudarytam teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, aukštesnės pakopos teismo pirmininkas perduoda šią bylą nagrinėti kitam tos pačios pakopos teismui. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teismo pirmininko ar teismo pirmininko pavaduotojo giminaičiai.
+
+
+
+
+5. Teisėjas negali atlikti veiksmų, susijusių su išieškojimo nukreipimu į jo ar šio straipsnio 2 dalyje nurodytų asmenų turtą. Tokiu atveju apylinkės teismo pirmininkas šiuos veiksmus atlikti paveda kitam to paties teismo teisėjui.
+
+
+
+
+6. Teismuose gali būti nustatyta teisėjų specializacija tam tikrų kategorijų byloms nagrinėti. Teisėjų specializacijos nustatymo tvarkos aprašą ir pagrindus tvirtina Teisėjų taryba.
+
+
+
+
+7. Teismo posėdžiai vyksta teismo, kurio teisėjas ar teisėjai nagrinėja bylą, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, kuriems yra priskirtas bylą nagrinėjantis teisėjas ar teisėjai, patalpose, išskyrus žodinio bylos nagrinėjimo atvejus, kai byla operatyviau ir ekonomiškiau bus išnagrinėta kitose patalpose, konkrečiai – pagal daugumos įrodymų buvimo vietą arba proceso dalyvių ar daugumos proceso dalyvių gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su nagrinėjama byla, buvimo vietą, arba pagal ginčijamo sprendimo priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas sprendimas, vietą.
 
 
 Straipsnio pakeitimai:
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 Nr. XI-1845, 2011-12-22, Žin., 2012, Nr. 6-181 (2012-01-10)
+Straipsnio pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
@@ -933,7 +967,10 @@ Nr. XI-1845, 2011-12-22, Žin., 2012, Nr. 6-181 (2012-01-10)
 
 
 
-36 straipsnis. Teismo sudėtis
+36 straipsnis. Teismo sudėtis ir bylų paskirstymo taisyklės 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 1. Apylinkės teisme bylas nagrinėja vienas teisėjas, turintis visus proceso įstatymuose numatytus teismo įgaliojimus. Įstatymų nustatytais atvejais apylinkės teisme bylas gali nagrinėti trijų teisėjų kolegija.
@@ -986,7 +1023,10 @@ Nr. XI-1845, 2011-12-22, Žin., 2012, Nr. 6-181 (2012-01-10)
 
 
 
-11. Bylų paskirstymo teisėjams ir teisėjų kolegijų sudarymo taisyklės turi užtikrinti, kad bylos teisėjams būtų paskirstomos ir teisėjų kolegijos būtų sudaromos atsižvelgiant į teisėjų specializaciją, darbo krūvio tolygumą, bylų sudėtingumą, teisėjų kolegijų sudėties rotaciją, tos pačios sudėties teisėjų kolegijos maksimalią veiklos trukmę, įstatymuose numatytus draudimus teisėjui nagrinėti konkrečią bylą, teisėjo ar teisėjų kolegijos sudėties pakeitimą, teisėjų nušalinimo ar nusišalinimo aplinkybes, laikinojo nedarbingumo, atostogų ar komandiruotės atvejus.
+11. Kai teismas yra sudarytas iš teismo rūmų, teisėjų kolegija sudaroma iš teisėjų, kurie paskirti į tuos pačius teismo rūmus. Bylų paskirstymo teisėjams ir teisėjų kolegijų sudarymo taisyklės turi užtikrinti, kad bylos teisėjams būtų paskirstomos ir teisėjų kolegijos būtų sudaromos atsižvelgiant į teisėjų specializaciją, darbo krūvio tolygumą, bylų sudėtingumą, teisėjų kolegijų sudėties rotaciją, tos pačios sudėties teisėjų kolegijos maksimalią veiklos trukmę, įstatymuose numatytus draudimus teisėjui nagrinėti konkrečią bylą, teisėjo ar teisėjų kolegijos sudėties pakeitimą, teisėjų nušalinimo ar nusišalinimo aplinkybes, laikinojo nedarbingumo, atostogų ar komandiruotės atvejus. Kai teismas yra sudarytas iš teismo rūmų, bylų paskirstymo teisėjams ir teisėjų kolegijų sudarymo taisyklės taip pat turi užtikrinti, kad bylos būtų skiriamos teismo rūmų, kurie nustatomi mutatis mutandis taikant įstatymuose numatytas teritorinio teismingumo taisykles, teisėjams, išskyrus atvejus, kai byla nagrinėjama rašytinio proceso tvarka arba kai bylą operatyviau ir ekonomiškiau išnagrinės kitų teismo rūmų teisėjai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 Straipsnio pakeitimai:
@@ -1241,12 +1281,18 @@ TEISĖJŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
 
 
-4. Nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, apygardos teismo teisėjas proceso įstatymų nustatytais atvejais turi įgaliojimus nagrinėti visas bylas, teismingas apygardų teismams. 
+4. Nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, apygardos teismo arba apygardos administracinio teismo teisėjas proceso įstatymų nustatytais atvejais turi įgaliojimus nagrinėti visas bylas, teismingas apygardų teismams. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
 
-5. Kai teisėjas nagrinėja bylą, teismingą kitam teismui, ir dėl to jam reikia išvykti iš savo darbo vietos, teisėjo komandiruotės išlaidos, taip pat važiavimo išlaidos kompensuojamos Vyriausybės nustatyta tvarka.
+5. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 Straipsnio pakeitimai:
@@ -1375,7 +1421,10 @@ TEISĖJŲ NEPRIKLAUSOMUMO GARANTIJOS
 
 
 
-5. Teisėją perkelti į kitą tos pačios pakopos ar kitos jurisdikcijos teismą arba žemesnės pakopos teismą galima tik teisėjo sutikimu, išskyrus atvejus, numatytus šio Įstatymo 63 straipsnio 3, 5 ir 6 dalyse. 
+5. Teisėją perkelti į kitą tos pačios pakopos ar kitos jurisdikcijos teismą arba žemesnės pakopos teismą, arba į kitus teismo, kurio teisėju jis paskirtas, rūmus galima tik teisėjo sutikimu, išskyrus atvejus, numatytus šio Įstatymo 63 straipsnio 3, 5 ir 6 dalyse.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 Straipsnio pakeitimai:
@@ -1801,7 +1850,10 @@ Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 
 
 
-5. Pirmenybę į laisvą arba atsilaisvinsiančią apylinkės teismo teisėjo vietą turi teisėjai, siekiantys būti paskirti į kitą teismą šio Įstatymo 64 straipsnyje nustatyta tvarka, arba buvę teisėjai, siekiantys būti paskirti šio Įstatymo 61 straipsnyje nustatyta tvarka. Jeigu tokių pretendentų nėra, atrankoje, vadovaujantis šio straipsnio 3 dalyje nurodyta skelbimo ir organizavimo tvarka, dalyvauja teisėjai, pageidaujantys būti perkelti į kitą teismą šio Įstatymo 63 straipsnio 1 dalyje nustatyta tvarka, ir pretendentai į teisėjus. 
+5. Pirmenybę į laisvą arba atsilaisvinsiančią apylinkės teismo teisėjo vietą turi teisėjai, siekiantys būti paskirti į kitą teismą šio Įstatymo 64 straipsnyje nustatyta tvarka, arba buvę teisėjai, siekiantys būti paskirti šio Įstatymo 61 straipsnyje nustatyta tvarka. Jeigu tokių pretendentų nėra, atrankoje, vadovaujantis šio straipsnio 3 dalyje nurodyta skelbimo ir organizavimo tvarka, dalyvauja teisėjai, pageidaujantys būti perkelti į kitą teismą arba į kitus teismo, kurio teisėjais jie paskirti, rūmus šio Įstatymo 63 straipsnio 1 dalyje nustatyta tvarka, ir pretendentai į teisėjus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
@@ -1851,7 +1903,10 @@ TEISĖJŲ SKYRIMAS IR PRIESAIKA
 56 straipsnis. Apylinkės teismo teisėjo skyrimas
 
 
-1. Apylinkės teismo teisėją iš asmenų, įrašytų pretendentų į laisvas apylinkės teismo teisėjų vietas sąraše, skiria Respublikos Prezidentas. 
+1. Apylinkės teismo teisėją iš asmenų, įrašytų pretendentų į laisvas apylinkės teismo teisėjų vietas sąraše, skiria Respublikos Prezidentas. Kai apylinkės teismas yra sudarytas iš teismo rūmų, Respublikos Prezidentas, skirdamas apylinkės teismo teisėją, jį paskiria ir į konkrečius teismo rūmus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
@@ -2048,50 +2103,53 @@ Teisėjas negali būti skiriamas dirbti teisme ar teismo skyriuje, kuriame atiti
 
 
 TREČIASIS SKIRSNIS
-TEISĖJŲ PERKĖLIMAS Į KITUS TEISMUS, PASKYRIMAS
-KITŲ TEISMŲ TEISĖJAIS, JŲ KARJERA
+TEISĖJŲ PERKĖLIMAS Į KITUS TEISMUS AR TEISMO RŪMUS, PASKYRIMAS KITŲ TEISMŲ TEISĖJAIS. TEISĖJŲ KARJERA 
+ 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
-63 straipsnis. Teisėjo perkėlimas į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą
+63 straipsnis. Teisėjo perkėlimas į kitą tos pačios pakopos teismą, kitus teismo rūmus arba į kitos jurisdikcijos tos pačios pakopos teismą
 
 
-1. Apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas, praėjus ne mažiau kaip trejiems metams nuo paskyrimo į teisėjo pareigas, arba apylinkės teismo, apygardos administracinio teismo ar apygardos teismo pirmininkas, pasibaigus jo, kaip teismo pirmininko, įgaliojimų laikui, jo pageidavimu gali būti perkeltas teisėju į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą.
-
-
-
-
-2. Sprendžiant teisėjo perkėlimo į kitą teismą klausimą, šio straipsnio 1 dalyje numatytais atvejais taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. 
+1. Apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas, praėjus ne mažiau kaip trejiems metams nuo paskyrimo į teisėjo pareigas, arba apylinkės teismo, apygardos administracinio teismo ar apygardos teismo pirmininkas, pasibaigus jo, kaip teismo pirmininko, įgaliojimų laikui, jo pageidavimu gali būti perkeltas teisėju į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą.
 
 
 
 
-3. Kai pagal įstatymą teismai likviduojami arba reorganizuojami ir po teismų reorganizavimo sumažinamas reorganizavime dalyvavusio teismo teisėjų skaičius, šių teismų teisėjai perkeliami į kitus tos pačios pakopos teismus arba jų sutikimu paskiriami į žemesnės pakopos teismus. Teisėjai gali pareikšti pageidavimą būti perkeliami arba skiriami į atitinkamą teismą. Tais atvejais, kai į vieną teisėjo vietą pageidauja būti perkelti arba į žemesnės pakopos teismą paskirti du ar daugiau teisėjų, sprendžiant perkėlimo ar paskyrimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik tie teisėjai, kurie pareiškė pageidavimą dėl perkėlimo ar paskyrimo į atitinkamą teismą. 
+2. Sprendžiant teisėjo perkėlimo į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus klausimą, šio straipsnio 1 dalyje numatytais atvejais taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka.
 
 
 
 
-4. Teisėjų tarybai konstatavus poreikį, apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas jo sutikimu gali būti nuolat perkeltas teisėju į kitą tos pačios pakopos arba į kitos jurisdikcijos tos pačios pakopos teismą. Jeigu šioje dalyje numatytu atveju į vieną teisėjo vietą pageidauja būti perkelti du ar daugiau teisėjų, sprendžiant perkėlimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik tie teisėjai, kurie pageidauja būti perkelti į kitą teismą šioje dalyje nustatyta tvarka. 
+3. Kai pagal įstatymą teismai likviduojami arba reorganizuojami ir po teismų reorganizavimo sumažinamas reorganizavime dalyvavusio teismo teisėjų skaičius, šių teismų teisėjai perkeliami į kitus tos pačios pakopos teismus arba jų sutikimu paskiriami į žemesnės pakopos teismus. Teisėjai gali pareikšti pageidavimą būti perkeliami arba skiriami į atitinkamą teismą. Tais atvejais, kai į vieną teisėjo vietą pageidauja būti perkelti arba į žemesnės pakopos teismą paskirti du ar daugiau teisėjų, sprendžiant perkėlimo ar paskyrimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik tie teisėjai, kurie pareiškė pageidavimą dėl perkėlimo ar paskyrimo į atitinkamą teismą.
 
 
 
 
-5. Teisėjų tarybai konstatavus esminį darbo krūvio skirtumą teismuose, apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas gali būti be jo sutikimo nuolat perkeltas į kitą tos pačios pakopos arba į kitos jurisdikcijos tos pačios pakopos teismą, esantį toje pačioje gyvenamojoje vietovėje, ir kai nė vienas teisėjas nesutinka būti perkeltas šio straipsnio 4 dalyje nustatyta tvarka. Tokiu atveju perkeliamas mažiausią teisėjo darbo stažą turintis teisėjas iš teismo, kuriame nustatytas mažiausias darbo krūvis. 
+4. Teisėjų tarybai konstatavus poreikį, apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas jo sutikimu gali būti nuolat perkeltas teisėju į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą. Jeigu šioje dalyje numatytu atveju į vieną teisėjo vietą pageidauja būti perkelti du ar daugiau teisėjų, sprendžiant perkėlimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik tie teisėjai, kurie pageidauja būti perkelti į kitą teismą arba į kitus to paties teismo, kurio teisėjais jie paskirti, rūmus šioje dalyje nustatyta tvarka.
 
 
 
 
-6. Teisėjo sutikimo nereikia, kai dėl laikino pobūdžio priežasčių (teisėjas serga, yra laisva teisėjo vieta, padidėjęs darbo krūvis teisme ar yra kitų priežasčių) Teisėjų taryba konstatuoja poreikį teisėją laikinai perkelti į kitą teismą, kad būtų užtikrintas tinkamas to teismo funkcionavimas. Šioje dalyje nustatytais atvejais galima laikinai perkelti teisėją į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą, apygardos teismo teisėją – į apylinkės teismą, Apeliacinio teismo teisėją – į apygardos teismą ir Vyriausiąjį administracinį teismą, Vyriausiojo administracinio teismo teisėją – į apygardos administracinį teismą ir Apeliacinį teismą, Aukščiausiojo Teismo teisėją – į Apeliacinį teismą. Taip perkeltam teisėjui mokamas ankstesnis atlyginimas, skaičiuojamas to teismo, iš kurio teisėjas perkeltas, skaičiuojamas teisėjo darbo stažas ir paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos. Šioje dalyje nustatyta tvarka perkelti teisėją galima ne ilgesniam kaip vienerių metų laikotarpiui ir ne dažniau kaip kartą per trejus metus.
+5. Teisėjų tarybai konstatavus esminį darbo krūvio skirtumą teismuose, apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas gali būti be jo sutikimo nuolat perkeltas į kitą tos pačios pakopos arba į kitos jurisdikcijos tos pačios pakopos teismą, esantį toje pačioje gyvenamojoje vietovėje, ir kai nė vienas teisėjas nesutinka būti perkeltas šio straipsnio 4 dalyje nustatyta tvarka. Šiuo atveju perkeliamas mažiausią teisėjo darbo stažą turintis teisėjas iš teismo, kuriame nustatytas mažiausias darbo krūvis.
 
 
 
 
-7. Šio straipsnio 5 ir 6 dalyse nustatytais atvejais teisėjas perkeliamas į kitą teismą laikantis šiame Įstatyme nustatytos teisėjo skyrimo į pareigas ir atleidimo iš pareigų tvarkos, netaikant šio Įstatymo 551 straipsnyje nustatytos atrankos tvarkos. 
+6. Teisėjo sutikimo nereikia, kai dėl laikino pobūdžio priežasčių (teisėjas serga, yra laisva teisėjo vieta, padidėjęs darbo krūvis teisme ar yra kitų priežasčių) Teisėjų taryba konstatuoja poreikį teisėją laikinai perkelti į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, kad būtų užtikrintas tinkamas to teismo ar teismo rūmų funkcionavimas. Šioje dalyje nustatytais atvejais galima laikinai perkelti teisėją į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą, apygardos teismo teisėją – į apylinkės teismą, Apeliacinio teismo teisėją – į apygardos teismą ir Vyriausiąjį administracinį teismą, Vyriausiojo administracinio teismo teisėją – į apygardos administracinį teismą ir Apeliacinį teismą, Aukščiausiojo Teismo teisėją – į Apeliacinį teismą. Taip perkeltam teisėjui mokamas ankstesnis atlyginimas, skaičiuojamas to teismo, iš kurio teisėjas perkeltas, teisėjo darbo stažas ir paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos. Šioje dalyje nustatyta tvarka perkelti teisėją galima ne ilgesniam kaip vienerių metų laikotarpiui ir ne dažniau kaip kartą per trejus metus.
 
 
 
 
-8. Sprendžiant dėl teisėjo perkėlimo šio straipsnio 6 dalyje numatytais atvejais, įvertinamas perkeliamo teisėjo darbo stažas, specializacija, šeiminė padėtis, atstumas nuo teisėjo gyvenamosios vietovės iki teismo, į kurį teisėjas yra perkeliamas, teisėjo nuomonė ir argumentai dėl galimo perkėlimo, taip pat kitos esminės aplinkybės.
+7. Šio straipsnio 5 ir 6 dalyse nustatytais atvejais teisėjas perkeliamas į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus laikantis šiame Įstatyme nustatytos teisėjų skyrimo į pareigas ir atleidimo iš pareigų tvarkos, netaikant šio Įstatymo 551 straipsnyje nustatytos atrankos tvarkos.
+
+
+
+
+8. Sprendžiant dėl teisėjo perkėlimo šio straipsnio 6 dalyje numatytais atvejais, įvertinamas perkeliamo teisėjo darbo stažas, specializacija, šeiminė padėtis, atstumas nuo teisėjo gyvenamosios vietovės iki teismo ar teismo rūmų, į kuriuos teisėjas yra perkeliamas, teisėjo nuomonė ir argumentai dėl galimo perkėlimo, taip pat kitos esminės aplinkybės.
 
 
 
@@ -2101,7 +2159,7 @@ KITŲ TEISMŲ TEISĖJAIS, JŲ KARJERA
 
 
 
-10. Teisėjas laikomas perkeltu į kitą teismą nuo Respublikos Prezidento dekreto dėl teisėjo perkėlimo įsigaliojimo dienos.
+10. Teisėjas laikomas perkeltu į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus nuo Respublikos Prezidento dekreto dėl teisėjo perkėlimo įsigaliojimo dienos.
 
 
 Straipsnio pakeitimai:
@@ -2111,6 +2169,8 @@ Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 Nr. XII-543, 2013-10-08, Žin., 2013, Nr. 109-5363 (2013-10-17)
+Straipsnio pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
@@ -2158,7 +2218,10 @@ Nr. XII-543, 2013-10-08, Žin., 2013, Nr. 109-5363 (2013-10-17)
 65 straipsnis. Teisėjų karjeros siekiančių asmenų registras ir duomenų bazės
 
 
-1. Asmuo, siekiantis tapti aukštesnės pakopos teismo teisėju, įrašomas į teisėjų karjeros siekiančių asmenų registrą. Teisėjas, pageidaujantis būti perkeltas į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą, įrašomas į teisėjų, pageidaujančių būti perkeltais į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą, duomenų bazę. Teisėjas, siekiantis karjeros tos pačios pakopos teismuose, įrašomas į teisėjų, siekiančių karjeros tos pačios pakopos teismuose, duomenų bazę. 
+1. Asmuo, siekiantis tapti aukštesnės pakopos teismo teisėju, įrašomas į teisėjų karjeros siekiančių asmenų registrą. Teisėjas, pageidaujantis būti perkeltas į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą, įrašomas į teisėjų, pageidaujančių būti perkeltais į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėjais jie paskirti, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą, duomenų bazę. Teisėjas, siekiantis karjeros tos pačios pakopos teismuose, įrašomas į teisėjų, siekiančių karjeros tos pačios pakopos teismuose, duomenų bazę.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
@@ -2279,7 +2342,10 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 70 straipsnis. Apygardos teismo, apygardos administracinio teismo teisėjo skyrimas
 
 
-1. Apygardos teismo, apygardos administracinio teismo teisėją iš įrašytų teisėjų karjeros siekiančių asmenų registre asmenų skiria Respublikos Prezidentas. 
+1. Apygardos teismo, apygardos administracinio teismo teisėją iš įrašytų teisėjų karjeros siekiančių asmenų registre asmenų skiria Respublikos Prezidentas. Kai apygardos administracinis teismas yra sudarytas iš teismo rūmų, Respublikos Prezidentas, skirdamas apygardos administracinio teismo teisėją, jį paskiria ir į konkrečius teismo rūmus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
@@ -2555,7 +2621,10 @@ statusas
 
 
 
-4. Teisėjas tos pačios pakopos teisme į tas pačias – teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko – pareigas gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Po dviejų iš eilės kadencijų teisėjas į tos pačios pakopos teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko pareigas gali būti skiriamas, jei po jo antros kadencijos pabaigos yra praėję ne mažiau kaip penkeri metai.
+4. Teisėjas į tas pačias – teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko – pareigas tame pačiame teisme gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Po dviejų iš eilės kadencijų teisėjas į tas pačias – teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko – pareigas tame pačiame teisme gali būti skiriamas, jei po jo antros kadencijos pabaigos yra praėję ne mažiau kaip penkeri metai.
+Straipsnio dalies pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 Straipsnio pakeitimai:
@@ -3480,32 +3549,27 @@ Nr. IX-1014, 2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
 
 
 
-2. (Neteko galios nuo 2008 m. rugsėjo 1 d.)
+2. Teisėjui, paskirtam žemesnės pakopos teismo teisėju šio Įstatymo 63 straipsnio 3 dalyje numatytu atveju, tris mėnesius, bet ne ilgiau, negu jam sukaks 65 metai, arba ne ilgiau, negu pasibaigs šio Įstatymo 57 straipsnio 1 dalyje nustatyta tvarka pratęsti teisėjo įgaliojimai, mokamas atlyginimas kaip aukštesnės pakopos teismo, kurio teisėju jis dirbo iki paskyrimo žemesnės pakopos teismo teisėju, teisėjui.
 
 
 
 
-3. Teisėjui, paskirtam žemesnės pakopos teismo teisėju šio Įstatymo 63 straipsnio 3 dalyje numatytu atveju, tris mėnesius mokamas ankstesnis atlyginimas.
+3. Teisėjui, perkeltam į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus šio Įstatymo 63 straipsnio 6 dalyje numatytu atveju, Vyriausybės nustatyta tvarka kompensuojamos su perkėlimu susijusios išlaidos. 
 
 
 
 
-4. Teisėjui, perkeltam į kitą teismą šio Įstatymo 63 straipsnio 6 dalyje numatytu atveju, Vyriausybės nustatyta tvarka kompensuojamos su perkėlimu susijusios išlaidos.
+4. Teisėjo, kuris buvo tyčia nužudytas dėl teisėjo pareigų atlikimo, šeimai, tai yra jo vaikams (įvaikiams) iki 18 metų, vaikams (įvaikiams) iki 24 metų, kurie yra nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai arba nuolatinių ar ištęstinių studijų programų studentai, taip pat gimusiems po teisėjo mirties jo vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, – lygiomis dalimis per trejus metus nuo teisėjo mirties valstybė sumoka 120 mėnesių jo mėnesinio atlyginimo (toliau – MA) dydžio išmoką.
 
 
 
 
-5. Teisėjo, kuris buvo tyčia nužudytas dėl teisėjo pareigų atlikimo, šeimai, tai yra jo vaikams (įvaikiams) iki 18 metų, vaikams (įvaikiams) iki 24 metų, kurie yra nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai arba nuolatinių ar ištęstinių studijų programų studentai, taip pat gimusiems po teisėjo mirties vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, – lygiomis dalimis per trejus metus nuo teisėjo mirties valstybė sumoka 120 mėnesių jo mėnesinio atlyginimo (toliau – MA) dydžio išmoką.
+5. Teisėjas, tyčia nužudytas dėl teisėjo pareigų atlikimo, laidojamas valstybės lėšomis, kurios negali viršyti 40 bazinių socialinių išmokų dydžio. Valstybės apmokamų laidojimo išlaidų aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-6. Teisėjas, tyčia nužudytas dėl teisėjo pareigų atlikimo, laidojamas valstybės lėšomis, kurios negali viršyti 40 bazinių socialinių išmokų dydžio. Valstybės apmokamų laidojimo išlaidų aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
-
-
-
-
-7. Teisėjui, kuriam buvo tyčia sutrikdyta sveikata dėl teisėjo pareigų atlikimo, valstybė sumoka kompensaciją pagal netekto darbingumo lygį ar sveikatos sutrikdymo sunkumą:
+6. Teisėjui, kuriam buvo tyčia sutrikdyta sveikata dėl teisėjo pareigų atlikimo, valstybė sumoka kompensaciją pagal netekto darbingumo lygį ar sveikatos sutrikdymo sunkumą:
 
 
 1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo, – 60 MA dydžio;
@@ -3535,17 +3599,22 @@ Nr. IX-1014, 2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
 
 
 
-8. Teisėjo tyčinio nužudymo ar tyčinio sveikatos sutrikdymo dėl teisėjo pareigų atlikimo faktinės aplinkybės nustatomos teismo sprendimu.
+7. Teisėjo tyčinio nužudymo ar tyčinio sveikatos sutrikdymo dėl teisėjo pareigų atlikimo faktinės aplinkybės nustatomos teismo sprendimu.
 
 
 
 
-9. Teisėjams užtikrinama galimybė valstybės lėšomis plėsti savo žinias, reikalingas teisėjo pareigoms atlikti, ir kelti profesinę kvalifikaciją.
+8. Teisėjams užtikrinama galimybė valstybės lėšomis plėsti savo žinias, reikalingas teisėjo pareigoms atlikti, ir kelti profesinę kvalifikaciją.
 
 
 
 
-10. Įstatymai gali numatyti ir kitokių teisėjų socialinių garantijų.
+9. Vyriausybės nustatyta tvarka kompensuojamos teisėjo komandiruotės išlaidos, taip pat važiavimo išlaidos, kai vykstama nagrinėti bylą kitose negu teismo, kurio teisėjas ar teisėjai nagrinėja bylą, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos yra paskirtas bylą nagrinėjantis teisėjas ar teisėjai, patalpose.
+
+
+
+
+10. Įstatymuose gali būti numatyta ir kitokių teisėjų socialinių garantijų.
 
 
 Straipsnio pakeitimai:
@@ -3553,6 +3622,8 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 Nr. X-1772, 2008-11-06, Žin., 2008, Nr. 131-5023 (2008-11-15)
 Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 Nr. XII-295, 2013-05-14, Žin., 2013, Nr. 57-2839 (2013-06-01)
+Straipsnio pakeitimai:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
@@ -3742,17 +3813,6 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
  
 
 
-106 straipsnis. Teismo personalas
-
-
-Teismo personalą sudaro teismo tarnautojai (valstybės tarnautojai), užtikrinantys tinkamą teismo funkcionavimą ir padedantys teisėjams eiti pavestas pareigas. 
-106 straipsnio redakcija nuo 2017-01-01:
-
-
-
-
-
-
 106 straipsnis. Teismo administravimas
 
 
@@ -3818,13 +3878,12 @@ Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
 107 straipsnis. Teismo administracijos struktūra
 
 
-1. Kiekvieno teismo administracijos struktūrą sudaro raštinė, archyvas, buhalterija (finansininkas), ūkio skyrius (ūkvedys). Teisme gali būti atskiros teismo skyrių raštinės, teismų praktikos analizės ir (ar) apibendrinimo padalinys, teismo priimamasis, biblioteka, informacijos, kodifikavimo ir kiti struktūriniai padaliniai. Kiekviename teisme turi būti asmuo, atsakingas už ryšius su visuomene, lietuvių kalbos specialistas ir teismo posėdžių sekretoriai. 
-TAR pastaba. 107 straipsnio 1 dalis įsigalioja 2017-01-01.
+1. Kiekvieno teismo administracijos struktūrą sudaro raštinė, archyvas, buhalterija (finansininkas), ūkio skyrius (ūkvedys). Teisme gali būti atskiros teismo skyrių raštinės, teismų praktikos analizės ir (ar) apibendrinimo padalinys, teismo priimamasis, biblioteka, informacijos, kodifikavimo ir kiti struktūriniai padaliniai. Kiekviename teisme turi būti asmuo, atsakingas už ryšius su visuomene, lietuvių kalbos specialistas ir teismo posėdžių sekretoriai. Teisme gali būti atskiros teismo rūmų raštinės, taip pat atskiri teismo rūmų priimamieji.
 
 
 
 
-2. Jeigu teisme nėra teismo priimamojo, turi būti nustatyta gyventojų priėmimo, jų skundų, prašymų, pareiškimų, nesusijusių su tuo metu nagrinėjamomis konkrečiomis bylomis, priėmimo, asmenų informavimo telefonu tvarka. Skundų ir prašymų nagrinėjimo administracines procedūras nustato Viešojo administravimo įstatymas ir Vyriausybės nutarimai.
+2. Jeigu teisme ar teismo rūmuose nėra teismo priimamojo, turi būti nustatyta gyventojų priėmimo, jų skundų, prašymų, pareiškimų, nesusijusių su tuo metu nagrinėjamomis konkrečiomis bylomis, priėmimo, asmenų informavimo telefonu tvarka. Skundų ir prašymų nagrinėjimo administracines procedūras nustato Viešojo administravimo įstatymas ir Vyriausybės nutarimai.
 
 
 
@@ -3834,11 +3893,12 @@ TAR pastaba. 107 straipsnio 1 dalis įsigalioja 2017-01-01.
 
 Straipsnio pakeitimai:
 Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
-Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17) 
+Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 Nr. XI-587, 2009-12-21, Žin., 2009, Nr. 154-6957 (2009-12-28))
 Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08)
 Straipsnio pakeitimai:
 Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
@@ -3954,6 +4014,14 @@ Nr. XII-748, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00013
 
 
 
+4) teismo teisėjų susirinkimas.
+Papildyta straipsnio punktu:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
+
+
+
+
 
 
 2. Teisėjų taryba ir Teisėjų garbės teismas už savo veiklą yra atskaitingi Visuotiniam teisėjų susirinkimui. 
@@ -3971,6 +4039,29 @@ Nr. XII-748, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00013
 
 Straipsnio pakeitimai:
 Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
+ 
+
+
+
+
+1141 straipsnis. Teismo teisėjų susirinkimas
+
+
+1. Teismo teisėjų susirinkime dalyvauja to teismo teisėjai.
+
+
+
+
+2. Teismo teisėjų susirinkimas teismo pirmininkui pataria teismo administravimo klausimais.
+
+
+
+
+3. Teismo teisėjų susirinkimų šaukimo periodiškumas ir darbo tvarka nustatoma teismo teisėjų susirinkimo darbo reglamente. Šį reglamentą tvirtina teismo teisėjų susirinkimas.
+
+
+Papildyta straipsniu:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
@@ -4275,6 +4366,14 @@ Teisėjų taryba:
 
 
 17) tvirtina Administravimo teismuose nuostatus, sprendžia kitus administravimo teismuose klausimus;
+
+
+
+
+171) tvirtina pavyzdinį teismo teisėjų susirinkimo darbo reglamentą;
+Papildyta straipsnio punktu:
+Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+ 
 
 
 
