@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-11-20
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -750,7 +750,10 @@ Teisingumo ministro leidimu antstoliui paskirtoje veiklos teritorijoje gali būt
 20 straipsnis. Antstolio (antstolių) kontoros adresas ir iškaba
 
 
-1. Apie kontoros adreso ar kitų rekvizitų pasikeitimą antstolis privalo pranešti Teisingumo ministerijai ir paskelbti šalies dienraštyje bei vietos laikraštyje, taip pat pranešti apylinkės teismui, kurio veiklos teritorijoje antstolis veikia. 
+1. Apie kontoros adreso ar kitų rekvizitų pasikeitimą antstolis privalo pranešti Teisingumo ministerijai ir paskelbti šalies dienraštyje bei vietos laikraštyje, taip pat pranešti apylinkės teismui, kurio veiklos teritorijoje yra antstolio kontoros buveinė. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
+ 
 
 
 
@@ -998,7 +1001,10 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 26 straipsnis. Antstolio veiklos teritorija
 
 
-1. Antstolio veiklos teritorija sutampa su vienos ar kelių apylinkių teismų veiklos teritorija. Antstolio veiklos teritoriją nustato teisingumo ministras. Vienoje veiklos teritorijoje gali dirbti keli antstoliai. 
+1. Antstolio veiklos teritoriją nustato teisingumo ministras. Vienoje veiklos teritorijoje gali dirbti keli antstoliai. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
+ 
 
 
 
@@ -1892,3 +1898,8 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 20 ir 26 straipsnių pakeitimo įstatymas
