@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/074c2b707e7311e6b969d7ae07280e89"
 
 # Lietuvos Respublikos pagalbinio apvaisinimo įstatymas
 
-Suvestinė redakcija nuo 2017-02-01
+Suvestinė redakcija nuo 2018-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23713
  
@@ -498,6 +498,14 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 
 
 7. Draudžiama naikinti pagalbinio apvaisinimo metu sukurtą ir į moters organizmą neperkeltą embrioną. Pagalbinio apvaisinimo metu sukurtas embrionas gali būti naudojamas tik moters pagalbiniam apvaisinimui. 
+Papildyta straipsnio dalimi:
+Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
+ 
+
+
+
+
+8. Valstybė įgyvendina embriono donorystės programą (toliau – Prenatalinio įvaikinimo programa). Vyriausybė parengia Prenatalinio įvaikinimo programą, paskiria ją koordinuojančią valstybės instituciją ir nustato šios programos finansavimą valstybės lėšomis. Prenatalinio įvaikinimo programą vykdo universiteto ligoninės, šio įstatymo nustatyta tvarka įgijusios teisę teikti licencijuojamas pagalbinio apvaisinimo ir lytinių ląstelių banko paslaugas. 
 Papildyta straipsnio dalimi:
 Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
  
