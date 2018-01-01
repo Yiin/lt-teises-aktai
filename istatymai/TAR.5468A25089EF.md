@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4"
 
 # Lietuvos Respublikos kibernetinio saugumo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-07-03
  
 Įstatymas paskelbtas: TAR 2014-12-23, i. k. 2014-20553
  
@@ -46,6 +46,13 @@ BENDROSIOS NUOSTATOS
 
 
 3. Šis įstatymas taikomas tiek, kiek šiame įstatyme reglamentuojamų visuomeninių santykių nereglamentuoja Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas, Lietuvos Respublikos elektroninių ryšių įstatymas, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas ir Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas.
+
+
+
+
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+Papildyta straipsnio dalimi:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
 
 
@@ -71,7 +78,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Kibernetinis incidentas – įvykis ar veika, kuri sukelia ar gali sukelti neteisėtą prisijungimą ar sudaryti sąlygas neteisėtai prisijungti prie informacinės sistemos, elektroninių ryšių tinklo ar pramoninių procesų valdymo sistemos, sutrikdyti ar pakeisti, įskaitant valdymo perėmimą, informacinės sistemos, elektroninių ryšių tinklo ar pramoninių procesų valdymo sistemos veikimą, sunaikinti, sugadinti, ištrinti ar pakeisti elektroninę informaciją, panaikinti ar apriboti galimybę naudotis elektronine informacija, taip pat sudaryti sąlygas pasisavinti ar kitaip panaudoti neviešą elektroninę informaciją tokios teisės neturintiems asmenims.
+4. Kibernetinis incidentas – įvykis ar veika kibernetinėje erdvėje, sudarantys ar galintys sudaryti galimybę ar sąlygas neteisėtai prisijungti prie informacinės sistemos, elektroninių ryšių tinklo ar pramoninių procesų valdymo sistemos, sutrikdyti ar pakeisti, įskaitant valdymo perėmimą, informacinės sistemos, elektroninių ryšių tinklo ar pramoninių procesų valdymo sistemos veikimą, sunaikinti, sugadinti, ištrinti ar pakeisti elektroninę informaciją, panaikinti ar apriboti galimybę naudotis elektronine informacija, taip pat sudaryti sąlygas pasisavinti ar kitaip panaudoti neviešą elektroninę informaciją tokios teisės neturintiems asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
@@ -135,20 +145,23 @@ KIBERNETINIO SAUGUMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 4 straipsnis. Kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos
 
 
-1. Kibernetinio saugumo politikos strateginius tikslus ir jiems pasiekti būtinas priemones nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+1. Kibernetinio saugumo politikos strateginius tikslus ir jiems pasiekti būtinas priemones nustato Lietuvos Respublikos Vyriausybė.
 
 
 
 
-2. Kibernetinio saugumo politiką formuoja, jos įgyvendinimą organizuoja, kontroliuoja ir koordinuoja Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija). Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija), Nacionalinis kibernetinio saugumo centras, Lietuvos Respublikos ryšių reguliavimo tarnyba (toliau – Ryšių reguliavimo tarnyba), Valstybinė duomenų apsaugos inspekcija ir Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) formuojant kibernetinio saugumo politiką dalyvauja tiek, kiek šiame įstatyme nustatytoms funkcijoms atlikti reikia nustatyti viešojo administravimo subjektų, valdančių valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojų, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų ir elektroninės informacijos prieglobos paslaugų teikėjų veiklos teisinį reguliavimą.
+2. Kibernetinio saugumo politiką formuoja, jos įgyvendinimą organizuoja, kontroliuoja ir koordinuoja Lietuvos Respublikos krašto apsaugos ministerija. Nacionalinis kibernetinio saugumo centras, Valstybinė duomenų apsaugos inspekcija ir Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) formuojant kibernetinio saugumo politiką dalyvauja tiek, kiek šiame įstatyme nustatytoms funkcijoms atlikti reikia nustatyti viešojo administravimo subjektų, valdančių valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojų, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų ir elektroninės informacijos prieglobos paslaugų teikėjų veiklos teisinį reguliavimą.
 
 
 
 
-3. Kibernetinio saugumo politiką pagal kompetenciją įgyvendina Vidaus reikalų ministerija, Nacionalinis kibernetinio saugumo centras, Ryšių reguliavimo tarnyba, Valstybinė duomenų apsaugos inspekcija ir Policijos departamentas.
+3. Kibernetinio saugumo politiką pagal kompetenciją įgyvendina Nacionalinis kibernetinio saugumo centras, Valstybinė duomenų apsaugos inspekcija ir Policijos departamentas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
-
-
 
 
 
@@ -210,22 +223,50 @@ Krašto apsaugos ministerija, formuodama kibernetinio saugumo politiką ir organ
 
 
 
-3) teikia Vyriausybei tvirtinti tipinius kibernetinių incidentų valdymo ypatingos svarbos informacinėse infrastruktūrose planus;
+3) rengia ir teikia Vyriausybei tvirtinti Ypatingos svarbos informacinės infrastruktūros identifikavimo metodiką ir ypatingos svarbos informacinės infrastruktūros ir (arba) šios infrastruktūros valdytojų sąrašą; 
+Papildyta straipsnio punktu:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+ 
 
 
 
 
-4) tvirtina ypatingos svarbos informacinių infrastruktūrų kibernetinės gynybos planus;
+4) teikia Vyriausybei tvirtinti tipinius kibernetinių incidentų valdymo ypatingos svarbos informacinėse infrastruktūrose planus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+ 
 
 
 
 
-5) rengia ir tvirtina Kibernetinio saugumo informacinio tinklo nuostatus;
+5) tvirtina ypatingos svarbos informacinių infrastruktūrų kibernetinės gynybos planus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+ 
 
 
 
 
-6) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
+6) rengia ir tvirtina Kibernetinio saugumo informacinio tinklo nuostatus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+ 
+
+
+
+
+7) tvirtina Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisykles; 
+Papildyta straipsnio punktu:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
+
+
+
+
+8) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
 
 
@@ -235,69 +276,18 @@ Krašto apsaugos ministerija, formuodama kibernetinio saugumo politiką ir organ
 
 
 
-7 straipsnis. Vidaus reikalų ministerijos įgaliojimai kibernetinio saugumo srityje 
-
-
-Vidaus reikalų ministerija:
-
-
-1) rengia ir teikia Vyriausybei tvirtinti Ypatingos svarbos informacinės infrastruktūros identifikavimo metodiką ir ypatingos svarbos informacinę infrastruktūrą ir (arba) šios infrastruktūros valdytojų sąrašą;
-
-
-
-
-2) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
+7 straipsnis. Neteko galios nuo 2018-01-01
+Straipsnio naikinimas:
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
  
 
 
 
 
-
-
-
-
-8 straipsnis. Ryšių reguliavimo tarnybos įgaliojimai kibernetinio saugumo srityje
-
-
-1. Ryšių reguliavimo tarnyba, įgyvendindama kibernetinio saugumo politiką, reguliuoja viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų ir elektroninės informacijos prieglobos paslaugų teikėjų veiklą kibernetinio saugumo užtikrinimo srityje ir pagal kompetenciją:
-
-
-1) rengia ir tvirtina informacijos apie kibernetinius incidentus ir taikytas šių incidentų valdymo priemones teikimo Ryšių reguliavimo tarnybai tvarkos ir sąlygų aprašą;
-
-
-
-
-2) rengia ir tvirtina organizacinius ir techninius reikalavimus, taikomus elektroninės informacijos prieglobos paslaugų saugumui ir vientisumui užtikrinti;
-
-
-
-
-3) rengia ir tvirtina techninės informacijos, reikalingos vertinti viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir (arba) elektroninės informacijos prieglobos paslaugų kibernetinio saugumo būseną, teikimo Ryšių reguliavimo tarnybai tvarkos ir sąlygų aprašą;
-
-
-
-
-4) atlieka viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų interneto prieigos tinklų infrastruktūros vientisumo tyrimus;
-
-
-
-
-5) atlieka viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir (arba) elektroninės informacijos prieglobos paslaugų kibernetinio saugumo būsenos tyrimus;
-
-
-
-
-6) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
-
-
-
-
-
-
-2. Ryšių reguliavimo tarnyba, siekdama užtikrinti viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų saugumą ir vientisumą, užkirsti kelią kibernetiniams incidentams plisti, mažinti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų, elektroninės informacijos prieglobos paslaugų teikėjų ir (arba) viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų gavėjų dėl kibernetinių incidentų patiriamos žalos atsiradimo riziką, turi teisę duoti privalomus nurodymus ir nustatyti nurodymų įvykdymo terminą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams ir (arba) elektroninės informacijos prieglobos paslaugų teikėjams. Ryšių reguliavimo tarnybos nurodymai turi būti motyvuoti ir proporcingi tikslui pasiekti.
+8 straipsnis. Neteko galios nuo 2018-01-01
+Straipsnio naikinimas:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
-
-
 
 
 
@@ -356,10 +346,15 @@ Vidaus reikalų ministerija:
 
 
 
-2. Nacionalinis kibernetinio saugumo centras, pagal kompetenciją įgyvendindamas kibernetinio saugumo politiką ir vykdydamas valstybės informacinių išteklių ir ypatingos svarbos informacinių infrastruktūrų kibernetinių incidentų valdymo padalinio veiklą:
+2. Nacionalinis kibernetinio saugumo centras, įgyvendindamas kibernetinio saugumo politiką ir vykdydamas valstybės informacinių išteklių ir ypatingos svarbos informacinių infrastruktūrų, viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinių incidentų valdymo padalinio veiklą: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
 
 
-1) pagal savo kompetenciją rengia ir teikia pasiūlymus krašto apsaugos ministrui dėl organizacinių ir techninių kibernetinio saugumo reikalavimų valstybės informaciniams ištekliams ir ypatingos svarbos informacinei infrastruktūrai;
+1) rengia ir teikia pasiūlymus krašto apsaugos ministrui dėl organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų valstybės informaciniams ištekliams ir ypatingos svarbos informacinei infrastruktūrai, viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų teikėjams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
@@ -374,7 +369,10 @@ Vidaus reikalų ministerija:
 
 
 
-4) teikia konsultacijas ir rekomendacijas valstybės informacinių išteklių valdytojams ir ypatingos svarbos infrastruktūros valdytojams kibernetinio saugumo klausimais;
+4) teikia konsultacijas ir rekomendacijas valstybės informacinių išteklių valdytojams, ypatingos svarbos informacinės infrastruktūros valdytojams, viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų teikėjams kibernetinio saugumo klausimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
@@ -404,12 +402,34 @@ Vidaus reikalų ministerija:
 
 
 
-10) laikydamasis krašto apsaugos ministro nustatytos tvarkos, reaguoja į kibernetinius incidentus valstybės informaciniuose ištekliuose ir ypatingos svarbos informacinėse infrastruktūrose;
+10) laikydamasis krašto apsaugos ministro nustatytos tvarkos, reaguoja į kibernetinius incidentus valstybės informaciniuose ištekliuose, ypatingos svarbos informacinėse infrastruktūrose, viešuosiuose ryšių tinkluose, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų teikimo infrastruktūrose; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
 
-11) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
+11) atlieka viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo būsenos tyrimus; 
+Papildyta straipsnio punktu:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
+
+
+
+
+12) Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisyklėse nustatyta tvarka praneša kitų Europos Sąjungos valstybių narių nacionalinėms reguliavimo institucijoms, Europos tinklų ir informacijos apsaugos agentūrai ir visuomenei apie šiose taisyklėse nurodytus viešojo ryšių tinklo ar jo dalies, viešųjų elektroninių ryšių paslaugų kibernetinius incidentus, turinčius didelę įtaką šių tinklų veikimui arba viešųjų elektroninių ryšių paslaugų teikimui; kaupia informaciją apie viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų teikėjų pranešimus apie šiuos incidentus ir įvykdytus veiksmus ir kiekvienais metais pateikia apibendrintą informaciją Europos Komisijai ir Europos tinklų ir informacijos apsaugos agentūrai; 
+Papildyta straipsnio punktu:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
+
+
+
+
+13) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
@@ -434,32 +454,58 @@ Vidaus reikalų ministerija:
 
 
 
-4) kibernetinio incidento metu duoti motyvuotus privalomus nurodymus, susijusius su kibernetinio saugumo užtikrinimu, viešojo administravimo subjektams, valdantiems ir (arba) tvarkantiems valstybės informacinius išteklius, ir ypatingos svarbos informacinės infrastruktūros valdytojams;
+4) duoti privalomus nurodymus, susijusius su kibernetinio saugumo užtikrinimu, ir nustatyti šių nurodymų įvykdymo terminą viešojo administravimo subjektams, valdantiems ir (arba) tvarkantiems valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojams, viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų teikėjams. Nacionalinio kibernetinio saugumo centro nurodymai turi būti motyvuoti ir proporcingi tikslui pasiekti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
 
-5) kibernetinio incidento metu taikyti būtinas kibernetinio saugumo užtikrinimo priemones;
+5) reikalauti, kad viešųjų ryšių tinklų ar viešųjų elektroninių ryšių paslaugų teikėjai savo lėšomis atliktų nepriklausomą viešųjų ryšių tinklų ar viešųjų elektroninių ryšių paslaugų saugumo auditą ir pateiktų šio audito rezultatus, jei jie Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisyklėse nustatyta tvarka nepateikia techninės informacijos, reikalingos viešųjų ryšių tinklų ar viešųjų elektroninių ryšių paslaugų kibernetinio saugumo būsenai įvertinti; 
+Papildyta straipsnio punktu:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
 
-6) siekdamas stabdyti kibernetinio incidento poveikį valstybės informacinių išteklių ar ypatingos svarbos informacinių infrastruktūrų kibernetiniam saugumui, be teismo sankcijos duoti motyvuotą nurodymą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams laikinai, bet ne ilgiau negu 48 valandoms apriboti viešųjų elektroninių ryšių paslaugų teikimą šių paslaugų gavėjui; Nacionalinis kibernetinio saugumo centras apie viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams pagal šį punktą duotus nurodymus ne vėliau kaip kitą darbo dieną informuoja Ryšių reguliavimo tarnybą;
+6) kibernetinio incidento metu taikyti būtinas kibernetinio saugumo užtikrinimo priemones;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
 
-7) pasitelkti į pagalbą informacinių technologijų ir kibernetinio saugumo specialistus;
+7) siekdamas stabdyti kibernetinio incidento poveikį valstybės informacinių išteklių ar ypatingos svarbos informacinių infrastruktūrų kibernetiniam saugumui, be teismo sankcijos duoti motyvuotą nurodymą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams laikinai, bet ne ilgiau negu 48 valandoms, apriboti viešųjų elektroninių ryšių paslaugų teikimą šių paslaugų gavėjui; Nacionalinis kibernetinio saugumo centras apie viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams pagal šį punktą duotus nurodymus ne vėliau kaip kitą darbo dieną informuoja Lietuvos Respublikos ryšių reguliavimo tarnybą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
 
-8) tvarkyti asmens duomenis, būtinus šio įstatymo ir kitų teisės aktų numatytoms funkcijoms kibernetinio saugumo užtikrinimo srityje atlikti;
+8) pasitelkti į pagalbą informacinių technologijų ir kibernetinio saugumo specialistus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
 
-9) kartu su verslo subjektais, mokslo ir studijų institucijomis ir kitais kibernetinio saugumo dalyviais plėtoti bendrus kibernetinio saugumo projektus.
+9) tvarkyti asmens duomenis, būtinus šio įstatymo ir kitų teisės aktų numatytoms funkcijoms kibernetinio saugumo užtikrinimo srityje atlikti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
+
+
+
+
+10) kartu su verslo subjektais, mokslo ir studijų institucijomis ir kitais kibernetinio saugumo dalyviais plėtoti bendrus kibernetinio saugumo projektus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
 
 
 
@@ -645,38 +691,50 @@ KIBERNETINIO SAUGUMO DALYVIŲ PAREIGOS
 
 
 
-15 straipsnis. Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų pareigos
+15 straipsnis. Viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų teikėjų pareigos
 
 
-Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai privalo:
+Viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų teikėjai privalo:
 
 
-1) viešai skelbti paslaugų gavėjams rekomendacijas apie priemones kibernetiniam saugumui užtikrinti naudojantis viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų teikiamomis paslaugomis;
-
-
-
-
-2) teikti Ryšių reguliavimo tarnybai informaciją apie įvykusius kibernetinius incidentus, apibrėžtus Ryšių reguliavimo tarnybos patvirtintose viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų saugumo ir vientisumo užtikrinimo taisyklėse, ir taikytas šių incidentų valdymo priemones bei techninę informaciją, reikalingą vertinti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų kibernetinio saugumo būseną, šios institucijos nustatyta tvarka ir sąlygomis; 
+1) viešai skelbti paslaugų gavėjams rekomendacijas apie priemones kibernetiniam saugumui užtikrinti naudojantis viešųjų ryšių tinklų ar viešųjų elektroninių ryšių paslaugų teikėjų teikiamomis paslaugomis;
 
 
 
 
-3) teikti Valstybinei duomenų apsaugos inspekcijai informaciją apie kibernetinius incidentus, susijusius su asmens duomenų saugumo pažeidimais, ir taikytas šių incidentų valdymo priemones šios institucijos nustatyta tvarka ir sąlygomis;
+2) įgyvendinti kibernetinio saugumo užtikrinimo technines ir organizacines priemones, nustatytas Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisyklėse, prireikus imtis reikiamų priemonių kibernetiniam saugumui užtikrinti. Šios priemonės turi užtikrinti kilusią grėsmę atitinkantį saugumo lygį ir užkirsti kelią kibernetiniams incidentams arba sumažinti jų poveikį viešiesiems ryšių tinklams ir viešųjų elektroninių ryšių paslaugų gavėjams;
 
 
 
 
-4) policijos generalinio komisaro nustatyta tvarka ir sąlygomis teikti policijai informaciją, reikalingą teisės pažeidimams, galimai turintiems nusikalstamos veikos požymių, kibernetinėje erdvėje užkardyti ir tirti, ir vykdyti kitus policijos nurodymus, duotus šio įstatymo ar kitų teisės aktų nustatytais pagrindais. Policijos nurodymus dėl paslaugų teikimo jų gavėjui apribojimo privaloma įvykdyti ne vėliau kaip per 8 valandas nuo policijos nurodymo gavimo;
+3) Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisyklėse nustatyta tvarka ir sąlygomis teikti Nacionaliniam kibernetinio saugumo centrui informaciją apie šiose taisyklėse nurodytus kibernetinius incidentus, taikytas šių incidentų valdymo priemones ir techninę informaciją, reikalingą viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų kibernetinio saugumo būsenai įvertinti;
 
 
 
 
-5) paskirti kompetentingą asmenį ar padalinį, atsakingą už kibernetinio saugumo organizavimą ir užtikrinimą, ir Ryšių reguliavimo tarnybai pateikti paskirto asmens ar padalinio kontaktinę informaciją.
+4) Nacionalinio kibernetinio saugumo centro reikalavimu, kai yra šio įstatymo 10 straipsnio 3 dalies 5 punkte nurodytos aplinkybės, savo lėšomis atlikti nepriklausomą viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų saugumo auditą ir pateikti šio audito rezultatus. Šį auditą atlieka tarptautinių organizacijų sertifikuoti auditoriai;
+
+
+
+
+5) teikti Valstybinei duomenų apsaugos inspekcijai informaciją apie kibernetinius incidentus, susijusius su asmens duomenų saugumo pažeidimais, ir taikytas šių incidentų valdymo priemones šios institucijos nustatyta tvarka ir sąlygomis;
+
+
+
+
+6) policijos generalinio komisaro nustatyta tvarka ir sąlygomis teikti policijai informaciją, reikalingą teisės pažeidimams, galimai turintiems nusikalstamos veikos požymių, kibernetinėje erdvėje užkardyti ir tirti, ir vykdyti kitus policijos nurodymus, duotus šio įstatymo ar kitų teisės aktų nustatytais pagrindais. Policijos nurodymus dėl paslaugų teikimo jų gavėjui apribojimo privaloma įvykdyti ne vėliau kaip per 8 valandas nuo policijos nurodymo gavimo;
+
+
+
+
+7) paskirti kompetentingą asmenį ar padalinį, atsakingą už kibernetinio saugumo organizavimą ir užtikrinimą, ir Nacionaliniam kibernetinio saugumo centrui pateikti paskirto asmens ar padalinio kontaktinę informaciją. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
-
-
-
-
 
 
 
@@ -687,7 +745,7 @@ Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų 
 Elektroninės informacijos prieglobos paslaugų teikėjai privalo:
 
 
-1) įgyvendinti kibernetinio saugumo užtikrinimo technines ir organizacines priemones, nustatytas Ryšių reguliavimo tarnybos, kiek tai susiję su jų teikiamomis paslaugomis, prireikus kartu su viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjais imtis reikiamų priemonių kibernetiniam saugumui užtikrinti;
+1) įgyvendinti kibernetinio saugumo užtikrinimo technines ir organizacines priemones, nustatytas Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisyklėse, kiek tai susiję su jų teikiamomis paslaugomis, prireikus kartu su viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjais imtis reikiamų priemonių kibernetiniam saugumui užtikrinti. Šios priemonės turi užtikrinti kilusią grėsmę atitinkantį saugumo lygį ir užkirsti kelią kibernetiniams incidentams arba sumažinti jų poveikį elektroninės informacijos prieglobos paslaugų gavėjams;
 
 
 
@@ -697,7 +755,7 @@ Elektroninės informacijos prieglobos paslaugų teikėjai privalo:
 
 
 
-3) teikti Ryšių reguliavimo tarnybai informaciją apie kibernetinius incidentus, apibrėžtus organizaciniuose ir techniniuose reikalavimuose elektroninės informacijos prieglobos paslaugų saugumui ir vientisumui užtikrinti,  ir taikytas šių incidentų valdymo priemones bei techninę informaciją, reikalingą vertinti elektroninės informacijos prieglobos paslaugų kibernetinio saugumo būseną, šios institucijos nustatyta tvarka ir sąlygomis;
+3) Viešųjų ryšių tinklų, viešųjų elektroninių ryšių paslaugų ir elektroninės informacijos prieglobos paslaugų kibernetinio saugumo užtikrinimo taisyklėse nustatyta tvarka ir sąlygomis teikti Nacionaliniam kibernetinio saugumo centrui informaciją apie šiose taisyklėse nurodytus kibernetinius incidentus, taikytas šių incidentų valdymo priemones ir techninę informaciją, reikalingą elektroninės informacijos prieglobos paslaugų kibernetinio saugumo būsenai įvertinti;
 
 
 
@@ -707,12 +765,14 @@ Elektroninės informacijos prieglobos paslaugų teikėjai privalo:
 
 
 
-5) paskirti kompetentingą asmenį ar padalinį, atsakingą už kibernetinio saugumo organizavimą ir užtikrinimą, ir Ryšių reguliavimo tarnybai pateikti paskirto asmens ar padalinio kontaktinę informaciją.
+5) paskirti kompetentingą asmenį ar padalinį, atsakingą už kibernetinio saugumo organizavimą ir užtikrinimą, ir Nacionaliniam kibernetinio saugumo centrui pateikti paskirto asmens ar padalinio kontaktinę informaciją. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
-
-
-
-
 
 
 
@@ -748,20 +808,22 @@ TARPINSTITUCINIS BENDRADARBIAVIMAS, INFORMACIJOS PASIKEITIMO TVARKA IR ATSAKOMYB
 18 straipsnis. Tarpinstitucinis bendradarbiavimas tiriant kibernetinius incidentus
 
 
-1. Nacionalinis kibernetinio saugumo centras, Ryšių reguliavimo tarnyba, Policijos departamentas ir kitos policijos įstaigos bendradarbiauja tiriant kibernetinius incidentus, keičiasi su kibernetinių incidentų tyrimais susijusia informacija, reikalinga institucijų pagal kompetenciją vykdomoms funkcijoms atlikti. Prireikus apie kibernetinių incidentų tyrimą gali būti informuojami kiti kriminalinės žvalgybos subjektai ir (arba) žvalgybos institucijos.
+1. Nacionalinis kibernetinio saugumo centras, Policijos departamentas ir kitos policijos įstaigos bendradarbiauja tiriant kibernetinius incidentus, keičiasi su kibernetinių incidentų tyrimais susijusia informacija, reikalinga institucijų pagal kompetenciją vykdomoms funkcijoms atlikti. Prireikus apie kibernetinių incidentų tyrimą gali būti informuojami kiti kriminalinės žvalgybos subjektai ir (arba) žvalgybos institucijos.
 
 
 
 
-2. Valstybinė duomenų apsaugos inspekcija bendradarbiauja su Nacionalinio kibernetinio saugumo centru ir Ryšių reguliavimo tarnyba tiriant kibernetinius incidentus, susijusius su asmens duomenų saugumo pažeidimais, keičiasi informacija, reikalinga teisės aktų nustatytoms funkcijoms, susijusioms su kibernetinių incidentų, pažeidžiančių asmens duomenų saugumą, tyrimu, atlikti.
+2. Valstybinė duomenų apsaugos inspekcija bendradarbiauja su Nacionaliniu kibernetinio saugumo centru tiriant kibernetinius incidentus, susijusius su asmens duomenų saugumo pažeidimais, keičiasi informacija, reikalinga teisės aktų nustatytoms funkcijoms, susijusioms su kibernetinių incidentų, pažeidžiančių asmens duomenų saugumą, tyrimu, atlikti.
 
 
 
 
-3. Tarpinstitucinio bendradarbiavimo tiriant kibernetinius incidentus tvarka ir kibernetinių incidentų klasifikavimo tvarka nustatomos Nacionaliniame kibernetinių incidentų valdymo plane.
+3. Tarpinstitucinio bendradarbiavimo tiriant kibernetinius incidentus tvarka ir kibernetinių incidentų klasifikavimo tvarka nustatomos Nacionaliniame kibernetinių incidentų valdymo plane. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
  
-
-
 
 
 
@@ -810,8 +872,29 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+ 
+ 
 
 
+
+
+
+
+ 
+Lietuvos Respublikos 
+kibernetinio saugumo įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/21/EB dėl elektroninių ryšių tinklų ir paslaugų bendrosios reguliavimo sistemos (Pagrindų direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/140/EB (OL 2009 L 337, p. 37). 
+
+
+Papildyta priedu:
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+ 
  
  
 Pakeitimai:
@@ -820,3 +903,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2524, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20282
 Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 19 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-798, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18853
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 4, 6 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-920, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21592
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 4, 6, 10, 15, 16, 18 straipsnių pakeitimo, 8 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo priedu įstatymas
