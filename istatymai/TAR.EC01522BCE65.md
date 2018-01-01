@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2017-06-30 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-11
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -70,14 +70,30 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Seimo kontrolierių veiklos tikslas
+3 straipsnis. Seimo kontrolierių veiklos tikslai
 
 
-Seimo kontrolierių veiklos tikslas – ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms. Seimo kontrolieriai taip pat vykdo nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
+Seimo kontrolierių veiklos tikslai:
+
+
+1) ginti žmogaus teisę į gerą viešąjį administravimą, užtikrinantį žmogaus teises ir laisves, prižiūrėti, ar valdžios įstaigos vykdo pareigą tinkamai tarnauti žmonėms; 
+
+
+
+
+2) skatinti pagarbą žmogaus teisėms ir laisvėms, atliekant nacionalinės žmogaus teisių institucijos funkcijas;
+
+
+
+
+3) vykdyti nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą. 
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
  
 
 
@@ -550,9 +566,10 @@ Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skund
 
 
 
-6) pasitelkti Vyriausybės įstaigų, taip pat ministerijų, savivaldybių pareigūnus, savivaldybių institucijų ir įstaigų pareigūnus bei ekspertus;
+6) pasitelkti valstybės ir savivaldybių institucijas, įstaigas, valstybės ir savivaldybių įmones, viešąsias įstaigas, kurių dalyvė yra valstybė arba savivaldybė, prašyti jų pateikti išvadas pagal kompetenciją; 
 Straipsnio punkto pakeitimai:
 Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA00XI-741
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
  
 
 
@@ -744,7 +761,15 @@ Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA
 
 
 
-8) teikti išvadas dėl galiojančių teisės aktų ir teisės aktų projektų.
+8) teikti išvadas dėl galiojančių teisės aktų ir teisės aktų projektų;
+
+
+
+
+9) pavesti Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams įgyvendinti šios dalies 1–4 punktuose nurodytas teises.
+Papildyta straipsnio punktu:
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
+ 
 
 
 
@@ -766,6 +791,54 @@ Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA
 
 Papildyta straipsniu:
 Nr. XII-629, 2013-12-03, Žin., 2013, Nr. 130-6618 (2013-12-19), i. k. 1131010ISTA0XII-629
+ 
+
+
+
+
+192 straipsnis. Nacionalinė žmogaus teisių institucija
+
+
+1. Seimo kontrolierių įstaiga yra nacionalinė žmogaus teisių institucija.
+
+
+
+
+2. Skatindami pagarbą žmogaus teisėms ir laisvėms bei bendradarbiaudami su valstybės ir savivaldybių institucijomis, įstaigomis, pilietine visuomene, socialiniais partneriais, tarptautinėmis organizacijomis žmogaus teisių ir laisvių klausimais, Seimo kontrolieriai atlieka šias funkcijas: 
+
+
+1) atlieka žmogaus teisių stebėseną Lietuvoje ir rengia žmogaus teisių padėties ataskaitas; 
+
+
+
+
+2) vykdo informacijos apie žmogaus teises sklaidą ir visuomenės švietimą žmogaus teisių klausimais;
+
+
+
+
+3) pristato žmogaus teisių padėties Lietuvoje vertinimą tarptautinėse organizacijose ir teikia joms informaciją pagal Lietuvos Respublikos tarptautinėse sutartyse nustatytus įsipareigojimus;
+
+
+
+
+4) teikia siūlymus valstybės ir savivaldybių institucijoms ir įstaigoms žmogaus teisių klausimais;
+
+
+
+
+5) siekia nacionalinių teisės aktų suderinimo su Lietuvos Respublikos tarptautiniais įsipareigojimais žmogaus teisių srityje;
+
+
+
+
+6) inicijuoja tyrimus dėl esminių žmogaus teisių problemų. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
  
 
 
@@ -1037,6 +1110,7 @@ Nr. X-1781, 2008-11-06, Žin., 2008, Nr. 131-5031 (2008-11-15), i. k. 1081010IST
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
 
@@ -1114,3 +1188,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 3 straipsnio pakeitimo ir į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-458, 2017-06-20, paskelbta TAR 2017-06-29, i. k. 2017-11072
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 20 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 3, 19, 19-1 straipsnių pakeitimo ir Įstatymo papildymo 19-2 straipsniu įstatymas
