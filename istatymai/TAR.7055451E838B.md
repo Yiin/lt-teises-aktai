@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
- 
-TAR pastaba. Privatizavimo fondo lėšų likutis, padengus Privatizavimo fondo įsipareigojimus, esančius šio įstatymo įsigaliojimo dieną, pervedamas į Rezervinį (stabilizavimo) fondą. Iki įstatymo Nr. XII-2021 įsigaliojimo dienos (2016-01-01)  iš sudarytų privatizavimo sandorių gautos lėšos, kurias įsiteisėjusiais teismo sprendimais valstybė arba centralizuotai valdomo valstybės turto valdytojas yra įpareigoti grąžinti pirkėjui, dengiamos iš Lietuvos Respublikos valstybės biudžeto.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2021, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18611
-Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 7 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2014-10-01:
 Nr. XII-792, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04032
@@ -844,7 +839,9 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 
 
-4. Už atidėtą mokėjimą potencialus pirkėjas moka palūkanas. Palūkanos apskaičiuojamos Vyriausybės nustatyta tvarka, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo likusios už privatizavimo objektą mokėti sumos.
+4. Už atidėtą mokėjimą potencialus pirkėjas moka palūkanas. Palūkanų norma nuo likusios už privatizavimo objektą sumokėti sumos yra lygi jos nustatymo dieną Lietuvos banko interneto svetainėje skelbiamai naujausio ataskaitinio laikotarpio paskolų eurais euro zonos rezidentams (ne finansų bendrovėms ir namų ūkiams) naujų susitarimų palūkanų normai („iki 1 metų“ arba „nuo 1 metų“). Šioje dalyje nurodytų palūkanų apskaičiavimo ir mokėjimo tvarką nustato Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-559, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12062
  
 
 
@@ -1015,3 +1012,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo N
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2021, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18611
 Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 7 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-559, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12062
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 20 straipsnio pakeitimo įstatymas
