@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1a9058e049b311e6b5d09300a16a686c"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2016-12-30 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-23
  
 Įstatymas paskelbtas: TAR 2016-07-14, i. k. 2016-20555
  
@@ -4991,7 +4991,9 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-11. Asmenims, priimtiems į aukštąsias mokyklas iki šio įstatymo įsigaliojimo, jų studijų laikotarpiu taikomos jų priėmimo į aukštąsias mokyklas metu galiojusios studijų, finansavimo, kreditavimo ir kitos sąlygos, išskyrus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos mokslo ir studijų įstatymo 77 straipsnio 17 dalies ir 78 straipsnio nuostatas, kurios taikomos asmenims, priimtiems į aukštąsias mokyklas ne anksčiau kaip 2009 m. gegužės 12 d. 
+11. Asmenims, priimtiems į aukštąsias mokyklas iki šio įstatymo įsigaliojimo, jų studijų laikotarpiu taikomos jų priėmimo į aukštąsias mokyklas metu galiojusios studijų, finansavimo, kreditavimo ir kitos sąlygos, išskyrus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos mokslo ir studijų įstatymo 77 straipsnio 17 dalies ir 78 straipsnio nuostatas, kurios taikomos asmenims, priimtiems į aukštąsias mokyklas ne anksčiau kaip 2009 m. gegužės 12 d. Pirmosios pakopos ir vientisųjų studijų studentams, priimtiems į aukštąsias mokyklas ne anksčiau kaip 2009 m. gegužės 12 d., taikomos ir šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos mokslo ir studijų įstatymo 79 straipsnio nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-970, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21728
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
  
@@ -5213,4 +5215,9 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo Nr. XII-2534 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-970, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21728
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo Nr. XII-2534 2 straipsnio pakeitimo įstatymas
