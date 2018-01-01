@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-10-10
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
  
@@ -779,10 +779,26 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 
 
-15) kiti asmenys Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais.
+15) vaiko tėvai, dėl kurių valdžios apribojimo ar jo panaikinimo sprendžia teismas; 
+Papildyta straipsnio punktu:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
  
+
+
+
+
+16) įvaikintojas (įvaikintojai) ar vaiko globėjas (rūpintojas), kompetentingai valstybės institucijai pateikęs prašymą dėl įvaikinimo ar nuolatinės globos (rūpybos) ir turintis šios institucijos patvirtinimą dėl tinkamumo tapti įtėviu (įtėviais) ar vaiko globėju (rūpintoju), arba įvaikintojas (įvaikintojai) ar vaiko globėjas (rūpintojas), kurio prašymą dėl įvaikinimo ar nuolatinės globos (rūpybos) nagrinėja teismas; 
+Papildyta straipsnio punktu:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+ 
+
+
+
+
+17) kiti asmenys Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
  
 
 
@@ -878,15 +894,35 @@ Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
 
 
 
-15. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse.
-Straipsnio dalies pakeitimai:
-Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+15. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, patvirtinantys pradėtą bylos procesą dėl tėvų valdžios apribojimo ar jo panaikinimo, arba šio įstatymo 22 straipsnio 3 dalyje nurodytas teismo pranešimas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
  
 
 
 
 
-16. Šio straipsnio 1, 4 ir 7 dalyse nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.
+16. Šio įstatymo 12 straipsnio 16 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo kompetentingos valstybės institucijos patvirtinimas dėl tinkamumo įvaikinti ar būti nuolatiniu globėju (rūpintoju), teismo, nagrinėjančio bylą dėl įvaikinimo ar bylą dėl vaiko nuolatinės globos (rūpybos), pranešimas apie pradėtą bylos procesą ir (ar) kiti dokumentai, patvirtinantys pradėtą procesą dėl vaiko įvaikinimo ar vaiko nuolatinės globos (rūpybos). 
+Papildyta straipsnio dalimi:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+ 
+
+
+
+
+17. Šio įstatymo 12 straipsnio 15 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse.
+Straipsnio dalies pakeitimai:
+Nr. XII-1149, 2014-09-25, paskelbta TAR 2014-10-06, i. k. 2014-13715
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+ 
+
+
+
+
+18. Šio straipsnio 1, 4 ir 7 dalyse nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
  
 
 
@@ -1448,6 +1484,14 @@ Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 
 2. Kai dėl antrinės teisinės pagalbos suteikimo Civilinio proceso kodekso nustatytais atvejais, nagrinėjant bylas dėl fizinio asmens pripažinimo neveiksniu tam tikroje srityje ir jo globos, dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu tam tikroje srityje, peržiūrėjimo, dėl neveiksniu tam tikroje srityje pripažinto asmens pripažinimo veiksniu ar ribotai veiksniu tam tikroje srityje, kreipiasi teismas, tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima ne vėliau kaip per 3 darbo dienas nuo teismo pranešimo gavimo dienos ir apie priimtą sprendimą nedelsdama raštu praneša teismo pranešime nurodytam asmeniui ir teismui.
+
+
+
+
+3. Kai dėl antrinės teisinės pagalbos suteikimo Civilinio proceso kodekso nustatytais atvejais, nagrinėjant bylas dėl tėvų valdžios apribojimo ar jo panaikinimo, kreipiasi teismas, tarnyba sprendimą dėl antrinės teisinės pagalbos teikimo priima ne vėliau kaip per 3 darbo dienas nuo teismo pranešimo gavimo dienos ir apie priimtą sprendimą nedelsdama raštu praneša teismo pranešime nurodytam asmeniui ir teismui.
+Papildyta straipsnio dalimi:
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+ 
 
 
 Straipsnio pakeitimai:
@@ -2024,3 +2068,8 @@ Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-629, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12576
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 11 ir 14 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-247, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05918
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12, 13 ir 22 straipsnių pakeitimo įstatymas
