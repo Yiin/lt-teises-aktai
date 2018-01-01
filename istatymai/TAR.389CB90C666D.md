@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
- 
-TAR pastaba. Asmenys, iki įstatymo Nr. XII-2528 įsigaliojimo (2017-01-01) įgiję licenciją ar rašytinį sutikimą verstis Lietuvos Respublikoje ginklų, A kategorijos ginklų priedėlių, šaudmenų, jų dalių gamyba, ginklų taisymu, ginklų ir šaudmenų perdirbimu, įsigaliojus šiam įstatymui, turi teisę ir toliau verstis licencijoje ar rašytiniame sutikime nurodyta veikla. Licencijų ir rašytinių sutikimų išdavimo, galiojimo sustabdymo, panaikinimo ir pažymų, kad ginklas yra visiškai netinkamas naudoti, išdavimo procedūras, pradėtas iki įstatymo Nr. XII-2528 įsigaliojimo (2017-01-01), baigia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamasis iki šio įstatymo įsigaliojimo galiojusia tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 9, 12, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31 ir 38 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2011-03-01:
 Nr. XI-1146, 2010-11-18, Žin., 2010, Nr. 142-7261 (2010-12-04)
@@ -1840,12 +1835,15 @@ Nr. XII-978, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 23 straipsnis. Ginklų, ginklų priedėlių, šaudmenų ar jų dalių eksportas (išvežimas), importas (įvežimas) ir tranzitas
 
 
-1. Ginklų fondas turi teisę importuoti (įvežti), eksportuoti (išvežti) visų kategorijų ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos ministerija turi teisę importuoti (įvežti) visų kategorijų krašto apsaugos sistemai skirtus ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis.
+1. Ginklų fondas turi teisę importuoti (įvežti), eksportuoti (išvežti) visų kategorijų ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis. Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija turi teisę importuoti (įvežti) visų kategorijų krašto apsaugos sistemai skirtus ginklus, jų šaudmenis, ginklų priedėlius, ginklų ir šaudmenų dalis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-540, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11937
+ 
 
 
 
 
-2. Europos fizinis asmuo ar Europos juridinis asmuo, norintys importuoti (įvežti), eksportuoti (išvežti) B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus šio įstatymo 4 straipsnio 1, 2, 3 punktuose ir 5 straipsnio 4 punkte nurodytus ginklus, jų dalis, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija), privalo turėti licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija importuoti, eksportuoti ginklus, šaudmenis, jų dalis ir ginklų priedėlius licencijos ir rašytinio sutikimo turėtojui suteikia teisę:
+2. Europos fizinis asmuo ar Europos juridinis asmuo, norintys importuoti (įvežti), eksportuoti (išvežti) B, C, D kategorijų ginklus, jų šaudmenis, jų dalis ir ginklų priedėlius (išskyrus šio įstatymo 4 straipsnio 1, 2, 3 punktuose ir 5 straipsnio 4 punkte nurodytus ginklus, jų dalis, kuriuos turi teisę importuoti (įvežti) tik Ginklų fondas ir Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija), privalo turėti licenciją. Tokią licenciją Vyriausybės nustatyta tvarka išduoda Policijos departamentas. Licencija importuoti (įvežti), eksportuoti (išvežti) ginklus, šaudmenis, jų dalis ir ginklų priedėlius licencijos ir rašytinio sutikimo turėtojui suteikia teisę:
 
 
 1) juos gabenti tranzitu per Lietuvos Respubliką;
@@ -1853,9 +1851,12 @@ Nr. XII-978, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
 
 
 
-2) juos įvežti į Europos Sąjungos valstybę narę ar iš jos išvežti.
+2) juos įvežti į Europos Sąjungos valstybę narę ar iš jos išvežti. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-540, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11937
+ 
 
 
 
@@ -3462,3 +3463,8 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 7 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
 Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 9, 12, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31 ir 38 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-540, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11937
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 23 straipsnio pakeitimo įstatymas
