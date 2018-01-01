@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2015-06-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
  
@@ -501,7 +501,10 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 12 straipsnis. Fondo metinis pranešimas ir metinių finansinių ataskaitų rinkinys
 
 
-1. Fondo įstatuose nurodytas valdymo organas pasibaigus finansiniams metams turi parengti ir pateikti visuotiniam dalininkų susirinkimui praėjusių finansinių metų fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį. Šie dokumentai yra vieši. Kiekvieno fizinio ar juridinio asmens reikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šiais dokumentais susipažinti. 
+1. Fondo įstatuose nurodytas valdymo organas pasibaigus finansiniams metams turi parengti ir pateikti visuotiniam dalininkų susirinkimui praėjusių finansinių metų fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį. Šie dokumentai yra vieši, skelbiami fondo interneto svetainėje (jeigu fondas ją turi), išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus viešai neskelbtini. Kiekvieno fizinio ar juridinio asmens reikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šiais dokumentais susipažinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
+ 
 
 
 
@@ -529,7 +532,10 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 
 
-5) informacija apie gautą paramą ir jos panaudojimą, apie paties fondo suteiktą labdarą ir (ar) paramą;
+5) informacija apie gautą paramą (pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė) ir jos panaudojimą, apie paties fondo suteiktą labdarą ir (ar) paramą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
+ 
 
 
 
@@ -591,10 +597,10 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 
 
-6. Kiekvienais metais fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ar fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ir metinis pranešimas turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje.
-TAR pastaba. 6 dalies nuostatos dėl metinių finansinių ataskaitų rinkinio teikimo Juridinių asmenų registro tvarkytojui taikomos teikiant 2015 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius.
+6. Kiekvienais metais fondo metinis pranešimas, taip pat fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ar fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
  
 
 
@@ -955,7 +961,10 @@ FONDO VEIKLA
 
 
 
-9) tiesiogiai ar per trečiuosius asmenis dalyvauti politinėje veikloje.
+9) tiesiogiai ar per trečiuosius asmenis dalyvauti politinėje veikloje, skleisti politinę reklamą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
+ 
 
 
 
@@ -1402,3 +1411,8 @@ Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 20 ir 21 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 8, 9 ir 12 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 12 ir 18 straipsnių pakeitimo įstatymas
