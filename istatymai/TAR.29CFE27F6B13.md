@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
@@ -1883,7 +1883,10 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas – krašt
 
 
 
-2. Jungtinio štabo viršininkas turi tas pačias teises skirti drausmines nuobaudas Jungtinio štabo kariams ir jo operaciniam pavaldumui perduotų karinių vienetų kariams kaip ir reguliariųjų pajėgų rūšių vadai.
+2. Gynybos štabo viršininkas turi tas pačias teises skirti drausmines nuobaudas Gynybos štabo kariams ir jo operaciniam pavaldumui perduotų karinių vienetų kariams kaip ir reguliariųjų pajėgų rūšių vadai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-543, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11940
+ 
 
 
 
@@ -2872,3 +2875,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
 Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, 64 straipsnių pakeitimo ir 47 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2101 17 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-543, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11940
+Lietuvos Respublikos kariuomenės drausmės statuto 54 straipsnio pakeitimo įstatymas
