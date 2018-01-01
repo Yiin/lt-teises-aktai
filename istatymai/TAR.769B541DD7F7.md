@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2013-03-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -183,7 +183,10 @@ TREČIASIS SKIRSNIS
 
 
 
-2. Ūkius Ūkininkų ūkių registre registruoja savivaldybės administracija Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+2. Ūkininkų ūkių registro valdytoja yra Lietuvos Respublikos žemės ūkio ministerija. Ūkius Ūkininkų ūkių registre registruoja savivaldybės administracija Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
+ 
 
 
 
@@ -320,7 +323,10 @@ TREČIASIS SKIRSNIS
 
 
 
-2. Ūkis turi būti įregistruotas ir ūkio įregistravimo pažymėjimas išduotas ne vėliau kaip per 10 darbo dienų nuo dokumentų, nurodytų 7 straipsnyje, pateikimo. Jeigu ūkį įregistruoti atsisakoma, priežastys nurodomos raštu. Atsisakymas įregistruoti gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+2. Ūkis turi būti įregistruotas ir ūkio įregistravimo pažymėjimas išduotas ne vėliau kaip per 10 darbo dienų nuo dokumentų, nurodytų šio įstatymo 7 straipsnyje, pateikimo dienos. Jeigu ūkį įregistruoti atsisakoma, priežastys nurodomos raštu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
+ 
 
 
 
@@ -345,7 +351,17 @@ TREČIASIS SKIRSNIS
 
 
 
-4. Jeigu ūkiui įregistruoti pateiktuose dokumentuose nurodyti duomenys pasikeičia, ūkininkas per 6 mėnesius nuo šių pokyčių atsiradimo dienos privalo pateikti savivaldybės administracijai prašymą, kad šiuos pakitimus įregistruotų, ir dokumentus, patvirtinančius, kad duomenys pasikeitė.
+4. Neteko galios nuo 2018-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
+ 
+
+
+
+
+5. Kiekvienais kalendoriniais metais iki gruodžio 31 dienos ūkininkas privalo Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atnaujinti ūkio duomenis Ūkininkų ūkių registre. Jeigu ūkio duomenys nepasikeitė, ūkininkas privalo šį faktą patvirtinti.
+Papildyta straipsnio dalimi:
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
  
 
 
@@ -386,14 +402,34 @@ Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA0
 
 
 
-3) teismo sprendimu.
+3) teismo sprendimu;
+
+
+
+
+4) nepateikus ūkio duomenų kartą per kalendorinius metus ir per terminą, nustatytą šio straipsnio 2 dalies 2 punkte, nepašalinus nustatytų trūkumų. 
+Papildyta straipsnio punktu:
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
+ 
 
 
 
 
 
 
-2. Ūkį iš Ūkininkų ūkių registro išregistruoja savivaldybės administracija. Priimtas sprendimas dėl išregistravimo gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+2. Ūkio išregistravimo iš Ūkininkų ūkių registro tvarka:
+
+
+1) ūkį iš Ūkininkų ūkių registro išregistruoja savivaldybės, kurios teritorijoje yra įregistruotas ūkis, administracija;
+
+
+
+
+2) iki kitų metų kovo 31 dienos savivaldybės administracija, atlikusi duomenų patikrinimą ir nustačiusi, kad ūkio duomenys Ūkininkų ūkių registrui nebuvo pateikti, apie numatomą ūkio išregistravimą pagal šio straipsnio 1 dalies 4 punktą ūkininką informuoja raštu ir nustato vienų metų terminą nuo ūkininko informavimo dienos nustatytiems trūkumams pašalinti.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
  
 
 
@@ -519,3 +555,8 @@ Lietuvos Respublikos ūkininko ūkio įstatymo 10 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2004, 2012-05-10, Žin., 2012, Nr. 57-2827 (2012-05-19), i. k. 1121010ISTA0XI-2004
 Lietuvos Respublikos ūkininko ūkio įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
+Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 6, 8 ir 9 straipsnių pakeitimo įstatymas
