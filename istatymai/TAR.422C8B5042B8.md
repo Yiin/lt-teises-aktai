@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -2133,7 +2133,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3. Paramos judumui dydis sudaro 33 procentus Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis neviršija vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 25 procentus Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis viršija vieną Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, bet neviršija Lietuvos statistikos departamento paskelbto šalies ūkio darbuotojų vidutinio mėnesinio darbo užmokesčio dydžio. Jeigu asmens darbo užmokestis viršija Lietuvos statistikos departamento paskelbtą šalies ūkio darbuotojų vidutinio mėnesinio darbo užmokesčio dydį, parama judumui tokiam asmeniui neskiriama.
+3. Paramos judumui dydis sudaro 33 procentus Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis neviršija vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 25 procentus Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis viršija vieną Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, bet neviršija Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio. Jeigu asmens darbo užmokestis viršija Lietuvos statistikos departamento paskelbtą paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydį, parama judumui tokiam asmeniui neskiriama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+ 
 
 
 
@@ -3379,3 +3382,13 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 63 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12, 13, 20, 22, 23, 24, 25, 26, 29, 31, 32, 35, 36, 37, 39, 40, 41, 42, 46, 48, 56, 57, 58, 60 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 III skyriaus pirmojo skirsnio pavadinimo ir 12, 20, 36, 37 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 13, 16, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 37, 38, 39, 39-1, 40, 41, 42, 44, 45, 47, 48 ir 49 straipsnių pakeitimo įstatymas
