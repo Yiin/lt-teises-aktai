@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -547,8 +547,7 @@ Nr. XII-1970, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17123
 
 
 
-7) gyvūnų (šunų, kačių) laikymą daugiabučiuose namuose;
-TAR pastaba. 11 straipsnio 1 dalies 7 punkto nuostatos galioja iki 2017-12-31.
+7) neteko galios nuo 2018-01-01;
 Straipsnio punkto pakeitimai:
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
  
