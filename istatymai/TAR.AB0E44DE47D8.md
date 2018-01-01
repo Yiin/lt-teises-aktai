@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
  
@@ -88,12 +88,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Draudžiamosios pajamos (D) – einamųjų metų draudžiamosios pajamos, apskaičiuotos pagal Valstybinio socialinio draudimo fondo tarybos patvirtintą metodiką. Jų apskaičiavimo ir tvirtinimo tvarką nustato Valstybinių socialinio draudimo pensijų įstatymas.
+10. Vidutinis šalies darbo užmokestis (D) – ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos valstybinio socialinio draudimo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 
 
-11. Kompensavimo koeficientas (k) – nukentėjusiojo vidutinio darbo užmokesčio (šio įstatymo 11 straipsnis) santykis su mėnesių, pagal kuriuos apskaičiuotas vidutinis darbo užmokestis, einamųjų metų draudžiamųjų pajamų vidurkiu. Tuo atveju, kai nukentėjusiojo dėl susirgimo profesine liga asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje, didesnis negu kompensavimo koeficientas, taikomas asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje (iki 1995 metų kompensavimo koeficientui apskaičiuoti vietoj draudžiamųjų pajamų imamas Valstybinių socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytas atitinkamo mėnesio vidutinis mėnesinis darbo užmokestis, o iki 1991 metų – vidutinis atitinkamų metų mėnesinis darbo užmokestis). Jei nukentėjusiojo vidutinio darbo užmokesčio nėra ar jo negalima nustatyti arba taip apskaičiuotas kompensavimo koeficientas yra mažesnis už 0,35, laikoma, kad kompensavimo koeficientas lygus 0,35. Jokiu atveju kompensavimo koeficientas negali būti didesnis už 3.
+11. Kompensavimo koeficientas (k) – nukentėjusiojo vidutinio darbo užmokesčio (šio įstatymo 11 straipsnis) santykis su mėnesių, pagal kuriuos apskaičiuotas vidutinis darbo užmokestis, einamųjų metų draudžiamųjų pajamų vidurkiu. Tuo atveju, kai nukentėjusiojo dėl susirgimo profesine liga asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje, didesnis negu kompensavimo koeficientas, taikomas asmens draudžiamųjų pajamų koeficientas, nustatytas socialinio draudimo pensijos byloje. Iki 1995 metų kompensavimo koeficientui apskaičiuoti vietoj draudžiamųjų pajamų imamas Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nurodytas atitinkamo mėnesio vidutinis mėnesinis darbo užmokestis, o iki 1991 metų – vidutinis atitinkamų metų mėnesinis darbo užmokestis. Jei nukentėjusiojo vidutinio darbo užmokesčio nėra ar jo negalima nustatyti arba taip apskaičiuotas kompensavimo koeficientas yra mažesnis už 0,35, laikoma, kad kompensavimo koeficientas lygus 0,35. Kompensavimo koeficientas negali būti didesnis už 3. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 Straipsnio pakeitimai:
@@ -125,7 +131,9 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
 
 
-2. Lietuvos Respublikos nuolatiniams gyventojams, kurių sveikata buvo sužalota arba kurie dėl to mirė ar susirgo profesine liga dirbdami užsienyje esančiose įmonėse, žala atlyginama tarptautinėse sutartyse nustatyta tvarka. 
+2. Lietuvos Respublikos nuolatiniams gyventojams, kurių sveikata buvo sužalota arba kurie dėl to mirė ar susirgo profesine liga dirbdami užsienyje esančiose įmonėse, Lietuvos Respublikai prisijungus prie tarptautinių konvencijų arba sudarius tarptautines sutartis dėl žalos atlyginimo, žala atlyginama tarptautinėse sutartyse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
  
 
 
@@ -136,7 +144,9 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
 
 ANTRASIS SKIRSNIS 
-ŽALOS ATLYGINIMO PAGRINDAI. VIENKARTINĖ PAŠALPA 
+ŽALOS ATLYGINIMO PAGRINDAI. ŽALOS ATLYGINIMAS NETEKUS MAITINTOJO 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
  
 
 
@@ -205,13 +215,19 @@ Teisę į žalos atlyginimą turi nukentėjusieji, kurių sveikata dėl nelaimin
 
 
 
-7 straipsnis. Žalos atlyginimas maitintojo netekimo atveju 
+7 straipsnis. Žalos atlyginimas netekus maitintojo 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 1. Jeigu nukentėjusysis dėl nelaimingo atsitikimo darbe ar profesinės ligos miršta, teisę į žalos atlyginimą turi nedarbingi asmenys, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat mirusiojo vaikas (vaikai), gimęs (gimę) po jo mirties. Žala atlyginama:
 
 
-1) nepilnamečiams – iki jiems sukanka 18 metų, o jeigu jie mokosi ar studijuoja pagal nustatyta tvarka įregistruotas švietimo įstaigų bendrojo ugdymo programas, formaliojo profesinio mokymo programas ir dieninių ar nuolatinių studijų programas, – iki mokymosi ar studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukanka 24 metai;
+1) nepilnamečiams – iki jiems sukanka 18 metų, o jeigu jie mokosi ar studijuoja pagal nustatyta tvarka įregistruotas švietimo įstaigų bendrojo ugdymo programas, formaliojo profesinio mokymo programas ir pagal nuolatinės studijų formos programas, – iki mokymosi ar studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukanka 24 metai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 
@@ -342,23 +358,25 @@ TREČIASIS SKIRSNIS
 11 straipsnis. Vidutinis darbo užmokestis
 
 
-1. Nukentėjusiojo vidutinis darbo užmokestis apskaičiuojamas laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo pagal darbo užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo profesine liga nustatymo.
+1. Nukentėjusiojo vidutinis darbo užmokestis apskaičiuojamas vadovaujantis Vyriausybės tvirtinamu Darbuotojo, valstybės tarnautojo ir žvalgybos pareigūno vidutinio darbo užmokesčio skaičiavimo tvarkos aprašu pagal darbo užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo profesine liga nustatymo.
 
 
 
 
-2. Profesinės ligos atveju nukentėjusiojo pageidavimu vidutinis darbo užmokestis apskaičiuojamas pagal nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių iš 24 mėnesių, einančių iki susirgimo profesine liga nustatymo, laikotarpio darbo užmokestį, laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo.
+2. Profesinės ligos atveju nukentėjusiojo pageidavimu vidutinis darbo užmokestis apskaičiuojamas pagal nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių iš 24 mėnesių, einančių iki susirgimo profesine liga nustatymo, laikotarpio darbo užmokestį, vadovaujantis Vyriausybės tvirtinamu Darbuotojo, valstybės tarnautojo ir žvalgybos pareigūno vidutinio darbo užmokesčio skaičiavimo tvarkos aprašu.
 
 
 
 
-3. Tuo atveju, kai nustatoma, kad susirgimą profesine liga sukėlė darbas darbovietėje, kurioje nukentėjusysis dirbo iki jo atleidimo iš šios darbovietės ar perkėlimo į kitą mažiau apmokamą darbą toje pačioje darbovietėje, vidutinis darbo užmokestis nukentėjusiojo pageidavimu apskaičiuojamas pagal toje darbovietėje, kurioje darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo perkėlimo į kitą mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos, laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo.
-
-
+3. Tuo atveju, kai nustatoma, kad susirgimą profesine liga sukėlė darbas darbovietėje, kurioje nukentėjusysis dirbo iki jo atleidimo iš šios darbovietės ar perkėlimo į kitą mažiau apmokamą darbą toje pačioje darbovietėje, vidutinis darbo užmokestis nukentėjusiojo pageidavimu apskaičiuojamas pagal toje darbovietėje, kurioje darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo perkėlimo į kitą mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos, vadovaujantis Vyriausybės tvirtinamu Darbuotojo, valstybės tarnautojo ir žvalgybos pareigūno vidutinio darbo užmokesčio skaičiavimo tvarkos aprašu. 
 Straipsnio pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01)
 Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
  
 
 
@@ -372,7 +390,10 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
 
 
-2. Kompensuojamasis uždarbis apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10 dalis),  t. y. pagal formulę k x D.
+2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 65 procentų vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto darbingumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k x 0,65 x D. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 
@@ -382,7 +403,10 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
 
 
-4. Vienkartinė kompensacija gali būti mokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir išmokami delspinigiai Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo nustatyta tvarka ir dydžiais.
+4. Vienkartinė kompensacija gali būti mokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir mokami delspinigiai Lietuvos Respublikos darbo kodekso nustatyta tvarka ir dydžiais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 
@@ -393,6 +417,14 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
 
 6. Šiame straipsnyje nurodyta vienkartinė kompensacija mokama nepaisant nukentėjusiojo gaunamų kitų pajamų.
+
+
+
+
+7. Vienkartinė netekto darbingumo kompensacija skiriama pasibaigus NDNT sprendimo dėl darbingumo lygio nustatymo apskundimo terminui, o tuo atveju, kai NDNT sprendimas dėl darbingumo lygio nustatymo skundžiamas Ginčų komisijai prie Socialinės apsaugos ir darbo ministerijos (toliau – Ginčų komisija), – pasibaigus Ginčų komisijos sprendimo apskundimo terminui. NDNT, gavusi skundą dėl darbingumo lygio nustatymo, kai darbingumo netekimo priežastis yra nelaimingas atsitikimas darbe arba profesinė liga, per 5 darbo dienas raštu praneša Valstybinio socialinio draudimo fondo valdybai (toliau – Fondo valdyba). Jeigu NDNT sprendimas dėl darbingumo lygio nustatymo skundžiamas Ginčų komisijai, Ginčų komisija apie gautą skundą ne vėliau kaip per 5 darbo dienas raštu praneša Fondo valdybai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+ 
 
 
 Straipsnio pakeitimai:
@@ -407,27 +439,29 @@ Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 13 straipsnis. Periodinė netekto darbingumo kompensacija
 
 
-1. Jeigu nustatoma, kad nukentėjusysis neteko 30 ir daugiau procentų darbingumo, jam mokama periodinė netekto darbingumo kompensacija.
+1. Jeigu nustatoma, kad nukentėjusysis neteko 30 ir daugiau procentų darbingumo, jam mokama periodinė netekto darbingumo kompensacija. 
 
 
 
 
-2. Periodinė netekto darbingumo kompensacija nukentėjusiajam mokama kas mėnesį žalos atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę darbo dieną, ir apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2 straipsnio 11 dalis) ir mokėjimo mėnesį galiojančių einamųjų metų draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10 dalis) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x D.
+2. Periodinė netekto darbingumo kompensacija nukentėjusiajam mokama kas mėnesį žalos atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę darbo dieną. Periodinė netekto darbingumo kompensacija apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2 straipsnio 11 dalis) ir mokėjimo mėnesį galiojančio 65 procentų vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x 0,65 x D. 
 
 
 
 
-3. Laiku neišmokėjus šios kompensacijos, skaičiuojami ir mokami delspinigiai Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo nustatyta tvarka ir dydžiais.
+3. Laiku neišmokėjus periodinės netekto darbingumo kompensacijos, skaičiuojami ir mokami delspinigiai Lietuvos Respublikos darbo kodekso nustatyta tvarka ir dydžiais.
 
 
 
 
-4. Šiame straipsnyje nurodyta netekto darbingumo kompensacija nukentėjusiajam mokama nepaisant jo gaunamų kitų pajamų.
-
-
+4. Šiame straipsnyje nurodyta netekto darbingumo kompensacija nukentėjusiajam mokama nepaisant jo gaunamų kitų pajamų. 
 Straipsnio pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01)
 Nr. IX-1247, 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
  
 
 
@@ -806,3 +840,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1967, 2015-10-20, paskelbta TAR 2015-10-30, i. k. 2015-17119
 Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 20 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 2, 3, 7, 11, 12, 13 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas
