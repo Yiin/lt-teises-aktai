@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -632,9 +632,10 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 
 
-3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Licencijos verstis sezonine mažmenine prekyba alumi, alaus mišiniais su nealkoholiniais gėrimais, natūralios fermentacijos sidru, kurio tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, ir alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, masiniuose renginiuose ir mugėse, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui.
+3. Mažmenine prekyba alkoholiniais gėrimais leidžiama verstis tik turint licenciją verstis mažmenine prekyba alkoholiniais gėrimais. Licencijas ir jų dublikatus išduoda, papildo, rekvizitus patikslina atitinkamos savivaldybės vykdomoji institucija. Licencijos verstis sezonine mažmenine prekyba alumi, alaus mišiniais su nealkoholiniais gėrimais, natūralios fermentacijos sidru, kurio tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, ir alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, kurortuose ir kitose savivaldybių tarybų nustatytose poilsio bei turizmo teritorijose išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams savivaldybių tarybų nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiui. Vienkartinės licencijos verstis mažmenine prekyba natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, parodose, natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, mugėse ir masiniuose renginiuose, taip pat verstis mažmenine prekyba visais alkoholiniais gėrimais parodose ir mugėse, vykstančiose stacionariuose pastatuose, išduodamos teisę verstis mažmenine prekyba atitinkamų grupių alkoholiniais gėrimais turinčioms įmonėms, Europos juridiniams asmenims ir jų filialams ne ilgesniam kaip renginio trukmės laikui. Kitos licencijos verstis mažmenine prekyba alkoholiniais gėrimais išduodamos įmonėms, Europos juridiniams asmenims ir jų filialams neterminuotam laikui. Įmonėms, Europos juridiniams asmenims ir jų filialams, prekiaujantiems alkoholiniais gėrimais stacionariosiose viešojo maitinimo vietose, jų turima neterminuota mažmeninės prekybos alkoholiniais gėrimais licencija suteikia teisę aptarnauti pirkėjus lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo stacionariosios viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose), išskyrus atvejus, kai savivaldybės taryba nustato mažesnį atstumą arba uždraudžia prekybą alkoholiniais gėrimais lauko sąlygomis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -863,9 +864,10 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 
 
-4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti alkoholinius gėrimus, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims, turintiems verslo liudijimą, suteikiantį teisę verstis išvežiojamąja prekyba maisto produktais, ir vykdantiems verslo liudijime numatytą veiklą, draudžiama jų darbo metu specialiai šiai prekybai pritaikytose automobilinėse parduotuvėse laikyti ir gabenti alkoholio produktus, taip pat taksi vairuotojams jų darbo metu draudžiama taksi automobiliuose laikyti ir gabenti alkoholio produktus. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti alkoholinius gėrimus, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Fiziniams asmenims draudžiama vartoti, laikyti ir gabenti alkoholio produktus atidarytoje pakuotėje automobilių salonuose, išskyrus autotransporto priemones, kurių salonas yra stacionariai atskirtas nuo vairuotojo vietos. Fiziniams asmenims, turintiems verslo liudijimą, suteikiantį teisę verstis išvežiojamąja prekyba maisto produktais, ir vykdantiems verslo liudijime numatytą veiklą, draudžiama jų darbo metu specialiai šiai prekybai pritaikytose automobilinėse parduotuvėse laikyti ir gabenti alkoholio produktus, taip pat taksi vairuotojams jų darbo metu draudžiama taksi automobiliuose laikyti ir gabenti alkoholio produktus. Draudžiama fiziniams asmenims išnešti iš viešojo maitinimo vietų jose įsigytus alkoholinius gėrimus pirmadieniais–šeštadieniais iki 10 valandos ir nuo 20 valandos, o sekmadieniais – iki 10 valandos ir nuo 15 valandos. Fiziniams asmenims taikomą alkoholio produktų laikymo ir gabenimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1737, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08129
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1039,9 +1041,10 @@ Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 
 
 
-5) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – masiniuose renginiuose ir mugėse. 
+5) natūralios fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento, – mugėse ir masiniuose renginiuose. 
 Straipsnio punkto pakeitimai:
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1070,9 +1073,10 @@ Nr. XII-1740, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08131
 
 
 
-3) masiniuose renginiuose ir mugėse (išskyrus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parodose (išskyrus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų); 
+3) mugėse ir masiniuose renginiuose (išskyrus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parodose (išskyrus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų); 
 Straipsnio punkto pakeitimai:
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1116,7 +1120,10 @@ Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 
 
-11) nuo 22 valandos iki 8 valandos mažmeninės prekybos vietose (išskyrus savivaldybių tarybų ribojamus atvejus). Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, viešbučių kambariuose įrengtuose minibaruose, neapmuitinamose parduotuvėse ir specialiosiose prekybos vietose;
+11) pirmadieniais–šeštadieniais iki 10 valandos ir nuo 20 valandos, o sekmadieniais – iki 10 valandos ir nuo 15 valandos mažmeninės prekybos vietose (išskyrus savivaldybių tarybų ribojamus atvejus). Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, laivuose, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, viešbučių kambariuose įrengtuose minibaruose, neapmuitinamose parduotuvėse ir specialiosiose prekybos vietose; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 
@@ -1129,14 +1136,19 @@ Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
 
 
 
-13) nuo 22 valandos iki 8 valandos viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais. Šis draudimas netaikomas viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais, parduodamiems pilstomiems alkoholiniams gėrimams ar alkoholiniams gėrimams, parduodamiems atidarytoje pakuotėje ir tik vartoti vietoje;
+13) pirmadieniais–šeštadieniais iki 10 valandos ir nuo 20 valandos, o sekmadieniais – iki 10 valandos ir nuo 15 valandos viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais. Šis draudimas netaikomas viešojo maitinimo vietose, turinčiose licencijas mažmeninei prekybai alkoholiniais gėrimais, parduodamiems pilstomiems alkoholiniams gėrimams ir tik vartoti vietoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 
 
-14) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio straipsnio 8 dalyje, metu. 
+14) švenčių, parodų, koncertų, teatro spektaklių, cirko ir kitų masinių renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio straipsnio 8 dalyje, metu; 
 Papildyta straipsnio punktu:
 Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+Straipsnio punkto pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1147,9 +1159,10 @@ Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
 4. Lietuvos Respublikoje draudžiama parduoti:
 
 
-1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų), parduodamiems nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems masiniuose renginiuose, parodose ir mugėse;
+1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų), parduodamiems nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1160,7 +1173,10 @@ Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 
 
-3) alkoholinius gėrimus asmenims, jaunesniems kaip 18 metų;
+3) alkoholinius gėrimus asmenims, jaunesniems kaip 20 metų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 
@@ -1183,9 +1199,10 @@ Nr. XII-1752, 2015-06-04, paskelbta TAR 2015-06-15, i. k. 2015-09296
 
 
 
-5. Alkoholinių gėrimų pardavėjai iš perkančio alkoholinius gėrimus asmens privalo reikalauti pateikti asmens amžių liudijantį dokumentą tik tuo atveju, kai yra abejonių, kad asmuo yra jaunesnis, negu nurodyta šio straipsnio 4 dalies 3 punkte. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, alkoholinių gėrimų pardavėjai privalo atsisakyti parduoti jam alkoholinius gėrimus.
+5. Alkoholinių gėrimų pardavėjai turi teisę iš visų alkoholinius gėrimus perkančių asmenų reikalauti pateikti asmens tapatybę liudijantį dokumentą, o kai yra abejonių, kad asmuo yra jaunesnis negu 25 metų, privalo iš perkančio alkoholinius gėrimus asmens reikalauti pateikti asmens tapatybę liudijantį dokumentą. Jeigu toks asmuo nepateikia jo tapatybę liudijančio dokumento, alkoholinių gėrimų pardavėjai privalo atsisakyti parduoti jam alkoholinius gėrimus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2651, 2016-09-27, paskelbta TAR 2016-10-07, i. k. 2016-24833
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1204,17 +1221,19 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 
 
-8. Savivaldybių tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių metu. 
+8. Savivaldybių tarybos turi teisę riboti ar uždrausti prekybą alkoholiniais gėrimais švenčių, parodų, koncertų, teatro spektaklių, cirko ir kitų masinių renginių metu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
 
 
-9. Savivaldybių tarybos, siekdamos užtikrinti viešąją tvarką ir visuomenės saugumą ir įvertinusios prekybos alkoholiniais gėrimais vietą, gyventojų, bendrijų, bendruomenių ar jų atstovų, asociacijų ar kitų institucijų raštu pareikštą nuomonę, policijos komisariatų pasiūlymus, turi teisę riboti laiką, kuriuo leidžiama prekiauti alkoholiniais gėrimais, neišduoti licencijos verstis mažmenine prekyba alkoholiniais gėrimais.
+9. Savivaldybių tarybos, siekdamos užtikrinti viešąją tvarką ir visuomenės saugumą ir įvertinusios prekybos alkoholiniais gėrimais vietą, gyventojų, bendrijų, bendruomenių ar jų atstovų, asociacijų ar kitų institucijų raštu pareikštą nuomonę, policijos komisariatų pasiūlymus, turi teisę riboti laiką, kuriuo leidžiama prekiauti alkoholiniais gėrimais, nustatyti vietas ir (ar) teritorijas, kuriose draudžiama prekiauti alkoholiniais gėrimais, neišduoti licencijos verstis mažmenine prekyba alkoholiniais gėrimais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1652,14 +1671,19 @@ Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 
 
-5) sporto renginių metu salėse, kuriose jie vyksta;
+5) sporto varžybų metu salėse, kuriose jos vyksta; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 
 
-6) švenčių, masinių renginių, parodų, koncertų, teatro spektaklių, cirko ir kitų renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio įstatymo 18 straipsnio 8 dalyje, metu;
+6) švenčių, parodų, koncertų, teatro spektaklių, cirko ir kitų masinių renginių, dėl kurių yra priimtas savivaldybės tarybos sprendimas, numatytas šio įstatymo 18 straipsnio 8 dalyje, metu šių renginių vietose; 
 Papildyta straipsnio punktu:
 Nr. XII-1739, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08524
+Straipsnio punkto pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -1675,12 +1699,18 @@ Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 
 
-2. Lietuvos Respublikoje draudžiama asmenims iki 18 metų vartoti alkoholinius gėrimus ar jų turėti.
+2. Lietuvos Respublikoje draudžiama asmenims iki 20 metų vartoti alkoholinius gėrimus ar jų turėti. Draudimas turėti alkoholinių gėrimų netaikomas asmenims nuo 18 metų, jeigu alkoholinių gėrimų turėjimas yra tokių asmenų darbo veiklos (pobūdžio) dalis darbo vietoje ir darbo metu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 
 
-3. Licencijas verstis mažmenine prekyba alkoholiniais gėrimais turinčios įmonės, Europos juridiniai asmenys ir jų filialai, vykdantys viešojo maitinimo veiklą, privalo užtikrinti, kad prekybos alkoholiniais gėrimais vietose asmenys iki 18 metų nevartotų alkoholinių gėrimų.
+3. Licencijas verstis mažmenine prekyba alkoholiniais gėrimais turinčios įmonės, Europos juridiniai asmenys ir jų filialai, vykdantys viešojo maitinimo veiklą, privalo užtikrinti, kad prekybos alkoholiniais gėrimais vietose asmenys iki 20 metų nevartotų alkoholinių gėrimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 Straipsnio pakeitimai:
@@ -1853,7 +1883,10 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 
 
-2. Įmonėms, Europos juridiniams asmenims ir jų filialams draudžiama alkoholinių gėrimų pardavimo skatinimo veiklai pasitelkti asmenis iki 18 metų.
+2. Įmonėms, Europos juridiniams asmenims ir jų filialams draudžiama alkoholinių gėrimų pardavimo skatinimo veiklai pasitelkti asmenis iki 20 metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+ 
 
 
 Straipsnio pakeitimai:
@@ -1865,140 +1898,30 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 
 
-29 straipsnis. Alkoholio reklamos ribojimas
+29 straipsnis. Alkoholio reklamos draudimas
 
 
-1. Lietuvos Respublikoje draudžiama visų formų alkoholio reklama:
+1. Lietuvos Respublikoje alkoholio reklama draudžiama.
 
 
-1) skirta vaikams ir paaugliams iki 18 metų;
 
 
+2. Reklama nelaikoma informacija apie alkoholinius gėrimus informaciniuose pranešimuose, kurie skirti tik alkoholio verslo specialistams, taip pat alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių, Europos juridinių asmenų ar jų filialų registruoti pavadinimai (jeigu alkoholinių gėrimų gamintojo pavadinimas yra sudedamoji šių įmonių, Europos juridinių asmenų ar jų filialų registruoto pavadinimo dalis) ir prekių ženklai, kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių įmonių, Europos juridinių asmenų ar jų filialų buveinės ar padalinio pastato ir valdomo transporto. Reklama nelaikomi alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių, Europos juridinių asmenų ir jų filialų registruoti pavadinimai ar prekių ženklai, kai šie pavadinimai ar prekių ženklai nereguliariai ir netikėtai matomi Lietuvos Respublikos jurisdikcijai priklausančių transliuotojų ir retransliuotojų transliuojamose ar retransliuojamose programose ir kai šių pavadinimų ir prekių ženklų atvaizdai yra šalutiniai, palyginti su transliuojamos ar retransliuojamos programos vaizdais, taip pat Lietuvos Respublikos teisės aktuose ant alkoholinio gėrimo ir (ar) jo pirminės (prekinės) ar antrinės (grupinės) pakuotės nustatyti ženklinimo rekvizitai ir kita ženklinimo informacija, alkoholinių gėrimų eksponavimas (pateikimas parduoti), alkoholinio gėrimo grupė, pogrupis, kategorija, alkoholinio gėrimo kilmės šalis, geografinė nuoroda, regionas, alkoholinių gėrimų gamintojų ar alkoholiniais gėrimais prekiaujančių įmonių pavadinimai ir registruoti prekių ženklai, alkoholinio gėrimo kaina, kai ši informacija pateikiama mažmeninės prekybos ar viešojo maitinimo vietose, kuriose alkoholiniai gėrimai parduodami vartotojui, ar alkoholinius gėrimus gaminančių ar jais prekiaujančių įmonių interneto svetainėse.
 
 
-2) kurioje dalyvauja asmenys iki 18 metų;
 
 
+3. Kaip laikomasi šiame straipsnyje nustatytų reikalavimų, kontroliuoja Narkotikų, tabako ir alkoholio kontrolės departamentas.
 
 
-3) kurioje dalyvauja sportininkai, gydytojai, politikai, meno ir mokslo įžymybės, kiti garsūs visuomenės veikėjai, naudojamas jų asmuo, vardas, atvaizdas ir pan.;
 
 
+4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę alkoholio reklamą pasiekti.
 
 
-4) siejanti alkoholio vartojimą su fizinės būklės pagerėjimu;
 
 
-
-
-5) siejanti alkoholio vartojimą su vairavimu;
-
-
-
-
-6) siejanti alkoholio vartojimą su psichinės veiklos pagerėjimu, asmeninių problemų sprendimu;
-
-
-
-
-7) siejanti alkoholio vartojimą su stimuliuojančiomis, raminančiomis ir kitomis gydomosiomis savybėmis;
-
-
-
-
-8) siejanti alkoholio vartojimą su socialine sėkme, padidintu seksualiniu aktyvumu;
-
-
-
-
-9) palankiai vaizduojanti nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepianti apie abstinenciją ir saikingumą;
-
-
-
-
-10) pateikianti didesnę tūrinę etilo alkoholio koncentraciją kaip alkoholinių gėrimų privalumą;
-
-
-
-
-11) pateikianti neteisingą ir (ar) klaidinančią informaciją apie alkoholinius gėrimus.
-
-
-
-
-
-
-2. Alkoholio reklama draudžiama:
-
-
-1) laikraščių ir jų savarankiškų priedų, žurnalų bei knygų išorinėse viršelių pusėse; 
-
-
-
-
-2) vaikams ir paaugliams skirtuose laikraščiuose, žurnaluose, knygose, televizijos ir radijo programose;
-
-
-
-
-3) Lietuvos Respublikos jurisdikcijai priklausančių transliuotojų ir retransliuotojų transliuojamose programose nuo 6 valandos iki 23 valandos (išskyrus tiesiogiai ir ištisai transliuojamus ar retransliuojamus tarptautinius meno, kultūros ar sporto renginius);
-
-
-
-
-4) koncertų, cirko, diskotekų, jaunimo sporto ir laisvalaikio renginių, kitų masinių renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus šių renginių vietose esančias prekybos vietas. Masiniuose renginiuose (išskyrus vaikams ir paaugliams iki 18 metų skirtus renginius) gali būti pateikiamas renginį remiančios ir alkoholinius gėrimus, kuriais leidžiama prekiauti masiniuose renginiuose, gaminančios arba jais prekiaujančios įmonės, Europos juridinio asmens ar jo filialo pavadinimas ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys teisės aktų reikalavimams; 
-
-
-
-
-5) švietimo, mokslo ir ugdymo įstaigose;
-
-
-
-
-6) visose sveikatos priežiūros įstaigose;
-
-
-
-
-7) visuomeninio transporto priemonių viduje ir išorėje;
-
-
-
-
-8) degalinėse ir jų teritorijose, išskyrus jose esančias alkoholinių gėrimų prekybos vietas; 
-
-
-
-
-9) ant atvirlaiškių, vokų ir pašto ženklų.
-
-
-
-
-
-
-3. Loterijose, žaidimuose, konkursuose draudžiama teikti alkoholinius gėrimus kaip prizus arba kartu su jais. 
-
-
-
-
-4. Lietuvos Respublikoje draudžiama išorinė alkoholio reklama, išskyrus alaus, alaus mišinių su nealkoholiniais gėrimais bei natūralios fermentacijos vyno ir sidro išorinę reklamą.
-
-
-
-
-5. Alaus, alaus mišinių su nealkoholiniais gėrimais bei natūralios fermentacijos vyno ir sidro išorinėje reklamoje (išskyrus tuos atvejus, kai išorinėje reklamoje pateikiami tik alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių pavadinimai ir (ar) jų prekių ženklai) turi būti įspėjamasis tekstas apie žalingą alkoholio poveikį sveikatai. Šio teksto formą, turinį ir jo vietą reklamoje nustato Sveikatos apsaugos ministerija.
-
-
-
-
-6. Reklama nelaikoma informacija apie alkoholinius gėrimus informaciniuose pranešimuose, kurie skirti tik alkoholio verslo specialistams, taip pat alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių, Europos juridinių asmenų ar jų filialų registruoti pavadinimai (jeigu alkoholinių gėrimų gamintojo pavadinimas yra sudedamoji šių įmonių, Europos juridinių asmenų ar jų filialų registruoto pavadinimo dalis) ir prekių ženklai, kai šie pavadinimai ir prekių ženklai pateikiami iškabose ant šių įmonių, Europos juridinių asmenų ar jų filialų buveinės ar padalinio pastato ir valdomo transporto. Reklama taip pat nelaikomi alkoholinius gėrimus gaminančių arba jais prekiaujančių įmonių, Europos juridinių asmenų ar jų filialų registruoti pavadinimai ir prekių ženklai, kai šie pavadinimai ar prekių ženklai nereguliariai ir netikėtai matomi transliuojamose ar retransliuojamose programose ir kai šių pavadinimų ir prekių ženklų atvaizdai yra šalutiniai, palyginti su transliuojamos ar retransliuojamos programos vaizdais.
-
-
-
-
-7. Kaip laikomasi šio straipsnio reikalavimų, kontroliuoja Narkotikų, tabako ir alkoholio kontrolės departamentas, savivaldybių institucijos (išorinės reklamos draudimo pažeidimus).
+5. Narkotikų, tabako ir alkoholio kontrolės departamentas, siekdamas atlikti šio straipsnio 4 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, o jeigu tokio asmens vardo, pavardės arba pavadinimo neįmanoma nustatyti ar šių duomenų nustatymas reikalauja neproporcingai daug sąnaudų, turi būti nurodytas asmens (asmenų), kurių naudai arba interesais skleidžiama alkoholio reklama, pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas išnagrinėja prašymą išduoti leidimą atlikti veiksmus ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Narkotikų, tabako ir alkoholio kontrolės departamentas nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, jis turi teisę per 7 darbo dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 darbo dienas nuo Narkotikų, tabako ir alkoholio kontrolės departamento skundo priėmimo dienos. Narkotikų, tabako ir alkoholio kontrolės departamento atstovas turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. 
 
 
 Straipsnio pakeitimai:
@@ -2008,7 +1931,9 @@ Nr. X-1750, 2008-10-14, Žin., 2008, Nr. 123-4660 (2008-10-25)
 Nr. XI-1179, 2010-11-30, Žin., 2010, Nr. 145-7432 (2010-12-11)
 Nr. XI-1779, 2011-12-06, Žin., 2011, Nr. 153-7207 (2011-12-15)
 Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
-Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836 
+Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
+Straipsnio pakeitimai:
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -2119,9 +2044,11 @@ Nr. XII-1308, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17040
 
 
 
-4. Už šio Įstatymo 18 straipsnio 4 dalies 3, 4, 5 punktų reikalavimų nesilaikymą įmonės, Europos juridiniai asmenys ir jų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. 
+4. Už šio Įstatymo 18 straipsnio 4 dalies 2, 3, 4, 5 punktuose nustatytų reikalavimų nesilaikymą įmonės, Europos juridiniai asmenys ir jų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per dvejus metus nuo baudos paskyrimo, – nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. 
+TAR pastaba. 4 dalis taikoma Lietuvos Respublikos alkoholio kontrolės įstatymo 18 straipsnio 4 dalies 2, 3, 4, 5 punktų pažeidimams, padarytiems įsigaliojus įstatymui Nr. XIII-394.
 Straipsnio dalies pakeitimai:
 Nr. XII-1308, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17040
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
@@ -3069,3 +2996,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 IV skyriaus treči
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-156, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29848
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 33 ir 35 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 16, 16-1, 17, 18, 22, 28, 29 ir 34 straipsnių pakeitimo įstatymas
