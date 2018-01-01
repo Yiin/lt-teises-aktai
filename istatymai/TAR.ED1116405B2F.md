@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ed1116405b2f11e79198ffdb108a3753"
 
 # Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 ir 4 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-01-01
+ 
+Įstatymas paskelbtas: TAR 2017-06-27, i. k. 2017-10809
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 1 IR 4 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -54,17 +61,10 @@ Vilnius
 
 
 
-3. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
-
-
-
-
-„3. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas atitinka šio straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas. Išmoka vaikui skiriama, jeigu šio straipsnio 2 dalies 1, 2, 4, 5, 7, 8 ar 9 punkto nuostatas atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas arba jeigu šio straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas. Vienkartinė išmoka įsikurti skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1 ar 2 punkte. Vienkartinė išmoka nėščiai moteriai skiriama asmenims, nurodytiems šio straipsnio 2 dalies 1, 2, 7 ar 9 punkte. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai ir išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio straipsnio 2 dalies 1, 2 ar 9 punkto nuostatas. Išmoka įvaikinus vaiką skiriama, jeigu nors vienas iš vaiko įtėvių ir vaikas atitinka šio straipsnio 2 dalies 1 ar 2 punkto nuostatas.“
+3. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-822, 2017-12-05, paskelbta TAR 2017-12-18, i. k. 2017-20326
  
-
-
-
-
 
 
 
@@ -133,3 +133,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-822, 2017-12-05, paskelbta TAR 2017-12-18, i. k. 2017-20326
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas
