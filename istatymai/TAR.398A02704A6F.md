@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
+ 
+TAR pastaba. Tikslinių kompensacijų gavėjams, kurie iki 2017 m. gruodžio 31 d. buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, tikslinių kompensacijų mokėjimas nutraukiamas nuo 2018 m. vasario 1 d., jeigu jie iki 2018 m. sausio 31 d. nedeklaravo savo gyvenamosios vietos arba nebuvo įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-884, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21486
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 ir 7 straipsnių pakeitimo įstatymas
  
  
  
@@ -53,7 +58,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Šis įstatymas taikomas asmenims, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena) yra įrašyti į Lietuvos Respublikos gyventojų registrą:
+4. Šis įstatymas taikomas deklaravusiems gyvenamąją vietą arba įtrauktiems į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka:
 
 
 1) Lietuvos Respublikos piliečiams;
@@ -61,7 +66,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje;
+2) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje;
 
 
 
@@ -71,9 +76,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-884, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21486
+ 
 
 
 
@@ -260,7 +268,10 @@ Tikslines kompensacijas skiria ir moka savivaldybių administracijos, vadovaudam
 5. Šio straipsnio 4 dalies 4 punkte nurodytu atveju asmuo, kuris kreipiasi dėl tikslinės kompensacijos ar tikslinio priedo mokėjimo, turi atitikti bent vieną iš šių sąlygų:
 
 
-1) yra deklaravęs gyvenamąją vietą tuo pačiu adresu kaip ir slaugomas asmuo;
+1) yra deklaravęs gyvenamąją vietą arba įtrauktas į gyvenamosios vietos nedeklaravusių asmenų apskaitą tuo pačiu adresu kaip ir slaugomas asmuo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-884, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21486
+ 
 
 
 
@@ -548,3 +559,8 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 7 ir 10 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-450, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10814
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 ir 3 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-884, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21486
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 ir 7 straipsnių pakeitimo įstatymas
