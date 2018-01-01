@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-05-24
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -311,27 +311,220 @@ Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 9 straipsnis. Programos finansavimo lėšų naudojimas
 
 
-1. Programos finansavimo lėšos naudojamos automobilių keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams-buitiniams kelių statiniams projektuoti, statyti, tiesti, rekonstruoti, taisyti (remontuoti), inventorizuoti, prižiūrėti, kelių technikos, technologijos, transporto ir kitoms gamybos priemonėms įsigyti, kelių ir tiltų tyrimų, statinio statybos techninei priežiūrai, statinio saugos ir paskirties valstybinei priežiūrai atlikti, išlaidoms už skirtą žemę, nukeliamus ar griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas apmokėti, kelių informacinėms sistemoms kurti, kelių plėtrai, bendradarbiavimui su užsienio valstybėmis, teisės aktams ir normatyviniams techniniams dokumentams rengti, institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms apmokėti ir kontrolės įrangai įsigyti, paskoloms grąžinti ir palūkanoms mokėti, mokesčiams administruoti ir jų surinkimo priežiūrai, Kelių muziejui ir kelių srities istorinėms vertybėms išlaikyti, įsigyti ir eksponuoti, saugaus eismo programoms keliuose ir jų priemonėms įgyvendinti (tarp jų valstybinės reikšmės keliuose įrengtai stacionariajai Kelių eismo taisyklių pažeidimų fiksavimo įrangai prižiūrėti, gaunamai informacijai apdoroti ir kitoms saugaus eismo programoms įgyvendinti, naudojant lėšas iš sumokėtų ar išieškotų baudų už nustatyto greičio viršijimą) ir kitoms kelių srities reikmėms finansuoti.
+1. Programos finansavimo lėšos naudojamos valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra: 
+
+
+1) keliams tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
 
 
 
 
-2. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą prižiūri nuolatinė Programos komisija. Jos sudėtį ir nuostatus tvirtina Vyriausybė.
+2) keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams-buitiniams kelių statiniams, pralaidoms projektuoti, projektų ekspertizėms atlikti, kelių priežiūros ir tinklo plėtros programoms rengti, mokslo tiriamiesiems darbams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, vykdyti;
 
 
 
 
-3. Programos finansavimo lėšos naudojamos pagal Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
+3) keliams, kelių statiniams ir jų užimamai žemei inventorizuoti; 
 
 
 
 
-4. Metinėje lėšų naudojimo sąmatoje numatoma 25 procentai, o nuo 2015 m. sausio 1 d. – 30 procentų Programos finansavimo lėšų valstybei, savivaldybėms vietinės reikšmės keliams (gatvėms) tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
+4) tiltams, viadukams, estakadoms tuneliams ir gamybiniams-buitiniams kelių statiniams apskaityti, statyti, rekonstruoti, taisyti (remontuoti), inventorizuoti ir prižiūrėti;
 
 
 
 
-5. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti:
+5) kelių tiesimo, taisymo (remonto) ir priežiūros darbų techninei kontrolei, kelių, tiltų, viadukų, estakadų ir tunelių specialiesiems tyrimams, laboratoriniams darbams, kelių statinių statybos techninei priežiūrai, saugos ir paskirties valstybinei priežiūrai atlikti;
+
+
+
+
+6) kelio ruožų apšvietimo, eismo valdymo, reguliavimo priemonėms, kelių dangos šildymui įrengti;
+
+
+
+
+7) dviračių ir pėsčiųjų takams projektuoti, įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+
+
+
+
+8) poilsio aikštelėms, maršrutinio transporto sustojimo vietoms, paviljonams, pavėsinėms, tualetams ir kitiems prie kelio esantiems techniniams įrenginiams, oro sąlygų keliuose stebėjimo, transporto eismo apskaitos ir valdymo sistemoms ir kitiems kelio statiniams plėtoti; 
+
+
+
+
+9) kelių informacinėms sistemoms kurti; 
+
+
+
+
+10) žvyrkelių asfaltavimo programoms įgyvendinti;
+
+
+
+
+11) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; 
+
+
+
+
+12) Lietuvos Respublikos valstybės biudžeto lėšų, skirtų keliams tiesti, rekonstruoti, taisyti (remontuoti) ir saugaus eismo priemonėms įgyvendinti, daliai padengti vykdant Europos Sąjungos paramos lėšomis bendrai finansuojamus projektus; 
+
+
+
+
+13) valstybės įmonių, prižiūrinčių valstybinės reikšmės kelius, kelių technikai, technologijoms, transporto ir kitoms gamybos priemonėms įsigyti;
+
+
+
+
+14) išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas, tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius, apmokėti, aplinkos apsaugos reikmėms ir apsaugos nuo triukšmo statiniams prie kelių statyti, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius; 
+
+
+
+
+15) bendradarbiavimui su užsienio valstybėmis kelių tinklo plėtros ir užtikrinimo, kad šis tinklas veiktų, klausimais finansuoti; 
+
+
+
+
+16) teisės aktams ir normatyviniams dokumentams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, rengti; 
+
+
+
+
+17) kelių transporto priemonių svėrimo įrangai įsigyti;
+
+
+
+
+18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms apmokėti; 
+
+
+
+
+19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; 
+
+
+
+
+20) kelių naudotojo mokesčiui, mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis ar jų junginiais, mokesčiui už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti;
+
+
+
+
+21) Kelių muziejui ir kelių srities istorinėms vertybėms išlaikyti, įsigyti ir eksponuoti;
+
+
+
+
+22) saugaus eismo keliuose programoms ir jų priemonėms įgyvendinti (tarp jų keliuose įrengtai stacionariajai Kelių eismo taisyklių pažeidimų fiksavimo įrangai prižiūrėti, gaunamai informacijai apdoroti ir kitoms saugaus eismo programoms įgyvendinti, naudojant lėšas iš sumokėtų ar išieškotų baudų už nustatyto greičio viršijimą); 
+
+
+
+
+23) kitoms kelių srities reikmėms finansuoti. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+ 
+
+
+
+
+2. Programos finansavimo lėšos naudojamos vietinės reikšmės kelių (gatvių) tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
+
+
+1) keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+2) keliams, kelių statiniams ir jų užimamai žemei inventorizuoti;
+
+
+
+
+3) tiltams, viadukams, estakadoms, tuneliams, pralaidoms projektuoti, apskaityti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+4) apsaugos nuo triukšmo statiniams prie kelių statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+5) kelio juostoje esantiems paviršiaus vandens nuleidimo įrenginiams ir lietaus kanalizacijai įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+6) techninėms eismo reguliavimo ir kitoms inžinerinėms saugaus eismo priemonėms projektuoti, įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+7) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; 
+
+
+
+
+8) apšvietimui keliuose įrengti, rekonstruoti, taisyti (remontuoti); 
+
+
+
+
+9) kelio juostoje esančioms automobilių stovėjimo aikštelėms, viešojo transporto stotelėms ir paviljonams įrengti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+10) šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
+
+
+
+
+11) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+ 
+
+
+
+
+3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą prižiūri nuolatinė Programos komisija. Jos sudėtį ir nuostatus tvirtina Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+ 
+
+
+
+
+4. Programos finansavimo lėšos naudojamos pagal Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+ 
+
+
+
+
+5. Metinėje lėšų naudojimo sąmatoje numatoma 25 procentai, o nuo 2015 m. sausio 1 d. – 30 procentų Programos finansavimo lėšų valstybei, savivaldybėms vietinės reikšmės keliams (gatvėms) tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+ 
+
+
+
+
+6. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+ 
 
 
 1) neįgaliųjų ir jų vairuojamų specialiųjų lengvųjų automobilių; 
@@ -372,9 +565,19 @@ Nr. XII-2315, 2016-04-14, paskelbta TAR 2016-04-18, i. k. 2016-09858
 
 
 
+8) darbo reikalais vykstančių miškų urėdijos, kuriai perduotas valdyti Kuršių nerijoje esantis valstybinės miško žemės sklypas, darbuotojų ir jos transporto priemonių.
+Papildyta straipsnio punktu:
+Nr. XII-2571, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20663
+ 
 
 
-6. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
+
+
+
+
+7. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
  
 
 
