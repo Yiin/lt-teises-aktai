@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2017-07-14 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-07-04
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -818,33 +818,34 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 3,3–9,5 
- 3,4–9,7 
- 3,5–10,2 
- 3,2–8,88 
- 3,3–9,05 
- 3,4–9,23 
+ 3,41–9,5 
+ 3,52–9,7 
+ 3,61–10,2 
+ 3,31–8,88 
+ 3,41–9,05 
+ 3,52–9,23 
 
 
  5–10 
- 3,4–9,55 
- 3,5–9,9 
- 3,6–10,6 
- 3,3–9,05 
- 3,4–9,23 
- 3,5–9,41 
+ 3,52–9,55 
+ 3,61–9,9 
+ 3,71–10,6 
+ 3,41–9,05 
+ 3,52–9,23 
+ 3,61–9,41 
 
 
- daugiau kaip10 
- 3,5–9,6 
- 3,6–10,1 
- 3,7–11,0 
- 3,4–9,23 
- 3,5–9,41 
- 3,6–9,59 
+ daugiau kaip 10 
+ 3,61–9,6 
+ 3,71–10,1 
+ 3,81–11,0 
+ 3,52–9,23 
+ 3,61–9,41 
+ 3,71–9,59 
 
 
 
+ 
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
@@ -872,46 +873,48 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 3,1–8,2 
- 3,2–8,33 
- 3,3–10,0 
- 3,09–8,0 
- 3,15–8,15 
- 3,2–8,3 
+ 3,22–8,2 
+ 3,31–8,33 
+ 3,41–10,0 
+ 3,19–8,0 
+ 3,26–8,15 
+ 3,31–8,3 
 
 
  5–10 
- 3,2–8,33 
- 3,3–8,49 
- 3,4–10,4 
- 3,15–8,15 
- 3,2–8,3 
- 3,3–8,46 
+ 3,31–8,33 
+ 3,41–8,49 
+ 3,52–10,4 
+ 3,26–8,15 
+ 3,31–8,3 
+ 3,41–8,46 
 
 
  daugiau kaip 10 
- 3,3–8,49 
- 3,4–8,65 
- 3,5–10,8 
- 3,2–8,3 
- 3,3–8,47 
- 3,4–8,6 
+ 3,41–8,49 
+ 3,52–8,65 
+ 3,61–10,8 
+ 3,31–8,3 
+ 3,41–8,47 
+ 3,52–8,6 
 
 
 
  
+Priedo pakeitimai:
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
 darbuotojų darbo apmokėjimo 
 įstatymo
 3 priedas
+ 
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
@@ -932,35 +935,37 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGO
 
 
  A lygis 
- 3,06–7,6 
- 3,1–8,5 
- 3,2–9,5 
- 3,3–10,5 
+ 3,17–7,6 
+ 3,22–8,5 
+ 3,31–9,5 
+ 3,41–10,5 
 
 
  B lygis 
- 3,03–7,3 
- 3,09–7,4 
- 3,15–7,6 
- 3,2–8,0 
+ 3,15–7,3 
+ 3,19–7,4 
+ 3,26–7,6 
+ 3,32–8,0 
 
 
 
  
+Priedo pakeitimai:
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų
 darbuotojų darbo apmokėjimo 
 įstatymo
 4 priedas
  
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI 
+ 
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
 
 
@@ -979,21 +984,22 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 
 
  C lygis 
- 3,0–5,3 
- 3,02–5,4 
- 3,04–5,6 
- 3,07–7,0 
+ 3,12–5,3 
+ 3,14–5,4 
+ 3,16–5,6 
+ 3,18–7,0 
 
 
 
  
+Priedo pakeitimai:
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
 darbuotojų darbo apmokėjimo 
@@ -2610,7 +2616,6 @@ III SKYRIUS
 
 
 16. Įstaigų, nenurodytų šio priedo I ir II skyriuose, vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, pareiginės algos pastoviosios dalies koeficientai:
- 
 
 
 
@@ -2620,28 +2625,30 @@ III SKYRIUS
  Turintiems 15 ir daugiau metų pedagoginio darbo stažą 
 
 
+
+
  Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems nesuteiktos vadybinės kvalifikacinės kategorijos 
 
 
  vadovai 
- 3,87–6,49 
- 4,1–7,24 
- 4,3–8,0 
+ 4,4–6,49 
+ 4,5–7,24 
+ 4,6–8,0 
 
 
  vadovų pavaduotojai 
- 3,49–5,73 
- 3,68–6,41 
- 3,87–7,15 
+ 4,0–5,73 
+ 4,08–6,41 
+ 4,14–7,15 
 
 
  Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems suteiktos vadybinės kvalifikacinės kategorijos 
 
 
  vadovai 
-   
-   
-   
+
+
+
 
 
  I kategorija 
@@ -2663,9 +2670,9 @@ III SKYRIUS
 
 
  vadovų pavaduotojai 
-   
-   
-   
+
+
+
 
 
  I kategorija 
@@ -2686,22 +2693,25 @@ III SKYRIUS
  4,89–8,68 
 
 
- Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems teisės aktų nustatyta tvarka nesuteikiamos vadybinės kvalifikacinės kategorijos 
+ Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems nesuteikiamos vadybinės kvalifikacinės kategorijos 
 
 
  vadovai 
- 3,65–9,55 
- 3,84–10,64 
- 4,03–11,81 
+ 4,4–9,55 
+ 4,5–10,64 
+ 4,6–11,81 
 
 
  vadovų pavaduotojai 
- 3,3–8,49 
- 3,46–9,43 
- 3,62–10,48 
+ 4,0–8,49 
+ 4,08–9,43 
+ 4,14–10,48 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
  
 
 
@@ -2937,17 +2947,17 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
    Mokytojai, įgiję aukštesnįjį ar specialųjį vidurinį išsilavinimą, įgytą iki 1995 metų 
- 2,98 
- 3 
- 3,01 
- 3,03 
+ 3,15 
+ 3,19 
+ 3,26 
+ 3,31 
 
 
    Mokytojai, įgiję aukštąjį universitetinį ar koleginį išsilavinimą 
- 3,13–3,17 
- 3,15–3,19 
- 3,16–3,2 
- 3,18–3,21 
+ 3,18 
+ 3,22 
+ 3,31 
+ 3,41 
 
 
 
@@ -2956,7 +2966,7 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
 
-24.2. kuriems suteiktos kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai:
+24.2. kuriems suteiktos kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai: 
 
 
 
@@ -2967,9 +2977,9 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
  Mokytojai 
- 3,18–3,23 
- 3,2–3,27 
- 3,23–3,3 
+ 3,31 
+ 3,41 
+ 3,45 
 
 
  Vyresnieji mokytojai 
@@ -2996,14 +3006,17 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
 
-24.3. kuriems taikomos Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 2 straipsnio 6 dalies nuostatos, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 2,93; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 2,94;
+24.3. kuriems taikomos Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 2 straipsnio 6 dalies nuostatos, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 3,15; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 3,19;
 
 
 
 
-24.4. kurie dirba pagal neformaliojo švietimo programas (išskyrus ikimokyklinio ugdymo ir priešmokyklinio ugdymo bei formalųjį švietimą papildančio ugdymo programas) ir yra įgiję tik vidurinį išsilavinimą, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 2,93; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 2,94.
+24.4. kurie dirba pagal neformaliojo švietimo programas (išskyrus ikimokyklinio ugdymo ir priešmokyklinio ugdymo bei formalųjį švietimą papildančio ugdymo programas) ir yra įgiję tik vidurinį išsilavinimą, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 3,15; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 3,19. 
 
 
+Punkto pakeitimai:
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
+ 
 
 
 
@@ -3471,7 +3484,6 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
 32.1. kuriems nesuteiktos kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai:
- 
 
 
 
@@ -3483,10 +3495,10 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
  Profesijos mokytojas 
- 3,13–3,17 
- 3,15–3,19 
- 3,16–3,2 
- 3,18–3,21 
+ 3,18 
+ 3,22 
+ 3,31 
+ 3,41 
 
 
 
@@ -3495,7 +3507,7 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
 
-32.2. kuriems suteiktos kvalifikacinės kategorijos, mėnesinių tarifinių atlygių koeficientai:
+32.2. kuriems suteiktos kvalifikacinės kategorijos, mėnesinių tarifinių atlygių koeficientai: 
 
 
 
@@ -3508,9 +3520,9 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
 
 
  Profesijos mokytojas 
- 3,18–3,23 
- 3,2–3,27 
- 3,23–3,3 
+ 3,31 
+ 3,41 
+ 3,45 
 
 
  Vyresnysis profesijos mokytojas 
@@ -3535,6 +3547,9 @@ MOKYTOJŲ DARBO APMOKĖJIMAS
  
 
 
+Punkto pakeitimai:
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
+ 
 
 
 
@@ -3880,3 +3895,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 17 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 2, 3, 4 ir 5 priedų pakeitimo įstatymas
