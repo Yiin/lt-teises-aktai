@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
  
@@ -336,9 +336,11 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 
 
 
-8. Nuo mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis atleidžiami sąvartynų operatoriai už pašalintas fosfogipso atliekas.
+8. Nuo mokesčio už aplinkos teršimą sąvartyne šalinamomis atliekomis atleidžiami sąvartynų operatoriai už pašalintas fosfogipso atliekas ir pavojingųjų atliekų sąvartyne šalinamas po pavojingųjų atliekų deginimo susidariusias pavojingąsias atliekas (dugno ir lakiuosius pelenus). 
 Papildyta straipsnio dalimi:
 Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
+Straipsnio dalies pakeitimai:
+Nr. XIII-321, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07680
  
 
 
@@ -1404,6 +1406,11 @@ Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 7 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2244, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21031
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 2, 3, 4, 5, 6, 8, 9, 10 straipsnių pakeitimo ir Įstatymo papildymo 7, 8 priedėliais įstatymo Nr. XII-1328 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-321, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07680
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 5 straipsnio pakeitimo įstatymas
  
  
 
