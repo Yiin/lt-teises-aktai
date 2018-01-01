@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-12-18
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1659, i. k. 0971010ISTAVIII-371
  
@@ -171,7 +171,11 @@ PRIVAČIŲ INTERESŲ DEKLARAVIMAS
 4 straipsnis. Privačių interesų deklaracija
 
 
-1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams, ministerijų kolegijų nariams, Privalomojo sveikatos draudimo tarybos nariams, taip pat gydytojams, odontologams ir farmacijos specialistams, dirbantiems biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją.
+1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams, Lietuvos Respublikos Seimo komitetų patvirtintiems ekspertams, ministerijų kolegijų nariams, akcinių bendrovių bei uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų ir valdybų nariams, valstybės ar savivaldybių įmonių valdybų nariams, Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, dirbantiems biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją, taip pat viešojo pirkimo komisijos nariams, asmenims, perkančiosios organizacijos vadovo paskirtiems atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantiems ekspertams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
+ 
 
 
 
@@ -195,7 +199,10 @@ Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 5 straipsnis. Deklaracijos pateikimas 
 
 
-1. Asmenys, nurodyti šio įstatymo 4 straipsnio 1 ir 2 dalyse (išskyrus asmenis, pretenduojančius į pareigas valstybinėje tarnyboje, ir asmenis, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą), privalo pateikti deklaraciją elektroninėmis priemonėmis Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka. Asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalyje, privalo deklaraciją pateikti per 30 kalendorinių dienų nuo jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos. 
+1. Privačius interesus deklaruojantys asmenys privalo pateikti deklaraciją elektroninėmis priemonėmis Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka per 30 kalendorinių dienų nuo jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos (išskyrus šio įstatymo 4 straipsnio 2 dalyje, šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
 
 
 
@@ -210,12 +217,26 @@ Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 
 
-4. Deklaracija gali būti teikiama ne tik institucijos (juridinio asmens), kurioje asmuo dirba, vadovui ar jo įgaliotam atstovui, bet ir pavaldaus ar atskaitingo juridinio asmens arba kito juridinio asmens vadovui ar jo įgaliotam atstovui, jeigu tai numato tos institucijos (juridinio asmens) veiklos tvarką nustatantis teisės aktas.
+4. Viešojo pirkimo komisijos nariai, asmenys, perkančiosios organizacijos vadovo paskirti atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantys ekspertai privačių interesų deklaraciją pateikia elektroninėmis priemonėmis (jeigu jos dar nebuvo pateiktos) iki dalyvavimo viešojo pirkimo procedūrose pradžios. Viešojo pirkimo komisijos narys, asmuo, perkančiosios organizacijos vadovo paskirtas atlikti supaprastintus pirkimus, ar viešųjų pirkimų procedūrose dalyvaujantis ekspertas, nepateikę privačių interesų deklaracijos, neturi teisės dalyvauti viešajame pirkime ir turi būti atšaukti iš atitinkamų pareigų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
 
 
 
 
-5. Teisės aktų nustatytais atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės etikos komisijos.
+5. Deklaracija gali būti teikiama ne tik institucijos (juridinio asmens), kurioje asmuo dirba, vadovui ar jo įgaliotam atstovui, bet ir pavaldaus ar atskaitingo juridinio asmens arba kito juridinio asmens vadovui ar jo įgaliotam atstovui, jeigu tai numato tos institucijos (juridinio asmens) veiklos tvarką nustatantis teisės aktas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
+
+
+
+
+6. Teisės aktų nustatytais atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės etikos komisijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
 
 
 Straipsnio pakeitimai:
@@ -394,9 +415,11 @@ Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
 10 straipsnis. Privačių interesų duomenų viešumas
 
 
-1. Valstybės politikų, valstybės pareigūnų, teisėjų, valstybės ir savivaldybių institucijų vadovų ir jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, valstybės tarnautojų, einančių institucijų ar įstaigų struktūrinių padalinių vadovų ir jų pavaduotojų pareigas, valstybės ir savivaldybių įmonių, biudžetinių įstaigų vadovų ir jų pavaduotojų, viešųjų įstaigų ir asociacijų, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, vadovų ir jų pavaduotojų, Lietuvos banko darbuotojų, turinčių viešojo administravimo įgaliojimus (atliekančių finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, vadovų ir jų pavaduotojų, politinių partijų pirmininkų ir jų pavaduotojų, valstybės politikų visuomeninių konsultantų, padėjėjų, patarėjų, ministerijų kolegijų narių, Privalomojo sveikatos draudimo tarybos narių, taip pat gydytojų, odontologų ir farmacijos specialistų, dirbančių biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją (išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą), deklaracijų duomenys yra vieši ir Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka skelbiami Vyriausiosios tarnybinės etikos komisijos interneto svetainėje. Asmens, kurio deklaracijos duomenys yra vieši, praradusio deklaruojančio asmens statusą, prašymu Vyriausioji tarnybinės etikos komisija organizuoja deklaracijos viešo skelbimo Vyriausiosios tarnybinės etikos komisijos interneto svetainėje nutraukimą. 
+1. Valstybės politikų, valstybės pareigūnų, teisėjų, valstybės ir savivaldybių institucijų vadovų ir jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, valstybės tarnautojų, einančių institucijų ar įstaigų struktūrinių padalinių vadovų ir jų pavaduotojų pareigas, valstybės ir savivaldybių įmonių, biudžetinių įstaigų vadovų ir jų pavaduotojų, viešųjų įstaigų ir asociacijų, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, vadovų ir jų pavaduotojų, Lietuvos banko darbuotojų, turinčių viešojo administravimo įgaliojimus (atliekančių finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų, valdybų narių, vadovų ir jų pavaduotojų, valstybės ir savivaldybių įmonių valdybų narių, politinių partijų pirmininkų ir jų pavaduotojų, valstybės politikų visuomeninių konsultantų, padėjėjų, patarėjų, Lietuvos Respublikos Seimo komitetų patvirtintų ekspertų, ministerijų kolegijų narių, Privalomojo sveikatos draudimo tarybos narių, Privalomojo sveikatos draudimo tarybos visuomeninių patarėjų, Nacionalinės sveikatos tarybos narių, gydytojų, odontologų ir farmacijos specialistų, dirbančių biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją, taip pat viešojo pirkimo komisijos narių, asmenų, perkančiosios organizacijos vadovo paskirtų atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujančių ekspertų (išskyrus deklaracijų duomenis asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą) deklaracijų duomenys yra vieši ir Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka skelbiami Vyriausiosios tarnybinės etikos komisijos interneto svetainėje. Asmens, kurio deklaracijos duomenys yra vieši, praradusio deklaruojančio asmens statusą, prašymu Vyriausioji tarnybinės etikos komisija organizuoja deklaracijos viešo skelbimo Vyriausiosios tarnybinės etikos komisijos interneto svetainėje nutraukimą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
  
 
 
@@ -488,6 +511,22 @@ Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
  
 
 
+
+
+8. Šio straipsnio nuostatos taikomos akcinių bendrovių bei uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų ir valdybų nariams, valstybės ir savivaldybių įmonių valdybų nariams, taip pat viešojo pirkimo komisijos nariams, asmenims, perkančiosios organizacijos vadovo paskirtiems atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantiems ekspertams. 
+Papildyta straipsnio dalimi:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
+
+
+
+
+9. Viešojo pirkimo komisijos narių, asmenų, perkančiosios organizacijos vadovo paskirtų atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujančių ekspertų nusišalinimo tvarkos aprašą tvirtina Vyriausioji tarnybinės etikos komisija kartu su Viešųjų pirkimų tarnyba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1438, 2003-04-03, Žin., 2003, Nr. 38-1683 (2003-04-24)
 Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
@@ -545,7 +584,11 @@ Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
 
 
 
-3. Šio straipsnio nuostatos taip pat taikomos ministerijų kolegijų nariams, Privalomojo sveikatos draudimo tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, nurodytiems šio įstatymo 4 straipsnio 1 dalyje.
+3. Šio straipsnio nuostatos taip pat taikomos akcinių bendrovių bei uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų ir valdybų nariams, valstybės ir savivaldybių įmonių valdybų nariams, ministerijų kolegijų nariams, Lietuvos Respublikos Seimo komitetų patvirtintiems ekspertams, Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, nurodytiems šio įstatymo 4 straipsnio 1 dalyje, taip pat viešojo pirkimo komisijos nariams, asmenims, perkančiosios organizacijos vadovo paskirtiems atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantiems ekspertams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
+ 
 
 
 Straipsnio pakeitimai:
@@ -755,7 +798,7 @@ Nr. IX-597, 2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
 22 straipsnis. Kontrolės institucijos ir pareigūnai 
 
 
-1. Kaip asmenys, dirbantys valstybinėje tarnyboje, vykdo šio įstatymo nuostatas, kontroliuoja: 
+1. Kaip asmenys, kuriems taikomos šio įstatymo nuostatos, jį vykdo, kontroliuoja:
 
 
 1) Vyriausioji tarnybinės etikos komisija;
@@ -763,14 +806,22 @@ Nr. IX-597, 2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
 
 
 
-2) atitinkamų valstybės ar savivaldybių institucijų, įstaigų vadovai ar jų įgalioti atstovai;
+2) atitinkamų valstybės ar savivaldybių institucijų, įstaigų vadovai ar jų įgalioti atstovai; 
 
 
 
 
-3) kitos valstybės institucijos teisės aktų nustatyta tvarka. 
+3) perkančiosios organizacijos vadovas arba jo įgalioti asmenys (dėl viešojo pirkimo komisijos narių, asmenų, perkančiosios organizacijos vadovo paskirtų atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujančių ekspertų);
 
 
+
+
+4) kitos valstybės institucijos teisės aktų nustatyta tvarka. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+ 
 
 
 
@@ -967,3 +1018,13 @@ Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje t
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
 Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
+Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 4, 5, 10, 11, 13 ir 22 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
+Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 4, 10 ir 13 straipsnių pakeitimo įstatymas
