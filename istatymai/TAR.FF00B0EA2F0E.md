@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2015-06-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-11-12
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
  
@@ -440,7 +440,15 @@ Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 
 
 
-3) samdomų asociacijos darbuotojų skaičius finansinių metų pabaigoje.
+3) samdomų asociacijos darbuotojų skaičius finansinių metų pabaigoje;
+
+
+
+
+4) informacija apie gautą paramą (pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė) ir jos panaudojimą. 
+Papildyta straipsnio punktu:
+Nr. XIII-488, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11075
+ 
 
 
 
@@ -452,10 +460,12 @@ Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 
 
 
-4. Metinių finansinių ataskaitų rinkinys, o kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ir veiklos ataskaita yra pateikiami juridinių asmenų registrui.
+4. Asociacijos veiklos ataskaita ir metinių finansinių ataskaitų rinkinys, o kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada yra pateikiami juridinių asmenų registro tvarkytojui ir paskelbiami asociacijos interneto svetainėje (jeigu asociacija ją turi), išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus viešai neskelbtini. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami juridinių asmenų registro tvarkytojo interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-488, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11075
+ 
 
 
-TAR pastaba. Nuostatos dėl metinių finansinių ataskaitų rinkinio teikimo juridinių asmenų registrui taikomos teikiant 2015 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius.
 Straipsnio pakeitimai:
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
  
@@ -978,3 +988,8 @@ Lietuvos Respublikos asociacijų įstatymo 8 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9 ir 10 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-488, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11075
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 10 straipsnio pakeitimo įstatymas
