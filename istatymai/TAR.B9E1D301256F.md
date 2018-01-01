@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2017-03-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -1894,8 +1894,6 @@ Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
 
 
 
-2. Rūkomajam tabakui taikomas 54,16 euro už kilogramą produkto akcizų tarifas.
-2 dalies redakcija nuo 2018-01-01:
 2. Rūkomajam tabakui taikomas 60,24 euro už kilogramą produkto akcizų tarifas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1121, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13631
@@ -2003,9 +2001,10 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 37 straipsnis. Gazoliams taikomi akcizų tarifai
 
 
-1. Gazoliams taikomas 330,17 euro už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip. 
+1. Gazoliams taikomas 347 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
  
 
 
@@ -2019,9 +2018,10 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 
 
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 21 euro už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 56 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1902, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10505
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
  
 
 
@@ -2493,14 +2493,9 @@ Akcizų už akmens anglis, koksą ir (arba) lignitą mokėtojai yra registruoti 
 
 
 
-53 straipsnis. Akmens anglių, kokso ir lignito atleidimas nuo akcizų
-
-
-Nuo akcizų už akmens anglis, koksą ir lignitą atleidžiami akmens anglys, koksas ir lignitas, kai jie parduodami ar kitaip perduodami nuosavybėn gyventojams, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
+53 straipsnis. Neteko galios nuo 2018-01-01
+Straipsnio naikinimas:
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 Straipsnio pakeitimai:
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
  
@@ -2639,12 +2634,12 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 
 
-3) gamtinės dujos, naudojamos kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalai;
+3) gamtinės dujos, naudojamos kaip variklių degalai;
 
 
 
 
-4) buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, tiekiamos gamtinės dujos, išskyrus gamtines dujas, naudojamas kaip variklių degalai;
+4) buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, tiekiamos gamtinės dujos;
 
 
 
@@ -2661,23 +2656,14 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 
 
-2. Asmenys, teikiantys vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais paslaugas ir tam naudojantys nuo akcizų atleistas gamtines dujas kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalus, taip pat asmenys, naudojantys gamtines dujas mišriai šilumos ir elektros energijos gamybai, registruojami centrinio mokesčių administratoriaus nustatyta tvarka. 
-
-
-
-
-3. Nuo akcizų atleistų gamtinių dujų, naudojamų kaip vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusų variklių degalai, taip pat nuo akcizų atleistų gamtinių dujų, naudojamų mišriai šilumos ir elektros energijos gamybai, apskaita tvarkoma centrinio mokesčių administratoriaus nustatyta tvarka.
-
-
-
-
-4. Tais atvejais, kai asmuo gamtines dujas, už kurias šio įstatymo nustatyta tvarka buvo sumokėti akcizai, panaudoja šio straipsnio 1 dalyje nurodytais būdais, akcizai grąžinami Mokesčių administravimo įstatymo nustatyta tvarka, reglamentuojančia mokesčių permokos grąžinimą.
-
-
+2. Tais atvejais, kai asmuo gamtines dujas, už kurias šio įstatymo nustatyta tvarka buvo sumokėti akcizai, panaudoja šio straipsnio 1 dalyje nurodytais būdais, akcizai grąžinami Mokesčių administravimo įstatymo nustatyta tvarka, reglamentuojančia mokesčių permokos grąžinimą. 
 Įstatymas papildytas straipsniu:
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
+
+
 Straipsnio pakeitimai:
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
  
 
 
@@ -2686,7 +2672,10 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 59 straipsnis. Gamtinėms dujoms taikomi akcizų tarifai
 
 
-1. Gamtinėms dujoms, kurios naudojamos kaip variklių degalai, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas.
+1. Gamtinėms dujoms, išskyrus šio straipsnio 2 ir 3 dalyse nurodytas gamtines dujas, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
+ 
 
 
 
@@ -3230,6 +3219,11 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 30 ir 31 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir 31 straipsnių pakeitimo įstatymo Nr. XII-2145 1, 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 30, 31, 37, 58-1, 59 straipsnių pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
  
  
 
