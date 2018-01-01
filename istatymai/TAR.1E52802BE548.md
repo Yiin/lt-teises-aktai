@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -766,10 +766,11 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-3. Viešosios įstaigos metinių finansinių ataskaitų rinkinį, o tais atvejais, kai auditas atliktas, audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada pateikia juridinių asmenų registrui. Viešosios įstaigos, priskiriamos viešojo sektoriaus subjektams, metinių finansinių ataskaitų rinkinį, o tais atvejais, kai auditas atliktas, audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada juridinių asmenų registrui teikia Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
-TAR pastaba. 3 dalies nuostatos dėl metinių finansinių ataskaitų rinkinio teikimo Juridinių asmenų registrui taikomos teikiant 2015 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius.
+3. Viešosios įstaigos metinių finansinių ataskaitų rinkinį, o tais atvejais, kai auditas atliktas, audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada pateikia juridinių asmenų registro tvarkytojui. Viešosios įstaigos, priskiriamos viešojo sektoriaus subjektams, metinių finansinių ataskaitų rinkinį, o tais atvejais, kai auditas atliktas, audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada juridinių asmenų registro tvarkytojui teikia Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami juridinių asmenų registro tvarkytojo interneto svetainėje. 
 Papildyta straipsnio dalimi:
 Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
+Straipsnio dalies pakeitimai:
+Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
  
 
 
@@ -817,7 +818,10 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-3) viešosios įstaigos gautos lėšos ir jų šaltiniai per finansinius metus ir šių lėšų panaudojimas pagal ekonominės klasifikacijos straipsnius;
+3) viešosios įstaigos gautos lėšos ir jų šaltiniai per finansinius metus ir šių lėšų panaudojimas (pateikiant informaciją apie lėšas, gautas iš paramos teikėjų juridinių asmenų, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
+ 
 
 
 
@@ -864,9 +868,10 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-4. Viešosios įstaigos veiklos ataskaita yra viešas dokumentas. Viešosios įstaigos veiklos ataskaita turi būti pateikta juridinių asmenų registrui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai auditas atliktas, kartu su audituotu metinių finansinių ataskaitų rinkiniu ir auditoriaus išvada ir paskelbta viešosios įstaigos interneto svetainėje, jeigu viešoji įstaiga ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šia ataskaita susipažinti viešosios įstaigos buveinėje.
+4. Viešosios įstaigos veiklos ataskaita ir metinis finansinių ataskaitų rinkinys yra vieši dokumentai. Viešosios įstaigos veiklos ataskaita turi būti pateikta juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai auditas atliktas, kartu su audituotu metinių finansinių ataskaitų rinkiniu ir auditoriaus išvada ir šie dokumentai turi būti paskelbti viešosios įstaigos interneto svetainėje, jeigu viešoji įstaiga ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti viešosios įstaigos buveinėje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
+Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
  
 
 
@@ -1407,3 +1412,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 ir 12 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 papildymo 8-1 straipsniu ir 9 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 ir 12 straipsnių pakeitimo įstatymas
