@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
-Suvestinė redakcija nuo 2013-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
  
@@ -21,10 +21,13 @@ Suvestinė redakcija nuo 2013-01-01 iki 2017-12-31
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
  
-DĖL LIETUVOS AUKŠČIAUSIOJO TEISMO, LIETUVOS APELIACINIO TEISMO, APYGARDŲ TEISMŲ ĮSTEIGIMO, APYGARDŲ IR APYLINKIŲ TEISMŲ VEIKLOS TERITORIJŲ NUSTATYMO BEI LIETUVOS RESPUBLIKOS PROKURATŪROS REFORMAVIMO
+DĖL LIETUVOS AUKŠČIAUSIOJO TEISMO, LIETUVOS APELIACINIO TEISMO, APYGARDŲ TEISMŲ ĮSTEIGIMO, APYGARDŲ TEISMŲ VEIKLOS TERITORIJŲ NUSTATYMO IR LIETUVOS RESPUBLIKOS PROKURATŪROS REFORMAVIMO
  
 1994 m. birželio 15 d. Nr. I-497
 Vilnius
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
  
 
 
@@ -163,17 +166,38 @@ Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA0
 
 
 
-Nustatomos šios apygardų teismų veiklos teritorijos:
-Vilniaus apygardos teismo veiklos teritorija apima: Vilniaus miesto apylinkės teismo veiklos teritoriją, Šalčininkų, Širvintų, Švenčionių, Trakų, Ukmergės ir Vilniaus rajonų apylinkių teismų veiklos teritorijas;
-Kauno apygardos teismo veiklos teritorija apima: Kauno apylinkės teismo veiklos teritoriją, Druskininkų miesto apylinkės teismo veiklos teritoriją, Alytaus, Jonavos, Jurbarko, Kaišiadorių, Kėdainių, Lazdijų, Marijampolės, Prienų, Šakių, Varėnos ir Vilkaviškio rajonų apylinkių teismų veiklos teritorijas;
-Klaipėdos apygardos teismo veiklos teritorija apima: Klaipėdos ir Palangos miestų apylinkių teismų veiklos teritorijas, Klaipėdos, Kretingos, Plungės, Skuodo, Šilalės, Šilutės ir Tauragės rajonų apylinkių teismų veiklos teritorijas;
-Šiaulių apygardos teismo veiklos teritorija apima: Šiaulių apylinkės teismo veiklos teritoriją, Akmenės, Joniškio, Kelmės, Mažeikių, Pakruojo, Radviliškio, Raseinių ir Telšių rajonų apylinkių teismų veiklos teritorijas;
-Panevėžio apygardos teismo veiklos teritorija apima: Panevėžio ir Visagino miestų apylinkių teismų veiklos teritorijas, Anykščių, Biržų, Ignalinos, Molėtų, Kupiškio, Pasvalio, Rokiškio, Utenos ir Zarasų rajonų apylinkių teismų veiklos teritorijas.
+Nustatomos šios apygardų teismų veiklos teritorijos: 
+
+
+1) Vilniaus apygardos teismo veiklos teritorija apima: Vilniaus miesto apylinkės teismo ir Vilniaus regiono apylinkės teismo veiklos teritorijas;
+
+
+
+
+2) Kauno apygardos teismo veiklos teritorija apima: Kauno apylinkės teismo, Alytaus apylinkės teismo ir Marijampolės apylinkės teismo veiklos teritorijas; 
+
+
+
+
+3) Klaipėdos apygardos teismo veiklos teritorija apima: Klaipėdos apylinkės teismo, Plungės apylinkės teismo ir Tauragės apylinkės teismo veiklos teritorijas; 
+
+
+
+
+4) Šiaulių apygardos teismo veiklos teritorija apima: Šiaulių apylinkės teismo ir Telšių apylinkės teismo veiklos teritorijas; 
+
+
+
+
+5) Panevėžio apygardos teismo veiklos teritorija apima: Panevėžio apylinkės teismo ir Utenos apylinkės teismo veiklos teritorijas.
+
+
 Straipsnio dalies pakeitimai:
 Nr. I-688, 1994-12-08, Žin., 1994, Nr. 96-1881 (1994-12-14), i. k. 0941010ISTA000I-688
 Nr. VIII-1719, 2000-06-08, Žin., 2000, Nr. 52-1480 (2000-06-28), i. k. 1001010ISTAIII-1719
 Nr. XI-1899, 2011-12-22, Žin., 2012, Nr. 5-139 (2012-01-07), i. k. 1111010ISTA0XI-1899
 Nr. XI-2210, 2012-09-11, Žin., 2012, Nr. 108-5462 (2012-09-19), i. k. 1121010ISTA0XI-2210
+Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
  
 
 
@@ -181,62 +205,9 @@ Nr. XI-2210, 2012-09-11, Žin., 2012, Nr. 108-5462 (2012-09-19), i. k. 1121010IS
 
 
 
-7 straipsnis
-
-
-Apylinkių teismų veiklos teritorijos atitinka savivaldybių teritorijas su šiame straipsnyje nurodytomis išimtimis.
-
-
-
-
-Kauno apylinkės teismo veiklos teritorija apima Kauno miesto savivaldybės teritoriją ir Kauno rajono savivaldybės teritoriją.
-
-
-
-
-Šiaulių apylinkės teismo veiklos teritorija apima Šiaulių miesto savivaldybės teritoriją ir Šiaulių rajono savivaldybės teritoriją.
-
-
-
-
-Klaipėdos miesto apylinkės teismo veiklos teritorija apima Klaipėdos miesto savivaldybės teritoriją ir Neringos savivaldybės teritoriją.
-
-
-
-
-Panevėžio miesto apylinkės teismo veiklos teritorija apima Panevėžio miesto savivaldybės teritoriją ir Panevėžio rajono savivaldybės teritoriją.
-
-
-
-
-Alytaus rajono apylinkės teismo veiklos teritorija apima Alytaus miesto savivaldybės teritoriją ir Alytaus rajono savivaldybės teritoriją.
-
-
-
-
-Marijampolės rajono apylinkės teismo veiklos teritorija apima Marijampolės savivaldybės teritoriją, Kazlų Rūdos savivaldybės teritoriją ir Kalvarijos savivaldybės teritoriją.
-
-
-
-
-Trakų rajono apylinkės teismo veiklos teritorija apima Trakų rajono savivaldybės teritoriją ir Elektrėnų savivaldybės teritoriją.
-
-
-
-
-Plungės rajono apylinkės teismo veiklos teritorija apima Plungės rajono savivaldybės teritoriją ir Rietavo savivaldybės teritoriją.
-
-
-
-
-Prienų rajono apylinkės teismo veiklos teritorija apima Prienų rajono savivaldybės teritoriją ir Birštono savivaldybės teritoriją.
-
-
-
-
-Tauragės rajono apylinkės teismo veiklos teritorija apima Tauragės rajono savivaldybės teritoriją ir Pagėgių savivaldybės teritoriją.
-
-
+7 straipsnis. Neteko galios nuo 2018-01-01
+Straipsnio naikinimas:
+Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
 Straipsnio pakeitimai:
 Nr. I-688, 1994-12-08, Žin., 1994, Nr. 96-1881 (1994-12-14), i. k. 0941010ISTA000I-688
 Nr. VIII-1719, 2000-06-08, Žin., 2000, Nr. 52-1480 (2000-06-28), i. k. 1001010ISTAIII-1719
@@ -283,7 +254,7 @@ Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietu
  
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424                
+1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424                
 Dėl Lietuvos Respublikos 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 2 straipsnio ir šio įstatymo priėmimo tvarkos atitikimo Lietuvos Respublikos Konstitucijai
  
 4.
@@ -310,3 +281,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos a
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2210, 2012-09-11, Žin., 2012, Nr. 108-5462 (2012-09-19), i. k. 1121010ISTA0XI-2210
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“ Nr. I-497 pavadinimo, 6 straipsnio pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
