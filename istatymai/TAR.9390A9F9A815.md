@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -796,7 +796,10 @@ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLOS KONTROLĖ
 19 straipsnis. Tarnybos finansavimas 
 
 
-1. Tarnyba finansuojama iš Lietuvos valstybės biudžeto. Tarnybos direktorius yra asignavimų valdytojas. 
+1. Tarnyba finansuojama iš Lietuvos Respublikos valstybės biudžeto. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-810, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20004
+ 
 
 
 
@@ -983,3 +986,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-436, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10252
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 10 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-810, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20004
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 19 straipsnio pakeitimo įstatymas
