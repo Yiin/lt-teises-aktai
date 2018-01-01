@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-07-01
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-11
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
  
@@ -97,12 +97,27 @@ Zonoje galioja Lietuvos Respublikos Konstitucija ir šis įstatymas. Kiti Lietuv
 5 straipsnis. Zonos valdymas
 
 
-1. Zonos valdymo bendrovė įstatymų nustatyta tvarka išsinuomoja zonos teritorijoje esančius žemės sklypus ar jų dalis Lietuvos Respublikos Vyriausybės nustatytais zonos teritorijos įsisavinimo etapais, išskyrus žemės sklypus, skirtus infrastruktūrai. Zonos teritorijoje esantys žemės sklypai, skirti infrastruktūrai, įstatymų nustatyta tvarka gali būti išnuomojami zonos valdymo bendrovei jos prašymu. Kol nėra įsteigta zonos valdymo bendrovė, zonos teritorijoje esantys žemės sklypai ar jų dalys, išskyrus žemės sklypus, skirtus infrastruktūrai, įstatymų nustatyta tvarka išnuomojami investuotojams, kaip jie apibrėžti Lietuvos Respublikos investicijų įstatyme, iki tol, kol zonos teritorijoje esantys žemės sklypai ar jų dalys bus išnuomoti zonos valdymo bendrovei. Zonos teritorijoje esančius žemės sklypus ar jų dalis išnuomojus zonos valdymo bendrovei, investuotojams, tapusiems zonos įmone, nustatytos žemės nuomos sąlygos turi būti ne blogesnės negu tos, kurios buvo nustatytos iki zonos teritorijoje esančių žemės sklypų ar jų dalių išnuomojimo zonos valdymo bendrovei.
+1. Zonos valdymo bendrovė įstatymų nustatyta tvarka išsinuomoja zonos teritorijoje esančius žemės sklypus ar jų dalis Lietuvos Respublikos Vyriausybės nustatytais zonos teritorijos įsisavinimo etapais, išskyrus žemės sklypus, skirtus infrastruktūrai. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams. Zonos teritorijoje esantys žemės sklypai, skirti infrastruktūrai, įstatymų nustatyta tvarka gali būti išnuomojami zonos valdymo bendrovei jos prašymu. Kol nėra įsteigta zonos valdymo bendrovė, zonos teritorijoje esantys žemės sklypai ar jų dalys, išskyrus žemės sklypus, skirtus infrastruktūrai, įstatymų nustatyta tvarka išnuomojami investuotojams, kaip jie apibrėžti Lietuvos Respublikos investicijų įstatyme, iki tol, kol zonos teritorijoje esantys žemės sklypai ar jų dalys bus išnuomoti zonos valdymo bendrovei. Zonos teritorijoje esančius žemės sklypus ar jų dalis išnuomojus zonos valdymo bendrovei, investuotojams, tapusiems zonos įmone, nustatytos žemės nuomos sąlygos turi būti ne blogesnės negu tos, kurios buvo nustatytos iki zonos teritorijoje esančių žemės sklypų ar jų dalių išnuomojimo zonos valdymo bendrovei. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 
 
-2. Zonos ūkinę veiklą organizuoja zonos valdymo bendrovė. 
+2. Kai zonos įstatyme nustatytas zonos veiklos terminas pasibaigia ir šio įstatymo nustatyta tvarka nėra pratęsiamas, zonos įmonė turi teisę tiesiogiai iš valstybės ar savivaldybės be aukciono išsinuomoti žemės sklypą, kurį iki zonos veiklos termino pabaigos subnuomojosi iš zonos valdymo bendrovės. Tokiu atveju nutraukiamos žemės nuomos ir subnuomos sutartys su zonos valdymo bendrove, jeigu tokios buvo sudarytos. 
+TAR pastaba. 5 straipsnio 2 dalis taikoma žemės nuomos ir subnuomos sutartims, kurias zonos įmonės sudarė su zonos valdymo bendrovėmis po šio įstatymo (Nr. XIII-911) įsigaliojimo (2018-01-01).
+Papildyta straipsnio dalimi:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
+
+
+
+
+3. Zonos ūkinę veiklą organizuoja zonos valdymo bendrovė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 Straipsnio pakeitimai:
@@ -219,7 +234,10 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 
 
 
-4) narkotikų, narkotinių, stipriai veikiančių ir nuodingųjų medžiagų gamyba, pardavimas ir laikymas; 
+4) narkotikų, narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, išskyrus vaistinius preparatus, kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašus, gamyba, pardavimas ir laikymas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 
@@ -319,13 +337,27 @@ zonos įstatymo projektas.
 
 
 
-3. Lietuvos Respublikos Seimui priėmus įstatymą dėl zonos steigimo, Lietuvos Respublikos Vyriausybė priima sprendimą dėl tarptautinio konkurso geriausiam zonos verslo planui ir zonos statutui parengti bei steigėjų grupei parinkti.
+3. Zonos veiklos terminas gali būti pratęstas įstatymu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
+
+
+
+
+4. Lietuvos Respublikos Seimui priėmus įstatymą dėl zonos steigimo, Lietuvos Respublikos Vyriausybė priima sprendimą dėl tarptautinio konkurso geriausiam zonos verslo planui ir zonos statutui parengti bei steigėjų grupei parinkti.
 Tarptautinį konkursą organizuoja Lietuvos Respublikos Vyriausybės įgaliota institucija, o konkurso komisiją tvirtina Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 
 
-4. Lietuvos Respublikos Vyriausybė priima nutarimus dėl:
+5. Lietuvos Respublikos Vyriausybė priima nutarimus dėl:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 1) konkurso komisijos sprendimo zonos steigėjų grupei parinkti;
@@ -437,7 +469,10 @@ Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 
 
-6) gauti iš zonoje veikiančių ūkio subjektų Lietuvos Respublikos Vyriausybės nustatytus statistinius ataskaitinius duomenis apie jų veiklą;
+6) gauti iš zonoje veikiančių ūkio subjektų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie jų veiklą ir veiklos rezultatus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-910, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21502
+ 
 
 
 
@@ -500,7 +535,15 @@ Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 
 
-7) sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti. 
+7) sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti; 
+
+
+
+
+8) surinkti iš zonoje veikiančių ūkio subjektų šio įstatymo 12 straipsnio 1 dalies 6 punkte nurodytus duomenis už praėjusius kalendorinius metus ir ne vėliau kaip iki einamųjų metų birželio 1 dienos šiuos duomenis ir duomenis apie savo veiklą ir veiklos rezultatus už praėjusius kalendorinius metus pateikti šio  įstatymo 14 straipsnio 2 dalyje nurodytai viešajai įstaigai. 
+Papildyta straipsnio punktu:
+Nr. XIII-910, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21502
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -542,11 +585,58 @@ Zonos įmonių interesams atstovauti gali būti sudaryta patariamoji zonos įmon
 14 straipsnis. Laisvųjų ekonominių zonų valstybinė priežiūra
 
 
-Laisvųjų ekonominių zonų valstybinę priežiūrą Lietuvos Respublikos Vyriausybės nustatyta tvarka atlieka jos įgaliota valstybės institucija. Ji taip pat sprendžia bendrus visoms zonoms steigimo, valdymo ir veiklos klausimus.
+1. Laisvųjų ekonominių zonų valstybinę priežiūrą Lietuvos Respublikos Vyriausybės nustatyta tvarka atlieka jos įgaliota valstybės institucija. Ši valstybės institucija, atsižvelgdama į zonų ir jų valdymo bendrovių veiklos rezultatus bei įvertinusi šio straipsnio 2 dalyje nurodytos viešosios įstaigos pasiūlymus, pagal kompetenciją priima sprendimus dėl esamų zonų plėtros bei jų veiklos skatinimo, teikia pasiūlymus Lietuvos Respublikos Vyriausybei dėl laisvųjų ekonominių zonų veiklos gerinimo ir naujų zonų kūrimo. Ji taip pat sprendžia bendrus visoms zonoms steigimo, valdymo ir veiklos klausimus.
+
+
+
+
+2. Lietuvos Respublikos ūkio ministro įgaliota viešoji įstaiga, kurios savininko teises ir pareigas įgyvendina valstybė, vykdo Lietuvos Respublikoje veikiančių laisvųjų ekonominių zonų verslo planų įgyvendinimo, laisvosiose ekonominėse zonose veikiančių įmonių ir zonų valdymo bendrovių veiklos rezultatų stebėseną Lietuvos Respublikos ūkio ministro nustatyta tvarka.
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodyta viešoji įstaiga:
+
+
+1) turi teisę iš zonų valdymo bendrovių bei valstybės ir savivaldybių institucijų ir įstaigų gauti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie zonų valdymo bendrovių ir zonų įmonių veiklą bei jų veiklos rezultatus; gavusi šiuos duomenis, stebi ir analizuoja, kaip įgyvendinami Lietuvos Respublikoje veikiančių laisvųjų ekonominių zonų verslo planai,  kaip zonų valdymo bendrovės laikosi joms nustatytų veiklos rezultatų ir rodiklių vykdymo reikalavimų;
+
+
+
+
+2) turi teisę neatlygintinai iš valstybės registrų ir informacinių sistemų gauti zonų įmonių ir zonų valdymo bendrovių veiklos rezultatų stebėsenai vykdyti reikalingus statistinius duomenis;
+
+
+
+
+3) kiekvienais metais rengia ir ne vėliau kaip per 3 mėnesius nuo šio įstatymo 12 straipsnio 2 dalies 8 punkte nurodytų duomenų gavimo Lietuvos Respublikos ūkio ministerijai pateikia apibendrinamąsias metines laisvųjų ekonominių zonų ir jų valdymo bendrovių veiklos rezultatų ataskaitas;
+
+
+
+
+4) nuolat kaupia informaciją apie laisvųjų ekonominių zonų verslo planų įgyvendinimą, zonų įmonių ir zonų valdymo bendrovių veiklos rezultatus;
+
+
+
+
+5) stebi ir analizuoja zonų veiklos raidos tendencijas ir jų įtaką šalies ūkio rodikliams;
+
+
+
+
+6) analizuoja esamų zonų veiklos gerinimo, jų plėtros bei veiklos skatinimo ir naujų zonų kūrimo galimybes ir pagal kompetenciją šiais klausimais teikia pasiūlymus laisvųjų ekonominių zonų valstybinę priežiūrą atliekančiai valstybės institucijai.
+
+
+
+
+
+
+4. Lietuvos Respublikos ūkio ministro įgaliotos viešosios įstaigos veikla atliekant šio straipsnio 3 dalyje nurodytas funkcijas finansuojama iš Lietuvos Respublikos ūkio ministerijai skirtų valstybės biudžeto asignavimų ir (arba) kitų lėšų. 
+Straipsnio pakeitimai:
+Nr. XII-940, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
 
 
 Straipsnio pakeitimai:
-Nr. XII-940, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
+Nr. XIII-910, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21502
  
 
 
@@ -612,19 +702,37 @@ Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
 
 
-2. Zonos valdymo bendrovė už nuomojamą valstybinę žemę moka lengvatinį – 50 procentų mažesnį – žemės nuomos mokestį. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Tokiu atveju sukauptos lėšos už laisvųjų ekonominių zonų teritorijoje išnuomotą valstybinę žemę skiriamos žemei, paimamai visuomenės poreikiams iš žemės savininkų šioje teritorijoje, išpirkti ar kitoms visuomeninėms reikmėms. Zonos valdymo bendrovės ir zonos įmonių privatus kapitalas, investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos nuomos mokestį, neįskaičiuojamas. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį ar jo dalį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas.
+2. Zonos valdymo bendrovė už nuomojamą valstybinę žemę moka lengvatinį – 50 procentų mažesnį – žemės nuomos mokestį. Zonos valdymo bendrovė turi teisę žemės nuomos mokestį Lietuvos Respublikos Vyriausybės arba jos įgaliotos valstybės institucijos nustatyta tvarka sumokėti iš anksto už visą nuomos laikotarpį ar jo dalį. Tokiu atveju sukauptos lėšos už laisvųjų ekonominių zonų teritorijoje išnuomotą valstybinę žemę skiriamos žemei, paimamai visuomenės poreikiams iš žemės savininkų šioje teritorijoje, išpirkti, zonos infrastruktūros plėtrai ar kitoms visuomeninėms reikmėms. Zonos valdymo bendrovės ir zonos įmonių privatus kapitalas, investuotas į zonos infrastruktūrą, į žemės vertę, nustatant jos nuomos mokestį, neįskaičiuojamas. Jeigu zonos valdymo bendrovė iš anksto sumokėjo žemės nuomos mokestį ar jo dalį, o vėliau pasikeitė žemės vertė, pagal kurią skaičiuojamas žemės nuomos mokesčio dydis, ar žemės nuomos mokesčio tarifas, ar kitoks žemės nuomos mokesčio skaičiavimo pagrindas, žemės nuomos mokesčio dydis už laikotarpį, už kurį žemės nuomos mokestis sumokėtas iš anksto, nekeičiamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 
 
-3. Zonos įmonė, į kurią kapitalo investicijos pasiekė ne mažesnę kaip vieno milijono eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos prekių gamybos, apdirbimo, perdirbimo, sandėliavimo veiklos, orlaivių ir erdvėlaivių bei susijusios įrangos gamybos, orlaivių ir erdvėlaivių remonto ir techninės priežiūros, su orlaivių techniniu aptarnavimu ir remontu susijusios veiklos (elektroninės ir optinės įrangos remonto, techninio tikrinimo ir analizės), kompiuterių programavimo veiklos, kompiuterių konsultacinės veiklos, kompiuterinės įrangos tvarkybos, kitos informacinių technologijų ir kompiuterių paslaugų veiklos, duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos, užsakomųjų informacinių paslaugų centrų veiklos, didmeninės prekybos zonoje sandėliuojamomis prekėmis ir (arba) teikiamų paslaugų, susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų, apdirbtų, perdirbtų ar sandėliuojamų prekių, taip pat zonoje vykdomai gamybai, apdirbimui ar perdirbimui reikalingų prekių transportavimo, aptarnavimo, statybos zonos teritorijoje ir kitų su minėtomis veiklos rūšimis susijusių paslaugų). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia vieno milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia vieną milijoną eurų. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms.
+3. Zonos įmonė, į kurią kapitalo investicijos pasiekė ne mažesnę kaip vieno milijono eurų sumą, 10 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitus 6 mokestinius laikotarpius jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos veiklos. Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia vieno milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia vieną milijoną eurų. Šioje dalyje nustatyta lengvata netaikoma prekybos veiklą vykdančiai įmonei ir taikoma tiek, kiek ji suderinama su 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1) (toliau – Reglamentas (ES) Nr. 651/2014) nuostatomis. 
+TAR pastaba. 15 straipsnio 3 ir 31 dalys taikomos įmonėms, kurios zonos įmonės statusą įgijo ne anksčiau kaip 2018 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
 
 
 
 
-31. Zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos apskaitos, buhalterijos ir konsultacinės veiklos (išskyrus auditą, sąskaitų ekspertizės ir teisingumo paliudijimą), įstaigų administracinės ir aptarnavimo veiklos, žmogiškųjų išteklių veiklos, architektūros ir inžinerijos ir su ja susijusių techninių konsultacijų veiklos (išskyrus statybos darbų kontrolę, vietovės nuotraukų darymą). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis mokestinių metų darbuotojų skaičius tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų sumą ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms.
+31. Zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 10 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitus 6 mokestinius laikotarpius jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos paslaugų teikimo veiklos. Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nepasibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis mokestinių metų darbuotojų skaičius tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų sumą ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Reglamento (ES) Nr. 651/2014 nuostatomis. 
+TAR pastaba. 15 straipsnio 3 ir 31 dalys taikomos įmonėms, kurios zonos įmonės statusą įgijo ne anksčiau kaip 2018 m. sausio 1 d.
 Papildyta straipsnio dalimi:
 Nr. XII-2698, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26862
+Straipsnio dalies pakeitimai:
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+ 
+
+
+
+
+32. Šio straipsnio 3 ir 31 dalyse nustatytos mokesčių lengvatos taikomos tokia pačia tvarka ir sąlygomis ir investuotojams, kurie atitinka šio straipsnio 3 ir 31 dalyse nustatytas sąlygas zonos įmonei dėl lengvatų taikymo ir kuriems Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos žemės įstatymo bei konkrečių Lietuvos Respublikos laisvųjų ekonominių zonų įstatymų nustatytomis sąlygomis ir tvarka yra išnuomoti zonos teritorijoje esantys žemės sklypai ar jų dalys, kol nėra įsteigta zonos valdymo bendrovė. Įsteigus zonos valdymo bendrovę, investuotojams, įgijusiems laisvosios ekonominės zonos įmonės statusą, taikomi mokesčių lengvatų terminai ir sąlygos nekeičiami. 
+Papildyta straipsnio dalimi:
+Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
  
 
 
@@ -1051,3 +1159,13 @@ Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 2, 7, 12, 15 straipsnių pakeitimo ir 16 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-910, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21502
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 12 ir 14 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 5, 8, 9 ir 15 straipsnių pakeitimo įstatymas
