@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2017-07-25 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
  
@@ -245,7 +245,15 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 
 
-7) pasipriešinimo 1940–1990 metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+7) pasipriešinimo 1940–1990 metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni;
+
+
+
+
+8) nuo 1939–1990 metų okupacijų nukentėję asmenys – politiniai kaliniai ir tremtiniai, buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų kaliniai, sukakę 70 metų ir vyresni. 
+Papildyta straipsnio punktu:
+Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
+ 
 
 
 
@@ -265,7 +273,10 @@ Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 
 
 
-3) nuo 1939–1990 metų okupacijų nukentėję asmenys – politiniai kaliniai ir tremtiniai, buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų kaliniai;
+3) nuo 1939–1990 metų okupacijų nukentėję asmenys – politiniai kaliniai ir tremtiniai, buvę getų, koncentracijos ar kitokio tipo prievartinių stovyklų kaliniai, jaunesni kaip 70 metų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
+ 
 
 
 
@@ -658,3 +669,8 @@ Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 1, 5 ir 6 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
 Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 1, 2 ir 5 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-853, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20336
+Lietuvos Respublikos transporto lengvatų istatymo Nr. VIII-1605 5 straipsnio pakeitimo įstatymas
