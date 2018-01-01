@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2017-07-12 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-23
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -1010,7 +1010,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 1. Atliekų apskaitą tvarko ir ataskaitas apie atliekų susidarymą ir tvarkymą Aplinkos ministerijos įgaliotai institucijai Aplinkos ministerijos nustatyta tvarka teikia:
 
 
-1) atliekas surenkančios, vežančios ar apdorojančios įmonės, prekiautojai pavojingosiomis atliekomis ir tarpininkai;
+1) atliekas surenkančios, vežančios ar apdorojančios įmonės, prekiautojai atliekomis ir tarpininkai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-290, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06968
+ 
 
 
 
@@ -1020,7 +1023,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-3) atliekų darytojai, atsižvelgiant į susidarančių atliekų kiekį ir rūšį, vykdomą veiklą ir įmonės dydį, Aplinkos ministerijos nustatytais atvejais.
+3) atliekų darytojai, atsižvelgiant į susidarančių atliekų kiekį ir (ar) rūšį, ir (ar) vykdomą veiklą, ir (ar) įmonės dydį, Aplinkos ministerijos nustatytais atvejais. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-290, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06968
+ 
 
 
 
@@ -4629,3 +4635,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4 ir 34-15 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-584, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11952
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 34 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-290, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06968
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 7 straipsnio pakeitimo įstatymas
