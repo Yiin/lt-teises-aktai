@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -2696,7 +2696,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 1. Leidimas laikinai gyventi gali būti išduodamas arba keičiamas užsieniečiui, kuris ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, kai jis atitinka šias sąlygas:
 
 
-1) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio;
+1) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio (toliau – Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU) dydžio;
 
 
 
@@ -2709,12 +2709,12 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 3) Lietuvos darbo birža socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius, išskyrus atvejus, kai:
 
 
-a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri įtraukta į profesijų, kurioms būtina aukšta profesinė kvalifikacija, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio;
+a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri įtraukta į profesijų, kurioms būtina aukšta profesinė kvalifikacija, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžio;
 
 
 
 
-b) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri nėra įtraukta į profesijų, kurioms būtina aukšta profesinė kvalifikacija, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžiai; 
+b) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri nėra įtraukta į profesijų, kurioms būtina aukšta profesinė kvalifikacija, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai;
 
 
 
@@ -2727,6 +2727,7 @@ c) užsieniečio leidimas laikinai gyventi, išduotas dirbti aukštos profesinė
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -2771,9 +2772,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-6. Jeigu leidimas laikinai gyventi išduotas pateikus darbdavio įsipareigojimą įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžiai, ir leidimo laikinai gyventi galiojimo laikotarpiu numatytas darbo užmokestis tampa mažesnis negu 3 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžiai, leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1 dalies 1 punkte nustatytą sąlygą ir Lietuvos darbo birža socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius.
+6. Jeigu leidimas laikinai gyventi išduotas pateikus darbdavio įsipareigojimą įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, ir leidimo laikinai gyventi galiojimo laikotarpiu numatytas darbo užmokestis tampa mažesnis negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1 dalies 1 punkte nustatytą sąlygą ir Lietuvos darbo birža socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -2911,9 +2913,10 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris užsiima ir ketina toliau užsiimti teisėta veikla Lietuvos Respublikoje, kai jis: 
 
 
-1) yra dalyvis įmonės, kuri ne mažiau kaip pastaruosius 6 mėnesius iki užsieniečio kreipimosi dėl leidimo laikinai gyventi išdavimo pagal verslo planą vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, kurioje visą darbo laiką dirba Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos laisvosios prekybos asociacijos valstybės narės piliečiai ar nuolat Lietuvos Respublikoje gyvenantys užsieniečiai, kuriems mokamas mėnesinis darbo užmokestis bendrai sudaro ne mažiau kaip 2 Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžius, ir kurios nuosavo kapitalo (ne akcinės bendrovės ir ne uždarosios akcinės bendrovės atveju – turto) vertė sudaro ne mažiau kaip 28 000 eurų, iš kurių ne mažiau kaip 14 000 eurų – užsieniečio investuotos lėšos ar kitas turtas, ir jis yra šios įmonės vadovas arba yra akcinės bendrovės ar uždarosios akcinės bendrovės akcininkas, kuriam nuosavybės teise priklausančių bendrovės akcijų nominalioji vertė yra ne mažesnė kaip 1/3 šios bendrovės įstatinio kapitalo; 
+1) yra dalyvis įmonės, kuri ne mažiau kaip pastaruosius 6 mėnesius iki užsieniečio kreipimosi dėl leidimo laikinai gyventi išdavimo pagal verslo planą vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, kurioje visą darbo laiką dirba Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos laisvosios prekybos asociacijos valstybės narės piliečiai ar nuolat Lietuvos Respublikoje gyvenantys užsieniečiai, kuriems mokamas mėnesinis darbo užmokestis bendrai sudaro ne mažiau kaip 2 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžius, ir kurios nuosavo kapitalo (ne akcinės bendrovės ir ne uždarosios akcinės bendrovės atveju – turto) vertė sudaro ne mažiau kaip 28 000 eurų, iš kurių ne mažiau kaip 14 000 eurų – užsieniečio investuotos lėšos ar kitas turtas, ir jis yra šios įmonės vadovas arba yra akcinės bendrovės ar uždarosios akcinės bendrovės akcininkas, kuriam nuosavybės teise priklausančių bendrovės akcijų nominalioji vertė yra ne mažesnė kaip 1/3 šios bendrovės įstatinio kapitalo; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -2935,9 +2938,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-22) yra vadovas įmonės, kuri vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, kurios nuosavo kapitalo (ne akcinės bendrovės ir ne uždarosios akcinės bendrovės atveju – turto) vertė sudaro ne mažiau kaip 500 000 eurų ir kurioje įsteigtos ne mažiau kaip dešimt darbo vietų ir jose visą darbo laiką dirba Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos laisvosios prekybos asociacijos valstybės narės piliečiai ar nuolat Lietuvos Respublikoje gyvenantys užsieniečiai ir šiems darbuotojams mokamas mėnesinis darbo užmokestis, ne mažesnis negu Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydis, arba užsieniečiai, kurie turi leidimą laikinai gyventi, išduotą šio Įstatymo 40 straipsnio 1 dalies 41 punkte nurodytu pagrindu, ir jo atvykimo tikslas yra darbas toje įmonėje; 
+22) yra vadovas įmonės, kuri vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, kurios nuosavo kapitalo (ne akcinės bendrovės ir ne uždarosios akcinės bendrovės atveju – turto) vertė sudaro ne mažiau kaip 500 000 eurų ir kurioje įsteigtos ne mažiau kaip dešimt darbo vietų ir jose visą darbo laiką dirba Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos laisvosios prekybos asociacijos valstybės narės piliečiai ar nuolat Lietuvos Respublikoje gyvenantys užsieniečiai ir šiems darbuotojams mokamas mėnesinis darbo užmokestis, ne mažesnis negu Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydis, arba užsieniečiai, kurie turi leidimą laikinai gyventi, išduotą šio Įstatymo 40 straipsnio 1 dalies 41 punkte nurodytu pagrindu, ir jo atvykimo tikslas yra darbas toje įmonėje; 
 Papildyta straipsnio punktu:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Straipsnio punkto pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -4171,9 +4176,10 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-3. Užsieniečio darbo užmokestis negali būti mažesnis už tokį patį darbą pas tą patį darbdavį dirbančio Lietuvos Respublikos gyventojo, o jeigu tokio darbuotojo nėra, – užsieniečio darbo užmokestis negali būti mažesnis už Lietuvos statistikos departamento paskutinį paskelbtą metinį vidutinį mėnesinį bruto darbo užmokestį šalies ūkyje pagal atitinkamą ekonominę veiklos rūšį. 
+3. Užsieniečio darbo užmokestis negali būti mažesnis už tokį patį darbą pas tą patį darbdavį dirbančio Lietuvos Respublikos gyventojo, o jeigu tokio darbuotojo nėra, užsieniečio darbo užmokestis negali būti mažesnis už Lietuvos statistikos departamento paskutinį paskelbtą kalendorinių metų vidutinį mėnesinį bruto darbo užmokestį šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -7809,58 +7815,60 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 133 straipsnis. Draudimas atvykti į Lietuvos Respubliką
 
 
-1. Užsieniečiui, kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei ar nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų), gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+1. Užsieniečiui, kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei ar nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų), gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
 
 
 
 
-2. Užsieniečiui, kuris buvo išsiųstas iš Lietuvos Respublikos, uždraudžiama atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+2. Užsieniečiui, kuris buvo išsiųstas iš Lietuvos Respublikos, uždraudžiama atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
 
 
 
 
-21. Europos Sąjungos valstybės narės piliečiui ir (arba) jo šeimos nariui arba kitam asmeniui, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui tik tuo atveju, jeigu jo atvykimas į Lietuvos Respubliką ir buvimas joje gali kelti grėsmę valstybės saugumui ar viešajai tvarkai.
+3. Draudimas atvykti į Lietuvos Respubliką netaikomas užsieniečiui, kuris buvo išsiųstas iš Lietuvos Respublikos dėl to, kad per nustatytą terminą neįvykdė įpareigojimo išvykti iš Lietuvos Respublikos arba savanoriškai neišvyko iš Lietuvos Respublikos per sprendime grąžinti jį į užsienio valstybę nustatytą terminą, jeigu jam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 12 punkte nustatytu pagrindu kaip prekybos žmonėmis aukai ir jeigu jis nekelia grėsmės valstybės saugumui ar visuomenei.
 
 
 
 
-22. Draudimas atvykti į Lietuvos Respubliką netaikomas užsieniečiui, kuris buvo išsiųstas iš Lietuvos Respublikos dėl to, kad per nustatytą terminą neįvykdė įpareigojimo išvykti iš Lietuvos Respublikos arba savanoriškai neišvyko iš Lietuvos Respublikos per sprendime grąžinti jį į užsienio valstybę nustatytą terminą, jeigu jam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 12 punkte nustatytu pagrindu kaip prekybos žmonėmis aukai ir jeigu jis nekelia grėsmės valstybės saugumui ar visuomenei. 
-Papildyta straipsnio dalimi:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+4. Užsieniečiui uždraudžiama atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui, jeigu yra rimtas pagrindas manyti, kad užsienio valstybėje užsienietis yra padaręs sunkų ar labai sunkų nusikaltimą asmeniui ir dėl to buvo pažeistos visuotinai pripažintos žmogaus teisės ir laisvės, korupcinio pobūdžio nusikalstamą veiką ar pinigų plovimo požymius atitinkančią nusikalstamą veiką, kaip tai apibrėžta Lietuvos Respublikos įstatymuose ar tarptautinėse sutartyse, arba kad kurstė ar kitaip dalyvavo darant tokias nusikalstamas veikas ir (ar) dėl šių priežasčių užsienietis yra įtrauktas į kitos Europos Sąjungos valstybės narės, Europos laisvosios prekybos asociacijos ar Šiaurės Atlanto Sutarties Organizacijos valstybės narės nacionalinį užsieniečių, kuriems draudžiama atvykti, sąrašą.
 
 
 
 
-3. Užsieniečiui gali būti uždrausta atvykti į Lietuvos Respubliką ilgesniam kaip 5 metų laikotarpiui, jeigu jis gali kelti grėsmę valstybės saugumui ar viešajai tvarkai.
+5. Užsieniečiui gali būti uždrausta atvykti į Lietuvos Respubliką ilgesniam kaip 5 metų laikotarpiui, jeigu jis gali kelti grėsmę valstybės saugumui ar viešajai tvarkai.
 
 
 
 
-4. Užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą sudaro, tvarko ir duomenis iš šio sąrašo skelbia ir centrinei antrosios kartos Šengeno informacinei sistemai teikia Migracijos departamentas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
- 
+6. Europos Sąjungos valstybės narės piliečiui ir (arba) jo šeimos nariui arba kitam asmeniui, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui tik tuo atveju, jeigu jo atvykimas į Lietuvos Respubliką ir buvimas joje gali kelti grėsmę valstybės saugumui ar viešajai tvarkai. 
 
 
 
 
-5. Sprendimą uždrausti (neuždrausti) užsieniečiui atvykti į Lietuvos Respubliką priima Migracijos departamentas. Draudimo atvykti trukmė nustatoma kiekvienu atveju tinkamai atsižvelgus į visas su konkrečiu atveju susijusias aplinkybes.
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+7. Užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą sudaro, tvarko ir duomenis iš šio sąrašo skelbia ir centrinei antrosios kartos Šengeno informacinei sistemai teikia Migracijos departamentas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 
+
+
+8. Sprendimą uždrausti (neuždrausti) užsieniečiui atvykti į Lietuvos Respubliką priima Migracijos departamentas. Sprendimą uždrausti užsieniečiui atvykti į Lietuvos Respubliką šio straipsnio 4 dalyje nurodytais pagrindais užsienio reikalų ministro siūlymu priima vidaus reikalų ministras. Draudimo atvykti į Lietuvos Respubliką trukmė nustatoma kiekvienu atveju tinkamai atsižvelgus į visas su konkrečiu atveju susijusias aplinkybes.
+
+
+
+
+9. Užsienietis Lietuvos Respublikos Vyriausybės nustatyta tvarka raštu informuojamas apie priimtą sprendimą uždrausti jam atvykti į Lietuvos Respubliką, jeigu yra žinoma užsieniečio gyvenamoji vieta arba kiti kontaktiniai duomenys ir jeigu nėra šio straipsnio 10 dalyje nurodytų priežasčių, dėl kurių informacija užsieniečiui neteikiama. 
+
+
+
+
+10. Užsieniečiui neteikiama informacija apie priimtą sprendimą uždrausti jam atvykti į Lietuvos Respubliką, jeigu šios informacijos pateikimas pakenktų valstybės saugumo, gynybos, visuomenės saugumo, nusikalstamų veikų prevencijos, tyrimo, nustatymo ir baudžiamojo persekiojimo interesams. Europos Sąjungos valstybės narės piliečiui ir (arba) jo šeimos nariui arba kitam asmeniui, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, informacija apie priimto sprendimo uždrausti jam atvykti į Lietuvos Respubliką faktines aplinkybes neteikiama, jeigu šios informacijos pateikimas pakenktų valstybės saugumo interesams. 
 Straipsnio pakeitimai:
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-742, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18802
  
 
 
@@ -8694,3 +8702,13 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-742, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18802
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 44, 44-1, 45, 57, 58, 60, 62, 62-1, 101, 105 ir 106 straipsnių pakeitimo įstatymas
