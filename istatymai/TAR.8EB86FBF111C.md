@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
  
@@ -81,9 +81,10 @@ Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
 
 
 
-6. Valstybės gynybos civilinė ir karinė vadovybė – pagal Lietuvos Respublikos Konstituciją ir įstatymus išrinkti arba paskirti civiliai bei kariniai pareigūnai, turintys įgaliojimus vadovauti ginkluotųjų pajėgų karinėms operacijoms ir kitiems gynybos veiksmams: Respublikos Prezidentas, krašto apsaugos ministras, ginkluotųjų pajėgų (kariuomenės) vadas, Jungtinio štabo viršininkas, kariuomenės pajėgų rūšių vadai ir krašto apsaugos savanorių pajėgų vadas. 
+6. Valstybės gynybos civilinė ir karinė vadovybė – pagal Lietuvos Respublikos Konstituciją ir įstatymus išrinkti arba paskirti civiliai bei kariniai pareigūnai, turintys įgaliojimus vadovauti ginkluotųjų pajėgų karinėms operacijoms ir kitiems gynybos veiksmams: Respublikos Prezidentas, krašto apsaugos ministras, ginkluotųjų pajėgų (kariuomenės) vadas, Gynybos štabo viršininkas, kariuomenės pajėgų rūšių vadai ir krašto apsaugos savanorių pajėgų vadas. 
 Straipsnio dalies pakeitimai:
 Nr. XI-823, 2010-05-18, Žin., 2010, Nr. 63-3100 (2010-05-31), i. k. 1101010ISTA00XI-823
+Nr. XIII-541, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11938
  
 
 
@@ -404,3 +405,8 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo N
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1442, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20782
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 5 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-541, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11938
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 straipsnio pakeitimo įstatymas
