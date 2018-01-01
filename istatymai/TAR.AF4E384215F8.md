@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -327,9 +327,6 @@ Saugomas asmuo turi teisę:
 
 
 9 straipsnis. Saugomų objektų apsaugos užtikrinimas ir saugomų objektų apsaugos zonų nustatymas 
-Pakeistas straipsnio pavadinimas:
-Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
- 
 
 
 1. Saugomų objektų apsauga užtikrinama nustatant juose specialų režimą.
@@ -361,9 +358,6 @@ Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
 
 
 5) vykdant kriminalinę žvalgybą nusikalstamoms veikoms prieš saugomus objektus užkardyti.
-Straipsnio punkto pakeitimai:
-Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
- 
 
 
 
@@ -371,9 +365,6 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 
 
 3. Saugomų objektų – Prezidentūros, Seimo, Vyriausybės pastatų, Respublikos Prezidento, Ministro Pirmininko rezidencijų pastatų su jiems priskirtais žemės sklypais ir priklausiniais – apsaugai užtikrinti, be šio straipsnio 2 dalyje nustatyto specialaus režimo, nustatomos saugomų objektų apsaugos zonos. Saugomų objektų apsaugos zonų ribas tvirtina Vyriausybė ar jos įgaliota institucija. 
-Papildyta straipsnio dalimi:
-Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
- 
 
 
 
@@ -409,17 +400,11 @@ Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
 6) Vadovybės apsaugos departamento siūlymu Lietuvos Respublikos aviacijos įstatymo nustatyta tvarka oro erdvės dalys virš saugomų objektų apsaugos zonų gali būti paskelbtos kaip draudžiamos, ribojamos arba pavojingos civilinei aviacijai zonos, kuriose taikomos specialios procedūros. 
 
 
-TAR pastaba. 9 straipsnio 4 dalies nuostatos dėl saugomų objektų apsaugos zonose nustatytų apribojimų netaikomos iki įstatymo Nr. XII-2178 įsigaliojimo dienos (2016-05-01) pradėtiems statybos, statinių rekonstrukcijos ar jų paskirties keitimo darbams, taip pat sudarytiems ar sudarymo metu esantiems žemės sklypų ir (ar) statinių perleidimo, nuomos ar panaudos sandoriams.
-Papildyta straipsnio dalimi:
-Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
- 
 
 
 
 
 5. Valstybinė žemė, esanti Respublikos Prezidento ir Ministro Pirmininko rezidencijų pastatų su jiems priskirtinais žemės sklypais ir priklausiniais apsaugai užtikrinti nustatytose saugomų objektų apsaugos zonose, perduodama neatlygintinai naudotis Vadovybės apsaugos departamentui Lietuvos Respublikos žemės įstatymo nustatyta tvarka, išskyrus žemės sklypus ar jų dalis, kurie reikalingi kitiems asmenims priklausantiems statiniams ar įrenginiams eksploatuoti.
-Papildyta straipsnio dalimi:
-Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
  
 
 
@@ -658,9 +643,10 @@ Nr. XII-1859, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10821
 
 
 
-9) rengia ir teikia Vidaus reikalų ministerijai bei Finansų ministerijai Vadovybės apsaugos departamento paraiškas dėl biudžeto asignavimų;
+9) rengia ir teikia Vidaus reikalų ministerijai Vadovybės apsaugos departamento paraiškas dėl valstybės biudžeto asignavimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+Nr. XIII-811, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20005
  
 
 
@@ -1244,7 +1230,10 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIK
 27 straipsnis. Vadovybės apsaugos departamento finansavimas
 
 
-1. Vadovybės apsaugos departamentas yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto, turi atskirą išlaidų sąmatą. Vadovybės apsaugos departamento direktorius yra Vadovybės apsaugos departamentui skirtų valstybės biudžeto asignavimų valdytojas.
+1. Vadovybės apsaugos departamentas yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-811, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20005
+ 
 
 
 
@@ -1400,3 +1389,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 6 ir 9 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 12, 22, 23 straipsnių pakeitimo ir 24, 25, 26 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-811, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20005
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 17 ir 27 straipsnių pakeitimo įstatymas
