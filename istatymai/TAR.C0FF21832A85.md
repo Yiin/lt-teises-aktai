@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -462,9 +462,10 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. 
+2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
  
 
 
@@ -601,16 +602,31 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties.
+6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja, pažeisdamas šio įstatymo nuostatas dėl paramos paskirties ar kitų įstatymų nuostatas, reglamentuojančias paramos gavėjų veiklos, susijusios su gautos paramos naudojimu, ribojimus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
+ 
 
 
 
 
 
 
-6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą, kai šį statusą turinčiam juridiniam asmeniui įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas likvidavimas arba įregistruojamas jo kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros. 
+6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą: 
+
+
+1) kai paramos gavėjas per Lietuvos Respublikos civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, jei įstatymuose nenumatytas kitas terminas, Juridinių asmenų registro tvarkytojui nepateikė metinių finansinių ataskaitų rinkinio ir metinio pranešimo ar veiklos ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą;
+
+
+
+
+2) kai šį statusą turinčiam juridiniam asmeniui įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas likvidavimas arba įregistruojamas jo kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros. 
+
+
 Papildyta straipsnio dalimi:
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
+Straipsnio dalies pakeitimai:
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
  
 
 
@@ -747,3 +763,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatymo Nr. XII-2202 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 10 ir 13 straipsnių pakeitimo įstatymas
