@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -501,7 +501,7 @@ Sprendimus dėl ginkluotųjų pajėgų išdėstymo taikos metu priima Respubliko
 Gynybos veiksmų civilinę vadovybę sudaro Respublikos Prezidentas ir krašto apsaugos ministras. Operacinio vadovavimo karinėms operacijoms ir kitiems ginkluotųjų pajėgų veiksmams grandinę nustato įstatymai ir kiti teisės aktai.
 Kai Respublikos Prezidentas iš šalies išvyksta, krašto apsaugos ministras privalo būti Lietuvoje, išskyrus įstatymų numatytus atvejus.
 Ginkluotųjų pajėgų organizaciją, plėtrą, apginklavimo poreikius, asignavimus nustato Seimas. Seimas įstatymų nustatyta tvarka vykdo ginkluotųjų pajėgų ir kitų nacionalinio saugumo institucijų parlamentinę kontrolę. Už ginkluotųjų pajėgų tvarkymą ir vadovavimą joms Seimui yra atsakingi Vyriausybė, krašto apsaugos ministras ir kariuomenės vadas.
-Sprendimus dėl kariuomenės aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė. 
+Sprendimus dėl kariuomenės aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė. Apie įsigijimų planus ir numatomą priimti sprendimą dėl naujo įsigijimo projekto, kurio vertė viršija 20 mln. Eur, krašto apsaugos ministras informuoja Seimo Nacionalinio saugumo ir gynybos komitetą.
 Sprendimus dėl mobilizacijos, karo padėties įvedimo, ginkluotųjų pajėgų panaudojimo ir gynybos nuo ginkluoto užpuolimo, taip pat sprendimus dėl Lietuvos kariuomenės vienetų dalyvavimo tarptautinėse karinėse operacijose priima Respublikos Prezidentas ir Seimas Konstitucijos ir įstatymų nustatyta tvarka.
 Krašto apsaugos ministras, vidaus reikalų ministras, Krašto apsaugos ir Vidaus reikalų ministerijų viceministrai ir Valstybės saugumo departamento vadovas turi būti tik civiliai asmenys. 
 Kariuomenės vadas pavaldus krašto apsaugos ministrui.
@@ -510,6 +510,8 @@ Nr. VIII-770, 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
 Nr. VIII-1026, 1999 01 14, Žin., 1999, Nr. 11-245 (1999 01 27)
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Skyriaus pakeitimai:
+Nr. XIII-545, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11942
  
 
 
@@ -719,7 +721,7 @@ PirmasIS skirsnis
 ĮSTATYMŲ LEIDYBA 
  
 Seimas rūpinasi, kad būtų laiku priimti nacionaliniam saugumui užtikrinti būtini įstatymai, kiti teisės aktai, galiojančių įstatymų papildymai ir pakeitimai. 
-Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, Valstybės gynimo tarybos nutarimus, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ribinius skaičius.
+Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, Valstybės gynimo tarybos nutarimus, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius.
 Seimas įgyvendina nacionalinio saugumo pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę – įstatymais reglamentuoja nacionalinį saugumą užtikrinančių institucijų veiklą.
 Skirsnio pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
@@ -728,6 +730,7 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. XI-1515, 2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
 Skirsnio pakeitimai:
 Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
+Nr. XIII-621, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12472
  
 
 
@@ -787,7 +790,7 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 18 skyrius
 KRAŠTO APSAUGOS SISTEMA
  
-Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Generolo Jono Žemaičio Lietuvos karo akademija, puskarininkių mokykla ir kitos karo mokymo įstaigos, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos bei kitos krašto apsaugos ministrui pavaldžios institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir teisės aktai.
+Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Generolo Jono Žemaičio Lietuvos karo akademija, puskarininkių mokykla ir kitos karo mokymo įstaigos, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos, gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo bei kitos krašto apsaugos ministrui pavaldžios institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir teisės aktai.
 Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai. 
 Lietuvos kariuomenė yra valstybės ginkluotos gynybos institucija, pagrindinė krašto apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių demokratiškai išrinktai valstybės valdžiai.
 Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato Lietuvos Respublikos Konstitucija, įstatymai bei kiti teisės aktai.
@@ -815,6 +818,7 @@ Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
 Skyriaus pakeitimai:
 Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
 Nr. XII-2723, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26834
+Nr. XIII-545, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11942
  
 
 
@@ -1071,3 +1075,13 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2723, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26834
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 18 skyriaus pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-545, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11942
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio I dalies 8 skyriaus ir III dalies 18 skyriaus pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-621, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12472
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
