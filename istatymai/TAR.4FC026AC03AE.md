@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -117,12 +117,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                        ROLANDAS PAKSAS
+ 
+ 
 
 
 
 
 
 
+ 
  
  
 PATVIRTINTA
@@ -2644,72 +2647,6 @@ Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 strai
 
 
 
-8) majorui, komisarui – 0,7 bazinio dydžio;
-
-
-
-
-9) pulkininkui leitenantui, vyresniajam komisarui – 0,8 bazinio dydžio;
-
-
-
-
-10) pulkininkui, vyriausiajam komisarui – 0,9 bazinio dydžio;
-
-
-
-
-11) generolui, generaliniam komisarui – 1,0 bazinio dydžio. 
-45 straipsnio redakcija nuo 2018-01-01:
-
-
-
-
-
-
-
-
-45 straipsnis. Pareigūnų pareiginės algos priedų už turimus laipsnius koeficientai
-
-
-Pareigūnams nustatomi tokie pareiginės algos priedų už šio statuto 16 straipsnyje nurodytus laipsnius apskaičiavimo pagal pareiginės algos bazinį dydį koeficientai:
-
-
-1) grandiniui, jaunesniajam policininkui – 0,5 bazinio dydžio;
-
-
-
-
-2) jaunesniajam puskarininkiui, policininkui – 0,6 bazinio dydžio;
-
-
-
-
-3) puskarininkiui, vyresniajam policininkui – 0,7 bazinio dydžio;
-
-
-
-
-4) vyresniajam puskarininkiui, viršilai – 0,8 bazinio dydžio;
-
-
-
-
-5) leitenantui, inspektoriui – 0,9 bazinio dydžio;
-
-
-
-
-6) vyresniajam leitenantui, vyresniajam inspektoriui – 1,0 bazinio dydžio;
-
-
-
-
-7) kapitonui, komisarui inspektoriui – 1,1 bazinio dydžio;
-
-
-
-
 8) majorui, komisarui – 1,2 bazinio dydžio;
 
 
@@ -3695,7 +3632,6 @@ VIDAUS TARNYBOS VALDYMAS
  
  
  
- 
 Lietuvos Respublikos 
 vidaus tarnybos statuto
 priedas
@@ -3807,89 +3743,87 @@ VIDAUS TARNYBOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 
 
  3. 
- Viršininkas (įstaigos vadovas), rinktinės vadas (įstaigos vadovas), vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas 
- 15,68 
- 15,68 
- 13,39 
+ Viršininkas (įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas 
+   15,68 
+   15,68 
+   13,39 
 
 
- 15,11 
- 15,11 
- 12,81 
+   15,11 
+   15,11 
+   12,81 
 
 
- 14,53 
- 14,53 
- 12,23 
+   14,53 
+   14,53 
+   12,23 
 
 
- 13,95 
- 13,95 
- 11,65 
+   13,95 
+   13,95 
+   11,65 
 
 
- 13,37 
- 13,37 
- 11,08 
+   13,37 
+   13,37 
+   11,08 
 
 
- 12,80 
- 12,80 
- 10,50 
+   12,80 
+   12,80 
+   10,50 
 
 
- 12,22 
- 12,22 
- 9,92 
+   12,22 
+   12,22 
+   9,92 
 
 
- 11,64 
- 11,64 
- 9,34 
+   11,64 
+   11,64 
+   9,34 
 
 
- 4. 
- Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo pavaduotojas), rinktinės vado pavaduotojas (įstaigos vadovo pavaduotojas), patarėjas (įstaigos 
- 14,34 
- 13,15 
- 11,39 
+           4. 
+ Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo pavaduotojas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vado pavaduotojas, patarėjas (įstaigos patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje) 
+   14,34 
+   13,15 
+   11,39 
 
 
- 13,78 
- 12,62 
- 10,88 
+   13,78 
+   12,62 
+   10,88 
 
 
- 13,23 
- 12,09 
- 10,37 
+   13,23 
+   12,09 
+   10,37 
 
 
- 12,67 
- 11,55 
- 9,85 
+   12,67 
+   11,55 
+   9,85 
 
 
- 12,12 
- 11,02 
- 9,34 
+   12,12 
+   11,02 
+   9,34 
 
 
-   
- patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje) 
- 11,56 
- 10,49 
- 8,83 
+   11,56 
+   10,49 
+   8,83 
 
 
- 11,01 
- 9,95 
- 8,32 
+   11,01 
+   9,95 
+   8,32 
 
 
- 10,45 
- 9,42 
- 7,81 
+   10,45 
+   9,42 
+   7,81 
 
 
  5. 
@@ -4360,10 +4294,14 @@ VIDAUS TARNYBOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 
 
  
+Priedo pakeitimai:
+Nr. XIII-596, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12303
+ 
 
 
 
 
+ 
 Pakeitimai:
  
 1.
@@ -4576,3 +4514,8 @@ Lietuvos Respublikos vidaus tarnybos statuto 57 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2739, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26512
 Lietuvos Respublikos vidaus tarnybos statuto 37 ir 47 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-596, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12303
+Lietuvos Respublikos vidaus tarnybos statuto priedo pakeitimo įstatymas
