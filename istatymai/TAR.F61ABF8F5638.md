@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2024-11-14
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 164-7802, i. k. 1111010ISTA0XI-1909
  
@@ -58,10 +58,12 @@ Vilnius
 2 straipsnis. Zonos veiklos terminas
 
 
-Zona steigiama 49 metams.
+Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas įstatymu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
  
-
-
 
 
 
@@ -88,9 +90,10 @@ Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
 
 
 
-2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. 
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-945, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07826
+Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
  
 
 
@@ -459,7 +462,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
  
 
@@ -477,3 +480,8 @@ Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-190
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
 Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 ir 8 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir 4 straipsnių pakeitimo įstatymas
