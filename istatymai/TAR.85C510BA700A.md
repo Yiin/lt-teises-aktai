@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-04-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-08-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -345,7 +345,10 @@ Vyriausybė:
 5 straipsnis. Valstybės informacinių išteklių politikos formavimas
 
 
-1. Valstybės informacinių išteklių politiką pagal kompetenciją formuoja Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) ir Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija).
+1. Valstybės informacinių išteklių politiką pagal kompetenciją formuoja Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija), Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija) ir Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
+ 
 
 
 
@@ -378,7 +381,10 @@ Vyriausybė:
 
 
 
-6) valdo Saugų valstybinį duomenų perdavimo tinklą ir skiria jo tvarkytoją. 
+6) neteko galios nuo 2018-01-01. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -418,67 +424,38 @@ Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
 
 
 
-4. Vidaus reikalų ministerija formuoja politiką valstybės informacinių išteklių saugos srityje tiek, kiek tai neapima kibernetinio saugumo, ir informacinių technologijų taikymo viešojo administravimo (elektroninės valdžios) srityje ir pagal kompetenciją:
+4. Krašto apsaugos ministerija formuoja politiką valstybės informacinių išteklių saugos srityje ir pagal kompetenciją:
 
 
-1) organizuoja informacinių technologijų priemonių valdymo ir saugos vertinimą;
-
-
-
-
-2) renka ir analizuoja informaciją apie institucijų valdomų valstybės informacinių išteklių saugą ir tam naudojamas lėšas, teikia Vyriausybei ir institucijoms pasiūlymus dėl valstybės informacinių išteklių saugos ir lėšų valstybės informacinių išteklių saugai poreikio bei efektyvesnio jų naudojimo;
+1) rengia informacijos saugos reikalavimus, saugos dokumentų turinio gaires; 
 
 
 
 
-3) rengia informacijos saugos reikalavimus, saugos dokumentų turinio gaires;
+2) nustato informacijos svarbos įvertinimo, valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo pagal jose apdorojamos informacijos svarbą kriterijus ir jų priskyrimo atitinkamai kategorijai tvarką;
 
 
 
 
-4) atlieka saugos reikalavimų laikymosi priežiūrą tiek, kiek tai neapima kibernetinio saugumo;
+3) valdo Saugų valstybinį duomenų perdavimo tinklą. Krašto apsaugos ministras tvirtina Saugaus valstybinio duomenų perdavimo tinklo nuostatus ir, vadovaudamasis Vyriausybės patvirtintais kriterijais, atlyginimo už naudojimąsi Saugiu valstybiniu duomenų perdavimo tinklu dydį;
 
 
 
 
-5) derina su valstybės informacinių sistemų, registro duomenų ir registro informacijos sauga susijusių teisės aktų, saugos dokumentų projektus;
-
-
-
-
-6) derina valstybės informacinių sistemų ir registrų nuostatų projektų nuostatas, susijusias su informacijos sauga;
-
-
-
-
-7) konsultuoja valstybės informacinių sistemų ir registrų valdytojus, valstybės informacinių sistemų ir registrų tvarkytojus, kitas institucijas valstybės informacinių išteklių saugos klausimais;
-
-
-
-
-8) nustato informacijos svarbos įvertinimo, valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo pagal jose apdorojamos informacijos svarbą kriterijus ir jų priskyrimo atitinkamai kategorijai tvarką;
-
-
-
-
-9) Neteko galios nuo 2017-01-01
-Straipsnio punkto naikinimas:
-Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
-Papildyta straipsnio punktu:
-Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
- 
-
-
-
-
-10) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
- 
+4) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
+ 
+
+
+
+
+5. Vidaus reikalų ministerija formuoja politiką elektroninės valdžios srityje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
  
 
 
@@ -489,12 +466,15 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 6 straipsnis. Valstybės informacinių išteklių politikos įgyvendinimas
 
 
-1. Valstybės informacinių išteklių politiką įgyvendina Susisiekimo ministerijos įgaliota institucija ir Valstybinė duomenų apsaugos inspekcija.
+1. Valstybės informacinių išteklių politiką įgyvendina susisiekimo ministro įgaliota institucija, krašto apsaugos ministro įgaliota institucija ir Valstybinė duomenų apsaugos inspekcija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
+ 
 
 
 
 
-2. Susisiekimo ministerijos įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
+2. Susisiekimo ministro įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:
 
 
 1) derina registrų sukūrimo kalendorinius darbų grafikus, valstybės informacinių sistemų ir registrų techninių aprašymų (specifikacijų) atitiktį nuostatams;
@@ -532,6 +512,7 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 Straipsnio dalies pakeitimai:
 Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
  
 
 
@@ -566,9 +547,46 @@ Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
 
 
 6) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+4. Krašto apsaugos ministro įgaliota institucija, įgyvendindama valstybės informacinių išteklių saugos politiką, pagal kompetenciją: 
+
+
+1) atlieka valstybės informacinių išteklių atitikties teisės aktų nustatytiems elektroninės informacijos saugos reikalavimams stebėseną;
+
+
+
+
+2) derina su valstybės informacinių išteklių sauga susijusių teisės aktų, saugos dokumentų projektus;
+
+
+
+
+3) konsultuoja valstybės informacinių sistemų ir registrų valdytojus bei tvarkytojus, kitas institucijas valstybės informacinių išteklių saugos klausimais;
+
+
+
+
+4) tvarko Saugų valstybinį duomenų perdavimo tinklą;
+
+
+
+
+5) organizuoja valstybės informacinių išteklių saugos vertinimą;
+
+
+
+
+6) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
  
-
-
 
 
 
@@ -2295,10 +2313,11 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 
 
-6. Duomenys tarp institucijų teikiami saugiais elektroninių ryšių tinklais. Elektroninių ryšių tinklo saugumo lygio reikalavimus nustato Vyriausybė. Atlyginimo už naudojimąsi Saugiu valstybiniu duomenų perdavimo tinklu dydį pagal Vyriausybės patvirtintus kriterijus nustato susisiekimo ministras.
+6. Duomenys tarp institucijų teikiami saugiais elektroninių ryšių tinklais. Elektroninių ryšių tinklo kibernetinio saugumo reikalavimus nustato Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
  
 
 
@@ -2309,16 +2328,11 @@ Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
 431 straipsnis. Valstybės informacinių išteklių atitikties nustatytiems elektroninės informacijos saugos reikalavimams stebėsena
 
 
-1. Vidaus reikalų ministerija atlieka valstybės informacinių išteklių atitikties Vyriausybės nustatytiems elektroninės informacijos saugos reikalavimams stebėseną. 
+Valstybės ir kitų informacinių sistemų ir registrų valdytojai teikia duomenis apie organizacinių ir techninių elektroninės informacijos saugos reikalavimų įgyvendinimą savo valdomuose valstybės informaciniuose ištekliuose Valstybės informacinių išteklių atitikties elektroninės informacijos saugos reikalavimams stebėsenos sistemai Valstybės informacinių išteklių atitikties elektroninės informacijos saugos reikalavimams stebėsenos sistemos nuostatuose nustatyta tvarka. 
 
 
-
-
-2. Valstybės ir kitų informacinių sistemų ir registrų valdytojai teikia duomenis apie organizacinių ir techninių elektroninės informacijos saugos reikalavimų įgyvendinimą savo valdomuose valstybės informaciniuose ištekliuose Valstybės informacinių išteklių atitikties elektroninės informacijos saugos reikalavimams stebėsenos sistemai Valstybės informacinių išteklių atitikties elektroninės informacijos saugos reikalavimams stebėsenos sistemos nuostatuose nustatyta tvarka.
-
-
-Papildyta straipsniu:
-Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
+Straipsnio pakeitimai:
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
  
 
 
@@ -2541,6 +2555,7 @@ Asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos įstatymų nusta
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 
@@ -2576,3 +2591,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 2, 10, 11, 18, 26, 27, 28, 29, 30, 35, 36, 38, 39 straipsnių pakeitimo, 37 straipsnio ir priedo pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 5, 6, 43 ir 43-1 straipsnių pakeitimo įstatymas
