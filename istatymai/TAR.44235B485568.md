@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -997,7 +997,10 @@ Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 
 
-16) ne rečiau kaip kartą per metus skelbia rekomendacijas, susijusias su paslaugų energetikos sektoriuje kainų atitiktimi skaidrumo, nediskriminavimo ir kitiems teisės aktų nustatytiems reikalavimams, ir teikia jas Konkurencijos tarybai;
+16) ne rečiau kaip kartą per 5 metus skelbia rekomendacijas, susijusias su paslaugų energetikos sektoriuje kainų atitiktimi skaidrumo, nediskriminavimo ir kitiems teisės aktų nustatytiems reikalavimams, ir teikia jas Konkurencijos tarybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
@@ -1503,7 +1506,10 @@ Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis
 
 
-1. Energetikos įmonių, vykdančių energijos perdavimo, skirstymo ar tiekimo veiklą, išskyrus elektros energijos ar gamtinių dujų nepriklausomo tiekimo veiklą, veiklos teritorija nurodoma energetikos įmonei išduotoje veiklos licencijoje ar leidime.
+1. Energetikos įmonių, vykdančių energijos perdavimo, skirstymo ar tiekimo veiklą, išskyrus nepriklausomo elektros energijos ar gamtinių dujų tiekimo veiklą, veiklos teritorija nurodoma energetikos įmonei išduotoje veiklos licencijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
@@ -1634,7 +1640,10 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 
-1. Asmuo, siekiantis gauti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka pateikia licenciją, leidimą ar atestatą išduodančiai institucijai prašymą išduoti licenciją, leidimą ar atestatą ir teisės aktuose nurodytus dokumentus. Reikalavimai asmenims, siekiantiems gauti licenciją, leidimą ar atestatą, nustatomi šiame įstatyme ir (ar) atskirus energetikos sektorius reglamentuojančiuose įstatymuose. Licencija, leidimas ar atestatas asmeniui išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiami ne vėliau kaip per 30 kalendorinių dienų nuo prašymo išduoti licenciją, leidimą ar atestatą ir visų tinkamai įformintų dokumentų registravimo licencijas, leidimus ar atestatus išduodančioje institucijoje teisės aktų nustatyta tvarka dienos.
+1. Asmuo, siekiantis gauti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka pateikia licencijas, leidimus ar atestatus išduodančiai institucijai prašymą arba deklaraciją išduoti licenciją, leidimą ar atestatą ir teisės aktuose nurodytus dokumentus. Reikalavimai asmenims, siekiantiems gauti licenciją, leidimą ar atestatą, nustatomi šiame įstatyme ir (ar) atskirus energetikos sektorius reglamentuojančiuose įstatymuose. Licencija, leidimas ar atestatas asmeniui išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo išduoti licenciją, leidimą ar atestatą ir visų tinkamai įformintų dokumentų registravimo licencijas, leidimus ar atestatus išduodančioje institucijoje teisės aktų nustatyta tvarka dienos. Asmeniui, siekiančiam gauti energetikos veiklos leidimą, teisės aktų nustatyta tvarka pateikusiam deklaraciją, teisė verstis šia veikla suteikiama kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
@@ -1657,7 +1666,10 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 5. Licencijos, leidimo ar atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išdavusios institucijos sprendimu teisės aktų nustatyta tvarka sustabdomas, jeigu:
 
 
-1) išdavus licenciją, leidimą ar atestatą, paaiškėja, kad prašyme išduoti licenciją, leidimą ar atestatą pateikti klaidingi duomenys, ir po įspėjimo per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį energetikos įmonė nepateikė patikslintų duomenų;
+1) išdavus licenciją, leidimą ar atestatą, paaiškėja, kad prašyme išduoti licenciją, leidimą ar atestatą arba deklaracijoje pateikti klaidingi duomenys, ir po įspėjimo per licencijas, leidimus ar atestatus išduodančios institucijos nustatytą laikotarpį energetikos įmonė nepateikė patikslintų duomenų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
@@ -1731,7 +1743,10 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-5) energetikos įmonė daugiau kaip trejus metus nevykdo licencijoje, leidime ar atestate nurodytos veiklos;
+5) energetikos įmonė daugiau kaip vienus metus arba ilgesnį (bet ne ilgesnį kaip treji metai) terminą, jei šis terminas yra nustatytas atskirus energetikos sektorius reglamentuojančiuose įstatymuose, nevykdo licencijoje, leidime ar atestate nurodytos veiklos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
@@ -1746,14 +1761,25 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-8) fizinis asmuo, turėjęs licenciją, leidimą ar atestatą, miršta.
+8) fizinis asmuo, turėjęs licenciją, leidimą ar atestatą, miršta;
+
+
+
+
+9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis. 
+Papildyta straipsnio punktu:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
 
 
 
-8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo.
+8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
 
 
 
@@ -2662,6 +2688,19 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
+301 straipsnis. Už suvartotą energiją susidariusių vartotojo skolų ir permokų apmokėjimo tvarka 
+
+
+Dėl energetikos įmonės kaltės vykdant teisės aktuose įtvirtintus licencijuojamos veiklos įpareigojimus susidariusi vartotojo skola už suvartotą energiją ir (ar) energijos išteklius iš vartotojo gali būti išieškoma ne daugiau kaip už du mėnesius, ėjusius prieš einamąjį mėnesį, neskaičiuojant netesybų (delspinigių, palūkanų ar baudų) už visą klaidingai skaičiuoto mokesčio už suvartotą energiją ir (ar) energijos išteklius laikotarpį. Permoka už suvartotą energiją ir (ar) energijos išteklius vartotojui skaičiuojama už visą klaidingai skaičiuotą laikotarpį. 
+
+
+Papildyta straipsniu:
+Nr. XIII-788, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18851
+ 
+
+
+
+
 31 straipsnis. Duomenų saugojimas
 
 
@@ -3178,12 +3217,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
+ 
 
 
 
 
 
 
+ 
 Lietuvos Respublikos                                                                                                 energetikos įstatymo                                                                                                 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -3407,3 +3448,13 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 25, 30 ir 37 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 21, 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8, 17 ir 21 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-788, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18851
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 30-1 straipsniu įstatymas
