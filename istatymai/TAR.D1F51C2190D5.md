@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D1F51C2190D5"
 
 # Lietuvos Respublikos terminų banko įstatymas
 
+Suvestinė redakcija nuo 2018-01-01
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 7-129, i. k. 1031010ISTA0IX-1950
+ 
+ 
 LIETUVOS RESPUBLIKOS TERMINŲ BANKO ĮSTATYMAS
  
 2003 m. gruodžio 23 d. Nr. IX-1950
@@ -129,28 +134,25 @@ BENDROSIOS NUOSTATOS
 
 
 
-4 straipsnis. Terminų banko tvarkymas
+4 straipsnis. Terminų banko valdymas ir tvarkymas
 
 
-1. Terminų banką kuria, jo veikimą, nuolatinę priežiūrą ir duomenų atnaujinimą užtikrina terminų banko tvarkytojai – Valstybinė lietuvių kalbos komisija (toliau – Kalbos komisija) kartu su Lietuvos Respublikos Seimo kanceliarija. 
-
-
-
-
-2. Lietuvos Respublikos Seimo kanceliarija užtikrina reikalingos Terminų bankui veikti techninės ir programinės įrangos suteikimą arba sukūrimą, veikimą, priežiūrą ir atnaujinimą.
+1. Terminų banką kuria, jo veikimą, nuolatinę priežiūrą ir duomenų atnaujinimą užtikrina terminų banko valdytojas ir tvarkytojas – Valstybinė lietuvių kalbos komisija (toliau – Kalbos komisija).
 
 
 
 
-3. Terminų bankas pildomas tik pagal Lietuvos Respublikos terminų banko metodiką.
+2. Terminų bankas pildomas tik pagal Lietuvos Respublikos terminų banko metodiką.
 
 
 
 
-4. Aprobuotų, teiktinų terminų straipsnius ir neteiktinus terminus į terminų banką gali įtraukti, keisti ir iš jo šalinti tik tie asmenys, kurie yra nustatyti Lietuvos Respublikos terminų banko metodikoje. 
+3. Aprobuotų, teiktinų terminų straipsnius ir neteiktinus terminus į Terminų banką gali įtraukti, keisti ir iš jo šalinti tik tie asmenys, kurie yra nustatyti Lietuvos Respublikos terminų banko metodikoje. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-598, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12170
  
-
-
 
 
 
@@ -341,3 +343,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-598, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12170
+Lietuvos Respublikos terminų banko įstatymo Nr. IX-1950 4 straipsnio pakeitimo įstatymas
