@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-07-05
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
  
@@ -93,24 +93,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – dydis, apskaičiuojamas pagal formulę k = (K1 x S1 + K2 x S2)/(S1 + S2). Čia:
-
-
-1) K1 ir K2 – asmens draudžiamųjų pajamų koeficientai, taikomi atitinkamai už laikotarpį iki 1994 metų ir nuo 1994 metų, apskaičiuoti Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo (toliau – Valstybinių socialinio draudimo pensijų įstatymas) nustatyta tvarka; 
-
-
-
-
-2) S1 – pensijų draudimo stažo metų, pagal kuriuos apskaičiuotas koeficientas K1, skaičius;
-
-
-
-
-3) S2 – pensijų draudimo stažo metų, nuo 1994 metų ir Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka įskaitomų valstybinės socialinio draudimo netekto darbingumo (invalidumo) arba senatvės pensijos papildomai daliai apskaičiuoti, skaičius.
-7 dalies redakcija nuo 2018-01-01:
-7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – metinių asmens socialinio draudimo pensijų apskaitos vienetų, apskaičiuotų Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, vidurkis per visą įskaitytiną to asmens draudimo laikotarpį (stažą).
-
-
+7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – metinių asmens socialinio draudimo pensijų apskaitos vienetų, apskaičiuotų Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, vidurkis per visą įskaitytiną to asmens draudimo laikotarpį (stažą). 
 
 
 
@@ -165,7 +148,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Šalies vidutinis mėnesinis darbo užmokestis (D) – Lietuvos statistikos departamento skelbiamas vidutinis mėnesinis bruto darbo užmokestis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) šalies ūkyje. 
+14. Šalies vidutinis mėnesinis darbo užmokestis – Lietuvos statistikos departamento skelbiamas vidutinis mėnesinis bruto darbo užmokestis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) šalies ūkyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+ 
+
+
+
+
+15. Vidutinis šalies darbo užmokestis (D) – ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos valstybinio socialinio draudimo įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
  
 
 
@@ -645,7 +638,10 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 
 
 
-5. Mėnesio kompensuojamasis uždarbis vienkartinei kompensacijai apskaičiuoti negali būti mažesnis už užpraeito ketvirčio 15 procentų šalies vidutinio mėnesinio darbo užmokesčio ir negali viršyti užpraeito ketvirčio dviejų šalies vidutinių mėnesinių darbo užmokesčių, apskaičiuotų nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo mėnesį.
+5. Mėnesio kompensuojamasis uždarbis netekto darbingumo vienkartinei kompensacijai apskaičiuoti negali būti mažesnis už 15 procentų vidutinio šalies darbo užmokesčio (D) ir negali viršyti vidutinio šalies darbo užmokesčio (D), galiojančio nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo mėnesį, dviejų dydžių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+ 
 
 
 
@@ -681,7 +677,9 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 
 
 
-2. Netekto darbingumo periodinė kompensacija nukentėjusiajam mokama kas mėnesį už praėjusį mėnesį. Ji apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3 straipsnio 4 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 7, 8, 9 dalys) ir užpraeito ketvirčio šalies vidutinio mėnesinio darbo užmokesčio, apskaičiuoto mokėjimo mėnesį, sandaugos pusė, tai yra pagal formulę 0,5 x d x k x D.
+2. Netekto darbingumo periodinė kompensacija nukentėjusiajam mokama kas mėnesį už praėjusį mėnesį. Ji apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3 straipsnio 4 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 7, 8, 9 dalys) ir mėnesį, už kurį mokama kompensacija, galiojančio vidutinio šalies darbo užmokesčio (D), sandaugos pusė, tai yra pagal formulę 0,5 x d x k x D. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
  
 
 
@@ -843,7 +841,10 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai p
 27 straipsnis. Vienkartinė draudimo išmoka apdraustajam asmeniui mirus
 
 
-1. Apdraustajam asmeniui mirus dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos, pripažintų draudžiamaisiais įvykiais, mirusiojo šeimai išmokama vienkartinė draudimo išmoka, lygi 60 šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį iki mirties dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos mėnesio, dydžių. Ši išmoka lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.
+1. Apdraustajam asmeniui mirus dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos, pripažintų draudžiamaisiais įvykiais, mirusiojo šeimai išmokama vienkartinė draudimo išmoka, lygi vidutinio šalies darbo užmokesčio (D), galiojusio mirties dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos mėnesį, 60 dydžių. Ši išmoka lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+ 
 
 
 
@@ -1187,3 +1188,8 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 13, 15, 19, 20, 27 ir 28 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-828, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20045
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymo Nr. XII-2472 2 straipsnio pakeitimo įstatymas
