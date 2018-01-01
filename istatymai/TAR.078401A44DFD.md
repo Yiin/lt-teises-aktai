@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.078401A44DFD"
 
 # Lietuvos Respublikos kraujo donorystės įstatymas
 
-Suvestinė redakcija nuo 2015-05-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 115-2666, i. k. 0961010ISTA00I-1611
  
@@ -159,7 +159,10 @@ Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
 
 
 
-3. Prieš imant kraują ar kraujo sudėtines dalis turi būti patikrinta donoro sveikata. Patikrinimo tvarką, privalomų tyrimų sąrašą, reikiamus sveikatos rodiklius bei donorų apklausos anketos formą nustato Sveikatos apsaugos ministerija.
+3. Prieš imant kraują ar kraujo sudėtines dalis turi būti patikrinta donoro sveikata ir atlikta Kraujo donorų registro duomenų apie kraujo donorus patikra. Sveikatos patikrinimo, duomenų apie kraujo donorus patikros Kraujo donorų registre tvarką, privalomų tyrimų sąrašą, reikiamus sveikatos rodiklius ir donorų apklausos anketos formą nustato sveikatos apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2316, 2016-04-14, paskelbta TAR 2016-04-19, i. k. 2016-10092
+Nr. XIII-673, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16703
  
 
 
@@ -256,9 +259,17 @@ Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010IS
 
 
 
-9) Vyriausybės nustatyta tvarka gauti garbės donoro vardą. Garbės donoras įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę gauti valstybinę pensiją.
+9) Vyriausybės nustatyta tvarka gauti garbės donoro vardą. Garbės donoras įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę gauti valstybinę pensiją;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010ISTA0IX-1755
+ 
+
+
+
+
+10) reikalauti, kad sveikatos apsaugos ministro nustatyta tvarka būtų nemokamai atlikti sveikatos apsaugos ministro nustatyti profilaktiniai kraujo tyrimai, leidžiantys identifikuoti asmens sveikatos pokyčius.
+Papildyta straipsnio punktu:
+Nr. XII-2316, 2016-04-14, paskelbta TAR 2016-04-19, i. k. 2016-10092
  
 
 
@@ -535,3 +546,18 @@ Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 1 ir 2 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
 Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 1, 2, 3, 16 straipsnių ir VI skyriaus pavadinimo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2316, 2016-04-14, paskelbta TAR 2016-04-19, i. k. 2016-10092
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 4 ir 7 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-159, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29853
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 4 ir 7 straipsnių pakeitimo įstatymo Nr. XII-2316 3 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-673, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16703
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 4 ir 7 straipsnių pakeitimo įstatymo Nr. XII-2316 1 straipsnio pakeitimo įstatymas
