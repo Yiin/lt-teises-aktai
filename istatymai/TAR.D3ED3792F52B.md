@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -519,7 +519,10 @@ Nr. X-1349, 2007-12-04, Žin., 2007, Nr. 135-5453 (2007-12-21)
 
 
 
-5. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento institucijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų tarnybose, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose; ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš savivaldybės biudžeto (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba.
+5. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento institucijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų tarnybose, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš savivaldybės biudžeto (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš savivaldybės biudžeto (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-622, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12473
+ 
 
 
 
@@ -3768,6 +3771,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Lietuvos Respublikos 
 tarnybos įstatymo 
 1 priedas
@@ -3886,6 +3890,7 @@ Nr. XII-517, 2013-09-19, Žin., 2013, Nr. 102-5026 (2013-09-28)
 
 
  
+ 
  
 Lietuvos Respublikos 
 valstybės tarnybos įstatymo
@@ -4164,6 +4169,7 @@ Nr. XII-687, 2013-12-17, Žin., 2013, Nr. 140-7064 (2013-12-30)
 
 
  
+ 
  
 Lietuvos Respublikos
 valstybės tarnybos įstatymo 
@@ -5464,3 +5470,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 4 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-818, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20012
 Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios įstatymo Nr. XII-681 6 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-622, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12473
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8 straipsnio pakeitimo įstatymas
