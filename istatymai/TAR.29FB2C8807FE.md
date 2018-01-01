@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2017-10-26 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -705,12 +705,26 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 11 straipsnis. Įmonės vadovas
 
 
-1. Įmonės vadovas pradeda eiti pareigas nuo sprendime dėl jo paskyrimo nurodytos dienos. Kai įmonė steigiama, įmonės vadovu paskirtas asmuo pradeda eiti įmonės vadovo pareigas nuo įmonės įregistravimo dienos. 
+1. Įmonės vadovas priimamas į darbą viešo konkurso būdu 5 metų kadencijai. Tas pats asmuo tos pačios įmonės vadovu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Įmonės vadovas pradeda eiti pareigas nuo sprendime dėl jo paskyrimo nurodytos dienos. Kai įmonė steigiama, įmonės vadovu paskirtas asmuo pradeda eiti įmonės vadovo pareigas nuo įmonės įregistravimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 
 
-2. Įmonės vadovas: 
+2. Pasibaigus pirmajai kadencijai, įmonės vadovas savininko teises ir pareigas įgyvendinančios institucijos sprendimu gali būti skiriamas antrajai 5 metų kadencijai, atsižvelgiant į tai, ar įmonės vadovo pirmosios kadencijos laikotarpiu įmonė pasiekė visus jai nustatytus veiklos tikslus. Įmonės pasiektų veiklos tikslų atitiktis jai nustatytiems veiklos tikslams vertinama Vyriausybės ar savivaldybės tarybos nustatyta tvarka likus 3 mėnesiams iki vadovo pirmosios kadencijos pabaigos. Įmonės savininko teises ir pareigas įgyvendinanti institucija, priėmusi sprendimą neskirti įmonės vadovo antrajai kadencijai, likus 3 mėnesiams iki įmonės vadovo pirmosios kadencijos pabaigos, taip pat likus 3 mėnesiams iki įmonės vadovo antrosios kadencijos pabaigos, organizuoja viešą konkursą įmonės vadovo pareigoms eiti. Pasibaigus antrajai kadencijai, įmonės vadovas yra atšaukiamas iš pareigų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
+
+
+
+
+3. Įmonės vadovas: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 1) priima į darbą ir atleidžia darbuotojus; 
@@ -745,12 +759,18 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-3. Įmonės vadovas organizuoja kasdieninę įmonės veiklą ir veikia įmonės vardu esant santykiams su kitais asmenimis. Įmonės vadovas turi teisę vienvaldiškai sudaryti sandorius. Įmonės įstatuose gali būti nurodyti sandoriai, kuriems sudaryti būtina turėti valdybos, o jeigu valdyba nesudaroma, – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą. 
+4. Įmonės vadovas organizuoja kasdieninę įmonės veiklą ir veikia įmonės vardu esant santykiams su kitais asmenimis. Įmonės vadovas turi teisę vienvaldiškai sudaryti sandorius. Įmonės įstatuose gali būti nurodyti sandoriai, kuriems sudaryti būtina turėti valdybos, o jeigu valdyba nesudaroma, – įmonės savininko teises ir pareigas įgyvendinančios institucijos išankstinį pritarimą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 
 
-4. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). Asmuo negali būti įmonės vadovu, jeigu:
+5. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). Asmuo negali būti įmonės vadovu, jeigu:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 1) įstatymų nustatyta tvarka yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
@@ -793,12 +813,18 @@ Nr. XII-1619, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06521
 
 
 
-5. Įmonės vadovas negali būti kito juridinio asmens darbuotoju ar organo nariu be įmonės savininko teises ir pareigas įgyvendinančios institucijos sutikimo. Įmonės savininko teises ir pareigas įgyvendinanti institucija sprendimą dėl sutikimo įmonės vadovui būti kito juridinio asmens darbuotoju ar organo nariu priima gavusi įmonės vadovo rašytinį prašymą. Šis įmonės vadovo prašymas turi būti išnagrinėtas per 10 darbo dienų nuo jo gavimo institucijoje dienos. Sutikimas duodamas, jeigu įmonės vadovo buvimas kito juridinio asmens darbuotoju ar organo nariu nesukelia interesų konflikto, nekliudo jam tinkamai vykdyti pareigų, nurodytų Civiliniame kodekse, šiame ir kituose įstatymuose ir įmonės įstatuose. Įmonės vadovas, pažeidęs šioje dalyje nustatytą reikalavimą, turi būti atšauktas iš įmonės vadovo pareigų.
+6. Įmonės vadovas negali būti kito juridinio asmens darbuotoju ar organo nariu be įmonės savininko teises ir pareigas įgyvendinančios institucijos sutikimo. Įmonės savininko teises ir pareigas įgyvendinanti institucija sprendimą dėl sutikimo įmonės vadovui būti kito juridinio asmens darbuotoju ar organo nariu priima gavusi įmonės vadovo rašytinį prašymą. Šis įmonės vadovo prašymas turi būti išnagrinėtas per 10 darbo dienų nuo jo gavimo institucijoje dienos. Sutikimas duodamas, jeigu įmonės vadovo buvimas kito juridinio asmens darbuotoju ar organo nariu nesukelia interesų konflikto, nekliudo jam tinkamai vykdyti pareigų, nurodytų Civiliniame kodekse, šiame ir kituose įstatymuose ir įmonės įstatuose. Įmonės vadovas, pažeidęs šioje dalyje nustatytą reikalavimą, turi būti atšauktas iš įmonės vadovo pareigų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 
 
-6. Įmonės vadovas atsako už: 
+7. Įmonės vadovas atsako už: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 1) įmonės veiklos strategijos projekto parengimą ir jo pateikimą valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai;
@@ -858,12 +884,18 @@ Nr. XII-1619, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06521
 
 
 
-7. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą atšaukti įmonės vadovą, su juo sudaryta darbo sutartis nutraukiama Darbo kodekse nustatyta tvarka.
+8. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą atšaukti įmonės vadovą, su juo sudaryta darbo sutartis pasibaigia Darbo kodekse nustatyta tvarka. Jeigu įmonės vadovas buvo paskirtas įmonės valdybos nariu, atšaukus jį iš vadovo pareigų, jis atšaukiamas ir iš įmonės valdybos narių.
+Straipsnio dalies pakeitimai:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 
 
-8. Darbo ginčai tarp įmonės vadovo ir įmonės nagrinėjami teisme.
+9. Darbo ginčai tarp įmonės vadovo ir įmonės nagrinėjami teisme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+ 
 
 
 Straipsnio pakeitimai:
@@ -2106,3 +2138,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 17
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-701, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16809
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 12 ir 15 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 11 straipsnio pakeitimo įstatymas
