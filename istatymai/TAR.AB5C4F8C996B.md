@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 2014-12-24 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
  
@@ -217,12 +217,18 @@ Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota insti
 
 
 
-3. Karinės įrangos importui, kai šią įrangą importuoja Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija), Lietuvos kariuomenė ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas), šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama karinės įrangos importo licencija nereikalinga.
+3. Karinės įrangos importui, kai šią įrangą importuoja Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija) ar jos įgaliota krašto apsaugos sistemos institucija, Lietuvos kariuomenė ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas), šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama karinės įrangos importo licencija nereikalinga. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-544, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11941
+ 
 
 
 
 
-4. Karinės įrangos reeksportui remonto ar priežiūros tikslais, kai remonto ar priežiūros darbai yra numatyti pirkimo–pardavimo sutartyse arba garantiniuose įsipareigojimuose ir kai šią įrangą yra importavusi Krašto apsaugos ministerija arba Lietuvos kariuomenė, šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama licencija nereikalinga.
+4. Karinės įrangos reeksportui remonto ar priežiūros tikslais, kai remonto ar priežiūros darbai yra numatyti pirkimo–pardavimo sutartyse arba garantiniuose įsipareigojimuose ir kai šią įrangą yra importavusi Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija arba Lietuvos kariuomenė, šio straipsnio 1 dalyje nurodyta Ūkio ministerijos išduodama licencija nereikalinga. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-544, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11941
+ 
 
 
 
@@ -734,3 +740,8 @@ Lietuvos Respublikos strateginių prekių kontrolės įstatymo pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1370, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19556
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 3 ir 13 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-544, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11941
+Lietuvos Respublikos strateginių prekių kontrolės įstatymo Nr. I-1022 6 straipsnio pakeitimo įstatymas
