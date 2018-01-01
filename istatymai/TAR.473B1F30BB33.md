@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/473b1f30bb3311e38766a859941f6073"
 
 # Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-09-30
  
 Įstatymas paskelbtas: TAR 2014-04-03, i. k. 2014-04033
  
@@ -80,15 +80,15 @@ Vilnius
 4 straipsnis. Įmonės funkcijos 
 
 
-1. Įmonė įstatymų nustatyta tvarka atlieka šias pagrindines funkcijas:
+1. Įmonė atlieka šias pagrindines funkcijas:
 
 
-1) įgyvendina centralizuotą valstybės nekilnojamojo turto valdymą; 
+1) įgyvendina centralizuotą valstybės nekilnojamojo turto valdymą;
 
 
 
 
-2) privatizuoja jai patikėjimo teise perduotas valstybei ir savivaldybėms nuosavybės teise priklausančias akcijas; 
+2) privatizuoja jai patikėjimo teise perduotas valstybei ir savivaldybėms nuosavybės teise priklausančias akcijas;
 
 
 
@@ -103,12 +103,12 @@ Vilnius
 
 
 
-5) Neteko galios nuo 2017-07-01
-Straipsnio punkto naikinimas:
-Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+5) administruoja bešeimininkį, konfiskuotą, valstybės paveldėtą, valstybei perduotą nekilnojamąjį turtą, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
  
-
-
 
 
 
@@ -241,6 +241,49 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 5. Neteko galios nuo 2017-07-01
 Straipsnio dalies naikinimas:
 Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+ 
+
+
+
+
+6. Įmonė, administruodama bešeimininkį, konfiskuotą, valstybės paveldėtą, valstybei perduotą nekilnojamąjį turtą ir akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas:
+
+
+1) perima, įvertina ir tvarko konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų apskaitą;
+
+
+
+
+2) kreipiasi į teismą dėl nekilnojamojo turto, kuris neturi savininko (ar savininkas nežinomas), pripažinimo bešeimininkiu ir perdavimo valstybės ar savivaldybės nuosavybėn, taip pat dėl akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų, kurios neturi savininko (ar savininkas nežinomas), pripažinimo bešeimininkėmis ir perdavimo valstybės nuosavybėn;
+
+
+
+
+3) perima, įvertina ir tvarko pripažinto bešeimininkiu ir valstybės nuosavybėn perduoto nekilnojamojo turto, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų apskaitą;
+
+
+
+
+4) organizuoja pripažinto bešeimininkiu ir valstybės nuosavybėn perduoto, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto realizavimą viešo aukciono būdu Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+
+
+
+
+5) organizuoja pripažintų bešeimininkėmis ir valstybės nuosavybėn perduotų akcinių ir uždarųjų akcinių bendrovių akcijų realizavimą privatizavimą reglamentuojančių teisės aktų nustatyta tvarka;
+
+
+
+
+6) skelbia informaciją apie nekilnojamąjį turtą, kuris neturi savininko (ar savininkas nežinomas), ir apie akcines bendroves ir uždarąsias akcines bendroves, kurios kreipėsi dėl akcijų pripažinimo bešeimininkėmis, įmonės interneto svetainėje;
+
+
+
+
+7) atlieka kitas įstatymuose jai priskirtas funkcijas, susijusias su bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto ir akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų administravimu. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
  
 
 
@@ -689,3 +732,8 @@ Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
+Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 straipsnio pakeitimo įstatymas
