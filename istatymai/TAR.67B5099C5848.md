@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2017-12-20 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -1014,7 +1014,10 @@ PAGRINDINĖS SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ) PADAVIMO ADMINISTRACINIAM TEISMUI
 
 
 
-3. Prašymą atnaujinti terminą skundui (prašymui, pareiškimui) paduoti išnagrinėja ir nutartį priima teismo pirmininkas, teisėjas ar teismo pirmininko sudaryta teisėjų kolegija rašytinio proceso tvarka per septynias darbo dienas nuo prašymo teismui su priežastis patvirtinančiais įrodymais pateikimo. Kai teismo pirmininkas, teisėjas ar teismo pirmininko sudaryta teisėjų kolegija mano, kad dėl prašymo atnaujinti terminą skundui (prašymui, pareiškimui) paduoti yra būtina gauti suinteresuotų asmenų nuomonę, toks prašymas turi būti išnagrinėtas per dešimt darbo dienų nuo jo gavimo. Šiuo atveju apie prašymo atnaujinti terminą skundui (prašymui, pareiškimui) paduoti nagrinėjimą pranešama suinteresuotiems asmenims ir nurodomas terminas, per kurį jie turi pateikti nuomonę. Dėl nutarties, kuria atsisakoma atnaujinti praleistą terminą skundui (prašymui, pareiškimui) paduoti, pareiškėjas gali duoti atskirąjį skundą. Įsiteisėjus nutarčiai atsisakyti atnaujinti praleistą terminą skundui (prašymui, pareiškimui) paduoti, skundas (prašymas, pareiškimas) grąžinamas pareiškėjui.
+3. Prašymą atnaujinti terminą skundui (prašymui, pareiškimui) paduoti išnagrinėja ir nutartį priima teismo pirmininkas, teisėjas, teismo pirmininko ar jo paskirto teisėjo sudaryta teisėjų kolegija rašytinio proceso tvarka per septynias darbo dienas nuo prašymo teismui su priežastis patvirtinančiais įrodymais pateikimo. Kai teismo pirmininkas, teisėjas, teismo pirmininko ar jo paskirto teisėjo sudaryta teisėjų kolegija mano, kad dėl prašymo atnaujinti terminą skundui (prašymui, pareiškimui) paduoti yra būtina gauti suinteresuotų asmenų nuomonę, toks prašymas turi būti išnagrinėtas per dešimt darbo dienų nuo jo gavimo. Šiuo atveju apie prašymo atnaujinti terminą skundui (prašymui, pareiškimui) paduoti nagrinėjimą pranešama suinteresuotiems asmenims ir nurodomas terminas, per kurį jie turi pateikti nuomonę. Dėl nutarties, kuria atsisakoma atnaujinti praleistą terminą skundui (prašymui, pareiškimui) paduoti, pareiškėjas gali duoti atskirąjį skundą. Įsiteisėjus nutarčiai atsisakyti atnaujinti praleistą terminą skundui (prašymui, pareiškimui) paduoti, skundas (prašymas, pareiškimas) grąžinamas pareiškėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -1028,6 +1031,9 @@ PAGRINDINĖS SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ) PADAVIMO ADMINISTRACINIAM TEISMUI
 
 
 31 straipsnis. Teritorinis administracinių bylų teismingumas. Procesinių dokumentų pateikimo vieta 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 1. Skundas (prašymas, pareiškimas) paduodamas tam administraciniam teismui, kurio veikimo teritorijoje yra atsakovo buveinė (gyvenamoji vieta), o jeigu atsakovas yra valstybė arba savivaldybė, – tam administraciniam teismui, kurio teritorijoje yra atsakovui atstovaujančios institucijos buveinė. Jeigu viešojo administravimo subjekto, jo teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, veikiančio Lietuvos Respublikos teritorijos dalyje, administracinio akto ar veiksmo (neveikimo) teisėtumas buvo patikrintas (nagrinėjamas) aukštesniojo pagal pavaldumą viešojo administravimo subjekto ir (arba) kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pagal to viešojo administravimo subjekto, jo teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, kurio administracinio akto ar veiksmo (neveikimo) teisėtumas buvo tikrinamas (nagrinėjamas), buveinės vietą. 
@@ -1043,7 +1049,10 @@ Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 
 
-3. Kai byloje yra keli tarpusavyje susiję reikalavimai, iš kurių vieni pagal šio įstatymo 20 straipsnio 4 dalį priskirtini Vilniaus apygardos administraciniam teismui, o kiti – kitų apygardų administraciniams teismams, skundas (prašymas, pareiškimas) turi būti paduodamas Vilniaus apygardos administraciniam teismui. Kitais atvejais, kai yra keli tarpusavyje susiję reikalavimai, kurie gali būti nagrinėjami skirtingų apygardų administraciniuose teismuose, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pareiškėjo pasirinkimu.
+3. Kai byloje yra keli tarpusavyje susiję reikalavimai, iš kurių vieni pagal šio įstatymo 20 straipsnio 4 dalį priskirtini Vilniaus apygardos administraciniam teismui, o kiti – Regionų apygardos administraciniam teismui, skundas (prašymas, pareiškimas) turi būti paduodamas Vilniaus apygardos administraciniam teismui. Kitais atvejais, kai yra keli tarpusavyje susiję reikalavimai, kurie gali būti nagrinėjami skirtingų apygardų administraciniuose teismuose, skundas (prašymas, pareiškimas) administraciniam teismui paduodamas pareiškėjo pasirinkimu. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -1508,7 +1517,10 @@ TEISMO SUDĖTIS. TEISĖJO IR KITŲ ASMENŲ NUŠALINIMAS
 43 straipsnis. Administracinio teismo sudėtis
 
 
-1. Administraciniuose teismuose bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 3, 4 ir 5 punktuose, 131 straipsnio 1 ir 2 dalyse, bylas dėl viešojo administravimo subjektų sprendimų, susijusių su valstybės garantuojamos teisinės pagalbos teikimu, bylas dėl administracinių ginčų komisijų ir kitų kolegialių išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų, taip pat šio įstatymo 99 straipsnio 5 dalyje nustatytais atvejais nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas.
+1. Administraciniuose teismuose bylas, nurodytas šio įstatymo 17 straipsnio 1 dalies 3, 4 ir 5 punktuose, 131 straipsnio 1 ir 2 dalyse, bylas dėl viešojo administravimo subjektų sprendimų, susijusių su valstybės garantuojamos teisinės pagalbos teikimu, bylas dėl administracinių ginčų komisijų ir kitų kolegialių išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų, taip pat šio įstatymo 99 straipsnio 5 dalyje nustatytais atvejais nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko ar jo paskirto teisėjo nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas. Kai teismas yra sudarytas iš teismo rūmų, teisėjų kolegija sudaroma iš teisėjų, kurie paskirti į tuos pačius teismo rūmus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -1523,7 +1535,10 @@ TEISMO SUDĖTIS. TEISĖJO IR KITŲ ASMENŲ NUŠALINIMAS
 
 
 
-4. Teisėjų kolegijos narius, jos pirmininką ir teisėją pranešėją skiria administracinio teismo pirmininkas ar Lietuvos vyriausiojo administracinio teismo pirmininkas.
+4. Teisėjų kolegijos narius, kolegijos pirmininką ir teisėją pranešėją skiria atitinkamo teismo pirmininkas ar jo paskirtas teisėjas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -2165,28 +2180,30 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-63 straipsnis. Teisminiai pavedimai
+63 straipsnis. Teismo pavedimai
 
 
-1. Prireikus surinkti įrodymus kitame mieste arba rajone, nagrinėjantis bylą teismas paveda atitinkamam teismui atlikti tam tikrus procesinius veiksmus. Jeigu įrodymai yra užsienio valstybėje, bylą nagrinėjantis teismas pavedimą užsienio valstybės teismui siunčia per Lietuvos Respublikos teisingumo ministeriją Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
-
-
-
-
-2. Nutartyje dėl teisminio pavedimo trumpai išdėstoma nagrinėjamos bylos esmė, nurodomos aplinkybės, kurias reikia išaiškinti, įrodymai, kuriuos turi surinkti vykdantis pavedimą teismas. Ši nutartis yra privaloma teismui, kuriam ji adresuojama, ir turi būti įvykdyta ne vėliau kaip per dešimt darbo dienų.
+1. Prireikus surinkti įrodymus kito teismo veiklos teritorijoje, o kai teismas sudarytas iš teismo rūmų, – to teismo kitų teismo rūmų veiklos teritorijoje, nagrinėjantis bylą teismas atitinkamam teismui ar teismo rūmams gali pavesti atlikti tam tikrus procesinius veiksmus. Jeigu įrodymai yra užsienio valstybėje, bylą nagrinėjantis teismas pavedimą užsienio valstybės teismui siunčia per Lietuvos Respublikos teisingumo ministeriją Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
 
 
 
 
-3. Teisminis pavedimas įvykdomas teismo posėdyje. Proceso dalyviams pranešama apie posėdžio vietą ir laiką, tačiau jų neatvykimas nekliudo įvykdyti pavedimo.
+2. Nutartyje dėl teismo pavedimo trumpai išdėstoma nagrinėjamos bylos esmė, nurodomos aplinkybės, kurias reikia nustatyti, įrodymai, kuriuos turi surinkti vykdantis pavedimą teismas. Ši nutartis yra privaloma teismui ar teismo rūmams, kuriems ji adresuojama, ir turi būti įvykdyta ne vėliau kaip per dešimt darbo dienų.
 
 
 
 
-4. Visa vykdant pavedimą surinkta medžiaga nedelsiant pasiunčiama nagrinėjančiam bylą teismui.
+3. Teismo pavedimas įvykdomas teismo posėdyje. Proceso dalyviams pranešama apie posėdžio vietą ir laiką, tačiau jų neatvykimas nekliudo įvykdyti pavedimo.
+
+
+
+
+4. Visa vykdant pavedimą surinkta medžiaga nedelsiant pasiunčiama nagrinėjančiam bylą teismui. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
  
-
-
 
 
 
@@ -2361,10 +2378,10 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-4. Manydamas, kad nėra kliūčių administracinei bylai nagrinėti, teisėjas siūlo teismo pirmininkui skirti bylą nagrinėti teismo posėdyje. Pirmininko priimtoje nutartyje nurodoma:
+4. Manydamas, kad nėra kliūčių administracinei bylai nagrinėti, teisėjas siūlo teismo pirmininkui ar jo paskirtam teisėjui skirti bylą nagrinėti teismo posėdyje. Teismo pirmininko ar jo paskirto teisėjo priimtoje nutartyje nurodoma:
 
 
-1) teisėjų kolegijos nariai, jos pirmininkas;
+1) teisėjų kolegijos nariai, kolegijos pirmininkas;
 
 
 
@@ -2379,14 +2396,17 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-4) pavedimas ne vėliau kaip per tris darbo dienas nuo nutarties priėmimo išsiųsti paštu ar elektroninių ryšių priemonėmis atsakovams ar tretiesiems suinteresuotiems asmenims skundo (prašymo, pareiškimo) nuorašus (skaitmenines kopijas) ir kitus dokumentus, jeigu jie nebuvo išsiųsti ruošiantis nagrinėti bylą;
+4) pavedimas ne vėliau kaip per tris darbo dienas nuo nutarties priėmimo išsiųsti paštu ar elektroninių ryšių priemonėmis atsakovams ar tretiesiems suinteresuotiems asmenims skundo (prašymo, pareiškimo) nuorašus (skaitmenines kopijas) ir kitus dokumentus, jeigu jie nebuvo išsiųsti ruošiantis bylą nagrinėti;
 
 
 
 
-5) kiti pavedimai, būtini bylai išnagrinėti laiku.
+5) kiti pavedimai, būtini bylai išnagrinėti laiku. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -2402,15 +2422,17 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 68 straipsnis. Bylų sujungimas ir išskyrimas
 
 
-1. Bylą posėdžiui rengiantis teisėjas arba ją nagrinėjantis teismas, nustatęs, kad tame pačiame teisme yra du ar daugiau pareiškimų (prašymų) patikrinti to paties norminio administracinio akto teisėtumą arba skundas (prašymas, pareiškimas) paduotas skirtingų pareiškėjų, tačiau dėl to paties atsakovo to paties teisės akto ar veiksmo (neveikimo), iki bylos nagrinėjimo iš esmės pabaigos nutartimi gali juos sujungti į vieną bylą.
+1. Bylą posėdžiui rengiančiam teisėjui ar ją nagrinėjančiam teismui nustačius, kad teisme arba skirtinguose apygardų administraciniuose teismuose yra du ar daugiau pareiškimų (prašymų) patikrinti to paties norminio administracinio akto teisėtumą arba skundas (prašymas, pareiškimas) paduotas skirtingų pareiškėjų, tačiau dėl to paties atsakovo to paties teisės akto ar veiksmo (neveikimo), iki bylos nagrinėjimo iš esmės pabaigos šie skundai (prašymai, pareiškimai) gali būti nutartimi sujungti į vieną bylą. Kai šioje dalyje nurodyti skundai (prašymai, pareiškimai) yra tame pačiame teisme, juos sujungia bylą posėdžiui rengiantis teisėjas arba bylą nagrinėjantis teismas. Kai šioje dalyje nurodyti skundai (prašymai, pareiškimai) yra skirtinguose to paties teismo rūmuose, nutartį dėl jų sujungimo priima teismo pirmininkas ar pirmininko pavaduotojas, kartu išspręsdamas klausimą dėl sujungtos bylos perdavimo nagrinėti konkretiems teismo rūmams. Klausimą dėl skirtinguose apygardų administraciniuose teismuose esančių skundų (prašymų, pareiškimų) sujungimo ir sujungtos bylos perdavimo nagrinėti konkrečiam teismui ar konkretiems teismo rūmams išsprendžia Lietuvos vyriausiojo administracinio teismo pirmininkas arba pirmininko pavaduotojas bylą nagrinėjančio teismo prašymu.
 
 
 
 
 2. Kai byloje yra daugiau kaip vienas reikalavimas, prireikus teismas kai kuriuos iš jų gali išskirti į atskirą bylą (bylas). 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
  
-
-
 
 
 
@@ -2418,40 +2440,52 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 69 straipsnis. Bylos perdavimas kitam teismui
 
 
-1. Teismas perduoda bylą nagrinėti kitam teismui:
+1. Teismas perduoda bylą nagrinėti kitam teismui, o kai teismas sudarytas iš teismo rūmų, – to teismo kitiems teismo rūmams:
 
 
-1) jeigu, nušalinus vieną ar kelis teisėjus, jų pakeisti kitais tame teisme negalima;
-
-
-
-
-2) kai paaiškėja, kad byla buvo priimta teismo žinion pažeidžiant priskirtinumo teismams taisykles;
+1) jeigu, nušalinus vieną ar kelis teisėjus, jų pakeisti kitais tame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo rūmuose negalima (išskyrus šio straipsnio 3, 4 ir 5 dalyse nurodytus atvejus);
 
 
 
 
-3) kai proceso šalis yra teisėjas, o byla priskirtina teismui, kuriame jis arba jo artimasis giminaitis dirba teisėju (išskyrus Lietuvos vyriausiąjį administracinį teismą);
+2) jeigu paaiškėja, kad byla buvo priimta teismo žinion pažeidžiant priskirtinumo teismams taisykles;
 
 
 
 
-4) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jeigu skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą.
+3) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo kituose teismo rūmuose, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jei skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą.
 
 
 
 
 
 
-2. Bylos perdavimo iš vieno teismo kitam teismui klausimą išsprendžia bylą perduodančio teismo teisėjų kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas, o bylos perdavimo iš vieno teismo kitam teismui šio straipsnio 1 dalies 4 punkte nustatytais atvejais klausimą – Lietuvos vyriausiojo administracinio teismo pirmininkas bylą perduodančio teismo pirmininko teikimu.
+2. Bylos perdavimo iš vieno teismo kitam teismui klausimą išsprendžia bylą perduodančio teismo teisėjų kolegija arba Lietuvos vyriausiojo administracinio teismo pirmininkas, o bylos perdavimo iš vieno teismo kitam teismui šio straipsnio 1 dalies 3 punkte nustatytais atvejais klausimą – Lietuvos vyriausiojo administracinio teismo pirmininkas bylą perduodančio teismo pirmininko teikimu. Bylos perdavimo to paties teismo kitiems teismo rūmams klausimą išsprendžia šio teismo pirmininkas.
 
 
 
 
-3. Kiekvieną bylą, iš vieno teismo perduotą kitam, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami, išskyrus šio įstatymo 22 straipsnyje nustatytus atvejus. 
+3. Kai proceso šalis yra teisėjas ir byla teisminga teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju (išskyrus Lietuvos vyriausiąjį administracinį teismą), Lietuvos vyriausiojo administracinio teismo pirmininkas bylą perduoda nagrinėti kitam teismui, išskyrus šio straipsnio 4 dalyje nurodytus atvejus. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai. 
+
+
+
+
+4. Kai teisėjas byloje yra proceso šalis ir byla teisminga iš teismo rūmų sudarytam teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, tokio teismo pirmininkas perduoda šią bylą nagrinėti to teismo kitiems teismo rūmams, į kuriuos šie asmenys nėra paskirti. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teisėjo giminaičiai. 
+
+
+
+
+5. Kai teismo pirmininkas ar teismo pirmininko pavaduotojas byloje yra proceso šalis ir byla teisminga iš teismo rūmų sudarytam teismui, kuriame jis arba jo sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės), taip pat jo sutuoktinio vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys (įbroliai, įseserės) dirba teisėju, Lietuvos vyriausiojo administracinio teismo pirmininkas perduoda šią bylą nagrinėti kitam teismui. Ši taisyklė taikoma ir tuo atveju, kai byloje proceso šalis yra šioje dalyje nurodyti teismo pirmininko ar teismo pirmininko pavaduotojo giminaičiai.
+
+
+
+
+6. Kiekvieną bylą, iš vieno teismo perduotą kitam, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami, išskyrus šio įstatymo 22 straipsnyje nustatytus atvejus. 
+
+
+Straipsnio pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
  
-
-
 
 
 
@@ -2551,7 +2585,9 @@ Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiški
 
 
 
-5. Apie tos dienos teismo posėdžius skelbiama teismo skelbimų lentoje.
+5. Apie tos dienos teismo posėdžius skelbiama teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirti teisėjai ar teisėjas nagrinėja bylą, skelbimų lentoje.
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
  
 
 
@@ -2570,7 +2606,10 @@ Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiški
 
 
 
-2) teismo pavadinimas ir tikslus adresas;
+2) teismo pavadinimas, tikslus adresas, o kai teismas sudarytas iš teismo rūmų, – ir teismo rūmų, į kuriuos paskirtas teisėjas ar teisėjai nagrinėja bylą, pavadinimas ir tikslus adresas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -2703,7 +2742,10 @@ BYLOS NAGRINĖJIMAS TEISME
  
 
 
-77 straipsnis. Sąlygos teismo posėdžiui pradėti 
+77 straipsnis. Sąlygos teismo posėdžiui pradėti ir teismo posėdžio vieta 
+Pakeistas straipsnio pavadinimas:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 1. Byla administracinio teismo posėdyje nagrinėjama tik tada, kai proceso dalyviams apie posėdžio laiką ir vietą iš anksto pranešta šaukimu, pranešimu arba viešo paskelbimo būdu.
@@ -2717,6 +2759,22 @@ BYLOS NAGRINĖJIMAS TEISME
 
 
 3. Proceso dalyvių neatvykimas į teismo posėdį, jeigu jiems buvo apie teismo posėdį tinkamai pranešta, nėra kliūtis bylai nagrinėti ir sprendimui priimti. 
+
+
+
+
+4. Teismo posėdžiai vyksta teismo, kurio teisėjas ar teisėjai nagrinėja bylą, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirtas (paskirti) bylą nagrinėjantis teisėjas ar teisėjai, patalpose. 
+Papildyta straipsnio dalimi:
+Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+ 
+
+
+
+
+5. Žodinis bylos nagrinėjimas gali vykti ir ne šio straipsnio 4 dalyje nurodytose patalpose, jeigu kitoje vietoje byla bus išnagrinėta operatyviau ir ekonomiškiau, konkrečiai – pagal daugumos įrodymų buvimo vietą arba proceso dalyvių ar daugumos proceso dalyvių gyvenamąją vietą ar buveinę, arba pagal nekilnojamojo turto, tiesiogiai susijusio su nagrinėjama byla, buvimo vietą, arba pagal ginčijamo sprendimo priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas sprendimas, vietą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+ 
 
 
 
@@ -3073,7 +3131,10 @@ TEISMO SPRENDIMAI
 
 
 
-3. Teismo sprendimas surašomas ir viešai paskelbiamas paprastai tą pačią dieną po bylos išnagrinėjimo. Teismo sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis ir trumpai žodžiu išdėstant sprendimo motyvų esmę.
+3. Teismo sprendimas surašomas ir viešai paskelbiamas paprastai tą pačią dieną po bylos išnagrinėjimo. Teismo sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis ir trumpai žodžiu išdėstant sprendimo motyvų esmę. Visi posėdžių salėje esantys asmenys skelbiamą teismo sprendimą išklauso stovėdami. Išimtiniais atvejais teismas gali leisti skelbiamą teismo sprendimą išklausyti sėdint. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -3083,7 +3144,10 @@ TEISMO SPRENDIMAI
 
 
 
-5. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip keturiolikai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančio teisėjo ar administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip keturiolikai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar bylą nagrinėjančios teisėjų kolegijos narys (nariai), teismo pirmininkas nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą. Kada bus skelbiamas teismo sprendimas, pranešama proceso šalims. Kol rengiamas teismo sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Teismo sprendimą, kurio priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant. Visi esantys posėdžių salėje asmenys skelbiamą teismo sprendimą išklauso stovėdami. Išimtiniais atvejais teismas gali leisti skelbiamą teismo sprendimą išklausyti sėdint.
+5. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip keturiolikai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančio teisėjo ar administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas ar jo paskirtas teisėjas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip keturiolikai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar bylą nagrinėjančios teisėjų kolegijos narys (nariai), teismo pirmininkas ar jo paskirtas teisėjas nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas ar jo paskirtas teisėjas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą. Apie teismo sprendimo paskelbimo laiką ir vietą pranešama proceso šalims. Kol rengiamas teismo sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Teismo sprendimą, kurio priėmimas ir paskelbimas buvo atidėtas, gali paskelbti vienas iš bylą nagrinėjusių teisėjų, kitiems kolegijos teisėjams nedalyvaujant. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
@@ -3096,7 +3160,9 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-6. Administracinio teismo sprendimas priimamas ir paskelbiamas Lietuvos Respublikos vardu. 
+7. Administracinio teismo sprendimas priimamas ir paskelbiamas Lietuvos Respublikos vardu. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
  
 
 
@@ -5805,7 +5871,10 @@ APELIACINĖS INSTANCIJOS TEISMO SPRENDIMAI
 
 
 
-4. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip keturiolikai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip keturiolikai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar bylą nagrinėjančios teisėjų kolegijos narys (nariai), teismo pirmininkas nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Kada bus skelbiamas teismo sprendimas, pranešama proceso šalims. Kol rengiamas sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą.
+4. Teismas, išnagrinėjęs bylą, gali atidėti teismo sprendimo priėmimą ir paskelbimą ne ilgiau kaip keturiolikai darbo dienų, o išnagrinėjęs bylą dėl norminio administracinio akto teisėtumo, – ne ilgiau kaip vienam mėnesiui. Dėl svarbių priežasčių administracinę bylą nagrinėjančios teisėjų kolegijos nario (narių) motyvuotu prašymu teismo pirmininkas motyvuota nutartimi gali pratęsti šiuos terminus ne ilgiau kaip keturiolikai darbo dienų. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas ar bylą nagrinėjančios teisėjų kolegijos narys (nariai), teismo pirmininkas nutartimi gali pratęsti šį terminą iki objektyvių priežasčių išnykimo. Apie teismo sprendimo paskelbimo laiką ir vietą pranešama proceso šalims. Kol rengiamas sprendimas, kolegijos teisėjai gali nagrinėti kitas bylas. Jeigu objektyvios priežastys, dėl kurių buvo pratęstas teismo sprendimo priėmimo ir paskelbimo terminas, neišnyksta per protingą laiką, teismo pirmininkas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+ 
 
 
 
