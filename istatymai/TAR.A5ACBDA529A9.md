@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-12-23 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-20
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -63,12 +63,18 @@ Nr. IX-2102, 2004-04-08, Žin., 2004, Nr. 60-2117 (2004-04-24)
 
 
 
-2. Lietuvos apmokestinamasis vienetas (toliau – Lietuvos vienetas) – juridinis asmuo, įregistruotas Lietuvos Respublikos teisės aktų nustatyta tvarka.
+2. Lietuvos apmokestinamasis vienetas (toliau – Lietuvos vienetas) – juridinis asmuo, įregistruotas Lietuvos Respublikos teisės aktų nustatyta tvarka, taip pat Lietuvos Respublikoje įsteigtas kolektyvinio investavimo subjektas, neturintis juridinio asmens statuso. Kai kolektyvinio investavimo subjekto valdymas perduotas valdymo įmonei, šio Įstatymo nustatytą kolektyvinio investavimo subjekto uždirbto pelno ir (arba) gautų, išmokamų pajamų apmokestinimo tvarką taiko valdymo įmonė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
 
 
 
 
-3. Užsienio apmokestinamasis vienetas (toliau – užsienio vienetas) – užsienio valstybės juridinis asmuo ar organizacija, kurių buveinė yra užsienio valstybėje ir kurie įsteigti arba kitokiu būdu organizuoti pagal užsienio valstybės teisės aktus, taip pat bet kuris kitas užsienyje įsteigtas, įkurtas ar kitaip organizuotas apmokestinamasis vienetas.
+3. Užsienio apmokestinamasis vienetas (toliau – užsienio vienetas) – užsienio valstybės juridinis asmuo ar organizacija, kurių buveinė yra užsienio valstybėje ir kurie įsteigti arba kitokiu būdu organizuoti pagal užsienio valstybės teisės aktus, taip pat bet kuris kitas užsienyje įsteigtas, įkurtas ar kitaip organizuotas apmokestinamasis vienetas, įskaitant kolektyvinio investavimo subjektus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
 
 
 
@@ -171,6 +177,14 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
+151. Kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, informuotiesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, profesionaliesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme. Kolektyvinio investavimo subjektu taip pat laikomas užsienio valstybėje įsteigtas ar kitaip organizuotas subjektas, mutatis mutandis atitinkantis šioje dalyje nurodytuose teisės aktuose atitinkamiems kolektyvinio investavimo subjektams nustatytus reikalavimus. Kolektyvinio investavimo subjektu taip pat laikomas subjektas, kuriam taikomas 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1) arba 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18), arba 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų (OL 2015 L 123, p. 98), arba 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8). 
+Papildyta straipsnio dalimi:
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
+
+
+
+
 16. Kompiuterio programa – kaip ši sąvoka apibrėžta Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme.
 
 
@@ -229,7 +243,10 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
-25. Pajamos iš paskirstytojo pelno – pajamos, kurios gaunamos skirstant pelną vieneto dalyviams, įskaitant dividendus. Po neribotos civilinės atsakomybės vieneto pelno apmokestinimo šio vieneto dalyvio gautos pajamos ar jam priklausančio turto paėmimas iš vieneto nelaikomas pelno paskirstymu.
+25. Pajamos iš paskirstytojo pelno – pajamos, įskaitant dividendus, gaunamos skirstant pelną vieneto dalyviams. Kai neribotos civilinės atsakomybės vieneto pelnas, apmokestinamas pelno mokesčiu pagal šį Įstatymą, šio vieneto dalyvio gautos pajamos ar jam priklausančio turto paėmimas iš vieneto nelaikomas pelno paskirstymu. Neribotos civilinės atsakomybės kolektyvinio investavimo subjekto, neribotos civilinės atsakomybės rizikos ir privataus kapitalo subjekto dalyvio gautos pajamos ar jam priklausančio turto paėmimas iš tokio vieneto taip pat nelaikomas pelno paskirstymu, išskyrus atvejus, kai iš neribotos civilinės atsakomybės kolektyvinio investavimo subjekto, neribotos civilinės atsakomybės rizikos ir privataus kapitalo subjekto tokias pajamas gauna ar turtą taip paima užsienio vienetas, įregistruotas ar kitaip organizuotas tikslinėje teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
 
 
 
@@ -285,6 +302,14 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 30. Prestižo vertė – dydis, kuriuo, įsigyjant kito vieneto veiklą kaip kompleksą ar jo veiklos dalį kaip teisių ir prievolių visumą, organizaciniu požiūriu sudarančią autonomišką ekonominį vienetą, vykdantį veiklą ir galintį atlikti savo funkcijas savo nuožiūra, arba siekiant valdyti kito vieneto grynąjį turtą ir veiklą, įsigyjant jo akcijas, įsigyjančiojo vieneto pinigais sumokėta kaina viršija įsigyto vieneto grynojo turto dalies, įvertintos tikrąja rinkos kaina, vertę ir iš kurios įsigyjantysis vienetas tikisi gauti ekonominės naudos. Apskaičiuojant grynąjį turtą neatsižvelgiama į įsigyjamojo vieneto turimą turtą, kuris nebuvo pripažintas jo apskaitoje, nes šis turtas neturėjo reikalingų pripažinimo požymių (pagrįstai nebuvo tikimasi, kad vienetas iš turto gaus ekonominės naudos būsimaisiais laikotarpiais, ir nebuvo galima patikimai nustatyti turto įsigijimo kainos), arba buvo gautas neatlyginamai iš valstybės, savivaldybės ar viešojo juridinio asmens, kurio steigėjas yra valstybės ar savivaldybės institucija, tačiau turi tikrąją rinkos kainą.
+
+
+
+
+301. Rizikos ir privataus kapitalo subjektas – vienetas, kurio pagrindinė vykdoma veikla yra laikinas lėšų iš nesusijusių asmenų pritraukimas ir lėšų investavimas į kitus vienetus, jei daugiau negu 70 procentų rizikos ir privataus kapitalo subjekto investicijų sudaro investicijos į vienetų, kurių vidutinis metinis sąrašuose esančių darbuotojų skaičius neviršija 250 žmonių ir mokestinio laikotarpio pajamos neviršija 50 milijonų eurų arba balanse nurodyto turto vertė neviršija 43 milijonų eurų, nuosavybės vertybinius popierius, neįtrauktus į prekybą reguliuojamoje rinkoje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
 
 
 
@@ -621,7 +646,10 @@ Nr. X-1481, 2008-04-08, Žin., 2008, Nr. 47-1748 (2008-04-24)
 
 
 
-2) pajamos iš paskirstytojo pelno;
+2) pajamos iš paskirstytojo pelno, išskyrus ne tikslinėje teritorijoje įregistruoto ar kitaip organizuoto užsienio vieneto iš kolektyvinio investavimo subjektų paskirstytojo pelno gaunamas pajamas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
 
 
 
@@ -3687,21 +3715,20 @@ Fizinių asmenų pajamų mokesčio laikinojo įstatymo IV skyrių tvarka
 
 
 
-16. Iki atskiro Lietuvos Respublikos Seimo sprendimo laisvųjų ekonominių zonų įmonių, juridinių asmenų (išskyrus nurodytus šio Įstatymo 5 straipsnio 5 dalyje), kuriuose dirba riboto darbingumo asmenys, apmokestinamasis pelnas apmokestinamas šioje dalyje nustatyta tvarka:
+16. Iki atskiro Lietuvos Respublikos Seimo sprendimo laisvųjų ekonominių zonų įmonių, juridinių asmenų, kuriuose dirba riboto darbingumo asmenys, apmokestinamasis pelnas apmokestinamas šioje dalyje nustatyta tvarka:
 
 
-1) laisvosios ekonominės zonos įmonė, kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 milijono eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos prekių gamybos, apdirbimo, perdirbimo, sandėliavimo veiklos, orlaivių ir erdvėlaivių bei susijusios įrangos gamybos, orlaivių ir erdvėlaivių remonto ir techninės priežiūros, su orlaivių techniniu aptarnavimu ir remontu susijusios veiklos (elektroninės ir optinės įrangos remonto, techninio tikrinimo ir analizės), kompiuterių programavimo veiklos, kompiuterių konsultacinės veiklos, kompiuterinės įrangos tvarkybos, kitos informacinių technologijų ir kompiuterių paslaugų veiklos, duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos, užsakomųjų informacinių paslaugų centrų veiklos, didmeninės prekybos zonoje sandėliuojamomis prekėmis ir (arba) teikiamų paslaugų, susijusių su minėtomis zonoje vykdomos veiklos rūšimis (zonoje pagamintų, apdirbtų, perdirbtų ar sandėliuojamų, taip pat zonoje vykdomai gamybai, apdirbimui ar perdirbimui reikalingų prekių transportavimo, aptarnavimo, statybos zonos teritorijoje ir kitų su minėtomis veiklomis susijusių paslaugų). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 milijoną eurų. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
-
-
-
-
-2) laisvosios ekonominės zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 6 mokestinius laikotarpius, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitais 10 mokestinių laikotarpių jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos apskaitos, buhalterijos ir konsultacinės veiklos (išskyrus auditą, sąskaitų ekspertizės ir teisingumo paliudijimą), įstaigų administracinės ir aptarnavimo veiklos, žmogiškųjų išteklių veiklos, architektūros ir inžinerijos ir su ja susijusių techninių konsultacijų veiklos (išskyrus statybos darbų kontrolę, vietovės nuotraukų darymą). Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis darbuotojų skaičius mokestiniais metais tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata jokiais atvejais negali būti taikoma kredito įstaigoms ir draudimo įmonėms;
+1) laisvosios ekonominės zonos įmonė, kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 milijono eurų sumą, 10 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitus 6 mokestinius laikotarpius jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos veiklos. Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 milijoną eurų. Šioje dalyje nustatyta lengvata netaikoma prekybos veiklą vykdančiai įmonei ir taikoma tiek, kiek ji suderinama su 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, (OL 2014 L 187, p. 1) nuostatomis;
 
 
 
 
-3) juridiniai asmenys (išskyrus nurodytus šio Įstatymo 5 straipsnio 5 dalyje), kurių pajamos už pačių pagamintą produkciją sudaro daugiau kaip 50 procentų visų gautų pajamų ir kuriuose dirba riboto darbingumo asmenys, mažina apskaičiuotą pelno mokestį tokia tvarka:
- 
+2) laisvosios ekonominės zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 10 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitus 6 mokestinius laikotarpius jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos paslaugų teikimo veiklos. Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai laisvosios ekonominės zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijų suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis darbuotojų skaičius mokestiniais metais tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, (OL 2014 L 187, p. 1) nuostatomis;
+
+
+
+
+3) juridiniai asmenys, kurių pajamos už pačių pagamintą produkciją sudaro daugiau kaip 50 procentų visų gautų pajamų ir kuriuose dirba riboto darbingumo asmenys, mažina apskaičiuotą pelno mokestį tokia tvarka:
 
 
 
@@ -3728,11 +3755,21 @@ Fizinių asmenų pajamų mokesčio laikinojo įstatymo IV skyrių tvarka
 
  
 Asmenų, kuriems taikomas riboto darbingumo asmenų statusas, kategorijas, šių asmenų dalies tarp visų dirbančių asmenų apskaičiavimo metodiką ir šios lengvatos taikymo tvarką nustato Lietuvos Respublikos Vyriausybė. 
-TAR pastaba. 16 dalies nuostatos taikomos apskaičiuojant 2017 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+TAR pastaba. 16 dalies nuostatos taikomos po 2017 m. gruodžio 31 d. įregistruotoms laisvosios ekonominės zonos įmonėms. Iki 2018 m. sausio 1 d. įregistruotoms laisvosios ekonominės zonos įmonėms taikomos iki šio įstatymo (Nr. XII-842) įsigaliojimo galiojusios Lietuvos Respublikos pelno mokesčio įstatymo 58 straipsnio 16 dalies 1 ar 2 punkto nuostatos.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-2565, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19387
+Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
+
+
+
+
+161. Šio straipsnio 16 dalies 1 ir 2 punktuose nustatytos mokesčių lengvatos taikomos tokia pačia tvarka ir sąlygomis ir investuotojams, kurie atitinka šio straipsnio 16 dalies 1 ir 2 punktuose nustatytas laisvosios ekonominės zonos įmonei keliamas sąlygas dėl lengvatų taikymo ir kuriems Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos žemės įstatymo bei konkrečių Lietuvos Respublikos laisvųjų ekonominių zonų įstatymų nustatytomis sąlygomis ir tvarka yra išnuomoti zonos teritorijoje esantys žemės sklypai ar jų dalys, kol nėra įsteigta zonos valdymo bendrovė, kaip nustatyta Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatyme. Įsteigus zonos valdymo bendrovę, investuotojams, įgijusiems laisvosios ekonominės zonos įmonės statusą, taikomi mokesčių lengvatų terminai ir sąlygos nekeičiami. 
+TAR pastaba. 161 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį
+Papildyta straipsnio dalimi:
+Nr. XIII-517, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11226
  
 
 
@@ -4539,3 +4576,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 11, 31, 38-1 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 5, 12, 22, 30, 33, 46-1 ir 58 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-517, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11226
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 58 straipsnio pakeitimo įstatymas
