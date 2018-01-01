@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2015-06-20 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
  
@@ -98,15 +98,32 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Biudžetinė įstaiga gali steigti filialus Lietuvos Respublikoje.
+3. Biudžetinė įstaiga savininko teises ir pareigas įgyvendinančios institucijos sprendimu gali įstatymų nustatyta tvarka jungtis į asociacijas, kurių paskirtis – įgyvendinti viešuosius interesus, jeigu toks jungimasis neprieštarauja biudžetinės įstaigos steigimo dokumentams ir veiklos tikslams. Asociacijos steigėjai ar nariai pagal įstatymus ar asociacijos steigimo dokumentus negali perleisti asociacijai biudžetinės įstaigos savininko biudžetinei įstaigai perduoto ar biudžetinės įstaigos įgyto turto. 
+Papildyta straipsnio dalimi:
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+ 
 
 
 
 
-4. Biudžetinei įstaigai draudžiama:
+4. Biudžetinė įstaiga gali steigti filialus Lietuvos Respublikoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+ 
 
 
-1) būti kitų juridinių asmenų dalyve;
+
+
+5. Biudžetinei įstaigai draudžiama:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+ 
+
+
+1) būti kitų juridinių asmenų dalyve, išskyrus šio straipsnio 3 dalyje numatytą teisę jungtis į asociacijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+ 
 
 
 
@@ -117,7 +134,6 @@ BENDROSIOS NUOSTATOS
 
 
 3) užtikrinti kitų asmenų prievolių vykdymą.
- 
 
 
 
@@ -915,3 +931,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
 Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 4 ir 13 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 3 straipsnio pakeitimo įstatymas
