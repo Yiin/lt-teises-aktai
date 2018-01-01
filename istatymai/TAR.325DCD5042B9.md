@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/325dcd5042b911e6a8ae9e1795984391"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-01-01
+ 
+Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18827
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO NR. VIII-1509 PAKEITIMO
 ĮSTATYMAS
@@ -1016,18 +1023,25 @@ Ginčai dėl šio įstatymo taikymo sprendžiami įstatymų nustatyta tvarka.“
 
 
 
-5. Jeigu asmuo iki šio įstatymo įsigaliojimo dienos turi teisę gauti tik netekto darbingumo periodinę kompensaciją arba tik periodinę draudimo išmoką apdraustajam asmeniui mirus, šios išmokos perskaičiuojamos šio įstatymo nustatyta tvarka.
-
-
-
-
-6. Jeigu asmenims, pagal šį įstatymą turintiems teisę gauti netekto darbingumo periodinę kompensaciją, ši kompensacija būtų mažesnė negu iki šio įstatymo įsigaliojimo dienos mokėta netekto darbingumo periodinės kompensacijos ir netekto darbingumo socialinio draudimo pensijos suma, mokama 2016 m. gruodžio mėnesį išmokėtos netekto darbingumo periodinės kompensacijos ir netekto darbingumo socialinio draudimo pensijos sumos dydžio išmoka. Ši išmoka nedidinama, jeigu pasikeičia užpraeito ketvirčio šalies vidutinis mėnesinis darbo užmokestis ar kitais atvejais tol, kol pagal šį įstatymą mokėtina periodinė netekto darbingumo kompensacija ims viršyti 2016 m. gruodžio mėnesį mokėtą netekto darbingumo periodinės kompensacijos ir netekto darbingumo socialinio draudimo pensijos sumos dydžio išmoką.
-
-
-
-
-7. Jeigu asmenims, pagal šį įstatymą turintiems teisę gauti periodinę draudimo išmoką apdraustajam asmeniui mirus, ši išmoka būtų mažesnė negu iki šio įstatymo įsigaliojimo dienos mokėta periodinės draudimo išmokos apdraustajam asmeniui mirus ir valstybinės socialinio draudimo našlių ar našlaičių pensijos suma, mokama 2016 m. gruodžio mėnesį išmokėtos periodinės draudimo išmokos apdraustajam asmeniui mirus ir valstybinės socialinio draudimo našlių ar našlaičių pensijos sumos dydžio išmoka. Ši išmoka nedidinama, jeigu pasikeičia užpraeito ketvirčio šalies vidutinis mėnesinis darbo užmokestis ar kitais atvejais tol, kol pagal šį įstatymą mokėtina periodinė draudimo išmoka apdraustajam asmeniui mirus ims viršyti 2016 m. gruodžio mėnesį mokėtą periodinės draudimo išmokos apdraustajam asmeniui mirus ir valstybinės socialinio draudimo našlių ar našlaičių pensijos sumos dydžio išmoką.
+5. Jeigu asmuo iki šio įstatymo įsigaliojimo dienos turi teisę gauti tik netekto darbingumo periodinę kompensaciją arba tik periodinę draudimo išmoką apdraustajam asmeniui mirus, šios išmokos perskaičiuojamos šio įstatymo nustatyta tvarka. Jeigu pagal šio įstatymo nuostatas apskaičiuota periodinė draudimo išmoka apdraustajam asmeniui mirus ar netekto darbingumo periodinė kompensacija yra mažesnė, negu buvo mokėta iki šio įstatymo įsigaliojimo, mokama išmoka 2016 m. gruodžio mėnesį mokėtos išmokos dydžio. Išmoka nedidinama pasikeitus vidutiniam šalies darbo užmokesčiui (D), kol pagal šį įstatymą apskaičiuota periodinė draudimo išmoka apdraustajam asmeniui mirus ar netekto darbingumo periodinė kompensacija pasieks 2016 m. gruodžio mėnesio išmokos dydį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-828, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20045
  
+
+
+
+
+6. Jeigu asmenims, pagal šį įstatymą turintiems teisę gauti netekto darbingumo periodinę kompensaciją, ši kompensacija būtų mažesnė negu iki šio įstatymo įsigaliojimo dienos mokėta netekto darbingumo periodinės kompensacijos ir netekto darbingumo socialinio draudimo pensijos suma (toliau – abiejų išmokų suma), mokėtina netekto darbingumo periodinė kompensacija yra lygi 2016 m. gruodžio mėnesio abiejų išmokų sumos, mokėtos dėl to paties draudžiamojo įvykio, ir po šio įstatymo įsigaliojimo mokamos netekto darbingumo socialinio draudimo pensijos skirtumui. Nustačius kitokį netektą darbingumą, netekto darbingumo periodinės kompensacijos dydis apskaičiuojamas kaip 2016 m. gruodžio mėnesio netekto darbingumo socialinio draudimo pensijos ir netekto darbingumo periodinės kompensacijos, perskaičiuotos pagal iš naujo nustatyto netekto darbingumo procentus, sumos ir netekto darbingumo periodinės kompensacijos mokėjimo mėnesio netekto darbingumo socialinio draudimo pensijos skirtumas. 2016 m. gruodžio mėnesio abiejų išmokų suma neperskaičiuojama, pasikeitus vidutiniam šalies darbo užmokesčiui (D), kol pagal šį įstatymą mokėtina netekto darbingumo periodinė kompensacija pasieks 2016 m. gruodžio mėnesį mokėtą abiejų išmokų sumos dydžio išmoką. Tais atvejais, kai yra paskirta ne viena netekto darbingumo periodinė kompensacija, siekiant nustatyti mokėtinų išmokų dydžius, netekto darbingumo periodinės kompensacijos išmokos sudedamos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-828, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20045
+ 
+
+
+
+
+7. Jeigu asmenims, pagal šį įstatymą turintiems teisę gauti periodinę draudimo išmoką apdraustajam asmeniui mirus, ši išmoka būtų mažesnė negu iki šio įstatymo įsigaliojimo dienos mokėta periodinės draudimo išmokos apdraustajam asmeniui mirus ir valstybinės socialinio draudimo našlių ar našlaičių pensijos suma (toliau – išmokos ir pensijos suma), mokėtina periodinė draudimo išmoka apdraustajam asmeniui mirus lygi 2016 m. gruodžio mėnesį mokėtų išmokos ir pensijos sumos ir po šio įstatymo įsigaliojimo mokamos valstybinės socialinio draudimo našlių ir našlaičių pensijos skirtumui. Pasikeitus išlaikytinių skaičiui, periodinės draudimo išmokos apdraustajam asmeniui mirus dydis apskaičiuojamas kaip 2016 m. gruodžio mėnesio valstybinės socialinio draudimo našlių ar našlaičių pensijos ir periodinės draudimo išmokos apdraustajam asmeniui mirus, perskaičiuotos pagal pasikeitusį išlaikytinių skaičių, sumos ir periodinės draudimo išmokos apdraustajam asmeniui mirus mokėjimo mėnesio valstybinės socialinio draudimo našlių ir našlaičių pensijos skirtumas. 2016 m. gruodžio mėnesio išmokos ir pensijos suma neperskaičiuojama pasikeitus vidutiniam šalies darbo užmokesčiui (D), kol pagal šį įstatymą mokėtina periodinė draudimo išmoka apdraustajam asmeniui mirus pasieks 2016 m. gruodžio mėnesio išmokos ir pensijos sumos dydį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-828, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20045
  
 
 
@@ -1051,3 +1065,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-828, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20045
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymo Nr. XII-2472 2 straipsnio pakeitimo įstatymas
