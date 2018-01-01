@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2017-12-14
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-10
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -1730,13 +1730,13 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
 
-1) iki 2017 m. gruodžio 31 d. šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti; 
-TAR pastaba. 1 punkto nuostatos taikomos tame punkte nurodytoms prekėms, faktiškai patiektoms nuo 2017 m. spalio 1 d. iki 2017 m. gruodžio 31 d.
+1) šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
 Nr. XII-1910, 2015-06-30, paskelbta TAR 2015-07-01, i. k. 2015-10504
 Nr. XIII-154, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29793
 Nr. XIII-638, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15114
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
  
 
 
@@ -1747,7 +1747,10 @@ Nr. XIII-638, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15114
 
 
 
-3) turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms;
+3) iki 2022 m. gruodžio 31 d. turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
+ 
 
 
 
@@ -1764,9 +1767,10 @@ Nr. XIII-638, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15114
 
 
 
-4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, kurių išorinės pakuotės apmokestinamoji vertė yra didesnė negu 300 eurų.
+4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2749, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26871
+Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
  
 
 
@@ -6030,7 +6034,16 @@ Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
 
 
 
-2) kitoje valstybėje narėje įsikūrusiems užsienio apmokestinamiesiems asmenims.
+2) kitoje valstybėje narėje įsikūrusiems užsienio apmokestinamiesiems asmenims;
+
+
+
+
+3) Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje, kurioje nėra PVM (ar jam tapataus mokesčio), įsikūrusiems užsienio apmokestinamiesiems asmenims. 
+TAR pastaba. 3 punkto nuostatos taikomos grąžinant pridėtinės vertės mokestį už prekes ir (arba) paslaugas, kurios įsigytos arba dėl kurių prievolė Lietuvos Respublikoje apskaičiuoti importo pridėtinės vertės mokestį atsiranda nuo 2018 m. sausio 1 d.
+Papildyta straipsnio punktu:
+Nr. XIII-816, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20010
+ 
 
 
 
@@ -7198,3 +7211,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 ir 96 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-816, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20010
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 116 straipsnio pakeitimo įstatymas
