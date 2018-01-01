@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2017-06-05 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-11
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -643,6 +643,14 @@ TAR pastaba. 7 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos 
 Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+ 
+
+
+
+
+8. Pagal vykdomuosius dokumentus, kai pagal Civilinio proceso kodeksą vykdymo procese valstybei atstovauja Valstybinė mokesčių inspekcija, laiku nesumokėtų valstybės naudai išieškotinų sumų įskaitymui iki vykdomųjų dokumentų pateikimo vykdyti Civilinio proceso kodekso nustatyta tvarka mutatis mutandis taikoma šio Įstatymo 87 straipsnio 1 dalis.
+Papildyta straipsnio dalimi:
+Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
  
 
 
