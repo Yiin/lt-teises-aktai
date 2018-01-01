@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2017-12-31
+Įstatymas netenka galios 2019-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1362, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11461
+Lietuvos Respublikos pensijų sistemos reformos įstatymo Nr. IX-1215 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -92,11 +97,12 @@ Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010IS
 
 3 straipsnis. Dalyvavimas kaupiant pensijas 
 
-1. Asmenys, turintys draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos valstybinio socialinio draudimo įmokos pagrindinei ir papildomai pensijos daliai gauti, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą pasirinkę pensines teises perkelti į Valstybinio socialinio draudimo fondą ir pensijų fondą, veikiantį pagal Lietuvos Respublikos pensijų kaupimo įstatymą, išskyrus asmenis, kurie yra sulaukę senatvės pensijos amžiaus, turi teisę jų pačių pasirinkimu tapti pensijų fondo dalyviais ir kaupti šio Įstatymo nustatytą pensijų įmoką pensijų kaupimo bendrovėse. Asmenų, pasirinkusių būti pensijų kaupimo dalyviais, tolesnis dalyvavimas negali būti nutrauktas, išskyrus Pensijų kaupimo įstatymo nustatytus atvejus.
+1. Asmenys, turintys draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos pensijų socialinio draudimo įmokos, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą pasirinkę pensines teises perkelti į Valstybinio socialinio draudimo fondą ir pensijų fondą, veikiantį pagal Lietuvos Respublikos pensijų kaupimo įstatymą, išskyrus asmenis, kurie yra sulaukę senatvės pensijos amžiaus, turi teisę jų pačių pasirinkimu tapti pensijų fondo dalyviais ir kaupti šio Įstatymo nustatytą pensijų įmoką pensijų kaupimo bendrovėse. Asmenų, pasirinkusių būti pensijų kaupimo dalyviais, tolesnis dalyvavimas negali būti nutrauktas, išskyrus Pensijų kaupimo įstatymo nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
 Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
+Nr. XII-2513, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20650
  
 
 2. Pensijų kaupimo sutartis įsigalioja trečio mėnesio, skaičiuojant nuo šios sutarties įregistravimo Pensijų kaupimo sutarčių registre mėnesio, pirmą dieną. Asmenų, turinčių teisę perkelti pensines teises iš Europos Sąjungos institucijų pensijų sistemos pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą, sudarytos pensijų kaupimo sutartys įsigalioja nuo įregistravimo Pensijų kaupimo sutarčių registre.
@@ -132,8 +138,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-3. Nuo 2014 m. sausio 1 d. už vieną iš tėvų, auginantį vaiką iki 3 metų ir gaunantį vaiko priežiūros išmoką arba draudžiamą valstybiniu socialiniu pensijų draudimu valstybės lėšomis, į pensijų fondą pervedama 2 procentų Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio dydžio pensijų įmoka iš valstybės biudžeto lėšų. Vienam iš tėvų, auginančiam daugiau negu vieną vaiką iki 3 metų, pensijų įmoka pervedama už kiekvieną vaiką.
-TAR pastaba. 4 straipsnio 3 dalis įsigalioja 2017-01-01 ir galioja iki 2017-12-31.
+3. Nuo 2014 m. sausio 1 d. už vieną iš tėvų, auginantį vaiką iki 3 metų ir gaunantį vaiko priežiūros išmoką arba draudžiamą pensijų socialiniu draudimu valstybės lėšomis, į pensijų fondą pervedama 2 procentų Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio dydžio pensijų įmoka iš valstybės biudžeto lėšų. Vienam iš tėvų, auginančiam daugiau negu vieną vaiką iki 3 metų, pensijų įmoka pervedama už kiekvieną vaiką.
 Papildyta straipsnio dalimi:
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
 Straipsnio dalies pakeitimai:
@@ -149,7 +154,10 @@ Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00
 
 5 straipsnis. Kaupiamosios pensijų išmokos
 
-1. Teisę gauti pensijų išmoką iš pensijų kaupimo bendrovių dalyviai įgyja sulaukę senatvės pensijos amžiaus, nustatyto Valstybinių socialinio draudimo pensijų įstatymu. 
+1. Teisę gauti pensijų išmoką iš pensijų kaupimo bendrovių dalyviai įgyja sulaukę senatvės pensijos amžiaus, nustatyto Socialinio draudimo pensijų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XII-2513, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20650
+ 
 
 2. Pensijų išmokos, mokamos iš asmens sukaupto pensijų turto, gali būti periodinė pensijų išmoka, anuitetas ar vienkartinė pensijų išmoka. Šių išmokų mokėjimo sąlygas nustato įstatymai. Anuitetus iš asmens sukaupto pensijų turto moka gyvybės draudimo bendrovės.
 
@@ -158,14 +166,14 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-6 straipsnis. Valstybinio socialinio draudimo ir kaupiamųjų pensijų išmokų santykis
+6 straipsnis. Socialinio draudimo ir kaupiamųjų pensijų išmokų santykis
 
-1. Dalyviams valstybinių socialinio draudimo senatvės pensijų dydis Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka proporcingai mažinamas, atsižvelgiant į pensijų kaupimui skirtą valstybinio socialinio draudimo įmokos dalį. Už laikotarpį, kurį asmuo nebuvo pensijų kaupimo dalyvis, valstybinės socialinio draudimo senatvės pensijos dydis jam nemažinamas.
-Straipsnio dalies pakeitimai:
-Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
- 
+1. Dalyviams individualiosios socialinio draudimo senatvės pensijos dalies dydis Socialinio draudimo pensijų įstatymo nustatyta tvarka proporcingai mažinamas, atsižvelgiant į pensijų kaupimui skirtą pensijų socialinio draudimo įmokos dalį. Už laikotarpį, kurį asmuo nebuvo pensijų kaupimo dalyvis, socialinio draudimo senatvės pensijos dydis jam nemažinamas.
 
-2. Asmenims, nebuvusiems pensijų kaupimo dalyviais, valstybinių socialinio draudimo senatvės pensijų dydis bei paskirtų valstybinių socialinio draudimo senatvės pensijų dydis nemažinamas.
+2. Asmenims, nebuvusiems pensijų kaupimo dalyviais, socialinio draudimo senatvės pensijų dydis nemažinamas.
+
+Straipsnio pakeitimai:
+Nr. XII-2513, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20650
  
 
 7 straipsnis. Pensijų kaupimo sistemos administravimas ir priežiūra
