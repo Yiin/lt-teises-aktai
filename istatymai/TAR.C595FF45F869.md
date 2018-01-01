@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2017-12-30 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-01-23
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -3591,34 +3591,37 @@ AKADEMINĖ BENDRUOMENĖ
 5. Pareiginės algos koeficientai yra šie:
 
 
-1) instituto direktoriaus – 7,18–12,81;
+1) instituto direktoriaus – 8,62–15,37;
 
 
 
 
-2) instituto mokslinio sekretoriaus – 5,39–10,31;
+2) instituto mokslinio sekretoriaus – 6,47–12,37;
 
 
 
 
-3) vyriausiojo mokslo darbuotojo – 6,18–11,13;
+3) vyriausiojo mokslo darbuotojo – 7,42–13,36;
 
 
 
 
-4) vyresniojo mokslo darbuotojo – 5,39–8,65;
+4) vyresniojo mokslo darbuotojo – 6,47–10,38;
 
 
 
 
-5) mokslo darbuotojo, tyrėjo, mokslininko stažuotojo – 5,39–6,58;
+5) mokslo darbuotojo, tyrėjo, mokslininko stažuotojo – 6,47–7,9;
 
 
 
 
-6) jaunesniojo mokslo darbuotojo – 3,59–4,54.
+6) jaunesniojo mokslo darbuotojo – 4,31–5,45. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-969, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21727
+ 
 
 
 
@@ -4716,3 +4719,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75 ir 83 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-968, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21725
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 29 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-969, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21727
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
