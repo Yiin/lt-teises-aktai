@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2016-08-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -673,6 +673,13 @@ Nr. IX-1941, 2003-12-22, Žin., 2004, Nr. 4-44 (2004-01-07), i. k. 1031010ISTA0I
 
 
 3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus.
+
+
+
+
+4. Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles tvirtina savivaldybių tarybos. Prireikus savivaldybių tarybos nustato draudžiamas maudytis vietas ir laiką. 
+Papildyta straipsnio dalimi:
+Nr. XIII-732, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18801
  
 
 
@@ -1343,3 +1350,8 @@ Lietuvos Respublikos vandens įstatymo 3, 4, 16, 19, 22, 29, 31, 33 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 1, 2, 3 ir 14 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-732, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18801
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 12 straipsnio pakeitimo įstatymas
