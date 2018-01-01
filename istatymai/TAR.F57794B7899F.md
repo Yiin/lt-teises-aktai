@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1039,7 +1039,9 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-15) tvirtina Elektros energijos rinkos priežiūros ir susijusių reikalavimų tvarkos aprašą;
+15) nustato prekybos elektros energija priežiūros tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
  
@@ -1507,7 +1509,10 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 
 
 
-3. Leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus, leidimais reguliuojamą veiklą prižiūri Valstybinė energetikos inspekcija. Leidimus, nurodytus šio straipsnio 1 dalies 6 punkte, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus ir leidimais reguliuojamą veiklą prižiūri Komisija.
+3. Leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus, leidimais reguliuojamą veiklą prižiūri Valstybinė energetikos inspekcija. Leidimus, nurodytus šio straipsnio 1 dalies 6 punkte, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina ir leidimais reguliuojamą veiklą prižiūri Komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
@@ -1699,47 +1704,26 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-21. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą šio įstatymo nustatyta tvarka ir sąlygomis išduodamas asmenims, kurie verčiasi ūkine komercine veikla Lietuvos Respublikoje ar kitoje valstybėje narėje ir:
-
-
-1) turi finansinį pajėgumą, leidžiantį vykdyti nepriklausomo elektros energijos tiekimo veiklos sąlygas, vertinamą atsižvelgiant į Komisijos nustatytus minimalius finansinio pajėgumo rodiklius; 
-
-
-
-
-2) turi vadybinį pajėgumą, leidžiantį vykdyti nepriklausomo elektros energijos tiekimo veiklos sąlygas;
+21. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą išduodamas asmenims, kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
 
-3) atitinka Lietuvos Respublikos akcinių bendrovių įstatymo 38 straipsnyje nustatytus reikalavimus;
+22. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
 
-4) neturi pradelstų skolinių įsipareigojimų arba jų turi, tačiau įrodo, kad asmens apyvartinės lėšos yra pakankamos pradelstiems skoliniams įsipareigojimams padengti ir kad juos padengus asmens finansinio pajėgumo rodikliai atitiks šio straipsnio 21 dalies 1 ir 3 punktuose nustatytus reikalavimus;
-
-
-
-
-5) kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra;
-
-
-
-
-6) jeigu fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, siekiančio gauti leidimą, ar tokio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu gauto turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla.
-
-
-
-
-
-
-22. Šio straipsnio 21 dalies 1–4 punktuose nurodytų reikalavimų įvertinimo tvarką, vadovaudamasi šio įstatymo 9 straipsnio 3 dalies 2 punktu, nustato Komisija, atsižvelgdama į tai, ar asmuo yra fizinis, ar juridinis, ir į jo teisinę formą.
-
-
-
-
-23. Komisija savo interneto svetainėje skelbia asmenų, kurie verčiasi nepriklausomo elektros energijos tiekimo veikla, sąrašą ir jų kontaktinius duomenis.
+23. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
@@ -1759,7 +1743,10 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-25. Jeigu pateikti ne visi šio straipsnio 1 dalyje nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Valstybinė energetikos inspekcija dėl leidimų, nurodytų šio straipsnio 1 dalies 1–5 punktuose, ir Komisija dėl leidimų, nurodytų šio straipsnio 1 dalies 6 punkte, ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas šio įstatymo 17 straipsnyje nustatytu terminu. 
+25. Jeigu pateikti ne visi šio straipsnio 1 dalies 1–5 punktuose nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Valstybinė energetikos inspekcija ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas šio įstatymo 17 straipsnyje nustatytu terminu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
@@ -1792,7 +1779,34 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-6) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi.
+6) efektyviai ir ekonomiškai vykdyti leidimais reguliuojamą veiklą, nediskriminuoti vartotojų ir kitų rinkos dalyvių, laikytis sąžiningos konkurencijos; 
+Papildyta straipsnio punktu:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
+
+
+
+
+7) informuoti ir konsultuoti vartotojus; 
+Papildyta straipsnio punktu:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
+
+
+
+
+8) kalendoriniams metams pasibaigus, per keturis mėnesius atlikti nepriklausomą leidimais reguliuojamos veiklos sąnaudų auditą ir apie rezultatus informuoti Komisiją. Ši nuostata taikoma nepriklausomiems tiekėjams, kurių tiekiamos elektros energijos kaina reguliuojama šio įstatymo 67 straipsnio 1 dalyje numatytais atvejais; 
+Papildyta straipsnio punktu:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
+
+
+
+
+9) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
@@ -1807,12 +1821,18 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 17 straipsnis. Veiklos elektros energetikos sektoriuje licencijų ir leidimų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 
-1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licenciją ar leidimą išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus.
+1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Komisijai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo elektros energijos tiekimo veiklą įgijimo dienos Komisija privalo patikrinti deklaracijoje pateiktą informaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
 
-2. Licencija ar leidimas išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo.
+2. Licencija ar leidimas, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 punkte nurodytą leidimą, išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+ 
 
 
 
@@ -2846,6 +2866,64 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 Straipsnio pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+391 straipsnis. Skirstomųjų tinklų plėtros planavimas
+
+
+1. Skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, rengia 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje, elektros tinklo patikimumu, leistinu įrangos tarnavimo amžiumi bei išmaniųjų energijos tinklų ir išmaniųjų energijos apskaitos sistemų plėtros planais ir reikalavimais. Planas turi būti atnaujinamas kiekvienais metais ir ne vėliau kaip iki kiekvienų metų liepos 1 dienos paskelbiamas skirstomųjų tinklų operatoriaus interneto svetainėje. Prieš paskelbdamas 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, skirstomųjų tinklų operatorius vykdo skaidrias ir viešas konsultacijas su kompetentingomis valstybės institucijomis ir kitomis suinteresuotomis šalimis.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytame skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plane, be kita ko, nurodoma:
+
+
+1) skirstomųjų tinklų įrengimo, atnaujinimo gairės – infrastruktūros dalys, kurios bus įrengiamos ar atnaujinamos per planuojamą 10 metų laikotarpį;
+
+
+
+
+2) bendroji investicijų programa (apimanti finansavimo šaltinius investicijoms, skirtoms skirstomųjų tinklų infrastruktūrai per planuojamą 10 metų laikotarpį), dėl kurios jau priimtas sprendimas, ir nauji investicijų rodikliai (apimtys), kurių bus siekiama per planuojamą 10 metų laikotarpį;
+
+
+
+
+3) bendrosios investicijų programos ir naujų investicijų rodiklių (apimčių) planuojami įgyvendinimo terminai;
+
+
+
+
+4) veiksmingos priemonės, skirtos tiekimo saugumui, patikimumui ir teikiamų paslaugų kokybei užtikrinti;
+
+
+
+
+5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos.
+
+
+
+
+
+
+3. Rengdamas skirstomųjų tinklų plėtros, atnaujinimo ir modernizavimo investicijų planą, skirstomųjų tinklų operatorius įvertina prognozes apie elektros energijos gamybos, tiekimo ir vartojimo tendencijas, atsižvelgdamas į valstybės politikos kryptis, pagrįstas elektros energetikos sektoriaus veiklos reguliavimo bendraisiais principais.
+
+
+
+
+4. Komisija atlieka skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano įgyvendinimo stebėseną. Komisija, nustačiusi skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano neatitiktį šiame straipsnyje nustatytiems reikalavimams, teikia skirstomųjų tinklų operatoriui pastabas dėl skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano koregavimo ar keitimo ir nurodo protingą terminą šiems veiksmams atlikti. Skirstomųjų tinklų operatorius, savo interneto svetainėje nepaskelbęs skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano šio straipsnio 1 dalyje nustatytais terminais arba paskelbęs planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Komisijos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos skirstymo veiklos sąlygas.
+
+
+
+
+5. Tuo atveju, kai skirstomųjų tinklų operatorius neatlieka investicijų, kurios pagal skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą turėjo būti padarytos per praėjusius 3 metus, Komisija gali įpareigoti skirstomųjų tinklų operatorių atlikti atitinkamas investicijas ir (ar) imtis kitų šiame įstatyme ir Energetikos įstatyme nustatytų priemonių, siekiant užtikrinti skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano įgyvendinimą.
+
+
+Papildyta straipsniu:
+Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
  
 
 
@@ -5644,3 +5722,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 3, 4, 6, 7,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 16 ir 17 straipsnių pakeitimo įstatymas
