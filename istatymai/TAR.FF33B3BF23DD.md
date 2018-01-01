@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-05-29
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -306,6 +306,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
+241. Lietuvai taikoma vaistinio preparato ar medicinos pagalbos priemonės kaina – vaistinio preparato ar medicinos pagalbos priemonės kaina, kuria jie siūlomi parduoti Lietuvos Respublikos rinkoje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+ 
+
+
+
+
 25. Lietuvos Respublikos vaistinių preparatų registras – registras, skirtas vaistiniams preparatams registruoti ir jų registravimo duomenims tvarkyti Lietuvos Respublikoje. Į šį registrą įrašomi vaistiniai preparatai, dėl kurių išduotas registracijos pažymėjimas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
@@ -352,14 +360,27 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 
 
-301. Pagalbinė medžiaga – vaistinio preparato sudedamoji medžiaga, kuri nėra veiklioji medžiaga arba pakuotės medžiaga.
+301. Paciento priemoka – Kompensuojamųjų vaistinių preparatų kainyne ar Kompensuojamųjų medicinos pagalbos priemonių kainyne nustatyta suma, kurią turi sumokėti pacientas, įsigydamas kompensuojamąjį vaistinį preparatą ar kompensuojamąją medicinos pagalbos priemonę. 
+Papildyta straipsnio dalimi:
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+ 
 
 
 
 
-302. Pagrindinė farmakologinio budrumo sistemos byla – išsamus vaistinio preparato registruotojo naudojamos farmakologinio budrumo sistemos, skirtos vienam ar keliems registruotiems vaistiniams preparatams, aprašas. 
+302. Pagalbinė medžiaga – vaistinio preparato sudedamoji medžiaga, kuri nėra veiklioji medžiaga arba pakuotės medžiaga.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+ 
+
+
+
+
+303. Pagrindinė farmakologinio budrumo sistemos byla – išsamus vaistinio preparato registruotojo naudojamos farmakologinio budrumo sistemos, skirtos vienam ar keliems registruotiems vaistiniams preparatams, aprašas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
  
 
 
@@ -538,6 +559,14 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 54. Vaistininko padėjėjas (farmakotechnikas) – asmuo, įgijęs vaistininko padėjėjo (farmakotechniko) profesinę kvalifikaciją, arba Vyriausybės įgaliotos institucijos nustatyta tvarka jam prilygintas asmuo.
+
+
+
+
+541. Vaistinio preparato arba medicinos pagalbos priemonės bazinė kaina – vaistinio preparato arba medicinos pagalbos priemonės mažmeninės kainos dalis, pagal kurią vaistinio preparato arba medicinos pagalbos priemonės įsigijimo išlaidos arba jų dalis kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+ 
 
 
 
@@ -5687,38 +5716,33 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
  
 
 
-57 straipsnis. Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių kainodaros bendrieji reikalavimai
+57 straipsnis. Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių kainodaros bendrieji reikalavimai
 
 
-1. Sveikatos apsaugos ministras tvirtina Kompensuojamųjų vaistinių preparatų kainyną ir Kompensuojamųjų medicinos pagalbos priemonių kainyną (toliau – Kainynai), kuriuose nustatomos bazinės ir didžiausios mažmeninės kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainos. Kompensuojamųjų vaistinių preparatų kainynas turi būti patvirtintas ne vėliau kaip iki kiekvieno einamųjų metų ketvirčio paskutinio mėnesio 15 dienos, o jo įsigaliojimas numatytas artimiausio ketvirčio pirmą dieną. Kompensuojamųjų medicinos pagalbos priemonių kainynas turi būti patvirtintas ne vėliau kaip iki einamųjų metų birželio 15 dienos, o jo įsigaliojimas numatytas liepos 1 dieną. Kainynų pakeitimai tvirtinami pagal poreikį. Kainynai ir jų pakeitimai skelbiami Sveikatos apsaugos ministerijos interneto svetainėje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-362, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08721
- 
+1. Sveikatos apsaugos ministras tvirtina Kompensuojamųjų vaistinių preparatų kainyną ir Kompensuojamųjų medicinos pagalbos priemonių kainyną (toliau – Kainynai), kuriuose nustatomos kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainos. Kompensuojamųjų vaistinių preparatų kainynas turi būti patvirtintas ne vėliau kaip iki kiekvieno ketvirčio paskutinio mėnesio 15 dienos, o jo įsigaliojimas numatytas artimiausio ketvirčio pirmą dieną. Kompensuojamųjų medicinos pagalbos priemonių kainynas turi būti patvirtintas ne vėliau kaip iki einamųjų metų birželio 15 dienos, o jo įsigaliojimas numatytas einamųjų metų liepos 1 dieną. Kainynų pakeitimai tvirtinami pagal poreikį. Kainynai ir jų pakeitimai skelbiami Sveikatos apsaugos ministerijos interneto svetainėje.
 
 
 
 
-2. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių didžiausios mažmeninės kainos apskaičiuojamos prie vaistinio preparato registruotojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridedant sveikatos apsaugos ministro nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį, jeigu vaistinis preparatas ar medicinos pagalbos priemonė apmokestinama šiuo mokesčiu. Didžiausios kompensuojamųjų ekstemporaliųjų vaistinių preparatų mažmeninės kainos apskaičiuojamos prie vaistinių medžiagų didmeninės kainos pridedant ne didesnį kaip 22 procentų šios kainos mažmeninės prekybos antkainį, ne didesnę kaip sveikatos apsaugos ministro patvirtintą šių vaistinių preparatų gamybos vaistinėse kainą, priklausančią nuo gamybos sąnaudų, vaistinių preparatų pakavimui ir ženklinimui naudojamų medžiagų kainas ir pridėtinės vertės mokestį, jeigu vaistinis preparatas apmokestinamas šiuo mokesčiu.
-Straipsnio dalies pakeitimai:
-Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
- 
+2. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių mažmeninės kainos apskaičiuojamos prie vaistinio preparato registruotojo ar jo atstovo, lygiagretaus importo leidimo turėtojo ar asmens, pagal šį įstatymą turinčio teisę vykdyti vaistinių preparatų lygiagretų platinimą, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo (toliau – vaistinio preparato ar medicinos pagalbos priemonės tiekėjas) Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnius negu sveikatos apsaugos ministro nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį, jeigu vaistinis preparatas ar medicinos pagalbos priemonė apmokestinama šiuo mokesčiu. Kompensuojamųjų ekstemporaliųjų vaistinių preparatų mažmeninės kainos apskaičiuojamos prie vaistinių medžiagų didmeninės kainos pridedant ne didesnį kaip 22 procentų šios kainos mažmeninės prekybos antkainį, ne didesnę kaip sveikatos apsaugos ministro patvirtintą šių vaistinių preparatų gamybos vaistinėse kainą, priklausančią nuo gamybos sąnaudų, vaistinių preparatų pakavimui ir ženklinimui naudojamų medžiagų kainas ir pridėtinės vertės mokestį, jeigu vaistinis preparatas apmokestinamas šiuo mokesčiu. Kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių bazinės kainos ir paciento priemokos už juos apskaičiuojamos Vyriausybės nustatyta tvarka. 
 
 
 
 
-3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir juridiniam asmeniui, turinčiam asmens sveikatos priežiūros veiklos licenciją, parduodami ne brangiau negu didmeninė kaina, kuri apskaičiuojama prie vaistinio preparato registruotojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo deklaruotos kainos pridedant sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį.
+3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir juridiniam asmeniui, turinčiam asmens sveikatos priežiūros veiklos licenciją, parduodami ne brangiau negu didmeninė kaina, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. 
 
 
 
 
-4. Kompensuojamieji vaistiniai preparatai didmeninio platinimo licencijos turėtojui, kompensuojamos medicinos pagalbos priemonės didmeniniams šių priemonių platintojams parduodami ne didesne negu vaistinio preparato registruotojo ar lygiagretaus importo leidimo turėtojo, ar jų atstovo arba medicinos pagalbos priemonės gamintojo ar jo atstovo kompetentingoms valstybės institucijoms deklaruota kaina.
-
-
+4. Kompensuojamieji vaistiniai preparatai didmeninio platinimo licencijos turėtojui, kompensuojamos medicinos pagalbos priemonės didmeniniams šių priemonių platintojams parduodami ne didesne negu vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikoma vaistinio preparato ar medicinos pagalbos priemonės kaina. 
 Straipsnio pakeitimai:
 Nr. XI-1383, 2011-05-19, Žin., 2011, Nr. 69-3291 (2011-06-07)
 Nr. XI-2324, 2012-11-06, Žin., 2012, Nr. 132-6652 (2012-11-15)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
  
 
 
@@ -5799,32 +5823,41 @@ Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
 
 
 
-59 straipsnis. Vaistinių preparatų įrašymas į Kompensuojamųjų vaistinių preparatų kainyną ir Kompensuojamųjų medicinos pagalbos priemonių kainyną
+59 straipsnis. Vaistinių preparatų įrašymas į Kompensuojamųjų vaistinių preparatų kainyną ir medicinos pagalbos priemonių įrašymas į Kompensuojamųjų medicinos pagalbos priemonių kainyną
 
 
-1. Mažmeninės ir bazinės kainos tvirtinamos tik tų kompensuojamųjų vaistinių preparatų, kurių bendrinis pavadinimas įrašytas į sveikatos apsaugos ministro patvirtintus Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti ir Kompensuojamųjų vaistinių preparatų sąrašus, medicinos pagalbos priemonių – kurių pavadinimas įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą ir kuriems gauta paraiška įrašyti į Kompensuojamųjų vaistinių preparatų kainyną ar Kompensuojamųjų medicinos pagalbos priemonių kainyną.
-
-
-
-
-2. Nustatytos formos paraiška įtraukti vaistinį preparatą ar medicinos pagalbos priemonę į Kompensuojamųjų vaistinių preparatų kainyną ar Kompensuojamųjų medicinos pagalbos priemonių kainyną pateikiama sveikatos apsaugos ministro nustatyta tvarka Sveikatos apsaugos ministerijai.
+1. Į Kompensuojamųjų vaistinių preparatų kainyną įrašomi tik tie vaistiniai preparatai, kurių bendrinis pavadinimas įrašytas į sveikatos apsaugos ministro patvirtintus Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti ir Kompensuojamųjų vaistinių preparatų sąrašus, o į Kompensuojamųjų medicinos pagalbos priemonių kainyną – medicinos pagalbos priemonės, kurių pavadinimas įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą. 
 
 
 
 
-3. Sprendimai dėl kompensuojamųjų vaistinių preparatų kainų nustatymo ir (ar) padidinimo priimami ne vėliau kaip per 90 dienų nuo paraiškos, pateiktos pagal sveikatos apsaugos ministro nustatytus reikalavimus, gavimo dienos. Jei sprendimui priimti pateiktos informacijos nepakanka, pareiškėjui nedelsiant pranešama, kokios papildomos informacijos reikalaujama. Sprendimas priimamas ne vėliau kaip per 90 dienų nuo papildomos informacijos gavimo. 
+2. Į šio straipsnio 1 dalyje nurodytus kainynus vaistiniai preparatai ir medicinos pagalbos priemonės įrašomi sveikatos apsaugos ministro nustatyta tvarka, kai yra abi šios sąlygos:
+
+
+1) pateikus sveikatos apsaugos ministro nustatytos formos paraišką įrašyti vaistinį preparatą ar medicinos pagalbos priemonę į Kompensuojamųjų vaistinių preparatų kainyną ar Kompensuojamųjų medicinos pagalbos priemonių kainyną; 
 
 
 
 
-4. Jeigu priimamas neigiamas sprendimas, ne vėliau kaip per 14 dienų nuo tokio sprendimo priėmimo dienos pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas tokio sprendimo priežastis. Jeigu per šio straipsnio 3 dalyje numatytą laiką sprendimas dėl kainos nustatymo ir (ar) padidinimo nepriimamas, pareiškėjo siūloma vaistinio preparato kaina įrašoma į artimiausią Kompensuojamųjų vaistinių preparatų kainyną ar jo papildymą.
-Straipsnio dalies pakeitimai:
-Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
- 
+2) į Kompensuojamųjų vaistinių preparatų kainyną ar Kompensuojamųjų medicinos pagalbos priemonių kainyną norimų įtraukti vaistinių preparatų ir medicinos pagalbos priemonių bazinės kainos ir paciento priemokos už juos atitinka Vyriausybės nustatytus reikalavimus.
+
+
+
+
+
+
+3. Sprendimai dėl kompensuojamųjų vaistinių preparatų kainų nustatymo ir (ar) padidinimo priimami ne vėliau kaip per 90 dienų nuo paraiškos, pateiktos pagal sveikatos apsaugos ministro nustatytus reikalavimus, gavimo dienos. Jeigu sprendimui priimti pateiktos informacijos nepakanka, pareiškėjui nedelsiant pranešama, kokios papildomos informacijos reikalaujama. Sprendimas priimamas ne vėliau kaip per 90 dienų nuo papildomos informacijos gavimo.
+
+
+
+
+4. Jeigu priimamas neigiamas sprendimas, ne vėliau kaip per 14 dienų nuo tokio sprendimo priėmimo dienos pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas tokio sprendimo priežastis. Jeigu per šio straipsnio 3 dalyje numatytą laiką sprendimas dėl kainos nustatymo ir (ar) padidinimo nepriimamas, pareiškėjo siūloma vaistinio preparato kaina įrašoma į artimiausią Kompensuojamųjų vaistinių preparatų kainyną ar jo pakeitimą. 
+Straipsnio pakeitimai:
+Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
 
 
 Straipsnio pakeitimai:
-Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
  
 
 
@@ -7578,3 +7611,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 61 ir 63 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 8, 15, 17 ir 33 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 57 ir 59 straipsnių pakeitimo įstatymas
