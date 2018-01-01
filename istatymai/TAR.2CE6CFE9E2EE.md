@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
+ 
+TAR pastaba. Šalpos išmokų gavėjams, kurie iki 2017 m. gruodžio 31 d. buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, šalpos išmokų mokėjimas nutraukiamas nuo 2018 m. vasario 1 d., jeigu jie iki 2018 m. sausio 31 d. nedeklaravo savo gyvenamosios vietos arba nebuvo įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
  
 Nauja redakcija nuo 2005-07-01:
 Nr. X-210, 2005-05-19, Žin. 2005, Nr. 71-2556 (2005-06-07), i. k. 1051010ISTA000X-210
@@ -48,7 +53,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šis įstatymas taikomas asmenims, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje (neturintiems gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena) yra įrašyti į Lietuvos Respublikos gyventojų registrą:
+3. Šis įstatymas taikomas deklaravusiems gyvenamąją vietą arba įtrauktiems į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka:
 
 
 1) Lietuvos Respublikos piliečiams;
@@ -66,9 +71,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+ 
 
 
 
@@ -1002,7 +1010,11 @@ BAIGIAMOSIOS NUOSTATOS
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+ 
 
 
  
@@ -1010,7 +1022,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
  
 Lietuvos Respublikos 
 šalpos pensijų įstatymo 
@@ -1106,3 +1117,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4 ir 7 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
