@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-11 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -131,6 +131,30 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 11. Akreditavimas – įstaigos savanoriškai inicijuotas įvertinimas, ar ji atitinka nustatytus sveikatos priežiūros teikiamų paslaugų kokybės standartus, ir akreditavimo pažymėjimo išdavimas.
+
+
+
+
+12. Brangieji tyrimai ir procedūros – asmens sveikatos priežiūros paslaugos ar jų dalis, įrašytos į sveikatos apsaugos ministro patvirtintą Brangiųjų tyrimų ir procedūrų, kurių išlaidos apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis, ir jų bazinių kainų sąrašą. 
+Papildyta straipsnio dalimi:
+Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
+ 
+
+
+
+
+13. Planinė pagalba – asmens sveikatos priežiūros paslaugos, teikiamos per mediciniškai pagrįstą laikotarpį, nebloginant paciento sveikatos būklės ir (ar) ligos prognozės. 
+Papildyta straipsnio dalimi:
+Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
+ 
+
+
+
+
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
+ 
 
 
 Straipsnio pakeitimai:
@@ -969,6 +993,179 @@ Nr. XII-2468, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18824
 Įstatymas papildytas straipsniu:
 Nr. XI-1563, 2011-06-30, Žin., 2011, Nr. 86-4177 (2011-07-13)
 Nr. XI-1898, 2011-12-22, Žin., 2011, Nr. 164-7799 (2011-12-31)
+ 
+
+
+
+
+152 straipsnis. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimas
+
+
+1. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos finansinių rezultatų vertinimo rodikliai yra:
+
+
+1) įstaigos praėjusių metų veiklos rezultatų ataskaitoje nurodytas pajamų ir sąnaudų skirtumas (grynasis perviršis ar deficitas);
+
+
+
+
+2) įstaigos sąnaudų darbo užmokesčiui dalis;
+
+
+
+
+3) įstaigos sąnaudų valdymo išlaidoms dalis;
+
+
+
+
+4) įstaigos finansinių įsipareigojimų dalis nuo metinio įstaigos biudžeto;
+
+
+
+
+5) papildomų finansavimo šaltinių pritraukimas.
+
+
+
+
+
+
+2. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodikliai yra:
+
+
+1) pacientų pasitenkinimo įstaigos teikiamomis asmens sveikatos priežiūros paslaugomis lygis, tai yra pacientų teigiamai įvertintų įstaigoje suteiktų paslaugų skaičiaus dalis nuo visų per metus įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičiaus pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
+
+
+
+
+2) įstaigoje gautų pacientų skundų dėl įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičius per metus ir pagrįstų skundų dalis;
+
+
+
+
+3) įstaigoje gautų pagrįstų skundų dalis nuo visų įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičiaus per metus pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
+
+
+
+
+4) įstaigoje taikomos kovos su korupcija priemonės, numatytos sveikatos apsaugos ministro tvirtinamoje Sveikatos priežiūros srities korupcijos prevencijos programoje;
+
+
+
+
+5) informacinių technologijų diegimo ir plėtros lygis (pacientų elektroninės registracijos sistema, įstaigos interneto svetainės išsamumas, darbuotojų darbo krūvio apskaita, įstaigos dalyvavimo elektroninėje sveikatos sistemoje mastas);
+
+
+
+
+6) įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičius per ketvirtį ir per metus pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
+
+
+
+
+7) vidutinis laikas nuo paciento kreipimosi į įstaigą dėl asmens sveikatos priežiūros paslaugos suteikimo momento iki paskirto paslaugos gavimo laiko pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
+
+
+
+
+8) įstaigoje dirbančių darbuotojų ir etatų skaičius ir įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičius per metus;
+
+
+
+
+9) vidutinė hospitalizuotų pacientų gydymo trukmė įstaigoje pagal sveikatos apsaugos ministro nustatytas paslaugų grupes (taikoma tik antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančioms įstaigoms);
+
+
+
+
+10) lovos užimtumo rodiklis įstaigoje pagal sveikatos apsaugos ministro nustatytas paslaugų grupes (taikoma tik antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančioms įstaigoms);
+
+
+
+
+11) įstaigoje iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokėtų brangiųjų tyrimų ir procedūrų, kurių stebėsena atliekama, skaičius, medicinos priemonių, kuriomis atlikti brangieji tyrimai ir procedūros, panaudojimo efektyvumas (taikoma tik antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančioms įstaigoms);
+
+
+
+
+12) papildomi sveikatos apsaugos ministro nustatyti įstaigų veiklos rezultatų vertinimo rodikliai.
+
+
+
+
+
+
+3. Sveikatos apsaugos ministras kiekvienais metais tvirtina šio straipsnio 1 ir 2 dalyse nurodytų rodiklių siektinas reikšmes, taikomas šio straipsnio 8 dalyje nurodytoms įstaigų grupėms. Sveikatos apsaugos ministro nustatytos rodiklių siektinos reikšmės taip pat taikomos ir apskaičiuojant LNSS viešųjų įstaigų vadovaujančiųjų darbuotojų mėnesinės algos kintamosios dalies dydį šio įstatymo 151 straipsnio 6 dalyje nurodytu pagrindu.
+
+
+
+
+4. Šio straipsnio 1 ir 2 dalyse nurodytų rodiklių reikšmės atnaujinamos kartą per metus ir viešinamos vadovaujantis šio straipsnio 6, 7 ir 8 dalyse nustatytais reikalavimais, nurodant metines rodiklių reikšmes. 
+
+
+
+
+5. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, viešai skelbiamose veiklos ataskaitose sveikatos apsaugos ministro nustatyta tvarka pateikia informaciją apie per ataskaitinį laikotarpį įstaigoje taikytas priemones, kuriomis buvo siekiama šio straipsnio 4 dalyje nurodytų rodiklių reikšmių.
+
+
+
+
+6. Šio straipsnio 1 ir 2 dalyse nurodytų rodiklių reikšmės nuolat skelbiamos viešai Sveikatos apsaugos ministerijos, LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, interneto svetainėse ir šių įstaigų skelbimų lentose pacientams suprantamu būdu. 
+
+
+
+
+7. Šio straipsnio 6 dalyje nurodytu būdu skelbiami duomenys turi būti išsamūs, struktūruoti, be registracijos nemokamai prieinami didžiausiai įmanomai vartotojų grupei, teikiami atvira ir nepatentuota forma.
+
+
+
+
+8. Šio straipsnio 1 ir 2 dalyse nurodytų įstaigų veiklos finansinių ir veiklos rezultatų rodiklių reikšmės palyginamos pagal šias įstaigų grupes (lyginant tarpusavyje tik tos grupės įstaigas):
+
+
+1) rajonų ir regionų lygmens LNSS viešąsias įstaigas; 
+
+
+
+
+2) universiteto ligonines, respublikos lygmens LNSS viešąsias įstaigas ir stacionarines asmens sveikatos priežiūros paslaugas teikiančias LNSS biudžetines įstaigas, nepriskiriamas šio įstatymo 25 straipsnyje nurodytoms įstaigoms;
+
+
+
+
+3) antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančias LNSS viešąsias įstaigas, nepriskiriamas šios dalies 1 ir 2 punktuose nurodytoms įstaigų grupėms;
+
+
+
+
+4) pirminio lygio asmens sveikatos priežiūros paslaugas teikiančias LNSS viešąsias įstaigas, nepriskiriamas šios dalies 1, 2 ir 3 punktuose nurodytoms įstaigų grupėms.
+
+
+
+
+
+
+9. Šio straipsnio 8 dalyje nurodytų LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, grupavimą ir rodiklių reikšmių palyginimą atlieka Sveikatos apsaugos ministerija.
+
+
+
+
+10. Tais atvejais, kai LNSS viešosios įstaigos ar LNSS biudžetinės įstaigos rodiklių, nustatytų šio straipsnio 2 dalies 7, 10 ir 11 punktuose, praėjusių kalendorinių metų reikšmės yra geresnės negu sveikatos apsaugos ministro patvirtintos siektinos šio straipsnio 8 dalies 1–4 punktuose nurodytai įstaigų grupei, kuriai priskiriama įstaiga, nustatytos reikšmės ir ši įstaiga asmens sveikatos priežiūros paslaugų, kurių išlaidos yra apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, per praėjusius kalendorinius metus suteikė už didesnę sumą, negu numatyta teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutartyje, šios įstaigos viršytos asmens sveikatos priežiūros paslaugų išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų pirmumo tvarka. Kitų LNSS viešųjų ir biudžetinių įstaigų viršytos asmens sveikatos priežiūros paslaugų išlaidos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos, jeigu, apmokėjus šioje dalyje pirmiau nurodytų įstaigų viršytas asmens sveikatos priežiūros paslaugų išlaidas, lieka Privalomojo sveikatos draudimo fondo biudžeto lėšų šių įstaigų viršytoms asmens sveikatos priežiūros paslaugų išlaidoms apmokėti. Šioje dalyje nurodytų LNSS viešųjų ir biudžetinių įstaigų viršytų asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+11. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, ataskaitiniu laikotarpiu pasiektos šio straipsnio 1 dalyje ir šio straipsnio 2 dalies 1–11 punktuose nurodytų veiklos finansinių ir veiklos rezultatų vertinimo rodiklių reikšmės įstaigos steigėjui (dalininkui) (steigėjams (dalininkams) ar savininko teises ir pareigas įgyvendinančiai institucijai pateikiamos kiekvienais metais iki kovo 1 dienos. Tuo atveju, kai ne mažiau kaip penkių LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija kartu su įstaigos vadovu privalo iki einamųjų metų birželio 15 dienos sudaryti įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planą, kuris turi būti įgyvendintas iki einamųjų metų gruodžio 31 dienos. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, veiklos finansinių ir veiklos rezultatų gerinimo priemonių planą tvirtina steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija.
+
+
+
+
+12. Jeigu įgyvendinus įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių plane numatytas priemones bent trys įstaigos veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės, dėl kurių buvo sudarytas ir įgyvendinamas šio straipsnio 11 dalyje nurodytas įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planas, ir toliau nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, įstaigos steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 4 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 10 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
  
 
 
@@ -2125,7 +2322,7 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-16) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones.
+16) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones;
 Papildyta straipsnio punktu:
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
  
@@ -3066,3 +3263,13 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15, 22 ir 29 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymas
