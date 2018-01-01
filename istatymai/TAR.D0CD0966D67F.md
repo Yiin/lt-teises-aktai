@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -174,6 +174,14 @@ BENDROSIOS NUOSTATOS
 19. Savivaldybės tarybos mažuma (opozicija) – savivaldybės tarybos narių frakcija ir (ar) savivaldybės tarybos narių grupė, pirmajame ar kitame savivaldybės tarybos posėdyje viešu pareiškimu, įteiktu posėdžio pirmininkui, deklaravusios (deklaravusi), kad nesiūlo savo kandidato sudarant savivaldybės vykdomąją instituciją, nedelegavusios (nedelegavusi) savo kandidatų į mero pavaduotojo pareigas ir pateikusios (pateikusi) savo veiklos kryptis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+ 
+
+
+
+
+20. Išplėstinė seniūnaičių sueiga – seniūnaičių ir seniūnijos aptarnaujamoje teritorijoje veikiančių bendruomeninių organizacijų deleguotų atstovų susirinkimas, kuriame sprendžiami šio įstatymo nustatyti klausimai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
  
 
 
@@ -390,7 +398,10 @@ Nr. XII-1577, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05691
 
 
 
-11) savivaldybėms įstatymais priskirtų geodezijos ir kartografijos darbų organizavimas ir vykdymas;
+11) savivaldybėms įstatymuose priskirtų geodezijos ir kartografijos darbų, išskyrus savivaldybės erdvinių duomenų rinkinio tvarkymą, organizavimas ir vykdymas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
+ 
 
 
 
@@ -781,9 +792,18 @@ Nr. XII-1570, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05583
 
 
 
-38) kitos pagal įstatymus perduotos funkcijos.
+38) savivaldybės erdvinių duomenų rinkinio tvarkymas; 
+Papildyta straipsnio punktu:
+Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
+ 
+
+
+
+
+39) kitos pagal įstatymus perduotos funkcijos.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1570, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05583
+Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
  
 
 
@@ -1353,7 +1373,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-6. Komitetų darbe patariamojo balso teise reglamento nustatyta tvarka gali dalyvauti visuomenės atstovai – seniūnaičiai, ekspertai, valstybės tarnautojai ir kiti suinteresuoti asmenys. Kai komiteto posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, komitetas gali nuspręsti jį nagrinėti uždarame posėdyje.
+6. Komitetų darbe patariamojo balso teise reglamento nustatyta tvarka gali dalyvauti visuomenės atstovai – seniūnaičiai, išplėstinės seniūnaičių sueigos deleguoti atstovai, ekspertai, valstybės tarnautojai ir kiti suinteresuoti asmenys. Kai komiteto posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, komitetas gali nuspręsti jį nagrinėti uždarame posėdyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+ 
 
 
 
@@ -1470,9 +1493,10 @@ Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
 
 
 
-6. Savivaldybės tarybos sudaromų komisijų nariais gali būti savivaldybės tarybos nariai, valstybės tarnautojai, ekspertai, gyvenamųjų vietovių bendruomenių atstovai – seniūnaičiai, visuomenės atstovai (Lietuvos Respublikoje įregistruotų viešųjų juridinių asmenų, išskyrus valstybės ar savivaldybės institucijas ar įstaigas, įgalioti atstovai), bendruomeninių organizacijų atstovai, kiti savivaldybės gyventojai. Etikos komisijoje ir Antikorupcijos komisijoje seniūnaičiai arba seniūnaičiai ir visuomenės atstovai turi sudaryti ne mažiau kaip 1/3 komisijos narių. 
+6. Savivaldybės tarybos sudaromų komisijų nariais gali būti savivaldybės tarybos nariai, valstybės tarnautojai, ekspertai, gyvenamųjų vietovių bendruomenių atstovai – seniūnaičiai, išplėstinės seniūnaičių sueigos deleguoti atstovai, visuomenės atstovai (Lietuvos Respublikoje įregistruotų viešųjų juridinių asmenų, išskyrus valstybės ar savivaldybės institucijas ar įstaigas, įgalioti atstovai), bendruomeninių organizacijų atstovai, kiti savivaldybės gyventojai. Etikos komisijoje ir Antikorupcijos komisijoje seniūnaičiai arba seniūnaičiai ir visuomenės atstovai turi sudaryti ne mažiau kaip 1/3 komisijos narių. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
  
 
 
@@ -1589,7 +1613,10 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-17) sprendimų dėl papildomų ir planą viršijančių savivaldybės biudžeto pajamų ir kitų piniginių lėšų paskirstymo, tikslinės paskirties ir specializuotų fondų sudarymo ir naudojimo priėmimas;
+17) sprendimų dėl papildomų ir planą viršijančių savivaldybės biudžeto pajamų ir kitų piniginių lėšų paskirstymo, tikslinės paskirties ir specializuotų fondų sudarymo ir naudojimo priėmimas, reglamento nustatyta tvarka įvertinus išplėstinės seniūnaičių sueigos sprendimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+ 
 
 
 
@@ -1655,7 +1682,10 @@ Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
 
 
 
-29) sprendimų dėl koncesijų suteikimo tikslingumo priėmimas; gavus savivaldybės kontrolieriaus išvadą iki konkurso paskelbimo, koncesijos konkurso sąlygų ir pagrindinės koncesijos sutarties sąlygų tvirtinimas, konkurso etapų nustatymas ir, gavus savivaldybės kontrolieriaus išvadą, pritarimas galutiniam koncesijos sutarties projektui iki koncesijos sutarties pasirašymo;
+29) įstatymų nustatyta tvarka gavus savivaldybės kontrolieriaus išvadą, sprendimų dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolieriaus išvadą, pritarimas galutinėms viešojo ir privataus sektoriaus partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
+ 
 
 
 
@@ -1749,7 +1779,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-46) sprendimų dėl partnerystės su privačiais subjektais tikslingumo priėmimas; gavus savivaldybės kontrolieriaus išvadą iki viešųjų pirkimų, reikalingų partnerystei su privačiais subjektais įgyvendinti, paskelbimo, viešųjų pirkimų sąlygų, būdo ir pagrindinių sutarties dėl partnerystės su privačiais subjektais sąlygų tvirtinimas; gavus savivaldybės kontrolieriaus išvadą, pritarimas galutiniam partnerystės su privačiais subjektais sutarties projektui iki tokios sutarties pasirašymo.
+46) neteko galios.
+Straipsnio punkto pakeitimai:
+Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
+ 
 
 
 
@@ -2676,12 +2709,18 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 
 
-4) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas, suteikiančias savivaldybės tarybai pagrindą tvirtinti koncesijos konkurso sąlygas ir pagrindines koncesijos sutarties sąlygas; savivaldybės tarybai nustačius konkurso etapus iki koncesijos sutarties pasirašymo, rengia išvadas galutiniam koncesijos sutarties projektui;
+4) rengia ir savivaldybės tarybai teikia išvadas dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo ir pritarimo galutinėms viešojo ir privataus sektoriaus partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
+ 
 
 
 
 
-5) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas, suteikiančias savivaldybės tarybai pagrindą tvirtinti viešųjų pirkimų sąlygas, būdą ir pagrindines sutarties dėl partnerystės su privačiais subjektais sąlygas; savivaldybės tarybai nustačius viešųjų pirkimų sąlygas, būdą ir pagrindines sutarties dėl partnerystės su privačiais subjektais sąlygas, iki partnerystės su privačiais subjektais sutarties pasirašymo rengia išvadas galutiniam partnerystės su privačiais subjektais sutarties projektui;
+5) neteko galios;
+Straipsnio punkto pakeitimai:
+Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
+ 
 
 
 
@@ -3233,7 +3272,10 @@ Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 
 
 
-9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 16 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Be konkurso toje pačioje savivaldybėje seniūną galima perkelti į laisvas kitos seniūnijos seniūno pareigas, jeigu asmuo atitinka pareigybės aprašyme nustatytus reikalavimus. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo, išskyrus laikiną perkėlimą į kitas pareigas, kai yra tarnybinė būtinybė. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių bendruomenių atstovai – seniūnaičiai. 
+9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 16 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Be konkurso toje pačioje savivaldybėje seniūną galima perkelti į laisvas kitos seniūnijos seniūno pareigas, jeigu asmuo atitinka pareigybės aprašyme nustatytus reikalavimus. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo, išskyrus laikiną perkėlimą į kitas pareigas, kai yra tarnybinė būtinybė. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+ 
 
 
 
@@ -3750,7 +3792,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-3. Seniūnaitis prireikus teikia informaciją seniūnaitijos gyventojams apie savivaldybės institucijų ir įstaigų, Vyriausybės atstovo funkcijas, jų darbo laiką.
+3. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+ 
 
 
 Straipsnio pakeitimai:
@@ -3795,7 +3840,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-7. Sprendžiant klausimus, susijusius su seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių ar jų dalių (seniūnaitijų) bendruomenių viešųjų poreikių ir iniciatyvų finansavimo tikslingumu ir su kitais visiems tos teritorijos gyventojams svarbiais reikalais, organizuojama išplėstinė seniūnaičių sueiga. Išplėstinėje seniūnaičių sueigoje su sprendimo priėmimo teise dalyvauja tos seniūnijos seniūnaičiai ir tos seniūnijos aptarnaujamoje teritorijoje veikiantys bendruomeninių organizacijų deleguoti atstovai. Bendruomeninių organizacijų deleguotų atstovų skaičius, jų delegavimo į išplėstines seniūnaičių sueigas ir prireikus jų rotavimo ar atšaukimo tvarka, taip pat išplėstinės seniūnaičių sueigos organizavimo, sprendimų rengimo, svarstymo ir priėmimo tvarka nustatoma savivaldybės tarybos sprendimu tvirtinamuose seniūnaičių sueigos nuostatuose. Atsižvelgiant į vietos sąlygas ir aplinkybes, išplėstinėje seniūnaičių sueigoje patariamojo balso teise gali dalyvauti tos seniūnijos teritorijoje veikiančių nevyriausybinių organizacijų, tradicinių religinių bendruomenių atstovai. 
+7. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+ 
 
 
 Straipsnio pakeitimai:
@@ -3803,6 +3851,44 @@ Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
 Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
 Straipsnio pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+ 
+
+
+
+
+351 straipsnis. Išplėstinė seniūnaičių sueiga
+
+
+1. Sprendžiant klausimus, susijusius su seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių ar jų dalių (seniūnaitijų) bendruomenių viešųjų poreikių ir iniciatyvų finansavimo tikslingumu, atstovų delegavimu į pretendentų į seniūno pareigas konkurso komisijos narius, atstovų delegavimu dalyvauti tarybos sudaromų komitetų darbe, atstovų delegavimu į tarybos sudaromų komisijų narius, bendruomeninės veiklos ir partnerystės su savivaldybių institucijomis stiprinimu, viešųjų paslaugų, už kurių teikimą yra atsakinga savivaldybė, teikimo perdavimu bendruomeninėms ir kitoms nevyriausybinėmis organizacijoms, vietos verslumo skatinimu ir su kitais visiems tos teritorijos gyventojams svarbiais reikalais, organizuojama išplėstinė seniūnaičių sueiga. 
+
+
+
+
+2. Išplėstinėje seniūnaičių sueigoje su sprendimo priėmimo teise dalyvauja tos seniūnijos seniūnaičiai ir tos seniūnijos aptarnaujamoje teritorijoje veikiantys bendruomeninių organizacijų deleguoti atstovai. Bendruomeninių organizacijų deleguotų atstovų skaičius, jų delegavimo į išplėstines seniūnaičių sueigas ir prireikus jų rotavimo ar atšaukimo tvarka, taip pat išplėstinės seniūnaičių sueigos organizavimo, sprendimų rengimo, svarstymo ir priėmimo tvarka nustatomi savivaldybės tarybos sprendimu tvirtinamuose išplėstinės seniūnaičių sueigos nuostatuose. 
+
+
+
+
+3. Atsižvelgiant į vietos sąlygas ir aplinkybes, išplėstinėje seniūnaičių sueigoje patariamojo balso teise gali dalyvauti tos seniūnijos teritorijoje veikiančių nevyriausybinių organizacijų, tradicinių religinių bendruomenių atstovai. 
+
+
+
+
+4. Savivaldybė neatlygintinai suteikia patalpas išplėstinei seniūnaičių sueigai organizuoti. 
+
+
+
+
+5. Išplėstinės seniūnaičių sueigos sprendimai yra rekomendaciniai, tačiau kompetentinga savivaldybės institucija privalo reglamento nustatyta tvarka juos įvertinti. Išplėstinės seniūnaičių sueigos sprendimai vertinami ne vėliau kaip per 20 darbo dienų nuo išplėstinės seniūnaičių sueigos sprendimo gavimo dienos. Savivaldybės institucijos privalo savivaldybės interneto svetainėje ir atitinkamų seniūnijų skelbimų lentose paskelbti savo vertinimus dėl išplėstinės seniūnaičių sueigos sprendimų, nurodydamos vertinimo motyvus ir numatomus veiksmus, jeigu tokių veiksmų bus imtasi.
+
+
+
+
+6. Išplėstinė seniūnaičių sueiga renkasi savo iniciatyva arba seniūno kvietimu. 
+
+
+Papildyta straipsniu:
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
  
 
 
@@ -4506,6 +4592,8 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
+ 
+ 
 
 
 
@@ -5132,3 +5220,18 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 14 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-378, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09279
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 26 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 27 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 14, 15, 16, 31, 34, 35 straipsnių pakeitimo ir Įstatymo papildymo 35-1 straipsniu įstatymas
