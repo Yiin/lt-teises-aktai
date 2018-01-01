@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
  
@@ -767,6 +767,31 @@ Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 
 
 4. Lietuvos Respublikoje galioja bet kurioje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje narėje išduoti Europos Bendrijos atitikties arba tinkamumo naudoti sertifikatai ir Europos Bendrijos patikros sertifikatai. 
+
+
+
+
+5. Tuo atveju, kai Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių 1 520 mm pločio vėžės geležinkelių tinklui taikomi tapatūs techniniai ir eksploataciniai reikalavimai kaip ir kaimyninių trečiųjų valstybių geležinkelių tinklui, kitose Europos Sąjungos valstybėse narėse išduoti leidimai pradėti naudoti geležinkelių riedmenis galioja Lietuvos Respublikoje eismo saugos institucijos, kitų susijusių Europos Sąjungos valstybių narių eismo saugos institucijų ir Agentūros daugiašaliame susitarime numatytomis sąlygomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
+ 
+
+
+
+
+6. Šio straipsnio 2 dalies nuostatos netaikomos:
+
+
+1) prekiniams ir keleiviniams vagonams, bendrai naudojamiems tarptautiniam susisiekimui su trečiosiomis valstybėmis 1 520 mm pločio vėžės geležinkelių tinkle, jeigu leidimai pradėti naudoti šiuos geležinkelių riedmenis išduoti ar teisė eksploatuoti geležinkelių riedmenis suteikta trečiosiose valstybėse. Geležinkelio įmonė (vežėjas), naudojanti tokius geležinkelių riedmenis Lietuvos Respublikoje, privalo pateikti Lietuvos Respublikos susisiekimo ministerijai ir eismo saugos institucijai trečiosiose valstybėse taikomų Leidimų išdavimo ar teisės eksploatuoti geležinkelių riedmenis suteikimo taisyklių kopiją, jeigu šios taisyklės nepaskelbtos eismo saugos institucijos interneto svetainėje. Eismo saugos institucija paskelbia savo interneto svetainėje trečiosiose valstybėse taikomas Leidimų išdavimo ar teisės eksploatuoti geležinkelių riedmenis suteikimo taisykles, o Lietuvos Respublikos susisiekimo ministerija apie jas praneša Europos Komisijai. Šiame punkte nurodytų prekinių ir keleivinių vagonų atitiktį esminiams reikalavimams užtikrina tokius geležinkelių riedmenis naudojanti geležinkelio įmonė (vežėjas), taikydama jos eismo saugos valdymo sistemoje numatytas priemones; 
+
+
+
+
+2) visiems privažiuojamiesiems geležinkelio keliams, kurie nepriskirtini viešajai geležinkelių infrastruktūrai, ir tik juose naudojamiems geležinkelių riedmenims, kuriuos jų savininkas, valdytojas arba naudotojas naudoja savo reikmėms. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
  
 
 
@@ -855,7 +880,10 @@ Fiziniams asmenims draudžiama vaikščioti, važinėti geležinkelio keliais ir
 
 
 
-3. Prieš pradėdamas naudoti geležinkelių riedmenis geležinkelių tinkle, geležinkelių riedmenų naudotojas turi paskirti jų techninį prižiūrėtoją. Duomenys apie paskirtą geležinkelių riedmenų techninį prižiūrėtoją įrašomi į Lietuvos Respublikos geležinkelių riedmenų registrą. Techniniu prižiūrėtoju gali būti geležinkelių infrastruktūros valdytojas, geležinkelio įmonė (vežėjas) arba geležinkelių riedmenų naudotojas. 
+3. Prieš pradėdamas naudoti geležinkelių riedmenis geležinkelių tinkle, geležinkelių riedmenų naudotojas turi paskirti jų techninį prižiūrėtoją. Duomenys apie paskirtą geležinkelių riedmenų techninį prižiūrėtoją įrašomi į Lietuvos Respublikos geležinkelių riedmenų registrą. Techniniu prižiūrėtoju gali būti geležinkelių infrastruktūros valdytojas, geležinkelio įmonė (vežėjas) arba geležinkelių riedmenų naudotojas. Šis reikalavimas netaikomas Lietuvos Respublikos geležinkelių tinkle naudojamiems trečiųjų valstybių asmenims priklausantiems trečiosiose valstybėse įregistruotiems prekiniams ir keleiviniams vagonams, kurių techninė priežiūra atliekama pagal trečiosios valstybės, kurioje registruoti geležinkelių riedmenys, teisės aktus. Duomenis apie už šių geležinkelių riedmenų techninę priežiūrą atsakingą subjektą eismo saugos institucijai Lietuvos Respublikos geležinkelių transporto kodekso nustatyta tvarka teikia geležinkelio įmonė (vežėjas), naudojanti šiuos geležinkelių riedmenis Lietuvos Respublikos geležinkelių tinkle. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
+ 
 
 
 
@@ -896,6 +924,13 @@ Fiziniams asmenims draudžiama vaikščioti, važinėti geležinkelio keliais ir
 
 
 8. Trečiųjų valstybių geležinkelių riedmenys Lietuvos Respublikos teritorijoje naudojami vadovaujantis šiuo įstatymu, tarptautinėmis sutartimis ir tarptautiniais susitarimais.
+
+
+
+
+9. Šio straipsnio 4, 5 ir 6 dalyse nurodyti reikalavimai dėl keleivinių vagonų techninės priežiūros sistemos nustatymo, techninės priežiūros technologijos parengimo, geležinkelių riedmenų techninės priežiūros atlikimo ir (ar) prekinių vagonų techninio prižiūrėtojo sertifikavimo laikomi įvykdytais, jeigu geležinkelio įmonė (vežėjas), Lietuvos Respublikos geležinkelių tinkle naudojanti trečiųjų valstybių asmenims priklausančius trečiojoje valstybėje įregistruotus prekinius ir (ar) keleivinius vagonus, kurių techninė priežiūra atliekama pagal šios valstybės teisės aktus, duomenis apie už šių geležinkelių riedmenų techninę priežiūrą atsakingą subjektą pateikia eismo saugos institucijai per 5 darbo dienas nuo eismo saugos institucijos prašymo pateikti tokią informaciją gavimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
  
 
 
@@ -2910,6 +2945,22 @@ Nr. XII-2652, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24694
 
 
 
+8. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje (OL 2016 L 138, p. 44). 
+Papildyta punktu:
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
+ 
+
+
+
+
+9. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos (OL 2016 L 138, p. 102). 
+Papildyta punktu:
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
+ 
+
+
+
+
 
 
 Pakeitimai:
@@ -2984,3 +3035,8 @@ Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-190
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-754, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18805
 Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 31 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-834, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20054
+Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 9, 13 straipsnių ir priedo pakeitimo įstatymas
