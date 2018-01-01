@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PANEVĖŽIO LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-07-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 33-1544, i. k. 1121010ISTA0XI-1924
  
@@ -56,10 +56,12 @@ Vilnius
 2 straipsnis. Zonos veiklos terminas
 
 
-Zona steigiama 49 metams.
+Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas įstatymu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-915, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21507
  
-
-
 
 
 
@@ -83,9 +85,10 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 
 
 
-2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. 
+2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas), Lietuvos Respublikos žemės įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorijoje esantys žemės sklypai be aukciono išnuomojami zonos valdymo bendrovei 99 metams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-944, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07827
+Nr. XIII-915, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21507
  
 
 
@@ -472,3 +475,8 @@ Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-524, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11234
 Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 8 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-915, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21507
+Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 2 ir 4 straipsnių pakeitimo įstatymas
