@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2017-09-01 iki 2017-12-31
+Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -73,12 +73,18 @@ Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
 
 
 
-4. Generalinė miškų urėdija prie Aplinkos ministerijos – valstybinių miškų, priskirtų miškų urėdijoms, ūkinio valdymo institucija, organizuojanti ir koordinuojanti šių miškų atkūrimą, priežiūrą, apsaugą ir miško išteklių naudojimą.
+4. Gamtotvarkos priemonės miškuose – vidinės miškotvarkos projektuose suprojektuotos specialios gamtinės aplinkos tvarkymo ir apsaugos priemonės, skirtos palankiai saugomų gyvūnų, augalų ir grybų rūšių, bendrijų, buveinių ir ekosistemų apsaugos būklei, jų ilgalaikiam išlikimui ir plėtrai užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
 
-5. Kompleksinė miškų ūkio veikla – veikla, apimanti miškų atkūrimą, priežiūrą, apsaugą, racionalų miškų išteklių naudojimą, prekybą mediena ir miško ištekliais.
+5. Kompleksinė miškų ūkio veikla – veikla, apimanti miškų įveisimą, atkūrimą, priežiūrą, apsaugą, taip pat racionalų miškų išteklių naudojimą bei prekybą mediena ir miško ištekliais, tačiau nepakenkiant gamtotvarkos priemonių miškuose įgyvendinimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
@@ -119,151 +125,180 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 
 
-12. Miško medelynas – iš vieno ar daugiau žemės sklypų sudarytas plotas, kuriame atvirame grunte ir (ar) šiltnamiuose auginami miško sodmenys ir įrengta jiems auginti reikalinga infrastruktūra – komposto ruošimo vieta, laistymo sistema ir (ar) vandens telkinys, keliai, miško sodmenų rūšiavimo ir laikymo patalpos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+12. Miško kirtimo liekanos – kelmų antžeminė dalis, nuopjovos, susmulkinta pjūvių mediena, medžių viršūnės, šakos, smulkių medžių, kurių skersmuo 1,3 m aukštyje yra 6 cm ir mažesnis, stiebai, trako medžių ir krūmų stiebai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-13. Miško naudotojai – juridiniai ir fiziniai asmenys, kurie šio įstatymo ir kitų teisės aktų nustatyta tvarka įgijo miško ir miško išteklių naudojimo teisę.
+13. Miško medelynas – iš vieno ar daugiau žemės sklypų sudarytas plotas, kuriame atvirame grunte ir (ar) šiltnamiuose auginami miško sodmenys ir įrengta jiems auginti reikalinga infrastruktūra – komposto ruošimo vieta, laistymo sistema ir (ar) vandens telkinys, keliai, miško sodmenų rūšiavimo ir laikymo patalpos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-14. Miško parkai – intensyviai rekreacijai naudojami ne mažesnio kaip 3 hektarų ploto miškai su atitinkama rekreacine įranga ir infrastruktūra. 
+14. Miško naudotojai – juridiniai ir fiziniai asmenys, kurie šio įstatymo ir kitų teisės aktų nustatyta tvarka įgijo miško ir miško išteklių naudojimo teisę.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-15. Miško savininkai – valstybė, fiziniai ir juridiniai asmenys ir užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, įstatymų nustatyta tvarka įgiję nuosavybės teisę į miškus.
+15. Miško parkai – intensyviai rekreacijai naudojami ne mažesnio kaip 3 hektarų ploto miškai su atitinkama rekreacine įranga ir infrastruktūra. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-16. Miško valda – nuosavybės teise valdomas miškų ūkio paskirties žemės sklypas.
+16. Miško savininkai – valstybė, fiziniai ir juridiniai asmenys ir užsienio valstybėse įsteigtos organizacijos, neturinčios juridinio asmens statuso, tačiau turinčios civilinį teisnumą pagal tų valstybių įstatymus, įstatymų nustatyta tvarka įgiję nuosavybės teisę į miškus.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-17. Miško valdytojas – miško savininkas; miškų urėdija, valstybinio rezervato direkcija, nacionalinio parko direkcija, savivaldybė, valstybės įmonė ar kitas juridinis asmuo, valdantis patikėjimo teise įstatymų nustatyta tvarka jam Vyriausybės nutarimais perduotą valstybinėms funkcijoms įgyvendinti valstybinę miško žemę; kitas fizinis ar juridinis asmuo, užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus, įgijusi privačios miško žemės valdymo teisę.
+17. Miško valda – nuosavybės teise valdomas miškų ūkio paskirties žemės sklypas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-18. Miško žemė – apaugę mišku žemės plotai – medynai, taip pat neapaugę mišku žemės plotai – kirtavietės, žuvę medynai, miško laukymės, miško aikštės, mažosios miško pelkės, miško medelynai, sėklinės miško medžių plantacijos ir klonų rinkiniai, miškui įveisti skirta žemė. Prie miško žemės priskiriami tuose pačiuose plotuose esantys miško keliai, kvartalų, technologiniai proskiebiai ir linijos, priešgaisrinės juostos, medienos sandėlių ir kitų su mišku susijusių įrenginių (griovių, pralaidų, tiltelių, priešgaisrinių bokštų ir kitų) užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės.
+18. Miško valdytojas – miško savininkas; miškų urėdija, valstybinio rezervato direkcija, nacionalinio parko direkcija, savivaldybė, valstybės įmonė ar kitas juridinis asmuo, valdantis patikėjimo teise įstatymų nustatyta tvarka jam Vyriausybės nutarimais perduotą valstybinėms funkcijoms įgyvendinti valstybinę miško žemę; kitas fizinis ar juridinis asmuo, užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus, įgijusi privačios miško žemės valdymo teisę.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-19. Miškų grupė – miško žemės plotai, kuriuose panašūs pagrindiniai ūkininkavimo tikslai ir ūkininkavimo režimas. 
+19. Miško žemė – apaugę mišku žemės plotai – medynai, taip pat neapaugę mišku žemės plotai – kirtavietės, žuvę medynai, miško laukymės, miško aikštės, mažosios miško pelkės, miško medelynai, sėklinės miško medžių plantacijos ir klonų rinkiniai, miškui įveisti skirta žemė. Prie miško žemės priskiriami tuose pačiuose plotuose esantys miško keliai, kvartalų, technologiniai proskiebiai ir linijos, priešgaisrinės juostos, medienos sandėlių ir kitų su mišku susijusių įrenginių (griovių, pralaidų, tiltelių, priešgaisrinių bokštų ir kitų) užimti plotai, poilsio aikštelės, žvėrių pašarų aikštelės.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-20. Miškų urėdija – valstybės įmonė, patikėjimo teise valdanti, naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvarka, taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose numatytą veiklą.
+20. Miškų grupė – miško žemės plotai, kuriuose panašūs pagrindiniai ūkininkavimo tikslai ir ūkininkavimo režimas. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-21. Nenukirstas miškas – augantys medžiai, sausuoliai, vėjavartos, vėjalaužos ir kita nenukirsta sumedėjusi miško augalija.
+21. Miškų urėdija – valstybės įmonė, patikėjimo teise valdanti, naudojanti valstybinius miškus ir jais disponuojanti įstatymų nustatyta tvarka, taip pat vykdanti juose kompleksinę miškų ūkio veiklą ir kitą įmonės įstatuose numatytą veiklą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-22. Nepriklausomas medienos matuotojas – nenukirsto miško ir (ar) medienos matavimo ir kokybės vertinimo kvalifikaciją įgijęs ir tai liudijantį atestatą turintis fizinis asmuo, kuris pats nesiverčia prekyba mediena, nėra juridinio asmens, besiverčiančio prekyba mediena, dalyvis, valdymo organų narys, atstovas, nėra susijęs su tokiu juridiniu asmeniu darbo, tarnybos santykiais ar jungtine veikla, taip pat nesusijęs su medienos pirkėju ar pardavėju artimos giminystės ryšiais, darbo, tarnybos santykiais ar jungtine veikla.
+22. Nenukirstas miškas – augantys medžiai, sausuoliai, vėjavartos, vėjalaužos ir kita nenukirsta sumedėjusi miško augalija.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-23. Pagrindinis miško kirtimas – brandžių, bręstančių (retų ar įsiterpusių į kertamus brandžius medynus) medynų ar brandžių medžių kirtimas. Pagrindinio miško kirtimo būdai yra šie: atrankinis, atvejinis ir plynasis.
+23. Nepriklausomas medienos matuotojas – nenukirsto miško ir (ar) medienos matavimo ir kokybės vertinimo kvalifikaciją įgijęs ir tai liudijantį atestatą turintis fizinis asmuo, kuris pats nesiverčia prekyba mediena, nėra juridinio asmens, besiverčiančio prekyba mediena, dalyvis, valdymo organų narys, atstovas, nėra susijęs su tokiu juridiniu asmeniu darbo, tarnybos santykiais ar jungtine veikla, taip pat nesusijęs su medienos pirkėju ar pardavėju artimos giminystės ryšiais, darbo, tarnybos santykiais ar jungtine veikla.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-24. Plynasis pagrindinis miško kirtimas – pagrindinis miško kirtimas, kai biržėje iškertami visi medžiai, išskyrus sėklinius, biologinei įvairovei svarbius medžius, saugomo pomiškio grupes. Po kirtimo likę medžiai nesudaro medyno.
+24. Pagrindinis miško kirtimas – brandžių, bręstančių (retų ar įsiterpusių į kertamus brandžius medynus) medynų ar brandžių medžių kirtimas. Pagrindinio miško kirtimo būdai yra šie: atrankinis, atvejinis ir plynasis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-25. Sanitarinis miško kirtimas – miško kirtimas, kai siekiant išvengti ligų ar miško kenkėjų plitimo plynai kertami stichinių nelaimių ar biotinių veiksnių sudarkyti ar žuvę medynai arba neplynai iškertami pažeisti, džiūstantys medžiai ir sausuoliai, vėjavartos ar vėjalaužos.
+25. Plynasis pagrindinis miško kirtimas – pagrindinis miško kirtimas, kai biržėje iškertami visi medžiai, išskyrus sėklinius, biologinei įvairovei svarbius medžius, saugomo pomiškio grupes. Po kirtimo likę medžiai nesudaro medyno.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-26. Specialusis miško kirtimas – miško kirtimas, siekiant formuoti kraštovaizdį, atkurti genetiškai vertingas miško medžių populiacijas miško medžių genetiniuose draustiniuose, genetiniuose ir sėkliniuose medynuose, išsaugoti ar atkurti biologinę įvairovę, vykdyti biotechnines priemones, gerinančias natūralias medžiojamųjų gyvūnų gyvenamosios aplinkos sąlygas, rekonstruoti medynus ir krūmynus, taip pat miško ar jo dalies iškirtimas technologinėms ir gamybinėms miškų ūkio reikmėms arba miško iškirtimas, kai miško žemė verčiama kitomis naudmenomis.
+26. Sanitarinis miško kirtimas – miško kirtimas, kai siekiant išvengti ligų ar miško kenkėjų plitimo plynai kertami stichinių nelaimių ar biotinių veiksnių sudarkyti ar žuvę medynai arba neplynai iškertami pažeisti, džiūstantys medžiai ir sausuoliai, vėjavartos ar vėjalaužos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-27. Ugdomasis miško kirtimas – miško kirtimas nebrandžiame medyne, siekiant išauginti tam tikros rūšinės sudėties ir geros kokybės produktyvų medyną.
+27. Specialusis miško kirtimas – miško kirtimas, siekiant formuoti kraštovaizdį, atkurti genetiškai vertingas miško medžių populiacijas miško medžių genetiniuose draustiniuose, genetiniuose ir sėkliniuose medynuose, išsaugoti ar atkurti biologinę įvairovę, vykdyti biotechnines priemones, gerinančias natūralias medžiojamųjų gyvūnų gyvenamosios aplinkos sąlygas, rekonstruoti medynus ir krūmynus, taip pat miško ar jo dalies iškirtimas technologinėms ir gamybinėms miškų ūkio reikmėms arba miško iškirtimas, kai miško žemė verčiama kitomis naudmenomis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-28. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+28. Ugdomasis miško kirtimas – miško kirtimas nebrandžiame medyne, siekiant išauginti tam tikros rūšinės sudėties ir geros kokybės produktyvų medyną.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-29. Valstybiniai miškai – valstybinės reikšmės miškai ir kiti valstybei nuosavybės teise priklausantys miškai. 
+29. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
+
+
+
+
+30. Valstybiniai miškai – valstybinės reikšmės miškai ir kiti valstybei nuosavybės teise priklausantys miškai. 
 Papildyta straipsnio dalimi:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-30. Valstybiniai miškų pareigūnai (vyriausieji valstybiniai miškų pareigūnai, vyresnieji valstybiniai miškų pareigūnai ir valstybiniai miškų pareigūnai) – miškų ūkio valstybinio valdymo, valstybinės miškų kontrolės įstaigų, Generalinės miškų urėdijos prie Aplinkos ministerijos valstybės tarnautojai ir miškų urėdijų miško apsaugos darbuotojai, dirbantys pagal darbo sutartis ir turintys įstatymų nustatytus įgaliojimus. Vyriausiųjų valstybinių miškų pareigūnų, vyresniųjų valstybinių miškų pareigūnų ir valstybinių miškų pareigūnų statusas suteikiamas Lietuvos Respublikos aplinkos ministro įsakymu.
+31. Valstybinis miškų pareigūnas – valstybinių miškų miško apsaugos darbuotojas, dirbantis pagal darbo sutartį, valstybės tarnautojas, turintys įstatymų nustatytus įgaliojimus. Vyriausiųjų valstybinių miškų pareigūnų, vyresniųjų valstybinių miškų pareigūnų ir valstybinių miškų pareigūnų statusas suteikiamas Lietuvos Respublikos aplinkos ministro įsakymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
  
@@ -271,9 +306,10 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 
 
-31. Žaliavinė mediena – miško žemėje nukirstų medžių stiebų mediena, skirta medienos gaminiams ruošti.
+32. Žaliavinė mediena – miško žemėje nukirstų medžių stiebų mediena, skirta medienos gaminiams ruošti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
@@ -435,17 +471,20 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 
 
 
-6. Valstybinę miško žemę patikėjimo teise valdo miškų urėdijos, valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės, valstybės įmonės ir kiti juridiniai asmenys. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
+6. Valstybinę miško žemę patikėjimo teise valdo miškų urėdija (urėdijos), valstybinių rezervatų direkcijos, nacionalinių parkų direkcijos, savivaldybės ir kiti juridiniai asmenys. Valstybinės miško žemės sklypai patikėjimo teise perduodami šiems subjektams Vyriausybės nutarimais valstybinėms funkcijoms įgyvendinti Lietuvos Respublikos žemės įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-7. Laisvos valstybinės žemės fonde esantys ir nepanaudoti nuosavybės teisėms atkurti valstybinių miškų sklypai, kurie yra įsiterpę į valstybinės reikšmės miškus arba su jais ribojasi, arba yra 5 hektarų ir didesni ir turi privažiavimo kelius, Vyriausybės nutarimais perduodami patikėjimo teise valdyti miškų urėdijoms. Kiti nuosavybės teisėms atkurti nepanaudoti valstybinių miškų sklypai parduodami aukcionuose.
+7. Laisvos valstybinės žemės fonde esantys ir nepanaudoti nuosavybės teisėms atkurti valstybinių miškų sklypai, kurie yra įsiterpę į valstybinės reikšmės miškus arba su jais ribojasi, arba yra 5 hektarų ir didesni ir turi privažiavimo kelius, Vyriausybės nutarimais perduodami patikėjimo teise valdyti miškų urėdijai (urėdijoms). Kiti nuosavybės teisėms atkurti nepanaudoti valstybinių miškų sklypai parduodami aukcionuose, jeigu kituose įstatymuose nenustatyta kitaip. 
 Papildyta straipsnio dalimi:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
@@ -552,7 +591,23 @@ Nr. XII-855, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04859
 
 
 
-7) organizuoja su miškų ūkiu susijusį tarptautinį bendradarbiavimą.
+7) organizuoja su miškų ūkiu susijusį tarptautinį bendradarbiavimą;
+
+
+
+
+8) Vyriausybės pavedimu įgyvendina miškų urėdijos (urėdijų) savininko teises ir pareigas; 
+Papildyta straipsnio punktu:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
+
+
+
+
+9) nustato miškų urėdijai (urėdijoms) privalomąsias miško įveisimo, atkūrimo, apsaugos, tvarkymo darbų ir gamtotvarkos priemonių miškuose įgyvendinimo normas; 
+Papildyta straipsnio punktu:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
@@ -634,32 +689,15 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 
 
-4. Miškų urėdijoms priskirtų valstybinių miškų atkūrimą, priežiūrą, apsaugą ir miško išteklių naudojimą organizuoja ir koordinuoja Generalinė miškų urėdija prie Aplinkos ministerijos. Atlikdama šias funkcijas, Generalinė miškų urėdija prie Aplinkos ministerijos:
-
-
-1) atlieka miškų urėdijų savininko teises ir pareigas įgyvendinančios institucijos funkcijas ir koordinuoja jų veiklą;
-
-
-
-
-2) nustato miškų urėdijoms privalomąsias miško atkūrimo, apsaugos ir tvarkymo darbų normas;
+4. Neteko galios nuo 2018-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
 
-3) organizuoja bendrą valstybinę priešgaisrinės ir sanitarinės miško apsaugos sistemą;
-
-
-
-
-4) organizuoja ir koordinuoja miškų atkūrimo, apsaugos, tvarkymo ir miško išteklių naudojimo pažangių technologijų įgyvendinimą.
-
-
-
-
-
-
-5. Miškų urėdijos atlieka šias valstybines funkcijas:
+5. Miškų urėdija (urėdijos) atlieka šias valstybines funkcijas:
 
 
 1) patikėjimo teise valdo, naudoja valstybinius miškus ir jais disponuoja įstatymų nustatyta tvarka, taip pat vykdo juose kompleksinę miškų ūkio veiklą;
@@ -667,16 +705,21 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 
 
 
-2) miškuose, nesvarbu, kokia yra jų nuosavybės forma, įgyvendina bendrą valstybinę priešgaisrinių priemonių sistemą;
+2) miškuose, nesvarbu, kokia yra jų nuosavybės forma, įgyvendina bendrą valstybinę miško priešgaisrinės apsaugos sistemą;
 
 
 
 
-3) Vyriausybės nustatyta tvarka organizuoja ir (ar) įgyvendina bendrą miško kelių priežiūrą ir taisymą (remontą) visų nuosavybės formų miškuose. 
+3) Vyriausybės nustatyta tvarka organizuoja ir (ar) įgyvendina bendrą miško kelių priežiūrą ir taisymą (remontą) visų nuosavybės formų miškuose;
 
 
-Papildyta straipsnio dalimi:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+
+
+4) diegia pažangias miškų įveisimo, atkūrimo, apsaugos, tvarkymo ir miško išteklių naudojimo technologijas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
@@ -804,7 +847,10 @@ Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 
 
 
-4. Valstybinių miškų pareigūnų – miškų urėdijų miško apsaugos darbuotojų, dirbančių pagal darbo sutartis, gyvybė ir sveikata papildomai privalomai draudžiamos nuo nelaimingų atsitikimų, susijusių su nustatytų pareigų vykdymu, tais atvejais, kai netaikomos Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatos. Draudimo išmokų dydžiai nustatomi kolektyvinėse arba darbo sutartyse ir negali būti mažesni už nurodytus Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme.
+4. Valstybinių miškų pareigūnų – valstybinių miškų miško apsaugos darbuotojų, dirbančių pagal darbo sutartis, gyvybė ir sveikata papildomai privalomai draudžiamos nuo nelaimingų atsitikimų, susijusių su nustatytų pareigų vykdymu. Draudimo išmokų dydžiai nustatomi kolektyvinėse arba, jų nesant, darbo sutartyse ir negali būti mažesni už nurodytus Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 Straipsnio pakeitimai:
@@ -820,16 +866,20 @@ Nr. XIII-291, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06969
 7 straipsnis. Ekonominis valstybinio miškų ūkio reguliavimas 
 
 
-1. Lietuvos Respublikoje veiklą vykdo 42 miškų urėdijos. Miškų urėdijos veikia pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose, Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka jungtinės veiklos sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, skirtam kompleksinei miškų ūkio veiklai vykdyti įsigyti. Jungtinės veiklos sutarties įgyvendinimo kontrolę nustatyta tvarka vykdo Aplinkos ministerija.
+1. Lietuvos Respublikoje miškų urėdija (urėdijos) veikia pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose, Vyriausybės nustatyta tvarka didmeninėje ir mažmeninėje prekyboje parduoda žaliavinę medieną, miško kirtimo liekanas ir nenukirstą mišką. Didmeninė prekyba valstybiniuose miškuose pagaminta žaliavine mediena ir miško kirtimo liekanomis vykdoma per elektroninę medienos pardavimo sistemą organizuojant aukcionus ilgalaikėms (nuo trijų iki dešimties metų trukmės), pusmetinėms (šešių mėnesių trukmės) ir trumpalaikėms (iki trijų mėnesių trukmės) sutartims sudaryti. Mažmeninėje prekyboje parduodama iki 7 procentų metinės pagrindinių miško kirtimų normos ir miško tarpinio naudojimo apimties. Mažmeninėje prekyboje parduodamas nenukirstas miškas ir žaliavinė mediena, prioritetą teikiant malkinės medienos pardavimui gyventojams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
 
 
 
 
-2. Bendrosioms miškų ūkio reikmėms tenkinti Vyriausybės nustatyta tvarka miško valdytojams nustatomi privalomieji 5 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos, valstybinei miškų priešgaisrinei sistemai organizuoti ir išlaikyti, stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško kelių ir susijusių miško žemės sausinimo sistemų įrenginių priežiūrai ir taisymui (remontui), informacijai apie miškus viešinti, Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų ūkio srityje bei kitoms bendrosioms miškų ūkio reikmėms finansuoti). Lėšas administruoja ir jų naudojimo tvarką nustato Aplinkos ministerija.
+2. Bendrosioms miškų ūkio reikmėms tenkinti ir gamtotvarkos priemonėms miškuose įgyvendinti Vyriausybės nustatyta tvarka miško valdytojams nustatomi privalomieji 5 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos, valstybinei miško priešgaisrinės apsaugos sistemai organizuoti ir išlaikyti, stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško kelių ir susijusių miško žemės sausinimo sistemų įrenginių priežiūrai ir taisymui (remontui), informacijai apie miškus viešinti, Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų ūkio ir gamtotvarkos priemonių miškuose srityse bei kitoms bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti). Lėšas administruoja ir jų naudojimo tvarką nustato Aplinkos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
@@ -872,7 +922,10 @@ Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
 
 
 
-2. Savivaldybių vykdomosios institucijos miškų urėdijų ir valstybinių parkų direkcijų ar privačių miškų savininkų teikimu, o miestų miškuose – be šio teikimo, kai yra svarbių priežasčių (didelis miško gaisrų pavojus, miško kirtimai, specializuoto ūkio plotai, saugomi objektai, būtinumas išsaugoti miško išteklius, miško verslai ir pan.), gali visuose miškuose uždrausti ar apriboti fizinių asmenų lankymąsi bei vaistažolių, grybų, uogų ir kitų miško išteklių naudojimą.
+2. Savivaldybių vykdomosios institucijos miško valdytojo teikimu, o miestų miškuose – be šio teikimo, kai yra svarbių priežasčių (didelis miško gaisrų pavojus, miško kirtimai, specializuoto ūkio plotai, saugomi objektai, būtinumas išsaugoti miško išteklius, miško verslai ir pan.), gali visuose miškuose uždrausti ar apriboti fizinių asmenų lankymąsi bei vaistažolių, grybų, uogų ir kitų miško išteklių naudojimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
@@ -1255,7 +1308,10 @@ MIŠKOTVARKOS PROJEKTAS
 13 straipsnis. Valstybinė miškų inventorizacija, miškų apskaita ir miškų kadastras
 
 
-1. Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė miškų inventorizacija atliekama visuose miškuose. Miškų urėdijose, valstybiniuose rezervatuose ir valstybiniuose parkuose inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir valstybinė ne miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
+1. Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė miškų inventorizacija atliekama visuose miškuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
@@ -1462,22 +1518,22 @@ Miško apsaugos uždaviniai – saugoti mišką ir jo išteklius nuo neteisėtų
 18 straipsnis. Miško apsauga nuo gaisrų ir stichinių nelaimių
 
 
-1. Miškuose, nepaisant jų nuosavybės formos, privalo būti sukurta ir palaikoma bendra valstybinė priešgaisrinių priemonių sistema, apimanti stebėjimo, profilaktines ir priešgaisrines saugos priemones. Šią bendrą valstybinę priešgaisrinių priemonių sistemą rengia ir jos įgyvendinimą organizuoja Generalinė miškų urėdija prie Aplinkos ministerijos, miškų urėdijos bei valstybinių parkų direkcijos kartu su savivaldybėmis. Miško valdytojai, savininkai, naudotojai ir lankytojai privalo laikytis teisės aktais patvirtintų miškų priešgaisrinės apsaugos reikalavimų. 
+1. Miškuose, nepaisant jų nuosavybės formos, privalo būti sukurta ir palaikoma bendra valstybinė miško priešgaisrinės apsaugos sistema, apimanti stebėjimo, profilaktines ir priešgaisrines saugos priemones. Šią sistemą rengia ir jos įgyvendinimą organizuoja miškų urėdija (urėdijos) kartu su savivaldybėmis ir kitomis kompetentingomis institucijomis. Miško valdytojai, savininkai, naudotojai ir lankytojai privalo laikytis teisės aktais patvirtintų miškų priešgaisrinės apsaugos reikalavimų.
 
 
 
 
-2. Miškų urėdijos bei valstybiniai parkai ir savivaldybės skiria lėšų bendrai valstybinei priešgaisrinio stebėjimo ir gaisrų gesinimo sistemai visose miško valdose. Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines priešgaisrines priemones (įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką ir kita).
+2. Bendra miško priešgaisrinės apsaugos sistema finansuojama Bendrųjų miškų ūkio reikmių finansavimo programos ir miškų urėdijos (urėdijų) lėšomis. Miško valdytojai ir savininkai savo lėšomis įgyvendina profilaktines priešgaisrines saugos priemones (įrengia priešgaisrines juostas ir laužavietes, valo užšlemštą mišką ir kita).
 
 
 
 
-3. Aplinkos ministras nustato specialiąsias apsaugos ir stichinių nelaimių padarinių šalinimo miškuose priemones, privalomas visiems miško valdytojams, savininkams ir naudotojams, kai miškų urėdijos mastu išdžiūvusių, išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip vieną ketvirtąją metinės kirtimo normos dalį.
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
+3. Aplinkos ministras nustato specialiąsias apsaugos ir stichinių nelaimių padarinių šalinimo miškuose priemones, privalomas visiems miško valdytojams, savininkams ir naudotojams, kai savivaldybės teritorijoje išdžiūvusių, išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip 25 tūkst. kubinių metrų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
  
-
-
 
 
 
@@ -1485,7 +1541,10 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 19 straipsnis. Miško apsauga nuo ligų ir kenkėjų
 
 
-1. Miško valdytojai, savininkai ir naudotojai turi laikytis teisės aktais patvirtintų miško sanitarinės apsaugos reikalavimų, per nustatytą laiką išvežti iš miško arba tinkamai apsaugoti nuo kenkėjų miške paliekamą spygliuočių medieną. Miško valdytojai, savininkai ir naudotojai turi pranešti miškų urėdijoms bei valstybinių parkų direkcijoms apie medžių ligų ir kenkėjų židinius. 
+1. Miško valdytojai, savininkai ir naudotojai turi laikytis teisės aktais patvirtintų miško sanitarinės apsaugos reikalavimų, per nustatytą laiką išvežti iš miško arba tinkamai apsaugoti nuo kenkėjų miške paliekamą spygliuočių medieną. Miško valdytojai, savininkai ir naudotojai turi pranešti Valstybinei miškų tarnybai apie medžių ligų ir kenkėjų židinius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+ 
 
 
 
@@ -1808,3 +1867,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 5 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
+Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas
