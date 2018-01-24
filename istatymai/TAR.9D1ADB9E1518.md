@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2018-01-23
+Suvestinė redakcija nuo 2018-01-24 iki 2018-12-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -434,15 +434,22 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 
 
-6 straipsnis. Pakuočių ir pakuočių atliekų apskaita
+6 straipsnis. Pakuočių ir pakuočių atliekų apskaita 
 
 
-Ūkinės veiklos vykdytojai, nurodyti šio įstatymo 2 straipsnio 26 dalies 1 punkte, pakuočių ir pakuočių atliekų apskaitą tvarko ir pagal šios apskaitos duomenis atsiskaito Vyriausybės įgaliotos institucijos nustatyta tvarka.
+1. Ūkinės veiklos vykdytojai, nurodyti šio įstatymo 2 straipsnio 26 dalies 1 punkte, pakuočių ir pakuočių atliekų apskaitą tvarko ir pagal šios apskaitos duomenis atsiskaito Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
+
+
+2. Pakuočių gamintojai, įpareigoti tvarkyti pakuočių apskaitą, privalo būti užsiregistravę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
 Straipsnio pakeitimai:
 Nr. XI-1627, 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
  
 
 
@@ -454,7 +461,10 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 1. Gamintojų ir importuotojų pareigos:
 
 
-1) registruotis aplinkos ministro nustatyta tvarka;
+1) registruotis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
+ 
 
 
 
@@ -474,7 +484,10 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 
 
 
-5) tvarkyti pakuočių apskaitą ir atsiskaityti aplinkos ministro nustatyta tvarka.
+5) tvarkyti pakuočių apskaitą ir teikti apskaitos ataskaitas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
+ 
 
 
 
@@ -496,7 +509,7 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 
 
 
-5. Šio straipsnio 1 dalyje (išskyrus 1 dalies 1 punktą) nustatytas pareigas gamintojai ir importuotojai gali vykdyti:
+5. Šio straipsnio 1 dalyje nustatytas pareigas gamintojai ir importuotojai turi teisę vykdyti:
 
 
 1) individualiai – organizuodami savoms reikmėms sunaudotų pakuočių atliekų tvarkymą, Atliekų tvarkymo įstatymo ir kitų teisės aktų nustatyta tvarka šias atliekas tvarkydami patys arba perduodami jas tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui;
@@ -504,14 +517,17 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 
 
 
-2) kolektyviai – steigdami šio įstatymo 10 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir jai pavesdami organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų pareigų arba organizacijai sutartiniais pagrindais pavesdami organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų pareigų netapdami organizacijos dalyviais; 
+2) kolektyviai – steigdami šio įstatymo 10 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir, kaip numatyta šio įstatymo 10 straipsnio 1 dalyje, jai pavesdami vykdyti šiame straipsnyje nustatytas pareigas arba, kaip numatyta šio įstatymo 10 straipsnio 1 dalyje, organizacijai sutartiniais pagrindais pavesdami vykdyti šio įstatymo 7 straipsnyje nustatytas pareigas netapdami organizacijos dalyviais; 
 
 
 
 
-3) šio straipsnio 1 dalies 2 punkte nustatytą pareigą dalyvauti užstato už vienkartines pakuotes sistemoje, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, tik pavesdami šio įstatymo 112 straipsnyje nurodytam užstato už vienkartines pakuotes sistemos administratoriui organizuoti užstato už vienkartines pakuotes sistemą.
+3) šio straipsnio 1 dalies 2 punkte nustatytą pareigą dalyvauti užstato už vienkartines pakuotes sistemoje, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, tik pavesdami šio įstatymo 112 straipsnyje nurodytam užstato už vienkartines pakuotes sistemos administratoriui organizuoti užstato už vienkartines pakuotes sistemą. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
+ 
 
 
 
@@ -541,11 +557,28 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 71 straipsnis. Šio įstatymo 6 ir 7 straipsnių taikymo išimtys
 
 
-Gamintojai ir importuotojai, per ataskaitinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos atsiskaityti ir nuo šio įstatymo 7 straipsnio 3 dalyje nustatytos pareigos mokėti mokestį už aplinkos teršimą pakuočių atliekomis.
+1. Gamintojai ir importuotojai, per ataskaitinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių (neįskaitant vienkartinių pakuočių, kurioms pagal šio įstatymo 11 straipsnio 2 dalį taikoma užstato sistema, ir visų daugkartinių pakuočių), atleidžiami nuo šio įstatymo 7 straipsnio 3 dalyje nustatytos pareigos mokėti mokestį už aplinkos teršimą pakuočių atliekomis.
 
 
+
+
+2. Nuo šio įstatymo 6 ir 7 straipsniuose nustatytos pareigos tvarkyti apskaitą bei atsiskaityti ir nuo šio įstatymo 7 straipsnio 1 dalyje nustatytos pareigos registruotis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiama:
+
+
+1) jeigu įmonė pagal Lietuvos Respublikos pridėtinės vertės mokesčio įstatymą neprivalo būti registruota pridėtinės vertės mokesčio (toliau – PVM) mokėtoja (netaikoma gamintojams ir importuotojams, kurie Lietuvos Respublikos vidaus rinkai tiekia gaminius, supakuotus į pakuotę, kuriai pagal šio įstatymo 11 straipsnio 1 ir (ar) 2 dalį taikoma užstato sistema);
+
+
+
+
+2) toms per ataskaitinį laikotarpį įmonės importuotoms prekėms (supakuotiems gaminiams), kurios pagal Pridėtinės vertės mokesčio įstatymą neapmokestinamos importo PVM. 
 Papildyta straipsniu :
 Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
  
 
 
@@ -654,9 +687,10 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 10 straipsnis. Kolektyvaus pakuočių atliekų tvarkymo organizavimo reikalavimai
 
 
-1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų pareigų netapdami organizacijos dalyviais. Gamintojai ir importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai, privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai organizuoti pakuočių atliekų tvarkymą ateinančiais kalendoriniais metais (išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę savo pareigas vykdyti vienai organizacijai, negali pavesti savo pareigų vykdymo kitai organizacijai einamųjų kalendorinių metų laikotarpiu (išskyrus atvejus, kai organizacijai išduotos licencijos galiojimas yra sustabdytas arba panaikintas).
+1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais ir jai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo 7 straipsnio 1 dalies 2, 3, 4 punktuose ir 2 dalyje nustatytas pareigas arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo 7 straipsnio 1 dalies 2, 3, 4 punktuose ir 2 dalyje nustatytas pareigas netapdami organizacijos dalyviais. Gamintojai ir importuotojai, siekiantys organizuoti pakuočių atliekų tvarkymą kolektyviai, privalo kiekvienais metais iki gruodžio 1 dienos pavesti organizacijai organizuoti pakuočių atliekų tvarkymą ateinančiais kalendoriniais metais (išskyrus atvejus, kai gamintojas ar importuotojas ūkinę veiklą pradeda vykdyti po gruodžio 1 dienos. Šiuo atveju gamintojai ir importuotojai organizacijai privalo pavesti pareigų vykdymą per vieną mėnesį nuo registravimo Gamintojų ir importuotojų sąvade dienos). Gamintojai ir importuotojai, pavedę savo pareigas vykdyti vienai organizacijai, negali pavesti savo pareigų vykdymo kitai organizacijai einamųjų kalendorinių metų laikotarpiu (išskyrus atvejus, kai organizacijai išduotos licencijos galiojimas yra sustabdytas arba panaikintas). 
 Straipsnio dalies pakeitimai:
 Nr. XII-2586, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20335
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
  
 
 
@@ -1075,6 +1109,31 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato pakuočių
 
 Straipsnio pakeitimai:
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
+ 
+
+
+
+
+131 straipsnis. Naudojimasis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema
+
+
+1. Šio įstatymo 6, 7 ir 112 straipsniuose nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu ir ataskaitų teikimu (atsiskaitymu pagal apskaitos duomenis), vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. 
+ 
+TAR pastaba. 2017 metų ataskaitos, nurodytos 131 straipsnio 1 dalyje, teikiamos iki įstatymo Nr. XIII-1017 įsigaliojimo (2018-01-24) nustatyta tvarka.
+
+
+
+
+2. Jeigu nėra techninių galimybių naudotis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema, šio straipsnio 1 dalyje nurodytos procedūros vykdomos aplinkos ministro nustatyta tvarka.
+
+
+
+
+3. Aplinkos ministras nustato pereinamąjį laikotarpį, jo sąlygas ir ūkio subjektus, kuriems jis taikomas tam, kad pasibaigus pereinamajam laikotarpiui būtų tinkamai vykdomos šio straipsnio 1 dalyje nurodytos procedūros naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
  
 
 
@@ -1502,3 +1561,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2 straipsnio ir 2 priedo pakeitimo ir Įstatymo papildymo 8-2 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 6, 7, 7-1, 10 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
