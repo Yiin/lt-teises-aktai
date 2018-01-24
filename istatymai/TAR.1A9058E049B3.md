@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1a9058e049b311e6b5d09300a16a686c"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-23
+Suvestinė redakcija nuo 2018-01-24 iki 2018-06-18
  
 Įstatymas paskelbtas: TAR 2016-07-14, i. k. 2016-20555
  
@@ -5143,7 +5143,9 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-26. Išorinio studijų vertinimo ir aukštųjų mokyklų ir užsienio valstybių aukštųjų mokyklų filialų išorinio vertinimo ir akreditavimo procedūros pagal šio įstatymo 1 straipsnyje išdėstytą Lietuvos Respublikos mokslo ir studijų įstatymą taikomos nuo 2018 m. sausio 1 d., o procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos pagal iki šio įstatymo įsigaliojimo galiojusių įstatymų nuostatas.
+26. Išorinio studijų vertinimo ir aukštųjų mokyklų ir užsienio valstybių aukštųjų mokyklų filialų išorinio vertinimo ir akreditavimo procedūros pagal šio įstatymo 1 straipsnyje išdėstytą Lietuvos Respublikos mokslo ir studijų įstatymą taikomos nuo 2018 m. kovo 1 d., o procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos pagal iki šio įstatymo įsigaliojimo galiojusių įstatymų nuostatas. Iki 2018 m. kovo 1 d. studijų kryptys įvertinamos ir laikinai akredituojamos pagal švietimo ir mokslo ministro patvirtintus reikalavimus ir tvarką. Studijų krypčių laikino akreditavimo terminą nustato švietimo ir mokslo ministras. Jeigu įvertintos krypties studijos neatitinka švietimo ir mokslo ministro nustatytų reikalavimų, aukštoji mokykla negali priimti studentų į tos krypties studijas, o studijuojančiųjų tolesnes studijų galimybes nustato švietimo ir mokslo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1025, 2018-01-13, paskelbta TAR 2018-01-23, i. k. 2018-01033
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
  
@@ -5220,4 +5222,9 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-970, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21728
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo Nr. XII-2534 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1025, 2018-01-13, paskelbta TAR 2018-01-23, i. k. 2018-01033
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymo Nr. XII-2534 2 straipsnio pakeitimo įstatymas
