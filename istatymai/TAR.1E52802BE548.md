@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -45,7 +45,10 @@ Vilnius
 
 
 
-2. Šio Įstatymo nuostatos valstybinėms mokslo ir studijų institucijoms, kurių teisinė forma yra viešoji įstaiga, taikomos tiek, kiek jos neprieštarauja Lietuvos Respublikos mokslo ir studijų įstatymui.
+2. Šio Įstatymo nuostatos valstybinėms mokslo ir studijų institucijoms, kurių teisinė forma yra viešoji įstaiga, taip pat profesinio mokymo įstaigoms, kurių teisinė forma yra viešoji įstaiga, taikomos tiek, kiek jos neprieštarauja Lietuvos Respublikos mokslo ir studijų įstatymui arba atitinkamai Lietuvos Respublikos profesinio mokymo įstatymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-892, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21321
+ 
 
 
 Straipsnio pakeitimai:
@@ -1417,3 +1420,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 papildymo 8-1 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-892, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21321
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1 straipsnio pakeitimo įstatymas
