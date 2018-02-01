@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-09-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -485,7 +485,9 @@ UŽIMTUMO RĖMIMAS
 
 
 PIRMASIS SKIRSNIS
-UŽIMTUMO RĖMIMO SISTEMA
+UŽIMTUMO RĖMIMO IR STEBĖSENOS SISTEMA 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
  
 
 
@@ -520,7 +522,7 @@ UŽIMTUMO RĖMIMO SISTEMA
 
 
 
-12 straipsnis. Darbo rinkos paslaugos, užimtumo rėmimo priemonės ir darbo rinkos stebėsena
+12 straipsnis. Darbo rinkos paslaugos ir užimtumo rėmimo priemonės
 
 
 1. Darbo rinkos paslaugos yra šios:
@@ -566,15 +568,40 @@ UŽIMTUMO RĖMIMO SISTEMA
 
 
 
-2) užimtumo didinimo programos;
+2) užimtumo didinimo programos. 
 
 
 
 
-3) neteko galios.
-Straipsnio punkto pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+Straipsnio pakeitimai:
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
  
+
+
+
+
+121 straipsnis. Užimtumo ir darbo rinkos stebėsena
+
+
+1. Užimtumo ir darbo rinkos stebėsenos paskirtis – sudaryti sąlygas užimtumo rėmimo politikos subjektams priimti pagrįstus sprendimus. Užimtumo stebėseną, nurodytą šio straipsnio 2 dalyje, atlieka Mokslo ir studijų stebėsenos ir analizės centras Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Darbo rinkos stebėseną atlieka užimtumo rėmimo politiką formuojančios, jos įgyvendinimą organizuojančios, koordinuojančios ir kontroliuojančios valstybės institucijos ir šią politiką įgyvendinančios institucijos ir įstaigos, nurodytos šio įstatymo 13 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose.
+
+
+
+
+2. Užimtumo stebėsena apima:
+
+
+1) Lietuvos gyventojų užimtumo būklės, kaitos, tendencijų vertinimą, atsižvelgiant į valstybės, savivaldybių, visuomenės ir ūkio poreikius;
+
+
+
+
+2) Lietuvos gyventojų užimtumo prognozavimą;
+
+
+
+
+3) užimtumo statistinių duomenų rinkimą, apdorojimą ir statistinės informacijos skelbimą.
 
 
 
@@ -589,12 +616,14 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2) darbo rinkos paslaugų teikimo ir aktyvios darbo rinkos politikos priemonių įgyvendinimo ir efektyvumo vertinimą.
+2) darbo rinkos paslaugų teikimo ir aktyvios darbo rinkos politikos priemonių įgyvendinimo ir efektyvumo vertinimą. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
  
-
-
-
-
 
 
 
@@ -916,7 +945,7 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
 
 
 
-2. Šiame įstatyme nustatytos aktyvios darbo rinkos politikos priemonės ir užimtumo didinimo programos taikomos šiems darbo ieškantiems asmenims:
+2. Šiame įstatyme nustatytos aktyvios darbo rinkos politikos priemonės ir užimtumo didinimo programos taikomos šiems darbo ieškantiems asmenims, registruotiems teritorinėje darbo biržoje:
 
 
 1) bedarbiams;
@@ -924,19 +953,24 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
 
 
 
-2) nedarbingiems asmenims. 
+2) nedarbingiems asmenims;
+
+
+
+
+3) užimtiems asmenims.
 
 
 
 
 
 
-3. Neteko galios.
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+3. Užimtiems asmenims taikoma tik šio įstatymo 36 straipsnio 1 dalies 1 punkte nurodyta aktyvios darbo rinkos politikos priemonė. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
  
-
-
 
 
 
@@ -1809,9 +1843,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3. Paramos mokymuisi tikslas – padėti bedarbiams įgyti kvalifikaciją, tobulinti turimą kvalifikaciją, įgyti kompetencijų pagal formaliojo profesinio mokymo programas, įtrauktas į Studijų, mokymo programų ir kvalifikacijų registrą, ar pagal neformaliojo suaugusiųjų švietimo programas ar jas tobulinti arba (ir) įgyti kitų darbo gebėjimų ar pripažinti neformaliojo švietimo ir savišvietos būdu įgytas kompetencijas, jeigu to reikia norint įsidarbinti į laisvas darbo vietas ar pradėti dirbti savarankiškai. 
+3. Paramos mokymuisi tikslas – padėti bedarbiams ir užimtiems asmenims įgyti kvalifikaciją, tobulinti turimą kvalifikaciją, įgyti kompetencijų pagal formaliojo profesinio mokymo programas, įtrauktas į Studijų, mokymo programų ir kvalifikacijų registrą, ar pagal neformaliojo suaugusiųjų švietimo programas ar jas tobulinti arba (ir) įgyti kitų darbo gebėjimų ar pripažinti neformaliojo švietimo ir savišvietos būdu įgytas kompetencijas, jeigu to reikia norint įsidarbinti į laisvas darbo vietas ar pradėti dirbti savarankiškai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
  
 
 
@@ -1819,29 +1854,20 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-37 straipsnis. Profesinis mokymas 
+37 straipsnis. Profesinis mokymas
 
 
-1. Bedarbių profesinis mokymas pagal formaliojo profesinio mokymo programas organizuojamas trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp teritorinės darbo biržos, darbdavio, kuris įdarbins bedarbį, ir bedarbio, kuris įsidarbins į laisvą darbo vietą. Kai bedarbiai siunčiami mokytis pagal Lietuvos darbo biržos atliktomis darbo rinkos prognozėmis nustatytų paklausių profesijų formaliojo profesinio mokymo programas arba kai bedarbiai nori pradėti dirbti teritorinės darbo biržos pasiūlytose ar jų pačių surastose darbo vietose ar dirbti savarankiškai, sudaroma dvišalė sutartis tarp teritorinės darbo biržos ir bedarbio. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
+1. Bedarbių ir užimtų asmenų profesinis mokymas pagal formaliojo profesinio mokymo programas organizuojamas trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp teritorinės darbo biržos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį, ir bedarbio ar užimto asmens, kuris įsidarbins į laisvą darbo vietą. Kai bedarbiai siunčiami mokytis pagal Lietuvos darbo biržos atliktomis darbo rinkos prognozėmis nustatytų paklausių profesijų formaliojo profesinio mokymo programas ar užimti asmenys siunčiami mokytis pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustatytas prioritetinių profesijų formaliojo profesinio mokymo programas arba kai bedarbiai nori pradėti dirbti teritorinės darbo biržos pasiūlytose ar jų pačių surastose darbo vietose ar dirbti savarankiškai, sudaroma dvišalė sutartis tarp teritorinės darbo biržos ir bedarbio ar užimto asmens.
 
 
 
 
-2. Bedarbių profesinis mokymas pagal neformaliojo suaugusiųjų švietimo programas organizuojamas trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp teritorinės darbo biržos, darbdavio, kuris įdarbins bedarbį, ir bedarbio, kuris įsidarbins į laisvą darbo vietą. Kai įgyti ar tobulinti bendrųjų ar profesinių kompetencijų siunčiami bedarbiai, kurie priskiriami didelių ar vidutinių įsidarbinimo galimybių grupei, arba bedarbiai siunčiami pagal Lietuvos darbo biržos nustatytų paklausių kompetencijų neformaliojo suaugusiųjų švietimo programas, sudaroma dvišalė sutartis tarp teritorinės darbo biržos ir bedarbio. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
+2. Bedarbių ar užimtų asmenų profesinis mokymas pagal neformaliojo suaugusiųjų švietimo programas organizuojamas trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp teritorinės darbo biržos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį, ir bedarbio ar užimto asmens, kuris įsidarbins į laisvą darbo vietą. Kai įgyti ar tobulinti bendrųjų ar profesinių kompetencijų siunčiami bedarbiai, kurie priskiriami didelių ar vidutinių įsidarbinimo galimybių grupei, arba kai bedarbiai ar užimti asmenys siunčiami pagal Lietuvos darbo biržos nustatytų paklausių kompetencijų neformaliojo suaugusiųjų švietimo programas, sudaroma dvišalė sutartis tarp teritorinės darbo biržos ir bedarbio ar užimto asmens.
 
 
 
 
-3. Bedarbių profesinis mokymas vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis, o kai sudaryta trišalė sutartis, – suderinus su darbdaviu. Teritorinė darbo birža, remdamasi šio straipsnio 1 ir 2 dalyse nurodytomis sutartimis, išduoda bedarbiui dokumentą, kuriuo įsipareigoja sumokėti bedarbio pasirinktam profesinio mokymo teikėjui nurodytą pinigų sumą už suteiktą profesinį mokymą. Tarp pasirinkto profesinio mokymo teikėjo ir bedarbio sudaroma profesinio mokymo sutartis, pagal kurią profesinio mokymo teikėjas kas mėnesį teritorinei darbo biržai teikia informaciją apie bedarbio mokymo programos lankomumą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
+3. Bedarbių ar užimtų asmenų profesinis mokymas vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis ar užimtas asmuo, o kai sudaryta trišalė sutartis, – suderinus su darbdaviu. Teritorinė darbo birža, remdamasi šio straipsnio 1 ir 2 dalyse nurodytomis sutartimis, išduoda bedarbiui ar užimtam asmeniui dokumentą, kuriuo įsipareigoja sumokėti Profesinio mokymo įstatymo nustatyta tvarka bedarbio ar užimto asmens pasirinktam profesinio mokymo teikėjui nurodytą pinigų sumą už suteiktą profesinį mokymą. Tarp pasirinkto profesinio mokymo teikėjo ir bedarbio ar užimto asmens sudaroma profesinio mokymo sutartis, pagal kurią profesinio mokymo teikėjas kas mėnesį teritorinei darbo biržai teikia informaciją apie bedarbio ar užimto asmens mokymo programos lankomumą. Užimtam asmeniui profesinis mokymas šiame straipsnyje numatytomis sąlygomis organizuojamas tik tokiu atveju, kai jis planuoja įsidarbinti ne pas tą patį darbdavį, su kuriuo jį sieja darbo teisiniai santykiai, ar planuoja pradėti vykdyti savarankišką veiklą. Šio straipsnio 1 ir 2 dalyse nurodytose sutartyse su užimtu asmeniu numatoma sąlyga, kad užimtas asmuo turi įsidarbinti pas kitą darbdavį ar pradėti vykdyti savarankišką veiklą per 6 mėnesius nuo profesinio mokymo pabaigos.
 
 
 
@@ -1851,7 +1877,7 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-5. Bedarbių profesinis mokymas gali būti finansuojamas iš šių šaltinių:
+5. Bedarbių ar užimtų asmenų profesinis mokymas gali būti finansuojamas iš šių šaltinių:
 
 
 1) Užimtumo fondo lėšų;
@@ -1881,12 +1907,12 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-6. Bedarbiams bendrai skiriama lėšų suma iš šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytų šaltinių negali viršyti 6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai įgyti ir 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai tobulinti ar kompetencijai įgyti. Į šias lėšas neįskaičiuojamos išlaidos, numatytos šio straipsnio 14 dalies 2, 3, 4 ir 5 punktuose. Lėšų nustatymo, skyrimo ir panaudojimo kontrolės tvarką, dokumentų tipines formas nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+6. Bedarbiams ar užimtiems asmenims bendrai skiriama lėšų suma iš šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytų šaltinių negali viršyti 6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai įgyti ir 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai tobulinti ar kompetencijai įgyti. Į šias lėšas neįskaičiuojamos išlaidos, numatytos šio straipsnio 14 dalies 2, 3, 4 ir 5 punktuose. Užimtam asmeniui iš šio straipsnio 14 dalyje nurodytų išlaidų finansuojamos tik profesinio mokymo paslaugos. Užimtam asmeniui, kuris profesinio mokymosi metu buvo atleistas iš darbo, profesinio mokymosi laikotarpiu papildomai mokama šio straipsnio 14 dalies 2 punkte nurodyta mokymo stipendija ir kompensuojamos šio straipsnio 14 dalies 3 ir 4 punktuose nurodytos išlaidos. Lėšų nustatymo, skyrimo ir panaudojimo kontrolės tvarką nustato, dokumentų tipines formas tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį profesinio mokymo laikotarpį bedarbiui mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
+7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį profesinio mokymosi laikotarpį bedarbiui mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
 
 
 
@@ -1901,12 +1927,12 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-10. Kai bedarbis užsiima šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nurodytų užimtumo formų veikla ir suderina su profesinio mokymo teikėju darbo ir mokymosi laiką bei tęsia mokymą, toliau finansuojamos tik mokymo paslaugos.
+10. Kai bedarbis užsiima šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nurodytų užimtumo formų veikla ir suderina su profesinio mokymo teikėju darbo ir mokymosi laiką bei tęsia mokymąsi, toliau finansuojamos tik mokymo paslaugos.
 
 
 
 
-11. Bedarbių profesinis mokymas pagal šio straipsnio nuostatas pakartotinai gali būti organizuojamas ne anksčiau kaip po 3 metų baigus profesinio mokymo programą ir įgijus kvalifikaciją, ne anksčiau kaip po vienų metų įgijus kompetenciją, išskyrus atvejus, kai dėl sveikatos būklės asmuo negali dirbti pagal įgytą kvalifikaciją ir (ar) kompetenciją arba kai asmuo neturi teisės dirbti pagal įgytą kompetenciją neturėdamas teisės aktuose nurodyto kvalifikacijos pažymėjimo.
+11. Bedarbių ir užimtų asmenų profesinis mokymas pagal šio straipsnio nuostatas pakartotinai gali būti organizuojamas ne anksčiau kaip po 3 metų baigus profesinio mokymo programą ir įgijus kvalifikaciją, ne anksčiau kaip po vienų metų įgijus kompetenciją, išskyrus atvejus, kai dėl sveikatos būklės asmuo negali dirbti pagal įgytą kvalifikaciją ir (ar) kompetenciją arba kai asmuo neturi teisės dirbti pagal įgytą kompetenciją neturėdamas teisės aktuose nurodyto kvalifikacijos pažymėjimo.
 
 
 
@@ -1914,22 +1940,29 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 12. Teritorinei darbo biržai privalo atlyginti:
 
 
-1) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytų sutarčių įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ne trumpiau negu 6 mėnesius, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytos trišalės sutarties įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalyje nurodytas išlaidas;
+1) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalyje nurodytas išlaidas;
 
 
 
 
-2) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytų sutarčių įsipareigojimo nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ne trumpiau negu 6 mėnesius, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytos trišalės sutarties įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – išlaidas, kurių atlyginimo dydis mažinamas proporcingai išdirbtam laikotarpiui.
+2) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimo nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalyje nurodytas išlaidas, kurios mažinamos proporcingai išdirbtam laikotarpiui;
+
+
+
+
+3) užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalies 1 punkte nurodytas išlaidas, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtas šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytas išlaidas per 60 darbo dienų;
+
+
+
+
+4) užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimo nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – per 60 darbo dienų visas jos patirtas šio straipsnio 14 dalies 1 punkte nurodytas išlaidas, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtas šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytas išlaidas, kurios mažinamos proporcingai išdirbtam laikotarpiui. 
 
 
 
 
 
 
-13. Teritorinei darbo biržai jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų neturi grąžinti be svarbių priežasčių nevykdantys šio straipsnio 1 dalyje nurodytų sutarčių įsipareigojimų bedarbiai, kurie šio įstatymo nustatyta tvarka pirmą kartą įgyja kompetenciją ir (ar) kvalifikaciją, arba bedarbiai, kurie buvo siunčiami mokytis pagal neformaliojo suaugusiųjų švietimo programas dvišalės sutarties pagrindu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
+13. Teritorinei darbo biržai jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų neturi atlyginti be svarbių priežasčių nevykdantys šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų bedarbiai, kurie šio įstatymo nustatyta tvarka pirmą kartą įgijo kompetenciją ir (ar) kvalifikaciją, arba bedarbiai, kurie buvo siunčiami mokytis pagal neformaliojo suaugusiųjų švietimo programas dvišalės sutarties pagrindu.
 
 
 
@@ -1964,15 +1997,15 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-15. Šio straipsnio 14 dalyje nurodytos išlaidos, kurių šio straipsnio 1 dalyje nurodytas sutartis sudariusios šalys sutartyse nustatytais terminais neatlygino teritorinei darbo biržai, išieškomos įstatymų nustatyta tvarka.
+15. Šio straipsnio 14 dalyje nurodytos išlaidos, kurių šio straipsnio 1 ir 2 dalyse nurodytas sutartis sudariusios šalys sutartyse nustatytais terminais neatlygino teritorinei darbo biržai, išieškomos įstatymų nustatyta tvarka.
 
 
 
 
-16. Svarbiomis priežastimis, kurioms esant bedarbis neprivalo atlyginti teritorinei darbo biržai visų jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų ir kai netaikomos šio įstatymo 22 straipsnio 6 dalies nuostatos, laikoma:
+16. Svarbiomis priežastimis, kurioms esant bedarbis neprivalo atlyginti teritorinei darbo biržai visų jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų ir kai netaikomos šio įstatymo 22 straipsnio 6 dalies nuostatos, ir svarbiomis priežastimis, kurioms esant užimtas asmuo neprivalo atlyginti teritorinei darbo biržai visų jos patirtų šio straipsnio 14 dalies 1 punkte nurodytų išlaidų, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtų šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytų išlaidų, laikoma:
 
 
-1) bedarbio liga, sužalojimas, nėštumas likus 70 kalendorinių dienų iki gimdymo, gimdymas ir 56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų po gimdymo), mirtis, Lietuvos Respublikos karo prievolės įstatyme nustatytų pareigų atlikimas;
+1) bedarbio ar užimto asmens liga, sužalojimas, nėštumas likus 70 kalendorinių dienų iki gimdymo, gimdymas ir 56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų po gimdymo), mirtis, Lietuvos Respublikos karo prievolės įstatyme nustatytų pareigų atlikimas;
 
 
 
@@ -1982,12 +2015,12 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3) darbo sutarties nutraukimas šios dalies 2 punkte nenurodytais pagrindais arba individualios veiklos nutraukimas, kai bedarbis per 15 darbo dienų nuo darbo sutarties arba individualios veiklos nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją. Bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė turi būti ne trumpesnė kaip 6 mėnesiai;
+3) darbo sutarties nutraukimas šios dalies 2 punkte nenurodytais pagrindais arba individualios veiklos nutraukimas, kai bedarbis ar užimtas asmuo per 15 darbo dienų nuo darbo sutarties arba individualios veiklos nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją. Bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė turi būti ne trumpesnė kaip 6 mėnesiai;
 
 
 
 
-4) darbo sutarties nutraukimas, kai trišalėje sutartyje įtvirtintų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio, darbo biržos, darbdavio ir trečiojo asmens rašytinis susitarimas.
+4) darbo sutarties nutraukimas, kai trišalėje sutartyje nurodytų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio ar užimto asmens, darbo biržos, darbdavio ir trečiojo asmens rašytinis susitarimas.
 
 
 
@@ -2002,17 +2035,19 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2) darbo sutarties nutraukimas šios dalies 1 punkte nenurodytais pagrindais, kai bedarbis per 15 darbo dienų nuo darbo sutarties nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją, o bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė yra ne trumpesnė kaip 6 mėnesiai;
+2) darbo sutarties nutraukimas šios dalies 1 punkte nenurodytais pagrindais, kai bedarbis ar užimtas asmuo per 15 darbo dienų nuo darbo sutarties nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją, o bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė yra ne trumpesnė kaip 6 mėnesiai;
 
 
 
 
-3) darbo sutarties nutraukimas, kai trišalėje sutartyje įtvirtintų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio, teritorinės darbo biržos, darbdavio ir trečiojo asmens rašytinis susitarimas.
+3) darbo sutarties nutraukimas, kai trišalėje sutartyje nurodytų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio ar užimto asmens, teritorinės darbo biržos, darbdavio ir trečiojo asmens rašytinis susitarimas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
  
-
-
-
-
 
 
 
