@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-01-24 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-04-14
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -1167,7 +1167,9 @@ Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
 
 
 
-2. Valstybinis studijų fondas Vyriausybės nustatyta tvarka administruoja valstybės paskolas ir valstybės remiamas paskolas studentams, taip pat kitą finansinę paramą studentams.
+2. Valstybinis studijų fondas Vyriausybės nustatyta tvarka administruoja valstybės paskolas ir valstybės remiamas paskolas studentams, taip pat kitą finansinę paramą studentams, atlieka kitas funkcijas, numatytas Lietuvos Respublikos profesinio mokymo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
  
 
 
@@ -1247,6 +1249,22 @@ Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
 
 
 
+8) renka duomenis, apdoroja, apibendrina, analizuoja ir skelbia statistinę informaciją, susijusią su mokslo, studijų ir inovacijų politika; 
+Papildyta straipsnio punktu:
+Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
+ 
+
+
+
+
+9) atlieka kitas funkcijas, numatytas Profesinio mokymo įstatyme, Lietuvos Respublikos užimtumo įstatyme ir kituose teisės aktuose. 
+Papildyta straipsnio punktu:
+Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
+ 
+
+
+
+
 
 
 4. Mokslo ir studijų stebėsenos ir analizės centro kolegialus patariamasis organas yra taryba, tarybos tikslas – patarti Mokslo ir studijų stebėsenos ir analizės centro direktoriui. Taryba veikia visuomeniniais pagrindais. Mokslo ir studijų stebėsenos ir analizės centro tarybą sudaro 7 nariai: vieną narį skiria Seimo Švietimo ir mokslo komitetas, 3 narius – Vyriausybė, vieną – Lietuvos pramonininkų konfederacija, vieną – Lietuvos universitetų rektorių konferencija (konferencijos), vieną – Lietuvos kolegijų direktorių konferencija (konferencijos). Taryba sudaroma 5 metams, o tarybos kadencija pradedama skaičiuoti nuo tada, kai savininko teises ir pareigas įgyvendinanti institucija paskelbia tarybos sudėtį. 
@@ -1272,7 +1290,10 @@ Nr. XIII-117, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29421
 
 
 
-8. Mokslo ir studijų stebėsenos ir analizės centras turi teisę gauti visą reikalingą informaciją iš valstybės ir savivaldybių įstaigų, įmonių ir organizacijų Mokslo ir studijų stebėsenos ir analizės centro funkcijoms atlikti.
+8. Mokslo ir studijų stebėsenos ir analizės centras turi teisę gauti visą reikalingą informaciją iš valstybės ir savivaldybių įstaigų, įmonių ir organizacijų, valstybės registrų ir informacinių sistemų Mokslo ir studijų stebėsenos ir analizės centro funkcijoms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
+ 
 
 
 
