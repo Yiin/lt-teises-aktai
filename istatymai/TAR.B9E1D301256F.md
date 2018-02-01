@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-01-31
+Suvestinė redakcija nuo 2018-02-01 iki 2018-02-28
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -2644,7 +2644,10 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 
 
 
-5) gamtinės dujos, naudojamos technologinėms reikmėms gamtinių dujų perdavimo ir skirstymo tinkluose ir gamtinių dujų skystinimo proceso metu;
+5) gamtinės dujos, naudojamos technologinėms reikmėms gamtinių dujų perdavimo ir skirstymo tinkluose ir gamtinių dujų skystinimo bei suskystintų gamtinių dujų pakartotinio dujinimo procesų metu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-711, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18146
+ 
 
 
 
@@ -3224,6 +3227,11 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir 31 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 30, 31, 37, 58-1, 59 straipsnių pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-711, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18146
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 58-1 straipsnio pakeitimo įstatymas
  
  
 
