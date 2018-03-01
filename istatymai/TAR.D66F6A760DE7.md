@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
  
@@ -908,7 +908,10 @@ Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 23 straipsnis. Uosto žemės nuomos tvarka
 
 
-1. Uosto direkcija uosto žemę gali išnuomoti tik viešosios procedūros tvarka, išskyrus atvejus, kai uosto žemė išnuomojama uosto žemėje veiklą vykdančioms strateginę reikšmę nacionaliniam saugumui turinčioms įmonėms, nuosavybės teise valdančioms statinius uosto žemėje ar patikėjimo teise valdančioms valstybės ar savivaldybės joms perduotus statinius uosto žemėje, tokių statinių tiesioginei paskirčiai, ar įmonėms, valdančioms ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčius įrenginius, esančius uosto žemėje, tokių įrenginių tiesioginei paskirčiai, kaip tai apibrėžta Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme. 
+1. Uosto direkcija uosto žemę gali išnuomoti tik viešosios procedūros tvarka, išskyrus atvejus, kai uosto žemė išnuomojama uosto žemėje veiklą vykdančioms pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbioms įmonėms, nuosavybės teise valdančioms statinius uosto žemėje ar patikėjimo teise valdančioms valstybės ar savivaldybės joms perduotus statinius uosto žemėje, tokių statinių tiesioginei paskirčiai, ar įmonėms, valdančioms nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą, esančius uosto žemėje, tokių įrenginių ir turto tiesioginei paskirčiai, kaip tai apibrėžta Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1002, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01015
+ 
 
 
 
@@ -1821,3 +1824,8 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-759, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18811
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 12-1 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1002, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01015
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 23 straipsnio pakeitimo įstatymas
