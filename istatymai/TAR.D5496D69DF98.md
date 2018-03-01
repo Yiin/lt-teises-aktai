@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -1410,7 +1410,10 @@ Nr. XII-2023, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18614
 
 
 
-2) investuojama į nacionaliniam saugumui užtikrinti strateginę ir svarbią reikšmę turinčias įmones ir (ar) įrenginius, vadovaujantis Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymu ir kitais nacionalinio saugumo tikslus įgyvendinančiais teisės aktais, kuriais inter alia užtikrinama reikiama sprendžiamoji valstybės galia; 
+2) investuojama į nacionaliniam saugumui užtikrinti svarbias įmones, nurodytas Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
+ 
 
 
 
@@ -1995,3 +1998,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-294, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06972
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 23 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 22 straipsnio pakeitimo įstatymas
