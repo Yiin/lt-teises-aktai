@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
@@ -1380,7 +1380,10 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 
 
-2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, nacionaliniam saugumui užtikrinti svarbių įmonių ar jų teritorijų ir nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1006, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01019
+ 
 
 
 
@@ -1623,3 +1626,8 @@ Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 6, 27 ir 28 straipsnių pakeitimo ir 26 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1006, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01019
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 28 straipsnio pakeitimo įstatymas
