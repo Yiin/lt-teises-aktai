@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -313,7 +313,8 @@ Strategiškai svarbūs nacionaliniam saugumui ūkio sektoriai Lietuvoje yra:
 – energetikos;
 – transporto;
 – informacinių technologijų ir telekomunikacijų, kitų aukštųjų technologijų;
-– finansų ir kredito.
+– finansų ir kredito;
+– karinės įrangos.
 Siekdama užtikrinti nacionalinio saugumo interesų apsaugą, Vyriausybė, laikydamasi Europos Sąjungos teisės reikalavimų, teikia Seimui įstatymu tvirtinti, kurie nacionaliniam saugumui strategiškai svarbūs objektai privalo būti valstybės nuosavybė, o kuriuose ir kokiomis sąlygomis kapitalo dalį gali sudaryti privatus nacionalinis bei užsienio kapitalas, atitinkantis europinės ir transatlantinės integracijos kriterijus, paliekant sprendžiamąją galią valstybei, taip pat teikia tvirtinti kitus nacionalinio saugumo užtikrinimui svarbius objektus.
 Lietuvos Respublikos įstatymai gali nustatyti papildomus reikalavimus esamų ir naujai kuriamų nacionaliniam saugumui strategiškai svarbių bei kitų nacionalinio saugumo užtikrinimui svarbių objektų nuosavybės įsigysiančio ar turinčio arba jų valdyme dalyvausiančio ar dalyvaujančio privataus nacionalinio ar užsienio kapitalo kilmei, ūkio subjektų finansiniams rodikliams, jų patikimumui ar kitus reikalavimus, būtinus nacionaliniam saugumui užtikrinti. Lietuvos Respublikos įstatymai taip pat gali nustatyti apribojimus ir prievoles, taikomas ir kitoms Lietuvoje veikiančioms įmonėms bei kitiems ūkio subjektams karo, nepaprastosios padėties atveju ar kai būtina tenkinti kitus nacionalinio saugumo užtikrinimo poreikius. 
 Vyriausybė rūpinasi alternatyvių energetikos sektorių plėtra, tarp jų – atominės energetikos tęstinumu ir nuo monopolinio tiekėjo nepriklausomų nacionaliniam saugumui būtinų kuro ir žaliavų įsigijimo šaltinių užtikrinimu, taip pat užtikrina, kad būtų sukauptos nacionalinio saugumo interesų apsaugai krizių atveju reikalingos kuro atsargos. Aprūpinimas energetiniais ištekliais negali būti perduodamas šalių, iš kurių šie ištekliai tiekiami, subjektų kontrolei. Europinės ir transatlantinės integracijos kriterijus atitinkančioms užsienio investicijoms teikiamos preferencijos. 
@@ -325,6 +326,7 @@ VIEŠOJO SAUGUMO POLITIKA
 Kova su nusikalstamumu, viešosios tvarkos bei asmens saugumo valstybėje užtikrinimas yra vienas didžiausių prioritetų užtikrinant šalies nacionalinį saugumą. Valstybė privalo sutelkti jėgas ryžtingai ir veiksmingai kovai su nusikalstamumu, ypač su organizuotu nusikalstamumu, šešėliniu verslu, korupcija bei narkomanija, ir tuo užtikrinti tinkamą šalies vidaus saugumą. Būtina stiprinti teisėsaugos institucijų veiklą atskleidžiant ir tiriant nusikalstamas veikas, kurti naujus nusikalstamų veikų kontrolės ir prevencijos sistemos modelius. Vyriausybė turi užtikrinti jų bendradarbiavimą ir veiklos koordinavimą.
 Kitas prioritetas – patikima, Europos Sąjungos reikalavimus atitinkanti valstybės sienos kontrolė ir apsauga, ypatingą dėmesį skiriant Europos Sąjungos išorinės sienos kontrolei ir apsaugai. Įstatymu nustatomi valstybės sienos ir pasienio teisiniai režimai, reglamentuojamas valstybės sienos apsaugos organizavimas.
 Valstybės institucijos privalo imtis veiksmingų priemonių užtikrinant eismo keliuose saugumą ir garantuoti šių priemonių įgyvendinimo finansavimą, reikalingų teisės aktų bazės kūrimą, valstybės institucijų ir privačių asmenų veiklos bei kompleksinių priemonių, skirtų avaringumui mažinti, organizavimą ir koordinavimą.
+ 
 SOCIALINĖ POLITIKA
  
 Valstybės socialinė politika turi skatinti socialiai savarankiškos, solidarios, kartu ir stabilios pilietinės visuomenės formavimąsi. Valstybė turi vykdyti visų piliečių ir kitų jos jurisdikcijai priklausančių asmenų gerovės politiką, mažinti galimų socialinių krizių rizikos veiksnius bei pavojus ir rūpintis, kad dėl pernelyg didelių turtinių skirtumų visuomenėje ir gyventojų nuskurdimo nebūtų pažeisti socialinės sanglaudos principai.
@@ -362,6 +364,8 @@ Skyriaus pakeitimai:
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. X-1598, 2008-06-12, Žin., 2008, Nr. 73-2797 (2008-06-27)
+Skyriaus pakeitimai:
+Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
  
 
 
@@ -1084,4 +1088,9 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-621, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12472
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
