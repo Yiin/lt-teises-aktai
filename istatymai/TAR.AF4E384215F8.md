@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -1112,7 +1112,10 @@ Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
 
 
 
-2) atremdamas ginkluotus saugomų objektų, užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+2) atremdamas ginkluotus saugomų objektų, užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, nacionaliniam saugumui užtikrinti svarbių įmonių ar jų teritorijų ir nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1010, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01023
+ 
 
 
 
@@ -1394,3 +1397,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 12, 22, 23 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-811, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20005
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 17 ir 27 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1010, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01023
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 23 straipsnio pakeitimo įstatymas
