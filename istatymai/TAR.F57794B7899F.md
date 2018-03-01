@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -2193,7 +2193,10 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 
 
 
-2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinamas atliekamas Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme nustatyta tvarka ir sąlygomis.
+2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinimas atliekamas Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
+ 
 
 
 
@@ -5727,3 +5730,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 16 ir 17 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 27 straipsnio pakeitimo įstatymas
