@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -5292,7 +5292,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Juridinių asmenų, nurodytų Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, steigimą, valdymą, reorganizavimą, pertvarkymą ir likvidavimą šis kodeksas reglamentuoja tiek, kiek Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymas nenumato kitaip.
+3. Juridinių asmenų, nurodytų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, steigimą, valdymą, reorganizavimą, pertvarkymą ir likvidavimą šis kodeksas reglamentuoja tiek, kiek Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas nenumato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-995, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01007
+ 
 
 
 Straipsnio pakeitimai:
@@ -49368,3 +49371,8 @@ Lietuvos Respublikos civilinio kodekso 1.74 ir 4.58 straipsnių pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-787, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18850
 Lietuvos Respublikos civilinio kodekso 2.87 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-995, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01007
+Lietuvos Respublikos civilinio kodekso 2.33 straipsnio pakeitimo įstatymas
