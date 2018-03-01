@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-04-27
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
  
@@ -261,7 +261,9 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 
 
-5. Perduodant įslaptintą informaciją strateginę reikšmę nacionaliniam saugumui turinčioms ar nacionaliniam saugumui užtikrinti svarbioms įmonėms, kurioms reikia susipažinti su įslaptinta informacija, tokią informaciją naudoti ar sukurti, mutatis mutandis taikomi šio įstatymo septintojo skirsnio reikalavimai.
+5. Perduodant įslaptintą informaciją nacionaliniam saugumui užtikrinti svarbioms įmonėms, kurioms reikia susipažinti su įslaptinta informacija, tokią informaciją naudoti ar sukurti, mutatis mutandis taikomi šio įstatymo septintojo skirsnio reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
  
 
 
@@ -624,7 +626,10 @@ ANTRASIS SKIRSNIS
 
 
 
-22) informacija apie Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme nurodytų strateginę reikšmę nacionaliniam saugumui turinčių įmonių privatizavimo sandorių sudarymą, jeigu tokios informacijos atskleidimas padarytų žalą valstybės ekonominiams ir politiniams interesams;
+22) informacija apie Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių akcijų privatizavimo sandorių sudarymą, jeigu tokios informacijos atskleidimas padarytų žalą valstybės ekonominiams ir politiniams interesams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
+ 
 
 
 
@@ -3283,3 +3288,8 @@ Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 2, 13, 15, 16, 18, 19 ir 36 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4 ir 7 straipsnių pakeitimo įstatymas
