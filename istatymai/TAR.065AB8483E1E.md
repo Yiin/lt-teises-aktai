@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -1276,12 +1276,18 @@ VIešosios informacijos rengėjų, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAV
 
 
 
-4) Vyriausybės nustatyta tvarka gaunama informacija, kad licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinantis įsigyti asmuo arba asmuo, galintis tiesiogiai ar netiesiogiai kontroliuoti šį asmenį, turintis įgaliojimus naudotis balsavimo teisėmis licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, turi grėsmę nacionaliniam saugumui keliančių ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių tiesiogiai ar netiesiogiai kontroliuojamais asmenimis;
+4) Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka gaunama informacija, kad licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinantis įsigyti asmuo arba asmuo, galintis tiesiogiai ar netiesiogiai kontroliuoti šį asmenį, turintis įgaliojimus naudotis balsavimo teisėmis licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, turi ar praeityje turėjo grėsmę nacionaliniam saugumui keliančių ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių tiesiogiai ar netiesiogiai kontroliuojamais asmenimis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+ 
 
 
 
 
-5) Vyriausybės nustatyta tvarka gaunama informacija, kad licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinantis įsigyti asmuo arba asmuo, galintis tiesiogiai ar netiesiogiai kontroliuoti šį asmenį, turintis įgaliojimus naudotis balsavimo teisėmis licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, yra susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis, ar palaiko ryšius su asmenimis, priklausančiais joms.
+5) Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka gaunama informacija, kad licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinantis įsigyti asmuo arba asmuo, galintis tiesiogiai ar netiesiogiai kontroliuoti šį asmenį, turintis įgaliojimus naudotis balsavimo teisėmis licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną licencijos turėtojo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, yra ar praeityje buvo susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis, ar palaiko ryšius su asmenimis, priklausančiais joms. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+ 
 
 
 
@@ -1879,12 +1885,18 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 
 
 
-4) Vyriausybės nustatyta tvarka gaunama informacija, kad pareiškėjas ir (arba) asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, turi grėsmę nacionaliniam saugumui keliančių ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių tiesiogiai ar netiesiogiai kontroliuojamais asmenimis;
+4) Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka gaunama informacija, kad pareiškėjas ir (arba) asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, turi ar praeityje turėjo grėsmę nacionaliniam saugumui keliančių ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių tiesiogiai ar netiesiogiai kontroliuojamais asmenimis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+ 
 
 
 
 
-5) Vyriausybės nustatyta tvarka gaunama informacija, kad pareiškėjas ir (arba) asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, yra susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis, ar palaiko ryšius su asmenimis, priklausančiais joms.
+5) Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka gaunama informacija, kad pareiškėjas ir (arba) asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną pareiškėjo akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, yra ar praeityje buvo susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis, ar palaiko ryšius su asmenimis, priklausančiais joms. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+ 
 
 
 
@@ -2123,21 +2135,28 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-4) veiklą ketinantis vykdyti asmuo, taip pat asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną veiklą ketinančio vykdyti asmens akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, neturi grėsmę Lietuvos nacionaliniam saugumui keliančių ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai  nepriklausančių užsienio valstybių institucijomis ar tų valstybių tiesiogiai ar netiesiogiai kontroliuojamais asmenimis;
+4) veiklą ketinantis vykdyti asmuo, taip pat asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną veiklą ketinančio vykdyti asmens akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, neturi ar praeityje neturėjo grėsmę Lietuvos nacionaliniam saugumui keliančių ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių tiesiogiai ar netiesiogiai kontroliuojamais asmenimis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+ 
 
 
 
 
-5) veiklą ketinantis vykdyti asmuo, taip pat asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną veiklą ketinančio vykdyti asmens akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, nėra susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis, ir nepalaiko ryšių su asmenimis, priklausančiais joms.
+5) veiklą ketinantis vykdyti asmuo, taip pat asmuo, galintis tiesiogiai ar netiesiogiai jį kontroliuoti, turintis įgaliojimus naudotis balsavimo teisėmis akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens valdymo organuose arba galintis skirti bent vieną veiklą ketinančio vykdyti asmens akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinančio įsigyti asmens stebėtojų tarybos ir (ar) valdybos narį, nėra ar praeityje nebuvo susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis, ir nepalaiko ryšių su asmenimis, priklausančiais joms. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+ 
 
 
 
 
 
 
-3. Nustačius, kad egzistuoja nors viena šio straipsnio 2 dalyje nurodyta aplinkybė, Komisija priima sprendimą uždrausti šio straipsnio 1 dalyje nurodytam asmeniui Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo veiklą, teikti Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, iki išnyks šio straipsnio 2 dalyje nurodytos aplinkybės. Komisija, priimdama sprendimą, nustato konkretų terminą, nuo kada įsigalioja draudimas Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą. Šis terminas negali būti trumpesnis negu Komisijos sprendimų apskundimo teismui terminas. Transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, privalo nutraukti transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą nuo sprendime nurodytos dienos, išskyrus atvejus, kai, Komisijos sprendimą apskundus teismui, teismas laikinai sustabdo sprendimo galiojimą. Jeigu teismas, laikinai sustabdęs Komisijos sprendimo galiojimą, Komisijos sprendimo dėl transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos uždraudimo nepanaikina, transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, privalo nutraukti šią veiklą nuo teismo sprendimo įsiteisėjimo dienos. 
+3. Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka gavus informaciją, kad egzistuoja nors viena šio straipsnio 2 dalyje nurodyta aplinkybė, Komisija priima sprendimą uždrausti šio straipsnio 1 dalyje nurodytam asmeniui Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo veiklą, teikti Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, iki išnyks šio straipsnio 2 dalyje nurodytos aplinkybės. Komisija, priimdama sprendimą, nustato konkretų terminą, nuo kada įsigalioja draudimas Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą. Šis terminas negali būti trumpesnis negu Komisijos sprendimų apskundimo teismui terminas. Transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, privalo nutraukti transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą nuo sprendime nurodytos dienos, išskyrus atvejus, kai, Komisijos sprendimą apskundus teismui, teismas laikinai sustabdo sprendimo galiojimą. Jeigu teismas, laikinai sustabdęs Komisijos sprendimo galiojimą, Komisijos sprendimo dėl transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos uždraudimo nepanaikina, transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, privalo nutraukti šią veiklą nuo teismo sprendimo įsiteisėjimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
  
 
 
@@ -4778,3 +4797,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 31, 33, 34-1, 47 ir 48 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22, 31 ir 33 straipsnių pakeitimo įstatymas
