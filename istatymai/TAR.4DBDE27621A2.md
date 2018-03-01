@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -636,7 +636,10 @@ Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010IS
 
 
 
-6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), strateginę reikšmę nacionaliniam saugumui turinčių valstybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybių įmonių, kuriose valstybei ar savivaldybei priklausančios akcijos suteikia daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo.
+6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybės įmonių, taip pat akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių valstybei ar savivaldybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1003, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01016
+ 
 
 
 
@@ -1081,3 +1084,8 @@ Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2742, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26840
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 6 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1003, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01016
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pakeitimo įstatymas
