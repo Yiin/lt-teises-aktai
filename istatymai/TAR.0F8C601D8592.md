@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
- 
-TAR pastaba. Iki įstatymo Nr. XIII-593 įsigaliojimo (2018-01-01) neterminuotai paskirti Valstybės sienos apsaugos tarnybos rinktinių vadai ir jų pavaduotojai, užkardų vadai ir jų pavaduotojai toliau eina pareigas, kurioms pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 25 straipsnį taikoma rotacija, ir jiems nuo šio įstatymo įsigaliojimo dienos nustatomas penkerių metų laikotarpis eiti pareigas, kurioms taikoma rotacija.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-593, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12168
-Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-01-01:
 Nr. XIII-593, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12168
@@ -1338,7 +1333,10 @@ Valstybės sienos apsaugos tarnyba automatizuotu būdu kaupia ir tvarko duomenis
 
 
 
-14) organizuoja ir vykdo Valstybės sienos apsaugos tarnybos orlaivių skrydžius, Vyriausybės nustatyta tvarka bei valstybės ir savivaldybių institucijų ir įstaigų prašymu pagal sudarytas bendradarbiavimo sutartis naudoja Valstybės sienos apsaugos tarnybos orlaivius atliekant paieškos ir gelbėjimo darbus, teikiant medicinos pagalbą, gabenant donorų organus ir audinius, vykdant Lietuvos Respublikos strateginę ar svarbią reikšmę Lietuvos Respublikos nacionaliniam saugumui turinčių įmonių ir įrenginių fizinę saugą, atliekant valstybinius geodezijos ir kartografijos darbus, padedant valstybės ir savivaldybių institucijoms ir įstaigoms įgyvendinti priskirtas funkcijas;
+14) organizuoja ir vykdo Valstybės sienos apsaugos tarnybos orlaivių skrydžius, Vyriausybės nustatyta tvarka bei valstybės ir savivaldybių institucijų ir įstaigų prašymu pagal sudarytas bendradarbiavimo sutartis naudoja Valstybės sienos apsaugos tarnybos orlaivius atliekant paieškos ir gelbėjimo darbus, teikiant medicinos pagalbą, gabenant donorų organus ir audinius, vykdant Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto ar jų teritorijų fizinę saugą, atliekant valstybinius geodezijos ir kartografijos darbus, padedant valstybės ir savivaldybių institucijoms ir įstaigoms įgyvendinti priskirtas funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
+ 
 
 
 
@@ -1834,7 +1832,10 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę Lietuvos Respublikos nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę Lietuvos Respublikos nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įmonių ar jų teritorijų ir Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
+ 
 
 
 
@@ -2014,3 +2015,8 @@ Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 17 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-593, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12168
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymo Nr. XIII-593 1 straipsnio pakeitimo įstatymas
