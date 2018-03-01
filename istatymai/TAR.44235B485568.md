@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -2783,7 +2783,10 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
 
 
-7. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos sistemos pajėgų, taip pat strateginę reikšmę nacionaliniam saugumui turinčių objektų ir kitų nacionaliniam saugumui užtikrinti svarbių objektų poreikiams.
+7. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos sistemos pajėgų, taip pat nacionaliniam saugumui užtikrinti svarbių objektų poreikiams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
+ 
 
 
 
@@ -3458,3 +3461,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8, 17 ir 21 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-788, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18851
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 30-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 33 straipsnio pakeitimo įstatymas
