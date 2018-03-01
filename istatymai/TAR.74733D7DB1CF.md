@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS SUSKYSTINTŲ GAMTINIŲ DUJŲ TERMINALO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-21
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 68-3466, i. k. 1121010ISTA0XI-2053
  
@@ -150,7 +150,10 @@ PROJEKTO ĮGYVENDINIMAS IR FINANSAVIMAS
 
 
 
-2. SGD terminalas ir SGD terminalo jungtis pripažįstami strateginę reikšmę nacionaliniam saugumui turinčiais įrenginiais, taip pat SGD terminalo operatorius pripažįstamas strateginę reikšmę nacionaliniam saugumui turinčia įmone, kaip nurodyta Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme.
+2. Neteko galios 2018-03-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
+ 
 
 
 
@@ -344,7 +347,10 @@ Nr. XII-426, 2013-06-27, Žin. 2013, Nr. 76-3842 (2013-07-16), i. k. 1131010ISTA
 
 
 
-2. Šio straipsnio 1 dalyje nustatyto įpareigojimo vykdymą užtikrina paskirtasis tiekėjas, vadovaudamasis šiame įstatyme ir Vyriausybės nustatytais reikalavimais. Paskirtąjį tiekėją Vyriausybės nustatyta tvarka ir sąlygomis konkurso būdu paskiria Energetikos ministerija. Paskirtuoju tiekėju gali būti skiriama įmonė, kurioje valstybei tiesiogiai ar netiesiogiai priklauso ne mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų. Paskirtasis tiekėjas negali vykdyti veiklos, susijusios su energijos perdavimu ir (ar) skirstymu, taip pat kita paskirtojo tiekėjo veikla, jo valdymas ir organizacinė struktūra neturi prieštarauti veiklos gamtinių dujų sektoriuje atskyrimo ir nepriklausomumo reikalavimams. Paskirtasis tiekėjas pripažįstamas strateginę reikšmę nacionaliniam saugumui turinčia įmone.
+2. Šio straipsnio 1 dalyje nustatyto įpareigojimo vykdymą užtikrina paskirtasis tiekėjas, vadovaudamasis šiame įstatyme ir Vyriausybės nustatytais reikalavimais. Paskirtąjį tiekėją Vyriausybės nustatyta tvarka ir sąlygomis konkurso būdu paskiria Energetikos ministerija. Paskirtuoju tiekėju gali būti skiriama įmonė, kurioje valstybei tiesiogiai ar netiesiogiai priklauso ne mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų. Paskirtasis tiekėjas negali vykdyti veiklos, susijusios su energijos perdavimu ir (ar) skirstymu, taip pat kita paskirtojo tiekėjo veikla, jo valdymas ir organizacinė struktūra neturi prieštarauti veiklos gamtinių dujų sektoriuje atskyrimo ir nepriklausomumo reikalavimams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
+ 
 
 
 
@@ -572,3 +578,8 @@ Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-205
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-708, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18143
 Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 2, 4 ir 11 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 3 ir 11 straipsnių pakeitimo įstatymas
