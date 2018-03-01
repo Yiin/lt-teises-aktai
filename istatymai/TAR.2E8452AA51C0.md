@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
  
@@ -658,7 +658,10 @@ Nr. XII-2371, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14174
 
 
 
-2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, nacionaliniam saugumui užtikrinti svarbių įmonių ar jų teritorijų ir nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1014, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01027
+ 
 
 
 
@@ -971,3 +974,8 @@ Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 9 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2371, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14174
 Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2, 7, 12, 14 straipsnių pakeitimo ir 13, 15, 16 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1014, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01027
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 14 straipsnio pakeitimo įstatymas
