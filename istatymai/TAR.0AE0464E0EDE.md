@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2016-06-01 iki 2018-02-28
+Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
  
@@ -239,7 +239,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-37. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme (toliau – Atliekų tvarkymo įstatymas), Lietuvos Respublikos geriamojo vandens įstatyme (toliau – Geriamojo vandens įstatymas), Lietuvos Respublikos paslaugų įstatyme (toliau – Paslaugų įstatymas), Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas), Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme (toliau – Teritorijų planavimo įstatymas), Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme (toliau – Turto ir verslo vertinimo pagrindų įstatymas), Lietuvos Respublikos vandens įstatyme (toliau – Vandens įstatymas), Lietuvos Respublikos viešųjų pirkimų įstatyme (toliau – Viešųjų pirkimų įstatymas).
+37. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme (toliau – Atliekų tvarkymo įstatymas), Lietuvos Respublikos geriamojo vandens įstatyme (toliau – Geriamojo vandens įstatymas), Lietuvos Respublikos paslaugų įstatyme (toliau – Paslaugų įstatymas), Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas), Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme (toliau – Teritorijų planavimo įstatymas), Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme (toliau – Turto ir verslo vertinimo pagrindų įstatymas), Lietuvos Respublikos vandens įstatyme (toliau – Vandens įstatymas), Lietuvos Respublikos viešųjų pirkimų įstatyme (toliau – Viešųjų pirkimų įstatymas). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-999, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01011
  
 
 
@@ -2228,9 +2230,9 @@ GINČŲ IR SKUNDŲ NAGRINĖJIMAS. BAUDŲ SKYRIMO TVARKA
 
 
 4. Skundai nagrinėjami Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka.
+ 
 
 
-TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojo ar abonento ir geriamojo vandens tiekėjo ir nuotekų tvarkytojo ginčai, taip pat abonentų ir vartotojų skundai baigiami nagrinėti ir sprendimai dėl jų priimami ir vykdomi vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
 Straipsnio pakeitimai:
 Nr. XII-2093, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19416
  
@@ -2456,3 +2458,8 @@ Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 12 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-999, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01011
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3 straipsnio pakeitimo įstatymas
