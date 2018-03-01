@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1dea548067b411e7827cd63159af616c"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-03-01
+ 
+Įstatymas paskelbtas: TAR 2017-07-13, i. k. 2017-12168
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS SIENOS IR JOS APSAUGOS ĮSTATYMO NR. VIII-1666 PAKEITIMO
 ĮSTATYMAS
@@ -1349,7 +1356,10 @@ Valstybės sienos apsaugos tarnyba automatizuotu būdu kaupia ir tvarko duomenis
 
 
 
-14) organizuoja ir vykdo Valstybės sienos apsaugos tarnybos orlaivių skrydžius, Vyriausybės nustatyta tvarka bei valstybės ir savivaldybių institucijų ir įstaigų prašymu pagal sudarytas bendradarbiavimo sutartis naudoja Valstybės sienos apsaugos tarnybos orlaivius atliekant paieškos ir gelbėjimo darbus, teikiant medicinos pagalbą, gabenant donorų organus ir audinius, vykdant Lietuvos Respublikos strateginę ar svarbią reikšmę Lietuvos Respublikos nacionaliniam saugumui turinčių įmonių ir įrenginių fizinę saugą, atliekant valstybinius geodezijos ir kartografijos darbus, padedant valstybės ir savivaldybių institucijoms ir įstaigoms įgyvendinti priskirtas funkcijas;
+14) organizuoja ir vykdo Valstybės sienos apsaugos tarnybos orlaivių skrydžius, Vyriausybės nustatyta tvarka bei valstybės ir savivaldybių institucijų ir įstaigų prašymu pagal sudarytas bendradarbiavimo sutartis naudoja Valstybės sienos apsaugos tarnybos orlaivius atliekant paieškos ir gelbėjimo darbus, teikiant medicinos pagalbą, gabenant donorų organus ir audinius, vykdant Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto ar jų teritorijų fizinę saugą, atliekant valstybinius geodezijos ir kartografijos darbus, padedant valstybės ir savivaldybių institucijoms ir įstaigoms įgyvendinti priskirtas funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
+ 
 
 
 
@@ -1845,7 +1855,10 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, strateginę ar svarbią reikšmę Lietuvos Respublikos nacionaliniam saugumui turinčių įmonių ar jų teritorijų ir ypatingą strateginę reikšmę ar strateginę reikšmę Lietuvos Respublikos nacionaliniam saugumui turinčių įrenginių ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas;
+2) atremdamas ginkluotus užsienio valstybių diplomatinių ir tarptautinių organizacijų atstovybių ir jų teritorijų, užsienio valstybių konsulinių įstaigų ir jų teritorijų bei šių institucijų vadovų rezidencijų ir jų teritorijų, Lietuvos Respublikos valstybės ar savivaldybių institucijų ar įstaigų ar jų teritorijų, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įmonių ar jų teritorijų ir Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto ar jų teritorijų užpuolimus, šiuos užimtus objektus išlaisvindamas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
+ 
 
 
 
@@ -2017,3 +2030,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymo Nr. XIII-593 1 straipsnio pakeitimo įstatymas
