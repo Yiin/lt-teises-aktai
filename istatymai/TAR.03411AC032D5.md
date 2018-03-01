@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/03411ac032d511e69cf5d89a5fdd27cc"
 
 # Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas
 
+Suvestinė redakcija nuo 2018-03-01
+ 
+Įstatymas paskelbtas: TAR 2016-06-15, i. k. 2016-16844
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS ĮMONĖS LIETUVOS ORO UOSTŲ VALDOMŲ ORO UOSTŲ KONCESIJOS
 ĮSTATYMAS
@@ -28,7 +35,7 @@ Vilnius
 
 Lietuvos Respublikos Seimas,
 atsižvelgdamas į konstitucines vertybes, tarp jų bendrą tautos gerovę, šalies ūkio pajėgumą ir konkurencingumą, ūkinės veiklos laisvę ir iniciatyvą bei aplinkos apsaugą;
-atsižvelgdamas į tai, kad valstybės įmonė Lietuvos oro uostai ir jos patikėjimo teise valdomi aerodromai turi strateginę reikšmę nacionaliniam saugumui;
+atsižvelgdamas į tai, kad valstybės įmonė Lietuvos oro uostai ir jos patikėjimo teise valdomi aerodromai yra nacionaliniam saugumui užtikrinti svarbūs objektai;
 siekdamas apsaugoti Lietuvos Respublikos interesus ir užtikrinti Lietuvos oro transporto sistemos konkurencingumą Europos ir pasaulio rinkose;
 siekdamas, nekeičiant valstybės turto nuosavybės teisių ir neprarandant oro uostų valdymo kontrolės, didinti ir kompleksiškai plėtoti Lietuvos pasiekiamumą oro transportu, keleivių skaičiaus didėjimą ir skrydžių krypčių išplėtimą;
 siekdamas taikyti novatoriškus oro uostų valdymo principus skatinant viešojo ir privataus sektorių partnerystę ir atsižvelgdamas į pasaulinę praktiką; 
@@ -37,10 +44,8 @@ siekdamas išspręsti oro uostų infrastruktūros išlaikymo ir plėtros finansa
 siekdamas sukurti kokybišką, integruotą ir tranzitui pritaikytą oro transporto sistemą;
 siekdamas valstybės turtą valdyti, naudoti ir juo disponuoti vadovaujantis visuomeninės naudos, efektyvumo, racionalumo ir viešosios teisės principais, 
 priima šį įstatymą.
- 
- 
- 
- 
+Preambulės pakeitimai:
+Nr. XIII-1011, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01024
  
 
 
@@ -65,10 +70,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Šiame įstatyme vartojamos sąvokos 
 
 
-Šiame įstatyme vartojamos sąvokos atitinka Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme vartojamas sąvokas.
+Šiame įstatyme vartojamos sąvokos atitinka Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme vartojamas sąvokas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1011, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01024
  
-
-
 
 
 
@@ -202,7 +209,7 @@ Oro uostų koncesijos sutartimi koncesininkui suteikiamas leidimas vykdyti oro u
 7 straipsnis. Nacionalinio saugumo garantijos
 
 
-1. Oro uostų koncesija suteikiama tik subjektui, kurio atitiktis nacionalinio saugumo interesams yra įvertinta ir dėl kurio priimtas sprendimas, kuriuo patvirtinama, kad tikrintas subjektas atitinka nacionalinio saugumo interesus pagal Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymą. Taip pat Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme nustatyta tvarka tikrinama subjektų, kurie oficialiai pareiškia ketinimą ar interesą įsigyti įmonės, kuriai suteikta oro uostų koncesija, akcijų ar tapti tokios įmonės dalyviu, atitiktis nacionalinio saugumo interesams.
+1. Oro uostų koncesija suteikiama tik subjektui, kurio atitiktis nacionalinio saugumo interesams yra įvertinta ir dėl kurio priimtas sprendimas, kuriuo patvirtinama, kad tikrintas subjektas atitinka nacionalinio saugumo interesus pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą. Taip pat Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka tikrinama subjektų, kurie oficialiai pareiškia ketinimą ar interesą įsigyti įmonės, kuriai suteikta oro uostų koncesija, akcijų ar tapti tokios įmonės dalyviu, atitiktis nacionalinio saugumo interesams.
 
 
 
@@ -212,10 +219,12 @@ Oro uostų koncesijos sutartimi koncesininkui suteikiamas leidimas vykdyti oro u
 
 
 
-3. Koncesininkas turi teisę išnuomoti, subnuomoti ir (arba) suteikti panaudai jam perduotą žemę ir (arba) kitą turtą, patenkantį į aerodromų nacionaliniam saugumui svarbios apsaugos zonos teritoriją, taip pat leisti vykdyti veiklą tokiose zonose tik nacionalinio saugumo interesus atitinkantiems subjektams, kaip tai numatyta Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme. Subjektų, kurie oficialiai pareiškia ketinimą ar interesą įsigyti įmonės, kuriai išnuomota, subnuomota ir (arba) suteikta panaudai žemė ir (arba) kitas turtas, patenkantis į aerodromų nacionaliniam saugumui svarbios apsaugos zonos teritoriją, ar leista vykdyti veiklą tokiose zonose, akcijų ar tapti tokios įmonės dalyviu, atitiktis nacionalinio saugumo interesams tikrinama mutatis mutandis taikant Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme nustatytą potencialaus dalyvio atitikties nacionalinio saugumo interesams tikrinimo tvarką.
+3. Koncesininkas turi teisę išnuomoti, subnuomoti ir (arba) suteikti panaudai jam perduotą žemę ir (arba) kitą turtą, patenkantį į aerodromų, kurie laikomi nacionaliniam saugumui užtikrinti svarbiais įrenginiais ir turtu, apsaugos zonos teritoriją, taip pat leisti vykdyti veiklą tokiose zonose tik nacionalinio saugumo interesus atitinkantiems subjektams, kaip tai numatyta Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme. Investuotojų, kurie oficialiai pareiškia ketinimą ar interesą įsigyti įmonės, kuriai išnuomota, subnuomota ir (arba) suteikta panaudai žemė ir (arba) kitas turtas, patenkantis į aerodromų, kurie laikomi nacionaliniam saugumui užtikrinti svarbiais įrenginiais ir turtu, apsaugos zonos teritoriją, ar leista vykdyti veiklą tokiose zonose, akcijų ar tapti tokios įmonės dalyviu, atitiktis nacionalinio saugumo interesams tikrinama mutatis mutandis taikant Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatytą investuotojo atitikties nacionalinio saugumo interesams tikrinimo tvarką. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1011, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01024
  
-
-
 
 
 
@@ -283,3 +292,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1011, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01024
+Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymo Nr. XII-2393 preambulės, 2 ir 7 straipsnių pakeitimo įstatymas
