@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.24C9BF1312A7"
 
 # Lietuvos Respublikos Vyriausybės įstatymo 37 straipsnio pakeitimo ir papildymo, įstatymo papildymo 41(1) straipsniu bei vienuoliktuoju skirsniu įstatymas
 
+Suvestinė redakcija nuo 2018-03-05
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 171-6322, i. k. 1041010ISTA0IX-2576
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VYRIAUSYBĖS ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 411 STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU
 Į S T A T Y M A S
@@ -81,6 +86,10 @@ Papildyti Įstatymą 411 straipsniu:
 
 
 1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, 171-6322) prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai.
+Straipsnio dalies pakeitimai:
+Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
+ 
 
 
 
@@ -259,3 +268,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 41(1) straipsnio 1 dalies (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 28 d. nutarimo Nr. 960 „Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo
