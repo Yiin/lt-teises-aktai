@@ -20,7 +20,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-03-31
+Suvestinė redakcija nuo 2018-04-01 iki 2018-06-26
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
  
@@ -581,12 +581,22 @@ Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 15 straipsnis. Pareigūnų ir karių valstybinės pensijos priedas už tarnybą
 
 
-1. Socialinio draudimo bazinės pensijos dydžio priedas skiriamas ir mokamas pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui nuo teisės gauti šią pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki visų dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos. Šis priedas mokamas, iki asmuo įgis teisę gauti socialinio draudimo pensiją, jeigu jis nėra draudžiamas pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, arba kitoje valstybėje negauna su darbo santykiais susijusių pajamų ir nėra savarankiškai dirbantis asmuo.
+1. Pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui nuo teisės gauti šią pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki visų dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos, skiriamas pareigūnų ir karių valstybinės pensijos priedas už tarnybą. Šis priedas mokamas, iki asmuo įgis teisę gauti socialinio draudimo pensiją, jeigu pareigūnų ir karių valstybinės pensijos už tarnybą gavėjas nėra draudžiamas pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, arba kitoje valstybėje negauna su darbo santykiais susijusių pajamų bei nėra savarankiškai dirbantis asmuo (toliau – draudžiamas pensijų socialiniu draudimu), arba jo gaunamos draudžiamosios pajamos, kaip jos apibrėžtos Valstybinio socialinio draudimo įstatyme (toliau – draudžiamosios pajamos), yra mažesnės negu 1 minimalioji mėnesinė alga (toliau – MMA). Jeigu asmuo nėra draudžiamas pensijų socialiniu draudimu, jam mokamas 1 socialinio draudimo bazinės pensijos (toliau – bazinė pensija) dydžio pareigūnų ir karių valstybinės pensijos priedas už tarnybą. Pareigūnų ir karių valstybinės pensijos gavėjui, kuris turi draudžiamųjų pajamų ir jų dydis per mėnesį yra mažesnis negu 1 MMA, mokama priedo dalis, kuri apskaičiuojama bazinės pensijos dydį dauginant iš koeficiento, apskaičiuoto pagal praėjusį mėnesį gautų draudžiamųjų pajamų dydį:K = (MMA – P) / MMA, čia:
+
+
+1) K – koeficientas, 
 
 
 
 
-2. Priedo mokėjimas sustabdomas nuo tos dienos, kurią jo gavėjas pradėtas drausti pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, arba kitoje valstybėje pradėjo gauti su darbo santykiais susijusių pajamų ar tapo savarankiškai dirbančiu asmeniu. Priedo mokėjimas atnaujinamas nuo tos dienos, kurią asmuo vėl atitinka šio straipsnio 1 dalyje nurodytas sąlygas priedui gauti.
+2) P – asmens draudžiamosios pajamos.
+
+
+
+
+
+
+2. Priedo mokėjimas sustabdomas nuo tos dienos, kurią jo gavėjas tapo draudžiamas pensijų socialiniu draudimu, jeigu jo gaunamos draudžiamosios pajamos per mėnesį yra lygios 1 MMA ir daugiau. Priedo mokėjimas atnaujinamas nuo tos dienos, kurią asmuo vėl atitinka šio straipsnio 1 dalyje nurodytas sąlygas priedui gauti. Tais atvejais, kai pareigūnų ir karių valstybinės pensijos gavėjas yra draudžiamas pensijų socialiniu draudimu, tačiau jo draudžiamosios pajamos tą mėnesį, kurio draudžiamosios pajamos turi būti vertinamos, teisės aktų nustatyta tvarka nėra (negali būti) nustatytos (pavyzdžiui, asmuo yra savarankiškai dirbantis asmuo, kurio draudžiamosios pajamos (įmokų bazė) nustatomos deklaravus pajamas, gautas praėjusiais kalendoriniais metais; asmuo draudžiamas pensijų socialiniu draudimu užsienyje ir jam nėra taikomi Lietuvos Respublikos socialinio draudimo teisės aktai), tol, kol draudžiamosios pajamos nebus nustatytos, preziumuojama, kad tokio asmens draudžiamosios pajamos yra MMA, ir priedas už tarnybą nemokamas. Tuomet gavus oficialius duomenis apie asmens draudžiamąsias pajamas, patvirtinančius, kad asmuo atitinkamą mėnesį neturėjo draudžiamųjų pajamų arba jos buvo mažesnės negu MMA, asmeniui per 30 dienų apskaičiuojama ir išmokama priedo už tarnybą nepriemokos suma.
 
 
 
