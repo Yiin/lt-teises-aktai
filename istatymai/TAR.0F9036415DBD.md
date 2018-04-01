@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-03-31
+Suvestinė redakcija nuo 2018-04-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -911,7 +911,10 @@ DRAUDĖJŲ, APDRAUSTŲJŲ ASMENŲ, SOCIALINIO DRAUDIMO IŠMOKŲ IR KITŲ IŠMOK�
 
 
 
-4) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 3, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkis;
+4) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 3, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkis. Draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 20, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, mediana, standartinis nuokrypis, 25 procentų kvantilis ir 75 procentų kvantilis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-824, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20048
+ 
 
 
 
