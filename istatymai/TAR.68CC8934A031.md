@@ -21,7 +21,7 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-07-14 iki 2018-03-31
+Suvestinė redakcija nuo 2018-04-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -929,12 +929,12 @@ DEVINTASIS1 SKIRSNIS
 
 
 
-2. Kai pareiškėjų prašymai yra susiję su jaunesnių kaip 21 metų asmenų išlaikymo prievolėmis, atsirandančiomis dėl tėvų ir vaikų santykių, Reglamento (EB) Nr. 4/2009 51 straipsnyje nurodytas centrinės institucijos funkcijas atlieka Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos.
+2. Kai pareiškėjų prašymai yra susiję su jaunesnių kaip 21 metų asmenų išlaikymo prievolėmis, atsirandančiomis dėl tėvų ir vaikų santykių, Reglamento (EB) Nr. 4/2009 51 straipsnyje nurodytas centrinės institucijos funkcijas atlieka Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos.
 
 
 
 
-3. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Vaikų išlaikymo fondo administracijai prie Socialinės apsaugos ir darbo ministerijos. Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Reglamento (EB) Nr. 4/2009 58 straipsnyje nustatyta tvarka, taip pat atlieka kitas Reglamento (EB) Nr. 4/2009 58 straipsnio 3–9 dalyse nurodytas funkcijas.
+3. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Reglamento (EB) Nr. 4/2009 58 straipsnyje nustatyta tvarka, taip pat atlieka kitas Reglamento (EB) Nr. 4/2009 58 straipsnio 3–9 dalyse nurodytas funkcijas. 
 
 
 
@@ -944,11 +944,12 @@ DEVINTASIS1 SKIRSNIS
 
 
 
-5. Atlikdamos Reglamente (EB) Nr. 4/2009 nustatytas centrinės institucijos funkcijas, Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, kadastrų ir registrų duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti. Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, nepažeisdamos Reglamento (EB) Nr. 4/2009, ypač šio reglamento 53, 61, 62, 63 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių prieigą prie asmens duomenų, jų naudojimą ir perdavimą, reikalavimų.
+5. Atlikdamos Reglamente (EB) Nr. 4/2009 nustatytas centrinės institucijos funkcijas, Valstybės garantuojamos teisinės pagalbos tarnyba ir Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, valstybės registrų (kadastrų), žinybinių registrų, valstybės informacinių sistemų ir kitų informacinių sistemų, įsteigtų valstybės institucijų, valstybės įstaigų, valstybės įmonių, viešųjų įstaigų, finansuojamų iš valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir kitų valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotų atlikti viešąjį administravimą, duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti. Valstybės garantuojamos teisinės pagalbos tarnyba ir Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Reglamente (EB) Nr. 4/2009 nustatytoms funkcijoms atlikti, nepažeisdamos Reglamento (EB) Nr. 4/2009, ypač šio reglamento 53, 61, 62, 63 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių prieigą prie asmens duomenų, jų naudojimą ir perdavimą, reikalavimų. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
+Nr. XIII-880, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20566
  
 
 
@@ -1014,12 +1015,12 @@ Su išlaikymo prievolėmis susijusios bylos nagrinėjamos Lietuvos Respublikos c
 
 
 
-2. Kai pareiškėjų prašymai yra susiję su jaunesnių kaip 21 metų asmenų išlaikymo prievolėmis, atsirandančiomis dėl tėvų ir vaikų santykių, Konvencijos 6 straipsnyje nurodytas centrinės institucijos funkcijas atlieka Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos.
+2. Kai pareiškėjų prašymai yra susiję su jaunesnių kaip 21 metų asmenų išlaikymo prievolėmis, atsirandančiomis dėl tėvų ir vaikų santykių, Konvencijos 6 straipsnyje nurodytas centrinės institucijos funkcijas atlieka Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos. 
 
 
 
 
-3. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Vaikų išlaikymo fondo administracijai prie Socialinės apsaugos ir darbo ministerijos. Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Konvencijos 12 straipsnyje nustatyta tvarka, taip pat atlieka kitas Konvencijos 12 straipsnio 3–9 dalyse nurodytas funkcijas.
+3. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi šio straipsnio 2 dalyje numatytą prašymą, jį nedelsdama perduoda Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos teikia informaciją prašančiajai centrinei institucijai tiesiogiai Konvencijos 12 straipsnyje nustatyta tvarka, taip pat atlieka kitas Konvencijos 12 straipsnio 3–9 dalyse nurodytas funkcijas.
 
 
 
@@ -1029,11 +1030,12 @@ Su išlaikymo prievolėmis susijusios bylos nagrinėjamos Lietuvos Respublikos c
 
 
 
-5. Atlikdamos Konvencijoje nustatytas centrinės institucijos funkcijas, Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo administravimo įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, kadastrų ir registrų duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti. Valstybės garantuojamos teisinės pagalbos tarnyba ir Vaikų išlaikymo fondo administracija prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Konvencijoje nustatytoms funkcijoms atlikti, nepažeisdamos Konvencijos, ypač šios konvencijos 38, 39, 40 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų tvarkymą, reikalavimų.
+5. Atlikdamos Konvencijoje nustatytas centrinės institucijos funkcijas, Valstybės garantuojamos teisinės pagalbos tarnyba ir Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos turi teisę neatlygintinai gauti iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, kitų valstybės ir savivaldybių institucijų ir įstaigų, bankų ir kitų kredito bei finansų įstaigų, valstybės registrų (kadastrų), žinybinių registrų, valstybės informacinių sistemų ir kitų informacinių sistemų, įsteigtų valstybės institucijų, valstybės įstaigų, valstybės įmonių, viešųjų įstaigų, finansuojamų iš valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir kitų valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotų atlikti viešąjį administravimą, duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti, kad ir kokia būtų jų pateikimo forma ir būdas, apie asmens turtą, sąskaitas, lėšas, pajamas, išlaidas ir veiklą, taip pat kitus duomenis, reikalingus Konvencijoje nustatytoms funkcijoms atlikti. Valstybės garantuojamos teisinės pagalbos tarnyba ir Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos gautus duomenis privalo naudoti tik Konvencijoje nustatytoms funkcijoms atlikti, nepažeisdamos Konvencijos, ypač šios konvencijos 38, 39, 40 straipsnių, nuostatų, taip pat privalo laikytis Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų tvarkymą, reikalavimų. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
+Nr. XIII-880, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20566
  
 
 
@@ -1350,7 +1352,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
  
 
 
@@ -1492,3 +1494,8 @@ Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 antrojo skirsnio, 22, 30 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 27-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-880, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20566
+Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 31-5 ir 31-9 straipsnių pakeitimo įstatymas
