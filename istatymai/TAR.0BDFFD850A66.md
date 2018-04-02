@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-04-01
+Suvestinė redakcija nuo 2018-04-02 iki 2018-07-15
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -1187,7 +1187,10 @@ Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
 
 
 
-2. Viešojo administravimo subjektas gali reikalauti tik tų dokumentų ir informacijos, kurių nėra valstybės registruose ar kitose valstybės ar savivaldybių informacinėse sistemose, išskyrus atvejus, kai tokius dokumentus ir informaciją privaloma pateikti pagal įstatymus.
+2. Viešojo administravimo subjektas gali reikalauti tik tų dokumentų ir informacijos, kurių nėra valstybės registruose ar kitose valstybės informacinėse sistemose. Viešojo administravimo subjekto reikalavimas pateikti dokumentus ir informaciją, kurie yra valstybės registruose ar kitose valstybės informacinėse sistemose, laikomas biurokratizmu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-733, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18516
+ 
 
 
 
@@ -2171,3 +2174,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 3, 14
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-392, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09671
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2 ir 36-4 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-733, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18516
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 26 straipsnio pakeitimo įstatymas
