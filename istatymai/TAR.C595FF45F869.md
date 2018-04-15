@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-02-01 iki 2018-04-14
+Suvestinė redakcija nuo 2018-04-15 iki 2018-05-08
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -4151,7 +4151,10 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių piliečius ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius leidimą nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių ir kitų Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+ 
 
 
 
@@ -4255,12 +4258,25 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-9. Aukščiausius konkursinius balus pagal stojančiųjų į pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas konkursinę eilę surinkusiems asmenims, priimtiems į valstybės nefinansuojamas vietas tose aukštosiose mokyklose, kurių nustatytas mažiausias stojamasis konkursinis balas ne žemesnis negu švietimo ir mokslo ministro nustatytas mažiausias stojamasis konkursinis balas, iš valstybės biudžeto lėšų studijų laikotarpiui skiriama norminės studijų kainos dydžio (tuo atveju, kai už studijas mokama metinė studijų kaina mažesnė už norminę studijų kainą, – studijų kainos dydžio) studijų stipendija. Atitinkamais metais priimamų pirmosios pakopos ir vientisųjų studijų studentų valstybės finansavimą studijų stipendijoms ir preliminarų gaunančių studijų stipendijas pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros studijų studentų skaičių (nustatytą pagal patvirtintas atitinkamų metų normines studijų kainas) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Studijų stipendijų skyrimo ir mokėjimo tvarką nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų fondas.
+9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+ 
 
 
 
 
-10. Aukštųjų mokyklų studentai turi teisę gauti ir kitą juridinių asmenų, kitų organizacijų, jų padalinių, fizinių asmenų paramą.
+10. Aukščiausius konkursinius balus pagal stojančiųjų į pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas konkursinę eilę surinkusiems asmenims, priimtiems į valstybės nefinansuojamas vietas tose aukštosiose mokyklose, kurių nustatytas mažiausias stojamasis konkursinis balas ne žemesnis negu švietimo ir mokslo ministro nustatytas mažiausias stojamasis konkursinis balas, iš valstybės biudžeto lėšų studijų laikotarpiui skiriama norminės studijų kainos dydžio (tuo atveju, kai už studijas mokama metinė studijų kaina mažesnė už norminę studijų kainą, – studijų kainos dydžio) studijų stipendija. Atitinkamais metais priimamų pirmosios pakopos ir vientisųjų studijų studentų valstybės finansavimą studijų stipendijoms ir preliminarų gaunančių studijų stipendijas pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros studijų studentų skaičių (nustatytą pagal patvirtintas atitinkamų metų normines studijų kainas) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Studijų stipendijų skyrimo ir mokėjimo tvarką nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų fondas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+ 
+
+
+
+
+11. Aukštųjų mokyklų studentai turi teisę gauti ir kitą juridinių asmenų, kitų organizacijų, jų padalinių, fizinių asmenų paramą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
  
 
 
@@ -4758,3 +4774,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 19 ir 21 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-989, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01003
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 48 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir 82 straipsnių pakeitimo įstatymas
