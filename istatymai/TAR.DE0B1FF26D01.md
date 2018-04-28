@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2017-03-01 iki 2018-04-27
+Suvestinė redakcija nuo 2018-04-28 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -191,9 +191,9 @@ BENDROSIOS NUOSTATOS
 
 
 5. Priežiūros institucija privalo išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl leidimo išstoti iš centrinės kredito unijos išdavimo ne vėliau kaip per vieną mėnesį nuo prašymo išduoti leidimą išstoti iš centrinės kredito unijos gavimo dienos.
+ 
 
 
-TAR pastaba. 4 straipsnis įsigalioja 2018-01-01.
 
 
 
@@ -550,7 +550,6 @@ KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 
 5) kredito unija, kai buvo įregistruota Juridinių asmenų registre arba, jeigu licencija buvo išduota ne steigiamai kredito unijai, – kai įregistravo atitinkamus pakeitimus Juridinių asmenų registre, netapo centrinės kredito unijos nare arba pasibaigus jos narystei vienoje centrinėje kredito unijoje netapo kitos centrinės kredito unijos nare.
-TAR pastaba. 8 straipsnio 1 dalies 5 punktas įsigalioja 2018-01-01.
 
 
 
@@ -2074,10 +2073,7 @@ Kredito unijos kapitalą sudaro nuosavas kapitalas ir skolintas kapitalas.
 Šio įstatymo 32 straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nustatytų kredito unijos nuosavo kapitalo dalių suma turi sudaryti ne mažiau kaip:
 
 
-1) 85 000 eurų, jeigu kredito unija neketina teikti šio įstatymo 5 straipsnio 2 dalies 3 punkte nurodytos licencinės finansinės paslaugos;
-1 punkto redakcija nuo 2018-01-01:
 1) 145 000 eurų, jeigu kredito unija neketina teikti šio įstatymo 5 straipsnio 2 dalies 3 punkte nurodytos licencinės finansinės paslaugos;
- 
 
 
 
@@ -3015,7 +3011,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito įstaigose, ir kitu turtu;
+8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
+ 
 
 
 
@@ -3318,15 +3317,17 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 66 straipsnis. Laikinas teisės disponuoti lėšomis ir kitu turtu apribojimas
 
 
-1. Jeigu priežiūros institucija pritaiko šio įstatymo 60 straipsnio 1 dalies 8 punkte nurodytą poveikio priemonę, kredito unija laikinai neturi teisės disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito įstaigose, ir kitu turtu, kurie nurodyti priežiūros institucijos sprendime.
+1. Jeigu priežiūros institucija pritaiko šio įstatymo 60 straipsnio 1 dalies 8 punkte nurodytą poveikio priemonę, kredito unija laikinai neturi teisės disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu, kurie nurodyti priežiūros institucijos sprendime.
 
 
 
 
-2. Priežiūros institucijos sprendimas laikinai apriboti teisę disponuoti lėšomis, esančiomis centrinėje kredito unijoje bei kitose Lietuvos Respublikoje įsteigtose kredito įstaigose, ir kitu Lietuvos Respublikos teritorijoje esančiu turtu laikomas turto arešto aktu ir teisės aktų nustatytais atvejais ir tvarka registruojamas Turto arešto aktų registre. Priežiūros institucijos sprendime turi būti nurodyti duomenys, reikalingi priežiūros institucijos sprendimui įregistruoti Turto arešto aktų registre. Turto arešto aktų registrą reglamentuojančių teisės aktų nustatytais atvejais priežiūros institucijos sprendimas Turto arešto aktų registre gali būti įregistruotas laikinai.
+2. Priežiūros institucijos sprendimas laikinai apriboti teisę disponuoti lėšomis, esančiomis centrinėje kredito unijoje bei kitose Lietuvos Respublikoje įsteigtose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu Lietuvos Respublikos teritorijoje esančiu turtu laikomas turto arešto aktu ir teisės aktų nustatytais atvejais ir tvarka registruojamas Turto arešto aktų registre. Priežiūros institucijos sprendime turi būti nurodyti duomenys, reikalingi priežiūros institucijos sprendimui įregistruoti Turto arešto aktų registre. Turto arešto aktų registrą reglamentuojančių teisės aktų nustatytais atvejais priežiūros institucijos sprendimas Turto arešto aktų registre gali būti įregistruotas laikinai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
  
-
-
 
 
 
@@ -3979,3 +3980,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymo Nr. XII-2567 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių pakeitimo įstatymas
