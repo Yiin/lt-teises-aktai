@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-04-27
+Suvestinė redakcija nuo 2018-04-28 iki 2021-12-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -585,23 +585,10 @@ Nr. XI-1872, 2011-12-22, Žin. 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010IST
 
 
 
-43. Vertimasis finansinių paslaugų teikimu:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+43. Neteko galios nuo 2018-04-28
+Straipsnio dalies naikinimas:
+Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
  
-
-
-1) deklaravimas ūkinę veiklą reglamentuojančiuose dokumentuose (steigimo dokumentuose, licencijose, patentuose ir kt.), kad asmuo teikia finansines paslaugas;
-
-
-
-
-2) veikla, kurios pagrindinę dalį sudaro finansinių paslaugų teikimas. 
-Straipsnio punkto pakeitimai:
-Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
- 
-
-
 
 
 
@@ -1391,18 +1378,15 @@ Finansų įstaigos organus, jų struktūrą, sudėtį, sudarymo, sušaukimo ir d
 
 
 
-18 straipsnis. Finansų įstaigos kolegialūs valdymo organai
+18 straipsnis. Finansų įstaigos kolegialių organų posėdžiai
 
 
-1. Finansų įstaigos kolegialūs valdymo organai yra stebėtojų taryba ir valdyba.
+Finansų įstaigos kolegialių organų posėdžiai protokoluojami Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, bei kitų įstatymų nustatyta tvarka. 
 
 
-
-
-2. Finansų įstaigos stebėtojų tarybos ir valdybos posėdžiai protokoluojami Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, bei kitų įstatymų nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
  
-
-
 
 
 
@@ -2506,7 +2490,10 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 
 
-3. Finansų įstaiga privalo iki einamųjų finansinių metų pirmojo pusmečio pabaigos sudaryti sutartį dėl metinių finansinių ataskaitų audito su visuotinio finansų įstaigos dalyvių susirinkimo išrinkta audito įmone ir pateikti ją priežiūros institucijai, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai.
+3. Finansų įstaiga privalo iki einamųjų finansinių metų pirmojo pusmečio pabaigos sudaryti sutartį dėl metinės finansinės atskaitomybės audito su visuotinio finansų įstaigos dalyvių susirinkimo išrinkta audito įmone, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
+ 
 
 
 Straipsnio pakeitimai:
@@ -2921,7 +2908,8 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+ 
  
 
 
@@ -2937,22 +2925,23 @@ priedas
  
 
 
-1. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
 
 
 
 
-2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
+2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
 
 
 
 
-3.   2013 m.   birželio  26 d.  Europos   Parlamento  ir  Tarybos   direktyva   2013/36/ES   dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos  direktyvos  2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+3. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
 
 
 Priedo pakeitimai:
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
+Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
  
  
  
@@ -3082,3 +3071,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4, 45, 46 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 3 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 18, 44 straipsnių ir priedo pakeitimo įstatymas
