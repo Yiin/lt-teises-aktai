@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2017-11-29 iki 2018-04-27
+Suvestinė redakcija nuo 2018-04-28 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -4011,7 +4011,10 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 
 
 
-10) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
+10) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1098, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06739
+ 
 
 
 
@@ -4049,7 +4052,10 @@ Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 
 
-2) užsienio banko filialui laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
+2) užsienio banko filialui laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1098, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06739
+ 
 
 
 
@@ -4505,23 +4511,22 @@ Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 77 straipsnis. Teisės disponuoti lėšomis ir kitu turtu laikinas apribojimas
 
 
-1. Priežiūros institucijai pritaikius šio Įstatymo 72 straipsnio 1 dalies 9 punkte ar 3 dalies 2 punkte nurodytą poveikio priemonę, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis jo sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu priežiūros institucijos sprendime nurodytu turtu.
-Straipsnio dalies pakeitimai:
-Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+1. Priežiūros institucijai pritaikius šio Įstatymo 72 straipsnio 1 dalies 10 punkte ar 3 dalies 2 punkte nurodytą poveikio priemonę, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis jo sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu priežiūros institucijos sprendime nurodytu turtu.
+
+
+
+
+2. Priežiūros institucija gali laikinai apriboti teisę disponuoti visomis lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir visu kitu turtu ar lėšų ir kito turto dalimi.
+
+
+
+
+3. Priežiūros institucijos sprendimas laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose Lietuvos Respublikoje įsteigtose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu Lietuvos Respublikos teritorijoje esančiu turtu laikomas turto arešto aktu. Jis teisės aktų nustatytais atvejais ir tvarka registruojamas Turto arešto aktų registre. Priežiūros institucijos sprendime turi būti nurodyti duomenys, kurių reikia priežiūros institucijos sprendimui įregistruoti Turto arešto aktų registre. Turto arešto aktų registrą reglamentuojančių teisės aktų nustatytais atvejais priežiūros institucijos sprendimas gali būti Turto arešto aktų registre įregistruotas laikinai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1098, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06739
  
-
-
-
-
-2. Priežiūros institucija gali laikinai apriboti teisę disponuoti visomis lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir visu kitu turtu ar lėšų ir kito turto dalimi.
-
-
-
-
-3. Priežiūros institucijos sprendimas laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose Lietuvos Respublikoje įsteigtose kredito įstaigose, ir kitu Lietuvos Respublikos teritorijoje esančiu turtu laikomas turto arešto aktu. Jis teisės aktų nustatytais atvejais ir tvarka registruojamas turto arešto aktų registre. Priežiūros institucijos sprendime turi būti nurodyti duomenys, kurių reikia priežiūros institucijos sprendimui įregistruoti turto arešto aktų registre. Turto arešto aktų registrą reglamentuojančių teisės aktų nustatytais atvejais priežiūros institucijos sprendimas gali būti įregistruotas turto arešto aktų registre laikinai.
- 
-
-
 
 
 
@@ -5478,3 +5483,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 73 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16 ir 34 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1098, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06739
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir 77 straipsnių pakeitimo įstatymas
