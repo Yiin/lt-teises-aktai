@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2020-10-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
- 
-TAR pastaba. Pripažinimas kooperatinėms bendrovėms (kooperatyvams), kurių prašymai pripažinti žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pateikti iki įstatymo Nr.XII-2266 įsigaliojimo (2016-11-01), suteikiamas pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas. Kooperatinėms bendrovėms (kooperatyvams), kurios žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažintos pagal iki įstatymo Nr. XII-2266 įsigaliojimo (2016-11-01) galiojusias nuostatas, šio įstatymo nuostatos netaikomos iki suteikto pripažinimo laikotarpio pabaigos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
-Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 2 ir 3-1 straipsnių pakeitimo ir Įstatymo papildymo 3-2 straipsniu įstatymas
  
 Nauja redakcija nuo 2003-01-01:
 Nr. IX-903, 2002-05-28, Žin. 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
@@ -557,6 +552,75 @@ Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00X
  
 
 
+
+
+
+
+61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
+
+
+1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie kooperatinės bendrovės narius:
+
+
+1) nario fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta (jeigu kooperatinės bendrovės narys fizinis asmuo kooperatinei bendrovei yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai); nario juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė. Teikiant duomenis apie narį užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+
+
+
+
+2) asmens priėmimo į kooperatinės bendrovės narius data;
+
+
+
+
+3) nario pajaus dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis);
+
+
+
+
+4) narystės pasibaigimo kooperatinėje bendrovėje data.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 1–4 punktuose nurodyti duomenys apie kooperatinės bendrovės narius Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 kalendorines dienas nuo kooperatinės bendrovės įregistravimo Juridinių asmenų registre dienos, o pasikeitus kooperatinės bendrovės nariams ar jų duomenims, – ne vėliau kaip per 5 kalendorines dienas nuo šių pasikeitimų dienos.
+
+
+
+
+3. Už kooperatinės bendrovės narių duomenų pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsako kooperatinės bendrovės administracijos vadovas. 
+
+
+
+
+4. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
+
+
+1) teikiama kooperatinės bendrovės nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
+
+
+
+
+2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
+
+
+
+
+3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams, kitoms valstybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti.
+
+
+
+
+
+
+5. Pagal šį įstatymą įregistruotos kredito unijos, kurios yra įsteigtos ir savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos kredito unijų įstatymu, Lietuvos Respublikos finansų įstaigų įstatymu, šiuo įstatymu, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui duomenų apie savo narius neteikia.
+TAR pastaba. Kooperatinės bendrovės, įsteigtos iki įstatymo Nr. XIII-744 įsigaliojimo (2018-05-01), 61 straipsnio 1 dalies 1–4 punktuose nurodytus duomenis Juridinių asmenų dalyvių informacinės sistemos tvarkytojui turi pateikti iki 2018 m. gruodžio 31 d.
+
+
+Papildyta straipsniu:
+Nr. XIII-744, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18512
+ 
 
 
 
@@ -1644,6 +1708,7 @@ KOOPERATINIŲ BENDROVIŲ SĄJUNGOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
 
@@ -1722,3 +1787,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2266, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06349
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 2 ir 3-1 straipsnių pakeitimo ir Įstatymo papildymo 3-2 straipsniu įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-744, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18512
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 papildymo 6-1 straipsniu įstatymas
