@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-07-15 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
  
@@ -46,7 +46,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taikomas prekybai energijos ištekliais tiek, kiek to nereglamentuoja Lietuvos Respublikos elektros energetikos įstatymas (toliau – Elektros energetikos įstatymas), Lietuvos Respublikos gamtinių dujų įstatymas (toliau – Gamtinių dujų įstatymas), Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas (toliau – Atsinaujinančių išteklių energetikos įstatymas) ir (ar) kiti įstatymai, nustatantys specialiuosius reikalavimus prekybai energija ar energijos ištekliais.
+2. Šis įstatymas taikomas prekybai energijos ištekliais ir šilumos energija tiek, kiek to nereglamentuoja Lietuvos Respublikos elektros energetikos įstatymas (toliau – Elektros energetikos įstatymas), Lietuvos Respublikos gamtinių dujų įstatymas (toliau – Gamtinių dujų įstatymas), Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas (toliau – Atsinaujinančių išteklių energetikos įstatymas), Lietuvos Respublikos šilumos ūkio įstatymas (toliau – Šilumos ūkio įstatymas) ir (ar) kiti įstatymai, nustatantys specialiuosius reikalavimus prekybai energija ar energijos ištekliais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+ 
 
 
 
@@ -111,10 +114,11 @@ Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 
 
 
-9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Atsinaujinančių išteklių energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Lietuvos Respublikos šilumos ūkio įstatyme ir kituose teisės aktuose.
+9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Atsinaujinančių išteklių energetikos įstatyme, Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Šilumos ūkio įstatyme ir kituose teisės aktuose. 
 Straipsnio dalies pakeitimai:
 Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
  
 
 
@@ -400,13 +404,17 @@ Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 
 
 
-10 straipsnis. Energijos išteklių birža
+10 straipsnis. Energijos išteklių birža ir energijos išteklių biržos operatoriaus veikla 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+ 
 
 
-1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru, gamtinėmis dujomis ir (ar) pagalbiniais instrumentais energijos išteklių biržoje.
+1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru, gamtinėmis dujomis ir (ar) pagalbiniais instrumentais energijos išteklių biržoje ir Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
  
 
 
@@ -616,14 +624,36 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 
 
-10) pagal kompetenciją užtikrina, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų įpareigojimų ir reikalavimų prekybai energijos ištekliais.
+10) Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+ 
+
+
+
+
+11) valdo, palaiko ir administruoja šilumos aukciono duomenų valdymo sistemą ir šilumos aukciono informacinę sistemą; 
+Papildyta straipsnio punktu:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+ 
+
+
+
+
+12) pagal kompetenciją užtikrina, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų įpareigojimų ir reikalavimų prekybai energijos ištekliais ir šilumos aukcionams. 
+Papildyta straipsnio punktu:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+ 
 
 
 
 
 
 
-3. Energijos išteklių biržos operatorius neturi teisės verstis komercine energetikos veikla, susijusia su energijos išteklių ir (ar) energijos žvalgymu, gavyba, perdirbimu, gamyba, laikymu, perdavimu, skirstymu, tiekimu, prekyba, taip pat kita reguliuojama veikla energetikos sektoriuje, nesusijusia su energijos išteklių biržos administravimu ir organizavimu.
+3. Energijos išteklių biržos operatorius neturi teisės verstis komercine energetikos veikla, susijusia su energijos išteklių ir (ar) energijos žvalgymu, gavyba, perdirbimu, gamyba, laikymu, perdavimu, skirstymu, tiekimu, prekyba, taip pat kita reguliuojama veikla energetikos sektoriuje, nesusijusia su energijos išteklių biržos ir (ar) šilumos aukcionų administravimu ir organizavimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+ 
 
 
 
@@ -681,20 +711,22 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 16 straipsnis. Energijos išteklių biržos operatoriaus veiklos finansavimas
 
 
-1. Energijos išteklių biržos operatoriaus pajamas sudaro energijos išteklių biržos dalyvių įmokos už energijos išteklių biržos operatoriaus teikiamas paslaugas. Energijos išteklių biržos operatorius rengia ir, suderinęs su Komisija, tvirtina energijos išteklių biržos operatoriaus teikiamų paslaugų įkainius, taikomus energijos išteklių biržos dalyviams.
+1. Energijos išteklių biržos operatoriaus pajamas sudaro energijos išteklių biržos dalyvių ir šilumos aukcionų dalyvių, teikiančių pasiūlymus gaminti ar parduoti šilumos energiją, įmokos už energijos išteklių biržos operatoriaus teikiamas paslaugas. Energijos išteklių biržos operatorius rengia ir, suderinęs su Komisija, tvirtina energijos išteklių biržos operatoriaus teikiamų paslaugų įkainius, taikomus energijos išteklių biržos dalyviams ir šilumos aukcionų dalyviams.
 
 
 
 
-2. Energijos išteklių biržos operatorius turi teisę gauti papildomų pajamų, vykdydamas konsultacinę, finansinę ar kitą teisėtą ūkinę komercinę veiklą, nesusijusią su licencijuojama veikla, taip pat kitų teisėtų pajamų teisės aktų nustatyta tvarka, jeigu tokia veikla neprieštarauja šio įstatymo 13 straipsnio 3 dalyje nustatytiems energijos išteklių biržos operatoriaus veiklos ribojimams ir konfidencialumo įsipareigojimams.
+2. Energijos išteklių biržos operatorius turi teisę gauti papildomų pajamų, vykdydamas konsultacinę, finansinę ar kitą teisėtą ūkinę komercinę veiklą, nesusijusią su licencijuojama veikla, taip pat kitų teisėtų pajamų teisės aktų nustatyta tvarka, jeigu tokia veikla neprieštarauja šio įstatymo 13 straipsnio 3 dalyje nustatytiems energijos išteklių biržos operatoriaus veiklos ribojimams ir konfidencialumo įsipareigojimams. 
 
 
 
 
-3. Pasibaigus finansiniams metams, energijos išteklių biržos operatorius privalo pateikti Komisijai finansinių ataskaitų rinkinį, kuriame būtų aiškiai atskirtos energijos išteklių biržos operatoriaus veiklos sąnaudos ir pajamos, gautos iš energijos išteklių biržos dalyvių įmokų už suteiktas paslaugas, ir papildomai gautos pajamos. Įvertinusi energijos išteklių biržos operatoriaus veiklos sąnaudų ir gautų pajamų santykį, Komisija gali pareikalauti peržiūrėti energijos išteklių biržos operatoriaus patvirtintas įmokas už jo teikiamas paslaugas, užtikrinant, kad energijos išteklių biržos dalyvių mokamos įmokos būtų pagrįstos energijos išteklių biržos operatoriaus veiklos sąnaudomis, atsižvelgiant į protingumo kriterijų atitinkančią pelno normą.
+3. Pasibaigus finansiniams metams, energijos išteklių biržos operatorius privalo pateikti Komisijai finansinių ataskaitų rinkinį, kuriame būtų aiškiai atskirtos energijos išteklių biržos operatoriaus veiklos sąnaudos ir pajamos, gautos iš energijos išteklių biržos dalyvių ir šilumos aukcionų dalyvių įmokų už suteiktas paslaugas, ir papildomai gautos pajamos. Įvertinusi energijos išteklių biržos operatoriaus veiklos sąnaudų ir gautų pajamų santykį, Komisija gali pareikalauti peržiūrėti energijos išteklių biržos operatoriaus patvirtintas įmokas už jo teikiamas paslaugas, užtikrinant, kad energijos išteklių biržos dalyvių ir šilumos aukcionų dalyvių mokamos įmokos būtų pagrįstos energijos išteklių biržos operatoriaus veiklos sąnaudomis, atsižvelgiant į protingumo kriterijų atitinkančią pelno normą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
  
-
-
 
 
 
@@ -1145,3 +1177,8 @@ Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 2, 8, 9, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2498, 2016-06-28, paskelbta TAR 2016-07-04, i. k. 2016-18459
 Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1, 2, 10, 13 ir 16 straipsnių pakeitimo įstatymas
