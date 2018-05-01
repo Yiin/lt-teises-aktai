@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2017-07-12 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2020-04-24
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
  
@@ -87,7 +87,10 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 
 
-8. Patentinis patikėtinis – fizinis asmuo, Lietuvos Respublikos Vyriausybės patvirtintų Patentinių patikėtinių nuostatų nustatyta tvarka įrašytas į Lietuvos Respublikos patentinių patikėtinių registrą.
+8. Neteko galios 2018-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
+ 
 
 
 
@@ -642,7 +645,10 @@ DIZAINO REGISTRAVIMAS
 
 
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių registrą.
+2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
+ 
 
 
 
@@ -2430,8 +2436,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
- 
 Lietuvos Respublikos
 dizaino įstatymo
 priedas
@@ -2440,24 +2444,22 @@ priedas
  
 
 
-1. 1998 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva dėl teisinės dizaino apsaugos 98/71/EB.
+1. 1998 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva dėl teisinės dizaino apsaugos 98/71/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 21 tomas, p. 120).
 
 
 
 
-2. 2001 m. gruodžio 12 d. Tarybos reglamentas dėl Bendrijos dizainų (EB) Nr. 6/2002.
+2. 2001 m. gruodžio 12 d. Tarybos reglamentas dėl Bendrijos dizaino (EB) Nr. 6/2002 (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 142).
 
 
 
 
-3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo. 
-Papildyta straipsnio dalimi:
-Nr. X-650, 2006-06-08, Žin., 2006, Nr. 72-2669 (2006-06-28), i. k. 1061010ISTA000X-650
- 
+3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
 
 
 Priedo pakeitimai:
 Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA0IX-2205
+Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
  
  
  
