@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -42,10 +42,12 @@ BENDROJI DALIS
 1 straipsnis. Statuto paskirtis
 
 
-Šis statutas nustato konsulinių pareigūnų įgaliojimus ir atsakomybę, konsulinių įstaigų veiklos pagrindus, konsulinės pagalbos teikimo ir kitų konsulinių funkcijų atlikimo sąlygas ir tvarką, taip pat konsulinės pagalbos teikimo Europos Sąjungos piliečiams principus.
+Šis statutas nustato konsulinių pareigūnų įgaliojimus ir atsakomybę, konsulinių įstaigų veiklos pagrindus, konsulinės pagalbos teikimo, valstybės materialinės pagalbos ir kitų konsulinių funkcijų atlikimo sąlygas ir tvarką, taip pat konsulinės pagalbos išlaidų atlyginimo sąlygas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
  
-
-
 
 
 
@@ -58,12 +60,18 @@ BENDROJI DALIS
 
 
 
-2. Konsulinės funkcijos – 1963 m. Vienos konvencijoje dėl konsulinių santykių, kitose Lietuvos Respublikos tarptautinėse sutartyse ir šiame statute numatytos funkcijos, kurias atlieka konsuliniai pareigūnai Lietuvos Respublikos piliečių, nuolat Lietuvos Respublikoje gyvenančių asmenų be pilietybės, juridinių asmenų ar užsieniečių prašymu ar be jo.
+2. Konsulinės funkcijos – 1963 m. Vienos konvencijoje dėl konsulinių santykių, kitose Lietuvos Respublikos tarptautinėse sutartyse ir šiame statute numatyta konsulinių pareigūnų atliekama veikla. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
 
 
-3. Konsulinė pagalba – konsulinės funkcijos, kurias konsuliniai pareigūnai atlieka Lietuvos Respublikos piliečių prašymu ar be jo, kai paaiškėja aplinkybės, kad asmuo pateko į nelaimę, nukentėjo nuo nusikaltimų ar yra bejėgiškos būklės arba susidarius kitoms šio statuto numatytoms aplinkybėms. Konsulinė pagalba taip pat teikiama Europos Sąjungos piliečių prašymu šio statuto IV skyriuje numatytomis sąlygomis bei užsienio valstybėje teisėtai esantiems asmenims be pilietybės, turintiems leidimą nuolat gyventi Lietuvos Respublikoje.
+3. Konsulinė pagalba – konsulinės funkcijos, kurias atlieka konsuliniai pareigūnai Lietuvos Respublikos piliečiui užsienio valstybėje patekus į nelaimę, jį sulaikius, jam nukentėjus nuo nusikaltimo, jam mirus, taip pat susidarius kitoms šio statuto numatytoms aplinkybėms. Konsulinė pagalba šiame statute numatytais atvejais teikiama ir užsienio valstybėje teisėtai esantiems asmenims be pilietybės, turintiems leidimą gyventi Lietuvos Respublikoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
 
@@ -74,6 +82,14 @@ BENDROJI DALIS
 
 
 5. Konsulinė apygarda – konsulinei įstaigai Lietuvos Respublikos užsienio reikalų ministro, gavus priimančiosios valstybės sutikimą, priskirta aptarnauti priimančiosios valstybės teritorija, jos dalis arba administracinis vienetas.
+ 
+
+
+
+
+6. Neatstovaujamas Europos Sąjungos pilietis – bet kuris Europos Sąjungos valstybės narės (toliau – Europos Sąjungos valstybė), kuri trečiojoje valstybėje neturi diplomatinės atstovybės ar konsulinės įstaigos arba kurios trečiojoje valstybėje esanti diplomatinė atstovybė, konsulinė įstaiga ar garbės konsulinis pareigūnas neturi realių galimybių suteikti konsulinę pagalbą konkrečiu atveju, pilietis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
  
 
 
@@ -221,41 +237,50 @@ Lietuvos Respublikos konsuliniais pareigūnais gali būti:
 10 straipsnis. Konsulinio pareigūno įgaliojimai
 
 
-1. Lietuvos Respublikos užsienio reikalų ministras, paskirdamas konsulinį pareigūną dirbti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, gali pavesti jam atlikti visas arba dalį konsulinių funkcijų. Konsulinę pagalbą teikia visi konsuliniai pareigūnai.
+1. Lietuvos Respublikos užsienio reikalų ministras, paskirdamas diplomatą dirbti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, gali pavesti jam atlikti visas arba dalį konsulinių funkcijų. Konsulinę pagalbą teikia visi konsuliniai pareigūnai.
 
 
 
 
-2. Diplomatinės atstovybės ar konsulinės įstaigos vadovas yra atsakingas už konsulinių funkcijų atlikimo organizavimą ir priežiūrą. Konsulinis pareigūnas atsako už sprendimus, kuriuos jis pagal savo įgaliojimus atlikdamas konsulines funkcijas priima savarankiškai. Diplomatinės atstovybės ar konsulinės įstaigos vadovas gali pats atlikti konsulines funkcijas, tokiais atvejais jis veikia kaip konsulinis pareigūnas ir atsako už priimtus sprendimus.
+2. Diplomatinės atstovybės ar konsulinės įstaigos vadovas yra atsakingas už konsulinių funkcijų atlikimo organizavimą ir priežiūrą. Konsulinių funkcijų atlikimo organizavimo ir priežiūros tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
 
 
 
 
-3. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka gali atsisakyti atlikti konsulines funkcijas, kai kreipiasi asmuo, kuris yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba veiksmu, žodžiu ar raštu rodo nepagarbą Lietuvos valstybei ar savo funkcijas atliekančiam konsuliniam pareigūnui.
+3. Konsulinis pareigūnas atsako už sprendimus, kuriuos jis pagal savo įgaliojimus atlikdamas konsulines funkcijas priima savarankiškai. Diplomatinės atstovybės ar konsulinės įstaigos vadovas gali pats atlikti konsulines funkcijas, tokiais atvejais jis veikia kaip konsulinis pareigūnas ir atsako už priimtus sprendimus.
 
 
 
 
-4. Konsulinis pareigūnas veikia tik įstatymų nustatyta tvarka ir negali veikti kaip asmens, kuris kreipiasi konsulinės pagalbos, gynėjas ar teisinis atstovas.
+4. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka gali atsisakyti atlikti konsulines funkcijas, kai kreipiasi asmuo, kuris yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba veiksmu, žodžiu ar raštu rodo nepagarbą Lietuvos valstybei ar savo funkcijas atliekančiam konsuliniam pareigūnui.
+
+
+
+
+5. Konsulinis pareigūnas veikia tik įstatymų nustatyta tvarka ir negali veikti kaip asmens, kuris kreipiasi konsulinės pagalbos, gynėjas ar teisinis atstovas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
  
 
 
 
 
+11 straipsnis. Reikalavimai diplomatui, kuriam pavedama atlikti konsulines funkcijas
 
 
-11 straipsnis. Konsuliniams pareigūnams keliami profesiniai reikalavimai
-
-
-1. Diplomatas, kuriam pavedama atlikti konsulines funkcijas, turi atitikti Lietuvos Respublikos užsienio reikalų ministro nustatytus profesinius reikalavimus ir prieš jo paskyrimą dirbti užsienio valstybėje turi būti išklausęs konsulinių pareigūnų mokymo programą.
+1. Diplomatas, kuriam pavedama atlikti konsulines funkcijas, turi būti baigęs konsulinių pareigūnų mokymus ir išlaikęs gebėjimų atlikti visas arba dalį konsulinių funkcijų testą.
 
 
 
 
-2. Konsulinių pareigūnų mokymo tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
+2. Konsulinių pareigūnų mokymų organizavimo ir gebėjimų atlikti visas arba dalį konsulinių funkcijų patikrinimo tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
  
-
-
 
 
 
@@ -290,7 +315,6 @@ Lietuvos Respublikos konsuliniais pareigūnais gali būti:
 
 
 2. Garbės konsulinis pareigūnas nėra valstybės tarnautojas ir negauna atlyginimo iš Lietuvos valstybės biudžeto.
- 
 
 
 
@@ -323,7 +347,10 @@ KONSULINĖ PAGALBA
 
 
 
-2. Kilus grėsmei užsienio valstybės teritorijoje esančio Lietuvos Respublikos piliečio gyvybei ar saugumui, konsulinis pareigūnas gali, jei Lietuvos Respublikos pilietis sutinka, padėti organizuojant jo evakavimą iš krizės zonos į artimiausią saugią zoną.
+2. Kilus grėsmei užsienio valstybės teritorijoje esančio Lietuvos Respublikos piliečio gyvybei ar saugumui, konsulinis pareigūnas gali, jeigu Lietuvos Respublikos pilietis sutinka, padėti organizuojant jo ir jo šeimos narių, kurie nėra Europos Sąjungos valstybės piliečiai, evakavimą iš krizės zonos į artimiausią saugią zoną. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
 
@@ -504,21 +531,40 @@ Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
 22 straipsnis. Valstybės materialinė pagalba
 
 
-1. Valstybės materialinė pagalba teikiama užsienio valstybėse esantiems Lietuvos Respublikos piliečiams, kurie susirgo arba susižalojo, taip pat jeigu nukentėjo dėl nelaimingo atsitikimo, įvykdytos nusikalstamos veikos ar kito teisės pažeidimo. Valstybės materialinė pagalba teikiama, kai nėra galimybių nukentėjusiam Lietuvos Respublikos piliečiui gauti pagalbą iš kitų šaltinių, ir yra grąžintina.
+1. Kai užsienio valstybėje esantis Lietuvos Respublikos pilietis pateko į nelaimę, nukentėjo dėl nelaimingo atsitikimo, įvykdytos nusikalstamos veikos ar kito teisės pažeidimo ir neturi galimybių gauti pagalbos iš kitų šaltinių, jam gali būti suteikta valstybės materialinė pagalba, kuri skiriama Lietuvos Respublikos piliečiui suteiktos būtinosios medicinos pagalbos, jo grįžimo į Lietuvos Respubliką ir būtinoms iki grįžimo į Lietuvos Respubliką pragyvenimo išlaidoms padengti.
 
 
 
 
-2. Jeigu, pasibaigus valstybės materialinės pagalbos grąžinimo terminui, Lietuvos Respublikos piliečiui suteikta valstybės materialinė pagalba nėra grąžinta, Lietuvos Respublikos užsienio reikalų ministras priima sprendimą dėl Lietuvos Respublikos piliečiui, nukentėjusiam užsienio valstybėje, suteiktos valstybės materialinės pagalbos išieškojimo. Lietuvos Respublikos užsienio reikalų ministro sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+2. Valstybės materialine pagalba taip pat laikoma kitos Europos Sąjungos valstybės Lietuvos Respublikos piliečiui, kaip neatstovaujamam Europos Sąjungos piliečiui, suteiktos konsulinės pagalbos išlaidos, kurias turėtų padengti tos Europos Sąjungos valstybės piliečiai esant toms pačioms sąlygoms, atlygintos šio statuto 221 straipsnyje nurodytomis valstybės lėšomis.
 
 
 
 
-3. Valstybės materialinės pagalbos Lietuvos Respublikos piliečiams, nukentėjusiems užsienio valstybėse, teikimo, grąžinimo tvarką ir terminus nustato Lietuvos Respublikos Vyriausybė.
+3. Valstybės materialinė pagalba yra grąžintina. Jeigu per 3 mėnesius nuo sprendimo suteikti valstybės materialinę pagalbą priėmimo ar nuo Lietuvos Respublikos piliečiui, kaip neatstovaujamam Europos Sąjungos piliečiui, suteiktos konsulinės pagalbos išlaidų kitai Europos Sąjungos valstybei atlyginimo Lietuvos Respublikos piliečiui suteikta valstybės materialinė pagalba nėra grąžinta, Lietuvos Respublikos užsienio reikalų ministras priima sprendimą dėl Lietuvos Respublikos piliečiui suteiktos valstybės materialinės pagalbos išieškojimo. Lietuvos Respublikos užsienio reikalų ministro sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+4. Valstybės materialinės pagalbos Lietuvos Respublikos piliečiams, nukentėjusiems užsienio valstybėse, teikimo ir grąžinimo tvarką nustato Lietuvos Respublikos užsienio reikalų ministras. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1702, 2015-05-14, paskelbta TAR 2015-05-28, i. k. 2015-08222
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
+
+
+
+
+221 straipsnis. Konsulinės pagalbos išlaidų atlyginimas Europos Sąjungos valstybei
+
+
+Gavus Europos Sąjungos valstybės prašymą atlyginti Lietuvos Respublikos piliečiui, kaip neatstovaujamam Europos Sąjungos piliečiui, suteiktos konsulinės pagalbos išlaidas, kurias turėtų padengti tos Europos Sąjungos valstybės piliečiai esant toms pačioms sąlygoms, jos Europos Sąjungos valstybei Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka ne vėliau kaip per 12 mėnesių atlyginamos iš Lietuvos Respublikos užsienio reikalų ministerijai Lietuvos Respublikos valstybės biudžete numatytų asignavimų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
  
 
 
@@ -630,7 +676,10 @@ Konsulinis pareigūnas priima asmens prašymą išduoti leidimą gyventi Lietuvo
 27 straipsnis. Lietuvos Respublikos piliečių konsulinė registracija
 
 
-1. Konsulinis pareigūnas konsulinėje apygardoje gyvenančio Lietuvos Respublikos piliečio pageidavimu jo duomenis įrašo į diplomatinės atstovybės ar konsulinės įstaigos duomenų bazę. Šie duomenys naudojami tik Lietuvos Respublikos piliečio nurodytais tikslais.
+1. Konsulinis pareigūnas užsienio valstybėje gyvenančio Lietuvos Respublikos piliečio, kuris kreipiasi dėl konsulinių funkcijų atlikimo, duomenis įrašo į Konsulinių procedūrų valdymo informacinę sistemą. Į Konsulinių procedūrų valdymo informacinę sistemą duomenys įrašomi ir užsienio valstybėje gyvenančio Lietuvos Respublikos piliečio prašymu. Šie duomenys naudojami tik konsulinei pagalbai šio statuto 14 straipsnyje nurodytais atvejais teikti, o įrašant duomenis Lietuvos Respublikos piliečio prašymu, – jo nurodytais su konsulinių funkcijų vykdymu susijusiais tikslais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
 
@@ -870,7 +919,10 @@ Konsulinis pareigūnas gali priimti asmens prašymus ir kitus dokumentus, kurie 
 38 straipsnis. Lietuvos Respublikos piliečių interesų apsauga palikimo užsienio valstybėje atsiradimo atveju
 
 
-1. Jei užsienio valstybės institucija praneša arba konsulinis pareigūnas kitaip sužino apie turtą, kurį Lietuvos Respublikos pilietis gali turėti teisę paveldėti, jis apie tai praneša Lietuvos Respublikos užsienio reikalų ministerijai. Lietuvos Respublikos užsienio reikalų ministerija šią informaciją perduoda Lietuvos Respublikos teisingumo ministerijai, o ši praneša asmeniui, turinčiam teisę paveldėti turtą.
+1. Jeigu užsienio valstybės institucija praneša arba konsulinis pareigūnas kitaip sužino apie konsulinėje apygardoje esantį turtą, kurį Lietuvos Respublikos pilietis gali turėti teisę paveldėti, jis apie tai informuoja jam nurodytą ar žinomą įpėdinį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
 
@@ -915,24 +967,34 @@ Konsulinis pareigūnas, gavęs informaciją apie jo konsulinėje apygardoje pras
 
 
 IV SKYRIUS
-KONSULINĖS PAGALBOS TEIKIMAS EUROPOS SĄJUNGOS PILIEČIAMS
+konsulinės pagalbos TEIKIMAS NEATSTOVAUJAMIEMS EUROPOS SĄJUNGOS PILIEČIAMS
  
 
 
-41 straipsnis. Konsulinės pagalbos teikimo Europos Sąjungos piliečiams bendrosios nuostatos
+41 straipsnis. Konsulinės pagalbos teikimo neatstovaujamiems Europos Sąjungos piliečiams sąlygos
 
 
-1. Kiekvienas Europos Sąjungos pilietis trečiosios valstybės teritorijoje, kurioje valstybei, kurios pilietis jis yra, nėra atstovaujama, turi teisę gauti Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos teikiamą konsulinę pagalbą tomis pačiomis sąlygomis kaip ir Lietuvos Respublikos piliečiai.
-
-
-
-
-2. Finansinė pagalba Europos Sąjungos piliečiams gali būti teikiama tik ypatingais atvejais, iš anksto gavus Europos Sąjungos valstybės, kurios pilietis jis yra, kompetentingos institucijos leidimą.
+1. Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos konsulinę pagalbą neatstovaujamiems Europos Sąjungos piliečiams teikia tomis pačiomis sąlygomis kaip ir Lietuvos Respublikos piliečiams. Konsulinė pagalba kartu su neatstovaujamu Europos Sąjungos piliečiu esantiems jo šeimos nariams, kurie nėra Europos Sąjungos valstybės piliečiai, teikiama tokiu pačiu mastu ir tomis pačiomis sąlygomis, kaip ir Lietuvos Respublikos piliečių šeimos nariams, kurie nėra Europos Sąjungos valstybės piliečiai.
 
 
 
 
-3. Prievolė grąžinti finansinę pagalbą įforminama dokumentu, kurį Lietuvos Respublikos užsienio reikalų ministerija perduoda atitinkamos Europos Sąjungos valstybės narės kompetentingai institucijai.
+2. Neatstovaujami Europos Sąjungos piliečiai, norintys gauti konsulinę pagalbą, turi įrodyti, kad jie yra Europos Sąjungos valstybių piliečiai, pateikdami savo pasą ar asmens tapatybės kortelę. Jei šie dokumentai negali būti pateikti, pilietybė gali būti įrodoma bet kuriomis kitomis priemonėmis, Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms tikrinant pateiktus duomenis Europos Sąjungos valstybės, kurios pilietis pareiškėjas tvirtina esąs, institucijose arba diplomatinėse atstovybėse ar konsulinėse įstaigose. Kartu su neatstovaujamu Europos Sąjungos piliečiu esančių jo šeimos narių, kurie nėra Europos Sąjungos valstybės piliečiai, tapatybė ir šeimos ryšiai gali būti įrodomi bet kuriomis priemonėmis, taip pat ir Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms tikrinant pateiktus duomenis neatstovaujamo Europos Sąjungos piliečio valstybės institucijose arba diplomatinėse atstovybėse ar konsulinėse įstaigose.
+
+
+
+
+3. Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, prieš teikdamos konsulinę pagalbą neatstovaujamiems Europos Sąjungos piliečiams, konsultuojasi su jų pilietybės valstybe, išskyrus ypatingos skubos atvejus. 
+
+
+
+
+4. Konsulinė pagalba neatstovaujamam Europos Sąjungos piliečiui neteikiama, jeigu neatstovaujamo Europos Sąjungos piliečio pilietybės valstybė kreipiasi dėl jo konsulinės pagalbos prašymo ar bylos perdavimo ir patvirtina, kad konsulinę pagalbą neatstovaujamam Europos Sąjungos piliečiui teikia pati.
+
+
+
+
+5. Neatstovaujami Europos Sąjungos piliečiai privalo pateikti Lietuvos Respublikos diplomatinėms atstovybėms ar konsulinėms įstaigoms Lietuvos Respublikos užsienio reikalų ministro nustatytos formos įsipareigojimą atlyginti Lietuvos Respublikos jiems suteiktos konsulinės pagalbos išlaidas, kurias turėtų padengti Lietuvos Respublikos piliečiai esant toms pačioms sąlygoms.
  
 
 
@@ -940,34 +1002,27 @@ KONSULINĖS PAGALBOS TEIKIMAS EUROPOS SĄJUNGOS PILIEČIAMS
 
 
 
-42 straipsnis. Konsulinės pagalbos teikimo Europos Sąjungos piliečiams sąlygos
+42 straipsnis. Konsulinės pagalbos teikimo neatstovaujamiems Europos Sąjungos piliečiams tvarka
 
 
-1. Pagal šio skyriaus nuostatas konsulinė pagalba teikiama tik esant visoms šioms sąlygoms:
-
-
-1) asmuo yra vienos iš Europos Sąjungos valstybių narių pilietis;
+1. Konsulinės pagalbos teikimo neatstovaujamiems Europos Sąjungos piliečiams tvarką nustato Lietuvos Respublikos užsienio reikalų ministras.
 
 
 
 
-2) Europos Sąjungos pilietis pateko į sudėtingą padėtį ne Europos Sąjungos valstybėje narėje ir jam reikia konsulinės pagalbos;
+2. Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, Lietuvos Respublikos užsienio reikalų ministerijai pritarus, savo konsulinėje apygardoje gali sudaryti susitarimus su kitų Europos Sąjungos valstybių diplomatinėmis atstovybėmis ar konsulinėmis įstaigomis dėl funkcijų teikiant konsulinę pagalbą neatstovaujamiems Europos Sąjungos piliečiams pasiskirstymo.
 
 
 
 
-3) buvimo valstybėje nėra Europos Sąjungos valstybės, kurios pilietis jis yra, diplomatinės atstovybės ar konsulinės įstaigos.
+3. Dėl Lietuvos Respublikos garbės konsulinio pareigūno galimybės suteikti konsulinę pagalbą neatstovaujamiems Europos Sąjungos piliečiams ir tokios pagalbos apimties kiekvienu konkrečiu atveju sprendžia Lietuvos Respublikos užsienio reikalų ministerija, įvertindama susidariusią situaciją, konsultuodamasi su Lietuvos Respublikos garbės konsuliniu pareigūnu ir atsižvelgdama į jo galimybes tokią pagalbą suteikti.
 
 
 
 
-
-
-2. Europos Sąjungos pilietybė įrodoma pateikus pasą ar tapatybės kortelę. Jei šie dokumentai pamesti ar pavogti, gali būti pateiktas ir kitas pilietybės įrodymas, kurį prireikus patvirtintų valstybės, kurios pilietis jis yra, institucijos arba šiai valstybei atstovaujanti artimiausia diplomatinė atstovybė ar konsulinė įstaiga.
-
-
-
-
+Skyriaus pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
 
@@ -999,7 +1054,10 @@ priedas
  
 
 
-1. 1995 m. gruodžio 19 d. Taryboje posėdžiavusių valstybių narių Vyriausybių atstovų sprendimas 95/553/EB dėl Europos Sąjungos piliečių gynybos, vykdomos diplomatinių atstovybių ir konsulinių įstaigų.
+1. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/637 dėl koordinavimo ir bendradarbiavimo priemonių, skirtų neatstovaujamų Sąjungos piliečių konsulinei apsaugai trečiosiose šalyse palengvinti ir kuria panaikinamas Sprendimas 95/553/EB (OL 2015 L 106, p. 1). 
+Punkto pakeitimai:
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+ 
 
 
  
@@ -1060,3 +1118,8 @@ Lietuvos Respublikos konsulinio statuto Nr. I-886 31 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-760, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18812
 Lietuvos Respublikos konsulinio statuto Nr. I-886 21 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
+Lietuvos Respublikos konsulinio statuto 1, 2, 10, 11, 14, 22, 27, 38 straipsnių, IV skyriaus ir priedo pakeitimo ir Statuto papildymo 22-1 straipsniu įstatymas
