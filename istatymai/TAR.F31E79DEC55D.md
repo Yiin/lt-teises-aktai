@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -842,7 +842,10 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 
 
-3. Jeigu pastatuose ir inžineriniuose statiniuose statybos darbai vykdomi pagal statybos, rekonstravimo, pastato atnaujinimo (modernizavimo), kapitalinio remonto, supaprastintą statybos, supaprastintą rekonstravimo projektus ar kapitalinio remonto aprašą statiniuose, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija, tokius pastatus ir inžinerinius statinius būtina pritaikyti specialiesiems neįgaliųjų poreikiams, vadovaujantis normatyvinių statybos techninių dokumentų reikalavimais, o viešuosiuose pastatuose, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija, pagal Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus būtina įrengti patalpą kūdikiams žindyti ir pervystyti.
+3. Jeigu pastatuose ir inžineriniuose statiniuose statybos darbai vykdomi pagal statybos, rekonstravimo, pastato atnaujinimo (modernizavimo), kapitalinio remonto, supaprastintą statybos, supaprastintą rekonstravimo projektus, kapitalinio remonto aprašą, paprastojo remonto projektą ar paprastojo remonto aprašą statiniuose, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija, arba keičiama statinių paskirtis į šiame sąraše nurodytą paskirtį, tokius pastatus ir inžinerinius statinius būtina pritaikyti specialiesiems neįgaliųjų poreikiams, vadovaujantis normatyvinių statybos techninių dokumentų reikalavimais, o viešuosiuose pastatuose, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija, pagal Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus būtina įrengti patalpą kūdikiams žindyti ir pervystyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
+ 
 
 
 
@@ -2501,7 +2504,10 @@ STATYBINIAI TYRIMAI. STATINIO PROJEKTAVIMAS
 
 
 
-9) paprastojo remonto aprašas – statinio, išskyrus šios dalies 5 punkte nurodytus statinius, paprastajam remontui;
+9) paprastojo remonto aprašas – statinio, išskyrus šios dalies 5 punkte nurodytus branduolinės energetikos objekto ir kultūros paveldo statinius, paprastajam remontui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
+ 
 
 
 
@@ -2946,7 +2952,10 @@ Nr. XIII-591, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11960
 
 
 
-10. Šio įstatymo 24 straipsnio 1 dalies 4–12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina savivaldybės administracija, kai statybą leidžiantį dokumentą išduoda ji, Kultūros paveldo departamentas prie Kultūros ministerijos, kai statybos darbai projektuojami kultūros paveldo statinyje, jo teritorijoje, kultūros paveldo vietovėje, saugomoje kultūrinėje teritorijoje (kultūriniame arba kompleksiniame (kraštovaizdžio) draustinyje, istoriniame nacionaliniame, istoriniame regioniniame parke) esančiuose statiniuose. Šio įstatymo 24 straipsnio 1 dalies 4 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos. Šio įstatymo 24 straipsnio 1 dalies 4, 6, 7 ir 8 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos ar jo įgaliota institucija. Šio įstatymo 24 straipsnio 1 dalies 4 ir 9 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams pagal kompetenciją tikrina ir Valstybinė energetikos inspekcija prie Energetikos ministerijos, kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos tiekimo inžinerinių tinklų).
+10. Šio įstatymo 24 straipsnio 1 dalies 4–12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina savivaldybės administracija, kai statybą leidžiantį dokumentą išduoda ji, Kultūros paveldo departamentas prie Kultūros ministerijos, kai statybos darbai projektuojami kultūros paveldo statinyje, jo teritorijoje, kultūros paveldo vietovėje, saugomoje kultūrinėje teritorijoje (kultūriniame arba kompleksiniame (kraštovaizdžio) draustinyje, istoriniame nacionaliniame, istoriniame regioniniame parke) esančiuose statiniuose. Šio įstatymo 24 straipsnio 1 dalies 4 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos. Šio įstatymo 24 straipsnio 1 dalies 4, 5, 6, 7, 8, 9 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos ar jo įgaliota institucija. Šio įstatymo 24 straipsnio 1 dalies 4 ir 9 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams pagal kompetenciją tikrina ir Valstybinė energetikos inspekcija prie Energetikos ministerijos, kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos tiekimo inžinerinių tinklų). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
+ 
 
 
 
@@ -5061,3 +5070,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 2 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-591, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11960
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 6, 24 ir 27 straipsnių pakeitimo įstatymas
