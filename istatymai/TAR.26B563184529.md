@@ -20,14 +20,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
- 
-TAR pastaba. Iki įstatymo (Nr. XIII-427)  įsigaliojimo (2017-11-01) pradėti rengti teritorijų planavimo dokumentai, dėl kurių rengimo kreiptasi planavimo sąlygų, baigiami rengti, derinami, tikrinami ir tvirtinami pagal iki šio įstatymo įsigaliojimo galiojusias teritorijų planavimą reglamentuojančias teisės aktų nuostatas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 25 ir 41 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2014-01-01:
 Nr. XII-407, 2013-06-27, Žin., 2013, Nr. 76-3824 (2013-07-16)
@@ -1574,7 +1569,10 @@ SPECIALUSIS TERITORIJŲ PLANAVIMAS
 
 
 
-2. Savivaldybės tarybos patvirtinti savivaldybės lygmens ar vietovės lygmens specialiojo teritorijų planavimo dokumentų (išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentus) sprendiniai konkretizuoja savivaldybės bendrojo plano sprendinius ir savivaldybės tarybos sprendimu specialiojo teritorijų planavimo dokumentai pripažįstami savivaldybės bendrojo plano sudedamąja dalimi. Kitų patvirtintų savivaldybės lygmens ar vietovės lygmens specialiojo teritorijų planavimo dokumentų sprendiniai derinami su atitinkamo lygmens kompleksinio teritorijų planavimo dokumentų sprendiniais, o rengiant, keičiant ar koreguojant savivaldybės lygmens bendrąjį planą integruojami į bendrojo plano sprendinius.
+2. Savivaldybės tarybos patvirtinti savivaldybės lygmens ar vietovės lygmens specialiojo teritorijų planavimo dokumentų (išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentus) sprendiniai konkretizuoja savivaldybės bendrojo plano sprendinius ir savivaldybės tarybos sprendimu specialiojo teritorijų planavimo dokumentai pripažįstami savivaldybės bendrojo plano sudedamąja dalimi. Kitų patvirtintų savivaldybės lygmens ar vietovės lygmens specialiojo teritorijų planavimo dokumentų sprendiniai derinami, išskyrus šio įstatymo 4 straipsnio 4 dalyje nurodytus atvejus, su atitinkamo lygmens kompleksinio teritorijų planavimo dokumentų sprendiniais, o rengiant, keičiant ar koreguojant savivaldybės lygmens bendrąjį planą, integruojami į atitinkamo bendrojo plano sprendinius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-705, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17966
+ 
 
 
 
@@ -1584,7 +1582,17 @@ SPECIALUSIS TERITORIJŲ PLANAVIMAS
 
 
 
-4. Neurbanizuotose ir neurbanizuojamose teritorijose pagrindinė žemės naudojimo paskirtis gali būti keičiama vietovės lygmens specialiojo teritorijų planavimo dokumentu arba žemės valdos projektu, jeigu pagrindinės žemės naudojimo paskirties keitimas neprieštarauja savivaldybės bendrajam planui.
+4. Neurbanizuotose ir neurbanizuojamose teritorijose pagrindinė žemės naudojimo paskirtis gali būti keičiama specialiojo teritorijų planavimo dokumentu arba žemės valdos projektu, jeigu pagrindinės žemės naudojimo paskirties keitimas, išskyrus šio straipsnio 5 dalyje nurodytą atvejį, neprieštarauja savivaldybės lygmens bendrajam planui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-705, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17966
+ 
+
+
+
+
+5. Kai žemės gelmių išteklių telkiniai nenurodyti savivaldybės lygmens bendruosiuose planuose, žemės gelmių naudojimo planai neurbanizuotose ir neurbanizuojamose teritorijose teisės aktų nustatyta tvarka gali būti rengiami ir jais pagrindinė žemės naudojimo paskirtis gali būti keičiama, jeigu teritorijų planavimo dokumentuose ar žemės valdos projektuose šiose teritorijose nesuplanuota inžinerinė infrastruktūra ir (ar) jos plėtra. 
+Papildyta straipsnio dalimi:
+Nr. XIII-705, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17966
  
 
 
@@ -3137,3 +3145,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 27 ir 45 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 25 ir 41 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-705, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17966
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 22 straipsnio pakeitimo įstatymas
