@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-04-30
+Suvestinė redakcija nuo 2018-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
  
@@ -1255,12 +1255,18 @@ Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
 
 
 
-6. Uosto direkcija kiekvienais metais atlieka uosto įrenginio (terminalo) apsaugos patikrinimą. Atlikusi patikrinimą, Uosto direkcija pateikia Susisiekimo ministerijai patikrinimo aktą. Jeigu šio patikrinimo akto išvada yra teigiama, susisiekimo ministras ar jo įgaliotas asmuo patvirtina uosto įrenginio (terminalo) atitikties akto galiojimą.
+6. Uosto direkcija kiekvienais metais atlieka uosto įrenginio (terminalo) apsaugos patikrinimą ir surašo patikrinimo aktą, kurio formą patvirtina Uosto direkcijos generalinis direktorius. Jeigu šio patikrinimo akto išvada yra teigiama, Uosto direkcijos generalinis direktorius patvirtina uosto įrenginio (terminalo) atitikties akto galiojimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
+ 
 
 
 
 
-7. Uosto direkcija, patikrinimo metu nustačiusi, kad uosto įrenginio (terminalo) apsauga neatitinka šio uosto įrenginio (terminalo) apsaugos plane nustatytų arba teisės aktų, nurodytų šio straipsnio 5 dalyje, reikalavimų, nedelsdama, bet ne vėliau kaip per 2 darbo dienas (nuo šioje dalyje nurodyto uosto įrenginio (terminalo) apsaugos neatitikties nustatymo momento) įspėja paskirtąjį uosto įrenginio (terminalo) vadovą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir nuo šioje dalyje nurodyto įspėjimo pateikimo nustato ne ilgesnį kaip 12 mėnesių, bet ne trumpesnį kaip 10 darbo dienų terminą, per kurį nustatyti trūkumai turi būti pašalinti. Pasibaigus nustatytam terminui, Uosto direkcija be atskiro pranešimo atlieka pakartotinį patikrinimą. Jeigu pakartotinio patikrinimo metu Uosto direkcija nustato, kad visi uosto įrenginio (terminalo) apsaugos trūkumai pašalinti, ji panaikina įspėjimą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir patikrinimo aktą su teigiama išvada pateikia Susisiekimo ministerijai. Tais atvejais, kai nurodyti trūkumai yra pašalinti, suderinus su paskirtuoju uosto įrenginio (terminalo) vadovu, pakartotinis patikrinimas gali būti atliekamas ir nepasibaigus nustatytam terminui.
+7. Uosto direkcija, patikrinimo metu nustačiusi, kad uosto įrenginio (terminalo) apsauga neatitinka šio uosto įrenginio (terminalo) apsaugos plane nustatytų arba teisės aktų, nurodytų šio straipsnio 4 dalyje, reikalavimų, nedelsdama, bet ne vėliau kaip per 2 darbo dienas (nuo šioje dalyje nurodyto uosto įrenginio (terminalo) apsaugos neatitikties nustatymo momento) įspėja paskirtąjį uosto įrenginio (terminalo) vadovą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą ir nuo šioje dalyje nurodyto įspėjimo pateikimo nustato ne ilgesnį kaip 12 mėnesių, bet ne trumpesnį kaip 10 darbo dienų terminą, per kurį nustatyti trūkumai turi būti pašalinti. Pasibaigus nustatytam terminui, Uosto direkcija be atskiro pranešimo atlieka pakartotinį patikrinimą. Jeigu pakartotinio patikrinimo metu Uosto direkcija nustato, kad visi uosto įrenginio (terminalo) apsaugos trūkumai pašalinti, ji panaikina įspėjimą apie galimą uosto įrenginio (terminalo) atitikties akto galiojimo sustabdymą. Tais atvejais, kai nurodyti trūkumai yra pašalinti, suderinus su paskirtuoju uosto įrenginio (terminalo) vadovu, pakartotinis patikrinimas gali būti atliekamas ir nepasibaigus nustatytam terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
+ 
 
 
 
@@ -1829,3 +1835,8 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 12
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1002, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01015
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 23 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 31-2 straipsnio pakeitimo įstatymas
