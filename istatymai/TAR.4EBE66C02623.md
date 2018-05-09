@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-04-28 iki 2018-05-08
+Suvestinė redakcija nuo 2018-05-09 iki 2018-05-19
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -4117,20 +4117,22 @@ Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 
 
 
-147 straipsnis. Teisės aktų, reglamentuojančių kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų veiklą, pažeidimas
+147 straipsnis. Teisės aktų, reglamentuojančių patikimumo užtikrinimo paslaugų teikėjų veiklą,  pažeidimas
 
 
-1. Teisės aktų, reglamentuojančių kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų veiklą, pažeidimas
-užtraukia baudą kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų vadovams nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
+1. Teisės aktų, reglamentuojančių patikimumo užtikrinimo paslaugų teikėjų veiklą, pažeidimas
+užtraukia baudą patikimumo užtikrinimo paslaugų teikėjams – asmenims arba juridinių asmenų vadovams, jų įgaliotiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, dėl kurio žalos patyrė elektroninio parašo naudotojai,
-užtraukia baudą kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų vadovams nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, dėl kurio žalos patyrė patikimumo užtikrinimo paslaugų naudotojai,
+užtraukia baudą patikimumo užtikrinimo paslaugų teikėjams – asmenims arba juridinių asmenų vadovams, jų įgaliotiems asmenims nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
  
-
-
 
 
 
@@ -22179,49 +22181,63 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
-91. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo (OL 2014 L 317, p. 35). 
+91. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 257, p. 73). 
 Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
  
 
 
 
 
-92. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26). 
+92. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo (OL 2014 L 317, p. 35). 
 Papildyta punktu:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Punkto numeracijos pakeitimas:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
  
 
 
 
 
-93. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB (OL 2015 L 123, p. 55). 
+93. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26). 
 Papildyta punktu:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Punkto numeracijos pakeitimas:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
  
 
 
 
 
-94. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+94. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB (OL 2015 L 123, p. 55). 
+Papildyta punktu:
+Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
+Punkto numeracijos pakeitimas:
+Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
+ 
+
+
+
+
+95. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
 Punkto numeracijos pakeitimas:
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
  
 
 
 
 
-95. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
+96. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
 Papildyta punktu:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
+Punkto numeracijos pakeitimas:
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
  
 
 
@@ -22451,3 +22467,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 276, 415, 589 ir 611
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Lietuvos Respublikos administracinių nusižengimų kodekso 308, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 308-1 straipsniu įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
+Lietuvos Respublikos administracinių nusižengimų kodekso 147 straipsnio ir priedo pakeitimo įstatymas
