@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-08
+Suvestinė redakcija nuo 2018-05-09 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
  
@@ -110,7 +110,10 @@ Vilnius
 
 
 
-5. Susijusiais asmenimis laikomi sutuoktiniai, taip pat jų tėvai (įtėviai) ir nepilnamečiai jų vaikai (įvaikiai). 
+5. Susijusiais asmenimis laikomi sutuoktiniai, taip pat tėvai (įtėviai) ir nepilnamečiai jų vaikai (įvaikiai). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1132, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07484
+ 
 
 
 
@@ -454,3 +457,8 @@ Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-801, 2017-11-23, paskelbta TAR 2017-12-07, i. k. 2017-19742
 Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1132, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07484
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 3 straipsnio pakeitimo įstatymas
