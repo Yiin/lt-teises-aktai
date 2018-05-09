@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-05-08
+Suvestinė redakcija nuo 2018-05-09 iki 2018-08-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
- 
  
  
 LIETUVOS RESPUBLIKOS INFORMACINĖS VISUOMENĖS PASLAUGŲ ĮSTATYMAS
@@ -93,7 +92,9 @@ Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 
 
 
-2. Elektroninė siunta – naudojantis elektroninio pristatymo paslauga sudaryta elektroninių duomenų rinkmena, susidedanti iš elektroninio voko ir vieno ar kelių elektroninių dokumentų arba elektroninių dokumentų išrašų, nuorašų, konvertuotų kopijų, dokumentų skaitmeninių kopijų ar kitų elektroninių duomenų. 
+2. Neteko galios nuo 2018-05-09
+Straipsnio dalies naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
@@ -101,7 +102,9 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 
 
-3. Elektroninės siuntos gavėjas (toliau – gavėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kuriems yra siunčiama elektroninė siunta. 
+3. Neteko galios nuo 2018-05-09
+Straipsnio dalies naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
@@ -109,7 +112,9 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 
 
-4. Elektroninės siuntos siuntėjas (toliau – siuntėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kurie siunčia elektroninę siuntą. 
+4. Neteko galios nuo 2018-05-09
+Straipsnio dalies naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
@@ -117,7 +122,9 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 
 
-5. Elektroninio pristatymo paslauga – informacinės visuomenės paslauga, kuria suteikiama galimybė elektroninės siuntos siuntėjui sudaryti ir siųsti, o elektroninės siuntos gavėjui – gauti elektronines siuntas. 
+5. Neteko galios nuo 2018-05-09
+Straipsnio dalies naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
@@ -125,7 +132,9 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 
 
-6. Elektroninio pristatymo paslaugos teikėjas – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, teikiantys elektroninio pristatymo paslaugą. 
+6. Neteko galios nuo 2018-05-09
+Straipsnio dalies naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
@@ -133,7 +142,9 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 
 
-7. Elektroninis vokas – elektroninės siuntos dalis, kurią sudaro informacija apie siuntėją, gavėją, elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiką ir (ar) kiti elektroninės siuntos metaduomenys. 
+7. Neteko galios nuo 2018-05-09
+Straipsnio dalies naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
@@ -263,9 +274,11 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010IS
 
 
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektroninio parašo įstatyme, Lietuvos Respublikos pašto įstatyme ir kituose teisės aktuose.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir kituose teisės aktuose. 
 Papildyta straipsnio dalimi:
 Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+Straipsnio dalies pakeitimai:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
  
 
 
@@ -648,84 +661,9 @@ SUTARČIŲ SUDARYMAS ELEKTRONINĖMIS PRIEMONĖMIS KOMERCINĖS INFORMACIJOS TEIKI
 
 
 
-IV1 SKYRIUS
-ELEKTRONINIO PRISTATYMO PASLAUGA
- 
-
-
-111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
-
-
-1. Elektroninės siuntos išsiuntimo ir pristatymo gavėjui laikas turi būti patvirtinamas elektroniniais duomenimis, logiškai susietais su elektronine siunta, kurie įrašomi į elektroninį voką. Elektroninės siuntos išsiuntimo metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo išsiųsta nurodytu laiku. Elektroninės siuntos pristatymo gavėjui metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo pristatyta gavėjui nurodytu laiku.
-
-
-
-
-2. Elektroninė siunta yra laikoma gauta nuo to momento, kai gavėjas, kuriam elektroninė siunta adresuota, gali šią elektroninę siuntą pasiekti, tai yra nuo to momento, kai gavėjas, kuriam elektroninė siunta adresuota, pirmą kartą po elektroninės siuntos pristatymo jam prisijungia prie informacinės sistemos, kurioje elektroninė siunta yra pristatyta, jeigu kiti įstatymai nenustato kitaip. Elektroninės siuntos gavimo laikas turi būti patvirtinamas elektroniniais duomenimis, logiškai susietais su elektronine siunta, kurie įrašomi į elektroninį voką. Elektroninės siuntos gavimo metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo gauta nurodytu laiku. Siuntėjo prašymu elektroninio pristatymo paslaugos teikėjas pateikia įrodymus, kad gavėjas, kuriam elektroninė siunta adresuota, elektroninę siuntą gavo.
-
-
-
-
-3. Elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiko patvirtinimo tvarką nustato Vyriausybė.
- 
-
-
-
-
-
-
-112 straipsnis. Elektroninės siuntos galia
-
-
-Elektroninė siunta turi tokią pat teisinę ir įrodomąją galią kaip ir registruotoji pašto siunta.
- 
-
-
-
-
-
-
-113 straipsnis. Žalos atlyginimas
-
-
-Žala dėl prarastų, sugadintų elektroninių siuntų atlyginama vadovaujantis šiuo įstatymu, jeigu elektroninio pristatymo paslaugos teikėjo ir siuntėjo sudarytoje sutartyje nenumatyta kitaip. Jeigu elektroninė siunta dingsta, būna pavogta ar sugadinta dėl elektroninio pristatymo paslaugos teikėjo kaltės, elektroninio pristatymo paslaugos teikėjas atlygina siuntėjui tik elektroninės siuntos siuntimo išlaidas. Jeigu elektroninio pristatymo paslaugos teikėjo ir siuntėjo sudaryta sutartis pablogina siuntėjo padėtį, taikomos šio straipsnio nuostatos.
- 
-
-
-
-
-
-
-114 straipsnis. Elektroninės siuntos duomenų slaptumas ir saugumas
-
-
-1. Elektroninio pristatymo paslaugos teikėjas privalo siuntėjui ir gavėjui garantuoti elektroninės siuntos turinio konfidencialumą ir susirašinėjimo slaptumą.
-
-
-
-
-2. Elektroninio pristatymo paslaugai taikomus saugos reikalavimus nustato Vyriausybė.
-
-
-
-
-3. Reikalavimus, taikomus elektroninio pristatymo paslaugai teikti naudojamai informacinei sistemai ir vartotojo, prisijungiančio prie tokios sistemos, identifikavimui, nustato Vyriausybė.
-
-
-
-
-4. Siuntėjas ar gavėjas neturi teisės perleisti kitam asmeniui prisijungimo prie elektroninio pristatymo paslaugai teikti naudojamos informacinės sistemos duomenų. Siuntėjas ar gavėjas yra atsakingas už prisijungimo prie elektroninio pristatymo paslaugai teikti naudojamos informacinės sistemos duomenų saugojimą.
-
-
-
-
-5. Elektroninio pristatymo paslaugos teikėjui draudžiama teikti informaciją apie siuntėjų ar gavėjų siunčiamas ar gaunamas elektronines siuntas arba sudaryti sąlygas gauti šią informaciją, išskyrus turimą ir reikalingą nusikalstamoms veikoms užkardyti, tirti, nustatyti informaciją, kurią elektroninio pristatymo paslaugos teikėjas privalo pateikti kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui teisės aktų nustatyta tvarka ir atvejais, kurie yra taikomi informacijos perdavimui elektroninių ryšių tinklais ir elektroninių ryšių tinklų ir (ar) paslaugų teikėjams.
-
-
-
-
-Papildyta skyriumi:
-Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+41 skyrius. Neteko galios nuo 2018-05-09
+Skyriaus naikinimas:
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
  
 
 
@@ -1142,7 +1080,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
  
 
@@ -1151,6 +1089,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos
 informacinės visuomenės paslaugų įstatymo
 priedas
@@ -1185,3 +1124,8 @@ Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 2 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 4, 16, 17, 18, 20 straipsnių pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1121, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07475
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 2 straipsnio pakeitimo ir IV-1 skyriaus pripažinimo netekusiu galios įstatymas
