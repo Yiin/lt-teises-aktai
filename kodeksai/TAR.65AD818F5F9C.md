@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-05-19
+Suvestinė redakcija nuo 2018-05-20 iki 2019-12-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -666,28 +666,17 @@ Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010IST
 14 straipsnis. Kelių transporto kontrolės įgaliojimai
 
 
-1. Transporto saugos administracijos kelių transporto kontrolės įgaliojimus nustato šis kodeksas, Lietuvos Respublikos viešojo administravimo įstatymas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, ir Transporto saugos administracijos nuostatai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
-Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
- 
+1. Valstybinės kelių transporto inspekcijos kelių transporto kontrolės įgaliojimus nustato šis kodeksas, Lietuvos Respublikos viešojo administravimo įstatymas, Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, ir Valstybinės kelių transporto inspekcijos nuostatai.
 
 
 
 
-2. Transporto saugos administracijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, nurodyti važiuoti paskui specialiąją transporto priemonę iki patikrinimo ar stovėjimo vietos, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, privalomosios techninės apžiūros atlikimo periodiškumą, ekipažo dokumentus, keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų keleivių bilietus ir bagažo kvitus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo, ar nesinaudojama įtaisais, pakeičiančiais darbo ir poilsio režimo apskaitos prietaisų rodmenis ir (ar) duomenis. Kontrolės teisę turintys pareigūnai, nustatę pažeidimus, turi teisę siųsti transporto priemonę į techninės apžiūros stotį ar tachografų dirbtuvę, uždrausti transporto priemonei toliau važiuoti ir laikinai paimti transporto priemonės registravimo dokumentą, kol bus pašalinti pažeidimai, taip pat gauti iš keleivių paaiškinimus raštu ir (ar) žodžiu. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
-Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
- 
+2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, nurodyti važiuoti paskui specialiąją transporto priemonę iki patikrinimo ar stovėjimo vietos, jas pasverti, tikrinti jų matmenis, apipavidalinimą, ekipažo dokumentus, keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų keleivių bilietus ir bagažo kvitus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo, ar nesinaudojama įtaisais, pakeičiančiais darbo ir poilsio režimo apskaitos prietaisų rodmenis ir (ar) duomenis. Kontrolės teisę turintys pareigūnai, nustatę pažeidimus, turi teisę siųsti transporto priemonę į tachografų dirbtuvę, uždrausti transporto priemonei toliau važiuoti ir laikinai paimti transporto priemonės registravimo dokumentą, kol bus pašalinti pažeidimai, taip pat gauti iš keleivių paaiškinimus raštu ir (ar) žodžiu.
 
 
 
 
-3. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto kontrolės tarnybų įgaliojimus nustato šis kodeksas, Lietuvos Respublikos viešojo administravimo įstatymas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, ir šių tarnybų nuostatai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
- 
+3. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto kontrolės tarnybų įgaliojimus nustato šis kodeksas, Lietuvos Respublikos viešojo administravimo įstatymas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, ir šių tarnybų nuostatai.
 
 
 
@@ -702,12 +691,13 @@ Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010IS
 
 
 
-6. Vežėjų arba jų įgaliotų juridinių asmenų transporto kontrolę vykdantys darbuotojai turi teisę sustabdyti keleivines kelių transporto priemones ir tikrinti šių priemonių ekipažų dokumentus, tarp jų keleiviams ir bagažui vežti privalomus dokumentus, keleivių bilietus ir bagažo kvitus. 
+6. Vežėjų arba jų įgaliotų juridinių asmenų kelių transporto kontrolę vykdantys darbuotojai turi teisę sustabdyti keleivines kelių transporto priemones ir tikrinti šių priemonių ekipažų dokumentus, tarp jų keleiviams ir bagažui vežti privalomus dokumentus, keleivių bilietus ir bagažo kvitus. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010ISTA00XI-573
+Nr. XIII-693, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16996
  
 
 
@@ -2161,3 +2151,8 @@ Lietuvos Respublikos kelių transporto kodekso 7 ir 18 straipsnių pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-758, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18809
 Lietuvos Respublikos kelių transporto kodekso 8, 8-1, 13, 14 ir 18 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-693, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16996
+Lietuvos Respublikos kelių transporto kodekso 14 straipsnio pakeitimo įstatymas
