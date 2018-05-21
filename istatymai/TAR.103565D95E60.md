@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-05-20
+Suvestinė redakcija nuo 2018-05-21 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3248, i. k. 1061010ISTA000X-745
  
@@ -163,7 +163,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-16. Minimalus dalyvavimo laikotarpis – pensijų asociacijos įstatuose ar profesinių pensijų fondo (fondų) taisyklėse nustatytas minimalus dalyvavimo pensijų asociacijos profesinių pensijų fonde (fonduose) laikotarpis, ne ilgesnis kaip 2 metai, kurio neišbuvus, išskyrus šio įstatymo 23 straipsnio 7 dalyje ir 26 straipsnio 2 dalyje numatytas išimtis, laikoma, kad dalyvis neįgijo nuosavybės teisių į jo vardu profesinių pensijų fonde sukauptą pensijų turto dalį. Minimaliu dalyvavimo laikotarpiu sudarius gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos, yra laikomas ne ilgesnis kaip 2 metų draudimo taisyklėse nustatytas nuo dalyvio apdraudimo skaičiuojamas laikotarpis, kuriam pasibaigus finansuojantis subjektas praranda teisę būti naudos gavėju to dalyvio atžvilgiu ar atgauti išperkamąją sumą, sukauptą iš dalyvio vardu mokėtų įmokų. 
+16. Minimalus dalyvavimo profesinių pensijų fonde laikotarpis (toliau – minimalus dalyvavimo laikotarpis) – pensijų asociacijos įstatuose ar profesinių pensijų fondo (fondų) taisyklėse nustatytas dalyvavimo pensijų asociacijos profesinių pensijų fonde (fonduose) laikotarpis, ne ilgesnis kaip 2 metai, kurio neišbuvus, išskyrus šio įstatymo 23 straipsnio 7 dalyje, 26 straipsnio 2 dalyje ir 30 straipsnio 6 dalyje numatytas išimtis, laikoma, kad dalyvis neįgijo nuosavybės teisių į jo vardu profesinių pensijų fonde sukauptą pensijų turto dalį. Sudarius gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos, minimaliu dalyvavimo laikotarpiu yra laikomas ne ilgesnis kaip 2 metų draudimo taisyklėse nustatytas nuo dalyvio apdraudimo dienos skaičiuojamas laikotarpis, kuriam pasibaigus finansuojantis subjektas praranda teisę būti naudos gavėju to dalyvio atžvilgiu ar atgauti išperkamąją sumą, sukauptą iš dalyvio vardu mokėtų įmokų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
+ 
 
 
 
@@ -1263,7 +1266,10 @@ Nr. XII-71, 2012-12-20, Žin., 2012, Nr. 155-7981 (2012-12-31)
 18 straipsnis. Pensijų fondo turtas
 
 
-1. Pensijų fondo turtas yra pensijų fondo dalyvių ir išmokų gavėjų bendroji dalinė nuosavybė, išskyrus atvejus, kai nepasibaigęs minimalus dalyvavimo laikotarpis ir dėl to dalyvis neįgijo nuosavybės teisių į jo vardu pensijų fonde sukauptą pensijų turto dalį. Kol nėra pasibaigęs minimalus dalyvavimo laikotarpis, finansuojančio subjekto įmokomis pensijų fondo dalyvio vardu sukaupta pensijų turto dalis nuosavybės teise priklauso finansuojančiam subjektui. 
+1. Pensijų fondo turtas yra pensijų fondo dalyvių ir išmokų gavėjų bendroji dalinė nuosavybė, išskyrus atvejus, kai yra nepasibaigęs minimalus dalyvavimo laikotarpis ir dėl to dalyvis neįgijo nuosavybės teisių į jo vardu pensijų fonde sukauptą pensijų turto dalį. Kol nėra pasibaigęs minimalus dalyvavimo laikotarpis, finansuojančio subjekto įmokomis pensijų fondo dalyvio vardu sukaupta pensijų turto dalis nuosavybės teise priklauso finansuojančiam subjektui, išskyrus šio įstatymo 30 straipsnio 6 dalyje nustatytą išimtį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
+ 
 
 
 
@@ -1787,7 +1793,10 @@ Pensijų fondo taisyklėse gali būti numatytos kitos laikino pobūdžio išmoko
 
 
 
-6. Pasibaigus dalyvavimui pensijų fonde, dalyvio vardu sukaupta pensijų turto suma, gauta konvertavus jo pensijų sąskaitoje įrašytus pensijų fondo vienetus į pinigus, išmokama arba pervedama į kito pensijų fondo sąskaitą, išskyrus atvejus, kai yra nepasibaigęs pensijų fondo taisyklėse nustatytas minimalus dalyvavimo laikotarpis ir dėl to dalyvis neturi teisių į jo vardu apskaičiuotą pensijų fondo turtą ar jo dalį.
+6. Pasibaigus dalyvavimui pensijų fonde, dalyvio vardu sukaupta pensijų turto suma, gauta konvertavus jo pensijų sąskaitoje įrašytus pensijų fondo vienetus į pinigus, išmokama arba pervedama į kito pensijų fondo sąskaitą, išskyrus atvejus, kai yra nepasibaigęs pensijų fondo taisyklėse nustatytas minimalus dalyvavimo laikotarpis ir dalyviui išmokama finansuojančio subjekto už jį į pensijų fondą sumokėtų įmokų suma (jeigu šios sumos investicijų grąža yra neigiama) arba sumokėtų įmokų ir jų investicijų grąžos suma. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
+ 
 
 
 
@@ -3198,6 +3207,14 @@ Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
  
 
 
+
+
+8. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/50/ES dėl būtiniausių reikalavimų darbuotojų judumui tarp valstybių narių didinti gerinant teisių į papildomą pensiją įgijimą ir išsaugojimą (OL 2014 L 128, p. 1). 
+Papildyta punktu:
+Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-1887, 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
  
@@ -3267,3 +3284,8 @@ Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 31, 32, 47
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
 Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 52 ir 54 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 18, 30 straipsnių ir priedo pakeitimo įstatymas
