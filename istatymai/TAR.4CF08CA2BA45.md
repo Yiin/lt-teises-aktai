@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-05-19 iki 2018-05-28
+Suvestinė redakcija nuo 2018-05-29 iki 2018-06-25
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -433,7 +433,7 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-6) registruotino turto duomenis tvarkantiems valstybės registrams.
+6) registruotino turto duomenis tvarkantiems valstybės registrams;
 
 
 Straipsnio dalies pakeitimai:
@@ -1898,7 +1898,6 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 7. Jeigu fiziniam asmeniui priklausanti turto, kuris yra bendras su kitais asmenimis, dalis nenustatyta, bankroto administratorius pasiūlo fiziniam asmeniui, o reikiamais atvejais ir bendrosios nuosavybės dalyviams, kreiptis su prašymu į teismą dėl fizinio asmens turto dalies, esančios bendra su kitais asmenimis nuosavybe, nustatymo. Fizinio asmens dalis bendrojoje nuosavybėje nustatoma teismo nutartimi. Nustatydamas nekilnojamojo daikto fizinio asmens dalį, teismas kartu turi nustatyti naudojimosi fiziniam asmeniui priklausančia nekilnojamojo daikto dalimi tvarką. Įsiteisėjus teismo nutarčiai, kuria nustatyta bendrąja nuosavybe esančio turto fizinio asmens turto dalis, ši fizinio asmens turto dalis parduodama šiame straipsnyje ir šio įstatymo 28 straipsnyje nustatyta tvarka.
- 
 
 
 
@@ -1985,12 +1984,12 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl žalos atlyginimo dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties ir piniginių lėšų vaikui (įvaikiui) išlaikyti (alimentų) bei reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalis (2015 m. gruodžio 22 d. redakcija, galiojusi iki 2016 m. gruodžio 31 d., TAR, 2015-12-30, Nr. 21017; 2015 m. gruodžio 22 d. redakcija, įsigaliojusi 2017 m. sausio 1 d., TAR, 2015-12-30, Nr. 21017) tiek, kiek pagal ją nurašomi reikalavimai dėl nusikalstamomis veikomis padarytos žalos atlyginimo, prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 30 straipsnio 2 daliai, konstituciniams teisingumo, teisinės valstybės principams.
+7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl žalos atlyginimo dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, dėl nusikalstama veika padarytos žalos atlyginimo, piniginių lėšų vaikui (įvaikiui) išlaikyti (alimentų) bei reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
 Nr. KT5-N4/2017, 2017-05-19, paskelbta TAR 2017-05-19, i. k. 2017-08442
+Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
  
 
 
@@ -2215,3 +2214,8 @@ Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7,
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT5-N4/2017, 2017-05-19, paskelbta TAR 2017-05-19, i. k. 2017-08442
 Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 1, 3, 5, 6, 7, 8, 9, 12, 27, 29, 31 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
