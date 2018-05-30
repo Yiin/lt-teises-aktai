@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-29
+Suvestinė redakcija nuo 2018-05-30 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -4559,11 +4559,12 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 38 straipsnis. Vaistinės veiklos licencijos išdavimo principai
 
 
-Vaistinės veiklos licencija išduodama tik nurodytos rūšies veiklai vykdyti ir tik juridinio asmens paraiškoje nurodytose patalpose. Vykdyti veiklą tame pačiame pastate ar tuo pačiu adresu, išskyrus sveikatos priežiūros įstaigas, išduodama tik viena vaistinės veiklos licencija.
+Vaistinės veiklos licencija išduodama tik nurodytos rūšies veiklai vykdyti ir tik juridinio asmens paraiškoje nurodytose patalpose. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1193, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08645
  
 
 
@@ -7616,3 +7617,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 8, 15, 17 ir 33 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 57 ir 59 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1193, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08645
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 38 straipsnio pakeitimo įstatymas
