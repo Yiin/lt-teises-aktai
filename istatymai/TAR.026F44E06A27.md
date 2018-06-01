@@ -13,16 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2019-07-26
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
  
-Nauja redakcija nuo 1999-12-31:
-Nr. VIII-1511, 1999-12-23, Žin. 1999, Nr. 114-3299 (1999-12-31), i. k. 0991010ISTAIII-1511
+Nauja redakcija nuo 2018-06-01:
+Nr. XIII-1128, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07480
  
 LIETUVOS RESPUBLIKOS
-STATISTIKOS 
-Į S T A T Y M A S
+OFICIALIOSIOS STATISTIKOS
+Įstatymas
  
 1993 m. spalio 12 d. Nr. I-270
 Vilnius
@@ -30,20 +30,33 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-Šis įstatymas nustato oficialiosios statistikos organizavimo bendruosius principus, fizinių ir juridinių asmenų bei juridinio asmens teisių neturinčių įmonių teises ir pareigas teikiant duomenis statistikos reikmėms, valstybės ir savivaldybių institucijų bei įstaigų teises ir pareigas tvarkant bei naudojant statistinius duomenis, jų apsaugą, taip pat atsakomybę už šio įstatymo pažeidimus. 
+1. Šis įstatymas nustato oficialiosios statistikos organizavimo tvarką, oficialiąją statistiką tvarkančių įstaigų teises, funkcijas, respondentų ir oficialiosios statistikos vartotojų teises ir pareigas, statistinių duomenų ir statistinės informacijos teikimo, naudojimo ir apsaugos tvarką, taip pat atsakomybę už šio įstatymo pažeidimus.
 
 
-Straipsnio pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+
+
+2. Šis įstatymas taikomas oficialiąją statistiką tvarkančioms įstaigoms, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms, respondentams, oficialiosios statistikos vartotojams. 
+
+
+
+
+3. Šis įstatymas netaikomas įstaigoms, įmonėms, organizacijoms ar kitiems asmenims atliekant statistinius tyrimus, neįtrauktus į Oficialiosios statistikos programą.
+
+
+
+
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
  
+
+
 
 
 
@@ -51,136 +64,112 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Oficialioji statistika – valstybės ir savivaldybių institucijų ir įstaigų valstybės reikmėms skirtų statistinių duomenų apie ekonominius, demografinius procesus, socialinius veiksnius ir visuomeninius bei aplinkos pokyčius rinkimo, tvarkymo ir statistinės informacijos skelbimo pagal Oficialiosios statistikos darbų programą sistema. 
-Straipsnio dalies pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
+1. Administraciniai duomenys – duomenys valstybės ir žinybiniuose registruose (toliau – registrai), valstybės ir savivaldybės institucijų, įstaigų, įmonių ir Lietuvos banko informacinėse sistemose (toliau – informacinės sistemos) ir dokumentuose, kurie naudojami viešajam administravimui. 
 
 
 
 
-2. Statistiniai duomenys – respondentų pateikti bei iš tvarkomųjų, organizacinių dokumentų, registrų ir informacinių sistemų gauti duomenys statistinėms suvestinėms sudaryti.
+2. Europos statistika – Europos Sąjungos veiklai vykdyti reikalinga statistinė informacija, kuri apibrėžiama Europos statistikos programoje. 
 
 
 
 
-3. Statistinių duomenų apdorojimas – statistinių duomenų tikrinimas, sumavimas, grupavimas, klasifikavimas, statistinių lentelių ir grafikų rengimas.
+3. Europos statistikos programa – Europos Parlamento ir Europos Sąjungos Tarybos sprendimu priimtas dokumentas, kuriuo nustatoma Europos statistikos rengimo, tobulinimo ir sklaidos sistema, pagrindinės sritys ir tikslai.
 
 
 
 
-4. Statistinė informacija – informacija, gauta apdorojus statistinius duomenis.
+4. Klausėjas – iš respondentų statistinius duomenis apklausos būdu renkantis fizinis asmuo. 
 
 
 
 
-5. Statistiniai tyrimai – statistinių duomenų rinkimas, kaupimas, apdorojimas, analizė, statistinės informacijos rengimas ir teikimas.
+5. Konfidencialūs statistiniai duomenys – statistiniai duomenys, pagal kuriuos galima tiesiogiai arba netiesiogiai atpažinti statistinio stebėjimo vienetą ir atskleisti jo duomenis. 
 
 
 
 
-6. Statistinių duomenų tvarkymas – statistinio tyrimo ataskaitų bei anketų, taisyklių joms pildyti rengimas, jų teikimas respondentams, rinkimas ir rengimas apdorojimui.
+6. Netiesioginis atpažinimas – statistinio stebėjimo vieneto atpažinimas bet kokiu būdu, išskyrus tiesioginį atpažinimą.
 
 
 
 
-7. Statistinis registras – statistiką tvarkančių įstaigų sudaromas fizinių ir juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, (respondentų) sąrašas, kuris atnaujinamas ir pildomas statistiniais duomenimis bei naudojamas statistiniams tyrimams ir suvestinei informacijai rengti, saugoti, naudoti.
+7. Oficialioji statistika – statistinių tyrimų, atliekamų pagal Oficialiosios statistikos programą, sistema, kurios tikslas – tenkinti visuomenės reikmes ir viešojo administravimo poreikius.
 
 
 
 
-8. Statistinių duomenų konfidencialumas – gautų duomenų naudojimas tik statistikos reikmėms taip, kad nebūtų galima identifikuoti konkretaus respondento ir jo veiklos rezultatų.
+8. Oficialiosios statistikos portalas – interneto svetainė, kurioje suteikiama daugiafunkcė prieiga prie oficialiąją statistiką tvarkančių įstaigų rengiamos statistinės informacijos. 
 
 
 
 
-9. Respondentas – fizinis ar juridinis asmuo bei juridinio asmens teisių neturinti įmonė, teikiantys ar privalantys teikti duomenis apie save statistiką tvarkančioms institucijoms ir įstaigoms. 
+9. Oficialiosios statistikos programa – Europos Sąjungos teisės aktais, Lietuvos Respublikos įstatymais, Lietuvos Respublikos Vyriausybės nutarimais, Lietuvos banko valdybos nutarimais, kiek tai susiję su Lietuvos Respublikos Lietuvos banko įstatyme įtvirtintomis statistikos sritimis, oficialiąją statistiką tvarkančioms įstaigoms pavedamų atlikti visuomenės reikmėms ir viešajam administravimui reikalingų statistinių tyrimų metinis sąrašas.
 
 
 
 
-10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Lietuvos statistikos departamentui (toliau – Statistikos departamentas), kitoms valstybės ir savivaldybių institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas. 
-Straipsnio dalies pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
-Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
- 
+10. Oficialiosios statistikos vartotojas – fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, naudojantys pagal Oficialiosios statistikos programą parengtą statistinę informaciją.
 
 
 
 
+11. Respondentas – fizinis asmuo arba juridinis asmuo, užsienio įmonės filialas, registruotas Lietuvoje, kita organizacija ar jų padalinys, teikiantys ar privalantys teikti statistinius duomenis oficialiąją statistiką tvarkančioms įstaigoms.
 
 
-3 straipsnis. Įstatymo taikymas
 
 
-Šis įstatymas taikomas:
+12. Statistikos darbas – statistinių duomenų rinkimas, kaupimas, apdorojimas, analizė, statistinės informacijos rengimas, statistinės informacijos ir nekonfidencialių statistinių duomenų sklaida, taip pat šių oficialiosios statistikos procesų arba oficialiosios statistikos metodų tobulinimas.
 
 
-1) valstybės ir savivaldybių institucijoms ir įstaigoms; 
-Straipsnio punkto pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
 
 
+13. Statistinė informacija – informacija, parengta apdorojus ir (arba) apibendrinus statistinius duomenis.
 
 
-2) statistiką tvarkančioms institucijoms ir įstaigoms;
 
 
+14. Statistinės informacijos ir nekonfidencialių statistinių duomenų sklaida (toliau – sklaida) – veikla, kai oficialiąją statistiką tvarkančios įstaigos skelbia, teikia ir platina statistinę informaciją ir nekonfidencialius statistinius duomenis oficialiosios statistikos vartotojams.
 
 
-3) respondentams.
- 
 
 
+15. Statistiniai duomenys – statistinio stebėjimo vieneto ir administraciniai duomenys statistinei informacijai rengti. 
 
 
 
 
+16. Statistinio stebėjimo vienetas – tiriamosios visumos vienetas (namų ūkis, fizinis asmuo, juridinis asmuo, užsienio įmonės filialas, registruotas Lietuvoje, įmonių grupė ar jos dalis arba kita organizacija ar jų padalinys ir pan.), turintis statistinio tyrimo metu tiriamus požymius.
 
 
-4 straipsnis. Oficialiosios statistikos organizavimo bendrieji principai
 
 
-Oficialiosios statistikos organizavimas grindžiamas šiais principais:
+17. Statistinis formuliaras – statistiniams duomenims įrašyti ir teikti naudojamas oficialiąją statistiką tvarkančios įstaigos patvirtintas ir oficialiai paskelbtas dokumento blankas su informacija apie statistinį tyrimą ir paaiškinimais, kaip pildyti šį blanką.
 
 
-1) objektyvumo ir profesinio nepriklausomumo nuo politinių bei kitų interesų grupių;
 
 
+18. Statistinis tyrimas – statistiniais metodais atliekamas statistikos darbas.
 
 
-2) statistinių rodiklių reikalingumo ir tinkamumo ekonominei, socialinei padėčiai bei dinamikai vertinti;
 
 
+19. Statistinių duomenų naudojimas tik oficialiosios statistikos tikslams – statistinių duomenų naudojimas išimtinai statistinei informacijai pagal Oficialiosios statistikos programą rengti, šios statistinės informacijos ir jai rengti reikalingų statistinių duomenų kokybei užtikrinti.
 
 
-3) statistinių duomenų naudojimo tik statistikos reikmėms;
 
 
+20. Tiesioginis atpažinimas – statistinio stebėjimo vieneto atpažinimas pagal jo pavadinimą arba adresą, arba viešai prieinamą identifikavimo kodą, arba vardą, pavardę ar asmens kodą.
 
 
-4) statistinių duomenų konfidencialumo;
 
 
+21. Visuotinis surašymas – valstybės mastu atliekamas statistinis tyrimas, kuriuo siekiama surinkti išsamius statistinius duomenis apie visus Lietuvos Respublikos statistinio stebėjimo vienetus.
 
 
-5) statistiniuose stebėjimuose taikomų metodų ir metodikų skaidrumo;
 
 
-
-
-6) statistinių duomenų palyginamumo;
-
-
-
-
-7) tarptautinių klasifikacijų ir standartų, pagal kuriuos tvarkomi statistiniai duomenys, laikymosi;
-
-
-
-
-8) statistikos metodikų tarpusavio suderinamumo.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos viešojo administravimo įstatyme ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme.
  
 
 
@@ -188,38 +177,45 @@ Oficialiosios statistikos organizavimas grindžiamas šiais principais:
 
 
 
+3 straipsnis. Oficialiosios statistikos organizavimo principai
 
 
-5 straipsnis. Oficialiąją statistiką tvarkančių institucijų ir įstaigų uždaviniai
+1. Oficialiosios statistikos organizavimas grindžiamas:
 
 
-Pagrindiniai oficialiąją statistiką tvarkančių institucijų ir įstaigų uždaviniai:
-
-
-1) nustatyti vienodą statistinės informacijos apie valstybės ekonominius, demografinius procesus, socialinius veiksnius ir visuomeninius bei aplinkos pokyčius rinkimo ir tvarkymo sistemą, vadovaujantis nacionalinėmis reikmėmis ir tarptautinių organizacijų taikoma metodologija;
-
-
-
-
-2) apdoroti, apibendrinti ir analizuoti statistinius duomenis, rengti statistinę informaciją;
+1) profesinio nepriklausomumo principu. Oficialiąją statistiką tvarkančios įstaigos, rengdamos ir skleisdamos statistinę informaciją, yra nepriklausomos nuo kitų valstybės ir savivaldybių institucijų ir įstaigų, politinių partijų, taip pat nuo kitų asmenų;
 
 
 
 
-3) skelbti pagal Oficialiosios statistikos darbų programą parengtą informaciją ir užtikrinti, kad ji bei jos parengimo metodai būtų prieinami visuomenei;
+2) nešališkumo ir objektyvumo principu. Oficialiąją statistiką tvarkančios įstaigos rengia ir skleidžia statistinę informaciją objektyviai, profesionaliai ir skaidriai, visiems respondentams ir oficialiosios statistikos vartotojams užtikrindamos nešališkumą;
 
 
 
 
-4) teikti statistinę informaciją valstybės ir savivaldybių institucijoms ir įstaigoms, mokslo įstaigoms, Europos bendrijų statistikos tarnybai (EUROSTAT) ir kitoms tarptautinėms organizacijoms pagal tarptautinius susitarimus; 
-Straipsnio punkto pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
+3) kokybės principu. Oficialiąją statistiką tvarkančios įstaigos taiko šiuos statistinės informacijos kokybės vertinimo kriterijus: reikalingumo, patikimumo ir tikslumo, savalaikiškumo ir punktualumo, prieinamumo ir aiškumo, palyginamumo, suderinamumo, kaip jie apibrėžti Reglamento (EB) Nr. 223/2009 12 straipsnyje;
 
 
 
 
-5) įgyvendinti priemones, skirtas respondentų patiriamoms darbo bei kitoms sąnaudoms, susijusioms su statistikos duomenų rinkimu ir teikimu, mažinti.
+4) statistinių duomenų konfidencialumo principu. Konfidencialūs statistiniai duomenys naudojami tik oficialiosios statistikos tikslams, išskyrus Europos Sąjungos teisės aktų ir šio įstatymo nustatytas išimtis;
+
+
+
+
+5) išteklių adekvatumo ir ekonomiškumo principu. Siekiant nedidinti respondentams statistinės atskaitomybės naštos, oficialiosios statistikos rengimo sąnaudos turi būti proporcingos rezultatų svarbai ir siekiamai naudai.
+
+
+
+
+
+
+2. Siekdamos užtikrinti visuomenės pasitikėjimą oficialiąja statistika, oficialiąją statistiką tvarkančios įstaigos vadovaujasi Europos statistikos praktikos kodekso principais, kaip nurodyta Reglamento (EB) Nr. 223/2009 11 straipsnyje. 
+
+
+
+
+3. Šiame straipsnyje nurodytus principus Lietuvos bankas, vykdydamas Oficialiosios statistikos programos II dalies nuostatas, taiko taip, kaip Europos centrinių bankų sistemos vykdomo Europos statistikos plėtojimo, rengimo ir sklaidos principus taiko Europos Centrinis Bankas, ir taip, kaip nurodyta 1998 m. lapkričio 23 d. Tarybos reglamento (EB) Nr. 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos (OL 2004 m. specialusis leidimas, 1 skyrius, 3 tomas, p. 23) su paskutiniais pakeitimais, padarytais 2015 m. kovo 5 d. Tarybos reglamentu (ES) 2015/373 (OL 2015 L 64, p. 6) (toliau – Reglamentas (EB) Nr. 2533/98), 3a straipsnyje.
  
 
 
@@ -229,63 +225,40 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 
 
-
-
-ANTRASIS SKIRSNIS
-STATISTIKOS TVARKYMAS
+II SKYRIUS
+OFICIALIOSIOS STATISTIKOS ORGANIZAVIMAS
  
 
 
-6 straipsnis. Oficialiąją statistiką tvarkančios įstaigos
+4 straipsnis. Oficialiąją statistiką tvarkančios įstaigos
 
 
-Oficialiąją statistiką Lietuvos Respublikoje tvarko:
+1. Oficialiąją statistiką tvarkančios įstaigos:
 
 
-1) Statistikos departamentas;
-
-
-
-
-2) Neteko galios nuo 2011-07-01
-Straipsnio punkto naikinimas:
-Nr. XI-1085, 2010-11-04, Žin. 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
- 
+1) Lietuvos statistikos departamentas;
 
 
 
 
-3) ministerijos, kitos valstybės ir savivaldybių institucijos, įstaigos, taip pat Lietuvos bankas, jeigu tai numatyta Oficialiosios statistikos darbų programoje. 
-Straipsnio punkto pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
+2) Lietuvos bankas;
+
+
+
+
+3) kitos oficialiąją statistiką tvarkančios įstaigos – valstybės ir savivaldybių institucijos ir įstaigos, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį (toliau – kitos oficialiąją statistiką tvarkančios įstaigos).
 
 
 
 
 
 
-
-
-7 straipsnis. Statistikos departamentas
-
-
-1. Statistikos departamentas yra Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui priskirtoje statistikos valdymo srityje ir ją įgyvendinanti. Statistikos departamentas yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu „Lietuvos statistikos departamentas“. Statistikos departamentas yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga. Statistikos departamento nuostatus tvirtina Vyriausybė. Statistikos departamento administracijos struktūrą tvirtina Vyriausybė arba paveda tvirtinti Statistikos departamento generaliniam direktoriui. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
- 
+2. Lietuvos statistikos departamentas ir kitos oficialiąją statistiką tvarkančios įstaigos, rengiančios Europos statistiką, nurodytą Europos statistikos programoje, priklauso Europos statistikos sistemai ir bendradarbiauja rengdamos, tobulindamos ir skleisdamos šią statistiką. 
 
 
 
 
-2. Statistikos departamentas, kaip oficialiosios statistikos įstaiga, įgyvendina bendrą valstybės politiką statistikos metodologijos ir organizavimo srityse. Statistikos departamentas rengia Oficialiosios statistikos darbų programą ir jos įvykdymo ataskaitą, kurias tvirtina Vyriausybė ar jos įgaliota institucija.
-
-
-
-
-3. Statistikos departamentui vadovauja generalinis direktorius – valstybės pareigūnas, kurį finansų ministro teikimu ketveriems metams į pareigas priima ir iš jų atleidžia Vyriausybė. Į Statistikos departamento generalinio direktoriaus pareigas gali būti priimamas asmuo, turintis aukštąjį universitetinį išsilavinimą (magistro kvalifikacinį laipsnį) arba jam prilygintą vientisųjų studijų aukštąjį universitetinį išsilavinimą ir ne mažesnį kaip 5 metų darbo statistikos srityje ir 5 metų vadovaujamo darbo viešojo administravimo srityje stažą. Statistikos departamento generalinis direktorius gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. Statistikos departamento generalinio direktoriaus įgaliojimų įgyvendinimas negali būti susietas su jokios politinės partijos veikla. Statistikos departamento generalinis direktorius yra atsakingas ir atskaitingas Vyriausybei ir finansų ministrui. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
+3. Įgyvendindamas Oficialiosios statistikos programą ir vadovaudamasis šio įstatymo 9 straipsnio 2 dalies nuostatomis, Lietuvos statistikos departamentas bendradarbiauja su Lietuvos banku, vykdančiu Reglamente (EB) Nr. 2533/98 nustatytas funkcijas.
  
 
 
@@ -293,90 +266,80 @@ Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010IS
 
 
 
-8 straipsnis. Statistikos departamento teisės atliekant statistinius tyrimus
+5 straipsnis. Oficialiąją statistiką tvarkančių įstaigų teisės
 
 
-Statistikos departamentas, atlikdamas statistinius tyrimus, turi teisę:
+1. Oficialiąją statistiką tvarkančios įstaigos, vykdydamos Oficialiosios statistikos programą, turi teisę:
 
 
-1) iš valstybės ir savivaldybių institucijų ir įstaigų gauti informaciją apie numatomus statistinius tyrimus Oficialiosios statistikos darbų programai rengti; 
-Straipsnio punkto pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
+1) neatlygintinai gauti iš šio įstatymo 10 straipsnyje nurodytų oficialiosios statistikos šaltinių reikalingus statistinius duomenis, įskaitant asmens duomenis, ypatingus asmens duomenis ir tokius duomenis, iš kurių galimas tiesioginis ar netiesioginis atpažinimas, taip pat juos jungti su kitais statistiniais duomenimis;
 
 
 
 
-2) neatlygintinai iš respondentų, valstybės registrų ir informacinių sistemų gauti Oficialiosios statistikos darbų programai vykdyti reikalingus statistinius duomenis;
+2) pasirinkti statistinių duomenų rinkimo būdą;
 
 
 
 
-3) organizuoti statistinį namų ūkių stebėjimą, atlikti statistinius tyrimus respondentų savanoriškumo pagrindu;
+3) naudoti konkrečiam statistiniam tyrimui asmens duomenis, ypatingus asmens duomenis, kurie panaudoti turi būti nedelsiant pakeisti taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės, išskyrus atvejus, kai asmens duomenys, ypatingi asmens duomenys reikalingi statistiniams duomenims jungti, palyginti ir jų kokybei užtikrinti. Asmens duomenys, ypatingi asmens duomenys, nebereikalingi statistiniams duomenims jungti, palyginti ir jų kokybei užtikrinti, nedelsiant pakeičiami taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės;
 
 
 
 
-4) įstatymų arba Vyriausybės nustatyta tvarka organizuoti ir atlikti visuotinius surašymus, prireikus tam pasitelkti gyventojus;
+4) naudoti fizinių ir (arba) juridinių asmenų kodus iš skirtingų oficialiosios statistikos duomenų šaltinių gautiems statistiniams duomenims jungti;
 
 
 
 
-5) organizuoti statistinės informacijos leidybą;
+5) tikrinti, ar respondentų pateikti statistiniai duomenys yra teisingi, taisyti ir (arba) patikslinti pateiktus klaidingus ir (arba) netikslius statistinius duomenis, jeigu respondentai jų neištaiso ir (arba) nepatikslina šio įstatymo 17 straipsnio 2 punkte nustatyta tvarka;
 
 
 
 
-6) tikrinti, ar pateikti duomenys apskaičiuoti pagal pateiktas metodikas;
+6) nustatyti trūkstamus statistinius duomenis, taikydamos statistinius metodus ir naudodamosi oficialiosios statistikos duomenų šaltiniais; 
 
 
 
 
-7) statistinių duomenų patikimumui įvertinti reikiamais atvejais kviesti ekspertus.
- 
+7) statistinių duomenų ir (arba) statistinės informacijos patikimumui vertinti reikiamais atvejais kviesti ekspertus;
 
 
 
 
+8) statistiniams tyrimams atlikti reikiamais atvejais pasitelkti klausėjus;
 
 
 
 
-9 straipsnis. Neteko galios nuo 2011-07-01
-Straipsnio naikinimas:
-Nr. XI-1085, 2010-11-04, Žin. 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
- 
+9) teikti viena kitai statistinius duomenis ir statistinę informaciją;
 
 
 
 
-10 straipsnis. Kitos statistiką tvarkančios įstaigos ir organizacijos
-
-
-1. Kitos oficialiąją statistiką tvarkančios įstaigos:
-
-
-1) suderinusios su Statistikos departamentu, tvirtina statistinius formuliarus, jų pildymo taisykles, nustato duomenų pateikimo tvarką bei laiką, tikrina, ar pateikti duomenys apskaičiuoti pagal pateiktas metodikas;
+10) atlikti statistinius namų ūkių (gyventojų) tyrimus respondentų savanoriškumo pagrindu;
 
 
 
 
-2) savarankiškai renka duomenis, apdoroja, apibendrina, analizuoja ir skelbia statistinę informaciją.
+11) neatlygintinai gauti fizinių ir (arba) juridinių asmenų kontaktinius duomenis (adresus, fiksuotojo ir mobiliojo ryšio telefono numerius, elektroninio pašto adresus) statistiniams tyrimams atlikti. Šiame punkte nurodytiems kontaktiniams duomenims taikomos šio įstatymo 15 straipsnyje nurodytos statistinių duomenų ir statistinės informacijos apsaugos priemonės;
+
+
+
+
+12) naudotis kitomis įstatymų ir kitų teisės aktų, reglamentuojančių oficialiąją statistiką, suteiktomis teisėmis.
 
 
 
 
 
 
-2. Politinės partijos, politinės ir visuomeninės organizacijos, profesinės sąjungos, religinės organizacijos, įmonės, įstaigos bei kitos organizacijos: 
-
-
-1) savarankiškai renka duomenis ir tvarko statistinę informaciją;
+2. Oficialiąją statistiką tvarkančios įstaigos pagal sutartis su oficialiosios statistikos vartotojais gali teikti statistinę informaciją, parengtą kitaip, negu numatyta Oficialiosios statistikos programoje, jeigu tai nepažeidžia šio įstatymo 3 straipsnio 1 dalyje įtvirtintų oficialiosios statistikos organizavimo principų ir jeigu šie oficialiosios statistikos vartotojai padengia tokios statistinės informacijos rengimo sąnaudas.
 
 
 
 
-2) atlieka statistikos darbus (tyrimus), kai su jomis sudaro sutartis oficialiąją statistiką tvarkančios institucijos ir įstaigos.
+3. Oficialiąją statistiką tvarkanti įstaiga turi teisę susipažinti su mokslo tikslais atliktos statistinės analizės, kuriai atlikti statistiniai duomenys gauti iš šios oficialiąją statistiką tvarkančios įstaigos pagal šio įstatymo 13 straipsnio 4 dalyje nurodytą sutartį, rezultatais. 
  
 
 
@@ -384,103 +347,115 @@ Nr. XI-1085, 2010-11-04, Žin. 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010IST
 
 
 
+6 straipsnis. Lietuvos statistikos departamentas
 
 
-11 straipsnis. Statistikos taryba
-
-
-1. Statistikos taryba yra Statistikos departamento patariamoji institucija, nagrinėjanti svarbiausius statistikos organizavimo ir metodologijos klausimus. Ji svarsto surašymų, statistinių registrų, svarbiausių tyrimų metodologijos principus bei Oficialiosios statistikos darbų programą, pagrindinius statistinių tyrimų rezultatus, duomenų apsaugos, statistinės informacijos pateikimo valstybės ir mokslo įstaigoms ir skelbimo visuomenei klausimus, rengia išvadas bei teikia siūlymus Statistikos departamentui šiais klausimais.
+1. Lietuvos statistikos departamentas yra Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui pavestoje statistikos valdymo srityje, ją įgyvendinanti ir koordinuojanti oficialiosios statistikos rengimą pagal Oficialiosios statistikos programos I dalies nuostatas. 
 
 
 
 
-2. Statistikos tarybą sudaro valstybės ir savivaldybių institucijų, įstaigų, tvarkančių statistiką, mokslo įstaigų, visuomeninių organizacijų, įmonių, kitų respondentų ir visuomenės informavimo priemonių atstovai. Statistikos tarybos sudėtį ir Statistikos tarybos nuostatus tvirtina Vyriausybė arba paveda juos tvirtinti finansų ministrui. 
-Straipsnio dalies pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
-Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
+2. Lietuvos statistikos departamentui vadovauja generalinis direktorius. Į Lietuvos statistikos departamento generalinio direktoriaus pareigas gali būti priimamas asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį arba jam lygiavertę aukštojo mokslo kvalifikaciją ir ne mažesnį kaip 5 metų darbo statistikos srityje, 5 metų vadovaujamo darbo ir 3 metų darbo viešojo administravimo srityje stažą. Jokia valstybės ir savivaldybių institucija ar įstaiga, politinė partija, kiti asmenys negali daryti poveikio Lietuvos statistikos departamento generalinio direktoriaus įgaliojimų įgyvendinimui.
+TAR pastaba. 6 straipsnio 2 dalyje nustatyti kvalifikacijos ir darbo patirties reikalavimai taikomi tik naujai į Lietuvos statistikos departamento generalinio direktoriaus pareigas priimamam asmeniui.
  
 
 
 
 
+3. Lietuvos statistikos departamento generalinis direktorius:
 
 
-12 straipsnis. Oficialiosios statistikos duomenų šaltiniai
-
-
-1. Oficialiosios statistikos duomenų šaltiniai:
-
-
-1) fizinių asmenų, juridinių asmenų bei juridinio asmens teisių neturinčių įmonių apskaitos duomenys, statistiniai stebėjimai ir surašymai;
+1) atsako už sprendimus dėl procesų, statistinių metodų, standartų ir procedūrų, taip pat už Lietuvos statistikos departamento rengiamą, tobulinamą ir skleidžiamą statistinę informaciją; 
 
 
 
 
-2) mokesčių, muitinių, švietimo, sveikatos, darbo biržos, socialinės apsaugos ir komunalinio ūkio, Lietuvos banko informacinės sistemos, valstybės registrai, taip pat savivaldybių institucijų ir įstaigų sukaupti administracinių tvarkomųjų bei asmens dokumentų duomenys. 
-Straipsnio punkto pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
+2) sprendžia Lietuvos statistikos departamento kompetencijai priskirtus ir visus su Lietuvos statistikos departamento vidaus administravimu susijusius klausimus; 
 
 
 
 
-
-
-2. Statistiniai duomenys pateikiami Statistikos departamento, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų nustatytos formos ataskaitose, anketose arba kompiuterinėse laikmenose. Statistiką tvarkančios institucijos ir įstaigos respondento sutikimu duomenis gali rinkti telefonu.
- 
+3) skelbia metinę Lietuvos statistikos departamento veiklos ataskaitą;
 
 
 
 
+4) nustato statistinių formuliarų ir metodikų rengimo tvarką, tvirtina gaires, pagal kurias oficialiąją statistiką tvarkančiose įstaigose būtų įgyvendinamos Oficialiosios statistikos programos I dalies nuostatos, ir atsako už šių gairių laikymąsi Lietuvos statistikos departamente;
 
 
 
 
-TREČIASIS SKIRSNIS
-RESPONDENTŲ TEISĖS IR PAREIGOS TEIKIANT STATISTINIUS DUOMENIS IR JAIS NAUDOJANTIS 
- 
-
-
-13 straipsnis. Respondentų teisės
-
-
-1. Respondentai turi teisę gauti iš statistiką tvarkančių institucijų, įstaigų ir organizacijų informaciją apie teisinį statistinio tyrimo pagrindą, duomenų rinkimo tikslą, jų pateikimo privalomumą ar savanoriškumą bei nepateikimo pasekmes, pateiktų duomenų apsaugą.
+5) atstovauja Lietuvos statistikos departamentui Lietuvos Respublikoje ir užsienyje, atstovauja Lietuvos statistikos sistemai Europos statistikos sistemoje ir tarptautinėse statistikos organizacijose;
 
 
 
 
-2. Kiekvienas respondentas turi teisę susipažinti su jo pateiktais statistiką tvarkančioms institucijoms, įstaigoms ir organizacijoms duomenimis, saugomais informacinėse sistemose arba registruose.
-
-
-
-
-3. Respondentas, pastebėjęs, kad statistiką tvarkančiai institucijai, įstaigai ar organizacijai pateikė klaidingus duomenis, turi teisę raštu juos patikslinti. Jeigu respondentas neturi reikiamų duomenų statistikos ataskaitoms užpildyti, jis gali pateikti kiek galima tikslesnę informaciją kartu su aiškinamuoju raštu.
- 
+6) atlieka kitas Lietuvos statistikos departamento nuostatuose nustatytas funkcijas. 
 
 
 
 
 
 
-14 straipsnis. Respondentų pareiga teikti statistinius duomenis
+4. Lietuvos statistikos departamentas atlieka šias funkcijas:
 
 
-1. Respondentai privalo statistiką tvarkančioms institucijoms ir įstaigoms teikti tikslius duomenis įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-
-
-
-2. Juridiniai asmenys bei juridinio asmens teisių neturinčios įmonės, įstaigos ir organizacijos privalo neatlygintinai teikti statistinius duomenis Oficialiosios statistikos darbų programai įgyvendinti.
+1) rengia ir teikia Lietuvos Respublikos finansų ministerijai tvirtinti Oficialiosios statistikos programos I dalį;
 
 
 
 
-3. Fiziniai asmenys privalo teikti duomenis, jeigu tai nustato įstatymai arba Oficialiosios statistikos darbų programa.
+2) rengia ir teikia Lietuvos Respublikos finansų ministerijai tvirtinti Oficialiosios statistikos programos I dalies nuostatų vykdymo ataskaitą; 
 
 
 
 
-4. Ataskaitose ir tyrimų anketose pateikiamų duomenų tikrumą savo parašais patvirtina jas užpildę asmenys.
+3) tvirtina ir skelbia Lietuvos statistikos departamento atliekamų statistinių tyrimų statistinius formuliarus, metodikas, nustato statistinių duomenų pateikimo Lietuvos statistikos departamentui tvarką ir laiką, derina kitų oficialiąją statistiką tvarkančių įstaigų parengtus statistinių tyrimų, vykdomų pagal Oficialiosios statistikos programos I dalies nuostatas, statistinius formuliarus ir metodikas, vykdo statistinius tyrimus;
+
+
+
+
+4) oficialiosios statistikos tikslams nustato statistinio stebėjimo vieneto vykdomos ekonominės veiklos rūšį ir institucinį sektorių, kurie nelaikomi statistiniais duomenimis;
+
+
+
+
+5) koordinuoja kitų oficialiąją statistiką tvarkančių įstaigų veiklą rengiant Europos statistiką, nurodytą Europos statistikos programoje, ir įgyvendinant Oficialiosios statistikos programos I dalies nuostatas bei oficialiosios statistikos organizavimo principus, teikia rekomendacijas dėl jų įgyvendinimo;
+
+
+
+
+6) atlieka kitas Lietuvos statistikos departamento nuostatuose ir kituose teisės aktuose, reglamentuojančiuose oficialiosios statistikos tvarkymą, nustatytas funkcijas.
+
+
+
+
+
+
+5. Lietuvos statistikos departamentas, be šio įstatymo 5 straipsnyje išvardytų teisių, atlikdamas savo funkcijas, turi teisę:
+
+
+1) Oficialiosios statistikos programos I daliai rengti iš kitų oficialiąją statistiką tvarkančių įstaigų gauti informaciją apie numatomus statistinius tyrimus;
+
+
+
+
+2) iš kitų oficialiąją statistiką tvarkančių įstaigų gauti informaciją apie Oficialiosios statistikos programos I dalyje nurodytų statistinių tyrimų atlikimą, oficialiosios statistikos organizavimo principų įgyvendinimą ir šio straipsnio 3 dalies 4 punkte nurodytų gairių laikymąsi;
+
+
+
+
+3) iš kitų oficialiąją statistiką tvarkančių įstaigų gauti informaciją, susijusią su Europos statistikos, nurodytos Europos statistikos programoje, rengimu, tobulinimu ir sklaida;
+
+
+
+
+4) sudaryti su užsienio valstybių nacionalinėmis statistikos institucijomis, tarptautinėmis organizacijomis, aukštosiomis mokyklomis ir mokslinių tyrimų institutais dvišalius ir daugiašalius bendradarbiavimo susitarimus;
+
+
+
+
+5) naudotis kitomis Lietuvos statistikos departamento nuostatuose ir kituose teisės aktuose suteiktomis teisėmis.
  
 
 
@@ -490,84 +465,38 @@ RESPONDENTŲ TEISĖS IR PAREIGOS TEIKIANT STATISTINIUS DUOMENIS IR JAIS NAUDOJAN
 
 
 
-KETVIRTASIS SKIRSNIS
-OFICIALIOSIOS STATISTINĖS INFORMACIJOS NAUDOJIMAS
- 
+7 straipsnis. Kitos oficialiąją statistiką tvarkančios įstaigos 
 
 
-15 straipsnis. Oficialiosios statistinės informacijos naudojimas ir apsauga
-
-
-1. Surinkti oficialiosios statistikos reikmėms statistiniai duomenys gali būti naudojami tik statistinei informacijai rengti.
+1. Kitos oficialiąją statistiką tvarkančios įstaigos Oficialiosios statistikos programos I dalyje nurodytiems statistiniams tyrimams atlikti paskiria asmenis, atsakingus už jų vykdomus statistinius tyrimus.
 
 
 
 
-2. Oficialiosios statistikos duomenys, jeigu pagal juos tiesiogiai ar netiesiogiai galima identifikuoti respondentą, apie kurį ar kurio veiklos rezultatus buvo surinkti pirminiai statistiniai duomenys, yra konfidencialūs ir saugomi įstatymų nustatyta tvarka.
+2. Kitos oficialiąją statistiką tvarkančios įstaigos, vykdydamos Oficialiosios statistikos programos I dalyje nurodytus statistinius tyrimus, atlieka šias funkcijas:
+
+
+1) rengia statistinius formuliarus ir metodikas Lietuvos statistikos departamento generalinio direktoriaus nustatyta tvarka; 
 
 
 
 
-3. Šio įstatymo nustatytas duomenų konfidencialumas netaikomas informacijai apie:
-
-
-1) įmonių, įstaigų ir organizacijų veiklos rūšis pagal Ekonominės veiklos rūšių klasifikatorių (EVRK);
+2) suderinusios su Lietuvos statistikos departamentu, tvirtina ir skelbia savo atliekamų statistinių tyrimų statistinius formuliarus ir metodikas, nustato statistinių duomenų pateikimo kitai oficialiąją statistiką tvarkančiai įstaigai tvarką ir laiką;
 
 
 
 
-2) pagamintą produkciją pagal Europos Ekonominės Bendrijos produktų sąrašą (PRODCOM), įplaukas už parduotą produkciją ar suteiktas paslaugas;
+3) atlieka statistinius tyrimus pagal Oficialiosios statistikos programos I dalies nuostatas;
 
 
 
 
-3) fizinio asmens, juridinio asmens ar juridinio asmens teisių neturinčios įmonės samdomų darbuotojų skaičių;
+4) siekdamos skleisti statistinę informaciją per oficialiosios statistikos portalą, teikia šią informaciją Lietuvos statistikos departamentui;
 
 
 
 
-4) aplinkos taršą apibūdinančius duomenis;
-
-
-
-
-5) duomenis, kuriuos raštu leidžia skelbti respondentas.
-
-
-
-
-
-
-4. Konfidencialūs statistiniai duomenys gali būti teikiami naudotis mokslo tikslais taip, kad pagal duomenis negalima būtų tiesiogiai identifikuoti respondentų, jeigu mokslo įstaigos užtikrina šių duomenų apsaugą.
-
-
-
-
-5. Statistikos departamentas arba kita statistiką tvarkanti institucija ar įstaiga imasi organizacinių ir techninių priemonių, užtikrinančių respondento pateiktų duomenų apsaugą, diegia kompiuterines technologijas, užkertančias kelią neteisėtam jų naudojimui, platinimui, sunaikinimui.
- 
-
-
-
-
-
-
-16 straipsnis. Statistinės informacijos platinimas
-
-
-1. Statistikos departamentas ir kitos statistiką tvarkančios institucijos, įstaigos pagal savo kompetenciją skelbia ir per visuomenės informavimo priemones reguliariai pateikia statistinę informaciją apie ekonominius, socialinius ir demografinius pokyčius bei aplinkos procesus.
-
-
-
-
-2. Statistikos departamento ir kitų statistiką tvarkančių institucijų, įstaigų leidiniuose paskelbti arba valstybės bei savivaldybių institucijoms pateikti duomenys negali būti skelbiami be nuorodos į duomenis pateikusią statistiką tvarkančią instituciją ar įstaigą. 
-Straipsnio dalies pakeitimai:
-Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
- 
-
-
-
-
-3. Statistiniai duomenys gali būti perduodami Europos bendrijų statistikos tarnybai (EUROSTAT), kitoms tarptautinėms organizacijoms laikantis šio įstatymo ir kitų teisės aktų nuostatų.
+5) laikosi Lietuvos statistikos departamento rekomendacijų dėl Oficialiosios statistikos programos I dalies įgyvendinimo ir šio įstatymo 6 straipsnio 3 dalies 4 punkte nurodytų Lietuvos statistikos departamento generalinio direktoriaus tvirtinamų gairių.
  
 
 
@@ -577,41 +506,20 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 
 
-PENKTASIS SKIRSNIS
-RESPONDENTŲ BEI OFICIALIĄJĄ STATISTIKĄ TVARKANČIŲ INSTITUCIJŲ IR ĮSTAIGŲ TARNAUTOJŲ ATSAKOMYBĖ
- 
+8 straipsnis. Statistikos taryba
 
 
-17 straipsnis. Respondentų atsakomybė
-
-
-Fiziniai asmenys, įmonių, įstaigų ar organizacijų vadovai ir kiti atsakingi už oficialiosios statistikos duomenų rengimą ir teikimą asmenys, pažeidę šio įstatymo ir kitų su statistika susijusių teisės aktų reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.
- 
+1. Statistikos taryba yra visuomeniniais pagrindais veikianti Lietuvos statistikos departamento patariamoji institucija, nagrinėjanti svarbiausius statistikos organizavimo ir metodologijos klausimus. Ji svarsto klausimus, susijusius su Oficialiosios statistikos programos I dalimi, visuotiniais surašymais ir kitais svarbiais statistiniais tyrimais, statistinės informacijos sklaida ir statistinių duomenų apsauga, rengia išvadas ir teikia siūlymus Lietuvos statistikos departamentui. 
 
 
 
 
-
-
-18 straipsnis. Oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojų atsakomybė
-
-
-1. Statistikos departamento, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai privalo užtikrinti darbe naudojamų respondentų pateiktų duomenų konfidencialumą visą duomenų įslaptinimo terminą. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
- 
+2. Statistikos tarybą sudaro deleguoti Lietuvos banko, kitų valstybės ir savivaldybių institucijų, įstaigų, naudojančių ir (arba) tvarkančių oficialiąją statistiką, aukštųjų mokyklų, mokslinių tyrimų institutų, asociacijų, respondentų ir visuomenės informavimo priemonių atstovai.
 
 
 
 
-2. Oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai, kuriems leista dirbti su konfidencialia informacija, įsipareigoja iš respondentų gautus duomenis naudoti tik statistikos reikmėms ir juos saugoti. Darbo santykių nutraukimas neatleidžia asmens nuo įsipareigojimo saugoti jam patikėtą konfidencialią informaciją bei nuo atsakomybės už tokios informacijos atskleidimą.
-
-
-
-
-3. Statistikos departamento, kitų oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojai, pažeidę šio įstatymo ir kitų su statistika susijusių teisės aktų reikalavimus, atsako pagal Lietuvos Respublikos įstatymus. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
+3. Statistikos tarybos institucinę ir personalinę sudėtį ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -619,10 +527,369 @@ Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010IS
 
 
 
-19 straipsnis. Pasiūlymas Vyriausybei
+9 straipsnis. Oficialiosios statistikos programa
 
 
-Vyriausybė iki 2000 m. kovo 10 d. pateikia Seimui įstatymų, susijusių su šio įstatymo nuostatomis, pakeitimų ir papildymų įstatymų projektus.
+1. Oficialiosios statistikos programą sudaro:
+
+
+1) I dalis, į kurią įtraukiami Lietuvos statistikos departamento, kitų oficialiąją statistiką tvarkančių įstaigų atliekami statistiniai tyrimai. Ją tvirtina Lietuvos Respublikos finansų ministras;
+
+
+
+
+2) II dalis, į kurią įtraukiami Lietuvos banko atliekami statistiniai tyrimai. Ji tvirtinama ir jos vykdymo ataskaita rengiama Lietuvos banko nustatyta tvarka. 
+
+
+
+
+
+
+2. Lietuvos statistikos departamentas ir Lietuvos bankas sudaro tarpusavio susitarimus dėl Oficialiosios statistikos programos įgyvendinimo, dėl Lietuvos banko atliekamų Europos statistikos programos statistinių tyrimų. 
+
+
+
+
+3. Oficialiosios statistikos programoje nurodoma:
+
+
+1) statistinio tyrimo pavadinimas, tikslas, atlikimo periodiškumas, privalomumas;
+
+
+
+
+2) statistinio tyrimo teisinis pagrindas;
+
+
+
+
+3) statistinių duomenų šaltinis;
+
+
+
+
+4) statistinės informacijos paskelbimo laikas ir būdas;
+
+
+
+
+5) už statistinio tyrimo atlikimą atsakinga oficialiąją statistiką tvarkanti įstaiga;
+
+
+
+
+6) statistiniam tyrimui atlikti reikalingos lėšos;
+
+
+
+
+7) kita reikiama informacija apie atliekamus statistinius tyrimus.
+
+
+
+
+
+
+4. Oficialiosios statistikos programos I dalies vykdymo ataskaitą tvirtina Lietuvos Respublikos finansų ministerija. 
+ 
+
+
+
+
+
+
+10 straipsnis. Oficialiosios statistikos šaltiniai
+
+
+Oficialiosios statistikos šaltiniai:
+
+
+1) respondentų teikiami ar iš jų surinkti statistiniai duomenys;
+
+
+
+
+2) administraciniai duomenys;
+
+
+
+
+3) oficialiąją statistiką tvarkančių įstaigų teisėtai gauti juridinių arba fizinių asmenų duomenys, kurie prieinami viešai, ir (arba) juridinių asmenų kaupiami ir tvarkomi duomenys;
+
+
+
+
+4) oficialiąją statistiką tvarkančių įstaigų teisėtai gauti tarptautinių organizacijų statistiniai duomenys.
+ 
+
+
+
+
+
+
+
+
+11 straipsnis. Visuotiniai surašymai
+
+
+1. Lietuvos Respublikoje gali būti atliekami visuotiniai gyventojų, būstų, žemės ūkių ir kiti surašymai.
+
+
+
+
+2. Visuotinis surašymas ir jo tikslas nustatomas Europos Sąjungos teisės aktu, įstatymu arba Lietuvos Respublikos Vyriausybės nutarimu. 
+
+
+
+
+3. Visuotinį surašymą organizuoja ir atlieka Lietuvos statistikos departamentas ir (arba) kitos oficialiąją statistiką tvarkančios įstaigos. 
+
+
+
+
+4. Lietuvos statistikos departamentas arba kitos oficialiąją statistiką tvarkančios įstaigos gali pasitelkti klausėjus visuotinio surašymo darbams atlikti.
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+STATISTINĖS INFORMACIJOS SKLAIDA IR STATISTINIŲ DUOMENŲ IR STATISTINĖS INFORMACIJOS PERDAVIMAS
+ 
+
+
+12 straipsnis. Statistinės informacijos sklaida
+
+
+1. Oficialiąją statistiką tvarkančios įstaigos pagal savo kompetenciją privalo skelbti statistinę informaciją, parengtą pagal Oficialiosios statistikos programą.
+
+
+
+
+2. Statistinė informacija, parengta pagal Oficialiosios statistikos programą, yra skelbiama taip, kad būtų prieinama visiems oficialiosios statistikos vartotojams vienu metu. 
+
+
+
+
+3. Oficialiąją statistiką tvarkančių įstaigų paskelbta arba valstybės ir savivaldybių institucijoms ir įstaigoms bei kitiems juridiniams asmenims, kitoms organizacijoms ar jų padaliniams arba fiziniams asmenims pateikta statistinė informacija turi būti skleidžiama nurodant statistinę informaciją parengusią oficialiąją statistiką tvarkančią įstaigą.
+
+
+
+
+4. Statistiniai duomenys apie statistinio stebėjimo vienetus gali būti skleidžiami viešo naudojimo informacijos rinkmenomis, kurias sudaro nuasmeninti įrašai, parengti taip, kad nebūtų galimas tiesioginis ir netiesioginis atpažinimas. 
+ 
+
+
+
+
+
+
+13 straipsnis. Statistinių duomenų ir statistinės informacijos perdavimas
+
+
+1. Oficialiąją statistiką tvarkančios įstaigos keičiasi statistiniais duomenimis, reikalingais Oficialiosios statistikos programai įgyvendinti, siekdamos mažinti statistinės atskaitomybės naštą respondentams.
+
+
+
+
+2. Statistiniai duomenys ir statistinė informacija perduodami Europos Komisijai (Europos Sąjungos statistikos tarnybai – Eurostatui) ir Europos Centriniam Bankui, jeigu tai numatyta Europos Sąjungos teisės aktuose.
+
+
+
+
+3. Statistiniai duomenys ir statistinė informacija gali būti perduodami Europos Sąjungos valstybių narių statistikos tarnyboms ir nacionaliniams centriniams bankams bei kitoms nacionalinėms statistikos institucijoms Europos Sąjungos teisės aktuose nustatyta tvarka.
+
+
+
+
+4. Oficialiąją statistiką tvarkančios įstaigos sutarčių, sudarytų su aukštosiomis mokyklomis ar mokslinių tyrimų institutais, pagrindu gali teikti statistinius duomenis šių aukštųjų mokyklų ir mokslinių tyrimų institutų tyrėjams statistinėms analizėms mokslo tikslais atlikti. Statistiniai duomenys turi būti teikiami taip, kad pagal juos nebūtų galimas tiesioginis atpažinimas. 
+ 
+
+
+
+
+
+
+
+
+IV SKYRIUS
+STATISTINIŲ DUOMENŲ KONFIDENCIALUMAS IR NAUDOJIMAS, STATISTINIŲ DUOMENŲ IR STATISTINĖS INFORMACIJOS APSAUGA 
+ 
+
+
+14 straipsnis. Statistinių duomenų konfidencialumas ir naudojimas
+
+
+1. Statistiniai duomenys, gauti iš viešai prieinamų šaltinių, kurie pagal Lietuvos Respublikos teisės aktus prieinami visuomenei, nėra laikomi konfidencialiais.
+
+
+
+
+2. Konfidencialūs statistiniai duomenys gali būti naudojami tik oficialiosios statistikos tikslams, išskyrus šio straipsnio 3 dalyje numatytas išimtis.
+
+
+
+
+3. Jeigu Europos Sąjungos teisės aktai nenustato kitaip, konfidencialūs statistiniai duomenys gali būti naudojami kitiems negu oficialiosios statistikos tikslams: 
+
+
+1) kai respondentas raštu leidžia juos skleisti;
+
+
+
+
+2) šio įstatymo 13 straipsnio 4 dalyje nurodytu atveju.
+ 
+
+
+
+
+
+
+
+
+15 straipsnis. Statistinių duomenų ir statistinės informacijos apsauga
+
+
+1. Oficialiąją statistiką tvarkančios įstaigos privalo imtis organizacinių, technologinių ir techninių priemonių, užtikrinančių statistinių duomenų, įskaitant asmens duomenis, ypatingus asmens duomenis, ir statistinės informacijos apsaugą, diegti informacines technologijas, užkertančias kelią atsitiktiniam ar neteisėtam jų sunaikinimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui. 
+
+
+
+
+2. Pagal šio įstatymo 13 straipsnio 4 dalį statistinius duomenis gaunančios aukštosios mokyklos ir mokslinių tyrimų institutai bei jų tyrėjai turi užtikrinti gautų konfidencialių statistinių duomenų apsaugą nuo jų atskleidimo kitiems asmenims arba neteisėto jų naudojimo arba tvarkymo kitais, šio įstatymo 13 straipsnio 4 dalyje nenustatytais, tikslais.
+ 
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+RESPONDENTŲ IR OFICIALIOSIOS STATISTIKOS VARTOTOJŲ TEISĖS IR PAREIGOS
+ 
+
+
+16 straipsnis. Respondentų teisės
+
+
+Respondentai turi teisę:
+
+
+1) gauti iš oficialiąją statistiką tvarkančių įstaigų informaciją apie teisinį statistinio tyrimo pagrindą, statistinių duomenų naudojimo tikslą, jų pateikimo privalomumą ar savanoriškumą, teisines nepateikimo pasekmes, numatytas Lietuvos Respublikos administracinių nusižengimų kodekse;
+
+
+
+
+2) susipažinti su oficialiąją statistiką tvarkančių įstaigų tvarkomais respondentų asmens duomenimis ir kitais apie juos surinktais statistiniais duomenimis, saugomais oficialiąją statistiką tvarkančių įstaigų tvarkomose informacinėse sistemose ir (arba) registruose, ir, pastebėję netikslumų, reikalauti, kad jie būtų ištaisyti.
+ 
+
+
+
+
+
+
+
+
+17 straipsnis. Respondentų pareigos 
+
+
+Respondentai privalo:
+
+
+1) Oficialiosios statistikos programai įgyvendinti teisės aktų nustatyta tvarka neatlygintinai teikti teisingus statistinius duomenis, įskaitant asmens duomenis, ypatingus asmens duomenis ir tokius duomenis, pagal kuriuos galimas tiesioginis ar netiesioginis atpažinimas. Respondentai fiziniai asmenys privalo teikti statistinius duomenis, įskaitant asmens duomenis, ypatingus asmens duomenis ir tokius duomenis, pagal kuriuos galimas tiesioginis ar netiesioginis atpažinimas, jeigu taip nustatyta Europos Sąjungos teisės aktais arba įstatymais;
+
+
+
+
+2) pastebėję, kad oficialiąją statistiką tvarkančiai įstaigai pateikė klaidingus ir (arba) netikslius statistinius duomenis, juos ištaisyti ir (arba) patikslinti. Oficialiąją statistiką tvarkanti įstaiga sudaro respondentams sąlygas ištaisyti ir (arba) patikslinti pateiktus statistinius duomenis ir informuoja juos apie taisymo ir (arba) tikslinimo būdą (būdus); 
+
+
+
+
+3) savo parašu patvirtinti statistiniuose formuliaruose teikiamų statistinių duomenų teisingumą – fizinis asmuo, juridinio asmens ar kitos organizacijos vadovas arba jo įgaliotas asmuo, pagal teisės aktus juridinio asmens ar kitos organizacijos padalinio vardu turintis teisę veikti asmuo, išskyrus atvejus, kai nereikalaujama nurodyti respondento; 
+
+
+
+
+4) teikdami statistinius duomenis elektroniniu būdu, saugiu elektroniniu parašu arba kitu būdu, leidžiančiu nustatyti juos pateikusio fizinio asmens tapatybę, patvirtinti statistinių duomenų teisingumą arba tai, kad statistiniame formuliare įrašyti statistiniai duomenys atitinka apklausos teiginius, išskyrus atvejus, kai nereikalaujama nurodyti respondento;
+
+
+
+
+5) sudaryti sąlygas oficialiąją statistiką tvarkančių įstaigų darbuotojams neatlygintinai rinkti viešai prieinamus statistinius duomenis Oficialiosios statistikos programai įgyvendinti;
+
+
+
+
+6) teikdami statistinius duomenis telefonu, prisistatyti – pasakyti vardą, pavardę ir juridinio asmens pavadinimą bei einamas pareigas, jeigu veikiama juridinio asmens ar kitos organizacijos vardu.
+ 
+
+
+
+
+
+
+
+
+18 straipsnis. Oficialiosios statistikos vartotojų teisės ir pareigos
+
+
+1. Oficialiosios statistikos vartotojai turi teisę:
+
+
+1) susipažinti su statistinės informacijos rengimo principais, tvarka ir metodais;
+
+
+
+
+2) gauti informaciją apie statistinės informacijos kokybę;
+
+
+
+
+3) teikti siūlymus oficialiąją statistiką tvarkančioms įstaigoms dėl statistinės informacijos rengimo.
+
+
+
+
+
+
+2. Oficialiosios statistikos vartotojai, skleisdami statistinę informaciją, privalo laikytis šio įstatymo 12 straipsnio 3 dalyje nustatyto reikalavimo.
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS
+atsakomybė
+ 
+
+
+19 straipsnis. Oficialiąją statistiką tvarkančių įstaigų pareigūnų, valstybės tarnautojų ir darbuotojų atsakomybė
+
+
+1. Oficialiąją statistiką tvarkančių įstaigų pareigūnai, valstybės tarnautojai ir darbuotojai, kuriems leista dirbti su statistiniais duomenimis, privalo užtikrinti konfidencialių statistinių duomenų ir statistinės informacijos apsaugą, raštu įsipareigoja konfidencialius statistinius duomenis saugoti ir naudoti tik oficialiosios statistikos tikslams. 
+
+
+
+
+2. Valstybės tarnybos ar darbo santykių nutraukimas neatleidžia asmens nuo įsipareigojimo saugoti konfidencialius statistinius duomenis ir nuo atsakomybės už šių statistinių duomenų atskleidimą.
+
+
+
+
+3. Klausėjas, renkantis statistinius duomenis apklausos būdu, atsako už statistiniame formuliare įrašytų statistinių duomenų teisingumą ir jų atitiktį respondento pateiktiems statistiniams duomenims ir teiginiams.
  
 
 
@@ -639,10 +906,30 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
  
  
- 
 
 
  
+
+
+
+
+ 
+Lietuvos Respublikos
+oficialiosios statistikos įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 177/2008, nustatantis bendrą verslo registrų sistemą statistikos tikslais ir panaikinantis Tarybos reglamentą (EEB) Nr. 2186/93 (OL 2008 L 61, p. 6).
+
+
+
+
+2. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 223/2009 dėl Europos statistikos, panaikinantis Europos Parlamento ir Tarybos reglamentą (EB, Euratomas) Nr. 1101/2008 dėl konfidencialių statistinių duomenų perdavimo Europos Bendrijų statistikos tarnybai, Tarybos reglamentą (EB) Nr. 322/97 dėl Bendrijos statistikos ir Tarybos sprendimą 89/382/EEB, Euratomas, įsteigiantį Europos Bendrijų statistikos programų komitetą (OL 2009 L 87, p. 164), su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/759 (OL 2015 L 123, p. 90).
+
+
  
  
 Pakeitimai:
@@ -671,3 +958,8 @@ Lietuvos Respublikos statistikos įstatymo 1, 2, 3, 5, 6, 8, 9, 11, 12 ir 16 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
 Lietuvos Respublikos statistikos įstatymo 2, 6, 7, 11, 18 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1128, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07480
+Lietuvos Respublikos statistikos įstatymo Nr. I-270 pakeitimo įstatymas
