@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2017-07-15 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1419,14 +1419,55 @@ Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
 
 
 6. Lietuvos bankas, nustatęs faktus, liudijančius galimai nusikalstamą veiklą, apie juos praneša atitinkamoms teisėsaugos institucijoms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
+ 
+
+
+
+
+7. Lietuvos bankas, turėdamas pagrindą įtarti, kad nuotoliniu būdu (naudojant ryšio priemones) Lietuvos Respublikoje nelegaliai, tai yra neturint finansų rinką reglamentuojančiuose teisės aktuose nustatyta tvarka suteiktos teisės arba kitaip pažeidžiant teisės aktų reikalavimus, yra siūloma įsigyti arba pasirašyti finansinių priemonių, siūlomos ir (arba) teikiamos draudimo arba finansinės paslaugos, turi teisę:
+
+
+1) duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas;
+
+
+
+
+2) duoti privalomus nurodymus tinklo paslaugų teikėjui skubiai panaikinti galimybę pasiekti informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1147, 2018-05-15, paskelbta TAR 2018-05-23, i. k. 2018-08262
+ 
+
+
+
+
+8. Lietuvos bankas, siekdamas atlikti šio straipsnio 7 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu jie žinomi), įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi veiksmai. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, turi teisę per 7 dienas apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1147, 2018-05-15, paskelbta TAR 2018-05-23, i. k. 2018-08262
+ 
+
+
+
+
+9. Lietuvos bankas informaciją apie asmenis, kurie Lietuvos Respublikoje nelegaliai siūlo įsigyti arba pasirašyti finansinių priemonių, siūlo ir (arba) teikia draudimo arba finansines paslaugas, skelbia viešai ir praneša, kad minėtų asmenų veikla yra vykdoma nelegaliai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1147, 2018-05-15, paskelbta TAR 2018-05-23, i. k. 2018-08262
+ 
+
+
+
+
+10. Galimybių pasiekti informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas, panaikinimo užtikrinimo tvarką nustato Lietuvos bankas. 
 Straipsnio pakeitimai:
 Nr. IX-2069, 2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 Nr. XII-1035, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10871
- 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2075, 2015-11-26, paskelbta TAR 2015-12-03, i. k. 2015-19283
+Papildyta straipsnio dalimi:
+Nr. XIII-1147, 2018-05-15, paskelbta TAR 2018-05-23, i. k. 2018-08262
  
 
 
@@ -2510,4 +2551,9 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 pried
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-580, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11950
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1147, 2018-05-15, paskelbta TAR 2018-05-23, i. k. 2018-08262
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
