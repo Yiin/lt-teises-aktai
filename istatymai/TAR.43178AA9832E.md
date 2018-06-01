@@ -20,9 +20,14 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2017-07-13 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
+ 
+TAR pastaba. Viešojo sektoriaus subjektai, kurių apskaita iki šio įstatymo (Nr. XIII-930) įsigaliojimo (2018-06-01) buvo tvarkoma centralizuotai arba pagal sutartį su apskaitos paslaugas teikiančia įmone ar apskaitos paslaugas savarankiškai teikiančiu asmeniu, apskaitą tvarko pagal iki šio įstatymo įsigaliojimo sudarytas sutartis tol, kol Lietuvos Respublikos Vyriausybė, savivaldybių tarybos arba atitinkamo viešojo sektoriaus subjekto vadovas priims sprendimą dėl kitokio šių viešojo sektoriaus subjektų buhalterinės apskaitos tvarkymo.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 7, 9, 10, 11, 14, 16, 19 ir 21 straipsnių pakeitimo ir Įstatymo papildymo 10-3 straipsniu įstatymas
  
 LIETUVOS RESPUBLIKOS
 BUHALTERINĖS APSKAITOS
@@ -516,6 +521,14 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 3. Ūkio subjektas susidaro savo sąskaitų planą. Jį tvirtina to ūkio subjekto vadovas.
 
 
+
+
+4. Viešojo sektoriaus subjekto, kurio apskaita tvarkoma centralizuotai, sąskaitų planą sudaro biudžetinė įstaiga, kuri viešojo sektoriaus subjektų apskaitą tvarko centralizuotai, ir tvirtina biudžetinės įstaigos, kuri viešojo sektoriaus subjektų apskaitą tvarko centralizuotai, vadovas arba jo įgaliotas asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
 Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
@@ -567,6 +580,14 @@ Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 
 
 
+
+
+3. Viešojo sektoriaus subjekto, kurio apskaita tvarkoma centralizuotai, apskaitos politiką parenka, suderinęs su viešojo sektoriaus subjektu, kurio apskaita tvarkoma centralizuotai, tvirtina ir įgyvendina biudžetinės įstaigos, kuri viešojo sektoriaus subjektų apskaitą tvarko centralizuotai, vadovas arba jo įgaliotas asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
 Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
@@ -605,7 +626,10 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 
 
-4. Biudžetinių įstaigų apskaita tvarkoma šio straipsnio 1 dalies 1 punkte nustatyta tvarka arba centralizuotai.
+4. Viešojo sektoriaus subjektų apskaita tvarkoma šio straipsnio 1 dalies 1 punkte nustatyta tvarka arba centralizuotai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
 
 
 
@@ -709,6 +733,44 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 
 
+103 straipsnis. Centralizuotas viešojo sektoriaus subjektų apskaitos tvarkymas 
+
+
+1. Centralizuoto viešojo sektoriaus subjektų apskaitos organizavimo tvarką nustato Vyriausybė. 
+
+
+
+
+2. Sprendimą dėl viešojo sektoriaus subjektų, kurių apskaita tvarkoma centralizuotai, ir dėl biudžetinės (biudžetinių) įstaigos (įstaigų), kuri (kurios) centralizuotai tvarko viešojo sektoriaus subjektų apskaitą, gali priimti: 
+
+
+1) dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų tarnybų, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos ir šių subjektų kontroliuojamų viešojo sektoriaus subjektų – Vyriausybė; 
+
+
+
+
+2) dėl savivaldybių kontroliuojamų viešojo sektoriaus subjektų – savivaldybių tarybos;
+
+
+
+
+3) dėl šio straipsnio 2 dalies 1 ir 2 punktuose nenurodytų viešojo sektoriaus subjektų – atitinkamo viešojo sektoriaus subjekto vadovas. 
+
+
+
+
+
+
+3. Kai viešojo sektoriaus subjektų apskaita tvarkoma centralizuotai, viešojo sektoriaus subjekto vadovo ir centralizuotai apskaitą tvarkančios biudžetinės įstaigos vadovo funkcijos, pareigos ir atsakomybė nustatomos rašytinėje sutartyje, atsižvelgiant į centralizuotai atliekamų funkcijų apimtį. Šios sutarties tipinę formą tvirtina Vyriausybė. 
+
+
+Papildyta straipsniu:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
+
+
+
+
 11 straipsnis. Atsakomybė už buhalterinių įrašų teisingumą
 
 
@@ -717,13 +779,20 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 
 
-2. Apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens, arba centralizuotai tvarkančios apskaitą biudžetinės įstaigos atsakomybė nustatoma rašytinėje sutartyje, sudaromoje su užsakovu. Prie sutarties pridedama apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens bendrosios civilinės atsakomybės draudimo sutartis.
+2. Apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens atsakomybė nustatoma rašytinėje sutartyje, sudaromoje su užsakovu. Prie sutarties pridedama apskaitos paslaugas teikiančios įmonės arba apskaitos paslaugas savarankiškai teikiančio asmens bendrosios civilinės atsakomybės draudimo sutartis.
 
 
+
+
+3. Centralizuotai apskaitą tvarkančios biudžetinės įstaigos atsakomybė nustatoma rašytinėje sutartyje, kurią sudaro viešojo sektoriaus subjektas, kurio apskaita tvarkoma centralizuotai, ir centralizuotai apskaitą tvarkanti biudžetinė įstaiga. 
 Straipsnio pakeitimai:
 Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
 Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
 Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
  
 
 
@@ -914,20 +983,27 @@ Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
 
 
 
-14 straipsnis. Apskaitos dokumentų pasirašymas 
+14 straipsnis. Apskaitos dokumentų pasirašymas
 
 
-1. Ūkio subjekto vadovas nustato apskaitos dokumentų pasirašymo tvarką ir asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą. Apskaitos dokumentai pasirašomi asmeniškai arba Lietuvos Respublikos elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo, arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudaromoje su užsakovu.
+1. Ūkio subjekto vadovas nustato apskaitos dokumentų pasirašymo tvarką ir asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą. Apskaitos dokumentai pasirašomi asmeniškai arba Lietuvos Respublikos elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo, dokumentų pasirašymo tvarka nustatoma sutartyje, sudaromoje su užsakovu. 
 
 
 
 
-2. Už apskaitos dokumentų surašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos dokumentus surašę ir pasirašę asmenys. Ūkio subjekto vadovas atsako už teisingos, tikslios, išsamios ir laiku pateiktos informacijos apie ūkinius įvykius ir ūkines operacijas pateikimą vyriausiajam buhalteriui (buhalteriui) arba apskaitos paslaugas teikiančiai įmonei, arba apskaitos paslaugas savarankiškai teikiančiam asmeniui.
+2. Už apskaitos dokumentų surašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos dokumentus surašę ir pasirašę asmenys. Ūkio subjekto vadovas atsako už teisingos, tikslios, išsamios ir laiku pateiktos informacijos apie ūkinius įvykius ir ūkines operacijas pateikimą vyriausiajam buhalteriui (buhalteriui) arba apskaitos paslaugas teikiančiai įmonei, arba apskaitos paslaugas savarankiškai teikiančiam asmeniui, arba biudžetinei įstaigai, kuri viešojo sektoriaus subjekto apskaitą tvarko centralizuotai.
 
 
+
+
+3. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, apskaitos dokumentų pasirašymo tvarka nustatoma rašytinėje sutartyje, kurią sudaro viešojo sektoriaus subjektas, kurio apskaita tvarkoma centralizuotai, ir centralizuotai apskaitą tvarkanti biudžetinė įstaiga. 
 Straipsnio pakeitimai:
 Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
 Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
  
 
 
@@ -960,7 +1036,10 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 
 
-2. Apskaitos registrų formą, turinį ir skaičių nusistato ūkio subjektas pagal savo poreikius.
+2. Apskaitos registrų formą, turinį ir skaičių nusistato ūkio subjektas pagal savo poreikius. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, apskaitos registrų formą, turinį ir skaičių nustato biudžetinė įstaiga, kuri viešojo sektoriaus subjektų apskaitą tvarko centralizuotai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
 
 
 
@@ -1066,6 +1145,14 @@ APSKAITOS DOKUMENTŲ IR APSKAITOS REGISTRŲ SAUGOJIMAS
 5. Jeigu pasikeičia ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo, ūkio subjekto vadovo nustatyta tvarka ir per nustatytą laikotarpį ūkio subjekto vyriausiasis buhalteris (buhalteris) arba apskaitos paslaugas teikianti įmonė, arba apskaitos paslaugas savarankiškai teikiantis asmuo apskaitos dokumentus, apskaitos registrus ir sudarytas finansines ataskaitas perduoda tvarkyti ūkio subjekto vadovo paskirtam asmeniui.
 
 
+
+
+6. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, viešojo sektoriaus subjekto vadovo ir centralizuotai apskaitą tvarkančios biudžetinės įstaigos vadovo pareigos, nurodytos šio straipsnio 1–5 dalyse, nustatomos rašytinėje sutartyje, kurią sudaro viešojo sektoriaus subjektas, kurio apskaita tvarkoma centralizuotai, ir centralizuotai apskaitą tvarkanti biudžetinė įstaiga. 
+Papildyta straipsnio dalimi:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1178, 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
 Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
@@ -1114,6 +1201,14 @@ Nr. XII-2215, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21010
 
 
 2. Už apskaitos dokumentų ir apskaitos registrų išsaugojimą ir įstatymų nustatytais atvejais jų duomenų teikimą civilinę, administracinę ir baudžiamąją atsakomybę reglamentuojančių teisės aktų nustatyta tvarka atsako ūkio subjekto vadovas.
+
+
+
+
+3. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, šio straipsnio 1 dalyje nurodyta atsakomybė tenka biudžetinės įstaigos, kuri viešojo sektoriaus subjektų apskaitą tvarko centralizuotai, vadovui, o šio straipsnio 2 dalyje nurodyta atsakomybė nustatoma rašytinėje sutartyje, kurią sudaro viešojo sektoriaus subjektas, kurio apskaita tvarkoma centralizuotai, ir centralizuotai apskaitą tvarkanti biudžetinė įstaiga. 
+Papildyta straipsnio dalimi:
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+ 
 
 
 Straipsnio pakeitimai:
@@ -1487,3 +1582,8 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 1 ir 3 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-574, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12075
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 2 ir 10-2 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 7, 9, 10, 11, 14, 16, 19 ir 21 straipsnių pakeitimo ir Įstatymo papildymo 10-3 straipsniu įstatymas
