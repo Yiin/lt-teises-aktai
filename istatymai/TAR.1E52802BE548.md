@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-02-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -707,7 +707,18 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-15) sprendžia kitus šiame Įstatyme ir viešosios įstaigos įstatuose visuotinio dalininkų susirinkimo kompetencijai priskirtus klausimus.
+15) priima sprendimą dėl šio įstatymo 111 straipsnyje nurodytų funkcijų centralizuoto atlikimo; 
+Papildyta straipsnio punktu:
+Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
+ 
+
+
+
+
+16) sprendžia kitus šiame Įstatyme ir viešosios įstaigos įstatuose visuotinio dalininkų susirinkimo kompetencijai priskirtus klausimus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
+ 
 
 
 
@@ -795,6 +806,49 @@ Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
 
 Straipsnio pakeitimai:
 Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
+ 
+
+
+
+
+111 straipsnis. Viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė arba savivaldybė, bendrųjų funkcijų centralizuotas atlikimas 
+
+
+1. Dalis viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė arba savivaldybė,  bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti viešajai įstaigai teisės aktuose nustatytus uždavinius (toliau –  bendrosios funkcijos), gali būti atliekamos centralizuotai. 
+
+
+
+
+2. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šio straipsnio 1 dalyje nurodytas bendrąsias funkcijas, priima:
+
+
+1) Vyriausybė – dėl viešosios įstaigos, kurios savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė;
+
+
+
+
+2) savivaldybės taryba – dėl viešosios įstaigos, kurios savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra savivaldybė;
+
+
+
+
+3) visuotinis dalininkų susirinkimas – dėl šios dalies 1 ir 2 punktuose nenurodytų viešųjų įstaigų, kurių dalininkė yra valstybė arba savivaldybė.
+
+
+
+
+
+
+3. Centralizuoto viešųjų įstaigų bendrųjų funkcijų atlikimo tvarką nustato Vyriausybė. 
+
+
+
+
+4. Kai viešosios įstaigos bendrosios funkcijos atliekamos centralizuotai, šios viešosios įstaigos vadovo ir centralizuotai jos bendrąsias funkcijas atliekančios įstaigos vadovo funkcijos, pareigos ir atsakomybė paskirstomos Vyriausybės nustatyta tvarka, atsižvelgiant į atliekamų funkcijų apimtį. 
+
+
+Papildyta straipsniu:
+Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
  
 
 
@@ -1425,3 +1479,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 ir 12 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-892, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21321
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 10 straipsnio pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
