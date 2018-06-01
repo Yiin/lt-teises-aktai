@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-01-02 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -615,6 +615,64 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+ 
+
+
+
+
+101 straipsnis. Komercinių paslapčių apsaugos ypatumai
+
+
+1. Šis straipsnis nustato komercinių paslapčių apsaugos ypatumus bylose dėl komercinių paslapčių neteisėto gavimo, naudojimo ar atskleidimo ir kitose civilinėse bylose. 
+
+
+
+
+2. Kai yra pagrindas manyti, kad gali būti atskleista komercinė paslaptis, teismas dalyvaujančių byloje asmenų tinkamai pagrįstu prašymu ar savo iniciatyva motyvuota nutartimi nustato konkrečius asmenis, turinčius teisę:
+
+
+1) susipažinti su bylos medžiaga, kurioje pateikta komercinę paslaptį sudaranti informacija ar galimai komercinę paslaptį sudaranti informacija, daryti ir gauti bylos išrašus, nuorašus ir kopijas (skaitmenines kopijas); 
+
+
+
+
+2) dalyvauti uždaruose teismo posėdžiuose, kuriuose gali būti atskleista komercinę paslaptį sudaranti informacija ar galimai komercinę paslaptį sudaranti informacija, ir susipažinti su tų teismo posėdžių protokolais;
+
+
+
+
+3) gauti teismo sprendimo ar nutarties, kurioje atskleista komercinę paslaptį sudaranti informacija ar galimai komercinę paslaptį sudaranti informacija, patvirtintą kopiją (skaitmeninę kopiją).
+
+
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodytų asmenų skaičius negali būti didesnis negu būtina siekiant užtikrinti asmens teisę į teisminę gynybą ir teisingą bylos išnagrinėjimą. Tarp šių asmenų turi būti bent šie asmenys: 
+
+
+1) jeigu dalyvaujantis byloje asmuo yra fizinis asmuo, – jis pats ir jo atstovas;
+
+
+
+
+2) jeigu dalyvaujantis byloje asmuo yra juridinis asmuo, – bent vienas fizinis asmuo, bylą vedantis juridinio asmens vardu, ir juridinio asmens atstovas.
+
+
+
+
+
+
+4. Teismas, taikydamas šio straipsnio 2 dalyje nustatytus ribojimus, turi atsižvelgti į būtinybę užtikrinti asmens teisę į teisminę gynybą ir teisingą bylos išnagrinėjimą, šalių ir kitų dalyvaujančių byloje asmenų teisėtus interesus ir į žalą, kuri gali atsirasti dėl tų ribojimų taikymo ar netaikymo.
+
+
+
+
+5. Dėl šio straipsnio 2 dalyje nurodytos nutarties gali būti duodamas atskirasis skundas. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1126, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07478
  
 
 
@@ -2090,7 +2148,7 @@ Teisėjas, teismo posėdžio sekretorius, ekspertas ir vertėjas negali dalyvaut
 
 
 
-6) jeigu jis dalyvavo priimant sprendimą byloje žemesniosios ar aukštesniosios instancijos teisme arba šioje byloje dalyvavo kaip liudytojas, ekspertas, prokuroras, valstybės ar savivaldybės institucijos atstovas.
+6) jeigu jis dalyvavo priimant sprendimą byloje žemesniosios ar aukštesniosios instancijos teisme arba šioje byloje dalyvavo kaip liudytojas, ekspertas, prokuroras, valstybės ar savivaldybės institucijos atstovas;
 
 
 
@@ -8277,7 +8335,10 @@ Nr. XII-2580, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20333
 275 straipsnis. Teismo sprendimo kopijų išsiuntimas šalims, tretiesiems ir kitiems asmenims
 
 
-1. Šio Kodekso 270 straipsnio nustatyta tvarka surašyto sprendimo patvirtinta kopija išduodama arba išsiunčiama teismo posėdyje dalyvavusiems asmenims jų reikalavimu. Šalims ir tretiesiems asmenims, nedalyvavusiems paskelbiant teismo sprendimą, ne vėliau kaip per tris darbo dienas nuo sprendimo paskelbimo dienos išsiunčiamos teismo sprendimo patvirtintos kopijos.
+1. Šio Kodekso 270 straipsnyje nustatyta tvarka surašyto sprendimo patvirtintos kopijos išduodamos arba išsiunčiamos teismo posėdyje dalyvavusiems asmenims jų reikalavimu. Šalims ir tretiesiems asmenims, nedalyvavusiems paskelbiant teismo sprendimą, ne vėliau kaip per tris darbo dienas nuo sprendimo paskelbimo dienos išsiunčiamos teismo sprendimo patvirtintos kopijos. Sprendimo, kuriame atskleista komercinę paslaptį sudaranti informacija, patvirtintos kopijos išduodamos arba išsiunčiamos tik šio Kodekso 101 straipsnio 2 dalies 3 punkte nurodytiems asmenims. Kitiems asmenims sprendimo patvirtintos kopijos išduodamos arba išsiunčiamos nepažeidžiant komercinės paslapties apsaugos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1126, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07478
+ 
 
 
 
@@ -8927,11 +8988,18 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 292 straipsnis. Nutarčių kopijų išsiuntimas šalims ir tretiesiems asmenims
 
 
-Šio Kodekso 291 straipsnyje nustatyta tvarka surašytos nutarties patvirtintos kopijos išduodamos ar išsiunčiamos teismo posėdyje dalyvavusiems asmenims jų reikalavimu. Šalims ir tretiesiems asmenims, neatvykusiems į teismo posėdį, ne vėliau kaip per tris darbo dienas nuo priėmimo išsiunčiamos nutarčių, kurios gali būti skundžiamos atskiraisiais skundais, patvirtintos kopijos.
+1. Šio Kodekso 291 straipsnyje nustatyta tvarka surašytos nutarties patvirtintos kopijos išduodamos ar išsiunčiamos teismo posėdyje dalyvavusiems asmenims jų reikalavimu. Šalims ir tretiesiems asmenims, neatvykusiems į teismo posėdį, ne vėliau kaip per tris darbo dienas nuo priėmimo išsiunčiamos nutarčių, kurios gali būti skundžiamos atskiraisiais skundais, patvirtintos kopijos.
+
+
+
+
+2. Nutarties, kurioje atskleista komercinę paslaptį sudaranti informacija, patvirtintos kopijos išduodamos arba išsiunčiamos tik šio Kodekso 101 straipsnio 2 dalies 3 punkte nurodytiems asmenims. Kitiems asmenims nutarties patvirtintos kopijos išduodamos arba išsiunčiamos nepažeidžiant komercinės paslapties apsaugos. 
+Straipsnio pakeitimai:
+Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIII-1126, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07478
  
 
 
@@ -24709,3 +24777,18 @@ Lietuvos Respublikos civilinio proceso kodekso 1, 80 straipsnių ir XXI-1 skyria
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-630, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12577
 Lietuvos Respublikos civilinio proceso kodekso 534 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+Lietuvos Respublikos civilinio proceso kodekso 9 ir 268 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+Lietuvos Respublikos civilinio proceso kodekso 65, 80, 93, 135, 142, 147, 177, 189, 225, 231 straipsnių pakeitimo ir Kodekso papildymo 231-1, 231-2 straipsniais įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1126, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07478
+Lietuvos Respublikos civilinio proceso kodekso papildymo 10-1 straipsniu ir 275, 292 straipsnių pakeitimo įstatymas
