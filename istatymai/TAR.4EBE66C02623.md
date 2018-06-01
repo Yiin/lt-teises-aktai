@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-05-20 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-06-11
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -4180,8 +4180,9 @@ užtraukia baudą turto vertinimą atlikusiems asmenims nuo aštuonių šimtų p
 
 
 XV SKYRIUS
-ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU PREKYBA,
-FINANSŲ SISTEMA IR STATISTIKA
+ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU PREKYBA, FINANSŲ SISTEMA IR OFICIALIĄJA STATISTIKA 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
  
 
 
@@ -6025,7 +6026,7 @@ užtraukia baudą juridinių asmenų vadovams nuo vieno tūkstančio keturių š
 221 straipsnis. Statistinių duomenų pateikimo tvarkos pažeidimas
 
 
-1. Statistinių duomenų nepateikimas nustatyta tvarka oficialiąją statistiką tvarkančioms institucijoms ir įstaigoms arba melagingų statistinių duomenų pateikimas oficialiąją statistiką tvarkančioms institucijoms ir įstaigoms
+1. Statistinių duomenų nepateikimas nustatyta tvarka oficialiąją statistiką tvarkančioms įstaigoms arba melagingų statistinių duomenų pateikimas oficialiąją statistiką tvarkančioms įstaigoms
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
@@ -6037,27 +6038,33 @@ užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimt
 
 
 
-3. Pateiktus statistinius duomenis patvirtinančių dokumentų nepateikimas oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojams, darbuotojams arba šių dokumentų nuslėpimas
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+3. Pateiktus statistinius duomenis patvirtinančių dokumentų nepateikimas oficialiąją statistiką tvarkančių įstaigų valstybės tarnautojams, darbuotojams arba šių dokumentų nuslėpimas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
  
 
 
 
 
+222 straipsnis. Konfidencialių statistinių duomenų naudojimo ir platinimo tvarkos pažeidimas
 
 
-222 straipsnis. Oficialių statistinių duomenų naudojimo ir platinimo tvarkos pažeidimas
-
-
-Oficialių statistinių duomenų naudojimas arba platinimas ne statistikos reikmėms, taip pat konfidencialių statistinių duomenų atskleidimas
+1. Konfidencialių statistinių duomenų naudojimas arba platinimas ne oficialiosios statistikos tikslams, taip pat konfidencialių statistinių duomenų atskleidimas, išskyrus Lietuvos Respublikos oficialiosios statistikos įstatyme numatytas išimtis,
+užtraukia baudą oficialiąją statistiką tvarkančių įstaigų pareigūnams, valstybės tarnautojams, darbuotojams ir asmenims, su kuriais valstybės tarnybos arba darbo santykiai su oficialiąją statistiką tvarkančia įstaiga yra pasibaigę, nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-užtraukia baudą oficialiąją statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojams, darbuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+2. Konfidencialių statistinių duomenų naudojimas ne mokslo tikslams arba jų atskleidimas
+užtraukia baudą aukštųjų mokyklų ir mokslinių tyrimų institutų vadovams ir tyrėjams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
  
-
-
 
 
 
@@ -17620,9 +17627,10 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 
 
-7) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 200, 201, 202, 203, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+7) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 200, 201, 202, 203, 221, 222, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
  
 
 
@@ -17821,7 +17829,7 @@ Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų; 
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -17829,6 +17837,7 @@ Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
 Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
  
 
 
@@ -18294,9 +18303,17 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
-99) Lietuvos kino centro prie Kultūros ministerijos – dėl šio kodekso 496 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų. 
+99) Lietuvos kino centro prie Kultūros ministerijos – dėl šio kodekso 496 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Papildyta straipsnio punktu:
 Nr. XIII-886, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21499
+ 
+
+
+
+
+100) kitų oficialiąją statistiką tvarkančių įstaigų – valstybės ir savivaldybių institucijų ir įstaigų, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį, – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų. 
+Papildyta punktu:
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
  
 
 
@@ -22515,3 +22532,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 356, 459, 589 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
 Lietuvos Respublikos administracinių nusižengimų kodekso 356, 459, 589 straipsnių ir priedo pakeitimo įstatymo Nr. XIII-694 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+48.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
+Lietuvos Respublikos administracinių nusižengimų kodekso XV skyriaus pavadinimo, 221, 222 ir 589 straipsnių pakeitimo įstatymas
