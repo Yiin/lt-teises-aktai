@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2013-05-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
  
@@ -83,6 +83,13 @@ Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA
 
 
 7. Vidaus kontrolė – viešojo juridinio asmens vadovo sukurta visų kontrolės rūšių sistema, kurios dėka siekiama užtikrinti viešojo juridinio asmens veiklos teisėtumą, ekonomiškumą, efektyvumą, rezultatyvumą ir skaidrumą, strateginių ir kitų veiklos planų įgyvendinimą, turto apsaugą, informacijos ir ataskaitų patikimumą ir išsamumą, sutartinių ir kitų įsipareigojimų tretiesiems asmenims laikymąsi bei su visa tuo susijusių rizikos veiksnių valdymą.
+
+
+
+
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme ir Lietuvos Respublikos buhalterinės apskaitos įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1157, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08263
  
 
 
@@ -146,7 +153,7 @@ VIDAUS KONTROLĖ
 
 
 
-2. Viešojo juridinio asmens vadovas, vadovaudamasis Vyriausybės ar jos įgaliotos institucijos patvirtintais minimaliais finansų kontrolės reikalavimais, sukuria ir prižiūri finansų kontrolės veikimą viešajame juridiniame asmenyje bei patvirtina viešojo juridinio asmens finansų kontrolės taisykles.
+2. Viešojo juridinio asmens vadovas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sukuria ir prižiūri finansų kontrolės veikimą viešajame juridiniame asmenyje bei patvirtina viešojo juridinio asmens finansų kontrolės taisykles.
 
 
 
@@ -156,80 +163,17 @@ VIDAUS KONTROLĖ
 
 
 
-4. Finansų kontrolės pagrindinės rūšys:
-
-
-1) išankstinė finansų kontrolė – kontrolė, atliekama priimant arba atmetant sprendimus, susijusius su valstybės ir savivaldybės turto panaudojimu ir įsipareigojimais tretiesiems asmenims, prieš juos tvirtinant viešojo juridinio asmens vadovui. Išankstinės finansų kontrolės funkcija turi būti atskirta nuo sprendimų inicijavimo ir vykdymo; 
+4. Už finansų kontrolę atsako viešojo juridinio asmens vadovo paskirti valstybės tarnautojai arba darbuotojai. Kai viešojo juridinio asmens apskaita organizuojama centralizuotai, už finansų kontrolę atsakingi asmenys paskiriami viešojo juridinio asmens ir centralizuotos apskaitos įstaigos vadovų, atsižvelgiant į viešojo juridinio asmens ir centralizuotos apskaitos įstaigos atliekamas funkcijas vadovaujantis Vyriausybės nustatyta tvarka.
 
 
 
 
-2) einamoji finansų kontrolė – kontrolė, kurios paskirtis – užtikrinti, kad tinkamai ir laiku būtų vykdomi viešojo juridinio asmens sprendimai dėl valstybės ir savivaldybės turto panaudojimo ir įsipareigojimų tretiesiems asmenims;
+5. Siekdami užtikrinti patikimą finansų valdymą ir apskaitą bei tinkamą atskaitomybę, visi viešojo juridinio asmens padaliniai privalo laikytis viešojo juridinio asmens patvirtintų finansų kontrolės taisyklių. 
 
 
-
-
-3) paskesnioji finansų kontrolė – kontrolė po viešojo juridinio asmens sprendimų dėl valstybės ir savivaldybės turto panaudojimo ir įsipareigojimų tretiesiems asmenims vykdymo, kurios metu tikrinama, kaip yra atlikti veiksmai. Jos paskirtis – patikrinti, ar teisėtai ir pagal paskirtį naudojamos materialiosios, nematerialiosios ir finansinės vertybės, ar nebuvo teisės aktų, vadovų nurodymų pažeidimų bei piktnaudžiavimų. Paskesnioji finansų kontrolė numato priemones jos metu nustatytiems trūkumams pašalinti. Šios kontrolės negali atlikti valstybės tarnautojas ar darbuotojas, atsakingas už išankstinę finansų kontrolę.
-
-
-
-
-
-
-5. Už išankstinę, einamąją ir paskesniąją finansų kontrolę yra atsakingi viešojo juridinio asmens vadovo paskirti valstybės tarnautojai arba darbuotojai. Kai viešojo juridinio asmens apskaitą tvarko apskaitos paslaugas teikianti įmonė, viešojo juridinio asmens vadovas paskiria darbuotoją atsakyti už šio straipsnio 6 dalyje nurodytą kontrolę bei atlikti veiksmus, nurodytus šio straipsnio 7 ir 8 dalyse.
-
-
-
-
-6. Viešojo juridinio asmens vyriausiasis buhalteris (buhalteris) arba apskaitos tarnybos vadovas atsako už:
-
-
-1) tinkamą apskaitos tvarkymo kontrolę;
-
-
-
-
-2) atsiskaitymų kontrolę;
-
-
-
-
-3) išankstinę finansų kontrolę, kurios metu nustatoma: ar ūkinės operacijos bus atliekamos neviršijant patvirtintų sąmatų ir ar atitinka patvirtintus asignavimus; ar ūkinės operacijos dokumentai yra tinkamai parengti ir ar ūkinė operacija yra teisėta.
-
-
-
-
-
-
-7. Vyriausiasis buhalteris (buhalteris) arba apskaitos tarnybos vadovas, vykdydamas išankstinę finansų kontrolę, pasirašo arba atsisako pasirašyti atitinkamus dokumentus, leidžiančius atlikti ūkinę operaciją.
-
-
-
-
-8. Vyriausiasis buhalteris (buhalteris) arba apskaitos tarnybos vadovas:
-
-
-1) pasirašydamas ūkinės operacijos dokumentus, patvirtina, kad ūkinė operacija yra teisėta, dokumentai, susiję su ūkinės operacijos atlikimu, yra tinkamai parengti ir kad jai atlikti pakaks patvirtintų asignavimų lėšų;
-
-
-
-
-2) ūkinės operacijos dokumentus grąžina juos rengusiam valstybės tarnautojui arba darbuotojui, jeigu išankstinės finansų kontrolės metu nustato, kad ūkinė operacija yra neteisėta arba kad jai atlikti nepakaks patvirtintų asignavimų, kad ūkinę operaciją pagrindžiantys dokumentai yra netinkamai parengti. Nustatęs šiuos faktus, vyriausiasis buhalteris (buhalteris) privalo atsisakyti pasirašyti ūkinės operacijos dokumentus ir, nurodydamas atsisakymo priežastis, apie tai raštu pranešti viešojo juridinio asmens vadovui, kuris gali atsisakyti tvirtinti ūkinę operaciją arba raštu nurodyti ją atlikti;
-
-
-
-
-3) atlikdamas išankstinę finansų kontrolę, turi teisę be atskiro viešojo juridinio asmens vadovo nurodymo gauti iš viešojo juridinio asmens padalinių vadovų ir valstybės tarnautojų arba darbuotojų raštiškus ir žodinius paaiškinimus dėl dokumentų ūkinei operacijai atlikti parengimo ir ūkinės operacijos atlikimo bei dokumentų kopijas. 
-
-
-
-
-
-
-9. Siekdami užtikrinti patikimą finansų valdymą ir apskaitą bei tinkamą finansinės atskaitomybės sudarymą, visi viešojo juridinio asmens padaliniai privalo laikytis viešojo juridinio asmens patvirtintų finansų kontrolės taisyklių.
+Straipsnio pakeitimai:
+Nr. XIII-1157, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08263
  
-
-
 
 
 
@@ -742,3 +686,8 @@ Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-160, 2013-01-17, Žin., 2013, Nr. 11-504 (2013-01-30), i. k. 1131010ISTA0XII-160
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1157, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08263
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 2 ir 4 straipsnių pakeitimo įstatymas
