@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1623,7 +1623,9 @@ Lietuvos Respublikos Vyriausybės programoje turi būti nustatyti ilgalaikiai al
 
 
 
-2. Alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui atrankinių statistinių tyrimų organizavimo teisinius pagrindus nustato Lietuvos Respublikos statistikos įstatymas.
+2. Alkoholio vartojimo, jo daromos ekonominės žalos sveikatai ir ūkiui atrankinių statistinių tyrimų organizavimo teisinius pagrindus nustato Lietuvos Respublikos oficialiosios statistikos įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1130, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07482
  
 
 
@@ -3001,3 +3003,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 33 ir 35 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 16, 16-1, 17, 18, 22, 28, 29 ir 34 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1130, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07482
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 20 straipsnio pakeitimo įstatymas
