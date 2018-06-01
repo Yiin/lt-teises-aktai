@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-05-31
+Suvestinė redakcija nuo 2018-06-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -545,15 +545,16 @@ KETVIRTASIS SKIRSNIS
  
 
 
-10 straipsnis. Žemės ūkio, maisto ūkio oficialioji statistika
+10 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros oficialioji statistika 
 
 
-Žemės ūkio, maisto ūkio oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos statistikos įstatymu, tvarko Lietuvos statistikos departamentas, Žemės ūkio ministerija ar valstybės įmonės, kurių savininko teises įgyvendina Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos ir kiti Lietuvos Respublikos statistikos įstatyme nurodyti juridiniai asmenys.
+Žemės ūkio, maisto ūkio ir kaimo plėtros oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos oficialiosios statistikos įstatymu, tvarko Lietuvos statistikos departamentas, Žemės ūkio ministerija, valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras, Vyriausybės įgaliotos institucijos ir (ar) kiti subjektai, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010ISTA0XI-1091
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+Nr. XIII-1131, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07483
  
 
 
@@ -713,3 +714,8 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2759, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26875
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1131, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07483
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 10 straipsnio pakeitimo įstatymas
