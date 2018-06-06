@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-05
+Suvestinė redakcija nuo 2018-06-06 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -1845,6 +1845,10 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 3) keliems pretendentams, dalyvaujantiems konkurse į valstybės tarnautojo pareigas, pagal nustatytus atrankos kriterijus surinkus vienodus rezultatus, teikiama pirmenybė atlikusiems nuolatinę privalomąją pradinę karo tarnybą;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio (2016 m. birželio 16 d. redakcija; TAR, 2016-06-23, Nr. 17527) 1 dalies 3 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+Straipsnio punkto pakeitimai:
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+ 
 
 
 
@@ -2097,3 +2101,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 6 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 15 ir 26 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai
