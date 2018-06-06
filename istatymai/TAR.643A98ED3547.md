@@ -22,7 +22,7 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-06-01 iki 2018-06-05
+Suvestinė redakcija nuo 2018-06-06
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 69-3523, i. k. 1121010ISTA0XI-2041
  
@@ -182,6 +182,10 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. 1121010IST
 
 
 „2. Konkurse gali dalyvauti asmenys, atitinkantys šio Įstatymo 9 straipsnyje nustatytus reikalavimus. Konkurso metu tikrinamas asmens tinkamumas eiti karjeros valstybės tarnautojo pareigas. Jeigu keli konkurse į karjeros valstybės tarnautojo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą. Vyriausybės nustatyta tvarka konkurso metu stebėtojo teisėmis gali dalyvauti valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos arba, jeigu veikia kelios tokios sąjungos, kelių profesinių sąjungų atstovai ir kiti visuomenės atstovai.“
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies (2012 m. birželio 5 d. redakcija, įsigaliojusi 2013 m. birželio 1 d.; Žin., 2012, Nr. 69-3523) nuostata „Jeigu keli konkurse į karjeros valstybės tarnautojo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą“ prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+Straipsnio dalies pakeitimai:
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+ 
 
 
 
@@ -230,6 +234,10 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. 1121010IST
 
 
 „2. Konkurse gali dalyvauti asmenys, atitinkantys šio Įstatymo 9 straipsnyje nustatytus reikalavimus. Konkurso metu tikrinamas asmens tinkamumas eiti įstaigos vadovo pareigas. Jeigu keli konkurse į įstaigos vadovo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą. Vyriausybės nustatyta tvarka konkurso metu stebėtojo teisėmis gali dalyvauti valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos arba, jeigu veikia kelios tokios sąjungos, kelių profesinių sąjungų atstovai ir kiti visuomenės atstovai.“
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo 13 straipsnio 2 dalies (2012 m. birželio 5 d. redakcija, įsigaliojusi 2013 m. birželio 1 d.; Žin., 2012, Nr. 69-3523) nuostata „Jeigu keli konkurse į įstaigos vadovo pareigas dalyvavę pretendentai buvo įvertinti vienodai, pirmenybė būti priimtam į tas pareigas teikiama pretendentui, atlikusiam nuolatinę privalomąją pradinę karo tarnybą arba baigusiam bazinius karinius mokymus ar atlikusiam alternatyviąją krašto apsaugos tarnybą“ prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+Straipsnio dalies pakeitimai:
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+ 
 
 
 
@@ -1668,3 +1676,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. 1121010ISTA00XII-27
 Lietuvos Respublikos valstybės tarnybos įstatymo 3-1, 4, 9, 11, 13, 14, 15, 16, 16-1, 17, 22, 29, 30, 31-1, 32, 34, 41, 43, 44, 46, 47, 48, 49, 50, 51 straipsnių pakeitimo ir papildymo įstatymo 3, 23, 27 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai
