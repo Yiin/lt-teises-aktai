@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6b2a4b90393611e69101aaab2992cbcd"
 
 # Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 2, 4, 6, 16, 17, 20, 41, 41-1 straipsnių pakeitimo ir 8, 9, 10 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2018-06-06
+ 
+Įstatymas paskelbtas: TAR 2016-06-23, i. k. 2016-17527
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KARO PRIEVOLĖS ĮSTATYMO NR. I-1593 2, 4, 6, 16, 17, 20, 41, 411 STRAIPSNIŲ PAKEITIMO IR 8, 9, 10 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
@@ -195,6 +202,10 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 
 3) keliems pretendentams, dalyvaujantiems konkurse į valstybės tarnautojo pareigas, pagal nustatytus atrankos kriterijus surinkus vienodus rezultatus, teikiama pirmenybė atlikusiems nuolatinę privalomąją pradinę karo tarnybą;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio (2016 m. birželio 16 d. redakcija; TAR, 2016-06-23, Nr. 17527) 1 dalies 3 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
+Straipsnio punkto pakeitimai:
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+ 
 
 
 
@@ -310,3 +321,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
+Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai
