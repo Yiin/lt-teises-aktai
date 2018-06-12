@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-11
+Suvestinė redakcija nuo 2018-06-12 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
  
@@ -687,7 +687,10 @@ Nr. IX-285, 2001 04 19, Žin., 2001, Nr. 39-1355 (2001 05 09)
 
 
 
-7) pridėtinės vertės mokestį, akcizą, cukraus mokestį, prekių apyvartos mokestį – šiuos mokesčius reglamentuojančių teisės aktų nustatyta tvarka ir atvejais;
+7) pridėtinės vertės mokestį, akcizą, prekių apyvartos mokestį – šiuos mokesčius reglamentuojančių teisės aktų nustatyta tvarka ir atvejais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1219, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09735
+ 
 
 
 
@@ -1169,3 +1172,8 @@ Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 5, 8, 9 ir 15 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1219, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09735
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 15 straipsnio pakeitimo įstatymas
