@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-06-11
+Suvestinė redakcija nuo 2018-06-12 iki 2018-06-14
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -1613,20 +1613,118 @@ užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstanč
 
 
 
-50 straipsnis. Kosmetikos gaminių tiekimo rinkai reikalavimų pažeidimas
+50 straipsnis. Kosmetikos gaminių gamybos ir tiekimo rinkai reikalavimų pažeidimas
 
 
-1. Kosmetikos gaminių tiekimo rinkai reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+1. Pranešimo apie kosmetikos gaminio tiekimą rinkai reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia įspėjimą arba baudą nuo penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
-užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno šimto iki šešių šimtų eurų.
+
+
+
+
+3. Kosmetikos gaminio ženklinimo ir galimybės visuomenei susipažinti su informacija apie kosmetikos gaminį reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia įspėjimą arba baudą nuo aštuoniasdešimt iki trijų šimtų eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno šimto šešiasdešimt iki šešių šimtų eurų.
+
+
+
+
+5. Kosmetikos gaminio informacijos bylai taikomų reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia įspėjimą arba baudą nuo aštuoniasdešimt iki keturių šimtų aštuoniasdešimt eurų.
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno šimto šešiasdešimt iki devynių šimtų šešiasdešimt eurų.
+
+
+
+
+7. Reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, susijusių su informacija apie kosmetikos gaminio nepageidaujamą poveikį, pažeidimas
+užtraukia baudą nuo aštuoniasdešimt iki dviejų šimtų keturiasdešimt eurų.
+
+
+
+
+8. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno šimto šešiasdešimt iki keturių šimtų aštuoniasdešimt eurų.
+
+
+
+
+9. Kosmetikos gaminių, jų ingredientų bandymų su gyvūnais reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia baudą nuo vieno šimto iki dviejų šimtų eurų.
+
+
+
+
+10. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų. 
+
+
+
+
+11. Kosmetikos gaminių geros gamybos praktikos reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia baudą nuo vieno šimto iki šešių šimtų eurų.
+
+
+
+
+12. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo dviejų šimtų iki tūkstančio dviejų šimtų eurų.
+
+
+
+
+13. Reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, susijusių su tam tikrų medžiagų kosmetikos gaminiuose apribojimais, pažeidimas
+užtraukia baudą nuo trijų šimtų iki devynių šimtų eurų. 
+
+
+
+
+14. Šio straipsnio 13 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo šešių šimtų iki tūkstančio aštuonių šimtų eurų. 
+
+
+
+
+15. Pranešimo apie kosmetikos gaminius, kuriuose yra nanomedžiagų, reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+16. Šio straipsnio 15 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+
+
+
+17. Kosmetikos gaminio saugos įvertinimo reikalavimų, nustatytų Reglamente (EB) Nr. 1223/2009, pažeidimas
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+18. Šio straipsnio 17 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo tūkstančio iki dviejų tūkstančių aštuonių šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
  
-
-
 
 
 
@@ -17894,7 +17992,10 @@ Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 
 
 
-48) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 45 straipsnyje, 48 straipsnio 1, 2 dalyse, 49 straipsnio 1, 2, 4 dalyse, 52, 53 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+48) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 45 straipsnyje, 48 straipsnio 1, 2 dalyse, 49 straipsnio 1, 2, 4 dalyse, 50, 52, 53 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
+ 
 
 
 
@@ -18040,10 +18141,11 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 50, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
+Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
  
 
 
@@ -22537,3 +22639,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 356, 459, 589 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
 Lietuvos Respublikos administracinių nusižengimų kodekso XV skyriaus pavadinimo, 221, 222 ir 589 straipsnių pakeitimo įstatymas
+ 
+49.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
+Lietuvos Respublikos administracinių nusižengimų kodekso 50 ir 589 straipsnių pakeitimo įstatymas
