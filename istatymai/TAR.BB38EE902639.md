@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-06-11
+Suvestinė redakcija nuo 2018-06-12
  
 Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
  
@@ -177,7 +177,10 @@ ANTRASIS SKIRSNIS
 
 
 
-5) pirkti žalią pieną iš Lietuvos Respublikoje registruoto žalio pieno pardavėjo, parduodančio savo gamybos žalią pieną, kurio sudėtis ir kokybė nėra įvertinti VĮ „Pieno tyrimai“ Lietuvos Respublikos žemės ūkio ministro įsakymu nustatyta tvarka.
+5) pirkti žalią pieną iš Lietuvos Respublikoje registruoto žalio pieno pardavėjo, parduodančio savo gamybos žalią pieną, kurio sudėtis ir kokybė nėra įvertinti Lietuvos Respublikos žemės ūkio ministro nustatyta tvarka juridiniame asmenyje – valstybės valdomoje akredituotoje laboratorijoje. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+ 
 
 
 
@@ -592,3 +595,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
 Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6, 13 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6 ir 14 straipsnių pakeitimo įstatymas
