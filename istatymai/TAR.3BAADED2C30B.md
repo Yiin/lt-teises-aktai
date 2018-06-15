@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
  
@@ -1980,7 +1980,10 @@ PERTVARKYMO FONDO FINANSAVIMAS IR ADMINISTRAVIMAS
 33 straipsnis. Įmokos į Pertvarkymo fondą
 
 
-1. Pertvarkymo fonde ne vėliau kaip 2024 m. gruodžio 31 d. turi būti sukaupta suma, lygi daliai, kurią šio straipsnio 2 dalyje nurodyti subjektai turėtų sumokėti, jeigu reikėtų sukaupti sumą, lygią vienam procentui visų įstaigų – bankų, Centrinės kredito unijos ir finansų maklerio įmonių, kuriems taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nurodytas reikalavimas (toliau šiame straipsnyje – įstaigos), licencijuotų Lietuvos Respublikoje, pagrindinių apdraustųjų indėlių, o įmokas mokėtų visos Lietuvos Respublikos licencijuotos įstaigos ir trečiosiose valstybėse licencijuotų įstaigų Lietuvos Respublikoje įsteigti filialai (toliau – Pertvarkymo fondo tikslinis lygis). 
+1. Pertvarkymo fonde ne vėliau kaip 2024 m. gruodžio 31 d. turi būti sukaupta suma, lygi daliai, kurią šio straipsnio 2 dalyje nurodyti subjektai turėtų sumokėti, jeigu reikėtų sukaupti sumą, lygią vienam procentui visų įstaigų – bankų, centrinių kredito unijų ir finansų maklerio įmonių, kuriems taikomas Lietuvos Respublikos finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas (toliau šiame straipsnyje – įstaigos), licencijuotų Lietuvos Respublikoje, pagrindinių apdraustųjų indėlių, o įmokas mokėtų visos Lietuvos Respublikos licencijuotos įstaigos ir trečiosiose valstybėse licencijuotų įstaigų Lietuvos Respublikoje įsteigti filialai (toliau – Pertvarkymo fondo tikslinis lygis). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
+ 
 
 
 
@@ -2887,3 +2890,8 @@ Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2054, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19164
 Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 33 straipsnio pakeitimo įstatymas
