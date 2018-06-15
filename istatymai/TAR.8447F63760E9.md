@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2018-05-03 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -267,7 +267,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-22. Draudimo liudijimas – draudiko išduodamas dokumentas, kuriuo patvirtinamas draudimo sutarties sudarymas.
+22. Draudimo liudijimas – draudiko išduodamas draudėjo pasirinkimu atspausdintas arba elektroninis dokumentas, kuriuo patvirtinamas draudimo sutarties sudarymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -283,6 +286,14 @@ BENDROSIOS NUOSTATOS
 
 
 25. Draudimo priežiūros institucijų kolegija – iš Europos ekonominės erdvės valstybių draudimo priežiūros institucijų sudarytas nuolatinis kintančios sudėties organas, kurio tikslas – palankių sąlygų priimti sprendimus dėl draudimo ir (ar) perdraudimo įmonių grupės priežiūros sudarymas, jo narių atliekamos draudimo ir (ar) perdraudimo įmonių grupės priežiūros koordinavimas ir bendradarbiavimo skatinimas.
+
+
+
+
+251. Draudimo principu pagrįstas investicinis produktas – kaip tai apibrėžta Reglamente (ES) Nr. 1286/2014. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -1143,62 +1154,87 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 11 straipsnis. Nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimas
 
 
-1. Fizinis asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
+1. Fizinio ir, kai toks reikalavimas taikomas, juridinio asmens reputacija vertinama atsižvelgiant į:
 
 
-1) jis yra nuteistas už bet kokias tyčines nusikalstamas veikas, baustas už administracinius nusižengimus nuosavybės, turtinių teisių, turtinių interesų, prekybos, finansų ir statistikos srityse;
-Straipsnio punkto pakeitimai:
-Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
+1) vykdytus ar vykdomus ikiteisminius tyrimus, pareikštus įtarimus, kaltinimus nusikalstamos veikos padarymu arba asmens nuteisimą, nepaisant to, ar teistumas yra išnykęs arba panaikintas;
+
+
+
+
+2) taikytas administracines nuobaudas arba kitas poveikio priemones (sankcijas), nepaisant to, kada jos taikytos; 
+
+
+
+
+3) priežiūros ar kitų institucijų vykdytus arba vykdomus patikrinimus dėl teisės aktų pažeidimo;
+
+
+
+
+4) taikytas drausmines, tarnybines nuobaudas, nušalinimą arba atleidimą iš skiriamų ar renkamų pareigų, nepaisant to, kada tai taikyta;
+
+
+
+
+5) atsisakymą išduoti leidimą (licenciją) arba kitaip nesuteiktą teisę atlikti tam tikrus veiksmus arba verstis tam tikra profesine ar kitokia veikla, taip pat išduoto leidimo (licencijos) ar kitaip suteiktos teisės atlikti tam tikrus veiksmus arba verstis tam tikra profesine ar kitokia veikla sustabdymą ar panaikinimą; 
+
+
+
+
+6) tai, ar buvo atvejų, kai asmuo nevykdė pareigos gauti teisės aktuose nustatytas licencijas, leidimus, sutikimus, pritarimus, neprieštaravimus arba laiku nevykdė pareigos teikti informaciją priežiūros institucijoms, pateikė joms ne visą būtiną informaciją arba pateikta informacija buvo neteisinga; 
+
+
+
+
+7) tai, kaip asmuo vykdė ir vykdo pinigines ar kitas prievoles, įskaitant duomenis apie jo atžvilgiu vykdomus arba vykdytus restruktūrizavimo, bankroto procesus, pareikštus ieškinius civilinėse bylose; 
+
+
+
+
+8) šios dalies 1–7 punktuose nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė.
+
+
+
+
+
+
+2. Fizinis ir, kai taikoma, juridinis asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu: 
+
+
+1) jis yra pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų, labai sunkų nusikaltimą arba tyčinį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, nepaisant to, ar teistumas yra išnykęs arba panaikintas; 
+
+
+
+
+2) jis yra pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 punkte, Lietuvos Respublikos baudžiamajame kodekse arba kitų valstybių įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo treji metai; 
+
+
+
+
+3) buvo nušalintas ar atleistas iš pareigų ar darbo arba praradęs teisę verstis tam tikra veikla už neatitiktį įstatymuose keliamiems nepriekaištingos reputacijos reikalavimams arba dėl finansų rinką reglamentuojančių teisės aktų pažeidimo ir nuo nušalinimo ar atleidimo iš pareigų ar darbo arba teisės verstis tam tikra veikla praradimo dienos nepraėjo treji metai;
+
+
+
+
+4) piktnaudžiauja psichotropinėmis, narkotinėmis, kitomis psichiką veikiančiomis medžiagomis ar alkoholiu;
+
+
+
+
+5) priežiūros institucija pripažįsta, kad kitos šio straipsnio 1 dalyje nurodytos aplinkybės yra reikšmingos ir leidžia pagrįstai abejoti asmens gebėjimu užtikrinti patikimą ir apdairų įmonės valdymą arba tinkamą kitų šiame įstatyme nustatytų funkcijų atlikimą.
+
+
+
+
+
+
+3. Šiame įstatyme numatyti subjektai, vertindami fizinio asmens kvalifikaciją ir patirtį, privalo atsižvelgti į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Fizinio asmens reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtų teisės aktų nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
-
-
-
-
-2) galioja drausminė nuobauda atleisti šį asmenį iš darbo ar tarnybinė nuobauda atleisti valstybės tarnautoją iš pareigų;
-
-
-
-
-3) jis piktnaudžiauja narkotinėmis, toksinėmis, psichotropinėmis medžiagomis, alkoholiu arba yra priklausomas nuo lošimų;
-
-
-
-
-4) yra kitų reikšmingų aplinkybių, dėl kurių fizinio asmens reputacija negali būti laikoma nepriekaištinga.
-
-
-
-
-
-
-2. Juridinis asmuo nelaikomas nepriekaištingos reputacijos, jeigu:
-
-
-1) jis yra patrauktas baudžiamojon atsakomybėn;
-
-
-
-
-2) šio juridinio asmens valdymo organų nariai ir šį juridinį asmenį kontroliuojantys fiziniai asmenys nėra nepriekaištingos reputacijos bei šį juridinį asmenį kontroliuojantis juridinis asmuo yra patrauktas baudžiamojon atsakomybėn;
-
-
-
-
-3) yra kitų reikšmingų aplinkybių, dėl kurių juridinio asmens reputacija negali būti laikoma nepriekaištinga.
-
-
-
-
-
-
-3. Šiame įstatyme numatyti subjektai, vertindami fizinio asmens kvalifikaciją ir patirtį, privalo atsižvelgti į asmens išsilavinimą, eitas pareigas, darbo stažą ir kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. 
-
-
-
-
-4. Kai nepriekaištingą reputaciją, kvalifikaciją ar patirtį vertina priežiūros institucija, duomenys apie asmens nepriekaištingą reputaciją, kvalifikaciją ar patirtį pateikiami priežiūros institucijos nustatytos formos anketose. Prireikus patikrinti anketose nurodytus duomenis, priežiūros institucija turi teisę pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingą nepriekaištingai reputacijai, kvalifikacijai ir patirčiai įvertinti, ir dėl informacijos pateikimo kreiptis į šio įstatymo 203 straipsnyje nurodytus asmenis. Priežiūros institucija nustato dokumentų, kurie pateikiami reputacijai, kvalifikacijai ir patirčiai vertinti, reikalavimus.
-
-
 
 
 
@@ -1797,6 +1833,14 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 
 
 
+6. Draudimo įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus (prašymus). Draudimo įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir draudimo įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio draudėjas, apdraustasis, naudos gavėjas ir nukentėjęs trečiasis asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo įmonė draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus nagrinėja neatlygintinai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
 
 
 23 straipsnis. Tiesiogiai ar netiesiogiai valdomų draudimo ar perdraudimo įmonės akcijų įsigijimas ir perleidimas
@@ -1992,7 +2036,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 2. Valdyba, be kitų įstatymuose ar įstatuose nurodytų funkcijų, atlieka šias funkcijas:
 
 
-1) nustato draudimo ar perdraudimo įmonės strateginius tikslus, priemones šiems tikslams siekti, priemonių stebėjimo ir rezultatų įvertinimo tvarką, užtikrina, kad įmonės veikla būtų pagrįsta verslo planu;
+1) nustato priemones draudimo ar perdraudimo įmonės strateginiams tikslams pasiekti, priemonių stebėjimo ir rezultatų įvertinimo tvarką, užtikrina, kad įmonės veikla būtų pagrįsta verslo planu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -2012,7 +2059,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 
 
 
-5) nustato draudimo įmonės draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundų nagrinėjimo ir atsakymų pareiškėjams teikimo tvarką; šios tvarkos aprašas privalo būti viešai paskelbtas draudimo įmonės interneto svetainėje ir pateiktas kiekvieno suinteresuoto asmens reikalavimu, kai suinteresuotas asmuo apmoka pateikimo išlaidas; 
+5) neteko galios 2018-06-15; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -2130,7 +2180,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 
 
 
-10. Draudimo ar perdraudimo įmonė, kuri apskaičiuodama techninius atidėjinius ir mokumo kapitalo reikalavimą remiasi išorinės kredito rizikos vertinimo institucijos – pagal 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) registruotos ar sertifikuotos kredito reitingų agentūros arba, kai šis reglamentas netaikomas, kredito reitingus nustatančio centrinio banko – teikiamais kredito rizikos vertinimo rezultatais, valdydama riziką turi vengti automatiško išorinio vertinimo rezultatų taikymo ir, jeigu yra galimybė taikyti kitų vertinimų rezultatus, tikrinti, ar išorinio kredito rizikos vertinimo rezultatai yra tinkami.
+10. Draudimo ar perdraudimo įmonė, kuri apskaičiuodama techninius atidėjinius ir mokumo kapitalo reikalavimą remiasi išorinės kredito rizikos vertinimo institucijos – pagal Reglamentą (EB) Nr. 1060/2009 registruotos ar sertifikuotos kredito reitingų agentūros arba, kai šis reglamentas netaikomas, kredito reitingus nustatančio centrinio banko – teikiamais kredito rizikos vertinimo rezultatais, valdydama riziką turi vengti automatiško išorinio vertinimo rezultatų taikymo ir, jeigu yra galimybė taikyti kitų vertinimų rezultatus, tikrinti, ar išorinio kredito rizikos vertinimo rezultatai yra tinkami. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -2449,6 +2502,19 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
+311 straipsnis. Pranešimas apie pažeidimus draudimo ar perdraudimo įmonėje
+
+
+Draudimo ar perdraudimo įmonė turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų įmonės darbuotojams specialiu, nepriklausomu ir autonomišku kanalu draudimo ar perdraudimo įmonės viduje pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 1286/2014 nuostatų pažeidimą. Šioms priemonėms dėl pranešimų apie padarytus ar galimus pažeidimus įdiegti draudimo ar perdraudimo įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 1 dalies 2, 3 ir 4 punktuose nustatyti reikalavimai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
 
 
 TREČIASIS SKIRSNIS
@@ -2495,7 +2561,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS FINANSAI
 
 
 
-2. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo ar perdraudimo įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija prieš draudimo ar perdraudimo įmonės informacijos apie įstatų pakeitimus pateikimą Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas.
+2. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo ar perdraudimo įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija prieš draudimo ar perdraudimo įmonės informacijos apie įstatų pakeitimus pateikimą Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 darbo dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -6132,7 +6201,9 @@ INTERVENCINĖS PRIEMONĖS
 
 
 
-3. Intervencinėmis priemonėmis laikomos priežiūros institucijos taikomos poveikio priemonės, numatytos šio įstatymo 204 straipsnio 5 ir 10 punktuose, ir kitos priežiūros institucijos poveikio priemonės, kurias taikydama priežiūros institucija, atsižvelgusi į galimas jų pasekmes, nurodė, kad taikomos poveikio priemonės yra intervencinės.
+3. Intervencinėmis priemonėmis laikomos priežiūros institucijos taikomos poveikio priemonės, numatytos šio įstatymo 201 straipsnio 2 dalies 7 punkte ir 204 straipsnio 11 punkte, ir kitos priežiūros institucijos poveikio priemonės, kurias taikydama priežiūros institucija, atsižvelgusi į galimas jų pasekmes, nurodė, kad taikomos poveikio priemonės yra intervencinės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -6212,15 +6283,22 @@ draudimo ir PERDRAUDIMO ĮMONIŲ pabaiga, pertvarkymas ir bankrotas bei trečių
 138 straipsnis. Draudimo ar perdraudimo įmonių pabaiga, pertvarkymas ir bankrotas
 
 
-1. Reorganizuoti draudimo ar perdraudimo įmonę visuotinio akcininkų susirinkimo sprendimu, ją pertvarkyti, perleisti draudimo įmonę kaip turtinį kompleksą galima turint priežiūros institucijos leidimą, išduodamą priežiūros institucijos nustatyta tvarka. Kai draudimo ar perdraudimo įmonė reorganizuojama teismo sprendimu, prieš priimdamas šį sprendimą teismas privalo gauti priežiūros institucijos išvadą.
+1. Reorganizuoti draudimo ar perdraudimo įmonę visuotinio akcininkų susirinkimo sprendimu, perleisti draudimo įmonę kaip turtinį kompleksą galima turint priežiūros institucijos leidimą, išduodamą priežiūros institucijos nustatyta tvarka. Kai draudimo ar perdraudimo įmonė reorganizuojama teismo sprendimu, prieš priimdamas šį sprendimą teismas privalo gauti priežiūros institucijos išvadą. 
 
 
 
 
-2. Priežiūros institucija turi teisę įpareigoti draudimo įmonę pranešti suinteresuotiems asmenims apie reorganizavimo, pertvarkymo ir veiklos rūšies keitimo, įmonės kaip turtinio komplekso perleidimo procedūras ir atsižvelgdama į šio įstatymo 147 straipsnio nuostatas nustatyti šios informacijos pateikimo tvarką. 
+2. Priežiūros institucija turi teisę įpareigoti draudimo įmonę pranešti suinteresuotiems asmenims apie reorganizavimo, pertvarkymo ir veiklos rūšies keitimo, įmonės kaip turtinio komplekso perleidimo procedūras ir atsižvelgdama į šio įstatymo 147 straipsnio nuostatas nustatyti šios informacijos pateikimo tvarką.
+
+
+
+
+3. Kai draudimo ar perdraudimo įmonė pertvarkoma, priežiūros institucija informuojama šio įstatymo 18 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
-
-
 
 
 
@@ -6791,7 +6869,10 @@ Priežiūros institucija, atsižvelgdama į šio įstatymo 152 straipsnio nuosta
 
 
 
-4. Šio straipsnio 1 dalyje nurodytiems asmenims tenka pareiga neatskleisti informacijos, nustatytos šio įstatymo 203 straipsnyje. 
+4. Šio straipsnio 1 dalyje nurodytiems asmenims tenka pareiga neatskleisti informacijos, nustatytos Lietuvos banko įstatymo 43 straipsnyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -7010,7 +7091,10 @@ LIETUVOS RESPUBLIKOS DRAUDIMO BROKERIŲ ĮMONĖ
 
 
 
-2. Draudimo brokerių įmonės įstatinis kapitalas negali būti mažesnis kaip 15 000 eurų, o nuosavas kapitalas – ne mažesnis kaip 4 procentai per finansinius metus draudimo brokerių įmonės gautų draudimo įmokų, kurios mokėtinos draudikams, ir ne mažesnis kaip 15 000 eurų. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo brokerių įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija iki draudimo brokerių įmonės informacijos apie pakeitimus pateikimo Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas.
+2. Draudimo brokerių įmonės įstatinis kapitalas negali būti mažesnis kaip 15 000 eurų, o nuosavas kapitalas – ne mažesnis kaip 4 procentai per metus draudimo brokerių įmonės gautų draudimo įmokų, kurios mokėtinos draudikams, ir ne mažesnis kaip 15 000 eurų. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo brokerių įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija iki draudimo brokerių įmonės informacijos apie pakeitimus pateikimo Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 darbo dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -7026,6 +7110,13 @@ LIETUVOS RESPUBLIKOS DRAUDIMO BROKERIŲ ĮMONĖ
 
 
 5. Draudimo brokerių įmonė privalo teikti priežiūros institucijai šios nustatytos formos statistinę, finansinę ir kitokią informaciją, reikalingą draudimo brokerių įmonės veiklos priežiūrai. 
+
+
+
+
+6. Draudimo brokerių įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus (prašymus). Draudimo brokerių įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir draudimo brokerių įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo brokerių įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio draudėjas, apdraustasis, naudos gavėjas ir nukentėjęs trečiasis asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo brokerių įmonė draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus nagrinėja neatlygintinai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -7072,7 +7163,9 @@ Draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmon�
 
 
 
-6. Draudimo brokerių įmonė privalo atidaryti atskirą banko sąskaitą, į kurią pervedamos tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšos ir draudikų lėšos, skirtos išmokėti šiems asmenims. Į šias lėšas negali būti nukreipiami išieškojimai pagal kitas draudimo brokerių įmonės prievoles, o draudimo brokerių įmonei bankrutavus iš šioje sąskaitoje esančių lėšų gali būti tenkinami tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų kreditorių reikalavimai. Priežiūros institucija turi teisę teikti privalomus nurodymus dėl lėšų, laikomų atskiroje banko sąskaitoje.
+6. Draudimo brokerių įmonė privalo atidaryti atskirą banko sąskaitą, į kurią pervedamos tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšos ir draudikų lėšos, skirtos išmokėti šiems asmenims. Į šias lėšas negali būti nukreipiami išieškojimai pagal kitas draudimo brokerių įmonės prievoles, o draudimo brokerių įmonei bankrutavus iš šioje sąskaitoje esančių lėšų gali būti tenkinami tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų reikalavimai. Priežiūros institucija turi teisę nustatyti privalomus reikalavimus draudimo brokerių įmonėms dėl lėšų, laikomų atskiroje banko sąskaitoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -7841,7 +7934,9 @@ LIETUVOS RESPUBLIKOS PRIKLAUSOMI DRAUDIMO TARPININKAI
 
 
 
-5. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, atsižvelgdami į priežiūros institucijos sprendimus ir rekomendacijas, privalo teikti jų vardu ir dėl jų interesų veikiantiems priklausomiems draudimo tarpininkams privalomus nurodymus dėl tarpininkavimo veiklos. 
+5. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, atsižvelgdami į priežiūros institucijos sprendimus ir rekomendacijas, privalo teikti jų vardu ir dėl jų interesų veikiantiems priklausomiems draudimo tarpininkams privalomus reikalavimus dėl tarpininkavimo veiklos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -8043,7 +8138,9 @@ Kitų Europos ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkai
 
 
 
-4. Priežiūros institucija nustato privalomus nurodymus draudimo įmonėms, trečiųjų valstybių draudimo įmonių filialams ir rekomendacijas kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl kitos Europos ekonominės erdvės valstybės priklausomų draudimo tarpininkų, vykdančių veiklą Lietuvos Respublikoje, sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės ir šių priklausomų draudimo tarpininkų darbuotojų, į kurių pareigas įeina draudimo tarpininkavimas, profesinio mokymo.
+4. Priežiūros institucija nustato privalomus reikalavimus draudimo įmonėms, trečiųjų valstybių draudimo įmonių filialams ir rekomendacijas kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl kitos Europos ekonominės erdvės valstybės priklausomų draudimo tarpininkų, vykdančių veiklą Lietuvos Respublikoje, sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės ir šių priklausomų draudimo tarpininkų darbuotojų, į kurių pareigas įeina draudimo tarpininkavimas, profesinio mokymo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -8294,7 +8391,10 @@ BENDROSIOS NUOSTATOS
 198 straipsnis. Priežiūros institucijos veiklos skaidrumas ir atskaitomybė
 
 
-1. Priežiūros institucija savo veikloje vadovaujasi skaidrumo ir atskaitomybės principais ir privalo užtikrinti atliekant priežiūros funkcijas gaunamos konfidencialios informacijos apsaugą.
+1. Priežiūros institucija savo veikloje vadovaujasi skaidrumo ir atskaitomybės principais ir privalo užtikrinti atliekant priežiūros funkcijas gaunamos konfidencialios informacijos apsaugą. Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -8505,242 +8605,31 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 Straipsnio pakeitimai:
-Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
 
 
 201 straipsnis. Priežiūros institucijos teisės
-
-
-1. Priežiūros institucija, atlikdama savo funkcijas, turi teisę:
-
-
-1) gauti informaciją iš visų fizinių ir juridinių asmenų, reikalingą priežiūros funkcijoms atlikti;
-
-
-
-
-2) savo funkcijoms atlikti pasitelkti tam kompetentingus asmenis ir suteikti jiems reikiamus įgaliojimus;
-
-
-
-
-3) nustatyti draudimo grupių ar joms priskiriamų rizikų draudimo veiklos tvarką, atskirų draudimo rizikų draudimo, įskaitant privalomąjį draudimą, sutarčių sąlygas, reikalavimus, kuriuos draudikas privalo vykdyti teikdamas paslaugas vartotojams ryšio priemonėmis;
-
-
-
-
-4) kreiptis į teismą dėl draudimo įmonės, perdraudimo įmonės ar draudimo brokerių įmonės organų sprendimų pripažinimo netekusiais galios Civilinio kodekso 2.82 straipsnio 4 dalyje nustatytais atvejais, taip pat dėl draudimo įmonės, perdraudimo įmonės ar draudimo brokerių įmonės sandorių, sudarytų dėl tokių sprendimų, pripažinimo negaliojančiais;
-
-
-
-
-5) dalyvauti draudimo įmonių, perdraudimo įmonių, draudimo ir perdraudimo tarpininkų ir kitų finansų institucijų priežiūros tarptautinėse institucijose;
-
-
-
-
-6) pareikšti ieškinį viešajam interesui ginti ir (ar) įstoti į bylą savo iniciatyva, kad pateiktų išvadą;
-
-
-
-
-7) iškilus realiai grėsmei, kad draudimo ar perdraudimo įmonė taps nemoki ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui priskirtas turtas taps mažesnis už filialo įsipareigojimus, įpareigoti draudimo įmonę, perdraudimo įmonę ar trečiosios valstybės draudimo ar perdraudimo įmonės filialą, ketinančius vykdyti reikšmingus sandorius, gauti priežiūros institucijos pritarimą;
-
-
-
-
-8) priežiūros veikloje diegti ir naudoti kiekybinio vertinimo priemones, leidžiančias nustatyti draudimo ar perdraudimo įmonės galimybę veikti atsižvelgiant į finansinei būklei neigiamą poveikį galinčius turėti įvykius ar ekonominių sąlygų pasikeitimą ateityje, ir reikalauti, kad draudimo ar perdraudimo įmonės atliktų atitinkamus vertinimus.
-
-
-
-
-
-
-2. Priežiūros institucija turi ir kitų šiame įstatyme ir kituose teisės aktuose nustatytų teisių.
- 
-
-
-
-
-
-
-202 straipsnis. Bendrosios nuostatos dėl priežiūros institucijos priimamų sprendimų 
-
-
-1. Jeigu šiame įstatyme ir kituose teisės aktuose nustatyta, kad privaloma pateikti priežiūros institucijai dokumentus sprendimui priimti, priežiūros institucija turi teisę reikalauti, kad pareiškėjas pateiktų papildomus dokumentus ir informaciją, reikalingus sprendimui priimti. Šiuo atveju priežiūros institucija privalo motyvuoti savo reikalavimą, apie jį pranešti pareiškėjui ir nustatyti dokumentų ir informacijos pateikimo terminą.
-
-
-
-
-2. Jeigu šiame įstatyme nustatyta tvarka priežiūros institucija pareikalavo papildomų dokumentų ir informacijos, tai sprendimo priėmimo terminai skaičiuojami nuo tos dienos, kurią gauti visi sprendimui priimti reikalingi dokumentai ir informacija.
-
-
-
-
-3. Priėmusi neigiamą sprendimą, priežiūros institucija apie šį sprendimą praneša pareiškėjams ir nurodo tokio sprendimo motyvus.
-
-
-
-
-4. Priežiūros institucijos sprendimas ar sprendimo nepriėmimas per teisės aktuose nustatytus terminus įstatymų nustatyta tvarka gali būti skundžiamas teismui. 
- 
-
-
-
-
-
-
-203 straipsnis. Priežiūros institucijos teisė į informaciją
-
-
-1. Valstybės ir savivaldybių institucijos, kiti juridiniai ir fiziniai asmenys priežiūros institucijos prašymu privalo pateikti informaciją, taip pat ir konfidencialią, reikalingą priežiūros institucijos funkcijoms atlikti ir teisėms įgyvendinti. Šios informacijos pateikimas nėra laikomas konfidencialumo ir duomenų apsaugos reikalavimų, nustatytų sandoriuose, teisės aktuose ir įmonių vidaus dokumentuose, pažeidimu. 
-
-
-
-
-2. Priežiūros institucija turi teisę kreiptis ir į kitų Europos ekonominės erdvės valstybių ar trečiųjų valstybių priežiūros institucijas, finansų ir kapitalo rinkos priežiūros institucijas ar kitas institucijas, fizinius ir juridinius asmenis su prašymu pateikti informaciją, reikalingą priežiūros institucijos funkcijoms atlikti ir teisėms įgyvendinti.
-
-
-
-
-3. Priežiūros institucijos pareigūnai, tarnautojai (tiek esami, tiek buvę), valstybės ir savivaldybių institucijos, visi kiti juridiniai ir fiziniai asmenys, iš priežiūros institucijos gavę informacijos, susijusios su priežiūros institucijos vykdoma šiame įstatyme nustatytų subjektų priežiūra, privalo laikyti ją paslaptyje ir jos neatskleisti, išskyrus įstatymų nustatytus atvejus. Priežiūros institucija nustato sąrašą duomenų, kurie yra susiję su priežiūros institucijos vykdoma šiame įstatyme nustatytų subjektų priežiūra. Šis sąrašas skelbiamas viešai.
-
-
-
-
-4. Priežiūros institucija gautą informaciją gali naudoti tik atlikdama jai pavestas funkcijas ir šiais tikslais:
-
-
-1) tikrinti, kaip laikomasi teisės aktų, reglamentuojančių draudimo, perdraudimo, draudimo ar perdraudimo tarpininkavimo veiklą, reikalavimų;
-
-
-
-
-2) taikyti poveikio priemones;
-
-
-
-
-3) administracinėse bylose dėl priežiūros institucijos sprendimų;
-
-
-
-
-4) kitose bylose, vykstančiose dėl šiame įstatyme reglamentuojamų teisinių santykių;
-
-
-
-
-5) kitais šiame įstatyme nurodytais tikslais.
-
-
-
-
-
-
-5. Duomenys, susiję su priežiūros institucijos atliekama šiame įstatyme nustatytų subjektų priežiūra, teikiami ir atskleidžiami tik šio įstatymo nustatyta tvarka. 
-
-
-
-
-6. Duomenų, susijusių su priežiūros institucijos atliekama šiame įstatyme nustatytų subjektų priežiūra, atskleidimu nelaikomas informacijos teikimas tokia apibendrinta forma, kad negali būti nustatyta konkretaus asmens tapatybė ar nustatytas konkretus subjektas.
-
-
-
-
-7. Įsitikinusi, kad bus užtikrintas teikiamos informacijos konfidencialumas, ir nurodžiusi šios informacijos naudojimo sąlygas, kurios yra privalomos informaciją gaunančiam asmeniui, priežiūros institucija turi teisę teikti reikalingus informaciją gaunančių asmenų funkcijoms atlikti duomenis, susijusius su priežiūros institucijos atliekama šiame įstatyme nustatytų subjektų priežiūra:
-
-
-1) kitų Europos ekonominės erdvės valstybių priežiūros institucijoms;
-
-
-
-
-2) kitų Europos ekonominės erdvės valstybių finansų ir kapitalo rinkos priežiūrą atliekančioms institucijoms;
-
-
-
-
-3) Europos draudimo ir profesinių pensijų institucijai, kaip numatyta šiame įstatyme ir Reglamente (ES) Nr. 1094/2010; 
-
-
-
-
-4) Lietuvos Respublikos ir kitos Europos ekonominės erdvės valstybės asmenims, atsakingiems už draudimo arba perdraudimo įmonių likvidavimo ar bankroto ir kitų panašių procedūrų kontrolę, ir valstybės institucijoms, atsakingoms už šių asmenų priežiūrą; 
-
-
-
-
-5) Lietuvos Respublikos ir kitos Europos ekonominės erdvės valstybės asmenims, kuriems pavesta atlikti draudimo ar perdraudimo įmonių, kredito įstaigų, finansų maklerio įmonių ir kitų finansų įstaigų auditą, ir valstybės institucijoms, atsakingoms už šių asmenų priežiūrą;
-
-
-
-
-6) Lietuvos Respublikos ir kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonių nepriklausomiems aktuarams ir institucijoms, atsakingoms už šių aktuarų priežiūrą;
-
-
-
-
-7) Lietuvos Respublikos ir kitos Europos ekonominės erdvės valstybės institucijoms, kurioms įstatymais suteikti įgaliojimai nustatyti ir tirti įmonių veiklos pažeidimus;
-
-
-
-
-8) Europos centrinių bankų sistemos centriniams bankams, įskaitant Europos centrinį banką, ir kitoms panašias funkcijas atliekančioms monetarinėms institucijoms, o esant kritinėms situacijoms – Europos centrinių bankų sistemos centriniams bankams, įskaitant Europos centrinį banką, nedelsdama;
-
-
-
-
-9) Lietuvos Respublikos ir kitos Europos ekonominės erdvės valstybės valdžios institucijoms, atsakingoms už mokėjimų sistemų priežiūrą; 
-
-
-
-
-10) Lietuvos Respublikos ir kitos Europos ekonominės erdvės valstybės įstaigoms, administruojančioms priverstinio likvidavimo procedūras arba draudėjų apsaugos fondus;
-
-
-
-
-11) institucijoms, atsakingoms už teisėkūrą draudimo, perdraudimo, draudimo ar perdraudimo tarpininkavimo, finansų įstaigų, investicinių paslaugų srityje, riziką ribojančios kontrolės tikslais;
-
-
-
-
-12) Europos sisteminės rizikos valdybai, įsteigtai 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1), o esant kritinėms situacijoms – nedelsdama.
-
-
-
-
-
-
-8. Priežiūros institucija turi teisę sudaryti sutartis dėl keitimosi informacija, reikalinga priežiūros funkcijoms atlikti, su trečiųjų valstybių priežiūros institucijomis, finansų ir kapitalo rinkos priežiūrą atliekančiomis institucijomis, jeigu šių valstybių įstatymai užtikrina ne mažesnį kaip šio įstatymo nustatytą gautos informacijos konfidencialumą.
-
-
-
-
-9. Priežiūros institucija turi teisę įstatymų nustatyta tvarka atskleisti priežiūros institucijos funkcijoms atlikti reikalingą informaciją, gautą iš kitos Europos ekonominės erdvės valstybės fizinių ar juridinių asmenų, tik gavusi kitos Europos ekonominės erdvės valstybės priežiūros institucijos rašytinį sutikimą ir tik sutikime nurodytam tikslui. Institucijos ar įstaigos, nurodytos šio straipsnio 7 dalies 7 punkte, prašančios suteikti informaciją, reikalingą jų funkcijoms atlikti, praneša priežiūros institucijai asmenų, kuriems ta informacija turi būti siunčiama, vardus, pavardes ir tikslias pareigas.
-
-
-
-
-10. Informacija, priežiūros institucijos gauta iš kitų šio straipsnio 7 dalies 1, 2, 4, 5 ir 10 punktuose nurodytų institucijų ar tikrinant kitoje Europos ekonominės erdvės valstybėje įsteigtą draudimo ar perdraudimo įmonės ar draudimo ar perdraudimo tarpininkų įmonės filialą, gali būti atskleista įstatymų nustatyta tvarka tik informaciją pateikusios priežiūros institucijos ar kitos Europos ekonominės erdvės valstybės, kurioje buvo atliktas patikrinimas, priežiūros institucijos sutikimu.
-
-
-
-
-11. Priežiūros institucija turi pranešti Komisijai ir kitų Europos ekonominės erdvės valstybių priežiūros institucijoms asmenų, institucijų ir įstaigų, nurodytų šio straipsnio 7 dalyje, galinčių gauti informaciją, pavadinimus ar vardus ir pavardes.
-
-
-
-
-12. Šio straipsnio 3, 4, 6 dalys ir 7 dalies 4 ir 10 punktai nedaro poveikio Europos Parlamento tyrimo įgaliojimams, suteiktiems pagal Sutarties dėl Europos Sąjungos veikimo 226 straipsnį.
-
-
 Straipsnio pakeitimai:
-Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
+202 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
+203 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -8821,6 +8710,9 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 
 
+Straipsnio pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -8935,6 +8827,9 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
  
 
 
+Straipsnio pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9033,62 +8928,24 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 
 
-2. Turto areštas skiriamas šio įstatymo 205 straipsnio 2–5 dalyse nustatyta tvarka. Turto arešto aktą pasirašo priežiūros institucijos vadovas. Turto arešto aktas registruojamas Lietuvos Respublikos turto arešto aktų registro įstatymo nustatyta tvarka.
-
-
-
-
-3. Priežiūros institucija turi teisę pareikšti teisme ieškinį dėl sandorio dėl areštuoto turto pripažinimo negaliojančiu. 
+2. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo arba perdraudimo įmonės filialo veiklos trūkumus, taip pat jeigu kyla grėsmė draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo arba perdraudimo įmonės filialo veiklos stabilumui ir patikimumui arba visuomenės, draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas. Turto arešto aktą pasirašo priežiūros institucijos vadovas. Turto arešto aktas registruojamas Lietuvos Respublikos turto arešto aktų registro įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
 
 
-
-
-208 straipsnis. Priežiūros institucijos skiriamos baudos 
-
-
-1. Draudimo įmonei, perdraudimo įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei, trečiosios valstybės draudimo ar perdraudimo įmonės filialui, vykdantiems veiklą, kurios pagal draudimo veiklos licenciją, perdraudimo veiklos licenciją, leidimą filialo veiklai ar kitus veiklą reglamentuojančius teisės aktus šie asmenys neturi teisės vykdyti, asmenims, kurie neteisėtai verčiasi draudimo ar perdraudimo įmonės, draudimo ar perdraudimo tarpininkų veikla, gali būti skiriama iki 30 000 eurų bauda.
+3. Priežiūros institucija turi teisę pareikšti teisme ieškinį dėl sandorio dėl areštuoto turto pripažinimo negaliojančiu. 
 
 
 
 
-2. Draudimo įmonei, perdraudimo įmonei, draudimo ar perdraudimo tarpininkų įmonei, draudimo kontroliuojančiajai įmonei, mišrios veiklos finansų kontroliuojančiajai įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonei, trečiosios valstybės draudimo ar perdraudimo įmonės, draudimo ar perdraudimo tarpininko įmonės filialui, draudimo ar perdraudimo įmonės pasitelktam asmeniui (šio įstatymo 30 straipsnis), kurie atsisakė pateikti informaciją arba pateikė neteisingą informaciją priežiūros institucijai, gali būti skiriama iki 20 000 eurų bauda.
 
 
-
-
-3. Draudimo įmonei, perdraudimo įmonei, draudimo ar perdraudimo tarpininkų įmonei, draudimo kontroliuojančiajai įmonei, mišrios veiklos finansų kontroliuojančiajai įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonei, trečiosios valstybės draudimo ar perdraudimo įmonei, draudimo ar perdraudimo tarpininko įmonei, draudimo ar perdraudimo įmonės pasitelktam asmeniui (šio įstatymo 30 straipsnis), šiurkščiai pažeidusiems šį įstatymą ar kitus draudimo, perdraudimo ir draudimo ar perdraudimo tarpininkavimo veiklą reglamentuojančius teisės aktus, gali būti skiriama iki 100 000 eurų bauda.
-
-
-
-
-4. Draudimo įmonei, perdraudimo įmonei, draudimo tarpininkų įmonei ar užsienio valstybės draudimo ar perdraudimo įmonės ar nepriklausomo draudimo tarpininko įmonės filialui, pažeidusiems 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB)  Nr. 1060/2009 dėl kredito reitingų agentūrų nustatytus reikalavimus, gali būti skiriama iki  100 000 eurų bauda.
-
-
-
-
-5. Bauda skiriama šio įstatymo 205 straipsnio 2–5 dalyse nustatyta tvarka.
-
-
-
-
-6. Priežiūros institucijos paskirta bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo, kuriam paskirta bauda, gavo sprendimą dėl baudos paskyrimo.
-
-
-
-
-7. Nesumokėta bauda išieškoma Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
-
-
-
-
-8. Baudų paskyrimas neatleidžia juridinio asmens ar filialo vadovų nuo įstatymų nustatytos civilinės ir baudžiamosios atsakomybės.
-
-
+208 straipsnis. Baudos 
 Straipsnio pakeitimai:
-Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
 
 
@@ -9125,7 +8982,10 @@ Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 
 
 
-4) turi teisę šio įstatymo 205 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės finansinė būklė, kai kitos Europos ekonominės erdvės valstybės draudimo įmonės veikla gali pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus arba kyla tokio pablogėjimo ar pažeidimo grėsmė, taikyti poveikio priemones, nustatytas šio straipsnio 4 dalyje;
+4) turi teisę šio įstatymo 205 straipsnio 1 dalies 13 ir 20 punktuose nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės finansinė būklė, kai kitos Europos ekonominės erdvės valstybės draudimo įmonės veikla gali pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus arba kyla tokio pablogėjimo ar pažeidimo grėsmė, taikyti poveikio priemones, nustatytas šio straipsnio 4 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9145,37 +9005,22 @@ Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 4. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei priežiūros institucija turi teisę taikyti šias poveikio priemones:
 
 
-1) įspėti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonę dėl nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustatyti šių pažeidimų pašalinimo terminus;
-
-
-
-
-2) reikalauti, kad būtų pakeistas kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės filialo vadovas;
 Straipsnio punkto pakeitimai:
 Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
  
 
 
-
-
-3) šio įstatymo 207 straipsnio 2 dalyje nustatyta tvarka ir kai yra kitos Europos ekonominės erdvės valstybės priežiūros institucijos prašymas, areštuoti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės turtą, esantį Lietuvos Respublikoje;
-
-
-
-
-4) skirti Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei baudą (šio įstatymo 208 straipsnis);
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
 
-5) laikinai ar visam laikui uždrausti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei vykdyti veiklą Lietuvos Respublikoje.
-
-
-
-
-
-
-5. Kai kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė pažeidžia jai taikomus Lietuvos Respublikos teisės aktus, nepateikia informacijos priežiūros institucijai arba kitos Europos ekonominės erdvės valstybės draudimo įmonė vykdo rizikingą veiklą, galinčią pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, priežiūros institucija pirmiausia įspėja šią draudimo ar perdraudimo įmonę dėl nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustato šių pažeidimų pašalinimo terminus. Jeigu pažeidimai nepašalinami priežiūros institucijos nustatytais terminais ir tvarka, priežiūros institucija privalo apie tai pranešti kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir prašyti, kad ši imtųsi visų teisės aktų leidžiamų priemonių pažeidimams pašalinti.
+5. Kai kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė pažeidžia jai taikomus Lietuvos Respublikos teisės aktus, nepateikia informacijos priežiūros institucijai arba kitos Europos ekonominės erdvės valstybės draudimo įmonė vykdo rizikingą veiklą, galinčią pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, priežiūros institucija pirmiausia skiria šio straipsnio 4 dalies 1 punkte nustatytą poveikio priemonę. Jeigu pažeidimai nepašalinami priežiūros institucijos nustatytais terminais ir tvarka, priežiūros institucija privalo apie tai pranešti kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir prašyti, kad ši imtųsi visų teisės aktų leidžiamų priemonių pažeidimams pašalinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9198,7 +9043,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 210 straipsnis. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų, teikiančių paslaugas ar įsisteigusių Lietuvos Respublikoje, priežiūra
 
 
-1. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų, teikiančių paslaugas Lietuvos Respublikoje, ar šių tarpininkų Lietuvos Respublikoje įsteigtų filialų veiklos priežiūrą atlieka šios valstybės priežiūros institucija. Nepaisant šios nuostatos, priežiūros institucija turi šiame straipsnyje nustatytas teises ir pareigas.
+1. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų, teikiančių paslaugas Lietuvos Respublikoje, ar šių tarpininkų Lietuvos Respublikoje įsteigtų filialų veiklos priežiūrą atlieka šios valstybės priežiūros institucija. Nepaisant šios nuostatos, priežiūros institucija turi teisę prižiūrėti, ar šie subjektai, vykdydami veiklą Lietuvos Respublikoje, laikosi šiame įstatyme tiesiogiai jiems nustatytų reikalavimų ir kitų Lietuvos Respublikos teisės aktų, ir turi kitas šiame straipsnyje nustatytas teises ir pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9229,11 +9077,14 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 5) teikti rekomendacijas ir privalomus nurodymus Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui ar jo įsteigtam filialui dėl jų veiklos Lietuvos Respublikoje.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
 
-3. Priežiūros institucija turi teisę taikyti šias poveikio priemones kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui ar jo filialui:
+3. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui priežiūros institucija turi teisę taikyti šias poveikio priemones:
 
 
 1) įspėti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininką dėl nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustatyti šių pažeidimų pašalinimo terminus;
@@ -9262,6 +9113,9 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 5) laikinai ar visam laikui uždrausti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko veiklą Lietuvos Respublikoje.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9275,42 +9129,9 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 
 211 straipsnis. Pasaulio prekybos organizacijos narių, kurios yra trečiosios valstybės, draudimo įmonės
-
-
-1. Priežiūros institucija, atlikdama Pasaulio prekybos organizacijos narės, kuri yra trečioji valstybė, draudimo įmonės veiklos neįsteigus filialo Lietuvos Respublikoje priežiūrą, turi teisę:
-
-
-1) iš trečiosios valstybės draudimo įmonės gauti informaciją, reikalingą priežiūros funkcijoms atlikti;
-
-
-
-
-2) šio įstatymo 205 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais ar kai pažeisti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesai, taikyti poveikio priemones, numatytas šio straipsnio 2 dalyje.
-
-
-
-
-
-
-2. Priežiūros institucija trečiosios valstybės draudimo įmonei gali taikyti šias poveikio priemones:
-
-
-1) įspėti trečiosios valstybės draudimo įmonę dėl nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustatyti šių pažeidimų pašalinimo terminus;
-
-
-
-
-2) laikinai ar visam laikui uždrausti trečiosios valstybės draudimo įmonei sudaryti draudimo sutartis su Lietuvos Respublikos fiziniais ar juridiniais asmenimis.
-
-
-
-
-
-
-3. Apie taikomą poveikio priemonę priežiūros institucija raštu praneša draudimo įmonei ir išsamiai nurodo šios priemonės taikymo motyvus.
+Straipsnio pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
-
-
 
 
 
@@ -9323,7 +9144,10 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 
 
-2. Patikrinimų atlikimo tvarką nustato priežiūros institucija. 
+2. Neteko galios 2018-06-15. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9341,7 +9165,10 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 
 
-3) kitos Europos ekonominės erdvės valstybės draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų filialų, įsteigtų Lietuvos Respublikoje, šios valstybės priežiūros institucijos prašymu; 
+3) kitos Europos ekonominės erdvės valstybės draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų filialų, įsteigtų Lietuvos Respublikoje, šios valstybės priežiūros institucijos prašymu arba savo iniciatyva prieš tai pranešusi atitinkamos kitos Europos ekonominės erdvės valstybės priežiūros institucijai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9368,32 +9195,10 @@ Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
 
 
 
-4. Atlikdami patikrinimą, priežiūros institucijos pareigūnai, tarnautojai, darbuotojai ar pasitelkti asmenys turi teisę:
-
-
-1) gauti tikrinamų asmenų žodinius ir rašytinius paaiškinimus, reikalauti, kad šie asmenys ar jų atstovai atvyktų duoti paaiškinimų į patikrinimą atliekančio asmens patalpas;
-
-
-
-
-2) pateikę tarnybinį pažymėjimą ir (ar) asmens tapatybės dokumentą bei priežiūros institucijos sprendimą, atlikti patikrinimą, laisvai įeiti į įmonių patalpas darbo metu, tikrinti dokumentus, apskaitos registrus, kitus patikrinimui reikalingus informacijos šaltinius ir pagal tikrinimo medžiagą iš ekspertizės įstaigų ar ekspertų gauti išvadas;
-
-
-
-
-3) išreikalauti ar pasidaryti apskaitos dokumentų, sutarčių, įsakymų, kitų dokumentų ir informacijos kopijas;
-
-
-
-
-4) laikinai, ne ilgiau kaip vienam mėnesiui, paimti tikrinamų įmonių dokumentus, kurie gali būti naudojami kaip pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo ir dokumentų poėmio aktą;
-
-
-
-
-5) pateikę priežiūros institucijos sprendimą, gauti iš kredito ir finansų įstaigų duomenis, pažymas ir dokumentų apie finansines operacijas, susijusias su tikrinama įmone, kopijas.
-
-
+4. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 
@@ -9484,7 +9289,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-2) apie poveikio priemonių, pritaikytų kitų Europos ekonominės erdvės valstybių draudimo įmonėms, rūšį ir skaičių.
+2) apie poveikio priemonių, pritaikytų kitų Europos ekonominės erdvės valstybių draudimo įmonėms, rūšį ir skaičių;
 
 
 
@@ -9564,7 +9369,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-12) kiekvienais metais apie grupių, kurioms sumažinti reguliariai priežiūros tikslais teikiamų ataskaitų reikalavimai, skaičių ir šių grupių mokumo kapitalo reikalavimus, draudimo įmokas, techninius atidėjinius ir turtą, išreikštus procentais atitinkamai nuo visų grupių mokumo kapitalo reikalavimų, draudimo įmokų, techninių atidėjinių ir turto.
+12) kiekvienais metais apie grupių, kurioms sumažinti reguliariai priežiūros tikslais teikiamų ataskaitų reikalavimai, skaičių ir šių grupių mokumo kapitalo reikalavimus, draudimo įmokas, techninius atidėjinius ir turtą, išreikštus procentais atitinkamai nuo visų grupių mokumo kapitalo reikalavimų, draudimo įmokų, techninių atidėjinių ir turto;
 
 
 
@@ -9791,10 +9596,12 @@ BAIGIAMOSIOS NUOSTATOS
 221 straipsnis. Gyvybės ir ne gyvybės draudimo veiklos vykdymas
 
 
-Veikiančios ne gyvybės draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių, naudojasi teisėmis ir vykdo pareigas pagal šias sutartis iki šių sutarčių pabaigos. Šių draudimo sutarčių šalys, įsigaliojus šiam įstatymui, negali keisti iki šio įstatymo įsigaliojimo sudarytos gyvybės draudimo sutarties termino nustatydamos ilgesnį gyvybės draudimo sutarties terminą. Veikiančios ne gyvybės draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių, privalo vadovautis priežiūros institucijos nurodymais dėl gyvybės draudimo ir ne gyvybės draudimo veiklos atskiro valdymo.
+Veikiančios ne gyvybės draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių, naudojasi teisėmis ir vykdo pareigas pagal šias sutartis iki šių sutarčių pabaigos. Šių draudimo sutarčių šalys, įsigaliojus šiam įstatymui, negali keisti iki šio įstatymo įsigaliojimo sudarytos gyvybės draudimo sutarties termino nustatydamos ilgesnį gyvybės draudimo sutarties terminą. Veikiančios ne gyvybės draudimo įmonės, turinčios galiojančių gyvybės draudimo sutarčių, privalo vadovautis priežiūros institucijos nustatytais gyvybės draudimo ir ne gyvybės draudimo veiklos atskiro valdymo reikalavimais.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
-
-
 
 
 
@@ -9925,6 +9732,22 @@ priedas
 
 
 16. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES, kuria iš dalies keičiamos direktyvų 98/78/EB, 2002/87/EB, 2006/48/EB ir 2009/138/EB nuostatos dėl finansų konglomeratui priklausančių finansų subjektų papildomos priežiūros (OL 2011 L 326, p. 113).
+
+
+
+
+17. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1). 
+Papildyta punktu:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
+18. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). 
+Papildyta punktu:
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
 
 
 Priedo pakeitimai:
@@ -10095,3 +9918,8 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 53 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 11, 22, 25, 26, 33, 135, 138, 157, 161, 163, 184, 191, 198, 200, 201, 204, 205, 207, 208, 209, 210, 211, 212, 221 straipsnių ir priedo pakeitimo, Įstatymo papildymo 31-1 straipsniu ir 202, 203 straipsnių pripažinimo netekusiais galios įstatymas
