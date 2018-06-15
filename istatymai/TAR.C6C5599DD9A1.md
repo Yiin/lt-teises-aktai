@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2017-02-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-07-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -2632,13 +2632,83 @@ IX SKYRIUS
 
 
 
-63 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+621 straipsnis. Priežiūros institucijos teisės
 
 
-Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos Respublikos Lietuvos banko įstatymo (toliau – Lietuvos banko įstatymas) 43 straipsnio nuostatos.
+1. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę imtis kitų teisėtų  priemonių, kad mokėjimo paslaugų teikėjai nuolat laikytųsi šiame įstatyme ir kituose mokėjimo paslaugų teikimo veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų.
+
+
+
+
+2. Priežiūros institucija Lietuvos banko įstatymo nustatyta tvarka duoda mokėjimo paslaugų teikėjui šiuos privalomus nurodymus:
+
+
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
+
+
+
+
+2) atkurti prieš pažeidžiant teisės aktus buvusią padėtį;
+
+
+
+
+3) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+4) viešai atskleisti papildomą informaciją;
+
+
+
+
+5) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+
+
+
+
+
+3. Šio straipsnio 2 dalyje nustatyti privalomi nurodymai gali būti duodami, kai yra bent vienas iš šių pagrindų:
+
+
+1) priežiūros institucija nustato teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimų arba mokėjimo paslaugų teikėjo veiklos trūkumų;
+
+
+
+
+2) priežiūros institucija turi pakankamą pagrindą įtarti, kad teisės aktai, kurių laikymosi priežiūra priskirta jos kompetencijai, gali būti pažeisti; 
+
+
+
+
+3) kyla grėsmė mokėjimo paslaugų teikėjo veiklos stabilumui ir patikimumui arba visuomenės ir (arba) mokėjimo paslaugų vartotojų interesams.
+
+
+
+
+
+
+4. Mokėjimo paslaugų teikėjai privalo vykdyti šio straipsnio 2 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą dieną po įvykdymo, apie tai raštu pranešti priežiūros institucijai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
 
 
+
+
+63 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+
+
+Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
+ 
 
 
 
@@ -2646,36 +2716,45 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 64 straipsnis. Priežiūros institucijos atliekami patikrinimai
 
 
-1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir (arba) kitų teisės aktų reikalavimų. 
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. 
 
 
 
 
-2. Patikrinimų atlikimo tvarką nustato priežiūros institucija.
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
 
 
 
 
+65 straipsnis. Poveikio priemonės
 
 
-65 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
+Priežiūros institucija taiko šias poveikio priemones:
 
 
-Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims taikyti šias poveikio priemones:
-
-
-1) įspėti dėl šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas);
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-2) skirti šiame įstatyme nustatytas pinigines baudas.
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
+
+
+
+
+3) skiria šiame įstatyme nustatytas baudas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
-
-
-
-
 
 
 
@@ -2683,120 +2762,42 @@ Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine 
 66 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 
-1. Šiame įstatyme nustatytos poveikio priemonės taikomos fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims, kai yra bent vienas iš šių pagrindų:
+1. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
 
 
-1) atliekami veiksmai ar veikla, kuriuos draudžia šis įstatymas;
+1) teikiamos mokėjimo paslaugos, jeigu joms teikti neturima įstatymų nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
 
 
 
-2) nustatytais terminais nepateikiama šiame įstatyme ir (arba) kituose teisės aktuose nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija;
+2) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija;
 
 
 
 
-3) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
+3) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 621 straipsnį duoti privalomi nurodymai;
 
 
 
 
-4) padaromas kitas teisės akto pažeidimas.
+4) trukdoma priežiūros institucijai arba jos tarnautojams atlikti patikrinimus;
 
 
 
 
+5) padaromi kiti šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
 
 
-2. Priežiūros institucija, prieš spręsdama klausimą, ar taikyti poveikio priemonę, nustato ne trumpesnį kaip 14 dienų terminą, skaičiuojamą nuo pranešimo išsiuntimo dienos, paaiškinimams pateikti ir apie tai raštu praneša asmeniui, įtariamam teisės akto pažeidimo padarymu, bei pateikia jam informaciją apie galimai pažeistas šio įstatymo ir (arba) kito teisės akto nuostatas, nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus. Paaiškinimų nepateikimas per nurodytą laiką netrukdo spręsti klausimo dėl poveikio priemonės taikymo. 
 
 
 
 
-3. Apie poveikio priemonės taikymo klausimo svarstymo vietą, datą ir laiką asmeniui, įtariamam teisės akto pažeidimo padarymu, pranešama raštu ne vėliau kaip likus 10 darbo dienų iki poveikio priemonės taikymo klausimo svarstymo dienos. Asmuo, įtariamas teisės akto pažeidimo padarymu, jo atstovai turi teisę dalyvauti priežiūros institucijai nagrinėjant šį klausimą, tačiau asmens, įtariamo teisės akto pažeidimo padarymu, ar jo atstovo neatvykimas netrukdo svarstyti poveikio priemonės taikymo klausimo, jeigu asmeniui, įtariamam teisės akto pažeidimo padarymu, apie svarstymą buvo tinkamai pranešta ir jis nepateikė įrodymų, kad negali atvykti dėl svarbių priežasčių.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
 
 
-
-
-4. Neatidėliotinais atvejais, kai reikia reaguoti operatyviai dėl būtinumo apsaugoti finansų sistemos stabilumą ar kitus viešuosius interesus, priežiūros institucija turi teisę spręsti klausimą dėl poveikio priemonės taikymo, neatsižvelgdama į šio straipsnio 2 ir 3 dalių nuostatas. Asmuo, kuriam, neatsižvelgiant į šio straipsnio 2 ir 3 dalių nuostatas, pritaikyta poveikio priemonė, turi teisę per 14 dienų nuo sprendimo dėl poveikio priemonės taikymo gavimo dienos raštu pateikti argumentuotus paaiškinimus dėl pagrindo taikyti poveikio priemonę nebuvimo. Priežiūros institucija per 30 dienų nuo šių paaiškinimų gavimo dienos juos įvertina ir priima sprendimą dėl paskirtos poveikio priemonės atšaukimo arba neatšaukimo. 
-
-
-
-
-5. Asmuo, įtariamas teisės akto pažeidimo padarymu, turi teisę susipažinti su priežiūros institucijos turima medžiaga, kuria grindžiamas poveikio priemonės taikymas (išskyrus informaciją, kuri sudaro valstybės, tarnybos, komercinę arba kitą įstatymų saugomą paslaptį), duoti paaiškinimus, pateikti įrodymus, naudotis advokato ar kito įgalioto atstovo paslaugomis. Jeigu svarstant poveikio priemonės taikymo klausimą apklausiami liudytojai, asmuo, įtariamas teisės akto pažeidimo padarymu, turi teisę juos apklausti, taip pat siūlyti savo liudytojus.
-
-
-
-
-6. Priežiūros institucija, priimdama sprendimą dėl poveikio priemonės taikymo, parinkdama konkrečią poveikio priemonę ir jos dydį, atsižvelgia į:
-
-
-1) nustatytų teisės aktų pažeidimų sunkumą ir trukmę;
-
-
-
-
-2) dėl teisės aktų pažeidimų asmens gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydį, jeigu jį įmanoma nustatyti;
-
-
-
-
-3) asmens, įtariamo teisės akto pažeidimo padarymu, kaltę ir finansinį pajėgumą;
-
-
-
-
-4) asmens, įtariamo teisės akto pažeidimo padarymu, padarytus ankstesnius teisės aktų, reguliuojančių finansų rinką, pažeidimus ir jam taikytas poveikio priemones, taip pat bendradarbiavimą su priežiūros institucija atliekant teisės akto pažeidimo tyrimą;
-
-
-
-
-5) atsakomybę lengvinančias aplinkybes, kaip jos apibrėžtos šio straipsnio 7 dalyje, ir šio straipsnio 8 dalyje nurodytas atsakomybę sunkinančias aplinkybes;
-
-
-
-
-6) nustatytų teisės aktų pažeidimų ir numatomos taikyti poveikio priemonės pasekmes finansų rinkos stabilumui ir patikimumui.
-
-
-
-
-
-
-7. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad asmuo, įtariamas teisės akto pažeidimo padarymu, savo noru užkerta kelią neigiamoms teisės akto pažeidimo pasekmėms arba atlygina nuostolius ar ištaiso padarytą žalą. Priežiūros institucija gali nutarti atsakomybę lengvinančiomis aplinkybėmis laikyti ir kitas šioje dalyje nenurodytas aplinkybes.
-
-
-
-
-8. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad asmuo, įtariamas teisės akto pažeidimo padarymu, teisės akto pažeidimą padarė tyčia, nebendradarbiauja su priežiūros institucija atliekant teisės akto pažeidimo tyrimą, kliudo atlikti tyrimą, slepia padarytą teisės akto pažeidimą arba pakartotinai padaro teisės akto pažeidimą. Laikoma, kad teisės akto pažeidimas padarytas pakartotinai, jeigu teisės akto pažeidimą padaręs asmuo per paskutinius 12 mėnesių nuo sprendimo, kuriuo buvo paskirta poveikio priemonė, įsigaliojimo dienos padarė tokį patį teisės akto pažeidimą. Padarius pakartotinį teisės akto pažeidimą, šioje dalyje numatytas terminas skaičiuojamas iš naujo. 
-
-
-
-
-9. Priežiūros institucijos sprendimas dėl poveikio priemonės taikymo turi būti motyvuotas. Priežiūros institucijos sprendime turi būti nurodytas sprendimo priėmimo teisinis pagrindas, teisės akto pažeidimo faktinės aplinkybės, asmens, kuriam taikoma poveikio priemonė, paaiškinimai (jeigu jie pateikti) ir jų vertinimas.
-
-
-
-
-10. Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas poveikio priemones, atsižvelgdama į šio straipsnio 7 dalyje nurodytas aplinkybes ir, kai nėra šio straipsnio 8 dalyje nurodytų atsakomybę sunkinančių aplinkybių, vadovaudamasi teisingumo ir protingumo kriterijais, gali netaikyti šio įstatymo 65 straipsnyje nurodytos poveikio priemonės, jeigu teisės akto pažeidimas yra mažareikšmis, nedarantis esminės žalos šio įstatymo ir (arba) kitų teisės aktų saugomiems interesams arba jeigu turi pagrindą manyti, kad priežiūros tikslas gali būti pasiektas ir kitomis priemonėmis, ne tik taikant poveikio priemones. 
-
-
-
-
-11. Priežiūros institucijos sprendimas dėl poveikio priemonės taikymo įsigalioja kitą dieną po jo priėmimo dienos, jeigu sprendime nenustatyta kitaip.
-
-
-
-
-12. Poveikio priemonės pritaikymas neatleidžia asmens nuo pareigos, už kurios nevykdymą pritaikyta poveikio priemonė, atlikimo. 
-
-
-
-
-13. Priežiūros institucijos sprendimas dėl poveikio priemonės taikymo gali būti priimtas, jeigu praėjo ne daugiau kaip 3 metai nuo teisės akto pažeidimo padarymo dienos, o kai teisės akto pažeidimas tęstinis arba trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos arba trunkamojo pažeidimo pasibaigimo dienos. 
+Straipsnio pakeitimai:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
-
-
 
 
 
@@ -2804,83 +2805,71 @@ Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine 
 67 straipsnis. Baudos
 
 
-1. Priežiūros institucija turi teisę skirti:
+1. Priežiūros institucija skiria baudas:
 
 
-1) už nustatytais terminais šiame įstatyme ir (arba) kituose teisės aktuose nustatytos ar priežiūros institucijos pareikalautos informacijos ar dokumentų nepateikimą arba neteisingos, neišsamios ar netikslios informacijos pateikimą – fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims – iki 15 000 eurų dydžio baudą; 
-
-
-
-
-2) už trukdymą priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus – fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims – iki 25 000 eurų dydžio baudą; 
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų;
 
 
 
 
-3) už šio įstatymo ir (arba) kitų teisės aktų draudžiamų atlikti veiksmų ar veiklos vykdymą arba už kitą teisės akto pažeidimą – juridiniams asmenims iki 2 procentų bendrųjų metinių pajamų dydžio baudą, o fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, – iki 50 000 eurų dydžio baudą.
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų.
 
 
 
 
 
 
-2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių juridinio asmens sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
 
 
 
 
-3. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu 4 milijonai eurų, priežiūros institucija už šio straipsnio 1 dalies 3 punkte nurodytus pažeidimus skiria juridiniams asmenims baudą iki 80 000 eurų. 
+3. Jeigu dėl šio įstatymo 66 straipsnio 1 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
+
+
+
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniams asmenims skiria baudą iki 100 000 eurų.
+
+
+
+
+5. Šio įstatymo 66 straipsnio 1 dalies 3 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. 
+
+
+
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
 
 
 
 
-
-
-68 straipsnis. Priežiūros institucijos sprendimo vykdymas
-
-
-1. Priežiūros institucijos sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 30 dienų nuo tos dienos, kurią šio įstatymo ir (arba) kitų teisės aktų reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Šio įstatymo 66 straipsnio 4 dalyje nurodytu atveju priežiūros institucijos sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 30 dienų nuo tos dienos, kurią šio įstatymo ir (arba) kitų teisės aktų reikalavimus pažeidusiam asmeniui buvo įteiktas priežiūros institucijos sprendimas neatšaukti sprendimo dėl baudos skyrimo. Apskundus priežiūros institucijos sprendimą dėl baudos skyrimo teismui, bauda turi būti sumokėta ne vėliau kaip per 30 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos.
-
-
-
-
-2. Priežiūros institucijos sprendimas dėl poveikio priemonės taikymo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo įsigaliojimo dienos.
+68 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
 
 
 
 
-
-
-69 straipsnis. Priežiūros institucijos sprendimų, veiksmų (neveikimo) apskundimas 
-
-
-1. Šiame skyriuje nurodytus priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, manantys, kad buvo pažeistos jų teisės arba įstatymų saugomi interesai, turi teisę skųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-
-
-
-2. Skundo padavimas teismui iki jo išsprendimo dienos nesustabdo skundžiamo sprendimo, išskyrus sprendimą skirti įstatymuose nustatytas baudas, arba veiksmo vykdymo. 
+69 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
 
 
 
 
-
-
-70 straipsnis. Informavimas apie pritaikytas poveikio priemones
-
-
-1. Sprendimas dėl poveikio priemonės taikymo, atšaukimo ar neatšaukimo per 3 darbo dienas nuo jo priėmimo dienos išsiunčiamas asmeniui, dėl kurio veiksmų buvo svarstomas poveikio priemonės skyrimo klausimas, arba jam įteikiamas pasirašytinai. 
-
-
-
-
-2. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę, skelbiama priežiūros institucijos interneto svetainėje nedelsiant po to, kai apie sprendimą taikyti poveikio priemonę informuojamas asmuo, kuriam ji pritaikyta. Jeigu sprendimas taikyti poveikio priemonę yra apskundžiamas, priežiūros institucijos interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas turėtų neigiamos įtakos finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padarytų neproporcingos žalos fiziniams ar juridiniams asmenims, tokios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį. Priežiūros institucija užtikrina, kad paskelbta informacija būtų prieinama 5 metus nuo jos paskelbimo dienos. 
+70 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
  
-
-
 
 
 
@@ -3200,3 +3189,8 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2699, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26476
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 63, 64, 65, 66, 67 straipsnių pakeitimo, Įstatymo papildymo 62-1 straipsniu ir 68, 69, 70 straipsnių pripažinimo netekusiais galios įstatymas
