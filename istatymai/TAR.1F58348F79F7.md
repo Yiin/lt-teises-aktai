@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -47,10 +47,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Kitų įstatymų taikymas
 
 
-Šio įstatymo nustatytiems pensijų kaupimo ir pensijų išmokų mokėjimo santykiams Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas (toliau – Papildomo savanoriško pensijų kaupimo įstatymas), Lietuvos Respublikos draudimo įstatymas (toliau – Draudimo įstatymas), Lietuvos Respublikos akcinių bendrovių įstatymas (toliau – Akcinių bendrovių įstatymas) ir kiti įstatymai taikomi tiek, kiek šis įstatymas nenustato kitaip.
+Šio įstatymo nustatytiems pensijų kaupimo ir pensijų išmokų mokėjimo santykiams, taip pat pensijų kaupimo bendrovių veiklos reikalavimams Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas, Lietuvos Respublikos draudimo įstatymas, Lietuvos Respublikos akcinių bendrovių įstatymas ir kiti įstatymai taikomi tiek, kiek šis įstatymas nenustato kitaip. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
  
-
-
 
 
 
@@ -63,7 +65,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Finansinės priemonės – Lietuvos Respublikos finansinių priemonių rinkų įstatymo (toliau – Finansinių priemonių rinkų įstatymas) 3 straipsnio 4 dalies 1, 2, 3 ir 4 punktuose nurodytos finansinės priemonės, taip pat indėliai. 
+2. Finansinės priemonės – Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 1, 2, 3 ir 4 punktuose nurodytos finansinės priemonės, taip pat indėliai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
+ 
 
 
 
@@ -934,7 +939,9 @@ PENSIJŲ KAUPIMO BENDROVIŲ VEIKLOS YPATUMAI
 
 
 
-4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis (išskyrus 1 dalies 11 punktą), 9, 12 (išskyrus 1 dalies 2 ir 3 punktus), 13 straipsniai, 21, 22, 29 (išskyrus 1–6 dalis), 32, 33 ir 34 straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 51 straipsnį, 55 straipsnio 1, 5, 6 ir 7 dalis). 
+4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis (išskyrus 1 dalies 11 punktą), 9, 12 (išskyrus 1 dalies 2 ir 3 punktus), 13, 21, 22, 28, 29 (išskyrus 1–6 dalis), 32, 33 ir 34 straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 51 straipsnį, 55 straipsnio 1, 5, 6 ir 7 dalis). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
  
 
 
@@ -1257,40 +1264,15 @@ VALSTYBINĖ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 
 
 
-30 straipsnis. Priežiūros institucijos teisės
+30 straipsnis. Priežiūros institucijos teisės ir pareigos
 
 
-1. Priežiūros institucija, be kituose įstatymuose nustatytų teisių, turi teisę:
-
-
-1) priimti šiame įstatyme nustatytus teisės aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą;
+1. Priežiūros institucija, vykdydama pensijų kaupimo bendrovių ir depozitoriumų veiklos priežiūrą, turi Lietuvos Respublikos Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose nustatytas teises ir pareigas.
 
 
 
 
-2) taikyti poveikio priemones pensijų kaupimo bendrovėms ir kitiems asmenims, pažeidusiems šį įstatymą ir (ar) kitus teisės aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą, arba pažeidusiems dalyvių interesus, ar iškilus tokio pažeidimo grėsmei;
-
-
-
-
-3) taikyti administracines nuobaudas asmenims, pažeidusiems šį įstatymą ir (ar) kitus teisės aktus, reglamentuojančius pensijų kaupimo bendrovių veiklą;
-
-
-
-
-4) gauti duomenis (tarp jų ir asmens duomenis), dokumentus arba jų nuorašus, reikalingus pensijų kaupimo bendrovių veiklos priežiūrai, iš valstybės, savivaldybių institucijų, įstaigų, kitų asmenų;
-
-
-
-
-5) priežiūros institucija draudimo įmonių depozitoriumų atžvilgiu vykdo funkcijas ir turi teises, numatytas Papildomo savanoriško pensijų kaupimo įstatymo 57 straipsnio 1 dalies 2, 3, 7 ir 8 punktuose, 58 straipsnio 1, 3 ir 4 dalyse ir 59 straipsnio 1 dalies 3 punkte. Priežiūros institucijos atliekamiems depozitoriumų patikrinimams mutatis mutandis taikomas Draudimo įstatymo 205 straipsnis. 
-
-
-
-
-
-
-2. Priežiūros institucija, be kituose įstatymuose nustatytų poveikio priemonių, turi teisę:
+2. Priežiūros institucija, be kituose įstatymuose nustatytų poveikio priemonių ir privalomų nurodymų, turi teisę duoti šiuos privalomus nurodymus:
 
 
 1) įpareigoti pensijų kaupimo bendrovę perduoti teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių;
@@ -1310,36 +1292,30 @@ VALSTYBINĖ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 
 
 
-3. Priežiūros institucija turi teisę taikyti valdymo įmonėms Papildomo savanoriško pensijų kaupimo įstatyme numatytas poveikio priemones. Draudimo įmonėms, vykdančioms pensijų kaupimo veiklą, priežiūros institucija turi teisę taikyti Draudimo įstatyme nustatytas poveikio priemones. Taikydama poveikio priemones, priežiūros institucija vadovaujasi Papildomo savanoriško pensijų kaupimo įstatymu ir Draudimo įstatymu tiek, kiek šis įstatymas nenustato kitaip. 
+3. Priežiūros institucija turi teisę taikyti valdymo įmonėms Papildomo savanoriško pensijų kaupimo įstatyme nustatytas poveikio priemones ir privalomus nurodymus. Draudimo įmonėms, vykdančioms pensijų kaupimo veiklą, priežiūros institucija turi teisę taikyti Draudimo įstatyme nustatytas poveikio priemones ir privalomus nurodymus. Poveikio priemonių ir privalomų nurodymų taikymo tvarką nustato Lietuvos banko įstatymas. Taikydama poveikio priemones ir privalomus nurodymus, priežiūros institucija taip pat vadovaujasi Papildomo savanoriško pensijų kaupimo įstatymu ir Draudimo įstatymu tiek, kiek šis įstatymas nenustato kitaip. 
 
 
 
 
-4. Priežiūros institucija teikia Socialinės apsaugos ir darbo ministerijai informaciją apie pensijų kaupimo bendrovių veiklos rezultatus, šiame straipsnyje nurodytų poveikio priemonių, susijusių su teisės užsiimti pensijų kaupimo veikla apribojimu, taikymą pensijų kaupimo bendrovėms ir kitą informaciją, nustatytą Socialinės apsaugos ir darbo ministerijos bei priežiūros institucijos susitarime dėl pasikeitimo informacija. VSDF valdybai priežiūros institucija teikia informaciją apie pensijų kaupimo bendrovių rekvizitus, pensijų kaupimo bendrovėms išduotas pensijų kaupimo veiklos licencijas, poveikio priemonių, susijusių su teisės užsiimti pensijų kaupimo veikla apribojimu, taikymą, pensijų kaupimo bendrovės reorganizavimą, pertvarkymą, likvidavimą, bankrotą, teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai pensijų kaupimo bendrovei ir kitą su pensijų kaupimo veikla susijusią informaciją, būtiną tvarkant Sutarčių registrą. Duomenų teikimo tvarka ir terminai nustatomi priežiūros institucijos ir VSDF valdybos susitarime dėl pasikeitimo informacija.
+4. Priežiūros institucija teikia Socialinės apsaugos ir darbo ministerijai informaciją apie pensijų kaupimo bendrovių veiklos rezultatus, šiame straipsnyje nurodytų privalomų nurodymų, susijusių su teisės užsiimti pensijų kaupimo veikla apribojimu, taikymą pensijų kaupimo bendrovėms ir kitą informaciją, nustatytą Socialinės apsaugos ir darbo ministerijos bei priežiūros institucijos susitarime dėl pasikeitimo informacija. VSDF valdybai priežiūros institucija teikia informaciją apie pensijų kaupimo bendrovių rekvizitus, pensijų kaupimo bendrovėms išduotas pensijų kaupimo veiklos licencijas, poveikio priemonių, susijusių su teisės užsiimti pensijų kaupimo veikla apribojimu, taikymą, pensijų kaupimo bendrovės reorganizavimą, pertvarkymą, likvidavimą, bankrotą, teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai pensijų kaupimo bendrovei ir kitą su pensijų kaupimo veikla susijusią informaciją, būtiną tvarkant Sutarčių registrą. Duomenų teikimo tvarka ir terminai nustatomi priežiūros institucijos ir VSDF valdybos susitarime dėl pasikeitimo informacija.
 
 
 
 
-5. VSDF valdyba teikia priežiūros institucijai informaciją apie konkrečios pensijų kaupimo bendrovės valdomų pensijų fondų dalyvius, į pensijų fondo sąskaitą pervestas pinigines lėšas ir kitus duomenis, reikalingus priežiūros institucijai. Duomenų teikimo tvarka ir terminai nustatomi šio straipsnio 4 dalyje nurodytame susitarime.
+5. VSDF valdyba teikia priežiūros institucijai informaciją apie konkrečios pensijų kaupimo bendrovės valdomų pensijų fondų dalyvius, į pensijų fondo sąskaitą pervestas lėšas ir kitus duomenis, reikalingus priežiūros institucijai. Duomenų teikimo tvarka ir terminai nustatomi šio straipsnio 4 dalyje nurodytame susitarime. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
  
 
 
 
 
-
-
-31 straipsnis. Pensijų kaupimo bendrovių atsakomybė
-
-
-1. Už šio bei kitų įstatymų ir teisės aktų, reglamentuojančių pensijų kaupimą, pažeidimus pensijų kaupimo bendrovės atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
-
-2. Asmenys turi teisę apskųsti priežiūros institucijai pensijų kaupimo bendrovių veiksmus.
+31 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
  
-
-
 
 
 
@@ -1476,3 +1452,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 16 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 10, 17, 23, 25 ir 27 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 2, 3, 21 ir 30 straipsnių pakeitimo ir 31 straipsnio pripažinimo netekusiu galios įstatymas
