@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2016-07-14 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-07-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
  
@@ -1422,7 +1422,10 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ PRIEŽIŪRA
 
 
 
-2. Priežiūra atliekama vadovaujantis šiuo įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu, Finansų įstaigų įstatymu ir priežiūros institucijos priimtais teisės aktais.
+2. Priežiūra atliekama vadovaujantis Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Finansų įstaigų įstatymu ir kitais teisės aktais, reglamentuojančiais finansų rinką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
+ 
 
 
 
@@ -1435,33 +1438,10 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ PRIEŽIŪRA
 
 
 
-28 straipsnis. Prašymų išduoti leidimą nagrinėjimas ir priežiūros institucijos sprendimai
-
-
-1. Detalias prašymų išduoti šiame įstatyme nustatytas licencijas ar atlikti kitus veiksmus, nustatytus šio įstatymo 11, 12, 14, 15, 16, 18, 41 ir kituose šio įstatymo straipsniuose (toliau šiame straipsnyje – prašymas išduoti leidimą), pateikimo, nagrinėjimo ir licencijų išdavimo sąlygas, tvarką ir pateikiamų dokumentų reikalavimus nustato priežiūros institucijos priimti teisės aktai.
-
-
-
-
-2. Prašymas išduoti leidimą išnagrinėjamas ir sprendimas dėl jo priimamas per šiame įstatyme arba, jei šiame įstatyme terminai nenustatyti, per priežiūros institucijos priimtuose teisės aktuose nustatytus terminus. Jeigu pateikti dokumentai turi formos ar turinio trūkumų arba pateikti ne visi dokumentai, reikalingi sprendimui priimti, priežiūros institucija pareikalauja pašalinti trūkumus ir (ar) pateikti trūkstamus dokumentus. Be to, priežiūros institucija turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingos sprendimui priimti. Jeigu priežiūros institucija pareikalauja papildomų dokumentų ir informacijos arba papildomus dokumentus ar informaciją pateikia pats pareiškėjas, prašymo nagrinėjimo ir sprendimo priėmimo terminas skaičiuojamas nuo papildomai pareikalautų ar papildomai pareiškėjo pateiktų dokumentų ir informacijos gavimo dienos.
-
-
-
-
-3. Priežiūros institucija turi teisę atsisakyti išduoti leidimą, jei yra pakankamas pagrindas manyti, kad išdavus leidimą bus pažeidžiami elektroninių pinigų turėtojų turtiniai interesai arba kils pavojus elektroninių pinigų įstaigos, užsienio valstybės elektroninių pinigų įstaigos filialo ar visos elektroninių pinigų įstaigų sistemos stabilumui ir patikimumui, taip pat jei yra kitų įstatymuose nustatytų pagrindų.
-
-
-
-
-4. Apie priimtą sprendimą dėl leidimo išdavimo priežiūros institucija ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos praneša prašymą pateikusiam asmeniui. Priežiūros institucijos atsisakymas išduoti leidimą turi būti motyvuotas.
-
-
-
-
-5. Priežiūros institucijos prašymu valstybės ir savivaldybės institucijos, taip pat asmenys privalo priežiūros institucijai pateikti turimą informaciją apie elektroninių pinigų įstaigos, užsienio valstybės elektroninių pinigų įstaigos steigėjus, akcininkus, vadovus, jų finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas ir kitą informaciją, kuri priežiūros institucijai reikalinga priimant sprendimą dėl leidimo elektroninių pinigų įstaigai ar užsienio valstybės elektroninių pinigų įstaigos filialui išdavimo.
+28 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
-
-
 
 
 
@@ -1469,10 +1449,12 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ PRIEŽIŪRA
 29 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 
-Elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų įstaigų filialų priežiūros tikslu gautos informacijos apsaugai mutatis mutandis taikomos Bankų įstatymo 65 straipsnio nuostatos.
+Elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų įstaigų filialų priežiūros tikslu gautos informacijos apsaugai taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
-
-
 
 
 
@@ -1480,55 +1462,35 @@ Elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų į
 30 straipsnis. Priežiūros institucijos pareigos ir teisės
 
 
-1. Be kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
+1. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
 
 
-1) leisti teisės aktus ir rekomendacijas dėl prižiūrimų elektroninių pinigų įstaigų veiklos ir priežiūros;
-
-
-
-
-2) priežiūros tikslais pareikalauti iš prižiūrimos elektroninių pinigų įstaigos visos informacijos ir dokumentų, susijusių su elektroninių pinigų įstaigos steigimu, akcininkais, vadovais, valdymu, veikla, rizikos ribojimu, finansine būkle, elektroninių pinigų įstaigos filialais, tarpininkais, fiziniais ir juridiniais asmenimis, kurie platina ir išperka elektroninius pinigus, ir kitais asmenimis, kuriems perduodamas veiklos funkcijų vykdymas, skolininkais, ir juos gauti;
+1) jeigu elektroninių pinigų įstaigos organų priimti sprendimai kelia pavojų elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad jie būtų pripažinti negaliojančiais;
 
 
 
 
-3) atlikti elektroninių pinigų įstaigos, jos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos funkcijų vykdymas, įskaitant filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje, inspektavimą (tikrinimą);
+2) jeigu elektroninių pinigų įstaigos vykdoma kita negu elektroninių pinigų leidimo veikla turi ar gali turėti neigiamą įtaką elektroninių pinigų įstaigos finansiniam patikimumui ar galimybei stebėti, kaip elektroninių pinigų įstaiga vykdo visus šiame įstatyme nustatytus reikalavimus, reikalauti, kad būtų įsteigtas atskiras juridinis asmuo elektroninių pinigų leidimo veiklai vykdyti; 
 
 
 
 
-4) duoti elektroninių pinigų įstaigai šio straipsnio 2 dalyje nustatytus nurodymus, kuriuos elektroninių pinigų įstaiga privalo įvykdyti priežiūros institucijos nustatytais terminais ir nedelsdama raštu apie tai pranešti priežiūros institucijai;
+3) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl elektroninių pinigų įstaigos patikrinimo atlikimo, kad būtų nustatyta elektroninių pinigų įstaigos turto vertė, elektroninių pinigų įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti elektroninių pinigų įstaigos veiklos klausimai. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktuose priežiūros institucijos tarnautojams nustatytas teises;
 
 
 
 
-5) jeigu elektroninių pinigų įstaigos organų priimti sprendimai kelia pavojų elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad jie būtų pripažinti negaliojančiais;
-
-
-
-
-6) jeigu elektroninių pinigų įstaigos vykdoma kita negu elektroninių pinigų leidimo veikla turi ar gali turėti neigiamą įtaką elektroninių pinigų įstaigos finansiniam patikimumui ar galimybei stebėti, kaip elektroninių pinigų įstaiga vykdo visus šiame įstatyme nustatytus reikalavimus, reikalauti, kad būtų įsteigtas atskiras juridinis asmuo elektroninių pinigų leidimo veiklai vykdyti;
-
-
-
-
-7) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl elektroninių pinigų įstaigos patikrinimo atlikimo, kad būtų nustatyta elektroninių pinigų įstaigos turto vertė, elektroninių pinigų įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti elektroninių pinigų įstaigos veiklos klausimai. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi teises, nustatytas šio įstatymo 32 straipsnio 2 ir 3 dalyse;
-
-
-
-
-8) reikalauti, kad būtų pakeista audito įmonė, atliekanti elektroninių pinigų įstaigos finansinių ataskaitų auditą, jei audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų.
+4) reikalauti, kad būtų pakeista audito įmonė, atliekanti elektroninių pinigų įstaigos finansinių ataskaitų auditą, jeigu audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų.
 
 
 
 
 
 
-2. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar elektroninių pinigų įstaigos veiklos trūkumų arba nustačiusi, kad elektroninių pinigų įstaigos veikla kelia grėsmę elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, turi teisę duoti elektroninių pinigų įstaigai tokius rašytinius nurodymus:
+2. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, elektroninių pinigų įstaigos veiklos trūkumus, taip pat jeigu kyla grėsmė elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui arba visuomenės ir (arba) elektroninių pinigų turėtojų interesams, Lietuvos banko įstatymo nustatyta tvarka duoda elektroninių pinigų įstaigai tokius privalomus nurodymus: 
 
 
-1) priežiūros institucijos nustatytais terminais pašalinti teisės aktų pažeidimus ar elektroninių pinigų įstaigos veiklos trūkumus;
+1) priežiūros institucijos nustatytais terminais pašalinti teisės aktų pažeidimus ar elektroninių pinigų įstaigos veiklos trūkumus; 
 
 
 
@@ -1548,7 +1510,7 @@ Elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų į
 
 
 
-5) sušaukti elektroninių pinigų įstaigos visuotinį akcininkų susirinkimą, stebėtojų tarybos ar valdybos, jei jos sudarytos, posėdį ir juose svarstyti priežiūros institucijos pasiūlytus klausimus;
+5) sušaukti elektroninių pinigų įstaigos visuotinį akcininkų susirinkimą, stebėtojų tarybos ar valdybos, jeigu jos sudarytos, posėdį ir juose svarstyti priežiūros institucijos pasiūlytus klausimus;
 
 
 
@@ -1558,134 +1520,100 @@ Elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų į
 
 
 
-7) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, siekdama, kad būtų pašalinti teisės aktų pažeidimai ar elektroninių pinigų įstaigos veiklos trūkumai arba kad elektroninių pinigų įstaigos veikla būtų stabili ir patikima.
+7) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+8) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atliki;
+
+
+
+
+9) viešai atskleisti papildomą informaciją;
+
+
+
+
+10) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar elektroninių pinigų įstaigos veiklos trūkumai arba kad elektroninių pinigų įstaigos veikla būtų stabili ir patikima.
 
 
 
 
 
 
-3. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar elektroninių pinigų įstaigos veiklos trūkumų arba kad elektroninių pinigų įstaigos veikla kelia grėsmę elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, turi teisę laikinai elektroninių pinigų įstaigai nustatyti individualius ar papildomus rizikos ribojimo reikalavimus. Toks priežiūros institucijos sprendimas turi būti motyvuotas ir priimamas atsižvelgiant į šio įstatymo 36 straipsnio 2 dalies nuostatas.
+3. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar elektroninių pinigų įstaigos veiklos trūkumų arba kad elektroninių pinigų įstaigos veikla kelia grėsmę elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, turi teisę laikinai elektroninių pinigų įstaigai nustatyti individualius ar papildomus rizikos ribojimo reikalavimus. 
 
 
 
 
-4. Šio straipsnio 2 ir 3 dalyse nustatyti nurodymai gali būti duodami kartu su taikomomis poveikio priemonėmis.
+4. Elektroninių pinigų įstaigos privalo įvykdyti šio straipsnio 2 ir 3 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
 
 
 
-5. Teisės aktų nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti elektroninių pinigų įstaigos organų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti elektroninių pinigų įstaigos veiklą.
+5. Teisės aktų nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti elektroninių pinigų įstaigos organų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti elektroninių pinigų įstaigos veiklą.
 
 
 
 
-6. Šiame straipsnyje nustatytas teises priežiūros institucija turi ir dėl šio įstatymo nustatyta tvarka išduotą licenciją turinčio užsienio valstybės elektroninių pinigų įstaigos filialo.
+6. Šiame straipsnyje nustatytas teises priežiūros institucija turi ir dėl šio įstatymo nustatyta tvarka išduotą licenciją turinčio užsienio valstybės elektroninių pinigų įstaigos filialo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
 
 
 
 
-
-
-31 straipsnis. Priežiūros institucijos sprendimų, veiksmų (neveikimo) apskundimas
-
-
-1. Priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, kurių teisės ar įstatymų saugomi interesai pažeisti, turi teisę įstatymų nustatyta tvarka skųsti teismui.
-
-
-
-
-2. Skundo padavimas teismui iki jo išsprendimo nesustabdo skundžiamo sprendimo, išskyrus sprendimą skirti šiame įstatyme nustatytas baudas, ar veiksmo vykdymo.
+31 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
 
 
 
 
+32 straipsnis. Priežiūros institucijos rengiami patikrinimai
 
 
-32 straipsnis. Elektroninių pinigų įstaigų inspektavimas (tikrinimas)
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai.
 
 
-1. Elektroninių pinigų įstaigų, jų filialų, tarpininkų ir kitų asmenų, kuriems perduodamas veiklos funkcijų vykdymas, įskaitant filialus, tarpininkus ir kitus asmenis, kuriems perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje, inspektavimą (tikrinimą) atlieka priežiūros institucijos darbuotojai. Priežiūros institucija, inspektuodama (tikrindama) elektroninių pinigų įstaigą, jos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, įskaitant filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje, gali pasitelkti ir kitų asmenų.
 
 
+2. Elektroninių pinigų įstaigų, jų filialų, tarpininkų ir kitų asmenų, kuriems perduodamas veiklos funkcijų vykdymas, įskaitant filialus, tarpininkus ir kitus asmenis, kuriems perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje, patikrinimą atlieka priežiūros institucijos tarnautojai. 
 
 
-2. Elektroninių pinigų įstaiga, jos filialas, tarpininkas ir kitas asmuo, kuriam perduodamas veiklos funkcijų vykdymas, įskaitant filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje, privalo sudaryti šias sąlygas atlikti inspektavimą (tikrinimą):
 
 
-1) pateikti inspektavimą (tikrinimą) atliekantiems asmenims visą jų prašomą informaciją ir dokumentus;
+3. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
 
 
 
 
-2) suteikti galimybę inspektavimą (tikrinimą) atliekantiems asmenims naudotis elektroninių pinigų įstaigos informacinių sistemų duomenimis;
+4. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai informavusi kitos valstybės narės priežiūros instituciją, vadovaudamasi šio straipsnio nuostatomis, turi teisę patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi informuoti priežiūros instituciją apie ketinimą atlikti kitos valstybės narės elektroninių pinigų įstaigos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos funkcijų vykdymas, patikrinimą Lietuvos Respublikoje.
 
 
 
 
-3) suteikti inspektavimą (tikrinimą) atliekantiems asmenims darbo vietą.
+5. Atlikdama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir 2006 m. lapkričio 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1781/2006 dėl mokėtojo informacijos, pateikiamos pervedant lėšas, nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
 
 
 
 
+6. Priežiūros institucija gali pavesti kitos valstybės narės priežiūros institucijai patikrinti elektroninių pinigų įstaigos filialą, tarpininką ar kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje.
 
 
-3. Inspektavimą (tikrinimą) atliekantys asmenys turi teisę:
 
 
-1) inspektuojamos (tikrinamos) elektroninių pinigų įstaigos, jos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos funkcijų vykdymas, įskaitant filialus ir kitus asmenis, kuriems perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje, darbo metu nekliudomai įeiti į elektroninių pinigų įstaigos, jos padalinių, filialų, tarpininkų ir kitų asmenų, kuriems perduodamas veiklos funkcijų vykdymas, patalpas;
+7. Šiame straipsnyje ir savo teisės aktuose nustatyta tvarka priežiūros institucija turi teisę patikrinti ir užsienio valstybių elektroninių pinigų įstaigų filialus, jų tarpininkus Lietuvos Respublikoje. 
 
 
-
-
-2) reikalauti ir gauti inspektavimui (tikrinimui) atlikti reikalingą informaciją ir dokumentus (originalus arba patvirtintus jų nuorašus), elektroninių pinigų įstaigos vadovų ir kitų darbuotojų paaiškinimus žodžiu ar raštu;
-
-
-
-
-3) reikalauti padaryti pateiktų dokumentų kopijas ar elektroninių pinigų įstaigos lėšomis patys juos kopijuoti;
-
-
-
-
-4) turėti kitų teisės aktuose nustatytų teisių.
-
-
-
-
-
-
-4. Atlikus inspektavimą (tikrinimą), jo rezultatai raštu pateikiami elektroninių pinigų įstaigai. Elektroninių pinigų įstaigos bendrovės vadovas ir valdybos nariai privalo pasirašytinai susipažinti su inspektavimo (tikrinimo) rezultatais.
-
-
-
-
-5. Priežiūros institucijos teisės aktai nustato detalią inspektavimo (tikrinimo) atlikimo ir inspektavimo (tikrinimo) rezultatų įforminimo tvarką.
-
-
-
-
-6. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai informavusi kitos valstybės narės priežiūros instituciją, vadovaudamasi šio straipsnio nuostatomis, turi teisę inspektuoti (tikrinti) kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi informuoti priežiūros instituciją apie ketinimą atlikti kitos valstybės narės elektroninių pinigų įstaigos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos funkcijų vykdymas, inspektavimą (tikrinimą), Lietuvos Respublikoje.
-
-
-
-
-7. Vykdydama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir 2006 m. lapkričio 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1781/2006 dėl mokėtojo informacijos, pateikiamos pervedant lėšas, nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva inspektuoti (tikrinti) kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
-
-
-
-
-8. Priežiūros institucija gali pavesti kitos valstybės narės priežiūros institucijai inspektuoti (tikrinti) elektroninių pinigų įstaigos filialą, tarpininką ar kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, kitoje valstybėje narėje.
-
-
-
-
-9. Šiame straipsnyje nustatyta tvarka priežiūros institucija turi teisę inspektuoti (tikrinti) ir užsienio valstybių elektroninių pinigų įstaigų filialus, jų tarpininkus Lietuvos Respublikoje.
+Straipsnio pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
-
-
 
 
 
@@ -1747,100 +1675,87 @@ POVEIKIO PRIEMONĖS
 35 straipsnis. Poveikio priemonės
 
 
-1. Priežiūros institucija turi teisę licenciją turinčioms elektroninių pinigų įstaigoms ar užsienio valstybių elektroninių pinigų įstaigų filialams taikyti šias poveikio priemones:
+1. Priežiūros institucija asmenims taiko šias poveikio priemones:
 
 
-1) įspėti dėl šio įstatymo ir kitų šio įstatymo įgyvendinamųjų teisės aktų pažeidimo arba priežiūros institucijos nurodymų nevykdymo;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-2) skirti šio įstatymo nustatytas baudas;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
 
 
-3) laikinai uždrausti leisti elektroninius pinigus ir teikti vieną ar kelias mokėjimo paslaugas;
+3) skiria šio įstatymo nustatytas baudas;
 
 
 
 
-4) laikinai ar visam laikui uždrausti elektroninių pinigų įstaigos filialų ar tarpininkų veiklą. Jeigu priežiūros institucija priima sprendimą laikinai uždrausti filialo ar tarpininko veiklą, filialas neturi teisės leisti elektroninių pinigų ir teikti mokėjimo paslaugų, tarpininkas – teikti mokėjimo paslaugų, o priėmus sprendimą visam laikui uždrausti filialo ar tarpininko veiklą, filialas ar tarpininkas yra išbraukiamas iš viešojo elektroninių pinigų įstaigų sąrašo, o elektroninių pinigų įstaiga privalo nedelsdama priimti sprendimą nutraukti tokio filialo ar tarpininko veiklą;
+4) laikinai uždraudžia leisti elektroninius pinigus ir (arba) teikti vieną ar kelias mokėjimo paslaugas;
 
 
 
 
-5) laikinai nušalinti elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovą (vadovus) nuo pareigų arba nušalinti elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovą (vadovus) nuo pareigų ir reikalauti, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (ar) su juo (jais) būtų nutraukta sutartis (sutartys) ar būtų panaikinti jo (jų) įgaliojimai;
+5) laikinai ar visam laikui uždraudžia elektroninių pinigų įstaigos filialų ar tarpininkų veiklą. Jeigu priežiūros institucija priima sprendimą laikinai uždrausti filialo ar tarpininko veiklą, filialas neturi teisės leisti elektroninių pinigų ir teikti mokėjimo paslaugų, tarpininkas – teikti mokėjimo paslaugų, o priėmus sprendimą visam laikui uždrausti filialo ar tarpininko veiklą, filialas ar tarpininkas yra išbraukiamas iš viešojo elektroninių pinigų įstaigų sąrašo, o elektroninių pinigų įstaiga privalo nedelsdama priimti sprendimą nutraukti tokio filialo ar tarpininko veiklą;
 
 
 
 
-6) paskirti laikinąjį atstovą elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos priežiūrai (toliau – atstovas veiklos priežiūrai);
+6) laikinai nušalina elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovą (vadovus) nuo pareigų arba nušalina elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovą (vadovus) nuo pareigų ir reikalauja, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (ar) su juo (jais) būtų nutraukta sutartis (sutartys) ar būtų panaikinti jo (jų) įgaliojimai;
 
 
 
 
-7) laikinai apriboti teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
+7) laikinai, kol yra pagrindas, sustabdo (apriboja) elektroninių pinigų įstaigos akcininko balsavimo teisę;
 
 
 
 
-8) atšaukti išduotą licenciją ar laikinai sustabdyti jos galiojimą.
+8) paskiria laikinąjį atstovą elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos priežiūrai (toliau – atstovas veiklos priežiūrai);
 
 
 
 
+9) laikinai apriboja teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
 
 
-2. Kitos valstybės narės elektroninių pinigų įstaigai, kuri leidžia elektroninius pinigus neįsteigusi filialo, kitos valstybės narės elektroninių pinigų įstaigos įsteigtam filialui ar tarpininkui priežiūros institucija turi teisę taikyti šias poveikio priemones:
 
 
-1) įspėti dėl šio įstatymo ir kitų teisės aktų, reglamentuojančių saugią ir patikimą elektroninių pinigų įstaigų veiklą, pažeidimo;
+10) atšaukia išduotą licenciją ar laikinai sustabdo jos galiojimą.
 
 
 
 
-2) kitos valstybės narės elektroninių pinigų įstaigos įsteigtam filialui ar tarpininkui apriboti teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
 
 
+2. Kitos valstybės narės elektroninių pinigų įstaigai, kuri leidžia elektroninius pinigus neįsteigusi filialo, kitos valstybės narės elektroninių pinigų įstaigos įsteigtam filialui ar tarpininkui priežiūros institucija taiko šias poveikio priemones:
 
 
-3) laikinai ar visam laikui uždrausti leisti elektroninius pinigus ir teikti vieną ar kelias mokėjimo paslaugas Lietuvos Respublikoje.
+1) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo;
 
 
 
 
+2) kitos valstybės narės elektroninių pinigų įstaigos įsteigtam filialui ar tarpininkui apriboja teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
 
 
-3. Priežiūros institucija turi priimti sprendimą taikyti šio straipsnio 2 dalies 2 ir 3 punktuose nurodytas poveikio priemones kitos valstybės narės elektroninių pinigų įstaigai, kuri leidžia elektroninius pinigus Lietuvos Respublikoje neįsteigusi filialo, kitos valstybės narės elektroninių pinigų įstaigos Lietuvos Respublikoje įsteigtam filialui ar tarpininkui, jei to prašo tos valstybės narės priežiūros institucija.
 
 
+3) laikinai ar visam laikui uždraudžia leisti elektroninius pinigus ir (arba) teikti vieną ar kelias mokėjimo paslaugas Lietuvos Respublikoje.
 
 
-4. Priežiūros institucija turi teisę taikyti vieną ar kelias poveikio priemones.
 
 
 
 
-5. Priežiūros institucija, priimdama sprendimą dėl poveikio priemonės taikymo ir parinkdama konkrečią poveikio priemonę (priemones), atsižvelgia į nustatytų pažeidimų ir veiklos trūkumų turinį, mastą, kartotinumą, jų poveikį elektroninių pinigų turėtojų interesams, į asmens, kuriam taikoma poveikio priemonė, finansinę būklę, elektroninių pinigų įstaigos akcininkų ir vadovų pasirengimą ir galimybes pašalinti pažeidimus ir trūkumus, taip pat nustatytų pažeidimų, veiklos trūkumų ir numatomos taikyti poveikio priemonės (priemonių) pasekmes asmens, kuriam taikoma poveikio priemonė, ir elektroninių pinigų įstaigų sistemos stabilumui ir patikimumui.
+3. Priežiūros institucija turi priimti sprendimą taikyti šio straipsnio 2 dalies 2 ir 3 punktuose nurodytas poveikio priemones kitos valstybės narės elektroninių pinigų įstaigai, kuri leidžia elektroninius pinigus Lietuvos Respublikoje neįsteigusi filialo ar per Lietuvos Respublikoje įsteigtą filialą, jeigu to prašo tos valstybės narės priežiūros institucija. 
 
 
-
-
-6. Priežiūros institucijos sprendimas taikyti poveikio priemonę įsigalioja kitą dieną po jo priėmimo dienos, jeigu šiame įstatyme ar sprendime nenustatyta kitaip.
-
-
-
-
-7. Priežiūros institucijos sprendimas dėl poveikio priemonės (priemonių) taikymo turi būti motyvuotas.
-
-
-
-
-8. Poveikio priemonė, kuri taikoma laikinai, galioja iki priežiūros institucijos sprendime dėl poveikio priemonės taikymo nurodyto termino, kuris gali būti nurodytas kaip konkreti data, laiko tarpas ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros institucija priima sprendimą ją atšaukti prieš nustatytą terminą.
+Straipsnio pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
-
-
 
 
 
@@ -1848,45 +1763,57 @@ POVEIKIO PRIEMONĖS
 36 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 
-1. Priežiūros institucija turi teisę taikyti šiame įstatyme nustatytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
+1. Priežiūros institucija taiko šiame įstatyme nustatytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
 
 
-1) nustatytais terminais nepateikiama šio įstatymo ar priežiūros institucijos priimtuose teisės aktuose nustatyta ar pareikalauta informacija arba pateikiama neteisinga informacija;
-
-
-
-
-2) nustatyta tvarka nevykdomi pagal šį įstatymą duoti priežiūros institucijos nurodymai;
+1) vykdoma elektroninių pinigų leidimo veikla, jeigu neturima tam šio įstatymo nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
 
 
 
-3) nebetenkinami elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo licencijai gauti nustatyti reikalavimai;
+2) elektroninių pinigų įstaiga licenciją, kitą šiame įstatyme nustatytą leidimą gavo pateikusi klaidingą informaciją arba pasinaudodama kitomis neteisėtomis priemonėmis;
 
 
 
 
-4) pažeidžiami įstatymų, reglamentuojančių saugią ir patikimą elektroninių pinigų įstaigų veiklą, ir priežiūros institucijos priimtų teisės aktų reikalavimai arba yra grėsmė, kad dėl elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) elektroninių pinigų turėtojų interesai arba sutriktų Lietuvos Respublikos elektroninių pinigų įstaigų sistemos funkcionavimas.
+3) nustatytais terminais nepateikiama šio įstatymo arba kituose teisės aktuose nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija;
+
+
+
+
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 30 straipsnį duoti privalomi nurodymai;
+
+
+
+
+5) nebetenkinami elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo licencijai gauti nustatyti reikalavimai;
+
+
+
+
+6) elektroninių pinigų įstaigos vadovais paskiriami arba elektroninių pinigų įstaigos vadovų pareigas eina vienas ar keli asmenys, neatitinkantys šiame įstatyme ir kituose teisės aktuose nustatytų reputacijos, kvalifikacijos ir patirties reikalavimų;
+
+
+
+
+7) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus; 
+
+
+
+
+8) padaromi kiti šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) elektroninių pinigų turėtojų interesai arba sutriktų Lietuvos Respublikos elektroninių pinigų įstaigų sistemos funkcionavimas.
 
 
 
 
 
 
-2. Priežiūros institucija, prieš spręsdama klausimą, ar taikyti poveikio priemonę, ne vėliau kaip prieš 10 dienų iki šio klausimo nagrinėjimo dienos praneša asmeniui, kuriam taikoma poveikio priemonė, apie klausimo nagrinėjimo vietą ir laiką ir pateikia jam informaciją apie nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus, ar sudaro galimybę asmens, kuriam taikoma poveikio priemonė, vadovui (vadovams) susipažinti su tokiais faktiniais duomenimis. Pranešimą gavęs asmuo turi teisę iki klausimo nagrinėjimo dienos raštu pateikti paaiškinimus. Poveikio priemonės taikymo klausimas svarstomas dalyvaujant asmens, kuriam taikoma poveikio priemonė, vadovams (valdybos pirmininkui, bendrovės vadovui ar filialo vadovui). Vadovų neatvykimas ar paaiškinimų nepateikimas netrukdo spręsti poveikio priemonės taikymo klausimo. Neatidėliotinais atvejais priežiūros institucija turi teisę spręsti klausimą dėl poveikio priemonės taikymo neatsižvelgdama į šios dalies nuostatas.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
 
 
-
-
-3. Sprendimas dėl poveikio priemonės skyrimo privalo būti priimtas nedelsiant, bet ne vėliau kaip per 3 mėnesius nuo pažeidimo ar pagrindo taikyti poveikio priemonę nustatymo dienos. Poveikio priemonės gali būti skiriamos, jei praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o esant tęstiniam pažeidimui, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos.
-
-
-
-
-4. Sprendimas dėl poveikio priemonės taikymo per 5 dienas išsiunčiamas (įteikiamas) asmeniui, kuriam pritaikyta poveikio priemonė. Informacija apie pritaikytą poveikio priemonę skelbiama priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka, tačiau priežiūros institucija gali priimti sprendimą viešai neskelbti tokios informacijos, jeigu jos paskelbimas viešai gali turėti neigiamą įtaką elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo, ar Lietuvos Respublikos elektroninių pinigų įstaigų sistemos stabilumui ir patikimumui.
+Straipsnio pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
-
-
 
 
 
@@ -1894,48 +1821,47 @@ POVEIKIO PRIEMONĖS
 37 straipsnis. Baudos
 
 
-1. Priežiūros institucija turi teisę elektroninių pinigų įstaigai ar užsienio valstybės elektroninių pinigų įstaigos filialui skirti šias baudas:
+1. Priežiūros institucija skiria baudas:
 
 
-1) už nustatytais terminais šio įstatymo ar priežiūros institucijos priimtuose teisės aktuose nustatytos arba pareikalautos informacijos ar dokumentų nepateikimą ar neteisingos informacijos pateikimą nustatytu terminu – iki 0,5 procento neapmokėtų elektroninių pinigų vidurkio;
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų;
 
 
 
 
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento neapmokėtų elektroninių pinigų vidurkio arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 289 eurų;
-Straipsnio punkto pakeitimai:
-Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų. 
+
+
+
+
+
+
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
+
+
+
+
+3. Jeigu dėl šio įstatymo 36 straipsnio 1 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
+
+
+
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniam asmeniui iki 100 000 eurų baudą. 
+
+
+
+
+5. Šio įstatymo 36 straipsnio 1 dalies 4 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
+
+
+
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
  
-
-
-
-
-3) už nepranešimą apie numatomus elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovų pasikeitimus ir už veiksmų, kuriuos ji turi teisę atlikti tik gavusi priežiūros institucijos leidimą, atlikimą neturint priežiūros institucijos leidimo – iki 1,5 procento neapmokėtų elektroninių pinigų vidurkio;
-
-
-
-
-4) už šio įstatymo draudžiamų atlikti veiksmų ar veiklos vykdymą arba elektroninių pinigų leidimą, jei tokia teisė apribota pagal šį įstatymą, – iki 2 procentų neapmokėtų elektroninių pinigų vidurkio;
-
-
-
-
-5) už kitus saugią ir patikimą elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklą reglamentuojančių teisės aktų pažeidimus – iki 0,1 procento neapmokėtų elektroninių pinigų vidurkio.
-
-
-
-
-
-
-2. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, jo trukmę, anksčiau taikytas poveikio priemones.
-
-
-
-
-3. Baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kai asmuo gavo priežiūros institucijos sprendimą skirti baudą. Bauda, skirta pagal šio straipsnio 1 dalies 2 punktą už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną, turi būti sumokama į valstybės biudžetą kiekvieną tokio nurodymo nevykdymo ar netinkamo vykdymo dieną. Jei bauda per nurodytus terminus, o priežiūros institucijos sprendimą apskundus teismui, per 10 kalendorinių dienų nuo teismo sprendimo įsiteisėjimo nesumokama, tai ji priežiūros institucijos sprendimu išieškoma ne ginčo tvarka (kai nėra asmens, kuriam paskirta bauda, nurodymo nurašyti lėšas) iš asmens, kuriam paskirta bauda, lėšų kredito įstaigose arba priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
- 
-
-
 
 
 
@@ -1969,7 +1895,10 @@ Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
 
 
 
-2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 14 straipsnio 2 dalyje nustatyti nepriekaištingos reputacijos ir kvalifikacijos bei patirties reikalavimai. Jei atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas atstovo veiklos priežiūrai padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos darbuotojas.
+2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 14 straipsnio 2 dalyje nustatyti nepriekaištingos reputacijos ir kvalifikacijos bei patirties reikalavimai. Jeigu atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas atstovo veiklos priežiūrai padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos tarnautojas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
+ 
 
 
 
@@ -1979,7 +1908,10 @@ Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
 
 
 
-4. Atstovas veiklos priežiūrai nesutinka su elektroninių pinigų įstaigos valdybos ir vadovų ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovų sprendimais, jei jie, jo nuomone, prieštarauja saugią ir patikimą elektroninių pinigų įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos šio įstatymo 32 straipsnio 2 ir 3 dalių nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją.
+4. Atstovas veiklos priežiūrai nesutinka su elektroninių pinigų įstaigos valdybos ir vadovų ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovų sprendimais, jeigu jie, jo nuomone, prieštarauja saugią ir patikimą elektroninių pinigų įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
+ 
 
 
 
@@ -2010,7 +1942,10 @@ Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
 40 straipsnis. Laikinas teisės disponuoti lėšomis ir kitu turtu apribojimas
 
 
-1. Jeigu priežiūros institucija pritaiko šio įstatymo 35 straipsnio 1 dalies 7 punkte ir 2 dalies 2 punkte nurodytas poveikio priemones, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu priežiūros institucijos sprendime nurodytu turtu.
+1. Jeigu priežiūros institucija pritaiko šio įstatymo 35 straipsnio 1 dalies 9 punkte ir 2 dalies 2 punkte nurodytas poveikio priemones, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu priežiūros institucijos sprendime nurodytu turtu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
+ 
 
 
 
@@ -2179,3 +2114,8 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2563, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20317
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 8 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 27, 29, 30, 32, 35, 36, 37, 39, 40 straipsnių pakeitimo ir 28, 31 straipsnių pripažinimo netekusiais galios įstatymas
