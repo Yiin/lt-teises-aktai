@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2018-04-28 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-07-04
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -1706,52 +1706,26 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-2. Kredito unijos vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai atlikti pareigas. Kredito unijos vadovų kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka. Kredito unijos vadovu negali būti asmuo, nesutinkantis, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus duomenis apie jį, įskaitant asmens duomenis ir informaciją apie asmens teistumą, sveikatą.
+2. Kredito unijos vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai atlikti pareigas. Kredito unijos vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Kredito unijos vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka. Kredito unijos vadovu negali būti asmuo, nesutinkantis, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus duomenis apie jį, įskaitant asmens duomenis ir informaciją apie asmens teistumą, sveikatą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+ 
 
 
 
 
-3. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu jis:
-
-
-1) buvo nuteistas už Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų, labai sunkų nusikaltimą arba už nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, arba už juos atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus, nepaisant to, ar teistumas išnyko, ar neišnyko;
-
-
-
-
-2) buvo nubaustas administracinėmis, drausminėmis nuobaudomis arba jam buvo taikytos kitos įstatymų nustatytos sankcijos (poveikio priemonės), kai šios nuobaudos ar poveikio priemonės buvo skirtos už įstatymų ar kitų teisės aktų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nuostatų pažeidimą ir už tai jis buvo baustas daugiau kaip vieną kartą per metus;
+3. Vertinant kredito unijos vadovų reputaciją, mutatis mutandis taikomos Bankų įstatymo 34 straipsnio 12 ir 13 dalių nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+ 
 
 
 
 
-3) piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar alkoholiu.
-
-
-
-
-
-
-4. Priežiūros institucija turi teisę pripažinti asmenį nesančiu nepriekaištingos reputacijos ir atsižvelgdama į tai, ar:
-
-
-1) jis buvo nuteistas už šio straipsnio 3 dalies 1 punkte nenurodytą nusikaltimą arba baudžiamąjį nusižengimą, arba juos atitinkančias nusikalstamas veikas pagal užsienio valstybių įstatymus;
-
-
-
-
-2) juridiniam asmeniui, kurio kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį jis turi ar turėjo arba kurio vadovu jis yra ar buvo, buvo pritaikytos įstatymų nustatytos sankcijos (poveikio priemonės) arba toks juridinis asmuo buvo likviduotas dėl nemokumo arba teismo sprendimu ar nuosprendžiu dėl netinkamos veiklos ar už teisės aktų pažeidimus;
-
-
-
-
-3) jam turint finansų įstaigos kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį įstatymų nustatyta tvarka jau buvo sustabdyta teisė naudotis balsavimo teise finansų įstaigos dalyvių susirinkime;
-
-
-
-
-4) nėra kitų reikšmingų aplinkybių, dėl kurių asmens reputacija negali būti laikoma nepriekaištinga.
-
-
+4. Neteko galios nuo 2018-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+ 
 
 
 
@@ -2520,7 +2494,6 @@ Kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respubliko
 
 
 2. Prieš sudarydama sutartį dėl finansinių paslaugų teikimo, kredito unija privalo suteikti klientui išsamią informaciją, susijusią su finansinių paslaugų teikimo sąlygomis, paslaugų kaina, paslaugų teikimo terminais, galimomis pasekmėmis, ir kitokią informaciją, turinčią įtakos kliento apsisprendimui sudaryti sutartį.
- 
 
 
 
@@ -2741,7 +2714,9 @@ KREDITO UNIJŲ PRIEŽIŪRA
 
 
 
-4. Priežiūra atliekama vadovaujantis šiuo įstatymu, Lietuvos Respublikos finansų įstaigų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir priežiūros institucijos teisės aktais.
+4. Priežiūra atliekama vadovaujantis Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Lietuvos Respublikos finansų įstaigų įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
 
 
@@ -2752,7 +2727,10 @@ KREDITO UNIJŲ PRIEŽIŪRA
 55 straipsnis. Priežiūros tikslui gautos informacijos apsauga
 
 
-1. Kredito unijų priežiūros tikslui gautos informacijos apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo 65 straipsnis.
+1. Kredito unijų priežiūros tikslu gautos informacijos apsaugai taikomas Lietuvos banko įstatymo 43 straipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+ 
 
 
 
@@ -2765,23 +2743,10 @@ KREDITO UNIJŲ PRIEŽIŪRA
 
 
 
-56 straipsnis. Prašymų dėl licencijos, leidimo, sutikimo išdavimo ar dėl kitų veiksmų atlikimo nagrinėjimas ir priežiūros institucijos sprendimai
-
-
-1. Prašymų dėl šiame įstatyme nustatytų licencijų, leidimų, sutikimų išdavimo ar dėl kitų veiksmų atlikimo (toliau šiame straipsnyje – leidimų išdavimas) pateikimo, nagrinėjimo ir jų išdavimo sąlygas detalizuojančią tvarką bei detalius reikalavimus pateikiamiems dokumentams nustato priežiūros institucijos teisės aktai.
-
-
-
-
-2. Prašymas dėl leidimo išdavimo išnagrinėjamas ir sprendimas priimamas per šiame įstatyme nustatytus terminus, o jeigu terminai šiame įstatyme nenustatyti, – per priežiūros institucijos teisės aktuose nustatytus terminus. Priežiūros institucija turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingų sprendimui priimti. Jeigu priežiūros institucija pareikalauja papildomų dokumentų ir informacijos arba papildomus dokumentus ar informaciją pateikia pats pareiškėjas, prašymo nagrinėjimo ir sprendimo priėmimo terminas skaičiuojamas nuo papildomai pareikalautų ar papildomai pareiškėjo pateiktų dokumentų ir informacijos gavimo dienos.
-
-
-
-
-3. Apie priimtą sprendimą dėl leidimo išdavimo priežiūros institucija ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo informuoja pareiškėjus, jeigu šiame įstatyme nenustatyta kitaip. Priežiūros institucijos atsisakymas išduoti leidimą turi būti motyvuotas.
+56 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
-
-
 
 
 
@@ -2789,41 +2754,30 @@ KREDITO UNIJŲ PRIEŽIŪRA
 57 straipsnis. Priežiūros institucijos teisės ir pareigos
 
 
-1. Be kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
+1. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
 
 
-1) duoti kredito unijai šio straipsnio 2 dalyje nustatytus privalomus nurodymus, kuriuos kredito unija privalo įvykdyti priežiūros institucijos nustatytais terminais ir nedelsdama raštu apie tai pranešti priežiūros institucijai;
-
-
-
-
-2) jeigu kredito unijos organų priimti sprendimai kelia pavojų kredito unijos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad kredito unijos organų priimti sprendimai būtų pripažinti negaliojančiais;
+1) jeigu kredito unijos organų priimti sprendimai kelia pavojų kredito unijos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad kredito unijos organų priimti sprendimai būtų pripažinti negaliojančiais;
 
 
 
 
-3) sudaryti sutartis su auditoriais ar audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl kredito unijos patikrinimo atlikimo, kad būtų nustatyta kredito unijos turto vertė, kredito unijos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti kredito unijos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad kredito unija priežiūros institucijai pateikė neteisingą informaciją, ar nustatomi kiti padaryti teisės aktų pažeidimai, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina kredito unija. Kai pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys atlieka kredito unijos patikrinimą, šiems asmenims taikomos šio įstatymo 59 straipsnio 2 ir 3 dalių nuostatos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
- 
+2) sudaryti sutartis su atestuotais auditoriais ar audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl kredito unijos patikrinimo atlikimo, kad būtų nustatyta kredito unijos turto vertė, kredito unijos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti kredito unijos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad kredito unija priežiūros institucijai pateikė neteisingą informaciją, ar nustatomi kiti padaryti teisės aktų pažeidimai, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina kredito unija. Kai pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys atlieka kredito unijos patikrinimą, šie asmenys turi Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktuose priežiūros institucijos tarnautojams nustatytas teises; 
 
 
 
 
-4) reikalauti, kad būtų pakeistas auditorius ar audito įmonė, atliekantys kredito unijos finansinių ataskaitų rinkinių auditą, jeigu audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
- 
+3) reikalauti, kad būtų pakeistas atestuotas auditorius ar audito įmonė, atliekantys kredito unijos finansinių ataskaitų rinkinių patikrinimą, jeigu audito įmonė ar atestuotas auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų.
 
 
 
 
 
 
-2. Priežiūros institucija, nustačiusi teisės aktų pažeidimus ar kredito unijos veiklos trūkumus arba nustačiusi, kad kredito unijos veikla kelia grėsmę kredito unijos veiklos stabilumui ir patikimumui, turi teisę duoti kredito unijai tokius rašytinius privalomus nurodymus:
+2. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus arba kredito unijos veiklos trūkumus, taip pat jeigu kyla grėsmė kredito unijos veiklos stabilumui ir patikimumui arba visuomenės ir (arba) kredito unijos klientų interesams, Lietuvos banko įstatymo nustatyta tvarka duoda kredito unijai šiuos privalomus nurodymus: 
 
 
-1) priežiūros institucijos nustatytais terminais pašalinti teisės aktų pažeidimus ar kredito unijos veiklos trūkumus;
+1) priežiūros institucijos nustatytais terminais pašalinti teisės aktų pažeidimus ar kredito unijos veiklos trūkumus; 
 
 
 
@@ -2853,119 +2807,85 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-7) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų siekiant, kad būtų pašalinti teisės aktų pažeidimai ar kredito unijos veiklos trūkumai arba kad kredito unijos veikla būtų stabili ir patikima.
+7) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+8) sustabdyti vienos arba kelių finansinių paslaugų teikimą;
+
+
+
+
+9) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+10) viešai atskleisti papildomą informaciją;
+
+
+
+
+11) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar kredito unijos veiklos trūkumai arba kad kredito unijos veikla būtų stabili ir patikima.
 
 
 
 
 
 
-3. Priežiūros institucija, nustačiusi teisės aktų pažeidimus ar kredito unijos veiklos trūkumus arba nustačiusi, kad kredito unijos veikla kelia grėsmę kredito unijos veiklos stabilumui ir patikimumui, turi teisę kredito unijai laikinai nustatyti individualius kredito unijos veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl rizikos ribojimo. Toks priežiūros institucijos sprendimas turi būti motyvuotas ir priimamas atsižvelgiant į šio įstatymo 61 straipsnio 2 dalies nuostatas.
+3. Priežiūros institucija, nustačiusi teisės aktų pažeidimus ar kredito unijos veiklos trūkumus arba nustačiusi, kad kredito unijos veikla kelia grėsmę kredito unijos veiklos stabilumui ir patikimumui, turi teisę kredito unijai laikinai nustatyti individualius kredito unijos veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl rizikos ribojimo.
 
 
 
 
-4. Šio straipsnio 2 ir 3 dalyse nustatyti nurodymai gali būti duodami kartu su taikomomis poveikio priemonėmis.
+4. Kredito unijos privalo įvykdyti šio straipsnio 2 ir 3 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
 
 
 
-5. Priežiūros institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti kredito unijos organų ir kredito unijos komitetų darbe: dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti kredito unijos organų, kredito unijos komitetų ir kredito unijos vadovų veiklą.
+5. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti kredito unijos organų ir kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti kredito unijos organų, kredito unijos komitetų ir kredito unijos vadovų veiklą.
 
 
 
 
-6. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų teisinę apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie kredito unijos skolininkus. Kredito unija priežiūros institucijai privalo teikti duomenis apie kredito unijos skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktuose nustatyta tvarka.
+6. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų teisinę apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie kredito unijos skolininkus. Kredito unija priežiūros institucijai privalo teikti duomenis apie kredito unijos skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktuose nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
 
 
 
 
-
-
-58 straipsnis. Priežiūros institucijos sprendimų, veiksmų (neveikimo) apskundimas
-
-
-1. Priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, kurių teisės ar įstatymų saugomi interesai pažeisti, turi teisę įstatymų nustatyta tvarka skųsti teismui.
-
-
-
-
-2. Skundo padavimas teismui iki jo išsprendimo nesustabdo skundžiamo sprendimo ar veiksmo vykdymo.
+58 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
 
 
 
 
+59 straipsnis. Priežiūros institucijos rengiami patikrinimai
 
 
-59 straipsnis. Kredito unijų inspektavimas
-
-
-1. Kredito unijų inspektavimą atlieka priežiūros institucijos darbuotojai. Priežiūros institucija, inspektuodama kredito uniją, gali pasitelkti ir kitų asmenų.
-
-
-
-
-2. Kredito unija privalo sudaryti šias sąlygas inspektavimui atlikti:
-
-
-1) pateikti inspektavimą atliekantiems asmenims visą jų prašomą informaciją ir dokumentus;
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai.
 
 
 
 
-2) suteikti galimybę inspektavimą atliekantiems asmenims naudotis kredito unijos informacinių sistemų duomenimis;
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
 
 
 
 
-3) suteikti inspektavimą atliekantiems asmenims darbo vietą.
+3. Centrinei kredito unijai stebint ir tikrinant savo narių kredito unijų veiklą, taikomos šio straipsnio 2 dalies nuostatos. 
 
 
-
-
-
-
-3. Inspektavimą atliekantys asmenys turi teisę:
-
-
-1) inspektuojamos kredito unijos darbo metu nekliudomai įeiti į kredito unijos ir jos padalinių patalpas;
-
-
-
-
-2) reikalauti ir gauti inspektavimui atlikti reikalingą informaciją ir dokumentus (originalus arba patvirtintus jų nuorašus), kredito unijos vadovų ir kitų darbuotojų paaiškinimus žodžiu ar raštu;
-
-
-
-
-3) reikalauti padaryti pateiktų dokumentų kopijas ar kredito unijos lėšomis patys juos kopijuoti;
-
-
-
-
-4) turėti kitų teisės aktuose nustatytų teisių.
-
-
-
-
-
-
-4. Atlikus inspektavimą, inspektavimo rezultatai raštu pateikiami kredito unijai. Kredito unijos stebėtojų tarybos, valdybos nariai, administracijos vadovas privalo pasirašytinai susipažinti su inspektavimo rezultatais.
-
-
-
-
-5. Priežiūros institucijos teisės aktai nustato detalią inspektavimo atlikimo ir inspektavimo rezultatų įforminimo tvarką.
-
-
-
-
-6. Centrinei kredito unijai stebint ir tikrinant savo narių kredito unijų veiklą, taikomos šio straipsnio 2 ir 3 dalių nuostatos.
+Straipsnio pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
-
-
 
 
 
@@ -2973,103 +2893,72 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 60 straipsnis. Poveikio priemonės
 
 
-1. Priežiūros institucija turi teisę licenciją turinčioms kredito unijoms taikyti šias poveikio priemones:
+1. Priežiūros institucija taiko asmenims šias poveikio priemones:
 
 
-1) viešai paskelbti apie šio įstatymo ir kitų teisės aktų pažeidimą ir jį padariusį asmenį;
-
-
-
-
-2) įspėti dėl šio įstatymo ir kitų teisės aktų pažeidimo ir nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą ir užtikrinti, kad jis nesikartotų;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-3) skirti šio įstatymo nustatytas baudas;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
 
 
-4) laikinai uždrausti teikti vieną ar kelias finansines paslaugas;
+3) skiria šio įstatymo nustatytas baudas;
 
 
 
 
-5) laikinai ar visam laikui uždrausti vieno ar kelių kredito unijos filialų ar kitų struktūrinių padalinių veiklą. Priežiūros institucijai priėmus sprendimą laikinai uždrausti filialo ar kito struktūrinio padalinio veiklą, filialas ar kitas struktūrinis padalinys neturi teisės teikti finansinių paslaugų, o priėmus sprendimą visam laikui uždrausti filialo ar kito struktūrinio padalinio veiklą, kredito unija, be to, privalo nedelsdama priimti sprendimą nutraukti tokio filialo ar kito struktūrinio padalinio veiklą;
+4) laikinai sustabdo licencijos teikti vieną ar kelias finansines paslaugas galiojimą;
 
 
 
 
-6) laikinai nušalinti kredito unijos stebėtojų tarybos narį (narius), valdybos narį (narius), kredito unijos administracijos vadovą, paskolų komiteto narį (narius) nuo pareigų arba nušalinti kredito unijos stebėtojų tarybos narį (narius), valdybos narį (narius), kredito unijos administracijos vadovą, paskolų komiteto narį (narius) nuo pareigų ir reikalauti, kad jie būtų atšaukti iš pareigų ir (ar) su jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai;
+5) laikinai ar visam laikui uždraudžia vieno ar kelių kredito unijos filialų ar kitų struktūrinių padalinių veiklą. Priežiūros institucijai priėmus sprendimą laikinai uždrausti filialo ar kito struktūrinio padalinio veiklą, filialas ar kitas struktūrinis padalinys neturi teisės teikti finansinių paslaugų, o priėmus sprendimą visam laikui uždrausti filialo ar kito struktūrinio padalinio veiklą, kredito unija, be to, privalo nedelsdama priimti sprendimą nutraukti tokio filialo ar kito struktūrinio padalinio veiklą;
 
 
 
 
-7) paskelbti kredito unijos veiklos apribojimą;
+6) laikinai, kol yra pagrindas, nušalina kredito unijos stebėtojų tarybos narį (narius), valdybos narį (narius), kredito unijos administracijos vadovą, paskolų komiteto narį (narius) nuo pareigų arba nušalina kredito unijos stebėtojų tarybos narį (narius), valdybos narį (narius), kredito unijos administracijos vadovą, paskolų komiteto narį (narius) nuo pareigų ir reikalauja, kad jie būtų atšaukti iš pareigų ir (ar) su jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai;
 
 
 
 
-8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
+7) paskelbia kredito unijos veiklos apribojimą;
+
+
+
+
+8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito įstaigose, ir kitu turtu;
+
+
+
+
+9) atšaukia išduotą licenciją ar laikinai sustabdo jos galiojimą tol, kol tam yra pagrindas; išnykus licencijos galiojimo sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą;
+
+
+
+
+10) paskiria laikinąjį administratorių.
+
+
+
+
+
+
+2. Bylose, kuriose nagrinėjami skundai (prašymai) dėl priežiūros institucijos sprendimo taikyti šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos Lietuvos Respublikos administracinių bylų teisenos įstatymo 70 straipsnio 3 dalies 1 ir 3 punktuose. 
+
+
+
+
+3. Teismas, išnagrinėjęs skundą (prašymą) dėl priežiūros institucijos sprendimo taikyti šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytas poveikio priemones, turi teisę, jeigu yra šiame įstatyme nustatytos sąlygos, priteisti atlyginti žalą, tačiau neturi teisės tenkindamas skundą (prašymą) panaikinti skundžiamą sprendimą, įpareigoti priežiūros instituciją pašalinti padarytą pažeidimą ar įvykdyti kitokį teismo patvarkymą arba išspręsti ginčą bet kokiu kitu būdu, dėl kurio būtų sustabdomas ar panaikinamas skundžiamo sprendimo galiojimas arba kitaip atkuriama buvusi iki sprendimo priėmimo padėtis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
-
-
-
-
-9) atšaukti išduotą licenciją ar laikinai sustabdyti jos galiojimą tol, kol tam yra pagrindas; išnykus licencijos galiojimo sustabdymo pagrindui, priežiūros institucija nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, atnaujina licencijos galiojimą;
-
-
-
-
-10) paskirti laikinąjį administratorių.
-
-
-
-
-
-
-2. Priežiūros institucija turi teisę taikyti vieną ar kelias poveikio priemones.
-
-
-
-
-3. Priežiūros institucija, priimdama sprendimą dėl poveikio priemonės taikymo ir parinkdama konkrečią poveikio priemonę (priemones) ir jos (jų) dydį, atsižvelgia į nustatytų pažeidimų ir veiklos trūkumų sunkumą, trukmę, kartotinumą, jų įtaką indėlininkų ir kitų kreditorių interesams, asmens, kuriam taikoma poveikio priemonė, kaltę, finansinį pajėgumą, ankstesnius pažeidimus ir jam taikytas poveikio priemones, bendradarbiavimą su priežiūros institucija, dėl pažeidimų gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydį, jeigu jį įmanoma nustatyti, kredito unijos narių ir vadovų pasirengimą bei galimybes pašalinti pažeidimus ir veiklos trūkumus, taip pat nustatytų pažeidimų bei veiklos trūkumų ir numatomos taikyti poveikio priemonės (priemonių) pasekmes kredito unijų sistemos stabilumui ir patikimumui ir kitas svarbias aplinkybes.
-
-
-
-
-4. Priežiūros institucijos sprendimas taikyti kredito unijai poveikio priemonę įsigalioja kitą dieną po jo priėmimo dienos, jeigu šiame įstatyme ar sprendime nenustatyta kitaip.
-
-
-
-
-5. Priežiūros institucijos sprendimas dėl poveikio priemonės (priemonių) taikymo turi būti motyvuotas ir įstatymų nustatyta tvarka gali būti skundžiamas teismui. Sprendimo apskundimas, išskyrus sprendimą skirti šiame įstatyme nustatytas baudas, nesustabdo šio sprendimo vykdymo. Teismas nevertina ir nesprendžia klausimo dėl poveikio priemonės rūšies parinkimo ir jos taikymo tikslingumo.
-
-
-
-
-6. Bylose, kuriose nagrinėjami skundai (prašymai) dėl priežiūros institucijos sprendimo taikyti šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos Lietuvos Respublikos administracinių bylų teisenos įstatymo 70 straipsnio 3 dalies 1 ir 3 punktuose.
-
-
-
-
-7. Teismas, išnagrinėjęs skundą (prašymą) dėl priežiūros institucijos sprendimo taikyti šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytas poveikio priemones, turi teisę, jeigu yra šiame įstatyme nustatytos sąlygos, priteisti atlyginti žalą, tačiau neturi teisės tenkindamas skundą (prašymą) panaikinti skundžiamą sprendimą, įpareigoti priežiūros instituciją pašalinti padarytą pažeidimą ar įvykdyti kitokį teismo patvarkymą arba išspręsti ginčą bet kokiu kitu būdu, dėl kurio būtų sustabdomas ar panaikinamas skundžiamo sprendimo galiojimas arba kitaip atkuriama buvusi iki sprendimo priėmimo padėtis.
-
-
-
-
-8. Poveikio priemonės, kurios taikomos laikinai, galioja iki priežiūros institucijos sprendime dėl poveikio priemonės taikymo nurodyto termino, kuris gali būti apibrėžtas konkrečia data, laikotarpiu ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros institucija priima sprendimą jas atšaukti anksčiau nustatyto termino.
-
-
-
-
-9. Priežiūros institucija, atsižvelgdama į šio straipsnio 3 dalyje nurodytas aplinkybes, vadovaudamasi teisingumo, protingumo, skaidrumo ir proporcingumo kriterijais, netaiko poveikio priemonių, jeigu pažeidimas yra mažareikšmis, nedarantis esminės žalos pagal įstatymus ir kitus teisės aktus saugomiems interesams, arba jeigu turi pagrindą manyti, kad priežiūros tikslas gali būti pasiektas ir kitomis priemonėmis, ne tik taikant poveikio priemones.
- 
-
-
 
 
 
@@ -3077,55 +2966,62 @@ Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
 61 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 
-1. Priežiūros institucija turi teisę taikyti šiame įstatyme nustatytas poveikio priemones, išskyrus šiame įstatyme nustatytas baudas, kai yra bent vienas iš šių pagrindų:
+1. Priežiūros institucija taiko šiame įstatyme nustatytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
 
 
-1) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami arba netiksli informacija;
-
-
-
-
-2) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 57 straipsnio 2 dalį duoti privalomi nurodymai;
+1) verčiamasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių, taip pat teikiamos kitos finansinės paslaugos, jeigu neturima tam šio įstatymo nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
 
 
 
-3) nebetenkinami reikalavimai, nustatyti licencijai išduoti;
+2) kredito unija licenciją, kitą šiame įstatyme nustatytą leidimą gavo pateikusi klaidingą informaciją arba pasinaudodama kitomis neteisėtomis priemonėmis; 
 
 
 
 
-4) padaromi įstatymų, tarp jų Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl kredito unijos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos kredito unijų sistemos funkcionavimas.
+3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami arba netiksli informacija;
+
+
+
+
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 57 straipsnio 2 dalį duoti privalomi nurodymai; 
+
+
+
+
+5) nebetenkinami reikalavimai, nustatyti licencijai išduoti;
+
+
+
+
+6) kredito unijos vadovais paskiriami arba kredito unijos vadovų pareigas eina vienas ar keli asmenys, neatitinkantys šiame įstatyme ir kituose teisės aktuose nustatytų reputacijos, kvalifikacijos ir patirties reikalavimų;
+
+
+
+
+7) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
+
+
+
+
+8) padaromi kiti įstatymų, tarp jų Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl kredito unijos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos kredito unijų sistemos funkcionavimas.
 
 
 
 
 
 
-2. Priežiūros institucija, prieš spręsdama klausimą, ar taikyti poveikio priemonę, ne vėliau kaip prieš 10 dienų iki šio klausimo nagrinėjimo dienos, praneša asmeniui, kuriam taikoma poveikio priemonė, apie klausimo nagrinėjimo vietą ir laiką bei pateikia jam informaciją apie nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus, ar sudaro galimybę asmens, kuriam taikoma poveikio priemonė, vadovams susipažinti su tokiais faktiniais duomenimis. Pranešimą gavęs asmuo turi teisę iki klausimo nagrinėjimo dienos raštu pateikti paaiškinimus. Poveikio priemonės taikymo klausimas svarstomas dalyvaujant asmens, kuriam taikoma poveikio priemonė, vadovams (bent jau valdybos pirmininkui ar administracijos vadovui). Vadovų neatvykimas ar paaiškinimų nepateikimas netrukdo spręsti poveikio priemonės taikymo klausimo. Neatidėliotinais atvejais priežiūros institucija turi teisę spręsti klausimą dėl poveikio priemonės taikymo neatsižvelgdama į šios dalies nuostatas.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
 
 
 
-3. Poveikio priemonės gali būti skiriamos, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o kai pažeidimas tęstinis ar trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo pasibaigimo dienos.
+3. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu. 
 
 
-
-
-4. Sprendimas dėl poveikio priemonės taikymo per 5 dienas išsiunčiamas (įteikiamas) kredito unijai. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę, skelbiama priežiūros institucijos interneto svetainėje nedelsiant po to, kai apie sprendimą taikyti poveikio priemonę informuojamas asmuo, kuriam ji pritaikyta. Jeigu sprendimas taikyti poveikio priemonę yra apskundžiamas, priežiūros institucijos interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas padarytų neigiamos įtakos finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padarytų neproporcingos žalos fiziniams ar juridiniams asmenims, tokios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį. Priežiūros institucija užtikrina, kad paskelbta informacija būtų prieinama bent 5 metus nuo jos paskelbimo.
-
-
-
-
-5. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas indėlių draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
-
-
-
-
-6. Poveikio priemonių taikymas juridiniams asmenims neatleidžia jų vadovų ir darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės.
+Straipsnio pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
-
-
 
 
 
@@ -3133,45 +3029,47 @@ Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
 62 straipsnis. Baudos
 
 
-1. Priežiūros institucija turi teisę kredito unijai skirti šias baudas:
+1. Priežiūros institucija skiria baudas:
 
 
-1) už nustatytais terminais šio įstatymo ar priežiūros institucijos teisės aktuose nustatytos arba pareikalautos informacijos ar dokumentų nepateikimą ar neteisingos informacijos pateikimą – iki 0,5 procento bendrųjų metinių pajamų;
-
-
-
-
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento bendrųjų metinių pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 289 eurų;
+1) juridiniams asmenims - iki 5 procentų bendrųjų metinių pajamų;
 
 
 
 
-3) už veiksmų, kuriuos ji turi teisę atlikti tik gavusi priežiūros institucijos leidimą, atlikimą neturint priežiūros institucijos leidimo – iki 1,5 procento bendrųjų metinių pajamų;
-
-
-
-
-4) už šio įstatymo draudžiamų atlikti veiksmų ar veiklos vykdymą arba finansinių paslaugų teikimą, jeigu tokia teisė apribota pagal šį įstatymą, – iki 2 procentų bendrųjų metinių pajamų;
-
-
-
-
-5) už kitus saugią ir patikimą kredito unijos veiklą reglamentuojančių teisės aktų pažeidimus – iki 0,1 procento bendrųjų metinių pajamų.
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 25 000 eurų.
 
 
 
 
 
 
-2. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, jo trukmę, anksčiau taikytas poveikio priemones.
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
 
 
 
 
-3. Baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kai kredito unija gavo priežiūros institucijos sprendimą skirti baudą. Bauda, skirta pagal šio straipsnio 1 dalies 2 punktą už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną, turi būti sumokama į valstybės biudžetą kiekvieną dieną. Jeigu bauda per nurodytus terminus, o priežiūros institucijos sprendimą apskundus teismui, – per 10 dienų nuo teismo sprendimo įsiteisėjimo nesumokama, bauda priežiūros institucijos sprendimu išieškoma ne ginčo tvarka (kai nėra kredito unijos, kuriai paskirta bauda, nurodymo nurašyti lėšas) iš kredito unijos, kuriai paskirta bauda, piniginių lėšų kredito įstaigose arba priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+3. Jeigu dėl šio įstatymo 61 straipsnio 1 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+
+
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniam asmeniui skiria iki 100 000 eurų baudą.
+
+
+
+
+5. Šio įstatymo 61 straipsnio 1 dalies 4 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. 
+
+
+
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
  
-
-
 
 
 
@@ -3200,7 +3098,10 @@ Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
 64 straipsnis. Laikinasis administratorius
 
 
-1. Priežiūros institucija turi teisę kredito unijai paskirti vieną ar daugiau laikinųjų administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 27 straipsnyje nustatyti nepriekaištingos reputacijos ir kvalifikacijos bei patirties reikalavimai, laikinojo administratoriaus neturi saistyti joks interesų konfliktas. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi laikinojo administravimo sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Tokia sutartis turi nustatyti priežiūros institucijos įsipareigojimus, susijusius su laikinojo administratoriaus veiksmais tretiesiems asmenims padarytos žalos atlyginimu, kiek tai neprieštarauja Lietuvos Respublikos civilinio kodekso normoms. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vadovaujantis priežiūros institucijos duotais nurodymais. Tokiu atveju už padarytą žalą, kai yra įstatymuose nustatytos sąlygos, atsako priežiūros institucija. Laikinasis administratorius savo nuožiūra turi teisę pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), reikalingų tam, kad būtų galima tinkamai atlikti savo funkcijas. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi sutartyje, sudaromoje tarp priežiūros institucijos ir laikinojo administratoriaus. Atlyginimas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) išmokami iš kredito unijos lėšų prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu administruojamai kredito unijai iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu kredito unija laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri tuo metu turi teisę reikalauti sumokėtų sumų iš kredito unijos. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos darbuotojas.
+1. Priežiūros institucija turi teisę kredito unijai paskirti vieną ar daugiau laikinųjų administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 27 straipsnyje nustatyti kvalifikacijos bei patirties reikalavimai, laikinasis administratorius turi būti nepriekaištingos reputacijos, jo neturi saistyti joks interesų konfliktas. Vertinant laikinojo administratoriaus reputaciją, mutatis mutandis taikomos Bankų įstatymo 34 straipsnio 12 ir 13 dalių nuostatos. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi laikinojo administravimo sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Tokia sutartis turi nustatyti priežiūros institucijos įsipareigojimus, susijusius su laikinojo administratoriaus veiksmais tretiesiems asmenims padarytos žalos atlyginimu, kiek tai neprieštarauja Lietuvos Respublikos civilinio kodekso normoms. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vadovaujantis priežiūros institucijos duotais nurodymais. Tokiu atveju už padarytą žalą, kai yra įstatymuose nustatytos sąlygos, atsako priežiūros institucija. Laikinasis administratorius savo nuožiūra turi teisę pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), reikalingų tam, kad būtų galima tinkamai atlikti savo funkcijas. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi sutartyje, sudaromoje tarp priežiūros institucijos ir laikinojo administratoriaus. Atlyginimas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) išmokami iš kredito unijos lėšų prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu administruojamai kredito unijai iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu kredito unija laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri tuo metu turi teisę reikalauti sumokėtų sumų iš kredito unijos. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos darbuotojas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+ 
 
 
 
@@ -3985,3 +3886,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo įstatymo Nr. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 27, 54, 55, 57, 59, 60, 61, 62, 64 straipsnių pakeitimo ir 56, 58 straipsnių pripažinimo netekusiais galios įstatymas
