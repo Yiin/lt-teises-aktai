@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/40691e401b9711e4b542dec0b12e28b0"
 
 # Lietuvos Respublikos valiutos keityklos operatorių įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15
  
 Įstatymas paskelbtas: TAR 2014-08-04, i. k. 2014-10873
  
@@ -162,7 +162,25 @@ VALIUTOS KEITYKLOS OPERATORIAUS VALDYMAS IR VEIKLA
 5 straipsnis. Valiutos keityklos operatoriaus vadovas
 
 
-1. Valiutos keityklos operatoriaus vadovu negali būti asmuo, pripažintas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengimą, susijusį su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas nėra išnykęs.
+1. Valiutos keityklos operatoriaus vadovu negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
+
+
+1) jis yra pripažintas kaltu padaręs sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
+
+
+
+
+2) jam už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimą pritaikyta administracinė nuobauda arba kita įstatymuose nustatyta poveikio priemonė, jeigu nuo sprendimo taikyti administracinę nuobaudą arba kitą įstatymuose nustatytą poveikio priemonę įsigaliojimo dienos nepraėjo 3 metai;
+
+
+
+
+3) jis tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo panaikinta teisė verstis finansinių paslaugų teikimu arba už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą buvo pritaikyta kita poveikio priemonė, jeigu nepraėjo 3 metai nuo sprendimo taikyti poveikio priemonę įsigaliojimo dienos, arba tam juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
 
 
 
@@ -198,7 +216,25 @@ VALIUTOS KEITYKLOS OPERATORIAUS VALDYMAS IR VEIKLA
 
 
 
-4. Valiutos keityklos operatoriui kiti įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, jeigu valiutos keityklos operatorius yra finansų įstaiga, taip pat atitinkamos teisinės formos, kurios pagrindu valiutos keityklos operatorius veikia, asmeniui taikomi tiek, kiek šis įstatymas nenustato kitaip. 
+4. Valiutos keityklos operatorius privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su valiutos keitimo paslaugomis (toliau – skundas). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
+
+
+
+
+5. Valiutos keityklos operatorius privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir valiutos keityklos operatorius. Išskirtiniais atvejais, kai dėl priežasčių, kurių valiutos keityklos operatorius negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Valiutos keityklos operatorius klientų skundus nagrinėja neatlygintinai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
+
+
+
+
+6. Valiutos keityklos operatoriui kiti įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, jeigu valiutos keityklos operatorius yra finansų įstaiga, taip pat atitinkamos teisinės formos, kurios pagrindu valiutos keityklos operatorius veikia, asmeniui taikomi tiek, kiek šis įstatymas nenustato kitaip. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
 
 
@@ -334,12 +370,18 @@ VALIUTOS KEITYKLOS OPERATORIŲ VEIKLOS PRIEŽIŪRA
 10 straipsnis. Valiutos keityklos operatorių veiklos priežiūra
 
 
-1. Priežiūros institucija atlieka šio įstatymo nustatyta tvarka į valiutos keityklos operatorių sąrašą įrašytų valiutos keityklos operatorių veiklos priežiūrą, išskyrus šio straipsnio 3 dalyje nurodytą atvejį.
+1. Priežiūros institucija atlieka šio įstatymo nustatyta tvarka į valiutos keityklos operatorių sąrašą įrašytų valiutos keityklos operatorių veiklos, susijusios su valiutos keitimu, priežiūrą, išskyrus šio straipsnio 3 dalyje nurodytą atvejį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
 
 
 
 
-2. Valiutos keityklos operatorių veiklos priežiūra atliekama vadovaujantis šiuo įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu, Finansų įstaigų įstatymu, jeigu valiutos keityklos operatorius yra finansų įstaiga, Lietuvos Respublikos viešojo administravimo įstatymu (toliau – Viešojo administravimo įstatymas) ir priežiūros institucijos teisės aktais. 
+2. Valiutos keityklos operatorių veiklos priežiūra atliekama vadovaujantis Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Finansų įstaigų įstatymu, jeigu valiutos keityklos operatorius yra finansų įstaiga, Lietuvos Respublikos viešojo administravimo įstatymu ir priežiūros institucijos teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
 
 
 
@@ -378,7 +420,10 @@ VALIUTOS KEITYKLOS OPERATORIŲ VEIKLOS PRIEŽIŪRA
 
 
 
-5) vidaus kontrolės sistemos, kuri bus įdiegta siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą, aprašymą. 
+5) vidaus kontrolės sistemos, kuri bus įdiegta siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą, aprašymą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
 
 
 
@@ -439,7 +484,10 @@ VALIUTOS KEITYKLOS OPERATORIŲ VEIKLOS PRIEŽIŪRA
 
 
 
-3) valiutos keityklos operatoriui buvo pritaikyta šio įstatymo 16 straipsnio 1 dalies 3 arba 4 punkte nurodyta poveikio priemonė. 
+3) valiutos keityklos operatoriui buvo pritaikyta šio įstatymo 16 straipsnio 1 dalies 4 arba 5 punkte nurodyta poveikio priemonė. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
 
 
 
@@ -457,101 +505,93 @@ VALIUTOS KEITYKLOS OPERATORIŲ VEIKLOS PRIEŽIŪRA
 13 straipsnis. Priežiūros institucijos teisės 
 
 
-Priežiūros institucija turi teisę:
+1. Priežiūros institucija turi teisę:
 
 
-1) priimti teisės aktus ar rekomendacijas dėl valiutos keityklos operatorių veiklos ir priežiūros; 
-
-
-
-
-2) siekdama užtikrinti tinkamą šio įstatymo nuostatų laikymąsi, paprašyti iš valiutos keityklos operatoriaus visos informacijos ir dokumentų, susijusių su valiutos keityklos operatoriaus steigimu, valiutos keityklos operatoriaus vadovais, valdomomis valiutos keityklomis, ir juos gauti;
+1) atlikti asmens, pateikusio prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, jo steigiamų valiutos keityklų, valiutos keityklos operatoriaus ir jo valdomų valiutos keityklų patikrinimą;
 
 
 
 
-3) atlikti asmens, pateikusio prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, jo steigiamų valiutos keityklų, valiutos keityklos operatoriaus ir jo valdomų valiutos keityklų tikrinimą;
+2) iš valstybės ir savivaldybių institucijų, kitų asmenų gauti jų turimą informaciją apie asmens, pateikusio prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, vadovą ir asmens finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktus patikrinimus ir jų rezultatus bei kitą informaciją, kuri yra būtina priežiūros institucijai įgyvendinant šio įstatymo nuostatas;
 
 
 
 
-4) iš valstybės ir savivaldybių institucijų, kitų asmenų gauti jų turimą informaciją apie asmens, pateikusio prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, vadovą ir asmens finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktus patikrinimus ir jų rezultatus bei kitą informaciją, kuri yra būtina priežiūros institucijai įgyvendinant šio įstatymo nuostatas;
+3) turėti kitų Lietuvos banko įstatyme ir šiame įstatyme nustatytų teisių.
 
 
 
 
-5) turėti kitų šiame įstatyme nustatytų teisių.
+
+
+2. Priežiūros institucija, nustačiusi ar turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, valiutos keityklos operatoriaus veiklos trūkumus, taip pat jeigu kyla grėsmė visuomenės ir (ar) valiutos keityklos operatoriaus klientų interesams, Lietuvos banko įstatymo nustatyta tvarka valiutos keityklos operatoriui duoda šiuos privalomus nurodymus:
+
+
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
+
+
+
+
+2) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+3) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+4) viešai atskleisti papildomą informaciją;
+
+
+
+
+5) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+
+
+
+
+
+3. Valiutos keityklos operatorius privalo vykdyti šio straipsnio 2 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamas, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
 
 
 
 
+131 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 
+Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
 
 
-14 straipsnis. Asmens, pateikusio prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, valiutos keityklos operatoriaus ir valiutos keityklų tikrinimas 
-
-
-1. Tikrinamas asmuo, pateikęs prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, ir valiutos keityklos operatorius privalo:
-
-
-1) pateikti tikrinimą atliekantiems asmenims jų prašomą tikrinimui atlikti būtiną informaciją ir dokumentus;
-
-
-
-
-2) suteikti galimybę tikrinimą atliekantiems asmenims naudotis valiutos keityklos operatoriaus informacinių sistemų duomenimis, būtinais tikrinimui atlikti;
-
-
-
-
-3) suteikti tikrinimą atliekantiems asmenims darbo vietą.
-
-
-
-
-
-
-2. Tikrinimą atliekančių asmenų teisės:
-
-
-1) tikrinamo asmens ir jo valdomos valiutos keityklos darbo metu nekliudomai įeiti į valiutos keityklos patalpas;
-
-
-
-
-2) reikalauti ir gauti tikrinimui atlikti būtiną informaciją ir dokumentus (originalus arba patvirtintas jų kopijas), tikrinamo asmens vadovo ir kitų darbuotojų, tikrinamo asmens valdomos valiutos keityklos darbuotojų paaiškinimus žodžiu ar raštu; 
-
-
-
-
-3) reikalauti padaryti pateiktų dokumentų kopijas;
-
-
-
-
-4) turėti kituose teisės aktuose nustatytų teisių.
-
-
-
-
-
-
-3. Asmens, pateikusio prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, valiutos keityklos operatoriaus ar valiutos keityklos tikrinimas negali trukti ilgiau negu 30 kalendorinių dienų. Jeigu tikrinamas į valiutos keityklos operatorių sąrašą įrašytas valiutos keityklos operatorius ar jo valdomos valiutos keityklos, motyvuotu priežiūros institucijos sprendimu šis terminas gali būti pratęstas, bet ne ilgiau kaip 30 kalendorinių dienų. 
-
-
-
-
-4. Atlikto tikrinimo rezultatai raštu pateikiami asmeniui, pateikusiam prašymą įrašyti jį į valiutos keityklos operatorių sąrašą, ar atitinkamai valiutos keityklos operatoriui. Tikrinto asmens vadovas privalo pasirašytinai susipažinti su tikrinimo rezultatais.
-
-
-
-
-5. Priežiūros institucijos teisės aktai nustato detalią tikrinimo atlikimo ir tikrinimo rezultatų įforminimo tvarką. 
+Papildyta straipsniu:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
 
 
+
+
+14 straipsnis. Priežiūros institucijos atliekami patikrinimai
+
+
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai. 
+
+
+
+
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+ 
 
 
 
@@ -594,139 +634,103 @@ POVEIKIO PRIEMONĖS
  
 
 
-16 straipsnis. Poveikio priemonės ir jų taikymo pagrindai
+16 straipsnis. Poveikio priemonės, jų taikymo pagrindai ir tvarka
 
 
-1. Priežiūros institucija turi teisę valiutos keityklos operatoriams taikyti šias poveikio priemones:
+1. Priežiūros institucija taiko šias poveikio priemones:
 
 
-1) įspėti dėl šio įstatymo ir (ar) jo įgyvendinamųjų teisės aktų pažeidimo arba priežiūros institucijos nurodymų nevykdymo;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-2) skirti šiame įstatyme nustatytas baudas;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
 
 
-3) laikinai uždrausti teikti valiutos keitimo paslaugas;
+3) skiria šiame įstatyme nustatytas baudas;
 
 
 
 
-4) uždrausti teikti valiutos keitimo paslaugas;
+4) laikinai uždraudžia teikti valiutos keitimo paslaugas;
 
 
 
 
-5) laikinai nušalinti valiutos keityklos operatoriaus vadovą (vadovus) nuo pareigų arba nušalinti valiutos keityklos operatoriaus vadovą (vadovus) nuo pareigų ir reikalauti, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (arba) su juo (jais) būtų nutraukta sutartis (nutrauktos sutartys) ar būtų panaikinti jo (jų) įgaliojimai.
+5) uždraudžia teikti valiutos keitimo paslaugas;
 
 
 
 
+6) laikinai nušalina valiutos keityklos operatoriaus vadovą (vadovus) nuo pareigų arba nušalina valiutos keityklos operatoriaus vadovą (vadovus) nuo pareigų ir reikalauja, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (arba) su juo (jais) būtų nutraukta sutartis (nutrauktos sutartys) ar būtų panaikinti jo (jų) įgaliojimai;
 
 
-2. Priežiūros institucija turi teisę taikyti šio straipsnio 1 dalyje nurodytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
 
 
-1) paaiškėja, kad įrašant asmenį į valiutos keityklos operatorių sąrašą buvo pateikta neteisinga informacija; 
+7) laikinai, kol yra pagrindas, sustabdo (apriboja) valiutos keityklos operatoriaus dalyvio balsavimo teisę.
 
 
 
 
-2) į valiutos keityklos operatorių sąrašą asmuo buvo įrašytas apgaulės būdu ar kitaip pažeidęs teisės aktų reikalavimus; 
 
 
+2. Priežiūros institucija taiko šio straipsnio 1 dalyje nurodytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
 
 
-3) valiutos keityklos operatorius nustatytais terminais nepateikia šiame įstatyme ar priežiūros institucijos teisės aktuose nustatytos ar paprašytos informacijos arba pateikia neteisingą informaciją; 
+1) valiutos keitimo veikla vykdoma asmens, neįrašyto į valiutos keityklos operatorių sąrašą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
 
 
 
-4) valiutos keityklos operatorius nustatyta tvarka nevykdo pagal šį įstatymą duotų priežiūros institucijos nurodymų; 
+2) į valiutos keityklos operatorių sąrašą asmuo buvo įrašytas priežiūros institucijai pateikus klaidingą informaciją arba pasinaudojus kitomis neteisėtomis priemonėmis; 
 
 
 
 
-5) valiutos keityklos operatorius nesilaiko šiame įstatyme ar priežiūros institucijos teisės aktuose nustatytų reikalavimų.
+3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija; 
 
 
 
 
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 13 straipsnį duoti privalomi nurodymai; 
 
 
-3. Priežiūros institucija, priimdama sprendimą dėl poveikio priemonės taikymo ir parinkdama konkrečią poveikio priemonę, atsižvelgia į nustatytų pažeidimų, veiklos trūkumų turinį, mastą, kartotinumą, valiutos keityklos operatoriaus finansinę būklę, pasirengimą ir galimybes pašalinti pažeidimus ir trūkumus, nustatytų pažeidimų, veiklos trūkumų ir numatomos taikyti poveikio priemonės pasekmes valiutos keityklos operatoriui bei į šio straipsnio 4 ir 5 dalyse nurodytas atsakomybę lengvinančias ir sunkinančias aplinkybes.
 
 
+5) nebetenkinamos sąlygos, kuriomis remiantis asmuo buvo įrašytas į valiutos keityklos operatorių sąrašą;
 
 
-4. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padaręs pažeidimą valiutos keityklos operatorius savo noru užkirto kelią žalingoms pažeidimo pasekmėms, bendradarbiavo su priežiūros institucija tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą.
 
 
+6) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
 
 
-5. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padaręs pažeidimą valiutos keityklos operatorius kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydamas priežiūros institucijos sprendimu paskirtos baudos ar įspėjimo.
 
 
+7) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
 
 
-6. Jeigu priežiūros institucijos nustatytas pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems interesams, priežiūros institucija turi teisę netaikyti šiame straipsnyje nustatytų poveikio priemonių, tačiau gali įpareigoti per priežiūros institucijos nustatytą protingą terminą pašalinti pažeidimą ar valiutos keityklos operatoriaus veiklos trūkumus.
 
 
 
 
-7. Skundą dėl priežiūros institucijos sprendimo taikyti poveikio priemonę nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių poveikio priemonė asmeniui, kuris pažeidė šį įstatymą, būtų akivaizdžiai per didelė, neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę netaikyti šiame straipsnyje nustatytų poveikio priemonių.
+3. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
 
 
-
-
-8. Priežiūros institucija valiutos keityklos operatorių kartu su taikoma poveikio priemone gali įpareigoti per priežiūros institucijos nustatytą protingą terminą pašalinti pažeidimą ar veiklos trūkumus.
-
-
-
-
-9. Priežiūros institucijos sprendimas dėl poveikio priemonės taikymo turi būti motyvuotas.
+Straipsnio pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
 
 
 
 
-
-
-17 straipsnis. Poveikio priemonių taikymo tvarka
-
-
-1. Priežiūros institucija, gavusi informacijos apie galimą šio įstatymo ir (ar) jo įgyvendinamojo teisės akto pažeidimą, raštu informuoja valiutos keityklos operatorių apie pradėtą tyrimą ne vėliau kaip per 5 darbo dienas nuo tyrimo pradėjimo dienos. 
-
-
-
-
-2. Priežiūros institucija ne vėliau kaip prieš 10 darbo dienų iki posėdžio, kuriame bus svarstomas poveikio priemonės taikymas, dienos praneša valiutos keityklos operatoriui apie posėdžio vietą ir laiką ir pateikia jam informaciją apie nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus, ar sudaro galimybę valiutos keityklos operatoriaus vadovui (vadovams) susipažinti su tokiais faktiniais duomenimis. Valiutos keityklos operatoriaus vadovas (vadovai) turi teisę iki posėdžio dienos raštu pateikti paaiškinimus. Valiutos keityklos operatoriaus vadovas (vadovai) turi teisę dalyvauti posėdyje, kuriame svarstomas poveikio priemonės taikymo klausimas, ir kitas Viešojo administravimo įstatyme nustatytas teises. Valiutos keityklos operatoriaus vadovo (vadovų) neatvykimas ar paaiškinimų nepateikimas netrukdo spręsti poveikio priemonės taikymo klausimo. Neatidėliotinais atvejais, kai būtina imtis skubių priemonių, priežiūros institucija turi teisę spręsti klausimą dėl poveikio priemonės taikymo neatsižvelgdama į šios dalies nuostatas.
-
-
-
-
-3. Sprendimas dėl poveikio priemonės taikymo turi būti priimtas nedelsiant, bet ne vėliau kaip per 3 mėnesius nuo pažeidimo ar pagrindo taikyti poveikio priemonę nustatymo dienos. Poveikio priemonė gali būti skiriama, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o jeigu pažeidimas tęstinis ar trunkamas, – nuo paskutinio tęstinio pažeidimo veiksmo atlikimo dienos ar trunkamo pažeidimo pasibaigimo dienos.
-
-
-
-
-4. Priežiūros institucijos sprendimas taikyti poveikio priemonę įsigalioja kitą dieną po jo priėmimo, jeigu sprendime nenustatyta kitaip. 
-
-
-
-
-5. Poveikio priemonė, kuri taikoma laikinai, galioja iki priežiūros institucijos sprendime dėl poveikio priemonės taikymo nurodyto termino, kuris gali būti nurodytas kaip konkreti data, laiko tarpas ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros institucija priima sprendimą pritaikytą poveikio priemonę atšaukti prieš nustatytą terminą.
-
-
-
-
-6. Sprendimas dėl poveikio priemonės taikymo per 3 darbo dienas išsiunčiamas valiutos keityklos operatoriui, kuriam pritaikyta poveikio priemonė. Informacija apie pritaikytą poveikio priemonę skelbiama priežiūros institucijos teisės aktuose nustatyta tvarka, tačiau priežiūros institucija gali priimti sprendimą viešai neskelbti tokios informacijos, jeigu jos paskelbimas viešai gali turėti neigiamą įtaką valiutos keityklos operatoriaus patikimumui.
+17 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
-
-
 
 
 
@@ -734,43 +738,47 @@ POVEIKIO PRIEMONĖS
 18 straipsnis. Baudos
 
 
-1. Priežiūros institucija turi teisę valiutos keityklos operatoriui skirti šias baudas:
+1. Priežiūros institucija skiria baudas:
 
 
-1) už nustatytais terminais šiame įstatyme ar priežiūros institucijos teisės aktuose nustatytos arba pareikalautos informacijos ar dokumentų nepateikimą nustatytu terminu ar neteisingos informacijos pateikimą – iki 5 procentų bendrųjų metinių valiutos keitimo paslaugų pajamų;
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų; 
 
 
 
 
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 10 procentų bendrųjų metinių valiutos keitimo paslaugų pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 289 eurų;
-Straipsnio punkto pakeitimai:
-Nr. XII-1117, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13411
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų. 
+
+
+
+
+
+
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
+
+
+
+
+3. Jeigu dėl šio įstatymo 16 straipsnio 2 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio. 
+
+
+
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniam asmeniui skiria iki 100 000 eurų baudą.
+
+
+
+
+5. Šio įstatymo 16 straipsnio 2 dalies 4 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
+
+
+
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
-
-
-
-
-3) už valiutos keitimo paslaugų teikimą, jeigu tokia teisė apribota pagal šį įstatymą, – iki 20 procentų bendrųjų metinių valiutos keitimo paslaugų pajamų;
-
-
-
-
-4) už kitus valiutos keityklos operatoriaus veiklą reglamentuojančių teisės aktų pažeidimus – iki 10 procentų bendrųjų metinių valiutos keitimo paslaugų pajamų.
-
-
-
-
-
-
-2. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, jo trukmę, anksčiau taikytas poveikio priemones.
-
-
-
-
-3. Baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kai valiutos keityklos operatorius gavo priežiūros institucijos sprendimą skirti baudą. Jeigu bauda per nurodytą terminą, o priežiūros institucijos sprendimą apskundus teismui, – per 10 dienų nuo teismo sprendimo įsiteisėjimo nesumokama, bauda priežiūros institucijos sprendimu išieškoma ne ginčo tvarka (kai nėra valiutos keityklos operatoriaus, kuriam paskirta bauda, nurodymo nurašyti lėšas) iš valiutos keityklos operatoriaus, kuriam paskirta bauda, lėšų kredito įstaigose arba priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
- 
-
-
 
 
 
@@ -796,18 +804,10 @@ Nr. XII-1117, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13411
 
 
 
-20 straipsnis. Priežiūros institucijos sprendimų, veiksmų (neveikimo) apskundimas 
-
-
-1. Priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, kurių teisės ar įstatymų saugomi interesai gali būti pažeisti, turi teisę įstatymų nustatyta tvarka skųsti teismui.
-
-
-
-
-2. Skundo padavimas teismui iki jo išsprendimo nesustabdo skundžiamo priežiūros institucijos sprendimo, išskyrus sprendimą skirti šiame įstatyme nustatytas baudas, vykdymo. 
+20 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
  
-
-
 
 
 
@@ -893,3 +893,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1117, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13411
 Lietuvos Respublikos valiutos keityklos operatorių įstatymo Nr. XII-1033 18 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1248, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09916
+Lietuvos Respublikos valiutos keityklos operatorių įstatymo Nr. XII-1033 5, 6, 10, 11, 12, 13, 14, 16, 18 straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu ir 17, 20 straipsnių pripažinimo netekusiais galios įstatymas
