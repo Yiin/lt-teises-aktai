@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60391540ab3c11e6a6f98c1425a5ffa8"
 
 # Lietuvos Respublikos sutelktinio finansavimo įstatymas
 
-Suvestinė redakcija nuo 2017-07-13 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-07-20
  
 Įstatymas paskelbtas: TAR 2016-11-15, i. k. 2016-26828
  
@@ -67,9 +67,6 @@ BENDROSIOS NUOSTATOS
 11. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė narė.
 
 12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba yra vartojamos Lietuvos Respublikos finansų įstaigų, Lietuvos Respublikos finansinių priemonių rinkų (toliau – Finansinių priemonių rinkų įstatymas), Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės, Lietuvos Respublikos akcinių bendrovių (toliau – Akcinių bendrovių įstatymas), Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų, Lietuvos Respublikos valstybės informacinių išteklių valdymo, Lietuvos Respublikos vertybinių popierių (toliau – Vertybinių popierių įstatymas) ir Lietuvos Respublikos viešojo administravimo įstatymuose.
- 
- 
- 
  
 
 II SKYRIUS
@@ -127,7 +124,10 @@ SUTELKTINIO FINANSAVIMO PLATFORMOS OPERATORIAUS VEIKLA
 
 2. Asmuo, vykdantis arba siekiantis vykdyti sutelktinio finansavimo platformos operatoriaus veiklą Lietuvos Respublikoje, privalo turėti buveinę Lietuvos Respublikoje, išskyrus atvejus, kai pagal Lietuvos Respublikos įstatymus, reglamentuojančius finansinių paslaugų teikimą, kitose valstybėse narėse įsisteigę asmenys turi teisę tarpininkauti sudarant finansavimo sandorius neįregistravę buveinės Lietuvos Respublikoje arba įsteigę filialus Lietuvos Respublikoje.
 
-3. Kai sutelktinio finansavimo platformos operatoriaus vykdoma veikla atitinka Finansinių priemonių rinkų įstatymo 4 straipsnio 7 dalyje nustatytas finansų patarėjo įmonės veiklos sąlygas, sutelktinio finansavimo platformos operatoriaus veiklą ketinantis vykdyti juridinis asmuo atskirai neturi kreiptis į priežiūros instituciją dėl finansų patarėjo įmonės veiklos licencijos išdavimo pagal Finansinių priemonių rinkų įstatymą, jeigu Finansinių priemonių rinkų įstatymo 3 straipsnio 13 dalies 1 ir (arba) 5 punktuose nurodytos investicinės paslaugos susijusios su sutelktinio finansavimo sandoriais.  
+3. Kai sutelktinio finansavimo platformos operatoriaus vykdoma veikla atitinka Finansinių priemonių rinkų įstatymo nustatytas finansų patarėjo įmonės veiklos sąlygas, sutelktinio finansavimo platformos operatoriaus veiklą ketinantis vykdyti juridinis asmuo atskirai neturi kreiptis į priežiūros instituciją dėl finansų patarėjo įmonės veiklos licencijos išdavimo pagal Finansinių priemonių rinkų įstatymą, jeigu Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies 1 ir (arba) 5 punktuose nurodytos investicinės paslaugos susijusios su sutelktinio finansavimo sandoriais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
+ 
 
 4. Sutelktinio finansavimo platformos operatorius teikia sutelktinio finansavimo platformos operatoriaus paslaugas finansuotojui ir projekto savininkui, su kiekvienu iš jų sudaręs sutelktinio finansavimo platformos operatoriaus paslaugų teikimo sutartį.  
 
@@ -152,11 +152,22 @@ SUTELKTINIO FINANSAVIMO PLATFORMOS OPERATORIAUS VEIKLA
 
 3. Sutelktinio finansavimo platformos operatorius kiekvieniems finansiniams metams pasibaigus privalo apskaičiuoti nuosavo kapitalo poreikį. Nuosavo kapitalo poreikis lygus 0,2 procento per sutelktinio finansavimo platformą finansuotų ir finansuotojams dar negrąžintų sumų dydžio.
 
-4. Jeigu sutelktinio finansavimo platformos operatorius, turintis priežiūros institucijos išduotą licenciją teikti kitas finansines paslaugas, jas teikia ir savo prievoles užtikrina atitikdamas šio straipsnio 1 dalies 1 punkte nurodytą sąlygą, jo nuosavas kapitalas turi būti ne mažesnis už didesnį iš šių dydžių:
+4. Jeigu sutelktinio finansavimo platformos operatorius, turintis priežiūros institucijos išduotą licenciją teikti kitas finansines paslaugas, išskyrus šio straipsnio 41 dalyje nurodytą atvejį, jas teikia ir savo prievoles užtikrina atitikdamas šio straipsnio 1 dalies 1 punkte nurodytą sąlygą, jo nuosavas kapitalas, apskaičiuotas pagal kitas licencines finansines paslaugas reglamentuojančių teisės aktų reikalavimus, turi būti ne mažesnis už didesnį iš šių dydžių:
 
-1) šio straipsnio 2 dalyje nustatytą nuosavą kapitalą;
+1) 40 000 eurų;
 
-2) kapitalą, apskaičiuotą pagal kitas licencines finansines paslaugas reglamentuojančius teisės aktus.
+2) šio straipsnio 3 dalyje nustatyta tvarka apskaičiuotą nuosavo kapitalo poreikį;
+
+3) kapitalo reikalavimus, apskaičiuotus pagal kitas licencines finansines paslaugas reglamentuojančius teisės aktus. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
+ 
+
+41. Jeigu sutelktinio finansavimo platformos operatorius veikia ir pagal Mokėjimo įstaigų įstatymo ar Elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo nustatyta tvarka išduotą licenciją ir savo prievoles užtikrina atitikdamas šio straipsnio 1 dalies 1 punkte nurodytą sąlygą, jo nuosavas kapitalas turi būti ne mažesnis nei didesnė šio straipsnio 4 dalies 1 ir 3 punktuose arba 2 ir 3 punktuose nurodytų dydžių suma. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
+ 
 
 5. Priežiūros institucija nustato šiame straipsnyje nurodytų reikalavimų patvirtinimo dokumentų ir informacijos teikimo priežiūros institucijai tvarką.
 
@@ -165,13 +176,19 @@ SUTELKTINIO FINANSAVIMO PLATFORMOS OPERATORIAUS VEIKLA
 
 8 straipsnis. Reikalavimai sutelktinio finansavimo platformos operatoriaus dalyviams ir vadovams
 
-1. Sutelktinio finansavimo platformos operatoriaus vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį sutelktinio finansavimo platformos operatoriui, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
+1. Sutelktinio finansavimo platformos operatoriaus vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam tiesiogiai ar netiesiogiai priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, sutelktinio finansavimo platformos operatoriaus veiklai, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
 
-1) jis yra pripažintas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengimą, susijusį su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas nėra išnykęs arba nėra praėję 3 metai nuo teismo nuosprendžio, kuriuo asmuo yra pripažintas kaltu dėl nurodytų nusikalstamų veikų, įsiteisėjimo; 
+1) fizinis asmuo yra pripažintas kaltu padaręs sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
 
-2) jam už įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimų pažeidimą yra pritaikyta nuobauda arba poveikio priemonė ir daugiau kaip kartą per vienus metus nuo pirmos nuobaudos ar kitos įstatymuose nustatytos poveikio priemonės skyrimo taikyta administracinė nuobauda arba kita įstatymuose nustatyta poveikio priemonė;
+2) juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo;
 
-3) jis tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti lemiamą poveikį juridiniam asmeniui, yra ar buvo vadovu juridinio asmens, kuriam buvo pritaikyta poveikio priemonė, išskyrus įspėjimą, kai ši poveikio priemonė buvo skirta už įstatymų ar kitų teisės aktų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nuostatų pažeidimą ir už tai jis buvo baustas daugiau kaip kartą per metus arba kai už tokį pažeidimą jam buvo panaikinta teisė verstis finansinių paslaugų teikimu, arba tas asmuo buvo pripažintas kaltu dėl šios dalies 1 punkte nurodyto nusikaltimo arba baudžiamojo nusižengimo ir nėra praėję 3 metai nuo poveikio priemonės pritaikymo arba teismo nuosprendžio, kuriuo asmuo yra pripažintas kaltu dėl šios dalies 1 punkte nurodyto nusikaltimo arba baudžiamojo nusižengimo, įsiteisėjimo. 
+3) jam už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimą pritaikyta administracinė nuobauda arba kita įstatymuose nustatyta poveikio priemonė, jeigu nuo sprendimo taikyti administracinę nuobaudą arba kitą įstatymuose nustatytą poveikio priemonę įsigaliojimo dienos nepraėjo 3 metai;
+
+4) jis tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo panaikinta teisė verstis finansinių paslaugų teikimu arba už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą buvo pritaikyta kita poveikio priemonė, jeigu nepraėjo 3 metai nuo sprendimo taikyti poveikio priemonę įsigaliojimo dienos, arba tam juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
+ 
 
 2. Kartu veikiančiais asmenimis šiame straipsnyje laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šiame straipsnyje nurodytą sutelktinio finansavimo platformos operatoriaus įstatinio kapitalo ir (arba) balsavimo teisių dalį.
 
@@ -204,7 +221,10 @@ Sutelktinio finansavimo platformos operatorius privalo:
 
 7) parengti ir patvirtinti veiklos tęstinumo planą, kuriame būtų numatytos priemonės ir procedūros, skirtos užtikrinti, kad sutelktinio finansavimo platformos operatoriaus funkcijos būtų atliekamos nenutrūkstamai, įskaitant ir nenumatytų aplinkybių atvejus;
 
-8) saugoti su finansuotojais ir projekto savininku susijusius dokumentus, duomenis ir informaciją 10 metų nuo finansavimo sandorio sudarymo dienos, jeigu kiti teisės aktai nenustato ilgesnio dokumentų saugojimo termino; 
+8) saugoti duomenis, susijusius su šio įstatymo nuostatų įgyvendinimu, 10 metų nuo finansavimo sandorio sudarymo dienos, išskyrus atvejus, kai Pinigų plovimo ir teroristų finansavimo prevencijos įstatymas ir kiti teisės aktai nustato ilgesnius tokių duomenų saugojimo terminus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
+ 
 
 9) nustatyti prekybos finansuotojų įsigytomis finansinėmis priemonėmis ar kitomis reikalavimo teisėmis, kylančiomis iš finansavimo sandorių, kuriais finansuotojas suteikia ar įsipareigoja suteikti projekto savininkui sutelktinio finansavimo lėšas paskolos ar kita pinigine forma, sutelktinio finansavimo platformoje tvarką, jeigu sutelktinio finansavimo platformos operatorius ketina vykdyti antrinę jų apyvartą;
 
@@ -220,6 +240,16 @@ Sutelktinio finansavimo platformos operatorius privalo:
 1. Priežiūros institucija turi teisę tvarkyti asmens duomenis, tarp jų ir ypatingus asmens duomenis, susijusius su projektų savininkų finansiniais įsipareigojimais ir su šio įstatymo 8 straipsnio 1 dalyje nurodytų asmenų atitiktimi šio įstatymo 8 straipsnyje nurodytiems reikalavimams. Šie asmens duomenys tvarkomi siekiant užtikrinti veiksmingą kredito sistemos funkcionavimą ir priežiūros institucijos teisę gauti reikalingą informaciją priežiūros, politikos, susijusios su finansų sistemos stabilumu, pinigų politikos vykdymo funkcijoms atlikti ir statistikos tikslais, taip pat sudaryti priežiūros institucijai ir sutelktinio finansavimo platformų operatoriams sąlygas įvertinti sutelktinio finansavimo projektų savininkų patikimumą. Sutelktinio finansavimo platformų operatoriai privalo priežiūros institucijai teikti duomenis apie projektų savininkus ir turi teisę naudotis visų sutelktinio finansavimo platformų operatorių priežiūros institucijai pateiktais ir tvarkomais asmens duomenimis apie projektų savininkus laikydamiesi teisės aktų, reglamentuojančių asmens duomenų teisinę apsaugą. Priežiūros institucija detalizuoja šioje dalyje nurodytą ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme nustatytą asmens duomenų tvarkymo ir teikimo tvarką.
 
 2. Sutelktinio finansavimo platformos operatorius, siekdamas įvertinti projektų savininkų patikimumą, turi teisę gauti informaciją iš registrų, valstybės ir kitų informacinių sistemų tvarkytojų registrų ir informacinių sistemų asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka.
+ 
+
+101 straipsnis. Skundų nagrinėjimas 
+
+1. Sutelktinio finansavimo platformos operatorius privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su sutelktinio finansavimo platformos operatoriaus teikiamomis paslaugomis (toliau – skundai).
+
+2. Sutelktinio finansavimo platformos operatorius privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir sutelktinio finansavimo platformos operatorius. Išskirtiniais atvejais, kai dėl priežasčių, kurių sutelktinio finansavimo platformos operatorius negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Sutelktinio finansavimo platformos operatorius klientų skundus nagrinėja neatlygintinai. 
+
+Papildyta straipsniu:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
 IV SKYRIUS
@@ -402,102 +432,126 @@ SUTELKTINIO FINANSAVIMO PLATFORMŲ OPERATORIŲ VEIKLOS PRIEŽIŪRA
 
 19 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
-1. Priežiūros institucija: 
+1. Priežiūros institucija atlieka šias funkcijas: 
 
-1) įrašo sutelktinio finansavimo platformų operatorius į viešąjį sutelktinio finansavimo platformų operatorių sąrašą ir iš jo išbraukia;
+1) įrašo asmenis į viešąjį sutelktinio finansavimo platformų operatorių sąrašą ir iš jo išbraukia;
 
-2) analizuoja, tikrina ir prižiūri sutelktinio finansavimo platformų operatorių veiklą;
+2) stebi, analizuoja, tikrina ir kitaip prižiūri sutelktinio finansavimo platformų operatorių veiklą;
 
-3) turi teisę nurodyti per nustatytą terminą nutraukti sutelktinio finansavimo veiklai taikomų teisės aktų pažeidimą.
+3) atlieka kitas šiame ir kituose finansų rinką reglamentuojančiuose įstatymuose nustatytas funkcijas.
 
-2. Be šiame įstatyme nustatytų teisių ir pareigų, priežiūros institucija, atlikdama jai pavestas funkcijas, turi šio įstatymo 18 straipsnio 2 dalyje nurodytuose teisės aktuose nustatytas teises ir pareigas, taip pat teisę imtis kitų teisėtų priemonių, užtikrinančių, kad būtų nuolat laikomasi šiame įstatyme ir kituose sutelktinio finansavimo veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų.
+2. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų teisių ir pareigų, priežiūros institucija, atlikdama jai pavestas funkcijas, turi šio įstatymo 18 straipsnio 2 dalyje nurodytuose teisės aktuose nustatytas teises ir pareigas, taip pat teisę imtis kitų teisėtų priemonių, užtikrinančių, kad būtų nuolat laikomasi šiame įstatyme ir kituose sutelktinio finansavimo veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų.
+
+3. Priežiūros institucija, nustačiusi ar turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, sutelktinio finansavimo platformos operatoriaus veiklos trūkumus, taip pat jeigu kyla grėsmė visuomenės ir (arba) finansuotojų ir projekto savininkų interesams, Lietuvos banko įstatymo nustatyta tvarka sutelktinio finansavimo platformos operatoriui duoda šiuos privalomus nurodymus:
+
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
+
+2) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+3) laikinai, kol nepanaikintos poveikio priemonės pritaikymą lėmusios priežastys, uždrausti galimybę sudaryti naujus finansavimo sandorius sutelktinio finansavimo platformos operatoriaus administruojamoje sutelktinio finansavimo platformoje;
+
+4) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, negu nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+5) viešai atskleisti papildomą informaciją;
+
+6) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+4. Sutelktinio finansavimo platformos operatoriai privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
-20 straipsnis. Priežiūros institucijos teisė į informaciją ir gautos informacijos apsauga
+20 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
-1. Valstybės ir savivaldybių institucijos ir įstaigos, kiti fiziniai ir juridiniai asmenys priežiūros institucijos prašymu privalo pateikti jai dokumentus, duomenis ir informaciją, jų kopijas, taip pat konfidencialius dokumentus, duomenis ir informaciją, įskaitant asmens duomenis, reikalingus jos funkcijoms atlikti ir teisėms įgyvendinti. Dokumentų, duomenų ir informacijos, kuriems gauti pagal Finansinių priemonių rinkų įstatymą reikalingas teismo leidimas, gali būti prašoma tik Finansinių priemonių rinkų įstatyme nustatyta tvarka gavus teismo leidimą.
+Informacijos, kurią priežiūros institucija gauna priežiūros tikslu, apsaugai taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
 
-2. Priežiūros institucija turi teisę kreiptis į kitų Europos Sąjungos valstybių narių ar užsienio valstybių kompetentingas institucijas, finansų ir kapitalo rinkos priežiūros institucijas, už vartotojų teisių apsaugą atsakingas institucijas ar kitas institucijas, fizinius ir juridinius asmenis, kitas organizacijas ir jų padalinius su prašymu pateikti dokumentus, duomenis ir informaciją, reikalingus priežiūros funkcijoms atlikti ir teisėms įgyvendinti.  
-
-3. Priežiūros institucijos teisė perduoti konfidencialią informaciją ir pareiga jos neatskleisti Finansinių priemonių rinkų įstatyme nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šiame įstatyme nustatytas funkcijas. 
+Straipsnio pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
 21 straipsnis. Priežiūros institucijos atliekami patikrinimai
 
-1. Priežiūros institucija turi teisę organizuoti ir savo nustatyta tvarka atlikti sutelktinio finansavimo platformos operatoriaus veiklos patikrinimą. 
+1. Priežiūros institucija organizuoja ir atlieka sutelktinio finansavimo platformos operatoriaus veiklos patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai. 
 
-2. Atlikdami sutelktinio finansavimo platformos operatoriaus veiklos patikrinimą, priežiūros institucijos tarnautojai turi Finansinių priemonių rinkų įstatyme nustatytas teises. 
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami sutelktinio finansavimo platformos operatoriaus veiklos patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
 
-3. Priežiūros institucija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar jo įgyvendinamųjų teisės aktų nuostatos, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių finansuotojų interesams, gavusi teismo leidimą Finansinių priemonių rinkų įstatymo 81 straipsnio 4 dalyje nustatyta tvarka, turi teisę įpareigoti sutelktinio finansavimo platformos operatorių nutraukti veiklą, kuri gali pažeisti šio įstatymo ar jo įgyvendinamųjų teisės aktų nuostatas, kol bus atliktas tyrimas ir priimtas priežiūros institucijos sprendimas dėl įtariamo pažeidimo. 
- 
+Straipsnio pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
 22 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
 
-1. Priežiūros institucija turi teisę, jeigu yra šio įstatymo 23 straipsnyje nurodytų sutelktinio finansavimo veiklai taikomų teisės aktų pažeidimų, sutelktinio finansavimo platformų operatoriams taikyti šias poveikio priemones:
+Priežiūros institucija taiko asmenims šias poveikio priemones:
 
-1) įspėti dėl sutelktinio finansavimo veiklai taikomų teisės aktų pažeidimo;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
-2) skirti šiame įstatyme nustatytas pinigines baudas;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
-3) laikinai, kol nepanaikintos poveikio priemonės pritaikymą lėmusios priežastys, uždrausti teikti galimybę sudaryti naujus finansavimo sandorius sutelktinio finansavimo platformos operatoriaus administruojamoje sutelktinio finansavimo platformoje;
+3) skiria šiame įstatyme nustatytas pinigines baudas;
 
-4) išbraukti sutelktinio finansavimo platformos operatorių iš viešojo sutelktinio finansavimo platformų operatorių sąrašo.
+4) laikinai, kol nepanaikintos poveikio priemonės pritaikymą lėmusios priežastys, uždraudžia teikti galimybę sudaryti naujus finansavimo sandorius sutelktinio finansavimo platformos operatoriaus administruojamoje sutelktinio finansavimo platformoje;
 
-2. Šio straipsnio 1 dalyje nurodytos poveikio priemonės tais pačiais pagrindais gali būti taikomos ir sutelktinio finansavimo platformos operatoriaus veiklą vykdantiems juridiniams asmenims arba kitose valstybėse narėse įsteigtiems asmenims, neturintiems juridinio asmens statuso, neįrašytiems į viešąjį sutelktinio finansavimo platformų operatorių sąrašą.
+5) išbraukia asmenį iš viešojo sutelktinio finansavimo platformų operatorių sąrašo. 
 
-3. Priežiūros institucija poveikio priemones taiko šiame įstatyme ir Finansinių priemonių rinkų įstatyme nustatyta tvarka.
-
-4. Priežiūros institucijos sprendimas taikyti poveikio priemones gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo sutelktinio finansavimo veiklai taikomų teisės aktų pažeidimo padarymo dienos, o kai pažeidimas yra tęstinis ar trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.  
+Straipsnio pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
 23 straipsnis. Poveikio priemonės už sutelktinio finansavimo veiklai taikomų teisės aktų pažeidimus
 
-Poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių sutelktinio finansavimo veiklai taikomų teisės aktų pažeidimų:
+1. Poveikio priemonės taikomos esant bent vienam iš šių pagrindų:
 
 1) sutelktinio finansavimo platformos operatoriaus veiklą vykdo juridinis asmuo arba kitose valstybėse narėse įsteigtas asmuo, neturintis juridinio asmens statuso, neįrašytas į viešąjį sutelktinio finansavimo platformų operatorių sąrašą; 
 
-2) sutelktinio finansavimo platformos operatorius į viešąjį sutelktinio finansavimo platformų operatorių sąrašą įrašytas priežiūros institucijai pateikus neteisingą informaciją ar pasinaudojus kitomis neteisėtomis priemonėmis;
+2) sutelktinio finansavimo platformos operatorius į viešąjį sutelktinio finansavimo platformų operatorių sąrašą įrašytas priežiūros institucijai pateikus klaidingą informaciją ar pasinaudojus kitomis neteisėtomis priemonėmis;
 
-3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija;
+3) nustatytais terminais nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija;
 
-4) nebetenkinamos sąlygos, kurių laikantis sutelktinio finansavimo platformos operatorius buvo įrašytas į viešąjį sutelktinio finansavimo platformų operatorių sąrašą;
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 19 straipsnį duoti privalomi nurodymai;
 
-5) neteko galios;
-Straipsnio punkto pakeitimai:
-Nr. XIII-578, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12079
- 
+5) nebetenkinamos sąlygos, kurių laikantis sutelktinio finansavimo platformos operatorius buvo įrašytas į viešąjį sutelktinio finansavimo platformų operatorių sąrašą;
 
 6) trukdoma priežiūros institucijai ar jos įgaliotiems asmenims atlikti sutelktinio finansavimo platformų operatorių veiklos patikrinimus;
 
-7) padaromi kiti šio įstatymo pažeidimai.
+7) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
+
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
-24 straipsnis. Piniginės baudos 
+24 straipsnis. Baudos 
 
-Priežiūros institucija turi teisę skirti:
+1. Priežiūros institucija skiria baudas:
 
-1) už nustatytais terminais šiame įstatyme ir (arba) kituose teisės aktuose nustatytos ar priežiūros institucijos pareikalautos informacijos ar dokumentų nepateikimą arba neteisingos, neišsamios ar netikslios informacijos pateikimą – iki 15 000 eurų dydžio baudą; 
+1) juridiniams asmenims - iki 10 procentų praėjusių metų bendrųjų metinių pajamų;
 
-2) už trukdymą priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus –iki 25 000 eurų dydžio baudą; 
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų. 
 
-3) už šio įstatymo ir (arba) kituose sutelktinio finansavimo veiklai taikomuose teisės aktuose draudžiamų atlikti veiksmų ar veiklos vykdymą arba kitus šio įstatymo pažeidimus – iki 2 procentų bendrųjų metinių pajamų dydžio baudą. 
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
+
+3. Jeigu dėl šio įstatymo 23 straipsnio 1 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniam asmeniui iki 100 000 eurų baudą. 
+
+5. Šio įstatymo 23 straipsnio 1 dalies 4 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
-25 straipsnis. Viešas priežiūros institucijos sprendimų skelbimas 
-
-Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio sutelktinio finansavimo platformos operatoriaus arba sutelktinio finansavimo veiklą vykdančio asmens, neįrašyto į viešąjį sutelktinio finansavimo platformų operatorių sąrašą, tapatybę (juridinio asmens teisinę formą, pavadinimą, kodą; kitose valstybėse narėse įsteigto asmens, neturinčio juridinio asmens statuso, pavadinimą, kodą), skelbiama priežiūros institucijos interneto svetainėje nedelsiant, ne vėliau kaip per 3 darbo dienas nuo tada, kai priežiūros institucijos sprendimas šio įstatymo 26 straipsnio 1 dalyje nustatyta tvarka išsiunčiamas arba įteikiamas pasirašytinai asmeniui, kuriam poveikio priemonė buvo pritaikyta, ir šis sprendimas nėra apskųstas. Jeigu paskelbtas priežiūros institucijos sprendimas taikyti poveikio priemonę yra apskundžiamas, priežiūros institucijos interneto svetainėje pateikiama informacija apie pateiktus skundus dėl pritaikytų poveikio priemonių ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas padarytų neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padarytų neproporcingą žalą bet kokiems fiziniams ar juridiniams asmenims, tokios informacijos skelbimas atidedamas iki tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusio asmens tapatybę. Priežiūros institucija užtikrina, kad paskelbta informacija būtų prieinama 5 metus nuo jos paskelbimo dienos. Paskelbti asmens duomenys priežiūros institucijos interneto svetainėje paliekami tik tokį laikotarpį ir naudojant tokias organizacines ir technines priemones, kad nebūtų pažeisti asmens duomenų apsaugą reglamentuojantys teisės aktai.
+25 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
-26 straipsnis. Priežiūros institucijos sprendimų vykdymas ir sprendimų, veiksmų (neveikimo) apskundimas
-
-1. Priežiūros institucijos sprendimas taikyti poveikio priemonę per 3 darbo dienas nuo jo priėmimo dienos išsiunčiamas registruotu laišku arba įteikiamas pasirašytinai asmeniui, kuriam ši poveikio priemonė taikoma. 
-
-2. Priežiūros institucijos paskirta piniginė bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per 25 darbo dienas nuo dienos, kai asmuo gavo priežiūros institucijos sprendimą skirti baudą. Apskundus šį sprendimą, bauda turi būti sumokėta ne vėliau kaip per 25 darbo dienas nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. Priežiūros institucijos sprendimas dėl poveikio priemonės taikymo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. Priežiūros institucijos sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo įsigaliojimo dienos.
-
-3. Priežiūros institucijai priėmus sprendimą taikyti šio įstatymo 22 straipsnio 1 dalies 3 punkte nurodytą poveikio priemonę, ji pradedama taikyti kitą darbo dieną nuo sprendimo taikyti poveikio priemonę įteikimo asmeniui iki sprendime nurodyto termino, kuris gali būti apibrėžtas konkrečia data, laiko tarpu ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu).  
-
-4. Priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, kurių teisės arba įstatymų saugomi interesai pažeisti, turi teisę skųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatyme nustatyta tvarka.
+26 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
  
 
 27 straipsnis. Kreipimasis į ginčus nagrinėjančias institucijas
@@ -536,4 +590,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-578, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12079
 Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 23 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
+Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 6, 7, 8, 9, 19, 20, 21, 22, 23, 24 straipsnių pakeitimo, Įstatymo papildymo 10-1 straipsniu ir 25, 26 straipsnių pripažinimo netekusiais galios įstatymas
 
