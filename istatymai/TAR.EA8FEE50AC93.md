@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
+Suvestinė redakcija nuo 2018-06-15 iki 2018-12-31
+ 
+Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SU NEKILNOJAMUOJU TURTU SUSIJUSIO KREDITO
 ĮSTATYMAS
@@ -1759,24 +1766,27 @@ KREDITO DAVĖJŲ IR KREDITO TARPININKŲ VEIKLOS REIKALAVIMAI
 1. Vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, kredito davėjui, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
 
 
-1) fizinis asmuo yra pripažintas kaltu padaręs nusikalstamą veiką, susijusią su pinigų plovimu ar teroristų finansavimu, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 5 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų, įsiteisėjimo;
+1) fizinis asmuo yra pripažintas kaltu padaręs, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
 
 
 
 
-2) juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 5 metai nuo teismo nuosprendžio įsiteisėjimo;
+2) juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo;
 
 
 
 
-3) jam už įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimų pažeidimą pritaikyta administracinė nuobauda arba kita įstatymuose nustatyta poveikio priemonė, jeigu nuo administracinės nuobaudos arba kitos įstatymuose nustatytos poveikio priemonės pritaikymo nepraėjo vieni metai;
+3) jam už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimą pritaikyta administracinė nuobauda arba kita įstatymuose nustatyta poveikio priemonė, jeigu nuo sprendimo taikyti administracinę nuobaudą arba kitą įstatymuose nustatytą poveikio priemonę įsigaliojimo dienos nepraėjo 3 metai;
 
 
 
 
-4) jis tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo pritaikyta poveikio priemonė už įstatymuose numatytus šiurkščius įstatymų ar kitų teisės aktų, reglamentuojančių finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimų pažeidimus arba už tokį pažeidimą buvo panaikinta teisė verstis finansinių paslaugų teikimu, jeigu nepraėjo 5 metai nuo poveikio priemonės pritaikymo, arba tam juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 5 metai nuo teismo nuosprendžio įsiteisėjimo.
+4) jis tiesiogiai ar netiesiogiai valdo arba valdė kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį juridiniam asmeniui, arba yra ar buvo vadovu juridinio asmens, kuriam buvo panaikinta teisė verstis finansinių paslaugų teikimu arba už šiurkštų įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimą buvo pritaikyta kita poveikio priemonė, jeigu nepraėjo 3 metai nuo sprendimo taikyti poveikio priemonę įsigaliojimo dienos, arba tam juridiniam asmeniui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šios dalies 1 punkte nurodytas nusikalstamas veikas ir nepraėjo 3 metai nuo teismo nuosprendžio įsiteisėjimo. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+ 
 
 
 
@@ -1786,17 +1796,10 @@ KREDITO DAVĖJŲ IR KREDITO TARPININKŲ VEIKLOS REIKALAVIMAI
 
 
 
-3. Juridinio asmens vadovas ir valdymo organo nariai turi turėti žinių ir gebėjimų, užtikrinančių tinkamą šiame įstatyme nustatytų pareigų vykdymą. Juridinio asmens vadovas ir valdymo organo nariai turi atitikti šiuos žinių ir gebėjimų reikalavimus:
-
-
-1) juridinio asmens vadovas turi turėti aukštąjį išsilavinimą teisės, vadybos, verslo administravimo arba ekonomikos srityje ir ne mažesnę kaip 2 metų darbo patirtį, susijusią su kredito produktų kūrimu, platinimu arba tarpininkavimu ir (arba) vadovavimu šią veiklą vykdančiai finansų įstaigai bei turėti žinių apie kredito produktus, nekilnojamojo turto įsigijimą, garantijas, nekilnojamojo turto registravimo procedūrą, nekilnojamojo turto rinką, taip pat išmanyti teisės aktus, reglamentuojančius vartotojų teisių apsaugą, kredito gavėjų kreditingumo vertinimą;
-
-
-
-
-2) bent du valdymo organo nariai turi turėti aukštąjį išsilavinimą teisės, vadybos, verslo administravimo, ekonomikos srityse ir turėti ne mažesnę kaip vienų metų darbo patirtį, susijusią su kredito produktų kūrimu, platinimu arba tarpininkavimu bei turėti žinių apie kredito produktus, nekilnojamojo turto įsigijimą, įsipareigojimų pagal kredito sutartį įvykdymo užtikrinimo priemones, nekilnojamojo turto registravimo procedūrą, nekilnojamojo turto rinką, taip pat išmanyti teisės aktus, reglamentuojančius vartotojų teisių apsaugą, kredito gavėjų kreditingumo vertinimą.
-
-
+3. Juridinio asmens vadovas ir valdymo organo nariai turi turėti kvalifikaciją ir patirtį, užtikrinančią tinkamą šiame įstatyme nustatytų pareigų vykdymą. Juridinio asmens vadovo ir valdymo organo narių kvalifikacija ir patirtis vertinama atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Juridinio asmens vadovo ir valdymo organo narių kvalifikacijos ir darbo patirties reikalavimai vertinami priežiūros institucijos priimtų teisės aktų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+ 
 
 
 
@@ -2059,6 +2062,24 @@ KREDITO DAVĖJŲ IR KREDITO TARPININKŲ VEIKLOS REIKALAVIMAI
 
 
 
+361 straipsnis. Skundų nagrinėjimas 
+
+
+1. Kredito davėjai ir kredito tarpininkai privalo priežiūros institucijos nustatyta tvarka nagrinėti kredito gavėjų skundus (prašymus), susijusius su kredito davėjų ir kredito tarpininkų teikiamomis paslaugomis (toliau – skundai).
+
+
+
+
+2. Kredito davėjas ir kredito tarpininkas privalo išnagrinėti rašytinį kredito gavėjo skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė kredito gavėjas ir kredito davėjas arba kredito tarpininkas. Išskirtiniais atvejais, kai dėl priežasčių, kurių kredito davėjas arba kredito tarpininkas negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio kredito gavėjas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Kredito davėjas ir kredito tarpininkas skundus nagrinėja neatlygintinai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+ 
+
+
+
+
 
 
 VI SKYRIUS
@@ -2069,7 +2090,10 @@ TARPUSAVIO SKOLINIMO PLATFORMOS OPERATORIAUS VEIKLOS REIKALAVIMAI IR TARPUSAVIO 
 37 straipsnis. Reikalavimai tarpusavio skolinimo platformos operatoriui, jo vadovui ir dalyviui
 
 
-1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos šio įstatymo II, III, VI, VII skyrių, 16, 17, 18, 19, 21, 22, 23, 24, 27–36 straipsnių nuostatos, taikomos kredito davėjui.
+1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos šio įstatymo II, III, VI, VII skyrių, 16, 17, 18, 19, 21, 22, 23, 24, 27–361 straipsnių nuostatos, taikomos kredito davėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+ 
 
 
 
@@ -2408,7 +2432,6 @@ KREDITO TARPININKŲ VEIKLA KITOSE VALSTYBĖSE NARĖSE
 
 5. Kredito tarpininkas turi teisę steigti filialą kitoje valstybėje narėje arba vykdyti kredito tarpininko veiklą nesteigdamas filialo praėjus vienam mėnesiui nuo šio straipsnio 4 dalyje nurodyto pranešimo gavimo dienos. 
  
- 
 
 
 
@@ -2548,12 +2571,17 @@ PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ NARIŲ PRIEŽIŪ
 
 
 
-3. Priežiūros institucija turi teisę iš kitų valstybių narių priežiūros institucijų gautą informaciją perduoti kitiems fiziniams ar juridiniams asmenims tik turėdama išankstinį kitos valstybės narės priežiūros institucijos sutikimą perduoti suteiktą informaciją ir tik jame nurodytais tikslais, nebent informacijos perdavimas nesant tokio sutikimo ar kitais, negu nurodyti, tikslais būtų pateisinamas vadovaujantis Asmens duomenų teisinės apsaugos įstatymo nuostatomis – tokiu atveju priežiūros institucija nedelsdama apie tai praneša informaciją pateikusiai kitos valstybės narės priežiūros institucijai.
+3. Neteko galios nuo 2018-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+ 
 
 
 
 
-4. Iš kitų valstybių narių priežiūros institucijų gauti asmens duomenys gali būti perduodami kitiems fiziniams ar juridiniams asmenims tik laikantis Asmens duomenų teisinės apsaugos įstatymo reikalavimų.
+4. Neteko galios nuo 2018-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
 
 
@@ -2630,10 +2658,10 @@ KREDITO DAVĖJŲ, KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIMO PLATFORMOS OPERATO
  
 
 
-48 straipsnis. Priežiūros institucijos funkcijos
+48 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
 
-Priežiūros institucija atlieka šias funkcijas: 
+1. Priežiūros institucija atlieka šias funkcijas: 
 
 
 1) įrašo asmenis į viešąjį kredito davėjų sąrašą ir iš jo išbraukia;
@@ -2657,32 +2685,76 @@ Priežiūros institucija atlieka šias funkcijas:
 
 
 5) atlieka kitas šiame ir kituose įstatymuose, reglamentuojančiuose finansų rinkų veiklą, nustatytas funkcijas.
+
+
+
+
+
+
+2. Be kitų Lietuvos Respublikos Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę imtis kitų teisėtų priemonių, kad kredito davėjai, kredito tarpininkai ir tarpusavio skolinimo platformos operatoriai nuolat laikytųsi šiame įstatyme ir kituose su nekilnojamuoju turtu susijusio kredito teikimo veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų.
+
+
+
+
+3. Priežiūros institucija, nustačiusi ar turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, kredito davėjo, kredito tarpininko arba tarpusavio skolinimo platformos operatoriaus veiklos trūkumus, taip pat jeigu kyla grėsmė visuomenės ir (arba) kredito gavėjų interesams, Lietuvos banko įstatymo nustatyta tvarka kredito davėjui, kredito tarpininkui arba tarpusavio skolinimo platformos operatoriui duoda šiuos privalomus nurodymus:
+
+
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus;
+
+
+
+
+2) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+3) laikinai uždrausti kredito davėjui, kredito tarpininkui arba tarpusavio skolinimo platformos operatoriui sudaryti kredito sutartis; 
+
+
+
+
+4) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, nei nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+5) viešai atskleisti papildomą informaciją;
+
+
+
+
+6) nutraukti neteisingos, klaidinančios ar neaiškios kredito sutarties reklamos skleidimą ir (arba) prireikus patikslinti ir (arba) paneigti jau paskleistą kredito sutarties reklamą;
+
+
+
+
+7) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+
+
+
+
+
+4. Kredito davėjai, kredito tarpininkai ir tarpusavio skolinimo platformos operatoriai privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
 
 
 
 
+49 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 
+Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
 
 
-49 straipsnis. Priežiūros institucijos teisė į informaciją ir gautos informacijos apsauga
-
-
-1. Valstybės ir savivaldybių institucijos ir įstaigos, kiti fiziniai ir juridiniai asmenys priežiūros institucijos prašymu privalo pateikti jai informaciją, taip pat konfidencialią informaciją, duomenis, dokumentus, jų kopijas, reikalingus jos funkcijoms atlikti ir teisėms įgyvendinti. Tais atvejais, kai pagal Lietuvos Respublikos finansinių priemonių rinkų įstatymą šioje dalyje nurodytai informacijai gauti reikalingas teismo leidimas, tokia informacija gali būti gauta tik gavus teismo leidimą.
-
-
-
-
-2. Priežiūros institucija turi teisę kreiptis į kitų valstybių narių ar užsienio valstybių kompetentingas institucijas, finansų ir kapitalo rinkų priežiūros institucijas, už vartotojų teisių apsaugą atsakingas institucijas ar kitas institucijas, fizinius ir juridinius asmenis, kitas organizacijas ir jų padalinius su prašymu pateikti informaciją, reikalingą priežiūros funkcijoms atlikti ir teisėms įgyvendinti.
-
-
-
-
-3. Informacijos, kurią priežiūros institucija gauna priežiūros tikslu, apsaugai taikomos Lietuvos Respublikos Lietuvos banko įstatymo 19 straipsnio nuostatos.
+Straipsnio pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
-
-
 
 
 
@@ -2690,15 +2762,17 @@ Priežiūros institucija atlieka šias funkcijas:
 50 straipsnis. Priežiūros institucijos atliekami patikrinimai
 
 
-1. Priežiūros institucija organizuoja ir atlieka kredito davėjų, kredito tarpininkų ir tarpusavio skolinimo platformų operatorių veiklos patikrinimus (toliau – patikrinimas), kad nustatytų, ar laikomasi šio įstatymo reikalavimų. 
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai. 
 
 
 
 
-2. Patikrinimai atliekami priežiūros institucijos nustatyta tvarka. 
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
-
-
 
 
 
@@ -2706,45 +2780,42 @@ Priežiūros institucija atlieka šias funkcijas:
 51 straipsnis. Priežiūros institucijos taikomos poveikio priemonės
 
 
-Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims taikyti šias poveikio priemones:
+Priežiūros institucija taiko asmenims šias poveikio priemones:
 
 
-1) įspėti dėl šio įstatymo ir jo įgyvendinamųjų teisės aktų pažeidimo (toliau – teisės akto pažeidimas) ir nurodyti protingą, bet ne ilgesnį kaip 14 darbo dienų, terminą nutraukti teisės akto pažeidimą ir užtikrinti, kad jis nesikartotų;
-
-
-
-
-2) skirti šio įstatymo 53 straipsnyje nustatytas baudas;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-3) įpareigoti kredito davėją, kredito tarpininką arba tarpusavio skolinimo platformos operatorių pakeisti vadovą;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
 
 
-4) laikinai uždrausti kredito davėjui arba tarpusavio skolinimo platformos operatoriui sudaryti kredito sutartis;
+3) skiria šio įstatymo nustatytas pinigines baudas;
 
 
 
 
-5) išbraukti asmenį iš šio įstatymo 25, 28 ir 38 straipsniuose nurodytų viešųjų sąrašų;
+4) įpareigoja kredito davėją, kredito tarpininką arba tarpusavio skolinimo platformos operatorių pakeisti vadovą;
 
 
 
 
-6) uždrausti skleisti neteisingą, klaidinančią ar neaiškią kredito sutarties reklamą ir (arba) prireikus įpareigoti jau paskleistą kredito sutarties reklamą patikslinti ir (arba) paneigti;
+5) išbraukia asmenį iš šio įstatymo 25, 28 ir 38 straipsniuose nurodytų viešųjų sąrašų;
 
 
 
 
-7) kitoje valstybėje narėje įsteigtam kredito tarpininkui, veikiančiam Lietuvos Respublikoje, pažeidžiančiam šio įstatymo reikalavimus, uždrausti vykdyti kredito tarpininko veiklą Lietuvos Respublikoje.
+6) kitoje valstybėje narėje įsteigtam kredito tarpininkui, veikiančiam Lietuvos Respublikoje, pažeidžiančiam šio įstatymo reikalavimus, uždraudžia vykdyti kredito tarpininko veiklą Lietuvos Respublikoje. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
-
-
-
-
 
 
 
@@ -2752,10 +2823,10 @@ Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine 
 52 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka 
 
 
-1. Šiame įstatyme nustatytos poveikio priemonės taikomos fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims, kai yra bent vienas iš šių pagrindų:
+1. Šiame įstatyme nustatytos poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
 
 
-1) kredito davėjo, kredito tarpininko arba tarpusavio skolinimo platformos operatoriaus veikla vykdoma asmens, neįrašyto į šio įstatymo 25, 28, 29 arba 38 straipsnyje nurodytą viešąjį sąrašą; 
+1) kredito davėjo, kredito tarpininko arba tarpusavio skolinimo platformos operatoriaus veikla vykdoma asmens, neįrašyto į šio įstatymo 25, 28, 29 arba 38 straipsnyje nurodytą viešąjį sąrašą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas; 
 
 
 
@@ -2780,42 +2851,24 @@ Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine 
 
 
 
-6) padaromas kitas teisės akto pažeidimas.
+6) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 48 straipsnį duoti privalomi nurodymai;
+
+
+
+
+7) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
 
 
 
 
 
 
-2. Priežiūros institucija poveikio priemones taiko Finansinių priemonių rinkų įstatymo nustatyta tvarka.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
 
 
-
-
-3. Priežiūros institucija turi teisę taikyti vieną ar kelias poveikio priemones.
-
-
-
-
-4. Priežiūros institucijos sprendimas taikyti poveikio priemonę (priemones) įsigalioja kitą dieną po jo priėmimo dienos, jeigu priežiūros institucijos sprendime nenustatyta kitaip.
-
-
-
-
-5. Poveikio priemonės, kurios taikomos laikinai, galioja iki priežiūros institucijos sprendime taikyti poveikio priemonę (priemones) nurodyto termino. Šis terminas gali būti apibrėžtas konkrečia data, laikotarpiu ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros institucija priima sprendimą jas atšaukti anksčiau nustatyto termino, kai turi pagrindą manyti, kad priežiūros tikslas yra pasiektas iki priežiūros institucijos sprendime taikyti poveikio priemonę (priemones) nurodyto termino.
-
-
-
-
-6. Poveikio priemonė gali būti taikoma, jeigu praėjo ne daugiau kaip 3 metai nuo teisės akto pažeidimo padarymo dienos, o kai teisės akto pažeidimas yra tęstinis arba trunkamasis, – nuo paskutinių tęstinio teisės akto pažeidimo veiksmų atlikimo dienos arba trunkamojo teisės akto pažeidimo pasibaigimo dienos.
-
-
-
-
-7. Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas poveikio priemones, atsižvelgdama į Finansinių priemonių rinkų įstatymo 94 straipsnio 5 dalyje nurodytas aplinkybes ir, kai nėra atsakomybę sunkinančių aplinkybių, vadovaudamasi teisingumo ir protingumo kriterijais, gali netaikyti šio įstatymo 51 straipsnyje nurodytų poveikio priemonių, jeigu teisės akto pažeidimas yra mažareikšmis, nedarantis esminės žalos šio įstatymo ir (arba) jo įgyvendinamųjų teisės aktų saugomiems interesams, arba jeigu ji turi pagrindą manyti, kad priežiūros tikslas gali būti pasiektas ir kitomis priemonėmis, ne tik taikant poveikio priemones.
+Straipsnio pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
-
-
 
 
 
@@ -2823,20 +2876,15 @@ Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine 
 53 straipsnis. Baudos 
 
 
-1. Priežiūros institucija turi teisę skirti:
+1. Priežiūros institucija skiria baudas:
 
 
-1) už nustatytais terminais šiame įstatyme ir (arba) jo įgyvendinamuosiuose teisės aktuose nustatytos ar priežiūros institucijos pareikalautos informacijos, duomenų ar dokumentų nepateikimą arba neteisingos, neišsamios ar netikslios informacijos pateikimą – fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims – iki 15 000 eurų dydžio baudą; 
-
-
-
-
-2) už trukdymą priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus – fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, ir juridiniams asmenims – iki 25 000 eurų dydžio baudą; 
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų;
 
 
 
 
-3) už šio įstatymo draudžiamų atlikti veiksmų ar veiklos vykdymą arba už kitus, išskyrus šios dalies 1 ir 2 punktuose nurodytus, šio įstatymo pažeidimus – juridiniams asmenims iki 2 procentų bendrųjų metinių pajamų dydžio baudą, o fiziniams asmenims, kurie verčiasi ūkine komercine ar profesine veikla, – iki 50 000 eurų dydžio baudą.
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų.
 
 
 
@@ -2848,62 +2896,43 @@ Priežiūros institucija turi teisę fiziniams asmenims, kurie verčiasi ūkine 
 
 
 
-3. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 3 punkte nurodytos baudos skiria juridiniams asmenims baudą iki 80 000 eurų. 
+3. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniams asmenims baudą iki 100 000 eurų. 
 
 
 
 
-4. Jeigu dėl šio įstatymo 52 straipsnio 1 dalyje nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+4. Jeigu dėl šio įstatymo 52 straipsnio 1 dalyje nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 3 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+
+
+
+5. Šio įstatymo 52 straipsnio 1 dalies 6 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. 
+
+
+
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
 
 
 
 
-
-
-54 straipsnis. Priežiūros institucijos sprendimų, veiksmų (neveikimo) apskundimas ir viešas skelbimas
-
-
-1. Priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, manantys, kad buvo pažeistos jų teisės arba įstatymų saugomi interesai, turi teisę skųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-
-
-
-2. Skundo padavimas teismui iki teismo sprendimo dėl jo įsiteisėjimo dienos nesustabdo skundžiamo priežiūros institucijos sprendimo, išskyrus sprendimą skirti šiame įstatyme nustatytas baudas, arba priežiūros institucijos veiksmo vykdymo.
-
-
-
-
-3. Priežiūros institucijos sprendimas dėl poveikio priemonės (priemonių) taikymo ar netaikymo per 3 darbo dienas nuo jo priėmimo dienos paštu ar elektroninių ryšių priemonėmis išsiunčiamas asmeniui, dėl kurio veiksmų buvo svarstomas poveikio priemonės taikymo klausimas, arba jam įteikiamas pasirašytinai.
-
-
-
-
-4. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens pavadinimą, kai jis yra juridinis asmuo, arba vardą ir pavardę, kai jis yra fizinis asmuo, skelbiama priežiūros institucijos interneto svetainėje nedelsiant, bet ne vėliau kaip per 3 darbo dienas nuo tada, kai priežiūros institucijos sprendimas išsiunčiamas paštu ar elektroninių ryšių priemonėmis arba įteikiamas pasirašytinai asmeniui, kuriam poveikio priemonė buvo pritaikyta. Jeigu priežiūros institucijos sprendimas pritaikyti poveikio priemonę (priemones) yra apskundžiamas, priežiūros institucijos interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas padarytų neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padarytų neproporcingą žalą fiziniams ar juridiniams asmenims, tokia informacija neskelbiama tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant teisės akto pažeidimą padariusio asmens duomenų. Priežiūros institucija užtikrina, kad paskelbta informacija būtų prieinama 5 metus nuo jos paskelbimo dienos. Asmens duomenys priežiūros institucijos interneto svetainėje skelbiami tik tokį laikotarpį ir naudojant tokias organizacines ir technines priemones, kad nebūtų pažeistos Asmens duomenų teisinės apsaugos įstatymo nuostatos.
+54 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
 
 
 
 
-
-
-55 straipsnis. Priežiūros institucijos sprendimo vykdymas 
-
-
-1. Priežiūros institucijos sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 30 dienų nuo tos dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus priežiūros institucijos sprendimą dėl baudos skyrimo, priežiūros institucijos sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 30 dienų nuo teismo sprendimo įsiteisėjimo dienos.
-
-
-
-
-2. Priežiūros institucijai priėmus sprendimą taikyti šio įstatymo 51 straipsnio 4, 5, 6 ar 7 punkte nurodytą poveikio priemonę, ji pradedama taikyti kitą dieną nuo sprendimo taikyti poveikio priemonę įteikimo asmeniui.
-
-
-
-
-3. Priežiūros institucijos sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo įsigaliojimo dienos.
+55 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
  
-
-
 
 
 
@@ -3025,3 +3054,13 @@ priedas
 
 
 _________________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 31, 37, 45, 48, 49, 50, 51, 52, 53 straipsnių pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 54, 55 straipsnių pripažinimo netekusiais galios įstatymas
