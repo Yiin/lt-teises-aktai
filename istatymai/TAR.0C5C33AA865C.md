@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -158,7 +158,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis.
+20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
+ 
 
 
 
@@ -3904,3 +3907,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 28 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 straipsnio pakeitimo įstatymas
