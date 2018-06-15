@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2017-06-28 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
  
@@ -1552,7 +1552,10 @@ Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 6. Nereikalaujama, kad finansų maklerio įmonės patronuojančiosios įmonės balsavimo teisės, turimos pagal šio įstatymo 25 ir šį straipsnius, būtų skaičiuojamos kartu su finansų maklerio įmonės turimomis balsavimo teisėmis, kurios suteiktos klientams pagal Finansinių priemonių rinkų įstatymą valdomoms akcijoms, jeigu finansų maklerio įmonė:
 
 
-1) turi teisę teikti Finansinių priemonių rinkų įstatymo 3 straipsnio 13 dalies 4 punkte nustatytą finansinių priemonių portfelio valdymo paslaugą ir
+1) turi teisę teikti Finansinių priemonių rinkų įstatyme nustatytą finansinių priemonių portfelio valdymo paslaugą ir 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
+ 
 
 
 
@@ -2619,12 +2622,17 @@ PENKTASIS SKIRSNIS
 
 
 
-2. Priežiūros institucija šio straipsnio 1 dalyje nurodytas funkcijas atlieka vadovaudamasi šiuo įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir Finansinių priemonių rinkų įstatymu. Priežiūros institucija turi šiame įstatyme, Lietuvos Respublikos Lietuvos banko įstatyme ir Finansinių priemonių rinkų įstatyme nustatytas teises ir pareigas. 
+2. Priežiūros institucija šio straipsnio 1 dalyje nurodytas funkcijas atlieka vadovaudamasi Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Finansinių priemonių rinkų įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
+ 
 
 
 
 
-3. Priežiūros institucijos veiksmai ar neveikimas skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+3. Neteko galios nuo 2018-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
 
 
@@ -2638,49 +2646,39 @@ PENKTASIS SKIRSNIS
 1. Priežiūros institucija:
 
 
-1) tvirtina, keičia ir pripažįsta netekusiais galios jos kompetencijai priskirtus teisės aktus;
+1) tvirtina vertybinių popierių prospektus ir prospektų priedus;
 
 
 
 
-2) tvirtina vertybinių popierių prospektus ir prospektų priedus;
+2) tvirtina oficialių siūlymų cirkuliarus;
 
 
 
 
-3) tvirtina oficialių siūlymų cirkuliarus;
+3) tikrina, ar vykdant šio įstatymo reikalavimus emitentų apskaita tvarkoma ir finansinės ataskaitos ir (arba) konsoliduotosios finansinės ataskaitos sudaromos pagal taikomus buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimus;
 
 
 
 
-4) tikrina, ar vykdant šio įstatymo reikalavimus emitentų apskaita tvarkoma ir finansinės ataskaitos ir (arba) konsoliduotosios finansinės ataskaitos sudaromos pagal taikomus buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimus;
+4) prižiūri, kaip asmenys laikosi šio įstatymo ir šio įstatymo pagrindu priimtų priežiūros institucijos teisės aktų ir duotų privalomų vykdyti nurodymų dėl šio įstatymo laikymosi;
 
 
 
 
-5) prižiūri, kaip asmenys laikosi šio įstatymo ir šio įstatymo pagrindu priimtų priežiūros institucijos teisės aktų ir duotų privalomų vykdyti nurodymų dėl šio įstatymo laikymosi;
+5) pagal Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos vertybinių popierių ir rinkų institucija ir nedelsdama teikia jai visą jos užduotims vykdyti būtiną informaciją;
 
 
 
 
-6) taiko šio įstatymo 51 straipsnio 1 dalyje numatytas poveikio priemones; 
-
-
-
-
-7) bendradarbiauja su valstybių narių ir trečiųjų valstybių priežiūros institucijomis, keičiasi su jomis priežiūrai reikalinga informacija. Nagrinėdama tarpvalstybinius atvejus koordinuoja savo veiksmus su valstybių narių ir trečiųjų valstybių priežiūros institucijomis;
-
-
-
-
-8) pagal Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos vertybinių popierių ir rinkų institucija ir nedelsdama teikia jai visą jos užduotims vykdyti būtiną informaciją.
+6) atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas funkcijas.
 
 
 
 
 
 
-2. Priežiūros institucija, atlikdama jai pavestas funkcijas įgyvendinant šį įstatymą, turi teisę:
+2. Priežiūros institucija, be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta jos kompetencijai, nustatytų pareigų ir teisių, atlikdama jai pavestas funkcijas, turi teisę:
 
 
 1) reikalauti, kad asmenys paskelbtų šio įstatymo reikalaujamą skelbti informaciją, pateiktų kitus su šia informacija susijusius dokumentus. Jeigu asmenys vengia paskelbti informaciją, priežiūros institucija turi teisę pati ją paskelbti; 
@@ -2688,84 +2686,84 @@ PENKTASIS SKIRSNIS
 
 
 
-2) reikalauti iš asmenų pateikti bet kokią kitą jų turimą informaciją, o prireikus asmenis iškviesti ir reikalauti pateikti paaiškinimus;
+2) reikalauti ištaisyti pateiktą netikslią ar klaidinančią informaciją;
 
 
 
 
-3) reikalauti, kad emitentų auditoriai pateiktų informaciją, reikalingą priežiūros institucijos funkcijoms atlikti;
+3) sudaryti susitarimus su trečiųjų šalių priežiūros institucijomis dėl bendradarbiavimo ir keitimosi informacija;
 
 
 
 
-4) įpareigoti ištaisyti pateiktą netikslią ar klaidinančią informaciją, duoti kitus priežiūros institucijos kompetencijai priskirtus privalomus vykdyti nurodymus;
-
-
-
-
-5) motyvuotu sprendimu įpareigoti oficialaus siūlymo teikėją pasirinkti kitą turto vertintoją oficialaus siūlymo ar privalomo pirkimo ir pardavimo kainai nustatyti, jeigu yra pagrįstų įtarimų, kad turto vertintojo nustatyta oficialaus siūlymo ar privalomo pirkimo ir pardavimo kaina nėra teisinga;
-
-
-
-
-6) iki 10 darbo dienų sustabdyti vertybinių popierių viešą siūlymą ar įtraukimą į prekybą reguliuojamoje rinkoje, jeigu yra pagrįstų įtarimų, kad tai daroma nesilaikant reikalavimų ar prospekte nustatytų sąlygų;
-
-
-
-
-7) reikalauti sustabdyti arba nutraukti prekybą konkrečiais vertybiniais popieriais reguliuojamoje rinkoje ir daugiašalėje prekybos sistemoje;
-
-
-
-
-8) atlikti tyrimus ir patikrinimus vietoje;
-
-
-
-
-9) neatlygintinai gauti dokumentus, jų kopijas, kitus duomenis ir informaciją iš tikrinamų subjektų, taip pat dokumentus ir duomenis arba jų kopijas, susijusius su tikrinamu asmeniu, iš kitų ūkio subjektų, valstybės institucijų, registrų ar panašias funkcijas atliekančių subjektų;
-
-
-
-
-10) perduoti tyrimo metu surinktą medžiagą ir kitą informaciją teisėsaugos institucijoms;
-
-
-
-
-11) samdyti atitinkamų sričių specialistus, ekspertus (auditorius, buhalterius, teisininkus, informacinių technologijų specialistus ir kt.), kad šie pateiktų nuomonę, išvadą, įvertinimą ar atliktų reikiamos kvalifikacijos, žinių ar patirties reikalaujančius veiksmus;
-
-
-
-
-12) sudaryti susitarimus su trečiųjų valstybių priežiūros institucijomis dėl bendradarbiavimo ir keitimosi informacija;
-
-
-
-
-13) motyvuotu sprendimu kreiptis į Europos Komisiją dėl trečiosios valstybės rinkos teisinės ir priežiūros sistemos pripažinimo lygiaverte.
+4) motyvuotu sprendimu kreiptis į Europos Komisiją dėl trečiosios valstybės rinkos teisinės ir priežiūros sistemos pripažinimo lygiaverte.
 
 
 
 
 
 
-3. Priežiūros institucija privalo pateikti Europos Komisijai informaciją apie įgyvendintus oficialius siūlymus dėl vertybinių popierių, kuriais prekiaujama Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje.
+3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, emitentų veiklos trūkumus, taip pat jeigu kyla grėsmė emitentų ir (arba) investuotojų interesams arba su finansų rinka susijusių visuomeninių santykių teisėtumui, Lietuvos banko įstatymo nustatyta tvarka asmenims duoda šiuos privalomus nurodymus:
+
+
+1) oficialaus siūlymo teikėjui pasirinkti kitą turto vertintoją oficialaus siūlymo arba privalomo pirkimo ir pardavimo kainai nustatyti;
 
 
 
 
-4. Šio straipsnio 2 dalies 3 punkte nurodyto priežiūros institucijos reikalavimo vykdymas nelaikomas draudimo atskleisti konfidencialią informaciją pažeidimu ir todėl neturi neigiamų pasekmių auditoriams.
+2) iki 10 darbo dienų sustabdyti vertybinių popierių viešą siūlymą arba įtraukimą į prekybą reguliuojamoje rinkoje;
 
 
 
 
-5. Priežiūros institucija informuoja Europos vertybinių popierių ir rinkų instituciją apie susitarimus, sudarytus pagal šio straipsnio 2 dalies 12 punktą.
+3) įpareigoti reguliuojamos rinkos operatorių iki 10 darbo dienų sustabdyti prekybą konkrečiais vertybiniais popieriais; 
 
 
 
 
-6. Šio straipsnio 2 dalies 13 punkte nustatytame kreipimesi į Europos Komisiją priežiūros institucija pateikia informaciją, kuria pagrindžiama priežiūros institucijos nuomonė dėl trečiosios valstybės rinkos teisinės ir priežiūros sistemos atitikties bent šioms teisinės ir priežiūros sistemos pripažinimo lygiaverte sąlygoms:
+4) nutraukti vertybinių popierių viešą siūlymą;
+
+
+
+
+5) nutraukti prekybą reguliuojamoje rinkoje arba kitoje prekybos vietoje;
+
+
+
+
+6) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, nei nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+7) atkurti prieš pažeidžiant teisės aktus buvusią padėtį;
+
+
+
+
+8) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai arba veiklos trūkumai.
+
+
+
+
+
+
+4. Asmenys privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. 
+
+
+
+
+5. Priežiūros institucija privalo pateikti Europos Komisijai informaciją apie įgyvendintus oficialius siūlymus dėl vertybinių popierių, kuriais prekiaujama Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje.
+
+
+
+
+6. Priežiūros institucija informuoja Europos vertybinių popierių ir rinkų instituciją apie susitarimus, sudarytus pagal šio straipsnio 2 dalies 3 punktą.
+
+
+
+
+7. Šio straipsnio 2 dalies 4 punkte nustatytame kreipimesi į Europos Komisiją priežiūros institucija pateikia informaciją, kuria pagrindžiama priežiūros institucijos nuomonė dėl trečiosios valstybės rinkos teisinės ir priežiūros sistemos atitikties bent šioms teisinės ir priežiūros sistemos pripažinimo lygiaverte sąlygoms:
 
 
 1) rinka yra licencijuojama;
@@ -2773,7 +2771,7 @@ PENKTASIS SKIRSNIS
 
 
 
-2) rinkai nuolat veiksmingai taikoma priežiūra ir užtikrinamas veiksmingų poveikio priemonių taikymas;
+2) rinkai nuolat veiksmingai taikoma priežiūra ir užtikrinamas efektyvių poveikio priemonių taikymas;
 
 
 
@@ -2783,38 +2781,27 @@ PENKTASIS SKIRSNIS
 
 
 
-4) vertybinių popierių emitentams taikomi reikalavimai teikti informaciją, kuria užtikrinama tinkama investuotojų apsauga; rinkos skaidrumas ir vientisumas užtikrinamas užkertant kelią piktnaudžiavimui rinka prekiaujant vertybiniais popieriais, pasinaudojant viešai neatskleista informacija ir manipuliuojant rinka.
+4) vertybinių popierių emitentams taikomi reikalavimai teikti informaciją, kuria užtikrinama tinkama investuotojų apsauga; rinkos skaidrumas ir vientisumas užtikrinamas užkertant kelią piktnaudžiavimui rinka prekiaujant vertybiniais popieriais, pasinaudojant viešai neatskleista informacija ir manipuliuojant rinka. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
 
 
 
 
+48 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 
+Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
 
 
-48 straipsnis. Priežiūros institucijos valdybos narių ir tarnautojų pareiga saugoti konfidencialią informaciją
-
-
-1. Priežiūros institucijos valdybos nariai ir tarnautojai privalo Finansinių priemonių rinkų įstatymo 73 straipsnyje nustatyta tvarka saugoti konfidencialią informaciją, kurią jie sužinojo atlikdami šio įstatymo nustatytas funkcijas. Konfidencialios informacijos turinį detalizuoja priežiūros institucija. 
-
-
-
-
-2. Priežiūros institucijos teisė perduoti konfidencialią informaciją Finansinių priemonių rinkų įstatymo 76, 77, 78 straipsniuose nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šio įstatymo nustatytas funkcijas.
-
-
-
-
-3. Šio straipsnio 1 dalies nuostatos nekliudo priežiūros institucijai perduoti konfidencialios informacijos Europos vertybinių popierių ir rinkų institucijai arba Europos sisteminės rizikos valdybai, atsižvelgiant į apribojimus, susijusius su konkrečios įmonės informacija ir poveikiu trečiosioms valstybėms, kaip atitinkamai numatyta Reglamente (ES) Nr. 1095/2010 ir Reglamente (ES) Nr. 1092/2010.
-
-
-
-
-4. Jeigu priežiūros tikslui gautą informaciją sudaro asmens duomenys, priežiūros institucija ir kiti asmenys, kuriems tokia informacija perduota, juos tvarko asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
-
-
 
 
 
@@ -2835,214 +2822,169 @@ PENKTASIS SKIRSNIS
 
 
 
-50 straipsnis. Priežiūros institucijos teisė atlikti patikrinimus
+50 straipsnis. Priežiūros institucijos rengiami patikrinimai
 
 
-1. Priežiūros institucija, siekdama nustatyti, kaip laikomasi šio įstatymo, jo pagrindu priimtų ir su juo susijusių teisės aktų, turi teisę organizuoti ir atlikti patikrinimus.
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
 
 
 
-2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Finansinių priemonių rinkų įstatymo 81 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti priežiūros institucija gali pasitelkti policijos pareigūnų.
+2. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Finansinių priemonių rinkų įstatyme, Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
 
 
 
 
+51 straipsnis. Poveikio priemonės, jų taikymo pagrindai ir tvarka
 
 
-51 straipsnis. Atsakomybė už teisės aktų pažeidimus 
-Pakeistas straipsnio pavadinimas:
-Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
- 
+1. Priežiūros institucija taiko šias poveikio priemones:
 
 
-1. Poveikio priemonės Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatyta tvarka taikomos už šio įstatymo ar jo pagrindu priimtų teisės aktų ir (arba) 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (toliau – Reglamentas (EB) Nr. 1060/2009) nustatytų reikalavimų arba Lietuvos Respublikos akcinių bendrovių įstatyme ar šio įstatymo pagrindu priimtuose teisės aktuose viešam vertybinių popierių siūlymui nustatytų sąlygų ir reikalavimų ir (arba) priežiūros institucijos duotų privalomų vykdyti nurodymų nesilaikymą:
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį, taip pat apie savo įsipareigojimų nevykdantį emitentą;
 
 
-1) paskelbimas asmens (tarp jų ir emitento), nurodant jo padarytą pažeidimą; 
 
 
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
-2) įspėjimas;
 
 
+3) skiria šio įstatymo nustatytas pinigines baudas.
 
 
-3) piniginė bauda.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
- 
 
 
+2. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų:
 
 
-2. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo priima, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o kai pažeidimas tęstinis ar trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos.
+1) organizuojamas ar įgyvendinamas vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje, jeigu prieš tai nebuvo patvirtintas ir (arba) paskelbtas prospektas arba prospektas yra negaliojantis, taip pat jeigu šių vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje yra uždrausti arba sustabdyti;
 
 
 
 
-3. Priežiūros institucija, priimdama sprendimą taikyti vieną ar kelias poveikio priemones, parinkdama konkrečią poveikio priemonę ar priemones ir jos ar jų dydį, įvertina nustatytų pažeidimų sunkumą ir trukmę, asmens, kuriam taikoma poveikio priemonė, kaltę, finansinį pajėgumą, ankstesnius pažeidimus ir jam taikytas poveikio priemones, bendradarbiavimą su priežiūros institucija, dėl pažeidimų gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydį, jeigu jį įmanoma nustatyti, nustatytų pažeidimų ir numatomos taikyti poveikio priemonės ar priemonių pasekmes finansų rinkos stabilumui ir patikimumui.
+2) prospekte pateikiama ne visa, neišsami arba klaidinanti informacija;
 
 
 
 
-4. Priežiūros institucija, vertindama šio straipsnio 3 dalyje nurodytas aplinkybes ir kai nėra Finansinių priemonių rinkų įstatymo 94 straipsnyje nustatytų atsakomybę sunkinančių aplinkybių, vadovaudamasi teisingumo ir protingumo kriterijais, gali netaikyti poveikio priemonės ar priemonių, jeigu tenkinami visi šie reikalavimai:
+3) nesilaikoma prospekte nustatytos vertybinių popierių viešo siūlymo arba įtraukimo į prekybą reguliuojamoje rinkoje tvarkos;
 
 
-1) juridinis asmuo įrodo, kad dėjo visas įmanomas pastangas, kad išvengtų pažeidimo;
 
 
+4) nesilaikoma reikalavimo pateikti privalomą oficialų siūlymą supirkti likusias balsavimo teisę suteikiančias bendrovės akcijas;
 
 
-2) juridinis asmuo nedelsdamas savo noru užkerta kelią neigiamoms pažeidimo pasekmėms;
 
 
+5) nustatytais terminais ir nustatyta tvarka nepaskelbiama ir (arba) nepateikiama šio įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta arba priežiūros institucijos pareikalauta informacija arba paskelbiama ir (arba) pateikiama neišsami, neteisinga arba netiksli informacija;
 
 
-3) pažeidimas yra mažareikšmis, nedarantis esminės žalos finansų rinką reglamentuojančių teisės aktų saugomiems interesams.
 
 
+6) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 47 straipsnį duoti privalomi nurodymai;
 
 
 
 
-5. Kai poveikio priemonė taikoma juridiniam asmeniui, priežiūros institucija turi teisę taikyti poveikio priemones ir juridinio asmens vadovams ar kitiems už pažeidimą atsakingiems asmenims.
+7) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai;
 
 
 
 
-6. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę, skelbiama priežiūros institucijos interneto svetainėje nedelsiant po to, kai apie sprendimą taikyti poveikio priemonę raštu informuojamas asmuo, kuriam ji pritaikyta, bet ne vėliau kaip per 3 dienas. Jeigu sprendimas taikyti poveikio priemonę yra apskundžiamas, priežiūros institucijos interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas padarytų neigiamos įtakos Lietuvos Respublikos finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui ar padarytų neproporcingos žalos fiziniams ar juridiniams asmenims, tokios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį. Priežiūros institucija užtikrina, kad paskelbta informacija būtų prieinama 5 metus nuo jos paskelbimo. Į paskelbtą informaciją įtraukti asmens duomenys priežiūros institucijos interneto svetainėje paliekami tik tokį laikotarpį, kuris būtinas vadovaujantis asmens duomenų apsaugos reikalavimais.
- 
+8) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
 
 
 
 
+9) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai.
 
 
-52 straipsnis. Piniginės baudos dydis 
 
 
-1. Priežiūros institucija turi teisę skirti tokio dydžio pinigines baudas:
 
 
-1) emitentams, kurie laiku neįvykdė jiems taikomų reikalavimų pagal šio įstatymo 21, 22, 23, 29 ir 32 straipsnius, asmenims, kurie laiku nepranešė apie balso teisių įgijimą ar praradimą šio įstatymo 25, 26, 27 ir 28 straipsniuose nustatyta tvarka, – iki 10 000 000 eurų arba iki 5 procentų paskutinių finansinių metų pajamų, jeigu tai juridiniai asmenys; 
+3. Priežiūros institucijos sprendimas taikyti poveikio priemonę gali būti priimtas, jeigu praėjo ne daugiau kaip 5 metai nuo pažeidimo padarymo (esant trunkamam pažeidimui, – nuo pažeidimo pabaigimo) dienos. Priežiūros institucijai pradėjus patikrinimą dėl galimo finansų rinką reglamentuojančio teisės akto pažeidimo ir apie tai raštu pranešus asmeniui, kuris įtariamas pažeidimo padarymu, nuo tokio pranešimo įteikimo dienos šioje dalyje nustatytas senaties terminas nutraukiamas, tačiau ir tokiu atveju priežiūros institucijos sprendimas taikyti poveikio priemonę negali būti priimtas, jeigu praėjo daugiau kaip 10 metų nuo pažeidimo padarymo (esant trunkamam pažeidimui, – nuo pažeidimo pabaigimo) dienos.
 
 
 
 
-2) emitentams, kurie laiku neįvykdė jiems taikomų reikalavimų pagal šio įstatymo 21, 22, 23, 29 ir 32 straipsnius, asmenims, kurie laiku nepranešė apie balso teisių įgijimą ar praradimą šio įstatymo 25, 26, 27 ir 28 straipsniuose nustatyta tvarka, – iki 2 000 000 eurų, jeigu tai fiziniai asmenys; 
+4.  Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
 
 
-
-
-3) asmenims, organizuojantiems ar įgyvendinantiems vertybinių popierių viešą siūlymą arba prekybą reguliuojamoje rinkoje, jeigu prieš tai nebuvo patvirtintas ir (arba) paskelbtas prospektas arba šių vertybinių popierių viešas siūlymas ar prekyba reguliuojamoje rinkoje yra uždrausti, sustabdyti arba neatitinka šiame įstatyme, Lietuvos Respublikos akcinių bendrovių įstatyme ar šių įstatymų pagrindu priimtuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų, – iki viešai siūlytų ar į prekybą reguliuojamoje rinkoje įtrauktų vertybinių popierių bendros nominaliosios vertės dydžio;
-Straipsnio punkto pakeitimai:
-Nr. XII-2445, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17713
+Straipsnio pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
 
 
 
 
-4) asmenims, atsakingiems už prospekte pateiktos informacijos teisingumą ir išsamumą, prospekte pateikusiems ne visą, neišsamią ar klaidinančią informaciją ir taip nesilaikantiems šio įstatymo 6 straipsnyje nustatytų reikalavimų, – iki 28 962 eurų;
+52 straipsnis. Baudos 
+
+
+1. Priežiūros institucija skiria baudas:
+
+
+1) juridiniams asmenims, kai netaikoma šio straipsnio 2 dalis, – iki 10 milijonų eurų arba iki 5 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
 
 
 
 
-5) juridiniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 17 straipsnyje nustatytų reikalavimų, – iki 2 500 000 eurų arba 2 procentų juridinio asmens bendrųjų metinių pajamų. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės praėjusių metų konsoliduotojoje finansinėje ataskaitoje;
-Straipsnio punkto pakeitimai:
-Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims, kai netaikoma šio straipsnio 2 dalis, – iki 2 milijonų eurų. 
+
+
+
+
+
+
+2. Už Reglamento (ES) Nr. 596/2014 17 straipsnio pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 596/2014 30 straipsnyje.
+
+
+
+
+3. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos piniginės baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
+
+
+
+
+4. Jeigu dėl šio įstatymo 51 straipsnio 2 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalyje nurodytų baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio.
+
+
+
+
+5. Jeigu dėl Reglamento (ES) Nr. 596/2014 17 straipsnio pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo Reglamento (ES) Nr. 596/2014 30 straipsnyje nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+
+
+
+6. Šio įstatymo 51 straipsnio 2 dalies 6 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo arba netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
+
+
+
+
+7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
 
 
 
 
-51) fiziniams asmenims, nesilaikantiems Reglamento (ES) Nr. 596/2014 17 straipsnyje nustatytų reikalavimų, – iki 1 000 000 eurų; 
-Papildyta straipsnio punktu:
-Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
+53 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
  
-
-
-
-
-6) asmenims, nesilaikantiems šio įstatymo 36 straipsnyje nustatyto reikalavimo pateikti privalomą oficialų siūlymą supirkti likusias balsavimo teisę suteikiančias bendrovės akcijas, – iki 144 810 eurų; asmenims, nesilaikantiems kitų šio įstatymo 36 straipsnyje nustatytų reikalavimų, – iki 28 962 eurų;
-
-
-
-
-7) asmenims, šio įstatymo 42 straipsnyje nustatyta tvarka pareikalavusiems, kad visi kiti emitento akcininkai parduotų jiems priklausančias akcijas, bet nustatytais terminais neatsiskaičiusiems su jais arba nevykdantiems prievolės kuriam nors akcininkui pareikalavus išpirkti jam priklausančias akcijas, – iki 28 962 eurų;
-
-
-
-
-8) asmenims, nesilaikantiems šio įstatymo 12, 17, 24, 35, 38, 40, 41 straipsniuose nustatytų reikalavimų, – iki 28 962 eurų;
-
-
-
-
-9) asmenims, nesilaikantiems šio įstatymo 11, 16, 30, 31 straipsniuose nustatytų reikalavimų, – iki 14 481 euro; 
-
-
-
-
-10) asmenims, nevykdantiems priežiūros institucijos nurodymų, neteikiantiems priežiūros institucijai šiame ir kituose įstatymuose nurodytos informacijos arba trukdantiems priežiūros institucijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 28 962 eurų;
-
-
-
-
-11) asmenims, nesilaikantiems kitų, negu įvardyti šios dalies 1–10 dalyse, šio įstatymo ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – iki 28 962 eurų; 
-
-
-
-
-12) asmenims, nesilaikantiems Reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, – iki 57 924 eurų.
-
-
-
-
-
-
-2. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos piniginės baudos dydis pagal šio straipsnio 1 dalies 1 punktą, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės praėjusių metų konsoliduotoje finansinėje ataskaitoje.
-
-
-
-
-3. Jeigu dėl šio straipsnio 1 dalies 1 ar 2 punkte nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos ar išvengta nuostolių ir tokių pajamų, kitokios turtinės naudos ar išvengtų nuostolių dydis, jeigu jį įmanoma nustatyti, viršijo pusę šio straipsnio 1 dalies 1 ar 2 punkte nurodytų baudų dydžių, priežiūros institucija turi teisę skirti piniginę baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos ar išvengtų nuostolių dydžio.
-
-
-
-
-31. Jeigu dėl Reglamento (ES) Nr. 596/2014 17 straipsnio pažeidimo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalies 5 ir 51 punktuose nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
-Papildyta straipsnio dalimi:
-Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
- 
-
-
-
-
-4. Kai šio straipsnio 1 dalies 1 punkte nurodytas pažeidimas padarytas juridinio asmens arba šio straipsnio 1 dalies 2 punkte nurodytas pažeidimas padarytas fizinio asmens, priežiūros institucija privalo skirti didesnę iš šių punktų nuostatose ir šio straipsnio 3 dalyje nurodytų baudų. 
- 
-
-
-
-
-
-
-53 straipsnis. Priežiūros institucijos sprendimų vykdymo tvarka
-
-
-1. Asmuo, gavęs priežiūros institucijos sprendimą dėl piniginės baudos, ją sumoka ne vėliau kaip per vieną mėnesį nuo sprendimo gavimo dienos. 
-
-
-
-
-2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas dėl piniginės baudos pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka.
- 
-
-
 
 
 
@@ -3259,3 +3201,8 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 51 ir 52 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 24, 33, 43, 52, 54 straipsnių ir priedo pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 26, 46, 47, 48, 50, 51, 52 straipsnių pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
