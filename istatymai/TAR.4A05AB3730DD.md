@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-03-01 iki 2018-06-14
+Suvestinė redakcija nuo 2018-06-15 iki 2018-07-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -1129,7 +1129,10 @@ MOKĖJIMO ĮSTAIGŲ PRIEŽIŪRA
 
 
 
-2. Priežiūra atliekama vadovaujantis šiuo įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu, Finansų įstaigų įstatymu ir priežiūros institucijos priimtais teisės aktais.
+2. Priežiūra atliekama vadovaujantis Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu, Finansų įstaigų įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
+ 
 
 
 
@@ -1147,33 +1150,10 @@ MOKĖJIMO ĮSTAIGŲ PRIEŽIŪRA
 
 
 
-22 straipsnis. Prašymų dėl licencijos išdavimo ar dėl kitų veiksmų atlikimo nagrinėjimas ir priežiūros institucijos sprendimai
-
-
-1. Detalias prašymų išduoti šiame įstatyme nustatytas licencijas ar atlikti kitus veiksmus, nustatytus šio įstatymo 5, 6, 8, 9, 16, 35 ir kituose šio įstatymo straipsniuose (toliau šiame straipsnyje – išduoti leidimą), pateikimo, nagrinėjimo ir jų išdavimo sąlygas, tvarką ir detalius pateikiamų dokumentų reikalavimus nustato priežiūros institucijos priimti teisės aktai.
-
-
-
-
-2. Prašymas išduoti leidimą išnagrinėjamas ir sprendimas priimamas per šiame įstatyme ar, jei šiame įstatyme terminai nenustatyti, per priežiūros institucijos priimtuose teisės aktuose nustatytus terminus. Jeigu pateikti dokumentai turi formos ar turinio trūkumų arba pateikti ne visi dokumentai, reikalingi sprendimui priimti, priežiūros institucija pareikalauja pašalinti trūkumus ir (ar) pateikti trūkstamus dokumentus. Be to, priežiūros institucija turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingos sprendimui priimti. Jeigu priežiūros institucija pareikalauja papildomų dokumentų ir informacijos arba papildomus dokumentus ar informaciją pateikia pats pareiškėjas, prašymo nagrinėjimo ir sprendimo priėmimo terminas skaičiuojamas nuo papildomai pareikalautų ar papildomai pareiškėjo pateiktų dokumentų ir informacijos gavimo dienos.
-
-
-
-
-3. Priežiūros institucija turi teisę atsisakyti išduoti leidimą, jei yra pakankamas pagrindas manyti, kad išdavus leidimą bus pažeidžiami mokėjimo paslaugų vartotojų turtiniai interesai arba kils pavojus mokėjimo įstaigos ar visos mokėjimo įstaigų sistemos stabilumui ir patikimumui, taip pat jei yra kitų įstatymuose nustatytų pagrindų.
-
-
-
-
-4. Apie priimtą sprendimą dėl leidimo išdavimo priežiūros institucija ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos praneša prašymą pateikusiam asmeniui. Priežiūros institucijos atsisakymas išduoti leidimą turi būti motyvuotas.
-
-
-
-
-5. Priežiūros institucijos prašymu valstybės ir savivaldybių institucijos, taip pat asmenys privalo nedelsdami priežiūros institucijai pateikti turimą informaciją apie mokėjimo įstaigos steigėjus, akcininkus, vadovus, jų finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas ir kitą informaciją, kuri priežiūros institucijai reikalinga priimant sprendimą dėl leidimo mokėjimo įstaigai išdavimo.
+22 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
-
-
 
 
 
@@ -1181,10 +1161,12 @@ MOKĖJIMO ĮSTAIGŲ PRIEŽIŪRA
 23 straipsnis. Priežiūros tikslais gautos informacijos apsauga
 
 
-Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis mutandis taikomos Bankų įstatymo 65 straipsnio nuostatos.
+Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
-
-
 
 
 
@@ -1192,55 +1174,35 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 24 straipsnis. Priežiūros institucijos pareigos ir teisės
 
 
-1. Be kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
+1. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija turi teisę:
 
 
-1) leisti teisės aktus ir rekomendacijas dėl prižiūrimų mokėjimo įstaigų veiklos ir priežiūros;
-
-
-
-
-2) priežiūros tikslais pareikalauti iš prižiūrimos mokėjimo įstaigos visos informacijos ir dokumentų, susijusių su mokėjimo įstaigos steigimu, akcininkais, vadovais, valdymu, veikla, rizikos ribojimu, finansine būkle, jos filialais, tarpininkais ir kitais asmenimis, kuriems perduodamas veiklos vykdymas, skolininkais, ir juos gauti;
+1) jeigu mokėjimo įstaigos organų priimti sprendimai kelia pavojų mokėjimo įstaigos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad jie būtų pripažinti negaliojančiais;
 
 
 
 
-3) atlikti mokėjimo įstaigos, jos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos vykdymas, įskaitant filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos vykdymas, kitoje valstybėje narėje, inspektavimą (tikrinimą);
+2) jeigu mokėjimo įstaigos vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką mokėjimo įstaigos finansiniam patikimumui ar galimybei stebėti, kaip mokėjimo įstaiga vykdo visus šiame įstatyme nustatytus reikalavimus, reikalauti, kad būtų įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti; 
 
 
 
 
-4) duoti mokėjimo įstaigai šio straipsnio 2 dalyje nustatytus nurodymus, kuriuos mokėjimo įstaiga privalo įvykdyti priežiūros institucijos nustatytais terminais ir nedelsdama raštu apie tai pranešti priežiūros institucijai;
+3) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl mokėjimo įstaigos patikrinimo atlikimo, kad būtų nustatyta mokėjimo įstaigos turto vertė, mokėjimo įstaigos finansinė būklė, įvertinta rizika arba kad būtų patikrinti kiti mokėjimo įstaigos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad mokėjimo įstaiga priežiūros institucijai pateikė neteisingą informaciją, ar nustatoma kitų padarytų teisės aktų pažeidimų, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina mokėjimo įstaiga. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktuose priežiūros institucijos tarnautojams nustatytas teises; 
 
 
 
 
-5) jeigu mokėjimo įstaigos organų priimti sprendimai kelia pavojų mokėjimo įstaigos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad jie būtų pripažinti negaliojančiais;
-
-
-
-
-6) jeigu mokėjimo įstaigos vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką mokėjimo įstaigos finansiniam patikimumui ar galimybei stebėti, kaip mokėjimo įstaiga vykdo visus šiame įstatyme nustatytus reikalavimus, reikalauti, kad būtų įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti;
-
-
-
-
-7) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl mokėjimo įstaigos patikrinimo atlikimo, kad būtų nustatyta mokėjimo įstaigos turto vertė, mokėjimo įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti mokėjimo įstaigos veiklos klausimai. Jei atlikus patikrinimą nustatoma, kad mokėjimo įstaiga priežiūros institucijai pateikė neteisingą informaciją, ar nustatoma kitų padarytų teisės aktų pažeidimų, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina mokėjimo įstaiga. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi teises, nustatytas šio įstatymo 26 straipsnio 2 ir 3 dalyse;
-
-
-
-
-8) reikalauti, kad būtų pakeista audito įmonė, atliekanti mokėjimo įstaigos finansinių ataskaitų auditą, jei audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų.
+4) reikalauti, kad būtų pakeista audito įmonė, atliekanti mokėjimo įstaigos finansinių ataskaitų auditą, jeigu audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų. 
 
 
 
 
 
 
-2. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar mokėjimo įstaigos veiklos trūkumų arba nustačiusi, kad mokėjimo įstaigos veikla kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui, turi teisę duoti mokėjimo įstaigai tokius rašytinius nurodymus:
+2. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, mokėjimo įstaigos veiklos trūkumus, taip pat jei kyla grėsmė mokėjimo įstaigos veiklos stabilumui ir patikimumui arba visuomenės ir (arba) mokėjimo paslaugų vartotojų interesams, Lietuvos banko įstatymo nustatyta tvarka duoda mokėjimo įstaigai tokius privalomus nurodymus: 
 
 
-1) priežiūros institucijos nustatytais terminais pašalinti teisės aktų pažeidimus ar mokėjimo įstaigos veiklos trūkumus;
+1) priežiūros institucijos nustatytais terminais pašalinti teisės aktų pažeidimus ar mokėjimo įstaigos veiklos trūkumus; 
 
 
 
@@ -1255,12 +1217,12 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 
 
-4) priežiūros institucijos nustatytais terminais parengti ir įgyvendinti jai priimtiną mokėjimo įstaigos veiklos pertvarkymo ir (ar) nustatytų pažeidimų, ir (ar) trūkumų pašalinimo priemonių planą;
+4) priežiūros institucijos nustatytais terminais parengti ir įgyvendinti jai priimtiną mokėjimo įstaigos veiklos pertvarkymo ir (ar) nustatytų pažeidimų, ir (ar) trūkumų pašalinimo priemonių planą; 
 
 
 
 
-5) sušaukti mokėjimo įstaigos visuotinį akcininkų susirinkimą, stebėtojų tarybos (jei ji sudaryta) ar valdybos posėdį ir juose svarstyti priežiūros institucijos pasiūlytus klausimus;
+5) sušaukti mokėjimo įstaigos visuotinį akcininkų susirinkimą, stebėtojų tarybos ar valdybos, jei jos sudarytos, posėdį ir juose svarstyti priežiūros institucijos pasiūlytus klausimus;
 
 
 
@@ -1270,124 +1232,90 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 
 
-7) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, siekdama, kad būtų pašalinti teisės aktų pažeidimai ar mokėjimo įstaigos veiklos trūkumai arba kad mokėjimo įstaigos veikla būtų stabili ir patikima.
+7) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+8) priežiūros institucijai pateikti papildomą informaciją arba teikti dažniau, nei nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms vykdyti;
+
+
+
+
+9) viešai atskleisti papildomą informaciją;
+
+
+
+
+10) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar mokėjimo įstaigos veiklos trūkumai arba kad mokėjimo įstaigos veikla būtų stabili ir patikima.
 
 
 
 
 
 
-3. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar mokėjimo įstaigos veiklos trūkumų arba kad mokėjimo įstaigos veikla kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui, turi teisę laikinai mokėjimo įstaigai nustatyti individualius ar papildomus rizikos ribojimo reikalavimus. Toks priežiūros institucijos sprendimas turi būti motyvuotas ir priimamas atsižvelgiant į šio įstatymo 30 straipsnio 2 dalies nuostatas.
+3. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar mokėjimo įstaigos veiklos trūkumų arba kad mokėjimo įstaigos veikla kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui, turi teisę laikinai mokėjimo įstaigai nustatyti individualius ar papildomus rizikos ribojimo reikalavimus. 
 
 
 
 
-4. Šio straipsnio 2 ir 3 dalyse nustatyti nurodymai gali būti duodami kartu su taikomomis poveikio priemonėmis.
+4. Mokėjimo įstaigos privalo įvykdyti šio straipsnio 2 ir 3 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
 
 
 
 
-5. Priežiūros institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti mokėjimo įstaigos organų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti mokėjimo įstaigos veiklą.
+5. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti mokėjimo įstaigos organų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti mokėjimo įstaigos veiklą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
 
 
 
 
-
-
-25 straipsnis. Priežiūros institucijos sprendimų, veiksmų (neveikimo) apskundimas
-
-
-1. Priežiūros institucijos sprendimus, veiksmus (neveikimą) asmenys, kurių teisės ar įstatymų saugomi interesai pažeisti, turi teisę įstatymų nustatyta tvarka skųsti teismui.
-
-
-
-
-2. Skundo padavimas teismui iki jo išsprendimo nesustabdo skundžiamo sprendimo, išskyrus sprendimą skirti šiame įstatyme nustatytas baudas, ar veiksmo vykdymo.
+25 straipsnis. Neteko galios nuo 2018-06-15
+Straipsnio naikinimas:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
 
 
 
 
+26 straipsnis. Priežiūros institucijos rengiami patikrinimai
 
 
-26 straipsnis. Mokėjimo įstaigų inspektavimas (tikrinimas)
-
-
-1. Mokėjimo įstaigų, jų filialų, tarpininkų ir kitų asmenų, kuriems perduodamas veiklos vykdymas, įskaitant filialus, tarpininkus ir kitus asmenis, kuriems perduodamas veiklos vykdymas, kitoje valstybėje narėje, inspektavimą (tikrinimą) atlieka priežiūros institucijos darbuotojai. Priežiūros institucija, inspektuodama (tikrindama) mokėjimo įstaigą, jos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos vykdymas, įskaitant filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos vykdymas, kitoje valstybėje narėje, gali pasitelkti ir kitų asmenų.
-
-
-
-
-2. Mokėjimo įstaiga, jos filialas, tarpininkas ir kitas asmuo, kuriam perduodamas veiklos vykdymas, įskaitant filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos vykdymas, kitoje valstybėje narėje, privalo sudaryti šias sąlygas atlikti inspektavimą (tikrinimą):
-
-
-1) pateikti inspektavimą (tikrinimą) atliekantiems asmenims visą jų prašomą informaciją ir dokumentus;
+1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
 
 
 
-2) suteikti galimybę inspektavimą (tikrinimą) atliekantiems asmenims naudotis mokėjimo įstaigos informacinių sistemų duomenimis;
+2. Mokėjimo įstaigų, jų filialų, tarpininkų ir kitų asmenų, kuriems perduodamas veiklos vykdymas, įskaitant filialus, tarpininkus ir kitus asmenis, kuriems perduodamas veiklos vykdymas, kitoje valstybėje narėje, patikrinimą atlieka priežiūros institucijos tarnautojai. 
 
 
 
 
-3) suteikti inspektavimą (tikrinimą) atliekantiems asmenims darbo vietą.
+3. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises.
 
 
 
 
-
-
-3. Inspektavimą (tikrinimą) atliekantys asmenys turi teisę:
-
-
-1) inspektuojamos (tikrinamos) mokėjimo įstaigos, jos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos vykdymas, įskaitant filialus, tarpininkus ir kitus asmenis, kuriems perduodamas veiklos vykdymas, kitoje valstybėje narėje, darbo metu nekliudomai įeiti į mokėjimo įstaigos, jos padalinių, filialų, tarpininkų ir kitų asmenų, kuriems perduodamas veiklos vykdymas, patalpas;
+4. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai informavusi kitos valstybės narės priežiūros instituciją, vadovaudamasi šio straipsnio nuostatomis, turi teisę patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi informuoti priežiūros instituciją apie ketinimą atlikti kitos valstybės narės mokėjimo įstaigos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos vykdymas, patikrinimą Lietuvos Respublikoje.
 
 
 
 
-2) reikalauti ir gauti inspektavimui (tikrinimui) atlikti reikalingą informaciją ir dokumentus (originalus arba patvirtintus jų nuorašus), mokėjimo įstaigos vadovų ir kitų darbuotojų paaiškinimus žodžiu ar raštu;
+5. Vykdydama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir 2006 m. lapkričio 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1781/2006 dėl mokėtojo informacijos, pateikiamos pervedant lėšas, nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
 
 
 
 
-3) reikalauti padaryti pateiktų dokumentų kopijas ar mokėjimo įstaigos lėšomis patys juos kopijuoti;
+6. Priežiūros institucija gali pavesti kitos valstybės narės priežiūros institucijai patikrinti mokėjimo įstaigos filialą, tarpininką ar kitą asmenį, kuriam perduodamas veiklos vykdymas, kitoje valstybėje narėje. 
 
 
-
-
-4) turėti kitų teisės aktuose nustatytų teisių.
-
-
-
-
-
-
-4. Atlikus inspektavimą (tikrinimą), jo rezultatai raštu pateikiami mokėjimo įstaigai. Mokėjimo įstaigos administracijos vadovas ir valdybos nariai privalo pasirašytinai susipažinti su inspektavimo (tikrinimo) rezultatais.
-
-
-
-
-5. Priežiūros institucijos teisės aktai nustato detalią inspektavimo (tikrinimo) atlikimo ir inspektavimo (tikrinimo) rezultatų įforminimo tvarką.
-
-
-
-
-6. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai informavusi kitos valstybės narės priežiūros instituciją, vadovaudamasi šio straipsnio nuostatomis, turi teisę inspektuoti (tikrinti) kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi informuoti priežiūros instituciją apie ketinimą atlikti kitos valstybės narės mokėjimo įstaigos filialo, tarpininko ir kito asmens, kuriam perduodamas veiklos vykdymas, inspektavimą (tikrinimą) Lietuvos Respublikoje.
-
-
-
-
-7. Vykdydama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir 2006 m. lapkričio 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1781/2006 dėl mokėtojo informacijos, pateikiamos pervedant lėšas, nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva inspektuoti (tikrinti) kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduodamas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
-
-
-
-
-8. Priežiūros institucija gali pavesti kitos valstybės narės priežiūros institucijai inspektuoti (tikrinti) mokėjimo įstaigos filialą, tarpininką ar kitą asmenį, kuriam perduodamas veiklos vykdymas, kitoje valstybėje narėje.
+Straipsnio pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
-
-
 
 
 
@@ -1442,100 +1370,87 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 29 straipsnis. Poveikio priemonės
 
 
-1. Priežiūros institucija turi teisę licenciją turinčioms mokėjimo įstaigoms taikyti šias poveikio priemones:
+1. Priežiūros institucija asmenims taiko šias poveikio priemones: 
 
 
-1) įspėti dėl šio įstatymo ir kitų šio įstatymo įgyvendinamųjų teisės aktų pažeidimo arba priežiūros institucijos nurodymų nevykdymo;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-2) skirti šio įstatymo nustatytas baudas;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų pažeidimo;
 
 
 
 
-3) laikinai uždrausti teikti vieną ar kelias mokėjimo paslaugas;
+3) skiria šio įstatymo nustatytas baudas;
 
 
 
 
-4) laikinai ar visam laikui uždrausti vieno ar kelių mokėjimo įstaigos filialų ar tarpininkų veiklą. Jeigu priežiūros institucija prima sprendimą laikinai uždrausti filialo ar tarpininko veiklą, filialas ar tarpininkas neturi teisės teikti mokėjimo paslaugų, o priėmus sprendimą visam laikui uždrausti filialo ar tarpininko veiklą, filialas ar tarpininkas yra išbraukiamas iš viešojo mokėjimo įstaigų sąrašo ir mokėjimo įstaiga privalo nedelsdama priimti sprendimą nutraukti tokio filialo ar tarpininko veiklą;
+4) laikinai uždraudžia teikti vieną ar kelias mokėjimo paslaugas;
 
 
 
 
-5) laikinai nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų arba nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų ir reikalauti, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (ar) su juo (jais) būtų nutraukta sutartis (sutartys) ar būtų panaikinti jo (jų) įgaliojimai;
+5) laikinai ar visam laikui uždraudžia vieno ar kelių mokėjimo įstaigos filialų ar tarpininkų veiklą. Jeigu priežiūros institucija prima sprendimą laikinai uždrausti filialo ar tarpininko veiklą, filialas ar tarpininkas neturi teisės teikti mokėjimo paslaugų, o priėmus sprendimą visam laikui uždrausti filialo ar tarpininko veiklą, filialas ar tarpininkas yra išbraukiamas iš viešojo mokėjimo įstaigų sąrašo ir mokėjimo įstaiga privalo nedelsdama priimti sprendimą nutraukti tokio filialo ar tarpininko veiklą;
 
 
 
 
-6) paskirti laikinąjį atstovą mokėjimo įstaigos veiklos priežiūrai;
+6) laikinai nušalina mokėjimo įstaigos vadovą (vadovus) nuo pareigų arba nušalina mokėjimo įstaigos vadovą (vadovus) nuo pareigų ir reikalauja, kad jis (jie) būtų atšauktas (atšaukti) iš pareigų ir (ar) su juo (jais) būtų nutraukta sutartis (nutrauktos sutartys) ar būtų panaikinti jo (jų) įgaliojimai;
 
 
 
 
-7) laikinai apriboti teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
+7) laikinai, kol yra pagrindas, sustabdo (apriboja) mokėjimo įstaigos akcininko balsavimo teisę;
 
 
 
 
-8) atšaukti išduotą licenciją ar laikinai sustabdyti jos galiojimą.
+8) paskiria laikinąjį atstovą mokėjimo įstaigos veiklos priežiūrai (toliau – atstovas veiklos priežiūrai);
 
 
 
 
+9) laikinai apriboja teisę disponuoti lėšomis, esančiomis kredito, mokėjimo ir elektroninių pinigų įstaigose atidarytose sąskaitose, ir kitu turtu;
 
 
-2. Kitos valstybės narės mokėjimo įstaigai, kuri teikia mokėjimo paslaugas Lietuvos Respublikoje per tarpininką ar neįsteigusi filialo, ar kitos valstybės narės mokėjimo įstaigos įsteigtam filialui priežiūros institucija turi teisę taikyti šias poveikio priemones:
 
 
-1) įspėti dėl šio įstatymo ir kitų teisės aktų, reglamentuojančių saugią ir patikimą mokėjimo įstaigų veiklą, pažeidimo;
+10) atšaukia išduotą licenciją ar laikinai sustabdo jos galiojimą.
 
 
 
 
-2) kitos valstybės narės mokėjimo įstaigos įsteigtam filialui ar tarpininkui apriboti teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
 
 
+2. Kitos valstybės narės mokėjimo įstaigai, kuri teikia mokėjimo paslaugas Lietuvos Respublikoje per tarpininką ar neįsteigusi filialo, ar per kitos valstybės narės mokėjimo įstaigos Lietuvos Respublikoje įsteigtą filialą, priežiūros institucija taiko šias poveikio priemones:
 
 
-3) laikinai ar visam laikui uždrausti teikti mokėjimo paslaugas Lietuvos Respublikoje.
+1) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo;
 
 
 
 
+2) kitos valstybės narės mokėjimo įstaigos įsteigtam filialui ar tarpininkui apriboja teisę disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu turtu;
 
 
-3. Priežiūros institucija turi priimti sprendimą taikyti šio straipsnio 2 dalies 2 ir 3 punktuose nurodytas poveikio priemones kitos valstybės narės mokėjimo įstaigai, kuri teikia mokėjimo paslaugas Lietuvos Respublikoje per tarpininką ar neįsteigusi filialo, ar kitos valstybės narės mokėjimo įstaigos Lietuvos Respublikoje įsteigtam filialui, jei to prašo tos valstybės narės priežiūros institucija.
 
 
+3) laikinai ar visam laikui uždraudžia teikti mokėjimo paslaugas Lietuvos Respublikoje.
 
 
-4. Priežiūros institucija turi teisę taikyti vieną ar kelias poveikio priemones.
 
 
 
 
-5. Priežiūros institucija, priimdama sprendimą dėl poveikio priemonės taikymo ir parinkdama konkrečią poveikio priemonę (priemones), atsižvelgia į nustatytų pažeidimų ir veiklos trūkumų turinį, mastą, kartotinumą, jų poveikį mokėjimo paslaugų vartotojų interesams, į asmens, kuriam taikoma poveikio priemonė, finansinę būklę, mokėjimo įstaigos akcininkų ir vadovų pasirengimą ir galimybes pašalinti pažeidimus ir trūkumus, taip pat nustatytų pažeidimų, veiklos trūkumų ir numatomos taikyti poveikio priemonės (priemonių) pasekmes asmens, kuriam taikoma poveikio priemonė (priemonės), ir mokėjimo įstaigų sistemos stabilumui ir patikimumui.
+3. Priežiūros institucija turi priimti sprendimą taikyti šio straipsnio 2 dalies 2 ir 3 punktuose nurodytas poveikio priemones kitos valstybės narės mokėjimo įstaigai, kuri teikia mokėjimo paslaugas Lietuvos Respublikoje per tarpininką ar neįsteigusi filialo, ar kitos valstybės narės mokėjimo įstaigos Lietuvos Respublikoje įsteigtam filialui, jeigu to prašo tos valstybės narės priežiūros institucija. 
 
 
-
-
-6. Priežiūros institucijos sprendimas taikyti mokėjimo įstaigai poveikio priemonę įsigalioja kitą dieną po jo priėmimo dienos, jeigu šiame įstatyme ar sprendime nenustatyta kitaip.
-
-
-
-
-7. Priežiūros institucijos sprendimas dėl poveikio priemonės (priemonių) taikymo turi būti motyvuotas.
-
-
-
-
-8. Poveikio priemonė, kuri taikoma laikinai, galioja iki priežiūros institucijos sprendime dėl poveikio priemonės taikymo nurodyto termino, kuris gali būti nurodytas kaip konkreti data, laiko tarpas ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent priežiūros institucija priima sprendimą ją atšaukti prieš nustatytą terminą.
+Straipsnio pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
-
-
 
 
 
@@ -1543,45 +1458,57 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 30 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 
-1. Priežiūros institucija turi teisę taikyti šiame įstatyme nustatytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
+1. Priežiūros institucija taiko šiame įstatyme nustatytas poveikio priemones, kai yra bent vienas iš šių pagrindų:
 
 
-1) nustatytais terminais nepateikiama šio įstatymo ar priežiūros institucijos priimtuose teisės aktuose nustatyta ar pareikalauta informacija arba pateikiama neteisinga informacija;
-
-
-
-
-2) nustatyta tvarka nevykdomi pagal šį įstatymą duoti priežiūros institucijos nurodymai;
+1) teikiamos mokėjimo paslaugos, jeigu joms teikti neturima šio įstatymo nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
 
 
 
-3) nebetenkinami mokėjimo įstaigos licencijos gavimui nustatyti reikalavimai;
+2) mokėjimo įstaiga licenciją, kitą šiame įstatyme nustatytą leidimą gavo pateikusi klaidingą informaciją arba pasinaudodama kitomis neteisėtomis priemonėmis;
 
 
 
 
-4) pažeidžiami įstatymų, reglamentuojančių saugią ir patikimą mokėjimo įstaigų veiklą, ir priežiūros institucijos priimtų teisės aktų reikalavimai arba yra grėsmė, kad dėl mokėjimo įstaigos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) mokėjimo paslaugų vartotojų interesai arba sutriktų Lietuvos Respublikos mokėjimo įstaigų sistemos funkcionavimas.
+3) nustatytais terminais nepateikiama šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija;
+
+
+
+
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 24 straipsnį duoti privalomi nurodymai;
+
+
+
+
+5) nebetenkinami mokėjimo įstaigos licencijai gauti nustatyti reikalavimai;
+
+
+
+
+6) mokėjimo įstaigos vadovais paskiriami arba mokėjimo įstaigos vadovų pareigas eina vienas ar keli asmenys, neatitinkantys šiame įstatyme ir kituose teisės aktuose nustatytų reputacijos, kvalifikacijos ir patirties reikalavimų;
+
+
+
+
+7) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
+
+
+
+
+8) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl mokėjimo įstaigos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) mokėjimo paslaugų vartotojų interesai arba sutriktų Lietuvos Respublikos mokėjimo įstaigų sistemos funkcionavimas.
 
 
 
 
 
 
-2. Priežiūros institucija, prieš spręsdama klausimą, ar taikyti poveikio priemonę, ne vėliau kaip prieš 10 kalendorinių dienų iki šio klausimo nagrinėjimo dienos praneša asmeniui, kuriam taikoma poveikio priemonė, apie klausimo nagrinėjimo vietą ir laiką ir pateikia jam informaciją apie nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus, ar sudaro galimybę asmens, kuriam taikoma poveikio priemonė, vadovui (vadovams) susipažinti su tokiais faktiniais duomenimis. Pranešimą gavęs asmuo turi teisę iki klausimo nagrinėjimo dienos raštu pateikti paaiškinimus. Poveikio priemonės taikymo klausimas svarstomas dalyvaujant asmens, kuriam taikoma poveikio priemonė, vadovams (valdybos pirmininkui, administracijos vadovui ar filialo vadovui). Vadovų neatvykimas ar paaiškinimų nepateikimas netrukdo spręsti poveikio priemonės taikymo klausimo. Neatidėliotinais atvejais priežiūros institucija turi teisę spręsti klausimą dėl poveikio priemonės taikymo, neatsižvelgdama į šios dalies nuostatas.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
 
 
-
-
-3. Sprendimas dėl poveikio priemonės skyrimo privalo būti priimtas nedelsiant, bet ne vėliau kaip per 3 mėnesius nuo pažeidimo ar pagrindo taikyti poveikio priemonę nustatymo dienos. Poveikio priemonės gali būti skiriamos, jei praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o esant tęstiniam pažeidimui, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos.
-
-
-
-
-4. Sprendimas dėl poveikio priemonės taikymo per 5 kalendorines dienas išsiunčiamas (įteikiamas) asmeniui, kuriam pritaikyta poveikio priemonė. Informacija apie pritaikytą poveikio priemonę skelbiama priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka, tačiau priežiūros institucija gali priimti sprendimą viešai neskelbti tokios informacijos, jeigu jos paskelbimas viešai gali turėti neigiamą įtaką mokėjimo įstaigos ar Lietuvos Respublikos mokėjimo įstaigų sistemos stabilumui ir patikimumui.
+Straipsnio pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
-
-
 
 
 
@@ -1589,48 +1516,47 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 31 straipsnis. Baudos
 
 
-1. Priežiūros institucija turi teisę mokėjimo įstaigai skirti šias baudas:
+1. Priežiūros institucija skiria baudas:
 
 
-1) už nustatytais terminais šio įstatymo ar priežiūros institucijos priimtuose teisės aktuose nustatytos arba pareikalautos informacijos ar dokumentų nepateikimą ar neteisingos informacijos pateikimą nustatytu terminu – iki 0,5 procento bendrųjų metinių mokėjimo paslaugų pajamų;
+1) juridiniams asmenims - iki 10 procentų bendrųjų metinių pajamų;
 
 
 
 
-2) už priežiūros institucijos pagal šį įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento bendrųjų metinių mokėjimo paslaugų pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną – iki 289 eurų;
-Straipsnio punkto pakeitimai:
-Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų.
+
+
+
+
+
+
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
+
+
+
+
+3. Jeigu dėl šio įstatymo 30 straipsnio 1 dalyje išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 4 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. 
+
+
+
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos juridiniam asmeniui skiria iki 100 000 eurų baudą. 
+
+
+
+
+5. Šio įstatymo 30 straipsnio 1 dalies 4 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų.
+
+
+
+
+6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
  
-
-
-
-
-3) už nepranešimą apie numatomus mokėjimo įstaigos vadovų pasikeitimus ir už veiksmų, kuriuos ji turi teisę atlikti tik gavusi priežiūros institucijos leidimą, atlikimą neturint priežiūros institucijos sutikimo – iki 1,5 procento bendrųjų metinių mokėjimo paslaugų pajamų;
-
-
-
-
-4) už šio įstatymo draudžiamų atlikti veiksmų ar veiklos vykdymą arba mokėjimo paslaugų teikimą, jei tokia teisė apribota pagal šį įstatymą, – iki 2 procentų bendrųjų metinių mokėjimo paslaugų pajamų;
-
-
-
-
-5) už kitus saugią ir patikimą mokėjimo įstaigų veiklą reglamentuojančių teisės aktų pažeidimus – iki 0,1 procento bendrųjų metinių mokėjimo paslaugų pajamų.
-
-
-
-
-
-
-2. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, jo trukmę, anksčiau taikytas poveikio priemones.
-
-
-
-
-3. Baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kai mokėjimo įstaiga gavo priežiūros institucijos sprendimą skirti baudą. Bauda, skirta pagal šio straipsnio 1 dalies 2 punktą už kiekvieną nurodymo nevykdymo ar netinkamo vykdymo dieną, turi būti sumokama į valstybės biudžetą kiekvieną tokio nurodymo nevykdymo ar netinkamo vykdymo dieną. Jei bauda per nurodytus terminus, o priežiūros institucijos sprendimą apskundus teismui, – per 10 kalendorinių dienų nuo teismo sprendimo įsiteisėjimo nesumokama, tai ji priežiūros institucijos sprendimu išieškoma ne ginčo tvarka (kai nėra mokėjimo įstaigos, kuriai paskirta bauda, nurodymo nurašyti lėšas) iš mokėjimo įstaigos, kuriai paskirta bauda, lėšų kredito įstaigose arba priežiūros institucijos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka.
- 
-
-
 
 
 
@@ -1666,7 +1592,10 @@ Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010IS
 
 
 
-2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 8 straipsnio 3 dalyje nustatyti nepriekaištingos reputacijos ir kvalifikacijos bei patirties reikalavimai. Jei atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas atstovo veiklos priežiūrai padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš mokėjimo įstaigos lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos darbuotojas.
+2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 8 straipsnio 3 dalyje nustatyti nepriekaištingos reputacijos, kvalifikacijos ir patirties reikalavimai. Jeigu atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas atstovo veiklos priežiūrai padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš mokėjimo įstaigos lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos tarnautojas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
+ 
 
 
 
@@ -1676,7 +1605,10 @@ Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010IS
 
 
 
-4. Atstovas veiklos priežiūrai nesutinka su mokėjimo įstaigos valdybos ir vadovų sprendimais, jei jie, jo nuomone, prieštarauja saugią ir patikimą mokėjimo įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutandis mutatis taikomos šio įstatymo 26 straipsnio 2 ir 3 dalių nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją.
+4. Atstovas veiklos priežiūrai nesutinka su mokėjimo įstaigos valdybos ir vadovų sprendimais, jeigu jie, jo nuomone, prieštarauja saugią ir patikimą mokėjimo įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
+ 
 
 
 
@@ -1710,7 +1642,10 @@ Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010IS
 34 straipsnis. Laikinas teisės disponuoti lėšomis ir kitu turtu apribojimas
 
 
-1. Jeigu priežiūros institucija pritaiko šio įstatymo 29 straipsnio 1 dalies 7 punkte ir 2 dalies 2 punkte nurodytas poveikio priemones, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu priežiūros institucijos sprendime nurodytu turtu.
+1. Jeigu priežiūros institucija pritaiko šio įstatymo 29 straipsnio 1 dalies 9 punkte ir 2 dalies 2 punkte nurodytas poveikio priemones, asmuo, kuriam pritaikyta poveikio priemonė, neturi teisės disponuoti lėšomis, esančiomis kredito įstaigose atidarytose sąskaitose, ir kitu priežiūros institucijos sprendime nurodytu turtu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
+ 
 
 
 
@@ -1867,3 +1802,8 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir 31 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5 ir 19 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 21, 23, 24, 26, 29, 30, 31, 33, 34 straipsnių pakeitimo ir 22, 25 straipsnių pripažinimo netekusiais galios įstatymas
