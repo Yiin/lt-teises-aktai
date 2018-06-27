@@ -20,7 +20,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 
 
 
-Suvestinė redakcija nuo 2018-04-01 iki 2018-06-26
+Suvestinė redakcija nuo 2018-06-27 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
  
@@ -689,11 +689,11 @@ Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 3. Asmenims, priimtiems tarnauti vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnybos, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnais ir kariais, muitinės pareigūnais (muitinės sistemoje dirbti muitinės mobiliosiose grupėse ar muitinės postuose arba atlikti kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), tarnybos laikui pensijai skirti prilyginami šie laikotarpiai, buvę iki 1995 m. sausio 1 d.:
 
 
-1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas iki 1990 m. kovo 11 d. ir faktinis Lietuvoje veikusių SSRS karinių komisariatų pašauktų asmenų prievartinės būtinosios karinės tarnybos SSRS ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose laikas po 1990 m. kovo 11 d., jeigu asmuo už jį negauna kitos valstybės pensijos; 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 16 straipsnio 3 dalies 1 punkte (2013 m. gruodžio 3 d. redakcija; Žin., 2013, Nr. 128-6522; 2015 m. birželio 25 d. redakcija; TAR, 2015-07-01, Nr. 10600) nustatytas teisinis reguliavimas tiek, kiek pagal jį tarnybos laikui pareigūnų ir karių valstybinei pensijai skirti prilyginus faktinį tarnybos SSRS vidaus reikalų ministerijos vidaus kariuomenės padaliniuose vykdant Lietuvos Respublikos teritorijoje veikusių pataisos darbų įstaigų ir tardymo izoliatorių apsaugos ir kontrolės funkcijas laiką iki 1990 m. kovo 11 d., tarnybos laikui pareigūnų ir karių valstybinei pensijai skirti neprilygintas faktinis tarnybos SSRS vidaus reikalų ministerijos vidaus kariuomenės padaliniuose vykdant Lietuvos Respublikos teritorijoje veikusių pataisos darbų įstaigų ir tardymo izoliatorių apsaugos ir kontrolės funkcijas laikas nuo 1990 m. kovo 11 d. iki šių įstaigų apsaugą ir kontrolę perėmė Lietuvos Respublika, prieštarauja (prieštaravo) Lietuvos Respublikos Konstitucijos 52 straipsniui, konstituciniam teisinės valstybės principui.
+1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas iki 1990 m. kovo 11 d. ir faktinis tarnybos SSRS vidaus reikalų ministerijos vidaus kariuomenės padaliniuose, vykdžiusiuose Lietuvos Respublikos teritorijoje veikusių pataisos reikalų sistemos įstaigų apsaugą ir kontrolę, Lietuvoje veikusių SSRS karinių komisariatų pašauktų asmenų prievartinės būtinosios karinės tarnybos SSRS ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose laikas po 1990 m. kovo 11 d., jeigu asmuo už jį negauna kitos valstybės pensijos; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 Nr. KT18-N9/2016, 2016-06-20, paskelbta TAR 2016-06-20, i. k. 2016-17256
+Nr. XIII-1264, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10491
  
 
 
@@ -1159,3 +1159,8 @@ Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-923, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21595
 Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 1 ir 16 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1264, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10491
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 16 straipsnio pakeitimo įstatymas
