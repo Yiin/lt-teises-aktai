@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2016-07-16 iki 2018-06-26
+Suvestinė redakcija nuo 2018-06-27 iki 2018-09-19
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -52,9 +52,10 @@ BENDROSIOS NUOSTATOS
 
 1. Teisę rinkti savivaldybės tarybos narius turi nuolatiniai šios savivaldybės gyventojai, kuriems rinkimų dieną yra sukakę 18 metų (toliau – rinkėjai). Savivaldybių tarybų rinkimuose (toliau – rinkimai) nedalyvauja asmenys, teismo pripažinti neveiksniais.
 
-2. Savivaldybės tarybos nariu gali būti renkamas nuolatinis šios savivaldybės gyventojas, kuriam rinkimų dieną yra sukakę 20 metų, o savivaldybės tarybos nariu – meru, – Lietuvos Respublikos pilietis, kuris gali būti renkamas šios savivaldybės tarybos nariu. Savivaldybės tarybos nariu gali būti renkamas asmuo, kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje likus ne mažiau kaip 90 dienų iki rinkimų dienos. 
+2. Savivaldybės tarybos nariu gali būti renkamas nuolatinis šios savivaldybės gyventojas, kuriam rinkimų dieną yra sukakę 18 metų, o savivaldybės tarybos nariu – meru, – Lietuvos Respublikos pilietis, kuris gali būti renkamas šios savivaldybės tarybos nariu. Savivaldybės tarybos nariu gali būti renkamas asmuo, kuris savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus deklaravo šios savivaldybės teritorijoje likus ne mažiau kaip 90 dienų iki rinkimų dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
+Nr. XIII-1274, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10516
  
 
 3. Nuolatiniu savivaldybės gyventoju laikomas Lietuvos Respublikos pilietis, kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus yra deklaravęs (buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį) šios savivaldybės teritorijoje arba kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje, arba teisę gyventi Lietuvos Respublikoje turintis kitos Europos Sąjungos valstybės narės pilietis, kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus yra deklaravęs (buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį) šios savivaldybės teritorijoje arba kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje, arba kitas asmuo, kuris turi teisę nuolat gyventi Lietuvos Respublikoje ir turi šią teisę patvirtinantį dokumentą ir kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos savo gyvenamąją vietą pagal Lietuvos Respublikos teisės aktus yra deklaravęs (buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį) šios savivaldybės teritorijoje arba kuris likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą šioje savivaldybėje. Jeigu šioje dalyje nurodytas asmuo atitinkamos savivaldybės teritorijoje savo gyvenamąją vietą deklaravo arba buvo deklaravęs, bet deklaravimas buvo panaikintas pagal Gyvenamosios vietos deklaravimo įstatymo 8 straipsnio 1 dalį, arba buvo įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą likus mažiau kaip 90 dienų iki rinkimų, jis teisę rinkti savivaldybės tarybos narius įgyvendina toje savivaldybėje, kurios teritorijoje jis buvo deklaravęs savo gyvenamąją vietą arba buvo įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą likus ne mažiau kaip 90 dienų iki rinkimų. 
@@ -1824,4 +1825,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 25, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2582, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20664
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 88 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1274, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10516
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2 straipsnio pakeitimo įstatymas
 
