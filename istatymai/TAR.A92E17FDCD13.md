@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -196,7 +196,10 @@ BENDROSIOS NUOSTATOS
 4 straipsnis. Medžiojamųjų gyvūnų išteklių naudojimo teisė
 
 
-1. Teisę naudoti laisvėje esančių medžiojamųjų gyvūnų išteklius suteikia Aplinkos ministerijos regionų aplinkos apsaugos departamentai išduodami leidimą naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete.
+1. Teisę naudoti laisvėje esančių medžiojamųjų gyvūnų išteklius suteikia Aplinkos apsaugos departamentas, išduodamas leidimą naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
+ 
 
 
 
@@ -308,9 +311,11 @@ Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA
 
 
 
-11) sudaro Aplinkos ministerijos regionų aplinkos apsaugos departamentų teisės medžioti suteikimo ir panaikinimo komisijas; 
+11) sudaro Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijas; 
 Papildyta straipsnio punktu:
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+Straipsnio punkto pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
@@ -405,9 +410,10 @@ Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA
 
 
 
-8) teikia Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijai siūlymus dėl asmenims suteiktos teisės medžioti panaikinimo.
+8) teikia Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijoms siūlymus dėl asmenims suteiktos teisės medžioti panaikinimo. 
 Straipsnio punkto pakeitimai:
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
@@ -481,7 +487,10 @@ MEDŽIOKLĖS PLOTŲ VIENETAI IR TEISĖS NAUDOTI JUOSE MEDŽIOJAMŲJŲ GYVŪNŲ I
 
 
 
-4. Į šio straipsnio 2 dalyje nurodytas teritorijas nepatenkantys žemės sklypai, kuriuose jų savininkai, vadovaudamiesi šio Įstatymo 13 straipsnio 2 dalimi, uždraudė medžioti, laikomi medžioklės plotais, kuriuose medžioti laikinai uždrausta. Į šio straipsnio 2 dalyje nurodytas teritorijas nepatenkantys žemės sklypai, kurių savininkai šio Įstatymo 13 straipsnio 2 dalyje nustatyta tvarka pateikė sprendimą nustatyti papildomas medžiojimo sąlygas, taip pat laikomi medžioklės plotais, kuriuose medžioti laikinai uždrausta, kol šio Įstatymo 8 straipsnio 12 dalyje nurodyta rašytinė sutartis bus perduota Aplinkos ministerijos regiono aplinkos apsaugos departamentui. Medžioklės plotuose, kuriuose medžioti laikinai uždrausta, leidžiama tik surasti ir sumedžioti iš kitų medžioklės plotų čia atklydusius sužeistus gyvūnus Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatyta tvarka.
+4. Į šio straipsnio 2 dalyje nurodytas teritorijas nepatenkantys žemės sklypai, kuriuose jų savininkai, vadovaudamiesi šio Įstatymo 13 straipsnio 2 dalimi, uždraudė medžioti, laikomi medžioklės plotais, kuriuose medžioti laikinai uždrausta. Į šio straipsnio 2 dalyje nurodytas teritorijas nepatenkantys žemės sklypai, kurių savininkai šio Įstatymo 13 straipsnio 2 dalyje nustatyta tvarka pateikė sprendimą nustatyti papildomas medžiojimo sąlygas, taip pat laikomi medžioklės plotais, kuriuose medžioti laikinai uždrausta, kol šio Įstatymo 8 straipsnio 12 dalyje nurodyta rašytinė sutartis bus perduota Aplinkos apsaugos departamentui. Medžioklės plotuose, kuriuose medžioti laikinai uždrausta, leidžiama tik surasti ir sumedžioti iš kitų medžioklės plotų čia atklydusius sužeistus gyvūnus Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
+ 
 
 
 
@@ -635,9 +644,11 @@ Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA
 
 
 
-12. Medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto rengimo metu ir vėliau gautus žemės sklypų savininkų sprendimus, nurodytus šio Įstatymo 13 straipsnio 2 dalyje, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ne vėliau kaip per 1 mėnesį nuo žemės sklypo savininko sprendimo gavimo perduoda Aplinkos ministerijos regiono aplinkos apsaugos departamentui ir medžioklės plotų naudotojui, jeigu šio Įstatymo 10 straipsnyje nurodytas leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete konkrečiam asmeniui jau yra išduotas. Prieš perduodama žemės sklypo savininko sprendimą, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti kreipiasi į Nekilnojamojo turto registro tvarkytoją prašydama pateikti informaciją apie nuosavybės teises į žemės sklypą. Tik įsitikinusi, kad sprendimą pateikė žemės sklypo savininkas arba reikiamus įgaliojimus turintis asmuo, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti sprendimą perduoda Aplinkos ministerijos regiono aplinkos apsaugos departamentui ir medžioklės plotų naudotojui. Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti veiksmus, susijusius su žemės sklypų savininkų sprendimais, nurodytais šio Įstatymo 13 straipsnio 2 dalyje, reglamentuoja Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti nuostatai. Aplinkos ministerijos regiono aplinkos apsaugos departamentas žemės sklypo savininko sprendimą, gautą anksčiau, negu yra išduotas leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete, prideda prie medžioklės plotų naudotojui išduodamo leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. Žemės sklypų savininkų sprendimai yra privalomi medžioklės plotų naudotojams, kaip jų laikomasi, kontroliuoja Aplinkos ministerijos regiono aplinkos apsaugos departamentas. Tuo atveju, kai žemės sklypo savininkas pateikia sprendimą nustatyti papildomas medžiojimo sąlygas jam priklausančiame žemės sklype, medžioklės plotų naudotojas laikinai negali medžioti šiame žemės sklype tol, kol jis su žemės sklypo savininku sudarys rašytinę sutartį, nustatančią papildomas medžiojimo sąlygas, ir ją perduos Aplinkos ministerijos regiono aplinkos apsaugos departamentui.
+12. Medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto rengimo metu ir vėliau gautus žemės sklypų savininkų sprendimus, nurodytus šio Įstatymo 13 straipsnio 2 dalyje, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ne vėliau kaip per 1 mėnesį nuo žemės sklypo savininko sprendimo gavimo perduoda Aplinkos apsaugos departamentui ir medžioklės plotų naudotojui, jeigu šio Įstatymo 10 straipsnyje nurodytas leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete konkrečiam asmeniui jau yra išduotas. Prieš perduodama žemės sklypo savininko sprendimą, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti kreipiasi į Nekilnojamojo turto registro tvarkytoją prašydama pateikti informaciją apie nuosavybės teises į žemės sklypą. Tik įsitikinusi, kad sprendimą pateikė žemės sklypo savininkas arba reikiamus įgaliojimus turintis asmuo, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti sprendimą perduoda Aplinkos apsaugos departamentui ir medžioklės plotų naudotojui. Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti veiksmus, susijusius su žemės sklypų savininkų sprendimais, nurodytais šio Įstatymo 13 straipsnio 2 dalyje, reglamentuoja Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti nuostatai. Aplinkos apsaugos departamentas žemės sklypo savininko sprendimą, gautą anksčiau, negu yra išduotas leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete, prideda prie medžioklės plotų naudotojui išduodamo leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. Žemės sklypų savininkų sprendimai yra privalomi medžioklės plotų naudotojams, kaip jų laikomasi, kontroliuoja Aplinkos apsaugos departamentas. Tuo atveju, kai žemės sklypo savininkas pateikia sprendimą nustatyti papildomas medžiojimo sąlygas jam priklausančiame žemės sklype, medžioklės plotų naudotojas laikinai negali medžioti šiame žemės sklype tol, kol jis su žemės sklypo savininku sudarys rašytinę sutartį, nustatančią papildomas medžiojimo sąlygas, ir ją perduos Aplinkos apsaugos departamentui. 
 Papildyta straipsnio dalimi:
 Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010ISTA0XII-372
+Straipsnio dalies pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
@@ -696,7 +707,7 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 
 
 
-2. Leidimą naudoti medžiojamųjų gyvūnų išteklius konkrečiame medžioklės plotų vienete išduoda Aplinkos ministerijos regionų aplinkos apsaugos departamentai, Aplinkos ministerijos nustatyta tvarka organizuodami leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išdavimo konkursą, išskyrus atvejus, kai:
+2. Leidimą naudoti medžiojamųjų gyvūnų išteklius konkrečiame medžioklės plotų vienete išduoda Aplinkos apsaugos departamentas, Aplinkos ministerijos nustatyta tvarka organizuodamas leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išdavimo konkursą, išskyrus atvejus, kai:
 
 
 1) Aplinkos ministerijos siūlymu leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas biologinio profilio mokslo ir mokymo įstaigoms, vykdančioms laukinės gyvūnijos, jos gyvenamosios aplinkos ir medžioklės mokslinius tyrimus, studentų, medžiotojų arba siekiančių jais tapti asmenų mokymą, arba miškų urėdijoms profesionaliai medžioklei plėtoti, medžioklės turizmui organizuoti bei specialioms medžiojamųjų gyvūnų populiacijų gausinimo priemonėms įgyvendinti;
@@ -709,9 +720,12 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 
 
 
-3) leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas medžioklės plotų naudotojams šio Įstatymo 22 straipsnyje nustatyta tvarka.
+3) leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas medžioklės plotų naudotojams šio Įstatymo 22 straipsnyje nustatyta tvarka. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
+ 
 
 
 
@@ -887,9 +901,11 @@ Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010IST
 
 
 
-8) nemedžioti žemės sklypuose, kuriuose jų savininkai nusprendė uždrausti medžioti, kreiptis į žemės sklypo savininką, kuris nusprendė nustatyti papildomas medžiojimo jam priklausančiame sklype sąlygas, dėl šias sąlygas nustatančios rašytinės sutarties sudarymo ir nemedžioti šiame žemės sklype tol, kol papildomas medžiojimo sąlygas nustatanti rašytinė sutartis bus sudaryta ir perduota Aplinkos ministerijos regiono aplinkos apsaugos departamentui, o vėliau – laikytis šioje rašytinėje sutartyje nustatytų sąlygų.
+8) nemedžioti žemės sklypuose, kuriuose jų savininkai nusprendė uždrausti medžioti, kreiptis į žemės sklypo savininką, kuris nusprendė nustatyti papildomas medžiojimo jam priklausančiame sklype sąlygas, dėl šias sąlygas nustatančios rašytinės sutarties sudarymo ir nemedžioti šiame žemės sklype tol, kol papildomas medžiojimo sąlygas nustatanti rašytinė sutartis bus sudaryta ir perduota Aplinkos apsaugos departamentui, o vėliau – laikytis šioje rašytinėje sutartyje nustatytų sąlygų. 
 Papildyta straipsnio punktu:
 Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010ISTA0XII-372
+Straipsnio punkto pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
@@ -907,7 +923,10 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 
 
 
-2. Privačios žemės sklypo savininkas, kurio žemė nepatenka į šio Įstatymo 7 straipsnio 2 dalyje nurodytas teritorijas ir šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, medžioklės plotų vieneto sudarymo ar jo ribų pakeitimo metu, taip pat bet kuriuo metu vėliau turi teisę uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas. Žemės sklypo savininkas rašytinį sprendimą uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas turi pateikti atitinkamos savivaldybės komisijai medžioklės plotų vienetams sudaryti bei jų riboms pakeisti. Pateikdamas savo sprendimą, žemės sklypo savininkas turi nurodyti jam priklausančio žemės sklypo kadastrinį numerį ir nuosavybės teises į sklypą patvirtinantį dokumentą. Žemės sklypo savininkui pateikus sprendimą nustatyti papildomas medžiojimo sąlygas, medžioklė jam priklausančiame žemės sklype yra laikinai draudžiama, o medžioklės plotų naudotojas turi kreiptis į žemės sklypo savininką dėl papildomas medžiojimo sąlygas nustatančios rašytinės sutarties sudarymo ir šios sutarties kopiją perduoti Aplinkos ministerijos regiono aplinkos apsaugos departamentui.
+2. Privačios žemės sklypo savininkas, kurio žemė nepatenka į šio Įstatymo 7 straipsnio 2 dalyje nurodytas teritorijas ir šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, medžioklės plotų vieneto sudarymo ar jo ribų pakeitimo metu, taip pat bet kuriuo metu vėliau turi teisę uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas. Žemės sklypo savininkas rašytinį sprendimą uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas turi pateikti atitinkamos savivaldybės komisijai medžioklės plotų vienetams sudaryti bei jų riboms pakeisti. Pateikdamas savo sprendimą, žemės sklypo savininkas turi nurodyti jam priklausančio žemės sklypo kadastrinį numerį ir nuosavybės teises į sklypą patvirtinantį dokumentą. Žemės sklypo savininkui pateikus sprendimą nustatyti papildomas medžiojimo sąlygas, medžioklė jam priklausančiame žemės sklype yra laikinai draudžiama, o medžioklės plotų naudotojas turi kreiptis į žemės sklypo savininką dėl papildomas medžiojimo sąlygas nustatančios rašytinės sutarties sudarymo ir šios sutarties kopiją perduoti Aplinkos apsaugos departamentui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
+ 
 
 
 
@@ -994,15 +1013,16 @@ Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
 
 
 
-3. Medžioklės egzaminą organizuoja ir teisę medžioti suteikia Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija. Į komisiją įtraukiami medžiotojai, turintys medžioklės trofėjų eksperto kvalifikaciją, specialų medžioklėtyros išsilavinimą arba ne trumpesnį kaip 5 metų medžioklės žinovo darbo stažą ar 5 metų darbo stažą aplinkosaugos, teisėsaugos, biologijos arba veterinarijos ir miškų ūkio srityse. 
+3. Medžioklės egzaminą organizuoja ir teisę medžioti suteikia Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijos. Į komisiją įtraukiami medžiotojai, turintys medžioklės trofėjų eksperto kvalifikaciją, specialų medžioklėtyros išsilavinimą arba ne trumpesnį kaip 5 metų medžioklės žinovo darbo stažą ar 5 metų darbo stažą aplinkosaugos, teisėsaugos, biologijos arba veterinarijos ir miškų ūkio srityse. 
 Straipsnio dalies pakeitimai:
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
 
 
-4. Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija:
+4. Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijos:
 
 
 1) Medžioklės Lietuvos Respublikos teritorijoje taisyklių nustatyta tvarka išduoda medžiotojų bilietus;
@@ -1010,11 +1030,12 @@ Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA
 
 
 
-2) šio Įstatymo 16 straipsnyje nustatyta tvarka panaikina asmenims suteiktą teisę medžioti ir paima medžiotojo bilietą.
+2) šio Įstatymo 16 straipsnyje nustatyta tvarka panaikina asmenims suteiktą teisę medžioti ir paima medžiotojų bilietus. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
@@ -1089,9 +1110,10 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 
 
 
-3. Informacija apie teisės medžioti asmenims suteikimą, medžiotojams suteiktas kvalifikacijas, skirtas nuobaudas arba teisės medžioti asmenims panaikinimą ir medžiotojo bilieto paėmimą kaupiama medžiotojų sąvade. Jį tvarko ir duomenų pateikimo šiam sąvadui bei sąvade sukauptos informacijos teikimo Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijai bei kitoms institucijoms tvarką nustato Aplinkos ministerija.
+3. Informacija apie teisės medžioti asmenims suteikimą, medžiotojams suteiktas kvalifikacijas, skirtas nuobaudas arba teisės medžioti asmenims panaikinimą ir medžiotojų bilietų paėmimą kaupiama medžiotojų sąvade. Jį tvarko ir duomenų pateikimo šiam sąvadui bei sąvade sukauptos informacijos teikimo Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijoms bei kitoms institucijoms tvarką nustato Aplinkos ministerija. 
 Straipsnio dalies pakeitimai:
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
 
 
@@ -1102,7 +1124,7 @@ Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA
 16 straipsnis. Teisės medžioti panaikinimas
 
 
-1. Teisę medžioti Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija panaikina:
+1. Teisę medžioti Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijos panaikina:
 
 
 1) asmenims, patekusiems į sveikatos priežiūros įstaigų įskaitą dėl alkoholizmo, narkomanijos ar psichinių susirgimų;
@@ -1110,38 +1132,29 @@ Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA
 
 
 
-2) asmenims, kuriems teisė medžioti buvo suteikta pažeidus šio Įstatymo reikalavimus. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
- 
+2) asmenims, kuriems teisė medžioti buvo suteikta pažeidus šio Įstatymo reikalavimus.
 
 
 
 
-2. Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijai pasiūlymą dėl teisės medžioti, suteiktos tam tikram asmeniui, panaikinimo gali pateikti Aplinkos ministerijos regionų aplinkos apsaugos departamentai, policija, atitinkamos gydymo įstaigos, Lietuvos medžiotojų ir žvejų draugija ir kitos medžiotojų visuomeninės organizacijos, kai paaiškėja šio straipsnio 1 dalyje nurodytos sąlygos. 
-Straipsnio dalies pakeitimai:
-Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
- 
+
+
+2. Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijoms pasiūlymus dėl asmenims suteiktos teisės medžioti panaikinimo gali pateikti Aplinkos apsaugos departamentas, policija, atitinkamos gydymo įstaigos, Lietuvos medžiotojų ir žvejų draugija ir kitos medžiotojų visuomeninės organizacijos, kai paaiškėja šio straipsnio 1 dalyje nurodytos sąlygos.
 
 
 
 
 3. Administracinių nusižengimų bylas dėl Medžioklės Lietuvos Respublikos teritorijoje taisyklių ir kitų medžioklę reglamentuojančių teisės aktų pažeidimo Administracinių nusižengimų kodekso nustatyta tvarka nagrinėja ir teisę medžioti atima valstybiniai aplinkos apsaugos inspektoriai, valstybiniai miškų pareigūnai ir valstybiniai saugomų teritorijų pareigūnai.
-Straipsnio dalies pakeitimai:
-Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
+
+
+
+
+4. Aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijos informaciją apie priimtus sprendimus panaikinti asmenims suteiktą teisę medžioti ir kitos institucijos informaciją apie medžiotojams skirtas nuobaudas privalo pateikti Aplinkos ministerijai ir medžiotojų visuomeninėms organizacijoms, kurių nariai yra šie asmenys. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
-
-
-
-
-4. Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija informaciją apie priimtus sprendimus panaikinti asmenims suteiktą teisę medžioti ir kitos institucijos informaciją apie medžiotojams skirtas nuobaudas privalo pateikti Aplinkos ministerijai ir medžiotojų visuomeninėms organizacijoms, kurių nariai yra šie asmenys.
-Straipsnio dalies pakeitimai:
-Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
- 
-
-
 
 
 
@@ -1230,10 +1243,12 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 19 straipsnis. Leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete galiojimo sustabdymas, kai neatlyginama medžiojamųjų gyvūnų padaryta žala
 
 
-Medžioklės plotų naudotojui, delsiančiam per šio Įstatymo 18 straipsnio 6 dalyje arba kitą įsigaliojusiu teismo sprendimu nustatytą terminą atlyginti medžiojamųjų gyvūnų padarytą žalą, seniūnijos seniūno teikimu Aplinkos ministerijos regiono aplinkos apsaugos departamentas, išdavęs jam leidimą naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete, turi teisę 3 mėnesiams sustabdyti šio leidimo galiojimą.
+Medžioklės plotų naudotojui, delsiančiam per šio Įstatymo 18 straipsnio 6 dalyje arba kitą įsigaliojusiu teismo sprendimu nustatytą terminą atlyginti medžiojamųjų gyvūnų padarytą žalą, seniūnijos seniūno teikimu Aplinkos apsaugos departamentas turi teisę 3 mėnesiams sustabdyti leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete galiojimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
  
-
-
 
 
 
@@ -1358,7 +1373,7 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 7. Iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis šio Įstatymo 8 straipsnio 9, 10 ir 11 dalyse nustatytų sąlygų.
 TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 7 dalis ta apimtimi, kuria įtvirtinta, kad iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis: 1) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje; 2) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo 13 straipsnio 2 dalyje nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto; 3) Medžioklės įstatymo 8 straipsnio 9 dalies nuostatos „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“; 4) Medžioklės įstatymo 8 straipsnio 10 dalies ta apimtimi, kuria nustatyta, kad komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
  
 
 
@@ -1432,3 +1447,8 @@ Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas
