@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-06-29 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-10
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -4471,8 +4471,10 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-5. Valstybės kontrolė atlieka valstybinių mokslo ir studijų institucijų auditą teisės aktų nustatyta tvarka. Prireikus Švietimo ir mokslo ministerija arba steigėjas gali inicijuoti valstybinių mokslo ir studijų institucijų finansinių ataskaitų auditą.
- 
+5. Valstybės kontrolė atlieka valstybinių mokslo ir studijų institucijų auditą teisės aktų nustatyta tvarka. Valstybinių mokslo ir studijų institucijų, kurių teisinė forma yra viešoji įstaiga, finansinių ataskaitų auditas turi būti atliekamas Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme ir Lietuvos Respublikos viešųjų įstaigų įstatyme nustatytais atvejais.
+TAR pastaba. 5 dalies nuostatos taikomos 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių valstybinių mokslo ir studijų institucijų, veikiančių kaip viešosios įstaigos, finansinių ataskaitų rinkinių auditams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1186, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09077
  
 
 
@@ -4845,3 +4847,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 52 straipsnio pakei
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
 Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 27 straipsnio 2 dalies 9 punkto, 38 straipsnio 1 dalies, 39 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Seimo 2018 m. sausio 12 d. nutarimo Nr. XIII-1021 „Dėl pritarimo Lietuvos sporto universiteto reorganizavimui prijungimo prie Lietuvos sveikatos mokslų universiteto būdu“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos mokslo ir studijų įstatymui
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1186, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09077
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 85 straipsnio pakeitimo įstatymas
