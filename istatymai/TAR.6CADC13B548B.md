@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2021-08-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
  
@@ -309,7 +309,15 @@ Karinė jėga Statuto nustatytais atvejais ir tvarka gali būti naudojama įgyve
 
 
 
-7) prieš transporto priemones, jeigu jų vairuotojai sudaro akivaizdų pavojų žmonių gyvybei ar sveikatai, arba sulaikant nusikalstamą veiką padariusį asmenį, kai jis bando pabėgti transporto priemone.
+7) prieš transporto priemones, jeigu jų vairuotojai sudaro akivaizdų pavojų žmonių gyvybei ar sveikatai, arba sulaikant nusikalstamą veiką padariusį asmenį, kai jis bando pabėgti transporto priemone;
+
+
+
+
+8) prieš bepiločius orlaivius, jeigu jų skrydžiai vykdomi nesilaikant bepiločių orlaivių skrydžiams nustatytų sąlygų, apribojimų ar tvarkos. 
+Papildyta straipsnio punktu:
+Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
+ 
 
 
 
@@ -443,7 +451,10 @@ Karinė jėga Statuto nustatytais atvejais ir tvarka gali būti naudojama įgyve
 
 
 
-2) persekioti ir sulaikyti asmenis, nevykdančius karių privalomų nurodymų arba mėginančius į karinę teritoriją patekti neteisėtai;
+2) persekioti ir sulaikyti asmenis, nevykdančius karių privalomų nurodymų, mėginančius į karinę teritoriją patekti neteisėtai arba neteisėtai filmuojančius, fotografuojančius ar kitais būdais vizualizuojančius karines teritorijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
+ 
 
 
 
@@ -704,3 +715,8 @@ Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statu
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
 Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymu Nr. VIII-1621 patvirtinto karinės jėgos naudojimo statuto 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
+Lietuvos Respublikos karinės jėgos naudojimo statuto 8 ir 12 straipsnių pakeitimo įstatymas
