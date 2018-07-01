@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
  
@@ -547,7 +547,7 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ V
 
 
 
-2. Nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi atitikti nepriekaištingos reputacijos kriterijus. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
+2. Nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
 
 
 1) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
@@ -555,7 +555,7 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ V
 
 
 
-2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
 
 
 
@@ -585,11 +585,11 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ V
 
 
 
-8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai. 
+8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją. 
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+Straipsnio dalies pakeitimai:
+Nr. XIII-1317, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10969
  
 
 
@@ -611,9 +611,10 @@ Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
 
 
 
-5. To paties nacionalinio, valstybinio ar savivaldybės teatro ar tos pačios koncertinės įstaigos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. 
+5. To paties nacionalinio teatro ar tos pačios nacionalinės koncertinės įstaigos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
 Straipsnio dalies pakeitimai:
 Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
+Nr. XIII-1317, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10969
  
 
 
@@ -973,37 +974,31 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ FINANSAVIMAS
 
 
 7. Profesionaliojo scenos meno veiklos nacionalinė programa – kūrybinės veiklos priemonių, kuriomis siekiama aukštos meninės vertės scenos kūrinių, jų sklaidos ir prieinamumo įvairioms visuomenės grupėms, finansavimo programa.
-TAR redakcija. 7 dalis įsigalioja 2018-01-01.
 
 
 
 
 8. Profesionaliojo scenos meno veiklos nacionalinės programos nuostatus tvirtina kultūros ministras.
-TAR redakcija. 8 dalis įsigalioja 2018-01-01.
 
 
 
 
 9. Profesionaliojo scenos meno veiklos nacionalinė programa įgyvendinama finansuojamų projektų forma.
-TAR redakcija. 9 dalis įsigalioja 2018-01-01.
 
 
 
 
 10. Nacionaliniai ir valstybiniai teatrai ir koncertinės įstaigos kartu su metine kūrybinės veiklos programa teikia Kultūros ministerijai paraiškas, kurios vertinamos pagal atitiktį keliamiems tikslams, aktualumą, kokybės ir kitiems iš anksto žinomiems kriterijams.
-TAR redakcija. 10 dalis įsigalioja 2018-01-01.
 
 
 
 
 11. Profesionaliojo scenos meno veiklos nacionalinę programą administruoja Kultūros ministerija.
-TAR redakcija. 11 dalis įsigalioja 2018-01-01.
 
 
 
 
 12. Lėšos profesionaliojo scenos meno veiklos nacionalinei programai nustatomos Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
-TAR redakcija. 12 dalis įsigalioja 2018-01-01.
 
 
 
@@ -1216,4 +1211,9 @@ Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo Nr. IX-2257 pak
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-363, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08567
-Lietuvos Respublikos profesionaliojo scenos meno įstatymo IX-2257 11 ir 13 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo IX-2257 11 ir 13 straipsnių pakeitimo įstatymas 
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1317, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10969
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 11 straipsnio pakeitimo įstatymas
