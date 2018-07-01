@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -77,7 +77,28 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Išorinė reklama – reklama, kurios įvairios specialios (stendai, skydai, stulpai, vitrinos ir pan.) ir pritaikytos (pastatų sienos, stogai, laikinieji statiniai, transporto priemonės, oro balionai ir pan.) pateikimo priemonės yra ne patalpose.
+11. Iškaba – ant ar prie reklamos davėjo buveinės pastato arba reklamos davėjo prekybos ar paslaugų teikimo vietoje ar prie jos įrengiama speciali išorinės reklamos pateikimo priemonė, ant kurios ar kurioje pateikiama informacija: reklamos davėjo pavadinimas ir (arba) reklamos davėjo prekybos ar paslaugų teikimo vietos pavadinimas (parduotuvė, viešbutis, kirpykla ir kt.), ir (arba) parduodamų prekių ar teikiamų paslaugų pavadinimas (avalynė, automobilių remontas ir kt.). Iškaba taip pat laikoma tokios informacijos pateikimo vieta ant reklamos davėjo buveinės arba prekybos ar paslaugų teikimo vietos pastato sienos, langų ar durų. Be nurodytos informacijos, iškaboje gali būti pateikiami prekių ženklas, logotipas, emblema, darbo laikas, reklamos davėjo vardas, pavardė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
+
+
+
+
+2. Išorinė reklama – reklama, kurios įvairios specialios (stendai, skydai, stulpai, vitrinos ir pan.) ir pritaikytos (pastatų sienos, langai, durys, stogai, laikinieji statiniai, transporto priemonės, oro balionai ir pan.) pateikimo priemonės yra ne patalpose. Išorine reklama taip pat laikoma:
+
+
+1) reklama, kurios pateikimo priemonės yra patalpose (vitrinose, langų ir (arba) durų vidinėse pusėse), tačiau ji yra matoma iš lauko pusės;
+
+
+
+
+2) iškaboje pateikiama informacija. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -97,7 +118,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Pradinio maitinimo kūdikių mišiniai – specialios paskirties maisto produktai kūdikiams, visiškai patenkinantys jų mitybos poreikius pirmaisiais gyvenimo mėnesiais, kol pradedama maitinti papildomai.
+6. Neteko galios nuo 2018-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -504,13 +528,13 @@ Rodant filmus kino teatruose ir videosalėse, reklama gali būti pateikiama tik 
 
 
 
-12 straipsnis. Išorinės reklamos įrengimo reikalavimai
+12 straipsnis. Išorinės reklamos įrengimo reikalavimai
 
 
 1. Draudžiama įrengti išorinę reklamą:
 
 
-1) keliuose, virš kelių, kelių juostose ir apsaugos zonose, išskyrus stendus, eismo dalyvius informuojančius apie kelio būklę. Išorinę reklamą įrengti draudžiama gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus ir (ar) naudojančią kelio ženklų simboliką. Reklama, įrengta pažeidžiant šiuos reikalavimus, turi būti nuimta, nugriauta ar išmontuota neatlyginant nuostolių jos savininkui arba įrengusių asmenų lėšomis;
+1) keliuose, virš kelių, kelių juostose ir apsaugos zonose. Išorinę reklamą įrengti taip pat draudžiama gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Draudžiama naudoti išorinę reklamą, imituojančią kelio ženklus ir (ar) naudojančią kelio ženklų simboliką;
 
 
 
@@ -520,64 +544,124 @@ Rodant filmus kino teatruose ir videosalėse, reklama gali būti pateikiama tik 
 
 
 
-3) gamtiniuose ir kompleksiniuose draustiniuose, valstybiniuose parkuose, jeigu reklama nesusijusi su draustiniuose ar valstybiniuose parkuose saugomais kompleksais ir objektais (vertybėmis). Šis draudimas netaikomas įrengiant išorinę reklamą draustiniuose ir valstybiniuose parkuose esančių miestų ir miestelių teritorijose;
+3) gamtiniuose ir kompleksiniuose draustiniuose, valstybiniuose parkuose, jeigu išorinė reklama nesusijusi su draustiniuose ar valstybiniuose parkuose saugomais kompleksais ir objektais (vertybėmis). Šis draudimas netaikomas įrengiant išorinę reklamą draustiniuose ir valstybiniuose parkuose esančių miestų ir miestelių teritorijose;
 
 
 
 
-4) neturint žemę, statinius ar kitus objektus, ant kurių ji įrengiama, nuosavybės teise ar kitais teisėtais pagrindais valdančio asmens (toliau – savininkas) sutikimo. Tuo atveju, kai reklama įrengiama ant bendrojo naudojimo objektų, – neturint butų ir kitų patalpų savininkų daugumos sutikimo, jeigu butų ir kitų patalpų savininkų bendrijos įstatuose ar jungtinės veiklos sutartyje nenumatyta kitaip;
+4) neturint žemę, statinius ar kitus objektus, ant kurių ji įrengiama, nuosavybės teise ar kitais teisėtais pagrindais valdančio asmens (toliau – savininkas) sutikimo. Kai išorinė reklama įrengiama ant bendrosios dalinės nuosavybės teise valdomų bendrojo naudojimo objektų, – jeigu nėra bendraturčių sutarimo, nurodyto Lietuvos Respublikos civilinio kodekso 4.75 straipsnio 1 dalyje; kai išorinė reklama įrengiama ant daugiabučių gyvenamųjų namų butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teise valdomų bendrojo naudojimo objektų, – neturint šių namų butų ir kitų patalpų savininkų sprendimo dėl sutikimo įrengti išorinę reklamą, priimto Civilinio kodekso 4.85 straipsnyje nustatyta tvarka, išskyrus atvejus, kai ant daugiabučiame gyvenamajame name esančių reklamos davėjo nuosavybės teise ar kitais teisėtais pagrindais valdomų negyvenamosios paskirties patalpų, kuriose yra jo buveinė arba prekybos ar paslaugų teikimo vieta, išorinės sienos, kuri yra bendrojo naudojimo objektas, įrengiama iškaba, kuriai nenaudojamas apšvietimas. Šiais atvejais laikoma, kad butų ir kitų patalpų savininkų sprendimas dėl sutikimo įrengti iškabą priimtas, kai gauta butų ir kitų patalpų savininkų susirinkime ar raštu balsavusių butų ir kitų patalpų savininkų balsų dauguma, bet ne mažiau kaip 1/4 visų butų ir kitų patalpų savininkų balsų, o kai ši išorinė siena pagal butų ir kitų patalpų savininkų bendrijos, jungtinės veiklos sutarties dalyvių arba bendrojo naudojimo objektų administratoriaus sudarytą bendrojo naudojimo objektų sąrašą naudojama tenkinti ne viso daugiabučio gyvenamojo namo, o tik atskiroje jo dalyje esančių butų ir kitų patalpų savininkų poreikius, – ne mažiau kaip 1/4 tos dalies butų ir kitų patalpų savininkų balsų;
 
 
 
 
-5) neturint leidimo įrengti išorinę reklamą (toliau – leidimas).
-
-
-
-
-
-
-2. Įrengti išorinę reklamą kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose leidžiama tik Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo nustatytais atvejais gavus už kultūros paveldo objekto apsaugą atsakingos institucijos sutikimą, saugomose teritorijose – suderinus su saugomų teritorijų direkcija arba regiono aplinkos apsaugos departamentu, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos.
-
-
-
-
-3. Išorinės reklamos įrengimo taisykles, kuriose nustatomi išorinės reklamos įrengimo reikalavimai, leidimų išdavimo tvarka ir jų galiojimo terminai, tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) arba jos įgaliota institucija.
-
-
-
-
-4. Išorinė reklama turi būti įrengiama vadovaujantis projektavimą, statybą, kultūros paveldo objektų ir kraštovaizdžio apsaugą, teritorijų planavimą ir valstybinės kalbos vartojimą reglamentuojančių teisės aktų nuostatomis, Išorinės reklamos įrengimo taisyklėmis, savivaldybės institucijos patvirtintais išorinės reklamos specialiaisiais planais ar bendraisiais teritorijų planavimo dokumentais ir (ar) juose nustatytais išorinės reklamos įrengimo reglamentais.
-
-
-
-
-5. Leidimas suteikia teisę leidime nurodytoje vietoje įrengti specialią išorinės reklamos pateikimo priemonę ir ant jos skleisti reklamą arba skleisti reklamą ant pritaikytos išorinės reklamos pateikimo priemonės.
-
-
-
-
-6. Savivaldybės, kurios teritorijoje įrengiama išorinė reklama, vykdomoji institucija, vadovaudamasi Išorinės reklamos įrengimo taisyklėmis, išduoda leidimus, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą.
-
-
-
-
-7. Leidimas neišduodamas, jeigu:
-
-
-1) pateikiami ne visi Išorinės reklamos įrengimo taisyklėse nurodyti dokumentai, pateikti dokumentai neatitinka teisės aktų nustatytų reikalavimų arba pateikti neteisingi duomenys ir reklaminės veiklos subjektas neįvykdo leidimus išduodančios savivaldybės vykdomosios institucijos reikalavimo per 5 darbo dienas ištaisyti šiuos trūkumus;
-
-
-
-
-2) numatoma įrengti išorinė reklama neatitinka šiame straipsnyje nustatytų išorinės reklamos įrengimo reikalavimų.
+5) neturint leidimo įrengti išorinę reklamą (toliau – leidimas), išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
 
 
 
 
 
-8. Reklaminės veiklos subjekto leidimo galiojimas sustabdomas, jeigu:
+2. Leidimas nereikalingas, kai:
+
+
+1) reklamos pateikimo priemonės yra nekilnojamojo turto registre įregistruotame statinyje su stogu ir galinėmis sienomis ar be sienų ir ant šių reklamos pateikimo priemonių pateikiama reklama yra susijusi su šiame statinyje vykdoma veikla;
+
+
+
+
+2) reklamos pateikimo priemonės yra patalpose, tačiau reklama yra matoma iš lauko pusės;
+
+
+
+
+3) išorinė reklama pateikiama ant transporto priemonės, kuri įrengta kaip prekių pardavimo vieta arba naudojama pagal jos tiesioginę paskirtį žmonėms ir (arba) kroviniams vežti, išskyrus atvejus, kai ant transporto priemonės įrengiama speciali reklamos pateikimo priemonė ir ant jos pateikiama išorinė reklama;
+
+
+
+
+4) iškaba turi būti įrengiama pagal Lietuvos Respublikos notariato įstatymu, Lietuvos Respublikos antstolių įstatymu įgaliotos institucijos patvirtintą formą;
+
+
+
+
+5) įrengiama ne didesnio kaip 0,3 m2 ploto iškaba; 
+
+
+
+
+6) įrengiama Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytus reikalavimus atitinkanti iškaba, ant kurios ar kurioje pateikiamas tik reklamos davėjo pavadinimas ir (arba) vardas, pavardė arba reklamos davėjo prekybos ar paslaugų teikimo vietos pavadinimas, arba parduodamų prekių ar teikiamų paslaugų pavadinimas ir (arba) darbo laikas.
+
+
+
+
+
+
+3. Įrengti išorinę reklamą kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose leidžiama tik Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo nustatytais atvejais gavus už kultūros paveldo objekto apsaugą atsakingos institucijos sutikimą, saugomose teritorijose – gavus saugomų teritorijų direkcijos arba Aplinkos apsaugos departamento, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, sutikimą.
+
+
+
+
+4. Išorinės reklamos įrengimo taisykles, kuriose nustatoma išorinės reklamos įrengimo reikalavimų ir reikalavimų, susijusių su leidimo išdavimu, atsisakymu išduoti leidimą, įspėjimu apie galimą leidimo galiojimo panaikinimą ir leidimo galiojimo panaikinimu, įgyvendinimo tvarka, tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) arba jos įgaliota institucija. 
+
+
+
+
+5. Išorinė reklama turi būti įrengiama vadovaujantis projektavimą, architektūrą, statybą, kultūros paveldo objektų ir kraštovaizdžio apsaugą, teritorijų planavimą, eismo saugumą ir valstybinės kalbos vartojimą reglamentuojančių teisės aktų nuostatomis, Išorinės reklamos įrengimo taisyklėmis, savivaldybės institucijos patvirtintais išorinės reklamos specialiojo teritorijų planavimo dokumentais ir (ar) kompleksinio teritorijų planavimo dokumentais, ir (ar) juose nustatytais išorinės reklamos įrengimo reglamentais, o tuo atveju, kai išorinė reklama įrengiama pagal savivaldybės vykdomosios institucijos patvirtintą tipinio dydžio ir turinio išorinės reklamos įrengimo projektą, – ir savivaldybės vykdomosios institucijos patvirtintais tipinio dydžio ir turinio išorinės reklamos įrengimo reikalavimais. 
+
+
+
+
+6. Leidimas suteikia teisę leidime nurodytoje vietoje įrengti specialią išorinės reklamos pateikimo priemonę ir ant jos skleisti reklamą arba skleisti reklamą ant pritaikytos išorinės reklamos pateikimo priemonės. 
+
+
+
+
+7. Leidimus išduoda, apie galimą leidimų galiojimo panaikinimą įspėja, leidimų galiojimą panaikina savivaldybės, kurios teritorijoje įrengiama išorinė reklama, vykdomoji institucija (toliau – leidimą išduodanti institucija), vadovaudamasi šiuo įstatymu ir Išorinės reklamos įrengimo taisyklėmis. Leidimą išduodanti institucija patvirtina tipinio dydžio ir turinio išorinės reklamos įrengimo projektus ir šios išorinės reklamos įrengimo reikalavimus.
+
+
+
+
+8. Leidimo galiojimo terminas nustatomas atsižvelgiant į paraiškoje išduoti leidimą nurodytą laikotarpį, tačiau negali būti ilgesnis kaip 10 metų. 
+
+
+
+
+9. Reklaminės veiklos subjektas, norėdamas gauti leidimą, jį išduodančiai institucijai pateikia paraišką išduoti leidimą, Išorinės reklamos įrengimo taisyklėse nustatyto turinio išorinės reklamos įrengimo projektą ir kitus šiose taisyklėse nustatytus leidimui išduoti reikalingus dokumentus (toliau kartu – dokumentai leidimui išduoti). 
+
+
+
+
+10. Leidimas išduodamas arba reklaminės veiklos subjektui pateikiamas rašytinis motyvuotas atsisakymas jį išduoti ne vėliau kaip per 20 darbo dienų, o kai reklama įrengiama pagal leidimą išduodančios institucijos patvirtintą tipinio dydžio ir turinio išorinės reklamos įrengimo projektą, – per 10 darbo dienų nuo visų tinkamai įformintų dokumentų leidimui išduoti gavimo. Jeigu per nurodytus terminus leidimą išduodanti institucija neišduoda leidimo ir nepateikia motyvuoto rašytinio atsisakymo išduoti leidimą, laikoma, kad leidimas išduotas. 
+
+
+
+
+11. Jeigu leidimą turintis reklaminės veiklos subjektas (toliau – leidimo turėtojas) nori gauti naują leidimą, jis leidimą išduodančiai institucijai ne vėliau kaip prieš 20 darbo dienų iki leidimo galiojimo termino pabaigos turi pateikti dokumentus leidimui išduoti, išskyrus dokumentus, kuriuos reklaminės veiklos subjektas jau yra pateikęs leidimą išduodančiai institucijai turimam leidimui gauti ir juose pateikti duomenys ir (ar) informacija nepasikeitė. Naujas leidimas išduodamas šio straipsnio 10 dalyje nustatyta tvarka ir terminais.
+
+
+
+
+12. Leidimas neišduodamas, jeigu:
+
+
+1) pateikiami ne visi, nevisiškai ar neteisingai užpildyti dokumentai leidimui išduoti arba pateikti neteisingi duomenys ir reklaminės veiklos subjektas neįvykdo leidimus išduodančios institucijos reikalavimo per jos nustatytą terminą pašalinti šiuos trūkumus;
+
+
+
+
+2) numatoma įrengti išorinė reklama neatitinka šiame straipsnyje nustatytų išorinės reklamos įrengimo reikalavimų;
+
+
+
+
+3) reklaminės veiklos subjektas nesumoka savivaldybės, kurios teritorijoje įrengiama išorinė reklama, tarybos nustatytos vietinės rinkliavos, jeigu vietinės rinkliavos nuostatuose nustatyta, kad vietinė rinkliava už leidimo išdavimą turi būti sumokėta prieš išduodant leidimą.
+
+
+
+
+
+
+13. Leidimo turėtojas įspėjamas apie galimą leidimo galiojimo panaikinimą, jeigu:
 
 
 1) paaiškėja, kad leidimui gauti buvo pateikti neteisingi duomenys;
@@ -585,57 +669,79 @@ Rodant filmus kino teatruose ir videosalėse, reklama gali būti pateikiama tik 
 
 
 
-2) išorinė reklama įrengta nesilaikant leidime nurodyto išorinės reklamos įrengimo projekto.
+2) išorinė reklama įrengta nesilaikant leidime nurodyto išorinės reklamos įrengimo projekto;
+
+
+
+
+3) leidimo turėtojas nesumoka savivaldybės, kurios teritorijoje įrengiama išorinė reklama, tarybos nustatytos vietinės rinkliavos vietinės rinkliavos nuostatuose nustatyta tvarka, jeigu vietinės rinkliavos nuostatuose nustatyta, kad vietinė rinkliava už leidimo išdavimą mokama po leidimo išdavimo.
 
 
 
 
 
 
-9. Reklaminės veiklos subjekto leidimo galiojimo sustabdymas panaikinamas, jeigu reklaminės veiklos subjektas įvykdo leidimus išduodančios savivaldybės vykdomosios institucijos reikalavimus per 5 darbo dienas ištaisyti nurodytus trūkumus.
+14. Leidimo galiojimas panaikinamas, jeigu:
+
+
+1) leidimo turėtojas pateikia paraišką panaikinti leidimo galiojimą;
 
 
 
 
-10. Leidimo galiojimas panaikinamas, jeigu:
-
-
-1) reklaminės veiklos subjektas pateikia paraišką panaikinti leidimo galiojimą;
+2) leidimo turėtojas (juridinis asmuo) yra likviduotas ar likviduojamas;
 
 
 
 
-2) reklaminės veiklos subjektas (juridinis asmuo) yra likviduojamas;
+3) leidimo turėtojas (fizinis asmuo) miršta;
 
 
 
 
-3) reklaminės veiklos subjektas (fizinis asmuo) miršta;
+4) leidimo turėtojas, įspėjus apie jo leidimo galiojimo galimą panaikinimą, neįvykdo leidimą išduodančios institucijos reikalavimų pašalinti nurodytus pažeidimus per Išorinės reklamos įrengimo taisyklėse nustatytą terminą; 
 
 
 
 
-4) reklaminės veiklos subjektas, sustabdžius jo leidimo galiojimą, neįvykdo leidimus išduodančios savivaldybės vykdomosios institucijos reikalavimų per 5 darbo dienas ištaisyti nurodytus trūkumus;
+5) pasibaigia šio straipsnio 1 dalies 4 punkte ir 3 dalyje nurodytuose dokumentuose nustatytas sutikimo galiojimo terminas;
 
 
 
 
-5) pasibaigia žemės, statinių ar kitų objektų, ant kurių įrengta išorinė reklama, savininko sutikimo galiojimo terminas.
+6) leidimo turėtojas nutraukia savo veiklą buveinės pastate arba prekybos ar paslaugų teikimo vietoje, kurioje ar prie kurios įrengta jo iškaba.
 
 
 
 
 
 
-11. Leidimai registruojami savivaldybės vykdomosios institucijos nustatyta tvarka ir informacija apie jų išdavimą skelbiama savivaldybės interneto svetainėje.
+15. Leidimo turėtojas privalo:
+
+
+1) išardyti specialią išorinės reklamos pateikimo priemonę, nukabinti reklamą ir sutvarkyti aplinką, kai pasibaigia leidimo galiojimo terminas ar leidimo galiojimas panaikinamas, – per leidimą išduodančios institucijos nustatytą ne trumpesnį kaip vienos darbo dienos, tačiau ne ilgesnį kaip 40 darbo dienų nuo leidimo galiojimo termino pabaigos ar leidimo galiojimo panaikinimo dienos terminą, kuris nurodomas leidime ar leidimą išduodančios institucijos pranešime apie sprendimą panaikinti leidimo galiojimą;
 
 
 
 
-12. Pasibaigus leidimo galiojimo terminui ar panaikinus leidimo galiojimą, reklaminės veiklos subjektas privalo per savivaldybės vykdomosios institucijos nustatytą terminą išardyti specialią išorinės reklamos pateikimo priemonę arba nukabinti reklamą ir sutvarkyti aplinką.
+2) užtikrinti, kad išorinė reklama būtų tvarkinga, nesugadinta, įrengta pagal leidime nurodytą išorinės reklamos įrengimo projektą.
+
+
+
+
+
+
+16. Kai pagal šio straipsnio 2 dalies 1, 2, 4, 5 ir 6 punktuose nustatytas išimtis išorinei reklamai įrengti leidimo nereikia, reklaminės veiklos subjektas privalo pašalinti reklamą, išardyti specialią išorinės reklamos pateikimo priemonę, sutvarkyti aplinką – ne vėliau kaip per 20 darbo dienų nuo savo veiklos nutraukimo buveinės pastate arba prekybos ar paslaugų teikimo vietoje, kurioje ar prie kurios įrengta ši išorinė reklama, dienos.
+
+
+
+
+17. Leidimo turėtojas turi teisę leidime nurodytoje vietoje pagal jame nurodytą išorinės reklamos įrengimo projektą įrengti specialią išorinės reklamos pateikimo priemonę ir ant jos skleisti reklamą arba skleisti reklamą ant pritaikytos išorinės reklamos pateikimo priemonės. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
  
-
-
 
 
 
@@ -661,33 +767,22 @@ Rodant filmus kino teatruose ir videosalėse, reklama gali būti pateikiama tik 
 KETVIRTASIS SKIRSNIS
 REIKALAVIMAI ATSKIRŲ PREKIŲ IR PASLAUGŲ REKLAMAI
  
- 
 
 
-14 straipsnis. Maisto reklama
+14 straipsnis. Maisto reklama
 
 
-1. Reklamoje draudžiama:
-
-
-1) nurodyti ar užsiminti apie tas maisto savybes, kurių jis neturi, taip pat apie žmogaus ligų gydymo ar profilaktines savybes ir kitas savybes, jeigu tokios informacijos pateikimas neatitinka teisės aktuose nustatytų reikalavimų;
+1. Draudžiama 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1169/2011 dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 1924/2006 ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004 (OL 2011 L 304, p. 18), ir kitų teisės aktų, nustatančių reikalavimus maisto reklamai, nuostatų neatitinkanti maisto reklama.
 
 
 
 
-2) nurodyti, kad koks nors maistas turi ypatingų savybių, jeigu iš tikrųjų tokios savybės būdingos visiems panašiems gaminiams.
+2. Pradinio maitinimo kūdikių mišinių ir tolesnio maitinimo kūdikių mišinių reklama leidžiama tik teisės aktų, nustatančių informacijos apie šiuos mišinius teikimo reikalavimus, nustatyta tvarka.
 
 
 
 
-
-
-2. Pradinio maitinimo kūdikių mišinių reklama leidžiama tik sveikatos priežiūros specialistams skirtuose leidiniuose ir mokslo publikacijose teisės aktų nustatyta tvarka.
-
-
-
-
-3. Maisto reklamoje privalo būti nurodyta, kad maistas yra genetiškai modifikuotas, jeigu pagal teisės aktų nustatytus reikalavimus jį ženklinant turi būti pateikiama informacija apie tai, kad maistas – genetiškai modifikuoti organizmai, kad maisto sudėtyje arba jo sudedamosiose dalyse yra genetiškai modifikuotų organizmų, kad maistas pagamintas iš genetiškai modifikuotų organizmų arba jo sudėtyje yra iš genetiškai modifikuotų organizmų pagamintų dalių.
+3. Maisto reklamoje privalo būti nurodyta, kad maistas yra genetiškai modifikuotas, jeigu pagal teisės aktų, nustatančių reikalavimus genetiškai modifikuoto maisto ženklinimui, nuostatas jį ženklinant turi būti pateikiama informacija apie tai, kad maistas – genetiškai modifikuoti organizmai, kad maisto sudėtyje arba jo sudedamosiose dalyse yra genetiškai modifikuotų organizmų, kad maistas pagamintas iš genetiškai modifikuotų organizmų arba jo sudėtyje yra iš genetiškai modifikuotų organizmų pagamintų dalių.
 
 
 
@@ -697,7 +792,7 @@ REIKALAVIMAI ATSKIRŲ PREKIŲ IR PASLAUGŲ REKLAMAI
 
 
 
-5. Draudžiama nurodyti energinius gėrimus kaip rėmėjų gaminius ar kitaip juos reklamuoti: 
+5. Draudžiama nurodyti energinius gėrimus kaip rėmėjų gaminius ar kitaip juos reklamuoti:
 
 
 1) ugdymo įstaigose, kurias lanko jaunesni kaip 18 metų asmenys;
@@ -710,56 +805,57 @@ REIKALAVIMAI ATSKIRŲ PREKIŲ IR PASLAUGŲ REKLAMAI
 
 
 
-3) teatro spektaklių, kino filmų ir videofilmų, skirtų asmenims, jaunesniems kaip 18 metų, demonstravimo vietose ir jų reklamoje;
+3) teatro spektaklių, kino filmų ir videofilmų, skirtų asmenims, jaunesniems kaip 18 metų, demonstravimo vietose ir jų reklamoje;
 
 
 
 
-4) visuomenės informavimo priemonėse, skirtose asmenims, jaunesniems kaip 18 metų, ir jų reklamoje;
+4) visuomenės informavimo priemonėse, skirtose asmenims, jaunesniems kaip 18 metų, ir jų reklamoje;
 
 
 
 
-5) akcijose, konkursuose, skirtuose asmenims, jaunesniems kaip 18 metų, ir jų reklamoje. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
- 
+5) akcijose, konkursuose, skirtuose asmenims, jaunesniems kaip 18 metų, ir jų reklamoje.
 
 
 
 
-6. Draudžiama energinius gėrimus nemokamai platinti reklamos tikslais jaunesniems kaip 18 metų asmenims.
+
+
+6. Draudžiama energinius gėrimus nemokamai platinti reklamos tikslais jaunesniems kaip 18 metų asmenims.
 
 
 
 
 7. Energinių gėrimų reklamoje privalo būti įrašyti žodžiai „nevartoti su alkoholiniais gėrimais“.
-Papildyta straipsnio dalimi:
-Nr. XII-577, 2013-11-07, Žin., 2013, Nr. 120-6049 (2013-11-23), i. k. 1131010ISTA0XII-577
+
+
+
+
+8. Šio straipsnio 3, 4 ir 7 dalyse nustatyti reikalavimai netaikomi tuo atveju, kai reklamoje pateikiami tik šiose dalyse nurodyto maisto gamintojų pavadinimai ir (ar) jų prekių ženklai, logotipai. 
+
+
+
+
+9. Šio straipsnio 3, 4 ir 7 dalyse nurodytos informacijos pateikimo reklamoje taisykles nustato Vyriausybės įgaliota institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
  
 
 
 
 
-8. Šio straipsnio 3, 4 ir 7 dalyse nurodytos informacijos pateikimo reklamoje taisykles nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
-Papildyta straipsnio dalimi:
-Nr. XII-1885, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10690
+15 straipsnis. Sveikatos priežiūros paslaugų ir medicinos priemonių (prietaisų) reklama
+
+
+Sveikatos priežiūros paslaugų ir medicinos priemonių (prietaisų) reklamoje draudžiama naudoti paciento vardą, pavardę, įvaizdį, remtis sveikatos priežiūros įstaigų, sveikatos priežiūros specialistų ar jų profesinių organizacijų rekomendacijomis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
  
-
-
-
-
-
-
-15 straipsnis. Sveikatos priežiūros paslaugų ir medicinos prietaisų ir aparatų reklama
-
-
-Sveikatos priežiūros paslaugų ir medicinos prietaisų ir aparatų reklamoje draudžiama naudoti paciento vardą, pavardę, įvaizdį, remtis sveikatos priežiūros institucijų, sveikatos priežiūros specialistų ar jų profesinių organizacijų rekomendacijomis.
- 
-
-
 
 
 
@@ -825,17 +921,26 @@ REKLAMOS PRIEŽIŪRA
 
 
 
-4) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 2, 4 ir 12 dalių nuostatų;
+4) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
 
-5) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 2, 4 ir 12 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose);
+5) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
 
-6) saugomų teritorijų direkcija arba regiono aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo 12 straipsnio 1, 2, 4 ir 12 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose).
+6) saugomų teritorijų direkcija arba Aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose). 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -954,10 +1059,35 @@ REKLAMOS PRIEŽIŪRA
 
 
 
-3. Priežiūros institucijų darbuotojams draudžiama atskleisti jiems patikėtą reklaminės veiklos subjektų komercinę paslaptį, išskyrus įstatymų nustatytus atvejus.
+3. Priežiūros institucijų darbuotojams draudžiama atskleisti jiems patikėtą reklaminės veiklos subjektų ar kitų asmenų, į kuriuos kreipiasi priežiūros institucija dėl šiame įstatyme nustatytų reikalavimų pažeidimui tirti reikalingų dokumentų ar kitos informacijos pateikimo (toliau – kiti asmenys), komercinę paslaptį, išskyrus įstatymų nustatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
  
 
 
+
+
+
+
+211 straipsnis. Komercinių paslapčių apsauga
+
+
+1. Reklaminės veiklos subjektai ar kiti asmenys, teikdami šiame įstatyme nustatytų reikalavimų pažeidimui tirti reikalingus dokumentus ar kitą informaciją priežiūros institucijai arba nedelsdami, kai tik sužino, kad priežiūros institucija turi dokumentų ar kitos informacijos, sudarančios jų komercinę paslaptį, gali pateikti priežiūros institucijai prašymą dėl jų komercinių paslapčių apsaugos. Šiame prašyme turi būti aiškiai ir motyvuotai nurodyta, kurią informaciją priežiūros institucija turėtų laikyti reklaminės veiklos subjekto ar kitų asmenų komercine paslaptimi. 
+
+
+
+
+2. Priežiūros institucija ar jos įgaliotas pareigūnas ne vėliau, negu priimamas galutinis priežiūros institucijos nutarimas ar kitoks galutinis sprendimas dėl nagrinėjamo klausimo, priima sprendimą dėl prašymo tenkinimo ar atsisakymo jį tenkinti ir praneša reklaminės veiklos subjektui ar kitam asmeniui, jeigu priimamas sprendimas prašyme nurodytos informacijos nelaikyti komercine paslaptimi. Prašymas dėl komercinių paslapčių apsaugos netenkinamas, jeigu jame nurodyta informacija įstatymais pripažįstama vieša arba turi įrodomosios reikšmės nustatant šiame įstatyme nustatytų reikalavimų pažeidimą. Šio prašymo nagrinėjimo metu reklaminės veiklos subjekto ar kito asmens prašyme nurodyta informacija laikoma komercinę paslaptį sudarančia informacija. 
+
+
+
+
+3. Jeigu reklaminės veiklos subjektas ar kitas asmuo pateikia prašymą dėl komercinių paslapčių apsaugos, bet nenurodo, kurią konkrečią informaciją priežiūros institucija turi laikyti reklaminės veiklos subjekto ar kito asmens komercine paslaptimi, priežiūros institucija gali reikalauti, kad prašymą pateikęs reklaminės veiklos subjektas ar kitas asmuo per priežiūros institucijos nustatytą ne trumpesnį kaip 3 darbo dienų terminą nurodytų šią informaciją. Reklaminės veiklos subjektas ar kitas asmuo, kurio komercinę paslaptį sudarančią informaciją turi priežiūros institucija, gali būti įpareigotas per priežiūros institucijos nustatytą terminą pateikti dokumento ar kitos informacijos išrašą be komercinę paslaptį sudarančios informacijos ir siekiamos apsaugoti informacijos aprašymą. Jeigu per nustatytą terminą reklaminės veiklos subjektas ar kitas asmuo nenurodo, kurią konkrečią informaciją priežiūros institucija turi laikyti komercine paslaptimi, nepateikia dokumento ar kitos informacijos išrašo be komercinę paslaptį sudarančios informacijos bei siekiamos apsaugoti informacijos aprašymo, laikoma, kad priežiūros institucijos turima informacija nėra komercinę paslaptį sudaranti informacija. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -1028,9 +1158,10 @@ Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
 
 
-4. Už šio įstatymo 12 straipsnio 1, 2, 4 ir 12 dalyse nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
+4. Už šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalyse nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
  
 
 
@@ -1125,12 +1256,18 @@ Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
 
 
-5) nėra faktinių duomenų, kurie leistų pagrįstai įtarti, kad šis įstatymas buvo pažeistas, ir pareiškėjas be pateisinamos priežasties per priežiūros institucijos nustatytą ne trumpesnį kaip 5 darbo dienų terminą nepateikia jo pranešimą (skundą) pagrindžiančių dokumentų ir duomenų;
+5) nėra faktinių duomenų, kurie leistų pagrįstai įtarti, kad šis įstatymas buvo pažeistas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
 
-6) pranešime (skunde) nurodyti faktai yra mažareikšmiai, nedarantys žalos šio įstatymo saugomiems asmenų interesams.
+6) pranešime (skunde) nurodyti faktai yra mažareikšmiai. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -1147,7 +1284,10 @@ Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
 
 
-8. Motyvuotas priežiūros institucijos nutarimas pradėti pranešimo (skundo) nagrinėjimo procedūrą, motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo (skundo) gavimo dienos, išskyrus šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytus atvejus. Apie priimtą priežiūros institucijos nutarimą arba priežiūros institucijos įgalioto pareigūno sprendimą pareiškėjas informuojamas raštu ne vėliau kaip per 3 darbo dienas nuo nutarimo ar sprendimo priėmimo dienos. Šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytais atvejais motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ir apie tai pareiškėjas turi būti informuotas ne vėliau kaip per 5 darbo dienas nuo pranešimo (skundo) gavimo dienos.
+8. Motyvuotas priežiūros institucijos nutarimas pradėti pranešimo (skundo) nagrinėjimo procedūrą, motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ne vėliau kaip per 30 kalendorinių dienų nuo šio straipsnio 4 dalyje nurodytus reikalavimus atitinkančio pranešimo (skundo) gavimo dienos, išskyrus šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytus atvejus. Apie priimtą priežiūros institucijos nutarimą arba priežiūros institucijos įgalioto pareigūno sprendimą pareiškėjas informuojamas raštu ne vėliau kaip per 3 darbo dienas nuo nutarimo ar sprendimo priėmimo dienos. Šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytais atvejais motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ir apie tai pareiškėjas turi būti informuotas ne vėliau kaip per 5 darbo dienas nuo pranešimo (skundo) gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -1172,17 +1312,26 @@ Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
 
 
-13. Pranešimo (skundo) nagrinėjimo procedūros dalyviai pranešimo (skundo) nagrinėjimo metu turi teisę duoti paaiškinimus žodžiu ar raštu, pateikti papildomą informaciją ir kitus dokumentus, taip pat, gavę šio straipsnio 15 dalyje nurodytą informaciją apie pranešimo (skundo) nagrinėjimą priežiūros institucijoje, susipažinti su gautais dokumentais ir kita informacija, išskyrus dokumentus ir informaciją, kurie sudaro valstybės, tarnybos, komercinę arba profesinę paslaptį. Jeigu norima susipažinti su dokumentais, kuriuose yra komercinių paslapčių, būtina gauti reklaminės veiklos subjekto, su kurio komercines paslaptis sudarančiais dokumentais norima susipažinti, sutikimą.
+13. Pranešimo (skundo) nagrinėjimo procedūros dalyviai pranešimo (skundo) nagrinėjimo metu turi teisę duoti paaiškinimus žodžiu ar raštu, pateikti papildomą informaciją ir kitus dokumentus, taip pat, gavę šio straipsnio 14 dalyje nurodytą informaciją apie pranešimo (skundo) nagrinėjimą priežiūros institucijoje, susipažinti su gautais dokumentais ir kita informacija, išskyrus dokumentus ir informaciją, kurie sudaro valstybės, tarnybos, komercinę arba profesinę paslaptį. Jeigu norima susipažinti su komercinę paslaptį sudarančia informacija, būtina gauti reklaminės veiklos subjekto ar kito asmens, su kurio komercinę paslaptį sudarančia informacija norima susipažinti, sutikimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
 
-14. Priežiūros institucija pranešimą (skundą) nagrinėja rašytinio arba žodinio proceso tvarka.
+14. Pranešimo (skundo) nagrinėjimo procedūros dalyviams ne vėliau kaip prieš 14 darbo dienų iki pranešimo (skundo) nagrinėjimo priežiūros institucijoje dienos registruotu laišku pranešama apie galimus šiame įstatyme nustatytų reikalavimų pažeidimus, pranešimo (skundo) nagrinėjimo vietą ir laiką, pasiūloma susipažinti su gautais dokumentais ir kita informacija, išskyrus dokumentus ir informaciją, kurie sudaro valstybės, tarnybos, komercinę ar profesinę paslaptį, informuojama, kad, norint susipažinti su komercinę paslaptį sudarančia informacija, būtina gauti reklaminės veiklos subjekto ar kito asmens, su kurio komercinę paslaptį sudarančia informacija norima susipažinti, sutikimą, taip pat pasiūloma raštu pateikti paaiškinimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
 
-15. Pranešimo (skundo) nagrinėjimo procedūros dalyviams ne vėliau kaip prieš 21 kalendorinę dieną iki pranešimo (skundo) nagrinėjimo priežiūros institucijoje dienos registruotu laišku pranešama apie galimus šiame įstatyme nustatytų reikalavimų pažeidimus, pranešimo (skundo) nagrinėjimo vietą ir laiką, nurodoma pranešimo (skundo) nagrinėjimo tvarka, pasiūloma susipažinti su gautais dokumentais ir kita informacija, išskyrus dokumentus ir informaciją, kurie sudaro valstybės, tarnybos, komercinę ar profesinę paslaptį, taip pat pasiūloma ne vėliau kaip prieš 7 kalendorines dienas iki pranešimo (skundo) nagrinėjimo priežiūros institucijoje dienos raštu pateikti paaiškinimus.
+15. Priežiūros institucija pranešimą (skundą) nagrinėja rašytine tvarka. Pranešimo (skundo) nagrinėjimo procedūros dalyviai turi teisę ne vėliau kaip prieš 14 kalendorinių dienų iki pranešimo (skundo) nagrinėjimo priežiūros institucijoje dienos pateikti motyvuotą prašymą dėl pranešimo (skundo) nagrinėjimo žodine tvarka. Pranešimo (skundo) nagrinėjimo procedūros dalyviui pateikus motyvuotą prašymą dėl pranešimo (skundo) nagrinėjimo žodine tvarka, priežiūros institucija priima sprendimą pranešimą (skundą) nagrinėti rašytine arba žodine tvarka ir apie tai informuoja pranešimo (skundo) nagrinėjimo procedūros dalyvius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -1273,7 +1422,10 @@ Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 26 straipsnis. Baudų išieškojimas
 
 
-1. Priežiūros institucijos paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per vieną mėnesį nuo nutarimo dėl baudos paskyrimo priėmimo dienos.
+1. Priežiūros institucijos paskirta bauda sumokama ne vėliau kaip per vieną mėnesį nuo nutarimo dėl baudos paskyrimo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+ 
 
 
 
@@ -1439,3 +1591,8 @@ Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1885, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10690
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 14 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
