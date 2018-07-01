@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2017-09-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-04-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -1278,9 +1278,10 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-2. Nuteistasis, kuriam paskirtas poilsio dienomis atliekamas areštas, ne vėliau kaip per septynias dienas po nuosprendžio įsiteisėjimo dienos privalo susitarti su Kalėjimų departamentu dėl šių paskirtos bausmės atlikimo sąlygų: areštinės, kurioje bus atliekamas areštas, savaitės dienų, kuriomis bus atliekamas areštas, atvykimo į areštinę ir išleidimo iš jos laiko. Nuteistasis ir Kalėjimų departamentas gali susitarti ir dėl kitų bausmės atlikimo sąlygų. Apie susitarimo sąlygas Kalėjimų departamentas praneša nuosprendį priėmusiam teismui ir areštinės, kurioje bus atliekama bausmė, administracijai bei prokurorui. Ginčus dėl arešto bausmės atlikimo sąlygų sprendžia teismas Kalėjimų departamento teikimu arba nuteistojo prašymu.
+2. Nuteistasis, kuriam paskirtas poilsio dienomis atliekamas areštas, ne vėliau kaip per septynias dienas po nuosprendžio įsiteisėjimo dienos privalo susitarti su Kalėjimų departamentu dėl šių paskirtos bausmės atlikimo sąlygų: areštinės, kurioje bus atliekamas areštas, savaitės dienų, kuriomis bus atliekamas areštas, atvykimo į areštinę ir išleidimo iš jos laiko. Nuteistasis ir Kalėjimų departamentas gali susitarti ir dėl kitų bausmės atlikimo sąlygų. Apie susitarimo sąlygas Kalėjimų departamentas praneša nuosprendį priėmusiam teismui ir areštinės, kurioje bus atliekama bausmė, administracijai. Ginčus dėl arešto bausmės atlikimo sąlygų sprendžia teismas Kalėjimų departamento teikimu arba nuteistojo prašymu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-901, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21497
  
 
 
@@ -3078,13 +3079,10 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 119 straipsnis. Pataisos įstaigos direktoriaus teisės nuteistųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, atveju
 
 
-1. Jeigu nuteistieji imasi neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas turi teisę, pranešęs Kalėjimų departamento direktoriui arba jį pavaduojančiam pareigūnui ir prokurorui, įsakymu laikinai sustabdyti:
+1. Jeigu nuteistieji imasi neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas turi teisę, pranešęs Kalėjimų departamento direktoriui arba jį pavaduojančiam pareigūnui, įsakymu laikinai sustabdyti:
 
 
-1) nuteistųjų laiškų išsiuntimą, taip pat gautų laiškų, pašto bei perduodamų siuntinių ir smulkiųjų paketų įteikimą nuteistiesiems; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
+1) nuteistųjų laiškų išsiuntimą, taip pat gautų laiškų, pašto bei perduodamų siuntinių ir smulkiųjų paketų įteikimą nuteistiesiems;
 
 
 
@@ -3109,12 +3107,12 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-6) kultūros, sporto ir kitų masinių renginių organizavimą.
-Papildyta straipsnio punktu:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+6) kultūros, sporto ir kitų masinių renginių organizavimą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-901, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21497
  
-
-
 
 
 
@@ -5315,3 +5313,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso 145 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
 Lietuvos Respublikos bausmių vykdymo kodekso 54, 113, 114 straipsnių pakeitimo ir 120, 121, 122, 123, 124 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-901, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21497
+Lietuvos Respublikos bausmių vykdymo kodekso 59 ir 119 straipsnių pakeitimo įstatymas
