@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2018-05-20 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -1490,7 +1490,7 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 13 straipsnis. Bendrosios transporto priemonių vairuotojų pareigos
 
 
-1. Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės vairuoti šią transporto priemonę. 
+1. Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu poilsiu. Be to, neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės vairuoti šią transporto priemonę. 
 
 
 
@@ -1505,82 +1505,90 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-4. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo mokėti suteikti pirmąją pagalbą eismo įvykyje nukentėjusiems asmenims.
+4. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo mokėti suteikti pirmąją pagalbą per eismo įvykį nukentėjusiems asmenims.
 
 
 
 
-5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3 ir O4 klasių transporto priemonių ir T5 kategorijos ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus, taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. Lietuvos Respublikoje išduoto vairuotojo pažymėjimo nereikia turėti asmenims, turintiems Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos asociacijos šalyse išduotus galiojančius vairuotojo pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai galioja, jei jų turėtojas nėra nuolatinis Lietuvos Respublikos gyventojas. Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jei jų turėtojai nėra sukakę šio įstatymo nustatyto amžiaus arba jei vairuotojo pažymėjimai buvo išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie nustatyta tvarka nesusigrąžino teisės vairuoti transporto priemonę po to, kai ji buvo atimta. Be to, nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas atimtas jį išdavusioje valstybėje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
- 
+5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3 ir O4 klasių transporto priemonių ir T5 kategorijos ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir 8 dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. 
 
 
 
 
-6. Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių medžiagų. 
+6. Motorinės transporto priemonės ir (ar) priekabos vairuotojas, kuriam Lietuvos Respublikoje išduotas vairuotojo pažymėjimas galioja, neprivalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti vairuotojo pažymėjimo, jeigu jis pateikia galiojantį savo asmens tapatybę patvirtinantį dokumentą.
 
 
 
 
-7. Transporto priemonių vairuotojai privalo vykdyti šiame įstatyme, Policijos veiklos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus transporto priemones tikrinančių pareigūnų ir eismo reguliuotojų nurodymus, laikytis KET nustatytos elgesio tvarkos, kai juos sustabdo tikrinantys pareigūnai.
+7. Šio straipsnio 6 dalyje nurodytas motorinės transporto priemonės ir (ar) priekabos vairuotojas, kuris vairuoja Lietuvos Respublikoje įregistruotą motorinę transporto priemonę ir (ar) priekabą, neprivalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti privalomosios techninės apžiūros dokumento ir transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimo (poliso).
 
 
 
 
-8. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojai privalo užtikrinti, kad jų transporto priemonės neviršytų teisės aktuose nustatyto triukšmo lygio. 
+8. Šio straipsnio 6 dalyje nurodytas motorinės transporto priemonės ir (ar) priekabos vairuotojas, kuris vairuoja jam nuosavybės teise priklausančią Lietuvos Respublikoje įregistruotą motorinę transporto priemonę ir (ar) priekabą, neprivalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti šio straipsnio 7 dalyje nurodytų dokumentų ir transporto priemonės registravimo dokumento.
 
 
 
 
-9. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojams draudžiama naudotis mobiliojo ryšio priemonėmis, jeigu jomis naudojamasi rankomis, išskyrus atvejus, kai stovinčios motorinės transporto priemonės variklis išjungtas. 
+9. Lietuvos Respublikoje išduoto vairuotojo pažymėjimo nereikia turėti asmenims, turintiems Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos asociacijos šalyse išduotus galiojančius vairuotojo pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai Lietuvos Respublikoje galioja, jeigu jų turėtojas nėra nuolatinis Lietuvos Respublikos gyventojas. Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jeigu jų turėtojai nėra sukakę šio įstatymo nustatyto amžiaus arba jeigu vairuotojo pažymėjimai buvo išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie nustatyta tvarka nesusigrąžino teisės vairuoti transporto priemonę po to, kai ji buvo atimta. Be to, nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas atimtas jį išdavusioje valstybėje.
 
 
 
 
-10. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas, sustojęs tamsiuoju paros metu neapšviestame kelyje, išskyrus stovėti skirtas vietas, išlipęs iš motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos, privalo vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais.
+10. Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių medžiagų.
 
 
 
 
-11. Motorinių transporto priemonių vairuotojai privalo nustatyta tvarka dalyvauti ir užbaigti papildomus vairuotojų mokymus.
+11. Transporto priemonių vairuotojai privalo vykdyti šiame įstatyme, Policijos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus tikrinančių pareigūnų ir eismo reguliuotojų nurodymus, laikytis KET nustatytos elgesio tvarkos, kai juos sustabdo tikrinantys pareigūnai.
 
 
 
 
-12. Transporto priemonių vairuotojai privalo kelyje visada elgtis taip, kad nesukeltų pavojaus kitiems eismo dalyviams ir nesudarytų kliūčių jų eismui.
+12. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojai privalo užtikrinti, kad jų naudojamos transporto priemonės neviršytų teisės aktuose nustatyto triukšmo lygio.
 
 
 
 
-13. Transporto priemonių vairuotojai privalo imtis papildomų atsargumo priemonių, jei kelyje yra vaikai arba neįgalieji.
+13. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojams draudžiama naudotis mobiliojo ryšio priemonėmis, jeigu jomis naudojamasi rankomis, išskyrus atvejus, kai stovinčios motorinės transporto priemonės variklis išjungtas.
 
 
 
 
-14. Motorinių transporto priemonių ir (ar) priekabų vairuotojai privalo tikrintis sveikatą Vyriausybės ar jos įgaliotos institucijos nustatytu periodiškumu.
+14. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas, sustojęs tamsiuoju paros metu neapšviestame kelyje, išskyrus stovėti skirtas vietas, išlipęs iš motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos, privalo vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais.
 
 
 
 
-15. Savivaldžių automobilių bandymus viešajame eisme privalo atlikti asmenys, kurie bet kuriuo metu tiesiogiai ar nuotoliniu būdu gali perimti savivaldžių automobilių valdymą. Šie asmenys savivaldžių automobilių bandymų metu yra prilyginami vairuotojams, vykdo įstatymuose ir kituose teisės aktuose nustatytas vairuotojų pareigas ir privalo turėti galiojantį vairuotojo pažymėjimą, kuriuo suteikiama teisė vairuoti bandomos kategorijos motorines transporto priemones. 
-Papildyta straipsnio dalimi:
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
- 
+15. Motorinių transporto priemonių vairuotojai privalo nustatyta tvarka dalyvauti ir baigti papildomus vairuotojų mokymus.
 
 
 
 
-16. Kitas transporto priemonių vairuotojų pareigas ir jų veiksmus konkrečiomis eismo situacijomis nustato KET.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
- 
+16. Transporto priemonių vairuotojai privalo kelyje visada elgtis taip, kad nesukeltų pavojaus kitiems eismo dalyviams ir nesudarytų kliūčių jų eismui.
 
 
+
+
+17. Transporto priemonių vairuotojai privalo imtis papildomų atsargumo priemonių, kai kelyje yra vaikai arba neįgalieji.
+
+
+
+
+18. Motorinių transporto priemonių ir (ar) priekabų vairuotojai privalo tikrintis sveikatą Vyriausybės ar jos įgaliotos institucijos nustatytu periodiškumu.
+
+
+
+
+19. Kitas transporto priemonių vairuotojų pareigas ir jų veiksmus konkrečiomis eismo situacijomis nustato KET. 
 Straipsnio pakeitimai:
 Nr. XI-1943, 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
 Nr. XI-2107, 2012-06-21, Žin., 2012, Nr. 78-4029 (2012-07-04)
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
  
 
 
@@ -1967,7 +1975,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones patvirtina įrašas Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ir valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat policijos įstaigų išduoti vairuotojo pažymėjimai ir šio įstatymo 13 straipsnio 5 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai.
+3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones, kai teisė vairuoti transporto priemones nėra atimta, patvirtina įrašas apie išduotą vairuotojo pažymėjimą Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ar valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, kurio duomenys tvarkomi Lietuvos Respublikos kelių transporto priemonių vairuotojų registre, ir šio įstatymo 13 straipsnio 9 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
+ 
 
 
 
@@ -3355,3 +3366,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 25 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 13 ir 22 straipsnių pakeitimo įstatymas
