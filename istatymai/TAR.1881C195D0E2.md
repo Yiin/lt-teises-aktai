@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
+ 
+TAR pastaba. Nuo šio įstatymo (Nr. XIII-1102) įsigaliojimo dienos (2018-07-01) žvalgybos pareigūnams tarnybiniai atlyginimai mokami pagal šiuo įstatymu pakeisto Lietuvos Respublikos žvalgybos įstatymo ir Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatas. Jeigu iki šio įstatymo įsigaliojimo žvalgybos pareigūno tarnybinis atlyginimas (pareiginė alga su priedais už tarnybinį rangą ar kario laipsnį ir tarnybos stažą) buvo didesnis negu tarnybinis atlyginimas (pareiginė alga su priedais už tarnybinį rangą ar kario laipsnį, priedu už tarnybos stažą ir priemoka už su ypatinga specifika susijusių funkcijų atlikimą), kuris jam turi būti mokamas pagal šiuo įstatymu pakeisto Lietuvos Respublikos žvalgybos įstatymo ir Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatas, žvalgybos pareigūnui paliekamas iki šio įstatymo įsigaliojimo gautas tarnybinis atlyginimas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2013-01-01:
 Nr. XI-2289, 2012-10-17, Žin. 2012, Nr. 129-6463 (2012-11-08), i. k. 1121010ISTA0XI-2289
@@ -2627,7 +2632,10 @@ VIENUOLIKTASIS SKIRSNIS
 
 
 
-3) vienkartine pinigine išmoka, neviršijančia žvalgybos pareigūno vieno mėnesio vidutinio tarnybinio atlyginimo dydžio sumos;
+3) iki 2 pareiginių algų dydžio pinigine išmoka už asmeninį išskirtinį indėlį įgyvendinant žvalgybos institucijai nustatytus tikslus arba pasiektus rezultatus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
+ 
 
 
 
@@ -3182,183 +3190,183 @@ TRYLIKTASIS SKIRSNIS
  
 
 
-64 straipsnis. Žvalgybos pareigūnų tarnybinis atlyginimas ir kitos su tarnybos santykiais susijusios išmokos
+64 straipsnis. Žvalgybos pareigūnų tarnybinis atlyginimas ir kitos su tarnybos santykiais susijusios išmokos 
 
 
-1. Žvalgybos pareigūnų tarnybinis atlyginimas susideda iš pareiginės algos, priedų už tarnybinį rangą ar kario laipsnį ir tarnybos stažą.
+1. Žvalgybos pareigūnų tarnybinį atlyginimą sudaro pareiginė alga, priedai už tarnybinį rangą ar kario laipsnį, priedas už tarnybos stažą ir priemoka už su ypatinga specifika susijusių funkcijų atlikimą.
 
 
 
 
-2. Žvalgybos pareigūnų pareiginės algos dydžius nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+2. Žvalgybos pareigūnų pareiginės algos koeficientus ar jų intervalus nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas. Jeigu Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme pareigybei yra nustatyti pareiginės algos koeficientų intervalai, konkretų pareiginės algos koeficientą pareigybei nustato žvalgybos institucijos vadovas, atsižvelgdamas į šiuos kriterijus: veiklos pobūdį, pavojingumą, sudėtingumą, reikalaujamą kompetenciją, įtaką institucijos sprendimų priėmimui ir atsakomybės lygį. 
 
 
 
 
-3. Žvalgybos pareigūnų priedas už kario laipsnį skaičiuojamas nuo pareiginės algos bazinio dydžio:
+3. Žvalgybos pareigūnų priedas už kario laipsnį skaičiuojamas nuo pareiginės algos koeficiento, nustatyto pagal šio straipsnio 2 dalį:
 
 
-1) brigados generolui, flotilės admirolui – 1,5;
+1) brigados generolo, flotilės admirolo – 30 procentų dydžio;
 
 
 
 
-2) pulkininkui, jūrų kapitonui – 1,4;
+2) pulkininko, jūrų kapitono – 30 procentų dydžio;
 
 
 
 
-3) pulkininkui leitenantui, komandorui – 1,3;
+3) pulkininko leitenanto, komandoro – 27 procentų dydžio;
 
 
 
 
-4) majorui, komandorui leitenantui – 1,2;
+4) majoro, komandoro leitenanto – 25 procentų dydžio;
 
 
 
 
-5) kapitonui, kapitonui leitenantui – 1,15;
+5) kapitono, kapitono leitenanto – 22 procentų dydžio;
 
 
 
 
-6) vyresniajam leitenantui – 1,1;
+6) vyresniojo leitenanto – 20 procentų dydžio;
 
 
 
 
-7) leitenantui – 1;
+7) leitenanto – 18 procentų dydžio;
 
 
 
 
-8) seržantui majorui, vyresniajam laivūnui – 0,9;
+8) seržanto majoro, vyresniojo laivūno – 16 procentų dydžio;
 
 
 
 
-9) viršilai, laivūnui – 0,8;
+9) viršilos, laivūno – 14 procentų dydžio;
 
 
 
 
-10) štabo seržantui, štabo seržantui specialistui, štabo laivūnui, štabo laivūnui specialistui – 0,75;
+10) štabo seržanto, štabo seržanto specialisto, štabo laivūno, štabo laivūno specialisto –12 procentų dydžio;
 
 
 
 
-11) vyresniajam seržantui, vyresniajam seržantui specialistui – 0,7;
+11) vyresniojo seržanto, vyresnio seržanto specialisto – 10 procentų dydžio;
 
 
 
 
-12) seržantui, seržantui specialistui – 0,5;
+12) seržanto, seržanto specialisto – 8 procentų dydžio;
 
 
 
 
-13) grandiniui – 0,4;
+13) grandinio – 7 procentų dydžio;
 
 
 
 
-14) vyresniajam eiliniui, vyresniajam jūreiviui – 0,3;
+14) vyresniojo eilinio, vyresniojo jūreivio – 6 procentų dydžio;
 
 
 
 
-15) eiliniui, jūreiviui – 0,2;
+15) eilinio, jūreivio – 5 procentų dydžio;
 
 
 
 
-16) jaunesniajam eiliniui, jaunesniajam jūreiviui – 0,1.
+16) jaunesniojo eilinio, jaunesniojo jūreivio – 4 procentų dydžio.
 
 
 
 
 
 
-4. Žvalgybos pareigūnų priedas už tarnybinį rangą skaičiuojamas nuo pareiginės algos bazinio dydžio:
+4. Žvalgybos pareigūnų priedas už tarnybinį rangą skaičiuojamas nuo pareiginės algos koeficiento, nustatyto pagal šio straipsnio 2 dalį:
 
 
-1) pirmo rango – 1,5;
+1) pirmą rangą – 30 procentų dydžio;
 
 
 
 
-2) antro rango – 1,4;
+2) antrą rangą – 30 procentų dydžio;
 
 
 
 
-3) trečio rango – 1,3;
+3) trečią rangą – 27 procentų dydžio;
 
 
 
 
-4) ketvirto rango – 1,2;
+4) ketvirtą rangą – 25 procentų dydžio;
 
 
 
 
-5) penkto rango – 1,15;
+5) penktą rangą – 22 procentų dydžio;
 
 
 
 
-6) šešto rango – 1,1;
+6) šeštą rangą – 20 procentų dydžio;
 
 
 
 
-7) septinto rango – 1;
+7) septintą rangą – 18 procentų dydžio;
 
 
 
 
-8) aštunto rango – 0,9;
+8) aštuntą rangą – 16 procentų dydžio;
 
 
 
 
-9) devinto rango – 0,8;
+9) devintą rangą – 14 procentų dydžio;
 
 
 
 
-10) dešimto rango – 0,75;
+10) dešimtą rangą – 12 procentų dydžio;
 
 
 
 
-11) vienuolikto rango – 0,7;
+11) vienuoliktą rangą – 10 procentų dydžio;
 
 
 
 
-12) dvylikto rango – 0,5;
+12) dvyliktą rangą – 8 procentų dydžio;
 
 
 
 
-13) trylikto rango – 0,4;
+13) tryliktą rangą – 7 procentų dydžio;
 
 
 
 
-14) keturiolikto rango – 0,3;
+14) keturioliktą rangą – 6 procentų dydžio;
 
 
 
 
-15) penkiolikto rango – 0,2;
+15) penkioliktą rangą – 5 procentų dydžio;
 
 
 
 
-16) šešiolikto rango – 0,1.
+16) šešioliktą rangą – 4 procentų dydžio.
 
 
 
@@ -3368,80 +3376,99 @@ TRYLIKTASIS SKIRSNIS
 5. Žvalgybos pareigūnų priedas už tarnybos stažą skaičiuojamas nuo pareiginės algos bazinio dydžio:
 
 
-1) nuo 1 iki 2 metų – 0,45;
+1) nuo 1 iki 2 metų – 0,3;
 
 
 
 
-2) nuo 2 iki 4 metų – 0,8;
+2) nuo 2 iki 4 metų – 0,6;
 
 
 
 
-3) nuo 4 iki 6 metų – 1,25;
+3) nuo 4 iki 6 metų – 0,9;
 
 
 
 
-4) nuo 6 iki 8 metų – 1,5;
+4) nuo 6 iki 8 metų – 1,2;
 
 
 
 
-5) nuo 8 iki 10 metų – 1,8;
+5) nuo 8 iki 10 metų – 1,5;
 
 
 
 
-6) nuo 10 iki 12 metų – 2,25;
+6) nuo 10 iki 12 metų – 1,8;
 
 
 
 
-7) nuo 12 iki 14 metų – 2,7;
+7) nuo 12 iki 14 metų – 2,1;
 
 
 
 
-8) nuo 14 iki 16 metų – 3,15;
+8) nuo 14 iki 16 metų – 2,4;
 
 
 
 
-9) nuo 16 iki 18 metų – 3,6;
+9) nuo 16 iki 18 metų – 2,7;
 
 
 
 
-10) nuo 18 iki 20 metų – 4,05;
+10) nuo 18 iki 20 metų – 3;
 
 
 
 
-11) nuo 20 metų už kiekvienus paskesnius tarnybos metus papildomai – 0,25.
+11) nuo 20 iki 22 metų– 3,3;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-121, 2012-12-20, Žin., 2012, Nr. 155-7999 (2012-12-31), i. k. 1121010ISTA0XII-121
+
+
+12) nuo 22 iki 24 metų – 3,6;
+
+
+
+
+13) nuo 24 iki 25 metų – 3,9;
+
+
+
+
+14) nuo 25 metų – 4,2.
+
+
+
+
+
+
+6. Žvalgybos pareigūnui už funkcijų, susijusių su ypatinga specifika atlikimą, mokama iki 50 procentų pareiginės algos dydžio priemoka. Funkcijų, susijusių su ypatinga specifika, sąrašas ir šias funkcijas atitinkantis priemokos dydis tvirtinami bendru Valstybės saugumo departamento direktoriaus ir Lietuvos Respublikos krašto apsaugos ministro įsakymu.
+
+
+
+
+7. Kasmetinių atostogų laikotarpiu žvalgybos pareigūnams mokamas vidutinis tarnybinis atlyginimas, apskaičiuotas Vyriausybės nustatyta tvarka.
+
+
+
+
+8. Žvalgybos pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kai laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai asmuo tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš institucijos lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.
+
+
+
+
+9. Antrajame operatyvinių tarnybų departamente tarnaujantiems kariams Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nuostatos dėl aprūpinimo maistu ir tarnybine gyvenamąja patalpa netaikomos, išskyrus karius, tarnaujančius tarptautinių operacijų kariniuose vienetuose. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
  
-
-
-
-
-6. Kasmetinių atostogų laikotarpiu žvalgybos pareigūnams mokamas vidutinis tarnybinis atlyginimas, apskaičiuotas Vyriausybės nustatyta tvarka.
-
-
-
-
-7. Žvalgybos pareigūnams, tapusiems laikinai nedarbingais dėl tarnybinių pareigų atlikimo arba kai laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai asmuo tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į ją (iš jos), iš institucijos lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos pašalpos skirtumas.
-
-
-
-
-8. Antrajame operatyvinių tarnybų departamente tarnaujantiems kariams Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nuostatos dėl aprūpinimo maistu ir tarnybine gyvenamąja patalpa netaikomos, išskyrus karius, tarnaujančius tarptautinių operacijų kariniuose vienetuose.
- 
-
-
 
 
 
@@ -3954,3 +3981,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 9, 48, 49 straipsnių ir devintojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas
