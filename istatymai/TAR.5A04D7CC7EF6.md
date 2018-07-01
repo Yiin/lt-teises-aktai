@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
  
@@ -288,24 +288,90 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 
 
-61 straipsnis. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovų skyrimas
+61 straipsnis. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovų darbo santykių reglamentavimo ypatumai
 
 
-1. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovai į darbą priimami konkurso būdu.
-
-
-
-
-2. Lietuvos nacionalinės, apskričių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami penkerių metų kadencijai konkurso būdu. Kadencijų skaičius neribojamas.
+1. Bibliotekų, kurių savininkė yra valstybė ar savivaldybė, vadovai į darbą priimami konkurso būdu Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 
 
 
-3. Kvalifikacinius reikalavimus šio straipsnio 1 ir 2 dalyse nurodytų bibliotekų vadovams ir konkurso šioms pareigoms eiti tvarką nustato Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota valstybės valdymo institucija. 
+2. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami 5 metų kadencijai. Lietuvos nacionalinės bibliotekos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
 
 
-Papildyta straipsniu:
-Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
+
+
+3. Kvalifikacinius reikalavimus šio straipsnio 2 dalyje nurodytų bibliotekų vadovams nustato kultūros ministras.
+
+
+
+
+4. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
+
+
+1) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusikaltimo padarymo ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+
+
+
+
+3) yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+4) yra uždraustos organizacijos narys;
+
+
+
+
+5) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, darbo pareigų pažeidimų ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
+
+
+
+
+6) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+
+
+
+
+7) yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai;
+
+
+
+
+8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją.
+TAR pastaba. 61 straipsnio 4 dalis netaikoma Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovams, priimtiems į pareigas iki įstatymo Nr. XII-1316 įsigaliojimo (2018-07-01), jeigu Lietuvos Respublikos bibliotekų įstatymo 61 straipsnio 4 dalyje numatytos sąlygos atsirado iki šio įstatymo įsigaliojimo.
+
+
+
+
+
+
+5. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovams leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
+
+
+1) nesukelia viešųjų ir privačių interesų konflikto; 
+
+
+
+
+2) nediskredituoja bibliotekos autoriteto.
+
+
+
+
+
+
+6. Sprendimą dėl leidimo šio straipsnio 5 dalyje nurodytų bibliotekų vadovams dirbti kitą darbą ir už šį darbą gauti atlyginimą priima šių įstaigų vadovus į pareigas skiriančių institucijų vadovai jų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1316, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10968
  
 
 
@@ -934,3 +1000,8 @@ Lietuvos Respublikos bibliotekų įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-676, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16706
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 7 ir 17 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1316, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10968
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 6-1 straipsnio pakeitimo įstatymas
