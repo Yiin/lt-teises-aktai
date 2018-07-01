@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-11
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -6580,22 +6580,17 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 
 
-2. Nepilnametis liudytojas ar nepilnametis nukentėjusysis ikiteisminio tyrimo metu paprastai apklausiami vaikų apklausoms pritaikytose patalpose ir ne daugiau kaip vieną kartą. Tais atvejais, kai ikiteisminio tyrimo metu būtina pakartotinė nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausa, juos paprastai apklausia tas pats asmuo. Jų apklausos metu turi būti daromas vaizdo ir garso įrašas. Jeigu nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausoje dalyvauja įtariamasis ar jo gynėjas, ikiteisminio tyrimo teisėjas privalo užtikrinti, kad tokiam liudytojui ar nukentėjusiajam nebūtų daromas neleistinas poveikis. Nepilnametis liudytojas ir nepilnametis nukentėjusysis į teisiamąjį posėdį šaukiami tik išimtiniais atvejais.
+2. Nepilnametis liudytojas ar nepilnametis nukentėjusysis ikiteisminio tyrimo metu apklausiami vaikų apklausoms pritaikytose patalpose ir paprastai ne daugiau kaip vieną kartą. Tais atvejais, kai ikiteisminio tyrimo metu būtina pakartotinė nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausa, juos paprastai apklausia tas pats asmuo. Jų apklausos metu turi būti daromas vaizdo ir garso įrašas. Nepilnametis liudytojas ir nepilnametis nukentėjusysis į teisiamąjį posėdį šaukiami tik išimtiniais atvejais.
 
 
 
 
-3. Jei nepilnamečiui liudytojui ar nepilnamečiui nukentėjusiajam įtariamasis gali daryti poveikį, ikiteisminio tyrimo teisėjas nutartimi įtariamajam apklausoje dalyvauti neleidžia. Prokuroras apie ikiteisminio tyrimo teisėjo priimtą nutartį neleisti dalyvauti apklausoje įtariamąjį ir jo gynėją informuoja įteikdamas šios nutarties nuorašą.
+3. Į mažamečio liudytojo ar mažamečio nukentėjusiojo apklausą visuomet, taip pat į nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausą dėl nusikaltimų žmogaus gyvybei, sveikatai, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, dėl pelnymosi iš nepilnamečio prostitucijos ar nepilnamečio įtraukimo į prostituciją arba kitais atvejais, kai to prašo proceso dalyviai arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva, privalo būti kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, taip pat valstybinės vaiko teisių apsaugos institucijos atstovas, kuris iš kitos patalpos stebi, ar apklausos metu nepažeidžiamos nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos. Nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausoje turi teisę dalyvauti jo atstovas tik įvertinus, ar jis nedarys poveikio nepilnamečiui.
 
 
 
 
-4. Nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apsaugos interesais ikiteisminio tyrimo teisėjo nutartimi įtariamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o įtariamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos bei per ikiteisminio tyrimo teisėją užduoti apklausiamam asmeniui klausimus. Jei neįmanoma įtariamajam ir kitiems proceso dalyviams sudaryti sąlygų stebėti ir girdėti apklausą iš kitos patalpos, apklausa atliekama įtariamajam ir kitiems proceso dalyviams nedalyvaujant. Tokios apklausos metu padarytas garso ir vaizdo įrašas tuoj po apklausos parodomas įtariamajam ir kitiems proceso dalyviams, kurie per ikiteisminio tyrimo teisėją turi teisę užduoti apklausiamam asmeniui klausimus.
-
-
-
-
-5. Nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausoje turi teisę dalyvauti jo atstovas. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo apklausą privalo būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
+4. Įtariamajam ir kitiems proceso dalyviams, išskyrus psichologą ir nepilnamečio liudytojo ar nepilnamečio nukentėjusiojo atstovą, neleidžiama būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o įtariamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos bei per ikiteisminio tyrimo teisėją užduoti apklausiamam asmeniui klausimų. Jei neįmanoma įtariamajam ir kitiems proceso dalyviams sudaryti sąlygų stebėti ir girdėti apklausą iš kitos patalpos, apklausa atliekama įtariamajam ir kitiems proceso dalyviams nedalyvaujant. Tokios apklausos metu padarytas garso ir vaizdo įrašas tuoj po apklausos parodomas įtariamajam ir kitiems proceso dalyviams, kurie per ikiteisminio tyrimo teisėją turi teisę užduoti apklausiamam asmeniui klausimų.
 
 
 Straipsnio pakeitimai:
@@ -6605,6 +6600,7 @@ Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
 Straipsnio pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
  
 
 
@@ -6690,9 +6686,10 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 
 
 
-5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio įtariamojo apklausą gali būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
+5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio įtariamojo apklausą kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, ir (ar) valstybinės vaiko teisių apsaugos institucijos atstovas, kuris stebi, ar apklausos metu nepažeidžiamos nepilnamečio įtariamojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
  
 
 
@@ -8796,28 +8793,40 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-260 straipsnis. Garso ir vaizdo įrašymo priemonių naudojimo teisiamajame posėdyje tvarka
+260 straipsnis. Techninių priemonių naudojimo teisiamajame posėdyje tvarka
 
 
-1. Teisiamojo posėdžio metu naudoti kino ar televizijos kameras, fotoaparatus, taip pat kitas garso ir vaizdo įrašymo priemones neleidžiama.
-
-
-
-
-2. Šias priemones proceso metu gali naudoti teismas posėdžiui užfiksuoti.
+1. Teisiamajam posėdžiui fiksuoti teismas gali naudoti bet kurias technines priemones.
 
 
 
 
-3. Nagrinėjimo teisme dalyviai, atlikdami savo procesines funkcijas, gali naudoti garso įrašymo priemones, kurios netrukdo teisiamajam posėdžiui.
+2. Nagrinėjimo teisme dalyviai gali naudoti garso įrašymo priemones, kurios netrukdo teisiamajam posėdžiui, ir šiomis priemonėmis padarytą garso įrašą naudoti tik savo procesinių teisių įgyvendinimo tikslais. Apie daromą garso įrašą nagrinėjimo teisme dalyviai privalo informuoti teisiamojo posėdžio pirmininką.
 
 
 
 
-4. Šiame straipsnyje nustatytą tvarką pažeidę asmenys teisiamojo posėdžio pirmininko įspėjami arba pašalinami iš posėdžių salės, o nepaklususiems teisiamojo posėdžio pirmininko sprendimui arba nors ir paklususiems, tačiau tai dariusiems triukšmaujant ar rodant kitokią nepagarbą teismui taikomos šio Kodekso 259 straipsnio 4 dalyje numatytos nuobaudos.
+3. Asmens prašymu teismas leidžia visuomenės informavimo, mokslo ar mokymo tikslais teismo sprendimo skelbimą transliuoti, filmuoti, fotografuoti, jo metu daryti garso ar vaizdo įrašą, naudoti kitas technines priemones laikantis šiame straipsnyje ir kituose teisės aktuose nustatytų reikalavimų. Teismas neleidžia naudoti techninių priemonių, kai tai gali sutrikdyti teismo darbą, parodyti nepagarbą teismui arba yra būtina apsaugoti kitų asmenų teises ar kitus įstatymų saugomus interesus. Teismo leidimo nereikia, kai teismo sprendimo skelbimo garso įrašas daromas pagal šio straipsnio 2 dalį. Teisėjų taryba nustato asmenų prašymų leisti teismo sprendimo skelbimo metu naudoti technines priemones pateikimo ir nagrinėjimo, taip pat šių techninių priemonių naudojimo tvarką ir sąlygas ir teismo leidimų naudoti techninių priemonių panaudojimo rezultatus išdavimo tvarką.
+
+
+
+
+4. Techninių priemonių panaudojimo rezultatus gali naudoti tik teismo leidime nurodytas asmuo teismo leidime nurodytais tikslais, būdais ir sąlygomis. Teismo leidime nurodytas asmuo, pageidaujantis techninių priemonių panaudojimo rezultatus leisti naudoti kitam asmeniui arba naudoti kitais tikslais, būdais ir sąlygomis, negu nurodyta teismo leidime, privalo Teisėjų tarybos nustatyta tvarka gauti naują teismo leidimą. Techninių priemonių panaudojimo rezultatai negali būti naudojami taip, kad būtų pažeistos kitų asmenų teisės ar kiti įstatymų saugomi interesai arba būtų iškraipytas teismo sprendimo turinys ar esmė, taip pat negali būti naudojami politinės ar kitokios reklamos, satyros, pramogų ir kitais su pagarba teismui nesuderinamais tikslais. Techninių priemonių panaudojimo rezultatams ir jų naudojimui taip pat taikomi kituose įstatymuose nustatyti visuomenės informavimo, asmens duomenų apsaugos, teisės į privataus gyvenimo neliečiamumą bei asmens garbės ir orumo apsaugos reikalavimai.
+
+
+
+
+5. Kitais, negu nurodyta šiame straipsnyje, atvejais draudžiama teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus, transliuoti posėdį ir naudoti kitas technines priemones.
+
+
+
+
+6. Šiame straipsnyje nustatytą tvarką pažeidę asmenys teisiamojo posėdžio pirmininko įspėjami arba pašalinami iš posėdžių salės, o nepaklususiems teisiamojo posėdžio pirmininko sprendimui arba nors ir paklususiems, tačiau tai dariusiems triukšmaujant ar rodant kitokią nepagarbą teismui taikomos šio Kodekso 259 straipsnio 4 dalyje numatytos nuobaudos. Asmenims, pažeidusiems reikalavimus, taikomus techninių priemonių panaudojimo teismo posėdyje rezultatų naudojimui, taikoma įstatymuose nustatyta atsakomybė. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-608, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12428
  
-
-
 
 
 
@@ -9104,9 +9113,10 @@ XXI skyrius
 
 
 
-4. Nagrinėjimo teisme dalyvių prašymu arba teismo iniciatyva į nepilnamečio kaltinamojo apklausą gali būti kviečiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą.
+4. Nagrinėjimo teisme dalyvių prašymu arba teismo iniciatyva į nepilnamečio kaltinamojo apklausą kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, ir (ar) valstybinės vaiko teisių apsaugos institucijos atstovas, kuris stebi, ar apklausos metu nepažeidžiamos nepilnamečio kaltinamojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
  
 
 
@@ -9349,23 +9359,19 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 280 straipsnis. Nepilnamečio liudytojo apklausos ypatumai
 
 
-1. Kai išimtiniais atvejais būtina teisme apklausti nepilnametį liudytoją, šaukiamas valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti nepilnametį atsižvelgdami į jo socialinę ir psichologinę brandą. Prireikus dalyvauti apklausoje taip pat šaukiami nepilnamečio liudytojo tėvai ar kiti atstovai pagal įstatymą. Dalyvaujantys apklausoje valstybinės vaiko teisių apsaugos institucijos atstovas arba psichologas, nepilnamečio liudytojo tėvai ar kiti atstovai pagal įstatymą teisiamojo posėdžio pirmininko leidimu gali užduoti liudytojui klausimus.
+1. Kai išimtiniais atvejais būtina teisme apklausti mažametį liudytoją, visuomet, o nepilnametį liudytoją dėl nusikaltimų žmogaus gyvybei, sveikatai, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, dėl pelnymosi iš nepilnamečio prostitucijos ar nepilnamečio įtraukimo į prostituciją arba kitais atvejais, kai to prašo nagrinėjimo teisme dalyviai arba teismo iniciatyva, privalo būti kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, taip pat valstybinės vaiko teisių apsaugos institucijos atstovas, kuris iš kitos patalpos stebi, ar apklausos metu nepažeidžiamos nepilnamečio liudytojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos. Nepilnamečio liudytojo apklausoje turi teisę dalyvauti jo atstovas tik įvertinus, ar jis nedarys poveikio nepilnamečiui. 
 
 
 
 
-2. Jaunesnis kaip šešiolikos metų liudytojas po jo apklausos turi būti pašalinamas iš posėdžių salės, jeigu teismas nepripažįsta, kad jam likti salėje būtina.
-
-
-
-
-3. Nepilnamečio liudytojo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus.
+2. Kaltinamajam ir kitiems proceso dalyviams, išskyrus psichologą ir nepilnamečio liudytojo atstovą, neleidžiama būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimų.
 
 
 Straipsnio pakeitimai:
 Nr. XII-777, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03403
 Straipsnio pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
  
 
 
@@ -9426,9 +9432,10 @@ Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 
 
 
-3. Kai išimtiniais atvejais nepilnametis nukentėjusysis šaukiamas į teismą, jo apsaugos interesais teisėjo ar teismo nutartimi kaltinamajam ir kitiems proceso dalyviams, išskyrus valstybinės vaiko teisių apsaugos institucijos atstovą arba psichologą, gali būti neleista būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimus. Nepilnamečio nukentėjusiojo apklausoje turi dalyvauti jo atstovas. Nepilnametis nukentėjusysis ir jo atstovas teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką. 
+3. Kai išimtiniais atvejais būtina teisme apklausti mažametį nukentėjusįjį, visuomet, o nepilnametį nukentėjusįjį dėl nusikaltimų žmogaus gyvybei, sveikatai, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, dėl pelnymosi iš nepilnamečio prostitucijos ar nepilnamečio įtraukimo į prostituciją arba kitais atvejais, kai to prašo nagrinėjimo teisme dalyviai arba teismo iniciatyva, privalo būti kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, taip pat valstybinės vaiko teisių apsaugos institucijos atstovas, kuris iš kitos patalpos stebi, ar apklausos metu nepažeidžiamos nepilnamečio nukentėjusiojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos. Kaltinamajam ir kitiems proceso dalyviams, išskyrus psichologą ir nepilnamečio nukentėjusiojo atstovą, neleidžiama būti patalpoje, kurioje atliekama apklausa. Tokiu atveju privalomai turi būti daromas garso ir vaizdo įrašas, o kaltinamajam ir kitiems proceso dalyviams turi būti sudaromos sąlygos stebėti ir girdėti apklausą iš kitos patalpos ir per teisėją ar teismą užduoti apklausiamam asmeniui klausimų. Nepilnamečio nukentėjusiojo apklausoje turi teisę dalyvauti jo atstovas tik įvertinus, ar jis nedarys poveikio nepilnamečiui. Nepilnametis nukentėjusysis ir jo atstovas teismo nutartimi gali dalyvauti ne visą bylos nagrinėjimo laiką.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
  
 
 
@@ -10174,7 +10181,10 @@ Nr. XII-551, 2013-10-10, Žin., 2013, Nr. 109-5365 (2013-10-17)
 308 straipsnis. Nuosprendžio paskelbimas
 
 
-1. Iš anksto praneštu laiku teismas ar vienas iš bylą nagrinėjusios kolegijos teisėjų grįžta į teismo posėdžių salę ir paskelbia nuosprendį perskaitydamas jo įžanginę ir rezoliucinę dalis arba visą nuosprendį. Paskelbus tik nuosprendžio įžanginę ir rezoliucinę dalis, teismas žodžiu turi paaiškinti priimto nuosprendžio motyvus, kuriuos gali papildyti perskaitydamas atskiras nuosprendžio dalis.
+1. Iš anksto praneštu laiku teismas ar vienas iš bylą nagrinėjusios kolegijos teisėjų grįžta į teismo posėdžių salę ir paskelbia nuosprendį perskaitydamas jo įžanginę ir rezoliucinę dalis arba visą nuosprendį. Paskelbus tik nuosprendžio įžanginę ir rezoliucinę dalis, teismas žodžiu turi paaiškinti priimto nuosprendžio motyvus, kuriuos gali papildyti perskaitydamas atskiras nuosprendžio dalis. Teismas paprastai neskelbia fizinio asmens kodo, gyvenamosios ar buvimo vietos adreso, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerio, elektroninio pašto adreso ir kitų kontaktinių duomenų, gimimo datos ir vietos, šeiminės padėties, darbovietės ir einamų pareigų, transporto priemonės valstybinio numerio, kredito įstaigos sąskaitos numerio, unikalaus nekilnojamojo ar kito registruotino turto numerio, šio turto buvimo vietos tikslaus adreso, duomenų, sudarančių bylos medžiagą, teismo pripažintą nevieša, taip pat ypatingų asmens duomenų ir kitų asmens duomenų, saugomų atskirai nuo kitos ikiteisminio tyrimo medžiagos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-608, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12428
+ 
 
 
 
@@ -11397,7 +11407,10 @@ Prieš pateikdamas nuosprendį vykdyti, teismas gali leisti suimto nuteistojo š
 
 
 
-2. Patvarkymą vykdyti nuosprendį surašo teisėjas ir kartu su nuosprendžio nuorašu išsiunčia bausmės vykdymo institucijai ir nuosprendžio vykdymą kontroliuojančiam prokurorui. Jeigu nuosprendis buvo pakeistas nagrinėjant bylą apeliacine tvarka, prie pirmosios instancijos teismo nuosprendžio nuorašo pridedamas apeliacinės instancijos teismo nuosprendžio ar nutarties nuorašas.
+2. Patvarkymą vykdyti nuosprendį surašo teisėjas ir kartu su nuosprendžio nuorašu išsiunčia bausmės vykdymo institucijai ir nuosprendžio pateikimą vykdyti kontroliuojančiam prokurorui. Jeigu nuosprendis buvo pakeistas nagrinėjant bylą apeliacine tvarka, prie pirmosios instancijos teismo nuosprendžio nuorašo pridedamas apeliacinės instancijos teismo nuosprendžio ar nutarties nuorašas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
+ 
 
 
 
@@ -11568,7 +11581,10 @@ Nr. XI-2200, 2012-06-30, Žin., 2012, Nr. 82-4278 (2012-07-13)
 
 
 
-3. Nuosprendžio pateikimą vykdyti ir jo vykdymą kontroliuoja prokuroras. Prokuroras pagal savo kompetenciją turi teisę išreikalauti baudžiamąją bylą, kurioje vykdomas įsiteisėjęs teismo nuosprendis.
+3. Nuosprendžio pateikimą vykdyti kontroliuoja prokuroras. Prokuroras pagal savo kompetenciją turi teisę išreikalauti baudžiamąją bylą, kurioje vykdomas įsiteisėjęs teismo nuosprendis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
+ 
 
 
 Straipsnio pakeitimai:
@@ -11592,7 +11608,10 @@ Kai nuteistajam yra kitų visiškai ar iš dalies neįvykdytų nuosprendžių, a
 348 straipsnis. Nuosprendžio vykdymo bendroji tvarka
 
 
-1. Nuosprendį vykdyti gavusi institucija, įstaiga ar įmonė ne vėliau kaip kitą dieną praneša apie tai nuosprendį vykdyti pateikusiam teismui ir nuosprendžio vykdymą kontroliuojančiam prokurorui.
+1. Nuosprendį vykdyti gavusi institucija, įstaiga ar įmonė ne vėliau kaip kitą dieną praneša apie tai nuosprendį vykdyti pateikusiam teismui ir nuosprendžio pateikimą vykdyti kontroliuojančiam prokurorui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
+ 
 
 
 
@@ -12328,7 +12347,10 @@ Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
 
 
 
-2. Piniginės sankcijos vykdymą kontroliuoja prokuroras.
+2. Netenka galios 2018-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
+ 
 
 
 
@@ -12483,7 +12505,10 @@ Nr. XI-2200, 2012-06-30, Žin., 2012, Nr. 82-4278 (2012-07-13)
 
 
 
-2. Sprendimo konfiskuoti vykdymą kontroliuoja prokuroras.
+2. Netenka galios 2018-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
+ 
 
 
 
@@ -15880,3 +15905,13 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 181, 184, 187, 188, 209, 218, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
 Lietuvos Respublikos baudžiamojo proceso kodekso 3, 233, 235, 254, 303, 305, 307, 309, 327, 331, 387, 444 ir 451 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-608, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12428
+Lietuvos Respublikos baudžiamojo proceso kodekso 260 ir 308 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
+Lietuvos Respublikos baudžiamojo proceso kodekso 342, 346, 348, 365-2 ir 365-4 straipsnių pakeitimo įstatymas
