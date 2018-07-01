@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -436,7 +436,7 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 7. Jeigu nėra įstatymo, reglamentuojančio ginčo materialinį arba procesinį santykį, teismas taiko įstatymą, reglamentuojantį panašius santykius (įstatymo analogija), o jeigu ir tokio įstatymo nėra, teismas vadovaujasi bendraisiais teisės principais (teisės analogija). Pagal analogiją negali būti taikomos specialiosios, t. y. bendrųjų taisyklių išimtis numatančios, teisės normos. 
-TAR pastaba. Buvusi 6 dalis laikoma 7 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+TAR pastaba. Buvusi 6 dalis laikoma 7 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -445,7 +445,7 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 8. Jeigu įstatymai ar ginčo šalių susitarimas numato, kad tam tikrus klausimus teismas sprendžia savo nuožiūra, teismas tai darydamas privalo vadovautis teisingumo, protingumo ir sąžiningumo kriterijais. 
-TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -454,7 +454,7 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 9. Civilinių bylų procesas vyksta pagal bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu galiojančius civilinio proceso įstatymus.
-TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -582,7 +582,42 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-5. Teismo posėdžio eigai, įrodymams fiksuoti ir jiems tirti teismas gali naudoti bet kurias technines priemones. Dalyvaujantys byloje asmenys savo procesinėms funkcijoms vykdyti viešame teismo posėdyje gali daryti garso įrašą teismo posėdžiui užfiksuoti. Apie daromą garso įrašą dalyvaujantys byloje asmenys privalo informuoti posėdžio pirmininką. Dalyvaujantys byloje asmenys, neinformavę teismo apie daromą garso įrašą, atsako Lietuvos Respublikos įstatymų nustatyta tvarka. Kitiems asmenims draudžiama teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus bei naudoti kitas technines priemones. Asmenims, pažeidusiems šį draudimą teismo posėdžio metu, taikoma įstatymų numatyta atsakomybė.
+5. Teismo posėdžio eigai, įrodymams fiksuoti ir jiems tirti teismas gali naudoti bet kurias technines priemones. Dalyvaujantys byloje asmenys viešame teismo posėdyje gali daryti garso įrašą ir jį naudoti tik savo procesinių teisių įgyvendinimo tikslais. Apie daromą garso įrašą dalyvaujantys byloje asmenys privalo informuoti posėdžio pirmininką.
+Straipsnio dalies pakeitimai:
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+ 
+
+
+
+
+6. Asmens prašymu teismas leidžia visuomenės informavimo, mokslo ar mokymo tikslais teismo sprendimo skelbimą transliuoti, filmuoti, fotografuoti, jo metu daryti garso ar vaizdo įrašą, naudoti kitas technines priemones laikantis šiame straipsnyje ir kituose teisės aktuose nustatytų reikalavimų. Teismas neleidžia naudoti techninių priemonių, kai tai gali sutrikdyti teismo darbą, parodyti nepagarbą teismui arba yra būtina apsaugoti kitų asmenų teises ar kitus įstatymų saugomus interesus. Teismo leidimo nereikia, kai teismo sprendimo skelbimo garso įrašas daromas pagal šio straipsnio 5 dalį. Teisėjų taryba nustato asmenų prašymų leisti teismo sprendimo skelbimo metu naudoti technines priemones pateikimo ir nagrinėjimo, taip pat šių techninių priemonių naudojimo tvarką ir sąlygas ir  teismo leidimų naudoti techninių priemonių panaudojimo rezultatus išdavimo tvarką. 
+Papildyta straipsnio dalimi:
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+ 
+
+
+
+
+7. Techninių priemonių panaudojimo rezultatus gali naudoti tik teismo leidime nurodytas asmuo teismo leidime nurodytais tikslais, būdais ir sąlygomis. Teismo leidime nurodytas asmuo, pageidaujantis techninių priemonių panaudojimo rezultatus leisti naudoti kitam asmeniui arba naudoti kitais tikslais, būdais ir sąlygomis, negu nurodyta teismo leidime, privalo Teisėjų tarybos nustatyta tvarka gauti naują teismo leidimą. Techninių priemonių panaudojimo rezultatai negali būti naudojami taip, kad būtų pažeistos kitų asmenų teisės ar kiti įstatymų saugomi interesai arba būtų iškraipytas teismo sprendimo turinys ar esmė, taip pat negali būti naudojami politinės ar kitokios reklamos, satyros, pramogų ir kitais su pagarba teismui nesuderinamais tikslais. Techninių priemonių panaudojimo rezultatams ir jų naudojimui taip pat taikomi kituose įstatymuose nustatyti visuomenės informavimo, asmens duomenų apsaugos, teisės į privataus gyvenimo neliečiamumą bei asmens garbės ir orumo apsaugos reikalavimai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+ 
+
+
+
+
+8. Kitais, negu nurodyta šiame straipsnyje, atvejais draudžiama teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus, transliuoti posėdį ir naudoti kitas technines priemones. 
+Papildyta straipsnio dalimi:
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+ 
+
+
+
+
+9. Asmenys, teismo posėdžio metu pažeidę techninių priemonių naudojimo reikalavimus, atsako šio kodekso 162 straipsnyje nustatyta tvarka. Asmenims, pažeidusiems reikalavimus, taikomus techninių priemonių panaudojimo teismo posėdyje rezultatų naudojimui, taikoma įstatymuose nustatyta atsakomybė.
+Papildyta straipsnio dalimi:
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+ 
 
 
 Straipsnio pakeitimai:
@@ -1018,7 +1053,10 @@ Tik Vilniaus apygardos teismas, kaip pirmosios instancijos teismas, nagrinėja c
 
 
 
-3) dėl įvaikinimo pagal užsienio valstybių piliečių prašymus įvaikinti Lietuvos Respublikos pilietį, gyvenantį Lietuvos Respublikoje arba užsienio valstybėje;
+3) dėl įvaikinimo pagal Lietuvos Respublikos piliečių, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, užsienio valstybių piliečių, asmenų be pilietybės prašymus įvaikinti Lietuvos Respublikos pilietį, gyvenantį Lietuvos Respublikoje, taip pat pagal asmenų, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, pareiškimus įvaikinti Lietuvos Respublikos pilietį, gyvenantį užsienio valstybėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -5611,7 +5649,7 @@ Bylos sustabdymas – procesinių veiksmų, kuriais siekiama bylą išspręsti i
 
 
 2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.
-TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
+TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
 
 
 Straipsnio pakeitimai:
@@ -5658,7 +5696,7 @@ Teismas gali dalyvaujančių byloje asmenų pareiškimu ar savo iniciatyva susta
 
 
 Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
-1 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos: 
+1 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01): 
 Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Europos Žmogaus Teisių Teismą, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
 
 
@@ -8085,7 +8123,10 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 
 
-6. Sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis. Teismas kiekvienoje byloje savo nuožiūra nusprendžia, kurios sprendimo dalys, be įžanginės ir rezoliucinės, turi būti paskelbiamos perskaitant.
+6. Sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis. Teismas kiekvienoje byloje savo nuožiūra nusprendžia, kurios sprendimo dalys, be įžanginės ir rezoliucinės, turi būti paskelbiamos perskaitant. Teismas paprastai neskelbia fizinio asmens kodo, gyvenamosios ar buvimo vietos adreso, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerio, elektroninio pašto adreso ir kitų kontaktinių duomenų, gimimo datos ir vietos, šeiminės padėties, darbovietės ir einamų pareigų, transporto priemonės valstybinio numerio, kredito įstaigos sąskaitos numerio, unikalaus nekilnojamojo ar kito registruotino turto numerio, šio turto buvimo vietos tikslaus adreso, duomenų, sudarančių bylos medžiagą, teismo pripažintą nevieša, taip pat ypatingų asmens duomenų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+ 
 
 
 
@@ -10244,16 +10285,23 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-2. Atskirąjį skundą nagrinėja vienas apeliacinės instancijos teismo teisėjas, tačiau apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus pirmininkas, atsižvelgdamas į bylos sudėtingumą, turi teisę atskirajam skundui nagrinėti sudaryti trijų teisėjų kolegiją. Nutartimi perduoti atskirąjį skundą nagrinėti trijų teisėjų kolegijai turi teisę ir bylą nagrinėjantis teisėjas.
+2. Atskirąjį skundą nagrinėja vienas apeliacinės instancijos teismo teisėjas, tačiau apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus pirmininkas, atsižvelgdamas į bylos sudėtingumą, turi teisę atskirajam skundui nagrinėti sudaryti trijų teisėjų kolegiją. Nutartimi perduoti atskirąjį skundą nagrinėti trijų teisėjų kolegijai turi teisę ir bylą nagrinėjantis teisėjas. 
 
 
 
 
-3. Nutartis dėl atskirojo skundo turi būti priimta ne vėliau kaip per septynias dienas nuo atskirojo skundo išnagrinėjimo teismo posėdyje dienos.
+3. Atskirasis skundas dėl teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą turi būti išnagrinėtas ne vėliau kaip per trisdešimt dienų nuo dienos, kurią atskirasis skundas buvo gautas apeliacinės instancijos teisme. 
+
+
+
+
+4. Nutartis dėl atskirojo skundo turi būti priimta ne vėliau kaip per septynias dienas nuo atskirojo skundo išnagrinėjimo teismo posėdyje dienos. 
+Straipsnio pakeitimai:
+Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
  
 
 
@@ -11109,7 +11157,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
-1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
 Straipsnio punkto pakeitimai:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
@@ -11972,7 +12020,10 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 404 straipsnis. Pasirengimas bylai
 
 
-1. Teismas, rengdamasis bylą nagrinėti teisme, paveda valstybinei vaiko teisių apsaugos institucijai pateikti išvadą dėl ginčo.
+1. Teismas, rengdamasis bylą nagrinėti teisme, paveda valstybinei vaiko teisių apsaugos institucijai pateikti išvadą dėl ginčo, išskyrus atvejus, kai ieškinį pareiškia pati valstybinė vaiko teisių apsaugos institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -14738,7 +14789,6 @@ Bylą dėl fizinio asmens pripažinimo nežinia kur esančiu teismas nagrinėja 
 
 
 
- 
 Trečiasis skirsnis
 Bylos dėl FIZINIO asmens paskelbimo mirusiu ar pripažinimo
 nežinia kur esančiu atnaujinimas
@@ -15366,15 +15416,17 @@ BYLOS DĖL ĮvaikinimO
 480 straipsnis. Pareiškimo padavimas
 
 
-1. Lietuvos Respublikos pilietis, kurio gyvenamoji vieta yra Lietuvos Respublikoje, pareiškimą dėl įvaikinimo paduoda apylinkės teismui pagal savo arba įvaikinamo vaiko gyvenamąją vietą. 
+1. Lietuvos Respublikos pilietis, kurio nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, pareiškimą įvaikinti Lietuvos Respublikos pilietį, gyvenantį Lietuvos Respublikoje, paduoda apylinkės teismui pagal savo arba įvaikinamo vaiko gyvenamąją vietą.
 
 
 
 
-2. Lietuvos Respublikos pilietis, nuolat gyvenantis užsienyje, užsienio valstybės pilietis, asmuo be pilietybės arba asmuo, turintis ir Lietuvos Respublikos, ir užsienio valstybės pilietybę, pareiškimą dėl įvaikinimo paduoda Vilniaus apygardos teismui.
+2. Lietuvos Respublikos pilietis, nuolat gyvenantis užsienyje, užsienio valstybės pilietis, asmuo be pilietybės pareiškimą įvaikinti Lietuvos Respublikos pilietį, gyvenantį Lietuvos Respublikoje, asmuo, nuolat gyvenantis Lietuvos Respublikoje, pareiškimą įvaikinti Lietuvos Respublikos pilietį, gyvenantį užsienyje, paduoda Vilniaus apygardos teismui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
  
-
-
 
 
 
@@ -15385,7 +15437,10 @@ BYLOS DĖL ĮvaikinimO
 1. Be bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, pareiškime turi būti nurodyta:
 
 
-1) duomenys apie pareiškėją (vardas, pavardė, asmens kodas, gimimo data ir vieta, gyvenamoji vieta, darbovietė, šeiminė ir materialinė padėtis, sveikatos būklė, ar įrašytas į asmenų, norinčių įvaikinti, sąrašą, taip pat užsienio valstybės, kurios pilietis pareiškėjas yra ar kurioje yra jo gyvenamoji vieta, institucijų išvada, ar jis tinka būti tarptautiniu įvaikintoju);
+1) duomenys apie pareiškėją (vardas, pavardė, asmens kodas, gimimo data ir vieta, gyvenamoji vieta, darbovietė, šeiminė ir materialinė padėtis, sveikatos būklė, ar įrašytas į asmenų, norinčių įvaikinti, sąrašą, taip pat užsienio valstybės, kurios pilietis pareiškėjas yra ar kurioje yra pareiškėjo gyvenamoji vieta, institucijų išvada, ar jis tinka būti tarptautiniu įvaikintoju);
+Straipsnio punkto pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15429,7 +15484,10 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-3) jeigu yra galimybė ir vaikas turi įstatymų nustatyta tvarka paskirtą globėją (rūpintoją), išskyrus valstybinę globos instituciją, – teismo nutartis, patvirtinanti globėjo (rūpintojo) sutikimą įvaikinti;
+3) jeigu yra galimybė ir vaikas turi įstatymų nustatyta tvarka paskirtą nuolatinį globėją (rūpintoją), ir šiam vaikui nustatyta globa (rūpyba) šeimoje, – teismo nutartis, patvirtinanti globėjo (rūpintojo) sutikimą įvaikinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15439,19 +15497,17 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-5) duomenys, kad įvaikintojas yra įrašytas į norinčiųjų įvaikinti sąrašą ir kad įvaikinamasis yra įrašytas į įvaikinamų vaikų sąrašą;
+5) duomenys, kad įvaikintojas yra įrašytas į asmenų, norinčių įvaikinti, sąrašą ir kad įvaikinamasis yra įrašytas į įvaikinamų vaikų sąrašą, išskyrus Civiliniame kodekse nustatytus atvejus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
 
-6) valstybinės įvaikinimo institucijos atestuoto socialinio darbuotojo išvada dėl pasirengimo įvaikinti. 
-
-
-
-
-
-
-2. Užsienio valstybės piliečiai ar asmenys be pilietybės, paduodami pareiškimą įvaikinti, pateikia savo valstybės įstatymų nustatyta tvarka įformintus dokumentus, duomenis, kad užsienio valstybė pripažins konkretaus vaiko įvaikinimą, kad vaikui yra išduotas ar bus išduotas oficialus leidimas įvažiuoti į tą šalį ir nuolat joje gyventi. Prie šių dokumentų turi būti pridėti jų vertimai į lietuvių kalbą, patvirtinti įstatymų nustatyta tvarka. Dokumentai turi būti legalizuoti, išskyrus įstatymų ar tarptautinių sutarčių numatytus atvejus. 
+6) valstybinės vaiko teisių apsaugos institucijos atestuotų asmenų išvada dėl pasirengimo įvaikinti. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
  
 
 
@@ -15459,28 +15515,40 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-483 straipsnis. Pasirengimas bylai
+2. Užsienio valstybės piliečiai ar asmenys be pilietybės, išskyrus tuos, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, taip pat Lietuvos Respublikos piliečiai, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, paduodami pareiškimą įvaikinti, pateikia savo valstybės įstatymų nustatyta tvarka įformintus dokumentus, duomenis, kad užsienio valstybė pripažins konkretaus vaiko įvaikinimą, kad vaikui yra išduotas ar bus išduotas oficialus leidimas atvykti į tą valstybę ir nuolat joje gyventi. Prie šių dokumentų turi būti pridėti jų vertimai į lietuvių kalbą, patvirtinti įstatymų nustatyta tvarka. Dokumentai turi būti legalizuoti, išskyrus įstatymų ar tarptautinių sutarčių numatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
+
+
+
+
+
+
+483 straipsnis. Pasirengimas bylai
 
 
 Teismas, rengdamasis nagrinėti bylą:
 
 
-1) paveda valstybinei įvaikinimo institucijai pateikti išvadą, ar nėra įstatymų numatytų kliūčių įvaikinti šį konkretų vaiką, taip pat duomenis apie tai, ar nėra gauta kitų asmenų prašymo įvaikinti tą patį vaiką, apie įvaikintojo ir įvaikinamojo registraciją atitinkamuose sąrašuose;
+1) paveda valstybinei vaiko teisių apsaugos institucijai pateikti išvadą, ar nėra įstatymų numatytų kliūčių įvaikinti šį konkretų vaiką, taip pat duomenis apie tai, ar nėra gauta kitų asmenų prašymo įvaikinti tą patį vaiką, apie įvaikintojo ir įvaikinamojo įregistravimą atitinkamuose asmenų, norinčių įvaikinti, ir įvaikinamų vaikų sąrašuose;
 
 
 
 
-2) išreikalauja iš valstybinės įvaikinimo institucijos duomenis apie įvaikinamo vaiko kilmę, vystymąsi, sveikatos būklę ir šeimą;
+2) išreikalauja iš valstybinės vaiko teisių apsaugos institucijos duomenis apie įvaikinamo vaiko kilmę, vystymąsi, sveikatos būklę ir šeimą;
 
 
 
 
-3) jeigu įvaikinti prašo užsienio valstybės pilietis ar asmuo be pilietybės, – paveda valstybinei įvaikinimo institucijai pateikti išvadą, ar pagal Civilinį kodeksą įvykdyta įvaikinimo procedūra iki teismo.
+3) jeigu įvaikinti prašo užsienio valstybės pilietis ar asmuo be pilietybės arba Lietuvos Respublikos pilietis, kurio nuolatinė gyvenamoji vieta yra užsienio valstybėje, paveda valstybinei vaiko teisių apsaugos institucijai pateikti išvadą, ar pagal Civilinį kodeksą įvykdyta įvaikinimo procedūra iki teismo. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
  
-
-
-
-
 
 
 
@@ -15493,7 +15561,10 @@ Teismas, rengdamasis nagrinėti bylą:
 
 
 
-2. Apie bylos nagrinėjimą pranešama pareiškėjui, kitiems asmenims, pareiškusiems norą įvaikinti tą patį vaiką, valstybinei įvaikinimo institucijai, valstybinei vaiko teisių apsaugos institucijai ir kitiems suinteresuotiems asmenims.
+2. Apie bylos nagrinėjimą pranešama pareiškėjui, kitiems asmenims, pareiškusiems norą įvaikinti tą patį vaiką, valstybinei vaiko teisių apsaugos institucijai ir kitiems suinteresuotiems asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15503,7 +15574,10 @@ Teismas, rengdamasis nagrinėti bylą:
 
 
 
-4. Byla dėl įvaikinimo nagrinėjama būtinai dalyvaujant pareiškėjams, valstybinės įvaikinimo institucijos atstovui, valstybinės vaiko teisių apsaugos institucijos atstovui, kurie dėl įvaikinimo duoda išvadą teisme.
+4. Byla dėl įvaikinimo nagrinėjama būtinai dalyvaujant pareiškėjams, valstybinės vaiko teisių apsaugos institucijos atstovui, kuris dėl įvaikinimo duoda išvadą teisme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15571,23 +15645,25 @@ Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 
 
-486 straipsnis. Vaiko perkėlimas į šeimą iki įvaikinimo
+486 straipsnis. Vaiko perkėlimas į šeimą iki įvaikinimo
 
 
-1. Jeigu, atsižvelgiant į būsimų įtėvių psichologinį pasirengimą įvaikinti ir vaiko – būti įvaikintam, būsimų įtėvių ir įvaikio bendravimo trukmę iki prašymo įvaikinti ir kitas aplinkybes, gali kilti abejonių, ar vaikas pritaps įvaikintojų šeimoje, ir yra pagrindas manyti, kad kitų kliūčių įvaikinti nėra, bylą nagrinėjantis teismas valstybinės įvaikinimo institucijos prašymu ar savo iniciatyva gali nutartimi pareiškėjui nustatyti nuo šešių iki dvylikos mėnesių bandomąjį laikotarpį ir perkelti vaiką gyventi į pareiškėjo šeimą, kurioje jis būtų auklėjamas ir išlaikomas. Šiuo atveju bylos dėl įvaikinimo nagrinėjimas sustabdomas.
-
-
-
-
-2. Atnaujinus bylos nagrinėjimą, valstybinė įvaikinimo institucija pateikia teismui išvadą apie įvaikintojų pasirengimą įvaikinti šį konkretų vaiką, įvaikintojų ir vaiko psichologinį suderinamumą.
+1. Jeigu, atsižvelgiant į įvaikintojų psichologinį pasirengimą įvaikinti ir vaiko – būti įvaikintam, įvaikintojų ir įvaikio bendravimo trukmę iki prašymo įvaikinti ir kitas aplinkybes, gali kilti abejonių, ar vaikas pritaps įvaikintojų šeimoje, ir yra pagrindas manyti, kad kitų kliūčių įvaikinti nėra, bylą nagrinėjantis teismas valstybinės vaiko teisių apsaugos institucijos prašymu ar savo iniciatyva gali nutartimi įvaikintojams nustatyti nuo šešių iki dvylikos mėnesių bandomąjį laikotarpį ir perkelti vaiką gyventi į įvaikintojų šeimą, kurioje jis būtų auklėjamas ir išlaikomas. Šiuo atveju bylos dėl įvaikinimo nagrinėjimas sustabdomas.
 
 
 
 
-3. Atnaujinus bylos nagrinėjimą, teismas iš naujo įvykdo įstatymų reikalavimus dėl įvaikinamojo sutikimo.
+2. Atnaujinus bylos nagrinėjimą, valstybinė vaiko teisių apsaugos institucija pateikia teismui išvadą apie įvaikintojų pasirengimą įvaikinti šį konkretų vaiką, įvaikintojų ir vaiko psichologinį suderinamumą.
+
+
+
+
+3. Atnaujinus bylos nagrinėjimą, teismas iš naujo įvykdo įstatymų reikalavimus dėl įvaikinamojo sutikimo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
  
-
-
 
 
 
@@ -15610,7 +15686,10 @@ Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 
 
-4. Kai įvaikina užsienio valstybių piliečiai, teismo sprendimo rezoliucinėje dalyje nurodoma, į kurią valstybę leidžiama įvaikinti.
+4. Kai įvaikina užsienio valstybių piliečiai ar asmenys be pilietybės, išskyrus tuos, kurių nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, arba Lietuvos Respublikos piliečiai, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, teismo sprendimo rezoliucinėje dalyje nurodoma, į kurią valstybę leidžiama įvaikinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15633,6 +15712,14 @@ Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
 
 
 7. Visas teismo sprendimas skelbiamas uždarame teismo posėdyje.
+
+
+
+
+8. Teismas sprendimą dėl įvaikinimo gali leisti vykdyti skubiai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 Straipsnio pakeitimai:
@@ -15696,7 +15783,10 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-7. Įsiteisėjusios nutarties, kuria patvirtinamas sutikimas įvaikinti, patvirtintą kopiją teismas per tris darbo dienas išsiunčia valstybinei įvaikinimo institucijai ir valstybinei vaiko teisių apsaugos institucijai.
+7. Įsiteisėjusios nutarties, kuria patvirtinamas sutikimas įvaikinti, patvirtintą kopiją teismas per tris darbo dienas išsiunčia valstybinei vaiko teisių apsaugos institucijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 Straipsnio pakeitimai:
@@ -15737,7 +15827,10 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-3. Valstybinė įvaikinimo institucija, gavusi pareiškimą dėl sutikimo įvaikinti atšaukimo, tą pačią dieną šį pareiškimą išsiunčia tą sutikimą patvirtinusiam teismui ir, jei byla dėl įvaikinimo nagrinėjama teisme, tuoj pat raštu arba žodžiu praneša bylą dėl įvaikinimo nagrinėjančiam teismui. Šioje dalyje nurodyto pareiškimo padavimas, jei teismo sprendimas dėl įvaikinimo nėra priimtas, sustabdo įvaikinimo procedūrų vykdymą.
+3. Valstybinė vaiko teisių apsaugos institucija, gavusi pareiškimą dėl sutikimo įvaikinti atšaukimo, tą pačią dieną šį pareiškimą išsiunčia tą sutikimą patvirtinusiam teismui ir, jei byla dėl įvaikinimo nagrinėjama teisme, tuoj pat raštu arba žodžiu praneša bylą dėl įvaikinimo nagrinėjančiam teismui. Šioje dalyje nurodyto pareiškimo padavimas, jei teismo sprendimas dėl įvaikinimo nėra priimtas, sustabdo įvaikinimo procedūrų vykdymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15747,12 +15840,18 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-5. Pareiškimas nagrinėjamas žodinio proceso tvarka. Apie jo nagrinėjimą pranešama asmeniui, kuris atšaukia sutikimą įvaikinti, ir valstybinei įvaikinimo institucijai.
+5. Pareiškimas nagrinėjamas žodinio proceso tvarka. Apie jo nagrinėjimą pranešama asmeniui, kuris atšaukia sutikimą įvaikinti, ir valstybinei vaiko teisių apsaugos institucijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
 
-6. Teismas patikrina, ar nuo tėvų valdžios apribojimo yra praėję vieneri metai ir ar tėvų valdžios apribojimas nėra panaikintas, ar sutikimas įvaikinti nėra atšaukiamas tik dėl materialinės naudos.
+6. Neteko galios nuo 2018-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -15767,7 +15866,10 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-9. Įsiteisėjusios nutarties patvirtintą kopiją teismas per tris darbo dienas išsiunčia valstybinei įvaikinimo institucijai ir įvaikinimo bylą sustabdžiusiam teismui.
+9. Įsiteisėjusios nutarties patvirtintą kopiją teismas per tris darbo dienas išsiunčia valstybinei vaiko teisių apsaugos institucijai ir įvaikinimo bylą sustabdžiusiam teismui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 Straipsnio pakeitimai:
@@ -15777,28 +15879,30 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-490 straipsnis. Valstybinės įvaikinimo institucijos išvados apskundimas
+490 straipsnis. Valstybinės vaiko teisių apsaugos institucijos išvados apskundimas
 
 
-1. Jeigu asmuo nesutinka su valstybinės įvaikinimo institucijos atestuoto socialinio darbuotojo išvada dėl pasirengimo įvaikinti, per vieną mėnesį nuo išvados surašymo dienos jis gali paduoti apylinkės teismui pagal savo gyvenamąją vietą pareiškimą dėl išvados panaikinimo. Asmuo, ketinantis įvaikinti vaiką užsienyje, pareiškimą paduoda Vilniaus apygardos teismui.
-
-
-
-
-2. Prie pareiškimo dėl išvados panaikinimo turi būti pridėta skundžiama atestuoto socialinio darbuotojo išvada.
+1. Jeigu asmuo nesutinka su valstybinės vaiko teisių apsaugos institucijos atestuotų asmenų išvada dėl pasirengimo įvaikinti, per vieną mėnesį nuo išvados surašymo dienos jis gali paduoti apylinkės teismui pagal savo gyvenamąją vietą pareiškimą dėl išvados panaikinimo. Asmuo, ketinantis įvaikinti vaiką užsienyje, pareiškimą paduoda Vilniaus apygardos teismui.
 
 
 
 
-3. Pareiškimas nagrinėjamas žodinio proceso tvarka. Apie jo nagrinėjimą pranešama pareiškėjui, valstybinei įvaikinimo institucijai, išvadą surašiusiam socialiniam darbuotojui.
+2. Prie pareiškimo dėl išvados panaikinimo turi būti pridėta skundžiama atestuotų asmenų išvada.
 
 
 
 
-4. Dėl pareiškimo priimama teismo nutartis. Ši nutartis gali būti skundžiama atskiruoju skundu.
+3. Pareiškimas nagrinėjamas žodinio proceso tvarka. Apie jo nagrinėjimą pranešama pareiškėjui, valstybinei vaiko teisių apsaugos institucijai, išvadą surašiusiam valstybinės vaiko teisių apsaugos institucijos atestuotam asmeniui.
+
+
+
+
+4. Dėl pareiškimo priimama teismo nutartis. Ši nutartis gali būti skundžiama atskiruoju skundu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
  
-
-
 
 
 
@@ -17826,7 +17930,10 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-4. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, leidimo išdavimo klausimą teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus. Kai sprendžiamas klausimas dėl leidimo perleisti nuosavybės teisę į šeimos turtą, šeimos turtą įkeisti ar kitaip suvaržyti teises į jį, teismas, atsižvelgdamas į aplinkybes, turi teisę reikalauti, kad pareiškėjas pateiktų įrodymus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, duomenis iš vaiko teisių apsaugos tarnybos apie vaiko tėvus, taip pat būsimo sandorio preliminarias sąlygas ir jo įvykdymo galimybes bei vaiko teisių apsaugos galimybes sandorio neįvykdymo atveju ir kitus įrodymus. 
+4. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, leidimo išdavimo klausimą teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus. Kai sprendžiamas klausimas dėl leidimo perleisti nuosavybės teisę į šeimos turtą, šeimos turtą įkeisti ar kitaip suvaržyti teises į jį, teismas, atsižvelgdamas į aplinkybes, turi teisę reikalauti, kad pareiškėjas pateiktų įrodymus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, duomenis iš valstybinės vaiko teisių apsaugos institucijos apie vaiko tėvus, taip pat būsimo sandorio preliminarias sąlygas ir jo įvykdymo galimybes bei vaiko teisių apsaugos galimybes sandorio neįvykdymo atveju ir kitus įrodymus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+ 
 
 
 
@@ -17847,7 +17954,9 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-7. Bylą teismas išsprendžia priimdamas nutartį. Teismo nutartis išduoti leidimą, patvirtinti pareiškimą ar faktus apeliacine tvarka neskundžiama ir įsiteisėja nuo priėmimo dienos, tačiau teismo atsisakymas išduoti leidimą, patvirtinti pareiškimą ar faktą neatima iš pareiškėjo teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į teismą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo.
+7. Bylą teismas išsprendžia priimdamas nutartį. Teismo nutartis išduoti leidimą, patvirtinti pareiškimą ar faktus, išskyrus nutartį leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą, apeliacine tvarka neskundžiama ir įsiteisėja nuo priėmimo dienos, tačiau teismo atsisakymas išduoti leidimą, patvirtinti pareiškimą ar faktą neatima iš pareiškėjo teisės, pasikeitus aplinkybėms, pakartotinai kreiptis į teismą dėl leidimo išdavimo, pareiškimo ar fakto patvirtinimo. Teismo nutartis leisti paimti vaiką iš jo atstovų pagal įstatymą vykdytina skubiai. Teismo nutartis leisti paimti vaiką iš jo atstovų pagal įstatymą arba atsisakyti duoti šį leidimą gali būti skundžiama atskiruoju skundu. Šis skundas turi būti išnagrinėtas per šio kodekso 336 straipsnio 3 dalyje nurodytą terminą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
  
@@ -24792,3 +24901,13 @@ Lietuvos Respublikos civilinio proceso kodekso 65, 80, 93, 135, 142, 147, 177, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1126, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07478
 Lietuvos Respublikos civilinio proceso kodekso papildymo 10-1 straipsniu ir 275, 292 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-646, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16081
+Lietuvos Respublikos civilinio proceso kodekso 28, 336, 404, 480, 481, 482, 483, 484, 486, 487, 488, 489, 490 ir 582 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
+Lietuvos Respublikos civilinio proceso kodekso 28, 336, 404, 480, 481, 482, 483, 487, 489, 490 ir 582 straipsnių pakeitimo įstatymo Nr. XIII-646 pakeitimo įstatymas
