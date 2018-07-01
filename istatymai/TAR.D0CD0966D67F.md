@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-16
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -569,7 +569,18 @@ Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
 
 
 
-44) kitos funkcijos, nepriskirtos valstybės institucijoms.
+44) dalyvauja vykdant vaiko teisių apsaugą, užtikrina prevencinės pagalbos vaikui ir šeimai organizavimą, socialinių, švietimo, sveikatos priežiūros įstaigų bei kitų įstaigų teikiamų paslaugų koordinavimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+ 
+
+
+
+
+45) kitos funkcijos, nepriskirtos valstybės institucijoms.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+ 
 
 
 
@@ -706,7 +717,10 @@ Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
 
 
 
-22) vaikų ir jaunimo teisių apsauga;
+22) jaunimo politikos įgyvendinimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+ 
 
 
 
@@ -872,9 +886,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-2. Savivaldybė steigia naujus viešųjų paslaugų teikėjus tik tais atvejais, kai kiti teikėjai viešųjų paslaugų neteikia arba negali jų teikti gyventojams ekonomiškai ir geros kokybės. Tais atvejais, kai viešųjų paslaugų teikimas yra susijęs su ūkinės veiklos vykdymu taip, kaip jis suprantamas Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio 16 dalyje, turi būti įgyvendinti šio įstatymo 91 straipsnyje nustatyti reikalavimai.
+2. Savivaldybė steigia naujus viešųjų paslaugų teikėjus tik tais atvejais, kai kiti teikėjai viešųjų paslaugų neteikia arba negali jų teikti gyventojams geros kokybės ir už mažesnę kainą. Tais atvejais, kai viešąją paslaugą teikia ne savivaldybės biudžetinė įstaiga ir viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 91 straipsnyje nustatyti reikalavimai. Ūkine veikla nelaikoma tokia viešosios paslaugos teikėjo veikla, kuri papildo jo teikiamą viešąją paslaugą ir teikiama tik kartu su šia viešąja paslauga. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
+Nr. XIII-1275, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10517
  
 
 
@@ -890,13 +905,13 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-91 straipsnis. Ūkinės veiklos vykdymas
+91 straipsnis. Naujos ūkinės veiklos vykdymas
 
 
-1. Savivaldybės valdomi juridiniai asmenys nevykdo ūkinės veiklos, išskyrus atvejus, kai:
+1. Savivaldybė gali priimti sprendimą dėl naujos ūkinės veiklos vykdymo, kai:
 
 
-1) vykdoma ūkinė veikla yra būtina siekiant patenkinti savivaldybės bendruomenės bendruosius interesus ir
+1) nauja ūkinė veikla yra būtina siekiant patenkinti savivaldybės bendruomenės bendruosius interesus ir
 
 
 
@@ -906,63 +921,68 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-3) jeigu dėl to nebus teikiama privilegijų arba diskriminuojami atskiri ūkio subjektai ar jų grupės.
+3) jeigu tokiu sprendimu nebus teikiama privilegijų arba diskriminuojami atskiri ūkio subjektai ar jų grupės.
 
 
 
 
 
 
-2. Jeigu vykdyti ūkinę veiklą yra būtina siekiant patenkinti savivaldybės bendruomenės bendruosius interesus ir nėra pažeidžiamos šio straipsnio 1 dalyje išvardytos sąlygos, savivaldybė gali steigti naują juridinį asmenį šiai ūkinei veiklai vykdyti arba patikėti naujos ūkinės veiklos vykdymą jau veikiantiems savivaldybės valdomiems juridiniams asmenims, tik gavusi išankstinį Lietuvos Respublikos konkurencijos tarybos (toliau – Konkurencijos taryba) sutikimą.
+2. Jeigu nėra pažeidžiami šio straipsnio 1 dalyje nustatyti reikalavimai, savivaldybė gali steigti naują juridinį asmenį šiai ūkinei veiklai vykdyti arba pavesti naują ūkinę veiklą vykdyti jau veikiančioms savivaldybės kontroliuojamoms įmonėms, tik gavusi išankstinį Lietuvos Respublikos konkurencijos tarybos sutikimą (toliau – sutikimas), išskyrus šio straipsnio 3 dalyje nurodytas išimtis. Nauju juridiniu asmeniu nelaikomas po juridinių asmenų reorganizavimo veiklą tęsiantis juridinis asmuo, taip pat po pertvarkymo naują teisinę formą įgijęs juridinis asmuo. Nauja ūkine veikla laikoma ūkinė veikla, kurios savivaldybės kontroliuojama įmonė per pastaruosius trejus metus iki savivaldybės sprendimo pavesti jai tokią veiklą vykdyti priėmimo faktiškai nevykdė. Jeigu ūkinę veiklą vykdyti pavedama per paskutinius trejus metus po juridinių asmenų reorganizavimo veiklą tęsiančiai savivaldybės kontroliuojamai įmonei, bent vieno iš po juridinių asmenų reorganizavimo pasibaigusių juridinių asmenų faktiškai vykdyta atitinkama ūkinė veikla yra laikoma po juridinių asmenų reorganizavimo veiklą tęsiančio juridinio asmens faktiškai vykdyta ūkine veikla.
 
 
 
 
-3. Siekdama gauti šio straipsnio 2 dalyje nurodytą Konkurencijos tarybos sutikimą, savivaldybė per 6 mėnesius iki prašymo dėl sutikimo turi įvykdyti konkurencingą procedūrą dėl ūkio subjektų atrankos. Konkurencinga procedūra turi būti tokia, kad atskleistų, ar kiti rinkoje veikiantys ar potencialiai galintys veikti ūkio subjektai, atsižvelgdami į savo komercinius interesus, gali užtikrinti atitinkamos veiklos vykdymą.
+3. Išankstinis Konkurencijos tarybos sutikimas nebūtinas, jeigu nauja ūkinė veikla yra vandens tiekimo, nuotekų valymo, šilumos tiekimo, atliekų tvarkymo, keleivių vežimo, teritorijų ir gatvių priežiūros ir tvarkymo paslaugų teikimas, taip pat maitinimo paslaugų teikimas ugdymo, globos arba sveikatos priežiūros įstaigose.
 
 
 
 
-4. Teikdama Konkurencijos tarybai prašymą dėl šio straipsnio 2 dalyje nurodyto sutikimo, savivaldybė pateikia įrodymus dėl įvykdytos konkurencingos procedūros, jos rezultatų ir kitą Konkurencijos tarybos nurodytą informaciją.
+4. Siekdama gauti sutikimą, savivaldybė turi įvykdyti konkurencingą procedūrą dėl ūkio subjektų atrankos. Konkurencinga procedūra turi būti atlikta ne anksčiau kaip 6 mėnesiai iki prašymo dėl sutikimo pateikimo ir tokia, kad atskleistų, ar kiti ūkio subjektai, atsižvelgdami į savo komercinius interesus, gali užtikrinti atitinkamos veiklos vykdymą. 
 
 
 
 
-5. Gavusi šio straipsnio 4 dalyje nurodytą savivaldybės prašymą, Konkurencijos taryba sprendimą dėl sutikimo priima ne vėliau kaip per 30 dienų nuo Konkurencijos tarybos nustatytus reikalavimus atitinkančio savivaldybės prašymo gavimo dienos.
+5. Teikdama Konkurencijos tarybai prašymą dėl sutikimo, savivaldybė pateikia įrodymus dėl įvykdytos konkurencingos procedūros, jos rezultatų ir kitą Konkurencijos tarybos nurodytą informaciją.
 
 
 
 
-6. Konkurencijos taryba išduoda šio straipsnio 2 dalyje nurodytą sutikimą, jeigu savivaldybė per 6 mėnesius iki prašymo dėl leidimo išdavimo įvykdė konkurencingą procedūrą ir jeigu šios procedūros rezultatai rodo, kad kiti rinkoje veikiantys ar potencialiai galintys veikti ūkio subjektai, atsižvelgdami į savo komercinius interesus, negali užtikrinti tinkamos veiklos vykdymo.
+6. Gavusi šio straipsnio 4 dalyje nurodytą savivaldybės prašymą, Konkurencijos taryba sprendimą dėl sutikimo priima ne vėliau kaip per 30 dienų nuo Konkurencijos tarybos nustatytus reikalavimus atitinkančio savivaldybės prašymo gavimo dienos.
 
 
 
 
-7. Konkurencijos taryba neduoda šio straipsnio 2 dalyje nurodyto sutikimo, jeigu savivaldybė per 6 mėnesius iki prašymo dėl leidimo išdavimo neįvykdė konkurencingos procedūros arba jeigu įvykdytos konkurencingos procedūros rezultatai rodo, kad rinkoje veikiantys ar potencialiai galintys veikti ūkio subjektai, atsižvelgdami į savo komercinius interesus, gali užtikrinti tinkamos veiklos vykdymą.
+7. Konkurencijos taryba išduoda sutikimą, jeigu savivaldybė laiku įvykdė konkurencingą procedūrą ir jeigu šios procedūros rezultatai rodo, kad kiti ūkio subjektai, atsižvelgdami į savo komercinius interesus, negali užtikrinti atitinkamos veiklos vykdymo.
 
 
 
 
-8. Savivaldybės valdomi juridiniai asmenys savo iniciatyva pradėti vykdyti naujos ūkinės veiklos negali. Jie gali pradėti vykdyti naują ūkinę veiklą tik tuo atveju, kai šią veiklą vykdyti jiems šio ir tokių juridinių asmenų veiklą reglamentuojančių įstatymų nustatyta tvarka patiki savivaldybė ir tik gavę Konkurencijos tarybos sutikimą pagal šio straipsnio 2 dalį.
+8. Konkurencijos taryba neduoda sutikimo, jeigu savivaldybė laiku neįvykdė konkurencingos procedūros arba jeigu įvykdytos konkurencingos procedūros rezultatai rodo, kad kiti ūkio subjektai, atsižvelgdami į savo komercinius interesus, gali užtikrinti atitinkamos veiklos vykdymą.
 
 
 
 
-9. Jeigu šio straipsnio 3 dalyje nurodytai konkurencingai procedūrai taikomi Lietuvos Respublikos viešųjų pirkimų įstatymo reikalavimai ir kompetentinga institucija įsiteisėjusiu sprendimu nustato, kad vykdant šią konkurencingą procedūrą minėto įstatymo reikalavimai buvo pažeisti, Konkurencijos taryba gali atšaukti pagal šio straipsnio 6 dalį duotą sutikimą. Jeigu Konkurencijos taryba atšaukia savo sprendimą dėl duoto sutikimo, savivaldybė privalo iš naujo kreiptis į Konkurencijos tarybą dėl sutikimo šiame straipsnyje nustatyta tvarka.
+9. Savivaldybės kontroliuojamos įmonės negali savo iniciatyva pradėti vykdyti naujos ūkinės veiklos. Šios įmonės gali pradėti vykdyti naują ūkinę veiklą tik tuo atveju, kai ši veikla joms šio ir tokių įmonių veiklą reglamentuojančių įstatymų nustatyta tvarka pavedama vykdyti savivaldybės sprendimu, o pradedant vykdyti šio straipsnio 3 dalyje nenumatytą naują ūkinę veiklą, – ir tik gavus Konkurencijos tarybos sutikimą.
 
 
 
 
-10. Konkurencijos taryba nustato šio straipsnio 4 dalyje nurodytų prašymų dėl savivaldybių vykdomos ūkinės veiklos įvertinimo teikimo ir nagrinėjimo tvarką ir tokių prašymų tipinę formą.
+10. Siekdama įvertinti, ar šio straipsnio 3 dalyje numatytos naujos ūkinės veiklos vykdymas atitinka šio straipsnio 1 dalyje nustatytus reikalavimus, savivaldybė Konkurencijos tarybos nustatyta tvarka gali kreiptis išvados į Konkurencijos tarybą. Kartu su šiuo kreipimusi savivaldybė pateikia Konkurencijos tarybos išvadai priimti reikalingus dokumentus. Konkurencijos taryba išvadą pateikia per 30 dienų nuo savivaldybės kreipimosi ir išvadai priimti reikalingų dokumentų gavimo. Jeigu savivaldybė sprendimą priima neatsižvelgdama į Konkurencijos tarybos išvadą arba tokios išvados nebuvo kreiptasi, sprendime dėl naujos ūkinės veiklos vykdymo privaloma nurodyti motyvus, pagrindžiančius, kad sprendimas atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. Savivaldybei tenka pareiga įrodyti, kad nauja ūkinė veikla atitinka šio įstatymo reikalavimus.
 
 
 
 
-11. Konkurencijos tarybos sprendimai, nurodyti šio straipsnio 6, 7 ir 9 dalyse, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+11. Konkurencijos taryba nustato šio straipsnio 5 dalyje nurodytų prašymų dėl savivaldybių vykdomos ūkinės veiklos įvertinimo teikimo ir nagrinėjimo tvarką ir tokių prašymų tipinę formą.
 
 
-Papildyta straipsniu:
-Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
+
+
+12. Konkurencijos tarybos sprendimai, nurodyti šio straipsnio 7 ir 8 dalyse, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1275, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10517
  
 
 
@@ -1578,7 +1598,10 @@ Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
 
 
 
-10) savivaldybės administracijos struktūros, nuostatų ir darbo užmokesčio fondo tvirtinimas, didžiausio leistino valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus savivaldybės administracijoje nustatymas savivaldybės administracijos direktoriaus siūlymu mero teikimu;
+10) savivaldybės administracijos struktūros, nuostatų ir darbo užmokesčio fondo tvirtinimas, didžiausio leistino valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus savivaldybės administracijoje nustatymas, seniūnijos – biudžetinės įstaigos – nuostatų ir darbo užmokesčio fondo tvirtinimas, didžiausio leistino valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus seniūnijoje – biudžetinėje įstaigoje – nustatymas savivaldybės administracijos direktoriaus siūlymu mero teikimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
+ 
 
 
 
@@ -3212,22 +3235,10 @@ Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 
 
 
-2. Seniūnija – biudžetinė įstaiga – gali būti steigiama, jeigu atitinka šiuos kriterijus:
-
-
-1) seniūnija teikia aptarnaujamos teritorijos gyventojams viešąsias paslaugas;
-
-
-
-
-2) seniūnijos aptarnaujamos teritorijos gyventojų skaičius ne mažesnis kaip 1 500 gyventojų;
-
-
-
-
-3) seniūnijoje nustatytoms funkcijoms įgyvendinti būtina patvirtinti ne mažiau kaip 7 valstybės tarnautojų ar darbuotojų, dirbančių pagal darbo sutartis, pareigybes.
-
-
+2. Seniūnija – biudžetinė įstaiga – gali būti steigiama, jeigu ji teikia aptarnaujamos teritorijos gyventojams viešąsias paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
+ 
 
 
 
@@ -3247,7 +3258,10 @@ Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 
 
 
-4. Pasikeitus bent vienam iš kriterijų, nurodytų šio straipsnio 2 dalyje, savivaldybės taryba sprendžia dėl seniūnijos formos keitimo tikslingumo.
+4. Savivaldybės taryba sprendžia dėl seniūnijos formos keitimo tikslingumo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
+ 
 
 
 
@@ -3272,9 +3286,10 @@ Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 
 
 
-9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 16 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Be konkurso toje pačioje savivaldybėje seniūną galima perkelti į laisvas kitos seniūnijos seniūno pareigas, jeigu asmuo atitinka pareigybės aprašyme nustatytus reikalavimus. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo, išskyrus laikiną perkėlimą į kitas pareigas, kai yra tarnybinė būtinybė. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
+9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 16 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
+Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
  
 
 
@@ -3424,7 +3439,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-6) dalyvauja vykdant vaiko teisių apsaugą ir darbą su socialinės rizikos šeimomis;
+6) dalyvauja vykdant vaiko teisių apsaugą, užtikrina prevencinės pagalbos vaikui ir šeimai organizavimą, socialinių, švietimo, sveikatos priežiūros įstaigų bei kitų įstaigų teikiamų paslaugų koordinavimą ir darbą su socialinę riziką patiriančiomis šeimomis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+ 
 
 
 
@@ -3770,7 +3788,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-2) rūpintis labiausiai pažeidžiamais bendruomenės nariais (socialinės rizikos šeimomis, nepilnamečiais, vienais gyvenančiais asmenimis, neįgaliaisiais ir kt.);
+2) rūpintis labiausiai pažeidžiamais bendruomenės nariais (socialinę riziką patiriančiomis šeimomis, nepilnamečiais, vienais gyvenančiais asmenimis, neįgaliaisiais ir kt.); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+ 
 
 
 
@@ -5235,3 +5256,18 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 7 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 14, 15, 16, 31, 34, 35 straipsnių pakeitimo ir Įstatymo papildymo 35-1 straipsniu įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6, 7, 32-1 ir 34 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 31 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1275, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10517
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas
