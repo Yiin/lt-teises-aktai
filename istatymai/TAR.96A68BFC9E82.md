@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-03-05 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -1774,10 +1774,10 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 41(1) straipsnis. Vyriausybės sprendimai ir Vyriausybės rezoliucijos
 
 
-1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, 171-6322) prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai.
+1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami visų Vyriausybės narių balsų dauguma.
 Straipsnio dalies pakeitimai:
 Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
+Nr. XIII-1221, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09502
  
 
 
@@ -2380,3 +2380,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-1 straipsniu 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
 Dėl Lietuvos Respublikos Vyriausybės įstatymo 41(1) straipsnio 1 dalies (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 28 d. nutarimo Nr. 960 „Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1221, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09502
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 41-1 straipsnio pakeitimo įstatymas
