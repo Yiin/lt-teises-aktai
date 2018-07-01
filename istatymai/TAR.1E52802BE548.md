@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -45,14 +45,20 @@ Vilnius
 
 
 
-2. Šio Įstatymo nuostatos valstybinėms mokslo ir studijų institucijoms, kurių teisinė forma yra viešoji įstaiga, taip pat profesinio mokymo įstaigoms, kurių teisinė forma yra viešoji įstaiga, taikomos tiek, kiek jos neprieštarauja Lietuvos Respublikos mokslo ir studijų įstatymui arba atitinkamai Lietuvos Respublikos profesinio mokymo įstatymui. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-892, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21321
- 
+2. Šio Įstatymo nuostatos valstybinėms mokslo ir studijų institucijoms, kurių teisinė forma yra viešoji įstaiga, taip pat profesinio mokymo įstaigoms, kurių teisinė forma yra viešoji įstaiga, taikomos tiek, kiek Lietuvos Respublikos mokslo ir studijų įstatymas arba Lietuvos Respublikos profesinio mokymo įstatymas nenustato kitaip.
+
+
+
+
+3. Šio Įstatymo nuostatos dėl metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimo, pateikimo ir paskelbimo viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriamos prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
+TAR pastaba. 1 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+1 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
 
 
 Straipsnio pakeitimai:
 Nr. XI-243, 2009-04-30, Žin., 2009, Nr. 54-2141 (2009-05-12)
+Straipsnio pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
  
 
 
@@ -767,45 +773,105 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-11 straipsnis. Viešosios įstaigos buhalterinė apskaita, finansinių ataskaitų rinkinys ir auditas
+11 straipsnis. Metinių finansinių ataskaitų rinkinys, jo auditas ir veiklos ataskaita 
 
 
-1. Viešosios įstaigos buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinių ataskaitų rinkinio sudarymą nustato įstatymai ir kiti teisės aktai.
+1. Viešosios įstaigos vadovas pasibaigus finansiniams metams turi parengti ir eiliniam visuotiniam dalininkų susirinkimui pateikti:
 
 
-
-
-2. Viešosios įstaigos metinių finansinių ataskaitų rinkinio auditas atliekamas, kai visuotinis dalininkų susirinkimas priima sprendimą atlikti tokį auditą ir išrenka auditorių ar audito įmonę. Auditas atliekamas teisės aktų, reglamentuojančių auditą, nustatyta tvarka.
+1) metinių finansinių ataskaitų rinkinį;
 
 
 
 
-3. Viešosios įstaigos metinių finansinių ataskaitų rinkinį, o tais atvejais, kai auditas atliktas, audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada pateikia juridinių asmenų registro tvarkytojui. Viešosios įstaigos, priskiriamos viešojo sektoriaus subjektams, metinių finansinių ataskaitų rinkinį, o tais atvejais, kai auditas atliktas, audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada juridinių asmenų registro tvarkytojui teikia Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami juridinių asmenų registro tvarkytojo interneto svetainėje. 
-Papildyta straipsnio dalimi:
-Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
-Straipsnio dalies pakeitimai:
-Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
+2) veiklos ataskaitą.
+TAR pastaba. 11 straipsnio 1 dalis įsigalioja 2019-01-01.
+
+
+
+
+
+
+2. Metinių finansinių ataskaitų rinkinį sudaro šios finansinės ataskaitos:
+
+
+1) finansinės būklės ataskaita, kurioje rodomas visas viešosios įstaigos turtas, nuosavas kapitalas, finansavimo sumos ir įsipareigojimai paskutinę ataskaitinio laikotarpio dieną;
+
+
+
+
+2) veiklos rezultatų ataskaita, kurioje rodomos visos viešosios įstaigos ataskaitinio laikotarpio pajamos, sąnaudos ir veiklos rezultatai – perviršis (pelnas) arba deficitas (nuostoliai);
+
+
+
+
+3) finansinių ataskaitų aiškinamasis raštas, kuriame detalizuojamos ir paaiškinamos viešosios įstaigos finansinės būklės ataskaitoje ir veiklos rezultatų ataskaitoje nurodytos sumos, nurodomas vyriausiasis buhalteris (buhalteris) arba pagal sutartį apskaitos paslaugas teikianti (teikusi) įmonė, arba apskaitos paslaugas savarankiškai teikiantis (teikęs) asmuo ir laikotarpis, už kurį jis tvarko (tvarkė) viešosios įstaigos apskaitą, taip pat pateikiama papildoma reikšminga informacija, nenurodoma finansinėse ataskaitose, ir kita šiame Įstatyme nurodyta informacija.
+TAR pastaba. 11 straipsnio 2 dalis įsigalioja 2019-01-01.
+
+
+
+
+
+
+3. Jeigu viešoji įstaiga per ataskaitinius finansinius metus gavo paramą, finansinių ataskaitų aiškinamajame rašte taip pat turi būti nurodyta informacija apie gautą finansinę ir nefinansinę paramą (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) ir jos panaudojimą bei apie kitas per finansinius metus gautas lėšas, jų šaltinius ir panaudojimą. Pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų viešosios įstaigos per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas.
+TAR pastaba. 11 straipsnio 3 dalis įsigalioja 2019-01-01.
+
+
+
+
+4. Veiklos ataskaitoje turi būti nurodyta:
+
+
+1) viešosios įstaigos veiklos tikslai, uždaviniai ir atlikti darbai, siekiant veiklos tikslų, taip pat nurodomi ateinančių finansinių metų veiklos tikslai, uždaviniai ir planuojami atlikti darbai; 
+
+
+
+
+2) viešosios įstaigos dalininkai ir kiekvieno jų įnašų vertė finansinių metų pabaigoje ir praėjusių finansinių metų pabaigoje.
+TAR pastaba. 11 straipsnio 4 dalis įsigalioja 2019-01-01.
+
+
+
+
+
+
+5. Veiklos ataskaitoje gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti viešosios įstaigos vadovas ar visuotinis dalininkų susirinkimas.
+TAR pastaba. 11 straipsnio 5 dalis įsigalioja 2019-01-01.
+
+
+
+
+6. Viešosios įstaigos metinių finansinių ataskaitų auditas turi būti atliekamas, kai tenkinamos bent dvi iš šių sąlygų:
+
+
+1) viešoji įstaiga pagal Viešojo sektoriaus atskaitomybės įstatymą priskiriama prie viešojo sektoriaus subjektų ir jos veikla ne mažiau kaip 50 procentų finansuojama iš valstybės ir (arba) savivaldybės (savivaldybių) biudžeto (biudžetų);
+
+
+
+
+2) paskutinę finansinių metų dieną finansinės būklės ataskaitoje nurodyto turto vertė viršija 1 800 000 eurų;
+
+
+
+
+3) pajamos per ataskaitinius finansinius metus viršija 3 500 000 eurų.
+
+
+
+
+
+
+7. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir veiklos ataskaitos parengimo tvarką nustato ir informacijos, nurodytos šio straipsnio 2 ir 4 dalyse, turinį detalizuoja Vyriausybė arba jos įgaliota institucija.
+TAR pastaba. 11 straipsnio 7 dalis įsigalioja 2019-01-01.
  
-
-
-
-
-4. Valstybės ir savivaldybių kontrolės institucijos turi teisę įstatymų nustatyta tvarka tikrinti viešosios įstaigos veiklą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
- 
-
-
-
-
-5. Viešosios įstaigos vidaus kontrolės tvarką nustato visuotinis dalininkų susirinkimas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
- 
+11 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+11 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
 
 
 Straipsnio pakeitimai:
 Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
+Straipsnio pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
  
 
 
@@ -1484,3 +1550,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 10 straipsnio pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1, 3, 9, 10, 11, 12, 13, 14 ir 18 straipsnių pakeitimo įstatymas
