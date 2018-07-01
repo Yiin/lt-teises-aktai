@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-15
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -348,25 +348,37 @@ Teismas turi išaiškinti proceso dalyviams jų procesines teises ir pareigas, �
 
 
 
-2. Proceso šalys, įgyvendindamos savo procesines teises, gali daryti garso įrašą teismo posėdžio eigai užfiksuoti. Apie daromą garso įrašą proceso šalys privalo informuoti teismą.
+2. Proceso šalys gali daryti garso įrašą teismo posėdžio eigai užfiksuoti ir jį naudoti tik savo procesinių teisių įgyvendinimo tikslais. Apie daromą garso įrašą proceso šalys privalo informuoti teismą.
 
 
 
 
-3. Kitiems asmenims teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus ir naudoti kitas technines priemones draudžiama.
+3. Asmens prašymu teismas leidžia visuomenės informavimo, mokslo ar mokymo tikslais teismo sprendimo skelbimą transliuoti, filmuoti, fotografuoti, jo metu daryti garso ar vaizdo įrašą, naudoti kitas technines priemones laikantis šiame straipsnyje ir kituose teisės aktuose nustatytų reikalavimų. Teismas neleidžia naudoti techninių priemonių, kai tai gali sutrikdyti teismo darbą, parodyti nepagarbą teismui arba yra būtina apsaugoti kitų asmenų teises ar kitus įstatymų saugomus interesus. Teismo leidimo nereikia, kai teismo sprendimo skelbimo garso įrašas daromas pagal šio straipsnio 2 dalį. Teisėjų taryba nustato asmenų prašymų leisti teismo sprendimo skelbimo metu naudoti technines priemones pateikimo ir nagrinėjimo, taip pat šių techninių priemonių naudojimo tvarką ir sąlygas ir teismo leidimų naudoti techninių priemonių panaudojimo rezultatus išdavimo tvarką.
 
 
 
 
-4. Asmenims, pažeidusiems draudimą naudoti technines priemones teismo posėdžio metu, taikoma įstatymų nustatyta atsakomybė. 
+4. Techninių priemonių panaudojimo rezultatus gali naudoti tik teismo leidime nurodytas asmuo teismo leidime nurodytais tikslais, būdais ir sąlygomis. Teismo leidime nurodytas asmuo, pageidaujantis techninių priemonių panaudojimo rezultatus leisti naudoti kitam asmeniui arba naudoti kitais tikslais, būdais ir sąlygomis, negu nurodyta teismo leidime, privalo Teisėjų tarybos nustatyta tvarka gauti naują teismo leidimą. Techninių priemonių panaudojimo rezultatai negali būti naudojami taip, kad būtų pažeistos kitų asmenų teisės ar kiti įstatymų saugomi interesai, iškraipytas teismo sprendimo turinys ar esmė, taip pat negali būti naudojami politinės ar kitokios reklamos, satyros, pramogų ir kitais su pagarba teismui nesuderinamais tikslais. Techninių priemonių panaudojimo rezultatams ir jų naudojimui taip pat taikomi kituose įstatymuose nustatyti visuomenės informavimo, asmens duomenų apsaugos, teisės į privataus gyvenimo neliečiamumą bei asmens garbės ir orumo apsaugos reikalavimai.
 
 
 
 
-5. Proceso dalyvių, liudytojo, specialisto, eksperto, vertėjo dalyvavimas teismo posėdžiuose gali būti užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip). Lietuvos Respublikos teisingumo ministro (toliau – teisingumo ministras) nustatyta tvarka naudojant šias technologijas, turi būti užtikrintas patikimas proceso dalyvių tapatybės nustatymas ir paaiškinimų, parodymų, klausimų ir prašymų pateikimo objektyvumas.
+5. Kitais, negu nurodyta šiame straipsnyje, atvejais teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus, transliuoti posėdį ir naudoti kitas technines priemones draudžiama.
+
+
+
+
+6. Asmenys, teismo posėdžio metu pažeidę techninių priemonių naudojimo reikalavimus, atsako šio įstatymo 83 straipsnyje nustatyta tvarka. Asmenims, pažeidusiems reikalavimus, taikomus techninių priemonių panaudojimo teismo posėdyje rezultatų naudojimui, taikoma įstatymų nustatyta atsakomybė.
+
+
+
+
+7. Proceso dalyvių, liudytojo, specialisto, eksperto, vertėjo dalyvavimas teismo posėdžiuose gali būti užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip). Lietuvos Respublikos teisingumo ministro (toliau – teisingumo ministras) nustatyta tvarka naudojant šias technologijas, turi būti užtikrintas patikimas proceso dalyvių tapatybės nustatymas ir paaiškinimų, parodymų, klausimų ir prašymų pateikimo objektyvumas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-609, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12430
  
-
-
 
 
 
@@ -629,8 +641,7 @@ Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 
 
-11) pagal prašymus užtikrinti savivaldybių visuomeninių administracinių ginčų komisijų sprendimų ir jais patvirtintų taikos sutarčių vykdymą;
-TAR pastaba. 11 punktas netenka galios 2018-01-01.
+11) netenka galios 2018-01-01;
 
 
 
@@ -642,8 +653,6 @@ TAR pastaba. 11 punktas netenka galios 2018-01-01.
 
 
 
-3. Apygardos administracinis teismas pirmąja instancija taip pat nagrinėja skundus (prašymus) dėl savivaldybių visuomeninių administracinių ginčų komisijų, Vyriausiosios administracinių ginčų komisijos ir Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės, o įstatymų nustatytais atvejais – ir dėl kitų išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų.
-3 dalies redakcija nuo 2018-01-01:
 3. Apygardos administracinis teismas pirmąja instancija taip pat nagrinėja skundus (prašymus) dėl Lietuvos administracinių ginčų komisijos, jos teritorinių padalinių ir Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės, o įstatymų nustatytais atvejais – ir dėl kitų išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų.
 
 
@@ -925,15 +934,11 @@ IŠANKSTINIS SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ) NAGRINĖJIMAS NE TEISMO TVARKA
 27 straipsnis. Administracinių ginčų komisijos, jų sudarymo ir darbo tvarka 
 
 
-1. Jeigu įstatymai nenustato kitaip, administracinius ginčus ne teismo tvarka nagrinėja savivaldybių visuomeninės administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija.
-1 dalies redakcija nuo 2018-01-01:
 1. Jeigu įstatymai nenustato kitaip, administracinius ginčus ne teismo tvarka nagrinėja Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai. 
 
 
 
 
-2. Administracinių ginčų komisijų sudarymo tvarką, jų kompetenciją, darbo principus ir skundų (prašymų) nagrinėjimo administracinių ginčų komisijose tvarką nustato atskiras įstatymas.
-2 dalies redakcija nuo 2018-01-01:
 2. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių sudarymo tvarką, jų kompetenciją, darbo principus ir skundų (prašymų) nagrinėjimo Lietuvos administracinių ginčų komisijoje ir jos teritoriniuose padaliniuose tvarką nustato atskiras įstatymas.
 
 
@@ -1114,8 +1119,6 @@ Kai dėl piliečio skundo pagal Lietuvos Respublikos Seimo kontrolierių įstaty
 
 
 
-5) yra priimtas Vyriausiosios administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas tarp tų pačių ginčo šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba Vyriausiosios administracinių ginčų komisijos sprendimas patvirtinti ginčo šalių taikos sutartį ir šis sprendimas nebuvo apskųstas per įstatymuose nustatytą terminą;
-5 punkto redakcija nuo 2018-01-01:
 5) yra priimtas Lietuvos administracinių ginčų komisijos, jos teritorinio padalinio sprendimas, kuriuo išspręstas ginčas tarp tų pačių ginčo šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba Lietuvos administracinių ginčų komisijos, jos teritorinio padalinio sprendimas patvirtinti ginčo šalių taikos sutartį ir šis sprendimas nebuvo apskųstas per įstatymuose nustatytą terminą;
 
 
@@ -3131,9 +3134,10 @@ TEISMO SPRENDIMAI
 
 
 
-3. Teismo sprendimas surašomas ir viešai paskelbiamas paprastai tą pačią dieną po bylos išnagrinėjimo. Teismo sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis ir trumpai žodžiu išdėstant sprendimo motyvų esmę. Visi posėdžių salėje esantys asmenys skelbiamą teismo sprendimą išklauso stovėdami. Išimtiniais atvejais teismas gali leisti skelbiamą teismo sprendimą išklausyti sėdint. 
+3. Teismo sprendimas surašomas ir viešai paskelbiamas paprastai tą pačią dieną po bylos išnagrinėjimo. Teismo sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis ir trumpai žodžiu išdėstant sprendimo motyvų esmę. Teismas paprastai neskelbia fizinio asmens kodo, gyvenamosios ar buvimo vietos adreso, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerio, elektroninio pašto adreso ir kitų kontaktinių duomenų, gimimo datos ir vietos, šeiminės padėties, darbovietės ir einamų pareigų, transporto priemonės valstybinio numerio, kredito įstaigos sąskaitos numerio, unikalaus nekilnojamojo ar kito registruotino turto numerio, šio turto buvimo vietos tikslaus adreso, duomenų, sudarančių bylos medžiagą, teismo pripažintą nevieša, taip pat ypatingų asmens duomenų. Visi posėdžių salėje esantys asmenys skelbiamą teismo sprendimą išklauso stovėdami. Išimtiniais atvejais teismas gali leisti skelbiamą teismo sprendimą išklausyti sėdint. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+Nr. XIII-609, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12430
  
 
 
@@ -3415,18 +3419,7 @@ Bylose dėl viešojo administravimo subjekto neveikimo, tai yra pareigų nevykdy
 
 
 
-93 straipsnis. Teismo sprendimas užtikrinti savivaldybės visuomeninės administracinių ginčų komisijos sprendimo ar juo patvirtintos taikos sutarties vykdymą 
-
-
-1. Tais atvejais, kai pareiškėjas kreipiasi į administracinį teismą su prašymu užtikrinti savivaldybės visuomeninės administracinių ginčų komisijos priimto sprendimo ar juo patvirtintos taikos sutarties vykdymą, teismas išreikalauja iš komisijos medžiagą, kurios pagrindu buvo priimtas sprendimas, ir rašytinio proceso tvarka patikrina jo teisėtumą. Jeigu teismas nustato, kad savivaldybės visuomeninės administracinių ginčų komisijos sprendimas yra neteisėtas, priima sprendimą panaikinti savivaldybės visuomeninės administracinių ginčų komisijos sprendimą ir pats išsprendžia bylą iš esmės šio įstatymo nustatyta tvarka.
-
-
-
-
-2. Jeigu teismas nustato, kad savivaldybės visuomeninės administracinių ginčų komisijos sprendimas yra teisėtas, priima sprendimą įpareigoti viešojo administravimo subjektą per teismo nustatytą laiką įvykdyti savivaldybės visuomeninės administracinių ginčų komisijos sprendimą ar juo patvirtintą taikos sutartį. Tokio teismo sprendimo vykdymui užtikrinti taikomos šio įstatymo 99 straipsnio nuostatos.
-
-
-93 straipsnis netenka galios 2018-01-01.
+93 straipsnis. Neteko galios nuo 2018-01-01. 
 
 
 
@@ -3767,8 +3760,6 @@ Teismas nutraukia bylą:
 
 
 
-3) jeigu yra priimtas Vyriausiosios administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas tarp tų pačių ginčo šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba Vyriausiosios administracinių ginčų komisijos sprendimas patvirtinti ginčo šalių taikos sutartį ir šis sprendimas nebuvo apskųstas per įstatymuose nustatytą terminą;
-3 punkto redakcija nuo 2018-01-01:
 3) jeigu yra priimtas Lietuvos administracinių ginčų komisijos, jos teritorinio padalinio sprendimas, kuriuo išspręstas ginčas tarp tų pačių ginčo šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba Lietuvos administracinių ginčų komisijos, jos teritorinio padalinio sprendimas patvirtinti ginčo šalių taikos sutartį ir šis sprendimas nebuvo apskųstas per įstatymuose nustatytą terminą;
 
 
