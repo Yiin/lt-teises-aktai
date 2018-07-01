@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-04-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -29,8 +29,6 @@ Nr. XII-2508, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20645
  
 LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO  ĮSTATYMAS
  
-1991 m. gegužės 21 d. Nr. I-1336
-Vilnius
  
 
 
@@ -217,9 +215,10 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 
 
-2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 3 ir 4 dalyse), Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu
+2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 3 ir 4 dalyse), Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-902, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21498
+Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
  
 
 
@@ -526,28 +525,43 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-7. Draudėjo valstybinio socialinio draudimo įmokos už tarnautojus ar darbuotojus, dirbančius pagal darbo sutartis ne visą darbo laiką, skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip minimalioji mėnesinė alga, išskyrus atvejus, kai jie atitinkamą mėnesį:
+7. Kai apdraustajam apskaičiuotas darbo užmokestis mažesnis negu Vyriausybės patvirtinta minimalioji mėnesinė alga, draudėjas apdraustojo ir draudėjo valstybinio socialinio draudimo įmokas už tarnautojus ar darbuotojus, dirbančius pagal darbo sutartis, apskaičiuoja nuo apskaičiuoto darbo užmokesčio ir papildomai iš savo lėšų sumoka apdraustojo ir draudėjo valstybinio socialinio draudimo įmokas nuo sumos, kurią sudaro skirtumas tarp ne mažesnės kaip Vyriausybės patvirtintos minimaliosios mėnesinės algos ir apdraustojo apskaičiuoto darbo užmokesčio, išskyrus atvejus, kai jie atitinkamą mėnesį:
 
 
-1) buvo drausti pas kitą draudėją pagal šio įstatymo 4 straipsnio 1, 2, 3 ar 4 dalis;
-
-
-
-
-2) gavo valstybinę socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensiją;
+1) buvo drausti pas kitą draudėją pagal šio įstatymo 4 straipsnio 1, 2, 3 ar 4 dalis arba dėl jų socialinio statuso ypatybių draudžiami pensijų socialiniu draudimu valstybės lėšomis pagal šio įstatymo 6 straipsnį;
 
 
 
 
-3) buvo ne vyresni kaip 24 metų (taikoma iki kalendorinio mėnesio, kai asmeniui sukanka 24 metai).
+2) gavo valstybinę socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensiją, šalpos neįgalumo ar šalpos senatvės pensiją, su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo) pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;
 
 
 
 
+3) buvo ne vyresni kaip 24 metų (taikoma iki kalendorinio mėnesio, kai asmeniui sukanka 24 metai);
 
 
-8. Ne visą darbo laiką pagal darbo sutartį dirbančiam darbuotojui ar tarnautojui, nurodytam šio įstatymo 4 straipsnio 1 ar 2 dalyse, kuriam priskaičiuotas darbo užmokestis yra mažesnis kaip Vyriausybės patvirtinta minimalioji mėnesinė alga dėl to, kad jis nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos, motinystės, tėvystės arba vaiko priežiūros išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, socialinio draudimo įmokos skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip Vyriausybės patvirtinta minimalioji mėnesinė alga, perskaičiuota proporcingai atitinkamo mėnesio kalendorinių dienų skaičiui, kai asmuo nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos, motinystės, tėvystės, vaiko priežiūros išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos.
-TAR pastaba. 10 straipsnis tiek, kiek juo panaikinama Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 10 straipsnio 8 dalies nuostata „savarankiškai dirbančių asmenų, kurių duomenys apie jų savarankiškos veiklos pajamas pasibaigus metinės pajamų mokesčio deklaracijos pateikimo Valstybinei mokesčių inspekcijai terminui nėra pateikti Fondo administravimo įstaigoms, socialinio draudimo įmokų bazę sudaro 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma“, taikomas ir nustatant prievolę savarankiškai dirbantiems asmenims mokėti socialinio draudimo įmokas už 2017 metus.
+
+
+4) turi nustatytą 0–55 procentų darbingumo lygį;
+
+
+
+
+5) gavo motinystės, tėvystės ar vaiko priežiūros išmoką. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+ 
+
+
+
+
+8. Pagal darbo sutartį dirbančiam darbuotojui ar tarnautojui, nurodytam šio įstatymo 4 straipsnio 1 ar 2 dalyje, kuriam priskaičiuotas darbo užmokestis yra mažesnis kaip Vyriausybės patvirtinta minimalioji mėnesinė alga dėl to, kad jis nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, socialinio draudimo įmokos skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip Vyriausybės patvirtinta minimalioji mėnesinė alga, perskaičiuota proporcingai atitinkamo mėnesio darbo dienų skaičiui (taikoma 5 darbo dienų savaitė), kai asmuo nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+ 
 
 
 Straipsnio pakeitimai:
@@ -2261,7 +2275,12 @@ Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                   V.LANDSBERGIS 
+PIRMININKAS                                                                                               V.LANDSBERGIS 
+ 
+Vilnius, 1991 m. gegužės 21 d. 
+Nr. I-1336
+ 
+ 
 
 
  
@@ -2884,3 +2903,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-929, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21602
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6, 27 ir 37 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 4, 7, 8, 10, 23, 25 ir 32 straipsnių pakeitimo įstatymas
