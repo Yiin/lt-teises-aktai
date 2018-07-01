@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.08F2F39FF20B"
 
 # Lietuvos Respublikos laukinės gyvūnijos įstatymas
 
-Suvestinė redakcija nuo 2010-07-10 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2726, i. k. 0971010ISTAVIII-498
  
@@ -375,7 +375,9 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS IR APSAUGA
 
 
 
-4) nedelsdami pranešti policijai ir atitinkamam Aplinkos ministerijos regiono aplinkos apsaugos departamentui apie kiekvieną nelaisvėje laikytų ir į laisvę ištrūkusių laukinių gyvūnų pabėgimo atvejį ir savo lėšomis organizuoti šių gyvūnų sugavimą ar numarinimą, jeigu juos būtina sugauti ar numarinti pagal šio įstatymo 9 straipsnio 2 ir 4 dalių reikalavimus.
+4) nedelsdami pranešti policijai ir Aplinkos apsaugos departamentui apie kiekvieną nelaisvėje laikytų ir į laisvę ištrūkusių laukinių gyvūnų pabėgimo atvejį ir savo lėšomis organizuoti šių gyvūnų sugavimą ar numarinimą, jeigu juos būtina sugauti ar numarinti pagal šio įstatymo 9 straipsnio 2 ir 4 dalių reikalavimus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-776, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18830
  
 
 
@@ -590,7 +592,10 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS IR APSAUGA
 
 
 
-3. Zoologijos sodams tikrinti Aplinkos ministerija sudaro Zoologijos sodų patikrinimo komisiją ir tvirtina jos sudėtį. Zoologijos sodų patikrinimo komisija sudaroma iš Aplinkos ministerijos, Aplinkos ministerijos įgaliotos išduoti leidimus zoologijos sodams įkurti institucijos, Valstybinės maisto ir veterinarijos tarnybos, atitinkamo Aplinkos ministerijos regiono aplinkos apsaugos departamento atstovų, veterinarijos ir biologijos specialistų, taip pat į komisijos sudėtį gali būti įtraukti ir kiti specialistai.
+3. Zoologijos sodams tikrinti Aplinkos ministerija sudaro Zoologijos sodų patikrinimo komisiją ir tvirtina jos sudėtį. Zoologijos sodų patikrinimo komisija sudaroma iš Aplinkos ministerijos, Aplinkos ministerijos įgaliotos išduoti leidimus zoologijos sodams įkurti institucijos, Valstybinės maisto ir veterinarijos tarnybos, Aplinkos apsaugos departamento atstovų, veterinarijos ir biologijos specialistų, taip pat į komisijos sudėtį gali būti įtraukti ir kiti specialistai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-776, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18830
+ 
 
 
 
@@ -631,7 +636,10 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS IR APSAUGA
 
 
 
-6. Laukinių gyvūnų perkėlimas vykdomas pagal programas ar planus, suderintus su atitinkama mokslo institucija ir Aplinkos ministerija. Jeigu perkeliamos ar išleidžiamos į laisvę programoje ar plane nenurodytos rūšys, reikalingas Aplinkos ministerijos įgaliotos institucijos leidimas. Išimtiniais atvejais, siekiant išsaugoti gyvūnus nuo sunaikinimo, leidžiama perkelti ar išleisti į laisvę Lietuvos gamtoje natūraliai gyvenančių rūšių gyvūnus apie tai informavus atitinkamą Aplinkos ministerijos regiono aplinkos apsaugos departamentą.
+6. Laukinių gyvūnų perkėlimas vykdomas pagal programas ar planus, suderintus su atitinkama mokslo institucija ir Aplinkos ministerija. Jeigu perkeliamos ar išleidžiamos į laisvę programoje ar plane nenurodytos rūšys, reikalingas Aplinkos ministerijos įgaliotos institucijos leidimas. Išimtiniais atvejais, siekiant išsaugoti gyvūnus nuo sunaikinimo, leidžiama perkelti ar išleisti į laisvę Lietuvos gamtoje natūraliai gyvenančių rūšių gyvūnus apie tai informavus Aplinkos apsaugos departamentą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-776, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18830
+ 
 
 
 
@@ -923,13 +931,15 @@ LAUKINĖS GYVŪNIJOS APSAUGOS IR LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMO VALST
  
 
 
-20 straipsnis. Laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinė kontrolė 
+20 straipsnis. Laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinė kontrolė
 
 
-Laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdo Aplinkos ministerijos regionų aplinkos apsaugos departamentai, Valstybinė maisto ir veterinarijos tarnyba, Muitinės departamentas prie Finansų ministerijos ir kitos Lietuvos Respublikos Vyriausybės įgaliotos institucijos įstatymų ir kitų teisės aktų nustatyta tvarka. 
+Laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdo Aplinkos apsaugos departamentas, Valstybinė maisto ir veterinarijos tarnyba, Muitinės departamentas prie Finansų ministerijos ir kitos Lietuvos Respublikos Vyriausybės įgaliotos institucijos įstatymų ir kitų teisės aktų nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-776, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18830
  
-
-
 
 
 
@@ -1089,3 +1099,8 @@ Lietuvos Respublikos laukinės gyvūnijos įstatymo 2, 9, 10, 11, 14 ir 20 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-920, 2010-06-22, Žin., 2010, Nr. 81-4218 (2010-07-10), i. k. 1101010ISTA00XI-920
 Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-776, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18830
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 5, 8, 9 ir 20 straipsnių pakeitimo įstatymas
