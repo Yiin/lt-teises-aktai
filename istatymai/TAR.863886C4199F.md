@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-1315 įsigaliojimo (2018-07-01) į muziejų vadovų pareigas tam tikram terminui priimti asmenys toliau eina atitinkamo muziejaus vadovo pareigas iki šio termino pabaigos. Šių asmenų pirma kadencija pradedama skaičiuoti laimėjus konkursą ir priimtiems į pareigas po šio įstatymo įsigaliojimo dienos.  Savivaldybių muziejų vadovai, iki šio įstatymo įsigaliojimo į pareigas priimti neterminuotai, jų sutikimu toliau eina atitinkamo muziejaus vadovo pareigas iki 2023 m. birželio 30 d. Šioje dalyje nurodytas penkerių metų nuo šio įstatymo įsigaliojimo laikotarpis yra laikomas pirmąja atitinkamo muziejaus vadovo kadencija.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 7 ir 9 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2003-06-20:
 Nr. IX-1593, 2003-05-29, Žin. 2003, Nr. 59-2638 (2003-06-20), i. k. 1031010ISTA0IX-1593
@@ -324,9 +329,86 @@ Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 
 
 
-4. Muziejaus savininko teises ir pareigas įgyvendinanti institucija konkurso būdu skiria nacionalinio ir respublikinio muziejaus vadovą penkerių metų kadencijai. Muziejaus vadovo kadencijų skaičius neribojamas. 
+4. Muziejaus savininko teises ir pareigas įgyvendinanti institucija konkurso būdu Vyriausybės nustatyta tvarka skiria į pareigas nacionalinio, respublikinio ir savivaldybės muziejaus vadovą penkerių metų kadencijai. To paties nacionalinio muziejaus vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Kvalifikacinius reikalavimus nacionalinių, respublikinių ir savivaldybių muziejų vadovams nustato kultūros ministras. 
 Papildyta straipsnio dalimi:
 Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
+Straipsnio dalies pakeitimai:
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
+ 
+
+
+
+
+5. Nacionalinių, respublikinių ir savivaldybių muziejų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
+
+
+1) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusikaltimo padarymo ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo treji metai;
+
+
+
+
+3) yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+4) yra uždraustos organizacijos narys;
+
+
+
+
+5) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, darbo pareigų pažeidimų ir nuo atleidimo iš pareigų dienos nepraėjo treji metai;
+
+
+
+
+6) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis;
+
+
+
+
+7) yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybės tarnyboje įstatymo reikalavimus ir nuo pažeidimo paaiškėjimo dienos nepraėjo treji metai;
+
+
+
+
+8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pažeidimo paaiškėjimo dienos nepraėjo treji metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją. 
+TAR pastaba .7 straipsnio 5 dalis netaikoma nacionalinių, respublikinių ir savivaldybių muziejų vadovams, priimtiems į pareigas iki įstatymo Nr. XIII-1315 įsigaliojimo(2018-07-01), jeigu Lietuvos Respublikos muziejų įstatymo 7 straipsnio 5 dalyje numatytos sąlygos atsirado iki šio įstatymo įsigaliojimo.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
+ 
+
+
+
+
+6. Nacionalinio, respublikinio ir savivaldybės muziejaus vadovui leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
+
+
+1) nesukelia viešųjų ir privačių interesų konflikto; 
+
+
+
+
+2) nediskredituoja muziejaus autoriteto. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
+ 
+
+
+
+
+7. Sprendimą dėl leidimo nacionalinio, respublikinio ir savivaldybės muziejaus vadovui dirbti kitą darbą ir už šį darbą gauti atlyginimą priima šių įstaigų savininko teises ir pareigas įgyvendinančios institucijos vadovai jų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
  
 
 
@@ -411,11 +493,12 @@ Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 
 
 
-3. Nacionaliniuose, respublikiniuose ir savivaldybių muziejuose rinkinių apsaugą, apskaitą ir saugojimą užtikrina muziejaus direktoriaus pavaduotojas – vyriausiasis fondų saugotojas. Nacionalinio ar respublikinio muziejaus direktoriaus pavaduotoją – vyriausiąjį fondų saugotoją į pareigas priima ir iš jų atleidžia muziejaus savininko teises ir pareigas įgyvendinančios institucijos vadovas, o savivaldybės muziejaus direktoriaus pavaduotoją – vyriausiąjį fondų saugotoją – muziejaus vadovas.
+3. Nacionaliniuose, respublikiniuose ir savivaldybių muziejuose rinkinių apsaugą, apskaitą ir saugojimą užtikrina muziejaus direktoriaus pavaduotojas – vyriausiasis fondų saugotojas. Nacionalinio ar respublikinio muziejaus direktoriaus pavaduotoją – vyriausiąjį fondų saugotoją į pareigas priima ir iš jų atleidžia muziejaus savininko teises ir pareigas įgyvendinančios institucijos vadovas, o savivaldybės muziejaus direktoriaus pavaduotoją – vyriausiąjį fondų saugotoją – muziejaus vadovas. Kvalifikacinius reikalavimus nacionalinių, respublikinių ir savivaldybių muziejų direktorių pavaduotojams – vyriausiesiems fondų saugotojams nustato kultūros ministras. 
 Papildyta straipsnio dalimi:
 Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 Straipsnio dalies pakeitimai:
 Nr. XII-2330, 2016-05-03, paskelbta TAR 2016-05-11, i. k. 2016-12224
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
  
 
 
@@ -635,3 +718,8 @@ Lietuvos Respublikos muziejų įstatymo 4, 5, 7, 9, 12, 13 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2330, 2016-05-03, paskelbta TAR 2016-05-11, i. k. 2016-12224
 Lietuvos Respublikos muziejų įstatymo Nr. I-930 papildymo 7-1 straipsniu ir 9 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 7 ir 9 straipsnių pakeitimo įstatymas
