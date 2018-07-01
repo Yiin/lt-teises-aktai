@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-12-30 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-11-12
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
  
@@ -189,7 +189,9 @@ Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
 
 
-7. Lietuvos karių ir civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių operacijų kariniuose vienetuose sąlygas nustato Lietuvos Respublikos Vyriausybė.
+7. Civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių operacijų kariniuose vienetuose sąlygas nustato Lietuvos Respublikos Vyriausybė. Karių, dalyvaujančių tarptautinėje operacijoje, besirengiančių tarptautinei operacijai, tarptautinės operacijos vietovėje vykdančių tarnybinę užduotį, tarnybos apmokėjimą nustato Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1313, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10966
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
  
@@ -711,3 +713,8 @@ Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendrad
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-924, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21596
 Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1313, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10966
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 4 straipsnio pakeitimo įstatymas
