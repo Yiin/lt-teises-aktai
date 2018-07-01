@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -1163,7 +1163,10 @@ BENDROVĖS VALDYMAS
 
 
 
-2. Bendrovėje gali būti sudaromas kolegialus priežiūros organas – stebėtojų taryba ir kolegialus valdymo organas – valdyba. Akcinėje bendrovėje turi būti sudaromas bent vienas kolegialus organas – stebėtojų taryba arba valdyba.
+2. Bendrovėje gali būti sudaromas kolegialus priežiūros organas – stebėtojų taryba ir kolegialus valdymo organas – valdyba. Akcinėje bendrovėje turi būti sudaromas bent vienas kolegialus organas – stebėtojų taryba arba valdyba. Jeigu akcinėje bendrovėje, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, stebėtojų taryba nesudaroma, turi būti sudaroma valdyba, atliekanti šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
@@ -2400,9 +2403,22 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-3) asmuo, kuris pagal teisės aktus neturi teisės eiti šių pareigų.
+3) auditorius ar audito įmonės darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės finansinių ataskaitų rinkinio auditą, nuo kurio atlikimo nepraėjo 2 metų laikotarpis;
 
 
+
+
+4) dukterinės bendrovės valdymo organo narys; 
+
+
+
+
+5) asmuo, kuris pagal teisės aktus neturi teisės eiti šių pareigų. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
@@ -2412,32 +2428,58 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-8. Stebėtojų taryba ar jos nariai savo veiklą pradeda pasibaigus stebėtojų tarybą ar jos narius išrinkusiam visuotiniam akcininkų susirinkimui. 
+8. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 stebėtojų tarybos narių turi būti nesusiję su bendrove, bendrovę kontroliuojančiu akcininku ir bendrovės organų nariais šeimos, giminystės, svainystės, partnerystės ryšiais, taip pat stebėtojų tarybos narys ne mažiau kaip metus iki jo paskyrimo negali turėti ar neturi būti turėjęs verslo ryšių su šia bendrove nei tiesiogiai, nei kaip turinčios tokių ryšių bendrovės akcininkas, kolegialaus valdymo organo narys ar vadovas. Turinčiu verslo ryšių su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, laikomas fizinis asmuo ar juridinis asmuo, kuris yra prekių tiekėjas arba paslaugų teikėjas (įskaitant finansines, teisines, patariamąsias ir konsultacines paslaugas), partneris ar asmuo, kuris gauna pajamų iš šios bendrovės, išskyrus atlygį už veiklą vykdant kolegialaus organo nario ar komiteto nario pareigas. Bendrovę kontroliuojančiam akcininkui nustatyti mutatis mutandis taikomos šio Įstatymo 5 straipsnio nuostatos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
 
-9. Kai bendrovės įstatai keičiami dėl stebėtojų tarybos sudarymo ar jos narių skaičiaus padidinimo, naujai išrinkti stebėtojų tarybos nariai savo veiklą gali pradėti tik nuo pakeistų įstatų įregistravimo dienos. Šiuo atveju sprendimo dėl įstatų pakeitimo priėmimas ir naujų stebėtojų tarybos narių rinkimas gali vykti tame pačiame visuotiniame akcininkų susirinkime, jei tai numatyta susirinkimo darbotvarkėje. 
+9. Stebėtojų taryba ar jos nariai savo veiklą pradeda pasibaigus stebėtojų tarybą ar jos narius išrinkusiam visuotiniam akcininkų susirinkimui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
 
-10. Visuotinis akcininkų susirinkimas gali atšaukti visą stebėtojų tarybą arba pavienius jos narius nesibaigus stebėtojų tarybos kadencijai. 
+10. Kai bendrovės įstatai keičiami dėl stebėtojų tarybos sudarymo ar jos narių skaičiaus padidinimo, naujai išrinkti stebėtojų tarybos nariai savo veiklą gali pradėti tik nuo pakeistų įstatų įregistravimo dienos. Šiuo atveju sprendimo dėl įstatų pakeitimo priėmimas ir naujų stebėtojų tarybos narių rinkimas gali vykti tame pačiame visuotiniame akcininkų susirinkime, jei tai numatyta susirinkimo darbotvarkėje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
 
-11. Stebėtojų tarybos narys gali atsistatydinti iš pareigų kadencijai nesibaigus, apie tai ne vėliau kaip prieš 14 dienų raštu įspėjęs bendrovę.
+11. Visuotinis akcininkų susirinkimas gali atšaukti visą stebėtojų tarybą arba pavienius jos narius nesibaigus stebėtojų tarybos kadencijai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
 
-12. Jeigu stebėtojų tarybos narys atšaukiamas, atsistatydina ar dėl kitų priežasčių nustoja eiti pareigas ir akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/10 visų balsų, pavienių stebėtojų tarybos narių rinkimui prieštarauja, stebėtojų taryba netenka įgaliojimų ir turi būti renkama visa stebėtojų taryba. Jeigu renkami pavieniai stebėtojų tarybos nariai, jie renkami tik iki veikiančios stebėtojų tarybos kadencijos pabaigos.
+12. Stebėtojų tarybos narys gali atsistatydinti iš pareigų kadencijai nesibaigus, apie tai ne vėliau kaip prieš 14 dienų raštu įspėjęs bendrovę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
 
-13. Už veiklą stebėtojų taryboje jos nariams gali būti mokamos tantjemos šio Įstatymo 59 straipsnyje nustatyta tvarka.
+13. Jeigu stebėtojų tarybos narys atšaukiamas, atsistatydina ar dėl kitų priežasčių nustoja eiti pareigas ir akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/10 visų balsų, pavienių stebėtojų tarybos narių rinkimui prieštarauja, stebėtojų taryba netenka įgaliojimų ir turi būti renkama visa stebėtojų taryba. Jeigu renkami pavieniai stebėtojų tarybos nariai, jie renkami tik iki veikiančios stebėtojų tarybos kadencijos pabaigos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
+
+
+
+
+14. Už veiklą stebėtojų taryboje jos nariams gali būti mokamos tantjemos šio Įstatymo 59 straipsnyje nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 Straipsnio pakeitimai:
@@ -2612,14 +2654,25 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-3) bendrovės vadovas, jeigu bendrovėje stebėtojų taryba nesudaroma ir bendrovės įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 10 dalyje nustatytas priežiūros funkcijas.
+3) bendrovės vadovas, jeigu bendrovėje stebėtojų taryba nesudaroma ir bendrovės įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas;
 
 
 
 
+4) auditorius ar audito įmonės darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės finansinių ataskaitų rinkinio auditą, nuo kurio atlikimo nepraėjo 2 metų laikotarpis, su kuriuo sudaryta sutartis dėl bendrovės finansinių ataskaitų rinkinio audito. 
 
 
-7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 10 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove.
+Straipsnio dalies pakeitimai:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
+
+
+
+
+7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, narių turi būti nesusiję su bendrove, bendrovę kontroliuojančiu akcininku ir bendrovės organų nariais šeimos, giminystės, svainystės, partnerystės ryšiais, taip pat valdybos narys ne mažiau kaip metus iki jo paskyrimo negali turėti ar neturi būti turėjęs verslo ryšių su šia bendrove nei tiesiogiai, nei kaip turinčios tokių ryšių bendrovės akcininkas ar vadovas. Turinčiu verslo ryšių su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, laikomas fizinis asmuo ar juridinis asmuo, kuris yra prekių tiekėjas arba paslaugų teikėjas (įskaitant finansines, teisines, patariamąsias ir konsultacines paslaugas), partneris ar asmuo, kuris gauna pajamų iš šios akcinės bendrovės, išskyrus atlygį už veiklą vykdant kolegialaus organo nario ar komiteto nario pareigas. Bendrovę kontroliuojančiam akcininkui nustatyti mutatis mutandis taikomos šio Įstatymo 5 straipsnio nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
 
 
 
