@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -118,10 +118,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-6. Fiktyvi įmonė – Juridinių asmenų registre įregistruotas privatusis juridinis asmuo arba užsienio juridinio asmens ar kitos organizacijos (toliau – užsienio valstybėje įsteigta įmonė) filialas ar atstovybė, kurie buvo įsteigti ar įsigyti siekiant ne vykdyti šio juridinio asmens steigimo dokumentuose ar užsienio valstybėje įsteigtos įmonės filialo ar atstovybės nuostatuose nurodytą veiklą Lietuvos Respublikoje, o užsieniečiui – šio juridinio asmens dalyviui, kaip jis apibrėžiamas Lietuvos Respublikos civiliniame kodekse (toliau – dalyvis), vadovui arba perkeliamam įmonės viduje užsieniečiui – gauti leidimą gyventi Lietuvos Respublikoje. 
+6. Fiktyvi įmonė – Juridinių asmenų registre įregistruotas juridinis asmuo arba užsienio juridinio asmens ar kitos organizacijos (toliau – užsienio valstybėje įsteigta įmonė) filialas ar atstovybė, kurie buvo įsteigti ar įsigyti siekiant ne vykdyti šio juridinio asmens steigimo dokumentuose ar užsienio valstybėje įsteigtos įmonės filialo ar atstovybės nuostatuose nurodytą veiklą Lietuvos Respublikoje, o užsieniečiui gauti leidimą gyventi Lietuvos Respublikoje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -356,6 +357,14 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
+233. Priimantysis subjektas – Lietuvos mokslo ir studijų institucija (toliau – mokslo ir studijų institucija), savanoriškos veiklos organizatorius ar kita įmonė, įstaiga ar organizacija, priimantys užsienietį studijų, mokslinių tyrimų ir eksperimentinės plėtros darbų, stažuotės ar savanoriškos veiklos tikslu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
+
+
 24. Saugi kilmės valstybė – užsieniečio kilmės valstybė, kurioje teisės sistema, taikomos teisės normos ir politiniai santykiai yra tokie, kad asmuo nepersekiojamas dėl rasės, religijos, tautybės, priklausymo tam tikrai socialinei grupei arba dėl politinių įsitikinimų ir niekas nėra kankinamas, su niekuo nesielgiama žiauriai, nežmoniškai ar žeminamai ir taip nebaudžiama, taip pat nepažeidžiamos pagrindinės žmogaus teisės ir laisvės, nėra beatodairiško smurto veiksmų, galinčių kilti tarptautinio arba vidaus ginkluoto konflikto metu, grėsmės. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
@@ -430,6 +439,14 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 281. Tinkama gyvenamoji patalpa – gyvenamoji patalpa, kuri atitinka statybos, higienos ir priešgaisrinės saugos reikalavimus.
+
+
+
+
+282. Tyrėjas – užsienietis, turintis aukštojo mokslo kvalifikaciją, suteikiančią teisę dalyvauti doktorantūros programose, arba mokslo daktaro laipsnį ir ketinantis pagal darbo sutartį, sudarytą su mokslo ir studijų institucija, atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -654,6 +671,14 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
  
 
 
+
+
+12. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 6 arba 13 punkte nustatytu pagrindu, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, į kurią užsienietis išvyko tęsti dalį studijų arba vykdyti dalį savo mokslinių tyrimų ir eksperimentinės plėtros darbų, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje buvimo kitoje Europos Sąjungos valstybėje narėje laikotarpiu tapo negaliojančiu arba buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, kuri užsienietį įpareigojo išvykti, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
@@ -834,6 +859,30 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 51. Užsienietis, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi kaip perkeltas įmonės viduje, turi teisę atvykti ir būti Lietuvos Respublikoje be vizos ne ilgiau negu 90 dienų per 180 dienų laikotarpį, taip pat dirbti priimančiojoje įmonėje, įsteigtoje Lietuvos Respublikoje. Tuo atveju, jeigu užsienietis turi kitos Europos Sąjungos valstybės narės, kuri nėra Šengeno valstybė, išduotą leidimą laikinai gyventi kaip perkeltas įmonės viduje, priimančioji įmonė, įsteigta Lietuvos Respublikoje, turi būti raštu pranešusi Migracijos departamentui apie šio užsieniečio perkėlimą įmonės viduje, įskaitant judėjimą tarp priimančiųjų įmonių kitose Europos Sąjungos valstybėse narėse, trukmę ir priimančiosios (priimančiųjų) įmonės (įmonių) buveinės (buveinių) adresą (adresus).
 Papildyta straipsnio dalimi:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+ 
+
+
+
+
+52. Užsienietis, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą studijų tikslu ir kuriam taikoma Europos Sąjungos arba jos valstybių narių finansuojama programa, kuria skatinamas trečiųjų šalių piliečių judumas Europos Sąjungoje, arba dviejų ar daugiau aukštojo mokslo įstaigų susitarimas, gali atvykti tęsti dalį studijų ir būti Lietuvos Respublikoje be vizos ne ilgiau kaip 360 dienų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
+
+
+53. Užsienietis, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą mokslinių tyrimų ir eksperimentinės plėtros darbų vykdymo tikslu, gali atvykti ir būti Lietuvos Respublikoje be vizos ne ilgiau negu 180 dienų per 360 dienų laikotarpį, kad vykdytų dalį savo mokslinių tyrimų ir eksperimentinės plėtros darbų mokslo ir studijų institucijoje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
+
+
+54. Užsieniečio, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą mokslinių tyrimų ir eksperimentinės plėtros darbų vykdymo tikslu, šeimos nariai, turintys kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi arba nacionalinę vizą, turi teisę atvykti ir būti Lietuvos Respublikoje tuo pačiu laikotarpiu kaip ir užsienietis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -1284,10 +1333,11 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienietis: 
 
 
-1) yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio 2–51, 7 dalyse užsieniečiams nustatytą buvimo joje laiką;
+1) yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio 2–54, 7 dalyse užsieniečiams nustatytą buvimo joje laiką; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -1675,19 +1725,24 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-11) dėl leidimo laikinai gyventi išdavimo – ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos:
+11) dėl leidimo laikinai gyventi išdavimo ‒ ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo atitinkamoje institucijoje dienos:
 
 
-a) šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo 442 straipsnio 1 dalies 3 punkte nurodytas atvejis; 
+a) šio Įstatymo 40 straipsnio 1 dalies 42 punkte nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo 442 straipsnio 1 dalies 3 punkte nurodytas atvejis, taip pat šio Įstatymo 40 straipsnio 1 dalies 13 ir 15 punktuose nustatytais pagrindais;
 
 
 
 
-b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui; 
+b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui. Ši nuostata netaikoma studijas užbaigusio užsieniečio, kuris kreipiasi dėl leidimo laikinai gyventi išdavimo šio Įstatymo 40 straipsnio 1 dalies 15 punkte nustatytu pagrindu, šeimos nariui;
 
 
-Papildyta straipsnio punktu:
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+
+
+c) šio Įstatymo 40 straipsnio 1 dalies 5 punkte nustatytu pagrindu, kai yra šio Įstatymo 45 straipsnio 1 dalies 8 punkte nurodytas atvejis, taip pat šio Įstatymo 40 straipsnio 1 dalies 6 punkte nustatytu pagrindu, kai yra šio Įstatymo 46 straipsnio 1 dalies 1 ar 3 punkte nurodytas atvejis; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -1855,10 +1910,11 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-2) duomenys, kuriuos jis pateikė norėdamas gauti leidimą gyventi, neatitinka tikrovės arba buvo pateikti neteisėtai įgyti ar suklastoti dokumentai, arba yra rimtas pagrindas manyti, kad sudaryta fiktyvi santuoka, fiktyvi registruota partnerystė, fiktyvus įvaikinimas ar kad įmonė, kurios dalyvis ar vadovas yra užsienietis, arba priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, yra fiktyvi; 
+2) duomenys, kuriuos jis pateikė norėdamas gauti leidimą gyventi, neatitinka tikrovės arba buvo pateikti neteisėtai įgyti ar suklastoti dokumentai, arba yra rimtas pagrindas manyti, kad sudaryta fiktyvi santuoka, fiktyvi registruota partnerystė, fiktyvus įvaikinimas ar kad įmonė, kurios dalyvis, kaip jis apibrėžiamas Lietuvos Respublikos civiliniame kodekse (toliau – dalyvis), ar vadovas yra užsienietis, priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, arba priimantysis subjektas yra fiktyvi įmonė; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -1950,10 +2006,10 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-16) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo 40 straipsnio 1 dalies 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje:
+16) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo 40 straipsnio 1 dalies 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimantysis subjektas:
 
 
-a) yra bausti už leidimą dirbti nelegalų darbą ar už leidimą dirbti nelegaliai trečiųjų šalių piliečiams ir nuo dienos, kurią skirta nuobauda baigta vykdyti, praėjo mažiau kaip vieni metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo;
+a) yra bausti už leidimą dirbti nelegalų darbą ar už leidimą dirbti nelegaliai trečiųjų šalių piliečiams ir nuo dienos, kurią skirta nuobauda baigta vykdyti, praėjo mažiau kaip vieni metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo;
 
 
 
@@ -1971,6 +2027,14 @@ c) nevykdo įsipareigojimų muitinei arba yra nesumokėję Lietuvos Respublikos 
 d) yra likviduojami, bankrutuojantys arba nevykdo ekonominės veiklos; 
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
+
+
+17) jis nesilaikė perkeliamam įmonės viduje užsieniečiui taikomų judėjimo tarp priimančiųjų įmonių, įsteigtų Europos Sąjungos valstybėse narėse, sąlygų, nurodytų šio Įstatymo 11 straipsnio 51 dalyje ir 442 straipsnio 6 dalyje; 
 Papildyta straipsnio punktu:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
  
@@ -1978,9 +2042,9 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-17) jis nesilaikė perkeliamam įmonės viduje užsieniečiui taikomų judėjimo tarp priimančiųjų įmonių, įsteigtų Europos Sąjungos valstybėse narėse, sąlygų, nurodytų šio Įstatymo 11 straipsnio 51 dalyje ir 442 straipsnio 6 dalyje. 
+18) užsienietis, priimtas studijuoti į mokslo ir studijų instituciją pagal studijų programą (programas), yra pašalintas iš mokslo ir studijų institucijos pagal jos nustatytą studijų organizavimo tvarką. 
 Papildyta straipsnio punktu:
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -2040,10 +2104,18 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 
 
-4) pasikeičia Juridinių asmenų registre įregistruoto privačiojo juridinio asmens (toliau – įmonė) arba užsienio valstybėje įsteigtos įmonės filialo ar atstovybės buveinės adresas, kai leidimas laikinai gyventi jam išduotas šio Įstatymo 40 straipsnio 1 dalies 51 punkte ar 45 straipsnio 1 dalies 1–22 punktuose nustatytais pagrindais arba kai leidimas laikinai gyventi jam išduotas šio Įstatymo 442 straipsnio 1 dalies 1 punkte nustatytu pagrindu kaip vadovui, vadovausiančiam priimančiajai įmonei. 
+4) pasikeičia Juridinių asmenų registre įregistruoto privačiojo juridinio asmens (toliau – įmonė) arba užsienio valstybėje įsteigtos įmonės filialo ar atstovybės buveinės adresas, kai leidimas laikinai gyventi jam išduotas šio Įstatymo 40 straipsnio 1 dalies 51 punkte ar 45 straipsnio 1 dalies 1–22 punktuose nustatytais pagrindais arba kai leidimas laikinai gyventi jam išduotas šio Įstatymo 442 straipsnio 1 dalies 1 punkte nustatytu pagrindu kaip vadovui, vadovausiančiam priimančiajai įmonei; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+ 
+
+
+
+
+5) jis pateikia prašymą būti priimtas į kitos mokslo ir studijų institucijos lygiavertę studijų programą arba į doktorantūrą pagal šio Įstatymo 46 straipsnio 6 dalį. 
+Papildyta straipsnio punktu:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -2075,7 +2147,10 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-3) švietimo įstaiga, mokslo ir studijų institucija – apie užsieniečio, turinčio leidimą laikinai gyventi, mokymosi, studijų, stažuotės ar kvalifikacijos tobulinimo nutraukimą;
+3) švietimo įstaiga ar priimantysis subjektas – apie užsieniečio, turinčio leidimą laikinai gyventi, mokymosi, studijų, stažuotės, kvalifikacijos tobulinimo ar savanoriškos veiklos nutraukimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -2109,9 +2184,17 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-8) priimančioji įmonė, įsteigta Lietuvos Respublikoje, – apie sąlygų, kurios pagal šio Įstatymo 442 straipsnio 1, 2, 3 ir 5 dalis taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą. 
+8) priimančioji įmonė, įsteigta Lietuvos Respublikoje, – apie sąlygų, kurios pagal šio Įstatymo 442 straipsnio 1, 2, 3 ir 5 dalis taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą; 
 Papildyta straipsnio punktu:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+ 
+
+
+
+
+9) mokslo ir studijų institucija – apie bet kokias atsiradusias aplinkybes, kurios galėtų sukliudyti vykdyti darbo sutartį, sudarytą su tyrėju. 
+Papildyta straipsnio punktu:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -2306,13 +2389,23 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-13) jis ketina pagal darbo sutartį, sudarytą su Lietuvos Respublikoje įregistruota mokslo ir studijų institucija, dirbti kaip dėstytojas, atlikti mokslinius tyrimus ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbus kaip tyrėjas;
+13) jis ketina pagal darbo sutartį, sudarytą su mokslo ir studijų institucija, dirbti kaip dėstytojas arba tyrėjas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
 
 
-14) jis kitoje Europos Sąjungos valstybėje narėje yra įgijęs ilgalaikio gyventojo statusą ir turi tos valstybės išduotą leidimą gyventi.
+14) jis kitoje Europos Sąjungos valstybėje narėje yra įgijęs ilgalaikio gyventojo statusą ir turi tos valstybės išduotą leidimą gyventi;
+
+
+
+
+15) jis yra studijas užbaigęs užsienietis, kuriam leidimas laikinai gyventi buvo išduotas šio Įstatymo 46 straipsnio 1 dalies 1 punkte nurodytu atveju, arba mokslinius tyrimus ir eksperimentinės plėtros darbus užbaigęs tyrėjas, kuriam leidimas laikinai gyventi buvo išduotas šio Įstatymo 492 straipsnio 1 dalyje nurodytu atveju. 
+Papildyta straipsnio punktu:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -2370,10 +2463,11 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-6. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris dėl leidimo laikinai gyventi išdavimo kreipiasi šio straipsnio 1 dalies 41, 42, 51 ar 13 punkte nustatytu pagrindu arba šio straipsnio 1 dalies 14 punkte nustatytu pagrindu ir atitinka šio Įstatymo 43 straipsnio 6 dalies 3 punkte nurodytą sąlygą, arba šio Įstatymo 45 straipsnio 1 dalies 1–22 punktuose nurodytais pagrindais, arba kartu su užsieniečiu, nurodytu šio Įstatymo 43 straipsnio 6 dalies 4 ar 5 punkte, dėl leidimo laikinai gyventi gali kreiptis kartu su šiuo užsieniečiu ir leidimas laikinai gyventi jam išduodamas tokiam pačiam laikotarpiui kaip ir šiam užsieniečiui.
+6. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris dėl leidimo laikinai gyventi išdavimo kreipiasi šio straipsnio 1 dalies 41, 42, 51 ar 13 punkte arba šio straipsnio 1 dalies 14 punkte nustatytu pagrindu ir atitinka šio Įstatymo 43 straipsnio 6 dalies 3 punkte nurodytą sąlygą, arba šio Įstatymo 45 straipsnio 1 dalies 1–22 punktuose nurodytais pagrindais, arba kartu su užsieniečiu, nurodytu šio Įstatymo 43 straipsnio 6 dalies 4 ar 5 punkte, dėl leidimo laikinai gyventi išdavimo gali kreiptis kartu su šiuo užsieniečiu ir leidimas laikinai gyventi jam išduodamas tokiam pačiam laikotarpiui kaip ir šiam užsieniečiui. Šeimos nario, atvykstančio gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris ketina dirbti kaip dėstytojas arba tyrėjas, prašymas nagrinėjamas kartu su šio užsieniečio prašymu ir sprendimai dėl leidimo išdavimo priimami tuo pačiu metu, jeigu prašymai dėl leidimo laikinai gyventi išdavimo buvo pateikti kartu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -2523,7 +2617,10 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-4) kuris yra atvykęs stažuoti Lietuvos Respublikos mokslo ir studijų institucijose pagal Lietuvos Respublikos tarptautines sutartis arba pagal Europos Sąjungos akademinių mainų su trečiosiomis valstybėmis programas;
+4) kuris yra atvykęs stažuoti mokslo ir studijų institucijose pagal Lietuvos Respublikos tarptautines sutartis arba pagal Europos Sąjungos akademinių mainų su trečiosiomis valstybėmis programas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -2547,6 +2644,22 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
  
 
 
+
+
+
+
+61. Šio straipsnio 6 dalies reikalavimai netaikomi, kai šeimos nariai atvyksta šeimos susijungimo tikslu pas užsienietį, nurodytą šio straipsnio 1 dalies 2 ir 5 punktuose, turintį leidimą laikinai gyventi, išduotą pagal šio Įstatymo 46 straipsnio 1 dalies 1 punktą, ir studijuojantį doktorantūroje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
+
+
+62. Užsienietis, teikiantis prašymą dėl leidimo laikinai gyventi išdavimo kartu su užsieniečiu, kuris ketina dirbti kaip dėstytojas arba tyrėjas, pateikia įrodymus, kad jis kitoje Europos Sąjungos valstybėje narėje gyvena kaip užsieniečio, turinčio kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą mokslinių tyrimų ir eksperimentinės plėtros darbų vykdymo tikslu, šeimos narys. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -2988,9 +3101,11 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-8) yra Europos Sąjungos ar jos valstybių narių remiamų savanorių programų dalyvis.
+8) yra Europos Sąjungos ar jos valstybių narių pripažįstamų savanoriškos veiklos programų, apimančių praktinio solidarumo veiksmų programas, kuriomis siekiama visuotinės svarbos tikslų nesiekiant pelno ir kuriose veiksmai nėra atlyginami, išskyrus išlaidų, susijusių su savanoriška veikla, kompensavimą, dalyvis ir pateikia su savanoriškos veiklos organizatoriumi sudarytą savanoriškos veiklos sutartį, prie kurios pridedama savanoriškos veiklos programa. 
 Papildyta straipsnio punktu:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3022,6 +3137,44 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 5. Išduodant ar keičiant leidimą laikinai gyventi užsieniečiui šiame straipsnyje nustatytais pagrindais, vidaus reikalų ministro nustatyta tvarka turi būti įvertinama, ar nėra rimto pagrindo manyti, kad įmonė, kurios dalyvis ar vadovas yra šis užsienietis, yra fiktyvi.
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+ 
+
+
+
+
+6. Užsieniečio su savanoriškos veiklos organizatoriumi sudarytoje savanoriškos veiklos sutartyje, be kitų sutarties sąlygų, turi būti nurodyta:
+
+
+1) savanoriškos veiklos programos pavadinimas;
+
+
+
+
+2) savanoriškos veiklos trukmė;
+
+
+
+
+3) savanoriškos veiklos programos įgyvendinimo vieta ir savanoriškos veiklos priežiūros sąlygos;
+
+
+
+
+4) savanoriškos veiklos laikas;
+
+
+
+
+5) užsieniečio turimos lėšos pragyvenimo ir apgyvendinimo išlaidoms padengti ir užsieniečiui kompensuojamos su savanoriška veikla susijusios išlaidos;
+
+
+
+
+6) mokymai, susiję su užsieniečio parengimu numatytai savanoriškai veiklai atlikti (jeigu jie numatyti). 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3066,7 +3219,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 46 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris ketina mokytis
 
 
-1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, jeigu jis: 
+1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, jeigu jis:
 
 
 1) priimtas studijuoti į mokslo ir studijų instituciją pagal studijų programą (programas) arba į doktorantūrą;
@@ -3074,12 +3227,12 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-2) priimtas mokytis į švietimo įstaigą pagal bendrojo ugdymo arba profesinio mokymo programą (programas); 
+2) priimtas mokytis į švietimo įstaigą pagal bendrojo ugdymo arba profesinio mokymo programą (programas);
 
 
 
 
-3) pakviestas stažuoti į švietimo įstaigą arba mokslo ir studijų instituciją;
+3) prašymo išduoti leidimą laikinai gyventi pateikimo metu studijuoja užsienio valstybėje, kuri nėra Europos Sąjungos valstybė narė, ir po jo studijų suteikiama aukštojo mokslo kvalifikacija ir yra sudaręs su priimančiuoju subjektu stažuotės atlikimo sutartį toje pačioje srityje kaip ir studijos. Leidimas laikinai gyventi taip pat gali būti išduodamas užsieniečiui, atitinkančiam šiame punkte išvardytas sąlygas, jeigu jis yra užbaigęs studijas toje pačioje srityje kaip ir numatoma stažuotė ne vėliau kaip prieš 2 metus iki prašymo išduoti leidimą laikinai gyventi pateikimo datos;
 
 
 
@@ -3091,34 +3244,40 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-2. Šio straipsnio 1 dalies 1 punkte nurodytam užsieniečiui leidimas laikinai gyventi išduodamas studijų laikotarpiui, bet ne ilgiau kaip 2 metams. Šio straipsnio 1 dalies 2–4 punktuose nurodytam užsieniečiui leidimas laikinai gyventi išduodamas mokymosi, stažuotės ar kvalifikacijos tobulinimo laikotarpiui, bet ne ilgiau kaip vieneriems metams. Leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio Įstatymo 26 straipsnio 1 dalyje nustatytas sąlygas (su 26 straipsnio 31 dalyje nurodyta išimtimi), nėra nutraukęs studijų, mokymosi, stažuotės ar kvalifikacijos tobulinimo ir studijuodamas ar mokydamasis laikosi apribojimo, nustatyto šio straipsnio 4 dalyje. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
- 
+2. Šio straipsnio 1 dalies 1 punkte nurodytam užsieniečiui leidimas laikinai gyventi išduodamas studijų laikotarpiui, bet ne ilgiau kaip 2 metams. Tais atvejais, kai leidimas laikinai gyventi išduodamas arba keičiamas studijų paskutinių metų laikotarpiui, leidimas laikinai gyventi išduodamas arba keičiamas laikotarpiui, 3 mėnesiais ilgesniam negu numatomas studijų laikotarpis. Šio straipsnio 1 dalies 2, 3 ir 4 punktuose nurodytam užsieniečiui leidimas laikinai gyventi išduodamas mokymosi, stažuotės ar kvalifikacijos tobulinimo laikotarpiui, bet ne ilgiau kaip vieniems metams. Leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio Įstatymo 26 straipsnio 1 dalyje nustatytas sąlygas (su šio Įstatymo 26 straipsnio 31 dalyje nurodyta išimtimi), nėra nutraukęs studijų, mokymosi, stažuotės ar kvalifikacijos tobulinimo ir studijuodamas ar mokydamasis laikosi apribojimo, nustatyto šio straipsnio 4 dalyje.
 
 
 
 
-3. Kai pasibaigia mokymosi, studijų, stažuotės ar kvalifikacijos tobulinimo laikotarpis arba užsienietis nutraukia mokymąsi, studijas, stažuotę ar kvalifikacijos tobulinimą, jis privalo išvykti iš Lietuvos Respublikos. 
+3. Kai pasibaigia mokymosi, studijų, stažuotės ar kvalifikacijos tobulinimo laikotarpis arba užsienietis nutraukia mokymąsi, studijas, stažuotę ar kvalifikacijos tobulinimą, jis privalo išvykti iš Lietuvos Respublikos, išskyrus atvejus, kai jam išduodamas leidimas laikinai gyventi kitu šio Įstatymo 40 straipsnio 1 dalyje nustatytu pagrindu.
 
 
 
 
-4. Užsienietis studijų ar mokymosi laikotarpiu turi teisę dirbti ne daugiau kaip 20 valandų per savaitę.
-Straipsnio dalies pakeitimai:
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
- 
+4. Užsienietis studijų ar mokymosi laikotarpiu turi teisę dirbti ne daugiau kaip 20 valandų per savaitę, išskyrus švietimo įstaigos ar mokslo ir studijų institucijos nustatytą vasaros atostogų laikotarpį. Šioje dalyje nustatytas darbo laiko apribojimas netaikomas užsieniečiams, studijuojantiems doktorantūroje.
 
 
 
 
-5. Paskutiniais mokymosi arba studijų metais užsieniečiui jo prašymu leidimas laikinai gyventi gali būti pakeistas laikotarpiui, neviršijančiam 6 mėnesių termino, skaičiuojant nuo paskutinės mokymosi dienos.
+5. Paskutiniais mokymosi metais užsieniečiui jo prašymu leidimas laikinai gyventi gali būti pakeistas laikotarpiui, neviršijančiam 6 mėnesių termino, skaičiuojant nuo paskutinės mokymosi dienos.
 
 
+
+
+6. Šio straipsnio 1 dalies 1 punkte nurodytas užsienietis turi teisę pateikti prašymą būti priimtas studijuoti į kitos mokslo ir studijų institucijos lygiavertę studijų programą arba į doktorantūrą, jeigu paaiškėja šio Įstatymo 50 straipsnio 1 dalies 19 punkte nurodytos aplinkybės. Tokiu atveju sprendimas dėl leidimo laikinai gyventi panaikinimo nepriimamas tol, kol sprendžiamas klausimas dėl jo priėmimo studijuoti. Apie kitai mokslo ir studijų institucijai pateiktą prašymą užsienietis privalo pranešti vidaus reikalų ministro įgaliotai institucijai pagal šio Įstatymo 36 straipsnio 1 dalies 5 punktą. Jeigu užsienietis per 2 mėnesius nuo pranešimo vidaus reikalų ministro įgaliotai institucijai pateikimo datos nepateikia įrodymų, patvirtinančių, kad jis buvo priimtas studijuoti į kitos mokslo ir studijų institucijos lygiavertę studijų programą arba į doktorantūrą, leidimas laikinai gyventi panaikinamas pagal šio Įstatymo 50 straipsnio 1 dalies 19 punktą.
+
+
+
+
+7. Šio straipsnio 1 dalies 3 punkte nurodyta stažuotės sutartis sudaroma laikantis švietimo ir mokslo ministro patvirtintos sutarties formos. 
 Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3224,39 +3383,78 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 
 
-492 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris ketina dirbti kaip dėstytojas, atlikti mokslinius tyrimus ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbus kaip tyrėjas
+492 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris ketina dirbti kaip dėstytojas arba tyrėjas
 
 
-1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina pagal darbo sutartį, sudarytą su Lietuvos Respublikoje įregistruota mokslo ir studijų institucija, dirbti kaip dėstytojas, atlikti mokslinius tyrimus ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbus kaip tyrėjas. Be to, užsienietis arba mokslo ir studijų institucija turi pateikti šios institucijos rašytinį įsipareigojimą, galiojantį dar 6 mėnesius nuo darbo sutarties termino pabaigos, kad tuo atveju, jeigu užsienietis neteisėtai pasiliktų Lietuvos Respublikoje, mokslo ir studijų institucija kompensuos išlaidas, susijusias su užsieniečio buvimu Lietuvos Respublikoje ir grįžimu į užsienio valstybę, kai tos išlaidos dengiamos valstybės lėšomis.
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina pagal darbo sutartį, sudarytą su mokslo ir studijų institucija, dirbti kaip dėstytojas arba tyrėjas.
 
 
 
 
-2. Prašymą išduoti leidimą laikinai gyventi gali pateikti užsienietis arba mokslo ir studijų institucija. 
+2. Prašymą išduoti leidimą laikinai gyventi gali pateikti užsienietis arba mokslo ir studijų institucija.
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytam užsieniečiui leidimas laikinai gyventi išduodamas 2 metams arba, jeigu jo darbo dėstytoju, mokslinių tyrimų ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbų trukmė yra mažesnė negu 2 metai, šių darbų laikotarpiui.
+3. Šio straipsnio 1 dalyje nurodytam užsieniečiui leidimas laikinai gyventi išduodamas 2 metams arba, jeigu jo darbo dėstytoju arba tyrėju trukmė yra mažesnė negu 2 metai, 3 mėnesiais ilgesniam negu šių darbų trukmė laikotarpiui. Leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio Įstatymo 26 straipsnio 1 dalyje nustatytas sąlygas ir tęsia mokslinius tyrimus ir eksperimentinės plėtros darbus.
 
 
 
 
-4. Užsienietis mokslinių tyrimų ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbų metu turi teisę dirbti kaip dėstytojas Lietuvos Respublikos įstatymų nustatyta tvarka. 
+4. Užsienietis, dirbdamas tyrėju, turi teisę dirbti ir kaip dėstytojas.
 
 
 
 
-5. Užsienietis, nutraukęs dėstytojo darbą, mokslinius tyrimus ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbus arba pasibaigus užsieniečio darbo sutarčiai, sudarytai su mokslo ir studijų institucija, privalo išvykti iš Lietuvos Respublikos.
+5. Užsienietis, nutraukęs dėstytojo arba tyrėjo darbą arba pasibaigus užsieniečio darbo sutarčiai, sudarytai su mokslo ir studijų institucija, privalo išvykti iš Lietuvos Respublikos, išskyrus atvejus, kai jam išduodamas leidimas laikinai gyventi kitu šio Įstatymo 40 straipsnio 1 dalyje nustatytu pagrindu.
 
 
+
+
+6. Leidimui laikinai gyventi išduoti pateikiami dokumentai, patvirtinantys, kad mokslo ir studijų institucija, pageidaujanti priimti tyrėją, įvertino mokslinių tyrimų ir eksperimentinės plėtros darbų tikslą, trukmę ir užsieniečio kvalifikaciją, taip pat kad mokslo ir studijų institucija turi pakankamai finansinių išteklių moksliniams tyrimams ir eksperimentinės plėtros darbams vykdyti.
+
+
+
+
+7. Tyrėjo darbo sutartyje, be kitų darbo sutarties sąlygų, taip pat turi būti nurodyta:
+
+
+1) mokslinių tyrimų ir eksperimentinės plėtros darbų pavadinimas ar tikslas;
+
+
+
+
+2) užsieniečio įsipareigojimas vykdyti mokslinius tyrimus ir eksperimentinės plėtros darbus;
+
+
+
+
+3) mokslinių tyrimų organizacijos įsipareigojimas priimti užsienietį moksliniams tyrimams ir eksperimentinės plėtros darbams vykdyti; 
+
+
+
+
+4) mokslinių tyrimų ir eksperimentinės plėtros darbų pradžios ir pabaigos datos arba numatoma trukmė;
+
+
+
+
+5) informacija apie numatomą judėjimą vienoje arba keliose Europos Sąjungos valstybėse narėse, jeigu apie tyrėjo judėjimą žinoma.
+
+
+
+
+
+
+8. Tyrėjas kartu su dokumentais, pateikiamais leidimui laikinai gyventi išduoti, pateikia ir kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi ar nacionalinę vizą mokslinių tyrimų ir eksperimentinės plėtros darbų vykdymo tikslu, jeigu tokie buvo išduoti. 
 Įstatymas papildytas straipsniu:
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Straipsnio pakeitimai:
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3275,6 +3473,29 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 Įstatymas papildytas straipsniu:
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+ 
+
+
+
+
+494 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, užbaigusiam studijas, arba tyrėjui, užbaigusiam mokslinius tyrimus ir eksperimentinės plėtros darbus 
+
+
+1. Užsieniečiui, užbaigusiam studijas, arba tyrėjui, užbaigusiam mokslinius tyrimus ir eksperimentinės plėtros darbus, gali būti išduotas leidimas laikinai gyventi, kad jis galėtų ieškoti darbo arba pradėti veiklą kaip savarankiškai dirbantis asmuo, jeigu jis pateikia mokslo ir studijų institucijos patvirtinimą, kad moksliniai tyrimai ir eksperimentinės plėtros darbai yra užbaigti, arba patvirtinimą, kad jis įgijo aukštojo mokslo kvalifikaciją. 
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytam užsieniečiui leidimas laikinai gyventi išduodamas 12 mėnesių laikotarpiui.
+
+
+
+
+3. Užsieniečio, užbaigusio doktorantūros studijas, ir tyrėjo, pasinaudojusių šio straipsnio 1 dalyje numatyta galimybe, šeimos nariams leidimas laikinai gyventi išduodamas tam pačiam laikotarpiui kaip ir užsieniečiui. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3368,9 +3589,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-13) užsienietis išvyksta gyventi arba gyvena užsienio valstybėje ilgiau negu 6 mėnesius, išskyrus atvejus, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 41 ar 42 punktą; 
+13) užsienietis išvyksta gyventi arba gyvena užsienio valstybėje ilgiau negu 6 mėnesius, išskyrus atvejus, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 41, 42 ar 13 punktą arba 46 straipsnio 1 dalies 1 punktą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3391,7 +3613,10 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-17) nutraukiamas dėstytojo darbas, moksliniai tyrimai ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbai arba pasibaigia užsieniečio darbo sutartis, sudaryta su mokslo ir studijų institucija;
+17) nutraukiamas dėstytojo darbas, moksliniai tyrimai ir eksperimentinės plėtros darbai arba pasibaigia užsieniečio darbo sutartis, sudaryta su mokslo ir studijų institucija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -3401,7 +3626,7 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-19) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje:
+19) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo 40 straipsnio 1 dalies 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, ar priimantysis subjektas:
 
 
 a) yra bausti už leidimą dirbti nelegalų darbą ar už leidimą dirbti nelegaliai trečiųjų šalių piliečiams ir nuo dienos, kurią skirta nuobauda baigta vykdyti, praėjo mažiau kaip vieni metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo;
@@ -3422,8 +3647,8 @@ c) nevykdo įsipareigojimų muitinei arba yra nesumokėję Lietuvos Respublikos 
 d) yra likviduojami, bankrutuojantys arba nevykdo ekonominės veiklos; 
 
 
-Papildyta straipsnio punktu:
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -3692,7 +3917,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-9. Leidimą nuolat gyventi išduodant užsieniečiui šio straipsnio 1 dalies 8 punkte nustatytu pagrindu, į pragyventą Lietuvos Respublikoje laikotarpį įskaičiuojama tik pusė laiko, pragyvento Lietuvos Respublikoje turint leidimą laikinai gyventi, išduotą vadovaujantis šio Įstatymo 40 straipsnio 1 dalies 6 punkto ir 46 straipsnio nuostatomis.
+9. Leidimą nuolat gyventi išduodant užsieniečiui šio straipsnio 1 dalies 8 punkte nustatytu pagrindu, į pragyventą Lietuvos Respublikoje laikotarpį įskaičiuojama tik pusė laiko, pragyvento Lietuvos Respublikoje turint leidimą laikinai gyventi, išduotą vadovaujantis šio Įstatymo 40 straipsnio 1 dalies 6 punkto ir 46 straipsnio nuostatomis. Ši nuostata netaikoma užsieniečiui, kuris Lietuvos Respublikoje baigė studijas ir įgijo aukštojo mokslo kvalifikaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -4021,9 +4249,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-2) turi leidimą laikinai gyventi, išduotą pagal šio Įstatymo 40 straipsnio 1 dalies 6 punktą, ir įdarbinamas praktinio mokymo (praktikos) laikotarpiu mokslo ir studijų institucijoje mokslinių tyrimų ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbų srityje arba studijuodamas ar mokydamasis ketina dirbti, laikydamasis apribojimo, nustatyto šio Įstatymo 46 straipsnio 4 dalyje; 
+2) turi leidimą laikinai gyventi, išduotą pagal šio Įstatymo 40 straipsnio 1 dalies 6 punktą, ir įdarbinamas praktinio mokymo (praktikos) laikotarpiu mokslo ir studijų institucijoje mokslinių tyrimų ir eksperimentinės plėtros darbų srityje arba studijuodamas ar mokydamasis ketina dirbti, laikydamasis apribojimo, nustatyto šio Įstatymo 46 straipsnio 4 dalyje; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -4034,10 +4263,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-4) kreipiasi dėl leidimo laikinai gyventi išdavimo ar pakeitimo pagal šio Įstatymo 40 straipsnio 1 dalies 41, 42, 5, 51, 13, 14 punktus ar 44 straipsnio 1 dalies 3 punktą; 
+4) kreipiasi dėl leidimo laikinai gyventi išdavimo ar pakeitimo pagal šio Įstatymo 40 straipsnio 1 dalies 41, 42, 5, 51, 13, 14 ar 15 punktus ar šio Įstatymo 44 straipsnio 1 dalies 3 punktą; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -4046,6 +4276,14 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 5) jis yra šio Įstatymo 11 straipsnio 51 dalyje nurodytas užsienietis, perkeliamas įmonės viduje ne ilgesniam negu 90 dienų per 180 dienų laikotarpiui dirbti į priimančiąją įmonę, įsteigtą Lietuvos Respublikoje, ir jeigu užsieniečio perkėlimas įmonės viduje, įskaitant judėjimą tarp priimančiųjų įmonių, įsteigtų kitose Europos Sąjungos valstybėse narėse, netrunka ilgiau negu 3 metus, kai užsienietis perkeliamas įmonės viduje kaip vadovas arba specialistas, ar ilgiau negu vienus metus, kai jis perkeliamas įmonės viduje kaip darbuotojas – stažuotojas. Jeigu užsienietis dirbs priimančiojoje įmonėje, įsteigtoje Lietuvos Respublikoje, pagal reglamentuojamą profesiją, kaip ji apibrėžta Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, turi būti pateiktas dokumentas, patvirtinantis, kad užsienietis atitinka Lietuvos Respublikos teisės aktuose nustatytas sąlygas vykdyti reglamentuojamą profesinę veiklą;
 Straipsnio punkto pakeitimai:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+ 
+
+
+
+
+51) jis yra šio Įstatymo 11 straipsnio 53 dalyje nurodytas užsienietis; 
+Papildyta straipsnio punktu:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -4066,7 +4304,10 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-9) atvyksta į Lietuvos Respubliką užsiimti šio Įstatymo 45 straipsnio 1 dalies 3–8 punktuose nurodyta teisėta veikla, taip pat dirbti kaip dėstytojas arba atlikti mokslinius tyrimus ir (arba) eksperimentinės (socialinės, kultūrinės) plėtros darbus kaip tyrėjas, turėdamas darbo arba autorinę sutartį, sudarytą su Lietuvos Respublikoje įregistruota mokslo ir studijų institucija;
+9) atvyksta į Lietuvos Respubliką užsiimti šio Įstatymo 45 straipsnio 1 dalies 3–8 punktuose nurodyta teisėta veikla, taip pat dirbti kaip dėstytojas arba atlikti mokslinus tyrimus ir eksperimentinės plėtros darbus kaip tyrėjas, turėdamas darbo arba autorinę sutartį, sudarytą su mokslo ir studijų institucija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -7373,10 +7614,11 @@ UŽSIENIEČIŲ IŠVYKIMAS IŠ LIETUVOS RESPUBLIKOS
 
 
 
-2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo 11 straipsnio 2–51, 7 dalyse užsieniečiams nustatyto buvimo laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę būti arba gyventi Lietuvos Respublikoje.
+2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo 11 straipsnio  2–54, 7 dalyse užsieniečiams nustatyto buvimo laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę būti arba gyventi Lietuvos Respublikoje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -7426,10 +7668,11 @@ Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 
 
 
-6) jis yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio 2–51, 7 dalyse užsieniečiams nustatytą buvimo laiką;
+6) jis yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio 2–54, 7 dalyse užsieniečiams nustatytą buvimo laiką; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
 
 
@@ -8422,7 +8665,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-17. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/114/EB dėl trečiosios šalies piliečių įleidimo studijų, mokinių mainų, neatlygintino stažavimosi ar savanoriškos tarnybos tikslais sąlygų (OL 2004 L 375, p. 12).
+17. Neteko galios nuo 2018-07-01
+Punkto naikinimas:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -8432,7 +8678,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-19. 2005 m. spalio 12 d. Tarybos direktyva 2005/71/EB dėl konkrečios įleidimo trečiųjų šalių piliečiams atvykti mokslinių tyrimų tikslais tvarkos (OL 2005 L 289, p. 15).
+19. Neteko galios nuo 2018-07-01
+Punkto naikinimas:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
 
 
 
@@ -8589,6 +8838,14 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
  
 
 
+
+
+38. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų (nauja redakcija) (OL 2016 L 132, p. 21). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+ 
+
+
 Priedėlio pakeitimai:
 Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
@@ -8712,3 +8969,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 44, 44-1, 45, 57, 58, 60, 62, 62-1, 101, 105 ir 106 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
