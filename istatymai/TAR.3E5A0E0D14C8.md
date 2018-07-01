@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-11-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -596,6 +596,14 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 3. Kai, siekiant gauti vartojimo kreditą skelbiamomis sąlygomis, privaloma sudaryti su vartojimo kredito sutartimi susijusią papildomų paslaugų teikimo sutartį, vartojimo kredito sutartyje aiškiai nurodomos vartojimo kredito gavėjui taikomos su papildomų paslaugų teikimu susijusios išlaidos.
+
+
+
+
+31. Kai sudaroma vartojimo kredito sutartis susieta su lyginamuoju indeksu, kaip jis apibrėžtas 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, 3 straipsnio 1 dalies 3 punkte, vartojimo kredito davėjas arba, jeigu taikoma, vartojimo kredito tarpininkas, vartojimo kredito gavėjui atskirame dokumente, kuris gali būti pridėtas prie standartinės informacijos apie vartojimo kreditą formos, pateikia lyginamojo indekso ir jo administratoriaus pavadinimą ir nurodo galimą poveikį vartojimo kredito gavėjui.
+Papildyta straipsnio dalimi:
+Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+ 
 
 
 
