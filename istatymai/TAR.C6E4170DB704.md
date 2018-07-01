@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -225,9 +225,11 @@ Nr. XII-546, 2013-10-08, Žin., 2013, Nr. 110-5430 (2013-10-19), i. k. 1131010IS
 
 
 
-6. Informacija apie paciento, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, sveikatos būklę suteikiama paciento sutuoktiniui (sugyventiniui), paciento tėvams (įtėviams) ir paciento pilnamečiams vaikams jų prašymu. Neapribojant kitiems asmenims suteiktų teisių, šie asmenys, kai yra už pacientą atsakingo gydytojo (gydytojų) sutikimas, taip pat turi teisę lankyti pacientą.
+6. Informacija apie paciento, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, sveikatos būklę suteikiama paciento sutuoktiniui, sugyventiniui (partneriui), paciento tėvams (įtėviams) ir paciento pilnamečiams vaikams jų prašymu. Jeigu nurodytų asmenų nėra arba nėra galimybių su jais susisiekti taip greitai, kaip tai būtina, informacija apie paciento, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, sveikatos būklę suteikiama vienam iš šio paciento pilnamečių brolių (seserų) arba vienam iš šio paciento pilnamečių vaikaičių, arba vienam iš šio paciento senelių jų prašymu. Neapribojant kitiems asmenims suteiktų teisių, šie asmenys, kai yra už pacientą atsakingo gydytojo (gydytojų) sutikimas, taip pat turi teisę lankyti pacientą. 
 Papildyta straipsnio dalimi:
 Nr. XII-2188, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20892
+Straipsnio dalies pakeitimai:
+Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
  
 
 
@@ -300,7 +302,9 @@ Nr. XII-2188, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20892
 
 
 
-4. Konfidenciali informacija gali būti suteikiama kitiems asmenims tik turint rašytinį paciento sutikimą, kuriame yra nurodyta tokios informacijos suteikimo pagrindas ir naudojimo tikslai, išskyrus atvejus, kai pacientas medicinos dokumentuose yra pasirašytinai nurodęs, koks konkretus asmuo turi teisę gauti tokią informaciją, taip pat tokios informacijos teikimo mastą ir terminus. Pacientas turi teisę nurodyti asmenis, kuriems konfidenciali informacija negali būti teikiama. Asmenims, tiesiogiai dalyvaujantiems gydant ar slaugant pacientą, atliekantiems paciento sveikatos ekspertizę, be paciento sutikimo konfidenciali informacija gali būti suteikiama tais atvejais ir tiek, kiek tai būtina paciento interesams apsaugoti. Kai pacientas laikomas negalinčiu protingai vertinti savo interesų ir nėra jo sutikimo, konfidenciali informacija gali būti suteikiama paciento atstovui, sutuoktiniui (partneriui), tėvams (įtėviams) ar pilnamečiams vaikams tiek, kiek tai būtina paciento interesams apsaugoti.
+4. Konfidenciali informacija gali būti suteikiama kitiems asmenims tik turint rašytinį paciento sutikimą, kuriame yra nurodyti tokios informacijos suteikimo pagrindas ir naudojimo tikslai, išskyrus atvejus, kai pacientas medicinos dokumentuose yra pasirašytinai nurodęs, koks konkretus asmuo turi teisę gauti tokią informaciją, taip pat tokios informacijos teikimo mastą ir terminus. Pacientas turi teisę nurodyti asmenis, kuriems konfidenciali informacija negali būti teikiama. Asmenims, tiesiogiai dalyvaujantiems gydant ar slaugant pacientą, atliekantiems paciento sveikatos ekspertizę, be paciento sutikimo konfidenciali informacija gali būti suteikiama tais atvejais ir tiek, kiek tai būtina paciento interesams apsaugoti. Kai pacientas laikomas negalinčiu protingai vertinti savo interesų ir nėra jo sutikimo, konfidenciali informacija gali būti suteikiama paciento atstovui, sutuoktiniui, sugyventiniui (partneriui), tėvams (įtėviams) ar pilnamečiams vaikams tiek, kiek tai būtina paciento interesams apsaugoti. Jeigu nurodytų asmenų nėra arba nėra galimybių su jais susisiekti taip greitai, kaip tai būtina, konfidenciali informacija gali būti teikiama vienam iš šio paciento pilnamečių brolių (seserų) arba vienam iš šio paciento pilnamečių vaikaičių, arba vienam iš šio paciento senelių jų prašymu tiek, kiek būtina paciento interesams apsaugoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
  
 
 
@@ -683,10 +687,17 @@ Pacientas nuo 16 metų gali pasirinkti atstovą pagal pavedimą. Šis atstovavim
 
 
 
-3. Paciento nuo 16 metų sutuoktinis, sugyventinis (partneris), o kai jų nėra, – vienas iš paciento tėvų (įtėvių) arba vienas iš pilnamečių vaikų yra paciento, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, atstovu pagal įstatymą. Nurodyti asmenys nelaikomi paciento nuo 16 metų atstovais pagal įstatymą, jeigu jie atsisako būti atstovais, pacientas yra paskyręs atstovą pagal pavedimą arba pacientui nustatyta globa (rūpyba). 
+3. Nepilnamečiam pacientui nuo 16 metų, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, atstovauja jo atstovai pagal įstatymą: vienas iš tėvų (įtėvių), globėjas, rūpintojas.
+
+
+
+
+4. Pilnamečiam pacientui, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, atstovauja jo atstovai pagal įstatymą: sutuoktinis, sugyventinis (partneris), o kai jo nėra, – vienas iš šio paciento tėvų (įtėvių) arba vienas iš šio paciento pilnamečių vaikų, arba vienas iš šio paciento pilnamečių brolių (seserų), arba vienas iš šio paciento pilnamečių vaikaičių, arba vienas iš šio paciento senelių. Į pilnamečio paciento, kuris negali būti laikomas gebančiu protingai vertinti savo interesų, artimuosius dėl sutikimo būti atstovu pagal įstatymą kreipiamasi tokiu eiliškumu: į sutuoktinį, sugyventinį (partnerį), tėvus (įtėvius), pilnamečius vaikus, pilnamečius brolius (seseris), pilnamečius vaikaičius, senelius. Gavus vieno iš šių asmenų sutikimą būti atstovu pagal įstatymą, kitų asmenų sutikimas nereikalingas. Šioje dalyje nurodyti asmenys nelaikomi pilnamečio paciento atstovais pagal įstatymą, jeigu jie atsisako būti atstovais, pacientas yra paskyręs atstovą pagal pavedimą arba pacientui nustatyta globa (rūpyba). 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
  
-
-
 
 
 
@@ -916,3 +927,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 12 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5, 8 ir 22 straipsnių pakeitimo įstatymas
