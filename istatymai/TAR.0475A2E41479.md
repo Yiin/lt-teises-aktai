@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0475A2E41479"
 
 # Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas
 
-Suvestinė redakcija nuo 2010-09-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2023-02-28
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 93-3257, i. k. 1011010ISTA00IX-565
  
@@ -98,7 +98,10 @@ Vilnius
 
 
 
-5) ne vėliau kaip prieš 3 darbo dienas pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką apie spalvotųjų metalų laužo ir atliekų, skirtų išvežti iš Lietuvos Respublikos į kitas valstybes, krovimą į transporto priemones pranešti teritorinei policijos įstaigai, kurios veiklos teritorijoje yra vieta, iš kurios šis laužas ir atliekos bus kraunami;
+5) ne vėliau kaip prieš 3 darbo dienas pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką apie spalvotųjų metalų laužo ir atliekų, skirtų išvežti iš Lietuvos Respublikos į kitas valstybes, krovimą į transporto priemones pranešti policijos įstaigai, kurios veiklos teritorijoje yra vieta, iš kurios šis laužas ir atliekos bus kraunami; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-777, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18831
+ 
 
 
 
@@ -126,7 +129,10 @@ Vilnius
 4 straipsnis. Įstatymo reikalavimų laikymosi kontrolė ir atsakomybė
 
 
-1. Kaip laikomasi šio įstatymo reikalavimų, prižiūri teritorinės ir specializuotos policijos įstaigos, Lietuvos Respublikos aplinkos ministerijos regionų aplinkos apsaugos departamentai, kitos valstybinės priežiūros ir teisėsaugos institucijos pagal kompetenciją.
+1. Kaip laikomasi šio įstatymo reikalavimų, prižiūri policijos įstaigos, Aplinkos apsaugos departamentas, kitos valstybinės priežiūros ir teisėsaugos institucijos pagal kompetenciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-777, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18831
+ 
 
 
 
@@ -143,7 +149,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
  
 
@@ -167,3 +173,8 @@ Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-883, 2010-06-08, Žin., 2010, Nr. 72-3612 (2010-06-22), i. k. 1101010ISTA00XI-883
 Lietuvos Respublikos skirtų realizuoti netauriųjų metalų laužo ir atliekų supirkimo įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-777, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18831
+Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymo Nr. IX-565 3 ir 4 straipsnių pakeitimo įstatymas
