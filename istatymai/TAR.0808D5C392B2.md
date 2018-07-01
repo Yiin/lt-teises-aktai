@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2017-12-30 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
  
@@ -1327,7 +1327,10 @@ Nr. XII-1229, 2014-10-14, paskelbta TAR 2014-10-29, i. k. 2014-15110
 
 3. Neteko galios nuo 2003-01-01.
 
-4. Po to, kai administratorius pateikia šio įstatymo 31 straipsnio 8 punkte nustatytus dokumentus ir Aplinkos ministerijos regiono aplinkos apsaugos departamento pažymą, teismas, nagrinėjantis įmonės bankroto bylą, priima sprendimą dėl įmonės pabaigos.
+4. Po to, kai administratorius pateikia šio įstatymo 31 straipsnio 8 punkte nustatytus dokumentus ir Aplinkos apsaugos departamento pažymą, teismas, nagrinėjantis įmonės bankroto bylą, priima sprendimą dėl įmonės pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-774, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18828
+ 
 
 5. Administratorius ne vėliau kaip per 5 darbo dienas nuo teismo sprendimo dėl įmonės pabaigos įsiteisėjimo dienos arba nuo kreditorių susirinkimo sprendimo dėl įmonės pabaigos priėmimo dienos pateikia prašymą juridinių asmenų registrui išregistruoti likviduotą dėl bankroto įmonę. Kartu su prašymu administratorius privalo pateikti teismo sprendimą dėl įmonės pabaigos arba kreditorių susirinkimo sprendimą dėl įmonės pabaigos, įmonės įregistravimo pažymėjimo ir steigimo dokumentų originalus, pažymą, kad dokumentai toliau saugoti perduoti archyvui, ir nurodo įmonę aptarnaujančių bankų bei kitų kredito įstaigų adresus.
 
