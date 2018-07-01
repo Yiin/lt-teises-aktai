@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -186,7 +186,9 @@ Teismai, vykdydami teisingumą, yra nepriklausomi nuo kitų valstybės valdžios
 
 
 
-2. Bylose priimti teismų sprendimai skelbiami viešai. 
+2. Bylose priimti teismų sprendimai skelbiami viešai. Teismas, skelbdamas sprendimą, paprastai neskelbia fizinio asmens kodo, gyvenamosios ar buvimo vietos adreso, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerio, elektroninio pašto adreso ir kitų kontaktinių duomenų, gimimo datos ir vietos, šeiminės padėties, darbovietės ir einamų pareigų, transporto priemonės valstybinio numerio, kredito įstaigos sąskaitos numerio, unikalaus nekilnojamojo ar kito registruotino turto numerio, šio turto buvimo vietos tikslaus adreso, duomenų, sudarančių bylos medžiagą, teismo pripažintą nevieša, taip pat ypatingų asmens duomenų, o baudžiamosiose bylose – ir asmens duomenų, saugomų atskirai nuo kitos ikiteisminio tyrimo medžiagos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-606, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12426
  
 
 
@@ -1144,21 +1146,38 @@ Nr. XII-74, 2012-12-20, Žin., 2012, Nr. 153-7826 (2012-12-29)
 
 
 
-4. Proceso šalys, įgyvendindamos savo procesines teises, proceso įstatymų nustatyta tvarka gali daryti teismo posėdžio garso įrašą. 
+4. Proceso šalys proceso įstatymų nustatyta tvarka gali daryti teismo posėdžio garso įrašą ir jį naudoti tik savo procesinių teisių įgyvendinimo tikslais. Apie daromą garso įrašą proceso šalys privalo informuoti bylą nagrinėjantį teismą.
 
 
 
 
-5. Kitiems asmenims draudžiama teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus bei naudoti kitas technines priemones. Draudimą teismo posėdžio metu naudoti technines priemones pažeidusiems asmenims taikoma įstatymų nustatyta atsakomybė. 
+5. Asmens prašymu teismas leidžia visuomenės informavimo, mokslo ar mokymo tikslais teismo sprendimo skelbimą transliuoti, filmuoti, fotografuoti, jo metu daryti garso ar vaizdo įrašą, naudoti kitas technines priemones laikantis šiame straipsnyje ir kituose teisės aktuose nustatytų reikalavimų. Teismas neleidžia naudoti techninių priemonių, kai tai gali sutrikdyti teismo darbą, parodyti nepagarbą teismui arba yra būtina apsaugoti kitų asmenų teises ar kitus įstatymų saugomus interesus. Teismo leidimo nereikia, kai teismo sprendimo skelbimo garso įrašas daromas pagal šio straipsnio 4 dalį. Teisėjų taryba nustato asmenų prašymų leisti teismo sprendimo skelbimo metu naudoti technines priemones pateikimo ir nagrinėjimo, taip pat šių techninių priemonių naudojimo tvarką ir sąlygas ir teismo leidimų naudoti techninių priemonių panaudojimo rezultatus išdavimo tvarką.
 
 
 
 
-6. Išnagrinėjęs bylą, teismas priima sprendimą. Teismo sprendimo turinį ir priėmimo tvarką nustato proceso įstatymai.
+6. Techninių priemonių panaudojimo rezultatus gali naudoti tik teismo leidime nurodytas asmuo teismo leidime nurodytais tikslais, būdais ir sąlygomis. Teismo leidime nurodyti asmenys, pageidaujantys techninių priemonių panaudojimo rezultatus leisti naudoti kitiems asmenims arba naudoti kitais tikslais, būdais ir sąlygomis, negu nurodyta teismo leidime, privalo Teisėjų tarybos nustatyta tvarka gauti naują teismo leidimą. Techninių priemonių panaudojimo rezultatai negali būti naudojami taip, kad būtų pažeistos kitų asmenų teisės ar kiti įstatymų saugomi interesai arba būtų iškraipytas teismo sprendimo turinys ar esmė, taip pat negali būti naudojami politinės ar kitokios reklamos, satyros, pramogų ir kitais su pagarba teismui nesuderinamais tikslais. Techninių priemonių panaudojimo rezultatams ir jų naudojimui taip pat taikomi kituose įstatymuose nustatyti visuomenės informavimo, asmens duomenų apsaugos, teisės į privataus gyvenimo neliečiamumą bei asmens garbės ir orumo apsaugos reikalavimai.
+
+
+
+
+7. Kitais, negu nurodyta šiame straipsnyje, atvejais draudžiama teismo posėdžio metu filmuoti, fotografuoti, daryti garso ar vaizdo įrašus, transliuoti posėdį bei naudoti kitas technines priemones. 
+
+
+
+
+8. Asmenys, teismo posėdžio metu pažeidę techninių priemonių naudojimo reikalavimus, atsako proceso įstatymuose nustatyta tvarka. Asmenims, pažeidusiems reikalavimus, taikomus techninių priemonių panaudojimo teismo posėdyje rezultatų naudojimui, taikoma įstatymų nustatyta atsakomybė.
+
+
+
+
+9. Išnagrinėjęs bylą, teismas priima sprendimą. Teismo sprendimo turinį ir priėmimo tvarką nustato proceso įstatymai.
 
 
 Straipsnio pakeitimai:
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
+Straipsnio pakeitimai:
+Nr. XIII-606, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12426
  
 
 
@@ -1234,7 +1253,7 @@ Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
 
 
 Aukščiausiasis Teismas ir Vyriausiasis administracinis teismas, kai nagrinėjant bylą iškilo principinis klausimas, susijęs su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti dėl to konsultacinę išvadą.
-TAR pastaba. Įstatymas papildomas straipsniu nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos.
+TAR pastaba. Įstatymas papildomas straipsniu nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 
 
 Papildyta straipsniu:
@@ -5267,3 +5286,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 48 ir 61 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
 Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 15, 23 ir 47 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-606, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12426
+Lietuvos Respublikos teismų įstatymo Nr. I-480 7 ir 38 straipsnių pakeitimo įstatymas
