@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-07-05
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
  
@@ -922,10 +922,12 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 14 straipsnis. Ekonomines baudas skiriantys pareigūnai
 
 
-Ekonomines baudas už šio įstatymo 13 straipsnyje numatytas veikas skiria regionų aplinkos apsaugos departamentų aplinkos apsaugos valstybinės kontrolės pareigūnai – vyriausieji valstybiniai aplinkos apsaugos inspektoriai ir vyresnieji valstybiniai aplinkos apsaugos inspektoriai.
+Ekonomines baudas už šio įstatymo 13 straipsnyje numatytas veikas skiria Aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės pareigūnai – vyriausieji valstybiniai aplinkos apsaugos inspektoriai ir vyresnieji valstybiniai aplinkos apsaugos inspektoriai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-775, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18829
  
-
-
 
 
 
@@ -1530,3 +1532,8 @@ Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 2, 5, 6, 8, 12-1, 13, 15, 18 ir 20 straipsnių, 1 ir 2 priedų pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-775, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18829
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 14 straipsnio pakeitimo įstatymas
