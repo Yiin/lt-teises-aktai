@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1746D2A4EFB9"
 
 # Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2727, i. k. 0971010ISTAVIII-499
  
@@ -1150,10 +1150,12 @@ SAUGOMŲ RŪŠIŲ APSAUGOS KONTROLĖ IR ATSAKOMYBĖ
 24 straipsnis. Saugomų rūšių apsaugos valstybinė kontrolė
 
 
-Saugomų rūšių apsaugos valstybinę kontrolę atlieka Aplinkos ministerijai pavaldūs teritoriniai valstybinio administravimo subjektai – regionų aplinkos apsaugos departamentai įstatymų ar kitų teisės aktų nustatyta tvarka.
+Saugomų rūšių apsaugos valstybinę kontrolę atlieka Aplinkos apsaugos departamentas įstatymų ar kitų teisės aktų nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-778, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18832
  
-
-
 
 
 
@@ -1221,6 +1223,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos saugomų gyvūnų, 
 augalų, grybų rūšių įstatymo 
 1 priedas
@@ -1364,8 +1367,9 @@ _________________
 
 
 
-Lietuvos Respublikos
-saugomų gyvūnų, augalų, grybų rūšių įstatymo 
+ 
+Lietuvos Respublikos saugomų gyvūnų, 
+augalų, grybų rūšių įstatymo 
 2 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -1406,3 +1410,8 @@ Lietuvos Respublikos saugomų gyvūnų, augalų, grybų rūšių ir bendrijų į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
 Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2 ir 15 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-778, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18832
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 24 straipsnio pakeitimo įstatymas
