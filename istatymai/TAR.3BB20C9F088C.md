@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS ANGLIES DIOKSIDO GEOLOGINIO SAUGOJIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2018-07-01
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 91-4325, i. k. 1111010ISTA0XI-1550
+ 
 LIETUVOS RESPUBLIKOS 
 ANGLIES DIOKSIDO GEOLOGINIO SAUGOJIMO 
 ĮSTATYMAS
@@ -851,7 +855,10 @@ Penktasis skirsnis
 11 straipsnis. Priemonės, kurių imamasi nuotėkio arba didelių pažeidimų atveju
 
 
-1. Nuotėkio arba didelių pažeidimų atveju veiklos vykdytojas privalo nedelsdamas pranešti Lietuvos geologijos tarnybai ir Aplinkos ministerijos atitinkamo regiono aplinkos apsaugos departamentui ir imtis visų pažeidimų šalinimo priemonių, numatytų Pažeidimų šalinimo priemonių plane, įskaitant su žmonių sveikatos apsauga susijusias priemones. Pažeidimų šalinimo priemonių planą Vyriausybės nustatyta tvarka rengia veiklos vykdytojas, tvirtina Lietuvos geologijos tarnyba.
+1. Nuotėkio arba didelių pažeidimų atveju veiklos vykdytojas privalo nedelsdamas pranešti Lietuvos geologijos tarnybai ir Aplinkos apsaugos departamentui ir imtis visų pažeidimų šalinimo priemonių, numatytų Pažeidimų šalinimo priemonių plane, įskaitant su žmonių sveikatos apsauga susijusias priemones. Pažeidimų šalinimo priemonių planą Vyriausybės nustatyta tvarka rengia veiklos vykdytojas, tvirtina Lietuvos geologijos tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XIII-782, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18844
+ 
 
 
 
@@ -1225,3 +1232,13 @@ priedas
 
 
 _________________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-782, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18844
+Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymo Nr. XI-1550 11 straipsnio pakeitimo įstatymas
