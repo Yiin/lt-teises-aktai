@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-01-24 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-21
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -1764,7 +1764,10 @@ Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
 
 
-8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia atitinkamam Aplinkos ministerijos regiono aplinkos apsaugos departamentui informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje.
+8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia Aplinkos apsaugos departamentui informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir valstybiniame strateginiame atliekų tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-773, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18827
+ 
 
 
 Straipsnio pakeitimai:
@@ -4727,3 +4730,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 7 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 7, 17, 34-1, 34-2, 34-4, 34-5, 34-7, 34-12, 34-15, 34-16, 34-18, 34-19, 34-22, 34-23 straipsnių pakeitimo, 18 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo devintuoju-1 skirsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-773, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18827
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 28 straipsnio pakeitimo įstatymas
