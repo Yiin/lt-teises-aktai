@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
  
@@ -330,7 +330,10 @@ Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
 
 
-5. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka vaikas, policijos pareigūnai apie tai praneša savivaldybės vaiko teisių apsaugos skyriui.
+5. Tais atvejais, kai, taikant įpareigojimą smurtautojui išsikelti, be priežiūros lieka vaikas, policijos pareigūnai apie tai praneša Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
+ 
 
 
 
@@ -427,17 +430,20 @@ Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
 
 
-3. Policijos pareigūnai nedelsdami, bet ne vėliau kaip kitą darbo dieną, praneša savivaldybės vaiko teisių apsaugos skyriui apie gautą pranešimą dėl smurto artimoje aplinkoje, jeigu smurtą patyręs asmuo yra vaikas (vaikas, prieš kurį panaudotas smurtas, vaikas, gyvenantis ar buvęs įvykio metu aplinkoje, kurioje buvo smurtauta) arba smurtautojas yra nepilnametis. 
+3. Policijos pareigūnai nedelsdami, bet ne vėliau kaip kitą darbo dieną, praneša Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai apie gautą pranešimą dėl smurto artimoje aplinkoje, jeigu smurtą patyręs asmuo yra vaikas (vaikas, prieš kurį panaudotas smurtas, vaikas, gyvenantis ar buvęs įvykio metu aplinkoje, kurioje buvo smurtauta) arba smurtautojas yra nepilnametis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
  
 
 
 
 
-4. Savivaldybės vaiko teisių apsaugos skyrius, gavęs informaciją apie smurtą artimoje aplinkoje, nedelsdamas susisiekia su vaiku ir vaiko atstovu pagal įstatymą ir, įvertinęs poreikį, imasi priemonių, reikalingų geriausiems vaiko interesams užtikrinti. 
+4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba, gavusi informaciją apie smurtą artimoje aplinkoje, per Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme nustatytą terminą susisiekia su vaiku ir vaiko atstovu pagal įstatymą ir, Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka nustačiusi grėsmės vaikui lygį, imasi priemonių, reikalingų geriausiems vaiko interesams užtikrinti. 
 Papildyta straipsnio dalimi:
 Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
+Straipsnio dalies pakeitimai:
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
  
 
 
@@ -664,3 +670,8 @@ Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-142
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 1, 2, 4, 5, 7, 8, 9 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 7 ir 9 straipsnių pakeitimo įstatymas
