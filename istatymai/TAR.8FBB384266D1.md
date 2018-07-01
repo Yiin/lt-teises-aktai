@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
  
@@ -2146,7 +2146,10 @@ JURIDINIAI ASMENYS, KITOS ORGANIZACIJOS IR JŲ PADALINIAI, VYKDANTYS SU SAUGIA L
 
 
 
-4) atestuotos įmonės veikla gali padaryti žalos Lietuvos Respublikos gamtai, kelti grėsmę žmonių gyvybei ir sveikatai – Lietuvos Respublikos aplinkos ministerijos Klaipėdos regiono aplinkos apsaugos departamento ir Klaipėdos visuomenės sveikatos centro motyvuotu teikimu;
+4) atestuotos įmonės veikla gali padaryti žalos Lietuvos Respublikos gamtai, kelti grėsmę žmonių gyvybei ir sveikatai – Aplinkos apsaugos departamento ir Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos motyvuotu teikimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
+ 
 
 
 
@@ -2673,3 +2676,8 @@ Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-762, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18814
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2, 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-783, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18846
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 40 straipsnio pakeitimo įstatymas
