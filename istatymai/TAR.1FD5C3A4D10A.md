@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2017-12-19 iki 2018-06-30
+Suvestinė redakcija nuo 2018-07-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -33,7 +33,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato Lietuvos Respublikos valstybinės darbo inspekcijos (toliau – Valstybinė darbo inspekcija) uždavinius, funkcijas, struktūrą, Valstybinės darbo inspekcijos inspektorių teises, pareigas, atsakomybę, inspektavimų tvarką. 
+1. Šis Įstatymas nustato Lietuvos Respublikos valstybinės darbo inspekcijos funkcijas, struktūrą, Valstybinės darbo inspekcijos inspektorių teises, pareigas, atsakomybę, inspektavimų tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -94,10 +97,12 @@ Valstybinė darbo inspekcija savo veikloje vadovaujasi Lietuvos Respublikos Kons
 4 straipsnis. Valstybinės darbo inspekcijos kompetencija 
 
 
-Valstybinės darbo inspekcijos kompetencijai priskiriama nelaimingų atsitikimų darbe, profesinių ligų, darbuotojų saugos ir sveikatos, norminių darbo teisės aktų pažeidimų prevencija ir Lietuvos Respublikos darbo kodekso, darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ir kitų norminių teisės aktų kontrolė įmonėse, įstaigose, organizacijose ar kitose organizacinėse struktūrose, nepaisant jų nuosavybės formos, rūšies, veiklos pobūdžio, taip pat tais atvejais, kai darbdavys yra fizinis asmuo (toliau Įstatyme – darbdaviai).
+Valstybinės darbo inspekcijos kompetencijai priskiriama nelaimingų atsitikimų darbe, profesinių ligų, darbuotojų saugos ir sveikatos, norminių darbo teisės aktų pažeidimų prevencija ir Lietuvos Respublikos darbo kodekso, darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ir kitų norminių teisės aktų kontrolė įmonėse, įstaigose, organizacijose ar kitose organizacinėse struktūrose, nepaisant jų nuosavybės formos, rūšies, veiklos pobūdžio, taip pat tais atvejais, kai darbdavys yra fizinis asmuo (toliau – darbdaviai). 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
-
-
 
 
 
@@ -109,29 +114,16 @@ VALSTYBINĖS DARBO INSPEKCIJOS STRUKTŪRA IR FUNKCIJOS
  
 
 
-5 straipsnis. Valstybinės darbo inspekcijos struktūra 
+5 straipsnis. Valstybinės darbo inspekcijos struktūra
 
 
-1. Valstybinei darbo inspekcijai vadovauja Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius (toliau – vyriausiasis valstybinis darbo inspektorius).
-
-
-
-
-2. Valstybinę darbo inspekciją sudaro administracija ir teritoriniai skyriai.
-
-
-
-
-3. Administracijos padalinių ir teritorinių skyrių (toliau – struktūriniai padaliniai) skaičius ir pavaldumas nustatomas tvirtinant Valstybinės darbo inspekcijos struktūrą. Struktūriniuose padaliniuose gali būti sektoriai, vienijantys Valstybinės darbo inspekcijos tam tikros veiklos specialistus.
-
-
-
-
-4. Struktūriniai padaliniai savo veikloje vadovaujasi nuostatais, kuriuose nustatyta struktūrinio padalinio paskirtis, uždaviniai ir funkcijos.
-
-
+Valstybinę darbo inspekciją sudaro administracija ir teritoriniai padaliniai. Valstybinės darbo inspekcijos struktūrą tvirtina socialinės apsaugos ir darbo ministras. 
 Straipsnio pakeitimas:
 Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
 
 
@@ -140,230 +132,16 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 6 straipsnis. Valstybinės darbo inspekcijos funkcijos 
 
 
-Valstybinė darbo inspekcija pagal jai priskirtą kompetenciją:
-
-
-1) tikrina, ar darbdaviai laikosi darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų, kitų norminių teisės aktų bei kolektyvinių sutarčių normatyvinių nuostatų, teikia darbdaviams reikalavimus bei nurodymus;
-
-
-
-
-2) tikrina, ar nustatyta tvarka yra įsteigti įmonių darbuotojų saugos ir sveikatos tarnybos bei komitetai ir kaip organizuota vidinės darbuotojų saugos ir sveikatos būklės kontrolė;
-
-
-
-
-3) tikrina, ar naudojamos darbo priemonės, darbo vietos, technologiniai procesai, darbo sąlygos atitinka įstatymų ar kitų norminių teisės aktų reikalavimus, kontroliuoja, kaip laikomasi potencialiai pavojingų įrenginių techninės būklės tikrinimo tvarkos ir terminų, ar atliekama nuolatinė šių įrenginių priežiūra, taip pat ar tinkamai organizuojamas transporto eismas įmonėse; 
-
-
-
-
-4) tikrina, ar saugiai vykdomi kasybos, sprogdinimo, naudingųjų iškasenų gavybos ir perdirbimo, geologinio gręžimo, naudingųjų iškasenų žvalgybos, degiųjų dujų, chemijos, naftos perdirbimo darbai, technologiniai procesai, kuriems vykstant galimi sprogimo, gaisro ar apsinuodijimo atvejai, ir įstatymų, kitų norminių teisės aktų nustatyta tvarka teikia darbdaviams išvadas, reikalavimus, nurodymus bei pasiūlymus; 
-
-
-
-
-5) tikrina, ar darbdaviai saugiai organizuoja kenksmingų ir pavojingų medžiagų gamybą ir naudojimą, ar vykdomos pramoninių avarijų prevencijos priemonės; 
-
-
-
-
-6) tikrina, ar darbdaviai identifikuoja pavojus, atlieka rizikos tyrimus ir vertinimą; 
-
-
-
-
-7) tikrina, ar įrengtos buities, sanitarinės ir higienos patalpos, kolektyvinės darbuotojų saugos ir sveikatos priemonės, ar nustatyta tvarka išduodamos bei naudojamos asmeninės apsaugos priemonės, ar laikomasi higienos normų reikalavimų, ar teisingai sudaryti darbuotojų, kuriems privaloma tikrintis sveikatą, sąrašai, ar darbdaviai nustatyta tvarka organizuoja privalomus darbuotojų sveikatos patikrinimus; 
-
-
-
-
-8) tikrina įstatymų ir kitų norminių teisės aktų nustatytų saugos ir sveikatos garantijų, darbo ir poilsio organizavimo taikymą asmenims iki 18 metų, nėščioms, neseniai pagimdžiusioms, krūtimi maitinančioms darbuotojoms ir neįgaliesiems; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1155, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13598
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-9) Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatyme nustatytais atvejais tiria įvykius darbe, dėl kurių darbuotojai patiria žalą sveikatai, ir nelaimingus atsitikimus pakeliui į darbą ar iš darbo. Tikrina, ar laikomasi nustatytos įvykių darbe, dėl kurių darbuotojai patiria žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo tyrimo tvarkos, ar įmonėje nustatyta pranešimų apie incidentus, incidentų tyrimo ir registravimo tvarka ir ar darbdaviai diegia prevencines priemones, kad būtų išvengta nelaimingų atsitikimų darbe, susirgimų profesinėmis ligomis; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
- 
-
-
-
-
-10) organizuoja ir kartu su sveikatos priežiūros įstaigų atstovais tiria profesinių ligų aplinkybes ir priežastis; 
-
-
-
-
-11) registruoja nelaimingų atsitikimų darbe aktus, profesinių ligų patvirtinimo aktus, Lietuvos vyriausiojo archyvaro nustatytais terminais saugo nelaimingų atsitikimų darbe aktus ir tyrimo medžiagą, profesinių ligų patvirtinimo aktus ir tyrimo medžiagą;
-Straipsnio punkto pakeitimai:
-Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
- 
-
-
-
-
-12) tikrina žalos atlyginimo apskaičiavimą ir mokėjimą už padarytą žalą darbuotojo sveikatai, kai už žalos mokėjimą atsakingi darbdaviai; 
-
-
-
-
-13) nustatyta tvarka dalyvauja tiriant įrenginių ir objektų avarijas;
-
-
-
-
-14) analizuoja nelaimingų atsitikimų, profesinių ligų, avarijų aplinkybes bei priežastis, darbuotojų saugos ir sveikatos darbe pažeidimus, rengia pasiūlymus darbuotojų saugos ir sveikatos būklei šalyje gerinti; 
-
-
-
-
-15) tiria pareiškimus bei skundus Valstybinės darbo inspekcijos kompetencijos klausimais, užtikrina pareiškėjų konfidencialumą; 
-
-
-
-
-16) vykdo nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos prevenciją, Vyriausybės nustatyta tvarka koordinuoja nelegalaus darbo kontrolę vykdančių institucijų veiklą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-17) teikia išvadas dėl rengiamų darbuotojų saugos ir sveikatos mokymo programų, skirtų darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų saugos ir sveikatos specialistų, darbų su potencialiai pavojingais įrenginiais, kurių kategorijų sąrašą tvirtina Vyriausybė, vadovų ir darbuotojų, prižiūrinčių, pertvarkančių šiuos įrenginius, mokymui. Tikrina darbdaviams atstovaujančių asmenų žinias darbuotojų saugos ir sveikatos klausimais Mokymo ir žinių darbuotojų saugos ir sveikatos klausimais tikrinimo bendruosiuose nuostatuose nustatyta tvarka prieš darbdaviui atstovaujančiam asmeniui pradedant eksploatuoti įmonę ar teikti paslaugas, dalyvauja tikrinant darbuotojų saugos ir sveikatos tarnybų specialistų darbų su potencialiai pavojingais įrenginiais, kurių kategorijų sąrašą tvirtina Vyriausybė, vadovų ir darbuotojų, prižiūrinčių, pertvarkančių šiuos įrenginius, žinias. Tikrina, ar darbuotojai nustatyta tvarka instruktuoti, apmokyti, atestuoti darbuotojų saugos ir sveikatos klausimais; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-18) teikia pastabas bei pasiūlymus dėl rengiamų norminių teisės aktų projektų darbuotojų saugos ir sveikatos, darbo santykių srityse, tvirtina atskirų rūšių veiklos ar darbų bendrąsias saugos taisykles; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-19) analizuoja darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų taikymo praktiką, teikia siūlymus pakeisti galiojančius įstatymus ar kitus norminius teisės aktus;
-
-
-
-
-20) konsultuoja darbuotojus, darbuotojų atstovus, darbdaviams atstovaujančius asmenis, darbdavių įgaliotus asmenis darbuotojų saugos ir sveikatos reikalavimų, darbo įstatymų vykdymo, kolektyvinių sutarčių sudarymo, profesinių sąjungų steigimo ir kitais klausimais;
-Straipsnio punkto pakeitimai:
-Nr. XIII-855, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20337
- 
-
-
-
-
-21) nustatyta tvarka dalyvauja nustatant darboviečių, jų padalinių ar naujų darbo vietų tinkamumą naudoti;
-
-
-
-
-22) tvarko Potencialiai pavojingų įrenginių valstybės registrą, organizuoja potencialiai pavojingų įrenginių priežiūros norminių teisės aktų projektų rengimą;
-
-
-
-
-23) pasibaigus kalendoriniams metams, rengia darbuotojų saugos ir sveikatos būklės bei darbo įstatymų vykdymo ataskaitą ir iki birželio 1 d. pateikia ją Socialinės apsaugos ir darbo ministerijai bei Lietuvos Respublikos darbuotojų saugos ir sveikatos komisijai. Rengia kasmetinę Tarptautinės darbo organizacijos konvencijos Nr. 81 „Dėl darbo inspekcijos pramonėje ir prekyboje“ įgyvendinimo ataskaitą, teikia Socialinės apsaugos ir darbo ministerijai informaciją, kaip laikomasi kitų šalyje ratifikuotų šios organizacijos konvencijų, susijusių su darbuotojų sauga ir sveikata bei darbo santykiais; 
-
-
-
-
-24) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikia Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) duomenis nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokos tarifų grupių skaičiui nustatyti bei šio draudimo įmokos tarifams apskaičiuoti apie tai, kad darbo priemonės, darbo sąlygos neatitinka teisės aktų nustatytų reikalavimų, apie nustatytus darbuotojų saugos ir sveikatos teisės aktų pažeidimus, nelaimingų atsitikimų, įvykusių dirbant pavojingus darbus, skaičių ir pavojingus darbus dirbančių darbuotojų atitinkamoje įmonėje skaičių;
-
-
-
-
-25) organizuoja darbo ginčų komisijų darbą;
-
-
-
-
-26) organizuoja darbo arbitražo darbą; 
-Papildyta straipsnio punktu:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-27) nagrinėja darbdavių prašymus dėl darbuotojų atstovavimą įgyvendinančių asmenų darbo sutarčių nutraukimo darbdavio iniciatyva, darbdavio valia ir jų būtinųjų darbo sutarties sąlygų, palyginti su ankstesnėmis jų būtinosiomis darbo sutarties sąlygomis ar palyginti su kitų tos pačios kategorijos darbuotojų būtinosiomis darbo sutarties sąlygomis, pabloginimo; 
-Papildyta straipsnio punktu:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-28) kontroliuoja, ar darbdaviai tinkamai vykdo darbuotojų informavimo ir konsultavimosi su jais pareigą; 
-Papildyta straipsnio punktu:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-29) nustato ir viešai skelbia rizikingiausius ūkio sektorius, kuriuose yra naudojamas trečiųjų šalių piliečių nelegalus darbas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-30) kasmet iki liepos 1 d. teikia Europos Komisijai praėjusiais metais atliktų patikrinimų duomenis (apie kiekvieną tikrintą sektorių absoliučiais skaičiais ir nurodant trečiųjų šalių piliečių dalį procentais) ir patikrinimų dėl trečiųjų šalių piliečių darbo rezultatus ir juos registruoja Darbo sąlygų darbo vietose nuolatinės stebėsenos informacinėje sistemoje;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-31) teikia ir gauna prašymus dėl finansinių administracinių sankcijų ir (ar) baudų išieškojimo arba pranešimus apie sprendimus dėl tokių sankcijų ir (ar) baudų skyrimo šio Įstatymo ketvirtajame1 skirsnyje nustatyta tvarka; 
-Papildyta straipsnio punktu:
-Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
-Straipsnio punkto pakeitimai:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-32) tikrina, ar nepažeidžiamos komandiruotų darbuotojų garantijos; 
-Papildyta straipsnio punktu:
-Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-33) atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2438, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17711
-Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
- 
-
-
-
-
-Straipsnio pakeitimai:
+Valstybinė darbo inspekcija atlieka Valstybinės darbo inspekcijos nuostatuose ir kituose teisės aktuose jai nustatytas funkcijas. 
+Straipsnio pakeitimas:
 Nr. X-1841, 2008-11-14, Žin., 2008, Nr. 137-5385 (2008-11-29)
 Nr. XI-402, 2009-07-23, Žin., 2009, Nr. 93-3991 (2009-08-04)
 Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
 
 
@@ -376,7 +154,7 @@ VALSTYBINĖS DARBO INSPEKCIJOS INSPEKTORIAI
  
 
 
-7 straipsnis. Valstybinės darbo inspekcijos inspektoriai 
+7 straipsnis. Valstybinės darbo inspekcijos inspektoriai
 
 
 1. Valstybinės darbo inspekcijos inspektoriai skirstomi į: 
@@ -392,43 +170,30 @@ VALSTYBINĖS DARBO INSPEKCIJOS INSPEKTORIAI
 
 
 
-3) struktūrinių padalinių vedėjus – vyriausiuosius darbo inspektorius;
+3) vyriausiuosius darbo inspektorius; 
 
 
 
 
-4) struktūrinių padalinių vedėjų pavaduotojus – vyriausiuosius darbo inspektorius;
+4) vyresniuosius darbo inspektorius;
 
 
 
 
-5) vyriausiuosius darbo inspektorius; 
-
-
-
-
-6) vyresniuosius darbo inspektorius;
-
-
-
-
-7) darbo inspektorius.
+5) darbo inspektorius.
 
 
 
 
 
 
-2. Valstybinės darbo inspekcijos inspektoriai už tarnybinius nusižengimus traukiami tarnybinėn atsakomybėn Valstybės tarnybos įstatymo nustatyta tvarka.
-
-
-
-
-3. Valstybinės darbo inspekcijos inspektoriai aprūpinami darbo vietomis, įrengtomis pagal nustatytus reikalavimus, taip pat transporto priemonėmis, būtinomis pareigoms atlikti tais atvejais, kai nėra galimybių pasinaudoti visuomeniniu transportu. Valstybinės darbo inspekcijos inspektoriams turi būti kompensuojamos visuomeninio transporto išlaidos bei kitos išlaidos, kurių prireikė atliekant pareigas iš Valstybinei darbo inspekcijai šiam tikslui skirtų asignavimų.
-
-
+2. Valstybinės darbo inspekcijos inspektoriai aprūpinami darbo vietomis, taip pat transporto priemonėmis, būtinomis pareigoms atlikti tais atvejais, kai nėra galimybių pasinaudoti visuomeniniu transportu. Valstybinės darbo inspekcijos inspektoriams turi būti kompensuojamos visuomeninio transporto išlaidos bei kitos išlaidos, kurių prireikė atliekant pareigas, iš Valstybinei darbo inspekcijai šiam tikslui skirtų valstybės biudžeto lėšų. 
 Straipsnio pakeitimas:
 Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
 
 
@@ -437,7 +202,10 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 8 straipsnis. Vyriausiasis valstybinis darbo inspektorius 
 
 
-1. Valstybinei darbo inspekcijai vadovauja vyriausiasis valstybinis darbo inspektorius, kurį Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras. Vyriausiasis valstybinis darbo inspektorius yra tiesiogiai pavaldus ir atskaitingas socialinės apsaugos ir darbo ministrui.
+1. Valstybinei darbo inspekcijai vadovauja vyriausiasis valstybinis darbo inspektorius, kurį Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras. Vyriausiasis valstybinis darbo inspektorius yra tiesiogiai pavaldus ir atskaitingas socialinės apsaugos ir darbo ministrui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -483,7 +251,10 @@ Nr. XII-1994, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18262
 
 
 
-8) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų Valstybinės darbo inspekcijos valstybės tarnautojus, priima ir atleidžia darbuotojus, dirbančius pagal darbo sutartis, juos skatina ir skiria jiems tarnybines ar drausmines nuobaudas;
+8) priima į pareigas ir atleidžia iš jų Valstybinės darbo inspekcijos valstybės tarnautojus, priima ir atleidžia darbuotojus, dirbančius pagal darbo sutartis, juos skatina ir skiria Valstybinės darbo inspekcijos valstybės tarnautojams tarnybines nuobaudas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -537,7 +308,10 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
-3) nustatyta tvarka dalyvauti Vyriausybės posėdžiuose ir pareikšti savo nuomonę, kai svarstomi su Valstybinės darbo inspekcijos kompetencija susiję klausimai;
+3) dalyvauti Vyriausybės posėdžiuose, kai svarstomi su Valstybinės darbo inspekcijos kompetencija susiję klausimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -585,9 +359,10 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-5) tiriant įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas, iš darbdavių gauti jų tyrimui reikiamus duomenis ir dokumentus, o iš darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų ir liudytojų – paaiškinimus dėl įvykių darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo arba susirgimų profesinėmis ligomis aplinkybių ir priežasčių, taip pat prireikus skirti darbuotojų saugos ir sveikatos ekspertizes. Norminių teisės aktų nustatyta tvarka iš sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų gauti papildomą informaciją;
+5) tiriant įvykius darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingus atsitikimus pakeliui į darbą ar iš darbo, profesines ligas, iš darbdavių gauti jų tyrimui reikiamus duomenis ir dokumentus, o iš darbdaviams atstovaujančių asmenų, darbdavių įgaliotų asmenų, darbuotojų ir liudytojų – paaiškinimus dėl įvykių darbe, dėl kurių darbuotojai patyrė žalą sveikatai, nelaimingų atsitikimų pakeliui į darbą ar iš darbo arba susirgimų profesinėmis ligomis aplinkybių ir priežasčių, taip pat prireikus skirti darbuotojų saugos ir sveikatos ekspertizes. Iš sveikatos priežiūros įstaigų, teisėsaugos ir kitų institucijų gauti papildomą informaciją; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
 
 
@@ -669,7 +444,10 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
-5) nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nustatyta tvarka surašyti protokolus, reikalavimus, aktus ir kitokius patvirtintos formos dokumentus;
+5) nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, surašyti protokolus, reikalavimus, aktus ir kitokius patvirtintos formos dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -719,10 +497,12 @@ Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
 10 straipsnis. Valstybinės darbo inspekcijos inspektorių veiksmų ir sprendimų apskundimas 
 
 
-Valstybinės darbo inspekcijos inspektorių veiksmai ir sprendimai gali būti skundžiami vyriausiajam valstybiniam darbo inspektoriui arba Administracinių bylų teisenos įstatymo nustatyta tvarka administraciniam teismui. Vyriausiojo valstybinio darbo inspektoriaus sprendimai gali būti skundžiami administraciniam teismui. 
+Valstybinės darbo inspekcijos inspektorių veiksmai ir sprendimai gali būti skundžiami vyriausiajam valstybiniam darbo inspektoriui arba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka administraciniam teismui. Vyriausiojo valstybinio darbo inspektoriaus sprendimai gali būti skundžiami administraciniam teismui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
-
-
 
 
 
@@ -755,7 +535,10 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-4. Valstybinės darbo inspekcijos inspektoriai, atlikę inspektavimą ir nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimų, nustatyta tvarka surašo patvirtintos formos dokumentus (reikalavimą, protokolą, aktą, nutarimą ir kt.). Jie įteikiami darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui pasirašytinai arba išsiunčiami paštu.
+4. Valstybinės darbo inspekcijos inspektoriai, atlikę inspektavimą ir nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimų, surašo patvirtintos formos dokumentus (reikalavimą, protokolą, aktą, nutarimą ir kt.). Jie įteikiami darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui pasirašytinai arba išsiunčiami paštu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -765,7 +548,10 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-6. Valstybinės darbo inspekcijos inspektorių reikalavimai ir nurodymai yra privalomi. Asmenys, nevykdantys Valstybinės darbo inspekcijos inspektorių reikalavimų, atsako įstatymų nustatyta tvarka.
+6. Valstybinės darbo inspekcijos inspektorių reikalavimai ir nurodymai yra privalomi. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+ 
 
 
 
@@ -939,15 +725,12 @@ TARPVALSTYBINIS PRAŠYMŲ DĖL FINANSINIŲ ADMINISTRACINIŲ SANKCIJŲ IR (AR) BA
 124 straipsnis. Procedūros sustabdymas
 
 
-1. Jeigu vykdant prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo atsakovas ar suinteresuotoji šalis prašančiosios institucijos valstybėje narėje užginčija arba apskundžia finansinę administracinę sankciją ir (ar) baudą ir (arba) pagrindinį reikalavimą, Valstybinė darbo inspekcija sustabdo tarpvalstybinę paskirtos finansinės administracinės sankcijos ir (ar) baudos vykdymo procedūrą iki tol, kol valstybės narės atitinkama kompetentinga įstaiga ar institucija šiuo klausimu priims sprendimą.
+Jeigu vykdant prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo atsakovas ar suinteresuotoji šalis prašančiosios institucijos valstybėje narėje užginčija arba apskundžia finansinę administracinę sankciją ir (ar) baudą, ir (arba) pagrindinį reikalavimą, Valstybinė darbo inspekcija sustabdo tarpvalstybinę paskirtos finansinės administracinės sankcijos ir (ar) baudos vykdymo procedūrą iki tol, kol valstybės narės atitinkama kompetentinga įstaiga ar institucija šiuo klausimu priims sprendimą. 
 
 
-
-
-2. Ginčai dėl Valstybinės darbo inspekcijos taikytų priemonių nagrinėjant prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo nagrinėjami Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
-
-
 
 
 
@@ -1053,7 +836,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
  
 
 
@@ -1061,6 +844,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
+ 
 Lietuvos Respublikos
 valstybinės darbo inspekcijos
 įstatymo
@@ -1087,6 +871,8 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
+ 
+ 
 Pakeitimai:
  
 1.
@@ -1173,3 +959,8 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-855, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20337
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 4, 5, 6, 7, 8, 9, 10, 11 ir 12-4 straipsnių pakeitimo įstatymas
