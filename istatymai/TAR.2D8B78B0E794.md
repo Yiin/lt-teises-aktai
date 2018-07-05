@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -169,7 +169,6 @@ b) A2 lygio – pareigybės, kurioms būtinas ne žemesnis kaip aukštasis unive
 
 
 5) darbuotojai, kurių pareigybės priskiriamos D lygiui (toliau – darbininkai).
- 
  
 
 
@@ -620,7 +619,9 @@ Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos kultūros ministras, Liet
 17 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šio įstatymo 8 straipsnis ir 5 priedas netenka galios 2018 m. rugpjūčio 31 d. 
+1. Neteko galios nuo 2018-07-05
+Straipsnio dalies naikinimas:
+Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
 Straipsnio dalies pakeitimai:
 Nr. XIII-599, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12171
  
@@ -3900,3 +3901,8 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 2, 3, 4 ir 5 priedų pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 2, 3, 4, 7, 8, 14, 17 straipsnių ir 5 priedo pakeitimo įstatymas
