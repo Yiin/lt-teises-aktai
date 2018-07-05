@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d9afe780670911e7b85cfdc787069b42"
 
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 straipsnių pakeitimo ir Įstatymo papildymo 5-1,  56-3 straipsniais įstatymas
 
+Suvestinė redakcija nuo 2018-07-05
+ 
+Įstatymas paskelbtas: TAR 2017-07-12, i. k. 2017-12081
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŠVIETIMO ĮSTATYMO NR. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 51, 563 STRAIPSNIAIS
 ĮSTATYMAS
@@ -607,17 +614,33 @@ Pakeisti 68 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-6. Tais atvejais, kai valstybinė ar savivaldybės švietimo įstaiga (išskyrus aukštąsias mokyklas) buvo reorganizuota arba pasikeitė švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, tai į darbo stažą įskaičiuojamas ir darbo vienos iš reorganizuotų švietimo įstaigų vadovu stažas iki švietimo įstaigos reorganizavimo ar darbo švietimo įstaigos vadovu stažas iki šios švietimo įstaigos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens pasikeitimo.
+6. Jeigu valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovas atsisako dalyvauti šio straipsnio 5 dalyje nustatyta tvarka organizuojamame viešajame konkurse švietimo įstaigos vadovo pareigoms eiti arba jo nelaimi, su juo darbo sutartis gali būti nutraukta tik tuo atveju, kai savininko teises ir pareigas įgyvendinančios institucijos įsteigtose įstaigose nėra laisvos darbo vietos, atitinkančios švietimo įstaigos vadovo pareigas ėjusio asmens išsilavinimą, kvalifikaciją ar gebėjimus. Jeigu švietimo įstaigos vadovas nesutinka būti priimtas į jam siūlomą laisvą darbo vietą arba laisvos darbo vietos nėra, pareigas pradėjus eiti konkursą laimėjusiam naujam švietimo įstaigos vadovui, jis atleidžiamas iš švietimo įstaigos vadovo pareigų vadovaujantis Darbo kodekso nuostatomis dėl darbo sutarties nutraukimo darbdavio iniciatyva be darbuotojo kaltės. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1399, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11326
+ 
 
 
 
 
-7. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos švietimo įstatymo 51 straipsnio 1 punkte įtvirtinta nuostata taikoma tais atvejais, kai apkaltinamasis teismo nuosprendis buvo priimtas įsigaliojus šiam įstatymui. Šio įstatymo 51 straipsnio 2 punkte įtvirtinta nuostata taikoma tais atvejais, kai asmuo buvo atleistas iš tarnybos už tarnybinį nusižengimą ar iš darbo už darbo pareigų pažeidimus įsigaliojus šiam įstatymui. 
+7. Tais atvejais, kai valstybinė ar savivaldybės švietimo įstaiga (išskyrus aukštąsias mokyklas) buvo reorganizuota arba pasikeitė švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, tai į darbo stažą įskaičiuojamas ir darbo vienos iš reorganizuotų švietimo įstaigų vadovu stažas iki švietimo įstaigos reorganizavimo ar darbo švietimo įstaigos vadovu stažas iki šios švietimo įstaigos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens pasikeitimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1399, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11326
+ 
 
 
 
 
-8. Šio įstatymo 11 straipsnyje išdėstyto Lietuvos Respublikos švietimo įstatymo 59 straipsnio 3 dalies ir šio straipsnio 3, 4 ir 5 dalių nuostatos netaikomos mokyklų vadovams, kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą senatvės pensiją yra likę ne daugiau kaip penkeri metai, jeigu jų metų veiklos ataskaita yra įvertinama gerai arba labai gerai.
+8. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos švietimo įstatymo 51 straipsnio 1 punkte įtvirtinta nuostata taikoma tais atvejais, kai apkaltinamasis teismo nuosprendis buvo priimtas įsigaliojus šiam įstatymui. Šio įstatymo 51 straipsnio 2 punkte įtvirtinta nuostata taikoma tais atvejais, kai asmuo buvo atleistas iš tarnybos už tarnybinį nusižengimą ar iš darbo už darbo pareigų pažeidimus įsigaliojus šiam įstatymui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1399, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11326
+ 
+
+
+
+
+9. Valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovai, kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą senatvės pensiją yra likę ne daugiau kaip penkeri metai, toliau eina tos švietimo įstaigos vadovo pareigas penkerius metus nuo šio įstatymo įsigaliojimo dienos. Jeigu švietimo įstaigos vadovas nesutinka dirbti pakeistomis darbo sąlygomis, jis atleidžiamas iš švietimo įstaigos vadovo pareigų vadovaujantis Darbo kodekso nuostatomis dėl darbo sutarties nutraukimo darbdavio iniciatyva be darbuotojo kaltės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1399, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11326
  
 
 
@@ -629,3 +652,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1399, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11326
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 56-3 straipsniais įstatymo Nr. XIII-592 15 straipsnio pakeitimo įstatymas
