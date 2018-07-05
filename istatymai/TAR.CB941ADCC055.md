@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -204,9 +204,10 @@ Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 
 
 
-17) prireikus atlieka patikrinimus prieš išduodant ar pakeičiant taršos integruotos prevencijos ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą reglamentuojančių teisės aktų reikalavimų pažeidimus.
+17) prireikus atlieka patikrinimus prieš išduodant ar pakeičiant taršos integruotos prevencijos ir kontrolės leidimus, taršos leidimus, taip pat prireikus ir jeigu būtina ištirti su aplinkosauga susijusius skundus, ekologinius įvykius, jų priežastis ir pasekmes, teršimo incidentus ir kitus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus, nustatyti, ar laikomasi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų.
 Straipsnio punkto pakeitimai:
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
  
 
 
@@ -564,7 +565,7 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
 
 
-18) įstatymų nustatyta tvarka nagrinėti bylas dėl ekonominių sankcijų skyrimo ir skirti ekonomines sankcijas. 
+18) įstatymų nustatyta tvarka nagrinėti bylas dėl ekonominių sankcijų skyrimo ir skirti ekonomines sankcijas;
 Papildyta straipsnio punktu:
 Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
  
@@ -1105,12 +1106,18 @@ Aplinkai kenksmingą veiklą sustabdyti galima šiais atvejais:
 
 
 
-2) jei dėl fizinio ar juridinio asmens vykdomo vandens, aplinkos oro, žemės ar kitų aplinkos komponentų teršimo masiškai žūsta gyvūnai ar augalai;
+2) jei dėl taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo sąlygų nesilaikymo kyla grėsmė, kad bus padarytas tiesioginis reikšmingas neigiamas poveikis aplinkai, ir kitais atvejais, jei dėl fizinio ar juridinio asmens vykdomo vandens, aplinkos oro, žemės ar kitų aplinkos komponentų teršimo masiškai žūsta gyvūnai ar augalai;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
 
 
 
 
-3) jei fizinis ar juridinis asmuo teršia aplinkos orą, žemę, vandenį ir tai kelia tiesioginį pavojų žmonių sveikatai ar gyvybei.
+3) jei dėl taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo sąlygų nesilaikymo kyla tiesioginis pavojus žmonių sveikatai ar gyvybei ir kitais atvejais, jei fizinis ar juridinis asmuo teršia aplinkos orą, žemę, vandenį ir tai kelia tiesioginį pavojų žmonių sveikatai ar gyvybei.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
 
 
 
@@ -2293,3 +2300,8 @@ Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 3, 6, 11, 27, 35, 37, 48 straipsnių pakeitimo ir 30 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 3, 12, 15, 16, 20, 25 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
