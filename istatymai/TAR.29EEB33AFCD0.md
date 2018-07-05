@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -2694,7 +2694,10 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito įstaigose, ir kitu turtu;
+8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
+ 
 
 
 
@@ -3511,3 +3514,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 22, 43, 45, 46, 49, 52, 54, 55, 56 straipsnių pakeitimo ir 48, 50 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir 60 straipsnių pakeitimo įstatymo Nr. XIII-1099 1 ir 2 straipsnių pakeitimo įstatymas
