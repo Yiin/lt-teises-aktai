@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/91429b4049e511e8ade598b2394a491d"
 
 # Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-07-05
+ 
+Įstatymas paskelbtas: TAR 2018-04-27, i. k. 2018-06741
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KREDITO UNIJŲ ĮSTATYMO NR. I-796 49, 60 IR 66 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -47,12 +54,14 @@ Vilnius
 
 
 
-„3. Kredito unija privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su kredito unijos teikiamomis finansinėmis paslaugomis ir (arba) su klientais sudarytomis sutartimis, kuriomis kredito unija galėjo pažeisti sutarties su klientu ar teisės aktų reikalavimus (toliau – skundas). Kredito unija privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir kredito unija. Išskirtiniais atvejais, kai dėl priežasčių, kurių kredito unija negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų. Kredito unija klientų skundus nagrinėja neatlygintinai.“
+„3. Kredito unija privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su kredito unijos teikiamomis finansinėmis paslaugomis (toliau – skundas). Kredito unija privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir kredito unija. Išskirtiniais atvejais, kai dėl priežasčių, kurių kredito unija negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Kredito unija klientų skundus nagrinėja neatlygintinai.“
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
  
-
-
-
-
 
 
 
@@ -67,14 +76,16 @@ Pakeisti 60 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-„8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“.
+„8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“ 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
  
-
-
-
-
-
-
 
 
 
@@ -135,3 +146,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių pakeitimo įstatymo Nr. XIII-1100 1 ir 2 straipsnių pakeitimo įstatymas
