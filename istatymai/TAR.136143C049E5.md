@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/136143c049e511e8ade598b2394a491d"
 
 # Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir 77 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-07-05
+ 
+Įstatymas paskelbtas: TAR 2018-04-27, i. k. 2018-06739
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 BANKŲ ĮSTATYMO NR. IX-2085 56, 72 IR 77 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -25,22 +32,24 @@ Vilnius
  
 
 
-1 straipsnis. 56 straipsnio pakeitimas 
+1 straipsnis. 56 straipsnio pakeitimas
 
 
-Pakeisti 56 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti 56 straipsnio 4 dalį ir ją išdėstyti taip: 
 
 
 
 
-„4. Bankas privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su banko teikiamomis finansinėmis paslaugomis ir (arba) su klientais sudarytomis sutartimis, kuriomis bankas galėjo pažeisti sutarties su klientu ar teisės aktų reikalavimus (toliau – skundas). Bankas privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir bankas. Išskirtiniais atvejais, kai dėl priežasčių, kurių bankas negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų. Bankas klientų skundus nagrinėja neatlygintinai.“
+„4. Bankas privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su banko teikiamomis finansinėmis paslaugomis (toliau – skundas). Bankas privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir bankas. Išskirtiniais atvejais, kai dėl priežasčių, kurių bankas negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą aiškiai nurodęs atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Bankas klientų skundus nagrinėja neatlygintinai.“ 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
  
-
-
-
-
-
-
 
 
 
@@ -53,7 +62,7 @@ Pakeisti 56 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-„10) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“.
+„10) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“.
 
 
 
@@ -67,14 +76,16 @@ Pakeisti 56 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-„2) užsienio banko filialui laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“.
+„2) užsienio banko filialui laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“ 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
  
-
-
-
-
-
-
 
 
 
@@ -140,3 +151,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir 77 straipsnių pakeitimo įstatymo Nr. XIII-1098 1 ir 2 straipsnių pakeitimo įstatymas
