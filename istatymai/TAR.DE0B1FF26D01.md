@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-07-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -2931,7 +2931,10 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
 
 
-8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito įstaigose, ir kitu turtu;
+8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose centrinėje kredito unijoje bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
+ 
 
 
 
@@ -3891,3 +3894,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 27, 54, 55, 57, 59, 60, 61, 62, 64 straipsnių pakeitimo ir 56, 58 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių pakeitimo įstatymo Nr. XIII-1100 1 ir 2 straipsnių pakeitimo įstatymas
