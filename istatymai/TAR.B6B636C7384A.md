@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-07-15
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -3818,7 +3818,10 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 
 
 
-10) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;
+10) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
+ 
 
 
 
@@ -3853,7 +3856,10 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 
 
 
-2) užsienio banko filialui laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;
+2) užsienio banko filialui laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke bei kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
+ 
 
 
 
@@ -5287,3 +5293,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir 77 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 15, 34, 35, 59, 62, 64, 65, 67, 69, 70-1, 72, 73, 74, 75-1 straipsnių, priedo pakeitimo ir 65-1, 66, 68, 68-1 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir 77 straipsnių pakeitimo įstatymo Nr. XIII-1098 1 ir 2 straipsnių pakeitimo įstatymas
