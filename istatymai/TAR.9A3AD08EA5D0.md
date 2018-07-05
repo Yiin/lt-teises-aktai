@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-02-01 iki 2018-07-04
+Suvestinė redakcija nuo 2018-07-05 iki 2018-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -3629,32 +3629,58 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-2. Švietimo įstaigos vadovu gali būti tik nepriekaištingos reputacijos asmuo. 
+2. Švietimo įstaigos vadovu gali būti tik nepriekaištingos reputacijos asmuo, kuriam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimas arba jam prilygintas vertinimas švietimo ir mokslo ministro nustatyta tvarka, jeigu asmuo vienoje švietimo įstaigoje vadovo pareigas ėjo ne mažiau kaip 20 metų. Asmuo priimamas į švietimo įstaigos vadovo pareigas švietimo ir mokslo ministro nustatyta tvarka, patikrinus jo gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-3. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo penkerių metų kadencijai, jis iš pareigų atleidžiamas, išskyrus atvejus, kai jis laimi viešą konkursą švietimo įstaigos vadovo pareigoms eiti ir skiriamas į švietimo įstaigos vadovo pareigas naujai kadencijai. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti.
+3. Vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimą atlieka švietimo ir mokslo ministro įgaliota įstaiga, kurios savininko teises ir pareigas įgyvendina Švietimo ir mokslo ministerija. Vadovavimo valstybinei ir savivaldybės švietimo įstaigai kompetencijų vertinimas apima asmens bendrųjų ir specialiųjų gebėjimų bei žinių, reikalingų vadovavimo valstybinei ir savivaldybės švietimo įstaigai funkcijoms atlikti, vertinimą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-4. Likus ne mažiau kaip 6 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijos pabaigos, švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti.
+4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo penkerių metų kadencijai, jis iš pareigų atleidžiamas, išskyrus atvejus, kai jis laimi viešą konkursą švietimo įstaigos vadovo pareigoms eiti ir skiriamas į švietimo įstaigos vadovo pareigas naujai kadencijai. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-5. Švietimo ir mokslo ministras nustato valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų kvalifikacinius reikalavimus, viešo konkurso švietimo įstaigų vadovų pareigoms eiti tvarką ir įgalioja įstaigą, kurios savininko teises ir pareigas įgyvendina Švietimo ir mokslo ministerija, atlikti kandidatų kompetencijų vertinimą. 
+5. Likus ne mažiau kaip 6 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijos pabaigos, švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-6. Į nevalstybinių švietimo įstaigų vadovų pareigas asmenys skiriami ir iš jų atleidžiami įstatymų nustatyta tvarka.
+6. Švietimo ir mokslo ministras nustato valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų kvalifikacinius reikalavimus ir viešo konkurso švietimo įstaigų vadovų pareigoms eiti tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-7. Švietimo įstaigos vadovas:
+7. Į nevalstybinių švietimo įstaigų vadovų pareigas asmenys skiriami ir iš jų atleidžiami įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
+
+
+
+
+8. Švietimo įstaigos vadovas:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 1) vadovauja švietimo įstaigos strateginio plano ir metinių veiklos planų, švietimo programų rengimui, rekomendacijų dėl smurto prevencijos įgyvendinimo mokykloje priemonių įgyvendinimui, juos tvirtina, vadovauja jų vykdymui;
@@ -3714,52 +3740,90 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-8. Švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija atsako už informacijos apie švietimo įstaigos vadovo metų veiklos ataskaitos vertinimą pateikimą viešai.
+9. Švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija atsako už informacijos apie švietimo įstaigos vadovo metų veiklos ataskaitos vertinimą pateikimą viešai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-9. Jeigu pasibaigus penkerių metų kadencijai švietimo įstaigos vadovas, kurio visos metų veiklos ataskaitos buvo įvertintos gerai ir labai gerai, atsisako dalyvauti viešame konkurse tos švietimo įstaigos vadovo pareigoms eiti arba jo nelaimi, esant galimybei, jam turi būti pasiūlytos iki paskyrimo švietimo įstaigos vadovu eitos arba kitos pareigos atitinkamai valstybės ar savivaldybės įsteigto juridinio asmens, savininko teises ir pareigas įgyvendinančios Vyriausybės ar jos įgaliotos institucijos arba savivaldybės tarybos ar savivaldybės vykdomosios institucijos įsteigtoje įstaigoje.
+10. Jeigu pasibaigus penkerių metų kadencijai švietimo įstaigos vadovas, kurio visos metų veiklos ataskaitos buvo įvertintos gerai ir labai gerai, atsisako dalyvauti viešame konkurse tos švietimo įstaigos vadovo pareigoms eiti arba jo nelaimi, esant galimybei, jam turi būti pasiūlytos iki paskyrimo švietimo įstaigos vadovu eitos arba kitos pareigos atitinkamai valstybės ar savivaldybės įsteigto juridinio asmens, savininko teises ir pareigas įgyvendinančios Vyriausybės ar jos įgaliotos institucijos arba savivaldybės tarybos ar savivaldybės vykdomosios institucijos įsteigtoje įstaigoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-10. Jeigu su valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovu nutraukiama darbo sutartis dėl šio straipsnio 16 dalyje nurodytų priežasčių, ne vėliau kaip per 10 darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas švietimo įstaigos vadovo pareigoms eiti. Savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų vadovų atveju – savivaldybės taryba, priėmusi (priėmęs) sprendimą dėl darbo sutarties nutraukimo, paskiria nepriekaištingos reputacijos asmenį laikinai eiti švietimo įstaigos vadovo pareigas.
+11. Jeigu su valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovu nutraukiama darbo sutartis dėl šio straipsnio 16 dalyje nurodytų priežasčių, ne vėliau kaip per 10 darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas švietimo įstaigos vadovo pareigoms eiti. Savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų vadovų atveju – savivaldybės taryba, priėmusi (priėmęs) sprendimą dėl darbo sutarties nutraukimo, paskiria nepriekaištingos reputacijos asmenį laikinai eiti švietimo įstaigos vadovo pareigas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-11. Savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją iš 7 narių. Į viešo konkurso bendrojo ugdymo mokyklų ir ikimokyklinio ugdymo įstaigų vadovo pareigoms eiti komisiją po vieną narį siūlo skirti savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), Švietimo ir mokslo ministerija, atitinkamo tipo švietimo įstaigų ar vadovų asociacija, taip pat savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) kviečia vieną švietimo įstaigos socialinių partnerių atstovą, 3 narius siūlo skirti mokyklos bendruomenė (po vieną atstovą siūlo skirti tėvai, pedagogai, mokiniai – jeigu jie nėra sukakę 16 metų, jiems atstovauja tėvai). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti konkurso komisijos nariu gali būti tik nepriekaištingos reputacijos asmuo. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje.
+12. Savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją iš 7 narių. Į viešo konkurso bendrojo ugdymo mokyklų ir ikimokyklinio ugdymo įstaigų vadovo pareigoms eiti komisiją po vieną narį siūlo skirti savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), Švietimo ir mokslo ministerija, atitinkamo tipo švietimo įstaigų ar vadovų asociacija, taip pat savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) kviečia vieną švietimo įstaigos socialinių partnerių atstovą, 3 narius siūlo skirti mokyklos bendruomenė (po vieną atstovą siūlo skirti tėvai, pedagogai, mokiniai – jeigu jie nėra sukakę 16 metų, jiems atstovauja tėvai). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti konkurso komisijos nariu gali būti tik nepriekaištingos reputacijos asmuo. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-12. Viešo konkurso švietimo pagalbos ir kitos švietimo įstaigos vadovo pareigoms eiti komisijos sudarymo tvarkos aprašą tvirtina švietimo ir mokslo ministras.
+13. Viešo konkurso švietimo pagalbos ir kitos švietimo įstaigos vadovo pareigoms eiti komisijos sudarymo tvarkos aprašą tvirtina švietimo ir mokslo ministras.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-13. Viešo konkurso naujai įsteigtos mokyklos vadovo pareigoms eiti komisija sudaroma be mokyklos bendruomenės teikiamų asmenų. Tokiu atveju komisiją sudaro 4 nariai. 
+14. Viešo konkurso naujai įsteigtos mokyklos vadovo pareigoms eiti komisija sudaroma be mokyklos bendruomenės teikiamų asmenų. Tokiu atveju komisiją sudaro 4 nariai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-14. Švietimo įstaigos taryba, švietimo įstaigos vadovo metų veiklos ataskaitą įvertinusi nepatenkinamai, kreipiasi į savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) ir prašo jos (jo) įvertinti švietimo įstaigos vadovo darbą. Jeigu švietimo įstaigos vadovo metų veiklos ataskaita įvertinama nepatenkinamai dvejus metus iš eilės, savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų vadovų atveju – savivaldybės taryba priima sprendimą atleisti švietimo įstaigos vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo švietimo įstaigos vadovo metų veiklos ataskaitos įvertinimo, neišmokant jam išeitinės išmokos. 
+15. Švietimo įstaigos taryba, švietimo įstaigos vadovo metų veiklos ataskaitą įvertinusi nepatenkinamai, kreipiasi į savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) ir prašo jos (jo) įvertinti švietimo įstaigos vadovo darbą. Jeigu švietimo įstaigos vadovo metų veiklos ataskaita įvertinama nepatenkinamai dvejus metus iš eilės, savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų vadovų atveju – savivaldybės taryba priima sprendimą atleisti švietimo įstaigos vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo švietimo įstaigos vadovo metų veiklos ataskaitos įvertinimo, neišmokant jam išeitinės išmokos. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-15. Tais atvejais, kai švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo arba savivaldybės meras gauna informaciją (asmens skundą, informaciją apie tai, kad švietimo įstaigos vadovas įtariamas ar kaltinamas padaręs nusikalstamą veiką, visuomenės informavimo priemonėse paskelbtą ar kitokią informaciją) apie tai, kad švietimo įstaigos vadovas galimai padarė šiurkštų darbo pareigų pažeidimą arba nėra nepriekaištingos reputacijos, ši institucija arba jos įgaliotas asmuo ne vėliau kaip per 3 darbo dienas nuo tokios informacijos gavimo dienos privalo pradėti tarnybinį patikrinimą. Tarnybinių patikrinimų atlikimo tvarką nustato švietimo ir mokslo ministras. Tarnybinio patikrinimo laikotarpiu švietimo įstaigos vadovas privalo būti nušalintas nuo pareigų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens sprendimu arba atitinkamai – savivaldybės mero potvarkiu. Savivaldybės meras apie pradėtą tarnybinį patikrinimą, švietimo įstaigos vadovo, kuriam pradėtas tarnybinis patikrinimas, nušalinimą nuo pareigų, švietimo įstaigos darbuotoją, paskirtą laikinai eiti tos įstaigos vadovo pareigas, nedelsdamas raštu informuoja savivaldybės tarybą.
+16. Tais atvejais, kai švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo arba savivaldybės meras gauna informaciją (asmens skundą, informaciją apie tai, kad švietimo įstaigos vadovas įtariamas ar kaltinamas padaręs nusikalstamą veiką, visuomenės informavimo priemonėse paskelbtą ar kitokią informaciją) apie tai, kad švietimo įstaigos vadovas galimai padarė šiurkštų darbo pareigų pažeidimą arba nėra nepriekaištingos reputacijos, ši institucija arba jos įgaliotas asmuo ne vėliau kaip per 3 darbo dienas nuo tokios informacijos gavimo dienos privalo pradėti tarnybinį patikrinimą. Tarnybinių patikrinimų atlikimo tvarką nustato švietimo ir mokslo ministras. Tarnybinio patikrinimo laikotarpiu švietimo įstaigos vadovas privalo būti nušalintas nuo pareigų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens sprendimu arba atitinkamai – savivaldybės mero potvarkiu. Savivaldybės meras apie pradėtą tarnybinį patikrinimą, švietimo įstaigos vadovo, kuriam pradėtas tarnybinis patikrinimas, nušalinimą nuo pareigų, švietimo įstaigos darbuotoją, paskirtą laikinai eiti tos įstaigos vadovo pareigas, nedelsdamas raštu informuoja savivaldybės tarybą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-16. Jeigu tarnybinio patikrinimo metu nustatoma, kad švietimo įstaigos vadovas padarė šiurkštų darbo pareigų pažeidimą, kaip jis apibrėžtas Lietuvos Respublikos darbo kodekse, švietimo įstaigos vadovas atleidžiamas savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens sprendimu. Jeigu toks sprendimas nepriimamas, švietimo ir mokslo ministras arba Vyriausybės atstovas per 5 darbo dienas nuo atlikto tarnybinio patikrinimo dienos skundžia savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) arba jos (jo) įgalioto asmens ar savivaldybių švietimo įstaigų vadovų atveju – savivaldybės tarybos neveikimą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Jeigu tarnybinio patikrinimo metu nenustatoma, kad buvo padarytas šiurkštus darbo pareigų pažeidimas, švietimo įstaigos vadovas grąžinamas į eitas pareigas. Už švietimo įstaigos vadovo nušalinimo nuo pareigų laikotarpį valstybės švietimo įstaigos vadovui darbo užmokestis nemokamas. Jeigu švietimo įstaigos vadovas nuo pareigų nušalinamas nepagrįstai ar nepasitvirtina aplinkybės, lėmusios jo nušalinimą, asmuo grąžinamas į eitas pareigas ir per 10 darbo dienų nuo dienos, kai švietimo įstaigos vadovas vėl pradėjo eiti savo pareigas, jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo pareigų.
+17. Jeigu tarnybinio patikrinimo metu nustatoma, kad švietimo įstaigos vadovas padarė šiurkštų darbo pareigų pažeidimą, kaip jis apibrėžtas Lietuvos Respublikos darbo kodekse, švietimo įstaigos vadovas atleidžiamas savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens sprendimu. Jeigu toks sprendimas nepriimamas, švietimo ir mokslo ministras arba Vyriausybės atstovas per 5 darbo dienas nuo atlikto tarnybinio patikrinimo dienos skundžia savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) arba jos (jo) įgalioto asmens ar savivaldybių švietimo įstaigų vadovų atveju – savivaldybės tarybos neveikimą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Jeigu tarnybinio patikrinimo metu nenustatoma, kad buvo padarytas šiurkštus darbo pareigų pažeidimas, švietimo įstaigos vadovas grąžinamas į eitas pareigas. Už švietimo įstaigos vadovo nušalinimo nuo pareigų laikotarpį valstybės švietimo įstaigos vadovui darbo užmokestis nemokamas. Jeigu švietimo įstaigos vadovas nuo pareigų nušalinamas nepagrįstai ar nepasitvirtina aplinkybės, lėmusios jo nušalinimą, asmuo grąžinamas į eitas pareigas ir per 10 darbo dienų nuo dienos, kai švietimo įstaigos vadovas vėl pradėjo eiti savo pareigas, jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo pareigų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 
 
-17. Aukštosios mokyklos vadovo skyrimą į pareigas, jo įgaliojimus ir atsakomybę nustato Mokslo ir studijų įstatymas.
+18. Aukštosios mokyklos vadovo skyrimą į pareigas, jo įgaliojimus ir atsakomybę nustato Mokslo ir studijų įstatymas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
+
+
+
+
+19. Buvusiam švietimo įstaigos vadovui (išskyrus švietimo įstaigos vadovus, kurie turi teisę gauti visą senatvės pensiją), atleistam iš pareigų dėl pareigybės panaikinimo, per 6 mėnesius nuo atleidimo iš pareigų dienos Vyriausybės nustatyta tvarka siūloma pretenduoti į kitos švietimo įstaigos (išskyrus aukštosios mokyklos) vadovo pareigas, jeigu jis jau yra laimėjęs viešą konkursą švietimo įstaigos vadovo pareigoms eiti po 2018 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+ 
 
 
 Straipsnio pakeitimai:
@@ -4530,3 +4594,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 8, 9 ir 47 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
