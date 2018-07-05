@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/50c0a12049e511e8ade598b2394a491d"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir 60 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-07-05
+ 
+Įstatymas paskelbtas: TAR 2018-04-27, i. k. 2018-06740
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 CENTRINIŲ KREDITO UNIJŲ ĮSTATYMO NR. VIII-1682 40, 54 IR 60 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -33,14 +40,16 @@ Papildyti 40 straipsnį 4 dalimi:
 
 
 
-„4. Centrinė kredito unija privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su centrinės kredito unijos teikiamomis finansinėmis paslaugomis ir (arba) su klientais sudarytomis sutartimis, kuriomis centrinė kredito unija galėjo pažeisti sutarties su klientu ar teisės aktų reikalavimus (toliau – skundas). Centrinė kredito unija privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir centrinė kredito unija. Išskirtiniais atvejais, kai dėl priežasčių, kurių centrinė kredito unija negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų. Centrinė kredito unija klientų skundus nagrinėja neatlygintinai.“
+„4. Centrinė kredito unija privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su centrinės kredito unijos teikiamomis finansinėmis paslaugomis (toliau – skundas). Centrinė kredito unija privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir centrinė kredito unija. Išskirtiniais atvejais, kai dėl priežasčių, kurių centrinė kredito unija negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Centrinė kredito unija klientų skundus nagrinėja neatlygintinai.“ 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
  
-
-
-
-
-
-
 
 
 
@@ -53,14 +62,16 @@ Pakeisti 54 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 
 
-„8) laikinai apriboti teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“.
+„8) laikinai apriboja teisę disponuoti lėšomis, esančiomis sąskaitose Lietuvos banke ir kitose kredito, mokėjimo ir elektroninių pinigų įstaigose, ir kitu turtu;“ 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
  
-
-
-
-
-
-
 
 
 
@@ -126,3 +137,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1306, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11311
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir 60 straipsnių pakeitimo įstatymo Nr. XIII-1099 1 ir 2 straipsnių pakeitimo įstatymas
